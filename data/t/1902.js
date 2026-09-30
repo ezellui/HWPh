@@ -1,0 +1,31 @@
+HWPH.put("t/1902",
+{
+ "b":"Māyā. Im Veda zeichnen sich zwei Bedeutungsmomente ab: 1. «wunderbare schöpferische Macht», vor allem bei den Göttern, und 2. «Täuschungs-, Verstellungs-, Zaubermacht», vor allem bei den Dämonen . – Im buddhistischen Sprachgebrauch ist das Wort auf sein negatives Bedeutungsmoment reduziert: ‹M.› bedeutet hier entweder «Täuschung, Betrug» (als menschliches Verhalten oder Gesinnung) oder «Zaubertrug» (als eine bestimmte Art von Sinnestäuschung) . In letzter Bedeutung wird die M. im Mahāyāna-Buddhismus häufig (neben anderen Sinnestäuschungen) als Gleichnis für die Weltillusion verwendet . \nIn theistischen Richtungen des Hinduismus ist demgegenüber das positive Moment der M. erhalten, und das Wort wird zum Terminus für die Weltschöpfungskraft des höchsten Gottes . Diese göttliche Schöpfungskraft ist häufig zugleich auch der Welturstoff und kann dann mit der Urmaterie (prakṛti) des Sāṅkhya gleichgesetzt werden . Oft wird sie als Gemahlin des höchsten Gottes personifiziert . Auch der theistische M.-Begriff enthält aber (vor allem in viṣṅuitischen Richtungen) häufig, wenn nicht immer, das Moment des Täuschenden: Neben oder zugleich mit der Funktion der Weltschöpfung hat die M. den Zweck, die Einzelseelen hinsichtlich deren eigenen sowie Viṣṅus Wesens zu verblenden und dadurch in die Welt zu binden . Von daher kann dann auch die Weltschöpfung zu einem Blendwerk, zu einer Illusion, werden . In diesen Illusionismus kann auch die Individualität der Einzelseelen einbezogen werden: Es kann dann heißen, der höchste Gott verblende sich mit seiner M. gleichsam selbst und erlebe sich als in die Welt verstrickte Individualseele . \nBei den Advaitins GAUḌAPĀDA und ŚAṄKARA ist neben diesem M.-Begriff des illusionistischen Viṣṅuismus auch der des Mahāyāna-Buddhismus spürbar . Im späteren Advaita-Vedānta löst sich die M. oft (aber nicht immer) aus ihrer Verbindung mit einem Schöpfergott und wird, als illusorische und illusionsbildende Urwesenheit, identisch mit der Avidyā . Wenn doch ein Unterschied gemacht wird, bezeichnet ‹M.› meist den «zerstreuenden», die Welt projizierenden Aspekt der illusorischen Urwesenheit . In den späteren viṣṅuitischen Vedāntaschulen läßt sich eine Reaktion gegen den Illusionismus und die illusionistische Auffassung des M.-Begriffes beobachten. RĀMĀNUJA z.B. sagt, die M. sei absolut real; er bestimmt den Sinn des Wortes als dasjenige, «das fähig ist, wunderbare Wirkungen hervorzubringen» . \nDer Begriff ‹M.› spielt auch in den śivaitischen Systemen eine wichtige Rolle . Im monistischen Śivaismus Kaśmirs etwa ist die M. die freie Selbstverhüllungskraft Śivas, des allmächtigen und allwissenden Gottes, in dessen geistigem Wesen die Fülle des ganzen Universums enthalten ist. Durch die M. bewirkt Siva die Einbildung einer Aufspaltung seiner selbst in Ich (aham) und Dies (idam), in limitierte Subjekte und objektive Welt. Dies geschieht in der Weise, daß zum einen die M. die göttliche Geistigkeit gleichsam ihrer Fülle entleert und ihrer Allwissenheit und Allmacht beraubt, somit in einen dem Tiefschlaf vergleichbaren Zustand der Kontraktion (saṁkoca) und des Nichtmanifestseins (akhyāti) versetzt, und sie sodann mittels aus ihr, der M., emanierender weiterer Wesenheiten in der Form von endlichen Subjekten mit begrenzter Erkenntnis- und Handlungsfähigkeit partiell rekonstituiert; zum anderen geht aus der M. die Urmaterie (prakṛti), aus der sich die objektive Welt entwickelt, hervor . \nSCHOPENHAUER, der als einer der ersten Bestandstücke der indischen Philosophie in das eigene System aufgenommen hat, setzt vielfach das principium individuationis mit dem Schleier der M. gleich, den es zu durchschauen gilt .",
+ "n":"Vgl. L. RENOU: Les origines de la notion de M. dans la spéculation indienne. J. Psychol. norm. path. 41 (1948) 290ff.; J. GONDA: M. T. Philos. 14 (Louvain 1952) 3ff.; Four stud. in the language of the Veda ('s Gravenhage 1959) 119–193; Anm. 1. 22. 321. 337: Lit. \nz.B. Trimśikā 12 d. \nz.B. Madhyamakakārikā VII, 34. \nebda. \nÄlteste Stelle wohl Śvetāśvatara-Upaniṣad IV, 9f. \nebda. \nP. HACKER: Prahlāda. Akad. Wiss. Lit. Mainz (1959) 87f. \nBhagavadgītā VII, 13–15, aber auch schon Śvetāśvatara-Upaniṣad IV, 9. \nz.B. Paramārthasāra des «Ādiśeṣa», Vers 22. 74. \na.O. 32. \nP. HACKER: Eigentümlichkeiten der Lehre und Terminol. Śaṅkaras. Z. dtsch. morgenländ. Ges. 100 (1950) 268ff. \nVgl. oben Art. ‹Avidyā› Anm. 3. 4. \nebda. \nRĀMĀNUJA zu Bhagavadgītā VII, 14. \nE. FRAUWALLNER: Aus der Philos. der śivaitischen Systeme (1962) 8. 22. 28. \nABHINAVAGUPTA: Paramārthasāra 15ff.; Tantrasāra (L'essenza dei Tantra), ital. R. GNOLI (Turin 1960) 83f. 163ff.; Tantrāloka (Luce delle Sacre Scritture), ital. R. GNOLI (Turin 1972) 48f. 313ff.; KṢEMARĀJA, Pratyabhijñāhṛdaya, hg. und übers. J. SINGH (1963) 12. 41ff. \nA. SCHOPENHAUER, Sämtl. Werke, hg. A. HÜBSCHER (21946) 2, 9. 431. 441; 3, 691; 4/II, 270 u.ö.",
+ "l":"O. SCHRADER: M.-Lehre und Kantianismus (1904). – P. DUTT SHASTRĪ: The doctrine of M. (London 1911). – H. ZIMMER: M. (1936). – P. THIEME: Beitr. zur Vedaexegese. Z. dtsch. morgendländ. Ges. 95 (1941) 82ff. – L. RENOU s. Anm. [1]. – P. D. DEVANANDAN: The concept of M. (London 1950). – P. HACKER s. Anm. [11] 268–276. – J. GONDA s. Anm. [1]. – R. REYNA: The concept of M. (Bombay 1962); M. in the philos. of Rāmānuja. Vedanta Kesari Madras 55 (1968/69) 38ff. – R. B. PHILLIPS: M.: an interpret. a.O. 150ff. – P. N. RAO: The concept of M. a.O. 229ff. – R. K. KAW: Concept of M. in Kashmir Śaivism. Ind. philos. and culture 13/2 (1968) 6ff. – E. A. SOLOMON: Avidyā. A problem of truth and reality (Ahmebad 1969). – Weitere Lit. vgl. K. H. POTTER: Encyclop. of ind. philos. 1: Bibliogr. (Delhi 1970) Index s.v. ‹M.›. – Beitr. ferner in fast allen Arbeiten zum Vedanta; vgl. Lit. in Art. ‹Vedānta›.",
+ "au":"L. Schmithausen",
+ "A":["L. Schmithausen"],
+ "cb":[[0,949],[594,949],[1641,949],[2439,949],[2497,950],[3442,950]],
+ "cn":[
+  [0,949],
+  [0,950],
+  [264,950],
+  [285,950],
+  [317,950],
+  [324,950],
+  [375,950],
+  [382,950],
+  [439,950],
+  [510,950],
+  [559,950],
+  [569,950],
+  [679,950],
+  [715,950],
+  [722,950],
+  [757,950],
+  [833,950],
+  [1101,950]
+ ],
+ "cl":[[0,950]]
+}
+);

@@ -1,0 +1,12 @@
+HWPH.put("t/1264",
+{
+ "b":"Herrschaftswissen. H. oder Machtwissen ist – neben Bildungs- und Erlösungs- bzw. Heilswissen – für M. SCHELER eine der drei Formen des Wissens überhaupt; es entspringt einem letztlich biologisch fundierten «Trieb zur Macht», dem «Herrschaftsstreben über den Gang der Natur, die Menschen und Vorgänge der Gesellschaft, den Ablauf der seelischen und organischen Prozesse» . H. wird heute im wesentlichen von den modernen positiven Wissenschaften, den rationalen Techniken und Organisationslehren repräsentiert. \nObschon es soziologisch als Resultat der «ökonomischen Arbeits- und Verkehrsgemeinschaften der vaterrechtlichen, expansiven Kulturen», der «Mischung der Klassen», als «das Kind der Vermählung von Philosophie und Arbeitserfahrung» aufzufassen ist , beschreibt es – wie Scheler gegen A. Comte mit Nachdruck hervorhebt – gegenüber dem Erlösungs-und Bildungswissen keineswegs eine zeitlich spätere, historisch überlegene Phase der Wissensentfaltung, sondern eine «essentielle, dauernde, mit dem Wesen des Menschen selbst gegebene Geisteshaltung» . \nScheler gibt in diesem Zusammenhang der Befürchtung Ausdruck, daß es infolge der Überzüchtung, der einseitigen Entwicklung des H. in der Gegenwart, zu einem «Aufstand der Dinge gegen den Menschen» kommen werde: «Der abendländische, äußere Naturtechnizismus und sein Wissenskorrelat, die positive Wissenschaft, drohen den Menschen in einem Maße in den Mechanismus eben der Sachen, die es zu beherrschen gilt, hineinzuverwickeln, daß dieser Prozeß ohne das Gegengewicht zweier ganz entgegengesetzt gerichteter Wissens- und Machtprinzipien [d.h. des Erlösungs- und Bildungswissens] ... nur im sicheren Untergang der abendländischen Welt enden kann» . Eine tiefgreifende, globale «Neuverteilung der Wissenskultur» , in welcher die – vor allem in asiatischen Kulturen praktizierte – Heilstechnik der Selbstbeherrschung auch der westlichen Welt wieder zugänglich gemacht werden sollte, sei daher dringlich zu fordern.",
+ "n":"M. SCHELER: Die Wissensformen und die Gesellschaft (21960) 66. \nebda. 92f. \nÜber die positivistische Geschichtsphilos. (Dreistadiengesetz), in: Schriften zur Soziol. und Weltanschauungslehre (21963) 30. \na.a.o. [1] 140. \nebda.",
+ "l":"",
+ "au":"W. Lipp",
+ "A":["W. Lipp"],
+ "cb":[[0,1099],[22,1100],[510,1100],[1055,1100]],
+ "cn":[[0,1099],[64,1099],[76,1099],[204,1099],[221,1099]],
+ "cl":[]
+}
+);

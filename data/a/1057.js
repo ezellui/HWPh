@@ -1,0 +1,27 @@
+HWPH.put("a/1057",
+{
+ "id":1057,
+ "lemma":"Gen",
+ "band":"3",
+ "kind":"article",
+ "col_from":268,
+ "col_to":268,
+ "pdf_from":8179,
+ "pdf_to":8179,
+ "authors":["O. v. Verschuer"],
+ "n_notes":1,
+ "n_chars":1027,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Gen. Die von JOHANNSEN <sup class=\"fn\" data-fn=\"0-1\">1</sup> eingeführte Bezeichnung ‹G.› für eine nach der mendelistischen Gesetzmäßigkeit sich übertragende Erbeinheit hat sich inzwischen allgemein durchgesetzt. Die Zytogenetik (Chromosomenforschung) erforscht die Lokalisation der G. in den Chromosomen. Die Mutationsforschung untersucht den Übergang der G.-Struktur von einem stabilen Zustand in einen anderen stabilen Zustand. Die biochemische Forschung hat zu Ergebnissen geführt, die uns eine Vorstellung von der molekularen Struktur geben: G. sind langgestreckte Abschnitte in den Fadenmolekülen der Desoxyribonukleinsäure. Nach dem genetischen Code werden drei Nukleotide angenommen für den Einbau einer bestimmten Aminosäure in die lange Kette eines Eiweißmoleküls. Man kennt heute Beispiele von Mutationen eines G., deren Phän (Merkmal) sich durch den veränderten Einbau der einen oder der anderen Aminosäure in die Polypeptidkette eines Eiweißmoleküls (z.B. Hämoglobin) genau feststellen läßt.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">W. JOHANNSEN: Elemente der exakten Erblichkeitslehre (<sup>3</sup>1926).</li>\n</ol>",
+ "prev":{"id":1056,"lemma":"Gemütsruhe","band":"3","col":267},
+ "next":{"id":1058,"lemma":"Genau dann, wenn ..., so","band":"3","col":268},
+ "backlinks":[{"id":3395,"lemma":"Vererbung","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Phän","qualifier":"","band":"3","col":"268"}],
+ "persons":[{"id":5660,"name":"W. Johannsen","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":3395,"lemma":"Vererbung"}],
+ "groups":[{"id":5,"name":"Biologie","label":"Gen"}],
+ "reg_authors":[{"name":"Verschuer Otto von","n":6}]
+}
+);

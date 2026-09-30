@@ -1,0 +1,75 @@
+HWPH.put("a/973",
+{
+ "id":973,
+ "lemma":"Fünklein, Seelenfünklein",
+ "band":"2",
+ "kind":"article",
+ "col_from":1137,
+ "col_to":1138,
+ "pdf_from":7280,
+ "pdf_to":7283,
+ "authors":["P. Heidrich"],
+ "n_notes":17,
+ "n_chars":3905,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Fünklein, Seelenfünklein. ‹Fünklein› (Seelenfünklein, lat. scintilla animae) ist ein von der Mystik des 13. Jh. geprägter Begriff. Er begegnet zum erstenmal in den Chaldäischen Orakeln, die das gottverwandte Organ der Seele ψυχεῖος σπινθήρ nennen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. ORIGENES kennt F. geistlicher Erkenntnis, die in die Seele geworfen werden <sup class=\"fn\" data-fn=\"0-2\">2</sup>, wie schon SENECA davon spricht, daß gleichsam gewisse F. des Heiligen auf die Erde gesprungen seien, womit man gern erkläre, daß die Menschen göttlichen Geistes seien <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Der Ezechielkommentar des HIERONYMUS, der eine über den drei platonischen Seelenteilen liegende «scintilla conscientiae» aufzählt <sup class=\"fn\" data-fn=\"0-4\">4</sup>, ist für den scholastischen Synteresis-Begriff, für den oft auch ‹scintilla› gebraucht wird, wichtig: «scintilla rationis», «scintilla conscientiae», z.B. von THOMAS VON AQUIN: Der Funke des Gewissens ist das Höchste, das im Urteil des Gewissens gefunden wird <sup class=\"fn\" data-fn=\"0-5\">5</sup>; die «scintilla rationis» dagegen ist «quaedam modica participatio intellectualitatis respectu eius, quod de intellectualitate in angelo est» (der Funke des [menschlichen] Verstandes ist eine gewisse bescheidene Teilhabe an [geistiger] Erkenntniskraft im Vergleich zu der eines Engels) <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Von «scintilla animae» freilich wird im Zusammenhang mit der Synteresis nicht gesprochen. Bei ECKHART finden sich viele Aussagen über «eine Kraft in der Seele», die Gott in seiner Blöße nimmt. Sie ist keine «potentia animae», ist von allen Namen frei <sup class=\"fn\" data-fn=\"0-7\">7</sup> und wird oft «vünkelîn» genannt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Diese Kraft ist gottverwandt, «ungeschaffen und unschepfelich» <sup class=\"fn\" data-fn=\"0-9\">9</sup>, während die Seele mit ihren Kräften geschaffen ist <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Eckhart spricht jedoch auch davon, daß das Seelen-F. geschaffen sei, wobei er es als «Synderesis» beschreibt <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Bei MECHTHILD VON MAGDEBURG sendet Gott «ein klein vunke ... an die kalten sele, ... das des menschen herze biginnet ze brennede und sin sele ze smelzende», um aus dem irdischen einen himmlischen Menschen zu machen <sup class=\"fn\" data-fn=\"0-12\">12</sup>. TAULER nennt Eckharts Namen, als er vom Funken spricht, der hoch fliegt, bis er in dem Grund ruht, in dem er in seiner Ungeschaffenheit war <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Nach SEUSE kehrt sich ein vernünftiger Mensch durch das Seelen-F. wieder ins Ewige hinauf, aus dem es geflossen ist <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Für J. BÖHME ist «das Leben der Creatur anders nichts als ein F. vom Willen Gottes» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. ANGELUS SILESIUS fordert den Menschen auf, in seinem Herzen dem F. der Gnade Raum zu geben <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Auch im Pietismus z.B. bei SPENER, FRANCKE, G. ARNOLD und im ‹Herrnhuter Gesangbuch› ist vielfach von dem F. die Rede, das im Herzen brennt und zu Gott zurückkehren will <sup class=\"fn\" data-fn=\"0-17\">17</sup>. <span class=\"col\" data-col=\"1138\"></span></p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">G. LÜERS s. Anm. [12]. – F. MEERPOHL: Meister Eckharts Lehre vom Seelen-F. (1926). – H. EBELING: Meister Eckharts Mystik (1941). – H. HOF: Scintilla animae (1952). – B. SCHMOLDT: Die dtsch. Begriffssprache Meister Eckharts (1954). – S. UEDA: Die Gottesgeburt in der Seele (1965).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">De orac. chald. (Croll 1894) 26.</li>\n<li id=\"fn0-2\" value=\"2\">ORIGENES, In cant. cant. 1, II, 164, 14.</li>\n<li id=\"fn0-3\" value=\"3\">SENECA, De otio V 5.</li>\n<li id=\"fn0-4\" value=\"4\">HIERONYMUS, MPL 25, 22ff.</li>\n<li id=\"fn0-5\" value=\"5\">THOMAS VON AQUIN, De ver. 17, 2 ad 3.</li>\n<li id=\"fn0-6\" value=\"6\">II Sent. 39, 3, 1.</li>\n<li id=\"fn0-7\" value=\"7\">MEISTER ECKHART, Pr. 10. Dtsch. Werke 1, hg. J. QUINT (1958) 171f.; Werke, hg. FR. PFEIFFER (1857) 193, 33f.</li>\n<li id=\"fn0-8\" value=\"8\">Bei PFEIFFER, a.a.O. 39, 7f. 89, 18. 109, 12f. 110, 26. 193, 32f. u. ö; vgl. bei QUINT, a.a.O. 332 Anm. 4.</li>\n<li id=\"fn0-9\" value=\"9\">Bei PFEIFFER, a.a.O. 193, 17f.</li>\n<li id=\"fn0-10\" value=\"10\">Proc. Col. I n. 137.</li>\n<li id=\"fn0-11\" value=\"11\">Pr. 20 a bei QUINT, a.a.O. [7] 332f.</li>\n<li id=\"fn0-12\" value=\"12\">Offenbarung der Schwester MECHTHILD VON MAGDEBURG oder Das fließende Licht der Gottheit, hg. G. MOREL (1869, <sup>2</sup>1963) 187; vgl. G. LÜERS: Die Sprache der dtsch. Mystik des MA im Werke der Mechthild von Magdeburg (1926) 182ff.</li>\n<li id=\"fn0-13\" value=\"13\">J. TAULER, Pr. 64, hg. VETTER (1910) 347ff. <span class=\"col\" data-col=\"1138\"></span></li>\n<li id=\"fn0-14\" value=\"14\">H. SEUSE, Dtsch. Schriften, hg. K. BIHLMEYER (1907, Neudruck 1961) 192, 10f.</li>\n<li id=\"fn0-15\" value=\"15\">J. BÖHME, Sämtl. Schr., hg. W.-E. PEUCKERT (1956–1960) 17, 736; vgl. 9, 239f.</li>\n<li id=\"fn0-16\" value=\"16\">ANGELUS SILESIUS, Cherubinischer Wandersmann (1657) V, 349.</li>\n<li id=\"fn0-17\" value=\"17\">Beitr. zur Gesch. A. H. Franckes, hg. G. KRAMER (1861) 35, 295; vgl. A. LANGEN: Der Wortschatz des dtsch. Pietismus (1954) 334.</li>\n</ol>",
+ "prev":{"id":972,"lemma":"Fungieren","band":"2","col":1136},
+ "next":{"id":974,"lemma":"Funktion","band":"2","col":1138},
+ "backlinks":[
+  {"id":2794,"lemma":"Seele","n":1},
+  {"id":2796,"lemma":"Seelengrund","n":1},
+  {"id":2799,"lemma":"Seelenspitze","n":1},
+  {"id":3585,"lemma":"Werden/Vergehen","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Gewissen","qualifier":"","band":"2","col":"1137"},
+  {"term":"scintilla","qualifier":"","band":null,"col":null},
+  {"term":"scintilla rationis","qualifier":"","band":null,"col":null},
+  {"term":"Seelenfunke","qualifier":"","band":null,"col":null},
+  {"term":"Synderesis","qualifier":"","band":"2","col":"1137"},
+  {"term":"ψυχε͂ιος σπινθήρ","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":49,"name":"Seneca","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":61,"name":"Origenes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":73,"name":"Eckhart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":154,"name":"J. Böhme","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":278,"name":"Hieronymus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":387,"name":"J. Tauler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":820,"name":"H. Seuse","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1319,"name":"Angelus Silesius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1724,"name":"Pfeiffer","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":3976,"name":"Mechthild von Magdeburg","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7488,"name":"G. Lüers","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":464,"name":"G. Arnold","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1209,"name":"A. H. Francke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1241,"name":"Ph. J. Spener","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1948,"name":"H. Ebeling","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5389,"name":"B. Schmoldt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4944,"name":"S. Ueda","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14122,"name":"F. Meerpohl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":374,"name":"J. Quint","b":0,"n":3,"l":0,"editor":1,"role":"scholar"},
+  {"id":469,"name":"W.-E. Peuckert","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":884,"name":"F. Pfeiffer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1022,"name":"K. Bihlmeyer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1291,"name":"A. Langen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2071,"name":"Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":3977,"name":"G. Morel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":8774,"name":"G. Kramer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1130,"lemma":"Gewissen","tf":2},
+  {"id":1265,"lemma":"Herz","tf":2},
+  {"id":1680,"lemma":"Kraft","tf":2},
+  {"id":2066,"lemma":"Name","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":27,"name":"Mystik","label":"Fünklein; Seelenfünklein"},
+  {"id":45,"name":"Topoi und Metaphern","label":"Fünklein; Seelenfünklein"}
+ ],
+ "reg_authors":[{"name":"Heidrich Peter","n":20}]
+}
+);

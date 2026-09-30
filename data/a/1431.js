@@ -1,0 +1,48 @@
+HWPH.put("a/1431",
+{
+ "id":1431,
+ "lemma":"Influxus physicus, Influxionismus",
+ "band":"4",
+ "kind":"article",
+ "col_from":355,
+ "col_to":356,
+ "pdf_from":12476,
+ "pdf_to":12479,
+ "authors":["R. Specht"],
+ "n_notes":8,
+ "n_chars":4622,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Influxus physicus, Influxionismus. Der I.ph. (natürlicher Einfluß) ist Zentralthema einer anti-occasionalistischen Richtung des Cartesianismus, die «<i>Influxionismus</i>» hieß und deren Vertreter «<i>Influxionisten</i>» genannt wurden. Sie behaupteten, daß die Seele den Leib aus natürlicher Kraft (physice) und nicht allein aufgrundeines göttlichen Beistandes (assistentia) beeinflussen kann. Bei DESCARTES ist dieser Punkt nicht eindeutig entschieden: «Wir sind uns nicht der Art bewußt, in der unser Geist Animalgeister in diese oder jene Nerven sendet; sie hängt nämlich nicht allein vom Geist ab, sondern von der Vereinigung des Geistes mit dem Leib» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Zwar formuliert Descartes gelegentlich so, als könnte die Seele den Körper bewegen <sup class=\"fn\" data-fn=\"0-2\">2</sup>, die Art ihrer Kausalität dabei kann aber strittig sein <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die Herstellung definitiver Klarheit erstreben zahlreiche Entwürfe von Cartesianern, deren Ziel es ist, den Cartesianismus als Alternative zu den Positionen von Hobbes, Spinoza und Leibniz zu erweisen. Es erscheint zweckmäßig, diese Versuche nicht schon dann als «influxionistisch» zu bezeichnen, wenn sie überhaupt einen natürlichen Einfluß der Seele auf den Leib behaupten, sondern nur dann, wenn sie sich außerdem als Gegenpositionen zum Occasionalismus verstehen und mithin dessen Existenz voraussetzen.</p>\n<p>Die Annahme eines physischen Einflusses ist im Cartesianismus konsistenzgefährdend. Die cartesische Mechanik kennt nur die Richtungsänderung eines Körpers <i>A</i> durch einen Körper <i>B</i>, dessen <i>m ·</i> ν größer als das von <i>A</i> ist; das <i>m ·</i> ν der Seele aber kann nur gleich Null sein. Descartes läßt zwar die Frage offen, «ob die Engel und die Gedanken der Menschen die Kraft besitzen, den Körper zu bewegen» <sup class=\"fn\" data-fn=\"0-4\">4</sup>; wird sie aber bejaht, so ist zunächst das cartesische Gesetz von der Erhaltung der Bewegungsmenge im Universum gefährdet <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Descartes führt zwar die Unterscheidung von «Bewegung» (mouvement) und «Bewegungsrichtung» (détermination) ein <sup class=\"fn\" data-fn=\"0-6\">6</sup> und gibt zu verstehen, daß die Seele, ohne Bewegung zu erzeugen, die Richtung schon vorhandener Bewegung in den Animalgeistern ändern kann, indem sie durch bloßes Wollen die Zirbeldrüse nach einer anderen Richtung neigt und dadurch die Richtung der im Ventrikel sich hin- und herbewegenden Animalgeister neu bestimmt. Gegen diese These wird aber sogleich eingewendet, daß Richtungsänderung ohne Bewegungsaufwand nicht gedacht werden kann. Mag dieser auch, wie einige Stellen <sup class=\"fn\" data-fn=\"0-7\">7</sup> wahrscheinlich machen, ganz minimal sein, da die Zirbeldrüse besonders leichtgängig ist, so verletzt er doch den cartesischen Erhaltungssatz. Darüber hinaus muß später eine cartesianische Richtungsänderungstheorie bei allen Autoren, die das Leibnizisch-Huygenssche Gesetz von der Erhaltung der Gesamtrichtung der Bewegung rezipiert haben, als eine Verkennung der mechanischen Relevanz der Richtung und damit als unhaltbar erscheinen.</p>\n<p>Diese Schwierigkeiten legen den Gedanken nahe, daß der Influxionismus als antioccasionalistische Strömung innerhalb des Cartesianismus weniger von theoretischen als von wissenschaftspolitischen Erwägungen veranlaßt war und daß seine Vertreter den metaphysischen und theologischen Abenteuern aus dem Wege gehen wollten, zu denen das Bestreben nach einer theoretisch befriedigenden Behebung der Schwierigkeiten des cartesischen Dualismus führen mußte. Der Verständigkeit seines öffentlichen Interesses steht seine theoretische Unvollkommenheit gegenüber, und da sich beiden Eigentümlichkeiten gewichtige Argumente entnehmen lassen, ist die Umstrittenheit dieser Richtung in der Geschichtsschreibung verständlich. Ihr Thema wird im Zusammenhang mit den Auseinandersetzungen über die prästabilierte Harmonie in der deutschen Philosophie des 18. Jh. wieder aufgenommen und findet so bedeutende Verfechter wie M. KNUTZEN, A. RÜDIGER, J. G. DARJES und den späten G. PLOUCQUET. Als Abschluß dieser Episode kann man den Passus Kants im Paralogismus-Hauptstück der ersten Auflage der ‹Kritik der <span class=\"col\" data-col=\"356\"></span> reinen Vernunft› ansehen, in dem der Influxionismus als «System des physischen Einflusses» und der Occasionalismus als «System der übernatürlichen Assistenz» bezeichnet wird <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">G. B. BILFINGER: Commentatio hypothetica de harmonia animi et corporis (1723); Dilucidationes philos. (<sup>3</sup>1744) III, 4. – J. BRUCKER: Hist. critica philos. (1743) 4, 1. 2. – F. BOUILLIER: Hist. de la philos. cartésienne 1. 2 (Paris/Lyon 1854).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"356\"></span> R. DESCARTES, Oeuvres, hg. ADAM/TANNERY (= A/T) 5, 221f.</li>\n<li id=\"fn0-2\" value=\"2\">z.B. A/T 3, 665.</li>\n<li id=\"fn0-3\" value=\"3\">Einschlägige Stellen bei R. SPECHT: Commercium Mentis et Corporis (1966) 44–47: Kap. 2, Anm. 59.</li>\n<li id=\"fn0-4\" value=\"4\">DESCARTES, Principia philosophiae II, § 40.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. § 36.</li>\n<li id=\"fn0-6\" value=\"6\">§ 44.</li>\n<li id=\"fn0-7\" value=\"7\">A/T 3, 362; 9, 179.</li>\n<li id=\"fn0-8\" value=\"8\">I. KANT, KrV A 390–392.</li>\n</ol>",
+ "prev":{"id":1430,"lemma":"Infinitesimalrechnung","band":"4","col":344},
+ "next":{"id":1432,"lemma":"Information","band":"4","col":356},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":15,"name":"R. Descartes","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":529,"name":"A. Rüdiger","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":807,"name":"R. Specht","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1105,"name":"J. G. Darjes","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1866,"name":"M. Knutzen","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2123,"name":"G. Ploucquet","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":533,"name":"J. Brucker","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":647,"name":"G. B. Bilfinger","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":4346,"name":"F. Bouillier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":77,"name":"Ch. Adam","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":463,"lemma":"Cartesianismus","tf":4},
+  {"id":1769,"lemma":"Leib, Körper","tf":7},
+  {"id":2198,"lemma":"Occasionalismus","tf":2},
+  {"id":2794,"lemma":"Seele","tf":5},
+  {"id":408,"lemma":"Bewegung","tf":4},
+  {"id":1105,"lemma":"Gesetz","tf":2},
+  {"id":1680,"lemma":"Kraft","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Influxus physicus"}],
+ "reg_authors":[]
+}
+);

@@ -1,0 +1,38 @@
+HWPH.put("t/616",
+{
+ "b":"Distanz/Distanzlosigkeit, ästhetische. Der Begriff der Distanz (D.) wurde in modernen Theorien ästhetischer Wertung, vor allem in der Literaturästhetik wichtig . Diese geht allgemein davon aus, «daß D. zum Wesen der Dichtung gehört» und daß «in diesem Abstand gerade ihr ganzes Existenzrecht beruht» ; sie stelle deshalb ein Kriterium dar, mit dessen Hilfe man zumindest eine grobe Unterscheidung von guten und schlechten Werken, von Kunst- und Kitschgenuß treffen könne. \nW. MÜLLER-SEIDEL meint, daß D. zwischen der «höheren» poetischen Gestalt und der «kunstlosen Mitteilung im alltäglichen Leben» für wertvolle Dichtung konstitutiv sei. Wenn auch die Größe der D. kein Zeichen für künstlerische Größe des Werkes sei, so gelte dennoch häufig: Schlechte Werke «verringern den Abstand zum Leben, bis die Kunstgestalt in der Erlebnisaussage versinkt» , Relevanter ist die D., die vom Künstler gefordert wird, der sich von seinem Gegenstand und von seinem eigenen Fühlen in D. halten soll, um das Darzustellende in seiner Eigengesetzlichkeit auffassen zu können. Für H. BROCH ist dem Künstler eine «unbedingte Unterwerfung unter das Objekt aufgetragen, das Belauschen des Objektes (gleichgültig ob dieses sich als äußeres oder inneres präsentiert), das Aufspüren der Objektgesetzlichkeiten» . Analog müsse der Kunstgenuß des Rezipienten ein Genuß des Erkennens und des Überlegens sein: «Das Kunstwerk fordert ... Anstrengung, D. und Überlegung, das stört und unterbricht das Lustgefühl; es dämpft jedenfalls die Stärke des Gefühls» . Für L. GIESZ tritt im ästhetischen Genuß «jener Hiatus ... ein, der als ästhetische D. bezeichnet wird oder als das Moment der Kontemplation» . Damit ist eine «Fernstellung von Ich und Gegenstand» als «stellungnehmende Freiheit» gemeint. Distanzlosigkeit (Dl.) dagegen sei typisch für den Umgang mit Kitsch, den Giesz als einen «Selbstgenuß» definiert . \nGegen die ästhetische Kategorie der D. und ihren normativen Stellenwert in der Wertungs- und Kunsttheorie sind in jüngster Zeit Bedenken vorgebracht worden. So polemisiert D. WELLERSHOFF gegen die «Tendenz der modernen Ästhetik», «garantiert keine außerrationalen Erlebnisse» zuzulassen . \nIn den Begriffen der D. und der Dl. werden Positionen aufgenommen und abgewandelt, die für die Frühklassik (J. CH. F. BÄHRENS, M. HERZ, J. G. HOCHE, K. PH. MORITZ) und für die klassisch-romantische Ästhetik typisch sind. FR. SCHILLER fordert in der Rezension ‹Über Bürgers Gedichte›, daß ein Dichter sich ja in Acht nehme, «mitten im Schmerz den Schmerz zu besingen. So, wie der Dichter selbst bloß leidender Teil ist, muß seine Empfindung unausbleiblich von ihrer idealischen Allgemeinheit zu einer unvollkommenen Individualität herabsinken. Aus der sanfteren und fernenden Erinnerung mag er dichten, und dann desto besser für ihn, je mehr er an sich erfahren hat, was er besingt; aber ja niemals unter der gegenwärtigen Herrschaft des Affects». Der Dichter müsse erreichen, «sich selbst fremd zu werden, den Gegenstand seiner Begeisterung von seiner Individualität loszuwickeln, seine Leidenschaft aus einer mildernden Ferne anzuschauen» . Der ästhetische Genuß setzt für K. PH. MORITZ «eine völlige Uneigennützigkeit des Gemüths» und eine «vorhergegangene ruhige Betrachtung der Natur und Kunst» voraus. Für GOETHE wirkt der distanzlosen Hingabe an den Kunstgegenstand «treues Anschauen» und «liebevolles Beharren» entgegen ; der «vollendete Kenner» soll sich «den Gegenständen unterordnen» ; dies könne nur in einer distanzierenden Betrachtungsweise, nicht durch Hingabe an den Stoff des Kunstwerks geschehen . Dagegen gilt den Ästhetikern des deutschen Klassizismus und der Empfindsamkeit im Sinne von dem, was später ‹Dl.› meint, als größter künstlerischer Fehler, wenn der Künstler «affectiert», d.h. wenn er die Gefühle, die er darstellt, im Augenblick des Schaffens nicht selbst erlebt und voll auskostet: «Wer den Trieb und die Hitze einer Leidenschaft in seiner Brust fühlet, der darf sich nicht lange besinnen, was für einen Schwung er dem Ausdruck geben wolle, die Natur wird ihm auf der Stelle mit den Gedancken auch die Wörter einflößen, und seine Rede in dem Munde also formieren, wie sie seiner Regung gemäß und gleichsam eigen ist» (J. J. BREITINGER) . Mit diesen Überlegungen steht Breitinger in der Tradition der theoretischen Rhetorik (Affektenlehre) . Es gilt für ihn: «Wer nun auf diese Weise sich niehmals vorsetzet, mit frostigem Sinn andere zu bewegen, sondern durch eine lebhafte und entzückende Vorstellung der Sachen zuerst seine eigene Einbildung, und durch dieselbe das Gemüthe in die erforderliche Hitze treibet, eh er andere entzünden will, der wird auch den natürlichen Ausdruck der Leidenschaften allemahl glücklich treffen» . G. F. MEIER schreibt: «Wenn man jemanden rühren will, so muß man selbst gerührt und erhitzt seyn» . Und SULZER fordert vom Dichter, daß er «sich mit dem hartnäkigsten Fleiß» übe, «alles was er auszudrücken hat, selbst wohl zu empfinden, und wage sich an keine Schildrung der Leidenschaft, bis es ihm gelungen ist, sich selbst in dieselbe zu setzen» .",
+ "n":"Vgl. J. SCHULTE-SASSE: Lit. Wertung (1971) 13–16. \nW. MÜLLER-SEIDEL: Probleme der lit. Wertung (1965) 77. \nG. SIMMEL: Die Probleme der Geschichtsphilos. (1905) 168. \nMÜLLER-SEIDEL, a.a.O. [2] 77. \n78. \nH. BROCH: Einige Bemerk. zum Problem des Kitsches, in: Dichten und Erkennen (1955) 304. \nJ. ELEMA: Der Kitsch als Randerscheinung der Kunst. Orbis litterarum 21 (1966) 27. \nL. GIESZ: Phänomenol. des Kitsches (1960) 36. \na.a.O. 39. \n41. \nD. WELLERSHOFF: Eine Dame ohne Unterleib oder die moderne Ästhetik der D., in: Lit. und Veränderung. Versuche zu einer Metakritik der Lit. (1969) 111f. \nVgl. J. SCHULTE-SASSE: Die Kritik an der Triviallit. seit der Aufklärung. Stud. zur Gesch. des modernen Kitschbegriffs (1971). \nF. SCHILLER: Über Bürgers Gedichte. National-A., begründet von J. PETERSEN (1941ff.) 22, 256. \nK. PH. MORITZ: Schriften zur Ästhetik und Poetik, hg. H. J. SCHRIMPF (1962) 201. \na.a.O. 86. \nJ. W. GOETHE, Jubiläums-A., hg. E. v. d. HELLEN (1902–04) 36, 232. \na.a.O. 33, 119. \nVgl. SCHULTE-SASSE, a.a.O. [12]; E. M. WILKINSON: Über den Begriff der künstlerischen D. Von Schiller und Wordsworth bis zur Gegenwart. Dtsch. Beitr. zur geist. Überl. 3 (1957) 71ff. \nJ. J. BREITINGER: Crit. Dichtkunst 1 (1740) 355f. \nVgl. K. DOCKHORN: Macht und Wirkung der Rhet. Vier Aufsätze zur Ideengesch. der Vormoderne (1968) 125f. \nBREITINGER, a.a.O. [19] 364; vgl. 368. 370ff. \nG. F. MEIER: Anfangsgründe aller Schönen Wiss. 3 (21759) 145. \nJ. G. SULZER: Allg. Theorie der Schönen Künste 2 (21775) 152.",
+ "l":"J. SCHULTE-SASSE s. Anm. [1] und [12]. E. M. WILKINSON s. Anm. [18].",
+ "au":"J. Schulte-Sasse",
+ "A":["J. Schulte-Sasse"],
+ "cb":[[0,267],[473,267],[1289,268],[1887,268],[2177,268],[5089,269]],
+ "cn":[
+  [0,267],
+  [0,268],
+  [49,269],
+  [51,269],
+  [107,269],
+  [166,269],
+  [197,269],
+  [202,269],
+  [291,269],
+  [375,269],
+  [422,269],
+  [434,269],
+  [439,269],
+  [592,269],
+  [720,269],
+  [815,269],
+  [897,269],
+  [909,269],
+  [977,269],
+  [994,269],
+  [1178,269],
+  [1229,269],
+  [1334,269],
+  [1381,269],
+  [1444,269]
+ ],
+ "cl":[[0,269]]
+}
+);

@@ -1,0 +1,12 @@
+HWPH.put("t/258",
+{
+ "b":"Ascensus/Descensus. ‹D.› nannte man in der mittelalterlichen Logik den Übergang von den allgemeinen und partikulären Urteilen zu den subalternierenden Urteilen mit singulären Subjekten, ‹A.› hingegen die inverse Operation, die, ausgehend von singulären Urteilen, zu allgemeinen und partikulären Urteilen führt. PETRUS TARTARETUS spricht von D. arguitivus im Gegensatz zum D. divisivus, der vom Ganzen auf die Teile führt . Seit dem 13. Jh. entwickelte sich die Lehre vom D. in Korrespondenz zur Suppositionstheorie. So erläuterte man die suppositio distributiva durch den D. copulativus, die Aussage z.B.: «Alle Menschen sind sterblich» wurde analysiert als eine Reihe von kopulativ verbundenen Aussagen: «Dieser Mensch ist sterblich und dieser Mensch ist sterblich und ... usw.» Die suppositio determinata entsprach dem D. disjunctivus, insofern man das partikuläre Urteil, z.B.: «Einige Menschen sind glücklich», auflöste in eine Folge von disjunktiv verbundenen Aussagen: «Dieser Mensch ist glücklich oder dieser Mensch ist glücklich oder ... usw.» Daneben diskutierte man ferner den D. copulatus mit Bezug auf die suppositio copulata oder collectiva und den D. disjunctus bezogen auf die suppositio confusa, wenn die Konjunktion das Subjekt oder Prädikat veränderte, beide Arten wurden aber vielfach zurückgewiesen . Man diskutierte unter dem Titel ‹De constantia singularium› heftig, ob A. und D. als strenge Argumentationsformen, als consequentiae formales angesehen werden dürfen. Die Schwierigkeit wurde darin gesehen, daß eine vollständige Aufzählung aller Individuen nicht möglich ist. In den zahlreichen Traktaten ‹De A. et D.› finden sich viele Regeln und Normen für die Beweisführung. Einer der ersten ist der 1304 verfaßte, sehr spezielle Traktat von RAMON LULL .",
+ "n":"PETRUS TARTARETUS: Expositio in Petrum Hispanum (1514) 52. \nPETRUS HISPANUS: Summulae (1947) 59ff.; WILHELM OCKHAM: Summa totius logicae, hg. PH. BÖHNER (New York 1951) 189ff. \nA. CORONEL: Secunda pars Rosarii (1517) 19–39; V. MUÑOZ DELGADO: La logica nominalista en Salamanca (1964) 270ff.",
+ "l":"PH. BÖHNER: A medieval theory of supposition. Franc. Studies 18 (1958) 249–286. – S. BOVÉ: Santo Tomas de Aquino y el descenso del entendimiento (Barcelona 1913). – L. M. DE RIJK: Logica modernorum 2/1a (1967).",
+ "au":"V. Muñoz Delgado",
+ "A":["V. Muñoz Delgado"],
+ "cb":[[0,536],[43,537]],
+ "cn":[[0,536],[60,536],[177,536]],
+ "cl":[[0,537]]
+}
+);

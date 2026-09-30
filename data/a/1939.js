@@ -1,0 +1,45 @@
+HWPH.put("a/1939",
+{
+ "id":1939,
+ "lemma":"Metakritik",
+ "band":"5",
+ "kind":"article",
+ "col_from":1171,
+ "col_to":1172,
+ "pdf_from":19563,
+ "pdf_to":19566,
+ "authors":["E. Heintel"],
+ "n_notes":6,
+ "n_chars":3815,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Metakritik. Das Wort ‹M.› erscheint im Titel von HAMANNS kleiner Schrift ‹M. <span class=\"col\" data-col=\"1172\"></span> über den Purismum der Vernunft› (1784) <sup class=\"fn\" data-fn=\"0-1\">1</sup> und von HERDERS Abhandlung ‹Verstand und Erfahrung. Eine M. zur Kritik der reinen Vernunft› (1799) <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Bei beiden Schriften handelt es sich um Gegenäußerungen zu <i>Kants</i> erster Kritik.</p>\n<p>HAMANN ist mit seinen vom Sprachlogos her formulierten fruchtbaren Einwänden Herder nicht nur vorausgegangen, sondern hat noch entschiedener als dieser das «Sakrament der Sprache» in den Mittelpunkt seiner Ausführungen gestellt. Er sieht in der zunehmenden «Reinheit» der Vernunft eine Reihenfolge immer unzureichenderer Standpunkte, deren letzter der «Purismus der Sprache» ist, und setzt an die Stelle der «Rezeptivität der Sinnlichkeit» bei Kant die «Rezeptivität der Sprache»; darunter versteht er den immer schon für alle weitere Reflexion vorausgesetzten unmittelbaren Sinn der unreflektierten Sprache, sei es im Rahmen der Philosophie, sei es im Rahmen der Einzelwissenschaften <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Hamann wendet sich auf diese Weise ebenso gegen die Abstraktionen der Transzendentalphilosophie Kants in ihrer ‘Sprachfremdheitʼ wie gegen jede empirische Erklärung des Sprachursprungs als letztem Wort, die notwendig in einen Zirkel fuhren muß. Die Vorordnung des unmittelbaren Sprachsinns vor die Probleme der Sinnlichkeit und damit der «transzendentalen Ästhetik» hat er Kant gegenüber auch in einem Brief betont: «So wahr ist es, daß Sprache und Schrift die unumgänglichsten Organa und Bedingungen alles menschlichen Unterrichts sind, wesentlicher und absoluter wie das Licht zum Sehen und der Schall zum Hören.» Wird diese Problematik des Voraussetzens in der Transzendentalphilosophie von ihr selbst nicht erkannt, dann wird «Sprache ... der Mittelpunkt des Mißverstandes der Vernunft mit ihr selbst» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>HERDERS M. stellt die grundsätzliche Frage, ob die «Metaphysik» durch eine Transzendentalphilosophie im Sinne der ‹Kritik› Kants «geheilt oder verbessert und fortgeführt werden» kann, und verneint diese Frage auf allen Linien. Die transzendentale Überhöhung der Reflexion über den unmittelbar gegenständlichen Sinn, also die Konstitution der sinntheoretischen Ebene überhaupt, ist ihm eine ärgerlichere Transzendenz als die schlechte Metaphysik, da durch jene die Vernunft als «in luftleere Gegenden verirret und verstiegen» gekennzeichnet wird. Die transzendentale Sinnkonstitution wird für Herder zu einem «Unbegriff», einer «Synthesis vor allem und außer allem Gegebenen». Er vermag das transzendentale Konstitutionsverhältnis nur als eine real-gegenständliche Relation zu denken und kommt so zu einer Vernunft vor der Vernunft. Jedenfalls landet damit für ihn die transzendentale Sinnreflexion in einem eigenen apriorischen Gegenstandsbereich «vor aller und abgetrennt von aller Erfahrung», «im Lande vor aller Vernunft ... Es ist zu zweifeln, ob es einen ärgern Mißbrauch der Sprache gebe als diesen» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Der Begriff ‹M.› hat sich heute – vom Anlaß seiner Prägung abgelöst in der Bedeutung ‘Kritik einer Kritikʼ, ‘Entgegnung auf kritische Einwändeʼ, ‘Replikʼ – im deutschen philosophischen Sprachgebrauch weithin eingebürgert <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">J. G. HERDER, Sprachphilos. Schr., hg. E. HEINTEL (<sup>2</sup>1964) Einl., Abschn. 8f.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. G. HAMANN, Sämtl. Werke, hg. J. NADLER 3 (1951) 281ff. 289.</li>\n<li id=\"fn0-2\" value=\"2\">J. G. HERDER, Sämtl. Werke, hg. B. SUPHAN 21 (1881) 1ff.; zur Entstehungsgesch. der M. und zur Polemik Herders gegen Kant überhaupt vgl. a.O. Vff.</li>\n<li id=\"fn0-3\" value=\"3\">HAMANN, a.O. [1] 284. 289.</li>\n<li id=\"fn0-4\" value=\"4\">130.</li>\n<li id=\"fn0-5\" value=\"5\">HERDER, a.O. [2] 21, 41f.; vgl. 311.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. z.B. P. NATORP: Platons Ideenlehre. 2. durchges. und um einen metakrit. Anh. verm. Aufl. (1921); TH. W. ADORNO: Zur M. der Erkenntnistheorie (1956); L. ELEY: M. der formalen Logik (1969); D. BOEHLER: M. der Marxschen Ideologiekrit. (1971); H.-M. BAUMGARTNER: Kontinuität und Gesch. Zur Krit. und M. der hist. Vernunft (1972).</li>\n</ol>",
+ "prev":{"id":1938,"lemma":"Metaethik","band":"5","col":1168},
+ "next":{"id":1940,"lemma":"Metalogik","band":"5","col":1172},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":18,"name":"J. G. Herder","b":2,"n":2,"l":1,"editor":0,"role":"source"},
+  {"id":114,"name":"J. G. Hamann","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":26,"name":"Th. W. Adorno","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":86,"name":"P. Natorp","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":749,"name":"H. M. Baumgartner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4586,"name":"L. Eley","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":23841,"name":"D. Boehler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1038,"name":"E. Heintel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":112,"name":"B. Suphan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":417,"name":"J. Nadler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2712,"lemma":"Rezeptivität","tf":2},
+  {"id":2901,"lemma":"Sinnlichkeit; sinnlich","tf":2},
+  {"id":2781,"lemma":"Schrift","tf":3},
+  {"id":2634,"lemma":"Reflexion","tf":2},
+  {"id":1944,"lemma":"Metaphysik","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Metakritik"}],
+ "reg_authors":[{"name":"Heintel Erich","n":5}]
+}
+);

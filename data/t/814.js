@@ -1,0 +1,31 @@
+HWPH.put("t/814",
+{
+ "b":"Erscheinung (griech. φαινóμενον) wird in der Philosophie vor Kant – trotz aller Standpunktverschiedenheit – durchweg das sinnfällig Gegebene, Naturhafte genannt, dasjenige, was in der raum-zeitlichen Erfahrung als das Nicht-Eigentliche, Vordergründige begegnet und am eigentlichen Sein mehr oder minder teilhat . \nLEIBNIZ bringt den Platonischen Gedanken der Teilhabe (μέθεξις) des raum-zeitlichen Seienden am absoluten Sein durch den Begriff der «phaenomena bene fundata» zum Ausdruck, der besagt, daß die materiell-naturhaften Dinge, die eigentlich nichts anderes als Phänomene sind, ihren Grund in den einfachen Substanzen, den Monaden haben, die das einzig wahrhafte Sein sind: «... que les Monades, ou les substances simples, sont les seules veritables substances, et que les choses materielles ne sont que des phenomenes, mais bien fondés et bien liés ...» ; «... les choses materielles ... ne sont que des phenomenes bien reglés ...» . Aber auch die Körper sind in gewisser Weise wirklich (... nam et phenomena sunt realia ... ), sie sind «phaenomena realia» und als solche durch die primären und sekundären Qualitäten «motus, figura, extensio» bzw. «lux, color, calor, sapor» und ähnliche bestimmt. Diese solchermaßen bestimmten «phaenomena realia» werden von den imaginären Phänomenen – Leibniz nennt als Beispiele den goldenen Berg und den Zentaur – ausdrücklich unterschieden . \nDiese Unterscheidung wird dann zu einem Kernstück der Erkenntnislehre LOCKES in seinem ‹Essay Concerning Human Understanding› (1690). – Die Kritik am Leibnizschen Phänomen- bzw. Perzeptionsbegriff und der Standpunkt HUMES, der betont, daß nur das in der sinnlichen Wahrnehmung als «impression» Gegebene zuverlässige Erkenntnis verbürge , werden für KANTS Fassung des E.-Begriffes bestimmend. Wenn auch E. «nichts als Vorstellungen» sind , so besagt das keineswegs, daß sie «ein bloßer Schein wären». «Denn in der E. werden jederzeit die Objekte ... als etwas wirklich Gegebenes angesehen, nur daß, sofern diese Beschaffenheit nur von der Anschauungsart des Subjekts in der Relation des gegebenen Gegenstandes zu ihm abhängt, dieser Gegenstand als E. von ihm selber als Objekt an sich unterschieden wird» . «Wir haben in der transzendentalen Ästhetik hinreichend bewiesen: daß alles, was im Raume oder der Zeit angeschaut wird, mithin alle Gegenstände einer uns möglichen Erfahrung, nichts als E., d.i. bloße Vorstellungen sind, die, so wie sie vorgestellt werden, ... außer unseren Gedanken keine an sich gegründete Existenz haben. Diesen Lehrbegriff nenne ich den transzendentalen Idealism» . Auch vor dem inneren Sinne, in der Selbstreflexion, erfassen wir uns nur als E., als empirisches Subjekt . Die oft zitierte Mehrdeutigkeit des Begriffes ‹E.› muß so verstanden werden, daß einmal die E. – unter logischem Aspekt – als bloßer Vorstellungsinhalt betrachtet wird, zum anderen – unter ontologischem Aspekt – als das Wirkliche der empirischen Vorstellung, das auf ein Ansich-Seiendes als seinen Seins- und Erkenntnisgrundverweist . \nF. H. BRADLEY faßt den Begriff E. im Rückgriff auf Platon. E. ist das Fluktuierende, Wechselnde, Widerspruchsvolle, Unvollkommene, Bedingte, ja das Böse und die Sünde (PLATONS γένος ὁρατóν). Die Erkenntnis der E. ist – ganz im Sinne Platons – nur vermeintliche Erkenntnis, nur ein Fürwahrhalten dessen, was im Grunde das Unechte, Falsche ist . – ADICKES glaubt in seiner Kantinterpretation von einer «E. an sich» und einer «E. der E.» sprechen zu müssen. Die Welt der E. an sich ist die raumzeitliche Welt, die für die Naturwissenschaft das Ansich bedeutet, also die Körperwelt. E. der E. sind demgegenüber die durch die E. an sich im empirischen Subjekt bewirkten Vorstellungen . – Für HEIDEGGER ist E. das Seiende als Gegenstand endlicher Erkenntnis. Die zwiefache Charakterisierung des Seienden als E. («Gegenstand») und Ding an sich («Entstand») ist eine ontologische Bestimmung; sie entspricht der doppelten Art, derzufolge es zum endlichen und unendlichen Sein als in Beziehung stehend gedacht werden kann . – JASPERS unterscheidet E. «im objektivierenden Sinn» (als «Aspekt von einem als objektiv zugrunde liegend Hinzuzudenkenden»); als «Transzendenz des Ansichseins in den Chiffren» und als «Existenz in der Gewißheit absoluten Bewußtseins». «Im existentiellen Sinne heißt aber E.: ein Bewußtwerden und Objektgewordensein, in dem sich selbst versteht, was als Sein zugleich ganz gegenwärtig ist. Ich weiß ewig, was so nie als Objekt gewußt wird» . Im Sinne der Phänomenologie wird für P. HÄBERLIN zur Aufgabe, das uns Erscheinende «auf das objektive Sosein hin zu durchschauen ...». «E. bedeutet anscheinendes – im Urteil festgestelltes – Sosein eines Begegnenden. So darf E. nie abgetrennt werden von Sein, d.h. von Seiendem, welches erscheint;... nur Seiendes kann (uns) erscheinen ... Wenn E. nie von Erscheinendem getrennt werden darf, so darf sie andrerseits ebensowenig von demjenigen, dem etwas erscheint (...) – also dem Urteilenden – abgelöst werden. E. gibt es nicht außerhalb des feststellenden Urteils» .",
+ "n":"PLATON, Resp. 509 d ff. 514 a ff.; ARISTOTELES, De anima II, 6. \nLEIBNIZ, 10. 1. 1714 an Remond. Philos. Schriften, hg. GERHARDT 3, 606. \n14. 3. 1714 an Remond a.a.O. \n15. 3. 1715 an Des Bosses a.a.O. 2, 492. \nDe modo distinguendi phaenomena realia ab imaginariis a.a.O. 7, 319. \nHUME, An enquiry conc. human understanding (1758) 2. Abschn. \nKANT, KrV A 250/B 306 u.ö. \nB 69 und Anm. \nA 490f./B 518f. \nB 152f.; vgl. B 68f. 158. 277f. u.ö. \nA 251f. \nF. H. BRADLEY: Appearance and reality (London 1893). \nE. ADICKES: Kants Lehre von der doppelten Affektion unseres Ich (1929). \nM. HEIDEGGER: Kant und das Problem der Met. (1929) 29. \nK. JASPERS: Philos. (1930, zit. 21948) 17. \nP. HÄBERLIN: Logik (1947) 103.",
+ "l":"HEINRICH BARTH: Philos. der E. Eine Problemgesch. 1. Teil: Altertum und MA (1946, 21966); 2. Teil: Neuzeit (1959). – G. PRAUSS: E. bei Kant (1971).",
+ "au":"H. Herring",
+ "A":["H. Herring"],
+ "cb":[[0,724],[314,724],[1272,725],[1390,725],[3027,725],[5052,726]],
+ "cn":[
+  [0,724],
+  [0,725],
+  [63,726],
+  [65,726],
+  [138,726],
+  [168,726],
+  [210,726],
+  [280,726],
+  [342,726],
+  [370,726],
+  [385,726],
+  [402,726],
+  [440,726],
+  [449,726],
+  [503,726],
+  [576,726],
+  [632,726],
+  [676,726]
+ ],
+ "cl":[[0,726]]
+}
+);

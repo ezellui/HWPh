@@ -1,0 +1,12 @@
+HWPH.put("t/2049",
+{
+ "b":"Mysterium tremendum et fascinosum. Unter dem methodischen Gesichtspunkt des «religionspsychologischen Zirkels» prägt R. OTTO diese in der Religionswissenschaft geradezu axiomatisch gewordene deskriptive Formel der religiösen Erfahrung. Im kritischen Anschluß an die von KANT entwickelte, später zum Topos gewordene Lehre über das «Erhabene» verarbeitet er die von N. SÖDERBLOM und (vermutlich) A. RÉVILLE bereitgestellten Phänomenanalysen und beschreibt die responsoriale Grundsituation des Menschen, der sich von einem an sich namenlosen, unaussprechbaren (ἄρρητον), als übermächtig, ganz anders als er selber seiend und keineswegs originär ethisch fordernd empfundenen Anderen (das Heilige, Mysterium, Numinose) total angesprochen erfährt. Rational begrifflicher Bestimmung weitestgehend entzogen, läßt sich der so gestiftete Sinnbezug des Menschen zu der letzten Wirklichkeit nur durch «Ideogramme» andeutungsweise erörtern. Auf den durch sinnliche Eindrücke veranlaßten, vom M. ergehenden Anspruch reagiert das divinatorische Wahrheitsgefühl deutend und bewertend durch die idealtypischen Selbstgefühle einerseits der ehrfürchtigen Scheu, indem es sich vom Heiligen als einem machtvoll majestätischen «tremendum» abgedrängt erkennt; andererseits übt ebendieses Numinose einen solch verlockenden Reiz aus, daß sich der Mensch staunend zu ihm als zu einem «fascinosum» hingezogen fühlt. – In der Theoretisierung dieses Phänomenbestandes bindet OTTO die dialektisch-religiösen Gefühlselemente des tremendum und fascinosum in die «Kontrastharmonie» der apriorischen Kategorie des Heiligen (M.t.f.) ein, in der das irrationale formale (apophantische) Moment des M. als der Geist Gottes in der Tiefe der menschlichen Vernunft mit den rationalen, gehaltlichen, prädikativen Momenten des Schauervollen und Beseligenden synthetisiert wird («Schematisierung»). – Die bestehenden Bedenken gegenüber der keineswegs rein psychologisch zu interpretierenden Theoretisierung lassen keinen Zweifel an der allgemeinen Gültigkeit der spezifischen Formel religiöser Erfahrung zu. Ihre Elemente sind in möglicherweise schwerpunktmäßiger Verschiedenheit in allen religiösen Erscheinungsformen antreffbar.",
+ "n":"R. OTTO: Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen (1917, 36–401971).",
+ "l":"A. PAUS: Religiöser Erkenntnisgrund. Herkunft und Wesen der Aprioritheorie R. Ottos (Leiden 1966).",
+ "au":"A. Paus",
+ "A":["A. Paus"],
+ "cb":[[0,267],[1299,268]],
+ "cn":[[0,267]],
+ "cl":[[0,268]]
+}
+);

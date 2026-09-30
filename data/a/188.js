@@ -1,0 +1,104 @@
+HWPH.put("a/188",
+{
+ "id":188,
+ "lemma":"Antiqui/moderni (via antiqua/via moderna)",
+ "band":"1",
+ "kind":"article",
+ "col_from":407,
+ "col_to":410,
+ "pdf_from":1546,
+ "pdf_to":1552,
+ "authors":["A. G. Weiler"],
+ "n_notes":3,
+ "n_chars":9102,
+ "toc":[
+  ["p1","1. Philosophisch: Bereits im 10. Jh. nennt ein Kommentar zu den ‹Categori",3],
+  ["p2","2. Logisch: Die traditionelle Logik, wie sie in der logica vetus überlief",3],
+  ["p3","3. Sprachlich: In Opposition zu diesen stehen die modistae, welche die Lo",3],
+  ["p4","4. Wissenschaftstheoretisch ist die bedeutendste Entwicklung in diesem Zu",3],
+  ["p5","5. Pädagogisch-didaktisch: Sowohl die realistische spekulative Grammatik ",3],
+  ["h6","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Antiqui/moderni (via antiqua/via moderna). <span class=\"col\" data-col=\"408\"></span> Der Streit zwischen via antiqua und via moderna wird durch die philosophische, logische, sprachliche, wissenschaftstheoretische und didaktisch-pädagogische Problematik des 14. und 15. Jh. bestimmt, doch reichen seine Wurzeln weit zurück in die mittelalterliche Tradition auf diesen Gebieten. Als <i>antiqui</i> werden die Anhänger der Hauptvertreter der Hochscholastik bezeichnet: Thomisten, Albertisten, Skotisten, zusammen <i>reales, realistae</i> genannt; dagegen heißen die Anhänger des Wilhelm von Ockham, Jean Buridan und Marsilius von Inghen <i>moderni, terministae, nominales</i> oder <i>nominalistae.</i></p>\n<p id=\"p1\">1. <i>Philosophisch:</i> Bereits im 10. Jh. nennt ein Kommentar zu den ‹Categoriae› des Aristoteles die Nominalisten (hier Eric von Auxerre cum suis) ‹moderni› und die Realisten ‹antiqui›; dieser ursprüngliche Bedeutungsunterschied bleibt bis ins 15. Jh. bestehen. Im Mittelpunkt der Kontroverse steht die Frage nach der Seinsweise der Allgemeinbegriffe (universalia); auch noch STEPHAN HOEST (1468/69) nennt dies das einzige Kennzeichen der Unterscheidung der Wege.</p>\n<p id=\"p2\">2. <i>Logisch:</i> Die traditionelle Logik, wie sie in der <i>logica vetus</i> überliefert wurde, erfährt nach etwa 1140 durch das allmähliche Bekanntwerden der unterschiedlichen Werke der <i>logica nova</i> eine bedeutende Erweiterung. Namentlich die Anwendung der Regeln von ‹De sophisticis Elenchis› (fallacia-Theorie), zusammen mit der linguistischen Analyse der propositio führte zu der Entwicklung einer speziellen logica modernorum = terministischen Logik, für die mehrere Magister in Paris und Oxford um 1200 die Schulform lieferten und PETRUS HISPANUS das obligate Schulbuch verfaßte. Schon in der ersten Phase ihrer Entwicklung machte sie sich auch in der Theologie bemerkbar. Grundlegend ist hier die Lehre von der Supposition, nach der die Interpretation bzw. Bedeutung eines Terminus durch seinen Gebrauch in einer Proposition bestimmt wird. In ontologischer Sicht ist die terministische Logik als Methode neutral: Sie ist sowohl in einem realistischen als auch in einem nominalistischen Gedankengebäude anwendbar. Tatsächlich diente diese moderne Logik WILHELM VON OCKHAM als exklusive Basis für sein nominalistisches System: Die Nominalisten des 14. oder 15. Jh. heißen deshalb vorzugsweise <i>terministae.</i></p>\n<p id=\"p3\">3. <i>Sprachlich:</i> In Opposition zu diesen stehen die <i>modistae</i>, welche die Logik in die Analyse grammatikalischer Probleme einführten. Ihr Name leitet sich von den Traktaten ‹De modis significandi› her, die zum erstenmal um 1270 erscheinen. Diese ‹grammatica speculativa› unterscheidet sich wesentlich von der <span class=\"col\" data-col=\"409\"></span> terministischen Logik und konzentriert sich auf die allgemeinen Sprachregeln als solche, welche sie ontologisch-realistisch zu unterbauen versucht. Sie betrachtet die Artikulation der Sprache als ‹radicaliter› (THOMAS VON ERFURT) von der Artikulation der dingmäßigen Wirklichkeit abhängig: Alle modi significandi sind in den proprietates rerum begründet. Die modi sind «res distinctae a partibus orationis», als eigene reelle formalitates auch unterschieden von der res significata, als solche nicht vom erkennenden Intellekt gebildet, sondern von diesem aus den Eigenschaften der Dinge gewonnen. Durch diese realistische Grundlage wurde die modistische Sprachlehre zu einem integrierenden Teil der <i>via antiqua.</i> Auch zu <i>diesem</i> Realismus nahmen die Nominalisten kritisch Stellung: Für sie war die Bedeutung eines Terminus nur Sache des Intellekts. Bei der logischen Analyse der propositiones (Urteile) ließen sie deren Wirklichkeitsgrundlagen außer Betracht, aber sie hielten sich wohl für verpflichtet, auf metaphysischer Ebene die realistische Grundlage der spekulativen Grammatik und die ontische Gültigkeit der entia rationis zur Diskussion zu stellen: «coacti sumus radicem discutere» (PIERRE d'AILLY in den ‹Destructiones modorum significandi› <sup class=\"fn\" data-fn=\"0-1\">1</sup>). Damit erhob sich von neuem der alte Streit um die Frage nach der Seinsweise der Allgemeinbegriffe; im 15. Jh. gelangte dieser Streit zur Vorherrschaft und erfaßte eine große Anzahl philosophischer und theologischer Fragestellungen <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p id=\"p4\">4. <i>Wissenschaftstheoretisch</i> ist die bedeutendste Entwicklung in diesem Zusammenhang die Stellung WILHELMS VON OCKHAM: «scientia est tantum de propositionibus» <sup class=\"fn\" data-fn=\"0-3\">3</sup>; er meinte damit zu Aristoteles zurückzukehren. Freilich erhob sich dabei die Frage, wie dann noch wissenschaftliche Erkenntnis möglich sei, da diese nach Auffassung des Aristoteles über universale und notwendige Dinge urteile, der Ockhamist dagegen gerade auf das Konkrete, Kontingente, Partikuläre den Nachdruck lege. Die Antworten sind je nach der Verschiedenheit der Schulen verschieden. Die extremen Nominalisten (z.B. ROBERT HOLKOT) faßten propositio in ganz konkretem Sinne als eben diesen besonderen Komplex von Termini, wie er von einem konkreten Menschen in konkreten Umständen formuliert wird: damit ist die Möglichkeit einer allgemeinen Wahrheit eliminiert. Die gemäßigteren Nominalisten nahmen an, daß eine propositio als Komplex mentaler, in Termini ausgesprochener Konzepte, allgemeine Geltung haben kann, weil die Konzepte bestimmter Dinge für alle Menschen die gleichen sind, und zwar, weil die Dinge, welche diese Konzepte verursachen, immer die gleichen sind, nicht weil es Allgemeinbegriffe gibt mit allgemeiner Gültigkeit. Letzteres ließen die antiqui eben wohl gelten. Die Vertreter der extremen Richtung (WICLIF, HUS, HIERONYMUS VON PRAG) dachten dabei in platonischem Sinne an res universales außerhalb der konkreten singulären Dinge. Für die gemäßigten Realisten war das Universale ein ens quo, das unabhängig vom erkennenden Geist besteht als die eine gemeinschaftliche Natur bestimmter singulärer Dinge, welche, indem sie sich actu diesen Dingen mitteilt, gerade Aktualität hat. Für sie sind die Universalien die Formen der Dinge, welche ihnen Sein, Name und Intelligibilität geben, so z.B. humanitas, equinitas, corporeitas. Auch in der Prädikamentenlehre gingen die Schulen auseinander. Die Nominalisten faßten die Prädikamente rein terministisch; nach Ansicht der Realisten aber gaben sie nicht eine Klassifizierung nach der Sonderart der Termini, vielmehr klassifizierten sie nach dem sachlichen Zustand der Dinge. Zugleich war für sie quantitas reell von res quanta unterschieden. Ihrer Ansicht nach wäre nämlich, wenn das Universale lediglich im Geiste bestünde, keine scientia realis mehr möglich, nur noch sermocinale, intentionale, rationale Wissenschaft.</p>\n<p id=\"p5\">5. <i>Pädagogisch-didaktisch:</i> Sowohl die realistische spekulative Grammatik als auch die terministische Logik (besonders die auf nominalistischer Grundlage) beeinflußten weitgehend den Unterricht in den Stadtschulen und an den Artesfakultäten. Schließlich <span class=\"col\" data-col=\"410\"></span> bemühte man sich um eine Parität beider Wege im Unterrichts- und Examenprogramm, was an den deutschen Universitäten gegen Ende des 15. Jh. meist gelang. Der Unterschied in der Lehrgrundlage bestand weiter. Auch methodisch gab es Unterschiede: Hatte die Dialektik bereits im 12. Jh. zu der quaestiones-Methode geführt, welche auch in der Theologie angewandt wurde, zogen es die antiqui vor, den Unterricht auf die getreue Weitergabe und wörtliche Erklärung des Textes des Aristoteles oder Thomas zu konzentrieren. Auch pastoral-theologische Erwägungen dürften ihre Abneigung gegen allzu subtile Unterscheidungen und unwesentliche Fragen erklären (JOHANNES GERSON). Unter dem Einfluß des aufkommenden Humanismus, der keine logische Sprachanalyse, sondern gepflegten Sprachgebrauch wollte, nahm der Wegestreit Anfang des 16. Jh. ein Ende.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">F. EHRLE s. Anm. [2]. – G. MEERSSEMAN: Gesch. des Albertismus 1 (Rom 1933); 2 (1935). – L. BAUDRY: La querelle des futurs contingents. Louvain 1465–1475 (Paris 1950). – J. P. SCHOBINGER: Vom Sein der Universalien. Ein Beitrag zur Deutung des Universalienstreites. Slg. Schweiz. Diss., Philos. R. 2 (1958). – L. M. de RIJK: Logica modernorum. A contribution to the hist. of early terminist logic 1 (Assen 1962); Bd. 2 (1968) konnte nicht benutzt werden. – A. G. WEILER: Heinrich von Gorkum (Hilversum 1962) (frühestes Dokument betr. des Wegestreites: Köln 1414); Magister Herwich van Amsterdam, in: Postillen, Festschrift R. R. Post (Nijmegen 1964) 257–283 (Einführung der via antiqua in Heidelberg 1452); Realisme, nominalisme, humanisme. Vox theol. 39 (1969) 58–79. – G. RITTER: Via antiqua und via moderna auf den dtsch. Univ. des XV. Jh. (<sup>2</sup>1963). – E. A. MOODY: A quodlibetal question of Robert Holkot o. p. on the problem of the objects of knowledge and belief. Speculum 39 (1964) 53–74. – T. K. SCOTT: John Buridan on the objects of demonstrative science. Speculum 40 (1965) 654–673. – J. PINBORG s. Anm. [1].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"410\"></span> Vgl. J. PINBORG: Die Entwicklung der Sprachtheorie im MA. Beiträge zur Gesch. der Philos. und Theol. des MA 42/2 (1967) 206.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. das Verzeichnis strittiger Fragen in den Ingoltstadter Schriftstücken: F. EHRLE: Der Sentenzenkomm. Peters von Candia, des Pisaner Papstes Alexander V. Ein Beitrag zur Scheidung der Schulen in der Scholastik des 14. Jh. und zur Gesch. des Wegenstreites. Franziskan. Stud. Beiheft 9 (1925) 331ff.</li>\n<li id=\"fn0-3\" value=\"3\">WILHELM VON OCKHAM, Sent. I, 2, 4, M.</li>\n</ol>",
+ "prev":{"id":187,"lemma":"Antiperístasis","band":"1","col":407},
+ "next":{"id":189,"lemma":"Antiqui/moderni (Querelle des Anciens et des Modernes)","band":"1","col":410},
+ "backlinks":[
+  {"id":2001,"lemma":"Modern, die Moderne","n":1},
+  {"id":2002,"lemma":"Modernismus","n":1},
+  {"id":2150,"lemma":"Nominalismus","n":1},
+  {"id":2588,"lemma":"Realismus","n":1},
+  {"id":3151,"lemma":"Terminismus","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"grammatica speculativa","qualifier":"","band":"1","col":"408"},
+  {"term":"moderni","qualifier":"","band":null,"col":null},
+  {"term":"modistae","qualifier":"","band":"1","col":"408"},
+  {"term":"modus significandi","qualifier":"","band":"1","col":"408"},
+  {"term":"nominalistae","qualifier":"","band":"1","col":"408"},
+  {"term":"propositio","qualifier":"","band":null,"col":null},
+  {"term":"realistae","qualifier":"","band":"1","col":"408"},
+  {"term":"terministae","qualifier":"","band":"1","col":"408"},
+  {"term":"Universalienstreit","qualifier":"","band":null,"col":null},
+  {"term":"via antiqua/via moderna","qualifier":"","band":null,"col":null},
+  {"term":"via moderna","qualifier":"","band":null,"col":null},
+  {"term":"Wegestreit","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":62,"name":"Wilhelm von Ockham","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1769,"name":"F. Ehrle","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":203,"name":"Petrus Hispanus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1524,"name":"Johannes Gerson","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1240,"name":"Pierre","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4358,"name":"Thomas von Erfurt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":5436,"name":"Wilhelms von Ockham","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7187,"name":"Robert Holkot","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":13504,"name":"Wiclif","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19264,"name":"Stephan Hoest","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19265,"name":"Hieronymus von Prag","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":136,"name":"J. Ritter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1165,"name":"E. A. Moody","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1899,"name":"L. Baudry","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3150,"name":"J.-P. Schobinger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4359,"name":"T. K. Scott","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6184,"name":"G. Meersseman","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8516,"name":"G. Weiler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":214,"name":"J. Pinborg","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":189,"name":"L. M. de Rijk","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1803,"lemma":"Logik","tf":7},
+  {"id":256,"lemma":"Artikulation","tf":2},
+  {"id":3039,"lemma":"Streit","tf":3},
+  {"id":1600,"lemma":"Komplex","tf":2},
+  {"id":2817,"lemma":"Seinsweise","tf":2},
+  {"id":1177,"lemma":"Grammatik","tf":2},
+  {"id":1459,"lemma":"Intellekt","tf":2},
+  {"id":1201,"lemma":"Gültigkeit","tf":2},
+  {"id":125,"lemma":"Analyse","tf":3},
+  {"id":2785,"lemma":"Schule","tf":2},
+  {"id":3169,"lemma":"Theologie","tf":2},
+  {"id":2066,"lemma":"Name","tf":2}
+ ],
+ "see_also":[
+  {"id":92,"lemma":"Albertinismus"},
+  {"id":1802,"lemma":"Logica vetus / Logica nova, Logica antiqua / Logica modernorum"},
+  {"id":2150,"lemma":"Nominalismus"},
+  {"id":2588,"lemma":"Realismus"},
+  {"id":3151,"lemma":"Terminismus"},
+  {"id":3188,"lemma":"Thomismus"},
+  {"id":3302,"lemma":"Universalien"}
+ ],
+ "groups":[
+  {"id":22,"name":"Logik","label":"Antiqui/moderni (via antiqua/via moderna)"},
+  {"id":26,"name":"Metaphysik","label":"Antiqui/moderni (via antiqua/via moderna)"},
+  {
+   "id":43,
+   "name":"Sprachphilosophie und Semiotik",
+   "label":"Antiqui/moderni (via antiqua/via moderna)"
+  }
+ ],
+ "reg_authors":[{"name":"Weiler Antonius Gerardus","n":1}]
+}
+);

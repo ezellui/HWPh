@@ -1,0 +1,57 @@
+HWPH.put("a/1063",
+{
+ "id":1063,
+ "lemma":"Generalthesis",
+ "band":"3",
+ "kind":"article",
+ "col_from":270,
+ "col_to":272,
+ "pdf_from":8189,
+ "pdf_to":8195,
+ "authors":["E. W. Orth"],
+ "n_notes":14,
+ "n_chars":7765,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Generalthesis (in der terminologischen Figur ‹G. der natürlichen Einstellung›) ist ein vorwiegend erkenntnistheoretischer Methodenbegriff der (transzendentalen) Phänomenologie E. HUSSERLS. Im ersten Buch der ‹Ideen ...› (1913) gehört er zur «Phänomenologischen Fundamentalbetrachtung» <sup class=\"fn\" data-fn=\"0-1\">1</sup> und hat nur dort eine ausdrückliche terminologische Stabilität; später ist er selten und begrifflich instabil <sup class=\"fn\" data-fn=\"0-2\">2</sup>. ‹G.› gehört zu dem (sich schon in dem genannten Werk entfaltenden) Wortfeld: ‹natürliche Einstellung <sup class=\"fn\" data-fn=\"0-3\">3</sup>, natürlicher Weltbegriff, natürliche Erfahrung, Horizont, Welthorizont, Umwelt, Glaubensgewißheit, Doxa, Urdoxa› usw. Die Thematisierung der G. führt dann zu dem späteren Begriff der ‹Lebenswelt› <sup class=\"fn\" data-fn=\"0-4\">4</sup>, in dem die erwähnten Termini eine gewisse Konzentrierung erfahren <sup class=\"fn\" data-fn=\"0-5\">5</sup>. ‹G.› und ‹Lebenswelt› charakterisieren zwei terminologische Pole des Husserlschen Problems einer phänomenologischen Fundamentalbetrachtung. Vor allem muß diese Fundamentalbetrachtung im Zusammenhang der detaillierten Reduktionsmethoden gesehen werden, die ihrerseits eine (doppelte) Rolle – für die Klärung von Fundierungsverhältnissen und für die Gewinnung des Transzendentalen – spielen. ‹G.›, ‹natürliche Einstellung›, ‹Bewußthabe einer realen Welt› drücken denselben Sachverhalt aus <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Zunächst lassen sich an der G. zwei – gleichursprüngliche – Momente unterscheiden: a) die Setzung eines <i>Welthorizontes</i>, mit dem sich ein gewisser Allgemeinheitscharakter manifestiert als Möglichkeitshorizont (nicht «wirklich», aber «immer») im Sinne des konkreten Verweises vom aktuell gegebenen «Ding» auf andere «Dinge»; b) die Setzung des <i>raum-zeitlichen Dinges</i> (im Welthorizont), mit dem sich ein Aktualitäts- und Wirklichkeitscharakter als doxische Habe des einzelnen Dinges («wirklich», aber nicht «immer») manifestiert. Diese schematische Unterscheidung trennt jedoch in der Analyse theoretisch, was faktisch untrennbar ist. Weder das einzelne Ding, das «durchstreichbar» ist, noch der Horizont (des Dinges) als solche sind wirklich <sup class=\"fn\" data-fn=\"0-7\">7</sup>: Wirklich ist vielmehr der Gesamtbegriff der Dinge, «die Welt» als omnitudo realitatis <sup class=\"fn\" data-fn=\"0-8\">8</sup>. – Neben dieser Schematisierung muß G. gemäß der intentional-analytischen Methode Husserls differenziert werden nach cogito und cogitatum: G. läßt sich (wieder nur in abstracto, nicht faktisch) in eine objektive Seite (Welt, Umwelt, Welthorizont) und in eine subjektive Seite als Vollzug (Glauben, Implikation, Potentialität) zerlegen. Die die Thesis vollziehende Instanz ist allerdings selbst Moment des Welthorizonts und umgekehrt der Welthorizont nur Horizont eines vollziehenden Ichs: «im natürlichen Dahinleben lebe ich immerfort in dieser <i>Grundform alles ‹aktuellen› Lebens</i>» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. <span class=\"col\" data-col=\"271\"></span></p>\n<p>Die G. ist kein bestimmter einzelner Akt, vielmehr diesem entgegengesetzt; sie ist «potentiell», nicht «ausdrücklich» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Der G. wird die «einzelne ... Thesis» mit der Unterscheidung jeweils verschiedener, zugehöriger Aktualitätsarten gegenübergestellt <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Ihre Allgemeinheit ist nicht die des (ontologisch) Idealen oder der Idee oder des logisch Formalen <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Im «Natürlichen» der natürlichen Einstellung sind zwei andere Einstellungsmöglichkeiten angelegt und zu unterscheiden: die «naturale» – auf quantifizierende Raum-Zeitlichkeit der res extensa ausgehende – und die «personal-kulturale» – auf subjektiv lebendige Aktivität ausgerichtete <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Daraus ergeben sich auch die ontologischen und anthropologischen Implikate der Begriffe ‹natürliche Einstellung› und ‹Lebenswelt›.</p>\n<p>Die G. der natürlichen Einstellung hat vor allem eine methodische Funktion bezüglich des transzendentalen Begründungsversuchs der Phänomenologie und wird demgemäß als Methodenbegriff bei der Fundamentalbetrachtung und der anschließenden reduktiven universalen Epoché entwickelt. Der Universalität (Generalität) der G. entspricht die der Epoché <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Die G. der natürlichen Einstellung ist die Form der Welthabe, die 1. von dem begründenden Philosophen als immer schon wirksame vorgefunden wird, die 2. als Ausgangsboden für die transzendental-philosophische Betrachtung benutzt wird und werden muß, die 3. als «naive» Einstellung zu überwinden ist und die 4. in ihrer Möglichkeit durch transzendental-phänomenologische Untersuchungen verständlich und durchschaubar zu machen ist. Insofern bekundet der Begriff ‹G.› eine Abwendung (s. 1. und 2.) von herkömmlichen transzendentalphilosophischen Einstellungen und zugleich eine Hinwendung (s. 3. und 4.) zu ihnen. Husserl will mit der Auszeichnung der G. die natürliche Einstellung und die natürliche Welthabe als faktischen Ausgang auch für Transzendentalphilosophie begreifen, um damit das unvermittelte und unfundierte Theoretisieren im «luftleeren Raum» der herkömmlichen Transzendentalphilosophie zu vermeiden. Diese Abkehr von den Formen des transzendentalen «Rationalismus» und «Formalismus» führt allerdings zu einer neuerlichen Inanspruchnahme der Rationalität und Formalität, denn Husserl unterstellt, daß nach Abschluß der transzendentalen Untersuchungen eine verständige und authentische Charakterisierung der natürlichen Einstellung, die von den herkömmlichen Transzendentalphilosophen gerade als irrational gekennzeichnet würde, möglich ist, ja, daß schon vor vollendeter Gewinnung des Transzendentalen, lediglich nach «transzendentaler Einstellung», die natürliche Welthabe gemäß einer eigenen Eidetik strukturell bestimmt werden kann. Im argumentativen <span class=\"col\" data-col=\"272\"></span> Fortschreiten muß die «natürliche Einstellung» überwunden werden, um in der eidetischen und dann in der transzendentalphänomenologischen (ihrerseits auch eidetischen) Reduktion zur reinen Region des absoluten transzendentalen Bewußtseins als Inbegriff transzendentaler Regelstrukturen vorzudringen.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">A. SCHÜTZ: Der sinnhafte Aufbau der sozialen Welt (1932, <sup>2</sup>1960) § 19. – H. G. GADAMER s. Anm. [5]. L. LANDGREBE s. Anm. [5]. – E. W. ORTH s. Anm. [5]. – P. JANSSEN s. Anm. [5]. – A. AGUIRRE s. Anm. [5]. – K. SCHUHMANN s. Anm. [6].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"272\"></span> E. HUSSERL: Ideen zu einer reinen Phänomenol. und phänomenol. Philos. (1913) (= Id. I) Abschn. 2, Kap. 1, §§ 27–32; § 30: Die G. der natürlichen Einstellung. Husserliana (= Hua) 3 (Den Haag 1950) 57–69.</li>\n<li id=\"fn0-2\" value=\"2\">Phänomenol. Psychol. Vorles. SS 1925 (= Ps.). Hua 9 (1962) 464: Unterabschn.: «Sinn der G. und generalen Epoché».</li>\n<li id=\"fn0-3\" value=\"3\">Schon in: Logische Untersuchungen (<sup>2</sup>1913 = LU) 2/1, 7; vgl. Die Idee der Phänomenol. (Vorles. 1907). Hua 2 (<sup>2</sup>1958) 17ff.</li>\n<li id=\"fn0-4\" value=\"4\">Die Krisis der europ. Wiss. und die transzendentale Phänomenol. (= Kr.) Hua 6 (<sup>2</sup>1962) bes. 105–193, §§ 28–55: 3. Tl. «A. Der Weg in die phänomenol. Transzendentalphilos. in der Rückfrage von der vorgegebenen Lebenswelt»; vgl. Erfahrung und Urteil (= EU), hg. L. LANDGREBE (1948) 38ff.; auch schon Id. II. Hua 4 (1952) 373ff.; vgl. Erste Philos., Vorles. 1923/24 (= EPh) Hua 7 (1956) 232. 293f.; Hua 8 (1959) 292f.; vgl. Ps. a.a.O. [2] 496. 499f. 463. 469; vgl. Cartesianische Meditationen (= CM). Hua 1 (1950) 60. 159f. 162.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. H.-G. GADAMER: Die phänomenol. Bewegung. Philos. Rdsch. 11 (1963) 19–34; W. H. MÜLLER: Die Philos. E. Husserls (1956) 80; E. W. ORTH: Bedeutung, Sinn, Gegenstand. Studien zur Sprachphilos. E. Husserls und R. Hönigswalds (1967) bes. 165ff. 249ff.; P. JANSSEN: Gesch. und Lebenswelt (Den Haag 1970) 29; A. AGUIRRE: Genetische Phänomenol. und Reduktion (Den Haag 1970) 3–30; L. LANDGREBE: Der Weg der Phänomenol. (1963) 41–52. 163–206.</li>\n<li id=\"fn0-6\" value=\"6\">K. SCHUHMANN: Die Fundamentalbetrachtung der Phänomenol. Zum Weltproblem in der Philos. E. Husserls (Den Haag 1971) 26.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. HUSSERL, PS. a.a.O. [2] 56ff. 62.</li>\n<li id=\"fn0-8\" value=\"8\">SCHUHMANN, a.a.O. [6] 27.</li>\n<li id=\"fn0-9\" value=\"9\">HUSSERL, Id. I a.a.O. [1] 60.</li>\n<li id=\"fn0-10\" value=\"10\">Id. I 63f. 256. 286ff.; vgl. SCHUHMANN, a.a.O. [6] 29.</li>\n<li id=\"fn0-11\" value=\"11\">HUSSERL, PS. a.a.O. [2] 466f.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. Id. I 58f. 170f.; Ps. 89ff.; EU a.a.O. [4] 25. 31.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. Id. II 332ff. 359–372. 372ff.; Ps. 381f. 487.</li>\n<li id=\"fn0-14\" value=\"14\">Vgl. Id. I 63ff. 69ff. 88; Ps. 464ff.; Kr. a.a.O. [4], 151. 176f.</li>\n</ol>",
+ "prev":{"id":1062,"lemma":"Generalisierung","band":"3","col":269},
+ "next":{"id":1064,"lemma":"Generatianismus und Traduzianismus","band":"3","col":272},
+ "backlinks":[{"id":3557,"lemma":"Welt","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Einstellung, natürliche","qualifier":"(Husserl)","band":null,"col":null},
+  {"term":"Weltbegriff, natürlicher","qualifier":"(Husserl)","band":null,"col":null},
+  {"term":"Welthorizont","qualifier":"(Husserl)","band":null,"col":null},
+  {"term":"– II (phän.) 2 421f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":14,"name":"E. Husserl","b":1,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":1216,"name":"K. Schuhmann","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":71,"name":"H.-G. Gadamer","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":731,"name":"E. W. Orth","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":2830,"name":"P. Janssen","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":5661,"name":"A. Aguirre","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":532,"name":"A. Schütz","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":2,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":691,"lemma":"Einstellung","tf":13},
+  {"id":1757,"lemma":"Lebenswelt","tf":3},
+  {"id":778,"lemma":"Epoché","tf":2},
+  {"id":3219,"lemma":"Transzendental","tf":2},
+  {"id":1310,"lemma":"Horizont","tf":3},
+  {"id":2374,"lemma":"Physis/Nomos, Physis/Thesis","tf":2},
+  {"id":2876,"lemma":"Setzen, Setzung","tf":2},
+  {"id":3278,"lemma":"Umwelt","tf":2},
+  {"id":2343,"lemma":"Phänomenologie","tf":2}
+ ],
+ "see_also":[
+  {"id":691,"lemma":"Einstellung"},
+  {"id":778,"lemma":"Epoché"},
+  {"id":1757,"lemma":"Lebenswelt"},
+  {"id":3341,"lemma":"Urdoxa"}
+ ],
+ "groups":[{"id":31,"name":"Phänomenologie","label":"Generalthesis (Husserl)"}],
+ "reg_authors":[{"name":"Orth Ernst Wolfgang","n":7}]
+}
+);

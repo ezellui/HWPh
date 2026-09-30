@@ -1,0 +1,37 @@
+HWPH.put("a/988",
+{
+ "id":988,
+ "lemma":"Ganzheitsmethode",
+ "band":"3",
+ "kind":"article",
+ "col_from":22,
+ "col_to":22,
+ "pdf_from":7395,
+ "pdf_to":7396,
+ "authors":["Chr. Salzmann"],
+ "n_notes":4,
+ "n_chars":1733,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Ganzheitsmethode. Die G. wurde als eine im Erstlese- und Erstrechenunterricht, aber auch in anderen Unterrichtsbereichen angewandte und weitverbreitete, jedoch nicht einheitlich anerkannte Unterrichtsmethode unter dem Einfluß von J. WITTMANN und A. KERN, der 1930 erstmals von einer ‹G.› sprach, in die Pädagogik eingeführt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Ansätze zur G. gab es bereits im 18. Jh.; so führte F. GEDICKE 1791 eine von den elementistischen Verfahrensweisen abweichende «Normalmethode» als analytisch-synthetisches Verfahren ein. Im 16. Jh. hatte V. ICKELSAMERS ‹Ein Teutsche Grammatica› den Ausgang vom Wort statt von den Buchstaben empfohlen <sup class=\"fn\" data-fn=\"0-2\">2</sup>. WITTMANN und KERN sind der Ganzheits- und Gestaltpsychologie verpflichtet. Die G. geht davon aus, daß sich die Unterrichtsgegenstände, z.B. die Schrift, den Schülern zunächst als relativ ungegliederte, aber in einem Sinnhorizont stehende Ganzheiten darbieten. Diese werden durch steten, methodisch gelenkten Umgang allmählich durchgegliedert und Einzelheiten (Teile) in ihrer Funktion und Stellung im Ganzen immer klarer erfaßt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Mit der Fähigkeit, das Ganze durchzugliedern, pflegt der Drang zu erwachen, es in immer umfassendere Zusammenhänge einzuordnen <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die G. kommt so der pädagogischen Forderung nach Selbsttätigkeit entgegen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. WITTMANN: Theorie und Praxis eines ganzheitlichen, analytisch-synthetischen Unterrichts (1933); A. KERN: Ist unsere Lesemethode richtig? (1930).</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. E. SCHWARTZ: Der Leseunterricht (1964) 77. 79f.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. B. BOSCH: Grundlagen des Erstleseunterrichts (<sup>2</sup>1949); A. und E. KERN: Praxis des ganzheitlichen Lesenlernens (<sup>12</sup>1964).</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. W. METZGER: Die Idee der Ganzheitlichkeit im psychol. Raum, in: Die Idee der Ganzheit in Philos., Pädag. und Didaktik, hg. A. KERN (1965).</li>\n</ol>",
+ "prev":{"id":987,"lemma":"Ganzheit","band":"3","col":20},
+ "next":{"id":989,"lemma":"Ganzheitspsychologie","band":"3","col":22},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":989,"name":"I. Kern","b":1,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":10992,"name":"J. Wittmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":279,"name":"W. Metzger","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1732,"name":"E. Schwartz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2411,"name":"M. Wittmann","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":7492,"name":"Kern","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":8597,"name":"G. Bosch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14136,"name":"F. Gedicke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":20626,"name":"V. Ickelsamers","b":1,"n":0,"l":0,"editor":0,"role":"source"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":30,"name":"Pädagogik","label":"Ganzheitsmethode"}],
+ "reg_authors":[{"name":"Salzmann Christian","n":1}]
+}
+);

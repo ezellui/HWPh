@@ -1,0 +1,12 @@
+HWPH.put("t/2666",
+{
+ "b":"Rekognition (von lat. recognitio Prüfung, Wiedererkennung, Identifizierung; engl. recognition; frz. recognition; ital. ricognizione). Das lat. Wort ‹recognitio› gehört – trotz seiner gelegentlichen Verwendung im Sinne von ‹Selbsterkenntnis› (SENECA ) – nicht zur Terminologie der antiken Philosophie. \n‹R.› heißt bei I. KANT eine die Apprehension und Reproduktion der Vorstellungen ergänzende, notwendige Bedingung aller Erfahrung. Ihre Funktion erhellt aus der Unterscheidung der drei ursprünglichen Vermögen der Seele: Sinn, Einbildungskraft und Apperzeption als Instanzen, die eine dreifache Synthesis zu vollbringen haben, nämlich diejenige der «Apprehension der Vorstellungen als Modificationen des Gemüths in der Anschauung», die der «Reproduction derselben in der Einbildung» und die ihrer «Recognition im Begriffe» : «Ohne Bewußtsein, daß das, was wir denken, eben dasselbe sei, was wir einen Augenblick zuvor dachten, würde alle Reproduction in der Reihe der Vorstellungen» mangels einer bestimmenden Einheit des Mannigfaltigen «vergeblich sein» . Die zur Erreichung dieser Einheit geforderte Instanz ist die R. als das empirische Bewußtsein der Identität der reproduktiven Vorstellungen mit den ihnen zugrundeliegenden Erscheinungen . Die «Gründe der Recognition des Mannigfaltigen, so fern sie blos die Form einer Erfahrung überhaupt angehen, sind ... Kategorien. Auf ihnen gründet sich also alle formale Einheit in der Synthesis der Einbildungskraft und vermittelst dieser auch alles empirischen Gebrauchs derselben (in der Recognition, Reproduction, Association, Apprehension) bis herunter zu den Erscheinungen, weil diese nur vermittelst jener Elemente der Erkenntniß ... unserm Bewußtsein ... angehören können» . \nNach H. SPENCER sind alle Denkoperationen «in das Erkennen [recognition] von Gleichheit und Ungleichheit» zerlegbar. Bei J. DEWEY sind die R.en Vorbereitungen des eigentlichen Erkenntnisakts .",
+ "n":"SENECA: De ira III, 36, 2. \nI. KANT: KrV A 95. \nA 97. \nA 103. \nA 115. \nA 125. \nH. SPENCER: Princ. of ethics 1–2 (London 1879/92); dtsch.: Die Principien der Ethik, übers. B. VETTER (1879ff.) 347. \nJ. DEWEY: Experience and nature (LaSalle, Ill. 1958) 267.",
+ "l":"",
+ "au":"F. Lötzsch",
+ "A":["F. Lötzsch"],
+ "cb":[[0,569],[22,570],[302,570],[1729,570]],
+ "cn":[[0,569],[28,569],[48,569],[55,569],[63,569],[71,569],[79,569],[197,569]],
+ "cl":[]
+}
+);

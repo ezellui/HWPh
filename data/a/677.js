@@ -1,0 +1,48 @@
+HWPH.put("a/677",
+{
+ "id":677,
+ "lemma":"Einfachheit, Prinzip der",
+ "band":"2",
+ "kind":"article",
+ "col_from":388,
+ "col_to":389,
+ "pdf_from":4855,
+ "pdf_to":4859,
+ "authors":["W. Oberschelp"],
+ "n_notes":11,
+ "n_chars":5399,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Einfachheit, Prinzip der. Ursprünglich war das P.d.E. ein naiv-heuristisches Prinzip, welches vorschreibt, von mehreren konkurrierenden Theorien zur Deutung eines Phänomenkomplexes die einfachere zu bevorzugen. Bis in die jüngste Zeit hinein ist das P.d.E. unter diesem Namen allerdings noch nicht Gegenstand der Forschung gewesen, obwohl es zumindest in den Naturwissenschaften eine berühmte Tradition hat: Allein die größere Einfachheit entschied im klassischen Streit über die Kinematik der Himmelskörper für Galilei und gegen Ptolemäus. Doch zeigt die Begründung des P.d.E. eine bemerkenswerte Entwicklung: Erschien noch KEPLER das P.d.E. als ein absolutes Gesetz, dem die Natur glücklicherweise gehorcht («amat natura simplicitatem») <sup class=\"fn\" data-fn=\"0-1\">1</sup>, so tritt über GALILEI <sup class=\"fn\" data-fn=\"0-2\">2</sup> und LEIBNIZ <sup class=\"fn\" data-fn=\"0-3\">3</sup> die Struktur des menschlichen Intellektes mehr und mehr zur Rechtfertigung hervor. Schließlich begreift die moderne Naturwissenschaft das P.d.E. als ein lediglich ökonomisches Methodenprinzip. Ein typischer Vertreter dieser Auffassung ist G. KIRCHHOFF <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die eigentlichen Impulse, das P.d.E. zu einem quantitativ nutzbaren Hilfsmittel zu machen, gehen aber von der mathematischen Wahrscheinlichkeitstheorie aus. «Das Einfachere ist das Wahrscheinlichere» wird so zur zunächst intuitiven Richtschnur der Vorhersagetheorie (etwa bei JEFFREYS <sup class=\"fn\" data-fn=\"0-5\">5</sup>) und fordert damit zur Präzisierung heraus. Insofern werden exakte Kriterien für die Vergleichbarkeit wissenschaftlicher Theorien und Maße für deren Einfachheit erforderlich. In dieser Fragestellung gehört das P.d.E. der Theorie der formalen Sprachen an, genauer der induktiven Logik, deren Entwicklung als formale Sprache vornehmlich auf CARNAP zurückgeht. Da das P.d.E. einer streng semantischen Begründung in der Booleschen Algebra der beiden Wahrheitswerte 0 und 1 nicht fähig ist, steht es in seiner Qualität unter den Schlußprinzipien der deduktiven Logik. Es gibt somit einen zweiten Grund, den Begriff der Wahrscheinlichkeit mit dem E. Begriff zu verbinden: Statt der klassischen Wahrheitswerte verwende man Wahrscheinlichkeiten, die ja zwischen 0 und 1 liegen.</p>\n<p>Bei dieser Sachlage richtet sich das Hauptinteresse zunächst mehr auf Begründungen als auf Anwendungen des P.d.E. Basierend auf der neopositivistischen Forderung, statt eines «psychologisierenden» Wahrscheinlichkeitsbegriffes ein «objektives» Explicatum zu verwenden <sup class=\"fn\" data-fn=\"0-6\">6</sup>, ist ein präzisiertes P.d.E. zuerst von KIESOW und HERMES (1958) formuliert und mit einem Modell von «logischen» Wahrscheinlichkeiten begründet worden.</p>\n<p>Eine nicht-triviale Anwendung und damit eine pragmatische Rechtfertigung des P.d.E. würde darin <span class=\"col\" data-col=\"389\"></span> bestehen, in einem möglichst umfassenden, präzisierten Modell alle naiven Anwendungen des Prinzips nachvollziehen zu können. Dieses Idealprogramm ist nur zum geringsten Teil verwirklicht. Ein erster Grund dafür ist die Tatsache, daß sich E.-Maße nicht in eine absolute numerische Skala zwingend einbauen lassen, da unsere Intuitionen von E. zu unscharf sind. Die von CARNAP untersuchten induktiven Methoden <sup class=\"fn\" data-fn=\"0-7\">7</sup> z.B. können von ihrer Motivierung her als E.-Prinzipien (im Rahmen der Prädikatenlogik mit zusätzlichen Wahrscheinlichkeitsattributen) angesehen werden und liefern kontinuierlich viele E.-Skalen, ohne daß eine von ihnen als Idealskala begründbar wäre. Damit ist der naive Glaube an eine «richtige» a-priori-Skala, zuletzt von CARNAP 1950 ausgesprochen <sup class=\"fn\" data-fn=\"0-8\">8</sup>, hinfällig. Es sind bestenfalls die komparativen Begriffe («gleich einfach», «einfacher als») begründbar, und diese sind invariant gegenüber monotonen Skalentransformationen. Die dadurch hervorgerufene numerische Unsicherheit der E.-Maße fällt um so erschwerender ins Gewicht, als sich die E. einer komplexen Theorie nur indirekt aus den E. der konstituierenden Modelldiagramme (state-descriptions <sup class=\"fn\" data-fn=\"0-9\">9</sup>) bestimmen läßt und dadurch die numerische Unsicherheit noch iteriert wird. E.-Präzisierungen fallen also im allgemeinen dann, wenn sie philosophisch unangreifbar sind, zu schwach aus, da scharfe E.- nur in Grenzfällen intuitiv begründbar sind.</p>\n<p>Ein zweiter Grund für das bisherige Scheitern der Präzisierung des P.d.E. ist die Tatsache, daß schon in sehr elementaren Sprachen E.-Maße abhängig von der zufällig gewählten Grundsprache sind <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Der entscheidende Mangel ist aber schließlich die Beschränktheit aller dieser Überlegungen auf Sprachrahmen mit nur einstelligen Attributen. Schon beim Übergang zu zweistelligen Attributen kommt man zu unübersehbaren Problemen in der Beurteilung der dann a priori noch möglichen Modelldiagramme <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">R. CARNAP s. Anm. [6]. – H. HERMES: Zum E.-Prinzip in der Wahrscheinlichkeitsrechnung. Dialectica 12 (1958) 317–330. – H. KIESOW: Anwendung eines E.-Prinzips auf die Wahrscheinlichkeitstheorie. Arch. math. Logik 4 (1958) 27–41. – W. OBERSCHELP s. Anm. [10].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"389\"></span> J. KEPLER Astronomii Opera omnia, hg. FRISCH 1, 113.</li>\n<li id=\"fn0-2\" value=\"2\">GALILEI, Opere, Ed. nazionale 12, 155.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. L. COUTURAT: La logique de Leibniz (Paris 1901) 268.</li>\n<li id=\"fn0-4\" value=\"4\">G. KIRCHHOFF: Vorles. über math. Physik 1 (1876) Vorrede.</li>\n<li id=\"fn0-5\" value=\"5\">H. JEFFREYS: Probability (Oxford 1939) 4–5.</li>\n<li id=\"fn0-6\" value=\"6\">R. CARNAP: Logical foundations of probability (Chicago 1950) § 12.</li>\n<li id=\"fn0-7\" value=\"7\">R. CARNAP: The continuum of inductive methods (Chicago 1952).</li>\n<li id=\"fn0-8\" value=\"8\">CARNAP, a.a.O. [6] appendix.</li>\n<li id=\"fn0-9\" value=\"9\">a.a.O. §§ 18/19.</li>\n<li id=\"fn0-10\" value=\"10\">W. OBERSCHELP: E.-Prinzipien in der Wahrscheinlichkeitstheorie. Arch. math. Logik 5 (1960) 3–25.</li>\n<li id=\"fn0-11\" value=\"11\">W. OBERSCHELP: Strukturzahlen in endlichen Relationssystemen. Contr. to math. Logic (Amsterdam 1968) 199–213.</li>\n</ol>",
+ "prev":{"id":676,"lemma":"Einfachheit, einfach/zusammengesetzt","band":"2","col":384},
+ "next":{"id":678,"lemma":"Einfall","band":"2","col":389},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Prinzip der Einfachheit","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":36,"name":"R. Carnap","b":3,"n":3,"l":1,"editor":0,"role":"source"},
+  {"id":10808,"name":"W. Oberschelp","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":188,"name":"G. Galilei","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":230,"name":"J. Kepler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4408,"name":"G. Kirchhoff","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7373,"name":"H. Jeffreys","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":451,"name":"H. Hermes","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13873,"name":"H. Kiesow","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":236,"name":"L. Couturat","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4870,"name":"Frisch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":676,"lemma":"Einfachheit, einfach/zusammengesetzt","tf":3},
+  {"id":3540,"lemma":"Wahrscheinlichkeit","tf":3},
+  {"id":3538,"lemma":"Wahrheitswert","tf":2},
+  {"id":284,"lemma":"Attribute (Eigenschaften) Gottes","tf":2},
+  {"id":2601,"lemma":"Rechtfertigung","tf":2},
+  {"id":1999,"lemma":"Modell","tf":2},
+  {"id":3130,"lemma":"Tatsache","tf":2},
+  {"id":1803,"lemma":"Logik","tf":2}
+ ],
+ "see_also":[{"id":556,"lemma":"Denkökonomie"},{"id":3540,"lemma":"Wahrscheinlichkeit"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Einfachheit, Prinzip der"}],
+ "reg_authors":[{"name":"Oberschelp Walter","n":1}]
+}
+);

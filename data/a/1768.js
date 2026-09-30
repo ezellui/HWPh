@@ -1,0 +1,27 @@
+HWPH.put("a/1768",
+{
+ "id":1768,
+ "lemma":"Lehrsatz",
+ "band":"5",
+ "kind":"article",
+ "col_from":173,
+ "col_to":173,
+ "pdf_from":16520,
+ "pdf_to":16520,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":147,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Lehrsatz ist durch CHR. WOLFF <sup class=\"fn\" data-fn=\"0-1\">1</sup> als Übersetzung von ‹Theorem› in die Philosophie- und Wissenschaftssprache eingegangen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">CHR. WOLFF: Math. Lex. (1716).</li>\n</ol>",
+ "prev":{"id":1767,"lemma":"Lehrgedicht","band":"5","col":171},
+ "next":{"id":1769,"lemma":"Leib, Körper","band":"5","col":173},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":3178,"lemma":"Theorem"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Lehrsatz"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

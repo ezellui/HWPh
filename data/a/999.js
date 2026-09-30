@@ -1,0 +1,86 @@
+HWPH.put("a/999",
+{
+ "id":999,
+ "lemma":"Gedanke",
+ "band":"3",
+ "kind":"article",
+ "col_from":52,
+ "col_to":55,
+ "pdf_from":7493,
+ "pdf_to":7500,
+ "authors":["L. Oeing-Hanhoff","A. Veraart"],
+ "n_notes":33,
+ "n_chars":8418,
+ "toc":[
+  ["p1","I. Der auf das Verbum ‹denken› (s.d.) verweisende deutsche Ausdruck ‹G.› ",1],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Gedanke (griech. νόημα, λόγος; <span class=\"col\" data-col=\"53\"></span> lat. cogitatio, notio, idea; ital. pensiero; frz. pensée; engl. thought)</p>\n<p id=\"p1\">I. Der auf das Verbum <a class=\"xref\" href=\"#/a/552\">‹denken›</a> <span class=\"sd\">→ (s.d.)</span> verweisende deutsche Ausdruck ‹G.› war und ist auch in seinem philosophischen Gebrauch vieldeutig. Bis ins 16. Jh. diente er zur Übersetzung von ‹mens›, ‹dianoea› und ‹sententia› <sup class=\"fn\" data-fn=\"0-1\">1</sup>. ‹G.› wird freilich im Sinne von ‹Geist› oder ‹Seele›, wie etwa «anima mea» als «min gedanc» übersetzt werden konnte <sup class=\"fn\" data-fn=\"0-2\">2</sup>, nicht mehr gebraucht; immerhin verdient bemerkt zu werden, daß auch nach DESCARTES «cogitatio», das ja mit ‹G.› übersetzt wurde, «mitunter auch die Substanz» bezeichnet, «in der das Denkvermögen ist» <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Als Übersetzung von ‹dianoea› bezeichnet ‹G.› «das Folgern oder den Diskurs in der dritten Tätigkeit des Geistes» <sup class=\"fn\" data-fn=\"0-4\">4</sup>, also allgemein gefaßt den Akt oder die Tätigkeit des Verstandes. Diese Bedeutung von G. als Akt des Denkens hat DESCARTES ebenfalls herausgestellt: «cogitatio interdum pro actione ... sumitur» (G. wird mitunter als die Tätigkeit des Denkens genommen) <sup class=\"fn\" data-fn=\"0-5\">5</sup>; HAMILTON z.B. wiederholt diese Bestimmung <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>‹G.› bezeichnet aber nicht nur den Akt des Denkens, sondern kann auch – und darauf weist die angeführte Möglichkeit, mit diesem Ausdruck ‹sententia› zu übersetzen, hin – das immanente Resultat des Denkens, das in einer Aussage oder einem Satz Ausgesagte (propositio, sententia) oder Gedachte (verbum mentis, νόημα) bezeichnen, sofern es als G. oder als Gedachtes im Denkenden ist. In diesem Sinne werden in der Schulphilosophie des 17. Jh. die «gedanken des gemüets» u.a. als die «cogitata, ... quae cogitantur» oder als «conceptus mentis» (die Konzeptionen oder Begriffe des Geistes) beschrieben <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Hierhin gehören auch die Bestimmungen CHR. WOLFFS und seiner Schule, wonach ein G. «diejenige Würkung der Seele» (oder des Verstandes) heißt, «wodurch wir uns bewußt sind» (oder uns Dinge bewußt werden) <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Zwar wird hier nicht ausdrücklich zwischen der gedachten Sache an sich und ihrer Repräsentation in Ideen unterschieden, aber J. G. WALCH bestimmt doch in diesem Sinne sowohl den G. als auch die Idee als «Wirkung des Verstandes» <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Die Bedeutung von ‹G.› als dem immanenten Resultat des Ideen konzipierenden, begriffsbildenden oder Begriffe zur Aussage verbindenden Denkaktes kommt auch mit HAMILTONS Bestimmung von «thought» überein, insofern damit nicht nur der Akt, sondern gerade auch «das Produkt» der diskursiven Fähigkeit bezeichnet wird <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Natürlich impliziert ein solcher Sprachgebrauch eine wie immer des näheren verstandene Abbildtheorie, der gemäß G. als Begriffe (Ideen) oder Sätze Wesenheiten oder Tatsachen <span class=\"col\" data-col=\"54\"></span> abbilden oder repräsentieren. In diesem Sinne heißt es bei WITTGENSTEIN: «Das logische Bild der Tatsachen ist der G.» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Eine solche Abbildtheorie und die ihr gemäße Bestimmung des G. wird vom Standpunkt einer idealistischen, intuitionistischen oder phänomenologischen Philosophie her nicht anerkannt, da unmittelbares Korrelat des Denkaktes die von ihm produzierte oder ihm vorgegebene Sache selbst sei, die denkend erfaßt werde, also im Unterschied zum sinnlich Wahrgenommenen νοητόν oder νοούμενον (ein nur denkend erfaßbares gedachtes Wesen) sei. Der Tendenz, zwischen dem Denken und dem G. als seinem immanenten Resultat nicht zu unterscheiden, kommt auch der seit dem Ende des 19. Jh. sich verbreitende Sprachgebrauch entgegen, stattdessen den psychologischen Akt des Denkens von seinem «idealen» Inhalt zu unterscheiden, was zweifellos eine oft zu fraglos angesetzte Unterscheidung ist, der gegenüber HEIDEGGER gefordert hat, «die Seinsart des Denkens und des Gedachten ontologisch aufzuklären» <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>Aber auch die Sachen selbst können G. genannt werden. Das war selbst dem allgemeinen Sprachgebrauch nicht fremd, sofern sie als «G. Gottes» hingestellt wurden <sup class=\"fn\" data-fn=\"0-13\">13</sup>, wie GOETHE etwa Adam und Eva «Gottes zwei lieblichste G.» nennt <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Aber auch von Gott selbst kann, wie SCHILLER es tut <sup class=\"fn\" data-fn=\"0-15\">15</sup>, gesagt werden, er sei «der höchste G.».</p>\n<p>Damit wird modifiziert die erstgenannte Bestimmung von ‹G.› als Geist wiederholt. Von hier aus läßt sich aber auch HEGELS Lehre vom «objektiven G.» verstehen. Danach sind die G. des wahren Denkens, das seinen Gegenstand erreicht hat und mit ihm übereinstimmt, «die Wesenheiten der Dinge», «das Innere der Welt», die der Welt «immanente Vernunft» als ihre «innerste Natur» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Hegel nennt die objektiven G. auch «die Denkbestimmungen» als die «Grundbestimmungen der Dinge» <sup class=\"fn\" data-fn=\"0-17\">17</sup> und erklärt: «die G. sind dagegen (gegen das sinnlich Wahrnehmbare) das wahrhaft Selbständige und Primitive», weshalb «die G. nicht bloß unsere G., sondern zugleich das Ansich der Dinge und des Gegenständlichen überhaupt sind» <sup class=\"fn\" data-fn=\"0-18\">18</sup>.</p>\n<p>Von dieser platonisierenden Auffassung des objektiven G. führt wahrscheinlich eine nicht nur sachliche, sondern auch eine historische Beziehung zu FREGES Lehre von dem objektiven G. hin.</p>\n<p>II. B. BOLZANO versteht unter G. die Sätze an sich und die Vorstellungen an <a class=\"xref\" href=\"#/a/3504\">sich</a> <span class=\"sd\">→ (s.d.)</span>, sofern sie gedacht werden <sup class=\"fn\" data-fn=\"1-1\">1</sup>. Als psychischen Akten kommt den G. im Unterschied zu den Sätzen an sich und den Vorstellungen an sich «ein wirkliches Dasein» von bestimmter Zeitdauer zu. Das Fürwahrhalten eines Satzes nennt Bolzano ‹Urteil› <sup class=\"fn\" data-fn=\"1-2\">2</sup>. Wie G. sind auch Urteile psychische Akte.</p>\n<p>Im Gegensatz zu Bolzano verwendet G. FREGE den Terminus ‹G.› eher im Sinne des Bolzanoschen Satzes an sich <sup class=\"fn\" data-fn=\"1-3\">3</sup>. Er unterscheidet zwischen G. und Vorstellungen <sup class=\"fn\" data-fn=\"1-4\">4</sup>. G. sind nach ihm objektiv, d.h. sie existieren unabhängig von der Innenwelt (dem Bewußtsein) und der Außenwelt des Denkenden <sup class=\"fn\" data-fn=\"1-5\">5</sup>. Daher muß für die G. ein «drittes Reich» anerkannt werden. Vorstellungen sind subjektiv, d.h. sie kommen in der Innenwelt als Sinneseindrücke, Gefühle, Neigungen usw. vor <sup class=\"fn\" data-fn=\"1-6\">6</sup>. Eine heutige Redeweise in der Logik gebraucht statt ‹G,› das Wort ‹Sachverhalt›, wobei ‹wahrer Sachverhalt› synonym mit ‹Tatsache› verwendet wird <sup class=\"fn\" data-fn=\"1-7\">7</sup>. Dieser Sprachgebrauch schließt in gewisser Weise an den Freges an, nach dem eine Tatsache ein «wahrer Gedanke» ist <sup class=\"fn\" data-fn=\"1-8\">8</sup>. Für ihn ist ein G. «etwas, von dem gilt: wahr oder falsch, ein Drittes gibt es nicht» <sup class=\"fn\" data-fn=\"1-9\">9</sup>. Der G. wird in einem <span class=\"col\" data-col=\"55\"></span> Satz ausgedrückt (faßbar) <sup class=\"fn\" data-fn=\"1-10\">10</sup>. Enthält der Satz kontextabhängige Bestandteile (z.B. Indikatoren), so sind gewisse das Sprechen begleitende Umstände auch Mittel des G.-Ausdrucks <sup class=\"fn\" data-fn=\"1-11\">11</sup>. Der G. wird als der Sinn gewisser Sätze bestimmt. Dabei denkt Frege vor allem an Behauptungssätze <sup class=\"fn\" data-fn=\"1-12\">12</sup>. In einem Behauptungssatz muß unterschieden werden zwischen dem Inhalt und der Behauptung. Der Inhalt ist der G. oder kann ihn wenigstens enthalten <sup class=\"fn\" data-fn=\"1-13\">13</sup>. G. und Inhalt müssen aber nicht identisch sein. Frege unterscheidet nämlich neben dem G. und der Behauptung noch die Färbung (Beleuchtung) <sup class=\"fn\" data-fn=\"1-14\">14</sup>. Das Fassen eines G. nennt er ‹Denken›, das Anerkennen der Wahrheit eines G. ‹Urteilen› und das Kundgeben eines Urteils ‹Behaupten› <sup class=\"fn\" data-fn=\"1-15\">15</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"54\"></span> Vgl. GRIMM 4, 1943; Trübners Dtsch. Wb. 3, 44.</li>\n<li id=\"fn0-2\" value=\"2\">ebda.</li>\n<li id=\"fn0-3\" value=\"3\">R. DESCARTES, Med. Resp. III. Oeuvres, hg. ADAM/TANNERY 7, 174.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. MICRAELIUS: Lexicon Philos. (1662, ND 1966) s.v. ‹dianoea›.</li>\n<li id=\"fn0-5\" value=\"5\">DESCARTES, a.a.O. [3].</li>\n<li id=\"fn0-6\" value=\"6\">W. HAMILTON, Logic 5, 73, zit. nach LALANDE<sup>9</sup> s.v. ‹pensée›; vgl. zu dieser Bestimmung auch EISLER<sup>4</sup> s.v.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. GRIMM, a.a.O. [1] 1947.</li>\n<li id=\"fn0-8\" value=\"8\">CHR. WOLFF: Vernünftige Gedanken von den Kräften des menschlichen Verstandes ..., hg. H. W. Arndt (1965) 123; J. G. WALCH: Philos. Lexicon (1740) s.v. ‹Gedancken›.</li>\n<li id=\"fn0-9\" value=\"9\">WALCH, a.a.O. s.v. ‹Idee›.</li>\n<li id=\"fn0-10\" value=\"10\">HAMILTON, a.a.O. [6].</li>\n<li id=\"fn0-11\" value=\"11\">L. WITTGENSTEIN, Tractatus logico-philos. 3.</li>\n<li id=\"fn0-12\" value=\"12\">M. HEIDEGGER: Sein und Zeit (<sup>5</sup>1941) 217; vgl. H. KRINGS: Transzendentale Logik (1964) 22ff.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. die Belege bei GRIMM, a.a.O. [1] 1955f.</li>\n<li id=\"fn0-14\" value=\"14\">J. W. GOETHE, West-Östl. Divan, Buch der Parabeln, «Es ist gut».</li>\n<li id=\"fn0-15\" value=\"15\">FR. SCHILLER, Säkular-A. 1, 164.</li>\n<li id=\"fn0-16\" value=\"16\">G. W. F. HEGEL, Enzyklop. der philos. Wiss. § 24, Z. 1.</li>\n<li id=\"fn0-17\" value=\"17\">a.a.O. § 28.</li>\n<li id=\"fn0-18\" value=\"18\">§ 41, Z. 2. <span class=\"col\" data-col=\"55\"></span></li>\n<li id=\"fn1-1\" value=\"1\">B. BOLZANO: Wissenschaftslehre (1837) §§ 19. 25. 50. 54.</li>\n<li id=\"fn1-2\" value=\"2\">a.a.O. §§ 19. 34.</li>\n<li id=\"fn1-3\" value=\"3\">Vgl. F. KAMBARTEL: Der philos. Standpunkt der Bolzanoschen Wissenschaftslehre, in: B. BOLZANOS Grundlegung der Logik. Philos. Bibl. 259 (1963) bes. XVIIIff.</li>\n<li id=\"fn1-4\" value=\"4\">G. FREGE: Der G., in: Beiträge zur Philos. des dtsch. Idealismus 1 (1918/19) 58–77.</li>\n<li id=\"fn1-5\" value=\"5\">a.a.O. 69.</li>\n<li id=\"fn1-6\" value=\"6\">66.</li>\n<li id=\"fn1-7\" value=\"7\">W. KAMLAH und P. LORENZEN: Logische Propädeutik oder Vorschule des vernünftigen Redens (<sup>2</sup>1967) 131.</li>\n<li id=\"fn1-8\" value=\"8\">FREGE, a.a.O. [4] 74.</li>\n<li id=\"fn1-9\" value=\"9\">G.-Gefüge, in: Beiträge zur Philos. des dtsch. Idealismus 3 (1923/26) 36–51, 38.</li>\n<li id=\"fn1-10\" value=\"10\">Der G. a.a.O. [4] 61.</li>\n<li id=\"fn1-11\" value=\"11\">64.</li>\n<li id=\"fn1-12\" value=\"12\">62f.</li>\n<li id=\"fn1-13\" value=\"13\">63f.</li>\n<li id=\"fn1-14\" value=\"14\">Vgl. G. GABRIEL: Logik und Sprachphilos. bei Frege, in: G. FREGE, Schriften zur Logik und Sprachphilos. aus dem Nachlaß hg. G. GABRIEL, in: Philos. Bibl. 277 (1971) bes. XXIVff.</li>\n<li id=\"fn1-15\" value=\"15\">FREGE, Der G. a.a.O. [4] 62.</li>\n</ol>",
+ "prev":{"id":998,"lemma":"Gedächtnistäuschung","band":"3","col":46},
+ "next":{"id":1000,"lemma":"Gedankending (ens rationis)","band":"3","col":55},
+ "backlinks":[
+  {"id":1558,"lemma":"Kennzeichnung, Kennzeichnungstheorie","n":1},
+  {"id":2380,"lemma":"Platonismus","n":1},
+  {"id":3355,"lemma":"Urteil","n":2},
+  {"id":3523,"lemma":"Wahrheit","n":1},
+  {"id":3531,"lemma":"Wahrheit, objektive","n":1}
+ ],
+ "outlinks":[{"id":552,"lemma":"Denken","n":1},{"id":3504,"lemma":"Vorstellung an sich","n":1}],
+ "register":[
+  {"term":"cogitatio","qualifier":"","band":null,"col":null},
+  {"term":"conceptus mentis","qualifier":"I","band":"3","col":"53"},
+  {"term":"dianoea","qualifier":"I","band":"3","col":"53"},
+  {"term":"Färbung","qualifier":"II (Frege)","band":"3","col":"55"},
+  {"term":"Geist","qualifier":"I","band":null,"col":null},
+  {"term":"idea","qualifier":"","band":null,"col":null},
+  {"term":"notio","qualifier":"","band":null,"col":null},
+  {"term":"Reich, drittes","qualifier":"II (Frege)","band":"3","col":"54"},
+  {"term":"Sachverhalt","qualifier":"II (Frege)","band":"3","col":"54"},
+  {"term":"Satz an sich","qualifier":"II (Frege)","band":null,"col":null},
+  {"term":"sententia","qualifier":"I","band":"3","col":"53"},
+  {"term":"Tatsache","qualifier":"II (Frege)","band":"3","col":"54"},
+  {"term":"νόημα","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":40,"name":"G. Frege","b":2,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":15,"name":"R. Descartes","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":169,"name":"W. Hamilton","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":94,"name":"J. G. Walch","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":96,"name":"B. Bolzano","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":20,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":42,"name":"F. Schiller","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":32,"name":"L. Wittgenstein","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":262,"name":"Gabriel Biel","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":81,"name":"P. Lorenzen","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":156,"name":"J. Micraelius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":273,"name":"F. Kambartel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":482,"name":"W. Kamlah","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":630,"name":"H. Krings","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":77,"name":"Ch. Adam","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":18,"lemma":"Abbildtheorie","tf":2},
+  {"id":1445,"lemma":"Innenwelt","tf":2},
+  {"id":2745,"lemma":"Satz","tf":5},
+  {"id":2749,"lemma":"Sätze, subjektlose","tf":4},
+  {"id":3130,"lemma":"Tatsache","tf":4},
+  {"id":2732,"lemma":"Sachverhalt","tf":2},
+  {"id":374,"lemma":"Behauptung","tf":2},
+  {"id":2730,"lemma":"Sache","tf":3},
+  {"id":2654,"lemma":"Reich, Drittes","tf":2},
+  {"id":309,"lemma":"Aussage","tf":2},
+  {"id":2794,"lemma":"Seele","tf":2}
+ ],
+ "see_also":[{"id":552,"lemma":"Denken"}],
+ "groups":[
+  {"id":9,"name":"Erkenntnistheorie","label":"Gedanke"},
+  {"id":22,"name":"Logik","label":"Gedanke II (Frege)"}
+ ],
+ "reg_authors":[{"name":"Oeing-Hanhoff Ludger","n":29},{"name":"Veraart Heinz-Albert","n":7}]
+}
+);

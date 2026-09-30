@@ -1,0 +1,33 @@
+HWPH.put("t/479",
+{
+ "b":"Causa sui (Ursache seiner selbst) ist eine Bezeichnung, die allgemein dazu dient, die Selbstbestimmung zu charakterisieren. Der Begriff ‹Selbstbestimmung› ist seinerseits zweideutig; denn er kann ebensowohl die intelligible Notwendigkeit bezeichnen, die einem Wesen eigen ist, wie die radikale Freiheit, in der ein Wesen sich selbst setzt. Diese Zweideutigkeit zeigt sich schon bei PLOTIN beim ersten Gebrauch des C.s.-Begriffs in seiner griechischen Form (αἴτιον ἑαυτοῦ) . Seinen Gegnern, die behaupten, das Eine sei kontingenterweise aufgetreten und zufällig erschienen, antwortet Plotin, daß das Eine nicht aus einer ihm äußeren Kausalität resultieren kann, da es das Erste und da es einfach ist. Es ist also Ursache seiner selbst und frei, weil es sich will, wie es ist, und weil es ist, wie es sich will . So gibt es beim Einen Plotins Koinzidenz von absoluter Freiheit und absoluter Notwendigkeit. Plotin präzisiert jedoch, daß die Bezeichnung ‹Ursache seiner selbst› nur metaphorische Bedeutung hat und daß sie nur dazu dient, die absolute Vorrangstellung des Einen begreifen zu lassen . \nIm lateinischen Sprachraum erscheint der Ausdruck zum ersten Mal ungefähr 360 n.Chr. in der Form ‹causa sibi› bei MARIUS VICTORINUS (unter dem Pseudonym Candidus): Die erste Ursache ist sich selbst Ursache (sibi causa), nicht zwar weil sie eine von sich selbst verschiedene Sache wäre, sondern weil das, was sie ist, Ursache ist, daß sie ist . Diese Definition der C.s. als Hervorbringung der Existenz durch die Essenz hat eine bis ins 19. Jh. reichende Wirkungsgeschichte. Die Bezeichnung wird am Ende der Antike nicht nur auf Gott angewendet, sondern wird im späten Neuplatonismus gleicherweise auf die Bewegung des Geistes ausgedehnt, der sich selbst unter der Bewegung des Einen erzeugt, und bei VICTORINUS sowie bei AUGUSTIN auf die Seele, da ja auch sie mit einer sich selbst bewegenden Bewegung ausgestattet ist. \nTHOMAS VON AQUIN lehnt den Ausdruck ‹C.s.› in seiner neuplatonischen Bedeutung ab, da keine Sache sich in ihrem substantialen Sein selbst hervorbringen und schlechthin Ursache ihrer selbst sein kann . Er übernimmt jedoch die aristotelische Bestimmung: Frei ist, wer um seiner selbst willen (sui causa) ist, und gibt im Rahmen des Freiheitsproblems auch der neuplatonischen Formel ihren Ort: Freiheit ist Selbstursächlichkeit hinsichtlich des praktischen Urteils, der Freie ist «C.s. ipsius in iudicando» . \nUm die eine Selbstverursachung ausschließende Vorrangstellung Gottes auszudrücken, zieht die scholastische Tradition den Ausdruck ‹Aseität› der Bezeichnung ‹C.s.› vor. \nSeit DESCARTES wird der C.s.-Begriff das fundamentale Thema des Idealismus genau in dem Maß, wie er dazu dient, das ontologische Argument auszudrücken, d.h. die notwendige Implikation der Existenz in der vollkommenen Wesenheit. Eben das ist für HEGEL «der erhabenste Gedanke Descartes, daß der Gott das ist, dessen Begriff sein Sein in sich schließt» . Freilich hat DESCARTES anerkannt, daß die Bezeichnung ‹C.s.›, die er in den Responsiones gebraucht, nicht im strengen Sinn genommen werden darf . Aber nach ihm identifiziert SPINOZA ausdrücklich das notwendige Sein, C.s., und die allein durch sich selbst verstehbare Essenz . Obwohl KANT den C.s.-Begriff – und mit ihm das ontologische Argument – zurückgewiesen hatte , hält HEGEL diese Bezeichnung für sehr bedeutsam; sie dient dazu, das Leben des Begriffes zu definieren: «Die Einzelnheit des Begriffes aber ist schlechthin das Wirkende und zwar auch nicht mehr wie die Ursache mit Scheine, ein Anderes zu wirken, sondern das Wirkende seiner selbst» . Nach SCHELLING objektiviert man das Absolute, wenn man die Bezeichnung ‹C.s.› wie eine Selbstbestimmung versteht: man muß diesen Begriff zurückführen auf den einfachen Ausdruck der Reinheit des Seins . SCHOPENHAUER hat dann den Ausdruck ‹C.s.› heftig als eine contradictio in adjecto kritisiert . Aber der Begriff überlebte auch diese Kritik und erhielt wieder einen Ehrenplatz bei H. SCHELL , der ihn zu benutzen suchte, um die Selbstsetzung Gottes zu beschreiben. \nGegenwärtig wird der Ausdruck in einem weiten Sinn gebraucht, um die eigentümliche Art eines Wesens zu beschreiben, das «sich macht», und insbesondere die Absolutheit der Freiheit (LEQUIER, BERGSON, WHITEHEAD, SARTRE). \nMit HEIDEGGER kann man sagen, daß die Bezeichnung ‹C.s.› den Inbegriff der Ontotheologie darstellt, d.h. der philosophischen Tradition, insofern sie das höchste Seiende mit einer intelligiblen Notwendigkeit identifiziert.",
+ "n":"PLOTIN, Enn. VI, 8, 14, 41. \nEnn. VI, 8, 18, 49; VI, 8, 13, 55. \nEnn. VI, 8, 20, 1ff. \nCandidi Epistula (= MARIUS VICTORINUS) I, 3, 12; dtsch. P. HADOT/U. BRENKE: Marius Victorinus. Christl. Platonismus, in: Bibl. der alten Welt (= BAW) (1967) 75; ähnliche Ausdrücke bei HIERONYMUS, In Eph. II, 3. MPL, 26, 520 b und HILARIUS, De trinitate I, 4. \nPROKLOS, Element, theol., prop. 46, hg. E. R. DODDS (Oxford 21963) 46, 22. \nMARIUS VICTORINUS, Adv. Ar. IV, 6, 38; dtsch. BAW 275. \nAUGUSTIN, De immortalitate animae 9, 18. \nTHOMAS VON AQUIN, De ente et essentia IV; S. contra gent. I, 22; vgl. jedoch die abgeschwächte Formulierung S. theol. I, 3, 4. \nDe veritate 24, 1; vgl. S. contra gent. II, 48. \nHEGEL, Wiss. der Logik. Werke, hg. LASSON (1934) 2, 353. \nDESCARTES, Primae responsiones. Werke, hg. ADAM/TANNERY 7, 108–109. \nQuartae responsiones a.a.O. 7, 208/209. \nSPINOZA, Tractatus de intellectus emendatione § 92; Ethica, Defin. 1. \nKANT, Principiorum primorum dilucidatio, Sectio II, prop. VI. Akad.-A. 1, 394f. \nHEGEL, ‹Heidelberger› Enzyklop. philos. Wiss. Jubiläums-A. 4, 98. \nF. W. J. SCHELLING, Philos. der Offenbarung, Werke, hg. K. F. A. SCHELLING, 13, 168 \nSCHOPENHAUER, Über die vierfache Wurzel des Satzes vom zureichenden Grunde II § 8. Werke, hg. J. FRAUENSTÄDT/A. HÜBSCHER 1 (21948) 15. \nH. SCHELL: Kath. Dogmatik (1889) 1, 230–231; 2, 20–21. \nM. HEIDEGGER: Identität und Differenz (1957) 70.",
+ "l":"ST. SCHINDELE: Aseität Gottes, essentia und existentia im Neuplatonismus. Philos. Jb. 22 (1909) 1–19; 159–170. – D. HENRICH: Der ontologische Gottesbeweis (1960). – V. BERNING: Das Denken Hermann Schells (1964). – P. HADOT s. Anm. [4]. – H. OGIERMANN: Met. Gottesidee und Kausaldenken. Theol. u. Philos. 42 (1967) 161–186.",
+ "au":"P. Hadot",
+ "A":["P. Hadot"],
+ "cb":[[0,976],[1096,976],[1917,976],[2424,976],[2593,976],[2647,977],[4067,977],[4287,977]],
+ "cn":[
+  [0,976],
+  [0,977],
+  [29,977],
+  [65,977],
+  [87,977],
+  [347,977],
+  [423,977],
+  [479,977],
+  [521,977],
+  [649,977],
+  [698,977],
+  [756,977],
+  [825,977],
+  [866,977],
+  [937,977],
+  [1018,977],
+  [1085,977],
+  [1170,977],
+  [1306,977],
+  [1362,977]
+ ],
+ "cl":[[0,977]]
+}
+);

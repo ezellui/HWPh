@@ -1,0 +1,38 @@
+HWPH.put("t/14",
+{
+ "b":"1. Text Titel. In Doppel- und Mehrfachtiteln werden die Stichwörter, wenn sie Gegensätze bezeichnen, durch Schrägstrich, wenn sie einander ergänzen, durch Komma getrennt. \nDie Anfangsbuchstaben Ä, Ö, Ü (nicht aber Ae, Oe, Ue) der Titelstichwörter sind alphabetisch wie A, O, U behandelt worden. \nFür den Registerband (HWP Bd. 13) gelten gesonderte Regeln (siehe Einführung Band 13). Abkürzungen. An Stelle des Titelstichworts tritt bei Substantiven der Anfangsbuchstabe mit Punkt; Adjektive werden nicht abgekürzt. Sonst sind im Text nur allgemein gebräuchliche Abkürzungen verwendet. Auszeichnungen. Namen von Autoren, die Gegenstand eines Artikels sind, werden, wenn sie in einem Gedankenzusammenhang zum erstenmal vorkommen, in KAPITÄLCHEN, die übrigen Hervorhebungen kursiv gesetzt. Namen der Verfasser von Untersuchungen zum Gegenstand des Artikels werden nicht ausgezeichnet. Anführungszeichen und Klammern. In einfachen Anführungszeichen ‹...› stehen Begriffe, (im Falle: der Begriff ‹Logik›, die Bedeutung von ‹Logik›, das Wort ‹Logik›) sowie Werktitel, Teil- und Kapitelüberschriften, ‘...’ stehen metasprachlich verwendete bzw. uneigentlich gebrauchte Ausdrücke. In doppelten Anführungszeichen «...» stehen Zitate (ausgenommen griechische). \nIn eckige Klammern [...] sind Einfügungen des Artikelautors in Zitate sowie Anmerkungsziffern gesetzt. \n2. Anmerkungen und Literaturhinweise Um den Text zu entlasten, sind die Belegstellen (mit Ausnahme der biblischen) in den Anmerkungen zusammengefaßt. \nBeziehen sich mehrere aufeinanderfolgende Anmerkungen auf denselben Autor und/oder dasselbe Werk, wird der Verfassername bzw. der Werktitel nicht wiederholt. \nWenn sich eine spätere auf eine frühere, nicht unmittelbar vorhergehende Anmerkung bezieht, wird in der Regel die Nummer der früheren Anmerkung wiederholt: \n[1] F. KLUGE: Etymol. Wb. dtsch. Sprache (111963) 8. – ... [4] KLUGE, a.a.O. [1] 432. Zitierweisen. Sie folgen dem für Epochen, Autoren und Werke üblichen wissenschaftlichen Gebrauch, doch werden Siglen, die nur dem Fachmann bekannt sind, mit wenigen Ausnahmen (vgl. Abkürzungsverzeichnis Nr. 1) vermieden oder von Fall zu Fall neu eingeführt: \n[1] R. DESCARTES: Princ. philos. 3, 112. Œuvres, hg. ADAM/P. TANNERY (= A/T) 8, 160. – [2] Vgl. Medit. 2. A/T 7, 32. \nZitiert wird nach der systematischen Gliederung der Werke und/oder nach Ausgaben bzw. Auflagen: \na) Nach Gliederung: [1] PLOTIN, Enn. II, 4, 15 = ‹Enneaden›, Buch 2, Kapitel 4, Abschnitt 15. – [2] THOMAS von AQUIN, S. theol. I-II, 20, 2 = ‹Summa theologiae›, Pars I von Pars II, Quaestio 20, Articulus 2. \nb) Nach Ausgaben: [1] PLATON, Phaed. 88 d 3–5 = ‹Phaedo›, S. 88, Absch. d (Paginierung nach der Ausgabe von HENRICUS STEPHANUS, Paris 1578), Zeilen 3–5 (nach der Ausgabe von IOANNES BURNET, Oxford 11899–1906). – [2] I. KANT: Anthropologie (1798). Akad.-A. 7, 252, 3 = Gesammelte Schriften, hg. (Königl.) Preuß. Akad. Wiss. (ab Bd. 23 hg. Dtsch. Akad. Wiss. zu Berlin), Bd. 7, S. 252, Z. 3. \nc) Nach Auflagen: [1] I. KANT: KrV A 42/B 59 = ‹Kritik der reinen Vernunft›, 1. Aufl. (1781), S. 42 = 2. Aufl. (1786), S. 59. \nd) Nach Gliederung und Ausgaben: [1] ARISTOTELES, Met. II, 2, 994 a 1–11 = ‹Metaphysik›, Buch 2 (α), Kap. 2, S. 994, Sp. a, Z. 1–11 (nach Arist. graece ex rec. IMM. BEKKERI, Berlin 1831). – [2] JOHANNES DAMASCENUS: De fide orth. II, 12. MPG 94, 929ff. = ‹De fide orthodoxa›, Buch 2, Kap. 12 bei J. P. MIGNE (Hg.), Patrologiae cursus completus, Ser. 1: Ecclesia graeca, Bd. 94, S. 929ff. \nInterpunktion. Nach Autorennamen steht ein Doppelpunkt, wenn eine bibliographische Angabe, ein Komma, wenn die vorverweisende Abkürzung a.O. folgt \nIn Stellenangaben folgt die Zeichensetzung weitgehend altphilologischem Gebrauch: \nKommata trennen in Angaben nach Gliederung Buch von Kapitel und Kapitel von Abschnitt, in Belegstellen nach Ausgaben Band von Seite und Seite von Zeile (vgl. oben a) Anm. [1] und b) Anm. [2]). \nPunkte bedeuten in Stellenangaben ‹und›; sie stehen z.B. zwischen Kapitel und Kapitel bzw. Seite und Seite: \n[1] ARISTOTELES: Met. V, 19. 20 = Buch 5 (∆), Kap. 19 und 20. – [2] I. KANT: Anthropol. (1798). Akad.-A. 7, 251. 265 = Bd. 7, S. 251 und 265. \nStrichpunkte sind gesetzt, wenn auf eine untergeordnete Gliederungseinheit (Abschnitt, Artikel) eine übergeordnete (Buch, Teil, Kapitel) folgt: \nTHOMAS, S. theol. I, 14, 11; 44, 3; 55, 2 = Pars I, Quaestio 14, Art. 11; (Pars I) Quaestio 44, Art. 3; (Pars I) Quaestio 55, Art. 2 \noder wenn die nächste Stellenangabe einem anderen Band bzw. Werk entnommen ist: \nG. W. F. HEGEL: Phän. des Geistes (1807). Akad.-A. 9, hg. W. BONSIEPEN/R. HEEDE (1980) 109; Glauben und Wissen (1802), a.O. 4, hg. H. BUCHNER/O. PÖGGELER (1968) 381. \nLiteraturhinweise. Die Angaben sind normalerweise chronologisch, gelegentlich auch nach sachlichen Gesichtspunkten geordnet und entsprechen den üblichen Regeln. Der Erscheinungsort wird bei Drucken vor 1700 und bei fremdsprachigen Publikationen genannt. \nZeitschriften und andere Periodika werden nach dem von der UNESCO empfohlenen ‹Internationalen Code für die Abkürzung von Zeitschriftentiteln› zitiert (Abdruck in: World med. Periodicals, New York 31961, XIff.; vgl. dazu Abkürzungsverzeichnis Nr. 2). Wie auch bei mehrbändigen Werken steht in den Stellenangaben die Bandzahl vor, die Seitenzahl nach dem Erscheinungsjahr.",
+ "n":"",
+ "l":"",
+ "au":"",
+ "A":[],
+ "cb":[
+  [0,108],
+  [172,108],
+  [296,108],
+  [1252,108],
+  [1356,108],
+  [1507,108],
+  [1666,108],
+  [1823,108],
+  [2168,108],
+  [2286,108],
+  [2383,108],
+  [2592,108],
+  [2983,108],
+  [3110,108],
+  [3498,108],
+  [3646,108],
+  [3729,108],
+  [3923,108],
+  [4032,108],
+  [4175,108],
+  [4320,108],
+  [4454,108],
+  [4535,108],
+  [4702,108],
+  [4957,108]
+ ],
+ "cn":[],
+ "cl":[]
+}
+);

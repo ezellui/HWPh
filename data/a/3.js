@@ -1,0 +1,27 @@
+HWPH.put("a/3",
+{
+ "id":3,
+ "lemma":"Vorbemerkung [zu Band 2]",
+ "band":"2*",
+ "kind":"front",
+ "col_from":5,
+ "col_to":5,
+ "pdf_from":117,
+ "pdf_to":119,
+ "authors":[],
+ "n_notes":0,
+ "n_chars":3319,
+ "toc":[],
+ "html":"<p>Vorbemerkung [zu Band 2]</p>\n<p>Der zweite Band des ‹Historischen Wörterbuchs der Philosophie› wird nunmehr vorgelegt, ohne daß sich wesentliche Korrekturen an den im ersten Band mitgeteilten Grundsätzen und Leitlinien als notwendig erwiesen haben. Inzwischen wurden die Arbeiten aufgenommen und kräftig gefördert, die große Zahl der Artikeltitel, Verweisungen und Verweisungsstichworte mit Hilfe elektronischer Datenverarbeitung für den vorgesehenen Index zu ordnen und zu gliedern. Dadurch wird zwar der Mangel, daß erst mit dem Index die übersicht über die Nomenklatur im ganzen gegeben sein wird, nicht behoben. Dafür bitten wir erneut unter Hinweis auf Band 1, S. Xf. um Verständnis. Doch läßt sich das Fehlen einer Reihe von Begriffen und Termini insofern leicht erklären, als das gesuchte Wort entweder unter einem anderen Titel oder in Verbindung mit einem anderen Titelwort zu finden ist oder als Verweisungsstichwort ohne eigenen Artikel im Zusammenhang einer größeren Darstellung begegnet. ‹Abfall› wird unter ‹Fall, Abfall›, ‹Abendland› unter ‹Europa, Abendland›, ‹Böse› unter ‹Malum, schlecht, böse›, ‹Beobachtung› unter ‹Observatio, Beobachtung›, ‹Dichtung› unter ‹Kunst, Dichtung›, ‹Ehe› unter ‹Familie, Ehe›, ‹Erfindung› und ‹Entdeckung› unter ‹Inventio, Erfindung, Entdeckung› usf. behandelt. Für ‹Anfang› wird auf ‹Prinzip›, für ‹Basis› auf ‹überbau› verwiesen. Andere Begriffe und Termini, für die ebenfalls nur ein Verweisungsstichwort steht, werden im Zusammenhang eines einem Gebiet oder einer Region zugeordneten Artikels erörtert, so ‹Methode der Wahrheitstafeln› unter ‹Aussagenlogik›, ‹Actus purus› unter ‹Akt/Potenz›, ‹Bourbakisten› unter ‹Algebra›.</p>\n<p>Der Herausgeberkreis wiederholt die Bitte, Vorschläge zu Ergänzungen und Hinweise auf Lücken, vor allem auf Fehler, dem Verlag Schwabe &amp; Co. (CH-4010 Basel, Steinentorstraße 13) mitzuteilen.</p>\n<p>Der Dank der Herausgeber gilt der Deutschen Forschungsgemeinschaft, dem Verlag Schwabe in Basel, der Wissenschaftlichen Buchgesellschaft in Darmstadt und in besonderer Weise den Herren P. Janßen und H. Kamp vom Rechenzentrum der Universität Münster, die sich in kollegialem Entgegenkommen der Programmierung angenommen und Mitarbeiter des Herausgeberkreises in die Methoden der elektronischen Datenverarbeitung eingeführt haben.</p>\n<p>Der Dank gilt den Autoren, die durch die Arbeit, die sie leisten, das Wörterbuch erst möglich machen und tragen, und neben den auf der Impressumseite genannten Mitarbeitern allen denen, die sich für längere oder kürzere Zeit in den Dienst dieses Wörterbuchs stellten, den Damen und Herren in Bielefeld: I. v. Hunnius; in Bochum: G. Biller, P. Laßlop, I. Linke, E. Lodemann, F. Rheinberg, M. Schmidt; in Gießen: H. Brelage, W. Franzen, I. Nagel, P. Probst; in Konstanz: J. Schneider, A. Veraart; in Münster: N. Adams, St. v. Beverfoerde, D. Friedrichs, Chr. F. Görlich, W. Knispel, K. Meschede, W. Nieke, S. Rücker, F. Steinbeck; für ihre Hilfe bei den Arbeiten im Rechenzentrum der Universität Münster: B. Görlich, L. Knispel-Lammers, I. Sternschulte. Er gilt den Universitätsbibliotheken in Bielefeld, Bochum, Gießen, Konstanz, Münster und Stuttgart für bewährte Hilfe, besonders in der Beschaffung schwer erreichbarer Texte, und der Phototechnischen Zentralstelle der Universität Münster. Münster, im Herbst 1971</p>\n<p>J. RITTER</p>",
+ "prev":{"id":2,"lemma":"Vorwort [zu Band 1]","band":"1*","col":5},
+ "next":{"id":4,"lemma":"Vorbemerkung [zu Band 3]","band":"3*","col":5},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

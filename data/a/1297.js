@@ -1,0 +1,27 @@
+HWPH.put("a/1297",
+{
+ "id":1297,
+ "lemma":"Homo insciens oder insipiens",
+ "band":"3",
+ "kind":"article",
+ "col_from":1175,
+ "col_to":1175,
+ "pdf_from":11046,
+ "pdf_to":11046,
+ "authors":["Ch. Grawe"],
+ "n_notes":1,
+ "n_chars":519,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Homo insciens oder insipiens (der unwissende Mensch) wird als Gegenbegriff zu homo sapiens bei ORTEGA y GASSET zur Bestimmung des Menschen: «Der Mensch [ist] zum Unterschied von den übrigen Wesen des Universums niemals mit Sicherheit Mensch; Mensch sein bedeutet vielmehr gerade, immer im Begriff sein, es nicht zu sein, ein lebendes Problem, ein absolutes und gefahrvolles Abenteuer ... Die Verfassung des Menschen ist also ihrem Wesen nach Ungewißheit» <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. ORTEGA y GASSET: Der Mensch und die Leute (dtsch. 1957) 39f.</li>\n</ol>",
+ "prev":{"id":1296,"lemma":"Homo faber","band":"3","col":1173},
+ "next":{"id":1298,"lemma":"Homo loquax","band":"3","col":1175},
+ "backlinks":[{"id":1917,"lemma":"Mensch","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":904,"name":"J. Ortega y Gasset","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

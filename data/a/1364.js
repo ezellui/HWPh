@@ -1,0 +1,48 @@
+HWPH.put("a/1364",
+{
+ "id":1364,
+ "lemma":"Ideenlehre",
+ "band":"4",
+ "kind":"article",
+ "col_from":137,
+ "col_to":138,
+ "pdf_from":11785,
+ "pdf_to":11788,
+ "authors":["Ulrike Mörschel"],
+ "n_notes":7,
+ "n_chars":4704,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Ideenlehre ist der zentrale Begriff, unter dem häufig die platonische Lehre von den Ideen zusammengefaßt wird. Kennt Platon auch ein einheitliches Wort für seinen Ideenentwurf nicht, (die εἰδῶν φίλοι Soph. 246–249 dürften eine Ironisierung sein), so ist doch das Wort ‹I.› in den Philosophiegeschichten vor allem des 19. Jh. gebräuchlich, ohne jedoch immer als Bezeichnung für ein geschlossenes und durchkonstruiertes System der platonischen Philosophie zu dienen <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Während bei TENNEMANN, H. RITTER, FR. SCHLEIERMACHER, ED. ZELLER, H. v. STEIN, J. ED. ERDMANN u.a. das Bestreben nach einer Systematisierung der platonischen Philosophie eindeutig vorliegt, überwiegt bei anderen die Skepsis, bei Platon überhaupt von einem Lehrsystem sprechen zu können.</p>\n<p>Auch BRANDIS Beschreibung der «Platonischen Lehre» ähnelt sehr der eines in sich geschlossenen Systems, mit Blickrichtung auf den Systemgedanken im Deutschen Idealismus, denn er ist «... überzeugt, daß wir dem Plato wohl eine ebenso frühzeitige Entwicklung der Grundgedanken seiner Lehre zutrauen dürfen, wie sie in unserem Zeitalter bei Fichte und Schelling stattgefunden ...» <sup class=\"fn\" data-fn=\"0-2\">2</sup> (ein Gedanke, der sich ähnlich auch schon bei Tennemann findet); doch fänden <span class=\"col\" data-col=\"138\"></span> sich, da Brandis die Bedeutung des Dialogs, als dessen «Urheber» er Platon bezeichnet, immer wieder hervorhebt «... bei Plato nur Anfänge der von ihm beabsichtigten systematischen Deduction ...».</p>\n<p>Wie sehr jedoch die Konzeption eines feststehenden Systems bei Platon dessen eigentlicher Form des Philosophierens widerspräche, wird u.a. schon von FR. SCHLEGEL betont: «Plato hatte nur eine Philosophie aber kein System, und wie die Philosophie selbst mehr ein Streben nach Wissenschaft als eine vollendete Wissenschaft ist, findet sich dieses bei ihm in einem vorzüglichen Grade» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Auch HEGEL verneint einen Systematisierungsgedanken bei Platon: «... zur wissenschaftlichen systematischen Darstellung ist dies erst bei Aristoteles gediehen ...» und wirft ihm vor: «... dieser Mangel ist dann auch Mangel in Ansehung der konkreten Bestimmung der Idee selbst» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Ähnlich äußert sich UEBERWEG/PRAECHTER: «Weder aus Platons Werken noch aus dem Berichte des Aristoteles läßt sich ein festgegliedertes, zusammenhängend darstellbares ‹System› rekonstruieren. Seine Lehren erscheinen in seinen Werken im Flusse einer ständigen Entwicklung, und ihr volles Verständnis ist deshalb nur auf dem Wege genetischer, nicht systematischer Betrachtung an Hand der einzelnen Dialoge zu gewinnen» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Unterstützt wird diese Skepsis gegenüber einem platonischen Lehrsystem durch die Reflexion auf die Methode des Dialogs, die Platon als Form seiner Philosophie wählte. So hebt schon FR. SCHLEGEL nachdrücklich hervor: «Plato's Gespräche sind Darstellungen des gemeinschaftlichen Selbstdenkens. Ein philosophisches Gespräch aber kann nicht systematisch sein, weil es dann nicht mehr Gespräch, sondern nur eine anders modifizierte systematische Abhandlung wäre und systematisch sprechen überhaupt widersinnig und pedantisch erscheinen müßte» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Bekanntlich ist dies ein Grundgedanke H.-G. GADAMERS, den er auch auf die Platondeutung appliziert: «Die angemessene Interpretationsmethode gegenüber dem Philosophen Plato ist eben nicht die, sich an den pedantischen Begriffsbestimmungen festzuhängen und Platos ‹Lehre› zu einem einheitlichen System auszubilden ..., sondern den Gang des Fragens, den der Dialog darstellt, als Fragender nachzugehen und die Richtung zu bezeichnen, in die Platon nur weist, ohne sie zu gehen. Nur unter dieser Voraussetzung gibt es überhaupt eine Lehre Platos, deren Untersuchung Gegenstand philosophisch-historischer Forschung sein kann» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Zusammenfassend ist zu sagen, daß sich bei dem Wort ‹I.› kein Terminologisierungsprozeß feststellen läßt: Befürworter und Gegner einer Systematisierung der platonischen Philosophie gebrauchen es in gleicher Weise. Von daher ist auch eine neuerlich feststellbare Vermeidung des Begriffs ‹I.› zugunsten etwa von ‹Ideenphilosophie› durch die Geschichte des Wortes ‹I.› nicht erfordert.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"138\"></span> Vgl. FR. SCHLEGEL: Die Entwickl. der Philos. (1804–1805). Krit. A., hg. E. BEHLER (1958ff.) 12, 224; G. W. F. HEGEL, Vorles. über die Gesch. der Philos. Werke, hg. GLOCKNER (1928) 18, 243; H. RITTER: Gesch. der Philos. 2 (1830) 271f.; ED. ZELLER: Die Philos. der Griechen in ihrer gesch. Entwickl. 2 (<sup>2</sup>1859) 412.</li>\n<li id=\"fn0-2\" value=\"2\">CHR. A. BRANDIS: Hb. der Gesch. der griech.-röm. Philos. (1844) 162.</li>\n<li id=\"fn0-3\" value=\"3\">SCHLEGEL, a.a.O. [1] 209.</li>\n<li id=\"fn0-4\" value=\"4\">HEGEL, a.a.O. [1] 186.</li>\n<li id=\"fn0-5\" value=\"5\">FR. ÜBERWEG: Grundriß der Gesch. der Philos. 1: Die Philos. des Altertums, hg. K. PRAECHTER (<sup>12</sup>1926, ND 1960 u.ö.) 328.</li>\n<li id=\"fn0-6\" value=\"6\">SCHLEGEL, a.a.O. [1] 210.</li>\n<li id=\"fn0-7\" value=\"7\">H.-G. GADAMER: Platos dialektische Ethik und andere Stud. zur polit. Philos. (1968) 8f.</li>\n</ol>",
+ "prev":{"id":1363,"lemma":"Ideengeschichte","band":"4","col":135},
+ "next":{"id":1365,"lemma":"Identifikation","band":"4","col":138},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"II-III Zweiweltenlehre","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":35,"name":"F. Schlegel","b":2,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":71,"name":"H.-G. Gadamer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":395,"name":"E. Zeller","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":947,"name":"H. Ritter","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1824,"name":"K. Praechter","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1716,"name":"Ch. A. Brandis","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":291,"name":"F. Ueberweg","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":444,"name":"J. E. Erdmann","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":716,"name":"Stein","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1043,"name":"W. G. Tennemann","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2208,"name":"F. Überweg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":165,"name":"E. Behler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":585,"lemma":"Dialog, dialogisch","tf":4},
+  {"id":2907,"lemma":"Skepsis; Skeptizismus","tf":2},
+  {"id":3586,"lemma":"Werk","tf":2},
+  {"id":3635,"lemma":"Wissenschaft","tf":2}
+ ],
+ "see_also":[{"id":132,"lemma":"Anamnesis"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Ideenlehre"}],
+ "reg_authors":[{"name":"Mörschel Ulrike","n":1}]
+}
+);

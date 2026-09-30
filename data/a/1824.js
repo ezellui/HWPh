@@ -1,0 +1,27 @@
+HWPH.put("a/1824",
+{
+ "id":1824,
+ "lemma":"Logophor",
+ "band":"5",
+ "kind":"article",
+ "col_from":491,
+ "col_to":491,
+ "pdf_from":17480,
+ "pdf_to":17480,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":688,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Logophor. ‹L.› ist ein von B. v. FREYTAG-LÖRINGHOFF eingeführter Terminus zur Unterscheidung der allgemein-konkreten von den allgemein-abstrakten Begriffen: Allgemein-Konkreta wie ‹Rose› enthielten einen L., einen ontologisch selbständigen Träger der mit diesen Begriffen gemeinten Eigenschaften, der durch den Hinweis auf ein Individuum, z.B. ‹diese Rose›, Individualität erlange: «Der L. ist die ihrer Individualität, aber nicht ihrer ontologischen Selbständigkeit beraubte Konkretheit des Individuums» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Allgemein-Abstrakta wie das ‹Rot dieser Rose› dagegen enthielten keinen L., keine ‘Leerstelleʼ.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">B. v. FREYTAG-LÖRINGHOFF: Logik. Ihr System und ihr Verhältnis zur Logistik (1955) 25.</li>\n</ol>",
+ "prev":{"id":1823,"lemma":"Logomachie","band":"5","col":489},
+ "next":{"id":1825,"lemma":"Logos","band":"5","col":491},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":3980,"name":"Freytag-Löringhoff","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}],
+ "mentions":[{"id":1424,"lemma":"Individuum, Individualität","tf":4}],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Logophor"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

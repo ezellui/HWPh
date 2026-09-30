@@ -1,0 +1,35 @@
+HWPH.put("t/1225",
+{
+ "b":"Häresie. Im Hellenismus war ein αἱρετικός der Anhänger einer religiösen oder philosophischen Sondermeinung, einer αἵρεσις (lat. secta, Schule, Lehre) . So hieß auch die junge Christengemeinde, die freilich schon PAULUS als Kirche gegen andere Gruppen abgrenzte; diese wurden als Häretiker gemieden , TERTULLIAN meinte, sie hätten ihre willkürlichen Meinungen nicht von Christus . Nach IRENÄUS VON LYON sind diejenigen, die sich von der apostolischen Sukzession lossagen, die Schismatiker, wie Häretiker anzusehen. Sie wollen sich nicht der kirchlichen Lehrautorität unterwerfen, sondern jeder nach seiner Willkür Lehrer sein . JUSTINUS bezeichnete die «athei et impii» als «haeretici», d.h. die vom wahren Christentum abgefallenen (vor allem die Gnostiker), die den Juden und heidnischen Philosophen nahe sind . Sie bedienen sich – so IGNATIUS VON ANTIOCHIEN – des Namens Gottes, handeln aber nicht wie Gläubige, sondern verändern den Glauben nach ihrem eigenen Gutdünken . Als die Kirche dem römischen Reich und Recht nahekam und in den ersten Konzilien ihrer Orthodoxie sicher wurde, empfand AUGUSTIN den Häretiker vollends als überheblichen Sonderling, der sich hartnäckig und wegen irdischer Vorteile der bekannten Wahrheit verschließt . Zu diesen Irrgläubigen rechnete ISIDOR VON SEVILLA auch antike Philosophenschulen; untereinander waren sie uneins, aber sie verschworen sich alle unter dem gemeinsamen Namen ‹Häretiker› gegen die Kirche Gottes . \nDieser allein vom Gegensatz zur Kirche bestimmte H.-Begriff beherrschte auch das Mittelalter, das von der Kirche Glauben und Bildung lernte. Apologeten setzten die seit dem 11. Jh. neu auftauchenden religiösen Bewegungen gern mit längstbekannten Irrlehren wie den manichäischen gleich; INNOZENZ III. sagte 1198, die häretischen Füchse hätten nur verschiedene Gesichter, jedoch zusammengebundene Schwänze . Aber bloß der fortwirkende Name ‹Häretiker› täuschte eine historische Kontinuität religiöser Sondermeinungen vor. Die Anhänger der spontan entstehenden Sondergruppen wollten selbst nie Häretiker, sondern wahre Christen heißen und nannten ihre kirchlichen Gegner ihrerseits ‹Ketzer› . Zwei Bauern deuteten 1114 bei Soissons den Namen etymologisierend um: Sie seien Häretiker, aber als «haereditarii dei» (Erben Gottes) . Auch Lehren einzelner Philosophen gerieten hie und da in den Geruch der H.; doch setzte sich weithin ABAELARDS Standpunkt von 1140 durch, man könne nicht Ansichten als verbrecherisch und häretisch verdammen, die durch ratio und auctoritas nicht zu widerlegen seien . Im ganzen blieb die scholastische Philosophie unverdächtigt. \nStattdessen hing das Odium der H. an Massenbewegungen Ungebildeter, zumal an der Sekte der Katharer, deren griechischer Name (κάθαροί, die Reinen) um 1200 für das deutsche ‹Ketzer› Pate stand. Wie das französische ‹hérétique› bekam ‹Ketzer› sogleich den Beiklang des Heimlichen und Perversen, so sehr, daß THOMAS VON AQUIN Ketzerei eigens von Emotion und Unzucht unterscheiden und als dogmatischen Irrglauben definieren mußte . Aber obwohl die dominikanischen Inquisitoren der haeretica pravitas den Ketzern Aufrichtigkeit bescheinigten, sahen sie in ihnen nur Asoziale, nicht Andersdenkende. \nErst nach dem Erstarken neuzeitlicher Strömungen, die die Armuts- und Freiheitsforderung der Ketzer aufnahmen, verlor der Begriff allmählich den Makel des Amoralischen. LUTHER verstand H. als selbstgerechten Fehlglauben . PASCAL sah ihre Quelle im einseitigen Ausschluß einiger christlicher Wahrheiten ; SPINOZA erklärte sie schon aus der unvermeidlichen Vielzahl von Bibelauslegungen . THOMASIUS fragte, ob die H. überhaupt ein Verbrechen sei, und löste den alten Begriff der H. auf . KANT verwarf schließlich die angemaßte alleinige Rechtgläubigkeit einer Kirche, die ihre historische Besonderheit vergesse, jeden Abweichenden ‹Ketzer› nenne und allen Höllengöttern übergebe . \nSCHLEIERMACHER warnte vor einem übereilten Gebrauch des «sehr unsicheren» Begriffs der H., obwohl er glaubte, ihn durch Abgrenzung vom richtigen Begriff vom «Wesen des Christentums» gewinnen zu können . Die historische Forschung des 20. Jh. entdeckte, daß die Geschichte der H. nicht von der Kirchengeschichte zu trennen ist; K. RAHNER zog jüngst die Folgerung, daß die H. sogar eine positive heilsgeschichtliche Funktion gegenüber der Kirche ausüben könne . So spiegelt sich im Wandel des Wortgebrauchs weniger die Geschichte und Eigenart der religiösen Bewegungen als die Geschichte des kirchlichen Wahrheitsanspruchs.",
+ "n":"DIOGENES LAERTIUS I, 19; II, 87; VII, 191; SEXTUS EMPIRICUS, Pyrrh. Hyp. I, 16. 185. 237; JOSEPHUS, Antiquitates 13, 5, 9. \n1. Kor. 11, 19; Tit. 3, 10. \nTERTULLIAN, De praescriptione haereticorum 37, 1. \nIRENÄUS, Adv. haer. IV, 26, 2; I, 28, 1. \nJUSTINUS, Dial. 51, 2; 80, 4; Apol. I, 26, 8. \nIGNATIUS, Eph. VII, 1; Trall. VI, 1. \nAUGUSTINUS, De utilitate credendi 1; De civ. Dei 18, 51. \nISIDOR VON SEVILLA, Origines 8, 3, 1; 8, 5, 70. \nINNOZENZ III., Ep. 1, 94, nach Judic. 15, 4–5. \nJ. B. MANSI, Concilia 22, 165. \nGUIBERT VON NOGENT, De vita sua 3, 17. \nABAELARD, Apol., SBAW (1930) 12. \nTHOMAS VON AQUIN, S. theol. II/II, 11, 1. \nM. LUTHER, Von weltl. Obrigkeit 2. \nB. PASCAL, Pensées, hg. BRUNSCHVICG Nr. 862. \nB. SPINOZA, Tractatus theol.-polit. 14. \nCHR. THOMASIUS: An haeresis sit crimen (1697); De jure principis circa haereticos ex hypothesi juris clericalis (1697). \nI. KANT, Relig. innerhalb ... III, 5. Akad.-A. 6, 108. \nFR. SCHLEIERMACHER, Der christl. Glaube, § 21f. \nK. RAHNER, H.-Gesch. LThK2 5 (1960) 8–10; Was ist H.? Schriften zur Theol. 5 (1962) 527–576.",
+ "l":"H. SCHLIER: Art. HAIRESIS, in: Theol. Wb. zum NT, hg. KITTEL 1 (1933) 180–184. – J. BROSCH: Das Wesen der H. (1936). – A. BORST: Die Katharer (1953) 240ff. – A. LANG: Der Bedeutungswandel der Begriffe fides und haeresis. Münchner theol. Z. 4 (1953) 133–146. – H.-W. GENSICHEN: Damnamus. Die Verwerfung von Irrlehre bei Luther und im Luthertum des 16. Jh. (1955). – H. GRUNDMANN: Oportet et haereses esse. Arch. Kulturgesch. 45 (1963) 129–164. – M. D. CHENU: Orthodoxie et hérésie, in: Hérésies et sociétés, hg. LE GOFF (1968) 9–17.",
+ "au":"A. Borst",
+ "A":["A. Borst"],
+ "cb":[[0,999],[1281,1000],[1455,1000],[2610,1000],[3204,1000],[3884,1000],[4504,1001]],
+ "cn":[
+  [0,999],
+  [0,1000],
+  [124,1000],
+  [153,1000],
+  [204,1000],
+  [246,1000],
+  [293,1000],
+  [329,1001],
+  [331,1001],
+  [389,1001],
+  [438,1001],
+  [486,1001],
+  [518,1001],
+  [558,1001],
+  [592,1001],
+  [635,1001],
+  [671,1001],
+  [717,1001],
+  [758,1001],
+  [879,1001],
+  [935,1001],
+  [984,1001]
+ ],
+ "cl":[[0,1001]]
+}
+);

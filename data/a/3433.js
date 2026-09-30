@@ -1,0 +1,58 @@
+HWPH.put("a/3433",
+{
+ "id":3433,
+ "lemma":"Versicherung",
+ "band":"11",
+ "kind":"article",
+ "col_from":889,
+ "col_to":891,
+ "pdf_from":47288,
+ "pdf_to":47293,
+ "authors":["M. Makropoulos"],
+ "n_notes":13,
+ "n_chars":6289,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Versicherung (lat. praemunitio, cautio, confirmatio, assecuratio; engl. insurance; frz. assurance; ital. assicuranza). Eine erkenntnistheoretische Bedeutung hat der deutsche Begriff ‹V.› weder in seinem weitesten Wortsinn, als praktisches Herstellen von (objektiver oder subjektiver) <a class=\"xref\" href=\"#/a/2881\">Sicherheit</a> <span class=\"sd\">→ (s.d.)</span>, noch als reflexive Vorstellung eines ‘sich Versichernsʼ, indem man ‘V. von etwas nimmtʼ. Die praktische Idee der V. als einer promissorischen oder assertorischen Aussage – rechtsverbindlich als ‘Bürgschaftʼ – wird vielmehr durch die Entwicklung des neuzeitlichen Assekuranzwesens überlagert. Mit ihm beginnt die Karriere der spezifischen, sozialphilosophischen Bedeutung des Begriffs <sup class=\"fn\" data-fn=\"0-1\">1</sup>. ‹V.› ist die Sammelbezeichnung für verschiedene, auf dem Prinzip der organisierten Gegenseitigkeit beruhende Einrichtungen zur Kompensation eventueller materieller Schäden. V.en weisen über den Schutz gegen akute Gefahren hinaus, indem sie künftige Unsicherheiten mit Hilfe statistisch gestützter Wahrscheinlichkeitsberechnungen in handlungsoffen kalkulierbare Risiken transformieren. Ökonomisch führt diese futurische Komponente der V. zur Absicherung neuer Handlungsmöglichkeiten, sozialpolitisch führt sie zur rationalen Neubegründung älterer Formen der Solidarität und der kollektiven Vorsorge.</p>\n<p>Nach den am Vorbild der V. für Seetransporte seit <span class=\"col\" data-col=\"890\"></span> dem 14. Jh. ausgerichteten Sach-V.en entsteht das moderne V.-Wesen im 17. Jh. mit der Reflexion auf strukturelle Risiken der forcierten Ausweitung ökonomischer Unternehmungen. Der Bestimmung von D. DEFOE zufolge sind diese Unternehmungen «adventured on the risk of success», weil sie nicht «improvements» bisheriger, sondern «inventions» neuer Handlungsmöglichkeiten sind, aus deren sozialer Positivität Defoe nicht nur die Forderung nach gezielter Entfaltung, sondern auch die nach weitgehender Verstaatlichung des V.-Gewerbes ableitet <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Frühe versicherungsartige Konzepte in Deutschland entwickelt etwa der Kameralist B. OBRECHT (1609) <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Projekte von Praktikern gibt es früher. So schlägt B. HOLZSCHUHER 1565 eine sozialpolitische Pflichtanleihe vor: «wider Gottes Ordnung, bevelch und gebot» sei ein solches Unternehmen nicht und «nit sünd» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Eine obrigkeitliche, vor allem aber von den anderen Abgaben separate Verwaltung der «Assecurations Caße» propagiert G. W. LEIBNIZ in seiner Schrift ‹Öffentliche Assecuranzen› <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Als Theorie der Gesamtheit staatlichen Handelns reflektiert die «Policey-Wissenschaft» dann ausdrücklich die Möglichkeiten und Grenzen staatlicher Sicherheits- und Wohlfahrtspolitik. So fordert J. H. G. VON JUSTI von einer «weisen Regierung», «große Vorsorge» zu tragen, daß «genugsame Assecuranz- im Lande vorhanden sind, und die Unterthanen auf alle Art zum Assecuriren aufgemuntert werden», wobei er allerdings die Versicherbarkeit auf materielle Güter beschränkt und das «Leben» explizit ausnimmt, weil dieses weder einen «bestimmten Werth» habe noch «der Gefahr ausgesetzt» sei <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Darin spiegeln sich nicht zuletzt die beschränkten erkenntnistechnischen Möglichkeiten der Statistik vor ihrer späteren Vervollkommnung durch die Wahrscheinlichkeitstheorie.</p>\n<p>Die Ausweitung des V.-Prinzips auf Personenschäden erfolgt in den europäischen Ländern konfessionsbedingt ungleichzeitig <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Obgleich schon eine 1668 von J. J. BECHER vorgeschlagene Pflichtkasse Züge einer Sterbeversicherung aufweist <sup class=\"fn\" data-fn=\"0-8\">8</sup>, ist die Entwicklung in Deutschland erst im 19. Jh. vollzogen. In ihr manifestiert sich die Übertragung ökonomischer Kriterien auf den Menschen und sein Leben, das sich im Zuge der modernen Rationalisierung von Sozialverhältnissen zu einem berechenbaren Kapital versachlicht <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Vor diesem Hintergrundwird in der Folge gerade die «soziale Frage» so sehr zum Gegenstand versicherungstechnisch abgeleiteter Sozial- und Armutspolitiken, daß G. SCHMOLLER Ende des 19. Jh. den «Sieg des Versicherungswesens auf allen denkbaren Gebieten» als einen «der größten socialen Fortschritte unseres Jahrhunderts» feiern kann, als «notwendige Entwicklung», die «ein ganz neues Prinzip der socialen Hilfe und der socialen Organisation» entstehen ließ, aufgebaut auf «dem gesunden Prinzip der V.» <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Spätestens im frühen 20. Jh. ist die V. nicht nur Instrument rationaler Sozialpolitik, sondern konstitutives Steuerungselement moderner Vergesellschaftung. In diesem Sinn unterscheidet F. TÖNNIES «das Versicherungswesen als gesellschaftliche Erscheinung des wirthschaftlichen Lebens» von der «allgemeinen Sicherung», die das «gemeinschaftliche Leben ... in sich enthält» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Entsprechend faßt F. H. KNIGHT die V. als institutionalisierte «method of dealing with uncertainty by consolidation» auf der Basis klassifizierbarer oder verallgemeinerbarer «contingencies» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Für F. EWALD wird die V. mit dem 20. Jh. zur universell einsetzbaren «technologie du risque», die das «Solidaritätsparadigma» im Dualismus von «Entschädigungsparadigma» und «Präventionsparadigma» aufs engste mit dem riskanten Produktivismus der Industriegesellschaft verschränkt und so moderne Gesellschaft als umfassende «société assurancielle» realisiert <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"890\"></span> Vgl. GRIMM 12/I (1956) 1299–1311, bes. 1309. <span class=\"col\" data-col=\"891\"></span></li>\n<li id=\"fn0-2\" value=\"2\">D. DEFOE: An essay upon projects (1697, ND London 1887) 31f.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. W. SCHAEFER: Urkundl. Beiträge und Forschungen zur Geschichte der Feuerversicherung in Deutschland 2 (1911) 103–130.</li>\n<li id=\"fn0-4\" value=\"4\">B. HOLZSCHUHER: [o.T.], in: V. EHRENBERG: Ein finanz- und sozialpolit. Projekt aus dem 16. Jh. Z. ges. Staatswiss. 46 (1890) 717–735, 733.</li>\n<li id=\"fn0-5\" value=\"5\">G. W. LEIBNIZ: Öffentl. Assekuranzen [1680?]. Akad.-A. IV/3 (1986) 430f.</li>\n<li id=\"fn0-6\" value=\"6\">J. H. G. VON JUSTI: Die Grundfeste zu der Macht und Glückseligkeit der Staaten (1760) 766. 768f.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. etwa: A. MÜLLER-ARMACK: Genealogie der Wirtschaftsstile (1944) 246ff.</li>\n<li id=\"fn0-8\" value=\"8\">J. J. BECHER: Der Polit. Discurs von den eigentl. Ursachen des Auf- und Abnehmens der Städte ... (1668, 1688) 322–358.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. F. EWALD: L'état providence (Paris 1986) ch. 2.</li>\n<li id=\"fn0-10\" value=\"10\">G. SCHMOLLER: Vier Briefe über Bismarcks sozialpolit. und wirtschaftspolit. Bedeutung (1899), in: G. SCHMOLLER/M. LENZ/E. MARCKS: Zu Bismarcks Gedächtnis (1899) 3–78, 40.</li>\n<li id=\"fn0-11\" value=\"11\">F. TÖNNIES: Das V.-Wesen in soziolog. Betrachtung. Z. ges. Versicherungswiss. 17 (1917) 603–624, 618.</li>\n<li id=\"fn0-12\" value=\"12\">F. H. KNIGHT: Risk, uncertainty, and profit (Boston/New York 1921) 245. 247.</li>\n<li id=\"fn0-13\" value=\"13\">EWALD, a.O. [9]; Die Rückkehr des genius malignus. Soziale Welt 49 (1998) 5–23, 11.</li>\n</ol>",
+ "prev":{"id":3432,"lemma":"Versenken","band":"11","col":887},
+ "next":{"id":3434,"lemma":"Versöhnung","band":"11","col":891},
+ "backlinks":[{"id":3324,"lemma":"Unterdrückung; Repression","n":1}],
+ "outlinks":[{"id":2881,"lemma":"Sicherheit","n":1}],
+ "register":[
+  {"term":"assecuratio","qualifier":"","band":null,"col":null},
+  {"term":"assurance","qualifier":"","band":null,"col":null},
+  {"term":"cautio","qualifier":"","band":null,"col":null},
+  {"term":"confirmatio","qualifier":"","band":null,"col":null},
+  {"term":"insurance","qualifier":"","band":null,"col":null},
+  {"term":"praemunitio","qualifier":"","band":null,"col":null},
+  {"term":"société assurancielle","qualifier":"","band":"11","col":"890"},
+  {"term":"Solidarität","qualifier":"","band":"11","col":"890"}
+ ],
+ "persons":[
+  {"id":1055,"name":"G. Schmoller","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":378,"name":"F. Tönnies","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1818,"name":"J. H. G. von Justi","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2644,"name":"F. H. Knight","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3142,"name":"J. J. Becher","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5358,"name":"F. Ewald","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3654,"name":"D. Defoe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12483,"name":"B. Holzschuher","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2723,"name":"F. Lenz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3110,"name":"H. Schaefer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3439,"name":"V. Ehrenberg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3192,"name":"S. Marck","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6581,"name":"A. Müller-Armack","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6125,"name":"Ewald","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":18405,"name":"G. Obrecht","b":1,"n":0,"l":0,"editor":0,"role":"source"}
+ ],
+ "mentions":[],
+ "see_also":[
+  {"id":2881,"lemma":"Sicherheit"},
+  {"id":2940,"lemma":"Soziale Frage"},
+  {"id":3650,"lemma":"Wohlfahrt; Wohlfahrtsstaat"}
+ ],
+ "groups":[{"id":42,"name":"Soziologie","label":"Versicherung"}],
+ "reg_authors":[{"name":"Makropoulos Michael","n":2}]
+}
+);

@@ -1,0 +1,45 @@
+HWPH.put("t/3695",
+{
+ "b":"Zirkel (griech. κύκλος; lat. circulus; engl. circle; frz. cercle). In der Philosophie ist ‹Z.› eine Bezeichnung für unterschiedliche, in der Regel zu vermeidende Arten der Rückbezüglichkeit. Die Vermeidung von Z.n wird als methodisches Prinzip für die Begründung von Aussagen, den Beweis von Theoremen, den Aufbau von Theorien und die Hierarchisierung von Disziplinen gefordert. In der Definitionslehre werden zirkuläre Begriffsbildungen für das Auftreten logischer, mengentheoretischer und semantischer Antinomien verantwortlich gemacht. In den historischen und textinterpretierenden Wissenschaften entsteht der hermeneutische Z. aus dem Problem, daß das Ganze nur aus seinen Teilen heraus verstanden werden kann, das Verständnis der Teile aber das des Ganzen bereits voraussetzt. \nDie Bezeichnung ‹Z.› (κύκλος) wird schon bei ARISTOTELES im Zusammenhang mit der Zulässigkeit von syllogistischen Z.-Beweisen aus umkehrbaren Sätzen und der Unmöglichkeit genereller Z.-Beweise verwendet. ‹Diallele› (s.d.) ist ein späterer stoischer, zumeist für Z.-Definitionen verwendeter Terminus für dieselbe Struktur, ohne auf die evidente Bildlichkeit des Z. (Kreis) zurückzugreifen, die sich in der Folgezeit durchsetzt. In ihrer logischen Form fällt die Diallele mit dem «circulus vitiosus» (s.d.) bei Beweisen oder Definitionen zusammen. ‹Circulus vitiosus› (‹fehlerhafter Kreis›, engl. ‹vicious circle›, frz. ‹cercle vicieux›) bezeichnet etwa einen Beweis, bei dem die zu beweisende Aussage, eventuell verdeckt, für den Beweis vorausgesetzt wird. Von einer ‹petitio principii› (griech. ἀρχὴν αἰτεῖσθαι, ‹Beanspruchung des Beweisgrundes›, engl. ‹begging the question›) wird gesprochen, wenn bei der Begründung eines Satzes ein oder mehrere Sätze als Prämissen vorausgesetzt werden, dessen bzw. deren Begründung selbst auf den zu begründenden Satz zurückgreifen muß. Gehört zu diesen Prämissen bereits der zu begründende Satz oder ein ihm äquivalenter, liegt ein circulus vitiosus vor. Auch das ‘Hysteron-Proteronʼ (s.d.), der Beweisfehler der Umkehrung, in dem das zu Beweisende in irgendeiner Form im Beweisgang verwendet wird, mit dem Späteren also das Frühere bewiesen werden soll, ist für Aristoteles eine petitio principii ; er unterscheidet fünf verschiedene Arten der petitio principii . \nIn der mathematischen Begriffsbildung werden zirkuläre Strukturen auch als ‹imprädikativ› bezeichnet. Imprädikativ ist eine Definition, in deren Definiens auf eine das Definiendum enthaltende Menge Bezug genommen wird, ohne daß die Elemente der Menge allerdings konstruktiv gegeben wären . Imprädikative Aussageformen werden für die Entstehung von logischen und mengentheoretischen Antinomien verantwortlich gemacht. H. POINCARÉ erkannte ihre Zirkularität und forderte ihr Verbot . B. RUSSELL erhob die Vermeidung solcher «vicious-circle fallacies» als «vicious-circle principle» zum Prinzip der von ihm geschaffenen Typentheorie (s.d.), in der gefordert ist, daß keine Gesamtheit Elemente enthalten dürfe, die mittels ihrer selbst definiert sind . \nEine zirkuläre Selbstreferenz (s.d.) liegt vor, wenn ein Ausdruck A einen Ausdruck B bezeichnet, von dem A ein referierender Teilausdruck ist. In ihrer negativen Form (‘Dieser Satz ist falschʼ) führt sie auf semantische Antinomien . In der mittelalterlichen Logik galten solche Sätze mit der Lügner-Paradoxie als Standardbeispiel der «insolubilia» (s.d.) («unlösbare Probleme») und damit als «sophismata» (s.d.). \nIn Begründungszusammenhängen würde die von B. PASCAL selbst als utopisch angesehene Forderung, «alle Begriffe zu definieren und alle Sätze zu beweisen» («à définir tous les termes et à prouver toutes les propositions») , wenn ein circulus vitiosus vermieden werden soll, auf einen ‘infiniten Regreßʼ führen . Die Setzung von Deduktionsanfängen, etwa durch Annahme keines Beweises fähiger, aber auch keines Beweises bedürftiger Axiome , versucht das Problem zu umgehen, gerät aber u.U. in Dogmatismusverdacht. \nDie daher vom Kritischen Rationalismus geforderte Aufgabe des Begründungsdenkens wurde von H. ALBERT mit dem ‹Münchhausen-Trilemma› (s.d.) gerechtfertigt, wonach derjenige, der nach dem Prinzip des zureichenden Grundes für alles eine Begründung verlangt, lediglich die Wahl hat zwischen einem infiniten Regreß, einem logischen Z. in der Deduktion und dem Abbruch des Verfahrens an einem bestimmten Punkt. Der logische Z. entsteht dadurch, daß im Begründungsverfahren auf Aussagen zurückgegriffen werden muß, die zuvor als begründungsbedürftig aufgetreten waren . Das Trilemma ähnelt dem von K. R. POPPER sogenannten ‹Friesschen Trilemma› der Begründung «Dogmatismus – unendlicher Regreß – psychologistische Basis» : Will man die Sätze der Wissenschaft nicht dogmatisch einführen, müssen sie begründet werden. Eine durchgehend logische Begründung führt auf einen unendlichen Regreß, denn Sätze können nur auf Sätze zurückgeführt werden, die selbst wieder der Begründung bedürfen. Es bleibt im Bereich philosophischer Erkenntnis für Fries nur die psychologisch-anthropologische ‘Deduktionʼ von Grundsätzen auf Basis der Selbstbeobachtung . \nDer Nachweis von Z.n ist ein wichtiges Mittel der Kritik. In der skeptischen Auseinandersetzung mit der aristotelischen Syllogistik werden z.B. Schlüsse des Modus Barbara als zirkulär bezeichnet. Dort liege eine Diallele vor, weil dasjenige, das den fraglichen Gegenstand stützen soll, selbst der Bestätigung durch den fraglichen Gegenstand bedarf . In einem Syllogismus der Form ‘Alle Menschen sind Lebewesen, Sokrates ist ein Mensch, folglich ist Sokrates ein Lebewesenʼ wird der universal-affirmative Obersatz induktiv aus den Einzelfällen bestätigt. Gleichwohl wird aus dem Obersatz ein singulärer Satz deduktiv gefolgert, dessen Gültigkeit Bedingung für die Gültigkeit des Obersatzes ist. Dieser nur im Kontext der apodiktischen Syllogistik , wenn die Gültigkeit der Prämissen nicht hypothetisch gesetzt wird, sinnvolle Einwand dient als Argument für fehlende Kreativität syllogistischer und anderer deduktiver Schlüsse .",
+ "n":"Vgl. Art. ‹Antinomie II.›. Hist. Wb. Philos. 1 (1971) 397f. \nArt. ‹Zirkel, hermeneutischer›. \nARISTOTELES: Anal. pr. II, 5, 57 b 19–58 a 11. \nAnal. post. I, 3, 72 b 17–39. \nAnal. pr. II, 16, 64 b 32. \n64 b 29–65 a 37; Top. VI, 13, 162 b 31–163 a 14; vgl. auch: Anal. pr. I, 23, 40 b 30–33; 24, 41 b 10–20. \nArt. ‹Imprädikativität›. Hist. Wb. Philos. 4 (1976) 270–272; die Terminologie geht auf Russells «non-predicative» zurück, vgl. B. RUSSELL: On some difficulties in the theory of transfinite numbers and order types. Proc. London Math. Soc., Ser. 2, 4/1 (1906) 29–53. \nH. POINCARÉ: Les math. et la logique 3. Rev. Mét. Morale 14 (1906) 294–317. \nB. RUSSELL: Math. logic as based on the theory of types. Amer. J. Math. 30 (1908) 222–262; hier: 237; ND, in: J. van HEIJENOORT (Hg.): From Frege to Gödel (Cambridge, Mass. 1967) 152–182, hier: 163; vgl. B. RUSSELL/A. N. WHITEHEAD: Principia mathematica 1–3 (Cambridge 1910–13, 21925–27) 1, 36f. \nArt. ‹Antinomie II. 1.›. Hist. Wb. Philos. 1 (1971) 397f. \nB. PASCAL: De l'esprit géométrique I, 5 [1655]. Oeuvr. compl., hg. J. MESNARD 3 (Paris 1991) 393. \nVgl. Art. ‹Regressus/progressus in infinitum›. Hist. Wb. Philos. 8 (1992) 487–489. \nVgl. ARISTOTELES: Anal. post. I, 2, 71 b 20ff.; 10, 76 b 23f.; vgl. Art. ‹Axiom›. Hist. Wb. Philos. 1 (1971) 737–748, hier: 738. 741f. \nArt. ‹Principium rationis sufficientis›. Hist. Wb. Philos. 7 (1989) 1325–1336. \nH. ALBERT: Traktat über krit. Vernunft (1968, 51991) 15. \nK. R. POPPER: Logik der Forschung (Wien 1935, 71982) 60. \nVgl. J. F. FRIES: Neue oder anthropolog. Kritik der Vernunft 1, § 70 (1807, 21828). Sämtl. Schr. 4 (1967) 336–344. \nSEXTUS EMP.: Pyrrhon. Instit. II, 196. \nI, 15. \nVgl. Art. ‹Syllogismus; Syllogistik›. Hist. Wb. Philos. 10 (1998) 687–688. \nH. GOMPERZ: Kann die Deduktion zu ‘neuenʼ Ergebnissen führen? Kantstudien 35 (1930) 467–479.",
+ "l":"CH. THIEL: Grundlagenkrise und Grundlagenstreit (1972) 130–157. – J. BARWISE/J. ETCHEMENDY: The liar. An essay on truth and circularity (Oxford 1987). – J. BROMAND: Philos. der semant. Paradoxien (2001).",
+ "au":"V. Peckhaus",
+ "A":["V. Peckhaus"],
+ "cb":[
+  [0,1337],
+  [783,1337],
+  [1281,1338],
+  [2287,1338],
+  [3037,1338],
+  [3451,1338],
+  [3959,1339],
+  [3961,1339],
+  [5100,1339]
+ ],
+ "cn":[
+  [0,1337],
+  [0,1339],
+  [61,1339],
+  [94,1339],
+  [142,1339],
+  [173,1339],
+  [201,1339],
+  [307,1339],
+  [573,1339],
+  [650,1339],
+  [947,1339],
+  [1006,1339],
+  [1105,1339],
+  [1189,1339],
+  [1325,1339],
+  [1405,1339],
+  [1463,1339],
+  [1521,1339],
+  [1637,1339],
+  [1677,1339],
+  [1685,1339],
+  [1761,1339]
+ ],
+ "cl":[[0,1339]]
+}
+);

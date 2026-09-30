@@ -1,0 +1,27 @@
+HWPH.put("a/694",
+{
+ "id":694,
+ "lemma":"Einzelimplikation",
+ "band":"2",
+ "kind":"article",
+ "col_from":425,
+ "col_to":425,
+ "pdf_from":4979,
+ "pdf_to":4979,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":214,
+ "toc":[],
+ "html":"<p>Einzelimplikation heißt eine prädikatenlogische Implikation (nach LORENZEN ‹Subjunktion›) der Form <i>f</i>(<i>a</i>), → <i>g</i>(<i>a</i>) wobei <i>a</i> eine Individuenkonstante andeutet. Beispiel: «Wenn Frege Logiker ist, so ist Frege Philosoph.»</p>",
+ "prev":{"id":693,"lemma":"Einwelttheorie/Mehrweltentheorie","band":"2","col":423},
+ "next":{"id":695,"lemma":"Einzelne","band":"2","col":425},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":81,"name":"P. Lorenzen","b":1,"n":0,"l":0,"editor":0,"role":"mixed"}],
+ "mentions":[],
+ "see_also":[{"id":1399,"lemma":"Implikation"}],
+ "groups":[{"id":22,"name":"Logik","label":"Einzelimplikation"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

@@ -1,0 +1,47 @@
+HWPH.put("a/2466",
+{
+ "id":2466,
+ "lemma":"Problematizismus",
+ "band":"7",
+ "kind":"article",
+ "col_from":1408,
+ "col_to":1410,
+ "pdf_from":28948,
+ "pdf_to":28952,
+ "authors":["W. Büttemeyer"],
+ "n_notes":9,
+ "n_chars":6109,
+ "toc":[["h6","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Problematizismus (ital. <span class=\"col\" data-col=\"1409\"></span> problematicismo). Wie das Wort ‹P.› erst vor wenigen Jahrzehnten Verwendung gefunden hat, so hat sich auch die damit gekennzeichnete Position erst im 20. Jh. zu einer philosophischen Strömung entwickelt, deren Hauptvertreter die Italiener Antonio Banfi und Ugo Spirito sind.</p>\n<p>W. WINDELBAND führt den Ausdruck ‹P.› ein, um damit jene Form des Skeptizismus zu bezeichnen, die eine letzte Entscheidung zwischen kontradiktorischen Lösungen bestimmter philosophischer Probleme für unmöglich hält <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Die Italiener dagegen, die sich Kants Kritizismus, Hegels Dialektik und N. Hartmanns Aporetik verpflichtet wissen, verstehen den P. durchweg nicht als Skeptizismus. A. BANFI nimmt in seinem erkenntnistheoretischen Hauptwerk ‹Principi di una teoria della ragione› eine Denkhaltung ein, die sich im Hinblick auf unsere Fragestellung durch drei Aspekte kennzeichnen läßt: 1. die allgemeine Problematizität der Erkenntnis, die in dem niemals angemessen erfüllten Streben nach einer formalen Synthese aller unserer Erkenntnisse besteht und zur Folge hat, daß die Philosophie sich nie mit fertigen Lösungen zufrieden geben darf und daß alle dogmatischen Ausprägungen der Metaphysik einer scharfen Kritik anheimfallen; 2. die Offenheit der Erkenntnis, die sich exemplarisch im Kantischen Grenzbegriff zeigt, und 3. die Ambivalenz der Subjekt-Objekt-Beziehung, die nur in der ideellen Sphäre eine Synthese der beiden Bezugspunkte erlaubt, in der Realität aber zu einer unaufhebbaren Antithese führt. Banfi betont ausdrücklich, daß diese Auffassung nicht skeptisch im Sinne der Nichtigkeit und Vergeblichkeit der Erkenntnis selbst verstanden werden darf <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Während er seine Philosophie zunächst einen transzendentalen oder kritischen Rationalismus nennt und von einem seiner Mitarbeiter sogar gegen G. BONTADINIS Interpretation seines Denkansatzes als P. in Schutz genommen wird <sup class=\"fn\" data-fn=\"0-3\">3</sup>, greift er später selbst die Bezeichnung «problematicismo» [p.] auf <sup class=\"fn\" data-fn=\"0-4\">4</sup>, und einige seiner Schüler wenden den P. auf die Ästhetik und die Pädagogik an <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Auch U. SPIRITO verwendet den Ausdruck ‹P.› erst nachträglich <sup class=\"fn\" data-fn=\"0-6\">6</sup> zur Kennzeichnung einer Konzeption, die er 1937 im Buch ‹La vita come ricerca› erstmals umrissen und in ‹La vita come arte› (1941) und ‹La vita come amore› (1953) weiterentwickelt hat. Den Ansatz des Kritizismus fortführend, will er mit seinem P. die paradox erscheinenden Positionen des Dogmatismus und des Skeptizismus überwinden, was implizit die Loslösung vom Faschismus und vom Aktualismus seines Lehrers Giovanni Gentile bedeutet. Die Bemühungen der letzten Jahrhunderte, das mythische durch kritisches Denken zu ersetzen und <span class=\"col\" data-col=\"1410\"></span> den Dogmatismus zu überwinden, haben nach Spirito gezeigt, daß sie vergeblich sind und wir ohne Mythen und dogmatische Annahmen nicht leben können. Dennoch seien diese Bemühungen grundsätzlich berechtigt und unbedingt notwendig. Diese Antinomie führe nur dann nicht zum Skeptizismus, wenn wir unser Leben im Bewußtsein dieser Problematik als Suche nach einer – derzeit nicht absehbaren – Lösung begreifen und unser Streben nach dem Absoluten als Liebe konkretisieren. Der P. sei somit «eine Auffassung des Lebens als Suche, die nicht skeptisch auf Wahrheit verzichtet hat, sondern im Gegenteil genau weiß, wie dogmatisch und widersprüchlich ein solcher Verzicht wäre, die sich aber auch nicht der Illusion hingibt, die Wahrheit bereits zu besitzen und auf ihr aufbauen zu können» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Der Vergleich der Positionen von Banfi und Spirito hat G. BONTADINI und E. SEVERINO veranlaßt, die Ausdrücke ‹transzendentaler P.› (p. trascendentale) und ‹situativer P.› (p. situazionale) einzuführen <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Der transzendentale P., dem A. BANFI nahesteht, begründet die Problematizität aus den Bedingungen der Möglichkeit von Erkenntnis und schließt eine Lösung somit prinzipiell aus. Dem situativen P. dagegen, den SPIRITO vertritt, fehlt eine theoretische Begründung; er ist der Ausdruck einer widersprüchlichen Seelenlage, in der die Hoffnung auf Lösungen in ferner Zukunft noch nicht aufgegeben worden ist.</p>\n<p>In seinen letzten Veröffentlichungen hat Spirito den Gegensatz von Wissenschaft und Antiwissenschaft in den Mittelpunkt gestellt und seinen Standpunkt als «wissenschaftlichen P.» (p. scientifico) neu präsentiert <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Ist der P. – allgemein gesprochen – eine antinomische Sicht der Wirklichkeit und Ausdruck des Bedürfnisses nach einer Lösung, die es nicht gibt, nach der aber jeder auf seine Weise sucht, so vertritt der wissenschaftliche P. die folgenden Thesen: Wissenschaft und Philosophie sind im wesentlichen gleichartig, Erkenntnis und Wahrheit reduzieren sich auf wissenschaftliche Erkenntnis und Wahrheit, letztere gelten als bloß hypothetisch, aber gerade ihr hypothetischer Charakter begründet Zweifel an ihrem Wert und führt geradewegs zur Antiwissenschaft als Negation der Wissenschaft. Zwischen der Wissenschaft und der auf ihr beruhenden Zivilisation auf der einen Seite und dem Zweifel am Wert der Wissenschaft und der anarchischen Suche nach Alternativen auf der anderen Seite besteht eine unauflösbare Antinomie, die den Sinn des wissenschaftlichen P. ausmacht.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">M. DAL PRA: P. e teoricismo. Riv. crit. Storia Filos. 5 (1950) 1–24. – G. BONTADINI: Dal p. alla metafisica (Mailand 1952). – V. MIANO: P. e educazione (Rom 1960).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1410\"></span> W. WINDELBAND: Einl. in die Philos. (1914) 219.</li>\n<li id=\"fn0-2\" value=\"2\">A. BANFI: Principi di una teoria della ragione (Turin 1926) Teil I, Kap. I.</li>\n<li id=\"fn0-3\" value=\"3\">G. BONTADINI: Intorno all'essenza della filos. contemp. Riv. Filos. neo-scolast. 33 (1941) 490–514; G. M. BERTIN: Banfi (Padua 1943) 11.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. A. BANFIS Selbstdarst. im Sammelbd.: La mia prospettiva filos. (Padua 1950) 28–50, bes. 43.</li>\n<li id=\"fn0-5\" value=\"5\">D. FORMAGGIO: Arte e p. Studi filos. 6 (1946) 264–273; G. M. BERTIN: Introd. al p. pedagogico (Mailand 1951); Esistenzialismo marxismo p. nella pedagogia (Mailand 1955).</li>\n<li id=\"fn0-6\" value=\"6\">U. SPIRITO: Il p. (Florenz 1948) Vorwort.</li>\n<li id=\"fn0-7\" value=\"7\">Significato del nostro tempo (Florenz 1955) 229.</li>\n<li id=\"fn0-8\" value=\"8\">G. BONTADINI: Dall'attualismo al p. (Brescia 1946) Schlußkap.; E. SEVERINO: Note sul p. ital. (Brescia 1950) Kap. I.</li>\n<li id=\"fn0-9\" value=\"9\">U. SPIRITO: Storia della mia ricerca (Florenz 1971) 111–129; Dall'attualismo al p. (Florenz 1976) 49–55.</li>\n</ol>",
+ "prev":{"id":2465,"lemma":"Problem, psychophysisches","band":"7","col":1408},
+ "next":{"id":2467,"lemma":"Problemgeschichte","band":"7","col":1410},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":8172,"name":"G. Bontadini","b":2,"n":2,"l":1,"editor":0,"role":"mixed"},
+  {"id":8129,"name":"A. Banfi","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":6949,"name":"U. Spirito","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":118,"name":"W. Windelband","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6054,"name":"E. Severino","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16680,"name":"G. M. Bertin","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":26674,"name":"D. Formaggio","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4921,"name":"M. Dal Pra","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14390,"name":"V. Miano","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2907,"lemma":"Skepsis; Skeptizismus","tf":4},
+  {"id":1698,"lemma":"Kritizismus","tf":2},
+  {"id":626,"lemma":"Dogmatismus","tf":2},
+  {"id":185,"lemma":"Antinomie","tf":2},
+  {"id":3635,"lemma":"Wissenschaft","tf":5},
+  {"id":126,"lemma":"Analyse/Synthese","tf":2},
+  {"id":3722,"lemma":"Zweifel","tf":2},
+  {"id":3038,"lemma":"Streben","tf":2},
+  {"id":3588,"lemma":"Wert","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Problematizismus"}],
+ "reg_authors":[{"name":"Büttemeyer Wilhelm","n":4}]
+}
+);

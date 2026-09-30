@@ -1,0 +1,66 @@
+HWPH.put("a/2772",
+{
+ "id":2772,
+ "lemma":"Schmecken",
+ "band":"8",
+ "kind":"article",
+ "col_from":1313,
+ "col_to":1314,
+ "pdf_from":34196,
+ "pdf_to":34200,
+ "authors":["P. Heidrich"],
+ "n_notes":17,
+ "n_chars":4875,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Schmecken meint im metaphorischen Gebrauch die innere, geistliche Erfahrung Gottes im Unterschied zu seiner rationalen Erkenntnis. PS.-DIONYSIUS AREOPAGITA spricht in diesem Sinne davon, daß man das Göttliche nicht nur erlernen, sondern auch erfahren könne (οὐ μόνον μαθὼν, ἀλλὰ καὶ παθὸν τὰ θεῖα) <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Biblische Ausdrücke wie ‹dulcedo› (Süßigkeit), ‹suavitas› (Lieblichkeit) und ‹gustatio› (Sch.) <sup class=\"fn\" data-fn=\"0-2\">2</sup> werden in der mystischen Literatur dazu verwandt, das Erleben der Einigung mit Gott zu beschreiben. So haben MECHTHILD VON MAGDEBURG u.a. in reicher Metaphorik das Sch. der göttlichen «Süßigkeit» als Ausdruck der Unio mystica geschildert <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Auch die islamische Mystik bezeichnet mit ‹Sch.› (dauq) den Weg zu Gott, der im Unterschied zum nur theoretischen Studium im seelischen Erleben und in der wirklichen Erfahrung Gottes besteht <sup class=\"fn\" data-fn=\"0-4\">4</sup>. «Das Wissen steht höher als der Glaube, Sch. aber höher als das Wissen» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. THOMAS VON AQUIN spricht von einer «cognitio dei experimentalis» («erfahrenden Gotteserkenntnis»), «dum quis experitur in seipso gustum divinae dulcedinis et complacentiam divinae voluntatis» («wenn jemand in sich den Geschmack der göttlichen Süße und das Wohlgefallen des göttlichen Willens wahrnimmt») <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>MEISTER ECKHART nimmt den durch die belegte <span class=\"col\" data-col=\"1314\"></span> Zunge eines Kranken bewirkten Bittergeschmack, um zu verdeutlichen, daß der ungelassene Mensch Gott nicht richtig erfährt; Gottes Wille schmeckt nur in der Einheit, d.h. in der Gleichförmigkeit mit ihm <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Nach dem Sch. des Geistes schmeckt die Kreatur nicht mehr <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Nach JOH. TAULER kann nur ein ganz lauterer, inwendiger Mensch in fühlender, schmeckender und wesentlicher Weise von wunderbaren, göttlichen Dingen wissen. Der den äußerlichen Dingen zugewandte Mensch weiß, schmeckt und empfindet nichts («nút enweis noch ensmakt noch enbevindet») vom verborgenen Gott <sup class=\"fn\" data-fn=\"0-9\">9</sup>. NIKOLAUS VON KUES: «Gottes Süßigkeit zu kosten» («gustare»), heißt, ihn in «erfahrender Berührung» («experimentali contactu») als die Quelle aller «Wonne» («suavitas») erfassen <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Neben der Barockmystik <sup class=\"fn\" data-fn=\"0-11\">11</sup> hat vor allem der Pietismus die Metaphorik des Sch. Gottes tradiert. Dem bitteren Sch. der Welt steht das süße Sch. des Geistes Gottes und seines «verborgenen Himmel-Brods» gegenüber <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Sch. ist eine wirkliche, «eigene Erfahrung» Gottes <sup class=\"fn\" data-fn=\"0-13\">13</sup>, die nur der haben kann, der sein Herz ganz ausleert von weltlichen Dingen <sup class=\"fn\" data-fn=\"0-14\">14</sup> und dadurch des «inneren geistlichen geschmacks der seelen» teilhaftig wird <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Die Bildersprache des Sch. und Fühlens war so reichhaltig, daß F. CH. OETINGER das geistige Sch. ausdrücklich vom sinnlichen abheben muß. Im geistigen Sch. können «die im Geist Stehenden das Wesen der Dinge im Innersten auf einmal ohne Schlüsse sehen, schmecken, empfinden und über alle Vernunft erkennen» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Von diesem ‹Sch.› wird dann der ästhetische Geschmacksbegriff unterschieden <sup class=\"fn\" data-fn=\"0-17\">17</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1314\"></span> PS.-DIONYSIUS AREOPAGITA: De div. nom. MPG 3, 648.</li>\n<li id=\"fn0-2\" value=\"2\">Ps. 30, 20; 33, 9; 67, 11; 85, 5; 99, 5; 108, 21; 119, 103; 144, 7; Hebr. 6, 4f.; 1 Petr. 2, 3 (Vulgata).</li>\n<li id=\"fn0-3\" value=\"3\">Belege bei G. LÜERS: Die Sprache der dtsch. Mystik des MA im Werke der Mechthild von Magdeburg (1926) 256–259.</li>\n<li id=\"fn0-4\" value=\"4\">A.-H. M. al-GHAZĀLĪ: Der Erretter aus dem Irrtum, hg. A.-E. ELSCHAZLĪ (1988) 41. 47f.</li>\n<li id=\"fn0-5\" value=\"5\">Die Nische der Lichter, hg. A.-E. ELSCHAZLĪ (1987) 48.</li>\n<li id=\"fn0-6\" value=\"6\">THOMAS VON AQUIN: S. theol. II–II, 97, 2, ad 2; vgl. BONAVENTURA: Sent. I, 17, 1, dub. 4; III, 31, 31, 1; III, 34, 1, 2; III, 35, 1, 1; III, 36, 1, 2. Opera omnia (Quaracchi 1882–1902) 1, 305a; 3, 745b. 689b. 774b. 794; zur geistlichen experientia vgl. R. SEEBERG: Lehrb. der Dogmengesch. 3 (<sup>5</sup>1953) 127, Anm. 1.</li>\n<li id=\"fn0-7\" value=\"7\">MEISTER ECKHART: Predigt 11. Dtsch. Werke 1 (1958) 187 u. Anm.; Predigt 15, a.O. 1, 245.</li>\n<li id=\"fn0-8\" value=\"8\">Sermo VIII, n. 84. Lat. Werke 4 (1956) 81 u. Anm. 3; Vorbild vielleicht BERNHARD VON CLAIRVAUX: Ep. 111, 3. Opera (Rom 1957–77) 7, 285.</li>\n<li id=\"fn0-9\" value=\"9\">JOH. TAULER: Predigt Nr. 60. Die Predigten, hg. F. VETTER (1910) 277, 24ff.; vgl. Nr. 32, a.O. 119, 24ff.</li>\n<li id=\"fn0-10\" value=\"10\">NIKOLAUS VON KUES: De visione Dei V; vgl. Idiota de sapientia I, 14. 27.</li>\n<li id=\"fn0-11\" value=\"11\">ANGELUS SILESIUS (J. SCHEFFLER): Heilige Seelenlust oder Geistliche Hirtenlieder der in ihren Jesum verliebten Psyche (1657), hg. G. ELLINGER (1901) 38. 117. 124. 126. 140; M. SANDAEUS: Pro theologia mystica clavis elucid. (1640) 224f. 322f.</li>\n<li id=\"fn0-12\" value=\"12\">J. ARNDT: Sechs Bücher vom wahren Christenthum. Neue Aufl. (1741) 211f. 214. 446. 1081.</li>\n<li id=\"fn0-13\" value=\"13\">J. H. REITZ: Historie der Wiedergebohrnen (1698–1745, ND 1982) 3, 203; 4, 208; 5, 72.</li>\n<li id=\"fn0-14\" value=\"14\">G. TERSTE(E)GEN: Geistliches Blumengärtlein inniger Seelen (1729) Nr. 199. 536. 566 (1969) 79. 157. 166.</li>\n<li id=\"fn0-15\" value=\"15\">G. ARNOLD: Das Geheimniß der göttl. Sophia (1700, ND 1963) 151; vgl. E. H. HENCKEL: Die letzten Stunden einiger ... seelig in dem Herrn Verstorbenen Persohnen (<sup>2</sup>1722) 1, 69.</li>\n<li id=\"fn0-16\" value=\"16\">F. CH. OETINGER: Abriß der ev. Ordnung zur Wiedergeburt (1735). Sämtl. Schr., hg. K. CH. E. EHMANN (1858ff.) II/5, 288f.</li>\n<li id=\"fn0-17\" value=\"17\">J. U. KÖNIG: Unters. von dem guten Geschmack in der Dicht- und Rede-Kunst, in: F. R. L. CANITZ: Gedichte (<sup>3</sup>1750) 426f.</li>\n</ol>",
+ "prev":{"id":2771,"lemma":"Schlüsselreiz","band":"8","col":1312},
+ "next":{"id":2773,"lemma":"Schmerz","band":"8","col":1314},
+ "backlinks":[{"id":2892,"lemma":"Sinne, die","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"dulcedo","qualifier":"","band":"8","col":"1313"},
+  {"term":"Gott schmecken","qualifier":"","band":null,"col":null},
+  {"term":"gustatio","qualifier":"","band":null,"col":null},
+  {"term":"suavitas","qualifier":"","band":"8","col":"1313"},
+  {"term":"Süssigkeit","qualifier":"","band":"8","col":"1313"}
+ ],
+ "persons":[
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":66,"name":"Nikolaus von Kues","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":73,"name":"Eckhart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":140,"name":"Ps.-Dionysius Areopagita","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":387,"name":"J. Tauler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":394,"name":"F. Ch. Oetinger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":53,"name":"Bonaventura","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":464,"name":"G. Arnold","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":402,"name":"Bernhard von Clairvaux","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":825,"name":"R. Seeberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1319,"name":"Angelus Silesius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1329,"name":"J. Arndt","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2669,"name":"J. Scheffler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3443,"name":"M. Sandaeus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3976,"name":"Mechthild von Magdeburg","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":6366,"name":"J. H. Reitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7488,"name":"G. Lüers","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7515,"name":"Henckel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":28145,"name":"G. Terste","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":28146,"name":"F. R. L. Canitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":321,"name":"G. König","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1150,"name":"F. Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1871,"name":"K. Ch. E. Ehmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4452,"name":"G. Ellinger","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":804,"lemma":"Erleben, Erlebnis","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":3},
+  {"id":3634,"lemma":"Wissen","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":27,"name":"Mystik","label":"Schmecken"},
+  {"id":44,"name":"Theologie","label":"Schmecken"},
+  {"id":45,"name":"Topoi und Metaphern","label":"Schmecken"}
+ ],
+ "reg_authors":[{"name":"Heidrich Peter","n":20}]
+}
+);

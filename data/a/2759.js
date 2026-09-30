@@ -1,0 +1,56 @@
+HWPH.put("a/2759",
+{
+ "id":2759,
+ "lemma":"Scheitern",
+ "band":"8",
+ "kind":"article",
+ "col_from":1245,
+ "col_to":1246,
+ "pdf_from":33989,
+ "pdf_to":33993,
+ "authors":["H. Rath"],
+ "n_notes":21,
+ "n_chars":4272,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Scheitern (frz. échec; engl. foundering; dän. strande). Wenn mit dem deutschen Wort ‹Sch.› ein Mißlingen beschrieben wird, so liegt dem die metaphorische Verwendung der Vorstellung des Schiffbruchs an einer Küste zugrunde. Zwar hat sich im Französischen das aus der Begrifflichkeit des Schachspieles stammende ‹échec› als Entsprechung dazu durchgesetzt, doch beschreibt noch M. de MONTAIGNE die Brüchigkeit des menschlichen Lebens mit seinen Wechselfällen in nautischer Metaphorik, wenn er von «rompre au port» (Sch. noch in vermeintlicher Sicherheit) <sup class=\"fn\" data-fn=\"0-1\">1</sup> oder vom «universel naufrage du monde» <sup class=\"fn\" data-fn=\"0-2\">2</sup> spricht.</p>\n<p>«Echec» wird von J. de LA BRUYÈRE noch ganz unterminologisch und in großer Nähe zu seinem metaphorischen Herkunftsbereich im Rahmen seiner Hofkritik (der Höfling als Schachfigur) verwandt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. B. PASCAL beschreibt die Schwäche des menschlichen Verstandes gelegentlich als Sch. <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Zwar spricht S. KIERKEGAARD vom Sch. oder Stranden (dän. ‹strande›) der Metaphysik <sup class=\"fn\" data-fn=\"0-5\">5</sup> oder der Ethik <sup class=\"fn\" data-fn=\"0-6\">6</sup>, doch philosophisch zentrale Bedeutung gewinnt der Begriff erst bei K. JASPERS. Mit ihm wird hier nicht etwa ein partielles Mißlingen oder das faktische Ende des Daseins beschrieben, sondern die grundsätzliche Vergeblichkeit aller Bemühungen und <span class=\"col\" data-col=\"1246\"></span> Anstrengungen des Menschen <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Auf einer faktischen Ebene <sup class=\"fn\" data-fn=\"0-8\">8</sup> scheitert jedes menschliche Dasein an der Vernichtung im Tode. Scheitern muß auch das menschliche Denken an der Aufgabe, die ungegenständliche Transzendenz zu ergreifen und zu objektivieren <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Davon unterschieden <sup class=\"fn\" data-fn=\"0-10\">10</sup> werden muß das «Sch. der Existenz» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Es ist durch die Erfahrung des Selbstseins bedingt und besteht in der Unmöglichkeit, der «eigentliche[n] Wahrheit, die ich erfasse, weil ich sie bin und lebe, ... allgemeingültig kennbar zu sein» <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>Andererseits hat der Begriff des Sch. konstitutive Bedeutung für Jaspers' Lehre von den <a class=\"xref\" href=\"#/a/492\">Chiffren</a> <span class=\"sd\">→ (s.d.)</span> als Sprache der Transzendenz. Das Sch. ist eine Chiffre im ausgezeichneten Sinne, da sie zugleich als Kriterium der Wahrheit aller anderen Chiffren fungiert. Wahr sind Chiffren nur, «wenn sie sich erhalten in der Chiffre des Sch.» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Die Erfahrung des Sch. an Grenzsituationen, in denen sich der Mensch seiner Endlichkeit bewußt wird, ist aber auch immer Begegnung mit der Transzendenz <sup class=\"fn\" data-fn=\"0-14\">14</sup>, im Sch. offenbart sich das Sein <sup class=\"fn\" data-fn=\"0-15\">15</sup>. So läßt sich die Mißlingenserfahrung ins Positive wenden: Sch. ist dann kein Erdulden und Mit-sich-geschehen-Lassen, sondern Kampf und bewußtes Wagnis <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Paradigmatisch sind dabei für Jaspers das Denken und Leben Kierkegaards und Nietzsches: «Sie sind selbst die Modernität in einer sich überschlagenden Gestalt; sie haben sie scheiternd überwunden, weil sie sie bis zum Ende durchgelebt haben» <sup class=\"fn\" data-fn=\"0-17\">17</sup>.</p>\n<p>Der französische Existentialismus hat hier einen Anknüpfungspunkt gesehen. Im expliziten Anschluß an Jaspers als dem «apôtre de la pensée humiliée» <sup class=\"fn\" data-fn=\"0-18\">18</sup> avanciert ‹Sch.› (échec) bei A. CAMUS <sup class=\"fn\" data-fn=\"0-19\">19</sup> und zumal bei J.-P. SARTRE zu einem Schlüsselbegriff <sup class=\"fn\" data-fn=\"0-20\">20</sup>. Dieser deutet das Sch. zudem hegelianisierend als «négation de la négation», d.h. als Widerstand gegen den vorfindlichen Weltzustand («refus de complicité avec le monde, donc l'innocence» <sup class=\"fn\" data-fn=\"0-21\">21</sup>).</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">J. THYSSEN: The concept of ‘founderingʼ in Jaspers' Philos., in: P. A. SCHILPP (Hg.): The philos. of K. Jaspers (LaSalle, Ill. 1957, <sup>2</sup>1981) 297–335. – K. SALAMUN: K. Jaspers (1985).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1246\"></span> M. de MONTAIGNE: Essais III, 9. Oeuvr. compl., hg. A. THIBAUDET/M. RAT (Paris 1962) 977.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 770; vgl. dazu: H. BLUMENBERG: Schiffbruch mit Zuschauer. Paradigma einer Daseinsmetapher (1979) 16–20.</li>\n<li id=\"fn0-3\" value=\"3\">J. de LA BRUYÈRE: Les Caractères VIII, 64, hg. R. GARAPON (Paris 1962) 242.</li>\n<li id=\"fn0-4\" value=\"4\">B. PASCAL: Pensées VI, 366 (BRUNSCHVICG).</li>\n<li id=\"fn0-5\" value=\"5\">S. KIERKEGAARD: Gjentagelsen (1843). Samlede Værker 5, hg. A. B. DRACHMANN u.a. (Gyldendal 1963) 131, dtsch.: Die Wiederholung. Ges. Werke 5/6 (1955) 22.</li>\n<li id=\"fn0-6\" value=\"6\">Begrebet Angest (1844), a.O. 6 (1963) 116f., dtsch.: Der Begriff Angst, a.O. 11/12 (<sup>2</sup>1965) 14.</li>\n<li id=\"fn0-7\" value=\"7\">K. JASPERS: Philos. 1–3 (1932, <sup>4</sup>1973) 3, 220.</li>\n<li id=\"fn0-8\" value=\"8\">a.O. 221.</li>\n<li id=\"fn0-9\" value=\"9\">2, 249.</li>\n<li id=\"fn0-10\" value=\"10\">3, 221.</li>\n<li id=\"fn0-11\" value=\"11\">a.O.</li>\n<li id=\"fn0-12\" value=\"12\">ebda.</li>\n<li id=\"fn0-13\" value=\"13\">218.</li>\n<li id=\"fn0-14\" value=\"14\">4.</li>\n<li id=\"fn0-15\" value=\"15\">226.</li>\n<li id=\"fn0-16\" value=\"16\">2, 381.</li>\n<li id=\"fn0-17\" value=\"17\">Vernunft und Existenz (Groningen 1935) 11.</li>\n<li id=\"fn0-18\" value=\"18\">A. CAMUS: Le mythe de Sisyphe (Paris 1943) 52; vgl. J.-P. SARTRE: Cahiers pour une morale (Paris 1983) 454.</li>\n<li id=\"fn0-19\" value=\"19\">a.O. 51.</li>\n<li id=\"fn0-20\" value=\"20\">Vgl. aber auch: M. BLONDEL: L'action (1893), dtsch.: Die Aktion (1965) 351–358 und P. VALÉRY: Tel quel 2 (1943). Oeuvr. 2 (Paris 1960) 786.</li>\n<li id=\"fn0-21\" value=\"21\">SARTRE, a.O. [18] 454.</li>\n</ol>",
+ "prev":{"id":2758,"lemma":"Scheinprobleme","band":"8","col":1243},
+ "next":{"id":2760,"lemma":"Schema, Schematismus","band":"8","col":1246},
+ "backlinks":[{"id":3249,"lemma":"Überdruß","n":1}],
+ "outlinks":[{"id":492,"lemma":"Chiffre","n":1}],
+ "register":[
+  {"term":"(Heidegger) 3 1202","qualifier":"","band":"8","col":"1245f."},
+  {"term":"échec","qualifier":"","band":null,"col":null},
+  {"term":"naufrage du monde","qualifier":"","band":"8","col":"1245"},
+  {"term":"refus","qualifier":"","band":"8","col":"1246"},
+  {"term":"rompre au port","qualifier":"","band":"8","col":"1245"},
+  {"term":"Versagen","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":79,"name":"J.-P. Sartre","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":44,"name":"K. Jaspers","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":52,"name":"S. Kierkegaard","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":80,"name":"B. Pascal","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":141,"name":"M. de Montaigne","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":507,"name":"A. Camus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1014,"name":"J. de la Bruyère","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":97,"name":"H. Blumenberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":685,"name":"M. Blondel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":877,"name":"P. Valéry","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3634,"name":"J. Thyssen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5772,"name":"K. Salamun","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":327,"name":"L. Brunschvicg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":750,"name":"A. Thibaudet","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":3085,"name":"A. B. Drachmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":11962,"name":"R. Garapon","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":592,"name":"P. A. Schilpp","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3223,"lemma":"Transzendenz; Transzendieren","tf":3},
+  {"id":527,"lemma":"Dasein","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[{"id":492,"lemma":"Chiffre"}],
+ "groups":[{"id":11,"name":"Existenzphilosophie","label":"Scheitern"}],
+ "reg_authors":[{"name":"Rath Helmut","n":4},{"name":"Red","n":242}]
+}
+);

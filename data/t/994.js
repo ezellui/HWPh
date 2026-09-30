@@ -1,0 +1,12 @@
+HWPH.put("t/994",
+{
+ "b":"Gebrauchsdefinition. Das deutsche ‹G.› geht auf RUSSELLS Terminus ‹definition in use› zurück . Statt ‹G.› ist auch ‹kontextuale Definition (contextual definition)› oder ‹Kontextdefinition› üblich. Nach Russell gibt die G. eines Zeichens an, wie ein Ausdruck (Definiendum), der dieses Zeichen neben anderen enthält, in einen Ausdruck (Definiens) umgeformt werden kann, der dieses Zeichen nicht enthält. \nJe nachdem, wie eng der Terminus ‹explizite Definition› in Abhebung von ‹G.› gefaßt wird (d.h., welche Zeichen neben dem zu eliminierenden im Definiendum der expliziten Definitionen zugelassen werden), können zwei Verwendungen von ‹G.› unterschieden werden: \nDie erste Auffassung vertritt CARNAP in ‹Der logische Aufbau der Welt› , indem er ‹explizite Definition› für solche Definitionen reserviert, die einem Ausdruck eine selbständige abgeschlossene Bedeutung verleihen (Carnaps Beispiel: «2 = df 1 + 1»). Dies führt dann dazu, daß Carnap auch alle Definitionen von Begriffen usw. ‹G.› nennt, weil Begriffe wegen ihrer (von FREGE so genannten) «Ungesättigtheit oder Ergänzungsbedürftigkeit» in ihrem Ausdruck unbestimmt andeutende Zeichen (Variablen) mitführen müssen (Carnaps Beispiel für eine Begriffsdefinition: «x ist eine Primzahl = ~df~ x ist eine natürliche Zahl; x hat nur 1 und x als Teiler»). \nNach der zweiten, heute üblichen Auffassung, der sich auch CARNAP später angeschlossen hat, wird das Vorkommen von Variablen im Definiendum (im Definiens müssen dann dieselben vorkommen) bei expliziten Definitionen zugelassen. G.en sind dann solche Definitionen, in deren Definiendum neben dem zu erklärenden Zeichen auch logisch einfache Grundzeichen oder bereits erklärte Zeichen enthalten sind . Die Verwendung dieser G.en erfordert, wie bereits FREGE, allerdings ohne Nennung des Terminus, gegen sie geltend macht , den gesonderten Nachweis, daß die Bedeutung des zu erklärenden Zeichens eindeutig bestimmt wird.",
+ "n":"A. N. WHITEHEAD und B. RUSSELL: Principia Mathematica 1 (Cambridge 21925) 66. \nVgl. Art. ‹Definition II, 3›. \nR. CARNAP: Der log. Aufbau der Welt (1928) §§ 38f. \nTestability and meaning. Philos. Science 3 (1936) 439. \nF. v. KUTSCHERA: Freges Definitionslehre. Elementare Logik (1967) 354–378, bes. 369. \nG. FREGE: Grundgesetze der Arithmetik II (1903) § 66.",
+ "l":"",
+ "au":"G. Gabriel",
+ "A":["G. Gabriel"],
+ "cb":[[0,32],[403,32],[662,32],[1309,32]],
+ "cn":[[0,32],[79,32],[110,32],[162,32],[218,32],[304,32]],
+ "cl":[]
+}
+);

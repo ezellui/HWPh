@@ -1,0 +1,36 @@
+HWPH.put("a/1441",
+{
+ "id":1441,
+ "lemma":"Inklination",
+ "band":"4",
+ "kind":"article",
+ "col_from":382,
+ "col_to":383,
+ "pdf_from":12568,
+ "pdf_to":12570,
+ "authors":["K. Goldammer"],
+ "n_notes":12,
+ "n_chars":2878,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Inklination (von lat. <span class=\"col\" data-col=\"383\"></span> inclinatio, Zu- oder Hinneigung, zunächst rein körperlich-räumlich). Im naturkundlich-astronomischen Sprachgebrauch der Antike (Neigung des Himmels, der Welt) entsprechen den griechischen κλίματα auch inclinationes mundi, Zonen oder Landstriche <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Schon im Altertum wurde der Begriff im übertragenen Sinn für «Neigung» oder «Richtung» des Herzens und Gemüts gebraucht. Der Zusammenhang mit astronomisch-kosmologischen Vorstellungen ist dabei zu beachten. Nach THOMAS VON AQUIN ist die in «naturalis» und «voluntaria» eingeteilte inclinatio «quaedam impressio a primo movente» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Das Wollen ist «inclinatio quaedam voluntatis» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Häufig verwendet den Begriff PARACELSUS, der ihn differenziert und seiner Wissenschaftstheorie einfügt. Neben zahlreichen beiläufigen Behandlungen widmete er ihm einen eigenen Abschnitt seiner ‹Philosophia Sagax› <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Er bringt ihn wieder mit dem «Gestirn» in Zusammenhang. Das «donum inclinationis» ist eine zweifache Gabe Gottes, nämlich durch den Heiligen Geist und durch das Gestirn und die Naturelemente. Der I. soll der Mensch folgen, da sie sein Schulmeister ist. Ohne sie könnte er nichts <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Sie ist eine «verborgene Wirkung im Menschen» <sup class=\"fn\" data-fn=\"0-6\">6</sup> in ihrem siderisch-elementischen und geistigen Doppelaspekt. Dabei setzt sie den freien Willen voraus <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die vulgärastrologische Kompromißformel «inclinant, non necessitant astra» lehnt er jedenfalls ab <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Das Ganze ist eine Modifizierung astrologischen Schicksalsglaubens.</p>\n<p>Von MALEBRANCHE wurde der Begriff systematisiert <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Er schreibt den «Geistern» (esprits) analog den Bewegungen der Körper I. zu, bezeichnet die «inclinations naturelles» als «mouvements de l'âme, qui nous sont communs avec les pures intelligences» und unterscheidet sie von den Leidenschaften <sup class=\"fn\" data-fn=\"0-10\">10</sup>. LEIBNIZ verbindet das «incliner» mit dem Gedanken der Freiheit und stellt es in Gegensatz zum «nécessiter» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Man wird in dem ungebräuchlich gewordenen Begriff der I. einen Unterschied sowohl zur bewußten Willensbildung wie zum Zwangsläufigen einer Schicksalsbestimmung wie zum Getriebensein durch Instinkte oder Leidenschaften bemerken müssen. Es handelt sich um eine Vielfalt von Geneigtheiten auf unterschiedlichen Ebenen, die dann auch in persönliche, altruistische und höhere Neigungen unterschieden und letztere wieder in ästhetische, wissenschaftliche und moralische I. eingeteilt werden können <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Thes. ling. lat. VII/1 (1939) 938ff.</li>\n<li id=\"fn0-2\" value=\"2\">THOMAS VON AQUIN, S. theol. I, 104, 8.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. I, 105, 4; 106, 2; 111, 2.</li>\n<li id=\"fn0-4\" value=\"4\">PARACELSUS, Philos. sagax I, 10. Werke, hg. SUDHOFF 12 (1929) 225–232.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 231.</li>\n<li id=\"fn0-6\" value=\"6\">228.</li>\n<li id=\"fn0-7\" value=\"7\">232.</li>\n<li id=\"fn0-8\" value=\"8\">Opus Paramirum II, 7 a.a.O. 9 (1925) 115; vgl. E. METZKE: Coincidentia Oppositorum (1961) 61.</li>\n<li id=\"fn0-9\" value=\"9\">N. MALEBRANCHE, Recherche de la vérité IV: «Des inclinations». Oeuvres, hg. G. DREYFUS 2 (Paris 1962) 9ff.</li>\n<li id=\"fn0-10\" value=\"10\">a.a.O. V, 1 = 2, 127.</li>\n<li id=\"fn0-11\" value=\"11\">LEIBNIZ, Theodizee § 230, hg. ERDMANN 1 (1840) 574; § 288 = 590 a.</li>\n<li id=\"fn0-12\" value=\"12\">LALANDE<sup>10</sup> 484f.</li>\n</ol>",
+ "prev":{"id":1440,"lemma":"Inkarnation","band":"4","col":368},
+ "next":{"id":1442,"lemma":"Inklusion","band":"4","col":383},
+ "backlinks":[{"id":2106,"lemma":"Neigung","n":1},{"id":2353,"lemma":"Philosophie","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Neigung","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":164,"name":"N. Malebranche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":295,"name":"Paracelsus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1530,"name":"E. Metzke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2023,"name":"Erdmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1000,"name":"K. Sudhoff","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":9163,"name":"G. Dreyfus","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":1123,"lemma":"Gestirn, Sterne","tf":2}],
+ "see_also":[],
+ "groups":[{"id":28,"name":"Naturphilosophie","label":"Inklination"}],
+ "reg_authors":[{"name":"Goldammer Kurt","n":10}]
+}
+);

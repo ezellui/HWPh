@@ -1,0 +1,85 @@
+HWPH.put("a/2987",
+{
+ "id":2987,
+ "lemma":"Sprache, formale",
+ "band":"9",
+ "kind":"article",
+ "col_from":1499,
+ "col_to":1502,
+ "pdf_from":39355,
+ "pdf_to":39362,
+ "authors":["P. Stekeler-Weithofer"],
+ "n_notes":9,
+ "n_chars":9214,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Sprache, formale (engl. <span class=\"col\" data-col=\"1500\"></span> formal language). Eine f.S. wird im Unterschied zu einer ‘natürlichenʼ S., die es als solche in einem Gebrauch von Wörtern und Sätzen schon gibt, bevor diese durch eine Grammatik der Wort- und Satzbildung und dann auch durch semantische Erläuterungen von Gebrauchsformen beschrieben werden, durch ein explizit gesetztes System von Ausdrucksbildungs- oder Formationsregeln allererst definiert. Eine solche f.S. heißt auch ‹Formalsprache›, ‹formalisierte S.›, ‹logische S.›, ‹Kalkülsprache›.</p>\n<p>Eine «der arithmetischen nachgebildete Formelsprache des reinen Denkens» nennt G. FREGE schon im Untertitel seine ‹Begriffsschrift› <sup class=\"fn\" data-fn=\"0-1\">1</sup> und verweist zurück auf das Projekt von G. W. LEIBNIZ, eine «lingua philosophica» oder «characteristica universalis» <sup class=\"fn\" data-fn=\"0-2\">2</sup>, ein eindeutig in Ausdruck und Bedeutung definiertes Ausdruckssystem zu entwerfen, in dem sich möglichst alles möglichst klar und deutlich sagen und in der sich jeder logisch-begriffliche Beweis nach Möglichkeit als ein kalkülmäßiges Rechnen aus (wenigstens hypothetisch) zugestandenen «Axiomen» ergeben sollte. Schon in dieser Projektskizze wird die f.S. zu einem grundlegenden Teil eines umfassenderen formalen oder formalistischen Systems bzw. einer formalen Theorie, zu welcher zusätzlich zu den schematischen Regeln der Bildung von Ausdruckskonfigurationen (Formeln und Sätzen) auch kalkülartige Regeln der (logischen) Satzumformung, ein «calculus ratiocinator» <sup class=\"fn\" data-fn=\"0-3\">3</sup> des deduktiven Schließens, gehören und ggf. auch die Setzungen von Ausgangsformeln oder erster Sätze, sog. Axiome. «Logische Syntax» heißt dabei seit L. WITTGENSTEINS ‹Tractatus› und dann auch bei R. CARNAP das System der Formationsregeln und der analytisch-deduktiven Schlußregeln einer solchen f.S., wobei die f.S. freilich bei beiden als Mittel der (re-konstruktiven) Sinnanalyse für die normale S., als Darstellung einer «Tiefenstruktur» gebraucht werden soll <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Dieses Vorgehen in der Sprachphilosophie und dann auch in der Sprachwissenschaft, das die Normalsprache bzw. Ausschnitte von ihr und Argumentationen in ihr über den Weg eines Vergleichs mit einer Formalsprache darstellt und beurteilt, heißt ‹Ideal-›oder auch ‹Formalsprachenansatz›. Die logische Syntax ggf. unter Einschluß einer (formalen) <a class=\"xref\" href=\"#/a/2861\">Semantik</a> <span class=\"sd\">→ (s.d.)</span> gibt dabei allgemeine bzw. besondere, konkrete, Bedingungen an für die Konstruktion einer f.S. als idealer S. und artikuliert, wenn man den Vergleich mit den Normalsprachen normativ liest, gewisse Forderungen für eine bewußte Gestaltung oder Entwicklung der Ausdrucksweisen und Argumentationsformen in den Wissenschafts- oder Fachsprachen und dann auch in den natürlichen oder normalen S.n. <span class=\"col\" data-col=\"1501\"></span> Dabei ist eine f.S. im Unterschied zu einem bloßen Kalkül der Figurenherstellung und der Figurenumformung ein schon interpretierter oder zumindest interpretierbarer Ausdrucksbereich, in dem für gewisse Ausdrücke, nämlich diejenigen Formeln, die zur Klasse der ‘Sätzeʼ gehören, nicht nur ein Begriff der Herleitbarkeit von sog. ‘Theoremenʼ des deduktiven Kalküls, sondern ein (etwa zweiwertiger) Begriff der Wahrheit und der Falschheit definiert oder wenigstens definierbar ist. Daher bestimmt nicht nur die Syntax der Ausdrucksbildungsregeln, sondern die (formale) Semantik der (möglichen) Interpretationen durch Wahrheitsbedingungen oder der (möglichen) ‘Modelleʼ den Begriff der f.S. wesentlich mit.</p>\n<p>Die logische Syntax einer f.S. muß nun deren Ausdrucksformen rein strukturell, über ein allgemeines, in seiner Anwendung schematisch kontrollierbares Verfahren der Formenerzeugung (Aufzählung der wohlgeformten Formeln) und möglichst auch der Formenerkennung (Entscheidungsverfahren der Wohlgeformtheit) beschreiben. Zumindest zunächst gilt: «Nicht jede S. läßt sich rein strukturell beschreiben; die S.n, für die wir eine derartige Beschreibung angeben können, werden, wie bekannt, als f.S.n bezeichnet» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Für jede f.S. gibt es dann (und daher) kodierende Zuordnungen zu natürlichen Zahlen, so daß die Menge der Codes der wohlgeformten Formeln (und auch der Deduktionen in einem vollformalen System) rekursiv, d.h. entscheidbar im Sinne der Rekursionstheorie, ist. Für jedes vollformale System ist daher auch die Menge der Codes der herleitbaren Formeln (der «Theoreme der Theorie») rekursiv aufzählbar. – Eine (formale, semantische) Interpretation einer f.S. der ersten Stufe ordnet allen formalen Sätzen der f.S. Wahrheitsbedingungen, im Fall der klassischen Logik und Mathematik genau einen von zwei Wahrheitswerten zu. – Standardbeispiele von f.S. sind seit FREGE Formelmengen der <a class=\"xref\" href=\"#/a/2426\">Prädikatenlogik</a> <span class=\"sd\">→ (s.d.)</span> erster und höherer Stufe, die definiert sind auf der Grundlage einer endlichen Menge von Grundsymbolen.</p>\n<p>Eine formale Theorie der ersten Stufe oder ein formal-axiomatisches System besteht nun aus der Bestimmung der zugehörigen f.S. und einer Klasse von formalen Sätzen, den Axiomen. Diese beschränken die möglichen Interpretationen oder Modelle dadurch, daß die Axiome als wahre Sätze interpretiert werden sollen. Und sie bestimmen den Begriff des Theorems der formalen Theorie über den Begriff der Ableitbarkeit vermöge der schematischen Deduktionsregeln eines der Kalküle der Prädikatenlogik der ersten Stufe. Theoreme sind wahre Sätze in allen Modellen der Axiome. Das Verfahren ist für formale Theorien höherer Stufe ganz analog, wobei die besondere Schwierigkeit darin besteht, daß das Extensionalitätsprinzip erfüllt werden soll für jedes bildbare höherstufige Prädikat <i>Q.</i> D.h. es soll immer gelten:</p>\n<p>∧ <i>x</i> [<i>p</i>(<i>x</i>) ↔ <i>p'</i>(<i>x</i>)] → [<i>Q</i>(<i>p</i>(<i>x</i>)) ↔ <i>Q</i>(<i>p'</i>(x))]</p>\n<p>Die Darstellung des syntaktischen und semantischen Aufbaus einer f.S. liefert zunächst Einsichten im Bereich der Konstitution mathematischer Wahrheiten, der Gegenstände der Mathematik, ihrer Funktionen und abstraktiver Operatoren höherer Stufe, wie z.B. der Operationen der Bildung von Mengen und Wertverläufe. Gerade für diese Konstitutionsanalyse hat Frege seine formale Begriffsschrift und die f.S. der ‹Grundgesetze der Arithmetik› entworfen <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Er ist allerdings, wie auch noch andere nach ihm, daran gescheitert, daß eine f.S. mit höherstufigen Operatoren (Abstraktoren, Mengenbildnern) und höherstufigen Variablen semantisch weniger leicht durchschaubar ist, als dies zunächst scheint.</p>\n<p>Eine andere Anwendung der Betrachtung einer f.S. ergibt sich gemäß folgender These R. MONTAGUES: «I reject the contention that an important theoretical difference exists between formal and natural languages» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Im Projekt der nach diesem Autor benannten Grammatikschreibung <sup class=\"fn\" data-fn=\"0-8\">8</sup> werden Ausschnitte natürlicher S.n als funktionale S.n höherer Stufe dargestellt, etwa mit Hilfe des Begriffs des verallgemeinerten <a class=\"xref\" href=\"#/a/2554\">Quantors</a> <span class=\"sd\">→ (s.d.)</span>, durch welchen Nominalphrasen <span class=\"col\" data-col=\"1502\"></span> als Operatoren höherer Stufe gedeutet werden, deren Argumente Verbalphrasen sind, oder mit Hilfe des Operators der Variablenbindung bzw. der Wertverlaufsabstraktion, durch welchen sich der Skopus von Quantoren und andere anaphorische Beziehungen graphisch eindeutig darstellen lassen. Eine derartige funktionale Semantik schließt in gewisser Weise an das ältere Programm der generativen Grammatik N. CHOMSKYS <sup class=\"fn\" data-fn=\"0-9\">9</sup> an, das die grammatischen Formen natürlicher S.n als durch eine formale Syntax erzeugt und damit in Analogie zu einer f.S. (von und für Automaten) darstellt. Die zitierte These MONTAGUES propagiert für die Semantik funktionaler Wahrheitsbedingungen diese Analogie zur Interpretation einer f.S. explizit, die CHOMSKY für die Satz-oder Formelbildung implizit unterstellt. Dabei ist das Programm, möglichst große Bereiche der Syntax und Semantik natürlicher S.n strukturell und funktional darzustellen und damit partiell für Automaten beherrschbar zu machen, von der Verheißung zu unterscheiden, die gesamte S. und das gesamte Sprachvermögen der Menschen ließe sich im Prinzip als das schematische Befolgen syntaktisch-semantischer Regeln nach Art der Regeln für eine f.S. begreifen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1502\"></span> G. FREGE: Begriffsschrift (1879), in: Begriffsschr. und andere Aufs., hg. I. ANGELELLI (1964, ND 1988); vgl. A. HEYTING: Die form. Regeln der intuitionist. Logik. Sber. preuß. Akad. Wiss., phys.-math. Kl. (1930) 42.</li>\n<li id=\"fn0-2\" value=\"2\">G. W. LEIBNIZ: Historia et commendatio linguae charact. univ. [1680?]. Die philos. Schr. hg. C. I. GERHARDT 7 (1890) 184; dtsch.: Zur allg. Charakteristik. Hauptschr. zur Grundleg. der Philos., hg. E. CASSIRER 1 (1903) 30.</li>\n<li id=\"fn0-3\" value=\"3\">De scientia univ. [1692], a.O. 200; vgl. auch: W./M. KNEALE: The development of logic (Oxford 1962) 328.</li>\n<li id=\"fn0-4\" value=\"4\">R. CARNAP: Log. Syntax der S. (Wien 1934); vgl. K. LORENZ: Elem. der Sprachkritik (1970); P. LORENZEN: Semant. normierte Orthosprachen, in: F. KAMBARTEL/J. MITTELSTRASS (Hg.): Zum normat. Fundament der Wiss.en (1973).</li>\n<li id=\"fn0-5\" value=\"5\">A. TARSKI: Grundleg. der wiss. Semantik, in: Actes du congr. int. de philos. scient., Paris 1935 (Paris 1936) 3, 1–8, bes. 3; ND, in: K. BERKA/L. KREISER (Hg.): Logik-Texte (1971) 350–356.</li>\n<li id=\"fn0-6\" value=\"6\">G. FREGE: Grundgesetze der Arithmetik. Begriffsschriftl. abgeleitet (1893, ND 1962).</li>\n<li id=\"fn0-7\" value=\"7\">R. MONTAGUE: Engl. as a formal langu., in: Formal philos., hg. R. H. THOMASON (London/New Haven, Conn. 1974) 188.</li>\n<li id=\"fn0-8\" value=\"8\">Zur Montague-Grammatik: M. CRESSWELL: Logics and langu. (London 1973); zum allg. Programm: D. DAVIDSON/G. HARMAN (Hg.): Semantics of nat. langu. (Dordrecht/Boston 1972).</li>\n<li id=\"fn0-9\" value=\"9\">N. CHOMSKY: Syntactic struct. (Den Haag 1957).</li>\n</ol>",
+ "prev":{"id":2986,"lemma":"Sprache, adamische","band":"9","col":1495},
+ "next":{"id":2988,"lemma":"Sprache, künstliche","band":"9","col":1502},
+ "backlinks":[
+  {"id":2861,"lemma":"Semantik, semantisch","n":1},
+  {"id":3044,"lemma":"Stufen","n":1},
+  {"id":3150,"lemma":"Term","n":1},
+  {"id":3273,"lemma":"Umgangssprache","n":1}
+ ],
+ "outlinks":[
+  {"id":2426,"lemma":"Prädikatenlogik, Prädikatenkalkül","n":1},
+  {"id":2554,"lemma":"Quantor, Quantifikator","n":1},
+  {"id":2861,"lemma":"Semantik, semantisch","n":1}
+ ],
+ "register":[
+  {"term":"formal language","qualifier":"","band":null,"col":null},
+  {"term":"formale Sprache","qualifier":"","band":null,"col":null},
+  {"term":"Kalkülsprache","qualifier":"","band":null,"col":null},
+  {"term":"– I (wiss.) 2 964–967 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":40,"name":"G. Frege","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":383,"name":"N. Chomsky","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1198,"name":"R. Montague","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":36,"name":"R. Carnap","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":32,"name":"L. Wittgenstein","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":67,"name":"E. Cassirer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":81,"name":"P. Lorenzen","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":182,"name":"K. Lorenz","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":273,"name":"F. Kambartel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":255,"name":"J. Mittelstrass","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":331,"name":"A. Tarski","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":375,"name":"D. Davidson","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1037,"name":"A. Heyting","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1125,"name":"M. J. Cresswell","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2503,"name":"G. Harman","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3841,"name":"K. Berka","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4654,"name":"L. Kreiser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4228,"name":"R. H. Thomason","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":501,"name":"M. Kneale","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1001,"name":"I. Angelelli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3113,"lemma":"Syntax","tf":6},
+  {"id":2749,"lemma":"Sätze, subjektlose","tf":8},
+  {"id":340,"lemma":"Axiom","tf":5},
+  {"id":3178,"lemma":"Theorem","tf":4},
+  {"id":1521,"lemma":"Kalkül","tf":3},
+  {"id":372,"lemma":"Begriffsschrift","tf":2},
+  {"id":322,"lemma":"Automat","tf":2},
+  {"id":1478,"lemma":"Interpretation","tf":4},
+  {"id":2640,"lemma":"Regel","tf":4},
+  {"id":1999,"lemma":"Modell","tf":3},
+  {"id":1177,"lemma":"Grammatik","tf":2},
+  {"id":3405,"lemma":"Vergleich","tf":2},
+  {"id":1896,"lemma":"Mathematik","tf":2},
+  {"id":1572,"lemma":"Klasse, soziale","tf":2},
+  {"id":123,"lemma":"Analogie","tf":2},
+  {"id":3396,"lemma":"Verfahren","tf":2},
+  {"id":435,"lemma":"Bildung","tf":2}
+ ],
+ "see_also":[{"id":929,"lemma":"Formalisierung"}],
+ "groups":[
+  {"id":22,"name":"Logik","label":"Sprache, formale"},
+  {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Sprache, formale"}
+ ],
+ "reg_authors":[{"name":"Stekeler-Weithofer Pirmin","n":19}]
+}
+);

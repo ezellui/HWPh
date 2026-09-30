@@ -1,0 +1,27 @@
+HWPH.put("a/1764",
+{
+ "id":1764,
+ "lemma":"Lehnsatz",
+ "band":"5",
+ "kind":"article",
+ "col_from":167,
+ "col_to":167,
+ "pdf_from":16504,
+ "pdf_to":16504,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":300,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Lehnsatz heißt ein Satz, der einer Disziplin, in der er schon bewiesen ist, entlehnt wird. Das Wort ‹L.› ist durch CHR. WOLFF <sup class=\"fn\" data-fn=\"0-1\">1</sup> als Übersetzung des partiell in gleicher Bedeutung gebrauchten Terminus <a class=\"xref\" href=\"#/a/1780\">‹Lemma›</a> <span class=\"sd\">→ (s.d.)</span> in die Philosophie- und Wissenschaftssprache eingegangen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">CHR. WOLFF: Math. Lex. (1716).</li>\n</ol>",
+ "prev":{"id":1763,"lemma":"Legismus","band":"5","col":166},
+ "next":{"id":1765,"lemma":"Lehnstuhlphilosophie","band":"5","col":167},
+ "backlinks":[{"id":1780,"lemma":"Lemma","n":1}],
+ "outlinks":[{"id":1780,"lemma":"Lemma","n":1}],
+ "register":[],
+ "persons":[{"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":1780,"lemma":"Lemma"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Lehnsatz"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

@@ -1,0 +1,36 @@
+HWPH.put("a/3685",
+{
+ "id":3685,
+ "lemma":"Zentralmonade",
+ "band":"12",
+ "kind":"article",
+ "col_from":1293,
+ "col_to":1293,
+ "pdf_from":52458,
+ "pdf_to":52459,
+ "authors":["H. Schepers"],
+ "n_notes":6,
+ "n_chars":1608,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Zentralmonade. Der Gebrauch des Terminus ‹Z.› («Monade centrale») geht auf G. W. LEIBNIZ zurück, kann sich aber lediglich auf eine Stelle stützen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. ‹Z.› meint das, was Leibniz, vornehmlich im Briefwechsel mit B. des Bosses <sup class=\"fn\" data-fn=\"0-2\">2</sup>, zur Lösung des Körperproblems als die dominante Monade, Seele oder Entelechie in lebenden Organismen einführt, als die <a class=\"xref\" href=\"#/a/2010\">Monade</a> <span class=\"sd\">→ (s.d.)</span>, die einen zeitlichen Zusammenschluß von niederen Monaden als ihren organischen Körper, ihre «substantia composita», dominant repräsentiert. Diese Dominanz, nicht die unzerstörbare Monade selbst, hat die beschränkte Dauer des Organismus <sup class=\"fn\" data-fn=\"0-3\">3</sup>. In ihm wiederum gibt es eine Hierarchie der Dominanz gemäß der Unendlichkeit an Graden von Vollkommenheit der untergeordneten Monaden <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die dominierende Monade garantiert die Identität der sich in ständigem Fluß befindenden Organismen. Erneuert wurde dieser Gedanke von CH. RENOUVIER <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die später vorgenommene Identifizierung der Z. mit Gott <sup class=\"fn\" data-fn=\"0-6\">6</sup> entspricht nicht der Auffassung von Leibniz. Wäre Gott die Z., dann wäre er als die <a class=\"xref\" href=\"#/a/3578\">Weltseele</a> <span class=\"sd\">→ (s.d.)</span> anzusehen, was Leibniz entschieden ablehnt.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">G. W. LEIBNIZ: Principes de la nature et de la grâce fondés en raison § 3 [1714]. Philos. Schr., hg. C. I. GERHARDT 6 (1885, ND 1965) 599.</li>\n<li id=\"fn0-2\" value=\"2\">Br. an B. des Bosses (1712, 1716), a.O. 2 (1879, ND 1965) 439. 451. 457. 481f. 486. 519.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 486.</li>\n<li id=\"fn0-4\" value=\"4\">Principes § 4, a.O. [1] 599.</li>\n<li id=\"fn0-5\" value=\"5\">CH. RENOUVIER/L. PRAT: La nouv. monadologie § 30 (Paris 1899) 52.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. z.B. B. BAUCH: Geschichte der Philos. 4 (1908, <sup>3</sup>1919) 121; K. LORENZ: Leibnizens Monadenlehre, in: C. F. VON WEIZSÄCKER/E. RUDOLPH (Hg.): Zeit und Logik bei Leibniz (1989) 11–31, 22.</li>\n</ol>",
+ "prev":{"id":3684,"lemma":"Zentralerkenntnis","band":"12","col":1291},
+ "next":{"id":3686,"lemma":"Zentrifugalkraft/Zentripetalkraft","band":"12","col":1293},
+ "backlinks":[],
+ "outlinks":[{"id":2010,"lemma":"Monade, Monas","n":1},{"id":3578,"lemma":"Weltseele","n":1}],
+ "register":[{"term":"monade centrale","qualifier":"(Leibniz)","band":null,"col":null}],
+ "persons":[
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":918,"name":"Ch. Renouvier","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":182,"name":"K. Lorenz","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":439,"name":"B. Bauch","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":747,"name":"C. F. von Weizsäcker","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1823,"name":"E. Rudolph","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":17058,"name":"L. Prat","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":2010,"lemma":"Monade, Monas"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Zentralmonade (Leibniz)"}],
+ "reg_authors":[{"name":"Schepers Heinrich","n":22}]
+}
+);

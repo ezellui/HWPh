@@ -1,0 +1,35 @@
+HWPH.put("a/1876",
+{
+ "id":1876,
+ "lemma":"Masora",
+ "band":"5",
+ "kind":"article",
+ "col_from":806,
+ "col_to":807,
+ "pdf_from":18447,
+ "pdf_to":18448,
+ "authors":["G. Nádor"],
+ "n_notes":2,
+ "n_chars":1754,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Masora (von hebr. masar übergeben, überliefern) ist das System der kritischen Bemerkungen zur Textgestaltung des Alten Testaments und enthält z.B. <span class=\"col\" data-col=\"807\"></span> das Verzeichnen der Unregelmäßigkeiten, die Einteilung des Textes in Abschnitte und seine Punktation (Vokalisation) und Akzentuierung zur Vermeidung von Mehrdeutigkeiten. Die Kommentare wurden entweder am Rande (M. marginalis) oder, in alphabetischer Zusammenfassung, am Schluß des Textes (M. finalis) angebracht. Die M. marginalis unterteilt sich weiterhin in M. magna (Bemerkungen ober- und unterhalb des Textes) und M. parva (Bemerkungen an der Seite). Die Tätigkeit der Masoreten umfaßt den Zeitraum vom 2. Jh. v.Chr. bis zum 15. Jh. n.Chr. Ihr Bestreben war, den Text des Alten Testaments zu fixieren bzw. zu sichern, daß der Text einheitlich gelesen werden konnte.</p>\n<p>Obwohl die Tätigkeit der Masoreten den Erfordernissen einer modernen Wissenschaft nicht entspricht – schon SPINOZA hat ihre Methode scharf kritisiert <sup class=\"fn\" data-fn=\"0-1\">1</sup> – kann der historische Wert ihrer Bemühungen nicht geleugnet werden.</p>\n<p>HAMANN hat den Begriff ‹M.› als Bezeichnung für das gesamte, die Welt – als das Buch der Natur – verstellende und sie überlagernde interpretatorische Bemühen benutzt: «Seht! die große und kleine Masore der Weltweisheit hat den Text der Natur, gleich einer Sündfluth, überschwemmt. Musten nicht alle ihre Schönheiten und Reichthümer zu Wasser werden?» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">L. BLAU: Masoret. Untersuch. (1891). – P. KAHLE: Masoreten des Ostens (1908); Masoreten des Westens (1927). – A. DOTAN: Art. ‹M.›, in: Encyclopaedia Judaica 16 (Jerusalem 1971) 1401–1482 (Bibliogr.).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">B. de SPINOZA, Tractatus theologico-politicus XII. Opera, hg. C. GEBHARDT 3 (1925) 165.</li>\n<li id=\"fn0-2\" value=\"2\">J. G. HAMANN, Aesthetica in nuce. Sämtl. Werke, hg. J. NADLER 2 (1950) 207.</li>\n</ol>",
+ "prev":{"id":1875,"lemma":"Masochismus","band":"5","col":804},
+ "next":{"id":1877,"lemma":"Maß","band":"5","col":807},
+ "backlinks":[{"id":3260,"lemma":"Überlieferung","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Buch der Natur","qualifier":"","band":"5","col":"807"}],
+ "persons":[
+  {"id":50,"name":"B. Spinoza","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":114,"name":"J. G. Hamann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4540,"name":"L. M. Kahle","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":9482,"name":"L. Blau","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":23533,"name":"A. Dotan","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":271,"name":"C. Gebhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":417,"name":"J. Nadler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":18,"name":"Judentum","label":"Masora"}],
+ "reg_authors":[{"name":"N Nádor Georg","n":6}]
+}
+);

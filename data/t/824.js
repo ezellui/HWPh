@@ -1,0 +1,25 @@
+HWPH.put("t/824",
+{
+ "b":"Es (das). Der Ausdruck ‹Es› geht zurück auf den Arzt und Schriftsteller G. GRODDECK, der dem Kreis um S. Freud angehörte. In seinem ‹Buch vom Es› bezeichnet er mit ‹Es› «das Unbekannte im Menschen», von dem der Mensch aus «gelebt wird». Nur ein kleiner Teil des Es ist bewußt, der größere Teil gehört dem Unbewußten im Menschen an . FREUD übernahm den Terminus in seinen psychoanalytischen Schriften ab 1923 und verwendete ihn synonym mit seinem Ausdruck ‹Unbewußtes›. Dieser Gleichsetzung begegnet man auch in allen später erscheinenden psychoanalytischen Abhandlungen. In der psychologischen Schichtenlehre trifft man auf weitere Synonyme: z.B. ‹Tiefenperson› , ‹Thymopsyche› , ‹endothymer Grund› . \nDas Es bildet den dunkelsten und unzugänglichsten Bereich der Psyche. Von den Trieben her, dem Lebens- und dem Todestrieb empfängt es seine Energien. Organismische Bedürfnisse diffundieren in das Es und induzieren Triebspannung. Im Es hat man sich aber auch abgesunkene Erfahrung der Menschheitsgeschichte zu denken und solche Eindrücke, die ins Unbewußte verdrängt worden sind. In ihm findet also phylogenetische und ontogenetische Erfahrung ihren teilweisen Niederschlag. \nFREUD beschreibt das Es als ein Chaos vielfältiger Erregung, unorganisiert, mit der einzigen Tendenz, die Triebansprüche gemäß dem Lustprinzip vorübergehend zu erledigen. Die dynamische Erregung des Es ist virtuell unsterblich. Es besitzt «primitiven und irrationalen Charakter» . Da logische Gesetze im Es nicht gelten, also auch nicht der Satz des Widerspruchs, kommt es nicht zu Konflikten zwischen widerstrebenden Tendenzen . Das Es bedarf zur Realisierung seiner Regungen der Außenwelt. Jener Teil des Es, der sich organisiert und der Realität zukehrt, ist das Ich. Es bildet zum Teil die «Oberfläche» des Es, «etwa so, wie die Keimscheibe dem Ei aufsitzt. Das Ich ist vom Es nicht scharf getrennt, es fließt nach unten hin mit ihm zusammen» . \nIn den Schriften der Neofreudianer wird der Begriff ‹Es› ohne neue Bedeutungsaspekte übernommen. H. Hartmann und andere Psychoanalytiker geben jedoch eine neue Interpretation der Rolle des Es in der Organisation der Gesamtpersönlichkeit: Während in Freuds Überlegungen das Es stets eine genetische Priorität gegenüber den anderen psychischen Instanzen Ich und Über-Ich innehat, betonen HARTMANN, KRIS und LOEWENSTEIN, daß sowohl das Es als auch das Ich sich aus einem undifferenzierten Ganzen zusammen ausbilden; dieses Ganze wird jedoch von ihnen nicht näher beschrieben . \nDer Begriff ‹Es› findet später Verwendung in der Schichtentheorie ROTHACKERS, der in seinem Stockwerk-Modell der Persönlichkeit die niedrigste Schicht mit ‹Es› oder ‹Tiefenperson› bezeichnet. Weitere alternative Ausdrücke sind ‹Emotionalschicht› und ‹Unbewußtes›. Im Unterschied zur psychoanalytischen Auffassung sieht er die Es-Instanz ihrerseits vielschichtig aufgegliedert und als fast selbständige Einheit innerhalb der Person. Jedoch ähnlich wie bei Groddeck und Freud gilt ihm das Es als verflochten mit dem Leben der biologischen Gattung und den urtümlichen Gemeinschaftsformen. Er schreibt dem Es aber eine Vorstufe des Selbstbewußtseins zu in Form von Funktions- und Zustandsgefühlen; außerdem glaubt er, das Es als den Ursprungsort gewisser kognitiver Prozesse (z.B. gedanklicher Einfälle) ansehen zu können . In dem Bestreben, für psychoanalytische Konzepte empirische Stützen zu finden, versuchte R. B. CATTELL im Rahmen einer neueren umfassenden Untersuchung, die das Material für eine Faktorenanalyse lieferte, eine Neudefinition des Es-Konzeptes. Er bezeichnet einen der durch die Analyse gewonnenen Faktor als ‹Es-Faktor› und charakterisiert ihn als «unorganisierte Strebungen (interests), unbefriedigtes Begehren, Ursprungsort der Bedürfnisstärke» . Der Begriff ‹Es› verliert im Lichte dieser Ergebnisse seine strukturelle Bedeutung im Rahmen einer Persönlichkeitstheorie und wird zu einem dynamischen Konstrukt, indem er eine von mehreren Motivationskomponenten bezeichnet.",
+ "n":"G. GRODDECK: Das Buch vom Es (1923). \nE. ROTHACKER: Die Schichten der Persönlichkeit (61965). \nK. KLEIST: Die gegenwärtigen Strömungen in der Psychiat. Allg. Z. Psychiat. 8 (1925) 1–42. \nPH. LERSCH: Aufbau der Person (81962). \nE. WEISS: The structure and dynamics of the human mind (1960) 43. \nS. FREUD: Neue Folge der Vorles. zur Einf. in die Psychoanalyse. Werke 15 (31961) 80f. \nDas Ich und das Es a.a.O. 13, 251. \nH. HARTMANN, E. KRIS und R. M. LOEWENSTEIN: Comments on the formation of psychic structure. Psychoanal. Stud. Child 2 (1946) 11–38. \na.a.O. 14. 15. 19. \nROTHACKER, a.a.O. [2]. \nR. B. CATTELL: The dynamic calculus. Nebraska Symposium on Motivation 7 (1959) 84–134.",
+ "l":"S. FREUD s. Anm. [6]. – N. CAMERON : Personality development and psychopathology. A dynamic approach (Boston 1963).",
+ "au":"H. Schiefele",
+ "A":["H. Schiefele"],
+ "cb":[[0,739],[702,739],[1177,739],[1228,740],[1927,740],[2502,740]],
+ "cn":[
+  [0,739],
+  [0,740],
+  [38,740],
+  [95,740],
+  [187,740],
+  [227,740],
+  [294,740],
+  [382,740],
+  [418,740],
+  [551,740],
+  [571,740],
+  [595,740]
+ ],
+ "cl":[[0,740]]
+}
+);

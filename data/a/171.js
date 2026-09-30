@@ -1,0 +1,57 @@
+HWPH.put("a/171",
+{
+ "id":171,
+ "lemma":"Antagonismus",
+ "band":"1",
+ "kind":"article",
+ "col_from":358,
+ "col_to":359,
+ "pdf_from":1388,
+ "pdf_to":1391,
+ "authors":["W. Goerdt"],
+ "n_notes":12,
+ "n_chars":4700,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Antagonismus. Die antike Philosophie kennt den Terminus nicht <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Gebräuchlich ist bis in die Schulgelehrsamkeit der Neuzeit hinein «Antagonista = adversarius, ein gegner, widerpart» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. A. wird 1827 durch W. T. KRUG definiert als «Widerstreit der Kräfte, der sowohl in der geistigen als in der Körperwelt stattfinden kann», sich zeigend in actio und reactio, actio und passio (lex antagonismi). «Alles Leben beruht zuletzt auf solchem A. ... Es beruht aber auf diesem A. auch das ganze Weltsystem» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Seit KANT ist der Begriff sozialphilosophisch bedeutsam. Er bezeichnet 1784 als «Antagonism die <i>ungesellige Geselligkeit</i> der Menschen», seine «Neigung sich zu <i>vergesellschaften</i>» und seinen «Hang sich zu <i>vereinzeln</i>», durch den die Natur alle ihre Anlagen zu entwickeln und die Gesellschaft schließlich «ein <i>moralisches</i> Ganze» zu werden vermag <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Für SCHILLER verlangt (1795) die Entwicklung der Anlagen der Menschen «sie einander entgegenzusetzen. Dieser Antagonism der Kräfte ist das große Instrument der Kultur». Er darf jedoch nicht das «Opfer ihrer Totalität» fordern, die durch «höhere Kunst» <sup class=\"fn\" data-fn=\"0-5\">5</sup> wiedergewonnen werden muß. Während SCHOPENHAUER 1818 das Verhältnis von Wille und anschauender Erkenntnis der Außenwelt als «A.» begreift <sup class=\"fn\" data-fn=\"0-6\">6</sup>, kennzeichnet spezifisch gesellschaftliche Zuordnung wiederum den Begriff bei SAINT-SIMON und in seiner Schule um 1829. Die Gesellschaft durchlaufe ein provisorisch-vergangenes und definitiv-zukünftiges Zeitalter, «das Stadium des <i>A.</i> und das der <i>Vergesellschaftung</i>» <sup class=\"fn\" data-fn=\"0-7\">7</sup>, der erbarmungslosen Rivalität von Gruppen und der Teilung der Arbeit zu einem gleichen Ziel hin. 1859 sind bei K. MARX «die bürgerlichen Produktionsverhältnisse ... die letzte antagonistische Form des Produktionsprozesses, antagonistisch nicht im Sinne des individuellen A., sondern ein aus den gesellschaftlichen Lebensbedingungen der Individuen hervorwachsender A.» Die Entwicklung der Produktivkräfte, die Teilung der Gesellschaft in Bourgeoisie und Proletariat, schafft «zugleich die materiellen Bedingungen zur Lösung dieses A.» in revolutionärer Aktion, womit die «Vorgeschichte der menschlichen Gesellschaft» abschließt <sup class=\"fn\" data-fn=\"0-8\">8</sup> und der Übergang in das «Reich der Freiheit» des «totalen Menschen» beginnt. <i>Marxistisch-leninistisch</i> ist A. «ein Widerspruch, der auf dem unversöhnlichen Gegensatz zwischen den Interessen verschiedener gesellschaftlicher Klassen oder sozialer Gruppen beruht» (Bourgeois/Proletarier, imperialistische Mächte usw.), während «nicht-antagonistische Widersprüche» Gegensätze von Gruppen bzw. Klassen sind, die «auch grundlegende gemeinsame Interessen haben» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Nach STALIN werden die nicht-antagonistischen Widersprüche in der sozialistischen <span class=\"col\" data-col=\"359\"></span> Gesellschaft (z.B. Produktion/Konsumtion, Stadt/Land, Bauern/Arbeiter/Intelligenz) durch die «Triebkräfte» der sozialistischen Gesellschaft (Sowjetpatriotismus, moralisch-politische Einheit, Kritik und Selbstkritik) gewaltlos gelöst <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Seit 1937 hat MAO TSE-TUNG ein ähnliches Konzept. Je nach Lage kann ein antagonistischer Widerspruch, ein «offener A.», nicht-antagonistisch werden und umgekehrt. 1957 kennt er zwei Arten gesellschaftlicher Widersprüche: «zwischen uns und unseren Feinden» und «innerhalb des Volkes». Letztere können durch «demokratische Methode» nach der Formel «Einheit-Kritik-Einheit» <sup class=\"fn\" data-fn=\"0-11\">11</sup> beseitigt werden. Die Auflösung jeglicher gesellschaftlicher A. dient der Erziehung des «neuen Menschen», hilft der «allseitigen und harmonischen Entwicklung der menschlichen Persönlichkeit» <sup class=\"fn\" data-fn=\"0-12\">12</sup> voran.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"359\"></span> Zu griech. ANTAGONÍZOMAI s. LIDELL/SCOTT: Greek-English Lex. (Oxford 1953) 1, 148.</li>\n<li id=\"fn0-2\" value=\"2\">BASILII FABRI SORANI Thesaurus eruditionis scholasticae ... rec, emend., locuplet. a J. M. GESNERO (1726) 80.</li>\n<li id=\"fn0-3\" value=\"3\">W. T. KRUG: Allgemeines Handwb. der philos. Wiss. 1 (1827) 142f.</li>\n<li id=\"fn0-4\" value=\"4\">I. KANT: Idee zu einer allg. Gesch. in weltbürgerlicher Absicht (1784) 4. Satz.</li>\n<li id=\"fn0-5\" value=\"5\">F. SCHILLER: Über die ästhetische Erziehung des Menschen (1795) 6. Brief.</li>\n<li id=\"fn0-6\" value=\"6\">A. SCHOPENHAUER: Die Welt als Wille und Vorstellung (1818) 2, 30. Kap.</li>\n<li id=\"fn0-7\" value=\"7\">C. BOUGLÉ und E. HALÉVY (Hg.): La doctrine de Saint-Simon (Exposition 1re année) (Paris 1924); G. SALOMON-DELATOUR (Hg.): Die Lehre Saint-Simons (1962) 83.</li>\n<li id=\"fn0-8\" value=\"8\">K. MARX: Zur Kritik der politischen Ökonomie (1859) Vorwort.</li>\n<li id=\"fn0-9\" value=\"9\">G. KLAUS und M. BUHR (Hg.): Philos. Wb. (1965) 61.</li>\n<li id=\"fn0-10\" value=\"10\">J. V. STALIN: Rechenschaftsbericht an den XVIII. Parteitag ... (1939) in: J. V. STALIN: Fragen des Leninismus (Moskau 1947) 708; J. STALIN, Der Marxismus und die Fragen der Sprachwissenschaft (Moskau 1950; dtsch. 1953) 35.</li>\n<li id=\"fn0-11\" value=\"11\">MAO TSE-TUNG, Ausgewählte Schriften, hg. T. GRIMM (1963) 48–73, bes. 71; 78–102, bes. 85ff.</li>\n<li id=\"fn0-12\" value=\"12\">Programm der kommunistischen Partei der Sowjetunion (1961) II. Teil, V. e, in: C. W. GASTEYGER (Hg.): Perspektiven der sowjetischen Politik ... (1962) 247.</li>\n</ol>",
+ "prev":{"id":170,"lemma":"Anständigkeit","band":"1","col":357},
+ "next":{"id":172,"lemma":"Anteprädikamente","band":"1","col":359},
+ "backlinks":[{"id":3549,"lemma":"Wechsel","n":1},{"id":3607,"lemma":"Widerspruch","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Widerspruch, gesellschaftlicher","qualifier":"","band":"1","col":"359"},
+  {"term":"Widerstreit der Kräfte","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":783,"name":"J. W. Stalin","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":42,"name":"F. Schiller","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1689,"name":"Mao Tse-Tung","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":475,"name":"G. Klaus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":401,"name":"J. Grimm","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":577,"name":"C.-H. de Saint-Simon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1982,"name":"Scott","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2741,"name":"C. Bouglé","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8498,"name":"E. Halévy","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10526,"name":"H. G. Lidell","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8499,"name":"C. W. Gasteyger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19200,"name":"Basilii Fabri Sorani","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19201,"name":"J. M. Gesnero","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":710,"name":"M. Buhr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4839,"name":"G. Salomon-Delatour","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1099,"lemma":"Gesellschaft","tf":6},
+  {"id":2470,"lemma":"Produktionsverhältnisse/Produktivkräfte","tf":2},
+  {"id":2476,"lemma":"Proletariat, Proletarier","tf":2},
+  {"id":1199,"lemma":"Gruppe, soziale","tf":3},
+  {"id":151,"lemma":"Anlage","tf":2},
+  {"id":1572,"lemma":"Klasse, soziale","tf":2}
+ ],
+ "see_also":[{"id":3403,"lemma":"Vergesellschaftung"},{"id":3607,"lemma":"Widerspruch"}],
+ "groups":[{"id":33,"name":"Politische Theorie","label":"Antagonismus"}],
+ "reg_authors":[{"name":"Goerdt Wilhelm","n":33}]
+}
+);

@@ -1,0 +1,35 @@
+HWPH.put("a/1759",
+{
+ "id":1759,
+ "lemma":"Leerformel",
+ "band":"5",
+ "kind":"article",
+ "col_from":159,
+ "col_to":160,
+ "pdf_from":16480,
+ "pdf_to":16482,
+ "authors":["O. Marquard"],
+ "n_notes":11,
+ "n_chars":2416,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Leerformel wurde zum Erfolgsbegriff durch E. TOPITSCH <sup class=\"fn\" data-fn=\"0-1\">1</sup>, der selber auf Vorläuferformulierungen hinweist <sup class=\"fn\" data-fn=\"0-2\">2</sup>: etwa «sham-axiom», «obscure notion» und «tautology» bei H. SIDGWICK <sup class=\"fn\" data-fn=\"0-3\">3</sup> und «empty formula» bei H. KELSEN <sup class=\"fn\" data-fn=\"0-4\">4</sup>; er hätte auch KANT anführen können mit dem Satz: «Gedanken ohne Inhalt sind leer» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. TOPITSCH verbindet – Argumente der Formalismuskritik an Kant aufnehmend – die Sprachkritik des Wiener Kreises mit PARETOS Funktionsanalyse der «Derivationen» <sup class=\"fn\" data-fn=\"0-6\">6</sup> und macht durch den Begriff ‹L.› geltend, «daß bestimmte sprachliche Formeln durch die Jahrhunderte als belangvolle Einsichten oder sogar als fundamentale Prinzipien des Seins, Erkennens und Wertens anerkannt wurden und es noch heute werden – nicht obwohl, sondern gerade weil und insofern sie keinen näher angebbaren Sach- oder Normgehalt besitzen» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Es handelt sich dabei, meint TOPITSCH, in der Regel – trotz der Zerstörung von Mythos und Metaphysik durch den Aufstieg der empirischen Wissenschaften – um überständige Restformeln «biomorpher» und «intentionaler» Weltdeutung. Sachgehaltsmangel bei «pseudo-empirischen L.n» und Normgehaltsmangel bei «pseudo-normativen L.n» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, die «vom wissenschaftstheoretischen Standpunkt ihre entscheidende Schwäche ausmachen, sind die Grundlagen <span class=\"col\" data-col=\"160\"></span> ihres außerordentlichen Erfolges» <sup class=\"fn\" data-fn=\"0-9\">9</sup>, weil sie «gerade infolge ihrer Inhaltslosigkeit psychologisch-politisch eine schlechthin universelle Verwendbarkeit besitzen» <sup class=\"fn\" data-fn=\"0-10\">10</sup>: Beliebige Sozialpositionen können sie selbstapologetisch als Legitimation und für die Polemik gegen beliebige Positionen einsetzen. Der Begriff ‹L.› <sup class=\"fn\" data-fn=\"0-11\">11</sup> ist inzwischen über das positivistische Lager hinaus erfolgreich geworden und auch in die politische Umgangssprache eingewandert, wo er – zur Verteidigung beliebiger Positionen – als Angriffswort gegen die Begriffswelt beliebiger Positionen dient: der Begriff ‹L.› wird selber zur L.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"160\"></span> E. TOPITSCH: Vom Ursprung und Ende der Met. (1958) 162. 205. 240. 271ff. 284ff.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 240. 271.</li>\n<li id=\"fn0-3\" value=\"3\">H. SIDGWICK: The methods of ethics (1874, <sup>7</sup>1922) 374f.</li>\n<li id=\"fn0-4\" value=\"4\">H. KELSEN: General theory of law and state (1945) 9f.</li>\n<li id=\"fn0-5\" value=\"5\">I. KANT, KrV B 75.</li>\n<li id=\"fn0-6\" value=\"6\">V. PARETO: Trattato di sociol. generale (1916, <sup>2</sup>1923) §§ 401ff.</li>\n<li id=\"fn0-7\" value=\"7\">E. TOPITSCH: Über L.n, in: E. TOPITSCH (Hg.): Probleme der Wiss.theorie (1960) 233f.</li>\n<li id=\"fn0-8\" value=\"8\">a.O. [1] 284.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 241.</li>\n<li id=\"fn0-10\" value=\"10\">293.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. G. DEGENKOLBE: Über log. Struktur und gesellschaftl. Funktion von L.n. Kölner Z. Soziol. u. Sozialpsychol. 17 (1965) 327–338; M. SCHMID: L.n und Ideologiekritik (1972).</li>\n</ol>",
+ "prev":{"id":1758,"lemma":"Leere","band":"5","col":157},
+ "next":{"id":1760,"lemma":"Leerintention","band":"5","col":160},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":600,"name":"E. Topitsch","b":3,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":269,"name":"H. Kelsen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":589,"name":"H. Sidgwick","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":874,"name":"V. Pareto","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":428,"name":"Schmid Noerr","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":22962,"name":"G. Degenkolbe","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Leerformel"}],
+ "reg_authors":[{"name":"Marquard Odo","n":22}]
+}
+);

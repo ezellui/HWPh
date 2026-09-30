@@ -1,0 +1,27 @@
+HWPH.put("a/1150",
+{
+ "id":1150,
+ "lemma":"Gleichursprünglich",
+ "band":"3",
+ "kind":"article",
+ "col_from":674,
+ "col_to":674,
+ "pdf_from":9449,
+ "pdf_to":9449,
+ "authors":["P. Probst"],
+ "n_notes":2,
+ "n_chars":688,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Gleichursprünglich. Der Begriff dient M. HEIDEGGER <sup class=\"fn\" data-fn=\"0-1\">1</sup> zur Verknüpfung von Phänomenen, die nur miteinander und durcheinander gedeutet, aber nicht auseinander und auch nicht aus einem dritten abgeleitet werden können. «Die Unableitbarkeit eines Ursprünglichen schließt aber eine Mannigfaltigkeit der dafür konstitutiven Seinscharaktere nicht aus. Zeigen sich solche, dann sind sie existenzial gleichursprünglich. Das Phänomen der <i>Gleichursprünglichkeit</i> der konstitutiven Momente ist in der Ontologie oft mißachtet worden zufolge einer methodisch ungezügelten Tendenz zur Herkunftsnachweisung von allem und jedem aus einem einfachen ‹Urgrund›» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">M. HEIDEGGER: Sein und Zeit (<sup>9</sup>1960).</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 131.</li>\n</ol>",
+ "prev":{"id":1149,"lemma":"Gleichung, persönliche","band":"3","col":673},
+ "next":{"id":1151,"lemma":"Gleichzeitigkeit","band":"3","col":674},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":2340,"lemma":"Phänomen","tf":2}],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Gleichursprünglich (Heidegger)"}],
+ "reg_authors":[{"name":"Probst Peter","n":51}]
+}
+);

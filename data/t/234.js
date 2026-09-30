@@ -1,0 +1,12 @@
+HWPH.put("t/234",
+{
+ "b":"Arbeitswelt. Der Begriff ‹A.› hat sich – meist in Verbindung mit dem Adjektiv ‹industriell› – nach dem Zweiten Weltkrieg vor eine Anzahl von Synonymen (Arbeitsleben, Betriebsleben u.a.) geschoben, mit denen zusammen er nach dem Ersten Weltkrieg bei einer Gruppe von «Betriebspolitikern und Soziologen wie Eugen Rosenstock, Götz Briefs, Hyacinthe Dubreuel, Willi Hellpach, Heinz Marr, L. H. A. Geck, Theodor Brauer, Wladimir Eliasberg, Franz Schürholz u.a.» in Gebrauch kam und seine spezifische Färbung erhielt. \nWesentlich dafür ist die unter dem Eindruck der «Taylorisierung» der Industriearbeit in den zwanziger Jahren erneuerte Erkenntnis, daß sich in der Vereinigung von industrieller Technik, kapitalistischer Wirtschaftsgesinnung und liberaler Wirtschaftsordnung, wie sie das 19. Jh. mit sich brachte, eine Auflösung jener herkömmlichen Integriertheit der Produktion in die gesellschaftliche Lebenstotalität vollzog, welche im Sozialsystem des mittelalterlichen Handwerks ihren eindeutigen Ausdruck gefunden hatte. Lebens-und Arbeitsraum begannen, so reflektierte man, mit der Entstehung des industriellen Großbetriebs schon rein geographisch auseinanderzuklaffen, jedoch die Desintegrierung der Bereiche reichte weiter: Der industrielle Betrieb entwickelte, so glaubte man zu sehen, unter der ausschließlichen Dominanz der technischen Apparatur und des ökonomisch-rationalen Kalküls «Gestalten der Kooperation», die «nirgendwoher übernommen und nirgendwo sonst anwendbar sind» und die somit diesen Betrieb «als fremde, singuläre Seins- und Handelnsform» in die Gesellschaft hineinragen lassen . \nZusammen mit der verschiedentlich auf Marx zurückgreifenden Konstatierung der innerbetrieblichen «Normung», «Standardisierung», «Versachlichung», «Entpersönlichung», «Mechanisierung», «Anonymisierung», «Verdinglichung» und «Fremdbestimmung» beinhaltet der Begriff ‹A.› aber auch den Hinweis auf jene Gegentendenzen einer «sozialen Betriebspolitik», die, nach E. MICHEL, in einer Reihe von «Konzeptionen zur sozial-volkhaften Gestaltung der industriellen Arbeit» ihren ersten Höhepunkt fanden, wie sie «vor allem in Deutschland und Frankreich in den Jahren 1929–1933 entwickelt wurden» .",
+ "n":"E. MICHEL: Sozialgesch. der industriellen A. (31953) 12. \nG. BRIEFS: Art. ‹Betriebssoziol.›, in: Handwb. der Soziol. (21959) 37. \nMICHEL, a.a.O. 12f.",
+ "l":"",
+ "au":"H. Klages",
+ "A":["H. Klages"],
+ "cb":[[0,490],[41,491],[513,491],[1604,491]],
+ "cn":[[0,490],[58,490],[130,490]],
+ "cl":[]
+}
+);

@@ -1,0 +1,47 @@
+HWPH.put("a/3146",
+{
+ "id":3146,
+ "lemma":"Teleonomie",
+ "band":"10",
+ "kind":"article",
+ "col_from":978,
+ "col_to":979,
+ "pdf_from":42528,
+ "pdf_to":42533,
+ "authors":["H. Schlüter"],
+ "n_notes":18,
+ "n_chars":5956,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Teleonomie (engl. teleonomy). ‹T.› ist ein Neologismus, der einer die Geschichte teleologischen Reflektierens nicht zur Kenntnis nehmenden Denkart entspringt – oder, positiv im Sinne des Wortschöpfers C. S. PITTENDRIGH ausgedrückt, Teil des Programms, eine metaphysikfreie Naturwissenschaft durch neue Definitionen zu vollenden: «The biologist's longstanding confusion would be more fully removed if all end-directed systems were described by some other term, like ‘teleonomicʼ, in order to emphasize that the recognition and description of end-directedness does not carry a commitment to Aristotelian teleology as an efficient causal principle» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Für die Diskussion um den Begriff der T. muß sein Verhältnis zur <a class=\"xref\" href=\"#/a/3145\">Teleologie</a> <span class=\"sd\">→ (s.d.)</span> betrachtet werden. Zunächst schien es so zu sein, daß nur ein neues Wort für die gleiche Sache eingeführt werden sollte, um diejenigen Biologen, die am Gebrauch einer teleologischen Sprache festhielten, davon zu überzeugen, daß sie im Grunde gar nicht das (teleologisch) meinen, was sie richtig nur im Horizont der Evolutionstheorie (teleonomisch) sagen könnten <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Die dem Metaphysikvorwurf ausgesetzte Teleologie ist jedoch nicht durch eine metaphysikfreie T. ersetzt worden, sondern durch die ganz und gar nicht metaphysikfreie Evolutionstheorie, in der der Begriff ‹T.› erst interpretierbar ist <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Daher ist es auch nur ein Selbstüberredungsversuch, wenn gesagt wird, T. verhalte sich zur Teleologie wie die Astronomie zur Astrologie <sup class=\"fn\" data-fn=\"0-4\">4</sup>. T. ist bis heute nicht als eine besondere ‘Lehreʼ vertreten worden. Wer in der modernen Biologie von T. redet, vertritt keine neue Wissenschaft, sondern behauptet nur, daß es legitim sei, Organismen, Organe und Verhaltensweisen als zweckmäßig ohne Zweck (d.h. teleonom) zu bezeichnen; denn evolutionstheoretisch gesehen kann jeder Naturzweck negiert werden, weil Zufall das Prinzip ist.</p>\n<p>Nur insofern die Evolutionstheorie als Paradigma akzeptiert wird, kann ‹teleonom› als beschreibender Begriff benutzt werden; er meint aber nicht mehr als das, was früher schon mit ‹angepaßt› bezeichnet wurde <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Allerdings soll auch bei diesem Rückzug ins Deskriptive häufig jeder Anklang an den Telos-Begriff negiert werden, wie B. HASSENSTEIN feststellt: «Manche Forscher vermeiden allerdings auch den Ausdruck ‘teleonom(isch)ʼ und benutzen statt dessen andere, gleichbedeutende Vokabeln: Sie sprechen vom biologischen Sinn, von der biologischen Bedeutung oder auch von der funktionellen oder funktionalen Erklärung eines biologischen Tatbestandes» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Der Ort teleonomer Aussagen ist folgerichtig Systemtheorie und Kybernetik, und der teleonome Sprachgebrauch ist gleicherweise auf Organismen und <span class=\"col\" data-col=\"979\"></span> Maschinen anwendbar. «Damit ist zugleich – zumindest im Rahmen der Biologie – der Widerspruch zwischen Kausalität und Teleonomie aufgehoben» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Da dies erheblich weniger ist, als sich viele Biologen durch die Neuerung erhofften, hat insbesondere E. MAYR <sup class=\"fn\" data-fn=\"0-8\">8</sup> den Begriff zu konkretisieren versucht. Doch muß er die Unterscheidung ‹organisch›/‹anorganisch› bzw. ‹lebend›/‹unbelebt› wieder einführen <sup class=\"fn\" data-fn=\"0-9\">9</sup> und die «Verwendung der sogenannten teleologischen Sprache» <sup class=\"fn\" data-fn=\"0-10\">10</sup> beibehalten, um seine neuen Begriffe zu erläutern. Mayr stellt fest, daß die meisten Abläufe in der Natur endgerichtete Vorgänge sind, da sie sich gemäß dem Zweiten Hauptsatz der Thermodynamik (‘Alles strebt dem Zustand größter Wahrscheinlichkeit [d.h. Entropie] entgegenʼ) naturgesetzlich auf ein niedrigeres Energieniveau zubewegen. Hierfür prägt er den Begriff ‹teleomatisch›: «Da der Endzustand solcher unbelebter Gegenstände automatisch erreicht wird, kann man derartige Änderungen teleomatisch nennen» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Demgegenüber sollen die endgerichteten Vorgänge in der organischen Natur zielgerichtet sein <sup class=\"fn\" data-fn=\"0-12\">12</sup> und durch den Begriff ‹teleonomisch› gekennzeichnet werden: «Ein teleonomischer Vorgang oder ein teleonomisches Verhalten ist ein Vorgang oder Verhalten, das sein Zielgerichtetsein dem Wirken eines Programms verdankt» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Für das Verständnis der T. und der klaren Abgrenzung zur Teleologie hängt nun alles vom Begriff des Programms ab <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Rein funktional gedeutet, werden so aber alle Prozesse bei Organismen wieder mit Prozessen bei Maschinen vergleichbar, und diese wiederum funktionieren nur nach Naturgesetzen, also nur teleomatisch. Erst die Reflexion auf den Programmierer (bei Maschinen) oder den Ursprung des Programms (bei Organismen) müßte Teleologie bemühen. Diese Reflexion will Mayr aber nicht zulassen <sup class=\"fn\" data-fn=\"0-15\">15</sup>, weil der «Ursprung dieser Reguliervorrichtung ... das große Rätsel bei der Frage nach der Entstehung des Lebens» <sup class=\"fn\" data-fn=\"0-16\">16</sup> ist.</p>\n<p>Dann trifft aber die Kritik zu, die von R. SPAEMANN und R. LÖW geltend gemacht wurde: «die T. hat nur die Option, zur Teleologie oder zur Teleomatie zu werden. Als T. ist sie jedenfalls widersprüchlich» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Das Unzureichende aller Entwürfe zur T. besteht letztlich darin, daß die aufgrundder Evolutionstheorie bedingte Eliminierung von Sinn nachher durch Definitionen wieder zurückgewonnen werden soll. Eine Verständigung über T. und die implizierende Teleologie ist bisher nur einer kritischen Teleologie zuzutrauen, wie sie etwa in der Weiterentwicklung Kantischer Überlegungen vorgelegt worden ist <sup class=\"fn\" data-fn=\"0-18\">18</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"979\"></span> C. S. PITTENDRIGH: Adaptation, nat. selection, and behavior, in: A. ROE/G. G. SIMPSON (Hg.): Behavior and evolution (New Haven 1958) 394.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. E. MAYR: Evolution und die Vielfalt des Lebens (1979) 202.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. G. G. SIMPSON: This view of life (New Haven 1964) 113.</li>\n<li id=\"fn0-4\" value=\"4\">vgl. K. LORENZ: Vergleich. Verhaltensforsch. (1978) 44.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. J. MONOD: Le hasard et la necessité (Paris 1970, <sup>2</sup>1971); dtsch.: Zufall und Notwendigkeit (1971) 33ff.</li>\n<li id=\"fn0-6\" value=\"6\">B. HASSENSTEIN: Biolog. T. Neue H. Philos. 20 (1981) 60–71, zit. 63.</li>\n<li id=\"fn0-7\" value=\"7\">a.O. 64.</li>\n<li id=\"fn0-8\" value=\"8\">MAYR, a.O. [2]; vgl. Die Entwickl. der biolog. Gedankenwelt (1982).</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 205f.</li>\n<li id=\"fn0-10\" value=\"10\">226; vgl. 199f. 203.</li>\n<li id=\"fn0-11\" value=\"11\">206.</li>\n<li id=\"fn0-12\" value=\"12\">vgl. 207.</li>\n<li id=\"fn0-13\" value=\"13\">207.</li>\n<li id=\"fn0-14\" value=\"14\">vgl. 213.</li>\n<li id=\"fn0-15\" value=\"15\">vgl. 214.</li>\n<li id=\"fn0-16\" value=\"16\">216.</li>\n<li id=\"fn0-17\" value=\"17\">R. SPAEMANN/R. LÖW: Die Frage Wozu? Gesch. und Wiederentdeckung des teleolog. Denkens (1981, <sup>2</sup>1985) 252.</li>\n<li id=\"fn0-18\" value=\"18\">a.O.; R. LÖW: Philos. des Lebendigen (1980).</li>\n</ol>",
+ "prev":{"id":3145,"lemma":"Teleologie; teleologisch","band":"10","col":970},
+ "next":{"id":3147,"lemma":"Tellurisch; Tellurismus","band":"10","col":980},
+ "backlinks":[{"id":3706,"lemma":"Zufall","n":1}],
+ "outlinks":[{"id":3145,"lemma":"Teleologie; teleologisch","n":1}],
+ "register":[
+  {"term":"Siderismus","qualifier":"","band":"10","col":"979"},
+  {"term":"teleomatisch","qualifier":"","band":"10","col":"978"},
+  {"term":"Zweckmässigkeit ohne Zweck","qualifier":"","band":"10","col":"978"}
+ ],
+ "persons":[
+  {"id":407,"name":"R. Spaemann","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2819,"name":"G. G. Simpson","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":2787,"name":"B. Hassenstein","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10304,"name":"C. S. Pittendrigh","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":182,"name":"K. Lorenz","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3280,"name":"J. Monod","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1257,"name":"E. Mayr","b":1,"n":2,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":853,"lemma":"Evolutionstheorie","tf":4},
+  {"id":1872,"lemma":"Maschine","tf":3},
+  {"id":439,"lemma":"Biologie","tf":2},
+  {"id":3406,"lemma":"Verhalten","tf":2},
+  {"id":2634,"lemma":"Reflexion","tf":2},
+  {"id":3352,"lemma":"Ursprung","tf":2},
+  {"id":535,"lemma":"Definition","tf":2}
+ ],
+ "see_also":[{"id":853,"lemma":"Evolutionstheorie"}],
+ "groups":[{"id":5,"name":"Biologie","label":"Teleonomie"}],
+ "reg_authors":[{"name":"Hoppe Brigitte","n":3},{"name":"Schlüter Gisela","n":6}]
+}
+);

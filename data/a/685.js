@@ -1,0 +1,57 @@
+HWPH.put("a/685",
+{
+ "id":685,
+ "lemma":"Einigung",
+ "band":"2",
+ "kind":"article",
+ "col_from":405,
+ "col_to":406,
+ "pdf_from":4913,
+ "pdf_to":4915,
+ "authors":["P. Heidrich"],
+ "n_notes":16,
+ "n_chars":3047,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Einigung (ἕνωσις). Die höchste Stufe der Erkenntnis ist bei PLOTIN das Einswerden mit Gott. <span class=\"col\" data-col=\"406\"></span> Da Erkenntnis Gleichheit des Erkennenden mit dem Erkannten voraussetzt <sup class=\"fn\" data-fn=\"0-1\">1</sup>, verzichtet die das Eine erkennende Seele auf jede Form, auf die Bewegtheit des Denkens; erscheint ihr dann das gegenwärtige Eine, so sind beide Eines, wie Liebende <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Dieser schwer beschreibbare Zustand ist kaum noch Schau, sondern Verzückung, Vereinfachung, Hingabe seiner selbst, Streben nach Berührung, Ruhe <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Plotin weiß ihn aus eigenem Erleben zu beschreiben <sup class=\"fn\" data-fn=\"0-4\">4</sup>. JAMBLICH kennt eine θεουργικὴ ἕνωσις, «eine göttlich machende Einigung» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Durch das Eine in uns werden wir nach PROKLUS mit dem Göttlichen vereint <sup class=\"fn\" data-fn=\"0-6\">6</sup>. PSEUDO-DIONYSIUS AREOPAGITA spricht von der Kraft, «durch die wir mit dem Unaussprechlichen und Unerkennbaren vereinigt werden (συναπτóμεθα) gemäß der E. (ἕνωσις), die unsere logische und geistige Kraft und Tätigkeit übersteigt» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Bei der E. müssen wir ganz aus uns selbst heraustreten und ganz Gottes werden <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Diese E. vermittelt durch Unkenntnis die göttlichste Erkenntnis Gottes <sup class=\"fn\" data-fn=\"0-9\">9</sup>. DIONYSIUS CARTUSIANUS erläutert das: der Areopagite rede von einer «cognitio seu contemplatio dei» ... «per unionem mentis cum eo supermentalem, secretissima, communi generi hominum prorsus ignotam» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Bei ECKHART ist die E. unter den trinitarischen Personen und die von Gott und Seele zu unterscheiden <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Wer mit Gott vereinigt werden will, muß «unus» sein <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Eine Kraft in der Seele erfaßt Gott nicht, sofern er gut oder Wahrheit ist, sondern erfaßt ihn in seiner «einunge», in seiner Einöde und seinem Grunde, da wird die Seele von der Einheit umfangen <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Der wahre Mensch läßt auch noch Gott um Gottes willen, in solcher lauteren Einung ist etwas in der Seele, das Gott so verwandt ist, daß es eins ist und nicht vereint <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Nach SEUSE wird die Seele über alle ihre Kräfte geführt und beschaulich mit der bloßen Gottheit vereint. Sie kann dann nichts anderes wollen als Gottes Willen, ist aus Gnade, was Gott von Natur ist <sup class=\"fn\" data-fn=\"0-15\">15</sup>. TAULER spricht davon, daß geschaffener und ungeschaffener Abgrund«ein einig ein» werden, ein lauteres göttliches Wesen <sup class=\"fn\" data-fn=\"0-16\">16</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">E. UNDERHILL: Mystik (1928). – B. SCHMOLDT: Die dtsch. Begriffssprache Meister Eckharts (1954). – S. UEDA: Die Gottesgeburt in der Seele und der Durchbruch zur Gottheit (1965).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. EMPEDOKLES, frg. 109; PLOTIN, Enn. IV, 5, 8; I, 6, 9; vgl. UEBERWEG/PRAECHTER: Philos. des Altertums (<sup>12</sup>1926; Nachdruck 1951 u.ö.) 95f.</li>\n<li id=\"fn0-2\" value=\"2\">Enn. VI, 7, 34f.</li>\n<li id=\"fn0-3\" value=\"3\">Enn. VI, 9, 10f.</li>\n<li id=\"fn0-4\" value=\"4\">Enn. IV, 8, 1.</li>\n<li id=\"fn0-5\" value=\"5\">De myst. 2, 11.</li>\n<li id=\"fn0-6\" value=\"6\">In Alcib. III, 103f.</li>\n<li id=\"fn0-7\" value=\"7\">De div. nom. I, 1. MPG 3, 585 b – 586 a; ähnlich VII, 1 und 3. MPG 3, 865 c. 872 a.</li>\n<li id=\"fn0-8\" value=\"8\">a.a.O. VII, 1. MPG 3, 865 d.</li>\n<li id=\"fn0-9\" value=\"9\">a.a.O. VII, 3. MPG 3, 872 a.</li>\n<li id=\"fn0-10\" value=\"10\">In De div. nom. VII, art. 77, Opera 16 (1902) 260 a–b.</li>\n<li id=\"fn0-11\" value=\"11\">Pr. 10. Dtsch. Werke, hg. QUINT 1 (1958) 172.</li>\n<li id=\"fn0-12\" value=\"12\">Serm. 37, n. 375. Lat. Werke, hg. BENZ/DECKER/KOCH 4 (1956) 321.</li>\n<li id=\"fn0-13\" value=\"13\">Pr. 10, Dtsch. Werke 1 (1958) 171f.</li>\n<li id=\"fn0-14\" value=\"14\">Pr. 12, a.a.O. 196f.; vgl. Proc. Col. I, n. 71: «unum, non unitum».</li>\n<li id=\"fn0-15\" value=\"15\">Büchlein der Ewigen Weisheit, hg. BIHLMEYER (1907) 245; vgl. 476, 2–7; 106, 34f.</li>\n<li id=\"fn0-16\" value=\"16\">Pr. 41, hg. VETTER (1910) 176.</li>\n</ol>",
+ "prev":{"id":684,"lemma":"Einheit und Vielheit der Wesensform","band":"2","col":401},
+ "next":{"id":686,"lemma":"Einkehr","band":"2","col":406},
+ "backlinks":[
+  {"id":3301,"lemma":"Unio mystica","n":1},
+  {"id":3523,"lemma":"Wahrheit","n":1},
+  {"id":3690,"lemma":"Zerstreuung","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Einswerden","qualifier":"","band":null,"col":null},
+  {"term":"Einung","qualifier":"","band":null,"col":null},
+  {"term":"Vereinigung","qualifier":"","band":null,"col":null},
+  {"term":"ἕνωσις","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":28,"name":"Plotin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":73,"name":"Eckhart","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":140,"name":"Ps.-Dionysius Areopagita","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":158,"name":"Empedokles","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":291,"name":"F. Ueberweg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":387,"name":"J. Tauler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":604,"name":"Jamblich","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":820,"name":"H. Seuse","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1824,"name":"K. Praechter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3445,"name":"Koch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3671,"name":"Dionysius Cartusianus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":6169,"name":"Proklus","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":5389,"name":"B. Schmoldt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4944,"name":"S. Ueda","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13687,"name":"E. Underhill","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":374,"name":"J. Quint","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":490,"name":"E. Benz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1022,"name":"K. Bihlmeyer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2071,"name":"Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1518,"name":"B. Decker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2794,"lemma":"Seele","tf":6},{"id":1680,"lemma":"Kraft","tf":3}],
+ "see_also":[{"id":807,"lemma":"Erleuchtung"},{"id":3301,"lemma":"Unio mystica"}],
+ "groups":[{"id":27,"name":"Mystik","label":"Einigung"}],
+ "reg_authors":[{"name":"Heidrich Peter","n":20}]
+}
+);

@@ -1,0 +1,86 @@
+HWPH.put("a/1558",
+{
+ "id":1558,
+ "lemma":"Kennzeichnung, Kennzeichnungstheorie",
+ "band":"4",
+ "kind":"article",
+ "col_from":810,
+ "col_to":813,
+ "pdf_from":13901,
+ "pdf_to":13909,
+ "authors":["G. Gabriel"],
+ "n_notes":15,
+ "n_chars":10395,
+ "toc":[["h11","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Kennzeichnung, Kennzeichnungstheorie. Der Terminus ‹Kennzeichnung› (K.) ist die in der Logik und Sprachphilosophie übliche Übersetzung des englischen ‹definite (singular) description›. Diese Bezeichnung ist von B. RUSSELL <sup class=\"fn\" data-fn=\"0-1\">1</sup> eingeführt worden für Ausdrücke der Form ‹der (die, das) Soundso›, für Ausdrücke also, die zusammengesetzt sind aus dem bestimmten Artikel im Singular und einem eventuell attributiv erweiterten Substantiv, bzw. für Ausdrücke, die sich auf diese Form bringen lassen. So kann z.B. ‹Ottos Vater› umgeformt werden in ‹der Vater von Otto› und ‹derjenige, der die elliptische Gestalt der Planetenbahnen entdeckte› in ‹der Entdecker der elliptischen Gestalt der Planetenbahnen›.</p>\n<p>Abgrenzend ist hervorzuheben, daß es sich bei Ausdrücken mit dem bestimmten Artikel im Plural von der Form ‹die Soundso› nach Russell nicht um K., sondern um Klassenausdrücke handelt; aber auch der bestimmte Artikel im Singular kommt in Ausdrücken vor, die keine K. sind. In Sätzen der Art ‹der Mensch ist ein Lebewesen› dient er der Gattungsbezeichnung. Im Sinne der logischen Sprachanalyse ist dieser Satz synonym mit ‹Menschen sind Lebewesen› (‹alle Menschen sind Lebewesen›; ‹wenn etwas ein Mensch ist, so ist es ein Lebewesen›). Auch wenn ‹der (die, das)› als Demonstrativpronomen fungiert im <span class=\"col\" data-col=\"811\"></span> Sinne von ‹dieser (diese, dieses)›, nennt man den Gesamtausdruck im allgemeinen nicht ‹K.›, da für K. die situationsunabhängige Verwendbarkeit gefordert wird.</p>\n<p>Die Symbolisierung der K. erfolgt durch «ι<i><sub>x</sub></i> (<i>x ε P</i>)», in Worten: «dasjenige <i>x</i>, dem <i>P</i> zukommt», «ι<i><sub>x</sub></i>» wird «K.-Operator» oder «Iotaoperator» genannt. Er bindet die in «<i>x ε P</i>» frei vorkommende Individuen variable «<i>x</i>». Die Benutzung des umgekehrten griechischen Buchstabens Iota (ι) geht auf G. PEANO zurück <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Statt einer Aussageform ‹<i>x ε P</i>› für eine Elementaraussage kann auch ein komplexer, logisch zusammengesetzter prädikativer Ausdruck stehen.</p>\n<p>Falls es ein und nur ein Individuum <i>x</i> gibt, dem <i>P</i> zukommt, sagt man, daß die K. die <i>Einzigkeitsbedingung</i> erfüllt. In diesem Fall ist das, was durch die K. gekennzeichnet wird, dieses eine Individuum. Die Frage, wie K. zu interpretieren sind, die die Einzigkeitsbedingung nicht erfüllen, wird in den verschiedenen K.-Theorien unterschiedlich beantwortet. Für eine Beurteilung dieser Theorien ist zu berücksichtigen, ob sie Theorien der gebrauchssprachlichen oder der wissenschaftssprachlichen Verwendung von K. sind.</p>\n<p>Als erster hat sich J. ST. MILL mit der Analyse von K. beschäftigt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Er ist der Auffassung, daß eine K. aufgrundihrer «Form», d.h. insbesondere aufgrundder Verwendung des bestimmten Artikels im Singular, «impliziert» (implies), daß es ein und nur ein Individuum gibt, welchem der in der K. vorkommende Prädikator zukommt. Die Einzigkeit ist nach Mill Teil des Bedeutungsinhalts einer jeden K.</p>\n<p>G. FREGE lehnt diese Auffassung, allerdings ohne Bezug auf Mill, ab <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die Einzigkeit werde nicht mitgemeint, gehöre nicht zum «Sinn» einer K., sondern die Verwendung einer K. in behauptender Rede setze als selbstverständlich voraus, daß die Einzigkeitsbedingung erfüllt sei. Würde die Einzigkeit zum Sinn einer K. dazugehören, so müßte eine Behauptung wie z.B. ‹der Entdecker der elliptischen Gestalt der Planetenbahnen starb im Elend› vollständig hingeschrieben lauten: ‹der Entdecker der elliptischen Gestalt der Planetenbahnen starb im Elend <i>und</i> es gab genau einen Entdecker der elliptischen Gestalt der Planetenbahnen›. Die Verneinung würde entsprechend nicht einfach ‹der Entdecker der elliptischen Gestalt der Planetenbahnen starb nicht im Elend› lauten, sondern müßte den Zusatz enthalten ‹oder es gab nicht genau einen Entdecker der elliptischen Gestalt der Planetenbahnen›. Eine solche Auffassung entspricht aber, darauf läuft Freges Argument hinaus, nicht unserem normalen Verständnis von Behauptungen. Behauptungen, die die Einzigkeitsbedingung in der Weise nicht erfüllen, daß sie, wie Frege sich ausdrückt, «bedeutungslose» K. enthalten, stuft Frege als insgesamt bedeutungslos ein, und d.h. als «weder wahr noch falsch». Daß es K. gibt, die grammatisch richtig bildbar sind und die Einzigkeitsbedingung nicht erfüllen, sei ein Mangel der Sprache (= Gebrauchssprache), der in einer «logisch vollkommenen Sprache (Begriffsschrift)» (= Wissenschaftssprache) von vornherein vermieden werden müsse, indem man für diesen Fall geeignete Bedeutungsfestsetzungen treffe.</p>\n<p>Während Frege die gebrauchssprachliche Behandlung von K. klar von der wissenschaftssprachlichen Behandlung unterscheidet, entwirft RUSSELL eine K.-Theorie, die eher wissenschaftssprachlich ausgerichtet ist. Er vertritt nahezu die Auffassung Mills, spricht aber den K. im Gegensatz zu den Eigennamen Bedeutung (= meaning; er unterscheidet nicht wie Frege zwischen Sinn und Bedeutung eines sprachlichen Ausdrucks) außerhalb von Aussagen (propositions) allgemein ab. Deshalb dürfe man auch nicht das Symbol für K. explizit definieren, sondern nur seinen Gebrauch <sup class=\"fn\" data-fn=\"0-5\">5</sup>, d.h. die Aussagen bzw. Aussageformen, in deren symbolischen Ausdrücken es vorkomme <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Dies geschieht z.B. für Aussagen der Form «(ι<i><sub>x</sub></i> (<i>x ε P</i>)) <i>ε Q</i>» so, daß die kennzeichnenden Teile eliminiert werden, indem sie umgewandelt werden in die Aussage der eindeutigen Existenz, der Einzigkeit, für diese Teile. Demnach rechnet Russell wie <span class=\"col\" data-col=\"812\"></span> Mill, aber im Gegensatz zu Frege, die Einzigkeit den Inhalten der Aussagen zu, so daß eine Aussage wie ‹der gegenwärtige König von Frankreich ist kahlköpfig› für Russell falsch ist, weil es niemanden gibt, der gegenwärtig König von Frankreich ist, während sie für Frege aus demselben Grunde weder wahr noch falsch ist.</p>\n<p>Ist bei Russell jede Aussage, die eine K. enthält, als Aussage zugelassen, so will D. HILBERT (in der mathematischen Wissenschaftssprache) K. nur dann zulassen, wenn die Einzigkeitsbedingung, die bei ihm wiedergegeben wird durch sogenannte «Unitätsformeln», erfüllt ist <sup class=\"fn\" data-fn=\"0-7\">7</sup>. R. CARNAP <sup class=\"fn\" data-fn=\"0-8\">8</sup>, W. v. O. QUINE <sup class=\"fn\" data-fn=\"0-9\">9</sup>, A. CHURCH <sup class=\"fn\" data-fn=\"0-10\">10</sup> u.a. machen diese Einschränkung nicht; im Gegensatz zu Russell jedoch schlagen sie wie Frege vor, daß für K., die die Einzigkeitsbedingung nicht erfüllen, geeignete Festsetzungen getroffen werden. Dies geschieht meist so, daß solchen K. innerhalb eines bestimmten sprachlichen Systems ein und dasselbe Element des Systems zugeordnet wird. Von FREGE selbst stammt der Vorschlag, für die Arithmetik die Zahl 0 festzusetzen <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>All diese Vorschläge beziehen sich eindeutig auf künstliche Wissenschaftssprachen und haben als solche keinen Anlaß zu Adäquatheitsüberlegungen, sondern nur zu Zweckmäßigkeitsüberlegungen gegeben. Dies unterscheidet sie von RUSSELLS K.-Theorie. Russell hat zwar später ausdrücklich betont <sup class=\"fn\" data-fn=\"0-12\">12</sup>, daß seine K.-Theorie keine Adäquatheit z.B. zur Gebrauchssprache beanspruche, sondern die Präzisierung der Gebrauchssprache für wissenschaftliche Zwecke anstrebe; aber von vornherein war diese eingeschränkte Absicht nicht so klar. So kam es, daß um die K.-Theorie ein exemplarischer Streit innerhalb der analytischen Philosophie entbrannte.</p>\n<p>Bei diesem Streit geht es um die Frage, ob Philosophie Sprachgebrauch normieren oder beschreiben (aufzeigen) solle. Da Russells K.-Theorie weithin als das Paradebeispiel einer idealsprachlich orientierten analytischen Philosophie galt, war es nicht zu verwundern, daß von Seiten der gebrauchssprachlich orientierten analytischen Philosophie, der sogenannten «Ordinary Language Philosophy», gerade diese K.-Theorie Gegenstand der Kritik wurde. In diesem Sinne macht P. F. STRAWSON folgendes geltend: Auf eine normale Frage, ob der gegenwärtige König von Frankreich weise sei, würde man zum gegenwärtigen Zeitpunkt weder mit ‹ja› noch mit ‹nein› antworten, sondern mit dem Hinweis, daß Frankreich keine Monarchie mehr sei und es deshalb gar keinen König von Frankreich gebe, die Frage nach Wahrheit oder Falschheit also gar nicht aufkommen könne. Insbesondere sei dann eine Aussage wie ‹Der gegenwärtige <span class=\"col\" data-col=\"813\"></span> König von Frankreich ist weise› nicht falsch <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Strawsons Analyse stimmt in diesem Punkt vollkommen mit derjenigen Freges überein. Die bei Frege so genannte «selbstverständliche Voraussetzung» der Einzigkeit (eindeutigen Existenz) heißt bei Strawson <sup class=\"fn\" data-fn=\"0-14\">14</sup> «Präsupposition» <a class=\"xref\" href=\"#/a/2446\">→</a> (s.d.). Eine wesentliche Nuance bekommt die Strawsonsche Analyse dadurch, daß zwischen einem Ausdruck bzw. Satz, dem Gebrauch (use) eines Ausdrucks bzw. Satzes und der Äußerung (utterance) eines Ausdrucks bzw. Satzes unterschieden wird. Diese Unterscheidung führt dann z.B. dazu, nicht Sätze, die bei Frege aufgrundder durch sie ausgedrückten «Gedanken» <a class=\"xref\" href=\"#/a/999\">→</a> (s.d.) wahr oder falsch sind, sondern ihren (behauptenden) Gebrauch als wahr oder falsch zu beurteilen. Damit ist dann die Feststellung möglich, daß der (behauptende) Gebrauch des Satzes ‹Der gegenwärtige König von Frankreich ist weise› zwar 1971 weder wahr noch falsch war, weil die Präsupposition der (eindeutigen) Existenz nicht erfüllt war, daß er aber im 17. Jh. sehr wohl wahr oder falsch war.</p>\n<p>Abschließend läßt sich zusammenfassen, daß, wie man die Mill-Russellsche K.-Theorie auch sonst beurteilen mag, die Frege-Strawsonsche der gebrauchssprachlichen Verwendung von K. jedenfalls adäquater ist. Darüber hinaus hat letztere noch einen weiteren Vorteil. Sie erlaubt eine adäquate Analyse auch der legitim fiktionale K. enthaltenden fiktionalen Rede <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<h3 id=\"h11\">Literaturhinweise</h3>\n<p class=\"lit\">P. T. GEACH: Russell's theory of descriptions. Analysis (Oxford) 10 (1950) 84–88. – R. CARNAP s. Anm. [8]. – P. WEINGARTNER (Hg.): Deskription, Analytizität und Existenz (1966). – L. LINSKY: Referring (London 1967). – H. HOCHBERG: Strawson, Russell and the King of France. Philos. Sci. 37 (1970) 363–384.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"813\"></span> A. N. WHITEHEAD und B. RUSSELL: Principia math. 1 (Cambridge <sup>2</sup>1925) 30; vgl. ferner: B. RUSSELL: On denoting. Mind 14 (1905) 479–493.</li>\n<li id=\"fn0-2\" value=\"2\">G. PEANO: Formulaire de math. 3 (Paris 1901) 31.</li>\n<li id=\"fn0-3\" value=\"3\">J. ST. MILL: A system of logic I, 2, § 5.</li>\n<li id=\"fn0-4\" value=\"4\">G. FREGE: Über Sinn und Bedeutung. Z. Philos. philos. Kritik 100 (1892) 39ff.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. Art. <a class=\"xref\" href=\"#/a/994\">→ Gebrauchsdefinition</a>.</li>\n<li id=\"fn0-6\" value=\"6\">WHITEHEAD/RUSSELL, a.a.O. [1] 1, 67.</li>\n<li id=\"fn0-7\" value=\"7\">D. HILBERT und P. BERNAYS: Grundl. der Math. 1 (1934) 384.</li>\n<li id=\"fn0-8\" value=\"8\">R. CARNAP: Meaning and necessity (Chicago <sup>2</sup>1956) § 8.</li>\n<li id=\"fn0-9\" value=\"9\">W. v. O. QUINE: Math. logic (Cambridge <sup>2</sup>1951) 147.</li>\n<li id=\"fn0-10\" value=\"10\">A. CHURCH: Introd. to math. logic 1 (Princeton 1956) 41.</li>\n<li id=\"fn0-11\" value=\"11\">FREGE, a.a.O. [4] 42 Anm. 1.</li>\n<li id=\"fn0-12\" value=\"12\">B. RUSSELL: Mr. Strawson on referring. Mind 66 (1957) 385–389.</li>\n<li id=\"fn0-13\" value=\"13\">P. F. STRAWSON: On referring. Mind 59 (1950) 320–344.</li>\n<li id=\"fn0-14\" value=\"14\">Introd. to logical theory (London 1952) bes. 175.</li>\n<li id=\"fn0-15\" value=\"15\">G. GABRIEL: Fiktion und Wahrheit (1975).</li>\n</ol>",
+ "prev":{"id":1557,"lemma":"Keim","band":"4","col":809},
+ "next":{"id":1559,"lemma":"Kenose","band":"4","col":813},
+ "backlinks":[
+  {"id":400,"lemma":"Bestimmung, bestimmen, Determination","n":1},
+  {"id":663,"lemma":"Eigenname","n":1},
+  {"id":1020,"lemma":"Gegenstand","n":1},
+  {"id":1170,"lemma":"Gottesbeweis, ontologischer","n":1},
+  {"id":1414,"lemma":"Individualbegriff","n":1},
+  {"id":2066,"lemma":"Name","n":1},
+  {"id":2151,"lemma":"Nominator","n":1},
+  {"id":2353,"lemma":"Philosophie","n":1},
+  {"id":2547,"lemma":"Quantenlogik","n":1},
+  {"id":2632,"lemma":"Referenz, Referenztheorie","n":1},
+  {"id":2887,"lemma":"Singulär","n":1},
+  {"id":2889,"lemma":"Sinn/Bedeutung","n":1},
+  {"id":2983,"lemma":"Sprachanalyse","n":1},
+  {"id":3273,"lemma":"Umgangssprache","n":1},
+  {"id":3588,"lemma":"Wert","n":1}
+ ],
+ "outlinks":[
+  {"id":994,"lemma":"Gebrauchsdefinition","n":1},
+  {"id":999,"lemma":"Gedanke","n":1},
+  {"id":2446,"lemma":"Präsupposition","n":1}
+ ],
+ "register":[
+  {"term":"Einzigkeitsbedingung","qualifier":"","band":"4","col":"811"},
+  {"term":"Gebrauchssprache","qualifier":"","band":null,"col":null},
+  {"term":"Iotaoperator","qualifier":"","band":"4","col":"810"},
+  {"term":"Wissenschaftssprache","qualifier":"","band":null,"col":null},
+  {"term":"– II (log.) 3 134 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":46,"name":"B. Russell","b":3,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":40,"name":"G. Frege","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":36,"name":"R. Carnap","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":60,"name":"J. S. Mill","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":194,"name":"A. N. Whitehead","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":221,"name":"D. Hilbert","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":329,"name":"P. F. Strawson","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":715,"name":"A. Church","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":771,"name":"G. Peano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1760,"name":"O. Quine","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":262,"name":"Gabriel Biel","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":831,"name":"P. Bernays","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":929,"name":"P. T. Geach","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3721,"name":"P. Weingartner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2199,"name":"L. Linsky","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7745,"name":"H. Hochberg","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+ ],
+ "mentions":[
+  {"id":697,"lemma":"Einzige, Einzigkeit","tf":6},
+  {"id":309,"lemma":"Aussage","tf":9},
+  {"id":1116,"lemma":"Gestalt","tf":7},
+  {"id":2745,"lemma":"Satz","tf":5},
+  {"id":374,"lemma":"Behauptung","tf":3},
+  {"id":125,"lemma":"Analyse","tf":4},
+  {"id":1424,"lemma":"Individuum, Individualität","tf":3},
+  {"id":3039,"lemma":"Streit","tf":2},
+  {"id":863,"lemma":"Existenz, existentia","tf":3},
+  {"id":890,"lemma":"Fall, Abfall","tf":3},
+  {"id":2749,"lemma":"Sätze, subjektlose","tf":2},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":22,"name":"Logik","label":"Kennzeichnung"},
+  {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Kennzeichnung"}
+ ],
+ "reg_authors":[{"name":"Gabriel Gottfried","n":51}]
+}
+);

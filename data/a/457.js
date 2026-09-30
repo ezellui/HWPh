@@ -1,0 +1,36 @@
+HWPH.put("a/457",
+{
+ "id":457,
+ "lemma":"Buch der Schöpfung",
+ "band":"1",
+ "kind":"article",
+ "col_from":959,
+ "col_to":960,
+ "pdf_from":3327,
+ "pdf_to":3328,
+ "authors":["H. K. Kohlenberger"],
+ "n_notes":6,
+ "n_chars":1600,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Buch der Schöpfung ist eine im Mittelalter mit ‹Buch der Natur› austauschbare Wendung, weil Natur in dessen schöpfungstheologischem Kontext Kreatur besagt. <span class=\"col\" data-col=\"960\"></span> Der über creaturae (der dem liber scripturae gegenübersteht) ist ein duplex liber: es entsprechen sich die ars Dei und der mundus sensibilis <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Diese im Sinn des Exemplarismus gedachte Relation wird durch die zunächst auf das gnadenhafte Handeln Gottes beschränkte Buchmetapher formuliert, indem diese hinsichtlich der Einheit des in Natur und Gnade handelnden Gottes kosmologisch rückinterpretiert wird. Das Wissen Gottes (das sich als ars und exemplar auslegt) ist ausdrücklicher Vergleichspunkt zum liber vitae <sup class=\"fn\" data-fn=\"0-2\">2</sup>. So konnte schon AUGUSTIN von einem liber lucis aeternae, einer Metapher für den intellectus divinus, sprechen <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die durch die Verwendung in Predigten vermittelte mystische Deutung des B.d.S. <sup class=\"fn\" data-fn=\"0-4\">4</sup> trug zu der Zuordnung von ‹Nature's infinite book of secrecy› zur Wahrsagekunst bei <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Wenn nach dem Metaphernkontext vom Wissen Gottes ausgegangen wird, kann der große geistesgeschichtliche Abstand zum Mittelalter an einer ironischen Wendung HUSSERLS abgelesen werden, der von dem «idealen Lehrbuch» als Zielpunkt der ins Unendliche fortschreitenden Wissenschaft spricht <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">BONAVENTURA, Brev. II, 5. 11. 12.</li>\n<li id=\"fn0-2\" value=\"2\">IV Sent. 43, 2, 2.</li>\n<li id=\"fn0-3\" value=\"3\">AUGUSTIN, De trin. 14, 15; DUNS SCOTUS, Opus oxon. 1, 3, 4, 18.</li>\n<li id=\"fn0-4\" value=\"4\">THOMAS VON KEMPEN, Imit. Christi II, 4; LUIS de GRANADA, Simbolo de la fé, zit. bei E. R. CURTIUS: Europ. Lit. und lat. MA (<sup>7</sup>1969) 322.</li>\n<li id=\"fn0-5\" value=\"5\">SHAKESPEARE, Anthony I, 2, 9.</li>\n<li id=\"fn0-6\" value=\"6\">E. HUSSERL: Die Krisis der europ. Wiss .... Husserliana 6 (Den Haag 1954) 460.</li>\n</ol>",
+ "prev":{"id":456,"lemma":"Buch der Natur","band":"1","col":957},
+ "next":{"id":458,"lemma":"Buddhismus","band":"1","col":960},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Schöpfung","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":7,"name":"Augustinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":38,"name":"Joh. Duns Scotus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":53,"name":"Bonaventura","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":522,"name":"E. R. Curtius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1720,"name":"W. Shakespeare","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2606,"name":"Thomas von Kempen","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13735,"name":"Luis de Granada","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":3634,"lemma":"Wissen","tf":2}],
+ "see_also":[{"id":456,"lemma":"Buch der Natur"}],
+ "groups":[{"id":45,"name":"Topoi und Metaphern","label":"Buch der Schöpfung"}],
+ "reg_authors":[{"name":"Kohlenberger Helmut K","n":15}]
+}
+);

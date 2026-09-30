@@ -1,0 +1,27 @@
+HWPH.put("a/907",
+{
+ "id":907,
+ "lemma":"Fernstenliebe",
+ "band":"2",
+ "kind":"article",
+ "col_from":933,
+ "col_to":933,
+ "pdf_from":6626,
+ "pdf_to":6627,
+ "authors":["K. Bernath"],
+ "n_notes":5,
+ "n_chars":854,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Fernstenliebe wird von NIETZSCHE polemisch der christlichen Tugend der Nächstenliebe gegenübergestellt. Er ironisiert diese in der ‹Götzendämmerung›: «Hilf dir selber: dann hilft dir noch Jedermann. Princip der Nächstenliebe» <sup class=\"fn\" data-fn=\"0-1\">1</sup> und rechnet sie in ‹Zur Genealogie der Moral› unter die von ihm in Frage gestellten «asketischen Ideale» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Der «Nächste» wird bereits in der ‹Fröhlichen Wissenschaft› mit Sarkasmus bedacht <sup class=\"fn\" data-fn=\"0-3\">3</sup>, und eine der ‹Reden Zarathustras› lehrt die «Nächsten-Flucht» und «Fernsten-Liebe», die Liebe zum «Künftigen», zum «schaffenden Freund, der immer eine fertige Welt zu verschenken hat», letztlich zum «Übermenschen» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die F. ist damit ein Ausdruck der Grundthese des ‹Zarathustra›: «Der Mensch ist Etwas, das überwunden werden muss» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">NIETZSCHE, Musarion-A. 17 (1926) 56.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. a.a.O. 15 (1925) 419.</li>\n<li id=\"fn0-3\" value=\"3\">12 (1924) 59.</li>\n<li id=\"fn0-4\" value=\"4\">13 (1925) 74ff.</li>\n<li id=\"fn0-5\" value=\"5\">13, 41.</li>\n</ol>",
+ "prev":{"id":906,"lemma":"Feng-shui","band":"2","col":933},
+ "next":{"id":908,"lemma":"Fernwirkung","band":"2","col":933},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":2060,"lemma":"Nächstenliebe","tf":2}],
+ "see_also":[],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Fernstenliebe (Nietzsche)"}],
+ "reg_authors":[{"name":"Bernath Klaus","n":2}]
+}
+);

@@ -1,0 +1,37 @@
+HWPH.put("t/2059",
+{
+ "b":"Nachfolge (imitatio) Christi. Die Bedeutungsgeschichte des Begriffes ist entscheidend verknüpft mit der profangriechischen und der alttestamentlichen Anschauung von der Nachahmung (Na.) bzw. Nachfolge (Nf.) Gottes. – Späte griechische Philosophen (PLUTARCH) verwenden den von PLATON noch negativ verwendeten Begriff der Mimesis zur Bezeichnung der ethisch interpretierten Na. Gottes . – Im Alten Testament wird die Nf. Gottes nicht zu einem theologischen Zentralbegriff, da er zum terminus technicus für das «Wandeln hinter den anderen Göttern» geworden ist; erst im hellenistischen Judentum erscheint der Appell der imitatio Dei (ἀκολουθεῖν, ἕπεσθαι, μιμεῖσθαι) unter Bezugnahme auf Gen. 1, 26f. (εἰκών, imago) als Na. der Milde, des Mitleids und der Gerechtigkeit Gottes; das Ähnlichsein mit Gott wird zu einem eschatologischen Heilsgut . \nIm neutestamentlichen Sprachbefund gilt es zu unterscheiden zwischen den sich bis auf wenige Ausnahmen auf Jesus beziehenden Nf.-Worten (ἀκολουθέω), die von dem äußeren räumlichen Nachfolgen bis zu der um der messianischen Ausschließlichkeit Jesu vollzogenen Aufgabe irdischer Lebensverhältnisse und des Lebens selbst reichen, und den im paulinischen Schriftgut überlieferten Na.- (μιμέομαι) , in denen der demonstrative Verweis auf Jesus übergeht in die der Soteriologie entsprechende Begründung durch Jesus Christus . Na. Chr. bleibt rückbezogen auf das Offenbarungshandeln Gottes und ist somit Antwort auf das «vorangehende göttliche Handeln durch Christus» . Der durch Christus erlöste Mensch wird zur Nf. und Na. befreit, sowohl zu der Christi als auch zu der Gottes . \nWährend sich in der frühzeitlichen Apologetik der Gedanke der Na. Gottes vorzüglich zum Anknüpfungspunkt für den Dialog mit der heidnischen Philosophie eignet , gewinnt der Begriff Relevanz in den christlichen Martyriumserfahrungen, in denen die Na. Chr. als Leidens-Na. verstanden wird . – Im Mittelalter erscheint die Nf. Chr. -interpretiert als Demut, Armut, Leiden u.a. – als der Weg zur Wiederherstellung der durch den Sündenfall depravierten Gottesebenbildlichkeit des Menschen und nimmt als asketische Methode Eingang in das Mönchswesen ; der inner- und außerkirchlichen Opposition dient der Appell der Nf. Chr. (imitare, sequi) als Aufforderung zur Abkehr von der Verweltlichung der Kirche , wobei die Frage kontrovers wird, ob das nachzuahmende Leben Jesu historisch oder allegorisch zu vergegenwärtigen sei . Ihre literarisch eindrucksvollste Ausprägung findet das Ideal der Nf. Chr. in den THOMAS VON KEMPEN zugeschriebenen Büchern ‹De imitatione Christi›, in denen besonders das als Demut (humilitas) verstandene Kreuz als Angleichung (conformitas) und als Weg zu Gott gesehen wird: «Tolle ergo crucem tuam et sequere Iesum: et ibis in vitam aeternam» (Nimm also dein Kreuz auf dich und folge Jesus nach: und du wirst in das ewige Leben eingehen) . \nLUTHER interpretiert die Nf. Chr. im Sinne seiner Lehre von der Rechtfertigung sola fide als die unter dem Kreuz stehende Aufgabe jeglicher Selbstrechtfertigung und als Kritik der auch im Zeichen der Nf. möglichen mittelalterlichen Werkethik. («Darum ist es notwendig, daß derjenige, der Christus als Vorbild nachahmen möchte, zunächst fest daran glaubt, daß Christus für ihn zu seinem Heil gelitten hat und gestorben ist. Heftig irren also diejenigen, die, Christus direkt als Vorbild nehmend, sich anschicken, die Sünden vor allem durch Werke und Arbeiten abzubüßen, um das Sakrament empfangen zu dürfen» .) Innerhalb der Gegenreformation nimmt der Begriff der ‹Nf. Christi› – in Anknüpfung an die Schrift von Thomas von Kempen und die Vita von Ludolf von Sachsen – eine zentrale Stellung bei IGNATIUS VON LOYOLA ein und gewinnt innerhalb der missionarischen Praxis die Bedeutung eines entschiedenen Kampfes für das Christentum. «... ego volo et desidero et mea ... est determinatio deliberata ... imitari Te in ferendis omnibus injurii ...» (Ich will und ich wünsche und es ist ... meine wohlerwogene Bestimmung Dich nachzuahmen, indem ich alle Ungerechtigkeiten ertrage) . \nInnerhalb der neuzeitlichen Philosophie wird die Na. Chr. als eine Begründung der Ethik in dem Augenblick problematisch, da die apriorische und autonome Verfassung der praktischen Vernunft in der Philosophie KANTS behauptet wird. «Nachahmung findet im Sittlichen gar nicht statt, und Beispiele dienen nur zur Aufmunterung, d.i. sie setzen Thunlichkeit dessen, was das Gesetz gebietet, außer Zweifel, sie machen das, was die praktische Regel allgemeiner ausdrückt, anschaulich, können aber niemals berechtigen, ihr wahres Original, das in der Vernunft hegt, bei Seite zu setzen und sich nach Beispielen zu richten» . \nIn der neueren Theologie versucht D. BONHOEFFER gegenüber der nachlutherischen Verkürzung der christlichen Existenz zu einer tatenlosen Heilssicherheit die Einheit von Gnade und Nf. als Krisis menschlicher Selbstrechtfertigung und -behauptung zu begreifen. «Nur wer in der Nf. Jesu im Verzicht auf alles, was er hatte, steht, darf sagen, daß er allein aus Gnaden gerecht werde. Er erkennt den Ruf in die Nf. selbst als Gnade und die Gnade als diesen Ruf. Wer sich aber mit dieser Gnade von der Nf. dispensieren will, betrügt sich selbst» .",
+ "n":"H. KOSMALA: Nf. und Na. Gottes. Annual Swed. theol. Inst. 2 (Leiden 1963) 44ff. \na.O. 55ff.; P. A. HEITMANN: Imitatio Dei. Die ethische Na. Gottes nach der Väterlehre der zwei ersten Jh. (Rom 1948) 20ff.; vgl. H. MERKI: ΟΜΟΙΩΣΙΣ ΘΕΩ: Von der plat. Angleich. an Gott zur Gottähnlichkeit bei Gregor von Nyssa (1952) 7ff. \nArt. ἀκολουθέω, in: Theol. Wb. zum NT, hg. G. KITTEL 1, 211. \nA. SCHULZ: Nf. und Na. (1962) 224. \nMk. 14, 13; Mt. 9, 19. \nMk. 3, 7; Mt. 8, 1. \nMt. 8, 22; Lk. 9, 57ff.; Mk. 10, 21. \n1. Kor. 11, 1; 1. Thess. 1, 6. \nSCHULZ, a.O. [4] 275f. 305f. \na.O. 305. \nHEITMANN, a.O. [2] 13ff. \nMERKI, a.O. [2] 44ff. 61. \nVgl. SCHULZ, a.O. [4] Anm. 2. \nIRENEE HAUSHERR: L'imitation du Christ chez les Byzantines, in: Mélanges offerts au F. CavaUera (Toulouse 1949/50) 240. \nCatholicisme hier, aujourd'hui, demain, hg. G. JACQUEMET 5 (Paris 1963) 1266. 1267f. 1271; vgl. E. KLEINEIDAM: Die Nf. Chr. nach Bernhard von Clairvaux, in: Amt und Sendung, hg. E. KLEINEIDAM/O. KUSS/E. PUZIK (1950) 456ff. \nJ. VON WALTER: Franz von Assisi und die Na. Chr. Bibl. Zeit- und Streitfragen (1910) 153ff. \nVgl. E. BENZ: Ecclesia Spiritualis. Kirchenidee und Gesch.theol. der Franziskan. Reformation (1934) 115f. 427ff. \nTHOMAS HEMERKEN a KEMPIS, De Imitatione Christi, hg. M. J. POHL (1904) 2, 82. \nM. LUTHER, Weimarer A. 57/III, 114, 15–19. \nVgl. E. H. LEUBE und H. BOEHMER: Ignatius von Loyola (1941) 39f. 273f.; vgl. LILLY ZARNCKE: Die Exercitia Spiritualia des Ignatius von Loyola (1931) 81ff. \nExercitia Spiritualia S. P. IGNATII DE LOYOLA (1855) 173f. \nI. KANT, Akad.-A. 4, 409; vgl. N. HARTMANN: Ethik (1926) 116; W. KAMLAH: Philos. Anthropol. (1973) 107. \nD. BONHOEFFER: Nf. (1971) 22.",
+ "l":"",
+ "au":"M. Arndt",
+ "A":["M. Arndt"],
+ "cb":[[0,352],[842,352],[1617,352],[2879,352],[3836,353],[4057,353],[4674,353]],
+ "cn":[
+  [0,352],
+  [0,353],
+  [81,353],
+  [320,353],
+  [382,353],
+  [418,353],
+  [442,353],
+  [463,353],
+  [501,353],
+  [533,353],
+  [563,353],
+  [574,353],
+  [600,353],
+  [627,353],
+  [658,353],
+  [779,353],
+  [1003,353],
+  [1096,353],
+  [1210,353],
+  [1289,353],
+  [1333,353],
+  [1489,353],
+  [1549,353],
+  [1654,353]
+ ],
+ "cl":[]
+}
+);

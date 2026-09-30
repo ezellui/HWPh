@@ -1,0 +1,12 @@
+HWPH.put("t/1984",
+{
+ "b":"Mittag, der große. NIETZSCHES kritisch-distanziertes Verhältnis zur Romantik läßt sich kaum irgendwo so deutlich ablesen wie an seiner Rezeption der Tageszeiten-Thematik. Nach zahlreichen Anklängen, noch im dritten Teil des ‹Zarathustra›, steht er anfänglich ganz im Bann der von Novalis proklamierten, von Hölderlin geschichts-theologisch gerechtfertigten ‹Wende zur Nacht›, die als Absage an den Rationalismus der Aufklärung einer un-und überbegrifflichen Daseinsdeutung das Wort redet. Gleichzeitig setzt sich bei Nietzsche jedoch, vermutlich im Zusammenhang mit der Entfremdung von Wagner und der wachsenden Aversion gegen das (in seiner Wagner-Nähe empfundene) «Zarathustra-Gebilde» , eine radikale Neuorientierung durch, die das Dunkel der Nacht mit der Klarheit des Mittags zu verbinden sucht, das Geheimnis des Daseins also gerade in der höchsten, dem Nicht-Wissen benachbarten Bewußtheit geklärt sieht. Angekündigt in der Januarius-Stimmung der ‹Fröhlichen Wissenschaft› und in ihrem dichterischen Niederschlag (‹Nach neuen Meeren›, ‹Sils-Maria›), findet sie ihren gültigen Ausdruck in dem (dem ‹Hyperion›-Schluß nachempfundenen) Zarathustra-Kapitel ‹Mittags› , das die Versöhnung von Wissen und Sein, Welt und Selbst, Zeit und Ewigkeit feiert und darin jenes Ziel erreicht sieht, das im Programm der drei Verwandlungen – der Heteronomie (Kamel) zur Autonomie (Löwe) und dieser zum reinen Innesein (Kind) – postuliert wurde. In der ‹Götzendämmerung› (‹Wie die ‘wahre Weltʼ endlich zur Fabel wurde›) bringt Nietzsche diese Position überdies in einen als Stadienlehre konzipierten geistesgeschichtlichen Zusammenhang . Der g.M. bedeutet danach das im Verdämmern der Reflexion gewonnene Maximum an Seinsglück und Weltinnigkeit. Damit nimmt Nietzsche den Anti-Cartesianismus der Folgezeit auf intuitiv-programmatische Weise vorweg.",
+ "n":"FR. NIETZSCHE: Br. an P. Gast (Aug. 1883). \nKrit. Gesamt-A. V/2, 199–251. 333; VI/1, 338–341. \na.O. VI/1, 25ff.; VI/3, 74f.",
+ "l":"K. SCHLECHTA: Nietzsches g.M. (1954). – K. LÖWITH: Nietzsches Philos. der ewigen Wiederkehr des Gleichen (1956). – E. BISER: Die Waage des Geistes. Nietzsches Kampf mit dem Geist der Schwere. Concilium 10 (1974) 326–334; Die Reise und die Ruhe. Nietzsches Verhältnis zu Kleist und Hölderlin, in: Nietzsche-Stud. 7 (1978) 97–114 (129).",
+ "au":"E. Biser",
+ "A":["E. Biser"],
+ "cb":[[0,1420],[1294,1421]],
+ "cn":[[0,1420],[0,1421],[44,1421],[95,1421]],
+ "cl":[[0,1421]]
+}
+);

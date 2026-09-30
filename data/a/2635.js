@@ -1,0 +1,57 @@
+HWPH.put("a/2635",
+{
+ "id":2635,
+ "lemma":"Reflexionsbegriffe",
+ "band":"8",
+ "kind":"article",
+ "col_from":405,
+ "col_to":406,
+ "pdf_from":31460,
+ "pdf_to":31463,
+ "authors":["W. Halbfass"],
+ "n_notes":8,
+ "n_chars":4245,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Reflexionsbegriffe (Vergleichungsbegriffe). <span class=\"col\" data-col=\"406\"></span> Unter dem Titel ‹R.› faßt I. KANT vier Paare korrelativer Begriffe (‹Einerleiheit› und ‹Verschiedenheit›, ‹Einstimmung› und ‹Widerstreit›, ‹Inneres› und ‹Äußeres›, ‹Materie› und ‹Form›) zusammen, die ihm als die allgemeinsten und grundsätzlich verbindlichen Gesichtspunkte der Reflexion, d.h. – in einem in der vorkantischen Fachsprache schon vorgeprägten Sinn dieses Wortes <sup class=\"fn\" data-fn=\"0-1\">1</sup> – der vergleichenden Betrachtung, der Beziehungs- und Kontrastbestimmung von Vorstellungsinhalten gelten <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die R. weisen zwar auf dieselbe Gesetzlichkeit und Gesetzgebung des Verstandes zurück, die auch in den Kategorien sich bekundet; von diesen sind sie gleichwohl insofern sorgfältig zu unterscheiden, als sie keine konstitutive Funktion für die Erkenntnis, d.h. für den Objekt- und Objektivitätscharakter der in ihr sich darstellenden Objekte haben. Sie sind nicht «Begriffe der Verknüpfung und dadurch des Objects selbst», sondern Begriffe «der bloßen Vergleichung schon gegebener Begriffe» <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Das Thema der R. erörtert Kant in der KrV vornehmlich in Rücksicht auf die Gefahr ihrer transzendentalen Amphibolie: Die Amphibolie, d.h. die Mißdeutung der R. ist ein exemplarischer Fall von «Verwechselung des reinen Verstandesobjects mit der Erscheinung» <sup class=\"fn\" data-fn=\"0-4\">4</sup> und von ontologischem Mißbrauch logischer Gesichtspunkte. Sie läßt außer Betracht, daß der Sinn und Anwendungsbereich der R. durch den Bezug der Erkenntnis auf Anschauung, auf raumzeitlich Gegebenes festgelegt ist, daß z.B. Einerleiheit und Verschiedenheit von Gegenständen nicht allein in Hinsicht auf ihren begrifflichen Inhalt, sondern nur in zusätzlicher Rücksicht auf ihre raumzeitliche Position ausgesagt werden dürfen. Vor der transzendentalen Amphibolie – sie steht im Zentrum der Kantschen Leibniz-Kritik – bewahrt die transzendentale Reflexion, als deren systematisches Resultat Kant die transzendentale Topik postuliert. In freilich sehr lockerer Analogie zur Amphibolie der R. in der theoretischen Philosophie wird in der ‹Metaphysik der Sitten› eine «Amphibolie der moralischen R.» konzipiert, die darin besteht, daß «das, was Pflicht des Menschen gegen sich selbst ist, für Pflicht gegen Andere» gehalten wird <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Im Kantschen Nachlaß wird die scharfe Trennung von ‹Kategorie› und ‹Reflexionsbegriff› nicht immer durchgehalten <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In der neueren Literatur steht der Ausdruck ‹Reflexionsbegriff› nicht selten außerhalb seines ursprünglich transzendentalphilosophischen Bezugsfeldes, etwa, wenn er für die Auslegung der aristotelischen Prinzipien in Anspruch genommen wird <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Zwar in historischer Reminiszenz an Kant, gleichwohl im gänzlich eigenständigen Geist der «Wissenschaft der Logik» konzipiert G. W. F. HEGEL seine «Reflexionsbestimmungen»: Die Reflexion, als deren Bestimmungen im einzelnen Identität, Unterschied, Widerspruch und Grund (als «aufgehobene Bestimmung») genannt werden, gilt ihm nicht als Bewußtseinstätigkeit, sondern als in der Sache selbst, im Wesen des Wesens liegende Reflexivität, d.h. Spiegelung im Anderssein. Die Reflexionsbestimmung ist «Beziehung auf ihr Andersseyn an ihr selbst», ist Bestimmung, die ihr Bestimmtsein gegen anderes in sich selbst reflektiert und «aufhebt» <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">O. DÖRING: Der Anhang zum analyt. Teile der KrV über die Amphibolie der R. Diss. Leipzig (1904). – E. ZILSEL: Bem. zur Abfassungszeit und Methode der Amphibolie der R. Arch. Gesch. Philos. 26 (1913) 431–448. – N. HARTMANN: Die Philos. des dtsch. Idealismus II: Hegel (1929, <sup>2</sup>1960) 437ff. F. INCIARTE: Die Reflexionsbestimmungen im dialekt. Denken. Diss. Köln (1957). – R. WALTER: R. Gedanken zu einer schwierigen Begriffsgattung und zu einem unausgeführten Lehrstück der KrV. Philosophia nat. 19 (1982) 125–150.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. CH. WOLFF: Vern. Ged. von Gott (1720) §§ 272. 733; H. S. REIMARUS: Die Vernunftlehre (<sup>3</sup>1766) § 12, ND, hg. F. LÖTZSCH (1979) 2, 7.</li>\n<li id=\"fn0-2\" value=\"2\">I. KANT: KrV A 260ff./B 316ff.</li>\n<li id=\"fn0-3\" value=\"3\">Proleg. (1783) § 39. Akad.-A. 4, 326.</li>\n<li id=\"fn0-4\" value=\"4\">KrV A 270/B 326.</li>\n<li id=\"fn0-5\" value=\"5\">Metaph. der Sitten (1797). Tugendlehre § 16. Akad.-A. 6, 442.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. R. EISLER: Kant-Lex. (1930, ND 1964) 295: ‹Kategorie›.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. W. WIELAND: Die aristot. Physik (1962) 202ff.</li>\n<li id=\"fn0-8\" value=\"8\">G. W. F. HEGEL: Wiss. der Logik. 1. Bd.: Die objektive Logik (1812/13), hg. F. HOGEMANN/W. JAESCHKE. Akad.-A. 11 (1978) 244–257, zit.: 257.</li>\n</ol>",
+ "prev":{"id":2634,"lemma":"Reflexion","band":"8","col":396},
+ "next":{"id":2636,"lemma":"Reflexionsphilosophie","band":"8","col":407},
+ "backlinks":[{"id":2634,"lemma":"Reflexion","n":1},{"id":3204,"lemma":"Topik, transzendentale","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Amphibolie, transzendentale","qualifier":"","band":null,"col":null},
+  {"term":"Einstimmung/Widerstreit","qualifier":"","band":null,"col":null},
+  {"term":"Form/Materie","qualifier":"","band":null,"col":null},
+  {"term":"Inneres/Äusseres","qualifier":"","band":null,"col":null},
+  {"term":"Kategorienfehler","qualifier":"","band":"8","col":"406"},
+  {"term":"Materie/Form","qualifier":"","band":null,"col":null},
+  {"term":"Reflexion, transzendentale","qualifier":"","band":"8","col":"406"},
+  {"term":"Reflexionsbestimmungen","qualifier":"","band":"8","col":"406"},
+  {"term":"Vergleichungsbegriffe","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":227,"name":"H. S. Reimarus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":524,"name":"R. Eisler","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":841,"name":"W. Wieland","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19,"name":"N. Hartmann","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":3263,"name":"R. Walter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3314,"name":"K. Döring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3247,"name":"E. Zilsel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8008,"name":"F. Inciarte","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":616,"name":"W. Jaeschke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4251,"name":"F. Hogemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":5340,"name":"F. Lötzsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2334,"lemma":"Pflicht","tf":2},
+  {"id":3430,"lemma":"Verschiedenheit","tf":2},
+  {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2},
+  {"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Reflexionsbegriffe"}],
+ "reg_authors":[{"name":"Halbfass Wilhelm","n":32}]
+}
+);

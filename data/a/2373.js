@@ -1,0 +1,86 @@
+HWPH.put("a/2373",
+{
+ "id":2373,
+ "lemma":"Physiologie",
+ "band":"7",
+ "kind":"article",
+ "col_from":964,
+ "col_to":967,
+ "pdf_from":27590,
+ "pdf_to":27597,
+ "authors":["K. E. Rothschuh"],
+ "n_notes":25,
+ "n_chars":8729,
+ "toc":[
+  ["p1","2. Mit GALEN (2. Jh. n.Chr.) wird die Ph. in die Medizin einbezogen als «",3],
+  ["h5","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Physiologie. 1. Das griechische Wort φυσιολογία bedeutet zunächst im weitesten Sinne ‘Naturlehreʼ und wird so von ARISTOTELES – wenn auch nur einmal – verwendet <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die Vorsokratiker bezeichnet er als Physiologen (φυσιολόγοι), was hier gleichbedeutend mit ‘Philosophenʼ ist, insofern die von diesen Weisen erforschte Natur das Sein insgesamt umfaßt <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Je nach dem, wie weit oder wie eng der Begriff der Physis in den verschiedenen antiken Philosophenschulen gefaßt ist, kann Ph., wie in der peripatetischen Tradition, zusammen mit Mathematik und Theologie zur theoretischen Philosophie gehören <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die Ph. war dabei der Theologie so nahe, daß es heißen konnte: «Immer, wenn Aristoteles theologisiert, betreibt er eigentlich Ph., während Platon eigentlich immer Theologie betreibt, wenn er physiologisiert» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Oder die Ph. kann, wie bei EPIKUR, als Ursachenforschung der Natur insgesamt für den Bereich stehen, der sonst in der Antike mit ‘Theologieʼ oder im modernen Vokabular als ‘spekulative Metaphysikʼ bezeichnet wird <sup class=\"fn\" data-fn=\"0-5\">5</sup>. In diesem Sinne unterscheidet Epikur die Ph. von der naturwissenschaftliche Einzelbeobachtung (ἱστορία) und erklärt, daß sie zum Glück notwendig ist: «Wenn uns nicht ungute Gefühle über die Himmelserscheinungen und über den Tod beschlichen, daß es uns vielleicht irgendetwas angehen könnte, und <span class=\"col\" data-col=\"965\"></span> wenn nicht noch unsere Unkenntnis der Grenzen von Schmerzen und Begierden wäre, so brauchten wir keine Ph.» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Obwohl in der Neuzeit ‹Ph.› auf eine sehr viel engere Bedeutung eingeschränkt wird, kommt doch die ursprüngliche, weite Verwendung noch einmal bei KANT zum Zuge, der in der ‹Architektonik der reinen Vernunft› die Metaphysik in «Transzendentalphilosophie» und «Ph. der reinen Vernunft» unterteilt («rationale Ph.»), die selbst wiederum transzendent (Kosmologie und Theologie) oder immanent («rationale Physik» und «rationale Psychologie») ist <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p id=\"p1\">2. Mit GALEN (2. Jh. n.Chr.) wird die Ph. in die <i>Medizin</i> einbezogen als «ein gewisser Teil jener [Wissenschaft], in dem wir von der Natur des Menschen handeln» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die anderen Teile sind «aitiologia, pathologia, diaeta, sanorum, semiotica, therapeutica». Die Bedeutung von Ph. als «Naturlehre» wird also bei Galen beibehalten und auf den menschlichen Bereich eingeschränkt. Das, was wir heute Ph. nennen, behandelt Galen in der Schrift ‹De usu partium corporis humani› (‹Von der Dienlichkeit der Teile des menschlichen Körpers›) <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Ph. ist aber für den Arzt auch die Theorie der menschlichen Gesundheit. Dieser Gegenstand wird, ohne daß das Wort ‹physiologia› benutzt wird, seit dem Mittelalter in der Lehre von den «7 res naturales» behandelt. Diese umfassen 1. elementa, 2. temperamenta (= «complexiones»), 3. humores, 4. membra (Anatomie), 5. virtutes (= facultates), 6. actiones (= «functiones oder operationes»), 7. spiritus. Erst bei J. FERNEL taucht in ‹De naturali parte medicinae› (1542) <sup class=\"fn\" data-fn=\"0-10\">10</sup> der galenische Begriff der Ph. wieder auf. In seiner umfassenderen ‹Medicina› (1554) wird jener 1. Teil des Buches, der die «res naturales» behandelt, mit dem Begriff «Physiologia» überschrieben <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Hier ist erstmals die Ph. eingeschränkt auf die Lehre vom (gesunden) menschlichen Organismus; sie umfaßt neben der Lehre vom anatomischen Bau und den Funktionen der Organe auch die Elementen- und Qualitätenlehre, die dem Gebiet der heutigen Physik und Chemie nahekommt. In Nachahmung der Ferneischen Abgrenzung wird der Stoff bei TH. ZWINGER († 1580) jetzt als ‹Physiologia medica› (1610) bezeichnet <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Nach diesen Vorbildern wird seitdem in den Schriften der Ärzte meist verfahren, z.B. bei J. W. WEDEL in seiner ‹Physiologia medica› (1680) <sup class=\"fn\" data-fn=\"0-13\">13</sup> oder bei J. G. BERGER in der ‹Physiologia› (1702) <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<p>Bei den Neoaristotelikern des 17. Jh. gibt es dagegen noch Schriften über «Physiologia», welche die ganze Naturlehre mit Bewegung, Ruhe, Sternen, Planeten, Elementen, Meteoren, Winden, Pflanzen, Tieren usw. behandeln, z.B. in des J. MAGIRUS († 1596) ‹Physiologiae peripateticae libri VI› (1629) <span class=\"col\" data-col=\"966\"></span> <sup class=\"fn\" data-fn=\"0-15\">15</sup> oder bei D. VOËT <sup class=\"fn\" data-fn=\"0-16\">16</sup> in Utrecht. Die Mediziner meinen, wenn sie von Ph. sprechen, die Anatomie und Ph. des Menschen.</p>\n<p>Allmählich engt sich das Gebiet noch weiter ein bis auf eine Funktionenlehre des Organismus unter Zurücktreten der Anatomie, z.B. in den ‹Institutiones medicae› (1708) des H. BOERHAAVE († 1738) <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Auch die Psychologie, die bei Fernel noch dazugehörte, tritt jetzt in den Hintergrund. A. VON HALLER († 1777) sagt in seinem Studentenbuch ‹Primae lineae physiologicae› (1747): «physiologia id est animata anatome» («belebte Anatomie», d.h. eine Erklärung der Lebenstätigkeit aus dem Bau der Organe) <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Im Vordergrundsteht die Schilderung der Funktionen, aber sie ist abgeleitet aus dem anatomischen Detail. Es entfällt die ‘deskriptiveʼ Anatomie. Die Ph. bei S. SCHAARSCHMIDT <sup class=\"fn\" data-fn=\"0-19\">19</sup> (1751) ist eine Abhandlung über die Vorgänge im gesunden menschlichen Körper.</p>\n<p>Die naturphilosophischen Ärzte im Gefolge von SCHELLING fordern von der Ph. den Entwurf einer ideellen Ordnung der Lebensleistungen. So grenzt PH. F. VON WALTHER ab: Ph. als die Wissenschaft von der Idee des Lebens und von der Manifestation an dem lebenden Organismus <sup class=\"fn\" data-fn=\"0-20\">20</sup>. Dagegen schränkt die naturwissenschaftliche Richtung des 19. Jh. den Gegenstand der Ph. auf die physikalisch-chemische Erklärung der Lebensvorgänge ein. So heißt es bei C. LUDWIG: «Die wissenschaftliche Ph. hat die Aufgabe, die Leistungen des Thierleibes festzustellen und sie aus den elementaren Bedingungen desselben mit Nothwendigkeit herzuleiten» <sup class=\"fn\" data-fn=\"0-21\">21</sup>. C. BERNARD definiert: «La physiologie expérimentale est une science autonome. Elle est la physique et la chimie des vivantes. Elle doit conquérir la nature vivante» <sup class=\"fn\" data-fn=\"0-22\">22</sup>. Damals wurde in Frankreich der Begriff der Ph., weit über das Medizinische hinaus, zur Bezeichnung eines eigengesetzlichen natürlichen ‘Bereichsʼ gebraucht, z.B. in ‹Physiologie du mariage› (1824/26) von H. de BALZAC oder im «roman expérimental», wo es um Anlage und Milieu als die naturgesetzlichen Grenzen der Entfaltung des Menschen geht <sup class=\"fn\" data-fn=\"0-23\">23</sup>. Die programmatische Beschränkung auf die Beschäftigung mit den Kausalgesetzen, nach denen die Funktionen ablaufen, steht auch heute noch in der zeitgenössischen Ph. ganz betont im Vordergrund: «Aufgabe der Ph. ist es, den Ablauf der Lebenserscheinungen festzustellen, ihre Gesetzmäßigkeiten zu bestimmen und sie auf die allgemeinen Grundgesetze der Physik und Chemie zurückzuführen» <sup class=\"fn\" data-fn=\"0-24\">24</sup>. Sie behandelt fast ausschließlich das prozessuale Geschehen, also vornehmlich die biotechnische Seite des Organismus <sup class=\"fn\" data-fn=\"0-25\">25</sup>. <span class=\"col\" data-col=\"967\"></span></p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">CH. SHERRINGTON: The endeavour of Jean Fernel (Cambridge 1946). – K. E. ROTHSCHUH: Gesch. der Ph. (1953); Der Begriff der ‹Ph.› und sein Bedeut.wandel in der Gesch. der Wiss. Arch. int. Hist. Sci. 12 (1957) 217–255; Das System der Ph. von Jean Fernel (1542) und seine Wurzeln, in: Verh. XIX. Int. Kongr. Gesch. der Med. (Basel 1964) 529–536.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"966\"></span> ARISTOTELES: De sensu et sensato 442 b 25.</li>\n<li id=\"fn0-2\" value=\"2\">Met. A 5, 986 b 14; Eth. Eud. 1235 a 9 u.ö.; vgl. Art. <a class=\"xref\" href=\"#/a/2074\">→ Natur</a>, in: Hist. Wb. Philos. 6 (1984) 422ff.; <a class=\"xref\" href=\"#/a/2088\">→ Naturphilosophie</a>, a.O. 535ff.</li>\n<li id=\"fn0-3\" value=\"3\">DAVID: Prol., hg. A. BUSSE. CAG XVIII/2 (1904) 5, 8ff.</li>\n<li id=\"fn0-4\" value=\"4\">ELIAS: In Porphyrii Isag., hg. A. BUSSE. CAG XVIII/1 (1900) 120, 31.</li>\n<li id=\"fn0-5\" value=\"5\">EPIKUR: Br. an Herod. 1, 78.</li>\n<li id=\"fn0-6\" value=\"6\">Ratae sent. 11; vgl. Br. an Herod. 1, 79.</li>\n<li id=\"fn0-7\" value=\"7\">I. KANT: KrV A 845; zur Ph. innerhalb der Philos. vgl. Art. <a class=\"xref\" href=\"#/a/2353\">→ Philosophie IV. F.</a></li>\n<li id=\"fn0-8\" value=\"8\">GALEN: Introd. seu Medicus. Opera omn., hg. C. G. KÜHN (1827, ND 1965) 14, 689.</li>\n<li id=\"fn0-9\" value=\"9\">De usu partium ..., a.O. 3; Übers. und Komm.: On the usefulness of the parts of the body, hg. M. TALLAMDGE MAY (Ithaca, N.Y. 1968).</li>\n<li id=\"fn0-10\" value=\"10\">J. FERNEL AMBIAN.: De nat. parte med. lib. VII, Praef. (Paris 1542) 3.</li>\n<li id=\"fn0-11\" value=\"11\">Medicina (Paris 1554).</li>\n<li id=\"fn0-12\" value=\"12\">TH. ZWINGER: Physiol. med., eleganti ordine conscr. (Basel 1610).</li>\n<li id=\"fn0-13\" value=\"13\">G. W. WEDEL: Physiol. med., quatuor sect. distincta (1680).</li>\n<li id=\"fn0-14\" value=\"14\">J. G. de BERGER: Physiol. med. sive de natura humana, über bipartitus (1702).</li>\n<li id=\"fn0-15\" value=\"15\">J. MAGIRUS: Physiologiae peripateticae lib. VI (Genf 1629).</li>\n<li id=\"fn0-16\" value=\"16\">D. VOËT: Physiologia sive de natura rerum lib. VI, ed. III (1688).</li>\n<li id=\"fn0-17\" value=\"17\">H. BOERHAAVE: Institut. medicae in usus annuae exercitationes domest. (Leiden 1708).</li>\n<li id=\"fn0-18\" value=\"18\">A. VON HALLER: Primae lin. physiol. in usum praelectionum acad. (1747) Praef.</li>\n<li id=\"fn0-19\" value=\"19\">S. SCHAARSCHMIDT: Physiologia, das ist die Betrachtung der Veränderungen des menschl. Körpers in dem gesunden Zustande, mit Zusätzen vermehrt von NICOLAI (1751).</li>\n<li id=\"fn0-20\" value=\"20\">PH. F. VON WALTHER: Ph. des Menschen mit durchgängiger Rücksicht auf die comparat. Ph. der Thiere 1. 2 (1807/08) 1.</li>\n<li id=\"fn0-21\" value=\"21\">C. LUDWIG: Lehrb. der Ph. des Menschen 1. 2 (1852/56) 1, 2.</li>\n<li id=\"fn0-22\" value=\"22\">C. BERNARD: Principes de méd. expérim. (1867), publ. par le Dr. DELHOUME (Paris 1947) 89.</li>\n<li id=\"fn0-23\" value=\"23\">Vgl. R. VIRTANEN: Claude Bernard et le roman expérim., in: Philos. et méthodol. scientif. de C. B. Coll. int. (Paris 1967) 49ff. <span class=\"col\" data-col=\"967\"></span></li>\n<li id=\"fn0-24\" value=\"24\">L. LANDOIS/R. ROSEMANN: Ph. des Menschen (1950) 1.</li>\n<li id=\"fn0-25\" value=\"25\">K. E. ROTHSCHUH: Theoret. Biologie und Medizin (1936).</li>\n</ol>",
+ "prev":{"id":2372,"lemma":"Physiokratie, Physiokratismus","band":"7","col":963},
+ "next":{"id":2374,"lemma":"Physis/Nomos, Physis/Thesis","band":"7","col":967},
+ "backlinks":[],
+ "outlinks":[
+  {"id":2074,"lemma":"Natur","n":1},
+  {"id":2088,"lemma":"Naturphilosophie","n":1},
+  {"id":2353,"lemma":"Philosophie","n":1}
+ ],
+ "register":[{"term":"Physiologie der reinen Vernunft","qualifier":"","band":"7","col":"965"}],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":117,"name":"Epikur","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":126,"name":"Galen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":787,"name":"P. L. Berger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1155,"name":"A. von Haller","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1366,"name":"C. Bernard","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1989,"name":"H. Boerhaave","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4612,"name":"Ch. G. Ludwig","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6921,"name":"Th. Zwinger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":12345,"name":"G. W. Wedel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12346,"name":"S. Schaarschmidt","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16517,"name":"J. Magirus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16518,"name":"Ph. F. von Walther","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":598,"name":"K. E. Rothschuh","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":802,"name":"N. Elias","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2416,"name":"David","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1959,"name":"J. Fernel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3176,"name":"H. de Balzac","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":13638,"name":"Nicolai","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":16305,"name":"H. Rosemann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26283,"name":"Fernel Ambian.","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26284,"name":"Delhoume","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26285,"name":"R. Virtanen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26286,"name":"L. Landois","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1562,"name":"C. S. Sherrington","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1129,"name":"A. Busse. Cag","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":462,"name":"C. G. Kühn","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":26282,"name":"M. Tallamdge May","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2243,"lemma":"Organismus","tf":4},
+  {"id":3169,"lemma":"Theologie","tf":5},
+  {"id":2368,"lemma":"Physik","tf":3},
+  {"id":1906,"lemma":"Medizin, Heilkunst, Medizinphilosophie","tf":2},
+  {"id":2239,"lemma":"Organ","tf":2},
+  {"id":2781,"lemma":"Schrift","tf":3},
+  {"id":1184,"lemma":"Grenze","tf":2},
+  {"id":2511,"lemma":"Psychologie","tf":2},
+  {"id":801,"lemma":"Erklären, Erklärung","tf":2},
+  {"id":1944,"lemma":"Metaphysik","tf":2},
+  {"id":1769,"lemma":"Leib, Körper","tf":2},
+  {"id":3635,"lemma":"Wissenschaft","tf":2}
+ ],
+ "see_also":[
+  {"id":1906,"lemma":"Medizin, Heilkunst, Medizinphilosophie"},
+  {"id":2517,"lemma":"Psychologie, objektive"}
+ ],
+ "groups":[
+  {"id":7,"name":"Disziplinen und Fächer","label":"Physiologie"},
+  {"id":25,"name":"Medizin","label":"Physiologie"},
+  {"id":28,"name":"Naturphilosophie","label":"Physiologie"}
+ ],
+ "reg_authors":[{"name":"Rothschuh Karl E","n":6}]
+}
+);

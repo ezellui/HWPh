@@ -1,0 +1,57 @@
+HWPH.put("a/3431",
+{
+ "id":3431,
+ "lemma":"Verschrobenheit",
+ "band":"11",
+ "kind":"article",
+ "col_from":885,
+ "col_to":886,
+ "pdf_from":47275,
+ "pdf_to":47279,
+ "authors":["H. Hühn"],
+ "n_notes":14,
+ "n_chars":5350,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Verschrobenheit. Die seit dem 18. Jh. im Deutschen gebrauchten Ausdrücke ‹verschroben› (etymol. ‘falsch eingeschraubtʼ, ‘verdrehtʼ) und ‹V.› <sup class=\"fn\" data-fn=\"0-1\">1</sup> gehören gegen Ende des 19. Jh. zum Deskriptionsvokabular der <i>Psychopathologie.</i> J. L. A. KOCH deutet die V. als diagnostisches Merkmal einer angeborenen «psychopathischen Minderwertigkeit», die einen Menschen «jedermann sofort als anders denn gewöhnliche Menschen, als verdreht, geziert, geschraubt ... erscheinen» läßt <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Besonders seit K. BIRNBAUM wird der Ausdruck in der deutschsprachigen Psychopathologie des 20. Jh. terminologisch. Unter der Bezeichnung «degenerativ Verschrobene» versteht Birnbaum psychopathische Persönlichkeiten, «die ohne weiteres durch das paranoide Gepräge ihres Wesens auffallen» und deren «ausgeprägtere geistige Aeusserungen den Stempel des Schiefen, Einseitigen, Uebertriebenen» bekommen, «das Gesamtbild jene ungleichmässige und unharmonische Zusammensetzung, wie sie eben am treffendsten als ‘V.ʼ gekennzeichnet wird» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Den Blick auf Phänomene eines «verschrobenen Fanatismus» («die unbeirrbare und affektvolle Vertretung von Ideen, die mit denen der Allgemeinheit und mit der bestehenden Ordnung unvereinbar sind»), der Bezüge auch zum «Querulantentum» aufweist, richtet nach dem Ersten Weltkrieg G. STERTZ <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Unter <span class=\"col\" data-col=\"886\"></span> Rückgriff auf Birnbaum faßt E. KRAEPELIN die Verschrobenen als eine «Gruppe von Psychopathen», die durch «das Fehlen der inneren Einheitlichkeit und Folgerichtigkeit in ihrem Seelenleben» gekennzeichnet sind, «deren klinische Deutung und Umgrenzung» aber «noch recht zweifelhaft ist» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die Charakterisierung Kraepelins übernehmend, stellt E. BLEULER «schiefe Auffassungen der Verhältnisse, schiefe logische Operationen, sonderbare Ansichten und oft auch Ausdrucksweisen» heraus <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>L. BINSWANGER, der Begründer der <a class=\"xref\" href=\"#/a/528\">Daseinsanalyse</a> <span class=\"sd\">→ (s.d.)</span>, löst die Rede von der V. zunächst aus dem «Rahmen der Psychopathologie und psychiatrischen Klinik überhaupt und der Schizoidie und Schizophrenie im Speziellen» <sup class=\"fn\" data-fn=\"0-7\">7</sup> heraus und weist die biologischen Werturteile der Forschung zurück. Im Anschluß besonders an M. HEIDEGGERS existenziale Analytik des Daseins in ‹Sein und Zeit› versucht BINSWANGER, die besondere Erfahrungskonstitution, die zu der Daseinsverfassung des Verschrobenen gehört, aus der eigentümlichen Weise seines «In-der-Welt-seins» <sup class=\"fn\" data-fn=\"0-8\">8</sup> aufzuklären. Er begreift die V. wie die von ihr abgehobenen Gestalten der «Verstiegenheit» und «Manieriertheit» daseinsanalytisch-phänomenologisch als «allgemein-menschliche, d.h. dem menschlichen Dasein immanente Bedrohungen» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. An die Begrifflichkeit von W. SZILASIS Interpretation der klassischen griechischen Philosophie der Eudaimonie anknüpfend <sup class=\"fn\" data-fn=\"0-10\">10</sup>, faßt BINSWANGER sie als «Weisen des Mißglückens oder Mißlingens des menschlichen Daseins» im Sinne eines je spezifischen «‘An-ein-Ende-gelangensʼ oder ‘Steckenbleibensʼ seiner eigentlichen geschichtlichen Bewegtheit» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Scheitert der Prozeß menschlichen Selbstwerdens im Falle der Verstiegenheit daran, «daß das Dasein höher steigt als es seiner Weite, seinem Erfahrungs- und Verstehenshorizont entspricht» <sup class=\"fn\" data-fn=\"0-12\">12</sup>, so bleibt es im Falle der V. «stecken in der Verfallenheit an die jeweilige Du-ferne ‘Querverbindungʼ, Querköpfigkeit oder Schiefgewickeltheit» <sup class=\"fn\" data-fn=\"0-13\">13</sup>, ein Zustand, der als «Vorstufe zur schizophrenen ‘Erstarrungʼ» gefaßt wird. Über Heideggers Daseins- auf Kierkegaards Verzweiflungsanalyse zurückgehend, sieht Binswanger im Falle der Spaltungsphänomene der Manieriertheit das «angsterfüllte, verzweifelte Nicht-Selbstseinkönnen, ineins mit der Haltsuche an einem Vor-Bild aus der Öffentlichkeit des Man und der Überbetonung dieses Vor-Bildes zur Verdeckung der Heimatlosigkeit, Weltunsicherheit und Bedrohtheit der Existenz» <sup class=\"fn\" data-fn=\"0-14\">14</sup> als wesentlich an.</p>\n<p>Dadurch, daß Binswanger, auch mittels des problematischen Rückgriffs auf Heideggers existenziale Analytik des Daseins, eine normative Psychopathologie zu fundieren versucht, bleiben auch bei seiner Neuformulierung des Begriffs der V. dessen gesellschaftlich-kulturelle Implikationen weitgehend verdeckt, die erst die vergleichende transkulturelle Psychiatrie reflektiert.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">W. BLANKENBURG: Art. ‹V.›, in: CH. MÜLLER (Hg.): Lex. der Psychiatrie (<sup>2</sup>1986) 712.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"886\"></span> Vgl. Art. ‹verschroben› und ‹V.›. GRIMM 12/I (1956) 1164f.; zur Etymologie: Art. ‹verschroben›, in: F. KLUGE (Hg.): Etymol. Wb. der dtsch. Sprache (<sup>22</sup>1989) 762.</li>\n<li id=\"fn0-2\" value=\"2\">J. L. A. KOCH: Die psychopath. Minderwertigkeiten 1 (1891) 29–31, hier: 29; vgl. die Beschreibung der Paranoesie durch CH. DIECKHOFF: Die Psychosen bei psychopath. Minderwerthigen. Allgem. Z. Psychiat. psychiatrisch-gerichtl. Medicin 655 (1898) 215–250, hier: 245f.</li>\n<li id=\"fn0-3\" value=\"3\">K. BIRNBAUM: Ueber degenerativ Verschrobene. Mschr. Psychiat. Neurol. 55 (1907) 308–320, hier: 308. 313.</li>\n<li id=\"fn0-4\" value=\"4\">G. STERTZ: Verschrobene Fanatiker. Berliner Klin. Wschr. 56 (1919) 586–588, hier: 587.</li>\n<li id=\"fn0-5\" value=\"5\">E. KRAEPELIN: Psychiatrie IV/3 (<sup>8</sup>1915) 2039.</li>\n<li id=\"fn0-6\" value=\"6\">E. BLEULER: Lehrb. der Psychiatrie (<sup>6</sup>1937) 396; vgl. K. SCHNEIDER: Die psychopath. Persönlichkeiten (<sup>4</sup>1940) 79.</li>\n<li id=\"fn0-7\" value=\"7\">L. BINSWANGER: Drei Formen missglückten Daseins. Verstiegenheit, V., Manieriertheit (1956) 91.</li>\n<li id=\"fn0-8\" value=\"8\">a.O. 12; vgl. die Konzeption der «Weltpsychologie», in: K. JASPERS: Allg. Psychopathologie (1913, <sup>4</sup>1946) 230ff.; Strindberg und van Gogh (Bern 1922) 123f.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. X.</li>\n<li id=\"fn0-10\" value=\"10\">W. SZILASI: Macht und Ohnmacht des Geistes (Bern 1946) 19ff. 107ff. 305.</li>\n<li id=\"fn0-11\" value=\"11\">BINSWANGER, a.O. [7] 189; vgl. a.O. X. 92.</li>\n<li id=\"fn0-12\" value=\"12\">a.O. 3.</li>\n<li id=\"fn0-13\" value=\"13\">189.</li>\n<li id=\"fn0-14\" value=\"14\">XIf.</li>\n</ol>",
+ "prev":{"id":3430,"lemma":"Verschiedenheit","band":"11","col":879},
+ "next":{"id":3432,"lemma":"Versenken","band":"11","col":887},
+ "backlinks":[],
+ "outlinks":[{"id":528,"lemma":"Daseinsanalyse","n":1}],
+ "register":[
+  {"term":"Fanatismus, verschrobener","qualifier":"","band":"11","col":"885"},
+  {"term":"In-der-Welt-sein","qualifier":"","band":"11","col":"886"},
+  {"term":"Manieriertheit","qualifier":"","band":"11","col":"886"},
+  {"term":"Minderwertigkeit","qualifier":"","band":"11","col":"885"},
+  {"term":"Querköpfigkeit","qualifier":"","band":"11","col":"886"},
+  {"term":"Querulantentum","qualifier":"","band":"11","col":"885"},
+  {"term":"Verstiegenheit","qualifier":"","band":"11","col":"886"}
+ ],
+ "persons":[
+  {"id":408,"name":"L. Binswanger","b":3,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":222,"name":"J. Koch","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":622,"name":"E. Bleuler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":780,"name":"E. Kraepelin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1912,"name":"W. Szilasi","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3973,"name":"K. Birnbaum","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":18529,"name":"G. Stertz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13,"name":"M. Heidegger","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":44,"name":"K. Jaspers","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":822,"name":"F. Kluge","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1163,"name":"K. Schneider","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":32238,"name":"Ch. Dieckhoff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2013,"name":"W. Blankenburg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2526,"lemma":"Psychopathologie","tf":4},
+  {"id":129,"lemma":"Analytik des Daseins","tf":2},
+  {"id":527,"lemma":"Dasein","tf":5},
+  {"id":128,"lemma":"Analytik","tf":2},
+  {"id":890,"lemma":"Fall, Abfall","tf":3}
+ ],
+ "see_also":[{"id":528,"lemma":"Daseinsanalyse"}],
+ "groups":[{"id":2,"name":"Anthropologie","label":"Verschrobenheit"}],
+ "reg_authors":[{"name":"Hühn Helmut","n":51}]
+}
+);

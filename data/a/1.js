@@ -1,0 +1,27 @@
+HWPH.put("a/1",
+{
+ "id":1,
+ "lemma":"Historisches Wörterbuch der Philosophie",
+ "band":"0*",
+ "kind":"front",
+ "col_from":1,
+ "col_to":1,
+ "pdf_from":87,
+ "pdf_to":90,
+ "authors":[],
+ "n_notes":0,
+ "n_chars":2840,
+ "toc":[],
+ "html":"<p>Unter Mitwirkung von mehr als 1500 Fachgelehrten</p>\n<p>in Verbindung mit Günther Bien, Tilman Borsche, Ulrich</p>\n<p>Dierse, Wilhelm Goerdt, Oskar Graefe, Wolfgang Hübener,</p>\n<p>Anton Hügli, Helmut Hühn, Friedrich Kambartel, Friedrich</p>\n<p>Kaulbach, Theo Kobusch, Ralf Konersmann, Margarita</p>\n<p>Kranz, Hermann Lübbe, Odo Marquard, Reinhart Maurer,</p>\n<p>Stephan Meier-Oeser, Friedrich Niewöhner, Ludger</p>\n<p>Oeing-Hanhoff, Willi Oelmüller, Thomas Rentsch, Kurt</p>\n<p>Röttgers, Eckart Scheerer, Heinrich Schepers, Gunter</p>\n<p>Scholtz, Winfried Schröder, Martin Seils, Robert Spaemann</p>\n<p>herausgegeben von</p>\n<p>Joachim Ritter, Karlfried Gründer</p>\n<p>und Gottfried Gabriel</p>\n<p>Völlig neubearbeitete Ausgabe</p>\n<p>des ‹Wörterbuchs der Philosophischen Begriffe›</p>\n<p>von Rudolf Eisler</p>\n<p>Bände 1 bis 13</p>\n<p>Schwabe Verlag • Basel 1971–2007</p>\n<p>und Lizenzausgabe für die Wissenschaftliche</p>\n<p>Buchgesellschaft, Darmstadt Unter Verantwortung der Akademie der Wissenschaften und der Literatur • Mainz gefördert mit Mitteln des Bundesministeriums für Bildung und Forschung, Bonn und des Senators für Wissenschaft, Forschung und Kultur des Landes Berlin (Bände 6–13). Mit Unterstützung durch die Deutsche Forschungsgemeinschaft und die Akademie der Wissenschaften und der Literatur zu Mainz (Band 5) Lektorat im Verlag: Jakob Lanz (Bände 1–6)</p>\n<p>Walter Tinner (Bände 7–13) Wissenschaftliche Mitarbeiter der Redaktionen in Berlin: Johannes Fritsche (1983–1984),</p>\n<p>Helmut Hühn (1998–2007),</p>\n<p>Margarita Kranz (1987–2007),</p>\n<p>Stefan Lorenz (1991–1993),</p>\n<p>Astrid von der Lühe (1993–1998),</p>\n<p>Winfried Schröder (1986–1993,</p>\n<p>Peter Stemmer (1981–1986) Bielefeld: Kurt Röttgers (1970–1980) Bochum: Ulrich Dierse (1970–1974),</p>\n<p>Ute Schönpflug (1966–1974),</p>\n<p>Gerheid Scheerer-Neumann (1974–1980) Gießen: Claus von Bormann (1970–1974),</p>\n<p>Winfried Franzen (1968–1969),</p>\n<p>Helmut Meinhardt (1967–1969),</p>\n<p>Peter Probst (1974–1980) Konstanz: Christine Badura (1969–1974),</p>\n<p>Christoph Demmerling (1989–1992),</p>\n<p>Gottfried Gabriel (1967–1981),</p>\n<p>Thomas Rentsch (1981–1985),</p>\n<p>Martin Wälde (1985–1988) München: Karl–Heinz Nusser (1972–1980) Münster: Ulrich Dierse (1967–1970),</p>\n<p>Norbert Herold (1973–1980),</p>\n<p>Anton Hügli (1977–1981),</p>\n<p>Rainer Kuhlen (1967–1974),</p>\n<p>Helmut G. Meier (1963–1968),</p>\n<p>Rainer Piepmeier (1973–1980),</p>\n<p>Rosemarie Pohlmann (1966–1969),</p>\n<p>Reinhard Romberg (1971–1973),</p>\n<p>Georg Schlünder (1969),</p>\n<p>Christa Seidel (1969–1970),</p>\n<p>Klaus–Peter Sternschulte (1970–1976),</p>\n<p>Matthias Wilden (1970) Oldenburg: Helmut Hildebrandt (1983–1992) Tübingen: Tilman Borsche (1975–1983),</p>\n<p>Margarita Kranz (1983–1987) Administrative Mitarbeiterinnen beim Verlag in Basel:</p>\n<p>Inge Gertisser (1968–1985),</p>\n<p>Gabriele Schachenmann (1985–1991),</p>\n<p>Adrienne Stehlin (1991–2007) in Münster: Gisela Steuer (1965–1966),</p>\n<p>Gerhild Adams–Hentschke (1968–1975),</p>\n<p>Jutta Siedler (1975–1979) in Berlin: Eva Simmank (1981–1996),</p>\n<p>Niki Livas (1996–1998),</p>\n<p>Jutta Bethke (1999–2007)</p>\n<p>Einführung</p>",
+ "prev":null,
+ "next":{"id":2,"lemma":"Vorwort [zu Band 1]","band":"1*","col":5},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

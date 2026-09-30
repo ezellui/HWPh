@@ -1,0 +1,27 @@
+HWPH.put("a/2664",
+{
+ "id":2664,
+ "lemma":"Reizsamkeit",
+ "band":"8",
+ "kind":"article",
+ "col_from":568,
+ "col_to":569,
+ "pdf_from":31957,
+ "pdf_to":31957,
+ "authors":["H. Abeler"],
+ "n_notes":4,
+ "n_chars":959,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Reizsamkeit. Der Terminus ‹R.› wurde vom Kulturhistoriker K. <span class=\"col\" data-col=\"569\"></span> LAMPRECHT eingeführt, um einen spezifischen «seelischen Habitus» und eine völlig neue «Form der sozialpsychischen Dissoziation» der zweiten Periode des Subjektivismus in Deutschland zu bezeichnen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die sie verursachende Reizflut – bedingt durch die wirtschaftlichen, sozialen und politischen Umwälzungen von 1848–1870/71 – führt zu einem «Prozeß der Neubildung» seelischer Dominanten, dem «Übergang zu dem Seelenleben der neuesten Zeit» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. So beinhaltet R. «die ins Schöpferische umgesetzte Fähigkeit bewußter Perzeption neuer, bis dahin wesentlich vorstellunglos gebliebener innerer Reizergebnisse» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die R. bildet die psychische Grundlage der naturalistischen und impressionistischen Kunst, der modernen Natur- und Geschichtswissenschaften und der sozialen Gesetzgebung <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">K. LAMPRECHT: Moderne Gesch.wiss. (1905) 56f.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 57ff.</li>\n<li id=\"fn0-3\" value=\"3\">Zur jüngsten dtsch. Vergangenheit 1 (<sup>3</sup>1920) 386.</li>\n<li id=\"fn0-4\" value=\"4\">a.O. [1] 58f. 65.</li>\n</ol>",
+ "prev":{"id":2663,"lemma":"Reizbarkeit","band":"8","col":567},
+ "next":{"id":2665,"lemma":"Rejektion","band":"8","col":569},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Reizflut","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":2044,"name":"K. Lamprecht","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Reizsamkeit"}],
+ "reg_authors":[{"name":"Abeler Helmut","n":4}]
+}
+);

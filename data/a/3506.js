@@ -1,0 +1,76 @@
+HWPH.put("a/3506",
+{
+ "id":3506,
+ "lemma":"Vorstellungsvorstellung",
+ "band":"11",
+ "kind":"article",
+ "col_from":1248,
+ "col_to":1250,
+ "pdf_from":48406,
+ "pdf_to":48411,
+ "authors":["W. Halbfass","G. Gabriel"],
+ "n_notes":17,
+ "n_chars":6508,
+ "toc":[
+  ["p1","1. Als «Vorstellung einer Vorstellung» , d.h. mittelbar gegenstandsbezoge",3],
+  ["p3","2. Prinzipielle Bedenken gegen die psychologische Möglichkeit von V.en er",3],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Vorstellungsvorstellung (Vorstellung einer Vorstellung; <span class=\"col\" data-col=\"1249\"></span> engl. ideas of ideas)</p>\n<p id=\"p1\">1. Als «Vorstellung einer Vorstellung» <sup class=\"fn\" data-fn=\"0-1\">1</sup>, d.h. mittelbar gegenstandsbezogenen Bewußtseinsakt, bezeichnet I. KANT das Urteil. Vorbereitet vor allem durch G. BERKELEY <sup class=\"fn\" data-fn=\"0-2\">2</sup> und D. HUME, in gewisser Weise schon durch N. MALEBRANCHE <sup class=\"fn\" data-fn=\"0-3\">3</sup>, wird die Frage nach der Möglichkeit von V.en, d.h. indirekten oder reflexiven Vorstellungen, die Vorstellungen zum Gegenstand oder Inhalt haben, einschlägig. Sie wird – explizit oder implizit – vor allem im Kontext naturalistischer und phänomenalistisch-positivistischer Bewußtseinstheorien relevant. «A question which, as far as I know, has been passed over by psychologists, but which ought not to be left unanswered», so J. S. MILL, «is this: Can we have ideas of ideas? We have sensations, and we have copies of these sensations, called ideas of them: can we also have copies of these copies, constituting a second order of ideas, two removes instead of one from sensation?» <sup class=\"fn\" data-fn=\"0-4\">4</sup> In Anschluß an Mill wie in Abhebung von Aristoteles <sup class=\"fn\" data-fn=\"0-5\">5</sup> zeigt sich für F. BRENTANO eine «eigentümliche Verwebung des Objekts der inneren Vorstellung mit dieser selbst», die als «Zugehörigkeit beider zu ein und demselben psychischen Akte» verstanden wird: Die innere Erfahrung scheine «unzweifelhaft zu zeigen», daß etwa «die Vorstellung des Tones mit der Vorstellung von der Vorstellung des Tones in so eigentümlich inniger Weise verbunden ist, daß sie, indem sie besteht, zugleich innerlich zum Sein der anderen beiträgt» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Sofern das Bewußtseinsleben als ein bloßes Gegebensein von Data oder ein Naturgeschehen im Felde des Psychischen verstanden wird und sofern Reflexivität und Intentionalität nicht als konstitutive Momente anerkannt werden, wird die vorstellende Thematisierung von Bewußtseinsinhalten grundsätzlich problematisch. Nicht selten wird die Vorstellbarkeit von Vorstellungen bzw. psychischen Vorkommnissen geleugnet und auf Weisen der Vorstellungswiederholung und Modifikationen der Gegebenheitsweise primärer Vorstellungsinhalte reduziert <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Von anderen Autoren wie H. EBBINGHAUS wird sie im Sinne der Möglichkeit «stellvertretender Vorstellungen» <sup class=\"fn\" data-fn=\"0-8\">8</sup> oder funktioneller Repräsentanten primärer Vorstellungen ausgelegt. Demgegenüber konzipiert z.B. P. F. LINKE Vorstellungen schlechthin als «Schachtelerlebnisse», die durch intentionalen Rückbezug auf wirkliches oder mögliches primäres (wahrnehmendes) Erleben von Inhalten konstituiert werden <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p id=\"p3\">2. Prinzipielle Bedenken gegen die <i>psychologische</i> Möglichkeit von V.en erhebt auch TH. ZIEHEN. Bereits die Selbstbeobachtung zeige, «daß der Versuch einer solchen Bildung von V.en absolut scheitert», weil wir über die Ausgangsvorstellung nicht hinauskommen <span class=\"col\" data-col=\"1250\"></span> <sup class=\"fn\" data-fn=\"1-1\">1</sup>. Allerdings verweist Ziehen in Anlehnung an A. MEINONGS <a class=\"xref\" href=\"#/a/1021\">Gegenstandstheorie</a> <span class=\"sd\">→ (s.d.)</span> auf den Fall, daß Vorstellungen höherer Ordnung durch Vorstellungen niederer Ordnung «fundiert» sein müssen; z.B. beziehe sich die Vorstellung der Verschiedenheit auf weitere Vorstellungen, zwischen denen Verschiedenheiten feststellbar sind <sup class=\"fn\" data-fn=\"1-2\">2</sup>. Für solche «fundierten Vorstellungen» lehnt er aber ebenso wie für «Allgemeinvorstellungen» die Ausdrucksweise «Vorstellungen von Vorstellungen» <sup class=\"fn\" data-fn=\"1-3\">3</sup> als irreführend ab. Berechtigt sind diese Einwände, sofern der Ausdruck ‹Vorstellung von einer Vorstellung› ausschließlich im Sinne einer selbstbezüglichen Iteration verstanden wird.</p>\n<p>Eine andere Deutung findet sich in der <i>logischen</i> Tradition. «V.» oder «Vorstellung von einer Vorstellung» nennt B. BOLZANO eine Vorstellung, die eine Beschaffenheit von Vorstellungen, wie z.B. deren Einfachheit oder Zusammengesetztheit, zum Inhalt hat <sup class=\"fn\" data-fn=\"1-4\">4</sup>. V.en bestimmen demnach unterschiedliche «Vorstellungsarten», wobei ‹Vorstellung› hier im Sinne von «Vorstellung an sich» <a class=\"xref\" href=\"#/a/3504\">→</a> (s.d.) zu verstehen ist. Eine besondere Vorstellungsart bilden nach Bolzano auch die «gegenständlichen» Vorstellungen. Die Vorstellung der Gegenständlichkeit einer Vorstellung <i>A</i> beinhaltet, daß es (mindestens) einen Gegenstand gibt, der der Vorstellung <i>A</i> entspricht <sup class=\"fn\" data-fn=\"1-5\">5</sup>. Mit dieser Auffassung wird Bolzano zum Vorläufer der modernen, von G. FREGE begründeten, quantorenlogischen Deutung der <a class=\"xref\" href=\"#/a/865\">Existenzaussage</a> <span class=\"sd\">→ (s.d.)</span>. Danach sind Existenzaussagen nicht Aussagen von Gegenständen, sondern von Begriffen. Der Begriff der Existenz selbst ist demgemäß ein Begriff (zweiter Stufe) von Begriffen (erster Stufe), die ihrerseits Begriffe von Gegenständen sind <sup class=\"fn\" data-fn=\"1-6\">6</sup>.</p>\n<p>Im logischen Sinne bringt eine V. – verstanden als eine Vorstellung (oder ein Begriff) <i>A</i> von einer Vorstellung (oder einem Begriff) <i>B</i> – eine kategoriale Höherstufigkeit (von <i>A</i> im Verhältnis zu <i>B</i>) zum Ausdruck. Die Nichtbeachtung solcher Stufenunterschiede <sup class=\"fn\" data-fn=\"1-7\">7</sup> kann zu logischen Antinomien führen. Frege selbst hat mit seiner unbeschränkten Zulassung der ‘Verwandlungʼ von Begriffen in Begriffsumfänge (Klassen) die Bildung der Russellschen Antinomie ermöglicht <sup class=\"fn\" data-fn=\"1-8\">8</sup>. Als verhängnisvoll hat sich dabei ausgerechnet eine extensionale Entsprechung zu dem reflexiven Verständnis des Ausdrucks ‹Vorstellung von einer Vorstellung› erwiesen, nämlich die Ermöglichung, daß eine Klasse Klasse von sich selbst ist, d.h. sich als Element enthält.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">I. KANT: KrV A 68/B 93.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. G. BERKELEY: A treatise conc. the principles of human knowledge §§ 27ff. (1710). The works, hg. A. A. LUCE/T. E. JESSOP (Edinburgh/London 1948–57) 2, 52ff.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. W. HALBFASS: Descartes' Frage nach der Existenz der Welt (1968) 179ff.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. J. S. MILLS Kommentar zu: J. MILL: Analysis of the phenomena of the human mind (London 1829, 1869) 1, 68f. (Anm. 24); Art. ‹Vorstellungs-Vorstellungen›. EISLER<sup>4</sup> 3, 448.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. bereits ARISTOTELES: De anima II, 425 b 12ff.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. F. BRENTANO: Psychol. vom empir. Standpunkt 1 (1874), hg. O. KRAUS (1924) 176ff., zit. 179.</li>\n<li id=\"fn0-7\" value=\"7\">A. WRESCHNER: Die Reproduktion und Assoziation von Vorstellungen (1907–09) 9.</li>\n<li id=\"fn0-8\" value=\"8\">H. EBBINGHAUS: Grundzüge der Psychologie 1 (1902) 530f.; vgl. A. HÖFLER: Psychologie § 37 (1897).</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. P. F. LINKE: Grundfragen der Wahrnehmungslehre § 87 (1918, <sup>2</sup>1929) 209–212. <span class=\"col\" data-col=\"1250\"></span></li>\n<li id=\"fn1-1\" value=\"1\">TH. ZIEHEN: Lehrb. der Logik (1920) 263f.; vgl. Erkenntnistheorie (1913) 436f. 417.</li>\n<li id=\"fn1-2\" value=\"2\">Vgl. a.O. 181.</li>\n<li id=\"fn1-3\" value=\"3\">264. 332f.</li>\n<li id=\"fn1-4\" value=\"4\">B. BOLZANO: Wiss.lehre § 90 (1837). Ges.ausg. I/11, 2, hg. J. BERG (1987) 228f.</li>\n<li id=\"fn1-5\" value=\"5\">Vgl. § 50. 1, a.O. 33.</li>\n<li id=\"fn1-6\" value=\"6\">G. FREGE: Grundlagen der Arithmetik § 53 (1884) 64f.; vgl. Über Begriff und Gegenstand. Vjschr. wiss. Philos. 16 (1892) 192–205, hier: 199–202; ND, in: Kl. Schr., hg. I. ANGELELLI (1967) 167–178, hier: 173–175.</li>\n<li id=\"fn1-7\" value=\"7\">Vgl. Art. <a class=\"xref\" href=\"#/a/3243\">→ Typentheorie; Typenlogik</a>. Hist. Wb. Philos. 10 (1998) 1583–1586.</li>\n<li id=\"fn1-8\" value=\"8\">Vgl. Art. <a class=\"xref\" href=\"#/a/185\">→ Antinomie II.</a>, a.O. 1 (1971) 396–405.</li>\n</ol>",
+ "prev":{"id":3505,"lemma":"Vorstellungsreihe","band":"11","col":1247},
+ "next":{"id":3507,"lemma":"Vorurteil","band":"11","col":1250},
+ "backlinks":[],
+ "outlinks":[
+  {"id":185,"lemma":"Antinomie","n":1},
+  {"id":865,"lemma":"Existenzaussage","n":1},
+  {"id":1021,"lemma":"Gegenstandstheorie","n":1},
+  {"id":3243,"lemma":"Typentheorie; Typenlogik","n":1},
+  {"id":3504,"lemma":"Vorstellung an sich","n":1}
+ ],
+ "register":[
+  {"term":"Allgemeinvorstellung","qualifier":"2","band":"11","col":"1249"},
+  {"term":"Antinomie, Russellsche","qualifier":"2","band":"11","col":"1250"},
+  {"term":"ideas of ideas","qualifier":"","band":null,"col":null},
+  {"term":"reflexive Vorstellungen","qualifier":"","band":null,"col":null},
+  {"term":"Russellsche Antinomie","qualifier":"2","band":"11","col":"1250"},
+  {"term":"Schachtelerlebnisse","qualifier":"1","band":"11","col":"1249"},
+  {"term":"stellvertretende Vorstellungen","qualifier":"1","band":"11","col":"1249"},
+  {"term":"Vorstellungen, fundierte","qualifier":"2","band":"11","col":"1249"},
+  {"term":"Vorstellungen, reflexive","qualifier":"","band":null,"col":null},
+  {"term":"Vorstellungen, stellvertretende","qualifier":"1","band":"11","col":"1249"}
+ ],
+ "persons":[
+  {"id":60,"name":"J. S. Mill","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":40,"name":"G. Frege","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":91,"name":"F. Brentano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":96,"name":"B. Bolzano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":130,"name":"G. Berkeley","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":276,"name":"Th. Ziehen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":963,"name":"H. Ebbinghaus","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3115,"name":"P. F. Linke","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2,"name":"Aristoteles","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":33,"name":"D. Hume","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":199,"name":"O. Kraus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":164,"name":"N. Malebranche","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":243,"name":"A. Meinong","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1313,"name":"A. Höfler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":32592,"name":"A. Wreschner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":609,"name":"A. A. Luce","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":666,"name":"T. E. Jessop","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":753,"name":"J. Berg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1001,"name":"I. Angelelli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":945,"name":"W. Halbfass","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1572,"lemma":"Klasse, soziale","tf":3},
+  {"id":3430,"lemma":"Verschiedenheit","tf":2},
+  {"id":435,"lemma":"Bildung","tf":2},
+  {"id":576,"lemma":"Deutung","tf":2},
+  {"id":2233,"lemma":"Ordnung","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Vorstellungsvorstellung"}],
+ "reg_authors":[{"name":"Gabriel Gottfried","n":51},{"name":"Halbfass Wilhelm","n":32},{"name":"Red","n":242}]
+}
+);

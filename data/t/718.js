@@ -1,0 +1,12 @@
+HWPH.put("t/718",
+{
+ "b":"Eminenter besagt soviel wie ‹in hervorragender oder ausgezeichneter Weise›. Das Wort ist ein terminus technicus der scholastischen Metaphysik. \nNach einem in der mittelalterlichen Philosophie allgemein akzeptierten Prinzip, das sich bereits bei CICERO findet und im Neuplatonismus eine gewichtige Rolle spielte , müssen die Vollkommenheiten einer Wirkung in der selbständigen seinsgebenden Ursache (im Unterschied zur causa instrumentalis) vorausbestehen (praeexistere, praehabere) oder enthalten (continere) sein . Ist die Ursache nun als eine «causa aequivoca» ihrer Wirkung in der Weise übergeordnet, daß beide seinsmäßig schlechthin verschieden sind (z.B. Gott als Schöpfer in seinem unendlichen Abstand zur Welt), so sind in ihr die Vollkommenheiten des Effekts «eminenter» (secundum modum altiorem sive excellentiorem , in höherer oder hervorragender Weise) enthalten. Die «eminente» Weise der göttlichen Vollkommenheiten besteht darin, daß jegliche Begrenzung von ihnen ausgeschlossen ist , sie somit rein als solche (simpliciter) zu fassen sind und außerdem als sachlich identisch (unite) angesetzt werden müssen . \nDer Gegenbegriff zu ‹eminenter› ist in der (nicht immer einheitlichen) spätscholastischen Terminologie ‹formaliter› (tantum). Von einem «formellen» Enthaltensein der Vollkommenheiten des Effekts in seiner Ursache spricht man bei der «causa univoca»: Ursache und Wirkung gehören prinzipiell ein und derselben Ordnung an (z.B. Zeugung eines artgleichen Lebewesens) . Die Disjunktion «eminenter/formaliter» findet sich noch bei DESCARTES .",
+ "n":"CICERO, De natura deorum II, 33, 86. \nVgl. K. KREMER: Die neuplatonische Seinsphilos. und ihre Wirkung auf Thomas von Aquin (Leiden 1966) Index: ‹Enthalten›, ‹Kausalität›, ‹Ursache›. \nTHOMAS VON AQUIN, S. theol. I, 4, 2. \na.a.O. I, 4, 2; 13, 3. 6; De pot. 7, 5. \na.a.O. [3] I, 13, 2. \nI, 13, 3 ad 2. \nI Sent. d. 35, q. 1, a. 1 ad 5. \na.a.O. [3] I, 13, 4; vgl. I Sent. d. 2, q. 1, a. 3. \na.a.O. [3] I, 4, 2; vgl. jedoch die differenzierteren Unterscheidungen De ver. 27, 7. \nDESCARTES, Werke, hg. ADAM/TANNERY 3, 545. 566f.; 7, 41. 46.",
+ "l":"JOHANNES a SANCTO THOMA: Cursus philos. Thomisticus, hg. B. REISER 3 (Turin 1937) 45.",
+ "au":"D. Schlüter",
+ "A":["D. Schlüter"],
+ "cb":[[0,452],[76,453],[144,453],[1124,453]],
+ "cn":[[0,452],[38,452],[184,452],[222,452],[263,452],[285,452],[301,452],[334,452],[387,452],[474,452]],
+ "cl":[[0,453]]
+}
+);

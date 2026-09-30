@@ -1,0 +1,41 @@
+HWPH.put("a/2248",
+{
+ "id":2248,
+ "lemma":"Organprimitivismen",
+ "band":"6",
+ "kind":"article",
+ "col_from":1370,
+ "col_to":1371,
+ "pdf_from":24629,
+ "pdf_to":24633,
+ "authors":["P. Probst"],
+ "n_notes":10,
+ "n_chars":5552,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Organprimitivismen. ‹O.› ist ein Leitbegriff in der philosophischen Anthropologie A. GEHLENS <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Der Begriff hat seinen systematischen Ort in der Untersuchung der «morphologischen Sonderstellung des Menschen» und dient der Unterscheidung des Menschen von jedem Tier und allem Tierischen. «Die nächste uns obliegende Frage ist nun, die Sonderstellung des Menschen in morphologischer Hinsicht, also in der Betrachtung ‘von außenʼ nachzuweisen. Diese Besonderheit besteht ... in einem durchgehenden <i>Mangel</i> an hochspezialisierten, d.h. umweltspezifisch angepaßten Organen ... Die ‘Organmängelʼ und Organbesonderheiten des Menschen sind also unter der Leitidee des ‘Unspezialisiertenʼ zu betrachten und sind dann, positiv ausgedrückt, Primitivismen ... Wir müssen dabei die Ausdrücke gut bestimmen. Der Begriff ‘primitivʼ ist gleichbedeutend mit dem Begriff ‘unspezialisiertʼ, und er bedeutet in diesen Erörterungen niemals ‘niedrigstehendʼ oder ‘minderwertigʼ ... Unter Spezialisierung ist zu verstehen der <i>Verlust</i> der Fülle der Möglichkeiten, die in einem unspezialisierten Organ liegen, zugunsten der Hochentwicklung einiger dieser Möglichkeiten auf Kosten anderer» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Als konkrete O. nennt Gehlen «Schädelwölbung, untergestelltes Gebiß, freigelegte Hand und Standfuß», die «in einem inneren Zusammenhang stehen: sie machen eben das aus, was man Aufrichtung nennt. Die Sonderstellung des Menschen ist also notwendig dann gewahrt, wenn man seinem unvergleichlich primitiven, archaischen Körperbau Rechnung trägt» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Zur Ausführung und Begründung seiner Theorie von den O. beruft sich Gehlen auf einschlägige Vorarbeiten, insbesondere von L. BOLK und O. H. SCHINDEWOLF <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Von Bolk übernimmt GEHLEN das Konzept der «Fetalisation» und bezeichnet die vorgenannten O. als «permanent gewordene fötale Zustände oder Verhältnisse» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Von Schindewolf übernimmt er das Konzept der «Proterogenese», welche besagt, «daß bei den Affen das biogenetische Grundgesetz keine Gültigkeit resp. umgekehrte Bedeutung besitzt, indem die Altersstadien, nicht die Jugendstadien die einstigen stammesgeschichtlichen Zustände wiederholen. Die ersteren bieten uns die Merkmale der Vorfahren dar, während neue Merkmalskomplexe plötzlich und ohne Vorliegen entsprechender phylogenetischer Vorstadien von den frühesten ontogenetischen Stufen der Affen erworben wurden, also die Jugendformen mit neuen Charakteren auftraten. Beim Menschen verläuft dann die Entwicklung <i>progressiv,</i> d.h. im Sinne des ‘Vorwandernsʼ der Jugendmerkmale auf die Altersstadien, oder im Sinne ihrer ‘Durchhaltungʼ. Beim Affen dagegen werden diese Jugendmerkmale regressiv abgebaut, sie greifen nicht auf immer spätere Wachstumsstadien über, sondern werden auf frühere Stadien zurückgeschraubt, indem sich die altererbte phylogenetische Struktur durchsetzt» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Die Kritik Schindewolfs an Bolk übergeht Gehlen mit dem begründeten Hinweis auf die sachliche Übereinstimmung zwischen beiden im Endergebnis <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Aus rein anatomischer Sicht hat K. GOERTTLER in einer Untersuchung über die «morphologische Sonderstellung des Menschen im Reich der Lebensformen auf der Erde» Gehlens Konzept der O. partiell übernommen. Zum Beispiel von Hand und Fuß erklärt er: «Die Hand repräsentiert ganz allgemein die Machtstellung des Menschen auf der Erde und führt dabei zugleich ein geistiges Leben ... Wenn wir uns aber fragen, was an ihr nun eigentlich spezifisch menschlich ist, dann gibt uns weder ... der Bauplan, noch ihre funktionelle Gliederung eine befriedigende Antwort auf diese Frage. Wir müssen im Gegenteil feststellen, daß die Hand sogar einen ausgesprochen ursprünglichen und ‘primitivenʼ Bauplan innerhalb der Tierwelt repräsentiert ... Die meisten, z.B. alle Huftiere und Raubtiere, haben aus dieser Anlage Formen entwickelt, die sehr viel spezialisierter sind» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, und «der fünfzehige, mit der ganzen Sohle bis zur Ferse auftretende Fuß zeigt ebenso wie die Hand, daß der Mensch als ‘Sohlengängerʼ ... einen sehr ursprünglichen Bauplan repräsentiert» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. <span class=\"col\" data-col=\"1371\"></span></p>\n<p>Insgesamt verweisen nach GEHLEN die O. auf die Notwendigkeit der Technik als Organersatz, Organentlastung und Organüberbietung: «Zu den ältesten Zeugen menschlicher Werkarbeit gehören in der Tat die Waffen, die als Organe fehlen ... Das wäre das Prinzip des Organersatzes, neben das nun von vornherein die Organentlastung und Organüberbietung treten. Der Schlagstein in der Hand entlastet und überbietet zugleich im Erfolg die schlagende Faust; der Wagen, das Reittier entlasten uns von der Gehbewegung und überbieten weit deren Fähigkeit ... Das Flugzeug wieder ersetzt uns die nicht gewachsenen Flügel und überbietet weit alle organische Flugleistung» <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">L. BOLK: Das Problem der Menschwerdung (1926). – O. H. SCHINDEWOLF: Das Problem der Menschwerdung, ein paläontol. Lösungsversuch, in: Jb. preuß. geolog. Landesanstalt 49/11 (1928) 716–766; Phylogenie und Anthropol. aus paläontol. Sicht, in: Neue Anthropol., hg. H.-G. GADAMER/ P. VOGLER 1 (1972) 230–292. – J. VERSLUYS: Hirngröße und hormonales Geschehen bei der Menschwerdung. Mit Ausführungen von Otto Poetzl und Konrad Lorenz (1939). – D. STARCK: Der heutige Stand des Fetalisationsproblems (1962).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1371\"></span> A. GEHLEN: Der Mensch. Seine Natur und seine Stellung in der Welt 1 (1940, zit. <sup>7</sup>1962) 86ff.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 86f.</li>\n<li id=\"fn0-3\" value=\"3\">101.</li>\n<li id=\"fn0-4\" value=\"4\">88ff.</li>\n<li id=\"fn0-5\" value=\"5\">102.</li>\n<li id=\"fn0-6\" value=\"6\">116.</li>\n<li id=\"fn0-7\" value=\"7\">118.</li>\n<li id=\"fn0-8\" value=\"8\">K. GOERTTLER: Morphol. Sonderstellung des Menschen im Reich der Lebensformen auf der Erde, in: Neue Anthropol., hg. H.-G. GADAMER/P. VOGLER 2 (1972) 215–257, zit. 227.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 229.</li>\n<li id=\"fn0-10\" value=\"10\">A. GEHLEN: Anthropol. Forsch. Zur Selbstbegegnung und Selbstentdeckung des Menschen (1977) 93f.</li>\n</ol>",
+ "prev":{"id":2247,"lemma":"Organonmodell","band":"6","col":1369},
+ "next":{"id":2249,"lemma":"Orientierungsreflex","band":"6","col":1371},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Instinkt","qualifier":"(Gehlen)","band":null,"col":null},
+  {"term":"Organersatz","qualifier":"(Gehlen)","band":"6","col":"1370"},
+  {"term":"Organüberbietung","qualifier":"(Gehlen)","band":"6","col":"1370"},
+  {"term":"Tier/Mensch","qualifier":"(Gehlen)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":92,"name":"A. Gehlen","b":3,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":16092,"name":"K. Goerttler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":71,"name":"H.-G. Gadamer","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":3520,"name":"P. Vogler","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":5463,"name":"O. H. Schindewolf","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6227,"name":"L. Bolk","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":6316,"name":"D. Starck","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":25220,"name":"J. Versluys","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":346,"lemma":"Bauplan, Funktionsplan","tf":3},{"id":2239,"lemma":"Organ","tf":3}],
+ "see_also":[],
+ "groups":[{"id":2,"name":"Anthropologie","label":"Organprimitivismen (Gehlen)"}],
+ "reg_authors":[]
+}
+);

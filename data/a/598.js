@@ -1,0 +1,27 @@
+HWPH.put("a/598",
+{
+ "id":598,
+ "lemma":"Dikäologie",
+ "band":"2",
+ "kind":"article",
+ "col_from":244,
+ "col_to":244,
+ "pdf_from":4377,
+ "pdf_to":4377,
+ "authors":["R. Kuhlen"],
+ "n_notes":1,
+ "n_chars":473,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Dikäologie oder Rechtslehre nennt W. T. KRUG den ersten Teil der drei Wissenschaften innerhalb des Systems der praktischen Philosophie. Die D. zerfällt in ein reines und angewandtes Naturrecht, auf Grund der Trennung in theoretisch- und praktisch-philosophische Wissenschaft. Zum reinen Naturrecht gehören Privatrecht und Öffentliches Recht, zum angewandten Naturrecht Familienrecht und Kirchenrecht <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">W. T. KRUG: System der praktischen Philos. 1: Rechtslehre (1817, <sup>2</sup>1830).</li>\n</ol>",
+ "prev":{"id":597,"lemma":"Dihairesis","band":"2","col":242},
+ "next":{"id":599,"lemma":"Dike","band":"2","col":244},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":2089,"lemma":"Naturrecht","tf":3}],
+ "see_also":[{"id":2609,"lemma":"Rechtslehre"}],
+ "groups":[{"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Dikäologie"}],
+ "reg_authors":[{"name":"Kuhlen Rainer","n":14}]
+}
+);

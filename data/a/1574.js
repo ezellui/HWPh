@@ -1,0 +1,37 @@
+HWPH.put("a/1574",
+{
+ "id":1574,
+ "lemma":"Kliometrie",
+ "band":"4",
+ "kind":"article",
+ "col_from":856,
+ "col_to":857,
+ "pdf_from":14043,
+ "pdf_to":14045,
+ "authors":["W. Abelshauser"],
+ "n_notes":4,
+ "n_chars":2771,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Kliometrie (amer. cliometrics) entstammt als Begriff der Diskussion des ‹Perdue Seminar on Quantitative Methode in Economic History›, dem akademischen Zentrum der ‹New Economic History›, die Ende der fünfziger Jahre in den USA entstanden ist <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die Disziplin, die im Schnittfeld von Geschichte, Ökonomie und Statistik liegt und deshalb auch «ökonometrische Geschichte» genannt wurde <sup class=\"fn\" data-fn=\"0-2\">2</sup>, betont die Bedeutung des Messens historischer Phänomene mit mathematischen und statistischen Mitteln, wobei zunehmend die elektronische Datenverarbeitung zu Hilfe genommen wird. Der jeweils neueste Stand der Wirtschaftstheorie wird dabei auf die Auswahl explikatorischer Hypothesen und indikatorischer Variablen ebenso angewandt, wie der aus der historischen Realität gewonnene empirische Befund der Modifizierung von Modellen und Theorien in der Wirtschaftswissenschaft dient. Die Kliometriker erheben den Anspruch, auf diese Weise die Spaltung der Nationalökonomie in eine deduktive Wirtschaftstheorie und eine induktiv vorgehende Wirtschaftsgeschichte zu überwinden, die aus der Kontroverse der ‹Historischen Schule› mit den deduktiven Theorien der nationalökonomischen Klassik entstanden ist und zur Etablierung der Wirtschaftsgeschichte als selbständiger universitärer Disziplin geführt hat <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Der ausgeprägte Charakter der <span class=\"col\" data-col=\"857\"></span> K. als historische Wirtschaftswissenschaft und ihre in der wissenschaftlichen Praxis nur von wenigen bedeutenden Arbeiten <sup class=\"fn\" data-fn=\"0-4\">4</sup> überwundene Verengung auf das Feld der retrospektiven Ökonometrie haben ihre Verbreitung im deutschen Sprachgebiet, wo die organisatorische Trennung von Wirtschaftswissenschaft und Wirtschaftsgeschichte an den Universitäten in der Regel schärfer ist als im angelsächsischen Raum, bis heute stark behindert.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">J. R. MEYER und A. H. CONRAD: Economic theory, statistical inference, and economic hist. J. econom. Hist. 17 (1957) 524–544; Economic hist.: Its contribution to economic education, research and policy. Amer. econom. Rev. 55 (1965) papers a. proc. 86–118. – P. VILAR: Pour une meilleur compréhension entre économistes et historiens. Rev. hist. 233 (1965) 293–312. – R. ANDREANO (Hg.): The new economic hist. (1970). – R. W. FOGEL: From the Marxists to the Mormons. Times lit. Suppl. 74 (1975) 667–670. – R. W. FOGEL: The limits of quantitative methods in hist. Amer. hist. Rev. 80 (1975) 329–350.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"857\"></span> L. E. DAVIS, J. R. T. HUGHES und S. REITER: Aspects of quantitative research in economic hist. J. econom. Hist. 20 (1960) 540.</li>\n<li id=\"fn0-2\" value=\"2\">J. MARCZEWSKI: Quantitative hist. J. contemp. Hist. 3 (1968) 179.</li>\n<li id=\"fn0-3\" value=\"3\">R. W. FOGEL: The reunification of economic hist. with economic theory. Amer. econom. Rev. 55 (1965) papers a. proc. 94ff.</li>\n<li id=\"fn0-4\" value=\"4\">So z.B. R. W. FOGEL: Railroads and Amer. growth (1964); J. R. MEYER und A. H. CONRAD: The economics of slavery (1964).</li>\n</ol>",
+ "prev":{"id":1573,"lemma":"Klassische","band":"4","col":853},
+ "next":{"id":1575,"lemma":"Klugheit","band":"4","col":857},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Geschichte, ökonometrische","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":7753,"name":"R. W. Fogel","b":0,"n":2,"l":2,"editor":0,"role":"scholar"},
+  {"id":160,"name":"R. W. Meyer","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1076,"name":"K. Conrad","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":1096,"name":"G. E. Hughes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2302,"name":"K. Davis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5068,"name":"J. Reiter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22310,"name":"J. Marczewski","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22311,"name":"P. Vilar","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":22312,"name":"R. Andreano","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":29,"name":"Ökonomie","label":"Kliometrie"}],
+ "reg_authors":[{"name":"Abelshauser Werner","n":1}]
+}
+);

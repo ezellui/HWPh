@@ -1,0 +1,55 @@
+HWPH.put("a/2535",
+{
+ "id":2535,
+ "lemma":"Purismus",
+ "band":"7",
+ "kind":"article",
+ "col_from":1714,
+ "col_to":1715,
+ "pdf_from":29862,
+ "pdf_to":29865,
+ "authors":["E. Büchsel"],
+ "n_notes":15,
+ "n_chars":3923,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Purismus. ‹P.› ist eine aus dem Neulateinischen über das Französische ins Deutsche übernommene Neubildung, die zunächst noch die religiöse Bedeutung von ‹Puritanismus› hatte <sup class=\"fn\" data-fn=\"0-1\">1</sup>, dann aber das Bestreben zur Reinigung der Sprache vor allem von Fremdwörtern, wie es etwa das Ziel der Sprachgesellschaften des 17. Jh. war, und das Bemühen um klare Ausdrucksweise bezeichnete. Purist ist derjenige, «qui se pique d'une grande pureté de langage, même avec affection» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Bereits von P. BAYLE und J. de LA BRUYÈRE kritisch beurteilt <sup class=\"fn\" data-fn=\"0-3\">3</sup>, wird ‹P.› besonders im 18. Jh. zum häufig gebrauchten Begriff <sup class=\"fn\" data-fn=\"0-4\">4</sup>, der aber auch hier oft einen negativen Beiklang erhält. So verwirft ROUSSEAU den P. als willkürliche Normierung der Sprache («Je soutiens qu'il faut quelquefois faire des fautes de grammaire, pour être lumineux; c'est en cela, et non dans toutes les pédanteries du purisme, que consiste le véritable art d'écrire» <sup class=\"fn\" data-fn=\"0-5\">5</sup>), und LESSING distanziert sich gleichermaßen vom P. und von Wielands meist französischen Fremdwörtern <sup class=\"fn\" data-fn=\"0-6\">6</sup>. GOETHE kritisiert «allen negativen P., daß man ein Wort nicht brauchen soll, in welchem eine andre Sprache vieles oder Zarteres gefaßt hat», und macht sich statt dessen einen «affirmativen P.» zu eigen, «der productiv ist und nur davon ausgeht: Wo müssen wir umschreiben» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Während J. H. CAMPE eine selbstironisch getönte Verteidigung des P. gibt <sup class=\"fn\" data-fn=\"0-8\">8</sup>, lehnen die Gebrüder GRIMM in der Rückschau «diesen ärgerlichen purismus» als eine ungeschichtlichem Denken entspringende Pedanterie ab <sup class=\"fn\" data-fn=\"0-9\">9</sup>. J. G. HAMANN hatte bereits in seinem Kampf gegen den P. Prémontvals <sup class=\"fn\" data-fn=\"0-10\">10</sup> und in seiner Persiflage rationalistischer Orthographiereformvorschläge <sup class=\"fn\" data-fn=\"0-11\">11</sup> die typische Bedeutung dieser Bemühungen analysiert <sup class=\"fn\" data-fn=\"0-12\">12</sup>. In seiner an die Wurzeln gehenden ‹Metakritik› erhebt er gegen Kants ‹Kritik der reinen Vernunft› den Vorwurf des «P. der Vernunft», dessen letzte Konsequenz ein von aller Sprache gereinigtes Denken wäre: «Die erste Reinigung der Philosophie bestand nehmlich in dem ... Versuch, die Vernunft von aller Ueberlieferung, Tradition und Glauben daran unabhängig zu machen. Die zweite [Kant] ist noch transcendenter und läuft auf nichts weniger als eine Unabhängigkeit von der Erfahrung und ihrer alltäglichen Induction hinaus. Der dritte höchste und gleichsam empirische P. betrifft also noch die Sprache, das einzige erste und letzte Organon und Kriterion der Vernunft» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. CAMPE vermerkt einen P. in der <i>Tugendlehre</i>, der sich gegen den Eudämonismus richte <sup class=\"fn\" data-fn=\"0-14\">14</sup>. In der <i>bildenden Kunst</i> des 20. Jh. taucht der Begriff verschiedentlich in programmatischer Bedeutung zur Bezeichnung einer Stilrichtung auf, die das Kunstwerk von fremden Zutaten reinigen will <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1715\"></span> TAILLEPIED: (1586), vgl. Grand Larousse de la langue franç. 6 (Paris 1977) 4782; J. B. BOSSUET: Oeuvres compl. (Paris 1845–46) 8, 345.</li>\n<li id=\"fn0-2\" value=\"2\">A. FURETIÈRE: Dict. univ. (Den Haag/Rotterdam 1690) 3, s.v.</li>\n<li id=\"fn0-3\" value=\"3\">P. BAYLE: Dict. hist. et crit. (Rotterdam <sup>3</sup>1720) 3, 2361; dtsch. J. CH. GOTTSCHED (1743) 3, 805; J. de LA BRUYÈRE: Les caractères V, 15. Oeuvr. compl., hg. J. BENDA (Paris 1951) 175.</li>\n<li id=\"fn0-4\" value=\"4\">F. GEDIKE: Gedanken über P. und Sprachbereicherung (1779); weitere Belege bei H. SCHULZ/O. BASLER: Dtsch. Fremdwb. 2 (1942) 739f.</li>\n<li id=\"fn0-5\" value=\"5\">J.-J. ROUSSEAU: Br. an Du Peyrou vom 12. 4. 1765. Corr. gén., hg. TH. DUFOUR 13 (Paris 1930) 221.</li>\n<li id=\"fn0-6\" value=\"6\">G. E. LESSING: 14. Lit.br. Werke, hg. H. G. GÖPFERT (1970–79) 5, 60.</li>\n<li id=\"fn0-7\" value=\"7\">J. W. GOETHE: Maximen und Reflexionen. Weim. Ausg. 42/2, 238f.</li>\n<li id=\"fn0-8\" value=\"8\">J. H. CAMPE: Wb. zur Erklärung und Verdeutschung der unserer Sprache aufgedrungenen fremden Ausdrücke (<sup>2</sup>1813) s.v.</li>\n<li id=\"fn0-9\" value=\"9\">GRIMM 1 (1854) XXVIIf.; J. GRIMM: Kl. Schr. 1 (1864) 409; W. GRIMM: Kl. Schr. 1 (1881) 241. 518.</li>\n<li id=\"fn0-10\" value=\"10\">Préservatif contre la corruption de la langue franç. en Allemagne (1761).</li>\n<li id=\"fn0-11\" value=\"11\">J. G. HAMANN: Sämtl. Werke, hg. J. NADLER (1949–57) 2, 289; 3, 91f.; 3, 231f.</li>\n<li id=\"fn0-12\" value=\"12\">a.O. 3, 234. 241.</li>\n<li id=\"fn0-13\" value=\"13\">a.O.</li>\n<li id=\"fn0-14\" value=\"14\">CAMPE, a.O. [8].</li>\n<li id=\"fn0-15\" value=\"15\">z.B. bei Le Corbusier und dem Kreis um die Zeitschrift ‹L'esprit nouveau› (1920), vgl. Grand Larousse encycl. (Paris 1960–64) 8, 911.</li>\n</ol>",
+ "prev":{"id":2534,"lemma":"Punkt, Punktualität","band":"7","col":1711},
+ "next":{"id":2536,"lemma":"Puritanismus","band":"7","col":1715},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Purismus der Vernunft","qualifier":"","band":"7","col":"1714"},
+  {"term":"Reinigung der Sprache","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":449,"name":"J. H. Campe","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":20,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":39,"name":"J.-J. Rousseau","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":70,"name":"G. E. Lessing","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":114,"name":"J. G. Hamann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":181,"name":"P. Bayle","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1014,"name":"J. de la Bruyère","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":132,"name":"J. Ch. Gottsched","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":401,"name":"J. Grimm","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":500,"name":"J.-B. Bossuet","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":953,"name":"W. Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3798,"name":"A. Furetière","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":16770,"name":"F. Gedike","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26911,"name":"Taillepied","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":417,"name":"J. Nadler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":816,"name":"H. G. Göpfert","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1054,"name":"H. Schulz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1246,"name":"O. Basler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2566,"name":"J. Benda","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4437,"name":"Th. Dufour","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2660,"lemma":"Reinheit, Reinigung","tf":2},{"id":1712,"lemma":"Kunst, Kunstwerk","tf":2}],
+ "see_also":[],
+ "groups":[
+  {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Purismus"},
+  {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Purismus"}
+ ],
+ "reg_authors":[{"name":"Büchsel Elfriede","n":6}]
+}
+);

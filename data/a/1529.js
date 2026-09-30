@@ -1,0 +1,35 @@
+HWPH.put("a/1529",
+{
+ "id":1529,
+ "lemma":"Kant-Laplacesche Theorie",
+ "band":"4",
+ "kind":"article",
+ "col_from":694,
+ "col_to":695,
+ "pdf_from":13546,
+ "pdf_to":13548,
+ "authors":["U. W. Bargenda"],
+ "n_notes":6,
+ "n_chars":3320,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Kant-Laplacesche Theorie. Es handelt sich um zwei verschiedene, voneinander unabhängig entwickelte kosmogonische Theorien. In der Schrift ‹Allgemeine Naturgeschichte und Theorie des Himmels› (1755) und in der siebten Betrachtung der Schrift ‹Der einzig mögliche Beweisgrundzu einer Demonstration des Daseins Gottes› (1763) versucht KANT, die Bildung der Weltkörper und ihren Zusammenhang zu erklären, ohne andere als mechanische Gesetze anzunehmen. «Ich habe, nachdem ich die Welt in das einfachste Chaos versetzt, keine andere Kräfte als die Anziehungs- und Zurückstoßungskraft zur Entwicklung der großen Ordnung der Natur angewandt, zwei Kräfte, welche beide gleich gewiß, gleich einfach und zugleich gleich ursprünglich und allgemein sind» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Dabei geht er davon aus, daß die Materie zunächst im ganzen Weltraum zerstreut war, dann durch die Wirkung der Gravitation in Bewegung kam, bis sich schließlich ein Zentralkörper (Sonne) bildete, in dessen Richtung sich alle Materiepartikel bewegten. Durch die hierbei auftretende gegenseitige Störung der Partikel entstanden Seitenbewegungen, die sich zu einer gemeinschaftlichen Umdrehung vereinigten. Die Materieteile, deren Seitenbewegung einen Grad erreichte, der ausreichte, ein Gleichgewicht zur Gravitation zu bilden, umlaufen die Sonne in konzentrischen Kreisen und bilden die Planeten.</p>\n<p>Kant bestreitet durch die Behauptung dieser mechanischen Hypothese, daß es sich bei der Weltverfassung um eine unmittelbare göttliche Anordnung handle, betont aber, seine Erklärungsart könne als mit der Erkenntnis eines weisen Gottes zusammenstimmend angesehen werden <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>P. LAPLACE setzt in seinen Überlegungen zur Kosmogonie die Existenz der Sonne voraus. Sie habe sich infolge übermäßiger Erhitzung über die Bahnen der Planeten hinaus als Nebelmasse ausgedehnt und dann durch Gravitationswirkung bis zu ihrer heutigen Gestalt zusammengezogen. Dabei sei aufgrundder Erhaltung des Drehimpulses die Rotation immer stärker geworden; wenn die auftretenden Fliehkräfte jeweils größer wurden als die Wirkung der Schwerkraft, lösten sich Gasmassen ab und umkreisten zunächst als Gasring, dann nach Verdichtung als Planeten die übrige Gasmasse <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Theologische Argumente spielen in der Theorie von Laplace keine Rolle.</p>\n<p>Die Zusammenfassung beider Theorien zur sogenannten Kant-Laplaceschen Theorie begegnet bei SCHOPENHAUER <sup class=\"fn\" data-fn=\"0-4\">4</sup>, von HELMHOLTZ <sup class=\"fn\" data-fn=\"0-5\">5</sup> und ENGELS <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Als gemeinsame Leistung der unterschiedlichen Theorien wird dabei hervorgehoben, daß 1. die Frage nach den Grenzen und der Tragweite der bekannten Naturgesetze und der naturwissenschaftlichen <span class=\"col\" data-col=\"695\"></span> Methoden gestellt wird (von Helmholtz), daß 2. der Kosmos als etwas Gewordenes dargestellt wird, also eine Geschichte hat.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">FR. ENGELS: Anti-Dühring. MEW 20, 52ff. – H. v. HELMHOLTZ: Über die Entstehung des Planetensystems (1871), in: Vorträge und Reden (1896) 2, 53ff. – C. F. VON WEIZSÄCKER: Die Tragweite der Wiss. 1 (1964) 131ff. 156ff.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"695\"></span> I. KANT: Allg. Naturgesch. ... (1755). Akad.-A. 1, 234.</li>\n<li id=\"fn0-2\" value=\"2\">Der einzig mögliche Beweisgrund ... a.a.O. 2, 147f.; vgl. 1, 333f.</li>\n<li id=\"fn0-3\" value=\"3\">P. LAPLACE: Exposition du système du monde (1796).</li>\n<li id=\"fn0-4\" value=\"4\">A. SCHOPENHAUER: Parerga und Paralipomena 2, in: Sämtl. Werke 6 (1947) 142f.</li>\n<li id=\"fn0-5\" value=\"5\">H. v. HELMHOLTZ: Über die Entstehung des Planetensystems, in: Vorträge und Reden 2 (<sup>3</sup>1903) 55ff. 77.</li>\n<li id=\"fn0-6\" value=\"6\">K. MARX und F. ENGELS, MEW 20 (1968) 316f. 466.</li>\n</ol>",
+ "prev":{"id":1528,"lemma":"Kantianismus","band":"4","col":693},
+ "next":{"id":1530,"lemma":"Kardinaltugenden","band":"4","col":695},
+ "backlinks":[{"id":2098,"lemma":"Nebularhypothese","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":45,"name":"F. Engels","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":293,"name":"H. Helmholtz","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":596,"name":"P. S. Laplace","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":747,"name":"C. F. von Weizsäcker","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+ ],
+ "mentions":[{"id":1181,"lemma":"Gravitation","tf":2},{"id":2781,"lemma":"Schrift","tf":2}],
+ "see_also":[{"id":1675,"lemma":"Kosmogonie"},{"id":2098,"lemma":"Nebularhypothese"}],
+ "groups":[{"id":4,"name":"Astronomie","label":"Kant-Laplacesche Theorie"}],
+ "reg_authors":[{"name":"Bargenda Udo W","n":2}]
+}
+);

@@ -1,0 +1,48 @@
+HWPH.put("t/3142",
+{
+ "b":"Technologie (griech. τεχνολογία; lat. technologia; engl. technology; frz. technologie). Gottes «T. der Furcht» ist, wie CLEMENS VON ALEXANDRIEN schreibt, eine Quelle des Heils (περὶ τὸν φόβον ... τεχνολογία σωτηρίας ἐστὶ πηγή) . \nVerbreiteter jedoch als ein solcher Gebrauch im Sinne einer bestimmten planvollen, zielgerichteten Praxis sind jene Bedeutungsvarianten, die sich für das Kompositum ‹T.› unmittelbar aus den Hauptbedeutungen seiner Teile (τέχνη als Kunst im weitesten Sinne oder als grammatisch-rhetorische Kunst) ergeben. Diesen gemäß wird der Begriff seit der Spätantike verwendet im Sinne von 1) Abhandlung über bzw. Lehre von einer (beliebigen) Kunst (Kunstlehre) , 2) Terminologie einer (beliebigen) Kunst (Kunstsprache) bzw. Rede in solcher T., 3) Abhandlung über bzw. Lehre von der Grammatik und Rhetorik (Sprachkunst), 4) Terminologie der grammatisch-rhetorischen Kunst bzw. Rede in solcher Terminologie . \nIn der frühen Neuzeit wird der Terminus in seinen verschiedenen Bedeutungen wieder aufgenommen. Bereits bei PH. MELANCHTHON klingt er an, wenn dieser im Widmungsschreiben seiner ‹Erotemata dialectices› der Dialektik auch die Funktion einer Theorie und Kunst- oder Methodenlehre der Wissenschaften zuweist und in diesem Zusammenhang betont, er habe «τεχνολογικά quaedam» eingestreut . Im selben Sinn beruft sich PETRUS RAMUS für seine Neuorganisation des gesamten Curriculums der Artes auf die Regeln der τεχνολογία, d.h. der Logik oder Wissenschaft von den Künsten . \nDieser in philosophischer Hinsicht gegenüber den Verwendungen von ‹T.› für ‹Sprachkunst› und ‹Kunstsprache› bzw. «Kunst-Wörter-Lehre» wichtigere Wortgebrauch im Sinne einer Wissenschaftslehre schlägt sich im frühen 17. Jh. in eigenen T.-Traktaten nieder. C. TIMPLER stellt seinem ‹Metaphysicae systema methodicum› ab 1607 als wissenschaftstheoretische Propädeutik eine ‹Technologia› voran, d.h. einen, wie der Titel sagt, «Tractatus generalis et utilissimus de natura et differentiis Artium liberalium» («allgemeinen und höchst nützlichen Traktat über die Natur und die Unterschiede der freien Künste») . In dieser Funktion und mit derselben Definition übernimmt J. H. ALSTED die T. als eine der «praecognita philosophica» in sein enzyklopädisches Programm . \nGeht es in der philosophischen T. des 17. Jh., die sich in Neuengland vereinzelt noch bis ins 18. Jh. gehalten hat , um die Definition, die systematische Einteilung und den Zusammenhang der freien oder philosophischen Künste, so zeichnet sich bei CH. WOLFF insofern eine Bedeutungsverschiebung ab, als er – etwas Ähnliches findet sich bereits 1707 bei E. PHILLIPS, wo die T. als «description of arts, especially the mechanical» beschrieben wird – das Gewicht auf die handwerklich-praktischen Künste legt. Ihm geht es jedoch nicht lediglich um eine Beschreibung dieser Künste, sondern er postuliert eine philosophische, bes. physikalische Begründung derselben. So betont WOLFF in seiner ‹Philosophia rationalis› im Rahmen von Ausführungen «de partibus philosophiae» die Möglichkeit einer bislang vernachlässigten («hactenus neglecta») «Philosophia artium», die auch «Technica» oder «Technologia» heißen könne. Diese definiert er als «scientia artium et operum artis, aut ... scientia eorum, quae organorum corporis, manuum potissimum, opera hominibus perficiuntur» («Wissenschaft von den Künsten und Werken der Kunst, oder Wissenschaft dessen, was von den Menschen durch das Werk der Organe des Körpers, insbesondere der Hände, hergestellt wird») . Wolff scheint damit als erster die Idee einer Wissenschaft der materiellen Produktion entwickelt und dafür die Bezeichnung «Technica aut Technologia» vorgeschlagen zu haben. \nEs ist dieser neue Begriff der T., der dann vor allem durch den einflußreichen Göttinger Ökonomen J. BECKMANN durchgesetzt wurde: «T. ist die Wissenschaft, welche die Verarbeitung der Naturalien oder die Kenntnis der Handwerke lehrt» . So wird im 19. Jh. die T. «oder Gewerbkunst» als «ein Zweig der Kameralwissenschaften» definiert, «der Naturerzeugnisse für die Bedürfnisse der Gesellschaft künstlich verarbeiten lehrt» , oder gilt, wie bei K. KARMARSCH, als «die systematische Beschreibung und rationelle Erklärung derjenigen Verfahrungsarten und Hülffsmittel, vermöge welcher die rohen Naturprodukte zu Gegenständen des physischen Gebrauchs durch menschlichen Kunstfleiß verarbeitet werden» . Schon BECKMANN war sich der Differenz gegenüber dem antiken Sprachgebrauch bewußt, wenn er bemerkt: «Alt sind wenigstens diese Wörter: τεχνολογία, ... τεχνόλογος; aber freylich dachten die Griechen dabei wohl nicht allemal an Handwerke, so wenig sie unter οἰκονομία, πολιτική und hundert andern Wörtern, das dachten, was wir darunter denken» . \nDieser Begriff der T. als «Lehre von den technischen Verfahren bei der Herstellung von Produkten» hat sich bis ins 20. Jh. erhalten, und es ist bisweilen umstritten, ob an diesem speziellen Begriff der T. im Sinne einer Verfahrenslehre der Stoffbe- und -verarbeitung gegenüber dem bes. über den angelsächsischen Sprachgebrauch sich durchsetzenden erweiterten und vom Begriff der Technik nicht mehr unterschiedenen Gebrauch von ‹T.› festzuhalten sei . Denn unter dem Einfluß des angelsächsischen Sprachgebrauchs hat der Begriff eine Bedeutung angenommen, der gemäß ‹T.› allgemein «einen Prozeß, eine komplexe Menge von Handlungsweisen sowohl mit menschlichen als auch materiellen Instrumenten», bezeichnet, die angewendet werden, «um Ziele sicher zu erreichen» . H. LENK, der aufgrundder für die gegenwärtige Situation charakteristischen «innigen Verflechtung» von «Wissenschaft, Technik und Industrie» einen Wandel vom «technischen Zeitalter» zum «technologischen Zeitalter» diagnostiziert , definiert T.n als «methodisch-rationale Verfahren der Systemsteuerung oder» – siehe Clemens von Alexandria – «einer optimalen bzw. optimierenden Organisation zielgerichteter Transformationsprozesse» .",
+ "n":"CLEMENS ALEX.: Paedagogus, hg. O. STÄHLIN. GCS 12 (31972) 137, 27. \nVgl. SEXTUS EMP.: Pyrrh. hypot. 2, 205. \nVgl. ORIGENES: C. Celsum, III, 39, hg. P. KOETSCHAU. GCS 2 (1899) 236, 8. \nVgl. W. SEIBICKE: «Technica aut Technologia». Ch. Wolffs Anteil an der Herausbildung des mod. Technikbegriffs, in: R. OLESCH u.a. (Hg.): Festschr. F. von Zahn 2 (1971) 179–199, hier: 181. \nPH. MELANCHTHON: Erotemata dialectices. Op. omn., hg. C. G. BRETSCHNEIDER. Corp. reform. 1–28 (1843–60, ND 1964) 13, 515. \nPETRUS RAMUS: Scholae in liberales artes (Basel 1569, ND 1970) fol. a2r. \nZ. BRENDEL: Pro veterum technologia rhet. ... disp. (1580); J. H. HOTTINGER: Grammatica quatuor linguarum Hebraicae, Chaldaicae, Syriacae et Arabicae ... Cui accedit technologia linguae Arabicae theolog.-hist. (Wyngaerden 1659); J. G. ERNESTI: Lex. technologiae Graecorum rhet. (1795); Lex. technologiae Latinorum rhet. (1797); CH. LOBECK: Rhematikon sive verborum graec. et nominum verbalium technologia (1846). \nJ. H. ZEDLER: Großes vollst. Univ.-Lex. 42 (1744) 508; vgl. G. WALCH: Philos. Lex. (1726) 2514. \nC. TIMPLER: Metaphysicae systema methodicum ... in principio accessit eiusdem Technologia, Hoc est Tract. generalis et utilissimus de natura et differentiis Artium liberalium (Frankfurt 1607); vgl. U. G. LEINSLE: Das Ding und die Methode (1985) 353–358. \nVgl. J. H. ALSTED: Systema mnemonicum minus (Frankfurt 1610) 7. \nVgl. Philos. digne restituta: libros quatuor Praecognitorum philos. complectens, quorum ... 3. T. (1612). Vgl. Encyclop. (1630, ND 1989f.) 61ff.; vgl. W. SCHMIDT-BIGGEMANN: Topica universalis (1983) 124ff. 136ff. \nVgl. S. E. MORISON: Harvard College in the 17th cent. (Cambridge, Mass. 1936) 584ff. \nE. PHILLIPS: The new world of words, hg. J. KERSEY (London 61706); vgl. New Engl. dict. on hist. principles, hg. J. A. H. MURRAY (Oxford 1888ff.) 9/2, 137. \nCH. WOLFF: Philos. rat. sive Logica (1728, 31740, ND 1983) 33. \nJ. BECKMANN: Anleit. zur T. oder zur Kenntniß der Handwerke, Fabriken und Manufakturen (1777) § 12, XV. \nNeues Rhein. Convers.-Lex. 11 (1830) 176. \nK. KARMARSCH: Gesch. der T. (1872) 3. \nBECKMANN, a.O. [15] 13. \nDie Technik 9 (1954) H. 1, 47. \nH. GRÜNEWALD: «T.» und «Technik». VDI-Nachrichten 25/1 (1971) H. 8, 10; vgl. dagegen: G. ROPOHL: Was heißt «T.». Terminol. Bemerk. zu einem umstrittenen Begriff. VDI-Nachrichten 26/1 (1972) H. 6, 11. \nK. E. BOULDING: The interplay of technology and values, in: K. BAIER/N. RESCHER (Hg.): Values and the future. The impact of technolog. change in Amer. values (New York/London 1969) 336. \nH. LENK: Philos. im technolog. Zeitalter (1971) 7. \na.O. 134.",
+ "l":"E. O. VON LIPPMANN: Zur Gesch. des Wortes T. Beitr. Gesch. Nat.wiss. Technik 2 (1953) 199–202. – W. SEIBICKE s. Anm. [4]; Technik. Versuch einer Gesch. der Wortfamilie um τέχνη in Deutschl. vom 16. Jh. bis etwa 1830 (1968). – W. CH. ZIMMERLI: T. als ‘Kulturʼ (1977).",
+ "au":"S. Meier-Oeser",
+ "A":["S. Meier-Oeser"],
+ "cb":[
+  [0,958],
+  [33,959],
+  [230,959],
+  [927,959],
+  [1495,959],
+  [2255,959],
+  [3678,959],
+  [3834,960],
+  [4720,960],
+  [5912,961]
+ ],
+ "cn":[
+  [0,958],
+  [0,960],
+  [68,960],
+  [109,960],
+  [184,960],
+  [373,960],
+  [496,960],
+  [570,960],
+  [984,960],
+  [1081,960],
+  [1336,960],
+  [1401,960],
+  [1615,960],
+  [1701,960],
+  [1858,960],
+  [1922,960],
+  [2027,960],
+  [2070,960],
+  [2109,960],
+  [2134,960],
+  [2166,960],
+  [2367,960],
+  [2554,960],
+  [2606,960]
+ ],
+ "cl":[[0,961]]
+}
+);

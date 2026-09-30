@@ -1,0 +1,36 @@
+HWPH.put("a/122",
+{
+ "id":122,
+ "lemma":"Analogia fidei",
+ "band":"1",
+ "kind":"article",
+ "col_from":213,
+ "col_to":214,
+ "pdf_from":930,
+ "pdf_to":931,
+ "authors":["H.-G. Geyer"],
+ "n_notes":0,
+ "n_chars":2554,
+ "toc":[["h1","Literaturhinweise",0]],
+ "html":"<p>Analogia fidei. Systematische Bedeutung hat der Ausdruck von Röm. <span class=\"col\" data-col=\"214\"></span> 12, 6 in seinem begrifflichen Gebrauch durch KARL BARTH gewonnen. Barths Begriff der A.f. intendiert einerseits die theologische Unmöglichkeit des Gedankens der analogia entis als des ontologischen Prinzips im Verhältnis des endlichen Seins als Schöpfung zu Gott und anderseits die theologische Möglichkeit legitimen Redens von Gott und Mensch allein auf Grund der das Sein des Menschen bestimmenden Menschwerdung Gottes in Jesus Christus, die als der freie Gnadenakt Gottes allein unter der Bedingung des Seins Gottes steht und insofern allein im Wort Gottes offenbar sein und im Glauben gewiß werden kann. Damit wird für die Frage der Erkenntnis Gottes der Gedanke festgehalten, daß menschliches Reden von Gott nur in analogischen Aussagen, d.h. als Aussagen in Analogie zu bestimmten innerweltlichen Seinsverhältnissen möglich ist und legitim sein kann. Als durch die Offenbarung Gottes im Gnadenakt der Menschwerdung ausgeschlossen wird die Idee eines ontologischen Zusammenhangs von Gott und Welt negiert, der eine dem menschlichen Geist unmittelbare Evidenz innerweltlicher Analogien zum Sein und Wirken Gottes impliziert (Negation jeder Art von natürlicher Theologie). Vielmehr wird Gottes Zuwendung zur Menschheit in Jesus Christus als die Ur-Analogie verstanden, d.h. als die wahre Entsprechung des Menschseins Jesu (im Verhältnis zu allen Menschen) zum Gottsein Gottes (im Verhältnis zu dem einen Menschen Jesus), durch die alle als Analogien zu Gottes Sein und Wirken möglichen innerweltlichen und primär menschlichen Seinsverhältnisse ontologisch begründet und logisch bestimmbar werden. Als analogia relationis meint der Begriff der A.f. insofern die Bedingung der Möglichkeit zur Erkenntnis Gottes und des Menschen.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">K. BARTH: Kirchliche Dogmatik 1/1 (1932) 239ff.; 2/1 (1940) 67ff. 252ff.; 3/2 (1948) 242ff.; 3/3 (1950) 57ff. H. U. v. BALTHASAR: Karl Barth. Darstellung und Deutung seiner Theol. (1951, <sup>2</sup>1962) mit Literaturhinweisen im Vorwort S. Ulf. – J. MC INTYRE: Analogy. Scott. J. Theol. 12 (1959) 1ff. – W. PANNENBERG: Möglichkeiten und Grenzen der Anwendung des Analogieprinzips in der evangelischen Theol. Theol. Lit.-Ztg. (1960) 225ff.; RGG<sup>3</sup> Art. ‹Analogie›. – E. JÜNGEL: Die Möglichkeit theol. Anthropologie auf dem Grunde der Analogie. Z. evang. Theol. 22 (1962) 535ff. – M. REDING: Analogia entis und analogia nominum. Z. evang. Theol. 23 (1963) 225ff. – K. HAMMER: Analogia relationis gegen analogia entis. Parrhesia. Karl Barth zum 80. Geburtstag (1966) 288ff.</p>",
+ "prev":{"id":121,"lemma":"Anagogé, Apagogé, Epagogé","band":"1","col":213},
+ "next":{"id":123,"lemma":"Analogie","band":"1","col":214},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":13410,"name":"Karl Barth","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":63,"name":"K. Barth","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":252,"name":"W. Pannenberg","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1030,"name":"E. Jüngel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3130,"name":"Balthasar","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4817,"name":"F. Hammer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8458,"name":"M. Reding","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19071,"name":"J. Mc Intyre","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":123,"lemma":"Analogie","tf":3},{"id":309,"lemma":"Aussage","tf":2}],
+ "see_also":[],
+ "groups":[{"id":44,"name":"Theologie","label":"Analogia fidei (Barth)"}],
+ "reg_authors":[{"name":"Geyer Hans-Georg","n":2}]
+}
+);

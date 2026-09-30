@@ -1,0 +1,35 @@
+HWPH.put("t/896",
+{
+ "b":"Farbenlehre. Ausgehend vom ästhetischen Problem möglicher Gesetzmäßigkeit der Farbgebung in der Malerei , betrachtet GOETHE im Entwurf ‹Zur F.› 1810 Farbe als «ein elementares Naturphänomen für den Sinn des Auges» , das durch das einfache, unteilbare Licht hervorgebracht und sichtbar wird . Gegen Newtons Dispersionslehre hält er an der Homogenität des Lichts fest und lehnt das isolierte, auf mathematische Ergebnisse gerichtete Experiment ab . – Entstehung der Farbe aus Wirkung und Gegenwirkung des Harmonie und Totalität fordernden Auges; aus dem Gegensatz von Licht und Finsternis an farblosen Mitteln als Gegensatz – für Goethe ein Urphänomen –; und Mischung zweier Grundfarben (Gelb, Blau) zu sechs Farben im Farbkreis werden auf die «allgemeinen Naturformeln» Polarität und Steigerung zurückgeführt . Mit ihrer Hilfe soll die F. an andere Gebiete angegliedert und «eine vollkommnere Einheit des physischen Wissens» vorbereitet werden. Voraussetzung dafür ist die im polemischen Teil versuchte Widerlegung Newtons und die Aufarbeitung der Geschichte der F. . Die Geschichte der sich wiederholenden «wahren Ansichten» und «Irrtümer» , in der sich nach Goethe die Wissenschaft selbst darstellt , verdeutlicht zugleich, daß «im Wissen sowohl als in der Reflexion kein Ganzes zusammengebracht werden kann», daher «Wissenschaft notwendig als Kunst» zu integrieren sei . \nDer Entwurf wurde in den Vorstufen besonders von SCHILLER und SCHELLING gefördert . HEGEL stimmte mit Goethe überein in der Ablehnung Newtons und der Auffassung von Licht und Farbe . Im ästhetischen Bereich konnte sich Goethe mit RUNGE verständigen , im physiologischen teilweise mit PURKINJE und J. MÜLLER , während er sich von SCHOPENHAUERS Farbtheorie distanzierte. – Unter den Bemühungen um das Gesamtwerk sind zu nennen: STEINERS Neuentdeckung im Sinne der Anthroposophie ; MATTHAEIS Rekonstruktion der Arbeiten und Verfahrensweise im Blick auf eine «Erscheinungslehre» ; die Untersuchungen über Zusammenhänge zwischen naturtheoretischem und dichterischem Werk ; die Darlegung der grundsätzlichen Verschiedenheit der Forschungsobjekte und -methoden von Seiten der modernen Naturwissenschaft .",
+ "n":"GOETHE, Leopoldina-A. (= LA) I/4, 257; I/6, 415–417; Sinnlich-Sittliche Wirkung LA I/4, 224–256. \nVgl. LA I/4–7 (1955–1958); II/6 (1959). \nLA I/4, 19. 224; I/6, 72. \nLA I/3, 130; I/4, 3. 205. \nLA I/3, 129; I/4, 7; I/5, 7; vgl. W. HEISENBERG: Die Goethesche und die Newtonsche F. im Lichte der modernen Physik (1941); Wandlungen in den Grundlagen der Naturwiss. (91959) 85–106; W. LAMBRECHT: Die Goethesche und die Newtonsche F. im Lichte der Erkenntnistheorie. Z. philos. Forsch. 12 (1958) 579–595; E. HEIMENDAHL: Goethes und Newtons F. Licht und Farbe (1961) 19–41; H. J. SCHRIMPF: Über die gesch. Bedeutung von Goethes Newton-Polemik und Romantik-Kritik (1963); Goethe – Spätzeit, Altersstil, Zeitkritik (1966) 24–41. \nLA I/4, 17. 212f.; Maximen und Refl., hg. M. HECKER (1907) Nr. 573. 1281–1302; Brief vom 22. 6. 1808 an Zelter; vgl. W. GERLACH: Aufgabe u. Wert d. Naturwiss. im Urteil Goethes. Goethe Jb. NF 18 (1956) 1–25; M. DYCK: Goethes Verhältnis zur Math. Goethe Jb. NF 23 (1961) 49–71. \nLA I/4, 70f. \nLA I/4, 4. 19. 222f.; I/6, 427; I/4, 162f.; vgl. M. TIETZ: Begriff u. Stilformen der ‹Steigerung› bei Goethe (Diss. Mainz 1961/1963) bes. 47–70. \nLA 1/7, 3. \nVgl. D. KUHN: Goethes Gesch. der F. als Werk und Form. Dtsch. Vjschr. Lit.wiss. 34 (1960) 356–377; H. H. REUTER: «Roman des europäischen Gedankens». Goethes Materialien zur Gesch. der F. Goethe Jb. NF 28 (1966) 1–49. \nLA I/6, VII. \nLA I/4, 7. \nLA I/6, 76–78. \nVgl. LA II/3, Einführung, Zeugnisse; LA I/3, 302–332. \nG. W. F. HEGEL: Encyklopädie (1817) § 221. \nPH. O. RUNGE: Farbenkugel (1810); LA I/4, 257–264; II/6 Zeugnisse. \nJ. PURKINJE: Zur Kenntnis des Sehens in subjektiver Hinsicht (1819); J. MÜLLER: Zur vergleichenden Physiol. des Gesichtssinnes ... (1826). \nA. SCHOPENHAUER: Über das Sehn und die Farben (1816); Zur F. Parerga II (1851) Kap. 7; vgl. W. OSTWALD: Goethe, Schopenhauer und die F. (1918). \nR. STEINER, Einl. in Kürschners Dtsch. Nationallit., Goethe 35, I-XXX; 36, I-XVI. \nLA II/3, XLV. XLVIII-L. \nz.B. A. B. WACHSMUTH: Geeinte Zwienatur (1966); P. SCHMIDT: Goethes Farbensymbolik (1965). \nHEISENBERG, a.a.O. [5]; Das Naturbild Goethes und die technisch-naturwiss. Welt. Goethe Jb. NF 29 (1967) 27–42; dazu K. L. WOLF: Goethe und die Naturwiss. Goethe Jb. NF 29 (1967) 289–293; C. F. v. WEIZSÄCKER: Nachwort zur Hamburger Goethe-A. 13 (1955) 537–554; H. HÖNL: Nachwort zur Cotta-A. 22 (1963) 1067–1106; M. BORN: Betrachtungen zur F. Naturwissenschaften 50 (1963) 29–39.",
+ "l":"s. M. RICHTER: Das Schrifttum über Goethes F. mit bes. Berücksichtigung der naturwiss. Probleme (1938). – G. SCHMID: Goethe und die Naturwiss. (1940). – H. PYRITZ: Goethe-Bibliogr. 1 (1965), 2 (1968). – Seit 1951 fortlaufend er scheinende Bibliogr. des Goethe Jb. s.v. ‹Naturwiss.›.",
+ "au":"W. Malsch",
+ "A":["W. Malsch"],
+ "cb":[[0,910],[48,911],[1374,911]],
+ "cn":[
+  [0,910],
+  [98,910],
+  [139,910],
+  [166,910],
+  [193,910],
+  [721,910],
+  [999,910],
+  [1013,910],
+  [1159,910],
+  [1171,910],
+  [1389,910],
+  [1403,910],
+  [1415,910],
+  [1431,910],
+  [1486,910],
+  [1530,910],
+  [1598,910],
+  [1738,910],
+  [1883,910],
+  [1966,910],
+  [1991,910],
+  [2083,910]
+ ],
+ "cl":[[0,911]]
+}
+);

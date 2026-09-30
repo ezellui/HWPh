@@ -1,0 +1,27 @@
+HWPH.put("a/608",
+{
+ "id":608,
+ "lemma":"Disjunkt",
+ "band":"2",
+ "kind":"article",
+ "col_from":261,
+ "col_to":261,
+ "pdf_from":4435,
+ "pdf_to":4435,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":254,
+ "toc":[],
+ "html":"<p>Disjunkt nennt man in der Logik Begriffe, deren Umfange kein Element gemeinsam haben, die aber einen gemeinsamen Oberbegriff besitzen, z.B. Apfel – Kirsche: Obst. Die den Begriffen entsprechenden Begriffsumfänge stehen im Verhältnis der <a class=\"xref\" href=\"#/a/948\"><i>Fremdheit</i></a> <span class=\"sd\">→ (s.d.)</span>.</p>",
+ "prev":{"id":607,"lemma":"Disciplina, doctrina","band":"2","col":256},
+ "next":{"id":609,"lemma":"Disjunktion","band":"2","col":261},
+ "backlinks":[{"id":609,"lemma":"Disjunktion","n":1}],
+ "outlinks":[{"id":948,"lemma":"Fremd, Fremdheit","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":948,"lemma":"Fremd, Fremdheit"}],
+ "groups":[{"id":22,"name":"Logik","label":"Disjunkt"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

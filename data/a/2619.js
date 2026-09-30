@@ -1,0 +1,48 @@
+HWPH.put("a/2619",
+{
+ "id":2619,
+ "lemma":"Rechtszweck",
+ "band":"8",
+ "kind":"article",
+ "col_from":353,
+ "col_to":355,
+ "pdf_from":31299,
+ "pdf_to":31303,
+ "authors":["A. Trupp"],
+ "n_notes":11,
+ "n_chars":4954,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Rechtszweck. Unter dem Begriff ‹R.› kann zum einen der Zweck einer einzelnen Vorschrift, zum anderen der Zweck des Rechts im allgemeinen verstanden werden. <span class=\"col\" data-col=\"354\"></span> In der ersten Bedeutung handelt es sich um einen juristisch-dogmatischen Begriff: Das rechtsanwendende Organ ermittelt den rechtspolitischen Zweck einer Vorschrift, um diese auf einen zu beurteilenden Sachverhalt anzuwenden. In der zweiten Bedeutungsvariante liegt ein rechtsphilosophischer oder rechtstheoretischer Begriff vor. In der Geschichte der Philosophie ist der Zweck des Rechts von verschiedenen philosophischen Schulen unterschiedlich bestimmt worden. Den Naturrechtsschulen ist gemein, den Zweck des Rechts im Streben nach Verwirklichung überpositiver Werte zu erblicken <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Diese überpositiven Werte können sein: der Wille Gottes, die Gerechtigkeit, die Vernunft. Seit der Aufklärung wird der Zweck des Rechts zunehmend (auch) soziologisch bestimmt: Das Recht diene der Sicherung der Existenzbedingungen der Gesellschaft, dem Schutz wichtiger Güter wie Leben und Eigentum <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Im 19. Jh. haben K. MARX und F. ENGELS in dezidierter Weise zum Zweck des Rechts Stellung bezogen. Auch ihre Bestimmung des R. kann als soziologisch angesehen werden. Danach dient das Recht den Interessen der jeweils herrschenden Klassen in der Gesellschaft. Welche Klassen in der Geschichte zur Herrschaft über andere Klassen berufen sind, ist kein Ergebnis historischer Zufälligkeit, sondern durch das Gesetz der Übereinstimmung von Produktivkräften und Produktionsverhältnissen bestimmt. Das Recht erscheint als Instrument zur Sicherung von Macht <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Am Ende des 19. Jh. hat der Zweck im Recht in ganz besonderer Weise durch R. VON JHERING Einfluß auf das Rechtsdenken gewonnen. Nach Jhering ist der Zweck der Schöpfer des gesamten Rechts. Ziel des Rechts könne niemals die Verwirklichung des an sich Wahren sein. Wahrheit sei das Ziel der auf Erkenntnis gerichteten Wissenschaft. Für einen auf Handeln bezogenen Willensinhalt gebe es jedoch nicht den absoluten Maßstab der Wahrheit, sondern es könne nur den relativen Maßstab der Richtigkeit geben. Ob ein Handeln richtig sei, entscheide sich danach, ob es den angestrebten Zweck verwirkliche, ob es also die ‘Richtungʼ des Zwecks besitze <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die historische Wandlungsfähigkeit des Rechts, d.h. seine wechselnden Inhalte, erklärten sich aus den wechselnden Zwecken, die die Gesellschaft mit dem Recht verfolge. Die Idee eines ewig gleichen Rechts sei um nichts besser als die Forderung, daß die ärztliche Behandlung aller Kranken gleich sein müsse <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Allem Recht gemein sei lediglich der abstrakte Zweck der Sicherung der (jeweils unterschiedlichen) Lebensbedingungen der Gesellschaft <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Dieser Zweck könne natürlich bei vielen gesetzlichen Detailregelungen nicht unmittelbar erkannt werden, da solche Regelungen ohne weiteres auch durch andere Regelungen hätten ersetzt werden können. Ein modernes Beispiel ist die vom Gesetzgeber zu entscheidende Frage, ob im Straßenverkehr rechts oder links gefahren werden soll. Für Jhering dient das «Ob» einer Regelung dem genannten Zweck der Sicherung der Lebensbedingungen der Gesellschaft, nicht unbedingt auch das «Wie». Letzteres könne «frei» sein <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Nach Jhering nimmt das Recht seine Aufgabe in der Weise wahr, daß die Sicherung der Lebensbedingungen der herrschenden Schichten Vorrang genießt. Doch der Schwache profitiere davon, daß der Starke eben durch das ungleiche Recht gehindert sei, den status quo noch weiter zu Lasten der anderen Gruppen der Gesellschaft zu verschieben <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Eine Fortentwicklung dieser Gedanken stellt die Interessen- und Wertungsjurisprudenz dar, die sich im ersten Drittel des 20. Jh. entwickelte. Danach wird die Rechtsetzung von Interessen bestimmt, die zueinander in Widerstreit treten. Jedes Rechtsgebot entscheidet einen Interessenkonflikt (Konflikttheorie) <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Der Zweck des Rechts verkörpert sich demnach in der Förderung des in diesem Konflikt obsiegenden Interesses, doch <span class=\"col\" data-col=\"355\"></span> ist die konkrete Ausgestaltung der Rechtsnorm auch davon abhängig, ob dem unterliegenden Interesse zumindest graduell entsprochen wird <sup class=\"fn\" data-fn=\"0-10\">10</sup>. – Die Wertungsjurisprudenz korrigiert die Interessenjurisprudenz dahingehend, daß die Interessen nicht etwa ähnlich wie Naturkräfte, d.h. gleichsam von selbst eine Rechtsnorm formen könnten, sondern dazu vielmehr ein Auslese- und Bewertungsverfahren der Interessen erforderlich sei <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">H. WAGNER: Die Würde des Menschen (1992) § 16: Rechtsprinzipien und R.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"355\"></span> Vgl. H. COING: Grundzüge der Rechtsphilos., Kap. IV, Abschn. III (<sup>4</sup>1985) 203f.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. J. LOCKE: Of civil governm. § 134. Works 1–10 (London 1823, ND 1963) 5, 416.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. die gedrängte Darst.: F. ENGELS: Karl Marx. MEW 19, 102–104; vgl. Art. ‹Recht›, in: G. LABICA/G. BENSUSSAN (Hg.): Krit. Wb. des Marxismus (1987) 6, 1112–1118.</li>\n<li id=\"fn0-4\" value=\"4\">R. VON JHERING: Der Zweck im Recht 1 (<sup>2</sup>1884) 436f.</li>\n<li id=\"fn0-5\" value=\"5\">a.O. 440.</li>\n<li id=\"fn0-6\" value=\"6\">443.</li>\n<li id=\"fn0-7\" value=\"7\">451.</li>\n<li id=\"fn0-8\" value=\"8\">553f.</li>\n<li id=\"fn0-9\" value=\"9\">PH. HECK: Interessenjurisprudenz (1933) 13.</li>\n<li id=\"fn0-10\" value=\"10\">a.O.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. R. MÜLLER-ERZBACH: Die Rechtswiss. im Umbau (1950) 68.</li>\n</ol>",
+ "prev":{"id":2618,"lemma":"Rechtsverhältnis","band":"8","col":352},
+ "next":{"id":2620,"lemma":"Recta ratio","band":"8","col":355},
+ "backlinks":[{"id":2606,"lemma":"Rechtsidee","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Zweck des Rechts","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":45,"name":"F. Engels","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1619,"name":"R. von Jhering","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21,"name":"J. Locke","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1207,"name":"H. Coing","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4269,"name":"G. Labica","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6938,"name":"G. Bensussan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":919,"name":"Heck","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":27312,"name":"R. Müller-Erzbach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":928,"name":"H. Wagner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2598,"lemma":"Recht","tf":18},
+  {"id":2645,"lemma":"Regelung","tf":3},
+  {"id":1099,"lemma":"Gesellschaft","tf":6},
+  {"id":2610,"lemma":"Rechtsnorm","tf":2},
+  {"id":2470,"lemma":"Produktionsverhältnisse/Produktivkräfte","tf":2},
+  {"id":3499,"lemma":"Vorschrift","tf":2},
+  {"id":1572,"lemma":"Klasse, soziale","tf":3},
+  {"id":3588,"lemma":"Wert","tf":2},
+  {"id":3718,"lemma":"Zweck; Ziel","tf":2}
+ ],
+ "see_also":[{"id":2606,"lemma":"Rechtsidee"}],
+ "groups":[{"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Rechtszweck"}],
+ "reg_authors":[{"name":"Trupp Andreas","n":4}]
+}
+);

@@ -1,0 +1,76 @@
+HWPH.put("a/910",
+{
+ "id":910,
+ "lemma":"Fest",
+ "band":"2",
+ "kind":"article",
+ "col_from":938,
+ "col_to":940,
+ "pdf_from":6641,
+ "pdf_to":6648,
+ "authors":["G. Lieberg","W. Siebel"],
+ "n_notes":21,
+ "n_chars":8532,
+ "toc":[
+  ["p0","I. – F. heißt griechisch ἑορτή. Das Wort verlangt zur Verdeutlichung den ",1],
+  ["h2","Literaturhinweise",0],
+  ["p4","II. F. ist allgemein die öffentliche, zur Institutionalisierung neigende D",1],
+  ["h8","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p id=\"p0\">I. – F. heißt <i>griechisch</i> ἑορτή. Das Wort verlangt zur Verdeutlichung den Zusatz τοῦ θεοῦ (des Gottes). Der ursprüngliche Sinn des Ausdrucks dürfte «Liebeserweis an die Gottheit» sein. Der religiöse Charakter des griechischen F. zeigt sich auch in den F.-Namen, die entweder auf den gefeierten Gott weisen oder auf Kulthandlungen, Kultorte und Kultgeräte hindeuten. Grammatikalisch sind die F.-Namen neutrale Plurale von Adjektiven, die gedanklich den ebenfalls adjektivischen Zusatz ἱερά (heilig) implizieren. So heißt das Herafest Ἡραῖα ἱερά, das Dionysosfest, an dem die πίθοι (Weingefäße) geöffnet werden, Πιθοίγια ἱερά. Erst viel später wurde dafür der feminine Nom. Sing. Πιθοιγία (Faßöffnung) geprägt, was eine Reduktion auf die bloße Handlung bedeutet. Die herrschende Namensform dagegen zeigt, daß für den Griechen die atmosphärische Einheit der einzelnen Ereignisse eines F. wesentlich war <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Aus dem Umstand, daß die griechischen Kalender eigentlich Verzeichnisse von F.-Tagen sind, sieht man, wie den F. die Aufgabe zufiel, das gleichförmige Zeitkontinuum zu gliedern. Die F. durchbrechen den linearen Zeitfluß durch ihre zyklische Wiederkehr nach einem oder mehreren Jahren. Der besondere Zeitcharakter des F. wird in der Definition der pseudoplatonischen Ὅροι <sup class=\"fn\" data-fn=\"0-2\">2</sup> bestimmt. Danach ist das F. eine durch Gesetz festgelegte «heilige Zeit» (χρóνος ἱερóς), d.h. eine den Göttern geweihte, durch deren mächtige Anwesenheit die Zeit des Menschen suspendierende Zeitspanne. Den Grund für die freudige Gestimmtheit des Menschen während der F.-Zeit sieht PLUTARCH <sup class=\"fn\" data-fn=\"0-3\">3</sup> nicht in dem Genuß von Wein und Fleisch, sondern in dem Glauben, daß der Gott wohlwollend anwesend ist und das F.-Geschehen huldvoll akzeptiert. Den objektiven Gehalt des F. erblickt PLATON <sup class=\"fn\" data-fn=\"0-4\">4</sup> in einem Austausch zwischen Menschen und Göttern, der als erholsame Unterbrechung der sonst für das menschliche Leben kennzeichnenden Mühen aufzufassen ist.</p>\n<p>Die <i>lateinische</i> Sprache hat für F. die stammverwandten Wörter <i>feriae</i> und (<i>dies) festus.</i> Das Wesen der feriae liegt in dem Ausschluß aller profanen, im materiellen Interesse des Menschen liegenden Tätigkeit. Die Zeit der feriae gehört ganz den Göttern, ist ihnen geweiht <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Dieser Auffassung entspricht es, wenn bei Erdbeben feriae der Sühne vorgeschrieben werden oder wenn die Iupiterpriesterin nach dem Hören eines Donnerschlages bis zur Ausführung des Sühneaktes ‹feriata› ist <sup class=\"fn\" data-fn=\"0-6\">6</sup>: Die Störung der Beziehung zwischen Mensch und Gott verlangt, daß der Mensch seine Zeit nicht durch profane Tätigkeit den Göttern entzieht, solange die Störung dauert. Für den Freien bedeutet die bei den feriae gebotene Arbeitsenthaltung <span class=\"col\" data-col=\"939\"></span> Ausruhen von Rechtshändeln, für den Sklaven Freisein von körperlicher Tätigkeit <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Im Normalfall, bei dem die feriae zugleich dies festi sind, wird die arbeitsfreie Zeit zu Opfern für die Götter, auf das anschließende F.-Essen und auf F.-Spiele verwandt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Der Vorrang der F.-Zeit vor der übrigen Zeit ergibt sich aus der Einteilung aller Tage in dies festi und profesti – im vorcaesarischen Jahr gehören 235 Tage den Menschen und 109 (!) den Göttern – sowie daraus, daß die dies profesti als Konzession zur Erledigung der menschlichen Angelegenheiten gelten <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Dauernde Festlichkeit ist ein Attribut göttlichen Seins. Indem der <i>flamen Dialis quotidie feriatus</i> ist (der Priester des Jupiter täglich «feiert») <sup class=\"fn\" data-fn=\"0-10\">10</sup>, vergegenwärtigt er die Seinsweise Iupiters auf Erden <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Ähnlich sucht das F. der <i>Saturnalia</i> das goldene Zeitalter wiederherzustellen.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">M. P. NILSSON: Griechische F. (1906). – L. DEUBNER: Attische F. (1932). – W. WARDE FOWLER: Roman festivals of the period of the Republic (London <sup>2</sup>1908). – G. VACCAI: Le feste di Roma antica (Turin <sup>2</sup>1927). – K. KERÉNYI s. Anm. [1] 53–74: Wesen des F.; auch in: Paideuma 1 (1938/40) 59–74. – G. LIEBERG: Die Bedeutung des F. bei Horaz, in: Synusia, Festgabe für W. Schadewaldt (1965) 403–427.</p>\n<p id=\"p4\">II. F. ist allgemein die öffentliche, zur Institutionalisierung neigende Darstellung der sozialen Gruppe durch sich selbst, zumal Ausdruck ihrer gemeinsamen sozialen Verpflichtung, ihres Könnens und des Dankes. ‹F.› steht in engem Begriffszusammenhang mit ‹Spiel› und ‹Kult›.</p>\n<p>Wiederkehrende Merkmale des Festes sind die Ausgliederung aus der profanen Zeit <sup class=\"fn\" data-fn=\"1-1\">1</sup>, ein abgegrenzter, geheiligter Raum, die Beteiligung aller Mitglieder der Gruppe am festlichen Geschehen und eine besondere Stimmung (Freude), die Erhebung über den Alltag. Sie kann sich bis zum Rausch steigern. In den Rahmen des F. sind eingeordnet in erster Linie Opfer und Mahl, ferner Wettkampf, Tanz, Musik, Gesang, (Ver-)Kleidung, Schmuck; nimmt man den F.-Raum hinzu, so besitzt auch die bildende Kunst ihren Platz im F. <sup class=\"fn\" data-fn=\"1-2\">2</sup>.</p>\n<p>Ein F. bezieht sich stets auf einen mythischen oder historischen Anlaß (Gründung, mythische Übertragung der Hauptnahrungsmittel, Sieg, Krönung, Amtseinsetzung überhaupt usw.), der als Geschenk (Gnade, Stiftung) verstanden wird, jedenfalls nicht durch die eigene Leistung allein zu begründen ist. Dieses Ereignis wird im F. entfaltet oder «wiederholt». Die Beschenkten erhalten (erneut) ihr Geschenk und bedanken sich zugleich, rühmen und ehren den Spender. Das Opfer im F. ist das Gegengeschenk der Beschenkten, es vertritt alle Mitglieder der Gruppe und zeigt deren Hingabebereitschaft an. Neben die Vergegenwärtigung des Anlasses tritt unmittelbar die Vergegenwärtigung der Gemeinschaft der Beschenkten. Das Volk «zeigt von sich das Beste, was es hat, das wozu es fähig gewesen ist, sich zu machen ... alles gehört dazu, den Göttern Ehre zu bezeigen» <sup class=\"fn\" data-fn=\"1-3\">3</sup>. Der F.-Teilnehmer ist, wenn nicht Spieler, so Zuschauer, <span class=\"col\" data-col=\"940\"></span> der dieser Darstellung gegenüber die Haltung der Muße (contemplatio) einnimmt. Beide Funktionen sind jedoch nicht scharf zu trennen, auch der Spieler ist in gewissem Umfang Zuschauer und umgekehrt. – Von hier aus können die modernen «weltlichen» F. als reduzierte Formen des Grundtyps angesehen werden.</p>\n<p>Die Aussagen der Feiernden über die F. stimmen darin überein, daß in ihnen die Verbindung mit dem Göttlichen in besonderer Weise erlebt wird. Die Götter selbst sind F.-Genossen <sup class=\"fn\" data-fn=\"1-4\">4</sup>. Der F.-Teilnehmer wird hineingehoben in die ursprüngliche Zeit (oder die Endzeit), von der der Mythos berichtet. Davon abweichende Stimmen sind seit dem 18. Jh. zu finden. Die Aufklärung ist von der Machbarkeit der F. überzeugt (COMTE); ROUSSEAU erklärte ihren Inhalt für «nichts», man könne sie jedoch zu dem Zweck benutzen, daß alle Menschen noch mehr vereinigt werden <sup class=\"fn\" data-fn=\"1-5\">5</sup>. Für NIETZSCHE ist das F. «Heidentum par excellence», «ein göttliches Jasagen zu sich aus animaler Fülle und Vollkommenheit» <sup class=\"fn\" data-fn=\"1-6\">6</sup>. Nach FREUD ist ein F. «ein gestatteter, vielmehr ein gebotener Exzeß ..., die festliche Stimmung wird durch die Freigebung des sonst Verbotenen erzeugt» <sup class=\"fn\" data-fn=\"1-7\">7</sup>. Aus der Sicht des Existentialismus «ist es nötig, die Existenz in der Gegenwart festzuhalten, wenn man nicht will, daß das ganze Leben als ein Zerfließen ins Nichts erscheint». Diese Funktion erfüllt nach S. de BEAUVOIR das F. <sup class=\"fn\" data-fn=\"1-8\">8</sup>. Die umfassendsten F.-Theorien stammen von CAILLOIS und PIEPER. Für Caillois ist der Überschwang (excès) wesentlicher Bestandteil des F. «Er ist nötig für den Erfolg der Zeremonien ..., um die Natur oder die Gesellschaft zu erneuern» <sup class=\"fn\" data-fn=\"1-9\">9</sup>. Nach Pieper liegt das Zentrum des F. in der «Zustimmung zur Welt» <sup class=\"fn\" data-fn=\"1-10\">10</sup>.</p>\n<h3 id=\"h8\">Literaturhinweise</h3>\n<p class=\"lit\">R. CAILLOIS s. Anm. [9]. – M. ELIADE: Das Heilige und das Profane (1957). – E. FINK: Spiel als Weltsymbol (1960). – H. KUHN: Das Sein und das Gute (1962). – J. PIEPER s. Anm. [10]. – A. HALDER: Kunst und Kult (1964). – E. HORNUNG: Gesch. als F. (1966). – H. COX: The feast of fools. A theol. essay on festivity and fantasy (Cambridge, Mass. 1969); dtsch. Das Fest der Narren (1969).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"939\"></span> K. KERÉNYI: Die Relig. der Griechen und Römer (1963) 73f.</li>\n<li id=\"fn0-2\" value=\"2\">PSEUDO-PLATON, Definitionen 415 a 10.</li>\n<li id=\"fn0-3\" value=\"3\">PLUTARCH, Non posse suaviter vivi secundum Epicurum 1102 a.</li>\n<li id=\"fn0-4\" value=\"4\">PLATON, Resp. 653 d.</li>\n<li id=\"fn0-5\" value=\"5\">MACROBIUS I, 16, 2.</li>\n<li id=\"fn0-6\" value=\"6\">a.a.O. 16, 8.</li>\n<li id=\"fn0-7\" value=\"7\">CICERO, De leg. II, 12, 29.</li>\n<li id=\"fn0-8\" value=\"8\">MACROBIUS I, 16, 3.</li>\n<li id=\"fn0-9\" value=\"9\">a.a.O. 16, 2.</li>\n<li id=\"fn0-10\" value=\"10\">GELLIUS X, 15, 16.</li>\n<li id=\"fn0-11\" value=\"11\">KERÉNYI, a.a.O. [1] 239. <span class=\"col\" data-col=\"940\"></span></li>\n<li id=\"fn1-1\" value=\"1\">PSEUDO-PLATON, Definitionen 415 a.</li>\n<li id=\"fn1-2\" value=\"2\">Vgl. FR. SCHLEIERMACHER, Praktische Theologie. Sämtl. Werke 13 (1850) 73.</li>\n<li id=\"fn1-3\" value=\"3\">HEGEL, Religionsphilos. Sämtl. Werke, hg. GLOCKNER 16 (1959) 141.</li>\n<li id=\"fn1-4\" value=\"4\">PLATON, Gesetze 253 d.</li>\n<li id=\"fn1-5\" value=\"5\">J.-J. ROUSSEAU, Lettre à M. d'Alembert. Oeuvres complètes 2 (Genf 1782) 386.</li>\n<li id=\"fn1-6\" value=\"6\">FR. NIETZSCHE, Werke, Musarion-A. 19 (1926) 292.</li>\n<li id=\"fn1-7\" value=\"7\">S. FREUD, Totem und Tabu. Ges. Werke 9 (London 1940ff.) 170.</li>\n<li id=\"fn1-8\" value=\"8\">S. de BEAUVOIR: Pour une morale de l'ambiguïté (Paris 1947) 175.</li>\n<li id=\"fn1-9\" value=\"9\">R. CAILLOIS: L'homme et le sacré (Paris 1939, <sup>2</sup>1950) 94.</li>\n<li id=\"fn1-10\" value=\"10\">J. PIEPER: Zustimmung zur Welt; eine Theorie des F. (1963) Titel u. passim.</li>\n</ol>",
+ "prev":{"id":909,"lemma":"Fertigkeit","band":"2","col":935},
+ "next":{"id":911,"lemma":"Fetischismus","band":"2","col":940},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"excès","qualifier":"II","band":"2","col":"940"},
+  {"term":"Überschwang","qualifier":"II","band":"2","col":"940"},
+  {"term":"ἑορτή","qualifier":"I","band":null,"col":null},
+  {"term":"χρόνος i‘ερός","qualifier":"I","band":"2","col":"938"}
+ ],
+ "persons":[
+  {"id":3,"name":"Platon","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":572,"name":"J. Pieper","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1949,"name":"K. Kerényi","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":39,"name":"J.-J. Rousseau","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":99,"name":"Plutarch","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":595,"name":"Macrobius","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1772,"name":"Ps.-Platon","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":2418,"name":"S. de Beauvoir","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4,"name":"G. W. F. Hegel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":138,"name":"A. Comte","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1273,"name":"Gellius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":526,"name":"E. Fink","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":852,"name":"M. Eliade","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":779,"name":"H. Kuhn","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2783,"name":"M. P. Nilsson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2725,"name":"G. Lieberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4994,"name":"L. Deubner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6262,"name":"A. Halder","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5607,"name":"E. Hornung","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20459,"name":"W. Warde Fowler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20460,"name":"G. Vaccai","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2141,"name":"R. Caillois","b":1,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2229,"lemma":"Opfer","tf":3},
+  {"id":3402,"lemma":"Vergegenwärtigung","tf":2},
+  {"id":3713,"lemma":"Zuschauer","tf":2},
+  {"id":2973,"lemma":"Spiel","tf":3},
+  {"id":3027,"lemma":"Stimmung","tf":2},
+  {"id":1199,"lemma":"Gruppe, soziale","tf":3}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Fest II"},
+  {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Fest"}
+ ],
+ "reg_authors":[{"name":"Lieberg Godo","n":2},{"name":"Siebel Wigand","n":1}]
+}
+);

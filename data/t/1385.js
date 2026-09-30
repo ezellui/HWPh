@@ -1,0 +1,38 @@
+HWPH.put("t/1385",
+{
+ "b":"Illative Sense (Folgerungssinn oder -organ). Gegen die Einschränkung der folgernden Denktätigkeit auf den Bereich der «verbalen Logik», des logisch Formulierbaren , macht J. H. NEWMAN in seiner Theorie der Gewißheitsbildung (Grammar of Assent (1870) ) die Fähigkeit zum mentalen, impliziten Folgern (implicit reasoning) geltend, für die er den Terminus ‹I.S.› prägt . Der I.S. ist das «supralogische Urteilsvermögen» , die Perfektion des Folgerungsvermögens (ratiocinative faculty ) persönlicher Art im Bereich des Konkreten , ein lebendiges Organ, elastischer, delikater als verbale Argumentation , eher instinktiv als nach Regeln arbeitend , als besonders entwickelte Gabe meist auf ein Gebiet beschränkt (departmental ) und besonders beim einfachen Menschen und beim Genie anzutreffen , wohl zu unterscheiden vom «common sense» . Er ist von der Art der aristotelischen Phronesis , wenn man diese nicht auf den Bereich des Praktischen beschränkt ; ein Organ des Suchens nach Wahrheit, ein «organum investigandi» , aber nichts außerhalb der normalen Vernunfttätigkeit, sondern diese selbst in ihrer ganzen Breite, Tiefe und vollen Entfaltung . Der I.S. ist sich selbst Regel, kontrolliert und sanktioniert die verbal formulierten Folgerungen , bietet aber nicht wie diese ein «gemeinsames Maß» zwischen den Denkenden. In der Diskussion dringt er über die formulierten Argumente hinaus zu deren «ersten Prinzipien» vor, findet klärende Aspekte , kontrolliert stillschweigende Implikationen . Er versteht sich auf das Abwägen des Gewichtes apriorischer Wahrscheinlichkeiten im Zusammenhang mit der Frage nach der Verpflichtung zur Zustimmung oder zu ihrer Verweigerung , ist also eine Art Wahrheitsgewissen und das vor allem in den Bereichen des Ethischen und Religiösen , die eines «subtilissimum ratiocinium» bedürfen .",
+ "n":"J. H. NEWMAN: An essay in aid of a grammar of assent (London 1870) (= GA) 271. 359; dtsch: Entwurf einer Zustimmungslehre (1961) (= ZL) 190. 252. \nebda. \nVgl. Art. ‹Illative A 3›, in: The shorter Oxford Engl. dict. (31964) 955. \nNEWMAN, a.a.O. [1] GA 317; vgl. 271. 325. 342 = ZL 222; vgl. 190. 228. 240. \nGA 345 = ZL 242. \nGA 271. 317. 345 = ZL 190. 222. 242. \nGA 317. 342 = ZL 222. 240. \nGA 317 = ZL 222. \nGA 358 = ZL 251. \nGA 339f. = ZL 237–239. \nGA 332–334 = ZL 232–234. \nGA 317 = ZL 222. \nARISTOTELES, Eth. Nic. VI, 4f. u.ö. \nNEWMAN, a.a.O. [1] GA 353–356 = ZL 248–250. \nGA 499 = ZL 349. \nGA 361f. = ZL 254. \nGA 346–352 = ZL 243–247. \nGA 362; vgl. 83. 262f. 269. 332 = ZL 254; vgl. 58. 184f. 189. 233. \nGA 371–375 = ZL 261–263. \nGA 375–380 = ZL 264–267. \nGA 381–383 = ZL 267–269. \nebda. \nGA 376–380 = ZL 264–267; vgl. GA 409–413. 427–429 = ZL 287–289. 299–301. \nSo in NEWMANS geplanter lat. Einl. in die frz. A. seiner Univ.-Predigten (1847), s. Gregorianum 18 (1937) 253, dtsch. J. H. NEWMANN: Zur Philos. und Theol. des Glaubens (1964) 444; vgl. zum Ganzen J. ARTZ: Newman-Lex. (1975) 344–346: ‹I.S.›; 378–380: ‹Geist›, u.a.m.",
+ "l":"J. ARTZ: Der Folgerungssinn (I.S.) in Newmans Zustimmungslehre (Grammar of Assent). Newman-Stud. 2 (Nürnberg 1954) 219–245; Zur Übers. der Terminol. J. H. Newmans a.a.O. 5 (1962) 283–302, bes. 285f.",
+ "au":"J. Artz",
+ "A":["J. Artz"],
+ "cb":[[0,201],[1290,202]],
+ "cn":[
+  [0,201],
+  [0,202],
+  [147,202],
+  [154,202],
+  [229,202],
+  [306,202],
+  [324,202],
+  [362,202],
+  [390,202],
+  [408,202],
+  [426,202],
+  [450,202],
+  [476,202],
+  [494,202],
+  [531,202],
+  [576,202],
+  [594,202],
+  [614,202],
+  [640,202],
+  [708,202],
+  [734,202],
+  [760,202],
+  [786,202],
+  [793,202],
+  [867,202]
+ ],
+ "cl":[[0,202]]
+}
+);

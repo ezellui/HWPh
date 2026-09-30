@@ -1,0 +1,48 @@
+HWPH.put("a/127",
+{
+ "id":127,
+ "lemma":"Analysis fidei",
+ "band":"1",
+ "kind":"article",
+ "col_from":248,
+ "col_to":249,
+ "pdf_from":1037,
+ "pdf_to":1038,
+ "authors":["A. Kolping"],
+ "n_notes":3,
+ "n_chars":2330,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Analysis fidei ist der Titel für ein nachtridentinisches, besonders im 19./20. Jh. diskutiertes theologisches Problem; es wird gefragt, auf welchem Fundament der (kirchliche Autoritäts-)Glaube letztlich ruhe (ultima resolutio fidei). Der Gläubige glaubt «um der Autorität des offenbarenden Gottes willen, der sich nicht täuschen noch selbst täuschen kann» <sup class=\"fn\" data-fn=\"0-1\">1</sup>, ist aber dieser Autorität als redender erst gewiß, wenn er die Glaubwürdigkeit Gottes erkannt hat (wobei diese innere Glaubwürdigkeit des Wortes Gottes von seiner äußeren Glaubwürdigkeit: daß das Wort Gottes im Predigtwort der Kirche tatsächlich gegeben ist, unterschieden wird). Wie verhalten sich für den Glaubensakt diese beiden Faktoren (Autorität Gottes und Glaubwürdigkeitsurteil) im Glaubenden zueinander? Ein Lösungstyp sieht in der Glaubenszustimmung einen Doppelakt; die Zustimmung zum Glaubensinhalt ist Folge derjenigen zum Glaubensmotiv: Ich glaube die Trinität, weil ich (durch Glauben, so SUÁREZ, oder durch Evidenz, so de LUGO, FRANZELIN) festhalte, daß Gott sie geoffenbart hat. Bei dem anderen Lösungstyp erfaßt die Glaubenszustimmung Gottes Wahrhaftigkeit und was er offenbart per modum unius lebendigkonkret. Die Erkenntnis der Glaubwürdigkeitsgründe hat nur die Aufgabe, dem Glaubenden Gott in den Blick zu bringen. Nach <span class=\"col\" data-col=\"249\"></span> THOMAS VON AQUIN geht die Glaubensgewißheit auf das Glaubenslicht zurück, das dem Menschen den sich offenbarenden Gott und was er spricht hell macht <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Nach P. ROUSSELOT wird sogar die Glaubwürdigkeitserkenntnis als natürliche «in wechselseitiger Priorität» mit Glaubensmotiv und -inhalt durch die Glaubensgnade «gesehen» <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">M. J. SCHEEBEN: Kath. Dogmatik 1 (1873, M959). – S. HARENT: Foi. Dict. de théol. cath. 6 (1920). – F. SCHLAGENHAUFEN: Die Glaubensgewißheit und ihre Begründung in der Neuscholastik. Z. kath. Theol. 56 (1932). – E. SEITERICH: Wege der Glaubensbegründung nach der sog. Immanenzapologetik (1938). – R. AUBERT: Le problème de l'acte de foi (1945, <sup>3</sup>1958). – F. MALMBERG: A. f. Lex. Theol. u. Kirche 1 (<sup>2</sup>1957). – J. TRÜTSCH und J. PFAMMATTER: Der Glaube, in: J. FEINER und M. LÖHRER: Mysterium salutis 1 (1965). – H. BOUILLARD: Logik des Glaubens (1966).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"249\"></span> Vaticanum I, vgl. DENZINGER/SCHÖNMETZER Nr. 3008.</li>\n<li id=\"fn0-2\" value=\"2\">THOMAS, S. theol. II/II, 1, 5 ad 1 bzw. 4 ad 3.</li>\n<li id=\"fn0-3\" value=\"3\">P. ROUSSELOT: Die Augen des Glaubens (1910, dtsch. 1963) 29.</li>\n</ol>",
+ "prev":{"id":126,"lemma":"Analyse/Synthese","band":"1","col":232},
+ "next":{"id":128,"lemma":"Analytik","band":"1","col":249},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Autorität","qualifier":"","band":"1","col":"248"},
+  {"term":"Zustimmung","qualifier":"","band":"1","col":"248"}
+ ],
+ "persons":[
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2577,"name":"P. Rousselot","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3363,"name":"J. de Lugo","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":8464,"name":"J. B. Franzelin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2423,"name":"M. J. Scheeben","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3612,"name":"J. Feiner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3943,"name":"M. Löhrer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8465,"name":"S. Harent","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8466,"name":"E. Seiterich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8427,"name":"H. Aubert","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8467,"name":"F. Malmberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5400,"name":"H. Bouillard","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7150,"name":"F. Schlagenhaufen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13421,"name":"J. Trütsch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19081,"name":"J. Pfammatter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":251,"name":"H. Denzinger","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":515,"name":"A. Schönmetzer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":333,"lemma":"Autorität","tf":3}],
+ "see_also":[],
+ "groups":[{"id":44,"name":"Theologie","label":"Analysis fidei"}],
+ "reg_authors":[{"name":"Kolping Adolf","n":2}]
+}
+);

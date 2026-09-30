@@ -1,0 +1,78 @@
+HWPH.put("a/2495",
+{
+ "id":2495,
+ "lemma":"Protophysik",
+ "band":"7",
+ "kind":"article",
+ "col_from":1538,
+ "col_to":1540,
+ "pdf_from":29332,
+ "pdf_to":29338,
+ "authors":["H. Tetens"],
+ "n_notes":20,
+ "n_chars":8543,
+ "toc":[
+  ["p0","1. Zur Wort- und Begriffsgeschichte. – Der Ausdruck ‹P.› ist schon relati",3],
+  ["p1","2. P. als methodische Physikbegründung der konstruktiven Wissenschaftsthe",3],
+  ["h3","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p id=\"p0\">1. <i>Zur Wort- und Begriffsgeschichte.</i> – Der Ausdruck ‹P.› ist schon relativ früh nachweisbar, nämlich im Titel der schon gedruckten, aber unveröffentlicht gebliebenen Arbeit ‹Exercitationes protophysicae› von J. JUNGIUS (1587–1657), und meint hier eine allgemeine Physik (physica generalis) <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – Am Ende des 19. Jh. beziehen K. LASSWITZ und P. NATORP das Wort ‹P.› bereits auf das Programm einer philosophischen Einheit oder Begründung der Naturwissenschaften <sup class=\"fn\" data-fn=\"0-2\">2</sup>. – Der Terminus tritt dann bei H. RICKERT wieder auf, der als «Pro-» oder «Protophysik» die Lehre von den «vorgegenständlichen Zuständen» bezeichnet und als «protophysische Einstellung» «die Einstellung auf das rein Zuständliche als das am meisten Unmittelbare, wovon sich in der Wissenschaft noch reden läßt», charakterisiert <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Diesen Bestimmungen liegt die Vorstellung zugrunde, die Gegenstände der Erkenntnis ließen sich so verstehen, daß reinen Zuständen als dem ‘Inhaltʼ der Gegenstände die Form der Gegenständlichkeit gegeben wird. – Schließlich bekommt ‹P.› eine wissenschaftstheoretische Verwendung bei F. R. LIPSIUS <sup class=\"fn\" data-fn=\"0-4\">4</sup>, der die operativ-aprioristische Begründung der Physik in der Philosophie H. Dinglers als P. bezeichnet. Unabhängig von Lipsius benennt dann später (ab 1961) P. LORENZEN mit dem Wort ‹P.› seine Versuche, die Intentionen der Dinglerschen Philosophie der Physik im Rahmen einer konstruktiven Wissenschaftstheorie fortzuführen <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Wohl ohne Zusammenhang damit versteht M. BUNGE unter ‹P.› ganz allgemein Prinzipien und Theorien, welche bestimmten physikalischen Theorien zugrunde liegen, ohne zu deren logischem oder mathematischem Formalismus zu gehören <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Obwohl also der Ausdruck ‹P.› auch außerhalb der konstruktiven Wissenschaftstheorie der Erlanger Schule gelegentlich vorkommt <sup class=\"fn\" data-fn=\"0-7\">7</sup>, ist er doch heute als Bezeichnung für denjenigen Teil der konstruktiven Wissenschaftstheorie allgemein einschlägig, der sich speziell mit der Rekonstruktion der Physik befaßt <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p id=\"p1\">2. <i>P. als methodische Physikbegründung der konstruktiven Wissenschaftstheorie.</i> – Die P. als konstruktive Wissenschaftstheorie der Physik ist gegen die beiden folgenden Thesen eines empiristischen Physikverständnisses gerichtet: 1. Die Grundgrößen der Physik (Länge, Dauer, Masse, Ladung) sind sogenannte theoretische Größen, die «implizit definiert» werden durch ihr Vorkommen in fundamentalen ‘Naturgesetzenʼ (Bewegungsgleichungen) der Physik <sup class=\"fn\" data-fn=\"0-9\">9</sup>. 2. Diese, die Grundgrößen «implizit definierenden» Fundamentalgesetze der Physik sind wie alle anderen Sätze der Physik auch empirische, durch experimentelle Meßempirie falsifizierbare Sätze. Nach der konstruktiven <span class=\"col\" data-col=\"1539\"></span> Wissenschaftstheorie läuft dieses empiristische Physikverständnis dem sogenannten Prinzip der methodischen Ordnung <sup class=\"fn\" data-fn=\"0-10\">10</sup> zuwider, wonach der Aufbau der Physik metatheoretisch so darzustellen ist, daß dabei die pragmatische Abhängigkeit der Handlungsschritte <sup class=\"fn\" data-fn=\"0-11\">11</sup> gewahrt bleibt, durch die der Aufbau der Physik geleistet wird. Daher verlangt die konstruktive Wissenschaftstheorie, den Aufbau der Physik bis auf ihr handwerklich-technisches Fundament der Meßgeräteherstellung und eine lebensweltlicher Erfahrung <sup class=\"fn\" data-fn=\"0-12\">12</sup> zurückzuverfolgen. Die ideativen Forderungen auf den Begriff zu bringen, welche an funktionstüchtige Meßgeräte zu stellen sind und welche die Hersteller von Meßgeräten technisch zu erzwingen versuchen, macht das Herzstück der konstruktiven P. aus. Die begriffliche Explikation der ideativ zu fordernden Meßgeräteeigenschaften liefert sowohl streng operative Definitionen der physikalischen Grundgrößen als auch theoretische Sätze. Diese sind in dem Sinne a priori für die empirische Physik, als sie nicht durch experimentelle Meßempirie widerlegt werden können, weil jedes funktionstüchtige Meßgerät diesen Sätzen bereits genügen muß, wenn mit ihm theoretisch verwertbare Meßdaten erzielt werden sollen <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>In Ausführung dieses Programms behauptet die P., daß eine pragmatisch zirkelfreie, streng operative Längenmessung nur im Rahmen der euklidischen Geometrie begründet werden kann <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Die euklidische Geometrie ist in diesem Sinne ein «meßtheoretisches Apriori» (LORENZEN) jeder empirischen Physik. In der protophysikalischen Chronometrie, der Theorie der Zeitmessung, wird eine Uhr definiert durch den operativ und seinerseits uhrenfrei definierten Begriff der konstanten Geschwindigkeit (gleichförmige Bewegung) eines sich bewegenden ‘Zeigersʼ. Das klassische Additionstheorem der Geschwindigkeiten ist dabei wiederum ein «meßtheoretisches Apriori» der empirischen Physik <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Die Diskussion zur Definition des Massenbegriffs ist innerhalb der konstruktiven Wissenschaftstheorie unabgeschlossen und kontrovers; es konkurrieren im wesentlichen vier unterschiedliche Vorschläge, das Massenverhältnis zweier Körper jeweils über das newtonsche Gravitationsgesetz (DINGLER, THÜRING) <sup class=\"fn\" data-fn=\"0-16\">16</sup>, über den klassischen Impulserhaltungssatz (LORENZEN) <sup class=\"fn\" data-fn=\"0-17\">17</sup>, über eine die Äquivalenz von träger und schwerer Masse implizierende Wägung mit homogen dichten Gewichtssätzen (JANICH, KAMBARTEL) <sup class=\"fn\" data-fn=\"0-18\">18</sup> oder über die Form der jeweils grundlegenden Bewegungsgleichung (TETENS) <sup class=\"fn\" data-fn=\"0-19\">19</sup> zu bestimmen. Diese Diskussion führt teilweise zu einer Wiederannäherung an Positionen der analytischen Wissenschaftstheorie. Im Zentrum der Kritik an der P. stehen neben den technischen Details vor allem die Konzeption eines «meßtheoretischen Apriori» und damit der Erfahrungsbegriff der Physik überhaupt <sup class=\"fn\" data-fn=\"0-20\">20</sup>. <span class=\"col\" data-col=\"1540\"></span></p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">H. DINGLER: Aufbau der exakten Fundamentalwissenschaft (1964). – P. LORENZEN: Konstrukt. Wiss.theorie (1974). – G. BÖHME s. Anm. [20]. – J. PFARR s. Anm. [20]. – P. JANICH (Hg.): Method. Philosophie-Beiträge zum Begründ.problem der exakt. Wiss. in Auseinandersetzung mit Hugo Dingler (1984). – G. H. HÖVELMANN: Bibliogr. zur P. und ihrer Rezeption und Diskussion. Philos. Naturalis 22 (1985) 145–156.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1539\"></span> J. JUNGIUS: Exercit. protoph. § 105, in: Doxoscopiae Physicae Majores [Nachl.] fol. 50–65; CH. MEINEL (Hg.): Der handschr. Nachlaß von J. J. in der Staats- und Univ.bibl. Hamburg: Katalog (1984) 19.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. K. LASSWITZ: Gesch. der Atomistik vom MA bis Newton 2 (<sup>1</sup>1890, ND <sup>3</sup>1963) 390f. 580; ferner den Br. NATORPS an Laßwitz (3. 6. 1891), in: H. HOLZHEY: Cohen und Natorp 2: Der Marb. Neukantianismus in Quellen (1986) 189.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. H. RICKERT: Die Methode der Philos. und das Unmittelbare. Logos 12 (1923/24) 253; vgl. auch 264; zudem System der Philos. 1: Allg. Grundleg. der Philos. (1921) 289ff. 297.</li>\n<li id=\"fn0-4\" value=\"4\">F. R. LIPSIUS: Wahrheit und Irrtum der Relativitätstheorie (1927).</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. P. LORENZEN: Das Begründ.problem der Geometrie als Wiss. der räuml. Ordnung (1961), in: Method. Denken (1968) 140.</li>\n<li id=\"fn0-6\" value=\"6\">M. BUNGE: Foundations of physics (1967) 85f.</li>\n<li id=\"fn0-7\" value=\"7\">So auch bei S. MÜLLER-MARKUS: P. – Entwurf einer Philos. des Schöpferischen (1971). <span class=\"col\" data-col=\"1540\"></span></li>\n<li id=\"fn0-8\" value=\"8\">Vgl. zur konstrukt. Wiss.theorie P. LORENZEN/O. SCHWEMMER: Konstrukt. Logik, Ethik und Wiss.theorie (<sup>2</sup>1975).</li>\n<li id=\"fn0-9\" value=\"9\">Zur Kritik der sog. impl. Definitionen vgl. auch F. KAMBARTEL: Erfahrung und Struktur (<sup>2</sup>1976), bes. Kap. 4.</li>\n<li id=\"fn0-10\" value=\"10\">Zum Prinzip der method. Ordnung vgl. P. JANICH: Physikal. Begriffsbildung gegen das ‘Prinzip der method. Ordnungʼ? in: W. BALZER/A. KAMLAH (Hg.): Aspekte der physikal. Begriffsbildung (1979) 81ff.</li>\n<li id=\"fn0-11\" value=\"11\">Eine Handlung <i>h</i> ist pragmatisch abhängig von einer Handlung <i>h'</i>, wenn <i>h</i> nur dann erfolgreich ausgeführt werden kann, wenn zuvor <i>h'</i> erfolgreich ausgeführt wurde.</li>\n<li id=\"fn0-12\" value=\"12\">Zum Begriff der lebensweltl. Erfahrung, der dem Begriff der physikal. (Meß-)Empirie gegenübergestellt ist, vgl. F. KAMBARTEL: Wie abhängig ist die Physik von Erfahrung und Geschichte? – Zur method. Ordnung aprior. und empir. Elemente in der Naturwiss., in: Theorie und Begründung (1976).</li>\n<li id=\"fn0-13\" value=\"13\">P. JANICH/H. TETENS: P. – Eine Einf. Philos. Naturalis 22 (1985) 3–21.</li>\n<li id=\"fn0-14\" value=\"14\">R. INHETVEEN: Konstrukt. Geometrie (1983); P. LORENZEN: Elementargeometrie (1984).</li>\n<li id=\"fn0-15\" value=\"15\">P. JANICH: Die P. der Zeit (1980).</li>\n<li id=\"fn0-16\" value=\"16\">H. DINGLER: Die Methode der Physik (1938); B. THÜRING: Die Gravitation und die philos. Grundlagen der Physik (1967).</li>\n<li id=\"fn0-17\" value=\"17\">P. LORENZEN: Zur Definition der vier fundament. Meßgrößen. Philos. Naturalis 16 (1976) 1–9.</li>\n<li id=\"fn0-18\" value=\"18\">Eine allg. Fassung dieses Vorschlages findet sich bereits bei F. KAMBARTEL: Der Satz vom zureich. Grunde und das Begründ.problem der Mechanik. Z. philos. Forsch. 20 (1966) 466ff.; speziellere Varianten verfolgt P. JANICH: Das Maß der Masse, in: K. LORENZ (Hg.): Konstruktionen versus Positionen (1979) 340–350; Die Eindeutigkeit der Massenmessung und die Definition der Trägheit. Philos. Naturalis 22 (1985) 87ff.</li>\n<li id=\"fn0-19\" value=\"19\">H. TETENS: Rationale Dynamik. Philos. Naturalis 22 (1985) 61–86; Experiment. Erfahrung (1987).</li>\n<li id=\"fn0-20\" value=\"20\">Zur Kritik vgl. G. BÖHME (Hg.): P. (1976); J. PFARR (Hg.): P. und Relativitätstheorie (1981).</li>\n</ol>",
+ "prev":{"id":2494,"lemma":"Protophilosophie","band":"7","col":1537},
+ "next":{"id":2496,"lemma":"Protoplast","band":"7","col":1540},
+ "backlinks":[
+  {"id":1187,"lemma":"Größe","n":1},
+  {"id":1404,"lemma":"Impuls","n":1},
+  {"id":1566,"lemma":"Kinematik","n":1},
+  {"id":1652,"lemma":"Konventionalismus","n":1},
+  {"id":2228,"lemma":"Operativismus","n":1},
+  {"id":2365,"lemma":"Phoronomie","n":1},
+  {"id":3510,"lemma":"Vorwissenschaftlich; vortheoretisch","n":1},
+  {"id":3635,"lemma":"Wissenschaft","n":1},
+  {"id":3676,"lemma":"Zeit","n":2}
+ ],
+ "outlinks":[],
+ "register":[{"term":"Wissenschaftstheorie, konstruktive","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":81,"name":"P. Lorenzen","b":3,"n":4,"l":1,"editor":0,"role":"mixed"},
+  {"id":817,"name":"P. Janich","b":1,"n":4,"l":1,"editor":0,"role":"scholar"},
+  {"id":273,"name":"F. Kambartel","b":1,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":253,"name":"J. N. Tetens","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":433,"name":"H. Dingler","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":75,"name":"H. Rickert","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":86,"name":"P. Natorp","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":228,"name":"J. Jungius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":796,"name":"J. Lipsius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1268,"name":"K. Lasswitz","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1657,"name":"M. Bunge","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6558,"name":"B. Thüring","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1340,"name":"G. Böhme","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":8131,"name":"J. Pfarr","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":182,"name":"K. Lorenz","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":819,"name":"O. Schwemmer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4220,"name":"A. Kamlah","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8181,"name":"Ch. Meinel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2067,"name":"W. Balzer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9578,"name":"R. Inhetveen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":16710,"name":"S. Müller-Markus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26781,"name":"G. H. Hövelmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":568,"name":"H. Holzhey","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2368,"lemma":"Physik","tf":16},
+  {"id":3646,"lemma":"Wissenschaftstheorie; Wissenschaftsphilosophie","tf":9},
+  {"id":222,"lemma":"Apriori, emotionales","tf":3},
+  {"id":2749,"lemma":"Sätze, subjektlose","tf":4},
+  {"id":1078,"lemma":"Geometrie","tf":2},
+  {"id":1878,"lemma":"Masse, Massen","tf":2},
+  {"id":691,"lemma":"Einstellung","tf":2},
+  {"id":535,"lemma":"Definition","tf":2}
+ ],
+ "see_also":[{"id":1359,"lemma":"Ideation"}],
+ "groups":[
+  {"id":32,"name":"Physik","label":"Protophysik"},
+  {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Protophysik"}
+ ],
+ "reg_authors":[{"name":"Tetens Holm","n":3}]
+}
+);

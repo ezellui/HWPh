@@ -1,0 +1,65 @@
+HWPH.put("a/3493",
+{
+ "id":3493,
+ "lemma":"Vorgriff; Vorhabe; Vorsicht",
+ "band":"11",
+ "kind":"article",
+ "col_from":1188,
+ "col_to":1190,
+ "pdf_from":48215,
+ "pdf_to":48220,
+ "authors":["Ch. Henning"],
+ "n_notes":26,
+ "n_chars":6112,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Vorgriff; Vorhabe; Vorsicht (engl. <span class=\"col\" data-col=\"1189\"></span> fore-conception, fore-having, foresight; frz. anti-cipation, pré-acquisation, prévision) sind methodische Termini, die M. HEIDEGGER in den 1920er Jahren entwickelt. Während ‹Vorhabe› wohl ein genuin Heideggerscher Terminus ist, geben bereits ältere Wörterbücher ‹Vorgriff› [V.] als Übersetzung von «prerogativa», «prolepsis, occupatio» bzw. «praejudicium» wieder <sup class=\"fn\" data-fn=\"0-1\">1</sup>. ‹Vorsicht› hat eine lange Tradition, die mit der Begriffsgeschichte von <a class=\"xref\" href=\"#/a/3276\">‹Umsicht›</a> <span class=\"sd\">→ (s.d.)</span> verbunden ist.</p>\n<p>Bereits 1919 formuliert Heidegger, daß in der Ausarbeitung philosophischer Gedanken «aller Anschauungsvollzug in ... einem regionvorwegnehmenden V. lebt», der als «ursprüngliche Motivbasis» fungiert <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Schon E. HUSSERL betonte die konstitutive Rolle der <a class=\"xref\" href=\"#/a/2488\">‹Protention›</a> <span class=\"sd\">→ (s.d.)</span> als «vorgreifende Erwartungsintention» <sup class=\"fn\" data-fn=\"0-3\">3</sup>: «Die Horizonte sind vorgezeichnete Potentialitäten» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Noch ganz im Sinne des Husserlschen Korrelationsapriori fordert HEIDEGGER: «Den Sinn von Methode muß man sich also mit dem V. selbst vorgeben lassen» <sup class=\"fn\" data-fn=\"0-5\">5</sup> und postuliert «die Notwendigkeit des radikalen Verdachts ... gegen alle regional objektivierenden V.e, gegen die daraus entspringenden Begriffszusammenhänge» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Die als Kritikmethode entworfene methodische Besinnung <sup class=\"fn\" data-fn=\"0-7\">7</sup> – die «Dekonstruktion» von J. DERRIDA vorwegnehmend <sup class=\"fn\" data-fn=\"0-8\">8</sup> – wird von HEIDEGGER in Vorlesungen weiterentwickelt: 1921 entdeckt er an Aristoteles, daß «der V. und die Vorhabe, die Grundintention» der Philosophie selbst, in der «Bekümmerung in und auf die Faktizität» bestehe <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Heideggers eigenes Philosophieren reflektiert zunehmend diese Einsicht, indem er das gelebte Leben selbst als Ursprungsort und Gegenstand der Philosophie miteinbezieht: «‘Begriffʼ ist kein Schema, sondern eine Möglichkeit des Seins ...; zeigt Vorhabe, d.h. versetzt in Grunderfahrung; zeigt V., d.h. verlangt ein Wie des Ansprechens und Befragens. ... Grundbegriffe sind keine Nachträglichkeiten, sondern vortragend: Dasein in den Griff nehmen in ihrer Weise» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Die Forderung nach einer Reflexion auf V., Vorhabe und Vorsicht in der Philosophie folgt aus dem Bewußtsein der Vorstruktur des Daseins selbst, aus welchem die Philosophie «entspringt» und wohin sie «zurückschlägt» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>In ‹Sein und Zeit› begründet Heidegger diese Forderungen, indem er sie zugleich anwendet: Vorhabe ist das auch vorphilosophisch immer schon Verstandene, «aber noch Eingehüllte» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Aufgrundder «existenzialen Vor-Struktur des Daseins selbst» ist ein voraussetzungsloser Anfang unmöglich <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Daher ist methodisch reflektiertes Philosophieren «daran gehalten, das thematische Seiende durch eine erste phänomenale Charakteristik in die Vorhabe zu bringen» <sup class=\"fn\" data-fn=\"0-14\">14</sup>. In ‹Sein und Zeit› geschieht dies dadurch, daß das Dasein «hinsichtlich seines eigentlichen Ganzseinkönnens in die Vorhabe gestellt» wird <sup class=\"fn\" data-fn=\"0-15\">15</sup>, «immer unter der Führung einer Hinsicht, die das fixiert, im Hinblick worauf das Verstandene ausgelegt werden soll» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Vor allem «die Seinsart des betr. Seienden» bedarf solcher «Vor-sicht» <sup class=\"fn\" data-fn=\"0-17\">17</sup>, speziell der «Vor-sicht auf die ursprüngliche Existenzialität» <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Die Auslegung hat sich dabei «je schon ... für eine bestimmte Begrifflichkeit entschieden; sie gründet in einem V.», der «meist unauffällig» bleibt <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Er muß ans Licht gestellt und dem Gegenstand angemessen werden: in den V. sind «alle Seinsstrukturen zu heben» <sup class=\"fn\" data-fn=\"0-20\">20</sup>. In ‹Sein und Zeit› bemüht sich Heidegger daher um die «begriffliche Ausarbeitung der Existenzialien» <sup class=\"fn\" data-fn=\"0-21\">21</sup>. So sind in der Philosophie Heideggers «Methode und Selbsterkenntnis» <sup class=\"fn\" data-fn=\"0-22\">22</sup> konstitutiv verklammert.</p>\n<p>Unter ‹Vorhabe› ist aus heutiger Sicht die Reflexion auf das jeweilige <a class=\"xref\" href=\"#/a/3508\">‹Vorverständnis›</a> <span class=\"sd\">→ (s.d.)</span> zu verstehen, wie sie insbesondere die philosophische Hermeneutik stark gemacht hat <sup class=\"fn\" data-fn=\"0-23\">23</sup>, unter ‹Vorsicht› im Doppelsinne die ständige Rückbesinnung auf den Ort und den Status der eigenen Rede, wie sie Heidegger <span class=\"col\" data-col=\"1190\"></span> vor allem im Kompositionsprinzip von ‹Sein und Zeit› anwandte, unter ‹V.› schließlich die Bemühungen um eine angemessene Begrifflichkeit, die sich auch heute noch dieses Titels bedienen <sup class=\"fn\" data-fn=\"0-24\">24</sup>.</p>\n<p>K. RAHNER hat Heideggers Methodik aufgegriffen, indem er im «V. auf das Sein» als dem «unthematischen, aber unausweichlichen Wissen um die Unendlichkeit der Wirklichkeit» die «transzendentale Erfahrung» sah, von der seine Theologie ausging <sup class=\"fn\" data-fn=\"0-25\">25</sup>. Denn «der V. zielt auf – Gott» <sup class=\"fn\" data-fn=\"0-26\">26</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1190\"></span> Art. ‹vorgriff›. GRIMM 12/II (1951) 1122f.; vgl. Art. <a class=\"xref\" href=\"#/a/3490\">→ Vorbegriff</a>; Art. <a class=\"xref\" href=\"#/a/193\">→ Antizipation</a>. Hist. Wb. Philos. 1 (1971) 419–425.</li>\n<li id=\"fn0-2\" value=\"2\">M. HEIDEGGER: Anm. zu K. Jaspers' ‹Psychol. der Weltanschauungen› [1919–21], in: H. SANER (Hg.): Karl Jaspers in der Diskussion (1973) 70–100, hier: 72. Ges.ausg. [GA] I/9 (1976) 4f.</li>\n<li id=\"fn0-3\" value=\"3\">E. HUSSERL: Erfahrung und Urteil § 21b (1948, <sup>5</sup>1985) 103.</li>\n<li id=\"fn0-4\" value=\"4\">Cartes. Medit. II, § 19 [1931]. Hua. 1 (Den Haag <sup>2</sup>1963) 82.</li>\n<li id=\"fn0-5\" value=\"5\">HEIDEGGER, a.O. [2] 76/9.</li>\n<li id=\"fn0-6\" value=\"6\">a.O. 90/30.</li>\n<li id=\"fn0-7\" value=\"7\">Phän. der Anschauung und des Ausdrucks § 15: Konstitution als leitender V. [SS 1920]. GA II/59 (1993) 128–148; Phän. des relig. Lebens §§ 19–21 [WS 1920/21]. GA II/60 (1995) 78–83; zu § 17, a.O. 128; Notiz, a.O. 269; vgl. A. PAPADAKIS (Hg.): Dekonstruktivismus (1989).</li>\n<li id=\"fn0-8\" value=\"8\">Dazu Art. <a class=\"xref\" href=\"#/a/3160\">→ Textualität; Dekonstruktion</a>. Hist. Wb. Philos. 10 (1998) 1045–1050.</li>\n<li id=\"fn0-9\" value=\"9\">Phänomenolog. Interpret. zu Aristoteles, Anh. I: Voraussetzung [WS 1921/22]. GA II/61 (<sup>2</sup>1994) 179f.</li>\n<li id=\"fn0-10\" value=\"10\">Ontologie (Hermeneutik der Faktizität) § 3 [SS 1923]. GA II/63 (<sup>2</sup>1995) 16.</li>\n<li id=\"fn0-11\" value=\"11\">Sein und Zeit § 7 (1927, <sup>17</sup>1993) 38. GA I/2 (1977) 51; vgl. Proleg. zur Gesch. des Zeitbegriffs § 31d [SS 1925]. GA II/20 (<sup>2</sup>1988) 415.</li>\n<li id=\"fn0-12\" value=\"12\">SuZ § 32, a.O. 150/199.</li>\n<li id=\"fn0-13\" value=\"13\">a.O. 153/203.</li>\n<li id=\"fn0-14\" value=\"14\">§ 45, a.O. 232/308.</li>\n<li id=\"fn0-15\" value=\"15\">§ 63, a.O. 311/411.</li>\n<li id=\"fn0-16\" value=\"16\">§ 32, a.O. 150/199.</li>\n<li id=\"fn0-17\" value=\"17\">§ 45, a.O. 232/309.</li>\n<li id=\"fn0-18\" value=\"18\">§ 63, a.O. 316/418.</li>\n<li id=\"fn0-19\" value=\"19\">§ 32, a.O. 150/200; § 33, a.O. 157/208.</li>\n<li id=\"fn0-20\" value=\"20\">§ 45, a.O. 232/308.</li>\n<li id=\"fn0-21\" value=\"21\">§ 63, a.O. 311/412.</li>\n<li id=\"fn0-22\" value=\"22\">TH. RENTSCH: Konstitution der Moralität (<sup>2</sup>1999) Vorwort.</li>\n<li id=\"fn0-23\" value=\"23\">H.-G. GADAMER: Wahrheit und Methode (1960) 270f.</li>\n<li id=\"fn0-24\" value=\"24\">M. PLÜMACHER: Philos. nach 1945 in der Bundesrep. Deutschland (1996) 188. 221; P. STEKELER-WEITHOFER: Sinnkriterien (1995) 63. 280.</li>\n<li id=\"fn0-25\" value=\"25\">K. RAHNER: Grundkurs des Glaubens (<sup>6</sup>1984) 42f.; Geist in Welt (<sup>2</sup>1957) 153ff.; Hörer des Wortes (<sup>2</sup>1963) 77ff. 176ff.; vgl. W. G. PHILIPPS: Rahner's transc. deduction of the Vorgriff. Thomist 56 (1992) 257–290.</li>\n<li id=\"fn0-26\" value=\"26\">Hörer, a.O. 83; vgl. Geist, a.O. 190.</li>\n</ol>",
+ "prev":{"id":3492,"lemma":"Vorgeschichte","band":"11","col":1186},
+ "next":{"id":3494,"lemma":"Vorherwissen","band":"11","col":1190},
+ "backlinks":[{"id":3352,"lemma":"Ursprung","n":1},{"id":3488,"lemma":"Voraussetzungslosigkeit","n":1}],
+ "outlinks":[
+  {"id":193,"lemma":"Antizipation","n":1},
+  {"id":2488,"lemma":"Protention","n":1},
+  {"id":3160,"lemma":"Textualität; Dekonstruktion","n":1},
+  {"id":3276,"lemma":"Umsicht","n":1},
+  {"id":3490,"lemma":"Vorbegriff","n":1},
+  {"id":3508,"lemma":"Vorverständnis","n":1}
+ ],
+ "register":[
+  {"term":"anticipation","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"das prerogativa","qualifier":"(Heidegger)","band":"11","col":"1188"},
+  {"term":"Dasein (Heidegger)","qualifier":"(Heidegger)","band":"11","col":"1189"},
+  {"term":"Erfahrung, transzendentale (Rahner)","qualifier":"(Heidegger)","band":"11","col":"1190"},
+  {"term":"Erwartungsintention","qualifier":"(Heidegger)","band":"11","col":"1189"},
+  {"term":"foresight","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"philosophische 5 454","qualifier":"(Heidegger)","band":"11","col":"1189"},
+  {"term":"praeiudicium","qualifier":"(Heidegger)","band":"11","col":"1188"},
+  {"term":"pré-aquisation","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"prévision","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Vorhabe","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Vorsicht","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"– I (erk.) 1 419–423 s. auch","qualifier":"(Heidegger)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":13,"name":"M. Heidegger","b":3,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":151,"name":"K. Rahner","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":71,"name":"H.-G. Gadamer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":193,"name":"J. Derrida","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1383,"name":"W. Philipp","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1892,"name":"Th. Rentsch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3824,"name":"H. Saner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2706,"name":"P. Stekeler-Weithofer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9778,"name":"O. Plümacher","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":18147,"name":"A. Papadakis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":527,"lemma":"Dasein","tf":4},{"id":2634,"lemma":"Reflexion","tf":2}],
+ "see_also":[],
+ "groups":[
+  {"id":11,"name":"Existenzphilosophie","label":"Vorgriff; Vorhabe; Vorsicht (Heidegger)"},
+  {"id":14,"name":"Hermeneutik","label":"Vorgriff; Vorhabe; Vorsicht (Heidegger)"}
+ ],
+ "reg_authors":[{"name":"Henning Christoph","n":6}]
+}
+);

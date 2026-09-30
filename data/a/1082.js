@@ -1,0 +1,48 @@
+HWPH.put("a/1082",
+{
+ "id":1082,
+ "lemma":"Geozentrisch, geozentrisches Weltsystem",
+ "band":"3",
+ "kind":"article",
+ "col_from":329,
+ "col_to":329,
+ "pdf_from":8377,
+ "pdf_to":8379,
+ "authors":["J. Mittelstrass"],
+ "n_notes":4,
+ "n_chars":2528,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Geozentrisch, geozentrisches Weltsystem. In der Astronomie spricht man von geozentrischen Koordinaten (nach Wahl der Ebene entweder von Äquatorial- oder Horizontalkoordinaten), wenn die Erde Bezugspunkt des Systems ist. In der Kosmologie führte die Auszeichnung dieses Bezugspunktes zum geozentrischen Weltsystem.</p>\n<p>Als geozentrisch wird ein Weltsystem bezeichnet, in dem Weltzentrum und Erdzentrum zusammenfallen und die planetarischen Bewegungen (einschließlich der Sonnenbewegung) geometrisch auf Kurvenbewegungen um die als ruhend oder um ihre Achse rotierend gedachte Erde zurückgeführt werden. Von einem geozentrischen System spricht man dabei nicht allein, wenn diese Bewegungen a) wie im Falle des <i>homozentrischen</i> Systems des EUDOXOS auf Kreisbahnen stattfinden, deren Achsen durch das Erdzentrum gehen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die planetarischen Bewegungen können vielmehr auch b) unter Zuhilfenahme von <i>Exzentern</i> und <i>Epizykeln</i> (APOLLONIOS <sup class=\"fn\" data-fn=\"0-2\">2</sup>, HIPPARCH <sup class=\"fn\" data-fn=\"0-3\">3</sup>) sowie <i>Ausgleichspunkten</i> (PTOLEMAIOS, unter Einschluß von Exzentern und Epizykeln) um fiktive «exzentrisch» gelegene Punkte erfolgen oder sogar c) wie im sogenannten Tychonischen System (einem Kompromiß zwischen geozentrischer und heliozentrischer Annahme) teilweise um die Sonne stattfinden. Im Falle c) drehen sich die Planeten um die Sonne, die sich ihrerseits wie der Mond und die Fixsternsphäre um die in ihrer Zentralstellung somit bewahrte Erde dreht (im sogenannten «ägyptischen», HERAKLEIDES <sup class=\"fn\" data-fn=\"0-4\">4</sup> zugeschriebenen System drehen sich nur die beiden inneren Planeten, Merkur und Venus, um die Sonne).</p>\n<p>Eine dynamische (mechanische) Begründung suchte das geozentrische System in der Aristotelischen Physik, obgleich diese strenggenommen nur mit einem Eudoxischen System (einem System ohne Exzenter, Epizykeln und Ausgleichspunkten) verträglich ist. Kinematisch (geometrisch) ist das geozentrische System dagegen äquivalent mit dem heliozentrischen System. So ergibt sich die geozentrische Planetenbewegung durch vektorielle Addition der scheinbaren Sonnenbewegung zu der heliozentrischen Planetenbewegung.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">P. DUHEM: Le système du Monde (Paris 1914–59). – TH. HEATH: Greek astronomy (London 1932). – E. J. DIJKSTERHUIS: De Mechanisering van het Wereldbeeld (Amsterdam 1950); dtsch. H. HABICHT (1956).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. den Rekonstruktionsversuch von O. BECKER: Das math. Denken der Antike (1957) 80ff.</li>\n<li id=\"fn0-2\" value=\"2\">PTOLEMAEUS, Synt. XII, 1. Heiberger A. 450. 456.</li>\n<li id=\"fn0-3\" value=\"3\">THEON SM.: Expositio rerum mathematicarum ad legendum Platonem utilium, hg. E. HILLER (1878) 166. 188.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. HERAKLEIDES, Frg. 104–117, hg. WEHRLI (1953).</li>\n</ol>",
+ "prev":{"id":1081,"lemma":"Geosophie","band":"3","col":328},
+ "next":{"id":1083,"lemma":"Gerechtigkeit","band":"3","col":329},
+ "backlinks":[{"id":3557,"lemma":"Welt","n":1},{"id":3687,"lemma":"Zentrum","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Epizykel","qualifier":"","band":"3","col":"329"},
+  {"term":"Exzenter","qualifier":"","band":"3","col":"329"},
+  {"term":"homozentrisch","qualifier":"","band":"3","col":"329"},
+  {"term":"Planetenbahnen","qualifier":"","band":null,"col":null},
+  {"term":"Tychonisches System","qualifier":"","band":"3","col":"329"}
+ ],
+ "persons":[
+  {"id":14224,"name":"Herakleides","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":304,"name":"O. Becker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1494,"name":"Eudoxos von Knidos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1377,"name":"Ptolemaios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1597,"name":"Theon von Smyrna","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2758,"name":"J. B. Ptolemaeus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5666,"name":"Hipparch","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":11053,"name":"Apollonios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":454,"name":"P. Duhem","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1645,"name":"E. J. Dijksterhuis","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3249,"name":"Th. L. Heath","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5670,"name":"H. Habicht","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":955,"name":"F. Wehrli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4532,"name":"E. Hiller","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":408,"lemma":"Bewegung","tf":3},{"id":890,"lemma":"Fall, Abfall","tf":2}],
+ "see_also":[],
+ "groups":[{"id":4,"name":"Astronomie","label":"Geozentrisch"}],
+ "reg_authors":[{"name":"Mittelstrass Jürgen","n":7}]
+}
+);

@@ -1,0 +1,27 @@
+HWPH.put("a/1196",
+{
+ "id":1196,
+ "lemma":"Grundsatz",
+ "band":"3",
+ "kind":"article",
+ "col_from":924,
+ "col_to":924,
+ "pdf_from":10239,
+ "pdf_to":10239,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":146,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Grundsatz ist durch CHR. WOLFF <sup class=\"fn\" data-fn=\"0-1\">1</sup> als Übersetzung von ‹Axiom› in die Philosophie- und Wissenschaftssprache eingegangen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">CHR. WOLFF: Math. Lex. (1716).</li>\n</ol>",
+ "prev":{"id":1195,"lemma":"Grundrechte","band":"3","col":922},
+ "next":{"id":1197,"lemma":"Grundsätze, praktische","band":"3","col":924},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":340,"lemma":"Axiom"},{"id":2418,"lemma":"Postulat"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Grundsatz"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

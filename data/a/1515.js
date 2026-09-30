@@ -1,0 +1,27 @@
+HWPH.put("a/1515",
+{
+ "id":1515,
+ "lemma":"Jungschellingianismus",
+ "band":"4",
+ "kind":"article",
+ "col_from":660,
+ "col_to":660,
+ "pdf_from":13437,
+ "pdf_to":13437,
+ "authors":["H. J. Sandkühler"],
+ "n_notes":5,
+ "n_chars":673,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Jungschellingianismus erscheint – im Unterschied zu ‹Neu-› oder ‹Neoschellingianismus› als Bezeichnung der Schellingnachfolge – in der Auseinandersetzung von M. HESS mit dem Junghegelianismus und der «christlichgermanischen Reaktion» <sup class=\"fn\" data-fn=\"0-1\">1</sup>, als deren Vertreter Hess den im Gegensatz zur «negativen, junghegelschen Philosophie» <sup class=\"fn\" data-fn=\"0-2\">2</sup> «positiven» <sup class=\"fn\" data-fn=\"0-3\">3</sup> L. Stein nennt. Hess sieht im J. die «Reaktion in der sozialistischen Bewegung» <sup class=\"fn\" data-fn=\"0-4\">4</sup>, die «bewußt- und willenlos für die Verbreitung des Sozialismus mitgewirkt» hat <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">M. HESS s. Anm. [1]; jetzt auch in: M. HESS: Philos. und sozialistische Schr. 1837–1850. Eine Auswahl (1961).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">M. HESS: Neue Anekdota (1845) 211.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 210.</li>\n<li id=\"fn0-3\" value=\"3\">ebda.</li>\n<li id=\"fn0-4\" value=\"4\">ebda.</li>\n<li id=\"fn0-5\" value=\"5\">ebda.</li>\n</ol>",
+ "prev":{"id":1514,"lemma":"Junghegelianismus","band":"4","col":658},
+ "next":{"id":1516,"lemma":"Junktor","band":"4","col":660},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Neuschellingianismus","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":311,"name":"M. Hess","b":1,"n":1,"l":2,"editor":0,"role":"source"}],
+ "mentions":[{"id":2582,"lemma":"Reaktion, bedingte","tf":2}],
+ "see_also":[],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Jungschellingianismus"}],
+ "reg_authors":[{"name":"Sandkühler Hans Jörg","n":7}]
+}
+);

@@ -1,0 +1,57 @@
+HWPH.put("a/178",
+{
+ "id":178,
+ "lemma":"Anthroposophie",
+ "band":"1",
+ "kind":"article",
+ "col_from":378,
+ "col_to":380,
+ "pdf_from":1454,
+ "pdf_to":1460,
+ "authors":["H. Witzenmann"],
+ "n_notes":4,
+ "n_chars":7924,
+ "toc":[
+  ["p2","1. Die Grundlage der A. Steiners bildet ein objektiv voraussetzungsloses ",3],
+  ["h3","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Anthroposophie, zuerst von I. P. V. TROXLER (1780–1866) in seiner ‹Naturlehre des menschlichen Erkennens oder Metaphysik› (1828) gebraucht: «Eine <i>Naturlehre des menschlichen Erkennens</i> schien uns die Grundwissenschaft der Philosophie zu sein, und die Stelle von demjenigen, was die ältere Philosophie unter dem Namen Metaphysik begriff, einnehmen zu müssen .... Es leuchtet von selbst ein, daß dieses die eigentliche Ur- und Grundphilosophie sein muß, und daß erst, wenn diese aufgestellt ist, von den übrigen sogenannten philosophischen Wissenschaften die Rede sein kann, da diese denn auch erst durch die Philosophie, oder A., ihre Begründung und ihre gehörige Entwicklung aus dem Einen und Ganzen der Natur erhalten können» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – Bei G. SPICKER (1840–1912) finden sich folgende Bemerkungen: «Handelt es sich aber in der Wissenschaft um die <i>Erkenntniß der Dinge</i>, in der Philosophie dagegen in letzter Instanz <i>um die Erkenntniß dieser Erkenntniß</i>, so ist das eigentliche Studium des Menschen der Mensch selbst und der Philosophie höchstes Ziel ist <i>Selbsterkenntniß</i> oder A.» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. «Ihr [der Philosophie] höchstes Ziel ist Selbsterforschung und Selbsterziehung .... und nur insofern sie dieß thut: uns das höchste und umfassendste Wissen und zugleich das naturgemäßeste und folglich auch glücklichste Dasein gewährt, <span class=\"col\" data-col=\"379\"></span> erkennt und erfüllt sie ihre wahre und ursprüngliche Aufgabe, ist Mutter und Königin aller Tugend und Weisheit – <i>augusta scientiarum et disciplinarum regina omniumque artium mater</i> – und verdient im vollsten Sinne des Wortes, außer der allgemeinen Geschlechtsbezeichnung, den ihr einzig und allein zukommenden Taufnamen: <i>A.</i>» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. – R. ZIMMERMANN (1824–1898) veröffentlichte 1882 seine ‹Anthroposophie im Umriß. Entwurf eines Systems idealer Weltansicht auf realistischer Grundlage› mit der Erklärung: «Eine Philosophie, welche, wie die vorstehende, sich weder wie die Theosophie auf einen menschlichem Wissen <i>unzugänglichen</i> theocentrischen Standpunkt versetzt, um von ihm aus den ‹Vernunfttraum› als längst geschaffene Wirklichkeit, noch wie die Anthropologie auf den zwar anthropocentrischen, aber <i>unkritischen</i> Standpunkt gemeiner Erfahrung stellt, um von ihm aus eine ideenerfüllte Wirklichkeit als ‹Traum der Vernunft› anzusehen, welche sonach zugleich anthropocentrisch d.i. von menschlicher Erfahrung ausgehend und doch Philosophie d.i. an der Hand des logischen Denkens über dieselbe hinausgehend sein will, ist A.» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>RUDOLF STEINER (1861–1925) hält den ersten Vortrag über A. am 19. Oktober 1902.</p>\n<p id=\"p2\">1. Die Grundlage der A. Steiners bildet ein objektiv voraussetzungsloses Erkennen: Die Wirklichkeit wird nicht als eine durch das Erkennen fertig auffindbare oder nicht auffindbare vorgestellt, vielmehr als eine solche, die sich der Erkennende erst selbst schafft. Das Erkennen läßt Wirklichkeit im Durchdringen des außer- oder innerseelisch sinnlich (d.i. unmittelbar) Anschaulichen mit den durch die Denkakte ergriffenen Denkinhalten erst entstehen. Da damit das Erkennen als ein Vorgang innerhalb der Wirklichkeit verstanden wird, kann von einer vorerkannten Wirklichkeit nur innerhalb dieses Vorgangs, nicht aber im Sinne eines für diesen Vorgegebenen und daher Vorauszusetzenden die Rede sein. – 2. Daraus ergeben sich die übrigen Inhalte der A. Da im Erkennen das Wesen des als solchen bestimmungslosen Sinnlich-Anschaulichen als ein geistiges erfahren wird, öffnet sich von hier aus der Erfahrungsbereich des Geistigen überhaupt. Dieser wird durch konzentrative und repetitive (meditative) Vertiefung der Denk-, Gefühls- und Willenserlebnisse fortschreitend zugänglich und seinerseits in ideeller Durchdringung des Geistig-Anschaulichen erkenntnismäßig verwirklicht. – 3. Diese existentielle Teilhabe an der Wirklichkeit ist von dem Aufbau des erkennenden Wesens abhängig, der dadurch nicht zur objektiven Voraussetzung des Erkenntnisvorgangs wird; denn von seiner Wirklichkeit zu reden, ist nur innerhalb dieses Vorgangs sinnvoll. Die Anthropologie der A. zeigt daher, daß der Mensch in seinem physischen Leib ein System besitzt, das ihm von der vorerkannten Wirklichkeit nur die ideell neutralen sinnlichen Anschauungen passiv vermittelt, dessen selektiv entstaltende Funktion aber von der aktiven Seite seines Wesens im Ergreifen der Denkinhalte, der gestaltenden Elemente des anschaulich, aber bestimmungslos Empfangenen, zurückgedrängt wird. Zwischen der physischen und geistigen Erscheinungsform des menschlichen Gesamtwesens steht der Gestaltzusammenhang der Lebensprozesse, die dem physischen System innerhalb einer Variationsbreite Bestand geben, und der (intentionalen) Akte, durch die der Mensch seine empfangende Aufmerksamkeit auf das anschaulich Gegebene, seine mitgestaltende Tätigkeit auf die Denkinhalte richtet. – 4. Nur ein so gegliedertes Wesen ist der Freiheit fähig, weil es der Möglichkeit nach nicht nur in einer vorgegebenen, sondern auch in einer in seinen Akten entstehenden Welt lebt. Es entwickelt Existenzbewußtsein im eigentlichen Sinne des Wortes: Bewußtsein der fortschreitenden Selbstgestaltung aus den wirklichkeitsschöpferischen, weil erkennenden Kräften seines Wesens. Diese ist keine «Selbsterlösung», weil sie auf der Erfahrung «nicht ich, sondern das Wesen der Wahrheit in mir» (Christologie) beruht. – 5. Dieses Bewußtsein ist den existentiellen Erlebnissen von Geburt und Tod komplementär, der <span class=\"col\" data-col=\"380\"></span> Begabung mit und dem Entgleiten einer naturalen Basis, weil es sich seiner Aufgabe erst an deren beiden Grenzen bewußt wird. Ein vielgliedriges freiheitsfähiges Wesen entwickelt daher Erkenntnis in einem Schicksal zwischen jenen Grenzen, indem es sie zugleich, der Wirklichkeit inne werdend, überschreitet. Dieses Schicksal wird seinem Wesen nach wiederholt, also durch Wiederverkörperung des Geistes erlebt, weil zu dem Sinn der Selbstgestaltung die fortschreitende Überwindung jener existenzgewissen Grenzerfahrungen gehört. – 6. Die Erkenntnistheorie der A. wird demgemäß zur Ontologie, da der im Erkennen sich erschließende Sinn der Wirklichkeit die Entstehung eines freiheitsfähigen, also die Wirklichkeit durch sich selbst fortentwickelnden Wesens ist. Die Weltentwicklung ist daher auf die Entstehung des erkennend freiheitsfähigen Wesens hingeordnet und hieraus verständlich. Der Mensch erlebt in seinem Erkennen nicht nur einen den wirklichkeitsbildenden Prozessen gleichartigen Vorgang, sondern fügt dem Weltprozeß auch ein neues Element dadurch ein, daß der Erkenntnisprozeß zugleich freie Selbstgestaltung ist. Der Sinn der Welt ist der Mensch. Der Mensch ist der Idee nach Ursprung und Fortsetzung des Weltprozesses.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">R. STEINER: Grundlinien einer Erkenntnistheorie der Goetheschen Weltanschauung (1886); Wahrheit und Wiss. (1892); Die Philos. der Freiheit (1894); Goethes naturwiss. Schriften (1883/97); Goethes Weltanschauung (1897); Das Christentum als mystische Tatsache und die Mysterien des Altertums (1902); Theosophie (1904); Wie erlangt man Erkenntnisse der höheren Welten? (1904); Die Erziehung des Kindes vom Gesichtspunkt der Geisteswiss. (1907); Die Geheimwiss. im Umriß (1910); Die Rätsel der Philos. (1914); Der Christus-Impuls im Zeitenwesen und sein Walten im Menschen (1914); Vom Menschenrätsel (1916); Von Seelenrätseln (1917); Die Kernpunkte der sozialen Frage (1919); Praktische Ausbildung des Denkens (1921); Mein Lebensgang (1923–1925). – <i>Darstellungen.</i> A. P. SHEPHERD: Ein Wissenschaftler des Unsichtbaren (1954). – A. STEFFEN: Begegnungen mit R. Steiner (<sup>2</sup>1955). – O. FRÄNKL-LUNDBORG: Die A. R. Steiners (<sup>3</sup>1957). – J. HEMLEBEN: R. Steiner (1963). – C. UNGER: Schriften (1964). – G. WACHSMUTH: R. Steiners Erdenleben und Wirken (<sup>2</sup>1964). – F. HIEBEL: R. Steiner im Geistesgang des Abendlandes (1965). – H. WITZENMANN: Die Voraussetzungslosigkeit der A. (<sup>2</sup>1969).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"380\"></span> I. P. V. TROXLER: Naturlehre ... (1828, Neudruck 1944) 28.</li>\n<li id=\"fn0-2\" value=\"2\">G. SPICKER: Die Philos. des Grafen von Shaftesbury (1872) 319.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. 366f.</li>\n<li id=\"fn0-4\" value=\"4\">R. ZIMMERMANN: A. im Umriß (1882) 308.</li>\n</ol>",
+ "prev":{"id":177,"lemma":"Anthropomorphismus","band":"1","col":376},
+ "next":{"id":179,"lemma":"Anthropozentrisch","band":"1","col":380},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":1138,"name":"I. P. V. Troxler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2085,"name":"R. Zimmermann","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4353,"name":"G. Spicker","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":19225,"name":"Rudolf Steiner","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1371,"name":"R. Unger","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1843,"name":"R. Steiner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":10533,"name":"H. H. Hiebel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13501,"name":"H. Witzenmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19226,"name":"A. P. Shepherd","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19227,"name":"O. Fränkl-Lundborg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19228,"name":"J. Hemleben","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3147,"name":"C. Wachsmuth","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":4842,"name":"H. Steffen","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3628,"lemma":"Wirklichkeit","tf":12},
+  {"id":2764,"lemma":"Schicksal","tf":2},
+  {"id":175,"lemma":"Anthropologie","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":3},
+  {"id":1184,"lemma":"Grenze","tf":2},
+  {"id":1944,"lemma":"Metaphysik","tf":2},
+  {"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":2},
+  {"id":3634,"lemma":"Wissen","tf":2},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2},
+  {"id":3718,"lemma":"Zweck; Ziel","tf":2},
+  {"id":707,"lemma":"Element","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Anthroposophie"}],
+ "reg_authors":[{"name":"Witzenmann Herbert","n":1}]
+}
+);

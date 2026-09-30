@@ -1,0 +1,78 @@
+HWPH.put("a/1397",
+{
+ "id":1397,
+ "lemma":"Impetus",
+ "band":"4",
+ "kind":"article",
+ "col_from":260,
+ "col_to":261,
+ "pdf_from":12172,
+ "pdf_to":12176,
+ "authors":["M. Jammer"],
+ "n_notes":10,
+ "n_chars":5293,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Impetus, im modernen Sprachgebrauch nur im allgemeinen Sinne von ‹Anstoß›, ‹Trieb› oder ‹Drang› gebraucht, war bis zum 17. Jh. einer der wichtigsten dynamischen Grundbegriffe zur Erklärung der Bewegung und ihrer Beschleunigung im freien Falle und wurde als Vorläufer des Begriffs der Trägheit (so Duhem <sup class=\"fn\" data-fn=\"0-1\">1</sup>) oder des Begriffs der Bewegungsgröße (so Clagett <sup class=\"fn\" data-fn=\"0-2\">2</sup>) angesehen. Der Begriff des I. hatte seinen historischen Ursprung in dem Problem der Bewegung eines Objektes, etwa eines geworfenen Steins oder abgeschossenen Pfeils, das keinen wahrnehmbaren Beweger besitzt, also offenbar dem aristotelischen Grundsatz «omne quod movetur ab alio movetur» widerspricht. Die aristotelische Lösung <sup class=\"fn\" data-fn=\"0-3\">3</sup>, daß nämlich das <i>projectum separatum</i> vom Medium (Luft, Wasser), in dem es sich bewegt, mitbewegt wird, enthält, wie eine genaue Analyse des vom Stagiriten vorgeschlagenen Transmissionsmechanismus der die Bewegung begleitenden Kraft zeigt, schon den Keim der I.-Theorie. So haben denn auch HIPPARCHUS <sup class=\"fn\" data-fn=\"0-4\">4</sup> und vor allem PHILOPONUS <sup class=\"fn\" data-fn=\"0-5\">5</sup> die aristotelische Lösung schon im Altertum revidiert, indem sie die Fortdauer der Bewegung der Wirkung einer immateriellen kinetischen Kraft (κινητικήν τινα δύναμιν ἀσώματον) zuschrieben, die dem Objekt – und nicht dem Medium – beim Werfen oder Abschießen eingeprägt sein soll und die Bewegung so lange erhält, bis sie durch den Widerstand, sei es des Gewichtes oder der Luftreibung, erschöpft wird.</p>\n<p>Die Idee einer solchen unsichtbaren Kraftübertragung vom <i>projiciens</i> zum <i>projectum</i> wurde, wohl unter dem Einfluß des Philoponus, von islamischen Philosophen (YAHIA ibn ADI, ABU'L-BARAKAT, IBN SINA) übernommen und später auch von THOMAS VON AQUIN, PETRUS JOHANNIS OLIVI und FRANCISCUS de MARCHIA in Verbindung mit philosophisch-theologischen Problemen erwähnt; schließlich arbeitete sie der Pariser Terminist JOHANNES BURIDAN in der ersten Hälfte des 14. Jh. zu einer rein physikalischen Theorie, der I.-Theorie, aus <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Nach dieser Theorie ist der I. um so größer, je mehr Materie (Masse) das <i>projectum</i> besitzt und je größer die ihm erteilte Geschwindigkeit ist. Mathematisch betrachtet würde sich daher der Buridansche I.-Begriff mit dem von Descartes eingeführten Begriff der Bewegungsgröße (Masse · Geschwindigkeit) decken. Der I. wird jedoch durch den Widerstand des Mediums oder, im Falle eines nach oben geworfenen Körpers, durch die Schwere geschwächt und zum Erlöschen gebracht, unterliegt also keinem Erhaltungsgesetz, im Gegensatz zur Bewegungsgröße. Da nach Buridan die I.-Theorie auch für Rotationsbewegungen Geltung haben soll, konnte er die Bewegung der Himmelskörper <span class=\"col\" data-col=\"261\"></span> durch einen von Gott bei der Schöpfung der Welt ihnen übermittelten Drehungs-I. erklären, der sich wegen des Nichtvorhandenseins hindernden Widerstands niemals erschöpft und so ein ständiges Eingreifen von Intelligenzen überflüssig macht. Die Fallbeschleunigung wurde von Buridan dadurch erklärt, daß ein Körper durch sein Gewicht nicht nur in Fallbewegung gesetzt, sondern auch mit I. versehen wird, wodurch seine Geschwindigkeit vergrößert, der I. verstärkt und eine immer schnellere Bewegung hervorgerufen wird.</p>\n<p>Buridans I.-Theorie wurde von NICOLAUS VON ORESME <sup class=\"fn\" data-fn=\"0-7\">7</sup>, ALBERT VON SACHSEN <sup class=\"fn\" data-fn=\"0-8\">8</sup> und besonders von MARSILIUS VON INGHEN <sup class=\"fn\" data-fn=\"0-9\">9</sup> weiter entwickelt. Im 16. Jh. (AUGUSTINUS NIPHUS, ALEXANDER PICCOLOMINI, JULIUS CAESAR SCALIGER und DOMINICUS SOTO) galt sie als die offizielle Lehre und spielte noch in den Jugendwerken GALILEIS eine wichtige Rolle, bis sie endlich durch die neue, begrifflich-radikale Lösung des (anfänglich erwähnten) Bewegungsproblems, nämlich durch das Trägheitsprinzip, abgelöst wurde. Da nach diesem Grundprinzip der Galilei-Newtonschen Mechanik zur Fortdauer einer gradlinigen Bewegung mit konstanter Geschwindigkeit überhaupt keine Kraft erforderlich ist und eine solche Bewegung einen Zustand und keinen Prozeß darstellt (Ruhezustand in einem transformierten Inertialsystem), verlor der I.-Begriff in der neueren Mechanik jeglichen Inhalt. Obgleich <i>Galileis</i> Gebrauch des von ihm unscharf definierten Terminus ‹momento› zur Annahme eines stetigen Übergangs des I.-Begriffs zum <i>Cartesianischen</i> Begriff ‹quantité de mouvement› (Bewegungsgröße) oder zum <i>Newtonschen</i> Begriff ‹quantitas motus› Anlaß zu geben scheint, besteht doch ein prinzipieller Unterschied zwischen diesen Begriffskategorien, da jede Dynamik, die mit dem Inertialprinzip operiert, mit dem Begriff des I. unvereinbar ist <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">S. PINES: Les précurseurs musulmans de la théorie de l'I. Archeion 21 (1938) 298–306. – ANNELIESE MAIER: Die I.-Theorie der Scholastik (1940); Zwei Grundprobleme der scholastischen Naturphilos. (Rom 1951) Kap. 2. – M. CLAGETT s. Anm. [2].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"261\"></span> P. DUHEM: Etudes sur Léonard de Vinci (Paris 1906–13) 3.</li>\n<li id=\"fn0-2\" value=\"2\">M. CLAGETT: The sci. of mechanics in the MA (Madison 1959).</li>\n<li id=\"fn0-3\" value=\"3\">ARISTOTELES, Phys. 267 a 1–11; De caelo 301 b 22–30.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. SIMPLICIUS, In Aristotelis de Caelo libros commentaria, hg. J. L. HEIBERG in: Comm. in Arist. graeca 7 (1894) 264.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 639.</li>\n<li id=\"fn0-6\" value=\"6\">J. BURIDAN: Quaestiones super octo libros physicorum (Paris 1509, <sup>2</sup>1516).</li>\n<li id=\"fn0-7\" value=\"7\">NICOLAUS VON ORESME: Questiones de spera (Ms. Florenz, Bibl. Riccard 117) fol. 127r.</li>\n<li id=\"fn0-8\" value=\"8\">ALBERT VON SACHSEN: Questiones in octo libros physicorum Aristotelis (Paris 1516).</li>\n<li id=\"fn0-9\" value=\"9\">MARSILIUS VON INGHEN: Abbreviationes libri physicorum Aristotelis (Venedig 1490).</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. auch Art. <a class=\"xref\" href=\"#/a/1404\">→ Impuls</a>.</li>\n</ol>",
+ "prev":{"id":1396,"lemma":"Impersonalien","band":"4","col":258},
+ "next":{"id":1398,"lemma":"Implicit Reasoning","band":"4","col":261},
+ "backlinks":[
+  {"id":1404,"lemma":"Impuls","n":1},
+  {"id":3038,"lemma":"Streben","n":1},
+  {"id":3229,"lemma":"Trieb","n":1},
+  {"id":3610,"lemma":"Widerstand","n":1}
+ ],
+ "outlinks":[{"id":1404,"lemma":"Impuls","n":1}],
+ "register":[
+  {"term":"proiectum","qualifier":"","band":"4","col":"260"},
+  {"term":"quantitas motus","qualifier":"","band":"4","col":"261"},
+  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"– I (nat.) 12 703–709 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"– I (phys.) 5 825–828 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":623,"name":"Albert von Sachsen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":977,"name":"Marsilius von Inghen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2730,"name":"Nicolaus von Oresme","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1813,"name":"M. Clagett","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":2,"name":"Aristoteles","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":123,"name":"Avicenna","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":188,"name":"G. Galilei","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":298,"name":"Simplicius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":454,"name":"P. Duhem","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":518,"name":"Joh. Buridan","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":901,"name":"Johannes Buridan","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":773,"name":"Petrus Johannis Olivi","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":849,"name":"Joh. Philoponus","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":3277,"name":"Franciscus de Marchia","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4379,"name":"Augustinus Niphus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":13609,"name":"Julius Caesar Scaliger","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21765,"name":"Hipparchus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21766,"name":"Yahia ibn Adi","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21767,"name":"Abu'l-Barakat","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21768,"name":"Alexander Piccolomini","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21769,"name":"Dominicus Soto","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2854,"name":"S. Pines","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2962,"name":"Anneliese Maier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1777,"name":"J. L. Heiberg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":408,"lemma":"Bewegung","tf":9},
+  {"id":1903,"lemma":"Mechanik","tf":2},
+  {"id":1878,"lemma":"Masse, Massen","tf":2},
+  {"id":1680,"lemma":"Kraft","tf":3},
+  {"id":1769,"lemma":"Leib, Körper","tf":2},
+  {"id":2183,"lemma":"Objekt","tf":2},
+  {"id":890,"lemma":"Fall, Abfall","tf":2}
+ ],
+ "see_also":[
+  {"id":408,"lemma":"Bewegung"},
+  {"id":1404,"lemma":"Impuls"},
+  {"id":1878,"lemma":"Masse, Massen"},
+  {"id":1903,"lemma":"Mechanik"},
+  {"id":3213,"lemma":"Trägheit"}
+ ],
+ "groups":[{"id":32,"name":"Physik","label":"Impetus"}],
+ "reg_authors":[{"name":"Jammer Max","n":8}]
+}
+);

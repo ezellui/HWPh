@@ -1,0 +1,46 @@
+HWPH.put("t/1973",
+{
+ "b":"Milieu bezeichnet ursprünglich im Französischen sowohl im örtlichen wie im zeitlichen Sinn den «medicus locus». Zur Vorgeschichte des Begriffs gehört daher die Geschichte der Idee der μεσότης ; seit der Renaissance wurde die «goldene Mitte» auch mit ‹M› bezeichnet . Im moralischen Sinn bezeichnet PASCAL den Ort der menschlichen Existenz als «un M. entre rien et tout» , von dem aus der Mensch die Extreme der unendlichen Natur vergeblich zu begreifen sucht. \nAuf den modernen, für die Wissenschaftsgeschichte bedeutsamen Begriffsinhalt lenkt erst die Sprache der französischen Physiker des 17. und 18. Jh., die NEWTONS ‹Medium› mit ‹M.› übersetzt. ‹M.› (ambiant) heißt das Element, das einen Körper umgibt . Entsprechend definiert d'ALEMBERT in der ‹Encyclopédie› M. als «un espace matériel dans lequel un corps est placé» und nennt als Beispiele: Äther, Wasser und Luft. Mit dem Übergang in die Sprache der Biologen des 19. Jh. gewinnt ‹M.› die erweiterte Bedeutung der Gesamtheit der existenznotwendigen Lebenselemente eines Organismus. Die Evolutionstheorie J. B. LAMARCKS erklärt die Höherentwicklung des Lebewesens als eine vererbbare Anpassungsleistung des Organismus, die durch Veränderungen der Umweltbedingungen und der entsprechenden Bedürfnisse und Verhaltensweisen ausgelöst wird. «Quant aux circonstances qui ont tant de puissance pour modifier les organes des corps vivants, les plus influentes sont, sans doute, la diversité des M. dans lesquels ils habitent» . Damit ist zugleich der Forschungsgegenstand einer neuen biologischen Disziplin bezeichnet, die Untersuchung der Wechselbeziehungen zwischen den Lebewesen und ihrem M., wie sie von G. SAINT HILAIRE als Aufgabe der Ethologie und später von E. HAECKEL als die der Ökologie übernommen wird. – Der Physiologe CL. BERNARD beschreibt diese Wechselbeziehungen als ein schwebendes Gleichgewicht zwischen dem «M. extérieur» der Außenwelt und dem «M. intérieur» des Organismus. Beide M. verselbständigen sich mit dem höheren Organisationsgrad der Lebewesen und sind dadurch in ihrer natürlichen Harmonie gefährdet . \nIn diesem Verständnis wird der Begriff von den frühen Sozialwissenschaften aufgenommen und spiegelt damit deutlich eine naturwissenschaftliche Auffassung der Gesellschaft und der Kultur. A. COMTE rechtfertigt 1838 im ‹Cours de philosophie positive› den Neologismus ausdrücklich mit dieser Parallele , die auch H. BALZAC 1842 in der Einleitung zur ‹Comédie humaine› als Leitidee formuliert: «La société ne fait-elle pas de l'homme, suivant les M. où son action se déploie, autant d'hommes différents qu'ils y a de variétés zoologiques?» . E. ZOLA führt die milieutheoretische Konzeption in seinem Romanzyklus ‹Les Rougon-Macquart› durch und entwirft unter dem Einfluß des Physiologen Cl. Bernard den experimentellen Roman als ein wissenschaftliches Experiment mit dem Ziel, «montrer l'homme vivant dans le M. social qu'il a produit lui-même ... et au sein duquel il éprouve son tour une transformation continue» . \nParallel zum ästhetischen Sprachgebrauch wird ‹M.› zum Schlüsselbegriff der milieudeterministischen Richtungen der Natur-, Geistes- und Sozialwissenschaften des 19. Jh. Die noch bei COMTE vorherrschende Vorstellung von einer harmonischen Entsprechung der Bedürfnisse des Lebewesens und der Bedingungen seines M. («Une telle harmonie entre l'être vivant et le M. correspondant caractérise évidemment la condition fundamentale de la vie» ) tritt bei H. TAINE, der wohl am meisten zur Popularisierung des M.-Begriffs beigetragen hat, zugunsten einer determinierenden Funktion des M. für das menschliche Leben zurück . M. wird (neben «race» und «moment») als eine der drei mechanischen Grundkräfte vorgestellt, die den kulturellen Zustand eines Volkes bestimmen . \nBei E. DURKHEIM wird ‹M.› zu einem Zentralbegriff der Soziologie, der die Verselbständigung ihres funktionalistischen, gesellschaftsimmanenten Erklärungsprinzips gegenüber historischen oder psychologischen Ableitungen trägt: «L'origine première de tout processus social de quelque importance doit être recherchée dans la constitution du M. social interne» . Personen und Artefakte sind die beiden Elemente des «inneren sozialen M.»; das aktive Element des «menschlichen M.» wird strukturell bestimmt durch das «Volumen» der Gesellschaft oder einer Gruppe, d.i. die Zahl der sozialen Einheiten, und durch die «dynamische Dichte», d.i. das Maß der sozialen Kommunikation. Die umgebenden Gesellschaften bilden das «äußere soziale M.», das aber auf die Grundbedingungen der kollektiven Existenz nur in der Vermittlung durch das «innere M.» einwirkt . Damit überspielt der M.-Begriff in der Annahme einer primären horizontalen Gliederung der Gesellschaft die Vorstellungen eines Klassen- oder eines Schichtenmodells. \nNach NIETZSCHES Ablehnung der M.-Theorie bringt erstmals M. SCHELER eine fundierte Kritik des Determinismus und Anthropomorphismus der Deszendenztheorien, welche Veränderungen in der Organisation der Lebewesen als Anpassung an eine universelle und rein äußerliche Umwelt erklären. Diese Kritik präzisiert den M.-Begriff zu einem relationalen Begriff: «‘M.ʼ ist also nur das, was ich als ‘wirksamʼ erlebe. ... Das ‘M.-Dingʼ gehört einem Zwischenreiche an zwischen unserem Perzeptionsinhalt und seinen Gegenständen und jenen objektiven gedachten Gegenständen.» «Menschen einer Standeseinheit, einer Rassen- und Volkseinheit, einer Berufseinheit usw., und schließlich jedes Individuum tragen so die Struktur ihres M. mit sich herum.» ... «... nur das wird ihnen ‘M.ʼ, was die Wertverhalte ihrer Einstellungen an sich trägt» . – Schelers M.-Begriff steht im Mittelpunkt der von A. BUSEMANN begründeten, vorwiegend empirisch orientierten Pädagogischen M. – Kunde, ohne daß es zu einer differenzierteren Bestimmung der Kategorie kommt . \nWährend der Begriff ‹M.› in den meisten Fachwissenschaften einer prägnanteren Terminologie weicht (z.B. ‹Umwelt› in der theoretischen Biologie, ‹soziale Situation› in der Soziologie, ‹Feld› in der Sozialpsychologie), bürgert sich das Wort als pseudowissenschaftlicher Ausdruck ohne theoretischen Bezug in der Umgangssprache ein. ‹M.› bezeichnet hier das unverwechselbare «Klima» des psychisch-sozialen Umfeldes eines Individuums oder – auch mit negativem Bedeutungsakzent – einer bestimmten sozialen Gruppe.",
+ "n":"ARISTOTELES, Eth. Nic. 1106 b 27. \nL. SPITZER: M. and ambiance: An essay in hist. semantics. Philos. a. phenomenol. Res. 3 (1942/43) 169. \nB. PASCAL, Pensées II, 72. Oeuvres, hg. L. BRUNSCHVICG (Paris 1925) 12, 78. 83ff. \nVgl. R. DESCARTES, Br. an M. Mersenne (9. 1. 1639) Oeuvres, Corr. 2 (Paris 1898) 482. \nEncyclop. ..., hg. DIDEROT/d'ALEMBERT (Genève 31779) XXI, 853. \nJ.-B. LAMARCK: Philos. zool. (Paris 1809) 1, 231. \nvgl. G. SAINT HILAIRE: Hist. nat. gén. des règnes organiques (Paris 1854) XXII. \nVgl. E. HAECKEL: Generelle Morphol. der Organismen (1866) 2, 286. \nCL. BERNARD: Introd. à l'étude de la méd. exp. (Paris 11865, zit. Paris 31912) 99ff.; dtsch. A. (1961). \nA. COMTE: Cours de philos. positive, 40e leçon (Paris 51893) 3, 235. \nH. de BALZAC: Oeuvres compl. (Paris 1860) 1, 2. \nE. ZOLA: Les Rougon-Macquart 1–20 (Paris 1871–93). \nVgl. H. WIEGLER: Gesch. und Krit. der Theorie des M. bei Emile Zola (Diss. Rostock 1905). \nE. ZOLA: Le roman exp. Nouv. éd. (Paris 1923) 19. \nA. COMTE, a.O. [10] 225. \nVgl. K. MARCARD: Taines M.-Theorie im Zusammenhang mit ihren erkenntnistheoret. Grundl. (Diss. Kiel 1910). \nH. TAINE: Hist. de la litt. anglaise (Paris 1863) 1, XXIIff. \nE. DURKHEIM: Les règles de la méthode sociol. (Paris 81927) 138. \na.O. 139ff. \nFR. NIETZSCHE, Werke, hg. SCHLECHTA (1963) 3, 481. \nM. SCHELER: Der Formalismus in der Ethik und die materiale Wertethik (51966) 157. \nA. BUSEMANN: Pädag. M.-Kunde (1927) 1, 6ff.",
+ "l":"L. SPITZER s. Anm. [2] 1–42. 169–218. – R. ZANIEWSKI: Les théories des M. et la pédag. mésol. (1952).",
+ "au":"J. Feldhoff",
+ "A":["J. Feldhoff"],
+ "cb":[
+  [0,1393],
+  [461,1393],
+  [1246,1394],
+  [2085,1394],
+  [2999,1394],
+  [3760,1394],
+  [4773,1394],
+  [5115,1395],
+  [5805,1395]
+ ],
+ "cn":[
+  [0,1393],
+  [0,1395],
+  [35,1395],
+  [139,1395],
+  [222,1395],
+  [309,1395],
+  [373,1395],
+  [424,1395],
+  [505,1395],
+  [572,1395],
+  [677,1395],
+  [747,1395],
+  [796,1395],
+  [848,1395],
+  [939,1395],
+  [990,1395],
+  [1016,1395],
+  [1124,1395],
+  [1186,1395],
+  [1252,1395],
+  [1265,1395],
+  [1317,1395],
+  [1400,1395]
+ ],
+ "cl":[[0,1395]]
+}
+);

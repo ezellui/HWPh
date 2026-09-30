@@ -1,0 +1,47 @@
+HWPH.put("t/836",
+{
+ "b":"I. Das auf ARISTOTELES zurückgehende Adjektiv wird von diesem zur Kennzeichnung der die Sittlichkeit behandelnden Wissenschaft (ἠθικὴ θεωρία, πραγματεία ἠθική) , aber auch der sittlichen Tugend (ἠθική ἀρετή) gebraucht. Er leitet den Begriff etymologisch von ἔθος, Gewohnheit, ab . Von CICERO und AUGUSTINUS wird ἠθικóς mit ‹moralis› übersetzt. Dementsprechend erklärt THOMAS VON AQUIN: «scientia ethica, quam nos moralem dicimus» . \nKANT gebraucht ‹ethisch› in Gegenüberstellung zu ‹juridisch› zur Kennzeichnung zweier Arten von Gesetzgebung: «diejenige, welche ein Handlung zur Pflicht und diese Pflicht zugleich zur Triebfeder macht, ist ethisch. Diejenige aber, welche das letztere nicht im Gesetze mit einschließt, mithin auch eine andere Triebfeder als die Idee der Pflicht selbst zuläßt, heißt juridisch» . \nIm neueren Sprachgebrauch wird ‹ethisch› sowohl im Sinn von «zur Ethik gehörig» als auch im Sinn von «sittlich» oder «sittlich gut» verwendet. So wurde 1892 in Berlin eine ‹Deutsche Gesellschaft für ethische Kultur› gegründet mit einer Zeitschrift ‹Ethische Kultur› sowie als Trägerin eine ‹Ethische Bewegung›, die für die Verbreitung von Gerechtigkeit, Wahrhaftigkeit und gegenseitiger Achtung eintrat und einen entsprechenden, von den Religionen losgelösten Jugendunterricht anstrebte . In Wien entstand 1904 eine ähnlich gerichtete ‹Ethische Gesellschaft›. \nII. ‹Ethisch› bedeutet in der Geschichte der Philosophie allgemein eine bestimmte Seinsweise des Charakters, unabhängig davon, wodurch er der ist, als der er in die Erscheinung tritt (ob «von Natur» oder «durch Gewohnheit», also durch «zweite Natur»). Seit früher Zeit wird ‹sittlich-gut› auf die innere Gesinnung bzw. auch auf die persönliche Haltung bezogen. Sittlichkeit in diesem Sinne verlangt absolute allgemeine Geltung; ‹sittegemäß› heißt demgegenüber die Übereinstimmung der tatsächlichen Handlung mit tatsächlich geltenden, in äußeren Sitten, Rechten, Verhaltensweisen niedergelegten «sittlichen» Wertungen. Die Termini ‹Ethik› und ‹Moral› werden dabei immer mehr entweder für die Theorie (Ethik) bzw. die Praxis (Moral) des Sittlichen gebraucht oder dienen zur Kennzeichnung der innerlich-sittlich guten Haltung (ethisch) bzw. der faktisch sittekonformen Verhaltensweise (moralisch). \n1. Daß (seit Aristoteles) die faktisch an den Tag gelegte Haltung (der Charakter) in ontologischer Betrachtung eine Dauerverhaltensweise auf Grund bloßer Übung und allgemein üblicher Gewohnheit darstellen kann, verbindet ἦθος mit ἔθος; denn einüben und zur Gewohnheit machen läßt sich unter entsprechenden Voraussetzungen alles. So kann ‹ethisch› im Grunde auch alles heißen, was ein ἦθος aufweist und durch ἔθος zur Dauereinstellung wird; der Terminus ‹ethisch› umfaßt ‹Sittlichkeit› und ‹Sitte› als innere Haltung (ἦθος) sowie den Hinweis auf die möglicherweise gewohnheitsmäßige Annahme bzw. auf die eventuell durch Gewohnheit erfolgende Begründung des Verbindlichen, Schicklichen, Sittlichen . Paradoxerweise hat die absolut geltende Sittlichkeit einen viel weniger strengen äußeren Zwangscharakter als die konventionelle Sitte in ihrer durch faktischen Brauch, faktische Übung, faktische Durchsetzung fixierten Beschränkung – ein Wesenszug, auf den BERGSON hingewiesen hat . \nWas für KANTS Kritik der praktischen Vernunft ‹sittlich› heißt, geht auf sittliche Gesetze, sittliche Forderungen, auf «Gesetze der Freiheit» zurück, und sofern diese «auf bloße äußere Handlungen und deren Gesetzmäßigkeit gehen, heißen sie juridisch»; wenn sie aber auch fordern, «daß sie [die Gesetze] selbst die Bestimmungsgründe der Handlungen sein sollen, so sind sie ethisch» . Hier tritt die Unterscheidung von quid facti und quid iuris auf . Die quaestio facti zielt auf die tatsächliche Rechtfertigung aus geübtem Brauch und aus getätigter, beibehaltener Gewohnheit, also auf die Feststellung des (in diesem Sinne) «juridisch» Rechtmäßigen in einem bestimmten historischen Rahmen hic et nunc; die quaestio iuris aber zielt auf die Rechtmäßigkeit als solche, auf die innerlich gerechtfertigte Handlung und auf den inneren Charakter der Sittlichkeit; sie ist damit gerade nicht «juridisch», sondern «ethisch» (in einem neuen Sinne). In einer neuen Wendung werden dann «Legalität» und «Moralität» unterschieden. Denn bei dem, «was moralisch gut sein soll, ist es nicht genug, daß es dem sittlichen Gesetze gemäß sei, sondern es muß auch um desselben willen geschehen» . \n2. Der Terminus ‹ethisch› verweist einerseits direkt auf Sitte (Brauch, Übung, Gewohnheit) und andererseits auf Sittlichkeit (Freiheit, Selbstbestimmung, Charakter). ‹Sittlich› wird so zum Inbegriff der in einer sozialen Gemeinschaft oder sozialen Schicht üblichen und eingehaltenen Gewohnheiten, die, durch Alter, Geschichte, Tradition über eine bestimmte Zeit hinweg geheiligt und gefestigt, gelegentlich zur bloßen Konvention entleert sind , ursprünglich aber eine gruppenrelativ zweckvolle Bedeutung besaßen und dann zur bloß noch gewohnheitsmäßig geübten Pflicht (ohne innere Verpflichtung) absanken. Die Wissenschaft von diesem Ethischen, also die Wissenschaft von der sozialen Bedingtheit sowohl der Gewohnheit (ἔθος) als auch des Charakters (ἦθος) fällt weniger in den Gesamtbereich der Charakterologie als vielmehr der Ethologie . \nIn ontischem Zusammenhang hat der Terminus ‹ethisch› eine doppelte Bedeutung: Einmal beruht auf Gewohnheit (Brauch, Herkommen, Übung, Wiederholung), was Sitte ist, und Sitte konstituiert sich allein durch getätigte Praxis (nun den Inbegriff erreichbarer Sittlichkeit in der faktischen Festlegung manifestierend); zum anderen wird, was Sitte ist, durch bloße wiederholende Beibehaltung in seiner absoluten (oder als absolut vermeinten) Geltung tangiert und zum nur noch sitte- und brauchmäßig Geübten, zur «verpflichtenden Gewohnheit» abgewertet . Diese beiden Möglichkeiten (in der Genese und Dialyse) bestimmen, was ‹Sitte› heißt: a) Sitte wird durch Gewohnheit sanktioniert und zur quasi-absoluten, unnachsichtig normierenden Geltung gebracht (so daß als Sittlichkeit gar nichts anderes mehr gedacht werden kann als das, was positiv in Geltung steht); b) Sitte wird durch Gewohnheit des ursprünglich innewohnenden Charakters allgemeiner (universaler) Verbindlichkeit entkleidet und zur schließlich bloß noch konventionell beobachteten sozialen Verpflichtung verändert . \nWim weitesten Sinne) die ursprüngliche Einheit von Sitte (im engeren Sinne), Recht und Sittlichkeit bezeichnet, so ist ein «ethischer Mensch» und ein «ethischer Charakter» stets ein solcher, bei dem diese Komponenten (freilich in inhaltlich je spezifischer Weise) zur «zweiten Natur» geworden sind – unabhängig davon, ob sich ein solcher «ethischer Mensch», ein solcher «Charakter» in seiner Haltung (ἦθος) stärker an das durch ἔθος Gewordene oder mehr durch das vom λóγος eingesehene Sittlich-Rechtliche gebunden fühlt. Ethisch ist er durch «Lebensart», «Gesittung», durch das «Schickliche», durch Einhaltung der «guten Sitten» usw. ebenso wie durch konsequente Bestimmung des eigenen Verhaltens in Einsicht oder Reflexion. Die Gewohnheit der Lebensart und die Gewohnheit der Vernunft sind dann zwei Möglichkeiten des Ethischen . \nenn ‹Sitte› (",
+ "n":"Anal. post. 89 b 9; Magna Moralia 1181 b 28. \nEth. Nic. 1103 a 5. 14ff. \na.a.O. 1103 a 17. \nDe fato I, 1. \nDe civitate Dei VIII, 8. \n3. Sent. 23, 1, 4, 2 c. \nMet. Sitten, Einl. III. \nHierüber W. BÖRNER: Die ethische Bewegung (1912); F. JODL: Wesen und Ziele der ethischen Bewegung in Deutschland (31909). \nARISTOTELES, Eth. Nic. II, 1, 1103 a 17. \nH. BERGSON: Les deux sources de la morale et de la relig. (Paris 1932); dtsch. (1933, 21964) 46. \nI. KANT: Met. Sitten (1797). Akad.-A. 6, 214. \nKrV A 84. \nGrundl. Met. Sitten (1785) a.a.O. 4, 390. \nW. WINDELBAND: Über Wesen und Wert der Tradition, in: Präludien 2 (1884, 91924). \nJ. BAHNSEN: Beiträge zur Charakterol. 1. 2 (1867, Neudruck 1932); L. KLAGES: Prinzipien der Charakterol. (1910); E. UTITZ: Jb. für Charakterologie (1925ff.). \nNach J. St. Mill von TH. RIBOT vor allem zur Unterscheidung von «éthologie des individus» und «éthologie des races» gebraucht, in: La psychol. anglaise contemporaine (Paris 1870, 51900) 42. \nR. v. IHERING: Der Zweck im Recht (1877/83) 1, 23. \nH. REINER: Pflicht und Neigung (1951). \nJ. CHEVALIER: Cadences (Paris 1939) 230: Sens moral, dort Hinweis auf «habitudes montées et régies par l'esprit».",
+ "l":"",
+ "au":"H. Reiner G. Funke",
+ "A":["H. Reiner","G. Funke"],
+ "cb":[
+  [0,809],
+  [433,809],
+  [814,809],
+  [1375,809],
+  [1689,810],
+  [2271,810],
+  [3252,810],
+  [4428,810],
+  [5239,811],
+  [5269,811],
+  [6342,811],
+  [7174,811]
+ ],
+ "cn":[
+  [0,809],
+  [46,809],
+  [73,809],
+  [92,809],
+  [107,809],
+  [133,809],
+  [158,809],
+  [183,809],
+  [296,810],
+  [306,810],
+  [348,810],
+  [446,810],
+  [493,810],
+  [504,810],
+  [545,811],
+  [547,811],
+  [629,811],
+  [788,811],
+  [979,811],
+  [1031,811],
+  [1071,811]
+ ],
+ "cl":[]
+}
+);

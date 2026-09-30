@@ -1,0 +1,25 @@
+HWPH.put("r/66",
+[
+ ["f","Seele","IV","9","28f.","ref",2794,"Seele","f"],
+ ["f","Seinsweise","","9","268","ref",2817,"Seinsweise","f"],
+ ["f","Wirklichkeit","","12","831","ref",3628,"Wirklichkeit","f"],
+ ["f","Repräsentation","I 4","8","809","ref",2686,"Repräsentation","f"],
+ ["f","Seele","IV","9","36f.","ref",2794,"Seele","f"],
+ ["f","Gegenwart","","3","136–138","ref",1023,"Gegenwart","f"],
+ ["f","Augenblick","(Kierkegaard)",null,null,"see",295,"Augenblick","f"],
+ ["f","Jetztzeit","",null,null,"see",1511,"Jetztzeit","f"],
+ ["f","Parusie","",null,null,"see",2286,"Parusie","f"],
+ ["f","Präsenz","",null,null,"see",2444,"Präsenz","f"],
+ ["f","Gut; das Gute","IV","3","968","ref",1203,"Gut, das Gute, das Gut","f"],
+ ["f","Liebe","IV","5","324","ref",1795,"Liebe","f"],
+ ["f","Person","III","10","7","ref",2998,"Staat","f"],
+ ["f","Psychologie","","7","1626","ref",2511,"Psychologie","f"],
+ ["f","Realität, psychische","","8","201f.","ref",2592,"Realität, psychische","f"],
+ ["f","Seele","V","9","72","ref",2794,"Seele","f"],
+ ["f","Sein, objektives","","9","251f.","ref",2809,"Sein, objektives","f"],
+ ["f","Subjekt","",null,null,"ref",3047,"Subjekt","f"],
+ ["f","Schöne","",null,null,"ref",2776,"Schöne","f"],
+ ["f","Sozialisation","","9","1162","ref",2946,"Sozialisation","f"],
+ ["f","Verhalten","","11","682","ref",3406,"Verhalten","f"]
+]
+);

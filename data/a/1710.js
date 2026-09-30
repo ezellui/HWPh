@@ -1,0 +1,65 @@
+HWPH.put("a/1710",
+{
+ "id":1710,
+ "lemma":"Kultursoziologie",
+ "band":"4",
+ "kind":"article",
+ "col_from":1349,
+ "col_to":1350,
+ "pdf_from":15585,
+ "pdf_to":15588,
+ "authors":["M. Rassem"],
+ "n_notes":8,
+ "n_chars":4004,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Kultursoziologie ist eine nach dem Ersten Weltkrieg gebräuchlich werdende, okkasionell recht verschieden verwendete Wortverbindung.</p>\n<p>Fixierte, programmatische Bedeutung hat sie über längere Zeit hinweg in der Geschichtssoziologie A. WEBERS <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Gemeint ist die (praktisch schon vollzogene) Überwindung einer nur formalistischen oder nur naturalistischen Soziologie, die Erschließung neuer Gebiete (Religion, Kunst u.a.) für diese Wissenschaft, aber anderseits deren Zurückhaltung gegen eine strengere Metaphysik; das Geistige wird neben anderen «Mächten» als transzendent anerkannt, aber eben in «immanenter Beobachtung» erfaßt, als Erlebtes, Gesellschaftliches, Historisches <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Mit dem Endziel einer Standortbestimmung der Gegenwart wird ein altes Kernthema der Soziologie, die Geschichtsphilosophie, wieder aufgegriffen, aber nun als anti-evolutionistische «Morphologie» und «Kulturgeschichte». Wobei «Kultur» nicht der Bereich des zivilisatorischen Fortschritts ist, sondern der des Seelischen und seiner Prozesse. – Neben der Heidelberger soziologisch-historischen Diskussion und Auseinandersetzung mit dem GEORGE-Kreis <sup class=\"fn\" data-fn=\"0-3\">3</sup> sind Voraussetzungen und Parallelen dieser Lehre im ersten Fünftel des 20. Jh.: SCHMOLLER, DILTHEY, BREYSIG (der «Gesellschaftsseelenlehre», «Kulturgeschichte», «Stufenbau der Weltgeschichte» vorträgt), LAMPRECHT (Leipziger Konzeption der «Kulturgeschichte», mit Studien zur «Psychologie der Kulturzeitalter» usw.), PAUL BARTH (systematische Darstellung der Geschichtsphilosophie als Soziologie), VIERKANDT, MÜLLER-LYER, FROBENIUS («Paideuma»-Lehre), SPENGLER.</p>\n<p>Auch bei den mehr an Marx orientierten Soziologen aus der Heidelberger Gruppe wird ‹K.› gelegentlich als ein Oberbegriff benützt, so bei E. LEDERER <sup class=\"fn\" data-fn=\"0-4\">4</sup> und besonders K. MANNHEIM <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die ganz anders konzipierte Wissenssoziologie M. SCHELERS wird direkt als «Teil der K.» eingeführt, die ihrerseits der Realsoziologie gegenübersteht, so wie die Geistlehre der Trieblehre <sup class=\"fn\" data-fn=\"0-6\">6</sup>, aber ohne daß gerade diese terminologische Unterscheidung in Schelers übrigen Arbeiten von großer Bedeutung wäre. – A. DEMPF versucht der K. einen Ort im methodologischen System der Kulturphilosophie zu geben, indem er sie von Kultur- und Ideologiekritik wie auch von der vergleichenden Theorie der zyklischen Abläufe trennt, und ihr die Betrachtung der «konkreten Lebensmächte Staat, Kirche, Schule (Wissen), Wirtschaft» zuweist <sup class=\"fn\" data-fn=\"0-7\">7</sup>. – Unter den drei Grundformen der Sozialphilosophie und -wissenschaft, wie sie W. STARK aufstellt, ist die K. die dritte, nämlich diejenige, welche die organizistische und die mechanistische Denkform zwar <span class=\"col\" data-col=\"1350\"></span> nicht aufhebt, aber doch überhöht, da sie die moralischen Prozesse zum Gegenstand hat. Als Bahnbrecher dieser «cultural school» nennt Stark etwa <i>Vico, Burke, Fouillée, Tönnies, Cooley</i> und <i>Sumner</i> <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Im ganzen wird das Wort in letzter Zeit etwas seltener verwendet; der Sache nach wird K. aber auch heute betrieben (Universalgeschichte, Zeitgeistforschung, Kulturanthropologie, «culture-personality»-Forschung, Makrosoziologie, «Spezielle Soziologien» usw.).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1350\"></span> A. WEBER: Ideen zur Staats- und K. (1927) mit Beitr. 1909ff.; für Späteres vgl. J. KEPESCZUK: Alfred-Weber-Bibliogr. (1956); für Einwirkung in den USA vgl. A. L. KROEBER und C. KLUCKHOHN: Culture, a crit. rev. (New York <sup>2</sup>1963) Index.</li>\n<li id=\"fn0-2\" value=\"2\">A. WEBER: Das Tragische und die Gesch. (1943) Anhang; vgl. E. ESCHMANN, in: Synopsis. Festgabe A. Weber (1948); R. ECKERT: Kultur, Zivilisation (1970).</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. E. TROELTSCH: Die Revolution in der Wiss. Schmollers Jb. 45 (1921); jetzt Ges. Schr. 4, 653ff., bes. 665; E. GOTHEIN, in: Handwb. Staatswiss. 4 (<sup>3</sup>1909) Art. ‹Gesellschaft›.</li>\n<li id=\"fn0-4\" value=\"4\">E. LEDERER, in: Erinnerungsgabe für Max Weber (1923) 2, 145ff.</li>\n<li id=\"fn0-5\" value=\"5\">K. MANNHEIM: z.B. Wissenssoziol. Auswahl, hg. WOLFF (1964) Index; Essays on the sociol. of culture (1956).</li>\n<li id=\"fn0-6\" value=\"6\">M. SCHELER: Die Wissens formen und die Gesellschaft (1926); 2., verbesserte Aufl. in: Werke 8 (1960).</li>\n<li id=\"fn0-7\" value=\"7\">A. DEMPF: Kulturphilos., in: Hb. der Philos. (1932) E 36ff.</li>\n<li id=\"fn0-8\" value=\"8\">W. STARK: z.B. The fundamental forms of social thought (1962).</li>\n</ol>",
+ "prev":{"id":1709,"lemma":"Kulturrevolution","band":"4","col":1341},
+ "next":{"id":1711,"lemma":"Kulturzyklus, Kulturzyklentheorie","band":"4","col":1350},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"sociology of culture","qualifier":"","band":null,"col":null},
+  {"term":"Soziologie der Kultur","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":34,"name":"M. Weber","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":422,"name":"K. Mannheim","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1238,"name":"A. Dempf","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3137,"name":"W. Stark","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7363,"name":"E. Lederer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":11,"name":"Ch. Wolff","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":31,"name":"W. Dilthey","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":242,"name":"E. Troeltsch","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":338,"name":"O. Spengler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":696,"name":"A. Vierkandt","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1055,"name":"G. Schmoller","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1594,"name":"L. Frobenius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1804,"name":"A. L. Kroeber","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2044,"name":"K. Lamprecht","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2719,"name":"C. Kluckhohn","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4164,"name":"W. P. Eckert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3485,"name":"K. Breysig","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":5566,"name":"George","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":4983,"name":"F. Müller-Lyer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7633,"name":"E. W. Eschmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8930,"name":"E. Gothein","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13533,"name":"Paul Barth","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":22729,"name":"J. Kepesczuk","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1705,"lemma":"Kulturgeschichte","tf":3},
+  {"id":2960,"lemma":"Soziologie","tf":4},
+  {"id":3567,"lemma":"Weltgeschichte; Universalgeschichte","tf":2},
+  {"id":1093,"lemma":"Geschichtsphilosophie","tf":2},
+  {"id":1701,"lemma":"Kultur, Kulturphilosophie","tf":2}
+ ],
+ "see_also":[{"id":1705,"lemma":"Kulturgeschichte"}],
+ "groups":[
+  {"id":7,"name":"Disziplinen und Fächer","label":"Kultursoziologie"},
+  {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Kultursoziologie"},
+  {"id":42,"name":"Soziologie","label":"Kultursoziologie"}
+ ],
+ "reg_authors":[{"name":"Rassem Mohammed","n":1}]
+}
+);

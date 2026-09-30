@@ -1,0 +1,35 @@
+HWPH.put("t/2759",
+{
+ "b":"Scheitern (frz. échec; engl. foundering; dän. strande). Wenn mit dem deutschen Wort ‹Sch.› ein Mißlingen beschrieben wird, so liegt dem die metaphorische Verwendung der Vorstellung des Schiffbruchs an einer Küste zugrunde. Zwar hat sich im Französischen das aus der Begrifflichkeit des Schachspieles stammende ‹échec› als Entsprechung dazu durchgesetzt, doch beschreibt noch M. de MONTAIGNE die Brüchigkeit des menschlichen Lebens mit seinen Wechselfällen in nautischer Metaphorik, wenn er von «rompre au port» (Sch. noch in vermeintlicher Sicherheit) oder vom «universel naufrage du monde» spricht. \n«Echec» wird von J. de LA BRUYÈRE noch ganz unterminologisch und in großer Nähe zu seinem metaphorischen Herkunftsbereich im Rahmen seiner Hofkritik (der Höfling als Schachfigur) verwandt . B. PASCAL beschreibt die Schwäche des menschlichen Verstandes gelegentlich als Sch. . \nZwar spricht S. KIERKEGAARD vom Sch. oder Stranden (dän. ‹strande›) der Metaphysik oder der Ethik , doch philosophisch zentrale Bedeutung gewinnt der Begriff erst bei K. JASPERS. Mit ihm wird hier nicht etwa ein partielles Mißlingen oder das faktische Ende des Daseins beschrieben, sondern die grundsätzliche Vergeblichkeit aller Bemühungen und Anstrengungen des Menschen . Auf einer faktischen Ebene scheitert jedes menschliche Dasein an der Vernichtung im Tode. Scheitern muß auch das menschliche Denken an der Aufgabe, die ungegenständliche Transzendenz zu ergreifen und zu objektivieren . Davon unterschieden werden muß das «Sch. der Existenz» . Es ist durch die Erfahrung des Selbstseins bedingt und besteht in der Unmöglichkeit, der «eigentliche[n] Wahrheit, die ich erfasse, weil ich sie bin und lebe, ... allgemeingültig kennbar zu sein» . \nAndererseits hat der Begriff des Sch. konstitutive Bedeutung für Jaspers' Lehre von den Chiffren (s.d.) als Sprache der Transzendenz. Das Sch. ist eine Chiffre im ausgezeichneten Sinne, da sie zugleich als Kriterium der Wahrheit aller anderen Chiffren fungiert. Wahr sind Chiffren nur, «wenn sie sich erhalten in der Chiffre des Sch.» . Die Erfahrung des Sch. an Grenzsituationen, in denen sich der Mensch seiner Endlichkeit bewußt wird, ist aber auch immer Begegnung mit der Transzendenz , im Sch. offenbart sich das Sein . So läßt sich die Mißlingenserfahrung ins Positive wenden: Sch. ist dann kein Erdulden und Mit-sich-geschehen-Lassen, sondern Kampf und bewußtes Wagnis . Paradigmatisch sind dabei für Jaspers das Denken und Leben Kierkegaards und Nietzsches: «Sie sind selbst die Modernität in einer sich überschlagenden Gestalt; sie haben sie scheiternd überwunden, weil sie sie bis zum Ende durchgelebt haben» . \nDer französische Existentialismus hat hier einen Anknüpfungspunkt gesehen. Im expliziten Anschluß an Jaspers als dem «apôtre de la pensée humiliée» avanciert ‹Sch.› (échec) bei A. CAMUS und zumal bei J.-P. SARTRE zu einem Schlüsselbegriff . Dieser deutet das Sch. zudem hegelianisierend als «négation de la négation», d.h. als Widerstand gegen den vorfindlichen Weltzustand («refus de complicité avec le monde, donc l'innocence» ).",
+ "n":"M. de MONTAIGNE: Essais III, 9. Oeuvr. compl., hg. A. THIBAUDET/M. RAT (Paris 1962) 977. \na.O. 770; vgl. dazu: H. BLUMENBERG: Schiffbruch mit Zuschauer. Paradigma einer Daseinsmetapher (1979) 16–20. \nJ. de LA BRUYÈRE: Les Caractères VIII, 64, hg. R. GARAPON (Paris 1962) 242. \nB. PASCAL: Pensées VI, 366 (BRUNSCHVICG). \nS. KIERKEGAARD: Gjentagelsen (1843). Samlede Værker 5, hg. A. B. DRACHMANN u.a. (Gyldendal 1963) 131, dtsch.: Die Wiederholung. Ges. Werke 5/6 (1955) 22. \nBegrebet Angest (1844), a.O. 6 (1963) 116f., dtsch.: Der Begriff Angst, a.O. 11/12 (21965) 14. \nK. JASPERS: Philos. 1–3 (1932, 41973) 3, 220. \na.O. 221. \n2, 249. \n3, 221. \na.O. \nebda. \n218. \n4. \n226. \n2, 381. \nVernunft und Existenz (Groningen 1935) 11. \nA. CAMUS: Le mythe de Sisyphe (Paris 1943) 52; vgl. J.-P. SARTRE: Cahiers pour une morale (Paris 1983) 454. \na.O. 51. \nVgl. aber auch: M. BLONDEL: L'action (1893), dtsch.: Die Aktion (1965) 351–358 und P. VALÉRY: Tel quel 2 (1943). Oeuvr. 2 (Paris 1960) 786. \nSARTRE, a.O. [18] 454.",
+ "l":"J. THYSSEN: The concept of ‘founderingʼ in Jaspers' Philos., in: P. A. SCHILPP (Hg.): The philos. of K. Jaspers (LaSalle, Ill. 1957, 21981) 297–335. – K. SALAMUN: K. Jaspers (1985).",
+ "au":"H. Rath",
+ "A":["H. Rath"],
+ "cb":[[0,1245],[601,1245],[878,1245],[1223,1246],[1727,1246],[2649,1246]],
+ "cn":[
+  [0,1245],
+  [0,1246],
+  [90,1246],
+  [200,1246],
+  [277,1246],
+  [320,1246],
+  [475,1246],
+  [571,1246],
+  [618,1246],
+  [629,1246],
+  [638,1246],
+  [647,1246],
+  [653,1246],
+  [660,1246],
+  [666,1246],
+  [670,1246],
+  [676,1246],
+  [685,1246],
+  [729,1246],
+  [838,1246],
+  [848,1246],
+  [989,1246]
+ ],
+ "cl":[[0,1246]]
+}
+);

@@ -1,0 +1,57 @@
+HWPH.put("a/1820",
+{
+ "id":1820,
+ "lemma":"Logistik",
+ "band":"5",
+ "kind":"article",
+ "col_from":482,
+ "col_to":483,
+ "pdf_from":17452,
+ "pdf_to":17455,
+ "authors":["G. Gabriel"],
+ "n_notes":12,
+ "n_chars":4277,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Logistik (von griech. <span class=\"col\" data-col=\"483\"></span> λογίζεσθαι, rechnen) war ursprünglich die Rechenkunst, die die Griechen als eine praktische Wissenschaft von der Arithmetik als Theorie der Zahlen unterschieden <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Diese Unterscheidung verschwand terminologisch bis zum Beginn des 16. Jh. weitgehend, so daß die Bezeichnungen ‹L.› (lat. logistica) und ‹Arithmetik› auch synonym verwendet wurden. Diese Tatsache kommt z.B. im Titel des 1560 erschienenen Buches von J. BUTEO zum Ausdruck: ‹Logistica, quae et Arithmetica vulgo dicitur› <sup class=\"fn\" data-fn=\"0-2\">2</sup>. F. VIETA unterscheidet dann innerhalb der L. zwischen <i>logistica numerosa</i>, der Zahlen-Rechenkunst, und der <i>logistica speciosa</i>, der Buchstaben-Rechenkunst im Sinne einer allgemeinen Größenlehre: «Logistice [sic] numerosa est quae per numeros, Speciosa quae per species seu rerum formas exhibetur, ut pote per Alphabetica elementa» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Der intendierten Unterscheidung würde heute wohl die Gegenüberstellung von Arithmetik und Algebra entsprechen. Dabei muß allerdings beachtet werden, daß nach damaliger Terminologie der lateinische Ausdruck ‹Logistica› auch einfach als Latinisierung für ‹Algebra› in Gebrauch war. So unterschied z.B. H. VITAUS ganz analog zwischen «Algebra numerosa» und «Algebra speciosa» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Bei Vitalis findet sich auch der Hinweis, daß man die Algebra deshalb ‹Logistica› genannt habe, weil sie eine Wissenschaft sei, die nach logischer Methode vorgehe (quia est Scientia Logico more discurrens). Und der Terminus ‹L.› war sogar, wogegen Vitalis sich allerdings verwahrt, im Sinne von ‹Syllogistik› in Gebrauch. W. T. KRUG <sup class=\"fn\" data-fn=\"0-5\">5</sup> führt diese Doppeldeutigkeit darauf zurück, daß λόγος nicht nur ‹Rechnung›, sondern auch (Schluß) bedeutet. In diesem Zusammenhang vermerkt er, daß griechisch «die Vernunft schlechtweg das Logistische» heiße: τὸ λογιστικὸν μέρος τῆς ψυχῆς (der vernünftige Teil der Seele). Entsprechend schreibt bereits G. J. VOSSIUS: «Ac primo de Logistica tollenda est vocis ambiguitas. Nam laxe λογίζεσθαι est <i>ratiocinari</i>: stricte autem, per <i>numeros ratiocinari</i>» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Die explizite Verbindung von Rechenkunst und Logik zu dem Programm einer rechnenden Logik und logischen Rechnung stellt dann G. W. LEIBNIZ mit seiner Idee der Einheit von «Mathesis universalis sive Logistica et Logica Mathematicorum» her <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Ansätze hierzu finden sich bereits bei seinem Lehrer E. WEIGEL, der die L. einerseits im Sinne der alten Rechenkunst versteht (Logistica est Ars computandi numeros <sup class=\"fn\" data-fn=\"0-8\">8</sup>), ihr andererseits aber auch im Sinne der Mathesis universalis die Behandlung der Ordnung der Dinge überhaupt zuweist (Sed et Ars Logistica de ordine seu ratione Status atque situs rerum, ut unarum et totarum, agere necessum habet <sup class=\"fn\" data-fn=\"0-9\">9</sup>).</p>\n<p>Unter Berufung auf die Etymologie des griechischen Wortes und auf Leibniz wurde dann 1904 auf dem 2. Kongreß für Philosophie in Genf unabhängig voneinander von L. COUTURAT, G. ITELSON und A. LALANDE ‹L.› (frz. Logistique) als Sammelbezeichnung für ‹symbolische Logik›, ‹mathematische Logik›, ‹Algebra der Logik› usw. verwendet <sup class=\"fn\" data-fn=\"0-10\">10</sup>. In Deutschland fand der Terminus Verbreitung vor allem durch H. SCHOLZ <sup class=\"fn\" data-fn=\"0-11\">11</sup> und die von ihm herausgegebenen ‹Forschungen zur L. und zur Grundlegung der exakten Wissenschaften›. Später wurde er von Gegnern im pejorativen Sinne verwendet. Ein Übriges mag die bisweilen aufgetretene «amüsante» Verwechslung mit ‹L.› im Sinne des militärischen Nachschubwesens beigetragen haben. Jedenfalls ist heute wieder ‹mathematische Logik› oder, weil diese Bezeichnung zu der Auffassung verleitet hatte, daß die so benannte Logik nur die Mathematiker angehe, einfach ‹formale Logik› vornehmlich in Gebrauch <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">W. RISSE: Die Logik der Neuzeit 1 (1964) bes. 558–560.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. M. CANTOR: Vorles. über Gesch. der Math. 1 (1880) 132f.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. G. WERTHEIM: Die L. des Johannes Buteo. Bibl. math. F. 3/II (1901) 213–219.</li>\n<li id=\"fn0-3\" value=\"3\">F. VIETA: Opera math. (Leiden 1646) 4.</li>\n<li id=\"fn0-4\" value=\"4\">H. VITALIS: Lex. math. (Rom 1690) 25.</li>\n<li id=\"fn0-5\" value=\"5\">W. T. KRUG: Handwb. philos. Wiss. (<sup>2</sup>1833) 2, 746f.</li>\n<li id=\"fn0-6\" value=\"6\">G. J. VOSSIUS: De Universae mathesis natura (Amsterdam 1660) 76.</li>\n<li id=\"fn0-7\" value=\"7\">G. W. LEIBNIZ, Math. Schr. hg. GERHARDT 7, 54.</li>\n<li id=\"fn0-8\" value=\"8\">E. WEIGELIUS: Compendium Logisticae (Jena 1706) 1.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 34.</li>\n<li id=\"fn0-10\" value=\"10\">Rev. Mét. et Morale 12 (1904) 1042.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. z.B. H. SCHOLZ: Abriß der Gesch. der Logik (1931, <sup>3</sup>1967).</li>\n<li id=\"fn0-12\" value=\"12\">Polemisch dazu: G. JACOBY: Die Ansprüche der Logistiker auf die Logik und ihre Gesch.schreibung (1962) bes. 119–122.</li>\n</ol>",
+ "prev":{"id":1819,"lemma":"Logik, transzendentale","band":"5","col":462},
+ "next":{"id":1821,"lemma":"Logizismus","band":"5","col":483},
+ "backlinks":[{"id":2597,"lemma":"Rechnen","n":1},{"id":2967,"lemma":"Speciosa","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Logik, mathematische","qualifier":"","band":"5","col":"483"},
+  {"term":"logistica numerosa","qualifier":"","band":"5","col":"482"},
+  {"term":"logistica speciosa","qualifier":"","band":"5","col":"482"},
+  {"term":"mathematische Logik","qualifier":"","band":"5","col":"483"}
+ ],
+ "persons":[
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":172,"name":"H. Scholz","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2050,"name":"G. J. Vossius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2913,"name":"F. Vieta","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1365,"name":"G. Jacoby","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1618,"name":"E. Weigel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2432,"name":"A. Lalande","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":4460,"name":"M. Cantor","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11714,"name":"P. Wertheim","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14573,"name":"H. Vitalis","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23192,"name":"J. Buteo","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23193,"name":"H. Vitaus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23194,"name":"G. Itelson","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23195,"name":"E. Weigelius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":236,"name":"L. Couturat","b":1,"n":0,"l":0,"editor":1,"role":"scholar"},
+  {"id":390,"name":"W. Risse","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":95,"lemma":"Algebra","tf":6},
+  {"id":1803,"lemma":"Logik","tf":8},
+  {"id":1898,"lemma":"Mathesis universalis","tf":2},
+  {"id":247,"lemma":"Arithmetik","tf":3},
+  {"id":3635,"lemma":"Wissenschaft","tf":2}
+ ],
+ "see_also":[{"id":247,"lemma":"Arithmetik"},{"id":1898,"lemma":"Mathesis universalis"}],
+ "groups":[{"id":22,"name":"Logik","label":"Logistik"}],
+ "reg_authors":[{"name":"Gabriel Gottfried","n":51}]
+}
+);

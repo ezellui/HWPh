@@ -1,0 +1,27 @@
+HWPH.put("a/948",
+{
+ "id":948,
+ "lemma":"Fremd, Fremdheit",
+ "band":"2",
+ "kind":"article",
+ "col_from":1102,
+ "col_to":1102,
+ "pdf_from":7161,
+ "pdf_to":7161,
+ "authors":["A. Menne"],
+ "n_notes":1,
+ "n_chars":217,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Fremd, Fremdheit. ‹Fremd› heißen in der modernen Logik zwei Klassen bzw. Mengen, deren Durchschnitt <sup class=\"fn\" data-fn=\"0-1\">1</sup> leer ist. Fremdheit besteht z.B. zwischen den Klassen der Insekten und der Wirbeltiere.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. Art. <a class=\"xref\" href=\"#/a/1916\">→ Mengenlehre</a>. Nr 4.</li>\n</ol>",
+ "prev":{"id":947,"lemma":"Freirechtslehre","band":"2","col":1098},
+ "next":{"id":949,"lemma":"Fremderfahrung","band":"2","col":1102},
+ "backlinks":[{"id":608,"lemma":"Disjunkt","n":1}],
+ "outlinks":[{"id":1916,"lemma":"Mengenlehre","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[{"id":1572,"lemma":"Klasse, soziale","tf":2}],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Fremd"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

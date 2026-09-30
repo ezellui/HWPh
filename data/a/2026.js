@@ -1,0 +1,66 @@
+HWPH.put("a/2026",
+{
+ "id":2026,
+ "lemma":"Moral, sozialistische",
+ "band":"6",
+ "kind":"article",
+ "col_from":174,
+ "col_to":175,
+ "pdf_from":20947,
+ "pdf_to":20952,
+ "authors":["H. J. Sandkühler"],
+ "n_notes":11,
+ "n_chars":6408,
+ "toc":[["h6","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Moral, sozialistische. Der Begriff ‹s.M.› dient zur Kennzeichnung des Systems sittlicher Werte und Normen im proletarischen Klassenkampf. Terminologisch gleichbedeutend mit ‹kommunistische M.› bzw. ‹Ethik des Sozialismus› entsteht der Terminus in der Kritik des wissenschaftlichen Sozialismus an den Normen bürgerlicher, überhistorischer M. und des bürgerlichen Rechts in der Phase der Konstituierung der Arbeiterklasse in Deutschland in den 1840er Jahren. Einen ersten Höhepunkt der Diskussion über Bedingungen und Notwendigkeit der s.M. bildet der ‘Revisionismusstreitʼ in der deutschen Sozialdemokratie um 1900. Zum Gegenstand politischer Theorie und disziplinärer ethischer Reflexion wird die s.M. nach der sozialistischen Oktoberrevolution in Rußland mit der Entstehung des sowjetischen Staats.</p>\n<p>Das M.-Problem stellt sich in den Anfängen der Arbeiterbewegung mit der Begründung der historischen Notwendigkeit des Sozialismus und der sozialen Revolution. Während kleinbürgerliche Demokraten und wahre Sozialisten auf eine ‘Reform des Bewußtseinsʼ und die Geltung allgemeinmenschlicher sittlicher Prinzipien setzten, erklärte der historische Materialismus die Notwendigkeit der Transformation des Kapitalismus aus der gesellschaftlichen Produktion und Reproduktion des Kapitalverhältnisses der Klassen und die geschichtliche Bestimmtheit von M.-Normen aus dem Klassenkampf. Beispiele früher Kritik sind FR. ENGELS' ‹Die Kommunisten und Karl Heinzen› <sup class=\"fn\" data-fn=\"0-1\">1</sup>, K. MARX' ‹Die moralisierende Kritik und die kritisierende M.› (beide 1847) <sup class=\"fn\" data-fn=\"0-2\">2</sup> und das (Manifest der Kommunistischen Partei) (1848) <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Im Zentrum steht die Zurückweisung ‘ewiger Werteʼ zugunsten materialistischer Kritik der sozialökonomischen und ideologischen Bedingungen der M.</p>\n<p>Eine affirmative marxistische Erörterung der Inhalte der s.M. setzt breit ein zur Zeit der Rückbesinnung auf die kantische Philosophie in der Arbeiterbewegung, vermittelt durch fortschrittliche bürgerliche Intellektuelle. Als sozialistischer Theoretiker definiert J. DIETZGEN 1869 die M. als «den summarischen Inbegriff der verschiedensten einander widersprechenden sittlichen Gesetze, welche den gemeinschaftlichen Zweck haben, die Handlungsweise der Menschen gegen sich und andere derart zu regeln, daß bei der Gegenwart auch die Zukunft ..., neben dem Individuum auch die Gattung bedacht sei» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. In der marxistischen Sozialdemokratie um 1900 setzt sich gegen den historischen Determinismus <sup class=\"fn\" data-fn=\"0-5\">5</sup> seit H. COHENS Rückführung des Sozialismus auf die Ethik Kants, gründend in den Werken F. A. LANGES <sup class=\"fn\" data-fn=\"0-6\">6</sup>, zunehmend und in E. BERNSTEINS ‹Die Voraussetzungen <span class=\"col\" data-col=\"175\"></span> des Sozialismus› (1898) gipfelnd die These vom ethischen Defizit im Marxismus bzw. der Begründung eines moralisch motivierten friedlichen Wegs zum Sozialismus durch <sup class=\"fn\" data-fn=\"0-7\">7</sup>. G. W. PLECHANOW, F. MEHRING, FR. ENGELS, R. LUXEMBURG und W. I. LENIN haben den neukantianischen, ethischen Sozialismus als bürgerliche, idealistische und antirevolutionäre Ideologie kritisiert <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Die politisch-praktische Notwendigkeit der Formulierung der Werte der s.M. stellt sich nach 1917 mit dem Aufbau der sozialistischen Gesellschaft. W. I. LENIN bejaht die Legitimität einer «kommunistischen M.» und einer «kommunistischen Sittlichkeit» trotz der historischmaterialistischen Kritik an einer von einem «übernatürlichen, klassenlosen Begriff» abgeleiteten Ethik: «sittlich ist, was der Zerstörung der alten Ausbeutergesellschaft und dem Zusammenschluß aller Werktätigen um das Proletariat dient, das eine neue, die kommunistische Gesellschaft aufbaut» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Wichtige Beiträge zur Konzeption der s.M. leisten M. I. KALININ und A. S. MAKARENKO <sup class=\"fn\" data-fn=\"0-10\">10</sup>, in der westeuropäischen kommunistischen Bewegung etwa A. GRAMSCI mit der Analyse der M. im vorrevolutionären Kampf der Arbeiterklasse um ihre Hegemonie <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Die s.M. ist heute Forschungsgegenstand der marxistischen Ethik. Diese beantwortet philosophisch und empirisch-soziologisch bzw. psychologisch die Frage nach dem Status und der Funktion der M. systematisch und historisch. Sie definiert M. als Form gesellschaftlichen Bewußtseins, als Einheit von moralischer Wertauffassung und sittlicher Praxis, als komplexes weltanschauliches Teilsystem und als System historisch wirksamer, sich verändernder gesellschaftlicher Normen. Die M. widerspiegelt die wesentlichen Strukturen der sozialen Organisation der Produktion/Reproduktion, des rechtlichen und politischen Überbaus, der Herrschafts- und Eigentumsverhältnisse. Die M. ist determiniert von der Dialektik der Klassen, nicht aber durch voneinander isolierte Klasseninteressen. Determination der M. schließt die antizipatorische, kritische Funktion von Wert und Norm ein.</p>\n<p>Den theoretischen Kontext von ‹s.M.› bilden die Probleme der Genese und Geschichte der M., der axiologischen Hierarchie sittlicher Normen und Werte, der Beziehung von sozialen und kognitiven Faktoren bei der M.-Begründung, des Verhältnisses von Sinnlichem bzw. Intuition und Rationalem bzw. Reflexion als Motivationsgründe, der Wirkungsweise der s.M. im individuellen und kollektiven Verhalten und der theoretischen Begründung des Guten, des Glücks und anderer Inhalte der s.M. der internationalistischen Arbeiterbewegung.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">L. M. ARCHANGELSKI: Kategorien der marxist. Ethik (1965). – Ethik und Persönlichkeit, hg. S. F. ANISSIMOW/R. MILLER (1975). – Ethik. Philos.-ethische Forsch. in der Sowjetunion, hg. A. G. CHARTSCHEW/R. MILLER (1976). – Probleme der marxist. Ethik. Solidarität – Verantwortung – Persönlichkeit. Marxismus-Digest 25 (1976). – Stud.texte zur marxist.leninist. Ethik (1976).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"175\"></span> K. MARX und FR. ENGELS, MEW 4, 309ff.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 331ff.</li>\n<li id=\"fn0-3\" value=\"3\">461ff.</li>\n<li id=\"fn0-4\" value=\"4\">J. DIETZGEN, Sämtl. Schr., hg. E. DIETZGEN (1930) 71.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. H. J. SANDKÜHLER: Gesellschaft als Naturprozeß, in: Theorie und Labor. Dialektik als Programm der Naturwiss., hg. P. PLATH/H. J. SANDKÜHLER (1978) 148ff.</li>\n<li id=\"fn0-6\" value=\"6\">F. A. LANGE: Die Arbeiterfrage in ihrer Bedeut. für Gegenwart und Zukunft (1865); Gesch. des Materialismus und Kritik seiner Bedeut. in der Gegenwart (1866).</li>\n<li id=\"fn0-7\" value=\"7\">H. COHEN: Biograph. Vorwort und Einl. mit krit. Nachtrag [zu F. A. Langes Gesch. des Mat.] (<sup>5</sup>1896) 2. XVff.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. Dokumentation der Quellen und Bibliogr. in: Marxismus und Ethik, hg. H. J. SANDKÜHLER/R. de la VEGA (<sup>2</sup>1974).</li>\n<li id=\"fn0-9\" value=\"9\">W. I. LENIN, Werke 31 (1959) 280f. 283.</li>\n<li id=\"fn0-10\" value=\"10\">M. I. KALININ: Über kommunist. Erziehung (dtsch. 1961); A. S. MAKARENKO, Werke 5 (1974).</li>\n<li id=\"fn0-11\" value=\"11\">A. GRAMSCI: Il materialismo storico e la filos. di B. Croce. Nuova ed. riveduta e integrata (Rom 1977) 55. 121.</li>\n</ol>",
+ "prev":{"id":2025,"lemma":"Moral, provisorische","band":"6","col":172},
+ "next":{"id":2027,"lemma":"Moralist, Moralismus","band":"6","col":175},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Ethik des Sozialismus","qualifier":"","band":null,"col":null},
+  {"term":"kommunistische Moral","qualifier":"","band":null,"col":null},
+  {"term":"sozialistische Moral","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":45,"name":"F. Engels","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":135,"name":"W. I. Lenin","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4396,"name":"J. Dietzgen","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":41,"name":"H. Cohen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":229,"name":"F. A. Lange","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":645,"name":"A. Gramsci","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11469,"name":"A. S. Makarenko","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":15702,"name":"M. I. Kalinin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":602,"name":"E. Bernstein","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1229,"name":"R. Luxemburg","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2101,"name":"F. Mehring","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3222,"name":"A. de Vega","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4096,"name":"G. W. Plechanow","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":10892,"name":"L. M. Archangelski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":952,"name":"H. J. Sandkühler","b":0,"n":3,"l":0,"editor":1,"role":"scholar"},
+  {"id":24210,"name":"P. Plath","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":371,"name":"N. Miller","b":0,"n":0,"l":2,"editor":1,"role":"scholar"},
+  {"id":24211,"name":"S. F. Anissimow","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":24212,"name":"A. G. Chartschew","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2947,"lemma":"Sozialismus","tf":7},
+  {"id":2160,"lemma":"Norm","tf":5},
+  {"id":3588,"lemma":"Wert","tf":5},
+  {"id":835,"lemma":"Ethik","tf":4},
+  {"id":2687,"lemma":"Reproduktion","tf":2},
+  {"id":2171,"lemma":"Notwendigkeit","tf":4},
+  {"id":2469,"lemma":"Produktion, Produktivität","tf":2},
+  {"id":1572,"lemma":"Klasse, soziale","tf":2},
+  {"id":2634,"lemma":"Reflexion","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":10,"name":"Ethik und Moralphilosophie","label":"Moral, sozialistische"},
+  {"id":23,"name":"Marxismus","label":"Moral, sozialistische"}
+ ],
+ "reg_authors":[{"name":"Sandkühler Hans Jörg","n":7}]
+}
+);

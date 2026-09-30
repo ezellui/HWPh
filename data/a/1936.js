@@ -1,0 +1,75 @@
+HWPH.put("a/1936",
+{
+ "id":1936,
+ "lemma":"Meßprozeß",
+ "band":"5",
+ "kind":"article",
+ "col_from":1166,
+ "col_to":1168,
+ "pdf_from":19547,
+ "pdf_to":19551,
+ "authors":["M. Drieschner","A. Wegner"],
+ "n_notes":6,
+ "n_chars":6485,
+ "toc":[
+  ["p2","1. Es zeigt sich, daß einerseits die Quantenmechanik die Eigenschaften ha",3],
+  ["p3","2. Es scheint, daß der Übergang von der quantenmechanischen zur klassisch",3],
+  ["h4","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Meßprozeß. Die Aufgabe des physikalischen M. ist die Bestimmung des Zahlenwerts einer physikalischen Größe an einem Objekt mit einem Meßgerät. Man unterscheidet die Messung zeitunabhängiger Größen, z.B. von Naturkonstanten, von der auf eine bestimmte Zeit bezogenen Messung kontingenter Größen, also solcher, deren Wert zu verschiedenen Zeiten verschieden ist. Die Messungen der zweiten Art behandelt die Theorie des M.</p>\n<p>In der Diskussion der Grundlagen der Quantenmechanik spielt der M. eine besondere Rolle, denn in seiner Theorie konzentrieren sich alle «Interpretationsprobleme». Die Messung ist die Nahtstelle, an der die Möglichkeiten der Theorie Wirklichkeit werden, ihre «operationale» Interpretation finden müssen. Technisch drückt sich das aus im Verhältnis der Quantenmechanik zur klassischen Physik: Die Quantenmechanik gibt Wahrscheinlichkeiten an für die Ergebnisse möglicher Messungen, die Meßergebnisse werden aber «klassisch» beschrieben, als faktisch vorliegende, «an sich vorhandene» Wirklichkeit. Die Quantenmechanik setzt also eine klassisch-physikalische Beschreibung voraus, damit sie (über die mathematische Theorie hinaus) überhaupt eine physikalische Bedeutung haben kann <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Andererseits ist, gemäß der Quantenmechanik, die klassische Physik <span class=\"col\" data-col=\"1167\"></span> streng genommen falsch. Ist also die Quantenmechanik in sich widersprüchlich? – Kein Widerspruch entsteht, wenn man getrennte Theorien einführt, nämlich ‘<a class=\"xref\" href=\"#/a/1971\">Mikrophysikʼ</a> <span class=\"sd\">→ (s.d.)</span> – d.h. Quantenmechanik – für die gemessenen <i>Objekte</i>, ‘Makrophysikʼ – d.h. klassische Physik – für die <i>Meßapparate</i> <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Dagegen steht die <i>Universalität</i> der Quantenmechanik, die sie überhaupt erst philosophisch interessant macht: <i>Alle</i> Objekte sollen durch sie richtig beschrieben werden, also auch Makro-Objekte wie z.B. Meßgeräte. – In der Diskussion des M. lassen sich zwei Aspekte unterscheiden: 1. die quantenmechanischen Bedingungen für die Beschreibung der Messung <sup class=\"fn\" data-fn=\"0-3\">3</sup>, 2. die quantenmechanische Beschreibung wirklicher Meßvorgänge <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p id=\"p2\">1. Es zeigt sich, daß einerseits die Quantenmechanik die Eigenschaften hat, die man für die Beschreibung des M. benötigt: Man kann Meßgerät und gemessenes Objekt gemeinsam quantenmechanisch beschreiben. Dabei setzt man voraus, daß das neue Gesamtobjekt (altes Objekt + Meßapparat) wieder mit einem Meßgerät gemessen wird. Gemäß der Quantenmechanik ist das Ergebnis unabhängig davon, welche Meßapparate man zum Objekt rechnet, und welcher Apparat, dementsprechend, als Meßapparat angesehen wird (Verschieblichkeit des Schnitts). Diese Unabhängigkeitsbedingung ist unabdingbar, wenn die Quantenmechanik konsistent sein soll. J. v. NEUMANN und vor allem F. LONDON und E. BAUER schließen daraus, daß der schließliche Rekurs auf ein beobachtendes Subjekt notwendig sei, um einen unendlichen Regreß von Meßapparaten zu vermeiden. – Andererseits ergibt sich aus gleichermaßen berechtigten Forderungen an die Beschreibung des Meßergebnisses ein Widerspruch innerhalb der Quantenmechanik <sup class=\"fn\" data-fn=\"0-5\">5</sup>, der nur <i>genähert</i> aufgelöst wird; eine solche Näherung liegt jeder Physik zugrunde, sofern sie überhaupt Objekte getrennt von der Welt im ganzen betrachtet.</p>\n<p id=\"p3\">2. Es scheint, daß der Übergang von der quantenmechanischen zur klassischen Beschreibung als Informationsverlust charakterisiert werden muß, also als thermo-dynamisch irreversibler Prozeß. Es entsteht die scheinbar paradoxe Situation, daß die «an sich vorhandene» Wirklichkeit nur beschrieben werden kann, wenn ein Teil der möglichen Information fehlt; <i>genau</i> beschreiben kann man nur Möglichkeiten. – Diese Erkenntnis scheint den Schlüssel zum Verständnis der Quantenmechanik zu enthalten: Eine Wirklichkeit «an sich» gibt es, genau genommen, nicht oder allenfalls als Grenze einer Näherung; sie zu unterstellen, ist andererseits unerläßlich, wenn überhaupt etwas objektiv beschrieben werden soll. – Die Zuverlässigkeit der quantenmechanischen Voraussagen <span class=\"col\" data-col=\"1168\"></span> ist neuerdings in Messungen von J. F. CLAUSER et al. <sup class=\"fn\" data-fn=\"0-6\">6</sup> nachgewiesen worden, die mit keiner klassischen Theorie erklärt werden könnte.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">N. BOHR s. Anm. [1]. – J. v. NEUMANN s. Anm. [3]. – F. LONDON und E. BAUER: La théorie de l'observation en méchanique quantique (Paris 1939). – N. BOHR: Atomphysik und menschl. Erkenntnis 1. 2 (1958, 1966). – G. SÜSSMANN s. Anm. [3]. – A. DANERI, A. LOINGER und G. M. PROSPERI s. Anm. [4]. – G. LUDWIG s. Anm. [2]. – E. P. WIGNER (1962) s. Anm. [5]. – P. MITTELSTAEDT s. Anm. [3]. – E. P. WINGER: The problem of measurement. Amer. J. Phys. 31 (1963) 6ff. – J. S. BELL s. Anm. [6]. – J. M. JAUCH (1964) s. Anm. [3]. – K.-M. MEYER-ABICH: Korrespondenz, Individualität, Komplementarität (1965). – F. HAAKE und W. WEIDLICH s. Anm. [4]. – B. d'ESPAGNAT s. Anm. [5]. – K. HEPP s. Anm. [4]. – J. M. JAUCH: Die Wirklichkeit der Quanten (1973). – E. SCHEIBE: The logical analysis of quantum mechanics (Oxford 1973). – J. F. CLAUSER s. Anm. [6]. – M. DRIESCHNER s. Anm. [5].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1168\"></span> N. BOHR: Atomtheorie und Naturbeschreibung (1931, Cambridge 1934, 1962).</li>\n<li id=\"fn0-2\" value=\"2\">So z.B. explizit vorgeschlagen von G. LUDWIG: Gelöste und ungelöste Probleme des M. in der Quantenmechanik, in: F. BOPP (Hg.): Werner Heisenberg und die Physik unserer Zeit (1961) 150–181.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. J. v. NEUMANN: Math. Grundl. der Quantenmechanik (1932/1968); G. SÜSSMANN: Über den Meßvorgang (1958), engl. Kurzfassung in: S. KÖRNER (Hg.): Observation and interpretation (New York 1962); P. MITTELSTAEDT: Philos. Probleme der mod. Physik (1963); J. M. JAUCH: The problem of measurement in quantum mechanics. Helv. phys. Acta 37 (1964) 293; Die Wirklichkeit der Quanten (1973).</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. A. DANERI, A. LOINGER und G. M. PROSPERI: Quantum theory of measurement and ergodicity conditions. Nucl. Phys. 33 (1962) 297; F. HAAKE und W. WEIDLICH: A model for the measuring process in quantum theory. Z. Phys. 213 (1968) 451; K. HEPP: Quantum theory of measurement and macroscopic observables. Int. J. theor. Phys. 9 (1972) 277; 10 (1972) 261.</li>\n<li id=\"fn0-5\" value=\"5\">So bes. E. P. WIGNER: Remarks on the mind-body question, in: I. J. GOOD (Hg.): The scientist speculates (New York 1962); vgl. auch B. d'ESPAGNAT: Conceptual foundations of quantum mechanics (New York/London) 419–432; vgl. dazu auch M. DRIESCHNER: Voraussage-Wahrscheinlichkeit-Objekt (1979).</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. die berühmte Arbeit von J. S. BELL: On the Einstein-Podolski-Rosen Paradox. Physics 1 (New York 1964) 195, und die endgültige Arbeit von J. F. CLAUSER: Exp. investigation of a polarization correlation anomaly. Phys. Rev. Lett. 36 (1976) 1223, sowie die darin zit. früheren, bes. den Konferenzband von d'ESPAGNAT a.O. [5].</li>\n</ol>",
+ "prev":{"id":1935,"lemma":"Messianismus, messianisch","band":"5","col":1163},
+ "next":{"id":1937,"lemma":"Metábasis eis állo génos","band":"5","col":1168},
+ "backlinks":[
+  {"id":2195,"lemma":"Observatio, Beobachtung","n":1},
+  {"id":2227,"lemma":"Operationalismus","n":1},
+  {"id":2548,"lemma":"Quantenmechanik","n":2}
+ ],
+ "outlinks":[{"id":1971,"lemma":"Mikrophysik","n":1}],
+ "register":[],
+ "persons":[
+  {"id":1084,"name":"Neumann","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":9538,"name":"J. F. Clauser","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1287,"name":"N. Bohr","b":0,"n":1,"l":2,"editor":0,"role":"mixed"},
+  {"id":6800,"name":"J. M. Jauch","b":0,"n":1,"l":2,"editor":0,"role":"scholar"},
+  {"id":211,"name":"B. Bauer","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1460,"name":"G. Ludwig","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1938,"name":"P. Mittelstaedt","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":3734,"name":"G. Süssmann","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":2877,"name":"M. Drieschner","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":7930,"name":"K. Hepp","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":5232,"name":"J. S. Bell","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":6801,"name":"W. Weidlich","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":15562,"name":"F. London","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":15563,"name":"A. Daneri","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":15564,"name":"A. Loinger","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":15565,"name":"G. M. Prosperi","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":15566,"name":"F. Haake","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":15567,"name":"E. P. Wigner","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1868,"name":"S. Körner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2518,"name":"F. Bopp","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5231,"name":"P. Good","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1126,"name":"E. Scheibe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4175,"name":"K. M. Meyer-Abich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":23840,"name":"E. P. Winger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":395,"lemma":"Beschreibung","tf":6},
+  {"id":2183,"lemma":"Objekt","tf":7},
+  {"id":2368,"lemma":"Physik","tf":4},
+  {"id":1187,"lemma":"Größe","tf":3},
+  {"id":3628,"lemma":"Wirklichkeit","tf":4},
+  {"id":3607,"lemma":"Widerspruch","tf":2}
+ ],
+ "see_also":[
+  {"id":1359,"lemma":"Ideation"},
+  {"id":1877,"lemma":"Maß"},
+  {"id":1934,"lemma":"Messen"},
+  {"id":2227,"lemma":"Operationalismus"},
+  {"id":2495,"lemma":"Protophysik"},
+  {"id":2548,"lemma":"Quantenmechanik"}
+ ],
+ "groups":[{"id":32,"name":"Physik","label":"Messprozess"}],
+ "reg_authors":[{"name":"Drieschner Michael","n":10},{"name":"Wegner Arnim","n":1}]
+}
+);

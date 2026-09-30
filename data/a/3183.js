@@ -1,0 +1,58 @@
+HWPH.put("a/3183",
+{
+ "id":3183,
+ "lemma":"Theozentrisch",
+ "band":"10",
+ "kind":"article",
+ "col_from":1162,
+ "col_to":1163,
+ "pdf_from":43101,
+ "pdf_to":43105,
+ "authors":["H.-J. Birkner"],
+ "n_notes":19,
+ "n_chars":6065,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Theozentrisch. Der Begriff wurde von I. H. FICHTE geprägt. Fichte bezeichnet Hegels spekulatives Denken als «theozentrisches Erkennen», hält diese Form des absoluten Wissens aber für undurchführbar und will statt dessen bei Kants Metaphysikkritik bleiben <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Auch später hat Fichte den theozentrischen Standpunkt abgelehnt und «den anthropo-(kosmo-)centrischen ... als den allein erreichbaren» behauptet. Der Mensch kann Gott «nicht in seinem Ansich, sondern nur indirect und mittelbar» erkennen; Hegels Annahme, daß «Theocentrisches und Anthropocentrisches ununterscheidbar sich decken», führt zu einem falschen Pantheismus <sup class=\"fn\" data-fn=\"0-2\">2</sup>. S. KIERKEGAARD hat das Begriffspaar schon früh übernommen <sup class=\"fn\" data-fn=\"0-3\">3</sup> und als ‹theozentrisch› die spekulative Philosophie und Theologie, bes. die Hegels und seiner Schüler, die Absolutes und Endliches miteinander vermitteln wollen, gebrandmarkt. Solange «der Theozentrische sich darauf beschränkt, dreimal wöchentlich nachmittags von 4–5 Uhr auf dem Katheder theozentrisch zu sein, im übrigen aber Bürger, Ehemann und Schützenkönig ist wie ein gewöhnlicher Sterblicher» <sup class=\"fn\" data-fn=\"0-4\">4</sup>, kann er nicht des unendlichen Abstandes von Göttlichem und Menschlichem, des Paradoxes, innewerden; der theozentrische Spekulant leugnet das Paradox <sup class=\"fn\" data-fn=\"0-5\">5</sup> und verliert damit das Christentum <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Der Begriff dient auch sonst gelegentlich zur Kritik an Hegels Absolutheitsphilosophie <sup class=\"fn\" data-fn=\"0-7\">7</sup>, begegnet dann aber vor allem im Sprachgebrauch der (evangelischen) Theologie. Von einer theozentrischen Christologie, die bei den Aussagen des altkirchlichen Dogmas über die Gottheit Jesu Christi ihren Einsatz nimmt, wird eine anthropozentrische unterschieden, der es entscheidend darauf ankommt, Person und Leben Jesu als wahrhaft menschlich zu verstehen. Als Urheber <i>dieser</i> Terminologie gilt der Tübinger Vermittlungstheologe M. A. LANDERER <sup class=\"fn\" data-fn=\"0-8\">8</sup>, dessen eigener anthropozentrischer Ansatz sich von einem theozentrischen abgrenzt <sup class=\"fn\" data-fn=\"0-9\">9</sup>. (Belegt sind allerdings dafür nur terminologische Mischformen «theanthropocentrisch» und «anthropotheocentrisch» <sup class=\"fn\" data-fn=\"0-10\">10</sup>.) Unabhängig von ihm und in anderer Weise hat K. B. HUNDESHAGEN sich der Begriffe bedient; in einem Vortrag aus dem Jahre 1854 fordert er, «die theozentrische Weltanschauung des Christentums wieder zu der ihr gebührenden Geltung zu bringen entgegen der anthropozentrischen des Rousseauismus» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Zu Beginn des 20. Jh. ist die Entgegensetzung wirkungsvoll erneuert worden durch E. SCHAEDER. Sein Hauptwerk ‹Theozentrische Theologie› (1904/14) vollzog eine Absage an die gesamte Theologie seit Schleiermacher, die «in verkehrter Weise anthropozentrisch» sei; zugleich postulierte es «eine Weiterbildung <span class=\"col\" data-col=\"1163\"></span> der dogmatischen Theologie», die darin bestehen müsse, «daß ihr der theozentrische Charakter, welcher ihr zukommt, klar und entschieden aufgeprägt wird» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Der programmatische Titel der Schaederschen Schrift hat den Begriff ‹theozentrisch› bekannt gemacht. Jedoch blieb er nicht unwidersprochen. So wandte R. SEEBERG ein, daß ‹theozentrisch› und ‹anthropozentrisch› sich nicht trennen lassen, «da allen Gotteswirkungen ... die Annahme seitens der Menschen entspricht» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Vor allem wurde ‹theozentrisch› bald auf die Lehre anderer Autoren übertragen, so auf die von Paulus <sup class=\"fn\" data-fn=\"0-14\">14</sup>, Anselm von Canterbury <sup class=\"fn\" data-fn=\"0-15\">15</sup> und M. Luther <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Von verschiedener Seite wurde aber auch die theozentrische, auf Gott als Mittelpunkt ausgerichtete Existenz des Menschen hervorgehoben <sup class=\"fn\" data-fn=\"0-17\">17</sup>. G. EBELING hebt hervor, daß die «anthropozentrische Ausrichtung ... mit der theozentrischen Ausrichtung aller Glaubensaussagen nicht im Widerspruch» steht <sup class=\"fn\" data-fn=\"0-18\">18</sup>. W. PANNENBERG will «die universale Kohärenz» der christlichen Lehren unbeschadet ihrer «theozentrischen Orientierung» herausstellen <sup class=\"fn\" data-fn=\"0-19\">19</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1163\"></span> I. H. FICHTE: Aphor. über die Zukunft der Theol. in ihrem Verhältn. zu Spekulation und Mythol. Z. Philos. spekulat. Theol. 3 (1839) 199–285, hier: 220; vgl. Zur spekulat. Theol.: a.O. 4 (1839) 167–210, hier: 178.</li>\n<li id=\"fn0-2\" value=\"2\">Ueber den Unterschied zw. eth. und naturalist. Theismus [1856]. Verm. Schr. zur Philos., Theol. und Politik (1869, ND 1969) 1, 322. 320; vgl. 1, XV. 23. 279. 288.</li>\n<li id=\"fn0-3\" value=\"3\">S. KIERKEGAARD: Om begrebet ironi (1841). Samlede Værker [SV] (Kopenhagen 1962–64) 1, 319; dtsch.: Über den Begriff der Ironie. Ges. Werke, hg. E. HIRSCH u.a. [GW] (1951–69) 31, 319; vgl. Philos. smuler (1844). SV 6, 38; dtsch.: Philos. Brocken. GW 10, 35 Anm.</li>\n<li id=\"fn0-4\" value=\"4\">Stadier på livets vei (1845). SV 7, 152; dtsch.: Stadien auf des Lebens Weg. GW 15, 178.</li>\n<li id=\"fn0-5\" value=\"5\">Afsluttende uvidenskabelig efterskrift (1846). SV 9, 19. 177. 179. 180; dtsch.: Abschl. unwiss. Nachschrift I. GW 16/1, 14f. 204. 206. 208.</li>\n<li id=\"fn0-6\" value=\"6\">Afls. uvid. efterskr. II (1846). SV 10, 149; dtsch.: GW 16/2, 175; vgl. SV 10, 57. 89. 109. 278; GW 16/2, 61. 101. 126. 331; vgl. Tagebuch (20. 11. 1847). Papirer (1968–78) 8/1, A 414; dtsch.: Tagebücher, hg. H. GERDES (1962–74) 2, 180.</li>\n<li id=\"fn0-7\" value=\"7\">K. W. E. MAGER: Einige Bem. über die Encyklopädie. Pädagog. Revue 16 (1847) 385–419, zit. 386f. Ges. Werke, hg. H. KRONEN 5 (1987) 60–94, zit. 62f.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. E. GUENTHER: Die Entwicklung der Lehre von der Person Christi im XIX. Jh. (1911) 258f.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. TH. HERMANN: Mitteil, über Prof. Landerer's dogmat. Vorles., 3. Art. Theol. Studien aus Württemberg 2 (1881) 85–127, hier: 100f.</li>\n<li id=\"fn0-10\" value=\"10\">a.O. 108.</li>\n<li id=\"fn0-11\" value=\"11\">K. B. HUNDESHAGEN: Die innere Mission auf der Universität [1854]. Ausgew. kl. Schr. und Abh. (1874–75) 1, 217–238, hier: 238.</li>\n<li id=\"fn0-12\" value=\"12\">E. SCHAEDER: Theozentr. Theol. (1909/14) 1, 3.</li>\n<li id=\"fn0-13\" value=\"13\">R. SEEBERG: Christl. Dogmatik (1924–25) 1, 286; vgl. auch: M. HEINSIUS: Der Streit über theozentr. und anthropozentr. Theol. (1918).</li>\n<li id=\"fn0-14\" value=\"14\">W. THUESING: Per Christum in Deum. Studien zum Verhältnis von Christozentrik und Theozentrik in den paulin. Hauptbr. (1965).</li>\n<li id=\"fn0-15\" value=\"15\">K. BARTH: Die christl. Dogmatik im Entwurf 1 (1927). Ges.ausg. 2 (1982) 132.</li>\n<li id=\"fn0-16\" value=\"16\">F. W. SCHMIDT: Theozentr. Theol. im Nominalismus und bei Luther. Z. Theol. Kirche NF 12 (1931) 359–371; P. ALTHAUS: Die Theol. M. Luthers (1962) 116. 118. 290.</li>\n<li id=\"fn0-17\" value=\"17\">J. MARITAIN: Humanisme intégral (Paris 1936, ND 1968) 36; dtsch.: Christl. Humanismus (1950) 22f.; H. ECHTERNACH: Theozentr. Existenz (1965) 123.</li>\n<li id=\"fn0-18\" value=\"18\">G. EBELING: Dogmatik des christl. Glaubens (1979) 1, 335.</li>\n<li id=\"fn0-19\" value=\"19\">W. PANNENBERG: Systemat. Theol. (1988–93) 1, 59.</li>\n</ol>",
+ "prev":{"id":3182,"lemma":"Theosophie","band":"10","col":1158},
+ "next":{"id":3184,"lemma":"Therapie; Therapeutik","band":"10","col":1164},
+ "backlinks":[{"id":3524,"lemma":"Wahrheit (christlich-theologisch)","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Abstand, unendlicher","qualifier":"","band":"10","col":"1162"}],
+ "persons":[
+  {"id":52,"name":"S. Kierkegaard","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":252,"name":"W. Pannenberg","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":403,"name":"G. Ebeling","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":825,"name":"R. Seeberg","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3409,"name":"E. Schaeder","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":10534,"name":"K. B. Hundeshagen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":54,"name":"A. Schmidt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":63,"name":"K. Barth","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":484,"name":"P. Althaus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":742,"name":"A. Hermann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1603,"name":"H. Gerdes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1356,"name":"J. Maritain","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3864,"name":"K. Mager","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6874,"name":"H. Kronen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10313,"name":"A. Guenther","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8756,"name":"Th. Heinsius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":9776,"name":"M. A. Landerer","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":30951,"name":"W. Thuesing","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":30952,"name":"H. Echternach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":64,"name":"I. H. Fichte","b":1,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":129,"name":"E. Hirsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3169,"lemma":"Theologie","tf":5},
+  {"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie","tf":2},
+  {"id":496,"lemma":"Christentum, Wesen des","tf":2},
+  {"id":154,"lemma":"Annahme, Annehmen","tf":2}
+ ],
+ "see_also":[{"id":179,"lemma":"Anthropozentrisch"}],
+ "groups":[
+  {"id":26,"name":"Metaphysik","label":"Theozentrisch"},
+  {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Theozentrisch"},
+  {"id":44,"name":"Theologie","label":"Theozentrisch"}
+ ],
+ "reg_authors":[{"name":"Birkner Hans-Joachim","n":6},{"name":"Red","n":242},{"name":"Rothschuh Karl E","n":6}]
+}
+);

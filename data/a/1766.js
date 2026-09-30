@@ -1,0 +1,65 @@
+HWPH.put("a/1766",
+{
+ "id":1766,
+ "lemma":"Lehnwort, Lehngut",
+ "band":"5",
+ "kind":"article",
+ "col_from":168,
+ "col_to":171,
+ "pdf_from":16508,
+ "pdf_to":16512,
+ "authors":["M. Scherner"],
+ "n_notes":21,
+ "n_chars":4977,
+ "toc":[
+  ["p1","1. Die (mehr oder weniger wertende) globale Konstatierung des Vorhandense",3],
+  ["p2","2. Der Versuch einer ausdrucksseitig orientierten linguistischen Differen",3],
+  ["p3","3. Der primär inhaltsseitig orientierte Versuch einer hierarchischen Klas",3],
+  ["p4","4. Die stärker kompetenzbezogenen und mit dem Instrumentarium der struktu",3],
+  ["h6","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Lehnwort, Lehngut. Der sprachwissenschaftliche Terminus ‹Lehngut› (Lg.), der in der jüngeren Linguistik allerdings nur eingeschränkte Verwendung findet, dient im Unterschied zu seinem Komplementärbegriff ‹Erbgut›, mit dem das genuin einheimische Sprachmaterial bezeichnet wird, als Sammelname für die Menge der sprachlichen Einheiten und Eigenheiten, die im Laufe der Geschichte einer bestimmten Einzelsprache aus anderen Sprachen in diese übernommen wurden. Die begriffliche Fassung solcher ‘Entlehnungenʼ (als Prozeß und als Ergebnis) kann in ihrer historischen Entwicklung nach vier Phasen der Problemakzentuierung unterschieden werden.</p>\n<p id=\"p1\">1. Die (mehr oder weniger wertende) globale Konstatierung des Vorhandenseins fremdsprachiger Elemente in der eigenen Sprache kann bis in die Anfänge abendländischer Sprachreflexion <sup class=\"fn\" data-fn=\"0-1\">1</sup> zurückverfolgt werden und manifestiert sich in den antik-rhetorischen Termini ξενικὸν ὄνομα und ‹verbum peregrinum› (teils als βαρβαρισμός, barbarismus bzw. barbarolexis gewertet) <sup class=\"fn\" data-fn=\"0-2\">2</sup>, die im Kreise barocker Sprachgesellschaften zu ‹fremde› bzw. ‹ausländische Wörter› verdeutscht werden; die Bezeichnung ‹Fremd-Wörter› (Fw.) prägt erst JEAN PAUL (1819) <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p id=\"p2\">2. Der Versuch einer ausdrucksseitig orientierten linguistischen Differenzierung zwischen ‘Erb-ʼ und ‘Lehngutʼ seit den Anfangen der historischen Sprachwissenschaft des 19. Jh. führt um 1850 zur (unsicheren) Unterscheidung zwischen ‹Fw.› und ‹Lehnwörtern› (‹L.› zuerst nachweisbar 1856 bei H. EBEL <sup class=\"fn\" data-fn=\"0-4\">4</sup>) nach ihrem jeweiligen phonetisch-graphischen und flexivischen Integrationsgrad.</p>\n<p id=\"p3\">3. Der primär inhaltsseitig orientierte Versuch einer hierarchischen Klassifikation der Lehnelemente, der zu Beginn des 20. Jh. einsetzt und bei W. BETZ seine ausgeprägteste Systematisierung findet, führt zum Aufbau eines differenzierten Begriffsfeldes, das vor allem innerhalb der ‹Lehnprägungen› <sup class=\"fn\" data-fn=\"0-5\">5</sup>, d.h. der unter Beteiligung des einheimischen Wortschatzes erfolgenden «Neubildung oder Neubedeutung» einzelner Lexeme «nach fremdem Vorbild» <sup class=\"fn\" data-fn=\"0-6\">6</sup>, eine reiche Subkategorisierung aufweist. Sie gliedern sich in ‘Lehnbedeutungenʼ (E. WELLANDER <sup class=\"fn\" data-fn=\"0-7\">7</sup>) für Entlehnungen nur der Bedeutung für ein einheimisches Wort und ‘Lehnbildungenʼ (W. BETZ) für «Neubildung [...] nach fremdem (inhaltlichen, formalen) Vorbild», die wieder nach ‹Lehnschöpfungen› (W. BETZ <sup class=\"fn\" data-fn=\"0-8\">8</sup>) für «Neubildung nach fremdem inhaltlichen Vorbild ohne formale Anlehnung» und ‹Lehnformungen› (W. BETZ <sup class=\"fn\" data-fn=\"0-9\">9</sup>) für «Neubildung [...] nach fremdem formalen (und inhaltlichen) Vorbild» unterschieden werden, die schließlich noch einmal in ‹Lehnübersetzungen› (FR. MAUTHNER <sup class=\"fn\" data-fn=\"0-10\">10</sup>) für «Glied-für- <span class=\"col\" data-col=\"171\"></span> eines fremden Vorbildes» und ‹Lehnübertragungen› (W. BETZ 1939) für «Teilnachbildung eines fremden Vorbildes» [^10a]) differenziert werden.</p>\n<p id=\"p4\">4. Die stärker kompetenzbezogenen und mit dem Instrumentarium der strukturalen Linguistik seit der Mitte des 20. Jh. durchgeführten Versuche einer expliziteren Deskription lingualer Kontaktphänomene übernehmen in der Regel die Klassifikation von Betz, verwenden jedoch – der geänderten Sehweise und dem jeweiligen Forschungsansatz entsprechend – im Anschluß an U. WEINREICH <sup class=\"fn\" data-fn=\"0-11\">11</sup> eine andere (bislang uneinheitliche) Terminologie (meistens) mit den Grundtermini ‹Interferenz› und ‹Transfer(enz)›. Eine vergleichende Übersicht zur Terminologie der Klassifikation von Lehnelementen ergibt folgendes Bild (Tab. 1).</p>\n<p>◉ Tabelle 1. Terminologie der Klassifikation von Lehnelementen</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">M. SCHERNER: Die Begriffe zur Gliederung des sprachl. Lg. Arch. Begriffsgesch. 18 (1974) 262–282.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"171\"></span> PLATON, Kratylos 410 a.</li>\n<li id=\"fn0-2\" value=\"2\">H. LAUSBERG: Hb. lit. Rhet. (1960) §§ 470ff.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. FR. KLUGE: Art. ‹Fremdwort›, in: Etymol. Wb. dtsch. Sprache, hg. W. MITZKA (<sup>18</sup>1960) 217.</li>\n<li id=\"fn0-4\" value=\"4\">H. EBEL: Über die Lw. der dtsch. Sprache, in: Progr. des Lehr- und Erziehungsinstituts zu Ostrowo bei Filehne (1856) 1–31.</li>\n<li id=\"fn0-5\" value=\"5\">W. BETZ: Réponses au questionnaire du 5e Congr. linguist. à Bruxelles (1939).</li>\n<li id=\"fn0-6\" value=\"6\">H. PAUL: Dtsch. Wb., hg. W. BETZ (<sup>6</sup>1968) 392.</li>\n<li id=\"fn0-7\" value=\"7\">E. WELLANDER: Stud. zum Bedeutungswandel im Dtsch. 1 (Uppsala 1917) 137.</li>\n<li id=\"fn0-8\" value=\"8\">W. BETZ: Der Einfluß des Lat. auf den ahd. Sprachschatz 1: Der Abrogans (1936).</li>\n<li id=\"fn0-9\" value=\"9\">W. BETZ: Lat. und Dtsch. Der Deutschunterricht 3 (1951) H. 1, 26.</li>\n<li id=\"fn0-10\" value=\"10\">FR. MAUTHNER: Wb. der Philos. (1902) 1, xxxiiff.</li>\n<li id=\"fn0-10\" value=\"10\">PAUL, a.O. [6] ebda.</li>\n<li id=\"fn0-11\" value=\"11\">U. WEINREICH: Languages in contact (New York 1953, 1970).</li>\n<li id=\"fn0-12\" value=\"12\">Die dtsch. Sprache. Kl. Enzyklop. 1 (1969) 514.</li>\n<li id=\"fn0-13\" value=\"13\">E. S. COLEMANN: Zur Bestimmung und Klassifikation der Wortentlehnungen im Ahd. Z. dtsch. Sprache 21 NF 5 (1964) 69–83.</li>\n<li id=\"fn0-14\" value=\"14\">P. VON POLENZ: Gesch. der dtsch. Sprache (1970) 43.</li>\n<li id=\"fn0-15\" value=\"15\">H. H. MUNSKE: German. Sprachen und dtsch. Gesamtsprache, in: Lex. der german. Linguistik (1973) (= LGL) 485ff.</li>\n<li id=\"fn0-16\" value=\"16\">N. BORETZKY: Sprachkontakte, in: W. A. KOCH (Hg.): Perspektiven der Linguistik 1 (1973) 138f.</li>\n<li id=\"fn0-17\" value=\"17\">H.-FR. ROSENFELD: Klass. Sprachen und dtsch. Gesamtsprache, in: LGL 474ff.</li>\n<li id=\"fn0-18\" value=\"18\">H. LÜDTKE: Roman. Sprachen und dtsch. Gesamtsprache, in: LGL 495ff.</li>\n<li id=\"fn0-19\" value=\"19\">G. BELLMANN: Slaw. Sprachen und dtsch. Gesamtsprache, in: LGL 503ff.</li>\n<li id=\"fn0-20\" value=\"20\">E. HAUGEN: The Norwegian language in America (Philadelphia 1953) 2, 402f.</li>\n</ol>",
+ "prev":{"id":1765,"lemma":"Lehnstuhlphilosophie","band":"5","col":167},
+ "next":{"id":1767,"lemma":"Lehrgedicht","band":"5","col":171},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Barbarismus","qualifier":"","band":"5","col":"168"},
+  {"term":"Interferenz","qualifier":"","band":"5","col":"171"},
+  {"term":"Lehngut","qualifier":"","band":null,"col":null},
+  {"term":"Transferenz","qualifier":"","band":"5","col":"171"}
+ ],
+ "persons":[
+  {"id":1698,"name":"W. Betz","b":5,"n":4,"l":0,"editor":0,"role":"mixed"},
+  {"id":430,"name":"F. Mauthner","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":782,"name":"H. Paul","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":5689,"name":"W. Ebel","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6743,"name":"U. Weinreich","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11654,"name":"E. Wellander","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":222,"name":"J. Koch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":212,"name":"Jean Paul","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":620,"name":"H. Lausberg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":822,"name":"F. Kluge","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6744,"name":"H. Rosenfeld","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":11115,"name":"F. G. Lüdtke","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":15200,"name":"G. Bellmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22976,"name":"E. S. Colemann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22977,"name":"P. von Polenz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22978,"name":"H. H. Munske","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22979,"name":"N. Boretzky","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22980,"name":"E. Haugen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1960,"name":"M. Scherner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2721,"name":"W. Mitzka","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3491,"lemma":"Vorbild","tf":6},
+  {"id":1797,"lemma":"Linguistik, Sprachwissenschaft","tf":3},
+  {"id":3152,"lemma":"Terminologie","tf":3}
+ ],
+ "see_also":[],
+ "groups":[{"id":20,"name":"Linguistik","label":"Lehnwort"}],
+ "reg_authors":[{"name":"Scherner Maximilian","n":8}]
+}
+);

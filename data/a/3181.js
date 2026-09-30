@@ -1,0 +1,68 @@
+HWPH.put("a/3181",
+{
+ "id":3181,
+ "lemma":"Theoriesprache",
+ "band":"10",
+ "kind":"article",
+ "col_from":1156,
+ "col_to":1157,
+ "pdf_from":43083,
+ "pdf_to":43087,
+ "authors":["F. Mühlhölzer"],
+ "n_notes":10,
+ "n_chars":6102,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Theoriesprache (theoretische Sprache) wird in der empiristischen Wissenschaftsphilosophie als Kontrastbegriff zu <a class=\"xref\" href=\"#/a/388\">‹Beobachtungssprache›</a> <span class=\"sd\">→ (s.d.)</span> verwendet <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die Unterscheidung zwischen Th. und Beobachtungssprache kann entweder dadurch getroffen werden, daß man zunächst bei den <a class=\"xref\" href=\"#/a/3150\">Termen</a> <span class=\"sd\">→ (s.d.)</span> zwischen theoretischen und Beobachtungstermen unterscheidet und dann einen (nicht-analytischen) Satz <a class=\"xref\" href=\"#/a/387\">‹Beobachtungssatz›</a> <span class=\"sd\">→ (s.d.)</span> (oder ‹Basissatz›, <a class=\"xref\" href=\"#/a/345\">→</a> s.d., oder ‹Protokollsatz›, <a class=\"xref\" href=\"#/a/2490\">→</a> s.d.) nennt, wenn er keinen, und ‹theoretischen Satz›, wenn er mindestens einen theoretischen Term enthält. Oder aber man formuliert für Sätze als Ganze entsprechende Unterscheidungskriterien. Die Beobachtungssätze sollen dadurch ausgezeichnet sein, daß ihre Wahrheit oder Falschheit durch einfaches Beobachten festgestellt werden kann, und man nimmt an, daß die theoretischen Sätze und Terme – deren Theoretizitätsgrad sich an ihrer ‘Ferneʼ zu den Beobachtungsdaten ermißt – ihre Bedeutung ausschließlich durch ihre <i>Beziehungen</i> zu den Beobachtungssätzen und -termen erhalten, wobei diese Beziehungen durch «Zuordnungsregeln» (oder «Korrespondenzregeln») hergestellt werden. Durch diese Regeln, und nur durch sie, ‘fließtʼ (so das empiristische Bild) Bedeutung von den Beobachtungssätzen auf die theoretische Ebene, und falls es solche Regeln <span class=\"col\" data-col=\"1157\"></span> nicht oder nicht auf angemessene Weise gibt, müssen die theoretischen Sätze und Terme als sinnlos eingeschätzt werden. Wichtig ist dabei, daß die so erfolgte empirische Deutung der theoretischen Sätze und Terme immer unvollständig bleibt; d.h., eine explizite Definition im Beobachtungsvokabular ist nicht möglich. Genau das macht eine Sprache zur ‘theoretischenʼ.</p>\n<p>Dies war im logischen Positivismus das Modell – «Standardmodell» genannt <sup class=\"fn\" data-fn=\"0-2\">2</sup> oder «Zweistufentheorie der Wissenschaftssprache» <sup class=\"fn\" data-fn=\"0-3\">3</sup> –, mit dem man wissenschaftliche Theorien analysierte. Es wurde in seiner deutlichsten Form von R. CARNAP <sup class=\"fn\" data-fn=\"0-4\">4</sup> entwickelt, kann jedoch teilweise auf Ideen von N. R. CAMPBELL <sup class=\"fn\" data-fn=\"0-5\">5</sup> und F. P. RAMSEY <sup class=\"fn\" data-fn=\"0-6\">6</sup> zurückgeführt werden und soll die angemessenste ‘rationale Rekonstruktionʼ wissenschaftlicher Theorien sein, die dann auch, v.a. nach CARNAPS Auffassung, in einer präzisen, formalen Sprache vorgenommen werden müsse. Unter ‹Th.› und ‹Beobachtungssprache› wären damit formale, von den Wissenschaftsphilosophen konstruierte Sprachen zu verstehen.</p>\n<p>Die Theoriesprache wird bei dieser Konzeption als Nicht-Beobachtungssprache rein negativ charakterisiert. Dazu benötigt man wohlumrissene Begriffe der Beobachtungssprache und der Zuordnungsregel, beides auf solche Weise, daß ein akzeptabler Bedeutungsbegriff – und bes. eine akzeptable Unterscheidung zwischen ‘sinnvollʼ und ‘sinnlosʼ – für die theoretischen Sätze gewonnen wird. Aus den verschiedenartigsten Gründen ließen sich solche Begriffe jedoch nicht finden <sup class=\"fn\" data-fn=\"0-7\">7</sup>, so daß das Standardmodell heutzutage kaum noch Anhänger besitzt. Auf besondere Weise war die Kritik H. PUTNAMS <sup class=\"fn\" data-fn=\"0-8\">8</sup> einflußreich, der die Forderung aussprach, sich von der empiristischen Fixiertheit auf ‘Beobachtungʼ zu lösen und nach einem positiven Kriterium für Theoretizität zu suchen («Putnams Herausforderung» <sup class=\"fn\" data-fn=\"0-9\">9</sup>). Ein theoretischer Term sollte nun einer sein, der, in einem noch zu explizierenden Sinn, ‘von einer Theorie herkommtʼ, so daß der entsprechende Theoretizitätsbegriff, anders als im empiristischen Standardmodell, auf die jeweilige Theorie relativiert werden muß. Diese Idee ist vor allem vom wissenschaftstheoretischen Strukturalismus J. D. SNEEDS, der sich durch einen besonders ausgefeilten Theorienbegriff auszeichnet, aufgegriffen und auf verschiedenerlei Weise präzisiert worden <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">H. PUTNAM s. Anm. [8]. – W. STEGMÜLLER: Theorie und Erfahrung (1970). – C. G. HEMPEL: Grundzüge der Begriffsbildung in der empir. Wiss. (1974). – F. SUPPE (Hg.): The structure of scient. theories (Urbana 1974). – W. BALZER/C. U. MOULINES/J. D. SNEED s. Anm. [10]. – R. TORRETTI: Creative understanding (Chicago 1990). – M. CARRIER: Art. ‹Th.›, in: J. MITTELSTRASS (Hg.): Enzykl. Philos. und Wiss.theorie 4 (1996) 283–289. – F. MÜHLHÖLZER s. Anm. [7].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1157\"></span> R. CARNAP: Beobachtungssprache und theoret. Sprache. Dialectica 12 (1958) 236–248.</li>\n<li id=\"fn0-2\" value=\"2\">C. G. HEMPEL: On the ‘standard conceptionʼ of scient. theories, in: M. RADNER/S. WINOKUR (Hg.): Analyses of theories and methods of physics and psychology (Minneapolis 1970) 142–163.</li>\n<li id=\"fn0-3\" value=\"3\">W. STEGMÜLLER: Theorie und Erfahrung (1970) 293.</li>\n<li id=\"fn0-4\" value=\"4\">R. CARNAP: The methodolog. charakter of theoret. concepts, in: The found. of sci. and the concepts of psychology and psychoanalysis (Minneapolis 1956) 38–76; dtsch.: Theoret. Begriffe der Wiss.: Eine log. und methodolog. Unters. Z. philos. Forsch. 14 (1960) 209–233. 571–584.</li>\n<li id=\"fn0-5\" value=\"5\">N. R. CAMPBELL: Physics: The elements (Cambridge 1920); ND: Found. of sci. (New York 1957).</li>\n<li id=\"fn0-6\" value=\"6\">F. P. RAMSEY: Theories, in: The found. of math. and other log. essays, hg. R. B. BRAITHWAITE (London 1931) 212–236; ND, in: Foundations: Essays in philos., logic, math. and economics, hg. D. H. MELLOR (London/Henley 1978) 101–125; dtsch.: Theorien, in: Grundlagen: Abh. zur Philos., Logik, Math. und Wirtschaftswiss. (1980) 90–108.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. F. MÜHLHÖLZER: Sprachphilos. in der Wiss.theorie, in: M. DASCAL u.a. (Hg.): Sprachphilos.: Ein int. Handb. zeitgenöss. Forschung 2 (1996) 1418–1436.</li>\n<li id=\"fn0-8\" value=\"8\">H. PUTNAM: What theories are not, in: E. NAGEL/P. SUPPES/A. TARSKI (Hg.): Logic, methodol. and philos. of sci. (Stanford 1962) 240–251; auch in: Math., matter and method: Philosoph. papers 1 (Cambridge 1975) 215–227.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. J. D. SNEED: The log. structure of mathemat. physics (Dordrecht 1971) 34f.; W. STEGMÜLLER: Theorie und Erfahrung 2. Halbbd.: Theorienstrukturen und Theoriendynamik (1973) 31.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. SNEED, a.O. (<sup>2</sup>1979) Kap. IIf.; U. GÄHDE: T.-Theoretizität und Holismus (1983); W. BALZER/C. U. MOULINES/J. D. SNEED: An architectonic for sci.: The structuralist program (Dordrecht 1987) Kap. If.; U. GÄHDE: On innertheoret. conditions for theoret. terms. Erkenntnis 32 (1990) 215–233; W. BALZER: Theoret. terms: Recent developments, in: W. BALZER/C. U. MOULINES (Hg.): Structuralist theory of sci.: Focal issues, new results (Berlin/New York 1996) 139–166; vgl. Art. <a class=\"xref\" href=\"#/a/3179\">→ Theorie II.</a>.</li>\n</ol>",
+ "prev":{"id":3180,"lemma":"Theorie, kritische","band":"10","col":1154},
+ "next":{"id":3182,"lemma":"Theosophie","band":"10","col":1158},
+ "backlinks":[{"id":3179,"lemma":"Theorie","n":1}],
+ "outlinks":[
+  {"id":345,"lemma":"Basissatz","n":1},
+  {"id":387,"lemma":"Beobachtungssatz","n":1},
+  {"id":388,"lemma":"Beobachtungssprache/theoretische Sprache","n":1},
+  {"id":2490,"lemma":"Protokollsatz","n":1},
+  {"id":3150,"lemma":"Term","n":1},
+  {"id":3179,"lemma":"Theorie","n":1}
+ ],
+ "register":[
+  {"term":"Sprache, theoretische","qualifier":"","band":null,"col":null},
+  {"term":"Standardmodell","qualifier":"","band":"10","col":"1156"},
+  {"term":"Term, theoretischer","qualifier":"","band":"10","col":"1156"},
+  {"term":"theoretische Sprache","qualifier":"","band":null,"col":null},
+  {"term":"Wissenschaftssprache","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1307,"name":"J. D. Sneed","b":1,"n":3,"l":1,"editor":0,"role":"mixed"},
+  {"id":36,"name":"R. Carnap","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2067,"name":"W. Balzer","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":122,"name":"W. Stegmüller","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":493,"name":"H. Putnam","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":2406,"name":"C. U. Moulines","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":909,"name":"F. P. Ramsey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1605,"name":"N. R. Campbell","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5371,"name":"U. Gähde","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":350,"name":"C. G. Hempel","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":10260,"name":"F. Mühlhölzer","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":331,"name":"A. Tarski","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":835,"name":"E. Nagel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1388,"name":"P. Suppes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2238,"name":"R. B. Braithwaite","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1894,"name":"M. Dascal","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3162,"name":"D. H. Mellor","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":13120,"name":"M. Radner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":18189,"name":"S. Winokur","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":255,"name":"J. Mittelstrass","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1891,"name":"F. Suppe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4290,"name":"M. Carrier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10259,"name":"R. Torretti","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2749,"lemma":"Sätze, subjektlose","tf":5},
+  {"id":2745,"lemma":"Satz","tf":2},
+  {"id":2640,"lemma":"Regel","tf":2}
+ ],
+ "see_also":[{"id":388,"lemma":"Beobachtungssprache/theoretische Sprache"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Theoriesprache"}],
+ "reg_authors":[{"name":"Mühlhölzer Felix","n":2}]
+}
+);

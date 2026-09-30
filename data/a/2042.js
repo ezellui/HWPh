@@ -1,0 +1,48 @@
+HWPH.put("a/2042",
+{
+ "id":2042,
+ "lemma":"Museum, imaginäres",
+ "band":"6",
+ "kind":"article",
+ "col_from":241,
+ "col_to":242,
+ "pdf_from":21157,
+ "pdf_to":21159,
+ "authors":["Th. Metscher"],
+ "n_notes":4,
+ "n_chars":3062,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Museum, imaginäres (frz. musée imaginaire). Mit dem Begriff ‹i.M.› bezeichnet A. MALRAUX den Tatbestand, daß durch <i>Reproduktion</i> bzw. Vervielfältigung der bildenden Kunst durch den Druck die gesamte Weltkunst in unsere Kultur einströmt und der individuellen wie kollektiven Rezeption verfügbar geworden ist <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Damit erfüllt das i.M. eine Funktion, die im traditionellen Museum angelegt ist, von diesem jedoch noch nicht erfüllt werden konnte. Zum ersten Mal in der Geschichte der Kunst werden Kunstwerke unterschiedlichster Epochen, Stile, Gattungen und Formen an einem Ort und zur gleichen Zeit der Rezeption zugänglich. Dies verändert die Werke selbst wie die Weisen ihrer Rezeption. Es hat auch die Bedingungen für die Kunstproduktion der Moderne grundlegend revolutioniert. Erst das Museum konstituiert Kunstwerke als rein ästhetische Gegenstände, indem es sie aus ihrer ursprünglichen Funktion löst. Durch die technischen Medien der Reproduktion (Photographie, Druck, Film) wird die Besonderheit individueller Oeuvres, werden Formen wie Miniatur, Farbfenster und Wandteppich voll entdeckt, tritt eine Vielzahl übersehener, unterschätzter und vergessener Werke gleichberechtigt neben die traditionellen Meisterwerke. Die durch das i.M. ermöglichte virtuelle Gleichzeitigkeit des «Erbes der gesamten Geschichte» <span class=\"col\" data-col=\"242\"></span> hat das Bewußtsein von Kunst und Kunsttraditionen ins Unermeßliche erweitert und den universalen Humanismus der Kunstwerke aller Völker und Zeiten erfahrbar gemacht.</p>\n<p>Malraux' Grundgedanke ist in W. BENJAMINS Auffassung vorgebildet, daß die durch die Entwicklung der technischen Produktivkräfte bewirkte unbeschränkte Reproduzierbarkeit von Kunstwerken die traditionalen «auratischen» Formen der Kunstrezeption ablöst und durch qualitativ andere ersetzt, ja neue ästhetische Medien (Photographie, Film) hervorbringt <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Vorstellung, daß dem modernen Bewußtsein die gesamte Geschichte der Kunst «zu Dienst und zu Gebot» steht, formuliert bereits HEGELS Ästhetik <sup class=\"fn\" data-fn=\"0-3\">3</sup>. HERDERS Idee einer universalen Geschichte der Humanität sowie FR. SCHLEGELS Theorie des historisch-«enzyklopädischen» Charakters moderner Kunst <sup class=\"fn\" data-fn=\"0-4\">4</sup> dürften gleichfalls in der Vorgeschichte des Begriffs des i.M. ihren Ort haben. Entsprechungen in der modernen Kunsttheorie finden sich bei so unterschiedlichen Autoren wie T. S. ELIOT und B. BRECHT. Auch die Konzeption des Verhältnisses von Gegenwart und Vergangenheit in der marxistischen Theorie der Kunstgeschichte (KAGAN, GIRNUS, WEIMANN) hat mit den im Begriff des i.M. niedergelegten Gedanken vieles gemein.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">A. MALRAUX s. Anm. [1]; Le musée imaginaire de la sculpture mondiale (Paris 1952–54).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"242\"></span> A. MALRAUX: Les voix de silence (Paris 1951), dtsch. Stimmen der Stille (1960) Teil 1.</li>\n<li id=\"fn0-2\" value=\"2\">W. BENJAMIN: Das Kunstwerk im Zeitalter seiner techn. Reproduzierbarkeit (1936, <sup>3</sup>1969).</li>\n<li id=\"fn0-3\" value=\"3\">G. W. F. HEGEL, Vorles. über die Ästhetik. Werke, hg. H. GLOCKNER 13 (1964) 232; vgl. T. METSCHER: Kunst und sozialer Prozeß (1977) 82f.</li>\n<li id=\"fn0-4\" value=\"4\">FR. SCHLEGEL, Prosaische Jugendschriften, hg. MINOR (1882) 2, 424; vgl. R. WELLEK: Gesch. der Lit.kritik 1750–1830 (1959) 267.</li>\n</ol>",
+ "prev":{"id":2041,"lemma":"Mundus phaenomenon","band":"6","col":240},
+ "next":{"id":2043,"lemma":"Musik","band":"6","col":242},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"imaginäres Museum","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":6263,"name":"A. Malraux","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":35,"name":"F. Schlegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":127,"name":"W. Benjamin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18,"name":"J. G. Herder","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":970,"name":"B. Brecht","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1253,"name":"R. Wellek","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3007,"name":"T. S. Eliot","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8887,"name":"Kagan","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":7977,"name":"R. Weimann","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":11786,"name":"W. Girnus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":15101,"name":"Th. Metscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2986,"name":"J. Minor","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1712,"lemma":"Kunst, Kunstwerk","tf":9},
+  {"id":2687,"lemma":"Reproduktion","tf":2},
+  {"id":2710,"lemma":"Rezeption, Rezeptionsästhetik","tf":3},
+  {"id":1315,"lemma":"Humanismus, Humanität","tf":2},
+  {"id":3586,"lemma":"Werk","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Museum, imaginäres"}],
+ "reg_authors":[{"name":"Metscher Thomas","n":1}]
+}
+);

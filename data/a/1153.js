@@ -1,0 +1,67 @@
+HWPH.put("a/1153",
+{
+ "id":1153,
+ "lemma":"Globus intellectualis",
+ "band":"3",
+ "kind":"article",
+ "col_from":677,
+ "col_to":678,
+ "pdf_from":9461,
+ "pdf_to":9464,
+ "authors":["W. Kramer"],
+ "n_notes":11,
+ "n_chars":4014,
+ "toc":[
+  ["p1","1. Zwei Aspekte ermöglichen das wortgeschichtliche Verständnis: a) ‹G.i.›",3],
+  ["p2","2. Die dem G.i.-Begriff inhärente programmatische Intention Francis Bacon",3],
+  ["h4","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Globus intellectualis ist eine Wortverbindung in den lateinischen Schriften FRANCIS BACONS, so im Titel der Abhandlung ‹Descriptio globi intellectualis› von 1612.</p>\n<p id=\"p1\">1. Zwei Aspekte ermöglichen das <i>wortgeschichtliche</i> Verständnis: a) ‹G.i.› ist eine Analogiebildung zu ‹globus terrestris›. Der Wandel des Welthorizontes, das lebhafte geographische Interesse der Zeit, bedingt durch Entdeckungen und neue Formen der Seefahrt und des Handels, sind das Medium seiner Verwendung <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – b) ‹globus›, im Neulateinischen vorwiegend geographischer terminus technicus, ist in Verbindung mit ‹intellectualis› durch das auch heute leitende Verständnis von ‹enzyklopädisch› bestimmt. Die übersetzende Aneignung von ἐγκύκλιος und ἐγκύκλιος παιδεία durch das Lateinische in der Zeit des Späthellenismus hat diese Begriffe endgültig zum ‹orbis doctrinae› <sup class=\"fn\" data-fn=\"0-2\">2</sup>, ‹circulus disciplinarum› <sup class=\"fn\" data-fn=\"0-3\">3</sup> mit den artes ingenuae bzw. liberales transformiert <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Für BACON ist es leicht, statt vom G.i. synonym vom orbis scientiarum zu sprechen. Diese Bestimmung des G.i. als eines Schemas der Wissenschaften – der zu verändernden und neu zu entwickelnden – muß freilich flüssig gehalten werden; denn Bacon verwendet ‹G.i.› auch in dem weiten Sinn von «geistiger Welt» (intellectual world). Angesichts der Veränderungen <span class=\"col\" data-col=\"678\"></span> des «globus materialis» dürfe der G.i. nicht innerhalb seiner bisherigen Grenzen verbleiben <sup class=\"fn\" data-fn=\"0-5\">5</sup>. In der Folgezeit zeigt sich, daß das enzyklopädische Element des G.i. im System- und Enzyklopädiebegriff aufgehoben ist. Die Verwendung des Begriffs ‹G.i.› tritt zurück hinter der Aufnahme seiner programmatischen Motive (d'ALEMBERT, DIDEROT, MARX, ENGELS, COMTE).</p>\n<p id=\"p2\">2. Die dem G.i.-Begriff inhärente <i>programmatische</i> Intention Francis Bacons enthält Vorstellungen ROGER BACONS aus dem 13. Jh., der als erster eine umfassende Anwendung des Naturwissens gefordert hat <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Das Programm ist getragen von dem Zutrauen zu der Prärogative einer neuen Zeit. Aus FRANCIS BACONS Zeitverständnis wird seine antischolastische Haltung deutlich: Die Zeit («veritas temporis filia») ist für ihn die höchste Autorität, dergestalt ist sie auch der «auctor auctorum»; gegenüber der Auslegung der Autoren erhebt er die Forderung «ad res ipsas», d.h. primär einer «interpretatio naturae» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Mit der Prävalenz des Naturwissens geht eine Akzentuierung des Wissens einher, die das Wissen als Funktion des Fortschritts der menschlichen Gesellschaft begreift und als Mittel seiner Realisierung zu entwerfen fordert. CICEROS These, daß «es uns vorab dazu treibt, die Mittel des Menschengeschlechtes zu mehren» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, AUGUSTINS «uti mundo» <sup class=\"fn\" data-fn=\"0-9\">9</sup> sind verwandelt in die Absicht einer universellen technischen Weltbemächtigung; die Verwirklichung des «imperium hominis» ist für BACON jedoch Mitwirkung des Menschen im Schöpfungswerk Gottes <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Der technische Aspekt der programmatischen Intention Bacons wird deutlich in der Anmerkung VICOS von 1708, daß Bacon bei seinem «novus orbis scientiarum» eine «neue Welt» brauche, eine andere als die, die nun einmal unsere Welt sei <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>BACONS programmatischer Begriff des G.i. impliziert in den Versuchen, das contemplari veritatem mit seinem operativen Wissensbegriff zusammenzubringen, eine weiterreichende Aporie.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">A. C. CROMBIE s. Anm. [6]. – R. F. MCRAE: The problem of the unity of the sciences. Bacon to Kant (Toronto 1961).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"678\"></span> F. BACON: Instauratio magna. Distributio operis. Werke, hg. SPEDDING/ELLIS/HEATH (London 1857–1874) 1, 134; Cogitata et visa. Werke 3, 613.</li>\n<li id=\"fn0-2\" value=\"2\">QUINTILIAN, Inst. or. 1, 10, 1.</li>\n<li id=\"fn0-3\" value=\"3\">AUGUSTIN, Acad. 3, 7.</li>\n<li id=\"fn0-4\" value=\"4\">H. KOLLER: ENKYKLIOS PAIDEIA. Glotta 34 (1955) 174–189; A. STÜCKELBERGER: Senecas 88. Brief. Über Wert und Unwert der freien Künste (1965) bes. 48–52.</li>\n<li id=\"fn0-5\" value=\"5\">F. BACON, a.a.O. [1]; Novum organum 1, 86. Werke 1, 191.</li>\n<li id=\"fn0-6\" value=\"6\">A. C. CROMBIE: Augustinus to Galileo (dtsch. 1964) 50ff.</li>\n<li id=\"fn0-7\" value=\"7\">F. BACON, Cogita et visa. Werke 3, 612; Nov. org. 1, 26. Werke 1, 84.</li>\n<li id=\"fn0-8\" value=\"8\">CICERO, De re publ. 1, 2.</li>\n<li id=\"fn0-9\" value=\"9\">AUGUSTIN, De doct. christ. 1, 4, 4.</li>\n<li id=\"fn0-10\" value=\"10\">F. BACON, Werke 3, 610.</li>\n<li id=\"fn0-11\" value=\"11\">G. VICO: De nostri temporis studiorum ratione (1708) 1 init.; lat./dtsch. W. F. OTTO (1947, 1963).</li>\n</ol>",
+ "prev":{"id":1152,"lemma":"Globalisierung","band":"3","col":675},
+ "next":{"id":1154,"lemma":"Glossematik","band":"3","col":678},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"geistige Welt","qualifier":"(Bacon)","band":null,"col":null},
+  {"term":"intellectual world","qualifier":"(Bacon)","band":null,"col":null},
+  {"term":"orbis scientiarum","qualifier":"(Bacon)","band":null,"col":null},
+  {"term":"uti mundo","qualifier":"(Bacon)","band":"3","col":"678"},
+  {"term":"Welt, geistige","qualifier":"(Bacon)","band":null,"col":null},
+  {"term":"Welt, intelligible","qualifier":"(Bacon)","band":null,"col":null},
+  {"term":"Wissen, enzyklopädisches","qualifier":"(Bacon)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":51,"name":"F. Bacon","b":3,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":7,"name":"Augustinus","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":580,"name":"G. Vico","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2422,"name":"Francis Bacon","b":2,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":57,"name":"D. Diderot","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":45,"name":"F. Engels","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":109,"name":"Quintilian","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":138,"name":"A. Comte","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":470,"name":"Augustin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":281,"name":"Roger Bacon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1386,"name":"Otto von Freising","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1529,"name":"H. Koller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7574,"name":"A. Stückelberger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21053,"name":"Enkyklios Paideia.","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6529,"name":"K. D. Mcrae","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1363,"name":"A. C. Crombie","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":357,"name":"J. Spedding","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1733,"name":"Ellis","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2113,"name":"Heath","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1468,"lemma":"Intentio","tf":2},
+  {"id":3543,"lemma":"Wandel; Veränderung","tf":2},
+  {"id":1987,"lemma":"Mittel","tf":2},
+  {"id":3634,"lemma":"Wissen","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Globus intellectualis (Bacon)"}],
+ "reg_authors":[{"name":"Kramer Werner","n":2}]
+}
+);

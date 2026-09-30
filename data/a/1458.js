@@ -1,0 +1,85 @@
+HWPH.put("a/1458",
+{
+ "id":1458,
+ "lemma":"Intellectus agens / intellectus possibilis",
+ "band":"4",
+ "kind":"article",
+ "col_from":433,
+ "col_to":435,
+ "pdf_from":12729,
+ "pdf_to":12735,
+ "authors":["L. Oeing-Hanhoff"],
+ "n_notes":22,
+ "n_chars":7636,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Intellectus agens / intellectus possibilis. Die seit der Aristoteles-Rezeption des Mittelalters übliche Terminologie ‹I.a./I.p.› (mit noch weiteren Fachausdrücken desselben Problemfeldes wie ‹I. acquisitus›, ‹I. materialis›, ‹I. passivus›) wurden und werden in deutschsprachigen philosophiehistorischen Texten häufig unübersetzt gebraucht <sup class=\"fn\" data-fn=\"0-1\">1</sup>, womit man auch die bis heute kontroverse Frage <sup class=\"fn\" data-fn=\"0-2\">2</sup> nach der angemessenen deutschen Übersetzung umgehen kann. Als Übersetzungen kommen u.a. «wirkliche und mögliche Vernunft» (so schon in mhd. Übersetzungen <sup class=\"fn\" data-fn=\"0-3\">3</sup>), «tätiger und bestimmbarer Verstand», «tätiger und leidender Geist» <sup class=\"fn\" data-fn=\"0-4\">4</sup> in Frage. Die auch gegebene Möglichkeit, als Übersetzung ‹aktiver und passiver Intellekt› zu wählen, fordert, die weitere Differenzierung in ‹I. possibilis› und ‹I. passivus› etwa durch die Unterscheidung zwischen «rezeptivem» und «passivem» Intellekt einzubringen <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Selbst eine nur terminologische Erklärung dieser lateinischen Ausdrücke, die Übersetzungen von νοῦς ποιητικός (vielleicht auf THEOPHRAST zurückgehend, bei ALEXANDER VON APHRODISIAS belegt <sup class=\"fn\" data-fn=\"0-6\">6</sup>) und νοῦς δυνάμει bz. νοῦς παθητικός sind, muß eine erste Orientierung über die durch ihre «Dunkelheit» und «übermäßige Kürze berüchtigte» <sup class=\"fn\" data-fn=\"0-7\">7</sup> Problemführung des ARISTOTELES im 4. und besonders 5. Kap. des dritten Buches über ‹Die Seele› geben:</p>\n<p>Um Vollzug und Wesen der auf Allgemeines gehenden Vernunfterkenntnis zu verstehen, vergleicht Aristoteles sie mit der das Einzelne erfassenden Wahrnehmung, die, wie die fühlende Hand durch die Wärme des gefühlten Wassers, durch ihre in den Sinn fallenden Objekte nicht als Wahrnehmung konstituiert, sondern nur in ihrem stets gegebenen (apriorischen) Wahrnehmen determiniert und konkretisiert wird: das Sinneswesen ist durch seine Erzeugung wahrnehmend analog dem Wissen, in dem ein Wissender, der schon gelernt hat, weiß, ohne dieses Wissen im «Betrachten» aktuell zu vollziehen <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Wie aber so der Sinn, etwa die fühlende Hand, ein immer schon wahrnehmendes Organ ist, ohne deshalb freilich schon aktuell einzelnes Sinnfälliges wahrzunehmen, so eignet auch der Vernunft eine solche mit ihrem Wesen gegebene Vollendung: «Aber nicht denkt sie [die Vernunft] bald, bald nicht», d.h. sie denkt immer <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Wie die stets fühlende Hand in der ihr wesentlich eigenen Vollendung noch nicht dieses oder jenes fühlbare Objekt fühlt, so erkennt auch die Vernunft nicht stets ihre Objekte, die allgemeinen Wesensformen der Dinge. Sie ist also zwar stets tätige Vernunft, aber doch zugleich in Möglichkeit zu den vernünftig erkennbaren <span class=\"col\" data-col=\"434\"></span> Wesensformen, die sie im aktuellen Erkennen in sich erkennend rezipiert und dadurch selbst «gewissermaßen die Wesensformen wird» <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Die Aktualisierung und Konkretisierung der Vernunfterkenntnis kann jedoch nicht, ähnlich wie beim Wahrnehmen, durch den zu erfassenden Gegenstand erfolgen. Denn zwar fällt das Sinnfällige von sich her in den Sinn und determiniert und aktualisiert dadurch das Wahrnehmen, aber das vernünftig vernehmbare Allgemeine, die Wesensformen, sind in den materiellen Dingen nur «potentiell intelligibel», d.h. nur der Möglichkeit nach vernünftig – vernehmbar <sup class=\"fn\" data-fn=\"0-11\">11</sup>, können also nicht in die Vernunft fallen wie das aktuell Sinnenfällige in den Sinn; vielmehr muß die Vernunft selbst aktiv das Allgemeine vernünftig-vernehmbar machen, was sie tut, wie Licht die potentiell wahrnehmbaren Farben aktuell wahrnehmbar macht <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Im Licht der Vernunft werden so die in den sinnlichen Vorstellungen enthaltenen allgemeinen Wesensformen <sup class=\"fn\" data-fn=\"0-13\">13</sup> derart aktuell intelligibel, daß die Vernunft das sich in ihrem Licht Zeigende rezipieren und erkennen kann.</p>\n<p>Damit sind nun verschiedene Zustände und Funktionen der Vernunft genannt. Sie ist</p>\n<p>a) I. in potentia oder I.p. (νοῦς δυνάμει <sup class=\"fn\" data-fn=\"0-14\">14</sup>), d.h. durch die zu rezipierenden Wesensformen «bestimmbare» Vernunft oder hinsichtlich der konkreten Erkenntnis bestimmter Wesensformen noch nicht verwirklichte, sondern «mögliche» Vernunft oder noch unbestimmtes Erkennen, wie es auch das zunächst noch nicht determinierte Fühlen der Hand ist;</p>\n<p>b) I. in actu (νοῦς κατ' ἐνέργειαν, νοῦς ἐντελεχείᾳ <sup class=\"fn\" data-fn=\"0-15\">15</sup>), d.h. in der Rezeption der Wesensformen aktualisierte oder aktuelle Vernunft. Aus solchem aktuellen Betrachten entsteht der Habitus der Wissenschaft;</p>\n<p>c) I.a. (αἴτιον καὶ ποιητικόν <sup class=\"fn\" data-fn=\"0-16\">16</sup>), d.h. kraft ihres Wesens aktuelle (τῇ οὐσίᾳ ὢν ἐνέργεια <sup class=\"fn\" data-fn=\"0-17\">17</sup>) Vernunft und in der Erleuchtung der Sinnesbilder tätige, wirkende Vernunft.</p>\n<p>Aristoteles spricht schließlich einmal vom νοῦς παθητικός <sup class=\"fn\" data-fn=\"0-18\">18</sup>, von der bestimmbaren, passiven, leidenden Vernunft. Soll sie nicht mit dem hinsichtlich der Wesensformen bestimmbaren I.p. identisch sein, kann damit nur die an ein materielles Organ gebundene Einbildungskraft (Phantasie) gemeint sein, deren Bilder das Objekt für die Erleuchtung der tätigen Vernunft sind; die Einbildungskraft wird von der Vernunft aber auch zur Bildung von Vorstellungen veranlaßt, erleidet so eine Einwirkung von der Vernunft und kann daher in uneigentlicher Benennung selbst «leidende Vernunft», nach der Übersetzung des WILHELM VON MOERBEKE «intellectus passivus», genannt werden.</p>\n<p>Nach W. Theiler «gibt es kein Stück der antiken Philosophie, das wie die halbe Seite dieses Kapitels eine solche Masse der Erklärungen hervorgerufen hat» <sup class=\"fn\" data-fn=\"0-19\">19</sup>; eine Basler Handschrift aus dem Anfang des 14. Jh. stellt z.B. «nicht weniger als 16 verschiedene Theorien über den i. agens» zusammen <sup class=\"fn\" data-fn=\"0-20\">20</sup>. Kontrovers war vor allem:</p>\n<p>a) hinsichtlich des I.a., ob er «Teil der menschlichen Seele» oder eine vom Menschen getrennte geistige Substanz, einer der «Gestirngeister» <a class=\"xref\" href=\"#/a/1124\">→</a> (s.d.) oder Gott bzw. der Gott im Menschen ist;</p>\n<p>b) hinsichtlich des I.p., ob er nicht nur als Fähigkeit, sondern der Substanz nach vom I.a. verschieden und ob er in der angenommenen Verschiedenheit vom I.a. einer für alle Menschen sei, wie es AVERROES gelehrt hat, wobei er diesen rezeptiven Intellekt, der nach ihm eine geistige Substanz ist, «I. materialis» (bestimmbar) nennt <sup class=\"fn\" data-fn=\"0-21\">21</sup>;</p>\n<p>c) hinsichtlich des I. passivus, d.h. der eine Einwirkung der Vernunft erleidenden Phantasie, ob sie mit ALEXANDER VON APHRODISIAS <sup class=\"fn\" data-fn=\"0-22\">22</sup> bei einer Gleichsetzung des I.a. mit dem Gott als I. materialis (ὕλικος νοῦς) unter dem Einfluß des I.a. zum I. acquisitus (ἐπίκτητος νοῦς), d.h. zur «erworbenen Vernunft» werden kann, die zureichendes Prinzip des in unserer Macht stehenden vernünftigen Erkennens ist.</p>\n<p>Eine differenziertere Darstellung der komplizierten Wirkungs- und Deutungsgeschichte der aristotelischen <span class=\"col\" data-col=\"435\"></span> νοῦς-Lehre kann nur im Zusammenhang einer ausführlichen Begriffs- und Problemgeschichte von <a class=\"xref\" href=\"#/a/3423\">‹Vernunft/Verstand›</a> <span class=\"sd\">→ (s.d.)</span> gegeben werden.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"435\"></span> Vgl. z.B. UEBERWEG/GEYER: Grundriß der Gesch. der Philos. 2 (<sup>12</sup>1951) 364f. 385. 391 u.ö.; UEBERWEG/FRISCHEISEN-KÖHLER: Grundriß ... 3 (<sup>13</sup>1953) 287; M. GRABMANN: Mittelalterl. Deutung und Umbildung der arist. Lehre vom NOUS POIETIKOS, Sber. Bayer. Akad. Wiss., philos.-hist. Klasse (1936) 4 u. passim; Art. <a class=\"xref\" href=\"#/a/31\">→ Abstraktion</a>, in: Hist. Wb. Philos. 1, 49f.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. THOMAS VON AQUIN, S. gegen die Heiden, hg. und übers. K. ALBERT/P. ENGELHARDT (1974) XVIf.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. GRABMANN, a.a.O. [1] 81f.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. ARISTOTELES, Über die Seele, übers. W. THEILER (<sup>2</sup>1966) 142f.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. Art. <a class=\"xref\" href=\"#/a/246\">→ Aristotelismus</a>, in: Hist. Wb. Philos. 1, 512.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. F. NUYENS: L'évolution de la psychol. d'Aristote (Louvain 1948) 302.</li>\n<li id=\"fn0-7\" value=\"7\">THEILER, a.a.O. [4] 142.</li>\n<li id=\"fn0-8\" value=\"8\">ARISTOTELES, De an. II, 5, 417 b 16ff.</li>\n<li id=\"fn0-9\" value=\"9\">a.a.O. III, 5, 430 a 22.</li>\n<li id=\"fn0-10\" value=\"10\">III, 5, 430 a 14f. 8, 431 b 21ff.</li>\n<li id=\"fn0-11\" value=\"11\">4, 430 a 6f.</li>\n<li id=\"fn0-12\" value=\"12\">5, 430 a 15ff.</li>\n<li id=\"fn0-13\" value=\"13\">8, 432 a 4f.</li>\n<li id=\"fn0-14\" value=\"14\">4, 429 b 8. 30.</li>\n<li id=\"fn0-15\" value=\"15\">4, 429 b 6. 31.</li>\n<li id=\"fn0-16\" value=\"16\">5, 430 a 12.</li>\n<li id=\"fn0-17\" value=\"17\">5, 430 a 18.</li>\n<li id=\"fn0-18\" value=\"18\">5, 430 a 24.</li>\n<li id=\"fn0-19\" value=\"19\">THEILER, a.a.O. [4] 142.</li>\n<li id=\"fn0-20\" value=\"20\">GRABMANN, a.a.O. [1] 4.</li>\n<li id=\"fn0-21\" value=\"21\">AVERROES, Comm. magn. in de an., hg. CRAWFORD 3, 5, 576.</li>\n<li id=\"fn0-22\" value=\"22\">Vgl. UEBERWEG/PRAECHTER: Grundriß der Gesch. der Philos. 1 (<sup>13</sup>1953) 565.</li>\n</ol>",
+ "prev":{"id":1457,"lemma":"Intellectual History","band":"4","col":431},
+ "next":{"id":1459,"lemma":"Intellekt","band":"4","col":435},
+ "backlinks":[
+  {"id":2868,"lemma":"Sensus agens","n":1},
+  {"id":2982,"lemma":"Spontaneität","n":1},
+  {"id":3241,"lemma":"Tun/Leiden","n":1},
+  {"id":3323,"lemma":"Unsterblichkeit","n":1},
+  {"id":3423,"lemma":"Vernunft; Verstand","n":1},
+  {"id":3552,"lemma":"Weiblich/männlich","n":1}
+ ],
+ "outlinks":[
+  {"id":31,"lemma":"Abstraktion","n":1},
+  {"id":246,"lemma":"Aristotelismus","n":1},
+  {"id":1124,"lemma":"Gestirngeister","n":1},
+  {"id":3423,"lemma":"Vernunft; Verstand","n":1}
+ ],
+ "register":[
+  {"term":"Geist, tätiger/leidender","qualifier":"","band":null,"col":null},
+  {"term":"intellectus acquisitus","qualifier":"","band":null,"col":null},
+  {"term":"intellectus materialis","qualifier":"","band":null,"col":null},
+  {"term":"intellectus passivus","qualifier":"","band":null,"col":null},
+  {"term":"Intellekt, aktiver/passiver","qualifier":"","band":null,"col":null},
+  {"term":"Vernunft, wirkliche/mögliche","qualifier":"","band":null,"col":null},
+  {"term":"Verstand, bestimmbarer","qualifier":"","band":null,"col":null},
+  {"term":"νοῦς δυνάμει","qualifier":"","band":"4","col":"433"},
+  {"term":"νοῦς κατ' ἐνέργειαν","qualifier":"","band":"4","col":"434"},
+  {"term":"νοῦς παθητικός","qualifier":"","band":null,"col":null},
+  {"term":"νοῦς ποιητικός","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":2,"name":"Aristoteles","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":291,"name":"F. Ueberweg","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":334,"name":"M. Grabmann","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":177,"name":"Averroes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":190,"name":"Alexander von Aphrodisias","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":235,"name":"Theophrast","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":834,"name":"Wilhelm von Moerbeke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1685,"name":"P. Engelhardt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1536,"name":"M. Frischeisen-Köhler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1824,"name":"K. Praechter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3215,"name":"K. Albert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11363,"name":"F. Nuyens","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21891,"name":"vom Nous Poietikos","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":677,"name":"W. Theiler","b":0,"n":3,"l":0,"editor":1,"role":"scholar"},
+  {"id":256,"name":"B. Geyer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1683,"name":"F. S. Crawford","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":402,"lemma":"Betrachten","tf":2},
+  {"id":1459,"lemma":"Intellekt","tf":3},
+  {"id":807,"lemma":"Erleuchtung","tf":2},
+  {"id":1792,"lemma":"Licht","tf":3},
+  {"id":2183,"lemma":"Objekt","tf":4},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":3},
+  {"id":673,"lemma":"Einbildung, Einbildungskraft","tf":2},
+  {"id":2239,"lemma":"Organ","tf":2},
+  {"id":3539,"lemma":"Wahrnehmung","tf":2},
+  {"id":801,"lemma":"Erklären, Erklärung","tf":2},
+  {"id":3634,"lemma":"Wissen","tf":2},
+  {"id":2794,"lemma":"Seele","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":9,"name":"Erkenntnistheorie","label":"Intellectus agens/possibilis"},
+  {"id":26,"name":"Metaphysik","label":"Intellectus agens/possibilis"}
+ ],
+ "reg_authors":[]
+}
+);

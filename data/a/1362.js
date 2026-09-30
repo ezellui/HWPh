@@ -1,0 +1,45 @@
+HWPH.put("a/1362",
+{
+ "id":1362,
+ "lemma":"Idee, einfache",
+ "band":"4",
+ "kind":"article",
+ "col_from":134,
+ "col_to":135,
+ "pdf_from":11777,
+ "pdf_to":11778,
+ "authors":["W. Halbfass"],
+ "n_notes":4,
+ "n_chars":1921,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Idee, einfache (lat. idea simplex, engl. <span class=\"col\" data-col=\"135\"></span> simple idea). Der Gebrauch dieses Ausdrucks weist Unterschiede auf, die in erster Linie den verschiedenen Verwendungsweisen von ‹I.›, in gewissem Maße auch der Mehrdeutigkeit von ‹einfach› entsprechen. Sofern ‹I.› als intelligibler Gehalt verstanden und in die Nähe von ‹Eidos› oder ‹Essenz› gerückt wird, sind ‹e.I.› atomare, durch logisch-erkenntnistheoretische Operationen nicht weiter zerlegbare Geltungseinheiten, die, als «einfache Elemente des Denkbaren» <sup class=\"fn\" data-fn=\"0-1\">1</sup> etwa im Sinne von DESCARTES' «naturae simplices» <sup class=\"fn\" data-fn=\"0-2\">2</sup>, den Grundbestand apriorischer Wissensmöglichkeiten darstellen. Wird ‹I.› demgegenüber, im Sinne von ‹Vorstellung›, als faktisches Bestandstück des Bewußtseins verstanden, so sind ‹e.I.› die elementaren qualitativen Komponenten, das irreduzible Material des Bewußtseinslebens; in diesem Sinne spricht J. LOCKE von «simple ideas» <sup class=\"fn\" data-fn=\"0-3\">3</sup>, und in die daran anschließende Tradition gehören noch die «Elemente» bei E. MACH und R. AVENARIUS. – Wird ‹einfach› nicht als ‹unteilbar›, sondern als «nicht einteilbar» im Sinne determinierender Klassifikation verstanden, so kann ‹e.I.› auch in die Nähe des ἄτομον εἶδος einerseits und der «eidetischen Singularität» HUSSERLS <sup class=\"fn\" data-fn=\"0-4\">4</sup> andererseits rücken.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">J. HERING: Bemerkungen über das Wesen, die Wesenheit und die Idee. Jb. Philos. phänomenol. Forsch. 4 (1921) 495–543. – H. SPIEGELBERG: Über das Wesen der I. Jb. Philos. phänomenol. Forsch. 11 (1930) 1–238. – J. M. LE BLOND: Les natures simples chez Descartes. Arch. Philos. 13/2 (1937) 163–180. – N. GOODMAN: On the simplicity of ideas. J. symbol. Logic 8 (1943) 107–121; The logical simplicity of predicates a.a.O. 14 (1949) 32–41.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">H. LOTZE: Logik (1874) § 34.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. DESCARTES, Regulae ad dir. ing. 8. Werke, hg. ADAM/TANNERY 10, 399.</li>\n<li id=\"fn0-3\" value=\"3\">J. LOCKE, An essay conc. human understanding (1690) II, 2, 1–2.</li>\n<li id=\"fn0-4\" value=\"4\">z.B. E. HUSSERL: Ideen zu einer reinen Phänomenol. und phänomenol. Philos. 1 (1913) § 12.</li>\n</ol>",
+ "prev":{"id":1361,"lemma":"Idee","band":"4","col":55},
+ "next":{"id":1363,"lemma":"Ideengeschichte","band":"4","col":135},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"einfache Idee","qualifier":"","band":null,"col":null},
+  {"term":"idea simplex","qualifier":"","band":null,"col":null},
+  {"term":"simple idea","qualifier":"","band":null,"col":null},
+  {"term":"Singularität, eidetische","qualifier":"","band":"4","col":"135"}
+ ],
+ "persons":[
+  {"id":15,"name":"R. Descartes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":21,"name":"J. Locke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":105,"name":"H. Lotze","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":125,"name":"E. Mach","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":370,"name":"R. Avenarius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":294,"name":"N. Goodman","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":924,"name":"H. Spiegelberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5764,"name":"J. Hering","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":9126,"name":"J. M. le Blond","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":77,"name":"Ch. Adam","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":707,"lemma":"Element","tf":2}],
+ "see_also":[],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Idee, einfache"}],
+ "reg_authors":[{"name":"Halbfass Wilhelm","n":32}]
+}
+);

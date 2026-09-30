@@ -1,0 +1,27 @@
+HWPH.put("a/1231",
+{
+ "id":1231,
+ "lemma":"Hayathologie",
+ "band":"3",
+ "kind":"article",
+ "col_from":1022,
+ "col_to":1022,
+ "pdf_from":10554,
+ "pdf_to":10554,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":448,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Hayathologie ist ein von CH. HARTSHORNE geprägter Terminus (von hebr. haya = werden, wirken, sein) als Kennwort für seine «neoklassische Metaphysik», die an die Stelle der klassischen Prinzipien des Seins, der Substanz, der Absolutheit und Notwendigkeit als primäre Begriffe «creative becoming, event, relativity and possibility» setzt <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">CH. HARTSHORNE: The logic of perfection and other essays in neoclassical metaphysics (Lasalle, III. 1962) XIII.</li>\n</ol>",
+ "prev":{"id":1230,"lemma":"Haushalt","band":"3","col":1020},
+ "next":{"id":1232,"lemma":"Heautonomie","band":"3","col":1022},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":448,"name":"Ch. Hartshorne","b":1,"n":1,"l":0,"editor":1,"role":"scholar"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Hayathologie (Hartshorne)"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

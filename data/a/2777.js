@@ -1,0 +1,58 @@
+HWPH.put("a/2777",
+{
+ "id":2777,
+ "lemma":"Schöner Geist, Schöngeist",
+ "band":"8",
+ "kind":"article",
+ "col_from":1386,
+ "col_to":1387,
+ "pdf_from":34417,
+ "pdf_to":34421,
+ "authors":["G. Scholtz"],
+ "n_notes":13,
+ "n_chars":4880,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Schöner Geist, Schöngeist. Der Begriff ‹schöner Geist› [sch.G.] erhält seine terminologische Bedeutung erst als Übersetzungsversuch des französischen ‹bel esprit› 1687 bei CH. THOMASIUS <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Gegenüber D. BOUHOURS, der die «divers caracters du bel esprit» in den Kontexten von Politik, Konversation und «belles lettres» verortet <sup class=\"fn\" data-fn=\"0-2\">2</sup>, grenzt ihn THOMASIUS auf den letzteren ein und bestimmt, daß «die Wissenschafft der Grund zu einem bel esprit und ein nöthiges Stück davon ist ...» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Der Ausdruck ‹sch.G.› steht zunächst dem älteren Begriff des Witzes nahe <sup class=\"fn\" data-fn=\"0-4\">4</sup> und dient der genaueren Bestimmung des Geistes (‘einen sch.G. habenʼ). Sodann wird aber ‹sch.G.› mehr und mehr auch personifizierend gebraucht (‘ein sch.G. seinʼ) und kennzeichnet dann denjenigen, «bey welchem die sinnlichen Empfindungen, die Einbildungskraft und der Verstand gemeinschaftlich wirken» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Der Begriff kommt im 18. Jh. zusammen mit Sache und Begriff der schönen Wissenschaften und der Ästhetik in Gebrauch und charakterisiert einen Menschen von ästhetischer Bildung und künstlerischem Vermögen, die sich mit weitläufiger Weltkenntnis und Erfahrung verbinden. Für CH. M. WIELAND waren «wirklich große und schöne Geister» Homer, Thukydides und Vergil <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Wie der «Aestheticus», so wird auch der «sch.G.» dem bloßen Gelehrten gegenübergestellt. Da als Ideal die Verbindung von ästhetischer und wissenschaftlicher Bildung gilt, kann G. E. LESSING deren Trennung kritisieren: «Unsere schönen Geister sind selten Gelehrte, und unsere Gelehrte selten schöne Geister. Jene wollen gar nicht lesen, gar nicht nachschlagen, gar nicht sammeln; kurz, gar nicht arbeiten: und diese wollen nichts als das. Jenen mangelt es am Stoffe, und diesen an der Geschicklichkeit ihrem Stoffe eine Gestalt zu erteilen» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Hier kündigt sich die kritische und pejorative Bedeutung des Begriffs an, die in der zweiten Hälfte des 18. Jh. immer häufiger wird. Was man einen «sch.G.» nennt, entpuppt sich als ästhetische Halbbildung, Oberflächlichkeit, bloße Empfindelei und Stutzertum <sup class=\"fn\" data-fn=\"0-8\">8</sup>. In diesem Zusammenhang entsteht eine ganze Reihe von abwertenden Begriffen wie ‹Schöngeistelei›, ‹schöngeistern›, darunter auch ‹Schöngeist› <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Diese letzte Kontraktion ist schon 1775 bei CH. F. D. SCHUBART belegt, der über die «Schöngeisterchen in Paris» spottete <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Schon in Frankreich konnte ‹bel esprit› u.a. auch ‹Genie› bedeuten. Je mehr durch die wachsende Differenzierung zwischen Wissenschaft und Kunst – zusammen mit den Begriffen ‹schöne Wissenschaft› und ‹schönes Denken› – auch der Begriff ‹sch.G.› der Kritik verfällt und schließlich außer Gebrauch kommt, desto mehr nimmt der Geniebegriff seine Stelle ein, und zwar dort, wo das Schöpferische und die Originalität des Künstlers bezeichnet werden sollen. (Bereits G. F. MEIER übersetzte mit «sch.G.» den Baumgartenschen Begriff «ingenium venustum» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.) Wo es aber das handwerkliche Metier des ehemals ‹sch.G.› zu bezeichnen gilt, da spricht man jetzt vom «Schriftsteller» <sup class=\"fn\" data-fn=\"0-12\">12</sup> oder vom «Journalisten, Versler und Correspondenzler, häufig Literaten» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. ‹Schöngeist› aber bleibt der Sprache als zumeist herablassend ironische Kennzeichnung für den ‘Ästhetenʼ erhalten. <span class=\"col\" data-col=\"1387\"></span></p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">D. BOUHOURS s. Anm. [2]: Le bel esprit. Quatrième Entretien 113–138. – W. FELDMANN: Modewörter des 18. Jh. 2. Z. dtsch. Wortforschung, hg. F. KLUGE 6 (1904/05) 332–336.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">CH. THOMASIUS: Welcher Gestalt man denen Frantzosen in gemeinem Leben und Wandel nachahmen solle? (1687). Kl. dtsch. Schr., hg. J. O. OPEL (1894, ND 1983) 87. 110. 116; vgl. Art. <a class=\"xref\" href=\"#/a/383\">→ Bel esprit</a>, in: Hist. Wb. Philos. 1 (1971) 828f.</li>\n<li id=\"fn0-2\" value=\"2\">D. BOUHOURS: Les entretiens d'Ariste et d'Eugene (Paris 1671, ND 1962) 127; vgl. THOMASIUS, a.O. 87.</li>\n<li id=\"fn0-3\" value=\"3\">THOMASIUS, a.O. 110.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. W. T. KRUG: Allg. Wb. der philos. Wiss.en, nebst ihrer Lit. und Gesch. 2 (1827) 136.</li>\n<li id=\"fn0-5\" value=\"5\">J. CH. ADELUNG: Grammat.-krit. Wb. der hochdtsch. Mundart 2 (<sup>2</sup>1796) 514; vgl. J. H. CAMPE: Wb. der dtsch. Sprache 2 (1808) 297. <span class=\"col\" data-col=\"1387\"></span></li>\n<li id=\"fn0-6\" value=\"6\">Vgl. WIELANDS Br.wechsel, hg. H. W. SEIFFERT 1 (1963): Br. der Bildungsjahre (1. Juni 1750–2. Juni 1760) 373 (Br. an Zimmermann, 18. 10. 1758).</li>\n<li id=\"fn0-7\" value=\"7\">G. E. LESSING: Br. die neueste Lit. betr. 3. Ges. Werke, hg. P. RILLA 4 (<sup>2</sup>1968) 269 (52. Br., 23. 8. 1759).</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. Br. von und an G. A. BÜRGER. Ein Beitrag zur Litgesch. seiner Zeit, hg. A. STRODTMANN 1 (1874) 165 (Br. an Boie, Okt. 1773); J. M. MILLER: Beytrag zur Gesch. der Zärtlichkeit (<sup>2</sup>1780) 9; G. SCHADE: Einl. in die höhere Weltweisheit der allg. Ges. der Wiss.en. Erster Versuch oder Erstes Stück mit einer sehr merkwürdigen Zueignungsschrift (1760) 11f.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. GRIMM 9 (1899) Art. ‹Schöngeist› 1508f; ‹Schöngeistelei› 1509; ‹Schöngeistern› 1509.</li>\n<li id=\"fn0-10\" value=\"10\">CH. F. D. SCHUBART: Dtsch. Chronik (1775) 787 (99. Stück, 11. 12. 1775).</li>\n<li id=\"fn0-11\" value=\"11\">G. F. MEIER: Anfangsgründe aller schönen Wiss.en 1 (1748) 510f. (§ 217).</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. GRIMM, a.O. [9] 1508.</li>\n<li id=\"fn0-13\" value=\"13\">I. JEITTELES: Aesthet. Lex. Ein alphabet. Hb. zur Theorie der Philos. des Schönen und der schönen Künste 2 (Wien 1837) 318.</li>\n</ol>",
+ "prev":{"id":2776,"lemma":"Schöne","band":"8","col":1343},
+ "next":{"id":2778,"lemma":"Schönheitslinie","band":"8","col":1387},
+ "backlinks":[],
+ "outlinks":[{"id":383,"lemma":"Bel esprit","n":1}],
+ "register":[
+  {"term":"Geist, schöner","qualifier":"","band":null,"col":null},
+  {"term":"Gelehrtenrepublik","qualifier":"","band":"8","col":"1386"},
+  {"term":"ingenium venustum","qualifier":"","band":"8","col":"1386"},
+  {"term":"Schöngeist","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":72,"name":"Ch. Thomasius","b":2,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":1473,"name":"D. Bouhours","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":70,"name":"G. E. Lessing","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":103,"name":"G. F. Meier","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3198,"name":"Ch. F. D. Schubart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":43,"name":"W. T. Krug","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":385,"name":"Ch. M. Wieland","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":427,"name":"J. Ch. Adelung","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":449,"name":"J. H. Campe","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":760,"name":"Wieland","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6627,"name":"G. A. Bürger","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6724,"name":"H. Schade","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9628,"name":"H. W. Seiffert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9759,"name":"I. Jeitteles","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":822,"name":"F. Kluge","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2425,"name":"W. Feldmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":371,"name":"N. Miller","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2094,"name":"P. Rilla","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":15146,"name":"A. Opel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":14827,"name":"A. Strodtmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3030,"lemma":"Stoff","tf":2},
+  {"id":435,"lemma":"Bildung","tf":2},
+  {"id":3635,"lemma":"Wissenschaft","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Schöner Geist"}],
+ "reg_authors":[]
+}
+);

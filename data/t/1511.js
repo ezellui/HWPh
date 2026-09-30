@@ -1,0 +1,33 @@
+HWPH.put("t/1511",
+{
+ "b":"I. ‹J.› erscheint bei JEAN PAUL für Gegenwart. Wie kann man, so fragt Jean Paul, vom «Geist der Zeit» sprechen, da «die Zeit in Zeiten zerspringt, wie der Regenbogen in fallende Tropfen» und ferner dieselbe Zeit «auf allen zahllosen Welten der Gegenwart» und in allen Ländern einen anderen Geist entwickelt. «Da folgt, daß dieselbe unausmeßbare Jetzo-Zeit Millionen verschiedene Zeit-Geister haben muß: so frag' ich: wo erscheint euch denn der zitierte Zeit-Geist deutlich, in Deutschland, Frankreich oder wo?» . \nSCHOPENHAUER kritisiert die Wortbildung wiederholt; er sieht sie symptomatisch für den Optimismus, die Überheblichkeit und den mangelnden ästhetischen Sinn seiner Zeit, «welche sich recht passend mit dem selbstfabrizierten, so prätentiösen, wie kakophonischen Worte ‹J.› bezeichnet, als wäre ihr Jetzt das Jetzt κατ' ἐξοχήν, das Jetzt, welches herauszubringen alle anderen Jetzt allein dagewesen» . \nII. ‹J.› und ‹Jetzt der Erkennbarkeit› gehören zu den Kategorien, die von der Geschichtstheorie W. BENJAMINS aus einer doppelten Frontstellung gegen Idealismus wie gegen positivistischen Historismus entwickelt werden. Während der letztere den Geschichtsschreiber gleichsam in die Vergangenheit zurückversetze, um alles Gewesene, das als bloße «Masse der Fakten» «die homogene und leere Zeit» ausfülle, allein aus sich heraus, «einfühlend» zu verstehen, usurpierten die idealistischen Geschichtskonstruktionen umgekehrt die Perspektive der Zukunft und unterstellten in der Geschichte den Naturplan eines sowohl selbsttätig sich vollziehenden als prinzipiell unabschließbaren Fortschritts. Von beiden Versionen wird «die Geschichte in allem was sie Unzeitiges, Leidvolles, Verfehltes von Beginn an hat» , dem Vergessen überantwortet. Gerade dieses jedoch: das in der Geschichte bereits Angelegte, aber von ihr noch nicht Eingelöste, wäre Gegenstand materialistischer Geschichtsschreibung und Geschichtsphilosophie, wie sie Benjamin fordert. So handele es sich für die Literaturgeschichte «nicht darum, die Werke des Schrifttums im Zusammenhang ihrer Zeit darzustellen, sondern in der Zeit, da sie entstanden, die Zeit, die sie erkennt – das ist die unsere – zur Darstellung zu bringen» . Alles Vergangene komme erst in einer bestimmten Zeit zur ‹Lesbarkeit›, die nicht der Willkür des Historikers anheimgegeben ist, sondern eine objektive geschichtliche Konstellation darstellt: «So war für Robespierre das antike Rom eine mit J. geladene Vergangenheit, die er aus dem Kontinuum der Geschichte heraussprengte» . Gegenwart und Vergangenheit treten Benjamin zum dialektischen Bild zusammen, in dem «die Wahrheit mit Zeit bis zum Zerspringen geladen» ist . \nGeschichte ist für Benjamin so wenig wie für MARX vom politischen Interesse ablösbar; «Rettung» des Gewesenen durch den Historiker und Philosophen bleibt an die praktische Befreiung der Menschheit gebunden. Gegenüber der orthodox-marxistischen Vorstellung indessen, derzufolge «die kapitalistische Produktion ... mit der Notwendigkeit eines Naturprozesses ihre eigne Negation» erzeuge, überleben in BENJAMINS politischer Geschichtstheorie anarchistische und blanquistische Elemente: «In Wirklichkeit gibt es nicht einen Augenblick, der seine revolutionäre Chance nicht mit sich führte – sie will nur als eine spezifische definiert sein, nämlich als Chance einer ganz neuen Lösung im Angesicht einer ganz neuen Aufgabe. Dem revolutionären Denker bestätigt sich die eigentümliche revolutionäre Chance jedes geschichtlichen Augenblicks aus der politischen Situation heraus. Aber sie bestätigt sich ihm nicht minder durch die Schlüsselgewalt dieses Augenblicks über ein ganz bestimmtes, bis dahin verschlossenes Gemach der Vergangenheit. Der Eintritt in dieses Gemach fällt mit der politischen Aktion strikt zusammen» . Diese politische Aktion soll sich, «wie vernichtend immer, als eine messianische zu erkennen» geben . «Die J. [faßt] als Modell der messianischen in einer ungeheueren Abbreviatur die Geschichte der ganzen Menschheit zusammen» . Wie die Vergangenheit «auf die Erlösung verwiesen» bleibe, so sei auch «uns», d.h. der J., ihrer geschichtlichen Praxis wie ihrer Theorie der Geschichte, «eine schwache messianische Kraft mitgegeben, an welche die Vergangenheit Anspruch hat» . Diesem Anspruch stellt sich der historische Materialist, wenn er jenes «unwiederbringliche Bild der Vergangenheit» festhält, «das mit jeder Gegenwart zu verschwinden droht, die sich nicht als in ihm gemeint» erkennt . «Das Jetzt der Erkennbarkeit ist der Augenblick des Erwachens» ; «das Subjekt historischer Erkenntnis» aber «die kämpfende, unterdrückte Klasse selbst» . \nE. BLOCH hat den Begriff der J. aufgegriffen und erweitert: Seiner Hoffnungsmetaphysik stellt sich jede Zeit, wenngleich in verschiedenem Grad, als mit «Jetzt» erfüllt dar. «Die Konkordanzen der echten J. betreffen in Form wie Inhalt einzig Zukunft in der Vergangenheit, folglich Ungewordenes, im Werden» . Den Blick von der J. als jeweiliger Gegenwart aus auf Vergangenes – an dem Benjamin als an dem historischen Blick festhält – löst bei Bloch der umgekehrte ab; für ihn «wird ein Blick von vergangenen Zeiten auf die eigene möglich, von objektivierbaren mithin, die trotzdem als J.en betreffen mögen und so im doppelten Sinn des Worts wieder angehen» . In Blochs Philosophie liegt der Akzent von J. weniger auf Benjamins «Rettung des Vergangenen», sie versucht vielmehr, den «Inhalt von J. ... innerhalb objektiver ‹Antizipation›» zu fassen : J.en sind «Abschlagszahlungen eines gefüllteren Da-Seins» «in einem Präteritum, das keines ist» , fragmentarische Vorwegnahmen utopischer Gehalte in der Geschichte als Vorgeschichte.",
+ "n":"JEAN PAUL, Levana oder Erziehlehre. Hist.-krit. A. I/12 (1937) 115f.; (Die Erstausgabe hat «Jetzt-Zeit». Levana (1807) 1, 103). \nA. SCHOPENHAUER, Werke, hg. A. HÜBSCHER 6 (21947) 304; vgl. 275. 478. 575. 580; 5, 185. \nW. BENJAMIN, Ges. Schr. 1 (1974) 702. \na.a.O. 343. \n3 (1972) 290. \n1, 701. \nzit. bei R. TIEDEMANN: Stud. zur Philos. W. Benjamins (21973) 159. \nK. MARX: Das Kapital I. MEW 23 (31969) 791. \nBENJAMIN, a.a.O. [1] 1231. \nebda. \n703. \n693f. \n695. \nunveröff. Ms. \na.a.O. [1] 700. \nE. BLOCH: Lit. Aufsätze (1965) 154. \na.a.O. 153. \n155. \n152. 156.",
+ "l":"",
+ "au":"H. Pröbsting R. Tiedemann",
+ "A":["H. Pröbsting","R. Tiedemann"],
+ "cb":[[0,648],[514,648],[914,648],[2125,649],[2667,649],[4628,649]],
+ "cn":[
+  [0,648],
+  [129,648],
+  [216,649],
+  [218,649],
+  [257,649],
+  [270,649],
+  [285,649],
+  [294,649],
+  [362,649],
+  [407,649],
+  [435,649],
+  [442,649],
+  [448,649],
+  [455,649],
+  [461,649],
+  [476,649],
+  [493,649],
+  [530,649],
+  [543,649],
+  [549,649]
+ ],
+ "cl":[]
+}
+);

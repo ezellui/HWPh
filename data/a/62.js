@@ -1,0 +1,48 @@
+HWPH.put("a/62",
+{
+ "id":62,
+ "lemma":"Agnosie",
+ "band":"1",
+ "kind":"article",
+ "col_from":109,
+ "col_to":110,
+ "pdf_from":586,
+ "pdf_to":588,
+ "authors":["E. Bay"],
+ "n_notes":7,
+ "n_chars":3111,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Agnosie wird nach v. MONAKOW <sup class=\"fn\" data-fn=\"0-1\">1</sup> definiert als «eine Beeinträchtigung der Fähigkeit, sonst geläufige Sinnesbilder von einem Sinnesorgan aus zu erkennen ... <span class=\"col\" data-col=\"110\"></span> bei relativem Freibleiben oder geringer Störung der elementaren Tätigkeit des betreffenden Sinnesorgans, sowie bei ziemlich freiem Sensorium und Sprache»; d.h. die Unfähigkeit, Wahrnehmungsobjekte mit Hilfe der einzelnen Sinne (Gesicht, Gehör, Tastsinn) zu erkennen, ohne daß diese Unfähigkeit durch eine grobe Störung der Sinnesempfindungen (wie Blindheit, Schwerhörigkeit, Gefühlsstörungen), durch eine Bewußtseinsstörung oder durch eine Störung des sprachlichen Ausdrucksvermögens (Aphasie) verursacht ist. Die Benennung dieser Störung als A. stammt von FREUD <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Dem Begriff der A. liegt die assoziationspsychologische Vorstellung zugrunde, daß sich die Wahrnehmungen aufbauen aus einer Summe von elementaren Sinnesempfindungen (wie Farben, Tönen, Druck-, Schmerzempfindungen usw.), die in einem besonderen «gnostischen Akt» zu gestalteten Wahrnehmungen von Objekten zusammengefaßt werden.</p>\n<p>Dieser Theorie zufolge gäbe es in jedem Sinnesgebiet Störungen sowohl der Elementarempfindungen, als auch ihrer gnostischen Zusammenfassung, d.h. im optischen Bereich einerseits elementare Sehstörungen bis zur Blindheit und anderseits eine optische A. (Seelenblindheit <sup class=\"fn\" data-fn=\"0-3\">3</sup>); im akustischen Bereich einerseits Hörstörungen bis zur Taubheit und anderseits eine akustische A. (Seelentaubheit <sup class=\"fn\" data-fn=\"0-4\">4</sup>) bei normalem Tongehör; im taktilen Bereich einerseits Sensibilitätsausfälle, anderseits eine taktile A. (Tastlähmung <sup class=\"fn\" data-fn=\"0-5\">5</sup>). Alle diese Krankheitsbilder wurden beschrieben aufgrundunzulänglicher klinischer bzw. tierexperimenteller Beobachtungen, wobei die exemplarische Bedeutung der A. für die klassische Lokalisationslehre Triebfeder für dieses spekulative Vorgehen war.</p>\n<p>Nach den heutigen sinnesphysiologischen Vorstellungen treten nur gestaltete Wahrnehmungen im Bewußtsein auf, während die sogenannten elementaren Sinnesempfindungen sekundäre noëtische Abstraktionen aus den primären Wahrnehmungen sind <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Damit entfällt auch die Differenzierung der Wahrnehmungsstörungen in primäre Sinnesdefekte und sekundäre gnostische Störungen <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die Frage, ob wenigstens bei bestimmten Hirnherden klinische Krankheitsbilder auftreten können, die einzelnen A.-Formen entsprechen, ließ sich bei kritischer Prüfung noch nicht eindeutig klären.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">Vgl. Anm. [1]. – O. PÖTZL: Die Aphasielehre 1 (1928). – K. KLEIST: Gehirnpathologie (1934). – J. LANGE, in: BUMKE/FOERSTER: Hb. Neurol. 6 (1936) 807. – E. BAY vgl. Anm. [7]; J. Mt Sinai Hosp. 32 (1965) 637. – H. L. TEUBER, W. S. BATTERSBY und M. B. BENDER: Visual field defects after penetrating missile wounds of the brain (Cambridge, Mass. 1960).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">C. von MONAKOW: Die Lokalisation im Großhirn (1914) 439.</li>\n<li id=\"fn0-2\" value=\"2\">S. FREUD: Zur Auffassung der Aphasien (1891).</li>\n<li id=\"fn0-3\" value=\"3\">H. MUNK: Über die Funktionen der Großhirnrinde (1881).</li>\n<li id=\"fn0-4\" value=\"4\">K. BONHOEFFER, Mschr. Psychiat. Neurol. 37 (1915) 17.</li>\n<li id=\"fn0-5\" value=\"5\">C. WERNICKE, Arb. psychiat. Klin. Breslau (1895) H. 2, 33.</li>\n<li id=\"fn0-6\" value=\"6\">J. v. KRIES: Über die materiellen Grundlagen der Bewußtseinserscheinungen (1901).</li>\n<li id=\"fn0-7\" value=\"7\">E. BAY: A. und Funktionswandel (1950) 175ff.</li>\n</ol>",
+ "prev":{"id":61,"lemma":"Aggression","band":"1","col":103},
+ "next":{"id":63,"lemma":"Agnostizismus","band":"1","col":110},
+ "backlinks":[{"id":3539,"lemma":"Wahrnehmung","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Seelenblindheit","qualifier":"","band":"1","col":"109"},
+  {"term":"Seelentaubheit","qualifier":"","band":"1","col":"109"},
+  {"term":"Störung der Sinnesempfindungen","qualifier":"","band":null,"col":null},
+  {"term":"Tastlähmung","qualifier":"","band":null,"col":null},
+  {"term":"Wahrnehmungsstörung","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3933,"name":"Monakow","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":603,"name":"D. Bonhoeffer","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1512,"name":"C. Wernicke","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1905,"name":"Kries","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7124,"name":"H. Munk","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1513,"name":"J. Lange","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1628,"name":"H. Bender","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1906,"name":"K. Kleist","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":2183,"name":"O. Bumke","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4805,"name":"Foerster","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10433,"name":"H. L. Teuber","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10432,"name":"O. Pötzl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":18975,"name":"W. S. Battersby","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":115,"lemma":"Amnesie"},{"id":201,"lemma":"Aphasie"},{"id":220,"lemma":"Apraxie"}],
+ "groups":[{"id":34,"name":"Psychiatrie","label":"Agnosie"}],
+ "reg_authors":[{"name":"Bay Eberhard","n":4}]
+}
+);

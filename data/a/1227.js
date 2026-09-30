@@ -1,0 +1,47 @@
+HWPH.put("a/1227",
+{
+ "id":1227,
+ "lemma":"Harmonie, prästabilierte",
+ "band":"3",
+ "kind":"article",
+ "col_from":1001,
+ "col_to":1003,
+ "pdf_from":10492,
+ "pdf_to":10496,
+ "authors":["Y. Belaval"],
+ "n_notes":17,
+ "n_chars":5349,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Harmonie, prästabilierte. <span class=\"col\" data-col=\"1002\"></span> Im ‹Système Nouveau pour expliquer la nature des substances et leur communication entre elles, aussi bien que l'union de l'âme avec le corps› (1695) beruft LEIBNIZ sich auf seinen ‹Discours de Métaphysique› (1686, § 33) als den ersten Entwurf seiner Lehre von der p. H. <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Den Ausdruck ‹p. H.› hingegen gebraucht er erst seit 1695 regelmäßig. Später schreibt er an Clarke: «Le mot Harmonie préétablie est un terme de l'Art, je l'avoue; mais non pas un terme qui n'explique rien, puisqu'il est expliqué fort intelligiblement ...» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. – Jede Monade ist perzeptiv; als einfache Substanz kann sie nur durch eine ideelle Handlung mit einer anderen Monade in Beziehung treten; sie enthält in ihrem vollständigen Begriff die Folge alles dessen, was ihr zustößt. Das sind die Grundlagen der p. H. Man kann diese Harmonie ontologisch und phänomenal verstehen.</p>\n<p>Auf der <i>ontologischen</i> Ebene läßt die p. H. sich zunächst in ihrem allgemeinsten Sinn mit der Ausdrucksfunktion der Monaden identifizieren oder, um den Titel des ‹Système Nouveau› aufzunehmen, mit der <i>Kommunikation der Substanzen untereinander</i>: Jede Monade drückt von ihrem Standpunkt aus repräsentativ die Gesamtheit aller anderen Monaden aus, und zwar nicht nur in ihrem gegenwärtigen Zustand, sondern auch in der vollständigen Folge aller vergangenen und zukünftigen. Während der Begriff der <i>universellen Harmonie</i> die Schönheit des Ganzen betrifft und das, was aus dem Universum ein «uni-versum» macht, bezieht sich der Begriff der p. H. auf die Regelung des Verhältnisses von Monade zu Monade, auf die Konkomitanz aller Folgen von Prädikaten, die jeweils ihre vollständigen Begriffe ausmachen <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Diese Harmonie ist durch Gott vorherbestimmt, d.h. sie drückt daseinshaft die Harmonie aus, die zwischen den ewigen Wesenheiten im göttlichen Verstände besteht, um die beste der möglichen Welten zu bestimmen, derart, daß alles für jede Monade so geschieht, «comme s'il n'existait que Dieu et elle» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. – In weniger allgemeiner Bedeutung, aber immer noch auf der Ebene der Ontologie bezieht sich die p. H. auf die Harmonie zwischen dem Reich der <i>Natur</i> und der <i>Gnade</i> <sup class=\"fn\" data-fn=\"0-5\">5</sup> – zwischen dem der Wirk- und dem der Finalursachen – sogar jenseits des irdischen Lebens, denn da alles, was Gott bewirkt, harmonisch ist, muß ein Prinzip der Angemessenheit eine Verbindung zwischen Strafen und Belohnungen herstellen, «en conséquence de la suite naturelle des choses, qui contient encore une autre espèce d'harmonie préétablie, que celle qui paraît dans le commerce de l'âme et du corps» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. – Schließlich gibt es eine noch engere Bedeutung, der gemäß die p. H. ontologisch den <i>Organismus</i> in seiner Präformation <sup class=\"fn\" data-fn=\"0-7\">7</sup> wie in seiner Struktur <span class=\"col\" data-col=\"1003\"></span> <sup class=\"fn\" data-fn=\"0-8\">8</sup> erklärt. Demnach ist ein Organismus nichts anderes als eine Ansammlung von Monaden, die hierarchisch unter einer dominierenden Monade stehen <sup class=\"fn\" data-fn=\"0-9\">9</sup>: der <i>anima</i> für das Tier, des <i>spiritus</i> für den menschlichen Leib.</p>\n<p>Auf der Ebene der <i>Phänomene</i> bewirkt die p. H. nach Leibniz eine Korrelation zwischen den Perzeptionen oder den Erscheinungen in der als geistiger Automat <sup class=\"fn\" data-fn=\"0-10\">10</sup> verstandenen Seele einerseits und den Bewegungen des Körpers andererseits. Leibniz betont, daß es sich dabei tatsächlich um Phänomene handelt: «... j'aurais eu grand tort d'objecter aux Cartésiens que l'accord que Dieu entretient immédiatement, selon eux, entre l'âme et le corps ne fait pas une véritable union, puisqu'assurément mon Harmonie préétablie ne saurait en faire davantage ... et je n'ai tâché de rendre raison que des phénomènes, c'est-à-dire du rapport dont on s'aperçoit entre l'âme et le corps» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Die Reihe der Repräsentationen der Seele und die der Bewegungen des Körpers entsprechen sich genau, ohne daß, wie bei <i>Descartes</i>, die wirkliche Handlung oder, wie bei <i>Malebranche</i>, die okkasionellen Ursachen dazwischen treten <sup class=\"fn\" data-fn=\"0-12\">12</sup>; sie entsprechen sich vielmehr wie zwei voneinander unabhängige Uhren <sup class=\"fn\" data-fn=\"0-13\">13</sup>, deren höchster Uhrmacher Gott ist <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Sie entsprechen sich nicht nur in ihrer Abfolge, sondern auch in ihrer Intensität, der Deutlichkeit der Perzeptionen, die von der Kraft der Bewegung abhängt. Überhaupt bestätigt die <i>Mechanik</i>, die vermittelnde Wissenschaft zwischen der Physik der Bewegungen im Ausgedehnten und der Metaphysik der Kraft, die Lehre von der p. H. <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Sie beweist, daß die Bewegung eine vektorielle Dimension ist und daß die «lebendige Kraft» erhalten bleibt. Wenn Descartes – meint Leibniz – dieses Gesetz der Natur erkannt hätte, «il serait tombé dans mon système de l'Harmonie préétablie» <sup class=\"fn\" data-fn=\"0-16\">16</sup>.</p>\n<p>Besonders unter diesem letzten Aspekt – Vereinigung von Seele und Körper – ist die p. H. bereits zu Leibniz' Lebzeiten heftig diskutiert worden – mit den <i>Cartesianern</i>, mit SIMON FOUCHER, mit PIERRE BAYLE <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Obgleich seit CHR. WOLFF abgelehnt, ist sie später in der Theorie des <i>psychophysischen Parallelismus</i> wiederzufinden, um deren Widerlegung sich noch HENRI BERGSON bemüht hat.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1003\"></span> Die philos. Schriften von G. W. LEIBNIZ, hg. C. I. GERHARDT 1–7 (1875–1885) [= PSG] 4, 471.</li>\n<li id=\"fn0-2\" value=\"2\">5. Schreiben an Clarke § 90. PSG 2, 136.</li>\n<li id=\"fn0-3\" value=\"3\">Théodicée I, § 58; Textes inédits, hg. G. GRUA (1948) 553. 554.</li>\n<li id=\"fn0-4\" value=\"4\">PSG 4, 484–485.</li>\n<li id=\"fn0-5\" value=\"5\">Theod. I, §§ 18. 62; Monadologie § 88.</li>\n<li id=\"fn0-6\" value=\"6\">Théod. § 74.</li>\n<li id=\"fn0-7\" value=\"7\">Théod. I, § 62; II, § 188; vgl. N. MALEBRANCHE, Traité de la nature et de la grâce I, XXIII.</li>\n<li id=\"fn0-8\" value=\"8\">Théod., Préface PSG 6, 41.</li>\n<li id=\"fn0-9\" value=\"9\">2, 451.</li>\n<li id=\"fn0-10\" value=\"10\">4, 485.</li>\n<li id=\"fn0-11\" value=\"11\">6, 595.</li>\n<li id=\"fn0-12\" value=\"12\">4, 476.</li>\n<li id=\"fn0-13\" value=\"13\">4, 498ff.</li>\n<li id=\"fn0-14\" value=\"14\">Théod. I, § 188.</li>\n<li id=\"fn0-15\" value=\"15\">PSG 3, 60.</li>\n<li id=\"fn0-16\" value=\"16\">6, 540; Monad. § 80.</li>\n<li id=\"fn0-17\" value=\"17\">PSG 4, 51ff.</li>\n</ol>",
+ "prev":{"id":1226,"lemma":"Harmonie","band":"3","col":1001},
+ "next":{"id":1228,"lemma":"Häßliche (das)","band":"3","col":1003},
+ "backlinks":[{"id":3550,"lemma":"Wechselwirkung","n":1},{"id":3676,"lemma":"Zeit","n":1}],
+ "outlinks":[],
+ "register":[{"term":"prästabilierte Harmonie","qualifier":"(Leibniz)","band":null,"col":null}],
+ "persons":[
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":164,"name":"N. Malebranche","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":21314,"name":"Simon Foucher","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21315,"name":"Pierre Bayle","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21316,"name":"Henri Bergson","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":844,"name":"G. Grua","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2010,"lemma":"Monade, Monas","tf":10},
+  {"id":1226,"lemma":"Harmonie","tf":9},
+  {"id":2329,"lemma":"Perzeption","tf":2},
+  {"id":408,"lemma":"Bewegung","tf":5},
+  {"id":1769,"lemma":"Leib, Körper","tf":4},
+  {"id":2243,"lemma":"Organismus","tf":2},
+  {"id":1680,"lemma":"Kraft","tf":3},
+  {"id":2794,"lemma":"Seele","tf":3},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":2},
+  {"id":2340,"lemma":"Phänomen","tf":2}
+ ],
+ "see_also":[{"id":1770,"lemma":"Leib-Seele-Verhältnis"},{"id":2272,"lemma":"Parallelismus, psychophysischer"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Harmonie, prästabilierte (Leibniz)"}],
+ "reg_authors":[{"name":"Belaval Yvon","n":4}]
+}
+);

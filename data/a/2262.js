@@ -1,0 +1,46 @@
+HWPH.put("a/2262",
+{
+ "id":2262,
+ "lemma":"Panlogismus",
+ "band":"7",
+ "kind":"article",
+ "col_from":49,
+ "col_to":50,
+ "pdf_from":24855,
+ "pdf_to":24859,
+ "authors":["H.-M. Sass"],
+ "n_notes":13,
+ "n_chars":4966,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Panlogismus (engl. panlogism, pallogism; frz. panlogisme; ital. panlogismo). Der Begriff ‹P.› wurde 1853 von J. E. ERDMANN zur Charakteristik und philosophiehistorischen Einordnung der Hegelschen Philosophie geprägt: «Der passendste Name wird für seine [Hegels] Lehre P. heißen. Sie statuiert nichts Wirkliches als nur die Vernunft; dem Unvernünftigen vindiciert sie nur vorübergehende, sich selbst aufhebende Existenz» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In der philosophisch konzipierten Philosophiegeschichtsschreibung des Hegelianers Erdmann nimmt der Hegelsche P. neben dem «Panentheismus Krauses» und der «positiven Philosophie Schellings» die Position eines jahrhundertelange philosophische Auseinandersetzungen und Gegensätze «abschließenden Systems» ein, in dem «Kosmosophie und Theosophie zu Momenten werden an der anthroposophischen Philosophie» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Funktion der Philosophiegeschichtsschreibung ist der Nachweis «der philosophiehistorischen Notwendigkeit» desjenigen Systems, das sich rühmte, «alle Namen führen» zu können, und von daher gewährleisten mußte, «daß keine bisher geltend gemachte Seite zu kurz komme» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. – Die logische Begründung des P. ist die von HEGEL durchgeführte Identität von absoluter Idee und Vernunft, von Wirklichkeit und Vernünftigkeit <sup class=\"fn\" data-fn=\"0-4\">4</sup>: «Weil es überall die absolute Idee ist, die betrachtet wurde, so ist das System absoluter Idealismus; weil absolute Idee und Vernunft dasselbe, haben wir es P. genannt» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. – Neben die philosophiehistorische und die logische tritt die politische und philosophiepolitische Rechtfertigung des Hegelschen P. Die «Extreme der Anarchie und des Despotismus» verlangen ihre Versöhnung und Aufhebung: «Wie sich in Frankreich die Restauration zum Kaiserreich und zur Republik verhielt, so verhält sich in Deutschland zur Wissenschaftslehre und dem Identitätssystem der Hegelsche P.» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Anders als Erdmann begreift M. CRISTALDI den Hegelschen P. in einem durch das romantische Problem von Unmittelbarkeit und Vermittlung abgesteckten Horizont und setzt die Hegelsche Lösung ab von der Hamanns, Schillers, Schleiermachers, Hölderlins und Novalis' <sup class=\"fn\" data-fn=\"0-7\">7</sup>. – H. BIRAULT weist auf die Spannung zwischen P. und Pantragismus bei Hegel hin: «Le délire dionysiaque du Vrai chez Hegel exprime ce que l'on a coutume d'appeler le pantragisme de Hegel et ce que l'on oppose ordinairement à son panlogisme, en oubliant ainsi que Hegel n'a jamais cessé de vouloir penser ensemble le Logos de la Tragédie et la Tragédie du Logos» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Bei E. VON HARTMANN hat sich ‹P.› als selbstverständliche Beschreibungskategorie für das Hegelsche System in der Entgegensetzung zum Schopenhauerschen «Willensmonismus» <span class=\"col\" data-col=\"50\"></span> durchgesetzt; beides seien historisch gleichberechtigte Positionen, doch könne der P. die Individuation nicht begreifen <sup class=\"fn\" data-fn=\"0-9\">9</sup>. – 1907 bezeichnet B. CROCE P. als «krankhaften Auswuchs» Hegelscher Philosophie, der sich auf eine «falsche Anwendung der Dialektik» zurückführen lasse; diese sich als progressive Fortsetzung Hegelscher Gedanken verstehende Kritik blieb in der Folgezeit nicht unwirksam <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Der Begriff ‹P.›, bei Erdmann eine Kategorie philosophiehistorischer, logischer und philosophiepolitischer Legitimität, wird gegen Ende des 19. Jh. befrachtet mit dem metaphysikverdrossenen Vorwurf des Verlustes und Verzichtes auf Wirklichkeit. So spricht M. ROQUES von der «banale accusation de rationalisation du réel et de panlogisme», die mit Hegel den Idealismus überhaupt treffen wolle <sup class=\"fn\" data-fn=\"0-11\">11</sup>, und R. BERTHELOT verzichtet am 31. 1. 1907 in einer Diskussion der Société Française de Philosophie mit E. Boutroux und V. Delbos auf eine Rehabilitation des Begriffs ‹P.›: «La doctrine hégélienne ... est un idealisme dynamique, un finalisme rationnel, une Philosophie où la nécessité logique n'est posée que dans et par son rapport à la liberté de l'esprit. Ce n'est ni un déterminisme absolu, ni un optimisme intégral, ni un panlogisme» <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>L. COUTURAT spricht vom P. auch im Hinblick auf das Leibnizsche System <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"50\"></span> J. E. ERDMANN: Gesch. der neueren Philos. III/2 (1853) 853.</li>\n<li id=\"fn0-2\" value=\"2\">Grundriss der Gesch. der Philos. 2 (1866) 581f.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 592f.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. G. W. F. HEGEL: Rechtsphilos. Sämtl. Werke, Jub.-A. 7, 33; Wiss. der Logik, a.O. 4, 75.</li>\n<li id=\"fn0-5\" value=\"5\">ERDMANN, a.O. [2] 611.</li>\n<li id=\"fn0-6\" value=\"6\">a.O. 594.</li>\n<li id=\"fn0-7\" value=\"7\">M. CRISTALDI: Panlogismo. Teoresi 15 (Messina 1960) 60–65.</li>\n<li id=\"fn0-8\" value=\"8\">H. BIRAULT: L'onto-théologie hégélienne et la dialectique. Tijdschr. Filos. 20 (1958) 688.</li>\n<li id=\"fn0-9\" value=\"9\">E. VON HARTMANN: Erläut. zur Met. des Unbewußten mit bes. Rücksicht auf den P. (1874) 5ff. 52ff.; vgl. auch: Ges. Stud. und Aufsätze gemeinverst. Inhalts (1876) 604–635.</li>\n<li id=\"fn0-10\" value=\"10\">B. CROCE: Lebendiges und Totes in Hegels Philos. [1907], dtsch. K. BÜCHLER (1909) 155; vgl. 164 und das Motto der Schrift.</li>\n<li id=\"fn0-11\" value=\"11\">M. ROQUES: Hegel (Paris 1912) 15.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. A. KOYRÉ: Rapport sur l'état des études hégéliennes en France, in: Verh. des Ersten Hegelkongr. vom 22.–25. April 1930 im Haag, hg. B. WIGERSMA (1931) 87f.; vgl. auch R. BERTHELOT: Le sens de la philos. de Hegel, in: Evolutionisme et Platonisme (Paris 1908) 170.</li>\n<li id=\"fn0-13\" value=\"13\">L. COUTURAT: La logique de Leibniz (Paris 1901) XI.</li>\n</ol>",
+ "prev":{"id":2261,"lemma":"Panentheismus","band":"7","col":48},
+ "next":{"id":2263,"lemma":"Panpsychismus","band":"7","col":50},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Pantragismus","qualifier":"","band":"7","col":"49"}],
+ "persons":[
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":184,"name":"E. von Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":444,"name":"J. E. Erdmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":612,"name":"B. Croce","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2185,"name":"M. Berthelot","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3722,"name":"R. Roques","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12172,"name":"H. Birault","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16121,"name":"M. Cristaldi","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":869,"name":"A. Koyré","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2023,"name":"Erdmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":16122,"name":"K. Büchler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12035,"name":"Ir. B. Wigersma","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":236,"name":"L. Couturat","b":1,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1825,"lemma":"Logos","tf":2},
+  {"id":1343,"lemma":"Idealismus","tf":2},
+  {"id":2066,"lemma":"Name","tf":2},
+  {"id":3628,"lemma":"Wirklichkeit","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Panlogismus"}],
+ "reg_authors":[{"name":"Sass Hans-Martin","n":3}]
+}
+);

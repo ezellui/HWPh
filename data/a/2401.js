@@ -1,0 +1,35 @@
+HWPH.put("a/2401",
+{
+ "id":2401,
+ "lemma":"Polysemantisch",
+ "band":"7",
+ "kind":"article",
+ "col_from":1086,
+ "col_to":1086,
+ "pdf_from":27960,
+ "pdf_to":27960,
+ "authors":["W. Thümmel"],
+ "n_notes":2,
+ "n_chars":1019,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Polysemantisch werden natürlichsprachliche Ausdrücke (meist Wörter) genannt, die systematisch mehrdeutig sind. Von ‹Polysemie› sprach man ursprünglich (erstmals 1897 bei M. BRÉAL <sup class=\"fn\" data-fn=\"0-1\">1</sup>) vor allem in bezug auf solche Wörter, deren geschichtliche Entwicklung zur Mehrdeutigkeit verfolgt werden kann, z.B. frz. <i>bureau:</i> a) étoffe de bure, b) meuble recouvert de cette étoffe, c) meuble à écrire quelconque, d) pièce qui contient ce meuble, e) les occupations qui se font dans cette pièce, f) les personnes qui se livrent à ces occupations, g) groupe de personnes dirigeant une administration ou une société <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">A. NOREEN: Einf. in die wissenschaftl. Betracht. der Sprache, übers. H. W. POLLAK (<sup>4</sup>1923) 211ff. – L. ZAWADOWSKI: La signification des morphèmes polysèmes. Biuletyn Polskiego Towarzystwo Jezykoznawczego 17 (1958) 67–95. – U. WEINREICH, in: J. H. GREENBERG (Hg.): Universals of language (Cambridge, Mass. <sup>2</sup>1966) 178.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">M. BRÉAL: Essay de sémantique, science de significations (1921) 143.</li>\n<li id=\"fn0-2\" value=\"2\">J. VENDRYES: Le langage (1921) 233.</li>\n</ol>",
+ "prev":{"id":2400,"lemma":"Polyhistorie/Polymathie","band":"7","col":1083},
+ "next":{"id":2402,"lemma":"Polysyllogismus","band":"7","col":1086},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"polysemie","qualifier":"","band":"7","col":"1086"}],
+ "persons":[
+  {"id":3550,"name":"M. Bréal","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":15149,"name":"J. Vendryes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3562,"name":"J. H. Greenberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4884,"name":"A. Noreen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7243,"name":"H. W. Pollak","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6743,"name":"U. Weinreich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":26446,"name":"L. Zawadowski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Polysemantisch"}],
+ "reg_authors":[{"name":"Thümmel Wolf","n":6}]
+}
+);

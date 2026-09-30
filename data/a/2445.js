@@ -1,0 +1,78 @@
+HWPH.put("a/2445",
+{
+ "id":2445,
+ "lemma":"Präskriptiv",
+ "band":"7",
+ "kind":"article",
+ "col_from":1265,
+ "col_to":1266,
+ "pdf_from":28506,
+ "pdf_to":28511,
+ "authors":["W. Vossenkuhl"],
+ "n_notes":11,
+ "n_chars":6563,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Präskriptiv. Der Terminus ‹präskriptiv› (von lat. praescribere vorschreiben, befehlen) hat in der heute vorherrschenden ethischen Verwendung eine junge Wortgeschichte, die mit R. M. HARES ‹The language of morals› (1952) beginnt. Hare ist der Begründer des sog. Präskriptivismus. Dieser metaethischen Position geht es um eine methodisch richtige ‘logischeʼ Charakterisierung der Sprache, in der moralische Aussagen gemacht werden. Die Sprache der Moral versteht Hare als Teil der präskriptiven Sprache. Diese Sprache enthält Imperative (z.B. ‘Du sollstʼ) und wertende (evaluative) Wörter und Sätze. Evaluativ sind für Hare Wörter wie ‹gut› und ‹richtig› (sog. primär evaluativ) oder ‹fleißig› und ‹mutig› (sog. sekundär evaluativ), die sowohl deskriptiv wie präskriptiv verwendet werden können. In der Sprache der Moral werden sie präskriptiv gebraucht <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Mit ‹präskriptiv› bezeichnet Hare die vorschreibende oder empfehlende Bedeutung von sprachlichen Ausdrücken (z.B. ‹gut›, ‹richtig›). Dieser Bedeutung liegt eine Wertung zugrunde, die sich nicht allein aus dem Begriff des Gegenstandes oder den Handlungen, die bewertet werden, erkennen läßt (sog. Nonkognitivismus). Die Bedeutung der wertenden Ausdrücke läßt sich, nach Hare, auch nicht von wahren Beschreibungen von Gegenständen oder Handlungen ableiten: da aus indikativischen Prämissen nur indikativische Schlüsse gezogen werden könnten (sog. Antinaturalismus).</p>\n<p>Anders als der Imperativismus reduziert der Präskriptivismus moralische Urteile nicht auf Werturteile, über die nicht rational argumentiert werden kann. Hare hält Imperative als Teil der handlungsleitenden Funktion moralischer Urteile für erforderlich. Imperative und moralische Urteile haben gemeinsam, daß sie aus präskriptiven Ausdrücken gebildet sind. Dennoch sind beide voneinander zu unterscheiden. Im Unterschied zu Imperativen müssen präskriptive moralische Urteile universalisierbar sein: Was hier und jetzt gilt, muß in jeder relevant gleichen Situation ebenfalls gelten <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Nur dann sind sie rational. Hare fordert im übrigen, daß zwischen präskriptiven Urteilen logische Relationen, d.h. deduktive und konsistente Zusammenhänge, herstellbar sind. Aufgrundsolcher Relationen sind präskriptive Urteile Elemente einer rationalen Ethik <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die Universalisierbarkeit ist ein logisches, kein moralisches Kriterium und gilt daher für präskriptive und deskriptive Urteile. Im Übergang von der deskriptiven zur präskriptiven Verwendung von ‹gut› wird nach Hare über dessen wörtliche Bedeutung hinaus eine moralische Instruktion gegeben. Der Hörer lernt dabei etwas Synthetisches, nämlich ein moralisches Prinzip. Die deskriptive Bedeutungsregel, die festlegt, unter welchen Bedingungen ein <span class=\"col\" data-col=\"1266\"></span> Ausdruck auf einen Sachverhalt zutrifft, wandelt sich zu einem Moralprinzip, das eine Handlung zur Nachahmung empfiehlt <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Hare versteht die Präskriptivität moralischer Urteile eng verknüpft mit der menschlichen Freiheit, unabhängig von naturalistischen Determinanten moralische Überzeugungen bilden zu können. Da Überzeugungen nicht immer auf vernünftige Weise gebildet werden, ist zwischen dieser Freiheit und der Rationalität der Überzeugungen ein Widerspruch möglich. Hare sieht in der Überwindung dieses Widerspruchs die Aufgabe einer rationalen ethischen Argumentation <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Der Philosoph, der die Präskriptivität moralischer Urteile als erster erkannt hat, ist – nach Sokrates – Platon mit seiner Gleichsetzung von ‘etwas als gut ansehenʼ mit dem Wunsch, es zu haben und zu wählen. Aristoteles ist Platon gefolgt mit seiner These, daß das Gute dasjenige sei, das von allen begehrt werde <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Im 18. Jh. haben vor allem Hume und Kant die enge Verbindung von Werturteil und Handlung betont.</p>\n<p>Kritik an Hares Unterscheidung zwischen der deskriptiven und präskriptiven Bedeutung von Worten wie ‹gut› übt u.a. J. RAWLS <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Er sieht keine Notwendigkeit, ‹gut› eine besondere Art von Bedeutung zuzuschreiben, die nicht schon durch den konstanten deskriptiven Sinn des Wortes erklärt wird. Die besondere Verwendungsweise von ‹gut› beim Ratgeben oder bei Empfehlungen wird durch den konstanten Sinn des Wortes zusammen mit einer allgemeinen Bedeutungstheorie erklärt. Eine besondere präskriptive oder emotive Bedeutung ist deshalb nicht erforderlich.</p>\n<p>Vor dieser jungen ethischen Wortgeschichte von ‹präskriptiv› hat der Ausdruck ‹Präskription› eine alte rechtswissenschaftliche Tradition. Er bedeutete einmal ‘rechtliche Vorschriftʼ, dann aber auch ‘Verjährungʼ oder ‘Ersitzungʼ. Diese Bedeutung stammt aus der römischen Rechtslehre <sup class=\"fn\" data-fn=\"0-8\">8</sup>; sie besagt, daß eine Sache, die über einen bestimmten Zeitraum von einer Person besessen wird, in deren Eigentum übergeht, auch wenn sich nachträglich ein anderer ursprünglicher Eigentümer feststellen läßt. In dieser Bedeutung wird ‹Präskription› auch in der neuzeitlichen Rechts- und Staatslehre verwendet <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>R. GOCLENIUS <sup class=\"fn\" data-fn=\"0-10\">10</sup> weist daraufhin, daß den Philosophen «praescriptio» soviel bedeute wie «definitio». Problemgeschichtlich läßt sich dies bei BACON, HOBBES und PASCAL ebenso bestätigen wie in neuerer Zeit bei RUSSELL, CARNAP und GOODMAN <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Wortgeschichtlich ist dieser Nachweis nicht zu führen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1266\"></span> R. M. HARE: The language of morals (Oxford 1952) 1–16 (hier differenziert Hare noch nicht deutlich zwischen Imperativen und präskriptiven Urteilen); Freedom and reason (Oxford 1963) 4f.</li>\n<li id=\"fn0-2\" value=\"2\">Freedom ..., a.O. 10–13. 30.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 4f.</li>\n<li id=\"fn0-4\" value=\"4\">23.</li>\n<li id=\"fn0-5\" value=\"5\">2f.</li>\n<li id=\"fn0-6\" value=\"6\">Plato (Oxford/New York 1982) 72f.</li>\n<li id=\"fn0-7\" value=\"7\">J. RAWLS: A theory of justice (Oxford 1972) 405f.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. J. H. ZEDLER: Großes vollst. Univ.-Lex. 29 (1741) 79; W. T. KRUG: Allg. Handwb. der philos. Wiss.en (1832ff, ND 1969) 3, 319f.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. F. SUÁREZ: De legibus. Krit. Ausg., hg. L. PERENA u.a. (Madrid 1973) VIII, 99; D. HUME: A treatise of human nature. The philos. works, hg. T. H. GREEN/T. H. GROSE 2 (London 1886, ND 1964) 278; A. SMITH: Lectures on jurisprudence, hg. R. L. MEEK u.a. (Oxford 1978) 133. 135–138. 143f; I. KANT: Metaph. der Sitten I: Rechtslehre § 32. Akad.-A. 6, 292.</li>\n<li id=\"fn0-10\" value=\"10\">R. GOCLENIUS: Lexicon philos. (1613, ND 1980) 853.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. F. BACON: Novum organum § 59. The works, hg. J. SPEDDING/R. L. ELLIS/D. D. HEATH 1 (New York 1869) 261f.; TH. HOBBES: Leviathan 1, 4. The engl. works, hg. W. MOLESWORTH (London 1839ff.) 3, 18ff; B. PASCAL: De l'esprit géométr. Oeuvres, hg. L. BRUNSCHVICG/P. BOUTROUX/F. GAZIER (Paris 1904ff.) 9, 240–270; B. RUSSELL/A. N. WHITEHEAD: Principia mathematica (Cambridge <sup>2</sup>1925) 1, 11; R. CARNAP: The log. syntax of language (London 1937) 23; Introd. to semantics (Cambridge, Mass. 1942) Abschn. 6. 24; N. GOODMAN: The structure of appearance (Cambridge, Mass. 1951) 3.</li>\n</ol>",
+ "prev":{"id":2444,"lemma":"Präsenz","band":"7","col":1259},
+ "next":{"id":2446,"lemma":"Präsupposition","band":"7","col":1267},
+ "backlinks":[
+  {"id":3366,"lemma":"Utilitarismus","n":1},
+  {"id":3499,"lemma":"Vorschrift","n":1},
+  {"id":3588,"lemma":"Wert","n":1},
+  {"id":3623,"lemma":"Willensschwäche","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Definition","qualifier":"","band":"7","col":"1266"},
+  {"term":"deskriptiv","qualifier":"","band":null,"col":null},
+  {"term":"evaluativ/deskriptiv","qualifier":"","band":null,"col":null},
+  {"term":"gut","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":30,"name":"Th. Hobbes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":51,"name":"F. Bacon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":36,"name":"R. Carnap","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":46,"name":"B. Russell","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":80,"name":"B. Pascal","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":142,"name":"R. Goclenius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":234,"name":"R. M. Hare","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":294,"name":"N. Goodman","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":570,"name":"J. Rawls","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":43,"name":"W. T. Krug","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":33,"name":"D. Hume","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":84,"name":"J. H. Zedler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":134,"name":"A. Smith","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":194,"name":"A. N. Whitehead","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1493,"name":"D. D. Heath","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3057,"name":"P. Boutroux","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7751,"name":"R. L. Meek","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14811,"name":"A. Gazier","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":162,"name":"W. Molesworth","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":296,"name":"T. H. Green","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":357,"name":"J. Spedding","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":327,"name":"L. Brunschvicg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1152,"name":"T. H. Grose","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1151,"name":"R. L. Ellis","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":26611,"name":"L. Perena","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1395,"lemma":"Imperative, kategorischer Imperativ","tf":4},
+  {"id":3355,"lemma":"Urteil","tf":9},
+  {"id":3594,"lemma":"Werturteil; Werturteilsstreit","tf":2},
+  {"id":2668,"lemma":"Relation","tf":2},
+  {"id":2022,"lemma":"Moral, moralisch, Moralphilosophie","tf":2},
+  {"id":3607,"lemma":"Widerspruch","tf":2},
+  {"id":946,"lemma":"Freiheit","tf":2}
+ ],
+ "see_also":[
+  {"id":2082,"lemma":"Naturalismus, ethischer"},
+  {"id":2164,"lemma":"Normativ/deskriptiv"},
+  {"id":2920,"lemma":"Sollen"},
+  {"id":3357,"lemma":"Urteil, moralisches"},
+  {"id":3499,"lemma":"Vorschrift"}
+ ],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Präskriptiv"}],
+ "reg_authors":[{"name":"Vossenkuhl Wilhelm","n":2}]
+}
+);

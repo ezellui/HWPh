@@ -1,0 +1,27 @@
+HWPH.put("a/1606",
+{
+ "id":1606,
+ "lemma":"Konfiguration",
+ "band":"4",
+ "kind":"article",
+ "col_from":946,
+ "col_to":946,
+ "pdf_from":14327,
+ "pdf_to":14327,
+ "authors":["E. Stenius"],
+ "n_notes":1,
+ "n_chars":536,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Konfiguration. WITTGENSTEIN benutzt im ‹Tractatus logico-philosophicus› den Terminus ‹K.› zur Bezeichnung dessen, was verschiedene mögliche Welten voneinander unterscheidet im Gegensatz zu den Elementen nebst ihrer logischen Form, die allen möglichen Welten gemeinsam sind <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die K. wird durch die (wahren) Sätze bestimmt und ist somit nicht schon dadurch gegeben, daß wir die Bedeutungen der Elemente der Sätze, also der «Namen» im Sinne Wittgensteins kennen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">L. WITTGENSTEIN: Tractatus logico-philosophicus (London 1922) 2.0231. 2.0271.</li>\n</ol>",
+ "prev":{"id":1605,"lemma":"Kondition(al)ismus","band":"4","col":946},
+ "next":{"id":1607,"lemma":"Konfirmierbar","band":"4","col":946},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":32,"name":"L. Wittgenstein","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":2749,"lemma":"Sätze, subjektlose","tf":2},{"id":707,"lemma":"Element","tf":2}],
+ "see_also":[{"id":3558,"lemma":"Welt, mögliche"}],
+ "groups":[{"id":22,"name":"Logik","label":"Konfiguration (Wittgenstein)"}],
+ "reg_authors":[{"name":"Stenius Erik","n":10}]
+}
+);

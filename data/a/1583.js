@@ -1,0 +1,45 @@
+HWPH.put("a/1583",
+{
+ "id":1583,
+ "lemma":"Kokugaku",
+ "band":"4",
+ "kind":"article",
+ "col_from":881,
+ "col_to":881,
+ "pdf_from":14124,
+ "pdf_to":14125,
+ "authors":["B. Lewin"],
+ "n_notes":0,
+ "n_chars":2404,
+ "toc":[["h3","Literaturhinweise",0]],
+ "html":"<p>Kokugaku (Nationale Wissenschaft; auch <i>wagaku</i>, Japanische Wissenschaft, <i>kôkokugaku</i>, Wissenschaft des Kaiserlandes, <i>kodôgaku</i>, Wissenschaft des Alten Weges oder <i>kogaku</i>, Wissenschaft des Alten genannt) ist ein Terminus, der von der Hirata-Schule geprägt wurde. Gemeint ist die Erforschung des japanischen Altertums auf philologischer Grundlage, wie sie von einheimischen Gelehrten während der Tokugawa-Zeit (1600–1868) als Gegengewicht zum staatlich geförderten Konfuzianismus der Sinologischen Wissenschaft (kangaku, <a class=\"xref\" href=\"#/a/1525\">→</a> s.d.) betrieben wurde. Ausgangspunkt war die sprachliche und sachliche Erschließung der großen Literaturdenkmäler der Nara- und Heian-Zeit, insbesondere des ‹Kojiki› (712), ‹Nihongi› (720), ‹Manyôshû› (ca. 760) und ‹Genji-monogatari› (ca. 1010). Das Wirken von KEICHÛ, KADA AZUMAMARO, KAMO MABUCHI und MOTOORI NORINAGA markiert die Entwicklung zur wissenschaftlichen Japanologie.</p>\n<p>Wesentlich für die K. war die Beschäftigung mit der japanischen Mythologie, dem sogenannten Götterzeitalter (shindai), dessen Überlieferungen als Tatsachen (jijitsu) interpretiert wurden. Politischer Effekt war die Wiederbelebung des alten Shintô (fukko-shintô), die Propagierung eines auf dem Shintô als «Weg der Wahrheit» (makoto no michi) beruhenden Staatsdenkens und schließlich die Auslösung von Restaurationsbestrebungen des Kaisertums, welches im Schatten der konfuzianisch orientierten Schogunatsregierung stand. Auf die philologisch begründete K. folgte so eine staatsphilosophisch wirkende Richtung, welche durch Männer wie HIRATA ATSUTANE oder ÔKUNI TAKAMASA repräsentiert wird. Sie brachte wesentliche Impulse zum Sturz des Schogunats und zur Meiji-Restauration.</p>\n<p>Die K. wurde ab 1870 durch eine Aufklärungsbewegung zur Verbreitung westlicher Zivilisation verdrängt (bummei-kaika), gilt aber als Basis der einheimischen Japanologie und erlangte in der ultranationalistischen Periode der 1930er Jahre wiederum politische Bedeutung.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">TASABURÔ ITÔ: K. no shiteki-kôsatsu (Hist. Betrachtung der K.) (Tokio 1932). – SHÔZÔ KÔNO: K. no kenkyû (Studien über die K.) (Tokio 1932). – H. HAMMITZSCH: Kangaku und K., in: Monumenta Nipponica II/1 (Tokio 1939). – H. DUMOULIN, H. STOLTE und W. SCHIFFER: Die Entwickl. der K., in: Monumenta Nipponica II/1 (Tokio 1939). – YOSHIO YAMADA: K. no hongi (Das Wesen der K.) (Tokio 1942). – L. BRÜLL: Ôkuni Takamasa und seine Weltanschauung. Stud. zur Japanol. 7 (1966).</p>",
+ "prev":{"id":1582,"lemma":"Koinzidenz","band":"4","col":879},
+ "next":{"id":1584,"lemma":"Kollektivbegriff","band":"4","col":882},
+ "backlinks":[{"id":2880,"lemma":"Shinto; Schintoismus","n":1}],
+ "outlinks":[{"id":1525,"lemma":"Kangaku","n":1}],
+ "register":[
+  {"term":"wagaku","qualifier":"","band":null,"col":null},
+  {"term":"Wissenschaft, national-japanische","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":13667,"name":"Motoori Norinaga","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":22331,"name":"von Keichû","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":22332,"name":"Kada Azumamaro","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":22333,"name":"Kamo Mabuchi","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":22334,"name":"Hirata Atsutane","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":22335,"name":"Ôkuni Takamasa","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":5489,"name":"S. Schiffer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4915,"name":"H. Hammitzsch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3815,"name":"H. Dumoulin","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":11421,"name":"L. Brüll","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14911,"name":"H. Stolte","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":22336,"name":"Tasaburô Itô","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":22337,"name":"Shôzô Kôno","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":22338,"name":"Yoshio Yamada","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":3635,"lemma":"Wissenschaft","tf":6}],
+ "see_also":[{"id":1525,"lemma":"Kangaku"},{"id":2880,"lemma":"Shinto; Schintoismus"}],
+ "groups":[{"id":17,"name":"Japanische Philosophie","label":"Kokugaku"}],
+ "reg_authors":[{"name":"Lewin Bruno","n":10}]
+}
+);

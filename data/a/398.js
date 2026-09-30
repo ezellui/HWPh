@@ -1,0 +1,27 @@
+HWPH.put("a/398",
+{
+ "id":398,
+ "lemma":"Beständlichkeit",
+ "band":"1",
+ "kind":"article",
+ "col_from":850,
+ "col_to":850,
+ "pdf_from":2967,
+ "pdf_to":2967,
+ "authors":["H. Thieme"],
+ "n_notes":2,
+ "n_chars":545,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Beständlichkeit ist nach W. T. KRUG «der deutsche Ausdruck für Substantialität, weil eine Substanz als ein für sich bestehendes Ding gedacht wird» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Der Grundsatz der B. (Prinzip der Substantialität) besagt, «daß alles Entstehn und Vergehn in der Natur ein bloßer Wechsel von Bestimmungen sei, dem etwas Beharrliches zum Grunde liegen müsse» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. – Diese von Krug vorgeschlagene Übersetzung von ‹Substantialität› ist jedoch nicht in den philosophischen Sprachgebrauch eingegangen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">W. T. KRUG: Allg. Handwb. der philos. Wiss. (1827–29) 1, 286.</li>\n<li id=\"fn0-2\" value=\"2\">ebda.</li>\n</ol>",
+ "prev":{"id":397,"lemma":"Besonnenheit","band":"1","col":848},
+ "next":{"id":399,"lemma":"Bestätigung","band":"1","col":850},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Substantialität","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Beständlichkeit"}],
+ "reg_authors":[{"name":"Thiele Rüdiger","n":3}]
+}
+);

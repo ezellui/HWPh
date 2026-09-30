@@ -1,0 +1,67 @@
+HWPH.put("a/2651",
+{
+ "id":2651,
+ "lemma":"Regula Lesbia",
+ "band":"8",
+ "kind":"article",
+ "col_from":489,
+ "col_to":490,
+ "pdf_from":31711,
+ "pdf_to":31714,
+ "authors":["E. Büchsel"],
+ "n_notes":12,
+ "n_chars":4810,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Regula Lesbia. Der metaphorische Gebrauch dieses aus dem griechischen Bauhandwerk stammenden Fachausdrucks begegnet zunächst bei ARISTOTELES. Er vergleicht bei seinen Ausführungen über die Billigkeit (ἐπιείκεια) die sinngemäße Konkretisierung oder Berichtigung eines allgemeinen Gesetzes im Blick auf einen bestimmten Fall mit der «lesbischen Bauweise» (Λεσβία οἰκοδομία). Da bei der polygonalen Bauweise aufgrundder unregelmäßigen Gestalt der Steine keine starre Richtschnur verwendet werden konnte, wurden mit Hilfe eines als Richtmaß (κανών) benutzten flexiblen Bleistücks die Steine den bereits gemauerten Steinen angepaßt <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>In der Auslegung und Bewertung der aristotelischen Lehre von der Epieikia differieren humanistische Rechtsdenker und nehmen dabei Bezug auf den «bleiernen Richtscheit»: J. L. VIVES positiv <sup class=\"fn\" data-fn=\"0-2\">2</sup>, desgleichen G. BUDE, nach dem z.B. oberste Gerichte, die an die Vorschriften des Rechts nicht allenthalben gebunden sind, sich des «aequum et bonum» so bedienen müssen, «wie die Maurer, Zimmerleute und Bauleute das lesbische Richtmaß verwenden» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. C. CATIUNCULA dagegen lehnt die «Nachahmung der lesbischen Bauleute» bei der Abwägung des «aequum et bonum» als gefährlich ab und beharrt auf der Bindung an das Gesetz: Der Richter soll bei der Ausfüllung <span class=\"col\" data-col=\"490\"></span> von Lücken des Gesetzes in die Prärogative des Gesetzgebers nicht eingreifen <sup class=\"fn\" data-fn=\"0-4\">4</sup>. – Der Jurist C. DUPRÉ hat die Lehre von der Billigkeit und ausdrücklich die R.L. sogar als «basis atque fundamentum omnium legum» («Grundlage und Fundament aller Gesetze») aufgefaßt <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>ERASMUS VON ROTTERDAM hat die R.L. in seine Sprichwörtersammlung aufgenommen: «Man spricht von einer R.L., so oft ... nicht das Faktische sich der Regel, sondern die Regel sich dem Faktischen anpaßt, wenn das Gesetz sich den Sitten anfügt, nicht die Sitten durch das Gesetz verbessert werden» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. An anderer Stelle geißelt Erasmus eine Anpassung der «göttlichen Philosophie», der «dogmata Christi» an verderbte menschliche Sitten nach dem Vorbild der R.L. <sup class=\"fn\" data-fn=\"0-7\">7</sup>, so auch TH. MORUS <sup class=\"fn\" data-fn=\"0-8\">8</sup>. – M. LUTHER definiert: «Lesbia regula est epiikia.» Er betont, daß das Richtmaß der «gantzen schnür und bley» nicht verletzt werde durch die Abweichung einzelner «rauher stein» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. – In der Folgezeit ist diese Denkfigur sowohl in religionskritischer als auch – apologetischer Absicht eingesetzt worden. Der Atheist M. KNUTZEN bringt die Uneinheitlichkeit der Bibel, deren Gebote einander widersprächen, auf die polemisch gemeinte Formel, die Bibel sei ein «canon ... vere Lesbius» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Dagegen interpretiert J. G. HAMANN die schmiegsame Autorität der Bibel mit der Metapher der R.L. gegen Lessings Angriffe im Fragmentenstreit auf der einen und gegen die Orthodoxen (das «scriptum est» als starres Gesetz) auf der anderen Seite <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Für G. B. VICO sind die «res humanae» so unwägbar und ungewiß, daß man an sie nicht mit dem Maßstab einer strengen Wissenschaft herangehen kann; sie sind vielmehr ein Fall für die «prudentia», deren Regel flexibel ist und sich an ihren Gegenstand anpaßt («non ex ista recta mentis regula, quae rigida est, hominum facta aestimari possunt; sed illa Lesbiorum flexili, quae non ad se corpora inflectit, spectari debent») <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">S. J. APINUS (Praes.)/J. G. ECKSTEIN (Resp.): Diss. de regula Lesbia. Diss. Altdorf (1715). – G. KISCH s. Anm. [2]. – H.-E. JAEGER s. Anm. [5].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"490\"></span> ARISTOTELES: Eth. Nic. V, 14, 1137 b 30; vgl. dazu J. A. STEWART: Notes on the Nic. Ethics of Arist. (New York 1973) 1, 531f.; THOMAS VON AQUIN: In Eth. Nic. expos., hg. R. SPIAZZI (Turin/Rom 1949) Lib. V, lect. XVI, n. 1088.</li>\n<li id=\"fn0-2\" value=\"2\">J. L. VIVES: Aedes legum, zit. nach: G. KISCH: Erasmus und die Jurisprudenz seiner Zeit (1960) 84.</li>\n<li id=\"fn0-3\" value=\"3\">G. BUDÉ: Annot. in lib. pandectarum (1508) 1, zit. nach: KISCH, a.O. 187f. (Übers.). 496f. (lat.).</li>\n<li id=\"fn0-4\" value=\"4\">C. CATIUNCULA: Paraphrasis in librum I. Instit. Iust. (Lyon 1534) 33; vgl. KISCH, a.O. 103f. 155. 161. 296. 303.</li>\n<li id=\"fn0-5\" value=\"5\">C. DUPRÉ: Gnoses generales juris (Lyon 1588); vgl. F. CONNAN: Comm. juris civilis (Basel 1557), beide zit. in: H.-E. JAEGER: La norme d'après la doctrine des humanistes et des auteurs du droit naturel, in: La norma en el derecho canónico. Actas III congr. int. de derecho canónico, Pamplona 10–15 de oct. 1976 (Pamplona 1979) 1, 314. 316; vgl. 310ff.</li>\n<li id=\"fn0-6\" value=\"6\">D. ERASMUS VON ROTTERDAM: Adagia (1500) I, 5, 93. Op. omn. (Leiden 1703–06, ND 1962) 2, 217.</li>\n<li id=\"fn0-7\" value=\"7\">Ratio verae theologiae (1519), a.O. 5, 89.</li>\n<li id=\"fn0-8\" value=\"8\">TH. MORUS: Utopia (1516) I. Compl. works, hg. E. STUTZ/J. H. HEXTER 4 (New Haven/London 1985) 100. 376.</li>\n<li id=\"fn0-9\" value=\"9\">M. LUTHER: Tischreden Nr. 557. Weim. Ausg., Tischreden 1, 255.</li>\n<li id=\"fn0-10\" value=\"10\">M. KNUTZEN: Flugschr. und andere zeitgenössische sozial.krit. Flugschr., hg. W. PFOH (1965) 85.</li>\n<li id=\"fn0-11\" value=\"11\">J. G. HAMANN: Konxompax (1779). Sämtl. Werke, hg. J. NADLER (1949–57) 3, 227.</li>\n<li id=\"fn0-12\" value=\"12\">G. B. VICO: De nostri temporis studiorum ratione (1709) cap. VII, hg. W. F. OTTO: Vom Wesen und Weg der geistigen Bildung (1947) 66.</li>\n</ol>",
+ "prev":{"id":2650,"lemma":"Regressus/progressus in infinitum","band":"8","col":487},
+ "next":{"id":2652,"lemma":"Regulation","band":"8","col":490},
+ "backlinks":[{"id":2640,"lemma":"Regel","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Klugheitsregel","qualifier":"","band":"8","col":"490"},
+  {"term":"Regeln der Klugheit","qualifier":"","band":"8","col":"490"},
+  {"term":"ἐπιείκεια","qualifier":"","band":"8","col":"489"}
+ ],
+ "persons":[
+  {"id":6525,"name":"G. Kisch","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":22,"name":"M. Luther","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":114,"name":"J. G. Hamann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":267,"name":"Erasmus von Rotterdam","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":886,"name":"J. L. Vives","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1293,"name":"G. B. Vico","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1581,"name":"Th. Morus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1866,"name":"M. Knutzen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6694,"name":"W. Dupré","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16959,"name":"C. Catiuncula","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":326,"name":"W. Jaeger","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":5,"name":"Thomas von Aquin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1310,"name":"D. Stewart","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1386,"name":"Otto von Freising","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2880,"name":"G. Budé","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5798,"name":"J. H. Hexter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9556,"name":"G. Bude","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":27409,"name":"F. Connan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4660,"name":"W. Eckstein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":27412,"name":"S. J. Apinus","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":417,"name":"J. Nadler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1031,"name":"R. M. Spiazzi","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":27410,"name":"E. Stutz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":27411,"name":"W. Pfoh","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":438,"lemma":"Billigkeit","tf":2},
+  {"id":2902,"lemma":"Sitte","tf":3},
+  {"id":1105,"lemma":"Gesetz","tf":4},
+  {"id":1110,"lemma":"Gesetze, kategoriale","tf":3},
+  {"id":890,"lemma":"Fall, Abfall","tf":2}
+ ],
+ "see_also":[{"id":438,"lemma":"Billigkeit"}],
+ "groups":[
+  {"id":14,"name":"Hermeneutik","label":"Regula Lesbia"},
+  {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Regula Lesbia"},
+  {"id":44,"name":"Theologie","label":"Regula Lesbia"}
+ ],
+ "reg_authors":[{"name":"Büchsel Elfriede","n":6},{"name":"Red","n":242}]
+}
+);

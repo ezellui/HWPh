@@ -1,0 +1,48 @@
+HWPH.put("t/2388",
+{
+ "b":"Poetic diction. Der Begriff ‹poetic diction› wurde in England durch W. WORDSWORTH populär, der in seinem weithin als Manifest der englischen Romantik angesehenen ‹Preface to Lyrical Ballads› (1800) und dem ‹Appendix to Lyrical Ballads› (1802) eine eigens für Dichtung reservierte Diktion entschieden ablehnt und statt dessen empfiehlt, die wirklich gesprochene Sprache einfacher Menschen zu verwenden. ‹Poetic diction› hat daher eine pejorative Konnotation, einen tadelnden Sinn. \nEine Sondersprache für Literatur war im 18. Jh. in England gelegentlich postuliert worden. Wahrscheinlich beeinflußt durch A. G. BAUMGARTEN, der in seinen ‹Meditationes philosophicae› (1735) die Ansicht vertreten hatte: «Voces ad poematis varia pertineant, debent esse poeticae» («da Worte zu den Teilen eines Gedichts gehören, sollten sie poetisch sein») , verlangte J. BEATTIE, daß der Dichter die natürliche Sprache zu veredeln habe, und zwar durch Tropen und Figuren und durch die Wahl gesuchter Wörter . Auch andere Autoren des 18. Jh. in England – z.B. H. BLAIR und D. HARTLEY – wiesen häufig auf die Schönheiten eines kunstreichen Stils hin. \nIm Vordergrundder Diskussion um die Sprache der Dichtung stand jedoch die Warnung vor allem Bombast und vor jenen Stilformen, die gegen die Natur des jeweils dargestellten Gegenstandes verstießen. Schon ARISTOTELES hatte im 24. Kapitel seiner ‹Poetik› vor stilistischen Übertreibungen gewarnt. Diese Warnung fand in den zahlreichen ‹Poetik› – Kommentaren einen deutlichen Niederschlag und konnte sich auch auf PS.-LONGINUS stützen, der Schwulst, Einfältigkeit und leeres Pathos als die drei hauptsächlichen Stilfehler anführt . SHAFTESBURY hatte zu Beginn des 18. Jh. die Dichter wiederholt gemahnt, unpassende Metaphern, falsche Erhabenheit und Bombast in ihrem Stil zu vermeiden . Seine Mahnung entsprang der Einsicht in die Kunstfeindlichkeit eines unwahrhaftigen Stils, der nur die sinnliche Seite unserer Natur anspreche . Demgegenüber empfahl er: «... the natural and simple Manner which conceals and covers Art, is the most truly artful, and of the genteelest, truest, and best-study'd Taste» . \nDie aristotelische Poetik, Ps.-Longinus und Shaftesbury hatten die Richtung der Stildiskussion im 18. Jh. festgelegt. CH. GILDON , J. WARTON , W. DUFF , J. USHER , W. COOKE und G. CAMPBELL wandten sich gegen eine bilderreiche, zum Selbstzweck werdende poetische Sprache. J. G. COOPER warnte vor dem seiner Meinung nach verderblichen Einfluß der italienischen Dichter, deren Stil er wegen der gewollten Anspielungen und kitschigen «concetti» heftig kritisierte . D. STEWART schließlich machte auf die Gefahr aufmerksam, die im Vermeiden vulgärer Wendungen liege: «In avoiding, however, expressions which are debased by vulgar use, there is a danger of running into the other extreme in quest of fashionable words and phrases» . \nWORDSWORTHS Alternative zur poetic diction, seine scheinbare Hinwendung zur unreflektierten Sprache naturverbundener Menschen wurde von seinen Zeitgenossen wie auch von den meisten seiner Interpreten als Versuch mißverstanden, in dieser Sprache eine ursprüngliche poetische Substanz zu konservieren, die er von der zivilisatorischen Entwicklung bedroht sah. Einem solchen Mißverständnis hatte Wordsworth selbst Vorschub geleistet, als er, an Vorstellungen anknüpfend, die u.a. von R. LOWTH und H. BLAIR vertreten wurden, die These formulierte, daß in frühester Zeit die Dichter aus einer von wirklichen Ereignissen evozierten Leidenschaft heraus geschrieben hatten: Die Dichtung hatte ihre höchste Blüte in einer Phase erreicht, die noch am weitesten vom Einfluß der Zivilisation und der Wissenschaft entfernt war. WORDSWORTHS Ansatz ist jedoch mit der primitivistischen Literaturtheorie nicht in Einklang zu bringen. Als Grundsatz galt für ihn in diesem Zusammenhang, daß poetische Substanz nicht aus stilistischen Eigenheiten destillierbar sei . Poesie konstituiere sich nicht nur in der Sprache, sondern in der Weisheit des Herzens und in der Großartigkeit der Imagination . \nWordsworth griff schließlich einen Gedanken auf, der im ‹Preface to Shakespeare› von S. JOHNSON zum ersten Mal formuliert worden war. Der Dialog Shakespeares, hieß es dort, werde mit solcher Selbstverständlichkeit und Einfachheit geführt, daß er keinen Anspruch darauf zu erheben scheine, als Dichtung anerkannt zu werden, eher als Ergebnis einer sorgfältigen Auswahl (selection) aus alltäglichen Gesprächen und alltäglichen Ereignissen . Sir J. REYNOLDS, Johnson freundschaftlich verbunden, griff im zweiten seiner ‹Discourses on Art› aus dem Jahre 1769 auf den Terminus «selection» zurück, um die nichtkünstlerische von der künstlerischen Nachahmung zu unterscheiden: «I consider general copying as a delusive kind of industry; the student satisfies himself with the appearance of doing something; he falls into the dangerous habit of imitating without selecting» . Nach WORDSWORTH war der Begriff «selection of language» geeignet, das Kunstwerk als ein Gebilde zu beschreiben, das durch die geistige Leistung des Künstlers legitimiert war und nicht durch die unreflektierte Wiederholung der Realität, wie sie sich in der Spontaneität eines Gefühls oder in ‘natürlicherʼ, d.h. unkontrollierter Ausdrucksweise zeigen mochte . Damit wurde für Wordsworth der Begriff «selection of language» zu einer kunsttheoretischen Kategorie, die zweierlei aussagte: Sie bezeichnete, hierin dem aristotelischen Mimesis-Prinzip verwandt, den grundsätzlichen Abstand zwischen dem Kunstwerk und der Ebene der empirischen Realität, und sie enthielt zugleich eine Absage an die Vorstellung vom Künstler als einem Genie .",
+ "n":"A. G. BAUMGARTEN: Meditationes philos. de nonnullis ad poema pertinentibus (1735) § 77. \nJ. BEATTIE: Essays on poetry and music (London 21766) 251. \nVgl. z.B. R. RAPIN: Lives of the poets. Works, hg. A. MURPHY 9 (London 1806) 395. \nPS.-LONGINUS: On the sublime, hg. D. A. RUSSELL (Oxford 1964) 3, 1ff. \nA. Earl of SHAFTESBURY: Characteristicks of men, manners, opinions, times 3 (London 31723) 259. \na.O. 390. \n142. \nCH. GILDON: The compl. art of poetry 1 (London 1718) 289. \nJ. WARTON: An essay upon epick poetry, in: Essays upon several subjects (London 1716) 101. \nW. DUFF: An essay on original genius (London 1767) 147. \nJ. USHER: Clio: or, a Discourse on taste (London 21769) 17. \nW. COOKE: The elements of dramatic criticism (London 1775) 70ff. \nG. CAMPBELL: The philos. of rhetoric 2 (London 1776) 116. \nJ. G. COOPER: Letters conc. taste (London 1755) 71. \nD. STEWART: Coll. works, hg. W. HAMILTON 2 (Edinburgh 21877) 327. \nR. LOWTH: Lectures on the sacred poetry of the Hebrews (London 21787) 308f. \nH. BLAIR: Lectures on rhetoric and belles lettres 1 (London 141825) 71. \nW. WORDSWORTH: Br. an Benjamin Robert Haydon vom 12. März 1840, in: The letters of William and Dorothy Wordsworth; the later years 2, 1831–1840, hg. E. de SELINCOURT (Oxford 1939) 1012. \nWordsworth's Literary criticism, hg. N. C. SMITH (London 1925) 171. \nS. JOHNSON: The Yale ed. of the works 7 (New Haven/London 1968) 63. \nSir J. REYNOLDS: Disc. on art, hg. R. R. WARK (San Marino, Calif. 1959) 29. \na.O. [19] 11. 13f. \n14f.",
+ "l":"M. BARSTOW: Wordsworth's theory of poetic diction. Yale Stud. in English 57 (1917). – A. BREDE: Theories of poetic diction in Wordsworth and others and in contemp. poetry. Papers Michigan Acad. Sci., Arts, Letters 14 (1931). – R. AHRENS/E. WOLFF (Hg.): Engl. und amerikan. Lit.theorie. Studien zu ihrer hist. Entwicklung 1 (1978).",
+ "au":"H. Mainusch",
+ "A":["H. Mainusch"],
+ "cb":[
+  [0,1008],
+  [71,1009],
+  [481,1009],
+  [1131,1009],
+  [2134,1009],
+  [2549,1010],
+  [2862,1010],
+  [4041,1010],
+  [5642,1011]
+ ],
+ "cn":[
+  [0,1008],
+  [0,1010],
+  [89,1010],
+  [149,1010],
+  [232,1010],
+  [303,1010],
+  [400,1010],
+  [411,1010],
+  [417,1010],
+  [476,1010],
+  [568,1010],
+  [625,1010],
+  [686,1010],
+  [752,1010],
+  [811,1010],
+  [864,1010],
+  [931,1010],
+  [1008,1010],
+  [1081,1010],
+  [1268,1010],
+  [1335,1011],
+  [1337,1011],
+  [1406,1011],
+  [1483,1011],
+  [1503,1011]
+ ],
+ "cl":[[0,1011]]
+}
+);

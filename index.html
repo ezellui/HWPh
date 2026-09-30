@@ -1,0 +1,2344 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HWPh</title>
+<script src="i18n.js"></script>
+<link rel="stylesheet" href="katex/katex.min.css">
+<script defer src="katex/katex.min.js"></script>
+<style>
+:root{
+  --paper:#F2F3EF; --paper-2:#E7E9E3; --ink:#1D2320; --ink-2:#56605A; --rule:#CDD2CA;
+  --cloth:#2E5A43; --cloth-ink:#F2F3EF; --brass:#8A6A22; --mark:#E6E09A; --mark-cur:#D4C24E;
+  --link:#245A70; --dead:#8B8F88;
+  --serif:"Palatino Linotype","Book Antiqua",Palatino,"Cambria","Times New Roman",serif;
+  --sans:"Segoe UI",Tahoma,"Helvetica Neue",Arial,sans-serif;
+  --fs:19px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#1B201D; --paper-2:#232A26; --ink:#DADFD6; --ink-2:#9AA59C; --rule:#35403A;
+    --cloth:#2F5E47; --cloth-ink:#E9EEE6; --brass:#C9A95A; --mark:#5C5A26; --mark-cur:#8C8327;
+    --link:#8CC0D6; --dead:#77807A;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#1B201D; --paper-2:#232A26; --ink:#DADFD6; --ink-2:#9AA59C; --rule:#35403A;
+  --cloth:#2F5E47; --cloth-ink:#E9EEE6; --brass:#C9A95A; --mark:#5C5A26; --mark-cur:#8C8327;
+  --link:#8CC0D6; --dead:#77807A;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;display:flex;flex-direction:column}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
+button,select,input{font:inherit;color:inherit}
+
+/* top bar: the cloth spine */
+#bar{display:flex;align-items:center;gap:12px;padding:8px 14px;background:var(--cloth);color:var(--cloth-ink)}
+#bar .brand{font-family:var(--serif);font-size:22px;letter-spacing:.02em;color:var(--cloth-ink);white-space:nowrap}
+#bar .brand small{font-size:13px;opacity:.75;margin-left:6px}
+#qwrap{position:relative;flex:1;min-width:120px;max-width:680px;display:flex}
+#sugg{display:none;position:absolute;left:0;right:0;top:100%;margin-top:3px;z-index:30;background:var(--paper);color:var(--ink);border:1px solid var(--rule);border-top:3px solid var(--cloth);box-shadow:0 8px 24px rgba(0,0,0,.18);max-height:70vh;overflow:auto}
+#sugg .it{display:flex;gap:10px;align-items:baseline;padding:5px 10px;cursor:pointer;border-bottom:1px solid var(--paper-2)}
+#sugg .it.on,#sugg .it:hover{background:var(--paper-2)}
+#sugg .it .k{flex:none;width:74px;font-size:11.5px;color:var(--ink-2)}
+#sugg .it .l{font-family:var(--serif);font-size:16px;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#sugg .it .s{font-size:12px;color:var(--ink-2);white-space:nowrap}
+#sugg .it.full .l{font-family:var(--sans);font-size:14px}
+#q{flex:1;min-width:0;width:100%;padding:7px 10px;border:1px solid transparent;border-radius:3px;background:var(--paper);color:var(--ink)}
+#bar select{padding:6px;border-radius:3px;border:0;background:var(--paper);color:var(--ink)}
+#bar button{background:transparent;border:1px solid rgba(255,255,255,.35);color:var(--cloth-ink);border-radius:3px;padding:5px 9px;cursor:pointer}
+#bar button:hover{background:rgba(255,255,255,.12)}
+#menu{display:none}
+
+#main{flex:1;display:flex;min-height:0}
+/* index of lemmas */
+#index{width:290px;flex:none;display:flex;flex-direction:column;border-right:1px solid var(--rule);background:var(--paper-2)}
+#index input{margin:10px;padding:6px 8px;border:1px solid var(--rule);border-radius:3px;background:var(--paper)}
+#index .count{padding:0 12px 6px;color:var(--ink-2);font-size:12.5px}
+#list{flex:1;overflow:auto;padding-bottom:20px}
+#list a{display:flex;justify-content:space-between;gap:8px;padding:3px 12px;color:var(--ink);font-family:var(--serif);font-size:15.5px;line-height:1.3}
+#list a span{color:var(--ink-2);font-family:var(--sans);font-size:11.5px;white-space:nowrap;padding-top:3px}
+#list a:hover{background:var(--paper);text-decoration:none}
+#list a.front{font-style:italic;color:var(--ink-2)}
+#list a.cur{background:var(--paper);box-shadow:inset 3px 0 0 var(--cloth)}
+#list .letter{font-family:var(--serif);font-size:20px;color:var(--brass);padding:10px 12px 2px}
+
+#view{flex:1;overflow:auto;scroll-behavior:auto}
+.page{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:40px;max-width:1120px;margin:0 auto;padding:28px 32px 80px}
+.page.wide{grid-template-columns:minmax(0,1fr)}
+
+/* article */
+.text{max-width:40em;font-family:var(--textfont, var(--serif));font-size:var(--fs);line-height:1.62;hyphens:auto;-webkit-hyphens:auto}
+.head{position:relative;margin:4px 0 26px;padding-left:18px;border-left:3px solid var(--brass)}
+.head h1{font-family:var(--serif);font-weight:normal;font-size:2.1em;line-height:1.12;margin:0 0 10px;letter-spacing:-.005em}
+.head .cols{font-family:var(--sans);font-size:13px;color:var(--ink-2);line-height:1.6}
+.head .cols b{font-weight:600;color:var(--ink)}
+.text p{margin:0 0 .75em;text-align:left}
+.text p[id]{margin-top:1.1em}
+.text p.lit{font-size:.84em;line-height:1.5;color:var(--ink-2);margin-bottom:.45em}
+.text h3{font-family:var(--sans);font-size:14px;font-weight:600;color:var(--ink-2);margin:2em 0 .6em;padding-top:.6em;border-top:1px solid var(--rule)}
+.text sup.fn{font-family:var(--sans);font-size:.6em;color:var(--link);cursor:pointer;padding:0 1px;vertical-align:.55em;line-height:0}
+.text sup.fn:hover{text-decoration:underline}
+.text ol.notes{font-size:.8em;line-height:1.5;padding-left:2.6em;color:var(--ink)}
+.text ol.notes li{margin:0 0 .35em}
+.text ol.notes li:target, .text ol.notes li.flash{background:var(--mark)}
+.text .xref{border-bottom:1px solid var(--rule)}
+.text .xref:hover{text-decoration:none;border-bottom-color:var(--link)}
+.text .xref-dead{color:var(--dead)}
+.text .sd{font-family:var(--sans);font-size:.72em;color:var(--ink-2)}
+.ovl{position:relative;display:inline-block}
+.ovl::before{content:'e';position:absolute;left:50%;transform:translateX(-50%);top:-.62em;font-size:.62em;line-height:1}
+.text .ocr{font-family:var(--sans);font-size:12px;color:var(--ink-2);border-left:2px solid var(--brass);padding:2px 8px;margin:1em 0 .4em}
+.text .gap{font-family:var(--sans);font-size:12.5px;color:var(--ink-2);border:1px dashed var(--rule);padding:6px 10px;margin:1em 0}
+.text .md{margin:.9em 0;overflow-x:auto;text-align:center}
+.text .m,.text .md{font-family:inherit}
+.text .tbl{overflow-x:auto;margin:.9em 0}
+.text .tbl table{border-collapse:collapse;font-family:var(--serif);font-size:.92em;margin:0 auto}
+.text .tbl th,.text .tbl td{border:1px solid var(--rule);padding:3px 12px;text-align:center}
+.text .tbl th{background:var(--paper-2);font-weight:normal}
+.text img.pic{height:1.05em;vertical-align:-.18em}
+.text figure.pic{margin:1em 0;text-align:center}
+.text figure.pic img{max-width:100%;background:#fff;padding:6px;border-radius:2px}
+.text svg.pic{height:1.05em;width:auto;vertical-align:-.18em;overflow:visible}
+.text .col{display:inline}
+body.showcols .text .col::before,.text .col.target::before{content:"Sp. " attr(data-col);font-family:var(--sans);font-size:11px;font-weight:600;color:var(--brass);border-left:2px solid var(--brass);padding:0 3px 0 4px;margin:0 3px;white-space:nowrap;vertical-align:1px}
+.text .col.target::before{background:var(--mark);color:var(--ink)}
+/* the columns of the printed edition as a layout: odd columns on the left, one row per printed page */
+body.bookmode .text{max-width:none}
+.bookcols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:30px;margin:0 0 .5em}
+.bookcols .bcol{min-width:0;padding:0 0 14px;margin:0 0 14px;border-bottom:1px dashed var(--rule)}
+.bookcols .bcol.l{position:relative}
+.bookcols .bcol.l::after{content:"";position:absolute;top:0;bottom:14px;right:-15px;border-right:1px solid var(--rule)}
+.bookcols .bc-h{font-family:var(--sans);font-size:11px;font-weight:600;color:var(--brass);margin:0 0 .5em;cursor:help;display:inline-block;border-bottom:1px dotted var(--brass)}
+.bookcols .bc-h::before{content:"Sp. " attr(data-col) " ≈"}
+.bookcols .bcol.flash .bc-h{background:var(--mark);color:var(--ink)}
+.bookcols .bcol > div > p:first-child, .bookcols .bcol > div > h3:first-child{margin-top:0;padding-top:0;border-top:0}
+.text .cut{margin-bottom:0}
+.text p.cont{margin-top:0}
+.text ol.notes li.cont{list-style:none}
+.bookcols ol.notes{margin:0;padding-left:2.4em}
+.bookcols .tbl table{font-size:.84em}
+.bookcols .tbl th,.bookcols .tbl td{padding:2px 7px}
+/* a page whose table, formula or picture does not fit a column: both its columns run the full width */
+.bookcols .bcol.wide{grid-column:1 / -1}
+.bookcols .bcol.wide::after{display:none}
+.bookcols div.bcol.wide{display:none}
+@media (max-width:760px){ .bookcols{grid-template-columns:minmax(0,1fr)} .bookcols .bcol.l::after{display:none} }
+#jump{display:flex;gap:4px;margin:0 10px 6px;align-items:center}
+#jump select,#jump input{padding:4px 5px;border:1px solid var(--rule);border-radius:3px;background:var(--paper);font-size:13px;min-width:0}
+#jump input{width:0;flex:1}
+#jump button{border:1px solid var(--rule);background:var(--paper);border-radius:3px;padding:3px 9px;cursor:pointer}
+#jump .msg{font-size:12px;color:#A23B2A}
+.text figure.pic.vec svg{display:block;width:100%;height:auto;margin:0 auto}
+:root[data-theme="dark"] .text img.pic{filter:invert(1)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .text img.pic{filter:invert(1)}}
+mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
+mark.cur{background:var(--mark-cur)}
+
+/* the margin rail */
+.rail{font-size:13.5px;position:sticky;top:0;align-self:start;max-height:100vh;overflow:auto;padding:28px 0 40px}
+.rail h4{font-size:12.5px;font-weight:600;color:var(--ink-2);margin:18px 0 6px}
+.rail h4:first-child{margin-top:0}
+.rail ul{list-style:none;margin:0;padding:0}
+.rail li{margin:2px 0;line-height:1.35}
+.rail .toc a{color:var(--ink)}
+.rail .toc li.l2{padding-left:12px}
+.rail .toc li.l3{padding-left:24px;color:var(--ink-2)}
+.rail .toc li.l3 a{color:var(--ink-2)}
+.rail .n{color:var(--ink-2);font-size:12px}
+.rail .reg{column-count:1}
+.rail .reg li{font-family:var(--serif);font-size:14.5px}
+.rail .more{background:none;border:0;padding:2px 0;color:var(--link);cursor:pointer}
+.hitnav{position:sticky;top:0;z-index:2;display:flex;gap:8px;align-items:center;background:var(--paper);border-bottom:1px solid var(--rule);padding:6px 0;margin:-10px 0 16px;font-family:var(--sans);font-size:13px;color:var(--ink-2)}
+.hitnav button{border:1px solid var(--rule);background:var(--paper-2);border-radius:3px;padding:2px 9px;cursor:pointer}
+.pager{display:flex;justify-content:space-between;gap:20px;margin-top:48px;padding-top:14px;border-top:1px solid var(--rule);font-family:var(--serif);font-size:16px}
+.pager small{display:block;font-family:var(--sans);font-size:12px;color:var(--ink-2)}
+.pager .nx{text-align:right}
+
+/* results */
+.results{max-width:52em}
+.results h2{font-family:var(--serif);font-weight:normal;font-size:26px;margin:4px 0 4px}
+.glist2{columns:2 280px;column-gap:40px;list-style:none;padding:0;margin:0}
+.glist2 li{break-inside:avoid;padding:3px 0;font-family:var(--serif);font-size:16px}
+.glist2 li .n{font-family:var(--sans);font-size:12px;color:var(--ink-2)}
+.glist2 li.un{color:var(--ink-2)}
+.glist2.items li{font-size:15px}
+.results .sopts select{max-width:260px;margin-right:14px}
+mark.um{background:transparent;border-bottom:3px solid;padding:0 1px;cursor:pointer;color:inherit}
+.um1{--mc:#E3B505}.um2{--mc:#3F9E6A}.um3{--mc:#3A7BD5}.um4{--mc:#C8453B}
+mark.um{border-color:var(--mc)}
+mark.um.um1{background:rgba(227,181,5,.2)}mark.um.um2{background:rgba(63,158,106,.18)}mark.um.um3{background:rgba(58,123,213,.16)}mark.um.um4{background:rgba(200,69,59,.15)}
+.dot{display:inline-block;width:14px;height:14px;border-radius:50%;background:var(--mc);border:2px solid transparent;vertical-align:-2px;padding:0}
+.dot.on{border-color:var(--ink)}
+#seltool{display:none;position:fixed;z-index:60;gap:4px;align-items:center;background:var(--paper);border:1px solid var(--rule);border-radius:4px;padding:4px 6px;box-shadow:0 4px 14px rgba(0,0,0,.2)}
+#seltool button{border:0;background:none;cursor:pointer;font-size:14px;color:var(--ink);padding:2px 5px}
+#seltool button.dot{width:16px;height:16px;padding:0;margin:0 2px;border-radius:50%;background:var(--mc)}
+#markcard,#setmenu{display:none;position:fixed;z-index:61;background:var(--paper);border:1px solid var(--rule);border-top:3px solid var(--cloth);border-radius:3px;padding:8px;box-shadow:0 6px 18px rgba(0,0,0,.22);width:300px}
+#markcard textarea{width:100%;box-sizing:border-box;min-height:70px;margin:6px 0;background:var(--paper-2);color:var(--ink);border:1px solid var(--rule);font:14px var(--sans)}
+#markcard .mc-colors{display:flex;gap:6px;align-items:center}
+#markcard .mc-colors .n{margin-left:auto;font-size:12px;color:var(--ink-2)}
+#markcard button.x,.marklist button.x,.glist2 button.x{border:0;background:none;cursor:pointer;color:var(--ink-2);font-size:16px}
+#markcard .mc-acts{display:flex;justify-content:space-between;font-size:13px}
+#markcard .mc-acts button{border:1px solid var(--rule);background:var(--paper-2);border-radius:3px;cursor:pointer;font-size:12px;color:var(--ink)}
+#setmenu button{display:block;width:100%;text-align:left;border:0;background:none;padding:4px 6px;cursor:pointer;color:var(--ink);font-size:14px}
+#setmenu button:hover{background:var(--paper-2)}
+#setmenu .newset{display:flex;gap:4px;border-top:1px solid var(--rule);margin-top:4px;padding-top:6px}
+#setmenu .newset input{flex:1;min-width:0}
+#setmenu .newset button{width:auto;border:1px solid var(--rule);border-radius:3px}
+#flash{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--cloth);color:#fff;padding:7px 14px;border-radius:4px;opacity:0;transition:opacity .3s;pointer-events:none;z-index:70;font-size:14px}
+#flash.on{opacity:1}
+.worktabs{display:flex;gap:4px;align-items:center;margin-bottom:14px;border-bottom:1px solid var(--rule)}
+.worktabs a{padding:6px 12px;border:1px solid transparent;border-bottom:0;border-radius:3px 3px 0 0}
+.worktabs a.on{border-color:var(--rule);background:var(--paper);color:var(--ink)}
+.worktabs .sp,.tools .sp{flex:1}
+.worktabs label.btn,.worktabs .btn{margin:0 0 4px 4px}
+.marklist{list-style:none;padding:0;margin:0}
+.marklist li{display:grid;grid-template-columns:20px 1fr 24px 20px;gap:8px;padding:8px 0;border-bottom:1px solid var(--rule)}
+.marklist .q{font-family:var(--serif);font-size:15px;margin-top:3px}
+.marklist .cm{font-size:13px;color:var(--ink-2);margin-top:3px;white-space:pre-wrap}
+.tools a.on{font-weight:600}
+.tools a.dotlink{margin-left:12px}
+.notes{display:grid;grid-template-columns:260px 1fr;gap:20px}
+.notes .nlist ul{list-style:none;padding:0;margin:8px 0 0}
+.notes .nlist li{padding:5px 6px;border-radius:3px;display:flex;flex-direction:column}
+.notes .nlist li.on{background:var(--paper-2)}
+.notes .nlist li .n{font-size:11px;color:var(--ink-2)}
+.notes textarea{width:100%;box-sizing:border-box;min-height:60vh;font:16px/1.55 var(--serif);background:var(--paper);color:var(--ink);border:1px solid var(--rule);padding:12px}
+mark.cf{color:inherit;padding:0 1px;border-radius:2px}
+.cf1{--cf:rgba(227,181,5,.45)}.cf2{--cf:rgba(63,158,106,.4)}.cf3{--cf:rgba(58,123,213,.38)}.cf4{--cf:rgba(200,69,59,.35)}
+mark.cf{background:var(--cf)}
+#cfpanel{font-family:var(--sans);display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin:10px 0 16px;padding:8px 10px;border:1px solid var(--rule);border-radius:3px;background:var(--paper-2);font-size:13px}
+#cfpanel .cfhead{width:100%;font-weight:600;color:var(--ink-2)}
+#cfpanel label.cf{display:flex;gap:5px;align-items:center}
+#cfpanel .sw{width:14px;height:14px;border-radius:3px;background:var(--cf)}
+#cfpanel input{width:170px;padding:3px 5px;border:1px solid var(--rule);border-radius:3px;background:var(--paper);color:var(--ink)}
+#cfpanel .btn{margin:0}
+.theme-form textarea{width:100%;box-sizing:border-box;font:15px var(--sans);padding:8px;border:1px solid var(--rule);border-radius:3px;background:var(--paper);color:var(--ink)}
+.plist.theme th{font-size:12px;font-weight:600;color:var(--ink-2);text-align:right;padding:4px 6px}
+.plist.theme td.bar{white-space:nowrap}
+.plist.theme td.bar .b{display:inline-block;width:140px;height:9px;background:var(--paper-2);border-radius:2px;vertical-align:middle}
+.plist.theme td.bar .b span{display:block;height:9px;background:var(--cloth);border-radius:2px;opacity:.75}
+.plist.theme td.bar em{display:inline-block;width:44px;text-align:right;font-size:11px;font-style:normal;color:var(--ink-2)}
+body.justify .text p{text-align:justify}
+body.textonly #index,body.textonly .rail{display:none}
+body.textonly .page{grid-template-columns:minmax(0,1fr)}
+.idxlinks{padding:0 12px 6px;font-size:12.5px}
+#viewmenu{display:none;position:fixed;z-index:62;background:var(--paper);border:1px solid var(--rule);border-radius:4px;padding:10px;box-shadow:0 6px 18px rgba(0,0,0,.22);width:260px;font-size:13px}
+#viewmenu label{display:block;margin-bottom:6px}
+#viewmenu .vf{margin:6px 0}
+#viewmenu .vf button,#viewmenu #vprint{border:1px solid var(--rule);background:var(--paper-2);border-radius:3px;padding:2px 7px;margin:2px;cursor:pointer;color:var(--ink)}
+#viewmenu .vf button.on{border-color:var(--cloth);box-shadow:inset 0 0 0 1px var(--cloth)}
+.text abbr{text-decoration:underline dotted;text-underline-offset:2px;cursor:help}
+.plist.abbr td.ab{font-weight:600;white-space:nowrap;padding-right:14px;vertical-align:top}
+.plist.abbr.sym td.ab{font-size:18px;font-weight:normal;text-align:center}
+.plist.abbr.sym .symsvg svg{height:1.15em;width:auto;vertical-align:-.2em}
+.plist.abbr.sym .symchar{display:block;font-size:12px;color:var(--ink-2)}
+.results h2.sym-h{margin-top:36px}
+.letters{margin:8px 0 12px;font-size:15px}
+.letters a{margin-right:4px}
+.plist.contents td.bar{white-space:nowrap}
+.plist.contents td.bar .b{display:inline-block;width:120px;height:8px;background:var(--paper-2);border-radius:2px;vertical-align:middle}
+.plist.contents td.bar .b span{display:block;height:8px;background:var(--cloth);border-radius:2px;opacity:.7}
+.plist.contents td.bar em{display:inline-block;width:60px;text-align:right;font-size:11px;font-style:normal;color:var(--ink-2)}
+@media print {
+  #bar,#index,.rail,.hitnav,#seltool,#markcard,#setmenu,#viewmenu,#cfpanel,#flash,.acts,.pager,#sugg{display:none !important}
+  html,body,#main,#view{height:auto !important;overflow:visible !important;background:#fff !important;color:#000 !important}
+  .page{display:block;max-width:none;padding:0}
+  .text{max-width:none;font-size:11pt}
+  mark{background:none !important;color:inherit}
+  a{color:inherit;text-decoration:none}
+}
+.plist.places{width:100%;max-width:none}
+.plist.places td.ctx{font-family:var(--serif);font-size:14px;width:55%}
+.plist.places tr[data-i]{cursor:pointer}
+.plist.places tr[data-i]:hover{background:var(--paper-2)}
+.plist.places th.sort{cursor:pointer;user-select:none}
+.plist.places th{font-size:12px;text-align:left;color:var(--ink-2);padding:4px 6px}
+.results .sopts{margin:-6px 0 10px;font-size:13px}
+.results .sopts label{margin-right:14px}
+.results .sub.warn{color:#8a5a00}
+.plist.wl td.nm a{font-family:var(--serif);font-size:16px}
+.results .sub{color:var(--ink-2);margin-bottom:22px}
+.hit{padding:14px 0 16px;border-bottom:1px solid var(--rule)}
+.hit .t{font-family:var(--serif);font-size:20px}
+.hit .m{font-size:12.5px;color:var(--ink-2);margin:2px 0 6px}
+.hit .m .c{display:inline-block;margin-right:10px}
+.hit .s{font-family:var(--serif);font-size:15.5px;line-height:1.5;margin:4px 0}
+.hit .s em{font-style:normal;font-family:var(--sans);font-size:11.5px;color:var(--brass);margin-right:6px}
+.regbox{background:var(--paper-2);border-left:3px solid var(--brass);padding:10px 14px;margin:0 0 20px}
+.regbox h3{font-size:13px;font-weight:600;color:var(--ink-2);margin:0 0 6px}
+.regbox table{border-collapse:collapse;font-size:14px}
+.regbox td{padding:2px 14px 2px 0;vertical-align:top}
+.regbox td.term{font-family:var(--serif);font-size:15.5px}
+.regbox td.loc{color:var(--ink-2);font-size:12.5px;white-space:nowrap}
+.btn{border:1px solid var(--rule);background:var(--paper-2);padding:7px 14px;border-radius:3px;cursor:pointer;margin-top:18px}
+.err{color:#A23B2A;padding:14px 0}
+
+/* persons and graphs */
+.acts{margin-top:10px;font-family:var(--sans);font-size:13px}
+.acts a{display:inline-block;margin-right:14px}
+.plist{font-family:var(--sans);font-size:14px;border-collapse:collapse;width:100%;max-width:52em}
+.plist td{padding:5px 12px 5px 0;border-bottom:1px solid var(--rule);vertical-align:top}
+.plist td.nm{font-family:var(--serif);font-size:16.5px}
+.plist tr.exp{cursor:pointer}
+.plist tr.exp:hover td{background:var(--paper-2)}
+.plist td.tw{width:16px;color:var(--ink-2);font-size:12px;padding-right:4px}
+.plist tr.open td.tw span{display:inline-block;transform:rotate(90deg)}
+.plist tr.occ td{padding:0 0 10px 20px;border-bottom:1px solid var(--rule)}
+.occbox{font-size:13px;color:var(--ink-2)}
+.occbox h5{font-size:12px;font-weight:600;margin:8px 0 3px;color:var(--ink-2)}
+.occbox ul{list-style:none;margin:0;padding:0}
+.occbox li{margin:0 0 4px}
+.occbox li a{display:block;color:var(--ink);font-family:var(--serif);font-size:15px;line-height:1.45;padding:2px 6px;border-left:2px solid var(--rule)}
+.occbox li a:hover{text-decoration:none;border-left-color:var(--cloth);background:var(--paper-2)}
+.occbox li .w{font-family:var(--sans);font-size:11px;color:var(--brass);margin-right:8px}
+.occbox p.n{font-size:12px;margin:6px 0 0}
+mark.pm{background:var(--mark)}
+mark.pm.cur{background:var(--mark-cur)}
+.rail a.loc{font-size:12px;color:var(--ink-2);padding:0 3px;border-radius:2px}
+.rail a.loc:hover{color:var(--link);text-decoration:none}
+.rail a.loc.on{background:var(--mark);color:var(--ink)}
+.plist td.num{color:var(--ink-2);font-size:12.5px;white-space:nowrap;text-align:right}
+.plist tr.ed td.nm a{color:var(--ink-2)}
+.person h1{font-family:var(--serif);font-weight:normal;font-size:2.1em;margin:4px 0 8px}
+.person .facts{font-size:13.5px;color:var(--ink-2);line-height:1.6;margin-bottom:18px}
+.person .vars{font-size:12.5px;color:var(--ink-2)}
+.tools{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:0 0 14px;font-size:13.5px;color:var(--ink-2)}
+.tools input[type=search]{padding:6px 8px;border:1px solid var(--rule);border-radius:3px;background:var(--paper);min-width:240px}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:3px;overflow:hidden}
+.seg button{border:0;background:var(--paper-2);padding:4px 10px;cursor:pointer;color:var(--ink)}
+.seg button.on{background:var(--cloth);color:var(--cloth-ink)}
+.gwrap{position:relative;height:calc(100vh - 150px);min-height:420px;border:1px solid var(--rule);background:var(--paper);overflow:hidden}
+.gwrap svg{width:100%;height:100%;display:block;cursor:grab;touch-action:none}
+.gwrap svg.drag{cursor:grabbing}
+.gwrap .ln{stroke:var(--ink-2);stroke-opacity:.35}
+.gwrap .ln.cite{stroke:var(--brass);stroke-dasharray:3 3;stroke-opacity:.55}
+.gwrap .ln.hot{stroke-opacity:.95;stroke-width:2}
+.gwrap .nd circle,.gwrap .nd rect{stroke:var(--paper);stroke-width:1.5;cursor:pointer}
+.gwrap .nd.article circle{fill:var(--cloth)}
+.gwrap .nd.person rect,.gwrap .nd.person circle{fill:var(--brass)}
+.gwrap .nd.role-mixed rect{fill:var(--paper);stroke:var(--brass);stroke-width:2.2}
+.gwrap .nd.role-scholar circle{fill:var(--ink-2);fill-opacity:.55;stroke-width:1}
+.gwrap .nd.role-scholar text{font-size:calc(11px * var(--gk, 1));fill:var(--ink-2);font-style:italic}
+.gwrap .ln.mention{stroke:var(--cloth);stroke-dasharray:2 4;stroke-opacity:.6}
+.ginfo .grole{font-size:12px;color:var(--ink-2);margin:2px 0 4px}
+.ginfo{width:320px;max-width:calc(100% - 20px);max-height:calc(100% - 20px);display:none;flex-direction:column}
+.ginfo .glinks{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center;margin:4px 0 6px}
+.ginfo .glinks a{margin:0}
+.ginfo .glinks button,.ginfo .gbtn button{border:1px solid var(--rule);background:var(--paper-2);border-radius:3px;padding:2px 8px;cursor:pointer;font-size:12px;color:var(--ink)}
+.ginfo button:disabled{opacity:.45;cursor:default}
+.ginfo .gsec-wrap{overflow:auto;max-height:calc(100vh - 320px);margin:0 -12px -10px;padding:0 12px 10px;border-top:1px solid var(--rule)}
+.ginfo .gsec h5{font-size:12.5px;font-weight:600;color:var(--ink-2);margin:10px 0 4px}
+.ginfo .gsec h5 .n{font-weight:normal}
+.ginfo .gbtn{display:flex;gap:6px;margin-bottom:4px}
+.ginfo .glist{list-style:none;margin:0;padding:0}
+.ginfo .glist li{display:grid;grid-template-columns:14px auto 1fr auto;gap:0 6px;align-items:baseline;padding:3px 4px;border-radius:3px;cursor:pointer}
+.ginfo .glist li:hover{background:var(--paper-2)}
+.ginfo .glist li .mk{color:var(--ink-2);font-size:11px}
+.ginfo .glist li.on .mk{color:var(--cloth)}
+.ginfo .glist li.on .nm{font-weight:600}
+.ginfo .glist li .hw{color:var(--ink-2);font-size:12px}
+.ginfo .glist li .nm{font-family:var(--serif);font-size:14.5px;grid-column:3}
+.ginfo .glist li .gr{font-family:var(--sans);font-size:11px;color:var(--ink-2)}
+.ginfo .glist li .sb{grid-column:3;font-size:11.5px;color:var(--ink-2)}
+.ginfo .glist li .go{grid-row:1;grid-column:4;text-decoration:none;color:var(--ink-2);padding:0 2px}
+.ginfo .glist li .go:hover{color:var(--link)}
+.ginfo .gnote{font-size:12px;color:var(--ink-2);margin-top:6px}
+.glegend i.dia{border-radius:0;transform:rotate(45deg) scale(.8);background:var(--brass)}
+.glegend i.dia.hollow{background:transparent;box-shadow:inset 0 0 0 2px var(--brass)}
+.glegend i.sch{width:7px;height:7px;background:var(--ink-2);opacity:.6}
+.gwrap .nd.center circle,.gwrap .nd.center rect{stroke:var(--ink);stroke-width:2.5}
+.gwrap .nd text{font-family:var(--serif);font-size:calc(13px * var(--gk, 1));fill:var(--ink);paint-order:stroke;stroke:var(--paper);stroke-width:calc(3.5px * var(--gk, 1));stroke-linejoin:round;pointer-events:none}
+.gwrap .nd.l2 text{display:none}
+.gwrap .nd.hot text,.gwrap .nd.center text{display:block}
+.gwrap .nd.center text{font-size:calc(16px * var(--gk, 1));font-weight:bold}
+.gwrap .ln,.gwrap .nd circle,.gwrap .nd rect{vector-effect:non-scaling-stroke}
+.gwrap .nd.dim{opacity:.25}
+.ginfo{position:absolute;right:10px;top:10px;max-width:300px;background:var(--paper);border:1px solid var(--rule);border-top:3px solid var(--cloth);padding:10px 12px;font-size:13.5px;display:none}
+.ginfo b{font-family:var(--serif);font-size:17px;font-weight:normal;display:block;margin-bottom:4px}
+.ginfo a{display:inline-block;margin:6px 12px 0 0}
+.glegend{position:absolute;left:10px;bottom:8px;font-size:12px;color:var(--ink-2);background:var(--paper);padding:4px 8px;border-radius:3px}
+.glegend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin:0 4px 0 10px;vertical-align:-1px}
+
+/* home */
+.home{max-width:44em;font-family:var(--serif);font-size:18px;line-height:1.6}
+.home h2{font-weight:normal;font-size:34px;margin:10px 0 6px}
+.home .facts{font-family:var(--sans);font-size:14px;color:var(--ink-2);margin-bottom:26px}
+.home table{font-family:var(--sans);font-size:14px;border-collapse:collapse;margin:8px 0 18px}
+.home td{padding:4px 18px 4px 0;vertical-align:top}
+.home code{font-family:Consolas,"Courier New",monospace;font-size:13.5px;background:var(--paper-2);padding:1px 5px;border-radius:2px}
+
+/* footnote popover */
+#pop{position:fixed;z-index:20;max-width:460px;background:var(--paper);color:var(--ink);border:1px solid var(--rule);border-top:3px solid var(--cloth);padding:10px 12px;font-family:var(--serif);font-size:15px;line-height:1.45;box-shadow:0 6px 24px rgba(0,0,0,.18);display:none}
+#pop b.no{font-family:var(--sans);font-size:12px;color:var(--ink-2);margin-right:6px}
+
+@media (max-width:1100px){ .page{grid-template-columns:minmax(0,1fr)} .rail{position:static;max-height:none;padding-top:0;border-top:1px solid var(--rule)} }
+@media (max-width:760px){
+  #index{position:fixed;z-index:10;top:0;bottom:0;left:0;transform:translateX(-100%);transition:transform .18s;box-shadow:0 0 30px rgba(0,0,0,.3)}
+  body.idx #index{transform:none}
+  #menu{display:inline-block}
+  #bar{flex-wrap:wrap;gap:8px}
+  #bar .brand small{display:none}
+  #qwrap{order:10;flex:1 1 100%;max-width:none}
+  #bar select{flex:1 1 30%}
+  #smaller,#bigger{display:none}
+  .page{padding:18px 16px 60px}
+  :root{--fs:17px}
+}
+@media (prefers-reduced-motion: reduce){ #index{transition:none} }
+</style>
+</head>
+<body>
+<div id="bar">
+  <button id="menu" data-i18n-title="hdr.menu">☰</button>
+  <a class="brand" href="#/">HWPh<small>Historisches Wörterbuch der Philosophie</small></a>
+  <div id="qwrap"><input id="q" type="search" data-i18n-placeholder="hdr.search_ph" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-controls="sugg" aria-expanded="false"><div id="sugg" role="listbox"></div></div>
+  <select id="scope" data-i18n-title="hdr.scope">
+    <option value="all" data-i18n="scope.all"></option>
+    <option value="body" data-i18n="scope.body"></option>
+    <option value="notes" data-i18n="scope.notes"></option>
+    <option value="lit" data-i18n="scope.lit"></option>
+    <option value="lemma" data-i18n="scope.lemma"></option>
+    <option value="authors" data-i18n="scope.authors"></option>
+    <option value="register" data-i18n="scope.register"></option>
+    <option value="lookup" data-i18n="scope.lookup"></option>
+  </select>
+  <select id="band" data-i18n-title="hdr.band"><option value="" data-i18n="band.all"></option></select>
+  <button id="persons" data-i18n-title="hdr.persons_title" data-i18n="hdr.persons"></button>
+  <button id="groupsbtn" data-i18n-title="hdr.groups_title" data-i18n="hdr.groups"></button>
+  <button id="authorsbtn" data-i18n-title="hdr.authors_title" data-i18n="hdr.authors"></button>
+  <button id="themebtn" data-i18n-title="hdr.theme_title" data-i18n="hdr.theme_s"></button>
+  <button id="workbtn" data-i18n-title="hdr.work_title" data-i18n="hdr.work"></button>
+  <button id="smaller" data-i18n-title="hdr.smaller">A−</button>
+  <button id="bigger" data-i18n-title="hdr.bigger">A+</button>
+  <button id="theme" data-i18n-title="hdr.theme">◐</button>
+  <button id="viewbtn" data-i18n-title="hdr.view">¶</button>
+  <select id="lang" data-i18n-title="hdr.lang"></select>
+</div>
+<div id="main">
+  <nav id="index">
+    <input id="filter" type="search" data-i18n-placeholder="index.filter_ph" autocomplete="off" spellcheck="false">
+    <form id="jump" data-i18n-title="jump.title"><select id="jband"></select><input id="jcol" type="number" min="1" data-i18n-placeholder="jump.col_ph"><button id="jgo" data-i18n-title="jump.go">→</button></form>
+    <div class="idxlinks"><a href="#/contents" data-i18n="cont.title"></a> · <a href="#/abbrevs" data-i18n="abbr.short"></a></div>
+    <div class="count" id="count"></div>
+    <div id="list"></div>
+  </nav>
+  <div id="view"></div>
+</div>
+<div id="pop"></div>
+<script>window.HWPH_STATIC = true;</script>
+<script src="static_api.js"></script>
+<script>
+"use strict";
+const $ = (s, r) => (r || document).querySelector(s);
+const view = $('#view'), list = $('#list');
+const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+// the static export (hwph_export.py) answers the same questions without a server
+const rawApi = window.HWPH_API || async function (path) {
+  const r = await fetch(path);
+  const j = await r.json();
+  if (!r.ok) { const e = new Error(j.error || r.statusText); e.code = j.code; e.params = j.params; throw e; }
+  return j;
+};
+// both sources report errors as codes; the words are chosen here, in the reader's language
+const api = async function (path) {
+  try { return await rawApi(path); }
+  catch (e) { if (e.code) throw new Error(t('err.' + e.code, e.params || {})); throw e; }
+};
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('hwph.' + k); return v == null ? d : v; } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem('hwph.' + k, v); } catch (e) {} }
+};
+
+/* ---------- interface language (i18n.js) ---------- */
+const LANGS = Object.keys((window.I18N || {}).langs || {ru: 1});
+let LANG = (() => {
+  const saved = store.get('lang', '');
+  if (LANGS.includes(saved)) return saved;
+  const nav = (navigator.language || 'ru').slice(0, 2).toLowerCase();
+  return LANGS.includes(nav) ? nav : (nav === 'uk' || nav === 'be' ? 'ru' : 'en');
+})();
+const warned = new Set();
+// t('key', {n: 3}) -> the text in the current language; plural forms by Intl.PluralRules
+function t(key, params) {
+  const e = window.I18N && I18N.dict[key];
+  if (!e) { if (!warned.has(key)) { warned.add(key); console.warn('i18n: no key', key); } return key; }
+  let v = e[LANG];
+  if (v === undefined) { if (!warned.has(key + LANG)) { warned.add(key + LANG); console.warn('i18n: no ' + LANG + ' for', key); } v = e.ru; }
+  if (v && typeof v === 'object') {
+    // the counted number: 'count' when the text has several numbers, otherwise 'n'
+    const n = params && params.count !== undefined ? params.count : (params && params.n !== undefined ? params.n : 0);
+    let form = 'other';
+    try { form = new Intl.PluralRules(LANG).select(Number(n)); } catch (x) {}
+    v = v[form] !== undefined ? v[form] : v.other;
+  }
+  return params ? v.replace(/\{(\w+)\}/g, (m, k) => params[k] !== undefined ? params[k] : m) : v;
+}
+// fixed markup: data-i18n (text), data-i18n-html, -title, -placeholder
+function applyStatic(root) {
+  (root || document).querySelectorAll('[data-i18n]').forEach(el => { el.textContent = t(el.dataset.i18n); });
+  (root || document).querySelectorAll('[data-i18n-html]').forEach(el => { el.innerHTML = t(el.dataset.i18nHtml); });
+  (root || document).querySelectorAll('[data-i18n-title]').forEach(el => { el.title = t(el.dataset.i18nTitle); });
+  (root || document).querySelectorAll('[data-i18n-placeholder]').forEach(el => { el.placeholder = t(el.dataset.i18nPlaceholder); });
+}
+// the same wording for the counts that come from the data as numbers
+function subText(n) {
+  const s = n.sub;
+  if (!s || typeof s === 'string') return s || '';
+  if (s.k === 'loc') return 'Bd. ' + s.band + ', Sp. ' + s.col;
+  if (s.k === 'mentions') return t('sub.mentions', {n: s.n});
+  if (s.k === 'articles') return t('n.articles', {n: s.n});
+  if (s.k === 'shared') return t('sub.shared', {n: s.n});
+  if (s.k === 'counts') return t('cnt.full', {b: s.b, n: s.n}) + (s.l ? t('cnt.full_lit', {l: s.l}) : '');
+  return '';
+}
+function noteText(it) {
+  const s = it.note;
+  if (!s) return '';
+  if (s.k === 'xref') return t('how.xref');
+  if (s.k === 'xref_in') return t('how.xref_in');
+  if (s.k === 'mention') return t('how.mention', {n: s.n});
+  if (s.k === 'counts') return t('cnt.full', {b: s.b, n: s.n}) + (s.l ? t('cnt.full_lit', {l: s.l}) : '');
+  return '';
+}
+
+/* ---------- folding: same rules as the server ---------- */
+const DROP = new Set('´′`˜¨᾿῾῀΄΅');
+const foldCache = new Map();
+function foldChar(c) {
+  let f = foldCache.get(c);
+  if (f !== undefined) return f;
+  if (DROP.has(c)) f = '';
+  else if (c === 'ß') f = 'ss';
+  else f = c.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/ς/g, 'σ').replace(/ı/g, 'i');
+  foldCache.set(c, f);
+  return f;
+}
+function fold(s) { let o = ''; for (const c of s) o += foldChar(c); return o; }
+function foldMap(s) {
+  let o = '', idx = [], i = 0;
+  for (const c of s) { const f = foldChar(c); o += f; for (let k = 0; k < f.length; k++) idx.push(i); i += c.length; }
+  return [o, idx];
+}
+function queryRegex(q) {
+  const pats = [];
+  const re = /(-?)"([^"]+)"(\*?)|(\S+)/g; let m;
+  while ((m = re.exec(q))) {
+    let w, neg, prefix;
+    if (m[4] !== undefined) {
+      w = m[4]; if (w === 'OR' || w === '|') continue;
+      neg = w.length > 1 && w[0] === '-'; if (neg) w = w.slice(1);
+      prefix = w.endsWith('*');
+    } else { w = m[2]; neg = !!m[1]; prefix = !!m[3]; }
+    if (neg) continue;
+    const toks = fold(w).match(/[\p{L}\p{N}_]+/gu);
+    if (!toks) continue;
+    const t = toks.map(x => x.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    if (prefix) t[t.length - 1] += '[\\p{L}\\p{N}_]*';
+    pats.push('(?<![\\p{L}\\p{N}_])' + t.join('[^\\p{L}\\p{N}_]{1,4}') + '(?![\\p{L}\\p{N}_])');
+  }
+  return pats.length ? new RegExp(pats.join('|'), 'gu') : null;
+}
+
+/* ---------- settings ---------- */
+function applyTheme() {
+  const t = store.get('theme', '');
+  if (t) document.documentElement.setAttribute('data-theme', t); else document.documentElement.removeAttribute('data-theme');
+}
+function applySize() { document.documentElement.style.setProperty('--fs', store.get('fs', '19') + 'px'); }
+applyTheme(); applySize();
+$('#viewbtn').onclick = e => viewMenu(e.currentTarget);
+$('#theme').onclick = () => {
+  const dark = matchMedia('(prefers-color-scheme: dark)').matches;
+  const cur = store.get('theme', '') || (dark ? 'dark' : 'light');
+  store.set('theme', cur === 'dark' ? 'light' : 'dark'); applyTheme();
+};
+$('#smaller').onclick = () => { store.set('fs', Math.max(14, +store.get('fs', '19') - 1)); applySize(); };
+$('#bigger').onclick = () => { store.set('fs', Math.min(26, +store.get('fs', '19') + 1)); applySize(); };
+$('#menu').onclick = () => document.body.classList.toggle('idx');
+$('#persons').onclick = () => { location.hash = '#/persons'; };
+$('#groupsbtn').onclick = () => { location.hash = '#/groups'; };
+$('#authorsbtn').onclick = () => { location.hash = '#/authors'; };
+$('#workbtn').onclick = () => { location.hash = '#/marks'; };
+$('#themebtn').onclick = () => { location.hash = '#/theme'; };
+
+/* ---------- lemma index ---------- */
+let LEMMAS = [], INFO = {}, curId = null;
+function renderList(filter) {
+  const f = fold(filter.trim());
+  let rows = LEMMAS;
+  if (f) {
+    const pre = [], inner = [];
+    for (const r of LEMMAS) { const i = r.f.indexOf(f); if (i === 0) pre.push(r); else if (i > 0) inner.push(r); }
+    rows = pre.concat(inner);
+  }
+  $('#count').textContent = f ? t('index.filtered', {k: rows.length, n: LEMMAS.length}) : t('n.articles', {n: LEMMAS.length});
+  const out = []; let letter = '';
+  for (const r of rows.slice(0, f ? 600 : rows.length)) {
+    if (!f) { const L = r.f[0] ? r.f[0].toUpperCase() : ''; if (L !== letter) { letter = L; out.push(`<div class="letter">${esc(L)}</div>`); } }
+    const cls = [r.id === curId ? 'cur' : '', r.kind === 'front' ? 'front' : ''].filter(Boolean).join(' ');
+    out.push(`<a href="#/a/${r.id}" data-id="${r.id}"${cls ? ` class="${cls}"` : ''}>${esc(r.lemma)}<span>${r.kind === 'front' ? t('index.front_tag') : esc(r.band) + ', ' + r.col}</span></a>`);
+  }
+  list.innerHTML = out.join('');
+}
+let ft; $('#filter').addEventListener('input', e => { clearTimeout(ft); ft = setTimeout(() => renderList(e.target.value), 80); });
+$('#filter').addEventListener('keydown', e => {
+  if (e.key === 'Enter') { const a = list.querySelector('a'); if (a) location.hash = a.getAttribute('href'); }
+});
+function markCurrent() {
+  list.querySelectorAll('a.cur').forEach(a => a.classList.remove('cur'));
+  const a = list.querySelector(`a[data-id="${curId}"]`);
+  if (a) { a.classList.add('cur'); const r = a.getBoundingClientRect(), lr = list.getBoundingClientRect();
+    if (r.top < lr.top || r.bottom > lr.bottom) a.scrollIntoView({block: 'center'}); }
+}
+
+/* ---------- routing ---------- */
+function parseHash() {
+  const h = location.hash.slice(1) || '/';
+  const [path, qs] = h.split('?');
+  return {path, params: new URLSearchParams(qs || '')};
+}
+window.addEventListener('hashchange', route);
+async function route() {
+  const {path, params} = parseHash();
+  document.body.classList.remove('idx');
+  hidePop();
+  let m;
+  try {
+    if ((m = path.match(/^\/a\/(\d+)$/))) return await showArticle(+m[1], params.get('q') || '', params.get('pat') || '', +(params.get('k') || 0), +(params.get('col') || 0));
+    if (path === '/s') return params.get('view') === 'places' ? await showPlaces(params) : await showSearch(params);
+    if (path === '/lookup') return await showLookup(params);
+    if (path === '/w') return await showWords(params);
+    if ((m = path.match(/^\/p\/(\d+)$/))) return await showPerson(+m[1]);
+    if (path === '/persons') return await showPersons(params.get('q') || '', params.get('ed') === '1');
+    if (path === '/groups') return await showGroups();
+    if (path === '/abbrevs') return await showAbbrevs(params);
+    if (path === '/checklist') return await showChecklist();
+    if (path === '/contents') return showContents(params);
+    if (path === '/theme') return await showTheme(params);
+    if (path === '/marks') return showMarks(params);
+    if (path === '/notes') return showNotes(params);
+    if (path === '/sets') return showSets();
+    if ((m = path.match(/^\/set\/(\w+)$/))) return showSet(m[1]);
+    if ((m = path.match(/^\/group\/(\d+)$/))) return await showGroup(+m[1]);
+    if (path === '/authors') return await showAuthors(params.get('q') || '');
+    if (path === '/author') return await showAuthor(params.get('name') || '');
+    if ((m = path.match(/^\/g\/(a|p)\/(\d+)$/))) return await showGraph(m[1], +m[2], params);
+    showHome();
+  } catch (e) { view.innerHTML = `<div class="page wide"><div class="err">${esc(e.message)}</div></div>`; }
+}
+
+/* ---------- home ---------- */
+function showHome() {
+  curId = null; markCurrent();
+  const s = INFO.stats || {};
+  document.title = t('app.title');
+  view.innerHTML = `<div class="page wide"><div class="home">
+    <h2>Historisches Wörterbuch der Philosophie</h2>
+    <div class="facts">${t('home.facts', {articles: s.articles || '…', register: s.register || '…', xrefs: s.xrefs_resolved || '…', built: esc(s.built || '')})}</div>
+    <p>${t('home.p1')}</p>
+    <table>
+      <tr><td><code>Seele Leib</code></td><td>${t('home.q1')}</td></tr>
+      <tr><td><code>"anima mundi"</code></td><td>${t('home.q2')}</td></tr>
+      <tr><td><code>transzendent*</code></td><td>${t('home.q3')}</td></tr>
+      <tr><td><code>Hegel OR Schelling</code></td><td>${t('home.q4')}</td></tr>
+      <tr><td><code>Seele -Leib</code></td><td>${t('home.q5')}</td></tr>
+      <tr><td><code>br?der</code>, <code>*prin?ip*</code></td><td>${t('home.q6')}</td></tr>
+      <tr><td><code>(Proklos OR Neuplatonis*) Hegel</code></td><td>${t('home.q7')}</td></tr>
+      <tr><td><code>Proklos NEAR Hegel</code>, <code>NEAR/5</code></td><td>${t('home.q8')}</td></tr>
+    </table>
+    <p>${t('home.p_opts')}</p>
+    <p>${t('home.p2')}</p>
+    <p>${t('home.p3', {persons: s.persons || '…'})}</p>
+    <p><a href="#" id="rnd">${t('home.random')}</a></p>
+  </div></div>`;
+  $('#rnd').onclick = e => { e.preventDefault(); const r = LEMMAS[Math.floor(Math.random() * LEMMAS.length)]; location.hash = '#/a/' + r.id; };
+  view.scrollTop = 0;
+}
+
+/* ---------- article ---------- */
+let hits = [], hitIdx = -1, hitLabel = '';
+async function showArticle(id, q, pat, k, col) {
+  const a = await api('/api/article/' + id);
+  curId = id; markCurrent();
+  curArticle = a;
+  document.title = a.lemma + ' — HWPh';
+  const toc = a.toc.filter(t => t[2] > 0 || t[0] === 'notes' || /^h/.test(t[0]));
+  // the shallowest numbering used in this article becomes level 1
+  const lv = toc.filter(t => t[2] > 0).map(t => t[2]), top = lv.length ? Math.min(...lv) : 1;
+  toc.forEach(t => { if (t[2] > 0) t[2] = t[2] - top + 1; });
+  const railList = (title, arr, fmt, cap) => {
+    if (!arr.length) return '';
+    const items = arr.map(fmt);
+    const shown = items.slice(0, cap).join(''), rest = items.slice(cap).join('');
+    return `<h4>${title} <span class="n">${arr.length}</span></h4><ul>${shown}</ul>` +
+      (rest ? `<ul hidden>${rest}</ul><button class="more">${t('rail.more', {n: items.length - cap})}</button>` : '');
+  };
+  const lk = x => `<li><a href="#/a/${x.id}">${esc(x.lemma)}</a>${x.n > 1 ? ` <span class="n">×${x.n}</span>` : ''}</li>`;
+  const here = spec => `<a class="loc${pat === spec ? ' on' : ''}" href="#/a/${id}${pat === spec ? '' : '?pat=' + spec}" title="${pat === spec ? t('loc.off') : t('loc.on')}">⌕</a>`;
+  const mn = x => `<li><a href="#/a/${x.id}">${esc(x.lemma)}</a> <span class="n" title="${t('rail.tf_title')}">${x.tf}</span> ${here('c' + x.id)}</li>`;
+  const prs = p => `<li><a href="#/p/${p.id}">${esc(p.name)}</a> <span class="n" title="${t('rail.counts_title')}">${[p.b, p.n, p.l].join('·')}</span> ${here('p' + p.id)}</li>`;
+  const reg = r => `<li>${r.col ? `<a href="#/a/${id}?col=${parseInt(r.col, 10)}">${esc(r.term)}</a>` : esc(r.term)}${r.qualifier ? ` <span class="n">${esc(r.qualifier)}</span>` : ''}${r.col ? ` <span class="n">Sp. ${esc(r.col)}</span>` : ''}</li>`;
+  const authors = a.authors.length ? a.authors.map(esc).join(', ') : '<span style="opacity:.7">' + t('art.no_author') + '</span>';
+  view.innerHTML = `<div class="page"><article class="text" lang="de">
+      ${q || pat ? `<div class="hitnav"><span id="hc"></span><button id="hp" title="${t('nav.prev')}">▲</button><button id="hn" title="${t('nav.next')}">▼</button>${pat ? `<a href="#/a/${id}">${t('loc.off')}</a>` : `<a href="#/s?q=${encodeURIComponent(q)}">${t('nav.back')}</a>`}</div>` : ''}
+      <header class="head"><h1>${esc(a.lemma)}</h1>
+        <div class="cols"><b>Band ${esc(a.band)}, Sp. ${a.col_from}${a.col_to !== a.col_from ? '–' + a.col_to : ''}</b><br>${authors}<br>${t('art.pdf', {a: a.pdf_from, b: a.pdf_to})}</div>
+        <div class="acts"><a href="#/g/a/${a.id}">${t('art.graph')}</a><a href="#/g/a/${a.id}?depth=2">${t('art.graph2')}</a><a href="#" id="toset">${t('work.to_set')}</a><a href="#" id="cfbtn">${t('cf.toggle')}</a><a href="#" id="colsbtn" title="${t('art.cols_title')}">${t(store.get('cols', '') ? 'art.cols_hide' : 'art.cols_show')}</a></div>
+      </header>
+      <div id="body">${a.html}</div>
+      <nav class="pager">
+        <div>${a.prev ? `<a href="#/a/${a.prev.id}"><small>${t('art.prev')}</small>${esc(a.prev.lemma)}</a>` : ''}</div>
+        <div class="nx">${a.next ? `<a href="#/a/${a.next.id}"><small>${t('art.next')}</small>${esc(a.next.lemma)}</a>` : ''}</div>
+      </nav>
+    </article>
+    <aside class="rail">
+      ${toc.length > 1 ? `<h4>${t('rail.sections')}</h4><ul class="toc">${toc.map(t => `<li class="l${t[2]}"><a href="#" data-to="${t[0]}">${esc(t[1])}</a></li>`).join('')}</ul>` : ''}
+      ${railList(t('rail.groups'), a.groups || [], g => `<li><a href="#/group/${g.id}">${esc(g.name)}</a></li>`, 8)}
+      ${railList(t('rail.reg_authors'), a.reg_authors || [], x => `<li><a href="#/author?name=${encodeURIComponent(x.name)}">${esc(x.name)}</a> <span class="n">${x.n}</span></li>`, 6)}
+      ${railList(t('rail.thinkers'), a.persons.filter(p => !p.editor && p.role !== 'scholar'), prs, 15)}
+      ${railList(t('rail.scholars'), a.persons.filter(p => !p.editor && p.role === 'scholar'), prs, 8)}
+      ${railList(t('rail.outlinks'), a.outlinks, lk, 12)}
+      ${railList(t('rail.mentions'), a.mentions || [], mn, 10)}
+      ${railList(t('rail.backlinks'), a.backlinks, lk, 12)}
+      ${railList(t('rail.see_also'), a.see_also, lk, 12)}
+      ${railList(t('rail.register'), a.register, reg, 15)}
+    </aside></div>`;
+  view.querySelectorAll('.rail .more').forEach(b => b.onclick = () => { b.previousElementSibling.hidden = false; b.remove(); });
+  view.querySelectorAll('.rail [data-to]').forEach(x => x.onclick = e => { e.preventDefault(); const t = document.getElementById(x.dataset.to); if (t) t.scrollIntoView({block: 'start'}); });
+  renderMath($('#body'));
+  applyStatic($('#body'));
+  document.body.classList.toggle('bookmode', !!store.get('cols', ''));
+  if (store.get('cols', '')) bookColumns($('#body'), a.col_from);
+  view.scrollTop = 0;
+  $('#colsbtn').onclick = async e => {
+    e.preventDefault();
+    const at = columnInView();                 // come back to the same column in the other layout
+    const on = !store.get('cols', ''); store.set('cols', on ? '1' : '');
+    document.body.classList.toggle('bookmode', on);
+    await route();
+    if (at) scrollToCol(at);
+  };
+  if (col) scrollToCol(col);
+  hits = []; hitIdx = -1;
+  if (pat) {
+    const pt = await getPattern(pat);
+    hits = markOccurrences(occurrences($('#body'), pt.source));
+    const label = pt.kind === 'person' ? pt.label : t('quote', {q: pt.label});
+    hitLabel = label;
+    $('#hc').textContent = hits.length ? t('hits.place_n', {label, n: hits.length}) : t('hits.place_none', {label});
+    $('#hp').onclick = () => gotoHit(-1); $('#hn').onclick = () => gotoHit(1);
+    if (hits.length) { hitIdx = Math.min(Math.max(k, 0), hits.length - 1) - 1; gotoHit(1); }
+  } else if (q) {
+    hitLabel = '';
+    const ap = new URLSearchParams(location.hash.split('?')[1] || '');
+    let hl = null;
+    try { hl = await api('/api/highlight?q=' + encodeURIComponent(q) + optsQuery({tol: ap.get('tol') === '1', cs: ap.get('case') === '1'})); } catch (e) {}
+    highlight($('#body'), hl && hl.source ? new RegExp(hl.source, 'gu') : queryRegex(q), hl && hl.case);
+    hits = [...view.querySelectorAll('#body mark:not(.um):not(.cf)')];
+    const wantW = ap.get('w'), wantK = +(ap.get('k') || 0);
+    if (wantW) {
+      // the place the list of places points to: the n-th match of that part of the article
+      const inPart = h => (h.closest('ol.notes') ? 'notes' : h.closest('.lit') ? 'lit' : 'body') === wantW;
+      const own = hits.filter(inPart), target = own[Math.min(wantK, own.length - 1)];
+      if (target) hitIdx = hits.indexOf(target) - 1;
+    } else if (ap.get('col')) {
+      // from the thematic search by columns: the first match in that column
+      const want = +ap.get('col'), a0 = curArticle ? curArticle.col_from : 0;
+      const target = hits.find(h => colAt(h.firstChild || h, $('#body'), a0) === want);
+      if (target) hitIdx = hits.indexOf(target) - 1;
+    }
+    $('#hc').textContent = hits.length ? t('hits.match_n', {n: hits.length}) : t('hits.match_none');
+    $('#hp').onclick = () => gotoHit(-1); $('#hn').onclick = () => gotoHit(1);
+    if (hits.length) gotoHit(1);
+    placeNav();
+  }
+  await applyFilters();
+  hintAbbrevs($('#body'));
+  // the reader's own marks, and the one asked for
+  paintMarks(a.id);
+  const want = new URLSearchParams(location.hash.split('?')[1] || '').get('mark');
+  if (want) {
+    const el = view.querySelector(`mark.um[data-mid="${want}"]`);
+    if (el) { el.scrollIntoView({block: 'center'}); openMarkCard(want); }
+  }
+  $('#toset').onclick = e => { e.preventDefault(); setMenu(e.target, async () => [a.id]); };
+  $('#cfbtn').onclick = e => { e.preventDefault(); const p = $('#cfpanel'); p.hidden = !p.hidden; store.set('cfopen', p.hidden ? '' : '1'); };
+}
+// formulas: KaTeX if it is there; otherwise the TeX source stays readable as text
+function renderMath(root) {
+  if (!window.katex) { setTimeout(() => window.katex && renderMath(root), 300); return; }
+  root.querySelectorAll('.m[data-tex], .md[data-tex]').forEach(el => {
+    try { katex.render(el.dataset.tex, el, {displayMode: el.classList.contains('md'), throwOnError: false}); } catch (e) {}
+  });
+}
+function gotoHit(d) {
+  if (!hits.length) return;
+  if (hitIdx >= 0) hits[hitIdx].classList.remove('cur');
+  hitIdx = (hitIdx + d + hits.length) % hits.length;
+  const h = hits[hitIdx]; h.classList.add('cur');
+  h.scrollIntoView({block: 'center'});
+  $('#hc').textContent = hitLabel ? t('hits.place_pos', {label: hitLabel, i: hitIdx + 1, n: hits.length}) : t('hits.match_pos', {i: hitIdx + 1, n: hits.length});
+}
+function highlight(root, rx, cs, cls) {
+  if (!rx) return;
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+  const nodes = []; let n;
+  while ((n = walker.nextNode())) if (n.nodeValue.trim() && !n.parentNode.closest('sup, .katex, .m, .md')) nodes.push(n);
+  for (const node of nodes) {
+    const text = node.nodeValue, [f, idx] = cs ? [text, Array.from({length: text.length}, (_, i) => i)] : foldMap(text);
+    rx.lastIndex = 0; const found = []; let m;
+    while ((m = rx.exec(f))) { if (!m[0].length) { rx.lastIndex++; continue; } found.push([idx[m.index], idx[m.index + m[0].length - 1] + 1]); }
+    if (!found.length) continue;
+    const frag = document.createDocumentFragment(); let pos = 0;
+    for (const [s, e] of found) {
+      if (s < pos) continue;
+      frag.appendChild(document.createTextNode(text.slice(pos, s)));
+      const mk = document.createElement('mark'); mk.textContent = text.slice(s, e); if (cls) mk.className = cls; frag.appendChild(mk);
+      pos = e;
+    }
+    frag.appendChild(document.createTextNode(text.slice(pos)));
+    node.parentNode.replaceChild(frag, node);
+  }
+}
+
+/* ---------- where a person or a concept stands in an article ---------- */
+// The same walk serves the snippets on a person's page and the marks in the article, so the n-th
+// snippet and the n-th mark are the same place.
+const patCache = new Map(), htmlCache = new Map();
+async function getPattern(spec) {            // 'p123' or 'c456'
+  if (!patCache.has(spec)) {
+    const q = spec[0] === 'p' ? 'pid=' + spec.slice(1) : 'concept=' + spec.slice(1);
+    patCache.set(spec, await api('/api/pattern?' + q));
+  }
+  return patCache.get(spec);
+}
+async function getArticleHtml(id) {
+  if (!htmlCache.has(id)) { const a = await api('/api/article/' + id); htmlCache.set(id, a.html); }
+  return htmlCache.get(id);
+}
+function textNodesOf(root) {
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT), out = []; let n;
+  while ((n = walker.nextNode())) if (n.nodeValue.trim() && !n.parentNode.closest('sup, .katex, .m, .md')) out.push(n);
+  return out;
+}
+function occurrences(root, source) {
+  const rx = new RegExp(source, 'gu'), out = [];
+  for (const node of textNodesOf(root)) {
+    rx.lastIndex = 0; let m;
+    while ((m = rx.exec(node.nodeValue))) { if (!m[0].length) { rx.lastIndex++; continue; } out.push({node, start: m.index, end: m.index + m[0].length}); }
+  }
+  return out;
+}
+function occPlace(o, root, first) {
+  const block = o.node.parentElement.closest('p, li, td, th, h3, .gap') || o.node.parentElement;
+  let where = 'body', note = '';
+  const li = block.closest('ol.notes > li');
+  if (li) { where = 'notes'; note = li.getAttribute('value') || ''; }
+  else if (block.classList.contains('lit') || block.closest('.lit')) where = 'lit';
+  // offset of the match inside the whole block text
+  const walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT); let n, off = 0, text = '';
+  while ((n = walker.nextNode())) { if (n === o.node) off = text.length; text += n.nodeValue; }
+  const s = off + o.start, e = off + o.end, W = 130;
+  const a = Math.max(0, s - W), b = Math.min(text.length, e + W);
+  const cut = (x, y) => esc(text.slice(x, y).replace(/\s+/g, ' '));
+  const col = root ? colAt(o.node, root, first) : 0;
+  return {where, note, col, html: (a > 0 ? '… ' : '') + cut(a, s) + '<mark>' + cut(s, e) + '</mark>' + cut(e, b) + (b < text.length ? ' …' : '')};
+}
+function markOccurrences(occ) {
+  // split text nodes from the end so that earlier offsets stay valid; returns marks in reading order
+  const byNode = new Map();
+  occ.forEach((o, i) => { if (!byNode.has(o.node)) byNode.set(o.node, []); byNode.get(o.node).push([o, i]); });
+  const marks = new Array(occ.length);
+  byNode.forEach(list => {
+    list.sort((x, y) => y[0].start - x[0].start);
+    for (const [o, i] of list) {
+      const tail = o.node.splitText(o.end), mid = o.node.splitText(o.start);
+      const mk = document.createElement('mark'); mk.className = 'pm';
+      mid.parentNode.replaceChild(mk, mid); mk.appendChild(mid);
+      marks[i] = mk; void tail;
+    }
+  });
+  return marks;
+}
+async function showOccurrences(tr, aid, spec) {
+  const next = tr.nextElementSibling;
+  if (next && next.classList.contains('occ')) { next.remove(); tr.classList.remove('open'); return; }
+  tr.classList.add('open');
+  const row = document.createElement('tr'); row.className = 'occ';
+  row.innerHTML = `<td colspan="7"><div class="occbox">${t('occ.loading')}</div></td>`;
+  tr.after(row);
+  const box = row.querySelector('.occbox');
+  try {
+    const [pat, html] = await Promise.all([getPattern(spec), getArticleHtml(aid)]);
+    const div = document.createElement('div'); div.innerHTML = html;
+    const lem = LEMMAS.find(r => r.id === aid);
+    const occ = occurrences(div, pat.source).map(o => occPlace(o, div, lem ? lem.col : 0));
+    if (!occ.length) { box.textContent = t('occ.none'); return; }
+    const groups = {body: [], notes: [], lit: []};
+    occ.forEach((o, i) => { o.k = i; groups[o.where].push(o); });
+    const whereText = o => (o.where === 'notes' ? t('occ.where_note', {n: o.note}) : o.where === 'lit' ? t('occ.where_lit') : t('occ.where_text')) + (o.col ? ', Sp. ' + o.col : '');
+    const item = o => `<li><a href="#/a/${aid}?pat=${spec}&k=${o.k}"><span class="w">${esc(whereText(o))}</span>${o.html}</a></li>`;
+    const sec = (t, arr) => arr.length ? `<h5>${t} <span class="n">${arr.length}</span></h5><ul>${arr.map(item).join('')}</ul>` : '';
+    box.innerHTML = sec(t('occ.in_text'), groups.body) + sec(t('occ.in_notes'), groups.notes) + sec(t('occ.in_lit'), groups.lit) +
+      `<p class="n">${t('occ.note')}</p>`;
+  } catch (e) { box.textContent = e.message; }
+}
+
+/* ---------- columns of the printed edition ---------- */
+// ⟦517⟧ in the source becomes <span class="col" data-col="517">: the running text and the notes each
+// mark where they continue on a new column; before the first mark of a flow it is the first column
+let curArticle = null;
+function colMarks(root, notes) {
+  return [...root.querySelectorAll('.col')].filter(m => !!m.closest('ol.notes') === notes);
+}
+function colAt(node, root, first) {
+  const el = node.nodeType === 1 ? node : node.parentElement;
+  const inNotes = !!(el && el.closest('ol.notes'));
+  let c = first;
+  for (const m of colMarks(root, inNotes)) {
+    if (m.compareDocumentPosition(node) & Node.DOCUMENT_POSITION_FOLLOWING) c = +m.dataset.col; else break;
+  }
+  return c;
+}
+// the column at a boundary point of a selection (container + offset, as a Range gives it): a mark
+// counts when it ends at or before the point
+function colAtPoint(container, offset, root, first) {
+  const el = container.nodeType === 1 ? (container.childNodes[offset] && container.childNodes[offset].nodeType === 1 ? container.childNodes[offset] : container) : container.parentElement;
+  const inNotes = !!(el && el.closest('ol.notes'));
+  const at = document.createRange(); at.setStart(container, offset); at.collapse(true);
+  let c = first;
+  for (const m of colMarks(root, inNotes)) {
+    const i = Array.prototype.indexOf.call(m.parentNode.childNodes, m);
+    if (at.comparePoint(m.parentNode, i + 1) <= 0) c = +m.dataset.col; else break;
+  }
+  return c;
+}
+// the column shown at the top of the reading area (the running text), in either layout
+function columnInView() {
+  const a = curArticle; if (!a) return 0;
+  const top = view.getBoundingClientRect().top + 80;
+  const secs = [...$('#body').querySelectorAll('.bookcols.text-flow .bcol')];
+  if (secs.length) {
+    const seen = secs.filter(x => x.getBoundingClientRect().top <= top);
+    return seen.length ? +seen[seen.length - 1].dataset.col : 0;
+  }
+  const marks = colMarks($('#body'), false).filter(m => m.getBoundingClientRect().top <= top);
+  return marks.length ? +marks[marks.length - 1].dataset.col : 0;
+}
+
+// The article laid out in the columns of the printed edition. A mark ⟦N⟧ stands where a screen page of
+// the digital edition begins in column N, and a column spans two or three such pages: a border found
+// this way can be off by up to about a third of a column, so the layout is approximate (said on hover).
+// The running text (with the literature) and the notes are laid out one after the other, each as its
+// own grid, so the order of the text in the document stays as it was: finding, marks and the reader's
+// own notes work unchanged. A paragraph that runs over a border is cut there; no text is added.
+function bookColumns(body, first) {
+  const tip = t('art.cols_approx');
+  const hasContent = f => f.textContent.trim() !== '' || !!(f.querySelector && f.querySelector('img,svg,table,.katex,figure'));
+  const splitFlow = nodes => {
+    const out = new Map(); let c = first;
+    const put = (col, n) => { if (!out.has(col)) out.set(col, []); out.get(col).push(n); };
+    for (const n of nodes) {
+      if (n.matches('.col')) { c = +n.dataset.col; put(c, n); continue; }
+      let cur = n;
+      for (const m of [...n.querySelectorAll('.col')]) {
+        const r = document.createRange(); r.setStart(cur, 0); r.setEndBefore(m);
+        const frag = r.extractContents();
+        if (hasContent(frag)) {
+          const piece = cur.cloneNode(false);
+          piece.append(frag);
+          if (cur.id) { piece.id = cur.id; cur.removeAttribute('id'); }
+          piece.classList.add('cut'); cur.classList.add('cont');
+          put(c, piece);
+        }
+        c = +m.dataset.col;
+      }
+      put(c, cur);
+    }
+    return out;
+  };
+  const grid = (cols, notes) => {
+    const nums = [...cols.keys()];
+    if (!nums.length) return null;
+    const lo = Math.min(...nums), hi = Math.max(...nums);
+    const g = document.createElement('div');
+    g.className = 'bookcols ' + (notes ? 'notes-flow' : 'text-flow');
+    const filled = n => (cols.get(n) || []).length > 0;
+    // one printed page per row, the odd column on the left; a page with nothing of this flow is left
+    // out (the notes of a part stand where that part ends), an empty half of a page stays blank
+    for (let n = lo - (lo % 2 ? 0 : 1); n <= hi; n += 2) {
+      if (!filled(n) && !filled(n + 1)) continue;
+      for (const k of [n, n + 1]) {
+        if (!filled(k)) { const blank = document.createElement('div'); blank.className = 'bcol' + (k % 2 ? ' l' : ''); g.append(blank); continue; }
+        const sec = document.createElement('section');
+        sec.className = 'bcol' + (k % 2 ? ' l' : ''); sec.dataset.col = k;
+        const h = document.createElement('div'); h.className = 'bc-h'; h.dataset.col = k; h.title = tip;
+        const box = document.createElement(notes ? 'ol' : 'div');
+        if (notes) box.className = 'notes';
+        cols.get(k).forEach(x => box.append(x));
+        sec.append(h, box);
+        g.append(sec);
+      }
+    }
+    return g;
+  };
+  // a table, a displayed formula or a picture wider than its column: the page it stands on is laid out
+  // one column under the other, each the full width (the pairs of the other pages stay as they are)
+  const tooWide = (e, w) => {
+    if (e.matches('figure.pic')) {
+      const svg = e.querySelector('svg'), img = e.querySelector('img');
+      const natural = svg ? parseFloat(svg.style.maxWidth) || 0 : img ? img.naturalWidth || 0 : 0;
+      return natural > w * 1.15;
+    }
+    return e.scrollWidth > e.clientWidth + 4;
+  };
+  const widen = g => {
+    if (!g) return;
+    const cells = [...g.children];
+    for (let i = 0; i + 1 < cells.length; i += 2) {
+      const page = [cells[i], cells[i + 1]];
+      const wide = page.some(c => c.matches('section') && [...c.querySelectorAll('.tbl, .md, figure.pic')].some(e => tooWide(e, c.children[1].clientWidth)));
+      if (wide) page.forEach(c => c.classList.add('wide'));
+    }
+  };
+  const kids = [...body.children];
+  const notesOl = kids.find(n => n.matches('ol.notes')), notesH = kids.find(n => n.id === 'notes');
+  const textGrid = grid(splitFlow(kids.filter(n => n !== notesOl && n !== notesH)), false);
+  const noteGrid = notesOl ? grid(splitFlow([...notesOl.children]), true) : null;
+  body.textContent = '';
+  if (textGrid) body.append(textGrid);
+  if (notesH) body.append(notesH);
+  if (noteGrid) body.append(noteGrid);
+  widen(textGrid); widen(noteGrid);
+  // a picture that is still loading has no width yet: look again once it has one
+  body.querySelectorAll('.bookcols figure.pic img').forEach(im => { if (!im.complete) im.addEventListener('load', () => { const g = im.closest('.bookcols'); g.querySelectorAll('.wide').forEach(x => x.classList.remove('wide')); widen(g); }, {once: true}); });
+}
+
+function scrollToCol(n) {
+  const a = curArticle; if (!a) return;
+  const sec = $('#body').querySelector(`.bookcols.text-flow .bcol[data-col="${n}"]`);
+  if (sec) {
+    sec.classList.add('flash'); sec.scrollIntoView({block: 'start'}); view.scrollTop -= 70;
+    setTimeout(() => sec.classList.remove('flash'), 4000);
+    return;
+  }
+  const marks = colMarks($('#body'), false).filter(m => +m.dataset.col <= n);
+  if (!marks.length || n <= a.col_from) { view.scrollTop = 0; return; }
+  const m = marks[marks.length - 1];
+  m.classList.add('target');
+  m.scrollIntoView({block: 'start'}); view.scrollTop -= 70;
+  setTimeout(() => m.classList.remove('target'), 4000);
+}
+function jumpTo(band, n) {
+  // the column begins in the article that runs into it (the earliest one covering it)
+  const hits = LEMMAS.filter(r => r.band === band && r.col <= n && n <= r.colTo).sort((x, y) => x.col - y.col);
+  if (!hits.length) return false;
+  location.hash = '#/a/' + hits[0].id + '?col=' + n;
+  return true;
+}
+$('#jump').addEventListener('submit', e => {
+  e.preventDefault();
+  const b = $('#jband').value, n = parseInt($('#jcol').value, 10);
+  const old = $('#jump .msg'); if (old) old.remove();
+  if (!b || !n) return;
+  if (!jumpTo(b, n)) $('#jump').insertAdjacentHTML('beforeend', `<span class="msg">${esc(t('jump.none', {b, c: n}))}</span>`);
+});
+// copying from an article carries its source: volume, columns and lemma, as in the CD edition
+document.addEventListener('copy', e => {
+  const sel = getSelection(), body = $('#body'), a = curArticle;
+  if (!sel.rangeCount || !body || !a || curId !== a.id) return;
+  const r = sel.getRangeAt(0);
+  if (!body.contains(r.commonAncestorContainer)) return;
+  const text = sel.toString();
+  if (!text.trim()) return;
+  const c1 = colAtPoint(r.startContainer, r.startOffset, body, a.col_from);
+  const c2 = Math.max(c1, colAtPoint(r.endContainer, r.endOffset, body, a.col_from));
+  const cite = `HWPh, Bd. ${a.band}, Sp. ${c1}${c2 > c1 ? '–' + c2 : ''}, Art. ‹${a.lemma}›`;
+  e.clipboardData.setData('text/plain', text.replace(/\s+$/, '') + '\n\n' + cite);
+  e.preventDefault();
+});
+
+/* ---------- the reader's own work: marks, notes, selections (kept in this browser) ---------- */
+// One object in localStorage ('hwph.work'); a file can carry it to another browser or computer.
+const WORK = (() => {
+  let w = null;
+  try { w = JSON.parse(store.get('work', '') || 'null'); } catch (e) {}
+  w = w || {};
+  w.marks = w.marks || []; w.notes = w.notes || []; w.sets = w.sets || [];
+  return w;
+})();
+function saveWork() { store.set('work', JSON.stringify(WORK)); }
+const newId = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
+const MARK_COLORS = [1, 2, 3, 4];
+
+// the text of an article as one string, with the text node and offset of every character run
+function bodyText(root) {
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT), nodes = []; let n, pos = 0, s = '';
+  while ((n = walker.nextNode())) {
+    if (n.parentNode.closest('.katex-mathml')) continue;
+    nodes.push([n, pos]); s += n.nodeValue; pos += n.nodeValue.length;
+  }
+  return {text: s, nodes};
+}
+function textIndex(bt, node, offset) {
+  // (container, offset) of a Range -> index in bt.text
+  if (node.nodeType === 3) { const e = bt.nodes.find(x => x[0] === node); if (e) return e[1] + offset; }
+  const r = document.createRange(); r.setStart(node, offset); r.collapse(true);
+  for (const [tn, p] of bt.nodes) if (r.comparePoint(tn, 0) >= 0) return p;
+  return bt.text.length;
+}
+function wrapRange(bt, s, e, make) {
+  // wrap the characters [s, e) of the text into elements, one per text node they touch
+  const out = [];
+  for (let i = bt.nodes.length - 1; i >= 0; i--) {
+    const [n, p] = bt.nodes[i], L = n.nodeValue.length;
+    const a = Math.max(s, p), b = Math.min(e, p + L);
+    if (a >= b) continue;
+    const tail = n.splitText(b - p); void tail;
+    const mid = n.splitText(a - p);
+    const el = make(); mid.parentNode.replaceChild(el, mid); el.appendChild(mid); out.unshift(el);
+  }
+  return out;
+}
+function paintMarks(aid) {
+  const body = $('#body'); if (!body) return;
+  const mine = WORK.marks.filter(m => m.aid === aid);
+  for (const m of mine) {
+    const bt = bodyText(body);
+    // the quote where its context fits best (the article may have been rebuilt meanwhile)
+    let best = -1, bestScore = -1, i = bt.text.indexOf(m.quote);
+    while (i >= 0) {
+      let sc = 0;
+      const pre = bt.text.slice(Math.max(0, i - m.prefix.length), i), suf = bt.text.slice(i + m.quote.length, i + m.quote.length + m.suffix.length);
+      while (sc < pre.length && pre[pre.length - 1 - sc] === m.prefix[m.prefix.length - 1 - sc]) sc++;
+      let k = 0; while (k < suf.length && suf[k] === m.suffix[k]) k++;
+      if (sc + k > bestScore) { bestScore = sc + k; best = i; }
+      i = bt.text.indexOf(m.quote, i + 1);
+    }
+    if (best < 0) continue;
+    wrapRange(bt, best, best + m.quote.length, () => {
+      const el = document.createElement('mark'); el.className = 'um um' + m.color; el.dataset.mid = m.id;
+      if (m.comment) el.title = m.comment;
+      return el;
+    });
+  }
+}
+function selectionInBody() {
+  const sel = getSelection(), body = $('#body');
+  if (!sel.rangeCount || !body || sel.isCollapsed) return null;
+  const r = sel.getRangeAt(0);
+  if (!body.contains(r.commonAncestorContainer)) return null;
+  return r;
+}
+function citeOf(a, c1, c2) { return `HWPh, Bd. ${a.band}, Sp. ${c1}${c2 > c1 ? '–' + c2 : ''}, Art. ‹${a.lemma}›`; }
+function addMark(color) {
+  const r = selectionInBody(), a = curArticle; if (!r || !a) return;
+  const bt = bodyText($('#body'));
+  let s = textIndex(bt, r.startContainer, r.startOffset), e = textIndex(bt, r.endContainer, r.endOffset);
+  while (s < e && /\s/.test(bt.text[s])) s++;
+  while (e > s && /\s/.test(bt.text[e - 1])) e--;
+  if (e <= s) return;
+  const c1 = colAtPoint(r.startContainer, r.startOffset, $('#body'), a.col_from);
+  const c2 = Math.max(c1, colAtPoint(r.endContainer, r.endOffset, $('#body'), a.col_from));
+  const m = {id: newId(), aid: a.id, lemma: a.lemma, band: a.band, col: c1, col2: c2, color,
+             quote: bt.text.slice(s, e), prefix: bt.text.slice(Math.max(0, s - 40), s), suffix: bt.text.slice(e, e + 40),
+             comment: '', created: new Date().toISOString().slice(0, 16).replace('T', ' ')};
+  WORK.marks.push(m); saveWork();
+  getSelection().removeAllRanges(); hideSelTool();
+  wrapRange(bt, s, e, () => { const el = document.createElement('mark'); el.className = 'um um' + color; el.dataset.mid = m.id; return el; });
+  openMarkCard(m.id);
+}
+function toNotes() {
+  const r = selectionInBody(), a = curArticle; if (!r || !a) return;
+  const text = getSelection().toString().trim();
+  const c1 = colAtPoint(r.startContainer, r.startOffset, $('#body'), a.col_from);
+  const c2 = Math.max(c1, colAtPoint(r.endContainer, r.endOffset, $('#body'), a.col_from));
+  let note = WORK.notes.find(n => n.id === WORK.curNote);
+  if (!note) { note = {id: newId(), text: '', updated: ''}; WORK.notes.unshift(note); WORK.curNote = note.id; }
+  note.text = (note.text ? note.text.replace(/\s+$/, '') + '\n\n' : '') + '„' + text + '“\n— ' + citeOf(a, c1, c2);
+  note.updated = new Date().toISOString().slice(0, 16).replace('T', ' ');
+  saveWork();
+  getSelection().removeAllRanges(); hideSelTool();
+  flash(t('work.to_notes_done'));
+}
+function flash(msg) {
+  let el = $('#flash');
+  if (!el) { el = document.createElement('div'); el.id = 'flash'; document.body.appendChild(el); }
+  el.textContent = msg; el.classList.add('on');
+  clearTimeout(el._t); el._t = setTimeout(() => el.classList.remove('on'), 2200);
+}
+// the little bar over a selection in an article
+const selTool = document.createElement('div');
+selTool.id = 'seltool';
+document.body.appendChild(selTool);
+function hideSelTool() { selTool.style.display = 'none'; }
+function showSelTool() {
+  const r = selectionInBody();
+  if (!r) { hideSelTool(); return; }
+  const rect = r.getBoundingClientRect();
+  selTool.innerHTML = MARK_COLORS.map(c => `<button class="dot um${c}" data-c="${c}" title="${t('work.mark_color')}"></button>`).join('') +
+    `<button data-a="note" title="${t('work.to_notes')}">✎</button><button data-a="find" title="${t('work.find_sel')}">⌕</button><button data-a="reg" title="${t('work.find_reg')}">R</button><button data-a="abbr" title="${t('work.find_abbr')}">Abk.</button>`;
+  selTool.style.display = 'flex';
+  const w = selTool.offsetWidth;
+  selTool.style.left = Math.max(8, Math.min(window.innerWidth - w - 8, rect.left + rect.width / 2 - w / 2)) + 'px';
+  selTool.style.top = Math.max(56, rect.top - 40) + 'px';
+}
+selTool.addEventListener('mousedown', e => e.preventDefault());          // keep the selection
+selTool.addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  if (b.dataset.c) return addMark(+b.dataset.c);
+  const text = getSelection().toString().trim().replace(/\s+/g, ' ').slice(0, 200);
+  if (b.dataset.a === 'note') return toNotes();
+  hideSelTool();
+  if (b.dataset.a === 'find') location.hash = '#/s?' + new URLSearchParams({q: '"' + text + '"'});
+  if (b.dataset.a === 'reg') location.hash = '#/s?' + new URLSearchParams({q: text, scope: 'register'});
+  if (b.dataset.a === 'abbr') location.hash = '#/abbrevs?' + new URLSearchParams({q: text});
+});
+document.addEventListener('mouseup', e => { if (!selTool.contains(e.target)) setTimeout(showSelTool, 10); });
+document.addEventListener('keyup', e => { if (e.key === 'Shift' || e.key.startsWith('Arrow')) showSelTool(); });
+view.addEventListener('scroll', hideSelTool);
+
+// a mark's card: colour, comment, delete
+function openMarkCard(mid) {
+  const m = WORK.marks.find(x => x.id === mid); if (!m) return;
+  const el = view.querySelector(`mark.um[data-mid="${mid}"]`);
+  let card = $('#markcard');
+  if (!card) { card = document.createElement('div'); card.id = 'markcard'; document.body.appendChild(card); }
+  card.innerHTML = `<div class="mc-colors">${MARK_COLORS.map(c => `<button class="dot um${c}${c === m.color ? ' on' : ''}" data-c="${c}"></button>`).join('')}
+      <span class="n">Sp. ${m.col}${m.col2 > m.col ? '–' + m.col2 : ''}</span><button class="x" title="${t('work.close')}">×</button></div>
+    <textarea placeholder="${t('work.comment_ph')}">${esc(m.comment || '')}</textarea>
+    <div class="mc-acts"><button data-a="del">${t('work.delete_mark')}</button><a href="#/marks">${t('work.all_marks')}</a></div>`;
+  const rect = (el || view).getBoundingClientRect();
+  card.style.display = 'block';
+  card.style.left = Math.max(8, Math.min(window.innerWidth - card.offsetWidth - 8, rect.left)) + 'px';
+  card.style.top = Math.min(window.innerHeight - card.offsetHeight - 8, rect.bottom + 6) + 'px';
+  const ta = card.querySelector('textarea');
+  ta.oninput = () => { m.comment = ta.value; saveWork(); view.querySelectorAll(`mark.um[data-mid="${mid}"]`).forEach(x => { x.title = m.comment; }); };
+  card.querySelectorAll('[data-c]').forEach(b => b.onclick = () => {
+    m.color = +b.dataset.c; saveWork();
+    view.querySelectorAll(`mark.um[data-mid="${mid}"]`).forEach(x => { x.className = 'um um' + m.color; });
+    card.querySelectorAll('[data-c]').forEach(x => x.classList.toggle('on', +x.dataset.c === m.color));
+  });
+  card.querySelector('[data-a="del"]').onclick = () => {
+    WORK.marks.splice(WORK.marks.indexOf(m), 1); saveWork();
+    view.querySelectorAll(`mark.um[data-mid="${mid}"]`).forEach(x => x.replaceWith(...x.childNodes));
+    card.style.display = 'none';
+  };
+  card.querySelector('.x').onclick = () => { card.style.display = 'none'; };
+  ta.focus();
+}
+view.addEventListener('click', e => {
+  const mk = e.target.closest('mark.um');
+  if (mk && !getSelection().toString()) openMarkCard(mk.dataset.mid);
+});
+window.addEventListener('hashchange', () => { const c = $('#markcard'); if (c) c.style.display = 'none'; hideSelTool(); });
+
+// ---- pages of one's own work
+function workTabs(cur) {
+  return `<div class="worktabs">${['marks', 'notes', 'sets'].map(k => `<a href="#/${k}" class="${k === cur ? 'on' : ''}">${t('work.tab_' + k)}</a>`).join('')}
+    <span class="sp"></span><button class="btn" id="wexp">${t('work.export')}</button><label class="btn">${t('work.import')}<input type="file" id="wimp" accept=".json,application/json" hidden></label></div>`;
+}
+function wireWorkTabs() {
+  $('#wexp').onclick = () => {
+    const blob = new Blob([JSON.stringify({hwph_work: 1, marks: WORK.marks, notes: WORK.notes, sets: WORK.sets}, null, 1)], {type: 'application/json'});
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+    a.download = 'hwph-work-' + new Date().toISOString().slice(0, 10) + '.json'; document.body.appendChild(a); a.click(); a.remove();
+  };
+  $('#wimp').onchange = async e => {
+    const f = e.target.files[0]; if (!f) return;
+    let d; try { d = JSON.parse(await f.text()); } catch (x) { flash(t('work.import_bad')); return; }
+    if (!d || !d.hwph_work) { flash(t('work.import_bad')); return; }
+    let n = 0;
+    for (const k of ['marks', 'notes', 'sets']) for (const x of d[k] || []) {
+      const have = WORK[k].find(y => y.id === x.id);
+      if (!have) { WORK[k].push(x); n++; }
+    }
+    saveWork(); flash(t('work.import_done', {n})); route();
+  };
+}
+function showMarks(params) {
+  curId = null; markCurrent();
+  document.title = t('work.tab_marks') + ' — HWPh';
+  const col = +(params.get('c') || 0);
+  const list = WORK.marks.filter(m => !col || m.color === col).slice().sort((a, b) => (a.lemma < b.lemma ? -1 : a.lemma > b.lemma ? 1 : a.col - b.col));
+  view.innerHTML = `<div class="page wide"><div class="results">${workTabs('marks')}
+    <h2>${t('work.tab_marks')}</h2>
+    <div class="sub">${t('work.marks_note')}</div>
+    <div class="tools"><a href="#/marks" class="${col ? '' : 'on'}">${t('work.all_colors')}</a>${MARK_COLORS.map(c => `<a href="#/marks?c=${c}" class="dotlink${col === c ? ' on' : ''}"><span class="dot um${c}"></span> ${WORK.marks.filter(m => m.color === c).length}</a>`).join('')}</div>
+    ${list.length ? `<ul class="marklist">${list.map(m => `<li><span class="dot um${m.color}"></span>
+      <div><a href="#/a/${m.aid}?mark=${m.id}">${esc(m.lemma)}</a> <span class="n">Bd. ${esc(m.band)}, Sp. ${m.col}${m.col2 > m.col ? '–' + m.col2 : ''} · ${esc(m.created || '')}</span>
+      <div class="q">„${esc(m.quote.length > 400 ? m.quote.slice(0, 400) + ' …' : m.quote)}“</div>${m.comment ? `<div class="cm">${esc(m.comment)}</div>` : ''}</div>
+      <button class="x" data-del="${m.id}" title="${t('work.delete_mark')}">×</button><input type="checkbox" class="msel" data-m="${m.id}"></li>`).join('')}</ul>
+      <div class="tools"><button class="btn" id="mcopy">${t('list.copy_sel')}</button><button class="btn" id="mcopyall">${t('list.copy_all')}</button></div>` : `<p>${t('work.marks_none')}</p>`}
+  </div></div>`;
+  wireWorkTabs();
+  view.querySelectorAll('[data-del]').forEach(b => b.onclick = () => { const i = WORK.marks.findIndex(m => m.id === b.dataset.del); if (i >= 0) WORK.marks.splice(i, 1); saveWork(); route(); });
+  const markLine = m => `„${m.quote}“ — ${citeOf(m, m.col, m.col2 || m.col)}${m.comment ? '\n   ' + m.comment : ''}`;
+  if ($('#mcopy')) {
+    $('#mcopy').onclick = () => { const ids = new Set([...view.querySelectorAll('.msel:checked')].map(c => c.dataset.m)); const s = list.filter(m => ids.has(m.id)); if (s.length) copyText(s.map(markLine).join('\n')); };
+    $('#mcopyall').onclick = () => copyText(list.map(markLine).join('\n'));
+  }
+  view.scrollTop = 0;
+}
+function showNotes(params) {
+  curId = null; markCurrent();
+  document.title = t('work.tab_notes') + ' — HWPh';
+  const id = params.get('id') || WORK.curNote || (WORK.notes[0] && WORK.notes[0].id);
+  const cur = WORK.notes.find(n => n.id === id);
+  if (cur) WORK.curNote = cur.id;
+  const title = n => (n.text.trim().split('\n')[0] || t('work.note_empty')).slice(0, 60);
+  view.innerHTML = `<div class="page wide"><div class="results">${workTabs('notes')}
+    <div class="notes"><div class="nlist"><button class="btn" id="nnew">${t('work.note_new')}</button>
+      <ul>${WORK.notes.map(n => `<li class="${cur && n.id === cur.id ? 'on' : ''}"><a href="#/notes?id=${n.id}">${esc(title(n))}</a><span class="n">${esc(n.updated || '')}</span></li>`).join('')}</ul></div>
+    <div class="nedit">${cur ? `<textarea id="ntext" spellcheck="true" placeholder="${t('work.note_ph')}">${esc(cur.text)}</textarea>
+      <div class="tools"><span class="n">${t('work.note_hint')}</span><span class="sp"></span><button class="btn" id="ndel">${t('work.note_delete')}</button></div>` : `<p>${t('work.notes_none')}</p>`}</div></div>
+  </div></div>`;
+  wireWorkTabs();
+  $('#nnew').onclick = () => { const n = {id: newId(), text: '', updated: ''}; WORK.notes.unshift(n); WORK.curNote = n.id; saveWork(); location.hash = '#/notes?id=' + n.id; };
+  if (cur) {
+    const ta = $('#ntext');
+    ta.oninput = () => { cur.text = ta.value; cur.updated = new Date().toISOString().slice(0, 16).replace('T', ' '); saveWork(); };
+    $('#ndel').onclick = () => { if (!confirm(t('work.note_delete_q'))) return; WORK.notes.splice(WORK.notes.indexOf(cur), 1); WORK.curNote = null; saveWork(); location.hash = '#/notes'; };
+  }
+  saveWork();
+  view.scrollTop = 0;
+}
+function setById(id) { return WORK.sets.find(s => s.id === id); }
+function showSets() {
+  curId = null; markCurrent();
+  document.title = t('work.tab_sets') + ' — HWPh';
+  view.innerHTML = `<div class="page wide"><div class="results">${workTabs('sets')}
+    <h2>${t('work.tab_sets')}</h2><div class="sub">${t('work.sets_note')}</div>
+    <div class="tools"><input id="snew" placeholder="${t('work.set_name_ph')}"><button class="btn" id="snewb" style="margin:0">${t('work.set_new')}</button></div>
+    ${WORK.sets.length ? `<ul class="glist2">${WORK.sets.map(s => `<li><a href="#/set/${s.id}">${esc(s.name)}</a> <span class="n">${s.aids.length}</span></li>`).join('')}</ul>` : `<p>${t('work.sets_none')}</p>`}
+  </div></div>`;
+  wireWorkTabs();
+  $('#snewb').onclick = () => { const name = $('#snew').value.trim(); if (!name) return; const s = {id: newId(), name, aids: []}; WORK.sets.push(s); saveWork(); location.hash = '#/set/' + s.id; };
+  view.scrollTop = 0;
+}
+function showSet(id) {
+  curId = null; markCurrent();
+  const s = setById(id);
+  if (!s) { location.hash = '#/sets'; return; }
+  document.title = s.name + ' — HWPh';
+  const byId = new Map(LEMMAS.map(r => [r.id, r]));
+  const items = s.aids.map(a => byId.get(a)).filter(Boolean).sort((a, b) => (a.f < b.f ? -1 : 1));
+  view.innerHTML = `<div class="page wide"><div class="results">${workTabs('sets')}
+    <h2>${esc(s.name)}</h2><div class="sub">${t('n.articles', {n: items.length})} · <a href="#/sets">${t('work.all_sets')}</a></div>
+    <div class="tools"><input type="search" id="ssq" placeholder="${t('work.set_search_ph')}" autocomplete="off"><button class="btn" id="ssgo" style="margin:0">${t('groups.search')}</button>
+      <span class="sp"></span><button class="btn" id="sren">${t('work.set_rename')}</button><button class="btn" id="sdel">${t('work.set_delete')}</button></div>
+    ${items.length ? `<ul class="glist2 items">${items.map(r => `<li><a href="#/a/${r.id}">${esc(r.lemma)}</a> <span class="n">${esc(r.band)}, ${r.col}</span> <button class="x" data-rm="${r.id}" title="${t('work.set_remove')}">×</button></li>`).join('')}</ul>` : `<p>${t('work.set_empty')}</p>`}
+  </div></div>`;
+  wireWorkTabs();
+  const go = () => { const q = $('#ssq').value.trim(); if (q) location.hash = '#/s?' + new URLSearchParams({q, set: s.id}).toString() + optsQuery(); };
+  $('#ssgo').onclick = go; $('#ssq').onkeydown = e => { if (e.key === 'Enter') go(); };
+  $('#sren').onclick = () => { const n = prompt(t('work.set_rename'), s.name); if (n && n.trim()) { s.name = n.trim(); saveWork(); route(); } };
+  $('#sdel').onclick = () => { if (confirm(t('work.set_delete_q'))) { WORK.sets.splice(WORK.sets.indexOf(s), 1); saveWork(); location.hash = '#/sets'; } };
+  view.querySelectorAll('[data-rm]').forEach(b => b.onclick = () => { s.aids = s.aids.filter(a => a !== +b.dataset.rm); saveWork(); route(); });
+  view.scrollTop = 0;
+}
+// "+ to a selection": one article or everything a search found
+function setMenu(anchor, addIds) {
+  let menu = $('#setmenu');
+  if (!menu) { menu = document.createElement('div'); menu.id = 'setmenu'; document.body.appendChild(menu); }
+  menu.innerHTML = WORK.sets.map(s => `<button data-s="${s.id}">${esc(s.name)} <span class="n">${s.aids.length}</span></button>`).join('') +
+    `<div class="newset"><input placeholder="${t('work.set_name_ph')}"><button data-new="1">${t('work.set_new')}</button></div>`;
+  const r = anchor.getBoundingClientRect();
+  menu.style.display = 'block'; menu.style.left = Math.min(window.innerWidth - 260, r.left) + 'px'; menu.style.top = (r.bottom + 4) + 'px';
+  const done = async s => {
+    const ids = await addIds();
+    const before = s.aids.length;
+    s.aids = [...new Set(s.aids.concat(ids))]; saveWork();
+    menu.style.display = 'none';
+    flash(t('work.set_added', {n: s.aids.length - before, name: s.name}));
+  };
+  menu.querySelectorAll('[data-s]').forEach(b => b.onclick = () => done(setById(b.dataset.s)));
+  menu.querySelector('[data-new]').onclick = () => {
+    const name = menu.querySelector('input').value.trim(); if (!name) return;
+    const s = {id: newId(), name, aids: []}; WORK.sets.push(s); done(s);
+  };
+  setTimeout(() => document.addEventListener('mousedown', function off(e) { if (!menu.contains(e.target)) { menu.style.display = 'none'; document.removeEventListener('mousedown', off); } }), 0);
+}
+
+/* ---------- colour filters: up to four expressions marked at once, in every article ---------- */
+const CF_N = 4;
+function cfTerms() { try { const v = JSON.parse(store.get('filters', '[]')); return Array.isArray(v) ? v : []; } catch (e) { return []; } }
+async function applyFilters() {
+  const art = $('#body'); if (!art) return;
+  const terms = cfTerms();
+  const panel = document.createElement('div');
+  panel.id = 'cfpanel'; panel.hidden = !store.get('cfopen', '');
+  panel.innerHTML = `<div class="cfhead">${t('cf.title')}</div>` + Array.from({length: CF_N}, (_, i) =>
+    `<label class="cf cf${i + 1}"><span class="sw"></span><input data-i="${i}" value="${esc(terms[i] || '')}" placeholder="${t('cf.ph')}"><span class="n" id="cfn${i}"></span></label>`).join('') +
+    `<button class="btn" id="cfapply">${t('cf.apply')}</button><button class="btn" id="cfclear">${t('cf.clear')}</button>`;
+  const head = view.querySelector('article header.head') || art;
+  head.after(panel);
+  const o = searchOpts();
+  for (let i = 0; i < CF_N; i++) {
+    const q = (terms[i] || '').trim(); if (!q) continue;
+    let hl = null;
+    try { hl = await api('/api/highlight?q=' + encodeURIComponent(q) + optsQuery(o)); } catch (e) {}
+    if (!hl || !hl.source) continue;
+    highlight(art, new RegExp(hl.source, 'gu'), hl.case, 'cf cf' + (i + 1));
+    $('#cfn' + i).textContent = art.querySelectorAll('mark.cf' + (i + 1)).length;
+  }
+  $('#cfapply').onclick = () => { store.set('filters', JSON.stringify([...panel.querySelectorAll('input')].map(x => x.value.trim()))); route(); };
+  $('#cfclear').onclick = () => { store.set('filters', '[]'); route(); };
+  panel.querySelectorAll('input').forEach(x => x.onkeydown = e => { if (e.key === 'Enter') $('#cfapply').click(); });
+}
+
+/* ---------- thematic search: where a list of words is densest ---------- */
+async function showTheme(params) {
+  curId = null; markCurrent();
+  document.title = t('theme.title') + ' — HWPh';
+  const q = params.get('q') || '', o = {tol: params.get('tol') === '1', cs: params.get('case') === '1'};
+  const unit = params.get('unit') === 'col' ? 'col' : 'article';
+  const r = q ? await api('/api/theme?q=' + encodeURIComponent(q) + optsQuery(o) + (unit === 'col' ? '&unit=col' : '')) : null;
+  const max = r && r.items.length ? r.items[0].score : 1;
+  const hq = r ? encodeURIComponent(r.terms.map(x => /\s/.test(x) && !/^".*"$/.test(x) ? '"' + x + '"' : x).join(' OR ')) : '';
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('theme.title')}</h2>
+    <div class="sub">${t('theme.note')}</div>
+    <div class="theme-form"><textarea id="thq" rows="6" placeholder="${t('theme.ph')}">${esc(q)}</textarea>
+      <div class="tools"><label><input type="checkbox" id="thtol" ${o.tol ? 'checked' : ''}> ${t('opt.tol')}</label>
+      <label><input type="checkbox" id="thcase" ${o.cs ? 'checked' : ''}> ${t('opt.case')}</label>
+      <select id="thunit" title="${t('theme.unit_title')}"><option value="article">${t('theme.unit_article')}</option><option value="col" ${unit === 'col' ? 'selected' : ''}>${t('theme.unit_col')}</option></select>
+      <button class="btn" id="thgo" style="margin:0">${t('theme.go')}</button></div></div>
+    ${r ? `<div class="sub">${unit === 'col' ? t('theme.n_cols', {n: r.total}) : t('n.articles', {n: r.total})}${r.cut ? ' · ' + t('search.cut', {n: 300}) : ''} <button class="btn" id="thcopy" style="margin:0 0 0 10px">${t('list.copy_all')}</button></div>
+      <table class="plist theme"><tr><th></th><th></th>${r.terms.map(x => `<th class="num">${esc(x)}</th>`).join('')}</tr>
+      ${r.items.map(it => `<tr><td class="nm"><a href="#/a/${it.id}?q=${hq}${optsQuery(o)}${unit === 'col' ? '&col=' + it.col : ''}">${esc(it.lemma)}</a> <span class="n">${esc(it.band)}, ${unit === 'col' ? 'Sp. ' + it.col : it.col_from}</span></td>
+        <td class="bar"><span class="b"><span style="width:${(100 * it.score / max).toFixed(1)}%"></span></span><em>${Math.round(100 * it.score / max)} %</em></td>
+        ${it.counts.map(c => `<td class="num">${c || ''}</td>`).join('')}</tr>`).join('')}</table>` : ''}
+  </div></div>`;
+  $('#thgo').onclick = () => {
+    const p = new URLSearchParams({q: $('#thq').value.trim()});
+    if ($('#thtol').checked) p.set('tol', '1');
+    if ($('#thcase').checked) p.set('case', '1');
+    if ($('#thunit').value === 'col') p.set('unit', 'col');
+    location.hash = '#/theme?' + p.toString();
+  };
+  view.scrollTop = 0;
+}
+
+/* ---------- lists of abbreviations and signs (PDF pp. 199–218) ---------- */
+let ABBR = null;
+async function abbrevs() { if (!ABBR) ABBR = await api('/api/abbrevs'); return ABBR; }
+async function showAbbrevs(params) {
+  curId = null; markCurrent();
+  document.title = t('abbr.title') + ' — HWPh';
+  const d = await abbrevs(), q = (params.get('q') || '').trim();
+  const f = fold(q), hit = x => !f || fold(x).includes(f);
+  const secs = d.abbreviations.map(sec => ({title: sec.title, items: sec.items.filter(it => hit(it.a) || hit(it.text))})).filter(s => s.items.length);
+  const syms = d.symbols.map(sec => ({title: sec.title, note: sec.note, groups: sec.groups.map(g => ({title: g.title, items: g.items.filter(it => hit(it.slice(0, 3).join(' ')))})).filter(g => g.items.length)})).filter(s => s.groups.length);
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('abbr.title')}</h2>
+    <div class="sub">${t('abbr.note')}</div>
+    <div class="tools"><input type="search" id="abq" placeholder="${t('abbr.ph')}" value="${esc(q)}" autocomplete="off"></div>
+    ${secs.map(sec => `<h3>${esc(sec.title)}</h3><table class="plist abbr">${sec.items.map(it => `<tr><td class="ab">${esc(it.a)}</td><td>${esc(it.text)}</td></tr>`).join('')}</table>`).join('')}
+    ${syms.length ? `<h2 class="sym-h">${t('abbr.signs')}</h2>` : ''}
+    ${syms.map(sec => `<h3>${esc(sec.title)}</h3>${sec.note ? `<div class="sub">${esc(sec.note)}</div>` : ''}${sec.groups.map(g => `${g.title ? `<h4>${esc(g.title)}</h4>` : ''}<table class="plist abbr sym">${g.items.map(it => `<tr><td class="ab">${it[3] ? `<span class="symsvg" title="${t('abbr.picture')}">${it[3]}${/x$/.test(it[0]) ? '<i>x</i>' : ''}</span><span class="symchar">${esc(it[0])}</span>` : esc(it[0])}</td><td>${esc(it[1])}</td><td class="n">${esc(it[2] || '')}</td></tr>`).join('')}</table>`).join('')}`).join('')}
+    ${!secs.length && !syms.length ? `<p>${t('abbr.none')}</p>` : ''}</div></div>`;
+  let tm; $('#abq').oninput = e => { clearTimeout(tm); tm = setTimeout(() => { location.hash = '#/abbrevs' + (e.target.value.trim() ? '?q=' + encodeURIComponent(e.target.value.trim()) : ''); }, 350); };
+  if (q) { const inp = $('#abq'); inp.focus(); inp.setSelectionRange(inp.value.length, inp.value.length); }
+}
+// in notes and bibliographies the sigla and periodicals of the list get their expansion on hover
+async function hintAbbrevs(root) {
+  let d; try { d = await abbrevs(); } catch (e) { return; }
+  const items = [].concat(...d.abbreviations.slice(0, 2).map(s => s.items)).filter(it => it.a.length >= 2);
+  if (!items.length) return;
+  if (!hintAbbrevs.rx) {
+    hintAbbrevs.map = new Map(items.map(it => [it.a.replace(/\d+$/, ''), it.text]));
+    const alts = [...hintAbbrevs.map.keys()].sort((a, b) => b.length - a.length).map(a => a.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+'));
+    hintAbbrevs.rx = new RegExp('(?<![\\p{L}\\p{N}])(?:' + alts.join('|') + ')(?![\\p{L}])', 'gu');
+  }
+  const blocks = [...root.querySelectorAll('ol.notes li, .lit')];
+  for (const b of blocks) {
+    const walker = document.createTreeWalker(b, NodeFilter.SHOW_TEXT), nodes = []; let n;
+    while ((n = walker.nextNode())) if (!n.parentNode.closest('abbr, mark, sup, .katex')) nodes.push(n);
+    for (const node of nodes) {
+      const rx = hintAbbrevs.rx; rx.lastIndex = 0; const text = node.nodeValue; let m, pos = 0; const frag = document.createDocumentFragment(); let any = false;
+      while ((m = rx.exec(text))) {
+        const full = hintAbbrevs.map.get(m[0].replace(/\s+/g, ' '));
+        if (!full) continue;
+        any = true;
+        frag.appendChild(document.createTextNode(text.slice(pos, m.index)));
+        const ab = document.createElement('abbr'); ab.title = full; ab.textContent = m[0]; frag.appendChild(ab);
+        pos = m.index + m[0].length;
+      }
+      if (!any) continue;
+      frag.appendChild(document.createTextNode(text.slice(pos)));
+      node.parentNode.replaceChild(frag, node);
+    }
+  }
+}
+
+/* ---------- the article list of the PDF (pp. 1–85) against the articles found ---------- */
+async function showChecklist() {
+  curId = null; markCurrent();
+  document.title = t('check.title') + ' — HWPh';
+  const r = await api('/api/checklist');
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('check.title')}</h2>
+    <div class="sub">${t('check.note', {total: r.total, missing: r.missing.length, extra: r.not_listed.length})}</div>
+    <h3>${t('check.missing')} <span class="n">${r.missing.length}</span></h3>
+    <table class="plist">${r.missing.map(x => `<tr><td class="nm">${esc(x.lemma)}</td><td class="n">${esc(x.zh)}</td><td class="num"><a href="#/s?q=${encodeURIComponent('"' + x.lemma.split(/[,;(]/)[0].trim() + '"')}">${t('check.find')}</a></td><td class="num">Bd. ${esc(x.band)}, Sp. ${x.col}</td></tr>`).join('')}</table>
+    <h3>${t('check.extra')} <span class="n">${r.not_listed.length}</span></h3>
+    <table class="plist">${r.not_listed.map(x => `<tr><td class="nm"><a href="#/a/${x.id}">${esc(x.lemma)}</a></td><td class="num">Bd. ${esc(x.band)}, Sp. ${x.col}</td></tr>`).join('')}</table>
+  </div></div>`;
+  view.scrollTop = 0;
+}
+
+/* ---------- contents: volumes, letters, articles with their size ---------- */
+// texts that are not dictionary articles: the title page, the notes on the form and on the digital
+// edition, the forewords of the volumes (band '0*' stands for the dictionary as a whole)
+function frontSection() {
+  const fr = LEMMAS.filter(r => r.kind === 'front');
+  if (!fr.length) return '';
+  const num = r => parseInt(r.band, 10) || 0;
+  const general = fr.filter(r => num(r) === 0).sort((a, b) => a.id - b.id);
+  const perBand = fr.filter(r => num(r) > 0).sort((a, b) => num(a) - num(b) || a.id - b.id);
+  const li = r => `<li><a href="#/a/${r.id}">${esc(r.lemma)}</a>${num(r) ? ` <span class="n">${t('band.n', {b: num(r)})}</span>` : ''}</li>`;
+  return `<h3>${t('cont.front')}</h3><div class="sub">${t('cont.front_note')}</div>
+    <ul class="glist2">${general.map(li).join('')}</ul><ul class="glist2">${perBand.map(li).join('')}</ul>`;
+}
+function showContents(params) {
+  curId = null; markCurrent();
+  document.title = t('cont.title') + ' — HWPh';
+  const band = params.get('b') || '';
+  const arts = LEMMAS.filter(r => r.kind === 'article');
+  const bands = [...new Set(arts.map(r => r.band))].sort((a, b) => a - b);
+  const size = r => r.colTo - r.col + 1;
+  if (!band) {
+    view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('cont.title')}</h2><div class="sub">${t('cont.note')}</div>
+      <table class="plist">${bands.map(b => { const xs = arts.filter(r => r.band === b); const cols = xs.reduce((s, r) => s + size(r), 0);
+        return `<tr><td class="nm"><a href="#/contents?b=${b}">${t('band.n', {b})}</a> <span class="n">${esc(xs[0].lemma)} — ${esc(xs[xs.length - 1].lemma)}</span></td><td class="num">${t('n.articles', {n: xs.length})}</td><td class="num">${t('cont.cols', {n: cols})}</td></tr>`; }).join('')}</table>
+      ${frontSection()}
+      <h3>${t('cont.indexes')}</h3><div class="sub">${t('cont.indexes_note')}</div>
+      <ul class="glist2"><li><a href="#/groups">${t('groups.title')}</a></li><li><a href="#/authors">${t('authors.title')}</a></li>
+        <li><a href="#/abbrevs">${t('abbr.title')}</a></li><li><a href="#/checklist">${t('check.title')}</a></li></ul></div></div>`;
+  } else {
+    const xs = arts.filter(r => r.band === band).sort((a, b) => a.col - b.col);
+    const letters = new Map();
+    xs.forEach(r => { const L = r.lemma[0].toUpperCase(); if (!letters.has(L)) letters.set(L, []); letters.get(L).push(r); });
+    const maxc = Math.max(...xs.map(size));
+    view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('band.n', {b: band})}</h2>
+      <div class="sub">${t('n.articles', {n: xs.length})} · <a href="#/contents">${t('cont.all')}</a>${LEMMAS.filter(r => r.kind === 'front' && r.band === band + '*').map(r => ` · <a href="#/a/${r.id}">${esc(r.lemma)}</a>`).join('')}</div>
+      <div class="letters">${[...letters.keys()].map(L => `<a href="#" data-l="${esc(L)}">${esc(L)}</a>`).join(' ')}</div>
+      ${[...letters.entries()].map(([L, rs]) => `<h3 id="L-${esc(L)}">${esc(L)} <span class="n">${t('n.articles', {n: rs.length})}, ${t('cont.cols', {n: rs.reduce((s, r) => s + size(r), 0)})}</span></h3>
+        <table class="plist contents">${rs.map(r => `<tr><td class="nm"><a href="#/a/${r.id}">${esc(r.lemma)}</a></td><td class="num">Sp. ${r.col}${r.colTo > r.col ? '–' + r.colTo : ''}</td>
+          <td class="bar"><span class="b"><span style="width:${(100 * size(r) / maxc).toFixed(1)}%"></span></span><em>${t('cont.cols', {n: size(r)})}</em></td></tr>`).join('')}</table>`).join('')}
+    </div></div>`;
+    view.querySelectorAll('.letters [data-l]').forEach(a => a.onclick = e => { e.preventDefault(); const h = document.getElementById('L-' + a.dataset.l); if (h) h.scrollIntoView({block: 'start'}); });
+  }
+  view.scrollTop = 0;
+}
+
+/* ---------- reading view: justified text, font, text only; printing ---------- */
+const FONTS = {serif: '', times: '"Times New Roman",Times,serif', georgia: 'Georgia,"DejaVu Serif",serif', sans: '"Segoe UI",Arial,"Helvetica Neue",sans-serif'};
+function applyView() {
+  document.body.classList.toggle('justify', store.get('justify', '') === '1');
+  document.body.classList.toggle('textonly', store.get('textonly', '') === '1');
+  const f = FONTS[store.get('font', 'serif')] || '';
+  document.documentElement.style.setProperty('--textfont', f || 'var(--serif)');
+}
+function viewMenu(anchor) {
+  let m = $('#viewmenu');
+  if (!m) { m = document.createElement('div'); m.id = 'viewmenu'; document.body.appendChild(m); }
+  const cur = store.get('font', 'serif');
+  m.innerHTML = `<label><input type="checkbox" id="vjust" ${store.get('justify', '') === '1' ? 'checked' : ''}> ${t('view.justify')}</label>
+    <label><input type="checkbox" id="vtext" ${store.get('textonly', '') === '1' ? 'checked' : ''}> ${t('view.textonly')}</label>
+    <div class="vf">${t('view.font')}: ${Object.keys(FONTS).map(k => `<button data-f="${k}" class="${k === cur ? 'on' : ''}" style="font-family:${FONTS[k] || 'var(--serif)'}">${t('view.font_' + k)}</button>`).join('')}</div>
+    <button id="vprint">${t('view.print')}</button>`;
+  const r = anchor.getBoundingClientRect();
+  m.style.display = 'block'; m.style.top = (r.bottom + 4) + 'px'; m.style.left = Math.max(8, Math.min(window.innerWidth - 280, r.left - 200)) + 'px';
+  $('#vjust').onchange = e => { store.set('justify', e.target.checked ? '1' : ''); applyView(); };
+  $('#vtext').onchange = e => { store.set('textonly', e.target.checked ? '1' : ''); applyView(); };
+  m.querySelectorAll('[data-f]').forEach(b => b.onclick = () => { store.set('font', b.dataset.f); applyView(); viewMenu(anchor); });
+  $('#vprint').onclick = () => { m.style.display = 'none'; window.print(); };
+  setTimeout(() => document.addEventListener('mousedown', function off(e) { if (!m.contains(e.target) && e.target !== anchor) { m.style.display = 'none'; document.removeEventListener('mousedown', off); } }), 0);
+}
+applyView();
+
+/* ---------- the list of places (Fundstellenliste) ---------- */
+// Every place a query finds, across articles; ↑↓ in an article opened from it go on to the next place,
+// also in the next article. The list can be sorted, thinned out and copied.
+let PLACES = null;              // {key, q, opts, rows}
+function copyText(text) {
+  const fallback = () => { const ta = document.createElement('textarea'); ta.value = text; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); } catch (e) {} ta.remove(); };
+  try { if (navigator.clipboard && window.isSecureContext) { navigator.clipboard.writeText(text).catch(fallback); } else fallback(); } catch (e) { fallback(); }
+  flash(t('list.copied', {n: text.split('\n').length}));
+}
+const plainOf = h => { const d = document.createElement('div'); d.innerHTML = h; return d.textContent; };
+function placeLine(r) { return `${r.lemma} — HWPh, Bd. ${r.band}, Sp. ${r.col} (${t('where.' + r.where)}): ${plainOf(r.html)}`; }
+async function showPlaces(params) {
+  const q = params.get('q') || '', scope = params.get('scope') || 'all', band = params.get('band') || '';
+  const o = {tol: params.get('tol') === '1', cs: params.get('case') === '1'};
+  const limit = params.get('limit') || '500';
+  curId = null; markCurrent();
+  document.title = t('places.title') + ': ' + q + ' — HWPh';
+  const inSet = params.get('set') ? setById(params.get('set')) : null;
+  const qs = new URLSearchParams({q, scope, band, limit});
+  if (params.get('grp')) qs.set('grp', params.get('grp'));
+  if (inSet) qs.set('only', inSet.aids.join(',') || '0');
+  const key = location.hash;
+  let rows;
+  if (PLACES && PLACES.key === key) rows = PLACES.rows;
+  else {
+    const r = await api('/api/places?' + qs.toString() + optsQuery(o));
+    rows = r.places.map((x, i) => Object.assign({n: i + 1}, x));
+    PLACES = {key, q, o, rows, articles: r.articles, more: r.more};
+  }
+  const P = PLACES;
+  let sortKey = 'n', sortDir = 1;
+  const listHash = key;
+  const draw = () => {
+    const rs = P.rows.slice().sort((a, b) => {
+      const v = sortKey === 'lemma' ? (a.lemma < b.lemma ? -1 : a.lemma > b.lemma ? 1 : 0)
+        : sortKey === 'loc' ? (a.band - b.band || a.col - b.col) : sortKey === 'where' ? (a.where < b.where ? -1 : a.where > b.where ? 1 : 0) : a.n - b.n;
+      return (v || a.n - b.n) * sortDir;
+    });
+    P.view = rs;
+    $('#ptab').innerHTML = `<tr><th><input type="checkbox" id="pall"></th>${[['n', '#'], ['lemma', t('places.col_article')], ['loc', t('places.col_loc')], ['where', t('places.col_where')]].map(([k, l]) => `<th class="sort${sortKey === k ? ' on' : ''}" data-k="${k}">${esc(l)}${sortKey === k ? (sortDir > 0 ? ' ▴' : ' ▾') : ''}</th>`).join('')}<th>${t('places.col_ctx')}</th></tr>` +
+      rs.map((r, i) => `<tr data-i="${i}"><td><input type="checkbox" class="psel"></td><td class="num">${r.n}</td><td class="nm">${esc(r.lemma)}</td><td class="num">Bd. ${esc(r.band)}, Sp. ${r.col}</td><td class="n">${t('where.' + r.where)}</td><td class="ctx">${r.html}</td></tr>`).join('');
+    $('#pcount').textContent = t('places.count', {n: P.rows.length, a: P.articles}) + (P.more ? ' ' + t('places.more', {n: limit}) : '');
+    $('#ptab').querySelectorAll('th.sort').forEach(th => th.onclick = () => { if (sortKey === th.dataset.k) sortDir = -sortDir; else { sortKey = th.dataset.k; sortDir = 1; } draw(); });
+    $('#pall').onchange = e => $('#ptab').querySelectorAll('.psel').forEach(c => { c.checked = e.target.checked; });
+    $('#ptab').querySelectorAll('tr[data-i]').forEach(tr => tr.onclick = e => {
+      if (e.target.closest('input')) return;
+      openPlace(+tr.dataset.i);
+    });
+  };
+  const selected = () => [...$('#ptab').querySelectorAll('tr[data-i]')].filter(tr => tr.querySelector('.psel').checked).map(tr => P.view[+tr.dataset.i]);
+  const qq = encodeURIComponent(q), oq = optsQuery(o);
+  const back = new URLSearchParams(params); back.delete('view'); back.delete('limit');
+  view.innerHTML = `<div class="page wide"><div class="results">
+    <h2>${t('quote', {q: esc(q)})}</h2>
+    <div class="tools sopts"><a href="#/s?${back.toString()}">${t('places.to_articles')}</a> · <b>${t('places.title')}</b>
+      <select id="plim" title="${t('places.limit_title')}">${['500', '1000', '2000', '5000'].map(v => `<option ${v === limit ? 'selected' : ''}>${v}</option>`).join('')}</select>
+      <span class="sp"></span><button class="btn" id="pcopy">${t('list.copy_sel')}</button><button class="btn" id="pcopyall">${t('list.copy_all')}</button><button class="btn" id="pdel">${t('list.remove_sel')}</button></div>
+    <div class="sub" id="pcount"></div>
+    <table class="plist places" id="ptab"></table></div></div>`;
+  draw();
+  $('#plim').onchange = e => { const p2 = new URLSearchParams(params); p2.set('limit', e.target.value); location.hash = '#/s?' + p2.toString(); };
+  $('#pcopy').onclick = () => { const s = selected(); if (s.length) copyText(s.map(placeLine).join('\n')); };
+  $('#pcopyall').onclick = () => copyText(P.view.map(placeLine).join('\n'));
+  $('#pdel').onclick = () => { const s = new Set(selected()); if (!s.size) return; P.rows = P.rows.filter(r => !s.has(r)); draw(); };
+  function openPlace(i) {
+    P.pos = i;
+    const r = P.view[i];
+    location.hash = `#/a/${r.id}?q=${qq}${oq}&w=${r.where}&k=${r.k}&pl=${i}`;
+  }
+  P.back = listHash;
+  view.scrollTop = 0;
+}
+// in an article opened from the list: which place, and the way to the neighbours
+function placeNav() {
+  const ap = new URLSearchParams(location.hash.split('?')[1] || '');
+  if (!PLACES || !PLACES.view || ap.get('pl') === null) return false;
+  const i = +ap.get('pl'), n = PLACES.view.length;
+  const go = d => {
+    const j = i + d; if (j < 0 || j >= n) return;
+    const r = PLACES.view[j];
+    location.hash = `#/a/${r.id}?q=${encodeURIComponent(PLACES.q)}${optsQuery(PLACES.o)}&w=${r.where}&k=${r.k}&pl=${j}`;
+  };
+  $('#hc').textContent = t('places.pos', {i: i + 1, n});
+  $('#hp').onclick = () => go(-1); $('#hn').onclick = () => go(1);
+  placeNav.go = go;
+  const back = view.querySelector('.hitnav a'); if (back) { back.href = PLACES.back; back.textContent = t('places.back'); }
+  return true;
+}
+
+/* ---------- one search in all registers ---------- */
+async function showLookup(params) {
+  const q = params.get('q') || '';
+  curId = null; markCurrent();
+  qInput.value = q; scopeSel.value = 'lookup';
+  document.title = t('lookup.title') + ': ' + q + ' — HWPh';
+  const r = await api('/api/lookup?q=' + encodeURIComponent(q));
+  const sec = (title, items, row) => items.length ? `<h3>${title} <span class="n">${items.length}</span></h3><table class="plist">${items.map(row).join('')}</table>` : '';
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('lookup.title')}: ${t('quote', {q: esc(q)})}</h2>
+    <div class="sub">${t('lookup.note')} <a href="#/s?q=${encodeURIComponent(q)}">${t('lookup.fulltext')}</a></div>
+    ${sec(t('lookup.articles'), r.articles, x => `<tr><td class="nm"><a href="#/a/${x.id}">${esc(x.lemma)}</a></td><td class="num">Bd. ${esc(x.band)}, Sp. ${x.col}</td></tr>`)}
+    ${sec(t('lookup.groups'), r.groups, x => `<tr><td class="nm"><a href="#/a/${x.id}">${esc(x.lemma)}</a></td><td>${x.groups.map(g => `<a href="#/group/${g.id}">${esc(g.name)}</a>`).join(', ')}</td></tr>`)}
+    ${sec(t('lookup.refs'), r.refs, x => `<tr><td class="term">${esc(x.term)}</td><td>${x.id ? `<a href="#/a/${x.id}${x.col ? '?col=' + parseInt(x.col, 10) : ''}">${esc(x.lemma)}</a>` : esc(x.target)}${x.qualifier ? ` <span class="n">${esc(x.qualifier)}</span>` : ''}</td><td class="num">${x.band ? `Bd. ${esc(x.band)}, Sp. ${esc(x.col)}` : ''}</td></tr>`)}
+    ${sec(t('lookup.authors'), r.authors, x => `<tr><td class="nm"><a href="#/author?name=${encodeURIComponent(x.name)}">${esc(x.name)}</a></td><td class="num">${t('n.articles', {n: x.n})}</td></tr>`)}
+    ${sec(t('lookup.abbrevs'), r.abbrevs, x => `<tr><td class="ab"><b>${esc(x.a)}</b></td><td>${esc(x.text)}</td><td class="n">${esc(x.sec)}</td></tr>`)}
+    ${!r.articles.length && !r.refs.length && !r.authors.length && !r.abbrevs.length ? `<p>${t('lookup.none')}</p>` : ''}
+  </div></div>`;
+  if (r && $('#thcopy')) $('#thcopy').onclick = () => copyText(r.items.map(it => `${Math.round(100 * it.score / max)} %  ${it.lemma} — HWPh, Bd. ${it.band}, Sp. ${unit === 'col' ? it.col : it.col_from}  [${r.terms.map((x, i) => x + ': ' + it.counts[i]).join(', ')}]`).join('\n'));
+  view.scrollTop = 0;
+}
+
+/* ---------- footnote popovers ---------- */
+const pop = $('#pop'); let popFor = null;
+function hidePop() { pop.style.display = 'none'; popFor = null; }
+function showPop(sup) {
+  const li = document.getElementById('fn' + sup.dataset.fn);
+  if (!li) return;
+  pop.innerHTML = `<b class="no">${esc(sup.textContent)}</b>` + li.innerHTML;
+  pop.style.display = 'block';
+  const r = sup.getBoundingClientRect(), w = Math.min(460, innerWidth - 20);
+  pop.style.maxWidth = w + 'px';
+  let x = Math.min(Math.max(10, r.left - 40), innerWidth - w - 10);
+  let y = r.bottom + 8;
+  pop.style.left = x + 'px'; pop.style.top = y + 'px';
+  const pr = pop.getBoundingClientRect();
+  if (pr.bottom > innerHeight - 8) pop.style.top = Math.max(8, r.top - pr.height - 8) + 'px';
+  popFor = sup;
+}
+view.addEventListener('mouseover', e => { const s = e.target.closest('sup.fn'); if (s && s !== popFor) showPop(s); });
+view.addEventListener('mouseout', e => { const s = e.target.closest('sup.fn'); if (s && !pop.contains(e.relatedTarget)) setTimeout(() => { if (!pop.matches(':hover')) hidePop(); }, 120); });
+pop.addEventListener('mouseleave', hidePop);
+view.addEventListener('scroll', hidePop, {passive: true});
+view.addEventListener('click', e => {
+  const s = e.target.closest('sup.fn');
+  if (!s) return;
+  const li = document.getElementById('fn' + s.dataset.fn);
+  if (!li) return;
+  hidePop();
+  li.scrollIntoView({block: 'center'});
+  li.classList.add('flash'); setTimeout(() => li.classList.remove('flash'), 1600);
+});
+
+/* ---------- search ---------- */
+const qInput = $('#q'), scopeSel = $('#scope'), bandSel = $('#band');
+const searchOpts = () => ({tol: store.get('tol', '') === '1', cs: store.get('case', '') === '1'});
+function optsQuery(o) { o = o || searchOpts(); return (o.tol ? '&tol=1' : '') + (o.cs ? '&case=1' : ''); }
+function submitSearch() {
+  const q = qInput.value.trim(); if (!q) return;
+  if (scopeSel.value === 'lookup') { location.hash = '#/lookup?' + new URLSearchParams({q}); return; }
+  const p = new URLSearchParams({q});
+  if (scopeSel.value !== 'all') p.set('scope', scopeSel.value);
+  if (bandSel.value) p.set('band', bandSel.value);
+  const o = searchOpts();
+  if (o.tol) p.set('tol', '1');
+  if (o.cs) p.set('case', '1');
+  location.hash = '#/s?' + p.toString();
+}
+/* ---------- as-you-type suggestions ---------- */
+const sugg = $('#sugg');
+let suggItems = [], suggOn = -1, suggSeq = 0, suggT;
+const suggKind = k => t('sugg.' + k);
+function suggHide() { sugg.style.display = 'none'; suggItems = []; suggOn = -1; qInput.setAttribute('aria-expanded', 'false'); }
+function suggGo(it) {
+  suggHide();
+  if (!it || it.type === 'full') return submitSearch();
+  if (it.type === 'article') location.hash = '#/a/' + it.id;
+  else if (it.type === 'person') location.hash = '#/p/' + it.id;
+  else if (it.type === 'register') location.hash = '#/a/' + it.id + '?q=' + encodeURIComponent(it.term);
+}
+function suggSub(it) {
+  if (it.type === 'full') return it.sub;
+  if (it.type === 'article') return 'Bd. ' + it.band + ', Sp. ' + it.col;
+  if (it.type === 'person') return t('n.articles', {n: it.n});
+  if (it.type === 'register') return '→ ' + it.lemma + (it.more ? t('sugg.reg_more', {n: it.more}) : '');
+  return '';
+}
+function suggRender() {
+  sugg.innerHTML = suggItems.map((it, i) => `<div class="it${it.type === 'full' ? ' full' : ''}${i === suggOn ? ' on' : ''}" data-i="${i}" role="option">
+    <span class="k">${it.type === 'full' ? t('sugg.full') : it.type === 'person' && it.role ? t('sugg.role_' + it.role) : suggKind(it.type)}</span>
+    <span class="l">${esc(it.label)}</span><span class="s">${esc(suggSub(it))}</span></div>`).join('');
+  sugg.style.display = suggItems.length ? 'block' : 'none';
+  qInput.setAttribute('aria-expanded', suggItems.length ? 'true' : 'false');
+}
+async function suggLoad() {
+  const q = qInput.value.trim(), seq = ++suggSeq;
+  if (fold(q).length < 2 || scopeSel.value === 'register') { suggHide(); return; }
+  let r;
+  try { r = await api('/api/suggest?q=' + encodeURIComponent(q)); } catch (e) { return; }
+  if (seq !== suggSeq || document.activeElement !== qInput) return;       // a later keystroke won
+  suggItems = [{type: 'full', label: t('sugg.search', {q}), sub: 'Enter'}].concat(r.items);
+  suggOn = -1; suggRender();
+}
+qInput.addEventListener('input', () => { clearTimeout(suggT); suggT = setTimeout(suggLoad, 120); });
+qInput.addEventListener('keydown', e => {
+  const open = sugg.style.display === 'block' && suggItems.length;
+  if (e.key === 'ArrowDown' && open) { e.preventDefault(); suggOn = (suggOn + 1) % suggItems.length; suggRender(); }
+  else if (e.key === 'ArrowUp' && open) { e.preventDefault(); suggOn = suggOn <= 0 ? suggItems.length - 1 : suggOn - 1; suggRender(); }
+  else if (e.key === 'Escape') { suggHide(); }
+  else if (e.key === 'Enter') { e.preventDefault(); const it = open && suggOn >= 0 ? suggItems[suggOn] : null; suggHide(); if (it) suggGo(it); else submitSearch(); }
+});
+sugg.addEventListener('mousedown', e => { const el = e.target.closest('.it'); if (el) { e.preventDefault(); suggGo(suggItems[+el.dataset.i]); } });
+qInput.addEventListener('blur', () => setTimeout(suggHide, 150));
+scopeSel.onchange = bandSel.onchange = () => { if (qInput.value.trim()) submitSearch(); };
+document.addEventListener('keydown', e => {
+  if (e.key === '/' && !/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)) { e.preventDefault(); qInput.focus(); qInput.select(); }
+  if (curId && hits.length && (e.key === 'n' || e.key === 'N') && document.activeElement.tagName !== 'INPUT') gotoHit(e.key === 'n' ? 1 : -1);
+});
+const where = k => t('where.' + k);
+function regTable(rows) {
+  return `<table>${rows.map(r => `<tr><td class="term">${esc(r.term)}</td><td>${r.id ? `<a href="#/a/${r.id}${r.col ? '?col=' + parseInt(r.col, 10) : ''}">${esc(r.lemma)}</a>` : esc(r.target)}${r.qualifier ? ` <span class="n">${esc(r.qualifier)}</span>` : ''}</td><td class="loc">${r.band ? `Bd. ${esc(r.band)}, Sp. ${esc(r.col)}` : ''}</td></tr>`).join('')}</table>`;
+}
+async function showSearch(params) {
+  const q = params.get('q') || '', scope = params.get('scope') || 'all', band = params.get('band') || '';
+  qInput.value = q; scopeSel.value = scope; bandSel.value = band;
+  curId = null; markCurrent();
+  document.title = t('search.doc_title', {q});
+  if (scope === 'register') {
+    const rows = await api('/api/register?q=' + encodeURIComponent(q));
+    view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('reg.title', {q: esc(q)})}</h2>
+      <div class="sub">${rows.length ? t('reg.rows', {n: rows.length}) + (rows.length >= 300 ? t('reg.first300') : '') : t('reg.none')}</div>
+      ${rows.length ? `<div class="regbox">${regTable(rows)}</div>` : ''}</div></div>`;
+    view.scrollTop = 0; return;
+  }
+  const o = {tol: params.get('tol') === '1', cs: params.get('case') === '1'};
+  store.set('tol', o.tol ? '1' : ''); store.set('case', o.cs ? '1' : '');
+  if (!window.GROUPS) { try { window.GROUPS = await api('/api/groups'); } catch (e) { window.GROUPS = []; } }
+  const grp = params.get('grp') || '';
+  const inSet = params.get('set') ? setById(params.get('set')) : null;
+  const base = `/api/search?q=${encodeURIComponent(q)}&scope=${scope}&band=${encodeURIComponent(band)}` + (grp ? '&grp=' + encodeURIComponent(grp) : '') + (inSet ? '&only=' + (inSet.aids.join(',') || '0') : '') + optsQuery(o);
+  const r = await api(base + '&offset=0&limit=20');
+  const qq = encodeURIComponent(q), oq = optsQuery(o);
+  const item = it => {
+    const h = it.hits, parts = [];
+    if (h.body) parts.push(`<span class="c">${t('hit.in_text', {n: h.body})}</span>`);
+    if (h.notes) parts.push(`<span class="c">${t('hit.in_notes', {n: h.notes})}</span>`);
+    if (h.lit) parts.push(`<span class="c">${t('hit.in_lit', {n: h.lit})}</span>`);
+    return `<div class="hit"><a class="t" href="#/a/${it.id}?q=${qq}${oq}">${esc(it.lemma)}</a>
+      <div class="m"><span class="c">Bd. ${esc(it.band)}, Sp. ${it.col_from}–${it.col_to}</span>${it.authors.length ? `<span class="c">${it.authors.map(esc).join(', ')}</span>` : ''}${parts.join('')}</div>
+      ${it.snippets.map(s => `<div class="s"><em>${where(s.where)}</em>${s.html}</div>`).join('')}</div>`;
+  };
+  const regRows = r.register || [];
+  view.innerHTML = `<div class="page wide"><div class="results">
+    <h2>${t('quote', {q: esc(q)})}</h2>
+    <div class="tools sopts">
+      <label title="${t('opt.tol_title')}"><input type="checkbox" id="otol" ${o.tol ? 'checked' : ''}> ${t('opt.tol')}</label>
+      <label title="${t('opt.case_title')}"><input type="checkbox" id="ocase" ${o.cs ? 'checked' : ''}> ${t('opt.case')}</label>
+      <select id="ogrp" title="${t('opt.group_title')}"><option value="">${t('opt.group_all')}</option>${(window.GROUPS || []).map(g => `<option value="${g.id}" ${String(g.id) === (params.get('grp') || '') ? 'selected' : ''}>${esc(g.name)}</option>`).join('')}</select>
+      ${WORK.sets.length ? `<select id="oset" title="${t('opt.set_title')}"><option value="">${t('opt.set_all')}</option>${WORK.sets.map(x => `<option value="${x.id}" ${inSet && inSet.id === x.id ? 'selected' : ''}>${esc(x.name)}</option>`).join('')}</select>` : ''}
+      <a href="#/w?q=${qq}${oq}">${t('opt.words')}</a>${r.total ? ` <a href="#" id="allset">${t('work.found_to_set')}</a> <a href="#/s?${(() => { const p2 = new URLSearchParams(params); p2.set('view', 'places'); return p2.toString(); })()}">${t('places.link')}</a>` : ''}</div>
+    ${r.cut ? `<div class="sub warn">${t('search.cut', {n: 300})} <a href="#/w?q=${qq}${oq}">${t('opt.words')}</a></div>` : ''}
+    <div class="sub">${r.approx ? t('search.approx', r.approx.checked !== undefined ? {total: r.total, of: r.approx.of, checked: r.approx.checked} : {}) : r.total ? t('n.articles', {n: r.total}) : t('search.none', {w: esc(q.split(/\s+/)[0])})}${band ? t('search.band', {b: esc(band)}) : ''}</div>
+    ${regRows.length ? `<div class="regbox"><h3>${t('reg.box_title')}</h3>${regTable(regRows.slice(0, 12))}${regRows.length > 12 ? `<a href="#/s?q=${qq}&scope=register">${t('reg.all', {n: regRows.length >= 40 ? '40+' : regRows.length})}</a>` : ''}</div>` : ''}
+    <div id="hits">${r.items.map(item).join('')}</div>
+    ${r.total > 20 ? '<button class="btn" id="more">' + t('search.more') + '</button>' : ''}
+  </div></div>`;
+  view.scrollTop = 0;
+  const reopt = () => {
+    const p2 = new URLSearchParams(params);
+    p2.delete('tol'); p2.delete('case');
+    if ($('#otol').checked) p2.set('tol', '1');
+    if ($('#ocase').checked) p2.set('case', '1');
+    location.hash = '#/s?' + p2.toString();
+  };
+  $('#otol').onchange = reopt; $('#ocase').onchange = reopt;
+  if ($('#oset')) $('#oset').onchange = e => { const p2 = new URLSearchParams(params); if (e.target.value) p2.set('set', e.target.value); else p2.delete('set'); location.hash = '#/s?' + p2.toString(); };
+  if ($('#allset')) $('#allset').onclick = e => { e.preventDefault(); setMenu(e.target, async () => (await api(base + '&offset=0&limit=1&ids=1')).ids); };
+  $('#ogrp').onchange = e => { const p2 = new URLSearchParams(params); if (e.target.value) p2.set('grp', e.target.value); else p2.delete('grp'); location.hash = '#/s?' + p2.toString(); };
+  let offset = 20;
+  const more = $('#more');
+  if (more) more.onclick = async () => {
+    more.disabled = true;
+    const r2 = await api(base + `&offset=${offset}&limit=20`);
+    $('#hits').insertAdjacentHTML('beforeend', r2.items.map(item).join(''));
+    offset += 20; more.disabled = false;
+    if (offset >= r.total) more.remove();
+  };
+}
+
+/* ---------- subject groups and authors of the dictionary (register volume 13) ---------- */
+async function showGroups() {
+  curId = null; markCurrent();
+  document.title = t('groups.title') + ' — HWPh';
+  const gs = await api('/api/groups');
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('groups.title')}</h2>
+    <div class="sub">${t('groups.note')}</div>
+    <ul class="glist2">${gs.map(g => `<li><a href="#/group/${g.id}">${esc(g.name)}</a> <span class="n">${g.n}</span></li>`).join('')}</ul></div></div>`;
+  view.scrollTop = 0;
+}
+async function showGroup(gid) {
+  curId = null; markCurrent();
+  const g = await api('/api/group/' + gid);
+  document.title = g.name + ' — HWPh';
+  const part = x => x.lemma && x.label !== x.lemma ? ` <span class="n">${esc(x.label)}</span>` : '';
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${esc(g.name)}</h2>
+    <div class="sub">${t('n.articles', {n: new Set(g.items.filter(x => x.id).map(x => x.id)).size})} · <a href="#/groups">${t('groups.all')}</a></div>
+    <div class="tools"><input type="search" id="gsq" placeholder="${t('groups.search_ph')}" autocomplete="off"><button class="btn" id="gsgo" style="margin:0">${t('groups.search')}</button></div>
+    <ul class="glist2 items">${g.items.map(x => x.id ? `<li><a href="#/a/${x.id}">${esc(x.lemma)}</a>${part(x)}</li>` : `<li class="un" title="${t('groups.unresolved')}">${esc(x.label)}</li>`).join('')}</ul></div></div>`;
+  const go = () => { const q = $('#gsq').value.trim(); if (q) location.hash = '#/s?' + new URLSearchParams({q, grp: gid}).toString() + optsQuery(); };
+  $('#gsgo').onclick = go; $('#gsq').onkeydown = e => { if (e.key === 'Enter') go(); };
+  view.scrollTop = 0;
+}
+async function showAuthors(q) {
+  curId = null; markCurrent();
+  document.title = t('authors.title') + ' — HWPh';
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${t('authors.title')}</h2>
+    <div class="sub">${t('authors.note')}</div>
+    <div class="tools"><input type="search" id="auq" placeholder="${t('persons.q_ph')}" value="${esc(q)}" autocomplete="off"></div>
+    <table class="plist" id="autab"></table></div></div>`;
+  const load = async () => {
+    const qq = $('#auq').value.trim();
+    const rows = await api('/api/authors?q=' + encodeURIComponent(qq));
+    $('#autab').innerHTML = rows.length ? rows.map(r => `<tr><td class="nm"><a href="#/author?name=${encodeURIComponent(r.name)}">${esc(r.name === 'Red' ? r.name + ' (' + t('authors.red') + ')' : r.name)}</a></td><td class="num">${t('n.articles', {n: r.n})}</td></tr>`).join('') : '<tr><td>' + t('persons.none') + '</td></tr>';
+  };
+  let tm; $('#auq').oninput = () => { clearTimeout(tm); tm = setTimeout(load, 200); };
+  await load();
+  view.scrollTop = 0;
+}
+async function showAuthor(name) {
+  curId = null; markCurrent();
+  const r = await api('/api/author?name=' + encodeURIComponent(name));
+  document.title = name + ' — HWPh';
+  const ids = new Set(r.items.filter(x => x.id).map(x => x.id));
+  view.innerHTML = `<div class="page wide"><div class="results"><h2>${esc(name === 'Red' ? name + ' (' + t('authors.red') + ')' : name)}</h2>
+    <div class="sub">${t('n.articles', {n: ids.size})} · <a href="#/authors">${t('authors.all')}</a> · <a href="#/s?${new URLSearchParams({q: name.split(' ')[0], scope: 'authors'})}">${t('authors.search')}</a></div>
+    <table class="plist">${r.items.map(x => `<tr><td class="nm">${x.id ? `<a href="#/a/${x.id}${x.col ? '?col=' + parseInt(x.col, 10) : ''}">${esc(x.target || x.lemma)}</a>${x.target && x.target !== x.lemma ? ` <span class="n">${esc(t('authors.in', {l: x.lemma}))}</span>` : ''}` : esc(x.target)}</td>
+      <td class="num">${x.band ? `Bd. ${esc(x.band)}, Sp. ${esc(x.col || '')}` : ''}</td></tr>`).join('')}</table></div></div>`;
+  view.scrollTop = 0;
+}
+
+/* ---------- word list: every word of the index a pattern stands for ---------- */
+async function showWords(params) {
+  const q = params.get('q') || '', o = {tol: params.get('tol') === '1', cs: params.get('case') === '1'};
+  curId = null; markCurrent();
+  document.title = t('words.title') + ': ' + q + ' — HWPh';
+  const r = await api('/api/words?q=' + encodeURIComponent(q) + optsQuery(o));
+  const total = r.items.reduce((s, x) => s + x.docs, 0);
+  view.innerHTML = `<div class="page wide"><div class="results">
+    <h2>${t('words.title')}: ${t('quote', {q: esc(q)})}</h2>
+    <div class="sub">${r.items.length ? t('words.n', {n: r.items.length}) : t('words.none')}${r.cut ? ' ' + t('words.cut') : ''}</div>
+    <div class="tools">${t('words.hint')}</div>
+    <table class="plist wl">${r.items.map(x => `<tr><td class="nm"><a href="#/s?q=${encodeURIComponent(x.term)}${optsQuery({cs: o.cs})}">${esc(x.term)}</a></td>
+      <td class="num">${t('n.articles', {n: x.docs})}</td><td class="num">${t('words.cnt', {n: x.cnt})}</td></tr>`).join('')}</table>
+  </div></div>`;
+  view.scrollTop = 0;
+}
+
+/* ---------- persons ---------- */
+async function showPersons(q, ed) {
+  curId = null; markCurrent();
+  document.title = t('persons.title') + ' — HWPh';
+  view.innerHTML = `<div class="page wide"><div class="results">
+    <h2>${t('persons.title')}</h2>
+    <div class="sub">${t('persons.note')}</div>
+    <div class="tools"><input type="search" id="pq" placeholder="${t('persons.q_ph')}" value="${esc(q)}" autocomplete="off">
+      <select id="prole">${['', 'thinkers', 'source', 'mixed', 'scholar'].map(v => `<option value="${v}">${t('prole.' + (v || 'all'))}</option>`).join('')}</select>
+      <label><input type="checkbox" id="ped" ${ed ? 'checked' : ''}> ${t('persons.editors')}</label></div>
+    <table class="plist" id="ptab"></table></div></div>`;
+  const load = async () => {
+    const qq = $('#pq').value.trim(), e = $('#ped').checked, role = $('#prole').value;
+    const rows = await api(`/api/persons?limit=300&q=${encodeURIComponent(qq)}&editors=${e ? 1 : 0}&role=${role}`);
+    $('#ptab').innerHTML = rows.length ? rows.map(r => `<tr class="${r.editor ? 'ed' : ''}"><td class="nm"><a href="#/p/${r.id}">${esc(r.name)}</a>${r.editor ? ` <span class="n">${t('persons.editor')}</span>` : (r.role !== 'source' ? ` <span class="n">${t('role.' + r.role)}</span>` : '')}</td>
+      <td class="num">${t('persons.n_art', {n: r.n_articles})}</td><td class="num">${t('cnt.text', {n: r.b})}</td><td class="num">${t('cnt.notes', {n: r.n})}</td><td class="num">${t('cnt.lit', {n: r.l})}</td></tr>`).join('')
+      : '<tr><td>' + t('persons.none') + '</td></tr>';
+  };
+  let t; $('#pq').addEventListener('input', () => { clearTimeout(t); t = setTimeout(load, 200); });
+  $('#ped').onchange = load; $('#prole').onchange = load;
+  await load();
+  view.scrollTop = 0;
+}
+
+async function showPerson(id) {
+  const p = await api('/api/person/' + id);
+  curId = null; markCurrent();
+  document.title = p.name + ' — HWPh';
+  const art = x => `<tr class="exp" data-aid="${x.id}"><td class="tw" title="${t('person.show_places')}"><span>▸</span></td><td class="nm"><a href="#/a/${x.id}?pat=p${p.id}">${esc(x.lemma)}</a></td>
+    <td class="num">Bd. ${esc(x.band)}, Sp. ${x.col}</td><td class="num">${x.nb ? t('cnt.text', {n: x.nb}) : ''}</td><td class="num">${x.nn ? t('cnt.notes', {n: x.nn}) : ''}</td><td class="num">${x.nl ? t('cnt.lit', {n: x.nl}) : ''}</td></tr>`;
+  const main = p.articles.filter(x => x.nb + x.nn > 0), litOnly = p.articles.filter(x => x.nb + x.nn === 0);
+  view.innerHTML = `<div class="page"><div class="person">
+      <h1>${esc(p.name)}</h1>
+      <div class="facts">${t('person.facts', {count: p.n_articles, a: p.n_articles, b: p.n_body, n: p.n_notes, l: p.n_lit})}${p.editor ? t('person.editor_note') : t('person.role_note', {role: t('role.' + p.role)})}
+        <div class="vars">${t('person.variants')}${p.variants.map(esc).join(', ')}</div>
+        <div class="acts"><a href="#/g/p/${p.id}">${t('person.graph')}</a><a href="#/s?q=${encodeURIComponent(p.name.split(' ').slice(-1)[0])}">${t('person.search')}</a></div></div>
+      <div class="tools" style="margin-bottom:6px"><button class="btn" id="expall" style="margin:0">${t('person.expall')}</button><span>${t('person.hint')}</span></div>
+      <table class="plist">${main.map(art).join('')}</table>
+      ${litOnly.length ? `<h4 style="margin:24px 0 6px;font-size:13px;color:var(--ink-2)">${t('person.lit_only', {n: litOnly.length})}</h4><table class="plist">${litOnly.map(art).join('')}</table>` : ''}
+    </div>
+    <aside class="rail">
+      ${p.lemmas.length ? `<h4>${t('person.lemmas')}</h4><ul>${p.lemmas.map(l => `<li><a href="#/a/${l.id}">${esc(l.lemma)}</a></li>`).join('')}</ul>` : ''}
+      <h4>${t('person.cocited')} <span class="n">${p.cocited.length}</span></h4>
+      <ul>${p.cocited.map(c => `<li><a href="#/p/${c.id}">${esc(c.name)}</a> <span class="n">${c.shared}</span></li>`).join('')}</ul>
+      <p class="n" style="margin-top:8px">${t('person.cocited_note')}</p>
+    </aside></div>`;
+  view.querySelectorAll('tr.exp').forEach(tr => tr.addEventListener('click', ev => {
+    if (ev.target.closest('a')) return;
+    showOccurrences(tr, +tr.dataset.aid, 'p' + p.id);
+  }));
+  // one button: expands the first ten rows, or folds everything up again once anything is open
+  const expBtn = $('#expall');
+  const anyOpen = () => !!view.querySelector('tr.exp.open');
+  const expLabel = () => { expBtn.textContent = t(anyOpen() ? 'person.collapse' : 'person.expall'); };
+  view.addEventListener('click', ev => { if (ev.target.closest('tr.exp')) setTimeout(expLabel, 0); });
+  expBtn.onclick = async () => {
+    expBtn.disabled = true;
+    if (anyOpen()) {
+      view.querySelectorAll('tr.exp.open').forEach(tr => {
+        const next = tr.nextElementSibling;
+        if (next && next.classList.contains('occ')) next.remove();
+        tr.classList.remove('open');
+      });
+    } else {
+      for (const tr of [...view.querySelectorAll('tr.exp')].slice(0, 10))
+        if (!tr.classList.contains('open')) await showOccurrences(tr, +tr.dataset.aid, 'p' + p.id);
+    }
+    expBtn.disabled = false;
+    expLabel();
+  };
+  view.scrollTop = 0;
+}
+
+/* ---------- graphs ---------- */
+const roleText = r => t('role.' + r);
+async function showGraph(kind, id, params) {
+  curId = kind === 'a' ? id : null; markCurrent();
+  const depth = params.get('depth') === '2' ? 2 : 1;
+  const withP = params.get('persons') !== '0';
+  const scholars = params.get('scholars') === '1';
+  const n = params.get('n') || '24';
+  const url = kind === 'a' ? `/api/graph/a/${id}?depth=${depth}&persons=${withP ? 1 : 0}&scholars=${scholars ? 1 : 0}`
+                           : `/api/graph/p/${id}?n=${n}&scholars=${scholars ? 1 : 0}`;
+  const g = await api(url);
+  const centre = g.nodes.find(x => x.id === g.center);
+  document.title = t('graph.doc_title', {label: centre.label});
+  const link = (k, v) => { const p2 = new URLSearchParams(params); p2.set(k, v); return `#/g/${kind}/${id}?${p2}`; };
+  const tools = (kind === 'a'
+    ? `<span class="seg"><button data-h="${link('depth', 1)}" class="${depth === 1 ? 'on' : ''}">${t('graph.neighbours')}</button><button data-h="${link('depth', 2)}" class="${depth === 2 ? 'on' : ''}">${t('graph.two_steps')}</button></span>
+       <label><input type="checkbox" id="gp" ${withP ? 'checked' : ''}> ${t('graph.persons')}</label>`
+    : `<span class="seg">${['12', '24', '40'].map(v => `<button data-h="${link('n', v)}" class="${n === v ? 'on' : ''}">${v}</button>`).join('')}</span> <span>${t('graph.nearest')}</span>`)
+    + ` <label title="${t('graph.scholars_title')}"><input type="checkbox" id="gs" ${scholars ? 'checked' : ''}> ${t('graph.scholars')}</label>`;
+  view.innerHTML = `<div class="page wide" style="max-width:none;padding-bottom:20px">
+    <div class="tools"><span style="font-family:var(--serif);font-size:22px;color:var(--ink)">${esc(centre.label)}</span>
+      <a href="${kind === 'a' ? '#/a/' + id : '#/p/' + id}">${kind === 'a' ? t('graph.to_article') : t('graph.to_person')}</a>${tools}
+      <span id="gcount"></span></div>
+    <div class="gwrap"><svg id="gsvg"></svg><div class="ginfo" id="ginfo"></div>
+      <div class="glegend"><i style="background:var(--cloth)"></i>${t('legend.article')} <i class="dia"></i>${t('legend.thinker')} <i class="dia hollow"></i>${t('legend.mixed')} <i class="sch"></i>${t('legend.scholar')}
+        <br>${t('legend.lines')}
+        ${t('legend.hint')}</div></div></div>`;
+  view.querySelectorAll('[data-h]').forEach(b => b.onclick = () => { location.hash = b.dataset.h; });
+  const gp = $('#gp'); if (gp) gp.onchange = () => { location.hash = link('persons', gp.checked ? 1 : 0); };
+  $('#gs').onchange = e => { location.hash = link('scholars', e.target.checked ? 1 : 0); };
+  view.scrollTop = 0;
+  drawGraph($('#gsvg'), g, {scholars});
+}
+
+function drawGraph(svg, g, opts) {
+  const NS = 'http://www.w3.org/2000/svg';
+  const W = svg.clientWidth || 900, H = svg.clientHeight || 600;
+  const N = g.nodes.slice(), byId = new Map(N.map(n => [n.id, n]));
+  let L = [];
+  const lkey = l => l.source + '>' + l.target + ':' + l.kind;
+  const lkeys = new Set();
+  const addLinks = ls => ls.forEach(l => { if (byId.has(l.source) && byId.has(l.target) && !lkeys.has(lkey(l))) { lkeys.add(lkey(l)); L.push(l); } });
+  addLinks(g.links);
+
+  const sizeNodes = () => {
+    const deg = new Map();
+    L.forEach(l => { deg.set(l.source, (deg.get(l.source) || 0) + 1); deg.set(l.target, (deg.get(l.target) || 0) + 1); });
+    N.forEach(n => {
+      const base = Math.min(9, 4 + Math.sqrt(deg.get(n.id) || 1) * 1.3);
+      n.r = n.id === g.center ? 11 : n.role === 'scholar' ? 3.5 : n.role === 'mixed' ? Math.max(4, base * 0.8) : base;
+    });
+  };
+  // initial rings by level, deterministic angles
+  const perLevel = {};
+  N.forEach(n => { (perLevel[n.level] = perLevel[n.level] || []).push(n); });
+  Object.keys(perLevel).forEach(lv => perLevel[lv].forEach((n, i, arr) => {
+    const r = lv * 170, a = (i / arr.length) * Math.PI * 2 + lv * 0.3;
+    n.x = r * Math.cos(a); n.y = r * Math.sin(a); n.vx = 0; n.vy = 0;
+  }));
+
+  // force layout; `moving` limits who may move (incremental growth keeps the old picture in place)
+  const layout = (iters, moving, strength) => {
+    const maxW = Math.max(1, ...L.map(l => l.w || 1));
+    const REP = N.length > 40 ? 7000 : 4200;
+    for (let it = 0; it < iters; it++) {
+      const alpha = (1 - it / iters) * (strength || 1);
+      for (let i = 0; i < N.length; i++) for (let j = i + 1; j < N.length; j++) {
+        const a = N[i], b = N[j]; let dx = a.x - b.x, dy = a.y - b.y; const d2 = dx * dx + dy * dy + 0.01;
+        const f = REP / d2 * alpha; const d = Math.sqrt(d2);
+        dx /= d; dy /= d; a.vx += dx * f; a.vy += dy * f; b.vx -= dx * f; b.vy -= dy * f;
+      }
+      for (const l of L) {
+        const a = byId.get(l.source), b = byId.get(l.target);
+        const want = l.kind === 'cocite' ? 190 - 80 * ((l.w || 1) / maxW) : (l.kind === 'cite' ? 170 : l.kind === 'mention' ? 150 : 120);
+        let dx = b.x - a.x, dy = b.y - a.y; const d = Math.sqrt(dx * dx + dy * dy) || 1;
+        const f = (d - want) * (l.kind === 'cite' ? 0.006 : 0.02) * alpha; dx /= d; dy /= d;
+        a.vx += dx * f; a.vy += dy * f; b.vx -= dx * f; b.vy -= dy * f;
+      }
+      for (const n of N) {
+        n.vx -= n.x * 0.0025 * alpha; n.vy -= n.y * 0.0025 * alpha;
+        if (n.id === g.center || (moving && !moving.has(n.id))) { n.vx = n.vy = 0; continue; }
+        n.x += Math.max(-30, Math.min(30, n.vx)); n.y += Math.max(-30, Math.min(30, n.vy)); n.vx *= 0.55; n.vy *= 0.55;
+      }
+    }
+  };
+  sizeNodes();
+  layout(360);
+
+  // fit to view
+  let vb;
+  const fit = () => {
+    let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+    N.forEach(n => { x0 = Math.min(x0, n.x); y0 = Math.min(y0, n.y); x1 = Math.max(x1, n.x); y1 = Math.max(y1, n.y); });
+    const pad = 80; vb = [x0 - pad, y0 - pad, (x1 - x0) + 2 * pad + 120, (y1 - y0) + 2 * pad];
+    const aspect = W / H;
+    if (vb[2] / vb[3] < aspect) { const w = vb[3] * aspect; vb[0] -= (w - vb[2]) / 2; vb[2] = w; }
+    else { const h = vb[2] / aspect; vb[1] -= (h - vb[3]) / 2; vb[3] = h; }
+  };
+  // labels keep their on-screen size whatever the zoom
+  const setVB = () => { svg.setAttribute('viewBox', vb.map(v => v.toFixed(1)).join(' '));
+    svg.style.setProperty('--gk', Math.max(0.35, vb[2] / (svg.clientWidth || W)).toFixed(3)); };
+  fit(); setVB();
+
+  let lineEls = [], adj = new Map(), selected = null;
+  const place = () => L.forEach((l, i) => {
+    const a = byId.get(l.source), b = byId.get(l.target), e = lineEls[i];
+    const dx = b.x - a.x, dy = b.y - a.y, d = Math.sqrt(dx * dx + dy * dy) || 1;
+    e.setAttribute('x1', a.x); e.setAttribute('y1', a.y);
+    e.setAttribute('x2', b.x - dx / d * (b.r + 2)); e.setAttribute('y2', b.y - dy / d * (b.r + 2));
+  });
+  const render = () => {
+    const maxW = Math.max(1, ...L.map(l => l.w || 1));
+    svg.innerHTML = `<defs><marker id="arr" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0L10,5L0,10z" fill="var(--ink-2)" fill-opacity=".6"/></marker></defs>`;
+    const gl = document.createElementNS(NS, 'g'), gn = document.createElementNS(NS, 'g');
+    svg.appendChild(gl); svg.appendChild(gn);
+    lineEls = L.map(l => {
+      const e = document.createElementNS(NS, 'line');
+      e.setAttribute('class', 'ln ' + (l.kind || ''));
+      if (l.kind === 'xref') e.setAttribute('marker-end', 'url(#arr)');
+      if (l.kind === 'cocite') e.setAttribute('stroke-width', (0.8 + 4 * (l.w || 1) / maxW).toFixed(2));
+      gl.appendChild(e); return e;
+    });
+    N.forEach(n => {
+      const e = document.createElementNS(NS, 'g');
+      e.setAttribute('class', `nd ${n.kind} l${n.level}${n.role ? ' role-' + n.role : ''}${n.id === g.center ? ' center' : ''}`);
+      const diamond = n.kind === 'person' && n.role !== 'scholar';
+      const shape = document.createElementNS(NS, diamond ? 'rect' : 'circle');
+      if (diamond) { shape.setAttribute('width', n.r * 2); shape.setAttribute('height', n.r * 2); shape.setAttribute('x', -n.r); shape.setAttribute('y', -n.r); shape.setAttribute('transform', 'rotate(45)'); }
+      else shape.setAttribute('r', n.r);
+      const t = document.createElementNS(NS, 'text');
+      t.setAttribute('x', n.r + 4); t.setAttribute('y', 4); t.textContent = n.label;
+      const tt = document.createElementNS(NS, 'title');
+      tt.textContent = n.label + (n.sub ? ' — ' + subText(n) : '') + (n.role ? ' (' + roleText(n.role) + ')' : '');
+      e.appendChild(shape); e.appendChild(t); e.appendChild(tt);
+      e.setAttribute('transform', `translate(${n.x},${n.y})`);
+      e.dataset.id = n.id;
+      gn.appendChild(e); n.el = e;
+    });
+    place();
+    adj = new Map(N.map(n => [n.id, new Set()]));
+    L.forEach((l, i) => { adj.get(l.source).add(i); adj.get(l.target).add(i); });
+    $('#gcount').textContent = t('graph.count', {n: N.length, m: L.length});
+    if (selected) hot(byId.has(selected.id) ? selected.id : null);
+  };
+  const hot = id => {
+    N.forEach(n => n.el.classList.remove('hot', 'dim')); lineEls.forEach(e => e.classList.remove('hot'));
+    if (!id) return;
+    const keep = new Set([id]);
+    adj.get(id).forEach(i => { lineEls[i].classList.add('hot'); keep.add(L[i].source); keep.add(L[i].target); });
+    N.forEach(n => n.el.classList.add(keep.has(n.id) ? 'hot' : 'dim'));
+  };
+
+  // ---- the node card: what hangs on the node, each line can be put on the graph or taken off
+  const addedBy = new Map();                 // node id -> id of the node from whose card it was added
+  const cache = new Map();                   // "node:what" -> list from /api/expand
+  const cardScroll = {};
+  const inView = () => {
+    // widen the view when new nodes fall outside it (never shrink: the reader may have zoomed in)
+    let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+    N.forEach(n => { x0 = Math.min(x0, n.x); y0 = Math.min(y0, n.y); x1 = Math.max(x1, n.x); y1 = Math.max(y1, n.y); });
+    const pad = 60, labelRoom = 120;
+    // keep the nodes clear of the open card on the right
+    const cardRoom = info.style.display !== 'none' ? (info.offsetWidth + 20) * vb[2] / (svg.clientWidth || W) : 0;
+    const nx0 = Math.min(vb[0], x0 - pad), ny0 = Math.min(vb[1], y0 - pad);
+    const nx1 = Math.max(vb[0] + vb[2], x1 + pad + labelRoom + cardRoom), ny1 = Math.max(vb[1] + vb[3], y1 + pad);
+    if (nx0 < vb[0] || ny0 < vb[1] || nx1 > vb[0] + vb[2] || ny1 > vb[1] + vb[3]) {
+      let w = nx1 - nx0, h = ny1 - ny0; const aspect = W / H;
+      if (w / h < aspect) { const w2 = h * aspect; vb = [nx0 - (w2 - w) / 2, ny0, w2, h]; }
+      else { const h2 = w / aspect; vb = [nx0, ny0 - (h2 - h) / 2, w, h2]; }
+      setVB();
+    }
+  };
+  const addItems = (anchor, items) => {
+    const fresh = [];
+    items.forEach(it => {
+      if (!byId.has(it.node.id)) {
+        const x = Object.assign({}, it.node, {vx: 0, vy: 0});
+        N.push(x); byId.set(x.id, x); addedBy.set(x.id, anchor.id); fresh.push(x);
+      }
+      addLinks([it.link]);
+    });
+    if (!fresh.length) { render(); return 0; }
+    // new nodes start on a small ring around the anchor, on the side away from the centre of the picture
+    const away = Math.atan2(anchor.y, anchor.x) || 0;
+    fresh.forEach((x, i) => {
+      const a = away + (i - (fresh.length - 1) / 2) * (Math.PI / Math.max(4, fresh.length));
+      const r = 110 + (i % 2) * 30;
+      x.x = anchor.x + r * Math.cos(a); x.y = anchor.y + r * Math.sin(a);
+    });
+    sizeNodes();
+    layout(200, new Set(fresh.map(x => x.id)), 0.6);   // only the newcomers move; the picture stays put
+    render(); inView();
+    return fresh.length;
+  };
+  const removeIds = ids => {
+    // take nodes off together with whatever was hung on them later
+    const gone = new Set();
+    const walk = id => { if (id === g.center || gone.has(id)) return; gone.add(id);
+      addedBy.forEach((from, x) => { if (from === id) walk(x); }); };
+    ids.forEach(walk);
+    if (!gone.size) return;
+    for (let i = N.length - 1; i >= 0; i--) if (gone.has(N[i].id)) { byId.delete(N[i].id); N.splice(i, 1); }
+    gone.forEach(id => addedBy.delete(id));
+    L = L.filter(l => byId.has(l.source) && byId.has(l.target));
+    lkeys.clear(); L.forEach(l => lkeys.add(lkey(l)));
+    sizeNodes(); render();
+  };
+  const loadList = async (n, what) => {
+    const key = n.id + ':' + what + ':' + (opts.scholars ? 1 : 0);
+    if (!cache.has(key)) cache.set(key, await api(`/api/expand?node=${n.id}&what=${what}&limit=80&scholars=${opts.scholars ? 1 : 0}`));
+    return cache.get(key);
+  };
+  const SECTIONS = {persons: t('card.sec_persons'), concepts: t('card.sec_concepts'), articles: t('card.sec_articles')};
+  const HOW = {xref: '→', xref_in: '←', mention: '≈'};
+  const info = $('#ginfo');
+  const open = n => n.kind === 'article' ? '#/a/' + n.ref : '#/p/' + n.ref;
+  const regraph = n => n.kind === 'article' ? '#/g/a/' + n.ref : '#/g/p/' + n.ref;
+  const lists = {};                          // what -> loaded list, for the card on screen
+  async function fillCard(n) {
+    const whats = n.kind === 'article' ? ['persons', 'concepts'] : ['articles'];
+    for (const w of whats) {
+      if (selected !== n) return;
+      try { lists[w] = await loadList(n, w); } catch (e) { lists[w] = {items: [], total: 0}; }
+      drawCard(n);
+    }
+  }
+  function drawCard(n) {
+    const box = info.querySelector('.gsec-wrap');
+    if (box) cardScroll[n.id] = box.scrollTop;
+    const whats = n.kind === 'article' ? ['persons', 'concepts'] : ['articles'];
+    const sec = w => {
+      const d = lists[w];
+      if (!d) return `<div class="gsec"><h5>${SECTIONS[w]}</h5><div class="gnote">${t('card.loading')}</div></div>`;
+      if (!d.items.length) return `<div class="gsec"><h5>${SECTIONS[w]}</h5><div class="gnote">${t('card.none')}${w === 'persons' && !opts.scholars ? t('card.scholars_hidden') : ''}</div></div>`;
+      const on = d.items.filter(it => byId.has(it.node.id)).length;
+      const rows = d.items.map((it, i) => {
+        const here = byId.has(it.node.id);
+        const role = it.node.role && it.node.role !== 'source' ? ` <span class="gr">${it.node.role === 'scholar' ? t('card.scholar_short') : t('card.mixed_short')}</span>` : '';
+        return `<li class="${here ? 'on' : ''}" data-w="${w}" data-i="${i}" title="${here ? t('card.remove') : t('card.add')}">
+          <span class="mk">${here ? '●' : '○'}</span>${it.how ? `<span class="hw" title="${esc(noteText(it))}">${HOW[it.how]}</span>` : ''}
+          <span class="nm">${esc(it.node.label)}${role}</span><span class="sb">${esc(noteText(it) || subText(it.node))}</span>
+          <a class="go" href="${open(it.node)}" title="${t('card.open')}">↗</a></li>`;
+      }).join('');
+      return `<div class="gsec"><h5>${SECTIONS[w]} <span class="n">${t('card.count', {on, total: d.total})}${d.total > d.items.length ? t('card.shown', {n: d.items.length}) : ''}</span></h5>
+        <div class="gbtn"><button data-add="${w}">${t('card.first10')}</button><button data-clear="${w}" ${on ? '' : 'disabled'}>${t('card.clear')}</button></div>
+        <ul class="glist">${rows}</ul></div>`;
+    };
+    info.innerHTML = `<b>${esc(n.label)}</b>${esc(subText(n))}${n.role ? `<div class="grole">${roleText(n.role)}</div>` : ''}
+      <div class="glinks"><a href="${open(n)}">${n.kind === 'article' ? t('card.open_article') : t('card.person_page')}</a><a href="${regraph(n)}">${t('card.graph_here')}</a>
+      ${n.id !== g.center ? '<button data-x="1" title="' + t('card.remove_node_title') + '">' + t('card.remove_node') + '</button>' : ''}</div>
+      <div class="gsec-wrap">${whats.map(sec).join('')}</div>`;
+    const wrap = info.querySelector('.gsec-wrap');
+    if (cardScroll[n.id]) wrap.scrollTop = cardScroll[n.id];
+    info.querySelectorAll('.glist li').forEach(li => li.addEventListener('click', ev => {
+      if (ev.target.closest('.go')) return;
+      const it = lists[li.dataset.w].items[+li.dataset.i];
+      if (byId.has(it.node.id)) removeIds([it.node.id]); else addItems(n, [it]);
+      select(n, true);
+    }));
+    info.querySelectorAll('[data-add]').forEach(b => b.onclick = () => {
+      const d = lists[b.dataset.add];
+      const next = d.items.filter(it => !byId.has(it.node.id)).slice(0, 10);
+      addItems(n, next); select(n, true);
+    });
+    info.querySelectorAll('[data-clear]').forEach(b => b.onclick = () => {
+      removeIds(lists[b.dataset.clear].items.map(it => it.node.id).filter(id => byId.has(id)));
+      select(n, true);
+    });
+    const x = info.querySelector('[data-x]'); if (x) x.onclick = () => { removeIds([n.id]); select(null); };
+  }
+  function select(n, keepLists) {
+    selected = n && byId.has(n.id) ? n : null; hot(selected ? selected.id : null);
+    if (!selected) { info.style.display = 'none'; return; }
+    info.style.display = 'flex';
+    if (!keepLists) { Object.keys(lists).forEach(k => delete lists[k]); drawCard(selected); fillCard(selected); }
+    else drawCard(selected);
+  }
+
+  render();
+  // interaction: hover, click, drag nodes, pan, zoom (delegated: the drawing is rebuilt when the graph grows)
+  const pt = ev => { const p = svg.createSVGPoint(); p.x = ev.clientX; p.y = ev.clientY; return p.matrixTransform(svg.getScreenCTM().inverse()); };
+  const nodeOf = el => { const e = el.closest && el.closest('.nd'); return e ? byId.get(e.dataset.id) : null; };
+  let dragN = null, pan = null, moved = false;
+  svg.addEventListener('pointerover', ev => { const n = nodeOf(ev.target); if (n && !selected) hot(n.id); });
+  svg.addEventListener('pointerout', ev => { if (!selected && nodeOf(ev.target)) hot(null); });
+  svg.addEventListener('pointerdown', ev => {
+    const n = nodeOf(ev.target); moved = false;
+    if (n) dragN = n; else { pan = {x: ev.clientX, y: ev.clientY, vb: vb.slice()}; svg.classList.add('drag'); }
+    svg.setPointerCapture(ev.pointerId);
+  });
+  svg.addEventListener('pointermove', ev => {
+    if (dragN) { const p = pt(ev); dragN.x = p.x; dragN.y = p.y; dragN.el.setAttribute('transform', `translate(${p.x},${p.y})`); place(); moved = true; }
+    else if (pan) { const k = vb[2] / svg.clientWidth; vb[0] = pan.vb[0] - (ev.clientX - pan.x) * k; vb[1] = pan.vb[1] - (ev.clientY - pan.y) * k; setVB(); moved = true; }
+  });
+  svg.addEventListener('pointerup', () => {
+    if (dragN && !moved) select(dragN);
+    else if (pan && !moved) select(null);
+    dragN = null; pan = null; svg.classList.remove('drag');
+  });
+  svg.addEventListener('dblclick', ev => { const n = nodeOf(ev.target); if (n) location.hash = regraph(n); });
+  svg.addEventListener('wheel', ev => {
+    ev.preventDefault();
+    const p = pt(ev), k = ev.deltaY > 0 ? 1.15 : 1 / 1.15;
+    vb = [p.x - (p.x - vb[0]) * k, p.y - (p.y - vb[1]) * k, vb[2] * k, vb[3] * k]; setVB();
+  }, {passive: false});
+}
+
+/* keep the local server alive while the page is open (it may be started to quit when idle) */
+if (!window.HWPH_API) setInterval(() => { fetch('/api/ping').catch(() => {}); }, 60000);
+
+/* ---------- language switch ---------- */
+const langSel = $('#lang');
+langSel.innerHTML = LANGS.map(l => `<option value="${l}">${l.toUpperCase()}</option>`).join('');
+function setLang(l) {
+  LANG = l; store.set('lang', l);
+  document.documentElement.lang = l;
+  langSel.value = l;
+  applyStatic();
+  // the parts drawn from data: counts, volume names, the page on screen
+  if (LEMMAS.length) {
+    renderList($('#filter').value);
+    [...bandSel.options].slice(1).forEach(o => { o.textContent = t('band.n', {b: o.value}); });
+    route();
+  }
+}
+langSel.onchange = () => setLang(langSel.value);
+document.documentElement.lang = LANG;
+langSel.value = LANG;
+applyStatic();
+
+/* ---------- start ---------- */
+// the static export marks its index.html; if the page is that export but its own script files did not
+// load (a phone's file manager hands the browser a content:// address, some browsers refuse file://),
+// say so plainly instead of trying a server that is not there
+function staticFilesMissing() {
+  if (!window.HWPH_STATIC || window.HWPH_API) return false;
+  const where = esc(location.protocol + '//' + location.host + location.pathname);
+  view.innerHTML = window.I18N
+    ? `<div class="page wide"><div class="err">${t('err.static_files', {where})}</div></div>`
+    : `<div class="page wide"><div class="err">The reader's files next to index.html could not be loaded (${where}). ` +
+      `Open the folder through a local web server, e.g. <code>python -m http.server 8000</code> in this folder, then http://127.0.0.1:8000/.<br>` +
+      `Die Dateien neben index.html lassen sich nicht laden. Öffnen Sie den Ordner über einen lokalen Webserver, z. B. <code>python -m http.server 8000</code> in diesem Ordner, dann http://127.0.0.1:8000/.</div></div>`;
+  return true;
+}
+(async function init() {
+  if (staticFilesMissing()) return;
+  try {
+    INFO = await api('/api/info');
+    const rows = await api('/api/lemmas');
+    LEMMAS = rows.map(r => ({id: r[0], lemma: r[1], band: r[2], col: r[3], kind: r[4], colTo: r[5] || r[3], f: fold(r[1])}));
+    const bands = [...new Set(rows.filter(r => r[4] === 'article').map(r => r[2]))].sort((a, b) => parseInt(a) - parseInt(b));
+    $('#jband').innerHTML = bands.map(b => `<option value="${esc(b)}">Bd. ${esc(b)}</option>`).join('');
+    document.body.classList.toggle('bookmode', !!store.get('cols', ''));
+    bandSel.insertAdjacentHTML('beforeend', bands.map(b => `<option value="${esc(b)}">${t('band.n', {b: esc(b)})}</option>`).join(''));
+    renderList('');
+    route();
+  } catch (e) {
+    view.innerHTML = `<div class="page wide"><div class="err">${t('err.server', {msg: esc(e.message)})}</div></div>`;
+  }
+})();
+</script>
+</body>
+</html>

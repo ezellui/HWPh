@@ -1,0 +1,58 @@
+HWPH.put("a/3180",
+{
+ "id":3180,
+ "lemma":"Theorie, kritische",
+ "band":"10",
+ "kind":"article",
+ "col_from":1154,
+ "col_to":1156,
+ "pdf_from":43077,
+ "pdf_to":43082,
+ "authors":["H. Dubiel"],
+ "n_notes":7,
+ "n_chars":6882,
+ "toc":[["h6","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Theorie, kritische, ist inzwischen ein unspezifischer Begriff für eine Form der Theoriebildung, die <i>erstens</i> auf eine normative Begründung ihrer selbst Wert legt, die <i>zweitens</i> an außertheoretisch repräsentierte soziale Träger adressiert ist und die <i>drittens</i> die von ihr zum Thema gemachten sozialen Verhältnisse so darstellt, daß sie der handelnden Disposition kollektiver Akteure zugänglich werden.</p>\n<p>In einem spezifischen Sinne bezeichnet der Begriff ‹k.Th.› die von M. HORKHEIMER, TH. W. ADORNO, H. MARCUSE u.a. in den 30er Jahren im ‹Institut für Sozialforschung› begründete Theorietradition der sog. ‹Frankfurter Schule›.</p>\n<p>Eingeführt und auf eine bis heute bestimmende Weise konzeptualisiert wurde der Begriff von M. HORKHEIMER in dem 1937 erschienenen Aufsatz ‹traditionelle und kritische Theorie› <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Darin wird der Begriff der ‹k.Th› zunächst im Kontrast zum Begriff der «traditionellen Theorie» entwickelt. «Traditionelle Theorie» ist für Horkheimer ein synthetisches Etikett für eine in der gesamten Moderne vorherrschende wissenschaftstheoretische Grundeinstellung, die strikt trennt zwischen dem wissenschaftlichen Erkenntnissubjekt und seinem Gegenstand. Eine «traditionelle» theoretische Erklärung begnüge sich mit der Relationierung der voneinander unabhängig gedachten <span class=\"col\" data-col=\"1155\"></span> Ebenen des theoretischen Satzes zum einen und des sinnlichen Datums zum anderen. In ideologiekritischer Einstellung sondiert Horkheimer nun die Ursache für diese wissenschaftstheoretische Grundeinstellung in deren unbewußter Verhaftung im arbeitsteiligen Zusammenhang der kapitalistischen Produktion. Deren Eigenart besteht darin, daß sie dieses sie konstituierende Moment ihrer selbst vergißt, verdrängt oder unterschlägt. Im Kontrast dazu ist k.Th. durch das Bewußtsein der Bedingtheit wissenschaftlicher Aktivität, also auch ihrer selbst, gekennzeichnet. Sie betrachtet wissenschaftliche Aktivität als «Teilvorgang» des gesellschaftlichen Arbeitsprozesses. Noch als «kritische» ist Theorie Moment des Prozesses, in dem sich die Gesellschaft in der produktiven Aneignung der Natur reproduziert. Diese selbstreflexive Plazierung von theoretischer Aktivität im gesellschaftlichen Arbeitsprozeß verbietet es nach Horkheimer, Wissenschaft von anderen gesellschaftlichen Aktivitäten analytisch zu separieren. Ein weiteres Kontrastmerkmal zur «traditionellen Theorie» ist die Relativierung der strikten Trennung des wissenschaftlichen Objekts vom wissenschaftlichen Subjekt. Nicht nur die Institutionen der Wissenschaft selbst, sondern auch ihre Gegenstände und Themen werden im Horizont der Relevanzstrukturen gesellschaftlicher Arbeit konstituiert. Die eigentliche Pointe von Horkheimers Argumentation besteht darin, daß jenes Bewußtsein der doppelten Konstituiertheit sowohl von Wissenschaft als auch von k.Th. nun nicht im Sinne einer technokratischen Effektuierung des Produktionsprozesses gewendet wird. Theorie wird zu einer <i>kritischen</i>, indem sie sich in den Dienst der praktischen Reflexion struktureller gesellschaftlicher Veränderung stellt. Sie ist Moment des gesellschaftlichen Arbeitsprozesses und zugleich politische Reflexion über dessen humane Gestaltung.</p>\n<p>In seiner Entwicklung des Begriffs der Kritik orientiert sich Horkheimer an der Marxschen ‹Kritik der politischen Ökonomie› <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Ausdrücklich setzt er sich vom idealistischen Kritikkonzept HEGELS ab, bzw. von dessen Neigung, schon im geschichtsphilosophischen Zugang zur Geschichtsbetrachtung, geronnene gesellschaftliche Verhältnisse reflexiv zu verklären. In einer ‘kritischenʼ Geschichtsbetrachtung, die K. Marx in seinem ‹Kapital› praktiziere, wird Gesellschaft mit Begriffen analysiert, die an deren revolutionärer Veränderung ausgerichtet sind.</p>\n<p>Das Verhältnis der k.Th. zur Tradition des Marxismus ist nicht eindeutig. Im Nachlaß G. SCHOLEMS findet sich eine ins Jahr 1980 zu datierende Notiz: «Kritische Theorie und Marxismus – zur bewußten Verwischung ... – nachträgliche Retouche ... Kritische Theorie war nach der Ausgabe in Paris das von oben erfundene Wort und Losung von Horkheimer aus politischen Gründen (Angst, Angst, Angst) angegebene einfache Deckwort und esoterische Synonym für Marxismus, nichts weiter. Alles andere ist Schwindel» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Eindeutig ist HORKHEIMERS methodische Orientierung an Marx' Kapitalanalyse. Zum einen verortet Horkheimer die k.Th. in den Zusammenhang marxistischer Theorietradition. Zum anderen möchte er sie von den instrumentalisierenden Aneignungen des Marxschen Erbes in der Sozialdemokratie und im Bolschewismus unterschieden wissen. Somit ist in den Begriff ‹k.Th.› der Anspruch eingeschrieben, die Instanz einer Theoriebildung zu repräsentieren, die nur an der Adäquanz ihrer Analyse interessiert ist. Horkheimer konnte sich in der Schrift, welche die Tradition der k.Th. begründete, noch nicht vorstellen, daß es jener Anspruch eines Tages gebieten könnte, zu einigen analytischen Voraussetzungen der Marxschen Theorie selbst auf Distanz zu gehen. Dieser Schritt wurde – ein halbes Jahrhundert später – von J. HABERMAS getan.</p>\n<p>Im gleichen Jahrgang der ‹Zeitschrift für Sozialforschung› nahm H. MARCUSE den Begriff ‹k.Th.› auf <sup class=\"fn\" data-fn=\"0-4\">4</sup>, datierte die Entstehung der k.Th. aber eindeutig in das Marxsche Werk zurück, wohingegen TH. W. ADORNO 1966 rückblickend anerkannte, daß Horkheimer den Begriff geprägt habe <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Auch <span class=\"col\" data-col=\"1156\"></span> wenn HABERMAS wenigstens einen Teil seines Frühwerks mit Eindeutigkeit der k.Th. zugerechnet hat <sup class=\"fn\" data-fn=\"0-6\">6</sup> und er auch später immer noch von «kritischer Gesellschaftstheorie» spricht und diese auf die ursprünglichen Ideen Horkheimers affirmativ bezieht, ist doch fraglich, ob Habermas, in der Tradition der k.Th. stehend, ihr zu Recht noch selbst zugerechnet werden kann <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">W. BONSS/A. HONNETH (Hg.): Sozialforschung als Kritik. Zum soz.wiss. Potential der k.Th. (1982). – A. SCHMIDT/N. ALTWICKER (Hg.): M. Horkheimer heute: Werk und Wirkung (1986). – A. HONNETH/A. WELLMER s. Anm. [7].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1156\"></span> M. HORKHEIMER: Tradit. und k.Th. Z. Soz.forschung 6 (1937) 245–294.</li>\n<li id=\"fn0-2\" value=\"2\">Zum Kritikbegriff vgl. auch: G.-W. KÜSTERS: Der Kritikbegriff der k.Th. M. Horkheimers (1980).</li>\n<li id=\"fn0-3\" value=\"3\">G. SCHOLEM: Faksimile in der Frankf. Allg. Ztg. (3. 9. 1997) N6.</li>\n<li id=\"fn0-4\" value=\"4\">H. MARCUSE: Philos. und k.Th., a.O. [1] 625–647.</li>\n<li id=\"fn0-5\" value=\"5\">TH. W. ADORNO: Negat. Dialektik (1966) 195.</li>\n<li id=\"fn0-6\" value=\"6\">J. HABERMAS: Theorie und Praxis (1971) 282 (erg. bibl. Notiz zur Neuausg.); vgl. Erkenntnis und Interesse (1968); Technik und Wiss. als ‘Ideologieʼ (1968).</li>\n<li id=\"fn0-7\" value=\"7\">So auch C.-F. GEYER: K.Th. (1982) und U. GMÜNDER: K.Th. (1985); zum Begriff der krit. Ges.theorie vgl. A. WELLMER: Krit. Ges.theorie und Positivismus (1969); J. HABERMAS: Theorie des kommunikat. Handelns (1981) 2, 548–593; zur ursprünglichen Konzeption vgl. auch die Arbeiten von A. SCHMIDT: Die ursprüngl. Konzeption der k.Th. im frühen und mittleren Werk M. Horkheimers, in: A. HONNETH/A. WELLMER (Hg.): Die Frankfurter Schule und ihre Folgen (1986) 89–112; Zur Idee der k.Th. Elemente der Philos. M. Horkheimers (1974).</li>\n</ol>",
+ "prev":{"id":3179,"lemma":"Theorie","band":"10","col":1128},
+ "next":{"id":3181,"lemma":"Theoriesprache","band":"10","col":1156},
+ "backlinks":[{"id":3179,"lemma":"Theorie","n":1},{"id":3423,"lemma":"Vernunft; Verstand","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"critical theory","qualifier":"","band":null,"col":null},
+  {"term":"Gesellschaftstheorie, kritische","qualifier":"","band":"10","col":"1155"},
+  {"term":"Kritik","qualifier":"","band":"10","col":"1155"},
+  {"term":"kritische Theorie","qualifier":"","band":null,"col":null},
+  {"term":"Theorie, traditionelle","qualifier":"","band":"10","col":"1154f."}
+ ],
+ "persons":[
+  {"id":47,"name":"J. Habermas","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":111,"name":"M. Horkheimer","b":3,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":26,"name":"Th. W. Adorno","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":121,"name":"H. Marcuse","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2131,"name":"A. Wellmer","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":208,"name":"G. Scholem","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2170,"name":"A. Honneth","b":0,"n":1,"l":2,"editor":0,"role":"mixed"},
+  {"id":54,"name":"A. Schmidt","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9977,"name":"G.-W. Küsters","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":30923,"name":"U. Gmünder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7045,"name":"W. Bonss","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":18188,"name":"N. Altwicker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":256,"name":"B. Geyer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":81,"lemma":"Aktivität","tf":4},
+  {"id":1871,"lemma":"Marxismus","tf":3},
+  {"id":144,"lemma":"Angst, Furcht","tf":3},
+  {"id":1647,"lemma":"Kontrast","tf":2},
+  {"id":3635,"lemma":"Wissenschaft","tf":3},
+  {"id":168,"lemma":"Anspruch","tf":2},
+  {"id":2634,"lemma":"Reflexion","tf":2},
+  {"id":3543,"lemma":"Wandel; Veränderung","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Theorie, kritische"}],
+ "reg_authors":[{"name":"Dubiel Helmut","n":3}]
+}
+);

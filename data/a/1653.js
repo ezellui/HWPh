@@ -1,0 +1,67 @@
+HWPH.put("a/1653",
+{
+ "id":1653,
+ "lemma":"Konvergenz",
+ "band":"4",
+ "kind":"article",
+ "col_from":1080,
+ "col_to":1082,
+ "pdf_from":14753,
+ "pdf_to":14757,
+ "authors":["A. Remane","W. Goerdt"],
+ "n_notes":6,
+ "n_chars":6143,
+ "toc":[
+  ["p0","I. ‹K.› nennt man in der Phylogenie die zunehmende Ähnlichkeit systematis",1],
+  ["p1","II. Konvergenztheorie. – Der Begriff ‹K.› bringt sozialwissenschaftlich ge",1],
+  ["h5","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p id=\"p0\">I. ‹K.› nennt man in der <i>Phylogenie</i> die zunehmende Ähnlichkeit systematisch entfernter Lebewesen, z.B. die habituelle Ähnlichkeit von Kakteen und manchen Wolfs milchgewächsen oder die von Beutelwolf und Wolf. Sie entsteht meist in Anpassung an gleiche Lebensweise oder gleichen Lebensraum. Oft wird zwischen K. und paralleler Entwicklung unterschieden, K. bedeutet dann sukzessive Annäherung des Baues von ganz verschiedenen Ausgangsformen, parallele Entwicklung, gleichsinnige Abänderung ähnlicher Organisationen.</p>\n<p id=\"p1\">II. <i>Konvergenztheorie.</i> – Der Begriff ‹K.› bringt sozialwissenschaftlich gewendet zum Ausdruck, daß hochentwickelte, komplexe industrielle Gesellschaften ähnliche oder gleiche Binnenstrukturen aufweisen, ohne politisch uniform zu sein. Während man Ansätze zu konvergenztheoretischem Denken bis zur französischen Aufklärung (HOLBACH, HELVÉTIUS) zurückverlegen und sie dann in den geschichtsphilosophischen Entwürfen des 19. Jh. (SAINT-SIMON, MARX, TOCQUEVILLE, SPENCER) ebenso finden kann wie in unserer Zeit in H. FREYERS Konzept des «sekundären Systems» <sup class=\"fn\" data-fn=\"0-1\">1</sup> und bei A. GEHLEN <span class=\"col\" data-col=\"1081\"></span> <sup class=\"fn\" data-fn=\"0-2\">2</sup>, hat P. A. SOROKIN wohl als erster 1944 den Begriff ‹K.› im skizzierten Sinne im Hinblick auf die USA und die UdSSR gebraucht <sup class=\"fn\" data-fn=\"0-3\">3</sup> und später prognostiziert, daß beide Gesellschaften sich zu einem soziokulturellen Mischtyp entwickeln würden <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Derartig weiträumige kultur- und sozialphilosophische Konzepte haben vor allem die Vertreter des Marxismus-Leninismus veranlaßt, marxistische Geschichtsauffassung und K.-Theorie scharf voneinander abzugrenzen, während die im Verlauf der Debatte der 1950er und 1960er Jahre von westlichen Wirtschaftswissenschaftlern und Soziologen (wie W. W. ROSTOW, J. K. GALBRAITH, J. TINBERGEN, R. ARON u.a.) beigebrachten technisch-wirtschaftlichen und soziologischen Daten zur «K.» auch im sozialistischen Lager en detail erörtert werden.</p>\n<p>Die konstitutiven <i>Thesen</i> der K.-Theorie, die auch in der westlichen Forschung jeweils bestritten worden sind (Z. K. BRZEZINSKI, S. P. HUNTINGTON u.a.), können etwa so zusammengefaßt werden: 1. Der Industrialismus schreitet universell fort, das wirtschaftliche Wachstum ist ein einheitlicher Prozeß. – 2. Der wachsende Wohlstand führt zur Entideologisierung und Entpolitisierung in West und Ost. Technik und Wirtschaft sind Primärfaktoren, Ideologie und Politik nur sekundär. Damit wird Pluralismus gefördert. – 3. Der Industrialismus zerreibt die alte Klassenstruktur der Gesellschaft durch eminente Ausbildung des tertiären Sektors (Verwaltung, Verkehr, Dienstleistungsbetriebe) gegenüber Landwirtschaft und industrieller Produktion. – 4. Unterschiedliche Systeme bzw. deren Bestandteile beeinflussen einander und wandeln sich damit.</p>\n<p>Der <i>Marxismus-Leninismus</i> lehnt die These von einer kommenden industriellen Weltgesellschaft als eines Dritten zwischen Kapitalismus und Sozialismus konsequent ab: Klassenkampf sei nicht durch technischen Fortschritt überholbar, objektiv-gesetzmäßig gehe die Entwicklung auf den Kommunismus zu, während die K.Theorie zweitrangige Übereinstimmungen verabsolutiere. Zwar wird zugegeben, daß im nicht-eindeutigen Prozeß der wissenschaftlich-technischen Revolution der Kapitalismus «nicht wenige seine Position festigende Faktoren nutzen kann» <sup class=\"fn\" data-fn=\"0-5\">5</sup>, und damit die Offenheit der gegenwärtigen sozialen Entwicklung konstatiert. Anderseits habe der Sozialismus aber in seiner Eigentumsordnung und in der führenden Rolle der Arbeiterklasse bzw. der kommunistischen Parteien den besten Anreiz zur Produktivität. Für den Marxismus-Leninismus läuft die Intention der K.-Theorie auf die Restitution des Kapitalismus im Weltmaßstab hinaus. Sie entspreche damit nicht dem Koexistenzprojekt, eröffne keinerlei Perspektiven und sei philosophisch agnostisch. Die K.-Theorie stelle somit nicht den Versuch einer Überwindung spezifischer Schwächen kapitalistischer und sozialistischer industrieller Gesellschaften zugunsten eines neuen «Mischtyps» dar, sondern sei ein «Betrugsmanöver» zur Erschwerung des Sieges des Sozialismus und «eine nur notdürftig verhüllte Apologie der kapitalistischen Ordnung» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">W. W. ROSTOW: The stages of economic <span class=\"col\" data-col=\"1082\"></span> growth (Cambridge, Mass. 1960); dtsch.: Stadien wirtschaftlichen Wachstums. Eine Alternative zur marxist. Entwicklungstheorie (1960). – J. TINBERGEN: Do communist and free economics show a converging pattern? Soviet Stud. 12 (1961) 333–341; dtsch.: Kommt es zu einer Annäherung zwischen den kommunist. und den freiheitl. Wirtschaftsordnungen? Hamburger Jb. Wirtschafts- u. Gesellschaftspolitik 8 (1963) 11–20. – Z. K. BRZEZINSKI und S. P. HUNTINGTON: Political Power: USA/USSR (New York 1964); dtsch.: Politische Macht. USA/UdSSR. Ein Vergleich (1966). – B. D. WOLFE: A historian looks at the convergence theory, in: P. W. KURTZ (Hg.): Sidney Hook and the contemporary world (New York 1968) 54–75. – M. B. MITIN und V. S. SEMENOV: Dviženie čelovečestva k kommunizmu i buržuaznaja koncepcija 'edinogo industrial'nogo obščestva', in: Voprosy filosofii (1965) Nr. 5, 35–47; dtsch.: Der Weg der Menschheit zum Kommunismus und die bürgerl. Konzeption von der «einheitlichen Industriegesellschaft», in: Sowjetwiss., gesellschaftswiss. Beiträge (1965) Nr. 9, 897–910. – G. ROSE: Industriegesellschaft und K.-Theorie. Genesis, Strukturen, Funktionen (1969). – C. P. LUDZ: Art. ‹K., K.-Theorie›, in: Sowjetsystem und demokratische Gesellschaft (1969) 3, 889–903.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1081\"></span> H. FREYER: Theorie des gegenwärtigen Zeitalters (1956).</li>\n<li id=\"fn0-2\" value=\"2\">A. GEHLEN: Sozialpsychol. Probleme der industriellen Gesellschaft (1949).</li>\n<li id=\"fn0-3\" value=\"3\">P. A. SOROKIN, Russia and the United States (New York 1944, London <sup>2</sup>1950).</li>\n<li id=\"fn0-4\" value=\"4\">P. A. SOROKIN: Mutual convergence of the United States and the U.S.S.R. to the mixed sociocultural type. Int. J. comparat. Sociol. 1 (1960) 143–176; dtsch.: Soziol. und kulturelle Annäherungen zwischen den Vereinigten Staaten und der Sowjetunion. Z. Politik NF 7 (1960) 341–370.</li>\n<li id=\"fn0-5\" value=\"5\">Peredovaja: Naučno-techničeskaja revoljucija i ee social'naja problematika (Leitartikel: Die wiss.-techn. Revolution und ihre soziale Problematik), in: Voprosy filosofii (Fragen der Philosophie) (1971) Nr. 12, 3–16, zit. 7.</li>\n<li id=\"fn0-6\" value=\"6\">G. KLAUS und M. BUHR (Hg.): Philos. Wb. 2 (1972) 599–601, zit. 600f.</li>\n</ol>",
+ "prev":{"id":1652,"lemma":"Konventionalismus","band":"4","col":1078},
+ "next":{"id":1654,"lemma":"Konversion","band":"4","col":1082},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":1545,"name":"P. A. Sorokin","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":391,"name":"H. Freyer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4542,"name":"W. W. Rostow","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":5774,"name":"Z. K. Brzezinski","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":7788,"name":"S. P. Huntington","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":11521,"name":"J. Tinbergen","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":145,"name":"H. Spencer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":475,"name":"G. Klaus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":577,"name":"C.-H. de Saint-Simon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":581,"name":"C.-A. Helvétius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":986,"name":"Holbach","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1428,"name":"A. de Tocqueville","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1809,"name":"R. Aron","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":6697,"name":"J. K. Galbraith","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2012,"name":"V. Rose","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3194,"name":"M. B. Mitin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7789,"name":"P. W. Kurtz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":9291,"name":"B. D. Wolfe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11051,"name":"J. N. Semenov","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11522,"name":"Ussr","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":710,"name":"M. Buhr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":5006,"name":"P. Ludz","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2947,"lemma":"Sozialismus","tf":3},
+  {"id":1099,"lemma":"Gesellschaft","tf":4},
+  {"id":67,"lemma":"Ähnlichkeit","tf":2},
+  {"id":2469,"lemma":"Produktion, Produktivität","tf":2},
+  {"id":2499,"lemma":"Prozeß","tf":2},
+  {"id":3186,"lemma":"These","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":5,"name":"Biologie","label":"Konvergenz I"},
+  {"id":23,"name":"Marxismus","label":"Konvergenz II"}
+ ],
+ "reg_authors":[{"name":"Goerdt Wilhelm","n":33},{"name":"Remane Adolf","n":3}]
+}
+);

@@ -1,0 +1,55 @@
+HWPH.put("a/3608",
+{
+ "id":3608,
+ "lemma":"Widerspruch, performativer; Widerspruch, pragmatischer",
+ "band":"12",
+ "kind":"article",
+ "col_from":699,
+ "col_to":700,
+ "pdf_from":50644,
+ "pdf_to":50647,
+ "authors":["M. Kranz"],
+ "n_notes":9,
+ "n_chars":4267,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>(engl. performative contradiction; pragmatic contradiction). In der 2. Hälfte des 20. Jh. kommt die Rede von einem «performativen» <a class=\"xref\" href=\"#/a/2310\">→</a> (s.d.) oder «pragmatischen Widerspruch» (auch «Selbstwiderspruch») im Unterschied zum logischen Widerspruch (Behauptung einer Aussage und ihrer Negation) auf. Dieser Begriff ist im deutschen Sprachraum durch die <a class=\"xref\" href=\"#/a/3222\">Transzendentalpragmatik</a> <span class=\"sd\">→ (s.d.)</span> K.-O. APELS geläufig geworden. Zur Rechtfertigung eines Programms der <a class=\"xref\" href=\"#/a/1784\">Letztbegründung</a> <span class=\"sd\">→ (s.d.)</span> wird geltend gemacht, daß Rede, wenn sie überhaupt sinnhaft sein soll, immer schon auf transzendentalpragmatischen Voraussetzungen der Argumentation basiert <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Solche Voraussetzungen argumentativ zu bestreiten, laufe auf einen p.W. hinaus <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Apel greift auf J. HINTIKKAS logische Rekonstruktion des cartesischen Cogito-Argumentes zurück. ‘Ich existiere nichtʼ nennt Hintikka eine «existential inconsistency». «The inconsistency (absurdity) of an existentially inconsistent statement can in a sense be said to be of performatory (performative) character» <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Schon in den 1950er Jahren wird der Ausdruck «pragmatic contradiction» von C. I. LEWIS für die Kennzeichnung eines Satzes verwendet, dessen Äußerung dem, was sie ‘pragmatischʼ impliziert, widerspricht: <span class=\"col\" data-col=\"700\"></span> «But the content of the assertion made ... is one in which the assertor's assertions are not to be believed on the evidence of his making them. The act is self-frustrating of its own ostensive purpose. That I shall call a pragmatic contradiction» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Für Lewis spielt die Konsistenz auch für die Ethik eine fundamentale Rolle. Praktische und logische Konsistenz sind «nearly related»; «practical consistency cannot be reduced to or defined in terms of merely logical consistency. But logical consistency can be considered as simply one species of practical consistency» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Über das Problem der ‘Selbstwidersprücheʼ <sup class=\"fn\" data-fn=\"0-6\">6</sup> und Selbstwiderlegungen <sup class=\"fn\" data-fn=\"0-7\">7</sup> hinaus wurde schon im Mittelalter der p.W. mit der Unterscheidung von ‹actus exercitus›/‹actus signatus› gefaßt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Im Anschluß an «Moore's paradox» (das ist eine Aussage der Form ‘<i>p,</i> aber ich glaube nicht, daß <i>pʼ</i>) wurden in neuerer Zeit pragmatische Widersprüche – unabhängig von Lewis – bei den Logikern diskutiert und auch mit der Theorie der «kontextuellen Implikation» zu explizieren versucht <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"700\"></span> K.-O. APEL: Das Problem der philos. Letztbegründung im Lichte einer transz. Sprachpragmatik (1976); ND, in: Auseinandersetzungen in der Erprobung des transz.pragmat. Ansatzes (1998) 35–79, 69ff.; vgl. Art. <a class=\"xref\" href=\"#/a/2446\">→ Präsupposition II.</a>. Hist. Wb. Philos. 7 (1989) 1270–1273.</li>\n<li id=\"fn0-2\" value=\"2\">Fallibilismus, Konsenstheorie der Wahrheit und Letztbegründung (1987); ND, a.O. 81–193, 159f.</li>\n<li id=\"fn0-3\" value=\"3\">J. HINTIKKA: Cogito, ergo sum. Philos. Review 71 (1962) 3–32, 10; vgl. die spätere Präzisierung: Cogito, ergo quis est? Rev. int. Philos. 50 (1996) 5–21.</li>\n<li id=\"fn0-4\" value=\"4\">C. I. LEWIS: The categorical imperative (1958), in: Values and imperatives. Studies in ethics, hg. J. LANGE (Stanford, Calif. 1969) 178–201, 197f.; vgl. dazu: E. DAYTON: Pragmatic contradiction. Ethics 87 (1976/77) 222–236; dagegen: J. E. FOSS: C. I. Lewis and Dayton on pragmatic contradiction. Transact. Ch. S. Peirce Soc. 17 (1981) 153–157; M. BITTNER WISEMAN: Practical principles. Ethics 90 (1979/80) 115–121.</li>\n<li id=\"fn0-5\" value=\"5\">Pragmatism and the roots of the moral (1956), a.O. 103–125, 122.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. dazu: Art. <a class=\"xref\" href=\"#/a/2845\">→ Selbstreferenz I.</a>. Hist. Wb. Philos. 9 (1995) 515–518; Art. ‹Antinomie II.›, a.O. 1 (1971) 396–405; für die mittelalterliche Logik vgl. Art. <a class=\"xref\" href=\"#/a/1450\">→ Insolubilia</a>, a.O. 4 (1976) 396–400.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. Art. <a class=\"xref\" href=\"#/a/3605\">→ Widerlegung 3.</a>.</li>\n<li id=\"fn0-8\" value=\"8\">G. NUCHELMANS: The distinction actus exercitus/actus signatus in medieval semantics, in: N. KRETZMANN (Hg.): Meaning and inference in medieval philosophy (Dordrecht 1988) 57–90, bes. 74–84.</li>\n<li id=\"fn0-9\" value=\"9\">G. E. MOORE: Ethics (London 1912) 125; (London/New York 1947) 78; A reply to my critics, in: P. A. SCHILPP (Hg.): The philos. of G. E. Moore (Chicago/Evanston, Ill. 1942) 535–687, hier: 541–543; vgl. Art. <a class=\"xref\" href=\"#/a/1399\">→ Implikation 8.</a>. Hist. Wb. Philos. 4 (1976) 265; D. GOLDSTICK: On Moore's paradox. Mind 76 (1967) 275–277; andere Beispiele bei D. J. O'CONNOR: Pragmatic paradoxes. Mind 57 (1948) 358f.; ausführl. Bibliogr. bei: G. PARETI: I paradossi pragmatici: bibliografia. Rivista Filos. 69 (1978) 170–174; G. GAZDAR: Pragmatics. Implicature, presupposition, and logical form (New York/London 1979).</li>\n</ol>",
+ "prev":{"id":3607,"lemma":"Widerspruch","band":"12","col":687},
+ "next":{"id":3609,"lemma":"Widerspruchsfreiheit","band":"12","col":700},
+ "backlinks":[
+  {"id":2995,"lemma":"Sprechakt","n":1},
+  {"id":3605,"lemma":"Widerlegung","n":1},
+  {"id":3607,"lemma":"Widerspruch","n":1}
+ ],
+ "outlinks":[
+  {"id":1399,"lemma":"Implikation","n":1},
+  {"id":1450,"lemma":"Insolubilia","n":1},
+  {"id":1784,"lemma":"Letztbegründung","n":1},
+  {"id":2310,"lemma":"Performativ","n":1},
+  {"id":2446,"lemma":"Präsupposition","n":1},
+  {"id":2845,"lemma":"Selbstreferenz","n":1},
+  {"id":3222,"lemma":"Transzendentalpragmatik/Universalpragmatik","n":1},
+  {"id":3605,"lemma":"Widerlegung","n":1}
+ ],
+ "register":[],
+ "persons":[
+  {"id":147,"name":"K.-O. Apel","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":340,"name":"J. Hintikka","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":564,"name":"C. I. Lewis","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":144,"name":"G. E. Moore","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1513,"name":"J. Lange","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12405,"name":"G. Gazdar","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":17647,"name":"E. Dayton","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":18586,"name":"M. Foss","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":18236,"name":"D. Goldstick","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":33260,"name":"M. Bittner Wiseman","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":33261,"name":"G. Pareti","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":592,"name":"P. A. Schilpp","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":619,"name":"N. Kretzmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":840,"name":"G. Nuchelmans","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":309,"lemma":"Aussage","tf":2},{"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2}],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

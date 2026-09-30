@@ -1,0 +1,12 @@
+HWPH.put("t/660",
+{
+ "b":"Eidolologie (von εἴδωλον, Bild, Abbild) ist eine auf die Synechologie folgende und die ‹Allgemeine Metaphysik› HERBARTS abschließende Disziplin, welche die Möglichkeit des Wissens metaphysisch, d.h. weder transzendentalphilosophisch noch psychologisch verständlich machen soll. Die E. ist die metaphysische Eingangsdisziplin zu Herbarts Psychologie, der Lehre von den Seelenmonaden und deren Vorstellungsleben. Das Wissen wird aus Voraussetzungen der Ontologie Herbarts, besonders der Lehre von den monadischen «Realen», als ein Modus der «Selbsterhaltung» der Seelenmonade interpretiert. Der Rückgriff auf den Ausdruck εἴδωλον impliziert keine Abbildtheorie des Wissens. \nHerbart führt seine «realistische» Begründung des Wissens in der Auseinandersetzung mit FICHTES Begründung des Wissens aus dem Ich durch. Die ersten Teile der E. enthalten daher eine Analyse des Begriffs des Ich und den Versuch einer Widerlegung Fichtes, die der endgültigen Grundlegung von Herbarts zunächst nur hypothetisch eingeführtem philosophischem Realismus dienen soll. Das Selbstbewußtsein gilt entsprechend Herbarts metaphysischer Grundthese von der Widersprüchlichkeit aller aus der Erfahrung geschöpften Grundbegriffe der theoretischen Philosophie nur als Prinzip im Sinn eines πρóτερον πρὸς ἡμᾶς, aus dem durch Bearbeitung mit Hilfe der sogenannten Methode der Beziehungen der widerspruchsfreie Begriff des Ich und des Wissens zu gewinnen ist. Das Ich erweist sich so nicht als Ursprung, sondern als ein «Werk der Bildung», als ein «Kind der Zeit» , Es wird bestimmt «als ein Mittelpunct wechselnder Vorstellungen» . \nDie Frage nach der Möglichkeit des Wissens und nach der Sicherheit, mit der das Reale selbst zu erkennen ist, beantwortet die E. vereinfachend so: «Die gegebenen Empfindungen sind Selbstdarstellungen der Seele, das Empfundene ist nur Ausdruck der innern Qualität der letztern; aber die Ordnung und Folge der Empfindungen verräth das Zusammen und Nicht-Zusammen der Dinge; daraus entsteht die geistige Ausbildung, worin zum Theil, mit großen Irrthümern vermischt, aber auch der Berichtigung zugänglich, der Lauf der Begebenheiten sich abspiegelt» .",
+ "n":"Allgemeine Met. nebst den Anfängen der philos. Naturlehre. 2., systematischer Theil (1829) § 303. \na.a.O. § 325. \na.a.O. § 302.",
+ "l":"",
+ "au":"G. Buck",
+ "A":["G. Buck"],
+ "cb":[[0,329],[673,329],[1263,330],[1604,330]],
+ "cn":[[0,329],[0,330],[99,330],[114,330]],
+ "cl":[]
+}
+);

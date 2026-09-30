@@ -1,0 +1,45 @@
+HWPH.put("a/2261",
+{
+ "id":2261,
+ "lemma":"Panentheismus",
+ "band":"7",
+ "kind":"article",
+ "col_from":48,
+ "col_to":48,
+ "pdf_from":24853,
+ "pdf_to":24854,
+ "authors":["U. Dierse","U. Dierse/W. Schröder"],
+ "n_notes":7,
+ "n_chars":1676,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Panentheismus (von griech. πᾶν ἐν θεῷ alles in Gott; engl. panentheism; frz. panenthéisme; ital. panenteismo) ist von den zahlreichen Neologismen zu ‹Pantheismus› (‹Theopantismus› <sup class=\"fn\" data-fn=\"0-1\">1</sup>, ‹Semipantheismus› <sup class=\"fn\" data-fn=\"0-2\">2</sup> u. ä.) der einzige, der eine weitere Verbreitung erlangte. Allgemein gilt K. CH. F. KRAUSE als Schöpfer dieses Begriffs. Jedoch schreibt NOVALIS bereits 1798: «Die Zeit muß kommen, wo politischer Entheism und Pantheism als nothwendige Wechselglieder aufs innigste verbunden sein werden» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Diese für Novalis' messianische Erwartungshaltung bezeichnende Begriffsbildung kannte aber KRAUSE noch nicht, als er 1828 den Terminus ‹P.› zur Bezeichnung der Immanenz der Welt in Gott prägte <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die «Allingottlehre» (so die Übersetzung für ‹P.› <sup class=\"fn\" data-fn=\"0-5\">5</sup>) bewahrt im Gegensatz zum «Grundirrthum» des Pantheismus die Abhängigkeit der Welt von Gott und dessen Transzendenz. Während sich nur wenige Autoren zum P. ausdrücklich bekennen <sup class=\"fn\" data-fn=\"0-6\">6</sup>, werden ihm in der Philosophiegeschichtsschreibung zahlreiche andere vom Neuplatonismus und der Mystik bis ins 19. und 20. Jh. (oftmals undifferenziert) zugeordnet <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. L. SCHWARZ: Schellings alte und neue Philos. (1844) 152; R. OTTO: Das Heilige (<sup>9</sup>1922) 258.</li>\n<li id=\"fn0-2\" value=\"2\">C. GUTBERLET: Lehrb. der Philos. 1 (1890) 76.</li>\n<li id=\"fn0-3\" value=\"3\">NOVALIS: Schriften, hg. P. KLUCKHOHN/R. SAMUEL 2 (<sup>2</sup>1960) 503.</li>\n<li id=\"fn0-4\" value=\"4\">K. CH. F. KRAUSE: Vorles. über das System der Philos., hg. P. HOHLFELD/A. WÜNSCHE (<sup>2</sup>1889) 1, 313f.</li>\n<li id=\"fn0-5\" value=\"5\">Vorles. über die Grundwahrheiten der Wiss. (1829) 484.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. I. H. FICHTE: Verm. Schr. zur Philos., Theol. und Ethik 1 (1869).</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. W. DILTHEY: Auffassung und Analyse des Menschen im 15. und 16. Jh. Ges. Schr. 2 (<sup>10</sup>1977) 77; EISLER<sup>4</sup> s.v.; H. SCHMIDT/G. SCHISCHKOFF: Philos. Wb. (<sup>14</sup>1957) s.v.</li>\n</ol>",
+ "prev":{"id":2260,"lemma":"Pampaedia","band":"7","col":47},
+ "next":{"id":2262,"lemma":"Panlogismus","band":"7","col":49},
+ "backlinks":[{"id":3600,"lemma":"Wesensschau","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Allingottlehre","qualifier":"(Krause)","band":null,"col":null},
+  {"term":"Entheism","qualifier":"(Krause)","band":"7","col":"48"},
+  {"term":"Immanenz der Dinge in Gott","qualifier":"(Krause)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":346,"name":"K. Ch. F. Krause","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":78,"name":"Novalis","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":54,"name":"A. Schmidt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31,"name":"W. Dilthey","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":225,"name":"H. Schwarz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":290,"name":"Otto von Freising","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2567,"name":"A. Wünsche","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4074,"name":"C. Gutberlet","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8019,"name":"G. Schischkoff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":303,"name":"P. Kluckhohn","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":337,"name":"R. Samuel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4171,"name":"P. Hohlfeld","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2266,"lemma":"Pantheismus","tf":2}],
+ "see_also":[{"id":1683,"lemma":"Krausismo"}],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Panentheismus (Krause)"}],
+ "reg_authors":[{"name":"Dierse Ulrich","n":52},{"name":"Schröder Winfried","n":29}]
+}
+);

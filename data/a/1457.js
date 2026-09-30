@@ -1,0 +1,47 @@
+HWPH.put("a/1457",
+{
+ "id":1457,
+ "lemma":"Intellectual History",
+ "band":"4",
+ "kind":"article",
+ "col_from":431,
+ "col_to":432,
+ "pdf_from":12725,
+ "pdf_to":12728,
+ "authors":["R. Hülsewiesche"],
+ "n_notes":16,
+ "n_chars":4204,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Intellectual History kam um die Wende zum 20. <span class=\"col\" data-col=\"432\"></span> Jh. in den USA in Gebrauch als ein Begriff, der zur Überwindung der rein positivistisch orientierten Geschichtsbetrachtung motivieren sollte. Er bezeichnet den Versuch, geschichts- und geisteswissenschaftliche, aus der Tradition des Historismus stammende Anregungen «organisch» <sup class=\"fn\" data-fn=\"0-1\">1</sup> mit aus der Soziologie stammenden Theorien und Modellen der Gesellschaftsbetrachtung zu verschmelzen. Der Terminus wurde zuerst von J. H. ROBINSON, einem der Väter der ‹New History› in Amerika 1904 <sup class=\"fn\" data-fn=\"0-2\">2</sup> benutzt, erhält bei ihm aber noch keine programmatische Bedeutung. 1938 verwendete P. MILLER den Begriff erneut, und sein Werk ‹The New England Mind› <sup class=\"fn\" data-fn=\"0-3\">3</sup> war wohl «die erste wissenschaftliche Arbeit, die es für sich in Anspruch nahm, eine LH. zu sein» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Nach dem Zweiten Weltkrieg wurde der Begriff als Weiterentwicklung, aber auch in Absetzung von A. O. LOVEJOYS <a class=\"xref\" href=\"#/a/1284\">‹History of Ideas›</a> <span class=\"sd\">→ (s.d.)</span> wieder aufgenommen und die LH. von einer breiteren Schicht amerikanischer Historiker als eigenständige Disziplin der Geschichtswissenschaften etabliert; der Ausdruck wurde jedoch bis in die jüngste Vergangenheit <sup class=\"fn\" data-fn=\"0-5\">5</sup> gelegentlich noch als Synonym für ‹History of Ideas› benutzt.</p>\n<p>Ein Programm dieses interdisziplinären Teilgebietes der Geschichtswissenschaften haben mit übereinstimmenden Schwerpunkten F. L. BAUMER <sup class=\"fn\" data-fn=\"0-6\">6</sup>, J. HIGHAM <sup class=\"fn\" data-fn=\"0-7\">7</sup>, M. MANDELBAUM <sup class=\"fn\" data-fn=\"0-8\">8</sup>, F. GILBERT <sup class=\"fn\" data-fn=\"0-9\">9</sup> und neuestens wieder L. KRIEGER <sup class=\"fn\" data-fn=\"0-10\">10</sup> zu geben versucht. Es geht darum, «jede Art von Gedachtem» <sup class=\"fn\" data-fn=\"0-11\">11</sup>, das sich als epochebeherrschende Idee in den Wissenschaften oder auch in jedem anderen Gebiet «der geistigen Landschaft eines Zeitraumes» <sup class=\"fn\" data-fn=\"0-12\">12</sup> auffinden läßt, von seiner Genese bis zu seiner Ablösung in seinen vielfachen Zusammenhängen möglichst präzise darzustellen <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Dazu sollen dann sowohl die sozialen Kräfte (status, scholarly communications), die einen Autor beeinflussen, als auch die Wirkungsgeschichte – sowohl in der wissenschaftlichen Diskussion als auch bei einer eventuellen Popularisierung – in die Betrachtung mit einbezogen werden. Dieses breit angelegte Untersuchungsziel der I.H. erfordert eine Methodenvielfalt, die eine wechselseitig sich beeinflussende Verbindung von geistes-und sozialwissenschaftlichen Methoden bedingt. Die geisteswissenschaftlichen Methoden haben dabei ihren Schwerpunkt im biographischen und rekonstruierend verstehenden Teil der Untersuchung <sup class=\"fn\" data-fn=\"0-14\">14</sup>, während mit Hilfe sozialwissenschaftlicher Verfahren die gesellschaftliche Bedeutung etwa von Ideen verfolgt und bewiesen werden soll <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Spezielle Ansatzpunkte innerhalb des historischen Prozesses sind dabei für den Intellectual Historian Epochenübergänge bzw. Zeiten des intellektuellen Klimawechsels <sup class=\"fn\" data-fn=\"0-16\">16</sup>.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">R. A. SKOTHEIM s. Anm. [1]. – F. GILBERT s. Anm. [4] mit weiterer Lit. – Vgl. aus der Perspektive des Historian of Sci. TH. S. KUHN: The relations between hist. and hist. of sci. Daedalus 100 (1971) 271–304.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">A. SCHLESINGER jr.: Rez. von R. A. SKOTHEIM: Amer. I. H. and historians (Princeton 1966). Hist. a. Theory 77 (1968) bes. 223f.; J. HIGHAM: LH. and its neighbours, J. Hist. of Ideas 15 (1954) 339–347, zit. 347.</li>\n<li id=\"fn0-2\" value=\"2\">Titel eines Kurses: The I.H. of Western Europe, in: L. V. HENDRICKS: James Harvey Robinson. Teacher of hist. (New York 1946) 16ff.</li>\n<li id=\"fn0-3\" value=\"3\">P. MILLER: The New England mind. The 17th century (Cambridge, Mass. 1939, <sup>2</sup>1967) bes. VII.</li>\n<li id=\"fn0-4\" value=\"4\">F. GILBERT: I.H. Its aims and methods. Daedalus 100 (1971) 80–97, zit. 80 (dtsch. vom A.).</li>\n<li id=\"fn0-5\" value=\"5\">J. MAZZEO: Some interpretations of the hist. of ideas. J. Hist. of Ideas 33 (1972) 379–394.</li>\n<li id=\"fn0-6\" value=\"6\">F. L. BAUMER: I.H. and its problems. J. mod. Hist. 21 (1949) 191–203.</li>\n<li id=\"fn0-7\" value=\"7\">HIGHAM, a.a.O. [1].</li>\n<li id=\"fn0-8\" value=\"8\">M. MANDELBAUM: The hist. of ideas, I.H. and the hist. of philos. Hist. a. Theory, Beih. 5 (1965) 33–66.</li>\n<li id=\"fn0-9\" value=\"9\">GILBERT, a.a.O. [4].</li>\n<li id=\"fn0-10\" value=\"10\">L. KRIEGER: The autonomy of I.H. J. Hist. of Ideas 34 (1973) 499–516.</li>\n<li id=\"fn0-11\" value=\"11\">HIGHAM, a.a.O. [1] 340 (dtsch. vom A.); vgl. auch GILBERT, a.a.O. [4] 81; BAUMER, a.a.O. [6] 191; MANDELBAUM, a.a.O. [8] 37.</li>\n<li id=\"fn0-12\" value=\"12\">HIGHAM, a.a.O. [1] 340f. (dtsch. vom A.).</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. BAUMER, a.a.O. [6] 191; HIGHAM, a.a.O. [1] 345f.</li>\n<li id=\"fn0-14\" value=\"14\">Vgl. GILBERT, a.a.O. [4] 90f.; HIGHAM, a.a.O. [1] 344.</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. GILBERT, a.a.O. [4] 92; BAUMER, a.a.O. [6] 193f.; HIGHAM, a.a.O. [1] 346.</li>\n<li id=\"fn0-16\" value=\"16\">Vgl. SCHLESINGER jr., a.a.O. [1] 223f.; GILBERT, a.a.O. [4] 93; KRIEGER, a.a.O. [10] 512.</li>\n</ol>",
+ "prev":{"id":1456,"lemma":"Integration","band":"4","col":428},
+ "next":{"id":1458,"lemma":"Intellectus agens / intellectus possibilis","band":"4","col":433},
+ "backlinks":[{"id":2862,"lemma":"Semantik, historische","n":1}],
+ "outlinks":[{"id":1284,"lemma":"History of Ideas","n":1}],
+ "register":[],
+ "persons":[
+  {"id":5122,"name":"J. Higham","b":1,"n":7,"l":0,"editor":0,"role":"scholar"},
+  {"id":1564,"name":"Gilbert","b":0,"n":5,"l":0,"editor":0,"role":"scholar"},
+  {"id":7704,"name":"F. L. Baumer","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},
+  {"id":3005,"name":"M. Mandelbaum","b":1,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":933,"name":"W. Gilbert","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":5123,"name":"L. Krieger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":14732,"name":"R. A. Skotheim","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":751,"name":"A. O. Lovejoy","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1985,"name":"J. Robinson","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":4112,"name":"W. Schlesinger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14733,"name":"L. V. Hendricks","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21888,"name":"J. Mazzeo","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21889,"name":"Schlesinger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21890,"name":"Krieger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":265,"name":"Th. S. Kuhn","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":371,"name":"N. Miller","b":1,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":1284,"lemma":"History of Ideas"}],
+ "groups":[
+  {"id":7,"name":"Disziplinen und Fächer","label":"Intellectual History"},
+  {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Intellectual History"}
+ ],
+ "reg_authors":[{"name":"Hülsewiesche Reinhold","n":6},{"name":"Oeing-Hanhoff Ludger","n":29}]
+}
+);

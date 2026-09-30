@@ -1,0 +1,55 @@
+HWPH.put("a/606",
+{
+ "id":606,
+ "lemma":"Direkte Aktion",
+ "band":"2",
+ "kind":"article",
+ "col_from":255,
+ "col_to":256,
+ "pdf_from":4416,
+ "pdf_to":4418,
+ "authors":["J. Debus"],
+ "n_notes":8,
+ "n_chars":2717,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Direkte Aktion (action directe) ist der Name <span class=\"col\" data-col=\"256\"></span> eines politischen Handlungsmodells, das Programm und Politik des <i>revolutionären Syndikalismus</i> beherrscht, einer um 1890 in Frankreich in Opposition zu den sozialistischen Parteien entstandenen gewerkschaftlichen Bewegung, die die sozialistische Klassenkampf lehre mit dem Antietatismus des Anarchismus (besonders PROUDHONS und BAKUNINS) verknüpft <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>So fordert F. PELLOUTIER <sup class=\"fn\" data-fn=\"0-2\">2</sup> von den Gewerkschaften, sich außerhalb der geltenden Ordnung zu stellen, um sie zerstören zu können, d.h. gar nicht erst nach Handlungsmöglichkeiten innerhalb des Bestehenden zu fragen. Er setzt die d.A. der indirekten parlamentarischen entgegen: passiver Widerstand, Boykott, Sabotage, Straßendemonstrationen und schließlich Generalstreik. Der Gewerkschaftsführer V. GRIFFUEHLHES <sup class=\"fn\" data-fn=\"0-3\">3</sup> geht in seiner ‹Taktik spontaner Handlungen› davon aus, daß die parlamentarisch agierende Bürokratie der sozialistischen Partei im Gesetzgebungswege kaum jene Reformen erreichen werde, die der revolutionäre Syndikalismus durch d.A. gegen Unternehmer und Staat erzwingen könne.</p>\n<p>Außerhalb der Gewerkschaften und ohne nennenswerten Einfluß auf diese erweitern Intellektuelle um die Zeitschrift ‹Mouvement socialiste› (1899–1914) die syndikalistischen Auffassungen über d.A. zu einem philosophisch begründeten System. Neben BERTH und LAGARDELLE ist G. SOREL <sup class=\"fn\" data-fn=\"0-4\">4</sup> der bedeutendste dieser «neuen Schule». Nach ihm hat die bürgerliche Gesellschaft die Kraft verloren, ihre Konflikte auszutragen und dadurch sich selbst zu erneuern; sie hat das Gesetz des natürlichen Lebens, die «condition antagoniste», verleugnet und damit die Moral untergraben, die zu ihrer permanenten Regeneration des Kampfes bedarf. Träger einer neuen Moral ist das gewaltgewohnte Proletariat, für das im unmittelbaren Kampf gegen die bürgerliche Klasse die d.A. in der Gestalt des Generalstreiks zum handlungsleitenden «Mythos» geworden ist <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Begriff und Sache der d.A. sind im letzten Jahrzehnt mehrfach wiederaufgegriffen worden, so in der ‹Situationistischen Internationale› und der ‹Subversiven Aktion› <sup class=\"fn\" data-fn=\"0-6\">6</sup>, bei E. GUEVARA, R. DEBRAY und D. COHN-BENDIT <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Motive der Theorie der d.A. kehren auch in der Philosophie SARTRES wieder <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">N. F. GRUBE: Die Theorie des frz. revolutionären Syndikalismus (Diss. Freiburg 1927).</li>\n<li id=\"fn0-2\" value=\"2\">F. PELLOUTIER: L'anarchisme et les syndicats ouvriers (Paris 1895); Hist. des Bourses du Travail (Paris 1902).</li>\n<li id=\"fn0-3\" value=\"3\">E. NAEF: Geistige Kräfte der freien frz. Gewerkschaftsbewegung in der ersten Hälfte des 20. Jh. (1953) 50ff.</li>\n<li id=\"fn0-4\" value=\"4\">M. FREUND: G. Sorel (1932).</li>\n<li id=\"fn0-5\" value=\"5\">HANS BARTH: Masse und Mythos (1959) 66–104.</li>\n<li id=\"fn0-6\" value=\"6\">A. GOESCHEL (Hg.): Richtlinien und Anschläge (1968).</li>\n<li id=\"fn0-7\" value=\"7\">O. RAMMSTEDT: Anarchismus (1969) 24–27.</li>\n<li id=\"fn0-8\" value=\"8\">G. A. ZEHM: Hist. Vernunft und d.A. (1964).</li>\n</ol>",
+ "prev":{"id":605,"lemma":"Dingmystik","band":"2","col":255},
+ "next":{"id":607,"lemma":"Disciplina, doctrina","band":"2","col":256},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"action directe","qualifier":"","band":null,"col":null},
+  {"term":"Aktion, direkte","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":7161,"name":"F. Pelloutier","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":79,"name":"J.-P. Sartre","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":699,"name":"P.-J. Proudhon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":935,"name":"G. Sorel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1080,"name":"M. Bakunin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3199,"name":"M. Freund","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5540,"name":"G. M. A. Grube","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7239,"name":"E. Guevara","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7160,"name":"E. Berth","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8715,"name":"E. Naef","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7347,"name":"Hans Barth","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7346,"name":"H. Lagardelle","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":10775,"name":"R. Debray","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19949,"name":"V. Griffuehlhes","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19950,"name":"D. Cohn-Bendit","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19951,"name":"A. Goeschel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19952,"name":"G. A. Zehm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":911,"name":"O. Rammstedt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3103,"lemma":"Syndikalismus","tf":2},
+  {"id":79,"lemma":"Aktion, Philosophie der","tf":2},
+  {"id":2281,"lemma":"Partei","tf":2},
+  {"id":1524,"lemma":"Kampf","tf":2},
+  {"id":2022,"lemma":"Moral, moralisch, Moralphilosophie","tf":2}
+ ],
+ "see_also":[{"id":3103,"lemma":"Syndikalismus"}],
+ "groups":[{"id":33,"name":"Politische Theorie","label":"Direkte Aktion"}],
+ "reg_authors":[{"name":"Debus Jürgen","n":6}]
+}
+);

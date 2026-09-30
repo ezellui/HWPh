@@ -1,0 +1,57 @@
+HWPH.put("a/3525",
+{
+ "id":3525,
+ "lemma":"Wahrheit (Pravda/Istina)",
+ "band":"12",
+ "kind":"article",
+ "col_from":133,
+ "col_to":135,
+ "pdf_from":48901,
+ "pdf_to":48906,
+ "authors":["A. Haardt"],
+ "n_notes":12,
+ "n_chars":6777,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Wahrheit (Pravda/Istina). Seit den altrussischen Texten des 11. Jh. werden im Russischen bis in den heutigen Sprachgebrauch hinein zwei Ausdrücke für W. gebraucht: ‹Pravda› steht vorwiegend für praktische W., Recht und Gerechtigkeit, ‹Istina› zumeist für theoretische W., aber auch für Wirklichkeit bzw. für den in einer Aussage angezielten Sachverhalt <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Diese gerade für philosophische W.-Theorien des 19. und 20. Jh. fundamentale Dualität des vorphilosophischen Sprachgebrauchs geht letztlich auf altkirchenslavische und altrussische Übertragungen griechischer Texte der jüdisch-christlichen Überlieferung, insbesondere der Evangelien, zurück, wurde doch hier δικαιοσύνη fast durchgehend mit ‹Pravda›, ἀλήθεια hingegen fast immer mit ‹Istina› übersetzt <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die in den christlichen Texten, insbesondere im ‹Johannesevangelium›, evozierte lebensverwandelnde Bedeutung der Aletheia (Gottes) ist in der Folge – auch in säkularen Zusammenhängen – auf ihr russisches Pendant übergegangen, so daß aus dem jeweiligen Kontext zu erschließen ist, ob mit ‹Istina› die theoretische Richtigkeit einer Aussage bzw. das Bestehen eines Sachverhaltes oder aber eine existentiell bedeutsame W. gemeint ist. So wie ‹Istina› – insbesondere in ihrem singularischen Gebrauch – eine praktische bzw. existentielle Bedeutung aufweisen kann, steht umgekehrt <span class=\"col\" data-col=\"134\"></span> das prädikativ gebrauchte ‹Pravda› des öfteren für das Zutreffen einer Aussage. Die Situation verkompliziert sich noch dadurch, daß auch der Ausdruck für ‹Gerechtigkeit› – ‹spravedlivost'› – bzw. für ‹gerecht› – ‹spravedlivyj› –, der in manchen Zusammenhängen mit ‹Pravda› als praktischer W. austauschbar ist, in anderen Kontexten durch ‹Richtigkeit› bzw. ‹richtig› übersetzt werden kann und hier die Bedeutung theoretischer W. erhält.</p>\n<p>Wenn die erst seit dem 18. Jh. in Rußland begründeten Strömungen autonomer Philosophie <sup class=\"fn\" data-fn=\"0-3\">3</sup> die vorphilosophische und religiös bestimmte Rede von ‹Pravda› und ‹Istina› reflektieren und – jeweils unterschiedlich – terminieren, spielen einerseits die jeweiligen westeuropäischen Ansprechpartner eine wesentliche Rolle (so wird unter dem Einfluß des deutschen Rationalismus ‹Istina› als «adaequatio rei et intellectus» definiert <sup class=\"fn\" data-fn=\"0-4\">4</sup>), andererseits die christlich-platonischen Denkfiguren und Begriffe der griechischen Patristik. Über sie und den sie bestimmenden antiken Neuplatonismus vermittelt ist etwa das W.-Verständnis des Slavophilen I. KIREEVSKIJ und ebenso dasjenige V. SOLOV'EVS. ‹Istina› ist hier – gut platonisch – als Inbegriff der in ausgezeichneter Weise erkennbaren und im eigentlichen Sinne seienden und zugleich maßstabgebenden Wirklichkeit der Ideen gedacht, die dabei aus dem Horizont einer neuplatonischen All-Einheitslehre als Denkinhalt des göttlichen Verstandes, des all-einen Urgrundes begriffen werden <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Bildet die «all-eine W.» («vseedinaja Istina») den Schlüsselbegriff in Solov'evs Metaphysik, so spielt in dessen metaphysisch begründeter Ethik die Pravda in all ihren Bedeutungsnuancen eine zentrale Rolle. Hier soll «das Gute» – die Pravda nämlich als soziale und politische Gerechtigkeit – in dem Sinne eine Rechtfertigung («opravdanie») erfahren, daß sie als ein historisch realisierbares, keineswegs weltfremdes Ideal aufgewiesen wird <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Durch eine philosophisch orientierte Reflexion über die Dualität des W.-Begriffs gelangen russische Denker des 19. und 20. Jh. zu Versuchen einer Vermittlung theoretischer und lebenspraktisch-moralischer W. Am bekanntesten und einflußreichsten ist hier die programmatische Formulierung des Sozialisten N. K. MICHAJLOVSKIJ: «Furchtlos der Wirklichkeit und ihrer Widerspiegelung – der Pravda–Istina, der objektiven W. in die Augen zu schauen und zugleich die Pravda–spravedlivost', die subjektive W. zu bewahren, – das ist die Aufgabe meines ganzen Lebens» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Der hier ausgeblendete Umstand, daß auch die praktische W. in einem subjektiven Sinn als die Stimme des Gewissens oder objektiv als intersubjektiv begründbares Gerechtigkeitskonzept (oder auch als vorgegebene Rechtsordnung <sup class=\"fn\" data-fn=\"0-8\">8</sup>) verstanden werden kann, ist schon zuvor von I. KIREEVSKIJ apostrophiert und durch die Dualität innerer und äußerer Pravda ausgedrückt worden <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Ebenso kann ‹W.› als ‹Istina› einen subjektivexistentiellen wie einen intersubjektiven Sinn erhalten <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Im prominentesten Text zur Dualität theoretischer und praktischer W. im 20. Jh. wirft N. BERDJAEV der russischen, revolutionär orientierten Intelligencija von V. Belinskij bis G. Plechanov vor, die Eigenbedeutung philosophischer Theoriebildung und der in ihr angezielten Istina zu negieren und sie zugunsten der Realisierung der Pravda im Sinne sozialer und politischer Gerechtigkeit zu instrumentalisieren <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Die mitangesprochene marxistische Relativierung des W.-Begriffs auf den Standpunkt von Klasseninteressen und die Apostrophierung gesellschaftlicher Praxis als Kriterium der W. wird nach der Oktoberrevolution im Rahmen der marxistisch-leninistischen Erkenntnislehre so gefaßt, daß in solchen Zusammenhängen fast immer von ‹Istina›, kaum jemals von ‹Pravda› die Rede ist <sup class=\"fn\" data-fn=\"0-12\">12</sup>. <span class=\"col\" data-col=\"135\"></span></p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">W. GOERDT s. Anm. [7]. – D. KEGLER s. Anm. [2]. – D. KOMEL: ‹Resnica› als slawisches Wort für die W. Arch. Begriffsgesch. 45 (2003) 45–60.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"134\"></span> I. SREZNEVSKIJ: Art. ‹Istina›, in: Materialy dlja Slovaria drevnerusskogo jazyka ... [Materialien für ein Wb. der altruss. Sprache] (St. Petersburg 1893ff.) 1, 1144f.; Art. ‹Pravda›, a.O. 2, 1355–1360; J. PAWLOWSKI: Art. ‹Istina›, in: Russ.-dtsch. Wb. (Riga/Leipzig <sup>2</sup>1879) 339; Art. ‹Pravda›, a.O. 867; G. <span class=\"col\" data-col=\"135\"></span> ERIKSSON: Le nid PRAV – dans son champ sémantique (Stockholm 1967).</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. D. KEGLER: Unters. zur Bedeutungsgesch. von Istina und Pravda im Russischen (1975).</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. W. GOERDT: Russ. Philosophie (1984) 191–261.</li>\n<li id=\"fn0-4\" value=\"4\">Art. ‹Istina›, in: Slovar' Akademii Rossijskoj III [Wb. der Russ. Akad. III] (St. Petersburg 1792) 319.</li>\n<li id=\"fn0-5\" value=\"5\">Zum Guten, Wahren und Schönen als «Wesenheit» («suščnost'») bzw. inneren Gehalt des «absolut Seienden» («absoljutno suščee») vgl. V. SOLOV'EV: Filosofskie nacala cel'nogo znanija [Philos. Prinzipien ganzheitlichen Wissens]. Sobr. Soč. [Sämtl. Werke], hg. S. M. SOLOV'EV/E. L. RADLOV (<sup>2</sup>1911) 1, 373.</li>\n<li id=\"fn0-6\" value=\"6\">Opravdanie dobra [Rechtfertigung des Guten], a.O. 8, 3–516; dtsch., in: Dtsch. Ges.ausg., hg. W. SZYLKARSKI/W. LETTENBAUER/L. MÜLLER 5 (1976).</li>\n<li id=\"fn0-7\" value=\"7\">N. K. MICHAJLOVSKIJ: Sočinenija [Werke] 1 (St. Petersburg 1896) VI; dazu: W. GOERDT: Pravda. Arch. Begr.gesch. 12 (1968) 58–85.</li>\n<li id=\"fn0-8\" value=\"8\">So lautete der Titel des Russ. Rechtskodexes aus dem 11. Jh.: ‹Russkaja Pravda›.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. JU. S. STEPANOV: Konstanty (Moskau 1997) 329.</li>\n<li id=\"fn0-10\" value=\"10\">V. IVANOV: Nicše i Dionis [Nietzsche und Dionysos]. Sobr. Soč. 1 (Brüssel 1971) 721.</li>\n<li id=\"fn0-11\" value=\"11\">N. BERDJAEV: Die philos. Istina und die Pravda der Intelligencija, in: Vechi [Wegmarken] (Moskau 1991) 11–30.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. Art. ‹Istina›, in: Filosofskaja Ënciklopedija 2 (Moskau 1962) 345–351.</li>\n</ol>",
+ "prev":{"id":3524,"lemma":"Wahrheit (christlich-theologisch)","band":"12","col":123},
+ "next":{"id":3526,"lemma":"Wahrheit, absolute","band":"12","col":135},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"508","qualifier":"","band":"12","col":"133"},
+  {"term":"Istina","qualifier":"","band":null,"col":null},
+  {"term":"pravda","qualifier":"","band":null,"col":null},
+  {"term":"spravedlivost","qualifier":"","band":"12","col":"133"}
+ ],
+ "persons":[
+  {"id":2400,"name":"V. Solov'ev","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":3306,"name":"N. Berdjaev","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5892,"name":"N. K. Michajlovskij","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6021,"name":"I. Kireevskij","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8118,"name":"D. Kegler","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9989,"name":"H.-M. Pawlowski","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11734,"name":"I. I. Sreznevskij","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8097,"name":"E. L. Radlov","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":11742,"name":"W. Lettenbauer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12896,"name":"V. Ivanov","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32725,"name":"G. Eriksson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32726,"name":"Prav","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32727,"name":"Ju. S. Stepanov","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32728,"name":"D. Komel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":876,"name":"W. Goerdt","b":0,"n":2,"l":1,"editor":1,"role":"scholar"},
+  {"id":13693,"name":"W. Szylkarski","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1083,"lemma":"Gerechtigkeit","tf":4},
+  {"id":2717,"lemma":"Richtigkeit","tf":2},
+  {"id":309,"lemma":"Aussage","tf":3},
+  {"id":2732,"lemma":"Sachverhalt","tf":2},
+  {"id":3628,"lemma":"Wirklichkeit","tf":3},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":40,"name":"Russische bzw. Sowjetische Philosophie","label":"Wahrheit (Pravda/Istina)"}],
+ "reg_authors":[{"name":"Haardt Alexander","n":1}]
+}
+);

@@ -1,0 +1,35 @@
+HWPH.put("a/2197",
+{
+ "id":2197,
+ "lemma":"Obversion",
+ "band":"6",
+ "kind":"article",
+ "col_from":1089,
+ "col_to":1090,
+ "pdf_from":23764,
+ "pdf_to":23765,
+ "authors":["A. Menne"],
+ "n_notes":8,
+ "n_chars":1794,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Obversion heißt eine unmittelbare Schlußweise, die auf der Gleichwertigkeit des judikativ-negativen und des prädikativ-negativen Urteils beruht bzw. darauf, daß diese beiden Arten der <a class=\"xref\" href=\"#/a/2100\">Negation</a> <span class=\"sd\">→ (s.d.)</span>, zugleich angewandt, sich wieder aufheben. Der O. liegen daher die folgenden logischen Äquivalenzen zugrunde:</p>\n<p>⊢ <i>SeP</i> ↔ <i>SaP'</i> (z.B.: Kein Stein ist lebendig – Alle Steine sind leblos)</p>\n<p>⊢ <i>SoP</i> ↔ <i>SiP'</i> (z.B.: Einige Elemente sind keine Metalle – Einige Elemente sind Nicht-Metalle)</p>\n<p>⊢ <i>SeP'</i> ↔ <i>SaP</i> (z.B.: Kein Mensch ist unsterblich – Alle Menschen sind sterblich)</p>\n<p>⊢ <i>SoP'</i> ↔ <i>SiP</i> (z.B.: Einige Dreiecke sind nicht ungleichseitig – Einige Dreiecke sind gleichseitig).</p>\n<p>In dieser Bedeutung wird der Terminus insbesondere in angelsächsischen Logiken des 19. Jh. verwendet, wohl zuerst bei A. BAIN <sup class=\"fn\" data-fn=\"0-1\">1</sup>, ferner z.B. bei W. S. JEVONS <sup class=\"fn\" data-fn=\"0-2\">2</sup> und J. N. KEYNES <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Beispiele für die O. finden sich schon bei ARISTOTELES <sup class=\"fn\" data-fn=\"0-4\">4</sup>; eine übersichtliche Zusammenstellung gibt vor Bain bereits W. THOMSON <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Bain kennt auch eine «materiale O.» und versteht darunter Fälle, in denen sich die Folgerung nicht formal, sondern nur aufgrundinhaltlicher Zusammenhänge ergibt. (Beispiel: «Wissen ist gut – Unwissenheit ist schlecht.») Gelegentlich <span class=\"col\" data-col=\"1090\"></span> wird ‹O.› auch synonym mit ‹Konversion› <sup class=\"fn\" data-fn=\"0-6\">6</sup> verwendet, z.B. bei W. HAMILTON <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Zu weiteren Benennungen der O., die sich nicht durchgesetzt haben, vgl. P. COFFEY <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1090\"></span> A. BAIN: Logic (London 1870) 109ff.</li>\n<li id=\"fn0-2\" value=\"2\">W. S. JEVONS: Elementary lessons in logic (London 1870, ND London 1965) 85.</li>\n<li id=\"fn0-3\" value=\"3\">J. N. KEYNES: Studies and exercises in formal logic (London 1884) 133.</li>\n<li id=\"fn0-4\" value=\"4\">De Interpret. 10, 20 a 19–26.</li>\n<li id=\"fn0-5\" value=\"5\">W. THOMSON: Outline of the necessary laws of thought (London 1842) § 86.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. Art. <a class=\"xref\" href=\"#/a/1654\">→ Konversion 1</a>.</li>\n<li id=\"fn0-7\" value=\"7\">W. HAMILTON: Lectures on logic (Edinburgh/London 1866) 1, 262; 2, 258.</li>\n<li id=\"fn0-8\" value=\"8\">P. COFFEY: The science of logic (London 1912) 232.</li>\n</ol>",
+ "prev":{"id":2196,"lemma":"Obszön","band":"6","col":1081},
+ "next":{"id":2198,"lemma":"Occasionalismus","band":"6","col":1090},
+ "backlinks":[{"id":3091,"lemma":"Syllogismus; Syllogistik","n":1},{"id":3436,"lemma":"Verstandesschluß","n":1}],
+ "outlinks":[{"id":1654,"lemma":"Konversion","n":1},{"id":2100,"lemma":"Negation","n":1}],
+ "register":[{"term":"– I (log.) 6 666–670 s. auch","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":169,"name":"W. Hamilton","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":695,"name":"A. Bain","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1143,"name":"W. Thomson","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":898,"name":"W. S. Jevons","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2365,"name":"J. N. Keynes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9701,"name":"P. Coffey","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"}
+ ],
+ "mentions":[{"id":707,"lemma":"Element","tf":2}],
+ "see_also":[{"id":1654,"lemma":"Konversion"},{"id":2100,"lemma":"Negation"}],
+ "groups":[{"id":22,"name":"Logik","label":"Obversion"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

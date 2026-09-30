@@ -1,0 +1,27 @@
+HWPH.put("a/209",
+{
+ "id":209,
+ "lemma":"Apophantisch",
+ "band":"1",
+ "kind":"article",
+ "col_from":447,
+ "col_to":447,
+ "pdf_from":1676,
+ "pdf_to":1676,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":135,
+ "toc":[],
+ "html":"<p>Apophantisch heißt ein sprachlicher Ausdruck, der eine Apophansis, d.h. Aussage, darstellt – im Unterschied etwa zu Fragen oder Bitten.</p>",
+ "prev":{"id":208,"lemma":"Apophantik","band":"1","col":447},
+ "next":{"id":210,"lemma":"Aporie, Aporetik","band":"1","col":448},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"ἀπόρημα","qualifier":"","band":"1","col":"447"}],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Apophantisch"}],
+ "reg_authors":[{"name":"Menne Albert","n":61},{"name":"Waldenfels Bernhard","n":7}]
+}
+);

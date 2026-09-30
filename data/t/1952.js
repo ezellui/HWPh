@@ -1,0 +1,38 @@
+HWPH.put("t/1952",
+{
+ "b":"Metasprache/Objektsprache. Die in der modernen Logik geläufige Unterscheidung von O. und M. bzw. Syntaxsprache fand ihre klassische Ausprägung bei A. TARSKI und R. CARNAP und bezweckt, die Semantik formalisierter Sprachen exakt treiben zu können und Antinomien (s.d.) zu vermeiden. ‹O.› meint die Sprache, in der über «Objekte» gesprochen wird, ‹M.› die Sprache, in der über die O. gesprochen wird und deren semantische Eigenschaften bestimmt werden. Die M. werden in der Regel so konstruiert, daß in ihnen alles ausgedrückt werden kann, was in den zugehörigen O. auszudrücken ist, daß alle Zeichen der O. bezeichnet werden können, daß die Eigenschaften und Beziehungen der Ausdrücke der O. wie auch ihre Definitions- und Umformungsregeln formulierbar sind. Eine von Tarski und Carnap abweichende Verwendung der Unterscheidung von O. und M. findet sich bei B. RUSSELL, der die M. als Weiterentwicklung einer primären Sprachebene (primary language) versteht und bereits Worte wie ‹glauben› und ‹wünschen› zu ihr rechnet . \nDie Unterscheidung hat eine Vorgeschichte in Antike und Mittelalter. In der stoischen Logik waren bestimmte Probleme, die aus der semantischen Geschlossenheit der Sprache resultieren, bekannt. In der Erörterung von Sophismen wurden sich aus ihr ergebende Probleme gesehen und ansatzweise Sprachstufen unterschieden (vgl. SEXTUS EMPIRICUS zur Sophismenauflösung ). Eine terminologisch explizite Scheidung von O. und M. scheint im Rahmen der Sophismenlehre nicht aufzutreten. Weitere Aufschlüsse könnte die Rekonstruktion der Auflösung der Lügnerantinomie durch CHRYSIPP und vor allem die Klärung der noch interpretationsbedürftigen Lektontheorie der Stoiker geben. \nDer Neuplatoniker PORPHYRIUS unterscheidet zwischen der πρώτη θέσις von Wörtern (sie bezeichnen Gegenstände) und ihrer δευτέρα θέσις (ihrer syntaktischen Funktion als Teile eines Satzes) . Die von den neuplatonischen Kategorienkommentatoren, u.a. von BOETHOS und Porphyrius vertretene Sprachentstehungstheorie lehrt, die ersten Menschen hätten zunächst einfache Wörter gebildet, «die die Sachen direkt bezeichneten» , dann hätten sie gelernt, über das entwickelte Sprachvermögen selbst mit Wörtern wie ‹verbum› und ‹nomen› zu sprechen . Der stoische Ursprung dieser Unterscheidung wird durch CLEMENS VON ALEXANDRIA nahegelegt . Über BOETHOS' Kategorienkommentar gelangte sie zu AUGUSTINUS. In dessen auch stoisch beeinflußter ‹Dialectica› und insbesondere in ‹De magistro› unterscheidet er zwischen «nomen rei» und «nomen nominis», um zu trennen «zwischen dem Zeichen desjenigen Zeichens, das keine anderen Zeichen bezeichnet, und dem Zeichen desjenigen Zeichens, das wiederum andere Zeichen bezeichnet» . \nDie stoisch-neuplatonische Einsicht wird im Verlauf der mittelalterlichen Logiktradition weithin in der Intentionenterminologie AVICENNAS formuliert, in der dieser in der arabischen Logik die semantische Unterscheidung von Sprachstufen ebenfalls durchführte. Die mittelalterlichen Logiker sprechen daher allgemein von Worten der ersten bzw. zweiten Intention (intentio prima/secunda). Auch in der hoch- und spätscholastischen Suppositionslogik wird diese Redeweise gebraucht, so exemplarisch von ALBERT und OCKHAM. Worte wie ‹terminus›, ‹propositio›, ‹universale›, ‹genus› und ‹species› sind solche der zweiten Intention, Worte wie ‹Pflanze› und ‹grün› solche der ersten. Ockham formuliert auch auf Sätze bezogen: «Et isto modo etiam una propositio potest esse terminus, sicut potest esse pars propositionis; haec enim est vera: ‹homo est animal: est propositio vera›, in qua haec tota propositio ‹homo est animal› est subiectum et ‹propositio vera› est praedicatum» . BURIDANS ‹Sophismata› zeigen die Anwendung der Unterscheidung von Intentionen auf die Antinomienproblematik : «The medieval treatment of the problem of truth, and of the logical paradoxes, does indeed involve a very basic distinction between statements made through language expressions, and statements made about language expressions» . Auch in der nachmittelalterlichen Logik erhielt sich die Unterscheidung, so bei ANGELUS (1509), CLICHTOVEUS (1538) und CARBO (1597) . Die Verdrängung der Logik durch die Dialektik ließ sie aber an Bedeutung verlieren. \nIhre volle methodische Funktion konnte sie erst in der modernen formalen Logik erhalten. TARSKI und LUSCHEI weisen auf LEŚNIEWSKI als ersten in der Moderne hin, der in seinen Vorlesungen seit 1919 M. und O. explizit schied . Ein Referat der von ihm in dieser Zeit vorgetragenen Logiktheorie mit Bemerkungen zur Wirkungsgeschichte gibt KOTARBIŃSKI . Der Sache nach liegt die Unterscheidung aber bereits der Verwendung und Theorie der Anführungsstriche bei FREGE zugrunde, besonders nachdrücklich 1893 in ‹Grundgesetze der Arithmetik› . Terminologisch unterscheidet er erst später «Hilfssprache» und «Darlegungssprache»: Die «Hilfssprache ... enthält zwei verschiedene Bestandteile: die Wortbilder und die einzelnen Buchstaben. Jene entsprechen Wörtern der Lautsprache, diese sollen unbestimmt andeuten. Von dieser Hilfssprache ist die Sprache zu unterscheiden, in der sich mein Gedankengang vollzieht. Diese ist das übliche geschriebene oder gedruckte Deutsch, meine Darlegungssprache» . Die Hilfssprache entspricht der O., die Darlegungssprache der M. im heutigen Verständnis.",
+ "n":"A. TARSKI: Grundleg. der wiss. Semantik, in: Actes Congr. int. Philos. sci. 1935. 3 (1936; poln. 11933) 1–8; Der Wahrheitsbegriff in den formalisierten Sprachen. Studia Philos. 1 (1935) 261–405. \nR. CARNAP: Die log. Syntax der Sprache (1934) IV A. \nVgl. Art. ‹Formalisierung I›. \nB. RUSSELL: An inquiry into meaning and truth (1940). \nVgl. Art. ‹Antinomie›. \nSEXTUS EMPIRICUS, Pyrrh. Hyp. II, 230. 232. \nVgl. I. M. BOCHEŃSKI: Ancient formal logic (1963) 96; A. RÜSTOW: Der Lügner (Diss. Erlangen 1910). \nVgl. Art. ‹Lekton›. \nPORPHYRIUS, In cat. prooem., Comment. Arist. Graec. 4, 1, 57f. \nZit. J. PINBORG: Logik und Semantik im MA (1972) 34. \nebda. \nCLEMENS VON ALEXANDRIA, Strom. VIII, 9, 96, 23f. \nAUGUSTINUS, MPL 32, 1411 A. \nE. SCHADEL: AUGUSTINUS, De magistro. Einf., Übers. Komm. (Diss. Würzburg 1975) 64. \nVgl. E. A. MOODY: Truth and consequence in medieval logic (1953) 26. \nWILHELM VON OCKHAM, S. logicae, hg. BOEHNER (New York 1974) I, c. 2, 5. \nVgl. MOODY, a.O. [15] 103–110. \n109. \nVgl. E. J. ASHWORTH: Language and logic in the post-medieval period (1974) 46. \nTARSKI, Grundleg. a.O. [1] 2; E. C. LUSCHEI: The log. systems of Leśniewski (1962) 34f. \nT. KOTARBIŃSKI: Elementy Poznania. Logiki Formalnej i Metogologij Nauk (1929, 21961). \nG. FREGE: Grundgesetze der Arith. (21962) 1, 4. \nNachgel. Schr., hg. H. HERMES: F. KAMBARTEL/F. KAULBACH (1969) 180.",
+ "l":"",
+ "au":"Th. Rentsch",
+ "A":["Th. Rentsch"],
+ "cb":[[0,1301],[1022,1301],[1277,1302],[1687,1302],[2694,1302],[4220,1302]],
+ "cn":[
+  [0,1301],
+  [0,1302],
+  [196,1302],
+  [249,1302],
+  [280,1302],
+  [335,1302],
+  [359,1302],
+  [404,1302],
+  [504,1302],
+  [525,1302],
+  [589,1302],
+  [643,1302],
+  [650,1302],
+  [698,1303],
+  [700,1303],
+  [729,1303],
+  [813,1303],
+  [883,1303],
+  [956,1303],
+  [988,1303],
+  [994,1303],
+  [1074,1303],
+  [1163,1303],
+  [1250,1303],
+  [1299,1303]
+ ],
+ "cl":[]
+}
+);

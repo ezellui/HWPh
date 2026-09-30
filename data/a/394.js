@@ -1,0 +1,56 @@
+HWPH.put("a/394",
+{
+ "id":394,
+ "lemma":"Bescheidenheit",
+ "band":"1",
+ "kind":"article",
+ "col_from":837,
+ "col_to":838,
+ "pdf_from":2926,
+ "pdf_to":2929,
+ "authors":["B. Schwenk"],
+ "n_notes":12,
+ "n_chars":3759,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Bescheidenheit hat im Mittelalter zwei Bedeutungen: 1. <i>prudentia, sapientia, scientia, discretio;</i> 2. <i>moderatio, modestia.</i> – Im Zusammenhang mit der ersten Bedeutungsrichtung bezeichnet ‹B.› in der höfischen Literatur «fein gebildet, von höfischem Takt». FREIDANK gibt um 1230 seinem Lehrgedicht den Titel ‹B.›, d.i. Bescheidwissen, Unterscheidungsvermögen, Einsicht, Erkenntnis. LUTHER übersetzt 2. Petr. 1, 5. 6 γνῶσις mit ‹B.›, und gelegentlich findet sich diese Bedeutung noch bis ins frühe 18. Jh. – Die zweite Bedeutung ergibt sich im moraltheologischen Bereich. Im Rahmen der vier Kardinaltugenden, die das Mittelalter aus der Antike übernahm, ordnet THOMAS VON AQUIN mit Berufung auf Cicero die modestia der temperantia unter. Sie bringt in das menschliche Verhalten, Handeln und Planen Zügelung und Maß <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In der Aufklärung des 18. Jh. gewinnt B. einerseits Bedeutung als Tugend des Bürgers, die seinem mäßigen Wohlstand entspricht. B. wird vorwiegend unter rationalen Zweckerwägungen gesehen. Geziemende Zurückhaltung verbürgt Ansehen, und im Vermeiden des Außergewöhnlichen verheißt B. Sicherheit und «Glückseligkeit» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Andererseits wird sie verinnerlicht als Demut der Vernunft und als Haltung allgemeiner Menschenliebe verstanden. Für KANT ist B. «Mäßigung in Ansprüchen, d.i. <span class=\"col\" data-col=\"838\"></span> freiwillige Einschränkung der Selbstliebe eines Menschen durch die Selbstliebe anderer» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Mit Beginn des 19. Jh. verfällt das B.-Ideal häufig der Polemik. Während für LESSING noch «alle großen Männer bescheiden» sind <sup class=\"fn\" data-fn=\"0-4\">4</sup>, kritisiert bereits GOETHE: «Nur die Lumpe sind bescheiden, Brave freuen sich der Tat» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. B. kommt den mittelmäßig Befähigten zu und ist beim Talentierten Heuchelei (SCHOPENHAUER) <sup class=\"fn\" data-fn=\"0-6\">6</sup>. «Das Nichts glaubt dadurch etwas zu werden, daß es bekennt: Ich bin nichts!» (HEBBEL) <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Für NIETZSCHE ist die Moralität der B. Verweichlichung; sie birgt die Gefahr, sich allzu früh anzupassen, «als ob wir selbst in uns kein Maß und Recht hätten, Werte anzusetzen» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Für SCHELER ist B. «nur ein Wettlauf zwischen Eitelkeit und Scham, bei dem die Scham siegt» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Unterschiedliche Versuche einer erneuten Wendung ins Positive finden sich bei N. HARTMANN und O. F. BOLLNOW. Bescheiden nennt HARTMANN den, der sich an hochgegriffenen sittlichen Maßstäben mißt <sup class=\"fn\" data-fn=\"0-10\">10</sup>, BOLLNOW hingegen zählt B. zu den Tugenden der «einfachen Sittlichkeit» <sup class=\"fn\" data-fn=\"0-11\">11</sup> und kennzeichnet den als bescheiden, der nicht vermessen über sich selbst hinausgreift, sondern seine Ansprüche nach seinen Kräften und Möglichkeiten ausrichtet <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Bollnow hat darauf hingewiesen, daß man in der Geschichte zwei Grundformen des Lebensgefühls und der daraus entwickelten Ethik unterscheiden kann, von denen, den sozialen Grundlagen entsprechend, eines als aristokratisches (μεγαλοψυχία bei ARISTOTELES; <i>générosité</i>, z.B. in Renaissance und Barock), das andere als bürgerliches Ethos (charakterisiert durch B.) bezeichnet werden kann.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">H. LUDWIG: Die Tugend der B. (Diss. Tübingen 1956, Ms.). – K. BERG: Zur Gesch. der Bedeutungsentwicklung des Wortes ‹B.›. Würzburger Prosastudien 1: Wort-, Begriffs- und textkundl. Untersuchungen (1968) 16–80 = Medium Aevum 13.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"838\"></span> THOMAS VON AQUIN, S. theol. II, 143.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. C. F. BAHRDT: System der moralischen Religion zur endlichen Beruhigung für Zweifler und Denker (1791).</li>\n<li id=\"fn0-3\" value=\"3\">KANT, Met. Sitten, Ethische Elementarlehre § 37.</li>\n<li id=\"fn0-4\" value=\"4\">LESSING, Briefe, die neueste Lit. betreffend Nr. 65.</li>\n<li id=\"fn0-5\" value=\"5\">GOETHE, Artemis-A. 1 (1949) 100.</li>\n<li id=\"fn0-6\" value=\"6\">SCHOPENHAUER, Parerga 2, § 343; vgl. auch § 242 und Ergänzungen zu ‹Welt als Wille und Vorstellung›, Kap. 37.</li>\n<li id=\"fn0-7\" value=\"7\">HEBBEL, Tagebücher 19. 8. 1843.</li>\n<li id=\"fn0-8\" value=\"8\">NIETZSCHE, Werke, hg. K. SCHLECHTA (<sup>2</sup>1960) 3, 890, vgl. 801. 889.</li>\n<li id=\"fn0-9\" value=\"9\">M. SCHELER: Vom Umsturz der Werte 1 (1919) 22.</li>\n<li id=\"fn0-10\" value=\"10\">N. HARTMANN: Ethik (<sup>3</sup>1949) 475.</li>\n<li id=\"fn0-11\" value=\"11\">O. F. BOLLNOW: Einfache Sittlichkeit (1947) 5.</li>\n<li id=\"fn0-12\" value=\"12\">Die Tugend der B. Die Sammlung 11 (1956) 225ff.</li>\n</ol>",
+ "prev":{"id":393,"lemma":"Beschauung, Schauen","band":"1","col":836},
+ "next":{"id":395,"lemma":"Beschreibung","band":"1","col":838},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"discretio","qualifier":"","band":null,"col":null},
+  {"term":"moderatio","qualifier":"","band":null,"col":null},
+  {"term":"modestia","qualifier":"","band":null,"col":null},
+  {"term":"prudentia","qualifier":"","band":null,"col":null},
+  {"term":"Scham","qualifier":"","band":"1","col":"837"},
+  {"term":"μεγαλοψυχία","qualifier":"","band":"1","col":"838"}
+ ],
+ "persons":[
+  {"id":19,"name":"N. Hartmann","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":231,"name":"O. F. Bollnow","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":20,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":70,"name":"G. E. Lessing","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2771,"name":"F. Hebbel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":22,"name":"M. Luther","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4406,"name":"C. F. Bahrdt","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":10663,"name":"Freidank","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7260,"name":"H. Ludwig","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":292,"name":"K. Schlechta","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":753,"name":"J. Berg","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2751,"lemma":"Scham, Scheu","tf":2},
+  {"id":2840,"lemma":"Selbstliebe","tf":2},
+  {"id":3239,"lemma":"Tugend","tf":2}
+ ],
+ "see_also":[{"id":550,"lemma":"Demut"}],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Bescheidenheit"}],
+ "reg_authors":[{"name":"Schwenk Bernhard","n":5}]
+}
+);

@@ -1,0 +1,66 @@
+HWPH.put("a/506",
+{
+ "id":506,
+ "lemma":"Complicatio/explicatio",
+ "band":"1",
+ "kind":"article",
+ "col_from":1026,
+ "col_to":1028,
+ "pdf_from":3546,
+ "pdf_to":3550,
+ "authors":["G. v. Bredow"],
+ "n_notes":11,
+ "n_chars":5969,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Complicatio/explicatio (Einfaltung/Entfaltung). <span class=\"col\" data-col=\"1027\"></span> Der zugrunde liegende Gedanke kommt aus dem Neuplatonismus <sup class=\"fn\" data-fn=\"0-1\">1</sup>: Der zeugende Ursprung faltet in sich selbst ein, was im erzeugten mannigfaltig auseinandertritt. Aber das Begriffspaar C/E. findet sich erst in der Schule von Chartres terminologisch fest geprägt. In dem frühesten der drei THIERRY zugeschriebenen Kommentare zu des Boethius ‹De Trinitate› heißt es: «Quas igitur formas per pluralitatis diversitatem possibilitatis, i.e. materiae mutabilitas, explicat; easdem quodammodo in unum Forma divina complicat et ad unius formae simplicitatem inexplicabili modo revocat» (Die göttliche Form entfaltet die Formen durch die Vielheit von Möglichkeit, nämlich die Veränderlichkeit der Materie; dieselben Formen faltet sie in gewisser Weise zu Einem zusammen und ruft sie zur Einfachheit einer einzigen Form zurück) <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Einfaltung wird in den beiden andern Kommentaren von Thierry und in dem von CLARENBALDUS VON ARRAS, seinem Schüler, auch auf die göttliche Vorsehung bezogen, einmal unter ausdrücklicher Berufung auf des Boethius ‹De consolatione philosophiae› <sup class=\"fn\" data-fn=\"0-3\">3</sup>. In der göttlichen Vorsehung ist in Einfachheit eingefaltet, was dann in zeitlicher Entfaltung erkennbar wird. Die Notwendigkeit des Zusammenhangs (complexio) steigt herab von der absoluten Notwendigkeit, in der die Dinge von Ewigkeit her eingefaltet sind <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die Terminologie ist dann aber schon so formalisiert, daß auch von der absoluten Möglichkeit gesagt werden kann, sie falte alles ein <sup class=\"fn\" data-fn=\"0-5\">5</sup>. In dieser Sprechweise bezeichnet Einfaltung offenbar das unerkennbare Zusammenlaufen der unterschiedlichen Gestalten in ihrem absoluten Möglichkeitsgrund, der formlosen Materie, die als solche aber der Entfaltung durch die Notwendigkeit des Zusammenhangs bedarf, also selbst nicht fruchtbar ist.</p>\n<p>NIKOLAUS VON KUES, der von der Schule von Chartres starke Anregungen empfing <sup class=\"fn\" data-fn=\"0-6\">6</sup>, hat das Begriffspaar C./E. sehr häufig angewandt, sowohl auf Gott und die Schöpfung, wie auch auf sehr verschiedene begrenztere Bereiche. Bei ihm ist das Prinzip der Einfaltung niemals als unbestimmte Möglichkeit verstanden, es ist formkräftige Einheit. Je nach dem Anwendungsgebiet ergeben sich jedoch gewisse Differenzierungen. Eine Entwicklung des Gedankens, wie etwa bei dem der Coincidentia, läßt sich aber nicht feststellen; die Bedeutung liegt von Anfang an fest. Der einfaltende Ursprung bzw. das Prinzip steht dem Entfalteten gegenüber; in diesem ist Verschiedenheit, Vielheit, Anderssein (d.i. relatives Nichtsein). Die Einfaltung ist einfache Einheit über oder vor den in der Entfaltung aufscheinenden Gegensätzen. Die Entfaltung erfolgt durch das einfaltende Prinzip. Der Akt der Entfaltung kann darum auch als Zusammenfall von Einfaltung und Entfaltung beschrieben werden. Das, was im Entfalteten eigentlich ist, das ist sein Prinzip. Neben dem Gegenüber von Einfaltendem und Entfaltetem ist deshalb auch die Immanenz ausgesagt. Das gilt auch für das Verhältnis des Schöpfers zur Welt. Die Immanenz des einfaltenden Prinzips im Entfalteten besagt aber nur die Abhängigkeit der Entfaltung vom Prinzip, nicht ein Aufgehen des Prinzips in seiner Entfaltung. – Die wesenschaffende einfache Einheit Gottes wird im ‹Idiota de mente› (cap. 4) als «complicatio complicationum» (Einfaltung der Einfaltungen) beschrieben. So ist sie unterschieden von der Einfaltung, die der Geist als Bild Gottes ist. Bild (imago) und Einfaltung stehen dem Gleichnis (similitudo) und der Entfaltung gegenüber. Der Geist faltet erkenntnismäßig alles in sich ein, sogar unendliche Welten <sup class=\"fn\" data-fn=\"0-7\">7</sup>; er ist nicht passiv, sondern schafft in sich in seinem Erkennen nach dem Urbilde des Schöpfers die mathematischen und dynamischen Prinzipien: die Einheit, aus der alle Zahlen entfaltet werden; den Punkt als Ursprung aller ausgedehnten Größen, d.i. der Linien, Flächen, Körper, das Jetzt als Einfaltung aller Zeit; die Ruhe (quies) als Einfaltung aller Bewegung. – Aber auch die Stufenordnung der Erkenntniskräfte wird durch die C. erläutert. Das Höhere faltet das Niedere in sich ein <sup class=\"fn\" data-fn=\"0-8\">8</sup>; damit wird aber die Verschiedenheit <span class=\"col\" data-col=\"1028\"></span> der niederen Stufe von der höheren nicht aufgehoben, und die niedere wird nicht von der höheren abgeleitet, wie es dem vollen Sinne der C. entsprechen würde. Es bleibt das, was Nikolaus in seiner deutschen Vaterunserauslegung <sup class=\"fn\" data-fn=\"0-9\">9</sup> «in sich begreifen» nennt, ein beherrschendes In-sich-Zusammenfassen. «Die vernuftige nature begrijfft die synlich als in dem Menschen, vnd die verstendige hymmelsche natur begrifft in ir die redeliche als in den engelen» (Die verstandbegabte Natur begreift in sich die sinnliche, nämlich im Menschen, und die vernünftige himmlische Natur begreift in sich die verstandbegabte, nämlich in den Engeln) <sup class=\"fn\" data-fn=\"0-10\">10</sup>. – Auch zur Beschreibung der Kirche gebraucht Nikolaus das Begriffspaar; so kann er von der E. Petri sprechen <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Die Kirche wird gesehen als Lebenseinheit aus <i>einer</i> Quelle in vielfältig verschiedener Entfaltung.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">G. HEINZ-MOHR: Unitas Christiana (1958) 98–105. – Cusanusbibliogr. in: Mitteilungen und Forschungsbeiträge der Cusanus-Ges. 1 (1961); 3 (1963); 6 (1967).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1028\"></span> Vgl. M. de GANDILLAC: Nikolaus von Cues (1953) 118f.</li>\n<li id=\"fn0-2\" value=\"2\">THIERRY VON CHARTRES, ‹Librum hunc› II, 49, hg. N. HARING in: Arch. d'hist. doctrinale et litt, du MA 35 (1960).</li>\n<li id=\"fn0-3\" value=\"3\">CLARENBALDUS VON ARRAS, ‹Quae sit› II, 6, hg. N. HARING a.a.O. [2] 33 (1958); vgl. BOETHIUS, Consolatio IV, pr. 6.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. CLARENBALDUS, ‹Glossa› II, 15, hg. N. HARING a.a.O. [2] 31 (1956); vgl. W. JANSEN: Der Komm. des Clarenbaldus von Arras zu Boethius De Trinitate (1926) 47, 23–30. 64, 7f.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. ‹Glossa› II, 17; ‹Quae sit› II, 10; JANSEN, a.a.O. 64.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. NIKOLAUS VON KUES, De docta ignorantia II, 9, hg. E. HOFFMANN/R. KLIBANSKY (1932) 91.</li>\n<li id=\"fn0-7\" value=\"7\">De quaerendo deum n. 45. Opuscula, hg. P. WILPERT (1959).</li>\n<li id=\"fn0-8\" value=\"8\">De coniecturis II, n. 76, hg. J. KOCH/C. BORMANN (1970); De quaerendo deum n. 30.</li>\n<li id=\"fn0-9\" value=\"9\">Cusanus-Texte I, 6 (1938) XVIII.</li>\n<li id=\"fn0-10\" value=\"10\">a.a.O. n. 9.</li>\n<li id=\"fn0-11\" value=\"11\">Brief an Rodrigo Sanchez bei G. KALLEN: De auctoritate presidendi. Cusanus-Texte II, 1 (1938) 188.</li>\n</ol>",
+ "prev":{"id":505,"lemma":"Complexe significabile","band":"1","col":1026},
+ "next":{"id":507,"lemma":"Conatus","band":"1","col":1028},
+ "backlinks":[{"id":759,"lemma":"Entwicklung","n":1},{"id":3670,"lemma":"Zahl; Zählen","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"complexio","qualifier":"(Cusanus)","band":"1","col":"1027"},
+  {"term":"Einfaltung","qualifier":"(Cusanus)","band":null,"col":null},
+  {"term":"Entfaltung","qualifier":"(Cusanus)","band":null,"col":null},
+  {"term":"explicatio","qualifier":"(Cusanus)","band":null,"col":null},
+  {"term":"Zusammenhang","qualifier":"(Cusanus)","band":"1","col":"1027"},
+  {"term":"– II (Cusanus) 7 1215f. s. auch","qualifier":"(Cusanus)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1977,"name":"Clarenbaldus von Arras","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":66,"name":"Nikolaus von Kues","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":459,"name":"Thierry von Chartres","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":25,"name":"Boethius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":222,"name":"J. Koch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":627,"name":"E. Hoffmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3348,"name":"M. de Gandillac","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6254,"name":"G. Kallen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10712,"name":"C. Bormann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19784,"name":"G. Heinz-Mohr","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4922,"name":"N. Haring","b":0,"n":3,"l":0,"editor":1,"role":"scholar"},
+  {"id":540,"name":"P. Wilpert","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":492,"name":"R. Klibansky","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":888,"name":"B. Jansen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4795,"name":"W. Jansen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1390,"lemma":"Immanent, Immanenz","tf":2},
+  {"id":3500,"lemma":"Vorsehung","tf":2},
+  {"id":676,"lemma":"Einfachheit, einfach/zusammengesetzt","tf":2},
+  {"id":3462,"lemma":"Vielheit","tf":2},
+  {"id":2171,"lemma":"Notwendigkeit","tf":3},
+  {"id":3430,"lemma":"Verschiedenheit","tf":2},
+  {"id":3352,"lemma":"Ursprung","tf":3},
+  {"id":1568,"lemma":"Kirche","tf":2},
+  {"id":1892,"lemma":"Materie","tf":2},
+  {"id":431,"lemma":"Bild","tf":2},
+  {"id":2785,"lemma":"Schule","tf":2}
+ ],
+ "see_also":[
+  {"id":51,"lemma":"Aenigma"},
+  {"id":501,"lemma":"Coincidentia oppositorum"},
+  {"id":2429,"lemma":"Praecisio"}
+ ],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Complicatio/explicatio (Cusanus)"}],
+ "reg_authors":[{"name":"Bredow Gerda von","n":6}]
+}
+);

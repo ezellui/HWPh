@@ -1,0 +1,60 @@
+HWPH.put("a/42",
+{
+ "id":42,
+ "lemma":"Actio immanens/actio transiens",
+ "band":"1",
+ "kind":"article",
+ "col_from":76,
+ "col_to":78,
+ "pdf_from":469,
+ "pdf_to":475,
+ "authors":["Gerbert Meyer"],
+ "n_notes":23,
+ "n_chars":7423,
+ "toc":[
+  ["h2","Literaturhinweise",0],
+  ["p4","2. Nach THOMAS VON AQUIN ist beiden Verhaltensweisen gemeinsam, daß sie a",3],
+  ["h5","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Actio immanens/actio transiens (im Handelnden verbleibendes Tätigsein – vom Hervorbringenden in das Werk übergehendes Tätigsein). Die mittelalterliche Unterscheidung von A.i. und A.t. entwickelt die griechische Unterscheidung von Handeln (πρᾶξις) und Hervorbringen (ποίησις) weiter, indem sie eine von ARISTOTELES eingeführte Wendung in den Vordergrundstellt. Beide Verhaltensweisen sind als eine Betätigung (actio) von Fähigkeiten zu verstehen und unterscheiden sich dadurch, daß die Betätigung der handelnden Fähigkeit im Handelnden als dessen Vollendung verbleibt (A. immanens), die Betätigung der hervorbringenden Fähigkeit aber in das Hervorgebrachte als dessen Vollendung «übergeht» (A. transiens).</p>\n<p>1. ARISTOTELES unterscheidet das Handeln und Hervorbringen zunächst am verschiedenen Zielverhältnis. Im Hervorbringen ist das Ziel ein (äußeres) Werk, im Handeln ist das Ziel das Handeln selbst <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Ein neuer Gesichtspunkt kommt in diese Unterscheidung, weil Aristoteles das Handeln als die Betätigung (χρῆσις) einer Fähigkeit und damit als das Werk einer Fähigkeit faßt (wie das Sehen das Werk der Sehfähigkeit und das Denken das Werk der Denkfähigkeit ist). Im Handeln fällt also die Betätigung mit dem Werk zusammen, während das Werk des Hervorbringens <span class=\"col\" data-col=\"77\"></span> ein mit der Betätigung nicht Identisches ist (wie das gebaute Haus und nicht das Bauen das Werk der Baukunst ist) <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Diese Wendung ergibt einen neuen Gesichtspunkt, der sowohl das Gemeinsame wie das Verschiedene beider Verhaltensweisen erkennen läßt. Gemeinsam ist beiden, daß die Betätigung der Fähigkeiten als die Wirksamkeit (ἐνέργεια) die Erfüllung des Zieles bringt. Verschieden aber ist das Verhältnis dieser Wirksamkeit zur Fähigkeit, insofern das Hervorbringen sich nicht im Subjekt der Fähigkeit, sondern im Hervorgebrachten vollzieht (wie das Bauen im Gebauten und überhaupt jede Bewegung im Bewegten ist), das Handeln aber im Befähigten selbst sich vollzieht (wie das Sehen im Sehenden und das Denken im Denkenden ist) <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Deshalb sind Wahrnehmen und Denken ein Werden zum Eigenen und zur eigenen Erfüllung, weswegen sie auch nicht im eigentlichen Sinne Bewegung (Wandlung) genannt werden können <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die Bewegung ist die Betätigung des Unvollendeten; die Betätigung schlechthin (die seelische Betätigung) aber ist die des Vollendeten <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">H. CASSIRER: Aristoteles' Schrift ‹Von der Seele› und ihre Stellung innerhalb der aristotel. Philos. (1932, <sup>2</sup>1968) 68–107. – F. NUGENT: Immanent action in St. Thomas and Aristotle. New Scholast. 37 (1963) 164–187. – H. WEISS: Kausalität und Zufall in der Philos. des Aristoteles (1942, <sup>2</sup>1967) 99–148.</p>\n<p id=\"p4\">2. Nach THOMAS VON AQUIN ist beiden Verhaltensweisen gemeinsam, daß sie aus einem in der Wirklichkeit Befindlichen hervorgehen, insofern es in der Wirklichkeit ist (ab existente in actu, secundum quod est actu) <sup class=\"fn\" data-fn=\"1-1\">1</sup>. Verschieden ist die Art und Weise des Hervorgehens. Wo das Tätigsein etwas hervorbringt, ist ein doppelter Ursprung gefordert, der aktive Ursprung aus der Wirklichkeit des Tätigen und der passive Ursprung in einem passiv Bewegten <sup class=\"fn\" data-fn=\"1-2\">2</sup>. Die im Passiven auftretende Bewegung ist die Wirklichkeit (actus) beider Ursprünge; denn in der Bewegung ist identisch, was vom tätig Bewegenden her hervorgeht und im Bewegten als dem passiv Empfangenden ist <sup class=\"fn\" data-fn=\"1-3\">3</sup>. So sind Betätigung (actio) und Erleiden (passio) nicht zwei Bewegungen, sondern ein und dieselbe Bewegung, die Betätigung genannt wird, weil sie vom Tätigen (als dem zur Betätigung Fähigen) hervorgeht, und Erleiden, weil sie im Erleidenden ist <sup class=\"fn\" data-fn=\"1-4\">4</sup>. Diese Weise bringt also nur dem Bewegten, nicht aber dem Tätigen eine Vollendung <sup class=\"fn\" data-fn=\"1-5\">5</sup>. Das Tätige verliert auch nichts, wenn sein Tätigsein aufhört, da nur die von ihm hervorgerufene Wirklichkeit im Bewegten aufhört, aber in ihm bleibt, was die Ursache der Bewegung war <sup class=\"fn\" data-fn=\"1-6\">6</sup>. Anders ist die Art und Weise des Hervorgehens, wenn die Betätigung wie in der seelischen Tätigkeit in dem zur Betätigung Fähigen als dessen eigene Vollendung bleibt <sup class=\"fn\" data-fn=\"1-7\">7</sup>. Hier geht der Betätigung eine vorbereitende «Bewegung» voraus, weil das zur Betätigung Fähige erst auf diesen oder jenen Gegenstand hin Wirklichkeit werden muß <sup class=\"fn\" data-fn=\"1-8\">8</sup>. Diese «Bewegung» durch den jeweiligen Gegenstand ist aber kein Erleiden im Sinne der gewöhnlichen Bewegung, wo jeder Gewinn einer Bestimmtheit mit dem Verlust einer früheren (abiectio contrarii) erkauft wird. Das Erleiden ist ein Gewinn ohne Verlust <sup class=\"fn\" data-fn=\"1-9\">9</sup> und ist notwendig, damit das Erkennende und das Erkannte, das Strebende und das Erstrebte im seelischen Subjekt zu jener aktuellen Einheit kommen, aus der die seelische Betätigung hervorgehen kann <sup class=\"fn\" data-fn=\"1-10\">10</sup>. Die seelische Tätigkeit, die (im Unterschied zum doppelten Ursprung der hervorbringenden Betätigung) aus dieser aktuellen Einheit hervorgeht, ist keine neue Bestimmtheit, sondern verhält sich zu ihr wie das Sein zur Wesenheit <sup class=\"fn\" data-fn=\"1-11\">11</sup>. Sie ist also keine Bewegung, <span class=\"col\" data-col=\"78\"></span> sondern die Wirklichkeit von etwas, das schon in seiner Vollendung ist (actus perfecti). Denn bei der Bewegung handelt es sich um die Wirklichkeit eines Unvollendeten (actus imperfecti) <sup class=\"fn\" data-fn=\"1-12\">12</sup>. In der hervorbringenden Tätigkeit des Menschen (ars) verbinden sich Handeln (als Ausdenken) und Hervorbringen miteinander <sup class=\"fn\" data-fn=\"1-13\">13</sup>. – JOHANNES DUNS SCOTUS stellt die wesentlichen Punkte der aristotelischen Tradition in Frage. Die hervorbringende Betätigung hat ihre Wirklichkeit nicht nur im passiv Bewegten. Allerdings ist sie auch nicht eine innerlich verändernde Bestimmtheit (forma absoluta) des Tätigen. Wohl aber gibt sie ihm einen realen Bezug zum passiv Bewegten, der nicht innerlich und notwendig (wie die Ähnlichkeit zweier weißer Körper), sondern äußerlich hinzukommend ist <sup class=\"fn\" data-fn=\"1-14\">14</sup>. In der Seelentätigkeit muß die operatio des Erkennens, Wollens, Sehens und anderes mehr von der sie hervorbringenden actio unterschieden werden <sup class=\"fn\" data-fn=\"1-15\">15</sup>. Die operatio ist im Unterschied zu der sie hervorbringenden actio eine Qualität der Seele <sup class=\"fn\" data-fn=\"1-16\">16</sup>, allerdings von der Art eines fieri, das keine Bewegung im eigentlichen Sinne ist <sup class=\"fn\" data-fn=\"1-17\">17</sup>. – Unter dem Einfluß dieser Kritik setzt in der <i>Spätscholastik</i> eine lebhafte Diskussion ein, die in der Thomistenschule zu einem Streit um die Interpretation des Thomas von Aquin wird <sup class=\"fn\" data-fn=\"1-18\">18</sup>.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">J.-M. HENRI-ROUSSEAU: L'être et l'agir. Rev. Thom. 61 (1953) 488–531; 62 (1954) 267–297; 63 (1955) 85–118. – G. SIEWERTH: Die Met. der Erkenntnis nach Thomas von Aquin (1933, <sup>2</sup>1968). – W. HOERES: Der Wille als reine Vollkommenheit nach Duns Scotus (1962) 243–293.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"77\"></span> ARISTOTELES, Eth. Nic. VI, 4, 1140 a 1–17; VI, 5, 1140 b 6f.</li>\n<li id=\"fn0-2\" value=\"2\">Eth. Eud. II, 1, 1219 a 13–18.</li>\n<li id=\"fn0-3\" value=\"3\">Met. IX, 8, 1050 a 21–36–b 2.</li>\n<li id=\"fn0-4\" value=\"4\">De an. II, 5, 417 b 2–19.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 111, 7, 431 a 4–7. <span class=\"col\" data-col=\"78\"></span></li>\n<li id=\"fn1-1\" value=\"1\">THOMAS VON AQUIN, De ver. 8, 6.</li>\n<li id=\"fn1-2\" value=\"2\">De pot. 9, 9 ad 4.</li>\n<li id=\"fn1-3\" value=\"3\">Phys. III, lect. 4, n. 306; lect. 5, nn. 317. 325.</li>\n<li id=\"fn1-4\" value=\"4\">Phys. III, lect. 5 nn. 314. 320; S. theol. I, 28, 3 ad 1; 41, 1 ad 2; 45, 2 ad 2.</li>\n<li id=\"fn1-5\" value=\"5\">S. theol. I, 18, 3 ad 1; De pot. 3, 15.</li>\n<li id=\"fn1-6\" value=\"6\">De pot. 7, 9 ad 7.</li>\n<li id=\"fn1-7\" value=\"7\">Met. IX, lect. 8, n. 1865; De pot. 5, 5 ad 14.</li>\n<li id=\"fn1-8\" value=\"8\">De ver. 8, 6; S. theol. I, 14, 2.</li>\n<li id=\"fn1-9\" value=\"9\">De an. II, lect. 11, nn. 365f.; S. theol. I/II, 22, 1.</li>\n<li id=\"fn1-10\" value=\"10\">De ver. 8, 7 ad 2; S. theol. I, 56, 1.</li>\n<li id=\"fn1-11\" value=\"11\">S. theol. I, 14, 4; 54, 1.</li>\n<li id=\"fn1-12\" value=\"12\">De an. III, lect. 12, n. 766; S. theol. I, 14, 2 ad 2.</li>\n<li id=\"fn1-13\" value=\"13\">Met. VII, lest. 6, n. 1408; Eth. VI, lect. 2, nn. 1135f.</li>\n<li id=\"fn1-14\" value=\"14\">DUNS SCOTUS, Sent. IV dist. 13, q. 1, nn. 5–16.</li>\n<li id=\"fn1-15\" value=\"15\">Sent. I dist. 3, q. 6, nn. 31–35; Expos. Met. IX s. 2, c. 3, n. 41.</li>\n<li id=\"fn1-16\" value=\"16\">Ord. I dist. 3, p. 3, q. 4, n. 601; Quodl. q. 13, nn. 25–27.</li>\n<li id=\"fn1-17\" value=\"17\">Ord. I dist. 3, p. 3, q. 4, nn. 602f.; Expos. Met. IX s. 2, c. 3, n. 41.</li>\n<li id=\"fn1-18\" value=\"18\">JOHANNES a S. THOMA: Cursus Philosophicus-Thomisticus 2 (Turin 1933) 310–315.</li>\n</ol>",
+ "prev":{"id":41,"lemma":"Achtung","band":"1","col":75},
+ "next":{"id":43,"lemma":"Actus exercitus/actus signatus","band":"1","col":78},
+ "backlinks":[{"id":1390,"lemma":"Immanent, Immanenz","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Hervorbringen","qualifier":"","band":null,"col":null},
+  {"term":"operatio","qualifier":"","band":"1","col":"78"},
+  {"term":"passio","qualifier":"","band":"1","col":"77"},
+  {"term":"Poiesis","qualifier":"","band":"1","col":"76"},
+  {"term":"Praxis","qualifier":"","band":"1","col":"76"},
+  {"term":"Tätigkeit","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":2,"name":"Aristoteles","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":38,"name":"Joh. Duns Scotus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":536,"name":"Johannes","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":489,"name":"S. Thoma","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":67,"name":"E. Cassirer","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":275,"name":"P. Weiss","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1759,"name":"G. Siewerth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2175,"name":"W. Hoeres","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":18949,"name":"F. Nugent","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":18950,"name":"J.-M. Henri-Rousseau","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":408,"lemma":"Bewegung","tf":14},
+  {"id":3628,"lemma":"Wirklichkeit","tf":9},
+  {"id":3586,"lemma":"Werk","tf":8},
+  {"id":2802,"lemma":"Sehen","tf":3},
+  {"id":3352,"lemma":"Ursprung","tf":4},
+  {"id":3718,"lemma":"Zweck; Ziel","tf":3},
+  {"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":2},
+  {"id":3047,"lemma":"Subjekt","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Actio immanens/transiens"}],
+ "reg_authors":[{"name":"Meyer Gerbert","n":3}]
+}
+);

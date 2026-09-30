@@ -1,0 +1,25 @@
+HWPH.put("r/3c0-3b5",
+[
+ ["πειρασμός","Versuchung","",null,null,"ref",3442,"Versuchung","πειρασμοσ"],
+ ["πειραστική","Peirastik","",null,null,"ref",2303,"Peirastik","πειραστικη"],
+ ["πε͂ισις","Phänomen","I","7","463","ref",2340,"Phänomen","πεισισ"],
+ ["πείθω","Überreden; Überzeugen","",null,null,"ref",3262,"Überreden; Überzeugen","πειθω"],
+ ["πέμπτη οὐσία","Äther","",null,null,"ref",277,"Äther, Quintessenz","πεμπτη ουσια"],
+ ["πέμπτη οὐσία","Quintessenz","",null,null,"ref",2559,"Quintessenz","πεμπτη ουσια"],
+ ["πεποίθησις","Zuversicht","","12","1470f.","ref",3716,"Zuversicht","πεποιθησισ"],
+ ["πεπρωμένη","Schicksal","","8","1275","ref",2764,"Schicksal","πεπρωμενη"],
+ ["πέψις","Urzeugung","","11","491","ref",3362,"Urzeugung","πεψισ"],
+ ["πέρας","Grenze","",null,null,"ref",1184,"Grenze","περασ"],
+ ["περιχώρησις","Perichorese","",null,null,"ref",2311,"Perichorese","περιχωρησισ"],
+ ["περιέχον","Raum","I","8","74ff.","ref",2578,"Raum","περιεχον"],
+ ["περιεργία","Vielgeschäftigkeit","","11","1038","ref",3461,"Vielgeschäftigkeit","περιεργια"],
+ ["περίοδος","Kreis; Kugel","","4","1217","ref",1687,"Kreis und Kugel","περιοδοσ"],
+ ["περιπατητικός","Peripatetisch","",null,null,"ref",2314,"Peripatetisch","περιπατητικοσ"],
+ ["περιπέτεια","Umschlag","",null,null,"ref",3275,"Umschlag","περιπετεια"],
+ ["περιφορά","Kreis; Kugel","","4","1217","ref",1687,"Kreis und Kugel","περιφορα"],
+ ["περισκοπή","Umsicht","",null,null,"ref",3276,"Umsicht","περισκοπη"],
+ ["περίστασις","Circumstantia","",null,null,"ref",500,"Circumstantia","περιστασισ"],
+ ["περιτροπή","Widerlegung","","12","683","ref",3605,"Widerlegung","περιτροπη"],
+ ["περιουσία","Überfluss Perlokution","",null,null,"ref",null,null,"περιουσια"]
+]
+);

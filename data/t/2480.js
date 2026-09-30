@@ -1,0 +1,12 @@
+HWPH.put("t/2480",
+{
+ "b":"Properheit ist ein offenbar nur einmal belegter Begriff der deutschen Mystik des 14. Jh.: «swenne dich der vater minnet in diz selbe lieht vernünfticlîche anschouwende, diz selbe lieht in disem liehte nâ der selber properheit» . ‹P.› bedeutet hier ‹Eigenart, Eigenheit› im Sinne einer individuellen Besonderheit und ist in Form und Inhalt lat. ‹proprietas› nachgebildet. \nDie direkte Übernahme des Wortkerns ‹propr-› ist charakteristisch für den Einfluß, den lateinische und italienische Vorbilder auf die Terminologie der deutschen Dominikanermystik ausüben, und für die Bedeutsamkeit, die diesem Wortkern innerhalb dieses Vokabulars zukommt. Beide lassen sich u.a. noch an folgenden Bildungen ablesen: ‹eigenminne› , ‹geeigent minne› und ‹eigene minne ir selbes› nach im 14. Jh. nur im Italienischen nachweisbaren ‹amor proprio›, ‹amor appropriato› und ‹amor proprio di sé stesso› (sämtlich «Eigenliebe»); ‹eigenschaft›, ‹eigenheit› nach lat. ‹proprietas›; ‹eigen êre›, ‹nuz›, ‹wiile›, ‹meinunge› nach lat. ‹honor›, ‹utilitas›, ‹voluntas›, ‹consilium proprius› (-a, -um). Sie sind besonders da deutlich, wo übernommenes ‹eigen› dem heimischen ‹selbst› vorgezogen wird (z.B. ahd. ‹selp-uuillo›, aber mhd. und nhd. ‹eigenwille›). \nEine zweite Welle von eigen-Bildungen unter deutlich romanischem Einfluß ist im Vokabular LUTHERS und ZWINGLIS zu beobachten (‹Eigendünkel›; ‹Eigenschatz›, ‹propria aestimatio›, ‹Hochmut›). Die vom Vorbild mitübernommene reflexive Bedeutung ‹selbst›, die ‹eigen› bis zum 13. Jh. noch nicht kennt, wird besonders deutlich in Bildungen wie ‹eigenerwählt›, ‹selbsterwählt› und ist noch u.a. bewahrt in ‹Eigendünkel›, ‹Eigenlob›. Der Konkurrenz von ‹eigen-› – und ‹selbst-› – Komposita (‹Eigenliebe›, ‹Selbstliebe›) stehen im Englischen nur Bildungen mit ‹self› gegenüber (self-will, self-love, self-conceit, self-estimation, self-interest usw.).",
+ "n":"MEISTER ECKHART: Predigt 89, in: F. PFEIFFER (Hg.): Dtsch. Mystiker des 14. Jh. 2 (31914) 291, 19–21. \nDtsch. Werke, Predigten, hg. J. QUINT 1 (1958) 108, 1. \na.O. 109, Anm. 1. \nJOH. TAULER: Die Predigten, hg. F. VETTER (1910) 77, 3.",
+ "l":"O. ZIRKER: Die Bereicherung des dtsch. Wortschatzes durch die mittelalt. Mystik (1923). – K. WAENTIG: Die self-Komposita der Puritanersprache (1932).",
+ "au":"H.-J. Fuchs",
+ "A":["H.-J. Fuchs"],
+ "cb":[[0,1471],[372,1471],[1231,1471]],
+ "cn":[[0,1471],[103,1471],[159,1471],[178,1471]],
+ "cl":[[0,1471]]
+}
+);

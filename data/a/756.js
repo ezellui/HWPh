@@ -1,0 +1,57 @@
+HWPH.put("a/756",
+{
+ "id":756,
+ "lemma":"Entschluß",
+ "band":"2",
+ "kind":"article",
+ "col_from":547,
+ "col_to":548,
+ "pdf_from":5388,
+ "pdf_to":5393,
+ "authors":["H. Reiner"],
+ "n_notes":19,
+ "n_chars":6246,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Entschluß ist ein seit Anfang des 19. Jh. zu grundsätzlicher philosophischer Bedeutung gelangter Begriff mit weit zurückreichender Vorgeschichte. Was wir ‹E.› nennen, wird von ARISTOTELES durch den im ganzen etwas anders umrissenen Begriff der προαίρεσις erfaßt. Aristoteles bestimmt diese als «überlegtes Begehren des in unserer Macht Stehenden» (ßουλευτικὴ ὄρεξις τῶν ἐφ' ἡμῖν) <sup class=\"fn\" data-fn=\"0-1\">1</sup>, das den Anfangsgrund(ἀρχή) unseres Handelns bildet <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Sie ist ein Akt der Freiwilligkeit (ἑκοúσιον), der auf der Grundlage einer ßοúλησις, d.h. des Wollens (entschiedenen Wünschens) eines Ziels <sup class=\"fn\" data-fn=\"0-3\">3</sup>, gesetzt wird, gilt indes ihrerseits «mehr» der vorziehenden Entscheidung zwischen mehreren zu dessen Erreichung erwogenen Mitteln <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Da diese letztlich eigene Handlungen (des etwas Ergreifens oder Fliehens oder ähnliche) <sup class=\"fn\" data-fn=\"0-5\">5</sup> sind, wird unter προαίρεσις zugleich auch der E. zur Ausführung der vorgezogenen Handlung verstanden. THOMAS VON AQUIN übernimmt von Aristoteles den Begriff der προαίρεσις, den er mit ‹<i>electio</i>› wiedergibt <sup class=\"fn\" data-fn=\"0-6\">6</sup>, interpretiert diese aber als ausschließlich in der Entscheidung für ein bestimmtes Mittel bestehend: «voluntas eius, quod est ad finem, dicitur electio» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Den E. als Selbstbestimmung zur Ausführung der Handlung faßt Thomas als ‹<i>imperium</i>› <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Den E. behandelt unter dieser Bezeichnung philosophisch zuerst SCHLEIERMACHER: «So wie es im einzelnen, abgesehen von seinem Verhältnis zur Mehrheit, einen Zustand des streitigen Denkens gibt, den Zweifel, so auch beim Wollen die Unentschlossenheit. Dieser wird ein Ende gemacht durch den E., dem die Tat folgt» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Ferner: Es gibt «einen das ganze Leben bedingenden E., unter welchem alle einzelne pflichtgemäße Handlungen schon so begriffen sind, daß kein neuer E. gefaßt zu werden braucht, wenn immer das Rechte geschehen soll, daß aber durch jede pflichtwidrige Handlung dieser gewiß gebrochen wird ...» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. HEGEL führt aus: Dadurch, daß der Wille sich «die Form der Einzelnheit gibt, ist er beschließend, und nur als beschließender Wille überhaupt ist er wirklicher Wille. Statt etwas beschließen, d.h. die Unbestimmtheit, in welcher der eine sowohl als der andere Inhalt zunächst nur ein möglicher ist, aufheben, hat unsere Sprache auch den Ausdruck: <i>sich entschließen</i>, indem die Unbestimmtheit des Willens selbst, als das Neutrale, aber unendlich Befruchtete, der Urkeim alles Daseins, in sich die Bestimmungen und Zwecke enthält und sie nur aus sich hervorbringt. Durch das Beschliessen setzt der Wille sich als Willen eines bestimmten Individuums und als sich hinaus gegen anderes unterscheidenden» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. SCHOPENHAUER erklärt, den Willensakt erläuternd: «... <span class=\"col\" data-col=\"548\"></span> solange er im Werden begriffen ist, heißt er <i>Wunsch</i>, wenn fertig <i>E.</i>; daß er aber dies sei, beweist dem Selbstbewußtsein selbst erst die Tat; denn bis zu ihr ist er veränderlich» <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>Weiterhin wandte sich vornehmlich die psychologische und phänomenologische Forschung dem E. zu. W. WUNDT definierte: «Den der Handlung unmittelbar vorausgehenden psychischen Vorgang des mehr oder weniger plötzlichen Herrschendwerdens des entscheidenden Motivs nennen wir bei den Willkürhandlungen im allgemeinen die <i>Entscheidung</i>, bei den Wahlhandlungen die <i>Entschließung</i>» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. TH. LIPPS beschreibt den E. als ein Streben, das aus einer Abwägung von für und gegen die Zielsetzung sprechenden Gründen hervorgeht und durch Unterordnung der einen Art von Gründen unter die andere eine apperzeptive Synthese derselben enthält. Der E. kann dabei für oder gegen die Zielsetzung ausfallen <sup class=\"fn\" data-fn=\"0-14\">14</sup>. J. VOLKELT stellt als wesentlichstes Moment des E. seine Beziehung auf die kommende Verwirklichung des Ziels heraus; in ihm «ist entschieden, daß sie eintreten wird» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Eine Abgrenzung gegenüber dem verwandten Begriff des Vorsatzes versucht H. REINER mit dem Hinweis, daß von ‹Vorsatz› gewöhnlich nur dann gesprochen werde, wenn der Wille eine erst «spätere» Ausführung der Handlung beschließt <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Gegenüber der Entscheidung grenzt wie Wundt neuerdings W. KELLER den E. ab, bestimmt diesen aber ähnlich wie Volkelt. Beides sind Teilfunktionen des einen Willensaktes. «Entscheidung ist das Ergreifen des Objekts oder Ziels, E. aber ist die Bestimmung des eigenen Selbst auf dieses Ziel hin», er ist «jenes Einklinken der Tunsbereitschaft, die unzertrennbar mit jedem wirklichen Wollen verbunden ist» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Ähnlich unterscheidet auch H. THOMAE zwischen Entscheidung und E., indem er die Entscheidung als ein «mehr oder minder langes Geschehen der Auseinandersetzung mit der Mehrdeutigkeit einer Situation» versteht, den E. dagegen als «Abschluß der Unentschiedenheit» und «Übergang in den Zustand der Entschiedenheit» <sup class=\"fn\" data-fn=\"0-18\">18</sup>.</p>\n<p>Existenzphilosophisch betrachtet K. JASPERS den E. Er unterscheidet den endlichen vom existentiellen E. «Der <i>endliche</i> E. entscheidet auf Grund allseitigen Überlegens nach bestem Wissen das wahrscheinlich Richtige, dessen Erfolg zeigt, ob es richtig war; er ist bedingt, keine Antwort des Selbstseins auf sein Gewissen. Der <i>existentielle</i> E. dagegen als eigentliche Gewissensantwort wählt unbedingt im Sichergreifen um jeden Preis; der Erfolg als Ausfall der Konsequenzen im Gelingen und Scheitern in der Welt ist kein Beweis für oder gegen» <sup class=\"fn\" data-fn=\"0-19\">19</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">H. REINER vgl. Anm. [16]. – W. HAENSEL: Beiträge zur Strukturanalyse des Wollens (1939). – W. KELLER vgl. Anm. [17]. – H. THOMAE vgl. Anm. [18].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"548\"></span> ARISTOTELES, Eth. Nic. 1113 a 10.</li>\n<li id=\"fn0-2\" value=\"2\">Met. 1013 a 21.</li>\n<li id=\"fn0-3\" value=\"3\">Eth. Eud. 1226 b 17–19.</li>\n<li id=\"fn0-4\" value=\"4\">Eth. Nic. 1111 b 26f.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 1112 a 3f.; vgl. Eth. Eud. 1226 b 30f.</li>\n<li id=\"fn0-6\" value=\"6\">THOMAS VON AQUIN, In 4 sent. 13, 2, 1 c: «electio prohairesis dicitur».</li>\n<li id=\"fn0-7\" value=\"7\">S. theol. I/II 12, 4, obj. 3.</li>\n<li id=\"fn0-8\" value=\"8\">a.a.O. I/II, 17, 1 c, 5 c.</li>\n<li id=\"fn0-9\" value=\"9\">FR. SCHLEIERMACHER: Dialektik (1811), hg. J. HALPERN (1903) 209.</li>\n<li id=\"fn0-10\" value=\"10\">Versuch über die wiss. Behandlung des Pflichtbegriffs (1824). Sämtl. Werke (1835ff.) III/2, 383f.</li>\n<li id=\"fn0-11\" value=\"11\">HEGEL: Grundlinien der Philos. des Rechts (1821) § 12. 13.</li>\n<li id=\"fn0-12\" value=\"12\">A. SCHOPENHAUER: Preisschrift über die Freiheit des Willens (1839) II: Der Wille vor dem Selbstbewußtsein.</li>\n<li id=\"fn0-13\" value=\"13\">W. WUNDT: Grundriß der Psychol. (<sup>8</sup>1907) 225.</li>\n<li id=\"fn0-14\" value=\"14\">TH. LIPPS: Vom Fühlen, Wollen und Denken (<sup>2</sup>1907) 92–95.</li>\n<li id=\"fn0-15\" value=\"15\">J. VOLKELT: Versuch über Fühlen und Wollen (1930) 91.</li>\n<li id=\"fn0-16\" value=\"16\">H. REINER: Freiheit, Wollen und Aktivität (1927) 74.</li>\n<li id=\"fn0-17\" value=\"17\">W. KELLER: Psychol. und Philos. des Wollens (1954) 235. 237.</li>\n<li id=\"fn0-18\" value=\"18\">H. THOMAE: Der Mensch in der Entscheidung (1960) 20. 148. 152.</li>\n<li id=\"fn0-19\" value=\"19\">K. JASPERS: Philos. 2 (1932) 270.</li>\n</ol>",
+ "prev":{"id":755,"lemma":"Entscheidungstheorie","band":"2","col":544},
+ "next":{"id":757,"lemma":"Entspannung","band":"2","col":549},
+ "backlinks":[{"id":3620,"lemma":"Wille","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"das 8 1414","qualifier":"","band":"2","col":"548f."},
+  {"term":"Freiheit","qualifier":"","band":"2","col":"547"},
+  {"term":"imperium","qualifier":"","band":"2","col":"547"},
+  {"term":"Unentschlossenheit","qualifier":"","band":"2","col":"547"},
+  {"term":"Vorsatz","qualifier":"","band":"2","col":"548"},
+  {"term":"Wille","qualifier":"","band":null,"col":null},
+  {"term":"Wunsch","qualifier":"","band":"2","col":"547"},
+  {"term":"προαίρεσις","qualifier":"","band":"2","col":"547"}
+ ],
+ "persons":[
+  {"id":382,"name":"H. Thomae","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":479,"name":"H. Reiner","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1555,"name":"W. Keller","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":27,"name":"W. Wundt","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":44,"name":"K. Jaspers","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":209,"name":"Th. Lipps","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":306,"name":"J. Volkelt","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10848,"name":"W. Haensel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7312,"name":"I. Halpern","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":754,"lemma":"Entscheidung","tf":7},
+  {"id":3497,"lemma":"Vorsatz","tf":2},
+  {"id":3285,"lemma":"Unbestimmtheit","tf":2},
+  {"id":3718,"lemma":"Zweck; Ziel","tf":4},
+  {"id":1987,"lemma":"Mittel","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":2,"name":"Anthropologie","label":"Entschluss"}],
+ "reg_authors":[{"name":"Reiner Hans","n":32},{"name":"Schönpflug Ute","n":20}]
+}
+);

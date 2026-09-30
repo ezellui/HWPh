@@ -1,0 +1,12 @@
+HWPH.put("t/3164",
+{
+ "b":"Theismus, spekulativer. Der Begriff kommt vereinzelt schon um 1800 vor: K. L. REINHOLD hält sowohl einen s.Th. als auch einen spekulativen Atheismus für «begreiflich» . Ab 1835 gebraucht dann I. H. FICHTE den Begriff zur Bezeichnung seines Systems ; den Gegnern Hegels dient er oft als Losung zur Kritik an Hegels Theologie . Die im Namen eines spekulativen, konkreten , ethischen und christlichen Th. erhobenen Grundforderungen lauten: Die im Rahmen einer spekulativen Theologie zu entfaltende Gotteslehre darf die Personalität Gottes – und damit auch die Personalität des Menschen – nicht dem apriorischen, logischen Systemdenken unterjochen; sie ist vielmehr Prinzip des Systems der Wirklichkeit. Fichte betont die Erfahrungsgebundenheit solcher Theologie. \nDiese Forderungen, gepaart mit dem Bestreben, die «echten» Ansätze des Deutschen Idealismus zu wahren, und einer langsam sich ausbildenden Hinneigung zu Kant, verbinden eine Reihe von Denkern, die zusammen mit der Hegelschen Rechten zwischen 1830 und 1870 «die beiden Hauptrichtungen der deutschen Kathederphilosophie» repräsentieren. Das literarische Organ dieser Richtung ist die Fichtesche ‹Zeitschrift für Philosophie und spekulative Theologie›, deren Gründung u.a. von H. STEFFENS und CH. H. WEISSE gefördert wurde; als Theologen beteiligten sich u.a. A. NEANDER, R. ROTHE und F. STAUDENMAIER. Während der Begriff ‹s.Th.› bisweilen als umfassender Sammelbegriff für christliche, theistische Ansätze in der Philosophie von der Zeit nach Hegel bis ins 20. Jh. hinein gebraucht wurde, hat sich in der neueren Fachliteratur der Terminus als Bezeichnung für die philosophisch-theologischen Entwürfe I. H. FICHTES, CH. H. WEISSES und verwandter Denker durchgesetzt.",
+ "n":"K. L. REINHOLD: Sendschreiben an J. C. Lavater und J. G. Fichte über den Glauben an Gott (1799) 41. \nI. H. FICHTE: Über die Bedingungen eines s.Th. (1835). \nVgl. A. GÜNTHER: Vorschule zur spekulat. Theol. des positiven Christentums 1 (Wien 1828) 10. \nI. H. FICHTE: Gundzüge zum Systeme der Philosophie 3 (1846) XX. \nDie theist. Weltansicht und ihre Berechtigung (1873) 84. \nE. HIRSCH: Gesch. der neueren evang. Theol. 1–5 (1949–54, ND 31964) 5, 279. \nG. KRUCK: Hegels Relig.philos. der absoluten Subjektivität und die Grundzüge des s.Th. Ch. H. Weißes (1994)",
+ "l":"",
+ "au":"P. Hünermann",
+ "A":["P. Hünermann"],
+ "cb":[[0,1059],[761,1059]],
+ "cn":[[0,1059],[101,1059],[157,1059],[251,1059],[316,1059],[374,1059],[451,1059]],
+ "cl":[]
+}
+);

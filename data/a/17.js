@@ -1,0 +1,27 @@
+HWPH.put("a/17",
+{
+ "id":17,
+ "lemma":"Impressum",
+ "band":"0*",
+ "kind":"front",
+ "col_from":108,
+ "col_to":108,
+ "pdf_from":226,
+ "pdf_to":226,
+ "authors":[],
+ "n_notes":0,
+ "n_chars":391,
+ "toc":[],
+ "html":"<p>Historisches Wörterbuch der Philosophie. Herausgegeben von Joachim Ritter†, Karlfried Gründer und Gottfried Gabriel. 13 Bände • 1971–2007 <i>Copyright:</i></p>\n<p>© 2007 by Schwabe AG, Verlag, Basel</p>\n<p>© 2007 für die Software by Directmedia Publi-</p>\n<p>shing GmbH, Berlin <i>ISBN:</i></p>\n<p>978-7-7965-0115-9 (Gesamtwerk)</p>\n<p>B 04312-X für Mitglieder der Wissenschaftlichen</p>\n<p>Buchgesellschaft, Darmstadt <i>Internet:</i></p>\n<p>www.hwph.ch</p>",
+ "prev":{"id":16,"lemma":"Sigel, Spaltenkonkordanz und Copyright","band":"0*","col":108},
+ "next":{"id":18,"lemma":"Abbildtheorie","band":"1","col":1},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

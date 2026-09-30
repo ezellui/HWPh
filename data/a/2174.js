@@ -1,0 +1,38 @@
+HWPH.put("a/2174",
+{
+ "id":2174,
+ "lemma":"Nu",
+ "band":"6",
+ "kind":"article",
+ "col_from":988,
+ "col_to":988,
+ "pdf_from":23454,
+ "pdf_to":23455,
+ "authors":["P. Heidrich"],
+ "n_notes":4,
+ "n_chars":1435,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Nu. Das Wort nimmt die aus der Scholastik überlieferte Formel für die Ewigkeit Gottes <a class=\"xref\" href=\"#/a/2176\">‹nunc stans›</a> <span class=\"sd\">→ (s.d.)</span> auf. Nach ECKHART ist Gott in einem «êwigen nû», d.h. alle Zeitpunkte von der Erschaffung des ersten Menschen bis zum Tod des letzten Menschen bilden für ihn ein gleichzeitiges Gegenwärtig-Sein, «ein glîchiu êwicheit», ein «nunc manens aeternitatis». In dieses N. tritt der mit Gott («in einem liehte mit gote») vereinte Mensch. Auch für ihn gibt es dann kein zukünftiges Neues, «wan er wonet in einem nû alle zît niuwe âne underlâz». Dasselbe N. ist es, in dem der Prediger (Eckhart) spricht <sup class=\"fn\" data-fn=\"0-1\">1</sup>. JOHANNES TAULER verlangt, man solle sich dem N. der Ewigkeit zuwenden <sup class=\"fn\" data-fn=\"0-2\">2</sup>, und nach HEINRICH SEUSE steht der gelassene Mensch in einem gegenwärtigen N. ohne einen ihn fesselnden Vorsatz <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>J. GÖRRES hat den Begriff N. später wieder aufgenommen: Gottes «ewige That» kennt kein «Vor und Nach», «keine geordnete Folge von Momenten», sondern ist «in einem Blitze aufgezuckt» und drängt sich «in ein stetes N.» zusammen <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">J. BERNHART: Die philos. Mystik des MA (1922).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">MEISTER ECKHART, Predigt 2. Dtsch. Werke 1 (1958) 34f.; Sermo VIII, 85. Lat. Werke 4 (1956) 81 Anm.; vgl. 85. 380.</li>\n<li id=\"fn0-2\" value=\"2\">J. TAULER, Predigt 67, hg. VETTER (1910) 367; vgl. Predigt 54, S. 249, 14.</li>\n<li id=\"fn0-3\" value=\"3\">H. SEUSE, Büchlein von der Wahrheit Kap. 7. Dtsch. Schr., hg. K. BIHLMEYER (1907) 357.</li>\n<li id=\"fn0-4\" value=\"4\">J. GÖRRES, Über Grundl., Gliederung und Zeitenfolge der Weltgesch., hg. M. A. STRODL (1880) 57.</li>\n</ol>",
+ "prev":{"id":2173,"lemma":"Novissima","band":"6","col":987},
+ "next":{"id":2175,"lemma":"Numinose, das","band":"6","col":988},
+ "backlinks":[],
+ "outlinks":[{"id":2176,"lemma":"Nunc stans","n":1}],
+ "register":[],
+ "persons":[
+  {"id":73,"name":"Eckhart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":761,"name":"J. Görres","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":387,"name":"J. Tauler","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":820,"name":"H. Seuse","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1071,"name":"Heinrich Seuse","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2670,"name":"Johannes Tauler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4924,"name":"J. Bernhart","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1022,"name":"K. Bihlmeyer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2071,"name":"Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":10749,"name":"M. A. Strodl","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":854,"lemma":"Ewigkeit","tf":2}],
+ "see_also":[{"id":295,"lemma":"Augenblick"},{"id":2176,"lemma":"Nunc stans"}],
+ "groups":[{"id":27,"name":"Mystik","label":"Nu"}],
+ "reg_authors":[{"name":"Heidrich Peter","n":20}]
+}
+);

@@ -1,0 +1,35 @@
+HWPH.put("t/1766",
+{
+ "b":"Lehnwort, Lehngut. Der sprachwissenschaftliche Terminus ‹Lehngut› (Lg.), der in der jüngeren Linguistik allerdings nur eingeschränkte Verwendung findet, dient im Unterschied zu seinem Komplementärbegriff ‹Erbgut›, mit dem das genuin einheimische Sprachmaterial bezeichnet wird, als Sammelname für die Menge der sprachlichen Einheiten und Eigenheiten, die im Laufe der Geschichte einer bestimmten Einzelsprache aus anderen Sprachen in diese übernommen wurden. Die begriffliche Fassung solcher ‘Entlehnungenʼ (als Prozeß und als Ergebnis) kann in ihrer historischen Entwicklung nach vier Phasen der Problemakzentuierung unterschieden werden. \n1. Die (mehr oder weniger wertende) globale Konstatierung des Vorhandenseins fremdsprachiger Elemente in der eigenen Sprache kann bis in die Anfänge abendländischer Sprachreflexion zurückverfolgt werden und manifestiert sich in den antik-rhetorischen Termini ξενικὸν ὄνομα und ‹verbum peregrinum› (teils als βαρβαρισμός, barbarismus bzw. barbarolexis gewertet) , die im Kreise barocker Sprachgesellschaften zu ‹fremde› bzw. ‹ausländische Wörter› verdeutscht werden; die Bezeichnung ‹Fremd-Wörter› (Fw.) prägt erst JEAN PAUL (1819) . \n2. Der Versuch einer ausdrucksseitig orientierten linguistischen Differenzierung zwischen ‘Erb-ʼ und ‘Lehngutʼ seit den Anfangen der historischen Sprachwissenschaft des 19. Jh. führt um 1850 zur (unsicheren) Unterscheidung zwischen ‹Fw.› und ‹Lehnwörtern› (‹L.› zuerst nachweisbar 1856 bei H. EBEL ) nach ihrem jeweiligen phonetisch-graphischen und flexivischen Integrationsgrad. \n3. Der primär inhaltsseitig orientierte Versuch einer hierarchischen Klassifikation der Lehnelemente, der zu Beginn des 20. Jh. einsetzt und bei W. BETZ seine ausgeprägteste Systematisierung findet, führt zum Aufbau eines differenzierten Begriffsfeldes, das vor allem innerhalb der ‹Lehnprägungen› , d.h. der unter Beteiligung des einheimischen Wortschatzes erfolgenden «Neubildung oder Neubedeutung» einzelner Lexeme «nach fremdem Vorbild» , eine reiche Subkategorisierung aufweist. Sie gliedern sich in ‘Lehnbedeutungenʼ (E. WELLANDER ) für Entlehnungen nur der Bedeutung für ein einheimisches Wort und ‘Lehnbildungenʼ (W. BETZ) für «Neubildung [...] nach fremdem (inhaltlichen, formalen) Vorbild», die wieder nach ‹Lehnschöpfungen› (W. BETZ ) für «Neubildung nach fremdem inhaltlichen Vorbild ohne formale Anlehnung» und ‹Lehnformungen› (W. BETZ ) für «Neubildung [...] nach fremdem formalen (und inhaltlichen) Vorbild» unterschieden werden, die schließlich noch einmal in ‹Lehnübersetzungen› (FR. MAUTHNER ) für «Glied-für- eines fremden Vorbildes» und ‹Lehnübertragungen› (W. BETZ 1939) für «Teilnachbildung eines fremden Vorbildes» [^10a]) differenziert werden. \n4. Die stärker kompetenzbezogenen und mit dem Instrumentarium der strukturalen Linguistik seit der Mitte des 20. Jh. durchgeführten Versuche einer expliziteren Deskription lingualer Kontaktphänomene übernehmen in der Regel die Klassifikation von Betz, verwenden jedoch – der geänderten Sehweise und dem jeweiligen Forschungsansatz entsprechend – im Anschluß an U. WEINREICH eine andere (bislang uneinheitliche) Terminologie (meistens) mit den Grundtermini ‹Interferenz› und ‹Transfer(enz)›. Eine vergleichende Übersicht zur Terminologie der Klassifikation von Lehnelementen ergibt folgendes Bild (Tab. 1). \n◉ Tabelle 1. Terminologie der Klassifikation von Lehnelementen",
+ "n":"PLATON, Kratylos 410 a. \nH. LAUSBERG: Hb. lit. Rhet. (1960) §§ 470ff. \nVgl. FR. KLUGE: Art. ‹Fremdwort›, in: Etymol. Wb. dtsch. Sprache, hg. W. MITZKA (181960) 217. \nH. EBEL: Über die Lw. der dtsch. Sprache, in: Progr. des Lehr- und Erziehungsinstituts zu Ostrowo bei Filehne (1856) 1–31. \nW. BETZ: Réponses au questionnaire du 5e Congr. linguist. à Bruxelles (1939). \nH. PAUL: Dtsch. Wb., hg. W. BETZ (61968) 392. \nE. WELLANDER: Stud. zum Bedeutungswandel im Dtsch. 1 (Uppsala 1917) 137. \nW. BETZ: Der Einfluß des Lat. auf den ahd. Sprachschatz 1: Der Abrogans (1936). \nW. BETZ: Lat. und Dtsch. Der Deutschunterricht 3 (1951) H. 1, 26. \nFR. MAUTHNER: Wb. der Philos. (1902) 1, xxxiiff. \nPAUL, a.O. [6] ebda. \nU. WEINREICH: Languages in contact (New York 1953, 1970). \nDie dtsch. Sprache. Kl. Enzyklop. 1 (1969) 514. \nE. S. COLEMANN: Zur Bestimmung und Klassifikation der Wortentlehnungen im Ahd. Z. dtsch. Sprache 21 NF 5 (1964) 69–83. \nP. VON POLENZ: Gesch. der dtsch. Sprache (1970) 43. \nH. H. MUNSKE: German. Sprachen und dtsch. Gesamtsprache, in: Lex. der german. Linguistik (1973) (= LGL) 485ff. \nN. BORETZKY: Sprachkontakte, in: W. A. KOCH (Hg.): Perspektiven der Linguistik 1 (1973) 138f. \nH.-FR. ROSENFELD: Klass. Sprachen und dtsch. Gesamtsprache, in: LGL 474ff. \nH. LÜDTKE: Roman. Sprachen und dtsch. Gesamtsprache, in: LGL 495ff. \nG. BELLMANN: Slaw. Sprachen und dtsch. Gesamtsprache, in: LGL 503ff. \nE. HAUGEN: The Norwegian language in America (Philadelphia 1953) 2, 402f.",
+ "l":"M. SCHERNER: Die Begriffe zur Gliederung des sprachl. Lg. Arch. Begriffsgesch. 18 (1974) 262–282.",
+ "au":"M. Scherner",
+ "A":["M. Scherner"],
+ "cb":[[0,168],[641,168],[1175,168],[1556,168],[2584,171],[2725,171],[3332,171]],
+ "cn":[
+  [0,168],
+  [0,171],
+  [25,171],
+  [71,171],
+  [166,171],
+  [290,171],
+  [369,171],
+  [416,171],
+  [490,171],
+  [571,171],
+  [638,171],
+  [688,171],
+  [710,171],
+  [769,171],
+  [818,171],
+  [938,171],
+  [991,171],
+  [1103,171],
+  [1198,171],
+  [1274,171],
+  [1343,171],
+  [1413,171]
+ ],
+ "cl":[[0,171]]
+}
+);

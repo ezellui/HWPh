@@ -1,0 +1,27 @@
+HWPH.put("a/1158",
+{
+ "id":1158,
+ "lemma":"Gneumatologie",
+ "band":"3",
+ "kind":"article",
+ "col_from":714,
+ "col_to":715,
+ "pdf_from":9580,
+ "pdf_to":9580,
+ "authors":["R. Kuhlen"],
+ "n_notes":1,
+ "n_chars":423,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Gneumatologie, ‹Geschmackslehre› oder ‹Ästhetik› nennt W. <span class=\"col\" data-col=\"715\"></span> T. KRUG den dritten Teil seines Systems der theoretischen Philosophie als «Wissenschaft von der ursprünglichen Gesetzmäßigkeit des menschlichen Geistes ..., vermöge welcher ein Gegenstand in seiner Beziehung auf das Gefühl der Lust und Unlust erkannt, und dem zufolge als Geschmacksobjekt beurtheilt wird» <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">W. T. KRUG: System der theoret. Philos. 3. Theil (1810) 3.</li>\n</ol>",
+ "prev":{"id":1157,"lemma":"Gnadenstreit","band":"3","col":713},
+ "next":{"id":1159,"lemma":"Gnoseologie","band":"3","col":715},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Geschmackslehre","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":266,"lemma":"Ästhetik, ästhetisch"},{"id":1097,"lemma":"Geschmack"}],
+ "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Gneumatologie"}],
+ "reg_authors":[{"name":"Kuhlen Rainer","n":14}]
+}
+);

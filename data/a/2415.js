@@ -1,0 +1,56 @@
+HWPH.put("a/2415",
+{
+ "id":2415,
+ "lemma":"Posthistoire",
+ "band":"7",
+ "kind":"article",
+ "col_from":1140,
+ "col_to":1141,
+ "pdf_from":28125,
+ "pdf_to":28130,
+ "authors":["S. Meier"],
+ "n_notes":17,
+ "n_chars":6158,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Posthistoire (das). Abgesehen von einer vereinzelten Verwendung in SCHELLINGS ‹Philosophie der Offenbarung›, wo von der «nachgeschichtlichen Kirche, ... die gar nicht in diesen Aeon fällt» <sup class=\"fn\" data-fn=\"0-1\">1</sup>, die Rede ist, haben sich die verschiedenen Konzeptionen eines den historischen Prozeß beschließenden, meist dritten, Zeitalters bis ins frühe 20. Jh. nicht in einem entsprechenden Begriff der Nachgeschichte bzw. des P. niedergeschlagen. Auch A. A. COURNOT, dem häufig die Prägung des Begriffes ‹P.› zugeschrieben wurde, spricht statt dessen stets von einem «état final» bzw. einer «période finale» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. In seinem historischen Dreiphasenmodell bezeichnet dieser jenen auf die «phase préhistorique» und die «phase historique» folgenden globalen Endzustand, in dem durch das kontinuierliche Eingreifen der Erfahrung und der allgemeinen planerischen Vernunft «les éléments de la civilisation proprement dite, ... sur tous les autres éléments de la nature humaine ... une influence prépondérante», genommen hätten, so daß die durch ein «engourdissement de l'énergie vitale» gekennzeichnete Gesellschaft dazu tendiere, sich nach quasigeometrischen Bedingungen einzurichten <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Cournots Konzeption des «état final» ist für die spätere Verwendung des Begriffes ‹P.› jedoch insofern von Bedeutung, als dieser zumeist unter Rekurs auf Cournot zur Beschreibung jener letzten historischen Phase eingesetzt wird.</p>\n<p>Erstmals nachweisbar ist er bei C. BOUGLÉ, der in konsequenter Weiterführung der Cournotschen Terminologie den «état final» als «phase post-historique» bezeichnet und schreibt: «Il y a donc une phase post-historique comme il y a une phase pré-historique. Dans celle-là comme dans celle-ci l'influence perturbatrice, l'excentricité des rencontres particuliers doit être plus rapidement compensée par les poids des ‘nécessitésʼ» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Offenbar motiviert durch Bouglés Darstellung wird er zunächst in der Cournot-Literatur von R. RUYER <sup class=\"fn\" data-fn=\"0-5\">5</sup>, R. LÉVÊQUE <sup class=\"fn\" data-fn=\"0-6\">6</sup> und B. CAIZZI <sup class=\"fn\" data-fn=\"0-7\">7</sup> übernommen.</p>\n<p>Ohne Verweis auf Cournot entwickelt R. SEIDENBERG sein Modell eines dreigliedrigen Geschichtsprozesses, in dessen Verlauf sich die prähistorische Beherrschung der Vernunft durch den Instinkt in die Dominanz der Vernunft über den Instinkt als das Charakteristikum des P. umkehrt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die innere Gesetzmäßigkeit sozialer Organisation führt über eine stetige Verlangsamung des gesellschaftlichen Wandels zur «final crystallization», zum «posthistoric age», in welchem der Mensch «will remain encased in an endless routine and sequence of events, not unlike that of the ants, the bees, and the termites» <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>In substantivischer Form begegnet ‹P.› erstmals <span class=\"col\" data-col=\"1141\"></span> 1951 bei H. de MAN, der in Abgrenzung zu Spenglers Konzeption der Geschichtslosigkeit mit dem wiederum irrtümlich als Cournotschen Terminus eingeführten Begriff jene «Phase des Weltgeschehens» bezeichnet, «die überhaupt aus dem Rahmen der Geschichte herausfällt», da, bedingt durch die Präponderanz einer verselbständigten, nicht mehr an den Bedürfnissen des Menschen orientierten Bürokratie, «die sonst historisch feststellbaren Zusammenhänge zwischen Ursache und Wirkung fehlen» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Von de Man angeregt, greift A. GEHLEN zunächst fragend <sup class=\"fn\" data-fn=\"0-11\">11</sup>, seit 1960 jedoch affirmativ den Begriff des P. auf, indem er den «Synkretismus des Durcheinanders aller Stile und Möglichkeiten» als die Signatur der Kunst im P. beschreibt <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Im folgenden Jahr exponiert er die allgemeine These, daß «die Ideengeschichte abgeschlossen ist, und daß wir im P. angekommen sind» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. In diesem, als der Phase der «kulturellen Kristallisation», sind zwar «Neuigkeiten, sind echte Produktivitäten möglich, aber doch nur in dem schon abgesteckten Feld und auf der Basis der schon eingelebten Grundsätze», welche selbst nicht mehr verlassen werden <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<p>Neben der durch seine vermeintlich Cournotsche Prägung motivierten Verwendung zur Darstellung von dessen Prognose eines zukünftigen «etat final» <sup class=\"fn\" data-fn=\"0-15\">15</sup> wird der Begriff des P. zunehmend zu einer gegenwartskritischen Kategorie. Nach W. LEPENIES ist «die ‘Basteleiʼ, ein immer wieder neu beginnendes Zusammensetzen alter Teile, ein Spielen mit Bekanntem» das Kennzeichen ästhetischen und gesellschaftlichen Handelns im P. <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Da «der menschliche Geist ... die objektiven Möglichkeiten von Weltanschauungen, Sozialformen, Kunststilen geschichtlich durchexperimentiert» hat, erkennt M. LANDMANN in der Gegenwart die «Nachgeschichte», die «Letztphase» eines unüberwindlichen Epigonentums; «das P. ist verschärfter, radikalisierter Hellenismus. Der Hellenismus war Entscheidung, das P. ist Schicksal» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. In der jüngsten, noch andauernden Diskussion diversifizieren sich die Konnotationen von ‹P.› entsprechend den verschiedenen kritischen Perspektiven auf die kulturelle und gesellschaftliche Situation der Gegenwart.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1141\"></span> F. W. J. SCHELLING: Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) 14, 298.</li>\n<li id=\"fn0-2\" value=\"2\">A. A. COURNOT: Traité de l'enchaînement des idées fondament. dans les sci. et dans l'hist. Œuvres compl. (Paris 1982) 3, 484. 185.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 484.</li>\n<li id=\"fn0-4\" value=\"4\">C. BOUGLÉ: Les rapports de l'hist. et de la sci. sociale d'après Cournot. Rev. Métaph. Morale 13 (1905) 368.</li>\n<li id=\"fn0-5\" value=\"5\">R. RUYER: L'humanité de l'avenir d'après Cournot (Paris 1930) 133.</li>\n<li id=\"fn0-6\" value=\"6\">R. LÉVÊQUE: L'élément hist. dans la connaiss. hum. d'après Cournot (Paris 1938) 110. 115.</li>\n<li id=\"fn0-7\" value=\"7\">B. CAIZZI: La filos. di A. Cournot (Bari 1942).</li>\n<li id=\"fn0-8\" value=\"8\">R. SEIDENBERG: The posthistoric man (Chapel Hill 1950) 55f.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 179.</li>\n<li id=\"fn0-10\" value=\"10\">H. de MAN: Vermassung und Kulturverfall (1951) 135f.</li>\n<li id=\"fn0-11\" value=\"11\">A. GEHLEN: Über die Geburt der Freiheit aus der Entfremdung (1952). Ges.ausg., hg. K. S. SEHBERG 4 (1982) 379; Die Rolle des Lebensstandards in der heutigen Ges., a.O. 7 (1978) 19.</li>\n<li id=\"fn0-12\" value=\"12\">Zeit-Bilder (1960) 206.</li>\n<li id=\"fn0-13\" value=\"13\">Über kulturelle Kristallisation, in: Studien zur Anthropologie und Soziologie (1961) 323.</li>\n<li id=\"fn0-14\" value=\"14\">a.O. 321.</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. R. SCHNUR: Ein Prophet der verwalteten Welt. A. A. Cournots Prognose des posthistorischen Zeitalters. Wort und Wahrheit 16 (1961) 743–754; F. JONAS: Gesch. der Soziol. (1968) 2, 158; D. BELL: The coming of postindustr. soc. (1973) 350.</li>\n<li id=\"fn0-16\" value=\"16\">W. LEPENIES: ‘Il Mercenarioʼ. Ästhetik und Gewalt im posthistoire, in: Ästhetik und Gewalt (1970) 63.</li>\n<li id=\"fn0-17\" value=\"17\">M. LANDMANN: Nachgeschichtl. Epigonentum als Schicksal, in: G.-K. KALTENBRUNNER (Hg.): Unser Epigonen-Schicksal (1980) 25.</li>\n</ol>",
+ "prev":{"id":2414,"lemma":"Possibilismus","band":"7","col":1139},
+ "next":{"id":2416,"lemma":"Postmoderne","band":"7","col":1141},
+ "backlinks":[{"id":2738,"lemma":"Säkularisierung","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"état final","qualifier":"","band":null,"col":null},
+  {"term":"Kristallisation","qualifier":"","band":"7","col":"1141"},
+  {"term":"Nachgeschichte","qualifier":"","band":null,"col":null},
+  {"term":"période finale","qualifier":"","band":"7","col":"1140"},
+  {"term":"Synkretismus der Stile","qualifier":"","band":"7","col":"1141"}
+ ],
+ "persons":[
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":495,"name":"M. Landmann","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1213,"name":"A. A. Cournot","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1305,"name":"W. Lepenies","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2741,"name":"C. Bouglé","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3745,"name":"R. Seidenberg","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7677,"name":"R. Ruyer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":9877,"name":"R. Lévêque","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":16611,"name":"B. Caizzi","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1481,"name":"R. Schnur","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2491,"name":"D. Bell","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6548,"name":"G.-K. Kaltenbrunner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1641,"name":"F. Jonas","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":26483,"name":"K. S. Sehberg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1245,"lemma":"Hellenismus","tf":2},
+  {"id":2350,"lemma":"Phase","tf":3},
+  {"id":1453,"lemma":"Instinkt","tf":2},
+  {"id":2438,"lemma":"Prägung","tf":2},
+  {"id":1023,"lemma":"Gegenwart","tf":2}
+ ],
+ "see_also":[{"id":1092,"lemma":"Geschichtslosigkeit"}],
+ "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Posthistoire"}],
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+}
+);

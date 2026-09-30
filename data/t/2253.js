@@ -1,0 +1,37 @@
+HWPH.put("t/2253",
+{
+ "b":"Orthogenese, Orthogenesis (engl. orthogenesis, frz. orthogenese, ital. ortogenesi) \nI. Der Begriff ‹Orthogenesis› (Os.) – in der späteren Diskussion meist ‹Orthogenese› (O.) – wurde von W. HAACKE 1893 zur Bezeichnung der für ihn unumstößlichen Tatsache eingeführt, daß die Entwicklung und Umbildung der Organismen stets nach einer (geraden, vorgeschriebenen) Richtung hin vor sich gegangen ist, und dient so als Gegenbegriff zu der aus A. Weismanns Biophoren-Theorie gefolgerten allseitigen Variabilität oder Amphigenesis. Die Os.-These ist bei Haacke Element einer auf Beseitigung des Weismann unterstellten Präformismus zielenden neolamarckistischen Epigenesislehre , die als Vererbungsträger in erster Linie das «monotone» Plasma des Zelleibes und nicht die Chromosomen des Zellkernes ansieht . TH. EIMER hat den Begriff ‹Os.› 1895 in seinem Leidener Vortrag ‹Über bestimmt gerichtete Entwickelung (Orthogenesis) und über Ohnmacht der Darwinschen Zuchtwahl bei der Artbildung› als angemessene Kennzeichnung seiner eigenen Auffassung übernommen und zum Angelpunkt einer gegen Weismanns «Allmacht der Naturzüchtung» gerichteten Entwicklungstheorie gemacht. Danach oszilliert das Abändern nicht, wie für Weismann, von einem Nullpunkt aus nach den verschiedensten Richtungen hin und her , sondern geschieht wie nach einem bestimmten Plan ohne jede Beziehung zu irgendwelchem Nutzen gesetzmäßig nach wenigen ganz bestimmten, konstitutionell bedingten, dichotomisch untereinander zusammenhängenden Entwicklungsrichtungen . Die Os. ist nicht durch Selektion gezüchtet, sondern besteht, bevor diese eingreift . Sie ist Ausdruck des organischen Wachsens (Organophysis oder Morphophysis) , das auf beständigen unmittelbaren äußeren Einflüssen (Klima, Nahrung) auf das Plasma und damit auf der für Eimer experimentell erwiesenen Vererbung erworbener Eigenschaften beruht . Die abändernde Wirksamkeit der Os. wird durch die von den Gesetzen der Korrelation und Kompensation beherrschte Wirkung des Gebrauchs oder Nichtgebrauchs der Teile verstärkt oder abgeschwächt . Als allgemeines Gesetz findet die Os. ihren Ausdruck in einer Reihe weiterer Entwicklungsgesetze, zu deren terminologischer Fixierung Eimer einen Katalog überwiegend nicht rezipierter Neogräzismen in Vorschlag gebracht hat . WEISMANN hat die Os. 1896 über ihre Zurückführung auf Germinalselektion in seine eigene Lehre zu integrieren versucht. Die Entwicklung der Genetik ist über die lamarckistischen Ausgangshypothesen der vorwiegend auf morphologische Befunde gestützten Os.-Theorie, aber auch über den outrierten Selektionismus Weismanns, der sie hervorgerufen hatte, rasch hinweggegangen. \nII. Orthogenetische Überlegungen sind als Reaktion auf ein Unbehagen am Darwinismus zurückzuführen, der mit seinen Erklärungsprinzipien die Frage nach einer möglichen teleologischen Betrachtungsweise der Natur gar nicht formulieren kann. A. WAGNER stellt 1908 in seiner ‹Geschichte des Lamarckismus› fest, daß das Problem der O. gegenüber dem Darwinismus «stets ein gefährlicher, aber unentfernbarer Fremdkörper bleiben wird; daß jedoch Hoffnung besteht, dem Problem der O. von larmarckistischer Grundlage aus beizukommen. Denn auch die O. mündet in einen ‘Triebʼ, in ein ‘Strebenʼ, also in einen psychischen Faktor» . Die Orthogenetiker setzen sich ihrerseits dem Vorwurf aus, mit ihrem Neo-Lamarckismus dem Vitalismus in Form von gerichteten Evolutionskräften das Wort zu reden und somit die empirische Basis der Naturwissenschaft zu verlassen. \nZu einer weiteren Begriffsklärung hat L. PLATE beigetragen. Er unterscheidet die Orthoevolution als den bloß beschreibenden Begriff einer «bestimmt gerichteten Evolution» von den sie möglicherweise verursachenden Bedingungen. Hier kann es einerseits Os. geben, sie «ist eine durch äußere Faktoren veranlaßte, bestimmt gerichtete Evolution einer Art, bei der alle Individuen sich im wesentlichen gleich verändern und daher der Selektion keine Gelegenheit zum Eingreifen geben» . «Im Gegensatz zur O. steht eine andre Art geradliniger Evolution, welche ich ‘Orthoselektionʼ nennen will; ich verstehe darunter keine besondere Art der Zuchtwahl, sondern es soll damit nur eine auf der einmal eingeschlagenen Bahn fortschreitende Wirkungsweise der Zuchtwahl bezeichnet werden» . Die Auffassung der O. als eines von inneren Kräften geleiteten Prozesses wird als mißverständlich verworfen . \nOrthogenetische Überlegungen innerhalb der synthetischen Theorie der Evolution (d.h. der Erweiterung des Darwinismus durch Mutationstheorie und Populationsgenetik) hätten den Begriff der Orthomutation zu klären. Mutationen, die innerhalb einer Population und über mehrere Generationen in gleicher Weise auftreten, sind bisher jedoch nicht nachgewiesen worden . Neuere Überlegungen zur O. beschränken sich demzufolge auf die Orthoselektion, d.h. auf das Gleichbleiben der Auslesefaktoren . Besonders aufschlußreich sind in diesem Zusammenhang Konzepte innerhalb der Vergleichenden Verhaltensforschung über «Verhaltenseigentümlichkeiten als Schrittmacher der Evolution» und der Begriff des genetischen Dualismus bei K. POPPER ; hierbei werden zwei unterschiedliche Gen-Systeme für den Besitz und den Gebrauch von Organen angenommen, aus deren Zusammenspiel in der Auseinandersetzung mit der Umwelt orthogenetische Entwicklungen verständlich werden können.",
+ "n":"W. HAACKE: Gestaltung und Vererbung (1893) 31ff. \nVgl. die Art. ‹Epigenesis›, ‹Neolamarckismus›, ‹Präformismus›. \nHAACKE, a.O. [1] 49ff. \nAbgedr. in: TH. EIMER: Os. der Schmetterlinge (1897) 12ff. \na.O. 17. 20. 34. \n20. 51. \nIII. VIf. 16. 20. 34 u.ö. \nIff. 13ff. 52 u.ö. \n16. 53. 86. 89. \nVorw., I. III. 12 u.ö. \nII. VIIf. XIVf. 13. 15f. 54. \nVIII. XII. 13. 17. 41. \nVIII. 18ff. 24. 34ff. 72. 85. \nA. WAGNER: Gesch. des Lamarckismus (1908) 238f. \nL. PLATE: Selektionsprinzip und Probleme der Artbildung. Ein Hb. des Darwinismus (1913) 507. \na.O. 510f. \n511f. \n508. \nW. ZIMMERMANN: Vererbung ‘erworbener Eigenschaftenʼ und Auslese (21969) 138ff. 142. \nG. HEBERER: Theorie der additiven Typogenese a.O. [7] II/1 (31974) 397f. \nW. WICKLER: Vergl. Verhaltensforsch, und Phylogenetik, in: G. HEBERER: Die Evolution der Organismen I (31967) 459. \nK. POPPER: Objektive Erkenntnis (1973) 300ff.",
+ "l":"HAACKE s. Anm. [1]. – EIMER s. Anm. [4]. A. WEISMANN: Über Germinal-Selection, eine Quelle bestimmt gerichteter Variation (1896). \nB. RENSCH: Neuere Probleme der Abstammungslehre (31972). – G. G. SIMPSON: The meaning of evolution (Yale 1949).",
+ "au":"H. Schlüter",
+ "A":["H. Schlüter"],
+ "cb":[[0,1387],[84,1387],[1263,1388],[2654,1388],[3502,1388],[3860,1389],[4387,1389]],
+ "cn":[
+  [0,1387],
+  [0,1388],
+  [50,1388],
+  [114,1388],
+  [138,1388],
+  [198,1388],
+  [216,1388],
+  [225,1388],
+  [252,1388],
+  [272,1388],
+  [289,1388],
+  [313,1388],
+  [343,1388],
+  [367,1388],
+  [396,1389],
+  [398,1389],
+  [447,1389],
+  [541,1389],
+  [553,1389],
+  [560,1389],
+  [566,1389],
+  [651,1389],
+  [725,1389],
+  [841,1389]
+ ],
+ "cl":[[0,1388],[131,1389]]
+}
+);

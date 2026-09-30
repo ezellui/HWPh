@@ -1,0 +1,36 @@
+HWPH.put("t/1963",
+{
+ "b":"Methode, phänomenologische. Der Begriff der ph.M. leitet sich von dem Sinn ab, den E. HUSSERL dem Begriff der Phänomenologie gegeben hat. Phänomenologie ist in ihrem Ursprung «deskriptive Psychologie» mit dem Ziel einer Neubegründung der reinen Logik und Erkenntnistheorie . In ihrer Gegenwendung gegen den Psychologismus ist die ph.M. gekennzeichnet durch die «Bevorzugung der inneren Erfahrung und durch Abstraktion von aller psychophysischen Erklärung» . Die ph.M. strebt den direkten deskriptiven Aufweis dessen an, was als psychisches Phänomen gegeben ist. Das Ziel der «phänomenologischen Analyse» besteht darin, «die logischen Ideen, die Begriffe und Gesetze zu erkenntnistheoretischer Klarheit und Deutlichkeit zu bringen» . \nDiese deskriptive M. wird im weiteren Verlauf der Entwicklung der Phänomenologie aus ihrer thematischen Beschränkung auf Psychologie und Logik herausgenommen. Dies wird möglich durch die Erkenntnis, daß «auch Allgemeinheiten, allgemeine Gegenstände und allgemeine Sachverhalte zu absoluter Selbstgegebenheit gelangen können» . Die Maxime dieser universal gewordenen M. formuliert Husserl als «Prinzip aller Prinzipien»; dieses besagt, daß «jede originär gebende Anschauung» eine letzte «Rechtsquelle der Erkenntnis» ist . In diesem Sinne wird die ph.M. als die M. der Wesensschau von den Schülern Husserls übernommen . \nBei Husserl selbst aber bekommt die ph.M. durch die Übernahme der cartesianischen Zweifelsbetrachtung im Hinblick auf das Problem der Transzendenz eine neue, von den Schülern Husserls nicht nachvollzogene Wendung. Sie ist in zunehmendem Maße durch die «phänomenologische Reduktion» und deren Problematik bestimmt . Unter Festhaltung des Prinzips der Prinzipien wird die ph.M. Zugangsweg zum apodiktischen Grund aller Erfahrung, dem «reinen Bewußtsein» . Die zureichende Ausgestaltung dieses Zugangsweges aber bleibt ein zentrales Problem Husserls . Problematisch bleibt dabei vor allem das Verhältnis von phänomenologischer Reduktion und eidetischer Reduktion, als welche nunmehr die M. der Wesensschau bestimmt ist . \nZunächst behauptet Husserl, daß die eidetische Reduktion notwendig der phänomenologischen Reduktion voranzugehen habe und eine «phänomenologische Tatsachenwissenschaft» unmöglich, Phänomenologie also eo ipso Wesenswissenschaft sei . In seinen ‹Cartesianischen Meditationen› scheint Husserl dagegen eine phänomenologische Tatsachenwissenschaft für möglich zu halten, welche das in der phänomenologischen Reduktion gewonnene, je mir eigene transzendentale ego zum Thema hat und erst nachträglich durch Anwendung der eidetischen Reduktion den Charakter einer Wesenswissenschaft gewänne . Das Problem der ph.M. kompliziert sich noch dadurch, daß Husserl in seiner Spätzeit zwischen phänomenologischer Epoche und transzendentaler Reduktion unterscheidet . \nBei M. HEIDEGGER ist die ph.M. M. seiner «Fundamentalontologie». In ‹Sein und Zeit› bestimmt er den Begriff der ph.M. durch Rückgang auf die ursprünglich griechischen Bestandteile des Wortes ‹Phänomenologie› (φαινόμενον und λόγος) . Die ursprüngliche Bedeutung von ‹Phänomen› ist das «Sich-an-ihm-selbst-Zeigende» . Die Bedeutung des λόγος als λόγος ἀποφαντικός ist das «aufweisende Sehenlassen» . Somit besagt der Terminus ‹ph.M.›: «Das, was sich zeigt, so wie es sich von ihm selbst her zeigt, von ihm selbst her sehen lassen» . In seiner Vorlesung ‹Grundprobleme der Phänomenologie› von 1927 kennzeichnet Heidegger seine ph.M. durch die Angabe dreier inhaltlich zusammengehöriger «Grundstücke»: «Reduktion», «Konstruktion» und «Destruktion» . Der Begriff der ph.M. ist bei Heidegger ferner dadurch bestimmt, daß der «methodische Sinn der phänomenologischen Deskription» «Auslegung» (ἑρμηνεύειν) ist .",
+ "n":"E. HUSSERL: Log. Untersuch. 2 (11901) 18. \na.O. 1 (11900) VII. \n2, 19. \n7. \nDie Idee der Phänomenol. Fünf Vorles. Husserliana (Hua.) 2 (Den Haag 21958) 51. \nIdeen zu einer reinen Phänomenol. und phänomenol. Philos. 1 Hua. 3 (Den Haag 1950) 52. \nVgl. z.B. A. REINACH: Was ist Phänomenol.? (1951). \nHUSSERL, Idee ... a.O. [5] 45. \nebda. 58. \nIdeen ... a.O. [6] 118. \nVgl. I. KERN: Husserl und Kant. Eine Untersuch. über Husserls Verhältnis zu Kant und zum Neukantianismus (Den Haag 1964) § 18, 194ff. \nVgl. HUSSERL, Ideen ... a.O. [6] 6. \nVgl. 149 Anm. \nCartesianische Meditationen und Pariser Vorträge. Hua. 1 (Den Haag 21963) 103ff.; Ideen ... 3. Hua. 5 (Den Haag 1952) 142. \nVgl. Die Krisis der europ. Wiss.en und die transzendentale Phänomenol. Eine Einl. in die phänomenol. Philos. Hua. 4 (Den Haag 21962) 154ff. \nM. HEIDEGGER: Sein und Zeit (91960) 27ff. \na.O. 28. \n32. \n34. \nGesamt-A. 24 (1975). \na.O. 29ff. \na.O. [16] 37.",
+ "l":"E. SPIEGELBERG: The phenomenol. movement 1. 2 (Den Haag 1960). – G. FUNKE: Phänomenol. – Met. oder M.? (1966). – E. TUGENDHAT: Der Wahrheitsbegriff bei Husserl und Heidegger (21970). – A. AGUIRRE: Genet. Phänomenol. und Reduktion. Zur Letztbegründung der Wiss. aus der radikalen Skepsis im Denken E. Husserls (Den Haag 1970). – U. CLAESGES und K. HELD (Hg.): Perspektiven transzendentalphänomenol. Forsch. (Den Haag 1972). – E. PIVCEVIĆ (Hg.): Phenomenol. and philos. understanding (Cambridge 1975).",
+ "au":"U. Claesges",
+ "A":["U. Claesges"],
+ "cb":[[0,1364],[734,1364],[1354,1364],[2073,1364],[2567,1365],[2825,1365]],
+ "cn":[
+  [0,1364],
+  [0,1365],
+  [43,1365],
+  [64,1365],
+  [72,1365],
+  [76,1365],
+  [157,1365],
+  [245,1365],
+  [297,1365],
+  [329,1365],
+  [340,1365],
+  [365,1365],
+  [500,1365],
+  [537,1365],
+  [552,1365],
+  [676,1365],
+  [817,1365],
+  [860,1365],
+  [870,1365],
+  [875,1365],
+  [880,1365],
+  [902,1365],
+  [914,1365]
+ ],
+ "cl":[[0,1365]]
+}
+);

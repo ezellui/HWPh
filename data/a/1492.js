@@ -1,0 +1,27 @@
+HWPH.put("a/1492",
+{
+ "id":1492,
+ "lemma":"Invers",
+ "band":"4",
+ "kind":"article",
+ "col_from":575,
+ "col_to":575,
+ "pdf_from":13180,
+ "pdf_to":13180,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":251,
+ "toc":[["h1","Literaturhinweise",0]],
+ "html":"<p>Invers zu der Aussage <i>p</i> heißt die Aussage <i>q</i> dann, wenn sie durch die Operation der Inversion aus <i>p</i> hervorgegangen ist. So wäre z.B. die Inverse zu <i>r</i> → <i>s</i> die Aussage ¬ <i>r</i> → ¬ <i>s</i>, zu dem Urteil <i>SaP</i> das Urteil <i>S'aP'.</i></p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">A. MENNE: Logik und Existenz (1954) 70f.</p>",
+ "prev":{"id":1491,"lemma":"Inventio medii","band":"4","col":574},
+ "next":{"id":1493,"lemma":"Inversion","band":"4","col":575},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":1029,"name":"A. Menne","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}],
+ "mentions":[{"id":309,"lemma":"Aussage","tf":3},{"id":3355,"lemma":"Urteil","tf":2}],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Invers"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

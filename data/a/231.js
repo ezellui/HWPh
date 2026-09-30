@@ -1,0 +1,58 @@
+HWPH.put("a/231",
+{
+ "id":231,
+ "lemma":"Arbeiter, Arbeiterfrage",
+ "band":"1",
+ "kind":"article",
+ "col_from":487,
+ "col_to":489,
+ "pdf_from":1806,
+ "pdf_to":1811,
+ "authors":["W. Conze"],
+ "n_notes":7,
+ "n_chars":6577,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Arbeiter, Arbeiterfrage. Das Wort ‹Arbeiter› (A.) bezeichnete allgemein, auch in seinen Entsprechungen in anderen europäischen Sprachen, den körperlich tätigen, sich abmühenden Mann, im Gegensatz zum Vornehmen, Edlen, für den solche «Mühe und Arbeit» unter seiner Würde war. Doch setzte sich gegenüber dieser weiten, unscharfen Bedeutung schon vom Mittelalter an zunehmend die Tendenz der Einengung auf abhängige Lohn-A. durch. Selbständige Handwerksmeister gehörten bei solchem Verständnis nicht zu den A., während Bauern allenfalls als ‹A.› bezeichnet werden konnten, insofern sie Fröner waren <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die biblisch-christliche Wertung («A. im Weinberg des Herrn») mit der Möglichkeit einer Hochwertung des «christlich-adeligen» handarbeitenden Menschen im Gegensatz zum Müßiggänger wurde zwar oft formuliert und durch Predigten seit den Bettelmönchen auch populär. Doch hat sie im ganzen den vorherrschenden Sprachgebrauch des <i>sozialen</i> Begriffs ‹A.› als Menschen der handarbeitenden Unterschicht nicht eingeschränkt, wenn auch die christliche, durch den reformatorischen Berufsbegriff noch verstärkte Umwertung ständischer Rangordnung dem Bewußtsein der Zeitgenossen der A.-Emanzipation im 19. Jh. mit zugrunde gelegen hat.</p>\n<p>Die Entwicklung der Manufakturen, vor allem aber seit dem 18./19. Jh. der mechanisierten Produktion in «Fabriken» führte zu terminologischen Schwierigkeiten, zu Fixierungen und Differenzierungen des Begriffs ‹A.› <sup class=\"fn\" data-fn=\"0-2\">2</sup> mit der vorwaltenden Tendenz, daß sich innerhalb der weit umfassenden «handarbeitenden Klasse(n)» eine Kerngruppe von Industrie-A., A. im eigentlichen oder engeren Sinne, herausbildete. Seit den 40er Jahren wurde auch das in die Reichsgewerbeordnung (1869/71) übernommene Wort ‹Arbeitnehmer› üblich. Im Maße, wie der moderne Arbeitsbegriff selbst für ein breiteres Bewußtsein die Beschränkung auf Handarbeit nicht mehr zuließ, wuchs im Laufe des 19. Jh. das Bedürfnis, <i>alle</i> tätigen Menschen (im Gegensatz zu den müßigen Privilegierten oder auch Bettlern) als ‹A.› zu bezeichnen. «A. sind wir alle, insofern wir nur den Willen haben, uns in irgendeiner Weise der menschlichen Gesellschaft nützlich zu machen» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Da jedoch der A. – Begriff gerade durch die Industrialisierung neu fixiert worden war, bot sich als Ergänzung zum A. als Handarbeiter die Neubildung «Kopf-» oder «Geistesarbeiter» an <sup class=\"fn\" data-fn=\"0-4\">4</sup>, die von den 60er Jahren an zunehmend («Hand- und Kopf-A.», «A. der Stirn und der Faust») in die Schlagwortsprache der A.-Bewegung aufgenommen, schließlich vom Nationalsozialismus viel verwendet wurde, um danach offenbar außer Gebrauch zu kommen. <span class=\"col\" data-col=\"488\"></span></p>\n<p>Die «A.-Frage» erwuchs aus den durch die französische Revolution gegebenen Impulsen. War in der vorrevolutionären Gesellschaft (aristotelisch: societas civilis) die Unterschicht der A. (im weiten Sinne) sozial ausgeschlossen gewesen, so erforderten die Prinzipien allgemeiner Freiheit und Gleichheit die Emanzipation des A. und seine Aufnahme als eines gleichberechtigten, zu Bildung und Wohlstand zugelassenen Gliedes in die «neue» Gesellschaft. Daher wurde seit den 30er und 40er Jahren des 19. Jh. die A.-Frage zur «sozialen Frage» schlechthin. Seit LORENZ VON STEIN, MARX und ENGELS (40er Jahre) wurde, um die Zuspitzung des «Klassenkampfes» durch einen neuen Begriff zu betonen, der Ausdruck ‹Proletarier› anstelle von ‹A.› gesetzt oder, wie ENGELS 1844 ausdrücklich hervorhob, mit ‹A.› synonym gebraucht <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Doch ist selbst im politisch-revolutionären Verstände ‹A.› nie vollständig durch ‹Proletarier› verdrängt worden. Auch ‹A.› wurde im Zusammenhang mit ‹A.-Klasse› politisiert, sowohl sozialistisch revolutionär wie liberaldemokratisch («Selbsthilfe»; SCHULZE-DELITZSCH) und konservativ (sozialpolitische Verantwortung des Staates; WAGENER, BISMARCK). Seit 1848 wurde die auch vorher nicht ganz ungebräuchliche Vorstellung schnell verbreitet, daß der «4. Stand» dem dritten in seiner Emanzipation nachfolgen werde, sei es durch Reform, sei es durch eine neue Revolution (Analogie zu 1789; französischer Ansatz 1848). Bezeichnend für Deutschland war die Wortprägung ‹A.-Stand› neben ‹A.-Klasse›, während im Englischen nur ‹class(es)› und im Französischen nur ‹classe(s)› üblich war.</p>\n<p>Mochten auch um die Mitte des 19. Jh. ‹A.-Stand› und ‹A.-Klasse› oft unscharf nebeneinander verwendet oder gar ausgewechselt werden, so lag doch in beiden Begriffen die in der Tat realisierte Möglichkeit, die A.-Frage revolutionär (‹Klasse›: Marx, Marxismus) oder konservativ-sozialreformerisch (‹Stand›: RIEHL, WAGENER) zu begreifen. Die A.-Bewegung selber – eine Bezeichnung, die schon in den 40er Jahren aufkam, aber erst seit 1863 ins allgemeine Sprachbewußtsein drang <sup class=\"fn\" data-fn=\"0-6\">6</sup> – hat sich in Deutschland in der Frage des Gebrauchs von ‹Klasse› oder ‹Stand› lange Zeit unentschieden verhalten, ja vielfach ‹A.-Stand› bevorzugt, so in der «A.-Verbrüderung» von 1848/54 <sup class=\"fn\" data-fn=\"0-7\">7</sup>, besonders auch durch LASSALLE 1862/64. Der Begriff ‹A.-Klasse›, der in den sozialistischen Bewegungen verschiedener Richtung allgemein üblich war, wurde im deutschen Sprachgebiet mit dem allmählichen Vordringen des Marxismus (70er bis 90er Jahre) vorherrschend. Seit etwa 1930 und noch deutlicher seit 1945 nahm seine Beliebtheit in dem Maße ab, wie der Marxismus in der Sozialdemokratie an Boden verlor; hingegen hält der Sprachgebrauch der kommunistischen Parteien noch heute an der Bezeichnung fest.</p>\n<p>Je stärker im Westen Industrialisierung und Demokratisierung fortschritten, um so mehr trat die A.-Frage in ihrer Bedeutung als <i>die</i> «soziale Frage» schlechthin zurück und fügte sich, vielfältig differenziert, in die soziale Problematik der Gegenwart ein.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">F. le PLAY: Les ouvriers européens (<sup>2</sup>1877/79). – F. A. LANGE: Die A.-Frage (1879). – H. HERKNER: Die A.-Frage (<sup>8</sup>1922). – W. SOMBART: Der proletarische Sozialismus (<sup>10</sup>1924). – E. JÜNGER: Der A. <span class=\"col\" data-col=\"489\"></span> (1932). – Art. ‹A.› und ‹A.-Bewegungen› in Handwb. Sozialwiss. (1953) 1, 234ff. – C. JANTKE: Der Vierte Stand. Die gestaltenden Kräfte der dtsch. A.-Bewegung im 19. Jh. (1955). – J. KUCZYNSKI: Die Geschichte der Lage der A. unter dem Kapitalismus (1953/55). – H. POPITZ u.a.: Das Gesellschaftsbild des A. (1957).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"488\"></span> J. H. ZEDLER: Universal-Lexicon 2 (1732) 1151.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. Art. ‹A.›, in: Hist. Lex. polit.-sozialer Begriffe 1 (1971).</li>\n<li id=\"fn0-3\" value=\"3\">F. LASSALLE: A.-Programm (1868). Reden und Schriften 2, 186.</li>\n<li id=\"fn0-4\" value=\"4\">So schon bei J. G. HOFFMANN: Das Verhältnis der Staatsgewalt zu den Vorstellungen ihrer Untergebenen (1842) 124.</li>\n<li id=\"fn0-5\" value=\"5\">FR. ENGELS, MEGA 1, 404.</li>\n<li id=\"fn0-6\" value=\"6\">Ausführlicher a.a.O. [2].</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. F. BALSER, Sozial-Demokratie 1848/49–1853. Die erste dtsch. A.-Organisation «Allg. dtsch. A.-Verbrüderung» nach der Revolution (1965).</li>\n</ol>",
+ "prev":{"id":230,"lemma":"Arbeit","band":"1","col":480},
+ "next":{"id":232,"lemma":"Arbeitsethos","band":"1","col":489},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Arbeitnehmer","qualifier":"","band":"1","col":"487"},
+  {"term":"Stand","qualifier":"","band":"1","col":"488"}
+ ],
+ "persons":[
+  {"id":45,"name":"F. Engels","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1009,"name":"F. Lassalle","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3388,"name":"H. Wagener","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":84,"name":"J. H. Zedler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2938,"name":"Riehl","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4851,"name":"Bismarck","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7205,"name":"H. Schulze-Delitzsch","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8529,"name":"F. Balser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19325,"name":"Lorenz von Stein","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":229,"name":"F. A. Lange","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":667,"name":"W. Sombart","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1284,"name":"E. Jünger","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":2937,"name":"H. Popitz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4364,"name":"J. Kuczynski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7206,"name":"C. Jantke","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13548,"name":"H. Herkner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19326,"name":"F. le Play","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":163,"name":"F. Hoffmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1871,"lemma":"Marxismus","tf":3},
+  {"id":3008,"lemma":"Stand","tf":3},
+  {"id":2476,"lemma":"Proletariat, Proletarier","tf":2},
+  {"id":1572,"lemma":"Klasse, soziale","tf":3},
+  {"id":715,"lemma":"Emanzipation","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":3},
+  {"id":2705,"lemma":"Revolution","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":33,"name":"Politische Theorie","label":"Arbeiter"}],
+ "reg_authors":[{"name":"Conze Werner","n":5}]
+}
+);

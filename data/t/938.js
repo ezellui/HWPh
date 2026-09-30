@@ -1,0 +1,25 @@
+HWPH.put("t/938",
+{
+ "b":"Form und Inhalt (Gestalt/Stoff, Gehalt) ist seit dem 18. Jh. ein wichtiges Begriffspaar in der Ästhetik und in der Kunst- und Literaturbetrachtung, das letztlich auf den Dualismus Idee/Materie in der griechischen Philosophie zurückgeht. I. meint entweder den vorgegebenen Stoff oder als Gehalt Gedanken und Empfindungen des Künstlers, die mit dem Stoff verbunden sein können. – GOTTSCHED kann noch jedem Stoff jede F. zuordnen. Dagegen besteht für HERDER, GOETHE und die Romantik ein notwendiger Zusammenhang zwischen I. und F.: individuellem Gehalt entspringt die individuelle, organische, innere F. Wie bei PLOTIN ist äußere Gestalt durch Inneres, Geistiges bestimmt. Trotz des Sinns für F. ist die Ästhetik des deutschen Idealismus wesentlich Gehaltsästhetik. So sind bei HEGEL zwar nur gestaltete Ideen, Ideale mit Individualität des Gehalts und der F., Gegenstand der Kunst; auch muß der I. der F. fähig sein. Dennoch ist die F. nur Manifestation des sich zur Erscheinung bringenden Geistes. Aus dessen Verbindungsweisen mit dem Stoff ergeben sich die symbolische, klassische und romantische Kunstform und die einzelnen Künste . I. und F. sind untrennbar: «Der I. ist nichts als das Umschlagen der F., die F. nichts als das Umschlagen des I.» . Anders als der deutsche Idealismus trennt HERBART streng zwischen Gehalt und F. und den Wirkungen beider. Gehaltsästhetiker lehnen nach ihm eine Gestaltsästhetik ab. In der Sprachwissenschaft ergibt sich eine polare Spannung zwischen inhalt- und gestaltbezogener Forschung . WALZEL steht HERBART nahe: Gehalt ist in einer Dichtung «alles, was an Erkennen, Wollen und Fühlen in ihr enthalten ist;... Gestalt ist alles, was auf den äußeren oder inneren Sinn wirkt ... oder auch Gehör-und Gesichtsvorstellungen wachruft». Um Kunst handelt es sich nur, wenn und soweit I. in Gestalt verwandelt werden . – Seit CÉZANNE wird in der Malerei die Formgebung dem Motiv übergeordnet; nicht auf die Dinge kommt es an, sondern auf die Art, die Dinge zu sehen. WÖLFFLINS «große Formmöglichkeiten» (Stile) sind zwar mit den Geistes- und Empfindungsgehalten der Zeiten verbunden, unterstehen aber als an sich ausdruckslose «Sehstufen» und «Schemata» der Gesetzmäßigkeit einer inneren Formgeschichte. «Die Kunst hat ihr eigenes Wachstum» . In der gegenstandslosen Kunst handelt es sich nicht mehr um eine «im aristotelischen Begriffe ‹mimetische› Kunst, die sich um ... Wiedergabe von Wirklichkeiten müht», sondern um eine «im platonischen Begriffe ‹poetische› Kunst, die sich im geometrischen Ideogramm ... erfinderisch auslebt» (L. ZIEGLER ). «Der Gehalt des Kunstwerks ist nichts anderes als die Gestaltgebung selbst» (H. v. Marees' Freund K. FIEDLER ). Abstrakte F. bezeichnen keine realen Gegenstände, sondern sind – wie die einfachen geometrischen F. PLATONS – abstrakte Wesen mit eigenem Leben in eigenem Bereich (W. KANDINSKY ). Nach W. BAUMEISTER sind die Werke präexistente Ideen; Stoff, Motiv, künstlerische Vision und Künstler sind von sekundärer Bedeutung. «Alle Kräfte ... werden lebendig durch die Magie, die das Unbekannte ausstrahlt ... in dem Hervorbrechen immer neuer Formungen.» In jeder großen Kunst «offenbart sich das Geheimnis ... des ewigen Rätsels» und bildet «mit dem Geheimnis der F. eine untrennbare Einheit» . – Musik (außer Programmmusik und Vertonungen) hat keinen Stoff, wohl aber Gehalt und F. Ihre «Kraftbewegungen ... sind ... Grundvorgänge psychischen Lebens» und der «Zeitseele». Absolute Musik hat keine Gegenständlichkeit, «sie ist nur Kraft und deren Ausstrahlung in Klangstoff» (E. KURTH ). Schon SCHOPENHAUER sagt, ihre F. gleiche «den geometrischen Figuren und Zahlen», sei «nicht das Abbild der Erscheinung», sondern stelle das Metaphysische dar .",
+ "n":"G. W. F. HEGEL, Ästhetik, hg. F. BASSENGE 1, 80ff.: Die Idee des Kunstschönen oder das Ideal. \nWerke, Jubil.-A. (1929) 8, 302. \nL. WEISGERBER: Das Menschheitsgesetz der Sprache als Grundlage der Sprachwiss. (21964) 63. \nO. WALZEL: Gehalt und Gestalt im Kunstwerk des Dichters (1929) 178f. \nH. WÖLFFLIN: Das Erklären von Kunstwerken (21940) 47ff. \nL. ZIEGLER: Überlieferung (21949) 76f. \nSo bei W. BAUMEISTER: Das Unbekannte in der Kunst (21960) 52. \nW. KANDINSKY: Über das Geistige in der Kunst (61959) 70. \nBAUMEISTER, a.a.O. [7] 175. 183f. 100. \nE. KURTH: Bruckner (1925) 1, 254. 257f. \nA. SCHOPENHAUER, Welt als Wille und Vorstellung I, 3, § 52; II, 3, Kap. 59.",
+ "l":"O. WALZEL s. Anm. [4]. – P. MERKER und W. STAMMLER: Reallex. dtsch. Lit.-Gesch. (21958) 1, 468ff. – E. A. WILKINSON: ‹F.› and ‹content› in the aesthetics of German classicism, in: Stil- und F.-Probleme in der Lit., hg. P. BÖCKMANN (1959). – E. GRASSI: Die Theorie des Schönen in der Antike (1962).",
+ "au":"R. Schwinger",
+ "A":["R. Schwinger"],
+ "cb":[[0,975],[57,976],[3725,977]],
+ "cn":[
+  [0,975],
+  [95,975],
+  [126,977],
+  [128,977],
+  [220,977],
+  [290,977],
+  [347,977],
+  [387,977],
+  [450,977],
+  [508,977],
+  [548,977],
+  [589,977]
+ ],
+ "cl":[[0,977]]
+}
+);

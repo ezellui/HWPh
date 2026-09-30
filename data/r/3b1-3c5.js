@@ -1,0 +1,46 @@
+HWPH.put("r/3b1-3c5",
+[
+ ["αὐγή","Schein","I","8","1230","ref",2757,"Schein","αυγη"],
+ ["αὐγή","Seele","I","9","2","ref",2794,"Seele","αυγη"],
+ ["αὐτάρκεια","Autarkie I","",null,null,"ref",316,"Autarkie, autark","αυταρκεια"],
+ ["αὐτεξούσιον","Selbstbestimmung","","9","338","ref",2826,"Selbstbestimmung","αυτεξουσιον"],
+ ["αὐτεξούσιον","Wille","I","12","767","ref",3620,"Wille","αυτεξουσιον"],
+ ["αὐτεξούσιον","Willkür","","12","809","ref",3624,"Willkür","αυτεξουσιον"],
+ ["αὐθυπόστατος","Substanz","I","10","502","ref",3062,"Substanz; Substanz/Akzidens","αυθυποστατοσ"],
+ ["αὐθυπόστατος","Wesen","I","12","624","ref",3595,"Wesen","αυθυποστατοσ"],
+ [
+  "αὐτὸἕκαστον ὃἔστιν","To ti en einai","","10","1311","ref",3211,"To ti en einai",
+  "αυτοεκαστον οεστιν"
+ ],
+ [
+  "αὐτὸκαθ' αὑτό","Absolut; das Absolute","","1","13","ref",27,"Absolut, das Absolute",
+  "αυτοκαθ' αυτο"
+ ],
+ ["αὐτὸτὸαὐτό","Selbst","I","9","292","ref",2820,"Selbst","αυτοτοαυτο"],
+ ["αὐτοβασιλεία","Reich Gottes","","8","518","ref",2658,"Reich Gottes","αυτοβασιλεια"],
+ ["αὐτοδύναμις","Selbstbewegung","","9","348","ref",2827,"Selbstbewegung","αυτοδυναμισ"],
+ ["αὐτοε͂ιναι","Sein; Seiendes","II",null,null,"ref",2806,"Sein; Seiendes","αυτοειναι"],
+ ["αὐτοενέργεια","Selbstbewegung","","9","348","ref",2827,"Selbstbewegung","αυτοενεργεια"],
+ ["αὐτοεπιστήμη","Weisheit","","12","374","ref",3553,"Weisheit","αυτοεπιστημη"],
+ ["αὐτοετερότης","Andersheit","","1","298","ref",138,"Andersheit, Anderssein","αυτοετεροτησ"],
+ ["αὐτογνώμονον","Eigenwille Autognosie","",null,null,"ref",null,null,"αυτογνωμονον"],
+ ["αὐτοολότης","Totalität","I","10","1301","ref",3209,"Totalität","αυτοολοτησ"],
+ ["αὐτοκίνησις","Selbstbewegung","",null,null,"ref",2827,"Selbstbewegung","αυτοκινησισ"],
+ ["αὐτοκράτεια","Autokratie","","1","694","ref",321,"Autokratie","αυτοκρατεια"],
+ ["αὐτοκρατές","Selbstbeherrschung","","9","326","ref",2824,"Selbstbeherrschung","αυτοκρατεσ"],
+ ["αὐτόματον","Zufall","I",null,null,"ref",3706,"Zufall","αυτοματον"],
+ ["αὐτόματον","Spontaneität","","9","1424","ref",2982,"Spontaneität","αυτοματον"],
+ ["αὐτονομία","Autonomie","",null,null,"ref",327,"Autonomie","αυτονομια"],
+ ["αὐτονομία","Freiheit","I",null,null,"ref",946,"Freiheit","αυτονομια"],
+ ["αὐτοόν","Metaphysik","III","5","1201","ref",1944,"Metaphysik","αυτοον"],
+ ["αὐτοπραγία","Freiheit","I","2","1073","ref",946,"Freiheit","αυτοπραγια"],
+ ["αὐτοπραγία","Selbstbestimmung","","9","338","ref",2826,"Selbstbestimmung","αυτοπραγια"],
+ ["αὐτοτελειότης","Autarkie","I","1","688","ref",316,"Autarkie, autark","αυτοτελειοτησ"],
+ ["αὐτότης","Selbstheit","","9","462","ref",2839,"Selbstheit","αυτοτησ"],
+ ["αὐτοουσία","Autarkie","I","1","687","ref",316,"Autarkie, autark","αυτοουσια"],
+ ["αὐτοουσία","Freiheit","I","2","1071","ref",946,"Freiheit","αυτοουσια"],
+ ["αὐτοζωή","Leben","III","5","60","ref",1735,"Leben","αυτοζωη"],
+ ["αὔξησις","Wachstum","I",null,null,"ref",3513,"Wachstum","αυξησισ"],
+ ["αὐξητική","Pflanzenseele","I","7","403","ref",2333,"Pflanzenseele","αυξητικη"]
+]
+);

@@ -1,0 +1,12 @@
+HWPH.put("t/983",
+{
+ "b":"Galimathias ist eine im 16. Jh. zuerst in Frankreich aufgekommene Bezeichnung für sprachlichen Unsinn, unverständliches Geschwätz, für zwar wohlklingende, aber bedeutungslose Redensarten (MONTAIGNE: «un jargon de G., propos sans suite, tissu de pièces rapportées» ). In seinem etymologischen Ursprung seit je unklar, hat dieser Begriff bisher viele verschiedene Deutungen erfahren (z.B. aus griech. χαλιμάζεις, du rasest; oder aus lat.-griech. galli-μαθεία, Hühnerweisheit; oder aus galli = «Kampfhähne» eines akademischen Streitgesprächs [in der Studentensprache der Pariser Universität] und μάθησις, Wissenschaft; alte Volksetymologie: gallus Matthiae (Hahn des Matthias) mit Verdrehung zu galli Matthias, also G. = Kauderwelsch ). Durch CHR. GRYPHIUS ins Deutsche eingeführt (G. = «zwar köstlich lautende aber vielmahl weniger oder nichts bedeutende Wörter und der hieraus entspringende Mischmasch» ), wird der Terminus im 18. Jh. und darüber hinaus ein geläufiges Schlagwort der literarischen Kritik im Kampf um Klarheit des Sinnes gegen rhetorisch verdeckten Widerspruch und Schwulst . J. CHR. GOTTSCHED bezeichnet den G. «als eine ungereimte und unverständliche Vermischung untereinanderlaufender verblümter Redensarten; aus welchen es zuweilen unmöglich ist, einen Verstand herauszubringen» . J. G. HAMANN gebraucht ‹G.› sowohl gegen Herders Erklärung des Ursprungs der Sprache als auch gegen Kant, dem er vorwirft, einen «periodischen G. per Thesin et Antithesin» statt der «gemeinen Volkssprache» verwandt zu haben .",
+ "n":"M. de MONTAIGNE, Essais I, 24; vgl. die anonyme Satyre ‹Ménippé›, hg. J. FRANCK (1884) 13. \nAusführlicher Bericht über alle Deutungen und eigener Lösungsversuch bei A. NELSON: Gallimatias. Ett försök till ny tolkning, in: Strena philol. Upsaliensis. Festskrift P. Persson (Upsala 1922) 289–308. \nCHR. GRYPHIUS: Poetische Wälder (1698) Vorwort 4b. \nVgl. GRIMM 4/1 (1878) 1179f.; W. FELDMANN, Z. dtsch. Wortforsch. 7 (1905/06) 56; 8 (1906/07) 72; R. HOFMANN, a.a.O. 13 (1911/12) 48; H. SCHULZ: Dtsch. Fremdwb. (1913–42) 1, 233f.; P.-E. LITTRÉ: Dict. de la langue française 2 (1957); in der Musik z.B. W. A. MOZART, G. musicum. Köchel-Verzeichnis 32. \nJ. CHR. GOTTSCHED: Versuch einer krit. Dichtkunst (41751, ND 1962) 280. \nJ. G. HAMANN, Werke, hg. NADLER (1949–57) 3, 18. \na.a.O. 3, 287; vgl. 2, 281. 343.",
+ "l":"",
+ "au":"E. Büchsel",
+ "A":["E. Büchsel"],
+ "cb":[[0,1]],
+ "cn":[[0,1],[92,1],[296,1],[348,1],[649,1],[722,1],[772,1]],
+ "cl":[]
+}
+);

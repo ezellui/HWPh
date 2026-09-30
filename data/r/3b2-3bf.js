@@ -1,0 +1,9 @@
+HWPH.put("r/3b2-3bf",
+[
+ ["βουλή","Rat","I",null,null,"ref",2569,"Rat","βουλη"],
+ ["βούλησις","Wille","",null,null,"ref",3620,"Wille","βουλησισ"],
+ ["βούλησις","Absicht","","1","10","ref",26,"Absicht","βουλησισ"],
+ ["βουλεύεσθαι","Freiheit","I","2","1068","ref",946,"Freiheit","βουλευεσθαι"],
+ ["βούλευσις","Prohairesis","",null,null,"ref",2474,"Prohairesis","βουλευσισ"]
+]
+);

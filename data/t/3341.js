@@ -1,0 +1,12 @@
+HWPH.put("t/3341",
+{
+ "b":"Urdoxa ist ein von E. HUSSERL eingeführter Terminus für die unmodalisierte «Urform der Glaubensbeweise». Ihr Korrelat, der «Seinscharakter schlechthin», «fungiert als die Urform aller Seinsmodalitäten» . Alle Glaubensmodalitäten sind auf diesen einen «Urglauben» intentional zurückbezogen . Mit den Analysen zur U. versucht Husserl, einen Bereich vortheoretischer, lebensweltlicher Wahrheit, Gewißheit und Evidenz freizulegen, der für alle menschliche Weltorientierung im Erkennen und Handeln immer schon implizit konstitutiv ist. Die U. ist die erste Setzung des «Bewußtseins überhaupt»: Durch das bloße Hinsehen, in welchem «Bewußtseins-‘Hintergründeʼ ... in ‘Vordergründeʼ» übergehen, vollziehen wir schon die doxische Urthesis . Sie kann sich «über alle Aktsphären» erstrecken: Auch Prädikate wie «gefällig», «erwünscht» usw. «nehmen durch die a priori mögliche Überführung» in eine doxische Urthesis «die Form von Seinsmodalitäten» an . Es bestehen «tiefliegende Wesenszusammenhänge» mit der Wahrheit: «Wahrheit ist offenbar das Korrelat des vollkommenen Vernunftcharakters der U., der Glaubensgewißheit» oder «urdoxischen Evidenz» . Innerhalb der doxischen Urthesis unterscheidet Husserl in idealistischer Korrespondenztheorie («Deckung» ) «wirkliche doxische Urthesis» und «urdoxische Neutralitäten», «Urbild und Schatten» . Husserl gab den Terminus ‹U.› auf, nicht aber den Gedanken: Eine sinngemäße Entsprechung besteht zur «Evidenz» und zur lebensweltlichen «Geltungsfundierung» .",
+ "n":"E. HUSSERL: Ideen zu einer reinen Phänomenol. und phänomenolog. Philos. I, § 104 (1913). Husserliana [Hua.] 3/1 (Den Haag 1976) 240f. \na.O. 241; § 139, a.O. 322. \n§ 114, a.O. 258ff. \na.O. 260. \n§ 139, a.O. 322f. \n§ 115, a.O. 265. \n§ 114, a.O. 261. 259. \nLog. Unters. I, § 51 (1900, 21913). Hua. 18 (1975) 190ff.; Log. Unters. II/2, § 38f. (1901, 21921). Hua. 19/2 (1984) 650ff. \nDie Krisis der europ. Wiss. und die transz. Phän. § 36 (1936). Hua. 6 (1954) 143.",
+ "l":"M. SOMMER: Husserl und der frühe Positivismus (1985) 191–223. – W. MARX: Die Phänomenol. E. Husserls (1987) 24ff. – F. BELUSSI: Die modaltheoret. Grundlagen der Husserlschen Phänomenol. (1990). – R. BERNET: E. Husserl. Darstellung seines Denkens (1996). – R. KÜHN: Husserls Begriff der Passivität (1998) 23f. – CH. MÖCKEL: Einf. in die transz. Phänomenol. (1998) 67–137.",
+ "au":"Ch. Henning",
+ "A":["Ch. Henning"],
+ "cb":[[0,359],[22,360]],
+ "cn":[[0,359],[135,359],[163,359],[183,359],[194,359],[213,359],[231,359],[254,359],[379,359]],
+ "cl":[[0,360]]
+}
+);

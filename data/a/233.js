@@ -1,0 +1,45 @@
+HWPH.put("a/233",
+{
+ "id":233,
+ "lemma":"Arbeitsteilung",
+ "band":"1",
+ "kind":"article",
+ "col_from":489,
+ "col_to":490,
+ "pdf_from":1815,
+ "pdf_to":1818,
+ "authors":["Fr. Landwehrmann"],
+ "n_notes":8,
+ "n_chars":3463,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Arbeitsteilung bedeutet, daß innerhalb einer Einheit (Organ, Sozialsystem) die Teile differenzierte Funktionen übernehmen. <span class=\"col\" data-col=\"490\"></span> Der Begriff wird in jeweils spezifischer Form in den Geistes-, Natur- und Sozialwissenschaften benutzt. Im Vordergrundsteht die sozialwissenschaftliche Fassung, wie sie im Prinzip in der Antike formuliert wurde; so von PLATO, der sie auf die Vielseitigkeit der Bedürfnisse und die unterschiedlichen Begabungen der Menschen zurückführt, oder von XENOPHON, der die Vorteile der Steigerung der Fertigkeiten durch Spezialisierung herausstellt <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Die modernen Definitionen haben ihre Wurzel in den Analysen der Entwicklung einer industriellen Gesellschaft. FERGUSON stellt die volkswirtschaftliche A. in den Mittelpunkt – «als Teilung der Künste und Berufe» unter anderem basierend «auf der Verschiedenheit der Talente» <sup class=\"fn\" data-fn=\"0-2\">2</sup> –, ADAM SMITH die betriebswirtschaftliche <sup class=\"fn\" data-fn=\"0-3\">3</sup> und RICARDO die internationale <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Sie sehen in der A. eine Voraussetzung für die Steigerung des Wohlstandes. Während Ferguson und Smith bei ihren Analysen noch nicht zwischen den Ursachen und Auswirkungen der verschiedenen Formen der A. trennen, unterscheidet MARX eindeutig gesellschaftliche und manufakturmäßige A. Letztere bildet als «eine ganz spezifische Schöpfung der kapitalistischen Produktionsweise» eine Grundlage für seine Mehrwerttheorie und seine im Anschluß an Hegel formulierte Entfremdungsthese <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die Autoren sind sich darüber einig, daß es in fast allen Gesellschaften A. gibt, aber ihr für die industrielle Gesellschaft eine spezifische Bedeutung zukommt. Sie kennzeichnet die rationale Arbeitsorganisation in den Industriebetrieben, und ihre Prinzipien werden weitgehend auf die Gestaltung der Gesellschaft angewandt.</p>\n<p>BÜCHER systematisiert die verschiedenen Formen der A. und unterscheidet: a) Berufsbildung, die durch weitere Spezialisation zur b) Berufsspaltung führt, c) Produktionsteilung (eines Produktionsprozesses in selbständige Wirtschaftseinheiten; z.B.: Schafzüchter, Spinner, Weber usw.), d) Arbeitszerlegung (innerbetrieblich), e) Arbeitsverschiebung (Produktionsumweg) <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Bücher ordnet diese verschiedenen Formen mit ihren Schwerpunkten jeweils bestimmten historischen Epochen zu. Gegenüber Smith, der die A. auf die angeborene Neigung der Menschen zum Tausch zurückführt, stellt Bücher wie auch Ferguson als Ursache die unterschiedliche Eignung der einzelnen für die verschiedenen Aufgaben im Zusammenhang mit dem Grundsatz der Wirtschaftlichkeit heraus.</p>\n<p>Durch eine weitgehende Arbeitszerlegung und die damit verbundene einseitige Beanspruchung entstehen besondere physische und psychische Probleme <sup class=\"fn\" data-fn=\"0-7\">7</sup>, auf der anderen Seite bildet aber eine solche Reduktion der Tätigkeiten auf die Grundelemente auf vielen Gebieten die Voraussetzung für die Automation und damit für die Aufhebung der «Arbeits-Zerstückelung» <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">G. SCHMOLLER: Die Tatsachen der A. (1889) – H. HERKNER: Arbeit und A. (1923). – E. DURKHEIM: De la division du travail social (Paris <sup>2</sup>1926).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">K. MARX, MEGA 23, 387f.; dort weitere Hinweise.</li>\n<li id=\"fn0-2\" value=\"2\">A. FERGUSON: Abh. über die Gesch. der bürgerlichen Ges.<sup>2</sup> Slg. sozialwiss. Meister (1923) 258.</li>\n<li id=\"fn0-3\" value=\"3\">A. SMITH: The wealth of nations (1776, zit. London 1960).</li>\n<li id=\"fn0-4\" value=\"4\">D. RICARDO: The principles of political economy (<sup>3</sup>1817, zit. London 1921).</li>\n<li id=\"fn0-5\" value=\"5\">MARX, MEW 23, 368ff.</li>\n<li id=\"fn0-6\" value=\"6\">K. BÜCHER: Die Entstehung der Volkswirtschaft 1. Slg. (<sup>14/15</sup>1920) 337ff.</li>\n<li id=\"fn0-7\" value=\"7\">G. FRIEDMANN: Le travail en miettes (Paris 1964).</li>\n<li id=\"fn0-8\" value=\"8\">W. HELLPACH: Gruppenfabrikation, hg. R. LANG und W. HELLPACH (1922) 131ff.</li>\n</ol>",
+ "prev":{"id":232,"lemma":"Arbeitsethos","band":"1","col":489},
+ "next":{"id":234,"lemma":"Arbeitswelt","band":"1","col":490},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":16,"name":"K. Marx","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":584,"name":"A. Ferguson","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1202,"name":"D. Ricardo","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1196,"name":"W. Hellpach","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":5454,"name":"K. Bücher","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3,"name":"Platon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":134,"name":"A. Smith","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":204,"name":"Xenophon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":806,"name":"A. Lang","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5399,"name":"Adam Smith","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":6249,"name":"G. Friedmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":218,"name":"E. Durkheim","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1055,"name":"G. Schmoller","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":13548,"name":"H. Herkner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":1099,"lemma":"Gesellschaft","tf":4},{"id":125,"lemma":"Analyse","tf":2}],
+ "see_also":[{"id":230,"lemma":"Arbeit"},{"id":1657,"lemma":"Kooperation"}],
+ "groups":[
+  {"id":29,"name":"Ökonomie","label":"Arbeitsteilung"},
+  {"id":42,"name":"Soziologie","label":"Arbeitsteilung"}
+ ],
+ "reg_authors":[{"name":"Landwehrmann Friedrich","n":4}]
+}
+);

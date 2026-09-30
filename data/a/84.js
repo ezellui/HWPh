@@ -1,0 +1,46 @@
+HWPH.put("a/84",
+{
+ "id":84,
+ "lemma":"Aktpsychologie",
+ "band":"1",
+ "kind":"article",
+ "col_from":143,
+ "col_to":143,
+ "pdf_from":700,
+ "pdf_to":702,
+ "authors":["P. Janssen"],
+ "n_notes":5,
+ "n_chars":2721,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Aktpsychologie. Der Begriff A. führt seinem Sinngehalt nach auf BRENTANOS Unterscheidung der psychischen und der physischen Phänomene zurück. Psychische Phänomene sind demgemäß Akte, die in sich Beziehung auf etwas als ihren Gegenstand, also intentionalen Charakter haben <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Alle psychologischen Theorien des ausgehenden 19. und des frühen 20. Jh., die im Anschluß an Brentano das Wesen des Psychischen durch die Momente von Akt (Funktion) und Inhalt (Gegenstand, Erscheinung) konstituiert sahen, können unter einem bestimmten Aspekt als A. charakterisiert werden <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Auch der zweite Teil der logischen Untersuchungen HUSSERLS läßt sich als «deskriptive Psychologie intentionaler Akte» verstehen <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Als zentraler Terminus zur Kennzeichnung seiner Psychologie des Geistes, dergemäß sich das Leben des Geistes im Unterschied zu den Zuständen und Vorstellungen der Seele in Akten vollzieht, wird der Begriff ‹A.› von O. von der PFORDTEN eingeführt <sup class=\"fn\" data-fn=\"0-4\">4</sup>. In einem weiteren Sinn läßt sich der Terminus ‹A.› auch zur Charakterisierung von personalistisch orientierten psychologischen Theorien verwenden, in denen der Begriff des Aktes als eines einzelnen Momentes des einen sinnvollen Zweckzusammenhang bildenden Weltlebens oder als eines geistigen wertstiftenden, sinngebenden Lebensvollzuges – im Unterschied etwa zu vitalen Lebensvorgängen oder rezeptiven sinnerfüllenden Erlebnissen – eine wichtige Rolle spielt <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">F. BRENTANO: Psychol. vom empirischen Standpunkt 1 (1874), hg. O. KRAUS (1955) 109ff. 124ff. 142.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. A. HÖFLER: Psychologie (Wien/Prag 1897); C. STUMPF: Erscheinungen und psychische Funktionen. Abh. königl.-preuß. Akad. Wiss. philol.-hist. Kl. IV (1906); Empfindung und Vorstellung. Einzel-A. aus den Abh. königl.-preuß. Akad. Wiss., philol. hist. Kl. 1 (1918); A. MEINONG: Über emotionale Präsentation. Sber. kaiserl. Akad. Wiss., philos.-hist. Kl. 183/2. Abh. (Wien 1917); Über Annahmen (<sup>3</sup>1928) 338ff.; S. WITASEK: Grundlinien der Psychol. (1908); M. PALAGYI: Naturphilos. Vorles. über die Grundprobleme des Bewußtseins und des Lebens (1907); J. K. KREIBIG: Die intellektuellen Funktionen. Untersuchungen über Grundfragen der Logik, Psychol. und Erkenntnistheorie (1909).</li>\n<li id=\"fn0-3\" value=\"3\">E. HUSSERL: Logische Untersuchungen 2/1 (<sup>5</sup>1968) 343ff.; vgl. zu dieser Verwendung des Begriffs N. BISCHOF: Erkenntnistheoretische Grundlagenprobleme der Wahrnehmungspsychol., in: Handb. Psychol., hg. W. METZGER 1 (1966) 1.</li>\n<li id=\"fn0-4\" value=\"4\">O. FRH. von der PFORDTEN: Psychol. des Geistes (1912).</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. E. SPRANGER: Lebensformen. Geisteswiss. Psychol. und Ethik der Persönlichkeit (<sup>5</sup>1925); W. STERN: Allg. Psychol. auf personalistischer Grundlage (Den Haag <sup>2</sup>1950); Person und Sache. System der philos. Weltanschauung 2: Die menschliche Persönlichkeit (1918).</li>\n</ol>",
+ "prev":{"id":83,"lemma":"Akt/Potenz","band":"1","col":134},
+ "next":{"id":85,"lemma":"Aktualgenese","band":"1","col":143},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Akt","qualifier":"","band":null,"col":null},
+  {"term":"Phänomene, psychische","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":91,"name":"F. Brentano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":199,"name":"O. Kraus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":217,"name":"W. Stern","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":279,"name":"W. Metzger","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":243,"name":"A. Meinong","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":202,"name":"E. Spranger","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":637,"name":"C. Stumpf","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1313,"name":"A. Höfler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1314,"name":"N. Bischof","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2076,"name":"S. Witasek","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5402,"name":"J. C. Kreibig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10445,"name":"der Pfordten","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":13387,"name":"M. Palagyi","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":18991,"name":"O. Frh. von der Pfordten","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":2511,"lemma":"Psychologie","tf":2},{"id":2340,"lemma":"Phänomen","tf":2}],
+ "see_also":[{"id":1470,"lemma":"Intentionalität"}],
+ "groups":[{"id":36,"name":"Psychologie","label":"Aktpsychologie"}],
+ "reg_authors":[{"name":"Janssen Paul","n":26}]
+}
+);

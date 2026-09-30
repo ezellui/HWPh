@@ -1,0 +1,11 @@
+HWPH.put("s/6c-6a",
+{
+ "lj":"1fz:0,1",
+ "ljs":"2h3:0,0,1",
+ "ljubljana":"2jz:0,0,1",
+ "ljubomudrie":"1td:0,2",
+ "ljubomudrov":"1td:0,0,1",
+ "ljudskaja":"1f8:0,1",
+ "ljunggren":"1r2:0,0,0,1"
+}
+);

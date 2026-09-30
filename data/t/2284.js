@@ -1,0 +1,12 @@
+HWPH.put("t/2284",
+{
+ "b":"Partikularisator oder ‹Existenzquantor› (engl. existential quantifier), gelegentlich auch ‹Einsquantor› oder ‹Existenzoperator› heißen die zur Symbolisierung von Existenzaussagen in der Logik benutzten Zeichen «∨ x» bzw. «∃x» (gelegentlich auch «Σx» , «Ex» und, im indefiniten Fall, «⩔ ~x~» ). Entsprechende Quantifizierungen (s.d.) der Form «∨ xP(x)» liest man so: «Es gibt (mindestens ein) x, so daß P(x) gilt». Der Quantor (s.d.) «∨ x» ‘bindetʼ dabei die an einer oder mehreren Stellen in der darauf folgenden Aussageform P(x) vorkommende Variable x und macht so deutlich, auf welche Leerstellen sich der P. bezieht. Dabei ist den verwendeten Variablen je ein Variabilitätsbereich oder Gegenstandsbereich zugeordnet. Ist dieser der Bereich der natürlichen bzw. reellen Zahlen, so weist man darauf häufig durch die Variablen n, m, k bzw. r, s, t hin, ist es ein Mengenbereich, so verwendet man häufig M, N und schreibt etwa für indefinite Existenzaussagen ⩔ MA(M). Zur unterschiedlichen Deutung des P. in der klassischen Logik und in der dialogischen Logik vgl. Art. ‹Quantifikation›. \nAls eigenes Symbol wird ein P., nämlich «Σi,», erstmals von C. S. PEIRCE verwendet , während der entsprechende Inhalt in G. FREGES Notation durch die komplexe, aus Negator (s.d.), Generalisator (s.d.) und nochmals Negator zusammengesetzte Schreibweise ausgedrückt wird. Es bedeutet dann eine Aussage der Form « Φ (a)» zunächst «Nicht für alle a gilt nicht Φ (a)», was aber wahrheitslogisch äquivalent ist zu «Für mindestens ein a gilt Φ (a)».",
+ "n":"Vgl. P. LORENZEN: Algebr. und logist. Untersuchungen über freie Verbände. J. symbol. Logic 16 (1951) 90. \nVgl. A. WHITEHEAD/B. RUSSELL: Principia Mathematica 1–3 (Cambridge 1910–1913, 21927) 1, XXI. 15. \nVgl. J. ŁUKASIEWICZ: Elementary logiki matematycnej (Warschau 1929, 21958), engl.: Elements of math. logic (Warschau 1963) § 8. \nVgl. D. HILBERT/W. ACKERMANN: Grundzüge der theoret. Logik (1928, 31949) Kap. 3, § 2. \nVgl. Art. ‹Indefinit› und ‹Quantor›. \nVgl. C. S. PEIRCE: Description of a notation for the logic of relatives ... (1870). Coll. papers, hg. C. HARTSHORNE/P. WEISS (Cambridge, Mass. 1933/34) 3, 60f.; On the algebra of logic (1885), a.O. 227ff. \nVgl. G. FREGE: Begriffsschrift (1879) § 12.",
+ "l":"",
+ "au":"P. Stekeler-Weithofer",
+ "A":["P. Stekeler-Weithofer"],
+ "cb":[[0,155],[1088,155]],
+ "cn":[[0,155],[106,155],[204,155],[333,155],[420,155],[458,155],[664,155]],
+ "cl":[]
+}
+);

@@ -1,0 +1,29 @@
+HWPH.put("t/487",
+{
+ "b":"Charakteristische (das). Der Begriff des ‹C.› bezeichnet in der Kunstlehre der deutschen Klassik eine bestimmte Stufe künstlerischer Produktion. Im 6. Brief von GOETHES ‹Der Sammler und die Seinigen› (1799) werden folgende Stufen unterschieden : Der einfachen Nachahmung folgt die charakteristische Darstellung des Begriffs eines bestimmten Gegenstandes . Aber das C. kann nur dem Verstände genügen, es ist nicht das Ziel der Kunst, denn auch das Verlangen der Vernunft nach der Darstellung des Idealen muß befriedigt werden. Zur Schönheit, für die der Geist empfänglich ist, gelangt das Kunstwerk aber erst, wenn es – ohne in die frühere Beschränktheit zurückzufallen – vom Idealen zum Individuellen zurückkehrt. «Das C.», sagt Goethe, «liegt zum Grunde, auf ihm ruhen Einfalt und Würde, das höchste Ziel der Kunst ist Schönheit und ihre letzte Wirkung Gefühl der Anmut» . \nÄhnlich versteht der junge F. SCHLEGEL den Begriff des C. in seinem unter dem Einfluß J. J. Winckelmanns geschriebenen Aufsatz ‹Über das Studium der griechischen Poesie› (1795). Hier versucht er, die Situation der modernen Poesie in ihrem Verhältnis zur antiken und zur künftigen Poesie zu bestimmen. Dabei wird der Begriff des C. entschieden negativ gewendet. Die moderne Poesie unterscheidet sich nach Schlegel von der objektiven Poesie der Griechen durch das «totale Übergewicht des C., Individuellen und Interessanten» . Das C., d.h. «die Darstellung des Individuellen» ist ein Merkmal jener Poesie, deren Empfänger das interessierte Wohlgefallen suchen. Im Hinblick auf Kants ‹Kritik der Urteilskraft› kann Schlegel deshalb sagen: «Das Schöne ist also nicht das Ideal der modernen Poesie und von dem Interessanten wesentlich verschieden» . Für Schlegel ist jedoch das Ziel des Fortschritts der ästhetischen Bildung eine neue Objektivität, die sich für ihn bereits zeichenhaft in Goethe verkörpert . \nDen Gegensatz zwischen dem C. und dem Schönen versöhnen erneut A. Müller und K. W. F. Solger. In den Vorlesungen über ‹Die Idee der Schönheit› (1807/1808) entwickelt A. MÜLLER eine weibliche und eine männliche Form der Schönheit (Poesie und Beredsamkeit). In der weiblichen Form zeigt sich das Schöne im «Charakteristisch-Poetischen» , in der männlichen Form im Allgemein-Rhetorischen. Müller fordert aber für die Kunst «nicht die Individualität oder Allgemeinheit, nicht Charakter oder Ideal, sondern durchaus Individualität und Allgemeingültigkeit, Charakter und Ideal in demselben Werke» . In SOLGERS ‹Vorlesungen über Ästhetik› (1829) heißt es in dem Abschnitt vom «irdischen Schönen» im gleichen Sinne: «Das Schöne selbst muß durchaus charakteristisch aufgefaßt werden, und was man gewöhnlich Ideal nennt, kann hier nur in der Beziehung des besonderen Charakters auf die Idee der ganzen Wirklichkeit, des Menschen überhaupt bestehen» . \nNach der in A. SCHOPENHAUERS Hauptwerk ‹Die Welt als Wille und Vorstellung› (1819) enthaltenen Ästhetik haben die Künste, deren Zweck die Darstellung der Idee der Menschheit ist, «neben der Schönheit als dem Charakter der Gattung noch den Charakter des Individuums, welcher vorzugsweise Charakter genannt wird, zur Aufgabe», sofern er als eine «gerade in diesem Individuo besonders hervortretende Seite der Idee der Menschheit anzusehn ist» . Zum Hervorbringen der Werke der Dichtkunst ist gegenüber der «ahndenden Antizipation des Schönen» in der bildenden Kunst eine «Antizipation des C.» durch den Künstler notwendig , die jedoch der Erfahrung zur Verdeutlichung des «a priori dunkel Bewußten» als Ergänzung bedarf. In der bildenden Kunst ist es dem C. erlaubt, das Schöne zu «beschränken», wenn es dadurch nicht den Charakter der Gattung aufhebt . \nIn seiner Frühschrift ‹Die Geburt der Tragödie› (1872) kennzeichnet NIETZSCHE den Untergang der griechischen Tragödie mit dem Begriff des C. in einer an den Gebrauch des Begriffs bei Goethe und Schlegel erinnernden Weise: Die Vernichtung des Mythus durch den «Geist der Wissenschaft» führte zu einer seit Sophokles schnell weiter gehenden «Bewegung auf der Linie des C.» . Für die «charakteristischen Klänge» der ihrer mythenschaffenden Kraft beraubten Musik gilt ebenso, was Nietzsche über das «Überhandnehmen der Charakterdarstellung» in der tragischen Poesie sagt: «Der Charakter soll sich nicht mehr zum ewigen Typus erweitern lassen, sondern im Gegenteil so ... durch feinste Bestimmtheit aller Linien individuell wirken, daß der Zuschauer überhaupt nicht mehr den Mythus, sondern die mächtige Naturwahrheit und die Imitationskraft des Künstlers empfindet» .",
+ "n":"J. W. v. GOETHE: Der Sammler und die Seinigen (1799). Hamburger A. 12, 79ff.; vgl. Einfache Nachahmung, Manier, Stil a.a.O. 12, 30ff.; ECKERMANN, Gespräche mit Goethe: 26. 2. 1824. \nVgl. A. H. HIRT: Versuch über das Kunstschöne, 7. Stück der Hören (1797, Neudruck 1959) 11/12, 34–35; HEGEL, Ästhetik, hg. BASSENGE 1, 28ff. \nGOETHE, Der Sammler ... a.a.O. 12, 77. \nF. SCHLEGEL: Über das Studium der griech. Poesie, Krit. Schriften (21964) 130. \na.a.O. [4] 118. \n118. \n155. \nA. MÜLLER: Zwölf Reden über die Beredsamkeit. Krit. Schriften (1967) 1, 387. \nVon der Idee der Schönheit, a.a.O. 2, 57. \nK. W. F. SOLGER: Vorles. über Ästhetik (1829, Neudruck 1962) 173. \nA. SCHOPENHAUER: Die Welt als Wille und Vorstellung. Werke, hg. von LÖHNEYSEN 1, 317. \na.a.O. 315. \n318. \nFR. NIETZSCHE, Werke, hg. SCHLECHTA 1, 97. \nebda.",
+ "l":"R. BRINKMANN: Romantische Dichtungstheorie in Fr. Schlegels Frühschriften. Vorzeichen einer Emanzipation des Historischen. Dtsch. Vjschr. Lit.wiss. 32 (1958) 344ff.",
+ "au":"E. Krückeberg",
+ "A":["E. Krückeberg"],
+ "cb":[[0,993],[875,993],[1880,993],[2620,994],[2822,994],[3675,994]],
+ "cn":[
+  [0,993],
+  [0,994],
+  [182,994],
+  [324,994],
+  [364,994],
+  [444,994],
+  [461,994],
+  [467,994],
+  [473,994],
+  [551,994],
+  [594,994],
+  [661,994],
+  [748,994],
+  [761,994],
+  [767,994],
+  [811,994]
+ ],
+ "cl":[[0,994]]
+}
+);

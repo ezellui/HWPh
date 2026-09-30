@@ -1,0 +1,46 @@
+HWPH.put("t/1940",
+{
+ "b":"Metalogik (von griech. μετά und λογική: Über-Logik, vor/außer der Logik; engl. metalogic). Das Wort wurde historisch in sehr unterschiedlichen Bedeutungen verwendet. \n‹Metalogicus› (1159) ist der Titel des pädagogischen Hauptwerks des JOHANNES VON SALISBURY, in dem er das Trivium gegen Cornificius verteidigt: «Et quia Logicae suscepti patrocinium, METALOGICON inscriptus est liber, quem ... distinguere Curavi» . Cornificius hatte das Studium der aristotelischen Logik für nutzlos erklärt. Der ‹Metalogicus› ist die früheste bekannte Schrift des Mittelalters, die nachdrücklich für das breite Studium der gesamten aristotelischen Logik eintritt und vor allem ihre praktische Anwendbarkeit hervorhebt, wobei dem ‹Organon› das Hauptinteresse gilt. Durch seine erziehungstheoretische und wissenschaftliche Qualität fand das Werk weite Verbreitung und wirkte unter anderem auf ROBERT GROSSETESTE, WILHELM VON AUVERGNE, WILHELM VON AUXERRE, VINCENT VON BEAUVAIS und WALTER BURLEY. \nIm Rahmen der thomistisch orientierten spanischen Logik des 17. Jh. nennt JOHANNES CARAMUEL 1654 «alle von der Logik vorausgesetzten, aber nicht zu ihrem eigenen System gehörigen Sachprobleme ... metalogisch» : (Metalogica ... discutiet quaestiones ... quae ultra logicam ... Agimus ... in Metalogica de nominibus et hoc grammatice, de operationum mentis operationibus et harum essentia) . \nMetalogisch wahr (auch «Denkgesetz») nennt SCHOPENHAUER formale Bedingungen der Möglichkeit des Denkens, so z.B. die Sätze vom Widerspruch und vom zureichenden Grund, und setzt sie zu dem Begriff der transzendentalen Wahrheit in Beziehung . \nED. VON HARTMANN verwendet in seiner Kritik an Herbart ‹M.› für «von der Logik nicht a priori gefordert»; so sei das Faktum des «Zusammensein[s] mehrerer Attribute in einer Substanz metalogisch» . \nB. ERDMANN spricht von M. im Kontext denkpsychologischer Untersuchungen. Tatsächliche Denkvorgänge dürfen nicht nach dem Schema der logischen Normierung gedeutet werden, das lediglich den «Sinn» ihrer «Giltigkeit» betrifft. Er unterscheidet neben den «formulirten» zwei Arten «unformulirten Denkens» , das «hypologische» und das «metalogische» (später auch: hyperlogische), die beide ohne direkte sprachliche Vermittlung intuitive Gewißheit geben. Hypologisch bleibe das «Denken» der Tiere, Kleinkinder und Sprachentwicklungsgestörten, weil es als vorsprachliches Vorstellungserleben «unterhalb der Bedingungen möglicher Formulierungen durch das denkende Subjekt liegt» . Demgegenüber ist das «unformulirte» metalogische Denken das schöpferisch-intuitive, das «simultan» Sinnganzheiten in ihrem Wesen erfaßt («schaut»). Beispiele Erdmanns sind die platonische Anamnesis, die coincidentia oppositorum, Spinozas Erkennen sub specie aeternitatis, die intellektuelle Anschauung, das «klare Weltauge» Schopenhauers, aber auch Intuitionen der Historiker und Künstler. \nH. RICKERT nennt den «pflichtbewußten Willen» der praktischen Vernunft «die metalogische Basis für die Realisierung des theoretischen Gutes» . In Diskussionen der Neukantianer mit Ontologie und Phänomenologie verliert ‹M.› diesen Bezug zur Ethik. Im Anschluß an Rickerts und LASKS Bemühungen um eine Kategorienlehre (s.d.) entwickelt G. RALFS eine M. als «Metaphysik der Erkenntnis», die die Voraussetzungen der Geltung von Elementarsätzen klären soll. Er führt als «transzendental-ontologisches Apriori» «Sein» und «Sosein an sich» ein, die in «metalogischer Markanz» «vorgegeben» seien . Ralfs entwickelt seine M. in Anlehnung an die ihm durch PRIHONSKY vermittelte Kantkritik BOLZANOS, dessen Lehre vom «Satz an sich» er aufnimmt. Die in der M. entwickelte «transzendentale Ontologie» stellt einen Endpunkt der Entwicklung des Neukantianismus zu einem transzendentalen Platonismus dar. Auch N. HARTMANN bezeichnet mit ‹M.› eine Disziplin, die Grundprobleme der Erkenntnistheorie behandelt. Diese können weder psychologistisch (durch Rekurs auf seelische Akte) noch logistisch (durch Rekurs auf formale, ideale Strukturen) geklärt werden: «Beide verkannten, daß es noch etwas Drittes, Metalogisches ... gibt: die aktuelle Beziehung zwischen Subjekt und Objekt als solche, die weder seelischer Akt noch ideale Struktur ist» . In dieser Beziehung sei das Grundphänomen der Erkenntnisgewißheit gegeben. Es logisch oder psychologisch zu hintergehen, hinterlasse «metapsychologische und metalogische Restprobleme» . \nNach E. TROELTSCH stellt die Aufgabe der Klärung des Zusammenhangs von elementarer Logik mit der Forschungslogik der Realwissenschaften (für die Historik im Rahmen einer «formalen Geschichtslogik») «die schwierigen Probleme der M.» . Er lehnt metaphysische (Hegel) wie auch positivistische und phänomenologische Lösungen ab: «An sich müßten die ‘Wesensgesetzeʼ der verschiedenen Regionen auf sehr verschiedene logische Ordnungen führen und diese dann wieder zu den Problemen der M.» . \nIm Sinne einer «Überlogik» im Rahmen einer Phänomenologie musikalischer Erfahrung verwendet W. HARBURGER das Wort ‹M.› . \nIn der modernen mathematischen Grundlagenforschung bezeichnet ‹M.› schließlich die Theorie der Syntax und Semantik formaler Sprachen und Systeme. Sie entstand historisch aus der Verbindung der kalkülisierten Logik (FREGE 1879) und ihrer Entwicklung im Logischen Empirismus mit der axiomatischen Methode (HILBERT 1899) und der Syntax- und Semantiktheorie. Sie untersucht die Beweisbarkeit von logischen Theoremen, insbesondere Entscheidungsverfahren für die Wahrheit (Beweisbarkeit) von Aussagen. Ein einschlägiges Ergebnis der modernen M. ist z.B. der Unentscheidbarkeitssatz von GÖDEL (1931). Metalogische Theorien verwenden heute die Theorie der Berechenbarkeit , die Modelltheorie (s.d.) und die Mengenlehre (s.d.).",
+ "n":"JOHANNES VON SALISBURY: Metalogicus, hg. J. A. GILES (Oxford 1848) 9; engl.: The Metalogicon of John of Salisbury, hg. D. D. MCGARRY (Berkeley/Los Angeles 21962). \na.O. 5. \nVgl. Preface. \nW. RISSE: Logik der Neuzeit 1 (1964) 354. \nebda. \nA. SCHOPENHAUER: Über die vierfache Wurzel des Satzes vom zureichenden Grunde (1813, 31864) § 33. \nED. VON HARTMANN: Gesch. der Met. 2 (ND 1969) 318. \nB. ERDMANN: Umrisse zur Psychol. des Denkens, in: Philos. Abh. Festschr. Chr. Sigwart (1900) 19. \na.O. 24. \nUmrisse zur Psychol. des Denkens (21908) 33. \nH. RICKERT: Über log. und eth. Geltung. Kantstud. 19 (1914) 211. \nG. RALFS: Sinn und Sein im Gegenstande der Erkenntnis (1931) 71. \nVgl. FR. PRIHONSKY: Neuer Anti-Kant (1850). \nN. HARTMANN: Grundzüge einer Met. der Erkenntnis (51965) 21. \na.O. 29f. \nE. TROELTSCH: Der Historismus und seine Probleme 1 (1922, ND 1961) 28. \nebda. \nW. HARBURGER: Die M. (1919). \nVgl. Art. ‹Algorithmus›.",
+ "l":"Für den neukant. Gebrauch: G. RALFS: Das Irrationale im Begriff, ein metalog. Versuch (1925). – Für die moderne Logik: G. HUNTER: M. (1971, 21973). – H. LENK: M. und Sprachanalyse (1973). – HAO WANG: From math. to philos. (1974) 166–180.",
+ "au":"Th. Rentsch",
+ "A":["Th. Rentsch"],
+ "cb":[
+  [0,1172],
+  [23,1173],
+  [167,1173],
+  [979,1173],
+  [1370,1173],
+  [1612,1173],
+  [1810,1173],
+  [2394,1174],
+  [2873,1174],
+  [4387,1174],
+  [4873,1174],
+  [4995,1174]
+ ],
+ "cn":[
+  [0,1172],
+  [0,1174],
+  [164,1174],
+  [173,1174],
+  [188,1174],
+  [231,1174],
+  [238,1174],
+  [337,1174],
+  [389,1174],
+  [487,1174],
+  [497,1174],
+  [543,1174],
+  [609,1174],
+  [675,1174],
+  [720,1174],
+  [782,1174],
+  [793,1174],
+  [865,1174],
+  [872,1174],
+  [902,1174]
+ ],
+ "cl":[[0,1174]]
+}
+);

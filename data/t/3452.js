@@ -1,0 +1,36 @@
+HWPH.put("t/3452",
+{
+ "b":"Verweisung; Verweisungszusammenhang. Das in M. HEIDEGGERS «Fundamentalontologie» zentrale Phänomen der «Welt» erfährt dort unter dem Terminus ‹V.› seine maßgebliche inhaltliche Konkretion: Keine theoretische Einstellung und Dingwahrnehmung, wie bei E. HUSSERL, sondern eine sich auf die «nächste Welt des alltäglichen Daseins», seine «Umwelt» einlassende «ursprüngliche, phänomenologische Blickrichtung» soll nach HEIDEGGER die «Weltlichkeit» der Welt originär in die Sicht bringen. Die Praxis des menschlichen Umgangs mit Seiendem verweist dabei auf die Seinsweise der «Zuhandenheit» (s.d.), d.h. auf das pragmatisch bestimmte Gebrauchsding «Zeug» (s.d.), das zur V. hinführt: Die Dinge erscheinen nicht zunächst isoliert für sich, um erst nachträglich ein Ganzes auszumachen, sondern «immer in und als V. auf ein anderes» . Das Sein des «Zuhandenen» hat «die Struktur der V.» , d.h. ihm eignet der auch als «Bewandtnis» thematisierte «Charakter der Verwiesenheit» auf anderes «Zeug» und damit auf andere pragmatisch-funktionale Sinnzusammenhänge. Dieser näher als «Bedeutsamkeit» bestimmte, im Rekurs auf die Funktion des «Zeichens» präzisierte «Verweisungszusammenhang» sinnhafter Bezüge läßt Seiendes überhaupt erst begegnen und hat damit einen phänomenologischen Vorrang vor dem von ihm derart konstituierten Ding selbst . Wenn es die «ontologische Auszeichnung der Welt» ist, Seiendes erscheinen zu lassen , dann hat die V. «in der Begegnisstruktur der Welt die primäre Funktion» . Sie ist «Konstituens der Weltlichkeit überhaupt» , ja letztlich «die Seinsstruktur der Welt» selbst : «Weltlichkeit» ist ein «Verweisungszusammenhang» . \nDie Dinge treten dabei in die V.en zurück. Jede sie isolierende Vergegenständlichung unterbleibt, auch diejenige der V. selbst. Erst in einer «Störung der V.» , im «Bruch der vertrauten Verweisungsganzheit» , die z.B. Unbrauchbarkeit, Hinderlichkeit oder Fehlen eines «Zeugs» auslöst, wird der «Verweisungszusammenhang» auffällig, «meldet sich die Welt», wird diese explizit thematisierbar . Die zu diesem Zweck dem Relationssystem der V. nachgehende Analyse Heideggers führt schließlich auf ihren letzten Grund und damit auf den von «Weltlichkeit» überhaupt –, auf die vom «Zeug» wesenhaft getrennte Seinsart des Daseins, das nurmehr auf sich selbst verweist, allein um seiner selbst willen ist : «Weltlichkeit» ist «ein Existenzial», d.h. eine Bestimmung des «In-der-Welt-seins», Seinsverfassung des Daseins selbst . \nDiesen in Heideggers «Kehre» (s.d.) überwundenen «existenzialontologischen», Welt ausschließlich am Dasein festmachenden Ansatz hat Heidegger später häufig kritisiert . Gleichwohl klingen bereits hier Motive seiner Spätphilosophie an: Vor allem die im «Verweisungszusammenhang» erblickte relationale Grundstruktur der Welt ist zentraler Inhalt des späteren «Geviert»-Denkens . \nDer Ende der 1920er Jahre auch innerhalb HUSSERLS «Intentionalanalyse» (s.d.) erscheinende Begriff ‹V.› markiert nochmals die divergierenden Auffassungen von Phänomenologie der beiden Philosophen: Nennt die V. bei HEIDEGGER die relationale Struktur der daseinsmäßigen Umwelt überhaupt, so ist sie bei HUSSERL auf ein Moment des transzendentalen Bewußtseins reduziert . Gleichwohl bestehen Analogien in der Funktion der V. selbst: Die ‘Potentialitätʼ und damit auch ‘Zeitlichkeitʼ spielen in beiden Ansätzen eine grundlegende Rolle.",
+ "n":"M. HEIDEGGER: Sein und Zeit [SuZ] §§ 14f. (1927, 161986) 66. Ges.ausg. I/2 (1977) 89. \nProleg. zur Geschichte des Zeitbegriffs [SS 1925]. Ges.ausg. II/20 (21988) 253; vgl. 263. 254. \na.O. 252. \nSuZ § 18, a.O. [1] 83/112; vgl. § 16, a.O. 74/100. \n§ 18, a.O. 84/112; vgl. Die Grundprobl. der Phänomenol. [SS 1927]. Ges.ausg. II/24 (21989) 233ff. \nSuZ § 18, a.O. 84/112. \nVgl. § 18, a.O. 87/116f.; Proleg., a.O. [2] 274ff. 286. 292. \nProleg., a.O. 254. 257f.; vgl. SuZ § 18, a.O. 84/112. \nSuZ § 18, a.O. 83/111; vgl. § 18, a.O. 85/113f.; vgl. Proleg., a.O. 258. \nProleg., a.O. 272; vgl. 258. \nSuZ § 17, a.O. [1] 83/111; vgl. § 18, a.O. 88/118. \nProleg., a.O. [2] 286. \nSuZ § 18, a.O. [1] 87/117; vgl. Proleg., a.O. 292. \n§ 16, a.O. 74/100. \nProleg., a.O. [2] 255; vgl. 256. \nSuZ § 16, a.O. [1] 75/100. \nVgl. § 26, a.O. 123/164; § 18, a.O. 84/112f. \n§ 14, a.O. 64/86; vgl. Die Grundprobl., a.O. [5] 237. 239; vgl. Vom Wesen des Grundes (1929), in: Wegmarken (1967) 55. Ges.ausg. I/9 (1976) 158. \nVgl. schon: Vom Wesen des Grundes, a.O. 51/155 (Fußn. 55); vgl. E. FINK: Spiel als Weltsymbol (1960) 51f. \nVgl. SuZ § 18, a.O. [1] 87f./117f. \nVgl. Art. ‹Vierung›. \nVgl. E. HUSSERL: Cartes. Medit. II, § 19; IV, § 38 [1931]. Husserliana 1 (Den Haag 1950, 21963) 82. 113; Formale und transz. Logik, Beilage II (1929) 277f. 279. Husserliana 17 (1974) 316. 318.",
+ "l":"",
+ "au":"F. Schlegel",
+ "A":["F. Schlegel"],
+ "cb":[[0,1006],[1268,1007],[1642,1007],[2462,1007],[2840,1007]],
+ "cn":[
+  [0,1006],
+  [0,1007],
+  [87,1007],
+  [183,1007],
+  [194,1007],
+  [246,1007],
+  [345,1007],
+  [369,1007],
+  [431,1007],
+  [486,1007],
+  [560,1007],
+  [590,1007],
+  [642,1007],
+  [666,1007],
+  [718,1007],
+  [738,1007],
+  [772,1007],
+  [800,1007],
+  [846,1007],
+  [992,1007],
+  [1099,1007],
+  [1135,1007],
+  [1157,1007]
+ ],
+ "cl":[]
+}
+);

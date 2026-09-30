@@ -1,0 +1,35 @@
+HWPH.put("t/703",
+{
+ "b":"Ektypus. – 1. Der Ausdruck geht auf griechisch εκτυπος und verwandte Wörter, wie vor allem ἐκτúπωμα zurück. Allgemein bedeutet ‹E.› Nach-oder Abbild, insbesondere aber das durch Prägung (τúπτειν, ἐκτúπωσις) Entstandene. Adjektivisch oder adverbial gebraucht, zeigt sich das Wort im gleichen Sinn, zusätzlich jedoch in der Bedeutungsfamilie von lateinisch ‹distinctus›. – PLATON, der die Begriffe der ἔκτυπος-Familie häufiger gebraucht, spricht bei der Erläuterung der drei Arten des Werdens von der Nachbildung der Ideen und dem Nachgebildetsein: ἐκτúπωμα, ἐκτυποúμενον . – Für CHRYSIPP ist die Phantasie unklar, wenn sie nicht Abdruck eines ihr real Zugrundeliegenden (ἔκτυπον ὑπάρχοντος) ist . – In einem mehr spezifischen Wortgebrauch spricht SENECA von «imago ectypa» und PLINIUS von «ectypae scalpturae» . – SEXTUS EMPIRICUS stellt dem Adverb ἐκτúπως (hier ‹klar, deutlich›) als Gegensatz συγκεχυμένους (verworren) gegenüber . \n2. Die Kirchenväter, vor allem die griechischer Sprache, gebrauchten die Begriffe der ἔκτυπος-Familie in vielen Beziehungen : CLEMENS VON ALEXANDRIEN unterscheidet unter den nomina u.a. solche, die «Abbilder und Ektypus des ihnen Zugrundeliegenden» (ὁμοιώματα καὶ ἐκτυπώματα τῶν ὑποκειμένων) sind . – HIPPOLYTUS ROMANUS spricht in bezug auf die Schöpfung von Ideen und Abbildern (ἰδέαι, ἐκτυπώματα) der Äonen . – Über die Menschwerdung Christi (Xριστóς ... ἀνδρείκελον ἐκτúπωμα) philosophiert EPIPHANIUS CONSTANTIENSIS . JOHANNES DAMASCENUS gebraucht ähnlich wie schon vorher CYRILLUS HIEROSOLYMITANUS – den Begriff in spezifisch christlicher Verbindung: «Signum crucis» (τοῦ σταυροῦ τὸ ἐκτúπωμα) . PSEUDO-DIONYSIOS AREOPAGITA, indem er darlegt, wie Gott unteilbar in allem Seienden enthalten ist, stellt dem Abbild (ἐκτúπωμα) ein Urbild (ἀρχέτυπον); (hier adjektivisch gebraucht) gegenüber . \n3. In der Neuzeit gebraucht LOCKE diesen Begriff bei der Gliederung der «ideas». Die einfachen, «ἔκτυπα, or copies» sind «adequate» . «Secondly, the complex ideas of substances are ectypes, copies too, but not perfect ones, not adequate» . Den «ectypes» der «sensation» stehen einmal gegenüber die «archetypes» als Gegenstände der realen Welt , zum anderen die «Archetypes» als «ideas of Modes and Relations» . – KANT unterscheidet einen «intellectus ectypus» und einen «intellectus archetypus», einen «Verstand, in welchem durch das Selbstbewußtsein zugleich alles Mannigfaltige gegeben würde» . Der intellectus ectypus ist der menschliche, nur diskursiv denkende, nicht anschauende, endliche Verstand, dem der «intuitus derivatus» zukommt . Ferner unterscheidet Kant eine übersinnliche, urbildliche Natur, «natura archetypa», und «deren Gegenbild in der Sinnenwelt», die «natura ectypa» . ‹Ectypon› nennt Kant das «Nachbild» der ästhetischen Darstellung, dem die «ästhetische Idee» als «Archetypon» zugrunde liegt .",
+ "n":"Tim. 50 d. \nSVF II, 21. \nRealencyclop. class. Altertumswiss. 5/2, Art. ‹E.›. \nDe beneficiis III, 26, 1. \nNaturalis historia 37, § 173. \nAdv. mathematicos VII, 172, hg. I. BEKKER (1842) 228. \nG. W. H. LAMPE: Patristic Greek Lex. (1961) Art. ‹E.›, EKTUPOMA, EKTUPOO, EKTUPOSIS. \nStromat. 8, 8. MPG 9, 589 a. \nRefutatio omnium haeresium 8, 9. Werke, hg. P. WEINLAND, in: Die griech. christl. Schriftsteller der ersten drei Jh. 3 (1916) 228. \nPanarion seu adversus haereses 30, 17. MPG 41, 433 c. \nCatecheses mystagogicae IV, 7. MPG 33, 1102. \nDe sacris imaginibus orationes I, 321. MPG 94, 1264 b. \nDe div. nominibus II, 5. MPG 3, 644 a. \nAn essay conc. human understanding II, 31, 12. \nebda. \na.a.O. IV, 4, 8; IV, 4, 12. \nII, 31, 14. \nAkad.-A. 3, 110. \na.a.O. 5, 406. \n5, 43. \n5, 322.",
+ "l":"",
+ "au":"J. Hüllen",
+ "A":["J. Hüllen"],
+ "cb":[[0,436],[933,436],[1827,436],[2424,437]],
+ "cn":[
+  [0,436],
+  [12,436],
+  [25,436],
+  [78,436],
+  [105,436],
+  [136,436],
+  [191,436],
+  [277,436],
+  [307,436],
+  [439,436],
+  [494,436],
+  [540,436],
+  [596,436],
+  [634,437],
+  [636,437],
+  [684,437],
+  [691,437],
+  [720,437],
+  [733,437],
+  [751,437],
+  [767,437],
+  [775,437]
+ ],
+ "cl":[]
+}
+);

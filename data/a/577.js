@@ -1,0 +1,56 @@
+HWPH.put("a/577",
+{
+ "id":577,
+ "lemma":"Devotio moderna",
+ "band":"2",
+ "kind":"article",
+ "col_from":159,
+ "col_to":159,
+ "pdf_from":4098,
+ "pdf_to":4100,
+ "authors":["G. Heinz-Mohr"],
+ "n_notes":3,
+ "n_chars":3016,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Devotio moderna. ‹Devotio› (im religiösen Sprachgebrauch der Römer: Weihung, Gelöbnis, bei christlichen Schriftstellern, z.B. LAKTANZ: Frömmigkeit, Andachtsübung) erhält in der zweiten Hälfte des 14. Jh. den Zusatz ‹moderna›, analog zur via moderna der Universitäten, und bezeichnet eine rasch wachsende neue Bewegung zur Vertiefung und Verinnerlichung des religiösen Lebens in Reaktion gegen Verfestigungen der theologischen Schulwissenschaft und Entartungen der Klosterorden. Auf die geistlichen Tagebücher ihres Initiators GEERT GROOTE gehen die unter dem Namen des Letztredaktors THOMAS VON KEMPEN tradierten ‹De imitatione Christi libri IV› zurück. G. Groote wurde von seinen Schülern als Begründer der D.m. angesehen. So schreibt J. BUSCH: «Magister Gerardus Magnus primus fuit huius nostre reformacionis pater et totius moderne devocionis origo» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die D.m. wird praktisch wirksam a) in den weit über die Niederlande und Deutschland verbreiteten Bruder- und Schwesternschaften des gemeinsamen Lebens, Zentren der karitativen Zuwendung, der Volksunterweisung, der Schreibkunst, des frühen Buchdrucks, b) in der streng monastischen Windesheimer Kongregation <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Dem Humanismus zwar durch die Rückfrage nach biblisch-patristischen Quellen, durch neue Schätzung und Beobachtung des Einzelmenschen, durch starkes Bildungsstreben und durch fast stoische ethische Maßstäbe verbunden, erweist sie sich in ihrer Bestimmtheit durch augustinisch-neuplatonische Tradition, voluntaristische bernhardinische Mystik und spekulatives Eckhartsches Gedankengut als mittelalterlich geprägt. Doch werden ihr wichtige Grundlagen allgemeiner Bildung im Bürgertum, ein neuer Typ erbaulicher biographischer Literatur und Vorformen des Pietismus und Puritanismus verdankt. Ihre minutiöse Meditationstechnik beeinflußt Ignatius von Loyola. An der Stelle der docta ignorantia des Cusanus tritt als Lebenseinstellung der D.m. die sacra ignorantia, die simplicitas, das amo nesciri <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Auf die Geistesbewegungen des 15. und 16. Jh. wirkt sie besonders durch GABRIEL BIEL, WESSEL GANSFOORT, JOHANNES VEGHE, ERASMUS, HEGIUS, AGRICOLA, K. CELTIS, MUTIANUS, MURMELLIUS weiter.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">E. de SCHAEPDRIJVER: La «Devotion moderne». Nouv. Rev. Theol. 54 (1927) 742–772. – R. R. POST: De moderne Devotie (Amsterdam <sup>2</sup>1950). – M. A. LÜCKER: M. Eckhart und die D. Stud. und Texte zur Geistesgesch. des MA 1 (Leiden 1950). – S. AXTÉRS: Geschiedenis van de Vroomheid in de Nederlanden 3: De moderne Devotie (Antwerpen 1956). – Courants relig. et humanisme à la fin du 15e et au début du 16e siècle. Colloque de Strasbourg (Paris 1959). – L. W. SPITZ: The relig. renaissance of the German humanists (Cambridge/Mass. 1963).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Chronicon Windeshemense, hg. K. GRUBE, in: Geschichtsquellen der Prov. Sachsen 19 (1886) 47.</li>\n<li id=\"fn0-2\" value=\"2\">J. BUSCH: Liber de origine devotionis modernae, in: Chron. Windesh. a.a.O. 245–375.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. R. STADELMANN: Vom Geist des ausgehenden MA 2 (1929) 74–79: ‹Das Nichtwissen in der Anschauung der D.m.›; J. HUIZINGA: Der Herbst des M A (1953) bes. Kap. 12–14.</li>\n</ol>",
+ "prev":{"id":576,"lemma":"Deutung","band":"2","col":157},
+ "next":{"id":578,"lemma":"Dezision, Dezisionismus","band":"2","col":160},
+ "backlinks":[{"id":3270,"lemma":"Übung","n":1}],
+ "outlinks":[],
+ "register":[{"term":"decisio","qualifier":"","band":"2","col":"159"}],
+ "persons":[
+  {"id":3434,"name":"J. Busch","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":262,"name":"Gabriel Biel","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":267,"name":"Erasmus von Rotterdam","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":509,"name":"Laktanz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1360,"name":"R. Agricola","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1901,"name":"J. Huizinga","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2606,"name":"Thomas von Kempen","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":5540,"name":"G. M. A. Grube","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5539,"name":"K. Celtis","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":19891,"name":"Geert Groote","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19892,"name":"Wessel Gansfoort","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19893,"name":"Johannes Veghe","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19894,"name":"Hegius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19895,"name":"Mutianus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19896,"name":"Murmellius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2296,"name":"E. L. Post","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":8702,"name":"L. W. Spitz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19897,"name":"E. de Schaepdrijver","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19898,"name":"M. A. Lücker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19899,"name":"S. Axtérs","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7325,"name":"R. Stadelmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[
+  {"id":782,"lemma":"Erbauung"},
+  {"id":959,"lemma":"Fromm, Frömmigkeit"},
+  {"id":2377,"lemma":"Pietismus"}
+ ],
+ "groups":[
+  {"id":27,"name":"Mystik","label":"Devotio moderna"},
+  {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Devotio moderna"}
+ ],
+ "reg_authors":[{"name":"Heinz-Mohr Gerd","n":2},{"name":"Hofmann Hasso","n":12}]
+}
+);

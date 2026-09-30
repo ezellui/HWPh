@@ -1,0 +1,38 @@
+HWPH.put("t/3538",
+{
+ "b":"Wahrheitswert (engl. truth value). Der Terminus ‹W.› stammt ursprünglich aus der Wertphilosophie des Neukantianismus . H. LOTZE spricht von der «Aufstellung eines Werthunterschiedes ... zwischen Wahrheit und Unwahrheit» . Im übrigen hält er aber noch an der Trennung von theoretischer und praktischer Sphäre fest, indem er die «Billigung oder Mißbilligung» im ästhetischen und moralischen Urteil als «Ausdruck eines Werthes oder Unwerthes» bestimmt, «den wir nur im Gefühl wahrnehmen, und der sich deshalb gänzlich unterscheidet von einem bloß theoretischen Urtheil über die Wahrheit oder Unwahrheit eines Satzes» . Eine gewisse Annäherung von praktischer und theoretischer Sphäre (auf Gefühlsgrundlage) nimmt dagegen bereits J. F. FRIES vor: «Wir finden häufig eine Mitwirkung der Gefühle bey unsern Beurtheilungen der Wahrheit» . Fries spricht hier von «Wahrheitsgefühl» (s.d.), das er von dem sittlichen und dem ästhetischen Gefühl unterscheidet. Aber erst W. WINDELBAND gibt im Rahmen seiner voluntaristischen Urteilstheorie eine werttheoretische Deutung des Wahrheitsbegriffs, wobei er den Terminus ‹W.› als Analogiebildung zur üblichen Rede von Werten einführt . In jedem Erkenntnisurteil werde über den W. eines Inhalts durch «Affirmation oder Negation entschieden» . H. RICKERT hat diese Auffassung zu einer werttheoretischen Erkenntnistheorie ausgebaut, die für den südwestdeutschen Neukantianismus bestimmend geblieben ist . Ausgehend von der Frage nach dem «Gegenstand der Erkenntnis» kommt er zum Ergebnis, daß «jedes theoretische Urtheil die Anerkennung des Wahrheitswerthes enthält» . \nEine kritische Diskussion hat Windelbands Auffassung in der Urteilstheorie gefunden . Insbesondere CH. SIGWART übernimmt zwar die Rede vom «Wert der Wahrheit» , lehnt aber Windelbands voluntaristische Deutung des Urteils und dessen Versuch, den W. «den übrigen Werten zu coordinieren», ab . Eine radikale Infragestellung des «Willens zur Wahrheit» als Glaube an einen «Werth an sich der Wahrheit» erfolgt bei F. NIETZSCHE . Danach kommt es nicht darauf an, ob ein Urteil wahr oder falsch sei, sondern inwieweit es das Leben fördere und den «Willen zur Macht» steigere . \nG. FREGE verbindet den werttheoretischen Erkenntnisbegriff mit der mathematischen Auffassung von Funktionswerten. So betont er die «Verwandtschaft» der Logik mit der Ethik , bezieht sich aber auch insgesamt zustimmend auf die neukantianische Werte-Trias: «Wie das Wort ‘schönʼ der Ästhetik und ‘gutʼ der Ethik, so weist ‘wahrʼ usw. der Logik die Richtung» . Das werttheoretische Verständnis von W. geht sodann in die semantische Frage nach der Bedeutung von Sätzen ein . Nach Frege verliert der Gedanke als der Sinn eines Satzes «an Wert», d.h. Erkenntniswert, «sobald wir erkennen, daß zu einem seiner Teile die Bedeutung fehlt» . Er ist dann nämlich weder wahr noch falsch. Diese Abhängigkeit der Wahrheit (bzw. Falschheit) eines Satzes von der Bedeutung seiner Bestandteile nimmt Frege zum Anlaß, als dessen Bedeutung den jeweiligen W. zu bestimmen. Dabei versteht er unter dem W. eines Satzes «den Umstand, daß er wahr oder daß er falsch ist» . Die beiden W.e – weitere gibt es gemäß dem Zweiwertigkeitsprinzip (s.d.) nicht – nennt Frege «das Wahre» und «das Falsche». Diese Ausdrucksweise zeigt an, daß die W.e als logische Gegenstände gefaßt werden . \nEinen Zusammenhang zwischen «Gegenstand», «Wahrheit» und «theoretischer Bedeutung» von Erkenntnisurteilen stellt letztlich auch RICKERT her . Obwohl er keine explizite Unterscheidung zwischen zwei W.en vornimmt, führt er «das Unwahre oder Falsche» als selbständigen, objektiven «negativen theoretischen Wert» ein . Allerdings ermöglicht erst FREGES Auffassung der Zweiwertigkeit die funktionale Deutung von Begriffen. Erreicht wird sie dadurch, daß Frege den mathematischen Funktionsbegriff erweitert und W.e als Funktionswerte zuläßt. Begriffe werden als solche Funktionen bestimmt, deren Wert (für alle zulässigen Argumente) immer einer der beiden W.e ist . In einem nächsten Schritt läßt Frege W.e auch als Argumente zu und kommt so zu der bis heute maßgeblichen Analyse der aussagenlogischen Verbindungen (wie ‘nichtʼ, ‘undʼ, ‘oderʼ, ‘wenn, soʼ usw.) als Wahrheitsfunktionen (s.d.), nämlich als solche Funktionen, für die nicht nur die Werte, sondern auch die Argumente W.e sind . \nIm englischen Sprachraum, für den B. RUSSELL den Ausdruck «truth-value» als Übersetzung des Fregeschen Terminus ‹W.› eingeführt hat , ist nur diese funktionstheoretische Verwendung gebräuchlich.",
+ "n":"Vgl. Art. ‹Wert II.›. \nH. LOTZE: Logik, Einl. II (1874), hg. G. MISCH (1912) 4; vgl. S. BESOLI: Il valore della verità (Florenz 1992). \nGrundzüge der Psychologie (1881) 46. \nJ. F. FRIES: System der Logik § 84 (31837) 267. \nW. WINDELBAND: Beitr. zur Lehre vom negat. Urtheil. Strassburger Abh. zur Philos., E. Zeller zu seinem 70. Geb. (1884, ND 1921) 167–195, hier: 173f. \nWas ist Philos.? (1882), in: Präludien 1 (51915) 1–54, 32. \nVgl. P. GOEDEKE: Wahrheit und Wert. Eine logisch-erk.theoret. Unters. über die Beziehungen zwischen Wahrheit und Wert in der Wertphilosophie des badischen Neukantianismus (1928). \nH. RICKERT: Der Gegenstand der Erkenntniss (1892) 89. \nVgl. Art. ‹Urteil II. 3.›. Hist. Wb. Philos. 11 (2001) 444–455, hier: 449f. \nCH. SIGWART: Logik 1, § 20 (31904) 165. \na.O. 161f. \nF. NIETZSCHE: Zur Genealogie der Moral 3, 24 (1887). Krit. Ges.ausg., hg. G. COLLI/M. MONTINARI 6/2 (1968) 418. \nJenseits von Gut und Böse I, 1–4 (1886), a.O. 9ff. \nG. FREGE: Nachgel. Schr., hg. H. HERMES u.a. (21983) 4. \nDer Gedanke. Beiträge zur Philos. des dtsch. Idealismus 1 (1918/19) 58–77, hier: 58 (einleitender Satz). \nVgl. G. GABRIEL: Fregean connection: Bedeutung, value and truth-value, in: C. WRIGHT (Hg.): Frege. Trad. and influence (Oxford 1984) 188–193; vgl. auch: Art. ‹Wahrheit VI. C. 2.›. \nG. FREGE: Über Sinn und Bedeutung. Z. Philos. philos. Kritik 100 (1892) 25–50, hier: 33. \na.O. 34. \nVgl. M. RUFFINO: W.e als Gegenstände und die Unterscheidung zwischen Sinn und Bedeutung, in: G. GABRIEL/W. KIENZLER (Hg.): Frege in Jena (1997) [Krit. Jb. Philos. 2] 139–148. \nRICKERT, a.O. [8] (4/51921) 163f. \na.O. 232. \nG. FREGE: Function und Begriff (1891) 15f. \na.O. 28; ferner ausführlicher: Grundgesetze der Arithmetik 1 (1893) 20f.; vgl. Art. ‹Aussagenlogik 6.›. Hist. Wb. Philos. 1 (1971) 675f. \nA. N. WHITEHEAD/B. RUSSELL: Principia math. (Cambridge 1913, 21927) 7.",
+ "l":"",
+ "au":"G. Gabriel",
+ "A":["G. Gabriel"],
+ "cb":[[0,188],[1600,188],[2171,188],[2562,189],[3329,189],[4315,189]],
+ "cn":[
+  [0,188],
+  [0,189],
+  [23,189],
+  [136,189],
+  [174,189],
+  [223,189],
+  [373,189],
+  [433,189],
+  [613,189],
+  [668,189],
+  [745,189],
+  [786,189],
+  [798,189],
+  [911,189],
+  [963,189],
+  [1020,189],
+  [1126,189],
+  [1307,189],
+  [1397,189],
+  [1407,189],
+  [1583,189],
+  [1618,189],
+  [1629,189],
+  [1673,189],
+  [1811,189]
+ ],
+ "cl":[]
+}
+);

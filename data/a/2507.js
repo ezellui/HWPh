@@ -1,0 +1,48 @@
+HWPH.put("a/2507",
+{
+ "id":2507,
+ "lemma":"Psychodrama",
+ "band":"7",
+ "kind":"article",
+ "col_from":1590,
+ "col_to":1591,
+ "pdf_from":29489,
+ "pdf_to":29492,
+ "authors":["U. Schönpflug"],
+ "n_notes":11,
+ "n_chars":4225,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Psychodrama. ‹P.› bezeichnet eine Form der Therapie, die in der szenischen Rekonstruktion von erlebten und antizipierten Problemsituationen besteht. Durch Stegreifspiele, in denen der Patient verschiedene Rollen einnimmt, werden pathogene psychische und soziale Konstellationen thematisiert. Die Rekonstruktion von Konflikt- und Entscheidungssituationen soll zu rationaler Einsicht und angstfreierem Durchleben der kritischen Situationen führen.</p>\n<p>P. als therapeutische Methode geht zurück auf I. L. MORENO <sup class=\"fn\" data-fn=\"0-1\">1</sup>, einen Psychiater, der zunächst Stegreifdarstellungen förderte, um seine Konzeption eines totalen Theaters zur Befreiung schöpferischer Kräfte des Menschen zu verwirklichen. Morenos Konzept des P. als Auslöser kathartischer Prozesse fügt dem antiken und psychoanalytischen Katharsisbegriff (Läuterung bzw. Abreaktion) weitere therapeutische Aspekte hinzu: den Aspekt der Umwandlung von Gefühlen, der symbolischen Wunscherfüllung, der emotionalen Partizipation in der Gruppe, der Identifikation mit bedeutsamen Anderen und der gelenkten Imagination in unterschiedlichen Zeitbezugssystemen und Realitätsebenen.</p>\n<p>P. findet hauptsächlich im Rahmen von Gruppentherapien Anwendung. Als Varianten der psychodramatischen Methode hat sich u.a. das Soziodrama entwickelt, <span class=\"col\" data-col=\"1591\"></span> eine Form der Psychotherapie von Gruppenproblemen. Vertreter verschiedener theoretischer Richtungen erarbeiteten weitere Therapievarianten: Analytisches P., Triadisches P., Tetradisches P., Behaviourdrama, Psychodramatische Aktivierungstechnik, therapeutisches und didaktisches Theater, Kreativitätstherapie bzw. -training und Gestalttherapie.</p>\n<p>Moreno hebt die Verwandtschaft seines therapeutischen Ansatzes mit den magisch-kultischen Spielen anderer Kulturen hervor <sup class=\"fn\" data-fn=\"0-2\">2</sup> und verweist auf die Nähe zu literarischen Strömungen <sup class=\"fn\" data-fn=\"0-3\">3</sup>, zu philosophischen Konzeptionen <sup class=\"fn\" data-fn=\"0-4\">4</sup> und zu Theatertheorien seiner Zeit <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Von Vertretern des psychodramatischen Ansatzes werden Vorläuferformen des P. bereits in antiken Theateraufführungen und Tempelritualen gesehen <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Philologie, Philosophie und Theatergeschichte wissen seit J. BERNAYS (1857), daß die berühmt-umstrittene Definition der Tragödie durch Aristoteles medizinischer Herkunft ist <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Eine solche Verbindung von P. zu antiken und nachfolgenden Verfahren zur Heilung psychischer Krankheiten durch Theaterspiel läßt sich nur dann ziehen, wenn P. auch zur Bezeichnung jener Theaterformen dient, die lediglich auf kathartische Wirkung bei den Zuschauern abzielen. Die Empfehlung der Heilung von Psychosen durch Theaterspiel findet sich in der medizinischen Tradition bereits bei dem römischen Arzt GALEN <sup class=\"fn\" data-fn=\"0-8\">8</sup>, in späteren Jahrhunderten bei Psychiatern wie HOFFBAUER und REIL <sup class=\"fn\" data-fn=\"0-9\">9</sup>; sie wurde ausgeführt von de SADE während seines Aufenthaltes in einer psychiatrischen Anstalt, indem er seine Mitinsassen zu schauspielernden Mitwirkenden an Theaterspielen bestimmte <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Unabhängig von Moreno, aber etwa gleichzeitig, entwickelte der Mediziner und Psychologe ILJINE die Form des «Therapeutischen Theaters» für psychische und somatische Leiden, in denen die Probleme der Patienten thematisiert werden; sie wurde zur «dramatischen Therapie» ausgebaut <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">H. PETZOLD: Das P. als Methode der klin. Psychotherapie, in: Hb. der Psychologie 7/2 (1978) 2751–2795.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1591\"></span> I. L. MORENO: Das Stegreiftheater (1924).</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. L. FREELAND: Pomo doctors and poisoners. Univ. Calif. publ. in Amer. Archaeol. and Ethnol. 20 (1923).</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. J. W. GOETHE: Lila (1776/77); Br. an Moritz P. K. F. Graf Brühl vom 1. 10. 1818.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. H. BERGSON: Schöpferische Entwicklung (1921).</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. K. S. STANISLAWSKIJ: Theater, Regie und Schauspieler (1958).</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. D. KOURETAS: Aspects mod. des cures psychothérap. pratiquées dans les sanctuaires de la Gréce ant. Rev. franç. Psychanalyse 26 (1962) 299–309.</li>\n<li id=\"fn0-7\" value=\"7\">J. BERNAYS: Grundzüge der verlorenen Abb. des Arist. über die Wirkung der Tragödie (1857, ND 1970).</li>\n<li id=\"fn0-8\" value=\"8\">GALENUS: Opera, hg. C. G. KÜHN (1821ff.) 4, 41.</li>\n<li id=\"fn0-9\" value=\"9\">J. CH. REIL/J. CH. HOFFBAUER: Beyträge zur Beförderung einer Kurmethode auf psych. Wege 1. 2 (1807–1812).</li>\n<li id=\"fn0-10\" value=\"10\">A. SCHÜTZENBERGER-ANCELIN: Sade, a French precursor of psychodrama. Group psychotherapy and psychodrama 1/2 (1966) 46–48.</li>\n<li id=\"fn0-11\" value=\"11\">V. N. ILJINE: Improvis. Theaterspiel zur Behandl. von Gemütsleiden. Teatralny Kurier. Beilage (Kiew 1909).</li>\n</ol>",
+ "prev":{"id":2506,"lemma":"Psychoanalyse","band":"7","col":1572},
+ "next":{"id":2508,"lemma":"Psychodynamik","band":"7","col":1592},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"kathartische","qualifier":"","band":"7","col":"1591–1593"},
+  {"term":"kathartische 5 1355–1359 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"Sozialdrama","qualifier":"","band":"7","col":"1590"}
+ ],
+ "persons":[
+  {"id":1950,"name":"J. Ch. Hoffbauer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1674,"name":"J. Ch. Reil","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3733,"name":"J. Bernays","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4032,"name":"J. L. Moreno","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":16736,"name":"V. N. Iljine","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":20,"name":"J. W. Goethe","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":126,"name":"Galen","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":149,"name":"H. Bergson","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1816,"name":"D. A. F. de Sade","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4610,"name":"Galenus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":16737,"name":"L. Freeland","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26828,"name":"K. S. Stanislawskij","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26829,"name":"D. Kouretas","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26830,"name":"A. Schützenberger-Ancelin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5982,"name":"H. G. Petzold","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":462,"name":"C. G. Kühn","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":3184,"lemma":"Therapie; Therapeutik","tf":2},{"id":2667,"lemma":"Rekonstruktion","tf":2}],
+ "see_also":[{"id":1955,"lemma":"Methode"}],
+ "groups":[{"id":36,"name":"Psychologie","label":"Psychodrama"}],
+ "reg_authors":[{"name":"Schönpflug Ute","n":20},{"name":"Strüber Hans-Joachim","n":1}]
+}
+);

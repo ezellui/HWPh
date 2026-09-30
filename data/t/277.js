@@ -1,0 +1,34 @@
+HWPH.put("t/277",
+{
+ "b":"Äther (αἰθήρ, aether), Quintessenz (πέμπτη οὐσία, quinta essentia). ARISTOTELES sieht in αἰθήρ den Ausdruck, mit dem die ersten Menschen die Göttlichkeit des obersten Himmels bezeichneten . Als etwas «Göttliches» (αἰθέρα, δῖαν, σῶμα θεῖον) erscheint Ä. bei HOMER, HESIOD, EMPEDOKLES, ANAXAGORAS, ARISTOTELES und den Stoikern . EURIPIDES, ZENON, KLEANTHES, ENNIUS rufen in ihm die Gottheit an ; in den orphischen Hymnen preist man ihn als Nus des Allgottes . HOMER, HESIOD, die Orphiker, Pythagoreer und Platoniker stellen sich den Ä. als Himmelslicht oder lichtartige Materie vor; PARMENIDES, ANAXAGORAS und die Stoiker als höchste, reinste Feuerschicht; EMPEDOKLES, PLATON (‹Epinomis›) als höchste, reinste Luftschicht. Im PHILOLAOS-Fragment, in der ‹Epinomis› und wahrscheinlich in den Dialogen des ARISTOTELES, insbesondere aber in seiner Schrift ‹Über die Philosophie› erscheint Ä. als Q., als ein Element, welches von den anderen vier getrennt und verschieden ist , In der späteren Überlieferung gelten beide Wörter als Synonyma. HOMER bezeichnet den Ä. als «unermeßlich», «windstill»; bei PARMENIDES heißt es: «Das ätherische Flammenfeuer, das milde, gar leichte, mit sich selber überall identisch, mit den anderen nicht identisch»; er nennt den Ä. «den Allgemeinsamen» . EMPEDOKLES sieht in ihm vor allem göttliche Kraft, den «Titan Ä.». der rings den Kreis in seiner Gesamtheit umschnürt . In ähnlicher Weise ist Ä. bei Anaxagoras Kraft (δύναμις) des göttlichen Feuers, welche alles zusammenhält . Dieser dynamischen Auffassung folgen PLATON und ARISTOTELES: Beide leiten das Wort ‹Ä.› von θεῖν ἀεί ab und folgern daraus, daß Ä. ein Körper ist, welcher sich ohne Anfang und Ende bewegt . Die Doxographen berichten, Aristoteles lehre, die Seelen seien von derselben Q. wie die Sterne ; HERAKLEIDES PONTIKOS erklärt den Seelenstoff für ätherisch und die Seele für lichtartig ; der Peripatetiker KRITOLAOS und sein Nachfolger DIODOROS lassen sowohl die Gottheit wie auch die Seelen aus Ä. bestehen . \nSynkretisten verschmelzen die Ä.-Lehren ihrer Vorgänger zu einer Art von «doctrina communis» und begreifen Ä. bzw. Q. als lichtartige, beseelte, himmlisch-astrale, überirdische, feinste Materie. Nach den Neuplatonikern, insbesondere aber nach PORPHYRIOS und PROKLOS bestehen aus ihr die Körper der Dämonen und Engel; sie dient den Seelen als Vehikel (τὸ ὄχημα); die Seelen nehmen von ihr die Umhüllung (τὸ περίβλημα), einen Leib, welcher zwischen ihnen und den irdischen Leibern vermittelt . Daran knüpft ORIGENES mit seiner Lehre über die Eigenschaften des wiederauferweckten menschlichen Leibes an. \nIm Mittelalter wirkt neben der aristotelischen Auffassung des Ä. als «materia caeli» auch die neuplatonische vom «corpus spirituale» weiter. ISIDOR VON SEVILLA lokalisiert die Äthersphäre wie Platon zwischen der Luft- und Feuerschicht . ALBERT der GROSSE meint, daß die Durchsichtigkeit des Ä. «potius ex ipsa natura spiritualitatis corporis huius» folgt . DAVID VON DINANT gründet auf die aristotelische Ä.-Lehre seinen Pantheismus: es gibt für Gott, Nois (wie David die «mens» bezeichnet) und Welt eine gemeinsame Materie, welche er Hyle nennt . \nIn der Renaissance erscheint Ä. als den anderen vier Elementen übergeordnete, himmlisch-astrale, unsichtbare Q. und als Medium zwischen dem Geiste und dem Körper. AGRIPPA stellt diese Q. als einen «spiritus mundi» vor: sie sei samenentfaltende Kraft und zugleich Prinzip der Belebung und Veränderung. Ähnlich bestehen für PARACELSUS alle Wesen aus einem elementarischen, irdischen, sichtbaren und einem himmlischen, astralischen, unsichtbaren Leib, welcher «spiritus» genannt wird; er sei Substrat aller Materie. AGRIPPA und PARACELSUS bemühen sich, ihn auf dem Wege der Alchemie abzusondern. Nach GIORDANO BRUNO ist der Ä. unermeßlich und beseelt, er erfüllt das Weltall und durchdringt als «spiritus universi» alle Körper . Diese im Grunde stoisch-neuplatonische Ä.-Auffassung spiegelt sich dann in den Ansichten des F. BACON, GASSENDI und R. BOYLE wider, sofern sie einen «körperlichen Geist» und eine «körperliche Seele» annehmen; sie befruchtet auch den Hylozoismus des H. MORE und die Theosophie des V. WEIGEL. Zu dieser Zeit deutet NEWTON die bisherigen Ä.-Hypothesen vom physikalischen Standpunkte: der Ä., als feinste Materie gedacht, sei nötig zur Erklärung der Licht- und Schwereerscheinungen. Im Zeitalter der Romantik, insbesondere in der von SCHELLING angeregten Naturphilosophie, erlebt die Ä.-Theorie eine Renaissance. So identifiziert OKEN den Ä. geradezu mit Gott: die Welt sei eine Darstellung Gottes . PH. SPILLER sieht in ihm die Urkraft, Gott; den reinen Monotheismus nennt er «Ätherismus» . Der Ä.-Q.-Begriff lebt bis heute, wie früher, besonders in den Lehren der Vitalisten, Theosophen und Spiritisten.",
+ "n":"ARIST., Meteora I, 1, 339 b 20. \nHOMER, Ilias XVI, 365; HESIOD, Theog. 697; ARIST., De anima I, 1, 404 b 14; De caelo I, 3, 270 b 10. \nCICERO, De nat. deorum II, 25. \nVgl. W. KRANZ: Kosmos. Arch. Begriffsgesch. 2 (1955) 85. \nPHILOLAOS bei DIELS, Frg. der Vorsokratiker (= VS) 32 B 12; PLATON, Epin. 981 c. \nPARMENIDES, VS 18 B 8. H. \nEMPEDOKLES, VS 21 B 38. \nVgl. ARIST., a.a.O. [1] b 24. \nPLATON, Krat. 410 b 7; ARIST., De caelo I, 3, 270 b 23. \nCICERO, TUSC. I, 10, 22. \nHERAKL. PONT. bei DIELS, Dox. Graec. (= DDG) 213. \nKRITOLAOS, DDG 303 b 6f. \nVgl. PROKLOS, In Tim., hg. E. DIEL II, 81, 20f. \nORIGENES, De principiis III, 41. \nISIDOR VON SEVILLA, De nat. rerum 32, 2. \nALBERTUS, De caelo II, 1, 2. Opera, hg. BORGNET 5, 125. \nVgl. M. KURDZIALEK: David von Dinant und die arist. Naturphilos., in: La filos. della nat. nel medioevo (Mailand 1966) 411ff. \nG. BRUNO: De l'infinito, universo e mondi (1584) 2. Dialog. \nVgl. W. LEIBBRAND: Romantische Medizin (1937) 66. \nPH. SPILLER: Die Urkraft des Weltalls (1876).",
+ "l":"S. MARIOTTI: La ‹quinta essentia› nell'Arist. perduto e nell'Accad. Riv. Filol. Istruzione classica 68 (1940) 179–189. – F. FÜRLINGER: Stud. zum Ä.-Begriff in der griech. Lit. bis Platon (Diss. Innsbruck 1948). – E. T. WHITTAKER: A hist. of the theories of A. and electricity 1 (London 1951), 2 (1953). – I. I. POORTMANN: Ochêma. Geschiedenis en zin van het hylisch Pluralisme 1 (1954). – FR. SOLMSEN: The vital heat, the inborn pneuma and the A. J. hellen. Stud. 77 (1957) 119–123. – P. MORAUX: Quinta essentia. PAULYS Real-Enzyklop. class. Altertumswiss. (1963).",
+ "au":"M. Kurdzialek",
+ "A":["M. Kurdzialek"],
+ "cb":[[0,600],[2006,600],[2608,600],[3157,600],[3793,601]],
+ "cn":[
+  [0,600],
+  [0,601],
+  [33,601],
+  [135,601],
+  [167,601],
+  [225,601],
+  [307,601],
+  [334,601],
+  [359,601],
+  [390,601],
+  [447,601],
+  [473,601],
+  [524,601],
+  [550,601],
+  [599,601],
+  [633,601],
+  [675,601],
+  [732,601],
+  [859,601],
+  [920,601],
+  [971,601]
+ ],
+ "cl":[[0,601]]
+}
+);

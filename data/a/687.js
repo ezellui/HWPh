@@ -1,0 +1,27 @@
+HWPH.put("a/687",
+{
+ "id":687,
+ "lemma":"Einordnung",
+ "band":"2",
+ "kind":"article",
+ "col_from":407,
+ "col_to":407,
+ "pdf_from":4919,
+ "pdf_to":4919,
+ "authors":["A. Menne"],
+ "n_notes":2,
+ "n_chars":230,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Einordnung. Auf eine «E. des Prädikats in den Subjektsinhalt» <sup class=\"fn\" data-fn=\"0-1\">1</sup> führt B. ERDMANN das Urteil zurück: «Ausgesagt werden von» bedeutet demnach logisch «inhaltsgleich sein mit einem Teile des Subjektsinhaltes» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Logik (<sup>2</sup>1907) 358.</li>\n<li id=\"fn0-2\" value=\"2\">ebda.</li>\n</ol>",
+ "prev":{"id":686,"lemma":"Einkehr","band":"2","col":406},
+ "next":{"id":688,"lemma":"Einsamkeit","band":"2","col":407},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Urteil","qualifier":"","band":"2","col":"407"}],
+ "persons":[{"id":380,"name":"B. Erdmann","b":1,"n":0,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":3050,"lemma":"Subjekt/Prädikat"}],
+ "groups":[{"id":22,"name":"Logik","label":"Einordnung"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

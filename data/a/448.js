@@ -1,0 +1,27 @@
+HWPH.put("a/448",
+{
+ "id":448,
+ "lemma":"Biotisch",
+ "band":"1",
+ "kind":"article",
+ "col_from":951,
+ "col_to":951,
+ "pdf_from":3296,
+ "pdf_to":3296,
+ "authors":["H. M. Nobis"],
+ "n_notes":1,
+ "n_chars":583,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Biotisch bezeichnet 1. alle chemischen und physikalischen, an die Gegenwart von Lebewesen gebundenen Vorgänge (z.B. Gärung, Fäulnis) und 2. Wechselwirkungen im pflanzlich-tierischen ökologischen Lebensbereich (z.B. Lichtkonkurrenz, Symbiose). Der Ausdruck ist abgeleitet von ‹Biotik› und bürgerte sich zuerst in der Pflanzengeographie ein: ‹Biotische Sukzession› nannte man die natürliche, nicht topologisch oder klimatisch bedingte Folge von Formationen oder deren Phasen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In der Paläobotanik kennt man eine biotische Raum-Zeit-Regel.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">H. C. COWLES, Botanicae Gaz. 51 (1911) 161–183.</li>\n</ol>",
+ "prev":{"id":447,"lemma":"Biosphäre/Noosphäre","band":"1","col":950},
+ "next":{"id":449,"lemma":"Biotop","band":"1","col":951},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Sukzession, biotische","qualifier":"","band":"1","col":"951"}],
+ "persons":[{"id":19715,"name":"H. C. Cowles","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":5,"name":"Biologie","label":"Biotisch"}],
+ "reg_authors":[{"name":"Nobis Herbert M","n":31}]
+}
+);

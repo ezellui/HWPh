@@ -1,0 +1,85 @@
+HWPH.put("a/95",
+{
+ "id":95,
+ "lemma":"Algebra",
+ "band":"1",
+ "kind":"article",
+ "col_from":150,
+ "col_to":152,
+ "pdf_from":727,
+ "pdf_to":733,
+ "authors":["Ch. Thiel"],
+ "n_notes":12,
+ "n_chars":8705,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Algebra. Sie ist ein Teilgebiet der Mathematik. Man unterscheidet eine «abstrakte» oder «moderne» von der elementaren und klassischen A. Von «moderner» A. spricht man im Anschluß an den Originaltitel des ersten Werkes, in dem sie zusammenfassend dargestellt wurde <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die <i>elementare A.</i> lehrt die rechnerische Behandlung von Gleichungen; die griechischen Mathematiker zählten sie deshalb neben der Zahlentheorie zur Arithmetik. So findet sich ein beachtlicher Teil elementarer A. im zweiten sowie in den «arithmetischen» Büchern VII–X des EUKLID. P. RAMUS erklärt noch 1569 in diesem Sinne: «Algebra est pars arithmeticae» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. ‹A.› bleibt dann auf lange Zeit nach dem Aufkommen dieser eigenständigen Bezeichnung (aus dem Titel des von AL-CWARIZMI im 9. Jh. verfaßten Lehrbuchs ‹Al-gebr wal mukabala›, das die indisch-arabischen Ziffern im Abendland bekannt machte) von der Arithmetik allenfalls durch die Verwendung von Buchstaben (Variablen) unterschieden. Erst in der Form einer rein schematischen Buchstabenrechnung, die ihr F. VIETA <sup class=\"fn\" data-fn=\"0-3\">3</sup> gibt, wird sie zu einer selbständigen «a. speciosa» neben der «a. numerosa», lies ‹Arithmetik›.</p>\n<p>Den Beginn der <i>klassischen A.</i> als Lehre von den «algebraischen» Gleichungen mit der Form <i>a<sub>0</sub></i> + <i>a<sub>1</sub>x</i> + <i>a<sub>2</sub>x<sup>2</sup></i> + ... + <i>a<sub>n</sub>x<sup>n</sup></i> = 0 und ihrer Auflösung kann <span class=\"col\" data-col=\"151\"></span> man in CARDANOS ‹Ars Magna› <sup class=\"fn\" data-fn=\"0-4\">4</sup> sehen, in der die ersten Verfahren zur Lösung von Gleichungen 3. und 4. Grades (<i>n</i> = 3 bzw. 4) veröffentlicht sind. Nach dem Scheitern aller Lösungsversuche an der Gleichung 5. Grades führten erst zu Anfang des 19. Jh. allgemeinere gleichungstheoretische Untersuchungen zu dem Nachweis der Unlösbarkeit der allgemeinen Gleichung 5. oder höheren Grades durch N. H. ABEL <sup class=\"fn\" data-fn=\"0-5\">5</sup> sowie zu einer tieferen Einsicht in die Lösbarkeit und Unlösbarkeit algebraischer Gleichungen überhaupt durch GALOIS <sup class=\"fn\" data-fn=\"0-6\">6</sup>. (Eine Gleichung heiße in diesem Zusammenhang «lösbar», wenn sich ihre Lösungen («Wurzeln») mit Hilfe elementarer Rechenoperationen durch die Koeffizienten <i>a<sub>0</sub></i>, ..., <i>a<sub>n</sub></i> oder einfache Wurzeln derselben ausdrücken lassen. Danach besagt die «Unlösbarkeit» einer Gleichung lediglich die Unmöglichkeit einer solchen Darstellung, nicht etwa die Unauffindbarkeit oder gar Nichtexistenz von Lösungen.) Heute wird die Lehre von der numerischen Auflösung von Gleichungen unter dem Titel «Numerische Methoden» als eigenes Sachgebiet außerhalb der A. behandelt; die Theorie der algebraischen Gleichungen und ihrer Auflösbarkeit bildet in ihrer heutigen Darstellung als «Galois-Theorie» einen Teil der abstrakten A.</p>\n<p>Gegenstand der <i>abstrakten A.</i> sind die algebraischen Gebilde, Strukturen und Strukturtypen. Als <i>Gebilde</i> bezeichnen wir eine Menge <i>M</i> zusammen mit einem System von zwischen ihren Elementen erklärten Verknüpfungen, wobei eine <i>n</i>-stellige Verknüpfung eine (<i>n</i>-stellige) Funktion <i>f</i> ist, die jedem System <i>a<sub>1</sub></i>, ..., <i>a<sub>n</sub></i> von Elementen aus <i>M</i> als deren «Produkt» <i>f</i>(<i>a<sub>1</sub></i>, ..., <i>a<sub>n</sub></i>) ein Element aus <i>M</i> zuordnet (z.B. in der Menge der natürlichen Zahlen die Multiplikation, die jedem Paar <i>a<sub>1</sub>, a<sub>2</sub></i> natürlicher Zahlen ihr «Produkt» <i>f</i>(<i>a<sub>1</sub>, a<sub>2</sub></i>), gewöhnlich «<i>a<sub>1</sub></i> ∙ <i>a<sub>2</sub></i>» geschrieben, zuordnet). Die Eigenschaften von Gebilden lassen sich in Axiomensystemen ausdrücken, die aus quantorenlogisch zusammengesetzten Aussageschemata (= Aussageformen) bestehen, im Grenzfall (auf dessen Betrachtung man sich wegen der Möglichkeit einer Konjunktion der einzelnen Axiome beschränken kann) aus einem einzigen Aussageschema. Ein Gebilde «erfüllt» ein Aussageschema (bzw. Axiomensystem), wenn die in diesem ausgedrückten Eigenschaften auf das Gebilde zutreffen. In diesem Fall erfüllt das Gebilde auch jedes zu dem gegebenen logisch äquivalente Aussageschema (bzw. Axiomensystem); man sagt dann, daß alle solchen Aussageschemata (bzw. Axiomensysteme) «dieselbe Struktur beschreiben», und von dem Gebilde, unter Einführung eines Namens ‹<i>S</i>› – und damit vollzieht man einen Abstraktionsprozeß <sup class=\"fn\" data-fn=\"0-7\">7</sup>! –, daß es «die Struktur <i>S</i> besitzt». Die Axiomatisierung der A. (wie überhaupt die hier skizzierte abstrakte Betrachtungsweise <span class=\"col\" data-col=\"152\"></span> der A.) beginnt mit E. STEINITZ <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Axiomensysteme, durch die man in der abstrakten A. Strukturen «beschreibt», können noch in einem weiteren Sinne gleichwertig sein. Lassen sich nämlich die in zwei (nicht bereits logisch äquivalenten) Axiomensystemen auftretenden Verknüpfungen durch explizite gegenseitige Definitionen so verbinden, daß nach Hinzunahme dieser Definitionen die Axiomensysteme logisch äquivalent werden, so beschreiben diese denselben <i>Strukturtyp.</i> Für jeden dieser Strukturtypen, die den eigentlichen Gegenstand der abstrakten A. bilden, kennt und verwendet man – je nach Zweckmäßigkeit – die verschiedensten Axiomensysteme, aus denen die Eigenschaften der Strukturen und damit auch Eigenschaften von Gebilden deduktiv abgeleitet werden. Nach Auffassung der «Bourbakisten» sind solche Strukturtypen sogar der eigentliche Gegenstand der <i>ganzen</i> Mathematik. («Bourbakisten» nennt man die Anhänger des auf einen axiomatisch-strukturellen Aufbau der Gesamtmathematik gerichteten Programms einer unter dem Pseudonym «N. Bourbaki» publizierenden, sich personell ständig erneuernden Gruppe französischer Mathematiker.) Eine strenge methodologische Abgrenzung der ‹algebraischen› Strukturen von anderen (z.B. topologischen Strukturen, Ordnungsstrukturen <sup class=\"fn\" data-fn=\"0-9\">9</sup>) ist nicht bekannt; viele der als ‹algebraisch› bezeichneten Gebilde, Strukturen und Strukturtypen ergeben sich zwangsläufig bei der theoretischen Untersuchung algebraischer Gleichungen und finden schon aus diesem Grunde innerhalb der A. ihren Platz. Daß sich auch ein Sachgebiet A. nicht mit Sicherheit abgrenzen läßt, liegt an dem starken (und zumal in den letzten beiden Jahrzehnten immer rascher gewordenen) Wandel, dem nicht nur die algebraischen Methoden, sondern auch die Entwicklung einzelner Zweige der A. unterworfen sind. Einen Grund dafür wird man in der Rückwirkung suchen müssen, die von den Bedürfnissen zahlreicher Forschungsgebiete ausgehen, denen die abstrakte A. wichtige Methoden und Ergebnisse zur Verfügung stellt. Von den innermathematischen Disziplinen haben vor allem in jüngster Zeit Funktionentheorie und algebraische Geometrie die Entwicklungsrichtung der abstrakten A. entscheidend bestimmt. Was die außermathematischen Disziplinen betrifft, so erwähnen wir lediglich die Verbindungen zur relativistischen Physik und zur Quantentheorie <sup class=\"fn\" data-fn=\"0-10\">10</sup> sowie die Beziehungen zur Logik, die sich nicht auf die «A. der Logik» <sup class=\"fn\" data-fn=\"0-11\">11</sup> und deren technische Anwendung in der «Schalt-A.» beschränken, sondern auch auf dem Gebiet der Mathematik <sup class=\"fn\" data-fn=\"0-12\">12</sup> zu einer fruchtbaren Wechselwirkung beider Bereiche geführt haben.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">E. STEINITZ s. Anm. [8]. – B. L. van der WAERDEN s. Anm. [1], jetzt unter dem Titel ‹A.› 1 (<sup>6</sup>1964); 2 (<sup>5</sup>1959). – J. KLEIN: Die griech. Logistik und die Entstehung der A., in: Quellen und Studien zur Gesch. der Math., Astronomie und Physik Abt. B: 3/1 (1934) 18–105; 3/2 (1936) 122–235. – G. BIRKHOFF und S. MACLANE: A survey of modern A. (New York <sup>3</sup>1965). – [6] P. LORENZEN, Einführung s. Anm. [7]. – C. CHEVALLEY: Fundamental concepts of A. (New York 1956). – E. ARTIN: Galois theory (Notre Dame <sup>2</sup>1948), dtsch. Galoissche Theorie (1959). – The Encyclop. Americana (New York 1961) Art. ‹A., hist.› (D. J. STRUIK) und ‹Modern A.› (M. REES). – J. VUILLEMIN: La philos. de l'algèbre 1: Recherches sur quelques concepts et méthodes de l'algèbre moderne (Paris 1962).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"152\"></span> B. L. van der WAERDEN: Moderne A. 1. 2 (1930/31).</li>\n<li id=\"fn0-2\" value=\"2\">P. RAMUS (1569), nach D. E. SMITH: Hist. of math. 2 (New York <sup>3</sup>1958) 387 Anm. 1.</li>\n<li id=\"fn0-3\" value=\"3\">F. VIETA: In artem analyticam Isagoge seu A. nova (Leiden 1635); vgl. Art. <a class=\"xref\" href=\"#/a/2967\">→ Speciosa</a>.</li>\n<li id=\"fn0-4\" value=\"4\">G. CARDANO: Artis magnae, sive de regulis algebraicis liber unus. (Nürnberg 1545).</li>\n<li id=\"fn0-5\" value=\"5\">N. H. ABEL: Beweis der Unmöglichkeit algeb. Gleichungen von höheren Graden als dem vierten allgemein aufzulösen. Crelles J. 1 (1826) 65–84.</li>\n<li id=\"fn0-6\" value=\"6\">E. GALOIS, Œuvres math. J. Math, pures et appl., hg. LIOUVILLE 11 (1846) 381–444; vgl. jetzt die krit. Gesamtausgabe: Ecrits et mémoires math. d'EVARISTE GALOIS, hg. R. BOURGNE und J.-P. AZRA (Paris 1962).</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. Art. <a class=\"xref\" href=\"#/a/31\">→ Abstraktion V</a>; ferner P. LORENZEN: Einführung in die operative Logik und Math. (1955) § 10. 21–23; Gleichheit und Abstraktion. Ratio 4 (1962) 77–81.</li>\n<li id=\"fn0-8\" value=\"8\">E. STEINITZ: Algeb. Theorie der Körper. Crelles J. 137 (1910) 167–309, separat (1930).</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. Art. <a class=\"xref\" href=\"#/a/2233\">→ Ordnung</a>; ferner LORENZEN, Einführung [7].</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. H. WEYL: Math. Analyse des Raumproblems (1923, Nachdruck 1963); Gruppentheorie und Quantenmechanik (<sup>2</sup>1931, Nachdruck 1967).</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. den Art. <a class=\"xref\" href=\"#/a/96\">→ A. der Logik</a> sowie neben der dort genannten Lit. den bedeutenden Beitrag von A. N. WHITEHEAD: A treatise on universal A., with applications 1 (Cambridge 1898, Nachdruck New York 1960).</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. Art. <a class=\"xref\" href=\"#/a/1941\">→ Metamath.</a>; ferner A. ROBINSON: Introduction to model theory and to the metamath. of A. (Amsterdam 1963).</li>\n</ol>",
+ "prev":{"id":94,"lemma":"Alethiologie","band":"1","col":150},
+ "next":{"id":96,"lemma":"Algebra der Logik","band":"1","col":152},
+ "backlinks":[{"id":2967,"lemma":"Speciosa","n":1}],
+ "outlinks":[
+  {"id":31,"lemma":"Abstraktion","n":1},
+  {"id":96,"lemma":"Algebra der Logik","n":1},
+  {"id":1941,"lemma":"Metamathematik","n":1},
+  {"id":2233,"lemma":"Ordnung","n":1},
+  {"id":2967,"lemma":"Speciosa","n":1}
+ ],
+ "register":[
+  {"term":"Gebilde (math.)","qualifier":"","band":"1","col":"151"},
+  {"term":"– I (math.) 8 214–219 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":81,"name":"P. Lorenzen","b":0,"n":2,"l":1,"editor":0,"role":"mixed"},
+  {"id":10449,"name":"E. Steinitz","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":528,"name":"P. Ramus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1002,"name":"G. Cardano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1692,"name":"G. Abel","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2913,"name":"F. Vieta","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7134,"name":"E. Galois","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1909,"name":"der Waerden","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":134,"name":"A. Smith","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":194,"name":"A. N. Whitehead","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":343,"name":"Euklid","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":714,"name":"H. Weyl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1405,"name":"A. Robinson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19000,"name":"von Al-Cwarizmi","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19001,"name":"d'Evariste Galois","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19003,"name":"J.-P. Azra","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":274,"name":"M. Klein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3603,"name":"J. Vuillemin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2295,"name":"G. Birkhoff","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3602,"name":"D. A. Rees","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8444,"name":"D. J. Struik","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13391,"name":"E. Artin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19004,"name":"S. Maclane","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19005,"name":"C. Chevalley","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13390,"name":"J. Liouville","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":19002,"name":"R. Bourgne","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1149,"lemma":"Gleichung, persönliche","tf":11},
+  {"id":342,"lemma":"Axiomensystem, Peanosches","tf":8},
+  {"id":3040,"lemma":"Struktur","tf":8},
+  {"id":1896,"lemma":"Mathematik","tf":5},
+  {"id":247,"lemma":"Arithmetik","tf":3},
+  {"id":666,"lemma":"Eigenschaft","tf":4},
+  {"id":2468,"lemma":"Produkt, logisches","tf":2},
+  {"id":3670,"lemma":"Zahl; Zählen","tf":2},
+  {"id":707,"lemma":"Element","tf":3},
+  {"id":1803,"lemma":"Logik","tf":2},
+  {"id":535,"lemma":"Definition","tf":2}
+ ],
+ "see_also":[
+  {"id":247,"lemma":"Arithmetik"},
+  {"id":1820,"lemma":"Logistik"},
+  {"id":1896,"lemma":"Mathematik"},
+  {"id":2597,"lemma":"Rechnen"},
+  {"id":2967,"lemma":"Speciosa"},
+  {"id":3041,"lemma":"Struktur (Mathematik)"}
+ ],
+ "groups":[
+  {"id":7,"name":"Disziplinen und Fächer","label":"Algebra"},
+  {"id":24,"name":"Mathematik","label":"Algebra"}
+ ],
+ "reg_authors":[{"name":"Thiel Christian","n":11}]
+}
+);

@@ -1,0 +1,66 @@
+HWPH.put("a/241",
+{
+ "id":241,
+ "lemma":"Architektonik, architektonisch",
+ "band":"1",
+ "kind":"article",
+ "col_from":502,
+ "col_to":504,
+ "pdf_from":1857,
+ "pdf_to":1862,
+ "authors":["F. Kaulbach"],
+ "n_notes":15,
+ "n_chars":6976,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Architektonik, architektonisch. ‹Architektonik› (A.) gilt bei ARISTOTELES als Kunst der Bearbeitung des Stoffes zur Herstellung einer brauchbaren Sache <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Der die Sache Gebrauchende müsse sich mehr auf ihre Form verstehen, der sie Herstellende als «Architekt» mehr mit der Eigentümlichkeit des Stoffes vertraut sein. Die sich im Mittelalter ausbildende Konzeption der Machina mundi legte es nahe, von Gott als dem Architekten der Welt zu sprechen. Die Zuspitzung der Bedeutung auf die Kunst des Hausbaues scheint dadurch veranlaßt worden zu sein, daß das Haus als repräsentativ für das Sich-Einrichten des Menschen in der Welt und den herstellenden und gebrauchenden Umgang mit den Dingen aufgefaßt wurde. Bei VITRUV werden als erforderliche Tugenden des Architekten geometrische, rhetorische, arithmetische und philosophische Kenntnisse ebenso gefordert wie Bewandertsein in der Musik. Die A. umfaßt hier drei Teile: Bauen, Herstellen von Uhren und Herstellen von Maschinen <sup class=\"fn\" data-fn=\"0-2\">2</sup>. L. B. ALBERTI hat bei seiner Charakteristik des Architekten Züge angedeutet, die dem Typus des heutigen Technikers und Ingenieurs entsprechen <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Bei LEIBNIZ wird Gott als der Architekt des Weltalls bezeichnet, den die Menschen bei der Gestaltung der Erde nachahmen <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die A. gehe über <span class=\"col\" data-col=\"503\"></span> die bloße mechanische Verfassung der Natur hinaus und habe es auf Zwecke abgesehen <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Im Einklang damit wird bei CHR. WOLFF die A. mit dem System der Vernunft in Zusammenhang gebracht, das den Grundriß und Aufbau des Weltgebäudes und seine Vollkommenheit begreift <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Die «scientia architectonica» ist der Ontologie als philosophia prima gleichgesetzt <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Bei A. G. BAUMGARTEN wird Metaphysica universalis als Wissenschaft im ganzen als ein Aufbau angesehen, der die Ansprüche der A. erfüllt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. J. H. LAMBERT übernimmt, wie er selbst sagt, den Begriff von Baumgarten und bezeichnet die A. als die Lehre, die über «die ersten Fundamente, ... die erste Anlage, ... die Materialien und ihre Zubereitung und Anordnung überhaupt ..., daß man sich vorsetzt daraus ein zweckmäßiges Ganzes zu machen» <sup class=\"fn\" data-fn=\"0-9\">9</sup> handelt. Die ‹Anlage zur A.› als «Grundlehre» ist nicht mehr wie bei Wolff und Baumgarten eine Ontologie, d.h. ausgebildete Lehre vom Seienden, sondern die Grundlegung zum «Gebäude der menschlichen Erkenntniß», d.h. Lehre von den einfachen Grundbegriffen und Axiomen.</p>\n<p>KANT setzt diese Tradition unter den Bedingungen der Transzendentalphilosophie fort, indem er die Vernunft als das Vermögen bezeichnet, das sich selbst als ein System nach Regeln der A. aufbaut und in der «Einheit der mannigfaltigen Erkenntnisse» dem «bloßen Aggregat» entgegengesetzt ist. In dem Abschnitt ‹Die A. der reinen Vernunft› <sup class=\"fn\" data-fn=\"0-10\">10</sup> betont er, daß der «scientifische Vernunftbegriff» den «Zweck und die Form des Ganzen» verlange. Dieses Ganze ist ein nach dem Modell des Organismus aufgefaßtes System, es ist «gegliedert (articulatio) und nicht gehäuft (coacervatio)». Kant unterscheidet zwischen technischer und architektonischer Einheit. Erstere komme empirisch zustande und sei der «schematische» Zusammenhang zwischen einzelnen Absichten und ihren empirischen Mitteln, während letztere der «Ableitung von einem einigen, obersten und inneren Zwecke» entspreche. Das apriorische, systematische «Schema» des Ganzen, das wir Wissenschaft nennen, müsse den «Umriß (Monogramma) und die Einteilung des Ganzen in Glieder, der Idee gemäß, d.i. a priori enthalten». In seiner ‹Logik› betont Kant mehr den Wert der A. für die Ordnung und die Verknüpfung der Wissenschaften. Um den «Zusammenhang der Erkenntnisse unter einander kennen zu lernen», bedarf es der A., «die ein System nach Ideen ist, in welchem die Wissenschaften in Ansehung ihrer Verwandtschaft und systematischen Verbindung in einem Ganzen der die Menschheit interessirenden Erkenntniß betrachtet werden» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>In dieser Bedeutung findet der Begriff in der Nachfolge Kants größere Verbreitung. MELLIN stellt seine geschichtliche Entwicklung dar: Baumgarten verstehe unter A. «das Gebäude der metaphysischen Erkenntnis selbst, Lambert dieses Gebäude neben der Kunst es zu errichten» und Kant «die vollständige Aufführung und Ableitung aller Theile der reinen Vernunfterkenntnis» nach bestimmten Regeln <sup class=\"fn\" data-fn=\"0-12\">12</sup>. G. B. JÄSCHE versteht unter A. die Aufstellung der «Principien und Regeln ..., wonach die gesammten Wissenschaften zu Einem systematischen Ganzen vereiniget werden», also die «Wissenschaft des Systems der menschlichen Wissenschaften» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Die Ausführung dieses Systems ist die «Universal-Encyklopädie». Ebenso schreibt auch FRIES: «Wissenschaftliche A. ist die Lehre vom System aller Wissenschaften». Die fünf «architektonischen Grundregeln» geben das «Maaß der allgemeinen Form aller menschlichen Wissenschaften»; die A. liefert die «wichtigsten Maximen für die wirkliche Ausbildung der Wissenschaften» <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Auch bei Schleiermacher hat die A. die Aufgabe der «Zusammenordnung aller fragmentarisch entstandenen Erkenntnisse in Eins». Damit wird die Zufälligkeit und Vereinzelung der Erkenntnisse aufgehoben, alle «Vielheit gestaltet zum Ganzen». Um eine möglichst vollkommene Einheit zu erhalten, soll die Auswahl aus der Mannigfaltigkeit so getroffen werden, daß die erfaßten Einzelerkenntnisse die übrigen, «die nicht mit aufgefaßt sind, repräsentiren», d.h.: «Es soll in ihnen das Gesez liegen, wonach sich jeder die verschwiegenen aber unter ihnen mitbegriffenen Erkenntnisse mit construiren kann» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. <span class=\"col\" data-col=\"504\"></span></p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">H. HEIMSOETH: Die sechs großen Themen der abendländischen Met. und der Ausgang des MA (1922, <sup>5</sup>1965). – M. WUNDT: Die dtsch. Schulphilos. im Zeitalter der Aufklärung (1945). – F. KLEMM: Technik, eine Gesch. ihrer Probleme (1954). – G. LEHMANN: System und Gesch. in Kants Philos. Il pensiero 3 (1958) 14ff. – F. KAULBACH: Leibbewußtsein und Welterfahrung beim frühen und späten Kant. Kantstudien 54 (1963) 464–490; Der Zusammenhang zwischen Naturphilos. und Geschichtsphilos. bei Kant a.a.O. 56 (1965/66) 430–451; Immanuel Kant (1969).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"503\"></span> ARISTOTELES, Phys. II, 194 b 2ff.</li>\n<li id=\"fn0-2\" value=\"2\">VITRUV, De architectura (22 v.Chr.).</li>\n<li id=\"fn0-3\" value=\"3\">L. B. ALBERTI: De re aedificatoria (Florenz 1451).</li>\n<li id=\"fn0-4\" value=\"4\">G. W. LEIBNIZ, Nouveaux Essais IV, cap. 3, § 27. Akad.-A. 6/6, 389.</li>\n<li id=\"fn0-5\" value=\"5\">Philos. Schriften, hg. GERHARDT 7, 273.</li>\n<li id=\"fn0-6\" value=\"6\">CHR. WOLFF: Vernünftige Gedanken von Gott ... (1720) § 169ff.</li>\n<li id=\"fn0-7\" value=\"7\">Horae subsecivae Marburgenses ... (1729) Trimestre vernale, 314.</li>\n<li id=\"fn0-8\" value=\"8\">A. G. BAUMGARTEN: Met. (<sup>4</sup>1757) §4.</li>\n<li id=\"fn0-9\" value=\"9\">J. H. LAMBERT: Anlage zur A. (1771). Philos. Schriften, hg. H.-W. ARNDT (1965ff.) Vorrede XXVIIIf.</li>\n<li id=\"fn0-10\" value=\"10\">KANT, KrV B 860–862; vgl. B 502.</li>\n<li id=\"fn0-11\" value=\"11\">Logik, Einl. VI. Akad.-A. 9, 48f.</li>\n<li id=\"fn0-12\" value=\"12\">G. S. A. MELLIN: Encyclop. Wb. der Kantischen Philos. 1 (1797) 351–354. <span class=\"col\" data-col=\"504\"></span></li>\n<li id=\"fn0-13\" value=\"13\">G. B. JÄSCHE: Grundlinien zu einer A. und systematischen Universal-Encyklop. der Wiss. 1 (1818) § II; Einl. zu einer A. der Wiss. (1816); F. CHR. WEISE: Die A. aller menschl. Erkenntnisse und Gesetze des Handelns nach dem materialen und formalen Standpunkte tabell. dargestellt (1812, <sup>2</sup>1815).</li>\n<li id=\"fn0-14\" value=\"14\">J. FR. FRIES: System der Logik (<sup>3</sup>1837, Neudruck 1914) 369. 376f.</li>\n<li id=\"fn0-15\" value=\"15\">FR. SCHLEIERMACHER, Dialektik § 335–346. Werke, 3. Abt. IV/1, 303f.</li>\n</ol>",
+ "prev":{"id":240,"lemma":"Archeus","band":"1","col":500},
+ "next":{"id":242,"lemma":"Aretologie","band":"1","col":504},
+ "backlinks":[
+  {"id":3115,"lemma":"System; Systematik; systematisch","n":1},
+  {"id":3635,"lemma":"Wissenschaft","n":1},
+  {"id":3646,"lemma":"Wissenschaftstheorie; Wissenschaftsphilosophie","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Architekt des Weltalls","qualifier":"","band":"1","col":"502"},
+  {"term":"Ganze, das","qualifier":"","band":"1","col":"503"},
+  {"term":"scientia architectonica","qualifier":"","band":"1","col":"502"},
+  {"term":"Weltgebäude","qualifier":"","band":"1","col":"502"},
+  {"term":"Wissenschaften, System der","qualifier":"","band":"1","col":"503"}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":48,"name":"A. G. Baumgarten","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":95,"name":"J. F. Fries","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":115,"name":"Lambert von Auxerre","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":463,"name":"G. B. Jäsche","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":765,"name":"G. S. A. Mellin","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":850,"name":"L. B. Alberti","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1414,"name":"Vitruv","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2321,"name":"Ch. Weise","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":27,"name":"W. Wundt","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":300,"name":"H. Heimsoeth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":461,"name":"G. Lehmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":554,"name":"H. W. Arndt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":201,"name":"F. Kaulbach","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":8532,"name":"F. Klemm","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3639,"lemma":"Wissenschaften, schöne","tf":7},
+  {"id":151,"lemma":"Anlage","tf":2},
+  {"id":2218,"lemma":"Ontologie","tf":2},
+  {"id":1712,"lemma":"Kunst, Kunstwerk","tf":3},
+  {"id":3030,"lemma":"Stoff","tf":2},
+  {"id":2640,"lemma":"Regel","tf":3},
+  {"id":2730,"lemma":"Sache","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Architektonik"}],
+ "reg_authors":[{"name":"Kaulbach Friedrich","n":22}]
+}
+);

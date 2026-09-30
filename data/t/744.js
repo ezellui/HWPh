@@ -1,0 +1,12 @@
+HWPH.put("t/744",
+{
+ "b":"Ensoph ist ein in der mittelalterlichen Kabbala durch Substantivierung eines Nominalsatzes («Es gibt kein Ende») entstandener Terminus für das Unendliche (ohne jeden privativen Sinn), für Gott in seiner höchsten Wirklichkeit noch über den Sephiroth und als Grund aller Dinge . Später wird ‹E.› vor allem im Sohar und von ISAAK LURIA an zentraler Stelle gebraucht . Schon von J. REUCHLIN rezipiert , ist es, in lateinischen und deutschen Texten unübersetzt, ein Leitindiz für den mächtigen, stets unterschätzten Einfluß der Kabbala in die spekulative Philosophie: KNORR VON ROSENROTH, J. CH. OETINGER, F. H. JACOBI, F. v. BAADER, J. F. MOLITOR . Der auf J. BÖHME zurückgehende und bei SCHELLING und BAADER aufgenommene Terminus ‹Ungrund› ist ein Übersetzungsversuch für ‹E.› . J. BRUCKER und HEGEL halten ‹E.› in ihrer beiläufigen Kennzeichnung der jüdischen Philosophie für unumgänglich . Die mit F. J. MOLITOR einsetzende historische Bearbeitung der Kabbala sieht in der Explikation von ‹E.› eine ihrer Hauptaufgaben .",
+ "n":"G. SCHOLEM: Ursprung und Anfänge der Kabbala (1962) 233ff. \na.a.O. 236ff. 250f. 265f. 354. 370. 375f. 381–392; Die jüd. Mystik in ihren Hauptströmungen (1957, 21967; engl. Jerusalem 1941, New York 31954) 227f. 234–238. 277. 286. 289f. 297–300. \nJ. REUCHLIN, De arte cabalistica (1517, Neudruck 1964) 152ff. \nKNORR VON ROSENROTH: Cabbala denudata (1677–1684); J. CH. OETINGER: Lehrtafel der Prinzessin Antonia (1763, 21858); Theologia ex idea vitae deducta (1765, dtsch. 1852); auch in anderen Schriften; F. H. JACOBI: Über die Lehre des Spinoza (1785), in: Die Hauptschriften zum Pantheismusstreit, hg. H. SCHOLZ (1916) 111; F. VON BAADER: Werke, hg. F. HOFFMANN (1850–1860) 3, 384f.; Br. MOLITORS an Schelling vom 22. 4. 1833, zit. in: H.-J. SANDKÜHLER: Freiheit und Wirklichkeit (1968) 262. \nJ. BÖHME, Schriften, hg. W. E. PEUCKERT (1955–1961) 14, 18f.; 17, 12f. 24; 5, 120f.; 8, 97; F. W. J. SCHELLING: Werke, hg. K. F. A. SCHELLING (1856–1861) 7, 406f.; F. VON BAADER, a.a.O. \nJ. BRUCKER: Historia critica philosophiae (1742–1744) 2, 995f. 1025; HEGEL, Vorles. über die Gesch. der Philos. Werke, hg. GLOCKNER 9, 28f. \nF. W. MOLITOR: Philos. der Gesch. oder über die Tradition (1827–1855); vgl. R. ROCHOLL: Beiträge zu einer Gesch. deutscher Theosophie (1856) bes. 46ff.",
+ "l":"",
+ "au":"U. Dierse Karlfried Gründer",
+ "A":["U. Dierse","Karlfried Gründer"],
+ "cb":[[0,503],[277,504]],
+ "cn":[[0,503],[60,503],[245,503],[308,503],[794,503],[981,503],[1122,503]],
+ "cl":[]
+}
+);

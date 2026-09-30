@@ -1,0 +1,27 @@
+HWPH.put("a/1884",
+{
+ "id":1884,
+ "lemma":"Materia secunda",
+ "band":"5",
+ "kind":"article",
+ "col_from":841,
+ "col_to":842,
+ "pdf_from":18556,
+ "pdf_to":18556,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":374,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Materia secunda (zweite M.) bezeichnet in der scholastischen Philosophie im Unterschied zur Erst-M. <span class=\"col\" data-col=\"842\"></span> schon geformtes, existierendes Materielles (M. disposita, praeparata) <sup class=\"fn\" data-fn=\"0-1\">1</sup> als Substrat weiterer Bestimmung oder Formung, z.B. Mutterblut als M. der Zeugung eines Menschen oder Holz und Steine als M. (Material) eines Hauses.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. MICRAELIUS: Lex. philosophicum (<sup>2</sup>1662, ND 1966) s.v.</li>\n</ol>",
+ "prev":{"id":1883,"lemma":"Materia prima","band":"5","col":841},
+ "next":{"id":1885,"lemma":"Materia signata","band":"5","col":842},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Materie, zweite","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":156,"name":"J. Micraelius","b":0,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Materia secunda"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

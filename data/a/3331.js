@@ -1,0 +1,87 @@
+HWPH.put("a/3331",
+{
+ "id":3331,
+ "lemma":"Unverborgenheit",
+ "band":"11",
+ "kind":"article",
+ "col_from":331,
+ "col_to":334,
+ "pdf_from":45557,
+ "pdf_to":45564,
+ "authors":["Ch. Von Wolzogen"],
+ "n_notes":38,
+ "n_chars":8772,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Unverborgenheit (engl. <span class=\"col\" data-col=\"332\"></span> unconcealment; frz. dévoilement). Ausgehend von der Frage nach dem (ontologischen) Zusammenhang von Aussage und Wahrheit, die die Bedingtheit der Offenbarkeit des Seienden durch das Verständnis von Sein aufklären soll, kommt M. HEIDEGGER zu einem neuen Wahrheitsbegriff als «Erschlossenheit» <a class=\"xref\" href=\"#/a/815\">→</a> (s.d.), der den Entzug von Sein, d.h. die «Seinsvergessenheit» <a class=\"xref\" href=\"#/a/2815\">→</a> (s.d.), ebenso umfaßt wie dessen «Lichtung» <a class=\"xref\" href=\"#/a/1794\">→</a> (s.d.) und den Heidegger in dem Bindestrich-Ausdruck «Un-verborgenheit» zusammenfaßt – einer Tradition der Übersetzung von ἀλήθεια folgend. Während das Wort ‹U.› bereits in J. CH. ADELUNGS ‹Grammat.-krit. Wörterbuch der hochdeutschen Mundart› (1774–86) belegt ist <sup class=\"fn\" data-fn=\"0-1\">1</sup>, scheint die Etymologie von ἀλήθεια als ἀ-λήθεια (‘unverborgenʼ sein) im 19. Jh. sehr verbreitet gewesen zu sein <sup class=\"fn\" data-fn=\"0-2\">2</sup>: von F. PASSOW – «Unverstecktheit» <sup class=\"fn\" data-fn=\"0-3\">3</sup> – bis O. WILLMANN – «das Unvergessene» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Bei N. HARTMANN – möglicherweise schon bei CH. S. PEIRCE, der beiläufig auf die Etymologie von ἀλήθεια als ‘unverborgenʼ anspielt <sup class=\"fn\" data-fn=\"0-5\">5</sup> – findet sich zum ersten Mal «der genaue Sinn von ἀλήθεια» als «Unvergessenheit oder U.» <sup class=\"fn\" data-fn=\"0-6\">6</sup>, wobei er – wie die genannten Zeugen vor ihm <sup class=\"fn\" data-fn=\"0-7\">7</sup> – seine Deutung auf den «Zusammenhang von ἐπιστήμη und ἀλήθεια» einschränkt <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Demgegenüber hatte P. NATORP das ἀληθές bei Aenesidem als «praktische Wahrheit» gedeutet und bemerkt, daß «die Erklärung von ἀληθές durch μὴ λῆθον (‘nicht im Verborgenen befindlichʼ) auf Heraklits Begriffe von μνήμη und λήθη» zurückgingen <sup class=\"fn\" data-fn=\"0-9\">9</sup>. In diesen Zusammenhang gehört auch R. AVENARIUS, der mit Blick auf Platons ‹Timaios› das «für seiend halten» ein «existenzialisieren» nennt <sup class=\"fn\" data-fn=\"0-10\">10</sup> und ‘Wahrheitʼ dasjenige, «was die Sachen selbst bekannt geben» <sup class=\"fn\" data-fn=\"0-11\">11</sup> – «sofern ... ‘alles Seiendeʼ ... seine ‘Besitztümerʼ, seine ‘Eigenschaftenʼ ‘offenbartʼ oder ‘verbirgtʼ» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. NATORP führt diese philosophische Linie fort mit seinem Begriff des Seins als desjenigen, was «schlechthin offenbar» ist «wie das Licht selbst» <sup class=\"fn\" data-fn=\"0-13\">13</sup>, als ursprünglicher Erschlossenheit, der «alles da» ist, «offenliegend, unverborgen» <sup class=\"fn\" data-fn=\"0-14\">14</sup>. «Diese Un-verborgenheit (A-letheia), diese unmittelbare zweifelsfreie Wahrheit also des Seins», faßt Natorp 1922 zusammen, «besteht ohne weiteres für den, der nur ihr aufgetan und unverschlossen ist» <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<p>Im selben Jahr formuliert M. HEIDEGGER zum ersten Mal im Zusammenhang seiner Interpretation der ‹Nikomachischen Ethik VI› den «Sinn des ἀληθές als unverborgen da-sein ... ἀληθεύειν besagt nicht: ‘sich der Wahrheit bemächtigenʼ, sondern das je vermeinte und als solches vermeinte Seiende als unverhülltes in Verwahrung nehmen» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Auch Heideggers Ausgangspunkt – allerdings in Anknüpfung an F. H. JACOBIS Forderung, «Daseyn zu enthüllen» <sup class=\"fn\" data-fn=\"0-17\">17</sup>, und sein Programm einer «Hermeneutik der Faktizität» <sup class=\"fn\" data-fn=\"0-18\">18</sup> – ist Wahrheit als «Enthüllen», «so daß ἀ-ληθεύειν soviel besagt wie: etwas aus seiner Verborgenheit herausholen, offenbarmachen» <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Während aber etwa bei H. CONRAD-MARTIUS der Zusammenhang von «Verhülltem» und «Unverhülltem» auf den «Übergang von der Vorstellungs- zur Wahrnehmungsgegebenheit» <sup class=\"fn\" data-fn=\"0-20\">20</sup> beschränkt bleibt, ist bei HEIDEGGER bereits im Ansatz die ἀ-λήθεια als «Wahrsein» <sup class=\"fn\" data-fn=\"0-21\">21</sup> weiter gedacht als der traditionelle, auf ‘Erkenntnisʼ reduzierte Wahrheitsbegriff: «Primär ‘wahrʼ, das heißt entdeckend ist das Dasein» <sup class=\"fn\" data-fn=\"0-22\">22</sup>. Dementsprechend wichtig wird auch der Unterschied zwischen ‘Wahrheitʼ und ‘<a class=\"xref\" href=\"#/a/2717\">Richtigkeitʼ</a> <span class=\"sd\">→ (s.d.)</span>, in dem Heidegger – im Gegensatz zu NATORP <sup class=\"fn\" data-fn=\"0-23\">23</sup> – zunächst einen «Wandel des Wesens der Wahrheit» <sup class=\"fn\" data-fn=\"0-24\">24</sup> sieht, um später – auch gegenüber E. TUGENDHATS Vorwurf der Verfehlung des spezifischen Begriffs von Aussage-Wahrheit <sup class=\"fn\" data-fn=\"0-25\">25</sup> – festzustellen: «Die Frage nach der Ἀλήθεια, nach der U. als solcher, ist nicht die Frage nach der Wahrheit. Darum war es nicht sachgemäß ..., die Ἀλήθεια im Sinne der Lichtung Wahrheit zu nennen» <sup class=\"fn\" data-fn=\"0-26\">26</sup>. Damit entschärft HEIDEGGER die ‘Gigantomachieʼ um die <span class=\"col\" data-col=\"333\"></span> ἀ-λήθεια-Etymologie <sup class=\"fn\" data-fn=\"0-27\">27</sup> und verschärft zugleich die Fragestellung bezüglich der Ἀλήθεια zur «Sache des Denkens» <sup class=\"fn\" data-fn=\"0-28\">28</sup>. In diesem Zusammenhang gewinnt die λήθη – das «verborgene Gegenwesen der ἀλήθεια» <sup class=\"fn\" data-fn=\"0-29\">29</sup> – an Gewicht: Mit der Feststellung, daß zwischen beiden ein Übergang nur als das, «was je nur in einem Nu und aus dem Augenblick ist», bleibe <sup class=\"fn\" data-fn=\"0-30\">30</sup>, stellt sich Heidegger schließlich der Natorpschen Frage in bezug auf Heraklit, «ob nicht dann das οὔτε κρύπτει (verbergen) ganz in gleicher Strenge gelten muß wie das οὔτε λέγει (entbergen)» <sup class=\"fn\" data-fn=\"0-31\">31</sup>, und NATORPS Antwort, daß es «keine andere als ‘jetzigeʼ Offenbarung» <sup class=\"fn\" data-fn=\"0-32\">32</sup> gebe. Nach HEIDEGGER ist das ‘αʼ der ἀ-λήθεια kein α-privativum, sondern ein «α-liberativum» <sup class=\"fn\" data-fn=\"0-33\">33</sup>, insofern das Wesen des Sagens – «entbergend und verbergend» <sup class=\"fn\" data-fn=\"0-34\">34</sup> – «das Erscheinenlassen des Unverborgenen ..., das Offenbarmachen des Offenen» ist <sup class=\"fn\" data-fn=\"0-35\">35</sup>. In diesem Sinne ist auch für E. LEVINAS ‘Wahrheitʼ nicht auf ‘Wissenʼ beschränkt, sondern ein Sagen («dire») als «Ausgesetztsein» («exposition») an die Offenbarkeit des Anderen (so, wie bei HEIDEGGER die «Ausgesetztheit des Menschen zum Seienden als solchen, inmitten seiner, ... die Exsistenz» ist <sup class=\"fn\" data-fn=\"0-36\">36</sup>): «Das Sagen entblößt (découvre) über die Nacktheit hinaus das, was es noch an Verbergung (dissimulation) hinter der Ausgesetztheit ... geben kann» <sup class=\"fn\" data-fn=\"0-37\">37</sup>. Ebenso wie für eine Philosophie der Leiblichkeit ist Heideggers Begriff der U. für den von der Epistemischen Logik untersuchten Zusammenhang von ‘Wahrheitʼ und ‘Entdeckungʼ anschlußfähig, insofern er dort «am weitesten gegangen und am tiefsten gedrungen» ist <sup class=\"fn\" data-fn=\"0-38\">38</sup>. <span class=\"col\" data-col=\"334\"></span></p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">CH. VON WOLZOGEN: ‘Es gibtʼ. Heidegger und Natorps ‘Praktische Philosophieʼ, in: A. GETHMANN-SIEFERT/O. PÖGGELER (Hg.): Heidegger und die prakt. Philos. (1988) 313–337, bes. 319ff. – C. F. GETHMANN s. Anm. [25]. – H. HELTING s. Anm. [2].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"333\"></span> Vgl. GRIMM 11/III (1936) 2009f.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. die Nachweise bei J. CLASSEN (1850), H. RASSOW (1874), J. WALTER (1874), G. TEICHMÜLLER (1879) und L. MEYER (1901), in: H. HELTING: ἀ-λήθεια-Etymologien vor Heidegger im Vergleich mit einigen Phasen der ἀ-λήθεια-Auslegung bei Heidegger. Heidegger Stud. 13 (1997) 93–107.</li>\n<li id=\"fn0-3\" value=\"3\">F. PASSOW: Handwb. der griech. Sprache I/1 (<sup>5</sup>1841) 97.</li>\n<li id=\"fn0-4\" value=\"4\">O. WILLMANN: Gesch. des Idealismus 1: Vorgesch. und Gesch. des ant. Idealismus (<sup>2</sup>1907) 438.</li>\n<li id=\"fn0-5\" value=\"5\">CH. S. PEIRCE: The doctrine of necessity examined § 2, 4d (1892). Coll. papers 6 (1935) 32; dtsch.: Schr. zum Pragmatismus und Pragmatizismus, hg. K.-O. APEL (1976) 292.</li>\n<li id=\"fn0-6\" value=\"6\">N. HARTMANN: Platos Logik des Seins (1909) 239 (Anm.).</li>\n<li id=\"fn0-7\" value=\"7\">HELTING, a.O. [2] 99f.</li>\n<li id=\"fn0-8\" value=\"8\">HARTMANN, a.O. [6] 239 (Anm.).</li>\n<li id=\"fn0-9\" value=\"9\">P. NATORP: Forsch. zur Gesch. des Erkenntnisproblems im Altertum (1884, ND 1965) 297f.; vgl. M. HEIDEGGER: Phänomenolog. Interpret. zu Aristoteles (Anzeige der hermeneut. Situation), hg. H.-U. LESSING. Dilthey-Jb. 6 (1989) 259: «Die ἀλήθεια πρακτική ist ... der jeweils unverhüllte volle Augenblick des faktischen Lebens».</li>\n<li id=\"fn0-10\" value=\"10\">R. AVENARIUS: Kritik der reinen Erfahrung 2 (1890) 146; vgl. PLATON: Tim. 29 c.</li>\n<li id=\"fn0-11\" value=\"11\">a.O. 140f.</li>\n<li id=\"fn0-12\" value=\"12\">138.</li>\n<li id=\"fn0-13\" value=\"13\">P. NATORP: Philos. Systematik (Vorles. 1922/23), hg. H. NATORP (1958) 286f.</li>\n<li id=\"fn0-14\" value=\"14\">a.O. 287. 46.</li>\n<li id=\"fn0-15\" value=\"15\">376.</li>\n<li id=\"fn0-16\" value=\"16\">HEIDEGGER, a.O. [9] 256.</li>\n<li id=\"fn0-17\" value=\"17\">F. H. JACOBI: Über die Lehre des Spinoza in Br. an Herrn M. Mendelssohn. Werke 4/1 (1819) 72.</li>\n<li id=\"fn0-18\" value=\"18\">M. HEIDEGGER: Ontologie (Hermeneutik der Faktizität) (Vorles. 1923). Ges.ausg. II/63 (1988).</li>\n<li id=\"fn0-19\" value=\"19\">Die Grundprobl. der Phänomenol. (Vorles. 1927). Ges.ausg. II/24 (1975) 307.</li>\n<li id=\"fn0-20\" value=\"20\">H. CONRAD-MARTIUS: Zur Ontol. und Erscheinungslehre der realen Außenwelt. Jb. Philos. phänomenolog. Forsch. 3 (1916) 415f.</li>\n<li id=\"fn0-21\" value=\"21\">M. HEIDEGGER: Die Idee der Philos. und das Weltanschauungsproblem (Vorles. 1919). Ges.ausg. II/56/57 (1987) 49.</li>\n<li id=\"fn0-22\" value=\"22\">Sein und Zeit § 44b (1927, <sup>12</sup>1972) 220.</li>\n<li id=\"fn0-23\" value=\"23\">P. NATORP: Allg. Logik 11 [1913–19], hg. H. HOLZHEY, in: W. FLACH/H. HOLZHEY (Hg.): Erk.theorie und Logik im Neukantianismus (1979) 255.</li>\n<li id=\"fn0-24\" value=\"24\">M. HEIDEGGER: Platons Lehre von der Wahrheit [1940] (1942), in: Wegmarken (1967) 142. Ges.ausg I/9 (1976) 237.</li>\n<li id=\"fn0-25\" value=\"25\">E. TUGENDHAT: Der Wahrheitsbegriff bei Husserl und Heidegger (<sup>2</sup>1970) 331. 404f.; vgl. C. F. GETHMANN: Dasein: Erkennen und Handeln. Heidegger im phänomenolog. Kontext (1993) 115–136.</li>\n<li id=\"fn0-26\" value=\"26\">M. HEIDEGGER: Zur Sache des Denkens (1969, <sup>2</sup>1976) 77.</li>\n<li id=\"fn0-27\" value=\"27\">H. BOEDER: Der frühgriech. Wortgebrauch von Logos und Aletheia. Arch. Begriffsgesch. 4 (1959) 82–112.</li>\n<li id=\"fn0-28\" value=\"28\">M. HEIDEGGER: Hegel und die Griechen [1958] (1960), a.O. [24] 271/443.</li>\n<li id=\"fn0-29\" value=\"29\">Parmenides (Vorles. 1942/43). Ges.ausg. II/54 (1982) 183ff.</li>\n<li id=\"fn0-30\" value=\"30\">a.O. 185.</li>\n<li id=\"fn0-31\" value=\"31\">NATORP, a.O. [13] XL. <span class=\"col\" data-col=\"334\"></span></li>\n<li id=\"fn0-32\" value=\"32\">a.O.</li>\n<li id=\"fn0-33\" value=\"33\">E. FRÄNTZKI: Von der Un-Verborgenheit. F. Wipplingers Bericht von einem Gespräch mit M. Heidegger (1987) 8.</li>\n<li id=\"fn0-34\" value=\"34\">M. HEIDEGGER: Vom Wesen und Begriff der Φύσις [1939] (1958), a.O. [24] 349/Ges.ausg. I/9, 279.</li>\n<li id=\"fn0-35\" value=\"35\">a.O. [29] 231.</li>\n<li id=\"fn0-36\" value=\"36\">Vom Wesen der Wahrheit (Vortragsfass. 1930), zit. nach: E. FRÄNTZKI: Die Kehre. Heideggers Schrift ‘Vom Wesen der Wahrheitʼ (1987) 60.</li>\n<li id=\"fn0-37\" value=\"37\">E. LEVINAS: Autrement qu'être ou au-delà de l'essence (Dordrecht <sup>3</sup>1974) 62; dtsch.: Jenseits des Seins oder anders als Sein geschieht (1992) 118.</li>\n<li id=\"fn0-38\" value=\"38\">R. ENSKAT: Wahrheit und Entdeckung. Log. und erk.theoret. Unters. über Aussagen und Aussagenkontexte (1986) 8.</li>\n</ol>",
+ "prev":{"id":3330,"lemma":"Unveränderlichkeit Gottes","band":"11","col":328},
+ "next":{"id":3332,"lemma":"Unverfügbarkeit","band":"11","col":334},
+ "backlinks":[
+  {"id":3523,"lemma":"Wahrheit","n":3},
+  {"id":3527,"lemma":"Wahrheit, ästhetische; Wahrheit der Kunst","n":1},
+  {"id":3530,"lemma":"Wahrheit, nackte","n":1}
+ ],
+ "outlinks":[
+  {"id":815,"lemma":"Erschlossenheit, Erschließen","n":1},
+  {"id":1794,"lemma":"Lichtung","n":1},
+  {"id":2717,"lemma":"Richtigkeit","n":1},
+  {"id":2815,"lemma":"Seinsvergessenheit","n":1}
+ ],
+ "register":[
+  {"term":"dévoilement","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"exposition","qualifier":"(Heidegger)","band":"11","col":"333"},
+  {"term":"Undurchsichtigkeit","qualifier":"(Heidegger)","band":"11","col":"332"},
+  {"term":"Verbergen","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Verborgenheit","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"ἀλήθεια","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"– I (allg.) 5 39–42 s. auch","qualifier":"(Heidegger)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":13,"name":"M. Heidegger","b":6,"n":8,"l":0,"editor":0,"role":"source"},
+  {"id":86,"name":"P. Natorp","b":4,"n":5,"l":0,"editor":0,"role":"source"},
+  {"id":19,"name":"N. Hartmann","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":13200,"name":"H. Helting","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":101,"name":"F. H. Jacobi","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":102,"name":"Ch. S. Peirce","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":287,"name":"E. Tugendhat","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":370,"name":"R. Avenarius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":332,"name":"E. Levinas","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":795,"name":"H. Conrad-Martius","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1425,"name":"O. Willmann","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":10684,"name":"F. Passow","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11809,"name":"E. Fräntzki","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":975,"name":"C. F. Gethmann","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":3,"name":"Platon","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":70,"name":"G. E. Lessing","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":160,"name":"R. W. Meyer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":147,"name":"K.-O. Apel","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":427,"name":"J. Ch. Adelung","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1275,"name":"W. Flach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1525,"name":"G. Teichmüller","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1841,"name":"C. J. Classen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5290,"name":"R. Enskat","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5075,"name":"H. Boeder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9733,"name":"J. Walter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31766,"name":"H. Rassow","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6975,"name":"A. Gethmann-Siefert","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6041,"name":"Ch. von Wolzogen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":568,"name":"H. Holzhey","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":842,"lemma":"Etymologie","tf":2},
+  {"id":3253,"lemma":"Übergang","tf":2},
+  {"id":2730,"lemma":"Sache","tf":2}
+ ],
+ "see_also":[
+  {"id":815,"lemma":"Erschlossenheit, Erschließen"},
+  {"id":1794,"lemma":"Lichtung"},
+  {"id":2812,"lemma":"Seinsgeschichte"},
+  {"id":2815,"lemma":"Seinsvergessenheit"},
+  {"id":3290,"lemma":"Undurchsichtigkeit"},
+  {"id":3523,"lemma":"Wahrheit"}
+ ],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Unverborgenheit (Heidegger)"}],
+ "reg_authors":[{"name":"Wolf Ursula","n":5}]
+}
+);

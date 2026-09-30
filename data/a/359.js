@@ -1,0 +1,36 @@
+HWPH.put("a/359",
+{
+ "id":359,
+ "lemma":"Befehl",
+ "band":"1",
+ "kind":"article",
+ "col_from":774,
+ "col_to":775,
+ "pdf_from":2725,
+ "pdf_to":2726,
+ "authors":["H.-P. Schramm"],
+ "n_notes":5,
+ "n_chars":1497,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Befehl. Das Wort ist seit spätmittelhochdeutscher Zeit belegt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. <span class=\"col\" data-col=\"775\"></span> Es wurde zu Beginn des 19. Jh. als Ausdruck zur Bezeichnung einer verbindlichen Norm aus seinen Unterschieden zu bedeutungsverwandten Wörtern erklärt: Anders als das allgemein fordernde Gesetz bezeichnet der B. eine besondere Forderung in einem besonderen Fall, die mit dem Anspruch auf Gehorsam an bestimmte Adressaten gerichtet wird und auf den Willen eines B.-Berechtigten zurückverweist <sup class=\"fn\" data-fn=\"0-2\">2</sup>. In der Philosophie NIETZSCHES verwirklicht sich in dem Vorgang des Befehlens jeweils neu die Überlegenheit des Befehlenden über den Gehorchenden; der B. ist Akt des Willens zur Macht <sup class=\"fn\" data-fn=\"0-3\">3</sup>. In jüngster Zeit erscheint der B.-Begriff bisweilen abwertend verwendet im Sinne der Forderung eines Vorgesetzten, dessen B.-Berechtigung grundsätzlich oder für einen besonderen Fall aus einer bestimmten Sicht fragwürdig ist <sup class=\"fn\" data-fn=\"0-4\">4</sup>. – In der Phänomenologie findet der B. bei der Beschreibung des Ich-Du-Bezuges Beachtung als Beispiel für ein «unmittelbar erfahrenes personales Verhältnis» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">M. THEUNISSEN: Der Andere (1965) passim.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. und W. GRIMM: Dtsch. Wb. 1 (1854) 1251ff.</li>\n<li id=\"fn0-2\" value=\"2\">W. T. KRUG: Allgemeines Handwb. philos. Wiss. 1 (1827) 255f.</li>\n<li id=\"fn0-3\" value=\"3\">FR. NIETZSCHE: Unschuld des Werdens, hg. A. BÄUMLER (1956) 119.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. z.B. E. BLOCH: Naturrecht und menschliche Würde (1961) 242.</li>\n<li id=\"fn0-5\" value=\"5\">E. HUSSERL: Ideen zu einer reinen Phänomenol. und phänomenol. Philos. 2. Buch. Husserliana 4 (Den Haag 1952) 375; vgl. E. ROSENSTOCK-HUESSY: Angewandte Seelenkunde (1924) 26. 30. 33 u. passim.</li>\n</ol>",
+ "prev":{"id":358,"lemma":"Bedürfnisse, System der","band":"1","col":774},
+ "next":{"id":360,"lemma":"Befindlichkeit","band":"1","col":775},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":43,"name":"W. T. Krug","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":100,"name":"E. Bloch","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":953,"name":"W. Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1915,"name":"A. Bäumler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4400,"name":"E. Rosenstock-Huessy","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":399,"name":"M. Theunissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":890,"lemma":"Fall, Abfall","tf":2}],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[{"name":"Schramm Hans-Peter","n":2}]
+}
+);

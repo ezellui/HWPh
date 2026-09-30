@@ -1,0 +1,57 @@
+HWPH.put("a/445",
+{
+ "id":445,
+ "lemma":"Bios (Leben, Lebensform)",
+ "band":"1",
+ "kind":"article",
+ "col_from":948,
+ "col_to":949,
+ "pdf_from":3285,
+ "pdf_to":3289,
+ "authors":["A. Müller"],
+ "n_notes":30,
+ "n_chars":5132,
+ "toc":[
+  ["p1","2. In der hierarchisch gefügten Polis PLATONS entsprechen den drei Seelen",3],
+  ["p2","3. Mit der pointierten Bemerkung, B. sei Praxis und nicht Poiesis , rehab",3],
+  ["p3","4. Die Stoiker, vertreten durch CHRYSIPPS Περὶ βίων , lassen geringe poli",3],
+  ["h4","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Bios (Leben, Lebensform). – 1. Βίος, nicht wie ζωή Gegensatz zu θάνατος (Tod) <sup class=\"fn\" data-fn=\"0-1\">1</sup>, bedeutet Lebensform und kommt dem Sinn von ἦθος (gewohntes Verhalten) nahe: ἠθολόγος = βιολόγος = Schauspieler. So interessiert B. als Lebensform a) des Menschen überhaupt und b) als diejenige bestimmter Menschentypen. – a) Der B. ist an den Nomos, den «Wohltäter des Lebens» <sup class=\"fn\" data-fn=\"0-2\">2</sup>, und damit an die Polis gebunden <sup class=\"fn\" data-fn=\"0-3\">3</sup>: der einsame (μονώτης) B. ist nicht menschlicher B. <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Daher hängt die Lebenserfüllung des Einzelnen daran, ob er sich aufgrundseiner Individualverfassung mit derjenigen seiner Polis identifizieren kann <sup class=\"fn\" data-fn=\"0-5\">5</sup>. – Je mehr B. den Sinn von bestimmter Lebensform annimmt, um so notwendiger wird ein Begriff von B., der die jedermann in gleicher Weise betreffende Lebensform meint – ‹Kultur› oder griechisch βίος κοινός <sup class=\"fn\" data-fn=\"0-6\">6</sup>, der laut Definition bei SEXTUS EMPIRIKUS <sup class=\"fn\" data-fn=\"0-7\">7</sup> auf vier Momenten beruht: 1. Organisation von Denken und Wahrnehmen, 2. Bedürfnisbefriedigung, 3. Sitte und Gesetz, 4. Weiterentwicklung der überlieferten Künste <sup class=\"fn\" data-fn=\"0-8\">8</sup>. – b) Nach der berühmten Einteilung des ARISTOTELES in apolaustischen, politischen und theoretischen B. <sup class=\"fn\" data-fn=\"0-9\">9</sup> genießt die letztere Form bei den <i>Griechen</i> nahezu einhellig Vorrangstellung <sup class=\"fn\" data-fn=\"0-10\">10</sup>; menschenwürdig ist der tugendhafte B. <sup class=\"fn\" data-fn=\"0-11\">11</sup>, während das reine Lustleben als unter menschlichem <span class=\"col\" data-col=\"949\"></span> Niveau verworfen wird <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Die <i>Römer</i> ziehen, durchreflektiert bei CICERO, den politischen B. vor: Im ‹Somnium Scipionis› hofft der Retter der res publica, nicht der Philosoph auf Unsterblichkeit; zugleich konzediert Cicero die Zugehörigkeit des Theoretischen zum würdigen Leben, dies mit gutem Gewissen jedoch nur nach erfolgreicher vita activa <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p id=\"p1\">2. In der hierarchisch gefügten Polis PLATONS entsprechen den drei Seelenteilen die Stände des «weisheitliebenden», «streitsüchtigen» und «gewinnsüchtigen» B., für den die Seele durch vorgeburtliche Wahl unter Mustern von Lebensformen (βίων παραδείγματα) <sup class=\"fn\" data-fn=\"0-14\">14</sup> bzw. durch göttliche Einwirkung <sup class=\"fn\" data-fn=\"0-15\">15</sup> prädestiniert ist. Der «theologischen» Fixierung entspricht die politische: Das «Volk» unterwirft sich dem Diktat der Philosophie, die «Streitlustigen» bilden ihre Exekutive, der Philosoph ist gebunden, die Qual der Herrschaft zu tragen <sup class=\"fn\" data-fn=\"0-16\">16</sup>, was in der Bestimmung des «theoretischen Lebens» im ‹Theaitet› keineswegs widerrufen wird <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Vita activa und vita contemplativa <sup class=\"fn\" data-fn=\"0-18\">18</sup> sind bei Platon identisch.</p>\n<p id=\"p2\">3. Mit der pointierten Bemerkung, B. sei Praxis und nicht Poiesis <sup class=\"fn\" data-fn=\"0-19\">19</sup>, rehabilitiert ARISTOTELES den Zufall in seiner Bedeutung für die Lebensführung: die «Vorwahl» (προαίρεσις) <sup class=\"fn\" data-fn=\"0-20\">20</sup> ist Vollzug des B., nicht absolute Vorwegnahme. – Das Lustleben ist moralisch, nicht politisch disqualifiziert; der politische B. ist nicht dem theoretischen unterworfen, der wiederum, von politischen Pflichten befreit, seinen Zweck in sich selbst findet. – Hinsichtlich der Eudämonieerwartung ist der theoretische B. dem politischen überlegen: Wenn das Leben insgesamt teils aus Geschäftigkeit und Krieg, teils aus Muße und Frieden besteht, jenes aber im Blick auf dieses geschieht <sup class=\"fn\" data-fn=\"0-21\">21</sup>, so ist die intensivere Tätigkeit diejenige, die nicht zu außer ihr liegenden Zwecken ausgeübt wird <sup class=\"fn\" data-fn=\"0-22\">22</sup>, also der B. in Muße zur Theorie <sup class=\"fn\" data-fn=\"0-23\">23</sup>, die menschlichste Praxis, sofern sie durch Ähnlichkeit mit dem ganz und gar seligen Leben der Götter definiert ist <sup class=\"fn\" data-fn=\"0-24\">24</sup>.</p>\n<p id=\"p3\">4. Die <i>Stoiker</i>, vertreten durch CHRYSIPPS Περὶ βίων <sup class=\"fn\" data-fn=\"0-25\">25</sup>, lassen geringe politische Betätigung zu <sup class=\"fn\" data-fn=\"0-26\">26</sup>, solange dies nicht zur Beunruhigung führt <sup class=\"fn\" data-fn=\"0-27\">27</sup>; indes sei der müßige B., der dem hedonischen gleiche, nicht von vornherein dem Philosophen angemessen <sup class=\"fn\" data-fn=\"0-28\">28</sup>; der Weise müsse den B. des Königs wählen oder wenigstens zu dessen Gefolge gehören <sup class=\"fn\" data-fn=\"0-29\">29</sup>. Gleichwohl zeigt die stoische Forderung, in Übereinstimmung mit der Natur zu leben <sup class=\"fn\" data-fn=\"0-30\">30</sup>, jene Flucht des B. aus dem Politischen an, die EPIKUR mit dem nämlichen Drang nach Stille (γαλήνη), nur eben ohne die Skrupel der Stoiker empfiehlt.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">F. BOLL: Vita Contemplativa. Festrede (<sup>2</sup>1922). – A. FESTUGIÈRE: Contemplation et vie contemplative selon Platon (Paris <sup>2</sup>1950). – W. JAEGER: Die Griechen und das philos. Lebensideal. Z. philos. Forsch. 11 (1957) 481–496; Über Ursprung und Kreislauf des philos. Lebensideals, in: Scripta Minora (Rom 1960) 1, 347–393.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"949\"></span> DEMOKRIT 68 B 1, 205 (DIELS); PLATON, Phaidon 71 d 5ff.</li>\n<li id=\"fn0-2\" value=\"2\">DEMOKRIT 68 B 248.</li>\n<li id=\"fn0-3\" value=\"3\">TYRTAIOS 6, 3ff.; PLATON, Apol. 37 d; Phaidros 230 d.</li>\n<li id=\"fn0-4\" value=\"4\">ARIST., Eth. Nic. 1097 b 9.</li>\n<li id=\"fn0-5\" value=\"5\">PLATON, Resp. VIII/IX; ARIST., Polit. 1324 a 8ff.</li>\n<li id=\"fn0-6\" value=\"6\">R. HARDER: Kleine Schriften (1960) 43.</li>\n<li id=\"fn0-7\" value=\"7\">SEXT. EMP., Pyrrh. Hyp. I, 237.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. hierzu auch DEMOKRIT 68 A 5 (= II, 136, 10–12).</li>\n<li id=\"fn0-9\" value=\"9\">ARIST., Eth. Nic. 1095 b 14ff.</li>\n<li id=\"fn0-10\" value=\"10\">CICERO, Tusc. disp. V, 8f.; EURIPIDES frg. 910 N.; ANAXAGORAS 59 A 29; DEMOKRIT 68 B 189; ARIST., Eth. Nic. X, 6–9.</li>\n<li id=\"fn0-11\" value=\"11\">Polit. 1295 a 36ff.; 1323 b 40ff.; SVF III, p. 6, 19.</li>\n<li id=\"fn0-12\" value=\"12\">ARIST., Eth. Nic. 1095 b 19–22; SVF I. 130, 19; STOBAIOS, flor. II, 144, 16ff. (hg. WACHSMUTH).</li>\n<li id=\"fn0-13\" value=\"13\">CICERO, Resp. I, 17, 26ff.</li>\n<li id=\"fn0-14\" value=\"14\">PLATON, Resp. 617 d ff.; Phaidros 248 c–d.</li>\n<li id=\"fn0-15\" value=\"15\">Resp. 415 a.</li>\n<li id=\"fn0-16\" value=\"16\">Resp. 519 a–d.</li>\n<li id=\"fn0-17\" value=\"17\">Vgl. Theait. 176 a–b.</li>\n<li id=\"fn0-18\" value=\"18\">Gorg. 500 c.</li>\n<li id=\"fn0-19\" value=\"19\">ARIST., Polit. 1254 a 7.</li>\n<li id=\"fn0-20\" value=\"20\">Eth. Nic. 1095 b 20.</li>\n<li id=\"fn0-21\" value=\"21\">Polit. 1333 a 30ff.; Eth. Nic. 1177 b 4ff.</li>\n<li id=\"fn0-22\" value=\"22\">Polit. 1325 b 17ff.</li>\n<li id=\"fn0-23\" value=\"23\">Eth. Nic. 1177 b 24ff.</li>\n<li id=\"fn0-24\" value=\"24\">a.a.O. 1178 b 25ff.</li>\n<li id=\"fn0-25\" value=\"25\">Rekonstruiert in SVF III, pp. 172–191.</li>\n<li id=\"fn0-26\" value=\"26\">a.a.O. frg. 703.</li>\n<li id=\"fn0-27\" value=\"27\">frg. 704.</li>\n<li id=\"fn0-28\" value=\"28\">frg. 702.</li>\n<li id=\"fn0-29\" value=\"29\">frg. 690f.</li>\n<li id=\"fn0-30\" value=\"30\">frg. 4–8.</li>\n</ol>",
+ "prev":{"id":444,"lemma":"Bionten","band":"1","col":947},
+ "next":{"id":446,"lemma":"Biosophie","band":"1","col":949},
+ "backlinks":[{"id":3469,"lemma":"Vita activa/vita contemplativa","n":1}],
+ "outlinks":[],
+ "register":[{"term":"μονώτης","qualifier":"","band":"1","col":"948"}],
+ "persons":[
+  {"id":3,"name":"Platon","b":1,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":83,"name":"Demokrit","b":0,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":90,"name":"Sextus Empiricus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":117,"name":"Epikur","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":146,"name":"Chrysipp","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":277,"name":"H. Diels","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":421,"name":"Euripides","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":328,"name":"Anaxagoras","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2006,"name":"R. Harder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2221,"name":"J. Stobaios","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10691,"name":"Tyrtaios","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":19714,"name":"Sextus Empirikus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":326,"name":"W. Jaeger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2195,"name":"F. Boll","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":113,"name":"Arist","b":0,"n":6,"l":0,"editor":1,"role":"scholar"},
+  {"id":4361,"name":"Wachsmuth","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1168,"name":"A. J. Festugière","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2393,"lemma":"Polis","tf":3},
+  {"id":2044,"lemma":"Muße","tf":2},
+  {"id":2448,"lemma":"Praxis, praktisch","tf":2}
+ ],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[{"name":"Müller Armin","n":19}]
+}
+);

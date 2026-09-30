@@ -1,0 +1,27 @@
+HWPH.put("a/1298",
+{
+ "id":1298,
+ "lemma":"Homo loquax",
+ "band":"3",
+ "kind":"article",
+ "col_from":1175,
+ "col_to":1175,
+ "pdf_from":11047,
+ "pdf_to":11047,
+ "authors":["Ch. Grawe"],
+ "n_notes":2,
+ "n_chars":418,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Homo loquax (der Mensch als Schwätzer). Mit dem Begriff charakterisiert H. BERGSON <sup class=\"fn\" data-fn=\"0-1\">1</sup> den Typ, der nicht wie der homo sapiens die Welt denkend erfaßt oder wie der homo faber schafft: «Der einzige, der uns unsympathisch ist, ist der H.l., dessen Denken, wenn er denkt, nur eine Reflexion über seine Worte ist» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">H. BERGSON: La pensée et le mouvant (Paris 1943); dtsch. Denken und schöpferische Bewegung (1948).</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 103.</li>\n</ol>",
+ "prev":{"id":1297,"lemma":"Homo insciens oder insipiens","band":"3","col":1175},
+ "next":{"id":1299,"lemma":"Homo ludens","band":"3","col":1175},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Mensch als Schwätzer","qualifier":"(Bergson)","band":null,"col":null}],
+ "persons":[{"id":149,"name":"H. Bergson","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":2,"name":"Anthropologie","label":"Homo loquax (Bergson)"}],
+ "reg_authors":[{"name":"Grawe Christian","n":16}]
+}
+);

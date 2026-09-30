@@ -1,0 +1,12 @@
+HWPH.put("t/2935",
+{
+ "b":"Sowjetideologie war als zusammenfassender Ausdruck für die ‘Weltanschauungʼ des Marxismus (s.d.), Leninismus (s.d.), Stalinismus (s.d.) bzw. des dialektischen und historischen Materialismus (s.d.) mit den entsprechenden ökonomischen und politischen Lehren in den ersten Jahrzehnten nach dem Zweiten Weltkrieg verbreitet und wurde vorrangig in kritischer Absicht verwendet. \nMit dem Terminus ‹S.› sollte angezeigt werden, daß der originäre Marxismus als offene Theorie mit seiner Weiterentwicklung durch Lenin und Stalin zur «wissenschaftlichen Weltanschauung» des dialektischen und historischen Materialismus zu einem geschlossenen, dogmatisch fixierten System pervertierte, zu einem «Gemisch von Wahrheiten, Schiefheiten und Irrtümern» als «einem scheinbar einheitlichen Ganzen» , zur verbindlichen Doktrin der KPdSU und des Sowjetstaates mit den entsprechenden Folgen. – Auch nach der Entstalinisierung 1956 wurde der Marxismus-Leninismus als offizielle Doktrin beibehalten, die lehrbuchmäßig abzuhandeln war . Dementsprechend konnte diese ihrem Wissenschaftlichkeitsanspruch gemäß dann auch kritisch untersucht werden . \nDer weitere Verlauf der ideologischen, sozialen und polit-ökonomischen Entwicklung in der UdSSR ließ auch in der Sowjetphilosophie wieder vorsichtigen Binnenpluralismus erkennen, bis mit dem Beginn der Glasnost-und-Perestroika-Ära 1985 sich mehr und mehr und besonders nach dem Zerfall der Sowjetunion 1991 der Weg zu «freiem Philosophieren» («put' k vol'nomu filosofstvovaniju» ) vollends wieder öffnete und die S. ihren intellektuellen und politischen Alleinvertretungsanspruch verlor.",
+ "n":"I. FETSCHER (Hg.): Stalin ‹Über dialekt. und hist. Materialismus› (1938). Vollst. Text und krit. Komm. (41957) 16. \nF. W. KONSTANTINOW (Hg.): Grundl. der marxist. Philos. (1959, 71966); A. KOSING: Marxist. Philos. (1967). \nI. FETSCHER: Von Marx zur S. (31957); H. KOCH: S. als Weltanschuung und Wiss. Osteuropa 7 (1957) 10–22; G. A. WETTER: S. heute, 1: Dial. und hist. Materialismus (1962); W. LEONHARD: S. heute, 2: Die polit. Lehren (1962). \nVgl. Art. ‹Philosophie IV. J. 2. Sowjet. Philos.›. Hist. Wb. Philos. 7 (1989) 781–786. \nM. W. LOMONOSSOW: Die Wolffsche Experimentalphysik (1746) Vorwort; W. GOERDT: Russ. Philos. (1989) 47–50, zit. 48.",
+ "l":"",
+ "au":"W. Goerdt",
+ "A":["W. Goerdt"],
+ "cb":[[0,1111],[374,1111],[1124,1111],[1220,1112]],
+ "cn":[[0,1111],[0,1112],[116,1112],[223,1112],[445,1112],[533,1112]],
+ "cl":[]
+}
+);

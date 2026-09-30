@@ -1,0 +1,87 @@
+HWPH.put("a/3299",
+{
+ "id":3299,
+ "lemma":"Unheimliche, das",
+ "band":"11",
+ "kind":"article",
+ "col_from":172,
+ "col_to":174,
+ "pdf_from":45058,
+ "pdf_to":45065,
+ "authors":["H. Hühn"],
+ "n_notes":25,
+ "n_chars":8916,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Unheimliche, das (engl. uncanny; frz. inquiétant, l'inquiétante étrangeté). Obwohl das U. in den Künsten besonders seit der europäischen Romantik in vielfältiger Weise zur Darstellung gebracht wird, macht der Begriff – im Gegensatz etwa zum Terminus <a class=\"xref\" href=\"#/a/2780\">‹das Schreckliche›</a> <span class=\"sd\">→ (s.d.)</span>, mit dem er in der ästhetischen Diskussion zuweilen verknüpft wird – erst im 20. Jh. Epoche.</p>\n<p>E. JENTSCH eröffnet die Diskussion mit der Fragestellung, «wie die Gefühlserregung des U. psychologisch zustande kommt» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Für ihn indiziert das Gefühl des U. vor allem eine «psychische Unsicherheit» dem Neuartigen und Unvertrauten gegenüber, die dem menschlichen Wunsch «nach der intellectuellen Herrschaft über die Umwelt» zuwiderläuft <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Für S. FREUD gehört das U. zum «Schreckhaften, Angst-und Grauenerregenden» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Hatte schon JENTSCH auf die Vorteile hingewiesen, «sich bei einer psychologischen Analyse die Terminologie klar zu machen» <sup class=\"fn\" data-fn=\"0-4\">4</sup>, so wählt auch FREUD den methodischen Weg einer semantischen Untersuchung des Adjektivs ‹heimlich› und seines Antonyms ‹unheimlich›. Das schon im Ahd. belegte und in der Sprache der Mystik <sup class=\"fn\" data-fn=\"0-5\">5</sup> gebräuchliche Wort ‹heimlich› ist mehrdeutig; es gehört nach Freud «zwei Vorstellungskreisen» zu, «dem des Vertrauten, Behaglichen und dem des Versteckten, <span class=\"col\" data-col=\"173\"></span> Verborgengehaltenen». Mit Rückgriff auf die Wörterbücher von D. SANDERS und J./W. GRIMM betont FREUD, daß bereits das «Wörtchen heimlich unter den mehrfachen Nuancen seiner Bedeutung auch eine zeigt, in der es mit seinem Gegensatz unheimlich zusammenfällt» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Dieser Sprachgebrauch wird als Bestätigung für die psychoanalytische Annahme genommen, das U. sei «jene Art des Schreckhaften, welche auf das Altbekannte, Längstvertraute zurückgeht» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Im Gegensatz zu Jentsch ist das U. für Freud «etwas dem Seelenleben von alters her Vertrautes, das ihm nur durch den Prozeß der Verdrängung entfremdet worden ist»: «Die Vorsilbe ‘unʼ an diesem Worte ist ... die Marke der Verdrängung» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die «Wiederkehr des Verdrängten» verursacht das Gefühl des U. Für die Verortung des U. im Kontext seiner Theorie der <a class=\"xref\" href=\"#/a/3393\">Verdrängung</a> <span class=\"sd\">→ (s.d.)</span> glaubt Freud auch eine Bestimmung F. W. J. SCHELLINGS anführen zu können, der im Rahmen seiner späten ‹Philosophie der Mythologie› notiert: «unheimlich nennt man alles, was im Geheimniß, im Verborgnen, in der Latenz bleiben sollte und hervorgetreten ist» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Erst durch FREUDS mit literaturästhetischem Anspruch ausgearbeitete, E. T. A. HOFFMANNS Nachtstück ‹Der Sandmann› interpretierende Untersuchung findet das Thema des U. immodernen Feld der Ästhetik Beachtung <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>M. HEIDEGGER nimmt den Begriff des U. im Rahmen seiner daseinsanalytischen Auslegung der <a class=\"xref\" href=\"#/a/144\">Angst</a> <span class=\"sd\">→ (s.d.)</span> auf: «In der Angst ist einem ‘unheimlichʼ». Es ist die Angst, die das «Dasein aus seinem verfallenden Aufgehen in der ‘Weltʼ» zurückholt und mit der Unheimlichkeit konfrontiert, «die im Dasein als geworfenen, ihm selbst in seinem Sein überantworteten In-der-Welt-sein liegt». Vor dieser Unheimlichkeit flieht das Dasein nach Heidegger zunächst und zumeist «in das Zuhause der Öffentlichkeit». «Das beruhigt-vertraute In-der-Welt-Sein ist ein Modus der Unheimlichkeit des Daseins, nicht umgekehrt. Das Un-zuhause muß existenzial-ontologisch als das ursprünglichere Phänomen begriffen werden» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Die existentielle Unheimlichkeit, Stimmungscharakter der Angst, die «das Seiende im Ganzen zum Entgleiten bringt» und in der «wir selbst – diese seienden Menschen – inmitten des Seienden uns mitentgleiten», kann aber, wie es die Studie ‹Was ist Metaphysik› 1929 entwickelt, gerade indem sie das <a class=\"xref\" href=\"#/a/2136\">Nichts</a> <span class=\"sd\">→ (s.d.)</span> offenbart, zum Anstoß metaphysischen Fragens werden <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Mit dem Übergang von der Existenzialontologie zur ‘Theorieʼ der Seinsgeschichte kommt dem U. in Heideggers Denken eine zentrale Stellung zu, und zwar dort, wo der Beitrag der griechischen Tragödie im Rahmen des intendierten Rückgangs in den Anfang der europäischen Philosophie reflektiert <span class=\"col\" data-col=\"174\"></span> wird. Heidegger deutet das erste Stasimon der Sophokleischen ‹Antigone›, das in der ersten Hälfte des 20. Jh. auch vor dem zeitgeschichtlichen Hintergrundder Weltkriege besonders im Blick stand, als «die eigentliche griechische Definition des Menschen» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Er übersetzt die Anfangsverse 1942: «Vielfältig das U., nichts doch / über den Menschen hinaus Unheimlicheres ragend sich regt» (πολλὰ τὰ δεινὰ κοὐδὲν ἀν-/θρώπου δεινότερον πέλει) <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Das Sophokleische δεινόν, dessen wesentliche Ambiguität in der Übersetzungsgeschichte der ‹Antigone› erstmals F. HÖLDERLIN aufgefaßt, im Deutschen mit «ungeheuer» wiedergegeben und zu einem Grundbegriff seiner späten Theorie des Tragischen gemacht hatte <sup class=\"fn\" data-fn=\"0-15\">15</sup>, wird von HEIDEGGER im Anschluß an den Philologen K. REINHARDT mit ‹unheimlich› übertragen. HEIDEGGER versteht den griechischen Ausdruck nicht nur als «Grundwort dieser Tragödie», er stilisiert ihn zum Grundwort «der griechischen Tragödie überhaupt und damit ... des Griechentums» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Hatte der Religionsphilosoph R. OTTO das «eigentümlich schwer übersetzbare Wort» zuvor in Anlehnung an Hölderlin mit «ungeheuer» wiedergegeben und für die Deskription der Erfahrung des Numinosen in Anspruch genommen <sup class=\"fn\" data-fn=\"0-17\">17</sup>, so denkt HEIDEGGER das U. als «die Grundart des Wesens des Menschen» <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Etymologisierend faßt er das U. als das «Un-heimische», «als jenes, das aus dem ‘Heimlichenʼ, d.h. Heimischen, Gewohnten, ... herauswirft» <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Was und wer der Mensch ist, zeigt sich erst vor dem Hintergrundder ihm wesentlichen «Unheimischkeit». Heidegger entdeckt «ihren verborgenen Grund ... im gegenwendigen Bezug des Seins zum Menschen» <sup class=\"fn\" data-fn=\"0-20\">20</sup> und erläutert damit die Wahrheit des Seins als ein Geschehen des <a class=\"xref\" href=\"#/a/3039\">Streits</a> <span class=\"sd\">→ (s.d.)</span>. Die griechische Tragödie, für deren «‘Handlungʼ» das Erfahren und Erleiden des U. (παθεῖν τὸ δεινόν <sup class=\"fn\" data-fn=\"0-21\">21</sup>) charakteristisch sei, führe vor, «wie das Sein selbst den Menschen in seinem Wesen sein läßt» <sup class=\"fn\" data-fn=\"0-22\">22</sup>.</p>\n<p>Im französischen Denken der Gegenwart wird der Begriff des ‹U.› vielfach sowohl mit Rekurs auf den psychoanalytischen wie auf den existential-ontologisch phänomenologischen Sprachgebrauch beim frühen Heidegger rezipiert <sup class=\"fn\" data-fn=\"0-23\">23</sup>. J. KRISTEVA versteht das U., der französischen Freud-Übersetzung (l'inquiétante étrangeté) entsprechend, als beunruhigende Fremdheit: «Inquiétante, l'étrangeté est en nous: nous sommes nos propres étrangers – nous sommes divisés» <sup class=\"fn\" data-fn=\"0-24\">24</sup>. Ausgehend von der psychoanalytischen Einsicht: «L'autre, c'est mon (propre) inconscient», entwickelt sie, wie die mit dem U. gegebene Erfahrung der Alterität bis zur «dépersonnalisation», zur «déstructuration du moi» führen kann, und plädiert für einen Umgang mit dem Fremden, der in einer Ethik des Respekts für das Unversöhnliche in uns gründet <sup class=\"fn\" data-fn=\"0-25\">25</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"174\"></span> E. JENTSCH: Zur Psychol. des U. Psychiatr.-neurolog. Wschr. 22 (1906) 195–198; 23 (1906) 203–205, hier: 195.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 196. 205.</li>\n<li id=\"fn0-3\" value=\"3\">S. FREUD: Das U. (1919). Ges. Werke, hg. A. FREUD u.a. (1946–87) 12, 229.</li>\n<li id=\"fn0-4\" value=\"4\">JENTSCH, a.O. [1] 195.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. etwa G. LÜERS: Die Sprache der dtsch. Mystik (1926) 197.</li>\n<li id=\"fn0-6\" value=\"6\">FREUD, a.O. [3] 235; zur Transformation des Freudschen Gedankens bei H. PLESSNER vgl.: Macht und menschl. Natur (1931). Ges. Schr., hg. G. DUX u.a. 5 (1981) 192ff.</li>\n<li id=\"fn0-7\" value=\"7\">a.O. 231.</li>\n<li id=\"fn0-8\" value=\"8\">254. 259.</li>\n<li id=\"fn0-9\" value=\"9\">236; F. W. J. SCHELLING: Philos. der Mythol. II, 28. Vorles. [1842]. Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) II/2, 649; zum Kontext des Schellingschen Gedankens vgl.: Urfassung der Philos. der Offenb., hg. W. E. EHRHARDT (1992) 1, 10; 2, 444ff.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. zur Freudschen Differenzierung zwischen dem «U. des Erlebens» und dem «U. der Fiktion»: a.O. [3] 261ff.; zur Wirkungsgeschichte in der Ästhetik etwa: C. KAHANE (Hg.): Psychoanalyse und das U. Essays aus der amer. Lit.kritik (1981); G. CH. THOLEN: Das U. an der Realität und die Realität des U., in: Fragmente. Schr.reihe zur Psychoanalyse 11 (1984) 6–29; T. CASTLE: The female thermometer. 18<sup>th</sup>-cent. culture and the invention of the uncanny (New York 1995) bes. 3–20; M. STURM u.a. (Hg.): Phantasma und Phantome. Gestalten des U. in Kunst und Psychoanalyse (1995).</li>\n<li id=\"fn0-11\" value=\"11\">M. HEIDEGGER: Sein und Zeit § 40 (1927) 188f.</li>\n<li id=\"fn0-12\" value=\"12\">Was ist Met.? (1929), in: Wegmarken (1967) bes. 8ff.; Ges.ausg. I/9 (1976) bes. 111ff.</li>\n<li id=\"fn0-13\" value=\"13\">Einf. in die Met. [1935] (1953) bes. 112–126, hier: 112. 116.</li>\n<li id=\"fn0-14\" value=\"14\">Hölderlins Hymne ‘Der Isterʼ [1942]. Ges.ausg. II/53 (<sup>2</sup>1993) 71.</li>\n<li id=\"fn0-15\" value=\"15\">H. HÜHN: Mnemosyne. Zeit und Erinnerung in Hölderlins Denken (1996) 211ff.</li>\n<li id=\"fn0-16\" value=\"16\">HEIDEGGER: Ister, a.O. [14] 82.</li>\n<li id=\"fn0-17\" value=\"17\">R. OTTO: Das Heilige (1917) 43f.; (<sup>15</sup>1926) bes. 55ff. (Kap. 8); vgl. auch: H. BLUMENBERG: Arbeit am Mythos (1979, <sup>5</sup>1990) 18ff. 32ff.</li>\n<li id=\"fn0-18\" value=\"18\">HEIDEGGER: Ister, a.O. [14] 89.</li>\n<li id=\"fn0-19\" value=\"19\">Einf., a.O. [13] 115f.; zur komplexen Begriffskonzeption: Ister, a.O. 76ff.</li>\n<li id=\"fn0-20\" value=\"20\">Ister, a.O. 112.</li>\n<li id=\"fn0-21\" value=\"21\">a.O. 127ff.; vgl. SOPHOKLES: Antigone v. 96. 850ff.</li>\n<li id=\"fn0-22\" value=\"22\">112.</li>\n<li id=\"fn0-23\" value=\"23\">J. DERRIDA: Spectres de Marx (Paris 1993) 272ff.</li>\n<li id=\"fn0-24\" value=\"24\">J. KRISTEVA: Etrangers à nous-mêmes (Paris 1988) 268; dtsch.: Fremde sind wir uns selbst (1990) 198.</li>\n<li id=\"fn0-25\" value=\"25\">a.O. 271ff./200ff.; vgl. auch: M. HORKHEIMER/TH. W. ADORNO: Dial. der Aufklärung (1944). M. HORKHEIMER: Ges. Schr., hg. G. SCHMID NOERR 5 (1987) 211: «Was als Fremdes abstößt, ist nur allzu vertraut».</li>\n</ol>",
+ "prev":{"id":3298,"lemma":"Ungrund; Urgrund","band":"11","col":168},
+ "next":{"id":3300,"lemma":"Unhintergehbarkeit","band":"11","col":175},
+ "backlinks":[
+  {"id":3660,"lemma":"Wunderbare, das; Phantastische, das","n":1},
+  {"id":3666,"lemma":"Xenologie; Wissenschaft vom Fremden","n":2}
+ ],
+ "outlinks":[
+  {"id":144,"lemma":"Angst, Furcht","n":1},
+  {"id":2136,"lemma":"Nichts, Nichtseiendes","n":1},
+  {"id":2780,"lemma":"Schreckliche","n":1},
+  {"id":3039,"lemma":"Streit","n":1},
+  {"id":3393,"lemma":"Verdrängung","n":1}
+ ],
+ "register":[
+  {"term":"das","qualifier":"","band":null,"col":null},
+  {"term":"das 8 1413–1416 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"das 8 1415 déstructuration","qualifier":"","band":"11","col":"174"},
+  {"term":"étrangeté inquiétante","qualifier":"","band":"11","col":"174"},
+  {"term":"heimlich","qualifier":"","band":"11","col":"172"},
+  {"term":"inquiétante étrangeté","qualifier":"","band":"11","col":"174"},
+  {"term":"Ungeheure, das","qualifier":"","band":"11","col":"173"},
+  {"term":"Unheimische, das","qualifier":"","band":"11","col":"174"},
+  {"term":"Unsicherheit, psychische","qualifier":"","band":"11","col":"172"},
+  {"term":"Unversöhnliche, das","qualifier":"","band":"11","col":"174"},
+  {"term":"Wiederkehr des Verdrängten","qualifier":"","band":null,"col":null},
+  {"term":"δεινόν","qualifier":"","band":"11","col":"173"}
+ ],
+ "persons":[
+  {"id":13,"name":"M. Heidegger","b":4,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":24,"name":"S. Freud","b":4,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":111,"name":"M. Horkheimer","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":290,"name":"Otto von Freising","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2270,"name":"J. Kristeva","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8918,"name":"D. Jentsch","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18377,"name":"Jentsch","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":26,"name":"Th. W. Adorno","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":97,"name":"H. Blumenberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":191,"name":"H. Plessner","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":197,"name":"F. Hölderlin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":193,"name":"J. Derrida","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":627,"name":"E. Hoffmann","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":503,"name":"Sophokles","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":953,"name":"W. Grimm","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":1053,"name":"K. Reinhardt","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":2629,"name":"J. Sturm","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6151,"name":"H. Hühn","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10249,"name":"D. Sanders","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7488,"name":"G. Lüers","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12306,"name":"E. Castle","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31643,"name":"G. Ch. Tholen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":480,"name":"A. Freud","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1427,"name":"G. Schmid Noerr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1446,"name":"W. E. Ehrhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":16823,"name":"E. Kahane","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":527,"lemma":"Dasein","tf":4},
+  {"id":948,"lemma":"Fremd, Fremdheit","tf":2},
+  {"id":1009,"lemma":"Gefühl","tf":2},
+  {"id":168,"lemma":"Anspruch","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[{"id":2780,"lemma":"Schreckliche"}],
+ "groups":[
+  {"id":2,"name":"Anthropologie","label":"Unheimliche, das"},
+  {"id":35,"name":"Psychoanalyse","label":"Unheimliche, das"}
+ ],
+ "reg_authors":[{"name":"Hühn Helmut","n":51}]
+}
+);

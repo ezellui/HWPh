@@ -1,0 +1,66 @@
+HWPH.put("a/504",
+{
+ "id":504,
+ "lemma":"Complementum possibilitatis",
+ "band":"1",
+ "kind":"article",
+ "col_from":1024,
+ "col_to":1026,
+ "pdf_from":3539,
+ "pdf_to":3543,
+ "authors":["H. Schepers"],
+ "n_notes":18,
+ "n_chars":5667,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Complementum possibilitatis. <span class=\"col\" data-col=\"1025\"></span> Wenn CHR. WOLFF die Existenz als das C.p. definiert <sup class=\"fn\" data-fn=\"0-1\">1</sup>, als dasjenige, was «erfüllend» zur Möglichkeit hinzukommen muß, damit sie ins Dasein treten kann, so geschieht das in direkter Nachfolge der <i>Leibnizschen</i> Lehre von der besten der möglichen Welten, die ihren Daseinsgrundim Willen Gottes hat, das im ganzen gesehen Vollkommenste wirklich werden zu lassen. Die berühmt gewordene Definition Wolffs hat somit eine Ontologie zur Voraussetzung, in der die Differenz von Existenz und Essenz zusammen mit der Gleichsetzung von Existenz und Aktualität sowie von Essenz und Möglichkeit gilt und die den Primat des Wesens vor dem Sein, also die Priorität des Möglichen vor dem Wirklichen behauptet. Wolffs C.p. ist daher im Kontext des Essentialismus zu verstehen, dessen Wurzeln bis ALFARABI und AVICENNA reichen und der über DUNS SCOTUS vor allem und SUÁREZ bis hin zu Wolff führt <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>In einer solchen Metaphysik nehmen die Möglichkeiten, wie das besonders bei LEIBNIZ deutlich wird, den Charakter von nach Dasein strebenden Essenzen an. Wird aber so den Wesenheiten ein Vermögen zugesprochen, dann impliziert das bereits Vollendung und Komplementierung in der Verwirklichung dieses Vermögens, wie etwa BARTHOLOMÄUS KECKERMANN es im Anschluß an <i>Aristoteles</i> formulierte: «omnis potentia perfectionem et complementum suum in et ab actu consequitur» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Während in der sich an Aristoteles ausrichtenden Scholastik die Existenz als das Heraustreten aus den Ursachen, in denen das ens in potentia gleichsam schon existierend vor seiner Aktualisierung verborgen war, begriffen wird, liefert in dieser Wesensphilosophie die innere Möglichkeit, oft auch als im Geiste Gottes existierende oder besser subsistierende Idee verstanden, den Ausgangspunkt der Theorie. Bevor etwas zu existieren beginnt, muß es möglich sein. Der Zustand, der zur Möglichkeit hinzukommen muß, ist das sie erfüllende C.p. <sup class=\"fn\" data-fn=\"0-4\">4</sup>, ein «wahrer Zusatz» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Was dieses Hinzukommende ist, das nötig ist, um ein ens – und zwar eher dieses als ein anderes – aus dem Zustand der Möglichkeit in den der Wirklichkeit zu überführen, wird von WOLFF jeweils erst im Zusammenhang der Disziplin erklärt, die den Begründungszusammenhang darzustellen erlaubt:</p>\n<p>In der ‹Theologia naturalis› wird der zureichende Grund, um den es sich immer beim C.p. handelt, für Gottes eigene Existenz in seinem Wesen aufgewiesen <sup class=\"fn\" data-fn=\"0-6\">6</sup>: Gott existiert aus eigener Kraft <sup class=\"fn\" data-fn=\"0-7\">7</sup>, sein Wille ist zureichender Grund für die Erschaffung dieser Welt als der besten der möglichen <sup class=\"fn\" data-fn=\"0-8\">8</sup> und damit für die Existenz aller kontingenten Dinge <sup class=\"fn\" data-fn=\"0-9\">9</sup>; ihr Dasein ist besonders determiniert durch die sie verursachenden series contingentium und den allgemeinen nexus rerum coexistentium <sup class=\"fn\" data-fn=\"0-10\">10</sup>, insofern der zureichende Grund ihrer Wirklichkeit erst in dem außerhalb der Reihen stehenden notwendigen Seienden liegt <sup class=\"fn\" data-fn=\"0-11\">11</sup>. In der ‹Psychologia rationalis› schließlich zeigt Wolff, wie in der vis animae, die in einem stetigen conatus agendi bestehe und die streng von den Vermögen der Seele zu unterscheiden sei, der zureichende Grund für die Aktualisierung der in den Vermögen angelegten Möglichkeiten zu sehen ist <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>In der Wolff-Schule fand diese einprägsame Definition der Existenz allgemein Anklang <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Auch BILFINGERS Definition der Existenz als desjenigen, durch das die Möglichkeiten zum Leiden und Handeln befähigt werden, ist aus ihr erwachsen <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Die <i>Rüdiger</i>-Schule, insbesondere A. F. MÜLLER <sup class=\"fn\" data-fn=\"0-15\">15</sup> und vor allem CHR. A. CRUSIUS <sup class=\"fn\" data-fn=\"0-16\">16</sup> lehnten die Möglichkeitsmetaphysik und damit die Voraussetzung für das C.p. ab. Grundsätzlich hat aber erst KANT mit seiner Zurückweisung des Ontologismus im Anselmschen Argument die Betrachtung der Existenz als einer Eigenschaft, die realiter zu einem bis dahin bloß Möglichen hinzukommen kann, verworfen: «dieses Hinzukommen zum Möglichen kenne ich nicht. Denn was über dasselbe noch zugesetzt werden sollte, wäre unmöglich» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. <span class=\"col\" data-col=\"1026\"></span></p>\n<p>Angemerkt sei, daß bereits THOMAS VON AQUIN ein «complementum necessitatis essendi quantum ad actum» in einem seiner indirekten Beweise für die Einzigkeit Gottes verwirft <sup class=\"fn\" data-fn=\"0-18\">18</sup>.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">J. BERGMANN: Wolffs Lehre vom c.p. Untersuch, über Hauptpunkte der Philos. (1900). – I. PAPE: Tradition und Transformation der Modalität I: Möglichkeit-Unmöglichkeit (1966).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1026\"></span> CHR. WOLFF: Philosophia prima sive Ontologia (1730) § 174; vorbereitet in der dtsch. Met. (1720) § 14.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. E. GILSON: L'être et l'essence (Paris 1948) bes. 174ff.; L. OEING-HANHOFF: Wesensphilos. u. thomist. Met. Theol. Rev. 50 (1954) 201–208.</li>\n<li id=\"fn0-3\" value=\"3\">B. KECKERMANN: Gymnasium logicum (1621) 1, 3.</li>\n<li id=\"fn0-4\" value=\"4\">F. CHR. BAUMEISTER: Institutiones metaphysicae (1738) § 51.</li>\n<li id=\"fn0-5\" value=\"5\">G. F. MEIER: Met. 1 (1755) §§ 48. 65.</li>\n<li id=\"fn0-6\" value=\"6\">CHR. WOLFF: Theol. naturalis 1 (1736) § 31.</li>\n<li id=\"fn0-7\" value=\"7\">a.a.O. 1, § 70.</li>\n<li id=\"fn0-8\" value=\"8\">2 (1737) §§ 377. 381. 376. 357.</li>\n<li id=\"fn0-9\" value=\"9\">1, §§ 433. 438.</li>\n<li id=\"fn0-10\" value=\"10\">CHR. WOLFF: Cosmologia generalis (1731) § 83ff.</li>\n<li id=\"fn0-11\" value=\"11\">a.a.O. § 90.</li>\n<li id=\"fn0-12\" value=\"12\">CHR. WOLFF: Psychol. rationalis (1734) § 55.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. u.a. L. PH. THÜMMIG: Institutio philosophiae Wolffianae (1729) 1, 42; J. N. FROBESIUS: Brevis systematis philosophiae Wolffianae delineatio (1734) cap. 4, 16; F. CHR. BAUMEISTER: Philos. definitiva (1735) § 354; A. G. BAUMGARTEN: Met. (1739) § 55; G. F. MEIER, Met. 1, §§ 48. 65; J. G. DARJES: Elementa metaphysices (<sup>2</sup>1753) 1, 75.</li>\n<li id=\"fn0-14\" value=\"14\">G. B. BILFINGER: Dilucidationes philosophicae (1725) § 270; vgl. dazu BAUMEISTER, a.a.O. [4] § 51.</li>\n<li id=\"fn0-15\" value=\"15\">A. F. MÜLLER: Einl. in die philos. Wiss. 2 (1733) 29ff.</li>\n<li id=\"fn0-16\" value=\"16\">CHR. A. CRUSIUS: Entwurf der notwendigen Vernunft-Wahrheiten (1745) § 57; De usu et limitibus principii rationis determinantis vulgo sufficientis (1743), in: Opusc. (1750) 152–294.</li>\n<li id=\"fn0-17\" value=\"17\">KANT, KrV B 284; vgl. auch die Vorlesungsnachschriften zur Met., Akad.-A. 28/1, 412f. 494; G. S. A. MELLIN: Encyclop. Wb. 2 (1799) 35.</li>\n<li id=\"fn0-18\" value=\"18\">THOMAS VON AQUIN, S. contra gent. I, 42.</li>\n</ol>",
+ "prev":{"id":503,"lemma":"Communes conceptiones","band":"1","col":1024},
+ "next":{"id":505,"lemma":"Complexe significabile","band":"1","col":1026},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Grund, zureichender","qualifier":"","band":"1","col":"1025"},
+  {"term":"Verwirklichung","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":11,"name":"Ch. Wolff","b":2,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":519,"name":"F. Ch. Baumeister","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":103,"name":"G. F. Meier","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":150,"name":"Ch. A. Crusius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":410,"name":"A. Müller","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":647,"name":"G. B. Bilfinger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":48,"name":"A. G. Baumgarten","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":38,"name":"Joh. Duns Scotus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":123,"name":"Avicenna","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":187,"name":"E. Gilson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":765,"name":"G. S. A. Mellin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":788,"name":"B. Keckermann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1105,"name":"J. G. Darjes","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2977,"name":"L. Ph. Thümmig","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2976,"name":"Alfarabi","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":4009,"name":"J. N. Frobesius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":19783,"name":"Bartholomäus Keckermann","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2225,"name":"J. Bergmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3188,"name":"I. Pape","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":406,"name":"L. Oeing-Hanhoff","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":863,"lemma":"Existenz, existentia","tf":9},
+  {"id":832,"lemma":"Essenz, essentia","tf":3},
+  {"id":3419,"lemma":"Vermögen; Vermögenspsychologie","tf":4},
+  {"id":527,"lemma":"Dasein","tf":3},
+  {"id":535,"lemma":"Definition","tf":3},
+  {"id":3620,"lemma":"Wille","tf":2},
+  {"id":3628,"lemma":"Wirklichkeit","tf":2}
+ ],
+ "see_also":[
+  {"id":83,"lemma":"Akt/Potenz"},
+  {"id":527,"lemma":"Dasein"},
+  {"id":863,"lemma":"Existenz, existentia"}
+ ],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Complementum possibilitatis"}],
+ "reg_authors":[{"name":"Schepers Heinrich","n":22}]
+}
+);

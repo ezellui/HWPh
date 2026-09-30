@@ -1,0 +1,12 @@
+HWPH.put("t/969",
+{
+ "b":"Fundamentaltheologie wird teilweise synonym mit ‹Apologetik› gebraucht. Die F. erarbeitet Voraussetzungen und Grundlagen der katholischen Theologie, vor allem die rationalen Glaubwürdigkeitsgründe für den Offenbarungsanspruch der glaubenverpflichtenden Kirchenlehre . Anstelle bloßer Glaubensverteidigung (Apologie, 1. Petr. 3, 15) wurde seit dem 19. Jh., auch unter Einfluß des idealistischen Systemdenkens (SCHLEIERMACHER, J. S. v. DREY ) Darstellung der Glaubensgründe selbst erstrebt, wodurch das Wort ‹Apologetik› meist durch ‹F.› ersetzt wurde. Traditioneller Lehraufbau: Demonstratio religiosa (philosophische Gotteserkenntnis und Möglichkeit einer Wortoffenbarung Gottes), demonstratio christiana (konkret-geschichtliche Offenbarung, in Christus zentrierend), demonstratio catholica (Kirche als deren Sachwalterin), welcher Teil häufig einen apologetischen und einen dogmatischen Abschnitt (Kirchliches Lehramt, Schrift, Tradition u.a.) umfaßt . Die deutsche Theologie (beeinflußt von Aufklärung und Idealismus) verstand unter ‹F.› nur «die systematische Rechtfertigung der einen wahren Religion, Offenbarung und Kirche auf Grundlage der natürlichen Erfahrung und Vernunft» . Neuerdings (K. RAHNER, G. SÖHNGEN) wird Vertiefung der F. im Sinn einer theologischen Wissenschaftslehre vorgeschlagen .",
+ "n":"Vaticanum 1. DENZINGER/SCHÖNMETZER 3019. 3009. \nVgl. J. S. v. DREY: Kurze Einl. in das Studium der Theol. (1819); Die Apologetik als wiss. Nachweisung der Göttlichkeit des Christentums (1838–1847). \nVgl. A. MICHEL: Fondamentale ou générale théol. Dict. Théol. cath. 6 (Paris 1920) 514–523. \nA. SEITZ: Art. ‹Apologetik›. Lex. Theol. u. Kirche (= LThK) 1 (1930) 552. \nK. RAHNER: Aufriß einer Dogmatik. Schriften 1 (1962) 29–34; Art. ‹Dogmatik›. LThK 3 (21959) 446–454; ‹Formale und Fundamentale Theol.›. LThK 4 (21960) 205f.; G. SÖHNGEN: F. LThK 4 (21960) 452–459; H. VORGRIMLER: Die ‹apologetische› Thematik der F. im besonderen. LThK 42, 459f.",
+ "l":"K. RAHNER: Hörer des Wortes. Zur Grundlegung einer Religionsphilos. (21963). – A. LANG: F. 1. 2 (31963); Die Entfaltung des apologet. Problems in der Scholastik des MA (1962). – A. DARLAP und H. FRIES, in: J. F. FEINER/M. LÖHRER (Hg.): Mysterium salutis 1 (1966). – A. KOLPING: F. 1 (1968); 2 (1971) mit Lit.",
+ "au":"A. Kolping",
+ "A":["A. Kolping"],
+ "cb":[[0,1135],[72,1136]],
+ "cn":[[0,1135],[48,1135],[199,1135],[291,1135],[366,1135]],
+ "cl":[[0,1136]]
+}
+);

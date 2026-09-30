@@ -1,0 +1,77 @@
+HWPH.put("a/2703",
+{
+ "id":2703,
+ "lemma":"Revisionismus",
+ "band":"8",
+ "kind":"article",
+ "col_from":951,
+ "col_to":953,
+ "pdf_from":33106,
+ "pdf_to":33113,
+ "authors":["I. Fetscher"],
+ "n_notes":14,
+ "n_chars":9798,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Revisionismus. Der Begriff ‹R.› konnte entstehen, als Teile der Arbeiterbewegung – insbesondere in Deutschland, Österreich und Rußland – auf die marxistische Theorie eingeschworen waren. Als Revisionist konnte nun bezeichnet werden, wer, von den Schriften von Marx herkommend, einzelne seiner Aussagen oder Theoreme in Frage stellte. Wer sich hingegen – wie z.B. J. Jaurès – nie als Marxist bezeichnet hatte, entging dem zumeist herabsetzend gemeinten Epitheton.</p>\n<p>Als sich gegen Ende des 19. Jh. abzeichnete, daß die Stärke der Gewerkschaften und Arbeiterparteien die Möglichkeit einer unmittelbaren praktischen Beeinflussung der Politik und der Lohn- und Arbeitsverhältnisse bot, verlagerten Gewerkschafter – nicht nur im Deutschen Reich – das Schwergewicht ihrer Tätigkeit auf Reformen. Wo diese Tätigkeit gegenüber dem «revolutionären Fernziel» die Oberhand gewann, sprachen Kritiker von «Reformismus». Sie verstanden darunter eine Politik, die im Interesse der Lohnabhängigen durch politischen Druck, Streiks, Wahlen usw. Reformen durchzusetzen sucht und – wenn auch nicht prinzipiell – auf eine revolutionäre Veränderung der Gesellschaft verzichtet. An dieser Beurteilung hielten orthodoxe Positionen, deren Existenz überhaupt den Vorwand des R.-Vorwurfs abgab, bis zuletzt fest. Ihnen zufolge bestand die Funktion des R. darin, «innerhalb der <i>revolutionären Arbeiterbewegung</i> in marxistischer Verkleidung den Opportunismus zu rechtfertigen, die revolutionäre Politik der marxistisch-leninistischen Parteien opportunistisch aufzuweichen» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In dieser Verwendung wurden die Begriffe ‹Reformismus› und ‹R.› «nahezu synonym» <sup class=\"fn\" data-fn=\"0-2\">2</sup> verwendet, wobei man allerdings den Sozialreformismus außerhalb und den R. innerhalb der marxistischen Tradition am Werk sah.</p>\n<p>In der deutschen Sozialdemokratie verschafften vor allem die Schriften von E. BERNSTEIN dem R. ein theoretisches Fundament. Während bis dahin ein wortradikaler Marxismus und ein demokratischer Reformismus zueinander in Widerspruch standen, versuchte Bernstein, Theorie und Praxis der Sozialdemokratie zusammenzubringen, indem er die Theorie für eine erfolgversprechende reformerische Praxis entwickelte. Seine Theorie enthielt Korrekturen an Aussagen von Marx bzw. der zeitgenössischen Marxisten sowie empirische Analysen der entwickelten kapitalistischen Industriegesellschaft. An Marx kritisierte er die Anleihen bei der Hegelschen Dialektik, die ihn dazu verleitet habe, die Heraufkunft einer revolutionären Krise und des Sozialismus als geschichtsphilosophisch notwendig anzunehmen und, ohne empirische Beweise, eine Zuspitzung des Klassenkampfs zu unterstellen. <span class=\"col\" data-col=\"952\"></span> Die Krisenanfälligkeit der kapitalistischen Produktionsweise sei von Marx erheblich überschätzt worden. Dabei verminderten Kartellabsprachen und andere Maßnahmen das Risiko der Überproduktion, und auch die Aktionen der Gewerkschaften hätten die Mechanismen der Wirtschaft verändert. «Der ‘Geschichte ehernes Mußʼ erhält auf diese Weise eine Einschränkung», erläutert Bernstein, die für die Praxis der Sozialdemokratie «eine Steigerung und Qualifizierung der sozialpolitischen Aufgaben» bedeute <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Es komme darauf an, die Entwicklung des Sozialismus voranzutreiben. Anregungen aus dem Kreis der Neukantianer aufgreifend, verstand Bernstein unter ‹Sozialismus› eine Art regulativer Idee, ein Ideal, das nie vollständig zu erreichen ist. So muß auch sein viel gescholtener Ausspruch: «das Ziel, was immer es sei, ist mir gar nichts, die Bewegung alles» <sup class=\"fn\" data-fn=\"0-4\">4</sup>, gedeutet werden. Es kommt Bernstein darauf an, die Entwicklung dem Fernziel anzunähern. ‹R.› so resümiert er selbst, «ein Wort, das im Grunde nur für theoretische Fragen Sinn hat, heißt ins Politische übersetzt: Reformismus, Politik der systematischen Reformarbeit im Gegensatz zur Politik, der eine revolutionäre Katastrophe als gewolltes oder für unvermeidlich erkanntes Stadium der Bewegung vor Augen schwebt» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Freilich bleibt der Begriff auch für ihn problematisch. «Der Name Revisionist ist ein aufgedrängter, von Dritten gebildeter, kein frei gewählter Name» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Der R.-Streit bildete seit den Parteitagen in Stuttgart (1898) und Hannover (1899) ein Hauptthema der inner- und außerparteilichen Auseinandersetzung. Wiederholt griffen A. BEBEL, K. KAUTSKY, W. LIEBKNECHT, R. LUXEMBURG und C. ZETKIN Bernsteins Position scharf an. Eine Artikelserie aus dem Jahr 1901 rückte den R. in die Nähe sozialreformerischer Bestrebungen, und A. PANNEKOEK deutete den R. als Mixtur aus «bürgerlicher Weltanschauung» und «proletarischer Gesinnung»: «Der Anarchismus ist die Ideologie des wildgewordenen, der R. die des zahmen Kleinbürgers» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Für F. MEHRING hingegen waren «die Kriegsnamen der Marxisten und Revisionisten hohle Schlagworte». Stets hätte sich gerade die als «orthodox» gescholtenen Marxisten bereit gezeigt, «die wissenschaftlichen Resultate ... nach der wissenschaftlichen Methode» von Marx und Engels «zu revidieren». Wer allerdings, wie der R. Bernsteins, diese Grundlage verlasse, treibe zwischen Eklektizismus und Skeptizismus steuerlos umher. «Sein eigentliches Wesen ist die Wesenlosigkeit» <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Der Ton verschärft sich weiter, als W. I. LENIN in die Kontroverse eingreift und den mit dem Namen des «ehemals orthodoxen Marxisten Bernstein» verbundenen R. «auf die längst bekannten bürgerlich-liberalen Anschauungen» zurückzuführen sucht <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Lenin hält <span class=\"col\" data-col=\"953\"></span> den R. für unvermeidlich, da er in den verschiedenen Ländern die unterschiedliche Lage des Kleinbürgertums unmittelbar zum Ausdruck bringe. «Die Haltung von Fall zu Fall festlegen, sich an Tagesereignisse, sich an das Auf und Ab im politischen Kleinkram anpassen, die Grundinteressen des Proletariats, die Grundzüge der ganzen kapitalistischen Ordnung und die gesamte kapitalistische Entwicklung vergessen, diese Grundinteressen um wirklicher oder vermeintlicher Augenblicksvorteile willen opfern – darin besteht die revisionistische Politik» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. An gleicher Stelle unterscheidet Lenin diesen «R. von rechts» von einem «R. von links», den er auf die Positionen Labriolas in Italien und Lagardelles in Frankreich bezieht. Damit wird der Begriff endgültig zu einer ideologischen Formel, die in erster Linie der Denunziation des politischen Gegners dient. Auf dem 5. Weltkongreß der Kommunistischen Internationale müssen sich G. LUKÁCS und K. KORSCH bezichtigen lassen: «Einen solchen theoretischen R. können wir in unserer Kommunistischen Internationale nicht dulden» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Unter J. W. STALIN und teilweise noch unter seinen Nachfolgern wird der Vorwurf des R. immer weiter ausgedehnt. Zunächst verfällt Titos Jugoslawien 1948 diesem Verdikt, später auch Mao Tse-tungs Volksrepublik China, die ihrerseits den Sowjetmarxismus als revisionistisch verurteilt. Vor allem nach dem XX. Parteitag der KPdSU (1956) und der offiziellen Verurteilung der Stalinschen Verbrechen durch Chruschtschow wandte sich MAO TSE-TUNG gegen die sowjetische Parteiführung, die den Weg des Kapitalismus eingeschlagen habe. Der Vorwurf des R. ließ sich selbstverständlich wiederum an Mao zurückgeben <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>‹R.› ist in der Politik gewöhnlich ein Schimpfwort. Es kann immer dann gebraucht werden, wenn eine Partei oder eine andere Organisation (etwa auch eine Kirche) sich auf ein geschlossenes System verpflichtet hat. Nur unter dieser Voraussetzung ist eine Korrektur oder Weiterentwicklung der Theorie eine – zu verurteilende – ‘Revisionʼ. Zwar könnte man diesen Terminus auch ohne herabsetzende Konnotationen gebrauchen, aber faktisch hat er – von Ausnahmen abgesehen <sup class=\"fn\" data-fn=\"0-13\">13</sup> – zumeist diese kritische und abwertende Tendenz. LUKÁCS soll einmal ironisch angemerkt haben, in den kommunistischen Parteien sei Intelligenz schon eine «Abweichung». Ein Abweichler aber ist allemal ein Revisionist. R., schrieb BERNSTEIN, «ist jede neue Wahrheit, jede neue Erkenntnis, und da die Entwicklung keinen Stillstand kennt, da mit den Bedingungen des Kampfes auch seine Formen dem Gesetz der Veränderung unterworfen sind, wird es auch immer in Praxis wie Theorie R. geben» <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Die wissenschaftliche Leistung von Marx, seine monumentale «Kritik der politischen Ökonomie», darf nicht als geschlossenes Glaubenssystem verstanden werden.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">L. LABEDZ: Der R. (1965). – C. F. ELLIOTT: Quis Custodiet Sacra? Problems of Marxist revisionism. J. Hist. Ideas 28 (1967). – E. BERNSTEIN: Texte zum R., hg. H. HEIMANN (1977). – H. GREBING s. Anm. [12]. – L. KOLAKOWSKI: Bernstein und der R., in: Hauptström. des Marxismus (1978) 2, 117ff. -1. FETSCHER: Bernstein e la sfida dell'ortodossia, in: E. HOBSBAWM u.a. (Hg.): Storia del Marxismo (Turin 1979) 2, 237ff. – D. COATES: Art. ‹Revisionism›, in: T. BOTTOMORE (Hg.): A dict. of Marxist thought (Oxford 1983) 423ff.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"953\"></span> Art. ‹R.›, in: G. KLAUS/M. BUHR (Hg.): Marxist.-Leninist. Wb. der Philos. (<sup>10</sup>1972) 1055; vgl. Philos. R. – Quellen, Argumente, Funktionen im ideolog. Klassenkampf (1977).</li>\n<li id=\"fn0-2\" value=\"2\">H.-P. JÄGER: E. Bernsteins Panorama. Versuch, den R. zu deuten (1982) 11.</li>\n<li id=\"fn0-3\" value=\"3\">E. BERNSTEIN: Die Voraussetz, des Sozialismus und die Aufgaben der Sozialdemokratie [1899] (1975) 40f.</li>\n<li id=\"fn0-4\" value=\"4\">Der Kampf der Sozialdemokratie und die Revolution der Ges. Die Neue Zeit 16 (1897/98) 556.</li>\n<li id=\"fn0-5\" value=\"5\">Der R. in der Sozialdemokratie (1909), in: H. HIRSCH (Hg.): Ein revisionist. Sozialismusbild (1966) 130.</li>\n<li id=\"fn0-6\" value=\"6\">a.O. 95.</li>\n<li id=\"fn0-7\" value=\"7\">A. PANNEKOEK: Die taktischen Differenzen in der Arbeiterbewegung (1909) 39f.</li>\n<li id=\"fn0-8\" value=\"8\">F. MEHRING: Gesch. der dtsch. Sozialdemokratie (1898, <sup>5</sup>1913). Ges. Schr. (1960ff.) 2, 701.</li>\n<li id=\"fn0-9\" value=\"9\">W. I. LENIN: Marxismus und R. (1906). Werke 15 (1974) 20f.</li>\n<li id=\"fn0-10\" value=\"10\">a.O. 26.</li>\n<li id=\"fn0-11\" value=\"11\">G. SINOWJEW: Ber. über die Tätigkeit der Exekutive, Protokoll des V. Weltkongr. der Komm. Intern., 17. 6.–8. 7. 1924 in Moskau, vgl. G. LUKÁCS: Werkauswahl, hg. P. LUDZ (<sup>2</sup>1973) 2, 719ff.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. H. GREBING: Der R. von Bernstein bis zum ‘Prager Frühlingʼ (1977) bes. 268ff.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. E. FISCHER: Epilog zu ‘Kunst und Koexistenzʼ. Club Voltaire 3 (1967) 298.</li>\n<li id=\"fn0-14\" value=\"14\">BERNSTEIN, a.O. [3] 28.</li>\n</ol>",
+ "prev":{"id":2702,"lemma":"Reue","band":"8","col":944},
+ "next":{"id":2704,"lemma":"Revolte","band":"8","col":954},
+ "backlinks":[
+  {"id":2638,"lemma":"Reform","n":1},
+  {"id":2686,"lemma":"Repräsentation","n":1},
+  {"id":2947,"lemma":"Sozialismus","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Abweichung (pol.)","qualifier":"","band":"8","col":"953"},
+  {"term":"Reformismus","qualifier":"","band":null,"col":null},
+  {"term":"Sozialismus","qualifier":"","band":"8","col":"952"}
+ ],
+ "persons":[
+  {"id":602,"name":"E. Bernstein","b":2,"n":2,"l":1,"editor":0,"role":"source"},
+  {"id":135,"name":"W. I. Lenin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2101,"name":"F. Mehring","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3063,"name":"A. Pannekoek","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4179,"name":"H. Grebing","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":157,"name":"K. Fischer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":475,"name":"G. Klaus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":471,"name":"K. Kautsky","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":783,"name":"J. W. Stalin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1172,"name":"K. Korsch","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1837,"name":"W. Jäger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1229,"name":"R. Luxemburg","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1689,"name":"Mao Tse-Tung","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":2124,"name":"A. Bebel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":5152,"name":"W. Liebknecht","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9339,"name":"C. Zetkin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":15293,"name":"A. A. Sinowjew","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":689,"name":"L. Kolakowski","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":4831,"name":"E. J. Hobsbawm","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":12195,"name":"H. Heimann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13930,"name":"L. Labedz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":17106,"name":"T. Bottomore","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":27740,"name":"C. F. Elliott","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":27741,"name":"D. Coates","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":129,"name":"E. Hirsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":710,"name":"M. Buhr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":5006,"name":"P. Ludz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2396,"lemma":"Politik","tf":7},
+  {"id":2281,"lemma":"Partei","tf":3},
+  {"id":2448,"lemma":"Praxis, praktisch","tf":4},
+  {"id":2066,"lemma":"Name","tf":3},
+  {"id":3543,"lemma":"Wandel; Veränderung","tf":2},
+  {"id":309,"lemma":"Aussage","tf":2},
+  {"id":408,"lemma":"Bewegung","tf":2},
+  {"id":890,"lemma":"Fall, Abfall","tf":2},
+  {"id":2781,"lemma":"Schrift","tf":2}
+ ],
+ "see_also":[{"id":1871,"lemma":"Marxismus"}],
+ "groups":[
+  {"id":23,"name":"Marxismus","label":"Revisionismus"},
+  {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Revisionismus"}
+ ],
+ "reg_authors":[{"name":"Feldhoff Jürgen","n":7},{"name":"Red","n":242}]
+}
+);

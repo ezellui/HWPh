@@ -1,0 +1,45 @@
+HWPH.put("a/436",
+{
+ "id":436,
+ "lemma":"Bildungsphilister",
+ "band":"1",
+ "kind":"article",
+ "col_from":937,
+ "col_to":938,
+ "pdf_from":3248,
+ "pdf_to":3251,
+ "authors":["Konrad Gründer"],
+ "n_notes":13,
+ "n_chars":3514,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Bildungsphilister ist die zentrale Kategorie der Kultur- und Bildungskritik NIETZSCHES in den ‹Unzeitgemäßen Betrachtungen›, namentlich in deren erster <sup class=\"fn\" data-fn=\"0-1\">1</sup>, und ist dort exemplarisch bezogen auf D. <span class=\"col\" data-col=\"938\"></span> F. STRAUSS und seine Spätschrift ‹Der alte und der neue Glaube› (1872) sowie auf FR. TH. VISCHERS Hölderlinrede vom 1. Mai 1873. Obgleich Nietzsche den B. vom klassischen Philister ausdrücklich abzuheben gedenkt, indem er ihn durch den «Mangel jeder Selbsterkenntnis», d.h. durch falsches Bewußtsein, definiert – er «wähnt selber Musensohn und Kulturmensch zu sein» <sup class=\"fn\" data-fn=\"0-2\">2</sup> –, akzentuiert er damit nur ein Moment, das spätestens seit der romantischen Philistersatire und der jungdeutschen und junghegelianischen Philisterpolemik stets mitgemeint war. Er kann daher auch neben ‹B.› und den Varianten ‹gebildeter Philister› <sup class=\"fn\" data-fn=\"0-3\">3</sup>, ‹Kulturphilister› <sup class=\"fn\" data-fn=\"0-4\">4</sup> synonym und sogar überwiegend das Simplex ‹Philister› <sup class=\"fn\" data-fn=\"0-5\">5</sup> verwenden und mit diesem zugleich – in direkter Orientierung an SCHOPENHAUERS Beschreibung <sup class=\"fn\" data-fn=\"0-6\">6</sup> – alle herkömmlichen Philisterattribute wiederaufnehmen: geistige Bedürfnislosigkeit, selbstzufriedener Optimismus, Mangel an ästhetischem Sinn, Vulgarität der Gesinnung, Unduldsamkeit, Feigheit usw.; vice versa hat die wortgeschichtliche Forschung dem Anspruch Nietzsches auf Urheberschaft des Wortes ‹B.› <sup class=\"fn\" data-fn=\"0-7\">7</sup> alsbald widersprochen und dessen Gebrauch bereits bei R. HAYM <sup class=\"fn\" data-fn=\"0-8\">8</sup>, J. SCHERR <sup class=\"fn\" data-fn=\"0-9\">9</sup>, H. LEO <sup class=\"fn\" data-fn=\"0-10\">10</sup> und BETTINA VON ARNIM <sup class=\"fn\" data-fn=\"0-11\">11</sup> nachgewiesen.</p>\n<p>Die Beobachtung, daß NIETZSCHE sich des in wahllosem Gebrauch strapazierten und zur Denunzierungsformel gewordenen Philisterbegriffs in den kulturkritischen Vorträgen ‹Über die Zukunft unserer Bildungsanstalten› (Anfang 1872) <i>noch nicht</i> und seit ‹Menschliches, Allzumenschliches› (1878) so gut wie <i>nicht mehr</i> bedient, daß ferner die Koalition des «Gebildeten» mit dem «Philister» zuerst Ende 1872 in den ‹Fünf Vorreden› für Cosima Wagner <sup class=\"fn\" data-fn=\"0-12\">12</sup> sowie Anfang 1873 in den ‹Bayreuther Horizontbetrachtungen› <sup class=\"fn\" data-fn=\"0-13\">13</sup> thematisch wird, läßt seine Philisterpolemik in engem Zusammenhang mit dem episodischen Versuch sehen, die als förmliche Verschwörung interpretierte Herrschaft der geltenden kulturellen und kulturpolitischen Normierungen, innerhalb deren der Philosophie Schopenhauers und der Musik Wagners die gebührende Anerkennung und Wirkung versagt zu bleiben schien, zu erschüttern.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">K. JOËL: Nietzsche und die Romantik (1905) 136ff. – CH. ANDLER: Nietzsche, sa vie et sa pensée 1 (Paris <sup>4</sup>1958) 476–512. – K. LÖWITH: Von Hegel zu Nietzsche. Der revolutionäre Bruch im Denken des 19. Jh. (<sup>3</sup>1953) 326ff. – A. GÖTZE: B. Neue Jb. klass. Altertum, Gesch. u. dtsch. Lit. 24 (1921) 453. H. MEYER: Der B. Zarte Empirie. Studien zur Lit.-Gesch. (1963) 179–201.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Unzeitgemäße Betrachtungen. 1. Stück: David Strauß, der Bekenner und der Schriftsteller (1873). Musarion-A. 6, 129–220.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 6, 137/138.</li>\n<li id=\"fn0-3\" value=\"3\">6, 139. 184.</li>\n<li id=\"fn0-4\" value=\"4\">6, 171.</li>\n<li id=\"fn0-5\" value=\"5\">6, 139. 140. 141. 143. 144 usw.</li>\n<li id=\"fn0-6\" value=\"6\">Parerga und Paralipomena (<sup>1</sup>1851, <sup>2</sup>1862). Sämtl. Werke, hg. A. HÜBSCHER 5 (<sup>2</sup>1946) 364ff.</li>\n<li id=\"fn0-7\" value=\"7\">1886 in der «Vorrede» zur Neuausgabe des 2. Bd. von ‹Menschliches, Allzumenschliches› a.a.O. [1] 9, 4 u.ö.</li>\n<li id=\"fn0-8\" value=\"8\">R. HAYM: Die Romantische Schule (1870) 88.</li>\n<li id=\"fn0-9\" value=\"9\">Studien 2 (1865) 298. 363f.</li>\n<li id=\"fn0-10\" value=\"10\">In seinen Hallenser Vorlesungen um 1860, wie A. GOMBERT, Z. dtsch. Wortforsch. 2 (1902) 61/62, bezeugt.</li>\n<li id=\"fn0-11\" value=\"11\">Ilius Pamphilius und die Ambrosia (1848), Werke und Briefe, hg. G. KONRAD 2 (1959) 517.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. Das Verhältnis der schopenhauerischen Philos. zu einer dtsch. Kultur a.a.O. [1] 7, 1–7.</li>\n<li id=\"fn0-13\" value=\"13\">«Der Philister und der windige ‹Gebildete› unserer Zeitungsatmosphäre reichen sich brüderlich die Hand ...» a.a.O. 7, 235.</li>\n</ol>",
+ "prev":{"id":435,"lemma":"Bildung","band":"1","col":921},
+ "next":{"id":437,"lemma":"Bildungswissen","band":"1","col":938},
+ "backlinks":[{"id":3728,"lemma":"Zynismus; zynisch","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Kulturphilister","qualifier":"(Nietzsche)","band":"1","col":"938"},
+  {"term":"Philister","qualifier":"(Nietzsche)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":10,"name":"F. Nietzsche","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1322,"name":"R. Haym","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":215,"name":"D. F. Strauss","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":258,"name":"F. Th. Vischer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4334,"name":"F. Konrad","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3674,"name":"A. Gombert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10688,"name":"J. Scherr","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":19707,"name":"Bettina von Arnim","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":185,"name":"K. Löwith","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":814,"name":"H. Meyer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1718,"name":"A. Götze","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6244,"name":"Ch. Andler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":85,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Bildungsphilister (Nietzsche)"}],
+ "reg_authors":[{"name":"Gründer Konrad","n":2}]
+}
+);

@@ -1,0 +1,38 @@
+HWPH.put("a/2238",
+{
+ "id":2238,
+ "lemma":"Ordo ordinans/ordinatus",
+ "band":"6",
+ "kind":"article",
+ "col_from":1316,
+ "col_to":1317,
+ "pdf_from":24465,
+ "pdf_to":24467,
+ "authors":["Red"],
+ "n_notes":9,
+ "n_chars":2876,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Ordo ordinans/ordinatus. Diese in der lateinischen Tradition bisher nicht buchstäblich belegte Unterscheidung führt J. G. FICHTE 1800 ein, um seine Gleichsetzung Gottes mit der lebendigen und wirkenden moralischen Weltordnung gegen den Pantheismusverdacht abzusichern. In seinem philosophischen Sprachgebrauch sei Ordnung immer ein «thätiges Ordnen» (O. ordinans) und nicht ein gemachtes, schon fertiges Neben- und Nacheinandersein (O. ordinatus) <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Ein Hinweis auf Spinoza <sup class=\"fn\" data-fn=\"0-2\">2</sup> legt die Vermutung nahe, daß er dieses Begriffspaar nach dem Modell der Unterscheidung von natura naturans und naturata entwickelt hat. Auf katholischer Seite hat man die Bestimmung der moralischen Ordnung als O. ordinans sogleich als einen Rückgriff auf die Sprache der Scholastik verstanden, der sich aus der Geschichte, «vorzüglich aus Augustin», leicht erhärten lasse <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Für AUGUSTIN wie für die Scholastik ist Gott jedoch über und vor aller Ordnung <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Noch JOHANNES a SANCTO THOMA hat darum die Formel natura naturans nur im Sinne von «ordinans naturam» zugelassen. Gott sei weniger selbst Natur als vielmehr ihr Ursprung und Prinzip <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Entsprechend hat auch die Philosophie des Mittelalters dort, wo sie die Momente des Ordnens und Geordnetseins unterschieden hat, zwar die Ordnung auf Gott als ordinator <span class=\"col\" data-col=\"1317\"></span> zurückgeführt, nicht aber den Ordnungsbegriff selbst von ihm prädiziert. So gibt es für ALBERTUS MAGNUS zwei verschiedene Weisen, die Welt unter Ordnungsgesichtspunkten zu betrachten. Ungeordnetes gibt es in der Welt nur in Rücksicht der geordneten Dinge (O. rei ordinatae), nicht jedoch der ordnenden Weisheit Gottes (O. sapientiae ordinantis) <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Ähnlich meint AUGUSTIN, wenn er von einem ordo naturae in Gott spricht, nach der Meinung von ALEXANDER VON HALES, BONAVENTURA und anderen nicht, daß die göttliche Natur geordnet wird, sondern daß die ratio ordinis zu ihrem Begriff gehört. Ordnung nämlich könne von etwas entweder «sicut ordinati» (respectu eius quod ordinatur) oder «sicut rationis ordinandi» (respectu eius quod est ratio ordinis) ausgesagt werden <sup class=\"fn\" data-fn=\"0-7\">7</sup>. R. EISLER hat in der der Erde anfänglich von Gott eingegebenen, fermentierenden Ordnungskraft J. B. van HELMONTS eine frühe Ausprägung des O. ordinans gesehen. Das unmittelbare aktive Konstitutionsprinzip der Dinge ist für diesen jedoch der «Archeus seminalis» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Sodann ist die moralische Ordnung nach FICHTE nichts Inneres, sondern liegt außerhalb der endlichen moralischen Wesen <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1317\"></span> J. G. FICHTE, Akad.-A. I/6 (1981) 373f.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. Akad.-A. III/4 (1973) 180.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. [1] 367.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. H. KRINGS: Ordo (1941) 65, Anm. 21.</li>\n<li id=\"fn0-5\" value=\"5\">J. a SANCTO THOMA, Cursus philos. thomisticus 2 (Turin 1933) 171a.</li>\n<li id=\"fn0-6\" value=\"6\">ALBERTUS MAGNUS, S. theol. II, tr. 11, q. 63, m. 1, sol.</li>\n<li id=\"fn0-7\" value=\"7\">ALEXANDER VON HALES, S. theol. 1 (Quaracchi 1924) 473; BONAVENTURA, I Sent., d. 20, a. 2, q. 2, sol.</li>\n<li id=\"fn0-8\" value=\"8\">I. B. van HELMONT: Ortus medicinae (Amsterdam 1652) 27f. 30.</li>\n<li id=\"fn0-9\" value=\"9\">J. G. FICHTE, a.O. [1] 383.</li>\n</ol>",
+ "prev":{"id":2237,"lemma":"Ordnungspolitik","band":"6","col":1315},
+ "next":{"id":2239,"lemma":"Organ","band":"6","col":1317},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":12,"name":"J. G. Fichte","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":7,"name":"Augustinus","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":55,"name":"Albertus Magnus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":53,"name":"Bonaventura","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":224,"name":"Alexander von Hales","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1278,"name":"J. B. van Helmont","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1631,"name":"Sancto Thoma","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":536,"name":"Johannes","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":524,"name":"R. Eisler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":630,"name":"H. Krings","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":2233,"lemma":"Ordnung","tf":6},{"id":2775,"lemma":"Scholastik","tf":2}],
+ "see_also":[{"id":2233,"lemma":"Ordnung"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Ordo ordinans/ordinatus"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

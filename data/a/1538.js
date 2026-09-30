@@ -1,0 +1,47 @@
+HWPH.put("a/1538",
+{
+ "id":1538,
+ "lemma":"Kategorema, kategorematisch",
+ "band":"4",
+ "kind":"article",
+ "col_from":712,
+ "col_to":713,
+ "pdf_from":13605,
+ "pdf_to":13607,
+ "authors":["H. M. Baumgartner"],
+ "n_notes":6,
+ "n_chars":2904,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Kategorema, kategorematisch (von griech. κατηγόρημα, das von jemandem Ausgesagte, Punkt der Anklage; bzw. von lat. categorematicus, etwas Bestimmtes bedeutend) dient als metalogischer Begriff in den semiotischen Theorien der <i>neueren scholastischen Logik</i> zur Bezeichnung der semantisch selbständigen, eine feststehende gegenständliche Bedeutung besitzenden, vollständigen Ausdrücke, Zeichen bzw. Zeichenkombinationen (Namen) im Unterschied zu den inhaltlich unvollständigen, semantisch unselbständigen, d.h. rein funktionalen Zeichen, insbesondere zu den sogenannten logischen Konstanten, die nur im Kontext mit anderen, selbständigen Zeichen eine eigene materiale Bedeutung gewinnen <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Während Kategorema (K.) bei ARISTOTELES ursprünglich allein den prädikativen Teil des Satzes bezeichnet <sup class=\"fn\" data-fn=\"0-2\">2</sup> – was BOETHIUS durch seine Übersetzung mit «praedicatum» bestätigt <sup class=\"fn\" data-fn=\"0-3\">3</sup> – und die <i>stoischen</i> Philosophen zum Teil das aristotelische Verständnis übernehmen <sup class=\"fn\" data-fn=\"0-4\">4</sup>, zum Teil aber den Gebrauch des Wortes ‹K.› im Zusammenhang ihrer Lehre von den unvollständigen Urteilen auf bloß verbale Prädikate einschränken <sup class=\"fn\" data-fn=\"0-5\">5</sup>, findet sich der neuere semantische Gebrauch erst im Zusammenhang terminologischer Erörterungen der <i>scholastischen Logica Modernorum.</i> So schreibt etwa WILHELM VON <span class=\"col\" data-col=\"713\"></span> OCKHAM: «Die kategorematischen Termini haben eine bestimmte und feststehende (certam) Bedeutung; wie [etwa] das Nomen ‹Mensch› alle Menschen und das Nomen ‹Lebewesen› alle Lebewesen und das Nomen ‹Weißsein› jedes Weißsein bezeichnet. Die synkategorematischen Termini aber, zu denen [etwa] ‹jeder›, ‹kein›, ‹irgendein›, ‹ganz›, ‹außer›, ‹nur›, ‹insofern als› und ähnliche gehören, haben keine bestimmte und feststehende Bedeutung, und sie bedeuten auch nicht gewisse Dinge, die von den durch die K. bedeuteten verschieden sind. ... So bedeutet das Synkategorem im eigentlichen Sinne nichts, sondern macht vielmehr, zu einem anderen [Zeichen] hinzugefügt, dieses etwas bedeuten, oder macht es für etwas oder einiges in einer bestimmten Weise stehen, oder übt sonst eine Funktion (officium) bei einem K. aus» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">C. PRANTL: Gesch. der Logik im Abendlande 1–4 (1855–1870, ND 1955), bes. Bde. 1. 4. – I. M. BOCHENSKI: Formale Logik (1956). – W. v. QUINE: Word and object (London/ New York 1960) 132ff. – G. KÜNG: Ontol. und logist. Analyse der Sprache (1963) 128–132. 136–149. – G. BERGMANN: Logic and reality (Madison 1964) 129f. – J. PINBORG: Logik und Semantik im MA. Ein Überblick mit einem Nachwort von H. KOHLENBERGER (1972). – W. v. QUINE: Philos. der Logik (1973). – G. SCHENK: Zur Gesch. der log. Form 1 (1973).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"713\"></span> Vgl. E. HUSSERL: Log. Untersuch. 2 (1901) 293ff.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. ARISTOTELES, De Interpret. 20 b 32; Met. 1053 b 19; Top. 169 b 5; Phys. 201 a 1.</li>\n<li id=\"fn0-3\" value=\"3\">BOETHIUS, In Arist. De interpret. Com. MPL 64, 356.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. CICERO, Tusc. Disp. IV, 9, 21.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. SEXTUS EMPIRICUS, Pyrrh. Hyp. III, 4, 14; ebenso DIOGENES LAERTIUS VII, 63.</li>\n<li id=\"fn0-6\" value=\"6\">W. VON OCKHAM, S. log. I, 4, 3ff.</li>\n</ol>",
+ "prev":{"id":1537,"lemma":"Katechese","band":"4","col":710},
+ "next":{"id":1539,"lemma":"Kategorialanalyse","band":"4","col":713},
+ "backlinks":[
+  {"id":1893,"lemma":"Materie des Urteils","n":1},
+  {"id":3108,"lemma":"Synkategorem;synkategorematisch;synsemantisch","n":1}
+ ],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":25,"name":"Boethius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":62,"name":"Wilhelm von Ockham","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":59,"name":"Diogenes Laertius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":90,"name":"Sextus Empiricus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4529,"name":"W. von Ockham","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":143,"name":"W. V. O. Quine","b":0,"n":0,"l":2,"editor":0,"role":"mixed"},
+  {"id":260,"name":"C. Prantl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":663,"name":"G. Bergmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2160,"name":"G. Schenk","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4167,"name":"G. Küng","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8525,"name":"I. M. Bochenski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6670,"name":"H. Kohlenberger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":214,"name":"J. Pinborg","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":3673,"lemma":"Zeichen","tf":4}],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Kategorema"}],
+ "reg_authors":[{"name":"Baumgartner Hans-Michael","n":14}]
+}
+);

@@ -1,0 +1,105 @@
+HWPH.put("a/2232",
+{
+ "id":2232,
+ "lemma":"Ordinary Language Philosophy",
+ "band":"6",
+ "kind":"article",
+ "col_from":1246,
+ "col_to":1249,
+ "pdf_from":24249,
+ "pdf_to":24257,
+ "authors":["W. Lübbe","W. Lübbe/Th. Rentsch","E. Von Savigny"],
+ "n_notes":8,
+ "n_chars":10707,
+ "toc":[
+  ["p0","I. Die O. ist eine seit ihrer terminologischen Abgrenzung vom Idealsprach",1],
+  ["h6","Literaturhinweise",0],
+  ["p8","II. In den Untersuchungen der O. lassen sich vier Verfahren mit sehr versc",1],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p id=\"p0\">I. Die O. ist eine seit ihrer terminologischen Abgrenzung vom Idealsprachenprogramm («ideal language philosophy») des Wiener Kreises und des Logischen Empirismus durch G. BERGMANN <sup class=\"fn\" data-fn=\"0-1\">1</sup> allgemein so bezeichnete Richtung der <i>sprachanalytischen Philosophie</i> <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Sie tritt etwa ab 1930 in England auf und hat später den gesamten angelsächsischen Sprachraum beeinflußt. Zu unterscheidende Ursprünge und Ausprägungen der O. sind a) die <i>common-sense-Philosophie</i> von G. E. MOORE, b) die Philosophie des späteren L. WITTGENSTEIN in Cambridge und die <i>Cambridge School</i> (M. LAZEROWITZ, N. MALCOLM, G. A. PAUL, J. WISDOM) und c) die <i>Oxford School,</i> in der sich die durch G. RYLE vertretene Richtung von der J. L. AUSTINS unterscheiden läßt (weitere Vertreter I. BERLIN, R. M. HARE, S. HAMPSHIRE, H. L. A. HART, P. NOWELL-SMITH, P. F. STRAWSON, S. E. TOULMIN). Gemeinsam ist allen ein analytisch-deskriptiver Rückgang auf die Alltagssprache als Basis einer Kritik der Philosophie- und Wissenschaftssprache und der von ihr mitgeführten Mißverständnisse. Strebte der Logische Empirismus eine Konstruktion exakter Wissenschaftssprachen an, so ging es G. E. MOORE um eine Zurückführung problematisch erscheinender philosophischer Sprache auf problemlos verständliche Sätze. Seine Analysen streben nach einer Rechtfertigung des common sense und seiner Sicht der Wirklichkeit.</p>\n<p>Beeinflußt von G. E. Moore, aber auch sich abgrenzend, hat zuerst L. WITTGENSTEIN sich gegen die damals herrschende idealsprachliche Version der Metaphysik- und <a class=\"xref\" href=\"#/a/1946\">Sprachkritik</a> <span class=\"sd\">→ (s.d.)</span> gewandt. Dies ist durch die Protokolle F. WAISMANNS bereits gegen Ende der zwanziger Jahre anläßlich der Erläuterung des ‹Tractatus› in Ansätzen zu erkennen. Ab 1930 begann Wittgenstein seine Lehrtätigkeit in Cambridge. Er unterstrich den revolutionären, radikalen Charakter seiner Wende in programmatischen Reflexionen über seine rein deskriptive, ‘phänomenologischeʼ Methode. Dabei leitet ihn keineswegs ein Interesse an empirischen Beschreibungen faktischen Sprachgebrauchs. Die Bedeutung seines Rekurses auf die Alltagssprache ist vielmehr die Ersetzung der traditionellen transzendentalen Vernunftkritik durch Sprachanalyse. Insofern ist eine Kontinuität des ‹Tractatus› mit den erst postum (1953) erschienenen ‹Philosophischen Untersuchungen› zu konstatieren. In destruktiver Wendung sowohl gegen die Wissenschaftssprache (z.B. der Psychologie) als auch gegen die traditionelle metaphysische Philosophie sollen durch grammatische Analyse die Möglichkeitsbedingungen <span class=\"col\" data-col=\"1247\"></span> von <a class=\"xref\" href=\"#/a/2994\">Sprachspielen</a> <span class=\"sd\">→ (s.d.)</span> in situativ vergegenwärtigten <a class=\"xref\" href=\"#/a/1743\">Lebensformen</a> <span class=\"sd\">→ (s.d.)</span> geklärt werden. Zur unmittelbaren Schülerschaft Wittgensteins gehört A. J. T. D. WISDOM mit seinem Programm einer ‘therapeutischen Sprachanalyseʼ. Die weitergehende Rezeption und Diskussion der O. Wittgensteins, dessen Werke noch nicht abschließend ediert sind, dauert an und dehnt sich mittlerweile auf den Kontinent aus.</p>\n<p>Der auch als Oxford Philosophy bezeichnete Zweig der O. hat seine Hauptvertreter in G. RYLE und J. L. AUSTIN. RYLE war bis zu seinem Aufsatz ‹Systematically misleading expressions› <sup class=\"fn\" data-fn=\"0-3\">3</sup> Anhänger eines modifizierten Idealsprachenprogramms. Er gewann aber bereits früher durch das intensive Studium der kontinentalen Phänomenologie E. Husserls und M. Heideggers einen Zugang zu metaphysikkritischen Programmen einer Destruktion insbesondere des erkenntnistheoretischen Dualismus und seiner ontologischen Voraussetzungen. Bald nach 1931 wendet er die Alltagssprachanalyse in systematischer Absicht an. Durch die Beschreibung ihres Gebrauchs sollen klärende Einsichten in die Genese philosophischer Probleme gewonnen und sogenannte <a class=\"xref\" href=\"#/a/1542\">Kategorienfehler</a> <span class=\"sd\">→ (s.d.)</span> vermieden werden. Ryles 50jährige Lehrtätigkeit sowie sein Hauptwerk ‹The concept of mind› (1949), in dem er die Methode der O. in anticartesianischer Absicht auf Grundprobleme philosophischer Psychologie anwendet, sind von kaum zu überschätzendem Einfluß. Ryle hat darüber hinaus mehrfach in eigenen Abhandlungen das Verhältnis der O. zur Phänomenologie thematisiert und den methodischen Status seiner Analysen reflektiert, den er im Aufweis einer ‘nichtformalen (informal) Logik der Umgangsspracheʼ sieht.</p>\n<p>Bei J. L. AUSTIN, der seine Arbeitsweise als «linguistic phenomenology» <sup class=\"fn\" data-fn=\"0-4\">4</sup> kennzeichnet, ist der Bezug auf traditionelle philosophische Probleme weniger ausgeprägt als bei Ryle und Wittgenstein und weicht einem philologischen Interesse an differenzierten Detailanalysen. (Austin studierte zunächst klassische Philologie in Oxford.) Seine dabei ausgearbeitete Sprechakttheorie ist vor allem in der Linguistik weiterdiskutiert worden und hat deren Pragmatisierung entscheidend beeinflußt.</p>\n<p>Die angesprochenen Zweige der O. haben sich unterdessen vielfach beeinflußt und ergänzt. Für die weitere Entwicklung ist es aufschlußreich, daß sich nach dem Tode Wittgensteins 1951 die philosophische Aktivität Englands im wesentlichen in Oxford konzentrierte. (1953 hatte Oxford ca. 1000, Cambridge ca. 30 Philosophiedozenten und – Studenten <sup class=\"fn\" data-fn=\"0-5\">5</sup>.) Das hat häufig zu einer Identifikation von O. und Oxford Philosophy geführt.</p>\n<p>Die Analysen der O. sind inzwischen auf die klassischen <span class=\"col\" data-col=\"1248\"></span> philosophischen Themen z.B. der Metaphysik, der Ethik, Ästhetik und Religionsphilosophie ausgedehnt worden. Ihre im engeren Sinne sprachphilosophisch-logischen Fundamente diskutiert sie heute verstärkt mit Blick auf die Lebensweltanalysen der kontinentalen Phänomenologie und Hermeneutik, aber auch im Zusammenhang mit den apriorischen Analysen der Transzendentalphilosophie. Die O. kann als bereits klassisches Paradigma der modernen Philosophie gelten.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">J. PASSMORE: A hundred years of philos. (London <sup>2</sup>1966) Kap. XVIII. – CH. CATON (Hg.): Philos. and ordinary language (Urbana 1963). – H. D. LEWIS (Hg.): Clarity is not enough (London 1963). – V. C. CHAPPEL (Hg.): Ordinary language (Englewood Cliffs 1964). – M. J. CHARLESWORTH s. Anm. [5], bes. Kap. 1. 3. 5. 6. – R. RORTY (Hg.), The linguistic turn (London 1967). – E. v. SAVIGNY (Hg.): Philos. und normale Sprache (1969). – E. v. SAVIGNY: Die Philos. der normalen Sprache (<sup>2</sup>1974). – K. GRAHAM: J. L. Austin. A critique of O. (Hassocks 1977). – G. L. VANDER VEER: Philosophical skepticism and ordinary-language analysis (Lawrence 1978).</p>\n<p id=\"p8\">II. In den Untersuchungen der O. lassen sich <i>vier Verfahren</i> mit sehr verschiedenen Zielen unterschiedlicher Legitimationsbasis unterscheiden, je nach der Absicht des sprachanalytischen Rückgriffs auf die normale Sprache.</p>\n<p>a) <i>Die klärende Verwendung:</i> Dabei wird festgestellt, daß eine vorliegende philosophische Frage oder These unklar formuliert ist; zur Klärung wird die Abweichung vom normalen Sprachgebrauch herausgearbeitet und das Gemeinte im Einklang mit ihm neu und klarer formuliert. Diese Klärung gilt als unumgänglicher erster Schritt der philosophischen Arbeit.</p>\n<p>b) <i>Die therapeutische Verwendung:</i> Viele philosophische Fragen sind nur aufgrundbestimmter Unterstellungen sinnvoll. Wer etwa (im üblichen Problemzusammenhang) fragt: «Ist der Wille frei?» unterstellt, daß Willensakte Ursachen der menschlichen Handlungen sind. Bei bemerkenswert vielen philosophischen Fragen erweisen sich solche nicht in Frage gestellte Voraussetzungen als falsch; z.B. gibt es keine die Handlung verursachenden Willensakte. Und bei wiederum bemerkenswert vielen von diesen Fällen wird die Falschheit der Voraussetzung deshalb nicht gesehen, weil sie bloß als neue Formulierung einer anderen, richtigen Feststellung angesehen wird, ohne das aber zu sein. Die falsche Meinung, Willensakte bestimmten ursächlich die Handlungen, wird als Formulierung der richtigen Feststellung angesehen, daß die Menschen im allgemeinen tun, was sie wollen. Der therapeutische Hinweis auf die normale Sprache besteht dann in der Darlegung 1. der Falschheit der Voraussetzung, 2. des Fehlers, der mit der Umformulierung begangen wurde (hier der Verwechslung von dispositionaler und kausaler Erklärung), und 3. in der Ermittlung der Sprachgewohnheiten, die zu der fehlerhaften Umformulierung führen (hier der partiellen Ähnlichkeit dessen, was man über Wille und Handlung einerseits und Ursache und Wirkung andererseits sagen kann). Der Begriff der Therapie wird in diesem Zusammenhang von WITTGENSTEIN eingeführt, der die Behandlung philosophischer Scheinfragen mit der Behandlung von Krankheiten verglich und die therapeutische Sprachanalyse als erster systematisch praktizierte <sup class=\"fn\" data-fn=\"1-1\">1</sup>. <span class=\"col\" data-col=\"1249\"></span></p>\n<p>c) <i>Die beweisende Verwendung:</i> Feststellungen über die Sprache werden im wesentlichen auf drei Arten direkt als Argumente für oder gegen philosophische Thesen verwendet. Die erste Art liegt trivialerweise im Bereich der Sprachphilosophie und verwandter Gebiete vor. Zweitens gibt es philosophische Thesen, die implizite Behauptungen über die Sprache enthalten; daß der Wille Ursache der Handlung sei, beinhaltet z.B., daß das Gesetz «Im allgemeinen tut man, was man will» ein empirisches Gesetz ist; in Wahrheit ist es eine partielle sprachliche Erläuterung zum Begriff des Wollens. Diese sprachliche Feststellung reicht also zur Widerlegung der Verursachungsthese aus. Drittens wird in der O. häufig aus der Tatsache, daß bestimmte Ausdrücke überhaupt Bedeutung haben (etwa ‘wissenʼ, ‘rotʼ, ‘freiwilligʼ), darauf geschlossen, daß es etwas gebe, auf das sie zutreffen (also Wissen, rote Dinge und freiwillige Handlungen), und zwar soll der Schluß für Ausdrücke gelten, die in Standardsituationen lehrbar sind. Diese sogenannte «Standardbeispiel-Argumentation» (paradigm case argument) ist umstritten <sup class=\"fn\" data-fn=\"1-2\">2</sup>.</p>\n<p>d) <i>Die heuristische Verwendung:</i> Sie wurde zuerst von Austin systematisch praktiziert <sup class=\"fn\" data-fn=\"1-3\">3</sup> und geht von dem Gedanken aus, daß das Vokabular historisch gewachsener, natürlicher Sprachen im allgemeinen ökonomisch aufgebaut ist. Daher kann man gewöhnlich dann, wenn es zwei Wörter für scheinbar dieselbe Sache gibt, vermuten, daß in Wahrheit doch ein Unterschied zu beachten ist (z.B. zwischen ‘freiwilligʼ und ‘absichtlichʼ). Natürlich muß die Existenz des vermuteten Unterschiedes dann unabhängig gerechtfertigt werden.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1248\"></span> G. BERGMANN: Strawson's ontology (1960), in: Logic and reality (Madison 1964) 177.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. Art. <a class=\"xref\" href=\"#/a/2354\">→ Philosophie, analytische</a>.</li>\n<li id=\"fn0-3\" value=\"3\">G. RYLE: Systematically misleading expressions. Proc. Arist. Soc. 32 (1931/32) 139–171; auch in: A. FLEW (Hg.): Logic and language. First ser. (Oxford 1951); dtsch. in: R. BUBNER (Hg.): Sprache und Analysis (1968) 31–62.</li>\n<li id=\"fn0-4\" value=\"4\">J. L. AUSTIN: A plea for excuses (1954), in: Philos. papers (Oxford <sup>3</sup>1979) 182; vgl. auch Art. <a class=\"xref\" href=\"#/a/2342\">→ Phänomenalismus, linguistischer</a>.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. M. J. CHARLESWORTH: Philosophy and linguistic analysis (Pittsburgh <sup>2</sup>1961) 152. <span class=\"col\" data-col=\"1249\"></span></li>\n<li id=\"fn1-1\" value=\"1\">L. WITTGENSTEIN: Philos. Untersuchungen (1960) § 255.</li>\n<li id=\"fn1-2\" value=\"2\">E. VON SAVIGNY: Das sog. paradigm case argument. Grazer philos. Studien 14 (1981) 37–72.</li>\n<li id=\"fn1-3\" value=\"3\">Vgl. Anm. [4 zu I].</li>\n</ol>",
+ "prev":{"id":2231,"lemma":"Optimismus","band":"6","col":1240},
+ "next":{"id":2233,"lemma":"Ordnung","band":"6","col":1249},
+ "backlinks":[
+  {"id":1770,"lemma":"Leib-Seele-Verhältnis","n":1},
+  {"id":1797,"lemma":"Linguistik, Sprachwissenschaft","n":1},
+  {"id":2342,"lemma":"Phänomenalismus, linguistischer","n":1},
+  {"id":2353,"lemma":"Philosophie","n":1},
+  {"id":2354,"lemma":"Philosophie, analytische","n":1},
+  {"id":2410,"lemma":"Positivismus, Logischer","n":1},
+  {"id":2992,"lemma":"Sprachphilosophie","n":1},
+  {"id":3273,"lemma":"Umgangssprache","n":1},
+  {"id":3510,"lemma":"Vorwissenschaftlich; vortheoretisch","n":1},
+  {"id":3634,"lemma":"Wissen","n":1},
+  {"id":3656,"lemma":"Wort","n":1}
+ ],
+ "outlinks":[
+  {"id":1542,"lemma":"Kategorienfehler","n":1},
+  {"id":1743,"lemma":"Lebensformen","n":1},
+  {"id":1946,"lemma":"Metaphysikkritik","n":1},
+  {"id":2342,"lemma":"Phänomenalismus, linguistischer","n":1},
+  {"id":2354,"lemma":"Philosophie, analytische","n":1},
+  {"id":2994,"lemma":"Sprachspiel","n":1}
+ ],
+ "register":[
+  {"term":"Alltagssprache","qualifier":"","band":null,"col":null},
+  {"term":"ideal language philosophy","qualifier":"I","band":"6","col":"1246"},
+  {"term":"Normalsprache","qualifier":"","band":null,"col":null},
+  {"term":"Sprache, normale","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":32,"name":"L. Wittgenstein","b":3,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":288,"name":"G. Ryle","b":3,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":317,"name":"J. L. Austin","b":3,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":144,"name":"G. E. Moore","b":2,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":663,"name":"G. Bergmann","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4644,"name":"J. Wisdom","b":2,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":8461,"name":"M. J. Charlesworth","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":234,"name":"R. M. Hare","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":329,"name":"P. F. Strawson","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":729,"name":"R. Bubner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":782,"name":"H. Paul","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":805,"name":"F. Waismann","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":658,"name":"H. L. A. Hart","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1176,"name":"A. Flew","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1504,"name":"N. Malcolm","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":3033,"name":"I. Berlin","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":2114,"name":"P. H. Nowell-Smith","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":2675,"name":"E. von Savigny","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4245,"name":"M. Lazerowitz","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":3075,"name":"St. Hampshire","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":4484,"name":"S. E. Toulmin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1060,"name":"Savigny","b":0,"n":0,"l":2,"editor":0,"role":"mixed"},
+  {"id":425,"name":"R. Rorty","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":2028,"name":"J. Passmore","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3002,"name":"H. D. Lewis","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11723,"name":"K. Graham","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":16049,"name":"Ch. Caton","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":16050,"name":"V. C. Chappel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":25135,"name":"G. L. Vander Veer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2983,"lemma":"Sprachanalyse","tf":3},
+  {"id":2362,"lemma":"Philosophy, Comparative","tf":2},
+  {"id":125,"lemma":"Analyse","tf":5},
+  {"id":2343,"lemma":"Phänomenologie","tf":3},
+  {"id":728,"lemma":"Empirismus","tf":2},
+  {"id":26,"lemma":"Absicht","tf":3},
+  {"id":3620,"lemma":"Wille","tf":3},
+  {"id":3186,"lemma":"These","tf":3},
+  {"id":395,"lemma":"Beschreibung","tf":2},
+  {"id":1105,"lemma":"Gesetz","tf":2},
+  {"id":2511,"lemma":"Psychologie","tf":2}
+ ],
+ "see_also":[
+  {"id":125,"lemma":"Analyse"},
+  {"id":2342,"lemma":"Phänomenalismus, linguistischer"},
+  {"id":2353,"lemma":"Philosophie"}
+ ],
+ "groups":[
+  {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Ordinary Language Philosophy"},
+  {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Ordinary Language Philosophy"}
+ ],
+ "reg_authors":[{"name":"Lübbe Weyma","n":2},{"name":"Rentsch Thomas","n":17},{"name":"Savigny Eike von","n":1}]
+}
+);

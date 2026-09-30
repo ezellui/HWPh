@@ -1,0 +1,35 @@
+HWPH.put("a/3122",
+{
+ "id":3122,
+ "lemma":"Taiping",
+ "band":"10",
+ "kind":"article",
+ "col_from":881,
+ "col_to":882,
+ "pdf_from":42230,
+ "pdf_to":42231,
+ "authors":["M. Lackner"],
+ "n_notes":2,
+ "n_chars":2097,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Taiping bedeutet zunächst, im Werk ‹Frühling und Herbst des Herrn Lü› (‹Lü-shih ch'un-ch'iu›, 239 v.Chr.), «größter Friede» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. <span class=\"col\" data-col=\"882\"></span> Erst in Verbindung mit der Entstehung des Taoismus als Religion während des Untergangs der Han-Dynastie seit der Mitte des 2. Jh. n.Chr. gewinnt der Begriff als «Weg des größten Friedens» («T'ai-p'ing tao») eine millenaristisch-messianische Dimension <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Im engeren Sinne wird er gebraucht für eine nativistische revolutionäre Bewegung, die als «Reich des himmlischen größten Friedens» («T'ai-p'ing t'ien-kuo») zwischen 1850 und 1864 große Teile des Südens von China beherrschte. Unter dem Einfluß von Traktaten protestantischer Missionare deutete seit 1843 der der Hakka-Minderheit angehörige und bei den kaiserlichen Examina mehrmals gescheiterte HUNG HSIU-CH'ÜAN (1812–1864) eine frühere Vision in synkretistischem Sinn: Gott, dessen jüngerer Sohn (und somit Bruder Jesu) er war, beauftragte ihn mit der Vernichtung von Dämonen, die er später mit den Vertretern der ‘sündigenʼ Mandschu-Dynastie identifizieren sollte.</p>\n<p>Die T.-Bewegung, die 1864 in Nanking in apokalyptischen Szenen, die an die Münsteraner Wiedertäufer gemahnen, unterging, ist eine frühe Antwort unterprivilegierter Schichten auf den seit dem Opium-Krieg (1839–1842) verstärkt auf China lastenden Modernisierungsdruck: Eschatologische Verheißungen und ein höchst wörtlich verstandener Dekalog werden mit der Reform von Sprache, Landbesitz und Institutionen sowie mit der Gleichberechtigung der Frau zur Ideologie eines auserwählten reinen Volkes verschmolzen.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">F. MICHAEL: The T'ai-p'ing rebellion hist. (Seattle 1966). – R. G. WAGNER: Reenacting the heavenly vision. The role of relig. in the Taiping rebellion (Berkeley 1982). – E. ZÜRCHER: Purity in the Taiping rebellion, in: W. E. A. van BEEK (Hg.): The quest for purity (1988) 203–215. – J. D. SPENCE s. Anm. [2].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Lü-shih ch'un-ch'iu 5, 2; dtsch.: Frühling und Herbst des Lü Bu We, hg./übers. R. WILHELM (1971) 56.</li>\n<li id=\"fn0-2\" value=\"2\">J. D. SPENCE: God's Chinese son. The Taiping heavenly kingdom of Hong Xiuquan (New York/London 1996) XXIII; vgl. Art. <a class=\"xref\" href=\"#/a/3125\">→ Tao; Taoismus</a>.</li>\n</ol>",
+ "prev":{"id":3121,"lemma":"Tagesansicht/Nachtansicht","band":"10","col":879},
+ "next":{"id":3123,"lemma":"Takt","band":"10","col":882},
+ "backlinks":[],
+ "outlinks":[{"id":3125,"lemma":"Tao; Taoismus","n":1}],
+ "register":[{"term":"Friede (chin.)","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":2958,"name":"K. W. Spence","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1406,"name":"R. Wilhelm","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":30613,"name":"Hung Hsiu-Ch'üan","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":597,"name":"R. Wagner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3840,"name":"W. Michael","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8604,"name":"E. Zürcher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":18082,"name":"W. E. A. van Beek","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":3125,"lemma":"Tao; Taoismus"}],
+ "groups":[{"id":6,"name":"Chinesische Philosophie","label":"Taiping"}],
+ "reg_authors":[{"name":"Lackner Michael","n":4}]
+}
+);

@@ -1,0 +1,12 @@
+HWPH.put("t/1139",
+{
+ "b":"Glaube, philosophischer ist für K. JASPERS ein Charakteristikum echten Philosophierens gegenüber dem wissenschaftlichen (gegenständlichen) Wissen. Zum Glauben aufgefordert erfährt sich der Philosophierende, wo er angesichts der Relativität des Gegenständlichen und Geltenden sein Nichtwissen des Seins erfährt und darüber in Schwindel gerät. Solche Bewegung wird hervorgerufen in den «Grenzsituationen» menschlichen Daseins (Leiden, Kampf, Schuld, Tod, geschichtliche Bestimmtheit). In ihnen kann der Mensch sich aber der Unbedingtheit des eigenen Entschlusses gewiß werden und damit einen Halt gegenüber dem Relativen gewinnen, indem er es unendlich transzendiert. Solches Transzendieren wird aussagbar nur inadäquat in Metaphern des gegenständlichen Seins, die damit zu «Chiffren» der Transzendenz werden – d.h. zu philosophischen «Glaubensgehalten». Jaspers nennt als solche: «Gott ist; es gibt die unbedingte Forderung; die Welt hat ein verschwindendes Dasein zwischen Gott und Existenz» . Doch sind sie nicht in ihrer Gegenständlichkeit zu nehmen, sondern umschreiben den philosophischen Aufschwung zur Transzendenz. \nIst diese Rede vom Glauben im philosophischen Denken Kants und Fichtes (in gewisser Weise auch in Kierkegaards Rede vom Glauben) grundgelegt, so unterscheidet sie sich doch von diesem in zweifacher Weise: einmal darin, daß der Gehalt des Glaubens im philosophischen System nicht verbindlich festgelegt werden kann, sondern bestimmungslos bleibt; zum anderen darin, daß der ph.G. bei Jaspers als «philosophischer» in die bewußte Auseinandersetzung mit dem Glauben der Religion, insbesondere des Christentums, tritt. Ist religiöser Glaube für Jaspers dadurch gekennzeichnet, daß er Transzendenz vergegenständlicht und damit echtes Transzendieren unmöglich macht, so hat Philosophie die Aufgabe einer Verwandlung religiöser Gehalte in ph.G., in der die schwebende Gewißheit («ich weiß nicht, ob und was ich glaube» ) Freiheit und Denken unendlich offen hält.",
+ "n":"K. JASPERS: Der ph.G. (1948) 29ff. \na.a.O. 20.",
+ "l":"W. LOHFF: Glaube und Freiheit. Das theol. Problem der Religionskritik von Karl Jaspers (1957). – X. TILLIETTE: Karl Jaspers. Theorie de la vérité, métaphysique des chiffres, foi philos. (Paris 1960). – K. JASPERS: Der ph.G. angesichts der Offenbarung (1962); vgl. Anm. [1].",
+ "au":"W. Lohff",
+ "A":["W. Lohff"],
+ "cb":[[0,646],[1123,646]],
+ "cn":[[0,646],[36,646]],
+ "cl":[[0,646]]
+}
+);

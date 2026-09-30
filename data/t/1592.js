@@ -1,0 +1,12 @@
+HWPH.put("t/1592",
+{
+ "b":"Kommunikation, visuelle. Der Begriff ‹visuelle K.› (= v.K.) entstand im Zusammenhang der allgemeinen Grundlagendiskussion zum Problem der K. Sie wurde von der Informationstheorie, der Linguistik, Semiotik, Soziologie, praktischen Philosophie und marxistischen Gesellschaftstheorie in Gang gebracht und tendiert mittlerweile zu einer Theorie der K., die sich als selbständige Disziplin begreifen möchte. Die verschiedene sachliche Ausfüllung und Differenzierung des einfachen K.-Modells (Sender-Empfänger-Code) hat schließlich auch zur Berücksichtigung visueller Aspekte geführt. Dabei lassen sich bislang vor allem zwei Richtungen unterscheiden: Die eine nimmt ihren Ausgang von Semiotik und Strukturalismus und sucht v.K. im Zusammenhang einer Theorie der kulturellen Codes zu behandeln. Dabei spielt die Bestimmung des Ikonischen am Zeichen eine zentrale Rolle (Eco, METZ u.a.). Auch die Erneuerung und Weiterentwicklung rhetorischer Lehren zu einer allgemeinen Rhetorik der Kulturphänomene hat dafür anregend gewirkt . – Die andere Richtung behandelt v.K. als ein Feld sozialer Manipulationen, die es zu durchschauen gilt. Sie tendiert zu einer kritischen Medientheorie. Für beide Tendenzen fallen unter v.K. alle überhaupt visuell spezifizierbaren Phänomene, über die im engeren Sinne ikonografischen (im Bereich der bildenden Kunst) hinaus, solche des Films, der Reklame, der Massenmedien, der Mode, der Choreographie, der Farbtheorie usw. \nEine eigene Theorie der v.K. welche die Grundlagen und Spezifika des visuellen Bereichs von anderen K.-Formen abhebt, zeichnet sich bislang erst in Umrissen ab. So bleibt es fraglich, ob das Visuelle und Bildliche durch das bisher eingesetzte Modell von K. hinreichend darzustellen ist.",
+ "n":"R. BARTHES: Rhétorique de l'image. Communications 4 (1964); dtsch. in: G. SCHIWY: Der frz. Strukturalismus (1969) 158ff.; vgl. auch Communications Nr. 15 (1970).",
+ "l":"D. PROKOP: Soziol. des Films (1970). – W. F. HAUG: Kritik der Warenästhetik (1971). – D. PROKOP (Hg.): Materialien zur Theorie des Films (1971, 21974). – H. K. EHMER (Hg.): V.K. (1971). – F. KNILLI (Hg.): Semiotik des Films (1971, 21974). – U. ECO: Einf. in die Semiotik (1972). – CH. METZ: Semiol. des Films (1972). – D. BAAKE (Hg.): Krit. Medientheorie (1973). – R. BARTHES s. Anm. [1]. – D. PROKOP: Massenkultur und Spontaneität (1974).",
+ "au":"G. Boehm",
+ "A":["G. Boehm"],
+ "cb":[[0,896],[1321,897],[1446,897]],
+ "cn":[[0,896]],
+ "cl":[[0,897]]
+}
+);

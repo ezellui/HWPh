@@ -1,0 +1,27 @@
+HWPH.put("a/557",
+{
+ "id":557,
+ "lemma":"Denkprojekt",
+ "band":"2",
+ "kind":"article",
+ "col_from":109,
+ "col_to":109,
+ "pdf_from":3933,
+ "pdf_to":3933,
+ "authors":["M. Theunissen"],
+ "n_notes":1,
+ "n_chars":857,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Denkprojekt. Unter diesem Titel entwirft S. KIERKEGAARD in den ‹Philosophischen Brocken› <sup class=\"fn\" data-fn=\"0-1\">1</sup> das christliche Heilsereignis als Gegensatz zur «sokratischen» Anamnesis Platons, der auf dem Grunde seiner Annahme, der Lernende besitze schon die Wahrheit, dem Lehrer und dem Augenblick seines Lehrens bloß eine veranlassende Funktion zugestehen darf. Der antithetischen Hypothese zufolge hat der Augenblick entscheidende Bedeutung. Danach muß der Empfänger vorher in der Unwahrheit sein, der Mitteilende aber die Wahrheit selbst und mit ihr sogar die Bedingung für ihr Verständnis herbeibringen. Die Unwahrheit kann, als eine solche des von Gott Geschaffenen, nur Sünde, der die Wahrheit ursprünglich Schenkende nur der versöhnende, erlösende und richtende Gott sein, der die Umkehr, Reue und Wiedergeburt des Menschen erwirkt.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">S. KIERKEGAARD, Philos. Brocken Kap. I.</li>\n</ol>",
+ "prev":{"id":556,"lemma":"Denkökonomie","band":"2","col":108},
+ "next":{"id":558,"lemma":"Denkpsychologie","band":"2","col":109},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":52,"name":"S. Kierkegaard","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":295,"lemma":"Augenblick","tf":2}],
+ "see_also":[{"id":295,"lemma":"Augenblick"}],
+ "groups":[{"id":11,"name":"Existenzphilosophie","label":"Denkprojekt (Kierkegaard)"}],
+ "reg_authors":[{"name":"Theunissen Michael","n":17}]
+}
+);

@@ -1,0 +1,58 @@
+HWPH.put("a/385",
+{
+ "id":385,
+ "lemma":"Belohnung",
+ "band":"1",
+ "kind":"article",
+ "col_from":830,
+ "col_to":831,
+ "pdf_from":2901,
+ "pdf_to":2904,
+ "authors":["H. Reiner"],
+ "n_notes":14,
+ "n_chars":3862,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Belohnung wird als deutscher philosophischer Begriff zuerst von CHR. WOLFF definiert: «Das Übel, so der Gesetz-Geber mit einer Handlung verknüpfet, als einen Bewegungsgrundsie zu unterlassen, heißet eine <i>Strafe:</i> hingegen das Gute, was er damit verbunden als einen Bewegungs-Grund sie zu vollbringen, eine <i>B.</i>» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Der entsprechende lateinische Begriff, <i>praemium</i>, wird von Wolff etwas anders bestimmt und zugleich gegenüber <i>merces</i> als ‹Lohn› abgehoben: «Praemium est bonum, quod confertur in alterum ob actionem sive positivam sive privativam ob eo, qui ad id conferendum eidem non obligatur» (Belohnung ist ein Gutes, das auf einen andern übertragen wird wegen einer in Tun oder Nichttun bestehenden Handlung von einem, der es zu übertragen nicht verpflichtet ist). Dazu, erklärt Wolff, werde «eius a mercede differentia» anderwärts definiert <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Eine der deutschen Definition von B. entsprechende Bestimmung wird als Zusatz gegeben: «Praemia sunt motiva actionum committendarum et omittendarum» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die anderwärtige Definition von merces lautet: «Pretium operarium dicitur Merces, idiomate patrico ‹der Lohn›» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Entsprechend, aber schärfer, erklärt KANT: «Merces ist ein Lohn, den man mit Recht von jemandem zu fordern hat. Lohn ist also von der B. zu unterscheiden» <span class=\"col\" data-col=\"831\"></span> <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die praemia teilt Kant in «auctorantia» und «remunerantia». «Auctorantia sind solche B., ... wo man die Handlungen bloß wegen der verheißenen B. tut; remunerantia sind solche, ... wo die Handlungen bloß aus guter Gesinnung, aus reiner Moralität geschehen» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Die Unterscheidung zwischen B. und Lohn wird in der <i>Antike</i> nicht gemacht. Griechisch heißt beides μισθός, dem die ζημία (Strafe) gegenübersteht. Beide entspringen dem Verlangen nach Vergeltung (ἀντιπεπονθός). So ist es für PLATON eine geläufige Vorstellung, daß tugendhaftes Verhalten sowohl im diesseitigen Leben als auch nach dem Tode belohnt werden müsse <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Auch ARISTOTELES bejaht diesen Gedanken <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Doch ist solche B. nicht Motiv des Handelns; ihren Wert trägt die Tugend wesentlich in sich selbst.</p>\n<p>Anders im <i>alttestamentlichen</i> Judentum, wo B. Entgelt für vor Gott erworbene Verdienste und der Hinblick auf zu erlangende Vergeltung in B. und Strafe «das stärkste Motiv der Sittlichkeit» ist <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Jesu Verkündigung verheißt ebenfalls göttliche B., jedoch ohne dem Menschen einen Anspruch durch Verdienste zuzusprechen <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Mit der Vergeltung bringt auch THOMAS VON AQUIN die B. in Zusammenhang, indem er praemium definiert als «quod alicui in bonum eius redditur» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Der Mensch erlangt die beatitudo als «praemium virtuosarum actionum», die Verdienste (merita) darstellen <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Praemium und merces werden dabei noch nicht unterschieden <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>In der <i>englischen</i> Ethik begegnet der Begriff der B. als ‹reward› in Gegenüberstellung zu ‹punishment›, also ebenfalls als Form der Vergeltung <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<p>Im <i>heutigen</i> deutschen Sprachgebrauch wird für B. im Sinne der Definitionen WOLFFS und KANTS oft auch ‹Lohn› gesagt, nicht aber für Lohn auch ‹B.›.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">Art. MISTHÓS, in: KITTEL/FRIEDRICH, Theol. Wb. zum NT. – Art. ‹Verdienst› und ‹Vergeltung› in RGG<sup>3</sup>. – Art. MISTHÓS in: PAULY/WISSOWA, Realencyclopädie der class. Altertumswiss. – D. v. HILDEBRAND: Über die christl. Idee des himmlischen Lohnes, in: Zeitliches im Lichte des Ewigen (1931).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"831\"></span> CHR. WOLFF: Vernünftige Gedanken von des Menschen Tun und Lassen (1721) § 36.</li>\n<li id=\"fn0-2\" value=\"2\">Philosophia practica universalis (1738) § 295.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. § 296.</li>\n<li id=\"fn0-4\" value=\"4\">Jus naturae (1740) § 327.</li>\n<li id=\"fn0-5\" value=\"5\">Eine Vorlesung KANTS über Ethik, hg. P. MENZER (1924) 65.</li>\n<li id=\"fn0-6\" value=\"6\">a.a.O. 63.</li>\n<li id=\"fn0-7\" value=\"7\">PLATON, Resp. 347 a. 363 d. 612 a. 614 a.</li>\n<li id=\"fn0-8\" value=\"8\">ARIST., Ethic. Nic. 1134 b 6.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. Art. ‹Verdienst› und ‹Vergeltung› in RGG<sup>3</sup>.</li>\n<li id=\"fn0-10\" value=\"10\">Luk. 17, 7–10; Art. ‹Verdienst› in RGG<sup>3</sup>.</li>\n<li id=\"fn0-11\" value=\"11\">THOMAS v. AQUIN, 3 Sent. 29, 1, 4 c.</li>\n<li id=\"fn0-12\" value=\"12\">S. theol. I/II, 5, 7 c.</li>\n<li id=\"fn0-13\" value=\"13\">S. theol. I/II, 109, 5 ob. 2: «Vita aeterna est merces vel praemium, quod hominibus redditur a Deo.»</li>\n<li id=\"fn0-14\" value=\"14\">So bei S. CLARKE, HUTCHESON, I. CLARKE, R. PRICE, A. SMITH.</li>\n</ol>",
+ "prev":{"id":384,"lemma":"Beliebigkeit","band":"1","col":829},
+ "next":{"id":386,"lemma":"Beobachtungsfehler","band":"1","col":831},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"auctorantia","qualifier":"","band":"1","col":"830"},
+  {"term":"praemium","qualifier":"","band":null,"col":null},
+  {"term":"remunerantia","qualifier":"","band":"1","col":"830"},
+  {"term":"reward","qualifier":"","band":null,"col":null},
+  {"term":"Vergeltung","qualifier":"","band":null,"col":null},
+  {"term":"μισθός","qualifier":"","band":"1","col":"830"},
+  {"term":"– I (allg.) 5 503–509 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":561,"name":"S. Clarke","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":134,"name":"A. Smith","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":308,"name":"F. Hutcheson","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1896,"name":"Aquin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2756,"name":"P. Menzer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2219,"name":"R. Price","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1516,"name":"Friedrich","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1453,"name":"A. Pauly","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":2727,"name":"Wissowa","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2008,"name":"Hildebrand","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":113,"name":"Arist","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":206,"name":"G. Kittel","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1828,"lemma":"Lohn, Verdienst","tf":10},
+  {"id":3035,"lemma":"Strafe","tf":3},
+  {"id":535,"lemma":"Definition","tf":3},
+  {"id":2033,"lemma":"Motiv","tf":2}
+ ],
+ "see_also":[{"id":1828,"lemma":"Lohn, Verdienst"},{"id":3035,"lemma":"Strafe"}],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Belohnung"}],
+ "reg_authors":[{"name":"Reiner Hans","n":32}]
+}
+);

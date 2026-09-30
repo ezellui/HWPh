@@ -1,0 +1,88 @@
+HWPH.put("a/212",
+{
+ "id":212,
+ "lemma":"Apperzeption",
+ "band":"1",
+ "kind":"article",
+ "col_from":448,
+ "col_to":450,
+ "pdf_from":1681,
+ "pdf_to":1687,
+ "authors":["W. Janke"],
+ "n_notes":18,
+ "n_chars":7545,
+ "toc":[
+  ["p2","A. geschieht durch Reflexion auf Vorstellungen, welche die Seele hat, ohn",2],
+  ["h7","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Apperzeption. Während ‹apercevoir› neben dem Simplex ‹percevoir› seit Anfang des 12. <span class=\"col\" data-col=\"449\"></span> Jh. belegt ist <sup class=\"fn\" data-fn=\"0-1\">1</sup> und eine reiche altfranzösische und mittelfranzösische Wortfamilie ausbildet, wird das Substantiv ‹aperception› durch LEIBNIZ in Analogiebildung zu ‹perception› als philosophischer Terminus geschaffen.</p>\n<p>Seine Einführung wurde notwendig, weil die Cartesianische Gleichsetzung von perceptio und cogitatio (Selbstbewußtsein) zu metaphysischen Irrtümern über Tod und Leben bzw. Sein und Nichtsein führt <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Unterscheidung zwischen Perzeption («qui est l'état intérieur de la Monade, représentant les choses externes») und A. («qui est la conscience ou la connaissance réflexive de cet état intérieur») <sup class=\"fn\" data-fn=\"0-3\">3</sup> ermöglicht es, die neuzeitliche Seinsthese für alle Bereiche des Seienden zu beanspruchen. Dabei stuft sich Perzeption nach dem Grade der Deutlichkeit im Repräsentieren von Welt ab; sie kann schon im Bereich der Tiere ‹A.› genannt werden: als Perzeption mit dem Deutlichkeitsgrad, der Selbstgefühl ermöglicht <sup class=\"fn\" data-fn=\"0-4\">4</sup>. ‹A.› im Sinne von Selbstbewußtsein (perception accompagnée de conscience) heißt dagegen erst die Weise, worin der Mensch als Vernunftwesen wahrhaft seiend und Eines ist, nämlich in der Einheit des unterschiedenen Gegensatzes von Objekt und Subjekt (Ich).</p>\n<p id=\"p2\">A. geschieht durch Reflexion auf Vorstellungen, welche die Seele hat, ohne sich ihrer bewußt zu sein. Seitdem heißt ‹réflexion de l'esprit› vorzüglich so viel wie «réfléchir sur soi même» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Im Abwenden vom Sinnlichen und Zurückwenden auf sich selbst werden die virtuellen ‹ewigen Wahrheiten› und deren Elemente, die ‹eingeborenen Ideen›, aktual, und in eins wird das Ich bemerkt <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Auf dem Wege über die Aktualisierung der idées innées (‹avant toute aperception›) kommt das Ichbewußtsein zustande.</p>\n<p>Die A. konstituiert ferner die numerische Identität der Person. Sie scheidet eine ‹identité personelle ou morale› von der ‹identité réelle›, welche auf der Kontinuität einfacher Perzeptionen beruht <sup class=\"fn\" data-fn=\"0-7\">7</sup>. So hat Leibniz das Wort ‹A.› im mehrdeutigen Sinne von Selbstbewußtsein, Ich und Person in die Philosophie eingeführt.</p>\n<p>Die Schulphilosophie handelt den Begriff der A. im Gebiete der Psychologie ab. So hält WOLFFS ‹Psychologia empirica› den Leibnizschen Terminus fest: «Menti tribuitur Apperceptio quatenus perceptionis suae sibi conscia est. Apperceptionis nomine utitur Leibnitius: coincidit autem cum conscientia, quem terminum in praesenti negotio Cartesius adhibet» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die ‹Psychologia rationalis› analysiert diesen Begriff, indem sie ihn auf den Akt der attentio, welcher auf Unterschiede achtet, und auf das Behalten der aufgehellten <span class=\"col\" data-col=\"450\"></span> Unterschiede zurückführt. «Ad actum apperceptionis attentio et memoria concurrit» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Die Seele ist sich ihrer Vorstellungen eben nur dadurch bewußt, daß sie die Unterschiede zwischen ihnen aufklärt und das so unterschiedlich Bestimmte behält. «Ex claritate perceptionum partialium nascitur apperceptio» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Der Zusammenhang von Bewußtsein und Unterscheidenkönnen wird noch in G. F. MEIERS ‹Vernunftlehre› gelehrt: «Wir sind uns unserer Vorstellungen und unserer Erkenntniss bewußt (conscium esse, adpercipere), insofern wir sie und ihren Gegenstand von anderen Vorstellungen und Sachen unterscheiden. Das Bewußtsein ist eine doppelte Vorstellung: eine Vorstellung des Gegenstandes, und eine Vorstellung seines Unterschiedes von anderen. Das Bewußtsein verhält sich wie das Licht in der Körperwelt, welches uns den Unterschied der Körper entdeckt» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. KANT notiert dazu: «Sich einer Vorstellung bewust seyn, ist, wißen, daß man diese Vorstellung hat; d.h.: diese Vorstellung von den andern unterscheiden» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Erst CRUSIUS kehrt das in der Leibnizschen Monadologie angelegte Fundierungsverhältnis von Distinktion und A. vollständig um: «Wir sind uns der Dinge nicht darum bewußt, weil wir sie unterscheiden, sondern darum können wir sie allererst unterscheiden, weil wir uns bewußt sind. Das Bewußtsein ist der Natur nach eher als das Unterscheiden» <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>Über die A. als erstes Prinzip aber wird im Bedenken von Reflexion und innerem Sinn entschieden. Während bei Leibniz die A. als Tätigkeit des unterscheidenden Verstandes (réflexion de l'esprit) gedacht wird, erhält das Wort durch LOCKES Auffassung von reflection die Bedeutung von empirischer Selbstwahrnehmung; denn reflection ist eine der beiden Quellen der Erfahrung, und zwar die Erfahrung vermittels des inneren Sinnes (internal sense). Seitdem gilt Kants Feststellung, «daß die Wörter innerer Sinn und Apperception von den Seelenforschern gemeinhin für gleichbedeutend genommen» werden <sup class=\"fn\" data-fn=\"0-14\">14</sup>. So legt BAUMGARTEN z.B. die Gleichung von Selbstwahrnehmung und Selbstbewußtsein fest: «sensatio est vel interna per sensum internum conscientia strictius dicta, vel externa» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Kant notiert zu Meiers ‹Vernunftlehre›: «Das Bewustseyn ist sensus internus» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Und bei CRUSIUS finden sich ‹A.› und ‹innere Empfindung› zusammengestellt: «Die innerliche Empfindung ist, wodurch wir etwas empfinden, welches wir uns als in unserer Seele vorstellen. Sie ist also die Kraft des Bewußtseins» <sup class=\"fn\" data-fn=\"0-17\">17</sup>.</p>\n<p>Von entscheidender Bedeutung für die Fortschritte der Metaphysik wird nun KANTS Unterscheidung von empirischer und transzendentaler A. Er hat sie in der ‹Anthropologie› als Unterteilung des «Bewußtseins seiner selbst (apperceptio)» in Apprehension und Reflexion vorgetragen <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Apprehension bezeichnet danach die A. des inneren Sinnes oder die empirische A.; in ihr ist das Ich nichts denn Objekt der Selbstwahrnehmung. Reflexion dagegen bedeutet A. des Verstandes und ist Bewußtsein der Handlung, welche das Denken ausmacht; darin kommt das Ich als Subjekt des Denkens zum Bewußtsein. Im Sinne dieser reinen A. wird das ‹Ich denke› (cogito) zum Grundbegriff des transzendentalen Idealismus. In der Begriffsgeschichte der transzendentalen A. spiegelt sich die Geschichte idealistischen Denkens.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">J. CAPESIUS: Der A.-Begriff bei Leibniz und dessen Nachfolgern. Progr. Hermannstadt (1894). – K. LANGE: Über A. (<sup>1</sup>1899). – A. SICKER: Der leibnizsche Begriff der Perzeption und A. (1900). – J. RÜLF: Die A. im philos. System des Leibniz (Diss. Bonn 1900). – L. SALOMON: Zu den Begriffen der Perzeption und A. von Leibniz bis Kant (Diss. Bonn 1902). – G. E. BARIÉ: Du ‹cogito› Cartésien au moi transcendental. Rev. philos. France Etrang. (1951) 211–227.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"450\"></span> Vgl. Chanson de Roland 2035. 2283.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. Monad. § 13; seitdem ist die Cartesianische Gleichung perceptio = cogitatio korrigiert: A. G. BAUMGARTEN, Acroasis logica § 3: «perceptio appercepta est cogitatio».</li>\n<li id=\"fn0-3\" value=\"3\">Principes de la nature ... § 4. Philos. Schriften, hg. GERHARDT (1875–1890) 6, 600.</li>\n<li id=\"fn0-4\" value=\"4\">Daß Tiere ohne Reflexion, aber nicht ohne A. sind, vgl. Nouv. Ess. II, chp. 21, § 5.</li>\n<li id=\"fn0-5\" value=\"5\">Nouv. Ess. I, chp. 1, § 11.</li>\n<li id=\"fn0-6\" value=\"6\">Monad. § 30.</li>\n<li id=\"fn0-7\" value=\"7\">Nouv. Ess. II, chp. 27; Philos. Schriften 5, 213–229.</li>\n<li id=\"fn0-8\" value=\"8\">CHR. WOLFF, Psychol. empirica § 25; durch LOCKE erhält ‹conscientia› die Prägung ‹self-consciousness›: Ess. conc. human understanding 2 (1690) chp. 27, 16; sie wird von LEIBNIZ als ‹conscienciosité ou le sentiment du moy› übertragen: Nouv. Ess. II, chp. 27, § 9.</li>\n<li id=\"fn0-9\" value=\"9\">CHR. WOLFF, Psychol. rationalis (1740) a.a.O. [8] Sect. I, § 25 .</li>\n<li id=\"fn0-10\" value=\"10\">a.a.O. § 20.</li>\n<li id=\"fn0-11\" value=\"11\">G. F. MEIER: Auszug aus der Vernunftlehre (1752) § 13, abgedruckt in KANT, Akad.-A. 16.</li>\n<li id=\"fn0-12\" value=\"12\">Logik-Nachlaß, Akad.-A. 16, Reflexion 1679.</li>\n<li id=\"fn0-13\" value=\"13\">CHR. A. CRUSIUS: Entwurf der nothwendigen Vernunftwahrheit 2 (1753) § 444.</li>\n<li id=\"fn0-14\" value=\"14\">KANT, Anthropol. § 7.</li>\n<li id=\"fn0-15\" value=\"15\">A. G. BAUMGARTEN: Met. (<sup>3</sup>1757) § 535.</li>\n<li id=\"fn0-16\" value=\"16\">KANT, Logik-Nachlaß a.a.O. [12] Reflexion 1680.</li>\n<li id=\"fn0-17\" value=\"17\">CHR. A. CRUSIUS: Weg zur Gewißheit und Zuverlässigkeit der menschlichen Erkenntnis (1747) Kap. II, § 65.</li>\n<li id=\"fn0-18\" value=\"18\">Anthrop. § 4 Anm. vgl. § 7.</li>\n</ol>",
+ "prev":{"id":211,"lemma":"Appellatio","band":"1","col":448},
+ "next":{"id":213,"lemma":"Apperzeption, transzendentale","band":"1","col":451},
+ "backlinks":[
+  {"id":552,"lemma":"Denken","n":1},
+  {"id":3114,"lemma":"Synthesis; synthetisch","n":1},
+  {"id":3390,"lemma":"Verdichtung","n":1},
+  {"id":3462,"lemma":"Vielheit","n":1},
+  {"id":3503,"lemma":"Vorstellung","n":1},
+  {"id":3539,"lemma":"Wahrnehmung","n":3}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Apprehension","qualifier":"","band":"1","col":"450"},
+  {"term":"Aufmerksamkeit","qualifier":"","band":"1","col":"450"},
+  {"term":"Deutlichkeit","qualifier":"","band":"1","col":"449"},
+  {"term":"Empfindung, innere","qualifier":"","band":"1","col":"450"},
+  {"term":"Ich-Identität","qualifier":"","band":"1","col":"449"},
+  {"term":"Identität, moralische","qualifier":"","band":"1","col":"449"},
+  {"term":"innerer Sinn","qualifier":"","band":null,"col":null},
+  {"term":"Perzeption","qualifier":"","band":null,"col":null},
+  {"term":"primäres/sekundäres (Reininger)","qualifier":"","band":"1","col":"449"},
+  {"term":"reflection","qualifier":"","band":"1","col":"450"},
+  {"term":"réflexion de l'esprit","qualifier":"","band":"1","col":"449f."},
+  {"term":"Selbstwahrnehmung","qualifier":"","band":"1","col":"450"},
+  {"term":"sensus internus","qualifier":"","band":"1","col":"450"},
+  {"term":"Unterscheiden","qualifier":"","band":"1","col":"449"}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":2,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":150,"name":"Ch. A. Crusius","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":48,"name":"A. G. Baumgarten","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":21,"name":"J. Locke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":103,"name":"G. F. Meier","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":229,"name":"F. A. Lange","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1846,"name":"G. Salomon","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":13542,"name":"J. Rülf","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19309,"name":"J. Capesius","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19310,"name":"A. Sicker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19311,"name":"G. E. Barié","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2329,"lemma":"Perzeption","tf":4},
+  {"id":2828,"lemma":"Selbstbewußtsein","tf":4},
+  {"id":219,"lemma":"Apprehension","tf":2},
+  {"id":2634,"lemma":"Reflexion","tf":4},
+  {"id":723,"lemma":"Empfindung","tf":2},
+  {"id":2794,"lemma":"Seele","tf":3},
+  {"id":2318,"lemma":"Person","tf":2},
+  {"id":2183,"lemma":"Objekt","tf":2},
+  {"id":3047,"lemma":"Subjekt","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[
+  {"id":213,"lemma":"Apperzeption, transzendentale"},
+  {"id":412,"lemma":"Bewußtsein"},
+  {"id":552,"lemma":"Denken"},
+  {"id":2329,"lemma":"Perzeption"},
+  {"id":2634,"lemma":"Reflexion"},
+  {"id":3390,"lemma":"Verdichtung"},
+  {"id":3503,"lemma":"Vorstellung"},
+  {"id":3539,"lemma":"Wahrnehmung"}
+ ],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Apperzeption"}],
+ "reg_authors":[{"name":"Janke Wolfgang","n":5}]
+}
+);

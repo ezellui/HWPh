@@ -1,0 +1,38 @@
+HWPH.put("a/75",
+{
+ "id":75,
+ "lemma":"Akkumulationstheorie",
+ "band":"1",
+ "kind":"article",
+ "col_from":127,
+ "col_to":127,
+ "pdf_from":646,
+ "pdf_to":647,
+ "authors":["J. Frese"],
+ "n_notes":3,
+ "n_chars":1740,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Akkumulationstheorie (von lat. accumulare, anhäufen). Sie ist ein wesentlicher Teil von MARX' Ökonomie <sup class=\"fn\" data-fn=\"0-1\">1</sup>: Der kapitalistische Produktionsprozeß setzt ein mit der (zuerst von ADAM SMITH <sup class=\"fn\" data-fn=\"0-2\">2</sup> eingehend erörterten) «ursprünglichen Akkumulation» (erste Kapitalbildung, gewaltsame Beseitigung der Feudalwirtschaft, Freisetzung von Arbeitskräften), reproduziert sich in einer ununterbrochenen Folge von Verwandlungen nicht konsumierten Mehrwerts in Kapital (Akkumulation i.e. S.) und führt einerseits zu Produktionserweiterung, Marktausdehnung, Konkurrenz, Konzentration, Zentralisation, Rationalisierung von Produktionstechnik und – Organisation, andrerseits zu Überproduktion, Unterkonsumtion, Verelendung, periodischen Krisen, revolutionären Situationen und damit schließlich zum Zusammenbruch der kapitalistischen Produktionsverhältnisse. Die Interpretation der von MARX als idealtypisches Modell konstruierten A. ist umstritten <sup class=\"fn\" data-fn=\"0-3\">3</sup>; vielfach wird die A. als Verknüpfung wirtschafts- und geschichtsphilosophischer Prognosen mißverstanden.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">K. MARX/F. ENGELS, Werke (1962–1968) 23–26/3; K. MARX: Resultate des unmittelbaren Produktionsprozesses. Archiv Marksa i Ėngel'sa NF 2 (1933) 1–268.</li>\n<li id=\"fn0-2\" value=\"2\">A. SMITH: An inquiry into the nature and the causes of the wealth of nations (London 1776) 2. Buch, 3. Kap.</li>\n<li id=\"fn0-3\" value=\"3\">R. LUXEMBURG: Die Akkumulation des Kapitals (1913, Neudruck 1966); N. I. BUCHARIN: Der Imperialismus und die Akkumulation des Kapitals (1926); H. GROSSMANN: Das Akkumulations- und Zusammenbruchsgesetz des kapitalistischen Systems (1929, Neudruck 1967); P. M. SWEEZY: The theory of capitalist development (New York 1942, dtsch. 1959); J. ROBINSON: The accumulation of capital (London 1956); E. MANDEL: Traité d'économie marxiste (Paris 1962, dtsch. 1968).</li>\n</ol>",
+ "prev":{"id":74,"lemma":"Akkulturation","band":"1","col":126},
+ "next":{"id":76,"lemma":"Akoluthie","band":"1","col":127},
+ "backlinks":[{"id":3394,"lemma":"Verelendung","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":16,"name":"K. Marx","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":45,"name":"F. Engels","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":134,"name":"A. Smith","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1985,"name":"J. Robinson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1229,"name":"R. Luxemburg","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3936,"name":"E. Mandel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5399,"name":"Adam Smith","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4808,"name":"N. I. Bucharin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":10440,"name":"H. Grossmann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13380,"name":"P. M. Sweezy","b":0,"n":1,"l":0,"editor":0,"role":"source"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":2470,"lemma":"Produktionsverhältnisse/Produktivkräfte"},{"id":3394,"lemma":"Verelendung"}],
+ "groups":[{"id":23,"name":"Marxismus","label":"Akkumulationstheorie"}],
+ "reg_authors":[{"name":"Frese Jürgen","n":5}]
+}
+);

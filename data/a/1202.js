@@ -1,0 +1,27 @@
+HWPH.put("a/1202",
+{
+ "id":1202,
+ "lemma":"Günstling der Natur",
+ "band":"3",
+ "kind":"article",
+ "col_from":937,
+ "col_to":937,
+ "pdf_from":10283,
+ "pdf_to":10283,
+ "authors":["K. Weyand"],
+ "n_notes":1,
+ "n_chars":671,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Günstling der Natur. Nach KANT besteht in den exakten Wissenschaften nur ein gradueller Unterschied zwischen dem größten Entdecker und dem durchschnittlichen Wissenschaftler, weil der Entdecker den Weg seiner neuen Erkenntnis und ihr Ergebnis jedermann so zu demonstrieren vermag, daß es durch Lernen nachvollzogen werden kann. Der G.d.N. oder das Genie, d.h. der Künstler, dagegen kann hinsichtlich seines «Talents für die schöne Kunst» nicht anzeigen, «wie sich seine phantasiereichen und doch so gedankenvollen Ideen in seinem Kopfe hervor- und zusammenfinden, darum weil er es selbst nicht weiß und es also auch keinen anderen lehren kann» <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">KANT, KU. Akad.-A. 5, 309.</li>\n</ol>",
+ "prev":{"id":1201,"lemma":"Gültigkeit","band":"3","col":934},
+ "next":{"id":1203,"lemma":"Gut, das Gute, das Gut","band":"3","col":938},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"σπουδᾶιος","qualifier":"I","band":"3","col":"937f."}],
+ "persons":[{"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Günstling der Natur (Kant)"}],
+ "reg_authors":[{"name":"Reiner Hans","n":32},{"name":"Weyand Klaus","n":3}]
+}
+);

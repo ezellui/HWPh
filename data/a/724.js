@@ -1,0 +1,27 @@
+HWPH.put("a/724",
+{
+ "id":724,
+ "lemma":"Empfindungszeit",
+ "band":"2",
+ "kind":"article",
+ "col_from":474,
+ "col_to":474,
+ "pdf_from":5149,
+ "pdf_to":5149,
+ "authors":["O. Neumann"],
+ "n_notes":1,
+ "n_chars":362,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Empfindungszeit. Mit ‹E.› wird in der Psychologie die Zeitspanne bezeichnet, die zwischen der Einwirkung eines Reizes und dem Beginn der von ihm ausgelösten Empfindung vergeht. Messungen mit verschiedenen indirekten Methoden haben E. ergeben, die je nach Stärke des Reizes in der Größenordnung von 100 bis 200 Millisekunden liegen <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">F. W. FRÖHLICH: Die E. (1929).</li>\n</ol>",
+ "prev":{"id":723,"lemma":"Empfindung","band":"2","col":456},
+ "next":{"id":725,"lemma":"Empiriokritizismus","band":"2","col":474},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":3955,"name":"W. D. Fröhlich","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":36,"name":"Psychologie","label":"Empfindungszeit"}],
+ "reg_authors":[{"name":"Neumann Karl","n":9}]
+}
+);

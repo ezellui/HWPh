@@ -1,0 +1,57 @@
+HWPH.put("a/703",
+{
+ "id":703,
+ "lemma":"Ektypus",
+ "band":"2",
+ "kind":"article",
+ "col_from":436,
+ "col_to":437,
+ "pdf_from":5017,
+ "pdf_to":5020,
+ "authors":["J. Hüllen"],
+ "n_notes":21,
+ "n_chars":3626,
+ "toc":[
+  ["p1","2. Die Kirchenväter, vor allem die griechischer Sprache, gebrauchten die ",3],
+  ["p2","3. In der Neuzeit gebraucht LOCKE diesen Begriff bei der Gliederung der «",3],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Ektypus. – 1. Der Ausdruck geht auf griechisch εκτυπος und verwandte Wörter, wie vor allem ἐκτúπωμα zurück. Allgemein bedeutet ‹E.› Nach-oder Abbild, insbesondere aber das durch Prägung (τúπτειν, ἐκτúπωσις) Entstandene. Adjektivisch oder adverbial gebraucht, zeigt sich das Wort im gleichen Sinn, zusätzlich jedoch in der Bedeutungsfamilie von lateinisch ‹distinctus›. – PLATON, der die Begriffe der ἔκτυπος-Familie häufiger gebraucht, spricht bei der Erläuterung der drei Arten des Werdens von der Nachbildung der Ideen und dem Nachgebildetsein: ἐκτúπωμα, ἐκτυποúμενον <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – Für CHRYSIPP ist die Phantasie unklar, wenn sie nicht Abdruck eines ihr real Zugrundeliegenden (ἔκτυπον ὑπάρχοντος) ist <sup class=\"fn\" data-fn=\"0-2\">2</sup>. – In einem mehr spezifischen Wortgebrauch <sup class=\"fn\" data-fn=\"0-3\">3</sup> spricht SENECA von «imago ectypa» <sup class=\"fn\" data-fn=\"0-4\">4</sup> und PLINIUS von «ectypae scalpturae» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. – SEXTUS EMPIRICUS stellt dem Adverb ἐκτúπως (hier ‹klar, deutlich›) als Gegensatz συγκεχυμένους (verworren) gegenüber <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p id=\"p1\">2. Die <i>Kirchenväter</i>, vor allem die griechischer Sprache, gebrauchten die Begriffe der ἔκτυπος-Familie in vielen Beziehungen <sup class=\"fn\" data-fn=\"1-1\">1</sup>: CLEMENS VON ALEXANDRIEN unterscheidet unter den nomina u.a. solche, die «Abbilder und Ektypus des ihnen Zugrundeliegenden» (ὁμοιώματα καὶ ἐκτυπώματα τῶν ὑποκειμένων) sind <sup class=\"fn\" data-fn=\"1-2\">2</sup>. – HIPPOLYTUS ROMANUS spricht in bezug auf die Schöpfung von Ideen und Abbildern (ἰδέαι, ἐκτυπώματα) der Äonen <sup class=\"fn\" data-fn=\"1-3\">3</sup>. – Über die Menschwerdung Christi (Xριστóς ... ἀνδρείκελον ἐκτúπωμα) philosophiert EPIPHANIUS CONSTANTIENSIS <sup class=\"fn\" data-fn=\"1-4\">4</sup>. JOHANNES DAMASCENUS gebraucht ähnlich wie schon vorher CYRILLUS HIEROSOLYMITANUS <sup class=\"fn\" data-fn=\"1-5\">5</sup> – den Begriff in spezifisch christlicher Verbindung: «Signum crucis» (τοῦ σταυροῦ τὸ ἐκτúπωμα) <sup class=\"fn\" data-fn=\"1-6\">6</sup>. PSEUDO-DIONYSIOS AREOPAGITA, indem er darlegt, wie Gott unteilbar in allem Seienden enthalten ist, stellt dem Abbild (ἐκτúπωμα) ein Urbild (ἀρχέτυπον); (hier adjektivisch gebraucht) gegenüber <sup class=\"fn\" data-fn=\"1-7\">7</sup>.</p>\n<p id=\"p2\">3. In der <i>Neuzeit</i> gebraucht LOCKE diesen Begriff bei der Gliederung der «ideas». Die einfachen, «ἔκτυπα, or copies» sind «adequate» <sup class=\"fn\" data-fn=\"2-1\">1</sup>. «Secondly, the complex ideas of substances are ectypes, copies too, but not perfect ones, not adequate» <sup class=\"fn\" data-fn=\"2-2\">2</sup>. Den «ectypes» der «sensation» stehen einmal gegenüber die «archetypes» als Gegenstände der realen Welt <sup class=\"fn\" data-fn=\"2-3\">3</sup>, zum anderen die «Archetypes» als «ideas of Modes and Relations» <sup class=\"fn\" data-fn=\"2-4\">4</sup>. – KANT unterscheidet einen «intellectus ectypus» und einen «intellectus archetypus», einen «Verstand, in welchem durch das Selbstbewußtsein zugleich alles Mannigfaltige gegeben würde» <sup class=\"fn\" data-fn=\"2-5\">5</sup>. <span class=\"col\" data-col=\"437\"></span> Der intellectus ectypus ist der menschliche, nur diskursiv denkende, nicht anschauende, endliche Verstand, dem der «intuitus derivatus» zukommt <sup class=\"fn\" data-fn=\"2-6\">6</sup>. Ferner unterscheidet Kant eine übersinnliche, urbildliche Natur, «natura archetypa», und «deren Gegenbild in der Sinnenwelt», die «natura ectypa» <sup class=\"fn\" data-fn=\"2-7\">7</sup>. ‹Ectypon› nennt Kant das «Nachbild» der ästhetischen Darstellung, dem die «ästhetische Idee» als «Archetypon» zugrunde liegt <sup class=\"fn\" data-fn=\"2-8\">8</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Tim. 50 d.</li>\n<li id=\"fn0-2\" value=\"2\">SVF II, 21.</li>\n<li id=\"fn0-3\" value=\"3\">Realencyclop. class. Altertumswiss. 5/2, Art. ‹E.›.</li>\n<li id=\"fn0-4\" value=\"4\">De beneficiis III, 26, 1.</li>\n<li id=\"fn0-5\" value=\"5\">Naturalis historia 37, § 173.</li>\n<li id=\"fn0-6\" value=\"6\">Adv. mathematicos VII, 172, hg. I. BEKKER (1842) 228.</li>\n<li id=\"fn1-1\" value=\"1\">G. W. H. LAMPE: Patristic Greek Lex. (1961) Art. ‹E.›, EKTUPOMA, EKTUPOO, EKTUPOSIS.</li>\n<li id=\"fn1-2\" value=\"2\">Stromat. 8, 8. MPG 9, 589 a.</li>\n<li id=\"fn1-3\" value=\"3\">Refutatio omnium haeresium 8, 9. Werke, hg. P. WEINLAND, in: Die griech. christl. Schriftsteller der ersten drei Jh. 3 (1916) 228.</li>\n<li id=\"fn1-4\" value=\"4\">Panarion seu adversus haereses 30, 17. MPG 41, 433 c.</li>\n<li id=\"fn1-5\" value=\"5\">Catecheses mystagogicae IV, 7. MPG 33, 1102.</li>\n<li id=\"fn1-6\" value=\"6\">De sacris imaginibus orationes I, 321. MPG 94, 1264 b.</li>\n<li id=\"fn1-7\" value=\"7\">De div. nominibus II, 5. MPG 3, 644 a. <span class=\"col\" data-col=\"437\"></span></li>\n<li id=\"fn2-1\" value=\"1\">An essay conc. human understanding II, 31, 12.</li>\n<li id=\"fn2-2\" value=\"2\">ebda.</li>\n<li id=\"fn2-3\" value=\"3\">a.a.O. IV, 4, 8; IV, 4, 12.</li>\n<li id=\"fn2-4\" value=\"4\">II, 31, 14.</li>\n<li id=\"fn2-5\" value=\"5\">Akad.-A. 3, 110.</li>\n<li id=\"fn2-6\" value=\"6\">a.a.O. 5, 406.</li>\n<li id=\"fn2-7\" value=\"7\">5, 43.</li>\n<li id=\"fn2-8\" value=\"8\">5, 322.</li>\n</ol>",
+ "prev":{"id":702,"lemma":"Ekstase","band":"2","col":434},
+ "next":{"id":704,"lemma":"Elan vital","band":"2","col":437},
+ "backlinks":[{"id":3244,"lemma":"Typos; Typologie","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Abbild","qualifier":"","band":null,"col":null},
+  {"term":"Abdruck","qualifier":"","band":"2","col":"436"},
+  {"term":"Nachbild","qualifier":"","band":null,"col":null},
+  {"term":"ἀρχέτυπον","qualifier":"","band":"2","col":"436"},
+  {"term":"ἔκτυπος","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21,"name":"J. Locke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":49,"name":"Seneca","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":90,"name":"Sextus Empiricus","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":146,"name":"Chrysipp","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":128,"name":"Clemens von Alexandrien","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":140,"name":"Ps.-Dionysius Areopagita","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":426,"name":"Plinius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":636,"name":"Johannes Damascenus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":20070,"name":"Hippolytus Romanus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":20071,"name":"Epiphanius Constantiensis","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":20072,"name":"Cyrillus Hierosolymitanus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":20073,"name":"Ektupoma","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":20074,"name":"Ektupoo","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":20075,"name":"Ektuposis.","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1026,"name":"G. W. H. Lampe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2436,"name":"I. Bekker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":13893,"name":"P. Weinland","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":239,"lemma":"Archetypus"},{"id":3244,"lemma":"Typos; Typologie"}],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Ektypus"}],
+ "reg_authors":[{"name":"Hüllen Jürgen","n":7}]
+}
+);

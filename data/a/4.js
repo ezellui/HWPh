@@ -1,0 +1,27 @@
+HWPH.put("a/4",
+{
+ "id":4,
+ "lemma":"Vorbemerkung [zu Band 3]",
+ "band":"3*",
+ "kind":"front",
+ "col_from":5,
+ "col_to":5,
+ "pdf_from":120,
+ "pdf_to":123,
+ "authors":[],
+ "n_notes":0,
+ "n_chars":4579,
+ "toc":[],
+ "html":"<p>Vorbemerkung [zu Band 3]</p>\n<p>Der dritte Band des ‹Historischen Wörterbuchs der Philosophie› erscheint später als vorgesehen. Ein Grund dafür liegt darin, daß sich die Belastung der meisten Herausgeber und vieler Autoren im Hochschulbereich weiterhin verschärft und sie genötigt hat, für ihre Arbeiten am Wörterbuch mehr und mehr in die vorlesungsfreie Zeit auszuweichen. Der zweite Grund liegt in der zunehmenden, von der Kritik vielfach unterstützten Tendenz mancher Mitarbeiter, die Belege für den Gebrauch eines Begriffes möglichst umfassend in ihre Beiträge einzubringen. Das hat dazu geführt, daß die Darstellung einiger großer Titel (z.B. Geist, Gesetz, Geschichte, Gott) sich stark ausgeweitet und damit natürlich auch Zeit über das normale Maß hinaus beansprucht hat.</p>\n<p>Solche Artikel begründen einerseits das wissenschaftliche Niveau des Wörterbuches; sie bringen auf der anderen Seite aber auch Risiken und Nachteile mit sich: Die Tendenz zur immer vollständigeren Berücksichtigung auch kleinerer Autoren und weniger bekannter Epochen könnte im Extrem dazu führen, daß Struktur und Kontur der Geschichte eines Begriffes mit ihren Wendungen, Umschlägen und Höhepunkten in der Fülle des Materials verschwinden und für den Leser ungreifbar werden; und sie hat schon jetzt – durch Vermehrung der durchschnittlichen Artikelumfange um die Hälfte gegenüber dem ersten Band – zur Folge gehabt, daß sich Herausgeber und Verlag entschließen mußten, den dritten Band auf die Buchstaben ‹G› und ‹H› zu beschränken, um ihn nicht unhandlich werden zu lassen. Er ist trotzdem noch um 120 Spalten umfangreicher geworden als sein Vorgänger.</p>\n<p>Der Verzicht auf die Einbeziehung von Artikeln zum Buchstaben ‹I› in den dritten Band hat sich auf den Herausgabeplan des Gesamtwerkes in der Weise ausgewirkt, daß nun mit dem Erscheinen von 9 bis 10 Textbänden anstelle der angekündigten 8 zu rechnen ist. Es wird eine stete Sorge der Herausgeber und des Verlags sein müssen, einer weiteren Vermehrung der Bandzahl und einer entsprechenden Verlängerung der Erscheinungsdauer entgegenzuwirken. Diese Aufgabe wird um einiges durch eine noch engere Zusammenarbeit zwischen dem Wörterbuch und dem ‹Archiv für Begriffsgeschichte› erleichtert werden. Sie bietet die Möglichkeit, Artikel, die sich zu umfänglicheren Abhandlungen ausgewachsen haben, im Wörterbuch in einer Kurzfassung erscheinen zu lassen, den vollen Text aber im ‹Archiv› zu veröffentlichen und so zu verhindern, daß aus Raumgründen begriffsgeschichtliche Informationen verlorengehen.</p>\n<p>Während der Arbeit an diesem Band mußte Herr Jürgen Frese wegen überlastung aus dem Herausgeberkreis ausscheiden. Seine Nachfolge hat Herr Kurt Röttgers angetreten. Ich danke Herrn Frese sehr herzlich für die wichtige Arbeit, die er redaktionell und als Autor für das Wörterbuch geleistet hat, und Herrn Röttgers für seine Bereitschaft, diese Arbeit weiterzuführen.</p>\n<p>Die Akademie der Wissenschaften und der Literatur zu Mainz hat beschlossen, das Patronat über die Arbeit an den noch ausstehenden Bänden zu übernehmen. Ihrem Präsidenten, Herrn Heinrich Bredt, und ihrem Generalsekretär, Herrn Günter Brenner, schulden Herausgeber und Verlag besonderen Dank für ihre Bemühungen um die langfristige Sicherung des Unternehmens.</p>\n<p>Der Dank der Herausgeber gilt wiederum der Deutschen Forschungsgemeinschaft, dem Verlag Schwabe und der Wissenschaftlichen Buchgesellschaft. Er gilt allen Autoren, die für den vorliegenden Band Artikel verfaßt haben, Herrn H. Kamp vom Rechenzentrum der Universität Münster, der seine Erfahrungen in der Computertechnik für die Vorbereitung des Indexbandes und die administrativen Belange des Wörterbuches zur Verfügung stellt, den wissenschaftlichen Mitarbeitern des Herausgeberkreises sowie den Damen und Herren, die an den Editionsarbeiten für kürzere oder längere Zeit beteiligt gewesen sind: in Bielefeld: I. v. Hunnius; in Bochum: P. Laßlop, G. Treder; in Gießen: P. Jaenecke, P. Probst; in Konstanz: I. Richter, J. Schneider, L. Welsch; in Münster: St. v. Beverfoerde, D. Friedrichs, L. Hellweg, N. Herold, A. Hillmann, W. Knispel, S. Kunkel, W. Nieke, S. Rücker, U. Schniering, F. Steinbeck; in Stuttgart: K.H. Nusser; im Rechenzentrum der Universität Münster: Chr. F. Görlich, I. Sternschulte. Die Herausgeber danken schließlich den Universitätsbibliotheken in Bielefeld, Bochum, Gießen, Konstanz, Münster und Stuttgart sowie der Phototechnischen Zentrale der Universität Münster für ihre unentbehrliche Mithilfe bei der Beschaffung und Vervielfältigung schwer erreichbarer Texte. Münster, im Winter 1973/74</p>\n<p>J. RITTER</p>",
+ "prev":{"id":3,"lemma":"Vorbemerkung [zu Band 2]","band":"2*","col":5},
+ "next":{"id":5,"lemma":"Vorbemerkung [zu Band 4]","band":"4*","col":5},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

@@ -1,0 +1,38 @@
+HWPH.put("a/1188",
+{
+ "id":1188,
+ "lemma":"Größe, historische",
+ "band":"3",
+ "kind":"article",
+ "col_from":886,
+ "col_to":887,
+ "pdf_from":10121,
+ "pdf_to":10123,
+ "authors":["E. Heftrich"],
+ "n_notes":10,
+ "n_chars":2681,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Größe, historische. In J. BURCKHARDTS ‹Weltgeschichtlichen Betrachtungen› ist der 5. Teil ‹Das Individuum und das Allgemeine› der Prüfung der h. G. gewidmet. Seiner Skepsis gegenüber absoluter Wertung und seiner Antipathie gegen Systematisierung zum Trotz deckt Burckhardt in diesen Betrachtungen seine sonst verborgene geschichtsphilosophische Position auf. Ausgangspunkt ist die Abweisung: «Größe ist, was <i>wir nicht</i> sind» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Der Begriff der Größe ist unentbehrlich, bleibt aber relativ, weil wir nicht hoffen können, «zu einem absoluten durchzudringen» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Wirkliche Größe ist ein «Mysterium», ihre Wirkung «magisch», der Maßstab unsicher, ungleich, inkonsequent <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Deshalb glaubt Burckhardt statt «Erklärung» nur «Umschreibungen» geben zu können <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Wenn das Allgemeine in einem Individuum kulminiert, bildet sich das Gefühl, daß die Welt ohne dieses Individuum, das auch ein ganzes Volk sein kann, unvollständig sei oder gewesen wäre. Eindeutig anerkennt Burckhardt die Größe der Repräsentanten des Geistes. Dabei überträgt er unausgesprochen RANKES Definition von der geschichtlichen Bestimmung der Nationen auf Künstler, Dichter, Philosophen. Von den «eigentlich h. G.» läßt BURCKHARDT jedoch nur die Religionsstifter eindeutig gelten, weil in ihrer Individualität «das Ganze» mit «unwiderstehlicher <span class=\"col\" data-col=\"887\"></span> Gewalt» lebt <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die Betrachtung der «großen Männer der sonstigen historischen Weltbewegung» <sup class=\"fn\" data-fn=\"0-6\">6</sup> ist von der Überzeugung gefärbt, daß die Macht an sich böse sei. Burckhardt erkennt, ohne sie unumschränkt anzuerkennen, eine «Dispensation von dem gewöhnlichen Sittengesetz» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die außerordentlichen Individuen, deren Kairos in den Krisen, den schrecklichen Zeiten, liegt, haben Machtsinn. Als erste Aufgabe betrachten sie es, «sich zu behaupten und zu steigern» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Darum ist «Seelengröße» bei weltgeschichtlichen Individuen das «Allerseltenste» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Burckhardts Begriff historischer Größe ist, obwohl bewußt gegen die Erkenntnis vom Gang des Geistes in der Weltgeschichte gesetzt, doch von <i>Hegel</i> abhängig <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Nicht die Wertung, wohl aber die Analyse hat auf <i>Nietzsche</i> gewirkt.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">K. LÖWITH: J. Burckhardt. Der Mensch inmitten der Gesch. (1936, <sup>2</sup>1966). – A. v. MARTIN: Nietzsche und Burckhardt (<sup>3</sup>1945). – W. KAEGI: J. Burckhardt. Eine Biographie 1–6 (1947ff.). – E. SALIN: J. Burckhardt und Nietzsche (1938); neue Fassung: ‹Vom deutschen Verhängnis› (<sup>3</sup>1959). R. STADELMANN: J. Burckhardts Weltgesch. Betrachtungen. Hist. Z. 169 (1949) 31–72. – E. HEFTRICH: Hegel und J. Burckhardt (1967).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"887\"></span> J. BURCKHARDT, Weltgesch. Betrachtungen 5. Gesamtausgabe (1929–1934) 7, 160.</li>\n<li id=\"fn0-2\" value=\"2\">ebda.</li>\n<li id=\"fn0-3\" value=\"3\">7, 161.</li>\n<li id=\"fn0-4\" value=\"4\">7, 162.</li>\n<li id=\"fn0-5\" value=\"5\">7, 176.</li>\n<li id=\"fn0-6\" value=\"6\">ebda.</li>\n<li id=\"fn0-7\" value=\"7\">7, 186.</li>\n<li id=\"fn0-8\" value=\"8\">7, 181.</li>\n<li id=\"fn0-9\" value=\"9\">ebda.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. G. W. F. HEGEL, Philos. der Gesch. Werke, hg. GLOCKNER 11, 52ff.</li>\n</ol>",
+ "prev":{"id":1187,"lemma":"Größe","band":"3","col":878},
+ "next":{"id":1189,"lemma":"Großmut","band":"3","col":887},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":325,"name":"J. Burckhardt","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":721,"name":"Ranke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":185,"name":"K. Löwith","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1825,"name":"Martin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4539,"name":"W. Kaegi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5076,"name":"E. Salin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6444,"name":"E. Heftrich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":7325,"name":"R. Stadelmann","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":1187,"lemma":"Größe","tf":6},{"id":1424,"lemma":"Individuum, Individualität","tf":4}],
+ "see_also":[],
+ "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Grösse, historische (Burckhardt)"}],
+ "reg_authors":[{"name":"Heftrich Eckhard","n":5}]
+}
+);

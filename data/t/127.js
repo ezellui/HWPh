@@ -1,0 +1,12 @@
+HWPH.put("t/127",
+{
+ "b":"Analysis fidei ist der Titel für ein nachtridentinisches, besonders im 19./20. Jh. diskutiertes theologisches Problem; es wird gefragt, auf welchem Fundament der (kirchliche Autoritäts-)Glaube letztlich ruhe (ultima resolutio fidei). Der Gläubige glaubt «um der Autorität des offenbarenden Gottes willen, der sich nicht täuschen noch selbst täuschen kann» , ist aber dieser Autorität als redender erst gewiß, wenn er die Glaubwürdigkeit Gottes erkannt hat (wobei diese innere Glaubwürdigkeit des Wortes Gottes von seiner äußeren Glaubwürdigkeit: daß das Wort Gottes im Predigtwort der Kirche tatsächlich gegeben ist, unterschieden wird). Wie verhalten sich für den Glaubensakt diese beiden Faktoren (Autorität Gottes und Glaubwürdigkeitsurteil) im Glaubenden zueinander? Ein Lösungstyp sieht in der Glaubenszustimmung einen Doppelakt; die Zustimmung zum Glaubensinhalt ist Folge derjenigen zum Glaubensmotiv: Ich glaube die Trinität, weil ich (durch Glauben, so SUÁREZ, oder durch Evidenz, so de LUGO, FRANZELIN) festhalte, daß Gott sie geoffenbart hat. Bei dem anderen Lösungstyp erfaßt die Glaubenszustimmung Gottes Wahrhaftigkeit und was er offenbart per modum unius lebendigkonkret. Die Erkenntnis der Glaubwürdigkeitsgründe hat nur die Aufgabe, dem Glaubenden Gott in den Blick zu bringen. Nach THOMAS VON AQUIN geht die Glaubensgewißheit auf das Glaubenslicht zurück, das dem Menschen den sich offenbarenden Gott und was er spricht hell macht . Nach P. ROUSSELOT wird sogar die Glaubwürdigkeitserkenntnis als natürliche «in wechselseitiger Priorität» mit Glaubensmotiv und -inhalt durch die Glaubensgnade «gesehen» .",
+ "n":"Vaticanum I, vgl. DENZINGER/SCHÖNMETZER Nr. 3008. \nTHOMAS, S. theol. II/II, 1, 5 ad 1 bzw. 4 ad 3. \nP. ROUSSELOT: Die Augen des Glaubens (1910, dtsch. 1963) 29.",
+ "l":"M. J. SCHEEBEN: Kath. Dogmatik 1 (1873, M959). – S. HARENT: Foi. Dict. de théol. cath. 6 (1920). – F. SCHLAGENHAUFEN: Die Glaubensgewißheit und ihre Begründung in der Neuscholastik. Z. kath. Theol. 56 (1932). – E. SEITERICH: Wege der Glaubensbegründung nach der sog. Immanenzapologetik (1938). – R. AUBERT: Le problème de l'acte de foi (1945, 31958). – F. MALMBERG: A. f. Lex. Theol. u. Kirche 1 (21957). – J. TRÜTSCH und J. PFAMMATTER: Der Glaube, in: J. FEINER und M. LÖHRER: Mysterium salutis 1 (1965). – H. BOUILLARD: Logik des Glaubens (1966).",
+ "au":"A. Kolping",
+ "A":["A. Kolping"],
+ "cb":[[0,248],[1300,249]],
+ "cn":[[0,248],[0,249],[51,249],[100,249]],
+ "cl":[[0,249]]
+}
+);

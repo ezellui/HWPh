@@ -1,0 +1,57 @@
+HWPH.put("a/237",
+{
+ "id":237,
+ "lemma":"Arcanum",
+ "band":"1",
+ "kind":"article",
+ "col_from":494,
+ "col_to":495,
+ "pdf_from":1831,
+ "pdf_to":1834,
+ "authors":["K. Goldammer"],
+ "n_notes":17,
+ "n_chars":3655,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Arcanum (pl. arcana, Geheimnis, Geheim- oder <span class=\"col\" data-col=\"495\"></span> spezifisches Mittel, geheime Kraft, Geheimlehre) ist ein aus der antiken religiös-kultischen Terminologie über die mittelalterlich-alchemistische Sprachregelung in die frühneuzeitliche medizinisch-pharmazeutische Fachsprache und in den literarischen Gemeingebrauch übernommener Ausdruck. Das Wort (wohl als «absconditum» von lat. arca, Truhe, Kasten) gewinnt seit der Kaiserzeit Verbreitung, besonders für religiöse Sachverhalte (Götter- und Kultgeheimnisse, Mysterien) <sup class=\"fn\" data-fn=\"0-1\">1</sup>, so adjektivisch: «arcana sacra» (TACITUS <sup class=\"fn\" data-fn=\"0-2\">2</sup>), «arcanum murmur» der Sibylle (PRUDENTIUS <sup class=\"fn\" data-fn=\"0-3\">3</sup>) und substantivisch: als das, «quidquid tacendum est», «res mystica» (HORAZ, LIVIUS, SENECA, PLINIUS. HIERONYMUS) <sup class=\"fn\" data-fn=\"0-4\">4</sup>; als «mysteria religionis», für Kultfeiern, «idolorum sollemnia vel arcana» (TERTULLIAN <sup class=\"fn\" data-fn=\"0-5\">5</sup>); für Gottesgeheimnisse, das Tempelinnere (MACROBIUS <sup class=\"fn\" data-fn=\"0-6\">6</sup>). Ähnlich verwendet es die ‹Vulgata› substantivisch und adjektivisch <sup class=\"fn\" data-fn=\"0-7\">7</sup>, besonders bedeutsam in den «arcana verba» von 2. Kor. 12, 4. Die «Arkandisziplin» (disciplina arcani; wissenschaftlicher terminus technicus des 17. Jh., sachlich und sprachlich spätantik) wird wichtig für das Mysterienwesen <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>PARACELSUS führt den Ausdruck ‹A.›, der noch in J. BOEHMES Werken einfach mit «Geheimnis» erklärt wird <sup class=\"fn\" data-fn=\"0-9\">9</sup>, in die philosophische <i>Medizin</i> (ähnlich wie mysteria und magnalia) und besonders in die Heilmittellehre ein, zunächst für das spezifische Heilmittel: soviele Krankheiten wie A. gibt es und umgekehrt <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Es gibt viele «A., magisteria, elixiria und dergleichen», so aurum potabile und mercurius vitae <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Vier A. heilen die Kontrakturen: compositum, solidum, elementatum, metallicum <sup class=\"fn\" data-fn=\"0-12\">12</sup>. «Arcane» besitzen aber z.B. als unkörperliche Kraft auch die Elementargeister und ihre Bereiche <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Überhaupt werden die A. von Geistern gelehrt <sup class=\"fn\" data-fn=\"0-14\">14</sup>. In dem Paracelsischen Werk ‹Archidoxis› befaßt sich ein ganzes Buch mit den A., in dem A. als «uncorporalisch», «untödlich» und als Mittel von verändernder Kraft mit ewigem Leben definiert wird <sup class=\"fn\" data-fn=\"0-15\">15</sup>. «A. dei» ist das «A. in seinem wesen», «A. naturae» ist die Kraft des Dinges in vielfacher Verstärkung, «A. hominis» ist «all sein verdienst und tugent, die er im ewigen behelt». Oder zwei A. sind zu scheiden: «ein perpetuum, das ander pro perpetuo» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Praktisch gibt es vier A.: prima materia, lapis philosophorum, mercurius vitae, tinctura <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Diese variantenreiche Paracelsische Verwendung hat auf die Aufnahme des Wortes in den neuzeitlichen Sprachgebrauch eingewirkt.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">H. GRAVEL: Die Arkandisziplin (Diss. Münster 1902). – L. SCHINDLER: Altchristl. Arkandisziplin und die antiken Mysterien (1911). – O. PERLER in Reallex. Antike und Christentum 1, 667–676. – H. CLASEN: Die Arkandisziplin in der Alten Kirche (Diss. Heidelberg 1956, Ms.).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Thesaurus ling. lat. 2 (1900–1906) 435f. mit reichen Belegen.</li>\n<li id=\"fn0-2\" value=\"2\">TACITUS, Germania 18.</li>\n<li id=\"fn0-3\" value=\"3\">PRUDENTIUS, Apotheosis 477.</li>\n<li id=\"fn0-4\" value=\"4\">Belege in: Thesaurus ... a.a.O. [1] 436.</li>\n<li id=\"fn0-5\" value=\"5\">TERTULLIAN, De baptismo 2; vgl. HIERONYMUS, Ep. 78, 4.</li>\n<li id=\"fn0-6\" value=\"6\">MACROBIUS, Saturnaliorum lib. I, 7: «arcana templorum, arcana divinitatis natura»; vgl. I, 18: «arcanum religiosum».</li>\n<li id=\"fn0-7\" value=\"7\">Exod. 7, 11; Ez. 7, 22; 1. Par. 15, 20; Prov. 11, 13; Jes. 45, 3.</li>\n<li id=\"fn0-8\" value=\"8\">J. LEIPOLDT: Arkandisziplin, in: RGG<sup>3</sup> 1, 606ff. mit Lit.!</li>\n<li id=\"fn0-9\" value=\"9\">Register über alle Theosophische Schriften JACOB BÖHMES (1730) 11.</li>\n<li id=\"fn0-10\" value=\"10\">PARACELSUS, Von den natürlichen Wassern IV, 4. Editio SUDHOFF (= ES) 2, 324.</li>\n<li id=\"fn0-11\" value=\"11\">Das siebente Buch in der Arznei II, 1. ES 2, 434; vgl. Theol. und religionsphilos. Schriften. Editio GOLDAMMER 4, 244 Anm. f; 6, 102: «arcanum der gotheit».</li>\n<li id=\"fn0-12\" value=\"12\">Das neunte Buch in der Arznei II, 8. ES 2, 484.</li>\n<li id=\"fn0-13\" value=\"13\">Liber de nymphis 2. ES 14, 130.</li>\n<li id=\"fn0-14\" value=\"14\">Von den hinfallenden Siechtagen 3. ES 8, 292.</li>\n<li id=\"fn0-15\" value=\"15\">Archidoxis V. ES 3, 138.</li>\n<li id=\"fn0-16\" value=\"16\">a.a.O. 139.</li>\n<li id=\"fn0-17\" value=\"17\">139f.</li>\n</ol>",
+ "prev":{"id":236,"lemma":"Arbor porphyriana, porphyrischer Baum","band":"1","col":493},
+ "next":{"id":238,"lemma":"Archaisch","band":"1","col":495},
+ "backlinks":[{"id":3196,"lemma":"Tinktur","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Geheimlehre; Geheimmittel","qualifier":"","band":null,"col":null},
+  {"term":"Geheimnis","qualifier":"","band":null,"col":null},
+  {"term":"lapis philosophorum","qualifier":"","band":"1","col":"495"},
+  {"term":"mercurius vitae","qualifier":"","band":"1","col":"495"},
+  {"term":"spezifisches Mittel","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":104,"name":"Tertullian","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":278,"name":"Hieronymus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":295,"name":"Paracelsus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":595,"name":"Macrobius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":897,"name":"Tacitus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7208,"name":"Prudentius","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":49,"name":"Seneca","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":426,"name":"Plinius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":414,"name":"Horaz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1011,"name":"Livius","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1708,"name":"K. Goldammer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5456,"name":"J. Boehme","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":13550,"name":"J. Leipoldt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19327,"name":"Jacob Böhmes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1998,"name":"D. Perler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5457,"name":"A. Schindler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19328,"name":"H. Gravel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1000,"name":"K. Sudhoff","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":13551,"name":"H. Clasen","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1680,"lemma":"Kraft","tf":4},
+  {"id":1987,"lemma":"Mittel","tf":2},
+  {"id":3586,"lemma":"Werk","tf":2}
+ ],
+ "see_also":[{"id":3196,"lemma":"Tinktur"}],
+ "groups":[{"id":28,"name":"Naturphilosophie","label":"Arcanum"}],
+ "reg_authors":[{"name":"Goldammer Kurt","n":10}]
+}
+);

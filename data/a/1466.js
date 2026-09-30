@@ -1,0 +1,56 @@
+HWPH.put("a/1466",
+{
+ "id":1466,
+ "lemma":"Intelligenzquotient (IQ)",
+ "band":"4",
+ "kind":"article",
+ "col_from":462,
+ "col_to":463,
+ "pdf_from":12821,
+ "pdf_to":12826,
+ "authors":["E. Lodemann"],
+ "n_notes":9,
+ "n_chars":6733,
+ "toc":[
+  ["p2","1. Durch Aufsuchen derjenigen Altersgruppe der Vergleichspopulation, die ",3],
+  ["p5","2. Die Testleistung (X) des Probanden wird durch ihre Abweichung vom Mitt",3],
+  ["h13","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Intelligenzquotient (IQ) heißt der Index, der die Höhe der von einem Individuum in einem Intelligenztest erzielten Leistung durch einen Vergleich mit den Leistungen einer Bezugsgruppe in diesem Test angibt.</p>\n<p>Die Relativierung der individuellen Leistung auf die der Bezugspopulation kann nach zwei Verfahren erfolgen:</p>\n<p id=\"p2\">1. Durch Aufsuchen derjenigen Altersgruppe der Vergleichspopulation, die im Durchschnitt dasselbe Testergebnis erzielt hat wie der Proband, wird dessen Intelligenzalter (IA) ermittelt; das erreichte IA wird durch das Lebensalter (LA) des Probanden – theoretisch durchsichtiger formuliert: durch das aufgrunddes LA zu er wartende IA – dividiert, der Quotient zur Vermeidung von Dezimalzahlen mit 100 multipliziert.</p>\n<p><i>Allgemeine Formel:</i> IQ = IA/LA · 100</p>\n<p>Der definierte Index – ‹klassischer IQ›, in der anglo-amerikanischen Literatur auch ‹ratio IQ› genannt – kennzeichnet den Leistungsvorsprung (IQ &gt; 100), -gleichstand (IQ = 100) oder -rückstand (IQ &lt; 100) eines Individuums gegenüber der Altersnorm auf dem Hintergrundder durchschnittlichen altersmäßigen Leistungsentwicklung in diesem Test.</p>\n<p id=\"p5\">2. Die Testleistung (X) des Probanden wird durch ihre Abweichung vom Mittelwert der altersentsprechenden Bezugsgruppe angegeben. Die Leistungspunktverteilung wird dabei so transformiert, daß eine Normalverteilung mit dem Mittelwert (<i>μ</i>) 100 und einer vom Testautor festgelegten Streuung, gemessen als Standardabweichung (<i>σ</i>) – meist 15 oder 16 IQ-Punkte –, resultiert. Im Falle einer Normalverteilung der Leistungspunkte mit den Statistiken <i>M</i> und <i>s</i> lautet die <i>allgemeine Formel:</i></p>\n<p>IQ= <i>μ</i> + <i><sup>σ</sup>/<sub>s</sub></i> · (<i>X</i> – <i>M</i>)</p>\n<p>Der definierte Index – obwohl kein Quotient, ‹Abweichungs-IQ› bzw. ‹deviation-IQ› genannt – kennzeichnet die relative Position eines Individuums in der Leistungsverteilung seiner Altersklasse.</p>\n<p>Die Entwicklung des IQ-Konzepts erfolgte im wesentlichen in den theoretischen und/oder praktischen Arbeiten von A. BINET, W. STERN, L. M. TERMAN und D. WECHSLER. Der Versuch BINETS und TH. SIMONS (1905), die Tatsache des Intelligenzleistungsanstiegs während der kindlichen Entwicklung für die Konstruktion einer «échelle métrique de l'intelligence» <sup class=\"fn\" data-fn=\"0-1\">1</sup> nutzbar zu machen, führte zu dem Begriff des «âge mental» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Das IA eines Probanden ist definiert als Äquivalent des LA derjenigen Altersklasse der Vergleichspopulation, die im Durchschnitt <span class=\"col\" data-col=\"463\"></span> dasselbe Testergebnis erzielt hat wie der Proband. Den Intelligenzvorsprung bzw. -rückstand eines Probanden gegenüber der Altersnorm kennzeichnete BINET durch den Differenzwert IA – LA.</p>\n<p>Um der offensichtlich unterschiedlichen Bedeutung einer numerisch gleichen Differenz auf verschiedenen Altersstufen Rechnung zu tragen, schlug STERN 1912 die Einführung des «Intelligenzquotienten» <sup class=\"fn\" data-fn=\"0-3\">3</sup> als Quotienten aus IA und LA vor. Durch die Relativierung auf das jeweilige LA erhält z.B. ein Intelligenzrückstand von einem Jahr bei einem fünfjährigen Kind (IQ: 0,8 bzw. 80) ein stärkeres Gewicht als bei einem zehnjährigen (IQ: 0,9 bzw. 90). Der IQ – so die Erwartung STERNS – sollte ein von der Zunahme des LA des Probanden unabhängiger, konstanter Index der intellektuellen Leistungsfähigkeit sein.</p>\n<p>Die Frage nach der Konstanz des IQ-Wertes im Laufe der individuellen Entwicklung hat jedoch neben einem psychologisch-inhaltlichen einen meßtechnisch-formalen Aspekt. IQ-Maßzahlen verschiedener Altersstufen sind statistisch nur dann vergleichbar, wenn die IQ-Verteilungen der verschiedenen Altersklassen untereinander gleich sind, d.h. im Falle der Normalverteilung: wenn sie denselben Mittelwert und dieselbe Standardabweichung haben, was bei wachsendem LA eine proportionale Zunahme der Streuung des IA und eine Abnahme des entwicklungsbezogen definierten Schwierigkeitsindexes der Testaufgaben impliziert <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Daß sich die resultierenden Forderungen an die Testkonstruktion für den Bereich kindlicher und jugendlicher Entwicklung in einer für die Praxis annehmbaren Weise einlösen lassen, zeigte die zweite Revision der Stanford-Binet Intelligence Scale, vorgelegt 1937 von L. M. TERMAN und M. A. MERILL <sup class=\"fn\" data-fn=\"0-5\">5</sup>, ergänzt durch die Korrekturtafeln von Q. MCNEMAR <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Ungelöst blieb allerdings das Problem der Intelligenzmessung bei Erwachsenen. Das Konzept des IA – und damit das des klassischen IQ – hat eine testspezifische «natürliche Grenze der Anwendbarkeit» <sup class=\"fn\" data-fn=\"0-7\">7</sup>, die erreicht ist, wenn bei wachsendem LA die durchschnittliche Testleistung nicht mehr ansteigt oder sogar absinkt. Wird die definitorische Vorschrift zur Ermittlung des IA in solchen Altersbereichen eingehalten, so ist eine differenzierende Messung nicht mehr möglich. Wird als Aushilfsstrategie der Nenner des Quotienten IA/LA auf einen maximalen Wert von z.B. 15 festgelegt <sup class=\"fn\" data-fn=\"0-8\">8</sup>, so sinkt der durchschnittliche IQ höherer Altersklassen unter einen Wert von 100, d.h. ein wesentliches begriffliches Merkmal des IQ wird zerstört. Deshalb führte WECHSLER 1939 den Abweichungs-IQ ein, der die Testleistung eines Probanden nicht durch das Verhältnis von IA zu LA, sondern durch die Abweichung vom Leistungsmittelwert der jeweiligen Altersgruppe definiert <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Als Statistiken der Abweichungs-IQ-Verteilung einer Altersklasse wählte Wechsler einen Mittelwert von 100 und eine Standardabweichung von 15 IQ-Punkten, so daß sich ein formal annähernd äquivalentes Maß zu dem IQ der Stanford-Binet-Revision von 1937 (Mittelwert 100; Standardabweichung 16) ergab.</p>\n<p>Standardnormen mit der Bezeichnung ‹Abweichungs-IQ› finden sich seither in zahlreichen Tests. Allerdings hat sich keine verbindliche Konvention für die Festlegung des Wertes der Standardabweichung herausgebildet, so daß die numerisch gleichen IQ-Maßzahlen verschiedener Tests häufig statistisch nicht gleichwertig sind.</p>\n<h3 id=\"h13\">Literaturhinweise</h3>\n<p class=\"lit\">M. W. RICHARDSON: The logic of age scales. Educ. psychol. Measmt. 1 (1941) 25–34. – K. J. GROFFMANN: Zur Entwicklung der Intelligenzmessung in Theorie und Praxis. Z. diagnost. Psychol. 5 (1957) 67–81. – F. S. FREEMAN: Theory and practice of psychol. testing (New York/London <sup>3</sup>1965).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"463\"></span> A. BINET und TH. SIMON: Méthodes nouvelles pour le diagnostic du niveau intellectuel des anormaux. Année psychol. 11 (1905) 191–244, bes. 194.</li>\n<li id=\"fn0-2\" value=\"2\">A. BINET und TH. SIMON: Le développement de l'intelligence chez les enfants. Année psychol. 14 (1908) 1–94.</li>\n<li id=\"fn0-3\" value=\"3\">W. STERN: Über die psychol. Methoden der Intelligenzprüfung, in: Ber. 5. Kongr. exp. Psychol. Berlin, hg. F. SCHUMANN (1912) 1–109, bes. 28.</li>\n<li id=\"fn0-4\" value=\"4\">Q. MCNEMAR: The revision of the Stanford-Binet Scale. An analysis of the standardization data (Boston 1942) 9.</li>\n<li id=\"fn0-5\" value=\"5\">L. M. TERMAN und M. A. MERRILL: Measuring intelligence (Boston/London 1937).</li>\n<li id=\"fn0-6\" value=\"6\">MCNEMAR, a.a.O. [4].</li>\n<li id=\"fn0-7\" value=\"7\">D. WECHSLER: Die Messung der Intelligenz Erwachsener, dtsch. Bearb. (von engl. <sup>3</sup>1944) durch A. HARDESTY/H. LAUBER (1956) 33.</li>\n<li id=\"fn0-8\" value=\"8\">TERMAN und MERRILL, a.a.O. [5].</li>\n<li id=\"fn0-9\" value=\"9\">WECHSLER, a.a.O. [7] 43–47.</li>\n</ol>",
+ "prev":{"id":1465,"lemma":"Intelligenz, praktische","band":"4","col":461},
+ "next":{"id":1467,"lemma":"Intelligibel, das Intelligible, Intelligibilität","band":"4","col":464},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":1507,"name":"A. Binet","b":3,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2648,"name":"L. M. Terman","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":283,"name":"J. Simon","b":1,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":11372,"name":"Q. Mcnemar","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":217,"name":"W. Stern","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2438,"name":"Stern","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9179,"name":"D. Wechsler","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14749,"name":"Wechsler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2443,"name":"F. K. Schumann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11306,"name":"A. A. Merrill","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14748,"name":"M. A. Merill","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21909,"name":"A. Hardesty","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21910,"name":"H. Lauber","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21911,"name":"Merrill","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2905,"name":"E. A. Freeman","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2957,"name":"J. Richardson","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":14750,"name":"K. J. Groffmann","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3013,"lemma":"Statistik","tf":2},
+  {"id":1773,"lemma":"Leistung","tf":3},
+  {"id":1424,"lemma":"Individuum, Individualität","tf":3},
+  {"id":3588,"lemma":"Wert","tf":3},
+  {"id":890,"lemma":"Fall, Abfall","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":36,"name":"Psychologie","label":"Intelligenzquotient"}],
+ "reg_authors":[{"name":"Beierwaltes Werner","n":14}]
+}
+);

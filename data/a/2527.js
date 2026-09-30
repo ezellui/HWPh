@@ -1,0 +1,86 @@
+HWPH.put("a/2527",
+{
+ "id":2527,
+ "lemma":"Psychophysik",
+ "band":"7",
+ "kind":"article",
+ "col_from":1688,
+ "col_to":1691,
+ "pdf_from":29784,
+ "pdf_to":29792,
+ "authors":["W. Witte"],
+ "n_notes":15,
+ "n_chars":10527,
+ "toc":[
+  ["p1","1. Methoden und Meßergebnisse der P. – Man kann die Geschichte der experi",3],
+  ["p9","2. Interpretationsmodelle der P. – Wo findet die logarithmische bzw. Pote",3],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Psychophysik (engl. psychophysics; frz. psychophysique; ital. psicofisica)</p>\n<p id=\"p1\">1. <i>Methoden und Meßergebnisse der P.</i> – Man kann die Geschichte der experimentellen P., d.h. der Lehre über das Verhältnis von physikalischen Einheiten zu Bewußtseinserscheinungen, auf die Studien von J. H. LAMBERT zurückdatieren, der durch Versuche mit Kerzenlicht, das aus verschiedenen Entfernungen eine Wand beleuchtet, feststellt, daß zwei Helligkeiten, die sich ebenmerklich unterscheiden, in praktisch immer gleichem Verhältnis zueinander stehen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. 1846 erforscht E. H. WEBER ergänzend die kleinsten Unterschiede, die man zwischen zwei auf die ruhende Hand aufgelegten oder mit der Hand gehobenen Gewichten, zwischen zwei nacheinander betrachteten Strichlängen und zwischen zwei Tonhöhen bemerken kann. Dabei erhält auch er praktisch konstante Reizverhältnisse für ebenmerkliche Empfindungsunterschiede <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Die eigentliche Begriffsbildung der P. geht auf G. TH. FECHNER zurück, der, an diese Versuche anknüpfend, «unter P. ... eine exakte Lehre von den funktionellen oder Abhängigkeitsbeziehungen zwischen Körper und Seele, allgemeiner zwischen körperlicher und geistiger, physischer und psychischer Welt verstanden» wissen will <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Für dieses Ziel stehen drei Methoden zur Verfügung: a) die Methode der ebenmerklichen Unterschiede, die unmittelbar auf das Untersuchungsziel zielt, indem man durch eine Verstärkung eines objektiven Reizes an einem von zwei gleich großen Reizen den Eindruck eines ebenmerklichen Unterschieds herbeiführt; b) die Methode der mittleren Fehler, in der umgekehrt durch Reizzuwächse unterschiedlich empfundene Reize egalisiert werden sollen: hier bestimmt sich der ebenmerkliche Unterschied durch die objektive Abweichung zweier als gleich hergestellter Reize; c) die Methode der richtigen und falschen Fälle: hier werden mit einem konstant gehaltenen Reiz wiederholt um <i>d</i>, 2 · <i>d</i> usw. bis zu <i>n · d</i> größere bzw. kleinere Reize mit einem <i>n</i> von derjenigen Größe verglichen, bei der alle ± <i>n · d</i> größer bzw. kleiner als der Reiz erscheinen. Über die Aufarbeitung dieser Daten zu oberen und unteren Unterschiedsschwellen handelt wohl jedes Lehrbuch der experimentellen Psychologie.</p>\n<p>Die aus diesen Methoden stammenden Daten integriert Fechner zu einer Funktion: Von einer Reizschwelle an (der «absoluten Schwelle», unterhalb derer die Reize nicht empfunden werden), werden eine Folge von <i>n</i> ebenmerklichen Empfindungsunterschieden (e.E.U.) bis zu einer von einem Reiz <i>R</i> ausgelösten Empfindung <i>E</i> aufsummiert. Falls der dem e.E.U. <span class=\"col\" data-col=\"1689\"></span> entsprechende Webersche Reizquotient <i>r</i> von der Reizschwelle <i>R<sub>o</sub></i> an bis zu <i>R</i> konstant ist, ist also</p>\n<p><i>R</i> = <i>R<sub>o</sub></i> · <i>r<sup>n</sup></i>, demnach <i>n</i>lg <i>r</i> = lg <i>R</i>/<i>R</i><sub>o</sub> oder n = 1/lg<i>r</i> lg <i>R</i>/<i>R</i>o</p>\n<p>Die Empfindung könnte somit indirekt als logarithmische Funktion des Reizes gemessen werden – falls alle diese e.E.U. als gleiche Größen gelten dürfen. Direkte Prüfung hat das aber nur zum Teil bestätigt, z.B. für Tonhöhen, nicht dagegen für Lautstärken. Und auch die andere Voraussetzung dieser «Maßformel», die Konstanz des Weberschen Bruchs, gilt nur eingeschränkt.</p>\n<p>Nach diesem Vorgehen wird die Empfindung indirekt gemessen, indem aus einer Empfindung hervorgehend eine Skala ebenmerklicher Empfindungsunterschiede erstellt wird, die erst im nachhinein zu einer Gesamtfunktion vereinigt wird. Man ist aber nicht zu bloß indirekter Messung genötigt. Schon J. PLATEAU ließ 1872 unmittelbar eine erlebte Mitte zwischen zwei weiter auseinander liegenden Empfindungen bestimmen, indem er acht Maler bat, mit dem Pinsel, ein ihrem Eindruck nach von vorgegebenem Schwarz und Weiß gleichermaßen unterschiedenes Grau herzustellen. Sie kamen zu praktisch übereinstimmenden Resultaten <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>S. S. STEVENS hat seit den fünfziger Jahren zeigen können, daß solche direkten Skalierungen jener Eindrücke, deren Steigerungsreihen durch Summierung von Erregungen zustande kommen (z.B. Helligkeit, Lautstärke – in Abhebung von Steigerungsreihen etwa der Tonhöhe, in denen eine Erregung an die Stelle einer anderen tritt), zu Werten führen, denen besser als Fechners logarithmischem Gesetz ein Potenzgesetz von der Form <i>E</i> = <i>k R<sup>a</sup></i> gerecht wird. Stevens Interpretation ist nicht ohne Vorläufer: Schon 1728 hatte der Mathematiker G. CRAMER für das Verhältnis von subjektivem Nutzenzuwachs und Veränderung einer Geldmenge eine exponentielle Funktion vorgeschlagen <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Semantisch kann man sich den Unterschied zur logarithmischen Funktion folgendermaßen klarmachen: Während bei der ersteren der Nutzenzuwachs im Verhältnis zum Gesamtnutzen variiert, ist der Nutzenzuwachs in der zweiten Funktion von der Gesamtmenge des Geldes abhängig. Da man die erstere, exponentielle Funktion nach Logarithmierung auch in der Form lg <i>E</i> = lg <i>k</i> + <i>a</i> lg <i>R</i> ausdrücken kann, läßt sich mathematisch sagen, daß anstelle von Fechners einfacher logarithmischer Funktion zwischen Empfindung und Reiz bei Stevens eine doppelt-logarithmische tritt <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p id=\"p9\">2. <i>Interpretationsmodelle der P.</i> – Wo findet die logarithmische bzw. Potenz-Transformation statt? FECHNER erwog eine psychophysische zwischen Empfindung und nervöser Erregung in der (kleineren) Physis des Leibes, deren Proportionalität zum Reiz in der außerleiblichen Physis des Kosmos er ebenfalls unterstellte. Das Webersche Gesetz würde, wiewohl es äußerlich gesehen Empfindungen und Reize verknüpft, danach eine Beziehung der «inneren P.» zum Ausdruck bringen. Sie erklärt Wachen und Schlafen durch die Energieverhältnisse der zugrundeliegenden Nervenprozesse, und die Aufmerksamkeit drückt das Überschreiten eines psychophysischen Vorgangs über die Bewußtseinsschwelle aus <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Diese Auffassung der psychophysischen Maßformel ist aber nicht unumstritten: W. WUNDT zufolge ist sie vielmehr Ergebnis des psychischen Apperzeptions- und Vergleichsprozesses der Empfindungen und nicht in der Umsetzung von nervlichen zu psychischen Vorgängen angesiedelt. «Die psychologische Deutung sucht das Webersche Gesetz weder aus den physiologischen Eigenschaften der Nervensubstanz noch aus einer eigentümlichen Wechselwirkung des Physischen und Psychischen, sondern zunächst aus den psychischen Vorgängen abzuleiten, die bei der Vergleichung der Empfindungen wirksam sind» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. G. EKMAN hat 1964 die Hypothese formuliert, daß die <i>Empfindung</i> sowohl eine (Fechnersche) logarithmische Funktion eines Reizes sei, als auch eine Urteilsprozesse ausdrückende (Stevensche) Potenzfunktion <span class=\"col\" data-col=\"1690\"></span> <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Auch L. E. MARKS hat unter Bezugnahme auf Wundt die These verteidigt, daß in jedes Urteil sensorische <i>und</i> Urteilskomponenten eingehen, die unterschiedlich strukturiert sind <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Die herrschende Meinung ist freilich seit jeher, daß die entscheidende (ob nun logarithmische oder Potenz-)Transformation einen rein physiologischen Prozeß kennzeichnet. Sie wurde schon früh von G. E. MÜLLER vertreten <sup class=\"fn\" data-fn=\"0-11\">11</sup>, gute Argumente hierfür trug R. PAULI zusammen <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>Feststellbaren Schwankungen bei der Bestimmung von Reiz- und Unterschiedsschwellen suchen neuere Ansätze der P. Rechnung zu tragen, z.B. die <i>Signalentdeckungstheorie</i>, die jede Antwort über die Wahrnehmung einer Empfindung oder eines Empfindungsunterschieds als Verhältnis des Reizes zur Hintergrundswahrnehmung, dem «Rauschen», deutet. Reiz und Rauschen überschneiden sich, und die Entscheidung, ob eine Empfindung aus der einen Klasse oder aus der anderen stammt, ist von einem Kriterium abhängig. Dieses Entscheidungskriterium – von dem ab der Beobachter sagt: «Hier ist ein Reiz» – erklärt die Schwellenwerte, während die Empfindlichkeit eine kontinuierliche Dimension ist <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>Eine andere Erklärung liefert H. HELSONS <i>Theorie des Adaptationspegels:</i> Alle Reize stammen aus einer bestimmten Reizklasse. Durch Erfahrung wird die Reizklasse in ein bestimmtes Bezugsystem gebracht, welches eine vage Mitte und obere und untere Reizgrößen definiert. Innerhalb dieser Reizklasse paßt sich der Organismus an die aktuell vorherrschende Reizstärke an, die als Adaptationspegel bezeichnet wird. Reize, die in diesen Pegel fallen, lösen keine Unterscheidungsreaktionen aus, Reize, die außerhalb liegen, werden je nach Abweichungsstärke von diesem «Anker» aus beurteilt. Sie beeinflussen aber auch den Adaptationspegel, denn eine häufigere Abweichung der Reize wird durch eine Veränderung der Anpassungsebene des Organismus begleitet <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<p>Fechner hat seine ‹Elemente der P.› auf die Behandlung der Beziehung der Empfindung zum Reiz beschränkt. Bis heute gibt es nur vereinzelte Beiträge zur P. des Wirkens. Modellcharakter in diesem Gebiet können zwei Untersuchungen, die die P. von Willkür-und speziell handwerklichen Bewegungen behandeln. Das von ihnen gefundene Kurvenbild für rhythmisch wiederkehrende Bewegungen macht es wahrscheinlich, daß wir «schon aus dem ersten kleinsten Bewegungsabschnitt den Verlauf der Gesamtbewegung für jede beliebige Zeitstelle berechnen können» <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1690\"></span> J. H. LAMBERT: Photometria (1760); dtsch.: Merkwürdige Eigenschaften der Bahn des Lichts durch die Luft und überhaupt durch verschiedene sphärische und concentrische Mittel (1772); vgl. auch P. BOUGUER: Traité d'optique sur la gradation de la lumière par Lacaille (Paris 1760); L. STEINHEIL: Elemente der Helligkeitsmessungen am Sternenhimmel, in: Abh. math.-phys. Cl. königl. Bayr. Akad. Wiss.en 2 (1837); A. MASSON: Et. de photométrie électrique, in: Annales de chimie et de physique, hg. J.-L. GAY-LUSSAC III/14 (1845); D. F. ARAGO: Sämtl. Werke, hg. W. G. HANKEL 1 (1854) 168ff.</li>\n<li id=\"fn0-2\" value=\"2\">E. H. WEBER: Der Tastsinn und das Gemeingefühl, in: R. WAGNER: Handwb. der Physiol. 4 (1846) 481–588; vgl. WEBER: De tactu: annotationes anat. et physiolog. (1834).</li>\n<li id=\"fn0-3\" value=\"3\">G. TH. FECHNER: Eiern, der P. (1860) 8.</li>\n<li id=\"fn0-4\" value=\"4\">J. PLATEAU: Sur la formule de la loi psychophys. Bull. Acad. royale de Belgique 33 (1872) 376.</li>\n<li id=\"fn0-5\" value=\"5\">S. S. STEVENS: Psychophysics (New York 1975) 3f.</li>\n<li id=\"fn0-6\" value=\"6\">Art. ‹P.›, in: Lex. der Psychol., hg. W. ARNOLD/H. J. EYSENCK/R. MEILI 3 (1972) 71–78.</li>\n<li id=\"fn0-7\" value=\"7\">FECHNER, a.O. [3] 10f.</li>\n<li id=\"fn0-8\" value=\"8\">W. WUNDT: Grundzüge der physiolog. Psychol. 1 (<sup>6</sup>1908) 632.</li>\n<li id=\"fn0-9\" value=\"9\">G. EKMAN: Is the power law a special case of Fechner's law? Percept. motor Skills 19 (1964) 730.</li>\n<li id=\"fn0-10\" value=\"10\">L. E. MARKS: Psychophys. judgment: Wundt's theory revis. Psychol. Res. 42 (1980) 157–164. <span class=\"col\" data-col=\"1691\"></span></li>\n<li id=\"fn0-11\" value=\"11\">G. E. MÜLLER: Zur Grundleg. der P. (1878).</li>\n<li id=\"fn0-12\" value=\"12\">R. PAULI: Über psych. Gesetzmäßigkeit; insbes. über das Webersche Gesetz (1920).</li>\n<li id=\"fn0-13\" value=\"13\">D. M. GREEN/J. A. SWETS: Signal detection theory and psychophysics (1966).</li>\n<li id=\"fn0-14\" value=\"14\">H. HELSON: Adaptation level theory (1964).</li>\n<li id=\"fn0-15\" value=\"15\">P. CHRISTIAN: Vom Wertbewußtsein im Tun. Ein Beitr. zur P. der Willkürbewegung. Beitr. aus der allg. Med. 4 (1948) 1–20; A. DERWORT: Zur P. der handwerkl. Bewegungen bei Gesunden und Hirngeschädigten, a.O. 21–27.</li>\n</ol>",
+ "prev":{"id":2526,"lemma":"Psychopathologie","band":"7","col":1685},
+ "next":{"id":2528,"lemma":"Psychose","band":"7","col":1691},
+ "backlinks":[
+  {"id":2961,"lemma":"Spannung","n":1},
+  {"id":3286,"lemma":"Unbewußtes; das Unbewußte","n":1},
+  {"id":3539,"lemma":"Wahrnehmung","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Gesetz","qualifier":"","band":"7","col":"1689"},
+  {"term":"Nutzen","qualifier":"","band":"7","col":"1689"},
+  {"term":"Reizschwelle","qualifier":"","band":null,"col":null},
+  {"term":"Schwelle, absolute","qualifier":"","band":"7","col":"1688"},
+  {"term":"Unterschiede, ebenmerkliche","qualifier":"","band":"7","col":"1688"},
+  {"term":"– II (psych.) 2 464–474 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":176,"name":"G. Th. Fechner","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":34,"name":"M. Weber","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":27,"name":"W. Wundt","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":115,"name":"Lambert von Auxerre","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":498,"name":"G. E. Müller","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1986,"name":"S. S. Stevens","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6066,"name":"L. E. Marks","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3928,"name":"H. Helson","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6437,"name":"G. Ekman","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12469,"name":"R. Pauli","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16762,"name":"J. Plateau","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":597,"name":"R. Wagner","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":950,"name":"W. Cramer","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":2609,"name":"W. Arnold","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1611,"name":"H. J. Eysenck","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2739,"name":"R. Meili","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6026,"name":"M. F. Arago","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4512,"name":"H. Hankel","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2312,"name":"P. Christian","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7218,"name":"L. J. Gay-Lussac","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8633,"name":"P. Bouguer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":26888,"name":"L. Steinheil","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26889,"name":"J. A. Swets","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":26890,"name":"A. Derwort","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":296,"name":"T. H. Green","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":10492,"name":"A. Masson","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":723,"lemma":"Empfindung","tf":14},
+  {"id":2374,"lemma":"Physis/Nomos, Physis/Thesis","tf":2},
+  {"id":1105,"lemma":"Gesetz","tf":3},
+  {"id":674,"lemma":"Eindruck","tf":2},
+  {"id":2243,"lemma":"Organismus","tf":2},
+  {"id":1187,"lemma":"Größe","tf":2},
+  {"id":1985,"lemma":"Mitte","tf":2},
+  {"id":3543,"lemma":"Wandel; Veränderung","tf":2},
+  {"id":1769,"lemma":"Leib, Körper","tf":2},
+  {"id":408,"lemma":"Bewegung","tf":2}
+ ],
+ "see_also":[
+  {"id":648,"lemma":"Ebenmerklich"},
+  {"id":901,"lemma":"Fechnersches Gesetz"},
+  {"id":1770,"lemma":"Leib-Seele-Verhältnis"},
+  {"id":2465,"lemma":"Problem, psychophysisches"},
+  {"id":2523,"lemma":"Psychometrie"}
+ ],
+ "groups":[{"id":36,"name":"Psychologie","label":"Psychophysik"}],
+ "reg_authors":[{"name":"Witte Wilhelm","n":15}]
+}
+);

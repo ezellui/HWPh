@@ -1,0 +1,27 @@
+HWPH.put("a/1422",
+{
+ "id":1422,
+ "lemma":"Individuenvariablen",
+ "band":"4",
+ "kind":"article",
+ "col_from":299,
+ "col_to":299,
+ "pdf_from":12307,
+ "pdf_to":12307,
+ "authors":["A. Menne"],
+ "n_notes":1,
+ "n_chars":312,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Individuenvariablen werden in der modernen Logik <a class=\"xref\" href=\"#/a/3373\">Variablen</a> <span class=\"sd\">→ (s.d.)</span> genannt, für die Zeichen für Einzelgegenstände («Individuen» <sup class=\"fn\" data-fn=\"0-1\">1</sup>) eingesetzt werden können. Meistens werden dafür die letzten Buchstaben des kleinen lateinischen Alphabetes benutzt: <i>x, y, z, u, v</i>, ... bzw. <i>x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub></i>, ...</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. Art. <a class=\"xref\" href=\"#/a/2426\">→ Prädikatenlogik</a>.</li>\n</ol>",
+ "prev":{"id":1421,"lemma":"Individuenkonstanten","band":"4","col":299},
+ "next":{"id":1423,"lemma":"Individuum und Atom","band":"4","col":299},
+ "backlinks":[],
+ "outlinks":[{"id":2426,"lemma":"Prädikatenlogik, Prädikatenkalkül","n":1},{"id":3373,"lemma":"Variable","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":3373,"lemma":"Variable"}],
+ "groups":[{"id":22,"name":"Logik","label":"Individuenvariablen"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

@@ -1,0 +1,58 @@
+HWPH.put("a/3095",
+{
+ "id":3095,
+ "lemma":"Symbolische Prägnanz",
+ "band":"10",
+ "kind":"article",
+ "col_from":742,
+ "col_to":743,
+ "pdf_from":41804,
+ "pdf_to":41807,
+ "authors":["E. W. Orth"],
+ "n_notes":10,
+ "n_chars":4397,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Symbolische Prägnanz. Mit dem Terminus ‹s.R› präzisiert E. CASSIRER seinen Symbolbegriff in Richtung des Begriffs ‹Gestalt› und zeigt eine deutliche Distanz zum Begriff des Symbols als eines bloßen Zeichens (in Logik und Semiotik), das eher ein defizienter Modus des Symbolischen ist. Es geht hier um die unverbrüchliche «Wechselbeziehung» zwischen sinnlichem Substrat und sinnhafter Bedeutsamkeit. «Unter ‘s.P.ʼ soll also die Art verstanden werden, in der ein Wahrnehmungserlebnis, als ‘sinnlichesʼ Erlebnis, zugleich einen bestimmten nicht-anschaulichen ‘Sinnʼ in sich faßt und ihn zur unmittelbaren konkreten Darstellung bringt. Hier handelt es sich nicht um bloß perzeptive ‘Gegebenheitenʼ, denen später irgendwelche ‘apperzeptiveʼ Akte aufgepfropft wären, durch die sie gedeutet, beurteilt und umgebildet würden. Vielmehr ist es die Wahrnehmung selbst, die kraft ihrer eigenen immanenten Gliederung eine Art von geistiger ‘Artikulationʼ gewinnt – die, als in sich gefügte, auch einer bestimmten Sinnfügung angehört. In ihrer vollen Aktualität, in ihrer Ganzheit und Lebendigkeit, ist sie zugleich ein Leben ‘imʼ Sinn. Sie wird nicht erst nachträglich in diese Sphäre aufgenommen, sondern sie erscheint gewissermaßen als in sie hineingeboren» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Das ‘Symbolischeʼ ist prägnant, «sofern in ihm ein prinzipiell überanschaulicher Gehalt in anschaulicher Form sich äußert» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Wirklichkeit wird demgemäß immer schon in einer bestimmten «geistigen Sicht» oder in «symbolischer Ideation» erfaßt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Cassirer illustriert das am Beispiel des «Linienzuges»: Wir erfassen ein Ornament entweder als geometrische Figur, als ästhetisches Gebilde oder als magisch-bedeutsame Form, aber nie diesseits einer solchen ‘Sichtʼ <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Gestaltpsychologische Motive wie M. WERTHEIMERS «Prägnanztendenz der Gestalt» oder die «Sinnträchtigkeit» und dgl. aus der Schule F. KRUEGERS klingen hier an <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Auch die «physiognomische Prägnanz» in O. SPENGLERS Kulturphilosophie ist zu vergleichen <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Bei CASSIRER ist aber die ausdrückliche Beziehung auf eine transzendentale Bewußtseinstheorie zu berücksichtigen. Das Bewußtsein in seiner immanenten Zeitlichkeit ist selbst ein «symbolischer Prozeß», insofern es Zeitekstasen (Vergangenheit und Zukunft) intentional ‘vergegenwärtigtʼ, in Leibnizens Sinne «praegnans futuri» ist und damit Sinn («Richtungscharakter») konstituiert: «Es gibt keine bewußte Wahrnehmung, die bloßes ‘Datumʼ, die ein lediglich Gegebenes ... wäre; sondern jede Wahrnehmung schließt einen bestimmten ‘Richtungscharakterʼ in sich» <sup class=\"fn\" data-fn=\"0-7\">7</sup> und eröffnet damit unterschiedliche symbolische Formungen und Formen. Die durch die Rezeption des Begriffs bei M. <span class=\"col\" data-col=\"743\"></span> MERLEAU-PONTY und A. GURWITSCH <sup class=\"fn\" data-fn=\"0-8\">8</sup> begründete Feststellung einer Nähe von Cassirers Ansicht zur Phänomenologie <sup class=\"fn\" data-fn=\"0-9\">9</sup> hat allerdings in Betracht zu ziehen, daß in der Phänomenologie terminologisch häufig der ‘bloßʼ formelle Symbolbegriff – polemisch – gebraucht wird, so wenn M. SCHELER der Phänomenologie positiv die Aufgabe einer «Entsymbolisierung der Welt» stellt <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"743\"></span> E. CASSIRER: Philos. der symbol. Formen 1–3 (1923–29) 3: Phänomenol. der Erk. (1929, <sup>2</sup>1954, ND 1975) 235.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. a.O. 450.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 155.</li>\n<li id=\"fn0-4\" value=\"4\">Das Symbolprobl. und seine Stellung im System der Philos. (1927), in: Symbol, Technik, Sprache. Aufsätze aus den Jahren 1927–33, hg. E. W. ORTH/J. M. KROIS (1985, <sup>2</sup>1995) 5f.; vgl. a.O. [1] 233f.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. A. WELLEK: Psychol. (1963) 50–64; TH. HERRMANN: Ganzheits- und Gestaltpsychol., in: Psychol. des 20. Jh. 1 (Zürich 1976) 573–658.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. O. SPENGLER: Der Untergang des Abendlandes 1–2 (1918–22, <sup>33–47</sup>1923) 190; (<sup>76–81</sup>1950) 187; zur Würdigung Spenglers vgl. E. CASSIRER: Nachgel. Ms. und Texte 1: Zur Met. der symbol. Formen, hg. J. M. KROIS (1995) 102–106. 206. 244f.</li>\n<li id=\"fn0-7\" value=\"7\">CASSIRER, a.O. [1] 235f.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. J. M. KROIS: Problematik, Eigenart und Aktualität der Cassirerschen Philos. der symbol. Formen, in: H.-J. BRAUN u.a. (Hg.): Über E. Cassirers Philos. der symbol. Formen (1988) 15–44, bes. 24ff.; zur Diskussion vgl. auch: PH. DUBACH: ‘S.P.ʼ – Schlüsselbegriff in E. Cassirers Philos. der symbol. Formen? in: E. RUDOLPH/B.-O. KÜPPERS (Hg.): Kulturkritik nach E. Cassirer (1995) 47–84.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. CH. MÖCKEL: S.P. ein phänomenolog. Begriff? Zum Verh. von E. Cassirers Philos. der symbol. Formen und E. Husserls Phänomenol. Dtsch. Z. Philos. 40/9 (1992) 1050–1063.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. M. SCHELER: Phänomenol. und Erk.theorie (1914). Ges. Werke 10: Schr. aus dem Nachl. 1 (1933) 272; (<sup>3</sup>1986) 384.</li>\n</ol>",
+ "prev":{"id":3094,"lemma":"Symbolische Form","band":"10","col":739},
+ "next":{"id":3096,"lemma":"Symbolismus","band":"10","col":743},
+ "backlinks":[{"id":3456,"lemma":"Verworrenheit","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Entsymbolisierung der Welt","qualifier":"(Cassirer)","band":"10","col":"742"},
+  {"term":"Ideation, symbolische","qualifier":"(Cassirer)","band":"10","col":"742"},
+  {"term":"praegnans futuri","qualifier":"(Cassirer)","band":"10","col":"742"},
+  {"term":"Prägnanz, physiognomische","qualifier":"(Cassirer)","band":"10","col":"742"},
+  {"term":"Prägnanz, symbolische","qualifier":"(Cassirer)","band":null,"col":null},
+  {"term":"Richtungscharakter","qualifier":"(Cassirer)","band":"10","col":"742"},
+  {"term":"Sinnträchtigkeit","qualifier":"(Cassirer)","band":"10","col":"742"}
+ ],
+ "persons":[
+  {"id":67,"name":"E. Cassirer","b":2,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":3339,"name":"J. M. Krois","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":338,"name":"O. Spengler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":186,"name":"M. Merleau-Ponty","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":669,"name":"Th. Herrmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":282,"name":"A. Wellek","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":384,"name":"F. Krueger","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":731,"name":"E. W. Orth","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":728,"name":"M. Wertheimer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1528,"name":"H. Braun","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1199,"name":"A. Gurwitsch","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":1823,"name":"E. Rudolph","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4005,"name":"B.-O. Küppers","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":18033,"name":"Ch. Möckel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":30441,"name":"Ph. Dubach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2437,"lemma":"Prägnanz, prägnant","tf":2},
+  {"id":2343,"lemma":"Phänomenologie","tf":3},
+  {"id":3539,"lemma":"Wahrnehmung","tf":3},
+  {"id":3708,"lemma":"Zukunft; Vergangenheit","tf":2},
+  {"id":1116,"lemma":"Gestalt","tf":2}
+ ],
+ "see_also":[{"id":3093,"lemma":"Symbol"},{"id":3094,"lemma":"Symbolische Form"}],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Symbolische Prägnanz (Cassirer)"}],
+ "reg_authors":[{"name":"Orth Ernst Wolfgang","n":7}]
+}
+);

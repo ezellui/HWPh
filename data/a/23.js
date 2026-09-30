@@ -1,0 +1,66 @@
+HWPH.put("a/23",
+{
+ "id":23,
+ "lemma":"Abhängigkeit (Dependenz)",
+ "band":"1",
+ "kind":"article",
+ "col_from":6,
+ "col_to":7,
+ "pdf_from":245,
+ "pdf_to":249,
+ "authors":["K. Mainzer"],
+ "n_notes":10,
+ "n_chars":5756,
+ "toc":[
+  ["p1","1. Einen ersten systematischen Überblick gibt – in Anlehnung an Aristotel",3],
+  ["p14","2. Neben dieser erfahrungswissenschaftlichen Tradition verfügt der Begrif",3],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Abhängigkeit (Dependenz). Der Begriff der A. wurde im Laufe der Wissenschaftsgeschichte in verschiedenen Kontexten verwendet.</p>\n<p id=\"p1\">1. Einen ersten systematischen Überblick gibt – in Anlehnung an Aristoteles – die <i>Scholastik</i>, indem sie «dependentia essentialiter» und «accidentialiter», «causalis», «relativa», «personalis» unterscheidet <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>a) Für die <i>Neuzeit</i> wird die Frage nach der «dependentia causalis» als Grundbegriff der Naturwissenschaft und «dependentia personalis» als Grundbegriff der Gesellschaftswissenschaften besonders wichtig. So hebt etwa LOCKE in seiner an den Naturwissenschaften orientierten Erkenntnistheorie die A. jeglicher Abstraktion von der Erfahrung hervor, während er das A.-Verhältnis von Individuum und Staat durch seine Lehre von der Gewaltenteilung zu klären versucht <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>KANT rechnet die <i>Dependenz im Sinn von</i> ‹<i>Wirkung</i>› neben der Kausalität (‹Ursache›) zur Kategorie der Relation. Dagegen ist <i>teleologische</i> Dependenz als Abhängigkeit der Wirkung von einem «Naturzweck» für Kant kein Begriff, für dessen Anwendung auf Erfahrungsgegenstände objektive wissenschaftliche Kriterien existieren. Er ist vielmehr eine bloße «Idee» im Kantschen Sinn, die zu nichts weiter führen kann als zu «regulativen Funktionen» oder «subjektiven Maximen». Für Kant ist also teleologische Dependenz nur im Sinne einer methodologischen oder heuristischen Regel akzeptierbar und nicht als Grundprinzip einer teleologischen Metaphysik <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>b) Die Mittel der <i>modernen Logik</i> erlauben es, die Sprache zu untersuchen, in welcher das Ursache-Wirkungs-Verhältnis beschrieben wird: Es tritt dabei <i>die A. von Gesetzmäßigkeit und Prognose</i> in den Vordergrund. POPPER definiert Gesetze als Hypothesen (d.h. Allaussagen, die so lange gelten, als sie nicht empirisch falsifiziert werden); die Dependenz von Hypothese und Prognose wird durch den in der Logik präzisierten Begriff der Deduktion beschrieben: «... Sein [des Theoretikers] Ziel ist es, erklärende Theorien zu finden (möglichst wahre erklärende Theorien), das heißt, Theorien, die bestimmte strukturelle Eigenschaften der Welt beschreiben und uns erlauben, mit Hilfe von Randbedingungen die zu erklärenden Effekte zu deduzieren» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. In der <i>Physik</i> schränkt man die Verwendung des Ausdrucks «kausale Erklärung» zumeist auf den speziellen Fall ein, daß die verwendeten allgemeinen Gesetze die Form von «Nahwirkungsgesetzen» (Differentialgleichungen) haben. In diesem Zusammenhang tritt bei MACH an Stelle der kausalen Dependenz der Begriff der «<i>funktionalen A.</i>» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>c) Zu den neueren erkenntnistheoretischen Konsequenzen der Naturwissenschaft gehört die Unterscheidung <span class=\"col\" data-col=\"7\"></span> von strikten (deterministischen) und statistischen (probabilistischen) Gesetzen. Die Dependenz der Prognosen wird deshalb einmal durch den logischen Deduktionsbegriff, zum anderen durch wahrscheinlichkeitstheoretische Schlüsse charakterisiert. Dabei geht man häufig von dem folgenden auf HEMPEL und OPPENHEIM zurückgehenden Schema aus <sup class=\"fn\" data-fn=\"0-6\">6</sup>:</p>\n<p><i>A<sub>1</sub>, ..., A<sub>n</sub></i> (Sätze, welche die Antezedenz-</p>\n<p>Explanans bedingungen beschreiben)</p>\n<p><i>G1, ..., Gr</i> (allgemeine Gesetzmäßigkeiten)</p>\n<p>––––––––– ––––––––––––––––––––––</p>\n<p>(Dependenz)</p>\n<p>Explanandum <i>E</i> (Beschreibung der zu</p>\n<p>erklärenden Ereignisse)</p>\n<p>Die bisherigen Versuche einer <i>formallogischen</i> und <i>wahrscheinlichkeitstheoretischen</i> Bestimmung des Dependenzbegriffs haben keine endgültige Präzisierung gebracht: Der wahrscheinlichkeitstheoretische Schluß ist zunächst nur für bestimmte einfache formale Sprachen exakt eingeführt worden <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Hingegen erhielt der Begriff der teleologischen Dependenz durch die Kybernetik eine entscheidende Klärung: Durch die Simulation organischen Geschehens und intelligenten Verhaltens in technischen Modellen konnte die A. einzelner Handlungsentscheidungen von Zielvorstellungen analysiert werden <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p id=\"p14\">2. Neben dieser erfahrungswissenschaftlichen Tradition verfügt der Begriff der A. über eine lange Geschichte in der <i>mathematischen Grundlagenforschung:</i> Jahrhunderte beschäftigten sich Mathematiker und Philosophen mit der Frage, ob das Parallelenaxiom aus den übrigen Axiomen der euklidischen Geometrie ableitbar sei. 1826 konnte LOBATSCHEWSKY, 1831 J. BOLAYI ein Modell konstruieren, in dem dieses Axiom nicht galt, jedoch alle übrigen. In diesem Sinne war die «Unabhängigkeit» des Parallelenaxioms gezeigt, d.h. es konnte nicht aus den übrigen Axiomen gefolgert werden. Da unter dem Einfluß des Logizismus (RUSSELL, FREGE, PEANO u.a.) und Formalismus (HILBERT u.a.) die Begriffe der Deduktion und des formalen Systems präzisiert worden waren, konnte generell die Frage nach der A. der einzelnen Axiome eines beliebigen formalen <a class=\"xref\" href=\"#/a/928\">Systems</a> <span class=\"sd\">→ (s.d.)</span> gestellt werden. Neben «Widerspruchsfreiheit» und «Vollständigkeit» wurde schließlich die «Unabhängigkeit» eines Axiomensystems zu einem Postulat der HILBERTschen Axiomatik <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Unter dem Einfluß der Modelltheorie trat in jüngster Zeit die Frage nach der A. bestimmter mathematischer Hypothesen von den Axiomen der Mengenlehre in den Vordergrund<sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"7\"></span> Vgl. GOCLEN, Lex. philos. 509.</li>\n<li id=\"fn0-2\" value=\"2\">Für eine detaillierte Diskussion von LOCKES Erkenntnistheorie vgl. F. KAMBARTEL: Erfahrung und Struktur (1968) Kap. 1.</li>\n<li id=\"fn0-3\" value=\"3\">KANT, KrV A 66.</li>\n<li id=\"fn0-4\" value=\"4\">K. POPPER: Logik der Forsch. (1966) 33.</li>\n<li id=\"fn0-5\" value=\"5\">E. MACH: Erkenntnis und Irrtum (1917).</li>\n<li id=\"fn0-6\" value=\"6\">W. STEGMÜLLER: Probleme und Resultate der Wissenschaftstheorie und analytischen Philos. (1969) Bd. 1, Kap. I/8.</li>\n<li id=\"fn0-7\" value=\"7\">R. CARNAP und W. STEGMÜLLER: Induktive Logik und Wahrscheinlichkeit (1959).</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. STEGMÜLLER, a.a.O. [6] Kap. VIII/5; K. STEINBUCH: Automat und Mensch (1965) 268.</li>\n<li id=\"fn0-9\" value=\"9\">Zur Diskussion des Begriffs ‹Formales System› vgl. F. KAMBARTEL: Formales und inhaltliches Sprechen, in: Das Problem der Sprache. 8. Dtsch. Kongr. Philos., München 1967; H. MESCHKOWSKI: Wandlungen des math. Denkens (1964) Kap. III.</li>\n<li id=\"fn0-10\" value=\"10\">R. B. JENSEN: Modelle der Mengenlehre (1967).</li>\n</ol>",
+ "prev":{"id":22,"lemma":"Abgrund","band":"1","col":5},
+ "next":{"id":24,"lemma":"Abreagieren","band":"1","col":7},
+ "backlinks":[{"id":1330,"lemma":"Hypothese, Hypothesis","n":1},{"id":1903,"lemma":"Mechanik","n":1}],
+ "outlinks":[{"id":928,"lemma":"Formales System","n":1}],
+ "register":[
+  {"term":"dependentia causalis/personalis","qualifier":"","band":"1","col":"6"},
+  {"term":"Dependenz","qualifier":"","band":null,"col":null},
+  {"term":"Nahwirkung","qualifier":"","band":"1","col":"6"},
+  {"term":"Parallelenaxiom","qualifier":"","band":"1","col":"7"},
+  {"term":"Unabhängigkeit","qualifier":"","band":"1","col":"7"},
+  {"term":"Voraussage","qualifier":"","band":"1","col":"6"},
+  {"term":"Wirkung","qualifier":"","band":"1","col":"6"}
+ ],
+ "persons":[
+  {"id":122,"name":"W. Stegmüller","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":21,"name":"J. Locke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":69,"name":"K. R. Popper","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":125,"name":"E. Mach","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":273,"name":"F. Kambartel","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":36,"name":"R. Carnap","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":46,"name":"B. Russell","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":40,"name":"G. Frege","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":221,"name":"D. Hilbert","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":350,"name":"C. G. Hempel","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":771,"name":"G. Peano","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1401,"name":"A. E. Jensen","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2284,"name":"K. Steinbuch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3111,"name":"H. Meschkowski","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6162,"name":"Oppenheim","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":10404,"name":"N. Lobatschewsky","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":18911,"name":"J. Bolayi","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":18912,"name":"Goclen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":340,"lemma":"Axiom","tf":5},
+  {"id":3487,"lemma":"Voraussage; Vorhersage; Prognose","tf":3},
+  {"id":531,"lemma":"Deduktion","tf":2},
+  {"id":1110,"lemma":"Gesetze, kategoriale","tf":3},
+  {"id":1999,"lemma":"Modell","tf":2},
+  {"id":1803,"lemma":"Logik","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Abhängigkeit"}],
+ "reg_authors":[{"name":"Mainzer Klaus","n":21}]
+}
+);

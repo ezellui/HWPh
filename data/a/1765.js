@@ -1,0 +1,38 @@
+HWPH.put("a/1765",
+{
+ "id":1765,
+ "lemma":"Lehnstuhlphilosophie",
+ "band":"5",
+ "kind":"article",
+ "col_from":167,
+ "col_to":168,
+ "pdf_from":16505,
+ "pdf_to":16507,
+ "authors":["W. Breidert"],
+ "n_notes":9,
+ "n_chars":2807,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Lehnstuhlphilosophie. Bei dem Versuch, die als sinnlos, unnütz und leer apostrophierten religiösen Mysterien zu verteidigen, wies BERKELEY darauf hin, daß das Mysteriöse, Unbegreifliche und Unbeweisbare sich nicht nur in den Glaubensartikeln, sondern auch in den Wissenschaften finde, deren Wahrheit und praktische Anwendbarkeit dadurch nicht kleiner, sondern eher größer werde <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Als Beispiel führte er Newtons Fluxionslehre an, deren Grundlagen dunkel und, wie Newton selber bekenne, unbeweisbar seien <sup class=\"fn\" data-fn=\"0-2\">2</sup>. J. JURIN, ein Anhänger Newtons, glaubte daraufhin, dem Meister zu Hilfe kommen zu müssen, und warf Berkeley vor, er hätte Newton nicht als den größten Mathematiker dargestellt, der er sei, sondern «as a good old gentleman fast asleep and snoring in his easy chair, while Dame Fortune is bringing him her apron full of beautiful Theorems and Problems, which he never knows or thinks of» <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Dieses malerische Bild ist eine der möglichen Quellen für die im 20. Jh. zum Topos gewordenen polemischen Begriffe wie ‹Lehnstuhl-Psychologie›, ‹-Kosmologie› <sup class=\"fn\" data-fn=\"0-4\">4</sup>, ‹-Philosophie› usw. Der Vorwurf, Lehnstuhlwissenschaft zu betreiben, war zunächst vor allem in der Psychologie verbreitet: «arm-chair psychology» ist spätestens seit E. W. SCRIPTURE <sup class=\"fn\" data-fn=\"0-5\">5</sup> eine durchaus gängige Bezeichnung der Experimentalpsychologen <span class=\"col\" data-col=\"168\"></span> für die Produktionen der traditionellen Psychologie, die nach Scriptures Wort «had no more value than medieval speculations concerning how many angles could dance on the point of a needle» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In jüngster Zeit hat dieser Tadel nun auch jene Wissenschaft ereilt, die als eine der wenigen ein angestammtes Recht auf einen Lehnstuhl zu haben schien: die Philosophie. «Die Zeit der großen L.n ist vorüber», verkündet H. LENK <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Was wir brauchen, ist nicht die von den Ergebnissen erfahrungswissenschaftlicher Erkenntnis abgeschirmte apriorische Spekulation und Konstruktion der «Schreibtischphilosophie» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, sondern «Kooperation mit den empirischen Wissenschaften», die «der philosophischen Deutung nicht nur wertvolle Anregungen liefern, sondern sie auch in größere Nähe zur Realität bringen und damit sozial wirksamer und fruchtbarer machen» <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"168\"></span> G. BERKELEY, Alciphron, 7. Dial. Works, hg. A. A. LUCE/T. E. JESSOP 3 (Edinburgh 1950) 286–329.</li>\n<li id=\"fn0-2\" value=\"2\">The analyst sect. 17 a.O. 4 (1951) 74f.</li>\n<li id=\"fn0-3\" value=\"3\">J. JURIN: Geometry no friend to infidelity (London 1734) §§ 37f.; vgl. dazu BERKELEYS Antwort a.O. 4, 128f.; zum Ganzen G. ARDLEY: Berkeley's renovation of philos. (Den Haag 1968) 155.</li>\n<li id=\"fn0-4\" value=\"4\">W. H. NEWTON-SMITH: Armchair cosmol. Philosophy 47 (1972) 64–66.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. E. G. BORING: A hist. of exp. psychol. (New York <sup>2</sup>1950) 547.</li>\n<li id=\"fn0-6\" value=\"6\">E. W. SCRIPTURE, in: C. MURCHINSON (Hg.): A hist. of psychol. in autobiography 3 (New York <sup>2</sup>1961) 241.</li>\n<li id=\"fn0-7\" value=\"7\">H. LENK: Leistungssport: Ideol. oder Mythos? (1972) 44.</li>\n<li id=\"fn0-8\" value=\"8\">Philos. im technol. Zeitalter (<sup>2</sup>1972) 29.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. [7] 44.</li>\n</ol>",
+ "prev":{"id":1764,"lemma":"Lehnsatz","band":"5","col":167},
+ "next":{"id":1766,"lemma":"Lehnwort, Lehngut","band":"5","col":168},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"arm-chair psychology","qualifier":"","band":"5","col":"167"}],
+ "persons":[
+  {"id":130,"name":"G. Berkeley","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":474,"name":"H. Lenk","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8548,"name":"E. W. Scripture","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":15198,"name":"J. Jurin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":906,"name":"E. G. Boring","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4201,"name":"W. H. Newton-Smith","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":15199,"name":"G. Ardley","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":22975,"name":"C. Murchinson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":609,"name":"A. A. Luce","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":666,"name":"T. E. Jessop","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":3639,"lemma":"Wissenschaften, schöne","tf":2},{"id":2511,"lemma":"Psychologie","tf":2}],
+ "see_also":[{"id":1547,"lemma":"Kathederphilosophie"}],
+ "groups":[{"id":46,"name":"Unterricht und Institutionen","label":"Lehnstuhlphilosophie"}],
+ "reg_authors":[{"name":"Breidert Wolfgang","n":6}]
+}
+);

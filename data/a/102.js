@@ -1,0 +1,58 @@
+HWPH.put("a/102",
+{
+ "id":102,
+ "lemma":"Allgemeinvorstellung",
+ "band":"1",
+ "kind":"article",
+ "col_from":191,
+ "col_to":192,
+ "pdf_from":851,
+ "pdf_to":853,
+ "authors":["W. Halbfass"],
+ "n_notes":5,
+ "n_chars":3105,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Allgemeinvorstellung (Gemeinvorstellung; <span class=\"col\" data-col=\"192\"></span> repraesentatio generalis, communis; general, abstract idea), zu Beginn des 18. Jh. in die deutsche Terminologie übernommen und zunächst als Synonym von ‹Begriff› (‹Allgemeinbegriff›) gebräuchlich <sup class=\"fn\" data-fn=\"0-1\">1</sup>, gehört gegenwärtig nicht zum aktuellen philosophischen Vokabular. Es kann in erster Linie als philosophiehistorisches Stichwort für ein Thema gelten, das im klassischen englischen Empirismus einerseits, in der psychologistischen Philosophie des 19. Jh. andererseits große Bedeutung hat. BERKELEY und HUME erörtern, in Auseinandersetzung mit LOCKE, unter dem Titel der ‹general› und ‹abstract ideas› die Frage, ob Allgemeines als Vorstellungsinhalt gegeben sein könne <sup class=\"fn\" data-fn=\"0-2\">2</sup>, Da sie davon ausgehen, daß alle Vorstellungen in Wahrheit Anschauungsvorstellungen seien, daß aber lediglich individuell Bestimmtes anschaulich gegeben sein könne, müssen sie die Frage verneinen: Der Charakter der Allgemeinheit kann nicht im Inhalt der Vorstellungen als solcher enthalten sein, er kann nur in der Indifferenz ihres Gebrauchs liegen, genauer: in der Koppelung mit einem sprachlichen Ausdruck, der auch mit anderen, ähnlichen Vorstellungsgebilden in gewohnheitsmäßigem Bezug steht. Für die meisten Autoren des 19. Jh., die, wie HERBART, BENEKE, J. ST. MILL, BAIN, HÖFFDING, zum Thema der A. sich äußern, bleiben die Gesichtspunkte BERKELEYS und HUMES maßgeblich <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Grundlage bleibt die anschauliche Einzelvorstellung. Die A. soll entweder als Verschmelzungsprodukt oder als Typisierung von Individualvorstellungen erklärt werden. Exemplarisch ist F. GALTONS Lehre von den ‹Allgemeinbildern› (‹generic images›), die, gleichsam photographische Überlagerungen konkreter Einzelbilder, zwar nicht mit dem Begriff identifiziert, aber doch als seine bildhafte Basis aufgefaßt werden <sup class=\"fn\" data-fn=\"0-4\">4</sup>. – Begriff und A. werden in der Regel im Rahmen <i>einer</i> Fragestellung behandelt; der grundsätzliche Unterschied zwischen dem logischen Problem des Begriffs und dem psychologischen Problem der Begriffsvorstellung bleibt solchem Denken unzugänglich. – Bewußtseinstheoretische Kritik an der traditionellen Problematik der A. übt vor allem E. HUSSERL, für den das Auffassen idealer Einheiten (Bedeutungen) zum Wesen des Bewußtseins gehört und der zudem eine eigene Anschaulichkeit des Eidetisch-Allgemeinen annimmt <sup class=\"fn\" data-fn=\"0-5\">5</sup>. – Gelegentlich dient ‹A.› (‹Gemeinvorstellung›) auch zur Übersetzung von ἔννοια bzw. ‹notio communis›.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">TH. H. HUXLEY: Hume. With helps to the study of Berkeley. Coll. Essays 6 (London 1894). – TH. RIBOT: L'évolution des idées générales (Paris <sup>3</sup>1909). – C. KNÜFER: Grundzüge der Gesch. des Begriffs Vorstellung von Wolff bis Kant. Abh. zur Philos. und ihrer Gesch. 37 (1911).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. J. G. WALCH: Philos. Lex. (<sup>2</sup>1740) Art. ‹Idee, allgemeine›; KANT, Logik § 1 (‹allgemeine Vorstellung›).</li>\n<li id=\"fn0-2\" value=\"2\">BERKELEY, Principles, Introduction §§ 6ff.; HUME, Treatise, I, 1, 7.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. Eisler<sup>4</sup> Art. ‹A.›; BALDWIN: Dictionary of philos. and psychol. (New York 1924) Art. ‹Abstract idea›. ‹General idea›. ‹Generic image›.</li>\n<li id=\"fn0-4\" value=\"4\">Inquiries into human faculty and its development (London 1883).</li>\n<li id=\"fn0-5\" value=\"5\">Log. Untersuchungen 2/1 (<sup>5</sup>1968) 106ff.</li>\n</ol>",
+ "prev":{"id":101,"lemma":"Allgemeines/Besonderes","band":"1","col":164},
+ "next":{"id":103,"lemma":"Allheit","band":"1","col":192},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"abstract idea","qualifier":"","band":null,"col":null},
+  {"term":"Gemeinvorstellung","qualifier":"","band":null,"col":null},
+  {"term":"general idea","qualifier":"","band":null,"col":null},
+  {"term":"generic image","qualifier":"","band":"1","col":"192"},
+  {"term":"notio communis","qualifier":"","band":"1","col":"192"},
+  {"term":"repraesentatio communis","qualifier":"","band":null,"col":null},
+  {"term":"repraesentatio generalis","qualifier":"","band":null,"col":null},
+  {"term":"κοινὰι ἔννοιαι","qualifier":"","band":"1","col":"192"}
+ ],
+ "persons":[
+  {"id":33,"name":"D. Hume","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":130,"name":"G. Berkeley","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21,"name":"J. Locke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":60,"name":"J. S. Mill","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":94,"name":"J. G. Walch","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":82,"name":"J. F. Herbart","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":453,"name":"J. M. Baldwin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":608,"name":"F. E. Beneke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":695,"name":"A. Bain","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":845,"name":"H. Höffding","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":894,"name":"F. Galton","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":794,"name":"Th. Ribot","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1621,"name":"Th. H. Huxley","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":5405,"name":"C. Knüfer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":3165,"lemma":"Thema","tf":2}],
+ "see_also":[
+  {"id":100,"lemma":"Allgemeinbilder"},
+  {"id":365,"lemma":"Begriff"},
+  {"id":503,"lemma":"Communes conceptiones"},
+  {"id":3503,"lemma":"Vorstellung"}
+ ],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Allgemeinvorstellung"}],
+ "reg_authors":[{"name":"Halbfass Wilhelm","n":32}]
+}
+);

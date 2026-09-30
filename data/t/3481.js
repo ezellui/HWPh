@@ -1,0 +1,47 @@
+HWPH.put("t/3481",
+{
+ "b":"Vollformalismus ist ein Terminus der mathematischen Logik bzw. Metamathematik (s.d.), der von P. LORENZEN als Synonym für ‹formales System› (‹formal system›) eingeführt wurde , um über einen sprechenden Gegenbegriff zu ‹Halbformalismus› (‹semi-formal system›) zu verfügen. Im Gegensatz zu einem V., also einem formalen System im strengen Sinne, wo diejenigen Kalkülregeln, welche die formale Sprache und den Herleitungsbegriff bestimmen, nur endlich-lange Ausdrücke und Herleitungen zulassen , erlaubt ein Halbformalismus auch unendlich-lange Ausdrücke oder Herleitungen. Die Dominanz von ‹V.› rührt wesentlich vom Einfluß des Hilbertschen Programms aus den 1920er und 30er Jahren und allgemein einer grundlagenorientierten Sichtweise her; doch war es bereits zu D. HILBERTS Zeiten nicht unüblich, auch infinitäre Eigenschaften zuzulassen. Seit ihrer erfolgreichen Anwendung in Beweis-und Modelltheorie (ab den 1950er Jahren) gehören Halbformalismen – ω-Logik, infinitäre Sprachen und Logiken – zum Standardrepertoire der mathematischen Logik. Für LORENZEN sind Halbformalismen wichtig, da sie Widerspruchsfreiheitsbeweise – etwa für die Arithmetik – ermöglichen, die, wenn auch nicht beweis-definit, so doch dialogisch-definit und daher konstruktiv zu rechtfertigen sind . \nIn der Traditionslinie der sog. «Algebra der Logik» wurden für die Logik wie selbstverständlich auch infinitäre Eigenschaften angenommen. So versteht CH. S. PEIRCE die Quantoren als abkürzende Schreibweisen für Ad- bzw. Konjunktionen: \n∨ xφ(x) := φ(a1) ∨ φ(a2) ∨ ... ∨ φ(an)... \n∧ xφ(x) := φ(a1) ∧ φ(a2) ∧ ... ∧ φ(an)... \nIst der betrachtete Gegenstandsbereich der quantifizierten Aussage endlich, sind es auch die korrespondierenden Ad- bzw. Konjunktionen; ist er aber unendlich, dann sind es auch die Ad- bzw. Konjunktionen. Diese Interpretation der Quantoren als infinitäre Ausdrücke ist keine bloße Façon de parler, sondern spielt eine tragende Rolle, z.B. beim (ersten) Beweis des «Satzes von Löwenheim-Skolem» . Die Verhältnisse liegen dagegen anders in der von G. FREGE ausgehenden Entwicklungslinie, die über B. RUSSELL und A. N. WHITEHEAD zu D. HILBERT führt. Strenge und vollständige Formalisierung der verwendeten Sprache und behaupteten Herleitungen werden hier das Methodenideal; einerseits soll sich keine «Voraussetzung ... unbemerkt einschleichen» können , andererseits müssen sich, damit der Prozeß des Schließens selbst zum Gegenstand einer finiten mathematischen Betrachtung werden kann, ihre «Objekte vollkommen in allen Teilen überblicken lassen» (Hilbertsche Beweistheorie oder Metamathematik) . Durch den großen Einfluß Hilberts setzt sich diese Auffassung zwar weitgehend durch, doch nicht ausnahmslos. Um den Logizismus (s.d.) konzeptuell bzw. vor den Gödelschen Sätzen zu retten, setzen F. P. RAMSEY und R. CARNAP auf infinitäre Sprachen bzw. Logiken ; und E. ZERMELO meint, allein infinitäre Sprachen seien der Mathematik angemessen . Selbst der späte Hilbert macht Zugeständnisse, wenn er die sog. ω-Schlußregel: Gilt eine Aussage von jeder natürlichen Zahl, dann gilt sie für alle natürlichen Zahlen, kurz: \nφ(1), φ(2), ..., φ(n), ... ⇒ ∧ xφ(x) \nbetrachtet . Baut man die ω-Regel (auch: «unendliche Induktion», «Carnap's rule») in einen V. ein, so muß man entweder unendlich-lange Herleitungen oder Ausdrücke erlauben, um die Prämisse(n) für die Konklusion ∧ xφ(x) im Kalkül herstellen zu können. Andererseits ist ein solcher ω-Halbformalismus – in scharfem Gegensatz zu jedem arithmetischen V. – vollständig, d.h. jede wahre arithmetische Aussage ist herleitbar. Die eigentliche Anerkennung von Halbformalismen beginnt in den 1950er Jahren. In der Modelltheorie entwickelt sich, ausgehend u.a. vom Studium einfacher infinitärer Logiken im Umfeld von A. TARSKI , das Programm, sog. «modelltheoretische Sprachen» («model-theoretic languages») aufzufinden. Der Grund ist folgender: Einerseits ist die Sprache erster Stufe zu ausdrucksschwach, um viele mathematische Begriffe adäquat formalisieren zu können; andererseits benötigt man für modelltheoretische Untersuchungen gewisse Eigenschaften – wie Vollständigkeit (s.d.), Kompaktheit, Löwenheim-Skolem-Sätze – von denen man eine oder mehrere zwangsläufig verliert, geht man über die Logik erster Stufe hinaus («Lindström-Sätze»), und von denen keine für die Logik zweiter Stufe noch gelten kann . Daher sucht man Sprachen, die zwar ‘stärkerʼ als die der ersten Stufe und damit für die Formalisierung mathematischer Begriffe geeignet sind, aber doch ‘schwächerʼ als die der zweiten Stufe, damit zumindest eine der gewünschten Eigenschaften noch gilt. Hierunter fallen auch viele infinitäre Sprachen bzw. Logiken . In der Beweistheorie dagegen werden Halbformalismen – sozusagen als ‘infinitärer Umwegʼ – für das Studium von V., etwa für Widerspruchsfreiheitsbeweise, mit Vorteil benutzt. Ihre Anerkennung setzt sich bes. mit dem Gebrauch der ω-Regel bei K. SCHÜTTE durch. Im Anschluß an W. TAIT gibt man mittlerweile anstelle der ω-Regel auch in diesem Kontext geeigneten infinitären Sprachen den Vorzug . \nHalbformalismen kommen demnach zwei Funktionen zu. Einerseits fungieren sie als bloße technische Hilfsmittel in metatheoretischen Untersuchungen von V., ohne jedoch an ihre Stelle zu treten; so geschieht es z.T. in der Beweistheorie. Andererseits fungieren Halbformalismen als vollgültige Alternativen zu V., wie in der Modelltheorie oder manchen Ansätzen zur Grundlegung der Mathematik. Obwohl CARNAP schon früh sein «Toleranzprinzip» (s.d.) formuliert, gilt innerhalb der Philosophie noch weithin die ‘Erststufen-Theseʼ: Es gibt nur eine wahre Logik, nämlich die erststufige Logik der Junktoren und Quantoren; so z.B. W. QUINE . Wird Logik dagegen verstanden als die Untersuchung der jeweiligen ‘Logik einer Sacheʼ (und beschränken sich die ‘Sachenʼ nicht auf Junktoren oder Quantoren), so scheint, daß «the first-order-thesis, by contrast, confuses the subject matter of logic with one [of] its tools» .",
+ "n":"P. LORENZEN: Metamathematik (1962, 21980) 67. \nK. SCHÜTTE: Beweistheorie (1960) 168; Proof theory (1977) 174. \nVgl. Art. ‹Formales System›. Hist. Wb. Philos. 2 (1972) 963f. \nVgl. Art. ‹Beweistheorie›, a.O. 1 (1971) 886–888; ‹Modell; Modelltheorie I.›, a.O. 6 (1984) 50–54. \nLORENZEN, a.O. [1]. \nVgl. Art. ‹Algebra der Logik›. Hist. Wb. Philos. 1 (1971) 152f. \nCH. S. PEIRCE: On the algebra of logic. Amer. J. Math. 7 (1885) 180–202. Coll. papers, hg. CH. HARTSHORNE/P. WEISS (Cambridge, Mass. 1933, 21960) 210–249, hier: 228 [CP 3. 393]; Writings. A chronolog. ed., hg. C. J. W. KLOESEL u.a. 5 (Bloomington 1993) 162–190; vgl. W. D. GOLDFARB: Logic in the twenties: The nature of the quantifier. J. symbolic Logic 44 (1979) 351–368. \nL. LÖWENHEIM: Über Möglichkeiten im Relativkalkül. Math. Annalen 76 (1915) 228–470; engl., in: J. van HEIJENOORT (Hg.): From Frege to Gödel (Cambridge, Mass. 1967) 228–251. \nG. FREGE: Begriffsschrift (1879, ND 1988) X. \nD. HILBERT: Über das Unendliche. Math. Annalen 95 (1925) 161–190, hier: 171; engl., in: van HEIJENOORT, a.O. [8] 369–392. \nVgl. F. P. RAMSEY: The found. of mathematics. Proc. London math. Soc. 2/25 (1926) 338–384; ND, in: The foundations ... and other logical essays (London 1931) 1–61; R. CARNAP: Die log. Syntax der Sprache § 14 (1934, 21968) 34–40; engl. (London 1937); Ein Gültigkeitskriterium für die Sätze der klass. Mathematik. Mh. Mathematik Physik 42 (1935) 163–190. \nVgl. E. ZERMELO: Grundlagen einer allg. Theorie der mathemat. Satzsysteme. Fundamenta Mathematicae 25 (1935) 136–146. \nD. HILBERT: Beweis des Tertium non datur, in: Nachr. Ges. Wiss. Göttingen, Math.-phys. Klasse (1931) 120–125. \nVgl. Art. ‹Vollständigkeit/Unvollständigkeit›. \nVgl. C. KARP: Languages with expressions of infinite length (Amsterdam 1964); H. J. KEISLER: Model theory for infinitary logic (Amsterdam 1971). \nP. LINDSTRÖM: On extensions of elementary logic. Theoria 35 (1969) 1–11; vgl. H.-D. EBBINGHAUS/J. FLUM/W. THOMAS: Einf. in die mathemat. Logik, Kap. IX. XIII (1978, 41996) 149–162. 277–293. \nVgl. J. BARWISE/S. FEFERMAN (Hg.): Model-theoretic logics (1985). \nW. TAIT: Infinitely long terms ..., in: J. N. CROSSLEY/M. DUMMETT (Hg.): Formal systems and recursive functions (Amsterdam 1965) 176–185; vgl. W. POHLERS: Proof theory (1989). \nDoch vgl. K. MENGER: Logical tolerance in the Vienna Circle. Sel. papers (Dordrecht 1979) 11–16. \nVgl. W. V. O. QUINE: Philos. of logic (Englewood Cliffs, N.J. 1970); dtsch.: Philos. der Logik (1972) 72–108. \nJ. BARWISE: Model-theoretic logics: Background and aims, in: BARWISE/FEFERMAN, a.O. [17] 3–23, hier: 6.",
+ "l":"BARWISE/FEFERMAN (Hg.) s. Anm. [17] (mit Lit.). – G. H. MOORE: Infinite and proof. Interchange 21 (1990) 46–60. – B. BULDT: Infinitary logics, in: Routledge encycl. of philos. 4 (London 1998) 769–772 (mit Lit.).",
+ "au":"B. Buldt",
+ "A":["B. Buldt"],
+ "cb":[
+  [0,1113],
+  [1275,1113],
+  [1511,1113],
+  [1554,1113],
+  [1597,1113],
+  [2543,1114],
+  [3112,1114],
+  [3150,1114],
+  [5060,1114],
+  [5966,1115]
+ ],
+ "cn":[
+  [0,1113],
+  [0,1114],
+  [47,1114],
+  [111,1114],
+  [174,1114],
+  [224,1115],
+  [274,1115],
+  [295,1115],
+  [360,1115],
+  [734,1115],
+  [908,1115],
+  [954,1115],
+  [1077,1115],
+  [1431,1115],
+  [1550,1115],
+  [1661,1115],
+  [1709,1115],
+  [1855,1115],
+  [2046,1115],
+  [2113,1115],
+  [2290,1115],
+  [2388,1115],
+  [2499,1115]
+ ],
+ "cl":[[0,1115]]
+}
+);

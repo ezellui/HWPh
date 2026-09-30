@@ -1,0 +1,12 @@
+HWPH.put("t/1553",
+{
+ "b":"Kausalität, phänomenale, ist die unmittelbare Erfahrung, daß ein Ereignis einen Einfluß auf ein anderes Ereignis ausübt. Daß sie möglich sei, wird von D. HUME bestritten , praktisch aufgrundder Annahme, daß phänomenale Gegebenheiten keinerlei Eigenschaften haben können außer denjenigen ihrer Einzelbestandteile. I. KANT nimmt die gegenwärtige Auffassung vorweg: Er räumt ein, daß Verursachungsphänomene nicht von außen herangetragen sein können, anerkennt aber ihr Vorkommen und schließt aus diesen Prämissen auf ihren Ursprung in der Natur des Erkennenden . – Die Argumente HUMES entfallen mit der atomistischen Grundannahme: Verursachungserscheinungen gehören, wie Form und Bewegung von Wahrnehmungsgebilden, zu den Eigenschaften raumzeitlich ausgedehnter Bereiche, die nicht aus artgleichen Eigenschaften ihrer Elemente, sondern aus sehr bestimmten Struktureigenschaften der zugrunde liegenden Reizkonfigurationen hervorgehen. Diese Vermutung, von A. MICHOTTE und W. KÖHLER 1929 fast gleichzeitig ausgesprochen, wurde von dem ersteren seit 1941 in umfassenden – inzwischen vielfach wiederholten und ergänzten – Untersuchungen bestätigt.",
+ "n":"D. HUME: Eine Unters. über den menschlichen Verstand, dtsch. hg. R. RICHTER (1907) 77ff. \nI. KANT, KrV, hg. W. WEISCHEDEL (1956) 47f. \nA. MICHOTTE: Quelques aspects de la psychol. de la perception négligés dans les rech. expérimentales, in: E. G. BORING (Hg.): 9th int. Congr. Psychol. 1929 (Princeton, N.Y. 1930) 307–308; W. KÖHLER: Gestalt psychology (New York 1929, 21947) 320–359.",
+ "l":"A. MICHOTTE: La perception de la causalité (Louvain/Paris 1946, 21954); Die Kausalitätswahrnehmung. Hb. Psychol. I/1 (1966) 954–977. – K. KOFFKA: Principles of Gestalt psychol. (London 1935, 31950). – K. DUNCKER: Zur Psychol. des produktiven Denkens (1935). – W. METZGER: Psychol. (1941, 41968). – G. KANIZSA und F. METELLI: Connessioni di tipo causale fra eventi percettivi: l'effetto attrazione e l'effetto lancio inverso, Atti XI Congr. Psicologi ital. 1956 (Mailand 1957) 131–140. – F. METELLI und D. P. TOGNAZZO: Risultati di una serie di esperimenti sull'effetto di attrazione fenomenica. Ist. Psicolsper. Padova (1958). – A. GEMELLI und A. CAPPELLINI: The in.fluence of the subject's attitude in perception. Acta psychol. (Amst.) 14 (1958) 12–23.",
+ "au":"W. Metzger",
+ "A":["W. Metzger"],
+ "cb":[[0,801],[121,802]],
+ "cn":[[0,801],[90,801],[135,801]],
+ "cl":[[0,802]]
+}
+);

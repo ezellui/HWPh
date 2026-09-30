@@ -1,0 +1,35 @@
+HWPH.put("a/428",
+{
+ "id":428,
+ "lemma":"Beziehungssoziologie",
+ "band":"1",
+ "kind":"article",
+ "col_from":910,
+ "col_to":910,
+ "pdf_from":3161,
+ "pdf_to":3162,
+ "authors":["J. Debus"],
+ "n_notes":7,
+ "n_chars":1649,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Beziehungssoziologie (Beziehungslehre) ist eine Richtung der deutschen Sozialtheorie der ersten Hälfte des 20. Jh. Nachdem G. SIMMEL im Rahmen einer Theorie des sozialen Raumes <sup class=\"fn\" data-fn=\"0-1\">1</sup> festgestellt hatte, daß sich eine «Beziehung» zwischen Menschen herstellt, wo sie zueinander «in Wechselwirkung treten» <sup class=\"fn\" data-fn=\"0-2\">2</sup>, erhob A. VIERKANDT «Beziehung» zur «Grundkategorie des soziologischen Denkens» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Als B. baute L. v. WIESE sein soziologisches System auf <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Er versteht unter ‹Beziehung› den Grad der Distanz oder Verbundenheit, in dem sich Menschen in sozialen Prozessen befinden. Unter Titeln wie ‹Geselligkeit›, ‹Einsamkeit›, ‹Abhängigkeit›, ‹offne› und ‹verdeckte Wechselbeziehung› beschreibt er einzelne Beziehungsformen <sup class=\"fn\" data-fn=\"0-5\">5</sup>. J. PLENGE greift das Problem der Beziehungslehre als «Kernproblem der Gesellschaftslehre» auf <sup class=\"fn\" data-fn=\"0-6\">6</sup> und bildet die Kategorie der Beziehung aus einer beschreibenden zu einer ontologischen aus <sup class=\"fn\" data-fn=\"0-7\">7</sup>: Es sind die Beziehungen, die die partikularen Gegenstände des Daseins erst zur Wirklichkeit des Seins werden lassen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">G. SIMMEL: Soziol. (1908).</li>\n<li id=\"fn0-2\" value=\"2\">Soziol. (<sup>4</sup>1958) 461f.</li>\n<li id=\"fn0-3\" value=\"3\">A. VIERKANDT: Die Beziehung als Grundkategorie des soziol. Denkens. Arch. für Rechts- und Wirtschaftsphilos. 9 (1916) H. 1 u. 2; Gesellschaftslehre (1923).</li>\n<li id=\"fn0-4\" value=\"4\">L. v. WIESE: Allg. Soziol. (1924); Art. ‹B.› im Handwb. der Soziol. (1931).</li>\n<li id=\"fn0-5\" value=\"5\">A. GECK: Art. ‹Beziehung und Beziehungslehre› in: W. BERNSDORF/F. BÜLOW: Wb. der Soziol. (1955).</li>\n<li id=\"fn0-6\" value=\"6\">J. PLENGE: Zum Ausbau der Beziehungslehre: 1. Die Beziehungsrichtungen; 2. Der Beziehungsbogen. Kölner Vjh. Soziol. 9 (1930/31) H. 3 u. 4; 3. Gang und Aufbau der isolierten Beziehung a.a.O. 10 (1931/32) 320–354.</li>\n<li id=\"fn0-7\" value=\"7\">J. PLENGE: Ontologie der Beziehung (1930).</li>\n</ol>",
+ "prev":{"id":427,"lemma":"Beziehung, interne/externe","band":"1","col":909},
+ "next":{"id":429,"lemma":"Bezugssystem","band":"1","col":910},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":2220,"name":"J. Plenge","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":74,"name":"G. Simmel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":696,"name":"A. Vierkandt","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1364,"name":"Wiese","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2772,"name":"L. H. A. Geck","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4906,"name":"E. Bülow","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1857,"name":"W. Bernsdorf","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":42,"name":"Soziologie","label":"Beziehungssoziologie"}],
+ "reg_authors":[{"name":"Debus Jürgen","n":6}]
+}
+);

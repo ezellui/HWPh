@@ -1,0 +1,68 @@
+HWPH.put("a/2003",
+{
+ "id":2003,
+ "lemma":"Modus",
+ "band":"6",
+ "kind":"article",
+ "col_from":66,
+ "col_to":68,
+ "pdf_from":20614,
+ "pdf_to":20620,
+ "authors":["D. Schlüter"],
+ "n_notes":31,
+ "n_chars":7415,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Modus. ‹M.› bedeutet im Lateinischen zunächst ganz allgemein die Art und Weise von etwas zu sein. Eine geläufige Definition sagt: «M. est adjacens rei determinatio» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Entscheidend für die spätere philosophische Geschichte des Begriffs ist dabei das Moment des Bezogenseins auf etwas anderes, das relativ auf den M. als absolut anzusehen ist. Dessen gegebenenfalls veränderliche Seinsweise ist der M. Von dieser Grundbedeutung her fand der Begriff Eingang in viele verschiedene Wissenschaften, in denen sich sein Gebrauch jeweils spezifisch verselbständigte: so in Logik und Grammatik als Art der Zuordnung des Prädikats zum Subjekt (logische «Modalitäten» und grammatische «M.» <sup class=\"fn\" data-fn=\"0-2\">2</sup>), in der Musik als Tonarten und ihre «Modulation» <sup class=\"fn\" data-fn=\"0-3\">3</sup>, in der Ethik als Lebensweise oder -ziel (m. vitae <sup class=\"fn\" data-fn=\"0-4\">4</sup>) u.a. Aus dieser Vielfalt der Anwendungsgebiete erklärt sich die vielfältige Bedeutung des Begriffs in späterer Zeit.</p>\n<p>Eine speziellere Bedeutung erhält das Wort ‹M.› erstmals bei AUGUSTINUS, der vornehmlich in seiner Schrift ‹De natura boni› die Dinge nach «m., species et ordo» charakterisiert. Diese genannten drei Momente haben die Kreaturen von Gott <sup class=\"fn\" data-fn=\"0-5\">5</sup>; ohne sie kann etwas weder in der Wirklichkeit vorgefunden noch gedacht werden <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Würde eine jede Natur nach der ihr eigenen Weise «m., species et ordo» wahren, <span class=\"col\" data-col=\"67\"></span> so gäbe es nichts Böses bzw. Schlechtes in der Welt <sup class=\"fn\" data-fn=\"0-7\">7</sup>; denn dieses (malum) ist nichts anderes als die Verderbnis (corruptio) entweder des «m.» oder der «species» oder der «ordo naturalis» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Augustinus intendierte weder eine streng ontologische Fragestellung <sup class=\"fn\" data-fn=\"0-9\">9</sup>, noch verfügte er über eine scharf geprägte Terminologie. Auch seine Ausführungen zum M., der gelegentlich im Unterschied zur species ganz unmittelbar auf das Gute <sup class=\"fn\" data-fn=\"0-10\">10</sup> (und ebenfalls auf die Wahrheit) <sup class=\"fn\" data-fn=\"0-11\">11</sup> bezogen wird, illustrieren diesen Sachverhalt. Da er indessen mit der Begründung, daß er nicht als «begrenzt» geglaubt werden dürfe, für Gott ausdrücklich einen M. ablehnt und an einer anderen, im Mittelalter oftmals zitierten Stelle ‹M.› und ‹mensura› verknüpft <sup class=\"fn\" data-fn=\"0-13\">13</sup>, bedeutet der Terminus bei ihm dem lateinischen Sprachgebrauch entsprechend soviel wie das mit der Eigenart einer Sache vorgegebene Maß, im Hinblick auf den Menschen vor allem auch das rechte Maßhalten im Tun und Lassen <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<p>Die Scholastiker übernahmen von dem Kirchenvater als feststehende Sentenz, daß sich das Gutsein der Kreatur nach «m., species et ordo» bemesse <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Jedoch sahen sie sich gezwungen, diese Formel auch für die Bedeutung des Wortes ‹M.› im Rahmen einer entfalteten Ontologie zu interpretieren <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Derartige Ansätze eines differenzierten Verständnisses des vorgegebenen Terminus führten erstmals bei AEGIDIUS ROMANUS († 1316) zur Ausbildung einer eigenen <i>M.-Lehre</i> <sup class=\"fn\" data-fn=\"0-17\">17</sup>, die in der Spätscholastik zu einem festen, wenngleich keineswegs einhellig durchgeführten Lehrstück wurde. Die dieser Doktrin vorausliegende Frage war bei Aegidius: Wie ist angesichts einer Vielheit in sich verschiedener Bestimmungen eines Seienden dessen innere Einheit zu verstehen? Später trat als weitere Frage die nach der Identität eines Etwas im Wandel hinzu.</p>\n<p>Im Sinne der spätscholastischen M.-Lehre besagt ‹M.› in strengster Bedeutung bei SUÁREZ etwas «Positives, das von sich aus eine Seinsheit (entitas) affiziert, indem er dieser etwas verleiht, was außerhalb ihrer Wesenheit liegt» <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Der M. ist eine Form, die einem in seiner Natur bereits bestimmten Etwas lediglich abschließend einen besonderen Zustand (status) beilegt. Als bloße Zustandsbestimmung kann er selbst keine Seinsheit konstituieren, vielmehr fordert der M. notwendig ein anderes als sein Subjekt <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Unabhängig von diesem könnte er nicht einmal kraft göttlicher Allmacht bestehen <sup class=\"fn\" data-fn=\"0-20\">20</sup>. Als Beispiele für den M. nennt Suárez die Figur im Hinblick auf die Quantität, den Ort und die Lage eines Dinges <sup class=\"fn\" data-fn=\"0-21\">21</sup>, die Inhärenz der Quantität oder der Qualität ... <sup class=\"fn\" data-fn=\"0-22\">22</sup>. Der «modale» Unterschied von Seinsheit als solcher und ihrem M. ist geringer als der «reale» (zwischen zwei Dingen) und wiederum mehr als der rein «gedankliche» <span class=\"col\" data-col=\"68\"></span> <sup class=\"fn\" data-fn=\"0-23\">23</sup>.</p>\n<p>Bei DESCARTES verschwand der subtile Unterschied, den Suárez zwischen Akzidens und M. statuiert hatte. Der M. wurde faktisch zum Akzidens, aber deutlich unterschieden gegenüber Attribut und Qualität <sup class=\"fn\" data-fn=\"0-24\">24</sup>. Eine durchaus nicht einheitliche M.-Lehre wurde jedoch erst bei den Cartesianern entfaltet <sup class=\"fn\" data-fn=\"0-25\">25</sup>. In der deutschen Schulphilosophie des 18. Jh. bedeutet ‹M.› eine im logischen Sinne «zufällige» akzidentelle Bestimmung <sup class=\"fn\" data-fn=\"0-26\">26</sup>.</p>\n<p>SPINOZA definierte den M. im Anschluß an die Scholastiker und Cartesianer formal als eine Affektion der Substanz, ohne welche er weder sein noch begriffen werden kann <sup class=\"fn\" data-fn=\"0-27\">27</sup>. Nach seiner Lehre von der einen und einzigen göttlichen Substanz sind «die besonderen Dinge nur ... M., durch die Gottes Attribute in gewisser und bestimmter Weise ausgedrückt werden» <sup class=\"fn\" data-fn=\"0-28\">28</sup>. Aus der göttlichen Natur folgen die M. notwendig und nicht zufällig <sup class=\"fn\" data-fn=\"0-29\">29</sup>. Als Ausgangspunkt für Spinozas M.-Lehre <sup class=\"fn\" data-fn=\"0-30\">30</sup> kann die scholastische des PAUL VOETIUS angesehen werden, die für die nicht unerheblichen Umdeutungen offen war <sup class=\"fn\" data-fn=\"0-31\">31</sup>.</p>\n<p>In dem Versuch, im Rahmen der Wesenslogik die «spinozistische Auslegung des Absoluten», die zwar «<i>vollständig</i>» sei, die Momente desselben aber nur «<i>nacheinander</i>» aufzähle, als notwendigen Fortgang des Absoluten zur Unwesentlichkeit zu begreifen, bestimmt HEGEL den M. als «die <i>Äußerlichkeit</i> des Absoluten», und zwar «die als Äußerlichkeit gesetzte Äußerlichkeit, ... den Schein als Schein ..., somit die <i>Identität mit sich, welche das Absolute ist</i>» <sup class=\"fn\" data-fn=\"0-32\">32</sup>.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">J. J. ALCORTA: La teoria de los modos en Suárez (Madrid 1949).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"68\"></span> PS.-THOMAS, S. totius logicae 6, 11. Opera omnia, edit. Parm. 17 (1864, ND New York 1948) 90 b.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. Art. <a class=\"xref\" href=\"#/a/2004\">→ Modus significandi</a> und <a class=\"xref\" href=\"#/a/1995\">→ Modalität</a>.</li>\n<li id=\"fn0-3\" value=\"3\">z.B. BOETHIUS, De musica 1, 1; 4, 14–16. MPL 63, 11f. 1278–1284.</li>\n<li id=\"fn0-4\" value=\"4\">z.B. CICERO, Tusc. disp. 5, 66; PROPERTIUS, Eleg. 1, 7, 9.</li>\n<li id=\"fn0-5\" value=\"5\">AUGUSTINUS, De nat. boni c. 3. CSEL 25/II, 856; De civ. Dei 11, 15. CSEL 40/I, 534f.</li>\n<li id=\"fn0-6\" value=\"6\">De civ. Dei, ebda.</li>\n<li id=\"fn0-7\" value=\"7\">De nat. boni c. 37 a.O. [5] 873.</li>\n<li id=\"fn0-8\" value=\"8\">a.O. 857.</li>\n<li id=\"fn0-9\" value=\"9\">Andere allgemeingültige Ternare ohne ‹m.›: De vera relig. 7, 13. MPL 34, 128f.; De div. qq. 83, 18. MPL 40, 15; De civ. Dei 11, 28 a.O. [5] 555.</li>\n<li id=\"fn0-10\" value=\"10\">De div. qq. 83, 6 a.O. [9] 13; De nat. boni c. 22 a.O. [5] 864.</li>\n<li id=\"fn0-11\" value=\"11\">De beata vita 4, 34. CSEL 63, 114f. [12] De nat. boni c. 22 a.O. [5] 864.</li>\n<li id=\"fn0-13\" value=\"13\">De Gen. ad lit. 4, 3. CSEL 28/I, 99.</li>\n<li id=\"fn0-14\" value=\"14\">Verhältnis von ‹species› und ‹M.›: De div. qq. 83, 6 a.O. [9] 13.</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. THOMAS VON AQUIN, De ver. 21, 6; S. theol. I, 5, 5; I–II, 85, 4.</li>\n<li id=\"fn0-16\" value=\"16\">Vgl. die Übersicht bei BONAVENTURA, In 2 Sent. d. 35, a. 1, q. 1.</li>\n<li id=\"fn0-17\" value=\"17\">Vgl. D. TRAPP: Aegidii Romani de doctrina modorum. Angelicum (Rom) 12 (1935) 449–501.</li>\n<li id=\"fn0-18\" value=\"18\">FR. SUÁREZ, Disp. met. 7, 1, 17.</li>\n<li id=\"fn0-19\" value=\"19\">a.O. 18.</li>\n<li id=\"fn0-20\" value=\"20\">16, 1, 21; 2, 16.</li>\n<li id=\"fn0-21\" value=\"21\">16, 1, 21.</li>\n<li id=\"fn0-22\" value=\"22\">7, 1, 18.</li>\n<li id=\"fn0-23\" value=\"23\">20.</li>\n<li id=\"fn0-24\" value=\"24\">Vgl. R. DESCARTES, Princ. philos. 1, 48f. 56. 60ff. Oeuvres, hg. ADAM/TANNERY (AT) 8, 22–27; Ep. 525 (29. 7. 1648). AT 5, 221; vgl. auch Art. <a class=\"xref\" href=\"#/a/283\">→ Attribut</a>.</li>\n<li id=\"fn0-25\" value=\"25\">Vgl. dazu ST. v. DUNIN-BORKOWSKI: Spinoza 2 (1933) 219–235. 450.</li>\n<li id=\"fn0-26\" value=\"26\">CHR. WOLFF: Philos. prima sive ontol. (<sup>2</sup>1736) §§ 148. 150; A. BAUMGARTEN: Met. (<sup>7</sup>1779) §§ 50. 65; CHR. CRUSIUS, Entwurf der notwendigen Vernunftwahrheiten ... (<sup>2</sup>1753) § 41.</li>\n<li id=\"fn0-27\" value=\"27\">B. de SPINOZA, Ethica I, def. 5, prop. 15 dem.</li>\n<li id=\"fn0-28\" value=\"28\">a.O. I, prop. 25, cor.</li>\n<li id=\"fn0-29\" value=\"29\">I, prop. 29 dem.</li>\n<li id=\"fn0-30\" value=\"30\">Vgl. E. BECHER: Der Begriff des Attributs bei Spinoza in seiner Entwicklung und seinen Beziehungen zu den Begriffen der Substanz und des M. (1905); DUNIN-BORKOWSKI, a.O. [25] 2, 219–235; 4 (1936) 376f. 390.</li>\n<li id=\"fn0-31\" value=\"31\">DUNIN-BORKOWSKI, a.O. 2, 225f.</li>\n<li id=\"fn0-32\" value=\"32\">G. W. F. HEGEL, Wiss. der Logik, hg. G. LASSON 2 (<sup>2</sup>1934) 166. 162.</li>\n</ol>",
+ "prev":{"id":2002,"lemma":"Modernismus","band":"6","col":62},
+ "next":{"id":2004,"lemma":"Modus significandi","band":"6","col":68},
+ "backlinks":[],
+ "outlinks":[
+  {"id":283,"lemma":"Attribut","n":1},
+  {"id":1995,"lemma":"Modalität","n":1},
+  {"id":2004,"lemma":"Modus significandi","n":1}
+ ],
+ "register":[
+  {"term":"Akzidens","qualifier":"","band":"6","col":"67"},
+  {"term":"mensura","qualifier":"","band":"6","col":"67"}
+ ],
+ "persons":[
+  {"id":11908,"name":"Dunin-Borkowski","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7,"name":"Augustinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":15,"name":"R. Descartes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":50,"name":"B. Spinoza","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":25,"name":"Boethius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":48,"name":"A. G. Baumgarten","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":53,"name":"Bonaventura","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":150,"name":"Ch. A. Crusius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":424,"name":"Aegidius Romanus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1090,"name":"E. Becher","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":11907,"name":"Ps.-Thomas","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":24117,"name":"Paul Voetius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":24118,"name":"Propertius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14975,"name":"J. I. Alcorta","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":77,"name":"Ch. Adam","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":351,"name":"G. Lasson","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2541,"name":"D. Trapp","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":27,"lemma":"Absolut, das Absolute","tf":4},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":4},
+  {"id":1686,"lemma":"Kreatur, Kreatürlichkeit","tf":2},
+  {"id":2552,"lemma":"Quantität","tf":2},
+  {"id":841,"lemma":"Etwas","tf":2},
+  {"id":2757,"lemma":"Schein","tf":2},
+  {"id":2775,"lemma":"Scholastik","tf":2},
+  {"id":2544,"lemma":"Qualität","tf":2},
+  {"id":1366,"lemma":"Identität","tf":2},
+  {"id":3047,"lemma":"Subjekt","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Modus"}],
+ "reg_authors":[{"name":"Schlüter Dietrich","n":17}]
+}
+);

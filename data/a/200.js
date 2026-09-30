@@ -1,0 +1,27 @@
+HWPH.put("a/200",
+{
+ "id":200,
+ "lemma":"Aperspektivisch",
+ "band":"1",
+ "kind":"article",
+ "col_from":436,
+ "col_to":436,
+ "pdf_from":1637,
+ "pdf_to":1638,
+ "authors":["W. Kambartel"],
+ "n_notes":3,
+ "n_chars":1156,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Aperspektivisch. In dieser auch in substantivischer Form als ‹Aperspektive› und ‹Aperspektivität› gebrauchten Wortbildung, die J. GEBSER zur Charakterisierung einer «neuen Weltsicht» einführt, ist das Präfix ‹a› privativ zu verstehen als Ausdruck der modernen Befreiung vom perspektivischen Raumbegriff der Renaissance durch die Integration der Zeit im Sinne einer «vierten Dimension» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In der «Bewußtwerdung der Zeit als einer Weltkonstituante» erblickt Gebser «die grundlegende aperspektivische Manifestation» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. War im perspektivischen Wirklichkeitsverständnis die Zeit dem rational kontrollierten Raum als entsprechend rationalisierte meßbare Extensität untergeordnet, so resultiert umgekehrt die neue aperspektivische Raum-Zeit-Freiheit aus der Dominanz der arationalen, als nicht meßbare Intensität gegenwärtigen Zeit über einen entsprechend arationalen Raum <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">Transparente Welt. Zum 60. Geburtstag von Jean Gebser (1965).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. GEBSER: Ursprung und Gegenwart 1 (1949) 5f.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 2 (1953) 377.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. 4ff. 99ff. (Die vierte Dimension). 131ff. (Die Temporik); vgl. auch: In der Bewährung (1962) 33ff. (Notwendigkeit und Möglichkeit einer neuen Weltsicht).</li>\n</ol>",
+ "prev":{"id":199,"lemma":"Apeiron","band":"1","col":433},
+ "next":{"id":201,"lemma":"Aphasie","band":"1","col":436},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Temporik","qualifier":"(Gebser)","band":"1","col":"436"}],
+ "persons":[{"id":7193,"name":"J. Gebser","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}],
+ "mentions":[{"id":2578,"lemma":"Raum","tf":2}],
+ "see_also":[],
+ "groups":[{"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Aperspektivisch (Gebser)"}],
+ "reg_authors":[{"name":"Kambartel Walter","n":16}]
+}
+);

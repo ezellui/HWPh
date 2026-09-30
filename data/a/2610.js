@@ -1,0 +1,68 @@
+HWPH.put("a/2610",
+{
+ "id":2610,
+ "lemma":"Rechtsnorm",
+ "band":"8",
+ "kind":"article",
+ "col_from":292,
+ "col_to":294,
+ "pdf_from":31124,
+ "pdf_to":31130,
+ "authors":["Ch. Gusy"],
+ "n_notes":14,
+ "n_chars":8331,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Rechtsnorm. Die Kombination zweier im Sprachgebrauch längst geläufiger Begriffe hat sich zu Beginn des 20. Jh. gegenüber anderen, bis dahin bedeutungsgleich verwendeten Ausdrücken (‹Norm›, ‹Recht›, ‹Rechtsquelle›, ‹Gesetz›) verselbständigt. Sie verdankt ihre Entstehung insbesondere dem Bestreben der Rechtswissenschaft um Verselbständigung und Abgrenzung von anderen Normwissenschaften, welche seit der zweiten Hälfte des 19. Jh. unter dem Signum des Positivismus gefordert und betrieben wurde <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die wohl früheste systematische Untersuchung stammt von H. KELSEN <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Der dort entwickelte R.-Begriff der Wiener Schule ist in zweifacher Hinsicht als Antithese konzipiert: Als Gegenbegriff zum kausal verstandenen «Naturgesetz» und zu dem – eigentlich im Zentrum von Kelsens Abhandlung stehenden – «Rechtssatz». Die R. ist danach jede Sollensanordnung, die Bestandteil einer als «Recht» verstandenen Ordnung ist. In Entgegensetzung zum Naturgesetz bezieht sie ihre Eigenart aus der Unterscheidung von Sein und Sollen, Kausalität und Zurechnung, Erklärung und Geltung. Daneben ist sie aber als Gegenbegriff zum «Rechtssatz», verstanden als wissenschaftliche Aussage über R.en, konzipiert. Charakteristikum der R. ist für Kelsen ihre Geltung, sie ist Teil der Rechtsordnung, Kennzeichen des Rechtssatzes dagegen ist seine Wahrheit oder Unwahrheit, er ist Teil der Rechtswissenschaft. Diese Dichotomisierung hat sich sprachlich in Deutschland allerdings kaum durchgesetzt: Nach einem anderen Sprachgebrauch werden gegenwärtig die Begriffe ‹R.› und ‹Rechtssatz› gleichgesetzt <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Das herrschende Begriffsverständnis nahm seinen Anknüpfungspunkt aber nicht bei der Wiener Schule, sondern beim angelsächsischen Rechtspositivismus J. AUSTINS. Seine «philosophy of positive law» <sup class=\"fn\" data-fn=\"0-4\">4</sup> umschreibt «the large and vague expression law» als «a rule laid down for the guidance of an intelligent being by an intelligent being having power over him». Dieser – von allen ethischen, moralischen oder religiösen Kriterien gelöste Begriff – erlaubt Austin die Bildung von zwei Kategorien: den «laws of god» («laws of nature») und «laws set by men to men»; bei diesen unterscheidet er wiederum zwischen zwei Arten: a) «laws set by political superiors» und b) «laws set by men not political superiors». Davon separiert er zwei ähnliche Phänomene: c) «laws improperly but by close analogy so called, being rules set and enforced by mere opinion» («law of honour», «law set by fashion») und d) «laws metaphorically so called» (Naturgesetze).</p>\n<p>Die Rezeption Austins in der deutschen Rechtsphilosophie hat den Begriff der R. für die unter a) genannte <span class=\"col\" data-col=\"293\"></span> Gruppe von Normen verwendet <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Dessen Umschreibung erfolgte fortan durch drei Merkmale: 1) Das Vorhandensein einer <i>Sollensanordnung</i> als konstituierendes Element jeder Norm <sup class=\"fn\" data-fn=\"0-6\">6</sup>; diese wird auch als Willensakt, «Imperativ» oder «Zwangselement» bezeichnet. 2) Die Zugehörigkeit dieser Norm zu einer normativen Ordnung, welche als <i>Rechtsordnung</i> zu bezeichnen ist. Dieses Merkmal soll die R. von den religiösen, moralischen oder sittlichen Normen abgrenzen <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Dabei wird die gesamte Ordnung nicht als R. bezeichnet <sup class=\"fn\" data-fn=\"0-8\">8</sup>. 3) Ein gewisses Maß an <i>Allgemeinheit</i> der Norm: Sollensanordnungen, welche sich nur an eine einzelne Person richten oder nur einen einzelnen Fall betreffen, wurde die Bezeichnung ‹R.› regelmäßig abgesprochen <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Erscheint bis hierher der Begriff der R. allein als Sondergut des Rechtspositivismus, so sind die drei genannten Begriffselemente seitdem ohne ausdrückliche Bezugnahme auf Austin oder die Wiener Schule auch in nichtpositivistischen Rechtstheorien Gemeingut geworden <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Sie fügen ihm bisweilen weitere, je nach ihrem rechtstheoretischen Vorverständnis unterschiedliche Definitionselemente hinzu, ohne dadurch aber zu einem substantiell anderen R.-Begriff zu gelangen. Unter welchen Voraussetzungen ein Phänomen zustande kommt, welches die genannten Anforderungen erfüllt und daher als R. zu qualifizieren ist, ist keine rechtstheoretische Frage, sondern nach der im jeweiligen Einzelfall anwendbaren Rechtsordnung zu beantworten. Unter den Begriff werden einhellig Gesetze, Rechtsverordnungen, Satzungen und das Gewohnheitsrecht subsumiert. In jüngerer Zeit wird auch Regelwerken, welche von Privaten stammen, die Eigenschaft der R. zuerkannt.</p>\n<p>Diskussionen entstanden in der Folgezeit nicht aus unterschiedlichen Auffassungen über jene Merkmale, sondern aus der geringen Konkretheit jener Begriffselemente selbst. Nach dem Zweiten Weltkrieg gerät insbesondere die Frage in die Diskussion, wann eine Norm Bestandteil einer Rechtsordnung sei. Hier wird die Fundierung des Begriffs der R. im rechtswissenschaftlichen Positivismus zum Problem. Die Frage entzündet sich am Begriff des Rechts; also daran, ob auch ungerechte Normen R.en sein könnten. Soweit im Anschluß an G. RADBRUCH <sup class=\"fn\" data-fn=\"0-11\">11</sup> ‘ungerechtenʼ Gesetzen der Rechtscharakter abgesprochen wird, kommen ihre Normen nicht als R.en in Betracht. Die Konsequenzen dieser Lehre liegen darin, daß ‘ungerechteʼ Normen frühere R.en nicht aufheben bzw. ein Handeln nicht rechtfertigen können. Dieser Lehre kam praktische Bedeutung insbesondere bei der Beurteilung der Gültigkeit bzw. Rechtmäßigkeit nationalsozialistischer Handlungen zu. Mit dieser Modifikation war der Begriff der R. in den rechtsphilosophischen <span class=\"col\" data-col=\"294\"></span> Streit um den Rechtsbegriff hineingezogen. Zugleich war sie aber auch die Vorbedingung für seine Rezeption durch nicht-positivistische Rechtsphilosophien.</p>\n<p>Die neuere Rechtsphilosophie wendet sich partiell gegen den Charakter der – genauer: aller – R. als «Sollensanordnungen» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Der Grund dafür liegt in der Beobachtung, daß nicht alle Normen, denen gewöhnlich das Prädikat ‹R.› zugesprochen wird, eine Sollensanordnung enthalten. Das gilt um so eher, wenn das ‘Sollenʼ mit Zwang gleichgesetzt wird. Die Diskussion hat zu einer stärkeren Differenzierung der möglichen Inhalte von R.en geführt <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Gegenwärtig werden die folgenden möglichen Inhalte von R.en anerkannt: Gebieten, Erlauben, Ermächtigen, Erläutern, Einschränken, Verweisen, Fingieren, Derogieren (eine R. für alle oder bestimmte Fälle außer Kraft setzen). Das Kriterium der Sollensanordnung wird dann nicht mehr als Begriffselement der einzelnen R., sondern nur noch als solches der Rechtsordnung insgesamt anerkannt.</p>\n<p>Unter Rückgriff auf angelsächsische Vorarbeiten ist in jüngerer Zeit eine weitere begriffliche Differenzierung zu beobachten. Sie neigt dazu, den Begriff ‹R.› entweder einzuschränken oder stärker zu strukturieren <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Ihr zentrales Anliegen ist die Unterscheidung von ‹Rechtsregel› und ‹Rechtsprinzip›. Regeln sind danach Normen, welche im Wege der Subsumtion anwendbar sind nach den deontischen Kriterien ‘erfüllt/nicht erfülltʼ (Beispiel: ‘<i>A</i> ist ein Mörderʼ bzw. ‘<i>A</i> ist kein Mörderʼ). Hingegen sind Prinzipien solche Normen, die nicht einfach angewandt, sondern nur optimiert werden können (Beispiel: ‘Die Bundesrepublik ist ein Sozialstaatʼ). Rechtsprinzipien erfüllen alle begrifflichen Elemente der R.en; sie sind daher eine Teilmenge dieser Normen.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">A. ROSS: Theorie der Rechtsquellen (1929). – U. MEYER-CORDING: Die R.en (1971). – F. KIRCHHOF s. Anm. [10].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"294\"></span> Zu wissenschaftl. Vorläufern: G. LÜBBE-WOLFF: Hist. Funktionen der Unterscheidung von Recht und Moral. Arch. Rechts- Soz.philos., Beih. 23 (1985) 43ff.</li>\n<li id=\"fn0-2\" value=\"2\">Bes. H. KELSEN: Hauptprobl. der Staatsrechtslehre (1911); Reine Rechtslehre (<sup>2</sup>1960); Allg. Theorie der Normen (1979).</li>\n<li id=\"fn0-3\" value=\"3\">So noch: E. ZITELMANN: Irrtum und Rechtsgeschäft (1879) 205; gegenwärtig etwa: K. LARENZ: Methodenlehre der Rechtswiss. II, Kap. 2 (<sup>6</sup>1991).</li>\n<li id=\"fn0-4\" value=\"4\">J. AUSTIN: Lect. on jurispr. (1885) 86ff.</li>\n<li id=\"fn0-5\" value=\"5\">F. SOMLO: Jurist. Grundlehre (1917) § 23; A. ROSS: Theorie der Rechtsquellen (1929) 83ff.</li>\n<li id=\"fn0-6\" value=\"6\">a.O. 59f.</li>\n<li id=\"fn0-7\" value=\"7\">66ff.</li>\n<li id=\"fn0-8\" value=\"8\">97f.</li>\n<li id=\"fn0-9\" value=\"9\">Dazu krit: a.O. 64f. mit weit. Nachweisen; ablehnend: KELSEN: Reine Rechtsl. a.O. [2] 252ff.</li>\n<li id=\"fn0-10\" value=\"10\">Umfassende Nachweise bei F. KIRCHHOF: Private Rechtssetzung (1987) 57ff.</li>\n<li id=\"fn0-11\" value=\"11\">G. RADBRUCH: Gesetzl. Unrecht und übergesetzl. Recht. Süddtsch. Juristenztg. 1 (1946) 105. 107; ebenso etwa F. BYDLINSKI: Jurist. Methodenlehre und Rechtsbegriff (1982) 325ff.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. KELSEN: Allg. Theorie der Normen, a.O. [2] 76ff.; LARENZ, a.O. [3] II, Kap. 2, 2.</li>\n<li id=\"fn0-13\" value=\"13\">KELSEN, a.O.; LARENZ, a.O.</li>\n<li id=\"fn0-14\" value=\"14\">Für die erstere Richtung: J. ESSER: Grundsatz und Norm in der richterl. Fortbildung des Privatrechts (<sup>3</sup>1974); für die zweite Richtung: R. ALEXY: Theorie der Grundrechte (1985) 71ff.</li>\n</ol>",
+ "prev":{"id":2609,"lemma":"Rechtslehre","band":"8","col":288},
+ "next":{"id":2611,"lemma":"Rechtsontologie","band":"8","col":294},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Gesetz","qualifier":"","band":"8","col":"292"},
+  {"term":"– I (jur.) 3 480–493 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"– II (jur.) 10 562f. s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":269,"name":"H. Kelsen","b":1,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":885,"name":"K. Larenz","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":317,"name":"J. L. Austin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":887,"name":"G. Radbruch","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2357,"name":"A. Ross","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":5289,"name":"P. Kirchhof","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":2502,"name":"J. Esser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2687,"name":"R. Alexy","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":9976,"name":"F. Bydlinski","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8969,"name":"E. Zitelmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6645,"name":"F. Somlo","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":27245,"name":"G. Lübbe-Wolff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":27246,"name":"U. Meyer-Cording","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2160,"lemma":"Norm","tf":14},
+  {"id":2612,"lemma":"Rechtsordnung","tf":5},
+  {"id":2614,"lemma":"Rechtsphilosophie","tf":3},
+  {"id":2599,"lemma":"Recht, positives; Rechtspositivismus","tf":2},
+  {"id":2085,"lemma":"Naturgesetzlichkeit, Naturgesetz","tf":3},
+  {"id":2920,"lemma":"Sollen","tf":2},
+  {"id":2409,"lemma":"Positivismus","tf":2},
+  {"id":1930,"lemma":"Merkmal","tf":3},
+  {"id":2785,"lemma":"Schule","tf":3},
+  {"id":2598,"lemma":"Recht","tf":3},
+  {"id":2710,"lemma":"Rezeption, Rezeptionsästhetik","tf":2},
+  {"id":2233,"lemma":"Ordnung","tf":3},
+  {"id":596,"lemma":"Differenzierung","tf":2},
+  {"id":1044,"lemma":"Gelten, Geltung","tf":2},
+  {"id":2340,"lemma":"Phänomen","tf":2},
+  {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
+  {"id":707,"lemma":"Element","tf":2}
+ ],
+ "see_also":[
+  {"id":1194,"lemma":"Grundnorm"},
+  {"id":2160,"lemma":"Norm"},
+  {"id":2612,"lemma":"Rechtsordnung"},
+  {"id":3066,"lemma":"Subsumtion"}
+ ],
+ "groups":[{"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Rechtsnorm"}],
+ "reg_authors":[{"name":"Gusy Christoph","n":2}]
+}
+);

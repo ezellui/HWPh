@@ -1,0 +1,37 @@
+HWPH.put("t/3206",
+{
+ "b":"Topologie des Seins; Ortschaft des Seins. Rückblickend auf seinen Denkweg nennt M. HEIDEGGER dessen dritte und letzte Phase als «Frage nach dem Ort oder der Ortschaft des Seins» «T.d.S.» . Zeitlich der Frage nach dem «Sinn von Sein» («Fundamentalontologie») und derjenigen nach der «Wahrheit des Seins» (seinsgeschichtlicher Ansatz) nachgeordnet, findet sich ‹T.d.S.› als Begriff im bisher veröffentlichten Opus eher selten, ist aber der Sache nach unter den seit Mitte der vierziger Jahre vermehrt auftretenden Termini ‹Ort›, ‹Erörterung› oder ‹wohnen› aufzuweisen. \nObgleich auch die existenziale Analytik des Daseins nach dem ‘Ortʼ der Wahrheit gefragt hatte, diese aber als Erschlossenheit von Welt im menschlichen Seinsverständnis hatte gründen lassen, wird nach Heideggers «Kehre» (s.d.) zur seinsgeschichtlichen Fassung der Seinsfrage ‹Ortschaft› und deren begriffliche Äquivalente (‹Gegend›, ‹Zeit-Raum›, ‹Dimension›) allein für das Sein selbst in Anspruch genommen. Die T. als Sagen (λόγος) des Ortes (τόπος) der Wahrheit fragt nach dem Sein, das nun nicht mehr vom Verstehen des Menschen aus gedacht wird, sondern als umfassender Sinnhorizont alles Seiende und den Menschen selbst in dessen Wesen verstehbar macht. Dieses ist selbst «die ortlose Ortschaft alles Anwesens» , d.h. der sich geschichtlich wandelnde Ursprungsbereich für Seiendes, und erfüllt damit genau jene konstitutive Funktion, die Heidegger seit Aufgabe des fundamentalontologischen Frageansatzes dem sich als «Lichtung» ereignenden Sein zuweist. Weil die Ortschaft diesem Sinne entsprechend «eine Offenbarkeit des Seins [ist], die selbst in das Geschick des Seins gehört» und auch weiterhin eng mit der Terminologie des seinsgeschichtlichen Frageansatzes verknüpft bleibt , ist auch die T.d.S. kein gänzlich neuer Ansatz der Seinsfrage. Sie bleibt eingebunden in die Frage nach der «Wahrheit des Seins» und hat eine diesbezüglich erläuternde , begrifflich noch deutlicher die Identität von Sein und Mensch betonende Funktion. Als «die Ortschaft des Wohnens des geschichtlichen Menschen auf dieser Erde» werden hier Mensch und Sein auf ihre wesenhafte Zusammengehörigkeit hin gedacht: «Die Ortschaft ist selber das Verhältnis beider» ; «Ortschaft der Identität von Denken und Sein» . Heidegger, der das «Wohnen» als ursprüngliche Bedeutung des Wortes ‹sein› und den «Ort» als das «Versammelnde» , d.h. als ein Bezug stiftendes Moment, auslegt, kann daher mitunter auch den Menschen direkt mit der «Ortschaft der Wahrheit des Seins» gleichsetzen und damit deren relationale Verschränkung anzeigen. \nSolches Zusammengehören, das auch in mehr Differenz wahrenden Bestimmungen («Wohnen in der Nähe des Seins», «Nachbar des Seins» ) ausgesagt ist, findet im «Ereignis», dem Leitwort des Heideggerschen Denkens seit Mitte der dreißiger Jahre, seine inhaltlich deutlichste Ausformung . In späten Formulierungen sind terminologische Fügungen mit «Ortschaft» die denkerische Konsequenz: Das Sein als «Ereignis», das im Rekurs auf das Wesen der Sprache präzisiert wird, ist das «in sich schwingende Spiel der Ortschaft» , der gesuchte «Aufenthalt für das Wesen des Menschen» , von woher diesem eine verwandelte, nicht mehr metaphysische Bestimmung zukommen soll . So ist das «ekstatische Innestehen im Offenen der Ortschaft des Seins» nichts anderes als der «Aufenthalt im Ereignis» , «die Ortschaft des Ereignisses» der Name für die noch ausstehende Übereinkunft von Sein und Mensch. Das «Ereignis» selber aber entzieht sich einer Beschreibung im herkömmlichen Sinne; denn es ist «die Ortschaft aller Orte und Zeit-Spiel-Räume» . \nDie Heideggersche «Erörterung» der philosophischen und dichterischen Grundworte als die sich geschichtlich wandelnden Prägungen des Seins mag eine an die Topik (s.d.) anknüpfende Deutung der T.d.S. nahelegen , doch wird das Sein als «Ortschaft» von Heidegger auch als erfahrbare Konstellation situativ-phänomenaler Art vorgeführt . \nThematisch an Heideggers ‘Destruktionʼ (s.d.) der Metaphysik anknüpfend, nennt H. BOEDER seine Darstellung der abgeschlossenen Metaphysik «T.», die jedoch nicht nach dem Sein fragt, sondern den jeweiligen Ort der «zunächst geschichtlichen Principien der anfangenden Vernunft oder des ‘anfänglichenʼ Denkens im metaphysischen Wissen» aufsucht .",
+ "n":"M. HEIDEGGER: Vier Seminare (1977) 82. 73. Ges.ausg. [GA] (1975ff.) I/15, 344. 335. \nDie Technik und die Kehre (1962) 41f. GA III/79, 72. \nWozu Dichter? [1946], in: Holzwege (1950) 252. GA I/5, 273. \nz.B. Br. über den ‘Humanismusʼ (1947), in: Wegmarken (1967). GA I/9, 331 (Anm. b). \nVgl. a.O. [1] 73/GA 335. \n‘Andenkenʼ (1943), in: Erläut. zu Hölderlins Dichtung (31963) 108. GA I/4 (1981) 114. \nGrundsätze des Denkens, 5. Vortr. [1957]. GA III/79, 168. \na.O. 172; vgl. 175. \nz.B. Sein und Zeit § 12 (1927, 161986) 54. GA I/2, 73. \nDie Sprache im Gedicht (1953), in: Unterwegs zur Sprache (1959) 37. GA I/12, 33. \nBr. ..., a.O. [4] 163/GA 332; Einl. zu: ‘Was ist Met.?ʼ (1949), a.O. 202/GA 373. \nBr. ..., a.O. 173/GA 342f. \nVgl. Beiträge zur Philos. (Vom Ereignis) [1936–38]. GA III/65. \na.O. [7] 173. \nDie Sprache [1950], a.O. [10] 13/GA 11. \nDeshalb auch «Ortschaft der Verwindung der Metaphysik»: Zur Seinsfrage (1955), a.O. [4] 251/GA 423. \nNietzsche 2 (1961, 51989) 358. \nZur Sache des Denkens (1969) 57. \na.O. 58. \nDer Weg zur Sprache (1959), a.O. [10] 258/GA 246; zum näheren Zusammenhang von ‹Ortschaft›, ‹Ort›, ‹Raum› und ‹Gegend› vgl. auch: Die Kunst und der Raum (1969), in: Aus der Erfahrung des Denkens. GA I/13; Bauen Wohnen Denken (1952), in: Vortr. und Aufsätze (1954, 61990) 148ff. \nVgl. O. PÖGGELER: Met. und Seinstopik bei Heidegger. Philos. Jb. 70 (1962) 118–137; vgl. Heideggers T.d.S. Man World 2 (1969) 331–357. \nM. HEIDEGGER: Zur Erört. der Gelassenheit [1944/45]. GA I/13, 45–74; Abendgespräch ... [1944/45]. GA III/77, 205f.; Aufenthalte (1989) 19–22. \nH. BOEDER: T. der Met. (1980) 49.",
+ "l":"",
+ "au":"F. Schlegel",
+ "A":["F. Schlegel"],
+ "cb":[[0,1291],[568,1291],[2574,1292],[2576,1292],[3600,1292],[3933,1292]],
+ "cn":[
+  [0,1291],
+  [0,1292],
+  [85,1292],
+  [139,1292],
+  [200,1292],
+  [284,1292],
+  [310,1292],
+  [397,1292],
+  [456,1292],
+  [477,1292],
+  [533,1292],
+  [615,1292],
+  [697,1292],
+  [725,1292],
+  [789,1292],
+  [804,1292],
+  [845,1292],
+  [946,1292],
+  [978,1292],
+  [1012,1292],
+  [1022,1292],
+  [1301,1292],
+  [1437,1292],
+  [1580,1292]
+ ],
+ "cl":[]
+}
+);

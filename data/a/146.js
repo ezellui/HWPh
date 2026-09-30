@@ -1,0 +1,45 @@
+HWPH.put("a/146",
+{
+ "id":146,
+ "lemma":"Animalisch",
+ "band":"1",
+ "kind":"article",
+ "col_from":315,
+ "col_to":315,
+ "pdf_from":1244,
+ "pdf_to":1246,
+ "authors":["H. M. Nobis"],
+ "n_notes":8,
+ "n_chars":2530,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Animalisch (lat. animalis) tritt bei mittelalterlichen Schrifstellern wie bei Hugo von St. Viktor und Thomas von Aquin als Übersetzung des griechischen ζωϊκόν bzw. αἰσθητικόν auf <sup class=\"fn\" data-fn=\"0-1\">1</sup>. HUGO VON ST. VIKTOR schreibt im Anschluß an 1. Kor. 2, 14: «ita stultus et animalis est homo, qui non percipit ea quae Dei sunt» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. THOMAS VON AQUIN schließt sich dagegen in seiner Definition eng an Aristoteles an. Dieser hatte vom Tierischen als ζωϊκόν gesprochen und diesem vor allem das Vermögen der Wahrnehmung (αἴσθησις) und das Streben (ὄρεξις) zugeordnet <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Dementsprechend sagt Thomas: «animal potest dici homo dupliciter: vel quantum ad vim apprehensivam et hic dicitur animalis sensu; vel quantum ad vim appetitivam et dicitur animalis vita» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. An anderer Stelle heißt es: «dicuntur homines animales, qui vires sensitivas sequuntur inter quas est apprehensiva et appetitiva». Bei BÖHME bezeichnet ‹animalisch› bzw. ‹tierisch› das äußere Naturleben des Menschen, das dieser mit den Tieren gemeinsam hat. In den Lexika des 17. und 18. Jh. tritt der Ausdruck unter dem Stichwort ‹anima sensitiva› auf <sup class=\"fn\" data-fn=\"0-5\">5</sup>. KANT bezeichnet die sinnlichen Gefühle auch als «animalische Empfindungen» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Seit Beginn des 19. Jh. etwa sondert man die Organe hinsichtlich ihrer physiologischen Leistungen in vegetative und animalische. In diesem Sinn verkörpert die Muskel- und Nerventätigkeit das animalische Sein. M. PALÁGYI unterscheidet in seiner Wahrnehmungslehre das Animalische vom Geistigen <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die moderne Tiefenpsychologie bezeichnet mit ‹animalisch› die affektiv-emotionale Psyche im platonischen Sinne, der im Unterschied zur reinen Reizbeantwortung, die zu jedem Lebewesen gehört, die Reizempfindung und das ihr entsprechende Verhalten als typisch für das subjekthaft-tierische Verhalten zukommen, das man ‹pattern of behavior› nennt <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">J. STROHL: Der Bedeutungswandel des Begriffspaares animal-vegetativ im Laufe der Zeit. Verh. Schweiz. Naturforsch. Ges. (Locarno 1940). – A. PORTMANN: Biol. und Geist (1954) 114–115.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">STEPHANUS: Thesaurus graecae linguae 5 (1954) 56 A.</li>\n<li id=\"fn0-2\" value=\"2\">HUGO v. ST. VIKTOR, Eruditiones didascalicae VII, 3. MPL 176, 814 b.</li>\n<li id=\"fn0-3\" value=\"3\">ARISTOTELES, De anima III, 10, 433 b 1.</li>\n<li id=\"fn0-4\" value=\"4\">THOMAS VON AQUIN, 1. Kor. 2, lect. I.</li>\n<li id=\"fn0-5\" value=\"5\">MICRAELIUS: Lex. philos. (Stettini 1661); CHAUVINUS: Lex. philos. (Leovandiae 1713).</li>\n<li id=\"fn0-6\" value=\"6\">I. KANT: KU § 54.</li>\n<li id=\"fn0-7\" value=\"7\">M. PALÁGYI: Naturphilos. Vorles. über Grundprobleme des Bewußtseins und des Lebens (1908; <sup>2</sup>1924) 9.</li>\n<li id=\"fn0-8\" value=\"8\">A. JUNG: Psychol. vegetativer Neurosen, in: Der Archetyp. Verh. 2. int. Kongr. analyt. Psychol., Zürich 1962 (Basel/New York 1964) 160.</li>\n</ol>",
+ "prev":{"id":145,"lemma":"Anima, Animus","band":"1","col":314},
+ "next":{"id":147,"lemma":"Animalismus","band":"1","col":315},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"pattern of behavior","qualifier":"","band":"1","col":"315"},
+  {"term":"ἀισθητικόν","qualifier":"","band":null,"col":null},
+  {"term":"ζωϊκόν","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":156,"name":"J. Micraelius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":154,"name":"J. Böhme","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":168,"name":"C. G. Jung","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":266,"name":"Hugo von St. Viktor","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1696,"name":"H. Stephanus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2193,"name":"G. Hugo","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4833,"name":"S. Viktor","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8485,"name":"St. Chauvinus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1237,"name":"A. Portmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":19169,"name":"J. Strohl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":3406,"lemma":"Verhalten","tf":2}],
+ "see_also":[{"id":3378,"lemma":"Vegetativ"}],
+ "groups":[{"id":28,"name":"Naturphilosophie","label":"Animalisch"}],
+ "reg_authors":[{"name":"Nobis Herbert M","n":31}]
+}
+);

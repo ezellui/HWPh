@@ -1,0 +1,46 @@
+HWPH.put("a/492",
+{
+ "id":492,
+ "lemma":"Chiffre",
+ "band":"1",
+ "kind":"article",
+ "col_from":1001,
+ "col_to":1001,
+ "pdf_from":3463,
+ "pdf_to":3465,
+ "authors":["H. Saner"],
+ "n_notes":8,
+ "n_chars":3011,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Chiffre ist abgeleitet vom arab. ‹sifr›, ‹leer›, was zugleich ‹Zahlzeichen ohne absoluten Wert›, ‹Null›, bedeutete. In dieser Bedeutung drang es im 13. Jh. in die romanischen und germanischen Sprachen. Als das italienische ‹nulla› es ersetzte, wurde es frei für ‹Zahlzeichen›. In diesem Sinn ist ‹ziffer› in der deutschen Sprache um etwa 1400 belegt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. ‹C.› wurde dann im 18. Jh. für ‹Geheimzeichen› aus dem Französischen übernommen.</p>\n<p>Der C.-Gedanke hat seinen Ursprung im Verständnis der Natur als einer zweiten Quelle der göttlichen Offenbarung. Er verbindet sich im Mittelalter mit den Spekulationen über das Buch der Natur, im Humanismus mit dem Interesse an den ägyptischen Hieroglyphen, im 16. und 17. Jh. mit der Signaturenlehre von PARACELSUS und J. BOEHME.</p>\n<p>Als metaphysischer Begriff tritt ‹C.› erstmals (1758) bei HAMANN auf: «Das Buch der Natur und der Geschichte sind nichts als Chyffern, verborgene Zeichen, die eben den Schlüssel nötig haben, der die heilige Schrift auslegt und die Absicht ihrer Eingebung ist» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Ihre Deutungen sind, gleich wie die der heiligen Schriften, nur menschliche «Lesarten» <sup class=\"fn\" data-fn=\"0-3\">3</sup> eines göttlichen Textes und als solche nie endgültig. – SCHILLER wendet den Begriff ‹C.› allein auf die Natur an: «Die Gesetze der Natur sind die C, welche das denkende Wesen zusammen fügt, sich dem denkenden Wesen verständlich zu machen – das Alphabet, vermittelst dessen alle Geister mit dem vollkommensten Geist und mit sich selbst unterhandeln» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. – KANT spricht in gleicher Weise von der «C.-Schrift» als einer Geheimschrift, «wodurch die Natur in ihren schönen Formen figürlich zu uns spricht» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Sie wird, nach SCHELLING, durch «die Erscheinung der Freiheit in uns» <sup class=\"fn\" data-fn=\"0-6\">6</sup> deutbar, obwohl immer nur in Ansätzen <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Neue philosophische Relevanz erhält der Begriff der C. bei JASPERS. C. ist für ihn Medium, in dem Transzendenz, die selber nicht erscheint, für mögliche Existenz zur Gegenwart kommt. Sie ist Sprache der Transzendenz. Alles (Natur, Geschichte, Kunstwerke, philosophische Systeme, Mythen, der Mensch) kann C. werden. Sie ist nicht Träger fixierter wirklicher, sondern schwebender möglicher Bedeutung, die ihre Wirklichkeit erst in der existentiellen Aneignung aus dem Selbstsein des je Einzelnen erlangt. Es gibt deshalb keine Methode, die C. ‹richtig› zu lesen und kein geschlossenes System der C. <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">E. CASSIRER: Individuum und Kosmos in der Philos. der Renaissance (1927). – H. LOOFF: Der Symbolbegriff in der neueren Religionsphilos. und Theol. Kantstudien Ergh. 69 (1955) bes. 114–125. – H. A. SALMONY: J. G. Hamanns metakritische Philos. 1 (1958) 149–164. – X. TILLIETTE: Sinn, Wert und Grenze der C.-Lehre. Stud. philos. (Basel) 20 (1960) 115–131.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. und W. GRIMM: Dtsch. Wb. 15 (1956) 1239–1248.</li>\n<li id=\"fn0-2\" value=\"2\">Werke, hg. NADLER 1 (1949) 308.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. 2 (1950) 203f.</li>\n<li id=\"fn0-4\" value=\"4\">National-A. 20 (1962) 116.</li>\n<li id=\"fn0-5\" value=\"5\">KU § 42.</li>\n<li id=\"fn0-6\" value=\"6\">Werke, hg. K. F. A. SCHELLING 3 (1858) 608.</li>\n<li id=\"fn0-7\" value=\"7\">a.a.O. 628.</li>\n<li id=\"fn0-8\" value=\"8\">Philos. (<sup>3</sup>1956) 128–236; Von der Wahrheit (<sup>2</sup>1958) 1022–1054; Der philos. Glaube angesichts der Offenbarung (<sup>2</sup>1963) 153–428. 451–460.</li>\n</ol>",
+ "prev":{"id":491,"lemma":"Chemismus","band":"1","col":1000},
+ "next":{"id":493,"lemma":"Chiliasmus","band":"1","col":1001},
+ "backlinks":[{"id":2135,"lemma":"Nichtgegenständlichkeit Gottes","n":1},{"id":2759,"lemma":"Scheitern","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Alphabet","qualifier":"","band":"1","col":"1001"}],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":42,"name":"F. Schiller","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":44,"name":"K. Jaspers","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":114,"name":"J. G. Hamann","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":295,"name":"Paracelsus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":953,"name":"W. Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5456,"name":"J. Boehme","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":67,"name":"E. Cassirer","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":2095,"name":"X. Tilliette","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13755,"name":"H. Looff","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10588,"name":"H. A. Salmony","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":417,"name":"J. Nadler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":456,"lemma":"Buch der Natur","tf":2},
+  {"id":3223,"lemma":"Transzendenz; Transzendieren","tf":2},
+  {"id":2781,"lemma":"Schrift","tf":2}
+ ],
+ "see_also":[{"id":456,"lemma":"Buch der Natur"},{"id":2883,"lemma":"Signatur, Signaturenlehre"}],
+ "groups":[{"id":14,"name":"Hermeneutik","label":"Chiffre"}],
+ "reg_authors":[{"name":"Saner Hans","n":7}]
+}
+);

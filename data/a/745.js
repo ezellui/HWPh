@@ -1,0 +1,58 @@
+HWPH.put("a/745",
+{
+ "id":745,
+ "lemma":"Entäußerung",
+ "band":"2",
+ "kind":"article",
+ "col_from":504,
+ "col_to":506,
+ "pdf_from":5251,
+ "pdf_to":5256,
+ "authors":["K. Röttgers"],
+ "n_notes":12,
+ "n_chars":6220,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Entäußerung ist (zusammen mit ‹Entfremdung›) die Übersetzung von lateinisch ‹alienatio› und seinen neusprachlichen Nachfolgern. In der römischen Rechtssprache etwa seit der Zeit Ciceros bedeutet ‹alienatio› die Übertragung von Eigentum. In dieser Bedeutung ist ‹entäußern› seit 1322 im Deutschen nachweisbar <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Schon in römischer Zeit bildete sich ein reiches Spektrum metaphorischer Redeweisen aus, das sich bei der Übernahme in die neuen Sprachen erhielt, z.B. die E. der Menschlichkeit. Zudem stand der deutsche Begriff im Spannungsfeld von französisch ‹alienation› (= Übertragung von Rechten im Staatsvertrag <sup class=\"fn\" data-fn=\"0-2\">2</sup>) und englisch ‹alienation› als einem Terminus der Nationalökonomie.</p>\n<p>Das philosophische Problem der E. entsteht mit dem identitätsphilosophischen Versuch, transzendentale Bestimmungsprozesse als transzendentale Erzeugungsprozesse darzustellen. Indem das naturrechtliche Denkmodell der E. von Rechten und ihrer Wiederaneignung in der Revolution übertragen wird auf Wirklichkeit überhaupt, entsteht FICHTES Problematik der Aufhebung der E. in der autonomen Tätigkeit des Ich. So ist bei Fichte die Tätigkeit des Ich sowohl Quelle der E. als auch Bedingung ihrer Aufhebung, wobei der Begriff der E. für den prozessualen Aspekt des Handelns des Ich steht, das eine <i>Übertragung</i> <span class=\"col\" data-col=\"505\"></span> eines Teils der absoluten Totalität der Tätigkeit aus dem Ich in das Nicht-Ich ist <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die Aufhebung der E. des Ich an das Nicht-Ich geschieht nach Fichte durch das Wissen des E.-Prozesses, d.h. durch die Erkenntnis, daß das Nicht-Ich Produkt des autonomen Ich ist.</p>\n<p>Nach SCHELLINGS Entfaltung der Problematik mit Hilfe des Begriffs des Absoluten gewinnt ‹E.› bei HEGEL konstitutive Bedeutung. Während für Fichte die französisch-naturrechtliche Vorstellung das bestimmende Moment gewesen zu sein scheint, ist für Hegel eher der englisch-nationalökonomische Gebrauch des Wortes maßgebend gewesen. Er geht aus vom Begriff der Arbeit, in der das Subjekt sich Gestalten seines Selbst schafft und dann zu ihnen sich äußerlich verhalten kann, «a) Ich mache mich <i>mittelbar</i> zum Dinge, [zur] Form, die <i>Sein</i> ist, in der Arbeit, b) Dieses mein[es] Daseins entäußere ich mich ebenso, mache es zu <i>einem mir fremden</i> und <i>erhalte</i> mich darin» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Arbeit und Sprache sind die Formen von <i>Äußerungen</i> des Inneren, «worin das Individuum nicht mehr an ihm selbst sich behält und besitzt, sondern das Innere ganz außer sich kommen läßt, und dasselbe Anderem preisgibt» <sup class=\"fn\" data-fn=\"0-5\">5</sup>, also Formen, in denen die Äußerung des Inneren zur E. wird. Im Prozeß der <i>Arbeit</i> entzweit sich das Bewußtsein in ein Fürsichsein, als der Beziehung auf die Wirklichkeit, die ein Verändern der Welt ist, und in ein Ansichsein als dem Begriff. Diese <i>Entzweiung</i> gehört selbst mit zu ihrem Begriff, und sie ist Bedingung der Möglichkeit der E. der Persönlichkeit. Diese wird in der ‹Rechtsphilosophie› im Modell der nationalökonomischen Kategorie der E. gedacht <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Als Formen dieser E. behandelt Hegel Sklaverei, Verwehrung von Eigentum und Aberglauben, Autoritätsglauben gleich. – Zweitens wird aber in diesem Begriff der Aspekt der <i>Entleerung des Inneren</i>, des Wesens mitgedacht: «es ist das Wort, das ausgesprochen den Aussprechenden entäußert und ausgeleert zurückläßt» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Allerdings wird dieser Aspekt nicht als isolierbar gedacht, sondern kehrt als Sichselbstwissen im Anderen in sich als Geist zurück. – Und zum dritten ist für Hegel ‹E.› der Begriff, mit dem er dialektisch das Werden der <i>Subjekt-Objekt-Beziehung</i> beschreibt als den Prozeß, in dem Inneres und Äußeres in eine Beziehung treten, Inneres zu Äußerem wird und damit zugleich die Äußerlichkeit desselben aufgehoben wird <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Letztlich aber wird durch alle Stufen von E. des Geistes hindurch die Subjekt-Objekt-Identität hergestellt in der absoluten Idee. Damit bedeutet E. hier wesentlich <i>Gegenständlichkeit</i>, die in der absoluten Idee aufgehoben ist.</p>\n<p>Den Anspruch, ‹E.› als universale Kategorie zur Kennzeichnung von Gegenständlichkeit überhaupt <span class=\"col\" data-col=\"506\"></span> verwenden zu können, bestreitet MARX. Auch er geht aus von der Arbeit als Ursprung der E.; aber nur die Arbeit unter den Bedingungen der warenproduzierenden Gesellschaft führt notwendig zur E. des <i>Arbeiters an sein Produkt.</i> Auch das Motiv der Entleerung des Inneren durch die E. erscheint bei ihm wieder als «Entwirklichung des Arbeiters» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Arbeit unter Bedingungen, die sie E. sein läßt, ist selbst dem Arbeitenden äußerlich, d.h. nicht erst das Produkt der Arbeit ist eine Form der E., sondern der Arbeitsprozeß selbst. Das Privateigentum ist konkrete Gestalt der E. der Arbeit. Ebenso ist das Geld eine Form, in die sich das Eigentum entäußert. Während bei Hegel der Akt, durch den E. stattfindet, zum Wesen des Entäußernden gehört, gemäß der logischen Notwendigkeit von E., erscheint bei Marx der Akt, durch den eine Form von E. entsteht, selbst als E. Unter den Bedingungen einer humanen Produktion erschiene die Arbeit statt als E. oder Entfremdung als «<i>freie Lebensäußerung</i>» und Vergegenständlichung <sup class=\"fn\" data-fn=\"0-10\">10</sup>, wohingegen bei Hegel jede Äußerung zugleich den Aspekt der E. hat. Da die Marxsche Redeweise von der E. sich vorwiegend in den Pariser Manuskripten findet, die erst 1932 «entdeckt» wurden, spielt der Begriff der E. im späteren 19. Jh. keine philosophisch relevante Rolle mehr, obwohl die Problematik im Marxismus bewußt blieb, was sich insbesondere bei LUKÁCS am Begriff der <i>Verdinglichung</i> zeigt <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Ein neuerer Versuch der Abgrenzung von ‹E.›, ‹Entfremdung› und ‹Vergegenständlichung› findet sich bei GARAUDY, der E. (extériorisation) als wertneutral, Vergegenständlichung (objectivation) als positiv und Entfremdung (aliénation) als negativ ansieht <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">R. GARAUDY s. Anm. [12]. – G. LUKÁCS: Der junge Hegel, Werke 7 (<sup>3</sup>1967). – M. BUHR und G. IRRLITZ: Anspruch der Vernunft (1968). – M. RIEDEL: Stud. zu Hegels Rechtsphilos. (1969). – Weitere Lit. s. Art. <a class=\"xref\" href=\"#/a/747\">→ Entfremdung</a>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"506\"></span> Vgl. Dtsch. Rechtswb. 2 (1932–1935) 1539.</li>\n<li id=\"fn0-2\" value=\"2\">J.-J. ROUSSEAU, Oeuvres complètes 3 (Paris 1964) 289ff.</li>\n<li id=\"fn0-3\" value=\"3\">J. G. FICHTE, Werke, hg. I. H. FICHTE 1, 165.</li>\n<li id=\"fn0-4\" value=\"4\">G. W. F. HEGEL: Jenenser Realphilos., hg. J. HOFFMEISTER 2, 217.</li>\n<li id=\"fn0-5\" value=\"5\">Werke, hg. GLOCKNER (1927ff.) 2, 242.</li>\n<li id=\"fn0-6\" value=\"6\">a.a.O. 7, 121f.</li>\n<li id=\"fn0-7\" value=\"7\">2, 585.</li>\n<li id=\"fn0-8\" value=\"8\">4, 659.</li>\n<li id=\"fn0-9\" value=\"9\">K. MARX, MEGA (1926ff.) 1/3, 83.</li>\n<li id=\"fn0-10\" value=\"10\">a.a.O. 547.</li>\n<li id=\"fn0-11\" value=\"11\">G. LUKÁCS, Werke 2 (1968) 257ff.</li>\n<li id=\"fn0-12\" value=\"12\">R. GARAUDY: Dieu est mort (Paris 1962) 75.</li>\n</ol>",
+ "prev":{"id":744,"lemma":"Ensoph","band":"2","col":503},
+ "next":{"id":746,"lemma":"Entelechie","band":"2","col":506},
+ "backlinks":[{"id":3391,"lemma":"Verdinglichung; Vergegenständlichung","n":1}],
+ "outlinks":[{"id":747,"lemma":"Entfremdung","n":1}],
+ "register":[
+  {"term":"alienation","qualifier":"","band":"2","col":"506"},
+  {"term":"Entleerung des Inneren","qualifier":"","band":"2","col":"505"},
+  {"term":"extériorisation","qualifier":"","band":"2","col":"506"},
+  {"term":"genetische 7 1659 Entwirklichung","qualifier":"","band":"2","col":"505"},
+  {"term":"objectivation","qualifier":"","band":"2","col":"506"},
+  {"term":"s auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":921,"name":"R. Garaudy","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12,"name":"J. G. Fichte","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":39,"name":"J.-J. Rousseau","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":404,"name":"M. Riedel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20137,"name":"G. Irrlitz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":710,"name":"M. Buhr","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":230,"lemma":"Arbeit","tf":10},
+  {"id":2134,"lemma":"Nicht-Ich","tf":3},
+  {"id":668,"lemma":"Eigentum","tf":3},
+  {"id":3266,"lemma":"Übertragung","tf":3},
+  {"id":231,"lemma":"Arbeiter, Arbeiterfrage","tf":2},
+  {"id":314,"lemma":"Äußerung","tf":3},
+  {"id":2468,"lemma":"Produkt, logisches","tf":3},
+  {"id":2499,"lemma":"Prozeß","tf":2},
+  {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2},
+  {"id":3628,"lemma":"Wirklichkeit","tf":2}
+ ],
+ "see_also":[{"id":230,"lemma":"Arbeit"},{"id":747,"lemma":"Entfremdung"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Entäusserung"}],
+ "reg_authors":[{"name":"Röttgers Arndt","n":23}]
+}
+);

@@ -1,0 +1,45 @@
+HWPH.put("t/2523",
+{
+ "b":"Psychometrie. Der Begriff ‹P.› geht auf CH. WOLFF zurück, der in seiner ‹Psychologia empirica› 1732 von einer «Psycheometrie» spricht , die einerseits verschiedene Grade von Lust und Widerwillen, andererseits verschiedene Grade der Urteilsgewißheit über die Lust und Widerwillen zugrundeliegende Vollkommenheit und Unvollkommenheit zum Gegenstand hat. Diese Grade «in stilo mathematico» auszudrücken, wäre – sobald man die entsprechenden Maßeinheiten gefunden hätte – die Aufgabe der Psycheometrie. \nSolche Ansätze sind lange Zeit bloßes Programm geblieben, ohne Versuch einer Mathematisierung, speziell methodischer Messung. I. KANT meint, Mathematik könne auf psychische Erscheinungen überhaupt nicht angewandt werden, da diesen nur eine einzige Dimension, die Zeit, eigen sei . Eine extensiv durchgeführte mathematische «Modellierung» findet sich dann 1824/25 bei J. F. HERBART, der ihr aber keine empirischen Daten, sondern theoretische, unüberprüfte Annahmen über das Wesen des Ichs zugrundelegt . \nG. TH. FECHNER vertritt 1851 die Hypothese, daß der relative Zuwachs der körperlichen Energie ein Maß für die Zunahme der entsprechenden seelischen Intensität sei . Dafür verweist er auf den Befund von E. H. WEBER, daß «die kleinsten Verschiedenheiten der Gewichte, die wir mit dem Tastsinn, der Länge der Linien, die wir mit dem Gesichte, und der Töne, die wir mit dem Gehör unterscheiden können», in Form eines (für die jeweilige Sinnesmodalität spezifischen) konstanten Verhältnisses von Ausgangsreiz und Reizzuwachs wahrgenommen werden . Verallgemeinernd folgert er: Wenn man diese «Unterschiedsschwelle» (bei der also zwei Empfindungen «ebenmerklich» verschieden sind) als Empfindungseinheit nimmt, dann hat man in der Summe solcher Einheiten, die man von der absoluten Reizschwelle an (bei der man überhaupt erst etwas von dieser Art wahrnimmt) bis zu einem bestimmten Reiz unmittelbar aufeinander folgend abzählen kann, ein Maß für die mit diesem Reiz R einhergehende Wahrnehmung: sie ist wegen des besagten konstanten Verhältnisses der jene Wahrnehmungseinheit eingrenzenden Reize eine logarithmische Funktion der Differenz zwischen R und der Reizschwelle . \nF. M. URBAN nennt 1908 die analytische Fassung einer solchen Kurve die «psychometrische Funktion» und bemerkt hierzu: «Die Bezeichnung dieser Ausdrücke als psychometrische Funktion ist eine Nachahmung des Terminus ‹biometrische Funktion›, womit man einen Ausdruck, der die Sterbenswahrscheinlichkeit als Funktion des Alters gibt, bezeichnet» . \nFür Fechners logarithmische Maßformel ist vorausgesetzt, daß die ebenmerklichen Empfindungsunterschiede für die jeweilige Modalität, In- und Extensität alle größengleich sind. Eine solche Annahme ist für psychometrische Untersuchungen unnötig. Nach E. G. BORING z.B. sind Empfindungen genau so direkt wie Reize meßbar. Man kann zwei sensorische Unterschiede direkt vergleichen und dabei feststellen, daß die Differenz AB größer oder kleiner als die Differenz BC oder dieser gleich ist, wenn A, B und C Intensitäten, Qualitäten, Ausdehnungen oder Zeitlängen sind. Solche Urteile schrumpfen nach Borings Worten zu dem entscheidenden Urteil «gleich oder nicht verschieden» . \nDie bei einem solchen Ansatz notwendige Axiomatik ist für jede Art von Skalierung, die als Messung gelten möchte, verbindlich; auch für die ‘Testsʼ, mit denen man Begabung, Intelligenz, Geschicklichkeit usw. im strengen Sinne des Wortes ‘messenʼ will. Dieser Forschungszweig beginnt 1835 mit A. QUETELETS Anwendung der Idee der Normal Verteilung auf Persönlichkeitszüge . Sein Werk regt F. GALTON zu seinen Untersuchungen über Hochbegabte 1869 und 1883 zu seinen allgemeinen Fähigkeitsuntersuchungen an . J. MCKEEN CATTELL, der 1886 seine «psychometrischen Untersuchungen» über Reaktionszeit, Unterscheidungszeit – dies im Anschluß an de JAAGERS (von J. BRO2EK zu den Ursprüngen der P. gezählte) Dissertation –, Wahlzeit, Einfluß von Aufmerksamkeit sowie Ermüdung und Übung auf die Dauer psychischer Prozesse, schließlich über die Assoziation unter willkürlich begrenzten Bedingungen veröffentlicht , bezieht sich in diesen Beiträgen, die nicht nur allgemeinpsychologischen Fragen gelten, sondern in denen auch auf individuelle Unterschiede abgehoben wird, auf Galton. Später wendet er sich betont der Messung durch Tests zu und kreiert den Begriff «mental test» . \n1935 wird die ‹Psychometric Society› gegründet und der ‹American Psychological Association› affiliert. Sie gibt die Zeitschrift ‹Psychometrika› heraus, deren erstes Heft 1936 erscheint. In dieser werden quantitative Verfahren für alle Arten psychologischer Fragen entwickelt und auf solche angewandt . Gleichzeitig erscheint J. P. GUILFORDS Buch ‹Psychometric methods› . Im Vorwort betont Guilford u.a., er habe hier versucht, Schritte auf die Vereinheitlichung von Theorie, Messung und statistischem Verfahren hin zu tun, jede psychologische Messung auf allgemeine Meßlogik zu gründen sowie die logische Grundlegung psychophysischer Begriffe und Methoden und die logischen Probleme psychologischer Tests zu behandeln; damit steckt er den Bereich ab, der heute als Gebiet der P. verstanden wird . \nDer Vollständigkeit wegen sei erwähnt, daß von P. noch in einem gänzlich anderen Sinne gesprochen wird: «Mit dem sehr unpassenden Wort ‹P.› – denn ‘gemessenʼ wird hier gar nicht, und erst recht nicht die ‘Seeleʼ – pflegt man den sichergestellten, obschon völlig unverstandenen, Sachverhalt zu bezeichnen, daß ein Sensitiver, der irgendeinen Gegenstand in der Hand hält oder auch nur sieht, paranormale richtige Aussagen über das vergangene Erleben des Besitzers dieses Gegenstands macht. Es handelt sich also um ein Gedankenlesen in die Vergangenheit hinein» .",
+ "n":"CH. WOLFF: Psychologia empirica. Ges. Werke II/5, 403; vgl. A. MÉTRAUX: An essay on the early beginnings of psychometry, in: G. ECKARDT/L. SPRUNG: Advances in Historiography of Psychology 1983. \nI. KANT: Metaph. Anfangsgr. der Naturwiss.en (1786). Akad.-A. 4, 471. \nJ. F. HERBART: Psychol. als Wiss. neu gegr. auf Erfahrung, Met. und Math. 1. 2 (1824/25). \nG. TH. FECHNER: Zend-Avesta 2 (1851) 373ff.; Elemente der Psychophysik 1. 2 (1860). \nE. H. WEBER: Der Tastsinn und das Gemeingefühl, in: R. WAGNERS Hwb. der Physiol. 3 (1846) 559. \nW. WITTE: Art. ‹Psychophysik›. \nF. M. URBAN: Die psychophys. Maßmethoden als Grundlage empir. Messungen. Arch. ges. Psychol. 15 (1909) 329f. \nE. G. BORING: A hist. of experim. psychol. (21950) 291. \nJ. PFANZAGL: Die axiometrischen Grundlagen einer allgemeinen Theorie des Messens (1962) 30ff. \nA. QUETELET: Sur l'homme et le développement de ses facultés. Essai de physique soc. (Paris 1835). \nF. GALTON: Hereditary genius (London 1869); Inquiries into human faculty and its development (London 1883). \nJ. BROŽEK (Hg.): Origins of psychometry: J. J. de Jaager, student of F. C. Donders, on reaction time and mental processes (1865) (Nieuwkoop 1970). \nJ. MCKEEN CATTELL: Psychometr. Untersuchungen, in: W. WUNDT: Philos. Stud. 3 (1886) 305–335. 452–496. \nMental tests and measurements. Mind 15 (1890) 272–281. \nVgl. J. W. DUNLAP: Psychometry – A special case of the Brahman theory. Psychometrika 26 (1961) 65–71. \nJ. P. GUILFORD: Psychometric methods (1936). \nVgl. G. REXILIUS/S. GRUBITZSCH: Hb. psycholog. Grundbegriffe (1981) 853ff. \nH. DRIESCH: Die wissenschaftl. Parapsychol. der Gegenwart (1936), in: H. BENDER (Hg.): Parapsychol. (1966) 98.",
+ "l":"J. PETERSON: Early conceptions and tests of intelligence (1926, ND Westport 1969). – E. G. BORING: The beginning and growth of measurement in psychol., in: H. WOOLF (Hg.): Quantification (New York 1961) 108–127. – H. GRÜNWALD: Die soz. Ursprünge psycholog. Diagnostik (1980). – K. DANZIGER: Statist. method and the hist. development of research practice in Amer. psychol. [Kongreßbericht über die Cheiron-Tagung 1983 in Heidelberg] 58–70.",
+ "au":"W. Witte",
+ "A":["W. Witte"],
+ "cb":[
+  [0,1678],
+  [44,1679],
+  [500,1679],
+  [1004,1679],
+  [2171,1679],
+  [2516,1679],
+  [3189,1679],
+  [3804,1680],
+  [4355,1680],
+  [5153,1680],
+  [5713,1681]
+ ],
+ "cn":[
+  [0,1678],
+  [0,1680],
+  [195,1680],
+  [266,1680],
+  [357,1680],
+  [442,1680],
+  [538,1680],
+  [570,1680],
+  [680,1680],
+  [737,1680],
+  [832,1680],
+  [932,1680],
+  [1041,1680],
+  [1189,1680],
+  [1292,1680],
+  [1348,1680],
+  [1451,1680],
+  [1497,1680],
+  [1573,1680],
+  [1631,1681]
+ ],
+ "cl":[[0,1681]]
+}
+);

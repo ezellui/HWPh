@@ -1,0 +1,57 @@
+HWPH.put("a/2957",
+{
+ "id":2957,
+ "lemma":"Soziographie",
+ "band":"9",
+ "kind":"article",
+ "col_from":1266,
+ "col_to":1267,
+ "pdf_from":38649,
+ "pdf_to":38652,
+ "authors":["E. Pankoke"],
+ "n_notes":10,
+ "n_chars":3848,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Soziographie. Der Begriff ‹S.› wurde als methodisches Programm sozialwissenschaftlicher Forschung eingeführt durch den niederländischen Ethnologen S. R. STEINMETZ, der in Anlehnung an die empirische Geographie und Ethnographie eine «beschreibende Soziologie» forderte <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In Deutschland wurde dieses Konzept aufgegriffen von F. TÖNNIES, der damit in seiner Systematik neben der «reinen oder theoretischen Soziologie» den systematischen Ort von «empirischer Soziologie» markierte <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Der Anspruch auf eine empirische Gesellschaftsanalyse unter besonderer Berücksichtigung der sozialräumlichen Dimension von Land und Leuten weist in der Geschichte und Vorgeschichte der Soziologie zurück auf die frühneuzeitliche «Apodemik» <sup class=\"fn\" data-fn=\"0-3\">3</sup> als Kunst der (Reise-)Beschreibung von Land und Leuten, sowie die Methodiken von politischer Arithmetik <sup class=\"fn\" data-fn=\"0-4\">4</sup> und demographischer Analyse <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Auf die Rückbindung sozialpolitischer Gestaltung an sozialwissenschaftliche Beobachtung setzten im 19. Jh. unter dem Problemdruck «sozialer Fragen» auch die ‹Statistischen Gesellschaften› und die ‹Enqueten› des ‹Vereins für Sozialpolitik› <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Als Methodenproblem sozialwissenschaftlicher Feldforschung wurde schon früh bewußt, daß die Objektivität des Feldes immer auch subjektiv konstruiert wird, durch forschendes Erwandern <sup class=\"fn\" data-fn=\"0-7\">7</sup> und teilnehmende Beobachtung <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Richtungweisend für eine beschreibende Soziologie industrieller und urbaner Lebensräume wurde die ‹Chicagoer Schule› der empirischen Stadtsoziologie, welche die moderne Großstadt als «soziales Laboratorium» entdeckte <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Das wissenschaftliche Interesse an der soziographischen Analyse sozialer Räume fand seinen Ort nicht zufällig im Kontext der raumplanerischen Praxis der Niederlande. Hier versteht sich eine «Sociografische Werkgemeinschaft» selbstbewußt als Politikberatung im Planungsprozeß. Ein dazu entwickeltes Instrumentarium ist der ‹Sozialatlas›. Dies verweist auf den Verwendungszusammenhang moderner S. in Raumordnung, Stadt- und Regionalplanung <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Allerdings findet der Begriff ‹S.› selbst heute weniger Verwendung. Neuere Ablösungsbegriffe sind neben ‹empirischer Sozialforschung›, die ‹Stadt- und Regionalsoziologie›, die ‹Raumforschung›, ‹Sozialraumanalyse› oder ‹Sozialökologie›.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">S. R. STEINMETZ: Die Stellung der S. in der Reihe der Geisteswiss.en. Arch. Rechts- Wirtschaftssoziol. 6 (1912/13) 492–501, zit. 493; ein früherer Beleg findet sich bei: B. SEEBOHM ROWNTREE: Land and labor. Less. from Belgium (London 1911). <span class=\"col\" data-col=\"1267\"></span></li>\n<li id=\"fn0-2\" value=\"2\">F. TÖNNIES: Statistik und S. Allg. Statist. Arch. 18 (1929) 547–558; vgl. dazu: R. HEBERLE: Art. ‹S.›, in: A. VIERKANDT (Hg.): Handwb. der Soziol. (1931) 564–568.</li>\n<li id=\"fn0-3\" value=\"3\">A. MEIER/H. RANTZAU: Methodus apodemica seu peregrinandi, perlustrandique regiones, urbes et arces ratio (1588); vgl. dazu: M. RASSEN/J. STAGL (Hg.): Statistik und Staatsbeschreibung in der Neuzeit (1980).</li>\n<li id=\"fn0-4\" value=\"4\">W. PETTY: Polit. arithmetik or a disc. conc. the end and the value of lands, people, buildings ... as the same relates to every country in gen. but particulary to the territories of his Majesty in Great Britain, and his neighbours ... (London 1690); The polit. anatomie of Ireland (London 1691).</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. J. P. SÜSSMILCH: Die göttl. Ordnung in den Veränderungen des menschl. Geschlechts aus der Geburt, Tod und Fortpflantzung desselben (1741).</li>\n<li id=\"fn0-6\" value=\"6\">I. GORGES: Sozialforsch. in Dtschl. 1872–1914. Gesellschaftl. Einflüsse auf Themen- und Methodenwahl des Vereins für Socialpolitik (1980).</li>\n<li id=\"fn0-7\" value=\"7\">W. H. RIEHL: Naturgesch. des Volkes als Grundl. einer dtsch. Social-Politik (1853).</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. P. LAZARDSFELD/M. JAHODA/H. ZEISEL: Die Arbeitslosen in Marienthal. Ein soziograph. Versuch über die Wirkungen langandauernder Arbeitslosigkeit (1933).</li>\n<li id=\"fn0-9\" value=\"9\">R. E. PARK/E. W. BURGESS/R. D. MCKENZIE (Hg.): The city (Chicago 1925).</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. H. de VRIES REILINGH: Art. ‹S.›, in: R. KÖNIG (Hg.): Hb. der empir. Sozialforsch. 4: Komplexe Forschungsansätze (<sup>3</sup>1974) 142–161.</li>\n</ol>",
+ "prev":{"id":2956,"lemma":"Soziobiologie","band":"9","col":1263},
+ "next":{"id":2958,"lemma":"Soziokratie","band":"9","col":1267},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Apodemik","qualifier":"","band":"9","col":"1266"},
+  {"term":"Laboratorium, soziales","qualifier":"","band":"9","col":"1266"},
+  {"term":"Soziologie, empirische","qualifier":"","band":"9","col":"1266"}
+ ],
+ "persons":[
+  {"id":378,"name":"F. Tönnies","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7960,"name":"S. R. Steinmetz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":103,"name":"G. F. Meier","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":730,"name":"R. König","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":696,"name":"A. Vierkandt","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1057,"name":"W. H. Riehl","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2697,"name":"J. P. Süssmilch","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3080,"name":"W. Petty","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4223,"name":"J. Stagl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4837,"name":"E. W. Burgess","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9137,"name":"R. Heberle","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8494,"name":"R. E. Park","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12109,"name":"R. D. Mckenzie","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14907,"name":"H. Rantzau","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":17730,"name":"I. Gorges","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6018,"name":"M. Jahoda","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":29457,"name":"B. Seebohm Rowntree","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":29458,"name":"M. Rassen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":29459,"name":"P. Lazardsfeld","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":29460,"name":"H. Zeisel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":29461,"name":"H. de Vries Reilingh","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2960,"lemma":"Soziologie","tf":5},
+  {"id":2195,"lemma":"Observatio, Beobachtung","tf":2},
+  {"id":125,"lemma":"Analyse","tf":2}
+ ],
+ "see_also":[{"id":2960,"lemma":"Soziologie"}],
+ "groups":[{"id":42,"name":"Soziologie","label":"Soziographie"}],
+ "reg_authors":[{"name":"Pankoke Eckart","n":7}]
+}
+);

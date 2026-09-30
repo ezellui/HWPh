@@ -1,0 +1,57 @@
+HWPH.put("a/1485",
+{
+ "id":1485,
+ "lemma":"Introjektion",
+ "band":"4",
+ "kind":"article",
+ "col_from":521,
+ "col_to":522,
+ "pdf_from":13012,
+ "pdf_to":13015,
+ "authors":["W. Loch"],
+ "n_notes":14,
+ "n_chars":3907,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Introjektion wurde von S. <span class=\"col\" data-col=\"522\"></span> FREUD gelegentlich synonym mit ‹Identifikation› benutzt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Zuweilen werden im psychoanalytischen Schrifttum die Termini ‹Identifikation›, ‹Inkorporation› und ‹Assimilation› benutzt, um den Sachverhalt der I. zu beschreiben <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Ursprünglich verstand S. FERENCZI, der Schöpfer des Begriffs, unter I. eine Hereinnahme von «möglichst großen Teilen der Außenwelt in das Ich», wodurch eine «Ich-Ausweitung» resultiert. I. ist demgemäß «jede Übertragung auf ein Objekt, also jede Objekt-Liebe» <sup class=\"fn\" data-fn=\"0-3\">3</sup>, die besonders intensiv bei Neurotikern in Funktion tritt <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die Hereinnahme in das Ich bezeichnet P. FEDERN als «Verichung» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. S. E. FUCHS <sup class=\"fn\" data-fn=\"0-6\">6</sup> und R. P. KNIGHT <sup class=\"fn\" data-fn=\"0-7\">7</sup> benutzen ‹I.› zur Kennzeichnung von Es-Impulsen, vorwiegend der oralen Gruppe. Eine besonders große Rolle kommt dem Begriff in der sogenannten «Objektbeziehungspsychologie» (M. KLEIN, W. R. D. FAIRBAIRN u.a.) zu. Hier spielt die I. «guter» und «schlechter» Objekte, die in frühesten Säuglingsphasen einsetzt und zum Aufbau einer intrapsychischen Objektwelt führt, eine große Rolle <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die Externalisierung introjizierter Objekte (genauer der zwischen den Objekten bestehenden Beziehungsverhältnisse) führt zur Projektion. «Projektive Identifikation» liegt dann vor, wenn Teile des Selbstes in äußere belebte oder auch unbelebte Objekte übertragen werden <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Derselbe Vorgang wird auch «kernhafte Projektion» genannt, während umgekehrt von «kernhafter I.» (oder «introjektiver Identifikation») gesprochen wird, wenn durch Übernahme von Verhaltensmerkmalen einer als Modell dienenden Bezugsperson eine Abänderung des Selbst-Schemas zustande kommt <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Ein wesentliches Moment der I. besteht darin, daß ihr Produkt, das Introjekt, «die Macht bekommen ... muß, das Ich zu befriedigen und ihm als ausreichender Ersatz für die [in der äußeren Realität aufgegebenen] Objekte gilt» <sup class=\"fn\" data-fn=\"0-11\">11</sup>, so daß z.B. «das Kind in Abwesenheit der Eltern so reagiert, als wären sie anwesend» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Es ist andererseits vorgeschlagen worden, I. als früheste «neurophysiologische Form» eines «allgemein[en] assimilatorischen Prozesses, der das Selbst mit den äußeren Objekten verbindet», zu definieren <sup class=\"fn\" data-fn=\"0-13\">13</sup>. In I. WENDRICKS Begriffsanalyse wird I. der Prozeßcharakter abgesprochen, sie ist lediglich als <i>Wunsch</i> nach Vereinnahmung zu verstehen; Identifikation dagegen meint einen Prozeß, dem jedoch die orale Komponente fehlt <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">D. WYSS: Die tiefenpsychol. Schulen von den Anfängen bis zur Gegenwart (1966).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">S. FREUD: Massenpsychol. und Ich-Analyse (1921). Werke 13, 118. 120. 125.</li>\n<li id=\"fn0-2\" value=\"2\">A. BALINT: Identification. Int. J. Psychoanal. 24 (1943) 97–107.</li>\n<li id=\"fn0-3\" value=\"3\">S. FERENCZI: I. und Übertragung (1910); Zur Begriffsbestimmung der I. (1912), beides in: Bausteine zur Psychoanalyse (1964) 1, 19. 59.</li>\n<li id=\"fn0-4\" value=\"4\">a.a.O. (1910) 10–12.</li>\n<li id=\"fn0-5\" value=\"5\">E. WEISS: The structure and dynamic of the human mind (New York/London 1960) 76.</li>\n<li id=\"fn0-6\" value=\"6\">S. E. FUCHS: On I. Int. J. Psychoanal. 18 (1937); Über I. Imago 23 (1937) 420–446.</li>\n<li id=\"fn0-7\" value=\"7\">R. P. KNIGHT: I., projection and identification. Psychoanal. Quart. 9 (1940).</li>\n<li id=\"fn0-8\" value=\"8\">M. KLEIN: Die Psychoanalyse des Kindes (1932) 153; P. HEIMANN: Certain functions of I. and projection, in: Developments in psycho-analysis, hg. M. KLEIN u.a. (London 1952) 122ff.; W. R. D. FAIRBAIRN: Endopsychic structure considered in terms of object-relationships. Int. J. Psychoanal. 25 (1944).</li>\n<li id=\"fn0-9\" value=\"9\">M. KLEIN: Notes on some schizoid mechanisms, in: Developments ... a.a.O. [8] 300; H. SEGAL: Introduction to the work of Melanie Klein (London 1964) 14ff.</li>\n<li id=\"fn0-10\" value=\"10\">J. O. WISDOM: Ein methodol. Versuch zum Hysterieproblem. Psyche 15 (1961/62) 575ff., bes. 576.</li>\n<li id=\"fn0-11\" value=\"11\">J. SANDLER: On the concept of the superego. Psychoanal. Stud. Child 15 (1960) 153/54.</li>\n<li id=\"fn0-12\" value=\"12\">J. J. SANDLER und B. ROSENBLATT: The concept of the representational world. Psychoanal. Stud. Child 17 (1962) 138.</li>\n<li id=\"fn0-13\" value=\"13\">V. P. MAHONY: I., identification and incorporation. Int. J. Psychoanal. 45 (1964) 57.</li>\n<li id=\"fn0-14\" value=\"14\">J. WENDRICK: Early development of the ego: Identification in infancy. Psychoanal. Quart. 20 (1951) 1.</li>\n</ol>",
+ "prev":{"id":1484,"lemma":"Intersubjektivität","band":"4","col":521},
+ "next":{"id":1486,"lemma":"Introspektion","band":"4","col":522},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Assimilation","qualifier":"","band":"4","col":"521"},
+  {"term":"Ich-Ausweitung","qualifier":"","band":"4","col":"521"},
+  {"term":"Identifikation, projektive","qualifier":"","band":"4","col":"522"},
+  {"term":"Inkorporation","qualifier":"","band":null,"col":null},
+  {"term":"Objekte, introjizierte","qualifier":"","band":"4","col":"522"},
+  {"term":"Verichung","qualifier":"","band":"4","col":"521"}
+ ],
+ "persons":[
+  {"id":274,"name":"M. Klein","b":1,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":539,"name":"E. Fuchs","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1803,"name":"S. Ferenczi","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2644,"name":"F. H. Knight","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3522,"name":"W. R. D. Fairbairn","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4147,"name":"J. Sandler","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":275,"name":"P. Weiss","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3285,"name":"H. Segal","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3353,"name":"P. Federn","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3284,"name":"M. Balint","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4444,"name":"P. Heimann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6637,"name":"J. O. Wisdom","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13790,"name":"F. Rosenblatt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14618,"name":"V. P. Mahony","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21964,"name":"I. Wendricks","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21965,"name":"J. Wendrick","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1572,"name":"D. Wyss","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2183,"lemma":"Objekt","tf":7},
+  {"id":2475,"lemma":"Projektion","tf":2},
+  {"id":2820,"lemma":"Selbst","tf":2}
+ ],
+ "see_also":[{"id":1365,"lemma":"Identifikation"},{"id":2475,"lemma":"Projektion"}],
+ "groups":[{"id":35,"name":"Psychoanalyse","label":"Introjektion"}],
+ "reg_authors":[{"name":"Loch Wolfgang","n":12}]
+}
+);

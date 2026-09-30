@@ -1,0 +1,37 @@
+HWPH.put("a/1224",
+{
+ "id":1224,
+ "lemma":"Haptisch/optisch",
+ "band":"3",
+ "kind":"article",
+ "col_from":999,
+ "col_to":999,
+ "pdf_from":10481,
+ "pdf_to":10482,
+ "authors":["W. Witte"],
+ "n_notes":8,
+ "n_chars":1880,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Haptisch/optisch. Schon ARISTOTELES sprach in Περὶ ζῴων μορίων (De part. anim.; Über die Teile der Tiere) von ἁπτικός. Den Gegensatz von Haptisch und Optisch hat A. RIEGL 1893 in die Kunstwissenschaft eingeführt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Damals sprach er freilich noch von ‹taktisch›, erst 1902 ersetzte er diesen Terminus durch ‹haptisch› <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Er suchte zu zeigen, daß vorwiegend das Tasten, nicht das Sehen zu Formeindrücken führt. Der Ausdruck ‹haptisch› wurde danach gelegentlich auch im psychologischen Schrifttum benutzt, besonders ausgiebig von W. STEINBERG in einer Veröffentlichung aus dem Jahre 1920 <sup class=\"fn\" data-fn=\"0-3\">3</sup>. H. FRIEDMANN versuchte 1925 darzutun, daß Formerlebnisse vorwiegend optogen seien. Dagegen sei die Ideogonie der Mechanik und der mechanistischen Weltanschauungen haptischer Natur im Sinne Riegls (d.h. mit starker kinästhetischer Komponente) <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Seitdem wurden in der Psychologie taktil-kinästhetische Wahrnehmungen häufiger, aber trotzdem noch selten, als «haptische Leistungen», besonders in Abhebung von optischen, bezeichnet, vor allem von W. BLUMENFELD <sup class=\"fn\" data-fn=\"0-5\">5</sup>, G. RÉVÉSZ <sup class=\"fn\" data-fn=\"0-6\">6</sup>, E. RUBIN <sup class=\"fn\" data-fn=\"0-7\">7</sup> und E. VON SKRAMLIK <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">W. WITTE: Somästhesie und haptische Wahrnehmung. Stud. gen. 17 (1964) 596–608; Haptik, in: Hb. der Psychol. 1/1 (1966) 498–517.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">A. RIEGL; Stilfragen. Grundlegungen zu einer Gesch. der Ornamentik (1893).</li>\n<li id=\"fn0-2\" value=\"2\">Beilage zur Allg. Ztg. (Berlin 1902) 155.</li>\n<li id=\"fn0-3\" value=\"3\">W. STEINBERG: Die Raumwahrnehmung der Blinden (1920).</li>\n<li id=\"fn0-4\" value=\"4\">H. FRIEDMANN: Die Welt der Formen (1925).</li>\n<li id=\"fn0-5\" value=\"5\">W. BLUMENFELD: The relationship between the optical and haptic construction of space. Acta psychol. 2 (1936) 125–174.</li>\n<li id=\"fn0-6\" value=\"6\">G. RÉVÉSZ: System der optischen und haptischen Raumtäuschungen. Z. Psychol. 131 (1934) 296–375; Die Formenwelt des Tastsinnes 1: Grundlegung der Haptik und der Blindenpsychol. (Haag 1938).</li>\n<li id=\"fn0-7\" value=\"7\">E. RUBIN: Haptische Untersuch. Acta psychol. 1 (1936) 285–380.</li>\n<li id=\"fn0-8\" value=\"8\">E. VON SKRAMLIK: Psychol. der Tastsinne. Arch. ges. Psychol. Erg.bd. 4 (1937).</li>\n</ol>",
+ "prev":{"id":1223,"lemma":"Handlungskette","band":"3","col":998},
+ "next":{"id":1225,"lemma":"Häresie","band":"3","col":999},
+ "backlinks":[{"id":2802,"lemma":"Sehen","n":1},{"id":2892,"lemma":"Sinne, die","n":1}],
+ "outlinks":[],
+ "register":[{"term":"optisch/haptisch","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":1625,"name":"A. Riegl","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2358,"name":"H. Friedmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5067,"name":"W. Steinberg","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4974,"name":"E. Rubin","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5554,"name":"G. Révész","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5730,"name":"W. Blumenfeld","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":14472,"name":"E. von Skramlik","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1699,"name":"W. Witte","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Haptisch/optisch"}],
+ "reg_authors":[{"name":"Witte Wilhelm","n":15}]
+}
+);

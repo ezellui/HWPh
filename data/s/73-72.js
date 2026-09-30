@@ -1,0 +1,27 @@
+HWPH.put("s/73-72",
+{
+ "sr":"qa:0,0,0,1 1l1:0,0,1",
+ "sraddha":"229:0,1",
+ "sraffa":"1fy:0,1,1 14:0,0,1 fj:0,1,1 1x:0,0,1 gm:0,0,1 bd:0,1,1 19:0,0,1",
+ "srauta":"2ls:0,1",
+ "sravakabhumi":"244:0,0,1",
+ "sravnitel":"18c:0,1",
+ "srawley":"2dr:0,0,1",
+ "srbik":"bi:0,0,0,1 in:0,0,0,1 7o:0,0,1",
+ "srechte":"1se:0,1",
+ "srednevekovoj":"2cj:0,0,1",
+ "srednich":"28v:0,0,0,1",
+ "sredniowiecznej":"55:0,0,0,1 139:0,0,1 5n:0,0,0,1",
+ "sreznevskij":"1f8:0,0,1 tp:0,0,1 h0:0,0,1",
+ "sri":"2eu:0,1,1",
+ "sribhaschya":"1e:0,0,1 b7:0,0,1",
+ "sridhara":"2ln:0,0,1",
+ "sridharas":"2ln:0,1",
+ "sriharsas":"1oj:0,1",
+ "srikantha":"1td:0,0,1",
+ "srinivasacaryas":"1oj:0,1",
+ "srr":"2nk:0,0,1",
+ "srubar":"1t7:0,0,1",
+ "srutri":"229:0,1"
+}
+);

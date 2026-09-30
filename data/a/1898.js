@@ -1,0 +1,77 @@
+HWPH.put("a/1898",
+{
+ "id":1898,
+ "lemma":"Mathesis universalis",
+ "band":"5",
+ "kind":"article",
+ "col_from":937,
+ "col_to":938,
+ "pdf_from":18845,
+ "pdf_to":18849,
+ "authors":["R. Kauppi"],
+ "n_notes":13,
+ "n_chars":5601,
+ "toc":[["h6","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Mathesis universalis. Am Anfang des 16. Jh. hat man die Einheit der Mathematik von zwei Betrachtungsweisen her zu bestimmen versucht. Die verschiedenen mathematischen Disziplinen wurden als Wissenschaften der Quantität verschiedener Art in einer <i>M. universa</i> zusammengefaßt. Im Rahmen dieser Gesamtheit entwickelte sich die Idee einer allgemeinen mathematischen Wissenschaft von der Natur, von den allgemeinen Eigenschaften und den Prinzipien der Quantität. Dieser M.u. wären die anderen mathematischen Disziplinen untergeordnet. Diese Entwicklung wird angeregt durch das Studium der ‹Analytica posteriora› des ARISTOTELES, des EUKLID, besonders des 5. Buches der ‹Elementa›, und des Kommentars von PROKLOS zum 1. Buch Euklids.</p>\n<p>ALESSANDRO PICCOLOMINI spricht über eine mathematische «scientia communis» <sup class=\"fn\" data-fn=\"0-1\">1</sup> und bezeichnet als ihren Gegenstand das «quantum phantasiatum». Von PETRUS RAMUS wird die Logik, die «omnium artium et omnium rerum communis» ist, auch als «communis mathematica», als die von Proklos gemeinte gemeinsame mathematische Wissenschaft betrachtet <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Eine «universalis disciplina mathematica» wird von CONRADUS DASYPODIUS studiert und mit der Metaphysik in Zusammenhang gebracht <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Eine entsprechende Wissenschaft <span class=\"col\" data-col=\"938\"></span> kommt in der Einteilung der Philosophie bei BENEDICTUS PERERIUS vor <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Der Terminus ‹M.u.› wird zum ersten Mal von ADRIANUS ROMANUS in seiner ‹Apologia pro Archimede› (1597) <sup class=\"fn\" data-fn=\"0-5\">5</sup> benutzt. Die so bezeichnete Wissenschaft bezieht sich auf die allen (abstrakten oder konkreten) Quantitäten gemeinsamen Affektionen und umfaßt besonders die Lehre der Relationen und Proportionen. Sie wird auch «prima mathematica» und «prima M.» genannt. In einer späteren Einteilung der Mathematik wird die «mathematica universalis», die sich auf alle Quantität bezieht und den ersten Teil der reinen oder intelligiblen Mathematik ausmacht, in zwei Teile eingeteilt: Die «logistica» oder «arithmetica practica universalis» ist ein Organon der Wissenschaft, während die <i>prima M.</i> die Wissenschaft von der Quantität absolut genommen ist <sup class=\"fn\" data-fn=\"0-6\">6</sup>. J. H. ALSTED betrachtet die «M. generalis, alias universalis», als eine Wissenschaft über Quantität im allgemeinen, mit zwei Teilen, von welchen die «archelogia» die principia essendi und die principia cognoscendi der Quantität untersucht, während die «pathologia» die Affektionen der Quantität behandelt <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>DESCARTES benutzt in seinen ‹Regulae› den Ausdruck ‹M.u.› als Bezeichnung für die als Ideal aufgestellte allgemeine Mathematik, die sich auf die Ordnung und auf das Maß bezieht, unabhängig von der besonderen Materie, auf welche diese angewendet werden, wie etwa Zahlen, Figuren, Sterne und Töne <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Demgemäß bilden zunächst die Relationen und die Proportionen das Objekt dieser Wissenschaft, die mit der nach dem Ideal der Mathematik entworfenen neuen Methode in naher Verbindung steht.</p>\n<p>LEIBNIZ sieht anfänglich in der Kombinatorik die allgemeine mathematische Disziplin, welche die Grundlage aller Wissenschaften bildet. Später wird ‹M.u.› von ihm als Bezeichnung für die Anwendung der Logik auf die Gegenstände der Mathematik (logica mathematicorum) benutzt. Diese ist auch eine Kunst des Erfindens und des Beweisens in bezug auf die Größen (ars inveniendi et judicandi circa quantitates) oder eine «logica imaginationis», da die Gegenstände der Mathematik zum Bereich der Anschauung gezählt wurden. Die imaginatio bezieht sich aber sowohl auf die Quantität als auf die Qualität, diese gehört darum auch zum Gegenstand der M.u. <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Die Grenze zwischen der M.u. und der von Leibniz geplanten und entworfenen neuen kalkulatorischen Logik war aber schwer zu bestimmen, und die Logik, als eine Wissenschaft aller aufgrundder Form allein gültigen Schlußweisen, wird von ihm mit der «mathématique universelle» identifiziert <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Die Idee der M.u. bei CHR. WOLFF entspricht seiner Auffassung von der Identität der Methoden der Philosophie und der Mathematik und von der allgemeinen Anwendbarkeit der Mathematik auf Quantitäten und Qualitäten <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Der Terminus ‹M.u.› wird später von E. HUSSERL in Anlehnung an Leibniz für die reine formale Logik benutzt <sup class=\"fn\" data-fn=\"0-12\">12</sup> und ähnlich von H. SCHOLZ für die mathematische Logik, die, ontologisch interpretiert, für ihn die Grundlage einer exakten Philosophie ist <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">G. CRAPULLI s. Anm. [3]. – H. W. ARNDT: Methodo scientifica pertractatum. Mos geometricus und Kalkülbegriff in der philos. Theorienbildung des 17. und 18. Jh. (1971). – J. MITTELSTRASS: Die Idee einer M.u. bei Descartes, in: Perspektiven der Philos. Neues Jb. 4 (1978) 177–192; The philosopher's conception of M.u. from Descartes to Leibniz. Ann. of Sci. 36 (1979) 593–610.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"938\"></span> A. PICCOLOMINI: Comm. de certitudine mathematicarum (1547).</li>\n<li id=\"fn0-2\" value=\"2\">P. RAMUS: Scholae math. 4–5 (1569).</li>\n<li id=\"fn0-3\" value=\"3\">C. DASYPODIUS: Vol. II math. (1570); Protheoria math. (1593); beide Texte in: G. CRAPULLI: M.u. Genesi di un'idea nel XVI secolo, in: Lessico intellettuale europeo 2 (1969).</li>\n<li id=\"fn0-4\" value=\"4\">B. PERERIUS: De communibus rerum naturalium principiis (1576).</li>\n<li id=\"fn0-5\" value=\"5\">A. ROMANUS: Archimedis Circuli dimensionem explicatio ... II, 6–8 (1597), in: CRAPULLI, a.O. [3].</li>\n<li id=\"fn0-6\" value=\"6\">Universae mathesis idea 2–4 (1602).</li>\n<li id=\"fn0-7\" value=\"7\">J. H. ALSTED: Methodus admirandorum mathematicorum I (1613), in: CRAPULLI, a.O. [3].</li>\n<li id=\"fn0-8\" value=\"8\">R. DESCARTES, Reg. IV. Oeuvres, hg. ADAM/TANNERY 10, 377f.</li>\n<li id=\"fn0-9\" value=\"9\">G. W. LEIBNIZ, Opuscules et frg., hg. L. COUTURAT (1903) 348.</li>\n<li id=\"fn0-10\" value=\"10\">Nouveaux essais IV, 17, § 8.</li>\n<li id=\"fn0-11\" value=\"11\">CHR. WOLFF: Philos. prima sive Ontol. (1730) § 755, hg. J. ECOLE (1961).</li>\n<li id=\"fn0-12\" value=\"12\">E. HUSSERL: Log. Untersuch. I, § 60 (1900). Husserliana 18 (Den Haag 1975); Formale und transzendentale Logik I, § 23 (1913). Husserliana 17 (Den Haag 1974).</li>\n<li id=\"fn0-13\" value=\"13\">H. SCHOLZ: M.u. Abh. zur Philos. als strenger Wiss. (1961).</li>\n</ol>",
+ "prev":{"id":1897,"lemma":"Mathematik, positive","band":"5","col":935},
+ "next":{"id":1899,"lemma":"Matrix","band":"5","col":939},
+ "backlinks":[
+  {"id":552,"lemma":"Denken","n":1},
+  {"id":1803,"lemma":"Logik","n":1},
+  {"id":2624,"lemma":"Reduktion","n":1},
+  {"id":2991,"lemma":"Sprachkritik","n":1},
+  {"id":3306,"lemma":"Universalsprache","n":1},
+  {"id":3635,"lemma":"Wissenschaft","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"logica imaginationis","qualifier":"","band":"5","col":"938"},
+  {"term":"Logik, mathematische","qualifier":"","band":"5","col":"938"},
+  {"term":"scientia communis","qualifier":"","band":"5","col":"937"}
+ ],
+ "persons":[
+  {"id":5563,"name":"G. Crapulli","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":15,"name":"R. Descartes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":172,"name":"H. Scholz","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":393,"name":"J. H. Alsted","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":93,"name":"Proklos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":343,"name":"Euklid","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":528,"name":"P. Ramus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1235,"name":"Petrus Ramus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3307,"name":"B. Pererius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9193,"name":"A. Piccolomini","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14780,"name":"Alessandro Piccolomini","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":15484,"name":"C. Dasypodius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":23652,"name":"von Conradus Dasypodius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23653,"name":"Benedictus Pererius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23654,"name":"von Adrianus Romanus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23655,"name":"A. Romanus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":255,"name":"J. Mittelstrass","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":77,"name":"Ch. Adam","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":236,"name":"L. Couturat","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":447,"name":"J. Ecole","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":554,"name":"H. W. Arndt","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2552,"lemma":"Quantität","tf":10},
+  {"id":1896,"lemma":"Mathematik","tf":9},
+  {"id":54,"lemma":"Affektion, affizieren","tf":2},
+  {"id":2483,"lemma":"Proportion","tf":2},
+  {"id":2668,"lemma":"Relation","tf":2},
+  {"id":1339,"lemma":"Ideal","tf":2},
+  {"id":2544,"lemma":"Qualität","tf":2},
+  {"id":3639,"lemma":"Wissenschaften, schöne","tf":2}
+ ],
+ "see_also":[{"id":1820,"lemma":"Logistik"}],
+ "groups":[
+  {"id":22,"name":"Logik","label":"Mathesis universalis"},
+  {"id":24,"name":"Mathematik","label":"Mathesis universalis"}
+ ],
+ "reg_authors":[{"name":"Kauppi Raili","n":5}]
+}
+);

@@ -1,0 +1,75 @@
+HWPH.put("a/3263",
+{
+ "id":3263,
+ "lemma":"Überschwang",
+ "band":"11",
+ "kind":"article",
+ "col_from":56,
+ "col_to":58,
+ "pdf_from":44690,
+ "pdf_to":44696,
+ "authors":["J. Zachhuber"],
+ "n_notes":27,
+ "n_chars":6693,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Überschwang. Der Begriff ‹Ü.› ist durch die Mystiker des 13. <span class=\"col\" data-col=\"57\"></span> Jh. zum erstenmal philosophisch gebraucht worden. Es ist keine direkte Korrespondenz zu einem lateinischen oder griechischen Begriff erkennbar. Von Anfang an lassen sich zwei Hauptbedeutungen unterscheiden: ‹Ü›. kann 1) das «sich [über etwas] hinaus, hinauf, hinüber Schwingen» <sup class=\"fn\" data-fn=\"0-1\">1</sup> bedeuten. ‹Ü.› rückt so in die Nähe von ‹Ekstase› bzw. ‹Verzückung› und kann demzufolge lat. ‹exstasis› und ‹excessus› wiedergeben <sup class=\"fn\" data-fn=\"0-2\">2</sup>. In dieser Bedeutung verwendet J. TAULER «úber swank» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. ‹Ü.› kann 2) in der aus PS.-DIONYSIUS AREOPAGITA geschöpften Sprache die Überfülle der Gottheit bezeichnen. In dieser Bedeutung entspricht der Begriff den lateinischen Termini ‹[super]eminentia› <sup class=\"fn\" data-fn=\"0-4\">4</sup>, ‹excellentia› <sup class=\"fn\" data-fn=\"0-5\">5</sup> bzw. ‹[super]abundantia› <sup class=\"fn\" data-fn=\"0-6\">6</sup>. ‹Ü.› nähert sich hier der Bedeutung ‘Überflußʼ in der Metaphorik der <a class=\"xref\" href=\"#/a/714\">Emanation</a> <span class=\"sd\">→ (s.d.)</span>, ohne jedoch die Konnotation des Sich-Ergießens anzunehmen, so bei MEISTER ECKHART: «Wan denne got ein überswenkende wesen hât, dar umbe überswenket er allem bekantnisse ...» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Ein Versuch, die beiden Bedeutungen zu verbinden, findet sich bei G. ARNOLD <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Arnold versteht ‹überschwenglich› als Ausdruck der prinzipiellen Überlegenheit der Gottheit über alle denkbaren Prädikate; gleichzeitig verweist er auf die «teutsche Bibel», die den Begriff gebrauche, um ein «Auff- und Überschwingen in Gott» anzudeuten <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Im Hintergrundsteht wohl Phil. 3, 8 (τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ), von M. LUTHER mit «überschwengliche Erkenntnis Jesu Christi» übersetzt. Eine zentrale Bedeutung bekommt diese Bibelstelle für den Pietisten J. L. ZIMMERMANN. Für ihn charakterisiert ‹Die überschwengliche Erkenntniß Jesu Christi› (so der Titel einer vielfach aufgelegten Schrift von 1731) den «selige[n] Zustand eines Kindes Gottes im Genuß der Heils-Güter» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Hier wird einerseits an die mystische Tradition einer höchsten Stufe der «Vereinigung mit Gott» <sup class=\"fn\" data-fn=\"0-11\">11</sup> – für die gelegentlich der Ausdruck ‹contemplatio super-eminens› gebraucht wurde <sup class=\"fn\" data-fn=\"0-12\">12</sup> – angeknüpft, andererseits scheint auch ein Kontrast beabsichtigt zur natürlichen Gotteserkenntnis, von der Zimmermann in seiner 1729 erschienenen ‹Metaphysik› gehandelt hatte, so daß ‹überschwenglich› sich der Bedeutung von ‹übernatürlich› (‘durch Gnade gewährtʼ) annähert <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>Entscheidend für die weitere Begriffsgeschichte ist I. KANT. Kant verwendet – offenbar als erster – ‹überschwenglich› als regelmäßiges deutsches Äquivalent zu ‹transzendent› (nur an einer Stelle der KrV<sup>2</sup> wird statt dessen ‹überfliegend› eingeführt <sup class=\"fn\" data-fn=\"0-14\">14</sup>). Der primäre Kontext ist die Erkenntnistheorie. Der das menschliche Erkenntnisvermögen übersteigende spekulative Gebrauch der Ideen der reinen Vernunft ist für Kant ‹überschwenglich› <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Gleichzeitig gilt, daß die Bestimmung der Wirklichkeit der intelligiblen Welt, «die in theoretischer Hinsicht transcendent (überschwenglich) sein würde, ... in praktischer immanent ist» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. In seiner Ästhetik kennzeichnet Kant die Vorstellung des Erhabenen als ‹überschwenglich› für die Einbildungskraft <sup class=\"fn\" data-fn=\"0-17\">17</sup>.</p>\n<p>Die Verwendung von ‹überschwenglich› im Deutschen Idealismus ist weitgehend durch Kants Sprachgebrauch bestimmt <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Im Spätwerk F. W. J. SCHELLINGS allerdings ist das «überschwengliche Seyn» als «actus purus», «reines Seyn» ein Moment des Fortgangs «vom Seyenden zu dem Seyn» <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Auf diese Weise kommt der Gedanke der Fülle wieder stärker zur Geltung.</p>\n<p>Im Linkshegelianismus bekommt ‹überschwenglich› einen scharf polemischen Klang. L. FEUERBACH gebraucht den Begriff im Wechsel mit ‹übernatürlich› <sup class=\"fn\" data-fn=\"0-20\">20</sup>.</p>\n<p>Im 20. Jh. findet sich eine verwandte Terminologie zunächst bei M. HEIDEGGER. Das Dasein «gründet», «entwirft» Welt und in diesem Sich-transzendieren «überschwingt» es sich selbst <sup class=\"fn\" data-fn=\"0-21\">21</sup>. Da es gleichzeitig seiner Begrenztheit durch anderes Seiendes gewahr wird, korrespondiert dem «Überschwung» allerdings <span class=\"col\" data-col=\"58\"></span> immer ein Entzug; insofern ist diese Transzendenz «überschwingend-entziehend zumal» <sup class=\"fn\" data-fn=\"0-22\">22</sup>. Wie die mystische Tradition bringt Heidegger dieses Überschwingen in Verbindung mit dem Begriff der Ekstase <sup class=\"fn\" data-fn=\"0-23\">23</sup>.</p>\n<p>L. BINSWANGER knüpft explizit an Heidegger an, den er anthropologisch interpretiert <sup class=\"fn\" data-fn=\"0-24\">24</sup>. Im Anschluß an den Personalismus – vgl. M. SCHELERS Bemerkung, daß ein «Fort- und Hinausschwingen» «über die Leibzustände» zum Wesen der Person gehöre <sup class=\"fn\" data-fn=\"0-25\">25</sup> – argumentiert er allerdings, daß «der Ü. des Daseins in der Liebe» den Doppelcharakter der Heideggerschen Transzendenz überwinde und «rein überschwingend» <sup class=\"fn\" data-fn=\"0-26\">26</sup> sei. Von diesem «Überschwung» will er begrifflich noch einmal den Ü. unterscheiden, der «sowohl das Überschwingen selbst ... des Daseins als auch sein[en] Gehalt», nämlich die Daseinsfülle, zum Ausdruck bringe <sup class=\"fn\" data-fn=\"0-27\">27</sup>.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">J. ZACHHUBER: ‘Überschwenglichʼ. Ein Begriff der Mystikersprache bei I. Kant. Arch. Begriffsgesch. 42 (2000) 139–154.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"58\"></span> Art. ‹Überschwang›. GRIMM 11/III (1936) 527.</li>\n<li id=\"fn0-2\" value=\"2\">G. SCHUCH: Gersons myst. Theologie. Eine dtsch. Übers. aus dem 15. Jh. (1969) 182. 200.</li>\n<li id=\"fn0-3\" value=\"3\">J. TAULER: Pr. 38. Predigten, hg. F. VETTER (1910) 152, 35.</li>\n<li id=\"fn0-4\" value=\"4\">2. Kor. 9, 14; Eph. 1, 19.</li>\n<li id=\"fn0-5\" value=\"5\">L. DIEFENBACH: Gloss. lat.-german. mediae et infimae aetatis (1857, ND 1997) 214.</li>\n<li id=\"fn0-6\" value=\"6\">2. Kor. 10, 15; Eph. 3, 20.</li>\n<li id=\"fn0-7\" value=\"7\">MEISTER ECKHART: Pr. 3. Predigten, hg. J. QUINT (1958ff.) 1, 55, 11–12.</li>\n<li id=\"fn0-8\" value=\"8\">G. ARNOLD: Historie und Beschreibung der Myst. Theologie (1703, ND 1969) 83.</li>\n<li id=\"fn0-9\" value=\"9\">a.O.</li>\n<li id=\"fn0-10\" value=\"10\">J. L. ZIMMERMANN: Die überschwengl. Erkenntniß Jesu Christi als ein richtiger, wahrer und leichter Weg zu einer wahren und beständigen Kraft im Christenthum zu gelangen (1731) 87; zur Trad. der «via eminentiae» als einer Möglichkeit der Gotteserkenntnis vgl. Art. <a class=\"xref\" href=\"#/a/3460\">→ Via causalitatis; via negationis; via eminentiae</a>.</li>\n<li id=\"fn0-11\" value=\"11\">a.O. 21.</li>\n<li id=\"fn0-12\" value=\"12\">M. SANDAEUS: Pro theologia mystica clavis (1640) 156.</li>\n<li id=\"fn0-13\" value=\"13\">J. L. ZIMMERMANN: Natürl. Erkenntniß Gottes, der Welt und des Menschen, nebst andern dahin gehörigen Wahrheiten, welche die Grund-Sätze aller wahren Gelehrsamkeit, fürnemlich der Welt-Weißheit in sich enthalten (1729) bes. 387f. 685.</li>\n<li id=\"fn0-14\" value=\"14\">I. KANT: KrV B 671.</li>\n<li id=\"fn0-15\" value=\"15\">KU B 339 (§ 76).</li>\n<li id=\"fn0-16\" value=\"16\">KpV A 189.</li>\n<li id=\"fn0-17\" value=\"17\">KU 98 (§ 27).</li>\n<li id=\"fn0-18\" value=\"18\">J. G. FICHTE: Grundlage der ges. Wiss.lehre (1794, <sup>2</sup>1802). Sämmtl. Werke, hg. I. H. FICHTE (1845/46) 1, 263.</li>\n<li id=\"fn0-19\" value=\"19\">F. W. J. SCHELLING: Philos. der Mythologie I: Der Monotheismus, 3. Vorles. (1842). Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) II/2, 50.</li>\n<li id=\"fn0-20\" value=\"20\">L. FEUERBACH: Das Wesen des Christentums (1841). Ges. Werke, hg. W. SCHUFFENHAUER (1967ff.) 5, 272.</li>\n<li id=\"fn0-21\" value=\"21\">M. HEIDEGGER: Vom Wesen des Grundes (1929), in: Wegmarken (1967) 61–63. Ges.ausg. I/9 (1976) 165–167.</li>\n<li id=\"fn0-22\" value=\"22\">a.O. 63/167.</li>\n<li id=\"fn0-23\" value=\"23\">Metaphys. Anfangsgründe der Logik § 12 (1928). Ges.ausg. II/26 (1978) 270.</li>\n<li id=\"fn0-24\" value=\"24\">L. BINSWANGER: Grundformen und Erkenntnis menschl. Daseins (1942). Ausgew. Werke, hg. H.-J. BRAUN (1992–94) 2, 4–5.</li>\n<li id=\"fn0-25\" value=\"25\">M. SCHELER: Tod und Fortleben [1911–14], in: Schr. aus dem Nachlaß 1 (1933) 45. Ges. Werke 11 (<sup>3</sup>1986) 46f.</li>\n<li id=\"fn0-26\" value=\"26\">BINSWANGER, a.O. [24] 139.</li>\n<li id=\"fn0-27\" value=\"27\">a.O. 138.</li>\n</ol>",
+ "prev":{"id":3262,"lemma":"Überreden; Überzeugen","band":"11","col":50},
+ "next":{"id":3264,"lemma":"Überseiend; überwesentlich","band":"11","col":58},
+ "backlinks":[
+  {"id":3252,"lemma":"Überfluß; Überflußgesellschaft","n":1},
+  {"id":3323,"lemma":"Unsterblichkeit","n":1}
+ ],
+ "outlinks":[
+  {"id":714,"lemma":"Emanation","n":1},
+  {"id":3460,"lemma":"Via causalitatis; via negationis; via eminentiae","n":1}
+ ],
+ "register":[
+  {"term":"abundantia","qualifier":"","band":null,"col":null},
+  {"term":"Aufschwingen","qualifier":"","band":"11","col":"57"},
+  {"term":"Ekstase","qualifier":"","band":null,"col":null},
+  {"term":"eminentia","qualifier":"","band":null,"col":null},
+  {"term":"supereminentia","qualifier":"","band":null,"col":null},
+  {"term":"transzendent","qualifier":"","band":"11","col":"57"},
+  {"term":"überfliegend","qualifier":"","band":"11","col":"57"},
+  {"term":"übernatürlich","qualifier":"","band":"11","col":"57"},
+  {"term":"überschwenglich","qualifier":"","band":null,"col":null},
+  {"term":"Vereinigung","qualifier":"","band":"11","col":"57"},
+  {"term":"Verzückung","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":408,"name":"L. Binswanger","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":632,"name":"A. Zimmermann","b":1,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":65,"name":"L. Feuerbach","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":73,"name":"Eckhart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":464,"name":"G. Arnold","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":387,"name":"J. Tauler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12,"name":"J. G. Fichte","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":22,"name":"M. Luther","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":140,"name":"Ps.-Dionysius Areopagita","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1528,"name":"H. Braun","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3443,"name":"M. Sandaeus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5568,"name":"L. Diefenbach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31501,"name":"G. Schuch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31502,"name":"J. Zachhuber","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":374,"name":"J. Quint","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":601,"name":"W. Schuffenhauer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1150,"name":"F. Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":702,"lemma":"Ekstase","tf":2},
+  {"id":3223,"lemma":"Transzendenz; Transzendieren","tf":2},
+  {"id":1173,"lemma":"Gottheit","tf":2},
+  {"id":527,"lemma":"Dasein","tf":3}
+ ],
+ "see_also":[],
+ "groups":[{"id":27,"name":"Mystik","label":"Überschwang"}],
+ "reg_authors":[{"name":"Zachhuber Johannes","n":5}]
+}
+);

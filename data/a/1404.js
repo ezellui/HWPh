@@ -1,0 +1,67 @@
+HWPH.put("a/1404",
+{
+ "id":1404,
+ "lemma":"Impuls",
+ "band":"4",
+ "kind":"article",
+ "col_from":272,
+ "col_to":274,
+ "pdf_from":12214,
+ "pdf_to":12219,
+ "authors":["P. Janich"],
+ "n_notes":0,
+ "n_chars":7363,
+ "toc":[["h7","Literaturhinweise",0]],
+ "html":"<p>Impuls heißt in der Physik allgemein die Wirkung der kurzzeitigen Änderung eines physikalischen Parameters, speziell in der Mechanik die Wirkung von Kraftstößen. In der Dynamik Newtons gilt infolge des 2. Axioms, das die Gleichheit der auf einen Körper der Masse <i>m</i> wirkende Kraft <span class=\"m\" data-tex=\"\\bar{K}\">\\bar{K}</span> mit der zeitlichen Änderung der «Bewegungsgröße» <i>m</i> · <i>v</i> (<i>v</i> Geschwindigkeit) behauptet, für die Größe der I.-Änderung durch einen in der Zeit <i>t<sub>1</sub> – t<sub>2</sub></i> andauernden Kraftstoß</p>\n<div class=\"md\" data-tex=\"\\bar{p}(t_1) - \\bar{p}(t_2) = \\int_{t_2}^{t_1} \\bar{K}(t)\\,dt.\">\\bar{p}(t_1) - \\bar{p}(t_2) = \\int_{t_2}^{t_1} \\bar{K}(t)\\,dt.</div>\n<p>Die Begriffe der Bewegungsgröße und des I. reichen in ihrer Geschichte bis in die antike Naturphilosophie zurück und sind sowohl mit Erklärungsversuchen für Bahnform und zeitlichen Ablauf von Wurf- und Fallbewegungen als auch mit Vorläufern von Erhaltungssätzen in atomistischen Theorien verknüpft.</p>\n<p>Nach ARISTOTELES bedarf jede Bewegung eines Bewegers, der für verschiedene Klassen von Bewegungen (Bewegung belebter und unbelebter Körper sowie Planetenbewegungen) verschieden ist. Für die erzwungene, d.h. nicht auf seinen gemäß der Elementelehre natürlichen Ort gerichtete Bewegung eines unbelebten Körpers nahm Aristoteles an, daß der Verursacher <span class=\"col\" data-col=\"273\"></span> der Bewegung, z.B. die Hand eines Ballspielers, nicht nur dem Ball eine Bewegung aufzwingt, sondern gleichzeitig auch einer Schicht des den Ball umgebenden Mediums der Luft eine nun ihrerseits bewegende Kraft mitteilt, die für die Weiterbewegung des Balles nach Verlassen der Hand des Werfers verantwortlich ist. Diese, aus der vorgängigen Betrachtung der Ursachen verschiedener Fallgeschwindigkeiten bei gleichen Fallhöhen durchaus motivierte Erklärung wurde jedoch schon in der Antike als so unbefriedigend empfunden, daß sie umfangreiche Diskussionen unter den Vertretern des Aristotelismus auslöste und über die Entwicklung der Impetustheorien (s. Art. <a class=\"xref\" href=\"#/a/1397\">→ Impetus</a>) in der Scholastik schließlich einer der Anlässe zur Ausbildung der klassischen Physik wurde.</p>\n<p>Gegen die aristotelische Auffassung argumentiert BURIDAN mit Beispielen der Art, daß man einen Stein weiter werfen könne als eine Feder, und legt den Grundstein für die Ausbildung des klassischen Trägheitsbegriffes durch seine Impetustheorie, nach der einem Projektil ein von dessen Geschwindigkeit und Größe abhängiger Impetus mitgegeben wird, der zunächst als «Ursache» für eine Bewegung konstanter Geschwindigkeit anzusehen ist. Im Falle der Aufwärtsbewegung wird der Impetus von der Schwere allmählich verbraucht. NICOLAUS VON ORESME verdeutlicht darüber hinaus, daß eine Änderung des Impetus nicht mit einer Änderung der Schwere eines Körpers einhergeht, sondern mit der Geschwindigkeitsänderung allein zusammenhängt. Buridans Auffassung gewann um 1510 in der Pariser Terministenschule allgemein Anerkennung und wurde gleichsam die offizielle Lehrmeinung der Scholastiker, die um 1600 die Urheberschaft der Impetustheorien ganz für sich in Anspruch nahmen. Entscheidend verbessert wurde Buridans Impetustheorie durch BENEDETTI, der die beschleunigte Fallbewegung auf ein kontinuierliches Anwachsen des Impetus zurückführte und an Beispielen mit rotierenden Rädern erstmals auf die Geradlinigkeit der Erhaltungsgröße hinwies, wodurch z.B. ein Stein die Kreisbahn einer Schleuder tangential verlasse.</p>\n<p>Der methodische Status der I.-Theorien ist mit modernen Unterscheidungen nur schwer beschreibbar. Zwar spielen Erfahrungen eine gewisse Rolle, doch ist ‹Impetus› kein Begriff einer empirischen Theorie, da es weder zu systematischen noch gar zu quantitativen Beobachtungen kommt. Andererseits ist der Impetusbegriff kein Teil einer apriorischen Grundlegung der Physik, da weder auf Erfahrungsargumente verzichtet wird, noch die kontemplative Distanz aufgegeben ist, welche der Ermöglichung einer experimentellen Physik im Wege steht.</p>\n<p>Bei GALILEI, dessen Verbindung mit Benedetti umstritten ist, findet sich die Vorstellung des um unendlich viele und kleine I. wachsenden I. bei der Fallbewegung, obgleich hier infolge terminologischer Ungenauigkeiten Galileis Interpretationsfragen offen bleiben (das Wort ‹impeto› scheint gelegentlich im Sinne von potentieller Energie verwendet). Indessen ist sein auf das Trägheitsprinzip Newtons hinführendes Prinzip von der Erhaltung der Horizontalbewegung als ein Prinzip der I. Erhaltung zu verstehen. Deutlich apriorischen Charakter gewinnt das Erhaltungsprinzip der Bewegungsgröße bei DESCARTES. In einem ewigen, geschlossenen Kreis lauf wird jedes Geschehen in der Cartesischen Reduktion der Natur auf die mathematisierbaren Begriffe der Ausdehnung und der Geschwindigkeit als Korpuskularbewegung gedeutet. Eindeutig wird die dabei erhaltene Bewegungsgröße durch <i>m</i> · <i>v</i> definiert, wobei freilich ein klarer Massenbegriff noch fehlt. Mit dem Versuch, die Übertragung des I. durch Stoßgesetze zu erklären, scheitert zwar Descartes – die Unterscheidung von I.-und Energieerhaltung gelingt erst LEIBNIZ –, aber in der Dioptrik gibt er ein mechanisches Analogon für das Reflexionsgesetz, wonach beim elastischen Stoß ein in Richtungskomponenten zerlegbarer I. bis auf die Umkehrung einer Komponente vollständig erhalten bleibt. Den apriorischen Charakter der Erhaltung <span class=\"col\" data-col=\"274\"></span> der Bewegungsgröße nach Descartes zeigt ihre durchgängige Verwendung als Erklärungsprinzip. Eine korrekte Formulierung der Stoßgesetze, beschränkt auf den ideal elastischen Stoß, gelingt HUYGENS. Im Rahmen einer exakten Berücksichtigung der schon von Descartes behaupteten Relativität von Bewegung leitet er Gesetze für alle Fälle elastischer Stöße aus dem Trägheitsprinzip und aus einem als apriorisch angesehenen Satz her, wonach zwei gleiche Körper gleich großer, entgegengesetzter Geschwindigkeit auch nach dem Stoß wieder gleich große, entgegengesetzte Geschwindigkeiten haben. Da eine Massendefinition ebensowenig auftritt, wie diejenige Newtons als befriedigend anzusehen ist, kann der I.-Satz (Gleichheit des Gesamt-I. <i>m<sub>1</sub></i> · <i>v<sub>1</sub></i> + <i>m<sub>2</sub></i> · <i>v<sub>2</sub></i> vor und nach dem Stoß) in der Theorie Huygens' als Definition der Massengleichheit interpretiert werden. Explizit tritt dieser Gedanke auf bei Vertretern der mécanique rationnelle im 19. Jh. (SAINT VENANT de BARRÉ und J. ANDRADE), deren Massendefinition an Stoßvorgänge geknüpft wird und auf dem I.-Satz beruht. Eine operative Bestimmung des Massenbegriffs durch Stoßvorgänge im Rahmen einer <a class=\"xref\" href=\"#/a/2495\">Protophysik</a> <span class=\"sd\">→ (s.d.)</span> wird von LORENZEN vorgeschlagen. Danach ist der I.-Satz ein logisches Implikat der Massendefinition, d.h. seinem Status nach eine ideative Norm für die Herstellung von Massengleichheit (vgl. Art. <a class=\"xref\" href=\"#/a/1359\">→ Ideation</a>).</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\"><i>– Quellen:</i> J. BURIDAN: Quaestiones super octo physicorum libros Aristotelis (Paris 1509). – G. B. BENEDETTI: Diversarum speculationum mathematicarum et physicarum liber (Turin 1585). – G. GALILEI, Ed. Naz. 1–20 (Florenz 1890–1909). – R. DESCARTES, Oeuvres 1–12 hg. CH. ADAM/P. TANNERY (Paris 1897–1910). – CH. HUYGENS: De motu corporum ex percussione (1668). Oeuvres compl. 1–22 (Den Haag 1888–1950). – <i>Darstellungen:</i> P. DUHEM: Le système du monde. Hist. des doctrines cosmol. de Platon à Copernic 1–10 (Paris 1914–1959). – ANNELIESE MAIER: Die Impetustheorie der Scholastik (1940). – R. DUGAS: Hist. de la mécanique (Neuenburg 1950). – M. JAMMER: Concepts of force (Cambridge, Mass. 1957); Der Begriff der Masse in der Physik (1964). – P. LORENZEN: Wie ist die Objektivität der Physik möglich? in: Argumentationen. Festschr. J. König, hg. H. DELIUS/G. PATZIG (1964) 143–150. – J. MITTELSTRASS: Neuzeit und Aufklärung (1970).</p>",
+ "prev":{"id":1403,"lemma":"Imprädikativität","band":"4","col":270},
+ "next":{"id":1405,"lemma":"Imputation","band":"4","col":274},
+ "backlinks":[{"id":1397,"lemma":"Impetus","n":1}],
+ "outlinks":[
+  {"id":1359,"lemma":"Ideation","n":1},
+  {"id":1397,"lemma":"Impetus","n":1},
+  {"id":2495,"lemma":"Protophysik","n":1}
+ ],
+ "register":[{"term":"Stoss","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":15,"name":"R. Descartes","b":1,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":81,"name":"P. Lorenzen","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":188,"name":"G. Galilei","b":1,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":518,"name":"Joh. Buridan","b":1,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":923,"name":"Ch. Huygens","b":1,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":5112,"name":"G. Benedetti","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2730,"name":"Nicolaus von Oresme","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":11334,"name":"J. Andrade","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":21785,"name":"Saint Venant de Barré","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":302,"name":"G. Patzig","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":255,"name":"J. Mittelstrass","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":454,"name":"P. Duhem","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2962,"name":"Anneliese Maier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3133,"name":"H. Delius","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11335,"name":"R. Dugas","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":77,"name":"Ch. Adam","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":106,"name":"P. Tannery","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":801,"name":"M. Jammer","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":408,"lemma":"Bewegung","tf":8},
+  {"id":2368,"lemma":"Physik","tf":4},
+  {"id":1769,"lemma":"Leib, Körper","tf":5},
+  {"id":1147,"lemma":"Gleichheit","tf":2},
+  {"id":3014,"lemma":"Status","tf":2},
+  {"id":2775,"lemma":"Scholastik","tf":2},
+  {"id":1187,"lemma":"Größe","tf":2},
+  {"id":1680,"lemma":"Kraft","tf":2},
+  {"id":486,"lemma":"Charakter","tf":2}
+ ],
+ "see_also":[
+  {"id":408,"lemma":"Bewegung"},
+  {"id":1397,"lemma":"Impetus"},
+  {"id":1878,"lemma":"Masse, Massen"},
+  {"id":1903,"lemma":"Mechanik"}
+ ],
+ "groups":[{"id":32,"name":"Physik","label":"Impuls"}],
+ "reg_authors":[{"name":"Janich Peter","n":8}]
+}
+);

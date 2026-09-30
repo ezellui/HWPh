@@ -1,0 +1,12 @@
+HWPH.put("t/2518",
+{
+ "b":"Psychologie, phänomenologische. Bei E. HUSSERL heißt ‹ph.P.› eine der transzendentalen Phänomenologie «methodisch und inhaltlich parallele psychologische Disziplin» , die als eine durch phänomenologische und eidetische Reduktion methodisch gesicherte apriorische reine intentionale Psychologie «den Anspruch erhebt, das prinzipielle methodische Fundament zu sein, auf dem allein eine wissenschaftlich strenge empirische Psychologie zu begründen ist» . Da in der ph.P. das Psychische noch den Seinssinn von weltlich Vorhandenem behält , bleibt sie eine Wissenschaft in natürlicher Einstellung und stellt nur eine, allerdings propädeutisch zur Einführung in die Phänomenologie sehr geeignete Vorstufe der eigentlichen, d.h. transzendentalen Phänomenologie dar . Zur Umwandlung der ph.P. in die transzendentale Phänomenologie bedarf es der auf phänomenologischer und eidetischer Reduktion aufgestuften transzendentalen Reduktion, einer radikalen und habituell werdenden Einstellungsänderung des Reflektierenden . Sie besteht darin, daß er von der mit der reinen psychologischen Selbsterfahrung in naiver Selbstverständlichkeit verbundenen Selbstapperzeption als Mensch Epoche übt und sich selbst als transzendentalen Zuschauer versteht ; auf diese Weise wird das Menschen-Ich des Reflektierenden zum Phänomen seines transzendentalen Ich, die vermenschlichende Selbstobjektivation wird als zum absoluten Sein des eigenen transzendentalen Ich gehörende konstitutive Leistung begriffen . Unterbleibt die Unterscheidung von transzendentaler Phänomenologie und ph.P., so erliegt die Phänomenologie damit der Gefahr des Psychologismus .",
+ "n":"E. HUSSERL: Phänomenolog. Psychol. Husserliana 9 (Den Haag 1962) 277, vgl. 343ff.; Cart. Meditationen und Pariser Vorträge. Hua. 1 (Den Haag 21963) 70. \nPhän. Psych. ..., a.O. 277; Cart. Med. ..., a.O. 107. \nPhän. Psych. ..., a.O. 335ff. \na.O. 344ff. \n336ff. \n341f. \n343. \nFormale und Transzend. Logik (1929). Hua. 17 (Den Haag 1974) 257; Cart. Med. ..., a.O. 70; Die Krisis der europ. Wiss.en und die transzend. Phänomenol. Hua. 6 (Den Haag 21962) 247ff.",
+ "l":"H. DRÜE: E. Husserls Syst. der Phän. Psychol. (1963). – G. ARLT: Transzendentalphilos. und Psychol. Zum Begriff der ‘ph.P.ʼ bei Husserl. Perspektiven der Philos. 10 (1984) 161–179.",
+ "au":"K. Held",
+ "A":["K. Held"],
+ "cb":[[0,1664]],
+ "cn":[[0,1664],[153,1664],[208,1664],[239,1664],[252,1664],[260,1664],[267,1664],[273,1664]],
+ "cl":[[0,1664]]
+}
+);

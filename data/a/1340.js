@@ -1,0 +1,48 @@
+HWPH.put("a/1340",
+{
+ "id":1340,
+ "lemma":"Ideal, transzendentales",
+ "band":"4",
+ "kind":"article",
+ "col_from":27,
+ "col_to":28,
+ "pdf_from":11438,
+ "pdf_to":11442,
+ "authors":["K. Düsing"],
+ "n_notes":9,
+ "n_chars":5290,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Ideal, transzendentales. Der Terminus ‹t.I.› ist ein Grundbegriff der transzendentalen Theologie. Das t.I. wird als All der Realität gedacht, das einem Wesen zukommt, d.h. als allerrealstes Wesen oder als Gott in metaphysischer Bedeutung.</p>\n<p>Obwohl das Problem des metaphysischen Gottesbegriffes selbst viel älter ist, wird es unter dem Namen ‹t.I.› erst von KANT ausführlich erörtert. Kant entwickelt den Sinn des t.I., das im Unterschied zu ethischen oder ästhetischen I. das «einzige eigentliche I.» der reinen Vernunft genannt wird <sup class=\"fn\" data-fn=\"0-1\">1</sup>, in der ‹Transzendentalen Dialektik› der ‹Kritik der reinen Vernunft›, und zwar als Einleitung zur Kritik an den metaphysischen Beweisen vom Dasein Gottes <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Aufstellung des t.I. ist wie die der Kategorien und der anderen Ideen der reinen spekulativen Vernunft im Verhältnis von formaler und transzendentaler Logik begründet. Daher geht Kant von der Form des disjunktiven Vernunftschlusses aus. Dessen logisches Verfahren wird transzendental oder inhaltlich zugleich als Bestimmung der Dinge selbst verstanden. Die Idee des Alls der Realität ist nach Kant notwendiges Prinzip aller inhaltlichen Bestimmung der Dinge, die immer Einschränkung sein muß. Anschaulich erfüllbar ist dieser Gedanke aber nur für Erfahrungsgegenstände, deren vollständige Bestimmung einen Inbegriff <span class=\"col\" data-col=\"28\"></span> aller Möglichkeiten des sinnlich Realen voraussetzt.</p>\n<p>Die Idee des Alls der Realität ist nach Kant selbst ein «durchgängig a priori bestimmter Begriff», d.h. der «Begriff von einem einzelnen Gegenstande» und damit «ein I. der reinen Vernunft» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Das Seiende, das durch das I. gedacht wird, ist das Urwesen (ens originarium) oder das höchste Wesen (ens summum) oder auch das allerrealste Wesen (ens realissimum). In der vorkantischen Metaphysik bezeichneten diese Bestimmungen seit langem den Begriff Gottes. Dieses I. wird von Kant auch – in Fortsetzung von Überlegungen zur «perfectio noumenon» in der Dissertation ‹De mundi sensibilis ...› (1770) – platonisch als «Urbild (<i>Prototypon</i>) aller Dinge» bestimmt <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Darin ist schon angedeutet, daß es eigentlich nicht als Inbegriff aller Realitäten der Dinge zu denken ist, der teilbar wäre, sondern als deren Grund. – Mit dem t.I. wird jedoch nicht die Existenz eines solchen Urwesens bewiesen oder angenommen. Es handelt sich nur um einen notwendigen Vernunftbegriff, nicht aber um einen Beweis der Existenz Gottes. Die Vernunft erliegt dem dialektischen Schein, wenn sie die Bedingungen ihres Denkens zu solchen des Seins erklärt, ihr I. hypostasiert und personifiziert <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Kant kritisiert damit einen Fehler, der, vom kritischen Standpunkt aus beurteilt, demjenigen seines eigenen früheren Gottesbeweises (‹Der einzig mögliche Beweisgrundzu einer Demonstration des Daseins Gottes› 1763) parallel läuft.</p>\n<p>Kants Lehre vom t.I. hat in späterer Zeit mehrere Kritiker gefunden. HEGEL meint diese Theorie, wenn er von Kants I. der reinen Vernunft spricht, und kritisiert sie im Zusammenhang mit seiner Behandlung der Kantischen Widerlegung der Gottesbeweise. Er sieht in dieser Theorie den Versuch, die abstrakte Identität des verständigen Begriffs mit dem Sein zu vereinigen. Durch die Abstraktheit der vorausgesetzten Gegensätze können sie nach Hegel zu keiner wahren, nämlich durch den spekulativen Begriff bestimmten Einheit gelangen <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Nach der Auffassung des späten SCHELLING ist Kants Lehre vom I. der reinen Vernunft, dem t.I., Ausgangspunkt für Entwicklungen der nachkantischen Philosophie. Kant hat nach Schelling die Notwendigkeit dieser Idee für unsere Vernunft nachgewiesen; ihren Inhalt hat er jedoch zu unbestimmt gelassen; ferner hat er die dem Ideal entsprechende Existenz nicht zeigen können. Schelling interpretiert den Inbegriff aller Möglichkeiten mit Aristoteles' Begriff der Dynamis überhaupt und fordert, daß diesem Vernunftbegriff ein Etwas oder Eines als Ursache des Seins vorausgehen müsse, das selbst schlechthin wirklich sei <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>SCHOPENHAUER dagegen hält Kants Ausführungen über das t.I. für einen Rückfall in mittelalterliches scholastisches Denken. Nur aus Systemzwang habe Kant für den disjunktiven Vernunftschluß einen transzendentalen Inhalt zu bestimmen gesucht, wie schon für den kategorischen und hypothetischen Vernunftschluß; er erliege hier seiner «Liebhaberei zur architektonischen Symmetrie» <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Im Neukantianismus bleibt bei der Rezeption Kants aus systematischen Gründen das t.I. im Hintergrund. Erst W. CRAMER setzt sich bei seinem Versuch eines neuen Gottesbeweises mit dieser Kantischen Lehre wieder auseinander. Das t.I. ist für ihn eine metaphysische Vorstellung, die innerhalb des transzendentalen Idealismus keinen Sinn hat, doch kann sie nach seiner Auffassung für eine neue ontologische Argumentation umgedeutet und fruchtbar gemacht werden <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">B. KELLERMANN: Das Ideal im System der Kantischen Philos. (1920). – D. HENRICH: Der ontol. Gottesbeweis (1960) 140–148 u.ö. – H. HEIMSOETH: Transzendentale Dialektik 3 (1969) 419–462.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"28\"></span> I. KANT, KrV B 604.</li>\n<li id=\"fn0-2\" value=\"2\">B 599–611.</li>\n<li id=\"fn0-3\" value=\"3\">B 602.</li>\n<li id=\"fn0-4\" value=\"4\">B 606; vgl. Akad.-A. 2, 396.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. KrV B 608. 611 Anm.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. G. W. F. HEGEL: Enzyklop. (<sup>3</sup>1830) §§ 49. 51. Werke, hg. GLOCKNER 19, 582f.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. F. W. J. SCHELLING, Werke, hg. K. F. A. SCHELLING 11, 282–294. 585f.</li>\n<li id=\"fn0-8\" value=\"8\">A. SCHOPENHAUER, Werke, hg. P. DEUSSEN 1, 602.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. W. CRAMER: Gottesbeweise und ihre Kritik (1967) 143–154.</li>\n</ol>",
+ "prev":{"id":1339,"lemma":"Ideal","band":"4","col":25},
+ "next":{"id":1341,"lemma":"Idealisierung","band":"4","col":28},
+ "backlinks":[{"id":3423,"lemma":"Vernunft; Verstand","n":1}],
+ "outlinks":[],
+ "register":[{"term":"transzendentales Ideal","qualifier":"(Kant)","band":null,"col":null}],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":950,"name":"W. Cramer","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":672,"name":"P. Deussen","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":300,"name":"H. Heimsoeth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7442,"name":"P. Kellermann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":324,"name":"D. Henrich","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1165,"lemma":"Gottesbeweis","tf":3},
+  {"id":3426,"lemma":"Vernunftschluß","tf":2},
+  {"id":1406,"lemma":"Inbegriff","tf":3},
+  {"id":2590,"lemma":"Realität/Idealität","tf":4},
+  {"id":863,"lemma":"Existenz, existentia","tf":3},
+  {"id":410,"lemma":"Beweis","tf":2},
+  {"id":1339,"lemma":"Ideal","tf":2},
+  {"id":527,"lemma":"Dasein","tf":2}
+ ],
+ "see_also":[{"id":1162,"lemma":"Gott"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Ideal, transzendentales (Kant)"}],
+ "reg_authors":[{"name":"Düsing Klaus","n":1}]
+}
+);

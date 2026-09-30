@@ -1,0 +1,55 @@
+HWPH.put("a/1717",
+{
+ "id":1717,
+ "lemma":"Kunstreligion",
+ "band":"4",
+ "kind":"article",
+ "col_from":1458,
+ "col_to":1459,
+ "pdf_from":15938,
+ "pdf_to":15943,
+ "authors":["A. Halder"],
+ "n_notes":19,
+ "n_chars":6368,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Kunstreligion. Indem NOVALIS die Religion auf die Liebe zum «hilfsbedürftigen» Gott und das «Mitleid mit der Gottheit» gründet, nennt er die von Schleiermacher verkündigte Religion (– «nur <i>eine</i> Art von <i>Liebe»</i> –) eine «Kunstreligion- beinah eine Religion wie die des <i>Künstlers</i>, der die Schönheit und das Ideal verehrt» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Er nahm damit einen Begriff auf, den SCHLEIERMACHER selbst beiläufig gebraucht hatte, als er davon sprach, daß es eine K. im Sinne einer wechselseitigen Durchdringung von Kunst und Religion zwar wohl noch nicht gegeben habe, vielleicht aber von der Zukunft erhofft werden könne [^1a].</p>\n<p>Die philosophisch bedeutsamere begriffliche Bestimmung erhielt der Terminus durch HEGEL. Zwar setzt die hegelsche Bildung des Begriffs ‹K.› Tendenzen der Ästhetisierung des Religionsverständnisses und der Theologisierung des Kunstverständnisses voraus, wie sie nicht erst, aber deutlicher bei Schleiermacher und insbesondere in der frühromantischen Poetik wirksam waren. Jedoch klärt Hegel diese Tendenzen aus ihrem Ursprung her, aus dem Leiden an der Zerrissenheit der Zeit und ihren Entzweiungsphänomenen, und er bemißt ihre Leistung (als unzureichend) an der Zielvorgabe der absoluten Versöhnung der Wirklichkeit und des Bewußtseins. Er geht hierbei <span class=\"col\" data-col=\"1459\"></span> aus von dem mit Schelling erreichten absoluten Standpunkt, auf dem die ‹Differenzschrift› die Kunst (aber auch die philosophische Spekulation) wesentlich als «Gottesdienst» erfassen kann, als «lebendiges Anschauen des absoluten Lebens, und somit [...] Einssein mit ihm» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Schon das ‹Systemfragment› qualifizierte die Aufhebung der Gegensätze als eine «schöne» Vereinigung <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Aber die Schrift ‹Über den Geist des Christentums› unterscheidet auch bereits den Geist des Schönheitsgenusses von dem Geist der jüdischen und christlichen Religion <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Der Blick auf die griechische Kunst führt Hegel jedoch weder – wie die Klassizisten – zu einem allein konkreten und dennoch für die geschichtlichen Produktionen aller Zeiten gleicherweise maßgeblich sein sollenden Begriff der Kunst noch – wie die Romantiker – zum abstrakten Begriff einer von der zeitgenössischen Verwirklichung gereinigten Kunst als solcher, die wieder- oder vielmehr überhaupt erstmals erstellt werden sollte. Vielmehr wird für Hegel in der ‹Phänomenologie des Geistes› die griechische Kunst zu einer großartig einmaligen und unwiederholbaren, aber auch nicht wiederholungswürdigen oder <i>als</i> Kunst überbietbaren Gestalt des Geistes. Sie wird ihm zu der geschichtlichen Gestalt, worin die Sitte als Substanz aller eines freien Volkes sich weiß: und das ist Religion, bestimmter «Religion des sittlichen Geistes» <sup class=\"fn\" data-fn=\"0-5\">5</sup>; worin aber eben die Form der Substanz in die des Subjekts getreten ist, d.h. wissend «seine Gestalt <i>hervor [bringt]</i>» <sup class=\"fn\" data-fn=\"0-6\">6</sup>, der Geist also «Künstler» ist <sup class=\"fn\" data-fn=\"0-7\">7</sup>: und so ist diese Religion, im Unterschied zur Naturreligion, «Kunst-Religion» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, «Religion der Kunst» <sup class=\"fn\" data-fn=\"0-9\">9</sup>, der Kunst näherhin in jenem Sinn, daß hier die Subjektwerdung der Substanz, die «Menschwerdung des göttlichen Wesens», ihr Dasein in der Bildsäule hat <sup class=\"fn\" data-fn=\"0-10\">10</sup> und von hier ausgehend im Kultus und in der Sprache, allgemein in den Werken der schönen Kunst. Dieser Begriff der K. herrscht ebenso in der ‹Heidelberger Enzyklopädie› (1817) <sup class=\"fn\" data-fn=\"0-11\">11</sup> und wirkt fort in den ‹Vorlesungen über Ästhetik›. In ihnen ist die Kunst in Griechenland selbst «der höchste Ausdruck für das Absolute» gewesen und die griechische Religion «die Religion der Kunst selber» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Sie ist «klassische» Kunst gewesen nicht nur wegen der völligen Adäquatheit der Form zu dem geschichtlichen Entfaltungsniveau des Inhalts, sondern auch in weltgeschichtlicher Bedeutung, insofern sie das «Höchste» erreicht hat, das überhaupt «die Versinnlichung der Kunst zu leisten vermag» <sup class=\"fn\" data-fn=\"0-13\">13</sup>, nämlich das Göttliche in der Anschauung präsent zu machen. Freilich, durch die Beschränktheit der sinnlichen Form im Verhältnis zu dem über die Bewußtseinsstufe griechischer Geistigkeit fortschreitenden geistigen Inhalt sind der Kunst, ihrer systematischen Bedeutung und geschichtlichen Möglichkeit, Grenzen gezogen. Kunst verliert ihre geschichtlichbegrenzte und doch «absolute» Leistungsfähigkeit, die sie in der griechischen K. besaß, vor der christlichen Religion und, zuletzt, der Philosophie.</p>\n<p>Von der hegelschen Bedeutung her und diese entschärfend kann dann auch bei SCHELLING («Die Kirche ist als ein Kunstwerk zu betrachten» <sup class=\"fn\" data-fn=\"0-14\">14</sup>), bei den Romantikern überhaupt <sup class=\"fn\" data-fn=\"0-15\">15</sup> von einer K. gesprochen werden, die freilich, sofern sie noch Standbild mit Theophanie, Lobpreis Gottes mit Prophetie verwechselt, zum «Unbegriff» wird <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Gegen den «Fehler» der Romantiker, die Kunst generell «zur Religion in Bezug zu setzen, als an diesen Inhalt in ihren höchsten Betätigungen gebunden», wandte sich schon DILTHEY <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Aus der Auffassung heraus, daß K. «im eigentlichen Sinne gar keine Religion ist», wird der Begriff, unter Nennung nur einer anonymen Autorschaft, für die griechische Religion und Kunst verworfen durch W. F. OTTO <sup class=\"fn\" data-fn=\"0-18\">18</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">H. KUHN s. Anm. [2] 15–144. – J. d'HONDT: Problèmes de la relig. esthétique, in: Hegel-Jb. (1964), hg. W. R. BEYER (1965) 34–48. – J. PATOCKA: Zur Entwickl. der ästhet. Auffassung Hegels a.a.O. 49–59. – J. TAMINIAUX: La nostalgie de la Grece à l'aube de l'idéalisme allemand (1967) bes. 206–247. – M. THEUNISSEN: Hegels Lehre vom absoluten Geist als theol.-polit. Traktat (1970) bes. 148–215.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1459\"></span> NOVALIS, Fragmente X, 53; vgl. P. KLUCKHOHN: Das Ideengut der dtsch. Romantik (1941) 132.</li>\n<li id=\"fn0-1\" value=\"1\">FR. SCHLEIERMACHER: Reden über die Relig. (1799) 167f.</li>\n<li id=\"fn0-2\" value=\"2\">G. W. F. HEGEL, Werke, hg. GLOCKNER 1, 142; vgl. H. KUHN: Die Vollendung der klass. dtsch. Ästhetik durch Hegel (1931), in: Schriften zur Ästhetik (1966) bes. 52ff. 86ff.</li>\n<li id=\"fn0-3\" value=\"3\">HEGELS theol. Jugendschr., hg. H. NOHL (1907) 351.</li>\n<li id=\"fn0-4\" value=\"4\">a.a.O. 373f.</li>\n<li id=\"fn0-5\" value=\"5\">Phänomenol. des Geistes, hg. J. HOFFMEISTER (<sup>6</sup>1952) 490.</li>\n<li id=\"fn0-6\" value=\"6\">a.a.O. 521.</li>\n<li id=\"fn0-7\" value=\"7\">489.</li>\n<li id=\"fn0-8\" value=\"8\">490.</li>\n<li id=\"fn0-9\" value=\"9\">521.</li>\n<li id=\"fn0-10\" value=\"10\">ebda.</li>\n<li id=\"fn0-11\" value=\"11\">Werke, hg. GLOCKNER 6, 302ff.</li>\n<li id=\"fn0-12\" value=\"12\">a.a.O. 13, 17.</li>\n<li id=\"fn0-13\" value=\"13\">12, 118f.</li>\n<li id=\"fn0-14\" value=\"14\">F. W. J. SCHELLING, Philos. der Kunst. Sämtl. Werke, hg. M. SCHRÖTER 3, 475; vgl. Vorles. über die Methode des akad. Studiums, 8. Vorles. a.a.O. 3, 315; vgl. KUHN, a.a.O. [2] 91.</li>\n<li id=\"fn0-15\" value=\"15\">H. KUHN: Die romantische Kunstphilos. (1962) a.a.O. [2] 156.</li>\n<li id=\"fn0-16\" value=\"16\">ebda.; vgl. H. KUHN: Wesen und Wirken des Kunstwerks (1960) 107.</li>\n<li id=\"fn0-17\" value=\"17\">W. DILTHEY, Weltanschauungslehre. Ges. Schriften 8 (1931) 26; vgl. 49.</li>\n<li id=\"fn0-18\" value=\"18\">[W. F. OTTO]: Die Gestalt und das Sein (1955) 288. 120; vgl. W. F. OTTO: Theophania. Der Geist der altgriech. Relig. (1956) 8. 121.</li>\n</ol>",
+ "prev":{"id":1716,"lemma":"Kunstphilosophie, Kunstgeschichte, Kunstwissenschaft","band":"4","col":1449},
+ "next":{"id":1718,"lemma":"Kunstrichter","band":"4","col":1460},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Religion der Kunst","qualifier":"(Hegel)","band":"4","col":"1459"}],
+ "persons":[
+  {"id":779,"name":"H. Kuhn","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1386,"name":"Otto von Freising","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":31,"name":"W. Dilthey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":78,"name":"Novalis","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":361,"name":"H. Nohl","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1330,"name":"Kuhn","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":399,"name":"M. Theunissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2347,"name":"W. R. Beyer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6731,"name":"J. Taminiaux","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":22806,"name":"J. Patocka","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":303,"name":"P. Kluckhohn","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":322,"name":"M. Schröter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1712,"lemma":"Kunst, Kunstwerk","tf":19},
+  {"id":2673,"lemma":"Religion","tf":15},
+  {"id":2724,"lemma":"Romantik, das Romantische","tf":3},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":3},
+  {"id":1116,"lemma":"Gestalt","tf":3},
+  {"id":1795,"lemma":"Liebe","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Kunstreligion (Hegel)"},
+  {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Kunstreligion (Hegel)"}
+ ],
+ "reg_authors":[{"name":"Halder Alois","n":3}]
+}
+);

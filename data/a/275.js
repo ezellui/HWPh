@@ -1,0 +1,27 @@
+HWPH.put("a/275",
+{
+ "id":275,
+ "lemma":"Athanismus (Athanatismus)",
+ "band":"1",
+ "kind":"article",
+ "col_from":595,
+ "col_to":595,
+ "pdf_from":2151,
+ "pdf_to":2151,
+ "authors":["W. Nieke"],
+ "n_notes":1,
+ "n_chars":397,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Athanismus (Athanatismus). Bei E. HAECKEL findet sich folgende Bestimmung von Athanismus: «Um einen kurzen und bequemen Ausdruck für die beiden entgegengesetzten Grundanschauungen über die Unsterblichkeitsfrage zu haben, bezeichnen wir den Glauben an die ‹persönliche Unsterblichkeit› des Menschen als Athanismus (abgeleitet von Athanes oder Athanatos = unsterblich)» <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Die Welträtsel (<sup>4</sup>1900) 219f.</li>\n</ol>",
+ "prev":{"id":274,"lemma":"Athanasianismus","band":"1","col":595},
+ "next":{"id":276,"lemma":"Atheismus","band":"1","col":595},
+ "backlinks":[{"id":3161,"lemma":"Thanatismus","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":286,"name":"E. Haeckel","b":1,"n":0,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

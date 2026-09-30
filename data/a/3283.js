@@ -1,0 +1,68 @@
+HWPH.put("a/3283",
+{
+ "id":3283,
+ "lemma":"Unbehagen",
+ "band":"11",
+ "kind":"article",
+ "col_from":118,
+ "col_to":120,
+ "pdf_from":44887,
+ "pdf_to":44892,
+ "authors":["R. Konersmann"],
+ "n_notes":24,
+ "n_chars":5945,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Unbehagen (engl. uneasiness, malaise; <span class=\"col\" data-col=\"119\"></span> frz. malaise). Lange vor dem Beginn der Begriffsgeschichte von ‹U.› bezeichnet J. LOCKE ‹uneasiness› als jenen psychischen Zustand, der die Triebfeder aller unserer Handlungen bildet <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Im übrigen ist das Wort ‹U.› ein begrifflicher Modernismus, der um 1800 auftritt. Wenn J. G. HERDER den «wankenden Zweifelzustand» des Pyrrhonismus als Musterfall geistiger «Unbehaglichkeit» <sup class=\"fn\" data-fn=\"0-2\">2</sup> zitiert, mit der kein Auskommen zu finden sei, bindet er die theoretische Erkenntnis an das Kriterium der Zuträglichkeit. Knapp hundert Jahre später hat sich das Bedeutungsfeld erweitert. Erklärt H. VON TREITSCHKE den politischen Radikalismus saturierter Schichten «durch das sociale U.» <sup class=\"fn\" data-fn=\"0-3\">3</sup>, so deutet A. SCHOPENHAUER das U. als Störung der «reinen Objektivität der Anschauung» durch eine wieder spürbar werdende Erregung des Willens als Grundprinzip der Subjektivität <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Theoretisch aufgenommen werden solche Einzelbeobachtungen durch M. NORDAU, der die Diagnostik der Psychopathologie kulturkritisch forciert und das U. als epochale Grundstimmung freilegt. Im Unterschied zu ähnlichen Erscheinungsformen aus früherer Zeit <sup class=\"fn\" data-fn=\"0-5\">5</sup> gäben das «zornige U.» <sup class=\"fn\" data-fn=\"0-6\">6</sup>, das der Einzelne empfinde, und die verbreitete «Unzufriedenheit im Geistigen» <sup class=\"fn\" data-fn=\"0-7\">7</sup> einem wachsenden Abstand zwischen intellektuellem Fortschritt und «den thatsächlichen Verhältnissen» <sup class=\"fn\" data-fn=\"0-8\">8</sup> Ausdruck. Während Nordau diese «Zeitkrankheit» <sup class=\"fn\" data-fn=\"0-9\">9</sup> durch konsequente Verbreitung der «naturwissenschaftlichen Weltanschauung» <sup class=\"fn\" data-fn=\"0-10\">10</sup> kurieren möchte, betrachtet F. NIETZSCHE schließlich das «U. des Organismus» rein funktional: «es giebt Mühsal, Spannung, Überreiz – das alles ist eben Bewußtwerden» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Obgleich mit Nordau persönlich bekannt <sup class=\"fn\" data-fn=\"0-12\">12</sup> und, wie L. ANDREAS-SALOMÉ bemerkt, nicht zuletzt über die Problematik des U. mit dem Denken Nietzsches verbunden <sup class=\"fn\" data-fn=\"0-13\">13</sup>, entwickelt S. FREUD ein gegenüber diesen Vorleistungen eigenständiges Konzept. Seine Formel vom «U. in der Kultur» (1930; der Buchtitel hätte ursprünglich lauten sollen: «Unglück in der Kultur» <sup class=\"fn\" data-fn=\"0-14\">14</sup>) umreißt die Lage des modernen Individuums als paradox: Nachdem ihm die Kultur einen wirksamen Schutz gegen die Naturgewalten biete, sehe der Einzelne sich von eben dieser Kultur und deren psychischer Repräsentanz, dem <a class=\"xref\" href=\"#/a/3257\">Über-Ich</a> <span class=\"sd\">→ (s.d.)</span>, zum Verzicht auf das Ausleben von Sexual-und Aggressionstrieben genötigt. «Das Ich fühlt sich unbehaglich», schreibt Freud bereits 1917, denn es begegnet den «Grenzen seiner Macht in seinem eigenen Haus, der Seele» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Der Leistung, der sich die Einrichtung der Kultur verdankt, entspricht auf der anderen Seite deren «Pathologie» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Die Individuen entwickeln unbewußt ein Gefühl der Schuld, das als «quälendes U.», als eine «Art von Angst» oder «Unzufriedenheit» <sup class=\"fn\" data-fn=\"0-17\">17</sup>, konkret wird.</p>\n<p>Als Kernstück der psychoanalytischen Kulturtheorie hat dieser Begriff des U. zahlreiche Kritiken (A. GEHLEN, F. STERN <sup class=\"fn\" data-fn=\"0-18\">18</sup>), Antikritiken (J. TAUBES <sup class=\"fn\" data-fn=\"0-19\">19</sup>) und Differenzierungen (CH. TAYLOR <sup class=\"fn\" data-fn=\"0-20\">20</sup>) erfahren. Ebenfalls 1930 führt L. WITTGENSTEIN eine Redeweise ein, die das U. als Anlaß des Philosophierens exponiert: «ein vages geistiges U.» <sup class=\"fn\" data-fn=\"0-21\">21</sup>, das nur befriedigt werden könne durch den «Überblick über all die verschiedenen Trivialitäten» <sup class=\"fn\" data-fn=\"0-22\">22</sup>, mit denen die Philosophie befaßt sei. Das läßt sich dann zu der These verschärfen, die Anstrengung der theoretischen Neugierde rühre weder von der menschlichen Natur noch vom ‘<a class=\"xref\" href=\"#/a/3015\">Staunenʼ</a> <span class=\"sd\">→ (s.d.)</span> her; sie erwachse vielmehr aus der Einsicht in das konstitutive Mißverhältnis des Menschen gegenüber sich und seiner Welt, dessen Grenzwert lautet: «U. am Wohlbefinden» <sup class=\"fn\" data-fn=\"0-23\">23</sup>. In einem ebenso bedenklichen wie unvermeidlichen Singular resümiert der gewollt «impräzise» Begriff des U. <sup class=\"fn\" data-fn=\"0-24\">24</sup> die Ausdrucksvielfalt solcher Diskrepanz.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. LOCKE: An essay conc. human underst. II, 21, 29ff. (1690). <span class=\"col\" data-col=\"120\"></span></li>\n<li id=\"fn0-2\" value=\"2\">J. G. HERDER: Aurora [1799]. Sämmtl. Werke, hg. B. SUPHAN (1877–1913) 23, 92.</li>\n<li id=\"fn0-3\" value=\"3\">H. VON TREITSCHKE: Dtsch. Gesch. im 19. Jh. 4 (1889) 601; weitere Belege: GRIMM 11/III (1936) 289–291.</li>\n<li id=\"fn0-4\" value=\"4\">A. SCHOPENHAUER: Die Welt als Wille und Vorst. II, 3, 30 (1844). Sämtl. Werke, hg. A. HÜBSCHER 3 (<sup>2</sup>1949) 421.</li>\n<li id=\"fn0-5\" value=\"5\">J. DELUMEAU: Le péché de la peur. La culpabilisation en occident aux 13–18<sup>ème</sup> s. (Paris 1983).</li>\n<li id=\"fn0-6\" value=\"6\">M. NORDAU: Die conventionellen Lügen der Kulturmenschheit (1883, <sup>12</sup>1886) 6.</li>\n<li id=\"fn0-7\" value=\"7\">Paradoxe (1885, <sup>4</sup>1886) 16.</li>\n<li id=\"fn0-8\" value=\"8\">a.O.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. [6] 13.</li>\n<li id=\"fn0-10\" value=\"10\">a.O. 30.</li>\n<li id=\"fn0-11\" value=\"11\">F. NIETZSCHE: Nachgel. Frg. Frühjahr 1888 15[25]. Krit. Ges.ausg., hg. G. COLLI/M. MONTINARI (1967ff.) 8/3, 215; Menschl., Allzumenschl. II, 1. Vermischte Meinungen und Sprüche 169 (1886), a.O. 4/3, 83; Nachgel. Frg. Sommer 1875 11[39], a.O. 4/1, 307; Herbst 1883 17[34], a.O. 7/2, 578.</li>\n<li id=\"fn0-12\" value=\"12\">CH. SCHULTE: Psychopathologie des Fin de siècle. Der Kulturkritiker, Arzt und Zionist Max Nordau (1997) 127f.</li>\n<li id=\"fn0-13\" value=\"13\">R. GASSER: Nietzsche und Freud (1997) 131.</li>\n<li id=\"fn0-14\" value=\"14\">M. SCHUR: S. Freud. Leben und Sterben (1973) 496.</li>\n<li id=\"fn0-15\" value=\"15\">S. FREUD: Eine Schwierigkeit der Psychoanalyse [1917]. Ges. Werke, hg. A. FREUD u.a. (1940–87) 12, 9.</li>\n<li id=\"fn0-16\" value=\"16\">Das U. in der Kultur [1930], a.O. 14, 505; vgl. P. RICŒUR: De l'interprétation. Essai sur Freud (Paris 1965) 297ff.; dtsch.: Die Interpretation. Ein Versuch über Freud (1974) 310ff.</li>\n<li id=\"fn0-17\" value=\"17\">a.O. 495.</li>\n<li id=\"fn0-18\" value=\"18\">A. GEHLEN: Über kulturelle Kristallisation (1961) 4; Anthropolog. Forschung (1961) 99; F. STERN: The politics of cult. despair. A study in the rise of the Germanic ideology (Berkeley/Los Angeles 1963) XXVIII; dtsch.: Kulturpessimismus als polit. Gefahr. Eine Analyse nat. Ideologie in Deutschland (1963/86) 20.</li>\n<li id=\"fn0-19\" value=\"19\">J. TAUBES: Das U. an den Institutionen. Zur Kritik der soziolog. Institutionenlehre, in: H. SCHELSKY (Hg.): Zur Theorie der Institutionen (<sup>2</sup>1973) 67–76.</li>\n<li id=\"fn0-20\" value=\"20\">CH. TAYLOR: Three malaises, in: The ethics of authenticity (Cambridge/London 1991) 1–12; dtsch.: Das U. an der Moderne (1995) 7–19; vgl. P. BERGER/B. BERGER/H. KELLNER: The homeless mind. Modernization and consciousness (New York 1973) ch. 8; dtsch.: Das U. an der Modernität (1975) Kap. 8.</li>\n<li id=\"fn0-21\" value=\"21\">L. WITTGENSTEIN: Vorles. 1930–1935. Lect. Cambridge 1930–1932, hg. D. LEE (1984) 43.</li>\n<li id=\"fn0-22\" value=\"22\">a.O. 56; vgl. 47f.</li>\n<li id=\"fn0-23\" value=\"23\">H. BLUMENBERG: Begriffe in Geschichten (1998) 72.</li>\n<li id=\"fn0-24\" value=\"24\">a.O. 209; vgl. 199f.</li>\n</ol>",
+ "prev":{"id":3282,"lemma":"Unbegrifflichkeit","band":"11","col":116},
+ "next":{"id":3284,"lemma":"Unbescholtenheit","band":"11","col":120},
+ "backlinks":[],
+ "outlinks":[
+  {"id":3015,"lemma":"Staunen; Bewunderung; Verwunderung","n":1},
+  {"id":3257,"lemma":"Über-Ich","n":1}
+ ],
+ "register":[
+  {"term":"malaise","qualifier":"","band":null,"col":null},
+  {"term":"uneasiness","qualifier":"","band":null,"col":null},
+  {"term":"Unglück in der Kultur","qualifier":"","band":"11","col":"119"},
+  {"term":"Unzufriedenheit","qualifier":"","band":null,"col":null},
+  {"term":"Zeitkrankheit","qualifier":"","band":"11","col":"119"}
+ ],
+ "persons":[
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18,"name":"J. G. Herder","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":21,"name":"J. Locke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":32,"name":"L. Wittgenstein","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":217,"name":"W. Stern","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":419,"name":"Ch. Taylor","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":787,"name":"P. L. Berger","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":1547,"name":"H. von Treitschke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1368,"name":"J. Taubes","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2947,"name":"M. Nordau","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":97,"name":"H. Blumenberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":307,"name":"P. Ricœur","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":341,"name":"H. Schelsky","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6959,"name":"Ch. Schulte","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8422,"name":"M. Schur","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11636,"name":"L. Andreas-Salomé","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":13053,"name":"J. Delumeau","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":16019,"name":"S. P. Gasser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":88,"name":"G. Colli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":89,"name":"M. Montinari","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":85,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":112,"name":"B. Suphan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":480,"name":"A. Freud","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":9085,"name":"H. Kellner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":1701,"lemma":"Kultur, Kulturphilosophie","tf":5},{"id":695,"lemma":"Einzelne","tf":2}],
+ "see_also":[],
+ "groups":[
+  {"id":2,"name":"Anthropologie","label":"Unbehagen"},
+  {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Unbehagen"}
+ ],
+ "reg_authors":[{"name":"Konersmann Ralf","n":19}]
+}
+);

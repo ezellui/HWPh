@@ -1,0 +1,27 @@
+HWPH.put("a/1668",
+{
+ "id":1668,
+ "lemma":"Korpuskeltheorie",
+ "band":"4",
+ "kind":"article",
+ "col_from":1138,
+ "col_to":1138,
+ "pdf_from":14926,
+ "pdf_to":14926,
+ "authors":["A. G. M. van Melsen"],
+ "n_notes":0,
+ "n_chars":548,
+ "toc":[],
+ "html":"<p>Korpuskeltheorie. Faktisch unterscheidet sich die K. nicht von der <a class=\"xref\" href=\"#/a/282\">Atomtheorie</a> <span class=\"sd\">→ (s.d.)</span>. Es ist jedoch sinnvoll, die Atomtheorien des 17. und 18. Jh. unter der allgemeinen Bezeichnung ‹K.› zusammenzufassen. Hierdurch werden sie sowohl von der stark philosophisch gefärbten Atom- oder Minimatheorie der vorangehenden Jh. als auch von der streng naturwissenschaftlichen Atomtheorie, die im 19. Jh. Gestalt erhielt, unterschieden. Natürlich ist es auch möglich, <i>alle</i> Formen der Atomtheorie (bis in die neueste Zeit hinein) als Formen einer K. zu deuten.</p>",
+ "prev":{"id":1667,"lemma":"Korpuskel","band":"4","col":1138},
+ "next":{"id":1669,"lemma":"Korrektorienstreit","band":"4","col":1138},
+ "backlinks":[],
+ "outlinks":[{"id":282,"lemma":"Atomtheorie","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":282,"lemma":"Atomtheorie"},{"id":3556,"lemma":"Wellentheorie/Teilchentheorie"}],
+ "groups":[{"id":32,"name":"Physik","label":"Korpuskeltheorie"}],
+ "reg_authors":[{"name":"Melsen Andreas G.M. van","n":7}]
+}
+);

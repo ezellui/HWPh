@@ -1,0 +1,78 @@
+HWPH.put("a/808",
+{
+ "id":808,
+ "lemma":"Erlösung",
+ "band":"2",
+ "kind":"article",
+ "col_from":717,
+ "col_to":719,
+ "pdf_from":5922,
+ "pdf_to":5928,
+ "authors":["E. Schott","U. Theissmann"],
+ "n_notes":25,
+ "n_chars":7510,
+ "toc":[
+  ["p0","I. E. ist ein zentraler Begriff im Alten und im Neuen Testament und dadur",1],
+  ["h4","Literaturhinweise",0],
+  ["p6","II. F. v. BAADER sieht in der E. die Vollendung der Schöpfung, wobei er E.",1],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p id=\"p0\">I. E. ist ein zentraler Begriff im Alten und im Neuen Testament und dadurch im Judentum und im Christentum. Im <i>Alten Testament</i> bezeichnen die hebräischen Wurzeln ‹pdh› und ‹g'l›, in der ‹Septuaginta› meist mit λυτροῦσθαι, in der ‹Vulgata› mit ‹redimere›, in der deutschen Bibel mit ‹erlösen› übersetzt, das rettende Handeln Gottes an Israel und den einzelnen Frommen. Der familienrechtliche Begriff ‹g'l› setzt ein Eigentumsverhältnis voraus, das durch Einlösung wiederhergestellt wird. Gott ist ‹go'el› (= Erlöser) Israels <sup class=\"fn\" data-fn=\"0-1\">1</sup>, weil er zwar nicht nach dem Gesetz des Blutes, aber nach dem der Erwählung so mit Israel verbunden ist, daß ihm die Lösepflicht obliegt. Gott als ‹go'el› bedeutet unverbrüchliche Gewißheit der E. (aus dem Exil). Dagegen heißt ‹pdh› Auslösen durch Lösegeld, vor allem aus Gefangenschaft oder aus Verhaftung an eine fremde Macht, ohne daß an eine rechtliche Bindung des Auslösers an den Auszulösenden gedacht ist. Mit ‹pdh› verbindet sich der Gedanke der freien Gnade: «... bei dem Herrn ist die Gnade und viel E. (peduth) bei ihm, und er wird Israel erlösen (jipdeh) aus allen seinen Sünden» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. E. ist im Alten Testament eine Heils- und Gnadentat Gottes, die meist allgemein auf Trübsal oder Not, besonders auf den Tod (nur Psalm 130 auf die <span class=\"col\" data-col=\"718\"></span> Sünden) bezogen wird.</p>\n<p>Das <i>Neue Testament</i> bindet die E. (ἀπολúτρωσις) ganz an Jesus Christus und seinen Kreuzestod. Wir sind erlöst «mit dem teuren Blut Christi» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Christus Jesus ist «uns gemacht ... von Gott ... zur E.» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Das Kernstück der E. ist die Sündenvergebung, die teils ausdrücklich <sup class=\"fn\" data-fn=\"0-5\">5</sup>, teils der Sache nach <sup class=\"fn\" data-fn=\"0-6\">6</sup> mit der E. geradezu gleichgesetzt wird. Im Glauben an Jesus haben wir bereits die E. und erwarten zugleich ihre Vollendung in der Endzeit durch seine Wiederkunft. Erlöst sind wir, weil Gott «uns errettet hat von der Obrigkeit der Finsternis und hat uns versetzt in das Reich seines lieben Sohnes» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die christliche Lehre von der E. hat sich, besonders unter dem Einfluß von ANSELM VON CANTERBURY (Cur Deus homo) mit dem Gedanken der Genugtuung (satisfactio) verbunden, die für die Sünde des Menschen zu leisten war und nur vom Gottmenschen geleistet werden konnte. Dieser Satisfaktionsgedanke hat immer wieder die Kritik besonders herausgefordert.</p>\n<p>Der Gedanke einer E. durch göttliche Gnade findet sich auch im Mahâyâna-Buddhismus und im Bhakti-Hinduismus; allerdings ist das E.-Ziel nicht ein Reich der Gerechtigkeit, sondern im Buddhismus das Nirvâna, im Hinduismus die Rückkehr in die Ureinheit.</p>\n<p>Während KANT <sup class=\"fn\" data-fn=\"0-8\">8</sup> und FICHTE <sup class=\"fn\" data-fn=\"0-9\">9</sup> die christliche E.-Lehre ablehnen, greift SCHOPENHAUER sie auf, deutet sie aber in buddhistischem Sinn um: «Wahres Heil, E. vom Leben und Leiden, ist ohne gänzliche Verneinung des Willens nicht zu denken» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. «Denn was sie [die Kirche] den natürlichen Menschen nennt, dem sie alle Fähigkeiten zum Guten abspricht, das ist eben der Wille zum Leben, der verneint werden muß, wenn E. aus einem Dasein, wie das unserige ist, erlangt werden soll» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Schopenhauers E.-Vorstellung übernehmen bejahend E. VON HARTMANN, verneinend F. NIETZSCHE. Dagegen lehrt L. FEUERBACH eine E. von den Sünden, aber nicht durch Gott, sondern durch die Liebe oder durch die menschliche Gattung: «Wer ist also unser Erlöser und Versöhner? Gott oder die Liebe? Die Liebe; denn Gott als Gott hat uns nicht erlöst, sondern die Liebe» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. «Meine Sünde ist dadurch schon ... in ihr Nichts verstoßen, daß sie eben nur meine, aber deswegen noch nicht auch die Sünde des andern ist» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. F. W. J. SCHELLING dagegen sagt im Sinne der christlichen Lehre: «... daß Christus für die Menschen zur E. derselben und an ihrer Statt gestorben, das hat nun weiter keine Schwierigkeit» <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">PROCKSCH, in: Theol. Wb. zum NT, hg. KITTEL 4 (1942) 329–337. – BÜCHSEL, a.a.O. 337–359. – F. BAMMEL: E. religionsgesch., in: Die Relig. in Gesch. Gegenwart 2 (<sup>3</sup>1958) 584–586. – H. J. KRAUS: E. im AT a.a.O. 586–588. P. VIELHAUER: E. im NT a.a.O. 588–590. – C. ANDRESEN: E. dogmengesch. a.a.O. 590–594. – L. RICHTER: E. religionsgesch. a.a.O. 594–599. – J. GEWIESS: E. in der Schrift, in: Lex. Theol. u. Kirche 3 (<sup>2</sup>1959) 1016–1020. – F. LAKNER: E. in der Dogmengesch. a.a.O. 1020–1024. – A. GRILLMEIER: E. Systematik a.a.O. 1024–1030.</p>\n<p id=\"p6\">II. F. v. BAADER sieht in der E. die Vollendung der Schöpfung, wobei er E. als Reintegration faßt, die durch Gott selbst geschieht, «weil nur er mich mit meiner Wurzel vereinen kann» <sup class=\"fn\" data-fn=\"1-1\">1</sup>. SCHLEIERMACHER bezieht E. auf das Gottesbewußtsein: soll es zustande kommen, so wird «E. notwendig, indem dieser Zustand nichts anders ist als eine Gebundenheit des schlechthinnigen Abhängigkeitsgefühls» <sup class=\"fn\" data-fn=\"1-2\">2</sup>. R. OTTO unterscheidet E. als «Reich-Gottes-Vergewisserung» von der E. als «gegenwärtige Gemütserlebnisse der Gotteskindschaft» <sup class=\"fn\" data-fn=\"1-3\">3</sup>, während K. BARTH E., das «noch ausstehende, künftige, vollendende Handeln Gottes», von Versöhnung, dem Handeln Gottes in Christus, abgrenzt <sup class=\"fn\" data-fn=\"1-4\">4</sup>. Bei F. ROSENZWEIG wird die künftige E. dem Menschen bereits jetzt in der Offenbarung «als unsichtbares Erlebnis in der eigenen Seele» erfahrbar <sup class=\"fn\" data-fn=\"1-5\">5</sup>. Vor dem Hintergrundidealistischer Philosophie, auf der geschichtlichen Stufe der dialektischen Theologie, macht er ‹E.› zum Themawort einer erneuerten jüdischen Theologie: «Gott erlöst in der E., der Welt durch den Menschen, <span class=\"col\" data-col=\"719\"></span> des Menschen an der Welt, sich selbst. Mensch und Welt verschwinden in der E., Gott aber vollendet sich. Gott wird erst in der E. das, was der Leichtsinn menschlichen Denkens von je überall gesucht, überall behauptet und doch nirgend gefunden hat, weil es eben noch nirgends zu finden war, denn es war noch nicht: All und Eines» <sup class=\"fn\" data-fn=\"1-6\">6</sup>. Gegen jede ungeschichtliche E.-Vorstellung wenden sich P. Tillich und D. Bonhoeffer. Für TILLICH gründet sich E. auf die «Lehre vom Neuen Sein in Jesus als dem Christus» <sup class=\"fn\" data-fn=\"1-7\">7</sup>. Dabei ist ihm das Wort ‹Heilung› als eine Seite der E. wichtig für die Situation unserer Zeit: «Die heilende Kraft des Neuen Seins überwindet den Zwiespalt zwischen Gott und Mensch, dem Menschen und seiner Welt und dem Menschen und sich selbst» <sup class=\"fn\" data-fn=\"1-8\">8</sup>. E. wird so bedeutend für die Verständigung der Theologie mit der Medizin und Psychologie. BONHOEFFER lehnt die alleinige E. im Jenseits ab, der Mensch ist verwiesen auf sein Leben auf der Erde, auf der «die geknechtete Natur auf Hoffnung hin erlöst ist» <sup class=\"fn\" data-fn=\"1-9\">9</sup>. W. BENJAMIN kennt E., die in den Vorstellungen des Glücks und der Vergangenheit mitschwingt <sup class=\"fn\" data-fn=\"1-10\">10</sup>, während TH. W. ADORNO den E.-Begriff in sein Philosophieverständnis einbezieht: «Erkenntnis hat kein Licht, als das von der E. her auf die Welt scheint» <sup class=\"fn\" data-fn=\"1-11\">11</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"718\"></span> z.B. Jes. 41, 14.</li>\n<li id=\"fn0-2\" value=\"2\">Ps. 130, 7. 8.</li>\n<li id=\"fn0-3\" value=\"3\">1. Petr. 1, 18.</li>\n<li id=\"fn0-4\" value=\"4\">1. Kor. 1, 30.</li>\n<li id=\"fn0-5\" value=\"5\">Koloss. 1, 14; Ephes. 1, 7.</li>\n<li id=\"fn0-6\" value=\"6\">Röm. 3, 24; 1. Kor. 1, 30.</li>\n<li id=\"fn0-7\" value=\"7\">Koloss. 1, 13.</li>\n<li id=\"fn0-8\" value=\"8\">KANT: Die Rel. innerhalb der Grenzen der bloßen Vernunft (<sup>2</sup>1794), Akad.-A. 6, 172.</li>\n<li id=\"fn0-9\" value=\"9\">J. G. FICHTE, Werke, hg. I. H. FICHTE (1845) 4, 560–566, bes. 561.</li>\n<li id=\"fn0-10\" value=\"10\">A. SCHOPENHAUER: Die Welt als Wille und Vorstellung. Werke 1 (1938) 470.</li>\n<li id=\"fn0-11\" value=\"11\">a.a.O. 479; vgl. 442. 464. 469. 480. 487 u.ö.</li>\n<li id=\"fn0-12\" value=\"12\">L. FEUERBACH: Das Wesen des Christentums 1 (1956) 109.</li>\n<li id=\"fn0-13\" value=\"13\">a.a.O. 253.</li>\n<li id=\"fn0-14\" value=\"14\">F. W. J. SCHELLING, Philos. der Offenbarung. Werke, hg. K. F. A. SCHELLING (1856–1861) 14, 204. <span class=\"col\" data-col=\"719\"></span></li>\n<li id=\"fn1-1\" value=\"1\">F. v. BAADER, Werke, hg. F. HOFFMANN (1850–1860) 2, 74; 12, 226.</li>\n<li id=\"fn1-2\" value=\"2\">F. SCHLEIERMACHER: Der christl. Glaube (<sup>2</sup>1830/31) § 11.</li>\n<li id=\"fn1-3\" value=\"3\">R. OTTO: Das Heilige (<sup>6</sup>1921) 196.</li>\n<li id=\"fn1-4\" value=\"4\">K. BARTH: Kirchl. Dogmatik 1/1, 430. 486.</li>\n<li id=\"fn1-5\" value=\"5\">F. ROSENZWEIG: Der Stern der Erlösung (1921, <sup>3</sup>1954) 2, 209.</li>\n<li id=\"fn1-6\" value=\"6\">a.a.O. 2, 194f.</li>\n<li id=\"fn1-7\" value=\"7\">P. TILLICH: Systemat. Theol. 2, 178. 181.</li>\n<li id=\"fn1-8\" value=\"8\">a.a.O. 2, 181.</li>\n<li id=\"fn1-9\" value=\"9\">D. BONHOEFFER: Widerstand und Ergebung (<sup>13</sup>1966) 226f.</li>\n<li id=\"fn1-10\" value=\"10\">W. BENJAMIN, Schriften 1, 494f.</li>\n<li id=\"fn1-11\" value=\"11\">TH. W. ADORNO: Minima Moralia (<sup>2</sup>1962) 333.</li>\n</ol>",
+ "prev":{"id":807,"lemma":"Erleuchtung","band":"2","col":712},
+ "next":{"id":809,"lemma":"Erlösungswissen","band":"2","col":719},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Heilung","qualifier":"II","band":"2","col":"719"},
+  {"term":"ἀπολύτρωσις","qualifier":"I","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12,"name":"J. G. Fichte","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":26,"name":"Th. W. Adorno","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":63,"name":"K. Barth","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":65,"name":"L. Feuerbach","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":127,"name":"W. Benjamin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":195,"name":"P. Tillich","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":290,"name":"Otto von Freising","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":379,"name":"F. Rosenzweig","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":486,"name":"Baader","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":603,"name":"D. Bonhoeffer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10,"name":"F. Nietzsche","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":133,"name":"Anselm von Canterbury","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":184,"name":"E. von Hartmann","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":199,"name":"O. Kraus","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":797,"name":"L. Richter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2134,"name":"C. Andresen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2948,"name":"A. Grillmeier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3723,"name":"F. Büchsel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4967,"name":"Ph. Vielhauer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10881,"name":"O. Procksch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10706,"name":"J. Gewiess","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8791,"name":"F. Lakner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13989,"name":"F. Bammel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":163,"name":"F. Hoffmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":206,"name":"G. Kittel","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3075,"lemma":"Sünde","tf":6},
+  {"id":1795,"lemma":"Liebe","tf":4},
+  {"id":1156,"lemma":"Gnade","tf":3},
+  {"id":3169,"lemma":"Theologie","tf":3},
+  {"id":2654,"lemma":"Reich, Drittes","tf":2}
+ ],
+ "see_also":[
+  {"id":1156,"lemma":"Gnade"},
+  {"id":1237,"lemma":"Heil, Heilsgeschichte, Heilstatsache"},
+  {"id":2601,"lemma":"Rechtfertigung"},
+  {"id":2932,"lemma":"Soteriologie"}
+ ],
+ "groups":[{"id":44,"name":"Theologie","label":"Erlösung"}],
+ "reg_authors":[{"name":"Schott Erdmann","n":5},{"name":"Theissmann Udo","n":7}]
+}
+);

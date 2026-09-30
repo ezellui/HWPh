@@ -1,0 +1,47 @@
+HWPH.put("a/965",
+{
+ "id":965,
+ "lemma":"Fülle",
+ "band":"2",
+ "kind":"article",
+ "col_from":1132,
+ "col_to":1133,
+ "pdf_from":7260,
+ "pdf_to":7262,
+ "authors":["W. Ullmann"],
+ "n_notes":8,
+ "n_chars":2864,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Fülle (griech. πλήρωμα), im nicht-gnostischen, hier nicht weiter zu verfolgenden Sprachgebrauch soviel wie Vollmaß, Ausfüllung, begegnet als Terminus technicus vorzugsweise im Bereich der valentinianischen Gnosis. Erbesagt dort soviel wie die Gesamtheit der Äonen außerhalb der Schöpfungswelt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – Die in diesem Begriff sich ausdrückende Denkstruktur ist ein konstitutiver Bestandteil aller genuin gnostischen Systeme, auch derer, die das Wort πλήρωμα nicht verwenden. Für diese Denkstruktur ist zweierlei maßgebend: 1. der gnostische Gottesbegriff, der eine dynamische Unendlichkeit meint <sup class=\"fn\" data-fn=\"0-2\">2</sup>, die sich selber erfassen und damit begrenzen muß, wenn sie überhaupt faßbar werden soll <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Das geschieht, indem der gnostische Gott sich selbst in einer zweiten, meist weiblich gedachten Hypostase gegenübertritt. Die sich wiederholenden Selbsterfassungen schaffen das Pleroma, das aus zu Syzygien verbundenen Äonenpaaren besteht. 2. Das Pleroma ist scharf abgegrenzt gegen die Welt der Schöpfung, des Werdens, der Geschichte. – Das Wort πλήρωμα scheint bei der Rezeption christlicher Begriffe in die Gnosis eingedrungen zu sein. Erfüllung der heilsgeschichtlichen Verheißungen im Neuen Testament <sup class=\"fn\" data-fn=\"0-4\">4</sup> wird uminterpretiert in Frucht des übergeschichtlichen Pleromas <sup class=\"fn\" data-fn=\"0-5\">5</sup>. – In der zweiten Hälfte des 3. Jh. ist der technische Gebrauch von πλήρωμα so geläufig geworden, daß die Gnostiker selbst sich als «Kinder der F.» bezeichnen können <sup class=\"fn\" data-fn=\"0-6\">6</sup>. – Bei PLOTIN begegnet der gnostische Gebrauch von πλήρωμα nicht. Der Plotinsche Seinsmonismus läßt die scharfe Abgrenzung gegen die Welt des kosmischen Werdens nicht zu. JAMBLICHOS, PROKLOS und DAMASKIOS kennen das Wort, ohne damit den technisch gnostischen Sinn zu verbinden. – In welchem Verhältnis die kabbalistische Lehre von den 10 innergöttlichen Sephiroth zu gnostischen Pleroma-Vorstellungen steht, hat bisher nicht befriedigend geklärt werden können. Auffallend ist, daß im Buch Bahir (12. Jh.) sogar das Wort in hebräischer Übersetzung (ha male) auftaucht <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Diese jüdische Tradition vermittelte dem abendländischen Denken über J. BÖHME und SCHELLING bis zu den russischen Sophiologen SOLOVJEV und BULGAKOV die Verbindung zu gnostischen Vorstellungen, die es zu ermöglichen schienen, das philosophische Problem der Weltgeschichte aus dem innergöttlichen Pleroma heraus zu durchdringen und zu lösen <sup class=\"fn\" data-fn=\"0-8\">8</sup>. <span class=\"col\" data-col=\"1133\"></span></p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">R. REITZENSTEIN: Poimandres (1904). – GILLES QUISPEL: Gnosis als Weltreligion (1951). – H. JONAS: Gnosis und spätantiker Geist 1. 2 (1954); Ergh. zu 1 (1964).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">IRENÄUS, Adv. haer. I, 2. 3.</li>\n<li id=\"fn0-2\" value=\"2\">So schon im NT 1. Kor. 2, 10; Apok. 2, 24; Act. 8, 10. <span class=\"col\" data-col=\"1133\"></span></li>\n<li id=\"fn0-3\" value=\"3\">IRENÄUS, a. a. O, [1] I, 1. 1.</li>\n<li id=\"fn0-4\" value=\"4\">Eph. 1, 10; Gal. 4. 4.</li>\n<li id=\"fn0-5\" value=\"5\">IRENÄUS, a.a.O. [1]. I, 2, 6.</li>\n<li id=\"fn0-6\" value=\"6\">Pistis Sophia c, 138.</li>\n<li id=\"fn0-7\" value=\"7\">GERSHOM SCHOLEM: Ursprung und Anfänge der Kabbalah (1962).</li>\n<li id=\"fn0-8\" value=\"8\">W. SOLOVJEV, Werke 3 (1954) 326ff.; S. BULGAKOV: Kosmodizee, in: Östliches Christentum, hg. BUBNOFF/EHRENBERG 2 (1925) 223.</li>\n</ol>",
+ "prev":{"id":964,"lemma":"Fulguration","band":"2","col":1130},
+ "next":{"id":966,"lemma":"Fundamentalismus","band":"2","col":1133},
+ "backlinks":[{"id":3252,"lemma":"Überfluß; Überflußgesellschaft","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Fülle der Zeit","qualifier":"","band":null,"col":null},
+  {"term":"pleroma","qualifier":"","band":null,"col":null},
+  {"term":"πλήρωμα","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":389,"name":"Irenäus von Lyon","b":0,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":3021,"name":"S. N. Bulgakov","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":14116,"name":"W. Solovjev","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":28,"name":"Plotin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":93,"name":"Proklos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":154,"name":"J. Böhme","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1025,"name":"Damaskios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2457,"name":"Jamblichos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":10987,"name":"Bubnoff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":20604,"name":"Gershom Scholem","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":353,"name":"H. Jonas","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3751,"name":"R. Reitzenstein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20605,"name":"Gilles Quispel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14117,"name":"Ehrenberg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":1160,"lemma":"Gnosis","tf":2},{"id":3585,"lemma":"Werden/Vergehen","tf":2}],
+ "see_also":[{"id":3676,"lemma":"Zeit"}],
+ "groups":[{"id":44,"name":"Theologie","label":"Fülle"}],
+ "reg_authors":[{"name":"Ullmann Wolfgang","n":5}]
+}
+);

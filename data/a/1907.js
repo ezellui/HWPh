@@ -1,0 +1,47 @@
+HWPH.put("a/1907",
+{
+ "id":1907,
+ "lemma":"Megarisch",
+ "band":"5",
+ "kind":"article",
+ "col_from":1002,
+ "col_to":1003,
+ "pdf_from":19037,
+ "pdf_to":19040,
+ "authors":["A. Müller"],
+ "n_notes":12,
+ "n_chars":3131,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Megarisch. Die Megarische Schule (M.S.) – gegründet um 380 v.Chr. von EUKLEIDES VON MEGARA und fortgeführt durch EUBULIDES VON MILET, DIODOROS KRONOS, ALEXINOS und STILPON – knüpft zugleich an die Eleaten und an Sokrates an, sofern sie das Eine des Parmenides und das Gute des Sokrates für einerlei und für allein seiend erklärt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Um dies Schema durchzuhalten, beruhigt man sich angesichts der Verschiedenheit möglicher Ordnungsgrößen mit dem parmenideischen Argument <sup class=\"fn\" data-fn=\"0-2\">2</sup>, diese liege bloß in den Namen, nicht in der Sache <sup class=\"fn\" data-fn=\"0-3\">3</sup>; entzieht man der sinnlichen Wahrnehmung jegliche Autorität; leugnet mit Zenon die Bewegung <sup class=\"fn\" data-fn=\"0-4\">4</sup> und umgeht die aristotelische Unterscheidung von Dynamis und Energeia durch Leugnung der Möglichkeit als einer Modalitätskategorie des Wirklichen – eine These, die Aristoteles, bei dem an dieser Stelle die Megariker erstmals als solche apostrophiert werden, unter Verweis auf die Struktur der Techne widerlegt <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Die M.S. hat Platons im ‹Sophistes› erstmals vollzogenen Schritt, die sinnfällige Wirklichkeit zur Vernunftordnung zu vermitteln <sup class=\"fn\" data-fn=\"0-6\">6</sup>, nicht mitgemacht; daher kennzeichnet sie eine auffällige Beziehungslosigkeit von Theorie und Praxis. Theorie wird Eristik, eine an ihren Folgen – von religionskritischer Anwendung <span class=\"col\" data-col=\"1003\"></span> abgesehen <sup class=\"fn\" data-fn=\"0-7\">7</sup> – uninteressierte Spielerei <sup class=\"fn\" data-fn=\"0-8\">8</sup>, deren megarische Variante ihre Argumente in der Form vorträgt, daß sie, die Prämissen überspringend, unmittelbar gegen die Schlußsätze zielt, um deren Unmöglichkeit zu erweisen <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Umgekehrt erinnert der megarische Begriff der Praxis an das kynische Lebensideal <sup class=\"fn\" data-fn=\"0-10\">10</sup>, sofern sich dieses in seiner Selbstgenügsamkeit theoretischer Begründung unbedürftig weiß. – Megarisch bedeutet hiernach Festhalten an der archaischen Metaphysik, die aber nach Sokrates nur als schlechtes Zugleich von Eleatismus und sophistischer Eristik <sup class=\"fn\" data-fn=\"0-11\">11</sup> möglich ist.</p>\n<p>Unter diesen Umständen sind die Megariker selbst nicht schuldlos daran, daß sie wirkungsgeschichtlich nur wenig Spuren hinterließen. Dies bestätigt N. HARTMANN gerade bei seiner Anknüpfung an den «Megarischen Möglichkeitsbegriff», wenn er dessen Originalfassung, «möglich sei überhaupt nur das Wirkliche», so deutet: «Möglich war nur das eine, das hinterher wirklich wird. Möglich ist also nur, was entweder wirklich ist oder wirklich sein wird.» Hingegen habe Diodoros damit «nach Zenonischer Weise die Unmöglichkeit des Werdens und den Stillstand alles Seienden beweisen» wollen; er hätte aber eine seiner Zeit vorauseilende Folgerung ziehen können, hätte er nicht Möglichsein als «‘Zustandʼ des Seienden neben dem des Wirklichseins gefaßt, sondern als ein im Wirklichsein enthaltenes und vorausgesetztes Modalmoment» <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">A. RÜSTOW: Der Lügner. Theorie, Gesch. und Auflösung (1910). – A. LEVI: Le dottrine filos. della scuola di Megara (Rom 1932).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1003\"></span> CICERO, Luc. 129.</li>\n<li id=\"fn0-2\" value=\"2\">PARMENIDES, VS 28 B 8, 38–41.</li>\n<li id=\"fn0-3\" value=\"3\">DIOGENES LAERTIOS II, 106.</li>\n<li id=\"fn0-4\" value=\"4\">SEXTUS EMPIRICUS, Adv. math. X, 85ff.</li>\n<li id=\"fn0-5\" value=\"5\">ARISTOTELES, Met. 1046 b 29ff.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. F. D. SCHLEIERMACHER (Hg.): PLATONS Werke (<sup>3</sup>1855) II, 2, 140f. zu Soph. 246 b ff.</li>\n<li id=\"fn0-7\" value=\"7\">DIOGENES LAERTIOS II, 116.</li>\n<li id=\"fn0-8\" value=\"8\">a.O. II, 108.</li>\n<li id=\"fn0-9\" value=\"9\">II, 107.</li>\n<li id=\"fn0-10\" value=\"10\">VI, 76.</li>\n<li id=\"fn0-11\" value=\"11\">SVF II, 270f.</li>\n<li id=\"fn0-12\" value=\"12\">N. HARTMANN: Möglichkeit und Wirklichkeit (1938) 13; vgl. 184f.</li>\n</ol>",
+ "prev":{"id":1906,"lemma":"Medizin, Heilkunst, Medizinphilosophie","band":"5","col":968},
+ "next":{"id":1908,"lemma":"Mehrhabenwollen","band":"5","col":1003},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":19,"name":"N. Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":621,"name":"Diogenes Laertios","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":90,"name":"Sextus Empiricus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":161,"name":"Parmenides","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3163,"name":"Diodoros Kronos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":11817,"name":"Eubulides von Milet","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":14457,"name":"Eukleides von Megara","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":13530,"name":"Stilpon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23717,"name":"Alexinos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2293,"name":"A. Levi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3149,"name":"A. Rüstow","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":795,"lemma":"Eristik","tf":2},
+  {"id":3315,"lemma":"Unmöglichkeit","tf":2},
+  {"id":2448,"lemma":"Praxis, praktisch","tf":2}
+ ],
+ "see_also":[{"id":705,"lemma":"Eleatismus"}],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Megarisch"}],
+ "reg_authors":[{"name":"Müller Armin","n":19}]
+}
+);

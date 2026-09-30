@@ -1,0 +1,27 @@
+HWPH.put("a/1103",
+{
+ "id":1103,
+ "lemma":"Gesellschaftsordnung",
+ "band":"3",
+ "kind":"article",
+ "col_from":476,
+ "col_to":476,
+ "pdf_from":8829,
+ "pdf_to":8830,
+ "authors":["R. Herzog"],
+ "n_notes":0,
+ "n_chars":2013,
+ "toc":[["h1","Literaturhinweise",0]],
+ "html":"<p>Gesellschaftsordnung. Der Begriff der Gesellschaftsordnung wird sowohl in einer statisch-deskriptiven als auch in einer dynamisch-normativen Bedeutung verwendet. Im ersteren Sinne bezeichnet er den konkreten Zustand einer konkreten Gesellschaft; dabei kann es sich wiederum um den <i>tatsächlichen</i>, durch Phänomene wie Freiheit, Wettbewerb, zentrale Lenkung, Vermachtung, Stände, Gruppen usw. bestimmten Zustand oder um die <i>rechtliche</i> Ordnung dieser Gesellschaft handeln. Überwiegend wird der Begriff aber in dynamisch-normativem Sinne gebraucht. Er bezeichnet dann die Notwendigkeit bzw. Forderung, einen bestimmten Zustand der Gesellschaft, meist: ein bestimmtes Gesellschaftssystem, herbeizuführen, gleich ob es sich dabei um das liberale System des Individualismus mit einem freien Spiel der Kräfte, um das sozialistische System des Kollektivismus mit starken Planungselementen oder um Zwischenlösungen wie das katholische System des Solidarismus handelt. Neuerdings verliert der Begriff unter dem Einfluß der vorwärtsstrebenden Gesellschaftswissenschaften zunehmend seinen ideologischen Charakter, so daß sich mit ihm auch die Vorstellung einer objektiv fundierten, nicht an einem vorgefaßten Menschenbild orientierten Gesellschaftspolitik (genauer: Gesellschaftsplanung) verknüpft. In diesen Zusammenhang gehören dann nicht nur ökonomische Phänomene, wie Wirtschafts- und insbesondere Konjunkturpolitik, sondern auch die Phänomene der allgemeinen Sozialpolitik, deren Ziel mehr und mehr eine «formierte Gesellschaft» zu sein scheint, ferner der Bevölkerungspolitik (Geburtensteuerung), der Bildungs- und Berufsplanung, in absehbarer Zeit aber z.B. wohl auch der genetischen Planung. Ungeklärt ist bislang, in welchem Umfang die am Einzelmenschen ausgerichteten Gesellschaften der westlichen Welt die Möglichkeiten dieser Planung für sich ausnutzen können, ohne ihre eigene Grundlage aufzugeben.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">R. HERZOG: Der Mensch des technischen Zeitalters als Problem der Staatslehre, in: Evang. Staatslex. (1966) XXI–XLVI.</p>",
+ "prev":{"id":1102,"lemma":"Gesellschaft, industrielle","band":"3","col":475},
+ "next":{"id":1104,"lemma":"Gesellschaftsvertrag, Herrschaftsvertrag","band":"3","col":476},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":1588,"name":"R. Herzog","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}],
+ "mentions":[{"id":1099,"lemma":"Gesellschaft","tf":5},{"id":2340,"lemma":"Phänomen","tf":3}],
+ "see_also":[],
+ "groups":[{"id":42,"name":"Soziologie","label":"Gesellschaftsordnung"}],
+ "reg_authors":[{"name":"Herzog Roman","n":4}]
+}
+);

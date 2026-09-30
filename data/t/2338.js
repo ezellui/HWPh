@@ -1,0 +1,34 @@
+HWPH.put("t/2338",
+{
+ "b":"Pflichtethik, deontologische Ethik. Den Begriff ‹Deontology› hat J. BENTHAM in die moralphilosophische Terminologie eingeführt. Gegenstand der Deontologie ist für ihn ganz allgemein τὸ δέον, das, was erforderlich und schicklich, «fit, fitting, becoming, proper» ist . Er wählt diesen Ausdruck als Bezeichnung seiner utilitaristisch orientierten Moralphilosophie, die sich als «System of Deontology» mit einer «theoretical» und «practical» Deontologie einerseits und einer «private» und «public» Deontologie andererseits entfalten soll : «... in so far as it takes for its subject matter that part of the field to which Government applies itself, Public Deontology is the name that may be employed: in so far as the application of it is considered as confined to those parts of the field of thought and action which Government has left free, Private Deontology is the name that may be employed. By Private Deontology considered as an art, understand the art of maximizing the net amount of happiness in that part of the field of thought and action which is left free by the power of law and government ...» . Die utilitaristischen Nachfolger Benthams haben seine begriffliche Neuprägung nicht aufgegriffen. Erst J. H. MUIRHEAD , C. D. BROAD und H. A. PRICHARD haben sich wieder des Ausdrucks ‹deontology› bedient, und zwar zum Zwecke der Klassifikation ethischer Theorien. Seither ist die klassifikatorische Grundeinteilung moralphilosophischer Konzeptionen in deontologische und teleologische Ethiken allgemein geworden. \nIm Gegensatz zur teleologischen Ethik, die, endzustandsorientiert, die moralische Richtigkeit von Handlungen nach Maßgabe ihrer Zweckgerichtetheit bestimmt («The concepts of value are fundamental, and the concepts of obligation are definable in terms of them.» ) und damit die Handlungsfolgenbetrachtung in den Mittelpunkt der moralischen Überlegungen rückt, macht die deontologische Ethik (d.E.) die moralische Qualität von Handlungen abhängig von ihrer Normgerechtheit und ihrem intuitiv erfaßbaren Gebotensein («The concepts of obligation are fundamental and the concepts of value are definable in terms of them.» ): «Wir sollen schlechthin tun, was die Pflicht gebeut, ohne über die Folgen zu klügeln» ; «If any one asks us ‘Why ought I to do these acts you call my duty?ʼ, the only answer is ‘Because they are your dutyʼ, and if he does not see this we cannot make him ...; if he sees they are duties, he can no more ask why he ought to do them than why he should believe what is true» . Pflichten sind für den Deontologen unmittelbar einsehbare und innerlich bindende Handlungspräzepte von praktischer Notwendigkeit, die einen direkten, durch keinerlei konsequentialistische Erwägungen abgelenkten Vollzug verlangen . Als Vertreter einer d.E. gelten KANT und FICHTE sowie W. D. ROSS, E. F. CARRITT und H. A. PRICHARD, nicht aber J. BENTHAM; Benthams «Deontology» ist utilitaristisch und gehört damit im klassifikatorischen Sinne nicht zum d., sondern zum teleologischen E.-Typ. \nIn genauer Entsprechung zur Differenz von Regelutilitarismus und Handlungsutilitarismus hat man auch in der deontologischen Theoriekonzeption eine regeldeontologische und eine handlungsdeontologische Variante unterschieden («rule deontology»/«act deontology») . Geht der Regeldeontologe davon aus, daß Pflichterkenntnis und moralisches Handeln regelgeleitet, normorientiert oder, wie bei W. D. Ross, in «prima facie-duties» fundiert sind , so teilt ein Handlungsdeontologe wie H. A. PRICHARD den Regelskeptizismus des Handlungsutilitaristen und vertraut auf die moralischen Intuitionen, die von der unmittelbaren Situationserfassung ausgelöst werden . \nIm deutschen Sprachbereich spricht man gegenwärtig, in der gleichen klassifikatorischen Absicht, anstelle von d.E. auch von Sollensethik und von P. . Diese metaethische Neutralität hat der Ausdruck ‹P.› allerdings nicht immer besessen. Ursprünglich hatte er eine negativ-polemische Bedeutung und war, so bei M. SCHELER, der diesen Begriff vermutlich geprägt, ihm jedenfalls aber in ‹Der Formalismus in der Ethik und die materiale Wertethik› (1916) eine nahezu terminologische Bedeutung gegeben hat, eindeutig auf den «seit Kant so weithin in Deutschland und der deutschen Philosophie gelehrten Pflicht- und Arbeitsheroismus» gemünzt . Die P. ist für Scheler das negative Gegenstück zur «Einsichtsethik» , die der sittlichen Würde des Menschen einzig angemessen ist und seinem Personwert allein gerecht werden kann. In der Ablehnung der P. vereinigen sich alle Facetten der Perhorreszierung des Pflichtkonzepts von Schiller bis Nietzsche : sie ist für Scheler eine Ethik des autoritären Kommandos und des blinden Gehorsams, die mit Nötigung und Einschüchterung operiert und den Menschen sittlich entmündigt. Diese Abneigung gegen die P. wird auch von M. SCHLICK geteilt, der ihr als höherwertig eine «Ethik der Güte» gegenüberstellt, die nicht droht und kein Gesetz aufzustellen braucht, «sondern von selbst im Gemüte Eingang findet» .",
+ "n":"J. BENTHAM: Chrestomathia II (London 1817) 213, Anm. \nDeontology (Oxford 1983) 119; erste Ausgabe: Deontology; or, The sci. of morality: in which the harmony and coincidence of duty and self-interest, virtue and felicity, prudence and benevolence are explained and exemplified. From the mss. of Jeremy Bentham. Arr. and ed. by J. BOWRING 1. 2 (London 1834). \na.O. 249. \nJ. H. MUIRHEAD: Rule and end in morals (London 1932) 3ff. \nC. D. BROAD: Five types of eth. theory (London 1930) 277f. \nH. A. PRICHARD: Moral obligation (Oxford 1949) zit. (London 1968) 114ff. \nBROAD, a.O. [5] 278. \na.O. \nJ. G. FICHTE: Syst. der Sittenlehre (1798) § 27. \nE. F. CARRITT: The theory of morals (London 1928) 29. \nB. BLANSHARD: Reason and goodness (London 1961) chap. VI: Deontology. \nW. K. FRANKENA: Ethics (New York 1963) 15f. (chap. 2); R. T. GARNER/B. ROSEN: Moral philos. (New York 1967) chap. 5; R. GINTERS: Typen eth. Argumentation (1976) Kap. 1. \nW. D. ROSS: The right and the good (London 1930) 16ff. \nPRICHARD, a.O. [6]; W. D. HUDSON: Modern moral philos. (London 1970) chap. 3. \nH. REINER: Die philos. Ethik (1964) Kap. 3. 3. \nG. H. VON WRIGHT: The varieties of goodness (London 1963) 156; F. VON KUTSCHERA: Grundl. der Ethik (1982) Kap. 2. 5. \nM. SCHELER: Der Formalismus in der Ethik ... (1916). Ges. Werke 2 (51966) 15. \na.O. 88. 200. 202. \nVgl. Art. ‹Pflicht›. \nM. SCHLICK: Fragen der Ethik (1930), hg. R. HEGSELMANN (1984) 199–201, bes. 201.",
+ "l":"",
+ "au":"W. Kersting",
+ "A":["W. Kersting"],
+ "cb":[[0,459],[1522,459],[3007,459],[3660,459],[3961,460]],
+ "cn":[
+  [0,459],
+  [0,460],
+  [54,460],
+  [359,460],
+  [370,460],
+  [429,460],
+  [489,460],
+  [563,460],
+  [585,460],
+  [591,460],
+  [641,460],
+  [696,460],
+  [767,460],
+  [937,460],
+  [993,460],
+  [1072,460],
+  [1120,460],
+  [1238,460],
+  [1317,460],
+  [1337,460],
+  [1359,460]
+ ],
+ "cl":[]
+}
+);

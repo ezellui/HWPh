@@ -1,0 +1,12 @@
+HWPH.put("t/3144",
+{
+ "b":"Tektologie (russ. Tektológija; engl. tektology). ‹T.› heißt die vom russischen Arzt, Philosophen und Revolutionär A. ALEKSANDROVIČ BOGDANOV [A. A. MALINÓVSKIJ, 1873–1928] auf der Basis des naturwissenschaftlichen Positivismus formulierte «Allgemeine Organisationswissenschaft», die sich von den speziellen Organisationswissenschaften, z.B. der Ökonomie, der milit. Logistik, der Technologie, der Grammatik usw., durch ihren hohen Abstraktionsgrad unterscheiden und es ermöglichen sollte, «die Aufgaben der Praxis und Theorie wissenschaftlich planmäßig zu lösen» . Die T. stellt das Gleichgewichtsprinzip als Erhaltungssatz der Organisation neben die Erhaltungssätze der Physik. Die T. kann insofern historisches Interesse beanspruchen, als ihre Lehren in der stalinistischen Phase der Sowjetideologie zum «mechanistischen» Verständnis von Dialektik im «dialektischen» Materialismus beigetragen haben. Nach dem Zweiten Weltkrieg wird Bogdanovs T. als Allgemeine Organisationswissenschaft zunehmend in Zusammenhang mit der Allgemeinen Kybernetik und Systemtheorie gebracht und z.T. als Vorläufer moderner Entwicklungen diskutiert .",
+ "n":"Vgl. W. GOERDT: Russ. Philosophie. Texte (1989) 672. \nG. KLAUS: Für und wider die Kybernetik, in: Dtsch. Z. Philos. (Berlin 1962/65) 582–601; Filosofskij enciklopedičeskij slovar' [Philos. enzyklop. Wb.] (Moskau 1983) 57.",
+ "l":"A. BOGDANOV: Tektologija. Vseobščaja organizacionnaja nauka 1 (St. Petersburg 1913), 2 (Moskau 1917), 3 (Berlin 1922) (weit. Aufl.); dtsch.: Allg. Organisationslehre. Tektologie 1–2 (1926/28); Tektologie (Auszüge), in: W. GOERDT s. Anm. [1] (1989) 655–672 (Lit.). – D. GRILLE: Lenins Rivale – Bogdanov und seine Philos. (1966) (Lit.). – A. YASSOUR: Bogdanov et son œuvre. Cah. Monde russe soviét. 10 (1969) 546–584. – G. GORZKA: A. Bogdanov und der russ. Proletkult. Theorie und Praxis einer sozialist. Kulturrevol. (1980) 90–96. – A. DRAGO: Evidence for an alternative in natural sci. (Neapel 1980). – G. GORELIK: Bogdanov's tektology: Its nature, development and influence. Studies Soviet thought 26 (1983) 39–57. – S. N. PUSTYLNIK: Biologičeskie idei tektologii A. A. Bogdanova. K genezu obščeij teorii sistem [Die biolog. Ideen der Tektologie A. A. Bogdanows. Zur Genese der allg. Systemtheorie] (Moskau 1993).",
+ "au":"D. Grille",
+ "A":["D. Grille"],
+ "cb":[[0,969],[1129,970]],
+ "cn":[[0,969],[52,970],[54,970]],
+ "cl":[[0,970]]
+}
+);

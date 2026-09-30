@@ -1,0 +1,57 @@
+HWPH.put("a/1744",
+{
+ "id":1744,
+ "lemma":"Lebensgefühl",
+ "band":"5",
+ "kind":"article",
+ "col_from":119,
+ "col_to":120,
+ "pdf_from":16353,
+ "pdf_to":16357,
+ "authors":["K. Meschede"],
+ "n_notes":19,
+ "n_chars":4611,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Lebensgefühl. Der Begriff ‹L.› wird hauptsächlich in der Lebensphilosophie wichtig. Retrospektiv wurde er dann auch z.B. auf Rousseau, Herder, Jacobi angewandt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Eingang in die Dichtung fand das Wort bei F. MÜLLER, BÜRGER und vornehmlich GOETHE <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Philosophisches Gewicht erhält der Begriff durch NIETZSCHE, bei dem L. (eng verbunden mit Machtgefühl) als «Logik und Zusammenhang des Erlebten» das «Maß von ‘Seinʼ, ‘Realitätʼ, Nicht-Schein» angibt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. In ähnlich umfassendem Sinn verwendet O. SPENGLER ‹L.›, das bei ihm «das Schicksalhafte», die «wahllose Richtung des Daseins» umschließt, «das Mögliche, welches das Leben in seinem Ablauf verwirklicht» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Ausgehend von Nietzsches Unterscheidung von dionysischem und apollinischem Prinzip unterscheidet Spengler zwischen faustischem und apollinischem L. <sup class=\"fn\" data-fn=\"0-5\">5</sup>. H. NOHL verwendet den Begriff in der Ästhetik; mit Bezug auf Nietzsche versteht er Kunst als «Rausch am Leben» und beschreibt den «ästhetischen Zustand des Empfangenden» in der Kunst als «eine Anreizung aller animalischen Funktionen durch Bilder und Wünsche gesteigerten Lebens, eine Erhöhung des L.» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Eine stark antirationalistische Färbung erhält ‹L.› bei L. KLAGES: L. gibt uns letzte «Gewißheit» der «Wirklichkeit des Lebendigseins»; <span class=\"col\" data-col=\"120\"></span> der «Strom des elementaren L.» selbst kann «mit nichts verglichen, auf nichts zurückgeführt, nicht ausgedacht und zergliedert» oder «begriffen» werden <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>W. DILTHEY behandelt das ‹L.› eher als psychophysisches Problem; das «körperliche» L. beruht nach Dilthey auf «Bewegungstrieben» der willkürlichen Muskeln, die mit «Bewegungsmechanismen» gekoppelt sind <sup class=\"fn\" data-fn=\"0-8\">8</sup>; auf psychischer Ebene stellt sich das L. als «Bewußtsein der Kraft» dar <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Auf sozialer Ebene konstatiert Dilthey die «Abhängigkeit des eigenen L. vom Gefühlsverhältnis zu anderen» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. In ähnlicher Weise versteht R. REININGER Leben – physisch – «als eine Summe eigentümlicher Bewegungsverhältnisse darum ‘belebtʼ genannter Körper, und – psychisch – als aktuelles L., als innerliche Daseinsempfindung dieser Körper» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Die «Gesamtheit» dieser psychophysischen «Eigenempfindungen» macht das L. aus, das alle Bewußtseinsvorgänge «begleitet» und trägt <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Die Funktion des L., alle anderen Lebensvorgänge zu tragen, zu durchziehen, zu färben, betonen auch O. F. BOLLNOW, J. VOLKELT und E. ZILSEL <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>Im Gegensatz zu Dilthey und Reininger ist M. SCHELER bemüht, dem L. eine größere Eigenständigkeit zukommen zu lassen; das L. und seine Modi stellen für ihn «eine eigenartige und auf die Schicht der sinnlichen Gefühle <i>unreduzierbare</i> Schicht des emotionalen Lebens» dar <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Daher besteht für Scheler auch die Möglichkeit einer Divergenz zwischen L. und begleitenden sinnlichen Gefühlen <sup class=\"fn\" data-fn=\"0-15\">15</sup>; L. vermag «die vitale ‘Wertbedeutungʼ von Ereignissen und Vorgängen innerhalb und außerhalb meines Körpers – ihren vitalen ‘Sinnʼ gleichsam – evident zu <i>indizieren</i>» und ist so «ein echtes Zeichensystem für den wechselnden Stand des Lebensprozesses» <sup class=\"fn\" data-fn=\"0-16\">16</sup>.</p>\n<p>Für M. de UNAMUNO kann das «tragische L.» die Grundlage «eines kraftvollen, wirksamen Lebens, einer Ethik, einer Ästhetik, einer Religion und sogar einer Logik» bilden <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Das tragische L. beruht auf dem grundlegenden Widerstreit von Vernunft und Leben und ist letztlich «immer ein Gefühl des Hungers nach Gott» <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Es kann von Individuen, aber auch von ganzen Völkern geteilt werden.</p>\n<p>In der <i>Psychologie</i> ist der Begriff ‹L.› vor allem von PH. LERSCH aufgegriffen worden; er unterscheidet: 1. die leiblichen Gefühlszustände als «psychosomatische Gestimmtheiten», in denen sich «dem Erleben die ontische Grundschicht des Lebens» anzeigt, 2. die Stimmungen, die sich zu Lebensgrundstimmungen ausweiten können, und 3. die Erregungsformen des L. (z.B. Angst, Ekstase) <sup class=\"fn\" data-fn=\"0-19\">19</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"120\"></span> Vgl. H. HÖFFDING: Rousseau und seine Philos. (<sup>3</sup>1910) 110; O. F. BOLLNOW: Die Lebensphilos. F. H. Jacobis (1933) 5. 13. 23.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. GRIMM (1855) s.v.; J. W. GOETHE, Hamburger A. 2, 82; 8, 328.</li>\n<li id=\"fn0-3\" value=\"3\">FR. NIETZSCHE, Werke (1911) 16, 14; vgl. Werke, hg. SCHLECHTA 1 (1954) 877.</li>\n<li id=\"fn0-4\" value=\"4\">O. SPENGLER: Der Untergang des Abendlandes 1 (1923) 389f.</li>\n<li id=\"fn0-5\" value=\"5\">a.O. 393ff.</li>\n<li id=\"fn0-6\" value=\"6\">H. NOHL: Die ästhet. Wirklichkeit (1935) 212.</li>\n<li id=\"fn0-7\" value=\"7\">L. KLAGES: Mensch und Erde (1956) 37.</li>\n<li id=\"fn0-8\" value=\"8\">W. DILTHEY, Ges. Schr. 10 (1965) 56.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 60.</li>\n<li id=\"fn0-10\" value=\"10\">14/1, 234.</li>\n<li id=\"fn0-11\" value=\"11\">R. REININGER: Das psychophys. Problem (Wien 1916) 210f.</li>\n<li id=\"fn0-12\" value=\"12\">a.O. 63f.</li>\n<li id=\"fn0-13\" value=\"13\">O. F. BOLLNOW: Das Wesen der Stimmungen (<sup>3</sup>1956) 33ff.; J. VOLKELT: Versuch über Fühlen und Wollen (1930) 22. 43f.; E. ZILSEL: Die Genierelig. 1 (1918) 55.</li>\n<li id=\"fn0-14\" value=\"14\">M. SCHELER: Der Formalismus in der Ethik und die materiale Wertethik (<sup>5</sup>1966) 340.</li>\n<li id=\"fn0-15\" value=\"15\">a.O. 341.</li>\n<li id=\"fn0-16\" value=\"16\">343.</li>\n<li id=\"fn0-17\" value=\"17\">M. de UNAMUNO: Das tragische L. Philos. Werke (1933) 159f.</li>\n<li id=\"fn0-18\" value=\"18\">a.O. 216.</li>\n<li id=\"fn0-19\" value=\"19\">PH. LERSCH: Aufbau der Person (<sup>7</sup>1956) 263ff.</li>\n</ol>",
+ "prev":{"id":1743,"lemma":"Lebensformen","band":"5","col":118},
+ "next":{"id":1745,"lemma":"Lebenskategorien","band":"5","col":121},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"(allg.) 3 1200","qualifier":"(Dilthey)","band":"5","col":"120–122"},
+  {"term":"Eigenempfindungen","qualifier":"","band":"5","col":"120"},
+  {"term":"Gestimmtheit","qualifier":"","band":"5","col":"120"}
+ ],
+ "persons":[
+  {"id":231,"name":"O. F. Bollnow","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":20,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":31,"name":"W. Dilthey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":180,"name":"L. Klages","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":361,"name":"H. Nohl","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":338,"name":"O. Spengler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":261,"name":"Ph. Lersch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":306,"name":"J. Volkelt","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1806,"name":"R. Reininger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3247,"name":"E. Zilsel","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4561,"name":"M. de Unamuno","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":56,"name":"J. Müller","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":845,"name":"H. Höffding","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1485,"name":"P. Bürger","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":292,"name":"K. Schlechta","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2761,"lemma":"Schicht, soziale","tf":2},
+  {"id":1009,"lemma":"Gefühl","tf":3},
+  {"id":1769,"lemma":"Leib, Körper","tf":3},
+  {"id":266,"lemma":"Ästhetik, ästhetisch","tf":2},
+  {"id":1712,"lemma":"Kunst, Kunstwerk","tf":2},
+  {"id":1803,"lemma":"Logik","tf":2}
+ ],
+ "see_also":[{"id":3027,"lemma":"Stimmung"}],
+ "groups":[{"id":2,"name":"Anthropologie","label":"Lebensgefühl"}],
+ "reg_authors":[{"name":"Grosse Wilhelm","n":2},{"name":"Meschede Klaus","n":4},{"name":"Red","n":242}]
+}
+);

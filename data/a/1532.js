@@ -1,0 +1,27 @@
+HWPH.put("a/1532",
+{
+ "id":1532,
+ "lemma":"Karman",
+ "band":"4",
+ "kind":"article",
+ "col_from":701,
+ "col_to":701,
+ "pdf_from":13571,
+ "pdf_to":13571,
+ "authors":["L. Schmithausen"],
+ "n_notes":1,
+ "n_chars":718,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Karman (Tat, Werk). ‹K.› bedeutet zunächst Tat oder Werk im allgemeinen, bezeichnet aber häufig speziell die moralisch oder rituell – d.h. im Sinne des Dharma bzw. seines Gegenteils – qualifizierte Tat. Dabei kann ‹K.› den Vollzug bezeichnen, vor allem aber das unmittelbare Resultat dieses Vollzugs: das dem Täter wie ein feiner Stoff anhaftende Residuum der Tat, das die folgende Existenz des Täters bestimmt und durch den Vollzug dieser Existenz aufgezehrt wird. Die Verwendung von ‹K.› in diesem speziellen Sinne geht höchstwahrscheinlich auf die Stelle Brhadāranyaka-Upanischad III, 2, 13 zurück.</p>\n<p>Im <i>Vaiśeschika</i> hat ‹K.› die spezielle Bedeutung ‹Bewegung› <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">E. FRAUWALLNER: Gesch. der ind. Philos. 1 (1953) 238ff.</li>\n</ol>",
+ "prev":{"id":1531,"lemma":"Karikatur","band":"4","col":696},
+ "next":{"id":1533,"lemma":"Kaste","band":"4","col":701},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Tat (ind.)","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":559,"name":"E. Frauwallner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}],
+ "mentions":[{"id":863,"lemma":"Existenz, existentia","tf":2},{"id":3586,"lemma":"Werk","tf":2}],
+ "see_also":[],
+ "groups":[{"id":15,"name":"Indische Philosophie","label":"Karman"}],
+ "reg_authors":[{"name":"Schmithausen Lambert","n":17}]
+}
+);

@@ -1,0 +1,66 @@
+HWPH.put("a/3458",
+{
+ "id":3458,
+ "lemma":"Verzeitlichung",
+ "band":"11",
+ "kind":"article",
+ "col_from":1026,
+ "col_to":1028,
+ "pdf_from":47707,
+ "pdf_to":47711,
+ "authors":["J. Rohbeck"],
+ "n_notes":16,
+ "n_chars":5516,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Verzeitlichung (engl. <span class=\"col\" data-col=\"1027\"></span> temporalization, temporalizing; frz. temporalisation). In einem genauen Sinn heißt «V.» bei G. SIMMEL die methodische Fixierung eines bestimmten Inhalts an seiner «Zeitstelle» durch das selber zeitlose historische Verstehen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In einem allgemeinen Sinn verwendet A. LOVEJOY den Begriff «temporalizing», um die Ablösung des zeitindifferenten Denkens der Frühaufklärung und namentlich Spinozas deutlich zu machen <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Unter Berufung auf diese Quelle <sup class=\"fn\" data-fn=\"0-3\">3</sup> verwenden R. KOSELLECK <sup class=\"fn\" data-fn=\"0-4\">4</sup> und W. LEPENIES <sup class=\"fn\" data-fn=\"0-5\">5</sup> den Begriff ‹V.›, um zu erklären, wie das historische Bewußtsein im 18. Jh. aufkommt und sich alsbald in Wissenschaft und Philosophie konsolidiert.</p>\n<p>Die Entdeckung der historischen Zeit, wie sie in der Einführung des Kollektivsingulars ‹Geschichte› <sup class=\"fn\" data-fn=\"0-6\">6</sup> sinnfällig wird, setzt die Überwindung der «Chronologie» voraus <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Diese war in eine Krise geraten, als sich die Zeitrechnung der Bibel nicht mehr mit weltlichen Quellen zur Deckung bringen ließ und zudem mit außereuropäischen Chronologien in Konflikt geriet. Überwunden wurden ebenso naturale Zeitvorstellungen, die sich zuvor am Planetenlauf und am Wachstumszyklus orientiert hatten <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die Leitmetapher der Lebensalter (Geburt, Jugend, Alter, Tod) wurde ersetzt durch das Bild der endlosen Kette der Generationen, so daß schließlich auch das Auseinandertreten von Lebenszeit und Weltzeit zum Problem werden konnte <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Die Faszination der Naturbilder blieb gleichwohl erhalten, wo sie selbst ‘verzeitlichtʼ wurden. Während sich die traditionelle ‘<a class=\"xref\" href=\"#/a/2084\">Naturgeschichteʼ</a> <span class=\"sd\">→ (s.d.)</span> auf das Verfahren der Beschreibungen und auf das Erstellen von Taxonomien beschränkt hatte, erhält die Natur nun eine Geschichte im Sinne von Veränderung und ‘<a class=\"xref\" href=\"#/a/759\">Entwicklungʼ</a> <span class=\"sd\">→ (s.d.)</span>. Das empirische Substrat speziell der V. entstammt indessen der Erfahrung historischer Umbrüche um die Mitte des 18. Jh., die KOSELLECK als «Sattelzeit» charakterisiert <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Die wissenschaftliche, technische und ökonomische Entwicklung motiviert den emphatischen Begriff <a class=\"xref\" href=\"#/a/942\">‹Fortschritt›</a> <span class=\"sd\">→ (s.d.)</span>, der nun gleichfalls als Kollektivsingular gefaßt wird. Besonders eindrucksvoll zeigt der Verständniswandel von <a class=\"xref\" href=\"#/a/3367\">‹Utopie›</a> <span class=\"sd\">→ (s.d.)</span> und vorzugsweise L. S. MERCIERS ‹L'An 2440› von 1770, wie die konventionelle Orientierung im Raum an Geltung verliert und durch die Orientierung in der Zeit, vor allem an der Zukunft ersetzt wird <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Im Zeitalter der Aufklärung wird, als Folge dieser Umstellung, eine beschleunigte, kontinuierliche und irreversible Steigerung menschlicher Daseinsverhältnisse unterstellt. Die Vernunft erhält eine Geschichte, die Geschichte eine Vernunft <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>Aus Sicht der Fortschrittsperspektive wird schließlich auch die beobachtbare Vielfalt der Kulturen temporalisiert. Komparative Methoden erleichtern die These, daß verschiedene Kulturstufen nicht nur an gleicher Stelle aufeinanderfolgen, sondern auch gleichzeitig an verschiedenen Orten anzutreffen sind. Die ‘Gleichzeitigkeit des Ungleichzeitigenʼ <sup class=\"fn\" data-fn=\"0-13\">13</sup> bezeichnet das Nebeneinander unterschiedlicher Zeitschichten, die auf variable Tempi der Progression zurückgeführt werden. Die Vorstellung, die Spitze der Zivilisation wandere gleichsam von einem Erdteil zum andern, bestätigt das Modell einer V. der Vernunft, begünstigt aber auch deren erneute ‘Verräumlichungʼ.</p>\n<p>Rückblickend ergibt sich aus diesen Voraussetzungen die Möglichkeit einer Topologie der Aufklärung. Zugleich begünstigt die Perspektive der V. die Wahrnehmung der Diskrepanz von ‘Erfahrungsraumʼ und ‘Erwartungshorizontʼ <sup class=\"fn\" data-fn=\"0-14\">14</sup> und eine entsprechende Ernüchterung, die durch die realgeschichtlichen Erfahrungen des 20. Jh. vertieft wird. P. RICŒUR, der von «temporalisation» spricht, schlägt vor, die Erwartungen an die Zukunft bestimmter und bescheidener zu formulieren <sup class=\"fn\" data-fn=\"0-15\">15</sup>. J. DERRIDA fordert gar eine «Erwartung ohne Erwartungshorizont» <sup class=\"fn\" data-fn=\"0-16\">16</sup>: Es gelte, das Erwartete radikal offenzulassen. <span class=\"col\" data-col=\"1028\"></span></p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">R. KOSELLECK s. Anm. [3] und [4]. – J. ROHBECK: Die Fortschrittstheorie der Aufklärung (1987). – H. LÜBBE: Im Zuge der Zeit. Verkürzter Aufenthalt in der Gegenwart (1992). – P. MATUSSEK (Hg.): Goethe und die Verzeitlichung der Natur (1998). – U. RAULFF: Der unsichtbare Augenblick. Zeitkonzepte in der Geschichte (<sup>2</sup>2000).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1028\"></span> G. SIMMEL: Das Problem der hist. Zeit (1916) 12.</li>\n<li id=\"fn0-2\" value=\"2\">A. LOVEJOY: The great chain of being (Cambridge 1936) 242; dazu kritisch: A. SEIFERT: ‘V.ʼ. Zur Kritik einer neueren Frühneuzeitkategorie. Z. hist. Forsch. 10 (1983) 447–477.</li>\n<li id=\"fn0-3\" value=\"3\">R. KOSELLECK: Moderne Sozialgeschichte und hist. Zeiten, in: Zeitschichten (2000) 317–335, 324.</li>\n<li id=\"fn0-4\" value=\"4\">Art. ‹Fortschritt›, in: O. BRUNNER/W. CONZE/R. KOSELLECK (Hg.): Geschichtl. Grundbegriffe 2 (1979) 351–423, 377; Art. ‹Geschichte, Historie›, a.O. 593–717, 680; Vergangene Zukunft (1979) 58. 122. 188. 321.</li>\n<li id=\"fn0-5\" value=\"5\">W. LEPENIES: Das Ende der Naturgeschichte (1976) 16ff.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. Art. <a class=\"xref\" href=\"#/a/1085\">→ Geschichte III.</a>. Hist. Wb. Philos. 3 (1974) 352–361.</li>\n<li id=\"fn0-7\" value=\"7\">LEPENIES, a.O. [5] 9ff.</li>\n<li id=\"fn0-8\" value=\"8\">KOSELLECK: Art. ‹Fortschritt›, a.O. [4] 372ff.; LEPENIES, a.O. 13f.; vgl. J. SCHLOBACH: Zyklentheorie und Epochenmetaphorik (1980) 136ff.</li>\n<li id=\"fn0-9\" value=\"9\">H. BLUMENBERG: Lebenszeit und Weltzeit (1986) 180ff.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. KOSELLECK: Einl., in: BRUNNER/W. CONZE/R. KOSELLECK (Hg.), a.O. [4] 1 (1979) XV; zur Herkunft der Metapher vgl. R. KONERSMANN: Komödien des Geistes. Hist. Semantik als philos. Bedeutungsgeschichte (1999) 217.</li>\n<li id=\"fn0-11\" value=\"11\">R. KOSELLECK: Die V. der Utopie [1982], in: Zeitschichten – Studien zur Historik (2000) 131–149.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. Art. <a class=\"xref\" href=\"#/a/3424\">→ Vernunft, historische</a>.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. Art. <a class=\"xref\" href=\"#/a/3297\">→ Ungleichzeitigkeit</a>.</li>\n<li id=\"fn0-14\" value=\"14\">KOSELLECK: Verg. Zukunft, a.O. [4] 349ff.</li>\n<li id=\"fn0-15\" value=\"15\">P. RICŒUR: Temps et récit 3 (Paris 1985) 306. 310–312.</li>\n<li id=\"fn0-16\" value=\"16\">J. DERRIDA: Spectres de Marx (Paris 1993) 111.</li>\n</ol>",
+ "prev":{"id":3457,"lemma":"Verzeihen; Vergeben","band":"11","col":1020},
+ "next":{"id":3459,"lemma":"Verzweiflung","band":"11","col":1028},
+ "backlinks":[{"id":3253,"lemma":"Übergang","n":1},{"id":3678,"lemma":"Zeitgeist","n":1}],
+ "outlinks":[
+  {"id":759,"lemma":"Entwicklung","n":1},
+  {"id":942,"lemma":"Fortschritt","n":1},
+  {"id":1085,"lemma":"Geschichte, Historie","n":1},
+  {"id":2084,"lemma":"Naturgeschichte","n":1},
+  {"id":3297,"lemma":"Ungleichzeitigkeit","n":1},
+  {"id":3367,"lemma":"Utopie","n":1},
+  {"id":3424,"lemma":"Vernunft, historische","n":1}
+ ],
+ "register":[
+  {"term":"(ling.) 3 1202","qualifier":"","band":"11","col":"1027"},
+  {"term":"Erfahrungsraum","qualifier":"","band":"11","col":"1027"},
+  {"term":"Sattelzeit","qualifier":"","band":"11","col":"1027"},
+  {"term":"temporalization","qualifier":"","band":null,"col":null},
+  {"term":"Zeitstelle","qualifier":"","band":"11","col":"1026"}
+ ],
+ "persons":[
+  {"id":159,"name":"R. Koselleck","b":2,"n":7,"l":1,"editor":0,"role":"scholar"},
+  {"id":1305,"name":"W. Lepenies","b":1,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":74,"name":"G. Simmel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":193,"name":"J. Derrida","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":307,"name":"P. Ricœur","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":751,"name":"A. O. Lovejoy","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":97,"name":"H. Blumenberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":264,"name":"O. Brunner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1210,"name":"Brunner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2152,"name":"A. Seifert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1797,"name":"L. S. Mercier","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8075,"name":"J. Schlobach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":244,"name":"H. Lübbe","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":4387,"name":"P. Matussek","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3574,"name":"J. Rohbeck","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8294,"name":"U. Raulff","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":336,"name":"W. Conze","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":1158,"name":"R. Konersmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":819,"lemma":"Erwartung","tf":2},
+  {"id":3573,"lemma":"Weltorientierung; Orientierung","tf":2},
+  {"id":3708,"lemma":"Zukunft; Vergangenheit","tf":2},
+  {"id":289,"lemma":"Aufklärung","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[{"id":3297,"lemma":"Ungleichzeitigkeit"},{"id":3424,"lemma":"Vernunft, historische"}],
+ "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Verzeitlichung"}],
+ "reg_authors":[{"name":"Rohbeck Johannes","n":2}]
+}
+);

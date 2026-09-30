@@ -1,0 +1,46 @@
+HWPH.put("a/1079",
+{
+ "id":1079,
+ "lemma":"Geopolitik",
+ "band":"3",
+ "kind":"article",
+ "col_from":327,
+ "col_to":328,
+ "pdf_from":8370,
+ "pdf_to":8372,
+ "authors":["E. Winkler"],
+ "n_notes":2,
+ "n_chars":2818,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Geopolitik (von griech. γῆ, Erde, und πόλις, Stadt, Stadtstaat, Staat) ist ein um 1900 vom schwedischen Politiker und Staatsrechtslehrer R. KJELLÉN (1864–1922) gebildeter Ausdruck für die als Teildisziplin einer umfassenden Staatswissenschaft konzipierte «Lehre über den Staat als geographischen Organismus oder Erscheinung im Raum: also den Staat als Land, Territorium, Gebiet, oder, am ausgeprägtesten, als <i>Reich</i>» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Kjellén stellte neben sie die Schwesterwissenschaften Demo-, Wirtschafts-, Sozio-und Herrschaftspolitik (Staat als Volk, Haushalt, Gesellschaft und Regiment), welches System er der früheren, den Staat vornehmlich als Rechtsobjekt auffassenden Politikwissenschaft entgegensetzte, wobei die G. für ihn eine maßgebliche Basis bildete. Hierbei leiteten ihn namentlich die Lehren F. RATZELS (1844–1904) <sup class=\"fn\" data-fn=\"0-2\">2</sup>, des Begründers der politischen <i>Geographie</i> (deren Gegenstand freilich mehr die vom Staat geprägte Landschaft ist), aber auch anderer Vorläufer (<i>Platon, M. Agrippa, J. Bodin, Montesquieu, W. Petty, H. Järta, A. T. Mahan</i>).</p>\n<p>Für die Entwicklung der G. wurde der Erste Weltkrieg entscheidend. Sie wuchs sich, gefördert vor allem durch K. HAUSHOFER (1869–1946), besonders in Deutschland zum «geographischen Gewissen des Staates» aus, dessen sich vorab die Diktatoren <span class=\"col\" data-col=\"328\"></span> teilweise rigoros bedienten, wodurch die G. bei der Wissenschaft in Mißkredit geriet. Die Tatsache der Mitbestimmtheit des Staatslebens durch die Natur der Erde war damit jedoch nicht aus der Welt zu schaffen, weshalb in der Folge immer wieder Rehabilitierungsversuche der G. unternommen wurden.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">R. KJELLÉN: Grundriß zu einem System der Politik (1920); Die Großmächte vor und nach dem Weltkriege, hg. K. HAUSHOFER (1930). – K. HAUSHOFER u.a.: Bausteine zur G. (1928). – L. de MARCHI: Fondamenti di geogr. polit. (Padua 1929). – K. A. WITTFOGEL: G., geogr. Materialismus und Marxismus. Unter dem Banner des Marxismus 3 (1929) 17–51. 485–522. 698–735. – J. ANCEL: Géopolitique (Paris 1936). – E. H. SHORT: Esquisse de géopolitique (Paris 1936). – E. A. WALSH: Essay on geopolitics. Origin, meaning and value in the polit. economy of total war (Washington 1942). – G. A. GYÖRGY: Geopolitics (Berkeley 1944). – E. WINKLER: K. Haushofer und die dtsch. G. Schweiz. Mh. Politik u. Kultur 27 (1947) 29–35. – J. N. SEMENOV: Fashistskaia Geopolitika na Sluzhbe Amerikanskogo Imperializma (Moskau <sup>2</sup>1954). – P. SCHÖLLER: Wege und Irrwege der polit. Geogr. und G. Erdkunde 11 (1957) 1–20 (Lit.). – A. GRABOWSKY: Raum, Staat und Gesch.: Grundl. einer G. (1960). L. K. KRISTOF: The origins and evolution of geopolitics. Conflict resolutions 4 (1960) 15–51 (Lit.). – H. J. de BLIJ: Systematic polit. geogr. (New York 1967).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"328\"></span> J. KJELLÉN: Statem som Lifsform (Stockholm 1916); dtsch. Der Staat als Lebensform (1916) 46.</li>\n<li id=\"fn0-2\" value=\"2\">R. RATZEL: Polit. Geogr. (1897, <sup>3</sup>1923).</li>\n</ol>",
+ "prev":{"id":1078,"lemma":"Geometrie","band":"3","col":324},
+ "next":{"id":1080,"lemma":"Geopsychisch","band":"3","col":328},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Geographie, politische","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":4386,"name":"R. Kjellén","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":1277,"name":"F. Ratzel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5037,"name":"K. Haushofer","b":1,"n":0,"l":2,"editor":0,"role":"scholar"},
+  {"id":3011,"name":"W. H. Walsh","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5038,"name":"K. A. Wittfogel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7526,"name":"Ch. Short","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5668,"name":"E. Winkler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11051,"name":"J. N. Semenov","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11052,"name":"P. Schöller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14221,"name":"J. Ancel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20800,"name":"L. de Marchi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20801,"name":"G. A. György","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20802,"name":"L. K. Kristof","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20803,"name":"H. J. de Blij","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5669,"name":"A. Grabowsky","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2998,"lemma":"Staat","tf":7}],
+ "see_also":[],
+ "groups":[
+  {"id":12,"name":"Geographie und Geologie","label":"Geopolitik"},
+  {"id":33,"name":"Politische Theorie","label":"Geopolitik"}
+ ],
+ "reg_authors":[{"name":"Winkler Ernst","n":9}]
+}
+);

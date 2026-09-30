@@ -1,0 +1,27 @@
+HWPH.put("a/349",
+{
+ "id":349,
+ "lemma":"Bedeutungserfüllung",
+ "band":"1",
+ "kind":"article",
+ "col_from":759,
+ "col_to":760,
+ "pdf_from":2677,
+ "pdf_to":2677,
+ "authors":["P. Janssen"],
+ "n_notes":5,
+ "n_chars":841,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Bedeutungserfüllung. E. <span class=\"col\" data-col=\"760\"></span> HUSSERL zeigt in den ‹Logischen Untersuchungen›, daß jeder Ausdruck wesenhaft eine Bedeutung intendiert. Hierdurch bezieht er sich auf Gegenständliches <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die Aktualisierung und Realisierung der vom Ausdruck intendierten Beziehung auf Gegenständliches erfolgt in der «Anschauung» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Sie ist dem Ausdruck als solchem außerwesentlich, steht aber «in der logisch fundamentalen Beziehung zu ihm», daß sie seine Intention erfüllt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die sich in diesem Falle mit den bedeutungverleihenden zu einer Einheit verschmelzenden Akte bezeichnet Husserl als «bedeutungerfüllende Akte» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Erfüllt sich die Bedeutungsintention, so konstituiert sich der vermeinte Gegenstand «als gegebener» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">E. HUSSERL: Log. Untersuchungen II/1: Untersuchungen zur Phänomenol. und Theorie der Erkenntnis (<sup>5</sup>1968) 37.</li>\n<li id=\"fn0-2\" value=\"2\">ebda.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. 38.</li>\n<li id=\"fn0-4\" value=\"4\">ebda.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 50f.</li>\n</ol>",
+ "prev":{"id":348,"lemma":"Bedeutung","band":"1","col":757},
+ "next":{"id":350,"lemma":"Bedeutungsintention","band":"1","col":760},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":350,"lemma":"Bedeutungsintention"}],
+ "groups":[{"id":31,"name":"Phänomenologie","label":"Bedeutungserfüllung (Husserl)"}],
+ "reg_authors":[{"name":"Janssen Paul","n":26}]
+}
+);

@@ -1,0 +1,27 @@
+HWPH.put("a/1482",
+{
+ "id":1482,
+ "lemma":"Intersensual",
+ "band":"4",
+ "kind":"article",
+ "col_from":520,
+ "col_to":520,
+ "pdf_from":13008,
+ "pdf_to":13008,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":326,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Intersensual. Nach einem Vorschlag von R. CARNAP <sup class=\"fn\" data-fn=\"0-1\">1</sup> nennt man Aussagen über die (nicht-phänomenalen) physikalischen Zustände <i>intersensual</i> gültig, weil ihre empirische Überprüfung nicht an die Wahrnehmungen eines bestimmten Sinnes gebunden ist.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">R. CARNAP: Die physik. Sprache als Universalsprache der Wiss. Erkenntnis 2 (1931) 445.</li>\n</ol>",
+ "prev":{"id":1481,"lemma":"Interrogativlogik","band":"4","col":518},
+ "next":{"id":1483,"lemma":"Intersubjektiv","band":"4","col":521},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":36,"name":"R. Carnap","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":2369,"lemma":"Physikalismus"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Intersensual (Carnap)"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

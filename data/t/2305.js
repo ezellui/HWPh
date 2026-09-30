@@ -1,0 +1,33 @@
+HWPH.put("t/2305",
+{
+ "b":"Perceptions, petites. Durch den Begriff ‹p.p.› (bzw. ‹perceptions insensibles›, ‹indistinguables›, ‹imperceptibles›), einen Grundbegriff der Monadologie, bezeichnet LEIBNIZ Vorstellungen, die die Seele besitzt, ohne ihrer bewußt zu sein, weil sie zu schwach, zu zahlreich oder zu gleichförmig sind, um gesondert bemerkt und behalten werden zu können. Häufig verwendete populäre Analogien sind das Brausen des Meeres, das Rauschen eines Wasserfalles, das Gemurmel einer Volksmenge . Psychologische Analogien bilden Zustände der Benommenheit wie Schwindel, Betäubung, Ohnmacht . Problematisch ist die Analogie zum Differential der Infinitesimalrechnung . \nDer Sache nach ist der Begriff schon 1687 im § 33 des ‹Discours de métaphysique› angelegt, dem Wort nach wird er in den ‹Nouveaux essais› eingesetzt, und zwar in der These vom virtuellen Eingeborensein der Ideen und im Verfolg der Streitfrage, ob die Seele immer denke. Der Einsatz der p.p. ist folgenreich für die Pneumatologie (bes. für die Verfassung des menschlichen Geistes) und für die Metaphysik als Monadologie. \nDie p.p. motivieren den Willen zu seinen ‘instinktivenʼ Handlungen («actions indélibérées») und lassen die Hypothese der Indifferenz bei Entscheidungen des Willens nicht zu ; sie sind als «petites sollicitations imperceptibles» gleichsam die Unruhe («inquiétude») im Gange der Vorstellungen und fungieren als Vor- und Erregungsstufen von Lust, Schmerz, Neigung, Leidenschaft und Gewohnheit ; aus ihrem ununterbrochenen Fortwirken entstehen die unfreiwilligen und ungerufenen Vorstellungen («pensées volantes», dtsch. «fliegende Gedanken») , und die p.p. konstituieren überhaupt erst die Identität der Seele der Zahl nach («identité réelle et physique») . Zudem bilden sie das in der Ästhetik viel diskutierte ‘je ne sais quoiʼ, das unerklärliche Element des Geschmacks . \nVor allem aber stützt die Hypothese von den p.p. Hauptthesen des metaphysischen Systems: über Tod, Leben und Sein. Tod («mort à la rigueur») ist Auslöschung nicht bloß des Selbstbewußtseins, sondern gerade auch der p.p.; Leben umgreift auch Wesen im niedersten Bewußtseinsgrad der p.p.; wahres Sein stuft sich graduell nach dem Maße deutlichen Bewußtseins ab, bis zum unmerklichen Bewußtseinsstand der «Monade toute nue». Und was wahrhaft ist, ist durch die p.p. individuell unterschieden. Dabei ist in jedem Individuum in unmerklicher, d.i. wahrhaft endlicher Weise das unendliche Ganze von Zeit und Welt mitgegenwärtig, weil jede endliche Perzeption aus einer Unendlichkeit von p.p. besteht . (Vgl. die monadologische Zeitigung der Teile der Zeit: «On peut même dire qu'en consequence de ces p.p. le present est gros de l'avenir et chargé du passé» .) So bestätigt der Hilfsbegriff der p.p., daß wahrhaft Seiendes durch Individualität und Universalität geprägt ist. \nDie p.p. bilden einen Elementarbegriff für eine neue Naturphilosophie und für die Philosophie des Unbewußten. SCHELLINGS Auslegung des einen Wesens der Natur in der notwendigen Stufenfolge des Zu-sich-selbst-Kommens und die Fassung des Objektiven (der Materie) als eines Objektiv-Subjektiven greifen auf die Lehre von den p.p., «den Perzeptionen von der dumpfesten Gattung» , zurück. «Diese Lehre wurde von Leibniz zu seiner Zeit ausgedrückt als Lehre von den blinden Vorstellungen und Perzeptionen» . Von da wird einsichtig, daß Bewußtsein nicht zufällig zur Materie hinzukommt: «Materie ist als Materie auch schon Perzeptivität», «die in den tieferen Potenzen zu einem dumpfen Zustand zurückgesunken ist» . \nIn eine ‘physiologische Anthropologieʼ werden die p.p. («Vorstellungen, die wir haben, ohne uns ihrer bewußt zu sein») durch KANT verwiesen . Dabei wird zugestanden, daß «das Feld dunkler Vorstellungen das größte im Menschen ist», und es wird ein Zusammenhang zwischen Geschlechtsliebe und dem Unbewußten angezeigt. MAIMON hat die p.p. als Differentiale des Bewußtseins zur Erklärung des Dinges an sich als eines Grenzbegriffs herangezogen . HERBART übernimmt (hierin ist ihm REINHOLD vorangegangen ) den Leibnizschen Gedanken infinitesimal ‘kleiner Vorstellungenʼ in seine mathematisch gegründete ‹Psychologie als Wissenschaft› . E. VON HARTMANN polemisiert gegen die Schwäche des Begriffs, «der schon im gewöhnlichen Namen p.p. liegt» : Die Auffassung vom Unbewußten als kleinstem Grad an Bewußtheit zerstöre den wahren Begriff des absolut Unbewußten. Aber er hat Leibniz das «ungeheure Verdienst» zugestanden, das Unbewußte entdeckt und die Tragweite dieser Entdeckung erkannt zu haben. Und diese Entdeckung schlägt bis zur Phänomenologie des inneren Zeitbewußtseins und zu den Analysen der passiven Synthesis in der neuen Monadologie Husserls durch. «Ces p.p. sont donc de plus grande efficace par leur suites qu'on ne pense» .",
+ "n":"G. W. LEIBNIZ: Nouv. ess., Préf. Philos. Schr., hg. C. I. GERHARDT 5, 47; Disc. de mét. § 33, a.O. 4, 459; Eclaircissement ..., a.O. 4, 521 u.ö. \nVgl. Monadol. § 20–24; Princ. de la nat. § 4. \nVgl. S. MAIMONS Erklärung der Dinge an sich als Differentiale des Bewußtseins, in: Versuch über die Transzendentalphilos. (1790) 2. Abschn., 27ff. \nLEIBNIZ: Nouv. ess. II, chap. 1, a.O. [1] 5, 152. \nPréf., a.O. 48f. \nII, 21, a.O. 163. \nII, 27, a.O. 213–229. \na.O. [5]. \na.O.; vgl. Eclairc, a.O. 4, 523. \na.O. \nF. W. J. SCHELLING: System der ges. Philos. und der Naturphilos. insbes. Sämmtl. Werke, hg. K. F. A. SCHELLING 6, 280. \na.O. 458f. \n433. \nI. KANT: Anthropologie I, § 5. Akad.-A. 7, 135. \nMAIMON, a.O. [3]. \nC. L. REINHOLD: Versuch einer Theorie des menschl. Vorstellungsvermögens (1789) III, § 38. \nJ. F. HERBART: Psychol. als Wiss. (1824f.) I, § 18. \nE. VON HARTMANN: Philos. des Unbewußten. Ausgew. Werke (21889) 7, 16. \nLEIBNIZ, a.O. [5].",
+ "l":"E. HOHENEMSER: Die Lehre von den kleinen Vorst. bei Leibniz (1899). – R. HERBERTZ: Die Lehre vom Unbewußten im System des Leibniz (1905). – H. GANZ: Das Unbewußte bei Leibniz in Beziehung zu mod. Theorien (1917). – H. STRAHM: Die «p.p.» im System von Leibniz (Bern 1930). – J. P. DAY/G. N. VESEY: Unconscious perception. Proc. Arist. Soc. Suppl. (1960). – H. WOLFF: Leibniz. Skepsis und Allbeseelung (Bern 1961). – M. KULSTADT: Two arguments on p.p. Rice Univ. Studies 63 (1977) 57–68. – R. BÖHLE: Der Begriff des Individuums bei Leibniz (1978).",
+ "au":"W. Janke",
+ "A":["W. Janke"],
+ "cb":[[0,236],[22,237],[654,237],[1075,237],[1847,237],[2552,238],[2816,238],[3526,238]],
+ "cn":[
+  [0,236],
+  [0,238],
+  [146,238],
+  [193,238],
+  [341,238],
+  [392,238],
+  [410,238],
+  [429,238],
+  [452,238],
+  [463,238],
+  [497,238],
+  [503,238],
+  [623,238],
+  [635,238],
+  [641,238],
+  [690,238],
+  [709,238],
+  [801,238],
+  [854,238],
+  [925,238]
+ ],
+ "cl":[[0,238]]
+}
+);

@@ -1,0 +1,98 @@
+HWPH.put("a/3492",
+{
+ "id":3492,
+ "lemma":"Vorgeschichte",
+ "band":"11",
+ "kind":"article",
+ "col_from":1186,
+ "col_to":1188,
+ "pdf_from":48207,
+ "pdf_to":48214,
+ "authors":["U. Kösser"],
+ "n_notes":33,
+ "n_chars":9292,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Vorgeschichte (engl. prehistory; frz. préhistoire) ist zum einen ein geschichtsphilosophischer Terminus, der mangelnde Überlieferung kompensiert sowie historische Entwicklungsphasen strukturiert und wertet; er bezeichnet die Summe des Vorangegangenen, das der Erhellung des Späteren, ‹Nachgeschichte› genannt, dienen und Elemente dieser Phase plausibel machen soll. Zum anderen bezeichnet er eine geschichtswissenschaftliche Disziplin, die den Zeitraum der Menschheit vor dem Beginn derschriftlichen Überlieferung untersucht.</p>\n<p>Die <i>geschichtsphilosophische</i> Verwendung des Begriffs kommt im 18. Jh. auf <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die Norm des Geschichtskonzepts führt zur Ausklammerung eines Zeitraumes aus der ‘eigentlichen Geschichteʼ – so explizit ausgesprochen bei A. L. SCHLÖZER: «Es sei mir erlaubt, diese ganze Geschichte vom Anfang der Welt bis auf den Anfang Roms oder vielmehr die ärmlichen Überreste derselben, von der übrigen Weltgeschichte gänzlich zu trennen, sie V. zu nennen» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Der so isolierte Zeitraum, der sich dem soeben normierten Begriff der Geschichte entzieht <sup class=\"fn\" data-fn=\"0-3\">3</sup>, wird als ‘V.ʼ Gegenstand von Philosophie und Geschichtstheorie. Einstweilen bestehende Überlieferungslücken hinsichtlich des Entwicklungsstandes der Menschheit in dieser Zeit werden spekulativ geschlossen, etwa durch die sog. <i>Präadamitenthese</i> I. LAPEYRÈRES <sup class=\"fn\" data-fn=\"0-4\">4</sup> oder durch die zeitgenössische Hypothese über eine <i>antediluviale Hochkultur</i> <sup class=\"fn\" data-fn=\"0-5\">5</sup> oder die als Modifikation der Atlantis-Sage begreifbare <i>Urvolkhypothese,</i> die J.-S. BAILLY <sup class=\"fn\" data-fn=\"0-6\">6</sup> vorträgt, G.-L. L. de BUFFON <sup class=\"fn\" data-fn=\"0-7\">7</sup> aufgreift und K. F. VON IRWING <sup class=\"fn\" data-fn=\"0-8\">8</sup> in Deutschland vertritt. Hier überschneiden sich Begriff und Sache der V. mit <a class=\"xref\" href=\"#/a/3342\">‹Urgeschichte›</a> <span class=\"sd\">→ (s.d.)</span> und <a class=\"xref\" href=\"#/a/2095\">‹Naturzustand›</a> <span class=\"sd\">→ (s.d.)</span>.</p>\n<p>Schon in J. G. HERDERS «Philosophie bei Gelegenheit einer Geschichte» <sup class=\"fn\" data-fn=\"0-9\">9</sup> wird die ästhetische Betrachtung der V. deutlich: «Philosoph, willst du den Stand deines Jahrhunderts ehren und nutzen: das Buch der V. liegt vor dir! mit sieben Siegeln verschloßen; ein Wunderbuch voll Weißsagung; auf dich ist das Ende der Tage kommen! lies!» <sup class=\"fn\" data-fn=\"0-10\">10</sup></p>\n<p>Daß die philosophische Spekulation bestehende bzw. neuentdeckte Überlieferungslücken zu schließen habe, ist eine auch im Idealismus geteilte Überzeugung. Insofern er geschichtliche Bewegung überhaupt als Bewegung der Vernunft wie als vernünftige Bewegung faßt, betont er eine Qualität von Geschichte, die sich erst von einem bestimmten Zeitpunkt an, nämlich mit Abschluß der V., herausgebildet habe. So polemisiert F. W. J. SCHELLING gegen eine Auffassung von V., «von der die Historie nichts weiß» <sup class=\"fn\" data-fn=\"0-11\">11</sup>, und bestimmt das «Werden der Mythologie» als den wahren <span class=\"col\" data-col=\"1187\"></span> «Inhalt der vorgeschichtlichen Zeit» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Scharf wendet er sich gegen eine Verwechslung der «<i>un</i>geschichtlichen Völker mit den <i>vor</i>geschichtlichen»: Jene «von allem geschichtlichen Leben ausgestoßenen Racen» können niemals «Musterbilder der ursprünglichen Menschheit» sein <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Schelling unterscheidet zwischen absolut vorgeschichtlicher, relativ vorgeschichtlicher (= vorhistorischer) und geschichtlicher Zeit <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Erst im Gefolge der Völkerdifferenzierung könne auf Taten und vor allem auf Überlieferungen verwiesen werden, in denen Res gestae und Historia rerum gestarum zusammengefaßt seien. Entsprechend kann auch für G. W. F. HEGEL die Geschichte erst da beginnen, «wo die Vernünftigkeit in weltliche Existenz zu treten beginnt» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Erst der Staat liefert die Bedingung der Möglichkeit geschichtlicher Taten und das Bedürfnis, sie aufzubewahren und zu begreifen. Somit sind die Zeiten vor der Geschichtsschreibung ohne objektive Geschichte. Sie sind das aus dem Anfange der Weltgeschichte «auszuschließende Vorgeschichtliche» <sup class=\"fn\" data-fn=\"0-16\">16</sup>.</p>\n<p>K. MARX folgt diesem geschichtsphilosophischen Konzept kritisch und verwendet den Begriff mit neuer Emphase, wenn er die gesamte Klassengesellschaft als V. «der menschlichen Gesellschaft» absetzt <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Dabei verwendet er ‹V.› in mehrfacher Bedeutung: 1) im Sinne SCHELLINGS, wonach die «alten Völker ihre V. in der Imagination» erlebten <sup class=\"fn\" data-fn=\"0-18\">18</sup>; 2) im Zuge der Polemik gegen die Spekulation idealistischer Geschichtsauffassung und deren «Mangel an positivem Material», der den Unterschied von V. und «eigentlicher Geschichte» provoziere <sup class=\"fn\" data-fn=\"0-19\">19</sup>; 3) schließlich, so F. ENGELS, zur Bezeichnung einer Frühphase der Gesellschaft, «die aller niedergeschriebenen Geschichte vorausging» <sup class=\"fn\" data-fn=\"0-20\">20</sup> und die als die «urwüchsige kommunistische Gesellschaft» angesehen wird. Engels bezieht sich dabei auf die Untersuchungen von L. H. MORGAN <sup class=\"fn\" data-fn=\"0-21\">21</sup>.</p>\n<p>Die <i>Geschichtswissenschaft</i> des 19. Jh., namentlich J. G. DROYSEN, spricht von einer Geschichte «ohne alle Grenzen» und weist das Konzept generell zurück <sup class=\"fn\" data-fn=\"0-22\">22</sup>. Gleichwohl bleibt das Sachproblem auch hier bestehen, etwa in Gestalt der sog. ‘primitiven Völkerʼ. Dieser Problematik nimmt sich schließlich die Kulturanthropologie an – in deutlicher Polemik und Absetzung gegen einen abwertenden Begriffsgebrauch von ‹V.› – und spricht von «Völkern ohne Geschichte» <sup class=\"fn\" data-fn=\"0-23\">23</sup>. Die Entwicklung der V. als wissenschaftliche (Hilfs-)Disziplin wird auf diese Weise erleichtert – seit 1825 in Deutschland <sup class=\"fn\" data-fn=\"0-24\">24</sup> und seit 1833 bzw. 1835 in Frankreich und England <sup class=\"fn\" data-fn=\"0-25\">25</sup>. Unabhängig davon nehmen Marxisten den Begriff in der Folgezeit als ausgrenzende und legitimierende Formel <span class=\"col\" data-col=\"1188\"></span> auf (z.B. M. ADLER <sup class=\"fn\" data-fn=\"0-26\">26</sup>, E. BLOCH <sup class=\"fn\" data-fn=\"0-27\">27</sup>, M. HORKHEIMER und H. GROSSMANN <sup class=\"fn\" data-fn=\"0-28\">28</sup>, kritisch reflektiert zuletzt P. BÜRGER <sup class=\"fn\" data-fn=\"0-29\">29</sup>). Unabhängig davon macht W. BENJAMIN die Konstruktion einer Gegenwart geltend, die «das Geschehen in Vor-und Nachgeschichte polarisiert» <sup class=\"fn\" data-fn=\"0-30\">30</sup>.</p>\n<p>Andere Wege geht aus phänomenologischer Sicht J. PATOČKA, wenn er eine ‘natürliche Weltʼ als vorgeschichtliche Welt, als Zustand «vor der Entdeckung ihrer Fraglichkeit» <sup class=\"fn\" data-fn=\"0-31\">31</sup> erläutert. Dieses Natur-Da-Sein ist durch Arbeit des Menschen «für den Verbrauch» charakterisiert <sup class=\"fn\" data-fn=\"0-32\">32</sup>. Einer nichtgeschichtlichen Stufe, die in der Anonymität und im reinen Naturrhythmus verläuft, folge demnach eine vorgeschichtliche, die ein kollektives Gedächtnis in Form von schriftlicher Selbstdarstellung kennt, und darauf dann die eigentliche Geschichte <sup class=\"fn\" data-fn=\"0-33\">33</sup>.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">H. KÜHN: Geschichte der Vorgeschichtsforschung (1976). – A. SEIFERT: Von der heiligen zur philos. Geschichte. Die Rationalisierung der universalhist. Erkenntnis im Zeitalter der Aufklärung. Arch. Kulturgeschichte 68 (1986) 81–117.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1188\"></span> Vgl. J. H. CAMPE: Wb. der dtsch. Sprache (1811) 477 (Art. ‹Vorgeschichte›).</li>\n<li id=\"fn0-2\" value=\"2\">A. L. SCHLÖZER: Vorstellung seiner Universal-Historie (1772) 67.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. Art. <a class=\"xref\" href=\"#/a/1085\">→ Geschichte; Historie</a>. Hist. Wb. Philos. 3 (1974) 344–398.</li>\n<li id=\"fn0-4\" value=\"4\">I. LAPEYRÈRE: Praeadamitae (1655); vgl. M. PETRI: Die Urvolkhypothese. Ein Beitrag zum Geschichtsdenken der Spätaufklärung und des dtsch. Idealismus (1990) 76ff.</li>\n<li id=\"fn0-5\" value=\"5\">J. F. REIMMANN: Versuch einer Einl. in die Historiam literariam antediluvianam (1709); CH. G. BERGER: Antediluviana (1780); vgl. Art. <a class=\"xref\" href=\"#/a/3501\">→ Vorsintflutlich</a>.</li>\n<li id=\"fn0-6\" value=\"6\">J.-S. BAILLY: Hist. de l'astronomie anc., depuis son origine jusqu'à l'établissement de l'école d'Alexandrie (1775).</li>\n<li id=\"fn0-7\" value=\"7\">G.-L. L. de BUFFON: Hist. naturelle gén. et partic. 1–44 (Paris 1749ff.), Suppl.bd. 5: Hist. naturelle des époques de la nature (1798).</li>\n<li id=\"fn0-8\" value=\"8\">K. F. VON IRWING: Versuch über den Ursprung der Erkenntniss der Wahrheit und der Wiss. (1781).</li>\n<li id=\"fn0-9\" value=\"9\">J. G. HERDER: Älteres Kritisches Wäldchen (1767). Werke, hg. G. E. GRIMM 2 (1993) 19.</li>\n<li id=\"fn0-10\" value=\"10\">Auch eine Philos. der Geschichte zur Bildung der Menschheit (1774). Sämmtl. Werke, hg. B. SUPHAN 5 (1891) 561f.</li>\n<li id=\"fn0-11\" value=\"11\">F. W. J. SCHELLING: Philos. der Mythol. in drei Vorles.nachschr. [1837/42], hg. K. VIEWEG/CH. DANZ/G. APOSTOLOPOULOU (1996) 96.</li>\n<li id=\"fn0-12\" value=\"12\">a.O.</li>\n<li id=\"fn0-13\" value=\"13\">Philos. der Mythol., 14. Vorles. [1842–46]. Sämmtl. Werke, hg. K. F. A. SCHELLING II/2 (1857) 296f.</li>\n<li id=\"fn0-14\" value=\"14\">a.O. 163.</li>\n<li id=\"fn0-15\" value=\"15\">G. W. F. HEGEL: Vorles. über die Philos. der Geschichte (1837). Akad.-A. 18 (1995) 190.</li>\n<li id=\"fn0-16\" value=\"16\">a.O. 196.</li>\n<li id=\"fn0-17\" value=\"17\">K. MARX: Zur Kritik der Polit. Ökonomie, Vorwort (1859). MEW 13 (1961) 9.</li>\n<li id=\"fn0-18\" value=\"18\">Zur Kritik der Hegelschen Rechtsphilos. (1842–44). MEW 1 (1956) 383.</li>\n<li id=\"fn0-19\" value=\"19\">Dtsch. Ideologie 1 (1845–46). MEW 3 (1959) 28f.</li>\n<li id=\"fn0-20\" value=\"20\">K. MARX/F. ENGELS: Manifest der Kommunist. Partei (1848). MEW 4 (1959) 462.</li>\n<li id=\"fn0-21\" value=\"21\">Vgl. F. ENGELS: Der Ursprung der Familie, des Privateigenthums und des Staats (1884). MEW 21 (1962); Art. ‹Urkommunismus›.</li>\n<li id=\"fn0-22\" value=\"22\">J. G. DROYSEN: Enzykl. und Methodol. der Geschichte (1857), in: Texte zur Geschichtstheorie, hg. G. BIRTSCH/J. RÜSEN (1972) 16. 12.</li>\n<li id=\"fn0-23\" value=\"23\">Vgl. E. R. WOLF: Die Völker ohne Geschichte. Europa und die andere Welt seit 1400 (1991); vgl. auch: J. PATOČKA: Vom Anfang der Geschichte, in: Ketzerische Essais zur Philos. der Geschichte und ergänzende Schr., hg. K. NELLEN/J. NEMEC (1988) 50–76.</li>\n<li id=\"fn0-24\" value=\"24\">K. LEVEZOW: Andeutungen über die wissenschaftl. Bedeutung der allmählig zu Tage geförderten Alterthümer Germanischen, Slavischen und anderweitigen Ursprungs der zwischen der Elbe und Weichsel gelegenen Länder, und zwar in nächster Beziehung auf ihre Geschichte, in: J. C. L. HAKEN (Hg.): Pommersche Provinzial-Blätter für Stadt und Land 6 (1825) 401–437, hier: 418.</li>\n<li id=\"fn0-25\" value=\"25\">CH. CHIPPINDALE: The invention of words for the idea of ‘Prehistoryʼ. Proceed. Prehistoric Soc. 54 (1988) 303–314.</li>\n<li id=\"fn0-26\" value=\"26\">M. ADLER: Die Kulturbedeutung des Sozialismus (1924) 23.</li>\n<li id=\"fn0-27\" value=\"27\">E. BLOCH: Das Prinzip Hoffnung 3, 55 (1959). Ges.ausg. 5/3 (1977) 1628.</li>\n<li id=\"fn0-28\" value=\"28\">H. GROSSMANN: Br. an M. Horkheimer (1. 8. 1937). Ges. Schr., hg. A. SCHMIDT/G. SCHMID NOERR 16 (1995) 205.</li>\n<li id=\"fn0-29\" value=\"29\">P. BÜRGER: Theorie der Avantgarde (1974) 27.</li>\n<li id=\"fn0-30\" value=\"30\">W. BENJAMIN: Das Passagen-Werk [1927–40]. Ges. Schr., hg. R. TIEDEMANN 5/1–2 (1963) 598.</li>\n<li id=\"fn0-31\" value=\"31\">J. PATOČKA: Vorgeschichtl. Betrachtungen, a.O. [23] 35–47.</li>\n<li id=\"fn0-32\" value=\"32\">Vom Anfang der Gesch., a.O. 51.</li>\n<li id=\"fn0-33\" value=\"33\">a.O. 59.</li>\n</ol>",
+ "prev":{"id":3491,"lemma":"Vorbild","band":"11","col":1184},
+ "next":{"id":3493,"lemma":"Vorgriff; Vorhabe; Vorsicht","band":"11","col":1188},
+ "backlinks":[
+  {"id":3342,"lemma":"Urgeschichte","n":1},
+  {"id":3361,"lemma":"Urzeit; Vorzeit","n":1},
+  {"id":3677,"lemma":"Zeitalter, goldenes","n":1}
+ ],
+ "outlinks":[
+  {"id":1085,"lemma":"Geschichte, Historie","n":1},
+  {"id":2095,"lemma":"Naturzustand","n":1},
+  {"id":3342,"lemma":"Urgeschichte","n":1},
+  {"id":3501,"lemma":"Vorsintflutlich","n":1}
+ ],
+ "register":[
+  {"term":"prehistory","qualifier":"","band":null,"col":null},
+  {"term":"ungeschichtlich","qualifier":"","band":"11","col":"1187"}
+ ],
+ "persons":[
+  {"id":9,"name":"F. W. J. Schelling","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":45,"name":"F. Engels","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18,"name":"J. G. Herder","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":100,"name":"E. Bloch","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":127,"name":"W. Benjamin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":314,"name":"J. G. Droysen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":881,"name":"M. Adler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":865,"name":"G.-L. L. de Buffon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":697,"name":"A. L. Schlözer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1485,"name":"P. Bürger","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5019,"name":"K. F. von Irwing","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4286,"name":"J.-S. Bailly","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10440,"name":"H. Grossmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":54,"name":"A. Schmidt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":111,"name":"M. Horkheimer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":377,"name":"E. Wolf","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":401,"name":"J. Grimm","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":449,"name":"J. H. Campe","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":787,"name":"P. L. Berger","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2139,"name":"L. H. Morgan","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3032,"name":"J. Rüsen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3827,"name":"F. Petri","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3860,"name":"J. F. Reimmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5240,"name":"Ch. Danz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2700,"name":"G. Birtsch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12672,"name":"J. Ch. L. Haken","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":32536,"name":"I. Lapeyrères","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":32537,"name":"I. Lapeyrère","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32539,"name":"G. Apostolopoulou","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32540,"name":"J. Nemec","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32541,"name":"K. Levezow","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32542,"name":"Ch. Chippindale","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2152,"name":"A. Seifert","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":112,"name":"B. Suphan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":240,"name":"R. Tiedemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1427,"name":"G. Schmid Noerr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":18595,"name":"K. Nellen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":32538,"name":"K. Vieweg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":462,"name":"C. G. Kühn","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3260,"lemma":"Überlieferung","tf":3},
+  {"id":3567,"lemma":"Weltgeschichte; Universalgeschichte","tf":2},
+  {"id":1925,"lemma":"Menschheit, Menschengeschlecht","tf":3},
+  {"id":2392,"lemma":"Polemik","tf":2},
+  {"id":2969,"lemma":"Spekulation","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":3},
+  {"id":408,"lemma":"Bewegung","tf":3}
+ ],
+ "see_also":[
+  {"id":2095,"lemma":"Naturzustand"},
+  {"id":3342,"lemma":"Urgeschichte"},
+  {"id":3361,"lemma":"Urzeit; Vorzeit"},
+  {"id":3501,"lemma":"Vorsintflutlich"}
+ ],
+ "groups":[
+  {"id":8,"name":"Epochenbegriffe","label":"Vorgeschichte"},
+  {"id":13,"name":"Geschichtsphilosophie","label":"Vorgeschichte"}
+ ],
+ "reg_authors":[{"name":"Kösser Uta","n":1}]
+}
+);

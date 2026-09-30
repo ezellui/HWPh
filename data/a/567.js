@@ -1,0 +1,27 @@
+HWPH.put("a/567",
+{
+ "id":567,
+ "lemma":"Designator",
+ "band":"2",
+ "kind":"article",
+ "col_from":130,
+ "col_to":130,
+ "pdf_from":4004,
+ "pdf_to":4004,
+ "authors":["G. Gabriel"],
+ "n_notes":1,
+ "n_chars":145,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Designator. Ein D. ist die Entsprechung eines <a class=\"xref\" href=\"#/a/568\">Designatums</a> <span class=\"sd\">→ (s.d.)</span> auf der Ausdrucksebene <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. R. CARNAP: Meaning and necessity (Chicago 1947) 6f.</li>\n</ol>",
+ "prev":{"id":566,"lemma":"Desiderium naturale","band":"2","col":119},
+ "next":{"id":568,"lemma":"Designatum","band":"2","col":130},
+ "backlinks":[{"id":2889,"lemma":"Sinn/Bedeutung","n":1}],
+ "outlinks":[{"id":568,"lemma":"Designatum","n":1}],
+ "register":[],
+ "persons":[{"id":36,"name":"R. Carnap","b":0,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Designator (Carnap)"}],
+ "reg_authors":[{"name":"Gabriel Gottfried","n":51}]
+}
+);

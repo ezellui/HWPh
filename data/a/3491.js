@@ -1,0 +1,85 @@
+HWPH.put("a/3491",
+{
+ "id":3491,
+ "lemma":"Vorbild",
+ "band":"11",
+ "kind":"article",
+ "col_from":1184,
+ "col_to":1186,
+ "pdf_from":48200,
+ "pdf_to":48206,
+ "authors":["K. Helmer"],
+ "n_notes":18,
+ "n_chars":7645,
+ "toc":[
+  ["p4","V. ist nach M. SCHELER «ein strukturierter Wertverhalt in der Einheitsfor",1],
+  ["h6","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Vorbild (griech. τύπος; lat. typus, exemplum, praefiguratio; engl. example; frz. exemple). V. ist ursprünglich ein Bild, das zeitlich einem anderen vorausgeht, «wobei die Beziehung zwischen beiden ... eine ganz verschiedene sein» kann. Veraltet ist der Gebrauch von ‹V.› in «der bedeutung des originals im verhältnis zur copie» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Im Zuge der Bedeutungserweiterung verbindet sich mit ‹V.› eine aufs Wollen und Handeln bezogene Wertvorstellung in der Bedeutung von Muster, <a class=\"xref\" href=\"#/a/2269\">Paradigma</a> <span class=\"sd\">→ (s.d.)</span> und Beispiel <sup class=\"fn\" data-fn=\"0-2\">2</sup>, die zur <a class=\"xref\" href=\"#/a/2054\">Nachahmung</a> <span class=\"sd\">→ (s.d.)</span> dienen.</p>\n<p>In der allegorisch-typologischen Schriftauslegung hat ‹V.› die Bedeutung von ‹praefiguratio› als Vorprägung von Personen, Sachen, Tätigkeiten und Ereignissen des NT im AT <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Bei PAULUS erhält der Begriff ‹Typos› die Bedeutung eines ethischen, auch warnenden V. Im Mittelalter kommt die Vorbildfunktion vor allem dem Gottmenschen Christus zu. Der Mensch kann wegen seiner Unzulänglichkeiten kein V. sein. Gott ist aber aufgrundseiner Vollkommenheit unfaßbar. Bei THOMAS VON AQUIN heißt es mit Rekurs auf AUGUSTINUS: «Das menschgewordene Wort hat uns in sich ein V. für das rechte Tun gegeben. ‘Der Mensch stand sichtbar vor uns, aber er war nicht nachahmenswert; Gott war nachahmenswert, aber nicht sichtbar für uns. Also mußte sich Gott als Mensch den Menschen zeigen, damit sie Ihn sehen und nachahmen konntenʼ» («quantum ad rectam operationem, in qua nobis exemplum se praebuit. Unde Augustinus dicit ...: ‘Homo sequendus non erat, qui videri poterat: Deus sequendus erat, qui videri non poterat. Ut ergo exhiberetur homini et qui ab homine videretur, et quem homo sequeretur, Deus factus est homoʼ») <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Nach der Inkarnationslehre des ANSELM VON CANTERBURY hat Gottes Sohn die Natur des Menschen geadelt und erhöht <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Der Mensch Christus wird für den erlösten Menschen faßbar. Die <a class=\"xref\" href=\"#/a/2059\">Nachfolge</a> <span class=\"sd\">→ (s.d.)</span> wird das Zentrum religiösen Lebens <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Christliche Theologen tadeln früh die unreflektierte Übernahme der heidnischen Artes. AUGUSTINUS – vor seiner Taufe Rhetoriklehrer – schlägt vor, die tradierten Künste als Hilfswissenschaften der Theologie zu unterstellen <sup class=\"fn\" data-fn=\"0-7\">7</sup>, denn allein dem Lehrer Christus bleibt vorbehalten, Wahrheit zu lehren <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die geglückte «imitatio» der heiligen Imitatoren, die als Personen Repräsentanten Christi sind <sup class=\"fn\" data-fn=\"0-9\">9</sup>, ist der Boden für die Exempel-Literatur. Die Reflexion der Verkündigung, begonnen unter Karl dem Großen, auslaufend im 16. Jh., führt zu Predigtenlehren, deren wichtigstes Teilmoment das Predigtexempel wird <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Die ‹Legenda aurea› des JACOBUS de VORAGINE (1288) kann als charakteristisches Beispiel der moralisch-erzieherisch <span class=\"col\" data-col=\"1185\"></span> ausgerichteten hagiographischen Exempelsammlungen gelten. Die Rückführung des Gedankens der «imitatio» in die rhetorische Reflexion u.a. durch DANTE ALIGHIERI und F. PETRARCA <sup class=\"fn\" data-fn=\"0-11\">11</sup> relativiert ihre religiöse Wucht. Im Gegenzug legt M. LUTHER z.B. die «imitatio Christi» als Gehorsam aus und trennt ihren Anspruch von rhetorisch-sprachlicher Vermittlung. Das führt dazu, daß das V. zur Angelegenheit der praktischen Morallehre wird.</p>\n<p>Die Aufklärungsphilosophie verzichtet zugunsten der Idee des autonomen Subjekts auf die Vorstellung eines V., das die Nachfolge fordert: So bemerkt I. KANT: «Was aber die Kraft des Exempels (es sei zum Guten oder Bösen) betrifft, was sich dem Hange zur Nachahmung oder Warnung darbietet, so kann das, was uns Andere geben, keine Tugendmaxime begründen» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Kant siedelt das moralische «Urbild», dem «kein Beispiel in der äußeren Erfahrung adäquat ist», in der «gesetzgebenden Vernunft» an. Man bedarf «keines Beispiels der Erfahrung, um die Idee eines Gott moralisch wohlgefälligen Menschen für uns zum Vorbilde zu machen», denn «sie liegt als ein solches schon in unserer Vernunft» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Auch F. NIETZSCHE wendet sich vom äußeren, vorgegebenen V. ab. Wir müssen «uns selber machen, aus allen Elementen eine Form gestalten». Die «produktiven Menschen» als «Bildhauer» bilden sich im Zuge ihrer <a class=\"xref\" href=\"#/a/2829\">Selbstbildung</a> <span class=\"sd\">→ (s.d.)</span> ihr eigenes V. «Die Erkenntniß hat bestenfalls den Werth eines Mittels!» <sup class=\"fn\" data-fn=\"0-14\">14</sup></p>\n<p id=\"p4\">V. ist nach M. SCHELER «ein strukturierter Wertverhalt in der Einheitsform der Personeinheit, eine strukturierte Sowertigkeit in Personform, der Vorbildhaftigkeit des Gehalts nach aber die Einheit einer Sollseinsforderung, die auf diesen Gehalt fundiert ist». Die «Umbildung», die von einem V. ausgeht, heißt «Folge, Nachfolge, Gefolgschaft», ein «von der Haltung der Hingebung an das Vorbildexempel umspanntes Hineinwachsen des Personseins selbst und der Gesinnung in Struktur und Züge des Vorbildes». V. ist also nicht der besondere, leibliche Mensch, vielmehr die Person als ein «Exemplar» des eigentlichen V. <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Als oberste Muster aller V.er fungieren die «Typen des Heiligen, des Genius, des Helden, des führenden Geistes und des Künstlers des Genusses», in dieser Rang- und Reihenfolge <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Die Möglichkeit dieser an konkreten Personen erscheinenden V.-Typen ist in der Idee Gottes begründet <sup class=\"fn\" data-fn=\"0-17\">17</sup>.</p>\n<p>Der V.-Gedanke verträgt sich nicht ohne weiteres mit einem aufklärerischen, sich an Autonomie und Individualität orientierenden Denken der neuzeitlichen Pädagogik. Unter dem Signum von <a class=\"xref\" href=\"#/a/2322\">Persönlichkeit</a> <span class=\"sd\">→ (s.d.)</span> erscheint der V.-Gedanke in der pädagogisch-didaktischen Literatur der Jahrhundertwende. Die Differenz zwischen V. und sittlichem Beispiel ist für die Pädagogik bedeutsam. Das V.-Erleben ist ein personhaftes Erlebnis. Das Beispiel dagegen setzt weder persönliches Erleben noch intensive Bindung an eine bestimmte Person voraus. Ein Beispiel kann man bewußt und willentlich bieten. Niemand aber kann dem anderen ein V. geben. Nach dem Zweiten Weltkrieg wird der V.-Gedanke weitgehend zurückgedrängt. In letzter Zeit gibt es vereinzelt Versuche, V. für die Pädagogik zu rehabilitieren <sup class=\"fn\" data-fn=\"0-18\">18</sup>. <span class=\"col\" data-col=\"1186\"></span></p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">K. HAASE: Das Wesen des Vorbilds und seine Bedeutung für die Erziehung. Vjschr. wiss. Pädag. 3 (1927) 243–273. – G. BUCK s. Anm. [12]. – E. HUFNAGEL s. Anm. [18]. – E. HURTH: Das Ende der Vorbilder? Int. kath. Z. Communio 28 (1999) 255–276.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1185\"></span> Vgl. Art. ‹vorbild›. GRIMM 12/II (1951) 909–912; Art. ‹Urbild›.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. Art. <a class=\"xref\" href=\"#/a/379\">→ Beispiel; Exempel; exemplarisch</a>. Hist. Wb. Philos. 1 (1971) 818–823; N. KAMINSKI: Art. ‹Imitatio›, in: G. UEDING (Hg.): Hist. Wb. der Rhet. 4 (1998) 235–285; D. DE RENTIIS: Art. ‹Imitatio 2. Imitatio morum›, a.O. 285–303.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. Art. <a class=\"xref\" href=\"#/a/3244\">→ Typos; Typologie</a>. Hist. Wb. Philos. 10 (1998) 1587–1607.</li>\n<li id=\"fn0-4\" value=\"4\">THOMAS VON AQUIN: S. theol. III, 1, 2.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. ANSELM VON CANT.: Meditationes. MPL 158, 766 A.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. K. HELMER: Mittelalterl. Weltsichten. Vjschr. wiss. Pädag. 74 (1988) 99–110.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. AUGUSTINUS: De doctr. christ. V, 1, 1f. <span class=\"col\" data-col=\"1186\"></span></li>\n<li id=\"fn0-8\" value=\"8\">Vgl. AUGUSTINUS: De magistro XI, 38; vgl. K. HELMER: Bildungswelten des MA (1997) 79ff.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. TH. KOBUSCH: Die Entdeckung der Person. Met. der Freiheit und modernes Menschenbild (<sup>2</sup>1996) 23ff.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. E. NEUMANN/J. KLAPPER: Art. ‹Exempel›, in: Reallex. der dtsch. Lit.gesch. 1 (1958) 413–418 (Lit.); CH. DAXELMÜLLER: Art. ‹Exempelsammlungen›, in: UEDING (Hg.), a.O. [2] 3 (1996) 55–60.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. DE RENTIIS, a.O. [2] 228f.</li>\n<li id=\"fn0-12\" value=\"12\">I. KANT: Die Met. der Sitten 2: Tugendlehre § 52 (1797). Akad.-A. 6, 479f.; vgl. G. BUCK: Kants Lehre vom Exempel. Arch. Begriffsgesch. 11 (1967) 148–183.</li>\n<li id=\"fn0-13\" value=\"13\">Die Relig. innerh. der Grenzen der bloßen Vernunft (1793, <sup>2</sup>1794). Akad.-A. 6, 62.</li>\n<li id=\"fn0-14\" value=\"14\">F. NIETZSCHE: Nachgel. Frg., Ende 1880 7[213]. Krit. Ges.ausg., hg. G. COLLI/M. MONTINARI (1967ff.) 5/1, 691.</li>\n<li id=\"fn0-15\" value=\"15\">M. SCHELER: Der Formalismus in der Ethik und die materiale Wertethik (1916). Ges. Werke 2 (<sup>5</sup>1966) 563–567; vgl. Vorbilder und Führer [1911–22]. Schr. aus dem Nachlaß I: Zur Ethik und Erkenntnislehre (1933) 149–224. Ges. Werke 10 (1986) 255–344.</li>\n<li id=\"fn0-16\" value=\"16\">a.O. 570.</li>\n<li id=\"fn0-17\" value=\"17\">573.</li>\n<li id=\"fn0-18\" value=\"18\">Vgl. E. HUFNAGEL: Pädagog. Vorbildtheorien – Prolegomena zu einer pädagog. Imagologie (1993).</li>\n</ol>",
+ "prev":{"id":3490,"lemma":"Vorbegriff","band":"11","col":1182},
+ "next":{"id":3492,"lemma":"Vorgeschichte","band":"11","col":1186},
+ "backlinks":[{"id":3339,"lemma":"Urbild","n":1}],
+ "outlinks":[
+  {"id":379,"lemma":"Beispiel, Exempel, exemplarisch","n":1},
+  {"id":2054,"lemma":"Nachahmung","n":1},
+  {"id":2059,"lemma":"Nachfolge (imitatio) Christi","n":1},
+  {"id":2269,"lemma":"Paradigma, exemplar","n":1},
+  {"id":2322,"lemma":"Persönlichkeit","n":1},
+  {"id":2829,"lemma":"Selbstbildung","n":1},
+  {"id":3244,"lemma":"Typos; Typologie","n":1}
+ ],
+ "register":[
+  {"term":"example","qualifier":"","band":null,"col":null},
+  {"term":"exemplum","qualifier":"","band":null,"col":null},
+  {"term":"imitatio Christi","qualifier":"","band":"11","col":"1184"},
+  {"term":"praefiguratio","qualifier":"","band":null,"col":null},
+  {"term":"typus","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":7,"name":"Augustinus","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":133,"name":"Anselm von Canterbury","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1349,"name":"G. Ueding","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":13264,"name":"K. Helmer","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":18594,"name":"D. de Rentiis","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":4969,"name":"G. Buck","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":6002,"name":"E. Hufnagel","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":22,"name":"M. Luther","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":153,"name":"Paulus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":520,"name":"E. Neumann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":525,"name":"Dante Alighieri","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":483,"name":"F. Petrarca","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4895,"name":"G. Kaminski","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11789,"name":"J. Klapper","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":32533,"name":"Jacobus de Voragine","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":32534,"name":"Ch. Daxelmüller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1392,"name":"W. Haase","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":32535,"name":"E. Hurth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":88,"name":"G. Colli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":89,"name":"M. Montinari","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":456,"name":"Th. Kobusch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2256,"lemma":"Pädagogik","tf":3},
+  {"id":2318,"lemma":"Person","tf":5},
+  {"id":804,"lemma":"Erleben, Erlebnis","tf":2},
+  {"id":1026,"lemma":"Gehalt","tf":2},
+  {"id":2634,"lemma":"Reflexion","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[
+  {"id":379,"lemma":"Beispiel, Exempel, exemplarisch"},
+  {"id":1776,"lemma":"Leitbild"},
+  {"id":2054,"lemma":"Nachahmung"},
+  {"id":2269,"lemma":"Paradigma, exemplar"},
+  {"id":3339,"lemma":"Urbild"}
+ ],
+ "groups":[{"id":30,"name":"Pädagogik","label":"Vorbild"}],
+ "reg_authors":[{"name":"Helmer Karl","n":1}]
+}
+);

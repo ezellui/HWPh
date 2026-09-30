@@ -1,0 +1,56 @@
+HWPH.put("a/3572",
+{
+ "id":3572,
+ "lemma":"Weltoffenheit",
+ "band":"12",
+ "kind":"article",
+ "col_from":496,
+ "col_to":498,
+ "pdf_from":50016,
+ "pdf_to":50020,
+ "authors":["P. Probst"],
+ "n_notes":18,
+ "n_chars":5351,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Weltoffenheit. Die W. <span class=\"col\" data-col=\"497\"></span> des Menschen wird in der Geschichte der philosophischen <a class=\"xref\" href=\"#/a/175\">Anthropologie</a> <span class=\"sd\">→ (s.d.)</span> früh hervorgehoben. So hat der Mensch nach G. PICO della MIRANDOLA «in aller Welt keinen Ort mehr», den ihm Gott nach Vollendung der Schöpfung zuweisen kann: «Du sollst deine Natur ohne Beschränkung durch freies Ermessen (pro tuo arbitrio) ... selbst bestimmen. Ich habe dich in die Weltmitte gestellt, damit du um so leichter alles erkennen kannst, was ringsum in der Welt ist» («Medium te mundi posui, ut circumspiceres inde commodius quicquid est in mundo») <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In seiner ‹Abhandlung über den Ursprung der Sprache› bestimmt J. G. HERDER den Menschen als <a class=\"xref\" href=\"#/a/1858\">Mängelwesen</a> <span class=\"sd\">→ (s.d.)</span> und, damit eng verbunden, als weltoffen: «Der Mensch hat keine so einförmige und enge Sphäre, wo nur Eine Arbeit auf ihn warte: eine Welt von Geschäften und Bestimmungen liegt um ihn» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Gerade in dieser Offenheit zur Weltgestaltung sieht Herder den Ursprung der Sprache angelegt: «Unsre Muttersprache war ja zugleich die erste Welt, die wir sahen, die ersten Empfindungen, die wir fühlten, die erste Würksamkeit und Freude, die wir genoßen» <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Zum Leitbegriff wird ‹W.› in M. SCHELERS philosophischer Anthropologie. Scheler bestimmt den «Wesensunterschied» <sup class=\"fn\" data-fn=\"0-4\">4</sup> zwischen Tier und Mensch durch dessen «existentielle Entbundenheit vom Organischen». Der Mensch ist «nicht mehr trieb- und umweltgebunden, sondern ‘umweltfreiʼ und ... ‘weltoffenʼ: Ein solches Wesen hat ‘Weltʼ» <sup class=\"fn\" data-fn=\"0-5\">5</sup>: «Der Mensch ist das <i>X,</i> das sich in unbegrenztem Maße ‘weltoffenʼ verhalten kann. Menschwerdung ist Erhebung zur W. kraft des Geistes» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Diesen Ansatz übernimmt A. GEHLEN. Aufgrundseiner Reiz- und Eindrucksoffenheit sei der Mensch im Gegensatz zum Tier durch «Umweltenthebung» gekennzeichnet <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die W. ist eine «sehr typisch menschliche Erscheinung. Das Tier ist verschlossen. Es wird niemals den Druck der Umstände los, und es zieht in jede Gegenwart die ganze Last seiner Bedürfnisse und Instinkte mit hinein. Es ist ebensowenig von der Welt, wie von sich selbst entlastet. Der Mensch dagegen ist ausgesetzt dem Überschuß der Reize, denen gegenüber er weltoffen ist» <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Aus der W. des Menschen folgt bei Gehlen die Bedürfnis- und Antriebsorientierung, die «W. der Antriebe» <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>In ontologischer Hinsicht beschreibt M. HEIDEGGER den Unterschied von Stein, Tier und Mensch am Leitfaden der These: «der Stein ist weltlos, das Tier ist weltarm, der Mensch ist weltbildend» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Infolge seiner Weltarmut ist dem Tier das Seiende, das die Welt ausmacht, verschlossen: «Das Tier steht als solches nicht in einer Offenbarkeit von Seiendem. Weder seine sogenannte Umgebung noch es selbst sind als Seiendes offenbar» <sup class=\"fn\" data-fn=\"0-11\">11</sup>, und zwar, weil das Tier nicht «etwas als etwas» vernehmen und deshalb nicht «weltbildend» sein kann <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Im Anschluß an Heidegger, aber eigenständig, betont L. BINSWANGER eine starke Durchdringung von W. und Trieb- und Umweltgebundenheit beim Menschen <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>Etwa gleichzeitig mit Scheler entwickelt H. PLESSNER «das Gesetz des utopischen Standorts» <sup class=\"fn\" data-fn=\"0-14\">14</sup>, das den Ort des Menschen im «Nirgendwo» <sup class=\"fn\" data-fn=\"0-15\">15</sup> definiert: Der Mensch geht über jeden Standort hinaus und überschreitet jeden Horizont. Plessner zeigt, daß «beim Menschen Umweltgebundenheit und W. kollidieren und nur im Verhältnis einer nicht zum Ausgleich zu bringenden gegenseitigen Verschränkung gelten» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Damit wendet er sich gleichermaßen gegen eine geistmetaphysische Bestimmung des Menschen, die dessen Körperlichkeit ausschaltet (Scheler), als auch gegen einen funktionalen Biologismus, der ihn auf seine Umweltgebundenheit festlegt (Gehlen). Aus der Exzentrizität der menschlichen Lebensform <sup class=\"fn\" data-fn=\"0-17\">17</sup> leitet Plessner auch die Weltfremdheit des konstitutiv heimatlosen menschlichen Geistes ab. Dieser «zerstört den Weltkreis und tut uns wie der Christus des Marcion die selige Fremde auf» <sup class=\"fn\" data-fn=\"0-18\">18</sup>. <span class=\"col\" data-col=\"498\"></span></p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">M. LANDMANN: Die W., in: Philos. Anthropologie. Menschliche Selbstdeutung in Geschichte und Gegenwart (1955, <sup>4</sup>1976) 161–171.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"498\"></span> G. PICO della MIRANDOLA: De dignitate hominis (1496), lat./dtsch., eingel. E. GARIN (1968) 28/29; vgl. auch: Art. <a class=\"xref\" href=\"#/a/1917\">→ Mensch III. 2.</a>. Hist. Wb. Philos. 5 (1980) 1074–1081.</li>\n<li id=\"fn0-2\" value=\"2\">J. G. HERDER: Abh. über den Ursprung der Sprache (1772). Sämmtl. Werke, hg. B. SUPHAN (1877–1913) 5, 24.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 118; vgl. Art. <a class=\"xref\" href=\"#/a/2985\">→ Sprache III. 5.</a>. Hist. Wb. Philos. 9 (1995) 1479–1483.</li>\n<li id=\"fn0-4\" value=\"4\">M. SCHELER: Die Stellung des Menschen im Kosmos (1928). Ges. Werke 9, hg. M. S. FRINGS (<sup>2</sup>1995) 31; vgl. auch: Art. <a class=\"xref\" href=\"#/a/1917\">→ Mensch V. 2.</a>. Hist. Wb. Philos. 5 (1980) 1100–1103.</li>\n<li id=\"fn0-5\" value=\"5\">a.O. 32.</li>\n<li id=\"fn0-6\" value=\"6\">33.</li>\n<li id=\"fn0-7\" value=\"7\">A. GEHLEN: Der Mensch. Seine Natur und seine Stellung in der Welt, Einf. 3 (1940, <sup>7</sup>1962). Ges.ausg., hg. K.-S. REHBERG 3/1 (1993) 34; vgl. Art. <a class=\"xref\" href=\"#/a/3278\">→ Umwelt</a>. Hist. Wb. Philos. 11 (2001) 99–105, 102.</li>\n<li id=\"fn0-8\" value=\"8\">II, 19, a.O. 225; vgl. Art. <a class=\"xref\" href=\"#/a/750\">→ Entlastung</a>. Hist. Wb. Philos. 2 (1972) 538ff.</li>\n<li id=\"fn0-9\" value=\"9\">III, 30, a.O. 400; vgl. 400–413.</li>\n<li id=\"fn0-10\" value=\"10\">M. HEIDEGGER: Die Grundbegriffe der Metaphysik. Welt – Endlichkeit – Einsamkeit [WS 1929/30]. Ges.ausg. II/29/30 (1983) 261.</li>\n<li id=\"fn0-11\" value=\"11\">a.O. 361.</li>\n<li id=\"fn0-12\" value=\"12\">383f. 284.</li>\n<li id=\"fn0-13\" value=\"13\">L. BINSWANGER: Grundformen und Erkenntnis menschl. Daseins (1942, <sup>2</sup>1962); vgl. Art. <a class=\"xref\" href=\"#/a/3229\">→ Trieb</a>. Hist. Wb. Philos. 10 (1998) 1483–1492, bes. 1487.</li>\n<li id=\"fn0-14\" value=\"14\">H. PLESSNER: Die Stufen des Organischen und der Mensch. Einl. in die philos. Anthropologie (1928). Ges. Schr., hg. G. DUX u.a. (1980–85) 4, 419.</li>\n<li id=\"fn0-15\" value=\"15\">a.O. 424.</li>\n<li id=\"fn0-16\" value=\"16\">Über das Welt-Umweltverhältnis des Menschen (1950), a.O. 8, 80f.</li>\n<li id=\"fn0-17\" value=\"17\">Vgl. Art. <a class=\"xref\" href=\"#/a/2407\">→ Positionalität, exzentrische</a>. Hist. Wb. Philos. 7 (1989) 1105f.</li>\n<li id=\"fn0-18\" value=\"18\">a.O. [14] 425.</li>\n</ol>",
+ "prev":{"id":3571,"lemma":"Weltliteratur","band":"12","col":494},
+ "next":{"id":3573,"lemma":"Weltorientierung; Orientierung","band":"12","col":498},
+ "backlinks":[{"id":3557,"lemma":"Welt","n":2}],
+ "outlinks":[
+  {"id":175,"lemma":"Anthropologie","n":1},
+  {"id":750,"lemma":"Entlastung","n":1},
+  {"id":1858,"lemma":"Mängelwesen","n":1},
+  {"id":1917,"lemma":"Mensch","n":2},
+  {"id":2407,"lemma":"Positionalität, exzentrische","n":1},
+  {"id":2985,"lemma":"Sprache","n":1},
+  {"id":3229,"lemma":"Trieb","n":1},
+  {"id":3278,"lemma":"Umwelt","n":1}
+ ],
+ "register":[
+  {"term":"Standort, utopischer","qualifier":"","band":"12","col":"497"},
+  {"term":"Umweltenthebung","qualifier":"","band":"12","col":"497"},
+  {"term":"weltbildend","qualifier":"","band":"12","col":"497"},
+  {"term":"Weltfremdheit","qualifier":"","band":"12","col":"497"},
+  {"term":"Weltmitte","qualifier":"","band":"12","col":"496"}
+ ],
+ "persons":[
+  {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18,"name":"J. G. Herder","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":191,"name":"H. Plessner","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":301,"name":"Mirandola","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":408,"name":"L. Binswanger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":396,"name":"G. Pico","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":495,"name":"M. Landmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":112,"name":"B. Suphan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":762,"name":"E. Garin","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2689,"name":"M. S. Frings","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2879,"name":"K.-S. Rehberg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":3192,"lemma":"Tier; Tierseele","tf":8},{"id":3352,"lemma":"Ursprung","tf":2}],
+ "see_also":[],
+ "groups":[{"id":2,"name":"Anthropologie","label":"Weltoffenheit"}],
+ "reg_authors":[{"name":"Probst Peter","n":51}]
+}
+);

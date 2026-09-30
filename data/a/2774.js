@@ -1,0 +1,58 @@
+HWPH.put("a/2774",
+{
+ "id":2774,
+ "lemma":"Schnitt, Goldener",
+ "band":"8",
+ "kind":"article",
+ "col_from":1330,
+ "col_to":1332,
+ "pdf_from":34250,
+ "pdf_to":34254,
+ "authors":["W. Kambartel"],
+ "n_notes":15,
+ "n_chars":4969,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Schnitt, Goldener. Dieser Ausdruck ist erst im 19. <span class=\"col\" data-col=\"1331\"></span> Jh. nachweisbar <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Nach der Definition A. ZEISINGS wird durch den G.Sch. «eine gerade Linie dergestalt in zwei ungleiche Theile getheilt, dass ihr kleinerer Theil zu ihrem grösseren Theil in demselben geometrischen Verhältnisse steht, in welchem sich dieser zur ganzen Linie befindet, d.h. dass jener in diesem ebenso oft enthalten ist, wie dieser in der Summe beider Theile» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Zeising erblickt in der Proportion des G.Sch. die schönste aller Maßbeziehungen und die Grundbedingung natürlich-organischer Schönheit <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Der G.Sch. wird erstmals von EUKLID erwähnt und als Teilung im äußeren und mittleren Verhältnis bezeichnet, ohne daß Euklid mit der dabei entstehenden Proportion irgendeine Schönheitsvorstellung verbindet <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Als früheste ästhetische Wertung des G.Sch. wird oft <sup class=\"fn\" data-fn=\"0-5\">5</sup> eine Bemerkung PLATONS <sup class=\"fn\" data-fn=\"0-6\">6</sup> angeführt, die zwar auf stetige geometrische Proportionen Bezug nimmt, jedoch nur auf deren aus rationalen Verhältnissen resultierende Normalform (2:4:8) und nicht auf die Proportion des G.Sch. als deren durch irrationale Verhältnisse ausgezeichnete Sonderform (√5 – 1 : 2√5 – 1), bei der nicht allein – wie bei jeder stetigen geometrischen Proportion – das Quadrat des mittleren Gliedes gleich dem Produkt der beiden äußeren Glieder ist, sondern überdies die Summe des mittleren und des kleineren äußeren Gliedes gleich dem größeren äußeren Glied <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Vielleicht in diesem Zusammenhang, in der Verbindung dieser zwar die rationale stetige geometrische Proportion, nicht aber den irrational proportionierten G.Sch. meinenden Schönheitsvorstellung Platons mit der zwar den G.Sch., nicht aber dessen Schönheit reflektierenden Definition Euklids hat im Neuplatonismus der italienischen Hochrenaissance der Mathematiker L. PACIOLI die Proportion des G.Sch. erstmals – freilich primär unter theologischem Aspekt – als die schönste aller Proportionen gewürdigt und zum Gegenstand einer von LEONARDO da VINCI illustrierten Proportionslehre erhoben <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Vor Zeising bleibt Paciolis Schrift die einzige Reflexion zum G.Sch. aus kunsttheoretischer Sicht.</p>\n<p>Begründet Zeising, das mathematisch-theologische Argument Paciolis säkularisierend, die Schönheit des G.Sch. ausschließlich mit dessen mathematischer Struktur, so ist es das Ziel der «ästhetischen Experimentaluntersuchungen» G. TH. FECHNERS, den ästhetischen Anspruch des mathematisch Evidenten aus der Anschauung des Phänomens zu bestätigen. Fechners Umfrage ergab, daß unter zehn Rechtecken dasjenige, dessen Seiten im Verhältnis des G.Sch. stehen, für das schönste gehalten wird <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Gleichwohl findet Fechner «den ästhetischen Wert des G.Sch. von Zeising überschätzt», da die mathematische Struktur des G.Sch. im Gegensatz zu derjenigen der spiegelbildlichen Symmetrie optisch nicht evident sei <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Nach TH. LIPPS ist die Wohlgefälligkeit des G.Sch. keinesfalls mathematisch, sondern phänomenologisch aus einem «relativen Gleichgewicht in der monarchischen Unterordnung» zu erklären <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Der Versuch von F. X. PFEIFER <sup class=\"fn\" data-fn=\"0-12\">12</sup>, den G.Sch. als ein Mathematik, Natur und Kunst verbindendes Proportionsgesetz herauszustellen, hat bis heute vielfältige Nachfolge gefunden <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Mit den zahlreichen kunsthistorischen Bemühungen, den G.Sch. in Werken der bildenden Kunst und Architektur nachzuweisen <sup class=\"fn\" data-fn=\"0-14\">14</sup>, korrespondiert auf künstlerischer Seite LE CORBUSIERS «Modulor», der eine universelle Anwendung des G.Sch. in Architektur und Design garantieren sollte <sup class=\"fn\" data-fn=\"0-15\">15</sup>. <span class=\"col\" data-col=\"1332\"></span></p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">F. X. PFEIFER s. Anm. [12]. – E. TIMMERDING: Der G.Sch. (1929). – O. HAGENMAIER: Der G.Sch. (1949, <sup>4</sup>1977). – H. VON BARAVELLE: Die Geometrie des Pentagramms und der G.Sch. (1950). – R. HAASE: Der mißverstandene G.Sch. Z. Ganzheitsforschung 19 (1975) 240–249. – P. VON NAREDI-RAINER s. Anm. [14].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. A. WIEGAND: Der allg. G.Sch. Ein neuer Beitrag zum Ausbau der Geometrie (1849).</li>\n<li id=\"fn0-2\" value=\"2\">A. ZEISING: Der G.Sch. (1884) 6.</li>\n<li id=\"fn0-3\" value=\"3\">Neue Lehre von den Proportionen des menschl. Körpers (1854) VIIIf.; vgl. auch a.O. [2] 14.</li>\n<li id=\"fn0-4\" value=\"4\">EUKLID: Eiern. II, 11; VI; XIII, 5.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. E. NEUFERT: Bauordnungslehre (1945) 45.</li>\n<li id=\"fn0-6\" value=\"6\">PLATON: Tim. 31 c 4–32 b 8.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. T. BRUNÉS: The secrets of ancient geometry and its use 2 (Kopenhagen/New York 1967) 57–87: The Golden Section versus the Sacred Cut.</li>\n<li id=\"fn0-8\" value=\"8\">L. PACIOLI: De divina proportione (Venedig 1509); zu LEONARDO vgl. P. SPEZIALI: Léonard de Vinci et la divine proportion de Pacioli. Bibl. Humanisme Renaiss. 15 (1953) 298ff.</li>\n<li id=\"fn0-9\" value=\"9\">G. TH. FECHNER: Zur experimentalen Ästhetik (1871) 555ff.</li>\n<li id=\"fn0-10\" value=\"10\">Vorschule der Ästhetik (1876, <sup>2</sup>1897) 1, 192.</li>\n<li id=\"fn0-11\" value=\"11\">TH. LIPPS: Ästhetik (1903) 1, 66.</li>\n<li id=\"fn0-12\" value=\"12\">F. X. PFEIFER: Der G.Sch. und dessen Erscheinungsformen in Mathematik, Natur und Kunst (1885, ND 1969).</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. bes. M. C. GHYKA: The geometry of art and life (New York 1977).</li>\n<li id=\"fn0-14\" value=\"14\">Vgl. P. VON NAREDI-RAINER: Architektur und Harmonie. Zahl, Maß und Proportion in der abendländ. Baukunst (1982, <sup>2</sup>1984) 188ff.</li>\n<li id=\"fn0-15\" value=\"15\">LE CORBUSIER: Le Modulor. Essai sur une mesure harmonique à l'échelle humaine applicable universellement à l'architecture et à la mécanique (Paris 1950), dtsch. (<sup>3</sup>1978).</li>\n</ol>",
+ "prev":{"id":2773,"lemma":"Schmerz","band":"8","col":1314},
+ "next":{"id":2775,"lemma":"Scholastik","band":"8","col":1332},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"goldener Schnitt","qualifier":"","band":null,"col":null},
+  {"term":"– IV (ästh.) 7 1505–1508 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":5717,"name":"F. X. Pfeifer","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":176,"name":"G. Th. Fechner","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":209,"name":"Th. Lipps","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":343,"name":"Euklid","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1262,"name":"Leonardo da Vinci","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4688,"name":"L. Pacioli","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6732,"name":"A. Zeising","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8179,"name":"P. von Naredi-Rainer","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":6579,"name":"A. Wiegand","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14024,"name":"M. C. Ghyka","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":28154,"name":"le Corbusiers","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":28155,"name":"E. Neufert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":28156,"name":"T. Brunés","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":28157,"name":"P. Speziali","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":28158,"name":"le Corbusier","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1392,"name":"W. Haase","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":28159,"name":"E. Timmerding","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":28160,"name":"O. Hagenmaier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":28161,"name":"H. von Baravelle","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2483,"lemma":"Proportion","tf":8},
+  {"id":3072,"lemma":"Summe","tf":2},
+  {"id":1896,"lemma":"Mathematik","tf":2},
+  {"id":1712,"lemma":"Kunst, Kunstwerk","tf":2},
+  {"id":3040,"lemma":"Struktur","tf":2},
+  {"id":535,"lemma":"Definition","tf":2}
+ ],
+ "see_also":[{"id":2483,"lemma":"Proportion"}],
+ "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Schnitt, Goldener"}],
+ "reg_authors":[{"name":"Kambartel Walter","n":16}]
+}
+);

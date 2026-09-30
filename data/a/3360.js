@@ -1,0 +1,58 @@
+HWPH.put("a/3360",
+{
+ "id":3360,
+ "lemma":"Urwissen",
+ "band":"11",
+ "kind":"article",
+ "col_from":485,
+ "col_to":486,
+ "pdf_from":46032,
+ "pdf_to":46036,
+ "authors":["L. Hühn"],
+ "n_notes":11,
+ "n_chars":6007,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Urwissen (engl. primordial knowing). Zu einem philosophischen Leitbegriff aufgewertet wird ‹U.› im Deutschen Idealismus durch die Identitätsphilosophie F. W. J. SCHELLINGS und durch den späten J. G. FICHTE, deren gemeinsame Quellen wiederum in der Ideenlehre Platons, vor allem in der Lehre vom Urbild und Abbild des Seienden, zu finden sind.</p>\n<p>Das mit dem Präfix ‹Ur-› versehene Wissen ist kein durch Erfahrung erworbenes Wissen, es geht diesem vielmehr als unvordenklicher Grund der Abhängigkeit voraus. Die Abhängigkeit ist die einer Teilhabe, deren Formen variieren, doch gemeinsame Merkmale aufweisen und – unter das Dach eines einzigen Prinzips gebracht – zu Ausdrucksformen eines geschlossenen, in sich einheitlich verfaßten, organischen Strukturgefüges werden. SCHELLINGS Identitätsphilosophie ist im ganzen dem Grundgedanken verpflichtet, daß «alle Wissenschaften und Arten des Wissens Theile der Einen Philosophie, nämlich des Strebens, an dem U. Theil zu nehmen» <sup class=\"fn\" data-fn=\"0-1\">1</sup>, sind. Analog dem Verhältnis von eidetischem und teilhabendem, phänomenalem Seienden begreift Schelling das U. als Ur- und Vorbild, dem gegenüber alles Einzelwissen zu einem Abbild gerät. Letzteres realisiert den ontologischen Primat des U. als dessen Bild, indem es an sich selbst für etwas anderes einsteht, das es als Imago, als Similitudo oder als Exemplum zur Darstellung bringt. Das dergestalt als Abbild charakterisierte Wissen bezieht seinen Wahrheits- und Realitätsgehalt aus einer anderen Dimension der Wirklichkeit, aus einem Ursprung, den es nachahmend repräsentiert, wobei dieser Ursprung selbst durch keinen möglichen Wissensinhalt affiziert und modifiziert wird, vielmehr sich gegenüber allen Inhalten in unveränderter Identität behauptet und in ihnen als einheitsstiftendes Prinzip bewährt. Mit Platon ist Schelling darin einig, daß die <a class=\"xref\" href=\"#/a/3143\">Teilhabe</a> <span class=\"sd\">→ (s.d.)</span> am U. den Maßstab vorgibt, wirkliches und scheinbares Wissen voneinander zu scheiden <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Im Widerspruch zur neuzeitlichen Tradition all jener Erkenntnistheorien, welche die Möglichkeit eines im strengen Sinne voraussetzungslosen Wissens annehmen, charakterisiert Schelling den Weg wahren Wissens als ein solches Fortschreiten, das sich zugleich als Rückgang auf einen stets schon anwesenden Grund vollzieht, wobei dieser Vollzug den eigenen Grund seiner Ermöglichung erst zur Erscheinung, ja in der Zeit zur sichtbaren Präsenz bringt. Es ist der platonische, im ‹Timaios› entworfene Horizont, demzufolge die Zeit selbst das bewegte «Bild» der Ewigkeit ist <sup class=\"fn\" data-fn=\"0-3\">3</sup>, aus dem Schelling nachweislich Impulse für die Semantik des U. bezieht <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Doch die Annahme einer Nähe trägt nicht viel aus: Was den platonischen Horizont definiert, nämlich die strikte Trennung <span class=\"col\" data-col=\"486\"></span> von in sich bleibendem, überweltlichem Urbild auf der einen und bewegtem, innerweltlichem Abbild auf der anderen Seite, durchbricht Schelling von Anfang an, indem er die jeweils eine Seite in ihrer anderen noch einmal abbildet und reflektiert. Gegen die Annahme einer Nähe spricht vor allem, daß bei Schelling das partizipierende Wissen keine Entwertung dergestalt erfährt, daß es als defizitäre Verwirklichung jenes in dem U. hinterlegten und antizipierten Vorbildes verstanden wird. Weil das Wissen «in sich den Centralpunkt herstellen und so in das U. zurückgehen» <sup class=\"fn\" data-fn=\"0-5\">5</sup> kann, wird es vielmehr nach Schelling – ohne jeden Seinsverlust – zu einem «Abdruck des innern Organismus des U.» <sup class=\"fn\" data-fn=\"0-6\">6</sup> aufgewertet. Damit steckt Schelling in seiner Identitätsphilosophie den Rahmen für die anthropomorphe Bildhaftigkeit seiner Weltalter-Philosophie ab, zu deren programmatischem Selbstverständnis die Annahme gehört: «Die übersinnlichen Gedanken erhalten jetzt physische Kraft und Leben, und umgekehrt wird Natur immer mehr der sichtbare Abdruck von den höchsten Begriffen» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Das U. nimmt, auf das Ganze von Schellings Philosophie gesehen, eine Zwischenstellung ein. Es tritt zum einen die Nachfolge jener «freien Nachahmung» an, welche im «System des transscendentalen Idealismus» die Präsenz des Ewigen mitten in der Zeit verbürgt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Zum anderen greift das U. auf jene der menschlichen Seele zugesprochene «Mitwissenschaft der Schöpfung» <sup class=\"fn\" data-fn=\"0-9\">9</sup> aus, mit der Schelling in den ‹Weltalter›-Fragmenten die Teilhabe am Ewigen – weitaus gebrochener – anthropologisch verankert hat.</p>\n<p>Der Begriff ‹U.› ist in FICHTES ‹Wissenschaftslehre› von 1804 eine abkürzende Redeweise für das sich seiner selbst innewerdende Wissen, das in seinen Selbstprädikationen stets aufs neue auf einen unvordenklichen Grund stößt, der «Evidenz an sich selbst» <sup class=\"fn\" data-fn=\"0-10\">10</sup> verbürgt. Das U. geht somit als vorprädikativer Grund in jeden Fall prädikativen Wissens ein, doch es geht darin genauso wenig auf, wie es sich in der Summe der Gehalte erschöpft, in denen es sich als Evidenz verbürgendes Prinzip bewährt. In bemerkenswertem Gegensatz zu Schelling betont Fichte die Unbegreiflichkeit des U., das sich nicht objektivieren und über das sich diskursiv nichts ausmachen läßt <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">M. THEUNISSEN: Schellings anthropolog. Ansatz. Arch. Gesch. Philos. 47 (1965) 174–189. – J. HENNIGFELD: Mythos und Poesie. Interpret. zu Schellings ‹Philos. der Kunst› und ‹Philos. der Mythologie› (1973). – K. GLOY: Einheit und Mannigfaltigkeit. Eine Strukturanalyse des ‘undʼ (1981). – W. E. EHRHARDT, in: F. W. J. SCHELLING: Vorles. über die Methode (Lehrart) des akad. Studiums, hg. W. E. EHRHARDT (1990) 150ff. – W. JANKE: Vom Bilde des Absoluten. Grundzüge der Phänomenol. Fichtes (1993). – L. HÜHN: Fichte und Schelling. Oder: Über die Grenze menschl. Wissens (1994).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"486\"></span> F. W. J. SCHELLING: Vorles. über die Methode des akad. Studiums, 1. Vorles. (1803). Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) I/5, 218.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 217–222.</li>\n<li id=\"fn0-3\" value=\"3\">PLATON: Tim. 37 c.</li>\n<li id=\"fn0-4\" value=\"4\">SCHELLING: ‘Timaeusʼ (1794), hg. H. BUCHNER (1994).</li>\n<li id=\"fn0-5\" value=\"5\">a.O. [1] 306 (10. Vorles.).</li>\n<li id=\"fn0-6\" value=\"6\">a.O. 280.</li>\n<li id=\"fn0-7\" value=\"7\">Die Weltalter. Fragm., hg. M. SCHRÖTER (1979) 9.</li>\n<li id=\"fn0-8\" value=\"8\">System des transsc. Idealismus (1800), a.O. [1] I/3, 397f.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. [7] 4.</li>\n<li id=\"fn0-10\" value=\"10\">J. G. FICHTE: Die Wiss.lehre [II. Vortrag im Jahre 1804]. Akad.-A. II/8 (1985) 42.</li>\n<li id=\"fn0-11\" value=\"11\">3<sup>ter</sup> Cours der WL (1804), a.O. II/7 (1989) 341f. 318.</li>\n</ol>",
+ "prev":{"id":3359,"lemma":"Urteilskraft; Urteilsvermögen","band":"11","col":479},
+ "next":{"id":3361,"lemma":"Urzeit; Vorzeit","band":"11","col":486},
+ "backlinks":[{"id":3634,"lemma":"Wissen","n":1},{"id":3635,"lemma":"Wissenschaft","n":1}],
+ "outlinks":[{"id":3143,"lemma":"Teilhabe","n":1}],
+ "register":[
+  {"term":"/Objekt IV 10 423","qualifier":"(Schelling)","band":"11","col":"485f."},
+  {"term":"Abbild","qualifier":"(Schelling)","band":"11","col":"485"},
+  {"term":"Bild","qualifier":"(Schelling)","band":"11","col":"485"},
+  {"term":"Mitwissenschaft","qualifier":"(Schelling)","band":"11","col":"486"},
+  {"term":"primordial knowing","qualifier":"(Schelling)","band":null,"col":null},
+  {"term":"Wissen","qualifier":"(Schelling)","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":9,"name":"F. W. J. Schelling","b":2,"n":2,"l":1,"editor":0,"role":"source"},
+  {"id":12,"name":"J. G. Fichte","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":399,"name":"M. Theunissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2226,"name":"W. Janke","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2383,"name":"K. Gloy","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7055,"name":"J. Hennigfeld","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7087,"name":"L. Hühn","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":322,"name":"M. Schröter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1656,"name":"H. Buchner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1446,"name":"W. E. Ehrhardt","b":0,"n":0,"l":2,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1368,"lemma":"Identitätsphilosophie","tf":3},
+  {"id":3339,"lemma":"Urbild","tf":2},
+  {"id":850,"lemma":"Evidenz","tf":2},
+  {"id":1310,"lemma":"Horizont","tf":2},
+  {"id":154,"lemma":"Annahme, Annehmen","tf":3},
+  {"id":23,"lemma":"Abhängigkeit (Dependenz)","tf":2},
+  {"id":3491,"lemma":"Vorbild","tf":2},
+  {"id":1343,"lemma":"Idealismus","tf":2},
+  {"id":431,"lemma":"Bild","tf":2},
+  {"id":3352,"lemma":"Ursprung","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Urwissen (Schelling)"}],
+ "reg_authors":[{"name":"Hühn Lore","n":2}]
+}
+);

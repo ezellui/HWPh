@@ -1,0 +1,56 @@
+HWPH.put("a/1920",
+{
+ "id":1920,
+ "lemma":"Mensch, natürlicher",
+ "band":"5",
+ "kind":"article",
+ "col_from":1111,
+ "col_to":1112,
+ "pdf_from":19374,
+ "pdf_to":19376,
+ "authors":["Ch. Grawe"],
+ "n_notes":11,
+ "n_chars":2589,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Mensch, natürlicher (gelegentlich fälschlich synonym mit ‹Natur-M.› <a class=\"xref\" href=\"#/a/2087\">→</a> [s.d.]). PAULUS' ἄνθρωπος ψυχικός <sup class=\"fn\" data-fn=\"0-1\">1</sup> wird in der Vulgata mit ‹homo animalis› wiedergegeben und erscheint in LUTHERS Bibelübersetzung als ‹n.M.›, auch als «alter» (παλαιός <sup class=\"fn\" data-fn=\"0-2\">2</sup>) oder «fleischlicher» (κατὰ σάρκα <sup class=\"fn\" data-fn=\"0-3\">3</sup>) M. Im Gegensatz zum geistlichen M. (ἄνθρωπος πνευματικός <sup class=\"fn\" data-fn=\"0-4\">4</sup>) oder zum christlichen, übernatürlichen oder neuen M. <a class=\"xref\" href=\"#/a/1921\">→</a> (s.d.) bezeichnet ‹n.M.› den vom sündigen Adam abstammenden, sterblichen M. außerhalb des Gnadenstandes. Paulus versteht unter ‹n.M.› eine spezifisch religiöse Kategorie, durch die über den ethischen und geistigen Wert des M. nichts ausgesagt wird (nach Bultmann <sup class=\"fn\" data-fn=\"0-5\">5</sup> ist dieser Dualismus von der Gnosis beeinflußt). Für THOMAS VON AQUIN entspricht dem homo naturalis als soziale Zuordnung der Staat, während dem homo christianus die Kirche zugeordnet ist. Im Spätmittelalter führt das zu einer Aufwertung des homo naturalis <sup class=\"fn\" data-fn=\"0-6\">6</sup>; die Gegenüberstellung selbst wird von PASCAL <sup class=\"fn\" data-fn=\"0-7\">7</sup> und LEIBNIZ <sup class=\"fn\" data-fn=\"0-8\">8</sup> in Form des Gegensatzes von «nature et grâce» aufgenommen. HOBBES spricht vom «Natural Man» im Unterschied zum Staat als dem «Artificial Man», der den n.M. zu schützen und zu verteidigen habe <sup class=\"fn\" data-fn=\"0-9\">9</sup>, und ROUSSEAU gebraucht den Begriff «homme naturel» <a class=\"xref\" href=\"#/a/1294\">→</a> (s.d.) im Zusammenhang seiner Naturstandstheorie. <span class=\"col\" data-col=\"1112\"></span> Der Begriff ‹n.M.› wird dann von HEGEL wieder verwendet zur Bezeichnung des noch nicht zur Freiheit wiedergeborenen Menschen <sup class=\"fn\" data-fn=\"0-10\">10</sup>. SCHOPENHAUER deutet den n.M. im Sinne seines Systems um: «Was sie [die Kirche] den n.M. nennt, dem sie alle Fähigkeit zum Guten abspricht, das ist eben der Wille zum Leben, welcher verneint werden muß, wenn Erlösung aus einem Dasein, wie das unsrige ist, erlangt werden soll» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">D. DENEFFE: Gesch. des Wortes ‹supernaturalis›. Z. kath. Theol. 46 (1922) 337–360. – W. GUTBROD: Die paulin. Anthropol. (1934). – M. LANDMANN: Philos. Anthropol. (1955) 76ff.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1112\"></span> 1. Kor. 2, 14.</li>\n<li id=\"fn0-2\" value=\"2\">Eph. 4, 22.</li>\n<li id=\"fn0-3\" value=\"3\">Röm. 8, 5.</li>\n<li id=\"fn0-4\" value=\"4\">1. Kor. 2, 15.</li>\n<li id=\"fn0-5\" value=\"5\">R. BULTMANN: Das Urchristentum im Rahmen der antiken Religionen (<sup>3</sup>1962) 167–195.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. W. ULLMANN: Some observations on the Medieval evaluations of the «homo naturalis» and the «christianus», in: L'homme et son déstin d'après les penseurs du moyen âge (Louvain/Paris 1960) 145–151.</li>\n<li id=\"fn0-7\" value=\"7\">B. PASCAL, Pensées, hg. L. BRUNSCHVICG Nr. 434. 520. 521.</li>\n<li id=\"fn0-8\" value=\"8\">G. W. LEIBNIZ: Principes de la nature et de la grâce, fondés en raison (1718).</li>\n<li id=\"fn0-9\" value=\"9\">TH. HOBBES: Leviathan, introd. Works, hg. MOLESWORTH (1839) 3, 9.</li>\n<li id=\"fn0-10\" value=\"10\">G. W. F. HEGEL, Vorles. über die Philos. der Relig., hg. LASSON 2, 2 (1927) 95ff.; Berliner Schr., hg. HOFFMEISTER (1956) 74.</li>\n<li id=\"fn0-11\" value=\"11\">A. SCHOPENHAUER: Die Welt als Wille und Vorstellung (1819, zit. 1892) IV, § 70.</li>\n</ol>",
+ "prev":{"id":1919,"lemma":"Mensch, ganzer","band":"5","col":1106},
+ "next":{"id":1921,"lemma":"Mensch, neuer","band":"5","col":1112},
+ "backlinks":[],
+ "outlinks":[
+  {"id":1294,"lemma":"Homme naturel/homme civil","n":1},
+  {"id":1921,"lemma":"Mensch, neuer","n":1},
+  {"id":2087,"lemma":"Naturmensch","n":1}
+ ],
+ "register":[
+  {"term":"homo animalis","qualifier":"","band":null,"col":null},
+  {"term":"homo christianus","qualifier":"","band":null,"col":null},
+  {"term":"homo naturalis","qualifier":"","band":null,"col":null},
+  {"term":"natürliche bzw. vernünftige natürlicher Mensch","qualifier":"","band":null,"col":null},
+  {"term":"ἄνθρωπος ψυχικός","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":30,"name":"Th. Hobbes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":80,"name":"B. Pascal","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":22,"name":"M. Luther","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":39,"name":"J.-J. Rousseau","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":153,"name":"Paulus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":139,"name":"R. Bultmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":9300,"name":"W. Ullmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":495,"name":"M. Landmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3767,"name":"A. Deneffe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10947,"name":"W. Gutbrod","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":162,"name":"W. Molesworth","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":327,"name":"L. Brunschvicg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":351,"name":"G. Lasson","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":1568,"lemma":"Kirche","tf":2},{"id":2998,"lemma":"Staat","tf":2}],
+ "see_also":[{"id":1294,"lemma":"Homme naturel/homme civil"},{"id":1921,"lemma":"Mensch, neuer"}],
+ "groups":[{"id":44,"name":"Theologie","label":"Mensch, natürlicher"}],
+ "reg_authors":[{"name":"Grawe Christian","n":16}]
+}
+);

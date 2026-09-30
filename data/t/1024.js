@@ -1,0 +1,36 @@
+HWPH.put("t/1024",
+{
+ "b":"Gegenwart, lebendige. Die Zeitform der l.G. (auch ‹urtümliche, urphänomenale, urmodale, strömende Gegenwart›, ‹nunc stans› und anders genannt ) bezeichnet in der Spätphase der Phänomenologie E. HUSSERLS die Seinsweise des letztfungierenden transzendentalen Ich (Ur-Ich), d.h. der absoluten Subjektivität in ihrem Konstituierend- und nicht mehr Konstituiertsein . Da der Bewußtseins- oder Erlebnisstrom mit seinen immanenten (reellen) Gehalten selbst noch ein in der Form der immanenten Zeit konstituiertes Gebilde ist , kann der Zugang zum letztkonstituierenden Ich nur durch eine Einklammerung der immanenten Zeithorizonte, d.h. durch eine Vertiefung der transzendentalphänomenologischen Epoche und Reduktion gewonnen werden . Die transzendentale Selbsterfahrung wird damit einer abschließenden Kritik im Hinblick auf ihre möglichen adäquaten und apodiktischen Gehalte unterzogen . Ergebnis dieser Kritik ist, daß die Zeitform des letztkonstituierenden Ich in apodiktischer Evidenz gegeben ist . Das letztfungierende Ich ist der jeweils auf dieses Ich phänomenologisch Reflektierende selbst. Das Reflektieren hat den Charakter der Selbstidentifikation über einen ersten zeitlichen Abstand zwischen reflektiertem und reflektierendem Ich hinweg . Daß «beide» Ich identisch sind, kann erst durch einen nachkommenden Reflexionsakt («Nachgewahren») festgestellt werden. Zur Identifikation des in diesem Reflexionsakt fungierenden Ich mit dem vergangenen Ich, auf das es reflektiert, bedarf es einer weiteren nachfolgenden Reflexion usw. . Das letztfungierende Reflektieren bekommt damit notwendig die Form einer endlosen zeitlichen Iteration . Da diese notwendige Iteration ein Ineins von Selbstidentifikation und zeitlicher Ausbreitung des transzendentalen Ich darstellt, bekundet sich in ihr mit apodiktischer Evidenz, daß die Seinsweise des transzendentalen Ich als Ureinheit von stehender Identität und strömender Selbstobjektivation , d.h. als LG. begriffen werden muß . Als Strukturen dieser l.G. erweisen sich in den nachgelassenen Forschungsmanuskripten Husserls zu diesem Thema die aus der phänomenologischen Zeitanalyse bekannten Urmodi des inneren Zeitbewußtseins: Urimpression, Retention und Protention . Aufgrundseiner strömenden Selbstobjektivation oder «Verzeitlichung» tritt das transzendentale Ich der l.G. niemals als bloß konstituierend, sondern immer schon auch als ein in der immanenten Zeit Konstituiertes auf. Gemäß dem strömend-ständigen Doppelcharakter der l.G. konstituiert sich das transzendentale Ich einerseits als das Vollzugs-Ich einzelner Akte in den jeweiligen Gegenwarten des Bewußtseinslebens, andererseits als der verharrend identische Pol , der im Strome des intentionalen Lebens als dessen allzeitliches Zentrum gegenwärtig ist. Da das Ich jeder jeweiligen Gegenwart und der verharrende Ichpol beide nur Selbstobjektivationen der einen l.G. und somit identisch sind, schlagen sich im verharrenden Ichpol bleibende Bestimmungen des Ich, die es in seinen jeweiligen Einzelvollzügen erwirbt, als Habitualitäten und Vermöglichkeiten nieder . Infolgedessen liegen in jeder Bewußtseinsgegenwart des transzendentalen Ich alle Aktualitäten und Potentialitäten (Vermöglichkeiten) der Selbst- und Welterfahrung intentional beschlossen . Das transzendentale Ich der LG., das auf diese Weise durch notwendige Verzeitlichung seine volle Konkretion gewonnen hat, nennt Husserl Monade .",
+ "n":"Der Begriff tritt schon in E. HUSSERL: Zur Phänomenol. des inneren Zeitbewußtseins (1893–1917), Husserliana 10 (Den Haag 1966) 54 auf, ebenso in der Formulierung «Lebendige immanente Gegenwart» in: Ideen zu einer reinen Phänomenol. und phänomenol. Philos. 1. Buch. Husserliana 3 (Den Haag 1950) 108. \nVgl. Werke der Sekundärlit. [5, 7, 13]; ein Beispiel eines späten Textes über die l.G. enthält: Phänomenol. Psychol. Husserliana 9 (Den Haag 1962) 475ff. \nAlso desjenigen, wovon HUSSERL, Zur Phänomenol .... a.a.O. [1] 75 noch gesagt hatte: «Für all das fehlen uns die Namen». \nIdeen ... 1. Buch a.a.O. [1] 198; Ideen ... 2. Buch. Husserliana 4 (Den Haag 1952) 102; Analysen zur passiven Synthesis. Husserliana 11 (Den Haag 1966) 204f. \nK. HELD: l.G. Die Frage nach der Seinsweise des transzendentalen Ich bei E. Husserl, entwickelt am Leitfaden der Zeitproblematik (Den Haag 1966) 66f.; vgl. E. HUSSERL: Erste Philos. (1923/24) 2. Teil. Husserliana 8 (Den Haag 1959) 411ff. \nCartesianische Meditationen und Pariser Vorträge. Husserliana 1 (Den Haag 21963) 62; Erste Philos. a.a.O. [5] 80; Zur Phänomenol .... a.a.O. [1] 339ff. \nCartesianische Meditationen ... a.a.O. [6] 133; vgl. hierzu und zum Folgenden: TH. SEEBOHM: Die Bedingungen der Möglichkeit der Transzendentalphilos. (1962) 105ff. \nHUSSERL, Erste Philos. a.a.O. [5] 80ff. \na.a.O. 89. \nIdeen ... 2. Buch a.a.O. [4] 101ff. \nCartesianische Meditationen ... a.a.O. [6] 81; Erste Philos. a.a.O. [5] 442; vgl. schon Zur Phänomenol .... a.a.O. [1] 119. \na.a.O. 83; Erste Philos. a.a.O. [5] 412. \nHELD, a.a.O. [5] 74; G. BRAND: Welt, Ich und Zeit. Nach unveröffentlichten Ms. Edmund Husserls (Den Haag 1955) 75. \nDiese Ms. befinden sich im Husserl-Archiv zu Löwen (Belgien) und wurden zur Zeit der Abfassung dieses Wörterbuches für die Herausgabe in den ges. Werken vorbereitet. In größerem Umfange benutzt sind sie in den Werken der Sekundärlit. [5, 7, 13]. \nHUSSERL, Erste Philos. a.a.O. [5] 175. \nDie Krisis der europäischen Wiss. und die transzendentale Phänomenol. Husserliana 6 (Den Haag 21962) 171. \nIdeen ... 2. Buch a.a.O. [4] 97ff. \na.a.O. 102f. \nCartesianische Meditationen ... a.a.O. [6] 100ff.; Phänomenol. Psych. a.a.O. [2] 208–215. \nAnalysen zur passiven Synthesis. Husserliana 11 (Den Haag 1966) 360f. \nErste Philos. a.a.O. [5] 86. 161. 470; Phänomenol. Psychol. a.a.O. [2] 475ff. \na.a.O. 216f.; Ideen ... 2. Buch a.a.O. [4] 111; Cartesianische Meditationen ... a.a.O. [6] 102.",
+ "l":"G. BRAND s. Anm. [13]. – TH. SEEBOHM s. Anm. [7]. – K. HELD s. Anm. [5].",
+ "au":"K. Held",
+ "A":["K. Held"],
+ "cb":[[0,138],[22,139],[3405,140]],
+ "cn":[
+  [0,138],
+  [301,138],
+  [456,138],
+  [569,140],
+  [578,140],
+  [737,140],
+  [976,140],
+  [1129,140],
+  [1294,140],
+  [1335,140],
+  [1347,140],
+  [1384,140],
+  [1509,140],
+  [1551,140],
+  [1667,140],
+  [1914,140],
+  [1954,140],
+  [2061,140],
+  [2097,140],
+  [2111,140],
+  [2202,140],
+  [2273,140],
+  [2352,140]
+ ],
+ "cl":[[0,140]]
+}
+);

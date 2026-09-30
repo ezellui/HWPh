@@ -1,0 +1,65 @@
+HWPH.put("a/2956",
+{
+ "id":2956,
+ "lemma":"Soziobiologie",
+ "band":"9",
+ "kind":"article",
+ "col_from":1263,
+ "col_to":1266,
+ "pdf_from":38642,
+ "pdf_to":38648,
+ "authors":["A. Metzner"],
+ "n_notes":13,
+ "n_chars":8562,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Soziobiologie (engl. sociobiology, social biology). <span class=\"col\" data-col=\"1264\"></span> Soziobiologische Fragestellungen sind seit langem bekannt und finden sich in der Nachfolge von <a class=\"xref\" href=\"#/a/2939\">Sozialdarwinismus</a> <span class=\"sd\">→ (s.d.)</span>, Eugenik und vergleichender Verhaltensforschung in verschiedenen Disziplinen immer wieder, besonders natürlich in der Biologie, Psychologie, Soziologie und Anthropologie. In diesem Sinne definiert bereits 1950 J. P. SCOTT die «social biology» als eine zwischen Psychologie, Soziologie und Biologie angesiedelte interdisziplinäre Wissenschaft <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Diesen Anregungen folgt die Gründung der Zeitschrift ‹Social Biology› (1954), die von der Amerikanischen Eugenischen Gesellschaft herausgegeben wird, und des wichtigeren ‹Journal of Biosocial Science› (seit 1969).</p>\n<p>In der Nachfolge von W. D. HAMILTON <sup class=\"fn\" data-fn=\"0-2\">2</sup> und J. MAYNARD SMITH <sup class=\"fn\" data-fn=\"0-3\">3</sup> entwickelt E. O. WILSON seinen Ansatz einer eigenen Disziplin ‹S.› <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Er definiert ‹S.› als «systematic study of the biological basis of all social behavior» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Sie vereinigt Erkenntnisse und Modelle der Verhaltensökologie, Evolutionsbiologie und Populationsgenetik. Kernelement dieser Forschungsrichtung ist die systematisch betriebene Rückführung sozialer Verhaltensweisen auf die genetischen Strukturen der an ihnen beteiligten Organismen. Die S. umfaßt damit nicht nur das Sozialverhalten vergesellschaftet lebender Tierindividuen, sondern auch die evolutionär entstandene Formenvielfalt von Sozialstrukturen ganzer Tierpopulationen (Schwarm, Herde, Horde, Insektenstaat usw.). Eine Sonderstellung des Menschen ist theoretisch nicht angelegt, ebensowenig eine spezielle Untersuchung seiner Sozialität. «It may not be too much to say that sociology and the other social sciences, as well as the humanities, are the last branches of biology waiting to be included in the Modern Synthesis» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Im Vergleich zur ethologischen Tiersoziologie, die sich überwiegend um die Beschreibung und Erforschung von Verhaltensweisen kümmert (Frage nach den verhaltensphysiologischen Wirkursachen), läßt sich die S. als eine auf das Sozialverhalten der Lebewesen konzentrierte Evolutionsbiologie fassen, der es um die selektiven Vor- und Nachteile bestimmter sozialer Verhaltensweisen und Strukturen geht (Frage nach den selektiven Zweckursachen). Jene ist mehr an artspezifischen Verhaltensweisen interessiert, während diese das Spektrum individueller Verhaltensunterschiede innerhalb der Population in den Vordergrundrückt.</p>\n<p>Die Entwicklung der S. reagiert auf einige Komplikationen, die im Gefolge der neodarwinschen Evolutionstheorie auftreten: 1) Wenn nur solche Verhaltensweisen sich im Laufe der Evolution bewähren und erhalten bleiben, die ihren Trägern Überlebensvorteile verschaffen, wie ist dann altruistisches Verhalten zu erklären? <sup class=\"fn\" data-fn=\"0-7\">7</sup> 2) Wie sind dem Überleben einer Art offensichtlich abträgliche Sozialverhaltensweisen der intraspezifischen Aggression zu erklären? 3) Wie ist die Evolution staatenbildender Insektenarten zu erklären, deren Individuen zugunsten einer Königin arbeiten und auf die eigene Reproduktion verzichten? Eine Erklärung bietet hier die von V. C. WYNNE-EDWARDS <sup class=\"fn\" data-fn=\"0-8\">8</sup> vertretene These der <i>Gruppenselektion.</i> Darin wird die natürliche Selektion, soweit sie über die Ebene der Individuen hinausgeht und zwischen Gruppen stattfindet, als ein Mechanismus für die Evolution von Merkmalen betrachtet, die für den Einzelnen nachteilig, für die große soziale Einheit jedoch von Nutzen ist. Anders verfahren J. MAYNARD SMITH und W. D. HAMILTON <sup class=\"fn\" data-fn=\"0-9\">9</sup>, die sich auf den Begriff der <i>Verwandtschaftsselektion</i> konzentrieren. Von besonderer Bedeutung für diesen Ansatz ist, daß durch Fortpflanzung verwandte Organismen je nach Verwandtschaftsgrad mehr oder minder große Anteile identischer Gene aufweisen. Wo früher die neodarwinsche Theorie sagte, daß Merkmale und Verhalten aller Organismen dadurch bestimmt seien, daß sie sich selbst maximal fortpflanzen, korrigiert die S. insofern, als sie darauf hinweist, daß streng genommen durch die Generationsfolge hindurch nur die Gene überleben, während die Phäne sterben. Jeder Phän <span class=\"col\" data-col=\"1265\"></span> verhält sich so, daß die Gene, deren Träger er ist, sich in den folgenden Generationen in größtmöglicher Anzahl wiederfinden. Dieser Ansatz liefert eine Antwort auf die Frage, warum wir unsere Verwandtschaft begünstigen, denn selektionsbegünstigt ist es, «sich direkt proportional zum Verwandtschaftsgrad gegenüber anderen altruistisch zu verhalten» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Stark pointiert wird diese Sichtweise bei R. DAWKINS <sup class=\"fn\" data-fn=\"0-11\">11</sup>, der die Gene als Replikatoren den Phänen als deren Behälter gegenüberstellt. Nicht das Überleben des Behälters treibt das Verhalten des Organismus an, sondern die maximale Ausbreitung der Gene, die er beinhaltet, ist für sein Verhalten bestimmend. Molekulargenetischer Reduktionismus ist dies insofern, als die DNS (Desoxyribonukleinsäure) so zur eigentlichen Essenz der Evolution des Lebens wird, während der Organismus kaum mehr als ein Vehikel darstellt.</p>\n<p>An dieser Stelle sei darauf hingewiesen, daß ideologische Scheingefechte und sachlich gebotene Auseinandersetzungen zwischen ‘naturalistischenʼ und ‘kulturalistischenʼ Positionen oft schwer zu unterscheiden sind. Die beteiligten Fächer der Biologie, der Soziologie, der Psychologie usw. konstituieren verschiedene Objektbereiche, die sich in der Realität menschlichen Sozialverhaltens teilweise überschneiden, teilweise aber auch wenig miteinander zu tun haben, insofern verschiedene Erklärungsebenen vorliegen: genetische Programmierungen in der Phylogenese und Geschichte der Art, Erfahrungen und Lernprozesse innerhalb der Lebensgeschichte des Individuums, Lernprozesse und tradierte Muster in der Organisation sozioökonomischer Prozesse im Verlauf der Geschichte menschlicher Kulturen. Der Philosophie eröffnen sich damit neuartige Diskurse, indem sich die Ethik als eine verhaltensregulierende Leistung lebender Systeme darstellt, deren Basis im Prozeß des Lebens selbst zu finden ist, was nicht ausschließt, sie innerhalb der transzendentalen Subjektivität zu suchen. Wenn der Mensch nicht länger als Ebenbild Gottes zu denken ist, sondern als sich weiterentwickelndes Produkt evolutionärer Prozesse, die seinen Geist ebenso hervorgebracht haben wie seine Fähigkeit zu Kultur und Sittlichkeit, so lassen sich seine Probleme nicht mehr am Maßstab des Absoluten messen, sondern sind der zu bewältigende Ausdruck seiner beschränkten Existenz.</p>\n<p>Die S. ist nicht ohne Kritik geblieben. Aus wissenschaftstheoretischer Sicht wird das «totalisierende Erklärungsprogramm» der S. als selbstwiderlegend bezeichnet <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Der genetische Reduktionismus der S. ist bei physischen Anthropologen und physiologisch orientierten Biologen umstritten <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Schließlich bleibt der Einspruch der philosophischen Anthropologie, die stets auf die Sonderstellung des Menschen in der Natur hingewiesen hat. <span class=\"col\" data-col=\"1266\"></span></p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">E. O. WILSON s. Anm. [4]. – G. LENSKI: Sociology and sociobiology: an alternative view. Amer. Sociologist 12 (1977) 73–75. – A. L. CAPLAN: The sociobiology debate (New York 1978). – D. P. BARASH s. Anm. [10]. – F. J. VON BOGDANY: S., Möglichkeiten und Grenzen der ‘Neuen Synthesisʼ. Kölner Z. Soziol. Sozialpsychol. 32 (1980) 312–324. – G. W. BARLOW/J. SILVERBERG (Hg.): Sociobiology: Beyond nature/nurture (Boulder, Col. 1980). – J. MAYNARD SMITH: The birth of sociobiology. New Scientist 107 (1985) 48–50. – H. L. KAYE: The social meaning of modern biology. From social Darwinism to sociobiology (New Haven 1986). – H.-G. MARTEN: Soziobiologismus. Biolog. Grundpositionen der polit. Ideengesch. (1987). E. VOLAND: Grundriß der S. (1993).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1265\"></span> J. P. SCOTT: Vorw., in: Methodology and techniques for the study of animal societies. Annals New York Acad. Sci. 51 (1950) 1004.</li>\n<li id=\"fn0-2\" value=\"2\">W. D. HAMILTON: Genetical evolution of social behavior. J. theoret. Biology 7 (1964) 1–52.</li>\n<li id=\"fn0-3\" value=\"3\">J. MAYNARD SMITH: Group selection and kin selection. Nature 201 (1964) 1145–1147.</li>\n<li id=\"fn0-4\" value=\"4\">E. O. WILSON: Sociobiology – The new synthesis (Cambridge, Mass. 1975); On human nature (Cambridge, Mass. 1978); dtsch.: Biologie als Schicksal (1980).</li>\n<li id=\"fn0-5\" value=\"5\">Sociobiol. ..., a.O. 4.</li>\n<li id=\"fn0-6\" value=\"6\">a.O.</li>\n<li id=\"fn0-7\" value=\"7\">3.</li>\n<li id=\"fn0-8\" value=\"8\">V. C. WYNNE-EDWARDS: Animal dispersion in relation to social behaviour (Edinburgh 1962).</li>\n<li id=\"fn0-9\" value=\"9\">HAMILTON, a.O. [2] 3.</li>\n<li id=\"fn0-10\" value=\"10\">D. P. BARASH: S. und Verhalten (1980) 296.</li>\n<li id=\"fn0-11\" value=\"11\">R. DAWKINS: The selfish gene (Oxford 1976); dtsch.: Das egoist. Gen (1978); vgl. In defence of selfish genes. Philosophy 56 (1981) 556–573, hier: 558f. <span class=\"col\" data-col=\"1266\"></span></li>\n<li id=\"fn0-12\" value=\"12\">A. DORSCHEL: Zur Kritik des totalisierenden Erklärungsprogramms – am Beispiel der S. Theol. Philos. 63 (1988) 384–395.</li>\n<li id=\"fn0-13\" value=\"13\">H. HEMMINGER: Der Mensch – eine Marionette der Evolution? Eine Kritik an der S. (1983); R. HERNEGGER: Anthropologie zwischen S. und Kulturwiss. (1989).</li>\n</ol>",
+ "prev":{"id":2955,"lemma":"Sozinianismus","band":"9","col":1257},
+ "next":{"id":2957,"lemma":"Soziographie","band":"9","col":1266},
+ "backlinks":[{"id":3406,"lemma":"Verhalten","n":1}],
+ "outlinks":[{"id":2939,"lemma":"Sozialdarwinismus","n":1}],
+ "register":[
+  {"term":"Gruppenselektion","qualifier":"","band":"9","col":"1264"},
+  {"term":"sociobiology","qualifier":"","band":null,"col":null},
+  {"term":"Verwandtschaftsselektion","qualifier":"","band":"9","col":"1264"}
+ ],
+ "persons":[
+  {"id":169,"name":"W. Hamilton","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":10206,"name":"J. Maynard Smith","b":2,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":988,"name":"E. O. Wilson","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":5398,"name":"J. P. Scott","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8292,"name":"R. Dawkins","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17736,"name":"V. C. Wynne-Edwards","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17737,"name":"D. P. Barash","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":8325,"name":"A. Dorschel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":14636,"name":"R. Hernegger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":29453,"name":"H. Hemminger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7403,"name":"H. Caplan","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8726,"name":"R. Marten","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10090,"name":"G. E. Lenski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":29454,"name":"F. J. von Bogdany","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":29455,"name":"J. Silverberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":29456,"name":"E. Voland","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3543,"name":"F. B. Kaye","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":6567,"name":"C. W. Barlow","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2629,"lemma":"Reduktionismus","tf":2},
+  {"id":439,"lemma":"Biologie","tf":3},
+  {"id":2960,"lemma":"Soziologie","tf":3},
+  {"id":2059,"lemma":"Nachfolge (imitatio) Christi","tf":2},
+  {"id":2511,"lemma":"Psychologie","tf":3},
+  {"id":175,"lemma":"Anthropologie","tf":2},
+  {"id":2243,"lemma":"Organismus","tf":2},
+  {"id":1701,"lemma":"Kultur, Kulturphilosophie","tf":2},
+  {"id":1930,"lemma":"Merkmal","tf":2},
+  {"id":3040,"lemma":"Struktur","tf":2}
+ ],
+ "see_also":[{"id":2939,"lemma":"Sozialdarwinismus"}],
+ "groups":[
+  {"id":5,"name":"Biologie","label":"Soziobiologie"},
+  {"id":7,"name":"Disziplinen und Fächer","label":"Soziobiologie"},
+  {"id":42,"name":"Soziologie","label":"Soziobiologie"}
+ ],
+ "reg_authors":[{"name":"Metzger Wolfgang","n":13}]
+}
+);

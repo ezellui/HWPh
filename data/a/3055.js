@@ -1,0 +1,67 @@
+HWPH.put("a/3055",
+{
+ "id":3055,
+ "lemma":"Subkultur",
+ "band":"10",
+ "kind":"article",
+ "col_from":474,
+ "col_to":476,
+ "pdf_from":40974,
+ "pdf_to":40978,
+ "authors":["F. Sack"],
+ "n_notes":13,
+ "n_chars":5198,
+ "toc":[
+  ["p1","1. Die relativ späte Entwicklung des Konzepts ‹S.› hängt eng mit den Beso",3],
+  ["p2","2. Mit der Umstellung des Kulturkonzepts von einer «alteuropäischen» auf ",3],
+  ["p3","3. Entlang dieser Entwicklung läßt sich die begriffliche Karriere von ‹S.",3],
+  ["h6","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Subkultur (engl. subculture) <span class=\"col\" data-col=\"475\"></span></p>\n<p id=\"p1\">1. Die relativ späte Entwicklung des Konzepts ‹S.› hängt eng mit den Besonderheiten seines Stammbegriffs zusammen. Bei der Entwicklung der Gesellschaften zu Nationalstaaten im Europa der Neuzeit <sup class=\"fn\" data-fn=\"0-1\">1</sup> war der Begriff ‹Kultur› Indikator und Faktor in einem. Diesem integrativen Moment ist ‹S.› diametral entgegengesetzt. Die zweite Besonderheit des Stammbegriffs ‹Kultur› ist seine positive axiologische Aufladung. Aus einer solchen Bedeutungsperspektive erscheint ‹S.› wiederum eher als Gegenbegriff zu ‹Kultur› und nicht als ein Unterbegriff.</p>\n<p id=\"p2\">2. Mit der Umstellung des Kulturkonzepts von einer «alteuropäischen» auf eine funktionalistische Basis, wie sie neuerdings auch N. LUHMANN vorführt <sup class=\"fn\" data-fn=\"0-2\">2</sup>, muß der Kulturbegriff nicht mehr gegenständlich gefaßt werden <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Erst dieser interkulturell ‘enteuropäisierteʼ und intrakulturell ‘demokratisierteʼ bzw. ‘egalitäreʼ Kulturbegriff, wie er in der Ethnologie und Kulturanthropologie bereits vor der Jahrhundertwende eingeführt wurde <sup class=\"fn\" data-fn=\"0-4\">4</sup>, macht den Weg frei für eine Perspektive, die neben der «high culture» eine «low culture» anerkennt. Zugleich ist damit die begriffliche Entkoppelung von Kultur und Gesellschaft vollzogen <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p id=\"p3\">3. Entlang dieser Entwicklung läßt sich die begriffliche Karriere von ‹S.› nachzeichnen. Zu den Wegbereitern zählt E. DURKHEIM, dessen Begriff ‹Anomie› das Verhalten marginalisierter Minderheiten erfassen soll, die sich in Industriegesellschaften herausbilden <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Untersuchungen z.B. zur Verhinderung von Anomien (R. K. MERTON, T. PARSONS <sup class=\"fn\" data-fn=\"0-7\">7</sup>) knüpfen hier ebenso an wie die Kritik R. SCHWENDTERS <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>‹S.› als Bezeichnung für Gruppen, deren Normen, Bedürfnisse, Institutionen, Interessen usw. von denen der Gesamtgesellschaft abweichen, wird von weiteren Forschungsansätzen aufgegriffen. Die Chicagoer Schule der dreißiger Jahre sieht S. in Abweichungen sozioökonomischer Art begründet. E. GOFFMAN betont, daß gesamtgesellschaftliche Normen und Verhaltensweisen auf Abweichende «stigmatisierend» wirken und so u.a. subkulturelles Verhalten provozieren <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Ähnlich ist H. MARCUSES «eindimensionaler Mensch» das Ergebnis einer alle Gesellschaftsschichten durchdringenden Normierung bzw. einer Gleichschaltung von Kapital, Staat, Medien, Ausbildung und Reproduktion. In dieser Perspektive wird die S. aufgewertet: Die Mängel der Gesamtgesellschaft sollen von sog. Randgruppen geltend gemacht, attackiert und überwunden werden <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Die Vorstellungen des Kulturtheoretikers R. WILLIAMS bildeten die konzeptionelle Grundlage für die Gründung des ‹Centre for Contemporary Cultural Studies› (CCCS) in Birmingham während der sechziger Jahre <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Drei Gesichtspunkte zeichnen die dort entstandenen Arbeiten aus: a) Der Schwerpunkt liegt auf dem Feld der Jugendkultur (en); b) Der Begriff der Kultur wird unter zentralem Bezug auf das Konzept der Hegemonie von A. Gramsci formuliert – vor allem auch in Ablehnung bzw. kritischer Weiterführung der Kritischen Theorie <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Kultur wird bestimmt als ein Terrain und ein Medium der gesellschaftlichen Auseinandersetzung und des sozialen Konflikts um kulturelle Hegemonie – die Autoren des CCCS sprechen daher auch von «subordinate culture»; c) Nach B. AGGER ist Kultur schließlich «not simply received wisdom or passive experience but a host of active interventions, notably through discourse and representation, that may change history as much as transmit the past» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. <span class=\"col\" data-col=\"476\"></span></p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">E. GOFFMAN s. Anm. [9]. – T. ROSZAK: The making of a counter culture (New York 1968/69); dtsch.: Gegenkultur (1971). – R. SCHWENDTER s. Anm. [8]. – C. SUMNER: The sociology of deviance. An obituary (Buckingham 1994).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. N. LUHMANN: Kultur als hist. Begriff, in: N. LUHMANN: Ges.struktur und Semantik. Studien zur Wissenssoziol. der mod. Ges. 4 (1995) 41; vgl. auch: Art. <a class=\"xref\" href=\"#/a/1701\">→ Kultur, Kulturphilosophie</a>. Hist. Wb. Philos. 4 (1976) 1309–1324.</li>\n<li id=\"fn0-2\" value=\"2\">LUHMANN, a.O. 32.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. A. L. KROEBER/C. KLUCKHOHN: Culture – a crit. review of concepts and definitions. Papers Peabody Museum <span class=\"col\" data-col=\"476\"></span> Amer. Archeol. Ethnol. 47 (1952) 1–223; L. A. WHITE: Der Begriff der Kultur (1959), in: C. A. SCHMITZ (Hg.): Kultur (1963) 358–388.</li>\n<li id=\"fn0-4\" value=\"4\">R. SCHWENDTER: Theoretiker der S., in: H. BRACKERT/F. WERFELMEYER (Hg.): Kultur. Bestimmungen im 20. Jh. (1990) 398–420, 400f.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. R. WILLIAMS: The long revolution (London 1961).</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. E. DURKHEIM: Le suicide (Paris <sup>2</sup>1912) 264ff.</li>\n<li id=\"fn0-7\" value=\"7\">R. K. MERTON: Soc. theory and soc. structure (New York 1968); T. PARSONS: Essays in sociolog. theory (Glencoe, Ill. 1954); dtsch.: Beiträge zur soziolog. Theorie (1964).</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. R. SCHWENDTER: Theorie der S. (1973).</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. E. GOFFMAN: Stigma. Notes on the management of spoiled identity (Englewood Cliffs 1963); dtsch.: Stigma (1967); vgl. auch z.B.: F. SACK/R. KÖNIG (Hg.): Kriminalsoziol. (1968); H. S. BECKER: The outsiders (New York 1963).</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. H. MARCUSE: The one-dimensional man. Studies in the ideology of advanced industr. society (Boston 1964); dtsch.: Der eindimens. Mensch. Studien zur Ideologie der fortgeschrittenen Ges. (<sup>2</sup>1967); Versuch über die Befreiung (1969).</li>\n<li id=\"fn0-11\" value=\"11\">Selbstdarst. des Centre for Contemp. Cultural Studies. Ästhetik und Kommunikation 7/24 (1976) 35–38; B. AGGER: Cultural studies as crit. theory (London/Washington, D.C. 1992) 75–92. passim.</li>\n<li id=\"fn0-12\" value=\"12\">AGGER, a.O.</li>\n<li id=\"fn0-13\" value=\"13\">a.O. 89.</li>\n</ol>",
+ "prev":{"id":3054,"lemma":"Subjunktion; Subjunktor","band":"10","col":474},
+ "next":{"id":3056,"lemma":"Sublimierung","band":"10","col":476},
+ "backlinks":[],
+ "outlinks":[{"id":1701,"lemma":"Kultur, Kulturphilosophie","n":1}],
+ "register":[
+  {"term":"Anomie","qualifier":"","band":"10","col":"475"},
+  {"term":"counter-culture","qualifier":"","band":"10","col":"475"},
+  {"term":"Gegenkultur","qualifier":"","band":"10","col":"476"},
+  {"term":"Mensch, eindimensionaler","qualifier":"","band":"10","col":"475"},
+  {"term":"subculture","qualifier":"","band":null,"col":null},
+  {"term":"subordinate culture","qualifier":"","band":"10","col":"475"}
+ ],
+ "persons":[
+  {"id":98,"name":"N. Luhmann","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":10268,"name":"R. Schwendter","b":1,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":13037,"name":"B. Agger","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2527,"name":"E. Goffman","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":121,"name":"H. Marcuse","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":218,"name":"E. Durkheim","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":239,"name":"T. Parsons","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":974,"name":"R. K. Merton","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2949,"name":"R. Williams","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":17955,"name":"Cccs","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":730,"name":"R. König","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":808,"name":"H. Schmitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2364,"name":"H. Becker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1804,"name":"A. L. Kroeber","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3782,"name":"F. Sack","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2719,"name":"C. Kluckhohn","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4487,"name":"L. A. White","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":30144,"name":"H. Brackert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":30145,"name":"F. Werfelmeyer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4064,"name":"W. G. Sumner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":30146,"name":"T. Roszak","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2160,"lemma":"Norm","tf":2},
+  {"id":2326,"lemma":"Perspektive, Perspektivismus, perspektivisch","tf":2},
+  {"id":3406,"lemma":"Verhalten","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Subkultur"}],
+ "reg_authors":[{"name":"Sack Fritz","n":1}]
+}
+);

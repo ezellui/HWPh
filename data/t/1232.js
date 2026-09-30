@@ -1,0 +1,12 @@
+HWPH.put("t/1232",
+{
+ "b":"Heautonomie ist ein von KANT geprägter Begriff, der eine besondere Form der Autonomie kennzeichnet, die man «eigentlich» H. «nennen müßte» . Gemeint ist die Form der Autonomie, die der reflektierenden Urteilskraft und deren spezifischen Verfahren der apriorischen Gesetzgebung zukommt, nämlich, anders als der theoretische Verstand und die praktische Vernunft, nicht gesetzgebend in Ansehung eines objektiven Gegenstandsbereichs (Natur und Sitten) zu sein, sondern in Ansehung von sich selber als subjektivem Vermögen. Heautonom ist sowohl das Verfahren der teleologischen Urteilskraft in deren regulativem Charakter wie das der ästhetischen Urteilskraft in deren konstitutiver Funktion . Mit der H. der reflektierenden Urteilskraft will Kant jene Form von Autonomie eines subjektiven Vermögens in Frage stellen, dessen Kraft zur Gesetzgebung schon feststeht und durch einen besonderen vorgegebenen Fall nicht in Frage gestellt werden kann. Daß das subjektive Vermögen der Urteilskraft erst unter ein Gesetz zu bringen ist, und zwar von diesem Vermögen selbst, bezeichnet demgegenüber die Nichtfixiertheit dieses Vermögens hinsichtlich seiner Geltung. Was es zu leisten vermag, muß von der reflektierenden Urteilskraft allererst gefunden werden und dies in der Konfrontation mit solchen Sachverhalten, die nicht als subsumierbare Fälle einer schon bekannten Allgemeinheit angesehen werden. Der Begriff der H. impliziert mit seiner Selbstbezüglichkeit der Urteilskraft also gerade ein unbegrenztes Offensein für nicht schon vom Subjekt her gedachte Gegebenheiten. \nIn dieser Kantischen Bedeutung nimmt SCHILLER den Begriff der H. auf, indem er die Schönheit als H. gegen die «bloße Autonomie» abgrenzt, die als subjektive Kunstfertigkeit den zu formenden Stoff unter sich zwingt und die darin auf diesen eine «äußere Gewalt» ausübt. Als H. ist die Form hingegen «zugleich selbstbestimmend und selbstbestimmt» , insofern sie gegenüber dem subjektiven Entwurf zugleich den von aller Subjektivität unabhängigen Stoff zur Geltung bringt. In der Vermittlung beider hat die Schönheit als H. ihren Ort.",
+ "n":"I. KANT, Erste Einl. zur KU. Akad.-A. 20, 225. \na.a.O. 234; vgl. 5, 185f. \n20, 225. \nFR. SCHILLER an Körner (23. 2. 1793). Briefe, hg. F. JONAS 3 (1893) 274. \nebda.",
+ "l":"",
+ "au":"W. Bartuschat",
+ "A":["W. Bartuschat"],
+ "cb":[[0,1022],[1564,1022]],
+ "cn":[[0,1022],[48,1022],[75,1022],[85,1022],[159,1022]],
+ "cl":[]
+}
+);

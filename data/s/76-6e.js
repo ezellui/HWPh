@@ -1,0 +1,27 @@
+HWPH.put("s/76-6e",
+{
+ "vn":"1se:0,1 64:0,1 i6:0,1 6f:0,gp,z,48 1:0,q,2,1 1:0,b,3",
+ "vnam":"2ju:0,0,1",
+ "vnart":"1g6:0,1",
+ "vnd":"3s:0,1 9q:0,1 k:0,1 124:0,1 d7:0,0,0,8 17:0,0,1 5a:0,0,2 72:0,3 80:0,1 11:0,1 3v:0,0,1 p:0,2 33:0,0,1 9:0,0,1 4l:0,2 2u:0,2",
+ "vnde":"2em:0,1",
+ "vnder":"2q2:0,1",
+ "vne":"1se:0,2 64:0,5",
+ "vngeschickt":"1g6:0,1",
+ "vnion":"1se:0,1",
+ "vniuersalibus":"2cp:0,1",
+ "vniuersaliter":"2ax:0,1",
+ "vniv":"1rq:0,0,1",
+ "vnnd":"1td:0,0,1,1",
+ "vnrecht":"1wz:0,1",
+ "vns":"15e:0,1 1n0:0,2",
+ "vnter":"1uk:0,0,1",
+ "vnterweisen":"1zu:0,0,1",
+ "vnterworffen":"2kh:0,1",
+ "vntrrichtung":"2bu:0,0,1",
+ "vnumbgangliche":"2nt:0,0,1",
+ "vnutrennego":"1fz:0,0,1",
+ "vnutrennem":"1f8:0,0,1",
+ "vnwidertreiblicher":"1td:0,0,1"
+}
+);

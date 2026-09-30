@@ -1,0 +1,78 @@
+HWPH.put("a/39",
+{
+ "id":39,
+ "lemma":"Acedia",
+ "band":"1",
+ "kind":"article",
+ "col_from":73,
+ "col_to":74,
+ "pdf_from":458,
+ "pdf_to":461,
+ "authors":["R. Hauser"],
+ "n_notes":9,
+ "n_chars":4086,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Acedia. Seine eigene Bedeutung erhält der Begriff ‹acedia› (ἀκήδεια, in der christlichen Literatur ἀκηδία) durch das frühe Mönchtum. Zuvor ist das Wort selten gebraucht und bezeichnet im profanen wie im christlichen Bereich einfach jede Art von Sorglosigkeit. Es wird in der asketischen Lehre des Mönchtums dann für eine besonders typische und heftige Versuchung festgelegt, die das monastische Leben in seinem Kern bedroht. CASSIAN beschreibt sie nach ihren Symptomen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Der Mönch wird seiner Zelle und Einsamkeit überdrüssig, Unlust, Unrast und Widerwille gegen Meditation und Arbeit befallen ihn. Er erkennt keinen geistlichen Gewinn und Fortschritt in seiner Lebensform mehr. Deshalb überläßt er sich der Trägheit, erstrebt einen Wechsel seines Klosters, beginnt zu wandern oder sucht die Rückkehr in die Welt. Nach JOHANNES KLIMAKOS ist die A. πάρεσις ψυχῆς καί νοὸς ἔκλυσις, ὀλιγωρία ἀσκήσεως («Erschlaffung der Seele und Entkräftung des Geistes, Vernachlässigung der Askese»), ja sie bringt dem Mönch den unbedingten Tod <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Sie ist unterschieden von allen andern Affekten oder dämonischen Angriffen. ORIGENES führt sie zum ersten Mal auf den δαίμων μεσημβρινός, den Mittagsteufel, zurück, den er im Vulgatatext von Ps. 91, 6 «non timebis ... ab incurso et daemonio meridiano» findet <span class=\"col\" data-col=\"74\"></span> <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die Unlust der A. überfällt den Menschen erfahrungsgemäß am meisten in den brütenden orientalischen Mittagsstunden. Von Origenes her bleibt diese Ableitung in der asketischen Literatur heimisch <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die A. wird dort unter die feststehende Reihe der acht Hauptlaster gerechnet, nach der Traurigkeit aufgezählt und aus ihr abgeleitet <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Sie ist selber der Mutterboden anderer Sünden; als solche werden genannt otiositas, somnolentia, importunitas, inquietudo, pervagatio, instabilitas mentis et corporis, verbositas, curiositas <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Bei GREGOR dem GROSSEN wird die A. dann endgültig mit der tristitia, einer der aus der Wurzel des Stolzes hervorgehenden Hauptsünden, in eins gesetzt <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die Lehre von den sieben Hauptsünden geht als festes Lehrstück in die katholische Ethik des Mittelalters und der Neuzeit ein. Auch wo die A. noch eigens genannt wird, unterscheidet sie sich nicht von der Traurigkeit. So kennt THOMAS die ‹accidia› als Gegensatz zu der aus der Liebe entspringenden Freude an Gott <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Er bestimmt sie als «tristitia de bono spirituali inquantum est bonum divinum», versteht sie nach 2. Kor. 7, 10 als λύπη τοῦ κόσμου und rechnet sie, bewußt gesetzt, unter die Todsünden. Sie ist eigentlich die Flucht vor Gott und äußert sich in ihren «Töchtern»: Verzweiflung, geistiges Schweifen, stumpfe Gleichgültigkeit, Kleinmütigkeit und Auflehnung bis zur hassenden Bosheit. Bezeichnenderweise begegnet sich HEIDEGGERS Analyse des alltäglichen Daseins mit den überlieferten Formen der A. <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Auch moderne Asketik hält das Lehrstück von der A. für wichtig und hat es eher noch psychologisch vertieft. Sie kennt sie als religiöse Lustlosigkeit aus Ermüdung, als Resignation, als satte Trägheit oder als widerwillige Verschlossenheit gegen Gott. Sogar die mythologisch seltsame Aussage vom Mittagsteufel hat im Blick auf die Krise des Menschen in seiner Lebensmitte durch die Entwicklungspsychologie eine überraschend neuartige Beleuchtung erfahren.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">P. POURRAT: La spiritualité chrétienne 1 (Paris 1931) 191f. – Dictionnaire de spiritualité ascétique et mystique, hg. M. VILLER (Paris 1932ff.) 1, 166ff. – Reallex. für Antike und Christentum, hg. TH. KLAUSER (1941ff.) 1, 62ff.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"74\"></span> J. CASSIANUS, De institutis coenobiorum Hb. 10, 2; vgl. EUAGRIUS PONTIKOS, De octo vitiosis cogitationibus. MPG 40, 1273 b.</li>\n<li id=\"fn0-2\" value=\"2\">J. KLIMAKOS, Scal. par. 13. MPG 88, 860 c.</li>\n<li id=\"fn0-3\" value=\"3\">ORIGENES, Ps.-Com. 90, 6. MPG 12, 1552 c.</li>\n<li id=\"fn0-4\" value=\"4\">EUAGRIUS PONTIKOS, a.a.O. 1273 b; PSEUDO-NILUS, De octo vitiis. MPG 79, 1456 d; CASSIANUS, a.a.O. 10, 1.</li>\n<li id=\"fn0-5\" value=\"5\">EUAGRIUS PONTIKOS, a.a.O. 1272 a. 1274 b; NILUS VON ANKYRA, Inst. ad mon. MPG 79, 1236 a; CASSIANUS, a.a.O. 10, 1; Conlationes 5, 3–10.</li>\n<li id=\"fn0-6\" value=\"6\">CASSIANUS, Conlationes 5, 16, 5.</li>\n<li id=\"fn0-7\" value=\"7\">GREGOR der GROSSE, Moralia 31, 45, 87/88. MPL 76, 621.</li>\n<li id=\"fn0-8\" value=\"8\">THOMAS VON AQUIN, S. theol. II/II, 35.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. J. PIEPER: Über die Hoffnung (1935) 60f.</li>\n</ol>",
+ "prev":{"id":38,"lemma":"Accidens praedicabile","band":"1","col":72},
+ "next":{"id":40,"lemma":"Achsenzeit","band":"1","col":74},
+ "backlinks":[
+  {"id":1837,"lemma":"Lust, Freude","n":1},
+  {"id":2117,"lemma":"Neugierde","n":1},
+  {"id":2788,"lemma":"Schwermut","n":1},
+  {"id":2837,"lemma":"Selbsthaß","n":1},
+  {"id":2881,"lemma":"Sicherheit","n":1},
+  {"id":3213,"lemma":"Trägheit","n":1},
+  {"id":3224,"lemma":"Trauer; Trauerarbeit","n":1},
+  {"id":3249,"lemma":"Überdruß","n":1},
+  {"id":3459,"lemma":"Verzweiflung","n":1},
+  {"id":3623,"lemma":"Willensschwäche","n":1},
+  {"id":3690,"lemma":"Zerstreuung","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"accidia","qualifier":"","band":null,"col":null},
+  {"term":"daemonius meridianus","qualifier":"","band":"1","col":"73"},
+  {"term":"Mittagsteufel","qualifier":"","band":"1","col":"73"},
+  {"term":"Todsünde","qualifier":"","band":"1","col":"74"},
+  {"term":"tristitia","qualifier":"","band":"1","col":"74"},
+  {"term":"ἀκηδία","qualifier":"","band":null,"col":null},
+  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"– I (anthr.) 12 1310–1315 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1684,"name":"Joh. Cassianus","b":0,"n":4,"l":0,"editor":0,"role":"mixed"},
+  {"id":10419,"name":"Euagrius Pontikos","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":61,"name":"Origenes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6172,"name":"Johannes Klimakos","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13,"name":"M. Heidegger","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":793,"name":"Grossen","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":737,"name":"Gregor","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":684,"name":"Gregor der Grosse","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":572,"name":"J. Pieper","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1900,"name":"Cassian","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":10420,"name":"Nilus von Ankyra","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18946,"name":"Pseudo-Nilus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7115,"name":"P. Pourrat","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3350,"name":"M. Viller","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":13361,"name":"Th. Klauser","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[
+  {"id":1915,"lemma":"Melancholie"},
+  {"id":2788,"lemma":"Schwermut"},
+  {"id":2834,"lemma":"Selbstflucht"},
+  {"id":3213,"lemma":"Trägheit"},
+  {"id":3224,"lemma":"Trauer; Trauerarbeit"},
+  {"id":3249,"lemma":"Überdruß"},
+  {"id":3459,"lemma":"Verzweiflung"},
+  {"id":3690,"lemma":"Zerstreuung"}
+ ],
+ "groups":[
+  {"id":2,"name":"Anthropologie","label":"Acedia"},
+  {"id":10,"name":"Ethik und Moralphilosophie","label":"Acedia"},
+  {"id":44,"name":"Theologie","label":"Acedia"}
+ ],
+ "reg_authors":[{"name":"Hauser Richard","n":18}]
+}
+);

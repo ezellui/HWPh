@@ -1,0 +1,12 @@
+HWPH.put("t/1121",
+{
+ "b":"Gestalttheorie heißt ein systematischer Ansatz in der Psychologie, der von folgenden Vermutungen ausgeht: \n1. Die in der Wahrnehmung gesicherte Unanwendbarkeit des Additivitäts- bzw. Summativitätstheorems gilt für den gesamten Bereich des Psychischen. \n2. Das Prinzip des Leitungsmosaiks verliert keineswegs ganz seine Bedeutung; es muß aber weitgehend durch das Prinzip der dynamischen Selbststeuerung und Selbstregulation auf Grund von Feldkräften zwischen gleichzeitig ablaufenden Prozessen ergänzt bzw. ersetzt werden. \n3. In dieser Hinsicht besteht Übereinstimmung zwischen den psychischen und den körperlichen Vorgängen, d.h. zwischen den Phänomenen und den Erregungskomplexen im Nervensystem. Es wird infolgedessen anstelle einer sinnlosen eine sinnvolle Zuordnung zwischen beiden (ein konkreter Parallelismus) nach dem Prinzip der Strukturverwandtschaft oder vielleicht sogar der Isomorphie möglich. \n4. In der Physik sind Systeme, aufweiche beide Ehrenfels-Kriterien für das Vorhandensein von Gestaltqualitäten (s.d.) zutreffen und die man nicht additiv erklären kann, längst bekannt . Eine erlebnisgerechte Theorie des Psychischen braucht demnach nicht – wie DILTHEY und seine Schüler befürchteten – mit der Erkenntnis des Nicht-psychischen in Widerspruch zu geraten. \nDer erste Ansatz der G. im obigen Sinne findet sich bei M. WERTHEIMER .",
+ "n":"W. KÖHLER: Die physischen Gestalten in Ruhe und im stationären Zustand (1920). \nW. DILTHEY: Ideen zu einer beschreibenden und zergliedernden Psychologie. Sber. preuß. Akad. Wiss. (1894). \nM. WERTHEIMER: Exp. Studien über das Sehen von Bewegung. Z. Psychol. 61 (1912) 161–265.",
+ "l":"K. KOFFKA: Zur Grundl. der Wahrnehmungspsychol. Z. Psychol. 73 (1915) 11–90; Principles of Gestalt psychol. (London 1935, 31950). – W. KÖHLER: Gestaltprobleme und Anfänge einer G. Jber. ges. Physiol. (1922); Dynamische Zusammenhänge in der Psychol. (1958). – M. WERTHEIMER: Untersuch. zur Lehre von der Gestalt. Psychol. Forsch. 1 (1922) 47–58; 4 (1923) 301–350; Über G. Sonderdrucke des Symposion 1 (1925). – W. METZGER: Psychol. (1941, 31963); Zur Gesch. der G. in Deutschland. Psychologia 6 (1963). – J. HELM: Über G. und Persönlichkeitspsychol., in: Hb. Psychol. 4 (1960) 357–390. – E. RAUSCH: Das Eigenschaftsproblem in der G. der Wahrnehmung, in: Hb. der Psychol. I/1 (1966) 866–953.",
+ "au":"W. Metzger",
+ "A":["W. Metzger"],
+ "cb":[[0,551],[47,552],[107,552],[253,552],[524,552],[909,552],[1279,552]],
+ "cn":[[0,551],[80,551],[188,551]],
+ "cl":[[0,552]]
+}
+);

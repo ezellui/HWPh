@@ -1,0 +1,27 @@
+HWPH.put("a/921",
+{
+ "id":921,
+ "lemma":"Finitismus",
+ "band":"2",
+ "kind":"article",
+ "col_from":954,
+ "col_to":954,
+ "pdf_from":6696,
+ "pdf_to":6696,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":266,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Finitismus heißt in der mathematischen Grundlagendiskussion der zeitweilig von D. HILBERT eingenommene Standpunkt, daß alle zulässigen Verfahrensweisen der Mathematik auf der Basis finiter Methoden <sup class=\"fn\" data-fn=\"0-1\">1</sup> zu rechtfertigen seien.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Siehe Art. <a class=\"xref\" href=\"#/a/920\">→ finit</a>, <a class=\"xref\" href=\"#/a/1273\">→ Programm, Hilbertsches</a>.</li>\n</ol>",
+ "prev":{"id":920,"lemma":"Finit","band":"2","col":954},
+ "next":{"id":922,"lemma":"Fixierung","band":"2","col":954},
+ "backlinks":[],
+ "outlinks":[{"id":920,"lemma":"Finit","n":1},{"id":1273,"lemma":"Hilbertsches Programm","n":1}],
+ "register":[],
+ "persons":[{"id":221,"name":"D. Hilbert","b":1,"n":0,"l":0,"editor":0,"role":"mixed"}],
+ "mentions":[],
+ "see_also":[{"id":1273,"lemma":"Hilbertsches Programm"}],
+ "groups":[{"id":24,"name":"Mathematik","label":"Finitismus"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

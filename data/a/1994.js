@@ -1,0 +1,47 @@
+HWPH.put("a/1994",
+{
+ "id":1994,
+ "lemma":"Modalismus",
+ "band":"6",
+ "kind":"article",
+ "col_from":7,
+ "col_to":8,
+ "pdf_from":20438,
+ "pdf_to":20441,
+ "authors":["L. Oeing-Hanhoff"],
+ "n_notes":11,
+ "n_chars":4698,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Modalismus ist Sammelbezeichnung für jene <span class=\"col\" data-col=\"8\"></span> heterodoxen Deutungen der christlichen Trinitätslehre, nach welchen die Dreizahl in Gott nicht real voneinander verschiedene, ihrer selbst bewußte Personen bezeichnet, sondern nur verschiedene Namen, Funktionen, Vermögen oder nicht-subjekthafte Weisen des einen göttlichen Seins, Wirkens oder Erscheinens ausdrückt. Den konträren Gegensatz zu solchem M. bildet der ebenfalls heterodoxe Tritheismus, der zwar die reale Verschiedenheit der göttlichen Personen anerkennt, aber die numerische Identität des einen göttlichen Wesens nicht zu wahren versteht und deshalb zur Annahme dreier in einem zwar artlich gleichen, aber doch je eigenen Wesen bestehender Götter tendiert. Auch die philosophischen Trinitätslehren haben, sofern sie die geoffenbarte und im kirchlichen Glaubensbekenntnis ausgesagte Dreieinigkeit Gottes auf den Begriff bringen wollen, einen Weg zwischen der Skylla des Tritheismus und der Charybdis des M. zu gehen, wie z.B. E. VON HARTMANNS Kritik zu entnehmen ist <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Die gegenwärtig sonst kaum gestellte Frage nach dem geschichtlichen Ursprung des Wortes ‹M.› hat H. CROUZEL dahingehend beantwortet, daß diese Bezeichnung «wahrscheinlich erst im 19. Jh.» geprägt worden sei <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Sie ist aber älter. Nach ST. WIEST lehrten Latitudinarier (s. Art. <a class=\"xref\" href=\"#/a/1732\">→ Latitudinarismus</a>) «eine göttliche Person sei eine Weise (modus) ... Gottes in Bezug auf die Kreaturen», und daher stamme der Ausdruck ‹M.› (dicti propterea Modalistae) <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Auch J. F. BUDDEUS schreibt 1723 den Ausdruck ‹M.› seinem Zeitalter zu (nostra aetate modalistae vocari solent) <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Weil schon 1706 in der anonym in Hamburg erschienenen Schrift ‹Les raisons des scripturaires› die Auffassung der «Modalisten» als «allgemein und unter den orthodoxen Lehren im höchsten Maße authentisch» bezeichnet wurde <sup class=\"fn\" data-fn=\"0-5\">5</sup>, könnte der Ausdruck ‹M.› schon aus der zweiten Hälfte des 17. Jh. stammen, was im einzelnen zu untersuchen der theologiegeschichtlichen Forschung überlassen werden muß.</p>\n<p>Während der Ausdruck ‹M.› im 19. Jh. vorwiegend dogmengeschichtlich zur Bezeichnung frühchristlicher Irrlehren, besonders des Sabellianismus, diente <sup class=\"fn\" data-fn=\"0-6\">6</sup>, hat er in den gegenwärtigen Kontroversen um die Trinitätslehre erneute Aktualität gewonnen. So ist nach J. MOLTMANN sowohl die Trinitätslehre K. BARTHS als auch K. RAHNERS, weil beide die göttlichen Personen nicht dialogischsozial denken, nur ein Ich in Gott annehmen und die Dreiheit selbstbewußter Personen auf drei Seins- oder Subsistenzweisen reduzieren, M. <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Dem gegen seine eigene Position dann in der Tat erhobenen Tritheismus-Vorwurf <sup class=\"fn\" data-fn=\"0-8\">8</sup> sucht MOLTMANN von vornherein zu begegnen: er diene «faktisch überall zur Verschleierung des eigenen M.» <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Aus diesen Kontroversen ergibt sich die Aufgabe einer genaueren Klärung des trinitarischen Personbegriffs: Weil die göttlichen Personen sich nicht im Wesen unterscheiden, das jeder ganz eigen ist und das sie nach ihrer Weise vollzieht, müssen sie sich darin, <i>wie</i> sie es besitzen und vollziehen, unterscheiden und daher selber verschiedene Existenzweisen des einen göttlichen Wesens sein. So besitzt der Vater die unteilbare Gottheit ursprünglich, teilt sie aber, sich aussagend und darstellend, dem dadurch gezeugten Wort, seinem Sohn, mit, und aus der Liebe zwischen Vater und Sohn geht der Hl. Geist hervor, der die eine Gottheit im Modus des Geschenktseins besitzt. Derart die göttlichen Personen als τρόποι ὑπάρξεως, «modi existendi» des einen göttlichen Wesens verstehen <sup class=\"fn\" data-fn=\"0-10\">10</sup>, ist dann kein M., wenn diesen individuellen Existenzweisen ichhaftes Bewußtsein ihrer selbst und Subjektcharakter nicht abgesprochen wird <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Dieser Personbegriff ist eine der wichtigsten Ausprägungen des vielschichtigen Begriffs «modus», dessen weitverzweigte Geschichte noch fast unerforscht ist.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">E. VON HARTMANN: Das relig. Bewußtsein der Menschheit (<sup>2</sup>Leipzig o. J.) 601.</li>\n<li id=\"fn0-2\" value=\"2\">Art. ‹M.›. LThK<sup>2</sup>.</li>\n<li id=\"fn0-3\" value=\"3\">ST. WIEST: Institutiones theol. dogm. II (Ingolstadt 1791) § 70.</li>\n<li id=\"fn0-4\" value=\"4\">J. F. BUDDEUS: Institutiones theol. dogm. (Leipzig 1723) 365.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. WIEST, a.O. [3]; BUDDEUS, a.O. 418.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. F. A. STAUDENMAIER: Die Philos. des Christenthums 1 (1840) 369. 493–504 pass.; J. FROHSCHAMMER: Die Lehre des Sabellius. Theol. Quartalschr. 31 (1849) 474; A. HARNACK: Realencykl. für prot. Theol. und Kirche 10 (<sup>2</sup>1882) s. v. ‹Monarchianismus› 183.</li>\n<li id=\"fn0-7\" value=\"7\">J. MOLTMANN: Trinität und Reich Gottes (1980) 155. 166.</li>\n<li id=\"fn0-8\" value=\"8\">W. KASPER: Der Gott Jesu Christi (1982) 360, Anm. 183.</li>\n<li id=\"fn0-9\" value=\"9\">MOLTMANN, a.O. [7] 161, Anm. 41.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. H. HEPPE und E. BIZER: Die Dogmatik der evang.-ref. Kirche (<sup>2</sup>1958) 96f.; ferner THOMAS VON AQUIN, S. theol. I, 30, 4, 2; Pot. 9, 5, 23 und RICHARD VON ST. VIKTOR, De trin. IV, 24.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. L. OEING-HANHOFF: Hegels Trinitätslehre. Theol. Philos. 52 (1977) 378–407, bes. 400f.</li>\n</ol>",
+ "prev":{"id":1993,"lemma":"Modalanalyse","band":"6","col":3},
+ "next":{"id":1995,"lemma":"Modalität","band":"6","col":9},
+ "backlinks":[{"id":2888,"lemma":"Singulär; Singularität","n":1},{"id":3231,"lemma":"Trinität","n":1}],
+ "outlinks":[{"id":1732,"lemma":"Latitudinarismus","n":1}],
+ "register":[{"term":"I-II","qualifier":"","band":"6","col":"8"}],
+ "persons":[
+  {"id":440,"name":"J. Moltmann","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":1272,"name":"J. F. Buddeus","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":9568,"name":"St. Wiest","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":184,"name":"E. von Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":63,"name":"K. Barth","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":151,"name":"K. Rahner","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":681,"name":"Richard von St. Viktor","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":931,"name":"A. Harnack","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1738,"name":"E. Bizer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1170,"name":"F. A. Staudenmaier","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1798,"name":"W. Kasper","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1661,"name":"J. Frohschammer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2981,"name":"H. Crouzel","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":406,"name":"L. Oeing-Hanhoff","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1095,"name":"H. Heppe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2318,"lemma":"Person","tf":7},{"id":1173,"lemma":"Gottheit","tf":2}],
+ "see_also":[{"id":2011,"lemma":"Monarchianismus"},{"id":3231,"lemma":"Trinität"}],
+ "groups":[
+  {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Modalismus"},
+  {"id":44,"name":"Theologie","label":"Modalismus"}
+ ],
+ "reg_authors":[{"name":"Oeing-Hanhoff Ludger","n":29}]
+}
+);

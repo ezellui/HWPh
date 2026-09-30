@@ -1,0 +1,68 @@
+HWPH.put("a/3063",
+{
+ "id":3063,
+ "lemma":"Substitution",
+ "band":"10",
+ "kind":"article",
+ "col_from":553,
+ "col_to":556,
+ "pdf_from":41221,
+ "pdf_to":41227,
+ "authors":["P. Stekeler-Weithofer"],
+ "n_notes":10,
+ "n_chars":7908,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Substitution (lat. substitutio; <span class=\"col\" data-col=\"554\"></span> engl. replacement, substitution) heißt zunächst und allgemein eine Vertretung oder Ersetzung eines Wortes, eines logischen oder mathematischen Ausdrucks oder Terms <i>t<sub>1</sub></i> durch einen Ausdruck <i>t<sub>2</sub></i> an bestimmten Stellen eines syntaktisch komplexen Ausdrucks <i>A = A</i>(<i>t</i><sub>1</sub>). In der modernen formalen Logik wird ‹S.› oder das deutsche Wort ‹Ersetzung› in der Regel terminologisch so gebraucht, daß der neue Ausdruck <i>t<sub>2</sub></i> bei allen Vorkommen von <i>t<sub>1</sub></i> in <i>A</i> ersetzt werden muß. In der erläuternden Metasprache wird eine solche Ersetzung z.B. durch die Notation <i>A</i>[<i>t</i><sub>1</sub>/<i>t</i><sub>2</sub>] angedeutet. Bei einer Einsetzung dagegen wird <i>t<sub>1</sub></i> nur an manchen Vorkommensstellen (mindestens einer) durch <i>t<sub>2</sub></i> ausgetauscht.</p>\n<p>In der Logik tritt der Begriff ‹S.› terminologisch zunächst im Kontext der Syllogistik auf und bezieht sich dort auf Begriffe. Die S. rechtfertigt dabei bestimmte Übergänge im Syllogismus und ist für G. W. LEIBNIZ eine Operation, durch die ein Begriff durch einen ihm äquivalenten ersetzt wird <sup class=\"fn\" data-fn=\"0-1\">1</sup>, wobei gilt: «Transitus species simplicissima est substitutio» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die S., wie Leibniz sie bestimmt, unterscheidet sich vom modernen Gebrauch in der Logik dadurch, daß sie nur in wahren Sätzen vorgenommen werden darf <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Die Leibnizsche S.-Theorie wird durch BOOLE, PEIRCE, JEVONS und SCHRÖDER im Rahmen der mathematischen Logik fortentwickelt; so bestimmt etwa G. BOOLE S. als das Prinzip des logischen (formalen) Schließens: «Reasoning consists in the inferential succession of the propositions by which Judgement is expressed, its fundamental principle being that of substitution» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Das Prinzip der S. lautet: «Two concepts which are equal may be substituted the one for the other in any process of logical inference» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Obwohl G. FREGE ‹S.› nicht terminologisch verwendet, wird für seine Analyse quantorenlogischer Verknüpfungen und damit für die <a class=\"xref\" href=\"#/a/2426\">Prädikatenlogik</a> <span class=\"sd\">→ (s.d.)</span> die S. als Ersetzung und als Einsetzung aus folgenden Gründen zentral: Setzt man für einen Namen <i>N</i> in einem komplexen Ausdruck <i>A</i> an einer oder mehreren Stellen eine (freie) Variable <i>x</i> ein, so erhält man einen Funktionsausdruck <i>A</i>(<i>N</i>/<i>x</i>) bzw. <i>A</i>(<i>x</i>). Einem derartigen Ausdruck entspricht eine Funktion, deren Werte für das durch den Namen <i>N</i> benannte Argument durch die Ausdrücke <i>A</i>[<i>x</i>/<i>N</i>] benannt werden, die durch S. von <i>N</i> für <i>x</i> in <i>A</i> entstehen. Über eine Ersetzung von mehreren Namen durch verschiedene Variablen erhält man Ausdrücke für mehrstellige Funktionen. <a class=\"xref\" href=\"#/a/974\">Funktionen</a> <span class=\"sd\">→ (s.d.)</span> sind demnach nicht einfach – wie bei P. G. L. DIRICHLET – Zuordnungen von Gegenständen, sondern sie werden, so ist diese Analyse zunächst zu lesen, durch syntaktische Formen (Aussageformen) und deren Gebrauch, damit durch gewisse S.en definiert. Begriffe, d.h. einfache oder komplexe, einstellige oder mehrstellige Attribute, sind dabei Funktionen, deren Argumente durch Namen benannt werden und die genau zwei Werte haben, wobei FREGE einen besonders ausgezeichneten Wert «das Wahre», den anderen «das Falsche» nennt <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In dieser funktionalen Darstellung prädikativer Begriffe auf der Basis von S.en besteht der Kern des ‹linguistic turn› philosophisch-logischer Analyse bei Frege und dann auch beim frühen Wittgenstein. Gegenstand heißt dann «alles, was nicht Funktion ist, dessen Ausdruck also keine leere Stelle [d.h. keine S.-Stelle, keine freie, nicht durch einen Variablenbinder gebundene, Variable] mit sich führt» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Besonders wenn man über nichtabzählbare Bereiche wie die reellen Zahlen redet, dürfen für die Variablen nicht nur Ausdrücke einer rein konfigurativ («rekursiv») definierten Namensliste, sondern ggf. situationsabhängige Benennungen (wie ‘dieser Baum daʼ oder ‘jene Folgeʼ) substituiert werden. Dabei heißt nicht die substituierte Benennung, sondern das durch sie (ggf.) Benannte «Variablenbelegung». Das ändert nichts an der grundsätzlichen Rolle der syntaktischen Form und der zugehörigen Prinzipien der S. für die Bedeutungsbestimmung von Ausdrücken für Funktionen <span class=\"col\" data-col=\"555\"></span> und Begriffe einerseits, von Benennungen andererseits. Und auch in einem offenen Bereich von Funktions- und Prädikatausdrücken, in dem beliebige Erweiterungen und Situationsvariante Erläuterungen der Satzbildung möglich sind, bestimmt die S. von Namen für Variablen zusammen mit den wahren Gleichungen zwischen gesättigten (Funktions-)Ausdrücken die Identität der Funktion.</p>\n<p>Treten <a class=\"xref\" href=\"#/a/2554\">Quantoren</a> <span class=\"sd\">→ (s.d.)</span> wie ‘manche <i>x</i>ʼ und andere Funktoren (d.h. Variablenbinder wie ‘die Menge der <i>y</i>ʼ oder ‘der Gegenstand <i>z</i>ʼ) in einem Ausdruck <i>A</i> geschachtelt auf, dann ist die Notation für den Skopus (den Bezugsbereich) der Funktoren auf die eine oder andere Weise eindeutig zu gestalten. In formalen Sprachen geschieht dies durch die Wahl gleicher Variablen in den Variablenbindern und der auf sie folgenden sog. Matrix <i>B</i>(<i>x, y</i> ...). Die normale Sprache benutzt für ähnliche Zwecke statt Variablen Pronomina, wobei u.a. Kongruenzen von Genus und Numerus in Verbindung mit bestimmten S.-Regeln eine Rolle spielen <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Die deduktiven Regeln der (klassischen) Funktionen-, Quantoren- oder Prädikatenkalküle ergeben sich daraus, daß man die Wahrheitswertverläufe einiger Aussagefunktionen, nämlich der durch Aussageformen wie ‘<i>p</i> und <i>q</i>ʼ oder ‘nicht-<i>p</i>ʼ ausgedrückten, auf bestimmte Weise definitorisch festlegt und auch die Wahrheitswerte quantorenlogisch zusammengesetzter Sätze der Form ‘für alle/für ein <i>x: A</i>(<i>x</i>)ʼ in Abhängigkeit der Wahrheitswerte aller Sätze der Form <i>A</i>(<i>N</i>) bestimmt <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Neben der Qualifikation ist auch die Gleichheit durch semantische Regelungen für S.en bestimmt: Eine abstrakte Gleichheit <i>N</i> = <i>M</i> als Relation zwischen Namen ist immer in Beziehung zu setzen zu einer Klasse von Prädikaten <i>P</i>(<i>x</i>), für die dann gilt, daß <i>P</i>[<i>N</i>/<i>M</i>] wahr ist, wenn <i>N</i> = <i>M</i> oder <i>M</i> = <i>N</i> wahr ist und <i>P</i>(<i>N</i>) wahr ist. In bezug auf einen derartigen Bereich von Prädikaten und eine wahre Gleichung <i>N</i> = <i>M</i> sagt man dann, daß <i>N</i> und <i>M</i> den gleichen Gegenstand benennen. Denn <i>N</i> und <i>M</i> können salva veritate in allen Kontexten, d.h. in allen komplexen Prädikaten und Funktionsausdrücken des betreffenden (Rede-)Bereichs (aber nicht etwa in bezug auf alle möglichen Redebereiche), füreinander substituiert werden. Dieses ‘Leibnizprinzipʼ der Gleichheit <sup class=\"fn\" data-fn=\"0-10\">10</sup> wird damit sogar zu einem Prinzip der logischen Konstitution von Gegenstandsbereichen. Es drückt nicht etwa eine ontische Eigenschaft sprachfrei gegebener Gegenstände aus, sondern zeigt, daß etwas nur in bezug auf einen Bereich von Benennungen und Prädikaten, von Sätzen, Satzformen und Aussagen ein Gegenstand ist. Die Rolle der S. bei der Konstitution der Bedeutung von Ausdrücken wird in formalen, explizit syntaktisch und semantisch normierten Sprachen nur deutlicher. Derartige Regeln der S. konstituieren (implizit und in je modifizierter Form) schon die Semantik der normalen, üblichen Sprache und damit auch jeder philosophischen Rede von Gegenständen, Begriffen und Eigenschaften. <span class=\"col\" data-col=\"556\"></span></p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">T. ZIEHEN: Lehrb. der Logik (1920) 732f. – F. W. K. E. SCHRÖDER: Vorles. über die Algebra der Logik 3 (1905, ND New York 1966) § 77. – H. BURKHARDT: Logik und Semiotik in der Philos. von Leibniz (1980) 330–332.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"555\"></span> G. W. LEIBNIZ: Zur Scientia generalis XIX [um 1690?], Theor. 1ff. Philos. Schr., hg. C. I. GERHARDT 7 (1890) 230t; vgl. Art. <a class=\"xref\" href=\"#/a/226\">→ Äquipollenz</a>. Hist. Wb. Philos. 1 (1971) 478f.</li>\n<li id=\"fn0-2\" value=\"2\">Opusc. et fragm. inéd., hg. L. COUTURAT (Paris 1903, ND 1961) 327.</li>\n<li id=\"fn0-3\" value=\"3\">G. MARTIN: Leibniz. Logik und Met. (1967) 80.</li>\n<li id=\"fn0-4\" value=\"4\">G. BOOLE: Extracts from a paper entitled ‹On the mathemat. theory of logic and on the philos. interpret. of its methods and processes› [ca. 1855/56], in: Studies in logic and probability (London/Lasalle, Ill. 1952) 230–246, zit. 231.</li>\n<li id=\"fn0-5\" value=\"5\">a.O. 235.</li>\n<li id=\"fn0-6\" value=\"6\">G. FREGE: Function und Begriff (1891) 13, in: Funktion, Begriff, Bedeut., hg. G. PATZIG (<sup>6</sup>1986) 18–39, hier: 24.</li>\n<li id=\"fn0-7\" value=\"7\">18, a.O. 28.</li>\n<li id=\"fn0-8\" value=\"8\">W. V. O. QUINE: Word and object (Cambridge, Mass. 1960) 135ff.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. FREGE, a.O. [6] 23/31. <span class=\"col\" data-col=\"556\"></span></li>\n<li id=\"fn0-10\" value=\"10\">Vgl. G. W. LEIBNIZ: Zur Sci. gen. XX, Def. 1, a.O. [1] 236; W./M. KNEALE: The development of logic (Oxford 1962) 340f.</li>\n</ol>",
+ "prev":{"id":3062,"lemma":"Substanz; Substanz/Akzidens","band":"10","col":495},
+ "next":{"id":3064,"lemma":"Substitutionstheorie","band":"10","col":556},
+ "backlinks":[{"id":3091,"lemma":"Syllogismus; Syllogistik","n":1}],
+ "outlinks":[
+  {"id":226,"lemma":"Äquipollenz","n":1},
+  {"id":974,"lemma":"Funktion","n":1},
+  {"id":2426,"lemma":"Prädikatenlogik, Prädikatenkalkül","n":1},
+  {"id":2554,"lemma":"Quantor, Quantifikator","n":1}
+ ],
+ "register":[
+  {"term":"Einsetzung","qualifier":"","band":null,"col":null},
+  {"term":"Ersetzung","qualifier":"","band":null,"col":null},
+  {"term":"replacement","qualifier":"","band":null,"col":null},
+  {"term":"substitutio","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":40,"name":"G. Frege","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":893,"name":"G. Boole","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":102,"name":"Ch. S. Peirce","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":143,"name":"W. V. O. Quine","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":302,"name":"G. Patzig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":457,"name":"G. Martin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":898,"name":"W. S. Jevons","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2186,"name":"Schröder","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3236,"name":"P. G. L. Dirichlet","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":276,"name":"Th. Ziehen","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":431,"name":"E. Schröder","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":6943,"name":"H. Burkhardt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":236,"name":"L. Couturat","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":501,"name":"M. Kneale","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3373,"lemma":"Variable","tf":7},
+  {"id":3050,"lemma":"Subjekt/Prädikat","tf":4},
+  {"id":2066,"lemma":"Name","tf":6},
+  {"id":2749,"lemma":"Sätze, subjektlose","tf":4},
+  {"id":1147,"lemma":"Gleichheit","tf":3},
+  {"id":1149,"lemma":"Gleichung, persönliche","tf":2},
+  {"id":3538,"lemma":"Wahrheitswert","tf":2},
+  {"id":1803,"lemma":"Logik","tf":4},
+  {"id":1624,"lemma":"Konstitution","tf":2},
+  {"id":3588,"lemma":"Wert","tf":3},
+  {"id":2640,"lemma":"Regel","tf":3},
+  {"id":125,"lemma":"Analyse","tf":3},
+  {"id":666,"lemma":"Eigenschaft","tf":2}
+ ],
+ "see_also":[{"id":974,"lemma":"Funktion"},{"id":3373,"lemma":"Variable"}],
+ "groups":[{"id":22,"name":"Logik","label":"Substitution"}],
+ "reg_authors":[{"name":"Stekeler-Weithofer Pirmin","n":19}]
+}
+);

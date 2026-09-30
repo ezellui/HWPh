@@ -1,0 +1,37 @@
+HWPH.put("a/3202",
+{
+ "id":3202,
+ "lemma":"Toleranzprinzip",
+ "band":"10",
+ "kind":"article",
+ "col_from":1262,
+ "col_to":1263,
+ "pdf_from":43413,
+ "pdf_to":43415,
+ "authors":["G. Gabriel"],
+ "n_notes":5,
+ "n_chars":2727,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Toleranzprinzip (engl. principle of tolerance). ‹T.› ist ein von R. CARNAP eingeführter Terminus zur Charakterisierung einer konventionalistischen Auffassung von Sprachen im Rahmen der Wissenschaftstheorie <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Carnap hat später vom «Prinzip der Konventionalität der Sprachform» gesprochen <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Der Grundgedanke besteht darin, inhaltliche wissenschaftstheoretische Auseinandersetzungen, wie z.B. den <a class=\"xref\" href=\"#/a/1193\">Grundlagenstreit</a> <span class=\"sd\">→ (s.d.)</span> zwischen Logizisten und Intuitionisten in der Mathematik, durch die Anerkennung und Beschreibung unterschiedlicher Sprachformen abzulösen: «In der Logik gibt es keine Moral. Jeder mag seine Logik, d.h. seine Sprachform, aufbauen wie er will. Nur muß er, wenn er mit uns diskutieren will, deutlich angeben, wie er es machen will, syntaktische Bestimmungen geben anstatt philosophischer Erörterungen» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Das T. ist damit Teil von Carnaps Bemühen um Ausschaltung sogenannter metaphysischer <a class=\"xref\" href=\"#/a/2758\">Scheinprobleme</a> <span class=\"sd\">→ (s.d.)</span> in den Wissenschaften. Es formuliert einen metatheoretischen Standpunkt, der darauf hinausläuft, Ontologie durch logische Syntax zu ersetzen. In modifizierter Form hat Carnap das T. später auch in der Auseinandersetzung zwischen Nominalisten und Platonisten in der Semantik zur Anwendung gebracht. Dabei unterscheidet er zwischen «internen» (die Sprachform als «linguistic framework» betreffenden) und «externen» (die Realität betreffenden) Existenzfragen. Externe Existenzfragen gelten ihm weiterhin als Scheinprobleme, während er bei internen Existenzfragen das T. empfiehlt. Das Kriterium für die Zulassung von Sprachformen sollte einzig der wissenschaftliche Nutzen sein <sup class=\"fn\" data-fn=\"0-4\">4</sup>. In der neueren analytischen Philosophie hat das T. als «Prinzip der wissenschaftstheoretischen Toleranz» eine Ausweitung (über die Konventionalität von Sprachformen hinaus) im Sinne einer pluralistischen Forderung nach Liberalität in Begründungsfragen erfahren <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">D. GOLDSTICK: The tolerance of R. Carnap. Australasian J. Philos. 49 (1971) 250–261. – C. H. <span class=\"col\" data-col=\"1263\"></span> LAMBROS: Carnap's principle of tolerance. Transact. Ch. S. Peirce Soc. 10 (1974) 17–33. – A. RICHARDSON: The limits of tolerance: Carnap's logico-philos. project in ‘Logical Syntax of Languageʼ. Proc. Arist. Soc., Suppl. 68 (1994) 67–82. – T. RICKETTS: Carnap's principle of tolerance, empiricism, and conventionalism, in: P. CLARK/B. HALE (Hg.): Reading Putnam (Oxford/Cambridge, Mass. 1994) 176–200.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">R. CARNAP: Log. Syntax der Sprache (Wien 1934, ND 1968) 44f.</li>\n<li id=\"fn0-2\" value=\"2\">Mein Weg in die Philos. (1993) 85.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. [1] 45.</li>\n<li id=\"fn0-4\" value=\"4\">Empiricism, semantics, and ontology, in: Meaning and necessity (Chicago <sup>3</sup>1956) 205–221, 221.</li>\n<li id=\"fn0-5\" value=\"5\">W. STEGMÜLLER: Probleme und Resultate der Wiss.theorie und Analyt. Philos. IV/1 (1973) 22–28; vgl. dagegen: J. MITTELSTRASS: Die Möglichkeit von Wiss. (1974) 87f.</li>\n</ol>",
+ "prev":{"id":3201,"lemma":"Toleranz","band":"10","col":1251},
+ "next":{"id":3203,"lemma":"Topik; Topos","band":"10","col":1263},
+ "backlinks":[{"id":3481,"lemma":"Vollformalismus","n":1},{"id":3644,"lemma":"Wissenschaftslogik","n":1}],
+ "outlinks":[{"id":1193,"lemma":"Grundlagenstreit","n":1},{"id":2758,"lemma":"Scheinprobleme","n":1}],
+ "register":[{"term":"principle of tolerance","qualifier":"(Carnap)","band":null,"col":null}],
+ "persons":[
+  {"id":36,"name":"R. Carnap","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":122,"name":"W. Stegmüller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":255,"name":"J. Mittelstrass","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2037,"name":"M. T. Clark","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5285,"name":"B. Hale","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":9852,"name":"A. W. Richardson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":18236,"name":"D. Goldstick","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":16380,"name":"S. Lambros","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":31087,"name":"T. Ricketts","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":2990,"lemma":"Sprachform, innere","tf":6},{"id":1803,"lemma":"Logik","tf":2}],
+ "see_also":[{"id":1651,"lemma":"Konvention"},{"id":1652,"lemma":"Konventionalismus"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Toleranzprinzip (Carnap)"}],
+ "reg_authors":[{"name":"Gabriel Gottfried","n":51}]
+}
+);

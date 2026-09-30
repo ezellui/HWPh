@@ -1,0 +1,46 @@
+HWPH.put("t/152",
+{
+ "b":"Anlaß, spätmittelalterlich als ‹Hetzen› (‹Hunde anlassen›), später allgemeiner im Sinn von ‹Anfang›, rückt erst im 16. Jh. allmählich in die Bedeutung von ‹Ursache› und ‹Gelegenheit› ein und hat sich am Ende des 17. Jh. als wegen seiner Nähe zu ‹excitare› glückliche Übersetzung von Ausdrücken aus dem ‹occasio-E-Bereich durchgesetzt, während sich ‹Ursache› auf die Bedeutung von ‹causa› verengt. – ‹Gelegenheit› hat zunächst lokalen, aber schon frühhochdeutsch seinen übertragenen Sinn; entsprechend erscheint es in DESCARTES' niederländischer Korrespondenz: «bij dese gheleghenheijt» . – Die künstlichen Bildungen ‹veranlassende› und ‹gelegenheitliche› oder ‹Gelegenheitsursache› sind Übersetzungen des späten Terminus ‹causa occasionalis›. – ‹Occasio›, das scholastische Vorbild der philosophischen Verwendung dieser Ausdrücke, hat eine vielfältige Bedeutung und wird von maßgeblichen Autoren bewußt unbestimmt gelassen . Im einzelnen kann man folgende Bedeutungen nachweisen: \n1. Causa per accidens, Gegensatz von causa per se: «Quaedam vero causa per accidens est quae aliquid operatur, non tarnen contingit eius operatio usque ad effectum coniunctum, et sic mala fieri per accidens est [causa] boni, ... et talis causa dicitur proprie occasio» (Es gibt aber eine akzidentelle Ursache, die etwas wirkt, ohne daß ihr Wirken die gewöhnlich damit verbundene Wirkung vollbringt, und so ist das Geschehen von Bösem akzidentell die Ursache von Gutem, ... und eine solche Ursache heißt eigentlich ‹occasio›) . Diese Distinktion dient zur Entlastung des Unschuldigen und zur Belastung des wahrhaft Schuldigen; sie erklärt auch, wie Positives, z.B. ein gutes Werk, zur Ursache von Negativem, z.B. der Sünde, werden kann. \n2. Causa indirecta (mediata, instrumentalis) : die occasio tritt zwischen Ursache und Wirkung, indem sie eine die Wirkung auslösende oder lenkende Zwischenwirkung setzt und damit instrumentale Funktionen übt. \n3. Causa deficiens. Die occasio ist nach ALEXANDER VON HALES eine ihrer Wirkung , nach BONAVENTURA eine der Wirkung und Intention beraubte Ursache und in solcher Dürftigkeit darauf angewiesen, die Wirksamkeit einer causa per se auszunützen: «non enim dicit principium producens, sed magis dicit aliquid quod principium afficit ut efficiat» . Versagt die causa deficiens nicht infolge einer Verhinderung, sondern zufolge ihrer Wesensanlage vor einer zum Ablauf des Naturgeschehens erforderlichen Wirkung, so wird sie zur zuverlässigen occasio für das Eingreifen Gottes . \n4. Occasio data und accepta oder sumpta, wohl entwickelt in Anlehnung an den Vulgatatext von Römer 7, 8: «occasione autem accepta». Die occasio data schafft Verantwortlichkeit, Beispiel: jemand tut etwas Unrechtes, um einen anderen zur Sünde zu verführen. Die occasio accepta dagegen schafft keine Verantwortlichkeit: Der Urheber des zur occasio werdenden Aktes, der seinerseits nicht unrecht ist, hat keine böse Intention : so wurde Jesus zum Ärgernis für die Pharisäer. Diese Distinktion wird bereits in der frühen Neuzeit fast nur noch konventionell und ohne den Gedanken an eine Schuldbeimessung verwendet, z.B. bei FONSECA, SUÁREZ und DESCARTES, aber auch in der schönen Literatur. \n5. Occasio activa und passiva. Die passive wirkt allein durch ihr Präsentsein; die aktive bildet bei vernünftigen Objekten das Genus der causa moralis; aber auch unvernünftigen Objekten wird mit Ausdrücken wie ‹inducere, afficere, inclinare, incendere oder excitare› eine eigenartige Aktivität zugeschrieben. So ist nach SUÁREZ das Objekt (mit Termini, die später im Cartesianismus immer wiederkehren) excitatio, vel occasio oder auch occasio excitans des Erkennens . Nicht selten ist Gott der Gegenstand eines solches Reizes: nach CAJETAN war die Sünde des ersten Menschen eine occasio, die Gott zum Heilswerk «provozierte» , und nach SUÁREZ determinieren die Dispositionen der Materie als occasiones Gott zur Individuierung der Körper . \n6. Dispositio, condicio. In der scholastischen Physik gilt das Axiom «Dispositionem habenti non denegatur forma». So wird die dispositio ad formam zur condicio necessitans und damit zur occasio exigens . Diese richtet sich zumindest in zwei Fällen auf Gott: beim Sakrament und bei der Eingießung der menschlichen Seele ad dispositionem corporis. Zur Gruppe der condiciones gehört auch die praesentia, die wie die aristotelische παρουσία occasionelle Wirkungen hervorrufen kann und bei AILLY und BIEL und später bei BASSON und MALEBRANCHE die Tätigkeit der Zweitursachen repräsentiert. \nAuch die cartesische Trennung von Leib und Seele verhindert eine direkte Kausalität zwischen beiden; so verwendet DESCARTES im Bereiche der Wechselwirkung ‹occasio› in fast allen Bedeutungen und mit fast allen Synonymen, die die Scholastik kannte. Die Termini sind bei den frühen Cartesianern sehr vielfältig, aber bleiben gewöhnlich im Rahmen der scholastischen Synonyme. Im protestantischen niederländischen Cartesianismus erscheint ein Terminus stoisch-galenischer Herkunft, der zu den medizinischen Schulausdrücken gehört, in der protestantischen Scholastik verwendet wird , aber in der katholischen (und wohl deshalb auch bei GEULINCX) nicht zu finden ist: causa procatarctica oder primitiva. REGIUS hat zwar das Wort allein in medizinischer Verwendung , freilich mit denselben Distinktionen wie SCHARFIUS : die causa efficiens wird unterteilt in principalis und minus principalis, die letztere in impulsiva (aktives Instrument) und instrumentalis (nicht-aktives Instrument); die impulsiva wird unterteilt in innere (antecedens und continens) und äußere; diese ist die causa procatarctica, «quae exterius movet et excitat». HEEREBOORD hat den Terminus nur in der Logik , aber mit derselben Einteilung, die SPINOZA in der ‹Korte Verhandeling› für die minvoornaame beginnende oorzaak benützt . Im Zusammenhang des Commercium verwenden das Wort auch HEIDANUS, WITTICH und CLAUBERG; dieser bringt in der Logik eine deutsche Übersetzung: «äußerlich zum werck anreitzende uhrsache» . \nJ. B. van HELMONT ersetzt im ‹Ortus Medicinae› causa procatarctica durch causa occasionalis, das am Ende des 17. Jh. dank den Schriften MALEBRANCHES alle früheren Synonyme in den Hintergrunddrängt.",
+ "n":"Oeuvres, hg. ADAM/TANNERY (1897–1910) 4, 9. \nCONIMBRICENSES, In 1 Phys. c. 1, q. 1, a. 1; SUÁREZ Disp. 12 Met. s. 1, n. 12. Opera omnia apud Vivès 25, 378. \nTHOMAS VON AQUINO, In 1 Sent. d. 46, q. 1, a. 2, 3. \nGABRIEL BIEL, In 2 Sent. d. 21, D. \nIn 3 Sent. d. 40 (L), a. 5f. \nIn 1 Sent. d. 46, a. 1, q. 3, c. \nPEDRO de FONSECA, In 5 Met., c. 2, q. 9, s. 2; SUÁREZ, Disp. 18 Met., s. 3, n. 40. Vivès 25, 614. \nTHOMAS, Quaest. 4 quodl. a. 23, 3. \n1 De anima c. 11, n. 21. Vivès 3, 550; 2 De angelis c. 6, n. 10. Vivès 2, 127f. \nIn Thomae S. theol. III, q. 1, a. 4, 4. \nDisp. 5 Met. s. 3, n. 19; Disp. 14, s. 3, n. 32; Disp. 19, s. 1, n. 11. Vivès 25, 169. 482. 691. \nSUÁREZ, Disp. 15 Met. s. 2, n. 10. Vivès 25, 509. \nz.B. Phys. I 7, 191 a; Met. IV 2, 1013 b 11–16; Eth. Eud. I 8, 1217 b 2–8: Polit. VII 12, 1331 a 40–b 1. \nz.B. THOMAS, S. theol. I, q. 104, a. 1, c. \nBeide In 4 Sent. d. 1, q. 1 (a. 1). \nz.B. JOHANNES SCHARFIUS: Theoria transcendentalis primae philosophiae (Wittenbergae 1624) Tab. ad disp. X. \nFundamenta medica (Amsterdam 11646) 36f. \nADOLF TRENDELENBURG: Hist. Beiträge zur Philos. 3 (1867) 317–323. \nSPINOZA, Opera 1 (Heidelberg o.J.) 36. \nLogica contracta § 58 und Logica vetus et nova 1, § 59. Opera omnia (Amsterdam 1691) 791. 917.",
+ "l":"R. SPECHT: Commercium mentis et corporis (1966) 29ff. 165ff.",
+ "au":"R. Specht",
+ "A":["R. Specht"],
+ "cb":[
+  [0,325],
+  [119,326],
+  [981,326],
+  [1718,326],
+  [1928,326],
+  [2499,326],
+  [3187,326],
+  [3898,327],
+  [3927,327],
+  [4513,327],
+  [5997,327]
+ ],
+ "cn":[
+  [0,325],
+  [0,327],
+  [45,327],
+  [157,327],
+  [210,327],
+  [246,327],
+  [276,327],
+  [310,327],
+  [409,327],
+  [445,327],
+  [526,327],
+  [567,327],
+  [665,327],
+  [716,327],
+  [822,327],
+  [866,327],
+  [903,327],
+  [1011,327],
+  [1053,327],
+  [1120,327],
+  [1160,327]
+ ],
+ "cl":[[0,327]]
+}
+);

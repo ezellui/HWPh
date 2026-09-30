@@ -1,0 +1,36 @@
+HWPH.put("a/1951",
+{
+ "id":1951,
+ "lemma":"Metascience",
+ "band":"5",
+ "kind":"article",
+ "col_from":1300,
+ "col_to":1301,
+ "pdf_from":19951,
+ "pdf_to":19952,
+ "authors":["Th. Rentsch"],
+ "n_notes":2,
+ "n_chars":1270,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Metascience nennt G. RADNITZKY <sup class=\"fn\" data-fn=\"0-1\">1</sup> im Anschluß an H. <span class=\"col\" data-col=\"1301\"></span> TÖRNEBOHM (der 1963 das Department of Metascience an der Universität Göteborg gründete) die Gesamtheit wissenschaftlicher Praxis, die ihrerseits die Einzelwissenschaften zum Gegenstand hat. Im Deutschen wird der Terminus <a class=\"xref\" href=\"#/a/3641\">‹Wissenschaftsforschung›</a> <span class=\"sd\">→ (s.d.)</span> weitgehend synonym gebraucht. M. ist dabei weder auf logische Analyse der Wissenschaftssprachen noch auf soziologisch-psychologische (T. S. KUHN) oder kritisch-rekonstruierende (LAKATOS) Wissenschaftsgeschichtsschreibung begrenzt, obwohl die Theorie des Wissenswachstums einen ihrer Schwerpunkte bildet. Der Zweck der M. besteht nach RADNITZKY in der «advisory or consultative function» <sup class=\"fn\" data-fn=\"0-2\">2</sup> in enger Verbindung mit der institutionellen Forschungspolitik.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">G. RADNITZKY s. Anm. [1]; dtsch. Gegenwärtige Perspektiven der Wiss.theorie 1. 2 (1975). – P. WEINGART (Hg.): Wiss.soziol. I: Wiss. Entwickl. als sozialer Prozeß (1973). – A. M. WEINBERG: Probleme der Großforsch. (1967) 9–64: G. RADNITZKY und G. ANDERSSON: Wiss.politik und Organisationsformen der Forsch. (1978). – C. BURRICHTER (Hg.): Grundleg. der hist. Wiss.forsch. (1979) mit Bibliogr.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">G. RADNITZKY: Anglo-Saxon schools of M., in: Contemporary schools of M. 1 (New York/Göteborg 1968, <sup>3</sup>1973) XIIIf., 1f.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. XIV.</li>\n</ol>",
+ "prev":{"id":1950,"lemma":"Metaschematismus","band":"5","col":1299},
+ "next":{"id":1952,"lemma":"Metasprache/Objektsprache","band":"5","col":1301},
+ "backlinks":[{"id":3646,"lemma":"Wissenschaftstheorie; Wissenschaftsphilosophie","n":1}],
+ "outlinks":[{"id":3641,"lemma":"Wissenschaftsforschung;Wissenschaftswissenschaft","n":1}],
+ "register":[{"term":"Einheit der Wissenschaft","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":1749,"name":"G. Radnitzky","b":2,"n":1,"l":2,"editor":0,"role":"mixed"},
+  {"id":265,"name":"Th. S. Kuhn","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":790,"name":"I. Lakatos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":15598,"name":"H. Törnebohm","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":3116,"name":"J. R. Weinberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3309,"name":"P. Weingart","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3855,"name":"G. Andersson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4225,"name":"C. Burrichter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":7,"name":"Disziplinen und Fächer","label":"Metascience"}],
+ "reg_authors":[{"name":"Rentsch Thomas","n":17}]
+}
+);

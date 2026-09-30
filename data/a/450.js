@@ -1,0 +1,27 @@
+HWPH.put("a/450",
+{
+ "id":450,
+ "lemma":"Bisubjunktion",
+ "band":"1",
+ "kind":"article",
+ "col_from":952,
+ "col_to":952,
+ "pdf_from":3300,
+ "pdf_to":3300,
+ "authors":["Red"],
+ "n_notes":0,
+ "n_chars":176,
+ "toc":[],
+ "html":"<p>Bisubjunktion statt <a class=\"xref\" href=\"#/a/228\">‹Äquivalenz›</a> <span class=\"sd\">→ (s.d.)</span> nennt man nach P. LORENZEN die Verbindung ‹↔› in der dialogischen <a class=\"xref\" href=\"#/a/1806\">Logik</a> <span class=\"sd\">→ (s.d.)</span>, wobei dann «A äquivalent B» für «A ≺ B und B ≺ A» steht.</p>",
+ "prev":{"id":449,"lemma":"Biotop","band":"1","col":951},
+ "next":{"id":451,"lemma":"Bohème","band":"1","col":952},
+ "backlinks":[{"id":228,"lemma":"Äquivalenz","n":1},{"id":1058,"lemma":"Genau dann, wenn ..., so","n":1}],
+ "outlinks":[{"id":228,"lemma":"Äquivalenz","n":1},{"id":1806,"lemma":"Logik, dialogische","n":1}],
+ "register":[],
+ "persons":[{"id":81,"name":"P. Lorenzen","b":1,"n":0,"l":0,"editor":0,"role":"mixed"}],
+ "mentions":[],
+ "see_also":[{"id":228,"lemma":"Äquivalenz"}],
+ "groups":[{"id":22,"name":"Logik","label":"Bisubjunktion"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

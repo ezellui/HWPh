@@ -1,0 +1,41 @@
+HWPH.put("t/3079",
+{
+ "b":"Supererogation (engl. supererogation). «Quodcumque supererogaveris» – auf diesen Passus in der ‹Vulgata›-Fassung der Bibel geht der Begriff ‹S.› zurück, der an besagter Stelle durch das bekannte Beispiel des guten Samariters verdeutlicht wird. Er bezeichnet das Verhalten, das über das Pflichtmäßige hinausgeht, das – wie es auch genannt wird – überobligationsmäßige Verhalten. \nDie Patristik unterscheidet zwischen «praecepta» und «consilia», zwischen den göttlichen Gesetzen des ‹Dekalogs› und den göttlichen Seligkeitsanratungen, den «opera debita» und den «opera supererogationis». Diese bibelexegetisch entwickelte Unterscheidung führte später zu der klassischen Unterscheidung von Pflicht und Rat . \nIn der Scholastik – etwa bei THOMAS VON AQUIN – wird die Problematik des supererogatorischen Verhaltens intensiv erörtert, nicht zuletzt im Hinblick auf die Frage, welches Verhalten für einen Heiligen kennzeichnend ist . In der Reformationszeit dagegen wird die Möglichkeit supererogatorischen Verhaltens, das in der Scholastik als nur angeratener Weg zur moralischen Perfektionierung des Menschen angesehen wurde, durch den Gedanken einer strikten Moralordnung verdrängt. Es liegt auf der Hand, daß in einer moralischen Ordnung, in der Gottes Gebote strikt einzuhalten sind und diese Gebote die gesamte Lebensgestaltung betreffen, kein Platz für überpflichtmäßiges Verhalten ist . \nBei I. KANT wird supererogatorisches Verhalten nicht explizit diskutiert, wenngleich Kant durchaus den begrifflichen Rahmen dafür bereithält: «Was jemand pflichtmäßig mehr thut, als wozu er nach dem Gesetze gezwungen werden kann, ist verdienstlich (meritum); was er nur gerade dem letzteren angemessen thut, ist Schuldigkeit (debitum); was er endlich weniger thut, als die letztere fordert, ist moralische Verschuldung (demeritum)». Auch was die Rechtsfolgen betrifft, differenziert Kant: «Der rechtliche Effect einer Verschuldung ist die Strafe (poena); der einer verdienstlichen That Belohnung (praemium) ...; die Angemessenheit des Verfahrens zur Schuldigkeit hat gar keinen rechtlichen Effect» . Es bleibt jedoch die vieldiskutierte Frage, ob Kant mit seinem Konzept der Tugendpflichten überhaupt noch Raum läßt für eine Berücksichtigung überpflichtmäßigen Verhaltens . \nErst in neuerer Zeit wird der Begriff des supererogatorischen bzw. verdienstlichen Verhaltens wieder aufgegriffen und systematisch erörtert. So unterscheidet etwa A. MEINONG zwischen den «Werthgebieten» des «Correcten» und des «Verdienstlichen» (die zusammen das «Gebiet des Guten» bilden) einerseits und des «Zulässigen» und des «Verwerflichen» (die das «Gebiet des Bösen» ausmachen sollen) andererseits . Dabei ist dem Gebiet des «Verdienstlichen» das supererogatorische Verhalten zuzuordnen, dem Gebiet des «Zulässigen» dagegen das Unterlassen einer supererogatorischen Handlung . Relativ zu dem zwischen dem «Gebiet des Guten» und dem «Gebiet des Bösen» liegenden «Werth-Nullpunkt» soll Meinong zufolge ein «Unterlassungsgesetz» gelten. So sei einerseits die Unterlassung einer «correcten» Handlung «verwerflich» und die Unterlassung einer «verwerflichen» Handlung «correct», andererseits die Unterlassung einer «verdienstlichen» Handlung «zulässig» und die Unterlassung einer «zulässigen» Handlung «verdienstlich» . Gerade die letztere Behauptung zeigt allerdings, daß Meinongs Begriffswahl nicht sehr gelungen ist. \nDie jüngste Diskussion des Begriffs ‹S.› konzentriert sich zum einen auf die genaue Bestimmung des deontologischen Status des supererogatorischen Verhaltens; zum anderen wird erörtert, wie die inhaltliche Auffüllung dessen erfolgen kann, was man unter heldenhaftem Verhalten zu verstehen hat. Beide Fragen sind zunächst von J. O. URMSON aufgeworfen und dann insbesondere von R. M. CHISHOLM in einer Auseinandersetzung mit Meinongs Thesen weiter verfolgt worden . \nWas den deontologischen Status der S. betrifft, so wird man festhalten können, daß ein entsprechendes Verhalten weder geboten noch verboten noch im engeren Sinne (moralisch) indifferent ist, weshalb im üblichen (dreigliedrigen) deontologischen Begriffssystem für die S. kein selbständiger Repräsentant ausgemacht werden kann. Dies ist anders, wenn man – durchaus unter Rückgriff auf das patristisch-scholastische ‹consilium› – die Operatoren ‹angeraten› und ‹abgeraten› hinzunimmt. Dabei zeigt sich, daß diese formal gleichberechtigt neben den deontologischen Grundbegriffen ‹geboten›, ‹verboten› und ‹indifferent› stehen und sie zu einem fünfgliedrigen deontologischen Begriffssystem erweitern . \nAbgesehen von dieser formalen Einordnung supererogatorischen Verhaltens bleibt zu klären, welche materialen Anforderungen an das Verhalten zu stellen sind, das man im weitesten Sinne als heldenhaft bezeichnen kann. Dabei scheint deutlich zu werden, daß das Transzendieren der rechtlichen oder moralischen Sollensanforderungen dafür nicht ausreicht, wie eine rein egoistisch begründete Verhaltensweise deutlich macht, die ja auch über das Pflichtmäßige hinausgeht. Vielmehr dürfte einerseits gleichsam ein ‘Opferʼ des Handelnden, das dieser zu eigenen Lasten erbringt, für den Begriff ‹S.› konstitutiv sein, und andererseits muß ein Dritter von dem Verhalten einen erkennbaren Vorteil haben . \nBedeutung hat die Auseinandersetzung mit dem Begriff ‹S.› schließlich auch im Bereich der Straftheorie erlangt, vor allem in der anglo-amerikanischen, wo der Vergleich zwischen der Beurteilung supererogatorischen und deshalb zu lobenden Verhaltens einerseits und gesetzwidrigen und deshalb zu bestrafenden Verhaltens andererseits ein üblicher Argumentationstopos geworden ist .",
+ "n":"Lk. 10, 35; vgl. dazu und zur Geschichte des Begriffs näher: D. HEYD: S. – Its Status in eth. theory (Cambridge 1982). \nVgl. Art. ‹Rat II.›. Hist. Wb. Philos. 8 (1992) 34–37. \nNäher dazu: HEYD, a.O. [1] 20ff. mit Nachweisen. \na.O. 26ff.; vgl. auch: G. MELLEMA: Beyond the call of duty. S., obligation and offence (New York 1991). \nI. KANT: Met. der Sitten, Einl. IV (1797). Akad.-A. 6, 227f. \nZu dieser Diskussion vgl. etwa: D. HEYD: Beyond the call of duty in Kant's ethics. Kant-Stud. 71 (1980) 308–324; P. D. EISENBERG: From the forbidden to the supererogatory: The basic eth. categories in Kant's Tugendlehre. Amer. philos. Quart. 3 (1966) 255–269; T. E. HILL: Kant on imperfect duty and supererogation. Kant-Stud. 62 (1971) 55–76; M. BARON: Kantian ethics and supererogation. J. Philos. 84 (1987) 237–262. \nA. MEINONG: Psycholog.-eth. Unters. zur Werth-Theorie (1894) 85ff.; vgl. auch: E. SCHWARZ: Über den Wert, das Soll und das richtige Werthalten (1934) 49ff. \nNäher dazu auch: R. M. CHISHOLM: S. and offence. Ratio 5 (1963) 1–14; The ethics of requirement. Amer. philos. Quart. 1 (1964) 147–153. \nMEINONG, a.O. [7] 88ff. \nJ. O. URMSON: Saints and heroes, in: A. I. MELDEN (Hg.): Ess. in moral philos. (Seattle/London 1958) 198–216. \nCHISHOLM, a.O. [8]; R. M. CHISHOLM/E. SOSA: Intrinsic preferability and the problem of supererogation. Synthese 16 (1966) 321–331; On the logic of ‘intrinsically betterʼ. Amer. philos. Quart. 3 (1966) 244–249; M. STOCKER: Professor Chisholm on supererogation and offence. Philos. Studies 18 (1967) 87–94. \nJ. HRUSCHKA/J. C. JOERDEN: S. – Vom deontolog. Sechseck zum deontolog. Zehneck. Arch. Rechts- Soz.philos. 73 (1987) 93–123. \nVgl. zu dieser Diskussion die Beiträge in: Jb. Recht Ethik 6 (1998). \nz.B. G. P. FLETCHER: Rethinking criminal law (Boston 1978) 710.",
+ "l":"J. FEINBERG: S. and rules. Ethics 71 (1960–61) 276–288. – J. S. FISHKIN: The limits of obligation (New Haven/London 1982). – D. HEYD s. Anm. [1] mit umfangr. Bibliogr. – J. HRUSCHKA/J. C. JOERDEN s. Anm. [12]. – J. C. JOERDEN: S., in: Handbook of met. and ontol. 2 (1991) 875–877. – G. MELLEMA s. Anm. [4]. – B. S. BYRD u.a. (Hg.): Jb. Recht Ethik/Annual Review Law Ethics 6 (1998).",
+ "au":"J. C. Joerden",
+ "A":["J. C. Joerden"],
+ "cb":[
+  [0,631],
+  [379,631],
+  [706,631],
+  [1389,631],
+  [2264,631],
+  [2565,632],
+  [3386,632],
+  [3850,632],
+  [4548,632],
+  [5241,632],
+  [5618,633]
+ ],
+ "cn":[
+  [0,631],
+  [0,632],
+  [120,632],
+  [176,632],
+  [226,632],
+  [331,632],
+  [393,632],
+  [795,633],
+  [812,633],
+  [969,633],
+  [1106,633],
+  [1131,633],
+  [1242,633],
+  [1548,633],
+  [1673,633],
+  [1743,633]
+ ],
+ "cl":[[0,633]]
+}
+);

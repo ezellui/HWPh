@@ -1,0 +1,48 @@
+HWPH.put("a/2076",
+{
+ "id":2076,
+ "lemma":"Natur in Gott",
+ "band":"6",
+ "kind":"article",
+ "col_from":482,
+ "col_to":484,
+ "pdf_from":21888,
+ "pdf_to":21891,
+ "authors":["S. Portmann"],
+ "n_notes":10,
+ "n_chars":4008,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Natur in Gott ist zusammen mit ‹Ungrund›, ‹Kontraktion Gottes›, ‹Grund in Gott› u.a. <span class=\"col\" data-col=\"483\"></span> ein Begriff, der Gott nicht als in sich ruhendes Sein, sondern als Leben und Selbstbewegung zu fassen sucht.</p>\n<p>Unter Verwendung der kabbalistischen Vorstellungen vom Ensoph und den Sephirot unterscheidet J. BÖHME in Gott eine «ewige geistliche N.», die, noch vor aller Schöpfung, mit Gottes Willen und Wort identisch ist, mit seinem «Vorsatz», sich zu entäußern und in der Körperwelt zu offenbaren. Dadurch entsteht eine Bewegung in Gott, eine «Begierde», die bis zum ewigen Gebären der sieben Urgestalten getrieben wird und durch die Gott aus der ungeschiedenen Einheit in differenzierte Kräfte entfaltet wird <sup class=\"fn\" data-fn=\"0-1\">1</sup>: «Diese Faßlichkeit ist Natur, und das unfaßliche Leben in der Natur ist Gottes ewigsprechendes Wort, das in Gott bleibt und Gott selber ist» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Ähnlich wie Böhme hat F. CHR. OETINGER die N.i.G. begriffen: Sie ist «nicht sowol in Gott selbst als in den abglänzenden Kräften Gottes, die von Gott unzertrennlich seyn, und dennoch ist es eine ewige Natur, eine ewige Gebärung ihrer selbst aus sich selbst: sie macht sich einen Raum damit sie darinnen die endliche Kreatur formire» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Sie ist «der erste Grund, daß etwas kann geschaffen werden, ohne daß man sagen muß, Gott habe sein Wesen zur Kreatur gemacht» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Diese Spekulationen hat SCHELLING aufgenommen: N.i.G. wird mit Gottes Grund, den Gott notwendig in sich selbst haben muß, gleichgesetzt; sie ist «ein von ihm zwar unabtrennliches, aber doch unterschiedenes Wesen» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Indem die N.i.G. eine <i>mögliche</i> Welt zeigt, vermittelt sich Gott mit sich selbst, er kommt zum Selbstbewußtsein und wird dadurch zum lebendigen, persönlichen Gott, der nicht bewegungsloses Sein ist, sondern, um Gott zu werden, «durch die Natur, durch die Sphäre des endlichen Geistes hindurchgegangen» sein muß, ohne daß dabei aber die Welt zur bloßen Emanation Gottes wird <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Der «Naturalismus», «das System, welches eine N.i.G. behauptet», macht erst «Bewußtseyn, Intelligenz und freien Willen in Gott» denkbar. Sie ist «ein negatives Prinzip in Gott», da es «unmöglich ist, ein Wesen mit Bewußtseyn zu denken, das durch keine verneinende Kraft in ihm selber in die Enge gebracht worden» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Sie ist auch Bedingung für die äußere Schöpfung, überhaupt für die Möglichkeit der Welt und des Bösen, die also ihren Grund in dem haben, was nicht im Selbst Gottes, sondern in seiner Natur, seinem Unbewußten und Irrationalen liegt. Der spekulative Gottesbegriff soll verhindern, einen Dualismus zweier widersprechender Prinzipien anzunehmen und im Gegenteil die Identität von Denken und Sein, Einheit und Vielheit, Subjektivem und Objektivem, Idealem und Realem, Transzendenz und Immanenz zu erhalten. Die N.i.G. erweist Gott als ewig Werdenden, der in Freiheit mit der Welt unauflöslich – auch mitleidend <sup class=\"fn\" data-fn=\"0-8\">8</sup> – verbunden ist.</p>\n<p>F. VON BAADER hat ebenfalls eine N.i.G. angenommen («Der absolute Geist muss zugleich die absolute Natur sein. Dieser Begriff der absoluten Identität des Geistes und der N.i.G. fällt mit jenem der Identität der Freiheit und Nothwendigkeit zusammen ...» <sup class=\"fn\" data-fn=\"0-9\">9</sup>), jedoch gegen Schelling und mit Böhme die Gleichursprünglichkeit von Geist und N.i.G. behauptet, nicht das Vorangehen der N., wie er es bei Schelling angesetzt fand <sup class=\"fn\" data-fn=\"0-10\">10</sup>. <span class=\"col\" data-col=\"484\"></span></p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">C. A. AUBERLEN: Die Theosophie Fr. Ch. Oetingers (1859) 177. 658ff. – H. ZELTNER: Schelling (1954). – H. GRUNSKY: J. Böhme (1956) 68f. 327. – K. LÜTHI: Gott und das Böse (1961). – ST. PORTMANN: Das Böse – die Ohnmacht der Vernunft (1966). – R. PIEPMEIER: Aporien des Lebensbegriffs seit Oetinger (1978) 165.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. BÖHME, Sämtl. Schr. (1730), ND hg. W.-E. PEUCKERT (1955–61) 3, 19f. 83f.; 8, 98; 15, 16–20.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 15, 137.</li>\n<li id=\"fn0-3\" value=\"3\">F. CHR. OETINGER: Bibl. und emblemat. Wb. (1776, ND 1969) 448.</li>\n<li id=\"fn0-4\" value=\"4\">Sämmtl. Schr., hg. K. CH. E. EHMANN (1858–64) II/2, 264.</li>\n<li id=\"fn0-5\" value=\"5\">F. W. J. SCHELLING, Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) 7, 358. <span class=\"col\" data-col=\"484\"></span></li>\n<li id=\"fn0-6\" value=\"6\">a.O. 13, 291.</li>\n<li id=\"fn0-7\" value=\"7\">8, 69. 73f.</li>\n<li id=\"fn0-8\" value=\"8\">8, 71.</li>\n<li id=\"fn0-9\" value=\"9\">F. VON BAADER, Sämtl. Werke, hg. F. HOFFMANN (1850–60) 9, 218; vgl. 8, 109.</li>\n<li id=\"fn0-10\" value=\"10\">a.O. 2, 378; 13, 172f.</li>\n</ol>",
+ "prev":{"id":2075,"lemma":"Natur der Sache","band":"6","col":478},
+ "next":{"id":2077,"lemma":"Natur, zweite","band":"6","col":484},
+ "backlinks":[{"id":3528,"lemma":"Wahrheit, ewige","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":154,"name":"J. Böhme","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":213,"name":"F. X. von Baader","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":394,"name":"F. Ch. Oetinger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3509,"name":"H. Zeltner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1888,"name":"R. Piepmeier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5509,"name":"C. A. Auberlen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":9051,"name":"H. Grunsky","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11405,"name":"St. Portmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":9453,"name":"K. Lüthi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":163,"name":"F. Hoffmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":469,"name":"W.-E. Peuckert","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1871,"name":"K. Ch. E. Ehmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1686,"lemma":"Kreatur, Kreatürlichkeit","tf":2},
+  {"id":1366,"lemma":"Identität","tf":3},
+  {"id":2779,"lemma":"Schöpfung","tf":2},
+  {"id":3620,"lemma":"Wille","tf":2},
+  {"id":946,"lemma":"Freiheit","tf":2}
+ ],
+ "see_also":[{"id":1644,"lemma":"Kontraktion Gottes"},{"id":3298,"lemma":"Ungrund; Urgrund"}],
+ "groups":[{"id":27,"name":"Mystik","label":"Natur in Gott"}],
+ "reg_authors":[{"name":"Portmann Stephan","n":2}]
+}
+);

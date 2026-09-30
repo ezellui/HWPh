@@ -1,0 +1,45 @@
+HWPH.put("a/1382",
+{
+ "id":1382,
+ "lemma":"Ignoramus – ignorabimus",
+ "band":"4",
+ "kind":"article",
+ "col_from":198,
+ "col_to":199,
+ "pdf_from":11977,
+ "pdf_to":11980,
+ "authors":["H. Hillermann"],
+ "n_notes":10,
+ "n_chars":4419,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Ignoramus – ignorabimus (wir wissen es nicht – wir werden es nicht wissen). ‹Ignoramus› lautet ursprünglich der Vermerk der englischen Grand Jury über eine Anklageschrift der «Großgeschworenen» oder eine öffentliche Anklageschrift für den Fall, daß der Tatbestand für eine Strafverfolgung nicht zur Überweisung an ein Geschworenengericht ausreicht. Seiner Herkunft nach ein Terminus aus dem Bereich der Rechtsprechung, wird er 1577 erstmalig verwendet. Seit 1827 reißt dieser Sprachgebrauch ab <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Als Formel begegnet I.i. in einer 1872 von dem Physiologen E. du BOIS-REYMOND gehaltenen Rede ‹Über die Grenzen des Naturerkennens› <sup class=\"fn\" data-fn=\"0-2\">2</sup> und wird 1880 in dem Vortrag ‹Die sieben Welträtsel› <sup class=\"fn\" data-fn=\"0-3\">3</sup> nochmals thematisch aufgegriffen, nachdem der erste Vortrag von 1872 eine Welle von Auseinandersetzungen zur Folge gehabt hatte <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Du Bois-Reymond polemisiert in der Rede von 1872 gegen das Verfahren, spezifische Gegebenheiten bewußtseinsmäßiger Art dadurch zum Verschwinden zu bringen, daß physikalisch-physiologische Tatbestände als ihre eigentliche Realität ausgegeben werden; er kommt zu dem Schluß: «Gegenüber den Rätseln der Körperwelt ist der Naturforscher längst gewöhnt, mit männlicher Entsagung sein ‹<i>Ignoramus</i>› auszusprechen ... Gegenüber dem Rätsel aber, was Materie und Kraft <span class=\"col\" data-col=\"199\"></span> seien und wie sie zu denken vermögen, muß er ein für allemal zu dem viel schwerer abzugebenden Wahrspruch sich entschließen: ‹<i>Ignorabimus</i>›» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Der Begriff wird dann zum Vehikel einer naturwissenschaftlichen Kritik an dogmatischer Reflexionslosigkeit im erkenntnistheoretischen Bereich (<i>Büchner, Vogt, Moleschott</i>, <i>Haeckel</i> u.a.) <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Die Antimetaphysik und Antitheologie des Monismus-Materialismus nützt den Begriff im kultur- und bildungspolitischen Streit um die Emanzipation der Naturwissenschaften; zugleich dient er andererseits der «Orthodoxie» in Philosophie und Theologie dazu, in ihrem Sinn in den Bereich der positiven Wissenschaften zu intervenieren <sup class=\"fn\" data-fn=\"0-7\">7</sup>. So wird das I.i. zum Angelpunkt in der Auseinandersetzung um die Darwinsche Deszendenztheorie und damit zusammenhängend um das Schöpfungsproblem, die u.a. im Streit zwischen HAECKEL und seinem Lehrer VIRCHOW gipfelte, der einen «Kompromiß mit der Kirche» schloß und die Deszendenztheorie als staatsgefährlich denunzierte <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Außer im allgemeinen Problemhorizont von Agnostizismus, Skeptizismus, Resignation <sup class=\"fn\" data-fn=\"0-9\">9</sup> wird der Begriff schließlich für den Kritizismus wichtig, wie er sich nach dem Zusammenbruch der metaphysischen Systeme des deutschen Idealismus und auf dem Hintergrundder monistisch-materialistischen Popularphilosophie seit etwa 1870 herausbildet; er gehört ebenso in den Zusammenhang der Kritik von Phänomenologen und Empiriokritikern an dem in der Naturwissenschaft sich behauptenden philosophischen Dogmatismus <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">FR. A. LANGE: Gesch. des Materialismus. 2 Bde. (1873). – J. BONA MEYER: E. DU Bois-Reymonds Ignorabimus-Rede. Z. gebildete Welt 5 (1884) 168–176. – H. LÜBBE: Positivismus und Phänomenol. (Mach und Husserl), in: Beitr. zu Philos. und Wiss. Festschr. W. Szilasi (1960).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"199\"></span> The Oxford Engl. dict. 5 (Oxford 1961) s.v. ‹Ignoramus›; H. HALLAM: Constitutional hist. of England 2 (London 1827) 450.</li>\n<li id=\"fn0-2\" value=\"2\">E. du BOIS-REYMOND: Über die Grenzen des Naturerkennens (1872), in: Über die Grenzen des Naturerkennens. Die sieben Welträtsel. Zwei Vorträge (1916, ND 1967) 51.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. 70ff.</li>\n<li id=\"fn0-4\" value=\"4\">70.</li>\n<li id=\"fn0-5\" value=\"5\">51.</li>\n<li id=\"fn0-6\" value=\"6\">79; vgl. hierzu E. HAECKEL: Die Perigenesis der Plastidule oder die Wellenzeugung der Lebensteilchen. Ein Versuch zur mech. Erklärung der elementaren Lebensvorgänge (1876) 38f.</li>\n<li id=\"fn0-7\" value=\"7\">E. HAECKEL: Anthropogenie oder Entwicklungsgesch. des Menschen (1875) 12; Die heutige Entwicklungslehre im Verhältnis zur Gesamtwiss. (1877); C. v. NÄGELI: Die Schranken der naturwiss. Erkenntnis, in: Mech.-physiol. Theorie der Abstammungslehre (1884) 602.</li>\n<li id=\"fn0-8\" value=\"8\">E. HAECKEL: Freie Wiss. und freie Lehre. Eine Entgegnung auf Rudolf Virchow's Münchener Rede über «Die Freiheit der Wiss. im modernen Staat» (1908) Einl. 5; vgl. 72–82: Kap. 7 «Ignorabimus et Restringamur»; vgl. ferner: Die Welträthsel (<sup>4</sup>1900) 208ff. 454.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. CH. SEIDEL, Art. <a class=\"xref\" href=\"#/a/63\">→ Agnostizismus</a>, in: Hist. Wb. Philos. (1971) 110ff.</li>\n<li id=\"fn0-10\" value=\"10\">E. MACH: Erkenntnis und Irrtum (<sup>3</sup>1917) 12f.; Die Analyse der Empfindungen und das Verhältnis des Physischen zum Psychischen (1911) 256; R. AVENARIUS: Kritik der reinen Erfahrung 2 (1928) 262. 471; H. VAIHINGEN Die Philos. des Als-Ob (<sup>2</sup>1913) 38. 50. 378. 450. 675. 769; O. LIEBMANN: Zur Analysis der Wirklichkeit (1911) 205ff.</li>\n</ol>",
+ "prev":{"id":1381,"lemma":"I Ging","band":"4","col":198},
+ "next":{"id":1383,"lemma":"Ikonisch","band":"4","col":199},
+ "backlinks":[
+  {"id":3335,"lemma":"Unwissenheit","n":1},
+  {"id":3574,"lemma":"Welträtsel","n":1},
+  {"id":3635,"lemma":"Wissenschaft","n":1}
+ ],
+ "outlinks":[{"id":63,"lemma":"Agnostizismus","n":1}],
+ "register":[{"term":"Nichtwissen","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":286,"name":"E. Haeckel","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":2145,"name":"E. du Bois-Reymond","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":125,"name":"E. Mach","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":370,"name":"R. Avenarius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":777,"name":"O. Liebmann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1609,"name":"A. Seidel","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1346,"name":"R. Virchow","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":11320,"name":"H. Hallam","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9139,"name":"H. G. Nägeli","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21732,"name":"H. Vaihingen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":229,"name":"F. A. Lange","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":244,"name":"H. Lübbe","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":11077,"name":"J. Bona Meyer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":3039,"lemma":"Streit","tf":2},{"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2}],
+ "see_also":[],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Ignoramus-ignorabimus"}],
+ "reg_authors":[{"name":"Hillermann Horst","n":2}]
+}
+);

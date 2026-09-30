@@ -1,0 +1,27 @@
+HWPH.put("a/110",
+{
+ "id":110,
+ "lemma":"Alternation",
+ "band":"1",
+ "kind":"article",
+ "col_from":199,
+ "col_to":199,
+ "pdf_from":880,
+ "pdf_to":880,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":252,
+ "toc":[],
+ "html":"<p>Alternation liegt in der traditionellen Logik vor, wenn ein Urteil durch ein anderes ohne Änderung des Sinnes ersetzt wird. Das kann z.B. beruhen auf <a class=\"xref\" href=\"#/a/226\"><i>Äquipollenz</i></a> <span class=\"sd\">→ (s.d.)</span> der Urteile oder darauf, daß das eine Urteil die doppelte Negation des anderen ist.</p>",
+ "prev":{"id":109,"lemma":"Alteratio","band":"1","col":199},
+ "next":{"id":111,"lemma":"Alternative","band":"1","col":200},
+ "backlinks":[{"id":111,"lemma":"Alternative","n":1}],
+ "outlinks":[{"id":226,"lemma":"Äquipollenz","n":1}],
+ "register":[{"term":"Negation, doppelte","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[{"id":3355,"lemma":"Urteil","tf":3}],
+ "see_also":[{"id":226,"lemma":"Äquipollenz"}],
+ "groups":[{"id":22,"name":"Logik","label":"Alternation"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

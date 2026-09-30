@@ -1,0 +1,46 @@
+HWPH.put("a/366",
+{
+ "id":366,
+ "lemma":"Begriffsbildung",
+ "band":"1",
+ "kind":"article",
+ "col_from":787,
+ "col_to":788,
+ "pdf_from":2766,
+ "pdf_to":2768,
+ "authors":["K. Foppa"],
+ "n_notes":8,
+ "n_chars":3574,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Begriffsbildung. Unter B. wird der <i>psychologische</i> Vorgang verstanden, der zur Kategorisierung von Objekten oder Ereignissen führt. Die Klassifikation erfolgt auf Grund von Merkmalen oder Beziehungen, die den Wahrnehmungsgegenständen gemeinsam sind oder vom Individuum so beurteilt werden. Der Prozeß setzt voraus, daß im Verlauf der Klassenbildung die irrelevanten, für die Zusammenfassung bedeutungslosen Charakteristika vernachlässigt werden. Den relevanten, für den Begriff kennzeichnenden Aspekten ist hingegen ein Zeichen oder eine Bezeichnung zuzuordnen. Diese «Wortmarke» repräsentiert den Begriff. An ihre Stelle können jedoch auch nicht-sprachliche Reaktionen treten. Der Funktionalwert der Kategorisierung wird dadurch nicht tangiert <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die Klassenzugehörigkeit manifestiert sich in diesem Fall allerdings in gleichbleibenden (motorischen) Reaktionen auf die individuellen Reizobjekte. – Der Prozeß der B. wird häufig auf einen der folgenden Mechanismen zurückgeführt: auf einen Vorgang der Abstraktion von den unwichtigen Reizmerkmalen <sup class=\"fn\" data-fn=\"0-2\">2</sup> bzw. auf deren Differenzierung und Löschung <sup class=\"fn\" data-fn=\"0-3\">3</sup>, auf vermittelte Assoziation <sup class=\"fn\" data-fn=\"0-4\">4</sup> oder auf Invariantenbildung aufgrundschrittweiser Informationsverarbeitung <sup class=\"fn\" data-fn=\"0-5\">5</sup>. B.-Experimente werden in der Regel so durchgeführt, daß dem Probanden eine Mannigfaltigkeit von Reizobjekten vorgeführt wird, wobei jedes Objekt mit einem von zwei oder mehreren Klassennamen bezeichnet ist. Aufgabe des Versuchsteilnehmers ist es, die Klassifikations-oder Zuordnungsregeln herauszufinden (<i>Suchmethode</i>) <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Die Schwierigkeit des Problems hängt dabei u.a. von der Anzahl der Dimensionen ab, die zu berücksichtigen sind, und von der Menge der Information, welche verarbeitet werden muß. Da durch solche Experimente jedoch nur die Bildung artifizieller Begriffe analysiert werden kann, versucht man Art und Struktur des natürlichen Begriffsinventars einer Person mit Hilfe der <i>Ordnungsmethode</i> zu bestimmen <sup class=\"fn\" data-fn=\"0-7\">7</sup>, indem man eine größere Zahl von Gegenständen in eine beliebige Anzahl von Klassen einteilen läßt. Aufschlußreicher ist es indessen, den Verlauf der Ausbildung «echter» Begriffe (Raum, Zeit) beim Kind zu verfolgen <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Dieses Verfahren bedingt allerdings einen Verzicht auf die genaue Kontrolle der am Prozeß beteiligten Bedingungen. – Die B. wird im allgemeinen zu den Problemen der Denkpsychologie gezählt. Es ist jedoch nicht zu übersehen, daß Klassenbildung und – Zuordnung einen Lernprozeß voraussetzen. Deshalb erscheint es sinnvoll, das Phänomen als Bindeglied dieser beiden psychologischen Teildisziplinen zu betrachten. <span class=\"col\" data-col=\"788\"></span></p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">CH. E. OSGOOD: Method and theory in exp. psychol. (New York 1953). – J. S. BRUNER u.a.: A study of thinking. An analysis of strategies in the utilizing of information for thinking and problem solving (New York 1956). – R. MEILI: Denken, in: R. MEILI und H. ROHRACHER: Lehrb. der exp. Psychol. (1963) 156ff. – T. HERRMANN: Informationstheoretische Modelle des Denkens, in: R. BERGIUS (Hg.): Hb. Psychol. 1/2: Lernen und Denken (1964) 641ff. – G. KAMINSKI: Ordnungsstrukturen und Ordnungsprozesse, in: Hb. Psychol. 1/2, 373ff.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"788\"></span> N. FOPPA: Lernen, Gedächtnis, Verhalten (<sup>6</sup>1970).</li>\n<li id=\"fn0-2\" value=\"2\">N. ACH: Über die B. (1921).</li>\n<li id=\"fn0-3\" value=\"3\">C. L. HÜLL: Quantitative aspects of the evolution of concepts. Psychol. Monogr. 28 (1920) 123.</li>\n<li id=\"fn0-4\" value=\"4\">CH. E. OSGOOD: Method and theory in experimental psychol. (New York 1953).</li>\n<li id=\"fn0-5\" value=\"5\">B. E. HUNT: Concept learning. An Information processing problem (New York 1962).</li>\n<li id=\"fn0-6\" value=\"6\">ACH, a.a.O. [2].</li>\n<li id=\"fn0-7\" value=\"7\">E. HANFMANN und J. KASANIN: A method for the study of concept formation. J. Psychol. 3 (1937) 521ff.</li>\n<li id=\"fn0-8\" value=\"8\">J. PIAGET: Die Bildung des Zeitbegriffs beim Kinde (1955).</li>\n</ol>",
+ "prev":{"id":365,"lemma":"Begriff","band":"1","col":780},
+ "next":{"id":367,"lemma":"Begriffsdichtung","band":"1","col":788},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"– II (psych.) 5 245–247 s. auch","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":2089,"name":"C. E. Osgood","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":320,"name":"J. Piaget","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3647,"name":"R. W. Hunt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3143,"name":"K. Foppa","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4000,"name":"C. L. Hüll","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":19631,"name":"E. Hanfmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19632,"name":"J. Kasanin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2739,"name":"R. Meili","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
+  {"id":669,"name":"Th. Herrmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1929,"name":"H. Rohracher","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1289,"name":"J. S. Bruner","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":4895,"name":"G. Kaminski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1166,"name":"R. Bergius","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":197,"lemma":"Anzahl/Ordnungszahl","tf":2},
+  {"id":2499,"lemma":"Prozeß","tf":3},
+  {"id":2582,"lemma":"Reaktion, bedingte","tf":2},
+  {"id":2183,"lemma":"Objekt","tf":2}
+ ],
+ "see_also":[{"id":558,"lemma":"Denkpsychologie"}],
+ "groups":[{"id":36,"name":"Psychologie","label":"Begriffsbildung"}],
+ "reg_authors":[{"name":"Foppa Klaus","n":7}]
+}
+);

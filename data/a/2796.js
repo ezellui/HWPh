@@ -1,0 +1,88 @@
+HWPH.put("a/2796",
+{
+ "id":2796,
+ "lemma":"Seelengrund",
+ "band":"9",
+ "kind":"article",
+ "col_from":93,
+ "col_to":94,
+ "pdf_from":35103,
+ "pdf_to":35107,
+ "authors":["P. Heidrich"],
+ "n_notes":21,
+ "n_chars":5536,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Seelengrund. Der Begriff ‹S.› wurde von der deutschen Mystik des 14. Jh. geprägt, um den von den Seelenkräften unterschiedenen Ort der Gotteseinung zu bezeichnen. Er setzt, wie der ihm entsprechende Begriff <a class=\"xref\" href=\"#/a/2799\">‹Seelenspitze›</a> <span class=\"sd\">→ (s.d.)</span>, die augustinische Tradition vom «abditum mentis» <sup class=\"fn\" data-fn=\"0-1\">1</sup> und die der Viktoriner vom «summus et intimus sinus mentis» («dem höchsten und innersten Schoß des Geistes») <sup class=\"fn\" data-fn=\"0-2\">2</sup> fort.</p>\n<p>Bei MEISTER ECKHART steht ‹S.› («abditum animae») für «essentia animae» («Wesen der Seele»); zu ihm hat Gott allein Zutritt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. In diesem «Innigsten des Geistes» wird Gottes Grund mein Grund und umgekehrt <sup class=\"fn\" data-fn=\"0-4\">4</sup>: «Diu sêle nimet ir wesen âne mitel von gote; dar umbe ist got der sêle naeher, dan si ir selber sî; dar umbe ist got in dem grunde der sêle mit aller sîner gotheit» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die Seele verliert dort ihre Eigenschaften, wie Gott sein Personsein aufgibt, wenn es dort, im S., im «Bürglein der Seele», zur Einung kommt <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Wie Gott ohne Namen ist, so ist auch «diu sêle in irm grunde ... unsprechlich», da sie Gottes Ebenbild ist <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>JOHANNES TAULER übersetzt AUGUSTINS «abditum mentis» mit «verborgen des geistes», «verborgen gemüte» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, nennt den S. neben «grunt» und «gemüte» auch «boden» oder «dolten der selen» (Seelenkrone, -spitze); eigentlich hat der S. aber «keinen eigenen namen», so wie Gott keinen bestimmten Namen hat <sup class=\"fn\" data-fn=\"0-9\">9</sup>. TAULER teilt die Seele in Sinne, Vernunft und Grund; in letzterem ist das Bild der Dreifaltigkeit verborgen; in ihm vollzieht sich die Vereinigung mit Gott <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Tauler wendet sich damit gegen THOMAS VON AQUIN, der in den oberen Seelenkräften (intelligentia, voluntas, memoria) ein Abbild der Trinität zu erkennen glaubte; nach TAULER, der sich dazu auf Proklos beruft, gelangt man gar nicht in den S., solange man mit den Bildern der Mannigfaltigkeit umgeht <sup class=\"fn\" data-fn=\"0-11\">11</sup>. – Bei HEINRICH SEUSE heißt der Ort der Einheit aller Dinge, in dem der dreieinige Gott verborgen ist, der «grundelose abgrund» <sup class=\"fn\" data-fn=\"0-12\">12</sup>, JAN van RUYSBROEK nennt ihn «gront» <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>Der Begriff ‹S.› lebt weiter im Pietismus <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Er ist weitgehend bedeutungsgleich mit «Seelenfünklein» <sup class=\"fn\" data-fn=\"0-15\">15</sup>, muß jedoch, trotz terminologischer Überschneidungen bei TAULER und SEUSE <sup class=\"fn\" data-fn=\"0-16\">16</sup>, von der Tradition des Begriffs ‹Abgrund› (griech. βυθός, lat. abyssus) unterschieden werden <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Diese Linie ist aber, über A. G. BAUMGARTEN <sup class=\"fn\" data-fn=\"0-18\">18</sup> und J. G. SULZER <sup class=\"fn\" data-fn=\"0-19\">19</sup>, von J. G. HERDER mit dem Begriff ‹S.› fortgesetzt worden: Im «dunkeln Abgrundder Menschlichen Seele» liegen «die Empfindungen des Thieres» und werden zu denen «eines Menschen»: «Triebe und Affekte, ... Lust und Unlust» <sup class=\"fn\" data-fn=\"0-20\">20</sup>. Die Seele hat von nichts anderem tiefere Gewißheit als von dieser in ihrem «dunkeln Grunde» liegenden «Thätigkeit», dem «innigsten Reiz und Bewußtseyn ihrer selbst, ihrer Kraft, ihres innern Lebens». Der «hellen und klaren Philosophie» jedoch «graut ... vor der Hölle unterster Seelenkräfte» <sup class=\"fn\" data-fn=\"0-21\">21</sup>. <span class=\"col\" data-col=\"94\"></span></p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">J. BERNHARDT: Die philos. Mystik des MA (1922). – H. KUNISCH: Das Wort ‹Grund› in der Sprache der dtsch. Mystik des 14. und 15. Jh. (1929). – K. WEISS: Die Seelenmet. des Meister Eckhart. Z. Kirchengesch. 52 (1933) 467–516. – C. KIRMSSE: Die Terminol. des Mystikers Joh. Taulers (1930). – B. SCHMOLDT: Die dtsch. Begriffssprache Meister Eckharts (1954). – B. DIETSCHE: Der S. nach den dtsch. und lat. Pr., in: U. M. NIX/R. ÖCHSLIN (Hg.): Meister Eckhart als Prediger (1960) 167–199. – H. FISCHER/F. JETTÉ: Art. ‹Fond de l'âme›. Dict. de spiritualité 5 (Paris 1964) 650–666. – A. M. HAAS: Sermo mysticus (1979). – O. LANGER: Meister Eckharts Lehre vom S., in: Grundfragen christl. Mystik (1987) 173–191. – P. REITER: Der Seele Grund. Meister Eckhart und die Trad. der Seelenlehre (1993).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">AUGUSTINUS: De trin. XIV, 7. CCSL 50 A, 443.</li>\n<li id=\"fn0-2\" value=\"2\">RICHARD VON ST. VIKTOR: Beniamin maior IV, 23. 16. MPL 196, 167 A. 154f.</li>\n<li id=\"fn0-3\" value=\"3\">MEISTER ECKHART: Sermo IX, 98; XXIV, 249; XLVII, 482. Lat. Werke [LW] 4 (1956) 93. 227. 397; Pr. 21. Dtsch. Werke [DW] 1 (1958) 360, 5 und Anm.</li>\n<li id=\"fn0-4\" value=\"4\">Pr. 5 b. DW 1, 90, 7f.</li>\n<li id=\"fn0-5\" value=\"5\">Pr. 10, a.O. 162, 4–6; vgl. Sermo VI, 1. LW 4, 55, 8; XLV, 452, a.O. 376, 8.</li>\n<li id=\"fn0-6\" value=\"6\">Pr. 2. DW 1, 43, 1–44, 6; vgl. Pr. 24, a.O. 419, 4f.</li>\n<li id=\"fn0-7\" value=\"7\">Pr. 17. 24, a.O. 284, 2–6; 415, 13–15; vgl. Pr. 7, a.O. 124, 4–6.</li>\n<li id=\"fn0-8\" value=\"8\">JOH. TAULER: Die Pr., hg. F. VETTER (1910) 101, 4–30; 262, 20ff.; 350, 25ff.; 357, 29ff. (Nrn. 24. 56. 64. 65).</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 262, 13f. (Nr. 56). <span class=\"col\" data-col=\"94\"></span></li>\n<li id=\"fn0-10\" value=\"10\">92, 20–93, 3; 347, 6ff. (Nrn. 23. 64).</li>\n<li id=\"fn0-11\" value=\"11\">300, 10–301, 3 (Nr. 60 d).</li>\n<li id=\"fn0-12\" value=\"12\">HEINRICH SEUSE: Büchlein der Weisheit II. Dtsch. Schr., hg. K. BIHLMEYER (1907, ND 1961) 330.</li>\n<li id=\"fn0-13\" value=\"13\">JAN van RUYSBROEK: Die Zierde der geistl. Hochzeit III, 4. CC Cont. Med. 103, 599.</li>\n<li id=\"fn0-14\" value=\"14\">z.B. bei G. TERSTEEGEN: Geistl. Blumengärtlein inniger Seelen (1727, <sup>16</sup>1969) 58. 93; vgl. A. LANGEN: Der Wortschatz des dtsch. Pietismus (<sup>2</sup>1968) 167. 421.</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. Art. <a class=\"xref\" href=\"#/a/973\">→ Fünklein, Seelenfünklein</a>. Hist. Wb. Philos. 2 (1972) 1137f.; ferner: M. TARDIEU: ΨΥΧΑΙΟΣ ΣΠΙΝΘΗΡ. Hist. d'une métaphore dans la trad. platonicienne jusqu'à Eckhart. Rev. Et. august. 21 (1975) 225–255; B. MOJSISCH: Meister Eckhart (1983) 130–142.</li>\n<li id=\"fn0-16\" value=\"16\">TAULER, a.O. [8] 201, 3ff. (Nr. 45); SEUSE, a.O. [12].</li>\n<li id=\"fn0-17\" value=\"17\">Vgl. Art. <a class=\"xref\" href=\"#/a/22\">→ Abgrund</a>. Hist. Wb. Philos. 1 (1971) 5; anders P. WYSER: Der S. in Taulers Pr., in: Lebendiges MA. Festgabe W. Stammler (1958) 204–311.</li>\n<li id=\"fn0-18\" value=\"18\">A. G. BAUMGARTEN: Metaphysica (<sup>4</sup>1757) § 511 («fundus animae», der «Grund der Seele», Übers. noch nicht in früheren Aufl.).</li>\n<li id=\"fn0-19\" value=\"19\">J. G. SULZER: Kurzer Begriff aller Wiss. (<sup>2</sup>1759) 157f. (§ 205).</li>\n<li id=\"fn0-20\" value=\"20\">J. G. HERDER: Entwurf zu einer Denkschr. auf A. G. Baumgarten. Sämmtl. Werke, hg. B. SUPHAN (1877–1913) 32, 186.</li>\n<li id=\"fn0-21\" value=\"21\">Vom Erkennen und Empfinden (1778), a.O. 8, 195. 179f.; vgl. H. ADLER: Fundus animae – der Grund der Seele. Dtsch. Vjschr. Lit.wiss. Geistesgesch. 62 (1988) 197–220.</li>\n</ol>",
+ "prev":{"id":2795,"lemma":"Seele, schöne; Seelenschönheit","band":"9","col":90},
+ "next":{"id":2797,"lemma":"Seelenruhe","band":"9","col":94},
+ "backlinks":[
+  {"id":2794,"lemma":"Seele","n":1},
+  {"id":2799,"lemma":"Seelenspitze","n":1},
+  {"id":3423,"lemma":"Vernunft; Verstand","n":1}
+ ],
+ "outlinks":[
+  {"id":22,"lemma":"Abgrund","n":1},
+  {"id":973,"lemma":"Fünklein, Seelenfünklein","n":1},
+  {"id":2799,"lemma":"Seelenspitze","n":1}
+ ],
+ "register":[
+  {"term":"abditum mentis","qualifier":"","band":"9","col":"93"},
+  {"term":"Einung","qualifier":"","band":"9","col":"93"},
+  {"term":"essentia animae","qualifier":"","band":"9","col":"93"},
+  {"term":"fundus animae","qualifier":"","band":"9","col":"93"},
+  {"term":"Innigstes des Geistes","qualifier":"","band":"9","col":"93"},
+  {"term":"Schloss des Geistes","qualifier":"","band":"9","col":"93"},
+  {"term":"Seelenkrone","qualifier":"","band":"9","col":"93"},
+  {"term":"sinus mentis","qualifier":"","band":"9","col":"93"},
+  {"term":"Tiefe der Seele","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":387,"name":"J. Tauler","b":3,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":18,"name":"J. G. Herder","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":48,"name":"A. G. Baumgarten","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":73,"name":"Eckhart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":223,"name":"J. G. Sulzer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":820,"name":"H. Seuse","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1071,"name":"Heinrich Seuse","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17336,"name":"Jan van Ruysbroek","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7,"name":"Augustinus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":470,"name":"Augustin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":316,"name":"A. Adler","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":681,"name":"Richard von St. Viktor","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1601,"name":"G. Tersteegen","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2670,"name":"Johannes Tauler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":11627,"name":"M. Tardieu","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7130,"name":"P. Wyser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":157,"name":"K. Fischer","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":941,"name":"A. M. Haas","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3358,"name":"S. K. Langer","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":4794,"name":"C. Kirmsse","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5389,"name":"B. Schmoldt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5068,"name":"J. Reiter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10403,"name":"H. Kunisch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11193,"name":"R. Öchslin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":12764,"name":"J. Bernhardt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":15163,"name":"B. Dietsche","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":28391,"name":"F. Jetté","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":112,"name":"B. Suphan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1022,"name":"K. Bihlmeyer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1150,"name":"F. Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":682,"name":"B. Mojsisch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1291,"name":"A. Langen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2684,"name":"K. Weiss","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":431,"lemma":"Bild","tf":2},{"id":2066,"lemma":"Name","tf":2}],
+ "see_also":[
+  {"id":22,"lemma":"Abgrund"},
+  {"id":973,"lemma":"Fünklein, Seelenfünklein"},
+  {"id":1191,"lemma":"Grund"},
+  {"id":2799,"lemma":"Seelenspitze"}
+ ],
+ "groups":[
+  {"id":26,"name":"Metaphysik","label":"Seelengrund"},
+  {"id":27,"name":"Mystik","label":"Seelengrund"}
+ ],
+ "reg_authors":[{"name":"Heidrich Peter","n":20}]
+}
+);

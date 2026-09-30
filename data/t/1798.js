@@ -1,0 +1,12 @@
+HWPH.put("t/1798",
+{
+ "b":"List der Vernunft. ‹LdV.› ist ein Ausdruck HEGELS für die Weise, in der sich ein Zweck verwirklicht; bekannt ist er vor allem in Anwendung auf den Endzweck der Welt, das Bewußtsein des Geistes von seiner Freiheit . Dieser das Vernünftige im weltgeschichtlichen Geschehen darstellende Zweck realisiert sich vermittels menschlicher Handlungen, deren treibende Kraft Leidenschaften und partikuläre Interessen sind. Die Vernunft übt in diesem Falle die List, die Leidenschaften so für sich wirken zu lassen, daß dasjenige, «durch was sie sich in Existenz setzt, einbüßt und Schaden leidet». «Die Idee bezahlt den Tribut des Daseins und der Vergänglichkeit nicht aus sich, sondern durch die Leidenschaften der Individuen» . Ein anderer Anwendungsfall ist das technische Verhalten des Menschen zur Natur . \nIn allgemeiner Bedeutung ist LdV. das Verfahren des subjektiven Zwecks, seine Macht geltend zu machen. In der als Material und Mittel für den subjektiven Zweck vorauszusetzenden Äußerlichkeit herrschen mechanische Gesetze, üben und leiden die Objekte Gewalt und bestimmen eines das andere. Der Zweck dagegen manifestiert gerade insofern Vernünftigkeit, als er sich selbst zu seiner Realisierung bestimmt und in dieser mit sich eins bleibt. Aber seine Tätigkeit hat sich innerhalb jener Sphäre der Äußerlichkeit durchzusetzen. Träte er dabei in unmittelbare Beziehung zu seinem Objekt, so würde dessen Abhängigkeit von anderen Objekten seine Verwirklichung zufällig machen und seine Einheit mit sich zerstören. Seine List ist, zwischen sich und das Objekt ein anderes Objekt einzuschieben. «Er läßt dasselbe statt seiner sich äußerlich abarbeiten, gibt es der Aufreibung preis und erhält sich hinter ihm gegen die mechanische Gewalt» . Entgegen dem Eindruck, den der geschichtsphilosophische Anwendungsfall erwecken kann, bezeugt die List also nicht die Gewalttätigkeit der Vernunft, sondern ihre indirekte Wirkung und Schwäche. List ist «das Negative der Gewalt» .",
+ "n":"G. W. F. HEGEL, Die Vernunft in der Gesch., hg. J. HOFFMEISTER (51955) 63. \na.O. 105. \nSämtl. Werke, hg. H. GLOCKNER (= SWG) (1958) 9, 35f. \nWiss. der Logik, hg. G. LASSON (1934) 2, 398; vgl. Encyclop. der philos. Wiss. im Grundrisse (Berlin 1827) § 209. \nSWG (1959) 16, 101; vgl. Jenenser Realphilos., hg. J. HOFFMEISTER (1931) 2, 199.",
+ "l":"",
+ "au":"F. Fulda",
+ "A":["F. Fulda"],
+ "cb":[[0,343],[801,343]],
+ "cn":[[0,343],[76,343],[87,343],[141,343],[256,343]],
+ "cl":[]
+}
+);

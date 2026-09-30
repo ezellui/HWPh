@@ -1,0 +1,56 @@
+HWPH.put("a/3194",
+{
+ "id":3194,
+ "lemma":"Tikkun",
+ "band":"10",
+ "kind":"article",
+ "col_from":1221,
+ "col_to":1223,
+ "pdf_from":43284,
+ "pdf_to":43289,
+ "authors":["A. Kilcher"],
+ "n_notes":18,
+ "n_chars":6451,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Tikkun (hebr. Ordnung, Institution, Verbesserung, nach dem Piel ‹tiken› ‘gerade richtenʼ, ‘in gute Form bringenʼ <sup class=\"fn\" data-fn=\"0-1\">1</sup>). Der Begriff ‹T.› wird zunächst im ‹Talmud› (6. Jh.) im halachischen Sinn als ‘Ordnungʼ verstanden, so in der Formel «wegen der Ordnung der Welt» (mipnei T. ha-Olam) <sup class=\"fn\" data-fn=\"0-2\">2</sup>. MOSES MAIMONIDES (1135–1204) schließt in den ‹Mischne Tora› an den halachischen Begriff des T. ha-Olam an, erweitert ihn aber um einen politischen Aspekt; die Wiederherstellung der rechtlichen Ordnung kann nicht nur durch das Gericht, sondern auch durch den Souverän erfolgen <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Anders versteht er im ‹More Nevuchim› in den Begriffen der «Vervollkommnung des Körpers und Vervollkommnung der Seele» (T. ha-Guf ve T. ha-Nefesch) ‹T.› als eine anthropologische Kategorie <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Die größte Bedeutung erlangte der ursprünglich halachische Begriff ‹T.› in seiner geschichtsphilosophischen Umdeutung in der Kabbala. ISAAK der BLINDE (ca. 1165–1235) greift in seinem ‹Kommentar zum Sefer Jezirah› zunächst auf die Bedeutung des T. als sprachliche ‘Verbesserungʼ zurück, wenn er mit ‹T.› die Wiederherstellung einer ursprünglichen, «vollständigen» Schreibweise des Gottesnamens (ha-Schem ha-Maleh) bezeichnet <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Diese Korrektur symbolisiert aber eine eschatologische Reorganisation <span class=\"col\" data-col=\"1222\"></span> der inneren (sefirothischen) Struktur der Gottheit, im Zuge deren die «Präsenz Gottes» (Schechinah) aus dem ‘Exilʼ zurückgeführt wird. Der Vorgang des T. wird dabei zum einen als ein innergöttliches Prozedere, zum anderen als theurgischer Effekt des Gebets verstanden <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Diese rituelle und theurgische Funktion des Gebets als Mittel zum T. wird im ‹Sohar› (Ende 13. Jh.) systematisiert <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Beim ‘Aufstiegʼ durch die Stufen des Kosmos von der kreatürlichen Welt bis zur Sphäre der Sefiroth und des Gottesnamens soll das Gebet die metaphysischen «Schäden» beheben <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Diese Funktion erfüllen insbesondere der «T. der Schawuoth-Nacht» (T. Lei Schawuoth), der «T. des Neujahrs» (T. Rosch Haschana) und der «T. des Mitternachtgebets» (T. Hazot). Gemäß dem ‹Sohar› wird jedoch der Vorgang des T. nicht nur durch das Gebet, sondern auch durch das Studium der ‹Tora› erwirkt. In den sog. ‹Tikkune Sohar› meint ‹T.› die spezifisch kabbalistische ‘Erklärungʼ der ‹Tora›, im Zuge deren die verborgene göttliche Ordnung der «Welten» und der «Himmel» restituiert wird <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Die weitreichendste Funktion erhielt T. in der von ISAAK LURIA (1534–72) begründeten Kabbala, indem er in ihren Geschichtsmythos des Exils und der Erlösung integriert wurde <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Die primordiale ‘Selbstbeschränkungʼ Gottes (Zimzum), welche das ‘Zerbrechenʼ der göttlichen Weltordnung der Sefiroth nach sich zieht, verleiht dem T. als der ‘Reparationʼ der ‘zerbrochenen Gefäßeʼ eine zentrale Bedeutung. Im Hauptwerk der lurianischen Kabbala, in CHAIIM VITALS ‹Ez Chaiim›, beansprucht die Beschreibung des T. den größten Teil <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Das innergöttliche Prozedere des T. ist hier stark verkompliziert; es ist als Ausgleich zwischen den männlichen (richtenden) und den weiblichen (liebenden) Aspekten der Gottheit nur allgemein beschrieben <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Ebenfalls verkompliziert ist der dem Menschen überantwortete T. Erst durch die Befolgung der Gebote der ‹Tora› kann a) die Seele aus dem ‘Exilʼ des Körpers (durch «Einsammeln der zerstreuten Seelenfunken»), b) Israel aus dem Exil der Nationen und c) die ‘Schechinahʼ aus dem Exil der Welt ‘heimgeholtʼ werden. Damit wurde der T. zu einer messianischen Geschichtskategorie, deren Programm die ‘Erlösungʼ ist <sup class=\"fn\" data-fn=\"0-13\">13</sup>. In der Literatur des Chassidismus, bes. bei NACHMAN VON BRATZLAW (1722–1811), steht dieser Aspekt im Vordergrund. Sein dem ‹Sohar› entnommener <sup class=\"fn\" data-fn=\"0-14\">14</sup> Begriff der «allgemeinen Wiederherstellung» (T. ha-Klali) bezeichnet einen messianischen Vorgang, im Zuge dessen sowohl der Einzelne als auch die ganze Welt mittels ritueller Gebete und Handlungen ‘erlöstʼ werden <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<p>In dieser Prägung erscheint der Begriff des T. seit dem 17. Jh. auch in der christlichen Kabbala. CH. KNORR VON ROSENROTH (1636–89) widmet ihm in seinem ‹Lexicon Kabbalisticum› (1677) einen ausführlichen Beitrag. Was er als «restitutio, restauratio, redintegratio, item conformatio, dispositio, configuratio» übersetzte, wurde nunmehr zu einem christlichen eschatologischen Programm <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Es ist noch im Terminus ‹Reintegration› des ‹Traité de la réintégration des êtres› von M. de PASQUALLY (1727–74) <sup class=\"fn\" data-fn=\"0-17\">17</sup> formuliert und, vermittelt über L. C. de ST. MARTIN, in F. X. VON BAADERS geschichtstheologischen Begriffen ‹Restauration› und ‹Regeneration› <sup class=\"fn\" data-fn=\"0-18\">18</sup>. <span class=\"col\" data-col=\"1223\"></span></p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">G. SCHOLEM: Tradition und Neuschöpfung im Ritus der Kabbalisten, in: Zur Kabbala und ihrer Symbolik (1960) 159–208. – H. PEDAYA: Flaw and correction in the concept of the godhead in the teachings of Rabbi Isaac the Blind (hebr.). Jerusalem Studies Jewish Thought 4 (1987) 157–285. – Y. LIEBES: The Messiah of the Zohar, in: Studies in the Zohar (New York 1993) 1–84; s. Anm. [15]. – M. LORBERBAUM: Maimonides' conception of T. Olam (hebr.). Tarbiz 64 (1994/95) 65–82.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1222\"></span> Als wahrscheinl. Erstbelege des Piel ‹tiken› vgl. Kohelet 1, 15; 7, 13; 12, 9.</li>\n<li id=\"fn0-2\" value=\"2\">Babylon. Talmud, Gittin IV, 1–V, 9.</li>\n<li id=\"fn0-3\" value=\"3\">MOSES MAIMONIDES: Mischne Tora, Hilchoth Melachim III, 10; Hilchoth Rozeah II.</li>\n<li id=\"fn0-4\" value=\"4\">More Nevuchim III, 27.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. G. SCHOLEM: Der Name Gottes und die Sprachtheorie der Kabbala. Judaica 3 (1972) 7–70, hier: 34–48.</li>\n<li id=\"fn0-6\" value=\"6\">ISAAK der BLINDE: Perusch schel R. Izchak Sagi-Nehor le-Sefer Jezirah, in: G. SCHOLEM: Ha-Kabbalah be-Provence (Jerusalem 1963).</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. I. TISHBY: The wisdom of the Zohar (Oxford 1989) III, 956f.</li>\n<li id=\"fn0-8\" value=\"8\">Sohar II, 134 b; II, 201 b.</li>\n<li id=\"fn0-9\" value=\"9\">Sohar I, 4 b–5 a.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. G. SCHOLEM: Kabbalah (Jerusalem 1974) 140–144.</li>\n<li id=\"fn0-11\" value=\"11\">CH. VITAL: Ez Chaiim, Hechal Nekudim bis Hechal Se'ir Anpin.</li>\n<li id=\"fn0-12\" value=\"12\">In Anlehnung an Sohar II, 134 b–135 a.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. G. SCHOLEM: Jewish Messianism and the idea of progress. Commentary 25 (1958) 298–305; Zum Verständnis der messian. Idee im Judentum. Judaica 1 (1963) 7–74.</li>\n<li id=\"fn0-14\" value=\"14\">Vgl. den Begriff ‹tikkuna de-kolla› in: Sohar II, 219 a.</li>\n<li id=\"fn0-15\" value=\"15\">Y. LIEBES: Ha-T. Ha-Kelali of R. Nahman of Bratslav, in: Studies in Jewish myth and Jewish messianism (New York 1993) 115–150.</li>\n<li id=\"fn0-16\" value=\"16\">CH. KNORR VON ROSENROTH: Kabbala denudata (1677–84) I, 732–736; vgl. A. KILCHER: Lexikographische Konstruktion der Kabbala. Morgen-Glantz. Z. Knorr von Rosenroth-Ges. 7 (1997) 67–125.</li>\n<li id=\"fn0-17\" value=\"17\">M. de PASQUALLY: Traité de la réintégration des êtres (Paris 1899); vgl. R. LE FORESTIER: La Franc-Maçonnerie occultiste au 18<sup>ème</sup> s. (Paris 1928). <span class=\"col\" data-col=\"1223\"></span></li>\n<li id=\"fn0-18\" value=\"18\">F. X. VON BAADER: Revision der Philosopheme der Hegel'schen Schule (1839). Sämtl. Werke, hg. F. HOFFMANN (1851–60, ND 1987) 9, 375ff. u.a.</li>\n</ol>",
+ "prev":{"id":3193,"lemma":"Tierrecht","band":"10","col":1217},
+ "next":{"id":3195,"lemma":"Timokratie","band":"10","col":1223},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Institution","qualifier":"","band":null,"col":null},
+  {"term":"Ordnung","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":208,"name":"G. Scholem","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},
+  {"id":213,"name":"F. X. von Baader","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1004,"name":"Moses Maimonides","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1490,"name":"Ch. Knorr von Rosenroth","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11837,"name":"Isaak der Blinde","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18212,"name":"M. de Pasqually","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":18213,"name":"Y. Liebes","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":7116,"name":"Ch. Vital","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13921,"name":"von Isaak Luria","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":17514,"name":"J. Tishby","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11325,"name":"R. le Forestier","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31009,"name":"Chaiim Vitals","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":31010,"name":"Nachman von Bratzlaw","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":31011,"name":"L. C. de St. Martin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":31012,"name":"A. Kilcher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31013,"name":"H. Pedaya","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":31014,"name":"M. Lorberbaum","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":163,"name":"F. Hoffmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1517,"lemma":"Kabbala","tf":4},
+  {"id":2233,"lemma":"Ordnung","tf":5},
+  {"id":808,"lemma":"Erlösung","tf":2},
+  {"id":1173,"lemma":"Gottheit","tf":2},
+  {"id":1769,"lemma":"Leib, Körper","tf":2},
+  {"id":2794,"lemma":"Seele","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":18,"name":"Judentum","label":"Tikkun"}],
+ "reg_authors":[{"name":"Kilcher Andreas","n":1}]
+}
+);

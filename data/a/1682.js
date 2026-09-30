@@ -1,0 +1,27 @@
+HWPH.put("a/1682",
+{
+ "id":1682,
+ "lemma":"Krankheit zum Tode",
+ "band":"4",
+ "kind":"article",
+ "col_from":1190,
+ "col_to":1190,
+ "pdf_from":15095,
+ "pdf_to":15095,
+ "authors":["M. Theunissen"],
+ "n_notes":0,
+ "n_chars":556,
+ "toc":[],
+ "html":"<p>Krankheit zum Tode (die). S. KIERKEGAARD hebt in einer so betitelten Schrift (1849) im Blick auf Joh. 11,4 von der Krankheit, die «nicht zum Tode» ist, von der leiblichen Krankheit und dem leiblichen Tod selbst, die Sünde als die wahre K.z.T. ab, wobei <i>dieser</i> Tod der «andere» (vgl. z.B. Offb. 21,8), die Höllenpein, ist. Im Gegensatz zum Glauben als dem sich in Gott gründenden Selbstsein ist die K.z.T. nach Kierkegaard Verzweiflung, d.h. entweder Selbstvergessenheit oder Nicht-manselbst-sein-Wollen oder sich von Gott lossagendes Manselbst-sein-Wollen.</p>",
+ "prev":{"id":1681,"lemma":"Krankheit","band":"4","col":1184},
+ "next":{"id":1683,"lemma":"Krausismo","band":"4","col":1190},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Sünde","qualifier":"(Kierkegaard)","band":null,"col":null}],
+ "persons":[{"id":52,"name":"S. Kierkegaard","b":1,"n":0,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":1681,"lemma":"Krankheit","tf":3}],
+ "see_also":[{"id":3459,"lemma":"Verzweiflung"}],
+ "groups":[{"id":11,"name":"Existenzphilosophie","label":"Krankheit zum Tode (Kierkegaard)"}],
+ "reg_authors":[{"name":"Theunissen Michael","n":17}]
+}
+);

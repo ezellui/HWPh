@@ -1,0 +1,68 @@
+HWPH.put("a/41",
+{
+ "id":41,
+ "lemma":"Achtung",
+ "band":"1",
+ "kind":"article",
+ "col_from":75,
+ "col_to":76,
+ "pdf_from":464,
+ "pdf_to":468,
+ "authors":["D. Misgeld"],
+ "n_notes":20,
+ "n_chars":4586,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Achtung (vorphilosophisch vornehmlich attentio, observatio) gewinnt philosophische Bedeutung erst als reverentia <sup class=\"fn\" data-fn=\"0-1\">1</sup> in KANTS ethischen Schriften. Kants Theorie des moralischen Gefühls ist eine Theorie der A. In den vorkritischen Schriften tritt A. noch zusammen mit Wohlabgewogenheit als Grundlage der Tugendgesinnung auf <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die kritische Ethik wird aber nur noch als «Moral der A.» (Löwith) verstanden. Die erste Analyse dieses Gefühls findet sich in der ‹Grundlegung zur Metaphysik der Sitten› <sup class=\"fn\" data-fn=\"0-3\">3</sup>, sein systematischer Ort erst in der ‹Kritik der praktischen Vernunft›, in der Lehre von den Triebfedern einer reinen praktischen Vernunft <sup class=\"fn\" data-fn=\"0-4\">4</sup>. A. ergänzt als subjektiver Bestimmungsgrunddes Willens das Gesetz als objektiven Grund der moralischen Verbindlichkeit, wenn der Einfluß der Neigungen und der Selbstliebe auf die Willensbestimmung ausgeschlossen ist <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Sie ist die Sittlichkeit nur «subjektiv als Triebfeder betrachtet» <sup class=\"fn\" data-fn=\"0-6\">6</sup>, nicht Grund der Verbindlichkeit des Gesetzes, sondern dessen Wirkung auf's Gefühl <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Diese negative Wirkung auf die Sinnlichkeit wird Grund einer positiven Schätzung des moralischen Gesetzes, das über solche Kausalität verfügt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. A. ist deshalb ein von Vernunft bewirktes Gefühl <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Als «Doppelgefühl» (H. Cohen) enthält es a) den Akt der Demütigung der sinnlichen Natur des Menschen, b) den der Erhebung zu reiner praktischer Vernunft als alleinigem Grund sittlichen Wollens <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Es impliziert die Akte zweier Vermögen.</p>\n<p>SCHILLER und FICHTE haben Kants Lehre fortgeführt. Wie Kant erklärt SCHILLER dieses Gefühl, das von der «Würde» unzertrennlich sei <sup class=\"fn\" data-fn=\"0-11\">11</sup>, aus dem Widerstreit zwischen der sinnlichen Natur des Menschen und der Forderung des autonom gegebenen Gesetzes, ordnet aber der A. die Hochachtung über, die auf die wirkliche Erfüllung des Gesetzes gehe <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Er nennt sie ein «freieres Gefühl», weil in ihr ein «Ingredienz der Liebe» <sup class=\"fn\" data-fn=\"0-12\">12</sup> enthalten sei. Hochachtung gilt vor allem der Verbindung der Würde mit Anmut, die verhindert, daß A. Furcht wird <sup class=\"fn\" data-fn=\"0-11\">11</sup>. FICHTE setzt A. gleich mit dem sittlichen Trieb <sup class=\"fn\" data-fn=\"0-13\">13</sup> und bezieht diesen auf das Selbstbewußtsein, das in jedem Wollen enthalten sei. Aus der Relation der A. zum Ich folgt ihre Bestimmung als Selbstachtung, auf deren Verwirklichung sich das moralische Selbstbewußtsein richte. Selbstachtung ist «tätig zur Neigung bestimmender Trieb» <sup class=\"fn\" data-fn=\"0-14\">14</sup> wirklichen Wollens. In ihr fließen sinnliche und vernünftige Natur des Menschen zusammen.</p>\n<p>Wichtigste Kritiker des kantischen Lehrstücks sind HEGEL und SCHELER. Für HEGEL führt das Handeln aus A. vor dem Gebot der Pflicht zur Zerrissenheit des Selbst <sup class=\"fn\" data-fn=\"0-15\">15</sup>, da in ihm die Allgemeinheit des <span class=\"col\" data-col=\"76\"></span> Gesetzes der Einzelheit der Neigung entgegengesetzt sei <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Dagegen falle in der Liebe aller Gedanke an Pflicht hinweg, da in ihr die Neigung mit dem Gesetz einig sei <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Die Liebe sei das wahre Prinzip der Tugend <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Auch für SCHELER steht die Liebe über der A. Sie ist eine höhere Art des Wertfühlens. A. vor dem Gesetz setze nämlich das Fühlen des Wertes voraus, dessen Verwirklichung das Gesetz befiehlt <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Die Liebe ist eine solche unmittelbare Weise des Verhaltens zum Wertgegenstand <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Auch das Streben nach Selbstachtung als sittliche Grundhaltung ist für Scheler eine «rationalistische Verirrung», da sie die Fremdliebe in der Selbstliebe gründe <sup class=\"fn\" data-fn=\"0-20\">20</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">Zur Ableitung besonderer Pflichten aus dem Gefühl der A. vgl. KANT: Met. Sitten (1797) §§ 11. 23. 37–42. 44. – Zu A. auch noch KANT: KU (<sup>1</sup>1790) § 27, A 96–97; Grundlegung Met. Sitten (1785, 1786); KpV (1788); K. LÖWITH: Das Individuum in der Rolle des Mitmenschen (<sup>2</sup>1962) 137f. 162. 167ff.; H. J. PATON: Kategorischer Imperativ (dtsch. 1962).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"76\"></span> KANT, Met. Sitten, Tugendlehre. Akad.-A. 6, 402; vgl. D. HENRICH: Das Problem der Grundlegung der Ethik bei Kant und im spekulativen Idealismus, in: Sein und Ethos 1, hg. P. ENGELHARDT (1963) 367ff.</li>\n<li id=\"fn0-2\" value=\"2\">KANT, Beobachtungen über das Gefühl des Schönen und Erhabenen a.a.O. 2, 217.</li>\n<li id=\"fn0-3\" value=\"3\">4, 400f. Anm. 401.</li>\n<li id=\"fn0-4\" value=\"4\">5, 71–89.</li>\n<li id=\"fn0-5\" value=\"5\">Grundlegung zur Met. Sitten a.a.O. 4, 400–401.</li>\n<li id=\"fn0-6\" value=\"6\">Akad.-A. 5, 76.</li>\n<li id=\"fn0-7\" value=\"7\">72. 74. 76.</li>\n<li id=\"fn0-8\" value=\"8\">75.</li>\n<li id=\"fn0-9\" value=\"9\">73. 76.</li>\n<li id=\"fn0-10\" value=\"10\">79.</li>\n<li id=\"fn0-11\" value=\"11\">F. SCHILLER: Über Anmut und Würde. Philos. Schriften, hg. KÜHNEMANN (<sup>3</sup>1922) 150.</li>\n<li id=\"fn0-12\" value=\"12\">a.a.O. 151 Anm. 1.</li>\n<li id=\"fn0-13\" value=\"13\">J. G. FICHTE: Critik aller Offenbarung<sup>2</sup>. Ges.-A. Bayer. Akad. Wiss. 1 (1964) 18f. vgl. 21–25; vgl. Reden an die dtsch. Nation, 10. Rede. Sämtl. Werke, hg. I. H. FICHTE 7 (1846) 414–419.</li>\n<li id=\"fn0-14\" value=\"14\">Critik ... a.a.O. [13] 22.</li>\n<li id=\"fn0-15\" value=\"15\">G. F. W. HEGEL: Theol. Jugendschriften, hg. NOHL (1907) 266–268. 287. 388. 390.</li>\n<li id=\"fn0-16\" value=\"16\">a.a.O. 266.</li>\n<li id=\"fn0-17\" value=\"17\">a.a.O. 265.</li>\n<li id=\"fn0-18\" value=\"18\">M. SCHELER: Der Formalismus in der Ethik und die materiale Wertethik (<sup>4</sup>1954) 238 Anm. 2.</li>\n<li id=\"fn0-19\" value=\"19\">a.a.O. 502. 575; Wesen und Formen der Sympathie (<sup>2</sup>1923) 171.</li>\n<li id=\"fn0-20\" value=\"20\">Der Formalismus ... a.a.O. [18] 502.</li>\n</ol>",
+ "prev":{"id":40,"lemma":"Achsenzeit","band":"1","col":74},
+ "next":{"id":42,"lemma":"Actio immanens/actio transiens","band":"1","col":76},
+ "backlinks":[{"id":3357,"lemma":"Urteil, moralisches","n":1},{"id":3379,"lemma":"Verachtung; Mißachtung","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Anmut","qualifier":"","band":"1","col":"75"},
+  {"term":"Hochachtung","qualifier":"","band":"1","col":"75"},
+  {"term":"praktische Vernunft","qualifier":"","band":"1","col":"75"},
+  {"term":"Respekt","qualifier":"","band":null,"col":null},
+  {"term":"reverentia","qualifier":"","band":null,"col":null},
+  {"term":"Trieb, sittlicher","qualifier":"","band":"1","col":"75"},
+  {"term":"Vernunft, praktische","qualifier":"","band":"1","col":"75"},
+  {"term":"Würde","qualifier":"","band":"1","col":"75"},
+  {"term":"Zerrissenheit","qualifier":"","band":"1","col":"75"}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":2,"l":2,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12,"name":"J. G. Fichte","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23,"name":"M. Scheler","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":42,"name":"F. Schiller","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":361,"name":"H. Nohl","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1685,"name":"P. Engelhardt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":185,"name":"K. Löwith","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":2907,"name":"H. J. Paton","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":324,"name":"D. Henrich","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":18948,"name":"Kühnemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2821,"lemma":"Selbstachtung","tf":3},
+  {"id":1009,"lemma":"Gefühl","tf":6},
+  {"id":1795,"lemma":"Liebe","tf":5},
+  {"id":2106,"lemma":"Neigung","tf":4},
+  {"id":2840,"lemma":"Selbstliebe","tf":2},
+  {"id":1110,"lemma":"Gesetze, kategoriale","tf":5},
+  {"id":1105,"lemma":"Gesetz","tf":4},
+  {"id":3662,"lemma":"Würde","tf":2},
+  {"id":2334,"lemma":"Pflicht","tf":2},
+  {"id":3229,"lemma":"Trieb","tf":2},
+  {"id":2828,"lemma":"Selbstbewußtsein","tf":2},
+  {"id":2781,"lemma":"Schrift","tf":2}
+ ],
+ "see_also":[
+  {"id":1010,"lemma":"Gefühl, moralisches"},
+  {"id":1107,"lemma":"Gesetz, moralisches"},
+  {"id":2821,"lemma":"Selbstachtung"},
+  {"id":2903,"lemma":"Sittlichkeit; Sittenlehre"}
+ ],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Achtung"}],
+ "reg_authors":[{"name":"Misgeld Dieter","n":1}]
+}
+);

@@ -1,0 +1,64 @@
+HWPH.put("a/2812",
+{
+ "id":2812,
+ "lemma":"Seinsgeschichte",
+ "band":"9",
+ "kind":"article",
+ "col_from":258,
+ "col_to":260,
+ "pdf_from":35599,
+ "pdf_to":35606,
+ "authors":["M. Müller","M. Müller/H. Treziak"],
+ "n_notes":24,
+ "n_chars":8176,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Seinsgeschichte, ein Zentralbegriff des Spätwerks von M. <span class=\"col\" data-col=\"259\"></span> HEIDEGGER <sup class=\"fn\" data-fn=\"0-1\">1</sup>, bezeichnet den Grundzug eines Denkens, das, «statt Vorstellungen und Begriffe zu liefern, sich als Wandlung des Bezuges zum Sein erfährt und erprobt» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Weil Heideggers Denken von Anfang an auf die sogenannte «Kehre» <a class=\"xref\" href=\"#/a/1556\">→</a> (s.d.) angelegt ist, d.h. sich auf dem Gang vom existential-ontologischen zum eksistential-aletheiologischen Denken und zur Frage nach dem Sein <i>als</i> Sein befindet, ist der erst im späteren Werk <sup class=\"fn\" data-fn=\"0-3\">3</sup> stets gebrauchte Titel ‹S.› bereits in ‹Sein und Zeit› vorbereitet durch den Versuch, die Geschichtlichkeit in einer Zeit zu begründen <sup class=\"fn\" data-fn=\"0-4\">4</sup>, welche nicht menschliche Anschauungsform (wie bei Kant) ist, sondern von sich her den Horizont für die Frage nach dem Sinn von Sein abgeben soll. Mit dem immer entschiedener sich entwickelnden Willen, in Gegenwendung gegen die Metaphysik das Sein <i>als</i> Sein zu denken, geht die Absicht einher, die Geschichte nicht mehr als Prozeß historischer Abläufe <sup class=\"fn\" data-fn=\"0-5\">5</sup> zu begreifen, sondern ihr und ihrem Wesenswandel (als Wandel gemäß dem Sein und seiner unbeliebigen Zeitigung) im Sein selbst den Boden zu geben. «Die Geschichte geschieht nicht zuerst als Geschehen. Und dieses ist nicht Vergehen. Das Geschehen der Geschichte west als Geschick der Wahrheit des Seins aus diesem» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Weil Sein gerade nichts Seiendes ist, liegt einerseits seine Hypostasierung für Heidegger ganz fern; andererseits aber liegt in dieser Zwiefalt überhaupt erst eine echte Denkmöglichkeit der <i>ontologischen Differenz</i>; denn die Lichtungsgeschichte des Seins geschieht immer in dessen Verhältnis zum Seienden, und sie muß gedacht werden als der im Sein selbst wesenhaft waltende Zug des Sich-Entziehens seiner Wahrheit, und zwar so, daß dieses Sich-Entziehen sowohl als die Bergung der Lichtung des Seins in eine Verborgenheit als auch als Entbergung in eine Offenheit – des Seienden – ausgelegt wird. Dies ist die «<i>formale</i> Anzeige» der S. Die <i>inhaltliche</i> Erfüllung der bisherigen S. aber benennt Heidegger mit dem Titel «Seinsvergessenheit» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. In der Seinsvergessenheit als der seit Platon im Abendlande sich ereignenden Geschichte der Metaphysik lichtet sich das Sein wohl hinsichtlich des Seienden, es selbst <i>als</i> das Entbergende bleibt aber verborgen, und diese Verborgenheit wird als solche nicht erfahren. Das ist keiner solchen Vergessenheit zuzuschreiben, die auch hätte vermieden werden können <sup class=\"fn\" data-fn=\"0-8\">8</sup>, sondern ist für Heidegger vom Sein selbst ereignet und also «epochal»: dieses erstens in der Bedeutung von Stufe, Zeitabschnitt innerhalb der S., und zweitens in der Bedeutung von Ansichhalten und Verweigerung des Seins selbst als <i>dessen</i> «Entscheidung» und Geschick <sup class=\"fn\" data-fn=\"0-9\">9</sup>. «Es gibt Sein nur je und je in dieser und jener geschicklichen Prägung: Φύσις, Λόγος Ἕν, Ιδέα, Ἐνέργεια, Substantialität, Objektivität, Subjektivität, Wille, Wille zur Macht, Wille zum Willen» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Diese stichwortartige Aufreihung ist Heideggers Abbreviatur dafür, wie er die gesamte abendländische Denkgeschichte interpretiert in ihrer so bestimmten Prägung als jeweils bestimmten Wesenswandel der S. qua Geschichte der Metaphysik, die sich im Geschick des «Willens zum Willen» vollendet, d.h. in der modernen Technik <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Dieses Ende kündet sich bereits in Nietzsches Philosophie des Willens zur Macht an, die als die Umkehrung des Platonismus Anfang und Ende der abendländischen Philosophie zusammenschließt und als die letzte Aufgipfelung der Subjektivität in der Form eines im weitesten Sinne gefaßten Humanismus zugleich mit diesem den vollendeten Nihilismus bedeutet, in welchem es «mit dem Sein selbst nichts mehr ist» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Das Ende der abendländischen Philosophie besagt, daß der «Umkreis der vorgezeichneten Möglichkeiten abgeschritten» <sup class=\"fn\" data-fn=\"0-13\">13</sup> ist. «Aber mit dem Ende der Philosophie ist nicht auch schon das Denken zu Ende, sondern im Übergang zu einem andern Anfang» <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Dieser Übergang ist als Überstieg und dieser als Überwindung und diese als Verwindung der Metaphysik zu denken. «Die Verwindung der Metaphysik ist Verwindung der Seinsvergessenheit. Die Verwindung wendet sich dem <span class=\"col\" data-col=\"260\"></span> Wesen der Metaphysik zu. Sie umrankt es durch das, wohin dieses Wesen selbst verlangt, insofern es nach demjenigen Bereich ruft, der es ins Freie seiner Wahrheit hebt. Darum muß das Denken, um der Verwindung der Metaphysik zu entsprechen, zuvor das Wesen der Metaphysik verdeutlichen. ... Aber in der Verwindung kehrt die bleibende Wahrheit der anscheinend verstoßenen Metaphysik als deren nunmehr angeeignetes <i>Wesen</i> erst eigens zurück» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Mit der Aufgabe, das anfängliche Wesen der Wahrheit zu erinnern <sup class=\"fn\" data-fn=\"0-16\">16</sup>, und mit dem «erstanfänglichen» Andenken der Grundzüge des Seins und dessen Verborgenheit als ἀλήθεια, φύσις und λόγος stellt sich zugleich die Aufgabe eines Vordenkens in die «andersanfänglichen» Grundzüge des Seins als Welt qua Geviert, als Sein und Sprache, als Gespräch mit dem Dichter usw. In diesen Aufgaben meldet sich die mögliche Ankunft einer S., die unterschieden wäre von ihrer bislang einzig erschienenen Prägung als Geschichte der Metaphysik. Die Rede von «S.» und «Seinsvergessenheit» wird erst dann dem Vorwurf, lediglich Problemtitel zu nennen, begegnen können, wenn das im gesamten vorliegenden Denkwerk Heideggers bislang noch nicht genügend geklärte und schwierige Verhältnis von Verbergung/Entbergung sich genauer bestimmen ließe als jener Vorgang des Seins, der die Geschichte und Geschichtlichkeit ermöglicht und aufgrunddessen die gewohnten Modelle von Geistesgeschichte als in das Ereignis des Seins selbst gehörend verabschiedet werden dürfen.</p>\n<p>In den ‹Beiträgen zur Philosophie›, die «vom Ereignis» handeln, interpretiert Heidegger den Grundansatz von ‹Sein und Zeit› und korrigiert dabei zugleich angebliche oder tatsächliche Mißverständnisse dieses Ansatzes: «Die Frage nach dem ‘Sinnʼ, d.h. nach der Erläuterung in ‹Sein und Zeit› die Frage nach der Gründung des Entwurfsbereichs, kurz nach der <i>Wahrheit des Seyns</i> ist und bleibt <i>meine</i> Frage und ist meine <i>einzige</i>» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Leitbegriff ist das «Ereignis», das in der «S.» noch aussteht. Dieses «Ereignis» ist im Kern theologisch bestimmt: «Wie weit entfernt ist von uns der Gott ...? So weit entfernt ist er, daß wir nicht zu entscheiden vermögen, ob er sich auf uns zu oder von uns weg bewegt» <sup class=\"fn\" data-fn=\"0-18\">18</sup>. So darf man das «Ereignis» die Parusie Gottes unter den für Heidegger nicht mehr annehmbaren religiösen Bedingungen dieser Parusie sehen. «Das Ereignis hat sein innerstes Geschehen und seinen weitesten Ausgriff in der Kehre ... Das Ereignis muß das Dasein brauchen, seiner bedürfend es in den Zuruf stellen und so vor den Vorbeigang des letzten Gottes bringen. Die Kehre west zwischen dem Zuruf ... und der Zugehör ... Kehre ist Widerkehre» <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Und «das Ereignis ‘istʼ so die höchste Herrschaft als Widerkehre über Zukehr und Flucht der gewesenen Götter. Der äußerste Gott bedarf des Seyns» <sup class=\"fn\" data-fn=\"0-20\">20</sup>. Aber der «letzte Gott ist nicht das Ereignis selbst, wohl aber seiner bedürftig als jenes, dem der Dagründer zugehört» <sup class=\"fn\" data-fn=\"0-21\">21</sup>. Dieses Ereignis wird in der «Seynsgeschichte» erwartet: «Die Seynsgeschichte kennt in langen Zeiträumen, die ihr nur Augenblicke sind, seltene Ereignisse» <sup class=\"fn\" data-fn=\"0-22\">22</sup>. Aber das «Seyn als das Er-eignis ist der Sieg des Unumgänglichen in der Bezeugung des Gottes» <sup class=\"fn\" data-fn=\"0-23\">23</sup>. Jedoch: «Der Eintritt des Menschen in die S. ist unberechenbar und unabhängig von allem Fortschritt oder Niedergang der ‘Kulturʼ, solange die ‘Kulturʼ selbst die Verfestigung der Seinsverlassenheit des Seienden bedeutet» <sup class=\"fn\" data-fn=\"0-24\">24</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"260\"></span> M. HEIDEGGER: Der Satz vom Grund [SvG] (1957) 114.</li>\n<li id=\"fn0-2\" value=\"2\">Vom Wesen der Wahrheit (<sup>3</sup>1954) 27.</li>\n<li id=\"fn0-3\" value=\"3\">Die mit dem Titel ‹S.› gemeinte Sache zeigt sich zum ersten Mal im Vortrag über Hölderlins Hymne ‹Wie wenn am Feiertage ...› (1941) 31, in: Erläut. zu Hölderlins Dichtung (1951, <sup>3</sup>1963) 73: «Geschichte ist nur dann, wenn je das Wesen der Wahrheit anfänglich entschieden wird».</li>\n<li id=\"fn0-4\" value=\"4\">Sein und Zeit [SuZ] (1927, <sup>9</sup>1960) 372ff. (§§ 72ff.).</li>\n<li id=\"fn0-5\" value=\"5\">SvG, a.O. 109.</li>\n<li id=\"fn0-6\" value=\"6\">Platons Lehre von der Wahrheit [PLW] (Bern 1947) 81.</li>\n<li id=\"fn0-7\" value=\"7\">SuZ 2.</li>\n<li id=\"fn0-8\" value=\"8\">Zur Seinsfrage [ZS] (<sup>2</sup>1959) 34.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. SvG 108f.</li>\n<li id=\"fn0-10\" value=\"10\">Identität und Differenz (1957) 64.</li>\n<li id=\"fn0-11\" value=\"11\">Vortr. und Aufs. [VuA] (<sup>2</sup>1959) 80.</li>\n<li id=\"fn0-12\" value=\"12\">Holzwege (<sup>3</sup>1957) 244f.</li>\n<li id=\"fn0-13\" value=\"13\">VuA 83.</li>\n<li id=\"fn0-14\" value=\"14\">a.O.</li>\n<li id=\"fn0-15\" value=\"15\">ZS 35.</li>\n<li id=\"fn0-16\" value=\"16\">PLW 51.</li>\n<li id=\"fn0-17\" value=\"17\">Beitr. zur Philos. (Vom Ereignis) [1936–38]. Ges.ausg. III/65 (1989) 10.</li>\n<li id=\"fn0-18\" value=\"18\">a.O. 23.</li>\n<li id=\"fn0-19\" value=\"19\">407.</li>\n<li id=\"fn0-20\" value=\"20\">408.</li>\n<li id=\"fn0-21\" value=\"21\">409.</li>\n<li id=\"fn0-22\" value=\"22\">227.</li>\n<li id=\"fn0-23\" value=\"23\">228.</li>\n<li id=\"fn0-24\" value=\"24\">a.O.</li>\n</ol>",
+ "prev":{"id":2811,"lemma":"Seinkönnen","band":"9","col":256},
+ "next":{"id":2813,"lemma":"Seinsregion","band":"9","col":261},
+ "backlinks":[
+  {"id":2806,"lemma":"Sein; Seiendes","n":1},
+  {"id":3047,"lemma":"Subjekt","n":1},
+  {"id":3139,"lemma":"Technik","n":1},
+  {"id":3332,"lemma":"Unverfügbarkeit","n":1},
+  {"id":3397,"lemma":"Verfallen","n":1},
+  {"id":3463,"lemma":"Vierung","n":1},
+  {"id":3557,"lemma":"Welt","n":1},
+  {"id":3676,"lemma":"Zeit","n":1}
+ ],
+ "outlinks":[{"id":1556,"lemma":"Kehre","n":1}],
+ "register":[
+  {"term":"des Seins (Heidegger)","qualifier":"(Heidegger)","band":"9","col":"259f."},
+  {"term":"Ende der Philosophie","qualifier":"(Heidegger)","band":"9","col":"259"},
+  {"term":"Geschichte","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Geschick","qualifier":"(Heidegger)","band":"9","col":"259"},
+  {"term":"I-II","qualifier":"(Heidegger)","band":"9","col":"259"},
+  {"term":"Verwindung der Metaphysik","qualifier":"(Heidegger)","band":"9","col":"259f."},
+  {"term":"– I (Heidegger) 2 146f. s. auch","qualifier":"(Heidegger)","band":null,"col":null}
+ ],
+ "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[
+  {"id":785,"lemma":"Ereignis","tf":10},
+  {"id":2815,"lemma":"Seinsvergessenheit","tf":4},
+  {"id":1944,"lemma":"Metaphysik","tf":10},
+  {"id":2286,"lemma":"Parusie","tf":2},
+  {"id":3620,"lemma":"Wille","tf":6},
+  {"id":2438,"lemma":"Prägung","tf":3},
+  {"id":1090,"lemma":"Geschichtlichkeit","tf":2},
+  {"id":3052,"lemma":"Subjektivität","tf":2},
+  {"id":3253,"lemma":"Übergang","tf":2},
+  {"id":1701,"lemma":"Kultur, Kulturphilosophie","tf":2},
+  {"id":1844,"lemma":"Macht","tf":2}
+ ],
+ "see_also":[
+  {"id":572,"lemma":"Destruktion"},
+  {"id":1556,"lemma":"Kehre"},
+  {"id":2815,"lemma":"Seinsvergessenheit"},
+  {"id":3397,"lemma":"Verfallen"}
+ ],
+ "groups":[
+  {"id":13,"name":"Geschichtsphilosophie","label":"Seinsgeschichte (Heidegger)"},
+  {"id":26,"name":"Metaphysik","label":"Seinsgeschichte (Heidegger)"}
+ ],
+ "reg_authors":[{"name":"Müller Max","n":1},{"name":"Treziak Heinrich","n":1}]
+}
+);

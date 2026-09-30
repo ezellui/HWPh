@@ -1,0 +1,27 @@
+HWPH.put("a/586",
+{
+ "id":586,
+ "lemma":"Diametral",
+ "band":"2",
+ "kind":"article",
+ "col_from":229,
+ "col_to":229,
+ "pdf_from":4328,
+ "pdf_to":4328,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":195,
+ "toc":[],
+ "html":"<p>Diametral wird gelegentlich der polare <a class=\"xref\" href=\"#/a/1018\">Gegensatz</a> <span class=\"sd\">→ (s.d.)</span> genannt, der zwischen zwei Begriffen besteht, die sich als entgegengesetzte Enden einer Skala auffassen lassen: kalt – warm, hell – dunkel.</p>",
+ "prev":{"id":585,"lemma":"Dialog, dialogisch","band":"2","col":226},
+ "next":{"id":587,"lemma":"Dianoetisch/ethisch","band":"2","col":229},
+ "backlinks":[],
+ "outlinks":[{"id":1018,"lemma":"Gegensatz","n":1}],
+ "register":[{"term":"Gegensatz, polarer","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":1018,"lemma":"Gegensatz"}],
+ "groups":[{"id":22,"name":"Logik","label":"Diametral"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

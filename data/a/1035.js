@@ -1,0 +1,58 @@
+HWPH.put("a/1035",
+{
+ "id":1035,
+ "lemma":"Geisteskrankheit",
+ "band":"3",
+ "kind":"article",
+ "col_from":210,
+ "col_to":211,
+ "pdf_from":7995,
+ "pdf_to":7998,
+ "authors":["W. Blankenburg"],
+ "n_notes":11,
+ "n_chars":4018,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Geisteskrankheit (engl. insanity; frz. aliénation mentale; ital. alienazione mentale; span. locura) ist ein seit dem 19. Jh. gebräuchlicher Ausdruck für Psychose. Für die Begriffsentwicklung bedeutsam waren u.a. A. CHRICHTON (‹An inquiry into the nature and origin of mental derangement›, London 1798) und PH. PINEL (‹Traité medicophilosophique sur l'aliénation mental ...›, Paris 1801). Die Begriffe ‹geisteskrank› und ‹G.› finden sich in der deutschen Literatur erstmals bei J. H. CAMPE und FR. SCHLEGEL <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Sie bürgerten sich dann bald auch in der Fachsprache ein <sup class=\"fn\" data-fn=\"0-2\">2</sup>. – Die mit dem Begriff ‹G.› bezeichneten Phänomene selbst sind so alt wie die Menschheit. In dem historischen Wandel ihrer Interpretationen spie gelt sich die Geistesgeschichte [^2a]; er beansprucht da her philosophisches Interesse.</p>\n<p>Der Ausdruck ‹G.› ist fragwürdig. Er wurde immer wieder mit dem Hinweis kritisiert, daß der Geist prinzipiell nicht erkranken könne; lediglich die Bedingungen seines Erscheinens könnten auf krankhafte Weise verändert sein. In diesem Sinne läßt sich auch die auf J.-E.-D. ESQUIROL <sup class=\"fn\" data-fn=\"0-3\">3</sup>, W. GRIESINGER <sup class=\"fn\" data-fn=\"0-4\">4</sup> und C. WERNICKE <sup class=\"fn\" data-fn=\"0-5\">5</sup> zurückgehende Arbeitshypothese «G. sind Gehirnkrankheiten» interpretieren. Unter den Psychiatern des 20. Jh. hat allein K. SCHNEIDER unter dem Einfluß aristotelisch-thomistischer Gedankengänge vorübergehend erwogen, ob nicht in den endogenen Psychosen der Geist bzw. die Seele als forma corporis gleichsam aus sich selbst heraus sich verirren könnte, ohne daß dies durch eine Erkrankung der Materie bewirkt sein müßte; diese Auffassung zog er später jedoch wieder zurück <sup class=\"fn\" data-fn=\"0-6\">6</sup>. – Die philosophisch begründete Definition von P. HÄBERLIN: «Was wir G .... nennen, ist diejenige organische Krankheit, welche als psychische Störung in Erscheinung tritt» <sup class=\"fn\" data-fn=\"0-7\">7</sup> ist überholt, da sie eine Alternative zwischen organischer und psychosozialer Genese voraussetzt, die heute im Hinblick auf die endogenen Psychosen mehr als frag würdig geworden ist.</p>\n<p>Wenn die Bezeichnung ‹G.›, ohne irgendein ätiologisches Postulat zu implizieren, lediglich die Tatsache meint, daß bestimmte Erkrankungen – mehr qualitativ als quantitativ – die geistigen Fähigkeiten des Menschen in Mitleidenschaft ziehen, ist theoretisch nichts gegen sie einzuwenden. Sie trifft dann in erster Linie für die Schizophrenie und für bestimmte Arten körperlich bedingter Psychosen zu. G. im engeren Sinn sind dann gegen die Gemütsleiden, d.h. die manisch-depressiven Psychosen, abzugrenzen, bei denen die geistigen Fähigkeiten nur sekundär betroffen sind. Da sich jedoch mit dem Wort ‹G.› viele Vorurteile verbinden (vgl. H. KEUPP <sup class=\"fn\" data-fn=\"0-8\">8</sup>), wird es in der neueren Fachliteratur meist vermieden und stattdessen der <span class=\"col\" data-col=\"211\"></span> weitere und zugleich weniger belastete Terminus ‹Psychose› verwendet. – In den letzten Jahren wurden in zunehmendem Maße wissenschaftssoziologische wie sozialgeschichtliche Hinterfragungen von Begriff und Tatbestand der ‹G.› aktuell <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Zu ihrer Beurteilung bedarf es – ebenso wie zu der damit in Zusammenhang stehenden «Antipsychiatrie» – fachkundiger Kritik <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">K. JASPERS: Allg. Psychopathol. (1946). W. LEIBBRAND und A. WETTLEY s. Anm. [2a]. – A. A. ROBACK s. Anm. [2a]. – Vgl. Anm. [6–9].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"211\"></span> GRIMM IV/1<sup>2</sup>, 2763.</li>\n<li id=\"fn0-2\" value=\"2\">J. G. LANGERMANN: Über den gegenwärtigen Zustand der psych. Heilmethoden der G .... (1805); ND in: Allg. Z. Psychiat. 2 (1845) 601–605; J.-E. D. ESQUIROL: Des maladies mentales (Paris 1838); dtsch. Von den G. (1968).</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. W. LEIBBRAND und A. WETTLEY: Der Wahnsinn (1961); A. A. ROBACK: Hist. of psychol. and psychiat. (1961, dtsch. 1970).</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. 17.</li>\n<li id=\"fn0-4\" value=\"4\">W. GRIESINGER: Die Pathol. und Therapie der psych. Krankheiten (1845, <sup>2</sup>1876).</li>\n<li id=\"fn0-5\" value=\"5\">C. WERNICKE: Grundzüge der Psychiat. (<sup>2</sup>1906).</li>\n<li id=\"fn0-6\" value=\"6\">K. SCHNEIDER: Psychiat. heute (<sup>2</sup>1955).</li>\n<li id=\"fn0-7\" value=\"7\">P. HÄBERLIN: Der Gegenstand der Psychiat. Schweiz. Arch. Neurol. Psychiat. 60 (1947) 132–144.</li>\n<li id=\"fn0-8\" value=\"8\">H. KEUPP: Der Krankheitsmythos in der Psychopathol. (1972).</li>\n<li id=\"fn0-9\" value=\"9\">M. FOUCAULT: Folie et déraison (1961, dtsch. 1969); K. DÖRNER: Zur Sozialgesch. und Wissenschaftssoziol. der Psychiat. (1969).</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. Évolut. psychiat. 36/2 (1971); 37 (1972).</li>\n</ol>",
+ "prev":{"id":1034,"lemma":"Geistesgeschichte","band":"3","col":207},
+ "next":{"id":1036,"lemma":"Geisteswissenschaften","band":"3","col":211},
+ "backlinks":[{"id":3521,"lemma":"Wahnsinn","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"aliénation mentale","qualifier":"","band":null,"col":null},
+  {"term":"insanity","qualifier":"","band":null,"col":null},
+  {"term":"locura","qualifier":"","band":null,"col":null},
+  {"term":"Störung, psychische","qualifier":"","band":"3","col":"210"}
+ ],
+ "persons":[
+  {"id":1163,"name":"K. Schneider","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1282,"name":"W. Griesinger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1426,"name":"P. Häberlin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1512,"name":"C. Wernicke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5028,"name":"J.-E.-D. Esquirol","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5657,"name":"H. Keupp","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2002,"name":"W. Leibbrand","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":3244,"name":"A. Wettley","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":4899,"name":"A. A. Roback","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":35,"name":"F. Schlegel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":174,"name":"M. Foucault","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":449,"name":"J. H. Campe","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":3763,"name":"P. Pinel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":5029,"name":"K. Dörner","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":14188,"name":"J. G. Langermann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":20722,"name":"A. Chrichton","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":44,"name":"K. Jaspers","b":0,"n":0,"l":1,"editor":0,"role":"source"}
+ ],
+ "mentions":[{"id":2528,"lemma":"Psychose","tf":6}],
+ "see_also":[
+  {"id":420,"lemma":"Bewußtseinsstörung"},
+  {"id":2526,"lemma":"Psychopathologie"},
+  {"id":2528,"lemma":"Psychose"},
+  {"id":2765,"lemma":"Schizophrenie"},
+  {"id":3520,"lemma":"Wahn"},
+  {"id":3521,"lemma":"Wahnsinn"}
+ ],
+ "groups":[{"id":34,"name":"Psychiatrie","label":"Geisteskrankheit"}],
+ "reg_authors":[{"name":"Blankenburg Wolfgang","n":4}]
+}
+);

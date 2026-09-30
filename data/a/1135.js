@@ -1,0 +1,35 @@
+HWPH.put("a/1135",
+{
+ "id":1135,
+ "lemma":"Geworfenheit",
+ "band":"3",
+ "kind":"article",
+ "col_from":622,
+ "col_to":623,
+ "pdf_from":9287,
+ "pdf_to":9288,
+ "authors":["H. Deku"],
+ "n_notes":6,
+ "n_chars":1916,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Geworfenheit ist ein ursprünglich <i>gnostischer</i> Terminus, der das gegenwärtige Fernsein von Gott bezeichnet: <span class=\"col\" data-col=\"623\"></span> ποῦ ἐνεβλήθησεν (wo sind wir hineingeworfen worden) <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In <i>mandäischen</i> Texten ist er häufig nachweisbar, doch bedeutet dort die Gegenwart immer nur Moment der Peripetie, denn Erkenntnis garantiert Rückkehr, d.h. Aufhören der Distanz. Späterhin tritt vermutlich an die Stelle der Erkenntnis die Einordnung in die Gesellschaft, ohne welche der Mensch nirgends zu Hause wäre: «homo undecunque in huncce mundum projectus ac sibi soli plane relictus» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. So ist wohl auch die Aussage, der Mensch sei «jeté, perdu dans ce vaste univers et comme noyé dans l'immensité des êtres» bei ROUSSEAU zu verstehen <sup class=\"fn\" data-fn=\"0-3\">3</sup>, während es für HEIDEGGERS radikalen Endlichkeitsstandpunkt keine Befreiungspraktiken mehr geben kann: Die G. fällt also mit der ebenso unausweichlichen wie undurchlichteten Faktizität zusammen <sup class=\"fn\" data-fn=\"0-4\">4</sup>. «Die G. ist nicht nur nicht eine ‹fertige Tatsache›, sondern auch nicht ein abgeschlossenes Faktum. Zu dessen Faktizität gehört, daß das Dasein, <i>solange</i> es ist, was es ist, im Wurf bleibt und in die Uneigentlichkeit des Man hineingewirbelt wird» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Bedenkt man, wie weitgehend Heidegger auch sonst von Luther abhängt (Mißtrauen gegen die Vernunft zugunsten der Gestimmtheit u. dgl. m.), dann ist LUTHERS Hinweis, Christus sei «ins Fleisch geworfen» <sup class=\"fn\" data-fn=\"0-6\">6</sup>, mit seinem die homo-assumptus-Lehre ignorierenden Passivismus besonders aufschlußreich.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">J. R. WEINBERG: Nicolaus of Autrecourt (Princeton 1948). – O. PÖGGELER: Der Denkweg Martin Heideggers (1963) 56.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. z.B. CLEMENS ALEXANDRINUS, Excerpta ex Theodoto 78, 2. MPG 9, 696.</li>\n<li id=\"fn0-2\" value=\"2\">S. PUFENDORF: De jure naturae et gentium II, 2, 2 (Lund 1672, zit. 1684) 155; vgl. Eris Scandica (Frankfurt <sup>1</sup>1686, zit. 1744) 178ff.</li>\n<li id=\"fn0-3\" value=\"3\">J.-J. ROUSSEAU: Emile (1762, zit. Paris 1961) 328.</li>\n<li id=\"fn0-4\" value=\"4\">M. HEIDEGGER: Sein und Zeit (<sup>1</sup>1927, zit. <sup>9</sup>1960) 134–137. 284.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 179.</li>\n<li id=\"fn0-6\" value=\"6\">M. LUTHER, Weimarer A. 10/III, 55.</li>\n</ol>",
+ "prev":{"id":1134,"lemma":"Gewöhnung","band":"3","col":620},
+ "next":{"id":1136,"lemma":"Geziemende","band":"3","col":623},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":22,"name":"M. Luther","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":39,"name":"J.-J. Rousseau","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":155,"name":"S. Pufendorf","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2200,"name":"Clemens Alexandrinus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3116,"name":"J. R. Weinberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":888,"lemma":"Faktizität","tf":2}],
+ "see_also":[{"id":888,"lemma":"Faktizität"},{"id":2904,"lemma":"Situation"}],
+ "groups":[{"id":11,"name":"Existenzphilosophie","label":"Geworfenheit (Heidegger)"}],
+ "reg_authors":[{"name":"Deku Henry","n":1}]
+}
+);

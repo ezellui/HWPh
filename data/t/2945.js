@@ -1,0 +1,38 @@
+HWPH.put("t/2945",
+{
+ "b":"Sozialidealismus (engl. social idealism; frz. idéalisme social; ital. idealismo sociale). Der Begriff ‹S.› kennzeichnet vorrangig konzeptionelle Verbindungen von Sozialismus und Idealismus. \n1. E. FOURNIÈRES ‹L'idealisme social› von 1898 gibt eine positivistische Definition. Gegen den Materialismus entwirft Fournière eine sozialistische Utopie, die menschliche Ideale ebenso voraussetzt wie die Begriffe der Entwicklung oder des Kommunismus. \n2. Der Marburger Neukantianismus vertritt einen kritischen Ansatz. R. STAMMLER hält die These des Historischen Materialismus, die Ökonomie sei letzte Ursache, die Ideen nur Reflex, für falsch. Der Sozialismus selbst sei eine Zwecklehre, deren Begründung für Stammler «Sozialer Idealismus» heißt. Stammler bestimmt das soziale Ideal (die «Gemeinschaft frei wollender Menschen» ) formal als regulative Idee der Selbstzwecklichkeit des Menschen. M. WEBER und E. KAUFMANN widersprechen Stammler. Kaufmann nennt als soziales Ideal den siegreichen Krieg . L. NELSON nutzt den Begriff für die Sozialpolitik . Mit P. NATORP orientiert sich STAMMLER an dem auf Kant und Schiller verweisenden «Standpunkt des Ideals» von F. A. LANGE . \nBereits früh in NATORPS Sozialphilosophie angelegt , erscheint der S. 1921 im Revolutionsbuch ‹S.› als Vermittlung von Sozialismus und Idealismus zum Zwecke des Aufbaus der «Menschengemeinschaft in Wirtschaft, Staat und Erziehung» . ‹Idealismus› heißt hier Weckung und Arbeit des kritischen Geistes, ‹Sozialismus› sozialökonomisch-politische Reform, Genossenschaft, nicht Zwang. Der kritisch und dialektisch operierende Rationalismus habe die Idee des Guten in die Praxis zu tragen. Diese Idee übersetzt Natorp in «freie Gemeinschaft freier Individuen» oder Autonomie, Autotelie und Autopoiie . Neben H. COHEN , F. STAUDINGER und K. VORLÄNDER treten auch W. ISRAEL , A. KRANOLD und V. ENGELHARDT für die Verbindung von kritischer Theorie und emanzipatorischem Interesse im S. ein. Verwandte Ideen trugen M. BUBER und TH. STEINBÜCHEL vor, in Rußland M. TUGAN-BARANOWSKY , in Frankreich J. JAURÈS . Vom Marxismus-Leninismus später abgelehnt , stieß der kritische S. auch im zeitgenössischen Revisionismus E. BERNSTEINS auf Widerspruch . Bernstein bestritt die Möglichkeit einer wissenschaftlichen Ethik. \nNeben den genannten Konzepten verwenden auch retrospektive Deutungen des sozialen Engagements Berkeleys und der Soziallehre Fichtes den Begriff ‹S.›.",
+ "n":"E. FOURNIÈRE: L'idealisme soc. (Paris 1898). \nR. STAMMLER: Wirtschaft und Recht nach der mat. Gesch.auffassung (51924) 556. \nM. WEBER: Stammlers ‘Überwindungʼ der mat. Gesch.auffassung. Arch. Soz.wiss.-politik 24 (1907) 94–151. \nE. KAUFMANN: Das Wesen des Völkerrechts und die clausula rebus sic stantibus (1911). \nL. NELSON: System der philos. Rechtslehre und Pol. (1924). \nF. A. LANGE: Gesch. des Materialismus (1866). \nP. NATORP: Sozialpäd. (1899). \nS. (1921) III. \na.O. 127. \n243f. \nH. COHEN: Ethik des reinen Willens (21907). \nF. STAUDINGER: Ethik und Politik (1899). \nK. VORLÄNDER: Kant und Marx (21926). \nW. ISRAEL: Zur wiss. Fortbildung des Sozialismus (1921). \nA. KRANOLD: Die Persönl. im Sozialismus (1923). \nV. ENGELHARDT: An der Wende des Zeitalters (1925). \nM. BUBER: Nachlese (1965). \nTH. STEINBÜCHEL: Der Sozialismus als sittl. Idee (1921). \nM. TUGAN-BARANOWSKY: Der mod. Sozialismus (1908). \nJ. JAURÈS: Sozialist. Stud. (1974). \nVgl. F. RICHTER/V. WRONA: Neukantianismus und Sozialreformismus. Dtsch. Z. Philos. 22 (1974) 269–288. \nTH. MEYER: Bernsteins konstrukt. Sozialismus (1977). \nA. C. FRASER: Life and letters of G. Berkeley (Oxford 1871) 3, 87. \nG. SOLARI: L'idealismo sociale del Fichte. Rivista Filos. 33 (1942) 141–181.",
+ "l":"– H. VAIHINGER: Hartmann, Dühring und Lange (1876). – K. WIEDERHOLD: Neueste Versuche zur Begründung eines S. Diss. Köln (1922). – N. JEGELKA: P. Natorp (1992).",
+ "au":"N. Jegelka",
+ "A":["N. Jegelka"],
+ "cb":[[0,1159],[191,1159],[445,1159],[1169,1160],[1171,1160],[2274,1160]],
+ "cn":[
+  [0,1159],
+  [0,1160],
+  [46,1160],
+  [125,1160],
+  [229,1160],
+  [315,1160],
+  [375,1160],
+  [422,1160],
+  [453,1160],
+  [469,1160],
+  [480,1160],
+  [487,1160],
+  [532,1160],
+  [574,1160],
+  [612,1160],
+  [670,1160],
+  [719,1160],
+  [771,1160],
+  [799,1160],
+  [857,1160],
+  [908,1160],
+  [945,1160],
+  [1048,1160],
+  [1102,1160],
+  [1170,1160]
+ ],
+ "cl":[[0,1160]]
+}
+);

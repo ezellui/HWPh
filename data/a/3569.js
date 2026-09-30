@@ -1,0 +1,78 @@
+HWPH.put("a/3569",
+{
+ "id":3569,
+ "lemma":"Weltlauf",
+ "band":"12",
+ "kind":"article",
+ "col_from":491,
+ "col_to":493,
+ "pdf_from":49997,
+ "pdf_to":50003,
+ "authors":["H. Hühn"],
+ "n_notes":18,
+ "n_chars":7500,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Weltlauf (lat. cursus mundi; engl. course/way of the world; frz. cours/train du monde). Der deutsche Ausdruck ‹W.› ist seit dem 15. Jh. bezeugt. Das Kompositum wird durch Zusammenziehung des genitivischen Gefüges ‘Lauf der Weltʼ gebildet, das seit dem Frühneuhochdeutschen verbreitet ist <sup class=\"fn\" data-fn=\"0-1\">1</sup> und im 16. Jh. sprichwörtlich wird. Der Ordnungsbegriff differenziert sich allmählich aus den Konzepten des «cursus naturae» und der «series rerum» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. ‹W.› bezeichnet zunächst, wie noch I. KANT paraphrasiert, das, «was geschieht und wie gehandelt wird» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die gewöhnlichen Absichten menschlichen Handelns faßt M. LUTHER so zusammen: «Das ist der welt laufft: nach grosser narung und reichthumb trachten, land und leute unter sich bringen, gewalt und ehre haben und ynn lust und woltagen leben» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>In der Frühen Neuzeit gewinnt die Wendung ‘der Welt Laufʼ in der Vorstellung einer im Kreislauf <sup class=\"fn\" data-fn=\"0-5\">5</sup> geordneten Welt eine umfassende Bedeutung. Die Wendung artikuliert die Erfahrung, daß allen Dingen der <a class=\"xref\" href=\"#/a/3549\">Wechsel</a> <span class=\"sd\">→ (s.d.)</span> eigen ist <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Sie ist u.a. mit der bildlichen Vorstellung konnotiert, daß alles «wie in einer Art Strömung durch Fließen und Zurückfließen vergeht und wiederkehrt» («quodam fluxu refluxuque decedere atque accedere») <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die Druckgraphik der Zeit zeigt den Vollzug des Kreislaufs menschlicher Lebensverhältnisse («circulus vicissitudinis rerum humanarum»), etwa von Reichtum über Hochmut, Neid und Krieg zu Armut und Frieden, der wieder Reichtum entstehen läßt, und führt auf diese Weise ein kritisches Bild der menschlichen Gesellschaft vor Augen.</p>\n<p>Luther benutzt den Ausdruck «Lauf dieser Welt» auch zur Übersetzung von Eph. 2, 2: «Auch ihr waret tot in euren Übertretungen und Sünden, in welchen ihr vormals gewandelt seid nach dem Lauf dieser Welt» (κατὰ τὸν αἰῶνα τοῦ κόσμου; ‹Vulgata›: «secundum saeculum mundi huius»). Er bringt damit im Rückgriff auf die Paulinische Unterscheidung des gegenwärtigen und des zukünftigen <a class=\"xref\" href=\"#/a/69\">Aion</a> <span class=\"sd\">→ (s.d.)</span> den <i>theologischen</i> Sinn der hiesigen, zeitlichen Welt ein. Unter moraltheologischen Perspektiven wird der Begriff besonders im Kontext der Diskussion um die <a class=\"xref\" href=\"#/a/3500\">Vorsehung</a> <span class=\"sd\">→ (s.d.)</span> gebraucht, in welcher Gott als Lenker («gubernator») des W. gefaßt und über den <a class=\"xref\" href=\"#/a/736\">Endzweck</a> <span class=\"sd\">→ (s.d.)</span> des W. räsoniert wird <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Wichtige Impulse für die weitere philosophische Diskussion geben KANT und G. W. F. HEGEL. In der ‹Kritik der reinen Vernunft› diskutiert KANT, ob die «Weltbegebenheiten» allein durch die «Causalität nach Gesetzen der Natur abgeleitet» werden können oder ob «noch eine Causalität durch Freiheit zur Erklärung derselben notwendig» sei. Die «Causalität <span class=\"col\" data-col=\"492\"></span> des W.» bezeichnet «Zusammenhang und Ordnung der Weltbegebenheiten» nach Naturgesetzen ohne Wirkung der Freiheit <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Eine wirkmächtige Thematisierung erfährt der Begriff ‹W.› in G. W. F. HEGELS ‹Phänomenologie des Geistes›, und zwar im Kapitel ‹Die Tugend und der Weltlauff› <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Die unter Aufopferung der Individualität erlangte Allgemeinheit der Tugend sieht sich der Wirklichkeit des W. gegenüber, d.h., in Anknüpfung auch an TH. HOBBES, dem Egoismus und der «Bekämpfung aller gegen einander» als dem «Schein eines bleibenden Ganges» und «öffentlicher Ordnung». Es sind nach HEGEL in Wahrheit aber zwei Seiten desselben Verhältnisses von Individualität und allgemeinem Wesen, deshalb sei der Streit der Tugend als des Guten gegen den W. «Spiegelfechterey». Der W. siegt über die abstrakte Tugend und hebt damit den Gegensatz auf. Er siegt «über diese pomphafften Reden vom Besten der Menschheit, und der Unterdrückung derselben, von der Aufopferung fürs Gute, und dem Misbrauche der Gaben; – solcherley ideale Wesen und Zwecke sinken als leere Worte zusammen, welche das Herz erheben und die Vernunft leer lassen; erbauen, aber nichts aufbauen» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Vielbeachtet schließt H. LOTZE seine ‹Logik› mit Bezug auf Hegel. Er gibt der Hoffnung Ausdruck, daß «mit mehr Maß und Zurückhaltung, aber mit gleicher Begeisterung sich doch die deutsche Philosophie zu dem Versuche immer wiedererheben werde, den W. zu verstehen und ihn nicht blos zu berechnen» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Im Anschluß an Lotze charakterisiert W. DILTHEY die Intention der Philosophie der Geschichte durch den Anspruch, «zugleich mit dem Kausalzusammenhang auch den Sinn des geschichtlichen Verlaufs, d.h. seinen Wert und sein Ziel auszusprechen, sofern sie einen solchen neben dem Kausalzusammenhang anerkennt» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. W. WUNDT betont, nur «ein Geist, der den W. vorauszuschauen vermöchte, würde alles gleichzeitig unter dem Gesichtspunkt des Zwecks und der Kausalität erblicken» <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<p>Mit Blick auf die Realgeschichte wird nachidealistisch aber zunehmend Sinn und Zweck des W. fraglich <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Bereits F. W. J. SCHELLING veranlaßt der Lauf der menschlichen Geschichte zu der «letzten verzweiflungsvollen Frage: warum ist überhaupt etwas? warum ist nicht nichts?» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Erscheint im 20. Jh. auf der Erfahrungsbasis der Weltkriege Gesellschaft und Geschichte im ganzen als <a class=\"xref\" href=\"#/a/3383\">Verblendungszusammenhang</a> <span class=\"sd\">→ (s.d.)</span>, dann kann das individuelle Bewußtsein sich nicht mehr, wie Hegel es forderte, im W. wiederfinden. «Was irrational ist am Begriff des Weltgeistes, entlehnte er», so TH. W. ADORNO, «der Irrationalität des W.» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Als Ausflucht aus dem modernen Krisenbewußtsein bietet sich die «alte Moral des Kleinbürgers» an, wonach «die Welt am besten bestellt ist, wenn ein Jeder es für sich so weit wie möglich zu bringen sucht und sich im übrigen nicht um den W. kümmert» <sup class=\"fn\" data-fn=\"0-18\">18</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"492\"></span> Vgl. Art. ‹W.›. GRIMM 14/I, 1 (1955) 1624–1628.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. Art. ‹Cursus›, in: Thesaurus Linguae lat. 4 (1906–09) bes. 1536–1539, und in: Mittellat. Wb. II C, hg. Bayer. Akad. Wiss. (1999) bes. 2155f.; Art. <a class=\"xref\" href=\"#/a/2875\">→ Series</a>. Hist. Wb. Philos. 9 (1995) 688–697.</li>\n<li id=\"fn0-3\" value=\"3\">I. KANT: Die Met. der Sitten I (1797). Akad.-A. 6, 216; vgl. Art. ‹W.›, in: J. CH. ADELUNG: Grammat.-krit. Wb. der Hochdtsch. Mundart 4 (Wien 1811) 1483.</li>\n<li id=\"fn0-4\" value=\"4\">M. LUTHER: In Gen. declamat., c. 4 (1527). Weim. Ausg. (1883ff.) 24, 144f.; vgl. Von Kaufshandlung und Wucher (1524), a.O. 15, 302; Deutsch Catechismus (1529), a.O. 30/1, 140.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. Art. <a class=\"xref\" href=\"#/a/1688\">→ Kreislauftheorien</a>. Hist. Wb. Philos. 4 (1976) 1127–1129.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. TERENZ: Eun. 276.</li>\n<li id=\"fn0-7\" value=\"7\">ERASMUS VON ROTTERDAM: Adagia, Nr. 663 (1500). Op. omn. (Amsterdam u.a. 1998) II/2, 188ff.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. J. C. DANNHAUER: Catechismus-Milch oder Der Erklärung des christl. Catechismi ... Theil (Straßburg <sup>2</sup>1657) 1, 68; zur moralischen Teleologie: CH. A. CRUSIUS: Kurzer Begriff <span class=\"col\" data-col=\"493\"></span> der Moraltheologie ... (1772–73) 2, 1118.</li>\n<li id=\"fn0-9\" value=\"9\">I. KANT: KrV B 475; vgl. Art. <a class=\"xref\" href=\"#/a/3350\">→ Ursache/Wirkung III. 7.</a>. Hist. Wb. Philos. 11 (2001) 393f.; A. G. BAUMGARTEN: Metaphysica § 471 (Halle 1739, <sup>7</sup>1779) 160.</li>\n<li id=\"fn0-10\" value=\"10\">G. W. F. HEGEL: Phän. des Geistes (1807). Akad.-A. 9, 208–213; vgl. Glauben und Wissen ... (1802), a.O. 4, 407.</li>\n<li id=\"fn0-11\" value=\"11\">a.O. 207. 210. 212.</li>\n<li id=\"fn0-12\" value=\"12\">H. LOTZE: Logik (1874, <sup>2</sup>1880), hg. G. MISCH (1912) 608; zum Begriff vgl. auch: Mikrokosmos. Ideen zur Naturgesch. und Gesch. der Menschheit 2, 6. Buch (<sup>5</sup>1905) 345ff.; 3, 7. Buch, Kap. 3 (<sup>5</sup>1909) 70ff.</li>\n<li id=\"fn0-13\" value=\"13\">W. DILTHEY: Einl. in die Geisteswiss. (1883). Ges. Schr. 1 (1922) 96.</li>\n<li id=\"fn0-14\" value=\"14\">W. WUNDT: Logik I: Allg. Logik und Erkenntnistheorie (1880ff., <sup>3</sup>1906) 638.</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. zur Kritik an den Geschichtsphilosophien und -theologien auch: J. BURCKHARDT: Über das Studium der Gesch., Einl. [1868]. Krit. Ges.ausg. 10, hg. P. GANZ (Basel 2000) 134.</li>\n<li id=\"fn0-16\" value=\"16\">F. W. J. SCHELLING: Philos. der Offenbarung I, Einl., 1. Vorles. [1841ff.]. Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) II/3, 7; vgl. 14. Vorles., a.O. 305.</li>\n<li id=\"fn0-17\" value=\"17\">TH. W. ADORNO: Negat. Dialektik (1966) 299; vgl. Art. <a class=\"xref\" href=\"#/a/3566\">→ Weltgeist</a>.</li>\n<li id=\"fn0-18\" value=\"18\">F. ENGELS/K. MARX: Die dtsch. Ideologie [1845–46]. MEW 3, 366 (im Ms. gestrichen); vgl. Art. <a class=\"xref\" href=\"#/a/3580\">→ Weltverantwortung</a>.</li>\n</ol>",
+ "prev":{"id":3568,"lemma":"Weltgesellschaft","band":"12","col":486},
+ "next":{"id":3570,"lemma":"Weltlinie","band":"12","col":493},
+ "backlinks":[
+  {"id":3557,"lemma":"Welt","n":1},
+  {"id":3559,"lemma":"Weltalter; Zeitalter","n":1},
+  {"id":3677,"lemma":"Zeitalter, goldenes","n":1},
+  {"id":3706,"lemma":"Zufall","n":1},
+  {"id":3718,"lemma":"Zweck; Ziel","n":1}
+ ],
+ "outlinks":[
+  {"id":69,"lemma":"Aion","n":1},
+  {"id":736,"lemma":"Endzweck","n":1},
+  {"id":1688,"lemma":"Kreislauftheorien","n":1},
+  {"id":2875,"lemma":"Series","n":1},
+  {"id":3350,"lemma":"Ursache/Wirkung","n":1},
+  {"id":3383,"lemma":"Verblendung; Verblendungszusammenhang","n":1},
+  {"id":3500,"lemma":"Vorsehung","n":1},
+  {"id":3549,"lemma":"Wechsel","n":1},
+  {"id":3566,"lemma":"Weltgeist","n":1},
+  {"id":3580,"lemma":"Weltverantwortung","n":1}
+ ],
+ "register":[
+  {"term":"cursus mundi","qualifier":"","band":null,"col":null},
+  {"term":"Irrationalität","qualifier":"","band":"12","col":"492"},
+  {"term":"Kausalität, historische","qualifier":"","band":"12","col":"492"},
+  {"term":"Lauf der Welt","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":3,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":3,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":22,"name":"M. Luther","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":27,"name":"W. Wundt","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":26,"name":"Th. W. Adorno","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":31,"name":"W. Dilthey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":105,"name":"H. Lotze","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":30,"name":"Th. Hobbes","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":48,"name":"A. G. Baumgarten","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":45,"name":"F. Engels","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":150,"name":"Ch. A. Crusius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":267,"name":"Erasmus von Rotterdam","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":318,"name":"G. Misch","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":427,"name":"J. Ch. Adelung","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":325,"name":"J. Burckhardt","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2036,"name":"Terenz","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2975,"name":"J. C. Dannhauer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4720,"name":"P. Ganz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3239,"lemma":"Tugend","tf":4},
+  {"id":1424,"lemma":"Individuum, Individualität","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":2},
+  {"id":2233,"lemma":"Ordnung","tf":2},
+  {"id":946,"lemma":"Freiheit","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Weltlauf"}],
+ "reg_authors":[{"name":"Hühn Helmut","n":51}]
+}
+);

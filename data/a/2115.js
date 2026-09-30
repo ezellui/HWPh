@@ -1,0 +1,46 @@
+HWPH.put("a/2115",
+{
+ "id":2115,
+ "lemma":"Neufichteanismus",
+ "band":"6",
+ "kind":"article",
+ "col_from":731,
+ "col_to":732,
+ "pdf_from":22659,
+ "pdf_to":22661,
+ "authors":["B. Willms"],
+ "n_notes":7,
+ "n_chars":2857,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Neufichteanismus. Der N. ist weniger als philosophische Schule anzusprechen, als vielmehr in verschiedenen partiellen Fichte-Rezeptionen im 20. Jh. zu erkennen. So finden sich in den Theorien R. EUCKENS, H. MÜNSTERBERGS und H. RICKERTS mehr oder weniger ausdrücklich fichtesche Denkelemente aktualisiert. Die eigentliche Wirkung hatte erst der politische N. der ‹Ideen von 1914›, der, hauptsächlich ausgehend von Fichtes ‹Reden an die Deutsche Nation›, den politischen Hegemonieanspruch Deutschlands im Ersten Weltkrieg durch die Aktualisierung des fichteschen Menschheitsanspruchs der Nation philosophisch zu begründen suchte <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Gleichfalls dem N. zuzurechnen ist die pädagogische Bewegung, die in der Gründung der ‹Fichte-Gesellschaft› 1914 in Hamburg zum Ausdruck kam und die – anknüpfend an Fichtes Idee der Nationalerziehung – sich in der Volks- und Erwachsenenbildung Verdienste erwarb <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Von theologischer Seite knüpfte der junge F. GOGARTEN an fichteanisches Gedankengut an <sup class=\"fn\" data-fn=\"0-3\">3</sup>. In der Zwischenkriegszeit gibt es Anknüpfungen an Fichte bei A. GEHLEN <sup class=\"fn\" data-fn=\"0-4\">4</sup>, H. SCHELSKY <sup class=\"fn\" data-fn=\"0-5\">5</sup> und W. WEISCHEDEL <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Nach dem Zweiten Weltkrieg kündigt sich in dem Philosophieren R. LAUTHS und seines Kreises ein umfassender N. an, der Fichtes Denken von seinem Zentrum, der Wissenschaftslehre, her für die Gegenwart aktualisieren möchte <sup class=\"fn\" data-fn=\"0-7\">7</sup>. <span class=\"col\" data-col=\"732\"></span></p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">H. LÜBBE: Politische Philos. in Deutschland (1963 u.ö.). – B. WILLMS: Die totale Freiheit. Fichtes polit. Philos. (1966).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">H. FREYTAG, R. EUCKEN, A. HARPF und W. SCHLÜTER: Fichte unser Führer (1917).</li>\n<li id=\"fn0-2\" value=\"2\">Fichte-Ges. von 1914; «Nach Zusammenbruch und Niederlage gilt es, alle Deutschen zu sammeln ...»: Jungdeutsche Stimmen. Rundbriefe f. den Aufbau einer wahrhaften Volksgemeinschaft (1918).</li>\n<li id=\"fn0-3\" value=\"3\">F. GOGARTEN: Fichte als religiöser Denker (1914); Religion und Gesch. Zu J. G. Fichtes hundertjähr. Todestag, 29. 1. 1914. Mh. der Comenius-Ges. für Kultur- u. Geistesleben 23, NF 6 (1914) 1–10; Fichtes Religion. Die Tat 5 (1914) 1101–1118.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. bes. A. GEHLEN: Deutschtum und Christentum bei Fichte (1935), ND in: Ges.-A. 2 (1980) 215–293; Rede über Fichte. Z. ges. Staatswiss. 98 (1938) 209–218, ND a.O. 385–395; später: Über die Geburt der Freiheit aus der Entfremdung. Aren. Rechts- u. Sozialphilos. 40 (1952/53) 338–353; ND in: Studien zur Anthropol. und Soziol. (1962, <sup>2</sup>1971) 232–246.</li>\n<li id=\"fn0-5\" value=\"5\">H. SCHELSKY: Theorie der Gemeinschaft nach Fichtes ‘Naturrechtʼ von 1796. Neue dt. Forsch., Abt. Philos. 13 (1935).</li>\n<li id=\"fn0-6\" value=\"6\">W. WEISCHEDEL: Der Aufbruch der Freiheit zur Gemeinschaft. Studien zur Philos. des jungen Fichte (1939). <span class=\"col\" data-col=\"732\"></span></li>\n<li id=\"fn0-7\" value=\"7\">J. G. FICHTE, Akad.-A., hg. R. LAUTH/H. JACOB (1962ff.), auf 30 Bde. in 4 Abt. berechnet; R. LAUTH: Die Bedeutung der Fichteschen Philos. für die Gegenwart. Philos. Jb. 70 (1962/63) 252–270, ND in: Zur Idee der Transzendentalphilos. (1965) 43–71; J. G. Fichtes Gesamtidee der Philos. Philos. Jb. 71 (1963/64) 252–285, ND in: Zur Idee ... 73–123.</li>\n</ol>",
+ "prev":{"id":2114,"lemma":"Neu, das Neue","band":"6","col":726},
+ "next":{"id":2116,"lemma":"Neufriesianismus","band":"6","col":732},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Neuidealismus","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":341,"name":"H. Schelsky","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":347,"name":"R. Eucken","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":547,"name":"F. Gogarten","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":818,"name":"W. Weischedel","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12,"name":"J. G. Fichte","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":75,"name":"H. Rickert","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":778,"name":"H. Münsterberg","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4131,"name":"G. Schlüter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5969,"name":"H. Freytag","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":24677,"name":"A. Harpf","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":244,"name":"H. Lübbe","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1660,"name":"B. Willms","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":633,"name":"R. Lauth","b":1,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":1409,"name":"H. Jacob","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2070,"lemma":"Nation, Nationalismus, Nationalität","tf":2}],
+ "see_also":[],
+ "groups":[
+  {"id":33,"name":"Politische Theorie","label":"Neufichteanismus"},
+  {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Neufichteanismus"}
+ ],
+ "reg_authors":[{"name":"Willms Bernhard","n":3}]
+}
+);

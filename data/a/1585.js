@@ -1,0 +1,66 @@
+HWPH.put("a/1585",
+{
+ "id":1585,
+ "lemma":"Kollektivbewußtsein",
+ "band":"4",
+ "kind":"article",
+ "col_from":883,
+ "col_to":884,
+ "pdf_from":14130,
+ "pdf_to":14135,
+ "authors":["G. Mühle"],
+ "n_notes":10,
+ "n_chars":6506,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Kollektivbewußtsein. Der Begriff des K. weist Beziehungen zu philosophischen und geisteswissenschaftlichen Begriffen, wie ‹Bewußtsein überhaupt›, ‹Gesamtbewußtsein›, ‹Gesellschaftsbewußtsein›, ‹Gesamtgeist›, ‹Volksgeist› usw., auf, ist aber vorab den Bereichen der Soziologie und Psychologie zugehörig. Da letztlich jedoch die Bestimmung des K. eine Angelegenheit der Metaphysik ist, kann die soziologische und psychologische Fassung vom philosophischen Standpunkt her nur eine vor- oder beiläufige Kennzeichnung sein.</p>\n<p>Der Begriff ‹K.› ist seinem Wesen nach widersprüchlich und zweideutig, denn das Bewußtsein eines realen Subjekts kann kein K. und das K. kein Bewußtsein eines realen Subjekts sein. Hierüber setzt sich die extrem organologische Betrachtung hinweg, denn sie faßt K. als eine besondere Realität neben und über dem individuellen Bewußtsein <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Einen vermittelnden Standpunkt nimmt A. SCHÄFFLE ein, der zwar ein K. im substantiellen Sinne ablehnt und ausdrücklich auf biologisch-psychologische Analogien verzichten will, jedoch (hinsichtlich des «Volksgeistes») von einem System geistiger Energien und Spannkräfte spricht, «welches über alle aktiven Elemente des Volkskörpers verteilt, die Einzelnen zu einer geistigen Kollektivkraft vereinigt» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>Dieser energetische Bezug ist in der von J. F. HERBART bis W. WUNDT immer deutlicher betonten voluntaristischen Fundierung der Auffassung vom Sozialen ausgeprägt. Wundt spricht von der «Gesamtpersönlichkeit» der Gemeinschaft, bei der «Selbstbewußtsein und Wille nicht zu einer unmittelbaren Einheit verbunden, sondern auf zahlreiche individuelle Persönlichkeiten verteilt» seien und aus der sich der «Gesamtwille», der an Umfang und Macht dem Einzelwillen überlegen sei, extrahieren lasse. Ohne daß eine substantielle Einheit des Gesellschaftlichen postuliert werden müsse, erscheine doch dieser Gesamtwille als selbständiger Lebensinhalt und somit real. Ziel und Sinn der Ethik sei die Willensgemeinschaft der Menschheit als Grundlage der Entfaltung menschlicher Geisteskräfte zur Hervorbringung geistiger und kultureller Güter <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Diese geistigen Erzeugnisse seien «nicht allein aus den Eigenschaften des einzelnen Bewußtseins zu erklären, weil sie die Wechselwirkung vieler voraussetzen» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Eine die Eigenständigkeit des K. stärker betonende Auffassung findet sich in der französischen Soziologenschule um E. Durkheim. Diese geht auf A. COMTES Überzeugung zurück, der Einzelmensch sei im Grunde nur eine Abstraktion, wirklich hingegen die Menschheit, vor allem in geistiger und sittlicher Hinsicht <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Deshalb kommt E. DURKHEIM zu der vor <span class=\"col\" data-col=\"884\"></span> allem an primitiven Gesellschaften gewonnenen Unterscheidung des K. (conscience collective) vom individuellen Bewußtsein. Der Begriff ‹K.› ist seiner Meinung nach gerechtfertigt, weil «die Zustände, die es konstituieren, sich deutlich von jenen unterscheiden, die das Einzelbewußtsein formen». Aus den isoliert betrachteten leiblich-seelischen Bedingungen ergebe sich das Individualbewußtsein, aus der Verbindung einer Mehrzahl von Wesen dieser Art das K. Das soziale Leben lasse sich nur aus dieser Kombination erklären, durch die «eine psychische Individualität neuer Art» entstehe. «In der Natur dieser Individualität, nicht in zusammengefügten Einheiten» liege die bestimmende Ursache der sozialen Erscheinungen <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Wenn aber diese Synthese sui generis, welche jede Gesellschaft darstelle, neuartige Erscheinungen hervorbringe, dann müsse auch zugegeben werden, daß diese spezifischen Erscheinungen in der Gesellschaft selbst ihren Sitz haben und nicht in den Einzelnen. «Sie stehen also, für sich betrachtet, außerhalb des individuellen Bewußtseins» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Die Kritik an Durkheim richtet sich auf die Vermengung genetischer und logischer Bedingungen. Auch das Zusammenwirken vieler Einzelner könne nicht das Entstehen eines kategorial Neuen begründen. Vielmehr sei das individuelle Bewußtsein immer schon in das K. eingebunden, umgekehrt werde dieses durch das individuelle Bewußtsein als ein sich selbst Bestimmendes modifiziert. Auf die Frage nach der Realität findet sich die Antwort, daß das K. «real» sei, «wenn das unbewußte Streben das wollende Agens meiner Mitwelt, und wenn zugleich der unbewußte Wille der Gemeinschaft der Antrieb eigenen Strebens» sei <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Hier wird eine problematische Gleichsetzung von Wollen der Gemeinschaft und Streben des Einzelnen vorgenommen, worin sich die Gefahr der voluntaristischen Fassung verdeutlicht.</p>\n<p>Eine stark eingeschränkte Verwendung des Begriffs ‹K.› findet sich bei C. G. JUNG, der das Ichbewußtsein als abhängig von zwei Faktoren ansieht: «erstens von den Bedingungen des kollektiven, respektive sozialen Bewußtseins, und zweitens von den unbewußten kollektiven Dominanten, respektive Archetypen», die dem kollektiven Unbewußten zugehören. Die Inhalte des K. präsentieren sich als «allgemein anerkannte Wahrheiten» oder «vernünftige Allgemeinbegriffe, welche dem Durchschnittsverständnis keine Schwierigkeiten bereiten». Zwischen kollektivem Bewußtsein und kollektivem Unbewußten bestehe «ein beinahe unüberbrückbarer Gegensatz, in welchen sich das Subjekt hineingestellt sieht». Völlige Identifizierung mit den Meinungen und Tendenzen des K. bringe den «Massenmenschen» hervor <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Dem Begriff des K. kommt kaum noch eine entscheidende Bedeutung in der soziologischen oder psychologischen Theoriebildung zu; er hatte eine wichtige historische Funktion bei der Begründung der Soziologie ebenso wie bei der Ausweitung der zunächst auf das Individualbewußtsein eingeengten psychologischen Betrachtung. In neuerer Zeit vertritt jedoch noch R. B. CATTELL ähnliche Gedanken. Er spricht von «Syntalität» einer Gruppe und postuliert damit eine Art Gruppenpersönlichkeit <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"884\"></span> P. VON LILIENFELD: Zur Verteidigung der organischen Methode in der Soziol. (1898); O. F. VON GIERKE: Das Wesen der menschl. Verbände (1902).</li>\n<li id=\"fn0-2\" value=\"2\">A. SCHÄFFLE: Abriß der Soziol. (1906) 2; Bau und Leben des sozialen Körpers (1875) 420.</li>\n<li id=\"fn0-3\" value=\"3\">W. WUNDT: System der Philos. (1889) 606ff.</li>\n<li id=\"fn0-4\" value=\"4\">Ziele und Wege der Völkerpsychol. (1886), in: Elemente der Völkerpsychol. (<sup>2</sup>1921) 3.</li>\n<li id=\"fn0-5\" value=\"5\">A. COMTE: Cours de philos. positive 6 (<sup>3</sup>1869) 590.</li>\n<li id=\"fn0-6\" value=\"6\">E. DURKHEIM: Les règles de la méthode sociol. (1895, <sup>13</sup>1956) 103.</li>\n<li id=\"fn0-7\" value=\"7\">a.a.O. XVIf.</li>\n<li id=\"fn0-8\" value=\"8\">G. LEHMANN: Das K. (1928) 217. 223f.</li>\n<li id=\"fn0-9\" value=\"9\">C. G. JUNG: Theoret. Überlegungen zum Wesen des Psychischen (1946), in: Von den Wurzeln des Bewußtseins (1954) 583ff.</li>\n<li id=\"fn0-10\" value=\"10\">R. B. CATTELL: Concepts and methods in the measurement of group syntality, in: A. P. HARE/E. F. BORGATTA/R. F. BALES: Small groups (1965) 107–126.</li>\n</ol>",
+ "prev":{"id":1584,"lemma":"Kollektivbegriff","band":"4","col":882},
+ "next":{"id":1586,"lemma":"Kollektivismus, Kollektiv","band":"4","col":885},
+ "backlinks":[{"id":3620,"lemma":"Wille","n":1},{"id":3625,"lemma":"Wir","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Allgemeinbegriff","qualifier":"","band":"4","col":"884"},
+  {"term":"Gesamtwille","qualifier":"","band":"4","col":"883"},
+  {"term":"Menschheit","qualifier":"","band":"4","col":"883"},
+  {"term":"Unbewusstes, kollektives","qualifier":"","band":"4","col":"884"},
+  {"term":"Willensgemeinschaft","qualifier":"","band":"4","col":"883"}
+ ],
+ "persons":[
+  {"id":27,"name":"W. Wundt","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":138,"name":"A. Comte","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":168,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":218,"name":"E. Durkheim","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1034,"name":"R. B. Cattell","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1421,"name":"A. Schäffle","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":82,"name":"J. F. Herbart","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":461,"name":"G. Lehmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":234,"name":"R. M. Hare","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1227,"name":"O. von Gierke","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5600,"name":"R. F. Bales","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11468,"name":"E. F. Borgatta","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":11467,"name":"P. von Lilienfeld","b":0,"n":1,"l":0,"editor":0,"role":"source"}
+ ],
+ "mentions":[
+  {"id":3477,"lemma":"Volksgeist; Volksseele","tf":2},
+  {"id":3038,"lemma":"Streben","tf":3},
+  {"id":1048,"lemma":"Gemeinschaft","tf":3},
+  {"id":695,"lemma":"Einzelne","tf":3},
+  {"id":2960,"lemma":"Soziologie","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":3},
+  {"id":814,"lemma":"Erscheinung","tf":3},
+  {"id":3047,"lemma":"Subjekt","tf":3},
+  {"id":1913,"lemma":"Meinung, öffentliche","tf":2},
+  {"id":1925,"lemma":"Menschheit, Menschengeschlecht","tf":2},
+  {"id":2590,"lemma":"Realität/Idealität","tf":2},
+  {"id":1424,"lemma":"Individuum, Individualität","tf":2},
+  {"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":2}
+ ],
+ "see_also":[
+  {"id":1587,"lemma":"Kollektivseele"},
+  {"id":1588,"lemma":"Kollektivvorstellung"},
+  {"id":1880,"lemma":"Massenpsychologie"},
+  {"id":3477,"lemma":"Volksgeist; Volksseele"}
+ ],
+ "groups":[{"id":36,"name":"Psychologie","label":"Kollektivbewusstsein"}],
+ "reg_authors":[{"name":"Mühle Günther","n":9},{"name":"Rauscher Anton","n":2}]
+}
+);

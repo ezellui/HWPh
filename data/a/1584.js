@@ -1,0 +1,55 @@
+HWPH.put("a/1584",
+{
+ "id":1584,
+ "lemma":"Kollektivbegriff",
+ "band":"4",
+ "kind":"article",
+ "col_from":882,
+ "col_to":883,
+ "pdf_from":14126,
+ "pdf_to":14129,
+ "authors":["R. Haller"],
+ "n_notes":11,
+ "n_chars":3803,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Kollektivbegriff. Die Bildung des Terminus geht auf die grammatischen Theorien der <i>stoischen</i> Epoche zurück. Insbesondere DIONYSIUS THRAX, PRISCIAN und später BOETHIUS <sup class=\"fn\" data-fn=\"0-1\">1</sup> legen die aristotelisch-stoische Einteilung der Namen in individuelle oder Eigennamen und allgemeine oder Gattungsnamen fest und unterscheiden von diesen unter anderem ὀνόματα περιεκτικά bzw. περιλεπτικά (lat. nomina collectiva bzw. complexiva oder comprehensiva). So bestimmt Boethius: «Collectivum enim multorum in unam naturam species est et magis id quod genus est» (Ein K. ist nämlich ein Begriff vieler [Dinge] mit einer [gemeinsamen] Eigenschaft und eher ein Gattungsbegriff [als ein Eigenname]) <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Nach THOMAS VON AQUIN ist dabei zweierlei zu beachten, nämlich daß einerseits eine Mehrheit von Supposita vorliege und andererseits eine gewisse Einheit, nämlich die einer gewissen Ordnung <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Diese Unterscheidung, die auch auf stoische und neupythagoreische Spekulationen über verschiedene Arten von quantitativen Begriffen zurückgeht, wird jedenfalls bis ins 17. Jh. tradiert und später durch die Unterscheidung von generischen und spezifischen K. manifestiert <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die ersteren umfassen Aggregate einer Art, die erst durch die Angabe von zusätzlichen Prädikaten bestimmt werden, wie ‹Menge›, ‹Gruppe›, ‹Haufen› usw., sind also Relativnamen <i>von</i> bestimmten Individuen. Die letzteren bedeuten für sich eine einheitliche Zusammenfassung einer Gruppe von Individuen, wie Volk, Heer, Wald, die von Beginn an klassische Beispiele blieben. In der Lehre von der Supposition werden die kollektiven den distributiven Begriffen gegenübergestellt: Bei den ersteren steht der Terminus für eine einheitliche Gruppe und nicht für alle einzelnen Individuen. J. ST. MILL rechnet die Kollektivnamen zu den individuellen, d.h. zu den Eigennamen. Im Gegensatz zu den allgemeinen Namen kann ein kollektiver nicht von jedem einzelnen Element einer Menge, «sondern nur von allen zusammen ausgesagt werden» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. «Das 76. Regiment» ist z.B. ein Kollektivname: «obgleich er von einer Menge Soldaten zusammen genommen ausgesagt werden kann, so kann er doch nicht von den einzelnen prädiziert werden» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Eine Verwechslung der verschiedenen logischen Stufen solcher Begriffe führt, nach G. RYLE, zu <a class=\"xref\" href=\"#/a/1542\">‹Kategorienfehlern›</a> <span class=\"sd\">→ (s.d.)</span> <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Die Entscheidung, inwieweit K. sich auf Gesamtheiten von Individuen, Aggregate oder Ganzheiten diskreter oder auch unbestimmter Teile beziehen, hängt ebenso vom semantischen Apparat und Einteilungsprinzip des Systems ab wie die Lösung der Frage, ob sie durch individuelle oder generelle Terme ausgedrückt werden bzw. solche sind. Nach CH. SIGWART <span class=\"col\" data-col=\"883\"></span> etwa können sie sowohl zu den «Substanzbegriffen» wie zu den «Relationsbegriffen» gezählt werden <sup class=\"fn\" data-fn=\"0-8\">8</sup>, nach A. MEINONG handelt es sich gegenständlich entweder um «objektive Kollektive» oder, bei Gestalten, um Gegenstände höherer Ordnung von Komplexen und Relationen <sup class=\"fn\" data-fn=\"0-9\">9</sup>. TH. ZIEHEN faßt die K. als eine Unterklasse der Komplexionsbegriffe auf <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Nach W. v. O. QUINE hängt es von der Art der Prädikation ab, ob sie – wie die Stoffnamen – zu den singulären oder generellen Termen zu zählen sind <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Eine einheitliche Begriffsbildung und Einteilung der K. fehlt freilich in der neueren und neuesten logischen und philosophischen Literatur, in der sie häufig gar keine Erwähnung finden.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"883\"></span> DIONYSIUS THRAX, Gramm., hg. BEKKER/UHLIG 636, 14; 637, 13; PRISCIAN, Inst. gramm., hg. KEIL II 59, 23; 61, 21; BOETHIUS, In Porphyr. Isag. CSEL 37, 15f.</li>\n<li id=\"fn0-2\" value=\"2\">BOETHIUS, a.a.O. 228, 6.</li>\n<li id=\"fn0-3\" value=\"3\">THOMAS VON AQUIN, S. theol. I, 31, 1 ad 2.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. J. JUNGIUS, Logica Hamb.; I, 13, 13f.</li>\n<li id=\"fn0-5\" value=\"5\">J. ST. MILL: Logik 1, 2, § 3.</li>\n<li id=\"fn0-6\" value=\"6\">ebda.</li>\n<li id=\"fn0-7\" value=\"7\">G. RYLE: The concept of mind (1949) 16–20.</li>\n<li id=\"fn0-8\" value=\"8\">CH. SIGWART: Logik (<sup>5</sup>1924) 2, 266–269.</li>\n<li id=\"fn0-9\" value=\"9\">A. MEINONG, Ges. A. 2, 388.</li>\n<li id=\"fn0-10\" value=\"10\">TH. ZIEHEN: Lb. der Logik (1920) 474; vgl. 322.</li>\n<li id=\"fn0-11\" value=\"11\">W. v. O. QUINE: Word and object (1960) §§ 19. 20.</li>\n</ol>",
+ "prev":{"id":1583,"lemma":"Kokugaku","band":"4","col":881},
+ "next":{"id":1585,"lemma":"Kollektivbewußtsein","band":"4","col":883},
+ "backlinks":[],
+ "outlinks":[{"id":1542,"lemma":"Kategorienfehler","n":1}],
+ "register":[
+  {"term":"Aggregat","qualifier":"","band":"4","col":"882"},
+  {"term":"Begriff, distributiver","qualifier":"","band":"4","col":"882"},
+  {"term":"Begriff, kollektiver","qualifier":"","band":"4","col":"882"},
+  {"term":"Ganzheiten","qualifier":"","band":"4","col":"882"},
+  {"term":"nomina collectiva/complexiva/comprehensiva","qualifier":"","band":"4","col":"882"}
+ ],
+ "persons":[
+  {"id":25,"name":"Boethius","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":60,"name":"J. S. Mill","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":245,"name":"Ch. Sigwart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":276,"name":"Th. Ziehen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":243,"name":"A. Meinong","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":288,"name":"G. Ryle","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1045,"name":"Priscian","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1397,"name":"Dionysios Thrax","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1760,"name":"O. Quine","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":228,"name":"J. Jungius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1457,"name":"H. Keil","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2436,"name":"I. Bekker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2532,"name":"G. Uhlig","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":663,"lemma":"Eigenname","tf":3},
+  {"id":59,"lemma":"Aggregat","tf":2},
+  {"id":3150,"lemma":"Term","tf":2},
+  {"id":1199,"lemma":"Gruppe, soziale","tf":3},
+  {"id":2066,"lemma":"Name","tf":2},
+  {"id":2233,"lemma":"Ordnung","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Kollektivbegriff"}],
+ "reg_authors":[{"name":"Haller Rudolf","n":2}]
+}
+);

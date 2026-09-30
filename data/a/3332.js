@@ -1,0 +1,87 @@
+HWPH.put("a/3332",
+{
+ "id":3332,
+ "lemma":"Unverfügbarkeit",
+ "band":"11",
+ "kind":"article",
+ "col_from":334,
+ "col_to":336,
+ "pdf_from":45565,
+ "pdf_to":45571,
+ "authors":["H. Vorster"],
+ "n_notes":23,
+ "n_chars":8582,
+ "toc":[
+  ["p1","1. In diesem letzteren Sinn ist ‹U.› auch als Übersetzung der stoischen A",3],
+  ["p2","2. Dem deutschen Ausdruck ‹Verfügbarkeit› liegt der Rechtsbegriff ‹Verfüg",3],
+  ["p4","3. Unter Aufnahme von Aussagen der ‹Virginia Bill of Rights› von 1776 hat",3],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Unverfügbarkeit (frz. indisponibilité). Der Begriff ‹U.› ist in den dreißiger Jahren des 20. Jh. beim Theologen R. BULTMANN nachweisbar: «Die U. Gottes ist ... nicht eine zufällige, wie die U. eines unverfügbaren Seienden. Sondern sie ist zugleich die U. des Menschen über sich selbst» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Weder ‹U.› noch das Adjektiv ‹unverfügbar› waren im Deutschen vorher geläufig, und auch nur im Deutschen scheint sich der Gebrauch quasi-terminologisch eingebürgert zu haben, einmal im ethischen Sinn zur Bezeichnung dessen, ‘worüber wir nicht verfügen dürfenʼ, dann aber auch im weiteren Sinn allgemeiner Kontingenz hinsichtlich dessen, ‘worüber wir nicht verfügen könnenʼ.</p>\n<p id=\"p1\">1. In diesem letzteren Sinn ist ‹U.› auch als Übersetzung der stoischen Auffassung dessen, «was (nicht) in unserer Macht steht» (τὸ οὐκ ἐφ' ἡμῖν; «[non] in nostra potestate») <sup class=\"fn\" data-fn=\"0-2\">2</sup> gebräuchlich geworden <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Vor stoischem Hintergrundist mit ‹U.› der Sache nach der systematische Ort von Vorherbestimmung und <a class=\"xref\" href=\"#/a/2764\">Schicksal</a> <span class=\"sd\">→ (s.d.)</span> gemeint, im deutschen Ausdruck ist jedoch die Perspektive des vom Menschen Beherrschbaren eingenommen. Neben dem Bereich, in dem der Mensch Wirkungen auslösen kann, ist nach stoischer Auffassung der Bereich anzusetzen, in dem die Wirkungen von Ursachen «nicht in unserer Macht stehen» <sup class=\"fn\" data-fn=\"0-4\">4</sup>, d.h. unverfügbar sind.</p>\n<p id=\"p2\">2. Dem deutschen Ausdruck ‹Verfügbarkeit› liegt der Rechtsbegriff ‹Verfügen› im Sinne von ‘Gebietenʼ und ‘Herrschenʼ zugrunde <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Philosophisch bedeutsam und sprachlich einflußreich wurde ‹Verfügbarkeit› durch M. HEIDEGGERS Auffassung, wonach die abendländische Metaphysik das Seiende als Vorhandenes und Verfügbares aufgefaßt habe: «Das Seiende ... ist ... nur noch das Fertige, als solches für jedermann Verfügbare, das Vorhandene, darin keine Welt mehr weltet – vielmehr schaltet und waltet jetzt der Mensch mit dem Verfügbaren» <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Die Technik, die das Seiende durch Rechnen verfügbar und beherrschbar mache, deutet Heidegger als «vollendete Metaphysik»; demgegenüber deckt er ein ursprüngliches, nicht bemächtigendes Seinsverstehen auf <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Beeinflußt von Heideggers Philosophie hat R. BULTMANN theologisch gefolgert, daß dem Wirklichkeitsverständnis der verfügbaren Vorhandenheit ein existentiales Sichverstehen aus dem ‹Unverfügbaren› gegenüberzustellen sei. Nach dem NT solle nicht in der «Sphäre des Sichtbaren, des Vorhandenen, Verfügbaren, Meßbaren», sondern «aus dem Unsichtbaren, Unverfügbaren» gelebt werden <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Auch G. EBELING kann in solchen Zusammenhängen sagen, das «Menschsein» sei «als Personsein» nur dann respektiert, «wenn es als unerfahrbares, unverrechenbares, <span class=\"col\" data-col=\"335\"></span> unverfügbares Geheimnis respektiert wird» <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Der Terminus ‹U.› selber ist – neben vielfacher Verwendung von ‹verfügbar›, ‹Verfügbarkeit› und ‹unverfügbar› <sup class=\"fn\" data-fn=\"0-10\">10</sup> – von BULTMANN seit dem Jahre 1936 manchmal gebraucht worden <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Heute wird ‹U.› als Zentralbegriff angesehen, «in dem sich B.s Auffassung über das Reden von Gott, die menschliche Existenz und das neutestamentliche Kerygma zusammenfassen läßt» <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>In einer zu Heidegger und Bultmann gegenläufigen Weise verwendet G. MARCEL den Begriff ‹indisponibilité›: Ein «verfügbares Wesen» ist «dasjenige, welches fähig ist, ganz und gar mit mir zu sein», für ein «nicht-verfügbares Wesen» (sonst auch: unverfügbares) «bin ich ein Objekt» <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p id=\"p4\">3. Unter Aufnahme von Aussagen der ‹Virginia Bill of Rights› von 1776 <sup class=\"fn\" data-fn=\"0-14\">14</sup> hat das ‹Grundgesetz der Bundesrepublik Deutschland› die «Würde des Menschen» als «unantastbar» (Art. I, 1) und die «Freiheit der Person» als «unverletzlich» (Art. II, 1) bezeichnet <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Der von Heidegger mitbestimmte Jurist W. MAIHOFER <sup class=\"fn\" data-fn=\"0-16\">16</sup> interpretiert 1968 die in Art. I, 1 mit der dort geforderten «Unantastbarkeit der Menschenwürde» verbundene menschliche «Personalität» als «prinzipielle U. des Seins des Menschen für die anderen und damit zugleich die prinzipielle Verfügbarkeit des Seins des Menschen durch sich selbst» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Bei seinem Bemühen, «U.» als «das zentrale Kennzeichen einer jeglichen naturrechtlichen Rechtsbegründung» <sup class=\"fn\" data-fn=\"0-18\">18</sup> zu erweisen, spricht Maihofer 1972 auch von einer «U. des Anderen» <sup class=\"fn\" data-fn=\"0-19\">19</sup>. Seit etwa 1973 werden Bekräftigungen der Unantastbarkeit und Unverletzlichkeit des menschlichen Lebens und dessen Schutz in ethischen Debatten und Dokumenten mehr und mehr unter den Begriff der «U. des Lebens» <sup class=\"fn\" data-fn=\"0-20\">20</sup>, aber auch der «U. des Anderen» <sup class=\"fn\" data-fn=\"0-21\">21</sup> gebracht. Dies geschieht insbesondere dort, wo es sich um die Euthanasiethematik, den Schwangerschaftsabbruch und Probleme der Biotechnologie handelt. Zugleich wird ‹U.› aber auch zur Deutung religiöser Grundbezüge verwendet, wenn von «Offenbarung als Inbegriff der Widerfahrnisse ..., die in unserer Prozeß-Welt unverfügbar sind» <sup class=\"fn\" data-fn=\"0-22\">22</sup>, gesprochen oder «Religion» als «Kultur des lebensrichtigen Umgangs mit U.» bezeichnet wird <sup class=\"fn\" data-fn=\"0-23\">23</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"335\"></span> R. BULTMANN: Theol. Enzykl., (aus dem Nachlaß) hg. E. JÜNGEL (1984) 55; vgl. auch: 161–163; Der Mensch und seine Welt nach dem Urteil der Bibel (1957), in: Glauben und Verstehen 3 (1960, <sup>4</sup>1993) 157: «... die U. und ständige Zukünftigkeit Gottes»; vgl. 156; vgl. auch: Art. <a class=\"xref\" href=\"#/a/2135\">→ Nichtgegenständlichkeit Gottes</a>. Hist. Wb. Philos. 6 (1984) 803–805.</li>\n<li id=\"fn0-2\" value=\"2\">ZENON VON KITION: Frg. 177. SVF 1, 45, 5 u.ö.</li>\n<li id=\"fn0-3\" value=\"3\">H. KRÄMER: Integrat. Ethik (1992) 158–161. 190f.; M. FORSCHNER: Die stoische Ethik (<sup>2</sup>1995) 112.</li>\n<li id=\"fn0-4\" value=\"4\">a.O. [2].</li>\n<li id=\"fn0-5\" value=\"5\">GRIMM 12/I (1956) 358f.; H. TILCH (Hg.): Münch. Rechts-Lex. 3 (1987) 835; vgl. E. KAUFMANN/D. WERKMÜLLER (Hg.): Handwb. der dtsch. Rechtsgesch. 5 (1998) 719–721.</li>\n<li id=\"fn0-6\" value=\"6\">M. HEIDEGGER: Einf. in die Met. (1953). Ges.ausg. II/40 (1983) 67; vgl. auch zur Übers. von ἀρχή mit ‘Verfügungʼ: Grundbegriffe (Vorles. 1941) § 23. Ges.ausg. II/51 (1981) 107–117; vgl. Art. <a class=\"xref\" href=\"#/a/2812\">→ Seinsgeschichte</a>. Hist. Wb. Philos. 9 (1995) 258–261.</li>\n<li id=\"fn0-7\" value=\"7\">Überwindung der Met. X [1936–46], in: Vortr. und Aufs. (1954) 80f.; vgl. Art. <a class=\"xref\" href=\"#/a/3139\">→ Technik</a>. Hist. Wb. Philos. 10 (1998) 948; Art. <a class=\"xref\" href=\"#/a/2597\">→ Rechnen II.</a>, a.O. 8 (1992) 219f.</li>\n<li id=\"fn0-8\" value=\"8\">R. BULTMANN: NT und Mythologie (1941), ND, hg. E. JÜNGEL (<sup>3</sup>1988) 33; P. H. JØRGENSEN: Die Bedeut. des Subjekt-Objekt-Verhältn. für die Theol. (1967) 86–94; M. BOUTIN: Relationalität als Verstehensprinzip bei R. Bultmann (1974) 485–492.</li>\n<li id=\"fn0-9\" value=\"9\">G. EBELING: Theol. Erwäg. über das Gewissen, in: Wort und Glaube 1 (1960, <sup>3</sup>1967) 436; vgl. auch: W. HÄRLE: Dogmatik (1995) 96.</li>\n<li id=\"fn0-10\" value=\"10\">R. BULTMANN: Glauben und Verstehen 1 (1933, <sup>9</sup>1993) 33. 119. 122. 137. 145. 149; 2 (1952, <sup>6</sup>1993) 2f. 16; 3 (1960, <sup>4</sup>1993) 25. 42. 163. 210; 4 (1965, <sup>5</sup>1993) 120. 131. 171; Jesus (1926, NA 1983) 61; NT und Myth., a.O. [8] 23. <span class=\"col\" data-col=\"336\"></span> 32–38. 43. 47; Zum Problem der Entmythologisierung, in: H. W. BARTSCH (Hg.): Kerygma und Mythos 2 (1952) 183f. 194f.; Theol. des NT (1953, <sup>2</sup>1954) 192. 228. 239. 315. 331. 422; Gesch. und Eschatologie (1958) 122.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. a.O. [1].</li>\n<li id=\"fn0-12\" value=\"12\">Art. ‹Bultmann, Rudolf›, in: W. HÄRLE/H. WAGNER: Theologenlex. (<sup>2</sup>1994) 65.</li>\n<li id=\"fn0-13\" value=\"13\">G. MARCEL: Etre et avoir (Paris 1935) 100–105; dtsch.: Sein und Haben (1954), zit. nach: Werkauswahl 1, hg. P. GROTZER/S. FOELTZ (1992) 82; vgl. Metaphys. Tagebuch 1928–1933 (Auszüge aus ‹Sein und Haben›), a.O. 2 (1992) bes. 192–195; vgl. K. ROSENTHAL: Die Überwindung des Subjekt-Objektdenkens als philos. und theol. Problem (1970) 30–37.</li>\n<li id=\"fn0-14\" value=\"14\">Virginia Bill of Rights vom 12. 6. 1776, Sect. 3: «an indubitable, inalienable and indefeasible right»; vgl. insges.: H. DREIER (Hg.): Grundgesetz-Komm. 1 (1996) 131–133.</li>\n<li id=\"fn0-15\" value=\"15\">PH. KUNIG (Hg.): Grundgesetz-Komm. 1 (<sup>4</sup>1992) 95–97.</li>\n<li id=\"fn0-16\" value=\"16\">W. MAIHOFER: Recht und Sein (1954); G. SPRENGER: Über den Ort des Rechts in der Fundamentalontol. M. Heideggers, in: A. KAUFMANN u.a. (Hg.): Rechtsstaat und Menschenwürde. Festschr. W. Maihofer zum 70. Geb. (1988) 549–569.</li>\n<li id=\"fn0-17\" value=\"17\">Rechtsstaat und menschl. Würde (1968) 17.</li>\n<li id=\"fn0-18\" value=\"18\">W. HASSEMER: Unverfügbares im Strafprozeß, in: KAUFMANN u.a. (Hg.), a.O. [16] 183–204, 185.</li>\n<li id=\"fn0-19\" value=\"19\">W. MAIHOFER: Anthropol. der Koexistenz, in: A. HOLLERBACH u.a. (Hg.): Mensch und Recht. Festschr. E. Wolf zum 70. Geb. (1972) 174.</li>\n<li id=\"fn0-20\" value=\"20\">A. AUER: Die U. des Lebens und das Recht auf einen natürl. Tod, in: A. AUER u.a.: Zwischen Heilauftrag und Sterbehilfe (1977) 1–51; vgl. auch: U. EIBACH: Recht auf Leben – Recht auf Sterben (1974) 320: «Annahme des ‘Unverfügbarenʼ» als «Motivation zum Unterlassen»; H. VON SCHUBERT: Evang. Ethik und Biotechnologie (1991) 124: «U. menschl. Lebensrechtes».</li>\n<li id=\"fn0-21\" value=\"21\">Gott ist ein Freund des Lebens. Gemeinsame Erkl. des Rates der Evang. Kirche in Deutschland und der dtsch. Bischofskonf. (1989, <sup>3</sup>1990) 106f.</li>\n<li id=\"fn0-22\" value=\"22\">A. M. K. MÜLLER: Die präparierte Zeit (1972) 157; vgl. 417. 500.</li>\n<li id=\"fn0-23\" value=\"23\">H. LÜBBE: Was sein soll, was der Fall ist und die Philos. der Relig., in: B. ZIEMSKE u.a. (Hg.): Festschr. für M. Kriele (1997) 979–989, hier: 986; vgl. auch: Zivilrelig. und der ‘Kruzifix-Beschlußʼ des dtsch. BVfG, in: W. BRUGGER/S. HUSTER (Hg.): Der Streit um das Kreuz in der Schule (1998) 237–254, bes. 239.</li>\n</ol>",
+ "prev":{"id":3331,"lemma":"Unverborgenheit","band":"11","col":331},
+ "next":{"id":3333,"lemma":"Unverständlichkeit","band":"11","col":336},
+ "backlinks":[{"id":3414,"lemma":"Verkündigung; Verkünden","n":1},{"id":3604,"lemma":"Widerfahrnis","n":1}],
+ "outlinks":[
+  {"id":2135,"lemma":"Nichtgegenständlichkeit Gottes","n":1},
+  {"id":2597,"lemma":"Rechnen","n":1},
+  {"id":2764,"lemma":"Schicksal","n":1},
+  {"id":2812,"lemma":"Seinsgeschichte","n":1},
+  {"id":3139,"lemma":"Technik","n":1}
+ ],
+ "register":[
+  {"term":"Unverletzlichkeit","qualifier":"","band":"11","col":"335"},
+  {"term":"Verfügbarkeit","qualifier":"","band":null,"col":null},
+  {"term":"Vorhandenheit","qualifier":"","band":null,"col":null},
+  {"term":"ἐφ' ἡμ͂ιν","qualifier":"","band":"11","col":"334"}
+ ],
+ "persons":[
+  {"id":139,"name":"R. Bultmann","b":3,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":748,"name":"W. Maihofer","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":403,"name":"G. Ebeling","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":499,"name":"G. Marcel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1030,"name":"E. Jüngel","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":1821,"name":"W. Härle","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":4224,"name":"A. Auer","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":68,"name":"Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":257,"name":"Zenon von Kition","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":244,"name":"H. Lübbe","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":410,"name":"A. Müller","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":415,"name":"H. J. Krämer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":928,"name":"H. Wagner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":854,"name":"A. Kaufmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1616,"name":"E. Kaufmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1416,"name":"W. Brugger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3521,"name":"W. Hassemer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4470,"name":"H. W. Bartsch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4206,"name":"Kaufmann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6079,"name":"H. Dreier","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10183,"name":"H. Tilch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":9633,"name":"G. Sprenger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5692,"name":"A. Hollerbach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":13201,"name":"D. Werkmüller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10897,"name":"P. H. Jørgensen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12058,"name":"K. Rosenthal","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31767,"name":"M. Boutin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31769,"name":"S. Foeltz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31770,"name":"Ph. Kunig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31771,"name":"U. Eibach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31772,"name":"H. von Schubert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31773,"name":"B. Ziemske","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31774,"name":"S. Huster","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1449,"name":"M. Forschner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":31768,"name":"P. Grotzer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":137,"lemma":"Andere","tf":2},
+  {"id":1844,"lemma":"Macht","tf":2},
+  {"id":1944,"lemma":"Metaphysik","tf":2}
+ ],
+ "see_also":[],
+ "groups":[
+  {"id":10,"name":"Ethik und Moralphilosophie","label":"Unverfügbarkeit"},
+  {"id":44,"name":"Theologie","label":"Unverfügbarkeit"}
+ ],
+ "reg_authors":[{"name":"Red","n":242},{"name":"Vorster Hans","n":2}]
+}
+);

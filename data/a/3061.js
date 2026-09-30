@@ -1,0 +1,65 @@
+HWPH.put("a/3061",
+{
+ "id":3061,
+ "lemma":"Sub specie aeternitatis",
+ "band":"10",
+ "kind":"article",
+ "col_from":493,
+ "col_to":495,
+ "pdf_from":41033,
+ "pdf_to":41037,
+ "authors":["Th. Rehbock"],
+ "n_notes":9,
+ "n_chars":6493,
+ "toc":[["h6","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Sub specie aeternitatis. <span class=\"col\" data-col=\"494\"></span> Die Formel ‹s.s.ae.› wurde von B. SPINOZA geprägt und ist in der Philosophie zu einer stehenden Wendung geworden, die meist einen externen, absoluten (‘archimedischenʼ, quasi-göttlichen) Standpunkt der Erkenntnis bezeichnet, von dem aus die Welt als ein Ganzes, in ihrer Totalität begreifbar ist. Dahinter steht eine philosophische Konzeption der Erkenntnis, die mit den Lehren von der <a class=\"xref\" href=\"#/a/1635\">Kontemplation</a> <span class=\"sd\">→ (s.d.)</span>, der <a class=\"xref\" href=\"#/a/1905\">Meditation</a> <span class=\"sd\">→ (s.d.)</span>, der Anschauung <a class=\"xref\" href=\"#/a/162\">Gottes</a> <span class=\"sd\">→ (s.d.)</span> und der «visio beatifica dei» verwandt ist und deren Wurzeln in die antike, neuplatonische und jüdisch-christliche Philosophie, Metaphysik und Mystik zurückreichen. In ihr hat sich das Bild des Fluges der Seele in überirdische Regionen des Kosmos und des ‘Blickes von obenʼ begrifflich verfestigt, das sich in der Antike bei PLATON, LUKREZ und CICERO findet und auch in der Literatur seit der Antike verbreitet ist <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Die Dinge s.s.ae. zu betrachten bedeutet nach SPINOZA, sie in ihrer notwendigen und zeitlosen Wesenskonstitution zu begreifen, und zwar mittels der Vernunft («intellectus»), die eine vollständig adäquate Wesenserkenntnis («scientia intuitiva») des Einzeldinges durch klare und distinkte Ideen ermöglicht. Insofern Spinoza die Wesenskonstitution der Dinge mit dem Wesen Gottes gleichsetzt, begreift die Vernunft die Dinge «als in Gott enthalten und aus der Notwendigkeit der göttlichen Natur folgend» («in Deo contineri, &amp; ex naturae divinae necessitate consequi») <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Erkenntnis der Dinge s.s.ae. ist Erkenntnis Gottes im doppelten Sinne. Gott ist zugleich Objekt und Subjekt der Erkenntnis: In den Dingen wird Gott erkannt, und die Dinge werden ‘aus dem Blickwinkel Gottesʼ erkannt, so daß darin Gott sich selbst erkennt. Der menschliche Geist hat dadurch am Erkannten und somit an Gott und dessen Ewigkeit teil, indem «er in Gott ist und durch Gott begriffen wird» («se in Deo esse, &amp; per Deum concipi») <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Übereinstimmend mit dem Neuplatonismus und der mystischen Theologie des Mittelalters setzt Spinoza diese Erkenntnis mit der (intellektuellen) Liebe Gottes («amor Dei intellectualis») gleich, von der er sagt, sie sei «eben die Liebe Gottes, womit Gott sich selbst liebt, ... insofern er durch das Wesen des menschlichen Geistes, unter dem Gesichtspunkt der Ewigkeit betrachtet, ausgedrückt werden kann» («ipse Dei Amor, quo Deus se ipsum amat, ... quatenus per essentiam humanae Mentis, s.s.ae. consideratam, explicari potest») <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Die Erkenntnis s.s.ae. hat bei Spinoza ethische Bedeutung, indem das Individuum durch sie die Bedingtheit und das Wesen der eigenen Affekte erkennt, dadurch ihnen gegenüber unabhängig wird und sie durch den stärkeren Affekt des «Amor Dei intellectualis» überwindet. Darin besteht die Bedingung der moralischen Tugend und der Glückseligkeit («beatitudo»).</p>\n<p>Ausgehend von einer metaphysischen Deutung der Kantischen Transzendentalphilosophie begreift A. SCHOPENHAUER Spinozas Erkenntnis der Welt s.s.ae. als ästhetische Betrachtung, die im Einzelding intuitiv dessen wesenhafte (transzendentale) Konstitution – «ewige Form» oder «Idee» im Platonischen Sinne – anschaut <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die der Kunst verwandte philosophische Erkenntnis s.s.ae. läßt die Scheinhaftigkeit der Welt als Vorstellung und die Abhängigkeit der individuellen Erscheinungen vom Willen als Ursache allen Leidens durchschauen. Dadurch veranlaßt sie zur völligen Aufhebung des Willens und wird zur Grundlage der Schopenhauerschen Ethik des Mitleids.</p>\n<p>L. WITTGENSTEIN übernimmt die Wendung ‹s.s.ae.› von Schopenhauer und versteht sie fast gleichbedeutend. Er rückt sie aber noch mehr in die Nähe der Ethik und sieht darin das Bindeglied zwischen Ästhetik, Ethik, Logik und dem, was er «das Mystische» nennt. In der philosophischen Analyse der transzendentalen Wesensform von Sprache und Welt, im mystischen Staunen über die Einzigartigkeit und Existenz der Welt «als-begrenztes-Ganzes», in der künstlerischen Kontemplation des Einzeldinges «mit dem ganzen logischen Raum» sowie in der praktischen <span class=\"col\" data-col=\"495\"></span> Bejahung und Übereinstimmung des Willens mit der Faktizität der Welt zeigt sich dieselbe richtige Sicht der Welt und Einstellung zum Leben im Ganzen <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>In erkenntnistheoretischen Zusammenhängen wird die Wendung ‹s.s.ae.› häufig mehr oder weniger beiläufig verwendet für die vollkommen objektive Erkenntnis und wahre Abbildung der Dinge an <a class=\"xref\" href=\"#/a/604\">sich</a> <span class=\"sd\">→ (s.d.)</span> <sup class=\"fn\" data-fn=\"0-7\">7</sup>, aus dem externen Gesichtspunkt Gottes («God's Eye point of view») <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Unter dem Einfluß von Kants «Kopernikanischer Wende» wird ein solcher metaphysischer Realismus aufgrundder Einsicht in die sinnliche und begrifflich-kategoriale Perspektivität menschlicher Erkenntnis als eine dem Menschen unmögliche intellektuelle Anschauung abgelehnt <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">E. ZEMACH: Wittgenstein's philos. of the mystical. Review Metaphysics 18 (1964) 38–57. – W. SCHNEIDERS: S.s.ae. Spinozas absol. Standpunkt, in: Theoria cum Praxi. Zum Verhältnis von Theorie und Praxis im 17. und 18. Jh. Studia Leibn., Suppl. 20 (1981) 170–188. – P. HADOT s. Anm. [1]. – TH. RENTSCH: Der Augenblick des Schönen. Visio beatifica und Gesch. der ästhet. Idee, in: J. HERRMANN/A. MERTIN/E. VALTINK (Hg.): Die Gegenwart der Kunst. Ästhetische und religiöse Erfahrung heute (1998) 106–126. – E. V. THOMAS: Wittgensteinian perspectives (s.s.ae.). Religious Studies 31 (1995) 329–340.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"495\"></span> Zur Geschichte dieser metaphor. Vorstellungen in Philos. und Lit. mit Quellenangaben vgl. P. HADOT: Exercices spirit. et vie contemplat. (Paris 1981) Kap. 3/6; dtsch.: Philos. als Lebensform. Geistige Übungen in der Antike (1991) 123–135.</li>\n<li id=\"fn0-2\" value=\"2\">B. SPINOZA: Eth. V, prop. XXIX, schol.</li>\n<li id=\"fn0-3\" value=\"3\">Prop. XXX.</li>\n<li id=\"fn0-4\" value=\"4\">Prop. XXXVI; zum Streit um die Übersetzung von «s.s.ae.» als «unter dem Gesichtspunkt der Ewigkeit» oder als «unter einer Art der Ewigkeit» vgl. O. BAENSCH: Ewigkeit und Dauer bei Spinoza. Kantstud. 32 (1927) 72–74, Anm. 3; M. GUEROULT: Spinoza 2 (1974) 609–615; A. DONAGAN: Spinoza (New York u.a. 1988) 121, Anm. 18.</li>\n<li id=\"fn0-5\" value=\"5\">A. SCHOPENHAUER: Die Welt als Wille und Vorst. I/3, bes. § 34. Sämtl. Werke, hg. A. HÜBSCHER (1937–41, <sup>4</sup>1988) 1, 243–372, bes. 258.</li>\n<li id=\"fn0-6\" value=\"6\">L. WITTGENSTEIN: Tract. log.-philos. (1921) 6. 4–6. 45, bes. 6. 44f. Schr. 1 (1960) 82–84; Tagebücher 1914–1916, Eintr. vom 17. und 20. 10. 1916, a.O. 178f.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. z.B. TH. NAGEL: The view from nowhere (New York 1986) 88; dtsch.: Der Blick von Nirgendwo (1992) 153.</li>\n<li id=\"fn0-8\" value=\"8\">H. PUTNAM: Reason, truth and history (Cambridge 1981) 49; dtsch.: Vernunft, Wahrheit und Geschichte (1982) 75.</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 50; dtsch. 76; vgl. Art. <a class=\"xref\" href=\"#/a/163\">→ Anschauung, intellektuelle</a>. Hist. Wb. Philos. 1 (1971) 349–351.</li>\n</ol>",
+ "prev":{"id":3060,"lemma":"Subsistenz","band":"10","col":486},
+ "next":{"id":3062,"lemma":"Substanz; Substanz/Akzidens","band":"10","col":495},
+ "backlinks":[],
+ "outlinks":[
+  {"id":162,"lemma":"Anschauung Gottes","n":1},
+  {"id":163,"lemma":"Anschauung, intellektuelle","n":1},
+  {"id":604,"lemma":"Ding an sich","n":1},
+  {"id":1635,"lemma":"Kontemplation","n":1},
+  {"id":1905,"lemma":"Meditation","n":1}
+ ],
+ "register":[
+  {"term":"amor Dei intellectualis","qualifier":"","band":"10","col":"494"},
+  {"term":"god's-eye view","qualifier":"","band":"10","col":"494"}
+ ],
+ "persons":[
+  {"id":50,"name":"B. Spinoza","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":32,"name":"L. Wittgenstein","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":241,"name":"Lukrez","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":493,"name":"H. Putnam","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1483,"name":"M. Gueroult","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1187,"name":"Th. Nagel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16659,"name":"A. Donagan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5,"name":"Thomas von Aquin","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":107,"name":"W. Schneider","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":669,"name":"Th. Herrmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1892,"name":"Th. Rentsch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":15743,"name":"E. Zemach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":30173,"name":"A. Mertin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":30174,"name":"E. Valtink","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":299,"name":"P. Hadot","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":85,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4017,"name":"O. Baensch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":854,"lemma":"Ewigkeit","tf":2},
+  {"id":835,"lemma":"Ethik","tf":3},
+  {"id":53,"lemma":"Affekt","tf":2},
+  {"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":3},
+  {"id":1795,"lemma":"Liebe","tf":2},
+  {"id":161,"lemma":"Anschauung","tf":2},
+  {"id":182,"lemma":"Antike","tf":2}
+ ],
+ "see_also":[{"id":163,"lemma":"Anschauung, intellektuelle"},{"id":3468,"lemma":"Visio"}],
+ "groups":[{"id":45,"name":"Topoi und Metaphern","label":"Sub specie aeternitatis"}],
+ "reg_authors":[{"name":"Rehbock Theda","n":6}]
+}
+);

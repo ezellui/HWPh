@@ -1,0 +1,35 @@
+HWPH.put("a/3230",
+{
+ "id":3230,
+ "lemma":"Trimurti",
+ "band":"10",
+ "kind":"article",
+ "col_from":1492,
+ "col_to":1492,
+ "pdf_from":44123,
+ "pdf_to":44124,
+ "authors":["L. Schmithausen"],
+ "n_notes":4,
+ "n_chars":1441,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Trimurti ist die im Hinduismus verbreitete Zusammenordnung der drei Götter Brahman, Viṣṇu und Śiva zu einer Art Funktionseinheit, wobei Brahman die Schöpfung, Viṣṇu die Erhaltung und Śiva die Zerstörung zugeordnet wird <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>G. W. F. HEGEL sieht in T. zwar einen Ansatz, der über die «Abstraktheit» des Einen hinauszuführen scheine, aber ohne grundsätzlich weiterreichende Wirkung geblieben sei <sup class=\"fn\" data-fn=\"0-2\">2</sup>, während T. für F. W. J. SCHELLING als «die indische Trias» Ausdruck einer nicht zu wahrem Monotheismus vorstoßenden Spannung zwischen drei Prinzipien oder Kräften ist <sup class=\"fn\" data-fn=\"0-3\">3</sup>. A. SCHOPENHAUER hat T. im Sinne seiner Philosophie als den Willen zum Leben gedeutet, «der sowohl in diesem Selbsttödten (Schiwa), als im Wohlbehagen der Selbsterhaltung (Wischnu) und in der Wollust der Zeugung (Brahma)» erscheine <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Mallinātha zu Kumārasambhava II, 4.</li>\n<li id=\"fn0-2\" value=\"2\">G. W. F. HEGEL: Vorles. über die Philos. der Relig., Bestimmte Relig. (1824). Vorles. 4, hg. W. JAESCHKE (1985) 230 (‹Die Relig. der Phantasie›); vgl. Bestimmte Relig. (1827), a.O. 483. 488 (‹Die Religion des Insichseins›); Auszüge aus der Vorles. 1831, a.O. 621f.; vgl. W. HALBFASS: Indien und Europa (1981) 109ff.</li>\n<li id=\"fn0-3\" value=\"3\">F. W. J. SCHELLING: Philos. der Mythologie. Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) II/2, 441ff. 444. 446. 472; vgl. W. HALBFASS: India and Europe (1988) 103.</li>\n<li id=\"fn0-4\" value=\"4\">A. SCHOPENHAUER: Die Welt als Wille und Vorst. 1, IV, § 69 (1819/44). Sämtl. Werke, hg. A. HÜBSCHER (1937–41, <sup>4</sup>1988) 2, 472.</li>\n</ol>",
+ "prev":{"id":3229,"lemma":"Trieb","band":"10","col":1483},
+ "next":{"id":3231,"lemma":"Trinität","band":"10","col":1492},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":945,"name":"W. Halbfass","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":85,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":616,"name":"W. Jaeschke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":453,"lemma":"Brahman","tf":2}],
+ "see_also":[],
+ "groups":[{"id":15,"name":"Indische Philosophie","label":"Trimurti"}],
+ "reg_authors":[{"name":"Schmithausen Lambert","n":17}]
+}
+);

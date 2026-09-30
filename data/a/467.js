@@ -1,0 +1,27 @@
+HWPH.put("a/467",
+{
+ "id":467,
+ "lemma":"Causa deficiens",
+ "band":"1",
+ "kind":"article",
+ "col_from":973,
+ "col_to":973,
+ "pdf_from":3369,
+ "pdf_to":3369,
+ "authors":["R. Specht"],
+ "n_notes":0,
+ "n_chars":512,
+ "toc":[],
+ "html":"<p>Causa deficiens, Gegenteil von C. <i>sufficiens</i>, ist Bestimmung der C. <i>efficiens.</i> Diese kann einer intendierten Wirkung an sich fähig, aber durch ungünstige ‹circumstantiae› behindert, oder dieser Wirkung an sich unfähig sein (z.B. die Eltern des Fortpflanzens der Seele). Ist die Wirkung aber von der Naturordnung vorgesehen, setzt sie nach der scholastischen Physik supplierend eine höhere Ursache, notfalls die C. prima: eine Näherung an Bedeutungen von <i>occasio.</i> Die C. d. ist grundlegend für die Lehre vom Übel.</p>",
+ "prev":{"id":466,"lemma":"Causa cognoscendi","band":"1","col":973},
+ "next":{"id":468,"lemma":"Causa efficiens","band":"1","col":973},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Übel","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":468,"lemma":"Causa efficiens"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Causa deficiens"}],
+ "reg_authors":[{"name":"Specht Rainer","n":32}]
+}
+);

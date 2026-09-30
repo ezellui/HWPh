@@ -1,0 +1,46 @@
+HWPH.put("a/1808",
+{
+ "id":1808,
+ "lemma":"Logik, hermeneutische",
+ "band":"5",
+ "kind":"article",
+ "col_from":413,
+ "col_to":414,
+ "pdf_from":17245,
+ "pdf_to":17249,
+ "authors":["R. Wiehl"],
+ "n_notes":14,
+ "n_chars":5631,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Logik, hermeneutische. Idee und Begriff der h.L. gehen auf G. MISCH zurück, der an Diltheys hermeneutische Grundlegung der Geisteswissenschaften anknüpft <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Diese L. sollte weder eine spezielle Disziplin der L. noch eine universale Methodenlehre der Hermeneutik sein, sondern eine philosophische Theorie des Wissens, welche die hermeneutische Dimension der logischen Phänomene beobachtet und beschreibt. Als Theorie der Fundierung des menschlichen Wissens ist die h.L. der transzendentalen L. Kants verwandt <sup class=\"fn\" data-fn=\"0-2\">2</sup>, ungeachtet ihrer kritischen Distanz zu dieser. Sie teilt mit ihr die Aufgabe einer Überwindung des Irrationalismus und Skeptizismus <sup class=\"fn\" data-fn=\"0-3\">3</sup>, allerdings unter veränderten wissenschaftsgeschichtlichen Voraussetzungen. Das Problem, von dem die h.L. ausgeht, ist die Krise der modernen Wissenschaftsidee, welche zu Ende des 19. Jh. besonders durch die schroffe Entgegensetzung von Natur- und Geisteswissenschaften manifest wird <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die h.L. sucht eine Neuorientierung im philosophischen Wissen durch Erinnerung an den Logos-Begriff der antiken griechischen Philosophie <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Diesem entnimmt sie die Einsicht in die fundamentale Zusammengehörigkeit von Sprache und Denken, die ihr gleichsam zu einem Axiom wird, das sich als kritische Instanz gegen die neuzeitliche formale, transzendentale und <span class=\"col\" data-col=\"414\"></span> spekulative L. wenden läßt. Gemeinsam ist diesen L.en die Abstraktion, welche das reine Denken frei von den Bindungen an eine natürliche Sprache betrachtet. Die Normen wissenschaftlicher Objektivierbarkeit und Exaktheit unterliegen wie die Wissenschaftssprachen, auf die sie sich beziehen, dem geschichtlichen Wandel; L. ist auch in den natürlichen (Umgangs-)Sprachen gegeben und reicht bis in die Schicht des elementaren leibgebundenen Verstehens, das als «werktätiges Wissen in der Lebensverbundenheit» dem gegenständlichen Wissen und damit jedem theoretisch-wissenschaftlichen Bezug vorausliegt <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Deswegen ist jede menschliche Lebensäußerung ein möglicher Gegenstand der h.L. Diese sucht «das Logische» im Sinngeschehen der menschlichen Lebenspraxis, in der alltäglichen vorwissenschaftlichen Kommunikation; sie verfolgt die «natürliche Begriffsbildung», wie sie sich in jedem Sprachgeschehen entfaltet <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Für G. Misch ist h.L. die von Dilthey nur skizzenhaft angedeutete Kategorienlehre des Lebens <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Solche Lebenskategorien sind: Wirkungszusammenhang und Kraft, Ausdruck und Bedeutung, Wert und Zweck, Selbstsein und Geschehen. Die psychische Struktur des Lebens ist eine solche sui generis, sie verlangt einen grundsätzlich anderen Gebrauch der Kategorien verglichen mit deren Funktion der gegenständlichen Objektivierung. Leben ist ein Geschehen der Selbstauslegung, eine Komplementarität von Unbestimmtheit und Bestimmtheit <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Die Auslegung des verstehenden Erlebens erfordert eine analoge Komplementarität von evozierender und diskursiver Rede <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Misch unterscheidet zwischen der Komplementarität («Polarität») im hermeneutischen Lebensvollzug und der von Heidegger in ‹Sein und Zeit› explizierten hermeneutischen Zweideutigkeit menschlicher Rede. Heideggers Fundamentalontologie formalisiert für Misch die Haltung einer geschichtlichen Generation zu einem universalen Konzept, anstatt die Bedingungen für das Verstehen der konkreten historischen Individualität im Sinne einer ‘Kritik der historischen Vernunftʼ zu entwickeln. Der appellative Zug in ihren Beschreibungen und die Abwertung der apophantischen Aussage verführe zu einer einseitigen Betrachtung des menschlichen Daseins <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Anknüpfend an Diltheys Lebensphilosophie geht es auch J. KÖNIG nicht um die Abwertung der Diskursivität, sondern um den Aufweis elementarer Schichten des Ausdrucksgeschehens, welche sinngebend in die sprachliche Prädikation hineinwirken. Dies wird an der Differenz zwischen modifizierenden und determinierenden Prädikaten demonstriert <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Eine ganz andere Richtung nimmt die h.L. bei H. LIPPS. Die menschliche Rede (λόγος) wird hier wie bei Heidegger als Existential aufgefaßt; sie «ist» nicht Medium oder Bedingung der Möglichkeit objektiver Gegenstandserkenntnis, sondern aller Unterscheidung von Theorie und Praxis zuvor: Erschließung der vorgefundenen Situation und die immer schon vorgängige Erschlossenheit des In-der-Welt-Seins des menschlichen Daseins. Kennzeichnend für diese «lebensweltliche» Orientierung der h.L. ist die Auslegung der L. des Schlusses als L. der Entscheidung <sup class=\"fn\" data-fn=\"0-13\">13</sup>. – Dagegen kann H.- G. GADAMERS philosophische Hermeneutik als kritischer Ausgleich zwischen Dilthey und Heidegger als h.L. im weitesten Sinne bezeichnet werden. Ansatzpunkte dazu finden sich im Prinzip der Wirkungsgeschichte, in der L. von Frage und Antwort sowie im Begriff des Sprachspiels. Diese universale Theorie der Hermeneutik berührt sich mit Wittgensteins (Philosophischen Untersuchungen) in der heuristischen Maxime der Zusammengehörigkeit von Lebensform und Sprachgeschehen <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"414\"></span> G. MISCH: Lebensphilos. und Phänomenol. (1930, zit. <sup>3</sup>1967) 53ff.; A. der Vorles. Mischs unter dem Titel ‹Logik und Einl. in die Theorie des Wissens›, hg. F. RODI (in Vorbereitung).</li>\n<li id=\"fn0-2\" value=\"2\">R. WIEHL: Vernunft als Kanon, Organon und Kathartikon des allg. Verstandes, in: Subjektivität und Met. Festschr. W. Cramer (1966) 353.</li>\n<li id=\"fn0-3\" value=\"3\">O. F. BOLLNOW: Zum Begriff der h.L., in: Argumentationen. Festschr. F. König (1964) 20.</li>\n<li id=\"fn0-4\" value=\"4\">MISCH, a.O. [1] 33.</li>\n<li id=\"fn0-5\" value=\"5\">a.O. 51; vgl. H.-G. GADAMER: Wahrheit und Methode (<sup>2</sup>1965) 383ff.</li>\n<li id=\"fn0-6\" value=\"6\">MISCH, Vorles. a.O. [1] Teil II, Kap. 4.</li>\n<li id=\"fn0-7\" value=\"7\">GADAMER, a.O. 404.</li>\n<li id=\"fn0-8\" value=\"8\">MISCH, Lebensphilos. a.O. [1].</li>\n<li id=\"fn0-9\" value=\"9\">a.O. 86.</li>\n<li id=\"fn0-10\" value=\"10\">94.</li>\n<li id=\"fn0-11\" value=\"11\">58f.</li>\n<li id=\"fn0-12\" value=\"12\">J. KÖNIG: Sein und Denken (1937) §§ 1–12.</li>\n<li id=\"fn0-13\" value=\"13\">H. LIPPS: Untersuch. zu einer h.L. (1938, <sup>2</sup>1959) 38f.</li>\n<li id=\"fn0-14\" value=\"14\">H.-G. GADAMER: Die phänomenol. Bewegung, in: Kl. Schr. 3 (1972) 184–189.</li>\n</ol>",
+ "prev":{"id":1807,"lemma":"Logik des Gefühls","band":"5","col":411},
+ "next":{"id":1809,"lemma":"Logik des Herzens","band":"5","col":415},
+ "backlinks":[{"id":2353,"lemma":"Philosophie","n":1},{"id":3355,"lemma":"Urteil","n":1}],
+ "outlinks":[],
+ "register":[{"term":"hermeneutische Logik","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":318,"name":"G. Misch","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},
+  {"id":71,"name":"H.-G. Gadamer","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":1404,"name":"J. F. König","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1635,"name":"H. Lipps","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":231,"name":"O. F. Bollnow","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2217,"name":"R. Wiehl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1221,"name":"F. Rodi","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1599,"lemma":"Komplementarität","tf":3},
+  {"id":1255,"lemma":"Hermeneutik","tf":3},
+  {"id":3634,"lemma":"Wissen","tf":5},
+  {"id":1036,"lemma":"Geisteswissenschaften","tf":2},
+  {"id":2761,"lemma":"Schicht, soziale","tf":2},
+  {"id":3438,"lemma":"Verstehen","tf":2},
+  {"id":305,"lemma":"Auslegung","tf":2},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":3},
+  {"id":527,"lemma":"Dasein","tf":2},
+  {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2}
+ ],
+ "see_also":[{"id":1255,"lemma":"Hermeneutik"},{"id":1745,"lemma":"Lebenskategorien"}],
+ "groups":[{"id":14,"name":"Hermeneutik","label":"Logik, hermeneutische"}],
+ "reg_authors":[{"name":"Wiehl Reiner","n":2}]
+}
+);

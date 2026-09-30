@@ -1,0 +1,27 @@
+HWPH.put("a/1641",
+{
+ "id":1641,
+ "lemma":"Kontradiktion",
+ "band":"4",
+ "kind":"article",
+ "col_from":1062,
+ "col_to":1062,
+ "pdf_from":14695,
+ "pdf_to":14695,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":229,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Kontradiktion heißt im Anschluß an WITTGENSTEIN <sup class=\"fn\" data-fn=\"0-1\">1</sup> ein Satz (eine Aussage), der (die) aus logischen Gründen falsch ist. Außerdem wird ‹K.› synonym mit <a class=\"xref\" href=\"#/a/3607\">‹Widerspruch›</a> <span class=\"sd\">→ (s.d.)</span> verwendet.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">L. WITTGENSTEIN, Tractatus logico-philos. 4. 46ff.</li>\n</ol>",
+ "prev":{"id":1640,"lemma":"Kontinuum, Kontinuität","band":"4","col":1044},
+ "next":{"id":1642,"lemma":"Kontradiktorisch","band":"4","col":1063},
+ "backlinks":[{"id":3322,"lemma":"Unsinn; Widersinn","n":1}],
+ "outlinks":[{"id":3607,"lemma":"Widerspruch","n":1}],
+ "register":[],
+ "persons":[{"id":32,"name":"L. Wittgenstein","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":3607,"lemma":"Widerspruch"}],
+ "groups":[{"id":22,"name":"Logik","label":"Kontradiktion (Wittgenstein)"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

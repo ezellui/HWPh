@@ -1,0 +1,35 @@
+HWPH.put("a/1533",
+{
+ "id":1533,
+ "lemma":"Kaste",
+ "band":"4",
+ "kind":"article",
+ "col_from":701,
+ "col_to":703,
+ "pdf_from":13572,
+ "pdf_to":13575,
+ "authors":["W. E. Mühlmann"],
+ "n_notes":3,
+ "n_chars":4449,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Kaste nennt man ein aus Familien gruppiertes endogames Generationsgebilde, das, in sich ideell isoliert, eine bestimmte Lebensform stilmäßig kultiviert und mehr oder weniger scharfe Tabu-Distanzen gegen andere K. <span class=\"col\" data-col=\"702\"></span> einhält. Das äußere Kennzeichen dieser Abriegelung ist ideologisch betonte Verweigerung von Konnubium und Kommensalität mit anderen K., die Seelenhaltung in Extremfällen neuropathisch gespannte Berührungsfurcht und Fernhaltung der «Anderen» von der eigenen Sphäre. Das institutionelle System, in das die K. sich einbetten, ist eine hierarchische Ordnung, von oben nach unten gestuft in sozial «besser», «schlechter» und «ganz schlecht», am ausgeprägtesten im <i>hinduistischen Indien</i> mit der Stufung in Brahmanen, Kshatriyas, Vaishyas und Shudras. Jedoch bezeichnen diese Namen keine soziologisch realen K., sondern nur den sozialen Ranganspruch (Status) innerhalb des hierarchischen Systems, der von den – sozial allein realen – Unter-K. (gotra) eingenommen, oft auch bloß usurpiert, demgemäß von der höheren Unter-K. bestritten wird. Ausgewogen ist das System also nicht. Die dem K.-Denken zugrunde liegende Ritualisierung der Tätigkeiten knüpft an die familiäre Arbeitsspezialisierung an, die wir ethnologisch weit verbreitet finden und die unter Umständen bestimmte Künste und Fertigkeiten monopolistisch bestimmten Familien oder Sippen vorbehält, sozusagen als deren «geistiges Eigentum». Dagegen ist die wertmäßige <i>Stufung</i> der Tätigkeiten eine Eigentümlichkeit des durchgebildeten K.-Systems, mit der unvermeidlichen Konsequenz der sozialen Diskriminierung bestimmter Berufsarten, bis zur äußersten Verachtung und Perhorreszierung von deren Trägern. Diese Verhältnisse finden sich am ausgeprägtesten im hinduistischen Indien, wo bestimmte Beschäftigungen, wie das Abdecken der Tiere, Straßen- und Abortreinigen, doch vielfach auch die Künste der Kesselflicker, Gaukler, Tänzer und Schausteller den «Unberührbaren» vorbehalten sind (Pariaberufe).</p>\n<p>Das Wort ‹K.›, das aus dem Portugiesischen stammt und zuerst an den sozialen Verhältnissen der Malabar-küste abgelesen wurde, hat in Deutschland seit dem letzten Drittel des 18. Jh. Anwendung gefunden, zuerst anscheinend durch C. M. WIELAND <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Erst später werden Ausdrücke wie ‹K.-Geist›, ‹K.-Ungeist› und ‹K.-Stolz› verwandt, um im Sinne der Emanzipation des Bürgertums antiquierte Einstellungen der ständischen Gesellschaft zu disqualifizieren.</p>\n<p>M. WEBER versteht unter dem Begriff der K. ein Extrem des soziologischen Begriffs des Standes und hat ihre hinduistische Ausprägung gleichsam als seine idealtypische Steigerung aufgefaßt, indem hier die Sozialdistanz zusätzlich eine «rituelle Garantie» erhalte <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Sie ist von hier aus unserem modernen Verständnis am nächsten zu bringen; aber nur historisch, nicht als Lebensform, da das Höher- oder Niedrigerstehen als ein geburtsmäßig gegebenes Sein, also als ontologisch gegeben, uns nicht mehr ohne weiteres nachvollziehbar ist. Wie tief diese ontologische Auffassung verwurzelt sein kann, zeigen die vergeblichen legislativen Bemühungen in Indien, das Los der «Unberührbaren» zu verbessern. Ein wichtiges Merkmal der Parialage ist nach M. Weber die «Paria-Ethik» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Hierunter versteht er die ethische Verklärung der Verhaltensformen, die den Gruppen in Parialage im Verkehr mit anderen K. diktiert sind: das Gehen des «unteren Weges», das geduldige Ausharren, die Anempfehlung des passiven Widerstandes usw. Im frühen Christentum sind diese Haltungen ins Positive gewendet, ihrer sozialen Ausgangsbasis enthoben und universal geworden.</p>\n<p>Die K.-Systeme außerhalb Indiens – im Vorderen Orient, im Sudan, im alten Japan, in Polynesien – zeigen diese Merkmale nur abgeschwächt. Dagegen ist die Rassenschranke in den Südstaaten der USA soziologisch korrekt mit den einschlägigen Begriffen der K. beschrieben worden. Dabei findet sich das K.-System allerdings mit Merkmalen der Klassenstruktur verschränkt, wie auch im modernen Indien. <span class=\"col\" data-col=\"703\"></span></p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">G. MYRDAL: An American dilemma (New York 1944). – M. WEBER s. Anm. [3]. – W. E. MÜHLMANN: Chiliasmus und Nativismus (<sup>2</sup>1964) 335ff. 233ff.; Art. ‹K.›, in: Wb. der Soziol., hg. W. BERNSDORF (<sup>2</sup>1969) 534–537, dort weitere Lit. – D. G. MANDELBAUM: Society in India 1, 2 (Berkeley 1970). – C. BOUGLÉ: Essays on the caste system (Cambridge 1971).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"703\"></span> C. M. WIELAND, Sämtl. Werke (1794ff.) 6, 313. 355. 357.</li>\n<li id=\"fn0-2\" value=\"2\">M. WEBER: Wirtschaft und Gesellschaft (<sup>4</sup>1956) 536.</li>\n<li id=\"fn0-3\" value=\"3\">Ges. Aufsätze zur Religionssoziol. (<sup>2</sup>1923) 1, 181; 3, 12ff.</li>\n</ol>",
+ "prev":{"id":1532,"lemma":"Karman","band":"4","col":701},
+ "next":{"id":1534,"lemma":"Kasuistik","band":"4","col":703},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Paria-Ethik","qualifier":"","band":"4","col":"702"}],
+ "persons":[
+  {"id":34,"name":"M. Weber","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":385,"name":"Ch. M. Wieland","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":662,"name":"W. E. Mühlmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3005,"name":"M. Mandelbaum","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2741,"name":"C. Bouglé","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4037,"name":"G. Myrdal","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1857,"name":"W. Bernsdorf","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":893,"lemma":"Familie, Ehe","tf":2},{"id":1930,"lemma":"Merkmal","tf":3}],
+ "see_also":[],
+ "groups":[{"id":15,"name":"Indische Philosophie","label":"Kaste"}],
+ "reg_authors":[{"name":"Mühlmann Horst","n":6}]
+}
+);

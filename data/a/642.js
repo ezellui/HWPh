@@ -1,0 +1,57 @@
+HWPH.put("a/642",
+{
+ "id":642,
+ "lemma":"Durchdringung",
+ "band":"2",
+ "kind":"article",
+ "col_from":300,
+ "col_to":301,
+ "pdf_from":4574,
+ "pdf_to":4577,
+ "authors":["F. Kaulbach"],
+ "n_notes":8,
+ "n_chars":3962,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Durchdringung spielt in der Philosophie die Rolle eines operativen Terminus in dem Falle, in welchem das Prinzip der Undurchdringlichkeit der Materie (Solidität, Antitypie), welches zugleich Befestigung der Trennung bedeutet, überwunden werden soll. <span class=\"col\" data-col=\"301\"></span> So werden in der Naturphilosophie aller Zeitalter Kräfte und Materien, die dadurch Einheit und Zusammenhang in der Welt hervorrufen, daß sie alles durchdringen, von solchen unterschieden, die sich undurchdringlich gegenseitig verdrängen und «hart im Räume stoßen» Die durchdringenden Kräfte werden insbesondere in pantheistischen Welt-Seele-Konzeptionen auch als seelisch interpretiert. DEMOKRIT z.B. habe die Feueratome zugleich Seele genannt, weil sie «am ehesten alles durchdringen (διαδúνειν) und das übrige bewegen können ...» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Wird der philosophische Begriff der Durchdringung recht verstanden, dann wird er nicht im Sinne des physikalischen Vorgangs ausgelegt, in dem z.B. das Wasser den Schwamm durchdringt, sondern als ein Prozeß, durch den eine phänomenale Gestalt ihre Einheit gewinnt (zur Einheit verbunden wird). Den Fall des Zusammenstoßes zweier Körper beschreibt LEIBNIZ philosophisch durch die Erklärung, daß sie sich in diesem Augenblick durchdringen und «in ein und demselben Punkte des Raumes» seien. Das setzt die Konzeption einer Kraft voraus, die jeweils der eine Körper über seine eigenen Grenzen hinweg auf den andern wirken läßt. D. wird geradezu als Einswerdung, die Ergebnis eines gegenseitigen Einheitsstrebens ist, bezeichnet <sup class=\"fn\" data-fn=\"0-2\">2</sup>. In KANTS Opus Postumum, das eine Intensivierung des Gedankens der einigenden Kräfte in der Natur anstrebt, ist von durchdringenden Materien und Kräften (Wärme, Äther) die Rede <sup class=\"fn\" data-fn=\"0-3\">3</sup>. In der Sprache der idealistischen Nachfolger Kants wird der Name ‹D.› immer dann als Terminus gebraucht, wenn es um die Vereinigung des Aneinandergrenzenden, einander Fremden zu einer fließenden Identität geht. So charakterisiert FICHTE <sup class=\"fn\" data-fn=\"0-4\">4</sup> den Zustand der «Aufmerksamkeit» auf die eigene Empfindung als «durchdrungen» mit Freiheit, im Gegensatz zu der Befangenheit in der Empfindung selbst. Vom Standpunkt der Identitätsphilosophie aus spricht SCHELLING die Sprache der D., welche der naturwissenschaftliche Verstand und seine atomistische Vorstellungsweise nicht zu verstehen imstande sei: Licht und Magnetismus gehören zu den «durchdringenden» Kräften und stellen «penetrierende» Ursachen dar <sup class=\"fn\" data-fn=\"0-5\">5</sup>. F. v. BAADER stellt den «zuerst wieder durch Kant eingeführten Begriff der D.» als einen Begriff, der den Physikern noch mangele, in den Mittelpunkt seiner Naturphilosophie: jede «Coexistenz» schließe ein «virtuelles oder geistiges ... Durchdrungensein eines Seienden in und von einem anderen» ein. Der «absolute Geist» sei als «der absolut undurchdringbare» zugleich der «absolut durchdringende» Geist <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In der Philosophie des Geistes sowohl bei SCHLEIERMACHER wie auch bei HEGEL ist von D. die Rede, wenn die Rückkehr des individuellen Lebens zu sich selbst auf dem Umweg über das Fremde philosophisch bestimmt wird <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Der Terminus spielt eine operative Rolle auch bei W. JAMES und A. N. WHITEHEAD <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">F. KAULBACH: Der philos. Begriff der Bewegung (1965); Philos. der Beschreibung (1968); Schleiermachers Idee der Dialektik. Neue Z. systemat. Theol. u. Religionsphilos. 10 (1968) 225ff.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">ARISTOTELES, De anima 404 a 6f.</li>\n<li id=\"fn0-2\" value=\"2\">LEIBNIZ, Math. Schriften, hg. GERHARDT 6, 69.</li>\n<li id=\"fn0-3\" value=\"3\">KANT, Akad.-A. 21, 229. 252; vgl. F. KAULBACH: Leibbewußtsein und Welterfahrung beim frühen und späten Kant. Kantstudien 54 (1963) 464ff.</li>\n<li id=\"fn0-4\" value=\"4\">J. G. FICHTE, Die Thatsachen des Bewußtseyns. Werke, hg. I. H. FICHTE 2, 552ff.</li>\n<li id=\"fn0-5\" value=\"5\">F. W. J. SCHELLING, Sämtl. Werke, hg. K. F. A. SCHELLING (1856–1861) 2, 484.</li>\n<li id=\"fn0-6\" value=\"6\">BAADER, Werke, hg. F. HOFFMANN (1850–1860) 2, 171; 9, 96; 4, 318.</li>\n<li id=\"fn0-7\" value=\"7\">F. KAULBACH: Schleiermachers Theorie des Gesprächs. Die Sammlung 14 (1959) 123.</li>\n<li id=\"fn0-8\" value=\"8\">W. JAMES: Das pluralistische Universum, dtsch. J. GOLDSTEIN (1914) 174f.; A. N. WHITEHEAD: Process and reality (New York 1960); Sci. and the modern world (Cambridge 1953).</li>\n</ol>",
+ "prev":{"id":641,"lemma":"Dummheit","band":"2","col":299},
+ "next":{"id":643,"lemma":"Dyas","band":"2","col":302},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Ursache, penetrierende","qualifier":"","band":"2","col":"301"}],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12,"name":"J. G. Fichte","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":137,"name":"W. James","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":194,"name":"A. N. Whitehead","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":486,"name":"Baader","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":29,"name":"F. D. E. Schleiermacher","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":83,"name":"Demokrit","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":6356,"name":"J. Goldstein","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":201,"name":"F. Kaulbach","b":0,"n":2,"l":1,"editor":1,"role":"scholar"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":76,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":163,"name":"F. Hoffmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":948,"lemma":"Fremd, Fremdheit","tf":2},
+  {"id":1892,"lemma":"Materie","tf":3},
+  {"id":2088,"lemma":"Naturphilosophie","tf":2},
+  {"id":723,"lemma":"Empfindung","tf":2},
+  {"id":1769,"lemma":"Leib, Körper","tf":2},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2},
+  {"id":890,"lemma":"Fall, Abfall","tf":2}
+ ],
+ "see_also":[
+  {"id":187,"lemma":"Antiperístasis"},
+  {"id":2917,"lemma":"Solidität"},
+  {"id":3289,"lemma":"Undurchdringlichkeit"}
+ ],
+ "groups":[{"id":28,"name":"Naturphilosophie","label":"Durchdringung"}],
+ "reg_authors":[{"name":"Kaulbach Friedrich","n":22}]
+}
+);

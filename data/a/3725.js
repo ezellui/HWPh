@@ -1,0 +1,96 @@
+HWPH.put("a/3725",
+{
+ "id":3725,
+ "lemma":"Zweiwertigkeitsprinzip",
+ "band":"12",
+ "kind":"article",
+ "col_from":1540,
+ "col_to":1542,
+ "pdf_from":53218,
+ "pdf_to":53224,
+ "authors":["K. J. Schmidt"],
+ "n_notes":26,
+ "n_chars":7220,
+ "toc":[
+  ["p1","1. Die klassische Aussagenlogik begreift eine Aussage als sprachliches Ge",3],
+  ["p2","2. Der Sache nach finden sich wichtige Elemente der Zweiwertigkeit bereit",3],
+  ["p4","3. Das Z. schränkt Aristoteles auf Aussagen über vergangene und gegenwärt",3],
+  ["p7","4. Mit der Charakterisierung zukunftsbezogener Aussagen als «möglich, abe",3],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Zweiwertigkeitsprinzip (engl. principle of bivalence)</p>\n<p id=\"p1\">1. Die klassische Aussagenlogik begreift eine Aussage als sprachliches Gebilde, das entweder «wahr oder ... falsch» ist <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Diesen «Grundsatz», der die «tiefste, jedoch schon im Altertum heftig umstrittene Grundlage» der Logik repräsentiere, nennt J. ŁUKASIEWICZ 1930 «Zweiwertigkeitssatz» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Bereits 1920/21 grenzt Łukasiewicz die Zweiwertigkeit von der Dreiwertigkeit ab («logika dwuwartosciowa» – «logice trojwartosciowej»). Ermöglicht wird diese Ausdrucksweise durch G. FREGE, der in seiner funktionalen Darstellung der Logik «das Wahre» und «das Falsche» als die «beiden Wahrheitswerte» zugrunde legt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Auf diese Terminologie greift ŁUKASIEWICZ zurück: Das Wahre und das Falsche sind exakt die «zwei Werte», mit denen die Aussagevariablen belegt werden <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Als englische Entsprechung des Ausdrucks ‹Zweiwertigkeitssatz› verwendet er 1951 die Formulierung «principle of bivalence» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. G. W. LEIBNIZ führt das Z. als «Prinzip des Widerspruchs» («principe de contradiction») <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p id=\"p2\">2. Der Sache nach finden sich wichtige Elemente der Zweiwertigkeit bereits bei PLATON. Der «kürzesten Rede», bestehend aus einem Subjekt und einem Prädikat, kommt die Beschaffenheit zu, wahr oder <span class=\"col\" data-col=\"1541\"></span> falsch zu sein <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Der sich darauf beziehenden beiläufigen Äußerung von ARISTOTELES <sup class=\"fn\" data-fn=\"0-8\">8</sup> folgt eine Einführung des Z. im Sinne der modernen Logik. Danach stellt nicht jede Rede eine Aussage dar, sondern nur diejenige, die entweder wahr oder falsch ist. Daher können Bitte <sup class=\"fn\" data-fn=\"0-9\">9</sup>, Befehl, Erzählung, Drohung, Frage und Antwort nicht als Aussagen angesehen werden <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Fundamental sind nach Aristoteles die kontradiktorischen Aussagen, die einem Subjekt <i>a</i> ein Prädikat <i>G</i> zu- oder absprechen, formallogisch: <i>Ga</i> und <i>Ga.</i> Aristoteles nennt sie ‹Bejahung› und ‹Verneinung› <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Die Bejahung ist wahr, falls die Verneinung falsch ist und umgekehrt <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p id=\"p4\">3. Das Z. schränkt Aristoteles auf Aussagen über vergangene und gegenwärtige Ereignisse ein; es kann sich nicht auf aussageförmige Formulierungen über zukünftige, zufällige Ereignisse beziehen – die sog. «contingentia futura» <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Es ist kontrovers diskutiert worden, wie bei der Formulierung kontradiktorisch entgegengesetzter zukünftiger Ereignisse Wahrheit und Falschheit zuzuschreiben sind. Als Standard-Interpretation kristallisiert sich in der Antike eine auf SIMPLIKIOS, AMMONIUS und BOETHIUS zurückgehende Deutung heraus <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Danach hält die Einschränkung bei der Formulierung zukünftiger Ereignisse zwar daran fest, daß einer der beiden Teile der Entgegensetzung wahr oder falsch sein muß, jedoch kann im vorhinein keine weitere Festlegung erfolgen, vielmehr bleibt abzuwarten, welcher der beiden Gegensatzteile Realität erlangt haben wird <sup class=\"fn\" data-fn=\"0-15\">15</sup>. In der ‹Metaphysik› betont ARISTOTELES einen engen Zusammenhang zwischen Zweiwertigkeit und dem ‘Satz vom (ausgeschlossenen) <a class=\"xref\" href=\"#/a/2748\">Widerspruchʼ</a> <span class=\"sd\">→ (s.d.)</span>.</p>\n<p>Stärkstes Argument gegen eine deterministische Weltanschauung ist eine in diesem Kontext von Aristoteles – zu Recht – bestrittene modallogische Implikation, deren Antezedens den auf der Zweiwertigkeit basierenden ‘Satz vom ausgeschlossenen <a class=\"xref\" href=\"#/a/2747\">Drittenʼ</a> <span class=\"sd\">→ (s.d.)</span>, <i>p</i> ∨ ¬<i>p,</i> umfaßt. In moderner Notation lautet diese (materiale) Implikation: □(<i>p</i> ∨ ¬<i>p</i>) → (□<i>p</i> ∨ □¬<i>p</i>), wobei der Operator □ die umgangssprachliche Ausdrucksweise ‘es ist notwendig, daßʼ symbolisiert. Aristoteles verwirft diese Implikation allerdings nicht aus formalen, sondern aus inhaltlichen Gründen: Wäre sie gültig, so müßte einer der Ausdrücke □<i>p</i> oder □¬<i>p</i> immer wahr sein, da das Antezedens □(<i>p</i> □ ¬<i>p</i>) in der klassischen zweiwertigen Logik immer wahr ist <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Damit erhielte aber ein zufälliges Ereignis, z.B. eine zukünftige Seeschlacht, den Status der Notwendigkeit <sup class=\"fn\" data-fn=\"0-17\">17</sup>.</p>\n<p>Das Z. ist durch die Zuspitzung der Probleme um die «contingentia futura», besonders durch CICEROS Referat <sup class=\"fn\" data-fn=\"0-18\">18</sup>, in der späteren Antike und im MA bis zu JOHANNES DUNS SCOTUS <sup class=\"fn\" data-fn=\"0-19\">19</sup> durch die Themen ‘<a class=\"xref\" href=\"#/a/3494\">Vorherwissenʼ</a> <span class=\"sd\">→ (s.d.)</span> und ‘<a class=\"xref\" href=\"#/a/2171\">Notwendigkeitʼ</a> <span class=\"sd\">→ (s.d.)</span> <sup class=\"fn\" data-fn=\"0-20\">20</sup> mit dem Problemkreis des Determinismus verknüpft.</p>\n<p id=\"p7\">4. Mit der Charakterisierung zukunftsbezogener Aussagen als «möglich, aber nicht notwendig» <sup class=\"fn\" data-fn=\"0-21\">21</sup>, geht ŁUKASIEWICZ auf die ‹Erste Analytik› des ARISTOTELES zurück, der dort nicht nur auf diese Weise die kontingente Aussage <i>Kp</i> definiert, sondern darüber hinaus die Äquivalenz der kontingenten Aussagen <i>Kp</i> und <i>K</i>¬<i>p</i> konstatiert <sup class=\"fn\" data-fn=\"0-22\">22</sup>.</p>\n<p>ŁUKASIEWICZ ist es auch, der zwischen dem Z. und dem ‘Satz vom ausgeschlossenen Drittenʼ differenziert <sup class=\"fn\" data-fn=\"0-23\">23</sup>. Das Z. beinhaltet, daß eine Aussage <i>p</i> entweder wahr oder falsch ist, während das ‘Prinzip vom ausgeschlossenen Drittenʼ besagt, daß die Aussage <i>p</i> ∨ ¬<i>p</i> immer wahr ist. Obwohl Łukasiewicz 1921 mit der «Voraussetzung, ... daß eine Aussage entweder wahr oder falsch ist», sämtliche Sätze der klassischen Aussagenlogik mittels Wahrheitswertetafeln beweist, möchte er das Z. «überwinden» <sup class=\"fn\" data-fn=\"0-24\">24</sup>. Diese Intention führt ihn auf mehrwertige Logiken <sup class=\"fn\" data-fn=\"0-25\">25</sup>. Sie hielten in den letzten Jahrzehnten Einzug in die sogenannte «fuzzy logic», die sich mit unscharfen Aussagen beschäftigt <sup class=\"fn\" data-fn=\"0-26\">26</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1542\"></span> G. FREGE: Über Sinn und Bedeutung (1892), in: Funktion, Begriff und Bedeutung, hg. G. PATZIG (1969) 48.</li>\n<li id=\"fn0-2\" value=\"2\">J. ŁUKASIEWICZ: Philos. Bem. zu mehrwertigen Systemen des Aussagenkalküls (1930), in: D. PEARCE/J. WOLENSKI (Hg.): Log. Rationalismus. Philos. Schr. der Lemberg-Warschauer Schule (1988) 108.</li>\n<li id=\"fn0-3\" value=\"3\">G. FREGE: Funktion und Begriff (1891), a.O. [1] 34; vgl. Art. <a class=\"xref\" href=\"#/a/3538\">→ Wahrheitswert</a>.</li>\n<li id=\"fn0-4\" value=\"4\">ŁUKASIEWICZ, a.O. [2] 108.</li>\n<li id=\"fn0-5\" value=\"5\">Aristotle's syllogistic from the standpoint of modern formal logic (Oxford 1951) 82. 205.</li>\n<li id=\"fn0-6\" value=\"6\">G. W. LEIBNIZ: Nouv. essais sur l'entendement humain IV, 2, § 1 [1703–05] (1765). Akad.-A. VI/6 (1962) 362; vgl. Art. ‹Satz vom ausgeschlossenen Dritten›. Hist. Wb. Philos. 8 (1992) 1198–1202, hier: 1199; Art. ‹Satz vom (ausgeschlossenen) Widerspruch›, a.O. 1202–1206.</li>\n<li id=\"fn0-7\" value=\"7\">PLATON: Soph. 261 c 6–263 d 5.</li>\n<li id=\"fn0-8\" value=\"8\">ARISTOTELES: Cat. 5, 4 a 23–26.</li>\n<li id=\"fn0-9\" value=\"9\">De int. 4, 17 a 2–7.</li>\n<li id=\"fn0-10\" value=\"10\">Poet. 19, 1456 b 9ff.; Rhet. III, 16, 18.</li>\n<li id=\"fn0-11\" value=\"11\">De int. 5, 17 a 8f.; vgl. Art. <a class=\"xref\" href=\"#/a/2100\">→ Negation I.</a>. Hist. Wb. Philos. 6 (1984) 666–670; Art. <a class=\"xref\" href=\"#/a/2545\">→ Qualität des Urteils</a>, a.O. 7 (1989) 1780–1782.</li>\n<li id=\"fn0-12\" value=\"12\">De int. 6.</li>\n<li id=\"fn0-13\" value=\"13\">9, 18 a 28–33. b 5–16; vgl. Art. <a class=\"xref\" href=\"#/a/981\">→ Futurabilien</a>. Hist. Wb. Philos. 2 (1972) 1150; zu der modernen Diskussion vgl. Art. <a class=\"xref\" href=\"#/a/3679\">→ Zeitlogik</a>.</li>\n<li id=\"fn0-14\" value=\"14\">H. WEIDEMANN: Anm. zu De int. 9, in: ARISTOTELES: Peri Hermeneias. Werke in dtsch. Übers., hg. E. GRUMACH/H. FLASHAR 1/II (1994) 300–304.</li>\n<li id=\"fn0-15\" value=\"15\">ARISTOTELES: De int. 9, 19 a 32–39.</li>\n<li id=\"fn0-16\" value=\"16\">19 a 28–32; vgl. K. J. SCHMIDT: Die modale Syllogistik des Aristoteles (2000).</li>\n<li id=\"fn0-17\" value=\"17\">18 b 23–24.</li>\n<li id=\"fn0-18\" value=\"18\">CICERO: De fato 17; zusammenfassend zu den antiken Diskussionen vgl. J. VUILLEMIN: Necessity or contingency. The master argument (Stanford, Calif. 1996).</li>\n<li id=\"fn0-19\" value=\"19\">J. R. SÖDER: Die Lehre von den ‘futura contingentiaʼ bei Joh. Duns Scotus (1999) 177. 187f. 208.</li>\n<li id=\"fn0-20\" value=\"20\">Vgl. Art. <a class=\"xref\" href=\"#/a/2171\">→ Notwendigkeit II.</a>. Hist. Wb. Philos. 6 (1984) 951–971.</li>\n<li id=\"fn0-21\" value=\"21\">ŁUKASIEWICZ, a.O. [2] 108.</li>\n<li id=\"fn0-22\" value=\"22\">ARISTOTELES: Anal. pr. I, 13, 32 a 18–20; vgl. H. WEIDEMANN: Zwei Strategien der Kritik an einem Argument für den kausalen Determinismus: Aristoteles und Łukasiewicz, in: G. DAMSCHEN/R. ENSKAT/A. G. VIGO (Hg.): Platon und Aristoteles – sub ratione veritatis. Festschr. W. Wieland zum 70. Geb. (2003) 76–101.</li>\n<li id=\"fn0-23\" value=\"23\">ŁUKASIEWICZ, a.O. [5] 82.</li>\n<li id=\"fn0-24\" value=\"24\">a.O. [2] 108.</li>\n<li id=\"fn0-25\" value=\"25\">Vgl. Art. <a class=\"xref\" href=\"#/a/1815\">→ Logik, mehrwertige</a>. Hist. Wb. Philos. 5 (1980) 440–444.</li>\n<li id=\"fn0-26\" value=\"26\">Vgl. Art. <a class=\"xref\" href=\"#/a/3370\">→ Vagheit; vage</a>, a.O. 11 (2001) 531–539, hier: 538.</li>\n</ol>",
+ "prev":{"id":3724,"lemma":"Zweireichelehre","band":"12","col":1532},
+ "next":{"id":3726,"lemma":"Zwillingsparadoxon; Uhrenparadoxon","band":"12","col":1542},
+ "backlinks":[
+  {"id":3494,"lemma":"Vorherwissen","n":1},
+  {"id":3523,"lemma":"Wahrheit","n":1},
+  {"id":3535,"lemma":"Wahrheitsfunktion; Wahrheitstafel","n":2},
+  {"id":3538,"lemma":"Wahrheitswert","n":1},
+  {"id":3679,"lemma":"Zeitlogik","n":1}
+ ],
+ "outlinks":[
+  {"id":981,"lemma":"Futurabilien","n":1},
+  {"id":1815,"lemma":"Logik, mehrwertige","n":1},
+  {"id":2100,"lemma":"Negation","n":1},
+  {"id":2171,"lemma":"Notwendigkeit","n":2},
+  {"id":2545,"lemma":"Qualität des Urteils","n":1},
+  {"id":2748,"lemma":"Satz vom (ausgeschlossenen) Widerspruch","n":1},
+  {"id":2747,"lemma":"Satz vom ausgeschlossenen Dritten","n":1},
+  {"id":3370,"lemma":"Vagheit; vage","n":1},
+  {"id":3494,"lemma":"Vorherwissen","n":1},
+  {"id":3538,"lemma":"Wahrheitswert","n":1},
+  {"id":3679,"lemma":"Zeitlogik","n":1}
+ ],
+ "register":[
+  {"term":"contingentia futura","qualifier":"","band":"12","col":"1540"},
+  {"term":"Dreiwertigkeit","qualifier":"","band":"12","col":"1540"},
+  {"term":"Logik, zweiwertige","qualifier":"","band":null,"col":null},
+  {"term":"principle of bivalence","qualifier":"","band":null,"col":null},
+  {"term":"Prinzip der Zweiwertigkeit","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":2,"name":"Aristoteles","b":3,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":40,"name":"G. Frege","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8,"name":"Cicero","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1751,"name":"H. Weidemann","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":54,"name":"A. Schmidt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":25,"name":"Boethius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":38,"name":"Joh. Duns Scotus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":302,"name":"G. Patzig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":465,"name":"Simplikios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":698,"name":"Ammonius","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":3603,"name":"J. Vuillemin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5290,"name":"R. Enskat","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7667,"name":"D. Pearce","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8404,"name":"A. G. Vigo","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":13332,"name":"G. Damschen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12690,"name":"J. Wolenski","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":15289,"name":"K. Söder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":665,"name":"H. Flashar","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":3438,"name":"E. Grumach","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":309,"lemma":"Aussage","tf":12},
+  {"id":311,"lemma":"Aussagenlogik","tf":2},
+  {"id":1399,"lemma":"Implikation","tf":3},
+  {"id":1803,"lemma":"Logik","tf":5},
+  {"id":380,"lemma":"Bejahung","tf":2},
+  {"id":2745,"lemma":"Satz","tf":3},
+  {"id":3050,"lemma":"Subjekt/Prädikat","tf":2},
+  {"id":3607,"lemma":"Widerspruch","tf":2},
+  {"id":182,"lemma":"Antike","tf":2},
+  {"id":3047,"lemma":"Subjekt","tf":2},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2}
+ ],
+ "see_also":[
+  {"id":981,"lemma":"Futurabilien"},
+  {"id":1815,"lemma":"Logik, mehrwertige"},
+  {"id":2747,"lemma":"Satz vom ausgeschlossenen Dritten"},
+  {"id":3538,"lemma":"Wahrheitswert"}
+ ],
+ "groups":[{"id":22,"name":"Logik","label":"Zweiwertigkeitsprinzip"}],
+ "reg_authors":[{"name":"Schmidt Klaus J","n":2}]
+}
+);

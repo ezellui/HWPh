@@ -1,0 +1,37 @@
+HWPH.put("a/3132",
+{
+ "id":3132,
+ "lemma":"Tat tvam asi",
+ "band":"10",
+ "kind":"article",
+ "col_from":919,
+ "col_to":920,
+ "pdf_from":42347,
+ "pdf_to":42348,
+ "authors":["L. Schmithausen"],
+ "n_notes":8,
+ "n_chars":1984,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Tat tvam asi («Das bist du») ist ein Satz <span class=\"col\" data-col=\"920\"></span> aus einem Abschnitt der ‹Chāndogya-Upaniṣad› <sup class=\"fn\" data-fn=\"0-1\">1</sup>, in dem gelehrt wird, daß das «Seiende» (sat), ein vor allem als Lebenskraft bestimmter feiner Urstoff, das einheitliche Wesen (ātman) von allem sei und somit auch mit dem Wesen oder Selbst des Menschen (ātman) identifiziert werden könne <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Nach der Interpretation des streng monistischen ‹Advaita-Vedānta› drückt der Satz die Identität des eigenen Selbstes (ātman) mit dem vor allem als reine Geistigkeit (cit) bestimmten Absoluten (brahman) aus <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Nach RĀMĀNUJA besagt die in T.t.a. ausgesprochene Gleichsetzung von Individuum und Absolutem nur, daß die Individualseelen von Gott durchdrungen und Teil seines «Leibes» sind <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Der radikale Antimonist MADHVA schlägt, unter Ausnutzung der euphonischen Regeln des Sanskrit, die Lesung atat tvam asi – «das bist du nicht» – vor <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>A. SCHOPENHAUER hat das T.t.a. zur Bestätigung seiner Ethik herangezogen, die Mitleid und selbstloses Handeln damit erklärt, daß mein wahres inneres Wesen in jedem Lebenden existiere. Über P. DEUSSEN, der darin eine praktische Forderung begründet sehen wollte, hat diese ethische Deutung des T.t.a. auch auf den modernen Hinduismus zurückgewirkt <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In der indischen Tradition, insbesondere dem ‹Advaita-Vedānta›, war das T.t.a. trotz einiger bemerkenswerter Ausnahmen <sup class=\"fn\" data-fn=\"0-7\">7</sup> im allgemeinen nicht zur Begründung ethischen Verhaltens verwendet worden <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Chāndogya-Upaniṣad VI, 8–16.</li>\n<li id=\"fn0-2\" value=\"2\">a.O.; P. HACKER: Schopenhauer und die Ethik des Hinduismus. Saeculum 12/4 (1961) 366–399, hier: 368f.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 369 (mit Fn. 7).</li>\n<li id=\"fn0-4\" value=\"4\">Vedārthasaṃgraha, hg. RAGHAVACHAR (Maisur 1956) § 14.</li>\n<li id=\"fn0-5\" value=\"5\">Ānandatīrtha (Madhva), Sarvamūlagranthāḥ I (Udipi 1969) 437; Sarvadarśanasaṃgraha (Bombay 1957) 137, 1f.</li>\n<li id=\"fn0-6\" value=\"6\">W. HALBFASS: Indien und Europa (1981) 272; Practical Vedānta, in: V. DALMIA/H. VON STIETENCRON (Hg.): Representing Hinduism (New Delhi 1995) 211–223, hier: 218f.</li>\n<li id=\"fn0-7\" value=\"7\">HACKER, a.O. [2] 378; HALBFASS: Pract. Ved., a.O. 217.</li>\n<li id=\"fn0-8\" value=\"8\">HACKER, a.O. 369ff.; HALBFASS, a.O. 216ff.</li>\n</ol>",
+ "prev":{"id":3131,"lemma":"Tatsache, soziale","band":"10","col":916},
+ "next":{"id":3133,"lemma":"Tausch","band":"10","col":920},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":4378,"name":"Hacker","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":672,"name":"P. Deussen","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":1627,"name":"P. Hacker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8431,"name":"Madhva","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":30645,"name":"V. Dalmia","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":30646,"name":"H. von Stietencron","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":945,"name":"W. Halbfass","b":0,"n":3,"l":0,"editor":1,"role":"scholar"},
+  {"id":30644,"name":"Raghavachar","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2820,"lemma":"Selbst","tf":2},{"id":2745,"lemma":"Satz","tf":2}],
+ "see_also":[{"id":278,"lemma":"Ātman"},{"id":453,"lemma":"Brahman"}],
+ "groups":[{"id":15,"name":"Indische Philosophie","label":"Tat tvam asi"}],
+ "reg_authors":[{"name":"Schmithausen Lambert","n":17}]
+}
+);

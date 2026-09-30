@@ -1,0 +1,25 @@
+HWPH.put("t/451",
+{
+ "b":"Bohème. Die literarische Aufwertung der Zigeuner (frz. les bohémiens, ursprünglich eine auf Böhmen bezogene Herkunftsbezeichnung) unter dem Einfluß des Rousseauismus und die Entbürgerlichung des Dichter- und Künstlerbildes in der zweiten Hälfte des 18. Jh. ermöglichten eine seit der Romantik belegte figurative Verwendung von «le bohémien» zur Selbstbezeichnung des Künstlers von unbürgerlichem Selbstverständnis. «La B.» (zuweilen auch «la Sainte B.») wird (als Kollektiv, Milieu oder Verhaltensmuster) der prosaisch-materialistischen Welt des Juste-Milieu entgegengesetzt und im Cénacle des Pariser Impasse du Doyenné (NERVAL, BOREL u.a.) charakterisiert durch «l'amour de l'art et l'horreur du bourgeois» (GAUTIER ). MURGERS ‹Scènes de la vie de B.› (1851) begründeten ein populäreres, heiter-rührendes B.-Bild (Jugendabenteuer armer Künstler vor dem Erfolg), dem der Anarchist J. VALLÈS das Bild des Bohemiens als intellektuellen Refraktärs, proproletarischen Revolutionärs und republikanischen Insurgenten aggressiv entgegensetzte . In Deutschland wurde das (seit den 60er Jahren verwendete) Fremdwort erst im Naturalismus (den skandinavische B.-Romane STRINDBERGS und H. JAEGERS beeinflußten) bedeutsam, während schon im Vormärz analoge einheimische Bildungen wie ‹Dichter-Vagabund›, ‹Literatur- oder Kunstzigeunertum› belegt sind. M. STIRNER bekannte sich zu den «geistigen» und «extravaganten Vagabonden», die die kollektiven Werte in Frage stellen: «Sie bilden die Classe der Unstäten, Ruhelosen, Veränderlichen, d.h. der Proletarier, und heißen, wenn sie ihr unruhiges Wesen laut werden lassen, ‹unruhige Köpfe›» . Eine bürgerliche Gegenposition bezeichnet B. GOLTZ' Polemik gegen Skandalsucht, «Hohn und Weltverachtung» der «vacierenden Genies» , die «in dem Rufe von Original-Menschen stehen» . Der internationale Wortgebrauch von ‹B.› ist meist entweder apologetisch (B. = wahres Künstler- oder Rebellentum der modernen Welt) oder polemisch (B. = Pseudokünstler- oder Pseudorebellentum) oder ambivalent (so bei TH. MANN ). Die Apologeten applizieren zum Teil religiöses Vokabular, wie noch heute in der amerikanischen Diskussion um die «heiligen Barbaren» (die beatniks und hipsters ). Daneben begegnet auch mehr deskriptiv-neutralisierter Wortgebrauch der Wissenschaft zur Bezeichnung einer Subkultur von meist literarisch oder künstlerisch interessierten Intellektuellen, die, aus Vorformen des 18. Jh. entstanden, im 19. und 20. Jh. von den Einstellungen und dem Lebensstil der Mittelklasse absichtsvoll abweicht und als ihr antagonistisches Komplementärphänomen in industriellen oder sich industrialisierenden Gesellschaften mit individualistischem Spielraum existiert (R. MICHELS, P. HONIGSHEIM, A. HAUSER, F. MARTINI, H. KREUZER). Soziologische Ausweitungen des Begriffs auf nicht-intellektuelle unangepaßte Gruppen haben sich nicht durchgesetzt. Ein Beispiel für eine polemische philosophiegeschichtliche Anwendung ist A. SALOMONS Versuch, das «Kaffeehausliteratentum» des 18. Jh. über den Frühsozialismus mit dem Totalitarismus des 20. Jh. in historisch-genetischen Zusammenhang zu bringen und DIDEROT, SAINT-SIMON und COMTE als fast idealtypische Repräsentanten einer «messianischen Boheme» abzuurteilen . Für TH. GEIGER dagegen ist B. der «leibhaftig gewordene Protest der reinen Intelligenz gegen ihre eigene Unfreiheit in der Gestalt der Bürgerlichen Intelligenz» , die «Erzfeindin der Bürgerlichen Gesellschaft» in der Gestalt einer «Hyperintelligenz», die aus dem Bruch von Idee und Wirklichkeit, Geist und Macht in «absurdem Radikalismus» die Konsequenz «des absoluten und permanenten Aufruhrs» gezogen habe. «Der Erztyp der B. ist der Anarcho-Nihilist» . Andere Autoren unterstreichen noch stärker eine Affinität der B. zum Anarchismus sowohl in deskriptiven wie in affektgeladenen pro- oder antibohémischen Belegen.",
+ "n":"Vgl. F. BALDENSPERGER: B. et B.: un doublet linguistique et sa fortune litt., in: Mélanges publ. à l'honneur de M. le Prof. Václav Tille à l'occasion de son 60e anniversaire (Prag 1927) 9f. \nJ. VALLÉS: Les réfractaires (Paris 1865); Jacques Vingtras (Paris 1879–1886). \nM. STIRNER: Der Einzige und sein Eigenthum (21845) 148. \nB. GOLTZ: Typen der Gesellschaft 2 (21863) 97. \na.a.O. 47. \nTH. MANN: Ges. Werke 10 (1960) 389f. \nL. LIPTON: Die heiligen Barbaren (1960). \nVgl. Protest: The Beat generation and the Angry Young Men hg. G. FELDMAN and M. GARTENBERG (New York 1958); Evergreen Rev. 1 (New York 1957) Nr. 2. \nA. SALOMON: Fortschritt als Schicksal und Verhängnis (1957). \nTH. GEIGER: Aufgaben und Stellung der Intelligenz in der Gesellschaft (1949) 135. \na.a.O. 138.",
+ "l":"F. BALDENSPERGER s. Anm. [1]. – H. KREUZER: Zum Begriff der B. Dtsch. Vjschr. Lit.wiss. und Geistesgesch. Sonderheft (1964); Die B. Beiträge zu ihrer Beschreibung (1968).",
+ "au":"H. Kreuzer",
+ "A":["H. Kreuzer"],
+ "cb":[[0,952],[1291,953]],
+ "cn":[
+  [0,952],
+  [0,953],
+  [191,953],
+  [270,953],
+  [327,953],
+  [375,953],
+  [387,953],
+  [425,953],
+  [467,953],
+  [616,953],
+  [678,953],
+  [761,953]
+ ],
+ "cl":[[0,953]]
+}
+);

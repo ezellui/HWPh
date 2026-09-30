@@ -1,0 +1,77 @@
+HWPH.put("a/124",
+{
+ "id":124,
+ "lemma":"Analogon rationis",
+ "band":"1",
+ "kind":"article",
+ "col_from":229,
+ "col_to":230,
+ "pdf_from":976,
+ "pdf_to":980,
+ "authors":["Ursula Franke"],
+ "n_notes":12,
+ "n_chars":5000,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Analogon rationis (das Vernunftähnliche). Der Ausdruck findet sich zunächst in der Tierpsychologie des 18. Jh. Er dient hier zur Bezeichnung eines instinktiv situationsgerechten Verhaltens, das als Kennzeichen tierischer Verhaltensweisen verstanden wird. Es besteht in einem auf dem sensitiven Gedächtnis beruhenden empirischen Folgerungsvermögen. Von diesem sagt LEIBNIZ, daß es «quelque ressemblance avec la raison» aufweise <sup class=\"fn\" data-fn=\"0-1\">1</sup>, und CHR. WOLFF nennt es ein «A.r.» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<p>A. G. BAUMGARTEN gibt dem Begriff im Zusammenhang der empirischen Psychologie eine erkenntnistheoretische Bedeutung. Er bezeichnet das Prinzip der aus der inneren Wahrnehmung (sensus internus) gespeisten sinnlichen Erkenntnis (cognitio sensitiva) als ‹A.r.› und unterscheidet es vom Verstand als Prinzip der Vernunfterkenntnis (cognitio intellectualis sive rationalis). Als «Inbegriff aller sinnlichen Kräfte der Seele» (G. FR. MEIER <sup class=\"fn\" data-fn=\"0-3\">3</sup>) wird das A.r. gebildet durch Witz (ingenium), Scharfsinn (acumen), Memoria, Vorhersehekraft (praevisio), Bezeichnungsvermögen (facultas characteristica), Dichtungskraft und Geschmack. Die beiden letzten Fähigkeiten, die auf der Einbildungskraft (imaginatio, phantasia) beruhende facultas fingendi sowie die Fähigkeit zum ästhetischen Urteil (iudicium sensitivum) <span class=\"col\" data-col=\"230\"></span> über das Schöne und das Häßliche unterscheiden das A.r. wesentlich vom Verstand. Im Zusammenwirken mit Verstand und Vernunft bildet das A.r. das ingeniöse Instrumentarium des schönen Geistes, des Subjekts der von BAUMGARTEN begründeten, von ihm auch ‹ars analogi rationis› genannten <sup class=\"fn\" data-fn=\"0-4\">4</sup> Ästhetik <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Damit wird das A.r. zum Ort der Schönheit, deren Theorie im Sinne einer Wissenschaft des Schönen in der Dichtung und den Künsten (Malerei, Musik usw.) von Baumgarten in der ‹Aesthetica› entwickelt wird. Als Prinzip der sinnlichen Verknüpfung übernimmt es zugleich die systematische Funktion eines Organons der ästhetischen Wahrheit (veritas aesthetica), die, als Wahrheit der Kunst, gleichberechtigt und diese ergänzend neben die veritas logica tritt <sup class=\"fn\" data-fn=\"0-6\">6</sup>. G. FR. MEIER ordnet im Anschluß an Baumgarten darüber hinaus die Hermeneutik, die «eine Einsicht in den bezeichnenden Zusammenhang voraussetzt», nicht nur der Vernunft, sondern auch dem «Vernunftähnlichen» zu <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Die erkenntnistheoretische Funktion des A.r. für BAUMGARTENS Ästhetik ergibt sich aus dem Begriff der Seele als vis repraesentativa universi <sup class=\"fn\" data-fn=\"0-8\">8</sup>, den Baumgarten von LEIBNIZ übernimmt, der die Seele einen «miroir de l'univers» <sup class=\"fn\" data-fn=\"0-9\">9</sup>, einen Spiegel der vollkommen geregelten Ordnung des Universums nennt. Für BAUMGARTEN sind die Vernunft wie auch ihr analogon – darin besteht die Ähnlichkeit beider – auf die Erkenntnis dieses geordneten Weltzusammenhangs (nexus rerum) angelegt, in dem nach alter, für Baumgarten noch verbindlicher Tradition zugleich mit der Vollkommenheit auch die Schönheit des Universums begründet ist. Der diskursiv verfahrende, clare et distincte erkennende Verstand durchdringt (perspicere) den Weltzusammenhang im Begriff. Das A.r., das nicht durch diese Distinktion geht, vergegenwärtigt (repraesentare) den Zusammenhang der Dinge im Medium der Sinnlichkeit, es zeigt ihn als einen schönen, indem es ihn clare et confuse, in der anschaulich differenzierten, begrifflich ununterschiedenen Fülle seiner Merkmale repräsentiert <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<p>Zwar nicht in der Funktion, den nexus rerum als einen schönen zu repräsentieren, doch ebenfalls in der Bestimmung einer der Vernunft analogen, die innere Zweckmäßigkeit der Dinge aufspürenden, sie als solche aber nicht erreichenden «Verbindungskraft» wendet SCHILLER die Bezeichnung «Analoga rationis» «auf diejenigen Vorstellungen» an, «welche nicht durch theoretische Vernunft sind und doch mit ihrer Form übereinstimmen». Diese formale «Vernunftähnlichkeit» ist für Schiller «das Objekt der teleologischen Naturbeurteilung» <sup class=\"fn\" data-fn=\"0-11\">11</sup> wie KANT sie in der ‹Kritik der Urteilskraft› als Gegenstück zur ästhetischen Betrachtung der Dinge entwickelte. Für GOETHE dagegen, dessen Naturlehre im Sinne einer vergleichenden Morphologie, so C. Fr. v. Weizsäcker, «eine dichterische Voraussetzung hat» <sup class=\"fn\" data-fn=\"0-12\">12</sup>, trifft die in der Sinnlichkeit gründende, der Vernunft ähnliche Verbindungskraft die Gestalt der Dinge selbst.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">A. RIEMANN: Die Ästhetik A. G. Baumgartens unter bes. Berücksichtigung der Meditationes, nebst einer Übersetzung dieser Schrift (1928) 38–43. – A. BÄUMLER: Das Irrationalitätsproblem in der Ästhetik und Logik des 18. Jh. bis zur Kritik der Urteilskraft (<sup>2</sup>1967) 188–197. – N. MENZEL MSF: Der anthropol. Charakter des Schönen bei Baumgarten (1969) 33–37.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"230\"></span> LEIBNIZ: Monadol. (<sup>1</sup>1720) §§ 26–28.</li>\n<li id=\"fn0-2\" value=\"2\">CHR. WOLFF: Psychol. empirica (<sup>1</sup>1732) § 506; Psychol. rationalis (<sup>1</sup>1734) §§ 762. 765.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. G. FR. MEIER: Anfangsgründe aller schönen Künste und Wiss. (1748–50) III, § 541.</li>\n<li id=\"fn0-4\" value=\"4\">A. G. BAUMGARTEN: Aesthetica (1750/58) § 1.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. §§ 30–39.</li>\n<li id=\"fn0-6\" value=\"6\">§§ 423f.</li>\n<li id=\"fn0-7\" value=\"7\">G. FR. MEIER: Versuch einer allg. Auslegungskunst (1757) § 29.</li>\n<li id=\"fn0-8\" value=\"8\">A. G. BAUMGARTEN: Met. (<sup>1</sup>1739) § 513.</li>\n<li id=\"fn0-9\" value=\"9\">a.a.O. § 63.</li>\n<li id=\"fn0-10\" value=\"10\">§ 640.</li>\n<li id=\"fn0-11\" value=\"11\">SCHILLER, Kallias. Briefe an G. Körner. 18. 2. 1793.</li>\n<li id=\"fn0-12\" value=\"12\">Hamburger A. 13, 553.</li>\n</ol>",
+ "prev":{"id":123,"lemma":"Analogie","band":"1","col":214},
+ "next":{"id":125,"lemma":"Analyse","band":"1","col":230},
+ "backlinks":[
+  {"id":1571,"lemma":"Klar und deutlich","n":1},
+  {"id":3405,"lemma":"Vergleich","n":1},
+  {"id":3423,"lemma":"Vernunft; Verstand","n":1},
+  {"id":3539,"lemma":"Wahrnehmung","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Analogon der Vernunft","qualifier":"(Baumgarten)","band":null,"col":null},
+  {"term":"cognitio intellectualis","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"cognitio sensitiva","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"Erkenntnis, sinnliche","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"facultas fingendi","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"imaginatio","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"iudicium sensitivum","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"memoria","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"miroir de l'univers","qualifier":"(Baumgarten)","band":"1","col":"230"},
+  {"term":"nexus rerum","qualifier":"(Baumgarten)","band":"1","col":"230"},
+  {"term":"praevisio","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"Scharfsinn","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"sensus internus","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"sinnliche Erkenntnis","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"Spiegel","qualifier":"(Baumgarten)","band":"1","col":"230"},
+  {"term":"Urbanität","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"Verbindungskraft","qualifier":"(Baumgarten)","band":"1","col":"230"},
+  {"term":"veritas aesthetica","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"Vernunftähnliche, das","qualifier":"(Baumgarten)","band":null,"col":null},
+  {"term":"Vernunfterkenntnis","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"vis repraesentativa","qualifier":"(Baumgarten)","band":"1","col":"230"},
+  {"term":"Wahrheit, ästhetische","qualifier":"(Baumgarten)","band":"1","col":"229"},
+  {"term":"Weltzusammenhang","qualifier":"(Baumgarten)","band":"1","col":"230"},
+  {"term":"Zusammenhang der Dinge","qualifier":"(Baumgarten)","band":"1","col":"230"}
+ ],
+ "persons":[
+  {"id":48,"name":"A. G. Baumgarten","b":4,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":103,"name":"G. F. Meier","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":42,"name":"F. Schiller","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":20,"name":"J. W. Goethe","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1915,"name":"A. Bäumler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1835,"name":"B. Riemann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":13417,"name":"N. Menzel Msf","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2776,"lemma":"Schöne","tf":2},
+  {"id":2901,"lemma":"Sinnlichkeit; sinnlich","tf":2},
+  {"id":3310,"lemma":"Universum","tf":2},
+  {"id":266,"lemma":"Ästhetik, ästhetisch","tf":2},
+  {"id":2794,"lemma":"Seele","tf":3}
+ ],
+ "see_also":[{"id":3423,"lemma":"Vernunft; Verstand"}],
+ "groups":[
+  {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Analogon rationis (Baumgarten)"},
+  {"id":9,"name":"Erkenntnistheorie","label":"Analogon rationis (Baumgarten)"}
+ ],
+ "reg_authors":[{"name":"Franke Ursula","n":5}]
+}
+);

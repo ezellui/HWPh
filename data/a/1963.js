@@ -1,0 +1,56 @@
+HWPH.put("a/1963",
+{
+ "id":1963,
+ "lemma":"Methode, phänomenologische",
+ "band":"5",
+ "kind":"article",
+ "col_from":1364,
+ "col_to":1365,
+ "pdf_from":20142,
+ "pdf_to":20146,
+ "authors":["U. Claesges"],
+ "n_notes":22,
+ "n_chars":5154,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Methode, phänomenologische. Der Begriff der ph.M. leitet sich von dem Sinn ab, den E. HUSSERL dem Begriff der Phänomenologie gegeben hat. Phänomenologie ist in ihrem Ursprung «deskriptive Psychologie» <sup class=\"fn\" data-fn=\"0-1\">1</sup> mit dem Ziel einer Neubegründung der reinen Logik und Erkenntnistheorie <sup class=\"fn\" data-fn=\"0-2\">2</sup>. In ihrer Gegenwendung gegen den Psychologismus ist die ph.M. gekennzeichnet durch die «Bevorzugung der inneren Erfahrung und durch Abstraktion von aller psychophysischen Erklärung» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die ph.M. strebt den direkten deskriptiven Aufweis dessen an, was als psychisches Phänomen gegeben ist. Das Ziel der «phänomenologischen Analyse» besteht darin, «die logischen Ideen, die Begriffe und Gesetze zu erkenntnistheoretischer Klarheit und Deutlichkeit zu bringen» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Diese deskriptive M. wird im weiteren Verlauf der Entwicklung der Phänomenologie aus ihrer thematischen Beschränkung auf Psychologie und Logik herausgenommen. Dies wird möglich durch die Erkenntnis, daß «auch Allgemeinheiten, allgemeine Gegenstände und allgemeine Sachverhalte zu absoluter Selbstgegebenheit gelangen können» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die Maxime dieser universal gewordenen M. formuliert Husserl als «Prinzip aller Prinzipien»; dieses besagt, daß «jede originär gebende Anschauung» eine letzte «Rechtsquelle der Erkenntnis» ist <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In diesem Sinne wird die ph.M. als die M. der Wesensschau von den Schülern Husserls übernommen <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Bei Husserl selbst aber bekommt die ph.M. durch die Übernahme der cartesianischen Zweifelsbetrachtung im Hinblick auf das Problem der Transzendenz <sup class=\"fn\" data-fn=\"0-8\">8</sup> eine neue, von den Schülern Husserls nicht nachvollzogene Wendung. Sie ist in zunehmendem Maße durch die «phänomenologische Reduktion» und deren Problematik bestimmt <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Unter Festhaltung des Prinzips der Prinzipien wird die ph.M. Zugangsweg zum apodiktischen Grund aller Erfahrung, dem «reinen Bewußtsein» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Die zureichende Ausgestaltung dieses Zugangsweges aber bleibt ein zentrales Problem Husserls <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Problematisch bleibt dabei vor allem das Verhältnis von phänomenologischer Reduktion und eidetischer Reduktion, als welche nunmehr die M. der Wesensschau bestimmt ist <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>Zunächst behauptet Husserl, daß die eidetische Reduktion notwendig der phänomenologischen Reduktion voranzugehen habe und eine «phänomenologische Tatsachenwissenschaft» unmöglich, Phänomenologie also eo ipso Wesenswissenschaft sei <sup class=\"fn\" data-fn=\"0-13\">13</sup>. In seinen ‹Cartesianischen Meditationen› scheint Husserl dagegen eine phänomenologische Tatsachenwissenschaft für möglich zu halten, welche das in der phänomenologischen Reduktion gewonnene, je mir eigene transzendentale ego zum Thema hat und erst nachträglich <span class=\"col\" data-col=\"1365\"></span> durch Anwendung der eidetischen Reduktion den Charakter einer Wesenswissenschaft gewänne <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Das Problem der ph.M. kompliziert sich noch dadurch, daß Husserl in seiner Spätzeit zwischen phänomenologischer Epoche und transzendentaler Reduktion unterscheidet <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<p>Bei M. HEIDEGGER ist die ph.M. M. seiner «Fundamentalontologie». In ‹Sein und Zeit› bestimmt er den Begriff der ph.M. durch Rückgang auf die ursprünglich griechischen Bestandteile des Wortes ‹Phänomenologie› (φαινόμενον und λόγος) <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Die ursprüngliche Bedeutung von ‹Phänomen› ist das «Sich-an-ihm-selbst-Zeigende» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Die Bedeutung des λόγος als λόγος ἀποφαντικός ist das «aufweisende Sehenlassen» <sup class=\"fn\" data-fn=\"0-18\">18</sup>. Somit besagt der Terminus ‹ph.M.›: «Das, was sich zeigt, so wie es sich von ihm selbst her zeigt, von ihm selbst her sehen lassen» <sup class=\"fn\" data-fn=\"0-19\">19</sup>. In seiner Vorlesung ‹Grundprobleme der Phänomenologie› von 1927 <sup class=\"fn\" data-fn=\"0-20\">20</sup> kennzeichnet Heidegger seine ph.M. durch die Angabe dreier inhaltlich zusammengehöriger «Grundstücke»: «Reduktion», «Konstruktion» und «Destruktion» <sup class=\"fn\" data-fn=\"0-21\">21</sup>. Der Begriff der ph.M. ist bei Heidegger ferner dadurch bestimmt, daß der «methodische Sinn der phänomenologischen Deskription» «Auslegung» (ἑρμηνεύειν) ist <sup class=\"fn\" data-fn=\"0-22\">22</sup>.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">E. SPIEGELBERG: The phenomenol. movement 1. 2 (Den Haag 1960). – G. FUNKE: Phänomenol. – Met. oder M.? (1966). – E. TUGENDHAT: Der Wahrheitsbegriff bei Husserl und Heidegger (<sup>2</sup>1970). – A. AGUIRRE: Genet. Phänomenol. und Reduktion. Zur Letztbegründung der Wiss. aus der radikalen Skepsis im Denken E. Husserls (Den Haag 1970). – U. CLAESGES und K. HELD (Hg.): Perspektiven transzendentalphänomenol. Forsch. (Den Haag 1972). – E. PIVCEVIĆ (Hg.): Phenomenol. and philos. understanding (Cambridge 1975).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1365\"></span> E. HUSSERL: Log. Untersuch. 2 (<sup>1</sup>1901) 18.</li>\n<li id=\"fn0-2\" value=\"2\">a.O. 1 (<sup>1</sup>1900) VII.</li>\n<li id=\"fn0-3\" value=\"3\">2, 19.</li>\n<li id=\"fn0-4\" value=\"4\">7.</li>\n<li id=\"fn0-5\" value=\"5\">Die Idee der Phänomenol. Fünf Vorles. Husserliana (Hua.) 2 (Den Haag <sup>2</sup>1958) 51.</li>\n<li id=\"fn0-6\" value=\"6\">Ideen zu einer reinen Phänomenol. und phänomenol. Philos. 1 Hua. 3 (Den Haag 1950) 52.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. z.B. A. REINACH: Was ist Phänomenol.? (1951).</li>\n<li id=\"fn0-8\" value=\"8\">HUSSERL, Idee ... a.O. [5] 45.</li>\n<li id=\"fn0-9\" value=\"9\">ebda. 58.</li>\n<li id=\"fn0-10\" value=\"10\">Ideen ... a.O. [6] 118.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. I. KERN: Husserl und Kant. Eine Untersuch. über Husserls Verhältnis zu Kant und zum Neukantianismus (Den Haag 1964) § 18, 194ff.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. HUSSERL, Ideen ... a.O. [6] 6.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. 149 Anm.</li>\n<li id=\"fn0-14\" value=\"14\">Cartesianische Meditationen und Pariser Vorträge. Hua. 1 (Den Haag <sup>2</sup>1963) 103ff.; Ideen ... 3. Hua. 5 (Den Haag 1952) 142.</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. Die Krisis der europ. Wiss.en und die transzendentale Phänomenol. Eine Einl. in die phänomenol. Philos. Hua. 4 (Den Haag <sup>2</sup>1962) 154ff.</li>\n<li id=\"fn0-16\" value=\"16\">M. HEIDEGGER: Sein und Zeit (<sup>9</sup>1960) 27ff.</li>\n<li id=\"fn0-17\" value=\"17\">a.O. 28.</li>\n<li id=\"fn0-18\" value=\"18\">32.</li>\n<li id=\"fn0-19\" value=\"19\">34.</li>\n<li id=\"fn0-20\" value=\"20\">Gesamt-A. 24 (1975).</li>\n<li id=\"fn0-21\" value=\"21\">a.O. 29ff.</li>\n<li id=\"fn0-22\" value=\"22\">a.O. [16] 37.</li>\n</ol>",
+ "prev":{"id":1962,"lemma":"Methode, pädagogische","band":"5","col":1359},
+ "next":{"id":1964,"lemma":"Methode, polemische","band":"5","col":1365},
+ "backlinks":[{"id":3600,"lemma":"Wesensschau","n":1}],
+ "outlinks":[],
+ "register":[{"term":"phänomenologische Methode","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":14,"name":"E. Husserl","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":989,"name":"I. Kern","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1018,"name":"A. Reinach","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":287,"name":"E. Tugendhat","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":924,"name":"H. Spiegelberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1842,"name":"K. Held","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2172,"name":"U. Claesges","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5661,"name":"A. Aguirre","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":984,"name":"G. Funke","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2624,"lemma":"Reduktion","tf":9},
+  {"id":2343,"lemma":"Phänomenologie","tf":6},
+  {"id":2511,"lemma":"Psychologie","tf":2},
+  {"id":2340,"lemma":"Phänomen","tf":2},
+  {"id":1803,"lemma":"Logik","tf":2},
+  {"id":3718,"lemma":"Zweck; Ziel","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[
+  {"id":778,"lemma":"Epoché"},
+  {"id":967,"lemma":"Fundamentalontologie"},
+  {"id":1359,"lemma":"Ideation"},
+  {"id":1955,"lemma":"Methode"},
+  {"id":2343,"lemma":"Phänomenologie"},
+  {"id":2625,"lemma":"Reduktion, eidetische"},
+  {"id":2626,"lemma":"Reduktion, phänomenologische"},
+  {"id":2825,"lemma":"Selbstbesinnung"},
+  {"id":3600,"lemma":"Wesensschau"}
+ ],
+ "groups":[{"id":31,"name":"Phänomenologie","label":"Methode, phänomenologische"}],
+ "reg_authors":[{"name":"Claesges Ulrich","n":25}]
+}
+);

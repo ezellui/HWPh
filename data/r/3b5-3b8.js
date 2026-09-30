@@ -1,0 +1,10 @@
+HWPH.put("r/3b5-3b8",
+[
+ ["ἐθελοδουλεία","Freiheit","I","2","1073","ref",946,"Freiheit","εθελοδουλεια"],
+ ["ἐθελοδουλεία","Selbstbestimmung","","9","338","ref",2826,"Selbstbestimmung","εθελοδουλεια"],
+ ["ἔθνος","Volk","","11","1080","ref",3472,"Volk","εθνοσ"],
+ ["ἔθος","Ethos","",null,null,"ref",840,"Ethos","εθοσ"],
+ ["ἔθος","Gewohnheit","",null,null,"ref",1132,"Gewohnheit","εθοσ"],
+ ["ἔθος","Sitte","","9","898","ref",2902,"Sitte","εθοσ"]
+]
+);

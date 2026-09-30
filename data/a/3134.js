@@ -1,0 +1,57 @@
+HWPH.put("a/3134",
+{
+ "id":3134,
+ "lemma":"Tauschgesellschaft",
+ "band":"10",
+ "kind":"article",
+ "col_from":926,
+ "col_to":928,
+ "pdf_from":42368,
+ "pdf_to":42373,
+ "authors":["H. Kämpf"],
+ "n_notes":13,
+ "n_chars":6615,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Tauschgesellschaft (engl. <span class=\"col\" data-col=\"927\"></span> exchange society; frz. société échange). Der Begriff ‹T.› verweist erstens auf Theorien, die soziale Organisationen als Ergebnis spontaner Einzelhandlungen (Austausch) erklären, welche durch wirtschaftliche Einzelinteressen (Gewinn) motiviert sind. Der Tausch wird in diesem Zusammenhang als Warentausch und nicht als Gabentausch thematisiert. Die Idee einer T. tritt im 18. Jh. bei den schottischen Moralphilosophen als Gegenmodell zu solchen Gesellschaftsentstehungstheorien auf, die von einem ursprünglichen Vertrag und der Notwendigkeit zentraler Organisation von Gesellschaft ausgehen. Der Gedanke wird bei A. FERGUSON und A. SMITH im Zusammenhang mit Versuchen bedeutsam, eine Entwicklungstheorie der Gesellschaft zu entwerfen. Nach Smith beruht die Entstehung der arbeitsteiligen Gesellschaft – ähnlich wie später bei E. DURKHEIM <sup class=\"fn\" data-fn=\"0-1\">1</sup> – auf der «propensity in human nature ... to ... exchange one thing for another» («menschlichen Neigung zum Tausch») <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Als Gegenentwurf zu Vertragstheorien versucht A. FERGUSON, die Entwicklung von barbarischen und wilden Gesellschaften zu «kommerzialisierten Gesellschaften» («commercial societies») historisch zu erforschen. Die Untersuchung außereuropäischer Gesellschaften wird damit Bestandteil der Gesellschaftstheorie <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Nach Ferguson werden barbarische Gesellschaften durch «bands of affection» («Bande der Zuneigung») zusammengehalten <sup class=\"fn\" data-fn=\"0-4\">4</sup>, die auf höherer Entwicklungsstufe in den kommerzialisierten Gesellschaften durch Tausch- und Handelsbeziehungen zwischen den Einzelnen ersetzt sind. Der Tausch wird zum Gradmesser der Entwicklungsstufe einer Gesellschaft.</p>\n<p>Diese individualistisch-utilitaristische Tradition wird insbesondere durch den Ökonomen L. VON MISES fortgesetzt: Der Begriff ‹T.› rückt hier in den Zusammenhang einer Gesellschaftstheorie, die von einer spontanen, durch den Tausch organisierten Ordnung ausgeht, die einer geschaffenen sozialen Organisation entgegengehalten wird. «Die Tauschbeziehung ist die gesellschaftliche Grundbeziehung zwischen den Einzelnen in der T.» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. In der Ethnologie findet sich die Idee einer Selbstorganisation der Gesellschaft durch den Tausch im Begriff der «ordered anarchy» wieder <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Der Begriff ‹T.› verweist zweitens im Anschluß an K. MARX auf Versuche, eine soziologische Theorie der Kultur zu entwerfen. Die auf die klassische politische Ökonomie zurückgehende Charakterisierung der T. wird dabei weitgehend übernommen. F. ENGELS widmet in seinem Entwicklungsstufenmodell der Gesellschaft (das die «Hauptepochen»: Wildheit, Barbarei, Zivilisation umschließt) der Bedeutung des Tauschens besondere Aufmerksamkeit: Während auf der untersten Stufe der Barbarei nur gelegentlich Tauschakte stattfinden, sind auf der Mittelstufe der Barbarei regelmäßige Austausche zu verzeichnen. Auf der Oberstufe der Barbarei schließlich wird für den Austausch produziert und der Tausch zwischen Einzelnen zur Lebensnotwendigkeit der Gesellschaft <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Deutlicher als bei Ferguson erscheint diese Entwicklung als Verfallsprozeß; der Begriff ‹T.› erhält eine kritische Färbung: Der Tausch wird nach MARX zum Hauptmittel der Vereinzelung eines ursprünglichen «Gattungswesens», «Herdentiers», «Stammwesens». In die sozialen Beziehungen greift der Tausch insofern ein, als sich die Einzelnen als «Austauschende» begegnen und gleichgültig gegen ihre sonstigen individuellen Eigenheiten werden <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>F. TÖNNIES nimmt Marx' und Lassalles Analysen der kapitalistischen Gesellschaft auf und verbindet sie mit Überlegungen von H. MAINE <sup class=\"fn\" data-fn=\"0-9\">9</sup>, wenn er zwischen «Gesellschaft» und «Gemeinschaft» nach Art und Ausmaß des Tauschens unterscheidet. Während sich die Gemeinschaft durch gemeinsamen Besitz sowie gemeinsamen Genuß der Güter auszeichnet, ihre Angehörigen durch Abstammung miteinander verbunden sind und Tausch nur gelegentlich stattfindet, ist die Tauschhandlung in der Gesellschaft der <span class=\"col\" data-col=\"928\"></span> einzige vereinigende Akt <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Die T. besteht aus «lauter freien Personen, die im Verkehre einander fortwährend berühren, miteinander tauschen und zusammenwirken, ohne daß Gemeinschaft zwischen ihnen entstünde» <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Der Begriff ‹T.› wird hier als Bestimmungskriterium aller Gesellschaftsordnungen verstanden, die von solchen Formen des Zusammenlebens unterschieden sind, welche auf Subsistenz und einem Gefühl der Gemeinsamkeit beruhen. Im besonderen ist die T. charakterisiert durch das Prinzip der Reziprozität, das sich nicht nur im ökonomischen, sondern auch im juristischen, sozialen und politischen Bereich wiederfindet.</p>\n<p>Die Kritische Theorie verbindet Marx' Untersuchungen zum Warentausch und A. SOHN-RETHELS Untersuchungen zum Zusammenhang von Tauschform und Denkform <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Demnach ist die T. durch ein bestimmtes Selbstverständnis und Weltverhältnis ausgezeichnet: Der Mensch wird nach M. HORKHEIMER und TH. W. ADORNO zum «listigen Einzelgänger» und «homo oeconomicus», dessen zwischenmenschliche Beziehungen im wesentlichen auf Betrug angelegt sind. Die Dinge erscheinen in ihrer prinzipiellen Tauschbarkeit und sind ihrer Einzigartigkeit beraubt <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"928\"></span> E. DURKHEIM: De la division du travail social (1893, Paris <sup>7</sup>1963) 1.</li>\n<li id=\"fn0-2\" value=\"2\">A. SMITH: An inqu. into the nature and causes of the wealth of nations I, 2 (1776). Works and corresp. (Oxford 1976–83) 2, 25.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. Z. BATSCHA/H. MEDICK: Einl., in: A. FERGUSON: Versuch über die Gesch. der bürgerl. Ges. [1767] (1986) 12ff.</li>\n<li id=\"fn0-4\" value=\"4\">A. FERGUSON: An essay on the hist. of civil soc. (1767, ND Farnborough 1969) 31; dtsch., a.O. [3] 121.</li>\n<li id=\"fn0-5\" value=\"5\">L. VON MISES: Nationalökonomie – Theorie des Handelns und Wirtschaftens (1940) 180.</li>\n<li id=\"fn0-6\" value=\"6\">C. SIGRIST: Regulierte Anarchie (1967) 16.</li>\n<li id=\"fn0-7\" value=\"7\">F. ENGELS: Der Ursprung der Familie, des Privateigentums und des Staates. Im Anschluß an L. H. Morgans Forsch. (1884). MEW 21 (1973) 160f.</li>\n<li id=\"fn0-8\" value=\"8\">K. MARX: Grundr. der Kritik der polit. Ökonomie (1857–58). MEW 42 (1983) 404; Das Kapital 1 (1867), a.O. 23 (1947, ND 1962) 557–614.</li>\n<li id=\"fn0-9\" value=\"9\">H. MAINE: Village communities in the East and West (1871).</li>\n<li id=\"fn0-10\" value=\"10\">F. TÖNNIES: Gemeinschaft und Gesellschaft. Grundbegriffe der reinen Soziol. (1887, ND 1970) 42.</li>\n<li id=\"fn0-11\" value=\"11\">a.O. 246; vgl. Art. <a class=\"xref\" href=\"#/a/1048\">→ Gemeinschaft</a>. Hist. Wb. Philos. 3 (1974) 239–243.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. A. SOHN-RETHEL: Zur krit. Liquidierung des Apriorismus. Eine materialist. Unters. [1937], in: Warenform und Denkform. Aufsätze (1971) 27–85; Soziolog. Theorie der Erkenntnis [1936] (1985); vgl. auch K. A. WITTFOGEL: Br. an M. Horkheimer (Nov. 1937), in: M. HORKHEIMER: Ges. Schr. 16: Br.wechsel 1937–1940, hg. G. SCHMID NOERR (1995) 284f.</li>\n<li id=\"fn0-13\" value=\"13\">M. HORKHEIMER/TH. W. ADORNO: Dial. der Aufklärung. Philos. Fragmente (1947), in: M. HORKHEIMER: Ges. Schr. 5 (1987) 85f.; vgl. auch: TH. W. ADORNO: Negat. Dialektik (1966). Ges. Schr. 6 (1973) 149ff.</li>\n</ol>",
+ "prev":{"id":3133,"lemma":"Tausch","band":"10","col":920},
+ "next":{"id":3135,"lemma":"Täuschung","band":"10","col":928},
+ "backlinks":[{"id":3133,"lemma":"Tausch","n":1}],
+ "outlinks":[{"id":1048,"lemma":"Gemeinschaft","n":1}],
+ "register":[
+  {"term":"bands of affection","qualifier":"","band":"10","col":"927"},
+  {"term":"commercial societies","qualifier":"","band":"10","col":"926"},
+  {"term":"exchange society","qualifier":"","band":null,"col":null},
+  {"term":"Gemeinschaft/Gesellschaft","qualifier":"","band":"10","col":"927"},
+  {"term":"Gesellschaft, Entwicklung der","qualifier":"","band":"10","col":"927"},
+  {"term":"homo oeconomicus","qualifier":"","band":"10","col":"928"},
+  {"term":"société échange","qualifier":"","band":null,"col":null},
+  {"term":"– I (ökon.) 6 1149–1153 s. auch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":111,"name":"M. Horkheimer","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":584,"name":"A. Ferguson","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":26,"name":"Th. W. Adorno","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":45,"name":"F. Engels","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":134,"name":"A. Smith","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":218,"name":"E. Durkheim","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":378,"name":"F. Tönnies","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2376,"name":"A. Sohn-Rethel","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5192,"name":"Maine de Biran","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6050,"name":"L. von Mises","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3481,"name":"H. Medick","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4063,"name":"Z. Batscha","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5038,"name":"K. A. Wittfogel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5647,"name":"Ch. Sigrist","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1427,"name":"G. Schmid Noerr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1099,"lemma":"Gesellschaft","tf":15},
+  {"id":695,"lemma":"Einzelne","tf":4},
+  {"id":2241,"lemma":"Organisation","tf":3}
+ ],
+ "see_also":[],
+ "groups":[{"id":42,"name":"Soziologie","label":"Tauschgesellschaft"}],
+ "reg_authors":[{"name":"Kämpf Heike","n":1}]
+}
+);

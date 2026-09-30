@@ -1,0 +1,36 @@
+HWPH.put("a/480",
+{
+ "id":480,
+ "lemma":"Cephalisation",
+ "band":"1",
+ "kind":"article",
+ "col_from":977,
+ "col_to":978,
+ "pdf_from":3388,
+ "pdf_to":3389,
+ "authors":["B. Rensch"],
+ "n_notes":4,
+ "n_chars":2282,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Cephalisation bedeutet die stammesgeschichtliche Entwicklungshöhe des Gehirns von Tieren und Menschenvorstufen. <span class=\"col\" data-col=\"978\"></span> Der C.-Grad hängt ab von der absoluten und relativen Hirngröße, von der Zahl und Struktur der Hirnneuronen (Ganglienzellen) und von dem Grade der histologischen und funktionellen Differenzierung der Hirngebiete. In vielen tierischen Stammesreihen und auch in der zum Homo sapiens führenden Vormenschen- und Frühmenschen-Reihe nahm die relative Hirngröße im Laufe der Stammesgeschichte zu. Anderseits haben allgemein größere Arten relativ kleinere Gehirne als kleine Arten der gleichen Verwandtschaftsgruppe (HALLERsche Regel <sup class=\"fn\" data-fn=\"0-1\">1</sup>). Im übrigen bedingt die spezielle Lebensweise der Arten jeweils spezifische Unterschiede einzelner Hirnabschnitte.</p>\n<p>Trotz der Verschiedenartigkeit der die C. bedingenden Komponenten ist es möglich, den C.-Grad näherungsweise durch Formeln zu erfassen. Innerhalb von Säugetiergruppen gibt z.B. der <i>allometrische Exponent a</i> (mit 0,56–0,69) aufgrundder Formel</p>\n<p>«<i>b</i> ∙ Körpergewicht<i><sup>a</sup></i>»</p>\n<p>das Gehirngewicht (in %) für jedes Körpergewicht an, während <i>b</i> den C.-Faktor darstellt <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Andere Formeln berücksichtigen stärker die Unterschiede der progressiven Hirnteile, speziell des Vorderhirns <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Der Mensch, der weder das absolut noch das relativ größte Hirn unter den Säugetieren besitzt, zeigt bei derartigen Formeln meist mit Abstand die höchsten Werte. Bei Vergleich von Arten verwandter Tiergruppen erweisen sich die Hirnleistungen meist als der absoluten Hirngröße proportional <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">A. von HALLER: Elementa physiologiae corporis humanis 4 (Lausanne 1762).</li>\n<li id=\"fn0-2\" value=\"2\">B. KLATT: Studien zum Domestikationsproblem. Untersuchungen am Hirn. Bibl. genet. (Lpz.) 1 (1921) passim; M. RÖHRS: Allometrische Untersuchungen an Canidenhirnen. Verh. dtsch. zool. Ges. (1958) 295–307.</li>\n<li id=\"fn0-3\" value=\"3\">A. PORTMANN: Cerebralisation und Ontogenese. Med. Grundlagenforsch. 4 (1962) 1–62; H. J. JERISON: Quantitative analysis of evolution of the brain in mammals. Science 133 (1961) 1012–1014; D. STARCK: Die Neencephalisation, in: G. HEBERER: Menschliche Abstammungslehre (1965) 103–144; B. RENSCH: The evolution of brain achievements. Evolut. Biol. 1 (1967) 26–68.</li>\n<li id=\"fn0-4\" value=\"4\">B. RENSCH: Die Abhängigkeit der Struktur und der Leistungen tierischer Gehirne von ihrer Größe. Naturwiss. 45 (1958) 145–154. 175–180.</li>\n</ol>",
+ "prev":{"id":479,"lemma":"Causa sui","band":"1","col":976},
+ "next":{"id":481,"lemma":"Chadô","band":"1","col":978},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Hirngrösse","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":971,"name":"B. Rensch","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":335,"name":"R. Haller","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1237,"name":"A. Portmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2974,"name":"G. Heberer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4914,"name":"H. Röhrs","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6316,"name":"D. Starck","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7283,"name":"B. Klatt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19739,"name":"H. J. Jerison","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":1288,"lemma":"Höherentwicklung"},{"id":1291,"lemma":"Hominisation"}],
+ "groups":[{"id":5,"name":"Biologie","label":"Cephalisation"}],
+ "reg_authors":[{"name":"Rensch Bernhard","n":17}]
+}
+);

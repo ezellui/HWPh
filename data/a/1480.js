@@ -1,0 +1,27 @@
+HWPH.put("a/1480",
+{
+ "id":1480,
+ "lemma":"Interpretation, temporale",
+ "band":"4",
+ "kind":"article",
+ "col_from":518,
+ "col_to":518,
+ "pdf_from":12999,
+ "pdf_to":13000,
+ "authors":["P. Probst"],
+ "n_notes":6,
+ "n_chars":1228,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Interpretation, temporale. Der Ausdruck ‹t.I.› ist eine abkürzende und auch ungenaue Formel, die den methodischen Ansatz der «I. von Sein» <sup class=\"fn\" data-fn=\"0-1\">1</sup> am «Leitfaden der Problematik der Temporalität» <sup class=\"fn\" data-fn=\"0-2\">2</sup> bei M. HEIDEGGER bezeichnen soll. «Als der Sinn des Seins des Seienden, das wir Dasein nennen, wird die Zeitlichkeit aufgewiesen» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. «Dasein <i>ist</i> in der Weise, seiend so etwas wie Sein zu verstehen. Unter Festhaltung dieses Zusammenhangs soll gezeigt werden, daß das, von wo aus Dasein überhaupt so etwas wie Sein unausdrücklich versteht und auslegt, <i>die Zeit</i> ist. Diese muß als der Horizont alles Seinsverständnisses und jeder Seinauslegung ans Licht gebracht und genuin begriffen werden. Um das einsichtig werden zu lassen, bedarf es einer <i>ursprünglichen Explikation der Zeit als Horizont des Seinsverständnisses aus der Zeitlichkeit als Sein des seinverstehenden Daseins</i>» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. «Die fundamentale ontologische Aufgabe der I. von Sein als solchem begreift daher in sich die Herausarbeitung der <i>Temporalität des Seins</i>» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Es ist zu zeigen, «<i>daß und wie im rechtgesehenen und rechtexplizierten Phänomen der Zeit die zentrale Problematik aller Ontologie verwurzelt ist</i>» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">M. HEIDEGGER: Sein und Zeit (1927, <sup>9</sup>1960) 19.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 39.</li>\n<li id=\"fn0-3\" value=\"3\">17.</li>\n<li id=\"fn0-4\" value=\"4\">ebda.</li>\n<li id=\"fn0-5\" value=\"5\">19.</li>\n<li id=\"fn0-6\" value=\"6\">18.</li>\n</ol>",
+ "prev":{"id":1479,"lemma":"Interpretation, immanente","band":"4","col":517},
+ "next":{"id":1481,"lemma":"Interrogativlogik","band":"4","col":518},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"temporale Interpretation","qualifier":"(Heidegger)","band":null,"col":null}],
+ "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":527,"lemma":"Dasein","tf":4},{"id":1310,"lemma":"Horizont","tf":2}],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Interpretation, temporale (Heidegger)"}],
+ "reg_authors":[{"name":"Probst Peter","n":51}]
+}
+);

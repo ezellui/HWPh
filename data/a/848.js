@@ -1,0 +1,27 @@
+HWPH.put("a/848",
+{
+ "id":848,
+ "lemma":"Eusebiologie",
+ "band":"2",
+ "kind":"article",
+ "col_from":828,
+ "col_to":828,
+ "pdf_from":6279,
+ "pdf_to":6279,
+ "authors":["R. Kuhlen"],
+ "n_notes":3,
+ "n_chars":757,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Eusebiologie oder «philosophische Religionslehre» nennt W. T. KRUG den dritten Teil seines Systems der praktischen Philosophie. «Der Name E. aber beruht darauf, daß unsere Religionslehre ihr Absehen vornehmlich auf Befödrung einer echten Gottesverehrung (εὐσεßεία)», und zwar «auf eine vernünftige Art» richten soll <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die E. hat als «natürliche oder philosophische Religionslehre» <sup class=\"fn\" data-fn=\"0-2\">2</sup> nicht die geoffenbarte Religion zum Gegenstand. Die «philosophierende Vernunft» soll auf Grund der «natürlichen Anlage des Menschen zur Religion» aus sich «die natürliche Grundlage» finden, die als «Prüfstein für die Wahrheit ... einer <i>positiven</i> oder <i>statutarischen Religionslehre</i>» dienen kann <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">W. T. KRUG: System der prakt. Philos. 3: Religionslehre (1819) 7.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 8.</li>\n<li id=\"fn0-3\" value=\"3\">10.</li>\n</ol>",
+ "prev":{"id":847,"lemma":"Europa, Abendland","band":"2","col":824},
+ "next":{"id":849,"lemma":"Euthanasie","band":"2","col":828},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":2673,"lemma":"Religion","tf":2}],
+ "see_also":[],
+ "groups":[{"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Eusebiologie"}],
+ "reg_authors":[{"name":"Kuhlen Rainer","n":14}]
+}
+);

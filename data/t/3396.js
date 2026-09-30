@@ -1,0 +1,48 @@
+HWPH.put("t/3396",
+{
+ "b":"Verfahren (lat. opus, factum, acta, gesta, aber auch: ars; engl. procedure; frz. procédé; russ. priëm). Das Wort ‹V.›, vorher ‹Verfahrung›, geht zurück auf das ahd. Verb ‹farfaran› für die Bewegung des Fort- oder Hinwegfahrens. ‹V.› bezeichnet die Beschäftigung mit bzw. das Tätigsein in bezug auf etwas . Die abstrakte Bedeutung der spezifischen Form eines solchen Beschäftigtseins, einer ‘Verfahrungsartʼ bzw. ‘Verfahrungsweiseʼ entsteht im 18. Jh. \nDer Begriff ‹V.› umfaßt die Aspekte des abschlußorientierten, ergebnisoffenen Fortgangs und der förmlichen, aber auf der Basis praktischer Alternativen regulierten Prozedur; in dieser Hinsicht steht das V. dem Prozeß (s.d.) nahe und ist ähnlich wie der Prozeßbegriff sowohl im technischen als auch im rechtlichen Sprachgebrauch beheimatet. Im Rahmen des letzteren beerbt ‹V.› (wie ‹Prozeß›) das lat. ‹iudicium›; im Rahmen des ersteren appelliert ‹V.› an den weiten Wortsinn von ‹Technik› (s.d.), etwa als ars (des Ingenieurs). Betont werden der pragmatische Gesichtspunkt und die Bindung an Erfahrungswissen. \nIn logischer Hinsicht korrespondiert der Begriff ‹V.› mit dem Begriff ‹Methode› (s.d.). Zu ihm steht er in einer spezifischen Spannung – nicht nur, weil man ‹Methode› als ‘Wegʼ in einen Gegensatz zu ‹V.› als ‘Bewegungʼ bringen kann, sondern auch, weil ‹V.› oftmals (und oft zugleich) als der allgemeinere Begriff verwendet wird, der ‹Methode› als den ausgezeichneten Fall eines rationalen V. unter sich faßt, das sich von anderen, nicht im selben Sinne methodischen Verfahrensweisen unterscheidet. Spätestens seit I. KANT die methodisch abgefaßte Erkenntnis als ein «V. nach Principien der Vernunft» bestimmt , ist der übergreifende V.-Begriff philosophisch fest verankert. Das erlaubt es, ‹V.› und ‹Methode› synonym zu verwenden. Es erlaubt aber auch, einen qualitativen Unterschied zwischen beiden zu machen und von daher die methodische Unbestimmtheit des V. oder aber den schöpferischen Mehrwert des V. zu behaupten, so daß sich eine Opposition zur szientifischen Idee des prinzipiengeleiteten Vorgehens ergibt. Von dieser kritischen Gegenstellung zu abstrakten Methodenidealen lebt die Vielfalt moderner V.-Begriffe. Definitorisch gefaßt findet sich der Begriff nur in Fachkontexten, so in der Kybernetik oder im Verwaltungs- und Staatsrecht . In der Philosophie hingegen bleibt der V.-Begriff heuristisch. \nKant nutzt die Zwischenstellung des Terminus zwischen pragmatisch-technischer und prozedural-juridischer Sphäre, wenn er das «V.» namentlich in der produktiven Einbildungskraft des Verstandes am Werk sieht, dem «transzendentalen Schematismus», unter den die Erscheinungen subsumiert werden. Ausgehend von der Bedingung der Sinnlichkeit und dem Schema des Verstandesbegriffes, sei der Schematismus des reinen Verstandes «das V. des Verstandes mit diesen Schematen» zu nennen . \nMit einem reflektierten Begriff des V. wird auch in Poetologie und Ästhetik um 1800 operiert, und zwar dort, wo die Dichtung sich als Ars begreift und auf ihre «Verfahrungsweisen» abhebt . Für die Literaturtheorie des russischen Formalismus formuliert V. ŠKLOVSKIJ 1919 das Programm einer «Kunst als V.» mit dem zentralen V. («priëm») der Verfremdung (s.d.) («priëm ostraneija») . Zielt der Formalismus mit dem V. auf das «Machen einer Sache» und gerade gegen das automatische Moment , so verbindet der Surrealismus (s.d.) mit dem Begriff das Gegenteil: eine Intensivierung der Kunsterfahrung mittels Automatismus und technischem Zwang. In diesem Sinne versteht M. ERNST das «procédé de frottage» 1935 als «le veritable équivalent» der literarischen «écriture automatique» . \nZentrale Bedeutung gewinnt die V.-Kategorie im modernen Recht, das sich auf ein naturrechtskritisches Selbstverständnis gründet, und zwar zunächst im Neukantianismus, danach in positivistisch-rechtsrealistischem Kontext unter dem Einfluß der Soziologie. 1919 bestimmt F. SANDER das Rechtsverfahren transzendental als «kontinuierlich ins Unendliche fortschreitende Synthesis von Einheit und Mannigfaltigkeit des reinen Willens», weswegen es alle Stufen des Rechts durchwalte und die «Lehre vom V. beanspruchen dürfe, die Königin der Rechtswissenschaften zu werden» . Im Anschluß an W. SAUERS «prozessuale Rechtsbetrachtung» bezeichnet der Prozeßrechtler J. GOLDSCHMITT Verfahrensfragen als ihrem Wesen nach «metarechtlich» . Die Soziologie von B. HORVATH entwickelt von hier aus eine Gesellschaftstheorie: Institutionen sind «im Grunde nichts anderes als besonders eingefleischte Verfahrenskomplexe», «im gesellschaftlichen Leistungszusammenhang» stellt das Recht «das jeweils entwickeltste V.» dar . Vor diesem Hintergrundwäre dann der Gesellschaftsplan einer «Plangesellschaft» «nur die Verdopplung des Verfahrensprinzips, das V. des V.» . \nIn der juristischen Dogmatik der zweiten Hälfte des 20. Jh. fällt der V.-Begriff ganz an die Prozeßrechtslehre zurück. Zum Schlüsselthema wird das V. hingegen in der Rechtssoziologie. H. SCHELSKY diagnostiziert eine eigenständige «institutionelle Verfahrens-Rationalität der juridischen Institutionen» . Für die Folgezeit prägend analysiert N. LUHMANN die Genese der rechtlichen Bindung als autonome Leistung des V. Luhmann definiert V. funktional; es ist ein besonderes «soziales Handlungssystem», das Leistungen im Hinblick auf «Episodisierung, Zielmarkierung, temporale Differenzierung im Recht» erbringt . Die Pointe des V. liegt in seiner Legitimationsfunktion, in der «Mobilisierung juristisch nicht programmierter Motive, im Anzapfen neuer Motivquellen für die Stützung bindender Entscheidungen» ; konkret isolieren V. die Betroffenen, neutralisieren Konfliktthemen und absorbieren Proteste. «Motor des V. aber ist die Ungewißheit über den Ausgang», diese ist «der eigentlich legitimierende Faktor» , sie kann augenscheinlich die Beteiligten in ein Rollenspiel verstricken, «die Persönlichkeit einfangen, umbilden und zur Hinnahme von Entscheidungen motivieren» . \nIm Rahmen seiner Diskurstheorie sieht J. HABERMAS den spezifischen «Fallibilismus» des nachmetaphysischen Denkens in der «Unbestimmtheit des diskursiven V.» gegründet . Seit den 1980er Jahren hat man das solchermaßen als Quelle praktischer Vernunft aufgefaßte V. zum Paradigma des sog. ‘Prozeduralismusʼ erhoben. Seinen philosophischen Grund hätte dieser in der als «Demokratieprinzip» und «deliberative Politik» zutage tretenden «Verfahrensrationalität» des Rechtsstaats oder auch in einer expliziten «Verfahrensethik», wie sie etwa CH. TAYLOR vorgeschlagen hat .",
+ "n":"Vgl. Art. ‹Verfahren› und ‹Verfahrung›. GRIMM 12/I (1956) 286–294. \nVgl. Art. ‹Verfahrungsart› und ‹Verfahrungsweise›, a.O. 293f. \nI. KANT: KpV A 269. Akad.-A. 5, 151. \nVgl. etwa: Art. ‹Programmsprachen›, in: G. KLAUS (Hg.): Wb. der Kybernetik (1967) 492f. mit der Definition der «Verfahrenssprachen» unter den «operativen Sprachen». \nVgl. E. SCHMIDT-ASSMANN: Der Verfahrensgedanke in der Dogmatik des öffentl. Rechts, in: P. LERCHE/W. SCHMITT GLAESER/E. SCHMIDT-ASSMANN: V. als staats- und verwaltungsrechtl. Kategorie (1984) 1–34. \nI. KANT: KrV A 140/B 179. \nVgl. etwa: F. HÖLDERLIN: Über die Verfahrungsweise des poet. Geistes [1800]. Stuttg. Ausg., hg. F. BEISSNER 4/1 (1961) 241ff. \nV. ŠKLOVSKIJ: Iskusstvo kak priëm, in: Poetika. Sborniki po teorii poetièeskogo jazyka (1919) 101–114; dtsch.: Die Kunst als V., in: J. STRIEDTER (Hg.): Russ. Formalismus (1969) 3–35. \ndtsch., a.O. 11f. \nM. ERNST: Au-delà de la peinture. Cah. d'Art. Minotaure 11 (1936) H. 6/7, 149–184, 156. \nF. SANDER: Die transzendentale Methode der Rechtsphilos. und der Begriff des Rechtsverfahrens. Z. öffentl. Recht 1 (1919/1920) 468–507, zit. 478f. \nVgl. W. SAUER: Grundlagen des Prozeßrechts (1919) 13ff. \nVgl. J. GOLDSCHMITT: Der Prozeß als Rechtslage. Eine Kritik des prozessualen Denkens (1925) 212f. \nB. HORVATH: Rechtssoziologie (1934) 271f. 274. \na.O. 281. \nH. SCHELSKY: Die juridische Rationalität, in: Die Soziologen und das Recht (1980) 34–76, zit. 50. \nN. LUHMANN: Legitimation durch V. (21989) 38; Das Recht der Gesellschaft (1993) 179. \nLegit., a.O. 79. \na.O. 116. \n87. \nJ. HABERMAS: Erläut. zur Diskursethik (21992) 201. \nFaktizität und Geltung (1992). \nCH. TAYLOR: Die Motive einer Verfahrensethik, in: W. KUHLMANN (Hg.): Moralität und Sittlichkeit (1986) 101–135.",
+ "l":"",
+ "au":"Red",
+ "A":["Red"],
+ "cb":[
+  [0,632],
+  [452,632],
+  [1062,632],
+  [2375,632],
+  [2676,633],
+  [2852,633],
+  [3628,633],
+  [4770,633],
+  [5284,634],
+  [5942,634]
+ ],
+ "cn":[
+  [0,632],
+  [0,634],
+  [68,634],
+  [131,634],
+  [169,634],
+  [335,634],
+  [534,634],
+  [561,634],
+  [688,634],
+  [873,634],
+  [892,634],
+  [981,634],
+  [1129,634],
+  [1186,634],
+  [1285,634],
+  [1333,634],
+  [1344,634],
+  [1443,634],
+  [1529,634],
+  [1547,634],
+  [1558,634],
+  [1563,634],
+  [1615,634],
+  [1647,634]
+ ],
+ "cl":[]
+}
+);

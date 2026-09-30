@@ -1,0 +1,48 @@
+HWPH.put("a/2602",
+{
+ "id":2602,
+ "lemma":"Rechtsakt",
+ "band":"8",
+ "kind":"article",
+ "col_from":265,
+ "col_to":266,
+ "pdf_from":31044,
+ "pdf_to":31048,
+ "authors":["A. Trupp"],
+ "n_notes":10,
+ "n_chars":5490,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Rechtsakt. Die Problematik der Einordnung normativer Akte als R., d.h. die Frage nach den Definitionskriterien des R., findet sich bereits bei Perikles <sup class=\"fn\" data-fn=\"0-1\">1</sup>. In einem von XENOPHON überlieferten Gespräch zwischen Perikles und dem jungen Alkibiades vertritt Perikles zunächst die Ansicht, daß für die Erzeugung von Recht bereits die Erfüllung formaler Kriterien (z.B. schriftliche Festlegung) ausreichend sei. Auf die Frage des Alkibiades, ob auch der Akt eines Tyrannen Recht sei, wenn er nur die erforderlichen formalen Kriterien erfülle, kommen Perikles Zweifel an der zuvor von ihm geäußerten Ansicht, und er schränkt seine Position dahingehend ein, daß einem Akt auch ein gewisser materieller Gehalt zukommen müsse, um als R. qualifiziert zu werden. Auch die Frage nach dem Verhältnis von Recht und Gewalt kommt zur Sprache. Damit sind die wesentlichen Punkte genannt, die die Diskussion um den Begriff des R. in der Folgezeit beherrscht haben, und die entscheidenden Gegenpositionen der Naturrechtslehre einerseits und des Rechtspositivismus andererseits sind bereits zu erkennen.</p>\n<p>Mehr als zwei Jahrtausende später nimmt I. KANT zur Abgrenzung von Recht und anderen Normen menschlichen Verhaltens Stellung. Danach überläßt das Recht es dem Adressaten, den Zweck seiner <span class=\"col\" data-col=\"266\"></span> Handlung selbst zu bestimmen, denn es verlangt nur ein äußeres (und kein inneres) Verhalten. Lediglich die Maxime seiner Handlung sei a priori bestimmt: «daß nämlich die Freiheit des Handelnden mit Jedes anderen Freiheit nach einem allgemeinen Gesetz zusammen bestehen könne» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Normen der Ethik hingegen stellen nach Kant dem Adressaten die Auswahl seiner Handlungszwecke nicht frei, sondern schreiben ihm gerade vor, bestimmte Zwecke sich zu eigen zu machen <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Ferner sei die «Rechtspflicht» von der «Tugendpflicht» darin unterschieden, daß zu ihrer Durchsetzung ein «äußerer Zwang moralisch-möglich» sei; die Erfüllung der «Tugendpflicht» beruhe «auf dem freien Selbstzwange» <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Während bei den genannten Autoren der Begriff ‹R.› nicht explizit verwendet wird, wird ihm in der «Reinen Rechtslehre» H. KELSENS breiter Raum gegeben. Zum einen unterscheidet die Reine Rechtslehre den R. von anderen Akten normativer Art (u.a. auch von dem Befehl eines Räubers), andererseits differenziert sie innerhalb der Rechtsordnung zwischen solchen R., mit denen eine generelle Norm gesetzt wird (Gesetz), und denjenigen R., die eine generelle Norm anwenden und somit ihrerseits individuelle Normen bilden. Begriffsnotwendig für den R. sei es, daß die durch ihn geschaffene Norm in eine Stufenbauordnung eingefügt sei, die aus höheren und niederen Normen bestehe. Die jeweils höheren Normen würden dabei die Erzeugung der jeweils niederen Normen bestimmen <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Die Geltungsberechtigung der höchsten positiven Rechtsnorm liege in der sogenannten Grundnorm, die nicht positiv gesetzt, sondern nur zum Zwecke des Abbruches des (ansonsten unendlichen) Normerzeugungsregresses vorausgesetzt werde. Inhaltlich ordne die Grundnorm lediglich an, daß man sich verfassungsgemäß verhalten solle <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In der Postulierung einer solchen (nicht positiv gesetzten) Grundnorm liege kein Zugeständnis an die Naturrechtslehre, da die Grundnorm keinen materiellen, sondern nur einen formellen Charakter besitze <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Weil die Einordnung eines Aktes als R. nicht allein mit Hilfe einer logischen Subsumtion eines konkreten Sachverhalts unter einen abstrakten Begriff geleistet werden könne, sondern eine Interpretation der Rechtsordnung erfordere, sei eine Entscheidung, d.h. ein Willensakt notwendig. Dieser Willensakt werde ausschließlich von den in der Rechtsordnung bestimmten Organen und nicht etwa von der Rechtswissenschaft gesetzt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. – Im Falle der revolutionären Totaländerung einer Verfassung tritt die Situation ein, daß der neue verfassunggebende Akt kein Bestandteil der alten Rechtsordnung sein kann und es auch nicht sein will, wodurch ihm eigentlich der Charakter eines R. überhaupt nicht zukäme. Die Reine Rechtslehre löst dieses Problem dadurch, daß sie die durch den verfassunggebenden Akt inaugurierte neue Rechtsordnung als eine potentielle begreift, welche erst dadurch, daß sie wirksam werde (d.h. indem die Individuen diese Ordnung tatsächlich im großen und ganzen befolgen), zur aktuellen Rechtsordnung werde. In diesem Fall werde von den Normadressaten nicht mehr die alte, sondern die neue Grundnorm vorausgesetzt <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Auch A. J. MERKL erblickt das Wesen des R. in seiner Einbettung in einen Stufenbau von Normen. Die R. unterliegen nach Merkl dem Prinzip der Bedingtheit, d.h. jeder R. muß sich als von der jeweils höheren Rechtsstufe bedingt erweisen und gleichzeitig die jeweils nächst niedrigere Stufe bedingen. Ausnahmen bilden nur die höchste und die niedrigste Stufe, wobei letztere als vollziehender R. nicht mehr bedingend wirke und die Ursprungsnorm als höchste Norm nicht mehr bedingt werden könne <sup class=\"fn\" data-fn=\"0-10\">10</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"266\"></span> XENOPHON: Memor. I, 2, 40–46. Opera omn., hg. E. C. MARCHANT 2 (Oxford <sup>2</sup>1921, ND 1949).</li>\n<li id=\"fn0-2\" value=\"2\">I. KANT: Met. der Sitten II. Met. Anfangsgr. der Tugendl., Einl. II (1797). Akad.-A. 6, 382.</li>\n<li id=\"fn0-3\" value=\"3\">a.O.</li>\n<li id=\"fn0-4\" value=\"4\">a.O. 383.</li>\n<li id=\"fn0-5\" value=\"5\">H. KELSEN: Was ist ein R.? Österr. Z. öffentl. Recht, NF 4 (1951/52) 263–274, ND in: H. KLECATSKY u.a. (Hg.): Die Wiener Rechtstheoret. Schule. Ausgew. Schr. von H. Kelsen, A. Merkl und A. Verdross (Wien 1968) 2, 1382.</li>\n<li id=\"fn0-6\" value=\"6\">a.O.</li>\n<li id=\"fn0-7\" value=\"7\">a.O. 1383.</li>\n<li id=\"fn0-8\" value=\"8\">1384.</li>\n<li id=\"fn0-9\" value=\"9\">1390f.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. die Darst. bei S. L. PAULSON: Zur Stufenbaulehre Merkls in ihrer Bedeut. für die Allg. Rechtsl., in: A. J. Merkl – Werk und Wirksamkeit, hg. R. WALTER (Wien 1990) 93ff.</li>\n</ol>",
+ "prev":{"id":2601,"lemma":"Rechtfertigung","band":"8","col":251},
+ "next":{"id":2603,"lemma":"Rechtsdogmatik","band":"8","col":266},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Rechtsordnung","qualifier":"","band":"8","col":"266"}],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":204,"name":"Xenophon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":269,"name":"H. Kelsen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3263,"name":"R. Walter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6570,"name":"A. J. Merkl","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":12542,"name":"S. L. Paulson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":27225,"name":"H. Klecatsky","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":27224,"name":"E. C. Marchant","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1194,"lemma":"Grundnorm","tf":5},
+  {"id":2160,"lemma":"Norm","tf":11},
+  {"id":2612,"lemma":"Rechtsordnung","tf":6},
+  {"id":2609,"lemma":"Rechtslehre","tf":3},
+  {"id":2598,"lemma":"Recht","tf":5},
+  {"id":687,"lemma":"Einordnung","tf":2},
+  {"id":1105,"lemma":"Gesetz","tf":2},
+  {"id":3406,"lemma":"Verhalten","tf":2},
+  {"id":946,"lemma":"Freiheit","tf":2},
+  {"id":890,"lemma":"Fall, Abfall","tf":2},
+  {"id":486,"lemma":"Charakter","tf":2}
+ ],
+ "see_also":[{"id":2609,"lemma":"Rechtslehre"}],
+ "groups":[{"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Rechtsakt"}],
+ "reg_authors":[{"name":"Trupp Andreas","n":4}]
+}
+);

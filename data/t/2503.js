@@ -1,0 +1,37 @@
+HWPH.put("t/2503",
+{
+ "b":"Pseudonym, Pseudonymität. Daß literarische Werke unter anderem Namen als dem des Autors erscheinen, ist seit der Antike bekannt . Erst im 16. oder 17. Jh. aber, der Hochblüte in der Kunst der Verschleierung von Autorschaften, wurde zur Bezeichnung der Falschnamigkeit das Wort ‹P.› geprägt . \nDie Gründe, die zur Verwendung von P.en führten, sind überaus vielfältig; sie reichen vom Wunsch, die eigene Produktion mit dem Klang eines großen Namens zu versehen, bis hin zum rhetorischen Ehrgeiz, den Stil eines andern Autors täuschend nachahmen zu können , von der Furcht vor Verfolgung und Verfemung bis hin zur Kaschierung der des eigenen Standes unwürdigen literarischen Tätigkeit . Philosophische Bedeutung erlangt die Pseudonymität [Pt.] jedoch erst mit S. KIERKEGAARD. Anfänglich sind es zwar weitgehend persönliche und taktische Gründe, die Kierkegaard zur Wahl von P.en und zur Wahrung der «Anonymität» veranlaßten. Mit wachsendem Bewußtsein über seine Aufgabe und seine Stellung als Schriftsteller wird jedoch Pt. für ihn zu einem aus grundsätzlichen, ethischen und kommunikationstheoretischen Erwägungen eingesetzten literarischen Mittel. \nNicht unbeeinflußt von romantischen Vorbildern läßt Kierkegaard seine P.e als «produzierende, dichterisch-wirkliche Individualitäten» auftreten, die jeweils «einen Punkt, eine Stellung, eine Position» markieren und die «Lebensanschauung», die sie vertreten, in ihrer gedachten Existenz reduplizieren . In einer «demoralisierten» Zeit, in der man nur noch als «phantastisches reines Ich oder dessen ‘Bauchrednerʼ» auftritt und sich von der «Anonymität der Tagespresse» «als dem höchsten Ausdruck des Abstrakten, Unpersönlichen, Reuelosen, Unverantwortlichen» beherrschen läßt , sollen die Menschen durch die Verwendung «erdichteter Persönlichkeiten» wieder daran gewöhnt werden, «ein Ich, ein persönliches Ich» sprechen zu hören . Gerade weil es Kierkegaard um persönliche Mitteilung geht, hat er es nach seiner eigenen Erklärung für unabdingbar gehalten, P.e an seiner Stelle sprechen zu lassen. «Um der Replik, um der psychologisch variierten Individualitätsverschiedenheit willen» war dichterisch eine «Rücksichtslosigkeit hinsichtlich (der Darstellung) des Guten und Bösen, der Zerknirschung und der Ausgelassenheit, der Verzweiflung und des Übermutes» usw. erforderlich, «welche sich keine faktisch wirkliche Person in der sittlichen Begrenzung der Wirklichkeit erlauben darf» . Kierkegaard besteht daher mit Nachdruck darauf, daß man stets klar zu unterscheiden habe zwischen dem, was er im eigenen Namen, und dem, was er in seinen Pseudonymen Werken veröffentlicht habe, für die er zwar «juristisch und literarisch» die Verantwortung trage , in denen aber «kein Wort» von ihm selbst stamme und zu denen er nicht «das entfernteste private Verhältnis» habe, «wie dies zu haben denn auch unmöglich ist zu einer doppelt-reflektierten Mitteilung» . \nDie P.e, die nach Kierkegaard in ihrer Gesamtheit die verschiedenen Stadien der Existenz repräsentieren , geben ihm die Möglichkeit, seinen eigenen persönlichen Standpunkt genauer zu bestimmen. Er unterscheidet dabei zwischen den P.en, die tiefer stehen als er selbst, und der sogenannten «neuen Pt.» des Anti-Climacus, der eine höhere Position markiere: durch dessen von allen Rücksichten freie Darstellung der höchsten christlichen Idealität . \nIm Rückblick auf seine Tätigkeit als Schriftsteller gibt Kierkegaard seinen Pseudonymen Werken eine neue Deutung: Die dem Ästhetischen verpflichtete Pseudonyme Produktion in ihrer Totalität sei ein Mittel der indirekten Mitteilung [s.d.]; sie diene dazu, «hineinzutäuschen in das Wahre» : «Der Anfang wird gemacht mit dem Ästhetischen, darin vielleicht die meisten ihr Leben haben, und nunmehr wird das Religiöse so geschwinde angebracht, daß die, welche, vom Ästhetischen bewogen, sich entschließen mitzugehn, plötzlich mitten in den entscheidenden Bestimmungen des Christlichen stehen, dazu veranlaßt, zum mindesten aufmerksam zu werden» . Um zu signalisieren, daß es ihm, Kierkegaard, von Anbeginn um das Religiöse zu tun gewesen sei, habe er aber unter seinem eigenen Namen «gleichzeitig mit der Pseudonymen Schriftstellerei» immer wieder religiöse Werke erscheinen lassen, die «in Richtung auf das Religiöse telegrafierten» . \nErst am Ende seines Lebens wagt Kierkegaard nach langem Reflexionskampf den entscheidenden letzten Schritt: nicht bloß «Dichter» zu sein, sondern «in Charakter» zu treten , um zunächst «im eigenen Namen» und schließlich in Christi Namen sein vernichtendes Urteil über den Zustand des Christentums in der Christenheit öffentlich auszusprechen.",
+ "n":"Vgl. J. A. SINT: Pt. im Altertum (1960). \nVgl. A. TAYLOR/F. J. MOSHER: The bibliogr. hist. of anonyma and pseudonyma (Chicago 1951) 85. \nSINT, a.O. [1], bes. 103. 90ff. \nVgl. etwa H. MATTHES: Die Verschleierung der Verfasserschaft bei engl. Dichtungen des 18. Jh., in: W. HORN (Hg.): Beiträge zur Erforsch. der Sprache und Kultur Englands und Nordamerikas 4 (1928) 33–112; E. BORMANN: Die Kunst des P. (1901). \nVgl. etwa: Breve og Aktstykker vedrørende S. Kierkegaard, hg. N. THULSTRUP 1 (Kopenhagen 1953) 107. \nVgl. etwa S. KIERKEGAARD: Papirer, hg. P. A. HEIBERG/V. KUHR/E. TORSTING (Kopenhagen 1909ff.) [Pap.] I, C, 69; dazu F. J. BILLESKOV-JANSEN: Studier i S. Kierkegaards litt. Kunst (Kopenhagen 1951) 21ff. \nSamlede Værker [SV], hg. A. B. DRACHMANN/J. L. HEIBERG (Kopenhagen 1920ff.) VII, 616; dtsch.: Abschließende unwissenschaftl. Nachschr. 2. Teil (1958) 339. \nPap. X, 1, A, 450. \nVgl. etwa Pap. VII, 1, B, 83. \nPap. VIII, 2, B, 88, p. 183. \nSV XIII, 581; dtsch.: Die Schr. über sich selbst (1951) 51. \nPap. VIII, 2, B, 88, p. 183; X, 1, A, 531. \nSV VII, 617; dtsch., a.O. [7] 339; Pap. VII, 1, B, 78. \nVgl. SV VII, 617; dtsch., a.O. 341; Pap. X, 1, A, 161; VI, B, 184f., p. 255. 259. \nSV VII, 617; dtsch., a.O. 340. \nPap. VII, 1, A, 106, p. 53. \nVgl. etwa: Pap. X, 2, A, 66. 184; X, 1, A, 529f. 548. 615; X, 3, A, 210; SV XIII, 528; dtsch., a.O. [11] 4. \nSV XIII, 529; dtsch., a.O. 6. \nSV XIII, 530; dtsch. a.O. \nSV XIII, 577; dtsch., a.O. 48. \nVgl. etwa Pap. X, 6, B, 234. 145; dazu: E. HIRSCH: Kierkegaard-Studien (1930ff.) 2, 133–430. \nSV XIV, 145; dtsch.: Der Augenblick (1959) 135.",
+ "l":"E. HIRSCH s. Anm. [21]. – L. BEJERHOLM: ‘Meddelelsens Dialektikʼ. Studier i S. Kierkegaards teorier om språk, kommunikation och pseudonymitet (Kopenhagen 1962) bes. 210–303.",
+ "au":"A. Hügli",
+ "A":["A. Hügli"],
+ "cb":[[0,1567],[293,1567],[1148,1567],[1242,1568],[2899,1568],[3346,1568],[4278,1568],[4620,1569]],
+ "cn":[
+  [0,1567],
+  [0,1568],
+  [42,1568],
+  [137,1568],
+  [170,1568],
+  [411,1568],
+  [512,1568],
+  [715,1568],
+  [871,1568],
+  [891,1568],
+  [922,1568],
+  [952,1568],
+  [1013,1568],
+  [1057,1568],
+  [1113,1568],
+  [1196,1568],
+  [1228,1568],
+  [1257,1568],
+  [1366,1568],
+  [1395,1569],
+  [1397,1569],
+  [1424,1569],
+  [1456,1569],
+  [1550,1569]
+ ],
+ "cl":[[0,1569]]
+}
+);

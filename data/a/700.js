@@ -1,0 +1,37 @@
+HWPH.put("a/700",
+{
+ "id":700,
+ "lemma":"Eklektizismus",
+ "band":"2",
+ "kind":"article",
+ "col_from":432,
+ "col_to":433,
+ "pdf_from":5004,
+ "pdf_to":5006,
+ "authors":["W. Nieke"],
+ "n_notes":7,
+ "n_chars":2543,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Eklektizismus. Ein wortgeschichtlicher Vorläufer des Begriffs ‹E.› ist das Adjektiv ‹eklektisch›, das sich – durchaus in der Bedeutung des späteren Substantivs – bei DIOGENES LAERTIUS findet: <span class=\"col\" data-col=\"433\"></span> «Übrigens tat sich erst vor kurzem noch eine eklektische Sekte (ἐκλεκτική τις αἵρεσις εἰσήχθη) auf unter Führung des Potamon aus Alexandreia, der sich aus den Lehren aller Sekten auswählte, was ihm gefiel» <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Nach einer Mitteilung HEGELS <sup class=\"fn\" data-fn=\"0-2\">2</sup> hat J. J. BRUCKER in seiner lateinisch geschriebenen Philosophiegeschichte dieses Adjektiv als erster in der Neuzeit wieder aufgenommen (1742). In der <i>französischen Enzyklopädie</i> wird der Begriff 1755 <sup class=\"fn\" data-fn=\"0-3\">3</sup> ausführlich abgehandelt, während J. G. WALCH in den Ausgaben seines philosophischen Lexikons von 1733 und 1775 nur «eklektische Philosophie» behandelt. HEGEL bedient sich erstmals 1802 des Substantivs <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Er hält E. für «etwas sehr Schlechtes, wenn er in dem Sinn genommen wird, daß ohne Konsequenz aus dieser Philosophie dieses, aus einer anderen etwas Anderes aufgenommen wird» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. W. T. KRUG erkennt an, daß es sinnvoll ist, das jeweils Richtige aus den verschiedenen Systemen der Philosophie auszuwählen, sieht aber eine unlösbare Schwierigkeit darin, nach welchen Gesichtspunkten diese Auswahl getroffen werden soll. Deshalb hat der E. «der Philosophie nie Heil gebracht» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Im Gegensatz zu diesen deutschen Denkern, die das systematische Denken dem E. vorziehen, bekennt sich V. COUSIN nachdrücklich zum E. als einer Methode, mit der gerecht und wohlwollend alles Allgemeine und Wahre aus den verschiedenen Lehren ausgewählt werde: «ce que je recommande, c'est cet éclectisme éclairé qui, jugeant avec équité et même avec bienveillance toutes les doctrines, leur emprunte ce qui elles ont de commun et de vrai, néglige ce qu'elles ont d'opposé et de faux» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Im gegenwärtigen Gebrauch hat der Begriff tadelnden Beiklang: Meist nennt man ‹E.› nur eine solche Übernahme fremder Lehrsätze, der die Kraft fehlt, das Übernommene miteinander zu verschmelzen und unter einem höheren oder neuen Gesichtspunkt umzuformen.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">DIOGENES LAERTIUS I, 21; dtsch. O. APELT (1921) 9.</li>\n<li id=\"fn0-2\" value=\"2\">G. W. F. HEGEL, Vorles. über die Gesch. der Philos. Werke, hg. GLOCKNER 19, 34.</li>\n<li id=\"fn0-3\" value=\"3\">Encyclop. ou. dict. raisonné ..., hg. DIDEROT/d'ALEMBERT (Paris 1751ff.) 5, 270–292: Art. ‹Eclecticisme›.</li>\n<li id=\"fn0-4\" value=\"4\">HEGEL, Das Verhältnis des Skeptizismus zur Philos. a.a.O. 1, 246.</li>\n<li id=\"fn0-5\" value=\"5\">19, 32.</li>\n<li id=\"fn0-6\" value=\"6\">W. T. KRUG: Handwb. der philos. Wiss. (1827) 627f.</li>\n<li id=\"fn0-7\" value=\"7\">V. COUSIN: Discours prononcé à l'ouverture du cours, le 4 déc. 1817, in: Cours de l'hist. de la philos. moderne 1/2 (Paris 1846) 12.</li>\n</ol>",
+ "prev":{"id":699,"lemma":"Ekel","band":"2","col":432},
+ "next":{"id":701,"lemma":"Ekpyrosis","band":"2","col":433},
+ "backlinks":[{"id":2818,"lemma":"Sekte","n":1},{"id":3678,"lemma":"Zeitgeist","n":1}],
+ "outlinks":[],
+ "register":[{"term":"– I (Schule) 9 274–284 s. auch","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":4,"name":"G. W. F. Hegel","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":59,"name":"Diogenes Laertius","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":416,"name":"V. Cousin","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":57,"name":"D. Diderot","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":94,"name":"J. G. Walch","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":2021,"name":"J. J. Brucker","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4946,"name":"O. Apelt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":2}],
+ "see_also":[{"id":2818,"lemma":"Sekte"}],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Eklektizismus"}],
+ "reg_authors":[{"name":"Nieke Wolfgang","n":18}]
+}
+);

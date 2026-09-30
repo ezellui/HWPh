@@ -1,0 +1,77 @@
+HWPH.put("a/2235",
+{
+ "id":2235,
+ "lemma":"Ordnung der Begriffe",
+ "band":"6",
+ "kind":"article",
+ "col_from":1310,
+ "col_to":1312,
+ "pdf_from":24447,
+ "pdf_to":24453,
+ "authors":["W. Sauer"],
+ "n_notes":21,
+ "n_chars":7185,
+ "toc":[["h5","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Ordnung der Begriffe. Analog zum Aufbau von Axiomensystemen aus Sätzen stellt sich bei der O.d.B. die Aufgabe, Grundbegriffe und Bildungsregeln anzugeben, durch die eine intendierte Klasse von Begriffen systematisch aufgebaut und dadurch geordnet werden kann. Die Methode kann entweder die sein, daß in genauer Entsprechung zu einem Axiomensystem die <i>Konjunktion</i> der Grundbegriffe und nur sie die materiale Basis des Begriffsaufbaus bildet, oder aber die, daß die Grundbegriffe als <i>getrennte</i> summa genera angesetzt werden, die durch Hinzufügung materialer Bestimmungen (differentiae) zu Klassen untergeordneter Begriffe führen. Der erste Ansatz kann in Anschluß an CARNAP als konstitutionstheoretisch bezeichnet werden, der zweite ist die klassifikatorische O.d.B. in Gattungen und Arten. Welcher Ansatz für welche Begriffsbereiche als adäquat und im allgemeinen als der grundlegendere betrachtet wird, hängt wie die Wahl der Grundbegriffe, Bildungsregeln und allfälliger Zusatzpostulate (z.B. LEIBNIZ' «continuum formarum») von den metaphysischen und erkenntnistheoretischen Voraussetzungen der jeweiligen O.d.B. ab.</p>\n<p>Beide Ansätze treten in elementarer Form bereits bei PLATON auf; die Frage nach der Struktur seiner Ideenwelt führt Platon zur Methode der Teilungen <span class=\"col\" data-col=\"1311\"></span> und Zusammenfassungen (διαίρεσις und συναγωγή) <sup class=\"fn\" data-fn=\"0-1\">1</sup> als Mittel der klassifikatorischen Begriffsordnung (s. Art. <a class=\"xref\" href=\"#/a/597\">→ Dihairesis</a>) und zu einer als systematische Erzeugung der Ideen aus der Eins und der unbegrenzten Zwei (ἕν und ἀόριστος δυάς) <sup class=\"fn\" data-fn=\"0-2\">2</sup> auftretenden Antizipation einer Konstitutionstheorie. ARISTOTELES schließt mit seiner Klassifikationslehre an Platon an (s. Art. <a class=\"xref\" href=\"#/a/597\">→ Dihairesis</a>). Das wesentlich Neue bei ihm sind die Lehre von den Kategorien als summa genera, die die verschiedenen Bedeutungen von Sein ausdrücken <sup class=\"fn\" data-fn=\"0-3\">3</sup>, und die die möglichen Arten der Beziehung des Prädikats zum Subjekt in einem Satz behandelnde Prädikabilienlehre <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<p>Für die Tradierung der aristotelischen Ordnungsschemata war PORPHYRIOS' (Einleitung in die Kategorien) von fundamentaler Bedeutung. Porphyrios präsentiert hier die von BOETHIUS erstmals graphisch dargestellte, als arbor porphyriana bekannte Begriffspyramide <sup class=\"fn\" data-fn=\"0-5\">5</sup> sowie eine zur mittelalterlichen Lehre von den quinque voces führende Erweiterung der Prädikabilienlehre <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Das <i>Mittelalter</i> bewegt sich weitgehend in dem von Aristoteles und dessen spätantiken Kommentatoren, vor allem von Porphyrios und Boethius, geschaffenen Begriffsordnungsrahmen. Als bedeutsamer Neuansatz ist hervorzuheben der seltsame, in seinem rationalen Kern aber zukunftsweisende und noch auf Leibniz stark wirkende konstitutionstheoretische Versuch des RAIMUNDUS LULLUS zu einer begriffskombinatorischen scientia generalis, in der die Prinzipien der übrigen Wissenschaften «implicita et contenta» sein sollen «sicut particulare in universali» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Mit DESCARTES' erkenntnistheoretischem Neuansatz in der Philosophie wandelt sich auch die Auffassung vom Wesen einer O.d.B. Die antik-mittelalterliche Tradition war von der totalen Entsprechung zwischen begrifflicher und ontologischer Ordnung ausgegangen (ὡς γὰρ ἔχει τὰ πράγματα, οὕτως καὶ αἱ ταῦτα πρώτως δηλοῦσαι λέξεις) <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Descartes hingegen setzt in den ‹Regulae› die beiden Ordnungen scharf voneinander ab, indem er das Postulat aufstellt, «daß alle Dinge sich in Reihen anordnen lassen, nicht insofern sie auf eine bestimmte Gattung des Seins bezogen, ... sondern insofern die einen aus den anderen erkannt werden können» (res omnes per quasdam series posse disponi, non quidem in quantum ad aliquod genus entis referuntur, ... sed in quantum unae ex aliis cognosci possunt) <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Die hier geforderte Ordnung entspringt ausschließlich dem Erkenntniszusammenhang der Begriffe (ideae), der in der evidentia und certitudo des intuitus einer Begriffsverbindung gründet <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Das Ziel ist die Konstruktion von Begriffsreihen durch Bildung komplexer aus einfachen Begriffen in der Weise, daß diese Reihen erkenntnismäßige Ordnungsrelationen darstellen <sup class=\"fn\" data-fn=\"0-11\">11</sup>; Endzweck ist die Bildung einer Einheitswissenschaft, der sapientia universalis <sup class=\"fn\" data-fn=\"0-12\">12</sup>. LEIBNIZ knüpft in seinem ganz ähnlichen Programm einer scientia generalis, deren organon die begriffskombinatorische Idealsprache der characteristica universalis ist <sup class=\"fn\" data-fn=\"0-13\">13</sup>, ausdrücklich an Descartes an <sup class=\"fn\" data-fn=\"0-14\">14</sup> und fügt diesem kartesianischen (und lullischen) Ordnungsprogramm als weiteres universelles Ordnungsprinzip das Kontinuitätsprinzip hinzu, das ein Kontinuum von Artbegriffen fordert <sup class=\"fn\" data-fn=\"0-15\">15</sup>. KANT führt das Programm der characteristica universalis und das Prinzip des continuum formarum in kritizistischer Transformation weiter. Die kantischen Kategorien sind «als die wahren Stammbegriffe des reinen Verstandes» <sup class=\"fn\" data-fn=\"0-16\">16</sup> die Grundbegriffe für «eine transcendentale Grammatik, die den Grund der menschlichen Sprache enthält» <sup class=\"fn\" data-fn=\"0-17\">17</sup>; die kantischen Ideen, im Gegensatz zu den Kategorien nur von einem «regulativen Gebrauch» <sup class=\"fn\" data-fn=\"0-18\">18</sup>, sind die Quelle der die Klassifikation in Gattungen und Arten regierenden «Prinzipien der Homogenität, der Spezifikation und der Kontinuität der Formen» <sup class=\"fn\" data-fn=\"0-19\">19</sup>.</p>\n<p>Nach der von Descartes bis Kant reichenden Linie treten wesentliche Neuansätze zu einer O.d.B. erst wieder mit dem beginnenden 20. Jh. auf. Zu erwähnen ist hier HUSSERLS Idee einer reinen Logik <sup class=\"fn\" data-fn=\"0-20\">20</sup>, vor allem aber CARNAPS großartiges Programm einer <span class=\"col\" data-col=\"1312\"></span> Konstitutionstheorie <sup class=\"fn\" data-fn=\"0-21\">21</sup>, da sich Carnap bei seinem Versuch, den Gesamtbereich der empirischen Begriffe aus den beiden Grundbegriffen des Elementarerlebnisses und der Ähnlichkeitserinnerung zu konstituieren, bereits systematisch der Klassen- und Relationenlogik der modernen mathematischen Logik bedient.</p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">A. TRENDELENBURG: Gesch. der Kat.-Lehre (1846, ND 1963). – C. PRANTL: Gesch. der Logik im Abendlande 1–4 (1855–85, ND 1955). – FR. UEBERWEG: System der Logik und Gesch. der log. Lehren (<sup>4</sup>1874). – E. ASTER: Gesch. der neueren Erkenntnistheorie (1921). – H. LEISEGANG: Denkformen (<sup>2</sup>1951). – I. M. BOCHEŃSKI: Formale Logik (1956). – W. und M. KNEALE: The development of logic (Oxford 1962). – W. STEGMÜLLER: Hauptströmungen der Gegenwartsphilos. 1 (<sup>6</sup>1978).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1312\"></span> PLATON, Phaidros 266 b.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. ALEXANDER APHROD., In Arist. Met., in: ARISTOTELIS Opera, hg. I. BEKKER 4 (1836, <sup>2</sup>1961) 551 a 17ff.</li>\n<li id=\"fn0-3\" value=\"3\">ARISTOTELES, Met. Δ, 1017 a 22–24.</li>\n<li id=\"fn0-4\" value=\"4\">Top. I, 4, 101 b 17–25.</li>\n<li id=\"fn0-5\" value=\"5\">PORPHYRIUS, Isagoge in Arist. Cat., in: ARISTOTELIS Opera a.O. [2] 2 a 12–23; BOETHIUS, In Isag. Porph. comm., hg. S. BRANDT. CSEL 48, 209.</li>\n<li id=\"fn0-6\" value=\"6\">PORPHYRIUS, a.O. 1 a 2f.</li>\n<li id=\"fn0-7\" value=\"7\">RAIMUNDUS LULLUS, Ars magna et ultima. Opera ea quae ad adinventam ab ipso artem universalem ... pertinent (Argentorati 1651) 218.</li>\n<li id=\"fn0-8\" value=\"8\">PORPHYRIUS, In Arist. Cat. expositio, hg. A. BUSSE, in: Comm. in Arist. Graeca IV/1, 71, 13f.</li>\n<li id=\"fn0-9\" value=\"9\">R. DESCARTES, Regulae ad directionem ingenii, Reg. 6. Oeuvres, hg. CH. ADAM/P. TANNERY 10, 381.</li>\n<li id=\"fn0-10\" value=\"10\">Reg. 3, a.O. 369.</li>\n<li id=\"fn0-11\" value=\"11\">Reg. 6, a.O. 381ff.</li>\n<li id=\"fn0-12\" value=\"12\">Reg. 1, a.O. 360.</li>\n<li id=\"fn0-13\" value=\"13\">G. W. LEIBNIZ, Philos. Schriften, hg. C. I. GERHARDT 7, 184ff.; vgl. auch Art. <a class=\"xref\" href=\"#/a/485\">→ Characteristica universalis</a>.</li>\n<li id=\"fn0-14\" value=\"14\">a.O. 186.</li>\n<li id=\"fn0-15\" value=\"15\">Nouveaux essais III, 6, § 12.</li>\n<li id=\"fn0-16\" value=\"16\">I. KANT, KrV B 107.</li>\n<li id=\"fn0-17\" value=\"17\">Akad.-A. 28/2/1, 576; vgl. auch A. TRENDELENBURG: Hist. Beiträge zur Philos. 3 (1867) 26ff. 43ff.</li>\n<li id=\"fn0-18\" value=\"18\">KANT, KrV B 672.</li>\n<li id=\"fn0-19\" value=\"19\">a.O. B 686.</li>\n<li id=\"fn0-20\" value=\"20\">E. HUSSERL: Log. Unters. I (1900) 243ff.: Skizze des Programms.</li>\n<li id=\"fn0-21\" value=\"21\">R. CARNAP: Der logische Aufbau der Welt (1928); vgl. Art. <a class=\"xref\" href=\"#/a/1628\">→ Konstitutionssystem</a>.</li>\n</ol>",
+ "prev":{"id":2234,"lemma":"Ordnung, berufsständische","band":"6","col":1310},
+ "next":{"id":2236,"lemma":"Ordnungsdenken, konkretes","band":"6","col":1312},
+ "backlinks":[],
+ "outlinks":[
+  {"id":485,"lemma":"Characteristica universalis","n":1},
+  {"id":597,"lemma":"Dihairesis","n":2},
+  {"id":1628,"lemma":"Konstitutionssystem, Konstitutionstheorie","n":1}
+ ],
+ "register":[
+  {"term":"Begriffseinteilung","qualifier":"","band":null,"col":null},
+  {"term":"Begriffsreihe","qualifier":"","band":"6","col":"1311"},
+  {"term":"continuum formarum","qualifier":"","band":null,"col":null},
+  {"term":"Klassifikation der Begriffe","qualifier":"","band":null,"col":null},
+  {"term":"Konjunktion","qualifier":"","band":"6","col":"1310"},
+  {"term":"Logik, transzendentale","qualifier":"","band":"6","col":"1311"}
+ ],
+ "persons":[
+  {"id":2,"name":"Aristoteles","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":36,"name":"R. Carnap","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":285,"name":"Porphyrius","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":15,"name":"R. Descartes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":25,"name":"Boethius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":867,"name":"Raimundus Lullus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":629,"name":"A. Trendelenburg","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":190,"name":"Alexander von Aphrodisias","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":289,"name":"Porphyrios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":122,"name":"W. Stegmüller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":260,"name":"C. Prantl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":291,"name":"F. Ueberweg","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1191,"name":"H. Leisegang","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5434,"name":"Aster","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":77,"name":"Ch. Adam","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":649,"name":"A. Busse","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2072,"name":"S. Brandt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2436,"name":"I. Bekker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":501,"name":"M. Kneale","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2425,"lemma":"Prädikabilien, Prädikabilienlehre","tf":2},
+  {"id":342,"lemma":"Axiomensystem, Peanosches","tf":2},
+  {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":4},
+  {"id":991,"lemma":"Gattung, Genus","tf":3},
+  {"id":2233,"lemma":"Ordnung","tf":4},
+  {"id":1640,"lemma":"Kontinuum, Kontinuität","tf":2},
+  {"id":1572,"lemma":"Klasse, soziale","tf":2},
+  {"id":435,"lemma":"Bildung","tf":2},
+  {"id":1803,"lemma":"Logik","tf":2}
+ ],
+ "see_also":[
+  {"id":236,"lemma":"Arbor porphyriana, porphyrischer Baum"},
+  {"id":485,"lemma":"Characteristica universalis"}
+ ],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Ordnung der Begriffe"}],
+ "reg_authors":[{"name":"Sauer Werner","n":1}]
+}
+);

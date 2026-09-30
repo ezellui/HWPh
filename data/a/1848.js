@@ -1,0 +1,55 @@
+HWPH.put("a/1848",
+{
+ "id":1848,
+ "lemma":"Makrobiotik",
+ "band":"5",
+ "kind":"article",
+ "col_from":638,
+ "col_to":640,
+ "pdf_from":17922,
+ "pdf_to":17926,
+ "authors":["R. Herrlinger"],
+ "n_notes":15,
+ "n_chars":5169,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Makrobiotik. Das Wort ‹M.›, entstanden aus griechisch μακρός, lang, und βίος, Leben, bedeutet nach der ursprünglichen Definition HUFELANDS «die Kunst, das Leben zu verlängern» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. <span class=\"col\" data-col=\"639\"></span> Hufeland will diese «eigne Wissenschaft» abgegrenzt wissen gegen die medizinische Diätetik: «Der Zweck der Medicin ist Gesundheit, der M. hingegen langes Leben ...» und postuliert folgende Rangordnung: «die practische Medizin ist also, in Beziehung auf die M., nur als eine Hülfswissenschaft zu betrachten, die ... selbst ... den höheren Gesetzen der M. untergeordnet werden muß» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Grundkonzeption Hufelands ist – wenigstens zum wesentlichen Teil – aus der Jatrochemie des Barock entstanden: Das Leben sei eine «animalisch-chemische Operation», die Grenzen und Dauer hat, aber in ihrem Geschwindigkeitsablauf – «wie jede physische Operation» – beeinflußt werden kann <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Auf diese Erkenntnis lassen sich Regeln der diätetischen und medizinischen Behandlung mit dem Ziel der Retardierung, d.h. der Verlängerung des Lebens, bauen. Hufelands M. gliedert sich in einen theoretischen (a) und einen praktischen (b) Teil: (a) Historie, Untersuchung von «Lebenskraft» und Lebensdauer, Methodik; (b) Verkürzungs- und Verlängerungsmittel des Lebens. Dabei spielen die historischen «sex res non naturales» ihre alte Rolle. Hufelands M. ist ein Nachkömmling der mittelalterlichen Regimen-Literatur <sup class=\"fn\" data-fn=\"0-4\">4</sup> und wird von den Lexikographen um 1800 <sup class=\"fn\" data-fn=\"0-5\">5</sup> in eine Kategorie eingeordnet mit L. CORNAROS ‹Trattato de la vita sobria› (Padua 1558). Das Thema lag um 1790 in der Luft <sup class=\"fn\" data-fn=\"0-6\">6</sup>; es ist jedoch bemerkenswert, daß DIDEROTS ‹Encyclopédie› – einschließlich des Supplements (Nouveau Dictionnaire 1777) – das Stichwort ‹Longévité›, welches später <sup class=\"fn\" data-fn=\"0-7\">7</sup> die betreffende Materie abhandelt, noch nicht kennt.</p>\n<p>Die medizinische Literatur hat gezögert, den Begriff ‹M.› anzunehmen. In PIERER-CHOULANTS ‹Medicinischem Realwörterbuch› <sup class=\"fn\" data-fn=\"0-8\">8</sup> ist er im Artikel (Lebensdauer) versteckt. Es heißt dort, Aufgabe der M. sei «ein über die gewöhnlichen Grenzen hinaus sich verlängerndes Leben» (insofern die vorauszusetzenden Bedingungen in der Sphäre der individuellen Freiheit lägen, wie hinzugefügt wird). Schon vor 1850 <sup class=\"fn\" data-fn=\"0-9\">9</sup> wird M. als «sinnverwandt» mit Diätetik definiert und um 1860 <sup class=\"fn\" data-fn=\"0-10\">10</sup> als Teil der Diätetik bezeichnet. 1902 ist die Begriffsgleichheit vollzogen, zugleich wird (Diätetik) schon durch ‹Hygiene› ersetzt <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Den Lexikonautoren scheint die Wortneuschöpfung ‹Orthobiotik› für das, was Hufeland meinte, sachgemäßer. Dieser Begriff vermochte sich aber nicht durchzusetzen. Wenn M. neuerdings <sup class=\"fn\" data-fn=\"0-12\">12</sup> als «gleichbedeutend mit der Befolgung der von der neuzeitlichen Hygiene erarbeiteten Erkenntnisse, besonders <span class=\"col\" data-col=\"640\"></span> dem Vermeiden schädlicher Umwelteinflüsse» definiert wird, so scheint die von Hufeland ursprünglich gleichermaßen gemeinte Psychohygiene dabei unterbewertet.</p>\n<p>Im weiteren Sinne ist M., als Gesundheitsvorsorge verstanden, ein Teil der Hygiene im ursprünglichen Sinn; diese ist ihrerseits eine der Hauptstützen der Paideia. Die christliche Lehre ist im Laufe ihrer Geschichte zur Gesundheitsvorsorge in sehr wechselvoller Beziehung gestanden (Seelenheil, Beatitudo, Prioritätsstreit zwischen Seele und Körper), hat sie jedoch meist positiv bewertet <sup class=\"fn\" data-fn=\"0-13\">13</sup>. HUFELAND stellt zwischen seiner M. und der christlichen Beatitudo nurmehr verschämt eine direkte Beziehung her: Er meint, «Glückseligkeit» sei zu gewinnen durch «Stärkung im Glauben und Vertrauen auf die Menschheit ..., in Humanität», aber «der Glaube an Unsterblichkeit ist das einzige, was uns dieß Leben werth machen kann. In dieser Absicht kann man sagen, daß selbst die Religion ein Mittel zur Verlängerung des Lebens werden kann» <sup class=\"fn\" data-fn=\"0-14\">14</sup>. KANTS ‹Streit der philosophischen Fakultät mit der medizinischen› nimmt Hufelands M. zum Anlaß, um darauf hinzuweisen, daß in der Diätetik «Philosophie, oder der Geist derselben» vorausgesetzt werden müsse <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">A. MÜHR: Über die Kunst, das Leben zu verlängern (1960). – H. SCHIPPERGES: M. des Petrus Hispanus. Sudhoffs Arch. Gesch. Med. 44 (1960) 129–155; s. Anm. [6]. – P. LÜTH: Gesch. der Geriat. (1965) 190–197. – J. STEUDEL: Hist. Abriß der Geriat., in: Hb. prakt. Geriat., hg. W. DOBERAUER 1 (1965) 1–13.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"640\"></span> CHR. W. HUFELAND: Die Kunst, das menschl. Leben zu verlängern (1796) VI; das Werk ist aus Vorles. hervorgegangen, die H. seit 1792 (Goethes «Freitagsgesellschaft») in Weimar hielt; er hat daran seit 1785 gearbeitet; vgl. Vorrede zu (<sup>5</sup>1823).</li>\n<li id=\"fn0-2\" value=\"2\">a.O. IVf.</li>\n<li id=\"fn0-3\" value=\"3\">I.</li>\n<li id=\"fn0-4\" value=\"4\">L. CHOULANT: Hb. der Bücherkunde für die ältere Med. (1841) § 73; über die neuere Forsch.: W. ARTELT, Sudhoffs Arch. Gesch. Med. 40 (1956) 211–230; H. E. SIGERIST: Landmarks in the hist. of hyg. (London/New York/Toronto 1956) Kap. II.</li>\n<li id=\"fn0-5\" value=\"5\">MEYERS Gr. Konversations-Lex. 13 (<sup>6</sup>1908); ferner SIGERIST, a.O. Kap. III.</li>\n<li id=\"fn0-6\" value=\"6\">Kl. Bibliogr. bei A. FISCHER: Gesch. dtsch. Gesundheitswesens 2 (1933) 161; weitere Lit. in: H. SCHIPPERGES: Lebendige Heilk. (1962).</li>\n<li id=\"fn0-7\" value=\"7\">Dict. sci. méd., hg. Soc. médecins et chirurgiens 29 (Paris 1818) 8–70.</li>\n<li id=\"fn0-8\" value=\"8\">BROCKHAUS (1821) 1/4, 700.</li>\n<li id=\"fn0-9\" value=\"9\">Universal-Lex., hg. H. A. PIERER 18 (<sup>2</sup>1845).</li>\n<li id=\"fn0-10\" value=\"10\">a.O. (<sup>4</sup>1860).</li>\n<li id=\"fn0-11\" value=\"11\">BROCKHAUS' Konversationslex. 11 (<sup>9</sup>1902).</li>\n<li id=\"fn0-12\" value=\"12\">Der Gr. Brockhaus 7 (<sup>7</sup>1955) 469.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. R. HERRLINGER, Dtsch. med. J. 8 (1957) 92–95.</li>\n<li id=\"fn0-14\" value=\"14\">CHR. W. HUFELAND: M. (<sup>2</sup>1798) 198.</li>\n<li id=\"fn0-15\" value=\"15\">KANT, Akad.-A. 7, 98.</li>\n</ol>",
+ "prev":{"id":1847,"lemma":"Maieutik","band":"5","col":637},
+ "next":{"id":1849,"lemma":"Makrokosmos/Mikrokosmos","band":"5","col":640},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Lebensverlängerung","qualifier":"","band":null,"col":null},
+  {"term":"Orthobiotik","qualifier":"","band":null,"col":null},
+  {"term":"Verlängerung des Lebens","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1486,"name":"Brockhaus","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":2231,"name":"C. W. Hufeland","b":0,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":5758,"name":"Hufeland","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9448,"name":"H. E. Sigerist","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":57,"name":"D. Diderot","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1044,"name":"Meyer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1568,"name":"A. Fischer","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2263,"name":"H. A. Pierer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":5214,"name":"R. Herrlinger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":13495,"name":"I. L. Choulant","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":23376,"name":"L. Cornaros","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23377,"name":"Pierer-Choulants","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":23378,"name":"W. Artelt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7153,"name":"J. Steudel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":15369,"name":"P. Lüth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":23379,"name":"A. Mühr","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1294,"name":"H. Schipperges","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":23380,"name":"W. Doberauer","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":589,"lemma":"Diätetik","tf":5},
+  {"id":2226,"lemma":"Operation","tf":2},
+  {"id":1184,"lemma":"Grenze","tf":2}
+ ],
+ "see_also":[{"id":589,"lemma":"Diätetik"}],
+ "groups":[{"id":25,"name":"Medizin","label":"Makrobiotik"}],
+ "reg_authors":[{"name":"Herrlinger Robert","n":2}]
+}
+);

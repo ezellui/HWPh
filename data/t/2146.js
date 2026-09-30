@@ -1,0 +1,12 @@
+HWPH.put("t/2146",
+{
+ "b":"Noesis. In der eidetischen Analyse des durch die phänomenologische Epoche gewonnenen reinen Bewußtseins unterscheidet E. HUSSERL zwei zu jedem intentionalen Erlebnis gehörende Strukturmomente: N. und Noema, den reellen und den irreell-intentionalen Bestandteil des Erlebnisses . Die sich auf die N. richtende «reelle Analyse» des Erlebnisses findet zwei Komponenten aller Noesen: 1. die nicht-intentionale, stofflich-hyletische (Empfindungsinhalte wie Färb-, Tastdaten, Lust- und Strebensempfindungen) ; 2. die das Spezifische der Intentionalität in sich tragende Komponente, welche die «sensuelle Hyle» beseelt und sich als sinngebende Schicht über sie legt, so daß die hyletischen Daten in intentionaler Funktion stehen (N. im engeren Sinn) . \nIm Zusammenspiel dieser beiden Komponenten des intentionalen Erlebnisses erfolgt die Sinngebung , in der sich die Konstitution des im Erleben vermeinten gegenständlich-noematischen Sinnes als konstituierter Leistung vollzieht . Es ist die Funktion der Noesen, als «konstituierende Mannigfaltigkeiten». Bewußtsein von Etwas in der Weise zustande zu bringen, daß sie sich kraft der synthetischen Urform des Bewußtseins zu einem Bewußtsein von einem und demselben zusammenschließen und so «objektive Einheit der Gegenständlichkeit» hervortreten lassen . Die Leistung der Noesen kann nach ihrer «sinnbildenden» (washaltigen) und nach ihrer «thetischen», auf die Seinssetzung des «Gegenstandes» abzielenden Seite unterschieden werden . Zwischen allen noetischen und noematischen Momenten herrscht ein strenger Parallelismus, so daß sich gegenseitig entsprechende Formenlehren der noetischen Bewußtseinsmannigfaltigkeiten und der noematischen Sinne aufgebaut werden können .",
+ "n":"E. HUSSERL: Ideen zu einer reinen Phänomenol. und phänomenolog. Philos., 1. Buch. Husserliana III (Den Haag 1950) 205f. 218f. 255 bzw. III/1 (21976) 189. 202. 237f. \na.O. 208ff. bzw. 192ff. \n210 bzw. 194. \n213 bzw. 197. \n214. 226f. bzw. 198. 210. \nCart. Meditationen und Pariser Vorträge. Husserliana I (Den Haag 21963) 77ff.; Ideen ... 1, a.O. [1] 212 bzw. 196. \nCart. Medit. ..., a.O. 65; vgl. A. DIEMER: Edmund Husserl. Versuch einer syst. Darstellung seiner Phänomenol. (21965) 67. 75. \nHUSSERL, Ideen ... 1, a.O. [1] 246f. 248f. 301 bzw. 229f. 23 1f. 282.",
+ "l":"",
+ "au":"P. Janssen",
+ "A":["P. Janssen"],
+ "cb":[[0,870],[746,870]],
+ "cn":[[0,870],[166,870],[191,870],[206,870],[221,870],[248,870],[364,870],[491,870]],
+ "cl":[]
+}
+);

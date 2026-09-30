@@ -1,0 +1,45 @@
+HWPH.put("a/265",
+{
+ "id":265,
+ "lemma":"Asthenisch/sthenisch",
+ "band":"1",
+ "kind":"article",
+ "col_from":554,
+ "col_to":555,
+ "pdf_from":2021,
+ "pdf_to":2023,
+ "authors":["G. Mittelstadt"],
+ "n_notes":12,
+ "n_chars":3064,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Asthenisch/sthenisch. <span class=\"col\" data-col=\"555\"></span> ‹Asthenisch› (griech. ἀσθενής) bedeutet allgemein schwach, kraftlos, ‹sthenisch› (σθενής) das Gegenteil. Schon in der <i>Stoa</i> wird die «Asthenie», die sich in der «Atonie» des Seelenplasmas äußert, für die Genese der Affekte und – wenn die Schwäche besonders ausgeprägt ist – für die Entstehung seelischer Krankheiten verantwortlich gemacht <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – KANT unterscheidet zwischen sthenischen und asthenischen Affekten <sup class=\"fn\" data-fn=\"0-2\">2</sup>, W. T. KRUG zwischen ‹asthenisch› und ‹hypersthenisch› als Ausdruck für übermäßige Stärke <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>E. KRETSCHMER <sup class=\"fn\" data-fn=\"0-4\">4</sup> führt die Bezeichnung ‹asthenisch› in Anknüpfung an B. STILLER <sup class=\"fn\" data-fn=\"0-5\">5</sup> und J. BAUER <sup class=\"fn\" data-fn=\"0-6\">6</sup> in die <i>medizinische</i> Psychologie ein und nennt so zuerst einen der drei Haupttypen des Körperbaus, den er später jedoch als ‹leptosom› bezeichnet <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Seitdem meint ‹asthenisch› nur noch die extremen Ausprägungen und eigentlichen Kümmerformen des leptosomen Typs und charakterisiert einen mageren, schmalaufgeschossenen Menschen: «der größer erscheint als er ist, von saft- und blutarmer Haut, von den schmalen Schultern die muskeldünnen Arme mit den knochenschlanken Händen herabhängend, ein langer, schmaler, flacher Brustkorb, ... ein dünner, fettloser Bauch und Gliedmaße wie die oberen» <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Ohne Beachtung eines möglichen Zusammenhanges zwischen der physischen Konstitution und psychischen Merkmalen sprach bereits P. JANET <sup class=\"fn\" data-fn=\"0-9\">9</sup> bei der Interpretation gewisser neurotischer Störungen von einer <i>psychischen</i> Asthenie (psychasthénie); sie äußert sich nach seiner Beschreibung u.a. durch depressive und antriebslose Stimmungen. C. G. JUNG sieht in der Psychasthenie eine neurotische Ausprägung des introvertierten Persönlichkeitstypus <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Den Ausdruck ‹Neurasthenie› (wörtlich: Nervenschwäche) verwendet Mc DOUGALL für ein ähnliches Symptomenbild, wie Janet und Jung es beschrieben; in der Wahl seines Terminus impliziert McDougall jedoch eine neurologische Grundlage asthenischer Verhaltensmerkmale <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Als allgemeinen Persönlichkeitsfaktor versteht R. B. CATTELL die Asthenie. Die asthenische Persönlichkeit ist nach seinen Untersuchungen an einer großen Stichprobe von Personen gekennzeichnet durch Unterwürfigkeit gegenüber Autoritäten, Empfänglichkeit für Gruppendruck, vorwiegende Beschäftigung mit der eigenen Person, extreme Standpunkte und Neigung zu Ängsten und Entmutigung <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. M. POHLENZ: Die Stoa. Gesch. einer geistigen Bewegung (1948) 1, 147f.; 2, 80.</li>\n<li id=\"fn0-2\" value=\"2\">KANT, Anthropol. I, § 76.</li>\n<li id=\"fn0-3\" value=\"3\">W. T. KRUG: Allg. Handwb. philos. Wiss. (1827) Art. ‹Asthenie›.</li>\n<li id=\"fn0-4\" value=\"4\">E. KRETSCHMER: Körperbau und Charakter. Untersuchungen zum Konstitutionsproblem und zur Lehre von den Temperamenten (1921) 13f.</li>\n<li id=\"fn0-5\" value=\"5\">B. STILLER: Die asthenische Konstitutionskrankheit, Asthenia universalis congenita (1907).</li>\n<li id=\"fn0-6\" value=\"6\">J. BAUER: Die konstitutionelle Disposition zu inneren Krankheiten (1917).</li>\n<li id=\"fn0-7\" value=\"7\">KRETSCHMER, a.a.O. [4] z.B. (1948) 17. 21.</li>\n<li id=\"fn0-8\" value=\"8\">a.a.O. (<sup>25</sup>1967) 24f.</li>\n<li id=\"fn0-9\" value=\"9\">P. JANET: L'état mental des hysteriques (Paris 1894).</li>\n<li id=\"fn0-10\" value=\"10\">C. G. JUNG: Psychol. Typen (<sup>9</sup>1960).</li>\n<li id=\"fn0-11\" value=\"11\">W. MCDOUGALL: An outline of abnormal psychol. (London 1926).</li>\n<li id=\"fn0-12\" value=\"12\">R. B. CATTELL: Personality and motivation. Structure and measurement (New York 1957).</li>\n</ol>",
+ "prev":{"id":264,"lemma":"Assoziationspsychologie","band":"1","col":553},
+ "next":{"id":266,"lemma":"Ästhetik, ästhetisch","band":"1","col":556},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"hypersthenisch","qualifier":"","band":"1","col":"554"},
+  {"term":"leptosom","qualifier":"","band":"1","col":"555"},
+  {"term":"Neurasthenie","qualifier":"","band":"1","col":"555"},
+  {"term":"psychasthénie","qualifier":"","band":"1","col":"555"},
+  {"term":"– II (psych.) 10 147–150 sthenisch","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":652,"name":"E. Kretschmer","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":168,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1472,"name":"J. Bauer","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":860,"name":"P. Janet","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1034,"name":"R. B. Cattell","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13585,"name":"B. Stiller","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":912,"name":"W. Mcdougall","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":19399,"name":"Dougall","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":249,"name":"M. Pohlenz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":53,"lemma":"Affekt","tf":2},{"id":2318,"lemma":"Person","tf":2}],
+ "see_also":[{"id":1629,"lemma":"Konstitutionstypus"}],
+ "groups":[{"id":36,"name":"Psychologie","label":"Asthenisch/sthenisch"}],
+ "reg_authors":[{"name":"Mittelstädt Gerhard","n":5},{"name":"Ritter Joachim","n":9}]
+}
+);

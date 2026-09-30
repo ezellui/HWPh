@@ -1,0 +1,12 @@
+HWPH.put("t/1775",
+{
+ "b":"Leistungswissen (auch Machtwissen) gehört bei M. SCHELER zu den drei obersten Wissensarten (s. Art. ‹Bildungswissen›, ‹Erlösungswissen›) und ist ein im Zusammenhang seiner Wissenssoziologie geprägter Begriff. Er umfaßt jede Art technischen wie positiven Fachwissens. – Ziel des L. ist die praktische Beherrschung und Umbildung der Welt für menschliche Zwecke. Es gründet in dem ursprünglich zweckfreien Experimentiertrieb des «homo faber», dem sich als zweiter Triebimpuls das Macht- und Herrschaftsstreben zugesellt. In seiner theoretischen Ausformung konnte L. (d.h. positive Wissenschaft) jedoch erst entstehen, wo zwei verschiedene soziale Schichten: eine frei kontemplative und eine in der Arbeitswelt erfahrene und an Machtgewinnung interessierte zusammentrafen. Diese Sozialstruktur war vor allem gegeben im abendländischen Stadtbürgertum. – Da die empirischen Wissenschaften es mit Tatsachen der realen Welt zu tun haben, in denen auch das voluntaristisch fundierte Realitätsmoment enthalten ist, sind ihre Gegenstände daseinsrelativ auf leiblich-vitale Lebewesen. Erkenntnisquelle ist das «Leben», Erkenntnismethode das deduktive und induktive Schließen. Mit dem Moment bewußter Ausschaltung aller Wesensfragen – zugunsten der Erforschung der raumzeitlichen Koinzidenzen der Erscheinungen – und ebenso bewußter Einschaltung der technischen Zielsetzung – in der Auswahl der jeweils interessierenden Seiten der Welt für mögliche Angriffspunkte auf sie – konstituiert sich als Prinzip des L. die «wissenschaftliche Vernunft». In ihr ist ein formales mechanisches Weltmodell leitend als «das Produkt von reiner Logik ... und purer Machtwertung in der Auswahl des Beobachtbaren der Natur» . – Hinsichtlich der Verwendbarkeit dieses Modells für die Zwecke menschlichen Fortschritts vertritt Scheler einen methodischen Pragmatismus.",
+ "n":"M. SCHELER, Ges. Werke 8 (1960) 128.",
+ "l":"M. SCHELER: Probleme einer Soziol. des Wissens, in: Versuche zu einer Soziol. des Wissens, hg. M. SCHELER (1924); Zweitfassung zus. mit ‹Erkenntnis und Arbeit› in: Die Wissensformen und die Gesellschaft (1926). Ges. Werke, hg. MARIA SCHELER 8 (1960); Die Formen des Wissens und die Bildung (1925), auch in: Philos. Weltanschauung (1954); Über die positivistische Gesch.philos. des Wissens, in: Schr. zur Soziol. und Weltanschauungslehre 1: Moralia (1923). Ges. Werke 6 (1963).",
+ "au":"S. Böhle",
+ "A":["S. Böhle"],
+ "cb":[[0,224]],
+ "cn":[[0,224]],
+ "cl":[[0,224]]
+}
+);

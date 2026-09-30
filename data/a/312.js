@@ -1,0 +1,27 @@
+HWPH.put("a/312",
+{
+ "id":312,
+ "lemma":"Ausschließung",
+ "band":"1",
+ "kind":"article",
+ "col_from":678,
+ "col_to":679,
+ "pdf_from":2417,
+ "pdf_to":2417,
+ "authors":["A. Menne"],
+ "n_notes":2,
+ "n_chars":868,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Ausschließung. ‹Einander ausschließend› heißen in der Logik <sup class=\"fn\" data-fn=\"0-1\">1</sup>: <span class=\"col\" data-col=\"679\"></span> 1. prädikative Ausdrücke (bzw. die entsprechenden Begriffe), die für keinen Gegenstand gemeinsam zutreffen, z.B. «Quadrat» und «Dreieck»; 2. Aussagen, die nicht zugleich wahr sind (bzw. bei bestimmten Termersetzungen nicht zugleich wahr werden können), zwischen denen also (stets) <a class=\"xref\" href=\"#/a/870\"><i>Exklusion</i></a> <span class=\"sd\">→ (s.d.)</span> besteht, z.B. «Alle Wirbeltiere atmen durch Lungen» und «Kein Wirbeltier atmet durch Lungen». BOLZANO definiert, «daß ein oder mehrere Sätze <i>M, N, O</i>, ... von gewissen andern <i>A, B, C</i>, ... <i>ausgeschlossen</i> werden, und dies zwar hinsichtlich auf die veränderlichen Vorstellungen <i>i, j</i>, ..., wenn jeder Inbegriff von Vorstellungen, der an der Stelle der <i>i, j,..</i>. die sämtlichen <i>A, B, C</i>, ... wahr macht, die sämtlichen <i>M, N, O</i>, ... falsch macht» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. z.B. B. BOLZANO, Wissenschaftslehre § 103.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. § 159, Nr. 1.</li>\n</ol>",
+ "prev":{"id":311,"lemma":"Aussagenlogik","band":"1","col":672},
+ "next":{"id":313,"lemma":"Außen/innen, Außenwelt/Innenwelt","band":"1","col":679},
+ "backlinks":[],
+ "outlinks":[{"id":870,"lemma":"Exklusion","n":1}],
+ "register":[{"term":"Unverträglichkeit","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":96,"name":"B. Bolzano","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[{"id":870,"lemma":"Exklusion"}],
+ "groups":[{"id":22,"name":"Logik","label":"Ausschliessung"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

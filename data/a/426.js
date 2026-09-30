@@ -1,0 +1,47 @@
+HWPH.put("a/426",
+{
+ "id":426,
+ "lemma":"Bezeichnungswandel",
+ "band":"1",
+ "kind":"article",
+ "col_from":908,
+ "col_to":909,
+ "pdf_from":3155,
+ "pdf_to":3158,
+ "authors":["L. Weisgerber"],
+ "n_notes":6,
+ "n_chars":3708,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Bezeichnungswandel gehört zu einer seit etwa 1900 stärker verfolgten Beobachtungsrichtung, die, von den ‹Sachen› ausgehend, geschichtliche Veränderungen der sprachlichen Bezeichnungen feststellt. <span class=\"col\" data-col=\"909\"></span> Der von H. SCHUCHARDT (1912) <sup class=\"fn\" data-fn=\"0-1\">1</sup> empfohlene, am nachdrücklichsten von F. DORNSEIFF (1933) <sup class=\"fn\" data-fn=\"0-2\">2</sup> befürwortete Ersatz <sup class=\"fn\" data-fn=\"0-3\">3</sup> von Bedeutungswandel durch den analog gebildeten Ausdruck ‹B.› zielt darauf ab, den sprachgeschichtlichen Vorgang des Sinnwandels der Wörter aus der bedeutungsgeschichtlichen (semasiologischen) in die bezeichnungsgeschichtliche (onomasiologische) Perspektive zu rücken. Das geschieht durch eine Umkehr der Blickrichtung: Während der Semasiologe vom Wort ausgeht und also z.B. fragt, wie es kommt, daß die Bedeutung von mhd. ‹hôchzît› (Fest) sich zu nhd. ‹Hochzeit› (Vermählungsfeier) verengt, setzt der Onomasiologe beim Endpunkt dieser Veränderung, beim Begriff (der ‹Sache›) (Vermählungsfeier) an und fragt, welche Umstände dazu geführt haben, daß dessen mhd. Bezeichnung (brûtlouf) durch ein Wort mit dem ursprünglichen Inhalt ‹Fest› (hôchzît, Hochzeit) abgelöst worden ist <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Es liegt auf der Hand, daß die zweite Art der Fragestellung zu befriedigenderen Ergebnissen führt, weil sie schärfer dazu zwingt, einen größeren Umkreis zusammenhängender Veränderungen in Betracht zu ziehen. Außerdem bietet sie die Möglichkeit, die Vorgänge psychologisch zu durchleuchten, was freilich nicht zu einer monokausalen Erklärung führen darf. Da beim Bedeutungswandel das Wort, bei B. dagegen der bezeichnete Gegenstand das Objekt ist, erweist sich der Terminus B. jedoch als Ersatz für ‹Bedeutungswandel› als ungeeignet, weil man nicht – wie Schuchardt und Dornseiff dies tun – vom B. der Wörter, sondern sinnvoll nur vom B. der ‹Sachen› reden kann.</p>\n<p>Die onomasiologische Betrachtungsweise selbst, die schon der Antike geläufig war <sup class=\"fn\" data-fn=\"0-5\">5</sup>, bewährt sich für viele Aufgaben der Sprachforschung und ist wegen der von ihr implizierten, schon durch J. GRIMM <sup class=\"fn\" data-fn=\"0-6\">6</sup> erkannten Notwendigkeit einer engen Verbindung von Wort- und Sachkunde das einzig zweckmäßige Verfahren einer unter der Losung ‹Wörter und Sachen› arbeitenden Etymologie. Die Disziplin ist allerdings mit einer Reihe ungelöster Fragen beladen, die vor allem die Natur, Erkennbarkeit und Beständigkeit der von den Bezeichnungen getroffenen ‹Sachen› angehen. Daraus ergibt sich die Notwendigkeit, die weithin allzu sachbezogenen Beobachtungen von B. zurückzuführen auf die primären Vorgänge, die sich in dem Dreieck ‹Bezeichnung – Sprachzugriff – Sache› abspielen.</p>\n<p>Infolge der Fragestellung der Onomasiologie, bei der die Begriffe methodisch als feststehende Gegebenheiten angesehen werden müssen, ist sie auch nicht in der Lage, Auskünfte über den Begriffswandel in einer Sprache zu vermitteln. Dies läßt sich nur mit den Methoden der Feldforschung erreichen.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">B. QUADRI: Aufgaben und Methoden der onomasiol. Forsch. (1952). – F. DORNSEIFF s. Anm. [2]. – H. SCHWARZ s. Anm. [3] T. I (1962ff.) XXVI–LX. – J. KNOBLOCH: Sprachwiss. Wb. (1967ff.)</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">H. SCHUCHARDT: Sachen und Wörter in innigster Beziehung. Anthropos 7 (1912) 827–839; vgl. auch H. Schuchardt-Brevier, hg. L. SPITZER (1922, <sup>2</sup>1928) 131.</li>\n<li id=\"fn0-2\" value=\"2\">F. DORNSEIFF: Der dtsch. Wortschatz synonymisch geordnet (1933/34); Der dtsch. Wortschatz nach Sachgruppen (1940, <sup>5</sup>1959) 39ff.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. die Titeländerung von ‹Bedeutungsentwicklung ...› zu ‹B. unseres Wortschatzes› von A. WAAG in der Neubearb. durch F. DORNSEIFF (1955); vgl. zur Kritik des Ausdrucks H. SCHWARZ, in: GIPPER/SCHWARZ: Bibliograph. Hb. zur Sprachinhaltsforsch. (1962ff.) Bespr. zu Nr. 3397.</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. DORNSEIFF: Wortschatz (<sup>5</sup>1959) 50.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. z.B. ISOKRATES, 15 PERI ANTID., § 285ff.; CICERO, De officiis I 37.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. u.a. J. GRIMM: Gesch. der dtsch. Sprache (1848) 1, XI.</li>\n</ol>",
+ "prev":{"id":425,"lemma":"Bezeichnungslehre, Onomasiologie","band":"1","col":908},
+ "next":{"id":427,"lemma":"Beziehung, interne/externe","band":"1","col":909},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":1535,"name":"F. Dornseiff","b":1,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":401,"name":"J. Grimm","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":7268,"name":"H. Schuchardt","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":225,"name":"H. Schwarz","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":8,"name":"Cicero","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":556,"name":"Isokrates","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":956,"name":"Schwarz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3178,"name":"L. Spitzer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":10675,"name":"A. Waag","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19684,"name":"Peri Antid.","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4338,"name":"J. Knobloch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7267,"name":"B. Quadri","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":648,"name":"H. Gipper","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":352,"lemma":"Bedeutungswandel","tf":3},
+  {"id":2730,"lemma":"Sache","tf":6},
+  {"id":910,"lemma":"Fest","tf":2},
+  {"id":3543,"lemma":"Wandel; Veränderung","tf":3},
+  {"id":2171,"lemma":"Notwendigkeit","tf":2}
+ ],
+ "see_also":[{"id":352,"lemma":"Bedeutungswandel"}],
+ "groups":[{"id":20,"name":"Linguistik","label":"Bezeichnungswandel"}],
+ "reg_authors":[{"name":"Weisgerber Leo","n":6}]
+}
+);

@@ -1,0 +1,56 @@
+HWPH.put("a/1254",
+{
+ "id":1254,
+ "lemma":"Heraklitismus",
+ "band":"3",
+ "kind":"article",
+ "col_from":1060,
+ "col_to":1061,
+ "pdf_from":10682,
+ "pdf_to":10685,
+ "authors":["F. P. Hager"],
+ "n_notes":16,
+ "n_chars":4332,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Heraklitismus. In der <i>neueren</i> Philosophiegeschichte <sup class=\"fn\" data-fn=\"0-1\">1</sup> wird mit ‹H.› eine philosophische Richtung bezeichnet, die vor allem den Werdecharakter und das kämpferische Grundelement aller Wirklichkeit betont und geschichtlich auf HERAKLIT zurückgeführt wird: Bereits die Wahl des Feuers als des wandelbarsten der vier alten Elemente zum Grundstoff aller Wirklichkeit zeigt an, daß es nach Heraklit – im Gegensatz zu den Eleaten – in der gesamten Wirklichkeit kein Sein, keine Identität und keinen Stillstand geben kann, sondern daß sich alles in ständiger Bewegung befindet <sup class=\"fn\" data-fn=\"0-2\">2</sup>. In solchem Sinne wird das bekannte Wort verstanden, daß niemand zweimal in denselben Fluß steigen könne, weil zwischen dem ersten und dem zweiten Mal sowohl der Fluß als auch der Mensch ein anderer geworden sei <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Das allgemeine göttliche Weltgesetz, der Logos, ist in erster Linie Ausdruck der ständigen Verwandlung der Welt in Feuer und umgekehrt und manifestiert sich im Krieg der verschiedenen Gegensätze, aus denen allein das Leben entsteht <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Auch die Sinneswahrnehmung (αἴσθησις) entsteht nach Heraklit nur aus dem Gegensatz und offenbart den Werdecharakter aller Dinge <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Diese Lehre wurde vom Herakliteer KRATYLOS, der Platons Lehrer gewesen sein soll, so weitergebildet, <span class=\"col\" data-col=\"1061\"></span> daß man auch nicht <i>einmal</i> in denselben Fluß soll steigen können und daß auf Grund der Veränderung und Bewegung der sichtbaren Natur in allen ihren Teilen es unmöglich sei, über sie eine wahre Aussage zu machen, was Kratylos schließlich dazu veranlaßt haben soll, überhaupt nichts mehr zu sagen und nur noch die Finger zu bewegen <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Nach PLATON soll Kratylos mit seinem H. einen gewissen sophistischen Relativismus, wonach überhaupt nichts Ausgesagtes falsch sein kann <sup class=\"fn\" data-fn=\"0-7\">7</sup> sowie die sprachphilosophische Lehre vertreten haben, daß die Namen der Dinge diesen naturgemäß (φύσει) und nicht durch bloße Konvention (θέσει) zukommen <sup class=\"fn\" data-fn=\"0-8\">8</sup>. ARISTOTELES hält Kratylos dafür verantwortlich, daß Platon die herakliteische Lehre von der Wandelbarkeit und Unerkennbarkeit der Dinge auf die Erscheinungen der Sinnenwelt bezogen und mit dieser Einschränkung übernommen hat <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Den Herakliteern im allgemeinen schreibt PLATON wie dem Protagoras die Identifikation von Erkenntnis und Wahrnehmung und eine Theorie von der Entstehung der sinnlichen Wahrnehmung zu, wonach diese das Produkt aus der zusammentreffenden Bewegung des Gegenstandes und des Sinnes und deshalb ohne objektive Wahrheit sei, was einen erkenntnistheoretischen Subjektivismus und Relativismus zur Folge hat <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Ohne objektive Erkenntnis aber gibt es auch kein richtiges Gespräch zwischen Menschen und keine Lehre, und so schildert Platon die Herakliteer, die er scherzhaft die «Fließenden» (ῥέοντες) nennt, als enthusiastisch daherredende Phantasten, die keine andere Meinung als ihre eigene gelten lassen <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Die Lehre vom Fluß und der Veränderung aller Dinge ist vom Komödiendichter EPICHARMOS übernommen und scherzhaft dargestellt worden <sup class=\"fn\" data-fn=\"0-12\">12</sup>; gewisse Eigentümlichkeiten der Gegensatzlehre Heraklits finden sich ferner in den <i>pseudohippokratischen</i> Schriften ‹Über die Nahrung› und ‹Über die Lebensführung› <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Die <i>Stoa</i> hat vor allem die Lehre vom göttlichen vernunftbegabten Urfeuer, das sich in die Welt entfaltet und diese wieder in sich zurücknimmt (Ekpyrosis; Weltbrand) und die Bezeichnung des Weltgesetzes als göttlichen Logos übernommen <sup class=\"fn\" data-fn=\"0-14\">14</sup> und – wie zuvor schon ARISTOTELES und später HEGEL <sup class=\"fn\" data-fn=\"0-15\">15</sup> – als die eigentliche Aussage Heraklits seiner Deutung im Sinne des H. entgegengestellt. Dagegen betont z.B. NIETZSCHE mit dem Terminus ‹H.› wiederum das kämpferische Element <sup class=\"fn\" data-fn=\"0-16\">16</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">J. STENZEL: Art. ‹Kratylos›, in: RE 11/2 (1922) 1660–62. – E. WEERTS: Heraklit und die Herakliter (1926). – O. GIGON: Untersuch. zu Heraklit (1935). – H. KIRK: Heraclitus. The cosmic fragments (1954).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1061\"></span> So schon in der frz. Encyclop ...., hg. DIDEROT/d'ALEMBERT (Lausanne/Bern 1782) 17, 287–291.</li>\n<li id=\"fn0-2\" value=\"2\">HERAKLIT, VS<sup>10</sup> 22 B 90. 30. 31. 60. 64–66.</li>\n<li id=\"fn0-3\" value=\"3\">VS 22 A 6; vgl. 22 B 12, 49 a, 91.</li>\n<li id=\"fn0-4\" value=\"4\">VS 22 B 30. 31. 32. 41. 53. 67. 80. 114.</li>\n<li id=\"fn0-5\" value=\"5\">THEOPHRAST, De sensu § 1ff.; PLATON, Theait. 156 a ff. 179 d ff.</li>\n<li id=\"fn0-6\" value=\"6\">KRATYLOS, VS 65 A 4.</li>\n<li id=\"fn0-7\" value=\"7\">VS 65 A 1.</li>\n<li id=\"fn0-8\" value=\"8\">VS 65 A 5.</li>\n<li id=\"fn0-9\" value=\"9\">VS 65 A 3.</li>\n<li id=\"fn0-10\" value=\"10\">PLATON, Theait. 156 a ff. 179 d ff.</li>\n<li id=\"fn0-11\" value=\"11\">a.a.O. 179 e ff. 181 a.</li>\n<li id=\"fn0-12\" value=\"12\">EPICHARMOS, VS 23 A 6; 23 B 2.</li>\n<li id=\"fn0-13\" value=\"13\">PERI TROPHES 1, 9, 17, 45; PERI DIAITES 6, 11, 17.</li>\n<li id=\"fn0-14\" value=\"14\">SVF II, 596–632.</li>\n<li id=\"fn0-15\" value=\"15\">HEGEL, Jubiläums-A, hg. GLOCKNER 17, 363f.</li>\n<li id=\"fn0-16\" value=\"16\">NIETZSCHE, Musarion-A. 12, 23.</li>\n</ol>",
+ "prev":{"id":1253,"lemma":"Henotheismus","band":"3","col":1060},
+ "next":{"id":1255,"lemma":"Hermeneutik","band":"3","col":1061},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":3,"name":"Platon","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":2,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":119,"name":"Heraklit","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4576,"name":"Epicharmos","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9068,"name":"Kratylos","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":57,"name":"D. Diderot","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":235,"name":"Theophrast","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13393,"name":"Peri Diaites","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21385,"name":"Peri Trophes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1140,"name":"J. Stenzel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2607,"name":"G. S. Kirk","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":21386,"name":"E. Weerts","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1230,"name":"O. Gigon","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2671,"lemma":"Relativismus","tf":2},
+  {"id":1825,"lemma":"Logos","tf":2},
+  {"id":408,"lemma":"Bewegung","tf":3},
+  {"id":3628,"lemma":"Wirklichkeit","tf":3},
+  {"id":3539,"lemma":"Wahrnehmung","tf":2},
+  {"id":3543,"lemma":"Wandel; Veränderung","tf":2},
+  {"id":309,"lemma":"Aussage","tf":2},
+  {"id":707,"lemma":"Element","tf":2}
+ ],
+ "see_also":[{"id":705,"lemma":"Eleatismus"}],
+ "groups":[
+  {"id":3,"name":"Antike Philosophie","label":"Heraklitismus"},
+  {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Heraklitismus"}
+ ],
+ "reg_authors":[{"name":"Hager Fritz-Peter","n":24}]
+}
+);

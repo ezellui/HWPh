@@ -1,0 +1,37 @@
+HWPH.put("t/572",
+{
+ "b":"Destruktion wird im allgemeinen auch in philosophischen Texten im üblichen gemeinsprachlichen Sinn gebraucht; die Funktion eines philosophischen Begriffs erhält das Wort vor allem bei Heidegger und durch die Psychoanalyse. \nI. Der geplante, jedoch nicht erschienene zweite Teil von M. HEIDEGGERS ‹Sein und Zeit› sollte den Titel tragen: «Grundzüge einer phänomenologischen D. der Geschichte der Ontologie am Leitfaden der Problematik der Temporalität» . Nach der «Interpretation des Daseins auf die Zeitlichkeit» und der «Explikation der Zeit als des transzendentalen Horizontes der Frage nach dem Sein» sollte vom Standpunkt des neugewonnenen Sinnes von Sein aus die Geschichte der Ontologie, d.h. die Geschichte der bisherigen Auskünfte über das Sein, geprüft und destruiert werden. Auf Geschichte sah sich die Seinsfrage verwiesen, weil die Frage nach dem Sein als Modus zu einem Seienden gehört, welches seinerseits durch Zeitlichkeit und Geschichtlichkeit bestimmt ist . Es gilt für Heidegger so gegenüber dem Verfallen an die Tradition, die die Geschichtlichkeit des Daseins gerade entwurzelt , die elementarsten Bedingungen allererst wiederherzustellen, «die einen positiven Rückgang zur Vergangenheit im Sinne einer produktiven Aneignung ihrer allein ermöglichen» . Es bedarf «der Auflockerung der verhärteten Tradition und der Ablösung der durch sie gezeitigten Verdeckungen» . Bezüglich der Seinsfrage ergibt sich die Aufgabe einer «D. des überlieferten Bestandes der antiken Ontologie auf die ursprünglichen Erfahrungen, in denen die ersten und fortan leitenden Bestimmungen des Seins gewonnen wurden» . \nObwohl Heidegger mehrfach betont, daß die geforderte D. keiner negativen, sondern einer positiven Absicht entspringe , daß es ihr also nicht um «Abschüttelung der ontologischen Tradition» gehe , sollte im zweiten Teil von ‹Sein und Zeit› vermutlich gezeigt werden, daß, warum und wie die abendländische Philosophie den Sinn von Sein nicht zureichend bestimmt habe. Die in ‹Sein und Zeit› intendierte Wiederholung der Seinsfrage motiviert sich gerade aus dem Verdacht, die bisherige Ontologie habe Sein immer nur als Anwesenheit, also nur aus einem Zeitmodus – dem der Gegenwart –, statt aus allen dreien verstanden . \nInhaltlich sollte die D. in drei Schritten durchgeführt werden an den Lehren von Kant, Descartes, Aristoteles . Sieht man von dem kurzen Exkurs über Descartes im ersten Teil von ‹Sein und Zeit› ab , so hat Heidegger von der geplanten D. im Grunde nur die erste Phase geliefert, und auch diese nicht mehr im Rahmen von ‹Sein und Zeit›, sondern in seinem ersten Kantbuch . Seine späteren Arbeiten – nach der ‹Kehre› – intendieren und vollziehen zwar auch den Rückgang in die Geschichte der abendländischen Philosophie, insbesondere in die der Metaphysik, begreifen deren Verdeckungen und Verstellungen jedoch nicht mehr als solche menschlicher Seinsentwürfe, sondern als vom Sein selbst geschickte Verborgenheit, Vergessenheit und Irre . Demgemäß billigt der spätere Heidegger jener für ‹Sein und Zeit› geplanten D. zwar eine gewisse Notwendigkeit zu, sieht jedoch ihre grundsätzliche Grenze darin, daß sie «noch nicht seinsgeschichtlich gedacht» gewesen sei . An die Stelle der D. tritt die Überwindung und «Verwindung» der Metaphysik . \nII. In der Psychoanalyse hat S. FREUD (erstmals in ‹Jenseits des Lustprinzips›) ‹D.› verwendet zur Kennzeichnung der Aggressionstriebe: «Wir nehmen an, daß es zwei wesensverschiedene Arten von Trieben gibt, die Sexualtriebe ..., den Eros, ... und die Aggressionstriebe, deren Ziel die D. ist» . Das dualistische Verhältnis von Eros und D.-Trieb im Es beinhaltet zugleich die Scheidung zwischen den libidinösen Ich- und Objekttrieben und den nicht durch Libido definierten Aggressionstrieben, die als externe Ableitung des Todestriebs verstanden werden. Freud hat beide jedoch als immer faktisch amalgamiert betrachtet. Im Es «wirken die organischen Triebe, selbst aus Mischungen von zwei Urkräften (Eros und D.) in wechselnden Ausmaßen zusammengesetzt ...» . Der D.-Trieb kann in dieser Verbindung produktiv wirken. Die libidinösen Triebe sind immer mit einem Quantum D.-Trieb legiert als Durchsetzungsenergie, durch die das Triebziel erreichbar oder auch modifiziert wird . \nÜber den Rahmen der an Freud anschließenden psychoanalytischen Diskussion hinaus ist der Begriff der D. von H. MARCUSE aufgenommen und in philosophisch-soziologischem Bereich verwendet worden. Marcuse unternimmt den spekulativen Versuch, den «gemeinsamen Ursprung der zwei Grundtriebe» zu rekonstruieren; ihren Dualismus erklärt er als geschichtlich und als geschichtlich aufhebbar. Freud habe dagegen in seiner dualistischen Trieblehre die in der Entwicklung des Individuums und der Kultur auftretende D. perpetuiert. Der Todestrieb – und extravertiert der D.-Trieb – «ist ein Ausdruck des ewigen Kampfes gegen Leiden und Unterdrückung» sowie der Spannungsvermeidung mit der Chance der Überwindung durch positive Aufhebung der Spannung. Intendiert ist das Ende der D. durch Befriedigung des Triebanspruchs und damit Lösung der Spannung, aus der D. hervorging und zu deren Überwindung sie beitrug, in Form des Leistungs- und Realitätsprinzips. \nFür M. HORKHEIMER und TH. W. ADORNO impliziert – anders als in H. Marcuses psychoanalytischer Ableitung der D. – gesellschaftlicher Fortschritt die D. und reproduziert die Gesellschaft sich durch D.: «Das Destruktive des Fortschritts» entsteht als Zunahme von Herrschaft und Herrschaftswissen: «Nicht bloß die ideelle, auch die praktische Tendenz zur Selbstvernichtung gehört der Rationalität seit Anfang zu» .",
+ "n":"M. HEIDEGGER: Sein und Zeit (1927) 39. \na.a.O. VII. \n20f.; ausgeführt 301–404. \nVgl. 21. \nebda. \n22. \nebda. \n22f. \n22; vgl. 23. \nVgl. 25f. \nVgl. 40. \nVgl. §§ 19–21. \nVgl. Kant und das Problem der Met. (1929). \nVgl. dazu exemplarisch etwa: Die Met. als Gesch. des Seins (entstanden 1941), in: Nietzsche 2 (1961) 399–454; Brief über den Humanismus (1947). \nNietzsche 2, 415. \nVgl. z.B. Überwindung der Met., in: Vorträge und Aufsätze (1954) 71–99. \nS. FREUD, Werke (1940f.) 15, 110. \na.a.O. 17, 128. \nVgl. 13, 66; 17, 76. \nH. MARCUSE: Eros und Kultur (1957) 111. \na.a.O. 35. \nM. HORKHEIMER und TH. W. ADORNO: Dialektik der Aufklärung (Amsterdam 1947) 7. \na.a.O. 11.",
+ "l":"O. PÖGGELER: Der Denkweg Martin Heideggers (1963). – M. MÜLLER: Existenzphilos. im geistigen Leben der Gegenwart (31964).",
+ "au":"W. Franzen R. Romberg",
+ "A":["W. Franzen","R. Romberg"],
+ "cb":[[0,146],[224,146],[1616,146],[2234,146],[2594,147],[3271,147],[4247,147],[5192,147]],
+ "cn":[
+  [0,146],
+  [0,147],
+  [40,147],
+  [53,147],
+  [80,147],
+  [90,147],
+  [97,147],
+  [102,147],
+  [109,147],
+  [115,147],
+  [129,147],
+  [140,147],
+  [150,147],
+  [166,147],
+  [210,147],
+  [355,147],
+  [374,147],
+  [447,147],
+  [482,147],
+  [499,147],
+  [521,147],
+  [562,147],
+  [574,147],
+  [653,147]
+ ],
+ "cl":[[0,147]]
+}
+);

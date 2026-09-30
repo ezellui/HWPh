@@ -1,0 +1,37 @@
+HWPH.put("t/238",
+{
+ "b":"Archaisch. – 1. Das Wort geht auf ἀρχαῖος zurück, das zur Wortgruppe ἀρχή (Ursprung) gehört. Der Begriff war dem klassischen Griechisch geläufig. PLATON, bei dem er häufig auftritt , gebraucht ihn meist in der einfachen Bedeutung von ‹antiquus› für Personen, vor allem für die ersten Philosophen , und für Sachen und als Adjektiv zu ὄνομα und μῦθος . In verschiedenen Wendungen erhält sich aber auch die Bedeutung von ἀρχή . ARISTOTELES nennt die griechischen Philosophen vor Sokrates die ἀρχαῖοι, ohne mit dieser summarischen Bezeichnung eine Wertung zu vollziehen. In kritisch distanzierender Sprechweise nennt er die «alten Gesetze» «allzu einfach», d.h. undifferenziert (τοὺς ἀρχαίους νόμους λίαν ἁπλοῦς εἶναι) . Auf der anderen Seite konstatiert er in der ‹Rhetorik›, daß die althergebrachten Verhältnisse der menschlichen Gemeinschaft «dem natürlichen Zustand der Dinge irgendwie ähnlich» seien (τὸ ἀρχαῖον ἐγγύς τι φαίνεται τοῦ φύσει) . Auch PLOTIN ist der Begriff als Bezeichnung für die alten Philosophen geläufig ; relativ häufig aber erscheint bei ihm die ἀρχή-Bedeutung: «die ursprüngliche Lebensform der Seele» (τὴν ἀρχαίαν κατάστασιν) , «das Ursprüngliche der seelischen Substanz» (τὸ ἀρχαῖον τῆς ψυχικῆς οὐσίας) , «der alte Grundbestand der Seele» (τὸ ἀρχαῖον τῆς ψυχῆς) . Die Kirchenväter griechischer Sprache gebrauchen den Begriff in vielerlei Anwendungsbereichen. Neu ist dabei die Bedeutung als «vorchristlich» . ATHANASIOS nennt das Konzil zu Nicäa τὴν ἀρχαίαν σύνοδον . \n2. Im deutschen Sprachbereich ist das Wort ‹Archaismus› seit der zweiten Hälfte des 18. Jh. gebräuchlich . 1853 wurde es in einem Wörterbuch als «jeder in Rede oder Schrift gebrauchter veralteter Ausdruck» definiert . Seit dem ausgehenden 19. Jh. wird in der Kunstgeschichte und der Archäologie die vorklassische griechische Kunst «archaisch» genannt . Der Begriff war hier von Anfang an terminus technicus und ist vor allem im 20. Jh. in die Titel vieler Untersuchungen eingegangen. \nE. HOFFMANN erinnert in der Einleitung zu seinem Buch ‹Die Sprache und die archaische Logik› an den «additiven» Charakter der archaischen Standbilder und damit an die kunstgeschichtliche Bedeutung des Archaischen: «Wir nennen diejenige Kunst archaisch, in der das Standbild Teile hat, aber noch keine Glieder: die ästhetische Form durchdringt das Material stückweise, aber die Gestalt erscheint nicht vom Stoffe befreit, sondern bleibt in ihm gebunden. So ist die ‹archaische Logik› noch gebunden an das Material, durch welches das philosophische Eidos zum Ausdruck kommen will: die Sprache» . Im folgenden beruft sich der Autor auch auf den Sprachgebrauch J. STENZELS in dessen Buch ‹Zahl und Gestalt bei Plato und Aristoteles› und stellt seiner Vorstellung von der Gebundenheit des archaischen Denkens an das Wort die Gebundenheit an die Zahl gegenüber. Dieser Begriff der doppelten Gebundenheit bleibt aber für Hoffmann nicht statisch. Denn «das archaische Denken ist charakterisiert durch den Kampf um die Loslösung aus jener Gebundenheit, welche für das ‹primitive› Denken noch etwas Endgültiges, für das ‹klassische› schon etwas Abgetanes hat ... Die ἀρχαῖοι sind es, die den Befreiungskampf selber kämpfen» . \n3. Die komplexe Psychologie C. G. JUNGS bezeichnet solche Inhalte und Funktionen als «archaisch», die sich durch ihre «Altertümlichkeit» auszeichnen: «Es handelt sich dabei nicht um archaistische, d.h. nachgeahmte Altertümlichkeit ..., sondern um Eigenschaften, die den Charakter des Reliktes haben» . Archaisch sind hauptsächlich die Funktionen und die Bilder des Unbewußten, vor allem die archetypischen Vorstellungen des kollektiven Unbewußten: «Die Qualität eines Bildes ist dann archaisch, wenn es unverkennbare mythologische Parallelen hat» . Archaisch ist auch die «participation mystique», die darin besteht, «daß das Subjekt sich nicht klar vom Objekt unterscheiden kann, sondern mit diesem durch eine unmittelbare Beziehung, die man als partielle Identität bezeichnen kann, verbunden ist. Diese Identität beruht auf einem apriorischen Einssein von Objekt und Subjekt» . Archaisch ist schließlich alles, was un differenziert bleibt, sei es «das Verschmolzensein der psychologischen Funktionen» wie Denken, Fühlen, Empfinden, Intuieren oder die Nichtunterscheidung von Gegensätzen .",
+ "n":"ASTIUS, Lex. Platonicum, Art. ARCHAIOS. \nPLATON, Leg. III, 680 d; Theait. 180 c. \nKrat. 418 c. \nKrat. 418 c; Leg. IX, 865 d. \nSymp. 193 c. \nARISTOTELES, Pol. 1268 b 39. \nRhet. 1387 a 16. \nPLOTIN, Enn. VI, 1, 30; 3, 28. \nEnn. IV, 7, 9. \nII, 3, 15. \nII, 3, 8. \nORIGENES, Hom. in Jer. 12. MPG 13, 397 c. \nATHENAIOS, Syn. 20. MPG 26, 716 c. \nJ. CH. GOTTSCHED: Handlex. (1760) 122. \nW. HOFFMANN: Vollständiges Wb. der dtsch. Sprache (1853) Art. ‹Archaismus›. \nVgl. M. COLLIGNON: Caractères généraux de l'archaïsme grec. Rev. Arch. III, 5 (1885) 271–292; J. OVERBECK: Zur archaischen Kunst. Ber. Sächs. Ges. Wiss. (1890); H. BRUNN: Griech. Kunstgesch. 2: Die archaische Kunst (1897). \nE. HOFFMANN: Die Sprache und die archaische Logik (1925) VIIf. \nJ. STENZEL, Zahl und Gestalt bei Plato und Aristoteles (1924). \nE. HOFFMANN, a.a.O. [17] VIII. \nC. G. JUNG: Psychol. Typen (31930) 594. \na.a.O. 594. \n648. \n594.",
+ "l":"",
+ "au":"H. R. Schweizer",
+ "A":["H. R. Schweizer"],
+ "cb":[[0,495],[93,496],[1493,496],[1978,496],[3195,496],[3884,497]],
+ "cn":[
+  [0,495],
+  [0,497],
+  [41,497],
+  [82,497],
+  [96,497],
+  [126,497],
+  [140,497],
+  [170,497],
+  [188,497],
+  [220,497],
+  [236,497],
+  [248,497],
+  [259,497],
+  [302,497],
+  [338,497],
+  [378,497],
+  [455,497],
+  [679,497],
+  [743,497],
+  [807,497],
+  [839,497],
+  [880,497],
+  [893,497],
+  [899,497]
+ ],
+ "cl":[]
+}
+);

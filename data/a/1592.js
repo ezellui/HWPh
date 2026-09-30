@@ -1,0 +1,36 @@
+HWPH.put("a/1592",
+{
+ "id":1592,
+ "lemma":"Kommunikation, visuelle",
+ "band":"4",
+ "kind":"article",
+ "col_from":896,
+ "col_to":897,
+ "pdf_from":14174,
+ "pdf_to":14175,
+ "authors":["G. Boehm"],
+ "n_notes":1,
+ "n_chars":2332,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Kommunikation, visuelle. Der Begriff ‹visuelle K.› (= v.K.) entstand im Zusammenhang der allgemeinen Grundlagendiskussion zum Problem der K. Sie wurde von der Informationstheorie, der Linguistik, Semiotik, Soziologie, praktischen Philosophie und marxistischen Gesellschaftstheorie in Gang gebracht und tendiert mittlerweile zu einer Theorie der K., die sich als selbständige Disziplin begreifen möchte. Die verschiedene sachliche Ausfüllung und Differenzierung des einfachen K.-Modells (Sender-Empfänger-Code) hat schließlich auch zur Berücksichtigung visueller Aspekte geführt. Dabei lassen sich bislang vor allem zwei Richtungen unterscheiden: Die eine nimmt ihren Ausgang von Semiotik und Strukturalismus und sucht v.K. im Zusammenhang einer Theorie der kulturellen Codes zu behandeln. Dabei spielt die Bestimmung des Ikonischen am Zeichen eine zentrale Rolle (Eco, METZ u.a.). Auch die Erneuerung und Weiterentwicklung rhetorischer Lehren zu einer allgemeinen Rhetorik der Kulturphänomene hat dafür anregend gewirkt <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – Die andere Richtung behandelt v.K. als ein Feld sozialer Manipulationen, die es zu durchschauen gilt. Sie tendiert zu einer kritischen Medientheorie. Für beide Tendenzen fallen unter v.K. alle überhaupt visuell spezifizierbaren Phänomene, über die im engeren Sinne ikonografischen (im Bereich der <span class=\"col\" data-col=\"897\"></span> bildenden Kunst) hinaus, solche des Films, der Reklame, der Massenmedien, der Mode, der Choreographie, der Farbtheorie usw.</p>\n<p>Eine eigene Theorie der v.K. welche die Grundlagen und Spezifika des visuellen Bereichs von anderen K.-Formen abhebt, zeichnet sich bislang erst in Umrissen ab. So bleibt es fraglich, ob das Visuelle und Bildliche durch das bisher eingesetzte Modell von K. hinreichend darzustellen ist.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">D. PROKOP: Soziol. des Films (1970). – W. F. HAUG: Kritik der Warenästhetik (1971). – D. PROKOP (Hg.): Materialien zur Theorie des Films (1971, <sup>2</sup>1974). – H. K. EHMER (Hg.): V.K. (1971). – F. KNILLI (Hg.): Semiotik des Films (1971, <sup>2</sup>1974). – U. ECO: Einf. in die Semiotik (1972). – CH. METZ: Semiol. des Films (1972). – D. BAAKE (Hg.): Krit. Medientheorie (1973). – R. BARTHES s. Anm. [1]. – D. PROKOP: Massenkultur und Spontaneität (1974).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">R. BARTHES: Rhétorique de l'image. Communications 4 (1964); dtsch. in: G. SCHIWY: Der frz. Strukturalismus (1969) 158ff.; vgl. auch Communications Nr. 15 (1970).</li>\n</ol>",
+ "prev":{"id":1591,"lemma":"Kommunikation","band":"4","col":893},
+ "next":{"id":1593,"lemma":"Kommunikationsforschung","band":"4","col":897},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"visuelle Kommunikation","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":599,"name":"J. B. Metz","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":693,"name":"R. Barthes","b":0,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":2790,"name":"G. Schiwy","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4619,"name":"D. Prokop","b":0,"n":0,"l":3,"editor":0,"role":"scholar"},
+  {"id":1100,"name":"W. F. Haug","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14919,"name":"F. Knilli","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":22351,"name":"H. K. Ehmer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14920,"name":"D. Baake","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2865,"lemma":"Semiotik, Semiologie","tf":2}],
+ "see_also":[{"id":3673,"lemma":"Zeichen"}],
+ "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Kommunikation, visuelle"}],
+ "reg_authors":[{"name":"Boehm Gottfried","n":3}]
+}
+);

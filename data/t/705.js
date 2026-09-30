@@ -1,0 +1,37 @@
+HWPH.put("t/705",
+{
+ "b":"I. Die Schule von Elea, schon von PLATON global als Ἐλεατικὸν ἔθνος bezeichnet , hat vor allem durch Parmenides ihr Gepräge erhalten. Begründer ist nach antiker Überlieferung XENOPHANES (ca. 570–ca. 475), der 546 vor der persischen Eroberung aus seiner Vaterstadt Kolophon floh und sich, nach langer Wanderung als Rhapsode, in Elea (in Unteritalien) niederließ. Mit seiner mehr theologischen Lehre tritt er gegen die mythischen Göttervorstellungen auf und setzt sich, in dieser radikalen Form als Erster, unter Ablehnung aller anthropomorphen Vorstellungen für den Monotheismus ein: «Ein Gott!... nicht an Gestalt den Sterblichen artgleich, nicht an Gedanken» (Frg. 23). Die Wesensbestimmungen dieses Gottes («ganz», «unbeweglich» ) wirkten sich auf Parmenides aus. \nIm Zentrum der Eleatischen Lehre (im Sinn von E.) steht der Seinsbegriff des PARMENIDES (ca. 515–ca. 445), der mehr durch seine persönliche Beziehung – stammt er doch aus Elea selbst – denn durch seine Lehre als «Schüler» des Xenophanes bezeichnet werden kann. Sein in großen Teilen im Wortlaut erhaltenes Lehrgedicht Περὶ Φúσεως zeigt ihn als einen durch und durch schöpferischen, originalen, zu letzter Abstraktion fähigen Denker. Als erster stellt er die Grundlage der bisherigen Naturphilosophie, die ganze sinnlich wahrnehmbare, materielle Welt in Frage: die menschlichen Sinne vermitteln uns nur eine «Scheinmeinung», ein «Trugbild» (δóξα) von der Welt des «Werdens und Vergehens, des Seins und Nichtseins» (Frg. 8, 40); alles, was sich uns zeigt, ist widersprüchlich . Hatte nun Heraklit gerade in dieser Widersprüchlichkeit das Wesen aller Dinge erkannt und auf ihr seine Philosophie des Werdens begründet, so ist sie für Parmenides der Beweis ihrer Unwahrhaftigkeit, der das einzig wirklich Wahre, das Seiende (τὸ ὄν) gegenübersteht: «Nur das Sein ist, das Nichts dagegen ist nicht» (Frg. 6 ), lautet der oft wiederholte Kernsatz. Dieses Seiende, das allein dem Denken (λóγος ) faßbar ist und das letztlich auf eine Offenbarung zurückgeht , steht außerhalb von Werden und Vergehen , ist Eines (τὸ ἕν), ein Ganzes, zusammenhängend, unerschütterlich , unbeweglich , begrenzt, einer Kugel gleich . \nDer Seinsbegriff des Parmenides, dessen Auswirkungen sich über Plato und die antike Philosophie hinaus bis zu Spinoza und Herbart verfolgen lassen, hat durch dessen Schüler, ZENON VON ELEA (um 460) und MELISSOS (um 445), keine wesentlich neuen Aspekte erhalten. Während ZENON, bestrebt, die Einheitslehre seines Meisters zu verteidigen, von einer Pluralität ausgeht und so seine Gegner ad absurdum führen will (dazu dienen die Trugschlüsse des «Achilles, der nicht das Langsamste einholen kann» und des «fliegenden Pfeiles, der steht» ), befaßt sich MELISSOS besonders mit den Prädikaten des parmenideischen ὄν . \nII. In der Philosophiegeschichtsschreibung wurden lange allgemein die Bezeichnungen ‹eleatische Sekte›, ‹eleatische Schule› oder ‹die Eleaten› verwandt. J. BRUCKER unterscheidet in der «Secta Eleatica» einen mehr metaphysisch und einen mehr naturphilosophisch («physice de rerum natura») ausgerichteten Zweig . Diese Differenzierung wird in der von DIDEROT und d'ALEMBERT herausgegebenen ‹Encyclopédie› als ein «grand schisme dans l'école éléatique» bezeichnet, wobei jetzt ausdrücklich der Name ‹E.› verwandt wird. Unter «Eléatisme métaphysique» werden Xenophanes, Parmenides, Melissos und Zenon, die das Naturstudium für eine vergebliche Beschäftigung hielten, verstanden und unter «Eléatisme physique» Leukipp, Demokrit, Protagoras u.a., die glaubten, daß die Wahrheit sich notwendigerweise auf das Zeugnis der sinnlichen Erfahrung stützen müsse . Später scheint diese zweite Gruppe nicht mehr zu den Eleaten gezählt worden zu sein, denn jetzt verbindet sich mit dem Begriff des E. immer die Vorstellung des zur höchsten Abstraktion fähigen Denkens. HEGEL wertet die «Eleaten» als die ersten, die das absolute Wesen als reinen Begriff verstanden haben und die in der Darstellung dieses Begriffs den Anfang der Dialektik bilden. In der eleatischen Schule «sehen wir ... den Gedanken sich selbst rein ergreifen, und die Bewegung des Gedankens in Begriffen» . Hegel sieht hierin eine in aller Philosophie bis zur Gegenwart hin virulente Frage. Auch W. G. TENNEMANN bezeichnet die «Eleatiker» als «die ersten Denker», die die «Principien der Vernunft von empirischen Sätzen» trennten und «den Widerstreit der Erfahrung und der reinen speculativen über alle Erfahrung sich erhebenden Vernunft» aufdeckten . TH. A. RIXNER sieht als Kennzeichen der «Schule der Eleatiker» einen «einseitigen Vernunft-Realismus» und eine «All-Einslehre» . Seit W. T. KRUG, der jedoch in dieser sich von aller Empirie lösenden Spekulation die Gefahr des Pantheismus erblickt, dürfte sich der Name ‹E.› allgemein durchgesetzt haben .",
+ "n":"PLATON, Sophist. 242 d. \nAnders REINHARDT (s.u.) 101ff. \nXENOPHANES, Frg. 11. \nFrg. 14/16. \nFrg. 24. 26. \nPARMENIDES, Frg. 8, 53ff., Frg. 9. \nVgl. Frg. 8, 36f. \nFrg. 7, 5. \nVgl. das Prooemium Frg. 1. \nFrg. 8, 3. 13f. 27f. \nFrg. 8, 2ff. \nFrg. 8, 26. \nFrg. 8, 43. \nDazu F. M. CORNFORD: Plato and Parmenides (London 21950). \nPLATON, Parm. 128. \nZENON, Frg. A 26. 27. \nMELISSOS, Frg. A 1; B 1ff. \nJ. BRUCKER: Hist. critica philosophiae 1 (1742) 1142; J. G. WALCH: Philos. Lex. (41775) 1, 975: «Eleatica», «eleatische Secte». \nEncyclopedie ou dictionnaire raisonné ... (Paris 1751–1780) 5, 449–453. \nHEGEL, Jubiläums-A. 17, 296. \nW. G. TENNEMANN: Gesch. der Philos. 1 (1798) 150. \nTH. A. RIXNER: Hb. der Gesch. der Philos. 1 (1822) 104. \nW. T. KRUG: Allg. Handwb. der philos. Wiss. 1 (1827) 630f.",
+ "l":"W. KULLMANN: Zenon und die Lehre des Parmenides. Hermes 86 (1958) 157–172. – K. REINHARDT: Parmenides und die Gesch. der griech. Philos. (21959). – H. FRÄNKEL: Dichtung und Philos. des frühen Griechentums (21962) 371–422. – J. MANSFELD: Die Offenbarung des Parmenides und die menschliche Welt (Diss. Utrecht 1964).",
+ "au":"A. Stückelberger U. Dierse",
+ "A":["A. Stückelberger","U. Dierse"],
+ "cb":[[0,437],[134,438],[767,438],[2172,438],[2786,438],[3373,439]],
+ "cn":[
+  [0,437],
+  [25,437],
+  [57,437],
+  [79,437],
+  [92,437],
+  [106,437],
+  [142,437],
+  [161,437],
+  [173,437],
+  [201,437],
+  [223,437],
+  [237,437],
+  [250,437],
+  [263,437],
+  [322,437],
+  [342,437],
+  [365,437],
+  [391,439],
+  [393,439],
+  [522,439],
+  [595,439],
+  [625,439],
+  [676,439],
+  [733,439]
+ ],
+ "cl":[[0,438]]
+}
+);

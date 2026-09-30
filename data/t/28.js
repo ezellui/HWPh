@@ -1,0 +1,25 @@
+HWPH.put("t/28",
+{
+ "b":"Absolutheit des Christentums. Der Begriff findet sich vereinzelt im Idealismus und seinem Einflußbereich. SCHELLING schreibt 1802: Es gibt «nur Heidentum oder C, außer diesen beiden ist nichts als die beiden gemeinschaftliche A.», d.h. Schelling nimmt in Aussicht, daß das C. «sich in die Heiterkeit und Schönheit der griechischen Religion verkläre» . R. ROTHE notiert um 1855: «Darin eben erweist sich das C. als die absolute Religion, daß es nicht mehr ... Religion für sich ... sein will. Wer es gleichwohl dazu machen will, bringt es um den Charakter der A.», denn das wahre, der modernen Bildung und Kultur wahlverwandte C. läßt sich nicht in Kirchlichkeit und Dogmendienst einsperren . Rothe folgt im Sprachgebrauch der HEGELschen Religionsphilosophie; die abkürzende Wendung ‹A.d.C.› bürgert sich aber zunächst nicht ein. \nErst 1896 wird ihr von E. TROELTSCH in der Diskussion ein fester Platz gegeben. Die A.d.C. ist wissenschaftlich nicht mehr streng beweisbar, denn sobald die Wirklichkeit als geschichtlich geworden und vergänglich durchschaut wird, fällt die Sicherheit, mit der man zuvor an die Geltung des C. glaubte, dahin . Der Begriff ist auch hier in lockerer Anlehnung an Hegel, mehr noch aber mit Hilfe des allgemeinen, der Relativität entgegengesetzen A.-Begriffs gebildet. In seinem berühmten Vortrag über «Die A.d.C. und die Religionsgeschichte» destruiert Troeltsch die beiden Formen der Apologetik, die das C. mittels der Wunder (Supranaturalismus) bzw. kraft seiner Identität mit der Idee der Religion (Idealismus) absolut setzen. Trotzdem will Troeltsch die Höchstgeltung des C. erweisen: Es sei, wenn man es unvoreingenommen mit den anderen Religionen vergleiche, «die höchste und folgerichtigst entfaltete Lebenswelt, die wir kennen ... nur in diesem Sinne läßt sich die A.d.C. behaupten» . H. SÜSKIND bringt – die Anregungen seines Lehrers Troeltsch aufnehmend – die verschiedenen Stufen des A.-Begriffes in ein System. Vor der Begegnung mit anderen religiösen A.-Ansprüchen ist mit der eigenen Religion zugleich die religiöse A. gegeben, die entweder unmittelbar empfunden oder dogmatisch objektiviert sein kann. Wird die Sonderstellung des C. angegriffen, dann macht die Apologetik die A.d.C. zu ihrem besonderen Gegenstand; unter ihren möglichen Ergebnissen unterscheidet Süskind die naiv-apologetische A. (scheinbare Widerlegung der anderen Ansprüche mit Hilfe des eigenen) und die künstlich-apologetische, die sich in die supranaturalistische und die rationale (welche Vernunft und Offenbarung gleichsetzt) aufspaltet. Darüber erhebt sich als allein Brauchbares die wissenschaftlich nachgewiesene A.: die Preisgabe des strengen Begriffs zugunsten der tatsächlichen Überlegenheit des C. . Letzteres schließt jedoch immer die persönliche Stellungnahme des Betrachters ein. \nDiese von Troeltsch hinterlassene Fassung des Problems hat die ganze ältere Diskussion über die «Perfektibilität des C.» und über die «absolute Religion» verwandelt . Auch über Troeltschs Lösung ist man nicht hinausgekommen. Die Verbesserungen des A.-Begriffes erschöpfen sich darin, die innere Vollkommenheit des C. zu betonen , seine «Wertfülle, Wertreinheit und Werteinzigkeit» darzustellen oder von der subjektiven Gewißheit aus einen Weg zur objektiven zu ertasten . J. HESSEN faßt diese Bestrebungen systematisch zusammen. Er verzichtet auf den exakten Beweis der A.d.C., sucht aber eine Näherung: Da die religiösen Werte des C. sich zu den ethischen und ästhetischen Werten positiv verhalten, da die phänomenologisch erschließbaren Wesenszüge von Religion überhaupt im C. harmonisch vereinigt sind und da Jesu persönliches A.-Bewußtsein für eine an den großen Persönlichkeiten sich orientierende Geschichtsdeutung wesentlich ist, sprechen «gewichtige Vernunftgründe» für den Glauben an die A.d.C. .",
+ "n":"SCHELLING, Sämtl. Werke (1856–1881) 5, 120. \nR. ROTHE: Stille Stunden (1872) 348. \nE. TROELTSCH: Die Selbständigkeit der Religion. Z. Theol. u. Kirche 6 (1896) 207f. \n(1902, 31929). \na.a.O. (31929) 8ff. 74f. \nH. SÜSKIND: C. und Gesch. bei Schleiermacher (1911) 163–167. \nVgl. E. HIRSCH: Gesch. der neuern evang. Theol. (1949–1954) 4, 86; 5, 250; W. ELERT: Der Kampf um das C. (1921) 159ff. \nM. REISCHLE: Theol. und Religionsgesch. (1904) 81ff. \nF. HEILER: Die Frage der ‹A.›d.C. im Lichte der Religionsgesch. Eine heilige Kirche 20 (1938) 333. \nL. IHMELS: Centralfragen der Dogmatik (21912) 54. \nJ. HESSEN: Der A.-Anspruch des C. (1963) 13. 75ff. 52ff. 102. 16.",
+ "l":"J. KLEIN: A.d.C. RGG 3 1, 76–78. – TH. LOHMANN: Der A.-Anspruch des C. in der modernen Theol. und Religionswiss. Wiss. Z. Friedrich Schiller-Univ. Jena, gesellschafts- und sprachwiss. Reihe 9 (1959/60) 209–230. – R. SCHÄFER: Welchen Sinn hat es, nach einem Wesen des C. zu suchen? Z. Theol. u. Kirche 65 (1968) 329–347.",
+ "au":"R. Schäfer",
+ "A":["R. Schäfer"],
+ "cb":[[0,31],[830,31],[1285,32],[2807,32]],
+ "cn":[
+  [0,31],
+  [0,32],
+  [45,32],
+  [83,32],
+  [167,32],
+  [183,32],
+  [209,32],
+  [271,32],
+  [391,32],
+  [445,32],
+  [545,32],
+  [596,32]
+ ],
+ "cl":[[0,32]]
+}
+);

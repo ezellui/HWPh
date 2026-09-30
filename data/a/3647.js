@@ -1,0 +1,96 @@
+HWPH.put("a/3647",
+{
+ "id":3647,
+ "lemma":"Wissenssoziologie",
+ "band":"12",
+ "kind":"article",
+ "col_from":981,
+ "col_to":983,
+ "pdf_from":51522,
+ "pdf_to":51527,
+ "authors":["R. Schützeichel"],
+ "n_notes":19,
+ "n_chars":7177,
+ "toc":[
+  ["p1","1. Klassische W. – Der Sache nach finden sich wissenssoziologische Reflex",3],
+  ["p2","2. Sozialphänomenologische W. – Eine Verschiebung der Fragestellung auf d",3],
+  ["p3","3. W. des wissenschaftlichen Wissens. – Neben dem Alltags- wird das wisse",3],
+  ["p4","4. Neuere Entwicklungen der W. – Wissenssoziologische Fragestellungen wer",3],
+  ["h5","Literaturhinweise",0],
+  ["notes","Anmerkungen",0]
+ ],
+ "html":"<p>Wissenssoziologie (engl. sociology of knowledge; frz. sociologie de la connaissance; ital. sociologia della conoscenza). ‹W.› wird seit den 1920er Jahren eine heterogene soziologische Forschungstradition genannt, die sich mit den wechselseitigen Bedingungen von sozialen Prozessen und Strukturen einerseits, der Genese, dem Wandel und der Differenzierung von Wissensformen andererseits befaßt. Die theoretischen Positionen unterscheiden sich in ihren Erkenntniszielen, ihrer Konzeption der sozialen und der Wissensfaktoren, ihren erkenntnistheoretischen Implikationen und in ihrem Verständnis der W., das zwischen einer engeren Soziologie der Erkenntnis <sup class=\"fn\" data-fn=\"0-1\">1</sup> und einer weiteren Soziologie der Kultur oszillieren kann. Den Positionen ist gemeinsam, daß sie ihrerseits wissenssoziologisch als Problematisierungen der sozialen Entwicklung von Wissensformen aufgefaßt werden können.</p>\n<p id=\"p1\">1. <i>Klassische W.</i> – Der Sache nach finden sich wissenssoziologische Reflexionen in den Ideologienlehren und der Religionskritik der Aufklärungsphilosophie, in der Basis-Überbau-These von K. MARX, in der positiven Philosophie von A. COMTE, aber auch in den Überlegungen von E. DURKHEIM und M. MAUSS über den sozialen Ursprung von Wissenskategorien <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Ihre klassische Gestalt wie auch ihre Bezeichnung <span class=\"col\" data-col=\"982\"></span> findet die W. in der deutschen Soziologie der 1920er Jahre, insbesondere bei M. SCHELER <sup class=\"fn\" data-fn=\"0-3\">3</sup> und K. MANNHEIM <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Im Zentrum steht das Problem, wie Wissen sozialen Gruppen zugerechnet werden kann. Kontrovers ist insbesondere das Problem des Einflusses sozialer Faktoren auf Wissensfaktoren. Die gemäßigte W. von SCHELER billigt den sozialen Realfaktoren nur eine Selektionsfunktion für die als Idealfaktoren begriffenen Wissensinhalte zu <sup class=\"fn\" data-fn=\"0-5\">5</sup>, während die radikale Version von MANNHEIM mit ihrem universalen Ideologiebegriff die ‘<a class=\"xref\" href=\"#/a/2814\">Seinsverbundenheitʼ</a> <span class=\"sd\">→ (s.d.)</span> eines jeglichen Wissens als Ausdruck bestimmter sozialer Konstellationen konstatiert <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p id=\"p2\">2. <i>Sozialphänomenologische W.</i> – Eine Verschiebung der Fragestellung auf die konstitutive Bedeutung von Wissen für soziale Formen findet bei A. SCHÜTZ statt. Wissen fungiert als Integrations- und Differenzierungsprinzip unterschiedlicher sozialer Welten. Das vornehmliche Interesse gilt der Struktur des durch eine «natürliche Weltanschauung» <sup class=\"fn\" data-fn=\"0-7\">7</sup> charakterisierten Alltagswissens. Wissen wird als typisiertes und idealisiertes Wissen bestimmt, welches sich in Abhängigkeit von problembezogenen Relevanzstrukturen in Wissensroutinen und Wissensvorräten institutionalisiert <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Diese Argumentation wird in den Analysen von P. L. BERGER und TH. LUCKMANN über die «gesellschaftliche Konstruktion der Wirklichkeit» <sup class=\"fn\" data-fn=\"0-9\">9</sup> fortgeführt. Die von Schütz herausgestellten Eigenschaften des Wissens werden in die beiden korrespondierenden Funktionsbestimmungen der sozialen Konstruktion von Wissen und der sozialen Konstruktion durch Wissen überführt.</p>\n<p id=\"p3\">3. <i>W. des wissenschaftlichen Wissens.</i> – Neben dem Alltags- wird das wissenschaftliche Wissen Gegenstand der W., wobei besonders die wissenschaftstheoretische Auffassung von einer spezifischen Rationalität und immanenten Entwicklungslogik der Wissenschaft kritisiert wird. Im «strong programme» <sup class=\"fn\" data-fn=\"0-10\">10</sup> der <a class=\"xref\" href=\"#/a/3645\">Wissenschaftssoziologie</a> <span class=\"sd\">→ (s.d.)</span> wird die Zuständigkeit der W. symmetrisch auch für das als wahr anerkannte Wissen beansprucht.</p>\n<p id=\"p4\">4. <i>Neuere Entwicklungen der W.</i> – Wissenssoziologische Fragestellungen werden zunehmend in den unterschiedlichen Theorieprogrammen der Soziologie berücksichtigt, ohne daß dies zu einer stärkeren thematischen oder begrifflichen Integration der W. führt. P. BOURDIEU untersucht die «doxa» <sup class=\"fn\" data-fn=\"0-11\">11</sup> spezifischer sozialer Praxisfelder. Die Systemtheorie von N. LUHMANN analysiert auf der Basis eines konstruktivistischen Wissensbegriffs den Wandel sozialer Semantiken in Abhängigkeit von gesellschaftlichen Differenzierungsformen <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Die hermeneutische W. rekonstruiert in der Tradition von Schütz die Formen des sprachlich und kommunikativ erzeugten Alltagswissens <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Andere Positionen fordern eine kultursoziologische <sup class=\"fn\" data-fn=\"0-14\">14</sup>, pragmatische <sup class=\"fn\" data-fn=\"0-15\">15</sup> oder historische <sup class=\"fn\" data-fn=\"0-16\">16</sup> Neuorientierung der W. Ebenso wird eine Integration von W. und philosophischer Epistemologie <sup class=\"fn\" data-fn=\"0-17\">17</sup> bzw. von W. und Diskurstheorie <sup class=\"fn\" data-fn=\"0-18\">18</sup> angestrebt. Eine neue gesellschaftstheoretische Relevanz erhält die W. in den Analysen zur «Wissensgesellschaft» <sup class=\"fn\" data-fn=\"0-19\">19</sup>, die die zunehmende Wissensabhängigkeit der gesellschaftlichen Reproduktion betonen. <span class=\"col\" data-col=\"983\"></span></p>\n<h3 id=\"h5\">Literaturhinweise</h3>\n<p class=\"lit\">– <i>Zur W. allg.:</i> M. KRUEGER: W. (1981). – H. KUKLICK: The sociology of knowledge: Retrospect and prospect. Ann. Review Sociol. 9 (1983) 287–310. – S. MAASEN: W. (1999). – <i>Zur klassischen W.:</i> E. DURKHEIM/M. MAUSS: De quelques formes primit. de classification. L'année sociolog. 6 (1901/02) 1–72. – M. HORKHEIMER: Ein neuer Ideologiebegriff? Arch. Gesch. Sozialismus Arbeiterbewegung, hg. C. GRÜNBERG 15 (1930) 1–34. – K. LENK s. Anm. [2]. – E. R. FUHRMAN: The sociology of knowledge in America 1883–1915 (Charlottesville 1979). – V. MEJA/N. STEHR (Hg.): Der Streit um die W. 1–2 (1982). – <i>ZurW. wissenschaftlichen Wissens:</i> B. HEINTZ: Wissenschaft im Kontext. Neuere Entwicklungstendenzen der Wissenschaftssoziologie. Kölner Z. Soziol. Sozialpsychol. 45 (1993) 528–552. – <i>Zu neueren Entwicklungen:</i> N. STEHR: Knowledge societies (London 1994).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"982\"></span> So schon: W. JERUSALEM: Soziologie des Erkennens. Die Zukunft 67 (Mai) (1909) 236–246.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. K. LENK (Hg.): Ideologiekritik und W. (1961).</li>\n<li id=\"fn0-3\" value=\"3\">M. SCHELER: Probleme einer Soziologie des Wissens, in: M. SCHELER (Hg.): Versuche zu einer Soziologie des Wissens (1924) 3–146, in: Die Wissensformen und die Gesellschaft (1926). Ges. Werke [GW] 8 (<sup>2</sup>1960) 15–190.</li>\n<li id=\"fn0-4\" value=\"4\">K. MANNHEIM: Das Problem einer Soziologie des Wissens. Arch. Sozialwiss. Sozialpolit. 53 (1925) 577–652; ND, in: W., hg. K. H. WOLFF (1964) 308–387.</li>\n<li id=\"fn0-5\" value=\"5\">SCHELER, a.O. [3] (1924) 8–11 GW 8, 19–24.</li>\n<li id=\"fn0-6\" value=\"6\">K. MANNHEIM: W., in: A. VIERKANDT (Hg.): Handwb. der Soziologie (1931) 659–680; ND, in: Ideologie und Utopie (<sup>3</sup>1952, <sup>8</sup>1995) 227–267. <span class=\"col\" data-col=\"983\"></span></li>\n<li id=\"fn0-7\" value=\"7\">A. SCHÜTZ/TH. LUCKMANN: Strukturen der Lebenswelt 1 (1979) 25.</li>\n<li id=\"fn0-8\" value=\"8\">a.O. 133–223.</li>\n<li id=\"fn0-9\" value=\"9\">P. L. BERGER/TH. LUCKMANN: The social construction of reality (Garden City 1966); dtsch.: Die gesellschaftl. Konstruktion der Wirklichkeit (1969).</li>\n<li id=\"fn0-10\" value=\"10\">D. BLOOR: Knowledge and social imagery (London 1976) 1–19.</li>\n<li id=\"fn0-11\" value=\"11\">P. BOURDIEU: Méditations pascaliennes (Paris 1997); dtsch.: Meditationen (2001).</li>\n<li id=\"fn0-12\" value=\"12\">N. LUHMANN: Gesellschaftsstruktur und Semantik 1–4 (1980–1995).</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. R. HITZLER u.a. (Hg.): Hermeneutische W. (2000).</li>\n<li id=\"fn0-14\" value=\"14\">Vgl. E. D. MCCARTHY: Knowledge as culture: The new sociology of knowledge (London 1996).</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. A. SWIDLER/J. ARDITI: The new sociology of knowledge. Ann. Review Sociol. 20 (1994) 305–329.</li>\n<li id=\"fn0-16\" value=\"16\">Vgl. M. R. SOMERS: Where is sociology after the hist. turn? Knowledge cultures, narrativity, and hist. epistemologies, in: T. J. MCDONALD (Hg.): The hist. turn in the human sci. (Ann Arbor 1996) 53–90.</li>\n<li id=\"fn0-17\" value=\"17\">Vgl. S. FULLER: Social epistemology (Bloomington 1988); F. SCHMITT (Hg.): Socializing epistemology (Lanham 1994).</li>\n<li id=\"fn0-18\" value=\"18\">Vgl. R. KELLER: Wissenssoziolog. Diskursanalyse, in: R. KELLER u.a. (Hg.): Hb. Sozialwissenschaftl. Diskursanalyse (2001) 113–143.</li>\n<li id=\"fn0-19\" value=\"19\">Erstmalig findet sich die Bezeichnung ‹Wissensgesellschaft› bzw. ‹Knowledgeable Society› bei: R. E. LANE: The decline of politics and ideology in a knowledgeable society. Amer. sociolog. Review 31 (1966) 649–662.</li>\n</ol>",
+ "prev":{"id":3646,"lemma":"Wissenschaftstheorie; Wissenschaftsphilosophie","band":"12","col":973},
+ "next":{"id":3648,"lemma":"Witz","band":"12","col":983},
+ "backlinks":[
+  {"id":3523,"lemma":"Wahrheit","n":1},
+  {"id":3560,"lemma":"Weltanschauung","n":1},
+  {"id":3634,"lemma":"Wissen","n":1},
+  {"id":3641,"lemma":"Wissenschaftsforschung;Wissenschaftswissenschaft","n":1},
+  {"id":3645,"lemma":"Wissenschaftssoziologie","n":1}
+ ],
+ "outlinks":[
+  {"id":2814,"lemma":"Seinsverbundenheit; Seinsgebundenheit","n":1},
+  {"id":3645,"lemma":"Wissenschaftssoziologie","n":1}
+ ],
+ "register":[
+  {"term":"doxa (Bourdieu)","qualifier":"","band":"12","col":"982"},
+  {"term":"knowledgeable society","qualifier":"","band":"12","col":"983"},
+  {"term":"sociology of knowledge","qualifier":"","band":null,"col":null},
+  {"term":"Soziologie des Wissens","qualifier":"","band":null,"col":null},
+  {"term":"Wissensgesellschaft","qualifier":"","band":"12","col":"982"}
+ ],
+ "persons":[
+  {"id":23,"name":"M. Scheler","b":2,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":422,"name":"K. Mannheim","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":1385,"name":"Th. Luckmann","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":98,"name":"N. Luhmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":532,"name":"A. Schütz","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":787,"name":"P. L. Berger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1182,"name":"P. Bourdieu","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6143,"name":"R. Keller","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":218,"name":"E. Durkheim","b":1,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":981,"name":"M. Mauss","b":1,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":2119,"name":"K. Lenk","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":11,"name":"Ch. Wolff","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":138,"name":"A. Comte","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":696,"name":"A. Vierkandt","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2204,"name":"W. Jerusalem","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5138,"name":"R. J. Mccarthy","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5338,"name":"Th. Fuller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6865,"name":"H. D. Mcdonald","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7100,"name":"D. Bloor","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11311,"name":"R. E. Lane","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":33455,"name":"R. Hitzler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":33456,"name":"A. Swidler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":33457,"name":"J. Arditi","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":33458,"name":"M. R. Somers","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":5353,"name":"N. Stehr","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
+  {"id":111,"name":"M. Horkheimer","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":384,"name":"F. Krueger","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":2733,"name":"P. Heintz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7021,"name":"V. Meja","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5827,"name":"C. Grünberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":33459,"name":"S. Maasen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":33460,"name":"E. R. Fuhrman","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":774,"name":"F. S. Schmitt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":13197,"name":"B. Kuklick","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2960,"lemma":"Soziologie","tf":4},
+  {"id":1631,"lemma":"Konstruktion","tf":3},
+  {"id":1456,"lemma":"Integration","tf":2},
+  {"id":23,"lemma":"Abhängigkeit (Dependenz)","tf":2},
+  {"id":3543,"lemma":"Wandel; Veränderung","tf":2},
+  {"id":3040,"lemma":"Struktur","tf":2},
+  {"id":125,"lemma":"Analyse","tf":2}
+ ],
+ "see_also":[{"id":3645,"lemma":"Wissenschaftssoziologie"}],
+ "groups":[
+  {"id":7,"name":"Disziplinen und Fächer","label":"Wissenssoziologie"},
+  {"id":42,"name":"Soziologie","label":"Wissenssoziologie"}
+ ],
+ "reg_authors":[{"name":"Schütz Werner","n":3}]
+}
+);

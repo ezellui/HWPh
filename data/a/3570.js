@@ -1,0 +1,46 @@
+HWPH.put("a/3570",
+{
+ "id":3570,
+ "lemma":"Weltlinie",
+ "band":"12",
+ "kind":"article",
+ "col_from":493,
+ "col_to":494,
+ "pdf_from":50004,
+ "pdf_to":50007,
+ "authors":["K. Hentschel"],
+ "n_notes":8,
+ "n_chars":4213,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Weltlinie (engl. world line). In seinem Vortrag vor der Kölner Versammlung Deutscher Naturforscher und Ärzte am 21. Sept. 1908 machte der Göttinger Mathematiker H. MINKOWSKI eine breite Öffentlichkeit mit den ‘radikalenʼ Konsequenzen der speziellen <a class=\"xref\" href=\"#/a/2672\">Relativitätstheorie</a> <span class=\"sd\">→ (s.d.)</span> A. EINSTEINS bekannt. In Minkowskis Darstellung sollten «Raum für sich und Zeit für sich völlig zu Schatten herabsinken und nur noch eine Art Union der beiden soll Selbständigkeit bewahren» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Betrachtet man in dieser vierdimensionalen Raum-Zeit-Geometrie die Änderungen <i>dx, dy</i> und <i>dz</i> der Raumkoordinaten eines materiellen Punktes als Funktion der Zeit <i>t,</i> so erhält man dessen W. Diese wird parallel zur <i>t</i>-Achse verlaufen, wenn der Punkt in dem gewählten Bezugssystem ruht, zu ihr geneigt sein, wenn er sich geradlinig gleichförmig bewegt, und gekrümmt sein, wenn er sich ungleichförmig beschleunigt bewegt. Aber jede Weltlinie wird immer innerhalb des sogenannten Lichtkegels <i>c</i><sup>2</sup><i>t</i><sup>2</sup> – <i>dx</i><sup>2</sup> – <i>dy</i><sup>2</sup> – <i>dz</i><sup>2</sup> = 0 liegen, was gleichbedeutend damit ist, daß die Geschwindigkeit materieller Objekte stets kleiner als die Lichtgeschwindigkeit <i>c</i> ist. Spricht MINKOWSKI noch 1907 von «Raum-Zeitfäden» <sup class=\"fn\" data-fn=\"0-2\">2</sup>, gebraucht er in seinem berühmten Vortrag von 1908 erstmals den Begriff ‹W.n›, in die ihm «die ganze Welt ... aufgelöst» erscheint <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Dies führt einige spätere Interpreten wie z.B. H. WEYL dazu, zeitliche Veränderungen überhaupt als in einer vierdimensionalen <a class=\"xref\" href=\"#/a/1078\">Geometrie</a> <span class=\"sd\">→ (s.d.)</span> ‘aufgehobenʼ zu denken <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Der Bergsonianer M. ČAPEK spricht gar im Hinblick auf A. GRÜNBAUM von der Vorstellung eines entzeitlichten «Blockuniversums» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Mit dem Übergang zur allgemeinen Relativitätstheorie wurde die noch quasi-euklidisch (d.h. nicht-gekrümmt, sondern räumlich homogen und isotrop) gedachte Raum-Zeit-Mannigfaltigkeit Minkowskis zu Riemannschen Mannigfaltigkeiten verallgemeinert, deren Krümmungsverhältnisse durch die sogenannten metrischen Koeffizienten erfaßt werden <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Einige der später gefundenen Lösungen der Feldgleichungen dieser allgemeinen Theorie der Relativität und Gravitation von 1915, wie etwa die von K. GÖDEL <sup class=\"fn\" data-fn=\"0-7\">7</sup> beschriebenen Raum-Zeit-Topologien, beinhalten in sich zurücklaufende W.n. Auch andere Merkwürdigkeiten beim Vergleich verschiedener W.n wie etwa das <a class=\"xref\" href=\"#/a/3726\">Zwillingsparadoxon</a> <span class=\"sd\">→ (s.d.)</span> wurden kontrovers diskutiert <sup class=\"fn\" data-fn=\"0-8\">8</sup>. <span class=\"col\" data-col=\"494\"></span></p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">A. EINSTEIN: Über die spez. und die allg. Relativitätstheorie (1917). – H. WEYL: Raum, Zeit, Materie (1919, <sup>5</sup>1923). – J. L. SYNGE: Relativity: The special theory (Amsterdam 1956). – A. GRÜNBAUM s. Anm. [5]. – H. STEIN: On the paradoxical time-structures of Gödel. Philosophy Sci. 37 (1970) 589–601. – M.-A. TONNELAT: Hist. du principe de relativité (Paris 1971). – P. GALISON: Minkowski's space-time: From visual thinking to the absolute world. Hist. Studies phys. Sci. 10 (1979) 85–121. – K. HENTSCHEL s. Anm. [5].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">H. MINKOWSKI: Raum und Zeit. Verhandl. der Ges. Dtsch. Naturforscher und Ärzte 80 (1909) 104–111. Ges. Abh., hg. D. HILBERT 2 (1911) 431–444, 431.</li>\n<li id=\"fn0-2\" value=\"2\">Die Grundgleichungen für die elektromagnet. Vorgänge in <span class=\"col\" data-col=\"494\"></span> bewegten Körpern. Nachr. kgl. Ges. Wiss. Göttingen, math.-physikal. Kl. (1908) 53–111, a.O. 352–403, 394–396; vgl. Das Relativitätsprinzip (Vortrag vom 5. Nov. 1907). Annalen Physik, 4. Folge, 47 (1915) 927–938; vgl. auch: A. EDDINGTON: The nature of the physical world (Cambridge 1928) 42: «Here I am – a kind of four-dimensional worm».</li>\n<li id=\"fn0-3\" value=\"3\">MINKOWSKI, a.O. [1] 432.</li>\n<li id=\"fn0-4\" value=\"4\">H. WEYL: Was ist Materie? (1924).</li>\n<li id=\"fn0-5\" value=\"5\">M. ČAPEK: Relativity and the status of becoming. Found. Physics 5 (1975) 607–617, 614f.; vgl. A. GRÜNBAUM: Philos. problems of space and time (New York 1963, <sup>2</sup>1973); weitere Nachweise in: K. HENTSCHEL: Interpretationen und Fehlinterpretationen der spez. und allg. Relativitätstheorie durch Zeitgenossen A. Einsteins (Basel 1990) 445.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. die Beiträge A. EINSTEINS, H. WEYLS u.a. in: Das Relativitätsprinzip. Eine Sammlung von Abh. (1923, <sup>7</sup>1974).</li>\n<li id=\"fn0-7\" value=\"7\">K. GÖDEL: An example of a new type of cosmolog. solutions of Einstein's field equations of gravitation. Review modern Physics 21 (1949) 447–450. Coll. works, hg. S. FEFERMAN 2 (New York/Oxford 1990) 190–198.</li>\n<li id=\"fn0-8\" value=\"8\">L. MARDER: Time and the space-traveller (London 1971); dtsch: Reisen durch die Raum-Zeit. Das Zwillingsparadoxon – Geschichte einer Kontroverse (1979).</li>\n</ol>",
+ "prev":{"id":3569,"lemma":"Weltlauf","band":"12","col":491},
+ "next":{"id":3571,"lemma":"Weltliteratur","band":"12","col":494},
+ "backlinks":[{"id":3726,"lemma":"Zwillingsparadoxon; Uhrenparadoxon","n":1}],
+ "outlinks":[
+  {"id":1078,"lemma":"Geometrie","n":1},
+  {"id":2672,"lemma":"Relativitätstheorie","n":1},
+  {"id":3726,"lemma":"Zwillingsparadoxon; Uhrenparadoxon","n":1}
+ ],
+ "register":[{"term":"Raum-Zeitfäden","qualifier":"","band":"12","col":"493"}],
+ "persons":[
+  {"id":2546,"name":"H. Minkowski","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":714,"name":"H. Weyl","b":1,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":305,"name":"A. Einstein","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":2133,"name":"A. Grünbaum","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":450,"name":"K. Gödel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6058,"name":"K. Hentschel","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":221,"name":"D. Hilbert","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2505,"name":"A. S. Eddington","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2967,"name":"S. Feferman","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8234,"name":"L. Marder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":740,"name":"E. Stein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10937,"name":"M. A. Tonnelat","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":16998,"name":"J. L. Synge","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":33054,"name":"P. Galison","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":2534,"lemma":"Punkt, Punktualität","tf":2}],
+ "see_also":[],
+ "groups":[{"id":32,"name":"Physik","label":"Weltlinie"}],
+ "reg_authors":[{"name":"Hentschel Klaus","n":2}]
+}
+);

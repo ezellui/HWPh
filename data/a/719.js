@@ -1,0 +1,55 @@
+HWPH.put("a/719",
+{
+ "id":719,
+ "lemma":"Empeiria",
+ "band":"2",
+ "kind":"article",
+ "col_from":453,
+ "col_to":454,
+ "pdf_from":5077,
+ "pdf_to":5080,
+ "authors":["F. P. Hager"],
+ "n_notes":14,
+ "n_chars":3362,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Empeiria (ἐμπειρία, Erfahrung). Nach den vorwiegend negativen Wertungen der E., besonders durch Sinneswahrnehmung (Aisthesis), bei den Vorsokratikern (vor allem bei PARMENIDES <sup class=\"fn\" data-fn=\"0-1\">1</sup>, aber etwas abgeschwächt auch bei HERAKLIT <sup class=\"fn\" data-fn=\"0-2\">2</sup>, EMPEDOKLES <sup class=\"fn\" data-fn=\"0-3\">3</sup>, ANAXAGORAS <sup class=\"fn\" data-fn=\"0-4\">4</sup> und DEMOKRIT <sup class=\"fn\" data-fn=\"0-5\">5</sup>), welche sich die Erkenntnis der Wahrheit und des Seins nicht durch E. der Sinne, wie sie von der großen Menge geübt wird, sondern nur durch ihr eigenes spekulatives Denken erhoffen, ist für PLATON die E. eine gewöhnliche, von Kunst (τέχνη) und Vernunft (φρόνησις) noch zu unterscheidende Kenntnis der Tatsachen ohne Wissen um deren Gründe und Ursachen; diese Konzeption führt dazu, gewisse Disziplinen, wie etwa Rhetorik, Sophistik, Kochkunst und Putzkunst, um ihres bloß empirischen Charakters willen gegenüber den wissenschaftlich fundierten Künsten, wie Gesetzgebung (auf das Staatsganze bezogene Ethik), Gerechtigkeit (Individualethik), Medizin und Gymnastik, abzuwerten <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Doch gibt es auch bei Platon eine positive Bewertung der E. im Dienste der Erkenntnis <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Bei ARISTOTELES hat die E. ihren Ort gleichfalls zwischen sinnlicher Wahrnehmung und Erinnerung einerseits, Kunst oder Wissenschaft andererseits <sup class=\"fn\" data-fn=\"0-8\">8</sup>. E. ist immer nur Erkenntnis des Einzelnen und Besonderen <span class=\"col\" data-col=\"454\"></span> und des in ihnen vermittelten Allgemeinen, während die Kunst oder Wissenschaft auf das Allgemeine als solches geht <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Ferner kann uns die E. nur eine Erkenntnis des Was (ὅτι), nicht aber eine Erkenntnis des Warum (διóτι) vermitteln, welche allein der Kunst und Wissenschaft vorbehalten bleibt <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Dennoch kann die E. das Mittel zur Erlangung allgemeiner Einsichten sein <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Aus der Ansammlung einer Vielheit von aus der Sinneswahrnehmung gewonnenen Erinnerungen geht nach Aristoteles die E. hervor, welche die Klärung zur allgemeinen und abstrakten Erkenntnis vorbereitet <sup class=\"fn\" data-fn=\"0-12\">12</sup>.</p>\n<p>Die <i>Stoiker</i> nehmen an, daß E. dann erworben ist, wenn viele gleichartige Erinnerungsbilder aus den Wahrnehmungen entstanden sind, und definieren die E. als Vielheit gleichartiger Vorstellungen <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<p>Auch in der von der pyrroneischen Skepsis beeinflußten <i>medizinischen Empirikerschule</i> spielt der Begriff der E. naturgemäß eine große Rolle und wird dort z.B. als «Bewahrung des in den meisten Fällen auf gleiche Weise Gesehenen» definiert <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">R. SCHAERER: EPISTÉME et TÉCHNE, étude sur les notions de connaissance et d'art d'Homère à Platon (1930). L. BOURGEY: Observation et expérience chez Aristote (1955). L. PELLOUX: Il concetto di esperienza in Aristotele. Actes du 11e congr. int. philos. 12 (1953) 96–100. – K. DEICHGRÄBER: Die griech. Empirikerschule (1930, Nachdruck 1965) 269ff. – F. KAMBARTEL: Erfahrung und Struktur. Bausteine zu einer Kritik des Empirismus und Formalismus (1968).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"454\"></span> PARMENIDES bei DIELS/KRANZ: Die Frg. der Vorsokratiker (= VS) I (<sup>10</sup>1961) 28 B 7–8.</li>\n<li id=\"fn0-2\" value=\"2\">HERAKLIT, VS 22 B 1. 2. 34. 41. 107. 108; A 16. 131.</li>\n<li id=\"fn0-3\" value=\"3\">EMPEDOKLES, VS 31 B 2.</li>\n<li id=\"fn0-4\" value=\"4\">ANAXAGORAS, VS II (<sup>10</sup>1960) 59 A 92; B 21.</li>\n<li id=\"fn0-5\" value=\"5\">DEMOKRIT, VS II, 68 B 11.</li>\n<li id=\"fn0-6\" value=\"6\">PLATON, Gorgias 462 b–466 a, bes. 462 c. 463 c. 465 a; vgl. Phaidros 270 b.</li>\n<li id=\"fn0-7\" value=\"7\">Resp. IX, 582 a–583 a, bes. 582 c.</li>\n<li id=\"fn0-8\" value=\"8\">ARISTOTELES, Met. I, 1, 980 b 25–981 b 13.</li>\n<li id=\"fn0-9\" value=\"9\">a.a.O. 981 a 15–16.</li>\n<li id=\"fn0-10\" value=\"10\">a.a.O. 981 a 24ff., bes. 981 a 28ff.</li>\n<li id=\"fn0-11\" value=\"11\">Phys. VII, 3, 247 b 20–21.</li>\n<li id=\"fn0-12\" value=\"12\">Met. I, 1, 980 b 28ff.; Anal. post. II, 19, 100 a 3ff.</li>\n<li id=\"fn0-13\" value=\"13\">AETIUS, Plac. IV, 11. SVF II, Nr. 83 (S. 28, 13ff., bes. Z. 17–19).</li>\n<li id=\"fn0-14\" value=\"14\">Aus dem GALENischen Frg. PERÌ TÈS IATRIKÈS EMPEIRÍAS 103, 17 (DEICHGRÄBER).</li>\n</ol>",
+ "prev":{"id":718,"lemma":"Eminenter","band":"2","col":452},
+ "next":{"id":720,"lemma":"Empfindlichkeit","band":"2","col":454},
+ "backlinks":[{"id":786,"lemma":"Erfahrung","n":1},{"id":3634,"lemma":"Wissen","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Erinnerung","qualifier":"","band":"2","col":"453"}],
+ "persons":[
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":83,"name":"Demokrit","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":119,"name":"Heraklit","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":161,"name":"Parmenides","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":158,"name":"Empedokles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":328,"name":"Anaxagoras","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1828,"name":"K. Deichgräber","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":277,"name":"H. Diels","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2314,"name":"Aetius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":20095,"name":"Tès Iatrikès","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":273,"name":"F. Kambartel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4952,"name":"R. Schaerer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10821,"name":"Téchne","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":10822,"name":"L. Bourgey","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20096,"name":"Epistéme","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":20097,"name":"L. Pelloux","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":605,"name":"W. Kranz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1712,"lemma":"Kunst, Kunstwerk","tf":4},
+  {"id":3462,"lemma":"Vielheit","tf":2},
+  {"id":794,"lemma":"Erinnerung","tf":2},
+  {"id":3635,"lemma":"Wissenschaft","tf":3},
+  {"id":3539,"lemma":"Wahrnehmung","tf":2}
+ ],
+ "see_also":[{"id":786,"lemma":"Erfahrung"}],
+ "groups":[
+  {"id":3,"name":"Antike Philosophie","label":"Empeiria"},
+  {"id":9,"name":"Erkenntnistheorie","label":"Empeiria"}
+ ],
+ "reg_authors":[{"name":"Hager Fritz-Peter","n":24}]
+}
+);

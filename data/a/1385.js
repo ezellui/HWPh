@@ -1,0 +1,32 @@
+HWPH.put("a/1385",
+{
+ "id":1385,
+ "lemma":"Illative Sense",
+ "band":"4",
+ "kind":"article",
+ "col_from":201,
+ "col_to":202,
+ "pdf_from":11987,
+ "pdf_to":11990,
+ "authors":["J. Artz"],
+ "n_notes":24,
+ "n_chars":3151,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Illative Sense (Folgerungssinn oder -organ). Gegen die Einschränkung der folgernden Denktätigkeit auf den Bereich der «verbalen Logik», des logisch Formulierbaren <sup class=\"fn\" data-fn=\"0-1\">1</sup>, macht J. H. NEWMAN in seiner Theorie der Gewißheitsbildung (Grammar of Assent (1870) <sup class=\"fn\" data-fn=\"0-2\">2</sup>) die Fähigkeit zum mentalen, impliziten Folgern (implicit reasoning) geltend, für die er den Terminus ‹I.S.› prägt <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Der I.S. ist das «supralogische Urteilsvermögen» <sup class=\"fn\" data-fn=\"0-4\">4</sup>, die Perfektion des Folgerungsvermögens (ratiocinative faculty <sup class=\"fn\" data-fn=\"0-5\">5</sup>) persönlicher Art <sup class=\"fn\" data-fn=\"0-6\">6</sup> im Bereich des Konkreten <sup class=\"fn\" data-fn=\"0-7\">7</sup>, ein lebendiges Organ, elastischer, delikater als verbale Argumentation <sup class=\"fn\" data-fn=\"0-8\">8</sup>, eher instinktiv als nach Regeln arbeitend <sup class=\"fn\" data-fn=\"0-9\">9</sup>, als besonders entwickelte Gabe meist auf <i>ein</i> Gebiet beschränkt (departmental <sup class=\"fn\" data-fn=\"0-10\">10</sup>) und besonders beim einfachen Menschen und beim Genie anzutreffen <sup class=\"fn\" data-fn=\"0-11\">11</sup>, wohl zu unterscheiden vom «common sense» <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Er ist von der Art der aristotelischen Phronesis <sup class=\"fn\" data-fn=\"0-13\">13</sup>, wenn man diese nicht auf den Bereich des Praktischen beschränkt <sup class=\"fn\" data-fn=\"0-14\">14</sup>; ein Organ des Suchens nach Wahrheit, ein «organum investigandi» <sup class=\"fn\" data-fn=\"0-15\">15</sup>, aber nichts außerhalb der normalen Vernunfttätigkeit, sondern diese selbst in ihrer ganzen Breite, Tiefe und vollen Entfaltung <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Der I.S. ist sich selbst Regel, kontrolliert und sanktioniert die verbal formulierten Folgerungen <sup class=\"fn\" data-fn=\"0-17\">17</sup>, bietet aber nicht wie diese ein «gemeinsames <span class=\"col\" data-col=\"202\"></span> Maß» <sup class=\"fn\" data-fn=\"0-18\">18</sup> zwischen den Denkenden. In der Diskussion dringt er über die formulierten Argumente hinaus zu deren «ersten Prinzipien» vor, findet klärende Aspekte <sup class=\"fn\" data-fn=\"0-19\">19</sup>, kontrolliert stillschweigende Implikationen <sup class=\"fn\" data-fn=\"0-20\">20</sup>. Er versteht sich auf das Abwägen des Gewichtes apriorischer Wahrscheinlichkeiten <sup class=\"fn\" data-fn=\"0-21\">21</sup> im Zusammenhang mit der Frage nach der Verpflichtung zur Zustimmung oder zu ihrer Verweigerung <sup class=\"fn\" data-fn=\"0-22\">22</sup>, ist also eine Art Wahrheitsgewissen und das vor allem in den Bereichen des Ethischen und Religiösen <sup class=\"fn\" data-fn=\"0-23\">23</sup>, die eines «subtilissimum ratiocinium» bedürfen <sup class=\"fn\" data-fn=\"0-24\">24</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">J. ARTZ: Der Folgerungssinn (I.S.) in Newmans Zustimmungslehre (Grammar of Assent). Newman-Stud. 2 (Nürnberg 1954) 219–245; Zur Übers. der Terminol. J. H. Newmans a.a.O. 5 (1962) 283–302, bes. 285f.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"202\"></span> J. H. NEWMAN: An essay in aid of a grammar of assent (London 1870) (= GA) 271. 359; dtsch: Entwurf einer Zustimmungslehre (1961) (= ZL) 190. 252.</li>\n<li id=\"fn0-2\" value=\"2\">ebda.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. Art. ‹Illative A 3›, in: The shorter Oxford Engl. dict. (<sup>3</sup>1964) 955.</li>\n<li id=\"fn0-4\" value=\"4\">NEWMAN, a.a.O. [1] GA 317; vgl. 271. 325. 342 = ZL 222; vgl. 190. 228. 240.</li>\n<li id=\"fn0-5\" value=\"5\">GA 345 = ZL 242.</li>\n<li id=\"fn0-6\" value=\"6\">GA 271. 317. 345 = ZL 190. 222. 242.</li>\n<li id=\"fn0-7\" value=\"7\">GA 317. 342 = ZL 222. 240.</li>\n<li id=\"fn0-8\" value=\"8\">GA 317 = ZL 222.</li>\n<li id=\"fn0-9\" value=\"9\">GA 358 = ZL 251.</li>\n<li id=\"fn0-10\" value=\"10\">GA 339f. = ZL 237–239.</li>\n<li id=\"fn0-11\" value=\"11\">GA 332–334 = ZL 232–234.</li>\n<li id=\"fn0-12\" value=\"12\">GA 317 = ZL 222.</li>\n<li id=\"fn0-13\" value=\"13\">ARISTOTELES, Eth. Nic. VI, 4f. u.ö.</li>\n<li id=\"fn0-14\" value=\"14\">NEWMAN, a.a.O. [1] GA 353–356 = ZL 248–250.</li>\n<li id=\"fn0-15\" value=\"15\">GA 499 = ZL 349.</li>\n<li id=\"fn0-16\" value=\"16\">GA 361f. = ZL 254.</li>\n<li id=\"fn0-17\" value=\"17\">GA 346–352 = ZL 243–247.</li>\n<li id=\"fn0-18\" value=\"18\">GA 362; vgl. 83. 262f. 269. 332 = ZL 254; vgl. 58. 184f. 189. 233.</li>\n<li id=\"fn0-19\" value=\"19\">GA 371–375 = ZL 261–263.</li>\n<li id=\"fn0-20\" value=\"20\">GA 375–380 = ZL 264–267.</li>\n<li id=\"fn0-21\" value=\"21\">GA 381–383 = ZL 267–269.</li>\n<li id=\"fn0-22\" value=\"22\">ebda.</li>\n<li id=\"fn0-23\" value=\"23\">GA 376–380 = ZL 264–267; vgl. GA 409–413. 427–429 = ZL 287–289. 299–301.</li>\n<li id=\"fn0-24\" value=\"24\">So in NEWMANS geplanter lat. Einl. in die frz. A. seiner Univ.-Predigten (1847), s. Gregorianum 18 (1937) 253, dtsch. J. H. NEWMANN: Zur Philos. und Theol. des Glaubens (1964) 444; vgl. zum Ganzen J. ARTZ: Newman-Lex. (1975) 344–346: ‹I.S.›; 378–380: ‹Geist›, u.a.m.</li>\n</ol>",
+ "prev":{"id":1384,"lemma":"Ikonographie, Ikonologie","band":"4","col":199},
+ "next":{"id":1386,"lemma":"Illuminaten, Illuminisme","band":"4","col":202},
+ "backlinks":[{"id":1398,"lemma":"Implicit Reasoning","n":1},{"id":3715,"lemma":"Zustimmung","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":1440,"name":"J. H. Newman","b":1,"n":4,"l":0,"editor":0,"role":"source"},
+  {"id":9140,"name":"J. Artz","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":2,"name":"Aristoteles","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":21739,"name":"J. H. Newmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":2239,"lemma":"Organ","tf":2},{"id":2640,"lemma":"Regel","tf":2}],
+ "see_also":[],
+ "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Illative sense (Newman)"}],
+ "reg_authors":[{"name":"Artz Johannes","n":2}]
+}
+);

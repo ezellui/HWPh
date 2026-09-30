@@ -1,0 +1,56 @@
+HWPH.put("a/2607",
+{
+ "id":2607,
+ "lemma":"Rechtsirrtum",
+ "band":"8",
+ "kind":"article",
+ "col_from":284,
+ "col_to":285,
+ "pdf_from":31099,
+ "pdf_to":31103,
+ "authors":["A. Trupp"],
+ "n_notes":11,
+ "n_chars":5636,
+ "toc":[["h7","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Rechtsirrtum. Unter dem Begriff ‹R.› wird vornehmlich der Irrtum eines Täters über die Existenz einer Strafnorm verstanden. Wird der Begriff in dieser Bedeutung verwendet, ist er synonym mit ‹Verbotsirrtum›.</p>\n<p>Allgemein ist es für frühe Gesellschaften charakteristisch, auf ein Verschulden als Voraussetzung einer Sanktion zu verzichten. Als hinreichender Grund für die Verhängung einer Sanktion galt allein der vom Täter herbeigeführte Verletzungserfolg <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Diese Sicht war an den Interessen des Verletzten orientiert, dessen Restitutions- oder Vergeltungsbedürfnis von einem Verschulden des Täters unabhängig war. Die Frage nach den rechtlichen Folgen eines Verbotsirrtums konnte erst relevant werden, als das Verschuldensprinzip das Verursachungsprinzip ersetzt hatte.</p>\n<p>Im germanischen Rechtskreis ließ ein derartiger Irrtum die Strafbarkeit völlig unberührt. Es galt vielmehr der Grundsatz: Unkenntnis des Rechts schützt nicht vor Strafe <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Das römische Recht berücksichtigte den R. (error iuris) nur ausnahmsweise, und zwar für den Fall, daß der Täter spezifisch römische Rechtsnormen verletzte, die nicht bei allen Völkern gleichermaßen Geltung besaßen <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<p>Bis zum 18. Jh. weist die deutsche Literatur keine gegenüber den römischen Grundsätzen abweichenden Gesichtspunkte auf <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Die meisten deutschen Rechtswissenschaftler des 18. und 19. Jh. verlangten für den Begriff der vorsätzlichen Begehung einer Tat das Bewußtsein des Täters, eine Rechtsnorm zu verletzen (Vorsatztheorie). Fehlte ein solches Bewußtsein der Rechtswidrigkeit bei Ausführung der Tat, so schied eine Bestrafung wegen vorsätzlicher Verwirklichung eines Deliktes aus <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Derjenige, der die Strafbarkeit seines Tuns nicht positiv kannte, habe sich nicht gegen die Rechtsordnung aufgelehnt und könne daher nicht in gleicher Weise bestraft werden wie jemand, der im vollen Bewußtsein der Rechtswidrigkeit gehandelt hat. Eine solche Auffassung erblickt den Strafgrundin der Auflehnung des Täters gegen die Autorität des Staates. In letzter Konsequenz ist gemäß dieser Position weder die Verletzung naturrechtlich geschützter Rechtspositionen noch der Schutz bestimmter gesellschaftlicher Rechtsgüter der primäre Grund für die Existenz von Strafe.</p>\n<p>Freilich mußten die Vertreter dieser strengen Vorsatztheorie ihren theoretischen Ansatz in der Rechtspraxis einschränken. Es konnte nicht hingenommen werden, daß ein Täter seiner Bestrafung nur deshalb vollständig entging, weil er sich auf einen ohne weiteres vermeidbaren R. berief. Die Lösung dieses Dilemmas lag bei den meisten Autoren darin, den Täter bei Vermeidbarkeit seines Irrtums wegen fahrlässiger <span class=\"col\" data-col=\"285\"></span> Verwirklichung des gesetzlichen Tatbestandes zu bestrafen <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Dieser Vorschlag verdeutlicht in besonderer Weise, daß die Zuerkennung von Schuld nicht von dem bewußten oder fahrlässigen Herbeiführen eines rechtlich unerwünschten physischen Erfolges, sondern vielmehr von der Mißachtung staatlicher Autorität abhängen soll. Viele Autoren wollten dem Täter allerdings bei bestimmten Delikten von vornherein die Berufung auf den R. verwehren, weil die Kenntnis dieser Verbote beim Täter unterstellt werden könne <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Andererseits wurde von anderen Autoren sogar die Forderung aufgestellt, der Täter müsse nicht nur die Rechtswidrigkeit seines Handelns, sondern auch die Schwere der zu erwartenden Strafe bei der Ausführung seiner Tat gekannt haben, da nicht zuletzt davon der Grad des Ungehorsams gegen die Norm abhänge <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Die sich im 19. Jh. bildende Gegenmeinung will dem Täter die straf befreiende Berufung auf den R. versagen. Der Grund der Strafe wird in dem Schutz wichtiger Interessen der Gesellschaft und nicht in der Reaktion auf den Ungehorsam gegenüber der Rechtsnorm erblickt <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Eben dieses Ziel erfordere es, den R. als unbeachtlich zu behandeln <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Wäre er straf befreiend oder auch nur strafmildernd zu berücksichtigen, so würde derjenige, der es versäumt, sich mit den geltenden Rechtsnormen vertraut zu machen, im Hinblick auf die Strafbarkeit seines Verhaltens im Vergleich zum Kundigen privilegiert. Die Weigerung, sich Kenntnis vom geltenden Recht zu verschaffen, würde gleichsam belohnt werden. Dadurch würde dem Ziel des Schutzes wichtiger Interessen der Gesellschaft entgegengearbeitet werden. Die mögliche Ungerechtigkeit im Einzelfall trete hinter der noch größeren Ungerechtigkeit zurück, die sich gegenüber der Gesellschaft ergäbe, wollte man dem R. Beachtung schenken <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Das geltende deutsche Strafgesetzbuch hat sich im § 17 gegen die Vorsatztheorie, aber dennoch prinzipiell für die Beachtlichkeit des R. entschieden. Der Vorsatz-Schuldvorwurf und damit die Bestrafung entfällt, wenn der R. unvermeidbar war. Bei Vermeidbarkeit kann die Bestrafung (die trotz des R. aus dem Vorsatz-Tatbestand erfolgt) gemildert werden.</p>\n<h3 id=\"h7\">Literaturhinweise</h3>\n<p class=\"lit\">HEINEMANN s. Anm. [4]. – TH. MAYER-MALY: Art. ‹R.›, in: A. ERLER/E. KAUFMANN (Hg.): Handwb. zur dtsch. Rechtsgesch. 4 (1990) 302–307.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"285\"></span> Vgl. A. KAUFMANN: Das Unrechtsbewußtsein in der Schuldlehre des Strafrechts (1950) 22f.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. R. JOHN: Das Strafrecht in Norddtschl. zur Zeit der Rechtsbücher (1858) 127ff.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. P. FARINACIUS: Praxis et theoria criminalis (1597).</li>\n<li id=\"fn0-4\" value=\"4\">HEINEMANN: Zur Dogmengesch. des R. Z. ges. Strafrechtswiss. 13 (1893) 371–453, bes. 371.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. die Darst. von HEINEMANN, a.O.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. z.B. E. HENKE: Hb. des Criminalrechts und der Criminalpolitik 1 (1823) 332ff.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. J. H. BÖHMER: Observ. sci. ad Carpzovii practicam novam (1759).</li>\n<li id=\"fn0-8\" value=\"8\">G. STRUBE: Rechtl. Bedenken 2 (1782).</li>\n<li id=\"fn0-9\" value=\"9\">A. MERKEL: Über Bindings Hb. des Strafrechts, I. Bd. Z. ges. Strafrechtswiss. 6 (1886) 496–521, hier: 513.</li>\n<li id=\"fn0-10\" value=\"10\">O. VON WÄCHTER: Dtsch. Strafrecht. Vorles. (1881) § 57.</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. HEINEMANN, a.O. [4] 411.</li>\n</ol>",
+ "prev":{"id":2606,"lemma":"Rechtsidee","band":"8","col":281},
+ "next":{"id":2608,"lemma":"Rechtskraft","band":"8","col":285},
+ "backlinks":[{"id":3385,"lemma":"Verbot","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Rechtsunkenntnis","qualifier":"","band":null,"col":null},
+  {"term":"Verbotsirrtum","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1789,"name":"F. Heinemann","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":854,"name":"A. Kaufmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2053,"name":"W. Strube","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3069,"name":"H. St. John","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2104,"name":"A. Merkel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4904,"name":"E. L. Th. Henke","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":6964,"name":"J. H. Böhmer","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12545,"name":"P. Farinacius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":27235,"name":"O. von Wächter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1616,"name":"E. Kaufmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3295,"name":"A. Erler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11120,"name":"Th. Mayer-Maly","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2610,"lemma":"Rechtsnorm","tf":4},
+  {"id":3035,"lemma":"Strafe","tf":4},
+  {"id":3295,"lemma":"Ungehorsam, ziviler","tf":2},
+  {"id":1499,"lemma":"Irrtum","tf":3},
+  {"id":2741,"lemma":"Sanktion","tf":2},
+  {"id":3296,"lemma":"Ungerechtigkeit","tf":2},
+  {"id":1099,"lemma":"Gesellschaft","tf":4},
+  {"id":333,"lemma":"Autorität","tf":2},
+  {"id":2598,"lemma":"Recht","tf":3},
+  {"id":331,"lemma":"Autor","tf":3},
+  {"id":863,"lemma":"Existenz, existentia","tf":2},
+  {"id":3718,"lemma":"Zweck; Ziel","tf":2}
+ ],
+ "see_also":[{"id":3497,"lemma":"Vorsatz"}],
+ "groups":[{"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Rechtsirrtum"}],
+ "reg_authors":[{"name":"Trupp Andreas","n":4}]
+}
+);

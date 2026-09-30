@@ -1,0 +1,27 @@
+HWPH.put("a/413",
+{
+ "id":413,
+ "lemma":"Bewußtsein, antizipierendes",
+ "band":"1",
+ "kind":"article",
+ "col_from":897,
+ "col_to":897,
+ "pdf_from":3112,
+ "pdf_to":3113,
+ "authors":["H. Brinkmann"],
+ "n_notes":5,
+ "n_chars":1447,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Bewußtsein, antizipierendes. Der Begriff ‹a.B.› wurde von E. BLOCH gegen die Bestimmungen des Bewußtseins in der Psychoanalyse und darüber hinaus in der philosophischen Tradition gebildet, die das Bewußtsein als wesentlich erinnerndes, durch seine Vergangenheit geformtes begreift. In diese Bestimmung ist nicht eingegangen, daß das Bewußtsein als planendes auch die Zukunft antizipieren kann <sup class=\"fn\" data-fn=\"0-1\">1</sup>: «Wo die Romantik [und die gesamte Tradition] als archaisch-historische in lediglich antiquarische Quellen, als in eine falsche Tiefe, hinabgezogen wurde, dort legt das utopische Bewußtsein auch noch das Heraufkommende im alten frei, wie sehr erst im Bevorstehenden selbst» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Bloch kritisiert das vulgärmarxistische Basis-Überbau-Schema, demzufolge das Bewußtsein nur als Funktion der ökonomischen Prozesse interpretiert wird. Den Produkten des Bewußtseins kommt ebenso wie diesem Unabhängigkeit von den sozialen Bedingungen zu. Als große Kunstwerke bleiben sie aufgetragen «auf die Inhalte einer Zukunft, die zu seiner Zeit noch nicht erschienen war, wo nicht auf die Inhalte eines noch unbekannten Endzustands» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Als planendes ist das Bewußtsein verwiesen auf das «objektiv-real Mögliche» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. «Die Materie ist die reale Möglichkeit zu all den Gestalten, die in ihrem Schoß latent sind und durch den Prozeß [der menschlichen Arbeit und der Natur] aus ihr entbunden werden» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">E. BLOCH: Das Prinzip Hoffnung 1 (1959) 55–204.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 161.</li>\n<li id=\"fn0-3\" value=\"3\">143.</li>\n<li id=\"fn0-4\" value=\"4\">271ff.</li>\n<li id=\"fn0-5\" value=\"5\">271.</li>\n</ol>",
+ "prev":{"id":412,"lemma":"Bewußtsein","band":"1","col":888},
+ "next":{"id":414,"lemma":"Bewußtsein, geschichtliches bzw. historisches","band":"1","col":897},
+ "backlinks":[{"id":3708,"lemma":"Zukunft; Vergangenheit","n":1}],
+ "outlinks":[],
+ "register":[{"term":"– I (theol.) 3 674f. – II (Bloch) 3 675 s. auch","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":100,"name":"E. Bloch","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Bewusstsein, antizipierendes (Bloch)"}],
+ "reg_authors":[]
+}
+);

@@ -1,0 +1,12 @@
+HWPH.put("t/374",
+{
+ "b":"Behauptung. Bereits ARISTOTELES unterscheidet deutlich den «apophantischen» Satz (die heute in der Logik so genannte «Aussage»), «der in sich Wahrheit oder Falschheit hat» und sich daher behaupten läßt (λόγος ἀποφαντικός, ἀπόφανσις), von einem Satz, bei dem dies nicht der Fall ist, wie z.B. einer Bitte. \nDas deutsche Wort ‹behaupten› tritt in der spätmittelhochdeutschen Form ‹behoubeten› zunächst in der Gerichtssprache im Sinne von ‹bekräftigen› auf und wird dann seit dem 17. Jh. allgemeiner gebräuchlich. «Etwas behaupten» bedeutet dabei «etwas als seine Meinung aussprechen». \n«Behaupten» und «Urteilen» hängen im traditionellen logischen Sprachgebrauch eng zusammen. So schreibt BOLZANO : «In den Begriffen, welche die Worte: Behaupten, Entscheiden, Meinen, Glauben, Fürwahrhalten, und andere ähnliche bezeichnen, liegt ein gewisser gemeinschaftlicher Bestandteil, der in jedem derselben nur noch mit einem eigenen Nebenbegriffe verbunden ist. Lassen wir nun diese Nebenbegriffe weg, und denken uns bloß, was die Bedeutungen jener Worte Gemeinschaftliches haben: so denken wir uns das, was ich Urteilen nenne.» FREGE unterscheidet später genauer dreierlei: «1. das Fassen des Gedankens – das Denken, 2. die Anerkennung der Wahrheit eines Gedankens – das Urteilen, 3. die Kundgebung dieses Urteils – das Behaupten» . Ähnlich wie Frege bestimmt auch HUSSERL den Begriff des Behauptens: «Denn behaupten ist aussagen, daß der und jener Inhalt in Wahrheit sei» . \nDer heutige logisch reflektierte Gebrauch von «behaupten» läßt sich wie folgt normieren: Wer einen Satz behauptet, verbürgt sich für seine Wahrheit, d.h. macht sich anheischig, ihn auf jeden Fall gegenüber kundigen und argumentationswilligen Gesprächspartnern verteidigen zu können. Entsprechend heißt dann auch die behauptete Aussage selbst eine B. Damit sich eine B. ernsthaft vertreten läßt, ist also die Kenntnis einer Verteidigungsstrategie oder Begründung (und in diesem Sinne der «Wahrheit» der Aussage) notwendig .",
+ "n":"Vgl. z.B. ARISTOTELES, De interpretatione 17 a 1ff. \nB. BOLZANO, Wissenschaftslehre I, § 34, Nr. 2. \nG. FREGE: Der Gedanke, in: Beiträge zur Philos. des dtsch. Idealismus 1 (1918) 62. \nE. HUSSERL: Logische Untersuchungen 1 (41928) 123. \nVgl. W. KAMLAH und P. LORENZEN: Logische Propädeutik (1967) Kap. 4.",
+ "l":"",
+ "au":"Red",
+ "A":["Red"],
+ "cb":[[0,816],[306,816],[584,816],[1467,816]],
+ "cn":[[0,816],[53,816],[101,816],[185,816],[237,816]],
+ "cl":[]
+}
+);

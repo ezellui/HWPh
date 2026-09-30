@@ -1,0 +1,12 @@
+HWPH.put("t/1381",
+{
+ "b":"I Ging ist die Textbezeichnung eines chinesischen Weisheits- und Wahrsagebuches, dessen Anfänge in das 11. Jh. v.Chr. zurückreichen und das zuerst 1834 in lateinischer, dann durch R. WILHELM in deutscher Sprache bekannt geworden ist . Das Buch ist aufgebaut nach 64 Hexagrammen: zwei Arten von Linien, glatt und gebrochen, ergeben, wenn man sie in Trigrammen anordnet, acht Kombinationen (23 = 8), diese mit sich selbst kombiniert (8·8 =) 64 Möglichkeiten, aus welchen der Fragesteller je eine für die Wahrsagung zu ermitteln hat. Die Linien dienen darüber hinaus als Symbole für Himmel und Erde, Yang und Yin, die 64 Hexagramme als deren ringförmig und zahlenharmonisch angeordnete Modulationen. Kosmos, irdische Welt und Mensch werden damit symbolisch in Eins gefaßt, das Buch wird zum Herzstück des Universismus. Zu jedem Hexagramm gehören ein allegorisch zu verstehender Wahrspruch von meist dunklem Sinn, für welchen Auslegung und weitere Erklärungen, die im Sinne der konfuzianischen Schule abgefaßt sind, bereitliegen. Zu dem Wert des Buches als Orakel kommen hier philosophische Aussagen zu Kosmos, Welt und Mensch, Ethik und Politik, die dem Buch in der Entwicklung des chinesischen Denkens eine zentrale Stellung gaben. Neben dem ‹Taoteking› (Taoismus) hat es als östliches Weisheitsbuch auch in der kulturkritischen Diskussion Europas im 20. Jh. eine Rolle gespielt. G. W. LEIBNIZ wurde schon im 17. Jh. durch die Beschäftigung damit über die mathematische Form hinaus, die seiner binarischen Arithmetik zu gleichen scheint, zur intuitiven Erfassung einer Harmonie bewegter Potenzen geführt, die sowohl dem chinesischen wie seinem eigenen Denken entspricht, ohne daß dies Ausdruck einer direkten Beeinflussung zu sein braucht .",
+ "n":"Sinarum antiquissimus liber, lat. J. P. RÉGIS SJ; vgl. L. PFISTER SJ: Notices biogr. et bibliogr. sur les Jésuites de l'ancienne mission de Chine 1552–1773 1. 2 (Shanghai 1932/36) 2, 534. \nTeile in frz. Sprache schon im 18. Jh. durch JOSEPH de PRÉMARE SJ; vgl. PFISTER, a.a.O. 521. \nT. GRIMM: China und das Chinabild von Leibniz. Studia leibnitiana. Sonder-H. 1 (Wiesbaden 1969) 50ff.; vgl. A. ZEMPLINER: Činská filosifie v novověké evropské filosofii (Praha 1966).",
+ "l":"R. WILHELM: I Ging. Das Buch der Wandlungen (1924).",
+ "au":"T. Grimm",
+ "A":["T. Grimm"],
+ "cb":[[0,198]],
+ "cn":[[0,198],[189,198],[283,198]],
+ "cl":[[0,198]]
+}
+);

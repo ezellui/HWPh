@@ -1,0 +1,45 @@
+HWPH.put("a/137",
+{
+ "id":137,
+ "lemma":"Andere",
+ "band":"1",
+ "kind":"article",
+ "col_from":296,
+ "col_to":297,
+ "pdf_from":1185,
+ "pdf_to":1187,
+ "authors":["M. Theunissen"],
+ "n_notes":12,
+ "n_chars":3159,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Andere (der), nicht schlechthin und immer = «anderer Mensch». Vielmehr scheint gerade das Bedürfnis nach einem über-anthropologischen Begriff die Rede von dem (den) A. motiviert zu haben. Wenn KANT z.B. von der «Pflicht gegen andere» oder von «des andern Glückseligkeit» spricht <sup class=\"fn\" data-fn=\"0-1\">1</sup>, dann meint er vernünftige Wesen überhaupt. FICHTE bezeichnet damit das endliche Vernunftwesen, dessen Freiheit meine eigene durch Aufforderung allererst ermöglicht <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Wie er den A. aus dem Blickwinkel des Ich betrachtet, so sieht HEGEL ihn bei der Analyse von Herrschaft und Knechtschaft in der Relation zum Einen, zu dem einen Selbstbewußtsein, das an und für sich nur als ein vom anderen anerkanntes ist <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Weithin gebräuchlich wird der Begriff im 20. Jh. Schon zu dessen Beginn operiert mit ihm, in der Fortführung des FICHTEschen Ansatzes, H. MÜNSTERBERG <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Fortan steht er gleichermaßen für das «Fremdich» wie für das (auf den Mitmenschen bezogene) «Du». Besonders verbreitet ist er in der Phänomenologie und Existenzphilosophie. HUSSERL benutzt ihn als neutralen Oberbegriff, unter den er sowohl den anderen <i>Menschen</i> als auch den «<i>puren</i> A.» <sup class=\"fn\" data-fn=\"0-5\">5</sup>, das reine alter ego, subsumiert. In ähnlicher Weise umgreift der JASPERSsche Begriff des A. das «andere Ich» der «Daseinskommunikation» und das «andere Selbst», <span class=\"col\" data-col=\"297\"></span> mit dem zusammen auch ich erst ich selbst werde <sup class=\"fn\" data-fn=\"0-6\">6</sup>. In solch «existentieller» Kommunikation ist «der A. nur <i>dieser</i> A.: die Einzigkeit ist Erscheinung der Substantialität dieses Seins» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. HEIDEGGER hingegen handelt nicht von «dem», sondern «den» A., die als Man sich weder vom je eigenen Dasein noch voneinander unterscheiden <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Um so stärker betont den Unterschied zwischen dem A. und mir SARTRE <sup class=\"fn\" data-fn=\"0-9\">9</sup>; für ihn wird jener dadurch zum Befremdend-Fremden. Diese Wendung nahm der Begriff schon in derjenigen Ich-Du-Philosophie, die ihn am häufigsten an die Stelle des Wortes «Du» setzt: in der kritischen Ethik E. GRISEBACHS <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Hier, wie auch sonst im Dialogismus, hat er vornehmlich die Bedeutung des Fremden im Sinne des Unverfügbaren, als das im tiefsten Ursprung der «ganz» A., Gott, begegnet. Ebenso allerdings können, wie bei K. LÖWITH <sup class=\"fn\" data-fn=\"0-11\">11</sup> und L. BINSWANGER <sup class=\"fn\" data-fn=\"0-12\">12</sup>, der A. und das Du, das noch rollenhafte Verhältnis von Einem und (irgendeinem) A., und das Ich-Du-Verhältnis, als Beziehung selbstseiender Partner, gegeneinander abgehoben werden.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">P. LAÍN ENTRALGO: Teoria y realidad del otro (Madrid 1961). – M. THEUNISSEN: Der A. Studien zur Sozialontologie der Gegenwart (1965).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"297\"></span> I. KANT: Grundlegung Met. Sitten (1785) 69.</li>\n<li id=\"fn0-2\" value=\"2\">J. G. FICHTE: Grundlage des Naturrechts (1796) § 4; Das System der Sittenlehre (1798) § 18.</li>\n<li id=\"fn0-3\" value=\"3\">G. W. F. HEGEL: Phänomenologie (1807), hg. HOFFMEISTER 141ff.</li>\n<li id=\"fn0-4\" value=\"4\">H. MÜNSTERBERG: Grundzüge der Psychol. 1 (1900).</li>\n<li id=\"fn0-5\" value=\"5\">E. HUSSERL: Cartesianische Meditationen (1931) § 49.</li>\n<li id=\"fn0-6\" value=\"6\">K. JASPERS: Philos. (1932, <sup>3</sup>1956) 2. Buch, 1. Hauptteil.</li>\n<li id=\"fn0-7\" value=\"7\">ebda.</li>\n<li id=\"fn0-8\" value=\"8\">M. HEIDEGGER: Sein und Zeit (1927, <sup>7</sup>1953) 118. 126.</li>\n<li id=\"fn0-9\" value=\"9\">J.-P. SARTRE: L'être et le néant (Paris 1943) 235; Critique de la raison dialectique 1 (Paris 1960) 183.</li>\n<li id=\"fn0-10\" value=\"10\">E. GRISEBACH: Gegenwart (1928).</li>\n<li id=\"fn0-11\" value=\"11\">K. LÖWITH: Das Individuum in der Rolle des Mitmenschen (1928, <sup>2</sup>1962).</li>\n<li id=\"fn0-12\" value=\"12\">L. BINSWANGER: Grundformen und Erkenntnis menschlichen Daseins (1942, <sup>3</sup>1962).</li>\n</ol>",
+ "prev":{"id":136,"lemma":"Andacht","band":"1","col":295},
+ "next":{"id":138,"lemma":"Andersheit, Anderssein","band":"1","col":297},
+ "backlinks":[{"id":3625,"lemma":"Wir","n":1}],
+ "outlinks":[],
+ "register":[
+  {"term":"Ich, anderes","qualifier":"","band":null,"col":null},
+  {"term":"Selbst, anderes","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":12,"name":"J. G. Fichte","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":79,"name":"J.-P. Sartre","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":185,"name":"K. Löwith","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":408,"name":"L. Binswanger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":778,"name":"H. Münsterberg","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1408,"name":"E. Grisebach","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":44,"name":"K. Jaspers","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":399,"name":"M. Theunissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5424,"name":"Entralgo","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Andere, der"}],
+ "reg_authors":[{"name":"Theunissen Michael","n":17}]
+}
+);

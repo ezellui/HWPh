@@ -1,0 +1,57 @@
+HWPH.put("a/2932",
+{
+ "id":2932,
+ "lemma":"Soteriologie",
+ "band":"9",
+ "kind":"article",
+ "col_from":1102,
+ "col_to":1104,
+ "pdf_from":38163,
+ "pdf_to":38167,
+ "authors":["G. Seebass"],
+ "n_notes":14,
+ "n_chars":4908,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Soteriologie. Analog zur Geschichte einer <span class=\"col\" data-col=\"1103\"></span> ganzen Reihe theologischer Begriffe wie ‹Theologie› im engeren Sinn, ‹Hamartologie›, ‹Christologie› <sup class=\"fn\" data-fn=\"0-1\">1</sup>, ‹Ekklesiologie› und ‹Eschatologie› wird der Begriff ‹S.›, der sich über das griechische σωτηρία (Rettung) von dem schon im NT für Jesus von Nazareth gebrauchten Hoheitstitel σωτήρ ableitet <sup class=\"fn\" data-fn=\"0-2\">2</sup>, in der theologischen Gelehrtensprache des 17. Jh. vorbereitet <sup class=\"fn\" data-fn=\"0-3\">3</sup>, aber erst im 19. Jh. für die Lehre vom Erlöser und der Erlösung, vom Heiland und dem Heil wirklich umfassend rezipiert.</p>\n<p>In der <i>protestantischen Theologie</i> bezeichnet ‹S.› im allgemeinen einen umfangreichen Teil der Gesamtentfaltung theologischer Lehre, nämlich die Christologie, den gesamten «ordo salutis», die Lehre von der Kirche und den Sakramenten <sup class=\"fn\" data-fn=\"0-4\">4</sup>, aber nur in Ausnahmen auch die Eschatologie <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Der unlösbare Zusammenhang zwischen dem christlichen Heil und dem Heiland kommt darin zum Ausdruck, daß die gleichen Teile der Dogmatik gelegentlich auch als ‹Christologie› bezeichnet werden können <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Andererseits konnte aber gerade durch die Aufnahme des Begriffs ‹Christologie› zur Bezeichnung der Lehre von der Person und dem Werk Christi der Umfang des von ‹S.› Abgedeckten auf die Mitteilung und Aneignung des Heils beschränkt werden <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die von daher erklärliche, aber nur gelegentlich vorgenommene Differenzierung des Begriffs in ‹S.› als Lehre von Christi Person und Werk und ‹S.› als der Lehre von der Versöhnung des Menschen mit Gott in der Heilszuwendung <sup class=\"fn\" data-fn=\"0-8\">8</sup> wurde allerdings nicht durchgehend rezipiert. Der übliche und dann auch in die großen Dogmengeschichten übernommene Begriff der S. <sup class=\"fn\" data-fn=\"0-9\">9</sup> setzte sich zwar durch, wie schon ein kurzer Blick in die Register der umfassenden theologischen Nachschlagewerke <sup class=\"fn\" data-fn=\"0-10\">10</sup> zeigt, doch findet sich daneben gelegentlich auch die Beschränkung des Begriffs auf das Verständnis von Christi Person und Werk <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>In der <i>katholischen Theologie</i> versteht man unter ‹S.› im weiteren Sinn die Notwendigkeit einer Erlösung für den Menschen, wie sie besonders in der Satisfaktionstheorie ausgearbeitet wurde, im engeren Sinn aber pflegt man «in der S. gewöhnlich nur die erlösende Tat Christi am Kreuz als Fortführung der Christologie zu erwägen: der gehorsam in Liebe angenommene Tod des Gottmenschen» <sup class=\"fn\" data-fn=\"0-12\">12</sup>, das Opfer Christi also am Kreuz und in der Messe. Gegen diese Engführung hat sich wiederholt K. RAHNER gewandt, wobei er die Einschränkung auf die ‘objektiveʼ Erlösung im satisfaktorischen Werk Christi kritisierte und demgegenüber nicht nur die konstitutive Verbindung von S. und Christologie, sondern auch den umfassenden Inhalt des Begriffs in seinen Bezügen zur Theologie im engern Sinn und zur Hamartologie herausstellte sowie die Einheit von existentieller und kosmischer, von aktueller und zukünftiger S. betonte <sup class=\"fn\" data-fn=\"0-13\">13</sup>. Insofern hier tendenziell die gesamte theologische Entfaltung der Heilsgeschichte als S. verstanden wird, ist damit die weiträumigste inhaltliche Bestimmung des Begriffs gegeben.</p>\n<p>Im Unterschied zur christlichen Füllung des Begriffs als methodischer Entfaltung und Verantwortung des in der Person Jesu Christi erschienenen Heils gibt es einen Gebrauch, der die konstitutive Bindung von ‹S.› an diese Person vernachlässigt und jedes religiöse und säkulare Reden von einem dem Menschen zu eröffnenden oder bestimmten Heil, also auch z.B. das der Mysterienreligionen und der antiken griechischen Philosophie, als S. bezeichnet <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. TH. MAHLMANN: Art. <a class=\"xref\" href=\"#/a/497\">→ Christologie</a>. Hist. Wb. Philos. 1 (1971) 1016f.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. W. FOERSTER/G. FOHRER: Art. σῴζω, σωτηρία etc., in: G. KITTEL (Hg.): Theol. Wb. zum NT 7 (1964) 966–1024.</li>\n<li id=\"fn0-3\" value=\"3\">Vgl. etwa: A. CALOV: Theol. positiva (1682) 486 (hier noch «Soteropoiia» [σωτηροποιία]).</li>\n<li id=\"fn0-4\" value=\"4\">Vgl. etwa: J. A. L. WEGSCHEIDER: Instit. christianae dogmat. (<sup>3</sup>1837) 22; [KARL VON HASE:] Hutterus redivivus <span class=\"col\" data-col=\"1104\"></span> (<sup>11</sup>1868) 24. 178–273; A. F. C. VILMAR: Dogmatik 2 (1874) 1f.</li>\n<li id=\"fn0-5\" value=\"5\">Vgl. etwa: C. I. NITZSCH: Syst. der christl. Lehre (<sup>4</sup>1839) 232. 234. 264. 328. 363.</li>\n<li id=\"fn0-6\" value=\"6\">Vgl. MAHLMANN, a.O. [1]; C. A. HASE: Evang.-prot. Dogmatik (<sup>6</sup>1870) XII.</li>\n<li id=\"fn0-7\" value=\"7\">Vgl. etwa: A. E. BIEDERMANN: Christl. Dogmatik 2 (1885) VIf.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. etwa: M. KÄHLER: Die Wiss. der christl. Lehre (<sup>2</sup>1893) 312–362. 362–414.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. etwa: A. HARNACK: Lehrb. der Dogmengesch. (<sup>4</sup>1909–10) 1, 293. 583. 766. 781; 2, 341. 345. 397; 3, 643; einen Überblick über das Gesamtgebiet der «idea of salvation as it manifests itself in successive periods in the history of Christian thought» bietet T. B. KILPATRICK: Art. ‹S.›, in: Encyc. of relig. and ethics 11 (Edinburgh/New York 1920) 694–725.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. etwa die Reg.-Bde. von RGG<sup>2</sup> (1932) und RGG<sup>3</sup> (1965).</li>\n<li id=\"fn0-11\" value=\"11\">Vgl. etwa: W. PANNENBERG: Systemat. Theol. 2 (1991) 487ff.; dazu aber auch: Christologie (1964) 32ff.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. A. KREBS: Art. ‹S.›. LThK<sup>2</sup> 9, 681f.; das Zitat bei K. RAHNER/R. VORGRIMLER: Art. ‹S.›, in: Kleines theol. Wb. (<sup>13</sup>1981) 389.</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. K. RAHNER: Art. ‹S.›. LThK<sup>2</sup> 9, 894–897; vgl. auch: Art. ‹S.›, in: Sacramentum mundi, hg. K. RAHNER 4 (1969) 590–596.</li>\n<li id=\"fn0-14\" value=\"14\">KILPATRICK, a.O. [9].</li>\n</ol>",
+ "prev":{"id":2931,"lemma":"Sosein","band":"9","col":1100},
+ "next":{"id":2933,"lemma":"Souveränität","band":"9","col":1104},
+ "backlinks":[],
+ "outlinks":[{"id":497,"lemma":"Christologie","n":1}],
+ "register":[{"term":"σωτηρία","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":151,"name":"K. Rahner","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":4711,"name":"Th. Mahlmann","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":252,"name":"W. Pannenberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":931,"name":"A. Harnack","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":872,"name":"A. Calov","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1247,"name":"A. E. Biedermann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1590,"name":"M. Kähler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2291,"name":"K. Hase","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2753,"name":"E. Krebs","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2610,"name":"C. I. Nitzsch","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3235,"name":"H. Vorgrimler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3187,"name":"J. A. L. Wegscheider","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4115,"name":"W. Foerster","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3792,"name":"A. F. Ch. Vilmar","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":9007,"name":"G. Fohrer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":15630,"name":"W. H. Kilpatrick","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":15627,"name":"Kilpatrick","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":29279,"name":"Karl von Hase","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":206,"name":"G. Kittel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1237,"lemma":"Heil, Heilsgeschichte, Heilstatsache","tf":6},
+  {"id":808,"lemma":"Erlösung","tf":3},
+  {"id":825,"lemma":"Eschatologie","tf":2},
+  {"id":2318,"lemma":"Person","tf":5},
+  {"id":3169,"lemma":"Theologie","tf":4},
+  {"id":3586,"lemma":"Werk","tf":4}
+ ],
+ "see_also":[{"id":497,"lemma":"Christologie"},{"id":1237,"lemma":"Heil, Heilsgeschichte, Heilstatsache"}],
+ "groups":[
+  {"id":7,"name":"Disziplinen und Fächer","label":"Soteriologie"},
+  {"id":44,"name":"Theologie","label":"Soteriologie"}
+ ],
+ "reg_authors":[{"name":"Seebass Gottfried","n":1}]
+}
+);

@@ -1,0 +1,35 @@
+HWPH.put("a/1143",
+{
+ "id":1143,
+ "lemma":"Glaubensphilosophie",
+ "band":"3",
+ "kind":"article",
+ "col_from":664,
+ "col_to":665,
+ "pdf_from":9416,
+ "pdf_to":9418,
+ "authors":["H.-J. Birkner"],
+ "n_notes":9,
+ "n_chars":2635,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Glaubensphilosophie. Der Terminus hat sich in der Philosophiegeschichtsschreibung als formelhafte Kennzeichnung der Philosophie <i>F. <span class=\"col\" data-col=\"665\"></span> H. Jacobis</i> eingebürgert. Er dürfte zu diesem Zweck gebildet worden sein; neben ihm tritt in gleicher Funktion der Ausdruck ‹<i>Gefühlsphilosophie</i>› auf. So konstatiert W. T. KRUG in seinem philosophischen Handwörterbuch, die Philosophie Jacobis lasse sich «als eine Philosophie des Nichtwissens, als eine G.- oder auch als eine Gefühlsphilosophie charakterisieren» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Der kritische Sinn solcher Kennzeichnung erhellt aus den knappen Ausführungen der einschlägigen Lexikonartikel. Über G. urteilt Krug, sie sei «als philosophische Theorie vom Glauben ... statthaft und notwendig, aber als Philosophie, die bloß auf den Glauben gegründet werden soll, ganz unzulässig, weil man dadurch in Gefahr gerät, die Geschöpfe der Einbildungskraft unter dem Titel des Glaubens in die Wissenschaft aufzunehmen» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Aussagen des Artikels ‹Gefühlsphilosophie› lauten analog <sup class=\"fn\" data-fn=\"0-3\">3</sup>. – Bei C. L. MICHELET tritt «die G.» dann förmlich als Richtungsname auf, unter dem er <i>Hamann</i> («mystische G.»), <i>Herder</i> («empirische G.») und <i>Jacobi</i> («skeptisch-kritische G.») zusammenfaßt <sup class=\"fn\" data-fn=\"0-4\">4</sup>, dabei Jacobis Werk als «höchste Vollendung» der G. würdigend <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Den Ausdruck ‹Gefühlsphilosophie› behält Michelet der von ihm so genannten «Jacobischen Schule» vor, zu der er neben F. Bouterwek, J. F. Fries und F. van Calker auch W.T. Krug zählt <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Auch bei J. E. ERDMANN werden Hamann, Herder und Jacobi als die «drei Hauptrepräsentanten» der G. vorgestellt <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die Zusammenfassung der drei Denker unter den Titeln ‹G.-› und/oder ‹Gefühlsphilosophie› findet sich seither häufig. Jacobi ist eine Sonderstellung insofern gewahrt geblieben, als er nicht selten förmlich den Beinamen «der Glaubensphilosoph» erhält <sup class=\"fn\" data-fn=\"0-8\">8</sup>. – Nur lexikalische Bedeutung dürfte der erweiternde Gebrauch des Begriffs gewonnen haben, der ihn als «Bezeichnung derjenigen Weisen christlichen Philosophierens, die von der Voraussetzung ausgehen, daß es unmöglich sei, die durch Offenbarung unmittelbar gegebenen Glaubensinhalte durch die denkende Vernunft zu vermitteln», verstehen will <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">W. T. KRUG: Allg. Handwb. der philos. Wiss. (<sup>2</sup>1832–1838, ND 1969) 2, 481.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 2, 284f.</li>\n<li id=\"fn0-3\" value=\"3\">2, 145.</li>\n<li id=\"fn0-4\" value=\"4\">C. L. MICHELET: Gesch. der letzten Systeme der Philos. in Deutschland (1837/38, ND 1967) 1, 301.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 1, 220.</li>\n<li id=\"fn0-6\" value=\"6\">1, 386f.</li>\n<li id=\"fn0-7\" value=\"7\">J. E. ERDMANN: Gesch. der neuern Philos. 3/1 (1848) 288f.</li>\n<li id=\"fn0-8\" value=\"8\">Vgl. z.B. F. ÜBERWEG: Grundriß der Gesch. der Philos. 3: Die Philos. der Neuzeit bis zum Ende des 18. Jh., hg. M. FRISCHEISEN-KÖHLER/W. MOOG (<sup>12</sup>1924, ND 1953 u.ö.) 616.</li>\n<li id=\"fn0-9\" value=\"9\">J. HOFFMEISTER: Wb. der philos. Begriffe (<sup>2</sup>1955) 274.</li>\n</ol>",
+ "prev":{"id":1142,"lemma":"Glaubensgewißheit","band":"3","col":662},
+ "next":{"id":1144,"lemma":"Glaubens- und Gewissensfreiheit","band":"3","col":665},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Gefühlsphilosophie","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":43,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":444,"name":"J. E. Erdmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":625,"name":"C. L. Michelet","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1536,"name":"M. Frischeisen-Köhler","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2208,"name":"F. Überweg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2194,"name":"W. Moog","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":1558,"lemma":"Kennzeichnung, Kennzeichnungstheorie","tf":2}],
+ "see_also":[{"id":1140,"lemma":"Glauben und Wissen"}],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Glaubensphilosophie"}],
+ "reg_authors":[{"name":"Birkner Hans-Joachim","n":6}]
+}
+);

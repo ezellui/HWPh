@@ -1,0 +1,27 @@
+HWPH.put("a/350",
+{
+ "id":350,
+ "lemma":"Bedeutungsintention",
+ "band":"1",
+ "kind":"article",
+ "col_from":760,
+ "col_to":760,
+ "pdf_from":2678,
+ "pdf_to":2678,
+ "authors":["P. Janssen"],
+ "n_notes":4,
+ "n_chars":691,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Bedeutungsintention. E. HUSSERL unterscheidet in den ‹Logischen Untersuchungen› «anzeigende» und «bedeutsame» Zeichen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Die bedeutsamen Zeichen sind dadurch charakterisiert, daß sie eine Bedeutung «intendieren» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Sie sind «Ausdrücke». An jedem Ausdruck ist seine physisch-sinnliche Erscheinung von der in dieser bloßen Lautartikulation sich vollziehenden Bedeutungsverleihung (Sinnvermeinung) zu unterscheiden. Erst die B. macht den sinnlichen Wortlaut zum sinnbelebten Wortlaut <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Beide «Aktreihen» bilden eine phänomenologische Einheit <sup class=\"fn\" data-fn=\"0-4\">4</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">E. HUSSERL: Log. Untersuchungen II/1: Untersuchungen zur Phänomenol. und Theorie der Erkenntnis (<sup>5</sup>1968) 23f. 30f.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 52ff.</li>\n<li id=\"fn0-3\" value=\"3\">a.a.O. 37f.</li>\n<li id=\"fn0-4\" value=\"4\">a.a.O. 39f.</li>\n</ol>",
+ "prev":{"id":349,"lemma":"Bedeutungserfüllung","band":"1","col":759},
+ "next":{"id":351,"lemma":"Bedeutungslehre","band":"1","col":760},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":3673,"lemma":"Zeichen","tf":2}],
+ "see_also":[{"id":349,"lemma":"Bedeutungserfüllung"}],
+ "groups":[{"id":31,"name":"Phänomenologie","label":"Bedeutungsintention (Husserl)"}],
+ "reg_authors":[{"name":"Janssen Paul","n":26}]
+}
+);

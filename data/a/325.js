@@ -1,0 +1,47 @@
+HWPH.put("a/325",
+{
+ "id":325,
+ "lemma":"Automatismus",
+ "band":"1",
+ "kind":"article",
+ "col_from":699,
+ "col_to":700,
+ "pdf_from":2487,
+ "pdf_to":2489,
+ "authors":["H. E. Kehrer"],
+ "n_notes":13,
+ "n_chars":2947,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Automatismus. Unter A. ist ein spontanes und unabhängiges Funktionieren motorischer und/oder psychischer Systeme eines Lebewesens zu verstehen, das außerhalb der Kontrolle des Willens und manchmal des Bewußtseins abläuft und sowohl angeboren (<i>endogener A.</i>) vorhanden sein als auch durch Lernen, Übung, Wiederholen und Gewöhnung erworben werden kann (<i>sekundärer A.</i>). In diesem Sinne wird der Begriff ‹A.› seit HARTLEY <sup class=\"fn\" data-fn=\"0-1\">1</sup> verwendet. Den Anstoß für seine Einführung in die Betrachtung psychophysischer Vorgänge hat DESCARTES <sup class=\"fn\" data-fn=\"0-2\">2</sup> gegeben, für den Tiere Maschinen (Automaten) ohne «Seele» waren. Die Frage, inwieweit seelische Vorgänge automatenhaft, ohne Beteiligung des Bewußtseins oder des Willens ablaufen, ist ein Zentralproblem der Philosophie seit dem Rationalismus (CHR. WOLFF, LAMETTRIE <sup class=\"fn\" data-fn=\"0-3\">3</sup>, später H. DRIESCH <sup class=\"fn\" data-fn=\"0-4\">4</sup> u.a.). Der Begriff ‹A.› hat später Eingang in die Psychologie (JANET <sup class=\"fn\" data-fn=\"0-5\">5</sup>), Psychiatrie <sup class=\"fn\" data-fn=\"0-6\">6</sup> und in die Instinktlehre der Ethologie <sup class=\"fn\" data-fn=\"0-7\">7</sup> gefunden. Unter den normalen A. kann man unterscheiden: <i>motorische</i> endogene (Ausdrucksbewegungen, Bewegungen des Schutzes und der Abwehr u.ä.) und erworbene (z.B. Gehen, Radfahren, Sportausübung); <i>psychische</i>, überwiegend sekundäre, durch Wiederholung mechanisierte Denkprozesse (z.B. Lesen, Rechnen <sup class=\"fn\" data-fn=\"0-8\">8</sup>); <i>psychomotorische</i> endogene (Instinkthandlungen, z.B. Körperpflege, Komplex der Fortpflanzung u.ä.) und erworbene A. (komplexe Fähigkeiten, wie z.B. Schreiben, Klavierspielen, Symbolhandlungen). Als <i>abnorme</i> A. kommen vor: auf <i>motorischem</i> Gebiet extrapyramidale Störungen (z.B. choreatische Bewegungen <sup class=\"fn\" data-fn=\"0-9\">9</sup>) und Stereotypien bei katatonen Schizophrenen; im rein <i>Psychischen</i> Zwangsgedanken <sup class=\"fn\" data-fn=\"0-10\">10</sup>, Gedankenlautwerden, Gedankenentzug und manche Halluzinationen <sup class=\"fn\" data-fn=\"0-11\">11</sup> bei Psychosen; auf <i>psychomotorischem</i> Gebiet Handlungen in Trance (Tischrücken u.a.), in Hypnose, bei psychogener (hysterischer) Bewußtseinsstörung <sup class=\"fn\" data-fn=\"0-12\">12</sup>, in epileptischen Dämmerzuständen, bei Delirien und bei seniler Demenz. – Die Bildung von A. (habit formation) ist eine der Grundlagen aller Lernprozesse <sup class=\"fn\" data-fn=\"0-13\">13</sup>. <span class=\"col\" data-col=\"700\"></span></p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">van der VELDT: Le mouvement et l'A. (1928). – A. BOSTROEM: A., in: Handb. med. Psychol., hg. K. BIRNBAUM (1930). – H. BENDER: Psychische A. (1936).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">D. HARTLEY: Observations on man, his frame, his duty, and his expectations (London 1749).</li>\n<li id=\"fn0-2\" value=\"2\">R. DESCARTES: Discours V, t. I (1637) 42, dtsch. (1911) I, 46–48.</li>\n<li id=\"fn0-3\" value=\"3\">J. O. de LAMETTRIE: L'homme machine (1748), dtsch. (1909).</li>\n<li id=\"fn0-4\" value=\"4\">H. DRIESCH: Die Maschine und der Organismus (1935). <span class=\"col\" data-col=\"700\"></span></li>\n<li id=\"fn0-5\" value=\"5\">P. JANET: L'automatisme psychologique (Paris <sup>2</sup>1893).</li>\n<li id=\"fn0-6\" value=\"6\">E. BLEULER: Lehrbuch der Psychiat. (<sup>9</sup>1955) 95.</li>\n<li id=\"fn0-7\" value=\"7\">K. LORENZ: Über tierisches und menschliches Verhalten 2 (1965) 165.</li>\n<li id=\"fn0-8\" value=\"8\">H. GRUHLE: Verstehende Psychol. (<sup>2</sup>1956) 18. 139.</li>\n<li id=\"fn0-9\" value=\"9\">F. KEHRER: Die Verbindung von chorea- und ticförmigen Bewegungen mit Zwangsvorstellungen. Abh. Neurol. H. 85 (1938).</li>\n<li id=\"fn0-10\" value=\"10\">E. BLEULER, a.a.O. [6] 96.</li>\n<li id=\"fn0-11\" value=\"11\">G. de CLERAMBAULD: Les psychoses hallucinatoires chroniques. C. R. Soc. clin. méd. ment. (Dez. 1923).</li>\n<li id=\"fn0-12\" value=\"12\">E. BLEULER, a.a.O. [6] 96.</li>\n<li id=\"fn0-13\" value=\"13\">E. L. THORNDIKE: The fundamentals of learning (1932).</li>\n</ol>",
+ "prev":{"id":324,"lemma":"Automation","band":"1","col":698},
+ "next":{"id":326,"lemma":"Automessianismus","band":"1","col":700},
+ "backlinks":[{"id":3021,"lemma":"Stereotypie","n":1},{"id":3090,"lemma":"Surrealismus","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Willkürbewegung","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":622,"name":"E. Bleuler","b":0,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":15,"name":"R. Descartes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":220,"name":"H. Driesch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":860,"name":"P. Janet","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":962,"name":"D. Hartley","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2196,"name":"J. O. de Lamettrie","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11,"name":"Ch. Wolff","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":182,"name":"K. Lorenz","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1580,"name":"H. W. Gruhle","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1582,"name":"E. L. Thorndike","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10626,"name":"F. Kehrer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":19561,"name":"G. de Clerambauld","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1628,"name":"H. Bender","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3973,"name":"K. Birnbaum","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6241,"name":"A. Bostroem","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":19562,"name":"der Veldt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[{"id":408,"lemma":"Bewegung","tf":2}],
+ "see_also":[{"id":3021,"lemma":"Stereotypie"}],
+ "groups":[
+  {"id":34,"name":"Psychiatrie","label":"Automatismus"},
+  {"id":36,"name":"Psychologie","label":"Automatismus"}
+ ],
+ "reg_authors":[{"name":"Kehrer Hans E","n":4}]
+}
+);

@@ -1,0 +1,58 @@
+HWPH.put("a/1195",
+{
+ "id":1195,
+ "lemma":"Grundrechte",
+ "band":"3",
+ "kind":"article",
+ "col_from":922,
+ "col_to":924,
+ "pdf_from":10234,
+ "pdf_to":10238,
+ "authors":["E. Forsthoff"],
+ "n_notes":0,
+ "n_chars":5943,
+ "toc":[["h6","Literaturhinweise",0]],
+ "html":"<p>Grundrechte sind Freiheitsrechte, die dem Einzelnen gegen den Staat zustehen. Sie entstammen dem Naturrecht der Aufklärung, das dem Individuum natürliche, also nicht erst zu gewährende Freiheiten gegenüber dem Staat zuerkannte. Der Begriff des G. setzt das losgelöst von seinen sozialen Beziehungen verstandene Individuum voraus. Deshalb sind ständisch gewährte Freiheiten, wie sie in der ‹Magna Charta Libertatum› (1215), der ‹Petition of Rights› (1628), der Habeas-Corpus-Akte (1679) und der ‹Bill of Rights› (1689) verbrieft wurden, keine G., sondern Freiheitsgewährleistungen innerhalb eines ständischen Verfassungssystems.</p>\n<p>Die Vorstellung, daß die Menschen von Natur frei und gleich sind, daß ihnen unveränderliche und unentziehbare Freiheiten zukommen, war für die Verfassungen der Gliedstaaten der mit der Lösung von England unabhängig gewordenen Vereinigten Staaten grundlegend. Diese Verfassungen enthielten G., die damit die Sanktion des Rechts bekamen. Den Anfang machte die virginische Menschenrechtserklärung vom 12. Juni 1776. Auch der Unionsverfassung wurden im Wege der Amendements G. eingefügt.</p>\n<p>Für die kontinentaleuropäische Verfassungsentwicklung wurde die ‹Déclaration des droits de l'homme et du citoyen› der französischen Nationalversammlung <span class=\"col\" data-col=\"923\"></span> vom 26. August 1789 zu einem folgenreichen Ereignis. An ihrer Formulierung hatte LAFAYETTE hervorragenden Anteil. In 17 Artikel gegliedert, statuierte die ‹Declaration› nicht nur bestimmte Menschenrechte, sondern auch einige fundamentale, Wesen und Struktur des Staates festlegende Grundsätze. Artikel 16: «Toute société dans laquelle la garantie des droits n'est pas assurée, ni la séparation des pouvoir déterminee, n'a point de Constitution» wurde bald Allgemeingut der konstitutionellen Bewegungen in Europa. So sicherte die ‹Déclaration› die individuelle Freiheit auf zwei Wegen: durch Begrenzung des Staates (Art. 2: «Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'homme») und durch Gewährleistung dieser droits naturels, als welche in Artikel 2 genannt werden: «la liberé, la propriété, la sûreté et la résistance à l'oppression». Als Freiheitsrechte werden geregelt die allgemeine persönliche Freiheit, die Glaubens- und Gewissensfreiheit, das Recht der freien Meinungsäußerung, die Bindung der Strafjustiz an das Gesetz (nulla poena sine lege), der Schutz gegen gesetzlose Verhaftung und die Garantie des Privateigentums, das nur aus Gründen des öffentlichen Interesses gegen gerechte und vorgängige Entschädigung entzogen werden darf. Bemerkenswert ist, daß die Gleichheit fehlt, die erst in der G.-Proklamation, die der Verfassung vom 24. Juni 1793 vorangestellt ist, als G. erscheint.</p>\n<p>Die G.-Proklamation gab sich den Rang einer zu allen Zeiten gültigen Aussage. Sie wurde deshalb in den revolutionären Verfassungen (1791, 1793, 1795) von dem wandelbaren Inhalt der Verfassung gesondert und ihm vorangestellt. Mit dem Verblassen naturrechtlicher Vorstellungen ging dieser Rang der G. verloren. Als ‹Droit public des Français› gingen sie in die ‹Charte Constitutionnelle› vom 4. Juni 1814 ein. Mit dem Rang von Verfassungsnormen wurden sie in den deutschen Staaten rezipiert, so in der Entwurf gebliebenen Reichsverfassung vom 28. März 1849 (§§ 130–189) und in der preußischen Verfassung vom 31. Januar 1850 (Art. 3–42). Die Reichsverfassung vom 16. April 1871 enthielt keine G., weil dem Reich eigene Verwaltungsbefugnisse nicht zugedacht waren und man deshalb glaubte, es bei der G.-Verbürgerung in den Landesverfassungen bewenden lassen zu können. Dagegen enthielt die Weimarer Reichsverfassung vom 4. August 1919 in ihrem zweiten Teil (Art. 109ff.) einen ausgedehnten und um soziale G. vermehrten G.-Katalog (vgl. unten). Das Grundgesetz der Bundesrepublik vom 23. Mai 1949 bekennt sich in Artikel 1 «zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt». Natürlich kann ein solches, in die Form einer Verfassungsnorm gekleidetes Bekenntnis die G. nicht in einen übergesetzlichen Rang erheben. Ob ihnen ein solcher Rang zuzuerkennen ist, kann nur von theologischen und philosophischen Voraussetzungen aus entschieden werden.</p>\n<p>Die G. setzen dem Staat Schranken vor der individuellen Freiheitssphäre. Diese Schranken sind absolut, soweit ein G. ohne Einschränkung gewährleistet ist wie die Gleichheit und die Glaubensfreiheit. Die Mehrzahl der G. ist unter dem Vorbehalt gewährt, daß die Einschränkung des G. zwar möglich, aber dem Gesetzgeber vorbehalten ist (Gesetzesvorbehalt). Damit ist der Verwaltung ein Eingriff in das G. nur insoweit gestattet, als ein Gesetz den Eingriff vorsieht.</p>\n<p>Die G. fügen sich der auf Freiheitsverbürgung angelegten rechtsstaatlichen Verfassung ein, weil sie durch Schrankenziehung Freiheit gewährleisten. In ihnen ist die Freiheit des Kapitals, der Arbeit und des Marktes eingeschlossen, welche den industriell-technischen Prozeß und die Entfaltung des Dritten Standes erst ermöglichte. Dagegen wandte sich die Kritik von MARX und ENGELS im ‹Kommunistischen Manifest›. Der Versuch, die liberalen um soziale G. zu erweitern (Recht auf Arbeit, Mutterschutz, Schutz der geistigen Arbeit usw.) mußte fehlschlagen. Gewährleistungen bedürfen einer spezifizierten Regelung, die <span class=\"col\" data-col=\"924\"></span> nicht die Verfassung, sondern nur das Gesetz bieten kann. Deshalb kommt die rechtsstaatliche Verfassung über programmatische soziale Verheißungen, die unmittelbar keine Ansprüche begründen, nicht hinaus. Der liberale Charakter der G. ist unzerstörbar.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">G. JELLINEK: Die Erklärung der Menschen- und Bürgerrechte (<sup>4</sup>1928). – A. VOIGT: Geschichte der G. (1948). – R. SCHNUR (Hg.): Zur Gesch. der Erklärung der Menschenrechte (1964) mit Abh. von G. JELLINEK, BOUTMY, HASHAGEN, VOSSLER, G. RITTER, WELZEL und BOHATEC. – BETTERMANN/NEUMANN/NIPPERDEY (Hg.): Die G. Hb. der Theorie und Praxis der G. 1–4 (1954–1967).</p>",
+ "prev":{"id":1194,"lemma":"Grundnorm","band":"3","col":918},
+ "next":{"id":1196,"lemma":"Grundsatz","band":"3","col":924},
+ "backlinks":[{"id":1917,"lemma":"Mensch","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":45,"name":"F. Engels","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7609,"name":"M.-J. de Lafayette","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":593,"name":"G. Jellinek","b":0,"n":0,"l":2,"editor":0,"role":"mixed"},
+  {"id":136,"name":"J. Ritter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":754,"name":"H. Welzel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1084,"name":"Neumann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1481,"name":"R. Schnur","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2486,"name":"K. Vossler","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":2841,"name":"J. Bohatec","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3495,"name":"H. C. Nipperdey","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6527,"name":"K. A. Bettermann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6507,"name":"A. Voigt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":11196,"name":"J. Hashagen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":14454,"name":"E. Boutmy","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":3398,"lemma":"Verfassung","tf":9},
+  {"id":2565,"lemma":"Rang","tf":5},
+  {"id":2998,"lemma":"Staat","tf":7},
+  {"id":946,"lemma":"Freiheit","tf":7},
+  {"id":2600,"lemma":"Rechte des Menschen, Menschenrechte","tf":2},
+  {"id":1185,"lemma":"Grenze, Schranke","tf":2},
+  {"id":1105,"lemma":"Gesetz","tf":3},
+  {"id":230,"lemma":"Arbeit","tf":3},
+  {"id":1147,"lemma":"Gleichheit","tf":2},
+  {"id":2598,"lemma":"Recht","tf":3},
+  {"id":1424,"lemma":"Individuum, Individualität","tf":2}
+ ],
+ "see_also":[{"id":460,"lemma":"Bürgerrechte"},{"id":2600,"lemma":"Rechte des Menschen, Menschenrechte"}],
+ "groups":[
+  {"id":33,"name":"Politische Theorie","label":"Grundrechte"},
+  {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Grundrechte"}
+ ],
+ "reg_authors":[{"name":"Forsthoff Ernst","n":3}]
+}
+);

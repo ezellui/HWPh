@@ -1,0 +1,38 @@
+HWPH.put("a/561",
+{
+ "id":561,
+ "lemma":"Deontologie",
+ "band":"2",
+ "kind":"article",
+ "col_from":114,
+ "col_to":114,
+ "pdf_from":3949,
+ "pdf_to":3950,
+ "authors":["H. Fahrenbach"],
+ "n_notes":4,
+ "n_chars":1498,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Deontologie (bzw. deontologische Ethik: von griechisch τὸ δέον, das Erforderliche, die ‹Pflicht›). Im Unterschied zu J. BENTHAMS erstmaligem Gebrauch des Begriffs als Terminus für die Pflicht und Selbstinteresse harmonisierende Lehre vom Nützlichen, Geeigneten <sup class=\"fn\" data-fn=\"0-1\">1</sup>, bezeichnet ‹D.› heute diejenige Form normativer Ethik, dergemäß sich Verbindlichkeit und Qualität moralischer Handlungen und Urteile aus der Verpflichtung zu bestimmten Verhaltensweisen bzw. Handlungsmaximen herleiten – prinzipiell unabhängig von vorgängigen Zwecken und möglichen Konsequenzen des Handelns. Dadurch ist die D. jeder «teleologischen» Ethik entgegengesetzt. Sie kann als <i>Akt</i>-D. den Bezug auf die jeweilige Situation <sup class=\"fn\" data-fn=\"0-2\">2</sup> oder als <i>Regel</i>-D. auf allgemeine Regeln moralischen Handelns <sup class=\"fn\" data-fn=\"0-3\">3</sup> als maßgebend für die Verpflichtungserfahrung und Entscheidung ansehen bzw. beide Aspekte zu verbinden suchen <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Exemplarische Repräsentanten der deontologischen Ethik sind <i>I. Kant</i> und im 20. Jh. <i>W. D. Ross.</i></p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">C. D. BROAD: Five types of ethical theory (1930) 206ff. – P. H. NOWELL-SMITH: Ethics (1954) 216ff. – T. E. HILL: Contemporary ethical theories (1960) 321ff. – W. K. FRANKENA: Ethics (1963) 13ff. – R. T. GARNER und B. ROSEN: Moral philos. (1967) 83ff.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">J. BENTHAM: Deontology or the sci. of morality 1. 2 (1834) bes. 2. Kap.</li>\n<li id=\"fn0-2\" value=\"2\">E. F. CARRITT: The theory of morals (1928).</li>\n<li id=\"fn0-3\" value=\"3\">KANT: Grundlegung Met. Sitten (<sup>2</sup>1786); KpV (1788); W. D. Ross: The right and the good (1930); Foundations of ethics (1939).</li>\n<li id=\"fn0-4\" value=\"4\">K. JASPERS: Philos. (<sup>1</sup>1932) 2, 329ff. 354ff.</li>\n</ol>",
+ "prev":{"id":560,"lemma":"Denotation","band":"2","col":113},
+ "next":{"id":562,"lemma":"Dependenzgesetze","band":"2","col":114},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Ethik, deontologische","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":248,"name":"J. Bentham","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":44,"name":"K. Jaspers","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10739,"name":"E. F. Carritt","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1429,"name":"W. K. Frankena","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":972,"name":"C. D. Broad","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":2475,"name":"N. Rosen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2570,"name":"T. E. Hill","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2114,"name":"P. H. Nowell-Smith","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":6328,"name":"W. R. Garner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+ ],
+ "mentions":[{"id":835,"lemma":"Ethik","tf":4},{"id":2334,"lemma":"Pflicht","tf":2}],
+ "see_also":[{"id":2338,"lemma":"Pflichtethik, deontologische Ethik"},{"id":2920,"lemma":"Sollen"}],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Deontologie"}],
+ "reg_authors":[{"name":"Fahrenbach Helmut","n":3}]
+}
+);

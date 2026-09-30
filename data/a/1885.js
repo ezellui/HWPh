@@ -1,0 +1,27 @@
+HWPH.put("a/1885",
+{
+ "id":1885,
+ "lemma":"Materia signata",
+ "band":"5",
+ "kind":"article",
+ "col_from":842,
+ "col_to":842,
+ "pdf_from":18557,
+ "pdf_to":18557,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":421,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Materia signata (bezeichnete oder vorgezeigte M.) ist ein durch die lateinische Avicennaübersetzung in der Scholastik eingebürgerter Terminus <sup class=\"fn\" data-fn=\"0-1\">1</sup>, der die individuelle M. benennt, sofern sie nur durch Zeigen auf ein hier und jetzt gegebenes materielles Individuum, dessen Individuationsprinzip sie nach verbreiteter Lehre ist, bestimmt werden kann.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. M.-D. ROLAND-GOSSELIN: Le «De ente et essentia ...» (<sup>2</sup>1948) 11. 58. 65.</li>\n</ol>",
+ "prev":{"id":1884,"lemma":"Materia secunda","band":"5","col":841},
+ "next":{"id":1886,"lemma":"Materialismus","band":"5","col":842},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":3231,"name":"M.-D. Roland-Gosselin","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Materia signata"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

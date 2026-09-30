@@ -1,0 +1,58 @@
+HWPH.put("a/1411",
+{
+ "id":1411,
+ "lemma":"Indikator",
+ "band":"4",
+ "kind":"article",
+ "col_from":282,
+ "col_to":283,
+ "pdf_from":12249,
+ "pdf_to":12251,
+ "authors":["A. Veraart"],
+ "n_notes":13,
+ "n_chars":2323,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Indikator. ‹I.› (engl. <span class=\"col\" data-col=\"283\"></span> indicators) werden Ausdrücke genannt, deren Verständnis von der Situation, in der sie verwendet werden, abhängig ist. Beispiele für I. sind, grammatisch gesprochen, die Personalpronomen, die Demonstrativpronomen, die Zeit- und Ortsadverbien, aber auch die tempusdifferenzierenden Endungen und Umlautungen der Verben <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>C. S. PEIRCE <sup class=\"fn\" data-fn=\"0-2\">2</sup> verwendet statt ‹I.› den jedoch weiter gefaßten Terminus ‹indexical sign›, O. JESPERSEN <sup class=\"fn\" data-fn=\"0-3\">3</sup> den Terminus ‹shifter›, B. RUSSELL <sup class=\"fn\" data-fn=\"0-4\">4</sup> ‹egocentric particular› und H. REICHENBACH <sup class=\"fn\" data-fn=\"0-5\">5</sup> ‹token-reflexive word›. Im Deutschen ist neben ‹I.› <sup class=\"fn\" data-fn=\"0-6\">6</sup> auch ‹Zeigwort› im Gebrauch, z.B. bei K. BÜHLER <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Die Verwendung des Terminus ‹I.› ist nicht einheitlich. W. E. COLLINSON <sup class=\"fn\" data-fn=\"0-8\">8</sup> verwendet in sehr weitem Sinne als erster ‹indicater›. Zu den I. zählt er außer den oben genannten Ausdrucksarten z.B. auch noch Ausdrücke wie ‹alle› und ‹kein› <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Systematisch eingeführt im obigen Sinne wurde der Terminus ‹I.› von N. GOODMAN <sup class=\"fn\" data-fn=\"0-10\">10</sup> und so übernommen von W. v. O. QUINE <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Zur weiteren Differenzierung führt K. LORENZ <sup class=\"fn\" data-fn=\"0-12\">12</sup> in Aufnahme eines Vorschlags von V. ROTH <sup class=\"fn\" data-fn=\"0-13\">13</sup> den Terminus ‹(logischer) Demonstrator› («dies») ein, der in normierter Rede gewöhnlich die grammatischen Demonstrativa vertritt und somit einen von prädikativen Anteilen freien I. darstellt, im Gegensatz etwa zu dem I. ‹heute›, der verstanden werden muß als «an diesem Tage».</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">W. KAMLAH und P. LORENZEN: Log. Propädeutik (<sup>2</sup>1967) 110–115, bes. 110f.</li>\n<li id=\"fn0-2\" value=\"2\">R. GALE: Art. ‹Indexical signs, egocentric particulars, and token-reflexive words›, in: The encyclopedia of philos. 4 (New York/London 1967) 151–155, zit.: 151.</li>\n<li id=\"fn0-3\" value=\"3\">W. v. O. QUINE: Word and object (Cambridge, Mass. 1960, <sup>5</sup>1970) 101 Anm. 1.</li>\n<li id=\"fn0-4\" value=\"4\">GALE, a.a.O. [2] 152.</li>\n<li id=\"fn0-5\" value=\"5\">a.a.O. 152f.</li>\n<li id=\"fn0-6\" value=\"6\">W. KAMLAH und P. LORENZEN, a.a.O. [1].</li>\n<li id=\"fn0-7\" value=\"7\">K. BÜHLER: Sprachtheorie. Die Darstellungsfunktion der Sprache (1934) 107f.</li>\n<li id=\"fn0-8\" value=\"8\">W. E. COLLINSON: Indication. A study of demonstratives, articles, and other «indicaters», hg. A. V. NOMS, in: Supplement to Language, language monographs Nr. 17 (1937, ND New York 1966) 15. 25; vgl. K. LORENZ: Elemente der Sprachkritik (1970) bes. 213 Anm. 25.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. COLLINSON, a.a.O. 108.</li>\n<li id=\"fn0-10\" value=\"10\">N. GOODMAN: The structure of appearance (1951, Indianapolis/New York/Kansas City <sup>2</sup>1966) 362–368.</li>\n<li id=\"fn0-11\" value=\"11\">QUINE, a.a.O. [3] 101.</li>\n<li id=\"fn0-12\" value=\"12\">LORENZ, a.a.O. [8].</li>\n<li id=\"fn0-13\" value=\"13\">V. ROTH: Einige log. Strukturen dtsch. Gegenwartssprache (Diss. Erlangen 1969) 150ff.</li>\n</ol>",
+ "prev":{"id":1410,"lemma":"Indifferenz","band":"4","col":282},
+ "next":{"id":1412,"lemma":"Indiscernibilien","band":"4","col":283},
+ "backlinks":[
+  {"id":2151,"lemma":"Nominator","n":1},
+  {"id":3649,"lemma":"Wo; Wann","n":1},
+  {"id":3675,"lemma":"Zeigen","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Demonstrator","qualifier":"","band":"4","col":"283"},
+  {"term":"egocentric particular","qualifier":"","band":"4","col":"283"},
+  {"term":"Idee des Guten","qualifier":"I","band":"4","col":"282"},
+  {"term":"indexical sign","qualifier":"","band":"4","col":"283"},
+  {"term":"indicator","qualifier":"","band":null,"col":null},
+  {"term":"shifter","qualifier":"","band":"4","col":"283"},
+  {"term":"Sonne","qualifier":"I","band":"4","col":"282f."},
+  {"term":"token-reflexive word","qualifier":"","band":"4","col":"283"},
+  {"term":"Zeigwort","qualifier":"","band":"4","col":"283"}
+ ],
+ "persons":[
+  {"id":182,"name":"K. Lorenz","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":7694,"name":"W. E. Collinson","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":81,"name":"P. Lorenzen","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":270,"name":"K. Bühler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":482,"name":"W. Kamlah","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":294,"name":"N. Goodman","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1760,"name":"O. Quine","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":46,"name":"B. Russell","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":102,"name":"Ch. S. Peirce","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":143,"name":"W. V. O. Quine","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":386,"name":"H. Reichenbach","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":2664,"name":"O. Jespersen","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":5630,"name":"R. Gale","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21794,"name":"Gale","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":690,"name":"F. Roth","b":1,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":21795,"name":"A. V. Noms","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":2151,"lemma":"Nominator"},{"id":3675,"lemma":"Zeigen"}],
+ "groups":[{"id":22,"name":"Logik","label":"Indikator"}],
+ "reg_authors":[{"name":"Veraart Heinz-Albert","n":7}]
+}
+);

@@ -1,0 +1,27 @@
+HWPH.put("a/49",
+{
+ "id":49,
+ "lemma":"Adjunktor",
+ "band":"1",
+ "kind":"article",
+ "col_from":86,
+ "col_to":86,
+ "pdf_from":505,
+ "pdf_to":505,
+ "authors":["Red"],
+ "n_notes":0,
+ "n_chars":148,
+ "toc":[],
+ "html":"<p>Adjunktor heißen Zeichen für die logische <a class=\"xref\" href=\"#/a/48\">Adjunktion</a> <span class=\"sd\">→ (s.d.)</span> zweier Aussagen <i>p</i> und <i>q</i>, z.B. bei der gebräuchlichen Schreibung ‹<i>p</i> ∨ <i>q</i>› das Zeichen ‹∨›.</p>",
+ "prev":{"id":48,"lemma":"Adjunktion","band":"1","col":85},
+ "next":{"id":50,"lemma":"Advaita","band":"1","col":86},
+ "backlinks":[{"id":3137,"lemma":"Tautologie","n":1}],
+ "outlinks":[{"id":48,"lemma":"Adjunktion","n":1}],
+ "register":[{"term":"oder (log.)","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[{"id":3673,"lemma":"Zeichen","tf":2}],
+ "see_also":[{"id":610,"lemma":"Disjunktor"}],
+ "groups":[{"id":22,"name":"Logik","label":"Adjunktor"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

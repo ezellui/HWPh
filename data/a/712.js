@@ -1,0 +1,36 @@
+HWPH.put("a/712",
+{
+ "id":712,
+ "lemma":"Elimination",
+ "band":"2",
+ "kind":"article",
+ "col_from":443,
+ "col_to":443,
+ "pdf_from":5043,
+ "pdf_to":5044,
+ "authors":["H. M. Nobis"],
+ "n_notes":3,
+ "n_chars":1702,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Elimination. Der Begriff ‹E.› wird in verschiedenem Sinne gebraucht: Die <i>Mathematik</i> kennt seit FERMAT ein streng methodisches Verfahren zur E. von Unbekannten aus algebraischen Gleichungssystemen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. – In der <i>Physiologie</i> und <i>Medizin</i> spricht man von E. nichtassimilierbarer bzw. morbider Stoffe. – Der ältere <i>Darwinismus</i> unterschied hinsichtlich der sogenannten Selektion eine katastrophale E. als Massenvernichtung ohne Rücksicht auf individuelle Organisationsunterschiede von einer personalen E. als Vernichtung einzelner Individuen auf Grund unvollkommener Anpassung. Resultat der letzteren ist die von Darwin sogenannte «natürliche Zuchtwahl» als das Überleben der im Kampf ums Dasein am besten ausgerüsteten Individuen <sup class=\"fn\" data-fn=\"0-2\">2</sup>. – In der <i>Genetik</i> kennt man E. als den zufallsbedingten Verlust von Erbanlagen, wenn Teile von Tierpopulationen sich weiter verbreiten. Im Verlauf der Embryonalentwicklung kann man bei einigen Tierarten regelmäßig die E. einzelner Chromosomen beobachten. – Neuerdings spielt der Begriff der E. in der <i>Naturphilosophie</i> eine Rolle, näherhin in dem von J. S. HALDANE begründeten und von J. C. SMUTS so genannten Holismus, der die einfacheren Bereiche aus dem Komplexeren, also das Physikalische aus dem Biologischen und dieses aus dem Psychischen ableiten will, und zwar durch Simplifikation und E. <sup class=\"fn\" data-fn=\"0-3\">3</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">M. CANTOR: Vorles. über Gesch. der Math. 3, 804/805.</li>\n<li id=\"fn0-2\" value=\"2\">Vgl. L. PLATE: Über die Bedeutung der Darwinschen Selektion (<sup>2</sup>1903) 88, die sich im wesentlichen an LLOYD MORGAN: Animal life and intelligence (1890/91) anschließt.</li>\n<li id=\"fn0-3\" value=\"3\">J. S. HALDANE/MEYER: Die philos. Grundlagen der Biol. (1932); J. C. SMUTS: Holism and evolution (London 1936); A. MEIER-ABICH: Naturphilos. auf neuen Wegen (1948).</li>\n</ol>",
+ "prev":{"id":711,"lemma":"Eleutheronomie","band":"2","col":443},
+ "next":{"id":713,"lemma":"Elite","band":"2","col":443},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":2489,"name":"J. S. Haldane","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4459,"name":"J. C. Smuts","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1044,"name":"Meyer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2488,"name":"P. Fermat","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4460,"name":"M. Cantor","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8739,"name":"L. Plate","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":13897,"name":"C. Lloyd Morgan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":20082,"name":"A. Meier-Abich","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[],
+ "see_also":[{"id":853,"lemma":"Evolutionstheorie"}],
+ "groups":[{"id":5,"name":"Biologie","label":"Elimination"}],
+ "reg_authors":[{"name":"Nobis Herbert M","n":31}]
+}
+);

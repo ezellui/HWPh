@@ -1,0 +1,12 @@
+HWPH.put("t/867",
+{
+ "b":"Existenziale Interpretation heißt bei M. HEIDEGGER die Analyse der Seinsverfassung des Daseins, welche an der Aufdeckung der Existenzialien als deren spezifischer Charaktere orientiert ist. Im Zusammenhang damit setzte sich R. BULTMANN für eine Auslegung geschichtlicher Texte ein, die von der Frage nach dem in ihnen sich aussprechenden Existenzverständnis geleitet ist. Er nannte sie zunächst «dialektische» Interpretation und bezog damit Stellung in der durch K. BARTH ausgelösten hermeneutischen Diskussion gegenüber dem Postulat einer «pneumatischen Exegese» . Unter Berufung auf Bemerkungen G. KRÜGERS zum platonischen Mythos und besonders auf H. JONAS' Interpretation der Gnosis wandte Bultmann dann in seinem programmatischen Aufsatz ‹Neues Testament und Mythologie› (1941) den Begriff Heideggers auf die Auslegung mythologischer Aussagen in biblischen Texten an: Sie «müssen auf das in ihnen liegende Existenzverständnis hin, d.h. existential, interpretiert werden» . In der darauf folgenden Debatte über die ‹Entmythologisierung› hielt Bultmann an diesem Begriff fest , während für G. EBELING «das Ausgelegtwerden des Textes ... in ein Ausgelegtwerden durch den Text» umschlägt .",
+ "n":"M. HEIDEGGER: Sein und Zeit (1927) 117. 196. 231 u.a. \nR. BULTMANN: Glauben und Verstehen 1 (1933) 114ff.; Die Bedeutung der ‹dialektischen Theologie› für die neutestamentl. Wiss., (1928). \nK. BARTH: Der Römerbrief (1919, 21922). \nBULTMANN, a.a.O. 127f. \nG. KRÜGER: Einsicht und Leidenschaft (1939, 21948) 17f., 56f. \nVgl. H. JONAS: Gnosis und spätantiker Geist 1 (1934) bes. 14ff. 90f.; vgl. bereits: Augustin und das paulin. Freiheitsproblem (1930), bes. 66ff. \nR. BULTMANN, in: Kerygma und Mythos, hg. H. W. BARTSCH 1 (4948) 28; vgl. 23f. \nVgl. Kerygma und Mythos I-IV. \nz.B. BULTMANN s. Anm. [2] 4 (1965) 130 (Zum Problem der Entmythologisierung, 1963); vgl. a.a.O. 190ff. (Antwort an E. Käsemann, 1965). \nG. EBELING: Theol. und Verkündigung (1962) 15; vgl. E. FUCHS: Zum hermeneut. Problem in der Theol. Die existentiale I. Aufsätze 1 (1959); Glaube und Erfahrung. Aufsätze 3 (1965).",
+ "l":"R. MARLÉ: Existentiale Interpretation. Sacramentum mundi 1 (1967) 1300–1304. – W. PANNENBERG : Hermeneutik und Universalgesch., in: Grundfragen systemat. Theol. (1967) 91ff.",
+ "au":"M. Elze",
+ "A":["M. Elze"],
+ "cb":[[0,862]],
+ "cn":[[0,862],[55,862],[190,862],[231,862],[255,862],[318,862],[464,862],[543,862],[574,862],[710,862]],
+ "cl":[[0,862]]
+}
+);

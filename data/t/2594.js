@@ -1,0 +1,38 @@
+HWPH.put("t/2594",
+{
+ "b":"Realitätsprinzip ist ein 1911 von S. FREUD geprägter Begriff: Die Enttäuschung direkter oder halluzinatorischer Befriedigung führt – phylogenetisch und ontogenetisch – den «Psychischen Apparat» dazu, das unmittelbare Regiment des «Lustprinzips» zu suspendieren, «die realen Verhältnisse der Außenwelt vorzustellen und die reale Veränderung anzustreben. Damit war ein neues Prinzip der seelischen Tätigkeit eingeführt; es wurde nicht mehr vorgestellt, was angenehm, sondern was real war, auch wenn es unangenehm sein sollte. Die Einsetzung des R.» – durch die «das Ich die Umwandlung von Lust-Ich zum Real-Ich durchmacht» – dient der «Selbstbehauptung des Organismus unter den Schwierigkeiten der Außenwelt» , der «Sicherheit», «Selbsterhaltung» und der Ausbildung der «Kultur» . In den psychischen Erkrankungen suspendiert der Mensch das R. und erleidet so «Realitätsverlust» . Der späte Freud, der «Jenseits des Lustprinzips» denkt, überführt die Opposition von R. und Lustprinzip in die von «Ich» und «Es» ; daran anschließend entwickelt sich einschlägig eine differenzierte innerpsychoanalytische Diskussion . In deren Zusammensetzung betont J. LACAN, daß die Psychoanalyse selber nicht dem R. im Sinne des Wissenschaftsideals der Physik gehorche, sondern «jenseits des R.» agiere. \nBei der philosophischen Freudrezeption wird vor allem in der Frankfurter Schule die durch das R. verlangte «Anpassung» an «das Bestehende» kritisiert; so bei TH. W. ADORNO: die Psychoanalyse unterwerfe den Menschen «dem R.» , d.h. «dem Rationalisierungsmechanismus, der Anpassung» , und erlaube ihm dadurch nur «Gesundheit zum Tode» ; so sei bei Freud «das letzte großkonzipierte Theorem der bürgerlichen Selbstkritik ... zu einem Mittel geworden, die bürgerliche Selbstentfremdung in ihrer letzten Phase zur absoluten zu machen» . Demgegenüber hat H. MARCUSE aus ähnlicher spätmarxistischer Position heraus auf das entfremdungskritische Potential der Psychoanalyse gesetzt: Freud analysierte den Menschen nur «unter der Herrschaft des R.» und verwechselte dabei – unhistorisch – das R. mit der «vorherrschenden historischen Form des R.», dem «Leistungsprinzip» , das die vorhandene – bürgerliche – Kultur zu einer «unterdrückenden Kultur» macht. Marcuse betont «die historischen Grenzen des geltenden R.» und «extrapoliert» aus Freuds Psychoanalyse die Idee «eines neuen R.» , «eines nicht-unterdrückenden R.» und die Vision einer – durch «nicht-repressive Sublimierung» charakterisierten – «Kultur ohne Unterdrückung und Verdrängung» «jenseits des R.» , in der Lustprinzip und R. versöhnt und identisch werden. \nGegen diese Illusion ohne Zukunft – die aus der Verweigerung der Bürgerlichkeit folgt – wird eine philosophische Rehabilitierung des R. fällig; denn der «Versuch, die Psychoanalyse zum Treuhänder der Wahrheit des Marxismus einzusetzen, weil der Marxismus selbst es nicht mehr ist, und Freud zum amtierenden Linkshegelianer zu küren, wo die offiziellen Linkshegelianer zu Funktionären der Repression sich gewandelt haben, tut das um den Preis der Ohnmacht seiner Vernunft: er ‘bleibt frei von der Kontrolle des R. – um den Preis, machtlos zu werden, inkonsequent, unrealistischʼ» .",
+ "n":"S. FREUD: Formulierungen über die zwei Prinzipien des psych. Geschehens (1911). Ges. Werke, hg. A. FREUD (London 1940ff.) 8, 229–238, bes. 231f. \na.O. 237. \nJenseits des Lustprinzips (1920), a.O. 13, 1–69, bes. 6. \nAbriß der Psychoanalyse (1938), a.O. 17, 63–138, bes. 129f. \nDas Unbehagen in der Kultur (1930), a.O. 14, 419–506, bes. 425. \nDer Realitätsverlust bei Neurose und Psychose (1924), a.O. 13, 361–368. \na.O. [3] 1–69. \na.O. [4] 129. \nVgl. Encycl. of psychoanalysis, hg. L. EIDELBERG (New York/London 1968) 367f. \nJ. LACAN: Au-delà du ‘Principe de réaliteʼ (1936). Ecrits (Paris 1966) 73–92. \nTH. W. ADORNO: Minima Moralia (1951). Ges. Schr., hg. R. TIEDEMANN 4 (1980) 70. \na.O. \n63. \n72. \nH. MARCUSE: Triebstruktur und Ges. (1955). Schr. 5 (1979) 17. \na.O. 38. \n54. \n115ff. \n136. \n123. \n179. \n170. \n113ff. \nO. MARQUARD: Transz. Idealismus, Romantische Naturphilos., Psychoanalyse [1963] (1988) 264; vgl. MARCUSE, a.O. [15] 125.",
+ "l":"L. EIDELBERG s. Anm. [9]. – J. LAPLANCHE/H. B. PONTALIS: Das Vokabular der Psychoanalyse (1973) 427–431. – O. MARQUARD s. Anm. [24].",
+ "au":"O. Marquard",
+ "A":["O. Marquard"],
+ "cb":[[0,211],[1284,212],[1286,212],[2600,212]],
+ "cn":[
+  [0,211],
+  [0,212],
+  [146,212],
+  [157,212],
+  [215,212],
+  [276,212],
+  [341,212],
+  [414,212],
+  [430,212],
+  [445,212],
+  [524,212],
+  [603,212],
+  [684,212],
+  [690,212],
+  [695,212],
+  [700,212],
+  [763,212],
+  [773,212],
+  [778,212],
+  [786,212],
+  [792,212],
+  [798,212],
+  [804,212],
+  [810,212],
+  [818,212]
+ ],
+ "cl":[[0,212]]
+}
+);

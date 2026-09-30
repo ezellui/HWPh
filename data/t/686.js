@@ -1,0 +1,12 @@
+HWPH.put("t/686",
+{
+ "b":"Einkehr. Gemäß PLATONS ‹Phaidon› muß die Seele, um die Fesseln des Körpers abzulegen, mit Hilfe der Philosophie sich von den Sinnen und vom sinnlichen Erkennen zurückziehen (ἀναχωρεῖν), sich sammeln und auf sich selbst besinnen . Zu einem wichtigen Prinzip stoischer Lebensführung wird die E., das ἀναχωρεῖν, bei MARC AUREL; im Rückzug auf das innere «eigene Gütchen» (τὸ ἀγρίδιον ἑαυτοῦ) und zu dessen Gesetzen streift der Mensch jeden Schmerz und jeden Verdruß über die Welt von sich ab und gewinnt ein dauerhaftes Wohlbefinden (εὐμάρεια) . Ähnlich wie bei Platon vollzieht in der E. die Seele bei PLOTIN ihre Trennung vom Leib und von allem dem eigenen Selbst Fremden und strebt dem Schönen und Göttlichen als ihrer Heimat zu . AUGUSTIN nimmt den Begriff der E. als Akt der Selbstüberschreitung auf: «noli foras ire, in te ipsum redi; in interiore homine habitat veritas» . Von hier aus dringt der Gedanke ein in die Scholastik und vor allem in die Mystik, die alles Abwenden vom Äußeren, alles sich auf das Innere der Seele Konzentrieren ‹E.› nennt. Aufsteigen zu Gott heißt Eingehen in sich selbst, sagte PSEUDO-ALBERTUS ; und für THOMAS VON AQUIN wird das «redire ad cor» der sichere Weg zur Sündenheilung, zum Ursprung des Lebens, zum Ort der göttlichen Stimme und des Friedens . Neben MEISTER ECKHART und H. SEUSE bedient sich besonders J. TAULER des Wortes: In der ‹inker› oder im ‹inganc› zieht die Seele den «uswendigen menschen» in den «obersten innewendigen menschen» und sammelt sich in ihren «grunt», wo immer neu Christi Geburt geschieht und der geschaffene Geist in den ungeschaffenen sich senkt . Im Pietismus wird die E. in ähnlicher Bestimmung zu einem häufig belegbaren Topos besonders bei G. TERSTEEGEN .",
+ "n":"Phaid. 83 a. \nAd me ipsum IV, 3. \nEnn. I, 1, 12; II, 3, 9. \nDe vera religione Nr. 72. \nDe adhaerendo Deo, cap. VII. \nExpositiones, Comm. In Jsaiam, cap. 46. Pariser A. 19, 17f. \nDtsch. Werke, hg. Quint 5 (1963) 290f. \nDtsch. Schriften, hg. BIHLMEYER (1907, Nachdr. 1961) 349. 168f. 326 u.ö. \nPredigten, hg. VETTER (1910) 8f. 421 u.ö. \nVgl. A. LANGEN: Der Wortschatz des dtsch. Pietismus (1954) 154f. mit Lit.",
+ "l":"A. NICKLAS: Die Terminologie des Mystikers Heinrich Seuse (1914). – C. KIRMSSE: Die Terminologie des Mystikers Johannes Tauler (1930).",
+ "au":"P. Heidrich P. Heidrich/G. Scholtz",
+ "A":["P. Heidrich","P. Heidrich/G. Scholtz"],
+ "cb":[[0,406],[230,407]],
+ "cn":[[0,406],[14,406],[34,406],[60,406],[87,406],[117,406],[178,406],[218,406],[292,406],[335,406]],
+ "cl":[[0,407]]
+}
+);

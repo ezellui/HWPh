@@ -1,0 +1,12 @@
+HWPH.put("t/1583",
+{
+ "b":"Kokugaku (Nationale Wissenschaft; auch wagaku, Japanische Wissenschaft, kôkokugaku, Wissenschaft des Kaiserlandes, kodôgaku, Wissenschaft des Alten Weges oder kogaku, Wissenschaft des Alten genannt) ist ein Terminus, der von der Hirata-Schule geprägt wurde. Gemeint ist die Erforschung des japanischen Altertums auf philologischer Grundlage, wie sie von einheimischen Gelehrten während der Tokugawa-Zeit (1600–1868) als Gegengewicht zum staatlich geförderten Konfuzianismus der Sinologischen Wissenschaft (kangaku, s.d.) betrieben wurde. Ausgangspunkt war die sprachliche und sachliche Erschließung der großen Literaturdenkmäler der Nara- und Heian-Zeit, insbesondere des ‹Kojiki› (712), ‹Nihongi› (720), ‹Manyôshû› (ca. 760) und ‹Genji-monogatari› (ca. 1010). Das Wirken von KEICHÛ, KADA AZUMAMARO, KAMO MABUCHI und MOTOORI NORINAGA markiert die Entwicklung zur wissenschaftlichen Japanologie. \nWesentlich für die K. war die Beschäftigung mit der japanischen Mythologie, dem sogenannten Götterzeitalter (shindai), dessen Überlieferungen als Tatsachen (jijitsu) interpretiert wurden. Politischer Effekt war die Wiederbelebung des alten Shintô (fukko-shintô), die Propagierung eines auf dem Shintô als «Weg der Wahrheit» (makoto no michi) beruhenden Staatsdenkens und schließlich die Auslösung von Restaurationsbestrebungen des Kaisertums, welches im Schatten der konfuzianisch orientierten Schogunatsregierung stand. Auf die philologisch begründete K. folgte so eine staatsphilosophisch wirkende Richtung, welche durch Männer wie HIRATA ATSUTANE oder ÔKUNI TAKAMASA repräsentiert wird. Sie brachte wesentliche Impulse zum Sturz des Schogunats und zur Meiji-Restauration. \nDie K. wurde ab 1870 durch eine Aufklärungsbewegung zur Verbreitung westlicher Zivilisation verdrängt (bummei-kaika), gilt aber als Basis der einheimischen Japanologie und erlangte in der ultranationalistischen Periode der 1930er Jahre wiederum politische Bedeutung.",
+ "n":"",
+ "l":"TASABURÔ ITÔ: K. no shiteki-kôsatsu (Hist. Betrachtung der K.) (Tokio 1932). – SHÔZÔ KÔNO: K. no kenkyû (Studien über die K.) (Tokio 1932). – H. HAMMITZSCH: Kangaku und K., in: Monumenta Nipponica II/1 (Tokio 1939). – H. DUMOULIN, H. STOLTE und W. SCHIFFER: Die Entwickl. der K., in: Monumenta Nipponica II/1 (Tokio 1939). – YOSHIO YAMADA: K. no hongi (Das Wesen der K.) (Tokio 1942). – L. BRÜLL: Ôkuni Takamasa und seine Weltanschauung. Stud. zur Japanol. 7 (1966).",
+ "au":"B. Lewin",
+ "A":["B. Lewin"],
+ "cb":[[0,881],[896,881],[1672,881]],
+ "cn":[],
+ "cl":[[0,881]]
+}
+);

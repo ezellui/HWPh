@@ -1,0 +1,77 @@
+HWPH.put("a/3255",
+{
+ "id":3255,
+ "lemma":"Übergegensätzlichkeit; übergegensätzlich",
+ "band":"11",
+ "kind":"article",
+ "col_from":34,
+ "col_to":36,
+ "pdf_from":44618,
+ "pdf_to":44623,
+ "authors":["Th. Rentsch"],
+ "n_notes":19,
+ "n_chars":6028,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Übergegensätzlichkeit; übergegensätzlich. In der Geschichte der Philosophie wurden nacheinander Gott als oberster Seinsgrundund Schöpfer der Gegensätze bzw. das diese in sich vereinigende Eine, das die Gegensätze allererst erkennende Subjekt, und später auch der Bereich der Gegenständlichkeit als übergegensätzlich bzw. als Ü. ausgezeichnet. Die Begriffsgeschichte verbindet deshalb Metaphysik und Erkenntnistheorie, Logik und Mystik. Dieser Befund hält sich von der Antike bis zum Neukantianismus des 20. Jh. durch. ARISTOTELES bereits kritisiert Empedokles und andere Kosmologen, die «alles aus Gegensätzen sein lassen» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Am Anfang allen Seins wie Erklärens steht kein Gegensatzpaar, denn: «Für das Erste gibt es keinen Gegensatz» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Das Erste, d.h. Gott <sup class=\"fn\" data-fn=\"0-3\">3</sup>, ist keiner Sache entgegengesetzt, denn es ist reiner Vollzug <sup class=\"fn\" data-fn=\"0-4\">4</sup>, ohne Beimischung bloßer Fähigkeit <sup class=\"fn\" data-fn=\"0-5\">5</sup>, ohne Stoff <sup class=\"fn\" data-fn=\"0-6\">6</sup>, der notwendig zur Gegensätzlichkeit gehört <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Wenn auch der Terminus nicht bei Aristoteles selbst zu finden ist, so wird er doch seit E. LASK und in der Aristoteles-Forschung selbstverständlich auf Aristoteles bezogen <sup class=\"fn\" data-fn=\"0-8\">8</sup>.</p>\n<p>Das Wort selbst wird – wie eine Fülle anderer mit ὑπερ – in der neuplatonischen Metaphysik der Transzendenz des Einen gebildet. Dieses Eine wird bei PLOTIN und PROKLOS als übergegensätzlich bestimmt; <span class=\"col\" data-col=\"35\"></span> es ist über allen Gegensatz erhaben (πρὸ πάσης ἀντιθέσεως, ἐναντιώσεως, «exaltatum ab omni oppositione») <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Obwohl dieser Gedanke auch bei PS.-DIONYSIUS AREOPAGITA, JOHANNES SCOTUS ERIUGENA, bei MEISTER ECKHART und NICOLAUS CUSANUS zu finden ist <sup class=\"fn\" data-fn=\"0-10\">10</sup> – bei letzterem im Kontext seiner Lehre von der «coincidentia oppositorum» <a class=\"xref\" href=\"#/a/501\">→</a> (s.d.) –, spielt er gegenüber der Rede von «überwesentlich» und «überseiend» <a class=\"xref\" href=\"#/a/3264\">→</a> (s.d.) in der Metaphysik der Transzendenz des Einen bzw. in der negativen Theologie keine vergleichbar dominierende Rolle. Das gilt auch für die neuzeitliche Entwicklung. Statt von Ü. ist auch im Deutschen Idealismus weit häufiger von der Einheit (F. W. J. SCHELLING) oder der Aufhebung der Gegensätze (G. W. F. HEGEL) in Gott bzw. im Absoluten die Rede <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<p>Terminologisch zentral ist die Rede von der Ü. in der Logik und Kategorienlehre von E. LASK im systematischen Kontext des Südwestdeutschen Neukantianismus. Lask ordnet in seiner Erkenntnistheorie der Urteilssphäre eine Sphäre bzw. Schicht reiner Gegenständlichkeit vor. Diese ist übergegensätzlich, d.h. sie ist der Geltungsdifferenz («gültig»/«ungültig») enthoben. Es gibt in ihr weder Position (Positivität) noch Negation (Negativität), weder Wert noch Unwert. Subjektivität tritt dieser reinen, übergegensätzlichen Gegenständlichkeit lediglich als erfassende gegenüber. Mit dieser Schicht der Ü. will Lask den strengen Objektivismus einer transsubjektiven Ebene theoretisch sichern. Seine Philosophie wurde deswegen als «neukritizistischer Platonismus» bezeichnet <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Im 2. Kapitel seiner ‹Lehre vom Urteil›, ‹Die Uebergegensätzlichkeit› <sup class=\"fn\" data-fn=\"0-13\">13</sup>, unterscheidet Lask «Gegensatzindifferenz», «Gegensatzentrücktheit», «Gegensatzlosigkeit», «Zwischengegensätzlichkeit», «Nichtgegensätzlichkeit», «Untergegensätzlichkeit» und «Gegensatzfremdheit» von der genuinen «Uebergegensätzlichkeit» <sup class=\"fn\" data-fn=\"0-14\">14</sup>. Er schließt seine Konzeption selbst an Aristoteles an: «Die für den Gedanken der Uebergegensätzlichkeit entscheidende Tat des Aristoteles besteht darin, daß er das im eigentlichen Sinne Seiende (κυρίως ὄντα) über die der Subjektivität, dem ‘Denkenʼ (διάνοια), angehörenden gegensätzlich gespaltenen Aussagegefüge heraushebt, wobei er gleichzeitig die Positivität und die Negativität aus der Metaphysik verweist, in die nach ihm nur das in die Kategorien eingeteilte übergegensätzliche eigentliche Sein gehört» <sup class=\"fn\" data-fn=\"0-15\">15</sup>. Lask bezieht sich auf Met. VI, 4, 1027 b–1028 a, wobei er kritisch anmerkt, daß Aristoteles nicht genau zwischen Ü. und Gegensatzindifferenz unterscheide, aber positiv hervorhebt, daß dieser «deutlich den Begriff des übergegensätzlichen Erkennens» aufstellt, «freilich ... ohne auch hier wieder zwischen der Gegensatzdiesseitigkeit der bloßen Wahrnehmung und der Gegensatzjenseitigkeit eines der Gegensätzlichkeit entrückten reinen Denkens einen Unterschied zu machen» <sup class=\"fn\" data-fn=\"0-16\">16</sup>. Lask erwägt eine «Interpretation der gesamten Kantianistischen Lehre vom Bewußtsein überhaupt im Sinne der Uebergegensätzlichkeit» <sup class=\"fn\" data-fn=\"0-17\">17</sup>. Auf diesem Wege ergibt sich bei ihm eine Stufenlehre der Ü., in der vom ur-übergegensätzlichen Absoluten aus in einer kategorientheoretisch entfalteten Systematik immer weitere Differenzierungen (Sinn – Wahrheit – Sinnfragment – Urteilsstruktur – Urteil über ein Urteil [Sinnfragment zweiter Ordnung]) bis hin zur einzelwissenschaftlichen Erkenntnis führen. Lask selbst weist auf den neuplatonisch-metaphysischen Hintergrundseines transzendentallogisch gefaßten Emanatismus der Ü., z.B. auf Plotin, hin <sup class=\"fn\" data-fn=\"0-18\">18</sup>, ebenso seine Schüler und Interpreten <sup class=\"fn\" data-fn=\"0-19\">19</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"35\"></span> ARISTOTELES: Met. XII, 10, 1075 a 28; Phys. I, 5, 188 a 19ff.; vgl. Art. <a class=\"xref\" href=\"#/a/1018\">→ Gegensatz I. 1.</a>. Hist. Wb. Philos. 3 (1974) 105–107.</li>\n<li id=\"fn0-2\" value=\"2\">b 21f.; vgl. De an. III, 6, 430 b 2–26.</li>\n<li id=\"fn0-3\" value=\"3\">b 35.</li>\n<li id=\"fn0-4\" value=\"4\">6, 1071 b 20.</li>\n<li id=\"fn0-5\" value=\"5\">b 18.</li>\n<li id=\"fn0-6\" value=\"6\">De an. II, 1, 412 a 9; Met. VIII, 1, 1042 a 27f.</li>\n<li id=\"fn0-7\" value=\"7\">Met. XII, 10, 1075 b 22.</li>\n<li id=\"fn0-8\" value=\"8\">H. SCHMITZ: Aristoteles. Ontol., Nool., Theol. § 42 (1985) 366 (‹Das Ü.›).</li>\n<li id=\"fn0-9\" value=\"9\">PROCLUS: In Parm. 1123, 26ff.; vgl. Art. <a class=\"xref\" href=\"#/a/1018\">→ Gegensatz I. 3.</a>. Hist. Wb. Philos. 3 (1974) 109–111, 110.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. Art. <a class=\"xref\" href=\"#/a/1018\">→ Gegensatz</a>, a.O.</li>\n<li id=\"fn0-11\" value=\"11\">Art. ‹Gegensatz I. 4.›, a.O. 111–116.</li>\n<li id=\"fn0-12\" value=\"12\">S. NACHTSHEIM: E. Lasks Grundlehre (1992) 19; G. RALFS: Das Irrationale im Begriff (1925) 1ff. 71ff. (‹Die irrationale Gestalt als echte Ü.›).</li>\n<li id=\"fn0-13\" value=\"13\">E. LASK: Die Lehre vom Urteil (1912) 82–157. Ges. Schr., hg. E. HERRIGEL 2 (1923) 352–413.</li>\n<li id=\"fn0-14\" value=\"14\">G. PICK: Die Ü. der Werte und der transz. Idealismus. Diss. Heidelberg (1921).</li>\n<li id=\"fn0-15\" value=\"15\">LASK, a.O. [13] 145/Ges. Schr. 404.</li>\n<li id=\"fn0-16\" value=\"16\">a.O.</li>\n<li id=\"fn0-17\" value=\"17\">150/408.</li>\n<li id=\"fn0-18\" value=\"18\">Die Logik der Philos. und die Kat.lehre (1911). Ges. Schr. 2, a.O. [13] 235ff. <span class=\"col\" data-col=\"36\"></span></li>\n<li id=\"fn0-19\" value=\"19\">E. HERRIGEL: E. Lasks Wertsystem. Logos 12 (1923/24) 100–122; Urstoff und Urform (1926); vgl. H. SOMMERHÄUSER: E. Lask 1875–1915. Philos. Forsch. 21 (1967) 136–145; G. KAHL-FURTHMANN: Das Problem des Nicht (1968) 486f. (‹Die Sphäre der Faktizität als Region der Ü.›); 537ff.</li>\n</ol>",
+ "prev":{"id":3254,"lemma":"Übergangsperiode; Übergangszeit","band":"11","col":33},
+ "next":{"id":3256,"lemma":"Übergeschichtlich; überhistorisch","band":"11","col":36},
+ "backlinks":[
+  {"id":3268,"lemma":"Überzeitlich","n":1},
+  {"id":3355,"lemma":"Urteil","n":1},
+  {"id":3423,"lemma":"Vernunft; Verstand","n":1},
+  {"id":3523,"lemma":"Wahrheit","n":1},
+  {"id":3588,"lemma":"Wert","n":1},
+  {"id":3607,"lemma":"Widerspruch","n":1}
+ ],
+ "outlinks":[
+  {"id":501,"lemma":"Coincidentia oppositorum","n":1},
+  {"id":1018,"lemma":"Gegensatz","n":3},
+  {"id":3264,"lemma":"Überseiend; überwesentlich","n":1}
+ ],
+ "register":[
+  {"term":"Gegensatzentrücktheit","qualifier":"","band":"11","col":"35"},
+  {"term":"Gegensatzindifferenz","qualifier":"","band":"11","col":"35"},
+  {"term":"Gegensatzlosigkeit","qualifier":"","band":"11","col":"35"},
+  {"term":"Nichtgegensätzlichkeit","qualifier":"","band":"11","col":"35"},
+  {"term":"Platonismus, neukritizistischer","qualifier":"","band":"11","col":"35"},
+  {"term":"Zwischengegensätzlichkeit","qualifier":"","band":"11","col":"35"}
+ ],
+ "persons":[
+  {"id":436,"name":"E. Lask","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4,"name":"G. W. F. Hegel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":28,"name":"Plotin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":66,"name":"Nikolaus von Kues","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":73,"name":"Eckhart","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":93,"name":"Proklos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":87,"name":"Johannes Scotus Eriugena","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":140,"name":"Ps.-Dionysius Areopagita","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":808,"name":"H. Schmitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2412,"name":"A. Pick","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6851,"name":"G. Kahl-Furthmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":10780,"name":"S. Nachtsheim","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7337,"name":"G. Ralfs","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":31483,"name":"H. Sommerhäuser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1254,"name":"E. Herrigel","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":360,"name":"Proclus","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":2101,"lemma":"Negation, Negativität","tf":2},
+  {"id":1944,"lemma":"Metaphysik","tf":4},
+  {"id":2761,"lemma":"Schicht, soziale","tf":2},
+  {"id":2408,"lemma":"Positiv, Positivität","tf":2},
+  {"id":2119,"lemma":"Neukantianismus","tf":2},
+  {"id":3223,"lemma":"Transzendenz; Transzendieren","tf":2},
+  {"id":27,"lemma":"Absolut, das Absolute","tf":2},
+  {"id":799,"lemma":"Erkenntnistheorie, Erkenntnislehre, Erkenntniskritik","tf":2},
+  {"id":3052,"lemma":"Subjektivität","tf":2},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":3},
+  {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2},
+  {"id":1803,"lemma":"Logik","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Übergegensätzlichkeit (Lask)"}],
+ "reg_authors":[{"name":"Rentsch Thomas","n":17}]
+}
+);

@@ -1,0 +1,35 @@
+HWPH.put("a/81",
+{
+ "id":81,
+ "lemma":"Aktivität",
+ "band":"1",
+ "kind":"article",
+ "col_from":131,
+ "col_to":132,
+ "pdf_from":664,
+ "pdf_to":665,
+ "authors":["J. Berger"],
+ "n_notes":5,
+ "n_chars":1775,
+ "toc":[["h2","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Aktivität (von frz. activité) bezeichnet die Tätigkeit, auch die Wirkungsfähigkeit; <span class=\"col\" data-col=\"132\"></span> in der Psychologie ist A. ein kritisch gegen die Assoziationspsychologie vornehmlich des vorigen Jahrhunderts gewandter Begriff, der den Grundcharakter des Seelischen wesentlich als Tätigkeit begreift.</p>\n<p>In der Philosophie fehlt der A. die Würde eines festumrissenen und eingebürgerten Begriffs. Er stellt sich überall dort ein, wo es den Gegensatz zur Kontemplation begrifflich zu fixieren gilt und wo die Handlung oder Tätigkeit auch als Prinzip des Erkennens und Fühlens postuliert wird. So konstatiert TH. REID 1785 einen notwendigen Zusammenhang zwischen «enjoyment» (Freude) und «activity» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. FR. NIETZSCHE spricht im Umkreis seiner Lehre vom Willen zur Macht von der «Tyrannei der Reize und Einströmungen», welche es nicht erlaubt, daß «unsere Kraft» sich «häuft bis zur spontanen A.» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. H. RICKERT sieht das Wesen der A. darin, daß sie, im Gegensatz zur Haltung der Kontemplation, «eingreift in das, was ihr gegenübersteht» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Nach K. JASPERS ist die A. aber nicht beschränkt auf das Handeln: «das ganze Erkennen, das sich der Wahrheit bemächtigt, ist umgreifende A.» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. In der zu solch fundamentalem Rang erhobenen Rolle der A. erblickt J. PIEPER eine Überwertung, wie sie für die moderne Arbeitswelt kennzeichnend ist. Ihr stellt er, in Erinnerung an die antikmittelalterliche Philosophie, das Leitbild der Muße als «Haltung der Nicht-A.» entgegen <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"h2\">Literaturhinweise</h3>\n<p class=\"lit\">Vgl. Anm. [3–5]. – M. J. HILLEBRAND: Die A. der Seele (1933).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">TH. REID: Essays on the intellectual powers of man (1785). Werke, hg. W. HAMILTON (Edinburgh <sup>6</sup>1863) 1, 493.</li>\n<li id=\"fn0-2\" value=\"2\">FR. NIETZSCHE, Der Wille zur Macht Nr. 916.</li>\n<li id=\"fn0-3\" value=\"3\">H. RICKERT: System der Philos. (1921) 365.</li>\n<li id=\"fn0-4\" value=\"4\">K. JASPERS: Von der Wahrheit (<sup>1</sup>1947) 308.</li>\n<li id=\"fn0-5\" value=\"5\">J. PIEPER: Muße und Kult (1948) 52.</li>\n</ol>",
+ "prev":{"id":80,"lemma":"Aktivierung (Aktivation)","band":"1","col":130},
+ "next":{"id":82,"lemma":"Aktivität, symbolische","band":"1","col":132},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[
+  {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":44,"name":"K. Jaspers","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":75,"name":"H. Rickert","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":323,"name":"Th. Reid","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":572,"name":"J. Pieper","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":169,"name":"W. Hamilton","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3121,"name":"J. Hillebrand","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+ ],
+ "mentions":[{"id":1635,"lemma":"Kontemplation","tf":2},{"id":1217,"lemma":"Haltung","tf":2}],
+ "see_also":[{"id":2448,"lemma":"Praxis, praktisch"},{"id":3469,"lemma":"Vita activa/vita contemplativa"}],
+ "groups":[{"id":2,"name":"Anthropologie","label":"Aktivität"}],
+ "reg_authors":[{"name":"Berger Johannes","n":1}]
+}
+);

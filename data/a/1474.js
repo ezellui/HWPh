@@ -1,0 +1,35 @@
+HWPH.put("a/1474",
+{
+ "id":1474,
+ "lemma":"Interessante",
+ "band":"4",
+ "kind":"article",
+ "col_from":479,
+ "col_to":479,
+ "pdf_from":12878,
+ "pdf_to":12880,
+ "authors":["W. Rasch"],
+ "n_notes":11,
+ "n_chars":2127,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Interessante (das). FR. SCHLEGEL hat dem Begriff des I. in der Literatur einen spezifischen Sinn verliehen und ihn zum Gegenbegriff des Klassischen ausgebildet. Es ist ein kritischer Begriff insofern, als der frühe Schlegel in der Abhandlung ‹Über das Studium der griechischen Poesie› von 1797 <sup class=\"fn\" data-fn=\"0-1\">1</sup> die Höchstform der Dichtung in der klassischen Poesie der Griechen sieht, in ihrer Schönheit und Objektivität. In ihr wird «das Allgemeingültige, Beharrliche und Notwendige» harmonisch gestaltet <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Dagegen herrscht in der modernen (d.h. nachantiken) Poesie «das totale Übergewicht des Charakteristischen, Individuellen und I.» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Der «isolierende Verstand», die intellektuelle Bildung bewirken, daß «das Ziel der modernen Poesie originelle und interessante Individualität» wird <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Schlegels kritischer Begriff des I. ist zugleich ein problematischer Begriff. «Im ganzen Gebiet der ästhetischen Wissenschaften ist die Deduktion des I. vielleicht die schwerste und verwickeltste Aufgabe» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Es hat «provisorischen ästhetischen Wert» <sup class=\"fn\" data-fn=\"0-6\">6</sup>, Shakespeare, «der Gipfel der modernen Poesie» ist unübertrefflich «an unerschöpflicher Fülle des I.» <sup class=\"fn\" data-fn=\"0-7\">7</sup>. In seiner Gegenwart sieht Schlegel Symptome einer «wohltätigen Krise des I.» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, die erneut zur Objektivität des Schönen führen kann <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Goethe «steht in der Mitte zwischen dem I. und dem Schönen» <sup class=\"fn\" data-fn=\"0-10\">10</sup>. – Später hat Schlegel den Begriff nur wenig benützt und seinen Sinn zum Teil verändert, z.B.: «Interessant ist, was sich bezieht auf den noch unentschiedenen Kampf des Guten und Bösen in der Natur ...» <sup class=\"fn\" data-fn=\"0-11\">11</sup>.</p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">FR. SCHLEGEL: Über das Studium der griech. Poesie, hg. und Einl. P. HANKAMER (1947). – R. BRINKMANN: Romantische Dichtungstheorie in Friedrich Schlegels Frühschriften und Schillers Begriffe des Naiven und Sentimentalischen. Dtsch. Vjschr. Lit.wiss. 32 (1958) 344–371. – K. BRIEGLEB: Ästhetische Sittlichkeit. Versuch über Friedrich Schlegels Systementwurf zur Begründung der Dichtungskritik (1962).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">FR. SCHLEGEL, Prosaische Jugendschr., hg. J. MINOR 1 (1882).</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 110.</li>\n<li id=\"fn0-3\" value=\"3\">95.</li>\n<li id=\"fn0-4\" value=\"4\">105.</li>\n<li id=\"fn0-5\" value=\"5\">82.</li>\n<li id=\"fn0-6\" value=\"6\">83.</li>\n<li id=\"fn0-7\" value=\"7\">108f.</li>\n<li id=\"fn0-8\" value=\"8\">113.</li>\n<li id=\"fn0-9\" value=\"9\">116.</li>\n<li id=\"fn0-10\" value=\"10\">115.</li>\n<li id=\"fn0-11\" value=\"11\">Krit. A., hg. E. BEHLER 12: Philos. Vorles. 1800–1807, hg. J.-J. ANSTETT (1964) 114.</li>\n</ol>",
+ "prev":{"id":1473,"lemma":"Interdisziplinär","band":"4","col":476},
+ "next":{"id":1475,"lemma":"Interesse","band":"4","col":479},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"das 1 992–994 s. auch","qualifier":"","band":null,"col":null}],
+ "persons":[
+  {"id":35,"name":"F. Schlegel","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":5447,"name":"P. Hankamer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8673,"name":"R. Brinkmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":165,"name":"E. Behler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2986,"name":"J. Minor","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":11379,"name":"J.-J. Anstett","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2944,"name":"K. Briegleb","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2387,"lemma":"Poesie","tf":5},{"id":2776,"lemma":"Schöne","tf":2}],
+ "see_also":[],
+ "groups":[{"id":21,"name":"Literaturtheorie","label":"Interessante, das (Schlegel)"}],
+ "reg_authors":[{"name":"Rasch Wolfdietrich","n":2}]
+}
+);

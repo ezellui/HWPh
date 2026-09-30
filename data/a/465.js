@@ -1,0 +1,67 @@
+HWPH.put("a/465",
+{
+ "id":465,
+ "lemma":"Casus",
+ "band":"1",
+ "kind":"article",
+ "col_from":971,
+ "col_to":973,
+ "pdf_from":3363,
+ "pdf_to":3367,
+ "authors":["P. Hadot"],
+ "n_notes":9,
+ "n_chars":5066,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Casus. Das Wort πτῶσις dient bei ARISTOTELES dazu, alle Arten von Veränderungen oder Beugungen in bezug auf einen gegebenen Typ zu bezeichnen. <span class=\"col\" data-col=\"972\"></span> So sind πτώσεις, die Fälle des Substantivs in bezug auf den Nominativ, die Tempora des Verbums in bezug auf das Präsens, das Adverb in bezug auf das Adjektiv, das Adjektiv oder Verbum in bezug auf das Substantiv derselben Wurzel, die Modi des Verbums in bezug auf den Indikativ, die Modi des Syllogismus in bezug auf den Fundamentalmodus, die Kategorien in bezug auf das Substantiv <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<p>Diese Bezeichnung gewinnt philosophische Bedeutung; zunächst liefert sie einen Argumentationstopos: Wenn ein gegebenes Verhältnis zwischen zwei Substantiven besteht, kann man schließen, daß dasselbe Verhältnis zwischen zwei Adjektiven oder Adverbien besteht, die sich von diesen Substantiven herleiten <sup class=\"fn\" data-fn=\"0-2\">2</sup>, Diese Argumentationsweise ist derjenigen analog, die man anläßlich koordinierter Begriffe (σύστοιχα) anwenden kann. Ferner wird dieser Begriff von Aristoteles in Verbindung mit dem Begriff der Kategorien gebraucht; die Kategorien werden in ein Verhältnis mit «Beugungen» gesetzt: z.B. die Qualität mit Adverbien, die sich von qualifizierenden Adjektiven herleiten, die Quantität mit Adverbien, die sich von Adjektiven herleiten, die die Quantität bezeichnen <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Vor allem der Gegensatz zwischen dem Nominativ und den anderen Fällen setzt die ganze Philosophie des Begriffs voraus. Genau und streng genommen verneint Aristoteles nicht, daß der Nominativ selbst ein Fall sei: Er ist implizit ein Fall wie die anderen Fälle in dem Maße, in dem er in einen Satz hineingestellt ist und sozusagen in eine Aussage «fällt» <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Aber es ist möglich, daß der Nominativ isoliert genommen werden kann, in gewisser Weise außerhalb eines Satzes, in dem Maße, in dem er der Name (κλῆσις) eines Begriffes ist, der in sich selbst und für sich selbst genommen wird, z.B. «Mensch» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Unter diesem Gesichtspunkt ist der Nominativ nicht ein Fall, vielmehr ist er der Originaltyp, in bezug auf den sich die «Fälle» des Wortes ergeben – sozusagen durch seinen «Fall» in das syntaktische Gewebe des Satzes. Der Nominativ entspricht dann einem Wesen (οὐσία), einer Sache, die in sich besteht.</p>\n<p>Die <i>Stoiker</i> haben die aristotelische Bedeutung von πτῶσις ihrem System funktionell adaptiert. Auch bei ihnen bezeichnet dieses Wort eine Vokabel, sofern sie in einer Aussage steht und in eine syntaktische Relation einbezogen ist. Aber bei ihnen verschwindet der Idealtyp, auf den sich der «Fall» bezieht, und ganz besonders der Begriff, den der Nominativ bezeichnet. Denn nach ihnen kann die Sprache nur Begebenheiten ausdrücken, keine Wesenheiten. Daher kann man das <span class=\"col\" data-col=\"973\"></span> Verbum nicht als einen «Fall» des Begriffes ansehen, der durch seine Wurzel ausgedrückt wird. Fälle gibt es nur von der προσηγορία, d.h. von dem Namen, der nicht dazu dient, eine Wesenheit auszudrücken, sondern ein konkretes Objekt zu bezeichnen. Die vollständige Rede umfaßt ein Verb oder «Prädikat» und einen «Fall», d.h. einen Ausdruck, der ein Objekt bezeichnet, auf das sich das Prädikat bezieht <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Neben dem Genitiv, dem Dativ und dem Akkusativ, die oblique Fälle sind, ist der Nominativ auch ein Fall, den die Stoiker wahrscheinlich deshalb direkt nennen, weil er normalerweise von einem Verb im Aktiv begleitet ist, was für sie die direkte Form des Verbums ist <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die Tatsache, daß die Stoiker den Nominativ als einen Fall ansehen, entspricht ihrer Weigerung, den Namen als Ausdruck einer Wesenheit und besonders den Nominativ als Bezeichnung eines in sich genommenen Begriffs anzusehen. Isoliert genommen, außerhalb der Syntax der Rede, hat der Nominativ ebensowenig wie die anderen Fälle einen Sinn. Nur innerhalb einer syntaktischen Relation gibt es Sinn. Daher sagte CHRYSIPP, daß jeder Name zweideutig ist <sup class=\"fn\" data-fn=\"0-8\">8</sup>; er wollte sagen, daß die Namen ihren Sinn nur gewinnen, indem sie πτῶσεις werden, d.h. in das Gewebe der syntaktischen Relationen eintreten: jedes «Bezeichnete» ist ein ‹Fall›.</p>\n<p>Diese stoische Lehre hat die griechischen und lateinischen Grammatiker beeinflußt. Die letzteren übersetzen, VARRO folgend, πτῶσις durch ‹casus› und räumen ein, daß der Nominativ ein Fall ist <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">H. STEINTHAL: Gesch. der Sprachwiss .... (<sup>2</sup>1890/91). – E. SITTIG: Das Alter der Anordnung unserer Kasus und der Ursprung ihrer Bezeichnung als ‹Fälle› (1931). O. RIETH: Grundbegriffe der stoischen Ethik (1933) bes. 173–175. – M. POHLENZ: Die Begründung der abendl. Sprachlehre durch die Stoa (1939). – P. HADOT: La notion de ‹cas› dans la logique stoïcienne. Actes du 13e Congr. des Soc. de philos. de langue franc. (1967) 1, 109–112; 2, 77–82.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"973\"></span> Vgl. H. BONITZ, Index aristotelicus 659.</li>\n<li id=\"fn0-2\" value=\"2\">ARIST., Top. 114 a 25ff.</li>\n<li id=\"fn0-3\" value=\"3\">Eth. Eud. 1217 b 30; Met. 1089 a 27; SIMPLICIUS, In cat., hg. KALBFLEISCH 65, 2–10.</li>\n<li id=\"fn0-4\" value=\"4\">ARIST., Anal. pr. 49 a 5; Soph. Elenchi 173 b 26.</li>\n<li id=\"fn0-5\" value=\"5\">Anal. pr. 48 b 41.</li>\n<li id=\"fn0-6\" value=\"6\">DIOGENES LAERTIUS VII, 64.</li>\n<li id=\"fn0-7\" value=\"7\">Grammatici graeci III, 230, 26; 546, 5–8; AMMONIUS, In De interpr. 42, 30, hg. BUSSE; Grammatici latini II, 184, 1.</li>\n<li id=\"fn0-8\" value=\"8\">AULUS GELLIUS, Noctes Att. XI, 12.</li>\n<li id=\"fn0-9\" value=\"9\">VARRO, Lingua lat. VIII, 42; IX, 76; X, 23, 65: nominandi casus.</li>\n</ol>",
+ "prev":{"id":464,"lemma":"Cäsarismus","band":"1","col":970},
+ "next":{"id":466,"lemma":"Causa cognoscendi","band":"1","col":973},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Beugung (ling.)","qualifier":"","band":null,"col":null},
+  {"term":"casus (ling.)","qualifier":"","band":null,"col":null},
+  {"term":"Fall (ling.)","qualifier":"","band":null,"col":null},
+  {"term":"Nominativ","qualifier":"","band":null,"col":null},
+  {"term":"πτωσ͂ις","qualifier":"","band":null,"col":null},
+  {
+   "term":"– I (theol.) 4 703–705 – II (eth.) 4 705f. – III (med.) 4 706f. Kasus (ling.)",
+   "qualifier":"",
+   "band":null,
+   "col":null
+  }
+ ],
+ "persons":[
+  {"id":542,"name":"Varro","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":59,"name":"Diogenes Laertius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":146,"name":"Chrysipp","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":298,"name":"Simplicius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":698,"name":"Ammonius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1110,"name":"H. Bonitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1484,"name":"Aulus Gellius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":517,"name":"H. Steinthal","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":7120,"name":"O. Rieth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13744,"name":"E. Sittig","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":113,"name":"Arist","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":649,"name":"A. Busse","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2222,"name":"K. Kalbfleisch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":249,"name":"M. Pohlenz","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":299,"name":"P. Hadot","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":890,"lemma":"Fall, Abfall","tf":11},
+  {"id":2066,"lemma":"Name","tf":5},
+  {"id":2668,"lemma":"Relation","tf":3},
+  {"id":2552,"lemma":"Quantität","tf":2},
+  {"id":2745,"lemma":"Satz","tf":3},
+  {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":3},
+  {"id":3050,"lemma":"Subjekt/Prädikat","tf":2},
+  {"id":2183,"lemma":"Objekt","tf":2},
+  {"id":309,"lemma":"Aussage","tf":2},
+  {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2}
+ ],
+ "see_also":[],
+ "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Casus"}],
+ "reg_authors":[{"name":"Hadot Pierre","n":10}]
+}
+);

@@ -1,0 +1,56 @@
+HWPH.put("a/830",
+{
+ "id":830,
+ "lemma":"Essentialismus",
+ "band":"2",
+ "kind":"article",
+ "col_from":751,
+ "col_to":753,
+ "pdf_from":6037,
+ "pdf_to":6041,
+ "authors":["H. Schneider"],
+ "n_notes":12,
+ "n_chars":6365,
+ "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Essentialismus (Essenz-, Essential-, essentialistische Philosophie, Wesensphilosophie; engl. essentialism, frz. essentialisme) taucht zuerst in der französischen Form ‹essentialisme› bei P. DUHEM (1861–1916) auf <sup class=\"fn\" data-fn=\"0-1\">1</sup> zur Bezeichnung der Lehre der skotistischen Franziskaner-Theologen <i>Franz von Mayroni</i> († ca. 1328) und <i>Nikolaus Bonet</i> († 1360), wonach die schaff baren Wesenheiten vor ihrer Schöpfung eine existence essentielle haben. Diese ist jedoch nicht mit der göttlichen Wesenheit identisch, die reiner Akt ist. Die essentielle Existenz steht in der Mitte zwischen der Existenzweise des Begriffs und der realen, aktuellen Existenz. Die Existenz ist modus intrinsecus der Essenz. – Im deutschen Sprachbereich begegnet der Terminus ‹E.› zum erstenmal 1939 bei E. PRZYWARA <sup class=\"fn\" data-fn=\"0-2\">2</sup>, nachdem er 1929 bereits das Synonym ‹Essenzphilosophie› als Gegenstück zu ‹Existenzphilosophie› geprägt hatte <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Er unterscheidet E. und Existentialismus in je zwei Formen: vom Erkenntnisobjekt her, noematisch (essentia oder existentia), und vom Erkenntnisakt her, noetisch. Die Zuordnung geschichtlicher Philosophien zu E. oder Existentialismus ist reichlich kompliziert, da sie je nach Betrachtungsweise sich ändert; noetischer Existentialismus ist, ontisch betrachtet, E., und ebenso umgekehrt noetischer E. in ontischer Betrachtung Existentialismus. <span class=\"col\" data-col=\"752\"></span> Das gilt für alle vier Grundtypen von Philosophie: Parmenides, Heraklit, Platon, Aristoteles. Noch komplizierter werden diese Unterscheidungen durch ihre Verquickung mit daraus abgeleiteten religiösen und theologischen Entsprechungen. – Am bekanntesten wurde der Terminus durch E. GILSON, der zum erstenmal 1942 den E. des <i>Duns Scotus</i> dem Existentialismus des <i>Thomas von Aquin</i> gegenüberstellte <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Ausgebaut wurde diese These dann in ‹L'être et l'essence› (Paris 1948) und in ‹Being and some philosophers› (Toronto, 1949, <sup>2</sup>1952). Danach ist die gesamte abendländische Philosophie bis zu Hegel und einschließlich der Neuscholastik (Kleutgen) als E. zu bezeichnen, während allein Thomas eine existentielle Philosophie vertrat. Unter E. versteht Gilson den Primat der essentia vor der existentia, die Reduktion des Seienden auf die Wesenheit unter Vernachlässigung der Existenz: «De même que l'essentialisme est une philosophie de l'être moins l'existence, l'existentialisme est une philosophie de l'être moins l'essence» <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Gilsons These fand teils Zustimmung, teils Ablehnung <sup class=\"fn\" data-fn=\"0-6\">6</sup>. – P. FOULQUIÉ <sup class=\"fn\" data-fn=\"0-7\">7</sup> übernahm diese Definition von Gilson, unterschied jedoch drei große Richtungen im E.: den theologischen E. (Plato und Augustinus, mit Annahme von Wesenheiten an einem überweltlichen Ort oder in Gott), den konzeptualistischen E. (Aristoteles, Thomas und die Naturwissenschaften, welche die Wesenheiten in den menschlichen Geist verlegen) und den phänomenologischen E. (Husserl, der im Phänomen die Wesenheit erschauen will). – Durch K. R. POPPER wurde der Terminus in die <i>Wissenschaftstheorie</i> eingeführt <sup class=\"fn\" data-fn=\"0-8\">8</sup>. E. ist danach der Gegenbegriff zum Nominalismus im Universalienstreit und damit soviel wie Realismus, d.h. im E. wird eine wirkliche Existenz des Allgemeinbegriffs angenommen, z.B. die Weißheit. In Anwendung auf die Methodologie hält der methodologische E. die Beschreibung der Wesenheiten für die Hauptaufgabe der Wissenschaft, während der methodologische Nominalismus die Aufgabe der Wissenschaft in der Beschreibung des Verhaltens der Dinge sieht. Popper lehnt den E. ab. – G. KAFKA schlug zur Klärung und als Ersatz der mehrdeutig und damit unzulänglich gewordenen Bezeichnungen ‹Idealismus› und ‹Realismus› eine Dreiteilung von Phänomenalismus, Existentialismus und Essentialismus vor <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Der E. als Anerkennung eines Bereichs der Wesenheiten war Bestandteil sowohl des Idealismus als auch des Realismus und wurde von beiden abgespalten. – Die deutsche Übersetzung von ‹E.› und damit synonym im Sinne eines Primats der essentia gegenüber der existentia ist ‹<i>Wesensphilosophie</i>› als Gegensatz zu ‹Daseinsphilosophie›. Das Wort findet sich zum erstenmal bei E. PRZYWARA <sup class=\"fn\" data-fn=\"0-10\">10</sup> und wurde wohl geprägt in Anlehnung an Husserls ‹Wesenswissenschaft› <sup class=\"fn\" data-fn=\"0-11\">11</sup>. Ferner kann ‹Wesensphilosophie› im Unterschied zu ‹Geschichtsphilosophie› eine Philosophie bezeichnen, der es um überzeitliche Wesenswahrheiten, um Immer-Wahres über Immer-Seiendes geht <sup class=\"fn\" data-fn=\"0-12\">12</sup>. <span class=\"col\" data-col=\"753\"></span></p>\n<h3 id=\"h1\">Literaturhinweise</h3>\n<p class=\"lit\">Enciclop. Hoepli 3 (Mailand 1955) 434. H. KUHN: Art. ‹E.› in: Lex. Theol. u. Kirche 3 (<sup>2</sup>1959) Hilf. P. FOULQUIÉ: Art. ‹E.› in: Dictionnaire de la langue philos. (Paris 1962) 243–244. – J. FERRATER MORA: Diccionario defilos. 1 (Buenos Aires <sup>5</sup>1965) 558.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"752\"></span> P. DUHEM: Le système du monde. Hist. des doctrines cosmologiques de Platon à Copernic 6 (Paris 1954) 451–509 (Nachlaßbd., geschrieben ca. 1916).</li>\n<li id=\"fn0-2\" value=\"2\">E. PRZYWARA: Essenz- und Existenzphilos. Scholastik 14 (1939) 514–544; wieder abgedruckt in: Schriften 3 (1963) 213–246.</li>\n<li id=\"fn0-3\" value=\"3\">Vortrag bei den 2. Davoser int. Hochschulkursen (1929); mitgeteilt a.a.O. [2] 515 Anm. 1.</li>\n<li id=\"fn0-4\" value=\"4\">E. GILSON: Le Thomisme (Paris <sup>4</sup>1942).</li>\n<li id=\"fn0-5\" value=\"5\">L'être et l'essence (Paris 1948) 297; Being and some philosophers (Toronto <sup>2</sup>1952) 208.</li>\n<li id=\"fn0-6\" value=\"6\">L.-B. GEIGER: Philos. de l'essence et philos. de l'existence. Congr. int. Filos. Barcelona 1948 (Madrid 1949) 783–797; Existentialisme, essentialisme et ontologie existentielle, in: Etienne Gilson, Philosophe de la Chrétienté (Paris 1949) 227–274, wieder abgedruckt in: Philos. et spiritualité (Paris 1963) 17–51; L. OEING-HANHOFF: Wesensphilos. und thomist. Met., in: Theol. Rev.50 (1954) 201–218; M. SCHNEIDER: Der angebliche philos. E. des Suárez. Wiss. und Weisheit <span class=\"col\" data-col=\"753\"></span> 24 (1961) 40–68.</li>\n<li id=\"fn0-7\" value=\"7\">P. FOULQUIÉ: L'existentialisme (Paris 1947, <sup>14</sup>1966).</li>\n<li id=\"fn0-8\" value=\"8\">K. R. POPPER: The open society and its enemies 1. 2 (London 1945, Princeton 1950); dtsch. Die offene Gesellschaft und ihre Feinde 1. 2 (1957/58) zu E.: Bd. 1, Kap. 3, Abschn. VI; Bd. 2, Kap. 1, Abschn. II; The poverty of historicism (London 1957); dtsch. Das Elend des Historizismus (1965) 21–27.</li>\n<li id=\"fn0-9\" value=\"9\">G. KAFKA: Essentialismus. Ein Beitrag zur philos. Terminologie. Proc. 11th int. Congr. Philos. 1 (Amsterdam/Louvain 1953) 154–160.</li>\n<li id=\"fn0-10\" value=\"10\">E. PRZYWARA: Ringen der Gegenwart. Ges. Aufsätze 1922–1927 1. 2 (1929) Reg.</li>\n<li id=\"fn0-11\" value=\"11\">E. HUSSERL: Ideen zu einer reinen Phänomenol. und phänomenol. Philos. 1. Buch. Husserliana 3 (Den Haag 1950) 6.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. zu dieser Unterscheidung L. OEING-HANHOFF: Thomas v. Aquin und die Situation des Thomismus heute. Philos. Jb. 70 (1962/63) 22/23, Anm. 14; M. MÜLLER: Existenzphilosophie im geistigen Leben der Gegenwart (<sup>3</sup>1964) 270.</li>\n</ol>",
+ "prev":{"id":829,"lemma":"Esse commune, esse subsistens","band":"2","col":749},
+ "next":{"id":831,"lemma":"Essentifikation","band":"2","col":753},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"3b 6 1195 Wesensphilosophie","qualifier":"","band":null,"col":null},
+  {"term":"Essenzphilosophie","qualifier":"","band":null,"col":null},
+  {"term":"existence essentielle","qualifier":"","band":"2","col":"751"},
+  {"term":"Existenz, essentielle","qualifier":"","band":"2","col":"751"},
+  {"term":"Philosophie, essentialistische","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":1563,"name":"E. Przywara","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":3725,"name":"P. Foulquié","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":69,"name":"K. R. Popper","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":187,"name":"E. Gilson","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":454,"name":"P. Duhem","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2005,"name":"G. Kafka","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":14,"name":"E. Husserl","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":107,"name":"W. Schneider","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2565,"name":"L.-B. Geiger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":779,"name":"H. Kuhn","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5590,"name":"J. Ferrater Mora","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":406,"name":"L. Oeing-Hanhoff","b":0,"n":2,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":859,"lemma":"Existentialismus","tf":6},
+  {"id":2588,"lemma":"Realismus","tf":3},
+  {"id":2150,"lemma":"Nominalismus","tf":2},
+  {"id":863,"lemma":"Existenz, existentia","tf":5},
+  {"id":1343,"lemma":"Idealismus","tf":2},
+  {"id":395,"lemma":"Beschreibung","tf":2},
+  {"id":3186,"lemma":"These","tf":2},
+  {"id":3635,"lemma":"Wissenschaft","tf":2}
+ ],
+ "see_also":[{"id":859,"lemma":"Existentialismus"}],
+ "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Essentialismus"}],
+ "reg_authors":[{"name":"Schneider Helmut","n":5}]
+}
+);

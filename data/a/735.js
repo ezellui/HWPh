@@ -1,0 +1,75 @@
+HWPH.put("a/735",
+{
+ "id":735,
+ "lemma":"Endlich/unendlich",
+ "band":"2",
+ "kind":"article",
+ "col_from":489,
+ "col_to":491,
+ "pdf_from":5202,
+ "pdf_to":5208,
+ "authors":["S. Körner"],
+ "n_notes":13,
+ "n_chars":7382,
+ "toc":[["h6","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Endlich/unendlich. Die Frage, ob und in welchem Sinn die raumzeitliche Welt, Gott, mathematische Größen und Klassen endlich oder unendlich sind, ist eines der ältesten philosophischen Probleme. <span class=\"col\" data-col=\"490\"></span> Versuche, es richtig zu fassen, haben seit ZENO zu Aporien, Paradoxien und Antinomien geführt <sup class=\"fn\" data-fn=\"0-1\">1</sup>, deren Behandlung sich in der Philosophie wie in der Mathematik als äußerst fruchtbar erwiesen hat. Die wichtige Unterscheidung zwischen einer aktualen oder vollendeten und einer nur potentiellen Unendlichkeit ist zuerst von ARISTOTELES in aller Schärfe formuliert worden <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Danach darf die Behauptung, daß eine Menge von Dingen durch Hinzufügung von weiteren Dingen unbeschränkt (ad libitum, ad infinitum) vermehrt werden kann, mit der Behauptung, daß die so gebildete Menge in ihrer vollendeten Ganzheit, als Totalität, vorliegt, nicht verwechselt werden. Eine Menge der ersten Art heißt «potentiell unendlich», eine Menge der zweiten Art «aktual unendlich». Aristoteles sieht den Begriff einer aktualen Unendlichkeit als in sich widerspruchsvoll an. Auf Grund dieser Behauptung versuchen viele mittelalterliche Theologen, besonders THOMAS VON AQUIN <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Beweise für die Existenz Gottes im Sinne einer ersten Ursache. Dagegen wird die Aktualität des Unendlichen in der platonischen Tradition angenommen. So behauptet z.B. AUGUSTINUS <sup class=\"fn\" data-fn=\"0-4\">4</sup>, daß der Begriff einer aktualen Unendlichkeit zu den theologischen Basisbegriffen gehöre; er sei für Menschen nicht, wohl aber für Gott sowohl seinem Inhalt als seinem Umfang nach klar erfaßbar. In der philosophischen Geschichte des Unendlichkeitsbegriffes wirken theologische, mathematische und physikalische Gedanken bis in die Neuzeit zusammen.</p>\n<p>Bereits GALILEI <sup class=\"fn\" data-fn=\"0-5\">5</sup> hebt die Schwierigkeiten hervor, die entstehen, wenn man die Begriffe ‹gleich› und ‹größer als› auf aktual unendliche Mengen anwendet, und antizipiert so BOLZANOS Paradoxien des Unendlichen <sup class=\"fn\" data-fn=\"0-6\">6</sup>. Da die Infinitesimalrechnung von NEWTON und LEIBNIZ, und mit ihr die Newtonische Physik, mit aktualen Unendlichkeiten operiert, wird das Problem der Unendlichkeit und des Kontinuums zu einem der Hauptprobleme der neuen Philosophie der Naturwissenschaften und der Mathematik.</p>\n<p>KANT stellt das philosophische Problem der Unendlichkeit unter einen neuen Gesichtspunkt. Er versucht zu zeigen, daß durch widerstreitende Argumente von gleichem Gewicht sowohl die raumzeitliche Endlichkeit als auch die raumzeitliche Unendlichkeit der Welt bewiesen werden kann <sup class=\"fn\" data-fn=\"0-7\">7</sup>. Die Auflösung dieser Antinomie geschieht durch Kants Ideenlehre: Wie Aristoteles unterscheidet Kant zwischen aktualer und potentieller Unendlichkeit. Jedoch sieht er den Begriff einer aktualen Unendlichkeit nicht als innerlich widerspruchsvoll an, sondern reiht ihn unter die Ideen ein. Ideen sind weder wie aposteriorische Begriffe (z.B. ‹grün›) von der Sinneserfahrung abstrahiert, noch beschreiben sie wie die apriorischen Begriffe der Mathematik (z.B. ‹zwei›, ‹drei›) die reine Anschauung, noch konstituieren sie wie die Kategorien (z.B. ‹Substanz›) Erfahrungsgegenstände. Vielmehr haben sie im theoretischen Denken nur eine regulative Funktion: Sie dienen der systematischen Darstellung und Abrundung unseres Wissens, ohne einen wirklichen Gegenstand zu haben. Damit wird nach Kant auch die Idee der Unendlichkeit zu einer «heuristischen Fiktion» <sup class=\"fn\" data-fn=\"0-8\">8</sup>, einem bloßen Hilfsbegriff.</p>\n<p>Kants Auffassung, die zwischen der aristotelisch-thomistischen und der platonisch-augustinischen Tradition steht, wurde später z.B. von D. HILBERT aufgenommen. Die neuere Philosophie der Mathematik und der Naturwissenschaften nimmt im Grunde immer eine dieser drei Stellungen zum Problem der aktualen Unendlichkeit ein. Die <i>Intuitionisten</i> und <i>Konstruktivisten</i> folgen Aristoteles, CANTOR und seine Schüler folgen Plato, und die Schule HILBERTS folgt hier Kant. Doch darf nicht vergessen werden, daß diese philosophischen Grundeinstellungen lediglich Programme sind, deren Ausführung den jeweiligen Kriterien mathematischwissenschaftlicher Strenge genügen <span class=\"col\" data-col=\"491\"></span> muß.</p>\n<p>Mit dem Unendlichkeitsproblem ist das <i>Kontinuumproblem</i> eng verbunden. Die Entdeckung der Griechen (6. Jh. v.Chr.), daß √2 irrational, d.h. kein Bruch ist, so daß zwischen je zwei Brüchen noch «unendlich viele» irrationale Zahlen liegen, kann zu der Frage führen, ob – und wie – unendliche Mengen ihrer Größe nach verglichen werden könnten. Wenn die «Gleichheit von Mengen» durch eineindeutige Zuordnungsbarkeit ihrer Elemente definiert wird und wenn man, wie es in der klassischen Mathematik üblich ist, die Menge der natürlichen Zahlen und der rellen Zahlen als aktual unendlich annimmt, dann läßt sich die Menge der natürlichen nur einer Untermenge der Menge der reellen Zahlen zuordnen, und ist in diesem Sinn «kleiner» als diese <sup class=\"fn\" data-fn=\"0-9\">9</sup>. CANTORS Theorie der unendlichen Kardinal-(und Ordinal-)Zahlen, die diesen Gedanken verfeinert und ausgebildet hat <sup class=\"fn\" data-fn=\"0-10\">10</sup>, hat dem philosophischen Unendlichkeitsproblem sozusagen eine neue Dimension hinzugefügt. Das damit verbundene Auftauchen neuer Antinomien und Paradoxien hat den philosophischen Widerstreit zwischen den verschiedenen Unendlichkeitsauffassungen verschärft.</p>\n<p>Philosophisch von besonderer Wichtigkeit sind die von mathematischer Seite unternommenen Versuche, den Begriff einer unendlichen Menge zu axiomatisieren. Unter anderen hat besonders J. NEUMANN <sup class=\"fn\" data-fn=\"0-11\">11</sup> in diesem Zusammenhang auf eine tiefliegende Relativität hingewiesen: Eine Menge ist unendlich in bezug auf ein axiomatisches System genau dann, wenn es in diesem System eine Funktion gibt, die die Elemente der Menge den Elementen einer ihrer Untermengen eineindeutig zuordnet. Eine Menge sei endlich in bezug auf ein System. das keine derartige Funktion enthält. Wenn eine Erweiterung des Systems eine solche Funktion enthält, dann ist die Menge, die in bezug auf das ursprüngliche System endlich ist, in Hinblick auf das erweiterte System unendlich <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Diese Relativierung, die zuerst von TH. SKOLEM entdeckt wurde, kann 1. durch die philosophische These einer von jeder Axiomatisierung unabhängigen mathematischen Realität, 2. durch die Annahme, daß es noch unentdeckte mengentheoretische Axiome gebe, oder 3. durch eine Verbindung beider Annahmen aufgehoben oder zumindest gemildert werden. Der letztere Weg wird von K. GÖDEL eingeschlagen <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<h3 id=\"h6\">Literaturhinweise</h3>\n<p class=\"lit\">G. CANTOR: Mitteilungen zur Lehre vom Transfiniten. Z. Philos. philos. Krit. 91/92 (1887/88) – H. POINCARÉ: La sci. et l'hypothèse (Paris 1902). – B. RUSSELL: Introduction to math. philos. (London 1919). – H. WEYL: Philos. der Math. und Naturwiss. (1927). – D. HILBERT: Grundlagen der Geometrie (<sup>7</sup>1930) 274ff., Anhang 7: Über das Unendliche. – V. KRAFT: Math., Logik und Erfahrung (1947). – P. LORENZEN: Das Aktual-Unendliche in der Math. Philos. nat. 4 (1957) 3–11. H. SCHOLZ und G. HASENJÄGER: Grundzüge der math. Logik (1961). – S. KÖRNER: Philos. der Math. (1967).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"491\"></span> Vgl. Art. <a class=\"xref\" href=\"#/a/2270\">→ Paradox III</a>.</li>\n<li id=\"fn0-2\" value=\"2\">ARISTOTELES, z.B. Met. IX, 6; Physik III.</li>\n<li id=\"fn0-3\" value=\"3\">THOMAS VON AQUIN, z. B. S. contra gent. I, 13.</li>\n<li id=\"fn0-4\" value=\"4\">AUGUSTIN, De civ. Dei XII.</li>\n<li id=\"fn0-5\" value=\"5\">GALILEI: Dialog über zwei neue Wiss. (1638).</li>\n<li id=\"fn0-6\" value=\"6\">B. BOLZANO: Paradoxien des Unendlichen (posthum 1851).</li>\n<li id=\"fn0-7\" value=\"7\">KANT, KrV B 454ff.</li>\n<li id=\"fn0-8\" value=\"8\">KrV B 799.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. Art. <a class=\"xref\" href=\"#/a/1916\">→ Mengenlehre</a> Nr. 8f.</li>\n<li id=\"fn0-10\" value=\"10\">Vgl. Art. <a class=\"xref\" href=\"#/a/1916\">→ Mengenlehre</a> Nr. 10f.</li>\n<li id=\"fn0-11\" value=\"11\">J. NEUMANN: Eine Axiomatisierung der Mengenlehre. J. reine u. angew. Math. 154 (1925) 219–240.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. Art. <a class=\"xref\" href=\"#/a/3010\">→ Standard-Modell/Nicht-Standard-Modell</a>, dort Anm. [2].</li>\n<li id=\"fn0-13\" value=\"13\">K. GÖDEL: z.B. What is Cantor's continuum problem? Amer. Math. Mth. 54 (1947) 515–525.</li>\n</ol>",
+ "prev":{"id":734,"lemma":"Endlich","band":"2","col":481},
+ "next":{"id":736,"lemma":"Endzweck","band":"2","col":491},
+ "backlinks":[{"id":3291,"lemma":"Unendlichkeit","n":1}],
+ "outlinks":[
+  {"id":1916,"lemma":"Mengenlehre","n":2},
+  {"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie","n":1},
+  {"id":3010,"lemma":"Standard-Modell/Nicht-Standard-Modell","n":1}
+ ],
+ "register":[
+  {"term":"aktual unendlich","qualifier":"","band":"2","col":"489f."},
+  {"term":"Fiktion, heuristische","qualifier":"","band":"2","col":"490"},
+  {"term":"Menge, unendliche","qualifier":"","band":"2","col":"491"},
+  {"term":"Schranke unendlich, aktual","qualifier":"","band":"2","col":"489f."},
+  {"term":"unendlich/endlich","qualifier":"","band":null,"col":null},
+  {"term":"Zahlen, natürliche","qualifier":"","band":"2","col":"490f."}
+ ],
+ "persons":[
+  {"id":221,"name":"D. Hilbert","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":369,"name":"G. Cantor","b":2,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":7,"name":"Augustinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":96,"name":"B. Bolzano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":188,"name":"G. Galilei","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":520,"name":"E. Neumann","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":450,"name":"K. Gödel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6,"name":"G. W. Leibniz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":120,"name":"I. Newton","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1479,"name":"Th. Skolem","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4318,"name":"Zeno","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":46,"name":"B. Russell","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":81,"name":"P. Lorenzen","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":172,"name":"H. Scholz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":434,"name":"H. Poincaré","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":862,"name":"V. Kraft","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":714,"name":"H. Weyl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1868,"name":"S. Körner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4956,"name":"G. Hasenjäger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1896,"lemma":"Mathematik","tf":5},
+  {"id":3670,"lemma":"Zahl; Zählen","tf":5},
+  {"id":185,"lemma":"Antinomie","tf":3},
+  {"id":374,"lemma":"Behauptung","tf":3},
+  {"id":2093,"lemma":"Naturwissenschaften","tf":2},
+  {"id":1187,"lemma":"Größe","tf":2},
+  {"id":707,"lemma":"Element","tf":3},
+  {"id":154,"lemma":"Annahme, Annehmen","tf":2}
+ ],
+ "see_also":[
+  {"id":1430,"lemma":"Infinitesimalrechnung"},
+  {"id":1640,"lemma":"Kontinuum, Kontinuität"},
+  {"id":3291,"lemma":"Unendlichkeit"},
+  {"id":3481,"lemma":"Vollformalismus"}
+ ],
+ "groups":[{"id":32,"name":"Physik","label":"Endlich/unendlich"}],
+ "reg_authors":[{"name":"Körner Stephan","n":7}]
+}
+);

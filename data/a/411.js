@@ -1,0 +1,65 @@
+HWPH.put("a/411",
+{
+ "id":411,
+ "lemma":"Beweistheorie",
+ "band":"1",
+ "kind":"article",
+ "col_from":886,
+ "col_to":888,
+ "pdf_from":3083,
+ "pdf_to":3087,
+ "authors":["K. Schütte"],
+ "n_notes":3,
+ "n_chars":5774,
+ "toc":[["h4","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Beweistheorie ist das Gebiet der mathematischen Logik, das die Beweismöglichkeiten von formalen Systemen der Mathematik behandelt.</p>\n<p>Sie wurde ursprünglich von D. HILBERT <sup class=\"fn\" data-fn=\"0-1\">1</sup> entwickelt, um eine exakte Grundlegung der Mathematik vorzunehmen, nachdem sich die logizistischen Begründungsversuche von G. FREGE, B. RUSSELL und A. N. WHITEHEAD als unzulänglich erwiesen hatten und mit der Kritik des Intuitionismus von L. E. J. BROUWER eine ernsthafte Grundlagenkrise der Mathematik entstanden war. Die Grundlagenkritik richtet sich in erster Linie gegen die uneingeschränkte Verwendung des ‹tertium non datur› (<i>A</i> ist wahr oder <i>A</i> ist falsch) in der Mathematik. Identifiziert man die mathematische Wahrheit mit der Beweisbarkeit und die mathematische Falschheit mit der Widerlegbarkeit, so ergibt sich keine vollständige Alternative zwischen der Wahrheit und der Falschheit von mathematischen Aussagen. Hiermit verlieren die indirekten Schlußweisen der klassischen Mathematik, die auf dieser Alternative beruhen, ihre logische Berechtigung. Demgemäß beschränkt sich der Intuitionismus auf eine effektive Logik, in der das ‹tertium non datur› nur auf solche Aussagen angewendet wird, die aufgrundeines vorliegenden Entscheidungsverfahrens entweder beweisbar oder widerlegbar sind. HILBERT <span class=\"col\" data-col=\"887\"></span> suchte dagegen die klassische Mathematik ohne Einschränkung des ‹tertium non datur› zu begründen, indem er von der Bedeutung der mathematischen Aussagen absah und die mathematischen Theorien einschließlich ihrer Schlußweisen als bloße Formalismen betrachtete, die allein durch ihre formale Widerspruchsfreiheit zu rechtfertigen sind. Um eine mathematische Theorie in dieser Weise zu begründen, hat man Regeln für die Zusammensetzung von Zeichen zu fixieren, nach denen sich die einschlägigen Aussagen der Theorie durch Formeln darstellen lassen und die Beweise der Theorie durch Figuren von Formeln, die nach bestimmten Vorschriften zusammengesetzt sind, repräsentiert werden. Hiermit wird ein formalisierter Beweisbarkeitsbegriff festgelegt, dessen Eigenschaften von der B. untersucht werden. Insbesondere hat die B. nach Hubert die Aufgabe, die formalisierten Beweisbarkeitsbegriffe der mathematischen Theorien als widerspruchsfrei nachzuweisen. Zur Begründung einer mathematischen Theorie, die problematische Schlußweisen enthält, ist jedoch zu verlangen, daß der Nachweis ihrer formalen Widerspruchsfreiheit mit unproblematischen logischen Mitteln erfolgt. Hubert forderte deshalb, daß die Widerspruchsfreiheitsbeweise mit finiten Methoden geführt werden, d.h. mit Methoden, die sich grundsätzlich auf ein kombinatorisches Operieren mit endlichen Zeichenfiguren beschränken.</p>\n<p>Der streng finite Standpunkt ließ sich für die Grundlegung der Mathematik nicht aufrechterhalten, nachdem K. GÖDEL <sup class=\"fn\" data-fn=\"0-2\">2</sup> gezeigt hatte, daß sich die Widerspruchsfreiheit eines formalen Systems nicht mit denjenigen logischen Mitteln, die in dem System formalisiert sind, beweisen läßt. Hiermit ergab sich, daß nicht einmal das formale System der reinen Zahlentheorie mit streng finiten Methoden als widerspruchsfrei nachweisbar ist. G. GENTZEN <sup class=\"fn\" data-fn=\"0-3\">3</sup> fand einen Ausweg aus dieser Situation. Er führte einen Widerspruchsfreiheitsbeweis für das System der reinen Zahlentheorie mit Hilfe eines Induktionsprinzips, das sich zwar nicht allein auf ein kombinatorisches Operieren mit endlichen Zeichenfiguren gründen läßt, aber noch in einer konstruktiven Weise als einsichtig zu erkennen ist. Seitdem sind auf ähnlichen Wegen und mit neu entwickelten konstruktiven Methoden zahlreiche Widerspruchsfreiheitsbeweise für die Arithmetik, für die verzweigte Typenlogik, für typenfreie Systeme der Logik und für Teile der klassischen Analysis durchgeführt worden.</p>\n<p>Die Widerspruchsfreiheitsbeweise sind nicht nur zur exakten Grundlegung mathematischer Theorien von Bedeutung. Ihr Wert liegt zugleich darin, daß sie konstruktive Interpretationen für nicht-konstruktive Teile der Mathematik liefern. Hiermit lassen sich konstruktive Verschärfungen von Sätzen der klassischen Mathematik gewinnen. Mit den Methoden der Widerspruchsfreiheitsbeweise ergaben sich auch bestimmte Abgrenzungen zwischen elementaren und höheren Teilen der Mathematik hinsichtlich ihrer Ausdrucks-und Beweismöglichkeiten. So konnten gewisse Hierarchien von mehr oder weniger starken mathematischen Systemen durch bestimmte Ordinalzahlen fixiert werden, mit denen sich die in den einzelnen Systemen beweisbaren Induktionsprinzipe voneinander abgrenzen lassen.</p>\n<h3 id=\"h4\">Literaturhinweise</h3>\n<p class=\"lit\">G. GENTZEN: Neue Fassung des Widerspruchsfreiheitsbeweises für die reine Zahlentheorie. Forsch. zur Logik u. Grundlegung der exakten Wiss. NF 4 (1938) 19–44; Neudruck (1969). – H. ARNOLD SCHMIDT: Math. Grundlagenforsch., in: Enzyklop. d. math. Wiss. 1, H. 1, II (1950). – P. LORENZEN: Algebraische u. logistische Untersuchungen über freie Verbände. J. symbol. Logic 16 (1951) <span class=\"col\" data-col=\"888\"></span> 81–106. – W. ACKERMANN: Wiederspruchsfreier Aufbau einer typenfreien Logik. Math. Z. 53 (1951) 403–413; 55 (1952) 364–384. – G. TAKEUTI: On a generalized logic calculus. Jap. J. Math. 23 (1953) 39–96. – K. GÖDEL: Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes. Dialectica 12 (1958) 280–287. – K. SCHÜTTE: Syntactical and semantical properties of simple type theory. J. symbol. Logic 25 (1960) 305–326. – S. FEFERMAN: Systems of predicative analysis. J. symbol. Logic 29 (1964) 1–30. – <i>Lehrbücher:</i> D. HILBERT und P. BERNAYS: Grundlagen der Math. 1 (1934); 2 (1939). K. SCHÜTTE: B. (1960).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"887\"></span> D. HILBERT: Die Grundlagen der Math. Hamburger math. Einzelschriften 5 (1928).</li>\n<li id=\"fn0-2\" value=\"2\">K. GÖDEL: Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme. Mh. Math. Phys. 38 (1931) 173–198.</li>\n<li id=\"fn0-3\" value=\"3\">G. GENTZEN: Die Widerspruchsfreiheit der reinen Zahlentheorie. Math. Annalen 112 (1936) 493–565; Neudruck (1967).</li>\n</ol>",
+ "prev":{"id":410,"lemma":"Beweis","band":"1","col":882},
+ "next":{"id":412,"lemma":"Bewußtsein","band":"1","col":888},
+ "backlinks":[
+  {"id":410,"lemma":"Beweis","n":1},
+  {"id":1803,"lemma":"Logik","n":1},
+  {"id":1941,"lemma":"Metamathematik","n":1},
+  {"id":2283,"lemma":"Partikeln, logische","n":1},
+  {"id":2643,"lemma":"Regellogik/Satzlogik","n":1},
+  {"id":2768,"lemma":"Schließen, natürliches","n":1},
+  {"id":3481,"lemma":"Vollformalismus","n":1},
+  {"id":3609,"lemma":"Widerspruchsfreiheit","n":1}
+ ],
+ "outlinks":[],
+ "register":[{"term":"tertium non datur","qualifier":"","band":"1","col":"886"}],
+ "persons":[
+  {"id":221,"name":"D. Hilbert","b":2,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":450,"name":"K. Gödel","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":1012,"name":"G. Gentzen","b":1,"n":1,"l":1,"editor":0,"role":"source"},
+  {"id":46,"name":"B. Russell","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":40,"name":"G. Frege","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":194,"name":"A. N. Whitehead","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":764,"name":"L. E. J. Brouwer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":2456,"name":"K. Schütte","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
+  {"id":81,"name":"P. Lorenzen","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":831,"name":"P. Bernays","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":1372,"name":"W. Ackermann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":2967,"name":"S. Feferman","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8646,"name":"G. Takeuti","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":13697,"name":"H. Arnold Schmidt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1896,"lemma":"Mathematik","tf":10},
+  {"id":3671,"lemma":"Zahlentheorie","tf":2},
+  {"id":1488,"lemma":"Intuitionismus","tf":2},
+  {"id":309,"lemma":"Aussage","tf":4},
+  {"id":111,"lemma":"Alternative","tf":2},
+  {"id":1987,"lemma":"Mittel","tf":2}
+ ],
+ "see_also":[
+  {"id":920,"lemma":"Finit"},
+  {"id":928,"lemma":"Formales System"},
+  {"id":1273,"lemma":"Hilbertsches Programm"},
+  {"id":1488,"lemma":"Intuitionismus"},
+  {"id":1941,"lemma":"Metamathematik"},
+  {"id":3609,"lemma":"Widerspruchsfreiheit"}
+ ],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Beweistheorie"}],
+ "reg_authors":[{"name":"Schütte Kurt","n":5}]
+}
+);

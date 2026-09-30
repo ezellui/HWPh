@@ -1,0 +1,27 @@
+HWPH.put("a/611",
+{
+ "id":611,
+ "lemma":"Diskriminationslernen",
+ "band":"2",
+ "kind":"article",
+ "col_from":261,
+ "col_to":261,
+ "pdf_from":4439,
+ "pdf_to":4439,
+ "authors":["R. Bergius"],
+ "n_notes":0,
+ "n_chars":190,
+ "toc":[],
+ "html":"<p>Diskriminationslernen, ein Ausdruck aus der reflexologischen und behavioristischen Lerntheorie, meint Lernen dadurch, daß man auf verschiedene Reize mit unterschiedlichen Antworten reagiert.</p>",
+ "prev":{"id":610,"lemma":"Disjunktor","band":"2","col":261},
+ "next":{"id":612,"lemma":"Diskussion","band":"2","col":262},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":36,"name":"Psychologie","label":"Diskriminationslernen"}],
+ "reg_authors":[{"name":"Bergius Rudolf","n":8}]
+}
+);

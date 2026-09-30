@@ -1,0 +1,57 @@
+HWPH.put("a/3191",
+{
+ "id":3191,
+ "lemma":"Tiefenpsychologie",
+ "band":"10",
+ "kind":"article",
+ "col_from":1194,
+ "col_to":1195,
+ "pdf_from":43201,
+ "pdf_to":43204,
+ "authors":["H. Hühn"],
+ "n_notes":15,
+ "n_chars":4164,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Tiefenpsychologie (engl. <span class=\"col\" data-col=\"1195\"></span> depth/deep psychology; frz. psychologie des profondeurs, psychologie abyssale; ital. psicologia del profundo). Der vom Psychiater E. BLEULER zur Charakterisierung der Psychoanalyse geprägte Ausdruck ‹T.› <sup class=\"fn\" data-fn=\"0-1\">1</sup> wird von S. FREUD aufgegriffen <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Unter T. versteht Freud die Wissenschaft «vom seelisch Unbewußten» <sup class=\"fn\" data-fn=\"0-3\">3</sup>, die von der Normal-, d.h. der akademischen «Bewusstseins-Psychologie» <sup class=\"fn\" data-fn=\"0-4\">4</sup> der Jahrhundertwende abgehoben wird. «Als die Analyse der Träume Einsicht in die unbewußten seelischen Vorgänge gab und zeigte, daß die Mechanismen, welche die pathologischen Symptome schaffen, auch im normalen Seelenleben tätig sind, wurde die Psychoanalyse zur T.» <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<p>Die T. wird von Freud aufgrundihrer hermeneutischen Qualität <sup class=\"fn\" data-fn=\"0-6\">6</sup> als «unerläßlicher Unterbau» <sup class=\"fn\" data-fn=\"0-7\">7</sup> der zeitgenössischen, deskriptiv orientierten Psychiatrie verstanden und als «Bindeglied» <sup class=\"fn\" data-fn=\"0-8\">8</sup> zu den übrigen Geisteswissenschaften konzipiert, «die sich mit der Entstehungsgeschichte der menschlichen Kultur und ihrer großen Institutionen wie Kunst, Religion und Gesellschaftsordnung beschäftigen» <sup class=\"fn\" data-fn=\"0-9\">9</sup>.</p>\n<p>Obwohl der Begriff von C. G. JUNG kritisch rezipiert <sup class=\"fn\" data-fn=\"0-10\">10</sup>, von A. ADLER gar polemisch attackiert worden ist <sup class=\"fn\" data-fn=\"0-11\">11</sup>, hat er sich als Sammelbezeichnung für ganz unterschiedliche Schulen eingebürgert: neben der Psychoanalyse bes. für die Individualpsychologie (Adler), die Analytische bzw. Komplexe Psychologie (Jung) und die Neopsychoanalyse (K. HORNEY, H. SCHULTZ-HENCKE, H. S. SULLIVAN) <sup class=\"fn\" data-fn=\"0-12\">12</sup>. Das Kompositum bringt mit dem Wort ‹Tiefe› <sup class=\"fn\" data-fn=\"0-13\">13</sup> die beanspruchte Erweiterung menschlicher Selbsterkenntnis um die (unterschiedlich ausgelegte) Dimension des Unbewußten zum Ausdruck und betont mit ihm die Bedeutung, die der onto- und phylogenetischen Vergangenheit für die Entwicklung seelischen Lebens zukommt. Eine Ergänzung der Tiefen- durch eine die geistig-personale Existenz des Menschen thematisierende «Höhenpsychologie» forderte V. E. FRANKL im Namen der Existenzanalyse <sup class=\"fn\" data-fn=\"0-14\">14</sup>.</p>\n<p>Als philosophische Wegbereiter der T. werden, mit einigem Recht, u.a. F. W. J. SCHELLING, A. SCHOPENHAUER und F. NIETZSCHE genannt <sup class=\"fn\" data-fn=\"0-15\">15</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">E. BLEULER: Die Psychoanal. Freuds. Verteidigung und krit. Bem. Jb. psychoanalyt. psychopatholog. Forsch. 2 (1910) 623–730, hier: 623; «Tiefenforschung», a.O. 685. 714; vgl. Die Kritiken der Schizophrenien. Z. ges. Neurologie Psychiatrie 22 (1914) 19–44, hier: 39.</li>\n<li id=\"fn0-2\" value=\"2\">S. FREUD: Zur Gesch. der psychoanalyt. Bewegung (1914). Ges. Werke (1940–87) 10, 81ff.</li>\n<li id=\"fn0-3\" value=\"3\">Die Frage der Laienanalyse (1926), a.O. 14, 283; vgl. ‘Psychoanalyseʼ und ‘Libidotheorieʼ (1923), a.O. 13, 227; Neue Folge der Vorles. zur Einf. in die Psychoanalyse (1933), a.O. 15, 170f.</li>\n<li id=\"fn0-4\" value=\"4\">Abriss der Psychoanalyse (1938), a.O. 17, 80; vgl. schon: Die Traumdeutung (1900), a.O. 2/3, 616.</li>\n<li id=\"fn0-5\" value=\"5\">‘Psychoanalyseʼ und ‘Libidotheorieʼ, a.O. 13, 228; vgl. Das Interesse an der Psychoanalyse (1913), a.O. 8, 398; Psycho-Analysis (1934), a.O. 14, 303; Neue Folge ..., a.O. [3] 156.</li>\n<li id=\"fn0-6\" value=\"6\">Soll die Psychoanalyse an den Univ. gelehrt werden? (1919), a.O. Nachtr.bd. 701f.</li>\n<li id=\"fn0-7\" value=\"7\">‘Psychoanalyseʼ und ‘Libidotheorieʼ, a.O. 13, 227f.</li>\n<li id=\"fn0-8\" value=\"8\">Psycho-Analysis, a.O. 14, 305.</li>\n<li id=\"fn0-9\" value=\"9\">Die Frage der Laienanalyse, a.O. 283.</li>\n<li id=\"fn0-10\" value=\"10\">C. G. JUNG: Allg. Aspekte der Psychoanalyse (1913). Ges. Werke 4, hg. M. NIEHUS-JUNG u.a. (Zürich 1971) 259; vgl. T. (1948), a.O. 18/2 (1981) 510–520.</li>\n<li id=\"fn0-11\" value=\"11\">A. ADLER: Studie über Minderwertigkeit von Organen (<sup>2</sup>1927, ND 1977) Vorrede.</li>\n<li id=\"fn0-12\" value=\"12\">Vgl. D. WYSS: Die tiefenpsycholog. Schulen von den Anfängen bis zur Gegenwart (1961, <sup>5</sup>1977); L. J. PONGRATZ: Hauptström. der T. (1983).</li>\n<li id=\"fn0-13\" value=\"13\">Vgl. R. ALLERS: Vom Nutzen und den Gefahren der Metapher in der Psychologie. Jb. Psychol. Psychotherapie 3 (1955) 3–15, bes. 5ff.</li>\n<li id=\"fn0-14\" value=\"14\">V. E. FRANKL: Zur geist. Problematik der Psychotherapie (1938), in: Logotherapie und Existenzanalyse. Texte aus fünf Jahrzehnten (1987) 15–30, hier: 18; vgl. V. E. VON GEBSATTEL: Die Person und die Grenzen des tiefenpsycholog. Verfahrens (1950), in: Proleg. einer medizin. Anthropologie (1954) 329–347, hier: 335.</li>\n<li id=\"fn0-15\" value=\"15\">Vgl. zum Verhältnis von T. und Philos.: E. WIESENHÜTTER: Die Begegnung zwischen Philos. und T. (1979); F. HAMMER: Metempir. Implikationen der T. Z. philos. Forsch. 36 (1982) 599–613; L. LÜTKEHAUS (Hg.): Tiefenphilosophie: Texte zur Entdeckung des Unbewußten vor Freud (1995).</li>\n</ol>",
+ "prev":{"id":3190,"lemma":"Tiefe; Tiefsinn","band":"10","col":1192},
+ "next":{"id":3192,"lemma":"Tier; Tierseele","band":"10","col":1196},
+ "backlinks":[
+  {"id":3190,"lemma":"Tiefe; Tiefsinn","n":1},
+  {"id":3203,"lemma":"Topik; Topos","n":1},
+  {"id":3286,"lemma":"Unbewußtes; das Unbewußte","n":1}
+ ],
+ "outlinks":[],
+ "register":[
+  {"term":"Bewusstseins-Psychologie","qualifier":"","band":"10","col":"1194"},
+  {"term":"Höhenpsychologie","qualifier":"","band":"10","col":"1195"},
+  {"term":"psychologie abyssale","qualifier":"","band":null,"col":null},
+  {"term":"Tiefe","qualifier":"","band":"10","col":"1195"},
+  {"term":"Unbewusste, das","qualifier":"","band":null,"col":null}
+ ],
+ "persons":[
+  {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":168,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":316,"name":"A. Adler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":622,"name":"E. Bleuler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1082,"name":"V. E. Frankl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":10,"name":"F. Nietzsche","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":17,"name":"A. Schopenhauer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1403,"name":"K. Horney","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":1572,"name":"D. Wyss","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2481,"name":"H. S. Sullivan","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":3185,"name":"L. J. Pongratz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2060,"name":"V. E. von Gebsattel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2529,"name":"R. Allers","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2568,"name":"H. Schultz-Hencke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4817,"name":"F. Hammer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7398,"name":"E. Wiesenhütter","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8207,"name":"L. Lütkehaus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6648,"name":"M. Niehus-Jung","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[{"id":2506,"lemma":"Psychoanalyse","tf":3}],
+ "see_also":[{"id":2506,"lemma":"Psychoanalyse"}],
+ "groups":[{"id":35,"name":"Psychoanalyse","label":"Tiefenpsychologie"}],
+ "reg_authors":[{"name":"Dierauer Urs","n":1},{"name":"Hühn Helmut","n":51}]
+}
+);

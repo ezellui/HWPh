@@ -1,0 +1,56 @@
+HWPH.put("a/2948",
+{
+ "id":2948,
+ "lemma":"Sozialkybernetik",
+ "band":"9",
+ "kind":"article",
+ "col_from":1210,
+ "col_to":1211,
+ "pdf_from":38484,
+ "pdf_to":38487,
+ "authors":["A. Göbel"],
+ "n_notes":13,
+ "n_chars":4374,
+ "toc":[["h3","Literaturhinweise",0],["notes","Anmerkungen",0]],
+ "html":"<p>Sozialkybernetik. Das sozialkybernetische Modelldenken ist wissenschaftsgeschichtlich vorbereitet in den Analogien zwischen den gesellschaftlichen Bewegungsstrukturen und den Reproduktionsmechanismen des biologischen «Organismus» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Entsprechend ließen sich auch die kybernetischen Modelle neurologischer Systeme für die Darstellung von sozialen Kommunikations- und Entscheidungsprozessen fruchtbar machen. Der Ansatz einer kybernetischen Sozialwissenschaft bei N. WIENER <sup class=\"fn\" data-fn=\"0-2\">2</sup> seit 1950 ist von der Sozialwissenschaft in Richtung auf die Organisationssoziologie, die Unternehmensforschung <sup class=\"fn\" data-fn=\"0-3\">3</sup>, die Kommunikationswissenschaft <sup class=\"fn\" data-fn=\"0-4\">4</sup> und vor allem die politische Systemtheorie <sup class=\"fn\" data-fn=\"0-5\">5</sup> weiter ausgebaut worden.</p>\n<p>Das viel diskutierte kybernetische Modell von K. DEUTSCH (‹The Nerves of Government›) versucht, die politische Problematik gesellschaftlichen Wandels (Anpassung, Reaktion und Innovation) in Analogie zu «Lernprozessen» zu deuten. Kriterium der politischen Beurteilung eines gesellschaftlichen Systems ist dessen «soziale Lernkapazität», d.h. die institutionellen Mechanismen einer systemrationalen Verarbeitung und Bewältigung des Informationsflusses. Die sich hieran anschließende Diskussion <sup class=\"fn\" data-fn=\"0-6\">6</sup> liest sich retrospektiv vor allem als ein Beitrag zur Relation von kybernetischem Modell und modellierter Realität. Dementsprechend standen Fragen der ideologischen und kritischen Effekte sozialkybernetischen Modelldenkens im Vordergrund<sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<p>Eine intensive Rezeption erfuhr der Begriff ‹S.› in den sechziger und siebziger Jahren durch die marxistische Philosophie in der DDR, namentlich durch G. KLAUS, der die Anwendbarkeit kybernetischer Kategorien auf Fragen des Historischen Materialismus und der Politischen Ökonomie herausstellte, die sich damit in eine exakte «Experimentalwissenschaft» verwandle <sup class=\"fn\" data-fn=\"0-8\">8</sup>. Ebenfalls in diese Zeit (1968) fällt die Gründung der ‹Gesellschaft für Wirtschafts- und Sozialkybernetik› in der BRD, die sich mit der praktischen Anwendung kybernetischer Modelle auf Fragen der ökonomischen Systemanalyse auseinandersetzt <sup class=\"fn\" data-fn=\"0-9\">9</sup>. Für die Systemtheorie N. LUHMANNS enthält die S. zwar «wichtige Anregungen», erscheint aber insgesamt für eine «Theorie kommunikativer Systeme» zu einfach <sup class=\"fn\" data-fn=\"0-10\">10</sup>. Seit Ende der siebziger Jahre hat sich die Diskussion um die S. merklich beruhigt, erhält aber, ohne Wiederaufnahme des Begriffs, neuen Zündstoff durch die Entwicklung einer Kybernetik 2. Ordnung <sup class=\"fn\" data-fn=\"0-11\">11</sup>, in deren Gefolge die einfachen Kausalitätsannahmen der Kybernetik 1. Ordnung auch im Bereich des Sozialen (Theorien selbstorganisierender, beobachtender Systeme) revidiert <sup class=\"fn\" data-fn=\"0-12\">12</sup> und Fragen der Steuerung damit auf ein neues Komplexitätsniveau <span class=\"col\" data-col=\"1211\"></span> gehoben werden <sup class=\"fn\" data-fn=\"0-13\">13</sup>.</p>\n<h3 id=\"h3\">Literaturhinweise</h3>\n<p class=\"lit\">D. G. MCRAE: Cybernetics and social sci. Brit. J. Sociology 2 (1951) 135–139. – G. KADE/R. HUJER s. Anm. [7].</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"1211\"></span> z.B. A. SCHÄFFLE: Bau und Leben des soc. Körpers (1881); O. HERTWIG: Der Staat als Organismus (1926); W. B. CANNON: The wisdom of the body (New York 1932).</li>\n<li id=\"fn0-2\" value=\"2\">N. WIENER: The human use of human beings. Cybernetics and society (Garden City, N.Y. 1950); dtsch.: Mensen und Menschmaschine (1952, <sup>4</sup>1972).</li>\n<li id=\"fn0-3\" value=\"3\">S. BEER: Kybernetik und Management (1963).</li>\n<li id=\"fn0-4\" value=\"4\">K. STEINBUCH: Die informierte Ges. (<sup>4</sup>1966).</li>\n<li id=\"fn0-5\" value=\"5\">K. DEUTSCH: The nerves of government (New York/London <sup>2</sup>1964); N. LUHMANN: Theorie der Verwaltungswiss. (1965).</li>\n<li id=\"fn0-6\" value=\"6\">O. SENGHAAS: Kybernetik und Politikwiss. Polit. Vjschr. 7 (1966) 252–276.</li>\n<li id=\"fn0-7\" value=\"7\">S. und Herrschaft, in: Atomzeitalter (1967) 386–399; ND, in: G. KADE/R. HUJER (Hg.): S. (1974).</li>\n<li id=\"fn0-8\" value=\"8\">G. KLAUS: Die Kybernetik, das Programm der SED und die Aufgaben der Philos. Dtsch. Z. Philos. 11 (1963) 693–707, hier: 707; Kybernetik und Ges. (1964); Die kybernet. Gesetze der menschl. Beziehungen, in: Kybernetik in philos. Sicht (<sup>4</sup>1965) 476–526; Kybernetik und Erkenntnistheorie (1966); Kybernetik und Klassenkampf, in: Rationalität – Integration – Information (1974) 117–130.</li>\n<li id=\"fn0-9\" value=\"9\">Vgl. z.B. J. BAETKE (Hg.): Systemtheorie und soz.ökon. Anwendung. Beitr. zur Tagung der Ges. für Wirtschafts- und S. (1976); H. CZAP (Hg.): Unternehmensstrategien im sozio-ökon. Wandel (1990).</li>\n<li id=\"fn0-10\" value=\"10\">N. LUHMANN: Zweckbegriff und Systemrationalität (1973) 165.</li>\n<li id=\"fn0-11\" value=\"11\">H. VON FOERSTER: Observing systems (Seaside 1982); Cybernetics, Encycl. for artificial intelligence 1 (New York 1987); R. GLANVILLE: Objekte (1988).</li>\n<li id=\"fn0-12\" value=\"12\">On cybernetics of cybernetics and social theory, in: Self-organizing systems (1981); N. LUHMANN: Soziale Systeme (1984).</li>\n<li id=\"fn0-13\" value=\"13\">H. WILLKE: Systemtheorie III: Steuerungstheorie (1995).</li>\n</ol>",
+ "prev":{"id":2947,"lemma":"Sozialismus","band":"9","col":1166},
+ "next":{"id":2949,"lemma":"Sozialpädagogik","band":"9","col":1211},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[
+  {"term":"Lernkapazität, soziale","qualifier":"","band":"9","col":"1210"},
+  {"term":"Organismus","qualifier":"","band":"9","col":"1210"}
+ ],
+ "persons":[
+  {"id":98,"name":"N. Luhmann","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":475,"name":"G. Klaus","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":976,"name":"N. Wiener","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2452,"name":"K. W. Deutsch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":17712,"name":"G. Kade","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":17713,"name":"R. Hujer","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":1421,"name":"A. Schäffle","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":2284,"name":"K. Steinbuch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2413,"name":"W. B. Cannon","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3750,"name":"D. Senghaas","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2603,"name":"O. Hertwig","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":7693,"name":"J. Glanville","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":11216,"name":"W. Baetke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12538,"name":"H. Willke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":17714,"name":"H. Czap","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":12820,"name":"H. von Foerster","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":6529,"name":"K. D. Mcrae","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2814,"name":"R. Beer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+ ],
+ "mentions":[
+  {"id":1721,"lemma":"Kybernetik","tf":2},
+  {"id":3117,"lemma":"Systemtheorie; System, soziales","tf":2},
+  {"id":1999,"lemma":"Modell","tf":4},
+  {"id":2954,"lemma":"Sozialwissenschaft; Gesellschaftswissenschaft","tf":2},
+  {"id":123,"lemma":"Analogie","tf":2},
+  {"id":2233,"lemma":"Ordnung","tf":2}
+ ],
+ "see_also":[{"id":3023,"lemma":"Steuerung"},{"id":3117,"lemma":"Systemtheorie; System, soziales"}],
+ "groups":[{"id":42,"name":"Soziologie","label":"Sozialkybernetik"}],
+ "reg_authors":[{"name":"Göbel Andreas","n":1}]
+}
+);
