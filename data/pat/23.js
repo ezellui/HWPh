@@ -176,21 +176,21 @@ HWPH.put("pat/23",
   ["G. G. KARPOV","V. KARPOV","N. V. KARPOV"]
  ],
  11582:["(?<![\\p{L}\\p{N}])(?:VILLANI|Villani)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. VILLANI"]],
- 11583:["(?<![\\p{L}\\p{N}])(?:MJASNIKOW|Mjasnikow)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. MJASNIKOW"]],
- 11584:["(?<![\\p{L}\\p{N}])(?:FLAKER|Flaker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. FLAKER"]],
- 11585:[
+ 11583:["(?<![\\p{L}\\p{N}])(?:FLEURY|Fleury)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. FLEURY","CL. FLEURY"]],
+ 11584:["(?<![\\p{L}\\p{N}])(?:FÉNÉLON|Fénélon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. FÉNÉLON","FÉNÉLON"]],
+ 11585:["(?<![\\p{L}\\p{N}])(?:MJASNIKOW|Mjasnikow)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. MJASNIKOW"]],
+ 11586:["(?<![\\p{L}\\p{N}])(?:FLAKER|Flaker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. FLAKER"]],
+ 11587:[
   "(?<![\\p{L}\\p{N}])(?:MANSFIELD|Mansfield)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. MANSFIELD","H. C. MANSFIELD","H. MANSFIELD"]
  ],
- 11586:["(?<![\\p{L}\\p{N}])(?:PASSAVANT|Passavant)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. D. PASSAVANT"]],
- 11587:["(?<![\\p{L}\\p{N}])(?:DENK|Denk)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DENK"]],
- 11588:["(?<![\\p{L}\\p{N}])(?:ELTON|Elton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ELTON"]],
- 11589:[
+ 11588:["(?<![\\p{L}\\p{N}])(?:PASSAVANT|Passavant)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. D. PASSAVANT"]],
+ 11589:["(?<![\\p{L}\\p{N}])(?:DENK|Denk)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DENK"]],
+ 11590:["(?<![\\p{L}\\p{N}])(?:ELTON|Elton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ELTON"]],
+ 11591:[
   "(?<![\\p{L}\\p{N}])(?:BRUYNE|Bruyne)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["E. de BRUYNE","A. \nE. de BRUYNE"]
  ],
- 11590:["(?<![\\p{L}\\p{N}])(?:FLEURY|Fleury)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. FLEURY","CL. FLEURY"]],
- 11591:["(?<![\\p{L}\\p{N}])(?:FÉNÉLON|Fénélon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. FÉNÉLON","FÉNÉLON"]],
  11592:["(?<![\\p{L}\\p{N}])(?:STELZER|Stelzer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. STELZER","W. STELZER"]],
  11593:["(?<![\\p{L}\\p{N}])(?:KUNZE|Kunze)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. KUNZE","ST. KUNZE"]],
  11594:["(?<![\\p{L}\\p{N}])(?:PODRO|Podro)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. PODRO"]],

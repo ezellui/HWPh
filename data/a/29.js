@@ -21,10 +21,10 @@ HWPH.put("a/29",
  "persons":[
   {"id":14,"name":"E. Husserl","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":15,"name":"R. Descartes","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":526,"name":"E. Fink","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":928,"name":"H. Wagner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":2286,"name":"R. Boehm","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":2286,"name":"R. Boehm","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1470,"lemma":"Intentionalität","tf":2},

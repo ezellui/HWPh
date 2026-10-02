@@ -39,7 +39,7 @@ HWPH.put("a/272",
   {"id":259,"name":"Epiktet","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":452,"name":"Stobaeus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":705,"name":"O. Spann","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8564,"name":"Ainesidemos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8565,"name":"Ainesidemos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":6268,"name":"Timon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":4361,"name":"Wachsmuth","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

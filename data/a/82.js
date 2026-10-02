@@ -36,7 +36,7 @@ HWPH.put("a/82",
   {"id":5401,"name":"A. Holst","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":6180,"name":"A. Huxley","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":6181,"name":"G. Orwell","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
-  {"id":8440,"name":"C. J. Herrick","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8441,"name":"C. J. Herrick","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":10443,"name":"B. Kaplan","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":18989,"name":"R. Ardrey","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4809,"name":"L. Mumford","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

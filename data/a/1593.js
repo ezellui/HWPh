@@ -36,8 +36,8 @@ HWPH.put("a/1593",
   {"id":98,"name":"N. Luhmann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":364,"name":"J. R. Searle","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":5473,"name":"Fr. Reimann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8690,"name":"C. Cherry","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":7761,"name":"W. Schramm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":8691,"name":"C. Cherry","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":7762,"name":"W. Schramm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1591,"lemma":"Kommunikation","tf":5},

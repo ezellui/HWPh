@@ -27,7 +27,7 @@ HWPH.put("a/1192",
  "persons":[
   {"id":286,"name":"E. Haeckel","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":54,"name":"A. Schmidt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":56,"name":"J. Müller","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":971,"name":"B. Rensch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2974,"name":"G. Heberer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5527,"name":"A. N. Sewertzoff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

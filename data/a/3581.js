@@ -80,7 +80,7 @@ HWPH.put("a/3581",
   {"id":89,"name":"M. Montinari","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":112,"name":"B. Suphan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":163,"name":"F. Hoffmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8831,"name":"O. Glöckner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8832,"name":"O. Glöckner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2673,"lemma":"Religion","tf":4},

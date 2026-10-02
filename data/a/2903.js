@@ -67,7 +67,7 @@ HWPH.put("a/2903",
   {"id":1619,"name":"R. von Jhering","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2170,"name":"A. Honneth","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1877,"name":"W. Kuhlmann","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":47,"name":"J. Habermas","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":107,"name":"W. Schneider","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":70,"name":"G. E. Lessing","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -116,7 +116,7 @@ HWPH.put("a/2903",
   {"id":230,"lemma":"Arbeit","tf":8},
   {"id":3375,"lemma":"Vaterland","tf":3},
   {"id":3628,"lemma":"Wirklichkeit","tf":9},
-  {"id":893,"lemma":"Familie, Ehe","tf":4}
+  {"id":1132,"lemma":"Gewohnheit","tf":4}
  ],
  "see_also":[
   {"id":1107,"lemma":"Gesetz, moralisches"},

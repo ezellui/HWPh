@@ -21,7 +21,7 @@ HWPH.put("a/670",
  "persons":[
   {"id":19,"name":"N. Hartmann","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8727,"name":"F.-J. von Rintelen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":8728,"name":"F.-J. von Rintelen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":3588,"lemma":"Wert","tf":8}],
  "see_also":[{"id":3588,"lemma":"Wert"}],

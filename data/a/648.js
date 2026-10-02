@@ -30,7 +30,7 @@ HWPH.put("a/648",
   {"id":34,"name":"M. Weber","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":115,"name":"Lambert von Auxerre","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":176,"name":"G. Th. Fechner","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8633,"name":"P. Bouguer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8634,"name":"P. Bouguer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":597,"name":"R. Wagner","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
  ],
  "mentions":[{"id":2195,"lemma":"Observatio, Beobachtung","tf":4},{"id":594,"lemma":"Differenz","tf":2}],

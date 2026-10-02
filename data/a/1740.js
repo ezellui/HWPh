@@ -23,7 +23,7 @@ HWPH.put("a/1740",
   {"id":318,"name":"G. Misch","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":20,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":856,"name":"P. Yorck von Wartenburg","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8648,"name":"Wartenburg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8649,"name":"Wartenburg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":231,"name":"O. F. Bollnow","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1404,"name":"J. F. König","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1221,"name":"F. Rodi","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

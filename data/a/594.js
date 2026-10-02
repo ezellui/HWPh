@@ -32,11 +32,11 @@ HWPH.put("a/594",
   {"id":289,"name":"Porphyrios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":399,"name":"M. Theunissen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1367,"name":"J. Gredt","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2618,"name":"F. Max Müller","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":6343,"name":"W. J. Richardson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":19942,"name":"G. Siegwerth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1649,"name":"L. Gabriel Biel","b":1,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":1649,"name":"L. Gabriel Biel","b":1,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":991,"lemma":"Gattung, Genus","tf":3},{"id":1424,"lemma":"Individuum, Individualität","tf":2}],
  "see_also":[

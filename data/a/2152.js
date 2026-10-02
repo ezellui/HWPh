@@ -20,7 +20,7 @@ HWPH.put("a/2152",
  "register":[{"term":"Monismus, sprachphilosophischer","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":3093,"name":"G. Runze","b":1,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":56,"name":"J. Müller","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2189,"name":"G. Gerber","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":18,"name":"J. G. Herder","b":1,"n":0,"l":0,"editor":0,"role":"source"},

@@ -48,11 +48,11 @@ HWPH.put("a/1966",
   {"id":6232,"name":"K. Nitzschke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4678,"name":"J. A. Bergk","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3824,"name":"H. Saner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":7673,"name":"A. Meusel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7674,"name":"A. Meusel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":583,"name":"N. Hinske","b":0,"n":3,"l":0,"editor":1,"role":"scholar"},
   {"id":5432,"name":"C. G. Cobet","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":9567,"name":"R. Reicke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":7945,"name":"F. Ch. Starke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":7946,"name":"F. Ch. Starke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":545,"name":"G. Tonelli","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[

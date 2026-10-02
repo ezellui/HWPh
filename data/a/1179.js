@@ -27,7 +27,7 @@ HWPH.put("a/1179",
  "persons":[
   {"id":6557,"name":"J. H. Michon","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":9034,"name":"J. Crépieux-Jamin","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
-  {"id":56,"name":"J. Müller","b":1,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":1,"n":2,"l":1,"editor":0,"role":"mixed"},
   {"id":9035,"name":"A. Enskat","b":1,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":160,"name":"R. W. Meyer","b":2,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":11169,"name":"Michon","b":2,"n":1,"l":0,"editor":0,"role":"source"},

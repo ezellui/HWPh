@@ -72,7 +72,7 @@ HWPH.put("a/3188",
   {"id":7523,"name":"W. Binder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":9549,"name":"A. Tribbechov","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":14500,"name":"Arnaldus von Villanova","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8159,"name":"D. Alvarez","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":8160,"name":"D. Alvarez","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":17368,"name":"L. Babenstuber","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":30969,"name":"von Jakobus Albi de Digna","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {

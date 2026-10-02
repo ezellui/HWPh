@@ -26,7 +26,7 @@ HWPH.put("a/3202",
   {"id":5285,"name":"B. Hale","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":9852,"name":"A. W. Richardson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":18236,"name":"D. Goldstick","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":16380,"name":"S. Lambros","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":16390,"name":"S. Lambros","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":31087,"name":"T. Ricketts","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":2990,"lemma":"Sprachform, innere","tf":6},{"id":1803,"lemma":"Logik","tf":2}],

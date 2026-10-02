@@ -23,7 +23,7 @@ HWPH.put("a/174",
  "register":[{"term":"Neuzeit","qualifier":"(Blumenberg)","band":"1","col":"361"}],
  "persons":[
   {"id":97,"name":"H. Blumenberg","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8434,"name":"P. Foulquie","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8435,"name":"P. Foulquie","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1,"name":"I. Kant","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":4352,"name":"R. Muller","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},

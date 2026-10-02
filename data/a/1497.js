@@ -76,8 +76,8 @@ HWPH.put("a/1497",
   {"id":1254,"name":"E. Herrigel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
-  {"id":1078,"lemma":"Geometrie","tf":3},
   {"id":1184,"lemma":"Grenze","tf":5},
+  {"id":1078,"lemma":"Geometrie","tf":3},
   {"id":2475,"lemma":"Projektion","tf":2},
   {"id":799,"lemma":"Erkenntnistheorie, Erkenntnislehre, Erkenntniskritik","tf":3},
   {"id":2954,"lemma":"Sozialwissenschaft; Gesellschaftswissenschaft","tf":2},

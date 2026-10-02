@@ -22,7 +22,7 @@ HWPH.put("a/2726",
   {"term":"s auch","qualifier":"(Gehlen)","band":null,"col":null},
   {"term":"Sprache/Handlung","qualifier":"(Gehlen)","band":null,"col":null}
  ],
- "persons":[{"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}],
+ "persons":[{"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[
   {"id":1248,"lemma":"Hemmung","tf":2},
   {"id":408,"lemma":"Bewegung","tf":5},

@@ -27,11 +27,11 @@ HWPH.put("a/1658",
   {"id":3117,"name":"I. Kohler","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2430,"name":"A. Rüssel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4937,"name":"W. R. Ashby","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8428,"name":"R. Held","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8429,"name":"R. Held","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":711,"name":"I. P. Pawlow","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":4801,"name":"N. J. Hein","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4580,"name":"H. Mittelstaedt","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8426,"name":"Held","b":1,"n":0,"l":0,"editor":0,"role":"source"}
+  {"id":8427,"name":"Held","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[
   {"id":3373,"lemma":"Variable","tf":6},

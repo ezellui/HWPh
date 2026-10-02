@@ -34,7 +34,7 @@ HWPH.put("a/2175",
   {"id":1864,"name":"G. Lanczkowski","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":375,"name":"D. Davidson","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":4363,"name":"A. Paus","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4036,"name":"C. Colpe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":4035,"name":"C. Colpe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1239,"lemma":"Heilig, Heiligkeit","tf":3},{"id":222,"lemma":"Apriori, emotionales","tf":2}],
  "see_also":[{"id":223,"lemma":"Apriori, religiöses"},{"id":985,"lemma":"Ganz Andere"}],

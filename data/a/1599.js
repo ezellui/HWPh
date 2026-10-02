@@ -31,7 +31,7 @@ HWPH.put("a/1599",
   {"id":1287,"name":"N. Bohr","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":763,"name":"Weizsäcker","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1251,"name":"P. Petersen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4175,"name":"K. M. Meyer-Abich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":4174,"name":"K. M. Meyer-Abich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2183,"lemma":"Objekt","tf":7},

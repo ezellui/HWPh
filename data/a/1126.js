@@ -27,10 +27,10 @@ HWPH.put("a/1126",
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2484,"name":"W. Perpeet","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":22,"name":"M. Luther","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":782,"name":"H. Paul","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1535,"name":"F. Dornseiff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":6511,"name":"D. Sinn","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":6511,"name":"D. Sinn","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1409,"lemma":"In-der-Welt-sein","tf":3},{"id":1275,"lemma":"Himmel","tf":2}],
  "see_also":[{"id":3463,"lemma":"Vierung"}],

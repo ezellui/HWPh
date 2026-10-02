@@ -23,12 +23,12 @@ HWPH.put("a/1323",
   {"term":"Moralhypertrophie","qualifier":"(Gehlen)","band":null,"col":null}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":34,"name":"M. Weber","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":47,"name":"J. Habermas","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":632,"name":"A. Zimmermann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":3968,"name":"G. Rohrmoser","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3967,"name":"G. Rohrmoser","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":720,"name":"J. Winckelmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

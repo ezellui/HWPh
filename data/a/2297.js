@@ -30,7 +30,7 @@ HWPH.put("a/2297",
   {"id":355,"name":"Aischylos","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":922,"name":"H. Dörrie","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1572,"name":"D. Wyss","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
-  {"id":3965,"name":"R. Siebeck","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3964,"name":"R. Siebeck","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":889,"name":"G. Bien","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

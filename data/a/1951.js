@@ -26,7 +26,7 @@ HWPH.put("a/1951",
   {"id":3116,"name":"J. R. Weinberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3309,"name":"P. Weingart","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3855,"name":"G. Andersson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4225,"name":"C. Burrichter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":4224,"name":"C. Burrichter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[],

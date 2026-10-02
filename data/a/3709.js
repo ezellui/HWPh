@@ -47,7 +47,7 @@ HWPH.put("a/3709",
   {"id":3865,"name":"G. Büchner","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2869,"name":"R. Swinburne","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":5,"name":"Thomas von Aquin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":34,"name":"M. Weber","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":110,"name":"Voltaire","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":233,"name":"Petrus Lombardus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -72,7 +72,7 @@ HWPH.put("a/3709",
   {"id":1226,"name":"W. Schröder","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1095,"name":"H. Heppe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2352,"name":"E. Preuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8652,"name":"H. Engelland","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8653,"name":"H. Engelland","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3075,"lemma":"Sünde","tf":8},

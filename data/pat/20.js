@@ -217,11 +217,11 @@ HWPH.put("pat/20",
   "(?<![\\p{L}\\p{N}])(?:LENSKI|Lenski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["G. E. LENSKI","G. LENSKI","W. LENSKI"]
  ],
- 10091:["(?<![\\p{L}\\p{N}])(?:IVRY|Ivry)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. L. IVRY","A. IVRY"]],
- 10092:[
+ 10091:[
   "(?<![\\p{L}\\p{N}])(?:GROS|Gros)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["K. H. GROS","F. GROS","A. GROS"]
  ],
+ 10092:["(?<![\\p{L}\\p{N}])(?:IVRY|Ivry)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. L. IVRY","A. IVRY"]],
  10093:[
   "(?<![\\p{L}\\p{N}])(?:MARTIN-LÖFS|Martin-Löfs|MARTIN-LÖF|Martin-Löf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["P. MARTIN-LÖF","P. MARTIN-LÖFS"]

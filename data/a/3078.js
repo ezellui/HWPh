@@ -23,7 +23,7 @@ HWPH.put("a/3078",
   {"id":9875,"name":"E. Amann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":30296,"name":"von Sun Wen","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":30297,"name":"Sun Yat-Sen","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":7720,"name":"G. K. Kindermann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7721,"name":"G. K. Kindermann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":30298,"name":"H. Z. Schiffrin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":30299,"name":"Cheng Chu-Yuan","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":30300,"name":"Julie Lee Wei","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

@@ -24,7 +24,7 @@ HWPH.put("a/3307",
   {"id":218,"name":"E. Durkheim","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":981,"name":"M. Mauss","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":10853,"name":"L. Levy-Bruhl","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8389,"name":"H. Roetz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8390,"name":"H. Roetz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1849,"lemma":"Makrokosmos/Mikrokosmos","tf":2}],
  "see_also":[{"id":293,"lemma":"Auftrag des Himmels"},{"id":3667,"lemma":"Yin-Yang"}],

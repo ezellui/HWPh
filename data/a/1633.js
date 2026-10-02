@@ -19,7 +19,7 @@ HWPH.put("a/1633",
  "outlinks":[],
  "register":[],
  "persons":[
-  {"id":4034,"name":"G. Katona","b":0,"n":4,"l":0,"editor":0,"role":"mixed"},
+  {"id":4033,"name":"G. Katona","b":0,"n":4,"l":0,"editor":0,"role":"mixed"},
   {"id":2818,"name":"H. Schoeck","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":11507,"name":"P. Meyer-Dohm","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":121,"name":"H. Marcuse","b":1,"n":1,"l":0,"editor":0,"role":"source"},

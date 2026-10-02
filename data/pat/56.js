@@ -532,17 +532,17 @@ HWPH.put("pat/56",
   "(?<![\\p{L}\\p{N}])(?:DUTTENHOFER|Duttenhofer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["M. C. F. DUTTENHOFER"]
  ],
- 28322:[
+ 28322:["(?<![\\p{L}\\p{N}])(?:LAUDSES|Laudses)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LAUDSES"]],
+ 28323:["(?<![\\p{L}\\p{N}])(?:BASHO|Basho)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BASHO"]],
+ 28324:["(?<![\\p{L}\\p{N}])(?:BUSON|Buson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BUSON"]],
+ 28325:[
   "(?<![\\p{L}\\p{N}])(?:FLOSS\\.\\s+MPL|Floss\\.\\s+Mpl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H. FLOSS. MPL"]
  ],
- 28323:["(?<![\\p{L}\\p{N}])(?:SESTERHENN|Sesterhenn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. SESTERHENN"]],
- 28324:["(?<![\\p{L}\\p{N}])(?:HASUMI|Hasumi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. HASUMI"]],
- 28325:["(?<![\\p{L}\\p{N}])(?:HOOVER|Hoover)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. HOOVER"]],
- 28326:["(?<![\\p{L}\\p{N}])(?:RIGAL|Rigal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. RIGAL"]],
- 28327:["(?<![\\p{L}\\p{N}])(?:LAUDSES|Laudses)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LAUDSES"]],
- 28328:["(?<![\\p{L}\\p{N}])(?:BASHO|Basho)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BASHO"]],
- 28329:["(?<![\\p{L}\\p{N}])(?:BUSON|Buson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BUSON"]],
+ 28326:["(?<![\\p{L}\\p{N}])(?:SESTERHENN|Sesterhenn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. SESTERHENN"]],
+ 28327:["(?<![\\p{L}\\p{N}])(?:HASUMI|Hasumi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. HASUMI"]],
+ 28328:["(?<![\\p{L}\\p{N}])(?:HOOVER|Hoover)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. HOOVER"]],
+ 28329:["(?<![\\p{L}\\p{N}])(?:RIGAL|Rigal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. RIGAL"]],
  28330:["(?<![\\p{L}\\p{N}])(?:HUA\\s+XUE|Hua\\s+Xue)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["HUA XUE"]],
  28331:[
   "(?<![\\p{L}\\p{N}])(?:VON\\s+MATTHISSON|von\\s+Matthisson|Matthisson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

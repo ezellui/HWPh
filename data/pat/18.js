@@ -1,56 +1,56 @@
 HWPH.put("pat/18",
 {
- 9000:["(?<![\\p{L}\\p{N}])(?:CHEYNE|Cheyne)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. CHEYNE","CHEYNE"]],
- 9001:["(?<![\\p{L}\\p{N}])(?:MAURUS|Maurus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. MAURUS"]],
- 9002:[
+ 9000:["(?<![\\p{L}\\p{N}])(?:COLET|Colet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. COLET","COLET"]],
+ 9001:["(?<![\\p{L}\\p{N}])(?:CHEYNE|Cheyne)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. CHEYNE","CHEYNE"]],
+ 9002:["(?<![\\p{L}\\p{N}])(?:MAURUS|Maurus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. MAURUS"]],
+ 9003:[
   "(?<![\\p{L}\\p{N}])(?:DUPIN|Dupin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["CH. DUPIN","DUPIN","E. DUPIN"]
  ],
- 9003:[
+ 9004:[
   "(?<![\\p{L}\\p{N}])(?:FÈVRE|Fèvre)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. FÈVRE","FÈVRE","J. L.-P. FÈVRE"]
  ],
- 9004:[
+ 9005:[
   "(?<![\\p{L}\\p{N}])(?:NIEUWENTYTS|Nieuwentyts|NIEUWENTYT|Nieuwentyt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["B. NIEUWENTYT","B. van NIEUWENTYTS","B. van NIEUWENTYT"]
  ],
- 9005:["(?<![\\p{L}\\p{N}])(?:HOHL|Hohl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. HOHL"]],
- 9006:["(?<![\\p{L}\\p{N}])(?:VRIEZEN|Vriezen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. C. VRIEZEN"]],
- 9007:["(?<![\\p{L}\\p{N}])(?:FOHRER|Fohrer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. FOHRER"]],
- 9008:[
+ 9006:["(?<![\\p{L}\\p{N}])(?:HOHL|Hohl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. HOHL"]],
+ 9007:["(?<![\\p{L}\\p{N}])(?:VRIEZEN|Vriezen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. C. VRIEZEN"]],
+ 9008:["(?<![\\p{L}\\p{N}])(?:FOHRER|Fohrer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. FOHRER"]],
+ 9009:[
   "(?<![\\p{L}\\p{N}])(?:PATTERSON|Patterson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["R. PATTERSON","R. L. PATTERSON"]
  ],
- 9009:["(?<![\\p{L}\\p{N}])(?:WERNLE|Wernle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. WERNLE","WERNLE"]],
- 9010:[
+ 9010:["(?<![\\p{L}\\p{N}])(?:WERNLE|Wernle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. WERNLE","WERNLE"]],
+ 9011:[
   "(?<![\\p{L}\\p{N}])(?:WENDEL|Wendel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H. J. WENDEL","F. WENDEL","K. WENDEL"]
  ],
- 9011:["(?<![\\p{L}\\p{N}])(?:VÉDRINE|Védrine)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. VÉDRINE","V. VÉDRINE"]],
- 9012:["(?<![\\p{L}\\p{N}])(?:NIDERST|Niderst)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. NIDERST"]],
- 9013:["(?<![\\p{L}\\p{N}])(?:NATHAN|Nathan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. J. NATHAN","R. NATHAN"]],
- 9014:[
+ 9012:["(?<![\\p{L}\\p{N}])(?:VÉDRINE|Védrine)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. VÉDRINE","V. VÉDRINE"]],
+ 9013:["(?<![\\p{L}\\p{N}])(?:NIDERST|Niderst)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. NIDERST"]],
+ 9014:["(?<![\\p{L}\\p{N}])(?:NATHAN|Nathan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. J. NATHAN","R. NATHAN"]],
+ 9015:[
   "(?<![\\p{L}\\p{N}])(?:REESE|Reese)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["W. REESE","W. L. REESE","H. W. REESE"]
  ],
- 9015:[
+ 9016:[
   "(?<![\\p{L}\\p{N}])(?:GRABNER-HAIDER|Grabner-Haider)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["A. GRABNER-HAIDER"]
  ],
- 9016:["(?<![\\p{L}\\p{N}])(?:SEILER|Seiler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. SEILER"]],
- 9017:[
+ 9017:["(?<![\\p{L}\\p{N}])(?:SEILER|Seiler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. SEILER"]],
+ 9018:[
   "(?<![\\p{L}\\p{N}])(?:JERVELL|Jervell)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. JERVELL","H. R. JERVELL"]
  ],
- 9018:[
+ 9019:[
   "(?<![\\p{L}\\p{N}])(?:SCHNIPPENKÖTTER|Schnippenkötter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. SCHNIPPENKÖTTER","SCHNIPPENKÖTTER"]
  ],
- 9019:["(?<![\\p{L}\\p{N}])(?:HUONDER|Huonder)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Q. HUONDER","A. HUONDER"]],
- 9020:["(?<![\\p{L}\\p{N}])(?:CHOSSAT|Chossat)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CHOSSAT","M. CHOSSAT"]],
- 9021:["(?<![\\p{L}\\p{N}])(?:SCHULTE|Schulte)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SCHULTE","von SCHULTE"]],
- 9022:["(?<![\\p{L}\\p{N}])(?:STRAUBINGER|Straubinger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. STRAUBINGER"]],
- 9023:["(?<![\\p{L}\\p{N}])(?:BOYER|Boyer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. B. BOYER","CH. BOYER"]],
+ 9020:["(?<![\\p{L}\\p{N}])(?:HUONDER|Huonder)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Q. HUONDER","A. HUONDER"]],
+ 9021:["(?<![\\p{L}\\p{N}])(?:CHOSSAT|Chossat)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CHOSSAT","M. CHOSSAT"]],
+ 9022:["(?<![\\p{L}\\p{N}])(?:SCHULTE|Schulte)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SCHULTE","von SCHULTE"]],
+ 9023:["(?<![\\p{L}\\p{N}])(?:STRAUBINGER|Straubinger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. STRAUBINGER"]],
  9024:[
   "(?<![\\p{L}\\p{N}])(?:HOLSTEIN|Holstein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H. HOLSTEIN","G. HOLSTEIN"]

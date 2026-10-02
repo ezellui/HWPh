@@ -1,7 +1,7 @@
 HWPH.put("s/6f-69",
 {
  "oi":"1pe:0,1",
- "oikeiosis":"qa:0,1 vr:0,1 jb:0,0,1 1c:0,0,2 5q:0,0,0,1 4a:0,3 1b:0,1 c:0,1 cm:1,f,1,5",
+ "oikeiosis":"qa:0,1 vr:0,1 jb:0,0,1 1c:0,0,2 5q:0,1 4a:0,3 1b:0,1 c:0,1 cm:1,f,1,5",
  "oikeiosislehre":"1lm:0,0,1 78:0,1 ja:0,3 4k:0,1",
  "oikenwirtschaft":"y5:0,1",
  "oikia":"y5:0,0,1",

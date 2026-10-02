@@ -47,10 +47,10 @@ HWPH.put("a/139",
   {"id":302,"name":"G. Patzig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":291,"name":"F. Ueberweg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1899,"name":"L. Baudry","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8482,"name":"Occam","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8483,"name":"Occam","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":5425,"name":"F. Hillebrand","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":10502,"name":"Hillebrand","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8483,"name":"A. Schill","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":8484,"name":"A. Schill","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":309,"lemma":"Aussage","tf":4},{"id":154,"lemma":"Annahme, Annehmen","tf":2}],
  "see_also":[

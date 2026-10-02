@@ -40,7 +40,7 @@ HWPH.put("a/3714",
   {"id":36,"name":"R. Carnap","b":7,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":6,"name":"G. W. Leibniz","b":3,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":32,"name":"L. Wittgenstein","b":2,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":143,"name":"W. V. O. Quine","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":644,"name":"S. Kripke","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],

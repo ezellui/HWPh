@@ -79,7 +79,7 @@ HWPH.put("a/3390",
   {"id":82,"name":"J. F. Herbart","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":117,"name":"Epikur","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":146,"name":"Chrysipp","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":119,"name":"Heraklit","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":184,"name":"E. von Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":241,"name":"Lukrez","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -110,7 +110,7 @@ HWPH.put("a/3390",
   {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":642,"name":"K. Kehrbach","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3872,"name":"H. Diels. Cag","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8108,"name":"L. de Franco","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8109,"name":"L. de Franco","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":558,"lemma":"Denkpsychologie","tf":3},

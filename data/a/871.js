@@ -44,7 +44,7 @@ HWPH.put("a/871",
   {"id":1731,"name":"Ammonios","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3733,"name":"J. Bernays","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":5464,"name":"Eudemos","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8810,"name":"Andronikos von Rhodos","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8811,"name":"Andronikos von Rhodos","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":10911,"name":"J. Wippern","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
   {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

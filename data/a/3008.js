@@ -30,7 +30,7 @@ HWPH.put("a/3008",
  "persons":[
   {"id":159,"name":"R. Koselleck","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":264,"name":"O. Brunner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8642,"name":"R. Walther","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8643,"name":"R. Walther","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5548,"name":"L. Gall","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":336,"name":"W. Conze","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

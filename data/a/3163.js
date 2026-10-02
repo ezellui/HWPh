@@ -91,7 +91,7 @@ HWPH.put("a/3163",
   {"id":5875,"name":"G. Weissenborn","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":9708,"name":"R. Leslie","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":10222,"name":"J. Lindsay","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8854,"name":"A. Cloots","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8855,"name":"A. Cloots","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":12176,"name":"E. A. von Schaden","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":12231,"name":"B. P. Bowne","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":10893,"name":"J. Martineau","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -129,7 +129,7 @@ HWPH.put("a/3163",
   {"id":1557,"name":"A. C. Fraser","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3262,"name":"J.-P. Migne","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":5079,"name":"L. Molland","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8047,"name":"R. Desné","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8048,"name":"R. Desné","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":276,"lemma":"Atheismus","tf":5},

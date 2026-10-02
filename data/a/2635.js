@@ -39,9 +39,9 @@ HWPH.put("a/2635",
   {"id":3263,"name":"R. Walter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3314,"name":"K. Döring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3247,"name":"E. Zilsel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8008,"name":"F. Inciarte","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8009,"name":"F. Inciarte","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":616,"name":"W. Jaeschke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4251,"name":"F. Hogemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4250,"name":"F. Hogemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":5340,"name":"F. Lötzsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

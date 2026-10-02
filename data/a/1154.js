@@ -24,7 +24,7 @@ HWPH.put("a/1154",
   {"term":"System der Sprache","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":8994,"name":"H. J. Uldall","b":2,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":8995,"name":"H. J. Uldall","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1154,"name":"L. Hjelmslev","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":21054,"name":"B. Siertsema","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

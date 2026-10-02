@@ -24,7 +24,7 @@ HWPH.put("a/319",
   {"id":13646,"name":"H. Asperger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":107,"name":"W. Schneider","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4387,"name":"P. Matussek","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8597,"name":"G. Bosch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8598,"name":"G. Bosch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[{"id":2765,"lemma":"Schizophrenie"}],

@@ -25,7 +25,7 @@ HWPH.put("a/3292",
   {"term":"ἀνεξερεύνητος","qualifier":"(Quine)","band":null,"col":null}
  ],
  "persons":[
-  {"id":143,"name":"W. V. O. Quine","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":375,"name":"D. Davidson","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":493,"name":"H. Putnam","b":1,"n":1,"l":0,"editor":0,"role":"source"},

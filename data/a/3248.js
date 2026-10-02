@@ -50,7 +50,7 @@ HWPH.put("a/3248",
   {"id":1355,"name":"D. Rapaport","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":16,"name":"K. Marx","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":527,"name":"E. Jones","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4113,"name":"P. Stengel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4112,"name":"P. Stengel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2007,"name":"W. Loch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":480,"name":"A. Freud","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

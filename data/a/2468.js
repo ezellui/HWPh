@@ -36,7 +36,7 @@ HWPH.put("a/2468",
   {"id":4999,"name":"G. H. R. Parkinson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":448,"name":"Ch. Hartshorne","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":7879,"name":"P. Heath","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":7880,"name":"P. Heath","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":95,"lemma":"Algebra","tf":3},

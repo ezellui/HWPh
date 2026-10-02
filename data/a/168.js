@@ -37,7 +37,7 @@ HWPH.put("a/168",
   {"id":1522,"name":"K. Schaller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1701,"name":"J. Derbolav","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":7173,"name":"Schaller","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8496,"name":"G. Scherer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8497,"name":"G. Scherer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":10524,"name":"Scherer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":6221,"name":"L. Kerstiens","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

@@ -19,7 +19,7 @@ HWPH.put("a/425",
  "outlinks":[],
  "register":[],
  "persons":[
-  {"id":8651,"name":"F. Chr. Diez","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8652,"name":"F. Chr. Diez","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":10674,"name":"E. Tappolet","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":13704,"name":"A. Zauner","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":7267,"name":"B. Quadri","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},

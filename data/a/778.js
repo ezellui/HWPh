@@ -59,8 +59,8 @@ HWPH.put("a/778",
   {"id":3716,"name":"Arkesilaos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":10863,"name":"Änesidem","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1491,"name":"E. Ströker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4022,"name":"M. Hossenfelder","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8768,"name":"P. Couissin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4021,"name":"M. Hossenfelder","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8769,"name":"P. Couissin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":20243,"name":"der Epoché","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

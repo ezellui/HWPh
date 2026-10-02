@@ -70,7 +70,7 @@ HWPH.put("a/2028",
   {"id":85,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":321,"name":"G. König","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1042,"name":"E. Moldenhauer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4231,"name":"D. E. Luscombe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4230,"name":"D. E. Luscombe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2598,"lemma":"Recht","tf":31},

@@ -25,7 +25,7 @@ HWPH.put("a/935",
   {"id":4354,"name":"H. Gunkel","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":1575,"name":"G. Bornkamm","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":3742,"name":"R. Albertz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8832,"name":"W. Marxsen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8833,"name":"W. Marxsen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2905,"lemma":"Sitz im Leben","tf":2},

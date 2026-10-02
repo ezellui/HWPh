@@ -89,7 +89,7 @@ HWPH.put("a/3494",
   {"id":2680,"name":"Aureoli","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4625,"name":"D. Frede","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5882,"name":"Ph. L. Quinn","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":7955,"name":"G. Seel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7956,"name":"G. Seel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":11498,"name":"Luis de Molina","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":9641,"name":"G. I. Mavrodes","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":13249,"name":"Ch. Taliaferro","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -105,7 +105,7 @@ HWPH.put("a/3494",
   {"id":774,"name":"F. S. Schmitt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":619,"name":"N. Kretzmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":946,"name":"S. K. Knebel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4251,"name":"F. Hogemann","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":4250,"name":"F. Hogemann","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3634,"lemma":"Wissen","tf":7},

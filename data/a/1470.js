@@ -36,8 +36,8 @@ HWPH.put("a/1470",
  "persons":[
   {"id":14,"name":"E. Husserl","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":91,"name":"F. Brentano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":924,"name":"H. Spiegelberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":924,"name":"H. Spiegelberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2145,"lemma":"Noema","tf":3},

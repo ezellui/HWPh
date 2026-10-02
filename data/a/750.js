@@ -19,7 +19,7 @@ HWPH.put("a/750",
  "outlinks":[],
  "register":[{"term":"Reduktion von Komplexität","qualifier":"","band":"2","col":"538f."}],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":98,"name":"N. Luhmann","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":182,"name":"K. Lorenz","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":2306,"name":"D. Claessens","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},

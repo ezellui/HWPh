@@ -31,7 +31,7 @@ HWPH.put("a/680",
   {"id":1688,"name":"Thomas von Aquino","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1866,"name":"M. Knutzen","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":2123,"name":"G. Ploucquet","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8561,"name":"J. Firmicus Maternus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8562,"name":"J. Firmicus Maternus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":20035,"name":"Cardan","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":20036,"name":"Martin Ruland","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":2483,"name":"O. Bardenhewer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

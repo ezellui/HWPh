@@ -27,7 +27,7 @@ HWPH.put("a/1799",
   {"id":3152,"name":"J. Dryden","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":9393,"name":"Th. Dekker","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
   {"id":1253,"name":"R. Wellek","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":7828,"name":"F. E. Sparshott","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":7829,"name":"F. E. Sparshott","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[
   {"id":3586,"lemma":"Werk","tf":8},

@@ -906,22 +906,22 @@ HWPH.put("pat/12",
  6333:["(?<![\\p{L}\\p{N}])(?:BUTLER|Butler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. J. BUTLER"]],
  6334:["(?<![\\p{L}\\p{N}])(?:BOHM|Bohm)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. BOHM"]],
  6335:[
+  "(?<![\\p{L}\\p{N}])(?:MAO\\s+TSETUNGS|Mao\\s+Tsetungs|MAO\\s+TSETUNG|Mao\\s+Tsetung|Tsetungs|Tsetung)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["MAO TSETUNG","MAO TSETUNGS"]
+ ],
+ 6336:[
   "(?<![\\p{L}\\p{N}])(?:GRIMALDI|Grimaldi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["W. M. A. GRIMALDI","F. M. GRIMALDI","W. GRIMALDI","N. GRIMALDI"]
  ],
- 6336:["(?<![\\p{L}\\p{N}])(?:DELEKAT|Delekat)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DELEKAT"]],
- 6337:[
+ 6337:["(?<![\\p{L}\\p{N}])(?:DELEKAT|Delekat)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DELEKAT"]],
+ 6338:[
   "(?<![\\p{L}\\p{N}])(?:OISERMAN|Oiserman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["T. I. OISERMAN","T. J. OISERMAN"]
  ],
- 6338:["(?<![\\p{L}\\p{N}])(?:GUZZONI|Guzzoni)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. GUZZONI","A. GUZZONI"]],
- 6339:[
+ 6339:["(?<![\\p{L}\\p{N}])(?:GUZZONI|Guzzoni)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. GUZZONI","A. GUZZONI"]],
+ 6340:[
   "(?<![\\p{L}\\p{N}])(?:BACKHAUS|Backhaus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H.-G. BACKHAUS","K. BACKHAUS","G. BACKHAUS","J. BACKHAUS"]
- ],
- 6340:[
-  "(?<![\\p{L}\\p{N}])(?:MAO\\s+TSETUNGS|Mao\\s+Tsetungs|MAO\\s+TSETUNG|Mao\\s+Tsetung|Tsetungs|Tsetung)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["MAO TSETUNG","MAO TSETUNGS"]
  ],
  6341:[
   "(?<![\\p{L}\\p{N}])(?:GIANNANTONI|Giannantoni)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

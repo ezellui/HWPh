@@ -38,7 +38,7 @@ HWPH.put("a/1350",
   {"term":"Urwirklichkeit","qualifier":"(Reininger)","band":"4","col":"40"}
  ],
  "persons":[
-  {"id":1806,"name":"R. Reininger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1806,"name":"R. Reininger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1038,"name":"E. Heintel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],

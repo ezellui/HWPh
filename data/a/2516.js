@@ -29,7 +29,7 @@ HWPH.put("a/2516",
  ],
  "persons":[
   {"id":168,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":4257,"name":"H. F. Ellenberger","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":4256,"name":"H. F. Ellenberger","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":16755,"name":"C. T. Frey-Wehrlin","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":1572,"name":"D. Wyss","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1765,"name":"P. R. Hofstätter","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}

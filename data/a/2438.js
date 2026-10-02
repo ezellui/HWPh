@@ -21,7 +21,7 @@ HWPH.put("a/2438",
  "persons":[
   {"id":182,"name":"K. Lorenz","b":2,"n":5,"l":1,"editor":0,"role":"mixed"},
   {"id":311,"name":"M. Hess","b":2,"n":4,"l":1,"editor":0,"role":"source"},
-  {"id":8165,"name":"H. Moltz","b":2,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":8166,"name":"H. Moltz","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":426,"name":"Plinius","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3617,"name":"W. H. Thorpe","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":3862,"name":"G. Bateson","b":1,"n":1,"l":0,"editor":0,"role":"source"},

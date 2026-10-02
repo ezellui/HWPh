@@ -31,7 +31,7 @@ HWPH.put("a/103",
   {"id":86,"name":"P. Natorp","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":47,"name":"J. Habermas","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":461,"name":"G. Lehmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8449,"name":"H. Heyse","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
+  {"id":8450,"name":"H. Heyse","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
  ],
  "mentions":[
   {"id":3462,"lemma":"Vielheit","tf":3},

@@ -24,7 +24,7 @@ HWPH.put("a/2665",
  ],
  "persons":[
   {"id":102,"name":"Ch. S. Peirce","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":143,"name":"W. V. O. Quine","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":0,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":81,"name":"P. Lorenzen","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":275,"name":"P. Weiss","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":482,"name":"W. Kamlah","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

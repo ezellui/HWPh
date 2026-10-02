@@ -34,14 +34,14 @@ HWPH.put("a/2627",
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":108,"name":"C. Schmitt","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":526,"name":"E. Fink","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":924,"name":"H. Spiegelberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":16919,"name":"C. Macann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":16920,"name":"T. J. Stapleton","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":27332,"name":"R. J. Devettere","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":27333,"name":"M. Tavuzzi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":27334,"name":"T. L. Mazurak","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":27334,"name":"T. L. Mazurak","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":3052,"lemma":"Subjektivität","tf":5},

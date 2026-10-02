@@ -42,10 +42,10 @@ HWPH.put("a/1957",
   {"term":"Widerspruchsfreiheit","qualifier":"","band":"5","col":"1337"}
  ],
  "persons":[
-  {"id":221,"name":"D. Hilbert","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":221,"name":"D. Hilbert","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"G. Frege","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":305,"name":"A. Einstein","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":7939,"name":"M. Pasch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":7940,"name":"M. Pasch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":50,"name":"B. Spinoza","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":343,"name":"Euklid","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":386,"name":"H. Reichenbach","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
@@ -70,7 +70,7 @@ HWPH.put("a/1957",
   {"id":23935,"name":"J. J. Duistermaat","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1411,"name":"E. W. Beth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2102,"name":"H. Freudenthal","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":7695,"name":"J. A. Giles","b":1,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":7696,"name":"J. A. Giles","b":1,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":340,"lemma":"Axiom","tf":25},

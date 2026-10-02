@@ -30,7 +30,7 @@ HWPH.put("a/735",
   {"term":"Zahlen, natürliche","qualifier":"","band":"2","col":"490f."}
  ],
  "persons":[
-  {"id":221,"name":"D. Hilbert","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":221,"name":"D. Hilbert","b":2,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":369,"name":"G. Cantor","b":2,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -49,7 +49,7 @@ HWPH.put("a/735",
   {"id":172,"name":"H. Scholz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":434,"name":"H. Poincaré","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":862,"name":"V. Kraft","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":714,"name":"H. Weyl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":714,"name":"H. Weyl","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1868,"name":"S. Körner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4956,"name":"G. Hasenjäger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

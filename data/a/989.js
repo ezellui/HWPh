@@ -39,7 +39,7 @@ HWPH.put("a/989",
   {"id":5448,"name":"V. Benussi","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":669,"name":"Th. Herrmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1699,"name":"W. Witte","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":3961,"name":"E. Heuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":3960,"name":"E. Heuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1117,"lemma":"Gestalten, physische","tf":4},

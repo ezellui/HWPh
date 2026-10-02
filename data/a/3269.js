@@ -34,7 +34,7 @@ HWPH.put("a/3269",
   {"term":"zirkumskriptiv","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":8386,"name":"Brandy","b":0,"n":5,"l":0,"editor":0,"role":"scholar"},
+  {"id":8387,"name":"Brandy","b":0,"n":5,"l":0,"editor":0,"role":"scholar"},
   {"id":5,"name":"Thomas von Aquin","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":22,"name":"M. Luther","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":262,"name":"Gabriel Biel","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},

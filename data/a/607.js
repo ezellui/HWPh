@@ -73,7 +73,7 @@ HWPH.put("a/607",
   {"id":1833,"name":"Baur","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2951,"name":"Themistios","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4448,"name":"Orosius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":3940,"name":"Wilhelm","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3939,"name":"Wilhelm","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":13830,"name":"Anastasius Bibliothecarius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":19953,"name":"Florus von Lyon","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":735,"name":"M.-D. Chenu","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -82,7 +82,7 @@ HWPH.put("a/607",
   {"id":1413,"name":"G. Friedlein","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
   {"id":3440,"name":"M.-M. Davy","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":13829,"name":"Stewart-Rand","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":3977,"name":"G. Morel","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":3976,"name":"G. Morel","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1526,"lemma":"Kanon","tf":3},

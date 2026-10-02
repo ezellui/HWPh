@@ -48,7 +48,7 @@ HWPH.put("a/241",
   {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":554,"name":"H. W. Arndt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":201,"name":"F. Kaulbach","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
-  {"id":8532,"name":"F. Klemm","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":8533,"name":"F. Klemm","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3639,"lemma":"Wissenschaften, schöne","tf":7},

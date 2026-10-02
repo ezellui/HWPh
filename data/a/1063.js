@@ -26,13 +26,13 @@ HWPH.put("a/1063",
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":1216,"name":"K. Schuhmann","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":71,"name":"H.-G. Gadamer","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":731,"name":"E. W. Orth","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":2830,"name":"P. Janssen","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":5661,"name":"A. Aguirre","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":532,"name":"A. Schütz","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":2,"l":1,"editor":1,"role":"scholar"}
+  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":532,"name":"A. Schütz","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[
   {"id":691,"lemma":"Einstellung","tf":13},

@@ -19,7 +19,7 @@ HWPH.put("a/636",
  "outlinks":[{"id":3231,"lemma":"Trinität","n":1}],
  "register":[],
  "persons":[
-  {"id":4025,"name":"M. Lexer","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":4024,"name":"M. Lexer","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":73,"name":"Eckhart","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":4430,"name":"E. G. Graff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":884,"name":"F. Pfeiffer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

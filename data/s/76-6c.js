@@ -19,7 +19,7 @@ HWPH.put("s/76-6c",
  "vleugels":"1g6:0,1,2 2:0,0,0,1",
  "vliegen":"1y8:0,0,3,1",
  "vlijanii":"1f8:0,0,0,1",
- "vltra":"1td:0,0,0,1",
+ "vltra":"1td:0,1",
  "vluyn":"1ri:0,0,0,1"
 }
 );

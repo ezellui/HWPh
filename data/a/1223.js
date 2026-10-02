@@ -21,7 +21,7 @@ HWPH.put("a/1223",
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":802,"name":"N. Elias","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":92,"name":"A. Gehlen","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":422,"name":"K. Mannheim","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[],

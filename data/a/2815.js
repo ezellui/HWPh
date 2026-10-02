@@ -36,7 +36,7 @@ HWPH.put("a/2815",
  ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8202,"name":"G. Seubold","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8203,"name":"G. Seubold","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5908,"name":"G. Haeffner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6843,"name":"H. Seigfried","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":28552,"name":"E. Weinmayr","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

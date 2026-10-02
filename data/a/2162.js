@@ -33,7 +33,7 @@ HWPH.put("a/2162",
  "outlinks":[],
  "register":[{"term":"logische Normalformen","qualifier":"","band":null,"col":null}],
  "persons":[
-  {"id":221,"name":"D. Hilbert","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":221,"name":"D. Hilbert","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":564,"name":"C. I. Lewis","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":831,"name":"P. Bernays","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],

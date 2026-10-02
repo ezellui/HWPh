@@ -21,7 +21,7 @@ HWPH.put("a/1015",
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":215,"name":"D. F. Strauss","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":4087,"name":"F. A. Philippi","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4086,"name":"F. A. Philippi","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":63,"name":"K. Barth","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2632,"name":"Ch. E. Luthardt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

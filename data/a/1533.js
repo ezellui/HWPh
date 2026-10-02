@@ -24,7 +24,7 @@ HWPH.put("a/1533",
   {"id":662,"name":"W. E. Mühlmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3005,"name":"M. Mandelbaum","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2741,"name":"C. Bouglé","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4037,"name":"G. Myrdal","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4036,"name":"G. Myrdal","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1857,"name":"W. Bernsdorf","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":893,"lemma":"Familie, Ehe","tf":2},{"id":1930,"lemma":"Merkmal","tf":3}],

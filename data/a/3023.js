@@ -46,7 +46,7 @@ HWPH.put("a/3023",
  "persons":[
   {"id":107,"name":"W. Schneider","b":1,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":2866,"name":"E. von Holst","b":1,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":4083,"name":"R. M. Shiffrin","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":4082,"name":"R. M. Shiffrin","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":2807,"name":"W. Prinz","b":0,"n":2,"l":2,"editor":0,"role":"scholar"},
   {"id":3023,"name":"A. F. Sanders","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":19,"name":"N. Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},

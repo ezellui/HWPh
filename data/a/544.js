@@ -34,13 +34,13 @@ HWPH.put("a/544",
   {"id":1418,"name":"N. Boileau","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":2473,"name":"R. M. Rilke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":3401,"name":"E. Gibbon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":4010,"name":"Hofmannsthal","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":4009,"name":"Hofmannsthal","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":4928,"name":"P. Verlaine","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":7306,"name":"H. Bahr","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":522,"name":"E. R. Curtius","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":931,"name":"A. Harnack","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":3682,"name":"H. Mayer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8610,"name":"J. Sydow","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8611,"name":"J. Sydow","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":3700,"lemma":"Zivilisation","tf":2},

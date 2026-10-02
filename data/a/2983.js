@@ -40,7 +40,7 @@ HWPH.put("a/2983",
  "persons":[
   {"id":32,"name":"L. Wittgenstein","b":2,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":46,"name":"B. Russell","b":3,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":144,"name":"G. E. Moore","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":144,"name":"G. E. Moore","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":21,"name":"J. Locke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":36,"name":"R. Carnap","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"G. Frege","b":2,"n":0,"l":0,"editor":0,"role":"source"},
@@ -52,11 +52,11 @@ HWPH.put("a/2983",
   {"id":3,"name":"Platon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":69,"name":"K. R. Popper","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":663,"name":"G. Bergmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":805,"name":"F. Waismann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":805,"name":"F. Waismann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3283,"name":"H. Schleichert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8461,"name":"M. J. Charlesworth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8462,"name":"M. J. Charlesworth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":592,"name":"P. A. Schilpp","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":16421,"name":"G. H. Reitzig","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":16423,"name":"G. H. Reitzig","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2861,"lemma":"Semantik, semantisch","tf":2},

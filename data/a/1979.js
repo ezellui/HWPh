@@ -31,7 +31,7 @@ HWPH.put("a/1979",
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":7734,"name":"E. Wohlwill","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
+  {"id":7735,"name":"E. Wohlwill","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":158,"name":"Empedokles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":228,"name":"J. Jungius","b":1,"n":1,"l":0,"editor":0,"role":"source"},

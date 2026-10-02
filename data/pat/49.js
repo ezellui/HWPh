@@ -515,65 +515,65 @@ HWPH.put("pat/49",
   ["von LA BOÉTIE"]
  ],
  24774:["(?<![\\p{L}\\p{N}])(?:SCHUHL|Schuhl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P.-M. SCHUHL"]],
- 24775:[
-  "(?<![\\p{L}\\p{N}])(?:VON\\s+SHYRESWOOD|von\\s+Shyreswood|Shyreswood)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["W. VON SHYRESWOOD"]
- ],
+ 24775:["(?<![\\p{L}\\p{N}])(?:FREDEGISUS|Fredegisus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FREDEGISUS"]],
  24776:[
-  "(?<![\\p{L}\\p{N}])(?:FRANCISCUS\\s+VON\\s+MEYRONNES|Franciscus\\s+von\\s+Meyronnes|Meyronnes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["FRANCISCUS VON MEYRONNES"]
- ],
- 24777:[
-  "(?<![\\p{L}\\p{N}])(?:JOSEF\\s+ben\\s+SCHALONN|Josef\\s+ben\\s+Schalonn|Schalonn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["JOSEF ben SCHALONN"]
- ],
- 24778:[
-  "(?<![\\p{L}\\p{N}])(?:METRODOROS\\s+VON\\s+CHIOS|Metrodoros\\s+von\\s+Chios|Chios)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["METRODOROS VON CHIOS"]
- ],
- 24779:["(?<![\\p{L}\\p{N}])(?:FREDEGISI|Fredegisi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. \nFREDEGISI"]],
- 24780:[
-  "(?<![\\p{L}\\p{N}])(?:GUILLELMI\\s+de\\s+SHIRESWODE|Guillelmi\\s+de\\s+Shireswode|Shireswode)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["GUILLELMI de SHIRESWODE"]
- ],
- 24781:["(?<![\\p{L}\\p{N}])(?:JUNDT|Jundt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. JUNDT"]],
- 24782:["(?<![\\p{L}\\p{N}])(?:SCHOOCHIUS|Schoochius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. SCHOOCHIUS"]],
- 24783:["(?<![\\p{L}\\p{N}])(?:GOTZ|Gotz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. GOTZ"]],
- 24784:[
-  "(?<![\\p{L}\\p{N}])(?:PETRI\\s+FONSECAE|Petri\\s+Fonsecae|Fonsecae)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["PETRI FONSECAE"]
- ],
- 24785:["(?<![\\p{L}\\p{N}])(?:GOCLENII|Goclenii)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. GOCLENII"]],
- 24786:["(?<![\\p{L}\\p{N}])(?:CLAUBERGII|Claubergii)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. CLAUBERGII"]],
- 24787:["(?<![\\p{L}\\p{N}])(?:VELTHEIM|Veltheim)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. VELTHEIM"]],
- 24788:["(?<![\\p{L}\\p{N}])(?:CRUZ|Cruz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["la CRUZ"]],
- 24789:[
-  "(?<![\\p{L}\\p{N}])(?:DANIEL\\s+VON\\s+CZEPKO|Daniel\\s+von\\s+Czepko|Czepko)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["DANIEL VON CZEPKO"]
- ],
- 24790:["(?<![\\p{L}\\p{N}])(?:ORTNER|Ortner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ORTNER"]],
- 24791:[
-  "(?<![\\p{L}\\p{N}])(?:MICHAELIDES|Michaelides)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["C. P. MICHAELIDES"]
- ],
- 24792:["(?<![\\p{L}\\p{N}])(?:PANON|Panon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. PANON"]],
- 24793:["(?<![\\p{L}\\p{N}])(?:FREDEGISUS|Fredegisus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FREDEGISUS"]],
- 24794:[
   "(?<![\\p{L}\\p{N}])(?:JACOB\\s+BÖHME|Jacob\\s+Böhme|Böhme)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["JACOB BÖHME"]
  ],
- 24795:["(?<![\\p{L}\\p{N}])(?:DUCLOW|Duclow)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. F. DUCLOW"]],
- 24796:[
-  "(?<![\\p{L}\\p{N}])(?:MAYS\\s+VALLENILLA|Mays\\s+Vallenilla|Vallenilla)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["E. MAYS VALLENILLA"]
+ 24777:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+SHYRESWOOD|von\\s+Shyreswood|Shyreswood)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["W. VON SHYRESWOOD"]
  ],
- 24797:["(?<![\\p{L}\\p{N}])(?:CARLSTADT|Carlstadt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CARLSTADT"]],
- 24798:[
+ 24778:[
+  "(?<![\\p{L}\\p{N}])(?:FRANCISCUS\\s+VON\\s+MEYRONNES|Franciscus\\s+von\\s+Meyronnes|Meyronnes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["FRANCISCUS VON MEYRONNES"]
+ ],
+ 24779:[
+  "(?<![\\p{L}\\p{N}])(?:JOSEF\\s+ben\\s+SCHALONN|Josef\\s+ben\\s+Schalonn|Schalonn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["JOSEF ben SCHALONN"]
+ ],
+ 24780:["(?<![\\p{L}\\p{N}])(?:CARLSTADT|Carlstadt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CARLSTADT"]],
+ 24781:[
   "(?<![\\p{L}\\p{N}])(?:DANIEL\\s+CZEPKO|Daniel\\s+Czepko|Czepko)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["DANIEL CZEPKO"]
  ],
- 24799:["(?<![\\p{L}\\p{N}])(?:HEEGER|Heeger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. HEEGER"]],
- 24800:["(?<![\\p{L}\\p{N}])(?:LEDPARDIS|Ledpardis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. LEDPARDIS"]],
+ 24782:["(?<![\\p{L}\\p{N}])(?:LEDPARDIS|Ledpardis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. LEDPARDIS"]],
+ 24783:[
+  "(?<![\\p{L}\\p{N}])(?:METRODOROS\\s+VON\\s+CHIOS|Metrodoros\\s+von\\s+Chios|Chios)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["METRODOROS VON CHIOS"]
+ ],
+ 24784:["(?<![\\p{L}\\p{N}])(?:FREDEGISI|Fredegisi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. \nFREDEGISI"]],
+ 24785:[
+  "(?<![\\p{L}\\p{N}])(?:GUILLELMI\\s+de\\s+SHIRESWODE|Guillelmi\\s+de\\s+Shireswode|Shireswode)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["GUILLELMI de SHIRESWODE"]
+ ],
+ 24786:["(?<![\\p{L}\\p{N}])(?:JUNDT|Jundt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. JUNDT"]],
+ 24787:["(?<![\\p{L}\\p{N}])(?:SCHOOCHIUS|Schoochius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. SCHOOCHIUS"]],
+ 24788:["(?<![\\p{L}\\p{N}])(?:GOTZ|Gotz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. GOTZ"]],
+ 24789:[
+  "(?<![\\p{L}\\p{N}])(?:PETRI\\s+FONSECAE|Petri\\s+Fonsecae|Fonsecae)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["PETRI FONSECAE"]
+ ],
+ 24790:["(?<![\\p{L}\\p{N}])(?:GOCLENII|Goclenii)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. GOCLENII"]],
+ 24791:["(?<![\\p{L}\\p{N}])(?:CLAUBERGII|Claubergii)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. CLAUBERGII"]],
+ 24792:["(?<![\\p{L}\\p{N}])(?:VELTHEIM|Veltheim)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. VELTHEIM"]],
+ 24793:["(?<![\\p{L}\\p{N}])(?:CRUZ|Cruz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["la CRUZ"]],
+ 24794:[
+  "(?<![\\p{L}\\p{N}])(?:DANIEL\\s+VON\\s+CZEPKO|Daniel\\s+von\\s+Czepko|Czepko)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["DANIEL VON CZEPKO"]
+ ],
+ 24795:["(?<![\\p{L}\\p{N}])(?:ORTNER|Ortner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ORTNER"]],
+ 24796:[
+  "(?<![\\p{L}\\p{N}])(?:MICHAELIDES|Michaelides)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["C. P. MICHAELIDES"]
+ ],
+ 24797:["(?<![\\p{L}\\p{N}])(?:PANON|Panon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. PANON"]],
+ 24798:["(?<![\\p{L}\\p{N}])(?:DUCLOW|Duclow)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. F. DUCLOW"]],
+ 24799:[
+  "(?<![\\p{L}\\p{N}])(?:MAYS\\s+VALLENILLA|Mays\\s+Vallenilla|Vallenilla)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["E. MAYS VALLENILLA"]
+ ],
+ 24800:["(?<![\\p{L}\\p{N}])(?:HEEGER|Heeger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. HEEGER"]],
  24801:[
   "(?<![\\p{L}\\p{N}])(?:KAHL-FURTMANN|Kahl-Furtmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["G. KAHL-FURTMANN"]

@@ -28,7 +28,7 @@ HWPH.put("a/797",
   {"id":62,"name":"Wilhelm von Ockham","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":187,"name":"E. Gilson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1899,"name":"L. Baudry","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8786,"name":"R. O. Messner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8787,"name":"R. O. Messner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":77,"name":"Ch. Adam","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":106,"name":"P. Tannery","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":400,"name":"Ph. Boehner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

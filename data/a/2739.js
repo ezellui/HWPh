@@ -25,7 +25,7 @@ HWPH.put("a/2739",
  "persons":[
   {"id":559,"name":"E. Frauwallner","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":5313,"name":"G. J. Larson","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
-  {"id":12277,"name":"K. C. Bhattacharya","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":12281,"name":"K. C. Bhattacharya","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2794,"lemma":"Seele","tf":7},

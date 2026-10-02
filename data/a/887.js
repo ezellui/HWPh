@@ -24,7 +24,7 @@ HWPH.put("a/887",
   {"term":"wildes Denken","qualifier":"","band":"2","col":"885"}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":2,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":2,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":341,"name":"H. Schelsky","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":363,"name":"C. Lévi-Strauss","b":1,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":1765,"name":"P. R. Hofstätter","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},

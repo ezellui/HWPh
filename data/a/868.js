@@ -20,7 +20,7 @@ HWPH.put("a/868",
  "register":[],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":527,"lemma":"Dasein","tf":2},{"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2}],
  "see_also":[{"id":129,"lemma":"Analytik des Daseins"}],

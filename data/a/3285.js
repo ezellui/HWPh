@@ -47,7 +47,7 @@ HWPH.put("a/3285",
   {"term":"Vieldeutigkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":143,"name":"W. V. O. Quine","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":558,"name":"R. Ingarden","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1510,"name":"W. Iser","b":1,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":10343,"name":"M. Pinkal","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},

@@ -29,7 +29,7 @@ HWPH.put("a/79",
   {"id":685,"name":"M. Blondel","b":0,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":18985,"name":"Maurice Blondel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":5400,"name":"H. Bouillard","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8439,"name":"U. Hommes","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8440,"name":"U. Hommes","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13382,"name":"H. Duméry","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":18987,"name":"R. Saint-Jean","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":18986,"name":"F. Lefévre","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

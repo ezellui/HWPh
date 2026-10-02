@@ -28,7 +28,7 @@ HWPH.put("a/2104",
   {"id":46,"name":"B. Russell","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"G. Frege","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":194,"name":"A. N. Whitehead","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":221,"name":"D. Hilbert","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":221,"name":"D. Hilbert","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1037,"name":"A. Heyting","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[{"id":2745,"lemma":"Satz","tf":3},{"id":309,"lemma":"Aussage","tf":2}],

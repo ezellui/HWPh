@@ -23,7 +23,7 @@ HWPH.put("a/195",
   {"term":"Überschuss","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":23,"name":"M. Scheler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1132,"name":"A. Mitscherlich","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

@@ -35,7 +35,7 @@ HWPH.put("a/2864",
  ],
  "persons":[
   {"id":102,"name":"Ch. S. Peirce","b":1,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":531,"name":"Ch. W. Morris","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":531,"name":"Ch. W. Morris","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":297,"name":"F. de Saussure","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":478,"name":"R. Jakobson","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2236,"name":"Philodemus","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},

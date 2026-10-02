@@ -49,7 +49,7 @@ HWPH.put("a/1571",
   {"id":262,"name":"Gabriel Biel","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":463,"name":"G. B. Jäsche","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":318,"name":"G. Misch","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":3985,"name":"U. Franke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3984,"name":"U. Franke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2534,"name":"H. R. Schweizer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

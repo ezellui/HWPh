@@ -24,7 +24,7 @@ HWPH.put("a/85",
  "persons":[
   {"id":712,"name":"C. F. Graumann","b":1,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":907,"name":"F. Sander","b":1,"n":2,"l":1,"editor":0,"role":"mixed"},
-  {"id":3937,"name":"J. Linschoten","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":3936,"name":"J. Linschoten","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":7132,"name":"C. Weinschenk","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":738,"name":"H. Werner","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1076,"name":"K. Conrad","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

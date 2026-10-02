@@ -21,7 +21,7 @@ HWPH.put("a/1195",
  "persons":[
   {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":45,"name":"F. Engels","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":7609,"name":"M.-J. de Lafayette","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":7610,"name":"M.-J. de Lafayette","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":593,"name":"G. Jellinek","b":0,"n":0,"l":2,"editor":0,"role":"mixed"},
   {"id":136,"name":"J. Ritter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":754,"name":"H. Welzel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

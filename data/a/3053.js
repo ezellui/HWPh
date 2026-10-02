@@ -45,6 +45,7 @@ HWPH.put("a/3053",
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1842,"name":"K. Held","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":526,"name":"E. Fink","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":437,"name":"A. Diemer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2286,"name":"R. Boehm","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -58,8 +59,7 @@ HWPH.put("a/3053",
   {"id":17505,"name":"R. Lüthe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":30141,"name":"J. R. Kuehl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":30142,"name":"J. A. Tuedio","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":30143,"name":"D. Zahavi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":30143,"name":"D. Zahavi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2343,"lemma":"Phänomenologie","tf":4},

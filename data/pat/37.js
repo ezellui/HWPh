@@ -234,11 +234,11 @@ HWPH.put("pat/37",
  18629:["(?<![\\p{L}\\p{N}])(?:COLTHEART|Coltheart)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. COLTHEART"]],
  18630:["(?<![\\p{L}\\p{N}])(?:DANECKE|Danecke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. DANECKE","DANECKE"]],
  18631:["(?<![\\p{L}\\p{N}])(?:ACKEREN|Ackeren)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. van ACKEREN"]],
- 18632:["(?<![\\p{L}\\p{N}])(?:GREVILLE|Greville)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. GREVILLE"]],
- 18633:[
+ 18632:[
   "(?<![\\p{L}\\p{N}])(?:RICHARD\\s+FERIBRIGGE|Richard\\s+Feribrigge|Feribrigge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["von RICHARD FERIBRIGGE","RICHARD FERIBRIGGE"]
+  ["RICHARD FERIBRIGGE","von RICHARD FERIBRIGGE"]
  ],
+ 18633:["(?<![\\p{L}\\p{N}])(?:GREVILLE|Greville)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. GREVILLE"]],
  18634:["(?<![\\p{L}\\p{N}])(?:HORWICH|Horwich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. HORWICH"]],
  18635:["(?<![\\p{L}\\p{N}])(?:NEAL|Neal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. NEAL"]],
  18636:[
@@ -593,29 +593,29 @@ HWPH.put("pat/37",
   ["von THOMAS WYLTON","THOMAS WYLTON"]
  ],
  18849:[
-  "(?<![\\p{L}\\p{N}])(?:KEIJI\\s+NISHITANI|Keiji\\s+Nishitani|Nishitani)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["KEIJI NISHITANI"]
- ],
- 18850:[
-  "(?<![\\p{L}\\p{N}])(?:JONES\\.\\s+CCSL|Jones\\.\\s+Ccsl|Ccsl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["CH. W. JONES. CCSL"]
- ],
- 18851:["(?<![\\p{L}\\p{N}])(?:MARBRES|Marbres)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["JOH. MARBRES"]],
- 18852:[
   "(?<![\\p{L}\\p{N}])(?:SAADIA\\s+ben\\s+JOSEPH|Saadia\\s+ben\\s+Joseph|Joseph)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["SAADIA ben JOSEPH"]
  ],
- 18853:[
+ 18850:[
   "(?<![\\p{L}\\p{N}])(?:LEWI\\s+ben\\s+GERSON|Lewi\\s+ben\\s+Gerson|Gerson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["LEWI ben GERSON"]
  ],
- 18854:["(?<![\\p{L}\\p{N}])(?:CHIJJA|Chijja)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CHIJJA"]],
- 18855:["(?<![\\p{L}\\p{N}])(?:TWERSKY|Twersky)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. TWERSKY"]],
- 18856:[
+ 18851:["(?<![\\p{L}\\p{N}])(?:CHIJJA|Chijja)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CHIJJA"]],
+ 18852:[
   "(?<![\\p{L}\\p{N}])(?:ABRAHAM\\s+ibn\\s+EZRA|Abraham\\s+ibn\\s+Ezra|Ezra)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["ABRAHAM ibn EZRA"]
  ],
- 18857:["(?<![\\p{L}\\p{N}])(?:BORGES|Borges)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. L. BORGES"]],
+ 18853:["(?<![\\p{L}\\p{N}])(?:BORGES|Borges)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. L. BORGES"]],
+ 18854:[
+  "(?<![\\p{L}\\p{N}])(?:KEIJI\\s+NISHITANI|Keiji\\s+Nishitani|Nishitani)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["KEIJI NISHITANI"]
+ ],
+ 18855:[
+  "(?<![\\p{L}\\p{N}])(?:JONES\\.\\s+CCSL|Jones\\.\\s+Ccsl|Ccsl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["CH. W. JONES. CCSL"]
+ ],
+ 18856:["(?<![\\p{L}\\p{N}])(?:MARBRES|Marbres)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["JOH. MARBRES"]],
+ 18857:["(?<![\\p{L}\\p{N}])(?:TWERSKY|Twersky)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. TWERSKY"]],
  18858:["(?<![\\p{L}\\p{N}])(?:DEVLIN|Devlin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. P. DEVLIN","P. DEVLIN"]],
  18859:["(?<![\\p{L}\\p{N}])(?:COVA|Cova)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. COVA"]],
  18860:["(?<![\\p{L}\\p{N}])(?:CAPASSO|Capasso)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. CAPASSO"]],

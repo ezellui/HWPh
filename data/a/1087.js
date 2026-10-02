@@ -41,7 +41,7 @@ HWPH.put("a/1087",
   {"id":154,"name":"J. Böhme","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":426,"name":"Plinius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":562,"name":"Th. Geiger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8936,"name":"F. Gottl","b":0,"n":1,"l":0,"editor":0,"role":"source"}
+  {"id":8937,"name":"F. Gottl","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[
   {"id":1090,"lemma":"Geschichtlichkeit","tf":5},

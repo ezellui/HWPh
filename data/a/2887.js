@@ -34,7 +34,7 @@ HWPH.put("a/2887",
  "persons":[
   {"id":60,"name":"J. S. Mill","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":143,"name":"W. V. O. Quine","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":0,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":287,"name":"E. Tugendhat","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":1309,"name":"U. Wolf","b":0,"n":1,"l":1,"editor":0,"role":"scholar"}
  ],

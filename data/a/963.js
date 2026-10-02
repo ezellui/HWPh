@@ -23,9 +23,9 @@ HWPH.put("a/963",
   {"term":"Weltorientierung","qualifier":"(Gehlen)","band":"2","col":"1129"}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":3,"n":1,"l":2,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":3,"n":1,"l":2,"editor":0,"role":"source"},
   {"id":2968,"name":"M. Hauriou","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":8592,"name":"Carl Schmitt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8593,"name":"Carl Schmitt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":14115,"name":"Claude Bernard","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":108,"name":"C. Schmitt","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":341,"name":"H. Schelsky","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},

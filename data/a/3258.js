@@ -70,7 +70,7 @@ HWPH.put("a/3258",
   {"id":13063,"name":"J. G. Ph. Borleffs","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":13176,"name":"J. F. Callahan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":17394,"name":"D. Pingree","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":16424,"name":"J. B. Pitra","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":16426,"name":"J. B. Pitra","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":31487,"name":"T. Gaisford","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

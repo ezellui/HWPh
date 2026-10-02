@@ -30,7 +30,7 @@ HWPH.put("a/2107",
   {"id":24,"name":"S. Freud","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":2146,"name":"M. M. Gill","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":5671,"name":"J. P. Spiegel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8013,"name":"H. Thomä","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8014,"name":"H. Thomä","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":24650,"name":"R. L. Munroe","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":24651,"name":"J. Scharfenberg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],

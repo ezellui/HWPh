@@ -21,7 +21,7 @@ HWPH.put("a/704",
  "persons":[
   {"id":149,"name":"H. Bergson","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2009,"name":"V. Jankélévitch","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":8738,"name":"H. Sundén","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8739,"name":"H. Sundén","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":20076,"name":"E. Rideau","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":20077,"name":"J. Delhomme","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

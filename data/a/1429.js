@@ -23,7 +23,7 @@ HWPH.put("a/1429",
   {"id":137,"name":"W. James","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":178,"name":"H. Albert","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":11347,"name":"I. C. Lieb","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8814,"name":"D. Savan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8815,"name":"D. Savan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":14704,"name":"J. Mcdermott","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":891,"lemma":"Fallibilismus","tf":6},{"id":3634,"lemma":"Wissen","tf":4}],

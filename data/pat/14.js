@@ -184,11 +184,11 @@ HWPH.put("pat/14",
  7070:["(?<![\\p{L}\\p{N}])(?:LECOURT|Lecourt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. LECOURT"]],
  7071:["(?<![\\p{L}\\p{N}])(?:CHESS|Chess)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. CHESS","CHESS"]],
  7072:["(?<![\\p{L}\\p{N}])(?:PLOMIN|Plomin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. PLOMIN","PLOMIN"]],
- 7073:[
+ 7073:["(?<![\\p{L}\\p{N}])(?:SCHIEMANN|Schiemann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. SCHIEMANN"]],
+ 7074:[
   "(?<![\\p{L}\\p{N}])(?:OFFERGELD\\.|Offergeld\\.|OFFERGELD|Offergeld)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["TH. OFFERGELD.","TH. OFFERGELD","OFFERGELD","T. OFFERGELD"]
  ],
- 7074:["(?<![\\p{L}\\p{N}])(?:SCHIEMANN|Schiemann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. SCHIEMANN"]],
  7075:[
   "(?<![\\p{L}\\p{N}])(?:ALTIZERS|Altizers|ALTIZER|Altizer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["TH. J. J. ALTIZER","ALTIZER","TH. J. J. ALTIZERS"]

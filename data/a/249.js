@@ -19,7 +19,7 @@ HWPH.put("a/249",
  "outlinks":[],
  "register":[],
  "persons":[
-  {"id":8537,"name":"Ph. van Limborch","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":8538,"name":"Ph. van Limborch","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":29,"name":"F. D. E. Schleiermacher","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":31,"name":"W. Dilthey","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":345,"name":"H. Grotius","b":0,"n":1,"l":0,"editor":0,"role":"source"},

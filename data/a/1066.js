@@ -62,13 +62,13 @@ HWPH.put("a/1066",
   {"id":296,"name":"T. H. Green","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1152,"name":"T. H. Grose","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1142,"name":"W. Biemel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8845,"name":"F. Mentré","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":8846,"name":"F. Mentré","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1739,"lemma":"Lebensalter","tf":2},
   {"id":3632,"lemma":"Wirkungszusammenhang, historischer","tf":2},
-  {"id":1059,"lemma":"Genealogie","tf":2},
   {"id":366,"lemma":"Begriffsbildung","tf":3},
+  {"id":1059,"lemma":"Genealogie","tf":2},
   {"id":1151,"lemma":"Gleichzeitigkeit","tf":2},
   {"id":3693,"lemma":"Zeugung","tf":2},
   {"id":1676,"lemma":"Kosmologie","tf":2},

@@ -22,7 +22,7 @@ HWPH.put("a/337",
   {"id":1627,"name":"P. Hacker","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":559,"name":"E. Frauwallner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4378,"name":"Hacker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8571,"name":"Buddha","b":1,"n":0,"l":0,"editor":0,"role":"source"}
+  {"id":8572,"name":"Buddha","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[
   {"id":453,"lemma":"Brahman","tf":2},

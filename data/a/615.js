@@ -19,7 +19,7 @@ HWPH.put("a/615",
  "outlinks":[],
  "register":[{"term":"Zerfall","qualifier":"","band":null,"col":null}],
  "persons":[
-  {"id":8717,"name":"S. Arrhenius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8718,"name":"S. Arrhenius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19955,"name":"H. E. St-Claire Deville","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":3200,"name":"J. C. Schwab","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":7350,"name":"L. Hock","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

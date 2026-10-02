@@ -22,7 +22,7 @@ HWPH.put("a/357",
   {"term":"Prägung","qualifier":"(Gehlen)","band":"1","col":"773"}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":1,"n":2,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":2,"l":1,"editor":0,"role":"source"},
   {"id":10651,"name":"H. Bürger-Prinz","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":353,"name":"H. Jonas","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1641,"name":"F. Jonas","b":1,"n":1,"l":1,"editor":1,"role":"scholar"}

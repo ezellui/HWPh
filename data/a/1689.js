@@ -19,7 +19,7 @@ HWPH.put("a/1689",
  "outlinks":[],
  "register":[],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":4,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":4,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":341,"name":"H. Schelsky","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":763,"name":"Weizsäcker","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":723,"name":"G. H. Mead","b":1,"n":0,"l":0,"editor":0,"role":"source"}

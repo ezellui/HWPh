@@ -35,7 +35,7 @@ HWPH.put("a/841",
   {"id":190,"name":"Alexander von Aphrodisias","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":260,"name":"C. Prantl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":287,"name":"E. Tugendhat","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":416,"name":"V. Cousin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":416,"name":"V. Cousin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":591,"name":"F. Medicus","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":837,"name":"C. Berton","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

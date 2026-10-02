@@ -22,7 +22,7 @@ HWPH.put("a/347",
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":31,"name":"W. Dilthey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":202,"name":"E. Spranger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":202,"name":"E. Spranger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":254,"name":"E. Rothacker","b":1,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[{"id":527,"lemma":"Dasein","tf":2}],

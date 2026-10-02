@@ -23,7 +23,7 @@ HWPH.put("a/1756",
  ],
  "persons":[
   {"id":15190,"name":"A. Butenko","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":3194,"name":"M. B. Mitin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3193,"name":"M. B. Mitin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":22953,"name":"G. Glezerman","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":22954,"name":"Lada","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":22955,"name":"N. A. Aitov","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

@@ -323,7 +323,7 @@ HWPH.put("pat/6",
  ],
  3099:[
   "(?<![\\p{L}\\p{N}])(?:RAIMUNDUS\\s+SABUNDUS|Raimundus\\s+Sabundus|RAIM\\.\\s+SABUNDUS|RAIMUNDUS\\s+SAB\\.|Raim\\.\\s+Sabundus|Raimundus\\s+Sab\\.|Sabundus|Sab\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["RAIMUNDUS SABUNDUS","RAIMUNDUS SAB.","RAIM. SABUNDUS","von RAIMUNDUS SABUNDUS"]
+  ["RAIMUNDUS SABUNDUS","RAIMUNDUS SAB.","von RAIMUNDUS SABUNDUS","RAIM. SABUNDUS"]
  ],
  3100:["(?<![\\p{L}\\p{N}])(?:POINSOT|Poinsot)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["POINSOT","J. POINSOT"]],
  3101:[
@@ -634,11 +634,11 @@ HWPH.put("pat/6",
   "(?<![\\p{L}\\p{N}])(?:MARCKS|Marcks|MARCK|Marck)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["S. MARCK","E. MARCKS"]
  ],
- 3193:[
+ 3193:["(?<![\\p{L}\\p{N}])(?:MITIN|Mitin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. B. MITIN","M. MITIN"]],
+ 3194:[
   "(?<![\\p{L}\\p{N}])(?:ROTENSTREICH|Rotenstreich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["N. ROTENSTREICH","ROTENSTREICH"]
  ],
- 3194:["(?<![\\p{L}\\p{N}])(?:MITIN|Mitin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. B. MITIN","M. MITIN"]],
  3195:[
   "(?<![\\p{L}\\p{N}])(?:SEIDLER|Seidler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["E. SEIDLER","M. J. SEIDLER"]

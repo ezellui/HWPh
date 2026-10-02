@@ -41,7 +41,7 @@ HWPH.put("a/206",
   {"id":19307,"name":"Quadratus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":498,"name":"G. E. Müller","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":2202,"name":"K. Aland","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8466,"name":"E. Seiterich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8467,"name":"E. Seiterich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13541,"name":"M. Doerne","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":19308,"name":"J. Brunsmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":77,"name":"Ch. Adam","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}

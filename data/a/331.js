@@ -27,7 +27,7 @@ HWPH.put("a/331",
   {"term":"Urheber","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":8606,"name":"H. Steinhöwel","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8607,"name":"H. Steinhöwel","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":20,"name":"J. W. Goethe","b":2,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":449,"name":"J. H. Campe","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":0,"l":0,"editor":0,"role":"source"},

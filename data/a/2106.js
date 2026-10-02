@@ -119,7 +119,7 @@ HWPH.put("a/2106",
   {"id":1837,"lemma":"Lust, Freude","tf":3},
   {"id":650,"lemma":"Egoismus","tf":2},
   {"id":2696,"lemma":"Rest, metaphysischer","tf":2},
-  {"id":2029,"lemma":"Moralität, Sittlichkeit","tf":2}
+  {"id":723,"lemma":"Empfindung","tf":3}
  ],
  "see_also":[{"id":3229,"lemma":"Trieb"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Neigung"}],

@@ -33,7 +33,7 @@ HWPH.put("a/1169",
   {"id":6193,"name":"P. Descoqs","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10456,"name":"M. Rast","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1222,"name":"J. Schulte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":9020,"name":"M. Chossat","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":9021,"name":"M. Chossat","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2903,"lemma":"Sittlichkeit; Sittenlehre","tf":5},

@@ -39,7 +39,7 @@ HWPH.put("a/1897",
   {"id":5203,"name":"D. van Dantzig","b":2,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":81,"name":"P. Lorenzen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":450,"name":"K. Gödel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":4220,"name":"A. Kamlah","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4219,"name":"A. Kamlah","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":646,"name":"K. Mainzer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

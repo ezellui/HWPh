@@ -33,7 +33,7 @@ HWPH.put("a/1339",
   {"id":14101,"name":"I. Lana","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":21590,"name":"Francesco de Lana","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":21591,"name":"Ernst Bloch","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":4112,"name":"W. Schlesinger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":4111,"name":"W. Schlesinger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":3482,"lemma":"Vollkommenheit","tf":4},

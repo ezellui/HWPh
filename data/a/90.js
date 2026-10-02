@@ -20,7 +20,7 @@ HWPH.put("a/90",
  "register":[],
  "persons":[
   {"id":217,"name":"W. Stern","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":202,"name":"E. Spranger","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
+  {"id":202,"name":"E. Spranger","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[],
  "see_also":[],

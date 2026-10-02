@@ -24,7 +24,7 @@ HWPH.put("a/2771",
  ],
  "persons":[
   {"id":2430,"name":"A. Rüssel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":4081,"name":"A. Seitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4080,"name":"A. Seitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":15496,"name":"W. M. Schleidt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":2904,"lemma":"Situation","tf":2}],

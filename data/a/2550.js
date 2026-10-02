@@ -26,7 +26,7 @@ HWPH.put("a/2550",
   {"id":26973,"name":"W. Bednarowski","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":26974,"name":"Boole-De Morgan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":501,"name":"M. Kneale","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":7879,"name":"P. Heath","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":7880,"name":"P. Heath","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1149,"lemma":"Gleichung, persönliche","tf":2},

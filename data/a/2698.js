@@ -24,7 +24,7 @@ HWPH.put("a/2698",
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":283,"name":"J. Simon","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1507,"name":"A. Binet","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":6227,"name":"L. Bolk","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

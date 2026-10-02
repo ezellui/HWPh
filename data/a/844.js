@@ -63,7 +63,7 @@ HWPH.put("a/844",
   {"id":10459,"name":"Theodoros Atheos","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":14017,"name":"David Hume","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":2580,"name":"M. Heinze","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4065,"name":"R. Wisser","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4064,"name":"R. Wisser","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3634,"name":"J. Thyssen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

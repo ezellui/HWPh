@@ -33,7 +33,7 @@ HWPH.put("a/2967",
   {"id":3640,"name":"R. Lullus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":58,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":390,"name":"W. Risse","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":16394,"name":"I. Salzinger","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":16401,"name":"I. Salzinger","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[

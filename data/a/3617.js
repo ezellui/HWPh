@@ -61,7 +61,7 @@ HWPH.put("a/3617",
   {"id":304,"name":"O. Becker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":852,"name":"M. Eliade","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":752,"name":"G. Deleuze","b":0,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":8253,"name":"P. Klossowski","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":8254,"name":"P. Klossowski","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":88,"name":"G. Colli","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
   {"id":89,"name":"M. Montinari","b":0,"n":2,"l":0,"editor":1,"role":"scholar"}
  ],

@@ -19,7 +19,7 @@ HWPH.put("a/2222",
  "outlinks":[],
  "register":[{"term":"Psychologismus","qualifier":"","band":"6","col":"1203"}],
  "persons":[
-  {"id":2788,"name":"V. Gioberti","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2788,"name":"V. Gioberti","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2930,"name":"A. Rosmini-Serbati","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":164,"name":"N. Malebranche","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1141,"name":"J. Kleutgen","b":1,"n":0,"l":0,"editor":0,"role":"source"},

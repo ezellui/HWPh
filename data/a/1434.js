@@ -22,7 +22,7 @@ HWPH.put("a/1434",
   {"term":"Sublapsarismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":6253,"name":"S. Episcopius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":825,"name":"R. Seeberg","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":3391,"name":"K. R. Hagenbach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

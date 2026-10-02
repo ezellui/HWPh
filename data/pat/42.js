@@ -242,12 +242,12 @@ HWPH.put("pat/42",
   "(?<![\\p{L}\\p{N}])(?:RICHARD\\s+MIDDLETON|Richard\\s+Middleton|Middleton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["RICHARD MIDDLETON"]
  ],
- 21143:[
+ 21143:["(?<![\\p{L}\\p{N}])(?:FRANZISCUS|Franziscus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FRANZISCUS"]],
+ 21144:[
   "(?<![\\p{L}\\p{N}])(?:ROBERTOS\\s+PALLUS|Robertos\\s+Pallus|Pallus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["ROBERTOS PALLUS"]
  ],
- 21144:["(?<![\\p{L}\\p{N}])(?:BONNETTE|Bonnette)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. BONNETTE"]],
- 21145:["(?<![\\p{L}\\p{N}])(?:FRANZISCUS|Franziscus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FRANZISCUS"]],
+ 21145:["(?<![\\p{L}\\p{N}])(?:BONNETTE|Bonnette)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. BONNETTE"]],
  21146:["(?<![\\p{L}\\p{N}])(?:LEIWESMEIER|Leiwesmeier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. LEIWESMEIER"]],
  21147:["(?<![\\p{L}\\p{N}])(?:DRESSEL|Dressel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. DRESSEL"]],
  21148:["(?<![\\p{L}\\p{N}])(?:SECCHI|Secchi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. SECCHI"]],

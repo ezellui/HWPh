@@ -25,7 +25,7 @@ HWPH.put("a/764",
   {"id":385,"name":"Ch. M. Wieland","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":449,"name":"J. H. Campe","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":979,"name":"J. G. Gruber","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8756,"name":"Th. Heinsius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8757,"name":"Th. Heinsius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":163,"name":"F. Hoffmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

@@ -20,7 +20,7 @@ HWPH.put("a/1973",
  "register":[{"term":"Ethologie","qualifier":"","band":"5","col":"1393"}],
  "persons":[
   {"id":138,"name":"A. Comte","b":2,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":4599,"name":"E. Zola","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":4599,"name":"E. Zola","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":80,"name":"B. Pascal","b":1,"n":1,"l":0,"editor":0,"role":"source"},

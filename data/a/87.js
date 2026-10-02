@@ -28,7 +28,7 @@ HWPH.put("a/87",
   {"id":54,"name":"A. Schmidt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1556,"name":"J. Hessen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2077,"name":"A. Stöckl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8442,"name":"B. Kälin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8443,"name":"B. Kälin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":2066,"lemma":"Name","tf":2},{"id":2794,"lemma":"Seele","tf":2}],
  "see_also":[{"id":86,"lemma":"Aktualismus"},{"id":2794,"lemma":"Seele"}],

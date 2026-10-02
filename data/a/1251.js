@@ -22,7 +22,7 @@ HWPH.put("a/1251",
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":28,"name":"Plotin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":93,"name":"Proklos","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":416,"name":"V. Cousin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":416,"name":"V. Cousin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":291,"name":"F. Ueberweg","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":395,"name":"E. Zeller","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1824,"name":"K. Praechter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

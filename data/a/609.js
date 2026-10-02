@@ -51,7 +51,7 @@ HWPH.put("a/609",
   {"id":1273,"name":"Gellius","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":1484,"name":"Aulus Gellius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3606,"name":"M. Hertz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8716,"name":"C. Hosius","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8717,"name":"C. Hosius","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3355,"lemma":"Urteil","tf":4}],
  "see_also":[

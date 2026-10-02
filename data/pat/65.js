@@ -243,51 +243,51 @@ HWPH.put("pat/65",
   ["MARTIAN CAPELLAS"]
  ],
  32673:[
-  "(?<![\\p{L}\\p{N}])(?:AENESIDEMUS-SCHULZES|Aenesidemus-Schulzes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["AENESIDEMUS-SCHULZES"]
- ],
- 32674:["(?<![\\p{L}\\p{N}])(?:FLADERER|Fladerer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. FLADERER"]],
- 32675:[
-  "(?<![\\p{L}\\p{N}])(?:VON\\s+SIEBENTHAL|von\\s+Siebenthal|Siebenthal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["H. VON SIEBENTHAL"]
- ],
- 32676:["(?<![\\p{L}\\p{N}])(?:HERGENRÖDER|Hergenröder)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. HERGENRÖDER"]],
- 32677:["(?<![\\p{L}\\p{N}])(?:KLAUCK|Klauck)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H.-J. KLAUCK"]],
- 32678:["(?<![\\p{L}\\p{N}])(?:ATTRIDGE|Attridge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. W. ATTRIDGE"]],
- 32679:["(?<![\\p{L}\\p{N}])(?:LAYTON|Layton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. LAYTON"]],
- 32680:["(?<![\\p{L}\\p{N}])(?:SCHENKE|Schenke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H.-M. SCHENKE"]],
- 32681:["(?<![\\p{L}\\p{N}])(?:RING|Ring)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["RING"]],
- 32682:["(?<![\\p{L}\\p{N}])(?:VUILLAUME|Vuillaume)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. VUILLAUME"]],
- 32683:["(?<![\\p{L}\\p{N}])(?:KARAVITES|Karavites)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. KARAVITES"]],
- 32684:["(?<![\\p{L}\\p{N}])(?:BESOMI|Besomi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. BESOMI"]],
- 32685:["(?<![\\p{L}\\p{N}])(?:FERIBRIGGE|Feribrigge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. FERIBRIGGE"]],
- 32686:[
-  "(?<![\\p{L}\\p{N}])(?:DIDACUS\\s+RUIZ\\s+de\\s+MONTOYA|Didacus\\s+Ruiz\\s+de\\s+Montoya|Montoya)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["DIDACUS RUIZ de MONTOYA"]
- ],
- 32687:["(?<![\\p{L}\\p{N}])(?:GRAWER|Grawer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. GRAWER"]],
- 32688:["(?<![\\p{L}\\p{N}])(?:MERCADO|Mercado)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. de MERCADO"]],
- 32689:["(?<![\\p{L}\\p{N}])(?:BÖHLAU|Böhlau)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BÖHLAU"]],
- 32690:["(?<![\\p{L}\\p{N}])(?:GUEST|Guest)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. GUEST"]],
- 32691:["(?<![\\p{L}\\p{N}])(?:PÉREZ-RAMOS|Pérez-Ramos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. PÉREZ-RAMOS"]],
- 32692:[
-  "(?<![\\p{L}\\p{N}])(?:LAFONT-HURTADO|Lafont-Hurtado)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["C. LAFONT-HURTADO"]
- ],
- 32693:["(?<![\\p{L}\\p{N}])(?:MOSÈS|Mosès)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ST. MOSÈS"]],
- 32694:["(?<![\\p{L}\\p{N}])(?:PEREGRIN|Peregrin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. PEREGRIN"]],
- 32695:["(?<![\\p{L}\\p{N}])(?:MALACHOWSKI|Malachowski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. MALACHOWSKI"]],
- 32696:["(?<![\\p{L}\\p{N}])(?:ZEGLEN|Zeglen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. ZEGLEN"]],
- 32697:["(?<![\\p{L}\\p{N}])(?:KRAUT|Kraut)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. KRAUT"]],
- 32698:["(?<![\\p{L}\\p{N}])(?:PRITZL|Pritzl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. PRITZL"]],
- 32699:["(?<![\\p{L}\\p{N}])(?:CRIVELLI|Crivelli)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. CRIVELLI"]],
- 32700:["(?<![\\p{L}\\p{N}])(?:VILLALOBOS|Villalobos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. VILLALOBOS"]],
- 32701:["(?<![\\p{L}\\p{N}])(?:STIRNIMANN|Stirnimann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. STIRNIMANN"]],
- 32702:["(?<![\\p{L}\\p{N}])(?:ANSORGE|Ansorge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. ANSORGE"]],
- 32703:[
   "(?<![\\p{L}\\p{N}])(?:PETRUS\\s+VON\\s+MANTUA|Petrus\\s+von\\s+Mantua|Mantua)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["PETRUS VON MANTUA"]
  ],
+ 32674:[
+  "(?<![\\p{L}\\p{N}])(?:AENESIDEMUS-SCHULZES|Aenesidemus-Schulzes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["AENESIDEMUS-SCHULZES"]
+ ],
+ 32675:["(?<![\\p{L}\\p{N}])(?:FLADERER|Fladerer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. FLADERER"]],
+ 32676:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+SIEBENTHAL|von\\s+Siebenthal|Siebenthal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["H. VON SIEBENTHAL"]
+ ],
+ 32677:["(?<![\\p{L}\\p{N}])(?:HERGENRÖDER|Hergenröder)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. HERGENRÖDER"]],
+ 32678:["(?<![\\p{L}\\p{N}])(?:KLAUCK|Klauck)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H.-J. KLAUCK"]],
+ 32679:["(?<![\\p{L}\\p{N}])(?:ATTRIDGE|Attridge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. W. ATTRIDGE"]],
+ 32680:["(?<![\\p{L}\\p{N}])(?:LAYTON|Layton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. LAYTON"]],
+ 32681:["(?<![\\p{L}\\p{N}])(?:SCHENKE|Schenke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H.-M. SCHENKE"]],
+ 32682:["(?<![\\p{L}\\p{N}])(?:RING|Ring)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["RING"]],
+ 32683:["(?<![\\p{L}\\p{N}])(?:VUILLAUME|Vuillaume)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. VUILLAUME"]],
+ 32684:["(?<![\\p{L}\\p{N}])(?:KARAVITES|Karavites)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. KARAVITES"]],
+ 32685:["(?<![\\p{L}\\p{N}])(?:BESOMI|Besomi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. BESOMI"]],
+ 32686:["(?<![\\p{L}\\p{N}])(?:FERIBRIGGE|Feribrigge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. FERIBRIGGE"]],
+ 32687:[
+  "(?<![\\p{L}\\p{N}])(?:DIDACUS\\s+RUIZ\\s+de\\s+MONTOYA|Didacus\\s+Ruiz\\s+de\\s+Montoya|Montoya)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["DIDACUS RUIZ de MONTOYA"]
+ ],
+ 32688:["(?<![\\p{L}\\p{N}])(?:GRAWER|Grawer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. GRAWER"]],
+ 32689:["(?<![\\p{L}\\p{N}])(?:MERCADO|Mercado)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. de MERCADO"]],
+ 32690:["(?<![\\p{L}\\p{N}])(?:BÖHLAU|Böhlau)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BÖHLAU"]],
+ 32691:["(?<![\\p{L}\\p{N}])(?:GUEST|Guest)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. GUEST"]],
+ 32692:["(?<![\\p{L}\\p{N}])(?:PÉREZ-RAMOS|Pérez-Ramos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. PÉREZ-RAMOS"]],
+ 32693:[
+  "(?<![\\p{L}\\p{N}])(?:LAFONT-HURTADO|Lafont-Hurtado)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["C. LAFONT-HURTADO"]
+ ],
+ 32694:["(?<![\\p{L}\\p{N}])(?:MOSÈS|Mosès)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ST. MOSÈS"]],
+ 32695:["(?<![\\p{L}\\p{N}])(?:PEREGRIN|Peregrin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. PEREGRIN"]],
+ 32696:["(?<![\\p{L}\\p{N}])(?:MALACHOWSKI|Malachowski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. MALACHOWSKI"]],
+ 32697:["(?<![\\p{L}\\p{N}])(?:ZEGLEN|Zeglen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. ZEGLEN"]],
+ 32698:["(?<![\\p{L}\\p{N}])(?:KRAUT|Kraut)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. KRAUT"]],
+ 32699:["(?<![\\p{L}\\p{N}])(?:PRITZL|Pritzl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. PRITZL"]],
+ 32700:["(?<![\\p{L}\\p{N}])(?:CRIVELLI|Crivelli)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. CRIVELLI"]],
+ 32701:["(?<![\\p{L}\\p{N}])(?:VILLALOBOS|Villalobos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. VILLALOBOS"]],
+ 32702:["(?<![\\p{L}\\p{N}])(?:STIRNIMANN|Stirnimann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. STIRNIMANN"]],
+ 32703:["(?<![\\p{L}\\p{N}])(?:ANSORGE|Ansorge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. ANSORGE"]],
  32704:["(?<![\\p{L}\\p{N}])(?:BEDFORD|Bedford)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. D. BEDFORD"]],
  32705:["(?<![\\p{L}\\p{N}])(?:STREHLOW|Strehlow)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. STREHLOW"]],
  32706:["(?<![\\p{L}\\p{N}])(?:DE\\s+RUVO|de\\s+Ruvo|Ruvo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. DE RUVO"]],

@@ -24,8 +24,8 @@ HWPH.put("a/46",
  ],
  "persons":[
   {"id":295,"name":"Paracelsus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8429,"name":"Paulinus von Nola","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":3929,"name":"M. Hall","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":8430,"name":"Paulinus von Nola","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":3928,"name":"M. Hall","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1000,"name":"K. Sudhoff","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],

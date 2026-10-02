@@ -21,7 +21,7 @@ HWPH.put("a/25",
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2172,"name":"U. Claesges","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8417,"name":"H. U. Asemissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8418,"name":"H. U. Asemissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":804,"lemma":"Erleben, Erlebnis","tf":2},

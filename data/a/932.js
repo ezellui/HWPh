@@ -31,7 +31,7 @@ HWPH.put("a/932",
   {"id":1392,"name":"W. Haase","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13722,"name":"B. Schwenk","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":20482,"name":"Th. Wiget","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8831,"name":"O. Glöckner","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":8832,"name":"O. Glöckner","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":263,"lemma":"Assoziation","tf":2},{"id":2233,"lemma":"Ordnung","tf":2}],
  "see_also":[],

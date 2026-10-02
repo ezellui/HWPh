@@ -450,19 +450,19 @@ HWPH.put("pat/25",
   ["H. VON BRACKEN"]
  ],
  12715:[
-  "(?<![\\p{L}\\p{N}])(?:MCDONOUGH\\.|Mcdonough\\.|MCDONOUGH|Mcdonough)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["J. MCDONOUGH","J. A. MCDONOUGH."]
- ],
- 12716:["(?<![\\p{L}\\p{N}])(?:MUSURILLO|Musurillo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. MUSURILLO"]],
- 12717:[
-  "(?<![\\p{L}\\p{N}])(?:HEINZELMANN|Heinzelmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["G. HEINZELMANN","M. HEINZELMANN"]
- ],
- 12718:["(?<![\\p{L}\\p{N}])(?:LUDENDORFF|Ludendorff)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. LUDENDORFF"]],
- 12719:[
   "(?<![\\p{L}\\p{N}])(?:BARDESANES|Bardesanes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["BARDESANES","von BARDESANES"]
  ],
+ 12716:[
+  "(?<![\\p{L}\\p{N}])(?:MCDONOUGH\\.|Mcdonough\\.|MCDONOUGH|Mcdonough)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. MCDONOUGH","J. A. MCDONOUGH."]
+ ],
+ 12717:["(?<![\\p{L}\\p{N}])(?:MUSURILLO|Musurillo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. MUSURILLO"]],
+ 12718:[
+  "(?<![\\p{L}\\p{N}])(?:HEINZELMANN|Heinzelmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["G. HEINZELMANN","M. HEINZELMANN"]
+ ],
+ 12719:["(?<![\\p{L}\\p{N}])(?:LUDENDORFF|Ludendorff)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. LUDENDORFF"]],
  12720:[
   "(?<![\\p{L}\\p{N}])(?:VOWINCKEL|Vowinckel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["E. VOWINCKEL","G. VOWINCKEL","A. VOWINCKEL"]

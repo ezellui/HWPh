@@ -19,7 +19,7 @@ HWPH.put("a/920",
  "outlinks":[],
  "register":[{"term":"Methode, finite","qualifier":"","band":null,"col":null}],
  "persons":[
-  {"id":221,"name":"D. Hilbert","b":1,"n":0,"l":2,"editor":0,"role":"mixed"},
+  {"id":221,"name":"D. Hilbert","b":1,"n":0,"l":2,"editor":0,"role":"source"},
   {"id":450,"name":"K. Gödel","b":1,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":831,"name":"P. Bernays","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],

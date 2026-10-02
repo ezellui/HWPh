@@ -41,7 +41,7 @@ HWPH.put("a/1859",
   {"id":556,"name":"Isokrates","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":572,"name":"J. Pieper","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2643,"name":"E. Grassi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4129,"name":"W. J. Verdenius","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":4128,"name":"W. J. Verdenius","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[{"id":1451,"lemma":"Inspiration"},{"id":1861,"lemma":"Manie"},{"id":3521,"lemma":"Wahnsinn"}],

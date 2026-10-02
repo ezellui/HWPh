@@ -21,7 +21,7 @@ HWPH.put("a/384",
  "persons":[
   {"id":74,"name":"G. Simmel","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":98,"name":"N. Luhmann","b":0,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":92,"name":"A. Gehlen","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":482,"name":"W. Kamlah","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":391,"name":"H. Freyer","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":413,"name":"H. Vaihinger","b":0,"n":0,"l":1,"editor":0,"role":"source"},

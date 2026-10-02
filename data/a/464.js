@@ -38,7 +38,7 @@ HWPH.put("a/464",
   {"id":2940,"name":"O. Ladendorf","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4422,"name":"F. Bamberger","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
   {"id":1721,"name":"H. Gollwitzer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4007,"name":"J. K. Bluntschli","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":4006,"name":"J. K. Bluntschli","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":19736,"name":"Bluntschli's","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

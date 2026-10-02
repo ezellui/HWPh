@@ -33,7 +33,7 @@ HWPH.put("a/146",
   {"id":1696,"name":"H. Stephanus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2193,"name":"G. Hugo","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4833,"name":"S. Viktor","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8485,"name":"St. Chauvinus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8486,"name":"St. Chauvinus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1237,"name":"A. Portmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":19169,"name":"J. Strohl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

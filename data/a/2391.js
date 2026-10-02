@@ -58,7 +58,7 @@ HWPH.put("a/2391",
   {"id":303,"name":"P. Kluckhohn","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":337,"name":"R. Samuel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1111,"name":"R. Odebrecht","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4251,"name":"F. Hogemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4250,"name":"F. Hogemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2088,"lemma":"Naturphilosophie","tf":4},

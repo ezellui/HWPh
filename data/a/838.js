@@ -24,7 +24,7 @@ HWPH.put("a/838",
  "persons":[
   {"id":1840,"name":"F. Boas","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3160,"name":"M. J. Herskovits","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":4064,"name":"W. G. Sumner","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4063,"name":"W. G. Sumner","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3698,"name":"D. T. Campbell","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":6424,"name":"Ch. Levine","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],

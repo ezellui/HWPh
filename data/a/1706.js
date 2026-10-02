@@ -27,7 +27,7 @@ HWPH.put("a/1706",
   {"id":338,"name":"O. Spengler","b":1,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":1116,"name":"A. J. Toynbee","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":2283,"name":"Kempski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8933,"name":"D. C. Somervell","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8934,"name":"D. C. Somervell","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1701,"lemma":"Kultur, Kulturphilosophie","tf":11},

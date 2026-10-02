@@ -65,7 +65,7 @@ HWPH.put("a/282",
   {"id":1645,"name":"E. J. Dijksterhuis","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3652,"name":"H. S. Leonard","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":7236,"name":"H. S. Nash","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":8570,"name":"E. T. Whittaker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8571,"name":"E. T. Whittaker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13612,"name":"R. Hooykaas","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13613,"name":"A. G. M. van Melsen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":19446,"name":"Lancelot Law Whyte","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

@@ -22,7 +22,7 @@ HWPH.put("a/415",
   {"term":"Institution","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":1,"n":3,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":3,"l":1,"editor":0,"role":"source"},
   {"id":19,"name":"N. Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2968,"name":"M. Hauriou","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1411,"name":"E. W. Beth","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

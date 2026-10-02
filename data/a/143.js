@@ -41,7 +41,7 @@ HWPH.put("a/143",
   {"term":"ταυτότης","qualifier":"","band":"1","col":"308"}
  ],
  "persons":[
-  {"id":3954,"name":"H. Merki","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
+  {"id":3953,"name":"H. Merki","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":8,"name":"Cicero","b":1,"n":1,"l":0,"editor":0,"role":"source"},

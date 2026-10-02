@@ -29,7 +29,7 @@ HWPH.put("a/2303",
   {"id":59,"name":"Diogenes Laertius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2260,"name":"G. E. L. Owen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":3444,"name":"J. Moreau","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4097,"name":"C. F. Hermann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4096,"name":"C. F. Hermann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":25478,"name":"O. Schissel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1311,"name":"P. Moraux","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

@@ -25,9 +25,9 @@ HWPH.put("a/2744",
  "persons":[
   {"id":192,"name":"W. Köhler","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":367,"name":"K. Lewin","b":2,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":7853,"name":"C. J. B. Karsten","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":7854,"name":"C. J. B. Karsten","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":115,"name":"Lambert von Auxerre","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8017,"name":"M. Glanzer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8018,"name":"M. Glanzer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":28002,"name":"J. D. Seaman","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":28003,"name":"L. A. Jakobovits","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],

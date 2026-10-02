@@ -38,10 +38,10 @@ HWPH.put("a/3300",
   {"id":71,"name":"H.-G. Gadamer","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":318,"name":"G. Misch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":287,"name":"E. Tugendhat","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8377,"name":"M. Niquet","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8378,"name":"M. Niquet","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13190,"name":"C. Lafont","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1302,"name":"E. Holenstein","b":0,"n":2,"l":1,"editor":1,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":1302,"name":"E. Holenstein","b":0,"n":2,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":125,"lemma":"Analyse","tf":2},{"id":786,"lemma":"Erfahrung","tf":2}],
  "see_also":[

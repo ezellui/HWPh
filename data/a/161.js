@@ -82,8 +82,8 @@ HWPH.put("a/161",
   {"id":2749,"lemma":"Sätze, subjektlose","tf":4},
   {"id":2134,"lemma":"Nicht-Ich","tf":2},
   {"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":5},
-  {"id":2760,"lemma":"Schema, Schematismus","tf":3},
   {"id":1131,"lemma":"Gewißheit","tf":3},
+  {"id":2760,"lemma":"Schema, Schematismus","tf":3},
   {"id":168,"lemma":"Anspruch","tf":4}
  ],
  "see_also":[

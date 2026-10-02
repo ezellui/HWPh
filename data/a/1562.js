@@ -26,7 +26,7 @@ HWPH.put("a/1562",
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":5146,"name":"H. C. Bastian","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2172,"name":"U. Claesges","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":723,"lemma":"Empfindung","tf":7},

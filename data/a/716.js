@@ -30,7 +30,7 @@ HWPH.put("a/716",
  ],
  "persons":[
   {"id":2024,"name":"A. Schöne","b":0,"n":3,"l":2,"editor":0,"role":"scholar"},
-  {"id":8740,"name":"W. S. Heckscher","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":8741,"name":"W. S. Heckscher","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":6,"name":"G. W. Leibniz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":48,"name":"A. G. Baumgarten","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":103,"name":"G. F. Meier","b":1,"n":0,"l":0,"editor":0,"role":"source"},

@@ -30,8 +30,8 @@ HWPH.put("a/2899",
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1491,"name":"E. Ströker","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":5000,"name":"R. Sokolowski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":5000,"name":"R. Sokolowski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1343,"lemma":"Idealismus","tf":2},{"id":125,"lemma":"Analyse","tf":2}],
  "see_also":[],

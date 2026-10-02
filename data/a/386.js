@@ -27,7 +27,7 @@ HWPH.put("a/386",
   {"id":6300,"name":"F. W. Bessel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":97,"name":"H. Blumenberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3359,"name":"Lambert","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8633,"name":"P. Bouguer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
+  {"id":8634,"name":"P. Bouguer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
  ],
  "mentions":[],
  "see_also":[

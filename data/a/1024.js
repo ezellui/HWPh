@@ -27,7 +27,7 @@ HWPH.put("a/1024",
   {"id":1842,"name":"K. Held","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":2431,"name":"Th. M. Seebohm","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":2740,"name":"G. Brand","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":8426,"name":"Held","b":0,"n":1,"l":0,"editor":0,"role":"source"}
+  {"id":8427,"name":"Held","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[
   {"id":1338,"lemma":"Ichpol","tf":2},

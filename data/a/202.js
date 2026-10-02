@@ -41,7 +41,7 @@ HWPH.put("a/202",
   {"id":13536,"name":"Karl Kraus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19301,"name":"William Blake","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":10561,"name":"F. H. Mautner","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
-  {"id":56,"name":"J. Müller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":13537,"name":"W. Grenzmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":19302,"name":"K. Besser","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":743,"name":"F. Schalk","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}

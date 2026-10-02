@@ -29,7 +29,7 @@ HWPH.put("a/762",
   {"id":384,"name":"F. Krueger","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":382,"name":"H. Thomae","b":2,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":738,"name":"H. Werner","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":3961,"name":"E. Heuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":3960,"name":"E. Heuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2511,"lemma":"Psychologie","tf":6},

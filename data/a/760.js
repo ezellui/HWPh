@@ -29,7 +29,7 @@ HWPH.put("a/760",
   {"id":149,"name":"H. Bergson","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2009,"name":"V. Jankélévitch","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":4926,"name":"G. Pflug","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
-  {"id":8738,"name":"H. Sundén","b":1,"n":0,"l":0,"editor":0,"role":"scholar"}
+  {"id":8739,"name":"H. Sundén","b":1,"n":0,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1892,"lemma":"Materie","tf":6},

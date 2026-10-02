@@ -19,7 +19,7 @@ HWPH.put("a/1335",
  "outlinks":[],
  "register":[],
  "persons":[
-  {"id":1806,"name":"R. Reininger","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":1806,"name":"R. Reininger","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":1038,"name":"E. Heintel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":122,"name":"W. Stegmüller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

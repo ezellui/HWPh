@@ -180,13 +180,13 @@ HWPH.put("pat/36",
  ],
  18106:["(?<![\\p{L}\\p{N}])(?:LITTLER|Littler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. R. LITTLER"]],
  18107:["(?<![\\p{L}\\p{N}])(?:STEINKÜHLER|Steinkühler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. STEINKÜHLER"]],
- 18108:[
+ 18108:["(?<![\\p{L}\\p{N}])(?:ZSCHIMMER|Zschimmer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ZSCHIMMER"]],
+ 18109:[
   "(?<![\\p{L}\\p{N}])(?:COUDENHOVE-KALERGI|Coudenhove-Kalergi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["R. N. COUDENHOVE-KALERGI"]
  ],
- 18109:["(?<![\\p{L}\\p{N}])(?:MCLUHAN|Mcluhan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. MCLUHAN"]],
- 18110:["(?<![\\p{L}\\p{N}])(?:SIEFERLE|Sieferle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. P. SIEFERLE"]],
- 18111:["(?<![\\p{L}\\p{N}])(?:ZSCHIMMER|Zschimmer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ZSCHIMMER"]],
+ 18110:["(?<![\\p{L}\\p{N}])(?:MCLUHAN|Mcluhan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. MCLUHAN"]],
+ 18111:["(?<![\\p{L}\\p{N}])(?:SIEFERLE|Sieferle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. P. SIEFERLE"]],
  18112:["(?<![\\p{L}\\p{N}])(?:KUBE|Kube)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["KUBE","J. KUBE"]],
  18113:["(?<![\\p{L}\\p{N}])(?:MARGREITER|Margreiter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. MARGREITER"]],
  18114:["(?<![\\p{L}\\p{N}])(?:PASCHEN|Paschen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. PASCHEN"]],
@@ -330,16 +330,16 @@ HWPH.put("pat/36",
   "(?<![\\p{L}\\p{N}])(?:TORRES\\s+QUEIRUGA|Torres\\s+Queiruga|Queiruga)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["A. TORRES QUEIRUGA"]
  ],
- 18183:["(?<![\\p{L}\\p{N}])(?:LEROY|Leroy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LEROY"]],
- 18184:[
+ 18183:["(?<![\\p{L}\\p{N}])(?:POPPIUS|Poppius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. POPPIUS"]],
+ 18184:["(?<![\\p{L}\\p{N}])(?:LEROY|Leroy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LEROY"]],
+ 18185:[
   "(?<![\\p{L}\\p{N}])(?:PS\\.-DIONYSIUS-AREOP\\.|Ps\\.-Dionysius-Areop\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["PS.-DIONYSIUS-AREOP."]
  ],
- 18185:[
+ 18186:[
   "(?<![\\p{L}\\p{N}])(?:DIDYMUS\\s+ALEX\\.|Didymus\\s+Alex\\.|Alex\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["DIDYMUS ALEX."]
  ],
- 18186:["(?<![\\p{L}\\p{N}])(?:POPPIUS|Poppius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. POPPIUS"]],
  18187:["(?<![\\p{L}\\p{N}])(?:SEPP|Sepp)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. R. SEPP"]],
  18188:["(?<![\\p{L}\\p{N}])(?:ALTWICKER|Altwicker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. ALTWICKER"]],
  18189:["(?<![\\p{L}\\p{N}])(?:WINOKUR|Winokur)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. WINOKUR"]],

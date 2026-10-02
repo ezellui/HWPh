@@ -53,7 +53,7 @@ HWPH.put("a/3129",
   {"id":303,"name":"P. Kluckhohn","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":337,"name":"R. Samuel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1137,"name":"A. Buchenau","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8053,"name":"W. Frühwald","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8054,"name":"W. Frühwald","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2183,"lemma":"Objekt","tf":2}],
  "see_also":[],

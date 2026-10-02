@@ -28,7 +28,7 @@ HWPH.put("a/2731",
  "persons":[
   {"id":1521,"name":"H.-E. Hengstenberg","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
   {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":219,"name":"M. Buber","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":405,"name":"Th. Litt","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":572,"name":"J. Pieper","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},

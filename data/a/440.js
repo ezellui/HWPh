@@ -22,7 +22,7 @@ HWPH.put("a/440",
   {"term":"Euvitalismus","qualifier":"","band":"1","col":"944"}
  ],
  "persons":[
-  {"id":8660,"name":"E. G. Kolbenheyer","b":3,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8661,"name":"E. G. Kolbenheyer","b":3,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3179,"name":"E. Krieck","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":0,"l":0,"editor":0,"role":"source"},

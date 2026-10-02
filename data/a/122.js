@@ -25,7 +25,7 @@ HWPH.put("a/122",
   {"id":1030,"name":"E. Jüngel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3130,"name":"Balthasar","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4817,"name":"F. Hammer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8458,"name":"M. Reding","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8459,"name":"M. Reding","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":19071,"name":"J. Mc Intyre","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":123,"lemma":"Analogie","tf":3},{"id":309,"lemma":"Aussage","tf":2}],

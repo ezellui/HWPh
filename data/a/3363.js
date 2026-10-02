@@ -34,7 +34,7 @@ HWPH.put("a/3363",
  "persons":[
   {"id":36,"name":"R. Carnap","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"G. Frege","b":2,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":143,"name":"W. V. O. Quine","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":331,"name":"A. Tarski","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":62,"name":"Wilhelm von Ockham","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":302,"name":"G. Patzig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

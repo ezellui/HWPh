@@ -24,8 +24,8 @@ HWPH.put("a/1135",
   {"id":39,"name":"J.-J. Rousseau","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":155,"name":"S. Pufendorf","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2200,"name":"Clemens Alexandrinus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":3116,"name":"J. R. Weinberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3116,"name":"J. R. Weinberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":888,"lemma":"Faktizität","tf":2}],
  "see_also":[{"id":888,"lemma":"Faktizität"},{"id":2904,"lemma":"Situation"}],

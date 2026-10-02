@@ -40,7 +40,7 @@ HWPH.put("a/256",
   {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":782,"name":"H. Paul","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":705,"name":"O. Spann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8541,"name":"E. Sievers","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8542,"name":"E. Sievers","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":4338,"name":"J. Knobloch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

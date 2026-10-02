@@ -11,7 +11,7 @@ HWPH.put("pat/1",
  502:[
   "(?<![\\p{L}\\p{N}])(?:WILHELM\\s+VON\\s+CONCHES\\.|Wilhelm\\s+von\\s+Conches\\.|WILHELM\\s+VON\\s+CONCHES|Wilhelm\\s+von\\s+Conches|WILH\\.\\s+VON\\s+CONCHES|WILH\\.\\s+von\\s+CONCHES|Wilh\\.\\s+von\\s+Conches|Conches\\.|Conches)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   [
-   "WILHELM VON CONCHES","WILH. VON CONCHES","von WILHELM VON CONCHES","WILHELM VON CONCHES.",
+   "WILHELM VON CONCHES","von WILHELM VON CONCHES","WILH. VON CONCHES","WILHELM VON CONCHES.",
    "A. \nWILHELM VON CONCHES","WILH. von CONCHES","der WILHELM VON CONCHES",
    "B. \nWILHELM VON CONCHES"
   ]
@@ -1402,7 +1402,7 @@ HWPH.put("pat/1",
  802:["(?<![\\p{L}\\p{N}])(?:ELIAS|Elias)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ELIAS","N. ELIAS","J. ELIAS"]],
  803:[
   "(?<![\\p{L}\\p{N}])(?:MAXIMUS\\s+CONFESSOR|Maximus\\s+Confessor|MAXIMUS\\s+CONF\\.|Maximus\\s+Conf\\.|Confessor|MAXIMUS|Maximus|Conf\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["MAXIMUS CONFESSOR","MAXIMUS CONF.","C. \nMAXIMUS CONF.","A. \nMAXIMUS CONF.","MAXIMUS"]
+  ["MAXIMUS CONFESSOR","MAXIMUS CONF.","C. \nMAXIMUS CONF.","MAXIMUS","A. \nMAXIMUS CONF."]
  ],
  804:[
   "(?<![\\p{L}\\p{N}])(?:BUDDES|Buddes|BUDDE|Budde)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

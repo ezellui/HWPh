@@ -99,7 +99,7 @@ HWPH.put("a/2464",
   {"id":3287,"name":"H. Gericke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":3288,"name":"F. Enriques","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":6053,"name":"A. P. D. Mourelatos","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4002,"name":"Pappus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4001,"name":"Pappus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":6631,"name":"W. Kinkel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":6550,"name":"L. Gäbe","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5765,"name":"B. Brody","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -133,7 +133,7 @@ HWPH.put("a/2464",
   {"id":1413,"name":"G. Friedlein","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1852,"name":"P. Clair","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":7148,"name":"F. Hultsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8893,"name":"H. Parthey","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":8894,"name":"H. Parthey","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":210,"lemma":"Aporie, Aporetik","tf":5},

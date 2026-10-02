@@ -53,7 +53,7 @@ HWPH.put("a/2206",
   {"id":2166,"name":"M. Stolleis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2585,"name":"Welcker","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2934,"name":"Chr. G. Heyne","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8592,"name":"Carl Schmitt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8593,"name":"Carl Schmitt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":7311,"name":"Hölscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":11035,"name":"Sonnenfels","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":7517,"name":"J. Maaler","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -61,7 +61,7 @@ HWPH.put("a/2206",
   {"id":24993,"name":"P. Wentzcke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":107,"name":"W. Schneider","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4510,"name":"W. Huber","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":7926,"name":"W. Martens","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":7927,"name":"W. Martens","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":283,"lemma":"Attribut","tf":5},

@@ -32,7 +32,7 @@ HWPH.put("a/534",
  "persons":[
   {"id":1139,"name":"E. Zermelo","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":36,"name":"R. Carnap","b":2,"n":1,"l":1,"editor":0,"role":"source"},
-  {"id":714,"name":"H. Weyl","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":714,"name":"H. Weyl","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1845,"name":"A. A. Fraenkel","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1479,"name":"Th. Skolem","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1574,"name":"H. B. Curry","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},

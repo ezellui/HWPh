@@ -22,7 +22,7 @@ HWPH.put("a/2630",
   {"term":"Überfluss","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":4013,"name":"C. E. Shannon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4012,"name":"C. E. Shannon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":8,"name":"Cicero","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":109,"name":"Quintilian","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],

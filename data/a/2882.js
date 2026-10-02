@@ -21,7 +21,7 @@ HWPH.put("a/2882",
  "persons":[
   {"id":711,"name":"I. P. Pawlow","b":1,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":17541,"name":"J. W. Schorochowa","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":4253,"name":"S. L. Rubinstein","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4252,"name":"S. L. Rubinstein","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":14962,"name":"L. Kardos","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":17542,"name":"V. Schurig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":28943,"name":"S. A. Petruschewski","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

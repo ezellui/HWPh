@@ -23,7 +23,7 @@ HWPH.put("a/2491",
  ],
  "persons":[
   {"id":36,"name":"R. Carnap","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":4199,"name":"A. Schnitzler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":4198,"name":"A. Schnitzler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[

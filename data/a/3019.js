@@ -23,7 +23,7 @@ HWPH.put("a/3019",
  ],
  "persons":[
   {"id":1046,"name":"Hrabanus Maurus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8110,"name":"F.-A.-A. Pluquet","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":8111,"name":"F.-A.-A. Pluquet","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":7059,"name":"Paschasius Radbertus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":17857,"name":"Humbert von Silva Candida","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":17858,"name":"Alger von Lüttich","b":1,"n":1,"l":0,"editor":0,"role":"source"},

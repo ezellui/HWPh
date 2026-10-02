@@ -24,7 +24,7 @@ HWPH.put("a/2248",
   {"term":"Tier/Mensch","qualifier":"(Gehlen)","band":null,"col":null}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":3,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":3,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":16092,"name":"K. Goerttler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":71,"name":"H.-G. Gadamer","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":3520,"name":"P. Vogler","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},

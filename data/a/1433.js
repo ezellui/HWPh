@@ -29,10 +29,10 @@ HWPH.put("a/1433",
   {"id":1104,"name":"Y. Bar-Hillel","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":962,"name":"D. Hartley","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":976,"name":"N. Wiener","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":4013,"name":"C. E. Shannon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":4012,"name":"C. E. Shannon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":36,"name":"R. Carnap","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1388,"name":"P. Suppes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4160,"name":"J. F. Staal","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4159,"name":"J. F. Staal","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":9160,"name":"B. van Rootselaar","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[

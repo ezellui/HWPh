@@ -37,7 +37,7 @@ HWPH.put("a/321",
   {"id":19552,"name":"Strategos Autokrator","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":19553,"name":"C. W. Cassinelli","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":113,"name":"Arist","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":3993,"name":"G. Schelle","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":3992,"name":"G. Schelle","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1127,"lemma":"Gewalt","tf":6},

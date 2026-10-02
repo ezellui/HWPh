@@ -29,7 +29,7 @@ HWPH.put("a/2184",
   {"id":3214,"name":"H. Seidl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3596,"name":"H. Herring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":12094,"name":"G. Wartenberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8036,"name":"F. Dunbar","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":8037,"name":"F. Dunbar","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":24933,"name":"H. Hinderks","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

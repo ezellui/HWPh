@@ -51,7 +51,7 @@ HWPH.put("a/3055",
   {"id":4487,"name":"L. A. White","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":30144,"name":"H. Brackert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":30145,"name":"F. Werfelmeyer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4064,"name":"W. G. Sumner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":4063,"name":"W. G. Sumner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":30146,"name":"T. Roszak","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

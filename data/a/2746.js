@@ -31,7 +31,7 @@ HWPH.put("a/2746",
   {"id":231,"name":"O. F. Bollnow","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":318,"name":"G. Misch","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":6532,"name":"A. Haardt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8260,"name":"R. Ineichen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8261,"name":"R. Ineichen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":3130,"lemma":"Tatsache","tf":13},

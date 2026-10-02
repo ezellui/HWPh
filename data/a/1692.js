@@ -26,7 +26,7 @@ HWPH.put("a/1692",
   {"term":"Erstarrung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":874,"name":"V. Pareto","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2837,"name":"Mohl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3745,"name":"R. Seidenberg","b":1,"n":1,"l":0,"editor":0,"role":"source"},

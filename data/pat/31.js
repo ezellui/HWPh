@@ -839,23 +839,23 @@ HWPH.put("pat/31",
   ["GILBERT PORRETANUS"]
  ],
  15915:[
-  "(?<![\\p{L}\\p{N}])(?:NIKOLAUS\\s+VON\\s+PARIS|Nikolaus\\s+von\\s+Paris|Paris)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["NIKOLAUS VON PARIS"]
+  "(?<![\\p{L}\\p{N}])(?:PASSERATIUS|Passeratius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. PASSERATIUS","JOH. PASSERATIUS"]
  ],
  15916:[
-  "(?<![\\p{L}\\p{N}])(?:CLAREMBALD\\s+of\\s+ARRAS|Clarembald\\s+of\\s+Arras|Arras)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["of CLAREMBALD of ARRAS"]
- ],
- 15917:["(?<![\\p{L}\\p{N}])(?:CAPUTO|Caputo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. D. CAPUTO"]],
- 15918:["(?<![\\p{L}\\p{N}])(?:THERY\\.|Thery\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. THERY."]],
- 15919:[
-  "(?<![\\p{L}\\p{N}])(?:PASSERATIUS|Passeratius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["JOH. PASSERATIUS","J. PASSERATIUS"]
- ],
- 15920:[
   "(?<![\\p{L}\\p{N}])(?:AEMILIUS\\s+PORTIUS|Aemilius\\s+Portius|Portius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["M. AEMILIUS PORTIUS"]
  ],
+ 15917:[
+  "(?<![\\p{L}\\p{N}])(?:NIKOLAUS\\s+VON\\s+PARIS|Nikolaus\\s+von\\s+Paris|Paris)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["NIKOLAUS VON PARIS"]
+ ],
+ 15918:[
+  "(?<![\\p{L}\\p{N}])(?:CLAREMBALD\\s+of\\s+ARRAS|Clarembald\\s+of\\s+Arras|Arras)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["of CLAREMBALD of ARRAS"]
+ ],
+ 15919:["(?<![\\p{L}\\p{N}])(?:CAPUTO|Caputo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. D. CAPUTO"]],
+ 15920:["(?<![\\p{L}\\p{N}])(?:THERY\\.|Thery\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. THERY."]],
  15921:["(?<![\\p{L}\\p{N}])(?:BURGERSDICI|Burgersdici)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. BURGERSDICI"]],
  15922:["(?<![\\p{L}\\p{N}])(?:VARILLON|Varillon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. VARILLON"]],
  15923:["(?<![\\p{L}\\p{N}])(?:KOHNKE|Kohnke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. W. KOHNKE"]],

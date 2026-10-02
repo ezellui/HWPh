@@ -148,7 +148,7 @@ HWPH.put("a/1083",
   {"id":744,"name":"E. Diehl","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":952,"name":"H. J. Sandkühler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2138,"name":"J. H. Burns","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4094,"name":"L. Dutens","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":4093,"name":"L. Dutens","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":6362,"name":"Th. Ramm","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

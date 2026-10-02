@@ -21,7 +21,7 @@ HWPH.put("a/1474",
  "persons":[
   {"id":35,"name":"F. Schlegel","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":5447,"name":"P. Hankamer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8673,"name":"R. Brinkmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8674,"name":"R. Brinkmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":165,"name":"E. Behler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2986,"name":"J. Minor","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":11379,"name":"J.-J. Anstett","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},

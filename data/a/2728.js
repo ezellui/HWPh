@@ -23,7 +23,7 @@ HWPH.put("a/2728",
  ],
  "persons":[
   {"id":208,"name":"G. Scholem","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":7974,"name":"B. Weiner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":7975,"name":"B. Weiner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":27930,"name":"E. Schweid","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":14302,"name":"R. I. Zwi Werblowsky","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

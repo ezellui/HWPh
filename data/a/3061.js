@@ -47,7 +47,7 @@ HWPH.put("a/3061",
   {"id":30174,"name":"E. Valtink","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":299,"name":"P. Hadot","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
   {"id":85,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4017,"name":"O. Baensch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4016,"name":"O. Baensch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":854,"lemma":"Ewigkeit","tf":2},

@@ -21,7 +21,7 @@ HWPH.put("a/2234",
  "persons":[
   {"id":2106,"name":"A. Rauscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3237,"name":"J. Messner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4093,"name":"G. Gundlach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":4092,"name":"G. Gundlach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2}],
  "see_also":[],

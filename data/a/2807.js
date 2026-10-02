@@ -64,7 +64,7 @@ HWPH.put("a/2807",
   {"id":2130,"name":"G. Söhngen","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1921,"name":"J. E. Heyde","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":3840,"name":"W. Michael","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":1931,"name":"K. Twardowski","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1931,"name":"K. Twardowski","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":5721,"name":"L. Sweeney","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":17385,"name":"von Johannes von Schoonhoven","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":14484,"name":"Michael","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -83,7 +83,7 @@ HWPH.put("a/2807",
   {"id":2280,"name":"R. Macken","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1518,"name":"B. Decker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2526,"name":"J. Willis","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4090,"name":"A. Combes","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4089,"name":"A. Combes","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1459,"lemma":"Intellekt","tf":7},

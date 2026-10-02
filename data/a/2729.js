@@ -23,7 +23,7 @@ HWPH.put("a/2729",
   {"id":14464,"name":"Matsuo Bashô","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":27931,"name":"Fujiwara Shunzei","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":4915,"name":"H. Hammitzsch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":6295,"name":"S. Hisamatsu","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":6295,"name":"S. Hisamatsu","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":27932,"name":"Y. Onishi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

@@ -42,7 +42,7 @@ HWPH.put("a/1835",
   {"id":806,"name":"A. Lang","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5882,"name":"Ph. L. Quinn","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5759,"name":"M. Nédoncelle","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8467,"name":"F. Malmberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8468,"name":"F. Malmberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":23238,"name":"B. Duroux","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":58,"name":"C. I. Gerhardt","b":1,"n":0,"l":0,"editor":1,"role":"scholar"}
  ],

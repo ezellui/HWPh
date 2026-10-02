@@ -31,7 +31,7 @@ HWPH.put("a/2182",
   {"id":203,"name":"Petrus Hispanus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":380,"name":"B. Erdmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":48,"name":"A. G. Baumgarten","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8034,"name":"N. I. Kondakow","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8035,"name":"N. I. Kondakow","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":189,"name":"L. M. de Rijk","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":554,"name":"H. W. Arndt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

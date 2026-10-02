@@ -29,7 +29,7 @@ HWPH.put("a/990",
   {"id":1324,"name":"E. Rausch","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1076,"name":"K. Conrad","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2430,"name":"A. Rüssel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":3961,"name":"E. Heuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":3960,"name":"E. Heuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":1120,"lemma":"Gestaltqualität","tf":6},{"id":1121,"lemma":"Gestalttheorie","tf":2}],
  "see_also":[

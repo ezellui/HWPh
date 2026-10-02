@@ -36,7 +36,7 @@ HWPH.put("a/455",
   {"id":1720,"name":"W. Shakespeare","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4351,"name":"Alexander Halensis","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":7208,"name":"Prudentius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8665,"name":"A. Thomas von Celano","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8666,"name":"A. Thomas von Celano","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":522,"name":"E. R. Curtius","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":6315,"name":"L. Koep","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2605,"name":"C. C. J. Webb","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

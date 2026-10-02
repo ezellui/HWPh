@@ -32,7 +32,7 @@ HWPH.put("a/487",
   {"id":4,"name":"G. W. F. Hegel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3646,"name":"A. Hirt","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":10705,"name":"Eckermann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8673,"name":"R. Brinkmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8674,"name":"R. Brinkmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":292,"name":"K. Schlechta","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":488,"name":"F. Bassenge","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":5518,"name":"Löhneysen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

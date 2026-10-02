@@ -25,7 +25,7 @@ HWPH.put("a/2813",
  "register":[{"term":"Wesen, regionales","qualifier":"(Husserl)","band":"9","col":"261"}],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[{"id":1062,"lemma":"Generalisierung"},{"id":2218,"lemma":"Ontologie"}],

@@ -24,7 +24,7 @@ HWPH.put("a/65",
   {"term":"syntaktische Aphasie","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":143,"name":"W. V. O. Quine","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2412,"name":"A. Pick","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":383,"name":"N. Chomsky","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1906,"name":"K. Kleist","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

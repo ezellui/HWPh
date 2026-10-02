@@ -62,7 +62,7 @@ HWPH.put("a/2335",
   {"id":1893,"name":"W. Kersting","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":858,"name":"J. M. Robson","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2304,"name":"M. Brasch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":3993,"name":"G. Schelle","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":3992,"name":"G. Schelle","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1105,"lemma":"Gesetz","tf":11},

@@ -22,7 +22,7 @@ HWPH.put("a/389",
   {"id":149,"name":"H. Bergson","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":935,"name":"G. Sorel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2009,"name":"V. Jankélévitch","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8634,"name":"J. Wilbois","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8635,"name":"J. Wilbois","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4405,"name":"J. Baruzi","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2679,"lemma":"Religionsphilosophie","tf":2}],

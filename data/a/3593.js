@@ -66,7 +66,7 @@ HWPH.put("a/3593",
   {"id":13,"name":"M. Heidegger","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":1220,"name":"H. Schnädelbach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1789,"name":"F. Heinemann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":7677,"name":"R. Ruyer","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":7678,"name":"R. Ruyer","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":11209,"name":"W. Ehrlich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10386,"name":"M. Heinz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":7018,"name":"R. Fabian","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

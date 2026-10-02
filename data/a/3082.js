@@ -23,11 +23,11 @@ HWPH.put("a/3082",
   {"term":"L 7 795 Nicht-Reduzierbarkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":144,"name":"G. E. Moore","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":144,"name":"G. E. Moore","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":234,"name":"R. M. Hare","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":375,"name":"D. Davidson","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1068,"name":"D. Lewis","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8183,"name":"F. N. Sibley","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8184,"name":"F. N. Sibley","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":11342,"name":"L. Foster","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":11343,"name":"J. W. Swanson","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1849,"name":"W. Thompson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

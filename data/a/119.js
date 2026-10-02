@@ -22,7 +22,7 @@ HWPH.put("a/119",
   {"term":"proprietates terminorum","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":8453,"name":"J. Martinez Siliceo","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8454,"name":"J. Martinez Siliceo","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":5,"name":"Thomas von Aquin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":203,"name":"Petrus Hispanus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":623,"name":"Albert von Sachsen","b":1,"n":0,"l":0,"editor":0,"role":"source"},

@@ -19,12 +19,12 @@ HWPH.put("a/3064",
  "outlinks":[],
  "register":[{"term":"Judentum/Christentum","qualifier":"","band":null,"col":null}],
  "persons":[
-  {"id":8356,"name":"B. Klappert","b":0,"n":1,"l":3,"editor":0,"role":"scholar"},
+  {"id":8357,"name":"B. Klappert","b":0,"n":1,"l":3,"editor":0,"role":"scholar"},
   {"id":1721,"name":"H. Gollwitzer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6316,"name":"D. Starck","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":7577,"name":"F. Mussner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6045,"name":"Joh. de Lapide","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8468,"name":"H. Schreckenberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8469,"name":"H. Schreckenberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3058,"name":"E. Bethge","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[

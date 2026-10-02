@@ -23,9 +23,9 @@ HWPH.put("a/324",
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":13649,"name":"J. Diebold","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2006,"name":"R. Harder","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
-  {"id":8598,"name":"Ch. Babbage","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8599,"name":"Ch. Babbage","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":13650,"name":"Th. Pirker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":3994,"name":"J. L. Pollock","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":3993,"name":"J. L. Pollock","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":3448,"lemma":"Verwaltung; Bürokratie","tf":2},

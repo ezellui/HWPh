@@ -38,7 +38,7 @@ HWPH.put("a/3604",
   {"term":"– I (anthr.) 9 923–929 s. auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":56,"name":"J. Müller","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":56,"name":"J. Müller","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":63,"name":"K. Barth","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":131,"name":"Homer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":151,"name":"K. Rahner","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},

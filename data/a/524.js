@@ -57,7 +57,7 @@ HWPH.put("a/524",
   {"id":2612,"name":"W. Heinse","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":3646,"name":"A. Hirt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":7299,"name":"E. Lämmert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8683,"name":"A. Buchner","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8684,"name":"A. Buchner","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":13776,"name":"Lenz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19813,"name":"August Buchner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":19814,"name":"Chr. Janentzky","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -66,7 +66,7 @@ HWPH.put("a/524",
   {"id":816,"name":"H. G. Göpfert","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1064,"name":"G. Fricke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":801,"name":"M. Jammer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":3967,"name":"M. Hecker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":3966,"name":"M. Hecker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":161,"lemma":"Anschauung","tf":7},

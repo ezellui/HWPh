@@ -20,7 +20,7 @@ HWPH.put("a/1780",
  "register":[{"term":"λῆμμα","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8762,"name":"G. Pfohl","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
+  {"id":8763,"name":"G. Pfohl","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":11667,"name":"Ausonius","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":48,"name":"A. G. Baumgarten","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":59,"name":"Diogenes Laertius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

@@ -32,7 +32,7 @@ HWPH.put("a/866",
   {"id":231,"name":"O. F. Bollnow","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":307,"name":"P. Ricœur","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":3387,"name":"M. Dufrenne","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8784,"name":"U. Richli","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8785,"name":"U. Richli","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":863,"lemma":"Existenz, existentia","tf":8}],
  "see_also":[

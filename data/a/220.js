@@ -25,7 +25,7 @@ HWPH.put("a/220",
   {"id":1513,"name":"J. Lange","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":2183,"name":"O. Bumke","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4805,"name":"Foerster","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":3933,"name":"Monakow","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":3932,"name":"Monakow","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[{"id":62,"lemma":"Agnosie","tf":2}],
  "see_also":[

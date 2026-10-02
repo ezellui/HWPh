@@ -50,7 +50,7 @@ HWPH.put("a/2002",
   {"id":24116,"name":"E. Poulat","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1737,"name":"R. Albrecht","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":4437,"name":"Th. Dufour","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4016,"name":"E. T. Cook","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4015,"name":"E. T. Cook","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1568,"lemma":"Kirche","tf":13},

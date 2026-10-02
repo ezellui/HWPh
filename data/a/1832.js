@@ -21,7 +21,7 @@ HWPH.put("a/1832",
  "persons":[
   {"id":3225,"name":"Ruben","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":23232,"name":"Cârvaka","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8806,"name":"A. Hillebrandt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8807,"name":"A. Hillebrandt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":23233,"name":"Dakshina Ranjan Shastri","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

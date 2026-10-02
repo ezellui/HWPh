@@ -100,8 +100,8 @@ HWPH.put("a/280",
   {"id":3651,"name":"G. Pitcher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5474,"name":"D. Pears","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6274,"name":"J. Hartnack","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8573,"name":"I. M. Copi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8574,"name":"Ch. A. Beard","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8574,"name":"I. M. Copi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8575,"name":"Ch. A. Beard","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13607,"name":"W. Ehrenstein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

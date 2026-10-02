@@ -588,8 +588,8 @@ HWPH.put("pat/9",
   ["A. MOMIGLIANO","MOMIGLIANO"]
  ],
  4697:["(?<![\\p{L}\\p{N}])(?:GEWIRTH|Gewirth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. GEWIRTH","GEWIRTH"]],
- 4698:["(?<![\\p{L}\\p{N}])(?:LAMBERZ|Lamberz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. LAMBERZ"]],
- 4699:["(?<![\\p{L}\\p{N}])(?:KOPPEN|Koppen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. KOPPEN","FR. KOPPEN"]],
+ 4698:["(?<![\\p{L}\\p{N}])(?:KOPPEN|Koppen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. KOPPEN","FR. KOPPEN"]],
+ 4699:["(?<![\\p{L}\\p{N}])(?:LAMBERZ|Lamberz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. LAMBERZ"]],
  4700:["(?<![\\p{L}\\p{N}])(?:LENOIR|Lenoir)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. LENOIR","LENOIR"]],
  4701:[
   "(?<![\\p{L}\\p{N}])(?:MITTERMAIER|Mittermaier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

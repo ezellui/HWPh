@@ -20,7 +20,7 @@ HWPH.put("a/2296",
  "register":[],
  "persons":[
   {"id":6008,"name":"M. Warnke","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},
-  {"id":4259,"name":"A. Warburg","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4258,"name":"A. Warburg","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":325,"name":"J. Burckhardt","b":0,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":522,"name":"E. R. Curtius","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":588,"name":"E. Panofsky","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
@@ -32,14 +32,14 @@ HWPH.put("a/2296",
   {"id":11957,"name":"S. Bing","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":16189,"name":"G. Syamken","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1815,"name":"E. H. Gombrich","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":8462,"name":"D. Wuttke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8463,"name":"D. Wuttke","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":992,"lemma":"Gebärde, Gebärdensprache","tf":3},
   {"id":182,"lemma":"Antike","tf":8},
   {"id":2685,"lemma":"Renaissance","tf":3},
-  {"id":804,"lemma":"Erleben, Erlebnis","tf":2},
   {"id":689,"lemma":"Einsicht, einsichtig","tf":3},
+  {"id":804,"lemma":"Erleben, Erlebnis","tf":2},
   {"id":1701,"lemma":"Kultur, Kulturphilosophie","tf":2}
  ],
  "see_also":[{"id":1989,"lemma":"Mneme, Mnemosyne"}],

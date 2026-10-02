@@ -24,7 +24,7 @@ HWPH.put("a/1747",
   {"term":"Umwelt","qualifier":"","band":"5","col":"129"}
  ],
  "persons":[
-  {"id":202,"name":"E. Spranger","b":2,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":202,"name":"E. Spranger","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":1015,"name":"J. H. Pestalozzi","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":20,"name":"J. W. Goethe","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],

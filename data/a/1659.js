@@ -41,7 +41,7 @@ HWPH.put("a/1659",
   {"id":763,"name":"Weizsäcker","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1126,"name":"E. Scheibe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2475,"name":"N. Rosen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4175,"name":"K. M. Meyer-Abich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4174,"name":"K. M. Meyer-Abich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5835,"name":"B. Podolsky","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[

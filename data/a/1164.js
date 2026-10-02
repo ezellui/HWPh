@@ -21,9 +21,9 @@ HWPH.put("a/1164",
  "persons":[
   {"id":23,"name":"M. Scheler","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":495,"name":"M. Landmann","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8658,"name":"B. Rosenmöller","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8659,"name":"B. Rosenmöller","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1563,"name":"E. Przywara","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":3974,"name":"M. Dupuy","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":3973,"name":"M. Dupuy","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":21138,"name":"J. Heber","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

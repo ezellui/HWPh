@@ -32,8 +32,8 @@ HWPH.put("a/3007",
  ],
  "mentions":[
   {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":8},
-  {"id":1995,"lemma":"Modalität","tf":2},
   {"id":3484,"lemma":"Vollständigkeit/Unvollständigkeit","tf":2},
+  {"id":1995,"lemma":"Modalität","tf":2},
   {"id":2544,"lemma":"Qualität","tf":2},
   {"id":3639,"lemma":"Wissenschaften, schöne","tf":2},
   {"id":1944,"lemma":"Metaphysik","tf":2}

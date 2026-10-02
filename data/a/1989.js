@@ -58,8 +58,8 @@ HWPH.put("a/1989",
   {"id":324,"name":"D. Henrich","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":821,"name":"H. Schweppenhäuser","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1422,"name":"E. Beutler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8942,"name":"S. Unseld","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8462,"name":"D. Wuttke","b":0,"n":0,"l":2,"editor":1,"role":"scholar"},
+  {"id":8943,"name":"S. Unseld","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":8463,"name":"D. Wuttke","b":0,"n":0,"l":2,"editor":1,"role":"scholar"},
   {"id":15659,"name":"Fussel","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[

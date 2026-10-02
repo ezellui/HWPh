@@ -959,11 +959,11 @@ HWPH.put("pat/5",
   "(?<![\\p{L}\\p{N}])(?:LABRIOLA\\.|LABRIOLAS|Labriola\\.|Labriolas|LABRIOLA|Labriola)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["A. LABRIOLA","A. LABRIOLA.","A. C. LABRIOLA","A. LABRIOLAS"]
  ],
- 2790:["(?<![\\p{L}\\p{N}])(?:SCHIWY|Schiwy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. SCHIWY","SCHIWY"]],
- 2791:[
+ 2790:[
   "(?<![\\p{L}\\p{N}])(?:GURVITCHS|Gurvitchs|GURVITCH|Gurvitch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["G. GURVITCH","GURVITCHS","A. GURVITCH"]
  ],
+ 2791:["(?<![\\p{L}\\p{N}])(?:SCHIWY|Schiwy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. SCHIWY","SCHIWY"]],
  2792:[
   "(?<![\\p{L}\\p{N}])(?:GUIZOT|Guizot)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["GUIZOT","F. GUIZOT","F. P. G. GUIZOT","G. GUIZOT","F.-P.-G. GUIZOT"]
@@ -1289,12 +1289,12 @@ HWPH.put("pat/5",
   "(?<![\\p{L}\\p{N}])(?:MARION|Marion)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J.-L. MARION","MARION","H. MARION","J. L. MARION"]
  ],
- 2889:["(?<![\\p{L}\\p{N}])(?:GLUCKER|Glucker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GLUCKER","J. GLUCKER"]],
- 2890:[
+ 2889:["(?<![\\p{L}\\p{N}])(?:GEMMA|Gemma)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. GEMMA","GEMMA"]],
+ 2890:["(?<![\\p{L}\\p{N}])(?:GLUCKER|Glucker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GLUCKER","J. GLUCKER"]],
+ 2891:[
   "(?<![\\p{L}\\p{N}])(?:MALINGREY\\.|Malingrey\\.|MALINGREY|Malingrey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["A.-M. MALINGREY","MALINGREY","A. M. MALINGREY","A.-M. MALINGREY."]
  ],
- 2891:["(?<![\\p{L}\\p{N}])(?:GEMMA|Gemma)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. GEMMA","GEMMA"]],
  2892:[
   "(?<![\\p{L}\\p{N}])(?:GUMBRECHT|Gumbrecht)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H. U. GUMBRECHT","GUMBRECHT","H.-U. GUMBRECHT"]

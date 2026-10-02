@@ -32,7 +32,7 @@ HWPH.put("a/302",
   {"id":270,"name":"K. Bühler","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":866,"name":"J. J. Engel","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":1928,"name":"Ch. Bell","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":3990,"name":"Th. Piderit","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":3989,"name":"Th. Piderit","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":2005,"name":"G. Kafka","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1767,"name":"F. J. J. Buytendijk","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":10617,"name":"S. Honkavaara","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

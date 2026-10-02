@@ -22,7 +22,7 @@ HWPH.put("a/301",
   {"id":180,"name":"L. Klages","b":2,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":270,"name":"K. Bühler","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":866,"name":"J. J. Engel","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
-  {"id":3990,"name":"Th. Piderit","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":3989,"name":"Th. Piderit","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":1533,"name":"R. Kirchhoff","b":0,"n":0,"l":2,"editor":0,"role":"scholar"}
  ],
  "mentions":[],

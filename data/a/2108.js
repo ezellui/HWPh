@@ -24,7 +24,7 @@ HWPH.put("a/2108",
  "persons":[
   {"id":347,"name":"R. Eucken","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1497,"name":"J. Needham","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":4162,"name":"C. C. Chang","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
+  {"id":4161,"name":"C. C. Chang","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":220,"name":"H. Driesch","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":2435,"name":"F. Pfister","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":24652,"name":"N. Langobardi Sj","b":1,"n":0,"l":0,"editor":0,"role":"source"},

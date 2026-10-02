@@ -20,7 +20,7 @@ HWPH.put("a/1349",
  "register":[{"term":"menschewisierender Idealismus","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":2230,"name":"A. M. Deborin","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
-  {"id":3194,"name":"M. B. Mitin","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3193,"name":"M. B. Mitin","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":5544,"name":"R. Ahlberg","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":783,"name":"J. W. Stalin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":876,"name":"W. Goerdt","b":0,"n":2,"l":1,"editor":1,"role":"scholar"}

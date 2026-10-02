@@ -25,7 +25,7 @@ HWPH.put("a/1813",
  "persons":[
   {"id":1574,"name":"H. B. Curry","b":3,"n":0,"l":4,"editor":0,"role":"scholar"},
   {"id":1003,"name":"S. C. Kleene","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":4166,"name":"J. B. Rosser","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":4165,"name":"J. B. Rosser","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":715,"name":"A. Church","b":1,"n":0,"l":2,"editor":0,"role":"mixed"},
   {"id":6767,"name":"M. Schönfinkel","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":3841,"name":"K. Berka","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

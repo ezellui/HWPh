@@ -33,8 +33,8 @@ HWPH.put("a/572",
   {"id":26,"name":"Th. W. Adorno","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":111,"name":"M. Horkheimer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":121,"name":"H. Marcuse","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":56,"name":"J. Müller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":56,"name":"J. Müller","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2218,"lemma":"Ontologie","tf":4},

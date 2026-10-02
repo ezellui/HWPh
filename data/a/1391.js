@@ -25,12 +25,12 @@ HWPH.put("a/1391",
  "persons":[
   {"id":925,"name":"W. Schuppe","b":3,"n":5,"l":0,"editor":0,"role":"source"},
   {"id":3238,"name":"R. Schubert-Soldern","b":3,"n":4,"l":0,"editor":0,"role":"source"},
-  {"id":4154,"name":"M. R. Kauffmann","b":2,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":4153,"name":"M. R. Kauffmann","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":27,"name":"W. Wundt","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":370,"name":"R. Avenarius","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":125,"name":"E. Mach","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":135,"name":"W. I. Lenin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8693,"name":"J. Thiele","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":8694,"name":"J. Thiele","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2015,"lemma":"Monismus","tf":2},

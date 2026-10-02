@@ -21,7 +21,7 @@ HWPH.put("a/50",
  "persons":[
   {"id":13367,"name":"Jayanta","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1627,"name":"P. Hacker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8431,"name":"Madhva","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8432,"name":"Madhva","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":13368,"name":"Bhartrihari","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":13369,"name":"Vallabha","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":18958,"name":"Karmakar","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

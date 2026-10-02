@@ -31,7 +31,7 @@ HWPH.put("a/133",
   {"id":878,"name":"Poseidonios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1837,"name":"W. Jäger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":13429,"name":"Moschion","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8468,"name":"H. Schreckenberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8469,"name":"H. Schreckenberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2299,"name":"A. Nauck","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3413,"lemma":"Verkettung","tf":2},{"id":2764,"lemma":"Schicksal","tf":2}],

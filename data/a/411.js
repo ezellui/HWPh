@@ -28,7 +28,7 @@ HWPH.put("a/411",
  "outlinks":[],
  "register":[{"term":"tertium non datur","qualifier":"","band":"1","col":"886"}],
  "persons":[
-  {"id":221,"name":"D. Hilbert","b":2,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":221,"name":"D. Hilbert","b":2,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":450,"name":"K. Gödel","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":1012,"name":"G. Gentzen","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":46,"name":"B. Russell","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -40,7 +40,7 @@ HWPH.put("a/411",
   {"id":831,"name":"P. Bernays","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1372,"name":"W. Ackermann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":2967,"name":"S. Feferman","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8646,"name":"G. Takeuti","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8647,"name":"G. Takeuti","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13697,"name":"H. Arnold Schmidt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

@@ -25,7 +25,7 @@ HWPH.put("a/1613",
  "register":[],
  "persons":[
   {"id":40,"name":"G. Frege","b":2,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":221,"name":"D. Hilbert","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":221,"name":"D. Hilbert","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1372,"name":"W. Ackermann","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":102,"name":"Ch. S. Peirce","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":115,"name":"Lambert von Auxerre","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -48,7 +48,7 @@ HWPH.put("a/1613",
   {"id":400,"name":"Ph. Boehner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3606,"name":"M. Hertz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":5432,"name":"C. G. Cobet","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8716,"name":"C. Hosius","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8717,"name":"C. Hosius","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1803,"lemma":"Logik","tf":4},

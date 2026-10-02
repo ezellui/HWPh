@@ -27,7 +27,7 @@ HWPH.put("a/427",
   {"id":46,"name":"B. Russell","b":2,"n":0,"l":2,"editor":0,"role":"source"},
   {"id":441,"name":"F. H. Bradley","b":2,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":32,"name":"L. Wittgenstein","b":1,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":144,"name":"G. E. Moore","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":144,"name":"G. E. Moore","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":1778,"name":"E. Stenius","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":666,"lemma":"Eigenschaft","tf":4}],

@@ -10,7 +10,7 @@ HWPH.put("s/65-7a",
  "ezechiels":"ve:0,1 3m:0,1 il:0,3,1",
  "ezechielvision":"2uc:0,1",
  "ezorsky":"21c:0,0,0,1",
- "ezra":"1qq:0,0,1 13e:0,0,4,1",
+ "ezra":"1qq:0,0,1 13e:0,1,4",
  "ezrahi":"2v5:0,0,1"
 }
 );

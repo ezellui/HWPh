@@ -29,7 +29,7 @@ HWPH.put("a/1217",
  ],
  "persons":[
   {"id":44,"name":"K. Jaspers","b":2,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":92,"name":"A. Gehlen","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":254,"name":"E. Rothacker","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":19,"name":"N. Hartmann","b":0,"n":2,"l":0,"editor":0,"role":"source"}
  ],

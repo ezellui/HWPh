@@ -29,7 +29,7 @@ HWPH.put("a/2384",
   {"id":3751,"name":"R. Reitzenstein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5952,"name":"C. Träger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":16538,"name":"A. Dill","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4268,"name":"M. Marcovich","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4267,"name":"M. Marcovich","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":923,"lemma":"Fleisch","tf":2}],
  "see_also":[{"id":1030,"lemma":"Geist"}],

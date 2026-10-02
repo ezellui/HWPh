@@ -20,7 +20,7 @@ HWPH.put("a/338",
  "register":[{"term":"Bewunderung (jap.)","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":10642,"name":"O. Kressler","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":6295,"name":"S. Hisamatsu","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":6295,"name":"S. Hisamatsu","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":7250,"name":"O. Benl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":13667,"name":"Motoori Norinaga","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19609,"name":"Murasaki Shikibu","b":1,"n":0,"l":0,"editor":0,"role":"source"},

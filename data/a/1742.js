@@ -20,7 +20,7 @@ HWPH.put("a/1742",
  "register":[{"term":"Erfahrung","qualifier":"(Dilthey)","band":null,"col":null}],
  "persons":[
   {"id":231,"name":"O. F. Bollnow","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
-  {"id":202,"name":"E. Spranger","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":202,"name":"E. Spranger","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":20,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":31,"name":"W. Dilthey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":718,"name":"G. Krüger","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},

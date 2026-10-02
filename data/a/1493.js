@@ -39,7 +39,7 @@ HWPH.put("a/1493",
   {"id":22006,"name":"Hornbostel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":22007,"name":"L. Burmester","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":22008,"name":"E. Gley","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8677,"name":"M. Schroeter","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":8678,"name":"M. Schroeter","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
   {"id":1478,"name":"J. Chevalier","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3517,"lemma":"Wahl","tf":3},{"id":309,"lemma":"Aussage","tf":4}],

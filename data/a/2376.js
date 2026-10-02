@@ -20,7 +20,7 @@ HWPH.put("a/2376",
  "register":[{"term":"hsiao","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1406,"name":"R. Wilhelm","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
-  {"id":16445,"name":"Kungfutse","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":16447,"name":"Kungfutse","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":26298,"name":"P. M. Cibot Sj","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":26299,"name":"P. M. Cibot","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5867,"name":"J. Legge","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

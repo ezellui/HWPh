@@ -540,15 +540,15 @@ HWPH.put("pat/21",
  ],
  10756:["(?<![\\p{L}\\p{N}])(?:CALOGERO|Calogero)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. CALOGERO"]],
  10757:["(?<![\\p{L}\\p{N}])(?:VALENTINI|Valentini)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. VALENTINI"]],
- 10758:[
+ 10758:["(?<![\\p{L}\\p{N}])(?:GONSETH|Gonseth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. GONSETH","GONSETH"]],
+ 10759:[
   "(?<![\\p{L}\\p{N}])(?:CALVEZ|Calvez)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. Y. CALVEZ","J.-Y. CALVEZ"]
  ],
- 10759:[
+ 10760:[
   "(?<![\\p{L}\\p{N}])(?:MACHEREY|Macherey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["P. MACHEREY","MACHEREY"]
  ],
- 10760:["(?<![\\p{L}\\p{N}])(?:GONSETH|Gonseth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. GONSETH","GONSETH"]],
  10761:[
   "(?<![\\p{L}\\p{N}])(?:MARSCH|Marsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["W.-D. MARSCH","W. D. MARSCH"]

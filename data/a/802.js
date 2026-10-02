@@ -35,7 +35,7 @@ HWPH.put("a/802",
   {"id":13983,"name":"Modestinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":345,"name":"H. Grotius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":7108,"name":"Hugo Grotius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8790,"name":"Auctor","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8791,"name":"Auctor","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":13982,"name":"Herennium","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":13984,"name":"Mausbach-Ermecke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],

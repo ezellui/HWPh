@@ -19,7 +19,7 @@ HWPH.put("a/1574",
  "outlinks":[],
  "register":[{"term":"Geschichte, ökonometrische","qualifier":"","band":null,"col":null}],
  "persons":[
-  {"id":7753,"name":"R. W. Fogel","b":0,"n":2,"l":2,"editor":0,"role":"scholar"},
+  {"id":7754,"name":"R. W. Fogel","b":0,"n":2,"l":2,"editor":0,"role":"scholar"},
   {"id":160,"name":"R. W. Meyer","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":1076,"name":"K. Conrad","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":1096,"name":"G. E. Hughes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

@@ -30,7 +30,7 @@ HWPH.put("a/618",
   {"id":19957,"name":"Alsberg","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19958,"name":"Talcott Parsons","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":74,"name":"G. Simmel","b":0,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":92,"name":"A. Gehlen","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":371,"name":"N. Miller","b":1,"n":1,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":159,"lemma":"Anpassung","tf":2},{"id":3278,"lemma":"Umwelt","tf":2}],

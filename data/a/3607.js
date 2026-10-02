@@ -136,7 +136,7 @@ HWPH.put("a/3607",
   {"id":3497,"name":"P. Schulthess","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4740,"name":"Dionysius Areopagita","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5033,"name":"R. Ferber","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8147,"name":"L. von Friedeburg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8148,"name":"L. von Friedeburg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":13420,"name":"Mao-Tse-Tung","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":33256,"name":"R. Manstetten","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":33257,"name":"A. L. J. Ohlert","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -162,7 +162,7 @@ HWPH.put("a/3607",
   {"id":1502,"name":"L. Sturlese","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3580,"name":"G. Heil","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":5264,"name":"M.-R. Cathala","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8894,"name":"G. Vuillemin-Diem","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8895,"name":"G. Vuillemin-Diem","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2745,"lemma":"Satz","tf":14},

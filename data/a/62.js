@@ -26,7 +26,7 @@ HWPH.put("a/62",
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":3933,"name":"Monakow","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":3932,"name":"Monakow","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":603,"name":"D. Bonhoeffer","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1512,"name":"C. Wernicke","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1905,"name":"Kries","b":0,"n":1,"l":0,"editor":0,"role":"source"},

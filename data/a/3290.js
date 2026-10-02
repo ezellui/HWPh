@@ -46,7 +46,7 @@ HWPH.put("a/3290",
   {"term":"Verkennung","qualifier":"I (Heidegger)","band":null,"col":null}
  ],
  "persons":[
-  {"id":143,"name":"W. V. O. Quine","b":3,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":3,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":46,"name":"B. Russell","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"G. Frege","b":1,"n":1,"l":0,"editor":0,"role":"source"},

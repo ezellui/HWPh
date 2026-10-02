@@ -21,7 +21,7 @@ HWPH.put("a/3121",
  "persons":[
   {"id":176,"name":"G. Th. Fechner","b":2,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":891,"name":"G. H. Schubert","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":4043,"name":"R. Rocholl","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":4042,"name":"R. Rocholl","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1972,"name":"M. Heidelberger","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":9534,"name":"J. Kerner","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":2189,"name":"G. Gerber","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

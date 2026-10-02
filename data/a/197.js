@@ -24,7 +24,7 @@ HWPH.put("a/197",
  ],
  "persons":[
   {"id":369,"name":"G. Cantor","b":2,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":714,"name":"H. Weyl","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":714,"name":"H. Weyl","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":14,"name":"E. Husserl","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"G. Frege","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":86,"name":"P. Natorp","b":0,"n":1,"l":0,"editor":0,"role":"source"},

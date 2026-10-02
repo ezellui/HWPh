@@ -24,7 +24,7 @@ HWPH.put("a/3122",
   {"id":30613,"name":"Hung Hsiu-Ch'üan","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":597,"name":"R. Wagner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":3840,"name":"W. Michael","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8604,"name":"E. Zürcher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8605,"name":"E. Zürcher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":18082,"name":"W. E. A. van Beek","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],

@@ -400,21 +400,21 @@ HWPH.put("pat/34",
  ],
  17224:["(?<![\\p{L}\\p{N}])(?:MADGE|Madge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. MADGE","J. MADGE"]],
  17225:["(?<![\\p{L}\\p{N}])(?:RUTTKOWSKI|Ruttkowski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. V. RUTTKOWSKI"]],
- 17226:["(?<![\\p{L}\\p{N}])(?:DONINI|Donini)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. L. DONINI","P. DONINI"]],
- 17227:["(?<![\\p{L}\\p{N}])(?:VALGIGLIO|Valgiglio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. VALGIGLIO"]],
- 17228:[
-  "(?<![\\p{L}\\p{N}])(?:EISENHUT|Eisenhut)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["H. E. EISENHUT","W. EISENHUT"]
- ],
- 17229:["(?<![\\p{L}\\p{N}])(?:MEUSS|Meuss)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. MEUSS","P. G. MEUSS"]],
- 17230:["(?<![\\p{L}\\p{N}])(?:STROHM|Strohm)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. STROHM","CH. STROHM"]],
- 17231:["(?<![\\p{L}\\p{N}])(?:CIOFFARI|Cioffari)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. CIOFFARI"]],
- 17232:["(?<![\\p{L}\\p{N}])(?:STOUGH|Stough)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. STOUGH","C. L. STOUGH"]],
- 17233:["(?<![\\p{L}\\p{N}])(?:NERI|Neri)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. NERI","F. NERI"]],
- 17234:[
+ 17226:[
   "(?<![\\p{L}\\p{N}])(?:DIODOR\\s+VON\\s+TARSUS|Diodor\\s+von\\s+Tarsus|Tarsus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["DIODOR VON TARSUS"]
  ],
+ 17227:["(?<![\\p{L}\\p{N}])(?:DONINI|Donini)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. L. DONINI","P. DONINI"]],
+ 17228:["(?<![\\p{L}\\p{N}])(?:VALGIGLIO|Valgiglio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. VALGIGLIO"]],
+ 17229:[
+  "(?<![\\p{L}\\p{N}])(?:EISENHUT|Eisenhut)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["H. E. EISENHUT","W. EISENHUT"]
+ ],
+ 17230:["(?<![\\p{L}\\p{N}])(?:MEUSS|Meuss)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. MEUSS","P. G. MEUSS"]],
+ 17231:["(?<![\\p{L}\\p{N}])(?:STROHM|Strohm)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. STROHM","CH. STROHM"]],
+ 17232:["(?<![\\p{L}\\p{N}])(?:CIOFFARI|Cioffari)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. CIOFFARI"]],
+ 17233:["(?<![\\p{L}\\p{N}])(?:STOUGH|Stough)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. STOUGH","C. L. STOUGH"]],
+ 17234:["(?<![\\p{L}\\p{N}])(?:NERI|Neri)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. NERI","F. NERI"]],
  17235:["(?<![\\p{L}\\p{N}])(?:FRAKES|Frakes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. C. FRAKES"]],
  17236:["(?<![\\p{L}\\p{N}])(?:KASCHKA|Kaschka)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. P. KASCHKA"]],
  17237:["(?<![\\p{L}\\p{N}])(?:JORASCHKY|Joraschky)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. JORASCHKY"]],
@@ -548,22 +548,22 @@ HWPH.put("pat/34",
  17308:["(?<![\\p{L}\\p{N}])(?:KARLS|Karls)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["KARLS"]],
  17309:["(?<![\\p{L}\\p{N}])(?:GRITSCH|Gritsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. W. GRITSCH"]],
  17310:["(?<![\\p{L}\\p{N}])(?:KUNGFUDSE|Kungfudse)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["KUNGFUDSE"]],
- 17311:["(?<![\\p{L}\\p{N}])(?:LAUDSE|Laudse)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LAUDSE"]],
- 17312:[
+ 17311:["(?<![\\p{L}\\p{N}])(?:DSCHUANGDSE|Dschuangdse)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["DSCHUANGDSE"]],
+ 17312:["(?<![\\p{L}\\p{N}])(?:LAUDSE|Laudse)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LAUDSE"]],
+ 17313:["(?<![\\p{L}\\p{N}])(?:ISSA|Issa)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ISSA"]],
+ 17314:[
   "(?<![\\p{L}\\p{N}])(?:VON\\s+STRAUSS|von\\s+Strauss|Strauss)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["V. VON STRAUSS","L. VON STRAUSS"]
  ],
- 17313:["(?<![\\p{L}\\p{N}])(?:DEBON|Debon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. DEBON","DEBON"]],
- 17314:[
+ 17315:["(?<![\\p{L}\\p{N}])(?:DEBON|Debon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. DEBON","DEBON"]],
+ 17316:[
   "(?<![\\p{L}\\p{N}])(?:TAKEUCHI|Takeuchi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["Y. TAKEUCHI","TAKEUCHI"]
  ],
- 17315:[
+ 17317:[
   "(?<![\\p{L}\\p{N}])(?:SHIBAYAMA|Shibayama)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["Z. SHIBAYAMA","SHIBAYAMA"]
  ],
- 17316:["(?<![\\p{L}\\p{N}])(?:DSCHUANGDSE|Dschuangdse)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["DSCHUANGDSE"]],
- 17317:["(?<![\\p{L}\\p{N}])(?:ISSA|Issa)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ISSA"]],
  17318:["(?<![\\p{L}\\p{N}])(?:DREYFUS|Dreyfus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["DREYFUS"]],
  17319:[
   "(?<![\\p{L}\\p{N}])(?:OLIVIER\\s+le\\s+BRETON|Olivier\\s+le\\s+Breton|Breton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

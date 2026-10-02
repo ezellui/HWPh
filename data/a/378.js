@@ -38,7 +38,7 @@ HWPH.put("a/378",
   {"id":199,"name":"O. Kraus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":260,"name":"C. Prantl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2769,"name":"L. Schütz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8482,"name":"Occam","b":1,"n":0,"l":0,"editor":0,"role":"source"}
+  {"id":8483,"name":"Occam","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[{"id":309,"lemma":"Aussage","tf":3}],
  "see_also":[

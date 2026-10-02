@@ -27,7 +27,7 @@ HWPH.put("a/3565",
   {"term":"Stimmungsreligion","qualifier":"","band":"12","col":"475"}
  ],
  "persons":[
-  {"id":202,"name":"E. Spranger","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
+  {"id":202,"name":"E. Spranger","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":20,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":68,"name":"Grimm","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":151,"name":"K. Rahner","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

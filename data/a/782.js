@@ -47,7 +47,7 @@ HWPH.put("a/782",
   {"id":4968,"name":"J. W. Baier","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":5564,"name":"Th. Achelis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":10869,"name":"A. Fritsch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8775,"name":"Th. Harnack","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8776,"name":"Th. Harnack","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":13962,"name":"J. A. Freylinghausen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":13963,"name":"F. Niebergall","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":20251,"name":"G. Rietschel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -65,7 +65,7 @@ HWPH.put("a/782",
   {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":112,"name":"B. Suphan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2352,"name":"E. Preuss","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8774,"name":"G. Kramer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8775,"name":"G. Kramer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2377,"lemma":"Pietismus","tf":6},

@@ -19,7 +19,7 @@ HWPH.put("a/3138",
  "outlinks":[],
  "register":[{"term":"management, scientific","qualifier":"","band":"10","col":"939"}],
  "persons":[
-  {"id":8367,"name":"Th. Spitzley","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
+  {"id":8368,"name":"Th. Spitzley","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":13098,"name":"Refa","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":419,"name":"Ch. Taylor","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":9842,"name":"H. Ford","b":1,"n":1,"l":0,"editor":0,"role":"source"},

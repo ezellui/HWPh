@@ -44,7 +44,7 @@ HWPH.put("a/3642",
   {"term":"Vernunftkritik","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":8634,"name":"J. Wilbois","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8635,"name":"J. Wilbois","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":13,"name":"M. Heidegger","b":2,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":32,"name":"L. Wittgenstein","b":1,"n":1,"l":0,"editor":0,"role":"source"},

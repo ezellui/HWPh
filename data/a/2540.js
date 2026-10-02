@@ -53,7 +53,7 @@ HWPH.put("a/2540",
   {"id":708,"name":"Peter Abaelard","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":781,"name":"Paulus Venetus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1642,"name":"Petrus Abaelard","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":4267,"name":"Apuleius von Madaura","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":4266,"name":"Apuleius von Madaura","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":2056,"name":"J. Caramuel","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4735,"name":"P. Kunze","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":3407,"name":"C. H. Langford","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -77,7 +77,7 @@ HWPH.put("a/2540",
   {"id":2822,"name":"Ch. Lohr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2858,"name":"F. Alessio","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3228,"name":"C. Meiser","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4008,"name":"A. Dick","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4007,"name":"A. Dick","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":904,"lemma":"Feld, Feldtheorie","tf":10},

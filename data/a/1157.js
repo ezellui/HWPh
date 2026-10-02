@@ -28,7 +28,7 @@ HWPH.put("a/1157",
   {"id":1053,"name":"K. Reinhardt","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":122,"name":"W. Stegmüller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2048,"name":"Serry","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8998,"name":"de Heredia","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8999,"name":"de Heredia","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":251,"name":"H. Denzinger","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
   {"id":515,"name":"A. Schönmetzer","b":0,"n":2,"l":0,"editor":1,"role":"scholar"}
  ],

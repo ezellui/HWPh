@@ -30,9 +30,9 @@ HWPH.put("a/1388",
   {"term":"– II (psych.) 11 1263–1268 s. auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":4153,"name":"R. Bergler","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},
-  {"id":7687,"name":"G. Kleining","b":2,"n":3,"l":0,"editor":0,"role":"source"},
-  {"id":144,"name":"G. E. Moore","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":4152,"name":"R. Bergler","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},
+  {"id":7688,"name":"G. Kleining","b":2,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":144,"name":"G. E. Moore","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":24,"name":"S. Freud","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2853,"name":"H. Gardner","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2477,"name":"H. Levy","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -48,7 +48,7 @@ HWPH.put("a/1388",
   {"id":5087,"name":"W. Lippmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5011,"name":"K. Boulding","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":10859,"name":"C. Spitteler","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
-  {"id":8968,"name":"G. Dumas","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8969,"name":"G. Dumas","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":21746,"name":"M. Hambitzer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[

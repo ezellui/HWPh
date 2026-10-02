@@ -29,7 +29,7 @@ HWPH.put("a/1699",
   {"id":1243,"name":"Lukian","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3000,"name":"Ch. Walz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2611,"name":"Hermogenes","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":4121,"name":"Rose","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4120,"name":"Rose","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":14556,"name":"H. Barge","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

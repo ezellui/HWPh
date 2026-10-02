@@ -28,10 +28,10 @@ HWPH.put("a/2898",
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":3,"l":0,"editor":0,"role":"source"},
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1491,"name":"E. Ströker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3830,"name":"J. N. Mohanty","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":5000,"name":"R. Sokolowski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":5000,"name":"R. Sokolowski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":2343,"lemma":"Phänomenologie","tf":2},{"id":1773,"lemma":"Leistung","tf":2}],
  "see_also":[],

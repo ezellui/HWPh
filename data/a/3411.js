@@ -41,7 +41,7 @@ HWPH.put("a/3411",
  "persons":[
   {"id":7079,"name":"H. Kenner","b":0,"n":5,"l":0,"editor":0,"role":"scholar"},
   {"id":522,"name":"E. R. Curtius","b":0,"n":4,"l":0,"editor":0,"role":"mixed"},
-  {"id":3904,"name":"M. M. Bachtin","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
+  {"id":3903,"name":"M. M. Bachtin","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
   {"id":7518,"name":"R. W. Babcock","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":16,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},

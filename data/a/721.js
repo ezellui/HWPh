@@ -24,8 +24,8 @@ HWPH.put("a/721",
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":2172,"name":"U. Claesges","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":506,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":2172,"name":"U. Claesges","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":723,"lemma":"Empfindung","tf":3},{"id":1769,"lemma":"Leib, Körper","tf":2}],
  "see_also":[{"id":1319,"lemma":"Hyle, sensuelle"}],

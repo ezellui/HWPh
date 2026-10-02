@@ -69,7 +69,7 @@ HWPH.put("a/3517",
   {"id":129,"name":"E. Hirsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":327,"name":"L. Brunschvicg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3085,"name":"A. B. Drachmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":4045,"name":"P. A. Heiberg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4044,"name":"P. A. Heiberg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":836,"lemma":"Ethisch","tf":4},

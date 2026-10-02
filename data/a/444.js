@@ -21,7 +21,7 @@ HWPH.put("a/444",
  "persons":[
   {"id":11,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1537,"name":"W. Roux","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8662,"name":"E. Häckel","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8663,"name":"E. Häckel","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1231,"name":"P. Teilhard de Chardin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":10690,"name":"H. Andre","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

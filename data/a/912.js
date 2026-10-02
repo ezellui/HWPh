@@ -38,7 +38,7 @@ HWPH.put("a/912",
   {"id":20462,"name":"H. Krawinkel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":20463,"name":"R. Coulborn","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":20464,"name":"K.-E. Wädekin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8826,"name":"J. Winkelmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8827,"name":"J. Winkelmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2281,"lemma":"Partei","tf":5},

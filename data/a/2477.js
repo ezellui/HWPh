@@ -25,7 +25,7 @@ HWPH.put("a/2477",
  "persons":[
   {"id":265,"name":"Th. S. Kuhn","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2239,"name":"P. K. Feyerabend","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8176,"name":"Feyerabend","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8177,"name":"Feyerabend","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":790,"name":"I. Lakatos","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1884,"name":"A. Musgrave","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],

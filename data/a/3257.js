@@ -66,10 +66,10 @@ HWPH.put("a/3257",
   {"id":7076,"name":"R. D. Hinshelwood","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5208,"name":"O. F. Kernberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":9920,"name":"J. Chasseguet-Smirgel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4147,"name":"J. Sandler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4146,"name":"J. Sandler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":480,"name":"A. Freud","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
   {"id":10340,"name":"Ch. Gödde","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":7961,"name":"W. Brede","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":7962,"name":"W. Brede","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3385,"lemma":"Verbot","tf":3},

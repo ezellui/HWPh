@@ -734,18 +734,18 @@ HWPH.put("pat/35",
   "(?<![\\p{L}\\p{N}])(?:KIENPOINTNER|Kienpointner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["M. KIENPOINTNER"]
  ],
- 17910:["(?<![\\p{L}\\p{N}])(?:TEMPIER|Tempier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TEMPIER"]],
- 17911:[
-  "(?<![\\p{L}\\p{N}])(?:HEYMERICH\\s+VON\\s+KAMPEN|Heymerich\\s+von\\s+Kampen|Kampen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["HEYMERICH VON KAMPEN"]
- ],
- 17912:["(?<![\\p{L}\\p{N}])(?:STAIR|Stair)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. de STAIR"]],
- 17913:["(?<![\\p{L}\\p{N}])(?:SCOPIUS|Scopius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SCOPIUS"]],
- 17914:["(?<![\\p{L}\\p{N}])(?:HENOP|Henop)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. HENOP"]],
- 17915:[
+ 17910:[
   "(?<![\\p{L}\\p{N}])(?:PS\\.-TIMAIOS\\s+VON\\s+LOKROI|Ps\\.-Timaios\\s+von\\s+Lokroi|Lokroi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["PS.-TIMAIOS VON LOKROI"]
  ],
+ 17911:["(?<![\\p{L}\\p{N}])(?:TEMPIER|Tempier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TEMPIER"]],
+ 17912:[
+  "(?<![\\p{L}\\p{N}])(?:HEYMERICH\\s+VON\\s+KAMPEN|Heymerich\\s+von\\s+Kampen|Kampen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["HEYMERICH VON KAMPEN"]
+ ],
+ 17913:["(?<![\\p{L}\\p{N}])(?:STAIR|Stair)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. de STAIR"]],
+ 17914:["(?<![\\p{L}\\p{N}])(?:SCOPIUS|Scopius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SCOPIUS"]],
+ 17915:["(?<![\\p{L}\\p{N}])(?:HENOP|Henop)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. HENOP"]],
  17916:["(?<![\\p{L}\\p{N}])(?:PAPADIS|Papadis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. PAPADIS"]],
  17917:[
   "(?<![\\p{L}\\p{N}])(?:MELANI\\.|Melani\\.|MELANI|Melani)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

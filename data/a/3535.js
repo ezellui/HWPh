@@ -60,7 +60,7 @@ HWPH.put("a/3535",
   {"id":6431,"name":"J. Nicod","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":11711,"name":"P. Rutz","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":90,"name":"Sextus Empiricus","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":143,"name":"W. V. O. Quine","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":143,"name":"W. V. O. Quine","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":302,"name":"G. Patzig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":926,"name":"B. Williams","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1161,"name":"B. Mates","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -73,7 +73,7 @@ HWPH.put("a/3535",
   {"id":32767,"name":"Nand","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":32768,"name":"J. Shosky","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":13164,"name":"W. Marciszewski","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
-  {"id":8034,"name":"N. I. Kondakow","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":8035,"name":"N. I. Kondakow","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[
   {"id":3588,"lemma":"Wert","tf":7},

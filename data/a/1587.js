@@ -23,7 +23,7 @@ HWPH.put("a/1587",
  ],
  "persons":[
   {"id":168,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":202,"name":"E. Spranger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":202,"name":"E. Spranger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1034,"name":"R. B. Cattell","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":234,"name":"R. M. Hare","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":685,"name":"M. Blondel","b":0,"n":1,"l":0,"editor":0,"role":"source"},

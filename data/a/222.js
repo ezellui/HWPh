@@ -32,14 +32,14 @@ HWPH.put("a/222",
  "persons":[
   {"id":23,"name":"M. Scheler","b":3,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":19,"name":"N. Hartmann","b":1,"n":2,"l":1,"editor":0,"role":"source"},
-  {"id":3974,"name":"M. Dupuy","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":3973,"name":"M. Dupuy","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":13,"name":"M. Heidegger","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":14,"name":"E. Husserl","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":80,"name":"B. Pascal","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":3634,"name":"J. Thyssen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":19317,"name":"Max Scheler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":3387,"name":"M. Dufrenne","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8496,"name":"G. Scherer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8497,"name":"G. Scherer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":224,"lemma":"Apriorismus","tf":5},

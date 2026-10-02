@@ -38,7 +38,7 @@ HWPH.put("a/3668",
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":171,"name":"W. von Humboldt","b":1,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":9807,"name":"Patañjali","b":3,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":9808,"name":"Patañjali","b":3,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":17,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":18,"name":"J. G. Herder","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -23,7 +23,7 @@ HWPH.put("a/441",
   {"id":2972,"name":"R. A. Fisher","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1858,"name":"K. Pearson","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":10428,"name":"T. D. Weldon","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":8661,"name":"C. B. Davenport","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
+  {"id":8662,"name":"C. B. Davenport","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
  ],
  "mentions":[
   {"id":3013,"lemma":"Statistik","tf":2},

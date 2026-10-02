@@ -34,7 +34,7 @@ HWPH.put("a/581",
   {"id":260,"name":"C. Prantl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":113,"name":"Arist","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":3967,"name":"M. Hecker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":3966,"name":"M. Hecker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3118,"lemma":"Systole/Diastole","tf":4},

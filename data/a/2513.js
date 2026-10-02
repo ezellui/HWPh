@@ -36,7 +36,7 @@ HWPH.put("a/2513",
   {"id":1034,"name":"R. B. Cattell","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":6066,"name":"L. E. Marks","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5916,"name":"A. Busemann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":7706,"name":"A. Anastasi","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":7707,"name":"A. Anastasi","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[
   {"id":594,"lemma":"Differenz","tf":3},

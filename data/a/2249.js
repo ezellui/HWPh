@@ -26,7 +26,7 @@ HWPH.put("a/2249",
   {"id":10609,"name":"G. Razran","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":25221,"name":"L. G. Voronin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":25222,"name":"O. S. Vinogradova","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8691,"name":"L. Pickenhain","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8692,"name":"L. Pickenhain","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2633,"lemma":"Reflex, Reflexbewegung","tf":3},

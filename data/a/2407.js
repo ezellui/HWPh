@@ -42,7 +42,7 @@ HWPH.put("a/2407",
   {"id":378,"name":"F. Tönnies","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2252,"name":"J. Speck","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4817,"name":"F. Hammer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8417,"name":"H. U. Asemissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8418,"name":"H. U. Asemissen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1985,"lemma":"Mitte","tf":8},

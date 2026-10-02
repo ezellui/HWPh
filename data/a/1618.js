@@ -33,10 +33,10 @@ HWPH.put("a/1618",
   {"term":"Terminus, abstrakter/konkreter","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":60,"name":"J. S. Mill","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":599,"name":"J. B. Metz","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":531,"name":"Ch. W. Morris","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":531,"name":"Ch. W. Morris","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":977,"name":"Marsilius von Inghen","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2651,"name":"J. Wyclif","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"G. Frege","b":1,"n":0,"l":0,"editor":0,"role":"source"},

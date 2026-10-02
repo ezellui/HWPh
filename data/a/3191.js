@@ -46,7 +46,7 @@ HWPH.put("a/3191",
   {"id":2568,"name":"H. Schultz-Hencke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":4817,"name":"F. Hammer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":7398,"name":"E. Wiesenhütter","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8207,"name":"L. Lütkehaus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8208,"name":"L. Lütkehaus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":6648,"name":"M. Niehus-Jung","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2506,"lemma":"Psychoanalyse","tf":3}],

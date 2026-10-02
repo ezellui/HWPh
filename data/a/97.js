@@ -84,7 +84,7 @@ HWPH.put("a/97",
   {"id":19007,"name":"Novikov","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19008,"name":"W. M. Glushkow","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4329,"name":"R. M. Smullyan","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8445,"name":"M. Davis","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8446,"name":"M. Davis","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":19009,"name":"R. Péter","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":236,"name":"L. Couturat","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],

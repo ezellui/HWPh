@@ -34,7 +34,7 @@ HWPH.put("a/1588",
   {"id":168,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1424,"name":"L. Lévy-Bruhl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":14912,"name":"Elin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8935,"name":"J. Goldfriedrich","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":8936,"name":"J. Goldfriedrich","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":14266,"name":"Weguelin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[

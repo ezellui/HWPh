@@ -34,7 +34,7 @@ HWPH.put("a/3173",
   {"term":"θεολογία ἀποφατική /καταφατική","qualifier":"","band":"10","col":"1103"}
  ],
  "persons":[
-  {"id":3918,"name":"J. Hochstaffl","b":0,"n":8,"l":1,"editor":0,"role":"scholar"},
+  {"id":3917,"name":"J. Hochstaffl","b":0,"n":8,"l":1,"editor":0,"role":"scholar"},
   {"id":3,"name":"Platon","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":61,"name":"Origenes","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":140,"name":"Ps.-Dionysius Areopagita","b":1,"n":2,"l":0,"editor":0,"role":"source"},

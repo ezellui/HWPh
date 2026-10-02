@@ -20,7 +20,7 @@ HWPH.put("a/3514",
  "register":[{"term":"theory of growth","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":16,"name":"K. Marx","b":2,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":8393,"name":"R. F. Harrod","b":2,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":8394,"name":"R. F. Harrod","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":13273,"name":"E. D. Domar","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":60,"name":"J. S. Mill","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":909,"name":"F. P. Ramsey","b":1,"n":1,"l":0,"editor":0,"role":"source"},

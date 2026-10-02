@@ -48,7 +48,7 @@ HWPH.put("a/1246",
   {"id":64,"name":"I. H. Fichte","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3631,"name":"C. A. Bernoulli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":5518,"name":"Löhneysen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":7624,"name":"Ph. Strauch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":7625,"name":"Ph. Strauch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2275,"lemma":"Parapsychologie","tf":2},{"id":3130,"lemma":"Tatsache","tf":2}],
  "see_also":[

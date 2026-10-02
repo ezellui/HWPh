@@ -29,7 +29,7 @@ HWPH.put("a/1072",
   {"id":5,"name":"Thomas von Aquin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":15,"name":"R. Descartes","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":2188,"name":"Franz von Sales","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":4030,"name":"Johannes vom Kreuz","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
+  {"id":4029,"name":"Johannes vom Kreuz","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":4335,"name":"Bérulle","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[

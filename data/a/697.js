@@ -69,7 +69,7 @@ HWPH.put("a/697",
   {"id":692,"name":"W. Bolin","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1459,"name":"A. Cornu","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":13859,"name":"A. Ruest","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8737,"name":"Helm","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":8738,"name":"Helm","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":668,"lemma":"Eigentum","tf":4},

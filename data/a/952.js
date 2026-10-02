@@ -20,7 +20,7 @@ HWPH.put("a/952",
  "register":[],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":2,"l":0,"editor":1,"role":"scholar"}
+  {"id":506,"name":"L. Landgrebe","b":0,"n":2,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1241,"lemma":"Heimwelt","tf":2},{"id":691,"lemma":"Einstellung","tf":2}],
  "see_also":[{"id":1241,"lemma":"Heimwelt"}],

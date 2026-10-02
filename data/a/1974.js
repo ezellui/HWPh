@@ -23,7 +23,7 @@ HWPH.put("a/1974",
   {"id":24039,"name":"G. V. Devasthali","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":24040,"name":"F. Zangenberg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":215,"name":"D. F. Strauss","b":0,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":7948,"name":"G. Keith","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7949,"name":"G. Keith","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":15652,"name":"Ganganatha Jha","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

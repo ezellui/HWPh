@@ -25,7 +25,7 @@ HWPH.put("a/584",
  "persons":[
   {"id":90,"name":"Sextus Empiricus","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":260,"name":"C. Prantl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4022,"name":"M. Hossenfelder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":4021,"name":"M. Hossenfelder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":410,"lemma":"Beweis","tf":3},{"id":1693,"lemma":"Kriterium","tf":2}],
  "see_also":[{"id":499,"lemma":"Circulus vitiosus"},{"id":3695,"lemma":"Zirkel"}],

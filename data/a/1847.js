@@ -43,7 +43,7 @@ HWPH.put("a/1847",
   {"id":1650,"name":"W. Rein","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":5742,"name":"E. Frenzel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5888,"name":"M. Schian","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":7897,"name":"B. Böhm","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":7898,"name":"B. Böhm","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1137,"name":"A. Buchenau","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3030,"lemma":"Stoff","tf":2},{"id":289,"lemma":"Aufklärung","tf":2}],

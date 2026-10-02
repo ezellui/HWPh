@@ -21,7 +21,7 @@ HWPH.put("a/1592",
  "persons":[
   {"id":599,"name":"J. B. Metz","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":693,"name":"R. Barthes","b":0,"n":1,"l":1,"editor":0,"role":"source"},
-  {"id":2790,"name":"G. Schiwy","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":2791,"name":"G. Schiwy","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4619,"name":"D. Prokop","b":0,"n":0,"l":3,"editor":0,"role":"scholar"},
   {"id":1100,"name":"W. F. Haug","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":14919,"name":"F. Knilli","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

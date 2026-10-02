@@ -20,8 +20,8 @@ HWPH.put("a/1241",
  "register":[{"term":"Nahwelt","qualifier":"(Husserl)","band":"3","col":"1039"}],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":437,"name":"A. Diemer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":506,"name":"L. Landgrebe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":506,"name":"L. Landgrebe","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":437,"name":"A. Diemer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":691,"lemma":"Einstellung","tf":2}],
  "see_also":[{"id":952,"lemma":"Fremdwelt"},{"id":2163,"lemma":"Normalität"}],

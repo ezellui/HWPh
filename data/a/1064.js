@@ -40,8 +40,8 @@ HWPH.put("a/1064",
   {"id":2794,"lemma":"Seele","tf":15},
   {"id":941,"lemma":"Fortpflanzung","tf":2},
   {"id":3028,"lemma":"Stoa; Stoizismus","tf":2},
-  {"id":3585,"lemma":"Werden/Vergehen","tf":2},
-  {"id":3169,"lemma":"Theologie","tf":3}
+  {"id":3169,"lemma":"Theologie","tf":3},
+  {"id":3585,"lemma":"Werden/Vergehen","tf":2}
  ],
  "see_also":[],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Generatianismus; Traduzianismus"}],

@@ -36,7 +36,7 @@ HWPH.put("a/274",
   {"id":10594,"name":"J. Liébaert","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":251,"name":"H. Denzinger","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":515,"name":"A. Schönmetzer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":8565,"name":"H. G. Opitz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":8566,"name":"H. G. Opitz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[{"id":244,"lemma":"Arianismus"},{"id":2016,"lemma":"Monophysitismus"}],

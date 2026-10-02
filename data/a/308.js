@@ -27,7 +27,7 @@ HWPH.put("a/308",
   }
  ],
  "persons":[
-  {"id":8592,"name":"Carl Schmitt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":8593,"name":"Carl Schmitt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":108,"name":"C. Schmitt","b":0,"n":0,"l":2,"editor":0,"role":"mixed"},
   {"id":101,"name":"F. H. Jacobi","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":3170,"name":"K. J. Grau","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

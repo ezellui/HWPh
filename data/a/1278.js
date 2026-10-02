@@ -19,7 +19,7 @@ HWPH.put("a/1278",
  "outlinks":[],
  "register":[{"term":"Gegenseitigkeit","qualifier":"(Gehlen)","band":null,"col":null}],
  "persons":[
-  {"id":92,"name":"A. Gehlen","b":1,"n":2,"l":1,"editor":0,"role":"mixed"},
+  {"id":92,"name":"A. Gehlen","b":1,"n":2,"l":1,"editor":0,"role":"source"},
   {"id":723,"name":"G. H. Mead","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":341,"name":"H. Schelsky","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":2306,"name":"D. Claessens","b":1,"n":0,"l":1,"editor":0,"role":"scholar"}

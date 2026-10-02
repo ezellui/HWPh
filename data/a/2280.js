@@ -42,7 +42,7 @@ HWPH.put("a/2280",
   {"id":13831,"name":"A. Esmein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":16161,"name":"L. Moulin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":11451,"name":"A. Ruffini","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":7741,"name":"R. Hanslik","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":7742,"name":"R. Hanslik","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":25406,"name":"C. W. Previté-Orton","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

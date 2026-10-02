@@ -23,7 +23,7 @@ HWPH.put("a/2727",
   {"id":1195,"name":"J. B. Lamarck","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":6054,"name":"E. Severino","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":971,"name":"B. Rensch","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":1460,"name":"G. Ludwig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1460,"name":"G. Ludwig","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2417,"name":"J. S. Huxley","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":5527,"name":"A. N. Sewertzoff","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],

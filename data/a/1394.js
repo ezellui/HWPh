@@ -21,7 +21,7 @@ HWPH.put("a/1394",
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":300,"name":"H. Heimsoeth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4001,"name":"I. Heidemann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4000,"name":"I. Heidemann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":292,"name":"K. Schlechta","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

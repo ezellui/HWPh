@@ -40,7 +40,7 @@ HWPH.put("a/3134",
   {"id":5192,"name":"Maine de Biran","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":6050,"name":"L. von Mises","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3481,"name":"H. Medick","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":4063,"name":"Z. Batscha","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4062,"name":"Z. Batscha","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5038,"name":"K. A. Wittfogel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5647,"name":"Ch. Sigrist","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1427,"name":"G. Schmid Noerr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

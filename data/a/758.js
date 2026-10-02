@@ -27,7 +27,7 @@ HWPH.put("a/758",
   {"id":26,"name":"Th. W. Adorno","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":6393,"name":"G.-G. Grau","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":129,"name":"E. Hirsch","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
-  {"id":4045,"name":"P. A. Heiberg","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":4044,"name":"P. A. Heiberg","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[{"id":754,"lemma":"Entscheidung"},{"id":3517,"lemma":"Wahl"}],

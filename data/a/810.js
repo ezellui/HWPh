@@ -22,7 +22,7 @@ HWPH.put("a/810",
   {"id":231,"name":"O. F. Bollnow","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":7426,"name":"J. Spieler","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":13991,"name":"Trost","b":2,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":8792,"name":"F. Trost","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8793,"name":"F. Trost","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10882,"name":"E. E. Geissler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[

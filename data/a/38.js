@@ -30,7 +30,7 @@ HWPH.put("a/38",
   {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":260,"name":"C. Prantl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8425,"name":"R. J. Aaron","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8426,"name":"R. J. Aaron","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":18945,"name":"A. von Fragstein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":113,"name":"Arist","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
   {"id":488,"name":"F. Bassenge","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

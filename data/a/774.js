@@ -25,7 +25,7 @@ HWPH.put("a/774",
   {"id":2351,"name":"J. Jeremias","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1949,"name":"K. Kerényi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3450,"name":"H. Lietzmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8765,"name":"W. W. Baudissin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":8766,"name":"W. W. Baudissin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":20236,"name":"L. Fendt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":20237,"name":"Epiphaneia","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

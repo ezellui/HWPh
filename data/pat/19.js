@@ -313,7 +313,7 @@ HWPH.put("pat/19",
  ],
  9631:[
   "(?<![\\p{L}\\p{N}])(?:DESSAUERS|Dessauers|DESSAUER|Dessauer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["F. DESSAUER","M. DESSAUER","F. DESSAUERS"]
+  ["F. DESSAUER","F. DESSAUERS","M. DESSAUER"]
  ],
  9632:["(?<![\\p{L}\\p{N}])(?:CAPEK|Capek)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. CAPEK"]],
  9633:["(?<![\\p{L}\\p{N}])(?:SPRENGER|Sprenger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. SPRENGER"]],
@@ -439,20 +439,20 @@ HWPH.put("pat/19",
  9678:["(?<![\\p{L}\\p{N}])(?:REESOR|Reesor)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. E. REESOR"]],
  9679:["(?<![\\p{L}\\p{N}])(?:DEXIPPOS|Dexippos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["DEXIPPOS"]],
  9680:["(?<![\\p{L}\\p{N}])(?:CLAREMBALDUS|Clarembaldus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CLAREMBALDUS"]],
- 9681:["(?<![\\p{L}\\p{N}])(?:HÄUSSERMANN|Häussermann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. HÄUSSERMANN"]],
- 9682:[
-  "(?<![\\p{L}\\p{N}])(?:GUILLELMI\\s+de\\s+OCKHAM|Guillelmi\\s+de\\s+Ockham|Ockham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["GUILLELMI de OCKHAM"]
- ],
- 9683:[
-  "(?<![\\p{L}\\p{N}])(?:DORNAVIUS|Dornavius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["C. DORNAVIUS","DORNAVIUS"]
- ],
- 9684:[
+ 9681:[
   "(?<![\\p{L}\\p{N}])(?:LUBINS|Lubins|LUBIN|Lubin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["E. LUBIN","E. LUBINS","G. LUBIN"]
  ],
- 9685:["(?<![\\p{L}\\p{N}])(?:BELLUTIUS|Bellutius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. BELLUTIUS"]],
+ 9682:["(?<![\\p{L}\\p{N}])(?:BELLUTIUS|Bellutius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. BELLUTIUS"]],
+ 9683:["(?<![\\p{L}\\p{N}])(?:HÄUSSERMANN|Häussermann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. HÄUSSERMANN"]],
+ 9684:[
+  "(?<![\\p{L}\\p{N}])(?:GUILLELMI\\s+de\\s+OCKHAM|Guillelmi\\s+de\\s+Ockham|Ockham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["GUILLELMI de OCKHAM"]
+ ],
+ 9685:[
+  "(?<![\\p{L}\\p{N}])(?:DORNAVIUS|Dornavius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["C. DORNAVIUS","DORNAVIUS"]
+ ],
  9686:["(?<![\\p{L}\\p{N}])(?:NAMBARA|Nambara)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. NAMBARA"]],
  9687:["(?<![\\p{L}\\p{N}])(?:OBEREIT|Obereit)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. H. OBEREIT"]],
  9688:["(?<![\\p{L}\\p{N}])(?:LAMOTTE|Lamotte)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. LAMOTTE"]],
@@ -555,23 +555,23 @@ HWPH.put("pat/19",
  9731:["(?<![\\p{L}\\p{N}])(?:MAGER|Mager)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. MAGER"]],
  9732:["(?<![\\p{L}\\p{N}])(?:WACHSMUTH|Wachsmuth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. WACHSMUTH"]],
  9733:["(?<![\\p{L}\\p{N}])(?:WALTER|Walter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. WALTER"]],
- 9734:["(?<![\\p{L}\\p{N}])(?:ÖLKERS|Ölkers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ÖLKERS"]],
- 9735:[
+ 9734:[
   "(?<![\\p{L}\\p{N}])(?:BRZOSKAS|Brzoskas|BRZOSKA|Brzoska)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["BRZOSKA","H. G. BRZOSKA","von BRZOSKAS"]
+  ["BRZOSKA","von BRZOSKAS","H. G. BRZOSKA"]
  ],
- 9736:["(?<![\\p{L}\\p{N}])(?:BRAHN|Brahn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. BRAHN","BRAHN"]],
- 9737:[
+ 9735:["(?<![\\p{L}\\p{N}])(?:BRAHN|Brahn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. BRAHN","BRAHN"]],
+ 9736:[
+  "(?<![\\p{L}\\p{N}])(?:RISSMANN|Rissmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["RISSMANN","R. RISSMANN"]
+ ],
+ 9737:["(?<![\\p{L}\\p{N}])(?:ÖLKERS|Ölkers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ÖLKERS"]],
+ 9738:[
   "(?<![\\p{L}\\p{N}])(?:SCHUYTEN|Schuyten)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["SCHUYTEN","M. C. SCHUYTEN"]
  ],
- 9738:[
+ 9739:[
   "(?<![\\p{L}\\p{N}])(?:PALLAT\\.|Pallat\\.|PALLAT|Pallat)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["L. PALLAT","L. PALLAT."]
- ],
- 9739:[
-  "(?<![\\p{L}\\p{N}])(?:RISSMANN|Rissmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["RISSMANN","R. RISSMANN"]
  ],
  9740:[
   "(?<![\\p{L}\\p{N}])(?:SCHICK|Schick)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
@@ -731,39 +731,39 @@ HWPH.put("pat/19",
   ["EUDOROS VON ALEXANDRIEN"]
  ],
  9804:[
+  "(?<![\\p{L}\\p{N}])(?:DUPLESSIS-MORNAY|Duplessis-Mornay)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["P. DUPLESSIS-MORNAY","PH. DUPLESSIS-MORNAY"]
+ ],
+ 9805:[
   "(?<![\\p{L}\\p{N}])(?:POWER|Power)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H. POWER","E. C. POWER","C. POWER"]
  ],
- 9805:[
+ 9806:[
   "(?<![\\p{L}\\p{N}])(?:KARSAVIN|Karsavin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["L. KARSAVIN","L. P. KARSAVIN"]
  ],
- 9806:["(?<![\\p{L}\\p{N}])(?:MORELLET|Morellet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["MORELLET"]],
- 9807:[
+ 9807:["(?<![\\p{L}\\p{N}])(?:MORELLET|Morellet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["MORELLET"]],
+ 9808:[
   "(?<![\\p{L}\\p{N}])(?:PATAÑJALI\\.|Patañjali\\.|PATAÑJALI|Patañjali)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["PATAÑJALI","PATAÑJALI."]
  ],
- 9808:[
+ 9809:[
   "(?<![\\p{L}\\p{N}])(?:PS\\.-HIPPOKRATES|Ps\\.-Hippokrates)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["PS.-HIPPOKRATES","von PS.-HIPPOKRATES"]
  ],
- 9809:[
+ 9810:[
   "(?<![\\p{L}\\p{N}])(?:GARBARINO|Garbarino)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["G. GARBARINO","GARBARINO"]
  ],
- 9810:["(?<![\\p{L}\\p{N}])(?:SYMMACHUS|Symmachus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SYMMACHUS"]],
- 9811:["(?<![\\p{L}\\p{N}])(?:HUNING|Huning)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. A. HUNING"]],
- 9812:["(?<![\\p{L}\\p{N}])(?:BOSCO|Bosco)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. BOSCO","D. BOSCO"]],
- 9813:["(?<![\\p{L}\\p{N}])(?:GERL|Gerl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H.-B. GERL","H. B. GERL"]],
- 9814:["(?<![\\p{L}\\p{N}])(?:FIRPO|Firpo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. FIRPO","M. FIRPO"]],
- 9815:["(?<![\\p{L}\\p{N}])(?:ALLEN|Allen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. S. ALLEN"]],
- 9816:[
+ 9811:["(?<![\\p{L}\\p{N}])(?:SYMMACHUS|Symmachus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SYMMACHUS"]],
+ 9812:["(?<![\\p{L}\\p{N}])(?:HUNING|Huning)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. A. HUNING"]],
+ 9813:["(?<![\\p{L}\\p{N}])(?:BOSCO|Bosco)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. BOSCO","D. BOSCO"]],
+ 9814:["(?<![\\p{L}\\p{N}])(?:GERL|Gerl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H.-B. GERL","H. B. GERL"]],
+ 9815:["(?<![\\p{L}\\p{N}])(?:FIRPO|Firpo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. FIRPO","M. FIRPO"]],
+ 9816:["(?<![\\p{L}\\p{N}])(?:ALLEN|Allen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. S. ALLEN"]],
+ 9817:[
   "(?<![\\p{L}\\p{N}])(?:CARRERAS\\s+y\\s+ARTAU|Carreras\\s+y\\s+Artau|Artau)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. CARRERAS y ARTAU","T. CARRERAS y ARTAU"]
- ],
- 9817:[
-  "(?<![\\p{L}\\p{N}])(?:DUPLESSIS-MORNAY|Duplessis-Mornay)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["P. DUPLESSIS-MORNAY","PH. DUPLESSIS-MORNAY"]
  ],
  9818:["(?<![\\p{L}\\p{N}])(?:REEB|Reeb)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. REEB","REEB"]],
  9819:[
