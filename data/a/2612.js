@@ -127,7 +127,7 @@ HWPH.put("a/2612",
   {"id":5500,"name":"W. Schönfeld","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":6964,"name":"J. H. Böhmer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":7275,"name":"H. Ridder","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":14351,"name":"Ch. Montesqieu","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":14350,"name":"Ch. Montesqieu","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":16415,"name":"H. Dahn","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":27247,"name":"S. Naevius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":27248,"name":"C. Th. von Welcker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -165,7 +165,7 @@ HWPH.put("a/2612",
   {"id":2617,"lemma":"Rechtstheorie","tf":2},
   {"id":3472,"lemma":"Volk","tf":4},
   {"id":2160,"lemma":"Norm","tf":4},
-  {"id":1048,"lemma":"Gemeinschaft","tf":4}
+  {"id":2326,"lemma":"Perspektive, Perspektivismus, perspektivisch","tf":4}
  ],
  "see_also":[
   {"id":2599,"lemma":"Recht, positives; Rechtspositivismus"},

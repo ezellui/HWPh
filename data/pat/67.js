@@ -469,15 +469,15 @@ HWPH.put("pat/67",
  33783:["(?<![\\p{L}\\p{N}])(?:BOVERI|Boveri)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. BOVERI"]],
  33784:["(?<![\\p{L}\\p{N}])(?:BEALE|Beale)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. BEALE"]],
  33785:["(?<![\\p{L}\\p{N}])(?:HENSEN|Hensen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. HENSEN"]],
- 33786:["(?<![\\p{L}\\p{N}])(?:DUCHESNEAU|Duchesneau)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DUCHESNEAU"]],
- 33787:[
+ 33786:["(?<![\\p{L}\\p{N}])(?:DUTROCHET|Dutrochet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. DUTROCHET"]],
+ 33787:["(?<![\\p{L}\\p{N}])(?:RASPAIL|Raspail)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F.-V. RASPAIL"]],
+ 33788:["(?<![\\p{L}\\p{N}])(?:WALDEYER|Waldeyer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. WALDEYER"]],
+ 33789:["(?<![\\p{L}\\p{N}])(?:KÖLLIKER|Kölliker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. KÖLLIKER"]],
+ 33790:["(?<![\\p{L}\\p{N}])(?:DUCHESNEAU|Duchesneau)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DUCHESNEAU"]],
+ 33791:[
   "(?<![\\p{L}\\p{N}])(?:MÜLLER-STRAHL|Müller-Strahl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["G. MÜLLER-STRAHL"]
  ],
- 33788:["(?<![\\p{L}\\p{N}])(?:DUTROCHET|Dutrochet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. DUTROCHET"]],
- 33789:["(?<![\\p{L}\\p{N}])(?:RASPAIL|Raspail)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F.-V. RASPAIL"]],
- 33790:["(?<![\\p{L}\\p{N}])(?:WALDEYER|Waldeyer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. WALDEYER"]],
- 33791:["(?<![\\p{L}\\p{N}])(?:KÖLLIKER|Kölliker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. KÖLLIKER"]],
  33792:[
   "(?<![\\p{L}\\p{N}])(?:SHÂKYAMUNI\\s+BUDDHA|Shâkyamuni\\s+Buddha|Buddha)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["SHÂKYAMUNI BUDDHA"]

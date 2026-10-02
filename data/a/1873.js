@@ -21,7 +21,7 @@ HWPH.put("a/1873",
   {"term":"Biogen","qualifier":"","band":"5","col":"802"},
   {"term":"– VI (biol.) 5 97–103 s. auch","qualifier":"","band":null,"col":null}
  ],
- "persons":[{"id":1358,"name":"J. Schultz","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}],
+ "persons":[{"id":1358,"name":"J. Schultz","b":1,"n":1,"l":0,"editor":0,"role":"scholar"}],
  "mentions":[
   {"id":526,"lemma":"Darwinismus","tf":3},
   {"id":3470,"lemma":"Vitalismus","tf":2},

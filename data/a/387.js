@@ -26,7 +26,7 @@ HWPH.put("a/387",
   {"id":36,"name":"R. Carnap","b":1,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":198,"name":"M. Schlick","b":1,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":587,"name":"O. Neurath","b":1,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":862,"name":"V. Kraft","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":862,"name":"V. Kraft","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":309,"lemma":"Aussage","tf":5},{"id":3539,"lemma":"Wahrnehmung","tf":2}],
  "see_also":[

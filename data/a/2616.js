@@ -38,7 +38,7 @@ HWPH.put("a/2616",
  "persons":[
   {"id":643,"name":"L. von Stein","b":3,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":3381,"name":"Aretin","b":2,"n":3,"l":0,"editor":0,"role":"mixed"},
-  {"id":1134,"name":"E. Forsthoff","b":1,"n":3,"l":2,"editor":0,"role":"mixed"},
+  {"id":1134,"name":"E. Forsthoff","b":1,"n":3,"l":2,"editor":0,"role":"scholar"},
   {"id":2585,"name":"Welcker","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
   {"id":2837,"name":"Mohl","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":5696,"name":"W. Kägi","b":0,"n":4,"l":0,"editor":0,"role":"scholar"},

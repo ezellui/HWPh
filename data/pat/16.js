@@ -411,12 +411,12 @@ HWPH.put("pat/16",
   ["VINZENZ FERRER"]
  ],
  8158:[
-  "(?<![\\p{L}\\p{N}])(?:MCGUIRE|Mcguire)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["J. E. MCGUIRE","W. MCGUIRE"]
- ],
- 8159:[
   "(?<![\\p{L}\\p{N}])(?:TRENTMAN|Trentman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. A. TRENTMAN","J. TRENTMAN","TRENTMAN"]
+ ],
+ 8159:[
+  "(?<![\\p{L}\\p{N}])(?:MCGUIRE|Mcguire)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. E. MCGUIRE","W. MCGUIRE"]
  ],
  8160:["(?<![\\p{L}\\p{N}])(?:ALVAREZ|Alvarez)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. ALVAREZ","ALVAREZ"]],
  8161:["(?<![\\p{L}\\p{N}])(?:RABENECK|Rabeneck)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. RABENECK"]],

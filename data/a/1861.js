@@ -172,7 +172,6 @@ HWPH.put("a/1861",
   {"id":23460,"name":"J. S. Tzschirchius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":23461,"name":"H. J. Gerdesen","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":23462,"name":"F. Forti","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":223,"name":"J. G. Sulzer","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":4601,"name":"F. A. Patterson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5206,"name":"E. H. Ackerknecht","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -197,7 +196,8 @@ HWPH.put("a/1861",
   {"id":15379,"name":"A. Bufano","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":15380,"name":"L. Mehus","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":23442,"name":"R. Kapferer-Fingerle","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":23455,"name":"A. Carballo Pizaco","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":23455,"name":"A. Carballo Pizaco","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1715,"lemma":"Kunst, Dichtung, Dichtkunst","tf":8},

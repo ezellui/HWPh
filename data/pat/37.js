@@ -467,13 +467,13 @@ HWPH.put("pat/37",
  18769:["(?<![\\p{L}\\p{N}])(?:HALIBURTON|Haliburton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. HALIBURTON"]],
  18770:["(?<![\\p{L}\\p{N}])(?:SCHABER|Schaber)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. SCHABER"]],
  18771:["(?<![\\p{L}\\p{N}])(?:RIND|Rind)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. M. RIND","M. RIND"]],
- 18772:["(?<![\\p{L}\\p{N}])(?:DECHER|Decher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DECHER"]],
- 18773:["(?<![\\p{L}\\p{N}])(?:ATWELL|Atwell)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. E. ATWELL"]],
- 18774:[
+ 18772:[
   "(?<![\\p{L}\\p{N}])(?:WILHELM\\s+VON\\s+BRÜGGE|Wilhelm\\s+von\\s+Brügge|Brügge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["WILHELM VON BRÜGGE"]
  ],
- 18775:["(?<![\\p{L}\\p{N}])(?:SIEPER|Sieper)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. SIEPER"]],
+ 18773:["(?<![\\p{L}\\p{N}])(?:SIEPER|Sieper)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. SIEPER"]],
+ 18774:["(?<![\\p{L}\\p{N}])(?:DECHER|Decher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. DECHER"]],
+ 18775:["(?<![\\p{L}\\p{N}])(?:ATWELL|Atwell)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. E. ATWELL"]],
  18776:[
   "(?<![\\p{L}\\p{N}])(?:GERARDUS\\s+ODONIS|Gerardus\\s+Odonis|Odonis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["von GERARDUS ODONIS","GERARDUS ODONIS"]

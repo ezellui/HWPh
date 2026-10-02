@@ -340,12 +340,12 @@ HWPH.put("pat/48",
  24202:["(?<![\\p{L}\\p{N}])(?:MENEGONI|Menegoni)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. MENEGONI"]],
  24203:["(?<![\\p{L}\\p{N}])(?:DUSTDAR|Dustdar)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. DUSTDAR"]],
  24204:[
-  "(?<![\\p{L}\\p{N}])(?:BARTHELEMY-MADAULE|Barthelemy-Madaule)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["M. BARTHELEMY-MADAULE"]
- ],
- 24205:[
   "(?<![\\p{L}\\p{N}])(?:BARTHÉLEMY-MADAULE|Barthélemy-Madaule)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["M. BARTHÉLEMY-MADAULE"]
+ ],
+ 24205:[
+  "(?<![\\p{L}\\p{N}])(?:BARTHELEMY-MADAULE|Barthelemy-Madaule)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. BARTHELEMY-MADAULE"]
  ],
  24206:["(?<![\\p{L}\\p{N}])(?:CUMMING|Cumming)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. CUMMING"]],
  24207:["(?<![\\p{L}\\p{N}])(?:KALOCSAI|Kalocsai)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. KALOCSAI"]],

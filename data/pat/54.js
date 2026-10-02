@@ -172,17 +172,17 @@ HWPH.put("pat/54",
   "(?<![\\p{L}\\p{N}])(?:CHRISTALLERS|Christallers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["W. CHRISTALLERS"]
  ],
- 27118:["(?<![\\p{L}\\p{N}])(?:LACOSTE|Lacoste)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Y. LACOSTE"]],
- 27119:["(?<![\\p{L}\\p{N}])(?:KORINMAN|Korinman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. KORINMAN"]],
- 27120:["(?<![\\p{L}\\p{N}])(?:KNODT|Knodt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. KNODT"]],
- 27121:["(?<![\\p{L}\\p{N}])(?:ALLIES|Allies)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. ALLIES"]],
- 27122:[
+ 27118:["(?<![\\p{L}\\p{N}])(?:ALLIES|Allies)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. ALLIES"]],
+ 27119:[
   "(?<![\\p{L}\\p{N}])(?:BURGERMEISTER|Burgermeister)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. S. BURGERMEISTER"]
  ],
- 27123:["(?<![\\p{L}\\p{N}])(?:CHRISTALLER|Christaller)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. CHRISTALLER"]],
- 27124:["(?<![\\p{L}\\p{N}])(?:ENNEN|Ennen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ENNEN"]],
- 27125:["(?<![\\p{L}\\p{N}])(?:BALKE|Balke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. BALKE"]],
+ 27120:["(?<![\\p{L}\\p{N}])(?:CHRISTALLER|Christaller)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. CHRISTALLER"]],
+ 27121:["(?<![\\p{L}\\p{N}])(?:ENNEN|Ennen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ENNEN"]],
+ 27122:["(?<![\\p{L}\\p{N}])(?:BALKE|Balke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. BALKE"]],
+ 27123:["(?<![\\p{L}\\p{N}])(?:LACOSTE|Lacoste)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Y. LACOSTE"]],
+ 27124:["(?<![\\p{L}\\p{N}])(?:KORINMAN|Korinman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. KORINMAN"]],
+ 27125:["(?<![\\p{L}\\p{N}])(?:KNODT|Knodt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. KNODT"]],
  27126:["(?<![\\p{L}\\p{N}])(?:KIMPLE|Kimple)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. A. KIMPLE"]],
  27127:["(?<![\\p{L}\\p{N}])(?:ANGERMEIER|Angermeier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. F. ANGERMEIER"]],
  27128:[

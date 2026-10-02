@@ -126,7 +126,6 @@ HWPH.put("a/2782",
   {"id":28269,"name":"Hieronymus Lauretus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":3539,"name":"R. A. Spitz","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":735,"name":"M.-D. Chenu","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1244,"name":"Ch. Meier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2041,"name":"H. Brinkmann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":6471,"name":"C. Spicq","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":7004,"name":"K. Hoheisel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -141,7 +140,8 @@ HWPH.put("a/2782",
   {"id":955,"name":"F. Wehrli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":15869,"name":"J. P. Bruce","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":28258,"name":"F. Oelmann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":28268,"name":"K. Wotke. Csel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":28268,"name":"K. Wotke. Csel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1244,"name":"Ch. Meier","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":857,"lemma":"Exegese, pneumatische","tf":10},

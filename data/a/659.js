@@ -24,8 +24,8 @@ HWPH.put("a/659",
  ],
  "persons":[
   {"id":1410,"name":"E. R. Jaensch","b":2,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":3374,"name":"O. Kroh","b":1,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":4836,"name":"W. Traxel","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3374,"name":"O. Kroh","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":4836,"name":"W. Traxel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13486,"name":"H. Düker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":2340,"lemma":"Phänomen","tf":2}],

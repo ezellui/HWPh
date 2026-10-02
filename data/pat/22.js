@@ -17,8 +17,8 @@ HWPH.put("pat/22",
   "(?<![\\p{L}\\p{N}])(?:BOSSHARD|Bosshard)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["W. BOSSHARD","S. N. BOSSHARD"]
  ],
- 11008:["(?<![\\p{L}\\p{N}])(?:POKORNY|Pokorny)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. POKORNY","I. POKORNY"]],
- 11009:["(?<![\\p{L}\\p{N}])(?:EWERT|Ewert)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. EWERT","EWERT"]],
+ 11008:["(?<![\\p{L}\\p{N}])(?:EWERT|Ewert)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. EWERT","EWERT"]],
+ 11009:["(?<![\\p{L}\\p{N}])(?:POKORNY|Pokorny)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. POKORNY","I. POKORNY"]],
  11010:[
   "(?<![\\p{L}\\p{N}])(?:BOESCHENSTEIN|Boeschenstein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H. BOESCHENSTEIN","B. BOESCHENSTEIN"]

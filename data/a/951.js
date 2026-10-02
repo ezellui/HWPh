@@ -22,7 +22,7 @@ HWPH.put("a/951",
   {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":36,"name":"R. Carnap","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":288,"name":"G. Ryle","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":862,"name":"V. Kraft","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":862,"name":"V. Kraft","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":3618,"lemma":"Wiener Kreis","tf":3},{"id":1424,"lemma":"Individuum, Individualität","tf":2}],
  "see_also":[{"id":665,"lemma":"Eigenpsychisch"}],

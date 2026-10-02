@@ -27,7 +27,7 @@ HWPH.put("a/1249",
   {"id":2342,"name":"H. Tellenbach","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":23,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1811,"name":"E. Straus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":1918,"name":"Gebsattel","b":1,"n":1,"l":0,"editor":0,"role":"source"}
+  {"id":1918,"name":"Gebsattel","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}
  ],
  "mentions":[
   {"id":1248,"lemma":"Hemmung","tf":4},

@@ -21,10 +21,10 @@ HWPH.put("a/2314",
  "persons":[
   {"id":3507,"name":"F. Patrizzi","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":16219,"name":"Hermipp","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":1052,"name":"I. Düring","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":291,"name":"F. Ueberweg","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":6886,"name":"C. O. Brink","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":955,"name":"F. Wehrli","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":1052,"name":"I. Düring","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":649,"name":"A. Busse","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
   {"id":665,"name":"H. Flashar","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],

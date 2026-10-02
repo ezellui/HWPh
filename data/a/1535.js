@@ -27,10 +27,10 @@ HWPH.put("a/1535",
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":1027,"name":"K. Gaiser","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1936,"name":"W. Nestle","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4946,"name":"O. Apelt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":14478,"name":"G. Rohr","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":14478,"name":"G. Rohr","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1027,"name":"K. Gaiser","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2696,"lemma":"Rest, metaphysischer","tf":2},

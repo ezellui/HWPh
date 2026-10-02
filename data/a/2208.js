@@ -24,7 +24,7 @@ HWPH.put("a/2208",
  ],
  "persons":[
   {"id":1628,"name":"H. Bender","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
-  {"id":959,"name":"M. Dessoir","b":1,"n":1,"l":2,"editor":0,"role":"mixed"},
+  {"id":959,"name":"M. Dessoir","b":1,"n":1,"l":2,"editor":0,"role":"scholar"},
   {"id":521,"name":"H. C. Agrippa von Nettesheim","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":1702,"name":"J. G. K. Ch. Kiesewetter","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":8041,"name":"A. von Schrenck-Notzing","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},

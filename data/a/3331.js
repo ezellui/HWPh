@@ -63,10 +63,10 @@ HWPH.put("a/3331",
   {"id":5075,"name":"H. Boeder","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":9733,"name":"J. Walter","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":31766,"name":"H. Rassow","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6975,"name":"A. Gethmann-Siefert","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6041,"name":"Ch. von Wolzogen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":568,"name":"H. Holzhey","b":0,"n":2,"l":0,"editor":1,"role":"scholar"}
+  {"id":568,"name":"H. Holzhey","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":842,"lemma":"Etymologie","tf":2},

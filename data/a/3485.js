@@ -43,14 +43,14 @@ HWPH.put("a/3485",
   {"id":80,"name":"B. Pascal","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":397,"name":"A. Arnauld","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":16,"name":"K. Marx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5633,"name":"B. de Jouvenel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":6424,"name":"Ch. Levine","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":6434,"name":"P. Riley","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":319,"name":"M. Raymond","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":349,"name":"B. Gagnebin","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":327,"name":"L. Brunschvicg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":327,"name":"L. Brunschvicg","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2688,"lemma":"Republik","tf":4},

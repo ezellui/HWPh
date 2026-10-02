@@ -72,7 +72,6 @@ HWPH.put("a/547",
   {"id":13787,"name":"Heinsius","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":19832,"name":"von Roger Williams","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":269,"name":"H. Kelsen","b":0,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":1244,"name":"Ch. Meier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":7309,"name":"W. Hasbach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10728,"name":"J. Bryce","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10729,"name":"G. Burdeau","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -82,7 +81,8 @@ HWPH.put("a/547",
   {"id":19834,"name":"M. Hättich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":129,"name":"E. Hirsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":113,"name":"Arist","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":113,"name":"Arist","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1244,"name":"Ch. Meier","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":245,"lemma":"Aristokratie, Adel","tf":6},

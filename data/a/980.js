@@ -36,7 +36,7 @@ HWPH.put("a/980",
   {"id":95,"name":"J. F. Fries","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":103,"name":"G. F. Meier","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":96,"name":"B. Bolzano","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":1249,"name":"J. Geyser","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":1249,"name":"J. Geyser","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":91,"name":"F. Brentano","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[{"id":1131,"lemma":"Gewißheit","tf":2}],

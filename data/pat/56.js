@@ -85,18 +85,18 @@ HWPH.put("pat/56",
   "(?<![\\p{L}\\p{N}])(?:SAADJA\\s+BEN\\s+JOSEF\\s+AL-FAJJUMI|Saadja\\s+ben\\s+Josef\\s+Al-Fajjumi|Al-Fajjumi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["SAADJA BEN JOSEF AL-FAJJUMI"]
  ],
- 28055:["(?<![\\p{L}\\p{N}])(?:BRILL'S|Brill's)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. J. BRILL'S"]],
- 28056:["(?<![\\p{L}\\p{N}])(?:JAVARY|Javary)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. JAVARY"]],
- 28057:[
+ 28055:["(?<![\\p{L}\\p{N}])(?:JAVARY|Javary)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. JAVARY"]],
+ 28056:[
   "(?<![\\p{L}\\p{N}])(?:TRAVERS\\s+HERFORD|Travers\\s+Herford|Herford)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["R. TRAVERS HERFORD"]
  ],
- 28058:[
+ 28057:[
   "(?<![\\p{L}\\p{N}])(?:AEGIDIUS\\s+VON\\s+VITERBO|Aegidius\\s+von\\s+Viterbo|Viterbo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["AEGIDIUS VON VITERBO"]
  ],
- 28059:["(?<![\\p{L}\\p{N}])(?:ABER|Aber)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. ABER"]],
- 28060:["(?<![\\p{L}\\p{N}])(?:PATAI|Patai)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. PATAI"]],
+ 28058:["(?<![\\p{L}\\p{N}])(?:ABER|Aber)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. ABER"]],
+ 28059:["(?<![\\p{L}\\p{N}])(?:PATAI|Patai)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. PATAI"]],
+ 28060:["(?<![\\p{L}\\p{N}])(?:BRILL'S|Brill's)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. J. BRILL'S"]],
  28061:["(?<![\\p{L}\\p{N}])(?:REYNARTS|Reynarts)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["REYNARTS"]],
  28062:["(?<![\\p{L}\\p{N}])(?:GOOSSENS|Goossens)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. GOOSSENS"]],
  28063:["(?<![\\p{L}\\p{N}])(?:LÄNGIN|Längin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. LÄNGIN"]],

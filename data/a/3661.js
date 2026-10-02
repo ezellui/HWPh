@@ -71,7 +71,7 @@ HWPH.put("a/3661",
  "persons":[
   {"id":137,"name":"W. James","b":2,"n":3,"l":1,"editor":0,"role":"source"},
   {"id":33,"name":"D. Hume","b":3,"n":2,"l":0,"editor":0,"role":"source"},
-  {"id":1666,"name":"R. B. Brandt","b":3,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1666,"name":"R. B. Brandt","b":3,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":30,"name":"Th. Hobbes","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":46,"name":"B. Russell","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":60,"name":"J. S. Mill","b":2,"n":2,"l":0,"editor":0,"role":"source"},

@@ -145,7 +145,7 @@ HWPH.put("a/1430",
   {"id":2745,"lemma":"Satz","tf":6},
   {"id":2551,"lemma":"Quantifizierung","tf":2},
   {"id":2774,"lemma":"Schnitt, Goldener","tf":2},
-  {"id":1490,"lemma":"Invention, Erfindung, Entdeckung","tf":4}
+  {"id":1184,"lemma":"Grenze","tf":5}
  ],
  "see_also":[
   {"id":1640,"lemma":"Kontinuum, Kontinuität"},

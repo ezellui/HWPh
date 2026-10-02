@@ -84,8 +84,8 @@ HWPH.put("pat/26",
  13042:["(?<![\\p{L}\\p{N}])(?:GERKEN|Gerken)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. GERKEN","L. GERKEN"]],
  13043:["(?<![\\p{L}\\p{N}])(?:OGOREK|Ogorek)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. OGOREK"]],
  13044:["(?<![\\p{L}\\p{N}])(?:JOURDA|Jourda)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. JOURDA"]],
- 13045:["(?<![\\p{L}\\p{N}])(?:GRAMLICH|Gramlich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. GRAMLICH"]],
- 13046:["(?<![\\p{L}\\p{N}])(?:RÜCKERT|Rückert)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. RÜCKERT"]],
+ 13045:["(?<![\\p{L}\\p{N}])(?:RÜCKERT|Rückert)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. RÜCKERT"]],
+ 13046:["(?<![\\p{L}\\p{N}])(?:GRAMLICH|Gramlich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. GRAMLICH"]],
  13047:["(?<![\\p{L}\\p{N}])(?:PANDA|Panda)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. K. PANDA","PANDA"]],
  13048:["(?<![\\p{L}\\p{N}])(?:GILMAN|Gilman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. GILMAN"]],
  13049:["(?<![\\p{L}\\p{N}])(?:GILMAN|Gilman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GILMAN"]],
@@ -249,14 +249,14 @@ HWPH.put("pat/26",
   "(?<![\\p{L}\\p{N}])(?:WOHLMUTH|Wohlmuth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. WOHLMUTH","WOHLMUTH"]
  ],
- 13144:["(?<![\\p{L}\\p{N}])(?:KNOEPFFLER|Knoepffler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. KNOEPFFLER"]],
- 13145:["(?<![\\p{L}\\p{N}])(?:HILBERATH|Hilberath)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. J. HILBERATH"]],
- 13146:["(?<![\\p{L}\\p{N}])(?:OBERHAUSEN|Oberhausen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. OBERHAUSEN"]],
- 13147:[
+ 13144:["(?<![\\p{L}\\p{N}])(?:OBERHAUSEN|Oberhausen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. OBERHAUSEN"]],
+ 13145:[
   "(?<![\\p{L}\\p{N}])(?:OKRENT|Okrent)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["M. B. OKRENT","N. OKRENT","M. OKRENT"]
  ],
- 13148:["(?<![\\p{L}\\p{N}])(?:ARENS|Arens)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ARENS"]],
+ 13146:["(?<![\\p{L}\\p{N}])(?:ARENS|Arens)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ARENS"]],
+ 13147:["(?<![\\p{L}\\p{N}])(?:HILBERATH|Hilberath)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. J. HILBERATH"]],
+ 13148:["(?<![\\p{L}\\p{N}])(?:KNOEPFFLER|Knoepffler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. KNOEPFFLER"]],
  13149:["(?<![\\p{L}\\p{N}])(?:GRUNDMANN|Grundmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. GRUNDMANN"]],
  13150:["(?<![\\p{L}\\p{N}])(?:FRANZ|Franz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. FRANZ"]],
  13151:["(?<![\\p{L}\\p{N}])(?:SCHÜSSLER|Schüssler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SCHÜSSLER"]],
@@ -564,12 +564,12 @@ HWPH.put("pat/26",
   ["T. VILJAMAA","VILJAMAA"]
  ],
  13314:["(?<![\\p{L}\\p{N}])(?:TOMONEN|Tomonen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. TOMONEN","TOMONEN"]],
- 13315:["(?<![\\p{L}\\p{N}])(?:PINK|Pink)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. PINK"]],
- 13316:[
+ 13315:[
   "(?<![\\p{L}\\p{N}])(?:LANGEVIN|Langevin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["P. LANGEVIN","P.-E. LANGEVIN"]
  ],
- 13317:["(?<![\\p{L}\\p{N}])(?:KUHL|Kuhl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. KUHL","U. KUHL"]],
+ 13316:["(?<![\\p{L}\\p{N}])(?:KUHL|Kuhl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. KUHL","U. KUHL"]],
+ 13317:["(?<![\\p{L}\\p{N}])(?:PINK|Pink)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. PINK"]],
  13318:["(?<![\\p{L}\\p{N}])(?:PREUL|Preul)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. PREUL","PREUL"]],
  13319:[
   "(?<![\\p{L}\\p{N}])(?:ULRICH\\s+VON\\s+STRASSBURG|Ulrich\\s+von\\s+Strassburg|Strassburg|ULRICH|Ulrich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

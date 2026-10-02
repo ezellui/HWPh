@@ -158,7 +158,6 @@ HWPH.put("a/2229",
   {"id":676,"name":"Irenaeus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":546,"name":"Eusebius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1011,"name":"Livius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":1169,"name":"H. Gouhier","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1008,"name":"J. Harris","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1046,"name":"Hrabanus Maurus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1197,"name":"Beda Venerabilis","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -241,7 +240,8 @@ HWPH.put("a/2229",
   {"id":4112,"name":"P. Stengel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4253,"name":"E. Iserloh","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5993,"name":"G. Wenz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":5502,"name":"E. Schlink","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":5502,"name":"E. Schlink","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4100,"name":"O. Eissfeldt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2673,"lemma":"Religion","tf":14},

@@ -294,16 +294,16 @@ HWPH.put("pat/41",
   ["SHAFTESBURY von LEIBNIZ"]
  ],
  20658:["(?<![\\p{L}\\p{N}])(?:IFFLANDS|Ifflands)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. W. IFFLANDS"]],
- 20659:["(?<![\\p{L}\\p{N}])(?:METCALF|Metcalf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. C. METCALF"]],
- 20660:["(?<![\\p{L}\\p{N}])(?:MAIZEAUX|Maizeaux)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["MAIZEAUX"]],
- 20661:["(?<![\\p{L}\\p{N}])(?:IFFLAND|Iffland)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. W. IFFLAND"]],
- 20662:["(?<![\\p{L}\\p{N}])(?:HÄNTZSCHEL|Häntzschel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. HÄNTZSCHEL"]],
- 20663:["(?<![\\p{L}\\p{N}])(?:PAUSTIAN|Paustian)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. PAUSTIAN"]],
- 20664:["(?<![\\p{L}\\p{N}])(?:ABRAMSON|Abramson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. A. ABRAMSON"]],
- 20665:[
+ 20659:["(?<![\\p{L}\\p{N}])(?:MAIZEAUX|Maizeaux)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["MAIZEAUX"]],
+ 20660:["(?<![\\p{L}\\p{N}])(?:IFFLAND|Iffland)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. W. IFFLAND"]],
+ 20661:["(?<![\\p{L}\\p{N}])(?:HÄNTZSCHEL|Häntzschel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. HÄNTZSCHEL"]],
+ 20662:["(?<![\\p{L}\\p{N}])(?:PAUSTIAN|Paustian)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. PAUSTIAN"]],
+ 20663:["(?<![\\p{L}\\p{N}])(?:ABRAMSON|Abramson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. A. ABRAMSON"]],
+ 20664:[
   "(?<![\\p{L}\\p{N}])(?:ELIZABETH\\s+DUFFY|Elizabeth\\s+Duffy|Duffy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["ELIZABETH DUFFY"]
  ],
+ 20665:["(?<![\\p{L}\\p{N}])(?:METCALF|Metcalf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. C. METCALF"]],
  20666:["(?<![\\p{L}\\p{N}])(?:RAITZ|Raitz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. RAITZ"]],
  20667:["(?<![\\p{L}\\p{N}])(?:FRENTZ|Frentz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FRENTZ"]],
  20668:[

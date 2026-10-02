@@ -23,7 +23,6 @@ HWPH.put("a/2378",
   {"term":"Talmud","qualifier":"","band":null,"col":null}
  ],
  "persons":[
-  {"id":991,"name":"Mgwj","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},
   {"id":940,"name":"H. A. Wolfson","b":2,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":5808,"name":"M. Güdemann","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":124,"name":"M. Mendelssohn","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -66,6 +65,7 @@ HWPH.put("a/2378",
   {"id":8987,"name":"L. Jacobs","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":11416,"name":"J. Eschelbacher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":26312,"name":"M. Kartagener","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":991,"name":"Mgwj","b":0,"n":4,"l":1,"editor":1,"role":"scholar"},
   {"id":9533,"name":"M. S. Zuckermandel","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":129,"name":"E. Hirsch","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],

@@ -21,7 +21,7 @@ HWPH.put("a/615",
  "persons":[
   {"id":8718,"name":"S. Arrhenius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19955,"name":"H. E. St-Claire Deville","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":3200,"name":"J. C. Schwab","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
+  {"id":3200,"name":"J. C. Schwab","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":7350,"name":"L. Hock","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13832,"name":"J. Eggert","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],

@@ -20,7 +20,7 @@ HWPH.put("a/1855",
  "register":[{"term":"Unternehmer","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":6302,"name":"A. A. Berle","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},
-  {"id":4193,"name":"J. Burnham","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":4194,"name":"J. Burnham","b":2,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":11757,"name":"Means","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":16,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":19,"name":"N. Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},

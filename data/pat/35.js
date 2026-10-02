@@ -884,11 +884,11 @@ HWPH.put("pat/35",
  17979:["(?<![\\p{L}\\p{N}])(?:KOLSTAD|Kolstad)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. KOLSTAD"]],
  17980:["(?<![\\p{L}\\p{N}])(?:SPODE|Spode)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. SPODE"]],
  17981:["(?<![\\p{L}\\p{N}])(?:NICOLAY|Nicolay)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. de NICOLAY"]],
- 17982:["(?<![\\p{L}\\p{N}])(?:CHODKIEWICZ|Chodkiewicz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. CHODKIEWICZ"]],
- 17983:[
+ 17982:[
   "(?<![\\p{L}\\p{N}])(?:NÖLDECKE|Nöldecke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["T. NÖLDECKE","NÖLDECKE"]
  ],
+ 17983:["(?<![\\p{L}\\p{N}])(?:CHODKIEWICZ|Chodkiewicz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. CHODKIEWICZ"]],
  17984:["(?<![\\p{L}\\p{N}])(?:MICHOT|Michot)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. R. MICHOT","J. MICHOT"]],
  17985:[
   "(?<![\\p{L}\\p{N}])(?:CAESARIUS\\s+VON\\s+ARELATE|Caesarius\\s+von\\s+Arelate|Arelate)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

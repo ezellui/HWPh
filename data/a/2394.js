@@ -31,7 +31,6 @@ HWPH.put("a/2394",
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":5,"l":0,"editor":0,"role":"source"},
   {"id":103,"name":"G. F. Meier","b":0,"n":6,"l":0,"editor":0,"role":"source"},
-  {"id":1244,"name":"Ch. Meier","b":0,"n":4,"l":0,"editor":0,"role":"scholar"},
   {"id":284,"name":"Pindar","b":0,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":372,"name":"Thukydides","b":0,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":16570,"name":"Bordes","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
@@ -45,7 +44,8 @@ HWPH.put("a/2394",
   {"id":5318,"name":"W. Nippel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":13543,"name":"O. Bordes","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":16571,"name":"Ps.-Xenophon","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":26395,"name":"H. Stratmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":26395,"name":"H. Stratmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":1244,"name":"Ch. Meier","b":0,"n":4,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":547,"lemma":"Demokratie","tf":9},

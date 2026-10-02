@@ -26,7 +26,7 @@ HWPH.put("a/1376",
  "persons":[
   {"id":114,"name":"J. G. Hamann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":530,"name":"Gregor von Nazianz","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":1543,"name":"I. A. Dorner","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":1543,"name":"I. A. Dorner","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":417,"name":"J. Nadler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":666,"lemma":"Eigenschaft","tf":4},{"id":2318,"lemma":"Person","tf":3}],

@@ -40,7 +40,7 @@ HWPH.put("a/3631",
   {"id":1330,"name":"Kuhn","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2560,"name":"H. Pulte","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":274,"name":"M. Klein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":742,"name":"A. Hermann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":742,"name":"A. Hermann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1187,"lemma":"Größe","tf":3},

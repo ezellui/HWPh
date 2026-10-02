@@ -138,8 +138,8 @@ HWPH.put("a/3435",
   {"id":3491,"lemma":"Vorbild","tf":2},
   {"id":1773,"lemma":"Leistung","tf":2},
   {"id":835,"lemma":"Ethik","tf":2},
-  {"id":3406,"lemma":"Verhalten","tf":2},
-  {"id":182,"lemma":"Antike","tf":2}
+  {"id":182,"lemma":"Antike","tf":2},
+  {"id":3406,"lemma":"Verhalten","tf":2}
  ],
  "see_also":[
   {"id":658,"lemma":"Eid"},

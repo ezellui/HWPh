@@ -195,21 +195,21 @@ HWPH.put("pat/10",
   ["W. STEINBERG","M. STEINBERG","H.-J. STEINBERG","D. D. STEINBERG"]
  ],
  5068:[
-  "(?<![\\p{L}\\p{N}])(?:REITER|Reiter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["J. REITER","P. REITER","S. REITER","P. J. REITER","M. REITER"]
- ],
- 5069:[
   "(?<![\\p{L}\\p{N}])(?:GONET|Gonet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. B. GONET","J.-B. GONET","GONET"]
  ],
- 5070:["(?<![\\p{L}\\p{N}])(?:MARMORSTEIN|Marmorstein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. MARMORSTEIN"]],
- 5071:["(?<![\\p{L}\\p{N}])(?:DEPPING|Depping)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G.-B. DEPPING","DEPPING"]],
- 5072:[
+ 5069:["(?<![\\p{L}\\p{N}])(?:MARMORSTEIN|Marmorstein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. MARMORSTEIN"]],
+ 5070:["(?<![\\p{L}\\p{N}])(?:DEPPING|Depping)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G.-B. DEPPING","DEPPING"]],
+ 5071:[
   "(?<![\\p{L}\\p{N}])(?:LAMENNAIS\\.|Lamennais\\.|LAMENNAIS|Lamennais)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   [
    "F. de LAMENNAIS","R. de LAMENNAIS","H.-F.-R. de LAMENNAIS","F. de LAMENNAIS.",
    "H. F. R. de LAMENNAIS"
   ]
+ ],
+ 5072:[
+  "(?<![\\p{L}\\p{N}])(?:REITER|Reiter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. REITER","P. REITER","S. REITER","P. J. REITER","M. REITER"]
  ],
  5073:[
   "(?<![\\p{L}\\p{N}])(?:KOPPERSCHMIDT|Kopperschmidt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

@@ -218,7 +218,6 @@ HWPH.put("a/3670",
   {"id":632,"name":"A. Zimmermann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":814,"name":"H. Meyer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":450,"name":"K. Gödel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":728,"name":"M. Wertheimer","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1140,"name":"J. Stenzel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1041,"name":"J. L. Lagrange","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -309,7 +308,8 @@ HWPH.put("a/3670",
   {"id":33607,"name":"Jacobus Leodiensis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":33608,"name":"Andrews","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":33609,"name":"V. F. Hopper","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":33610,"name":"Odon de Morimond","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":33610,"name":"Odon de Morimond","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":33611,"name":"Ps.-Beda","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2774,"lemma":"Schnitt, Goldener","tf":9},

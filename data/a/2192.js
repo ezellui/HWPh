@@ -28,7 +28,7 @@ HWPH.put("a/2192",
   {"id":365,"name":"J. Dewey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":436,"name":"E. Lask","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":845,"name":"H. Höffding","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":959,"name":"M. Dessoir","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":959,"name":"M. Dessoir","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2805,"name":"O. Ewald","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":71,"name":"H.-G. Gadamer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2088,"name":"F. Kainz","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}

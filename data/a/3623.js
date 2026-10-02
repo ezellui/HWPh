@@ -113,7 +113,6 @@ HWPH.put("a/3623",
   {"id":33345,"name":"F. Siebelt","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":33346,"name":"A. Ulfig","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":18777,"name":"A. Oksenberg-Rorty","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
-  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":850,"name":"L. B. Alberti","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":1429,"name":"W. K. Frankena","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2573,"name":"R. Robinson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -129,7 +128,8 @@ HWPH.put("a/3623",
   {"id":33350,"name":"R. Ogien","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":508,"name":"A. Borgnet","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1019,"name":"P. Glorieux","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":1234,"name":"A. B. Wolter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":1234,"name":"A. B. Wolter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":363,"lemma":"Begehren, Begierde","tf":19},

@@ -32,8 +32,8 @@ HWPH.put("a/581",
   {"id":2,"name":"Aristoteles","b":0,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":235,"name":"Theophrast","b":0,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":260,"name":"C. Prantl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":113,"name":"Arist","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":3966,"name":"M. Hecker","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

@@ -759,19 +759,19 @@ HWPH.put("pat/52",
  26426:["(?<![\\p{L}\\p{N}])(?:ROHE|Rohe)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. ROHE"]],
  26427:["(?<![\\p{L}\\p{N}])(?:PALONEN|Palonen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. PALONEN"]],
  26428:["(?<![\\p{L}\\p{N}])(?:MANOT|Manot)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. MANOT"]],
- 26429:["(?<![\\p{L}\\p{N}])(?:FERRY|Ferry)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. FERRY"]],
- 26430:["(?<![\\p{L}\\p{N}])(?:ROGOZINSKI|Rogozinski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ROGOZINSKI"]],
- 26431:["(?<![\\p{L}\\p{N}])(?:PAUNIER|Paunier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["PAUNIER"]],
- 26432:[
+ 26429:["(?<![\\p{L}\\p{N}])(?:PAUNIER|Paunier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["PAUNIER"]],
+ 26430:[
   "(?<![\\p{L}\\p{N}])(?:BRUNETTO\\s+LATINI|Brunetto\\s+Latini|Latini)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["BRUNETTO LATINI"]
  ],
- 26433:["(?<![\\p{L}\\p{N}])(?:BRADFORD|Bradford)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BRADFORD"]],
- 26434:[
+ 26431:["(?<![\\p{L}\\p{N}])(?:BRADFORD|Bradford)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BRADFORD"]],
+ 26432:[
   "(?<![\\p{L}\\p{N}])(?:EGIDIUS\\s+ROMANUS|Egidius\\s+Romanus|Romanus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["EGIDIUS ROMANUS"]
  ],
- 26435:["(?<![\\p{L}\\p{N}])(?:DUFÉY|Duféy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. S. DUFÉY"]],
+ 26433:["(?<![\\p{L}\\p{N}])(?:DUFÉY|Duféy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. S. DUFÉY"]],
+ 26434:["(?<![\\p{L}\\p{N}])(?:FERRY|Ferry)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. FERRY"]],
+ 26435:["(?<![\\p{L}\\p{N}])(?:ROGOZINSKI|Rogozinski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ROGOZINSKI"]],
  26436:["(?<![\\p{L}\\p{N}])(?:GUTTERER|Gutterer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. GUTTERER"]],
  26437:["(?<![\\p{L}\\p{N}])(?:WELTZ|Weltz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. WELTZ"]],
  26438:[

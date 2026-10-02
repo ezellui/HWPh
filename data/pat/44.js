@@ -158,14 +158,14 @@ HWPH.put("pat/44",
  22080:["(?<![\\p{L}\\p{N}])(?:PODACH|Podach)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. F. PODACH"]],
  22081:["(?<![\\p{L}\\p{N}])(?:NUNC|Nunc)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["NUNC"]],
  22082:["(?<![\\p{L}\\p{N}])(?:TORSTRIK|Torstrik)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. TORSTRIK"]],
- 22083:["(?<![\\p{L}\\p{N}])(?:JELSKI|Jelski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. JELSKI"]],
- 22084:["(?<![\\p{L}\\p{N}])(?:FROMER|Fromer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. FROMER"]],
- 22085:[
+ 22083:["(?<![\\p{L}\\p{N}])(?:KAATZ|Kaatz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. KAATZ"]],
+ 22084:["(?<![\\p{L}\\p{N}])(?:MÄNZER|Mänzer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. MÄNZER"]],
+ 22085:["(?<![\\p{L}\\p{N}])(?:JELSKI|Jelski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. JELSKI"]],
+ 22086:["(?<![\\p{L}\\p{N}])(?:FROMER|Fromer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. FROMER"]],
+ 22087:[
   "(?<![\\p{L}\\p{N}])(?:ELIAS\\s+JACOB|Elias\\s+Jacob|Jacob)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["ELIAS JACOB"]
  ],
- 22086:["(?<![\\p{L}\\p{N}])(?:KAATZ|Kaatz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. KAATZ"]],
- 22087:["(?<![\\p{L}\\p{N}])(?:MÄNZER|Mänzer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. MÄNZER"]],
  22088:["(?<![\\p{L}\\p{N}])(?:SCHAZAR|Schazar)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Z. SCHAZAR"]],
  22089:[
   "(?<![\\p{L}\\p{N}])(?:PETUCHOWSKY|Petuchowsky)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

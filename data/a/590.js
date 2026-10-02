@@ -22,9 +22,9 @@ HWPH.put("a/590",
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1140,"name":"J. Stenzel","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":260,"name":"C. Prantl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1110,"name":"H. Bonitz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":768,"name":"C. F. Gauss","b":0,"n":1,"l":0,"editor":0,"role":"source"}
+  {"id":768,"name":"C. F. Gauss","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2926,"lemma":"Sophistik; sophistisch; Sophist","tf":2}],
  "see_also":[{"id":597,"lemma":"Dihairesis"}],

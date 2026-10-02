@@ -593,12 +593,12 @@ HWPH.put("pat/8",
  ],
  4192:["(?<![\\p{L}\\p{N}])(?:GENETTE|Genette)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. GENETTE","GENETTE"]],
  4193:[
-  "(?<![\\p{L}\\p{N}])(?:BURNHAMS|Burnhams|BURNHAM|Burnham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["J. BURNHAM","J. BURNHAMS","W. H. BURNHAM"]
- ],
- 4194:[
   "(?<![\\p{L}\\p{N}])(?:COLEMAN|Coleman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. S. COLEMAN","E. COLEMAN","W. COLEMAN","F. J. COLEMAN","D. C. COLEMAN","L. M. COLEMAN"]
+ ],
+ 4194:[
+  "(?<![\\p{L}\\p{N}])(?:BURNHAMS|Burnhams|BURNHAM|Burnham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. BURNHAM","J. BURNHAMS","W. H. BURNHAM"]
  ],
  4195:[
   "(?<![\\p{L}\\p{N}])(?:VON\\s+HOFMANNSTHALS|von\\s+Hofmannsthals|VON\\s+HOFMANNSTHAL|von\\s+Hofmannsthal|Hofmannsthals|Hofmannsthal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

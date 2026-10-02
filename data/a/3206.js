@@ -25,7 +25,7 @@ HWPH.put("a/3206",
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":5075,"name":"H. Boeder","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":339,"name":"O. Pöggeler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3654,"lemma":"Wohnen","tf":3},

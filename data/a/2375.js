@@ -40,7 +40,7 @@ HWPH.put("a/2375",
   {"id":26297,"name":"F. Faessler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":456,"name":"Th. Kobusch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
- "mentions":[{"id":3406,"lemma":"Verhalten","tf":2},{"id":182,"lemma":"Antike","tf":2}],
+ "mentions":[{"id":182,"lemma":"Antike","tf":2},{"id":3406,"lemma":"Verhalten","tf":2}],
  "see_also":[],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Pietas I"},

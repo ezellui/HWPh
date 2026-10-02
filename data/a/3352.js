@@ -102,7 +102,6 @@ HWPH.put("a/3352",
   {"id":7929,"name":"R. Blumrich","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":6781,"name":"W. Pross","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":31857,"name":"A. Deuber-Mankowsky","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1369,"name":"H. Rombach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1789,"name":"F. Heinemann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2217,"name":"R. Wiehl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -129,7 +128,8 @@ HWPH.put("a/3352",
   {"id":769,"name":"J. H. Waszink","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1152,"name":"T. H. Grose","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1150,"name":"F. Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":1502,"name":"L. Sturlese","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":1502,"name":"L. Sturlese","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3547,"lemma":"Warum","tf":2},

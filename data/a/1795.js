@@ -174,7 +174,6 @@ HWPH.put("a/1795",
   {"id":152,"name":"Shaftesbury","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":183,"name":"Gregor von Nyssa","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":175,"name":"G. Bruno","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":344,"name":"A. Maier","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":237,"name":"E. B. de Condillac","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":202,"name":"E. Spranger","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -287,7 +286,8 @@ HWPH.put("a/1795",
   {"id":7870,"name":"H. Pflaum","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":11687,"name":"G. Witkowski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":14276,"name":"M. Susman","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":15253,"name":"L. Grünhut","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":15253,"name":"L. Grünhut","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":15254,"name":"H. Licht","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1791,"lemma":"Libido","tf":13},

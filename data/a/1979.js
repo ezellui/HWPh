@@ -43,9 +43,9 @@ HWPH.put("a/1979",
   {"id":4581,"name":"H. Cardanus","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":24054,"name":"Alcmaeon","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":326,"name":"W. Jaeger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10448,"name":"W. Ganzenmüller","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":4361,"name":"Wachsmuth","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":4361,"name":"Wachsmuth","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3585,"lemma":"Werden/Vergehen","tf":4},

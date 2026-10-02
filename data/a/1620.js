@@ -56,7 +56,6 @@ HWPH.put("a/1620",
   {"id":56,"name":"J. Müller","b":0,"n":0,"l":2,"editor":0,"role":"mixed"},
   {"id":7784,"name":"Schumann","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":222,"name":"J. Koch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":407,"name":"R. Spaemann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":520,"name":"E. Neumann","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":799,"name":"H. Günther","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
@@ -71,7 +70,8 @@ HWPH.put("a/1620",
   {"id":11503,"name":"H. G. Schumann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":22441,"name":"Chr. Dannenmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":22442,"name":"E. Klett","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":165,"name":"E. Behler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":165,"name":"E. Behler","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2705,"lemma":"Revolution","tf":10},

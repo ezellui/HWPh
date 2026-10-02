@@ -25,7 +25,7 @@ HWPH.put("a/2297",
  ],
  "persons":[
   {"id":1395,"name":"V. von Weizsäcker","b":1,"n":1,"l":1,"editor":0,"role":"source"},
-  {"id":1082,"name":"V. E. Frankl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":1082,"name":"V. E. Frankl","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3565,"name":"R. Schottlaender","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":355,"name":"Aischylos","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":922,"name":"H. Dörrie","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

@@ -259,7 +259,6 @@ HWPH.put("a/2802",
   {"id":290,"name":"Otto von Freising","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":267,"name":"Erasmus von Rotterdam","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":209,"name":"Th. Lipps","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":223,"name":"J. G. Sulzer","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":404,"name":"M. Riedel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":579,"name":"K. M. Michel","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -318,7 +317,8 @@ HWPH.put("a/2802",
   {"id":4817,"name":"F. Hammer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":3366,"name":"J. Swift","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4258,"name":"A. Warburg","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
-  {"id":5776,"name":"S. Moravia","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":5776,"name":"S. Moravia","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4207,"name":"D. Bremer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":393,"lemma":"Beschauung, Schauen","tf":9},

@@ -22,7 +22,7 @@ HWPH.put("a/3045",
   {"term":"praecisio","qualifier":"","band":"10","col":"369"}
  ],
  "persons":[
-  {"id":3341,"name":"J. P. Doyle","b":0,"n":2,"l":3,"editor":0,"role":"mixed"},
+  {"id":3341,"name":"J. P. Doyle","b":0,"n":2,"l":3,"editor":0,"role":"scholar"},
   {"id":13022,"name":"Th. Compton-Carleton","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":738,"name":"H. Werner","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":948,"name":"R. de Arriaga","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

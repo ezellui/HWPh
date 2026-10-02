@@ -564,15 +564,15 @@ HWPH.put("pat/19",
   "(?<![\\p{L}\\p{N}])(?:RISSMANN|Rissmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["RISSMANN","R. RISSMANN"]
  ],
- 9737:["(?<![\\p{L}\\p{N}])(?:ÖLKERS|Ölkers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ÖLKERS"]],
- 9738:[
+ 9737:[
   "(?<![\\p{L}\\p{N}])(?:SCHUYTEN|Schuyten)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["SCHUYTEN","M. C. SCHUYTEN"]
  ],
- 9739:[
+ 9738:[
   "(?<![\\p{L}\\p{N}])(?:PALLAT\\.|Pallat\\.|PALLAT|Pallat)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["L. PALLAT","L. PALLAT."]
  ],
+ 9739:["(?<![\\p{L}\\p{N}])(?:ÖLKERS|Ölkers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ÖLKERS"]],
  9740:[
   "(?<![\\p{L}\\p{N}])(?:SCHICK|Schick)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["P. SCHICK","H. SCHICK","M. SCHICK"]

@@ -60,7 +60,7 @@ HWPH.put("a/2133",
   {"id":349,"name":"B. Gagnebin","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1584,"name":"P. Mandonnet","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2923,"name":"M. Beuchot","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":14365,"name":"W. Aeppli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":14364,"name":"W. Aeppli","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3517,"lemma":"Wahl","tf":4},

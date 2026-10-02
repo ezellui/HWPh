@@ -755,14 +755,14 @@ HWPH.put("pat/55",
  27991:["(?<![\\p{L}\\p{N}])(?:MALLMANN|Mallmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. MALLMANN"]],
  27992:["(?<![\\p{L}\\p{N}])(?:KINDHÄUSER|Kindhäuser)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. KINDHÄUSER"]],
  27993:["(?<![\\p{L}\\p{N}])(?:FREIBERG|Freiberg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. FREIBERG"]],
- 27994:["(?<![\\p{L}\\p{N}])(?:EL'SBERG|El'sberg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. EL'SBERG"]],
- 27995:["(?<![\\p{L}\\p{N}])(?:PAGROT|Pagrot)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. PAGROT"]],
- 27996:["(?<![\\p{L}\\p{N}])(?:HIGHET|Highet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. HIGHET"]],
- 27997:[
+ 27994:[
   "(?<![\\p{L}\\p{N}])(?:HENDRICKSON|Hendrickson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["G. L. HENDRICKSON"]
  ],
- 27998:["(?<![\\p{L}\\p{N}])(?:KERNAN|Kernan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. KERNAN"]],
+ 27995:["(?<![\\p{L}\\p{N}])(?:KERNAN|Kernan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. KERNAN"]],
+ 27996:["(?<![\\p{L}\\p{N}])(?:EL'SBERG|El'sberg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. EL'SBERG"]],
+ 27997:["(?<![\\p{L}\\p{N}])(?:PAGROT|Pagrot)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. PAGROT"]],
+ 27998:["(?<![\\p{L}\\p{N}])(?:HIGHET|Highet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. HIGHET"]],
  27999:[
   "(?<![\\p{L}\\p{N}])(?:SUZUKI\\s+DAISETZ|Suzuki\\s+Daisetz|Daisetz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["SUZUKI DAISETZ"]

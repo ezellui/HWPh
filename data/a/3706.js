@@ -224,7 +224,6 @@ HWPH.put("a/3706",
   {"id":1091,"name":"J. O. de la Mettrie","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1278,"name":"J. B. van Helmont","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1490,"name":"Ch. Knorr von Rosenroth","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":1244,"name":"Ch. Meier","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1190,"name":"F. Toletus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1495,"name":"I. Prigogine","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":2717,"name":"B. Tuschling","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -314,7 +313,8 @@ HWPH.put("a/3706",
   {"id":1398,"name":"H. Grose","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1274,"name":"R. Steele","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1478,"name":"J. Chevalier","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":1898,"name":"A. W. Burks","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":1898,"name":"A. W. Burks","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":2181,"name":"F. Nicolini","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1582,"lemma":"Koinzidenz","tf":6},

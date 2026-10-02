@@ -91,7 +91,6 @@ HWPH.put("a/2396",
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":9,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":2,"n":7,"l":0,"editor":0,"role":"source"},
-  {"id":1244,"name":"Ch. Meier","b":0,"n":8,"l":1,"editor":0,"role":"scholar"},
   {"id":34,"name":"M. Weber","b":3,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":103,"name":"G. F. Meier","b":0,"n":6,"l":0,"editor":0,"role":"source"},
   {"id":1376,"name":"D. Sternberger","b":1,"n":4,"l":1,"editor":0,"role":"scholar"},
@@ -288,7 +287,8 @@ HWPH.put("a/2396",
   {"id":13363,"name":"R. de Saint Martin","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":12142,"name":"H. Mugnier","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":16582,"name":"S. Mastellone","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":6683,"name":"K. H. Mulagk","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":6683,"name":"K. H. Mulagk","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":16584,"name":"I. Meichsner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2998,"lemma":"Staat","tf":91},

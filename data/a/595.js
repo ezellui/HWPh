@@ -25,8 +25,8 @@ HWPH.put("a/595",
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":13827,"name":"H. Feick","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":16,"name":"K. Marx","b":0,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8709,"name":"F. Wiplinger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8709,"name":"F. Wiplinger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2136,"lemma":"Nichts, Nichtseiendes","tf":5},

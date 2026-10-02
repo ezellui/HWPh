@@ -20,7 +20,6 @@ HWPH.put("a/2497",
  "register":[],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":7,"name":"Augustinus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":8,"name":"Cicero","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -30,8 +29,9 @@ HWPH.put("a/2497",
   {"id":556,"name":"Isokrates","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":6906,"name":"Dikaiarch","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":54,"name":"A. Schmidt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4683,"name":"K. Berger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1027,"name":"K. Gaiser","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
   {"id":5975,"name":"M. Untersteiner","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[

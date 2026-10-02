@@ -53,7 +53,6 @@ HWPH.put("a/3584",
   {"id":9397,"name":"Philon von Megara","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":8163,"name":"P. Cole","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":11901,"name":"D. M. Gabbay","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2293,"name":"A. Levi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3993,"name":"J. L. Pollock","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":7668,"name":"D. Pearce","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -68,7 +67,8 @@ HWPH.put("a/3584",
   {"id":33118,"name":"D. Edgington","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":77,"name":"Ch. Adam","b":1,"n":2,"l":0,"editor":1,"role":"scholar"},
   {"id":501,"name":"M. Kneale","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":759,"name":"L. Wadding","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":759,"name":"L. Wadding","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1516,"lemma":"Junktor","tf":2},

@@ -71,7 +71,7 @@ HWPH.put("a/2592",
   {"id":6061,"name":"H. Drüe","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":6232,"name":"K. Nitzschke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4939,"name":"F. Seifert","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":8072,"name":"I. Yamaguchi","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":8072,"name":"I. Yamaguchi","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5982,"name":"H. G. Petzold","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":8208,"name":"L. Lütkehaus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":5659,"name":"J. M. Masson","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

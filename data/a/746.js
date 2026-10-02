@@ -82,7 +82,6 @@ HWPH.put("a/746",
   {"id":4043,"name":"A. Mittasch","b":0,"n":0,"l":2,"editor":0,"role":"mixed"},
   {"id":217,"name":"W. Stern","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":464,"name":"G. Arnold","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":777,"name":"O. Liebmann","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":1238,"name":"A. Dempf","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":1114,"name":"D. Mahnke","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -91,7 +90,8 @@ HWPH.put("a/746",
   {"id":7183,"name":"K. Sapper","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6384,"name":"J. Sylvester","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":13924,"name":"H. Burchard","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":20143,"name":"J. B. Valentini Monlorii","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":20143,"name":"J. B. Valentini Monlorii","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":240,"lemma":"Archeus","tf":2},

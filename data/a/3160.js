@@ -60,7 +60,6 @@ HWPH.put("a/3160",
   {"id":18147,"name":"A. Papadakis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":30789,"name":"Man.","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":30790,"name":"J. Arac","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1355,"name":"D. Rapaport","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":2252,"name":"J. Speck","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1743,"name":"K. H. Bohrer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -75,7 +74,8 @@ HWPH.put("a/3160",
   {"id":30793,"name":"R. Brütting","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":30794,"name":"J. Greisch","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":30795,"name":"C. Mouffe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1344,"name":"Ch. Thiel","b":0,"n":1,"l":1,"editor":1,"role":"scholar"}
+  {"id":1344,"name":"Ch. Thiel","b":0,"n":1,"l":1,"editor":1,"role":"scholar"},
+  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":572,"lemma":"Destruktion","tf":6},

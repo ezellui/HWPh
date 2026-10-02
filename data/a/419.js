@@ -24,12 +24,12 @@ HWPH.put("a/419",
  "persons":[
   {"id":856,"name":"P. Yorck von Wartenburg","b":2,"n":4,"l":1,"editor":0,"role":"source"},
   {"id":31,"name":"W. Dilthey","b":2,"n":3,"l":0,"editor":0,"role":"source"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":8649,"name":"Wartenburg","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":211,"name":"B. Bauer","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":318,"name":"G. Misch","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":543,"name":"K. Gründer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1423,"name":"F. Kaufmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":1423,"name":"F. Kaufmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":779,"lemma":"Epoche, Epochenbewußtsein","tf":4},

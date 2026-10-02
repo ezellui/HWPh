@@ -39,9 +39,9 @@ HWPH.put("a/3175",
   {"id":1258,"name":"H. U. von Balthasar","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":739,"name":"J. B. Lotz","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":1052,"name":"I. Düring","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":2171,"name":"J. Hirschberger","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":166,"name":"W. Beierwaltes","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":166,"name":"W. Beierwaltes","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1052,"name":"I. Düring","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1803,"lemma":"Logik","tf":6},

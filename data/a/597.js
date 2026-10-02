@@ -47,11 +47,11 @@ HWPH.put("a/597",
   {"id":6321,"name":"Maximos von Tyros","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":13766,"name":"Maximos Tyrios","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":410,"name":"A. Müller","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":1027,"name":"K. Gaiser","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1140,"name":"J. Stenzel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":8711,"name":"H. J. Kraemer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10769,"name":"H. Hobein","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":677,"name":"W. Theiler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":677,"name":"W. Theiler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":1027,"name":"K. Gaiser","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":991,"lemma":"Gattung, Genus","tf":5},

@@ -485,12 +485,12 @@ HWPH.put("pat/40",
   "(?<![\\p{L}\\p{N}])(?:PYRRON\\s+VON\\s+ELIS|Pyrron\\s+von\\s+Elis|Elis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["PYRRON VON ELIS"]
  ],
- 20239:["(?<![\\p{L}\\p{N}])(?:TECHNE\\.|Techne\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TECHNE."]],
- 20240:[
+ 20239:["(?<![\\p{L}\\p{N}])(?:AISTHESIS|Aisthesis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["AISTHESIS"]],
+ 20240:["(?<![\\p{L}\\p{N}])(?:TECHNE\\.|Techne\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TECHNE."]],
+ 20241:[
   "(?<![\\p{L}\\p{N}])(?:VIRIEUX-REYMOND|Virieux-Reymond)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["A. VIRIEUX-REYMOND"]
  ],
- 20241:["(?<![\\p{L}\\p{N}])(?:AISTHESIS|Aisthesis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["AISTHESIS"]],
  20242:["(?<![\\p{L}\\p{N}])(?:FINCK|Finck)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FINCK"]],
  20243:["(?<![\\p{L}\\p{N}])(?:EPOCHÉ|Epoché)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["der EPOCHÉ"]],
  20244:[

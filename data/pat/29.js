@@ -653,12 +653,12 @@ HWPH.put("pat/29",
   "(?<![\\p{L}\\p{N}])(?:BORGERHOFF|Borgerhoff)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["E. B. O. BORGERHOFF"]
  ],
- 14823:[
+ 14823:["(?<![\\p{L}\\p{N}])(?:LEWINSKY|Lewinsky)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. LEWINSKY"]],
+ 14824:["(?<![\\p{L}\\p{N}])(?:PERLES|Perles)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. PERLES"]],
+ 14825:[
   "(?<![\\p{L}\\p{N}])(?:WOHLGEMUTH|Wohlgemuth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. WOHLGEMUTH","H. WOHLGEMUTH"]
  ],
- 14824:["(?<![\\p{L}\\p{N}])(?:LEWINSKY|Lewinsky)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. LEWINSKY"]],
- 14825:["(?<![\\p{L}\\p{N}])(?:PERLES|Perles)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. PERLES"]],
  14826:["(?<![\\p{L}\\p{N}])(?:BIALIK|Bialik)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. N. BIALIK"]],
  14827:["(?<![\\p{L}\\p{N}])(?:STRODTMANN|Strodtmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. STRODTMANN"]],
  14828:["(?<![\\p{L}\\p{N}])(?:KOCHAN|Kochan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. E. KOCHAN","L. KOCHAN"]],

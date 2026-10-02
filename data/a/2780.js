@@ -111,8 +111,8 @@ HWPH.put("a/2780",
   {"id":535,"lemma":"Definition","tf":6},
   {"id":2001,"lemma":"Modern, die Moderne","tf":2},
   {"id":144,"lemma":"Angst, Furcht","tf":2},
-  {"id":1009,"lemma":"Gefühl","tf":2},
-  {"id":289,"lemma":"Aufklärung","tf":2}
+  {"id":289,"lemma":"Aufklärung","tf":2},
+  {"id":1009,"lemma":"Gefühl","tf":2}
  ],
  "see_also":[],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Schreckliche, das"}],

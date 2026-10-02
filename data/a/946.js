@@ -312,7 +312,6 @@ HWPH.put("a/946",
   {"id":283,"name":"J. Simon","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":198,"name":"M. Schlick","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":220,"name":"H. Driesch","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":432,"name":"H. Hofmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":353,"name":"H. Jonas","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":404,"name":"M. Riedel","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -336,7 +335,8 @@ HWPH.put("a/946",
   {"id":3013,"name":"A. Walde","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2481,"name":"H. S. Sullivan","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2073,"name":"F. van Steenberghen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":3449,"name":"E. Fleischmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":3449,"name":"E. Fleischmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":4062,"name":"Z. Batscha","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":2171,"lemma":"Notwendigkeit","tf":33},

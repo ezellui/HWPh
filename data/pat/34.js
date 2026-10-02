@@ -759,12 +759,12 @@ HWPH.put("pat/34",
   "(?<![\\p{L}\\p{N}])(?:DIGGORY|Diggory)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. C. DIGGORY","C. DIGGORY"]
  ],
- 17414:["(?<![\\p{L}\\p{N}])(?:MASSEY|Massey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. J. MASSEY","I. MASSEY"]],
- 17415:["(?<![\\p{L}\\p{N}])(?:MECCA|Mecca)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. M. MECCA"]],
- 17416:[
+ 17414:["(?<![\\p{L}\\p{N}])(?:MECCA|Mecca)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. M. MECCA"]],
+ 17415:[
   "(?<![\\p{L}\\p{N}])(?:VASCONCELLOS|Vasconcellos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. VASCONCELLOS"]
  ],
+ 17416:["(?<![\\p{L}\\p{N}])(?:MASSEY|Massey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. J. MASSEY","I. MASSEY"]],
  17417:[
   "(?<![\\p{L}\\p{N}])(?:REALITER\\.|Realiter\\.|REALITER|Realiter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["REALITER.","REALITER"]

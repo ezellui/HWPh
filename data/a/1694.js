@@ -209,7 +209,6 @@ HWPH.put("a/1694",
   {"id":604,"name":"Jamblich","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":765,"name":"G. S. A. Mellin","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":757,"name":"J. S. Semler","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":1052,"name":"I. Düring","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":700,"name":"J. J. Bodmer","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1056,"name":"A. Baeumler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":691,"name":"J. J. Breitinger","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -291,7 +290,8 @@ HWPH.put("a/1694",
   {"id":6606,"name":"Th. R. Sarbin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10568,"name":"R. C. Kwant","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13886,"name":"R. Strohal","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":390,"name":"W. Risse","b":0,"n":12,"l":1,"editor":1,"role":"scholar"}
+  {"id":390,"name":"W. Risse","b":0,"n":12,"l":1,"editor":1,"role":"scholar"},
+  {"id":37,"name":"H. Glockner","b":0,"n":2,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1803,"lemma":"Logik","tf":60},

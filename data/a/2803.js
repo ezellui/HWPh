@@ -54,7 +54,7 @@ HWPH.put("a/2803",
   {"id":28481,"name":"M. Budd","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":28482,"name":"S. Mulhall","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":28483,"name":"L. Tirrell","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":929,"name":"P. T. Geach","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
+  {"id":929,"name":"P. T. Geach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":1943,"lemma":"Metapher","tf":5},

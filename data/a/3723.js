@@ -49,7 +49,7 @@ HWPH.put("a/3723",
  ],
  "persons":[
   {"id":2948,"name":"A. Grillmeier","b":0,"n":4,"l":0,"editor":0,"role":"scholar"},
-  {"id":1543,"name":"I. A. Dorner","b":1,"n":2,"l":0,"editor":0,"role":"source"},
+  {"id":1543,"name":"I. A. Dorner","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":2632,"name":"Ch. E. Luthardt","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":7,"name":"Augustinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":104,"name":"Tertullian","b":1,"n":1,"l":0,"editor":0,"role":"source"},

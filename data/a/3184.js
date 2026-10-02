@@ -74,7 +74,6 @@ HWPH.put("a/3184",
   {"id":4569,"name":"D. J. Furley","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":18047,"name":"R. J. Durling","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":10316,"name":"M. Vegetti","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
-  {"id":1343,"name":"I. Hadot","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1958,"name":"M. C. Nussbaum","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3244,"name":"A. Wettley","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5424,"name":"Entralgo","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -92,7 +91,8 @@ HWPH.put("a/3184",
   {"id":668,"name":"P. Wendland","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":870,"name":"L. Cohn","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1294,"name":"H. Schipperges","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":299,"name":"P. Hadot","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":299,"name":"P. Hadot","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":1343,"name":"I. Hadot","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2794,"lemma":"Seele","tf":8},

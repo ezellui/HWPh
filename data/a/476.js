@@ -24,7 +24,7 @@ HWPH.put("a/476",
   {"id":1278,"name":"J. B. van Helmont","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19737,"name":"Louis de la Forge","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":807,"name":"R. Specht","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1169,"name":"H. Gouhier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":1169,"name":"H. Gouhier","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
  "see_also":[],

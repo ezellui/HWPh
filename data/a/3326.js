@@ -62,7 +62,6 @@ HWPH.put("a/3326",
   {"id":7,"name":"Augustinus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":144,"name":"G. E. Moore","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":245,"name":"Ch. Sigwart","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":549,"name":"W. Hübener","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1354,"name":"J. P. Beckmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1508,"name":"Franciscus de Mayronis","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
   {"id":2552,"name":"Joh. von Salisbury","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -72,7 +71,8 @@ HWPH.put("a/3326",
   {"id":13192,"name":"H. L. Castanaeus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":18404,"name":"H. L. Chasteigner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":31749,"name":"Julian von Eclanum","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":31750,"name":"H. Volckmar","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":31750,"name":"H. Volckmar","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":549,"name":"W. Hübener","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3192,"lemma":"Tier; Tierseele","tf":2},

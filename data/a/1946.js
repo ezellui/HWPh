@@ -264,8 +264,8 @@ HWPH.put("a/1946",
   {"id":3169,"lemma":"Theologie","tf":7},
   {"id":2368,"lemma":"Physik","tf":5},
   {"id":3099,"lemma":"Symptom","tf":3},
-  {"id":3154,"lemma":"Terror","tf":2},
-  {"id":773,"lemma":"Epikureismus","tf":2}
+  {"id":773,"lemma":"Epikureismus","tf":2},
+  {"id":3154,"lemma":"Terror","tf":2}
  ],
  "see_also":[
   {"id":2758,"lemma":"Scheinprobleme"},

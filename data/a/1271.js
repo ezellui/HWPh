@@ -20,8 +20,8 @@ HWPH.put("a/1271",
  "register":[{"term":"formule hiérarchique","qualifier":"(Comte)","band":null,"col":null}],
  "persons":[
   {"id":138,"name":"A. Comte","b":1,"n":1,"l":1,"editor":0,"role":"source"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
-  {"id":832,"name":"W. Ostwald","b":0,"n":0,"l":1,"editor":0,"role":"source"}
+  {"id":832,"name":"W. Ostwald","b":0,"n":0,"l":1,"editor":0,"role":"source"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2960,"lemma":"Soziologie","tf":2},

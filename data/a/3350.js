@@ -324,7 +324,6 @@ HWPH.put("a/3350",
   {"id":654,"name":"M. Dummett","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":709,"name":"A. Kenny","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":650,"name":"A. Geulincx","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":1292,"name":"R. Wood","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1005,"name":"B. Groethuysen","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":873,"name":"Gottfried von Fontaines","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":887,"name":"G. Radbruch","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -364,7 +363,8 @@ HWPH.put("a/3350",
   {"id":2630,"name":"K. Lehrer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":3115,"name":"P. F. Linke","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":4560,"name":"Albinus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":4171,"name":"P. H. Matthews","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":4171,"name":"P. H. Matthews","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":4775,"name":"Numenius","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":785,"lemma":"Ereignis","tf":24},

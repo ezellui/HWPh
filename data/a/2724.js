@@ -110,7 +110,6 @@ HWPH.put("a/2724",
   {"id":27919,"name":"E. Bellorini","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":27920,"name":"M. Marcazzan","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":27921,"name":"O. Ragusa","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":4913,"name":"F. Baldensperger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1872,"name":"H. Eichner","b":0,"n":5,"l":1,"editor":1,"role":"scholar"},
   {"id":165,"name":"E. Behler","b":0,"n":2,"l":1,"editor":1,"role":"scholar"},
@@ -132,7 +131,8 @@ HWPH.put("a/2724",
   {"id":27913,"name":"E. Böcking","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":27914,"name":"G. Dischner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":27915,"name":"R. E. Prothero","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":27918,"name":"G. Eudes","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":27918,"name":"G. Eudes","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2387,"lemma":"Poesie","tf":29},

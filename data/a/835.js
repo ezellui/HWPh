@@ -307,7 +307,6 @@ HWPH.put("a/835",
   {"id":142,"name":"R. Goclenius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":222,"name":"J. Koch","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":210,"name":"K. Rosenkranz","b":0,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":289,"name":"Porphyrios","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":259,"name":"Epiktet","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":278,"name":"Hieronymus","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -328,7 +327,8 @@ HWPH.put("a/835",
   {"id":1493,"name":"D. D. Heath","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":724,"name":"W. Sellars","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1233,"name":"Kleanthes","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":1321,"name":"Ch. Fourier","b":1,"n":0,"l":0,"editor":0,"role":"source"}
+  {"id":1321,"name":"Ch. Fourier","b":1,"n":0,"l":0,"editor":0,"role":"source"},
+  {"id":657,"name":"W. Whewell","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[
   {"id":2903,"lemma":"Sittlichkeit; Sittenlehre","tf":66},

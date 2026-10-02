@@ -47,12 +47,12 @@ HWPH.put("a/2655",
   {"id":361,"name":"H. Nohl","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3529,"name":"E. Martens","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":12588,"name":"G. Schüler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":353,"name":"H. Jonas","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":567,"name":"H. Arendt","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":406,"name":"L. Oeing-Hanhoff","b":0,"n":3,"l":1,"editor":1,"role":"scholar"},
   {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":173,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":2,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2654,"lemma":"Reich, Drittes","tf":12},

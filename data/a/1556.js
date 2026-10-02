@@ -31,7 +31,6 @@ HWPH.put("a/1556",
  "register":[],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":3,"l":0,"editor":0,"role":"source"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":3,"l":2,"editor":0,"role":"scholar"},
   {"id":56,"name":"J. Müller","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":333,"name":"W. Schulz","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":5143,"name":"F. W. von Herrmann","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
@@ -47,7 +46,8 @@ HWPH.put("a/1556",
   {"id":4485,"name":"A. Schwan","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6511,"name":"D. Sinn","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":5144,"name":"W. Franzen","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":8709,"name":"F. Wiplinger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":8709,"name":"F. Wiplinger","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":3,"l":2,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2815,"lemma":"Seinsvergessenheit","tf":3},

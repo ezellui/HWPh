@@ -44,7 +44,6 @@ HWPH.put("a/2703",
   {"id":5152,"name":"W. Liebknecht","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":9339,"name":"C. Zetkin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":15293,"name":"A. A. Sinowjew","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":689,"name":"L. Kolakowski","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":4831,"name":"E. J. Hobsbawm","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":12195,"name":"H. Heimann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -54,7 +53,8 @@ HWPH.put("a/2703",
   {"id":27741,"name":"D. Coates","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":129,"name":"E. Hirsch","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":710,"name":"M. Buhr","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":5006,"name":"P. Ludz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":5006,"name":"P. Ludz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2396,"lemma":"Politik","tf":7},

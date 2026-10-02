@@ -80,13 +80,13 @@ HWPH.put("a/2848",
   {"id":8532,"name":"Athanasios","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":28746,"name":"Diog.","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":278,"name":"Hieronymus","b":0,"n":0,"l":1,"editor":0,"role":"source"},
-  {"id":1343,"name":"I. Hadot","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1923,"name":"Schmid Noerr","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":28747,"name":"D. Kimmich","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":360,"name":"Proclus","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":750,"name":"A. Thibaudet","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":4774,"name":"A. Ph. Segonds","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":299,"name":"P. Hadot","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":299,"name":"P. Hadot","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":1343,"name":"I. Hadot","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2794,"lemma":"Seele","tf":47},

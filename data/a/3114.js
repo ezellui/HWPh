@@ -55,7 +55,6 @@ HWPH.put("a/3114",
   {"id":418,"name":"M. Frank","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":729,"name":"R. Bubner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1081,"name":"E. Young","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
-  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1483,"name":"M. Gueroult","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3144,"name":"B. Hoppe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2328,"name":"S. Shoemaker","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -71,7 +70,8 @@ HWPH.put("a/3114",
   {"id":633,"name":"R. Lauth","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":1409,"name":"H. Jacob","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":201,"name":"F. Kaulbach","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
-  {"id":545,"name":"G. Tonelli","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":545,"name":"G. Tonelli","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":1292,"name":"R. Wood","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1865,"lemma":"Mannigfaltige, Mannigfaltigkeit","tf":10},

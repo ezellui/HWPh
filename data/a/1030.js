@@ -362,7 +362,6 @@ HWPH.put("a/1030",
   {"id":470,"name":"Augustin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":232,"name":"Ch. L. de Montesquieu","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":252,"name":"W. Pannenberg","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":266,"name":"Hugo von St. Viktor","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":353,"name":"H. Jonas","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":285,"name":"Porphyrius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
@@ -396,7 +395,8 @@ HWPH.put("a/1030",
   {"id":581,"name":"C.-A. Helvétius","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":761,"name":"J. Görres","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1011,"name":"Livius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
-  {"id":770,"name":"M. Planck","b":0,"n":1,"l":0,"editor":0,"role":"source"}
+  {"id":770,"name":"M. Planck","b":0,"n":1,"l":0,"editor":0,"role":"source"},
+  {"id":772,"name":"Hilarius von Poitiers","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[
   {"id":1769,"lemma":"Leib, Körper","tf":38},

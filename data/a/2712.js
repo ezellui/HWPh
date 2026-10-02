@@ -77,7 +77,6 @@ HWPH.put("a/2712",
   {"id":17129,"name":"E. Barbotin","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":147,"name":"K.-O. Apel","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":334,"name":"M. Grabmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1477,"name":"B. Nardi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3025,"name":"G. Franz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3214,"name":"H. Seidl","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -99,7 +98,8 @@ HWPH.put("a/2712",
   {"id":2147,"name":"I. Bruns","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":2483,"name":"O. Bardenhewer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":4250,"name":"F. Hogemann","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":7441,"name":"H. Peiter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":7441,"name":"H. Peiter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":1052,"name":"I. Düring","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":5},

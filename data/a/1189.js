@@ -161,7 +161,6 @@ HWPH.put("a/1189",
   {"id":1576,"name":"F.-P. Hager","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1643,"name":"Clemens","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1383,"name":"W. Philipp","b":1,"n":0,"l":0,"editor":0,"role":"scholar"},
-  {"id":1343,"name":"I. Hadot","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1596,"name":"J. Auer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1757,"name":"V. Cathrein","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1996,"name":"R. Walzer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -261,7 +260,8 @@ HWPH.put("a/1189",
   {"id":21231,"name":"Guillelmus Armoricus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":21233,"name":"Matthaeus Parisiensis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":21235,"name":"F. W. Gingrich","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":21236,"name":"U. Falkenroth","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
+  {"id":21236,"name":"U. Falkenroth","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
+  {"id":21237,"name":"C. Spica","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[
   {"id":3239,"lemma":"Tugend","tf":36},

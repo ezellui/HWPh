@@ -48,12 +48,12 @@ HWPH.put("pat/53",
   ["GIORGIO VALLA"]
  ],
  26523:["(?<![\\p{L}\\p{N}])(?:LÉSNIEWSKI|Lésniewski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. LÉSNIEWSKI"]],
- 26524:[
+ 26524:["(?<![\\p{L}\\p{N}])(?:KIRWAN|Kirwan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. KIRWAN"]],
+ 26525:["(?<![\\p{L}\\p{N}])(?:ZELGER|Zelger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ZELGER"]],
+ 26526:[
   "(?<![\\p{L}\\p{N}])(?:ENGLEBRETSEN|Englebretsen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["G. ENGLEBRETSEN"]
  ],
- 26525:["(?<![\\p{L}\\p{N}])(?:KIRWAN|Kirwan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. KIRWAN"]],
- 26526:["(?<![\\p{L}\\p{N}])(?:ZELGER|Zelger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ZELGER"]],
  26527:[
   "(?<![\\p{L}\\p{N}])(?:STAUDENHECHT|Staudenhecht)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["F. STAUDENHECHT"]
@@ -673,29 +673,29 @@ HWPH.put("pat/53",
   ["L. BOCCADIFERRO"]
  ],
  26935:["(?<![\\p{L}\\p{N}])(?:GIANFRANC|Gianfranc)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GIANFRANC"]],
- 26936:["(?<![\\p{L}\\p{N}])(?:HUTCHISON|Hutchison)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. HUTCHISON"]],
- 26937:[
+ 26936:[
   "(?<![\\p{L}\\p{N}])(?:IOANNIS\\s+DUNS\\s+SCOTI|Ioannis\\s+Duns\\s+Scoti|Scoti)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["IOANNIS DUNS SCOTI"]
  ],
- 26938:[
+ 26937:[
   "(?<![\\p{L}\\p{N}])(?:FERNANDEZ\\s+GARCIA|Fernandez\\s+Garcia|Garcia)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["M. FERNANDEZ GARCIA"]
  ],
- 26939:[
+ 26938:[
   "(?<![\\p{L}\\p{N}])(?:MARSILII\\s+INGUEN|Marsilii\\s+Inguen|Inguen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["MARSILII INGUEN"]
  ],
- 26940:["(?<![\\p{L}\\p{N}])(?:COOPLAND|Coopland)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. W. COOPLAND"]],
- 26941:["(?<![\\p{L}\\p{N}])(?:BUCCAFERREI|Buccaferrei)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. BUCCAFERREI"]],
- 26942:["(?<![\\p{L}\\p{N}])(?:COPENHAVER|Copenhaver)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. P. COPENHAVER"]],
- 26943:["(?<![\\p{L}\\p{N}])(?:GORRAEUS|Gorraeus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. GORRAEUS"]],
- 26944:[
+ 26939:["(?<![\\p{L}\\p{N}])(?:COOPLAND|Coopland)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. W. COOPLAND"]],
+ 26940:["(?<![\\p{L}\\p{N}])(?:BUCCAFERREI|Buccaferrei)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. BUCCAFERREI"]],
+ 26941:["(?<![\\p{L}\\p{N}])(?:COPENHAVER|Copenhaver)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. P. COPENHAVER"]],
+ 26942:["(?<![\\p{L}\\p{N}])(?:GORRAEUS|Gorraeus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. GORRAEUS"]],
+ 26943:[
   "(?<![\\p{L}\\p{N}])(?:TERTIUS\\s+de\\s+LANIS|Tertius\\s+de\\s+Lanis|Lanis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["F. TERTIUS de LANIS"]
  ],
- 26945:["(?<![\\p{L}\\p{N}])(?:LANA-TERZI|Lana-Terzi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LANA-TERZI"]],
- 26946:["(?<![\\p{L}\\p{N}])(?:FLEITMANN|Fleitmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. FLEITMANN"]],
+ 26944:["(?<![\\p{L}\\p{N}])(?:LANA-TERZI|Lana-Terzi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LANA-TERZI"]],
+ 26945:["(?<![\\p{L}\\p{N}])(?:FLEITMANN|Fleitmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. FLEITMANN"]],
+ 26946:["(?<![\\p{L}\\p{N}])(?:HUTCHISON|Hutchison)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. HUTCHISON"]],
  26947:[
   "(?<![\\p{L}\\p{N}])(?:VON\\s+MICHAEL\\s+SCOTUS|von\\s+Michael\\s+Scotus|Scotus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["VON MICHAEL SCOTTUS"]

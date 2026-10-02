@@ -54,7 +54,6 @@ HWPH.put("a/245",
   {"id":19343,"name":"W. Haedicke","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":264,"name":"O. Brunner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":1285,"name":"J. Vogt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":1244,"name":"Ch. Meier","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3622,"name":"D. Rössler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6252,"name":"C. Brinkmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10574,"name":"A. Goodwin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -68,7 +67,8 @@ HWPH.put("a/245",
   {"id":10573,"name":"A. Hilka","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":19344,"name":"A. Beltrami","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":336,"name":"W. Conze","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
-  {"id":1026,"name":"G. W. H. Lampe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
+  {"id":1026,"name":"G. W. H. Lampe","b":0,"n":0,"l":1,"editor":1,"role":"scholar"},
+  {"id":1244,"name":"Ch. Meier","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2012,"lemma":"Monarchie","tf":3},

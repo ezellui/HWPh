@@ -43,7 +43,6 @@ HWPH.put("a/1090",
   {"id":118,"name":"W. Windelband","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":185,"name":"K. Löwith","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":300,"name":"H. Heimsoeth","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":377,"name":"E. Wolf","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":543,"name":"K. Gründer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":998,"name":"A. Schweitzer","b":1,"n":0,"l":0,"editor":0,"role":"mixed"},
@@ -57,7 +56,8 @@ HWPH.put("a/1090",
   {"id":11073,"name":"L. von Renthe-Fink","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":1659,"name":"G. Scholtz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":173,"name":"J. Hoffmeister","b":0,"n":2,"l":0,"editor":1,"role":"scholar"},
-  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":37,"name":"H. Glockner","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":1989,"lemma":"Mneme, Mnemosyne","tf":2},

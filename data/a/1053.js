@@ -106,7 +106,6 @@ HWPH.put("a/1053",
   {"id":3237,"name":"J. Messner","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":8908,"name":"Nell-Breuning","b":0,"n":0,"l":2,"editor":0,"role":"scholar"},
   {"id":54,"name":"A. Schmidt","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":593,"name":"G. Jellinek","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},
   {"id":3480,"name":"C. B. Macpherson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":3481,"name":"H. Medick","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -122,7 +121,8 @@ HWPH.put("a/1053",
   {"id":271,"name":"C. Gebhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":668,"name":"P. Wendland","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":7395,"name":"C. E. Vaughan","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":20743,"name":"G. M. Grech","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":20743,"name":"G. M. Grech","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":695,"lemma":"Einzelne","tf":16},

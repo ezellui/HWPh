@@ -136,80 +136,80 @@ HWPH.put("pat/42",
   ["CLEMENS ROMANUS"]
  ],
  21078:["(?<![\\p{L}\\p{N}])(?:ARIANER|Arianer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ARIANER"]],
- 21079:[
-  "(?<![\\p{L}\\p{N}])(?:VANDER\\s+HAEGHEN|Vander\\s+Haeghen|Haeghen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["V. VANDER HAEGHEN"]
- ],
- 21080:["(?<![\\p{L}\\p{N}])(?:GAONACH|Gaonach)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J.-M. GAONACH"]],
- 21081:["(?<![\\p{L}\\p{N}])(?:CONNELL|Connell)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. CONNELL"]],
- 21082:["(?<![\\p{L}\\p{N}])(?:STAUDEL|Staudel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["STAUDEL"]],
- 21083:[
+ 21079:["(?<![\\p{L}\\p{N}])(?:STAUDEL|Staudel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["STAUDEL"]],
+ 21080:[
   "(?<![\\p{L}\\p{N}])(?:GREGOR\\s+VON\\s+VALENTIA|Gregor\\s+von\\s+Valentia|Valentia)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["GREGOR VON VALENTIA"]
  ],
- 21084:["(?<![\\p{L}\\p{N}])(?:TOURNELY|Tournely)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. de TOURNELY"]],
- 21085:["(?<![\\p{L}\\p{N}])(?:KILBER|Kilber)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. KILBER"]],
- 21086:["(?<![\\p{L}\\p{N}])(?:TONGIORGI|Tongiorgi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. TONGIORGI"]],
- 21087:["(?<![\\p{L}\\p{N}])(?:PERRONE|Perrone)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. PERRONE"]],
- 21088:["(?<![\\p{L}\\p{N}])(?:THEOLOGIKÉ|Theologiké)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["THEOLOGIKÉ"]],
- 21089:[
+ 21081:["(?<![\\p{L}\\p{N}])(?:TOURNELY|Tournely)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. de TOURNELY"]],
+ 21082:["(?<![\\p{L}\\p{N}])(?:KILBER|Kilber)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. KILBER"]],
+ 21083:["(?<![\\p{L}\\p{N}])(?:TONGIORGI|Tongiorgi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. TONGIORGI"]],
+ 21084:["(?<![\\p{L}\\p{N}])(?:PERRONE|Perrone)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. PERRONE"]],
+ 21085:["(?<![\\p{L}\\p{N}])(?:THEOLOGIKÉ|Theologiké)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["THEOLOGIKÉ"]],
+ 21086:[
   "(?<![\\p{L}\\p{N}])(?:JEHUDA\\s+HALLEWI|Jehuda\\s+Hallewi|Hallewi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["JEHUDA HALLEWI"]
  ],
- 21090:[
+ 21087:[
   "(?<![\\p{L}\\p{N}])(?:ABRAHAM\\s+ibn\\s+ESRA|Abraham\\s+ibn\\s+Esra|Esra)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["ABRAHAM ibn ESRA"]
  ],
- 21091:["(?<![\\p{L}\\p{N}])(?:BENGSCH|Bengsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. BENGSCH"]],
- 21092:["(?<![\\p{L}\\p{N}])(?:EADMER|Eadmer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["EADMER"]],
- 21093:["(?<![\\p{L}\\p{N}])(?:GERSONI|Gersoni)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GERSONI"]],
- 21094:["(?<![\\p{L}\\p{N}])(?:PREZZI|Prezzi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. PREZZI"]],
- 21095:[
+ 21088:["(?<![\\p{L}\\p{N}])(?:BENGSCH|Bengsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. BENGSCH"]],
+ 21089:["(?<![\\p{L}\\p{N}])(?:EADMER|Eadmer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["EADMER"]],
+ 21090:["(?<![\\p{L}\\p{N}])(?:GERSONI|Gersoni)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GERSONI"]],
+ 21091:["(?<![\\p{L}\\p{N}])(?:PREZZI|Prezzi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. PREZZI"]],
+ 21092:[
   "(?<![\\p{L}\\p{N}])(?:LAURENTII\\s+VALLAE|Laurentii\\s+Vallae|Vallae)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["LAURENTII VALLAE"]
  ],
- 21096:["(?<![\\p{L}\\p{N}])(?:LACTANTII|Lactantii)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LACTANTII"]],
- 21097:["(?<![\\p{L}\\p{N}])(?:ALLEN|Allen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ALLEN"]],
- 21098:["(?<![\\p{L}\\p{N}])(?:LUPTON|Lupton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LUPTON"]],
- 21099:["(?<![\\p{L}\\p{N}])(?:ERASMI|Erasmi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ERASMI"]],
- 21100:["(?<![\\p{L}\\p{N}])(?:PADBERG|Padberg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. PADBERG"]],
- 21101:["(?<![\\p{L}\\p{N}])(?:BARTSCH|Bartsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BARTSCH"]],
- 21102:["(?<![\\p{L}\\p{N}])(?:FRAUENSTADT|Frauenstadt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. FRAUENSTADT"]],
- 21103:["(?<![\\p{L}\\p{N}])(?:BIEDERMANN|Biedermann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BIEDERMANN"]],
- 21104:[
+ 21093:["(?<![\\p{L}\\p{N}])(?:LACTANTII|Lactantii)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LACTANTII"]],
+ 21094:["(?<![\\p{L}\\p{N}])(?:ALLEN|Allen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ALLEN"]],
+ 21095:["(?<![\\p{L}\\p{N}])(?:LUPTON|Lupton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["LUPTON"]],
+ 21096:["(?<![\\p{L}\\p{N}])(?:ERASMI|Erasmi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ERASMI"]],
+ 21097:["(?<![\\p{L}\\p{N}])(?:PADBERG|Padberg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. PADBERG"]],
+ 21098:["(?<![\\p{L}\\p{N}])(?:BARTSCH|Bartsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BARTSCH"]],
+ 21099:["(?<![\\p{L}\\p{N}])(?:FRAUENSTADT|Frauenstadt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. FRAUENSTADT"]],
+ 21100:["(?<![\\p{L}\\p{N}])(?:BIEDERMANN|Biedermann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["BIEDERMANN"]],
+ 21101:[
   "(?<![\\p{L}\\p{N}])(?:MOTHE\\s+FÉNELON|Mothe\\s+Fénelon|Fénelon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["la MOTHE FÉNELON"]
  ],
- 21105:["(?<![\\p{L}\\p{N}])(?:SENESTREY|Senestrey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. P. SENESTREY"]],
- 21106:[
+ 21102:["(?<![\\p{L}\\p{N}])(?:SENESTREY|Senestrey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. P. SENESTREY"]],
+ 21103:[
   "(?<![\\p{L}\\p{N}])(?:FRIELINGSDORF|Frielingsdorf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["K. FRIELINGSDORF"]
  ],
- 21107:["(?<![\\p{L}\\p{N}])(?:THEÔI|Theôi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["THEÔI"]],
- 21108:["(?<![\\p{L}\\p{N}])(?:CANART|Canart)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. CANART"]],
- 21109:["(?<![\\p{L}\\p{N}])(?:DIÈS|Diès)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. DIÈS"]],
- 21110:[
+ 21104:["(?<![\\p{L}\\p{N}])(?:THEÔI|Theôi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["THEÔI"]],
+ 21105:["(?<![\\p{L}\\p{N}])(?:CANART|Canart)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. CANART"]],
+ 21106:["(?<![\\p{L}\\p{N}])(?:DIÈS|Diès)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. DIÈS"]],
+ 21107:[
   "(?<![\\p{L}\\p{N}])(?:LABUSCHAGNE|Labuschagne)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["C. J. LABUSCHAGNE"]
  ],
- 21111:["(?<![\\p{L}\\p{N}])(?:MARCHEL|Marchel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. MARCHEL"]],
- 21112:["(?<![\\p{L}\\p{N}])(?:DALBERT|Dalbert)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. DALBERT"]],
- 21113:["(?<![\\p{L}\\p{N}])(?:TRESMONTANT|Tresmontant)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. TRESMONTANT"]],
- 21114:["(?<![\\p{L}\\p{N}])(?:KILGENSTEIN|Kilgenstein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. KILGENSTEIN"]],
- 21115:[
+ 21108:["(?<![\\p{L}\\p{N}])(?:MARCHEL|Marchel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. MARCHEL"]],
+ 21109:["(?<![\\p{L}\\p{N}])(?:DALBERT|Dalbert)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. DALBERT"]],
+ 21110:["(?<![\\p{L}\\p{N}])(?:TRESMONTANT|Tresmontant)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. TRESMONTANT"]],
+ 21111:["(?<![\\p{L}\\p{N}])(?:KILGENSTEIN|Kilgenstein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. KILGENSTEIN"]],
+ 21112:[
   "(?<![\\p{L}\\p{N}])(?:GUICHARDAN\\s+AA|Guichardan\\s+Aa)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["S. GUICHARDAN AA"]
  ],
- 21116:["(?<![\\p{L}\\p{N}])(?:BANGE|Bange)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BANGE"]],
- 21117:["(?<![\\p{L}\\p{N}])(?:TOUATI|Touati)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. TOUATI"]],
- 21118:["(?<![\\p{L}\\p{N}])(?:HORST\\s+OP|Horst\\s+Op)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. HORST OP"]],
- 21119:["(?<![\\p{L}\\p{N}])(?:HOLLON|Hollon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. W. HOLLON"]],
- 21120:["(?<![\\p{L}\\p{N}])(?:BAINTON|Bainton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. BAINTON"]],
- 21121:["(?<![\\p{L}\\p{N}])(?:NAMER|Namer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. NAMER"]],
- 21122:[
+ 21113:["(?<![\\p{L}\\p{N}])(?:BANGE|Bange)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BANGE"]],
+ 21114:["(?<![\\p{L}\\p{N}])(?:TOUATI|Touati)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. TOUATI"]],
+ 21115:["(?<![\\p{L}\\p{N}])(?:HORST\\s+OP|Horst\\s+Op)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. HORST OP"]],
+ 21116:["(?<![\\p{L}\\p{N}])(?:HOLLON|Hollon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. W. HOLLON"]],
+ 21117:["(?<![\\p{L}\\p{N}])(?:BAINTON|Bainton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. BAINTON"]],
+ 21118:["(?<![\\p{L}\\p{N}])(?:NAMER|Namer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. NAMER"]],
+ 21119:[
   "(?<![\\p{L}\\p{N}])(?:LA\\s+CHARITÉ|la\\s+Charité|Charité)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["R. C. LA CHARITÉ"]
  ],
+ 21120:[
+  "(?<![\\p{L}\\p{N}])(?:VANDER\\s+HAEGHEN|Vander\\s+Haeghen|Haeghen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["V. VANDER HAEGHEN"]
+ ],
+ 21121:["(?<![\\p{L}\\p{N}])(?:GAONACH|Gaonach)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J.-M. GAONACH"]],
+ 21122:["(?<![\\p{L}\\p{N}])(?:CONNELL|Connell)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. CONNELL"]],
  21123:["(?<![\\p{L}\\p{N}])(?:HOFFART|Hoffart)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. HOFFART"]],
  21124:["(?<![\\p{L}\\p{N}])(?:HÖLTERS|Hölters)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. HÖLTERS"]],
  21125:["(?<![\\p{L}\\p{N}])(?:GONZENBACH|Gonzenbach)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. GONZENBACH"]],
@@ -233,19 +233,19 @@ HWPH.put("pat/42",
   "(?<![\\p{L}\\p{N}])(?:WILLIAM\\s+DERHAM|William\\s+Derham|Derham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["WILLIAM DERHAM"]
  ],
- 21140:[
-  "(?<![\\p{L}\\p{N}])(?:COUESNONGLE|Couesnongle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["V. de COUESNONGLE"]
- ],
- 21141:["(?<![\\p{L}\\p{N}])(?:GAUNILO|Gaunilo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GAUNILO"]],
- 21142:[
+ 21140:["(?<![\\p{L}\\p{N}])(?:GAUNILO|Gaunilo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["GAUNILO"]],
+ 21141:[
   "(?<![\\p{L}\\p{N}])(?:RICHARD\\s+MIDDLETON|Richard\\s+Middleton|Middleton)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["RICHARD MIDDLETON"]
  ],
- 21143:["(?<![\\p{L}\\p{N}])(?:FRANZISCUS|Franziscus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FRANZISCUS"]],
- 21144:[
+ 21142:["(?<![\\p{L}\\p{N}])(?:FRANZISCUS|Franziscus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["FRANZISCUS"]],
+ 21143:[
   "(?<![\\p{L}\\p{N}])(?:ROBERTOS\\s+PALLUS|Robertos\\s+Pallus|Pallus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["ROBERTOS PALLUS"]
+ ],
+ 21144:[
+  "(?<![\\p{L}\\p{N}])(?:COUESNONGLE|Couesnongle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["V. de COUESNONGLE"]
  ],
  21145:["(?<![\\p{L}\\p{N}])(?:BONNETTE|Bonnette)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. BONNETTE"]],
  21146:["(?<![\\p{L}\\p{N}])(?:LEIWESMEIER|Leiwesmeier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. LEIWESMEIER"]],

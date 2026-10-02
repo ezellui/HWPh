@@ -26,7 +26,7 @@ HWPH.put("a/2365",
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":742,"name":"A. Hermann","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":742,"name":"A. Hermann","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1460,"name":"G. Ludwig","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":5314,"name":"J. Audretsch","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":41,"name":"H. Cohen","b":0,"n":1,"l":0,"editor":0,"role":"source"},

@@ -281,7 +281,7 @@ HWPH.put("a/3487",
   {"id":2085,"lemma":"Naturgesetzlichkeit, Naturgesetz","tf":6},
   {"id":1693,"lemma":"Kriterium","tf":7},
   {"id":405,"lemma":"Bewährung","tf":4},
-  {"id":892,"lemma":"Falsifikation","tf":3}
+  {"id":1330,"lemma":"Hypothese, Hypothesis","tf":7}
  ],
  "see_also":[],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Voraussage"}],

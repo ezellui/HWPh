@@ -80,14 +80,14 @@ HWPH.put("a/118",
   {"id":19061,"name":"Felix Dumas","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19062,"name":"Coutures","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":19063,"name":"Amiel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":407,"name":"R. Spaemann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2293,"name":"A. Levi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":2917,"name":"H.-J. Fuchs","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":6196,"name":"R. Mauzi","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":13405,"name":"A. J. Krailsheimer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":10464,"name":"F. Ageno","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":19064,"name":"Génoude","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":19064,"name":"Génoude","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":2050,"lemma":"Mystik, mystisch","tf":5},

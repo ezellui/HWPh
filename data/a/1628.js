@@ -41,7 +41,7 @@ HWPH.put("a/1628",
   {"id":21,"name":"J. Locke","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":33,"name":"D. Hume","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":122,"name":"W. Stegmüller","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":862,"name":"V. Kraft","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":862,"name":"V. Kraft","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":592,"name":"P. A. Schilpp","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[

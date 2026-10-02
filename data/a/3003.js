@@ -31,7 +31,7 @@ HWPH.put("a/3003",
  ],
  "persons":[
   {"id":980,"name":"J. C. Bluntschli","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
-  {"id":5072,"name":"F. de Lamennais","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
+  {"id":5071,"name":"F. de Lamennais","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":4543,"name":"L. Duguit","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
   {"id":12975,"name":"R. Bonnard","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":12,"name":"J. G. Fichte","b":1,"n":1,"l":0,"editor":0,"role":"source"},

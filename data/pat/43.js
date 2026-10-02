@@ -496,21 +496,18 @@ HWPH.put("pat/43",
   ["DOMINICUS SOTO"]
  ],
  21770:["(?<![\\p{L}\\p{N}])(?:SILLEM|Sillem)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. SILLEM"]],
- 21771:[
-  "(?<![\\p{L}\\p{N}])(?:HUNGERLAND|Hungerland)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["I. \nI. C. HUNGERLAND"]
- ],
- 21772:["(?<![\\p{L}\\p{N}])(?:ORLOV|Orlov)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ORLOV"]],
- 21773:["(?<![\\p{L}\\p{N}])(?:MAKINSONS|Makinsons)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["MAKINSONS"]],
- 21774:["(?<![\\p{L}\\p{N}])(?:DUNN|Dunn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["DUNN"]],
- 21775:[
+ 21771:["(?<![\\p{L}\\p{N}])(?:ORLOV|Orlov)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["ORLOV"]],
+ 21772:["(?<![\\p{L}\\p{N}])(?:MAKINSONS|Makinsons)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["MAKINSONS"]],
+ 21773:["(?<![\\p{L}\\p{N}])(?:DUNN|Dunn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["DUNN"]],
+ 21774:[
   "(?<![\\p{L}\\p{N}])(?:WILLIAM\\s+OCKHAM|William\\s+Ockham|Ockham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["WILLIAM OCKHAM"]
  ],
- 21776:["(?<![\\p{L}\\p{N}])(?:HALLDÉN|Halldén)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. HALLDÉN"]],
- 21777:["(?<![\\p{L}\\p{N}])(?:DONCHENKO|Donchenko)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. V. DONCHENKO"]],
- 21778:["(?<![\\p{L}\\p{N}])(?:DÜNN|Dünn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. M. DÜNN"]],
- 21779:["(?<![\\p{L}\\p{N}])(?:MAKINSON|Makinson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. C. MAKINSON"]],
+ 21775:["(?<![\\p{L}\\p{N}])(?:HALLDÉN|Halldén)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. HALLDÉN"]],
+ 21776:["(?<![\\p{L}\\p{N}])(?:DONCHENKO|Donchenko)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. V. DONCHENKO"]],
+ 21777:["(?<![\\p{L}\\p{N}])(?:DÜNN|Dünn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. M. DÜNN"]],
+ 21778:["(?<![\\p{L}\\p{N}])(?:MAKINSON|Makinson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. C. MAKINSON"]],
+ 21779:["(?<![\\p{L}\\p{N}])(?:HUNGERLAND|Hungerland)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. C. HUNGERLAND"]],
  21780:["(?<![\\p{L}\\p{N}])(?:ORCORAN|Orcoran)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ORCORAN"]],
  21781:[
   "(?<![\\p{L}\\p{N}])(?:JUAN\\s+SANCHEZ\\s+SEDEGNO|Juan\\s+Sanchez\\s+Sedegno|Sedegno)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",

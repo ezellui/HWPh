@@ -43,14 +43,14 @@ HWPH.put("a/2044",
   {"id":522,"name":"E. R. Curtius","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":4058,"name":"Th. Fowler","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4431,"name":"A. Th. Brück","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":24286,"name":"P. la Fargue","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":24287,"name":"Ch. K. Brightbill","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":24288,"name":"G. Hourdin","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":24289,"name":"S. de Grazia","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":85,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
   {"id":351,"name":"G. Lasson","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
-  {"id":1983,"name":"S. Landshut","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
+  {"id":1983,"name":"S. Landshut","b":0,"n":1,"l":0,"editor":1,"role":"scholar"},
+  {"id":354,"name":"I. Fetscher","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":230,"lemma":"Arbeit","tf":9},

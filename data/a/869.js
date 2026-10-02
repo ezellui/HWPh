@@ -44,9 +44,9 @@ HWPH.put("a/869",
   {"id":2902,"name":"J. Wahl","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":10910,"name":"N. Berdjajeff","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":14033,"name":"F. With","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
-  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
   {"id":739,"name":"J. B. Lotz","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
-  {"id":924,"name":"H. Spiegelberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
+  {"id":924,"name":"H. Spiegelberg","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
+  {"id":339,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[
   {"id":863,"lemma":"Existenz, existentia","tf":13},

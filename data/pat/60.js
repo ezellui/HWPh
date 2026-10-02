@@ -322,65 +322,65 @@ HWPH.put("pat/60",
   "(?<![\\p{L}\\p{N}])(?:VON\\s+HAMMER-PURGSTALL|von\\s+Hammer-Purgstall|Hammer-Purgstall)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. VON HAMMER-PURGSTALL"]
  ],
- 30208:["(?<![\\p{L}\\p{N}])(?:ANDRAE|Andrae)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. ANDRAE"]],
- 30209:["(?<![\\p{L}\\p{N}])(?:TRIMINGHAM|Trimingham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. S. TRIMINGHAM"]],
- 30210:["(?<![\\p{L}\\p{N}])(?:MOLÉ|Molé)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. MOLÉ"]],
- 30211:[
-  "(?<![\\p{L}\\p{N}])(?:VITRAY-MEYEROVITCH|Vitray-Meyerovitch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
-  ["E. de VITRAY-MEYEROVITCH"]
- ],
- 30212:["(?<![\\p{L}\\p{N}])(?:NWIYA|Nwiya)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. NWIYA"]],
- 30213:[
+ 30208:["(?<![\\p{L}\\p{N}])(?:NWIYA|Nwiya)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. NWIYA"]],
+ 30209:[
   "(?<![\\p{L}\\p{N}])(?:ABDEL-KADER|Abdel-Kader)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["A. H. ABDEL-KADER"]
  ],
- 30214:["(?<![\\p{L}\\p{N}])(?:NICHOLSON|Nicholson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["NICHOLSON"]],
- 30215:["(?<![\\p{L}\\p{N}])(?:ZAEHNER|Zaehner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. C. ZAEHNER"]],
- 30216:[
+ 30210:["(?<![\\p{L}\\p{N}])(?:NICHOLSON|Nicholson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["NICHOLSON"]],
+ 30211:["(?<![\\p{L}\\p{N}])(?:ZAEHNER|Zaehner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. C. ZAEHNER"]],
+ 30212:[
   "(?<![\\p{L}\\p{N}])(?:ABDUR\\s+RABB|Abdur\\s+Rabb|Rabb)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["M. ABDUR RABB"]
  ],
- 30217:[
+ 30213:[
   "(?<![\\p{L}\\p{N}])(?:LAZARUS-YAFEH|Lazarus-Yafeh)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["H. LAZARUS-YAFEH"]
  ],
- 30218:["(?<![\\p{L}\\p{N}])(?:GLASSEN|Glassen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. GLASSEN"]],
- 30219:["(?<![\\p{L}\\p{N}])(?:JABRE|Jabre)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. JABRE"]],
- 30220:["(?<![\\p{L}\\p{N}])(?:MEHREN|Mehren)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. F. MEHREN"]],
- 30221:["(?<![\\p{L}\\p{N}])(?:GALLOFRÉ|Gallofré)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. J. GALLOFRÉ"]],
- 30222:["(?<![\\p{L}\\p{N}])(?:WEISCHER|Weischer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. M. WEISCHER"]],
- 30223:["(?<![\\p{L}\\p{N}])(?:URVOY|Urvoy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. URVOY"]],
- 30224:[
+ 30214:["(?<![\\p{L}\\p{N}])(?:GLASSEN|Glassen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. GLASSEN"]],
+ 30215:["(?<![\\p{L}\\p{N}])(?:JABRE|Jabre)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. JABRE"]],
+ 30216:["(?<![\\p{L}\\p{N}])(?:MEHREN|Mehren)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. F. MEHREN"]],
+ 30217:["(?<![\\p{L}\\p{N}])(?:GALLOFRÉ|Gallofré)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. J. GALLOFRÉ"]],
+ 30218:["(?<![\\p{L}\\p{N}])(?:WEISCHER|Weischer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. M. WEISCHER"]],
+ 30219:["(?<![\\p{L}\\p{N}])(?:URVOY|Urvoy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. URVOY"]],
+ 30220:[
   "(?<![\\p{L}\\p{N}])(?:JEAN\\s+de\\s+JEANVILLE|Jean\\s+de\\s+Jeanville|Jeanville)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["JEAN de JEANVILLE"]
  ],
- 30225:["(?<![\\p{L}\\p{N}])(?:AFRICANUS|Africanus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["AFRICANUS"]],
- 30226:["(?<![\\p{L}\\p{N}])(?:RAMUSIO|Ramusio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. B. RAMUSIO"]],
- 30227:[
+ 30221:["(?<![\\p{L}\\p{N}])(?:AFRICANUS|Africanus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["AFRICANUS"]],
+ 30222:["(?<![\\p{L}\\p{N}])(?:RAMUSIO|Ramusio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. B. RAMUSIO"]],
+ 30223:[
   "(?<![\\p{L}\\p{N}])(?:FLORIDA\\s+LILLA|Florida\\s+Lilla|Lilla)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["F. FLORIDA LILLA"]
  ],
- 30228:["(?<![\\p{L}\\p{N}])(?:RYER|Ryer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. du RYER"]],
- 30229:[
+ 30224:["(?<![\\p{L}\\p{N}])(?:RYER|Ryer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. du RYER"]],
+ 30225:[
   "(?<![\\p{L}\\p{N}])(?:OCHSSENBACH|Ochssenbach)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. F. OCHSSENBACH"]
  ],
- 30230:[
+ 30226:[
   "(?<![\\p{L}\\p{N}])(?:MUSLADINI\\s+SADI|Musladini\\s+Sadi|Sadi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["MUSLADINI SADI"]
  ],
- 30231:["(?<![\\p{L}\\p{N}])(?:GENTIO|Gentio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. GENTIO"]],
- 30232:["(?<![\\p{L}\\p{N}])(?:POCOCKIUS|Pocockius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. POCOCKIUS"]],
- 30233:["(?<![\\p{L}\\p{N}])(?:REVICZKI|Reviczki)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. E. A. de REVICZKI"]],
- 30234:["(?<![\\p{L}\\p{N}])(?:BABINGER|Babinger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. BABINGER"]],
- 30235:[
+ 30227:["(?<![\\p{L}\\p{N}])(?:GENTIO|Gentio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. GENTIO"]],
+ 30228:["(?<![\\p{L}\\p{N}])(?:POCOCKIUS|Pocockius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. POCOCKIUS"]],
+ 30229:["(?<![\\p{L}\\p{N}])(?:REVICZKI|Reviczki)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. E. A. de REVICZKI"]],
+ 30230:["(?<![\\p{L}\\p{N}])(?:BABINGER|Babinger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. BABINGER"]],
+ 30231:[
   "(?<![\\p{L}\\p{N}])(?:VON\\s+HAMMER|von\\s+Hammer|Hammer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["J. VON HAMMER"]
  ],
- 30236:["(?<![\\p{L}\\p{N}])(?:PURGSTALL|Purgstall)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["PURGSTALL"]],
- 30237:[
+ 30232:["(?<![\\p{L}\\p{N}])(?:PURGSTALL|Purgstall)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["PURGSTALL"]],
+ 30233:[
   "(?<![\\p{L}\\p{N}])(?:VON\\s+KREMER|von\\s+Kremer|Kremer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
   ["A. VON KREMER"]
+ ],
+ 30234:["(?<![\\p{L}\\p{N}])(?:ANDRAE|Andrae)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. ANDRAE"]],
+ 30235:["(?<![\\p{L}\\p{N}])(?:TRIMINGHAM|Trimingham)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. S. TRIMINGHAM"]],
+ 30236:["(?<![\\p{L}\\p{N}])(?:MOLÉ|Molé)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. MOLÉ"]],
+ 30237:[
+  "(?<![\\p{L}\\p{N}])(?:VITRAY-MEYEROVITCH|Vitray-Meyerovitch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["E. de VITRAY-MEYEROVITCH"]
  ],
  30238:["(?<![\\p{L}\\p{N}])(?:BÄTE|Bäte)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. J. BÄTE"]],
  30239:[

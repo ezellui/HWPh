@@ -157,8 +157,8 @@ HWPH.put("a/3324",
   {"id":1524,"lemma":"Kampf","tf":4},
   {"id":897,"lemma":"Faschismus","tf":2},
   {"id":1261,"lemma":"Herrschaft","tf":4},
-  {"id":1690,"lemma":"Krieg","tf":3},
-  {"id":2506,"lemma":"Psychoanalyse","tf":3}
+  {"id":2506,"lemma":"Psychoanalyse","tf":3},
+  {"id":1690,"lemma":"Krieg","tf":3}
  ],
  "see_also":[],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Unterdrückung"}],

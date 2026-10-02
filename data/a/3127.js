@@ -68,7 +68,7 @@ HWPH.put("a/3127",
   {"id":838,"name":"P. Charron","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":687,"name":"F. de la Rochefoucauld","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":918,"name":"Ch. Renouvier","b":1,"n":1,"l":0,"editor":0,"role":"source"},
-  {"id":2009,"name":"V. Jankélévitch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
+  {"id":2009,"name":"V. Jankélévitch","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1961,"name":"Alain de Lille","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2779,"name":"R. le Senne","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1807,"name":"Ch. P. Duclos","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -142,7 +142,7 @@ HWPH.put("a/3127",
   {"id":2318,"lemma":"Person","tf":3},
   {"id":3634,"lemma":"Wissen","tf":3},
   {"id":2511,"lemma":"Psychologie","tf":2},
-  {"id":3406,"lemma":"Verhalten","tf":2}
+  {"id":182,"lemma":"Antike","tf":2}
  ],
  "see_also":[
   {"id":1004,"lemma":"Geduld"},
