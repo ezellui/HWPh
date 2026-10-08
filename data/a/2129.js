@@ -1,0 +1,27 @@
+HWPH.put("a/2129",
+{
+ "id":2129,
+ "lemma":"Neutralisierung (neutrales Bewußtsein)",
+ "band":"6",
+ "kind":"article",
+ "col_from":781,
+ "col_to":781,
+ "pdf_from":22815,
+ "pdf_to":22816,
+ "authors":["P. Janssen"],
+ "n_notes":5,
+ "n_chars":1358,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Neutralisierung (neutrales Bewußtsein). E. HUSSERL begreift die neutralen Bewußtseinserlebnisse als Modifikate der positionalen (quasi-positionale) <sup class=\"fn\" data-fn=\"0-1\">1</sup>. Alle wirklich setzenden Akte können neutralisiert werden, indem man die in ihnen vollzogenen «Setzungen» nicht mitvollzieht, sondern es beim Vermeinen eines Gegenstandes beläßt, ohne ihm ein wirkliches oder auch mögliches Sein zuzusprechen. Dadurch wird der Setzungscharakter des doxischen Bewußtseins (im weitesten Sinne) und seiner Modalisierungen durch ein freies Sich-des-Leistens-Enthaltens aufgehoben <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Die Neutralisierung erstreckt sich auf die noetischen und noematischen Momente der intentionalen Erlebnisse <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Die Sphäre der neutralen Erlebnisse bildet die genaue Spiegelung der ihres thetischen Charakters beraubten positionalen Bewußtseinssphäre <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Husserl definiert Phantasie als Neutralitätsmodifikation von Vergegenwärtigung (Erinnerung im weitesten Sinn), im Unterschied zum «Bildobjektbewußtsein», als Neutralitätsmodifikation der Gegenwärtigung <sup class=\"fn\" data-fn=\"0-5\">5</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">E. HUSSERL: Ideen zu einer reinen Phänomenol. und phänomenolog. Philos., 1. Buch. Husserliana III (Den Haag 1950) 264f. bzw. III/1 (<sup>2</sup>1976) 247; vgl. Cart. Meditationen und Pariser Vorträge. Husserliana I (Den Haag<sup>2</sup> 1963) 93f.</li>\n<li id=\"fn0-2\" value=\"2\">Ideen ... 1 (1954) 265f. bzw. (<sup>2</sup>1976) 247f.</li>\n<li id=\"fn0-3\" value=\"3\">a.O. 266f. bzw. 249.</li>\n<li id=\"fn0-4\" value=\"4\">288f. 353, Anm. 1 bzw. 269. 333.</li>\n<li id=\"fn0-5\" value=\"5\">267ff. bzw. 250ff.</li>\n</ol>",
+ "prev":{"id":2128,"lemma":"Neuthomismus","band":"6","col":779},
+ "next":{"id":2130,"lemma":"Neutralisierungen, Zeitalter der","band":"6","col":781},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

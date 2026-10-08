@@ -1,0 +1,23 @@
+HWPH.put("t/1658",
+{
+ "b":"Koordination ist das Zusammenfügen, Beiordnen, Zusammenordnen, Zusammenbefehlen von zwei oder mehreren Variablen durch eine übergeordnete Variable in sinnvoller, ökonomischer, harmonischer Weise. Bei der K. werden zwei oder mehrere Variable durch einen Koordinator in indirekte funktionelle Beziehung zueinander gebracht, im Unterschied zur Kooperation (Zusammenarbeiten) bei welcher zwei oder mehrere Variable in (gleichwertiger) direkter funktioneller Beziehung zueinander stehen. Als koordinierte Variable können umfanggleiche Begriffe, die einem gemeinsamen Gattungsbegriff untergeordnet sind (W. WUNDT ), Daten, die einem Datum (oder einer Dimension) untergeordnet sind, Klassen, die zu einer höheren Klasse zusammengefügt sind, und ähnliches betrachtet werden. Stehen Variable gleichzeitig mit mehreren Koordinatoren in Beziehung, so spricht man von mehrdimensionaler K. W. R. ASHBY sieht in der K. eine der Garantien für die Stabilität eines Systems, das aus Teilsystemen besteht. Eine besondere Art der K. tritt bei Ashbys Modell des ultra-(multi-) stabilen Systems hervor, wobei jedes der Teilsysteme eines Gesamtsystems zum Koordinator für die übrigen Teilsysteme werden kann . \nIn der Physiologie versteht man unter K. das harmonische (ökonomisch aufeinander abgestimmte) Zusammenspiel von Effektoren (hauptsächlich Muskeln oder Muskelgruppen) sowie die Art nervlich geregelter (gesteuerter) Funktionen, wie Puls, Kreislauf, Atmung, Tonus, Blutdruck usw. Bei einer Reihe von Verhaltensweisen (Instinktverhalten) nimmt man angeborene K. der Bewegung (Erb-K.) und deren Zuordnung zu Signalen der Umgebung (angeborene Auslösemechanismen) an. A. RÜSSEL hebt den Unterschied zwischen der (organspezifischen und «unverlierbaren») Rahmen-K. und der (übungsbedingten) Fein-K. hervor. In der Geschichte der Physiologie bieten sich als K.-Modelle das Reflexmodell PAWLOWS (Reflexketten), neuerdings aus mehr dynamischer Betrachtungsweise Regulationsmodelle (Reafferenzprinzip nach E. VON HOLST ; Kaskadenregelung u. ä. in der Kybernetik) an. \nIn der Psychologie fand der Begriff ‹K.› – verstanden als räumliche und zeitliche Geordnetheit eines Prozesses – besonderen Anklang durch die Erforschung der Dynamik des sensomotorischen Geschehens (I. KOHLER , W. WITTE , R. HELD , C. S. HARRIS u.a.). K. ist hier mehr als das harmonische und ökonomische Zusammenspiel von Muskeln oder Muskelgruppen. Der Begriff bezeichnet den Kreisprozeß zwischen den aufeinander abgestimmten Funktionen von Sensorium und Motorik (sensomotorische K.), wobei das Funktionieren des Sensoriums aus der Kenntnisnahme der Fehler und Erfolge der Motorik (im Sinne der sogenannten reafferenten Reizung nach HELD) garantiert wird oder (wie bei J. G. TAYLOR ) durch Erfolge und Mißerfolge der Motorik erst aufgebaut werden kann. Unter inter-sensorischer K. versteht man die Beziehungen einzelner Sinnessysteme zu allgemeinen sensorischen Parametern (Raum, Zeit, aber auch zu intermodalen Qualitäten, wie z.B. Rauheit, Helle u. ä.); durch diese Beziehungen wird die intermodale Synthese der Einzelmeldungen (Empfindungen) zu Wahrnehmungsdingen ermöglicht. Bei bestimmten Erkrankungen oder unter Einfluß bestimmter Drogen kommt es zu Störungen der K. (Gleichgewichts-, Geh-, Schreibstörungen usw.). Die experimentell (durch Pharmaka, optische Mittel, wie Prismen, Linsen, Spiegel, weiter durch galvanische Reizung u. dgl.) hervorgerufene K.-Störung ist eine Maßnahme zum Studium der Stabilität und der Stabilisierungsprozesse (Adaptation) sowie des funktionalen Ablaufs sensomotorischer und intersensorischer Prozesse.",
+ "n":"W. WUNDT: Logik 1 (21893) 115ff. \nW. R. ASHBY: Design for a brain (London 1960) 57. 67. 103. \nA. RÜSSEL: Das Wesen der Bewegungs-K. Aren. ges. Psychol. 112 (1944) 1. 19. \nE. VON HOLST und H. MITTELSTAEDT: Das Reafferenzprinzip. Naturwiss. 37 (1950) 464ff.; E. VON HOLST: Aktive Leistungen der menschl. Gesichtswahrnehmung. Stud. gen. 10 (1957) 231ff. \nI. KOHLER: Die Zusammenarbeit der Sinne und das allg. Adaptationsproblem, in: Hb. Psychol. I/1 (1966) 616ff. \nW. WITTE: Haptik, in: Hb. Psychol. I/1 (1966) 498ff. \nR. HELD und A. V. HEIN: Adaptation of disarranged hand-eye-coordination contingent upon re-afferent Stimulation. Percept. mot. Skills 8 (1958) 87–90. \nC. S. HARRIS: Adaptation to displaced vision: Visual, motor, or proprioceptive change? Science 140 (1963) 812–813. \nJ. G. TAYLOR: The behavioral basis of perception (New Haven/London 1962) 14ff.",
+ "l":"",
+ "au":"A. Hajos",
+ "A":["A. Hajos"],
+ "cb":[[0,1092],[1189,1092],[2044,1092],[2559,1093]],
+ "cn":[
+  [0,1092],
+  [0,1093],
+  [34,1093],
+  [94,1093],
+  [171,1093],
+  [352,1093],
+  [462,1093],
+  [516,1093],
+  [667,1093],
+  [783,1093]
+ ],
+ "cl":[]
+}
+);

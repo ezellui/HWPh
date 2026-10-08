@@ -1,0 +1,12 @@
+HWPH.put("t/1697",
+{
+ "b":"Kritik, kritische, auch ‹reine Kritik› genannt, wird von dem Linkshegelianer BRUNO BAUER (zusammen mit seinem Bruder EDGAR) 1843/44 in Fortführung seiner radikalen Religionskritik und als Konsequenz aus dem Scheitern des philosophisch-politischen Radikalismus der Linkshegelianer und ihrer am «Vernunftstaat» orientierten politischen Kritik (1842/43) zur Form der permanenten, umfassenden Kritik alles Bestehenden entwickelt. Sie kritisiert (einschließlich ihrer eigenen theoretischen Verfestigung) insbesondere jede religiöse, philosophische und politisch-soziale Wahrheit, Idee, Theorie und Institution, die sich gegenüber der im unaufhörlichen, schöpferischen Wandel fortschreitenden historisch-dialektischen Entwicklung des «unendlichen Selbstbewußtseins» zu seiner totalen Freiheit für absolut, normativ oder dauerhaft erklären und so «dogmatisch» werden . Als notwendigerweise «ansichts-, system- und gesinnungslose» Analyse und Erhellung der geschichtlichen Situation der bisherigen Welt wird sie zur Position der freischwebenden Intelligenz , die MARX als reines «Kreisen in sich selbst» verspottet . Gleichwohl gab die k.K. den Anspruch nicht auf, die noch unbekannte neue «Weltform» vorzubereiten .",
+ "n":"Allg. Lit.-Ztg (= ALZ) (Mschr. hg. BR. BAUER) 1–12 (1843/44); (21847: Streit der Kritik mit den modernen Gegensätzen) mit Beitr. von BR. BAUER, E. BAUER, E. JUNGNITZ, SZELIGA u.a.; ferner: Norddtsch. Bl. für Kritik, Lit. und Unterhaltung H. 1–12 (1844/45); (21846: Beitr. zum Feldzug der Kritik. Norddtsch. Bl. für 1844 und 1845 1. 2); vgl. bes. BR. BAUER: Was ist jetzt der Gegenstand der Kritik? ALZ 8, 21ff.; Die Gattung und die Masse. ALZ 10, 42ff.; E. BAUER: «1842». ALZ 8, 3ff.; SZELIGA: Die Kritik. ALZ 11/12, 25ff.; vgl. auch BR. BAUER: Charakteristik Ludwig Feuerbachs. Wigands Vjschr. 3 (1845) 86ff. \nALZ 8, 7; vgl. 2, 29f.; 6, 31. 34; 8, 8. \nFR. ENGELS und K. MARX: Die heilige Familie oder Kritik der k.K. (1845). MEW 2, 151; vgl. dazu G. JULIUS: Der Streit der sichtbaren mit der unsichtbaren Menschenkirche oder Kritik der Kritik der k.K. Wigands Vjschr. 2 (1845); ferner K. SCHMIDT: Das Verstandestum und das Individuum (1846). \nALZ 4, 15.",
+ "l":"D. KOIGEN: Zur Vorgesch. des modernen philos. Sozialismus in Deutschland (1901). – D. HERTZ-EICHENRODE: Der Junghegelianer Bruno Bauer im Vormärz (Phil. Diss. Freie Univ. Berlin 1959) mit Lit.",
+ "au":"H. Stuke",
+ "A":["H. Stuke"],
+ "cb":[[0,1293],[39,1294]],
+ "cn":[[0,1293],[611,1293],[653,1293],[944,1293]],
+ "cl":[[0,1294]]
+}
+);

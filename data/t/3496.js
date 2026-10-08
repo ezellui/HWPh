@@ -1,0 +1,37 @@
+HWPH.put("t/3496",
+{
+ "b":"I. – «Vorprädikative Evidenz» ist für E. HUSSERL in ihrer einfachsten und originären Form unmittelbare Anschauung (Selbstgebung) individueller sinnlicher Gegenstände als passiv affizierender Vorgegebenheiten, die vor dem Einsetzen jeder aktiv erfassenden Erkenntnistätigkeit zunächst in schlichter Glaubensgewißheit als vermeintlich seiend und so seiend gelten (Erfahrung im ersten und prägnanten Sinn) . Alle Modalisierungen dieser Gewißheit und auch ihre phantasiemäßige «Als-ob-modifikation» gehören mit in den Bereich des Vorprädikativen hinein . Das passiv Affizierende ist nie ein isoliert für sich stehendes Einzelnes, sondern es hebt sich aus einer Umgebung ab, die als eine Sphäre «passiver Vorgegebenheit» immer mitgegeben ist . Diese horizonthaft mitgegebene Sphäre ist ihrerseits wieder ein «Stück» in und aus der Welt; aller aus theoretischem Interesse erfolgenden Erkenntniszuwendung zu einem Gegenstand ist letztlich «als universaler Boden eine jeweilige Welt» in vorprädikativer Weise vorgegeben, «und das besagt zunächst ein Boden universalen passiven Seinsglaubens» . \nDiese lebensweltliche Sphäre des Vorprädikativen fungiert bei Husserl als wesensnotwendiges Sinnesfundament der Logik . Darum ist für eine genetische Ursprungserhellung der Idealisierungen, z.B. mathematischer und physikalischer Art , ein Rückgang auf die vorprädikativen Evidenzen der Lebenswelt und eine «Theorie der vorprädikativen Erfahrung» erforderlich . In einem modifizierten Sinn gilt dieses Fundierungsverhältnis auch für den Zusammenhang zwischen dem vorprädikativen Bereich und allen nicht-theoretischen Sphären . \nII. – M. HEIDEGGER greift den Gedanken Husserls in kritischer Transformation auf: Fundament logischer Prädikation sei nicht das bloß verweilende Betrachten von, sondern der «gebrauchend-hantierende Umgang» mit etwas . Die handlungsleitende «besorgende Umsicht» habe das Besorgte immer schon (vor-)verstanden und ausgelegt . Die «Aussage als abkünftiger Modus» vollziehe lediglich eine «Nivellierung des ursprünglichen ‘Alsʼ der umsichtigen Auslegung zum Als der Vorhandenheitsbestimmung» . Das vorgängige Verstehen vollzieht sich jedoch auch nach Heidegger vorprädikativ: «Alles vorprädikative schlichte Sehen des Zuhandenen ist an ihm selbst schon verstehend-auslegend» . \nHeideggers Satz: «Das Schema ‘etwas als etwasʼ ist schon in der Struktur des vorprädikativen Verstehens vorgezeichnet» läßt unterschiedliche Deutungen zu. Eine erste Gruppe von Interpreten versteht ‹Prädikation› im Sinne der Sprachlichkeit schlechthin und wirft Heidegger einen Rückfall in die «Vorsprachlichkeit» vor . «Unterschiede zwischen Aussagen wie ‘der Hammer ist schwerʼ oder ... ‘zu schwerʼ, ‘den anderen Hammerʼ, vermögen an der prädikativen Struktur ... grundsätzlich nichts zu ändern» . Eine zweite Gruppe versteht unter ‹Prädikation› den Aspekt der Bezeichnungsfunktion der Sprache, die von ihrer Urteilsfunktion zu unterscheiden sei . Nach dieser Lesart besteht der Vorrang der vorprädikativen Dimension bei Heidegger in einer Vorordnung des Fregeschen «Sinns» (der Bedeutungsintension) vor der «Bedeutung» (Bedeutungsextension oder Referenz) . Eine dritte Gruppe liest ‹Prädikation› als spezifisch wissenschaftslogischen Sprechakt: «Der Rückgang hinter die theoretische Aussage bedeutet nicht Rückgang hinter die Sprache, sondern existentiale Fundierung der theoretischen Sprache in einer vortheoretischen» . \nViele Wendungen Heideggers legen nahe, daß das Vorprädikative gerade die «Rede» selbst ist: «Die Artikulation des Verstandenen ... liegt vor der thematischen Aussage darüber» . «Diese ‘Sätzeʼ lassen sich nicht ... auf theoretische Aussagesätze zurückführen». «Rede ist die Artikulation der Verständlichkeit» . Auf diese Weise wird menschliches Sprachverhalten, auch das spezifisch wissenschaftliche, in einem lebensweltlich-praktischen Gesamtkontext verortet. Fruchtbar gemacht wird dieser Gedanke ethisch-praktisch wie auch im Sinne einer proto-physikalischen Fundierung der wissenschaftlichen Prädikation in der konstruktiven Wissenschaftstheorie der ‹Erlanger Schule› .",
+ "n":"E. HUSSERL: Erfahrung und Urteil. Unters. zur Genealogie der Logik, hg. L. LANDGREBE §§ 6f. 10 (1948, 31964) 21ff. 38ff.; vgl. Formale und transz. Logik. Versuch einer Kritik der log. Vernunft §§ 83ff. (1929) 181ff. Husserliana [Hua.] 17 (Den Haag 1974) 212ff. \n§ 7, a.O. 23. \na.O. 23f. \n24. 26; vgl. Die Krisis der europ. Wiss. und die transz. Phänomenologie § 37 (1936). Hua 6 (21962) 145f. \n§ 9, a.O. 36f. \n§ 10, a.O. 40ff. \n§§ 1. 6, a.O. 1f. 21. \n§ 12, a.O. 51ff. \nM. HEIDEGGER: Sein und Zeit § 15 (1927, 171993) 69. Ges.ausg. I/2 (1977) 93. \n§ 18, a.O. 88/118; vgl. § 7, a.O. 32–34/43–46; §§ 15–18, a.O. 66–88/90–119; §§ 32–34, a.O. 148–166/197–221; § 63, a.O. 310–316/411–419; § 68, a.O. 336–339/444–449; vgl. die Art. ‹Umsicht› und ‹Vorgriff; Vorhabe; Vorsicht›. \n§ 33, a.O. 153–160/204–213, hier: 158/210. \n§ 32, a.O. 149/198; vgl. auch: Logik. Die Frage nach der Wahrheit [WS 1925]. Ges.ausg. II/21 (21995) 143–161. \n§ 69, a.O. 359/476. \nH. DREYFUS: Holism and hermeneutics. Review Metaphysics 34 (1980) 3–23; J. MITTELSTRASS/K. LORENZ: Die Hintergehbarkeit der Sprache. Kantstud. 58 (1967) 187–209; G. PRAUSS: Erkennen und Handeln (21996). \nPRAUSS, a.O. 33. \nC.-F. GETHMANN: Dasein, Erkennen und Handeln (1993) 196. \nC. LAFONT: Sprache und Welterschließung (1994) 11; vgl. 241. \nK.-O. APEL: Die Idee der Sprache in der Trad. des Humanismus (1963) 55. \nHEIDEGGER: SuZ § 32, a.O. [1] 149/198. \n§§ 33f., a.O. 158/210. 161/214. \nTH. RENTSCH: Die Konstitution der Moralität (21999). \nGETHMANN, a.O. [8] 202; P. JANICH: Konstruktivismus und Naturerkenntnis (1996); vgl. Art. ‹Vorwissenschaftlich; vortheoretisch›.",
+ "l":"M. STASSEN: Heideggers Philos. der Sprache (1973). – A. GRAESER: Das hermeneut. ‘alsʼ. Z. philos. Forsch. 47 (1993) 559–572. – C. LAFONT s. Anm. [9]. – J. HABERMAS: Wahrheit und Rechtfertigung (1999) 82ff. – G. MÜLLER: Wahrnehmung, Urteil und Erkenntniswille. Unters. zu Husserls Phänomenologie der vorprädikativen Erfahrung (1999).",
+ "au":"P. Janssen Ch. Henning",
+ "A":["P. Janssen","Ch. Henning"],
+ "cb":[[0,1196],[1087,1196],[1612,1197],[1614,1197],[2288,1197],[3414,1197],[4086,1198]],
+ "cn":[
+  [0,1196],
+  [262,1196],
+  [277,1196],
+  [288,1196],
+  [394,1196],
+  [410,1196],
+  [428,1196],
+  [451,1196],
+  [467,1197],
+  [469,1197],
+  [547,1197],
+  [771,1197],
+  [815,1197],
+  [926,1197],
+  [947,1197],
+  [1151,1197],
+  [1169,1197],
+  [1227,1197],
+  [1289,1197],
+  [1362,1197],
+  [1402,1197],
+  [1433,1198],
+  [1435,1198],
+  [1489,1198]
+ ],
+ "cl":[[0,1198]]
+}
+);

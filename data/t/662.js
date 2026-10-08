@@ -1,0 +1,12 @@
+HWPH.put("t/662",
+{
+ "b":"Eigendünkel, seit LUTHER nachweisbarer Begriff , wird philosophisch von KANT als Übersetzung des lateinischen arrogantia verwendet und erörtert. Diese wird von CICERO als «odiosa» verurteilt . Dem stimmt AUGUSTINUS unter Berufung auf Proverbia 27, 2 («Dein Mund soll dich nicht loben, sondern es lobe dich der Mund deines Nächsten») zu . THOMAS VON AQUIN bestimmt die arrogantia als eine species der superbia; sie bildet deren innere Seite, durch die jemand «interius supra se ipsum elevatur» (sich innerlich über sich selbst erhebt) . \nDa im Vulgata-Text des Neuen Testaments ‹superbia› für das griechische ἀλαζονεία steht (1. Joh. 2, 16; Jak. 4, 16), ergibt sich ein Zusammenhang auch zu diesem Begriff hin, der in den pseudo-platonischen Definitionen als ἕξις προσποιητικὴ ἀγαθῶν μὴ ὑπαρχóντων (Hang, nicht vorhandene Verdienste zu beanspruchen) bestimmt und von ARISTOTELES ähnlich gefaßt wird . Indes wird ἀλαζονεία meist als ausdrückliche Inanspruchnahme konkret anzutreffender eigener Leistungen (Prahlerei) verstanden, während E. als mehr allgemeines Überzeugtsein von solchen nur mittelbar Ausdruck findet. \nKANT beschreibt den E. als «eine unbillige Anmaßung, die man auf das Verdienst macht» und definiert: «Die Unbescheidenheit der Forderung ... von andern geachtet zu werden, ist der E. (arrogantia)» . \nGenauere Bestimmungen hat neuerdings LERSCH gegeben. Er faßt den «Dünkel» (Hoffart, Hochmut) als eine Art des Selbstgefühls, genauer des Geltungsbewußtseins bzw. des Geltungsanspruchs, mit dem Charakter der Unechtheit: eine «kompensatorische Verkleidung eines immer in Bereitschaft stehenden Minderwertigkeitsgefühls». Solcher Dünkel klammert sich an die äußere Gebärde und steht unter dem «Zwang, sich mit andern zu vergleichen»; durch die betonte Geste der Nichtachtung der andern «kümmert er sich [aber] immer schon viel mehr um den andern, als er eben durch diese Geste zum Ausdruck bringen möchte» .",
+ "n":"J. u. W. GRIMM, Dtsch. Wb. 3 (1862) Art. ‹E.›. \nOratio in Q. Caecilium § 36. \nIn Joannis Evang., Tract. 63, 3. \nS. theol. II/II, q. 112 a 1 ad 2. \nEth. Nie. 1125 a 17ff. 1127 a 13ff.; vgl. THEOPHRAST, Charakteres 3 (8). \nP. MENZER (Hg.): Eine Vorlesung Kants über Ethik (1924) 168. \nMet. Sitten, Tugendlehre § 37. \nPH. LERSCH: Aufbau der Person (101966) 330–332.",
+ "l":"PH. LERSCH s. Anm. [8].",
+ "au":"H. Reiner",
+ "A":["H. Reiner"],
+ "cb":[[0,332],[537,332],[1117,332],[1317,332]],
+ "cn":[[0,332],[48,332],[78,332],[112,332],[147,332],[221,332],[283,332],[315,332]],
+ "cl":[[0,332]]
+}
+);

@@ -1,0 +1,27 @@
+HWPH.put("a/610",
+{
+ "id":610,
+ "lemma":"Disjunktor",
+ "band":"2",
+ "kind":"article",
+ "col_from":261,
+ "col_to":261,
+ "pdf_from":4438,
+ "pdf_to":4438,
+ "authors":["Red"],
+ "n_notes":0,
+ "n_chars":229,
+ "toc":[],
+ "html":"<p>Disjunktor heißen Zeichen für die strenge logische <a class=\"xref\" href=\"#/a/609\">Disjunktion</a> <span class=\"sd\">→ (s.d.)</span> zweier Aussagen <i>p</i> und <i>q</i> (z.B. v). Entsprechend der älteren Verwendung von ‹Disjunktion› für <a class=\"xref\" href=\"#/a/48\">‹Adjunktion›</a> <span class=\"sd\">→ (s.d.)</span> wird ‹D.› häufig auch statt ‹Adjunktor› gesagt.</p>",
+ "prev":{"id":609,"lemma":"Disjunktion","band":"2","col":261},
+ "next":{"id":611,"lemma":"Diskriminationslernen","band":"2","col":261},
+ "backlinks":[],
+ "outlinks":[{"id":48,"lemma":"Adjunktion","n":1},{"id":609,"lemma":"Disjunktion","n":1}],
+ "register":[{"term":"oder (log.)","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":49,"lemma":"Adjunktor"}],
+ "groups":[{"id":22,"name":"Logik","label":"Disjunktor"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

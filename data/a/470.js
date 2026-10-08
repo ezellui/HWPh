@@ -1,0 +1,27 @@
+HWPH.put("a/470",
+{
+ "id":470,
+ "lemma":"Causa exemplaris",
+ "band":"1",
+ "kind":"article",
+ "col_from":974,
+ "col_to":974,
+ "pdf_from":3373,
+ "pdf_to":3373,
+ "authors":["R. Specht"],
+ "n_notes":0,
+ "n_chars":518,
+ "toc":[],
+ "html":"<p>Causa exemplaris (exemplar), synonym mit <i>idea</i>, bezeichnet das gedachte Muster, nach welchem eine vernünftige Wirkursache etwas herstellt, und gewöhnlich, bezogen auf Gott, die Gedanken im schöpferischen Intellekt. Der Begriff wird in der Scholastik als platonisches Erbe verstanden, aber aristotelisch auf die C. <i>formalis</i> hin interpretiert: das geistige Urbild eines Dinges ist speziell das Urbild seiner Form und dadurch gleichsam diese selbst als außerhalb des Dinges in Gott befindliche: «causa formalis extra rem».</p>",
+ "prev":{"id":469,"lemma":"Causa essendi et fiendi","band":"1","col":973},
+ "next":{"id":471,"lemma":"Causa finalis","band":"1","col":974},
+ "backlinks":[{"id":2269,"lemma":"Paradigma, exemplar","n":1}],
+ "outlinks":[],
+ "register":[{"term":"– I (met.) 1 913–915 s. auch","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[{"id":3339,"lemma":"Urbild","tf":2}],
+ "see_also":[{"id":431,"lemma":"Bild"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Causa exemplaris"}],
+ "reg_authors":[{"name":"Specht Rainer","n":32}]
+}
+);

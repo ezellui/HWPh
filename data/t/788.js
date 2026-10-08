@@ -1,0 +1,36 @@
+HWPH.put("t/788",
+{
+ "b":"Erfahrung, innere. Als deutscher Terminus begegnet ‹innere E.› wohl zuerst bei V. WEIGEL , die Sache aber schon bei ALBERTUS MAGNUS und ROGER BACON. Auch in PASCALS Unterscheidung von ‹esprit de finesse› und ‹esprit de géométrie› zeigt sich eine Differenzierung des Erfahrungsbegriffs im Sinne der Unterscheidung von äußerer und innerer E. DESCARTES spricht von «intuition» und «réflexion de l'entendement sur lui-même». Während äußere E. täuschen kann, liefert die innere un-bezweifelbare Gewißheit. Auch LOCKES «reflection» ist eine Art i.E. Unter dem Einfluß des biblischen E.-Begriffs behandelt SANDAEUS den mystischen Begriff der «experientia». Der durch das Luthertum beeinflußte Pietismus nimmt den Begriff der inneren E. auf, so G. ARNOLD , CH. E. RICHTER , J. J. MOSER , G. TERSTEEGEN und S. K. v. KLETTENBERG, die ihn im Zusammenhang mit dem Begriff der «schönen Seele» an GOETHE und die Romantiker weitergibt . \nFür A. G. BAUMGARTEN gehört das ‹innere Empfinden› in den innersten Bereich des Bewußtseins (sensu interno intimaque conscientia) . Systematische, erkenntnistheoretische Funktion erhält die innere E. bei KANT. Die Zeit ist die Anschauungsform der inneren E., und wir erkennen uns durch innere E. immer nur, wie wir uns in der Zeit erscheinen, nicht als Ding an sich. Die innere E. hat also keinen Vorrang vor der äußeren, ist vielmehr von dieser abhängig . Schon J. H. LAMBERT wollte vorher alle apriorischen Begriffe auf «unmittelbare innere Empfindung der Seele» gründen und versteht diese als «Zurückdenken auf seine eigenen Gedanken» . F. v. BAADER behauptet unter dem Einfluß Kants und der mystischen Tradition die Eigenständigkeit innerer E.: «Das innere Leben, das wirkende Principium in dieser Bewegung können Sie nicht sehen, aber wohl mit Ihrem Geiste wahrnehmen» . Die Philosophie des deutschen Idealismus lehnt ein «Zeitalter des bloßen nackten E.-Begriffs» (FICHTE) ab und bezeichnet die «Vorstellung, daß das Wissen ganz von außen komme», als Vorstellung «ganz abstrakter, roher E.-Philosophen» (HEGEL) . Auch für SCHOPENHAUER «ist die Erkenntnißquelle der Metaphysik nicht die äußere E. allein, sondern eben so wohl die innere; ja, ihr Eigenthümlichstes, wodurch ihr der entscheidende Schritt, der die große Frage allein lösen kann, möglich wird, besteht ... darin, daß sie, an der rechten Stelle, die äußere E. mit der innern in Verbindung setzt und diese zum Schlüssel jener macht» . \nFür den jungen NIETZSCHE ist ‹innere E.› ein Privileg des «großen Menschen»: «... jeder hat nur dann ein Recht, seine inneren E. auszusprechen, wenn er auch seine Sprache dafür zu finden weiß» . Später polemisiert Nietzsche gegen den Begriff der inneren E. als einer Fiktion: «... der wirkliche Vorgang der inneren ‹Wahrnehmung› ... ist uns absolut verborgen – und vielleicht eine reine Einbildung» . «Die ganze ‹innere E.› beruht darauf, daß zu einer Erregung der Nerven-Centren eine Ursache gesucht und vorgestellt wird – und ... diese Ursache ist schlechterdings nicht adäquat der wirklichen Ursache ...» . Sie ist wie alle «Causal-Fiktionen» bloße Auslegung und tritt uns ins Bewußtsein «erst nachdem sie eine Sprache gefunden hat, die das Individuum versteht ...» . \nF. BRENTANO spricht von innerer Wahrnehmung. Diese zeichnet sich durch untrügliche Evidenz aus. In ihr erfahren wir die psychischen, in der äußeren die physischen Phänomene . Für W. WUNDT gehen äußere und innere E. nicht auf verschiedene Gegenstände, sondern bezeichnen verschiedene Gesichtspunkte der Bearbeitung der an sich einheitlichen Erfahrung. Der Naturwissenschaft entspricht die äußere-mittelbare, der Psychologie die innere-unmittelbare E. . Bei TH. LIPPS wird Selbstbeobachtung zum «inneren Experiment» neben dem zählenden und messenden äußeren . E. HUSSERL kritisiert die bisherigen Unterscheidungen von innerer und äußerer E. bzw. Wahrnehmung. Sie seien «von ganz gleichem erkenntnistheoretischen Charakter» . An ihre Stelle setzt er die von adäquater und inadäquater Wahrnehmung.",
+ "n":"V. WEIGEL: Erkenne dich selbst (1615). \nz.B. 2. Moses 6, 7. \nG. ARNOLD, Werke, hg. E. SEEBERG (1934). \nCH. E. RICHTER: Erbauliche Betrachtungen vom Ursprung und Adel der Seelen (21767). \nJ. J. MOSER: Lebensgesch. J. J. Mosers ... von ihm selbst beschrieben 1–3 (31777). \nG. TERSTEEGEN: Geistliche und erbauliche Briefe über das Inwendige Leben und Wahre Wesen des Christentums 1–4 (1773–1775). \nS. K. v. KLETTENBERG: Die schöne Seele. Bekenntnisse. Schriften u. Briefe, hg. H. FUNCK (21912); zum Begriff ‹innere E.› im Pietismus vgl. A. LANGEN: Der Wortschatz im dtsch. Pietismus (1954) 248. \nA. G. BAUMGARTEN: Aesthetica (1750, Nachdruck 1961) § 30. \nKANT, Akad.-A. 3, 191. \nJ. H. LAMBERT: Über die Methode, die Met., Theol. und Moral richtiger zu beweisen (1762) § 21, 36. \nF. v. BAADER, Werke 11, 14. \nJ. G. FICHTE, Werke, hg. MEDICUS 4, 506. \nG. W. F. HEGEL, Werke, hg. GLOCKNER 18, 215f. \nA. SCHOPENHAUER, Werke, hg. HÜBSCHER 3, 201. \nF. NIETZSCHE, Groß-Oktav-A. 10, 318. \na.a.O. 16, 6. \n16, 9. \n16, 10. \nF. BRENTANO: Psychol. vom empirischen Standpunkte aus (1874) 118ff. \nW. WUNDT: Grundriß der Psychol. (61904) 3. \nTH. LIPPS: Leitfaden der Psychol. (21906) 43. \nE. HUSSERL: Log. Untersuch. 2/2 (41968) 222ff.",
+ "l":"A. PHALÉN: Beiträge zur Klärung des Begriffs der inneren E. (Uppsala 1913). – A. LANGEN s. Anm. [7].",
+ "au":"G. Knauss",
+ "A":["G. Knauss"],
+ "cb":[[0,619],[923,619],[1219,620],[2425,620],[3197,620]],
+ "cn":[
+  [0,619],
+  [0,620],
+  [40,620],
+  [61,620],
+  [103,620],
+  [187,620],
+  [271,620],
+  [395,620],
+  [593,620],
+  [652,620],
+  [676,620],
+  [776,620],
+  [805,620],
+  [847,620],
+  [894,620],
+  [940,620],
+  [978,620],
+  [993,620],
+  [1001,620],
+  [1010,620],
+  [1079,620],
+  [1123,620],
+  [1170,620]
+ ],
+ "cl":[[0,620]]
+}
+);

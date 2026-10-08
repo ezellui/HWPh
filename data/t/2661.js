@@ -1,0 +1,35 @@
+HWPH.put("t/2661",
+{
+ "b":"Reinkarnation (nlat. reincarnatio Wiedereinkörperung, Wiederverkörperung; frz. réincarnation). Der Begriff ist wahrscheinlich im Umkreis der französischen Theosophie erst in der Mitte des 19. Jh. entstanden und setzte sich bereits gegen Ende des Jahrhunderts international als Sammelbegriff für ‹Ensomatose›, ‹Metempsychose›, ‹Palingenesie›, ‹transmigratio/revolutio animae›, ‹Seelenwanderung›, ‹régéneration›, ‹réintégration›, ‹Wiedergeburt› durch. \n1. A. KARDEC, in dessen Schriften der Begriff wohl zuerst ausführlich verwendet wird, versteht in Anlehnung an mystische Lehren des alten Ägypten und des antiken Pythagoreismus unter ‹R.›: «retour de l'Esprit à la vie corporelle» . Im Gegensatz zu antiken Vorstellungen wird eine R. menschlicher Seelen in Tiergestalt ausdrücklich ausgeschlossen . Das zeitliche Eintreffen der R. ist der menschlichen Einsicht entzogen, die Erinnerung an frühere Erdenleben wird mit zunehmender Anzahl von R.en immer klarer. Zweck der R. ist die irdische Bußübung für unreine Seelen im Sinne einer kosmologischen Gerechtigkeit: «le but de la réincarnation est ... expiation, amélioration progressive de l'humanité; sans cela où serait la justice? ... A chaque existence nouvelle, l'Esprit fait un pas dans la voie du progrès» . Die Folge der Wiedergeburten währt so lange, bis der Einfluß des Stofflichen überwunden und ein Zustand der «Perfektion und höchsten Glückseligkeit» erreicht ist . \n2. Die Theosophinnen A. BESANT und H. P. BLAVATSKI reicherten die R.-Lehre mit buddhistischen und hinduistischen Elementen an. BESANT bestimmt R. als ein «lebendiges und individuelles Prinzip» der Seele, die an einer ätherischen «Ursubstanz» teilhat, deren kosmologisches «Karma» zu unzähligen R.en in sieben unterschiedlichen mikro- und makrokosmischen Sphären treibt . Obwohl dieser «Geist-Stoff» das reinkarnierte Leben vollständig determiniert , besteht das Ziel der R. darin, «den tierischen Menschen aufwärts zu führen und zu veredeln, bis er befähigt ist, Eins zu werden mit dem Göttlichen» und in das Nirwana einzugehen. Dieser «Aufstieg» wird durch klare Erinnerungen an frühere Leben erleichtert. – BLAVATSKI betont bei weitgehender Übereinstimmung mit den Ansichten Besants die Bußfunktion der R.: «Present life is what it justly should be, to atone for the sins of the past life», und betrachtet daher Karma als das oberste Gerechtigkeitsprinzip des Universums , dem das christliche Erlösungsprinzip untergeordnet bleibt . \n3. In der anthroposophischen R.-Lehre R. STEINERS verschmelzen abendländisch-christliche Momente mit dem östlichen Karma-Gedanken zu einer Theorie zyklischer Wiedergeburten. Anleihen bei der zeitgenössischen Vererbungslehre (Darwin) und dem Monismus (Haeckel) dienen zum Beweis des Fortschrittscharakters der R.en . Das Abendland hat mit dem Christus-Gedanken eine autochthone R.-Lehre entwickelt : Durch die Inkarnation Gottes in Jesus hat die Menschheit einen «Lebensfond» erhalten, der zum Erhalt der Gattung erforderlich ist . Im Gleichnis der Blindenheilung wird der Karmagedanke des Christentums direkt ausgesprochen . Der Verlauf des reinkarnierten Lebens (beim Menschen alle 1100 Jahre alternierend als Mann und Frau ) wird durch das «Gesetz des Karma» determiniert: «Alles, was ich in meinem gegenwärtigen Leben kann und tue, ... hängt als Wirkung mit den früheren Daseinsformen meiner Seele zusammen, und als Ursache mit den späteren» . Die Folge der R.en vor allem «historisch führender Persönlichkeiten» wird allerdings oft durch das Eingreifen «höherer Wesenheiten» kompliziert, läßt sich jedoch am Leben der betreffenden Menschen nachprüfen (z.B. Elias – Johannes der Täufer – Raffael ). In der Anthroposophie wurden die verstreuten Hinweise Steiners zu einer systematischen R.-Lehre ausgebaut .",
+ "n":"A. KARDEC: Le livre des Esprits (Paris 21860) 96ff.; gelegentliche Erwähnung des Wortes schon (allerdings in bezug auf die jüdisch-christliche Auferstehungslehre) bei E. H. SEARS: Athanasia, or foregleams of immortality (Boston 1857) 272ff. \nInstruction prat. sur les Manifestations spirites (Paris 1858) 40. \na. O. \na.O. [1] 74f. \na. O. \nA. BESANT: Die R.- oder Wiederverkörperungslehre. Aut. dtsch. Ausg. (1920) 51. \na.O. 85ff. \n89. \n103. \n111. \nH. P. BLAVATSKI: The key to theosophy (London 31920) 128ff. \na.O. 134f. \nR. STEINER: R. und Karma (1903), ND in: Lucifer-Gnosis 1903–08. Aufs. zur Anthroposophie und Ber. aus der Z. ‹Lucifer› und ‹Lucifer-Gnosis›. Ges.ausg. 34 (1960) bes. 68–86. \nDas Markus-Evang. (1912) 1. Vortrag, 8. \nDas Joh.-Evang. im Verhältnis zu den drei anderen Evangelien – bes. zu dem Lukas-Evang. (1909) 12. Vortrag, 11. \na.O. 14. Vortrag, 14. \nVor dem Tore der Theosophie (1906) 20. \na.O. [13] 87; vgl. auch: Wie Karma wirkt, a.O. 92–107. \nOkkulte Gesch. (1910/11) 3. Vortrag, 1. \nDer irdische und der kosmische Mensch (1911/12) 8. Vortrag, 9. \nVgl. F. RITTELMEYER: Wiederverkörperung (1931); E. BOCK: Wieder holte Erdenleben (1932); R. FRIELING: Christentum und Wiederverkörperung (1974); R. BUBNER: Evolution, R., Christentum (1975) bes. 77ff.",
+ "l":"",
+ "au":"M. Kross",
+ "A":["M. Kross"],
+ "cb":[[0,553],[451,553],[1315,554],[1427,554],[2463,554]],
+ "cn":[
+  [0,553],
+  [0,554],
+  [242,554],
+  [310,554],
+  [317,554],
+  [332,554],
+  [339,554],
+  [419,554],
+  [431,554],
+  [436,554],
+  [442,554],
+  [448,554],
+  [509,554],
+  [521,554],
+  [695,554],
+  [736,554],
+  [849,554],
+  [872,554],
+  [912,554],
+  [968,554],
+  [1009,554],
+  [1073,554]
+ ],
+ "cl":[]
+}
+);

@@ -1,0 +1,12 @@
+HWPH.put("t/2989",
+{
+ "b":"Sprache, phänomenale. Den Ausdruck ‹ph.S.› (engl. ‹phenomenalistic language›; daher später dtsch. auch ‹phänomenalistische S.›) verwendet R. CARNAP im Rahmen der Auseinandersetzung im ‹Wiener Kreis› um eine angemessene S. des Physikalismus (s.d.) als Terminus für diejenige Art von Protokollsprache (s.d.), die sich im Unterschied zu einer «Dingsprache» (oder «reistischen S.») in ihren Protokollsätzen (s.d.) auf Einzelempfindungen oder Erlebnisse bezieht. Carnap spricht daher auch von «Erlebnissprache» . Ein Beispiel für einen Protokollsatz in der ph.S. wäre etwa: «Jetzt ein rotes Dreieck in meinem Gesichtsfeld.» Carnap befürwortet ein Verständnis, nach dem die Empfindungen nicht als unmittelbar gegeben auftreten, sondern erst das «Ergebnis einer abstraktiven Zerlegung» sind. Der Versuch, als Protokollsprache eine ph.S. zu verwenden, impliziert also nicht einen Phänomenalismus (s.d.) im Sinne einer atomistischen Theorie der Sinnesdaten (s.d.), wie sie etwa E. MACH vertreten hat . Der Phänomenalismus (als ontologische Lehre) wird von CARNAP vielmehr, wie die Lehren des Materialismus, Realismus usw., als sinnlos eingestuft . Ihm ging es lediglich um die Möglichkeit der Wahl einer ph.S. im Rahmen einer logischen Konstitution der Welt . \nGleichwohl machte O. NEURATH gegen einen solchen methodischen Solipsismus (s.d.) geltend, daß eine Auszeichnung des Eigenpsychischen die Gefahr einer metaphysischen Theorie von unmittelbaren, einer empirischen Bewährung nicht bedürftigen «letzten Elementen» mit sich führe . Eine gewisse Berechtigung dieses Einwandes wird von CARNAP dadurch bestätigt, daß er rückblickend als Motiv für seine Wahl einer ph.S. angibt, er habe das Wissen von Sinnesdaten für gewisser gehalten als das Wissen von Dingen .",
+ "n":"R. CARNAP: Die physikalische S. als Universalsprache der Wiss. Erkenntnis 2 (1931) 438f. \nEntgegen der Darst. von W. STEGMÜLLER: Theorie und Erfahrung, in: Probleme und Resultate der Wiss.theorie und analyt. Philos. 2 (1970) 191. \nR. CARNAP: Intellectual autobiography, in: P. A. SCHILPP (Hg.): The philos. of R. Carnap (LaSalle, Ill. 1963) 50; vgl. Art. ‹Scheinprobleme›. \nSo in: R. CARNAP: Der log. Aufbau der Welt (1928). \na.O. §§ 64ff.; vgl. a.O. [1] 461. \nO. NEURATH: Protokollsätze. Erkenntnis 3 (1932) 204–214. \nCARNAP, a.O. [3] 50f.",
+ "l":"",
+ "au":"G. Gabriel",
+ "A":["G. Gabriel"],
+ "cb":[[0,1506],[1252,1506]],
+ "cn":[[0,1506],[90,1506],[231,1506],[374,1506],[426,1506],[461,1506],[519,1506]],
+ "cl":[]
+}
+);

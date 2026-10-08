@@ -1,0 +1,12 @@
+HWPH.put("t/2175",
+{
+ "b":"Numinose, das. R. OTTO hat mit seinem Buche über ‹Das Heilige› den von lateinisch ‹numen› abgeleiteten Terminus in die Religionswissenschaft eingeführt. Schon vor ihm hatte N. SÖDERBLOM den Begriff des «Heiligen» als ein gegenüber dem Gottesglauben bedeutungsvolleres und zentrales Kriterium für die Existenz von Religion herauszustellen versucht . OTTO faßte das N. als «das Heilige minus seines sittlichen Momentes» und beschrieb es als ein unableitbares Element im Seelenleben, als ein emotionales Apriori, dessen Erfahrung im Kreaturgefühl des erlebenden Menschen gekennzeichnet sei durch die zum Teil in Kontrastharmonie zueinander stehenden Momente des Schauervollen (tremendum), des Übermächtigen (majestas) und Erhabenen (augustum), des Anziehenden, Bestrickenden (fascinans) wie des Unheimlichen und «Ganz Anderen» (s.d.) . – Die Kritik dieser Anschauungen betraf vor allem die psychologistische Umformung des transzendenten Apriori und die Ausklammerung ethischer Qualifikationen . Heute wird der Begriff ‹numinos› häufig – unter Einschluß des sittlichen Willens – zur Kennzeichnung der vornehmsten Qualität der Gottheit verwendet.",
+ "n":"N. SÖDERBLOM: Art. ‹Holiness›, in: Encycl. of relig. and ethics 6 (Edinburgh 1913) 731–741. \nR. OTTO: Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen (1917, 61921) 6, 13ff.; vgl. Das Gefühl des Überweltlichen (Sensus Numinis) (1932); Aufsätze, das Numinose betreffend (1923). \nVgl. A. NYGREN: Die Gültigkeit der relig. Erfahrung (1922) 37–41; G. WIDENGREN: Religionens värld. Religionsfenomenologiska studier och översikter (Stockholm 21953) 37–53; dtsch. Relig.phänomenol. (1969) 36ff.; W. SCHMIDT: Menschheitswege zum Gotterkennen (1923); F. K. FEIGEL: «Das Heilige» (Haarlem 1929, 21948); W. BAETKE: Das Heilige im Germanischen (1942) 1–46.",
+ "l":"Rudolf Otto-Gedächtnisfeier der Theol. Fakultät der Philipps-Universität (1938). – R. F. DAVIDSON: Rudolf Ottos Interpret. of relig. (Princeton 1947). – G. LANCZKOWSKI: Art. ‹Heilig I: Heilig und profan, relig.gesch.›, in: RGG3 3 (1959) 146–148. – A. PAUS: Relig. Erkenntnisgrund. Herkunft und Wesen der Aprioritheorie R. Ottos (Leiden (1966)). – C. COLPE (Hg.): Die Diskussion um das ‘Heiligeʼ (1977). – G. LANCZKOWSKI: R. Otto. Das Heilige als religiöse Kategorie, in: Christl. Religiosität im 20. Jh. (1980) 48–55.",
+ "au":"G. Lanczkowski",
+ "A":["G. Lanczkowski"],
+ "cb":[[0,988],[153,989]],
+ "cn":[[0,988],[93,988],[325,988]],
+ "cl":[[0,989]]
+}
+);

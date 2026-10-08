@@ -1,0 +1,12 @@
+HWPH.put("t/1394",
+{
+ "b":"Immoralismus. Mit der häufigen Selbstkennzeichnung: «Wir Immoralisten ...» spricht FR. NIETZSCHE Resultat und Absicht seiner philosophischen Reflexion aus. I. ist ihm nicht die einfache Opposition zur Moral, sondern ihre Überwindung und Vernichtung in der kommenden außermoralischen Periode. I. ist daher identisch mit dem Zentrum aller Wirklichkeit und allen wahren Denkens der Wirklichkeit: dem «Willen zur Macht». Der Weg zu seiner Freilegung führt über eine psychologische Entlarvung der Moral als der historischen jüdisch-christlichen Lebenslüge schlechthin, indem sie als die «Existenzbedingung» der Schwachen, Schlechtweggekommenen, Erschöpften, Enterbten, Mediokren, der décadents jeder Herkunft gesehen wird. Diese Antimacht des Willens zur Macht hat die einzige Wahrheit, nämlich die «Unschuld des Werdens durchseucht» , indem sie durch Internalisierung dem schöpferischen jasagenden Leben eine «Hinterwelt» vorsetzt, die Gespensterbegriffe des Ich, des Gewissens, des Guten und Bösen erfand, um «schuldigfinden und strafen» zu können und die Welt zu diffamieren. Mit dem «Du sollst» begann die «grundsätzliche Falschmünzerei» und Verdächtigung des Lebens. Den lebensverneinenden Grundzug in Buddhismus, Judentum, Christentum, im Liberalismus, Sozialismus, in der Demokratie, im Pessimismus und schließlich im Nihilismus sieht Nietzsche auch in der «Logik und Logisierung der Welt» durch die modernen Wissenschaften und den Typ des Gelehrten am Werke. Moral ist ihr Inbegriff und zugleich der Versuch, zur Herrschaft zu kommen. In der «Logik meiner Konzeption» ist sie daher ein Spezialfall des «Willens zur Macht», seine depravierte Form; und Aufgabe des Philosophen ist deshalb der I., d.h. die Sinnlüge der Moral zu entschleiern. Der Philosoph ist im Besitz der eigentlichen Wahrheit, und das Ergebnis seiner Arbeit ist «die bisher höchsterreichte Form der intellektuellen Rechtschaffenheit, welche die Moral als Illusion behandeln darf» .",
+ "n":"FR. NIETZSCHE, Werke, hg. K. SCHLECHTA (21960) vgl. 1, 4; 2, 948. 977. 1153. 1156; 3, 592. 601. 1308. \na.a.O. 2, 977. \nebda. \n3, 557. \n1, 13. \n3, 597. \n3, 1308.",
+ "l":"H. HEIMSOETH: Met. Voraussetzungen und Antriebe in Nietzsches ‹I.› (1955). – I. HEIDEMANN: Nietzsches Kritik der Moral, in: Nietzsche-Stud. Int. Jb. Nietzsche-Forsch. 1 (1972) 95ff.",
+ "au":"P. Reisinger",
+ "A":["P. Reisinger"],
+ "cb":[[0,241],[52,242]],
+ "cn":[[0,241],[103,241],[119,241],[126,241],[135,241],[143,241],[152,241]],
+ "cl":[[0,242]]
+}
+);

@@ -1,0 +1,27 @@
+HWPH.put("a/800",
+{
+ "id":800,
+ "lemma":"Erkennungsschwelle",
+ "band":"2",
+ "kind":"article",
+ "col_from":690,
+ "col_to":690,
+ "pdf_from":5838,
+ "pdf_to":5838,
+ "authors":["O. Neumann"],
+ "n_notes":0,
+ "n_chars":174,
+ "toc":[],
+ "html":"<p>Erkennungsschwelle. Als E. bezeichnet man in der <i>Psychologie</i> die zeitliche (tachistoskopische) oder Intensitätsschwelle für die Identifikation vorwiegend verbaler Reizmuster.</p>",
+ "prev":{"id":799,"lemma":"Erkenntnistheorie, Erkenntnislehre, Erkenntniskritik","band":"2","col":683},
+ "next":{"id":801,"lemma":"Erklären, Erklärung","band":"2","col":690},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":36,"name":"Psychologie","label":"Erkennungsschwelle"}],
+ "reg_authors":[{"name":"Neumann Karl","n":9}]
+}
+);

@@ -1,0 +1,48 @@
+HWPH.put("t/2280",
+{
+ "b":"I. – Der Begriff ‹pars sanior› spielte seine Hauptrolle im kanonischen Recht des Mittelalters, wo er die materielle Kontrolle formell nach dem Mehrheitsprinzip getroffener Abstimmungs- und Wahlentscheidungen durch die jeweils übergeordnete kirchliche Instanz theoretisch fundierte. \nDie Formel «pars saniore consilio» findet sich zuerst im 64. Kapitel der Klosterregel BENEDIKTS VON NURSIA (ca. 480–547), im Abschnitt über die Einsetzung des Abtes . Der Abt wurde durch Wahl der Mönche bestimmt. Benedikt unterschied drei Fälle: im ersten, dem Normal- bzw. Idealfall, erfolgte die Wahl «einstimmig in der Furcht Gottes» («concors ... secundum timorem dei»); im zweiten fehlte es an der Einstimmigkeit der Wählenden, dann konnte die Wahl durch «eine noch so geringe Minderheit» («pars quamvis parva») entschieden werden – vorausgesetzt, diese Minderheit «wählte nach ‘gesünderemʼ Ratschluß» («saniore consilio elegerit»). Im dritten, dem Ausnahmefall, in dem eine verderbte Klostergemeinschaft zwar einstimmig, nicht aber «secundum timorem dei» einen Unwürdigen gewählt hat, verfügte Benedikt die Ungültigkeit der Wahl; hier sollte dem Kloster ein anderer auswärtiger und würdiger Abt bestellt werden. Die Frage, wer im zweiten Fall entscheiden soll, welcher Teil der Mönche «saniore consilio» gewählt hat, wird nicht aufgeworfen (wie ebenso offen bleibt, wer bei einmütiger Wahl feststellen soll, ob alle Mönche «secundum timorem dei» gewählt haben oder nicht). Auch werden keine Kriterien für die inhaltliche Bestimmung des «sanius consilium» genannt. Zu verstehen ist diese Regelung nur vor dem Hintergrundder Überzeugung Benedikts, daß nicht der Wille der Menschen, sondern Gottes Wille über die Abtsnachfolge entscheidet, und seiner Zuversicht, daß sich dieser Wille durchsetzen wird . \nDa die Benedikt-Regel sehr weit verbreitet wurde, erlangte die Formel «pars saniore consilio» weithin Anerkennung. 1080 ging sie durch Papst GREGOR VII. (1073–1085) in das Bischofswahlrecht der Kurie ein, wenig später in die Klosterprivilegien der Päpste . Seit dem 11. Jh. wurde bei strittigen Bischofswahlen oft eine «sanior pars» als ausschlaggebend angesehen. Dabei galt das Prinzip, daß entweder der größere oder der «gesündere» Teil («pars maior vel sanior») wahlentscheidend ist . \nIm 12713. Jh. entwickelten die Kanonisten eine ausgefaltetere Lehre der «sanioritas». Unter dem Einfluß der Rezeption des römischen Rechts übernahm das kanonische Recht die korporationstheoretische Begründung des Mehrheitsprinzips, wonach Mehrheitsbeschlüsse deshalb gelten, weil der Mehrheitswille qua Rechtsfiktion der Gesamtwille ist («quod maior pars facit, totum facere videtur»). Anders als das römische Recht suchten die Kanonisten jedoch nach einer Rechtfertigung dieser Fiktion. Sie fanden sie in der Überlegung, daß viele eher die Wahrheit treffen als wenige («quia per plures melius veritas inquiritur») . Mehrheit im Rechtssinne bedeutete ihnen daher nicht einfach die «pars numerosior», sondern die «pars maior et sanior» . Hierin liegt eine Umprägung des Mehrheitsbegriffs: ‘mehrʼ hat nicht länger nur den Sinn ‘mehr an Zahlʼ, sondern ‘mehr an Zahl und Gewichtʼ. Den Begriff der «sanioritas» ‘verrechtlichteʼ die Kanonistik insofern, als sie das rein zahlenmäßige Übergewicht zu seinem Kriterium machte, indem sie die Rechtsvermutung aufstellte, daß die «pars numerosior» zugleich die «pars sanior» sei . Bereits 1179 (3. Laterankonzil) zeigt das Wahldekret von Papst ALEXANDER III. (1159–1181), daß die Formel «pars maior et sanior» herrschende Lehre war . 1234 fand sie Aufnahme in die Dekretalen von Papst GREGOR IX. (1227–1241) . \nDie Sanioritätsvermutung auf Seiten der zahlenmäßigen Mehrheit war allerdings durch begründeten Widerspruch einer Minderheit, sogar eines einzelnen, widerlegbar . War die Widerlegung erfolgreich, konnte die «pars numerosior» nicht mehr als ausschlaggebender Teil gelten: «maioritas» und «sanioritas» fielen auseinander. In diesem Fall wurde es nötig, die «sanioritas» durch andere Kriterien als die zahlenmäßige Mehrheit zu bestimmen. Diese Kriterien erblickte die Kanonistik im Eifer (zelus) und Ansehen (auctoritas) der Wähler und den Verdiensten (merita) der Wähler wie Kandidaten . Wie sich aus den verschiedenen Elementen von «numerus» einerseits und «zelus», «auctoritas», «meritum» andererseits konkret das Übergewicht eines Teils über den anderen ergab, wie sich also «maior» zu «sanior» verhielt, blieb letztlich ungeklärt , denn die Qualität der Stimmen kann im Grunde nicht rechtlich eindeutig erfaßt werden. Die Entscheidung über die Saniorität oblag der jeweils übergeordneten kirchlichen Instanz . Die Einschränkung des Majoritätsprinzips stellt somit – im Fall des Auseinanderklaffens von Majorität und Saniorität – seine Beugung unter das hierarchische Autoritätsprinzip der Kirche dar . – Bei Wahlen galt der Grundsatz, daß bei einer 2/3-Mehrheit die Vermutung der «sanioritas» unwiderleglich sei; Widerspruch einer Minderheit war hier nicht möglich. Aus diesem Grund führte Papst ALEXANDER III. (1179) für die Papstwahl, die durch keinen «superior» entscheidbar ist, die 2/3-Mehrheit ein . Die Lehre der mittelalterlichen Kanonistik blieb bis zur Schaffung des neuen ‹Codex iuris canonici› (1917) in Geltung . \nIm weltlich-politischen Bereich fand die pars-sanior-Lehre vereinzelt Widerhall im deutschen Reichsrecht, so im ‹Wormser Konkordat› (1122) bei der Regelung strittiger Wahlen deutscher Reichsbischöfe , und beeinflußte im 13./14. Jh. auch deutsche Königswahlen, bis 1356 die ‹Goldene Bulle› die absolute Mehrheit der Kurstimmen anordnete . Einer allgemeinen Übertragung der Sanioritäts-Lehre in den außerkirchlichen Bereich stand jedoch das Fehlen einer mit autoritativer Entscheidungsbefugnis ausgestatteten Instanz, die zur Feststellung der Saniorität nötig war, entgegen. \nEinen Einfluß läßt auch die Formel «maior pars in honore» schweizerischer Offnungen vermuten . – Der Ausdruck «gewichtigerer Teil» (valentior pars) zur Beschreibung des die Gesamtheit der Bürger repräsentierenden Gesetzgebers im ‹Defensor pacis› des MARSILIUS VON PADUA (um 1275/80–1342/43), der nicht der zahlenmäßig größere Teil zu sein braucht, vielmehr der Teil «unter Berücksichtigung der Zahl und der Bedeutung der Personen» («considerata quantitate personarum et qualitate») ist, scheint ebenfalls von der Lehre über die «pars sanior» beeinflußt . \nII. – Die lange wohl wenig gebrauchte Formel ist geeignet, den Anspruch von Aufklärungseliten, die allgemeine Vernunft und den wahren Willen des Volkes gegen die Menge der Unmündigen zu repräsentieren, der gleichen Legitimationsfrage zu unterwerfen, welche diese Eliten ihrerseits gegen Mehrheitsmeinungen und -entscheidungen erheben. Wo philosophisch-politische Kritik praktisch werden möchte, wiederholt sie die ‘pars saniorʼ-Struktur und müßte besorgt sein, sich in Reflexionen zu legitimieren, die sie davor bewahrten, das Gegenteil der proklamierten Emanzipation sogleich wieder hervorzubringen. In diesem Sinne erinnerten 1968ff. Kritiker der spätmarxistischen Jugendbewegung und ihrer Mitläufer an die alte kirchenrechtliche Formel und benutzten sie als metakritische Figur. Doch scheint dies mündlich geblieben und nicht in die Literatur eingegangen zu sein.",
+ "n":"H. GRUNDMANN: Pars quamvis parva. Zur Abtwahl nach Benedikts Regel. Festschr. P. E. Schramm 1 (1964) 237–251, bes. 245. \nBENEDICTI Regula, hg. R. HANSLIK. CSEL 75 (Wien 1960) 163f. \nGRUNDMANN, a.O. [1] 243ff. \nF. ELSENER: Zur Gesch. des Majoritätsprinzips (Pars maior und Pars sanior), insbes. nach schweiz. Quellen. Z. Savigny-Stift. Rechtsgesch. 73 (1956) 73–116, bes. 107. \nGRUNDMANN, a.O. [1] 247f. \nO. VON GIERKE: Über die Gesch. des Majoritätsprinzipes. Schmollers Jb. Gesetzgeb., Verwalt. Volkswirtschaft im Dtsch. Reiche 39 (1915) 7–29, bes. 17. \nDas dtsch. Genossenschaftsrecht 3 (1881) 325f. \na.O. 327. \nELSENER, a.O. [4] 108. \nK. GANZER: Das Mehrheitsprinzip bei den kirchl. Wahlen des MA. Theol. Quartalschr. 147 (1967) 60–87, bes. 79f. \nELSENER, a.O. [4] 108. \nGIERKE, a.O. [7] 328. \nELSENER, a.O. [4] 109. \nGRUNDMANN, a.O. [1] 248. \nGIERKE, a.O. [6] 18. \na.O.; ELSENER, a.O. [4] 108. \nGRUNDMANN, a.O. [1] 248. \nELSENER, a.O. [4] 109f. \nGRUNDMANN, a.O. [1] 249. \nELSENER, a.O. [4] 113f. \nMARSILIUS VON PADUA: Defensor pacis I, 12, 3, hg. C. W. PREVITÉ-ORTON (Cambridge 1928) 49. \nW. JÄGER: Art. ‹Mehrheit, Minderheit, Majorität, Minorität›, in: Geschichtl. Grundbegr. 3 (1982) 1021–1062, bes. 1027; vgl. auch: W. HEUN: Das Mehrheitsprinzip in der Demokratie (1983) 57f.",
+ "l":"A. ESMEIN: L'unanimité et la majorité dans les Elect. Canon. Mèlanges Fitting 1 (1969) 357–382. – L. MOULIN: Sanior et maior pars. Note sur l'évol. des techniques élect. dans les Ordres relig. du VIe au XIIIe siècle. Rev. hist. Droit franç. étr. 36 (1958) 368–397. – E. RUFFINI: Il principio maggioritario nella storia del Diritto canonico. La ragione dei più (Bologna 1977) 23–82.",
+ "au":"S. Pieperhoff",
+ "A":["S. Pieperhoff"],
+ "cb":[
+  [0,131],
+  [283,131],
+  [1244,132],
+  [1791,132],
+  [2280,132],
+  [3629,132],
+  [3887,133],
+  [5258,133],
+  [5832,133],
+  [6388,133],
+  [6540,134]
+ ],
+ "cn":[
+  [0,131],
+  [0,133],
+  [121,133],
+  [182,133],
+  [210,133],
+  [377,133],
+  [404,133],
+  [555,133],
+  [603,133],
+  [614,133],
+  [638,133],
+  [750,133],
+  [774,133],
+  [797,133],
+  [821,133],
+  [847,133],
+  [869,133],
+  [899,133],
+  [925,133],
+  [950,133],
+  [976,133],
+  [1001,133],
+  [1093,133]
+ ],
+ "cl":[[0,133]]
+}
+);

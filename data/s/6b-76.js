@@ -1,0 +1,9 @@
+HWPH.put("s/6b-76",
+{
+ "kv":"1eg:0,3",
+ "kvacala":"1qs:0,0,1",
+ "kvale":"1xr:0,0,1",
+ "kvartalskrift":"1r2:0,0,0,1",
+ "kvist":"1z6:0,0,0,1"
+}
+);

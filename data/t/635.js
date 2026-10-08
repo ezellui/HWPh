@@ -1,0 +1,48 @@
+HWPH.put("t/635",
+{
+ "b":"Drang bezeichnet im alltäglichen Sprachgebrauch ein Antriebsgeschehen, welches die beiden Merkmale: ‹inneres, sehr intensives Spannungserleben› und ‹Erlebnisqualität des Dunklen, Dumpfen› aufweist. In dieser Bedeutung wird der Begriff ‹D.› auch von Philosophen des 19. und 20. Jh. verwendet. In der Psychologie erfährt ‹D.› differenziertere Definitionen in Abgrenzung gegen andere motivationspsychologische Termini wie ‹Streben›, ‹Begehren›, ‹Wille›, ‹Motiv›, ‹Trieb› usw. \n1. In der Philosophie findet sich der Begriff ‹D.› bei SCHOPENHAUER als Bestimmung der niedrigsten «Objektivation des Willens». In Form von Attraktions- und Repulsionskraft kommt schon der Materie ‹Wille› zu: Auf der untersten Stufe stellt sich dieser dar als «blinder D., als finsteres, dumpfes Treiben, fern von aller unmittelbaren Erkennbarkeit» . Später verwendet M. SCHELER den Begriff in ähnlicher Bedeutung. Auf der einfachsten Stufe des Lebens postuliert er das Wirken eines «Ur-D.», eines anfangs- und bewußtlosen, empfindungs- und vorstellungslosen Gefühls-D.; dieser agiert in Form eines «Hinzu» und «Hinweg». Das Ausgeliefertsein an den D. nimmt Scheler als Kriterium für die Trennung von Mensch und Tier: Das Tier ist stets dranggebunden, während der Mensch zu Verdrängungen befähigt, in diesem Sinne also frei ist . \n2. Der Begriff ‹D.› wird in der Motivations- und Persönlichkeitspsychologie einmal als erlebensdeskriptiver, zum anderen als verhaltensdeskriptiver Begriff verwendet. D. bedeutet hier stets eine bestimmte Form des individuellen motivationalen Geschehens. \nIn der Bewußtseinspsychologie des 19. Jh. bezeichnet ‹D.› das Erleben des inneren Getriebenseins, der inneren Spannung, die vom Ich ausgeht . Diese Bestimmung des D. vernachlässigt das später herangezogene Unterscheidungskriterium der Zielorientierung für verschiedene Formen des Antriebsgeschehens. So werden ‹D.› und ‹Streben› bei O. KÜLPE noch synonym gebraucht . Den Erlebensaspekt betont auch W. STERN, dessen Definition des Begriffes ‹D.› jedoch die Interpretation nahelegt, daß D. zwar erlebbar, der Ausgangspunkt des «inneren Drängens» aber im Unbewußten zu suchen sei . Bei W. MCDOUGALL wird die Zuordnung der D.-Energie zu außerbewußten psychischen Bereichen explizit: D. wird gesehen als der erlebte Impuls (Wirktendenz) einer Triebkraft, die die Fähigkeiten des Menschen zu aktivieren vermag . In der neueren persönlichkeits-psychologischen Literatur wird der erlebensdeskriptive D.-Begriff vor allem von W. ARNOLD und PH. LERSCH übernommen. Lersch differenziert zwischen D. als Erlebensaspekt leiblicher Bedürfnisse und D. als erlebtem Antrieb zur Befriedigung geistigen Verlangens, so im D. nach Geltung oder nach Macht. Im letzten Falle verwendet er auch den Ausdruck «höhere Strebung» . \n‹D.› als verhaltensdeskriptiver Begriff bezeichnet ein motivationales Geschehen, welches intensives, schwer hemmbares Verhalten auslöst. Es wird dabei auf die Annahme einer Bewußtseinsrepräsentation in Form von Spannungs- und Unruheerleben verzichtet. So definiert S. FREUD D. als das motorische Moment des Triebes, das Ausmaß «an Arbeitsanforderung, das er repräsentiert». Das Charakteristikum des Drängenden gehört zum Wesen der Triebe . L. KLAGES setzt ebenfalls die Begriffe ‹D.› und ‹Triebkraft› in enge Beziehung zueinander: D. ist die Resultante aus Triebkraft und einem ubiquitär vorhandenen seelischen Widerstand, der bei D. als sehr schwach anzusetzen ist . \nIn der Schichtentheorie E. ROTHACKERS wird D. als Antriebsform der Tiefenperson, der untersten Schicht im Aufbau der Person, zugeordnet. Dranghaftes Verhalten zeichnet sich durch Mangel an Distanz, z.B. in Form des Aufschubs von bedürfnisbefriedigenden Handlungen aus . \nDie Bedeutung des Begriffes ‹D.› bei R. HEISS umfaßt zwei Arten von D.: Einmal der elementare D. als Komponente animalischen Getriebenseins, den er als Trieb bezeichnet, und zum anderen der «geistige D.» als höhere seelische Stufe inneren Antriebs, die nur dem Menschen eigen ist . \nIn verschiedenen Charakterologien (z.B. PH. LERSCH, L. KLAGES) wird eine differentiell-phänomenologische Einteilung des D.-Geschehens versucht. Wie alle inhaltlichen Kategorisierungsansätze lassen sich verschiedene Einteilungen gleichwertig nebeneinanderstellen, ohne daß Kriterien herangezogen werden können, angemessene von unangemessenen Kategorisierungen zu trennen. \n3. Die klinische Psychologie und Psychiatrie sieht D.-Handlungen als Kennzeichen bestimmter Krankheitsbilder an (z.B. akuter Schizophrenie). Ein unwiderstehlicher Impuls zwingt den Kranken, ohne Realitätskontrolle bestimmte Handlungen auszuführen . Andererseits wird aber auch der Mangel an bestimmten, in psychiatrisch orientierten Persönlichkeitstheorien für grundlegend erachteten Antrieben als krankhaft angesehen; so von JASPERS der Mangel an «Tätigkeitsdrang» . \n4. Eine differenzierte Analyse der verschiedenen motivationspsychologischen Begriffe lieferte in den letzten Jahren H. THOMAE . D. bezeichnet er als Motiv- oder Antriebsform, die sich durch die Merkmale «geringe Orientierung» und «geringe Versachlichung», d.h. großes Erlebens- und Verhaltensvolumen, von anderen Antriebsformen unterscheidet. Thomaes D.-Begriff beinhaltet beide Aspekte, den Verhaltens- und erlebensdeskriptiven. D. weist einen phasischen, wellenartigen Verlauf der Erregung auf; gegen die speziellen Antriebsformen des Strebens, des Willens usw. hebt er sich durch die verschiedene Ziel-und Mittelauswahl ab: Die Zielorientierung bei D.-Handlungen ist gering, die Mittel werden unreflektiert eingesetzt. \nThomaes Begriffsanalyse gehört zu jenen neuen Ansätzen in der Motivationspsychologie, die es vorziehen, einheitliche und umfassende Konstrukta zu verwenden und damit die nur Nuancen des motivationalen Geschehens ausdrückenden Termini wie ‹D.›, ‹Streben›, ‹Wille›, ‹Begehren› usw. zu vernachlässigen. Diese Ansätze gewinnen ihre Berechtigung aus Befunden der empirischen Motivationspsychologie, die die traditionellen verbalen Unterscheidungen verschiedener Motivationsformen keineswegs als gerechtfertigt erscheinen lassen. Thomae wählt als übergeordneten Begriff ‹Antrieb›, andere bevorzugen ‹Trieb› oder ‹Bedürfnis› , ‹Aktivierung› oder ‹Motivation› . Mit der Wahl solcher umfassender Begriffe entfällt allerdings die Möglichkeit zwischen bewußtseinsrepräsentiertem und unbewußtem Antriebsgeschehen zu differenzieren. Durch objektive, d.h. vom Bewußtsein des motivierten Individuums unabhängige, Operationalisierungen von Antriebsprozessen in der heutigen Motivationsforschung erscheint eine solche Differenzierung ohnehin unangemessen.",
+ "n":"A. SCHOPENHAUER: Die Welt als Wille und Vorstellung 1 (31859) 2. Buch, § 27. \nM. SCHELER: Die Stellung des Menschen im Kosmos (61962) 13ff. 21. 47. 60. 67. \nVgl. etwa O. KÜLPE: Grundriß der Psychol. (1893) 274. \nebda. \nW. STERN: Allg. Psychol. auf personaler Grundlage 2 (1935) 526. 527. \nW. MCDOUGALL: Aufbaukräfte der Seele, dtsch. F. BECKER/H. BENDER (1937). \nW. ARNOLD: Person, Charakter, Persönlichkeit (21962). \nPH. LERSCH: Aufbau der Person (11938, zit. /1964). \na.a.O. 30. 123. \nS. FREUD: Triebe und Triebschicksale (1915). Werke 10, 214. \nL. KLAGES: Die Grundlagen der Charakterkunde (81936). \nE. ROTHACKER: Die Schichten der Persönlichkeit (61965) 26. \nR. HEISS: Die Lehre vom Charakter (1949) 88ff. \nE. BLEULER: Lehrbuch der Psychiatrie, hg. M. BLEULER (101966) 88. \nK. JASPERS: Allg. Psychopathol. (81965) 98ff. \nH. THOMAE: Das Wesen der menschl. Antriebsstruktur (1944); Die Bedeutung des Motivationsbegriffes, in: Hb. der Psychol. 2, hg. H. THOMAE (1965) 3–44. \nS. KOCH: Behavior as «intrinsically» regulated: Work notes towards a pre-theory of phenomena called ‹motivational›. Nebraska Sympos. on motivation (1956) 4, 42–87. \nO. HEBB: Drives and the C.N.S. Psychol. Rev. 62 (1955) 243–254. \nJ. W. ATKINSON: An introduction to motivation (Princeton 1965).",
+ "l":"",
+ "au":"U. Schönpflug",
+ "A":["U. Schönpflug"],
+ "cb":[
+  [0,290],
+  [100,291],
+  [474,291],
+  [1305,291],
+  [1561,291],
+  [2765,291],
+  [3434,291],
+  [3705,291],
+  [3853,292],
+  [3988,292],
+  [4360,292],
+  [4829,292],
+  [5552,292]
+ ],
+ "cn":[
+  [0,290],
+  [0,292],
+  [78,292],
+  [157,292],
+  [212,292],
+  [219,292],
+  [289,292],
+  [363,292],
+  [418,292],
+  [470,292],
+  [487,292],
+  [548,292],
+  [593,293],
+  [603,293],
+  [663,293],
+  [711,293],
+  [778,293],
+  [825,293],
+  [976,293],
+  [1141,293],
+  [1206,293]
+ ],
+ "cl":[]
+}
+);

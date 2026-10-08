@@ -1,0 +1,27 @@
+HWPH.put("a/516",
+{
+ "id":516,
+ "lemma":"Da",
+ "band":"2",
+ "kind":"article",
+ "col_from":1,
+ "col_to":1,
+ "pdf_from":3582,
+ "pdf_to":3583,
+ "authors":["P. Probst"],
+ "n_notes":2,
+ "n_chars":1042,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Da (das) hat als Begriff bei M. HEIDEGGER seine Funktion im Zusammenhang der «thematischen Analyse des In-Seins» <sup class=\"fn\" data-fn=\"0-1\">1</sup>. «Das Seiende, das wesenhaft durch das In-der-Welt-sein konstituiert wird, <i>ist</i> selbst je sein ‹Da›. Der vertrauten Wortbedeutung nach deutet das ‹Da› auf ‹hier› und ‹dort›. Das ‹Hier› eines ‹Ich-Hier› versteht sich immer aus einem zuhandenen ‹Dort› im Sinne des entfernend-ausrichtend-besorgenden Seins zu diesem. Die existenziale Räumlichkeit des Daseins, die ihm dergestalt seinen ‹Ort› bestimmt, gründet selbst auf dem In-der-Welt-sein. Das Dort ist die Bestimmtheit eines inner<i>weltlich</i> Begegnenden. ‹Hier› und ‹Dort› sind nur möglich in einem ‹Da›, das heißt wenn ein Seiendes ist, das als Sein des ‹Da› Räumlichkeit erschlossen hat. Dieses Seiende trägt in seinem eigensten Sein den Charakter der Unverschlossenheit. Der Ausdruck ‹Da› meint diese wesenhafte Erschlossenheit. Durch sie ist dieses Seiende (das Dasein) in eins mit dem Dasein von Welt für es selbst ‹da›» <sup class=\"fn\" data-fn=\"0-2\">2</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">M. HEIDEGGER: Sein und Zeit (<sup>9</sup>1960) 130.</li>\n<li id=\"fn0-2\" value=\"2\">a.a.O. 132.</li>\n</ol>",
+ "prev":{"id":515,"lemma":"Corpus mysticum","band":"1","col":1036},
+ "next":{"id":517,"lemma":"Daimonion","band":"2","col":1},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"hier","qualifier":"","band":null,"col":null}],
+ "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[{"id":1409,"lemma":"In-der-Welt-sein","tf":2},{"id":527,"lemma":"Dasein","tf":3}],
+ "see_also":[],
+ "groups":[{"id":11,"name":"Existenzphilosophie","label":"Da (Heidegger)"}],
+ "reg_authors":[{"name":"Probst Peter","n":51}]
+}
+);

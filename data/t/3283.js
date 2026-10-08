@@ -1,0 +1,38 @@
+HWPH.put("t/3283",
+{
+ "b":"Unbehagen (engl. uneasiness, malaise; frz. malaise). Lange vor dem Beginn der Begriffsgeschichte von ‹U.› bezeichnet J. LOCKE ‹uneasiness› als jenen psychischen Zustand, der die Triebfeder aller unserer Handlungen bildet . Im übrigen ist das Wort ‹U.› ein begrifflicher Modernismus, der um 1800 auftritt. Wenn J. G. HERDER den «wankenden Zweifelzustand» des Pyrrhonismus als Musterfall geistiger «Unbehaglichkeit» zitiert, mit der kein Auskommen zu finden sei, bindet er die theoretische Erkenntnis an das Kriterium der Zuträglichkeit. Knapp hundert Jahre später hat sich das Bedeutungsfeld erweitert. Erklärt H. VON TREITSCHKE den politischen Radikalismus saturierter Schichten «durch das sociale U.» , so deutet A. SCHOPENHAUER das U. als Störung der «reinen Objektivität der Anschauung» durch eine wieder spürbar werdende Erregung des Willens als Grundprinzip der Subjektivität . Theoretisch aufgenommen werden solche Einzelbeobachtungen durch M. NORDAU, der die Diagnostik der Psychopathologie kulturkritisch forciert und das U. als epochale Grundstimmung freilegt. Im Unterschied zu ähnlichen Erscheinungsformen aus früherer Zeit gäben das «zornige U.» , das der Einzelne empfinde, und die verbreitete «Unzufriedenheit im Geistigen» einem wachsenden Abstand zwischen intellektuellem Fortschritt und «den thatsächlichen Verhältnissen» Ausdruck. Während Nordau diese «Zeitkrankheit» durch konsequente Verbreitung der «naturwissenschaftlichen Weltanschauung» kurieren möchte, betrachtet F. NIETZSCHE schließlich das «U. des Organismus» rein funktional: «es giebt Mühsal, Spannung, Überreiz – das alles ist eben Bewußtwerden» . \nObgleich mit Nordau persönlich bekannt und, wie L. ANDREAS-SALOMÉ bemerkt, nicht zuletzt über die Problematik des U. mit dem Denken Nietzsches verbunden , entwickelt S. FREUD ein gegenüber diesen Vorleistungen eigenständiges Konzept. Seine Formel vom «U. in der Kultur» (1930; der Buchtitel hätte ursprünglich lauten sollen: «Unglück in der Kultur» ) umreißt die Lage des modernen Individuums als paradox: Nachdem ihm die Kultur einen wirksamen Schutz gegen die Naturgewalten biete, sehe der Einzelne sich von eben dieser Kultur und deren psychischer Repräsentanz, dem Über-Ich (s.d.), zum Verzicht auf das Ausleben von Sexual-und Aggressionstrieben genötigt. «Das Ich fühlt sich unbehaglich», schreibt Freud bereits 1917, denn es begegnet den «Grenzen seiner Macht in seinem eigenen Haus, der Seele» . Der Leistung, der sich die Einrichtung der Kultur verdankt, entspricht auf der anderen Seite deren «Pathologie» . Die Individuen entwickeln unbewußt ein Gefühl der Schuld, das als «quälendes U.», als eine «Art von Angst» oder «Unzufriedenheit» , konkret wird. \nAls Kernstück der psychoanalytischen Kulturtheorie hat dieser Begriff des U. zahlreiche Kritiken (A. GEHLEN, F. STERN ), Antikritiken (J. TAUBES ) und Differenzierungen (CH. TAYLOR ) erfahren. Ebenfalls 1930 führt L. WITTGENSTEIN eine Redeweise ein, die das U. als Anlaß des Philosophierens exponiert: «ein vages geistiges U.» , das nur befriedigt werden könne durch den «Überblick über all die verschiedenen Trivialitäten» , mit denen die Philosophie befaßt sei. Das läßt sich dann zu der These verschärfen, die Anstrengung der theoretischen Neugierde rühre weder von der menschlichen Natur noch vom ‘Staunenʼ (s.d.) her; sie erwachse vielmehr aus der Einsicht in das konstitutive Mißverhältnis des Menschen gegenüber sich und seiner Welt, dessen Grenzwert lautet: «U. am Wohlbefinden» . In einem ebenso bedenklichen wie unvermeidlichen Singular resümiert der gewollt «impräzise» Begriff des U. die Ausdrucksvielfalt solcher Diskrepanz.",
+ "n":"J. LOCKE: An essay conc. human underst. II, 21, 29ff. (1690). \nJ. G. HERDER: Aurora [1799]. Sämmtl. Werke, hg. B. SUPHAN (1877–1913) 23, 92. \nH. VON TREITSCHKE: Dtsch. Gesch. im 19. Jh. 4 (1889) 601; weitere Belege: GRIMM 11/III (1936) 289–291. \nA. SCHOPENHAUER: Die Welt als Wille und Vorst. II, 3, 30 (1844). Sämtl. Werke, hg. A. HÜBSCHER 3 (21949) 421. \nJ. DELUMEAU: Le péché de la peur. La culpabilisation en occident aux 13–18ème s. (Paris 1983). \nM. NORDAU: Die conventionellen Lügen der Kulturmenschheit (1883, 121886) 6. \nParadoxe (1885, 41886) 16. \na.O. \na.O. [6] 13. \na.O. 30. \nF. NIETZSCHE: Nachgel. Frg. Frühjahr 1888 15[25]. Krit. Ges.ausg., hg. G. COLLI/M. MONTINARI (1967ff.) 8/3, 215; Menschl., Allzumenschl. II, 1. Vermischte Meinungen und Sprüche 169 (1886), a.O. 4/3, 83; Nachgel. Frg. Sommer 1875 11[39], a.O. 4/1, 307; Herbst 1883 17[34], a.O. 7/2, 578. \nCH. SCHULTE: Psychopathologie des Fin de siècle. Der Kulturkritiker, Arzt und Zionist Max Nordau (1997) 127f. \nR. GASSER: Nietzsche und Freud (1997) 131. \nM. SCHUR: S. Freud. Leben und Sterben (1973) 496. \nS. FREUD: Eine Schwierigkeit der Psychoanalyse [1917]. Ges. Werke, hg. A. FREUD u.a. (1940–87) 12, 9. \nDas U. in der Kultur [1930], a.O. 14, 505; vgl. P. RICŒUR: De l'interprétation. Essai sur Freud (Paris 1965) 297ff.; dtsch.: Die Interpretation. Ein Versuch über Freud (1974) 310ff. \na.O. 495. \nA. GEHLEN: Über kulturelle Kristallisation (1961) 4; Anthropolog. Forschung (1961) 99; F. STERN: The politics of cult. despair. A study in the rise of the Germanic ideology (Berkeley/Los Angeles 1963) XXVIII; dtsch.: Kulturpessimismus als polit. Gefahr. Eine Analyse nat. Ideologie in Deutschland (1963/86) 20. \nJ. TAUBES: Das U. an den Institutionen. Zur Kritik der soziolog. Institutionenlehre, in: H. SCHELSKY (Hg.): Zur Theorie der Institutionen (21973) 67–76. \nCH. TAYLOR: Three malaises, in: The ethics of authenticity (Cambridge/London 1991) 1–12; dtsch.: Das U. an der Moderne (1995) 7–19; vgl. P. BERGER/B. BERGER/H. KELLNER: The homeless mind. Modernization and consciousness (New York 1973) ch. 8; dtsch.: Das U. an der Modernität (1975) Kap. 8. \nL. WITTGENSTEIN: Vorles. 1930–1935. Lect. Cambridge 1930–1932, hg. D. LEE (1984) 43. \na.O. 56; vgl. 47f. \nH. BLUMENBERG: Begriffe in Geschichten (1998) 72. \na.O. 209; vgl. 199f.",
+ "l":"",
+ "au":"R. Konersmann",
+ "A":["R. Konersmann"],
+ "cb":[[0,118],[38,119],[1630,119],[2694,119]],
+ "cn":[
+  [0,118],
+  [61,120],
+  [63,120],
+  [142,120],
+  [246,120],
+  [357,120],
+  [453,120],
+  [530,120],
+  [558,120],
+  [564,120],
+  [578,120],
+  [588,120],
+  [876,120],
+  [987,120],
+  [1031,120],
+  [1082,120],
+  [1185,120],
+  [1368,120],
+  [1379,120],
+  [1691,120],
+  [1845,120],
+  [2137,120],
+  [2223,120],
+  [2243,120],
+  [2294,120]
+ ],
+ "cl":[]
+}
+);

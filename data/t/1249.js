@@ -1,0 +1,12 @@
+HWPH.put("t/1249",
+{
+ "b":"Hemmung, vitale. Der Begriff ‹v.H.› gehört in den Bereich der klinischen Psychopathologie und beschreibt eine besonders bei endogen Depressiven festzustellende Störung. Man versteht darunter eine oft extreme Verlangsamung des normalen Ablaufs psychischer und physischer Akte. Alle Triebregungen liegen darnieder; kein Entschluß kann gefaßt, keine Tätigkeit in Angriff genommen werden. Es liegt eine Blockade allen «Könnens» vor. Besonders aufdringlich ist die Störung der «Vitalgefühle» im Sinne M. SCHELERS . Es handelt sich um leibnahe Schwermutgefühle mit Mißempfindungen des Drucks und der Schwere in Kopf, Hals (globus melancholicus), Brust, Leib und Extremitäten. Auch sexuelle und digestive Appetenz sind beeinträchtigt oder erloschen. Bei den endogen Depressiven ist die Hemmung oft mit einer vitalen, «motivlosen» Traurigkeit verbunden. Die klassische Psychiatrie sieht in der v.H. ein Symptom einer Krankheit (der endogenen Depression) und befaßt sich damit rein deskriptiv. Nach der anthropologisch-phänomenologisch orientierten Psychopathologie (E. V. v. GEBSATTEL , E. STRAUS ) liegt eine Veränderung des vitalen Grundgeschehens nicht nur der endogenen Depression, sondern beispielsweise auch der Zwangskrankheit zugrunde. In diesem Sinne wird in übergreifender Weise von einer «Hemmung der basalen Lebensbewegung», einer «Störung des personalen Werdens», einer «elementaren Werdensbehinderung», einer Hemmung der sich zeitigenden Persönlichkeit gesprochen. Die v.H. ist demnach die psychologisch nicht erklärbare, sondern nur phänomenologisch erfaßbare Abwandlung eines Grundgeschehens, des «Endogenen», die sich in dem zeigt, was die psychiatrische Klinik «Symptome» nennt. \nIn der v.H. ist dieser Werdensfluß vorübergehend extrem verlangsamt, oft nahezu zum Stillstand gekommen. Doch besteht grundsätzlich die «Möglichkeit der Reversibilität, in der das Gehemmte wieder in Fluß gerät» (H. TELLENBACH ).",
+ "n":"M. SCHELER: Wesen und Form der Sympathie (1923). \nE. V. v. GEBSATTEL: Pro leg. zu einer med. Anthropol. (1954). \nE. STRAUS: Das Zeiterlebnis in der endogenen Depression und in der psychopathischen Verstimmung. Mschr. Psychiat. Neurol. 68 (1928) 640. \nH. TELLENBACH: Melancholie (1961).",
+ "l":"H. TELLENBACH s. Anm. [4].",
+ "au":"H. Tellenbach H. Kretz",
+ "A":["H. Tellenbach","H. Kretz"],
+ "cb":[[0,1056],[169,1057],[1690,1057]],
+ "cn":[[0,1056],[50,1056],[113,1056],[251,1056]],
+ "cl":[[0,1057]]
+}
+);

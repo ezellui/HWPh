@@ -1,0 +1,28 @@
+HWPH.put("t/3431",
+{
+ "b":"Verschrobenheit. Die seit dem 18. Jh. im Deutschen gebrauchten Ausdrücke ‹verschroben› (etymol. ‘falsch eingeschraubtʼ, ‘verdrehtʼ) und ‹V.› gehören gegen Ende des 19. Jh. zum Deskriptionsvokabular der Psychopathologie. J. L. A. KOCH deutet die V. als diagnostisches Merkmal einer angeborenen «psychopathischen Minderwertigkeit», die einen Menschen «jedermann sofort als anders denn gewöhnliche Menschen, als verdreht, geziert, geschraubt ... erscheinen» läßt . Besonders seit K. BIRNBAUM wird der Ausdruck in der deutschsprachigen Psychopathologie des 20. Jh. terminologisch. Unter der Bezeichnung «degenerativ Verschrobene» versteht Birnbaum psychopathische Persönlichkeiten, «die ohne weiteres durch das paranoide Gepräge ihres Wesens auffallen» und deren «ausgeprägtere geistige Aeusserungen den Stempel des Schiefen, Einseitigen, Uebertriebenen» bekommen, «das Gesamtbild jene ungleichmässige und unharmonische Zusammensetzung, wie sie eben am treffendsten als ‘V.ʼ gekennzeichnet wird» . Den Blick auf Phänomene eines «verschrobenen Fanatismus» («die unbeirrbare und affektvolle Vertretung von Ideen, die mit denen der Allgemeinheit und mit der bestehenden Ordnung unvereinbar sind»), der Bezüge auch zum «Querulantentum» aufweist, richtet nach dem Ersten Weltkrieg G. STERTZ . Unter Rückgriff auf Birnbaum faßt E. KRAEPELIN die Verschrobenen als eine «Gruppe von Psychopathen», die durch «das Fehlen der inneren Einheitlichkeit und Folgerichtigkeit in ihrem Seelenleben» gekennzeichnet sind, «deren klinische Deutung und Umgrenzung» aber «noch recht zweifelhaft ist» . Die Charakterisierung Kraepelins übernehmend, stellt E. BLEULER «schiefe Auffassungen der Verhältnisse, schiefe logische Operationen, sonderbare Ansichten und oft auch Ausdrucksweisen» heraus . \nL. BINSWANGER, der Begründer der Daseinsanalyse (s.d.), löst die Rede von der V. zunächst aus dem «Rahmen der Psychopathologie und psychiatrischen Klinik überhaupt und der Schizoidie und Schizophrenie im Speziellen» heraus und weist die biologischen Werturteile der Forschung zurück. Im Anschluß besonders an M. HEIDEGGERS existenziale Analytik des Daseins in ‹Sein und Zeit› versucht BINSWANGER, die besondere Erfahrungskonstitution, die zu der Daseinsverfassung des Verschrobenen gehört, aus der eigentümlichen Weise seines «In-der-Welt-seins» aufzuklären. Er begreift die V. wie die von ihr abgehobenen Gestalten der «Verstiegenheit» und «Manieriertheit» daseinsanalytisch-phänomenologisch als «allgemein-menschliche, d.h. dem menschlichen Dasein immanente Bedrohungen» . An die Begrifflichkeit von W. SZILASIS Interpretation der klassischen griechischen Philosophie der Eudaimonie anknüpfend , faßt BINSWANGER sie als «Weisen des Mißglückens oder Mißlingens des menschlichen Daseins» im Sinne eines je spezifischen «‘An-ein-Ende-gelangensʼ oder ‘Steckenbleibensʼ seiner eigentlichen geschichtlichen Bewegtheit» . Scheitert der Prozeß menschlichen Selbstwerdens im Falle der Verstiegenheit daran, «daß das Dasein höher steigt als es seiner Weite, seinem Erfahrungs- und Verstehenshorizont entspricht» , so bleibt es im Falle der V. «stecken in der Verfallenheit an die jeweilige Du-ferne ‘Querverbindungʼ, Querköpfigkeit oder Schiefgewickeltheit» , ein Zustand, der als «Vorstufe zur schizophrenen ‘Erstarrungʼ» gefaßt wird. Über Heideggers Daseins- auf Kierkegaards Verzweiflungsanalyse zurückgehend, sieht Binswanger im Falle der Spaltungsphänomene der Manieriertheit das «angsterfüllte, verzweifelte Nicht-Selbstseinkönnen, ineins mit der Haltsuche an einem Vor-Bild aus der Öffentlichkeit des Man und der Überbetonung dieses Vor-Bildes zur Verdeckung der Heimatlosigkeit, Weltunsicherheit und Bedrohtheit der Existenz» als wesentlich an. \nDadurch, daß Binswanger, auch mittels des problematischen Rückgriffs auf Heideggers existenziale Analytik des Daseins, eine normative Psychopathologie zu fundieren versucht, bleiben auch bei seiner Neuformulierung des Begriffs der V. dessen gesellschaftlich-kulturelle Implikationen weitgehend verdeckt, die erst die vergleichende transkulturelle Psychiatrie reflektiert.",
+ "n":"Vgl. Art. ‹verschroben› und ‹V.›. GRIMM 12/I (1956) 1164f.; zur Etymologie: Art. ‹verschroben›, in: F. KLUGE (Hg.): Etymol. Wb. der dtsch. Sprache (221989) 762. \nJ. L. A. KOCH: Die psychopath. Minderwertigkeiten 1 (1891) 29–31, hier: 29; vgl. die Beschreibung der Paranoesie durch CH. DIECKHOFF: Die Psychosen bei psychopath. Minderwerthigen. Allgem. Z. Psychiat. psychiatrisch-gerichtl. Medicin 655 (1898) 215–250, hier: 245f. \nK. BIRNBAUM: Ueber degenerativ Verschrobene. Mschr. Psychiat. Neurol. 55 (1907) 308–320, hier: 308. 313. \nG. STERTZ: Verschrobene Fanatiker. Berliner Klin. Wschr. 56 (1919) 586–588, hier: 587. \nE. KRAEPELIN: Psychiatrie IV/3 (81915) 2039. \nE. BLEULER: Lehrb. der Psychiatrie (61937) 396; vgl. K. SCHNEIDER: Die psychopath. Persönlichkeiten (41940) 79. \nL. BINSWANGER: Drei Formen missglückten Daseins. Verstiegenheit, V., Manieriertheit (1956) 91. \na.O. 12; vgl. die Konzeption der «Weltpsychologie», in: K. JASPERS: Allg. Psychopathologie (1913, 41946) 230ff.; Strindberg und van Gogh (Bern 1922) 123f. \na.O. X. \nW. SZILASI: Macht und Ohnmacht des Geistes (Bern 1946) 19ff. 107ff. 305. \nBINSWANGER, a.O. [7] 189; vgl. a.O. X. 92. \na.O. 3. \n189. \nXIf.",
+ "l":"W. BLANKENBURG: Art. ‹V.›, in: CH. MÜLLER (Hg.): Lex. der Psychiatrie (21986) 712.",
+ "au":"H. Hühn",
+ "A":["H. Hühn"],
+ "cb":[[0,885],[1290,886],[1771,886],[3717,886]],
+ "cn":[
+  [0,885],
+  [0,886],
+  [162,886],
+  [429,886],
+  [535,886],
+  [623,886],
+  [669,886],
+  [782,886],
+  [878,886],
+  [1034,886],
+  [1043,886],
+  [1117,886],
+  [1161,886],
+  [1170,886],
+  [1176,886]
+ ],
+ "cl":[[0,886]]
+}
+);

@@ -1,0 +1,27 @@
+HWPH.put("a/883",
+{
+ "id":883,
+ "lemma":"Extrapolation/Interpolation",
+ "band":"2",
+ "kind":"article",
+ "col_from":879,
+ "col_to":879,
+ "pdf_from":6451,
+ "pdf_to":6452,
+ "authors":["G. Frey"],
+ "n_notes":0,
+ "n_chars":1368,
+ "toc":[],
+ "html":"<p>Extrapolation/Interpolation. Von ‹E.› und ‹I.› ist bei Funktionen die Rede. Eine empirische Funktion ordnet einer endlichen Anzahl von Argumentwerten entsprechende Funktionswerte zu. Die Beschreibung einer solchen empirischen Funktion durch eine stetige analytische Funktion ist niemals mathematisch eindeutig. Die Auswahl einer beschreibenden mathematischen Funktion erhält ihre Berechtigung meist aus den theoretischen Voraussetzungen. Insofern die analytische Funktion zwischen beliebigen empirischen Meßwerten zu einem willkürlich gewählten Argumentwert einen Funktionswert liefert, interpoliert sie diese empirischen Werte. Man kann dann meist die interpolierten Werte nachmessen. Insofern ist der empirische Sinn der Verwendung stetiger Funktionen in Erfahrungswissenschaften als Potentialität zu charakterisieren. Wenn man der beschreibenden mathematischen Funktion jenseits des ausmeßbaren Bereiches eine Bedeutung gibt, nennt man das ‹E.›.</p>\n<p>Die I. ist meist unproblematisch, und es tritt nur die Frage auf, wie groß der Fehler der interpolierten Werte ist. E. dagegen sind um so fragwürdiger, je weiter man sich vom unmittelbaren Erfahrungsbereich entfernt. E., die den Erfahrungsbereich um ein Vielfaches überschreiten, können häufig nur als Spekulationen bezeichnet werden (z.B. die E. der Expansion des Universums zurück zu einem hypothetischen ‹Urknall›).</p>",
+ "prev":{"id":882,"lemma":"Extramundan","band":"2","col":878},
+ "next":{"id":884,"lemma":"Extravertiert/introvertiert","band":"2","col":879},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[{"term":"Interpolation","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[{"id":3588,"lemma":"Wert","tf":3}],
+ "see_also":[{"id":974,"lemma":"Funktion"}],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Extrapolation/Interpolation"}],
+ "reg_authors":[{"name":"Frey Gerhard","n":9}]
+}
+);

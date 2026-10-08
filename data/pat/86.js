@@ -1,0 +1,708 @@
+HWPH.put("pat/86",
+{
+ 43000:[
+  "(?<![\\p{L}\\p{N}])(?:SCHWERDTFEGER|Schwerdtfeger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["N. SCHWERDTFEGER"]
+ ],
+ 43001:["(?<![\\p{L}\\p{N}])(?:RAFFNET|Raffnet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. RAFFNET"]],
+ 43002:["(?<![\\p{L}\\p{N}])(?:LOCHMANN|Lochmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. M. LOCHMANN"]],
+ 43003:["(?<![\\p{L}\\p{N}])(?:FICHANT|Fichant)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. FICHANT"]],
+ 43004:["(?<![\\p{L}\\p{N}])(?:BUDDENSIEG|Buddensieg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. BUDDENSIEG"]],
+ 43005:["(?<![\\p{L}\\p{N}])(?:BRÄNDLE|Brändle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BRÄNDLE"]],
+ 43006:["(?<![\\p{L}\\p{N}])(?:LEVIN|Levin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. LEVIN"]],
+ 43007:["(?<![\\p{L}\\p{N}])(?:NEMIROW|Nemirow)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. NEMIROW"]],
+ 43008:["(?<![\\p{L}\\p{N}])(?:LANZ|Lanz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. LANZ"]],
+ 43009:["(?<![\\p{L}\\p{N}])(?:GOLDMEIER|Goldmeier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. GOLDMEIER"]],
+ 43010:[
+  "(?<![\\p{L}\\p{N}])(?:RAAIJMAKERS|Raaijmakers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. G. RAAIJMAKERS"]
+ ],
+ 43011:["(?<![\\p{L}\\p{N}])(?:COLLINS|Collins)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. F. COLLINS"]],
+ 43012:["(?<![\\p{L}\\p{N}])(?:JAVA|Java)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. I. JAVA"]],
+ 43013:["(?<![\\p{L}\\p{N}])(?:CRAIK|Craik)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. I. M. CRAIK"]],
+ 43014:["(?<![\\p{L}\\p{N}])(?:KABLITZ|Kablitz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. KABLITZ"]],
+ 43015:["(?<![\\p{L}\\p{N}])(?:PEIL|Peil)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. PEIL"]],
+ 43016:["(?<![\\p{L}\\p{N}])(?:GOODSPED|Goodsped)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. J. GOODSPED"]],
+ 43017:["(?<![\\p{L}\\p{N}])(?:BÖHME|Böhme)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BÖHME"]],
+ 43018:["(?<![\\p{L}\\p{N}])(?:CREMER|Cremer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. CREMER"]],
+ 43019:["(?<![\\p{L}\\p{N}])(?:TRUMMER|Trummer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. TRUMMER"]],
+ 43020:["(?<![\\p{L}\\p{N}])(?:BENOIT|Benoit)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. BENOIT"]],
+ 43021:["(?<![\\p{L}\\p{N}])(?:MUNIER|Munier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. MUNIER"]],
+ 43022:["(?<![\\p{L}\\p{N}])(?:GUHRT|Guhrt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. GUHRT"]],
+ 43023:["(?<![\\p{L}\\p{N}])(?:GORAL|Goral)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. GORAL"]],
+ 43024:["(?<![\\p{L}\\p{N}])(?:ASMUSSEN|Asmussen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. ASMUSSEN"]],
+ 43025:["(?<![\\p{L}\\p{N}])(?:WEINZIERL|Weinzierl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. WEINZIERL"]],
+ 43026:["(?<![\\p{L}\\p{N}])(?:BURNETT|Burnett)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["PH. M. BURNETT"]],
+ 43027:["(?<![\\p{L}\\p{N}])(?:BRILL|Brill)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BRILL"]],
+ 43028:["(?<![\\p{L}\\p{N}])(?:VOGEL|Vogel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. VOGEL"]],
+ 43029:["(?<![\\p{L}\\p{N}])(?:JELLINEK|Jellinek)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Y. A. JELLINEK"]],
+ 43030:["(?<![\\p{L}\\p{N}])(?:RUMPF|Rumpf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. RUMPF"]],
+ 43031:["(?<![\\p{L}\\p{N}])(?:HUDSON|Hudson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. O. HUDSON"]],
+ 43032:[
+  "(?<![\\p{L}\\p{N}])(?:ARANGIO-RUIZ|Arangio-Ruiz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["G. ARANGIO-RUIZ"]
+ ],
+ 43033:["(?<![\\p{L}\\p{N}])(?:FREHSEE|Frehsee)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. FREHSEE"]],
+ 43034:["(?<![\\p{L}\\p{N}])(?:KOSSOY|Kossoy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. KOSSOY"]],
+ 43035:["(?<![\\p{L}\\p{N}])(?:PROSS|Pross)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. PROSS"]],
+ 43036:["(?<![\\p{L}\\p{N}])(?:GUTMAN|Gutman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. GUTMAN"]],
+ 43037:["(?<![\\p{L}\\p{N}])(?:TRASSL|Trassl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. TRASSL"]],
+ 43038:["(?<![\\p{L}\\p{N}])(?:PETER|Peter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. R. PETER"]],
+ 43039:["(?<![\\p{L}\\p{N}])(?:BIBRING|Bibring)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. BIBRING"]],
+ 43040:["(?<![\\p{L}\\p{N}])(?:RUSSELL|Russell)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. L. RUSSELL"]],
+ 43041:["(?<![\\p{L}\\p{N}])(?:JUDA|Juda)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. JUDA"]],
+ 43042:["(?<![\\p{L}\\p{N}])(?:HENDRICK|Hendrick)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. HENDRICK"]],
+ 43043:["(?<![\\p{L}\\p{N}])(?:DORNES|Dornes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. DORNES"]],
+ 43044:["(?<![\\p{L}\\p{N}])(?:BEYRICH|Beyrich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. BEYRICH"]],
+ 43045:["(?<![\\p{L}\\p{N}])(?:NUSSER|Nusser)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. NUSSER"]],
+ 43046:["(?<![\\p{L}\\p{N}])(?:GLÖCKNER|Glöckner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. GLÖCKNER"]],
+ 43047:["(?<![\\p{L}\\p{N}])(?:STROWICK|Strowick)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. STROWICK"]],
+ 43048:[
+  "(?<![\\p{L}\\p{N}])(?:NYMANN\\s+ERIKSEN|Nymann\\s+Eriksen|Eriksen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["N. NYMANN ERIKSEN"]
+ ],
+ 43049:["(?<![\\p{L}\\p{N}])(?:MALATESTA|Malatesta)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. MALATESTA"]],
+ 43050:["(?<![\\p{L}\\p{N}])(?:LAZAR|Lazar)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. LAZAR"]],
+ 43051:[
+  "(?<![\\p{L}\\p{N}])(?:SHMUEL\\s+ERLICH|Shmuel\\s+Erlich|Erlich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["H. SHMUEL ERLICH"]
+ ],
+ 43052:["(?<![\\p{L}\\p{N}])(?:HOCK|Hock)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. HOCK"]],
+ 43053:["(?<![\\p{L}\\p{N}])(?:LOBSIEN|Lobsien)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. LOBSIEN"]],
+ 43054:["(?<![\\p{L}\\p{N}])(?:HILMES|Hilmes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. HILMES"]],
+ 43055:["(?<![\\p{L}\\p{N}])(?:PAYER|Payer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. PAYER"]],
+ 43056:["(?<![\\p{L}\\p{N}])(?:SAVAGE|Savage)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. W. SAVAGE"]],
+ 43057:["(?<![\\p{L}\\p{N}])(?:PETZÄLL|Petzäll)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. PETZÄLL"]],
+ 43058:["(?<![\\p{L}\\p{N}])(?:ARTAUDS|Artauds)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. ARTAUDS"]],
+ 43059:["(?<![\\p{L}\\p{N}])(?:KAIMIO|Kaimio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. KAIMIO"]],
+ 43060:["(?<![\\p{L}\\p{N}])(?:KÖTZL|Kötzl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["KÖTZL"]],
+ 43061:["(?<![\\p{L}\\p{N}])(?:FIASSE|Fiasse)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. FIASSE"]],
+ 43062:["(?<![\\p{L}\\p{N}])(?:VERDUS|Verdus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. du VERDUS"]],
+ 43063:[
+  "(?<![\\p{L}\\p{N}])(?:STEINTRAGER|Steintrager)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. A. STEINTRAGER"]
+ ],
+ 43064:["(?<![\\p{L}\\p{N}])(?:DUMOUILIÉ|Dumouilié)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. DUMOUILIÉ"]],
+ 43065:["(?<![\\p{L}\\p{N}])(?:ASAD|Asad)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. ASAD"]],
+ 43066:[
+  "(?<![\\p{L}\\p{N}])(?:MAC\\s+CABE|Mac\\s+Cabe|Cabe)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. MAC CABE"]
+ ],
+ 43067:["(?<![\\p{L}\\p{N}])(?:STORR|Storr)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. STORR"]],
+ 43068:["(?<![\\p{L}\\p{N}])(?:GOLDBERG|Goldberg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. GOLDBERG"]],
+ 43069:["(?<![\\p{L}\\p{N}])(?:CORTINA|Cortina)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. CORTINA"]],
+ 43070:["(?<![\\p{L}\\p{N}])(?:BRENMAN|Brenman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. BRENMAN"]],
+ 43071:[
+  "(?<![\\p{L}\\p{N}])(?:BOTT\\s+SPILLIUS|Bott\\s+Spillius|Spillius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["E. BOTT SPILLIUS"]
+ ],
+ 43072:["(?<![\\p{L}\\p{N}])(?:CUPA|Cupa)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. CUPA"]],
+ 43073:["(?<![\\p{L}\\p{N}])(?:YACK|Yack)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. YACK"]],
+ 43074:["(?<![\\p{L}\\p{N}])(?:ROSENBAUM|Rosenbaum)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. L. ROSENBAUM"]],
+ 43075:["(?<![\\p{L}\\p{N}])(?:BRANDOM|Brandom)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. B. BRANDOM"]],
+ 43076:["(?<![\\p{L}\\p{N}])(?:COHEN|Cohen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. COHEN"]],
+ 43077:["(?<![\\p{L}\\p{N}])(?:AUGUET|Auguet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. AUGUET"]],
+ 43078:["(?<![\\p{L}\\p{N}])(?:LOVIBOND|Lovibond)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. LOVIBOND"]],
+ 43079:["(?<![\\p{L}\\p{N}])(?:WILLIAMS|Williams)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. G. WILLIAMS"]],
+ 43080:["(?<![\\p{L}\\p{N}])(?:GRANADO|Granado)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. GRANADO"]],
+ 43081:[
+  "(?<![\\p{L}\\p{N}])(?:POSEIDONIUS\\s+APAM\\.|Poseidonius\\s+Apam\\.|Apam\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["POSEIDONIUS APAM."]
+ ],
+ 43082:["(?<![\\p{L}\\p{N}])(?:BAUSENHART|Bausenhart)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. BAUSENHART"]],
+ 43083:["(?<![\\p{L}\\p{N}])(?:PIEPERHOFF|Pieperhoff)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. PIEPERHOFF"]],
+ 43084:["(?<![\\p{L}\\p{N}])(?:WELP|Welp)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. WELP"]],
+ 43085:["(?<![\\p{L}\\p{N}])(?:LONGRÉ\\.|Longré\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. LONGRÉ."]],
+ 43086:["(?<![\\p{L}\\p{N}])(?:SPETTMANN|Spettmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. SPETTMANN"]],
+ 43087:[
+  "(?<![\\p{L}\\p{N}])(?:MELANI\\.|Melani\\.|MELANI|Melani)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["G. MELANI."]
+ ],
+ 43088:["(?<![\\p{L}\\p{N}])(?:LANGEVIN|Langevin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P.-E. LANGEVIN"]],
+ 43089:[
+  "(?<![\\p{L}\\p{N}])(?:GONSALVUS\\s+VON\\s+SPANIEN|Gonsalvus\\s+von\\s+Spanien|Spanien)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["GONSALVUS VON SPANIEN"]
+ ],
+ 43090:["(?<![\\p{L}\\p{N}])(?:ROCHE|Roche)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ROCHE"]],
+ 43091:["(?<![\\p{L}\\p{N}])(?:MONAHAN|Monahan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. J. MONAHAN"]],
+ 43092:["(?<![\\p{L}\\p{N}])(?:MULLANEY|Mullaney)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. U. MULLANEY"]],
+ 43093:["(?<![\\p{L}\\p{N}])(?:ESTRIX|Estrix)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. ESTRIX"]],
+ 43094:["(?<![\\p{L}\\p{N}])(?:QUIROS|Quiros)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. de QUIROS"]],
+ 43095:["(?<![\\p{L}\\p{N}])(?:MERTENS|Mertens)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. MERTENS"]],
+ 43096:["(?<![\\p{L}\\p{N}])(?:DEPRAZ|Depraz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. DEPRAZ"]],
+ 43097:["(?<![\\p{L}\\p{N}])(?:DAVIS|Davis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. DAVIS"]],
+ 43098:["(?<![\\p{L}\\p{N}])(?:HUFTIER|Huftier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. HUFTIER"]],
+ 43099:["(?<![\\p{L}\\p{N}])(?:STEAD|Stead)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. STEAD"]],
+ 43100:["(?<![\\p{L}\\p{N}])(?:IRWIN|Irwin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. H. IRWIN"]],
+ 43101:["(?<![\\p{L}\\p{N}])(?:CHAPPELL|Chappell)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. D. J. CHAPPELL"]],
+ 43102:["(?<![\\p{L}\\p{N}])(?:JEDAN|Jedan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. JEDAN"]],
+ 43103:["(?<![\\p{L}\\p{N}])(?:YOUNG|Young)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. YOUNG"]],
+ 43104:["(?<![\\p{L}\\p{N}])(?:KAMATA|Kamata)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Y. KAMATA"]],
+ 43105:["(?<![\\p{L}\\p{N}])(?:PÉRON|Péron)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. PÉRON"]],
+ 43106:["(?<![\\p{L}\\p{N}])(?:NORMAN|Norman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. NORMAN"]],
+ 43107:["(?<![\\p{L}\\p{N}])(?:VETÖ|Vetö)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. VETÖ"]],
+ 43108:["(?<![\\p{L}\\p{N}])(?:JANAWAY|Janaway)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. JANAWAY"]],
+ 43109:["(?<![\\p{L}\\p{N}])(?:TEGEN|Tegen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. TEGEN"]],
+ 43110:["(?<![\\p{L}\\p{N}])(?:BOVON|Bovon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. BOVON"]],
+ 43111:["(?<![\\p{L}\\p{N}])(?:HUTCHINGS|Hutchings)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. A. HUTCHINGS"]],
+ 43112:[
+  "(?<![\\p{L}\\p{N}])(?:FÖRSTER-NIETZSCHE|Förster-Nietzsche)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["E. FÖRSTER-NIETZSCHE"]
+ ],
+ 43113:[
+  "(?<![\\p{L}\\p{N}])(?:ZAPATA\\s+GALINDO|Zapata\\s+Galindo|Galindo)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. ZAPATA GALINDO"]
+ ],
+ 43114:["(?<![\\p{L}\\p{N}])(?:LANGREDER|Langreder)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. LANGREDER"]],
+ 43115:["(?<![\\p{L}\\p{N}])(?:RILEY|Riley)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. W. RILEY"]],
+ 43116:["(?<![\\p{L}\\p{N}])(?:KÖRNIG|Körnig)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. KÖRNIG"]],
+ 43117:["(?<![\\p{L}\\p{N}])(?:FUCHS|Fuchs)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. FUCHS"]],
+ 43118:[
+  "(?<![\\p{L}\\p{N}])(?:PHILIPP\\s+DE\\s+THORIACO|Philipp\\s+de\\s+Thoriaco|Thoriaco)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["PHILIPP de THORIACO"]
+ ],
+ 43119:["(?<![\\p{L}\\p{N}])(?:PREYER|Preyer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. PREYER"]],
+ 43120:["(?<![\\p{L}\\p{N}])(?:SIEBELT|Siebelt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. SIEBELT"]],
+ 43121:["(?<![\\p{L}\\p{N}])(?:ULFIG|Ulfig)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. ULFIG"]],
+ 43122:["(?<![\\p{L}\\p{N}])(?:SANTAS|Santas)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. SANTAS"]],
+ 43123:["(?<![\\p{L}\\p{N}])(?:ZEIGLER|Zeigler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. M. ZEIGLER"]],
+ 43124:["(?<![\\p{L}\\p{N}])(?:DAHL|Dahl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. O. DAHL"]],
+ 43125:["(?<![\\p{L}\\p{N}])(?:BELGUM|Belgum)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. BELGUM"]],
+ 43126:["(?<![\\p{L}\\p{N}])(?:OGIEN|Ogien)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. OGIEN"]],
+ 43127:["(?<![\\p{L}\\p{N}])(?:PARTHEY|Parthey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. PARTHEY"]],
+ 43128:["(?<![\\p{L}\\p{N}])(?:LÜSSI|Lüssi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. LÜSSI"]],
+ 43129:["(?<![\\p{L}\\p{N}])(?:MEERBOTE|Meerbote)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. MEERBOTE"]],
+ 43130:[
+  "(?<![\\p{L}\\p{N}])(?:GRAM\\s+MOLTKE|Gram\\s+Moltke|Moltke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["S. GRAM MOLTKE"]
+ ],
+ 43131:["(?<![\\p{L}\\p{N}])(?:AVRAMIDES|Avramides)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. AVRAMIDES"]],
+ 43132:["(?<![\\p{L}\\p{N}])(?:BEDORF|Bedorf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. BEDORF"]],
+ 43133:["(?<![\\p{L}\\p{N}])(?:KÖHLER|Köhler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. KÖHLER"]],
+ 43134:["(?<![\\p{L}\\p{N}])(?:PARRY|Parry)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. M. PARRY"]],
+ 43135:["(?<![\\p{L}\\p{N}])(?:THÜRMER|Thürmer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. THÜRMER"]],
+ 43136:["(?<![\\p{L}\\p{N}])(?:LEVY|Levy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. LEVY"]],
+ 43137:["(?<![\\p{L}\\p{N}])(?:HORWITZ|Horwitz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. HORWITZ"]],
+ 43138:["(?<![\\p{L}\\p{N}])(?:ROSENBLUM|Rosenblum)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. L. ROSENBLUM"]],
+ 43139:["(?<![\\p{L}\\p{N}])(?:COHEN|Cohen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. R. COHEN"]],
+ 43140:["(?<![\\p{L}\\p{N}])(?:BERDING|Berding)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BERDING"]],
+ 43141:["(?<![\\p{L}\\p{N}])(?:BRUMLIK|Brumlik)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. BRUMLIK"]],
+ 43142:[
+  "(?<![\\p{L}\\p{N}])(?:TSHIAMALENGA\\s+NTUMBA|Tshiamalenga\\s+Ntumba|Ntumba)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. TSHIAMALENGA NTUMBA"]
+ ],
+ 43143:["(?<![\\p{L}\\p{N}])(?:SCHMID|Schmid)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. B. SCHMID"]],
+ 43144:["(?<![\\p{L}\\p{N}])(?:GUTMANN|Gutmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. GUTMANN"]],
+ 43145:["(?<![\\p{L}\\p{N}])(?:ZITTERBARTH|Zitterbarth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. ZITTERBARTH"]],
+ 43146:[
+  "(?<![\\p{L}\\p{N}])(?:FONTENELLE|Fontenelle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["B. le B. de FONTENELLE"]
+ ],
+ 43147:[
+  "(?<![\\p{L}\\p{N}])(?:THEOPHILOS\\s+VON\\s+ANTIOCHEIA|Theophilos\\s+von\\s+Antiocheia|Antiocheia)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["THEOPHILOS VON ANTIOCHEIA"]
+ ],
+ 43148:["(?<![\\p{L}\\p{N}])(?:FARRERS|Farrers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. FARRERS"]],
+ 43149:[
+  "(?<![\\p{L}\\p{N}])(?:THEOPHILOS\\s+VON\\s+ANT\\.|Theophilos\\s+von\\s+Ant\\.|Ant\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["THEOPHILOS VON ANT."]
+ ],
+ 43150:["(?<![\\p{L}\\p{N}])(?:WENDEBOURG|Wendebourg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. WENDEBOURG"]],
+ 43151:["(?<![\\p{L}\\p{N}])(?:GRÄB|Gräb)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. GRÄB"]],
+ 43152:["(?<![\\p{L}\\p{N}])(?:METTE|Mette)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. METTE"]],
+ 43153:["(?<![\\p{L}\\p{N}])(?:FULLER|Fuller)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. H. FULLER"]],
+ 43154:["(?<![\\p{L}\\p{N}])(?:GOULDER|Goulder)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. GOULDER"]],
+ 43155:["(?<![\\p{L}\\p{N}])(?:GWYUNNE|Gwyunne)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. GWYUNNE"]],
+ 43156:[
+  "(?<![\\p{L}\\p{N}])(?:BERTHOLD\\s+VON\\s+CHIEMSEE|Berthold\\s+von\\s+Chiemsee|Chiemsee)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["BERTHOLD VON CHIEMSEE"]
+ ],
+ 43157:["(?<![\\p{L}\\p{N}])(?:REITHMEIER|Reithmeier)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. REITHMEIER"]],
+ 43158:["(?<![\\p{L}\\p{N}])(?:ZINZENDORF|Zinzendorf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. ZINZENDORF"]],
+ 43159:["(?<![\\p{L}\\p{N}])(?:WANNEMANN|Wannemann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["WANNEMANN"]],
+ 43160:[
+  "(?<![\\p{L}\\p{N}])(?:FLEISCHMANN|Fleischmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["E. J. FLEISCHMANN"]
+ ],
+ 43161:["(?<![\\p{L}\\p{N}])(?:KAISER|Kaiser)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. KAISER"]],
+ 43162:["(?<![\\p{L}\\p{N}])(?:AMERICKS|Americks)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. AMERICKS"]],
+ 43163:["(?<![\\p{L}\\p{N}])(?:HÜNTELMANN|Hüntelmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. HÜNTELMANN"]],
+ 43164:["(?<![\\p{L}\\p{N}])(?:HAEFLIGE|Haeflige)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. HAEFLIGE"]],
+ 43165:["(?<![\\p{L}\\p{N}])(?:WALZ|Walz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. H. WALZ"]],
+ 43166:["(?<![\\p{L}\\p{N}])(?:ELLRICH|Ellrich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. ELLRICH"]],
+ 43167:["(?<![\\p{L}\\p{N}])(?:GEISSLINGER|Geisslinger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. GEISSLINGER"]],
+ 43168:["(?<![\\p{L}\\p{N}])(?:WEINRICH|Weinrich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. WEINRICH"]],
+ 43169:["(?<![\\p{L}\\p{N}])(?:CLEBSCH|Clebsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. CLEBSCH"]],
+ 43170:["(?<![\\p{L}\\p{N}])(?:SCHERING|Schering)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. J. SCHERING"]],
+ 43171:["(?<![\\p{L}\\p{N}])(?:BREGER|Breger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BREGER"]],
+ 43172:["(?<![\\p{L}\\p{N}])(?:LÜBBIG|Lübbig)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. LÜBBIG"]],
+ 43173:["(?<![\\p{L}\\p{N}])(?:BORN|Born)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K.-E. BORN"]],
+ 43174:["(?<![\\p{L}\\p{N}])(?:ISSING|Issing)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. ISSING"]],
+ 43175:["(?<![\\p{L}\\p{N}])(?:STEUER|Steuer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. STEUER"]],
+ 43176:["(?<![\\p{L}\\p{N}])(?:PRIDDAT|Priddat)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. PRIDDAT"]],
+ 43177:["(?<![\\p{L}\\p{N}])(?:DEGEORGE|Degeorge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. DEGEORGE"]],
+ 43178:["(?<![\\p{L}\\p{N}])(?:DONALDSON|Donaldson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. DONALDSON"]],
+ 43179:["(?<![\\p{L}\\p{N}])(?:LÜTGE|Lütge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. LÜTGE"]],
+ 43180:["(?<![\\p{L}\\p{N}])(?:LÖHR|Löhr)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. LÖHR"]],
+ 43181:["(?<![\\p{L}\\p{N}])(?:BLOME-DREES|Blome-Drees)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. BLOME-DREES"]],
+ 43182:["(?<![\\p{L}\\p{N}])(?:ENDERLE|Enderle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. ENDERLE"]],
+ 43183:["(?<![\\p{L}\\p{N}])(?:AUFDERHEIDE|Aufderheide)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. AUFDERHEIDE"]],
+ 43184:[
+  "(?<![\\p{L}\\p{N}])(?:GAETAN\\s+VON\\s+THIENE|Gaetan\\s+von\\s+Thiene|Thiene)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["GAETAN VON THIENE"]
+ ],
+ 43185:[
+  "(?<![\\p{L}\\p{N}])(?:ROBERTUS\\s+GROSSETESTE|Robertus\\s+Grosseteste|Grosseteste)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["ROBERTUS GROSSETESTE"]
+ ],
+ 43186:[
+  "(?<![\\p{L}\\p{N}])(?:SOMMERS|Sommers|SOMMER|Sommer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. C. SOMMERS"]
+ ],
+ 43187:[
+  "(?<![\\p{L}\\p{N}])(?:GAIETAN\\s+VON\\s+THIENE|Gaietan\\s+von\\s+Thiene|Thiene)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["GAIETAN VON THIENE"]
+ ],
+ 43188:[
+  "(?<![\\p{L}\\p{N}])(?:MIRABELL-GUERIN|Mirabell-Guerin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["I. MIRABELL-GUERIN"]
+ ],
+ 43189:["(?<![\\p{L}\\p{N}])(?:WIEDEBURG|Wiedeburg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. WIEDEBURG"]],
+ 43190:["(?<![\\p{L}\\p{N}])(?:MIKKELI|Mikkeli)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. MIKKELI"]],
+ 43191:["(?<![\\p{L}\\p{N}])(?:TACK|Tack)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. TACK"]],
+ 43192:["(?<![\\p{L}\\p{N}])(?:FORMEY|Formey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. S. FORMEY"]],
+ 43193:["(?<![\\p{L}\\p{N}])(?:IRMSCHER|Irmscher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. D. IRMSCHER"]],
+ 43194:["(?<![\\p{L}\\p{N}])(?:HAGEMANN|Hagemann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. HAGEMANN"]],
+ 43195:["(?<![\\p{L}\\p{N}])(?:FELDMANN|Feldmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. FELDMANN"]],
+ 43196:["(?<![\\p{L}\\p{N}])(?:THAGARD|Thagard)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. THAGARD"]],
+ 43197:["(?<![\\p{L}\\p{N}])(?:LEGOFF|Legoff)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. LEGOFF"]],
+ 43198:["(?<![\\p{L}\\p{N}])(?:REEVE|Reeve)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. D. C. REEVE"]],
+ 43199:["(?<![\\p{L}\\p{N}])(?:SERENE|Serene)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. SERENE"]],
+ 43200:["(?<![\\p{L}\\p{N}])(?:GRASSI|Grassi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. GRASSI"]],
+ 43201:["(?<![\\p{L}\\p{N}])(?:BOSLEY|Bosley)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. BOSLEY"]],
+ 43202:["(?<![\\p{L}\\p{N}])(?:ERNST|Ernst)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. ERNST"]],
+ 43203:["(?<![\\p{L}\\p{N}])(?:SUISSET|Suisset)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SUISSET"]],
+ 43204:["(?<![\\p{L}\\p{N}])(?:JENSEN|Jensen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. J. JENSEN"]],
+ 43205:[
+  "(?<![\\p{L}\\p{N}])(?:IWAKUMA\\s+YUKIO|Iwakuma\\s+Yukio|Yukio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["IWAKUMA YUKIO"]
+ ],
+ 43206:[
+  "(?<![\\p{L}\\p{N}])(?:PAGNONI\\s+STURLESE|Pagnoni\\s+Sturlese|Sturlese)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. R. PAGNONI STURLESE"]
+ ],
+ 43207:["(?<![\\p{L}\\p{N}])(?:MCKIRHAN|Mckirhan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. D. MCKIRHAN"]],
+ 43208:["(?<![\\p{L}\\p{N}])(?:HACKETT|Hackett)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. HACKETT"]],
+ 43209:["(?<![\\p{L}\\p{N}])(?:EUCLID|Euclid)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["von EUCLID"]],
+ 43210:["(?<![\\p{L}\\p{N}])(?:ARNOUX|Arnoux)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. ARNOUX"]],
+ 43211:["(?<![\\p{L}\\p{N}])(?:POLLOK|Pollok)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. POLLOK"]],
+ 43212:["(?<![\\p{L}\\p{N}])(?:BABICH|Babich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. E. BABICH"]],
+ 43213:["(?<![\\p{L}\\p{N}])(?:III\\.-VI\\.|Iii\\.-Vi\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["III.-VI."]],
+ 43214:["(?<![\\p{L}\\p{N}])(?:BROWNING|Browning)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. BROWNING"]],
+ 43215:["(?<![\\p{L}\\p{N}])(?:RICHARDSON|Richardson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. C. RICHARDSON"]],
+ 43216:["(?<![\\p{L}\\p{N}])(?:NORDMANN|Nordmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. NORDMANN"]],
+ 43217:["(?<![\\p{L}\\p{N}])(?:RUNGE|Runge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. RUNGE"]],
+ 43218:["(?<![\\p{L}\\p{N}])(?:BELLONE|Bellone)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. BELLONE"]],
+ 43219:["(?<![\\p{L}\\p{N}])(?:MINTO|Minto)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. MINTO"]],
+ 43220:["(?<![\\p{L}\\p{N}])(?:ROSS|Ross)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. ROSS"]],
+ 43221:["(?<![\\p{L}\\p{N}])(?:JEVONS|Jevons)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. A. JEVONS"]],
+ 43222:["(?<![\\p{L}\\p{N}])(?:THOMAS|Thomas)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. THOMAS"]],
+ 43223:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+SIEMENS|von\\s+Siemens|Siemens)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["W. VON SIEMENS"]
+ ],
+ 43224:["(?<![\\p{L}\\p{N}])(?:MILLER|Miller)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. P. MILLER"]],
+ 43225:["(?<![\\p{L}\\p{N}])(?:RUTT|Rutt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. RUTT"]],
+ 43226:["(?<![\\p{L}\\p{N}])(?:SARKAR|Sarkar)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. SARKAR"]],
+ 43227:["(?<![\\p{L}\\p{N}])(?:GÖGELEIN|Gögelein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. GÖGELEIN"]],
+ 43228:["(?<![\\p{L}\\p{N}])(?:GLASMACHER|Glasmacher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. GLASMACHER"]],
+ 43229:["(?<![\\p{L}\\p{N}])(?:CANNON|Cannon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. F. CANNON"]],
+ 43230:["(?<![\\p{L}\\p{N}])(?:BASALLA|Basalla)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. BASALLA"]],
+ 43231:["(?<![\\p{L}\\p{N}])(?:HARVEY|Harvey)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. W. HARVEY"]],
+ 43232:[
+  "(?<![\\p{L}\\p{N}])(?:ISIDORUS\\s+PELUSIOTA|Isidorus\\s+Pelusiota|Pelusiota)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["ISIDORUS PELUSIOTA"]
+ ],
+ 43233:[
+  "(?<![\\p{L}\\p{N}])(?:ISIDORUS\\s+PELUS\\.|Isidorus\\s+Pelus\\.|Pelus\\.)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["ISIDORUS PELUS."]
+ ],
+ 43234:[
+  "(?<![\\p{L}\\p{N}])(?:HEINRICH\\s+VON\\s+SEGUSIO|Heinrich\\s+von\\s+Segusio|Segusio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["HEINRICH VON SEGUSIO"]
+ ],
+ 43235:[
+  "(?<![\\p{L}\\p{N}])(?:THOMAS\\s+VON\\s+CAPUA|Thomas\\s+von\\s+Capua|Capua)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["THOMAS VON CAPUA"]
+ ],
+ 43236:["(?<![\\p{L}\\p{N}])(?:HARDÖRFER|Hardörfer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. HARDÖRFER"]],
+ 43237:["(?<![\\p{L}\\p{N}])(?:WILLE|Wille)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. WILLE"]],
+ 43238:["(?<![\\p{L}\\p{N}])(?:WECHSLER|Wechsler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. WECHSLER"]],
+ 43239:[
+  "(?<![\\p{L}\\p{N}])(?:CHANDRASEKHAR|Chandrasekhar)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["S. CHANDRASEKHAR"]
+ ],
+ 43240:["(?<![\\p{L}\\p{N}])(?:FISCHER|Fischer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. P. FISCHER"]],
+ 43241:["(?<![\\p{L}\\p{N}])(?:MCALLISTER|Mcallister)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. W. MCALLISTER"]],
+ 43242:["(?<![\\p{L}\\p{N}])(?:MANNACK|Mannack)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. MANNACK"]],
+ 43243:[
+  "(?<![\\p{L}\\p{N}])(?:DE\\s+MARCO|de\\s+Marco|Marco)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. P. DE MARCO"]
+ ],
+ 43244:["(?<![\\p{L}\\p{N}])(?:PELLEGRINO|Pellegrino)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. D. PELLEGRINO"]],
+ 43245:["(?<![\\p{L}\\p{N}])(?:MAJEED|Majeed)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. B. A. MAJEED"]],
+ 43246:["(?<![\\p{L}\\p{N}])(?:HUGHES|Hughes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. HUGHES"]],
+ 43247:["(?<![\\p{L}\\p{N}])(?:KEOWN|Keown)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. KEOWN"]],
+ 43248:["(?<![\\p{L}\\p{N}])(?:REAGAN|Reagan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. E. REAGAN"]],
+ 43249:["(?<![\\p{L}\\p{N}])(?:PENSLAR|Penslar)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. L. PENSLAR"]],
+ 43250:["(?<![\\p{L}\\p{N}])(?:BROAD|Broad)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BROAD"]],
+ 43251:["(?<![\\p{L}\\p{N}])(?:WADE|Wade)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. WADE"]],
+ 43252:[
+  "(?<![\\p{L}\\p{N}])(?:DI\\s+TROCCHIO|di\\s+Trocchio|Trocchio)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["F. DI TROCCHIO"]
+ ],
+ 43253:["(?<![\\p{L}\\p{N}])(?:FINETTI|Finetti)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. FINETTI"]],
+ 43254:["(?<![\\p{L}\\p{N}])(?:HIMMELRATH|Himmelrath)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. HIMMELRATH"]],
+ 43255:["(?<![\\p{L}\\p{N}])(?:HELDRICH|Heldrich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. HELDRICH"]],
+ 43256:["(?<![\\p{L}\\p{N}])(?:GRENIEWSKI|Greniewski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. GRENIEWSKI"]],
+ 43257:["(?<![\\p{L}\\p{N}])(?:FIEDLER|Fiedler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. FIEDLER"]],
+ 43258:["(?<![\\p{L}\\p{N}])(?:MACKAY|Mackay)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. L. MACKAY"]],
+ 43259:["(?<![\\p{L}\\p{N}])(?:DEDIJER|Dedijer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. DEDIJER"]],
+ 43260:["(?<![\\p{L}\\p{N}])(?:BAITSCH|Baitsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BAITSCH"]],
+ 43261:["(?<![\\p{L}\\p{N}])(?:FLIEDNER|Fliedner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. FLIEDNER"]],
+ 43262:["(?<![\\p{L}\\p{N}])(?:KREUTZKAM|Kreutzkam)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. B. KREUTZKAM"]],
+ 43263:[
+  "(?<![\\p{L}\\p{N}])(?:SPIEGEL-RÖSING|Spiegel-Rösing)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["I. S. SPIEGEL-RÖSING"]
+ ],
+ 43264:["(?<![\\p{L}\\p{N}])(?:PINCH|Pinch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. PINCH"]],
+ 43265:["(?<![\\p{L}\\p{N}])(?:SOKAL|Sokal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. SOKAL"]],
+ 43266:["(?<![\\p{L}\\p{N}])(?:BRICMONT|Bricmont)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. BRICMONT"]],
+ 43267:["(?<![\\p{L}\\p{N}])(?:ZIMAN|Ziman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ZIMAN"]],
+ 43268:["(?<![\\p{L}\\p{N}])(?:BIAGIOLI|Biagioli)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. BIAGIOLI"]],
+ 43269:["(?<![\\p{L}\\p{N}])(?:SARRAZIN|Sarrazin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. SARRAZIN"]],
+ 43270:["(?<![\\p{L}\\p{N}])(?:CLAUSS|Clauss)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F.-J. CLAUSS"]],
+ 43271:["(?<![\\p{L}\\p{N}])(?:SEEBOHM|Seebohm)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. SEEBOHM"]],
+ 43272:["(?<![\\p{L}\\p{N}])(?:STORER|Storer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. W. STORER"]],
+ 43273:["(?<![\\p{L}\\p{N}])(?:PICKERING|Pickering)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. PICKERING"]],
+ 43274:["(?<![\\p{L}\\p{N}])(?:GOLDING|Golding)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. GOLDING"]],
+ 43275:["(?<![\\p{L}\\p{N}])(?:EYRING|Eyring)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. N. EYRING"]],
+ 43276:["(?<![\\p{L}\\p{N}])(?:FLEISCHER|Fleischer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. FLEISCHER"]],
+ 43277:["(?<![\\p{L}\\p{N}])(?:LEWES|Lewes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. LEWES"]],
+ 43278:["(?<![\\p{L}\\p{N}])(?:BOUSSINESQ|Boussinesq)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. BOUSSINESQ"]],
+ 43279:["(?<![\\p{L}\\p{N}])(?:BORDEAU|Bordeau)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. BORDEAU"]],
+ 43280:["(?<![\\p{L}\\p{N}])(?:CLAUBERG|Clauberg)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. CLAUBERG"]],
+ 43281:["(?<![\\p{L}\\p{N}])(?:BLACKMORE|Blackmore)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. T. BLACKMORE"]],
+ 43282:[
+  "(?<![\\p{L}\\p{N}])(?:EGGERS\\s+HANSEN|Eggers\\s+Hansen|Hansen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["T. EGGERS HANSEN"]
+ ],
+ 43283:["(?<![\\p{L}\\p{N}])(?:SARKAG|Sarkag)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. SARKAG"]],
+ 43284:["(?<![\\p{L}\\p{N}])(?:SZUMOWSKI|Szumowski)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. SZUMOWSKI"]],
+ 43285:["(?<![\\p{L}\\p{N}])(?:LOSEE|Losee)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. LOSEE"]],
+ 43286:["(?<![\\p{L}\\p{N}])(?:LAMB|Lamb)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. LAMB"]],
+ 43287:["(?<![\\p{L}\\p{N}])(?:SALMON|Salmon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. H. SALMON"]],
+ 43288:["(?<![\\p{L}\\p{N}])(?:GILLES|Gilles)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. GILLES"]],
+ 43289:["(?<![\\p{L}\\p{N}])(?:CURD|Curd)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. CURD"]],
+ 43290:["(?<![\\p{L}\\p{N}])(?:BALASHOV|Balashov)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Y. BALASHOV"]],
+ 43291:["(?<![\\p{L}\\p{N}])(?:LADYMAN|Ladyman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. LADYMAN"]],
+ 43292:["(?<![\\p{L}\\p{N}])(?:SCHELER|Scheler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. von SCHELER"]],
+ 43293:["(?<![\\p{L}\\p{N}])(?:HITZLER|Hitzler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. HITZLER"]],
+ 43294:["(?<![\\p{L}\\p{N}])(?:MCCARTHY|Mccarthy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. D. MCCARTHY"]],
+ 43295:["(?<![\\p{L}\\p{N}])(?:SWIDLER|Swidler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. SWIDLER"]],
+ 43296:["(?<![\\p{L}\\p{N}])(?:ARDITI|Arditi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ARDITI"]],
+ 43297:["(?<![\\p{L}\\p{N}])(?:SOMERS|Somers)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. R. SOMERS"]],
+ 43298:["(?<![\\p{L}\\p{N}])(?:MCDONALD|Mcdonald)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. J. MCDONALD"]],
+ 43299:["(?<![\\p{L}\\p{N}])(?:FULLER|Fuller)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. FULLER"]],
+ 43300:["(?<![\\p{L}\\p{N}])(?:KUKLICK|Kuklick)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. KUKLICK"]],
+ 43301:["(?<![\\p{L}\\p{N}])(?:MAASEN|Maasen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. MAASEN"]],
+ 43302:["(?<![\\p{L}\\p{N}])(?:FUHRMAN|Fuhrman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. R. FUHRMAN"]],
+ 43303:["(?<![\\p{L}\\p{N}])(?:HEINTZ|Heintz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. HEINTZ"]],
+ 43304:["(?<![\\p{L}\\p{N}])(?:RÖHRICH|Röhrich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. RÖHRICH"]],
+ 43305:["(?<![\\p{L}\\p{N}])(?:KERTSCHER|Kertscher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H.-J. KERTSCHER"]],
+ 43306:["(?<![\\p{L}\\p{N}])(?:HERMINOS|Herminos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["HERMINOS"]],
+ 43307:["(?<![\\p{L}\\p{N}])(?:KORNUTOS|Kornutos)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["KORNUTOS"]],
+ 43308:["(?<![\\p{L}\\p{N}])(?:HERMINUS|Herminus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["HERMINUS"]],
+ 43309:["(?<![\\p{L}\\p{N}])(?:GEORR|Georr)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. GEORR"]],
+ 43310:["(?<![\\p{L}\\p{N}])(?:RIPA|Ripa)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["JOH. de RIPA"]],
+ 43311:["(?<![\\p{L}\\p{N}])(?:ZENZEN|Zenzen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. ZENZEN"]],
+ 43312:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+PAPEN|von\\s+Papen|Papen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["F. VON PAPEN"]
+ ],
+ 43313:["(?<![\\p{L}\\p{N}])(?:MERRIEN|Merrien)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F.-X. MERRIEN"]],
+ 43314:["(?<![\\p{L}\\p{N}])(?:ALBERTIN|Albertin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. ALBERTIN"]],
+ 43315:["(?<![\\p{L}\\p{N}])(?:THANE|Thane)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. THANE"]],
+ 43316:["(?<![\\p{L}\\p{N}])(?:LESSENICH|Lessenich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. LESSENICH"]],
+ 43317:["(?<![\\p{L}\\p{N}])(?:MORTENSEN|Mortensen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. MORTENSEN"]],
+ 43318:["(?<![\\p{L}\\p{N}])(?:HOLLMER|Hollmer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. HOLLMER"]],
+ 43319:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+ALLESCH|von\\s+Allesch|Allesch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. VON ALLESCH"]
+ ],
+ 43320:["(?<![\\p{L}\\p{N}])(?:MÜHLHER|Mühlher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. MÜHLHER"]],
+ 43321:["(?<![\\p{L}\\p{N}])(?:BOHLS|Bohls)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. A. BOHLS"]],
+ 43322:[
+  "(?<![\\p{L}\\p{N}])(?:VANDENABEELE|Vandenabeele)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["B. VANDENABEELE"]
+ ],
+ 43323:["(?<![\\p{L}\\p{N}])(?:RUBIN|Rubin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. RUBIN"]],
+ 43324:["(?<![\\p{L}\\p{N}])(?:BOLTZ|Boltz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. BOLTZ"]],
+ 43325:["(?<![\\p{L}\\p{N}])(?:FRISIUS|Frisius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. FRISIUS"]],
+ 43326:["(?<![\\p{L}\\p{N}])(?:SCHAEFER|Schaefer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. D. SCHAEFER"]],
+ 43327:[
+  "(?<![\\p{L}\\p{N}])(?:FUNG\\s+YULAN|Fung\\s+Yulan|Yulan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["FUNG YULAN"]
+ ],
+ 43328:["(?<![\\p{L}\\p{N}])(?:PERKAMS|Perkams)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. PERKAMS"]],
+ 43329:["(?<![\\p{L}\\p{N}])(?:EMMERICH|Emmerich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. EMMERICH"]],
+ 43330:["(?<![\\p{L}\\p{N}])(?:CARTER|Carter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. C. CARTER"]],
+ 43331:["(?<![\\p{L}\\p{N}])(?:DINWIDDY|Dinwiddy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. R. DINWIDDY"]],
+ 43332:["(?<![\\p{L}\\p{N}])(?:ALTHOF|Althof)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. ALTHOF"]],
+ 43333:[
+  "(?<![\\p{L}\\p{N}])(?:SPIELTHENNER|Spielthenner)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["G. SPIELTHENNER"]
+ ],
+ 43334:["(?<![\\p{L}\\p{N}])(?:FELDMAN|Feldman)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. FELDMAN"]],
+ 43335:["(?<![\\p{L}\\p{N}])(?:PROBST|Probst)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. PROBST"]],
+ 43336:["(?<![\\p{L}\\p{N}])(?:SCHÄDLICH|Schädlich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. SCHÄDLICH"]],
+ 43337:[
+  "(?<![\\p{L}\\p{N}])(?:DE\\s+MICHELIS|de\\s+Michelis|Michelis)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. DE MICHELIS"]
+ ],
+ 43338:["(?<![\\p{L}\\p{N}])(?:FLAGGE|Flagge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["I. FLAGGE"]],
+ 43339:["(?<![\\p{L}\\p{N}])(?:BREUNINGER|Breuninger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BREUNINGER"]],
+ 43340:[
+  "(?<![\\p{L}\\p{N}])(?:VANDER\\s+KERKEN|Vander\\s+Kerken|Kerken)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["L. VANDER KERKEN"]
+ ],
+ 43341:[
+  "(?<![\\p{L}\\p{N}])(?:CONRADS|Conrads|CONRAD|Conrad)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["U. CONRADS"]
+ ],
+ 43342:["(?<![\\p{L}\\p{N}])(?:WIELENS|Wielens)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. WIELENS"]],
+ 43343:["(?<![\\p{L}\\p{N}])(?:BRÜSTLE|Brüstle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. BRÜSTLE"]],
+ 43344:["(?<![\\p{L}\\p{N}])(?:KÄHLER|Kähler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. KÄHLER"]],
+ 43345:["(?<![\\p{L}\\p{N}])(?:NEUKIRCH|Neukirch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. NEUKIRCH"]],
+ 43346:[
+  "(?<![\\p{L}\\p{N}])(?:HOFMANNSWALDAUS|Hofmannswaldaus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["HOFMANNSWALDAUS"]
+ ],
+ 43347:["(?<![\\p{L}\\p{N}])(?:ARTAUD|Artaud)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. ARTAUD"]],
+ 43348:["(?<![\\p{L}\\p{N}])(?:REININGER|Reininger)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. REININGER"]],
+ 43349:["(?<![\\p{L}\\p{N}])(?:PLATYNA|Platyna)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. PLATYNA"]],
+ 43350:["(?<![\\p{L}\\p{N}])(?:JOSSIUS|Jossius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["N. JOSSIUS"]],
+ 43351:["(?<![\\p{L}\\p{N}])(?:KORTHOLD|Korthold)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CH. KORTHOLD"]],
+ 43352:[
+  "(?<![\\p{L}\\p{N}])(?:KIERMEIER-DEBRE|Kiermeier-Debre)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. KIERMEIER-DEBRE"]
+ ],
+ 43353:["(?<![\\p{L}\\p{N}])(?:VOGEL|Vogel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. F. VOGEL"]],
+ 43354:[
+  "(?<![\\p{L}\\p{N}])(?:MARGOTELLE\\s+DE\\s+ST\\.\\s+EVREMONT|Margotelle\\s+de\\s+St\\.\\s+Evremont|Evremont)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["CH. MARGOTELLE de ST. EVREMONT"]
+ ],
+ 43355:[
+  "(?<![\\p{L}\\p{N}])(?:MENDELSSOHN|Mendelssohn)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["P. de MENDELSSOHN"]
+ ],
+ 43356:["(?<![\\p{L}\\p{N}])(?:WALTER|Walter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. WALTER"]],
+ 43357:["(?<![\\p{L}\\p{N}])(?:STOA|Stoa)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["der STOA"]],
+ 43358:["(?<![\\p{L}\\p{N}])(?:WORT|Wort)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["WORT"]],
+ 43359:["(?<![\\p{L}\\p{N}])(?:JOHANSEN|Johansen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. F. JOHANSEN"]],
+ 43360:["(?<![\\p{L}\\p{N}])(?:PENNISI|Pennisi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. PENNISI"]],
+ 43361:["(?<![\\p{L}\\p{N}])(?:LINKE|Linke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. LINKE"]],
+ 43362:["(?<![\\p{L}\\p{N}])(?:PORTMANN|Portmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. R. PORTMANN"]],
+ 43363:["(?<![\\p{L}\\p{N}])(?:HILL|Hill)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. A. HILL"]],
+ 43364:["(?<![\\p{L}\\p{N}])(?:ALZECHY|Alzechy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Z. ALZECHY"]],
+ 43365:["(?<![\\p{L}\\p{N}])(?:BEUTEL|Beutel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. BEUTEL"]],
+ 43366:["(?<![\\p{L}\\p{N}])(?:GLAEDE|Glaede)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. GLAEDE"]],
+ 43367:["(?<![\\p{L}\\p{N}])(?:MOUSTAKAS|Moustakas)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. MOUSTAKAS"]],
+ 43368:["(?<![\\p{L}\\p{N}])(?:REGEHLY|Regehly)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. REGEHLY"]],
+ 43369:["(?<![\\p{L}\\p{N}])(?:BUNTFUSS|Buntfuss)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. BUNTFUSS"]],
+ 43370:["(?<![\\p{L}\\p{N}])(?:JOHNSON|Johnson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. D. JOHNSON"]],
+ 43371:["(?<![\\p{L}\\p{N}])(?:SCHACHTEN|Schachten)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. SCHACHTEN"]],
+ 43372:["(?<![\\p{L}\\p{N}])(?:PINTARIC|Pintaric)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. PINTARIC"]],
+ 43373:["(?<![\\p{L}\\p{N}])(?:SCHOCH|Schoch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. SCHOCH"]],
+ 43374:["(?<![\\p{L}\\p{N}])(?:FÜHRER|Führer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. FÜHRER"]],
+ 43375:["(?<![\\p{L}\\p{N}])(?:BAUDLER|Baudler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. BAUDLER"]],
+ 43376:["(?<![\\p{L}\\p{N}])(?:DENECKE|Denecke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. DENECKE"]],
+ 43377:["(?<![\\p{L}\\p{N}])(?:VOLLRATH|Vollrath)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. VOLLRATH"]],
+ 43378:["(?<![\\p{L}\\p{N}])(?:GOEBEL|Goebel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TH. GOEBEL"]],
+ 43379:[
+  "(?<![\\p{L}\\p{N}])(?:NICOLAUS\\s+TINCTOR|Nicolaus\\s+Tinctor|Tinctor)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["NICOLAUS TINCTOR"]
+ ],
+ 43380:["(?<![\\p{L}\\p{N}])(?:BORGNET|Borgnet)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. C. A. BORGNET"]],
+ 43381:["(?<![\\p{L}\\p{N}])(?:ALONSO|Alonso)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. A. ALONSO"]],
+ 43382:[
+  "(?<![\\p{L}\\p{N}])(?:RICHARD\\s+OF\\s+CAMPSALL|Richard\\s+of\\s+Campsall|Campsall)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["RICHARD of CAMPSALL"]
+ ],
+ 43383:["(?<![\\p{L}\\p{N}])(?:FRÖLING|Fröling)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. M. FRÖLING"]],
+ 43384:["(?<![\\p{L}\\p{N}])(?:GÉRUZEZ|Géruzez)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. GÉRUZEZ"]],
+ 43385:[
+  "(?<![\\p{L}\\p{N}])(?:CARDAILLAC|Cardaillac)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["J. J. S. de CARDAILLAC"]
+ ],
+ 43386:["(?<![\\p{L}\\p{N}])(?:STRICKER|Stricker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. STRICKER"]],
+ 43387:["(?<![\\p{L}\\p{N}])(?:NETTER|Netter)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. NETTER"]],
+ 43388:["(?<![\\p{L}\\p{N}])(?:TUMLIRZ|Tumlirz)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. TUMLIRZ"]],
+ 43389:["(?<![\\p{L}\\p{N}])(?:KING|King)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. KING"]],
+ 43390:["(?<![\\p{L}\\p{N}])(?:LOEWER|Loewer)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. LOEWER"]],
+ 43391:["(?<![\\p{L}\\p{N}])(?:MALONEY|Maloney)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. C. MALONEY"]],
+ 43392:["(?<![\\p{L}\\p{N}])(?:NORMORE|Normore)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. G. NORMORE"]],
+ 43393:["(?<![\\p{L}\\p{N}])(?:GUETTI|Guetti)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. GUETTI"]],
+ 43394:["(?<![\\p{L}\\p{N}])(?:PUJIA|Pujia)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. PUJIA"]],
+ 43395:["(?<![\\p{L}\\p{N}])(?:DUTT|Dutt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. DUTT"]],
+ 43396:["(?<![\\p{L}\\p{N}])(?:WENGELER|Wengeler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. WENGELER"]],
+ 43397:["(?<![\\p{L}\\p{N}])(?:MCDONALD|Mcdonald)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. H. MCDONALD"]],
+ 43398:["(?<![\\p{L}\\p{N}])(?:ROSS|Ross)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M.-M. ROSS"]],
+ 43399:["(?<![\\p{L}\\p{N}])(?:BRODERSEN|Brodersen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. BRODERSEN"]],
+ 43400:["(?<![\\p{L}\\p{N}])(?:PLÜMACHER|Plümacher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. PLÜMACHER"]],
+ 43401:["(?<![\\p{L}\\p{N}])(?:KAYSER|Kayser)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. L. KAYSER"]],
+ 43402:[
+  "(?<![\\p{L}\\p{N}])(?:LEO\\s+BYZANTIUS|Leo\\s+Byzantius|Byzantius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["LEO BYZANTIUS"]
+ ],
+ 43403:["(?<![\\p{L}\\p{N}])(?:TANGANAGBA|Tanganagba)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. TANGANAGBA"]],
+ 43404:["(?<![\\p{L}\\p{N}])(?:REMUS|Remus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. REMUS"]],
+ 43405:["(?<![\\p{L}\\p{N}])(?:CAVADINI|Cavadini)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. C. CAVADINI"]],
+ 43406:["(?<![\\p{L}\\p{N}])(?:MOSETTO|Mosetto)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. MOSETTO"]],
+ 43407:["(?<![\\p{L}\\p{N}])(?:WARD|Ward)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. WARD"]],
+ 43408:["(?<![\\p{L}\\p{N}])(?:HEINZELMANN|Heinzelmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. HEINZELMANN"]],
+ 43409:["(?<![\\p{L}\\p{N}])(?:BLUMENTHAL|Blumenthal)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. R. BLUMENTHAL"]],
+ 43410:["(?<![\\p{L}\\p{N}])(?:KREISEL|Kreisel)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. KREISEL"]],
+ 43411:[
+  "(?<![\\p{L}\\p{N}])(?:COHN-SHERBOK|Cohn-Sherbok)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["D. COHN-SHERBOK"]
+ ],
+ 43412:["(?<![\\p{L}\\p{N}])(?:LEMNIUS|Lemnius)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["L. LEMNIUS"]],
+ 43413:["(?<![\\p{L}\\p{N}])(?:CÉARD|Céard)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. CÉARD"]],
+ 43414:["(?<![\\p{L}\\p{N}])(?:HABERMAS|Habermas)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. HABERMAS"]],
+ 43415:["(?<![\\p{L}\\p{N}])(?:HINE|Hine)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. L. HINE"]],
+ 43416:["(?<![\\p{L}\\p{N}])(?:CHALLE|Challe)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. CHALLE"]],
+ 43417:[
+  "(?<![\\p{L}\\p{N}])(?:MENEMENCIOGLU|Menemencioglu)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. MENEMENCIOGLU"]
+ ],
+ 43418:["(?<![\\p{L}\\p{N}])(?:WAINWRIGHT|Wainwright)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. WAINWRIGHT"]],
+ 43419:["(?<![\\p{L}\\p{N}])(?:CASTILLON|Castillon)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["CASTILLON"]],
+ 43420:["(?<![\\p{L}\\p{N}])(?:MÜLLER|Müller)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. J. MÜLLER"]],
+ 43421:["(?<![\\p{L}\\p{N}])(?:GEBHARDI|Gebhardi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["C. A. GEBHARDI"]],
+ 43422:["(?<![\\p{L}\\p{N}])(?:BUCKLE|Buckle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. BUCKLE"]],
+ 43423:["(?<![\\p{L}\\p{N}])(?:HOUSTON|Houston)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. HOUSTON"]],
+ 43424:["(?<![\\p{L}\\p{N}])(?:MUNCKER|Muncker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. MUNCKER"]],
+ 43425:["(?<![\\p{L}\\p{N}])(?:OTTE|Otte)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. OTTE"]],
+ 43426:["(?<![\\p{L}\\p{N}])(?:SUHL|Suhl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. SUHL"]],
+ 43427:["(?<![\\p{L}\\p{N}])(?:KAHL|Kahl)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["W. KAHL"]],
+ 43428:["(?<![\\p{L}\\p{N}])(?:LATOURNELLE|Latournelle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. LATOURNELLE"]],
+ 43429:["(?<![\\p{L}\\p{N}])(?:LOMMATZSCH|Lommatzsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. LOMMATZSCH"]],
+ 43430:["(?<![\\p{L}\\p{N}])(?:ARENDT|Arendt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. R. ARENDT"]],
+ 43431:["(?<![\\p{L}\\p{N}])(?:KOLLMANN|Kollmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. KOLLMANN"]],
+ 43432:["(?<![\\p{L}\\p{N}])(?:HERRICK|Herrick)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. T. HERRICK"]],
+ 43433:["(?<![\\p{L}\\p{N}])(?:AGUZZI|Aguzzi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. AGUZZI"]],
+ 43434:["(?<![\\p{L}\\p{N}])(?:BOSSU|Bossu)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. le BOSSU"]],
+ 43435:["(?<![\\p{L}\\p{N}])(?:ROELENS|Roelens)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. ROELENS"]],
+ 43436:["(?<![\\p{L}\\p{N}])(?:TORBRUEGGE|Torbruegge)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["M. K. TORBRUEGGE"]],
+ 43437:["(?<![\\p{L}\\p{N}])(?:JENSEN|Jensen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. J. JENSEN"]],
+ 43438:["(?<![\\p{L}\\p{N}])(?:DURST|Durst)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["U. DURST"]],
+ 43439:["(?<![\\p{L}\\p{N}])(?:WILLIAMS|Williams)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. WILLIAMS"]],
+ 43440:["(?<![\\p{L}\\p{N}])(?:BERTHELOT|Berthelot)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. BERTHELOT"]],
+ 43441:["(?<![\\p{L}\\p{N}])(?:JEHMLICH|Jehmlich)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. JEHMLICH"]],
+ 43442:["(?<![\\p{L}\\p{N}])(?:ZONDERGELD|Zondergeld)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. ZONDERGELD"]],
+ 43443:["(?<![\\p{L}\\p{N}])(?:STERN|Stern)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. N. STERN"]],
+ 43444:["(?<![\\p{L}\\p{N}])(?:MARKS|Marks)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. MARKS"]],
+ 43445:["(?<![\\p{L}\\p{N}])(?:EGONSSON|Egonsson)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["D. EGONSSON"]],
+ 43446:["(?<![\\p{L}\\p{N}])(?:SCHÜLER|Schüler)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. F. SCHÜLER"]],
+ 43447:["(?<![\\p{L}\\p{N}])(?:JAMES|James)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["S. JAMES"]],
+ 43448:["(?<![\\p{L}\\p{N}])(?:MILLGRAM|Millgram)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. MILLGRAM"]],
+ 43449:["(?<![\\p{L}\\p{N}])(?:SCHÄLIKE|Schälike)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. SCHÄLIKE"]],
+ 43450:["(?<![\\p{L}\\p{N}])(?:DAMASUS|Damasus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["DAMASUS"]],
+ 43451:["(?<![\\p{L}\\p{N}])(?:SEECK|Seeck)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["O. SEECK"]],
+ 43452:["(?<![\\p{L}\\p{N}])(?:COMMICHAU|Commichau)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. COMMICHAU"]],
+ 43453:["(?<![\\p{L}\\p{N}])(?:MURPHY|Murphy)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. MURPHY"]],
+ 43454:["(?<![\\p{L}\\p{N}])(?:SALADIN|Saladin)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. SALADIN"]],
+ 43455:["(?<![\\p{L}\\p{N}])(?:TEUTSCH|Teutsch)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. M. TEUTSCH"]],
+ 43456:[
+  "(?<![\\p{L}\\p{N}])(?:SITTER-LIVER|Sitter-Liver)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["B. SITTER-LIVER"]
+ ],
+ 43457:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+DER\\s+PFORDTEN|von\\s+der\\s+Pfordten|Pfordten)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["VON der PFORDTEN"]
+ ],
+ 43458:["(?<![\\p{L}\\p{N}])(?:BARANZKE|Baranzke)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["H. BARANZKE"]],
+ 43459:["(?<![\\p{L}\\p{N}])(?:PICKER|Picker)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. PICKER"]],
+ 43460:[
+  "(?<![\\p{L}\\p{N}])(?:LAURENTIUS\\s+ALBERTUS|Laurentius\\s+Albertus|Albertus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["LAURENTIUS ALBERTUS"]
+ ],
+ 43461:["(?<![\\p{L}\\p{N}])(?:PÂNINI|Pânini)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["PÂNINI"]],
+ 43462:[
+  "(?<![\\p{L}\\p{N}])(?:MÜLLER-FRAUREUTH|Müller-Fraureuth)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["C. MÜLLER-FRAUREUTH"]
+ ],
+ 43463:["(?<![\\p{L}\\p{N}])(?:GÜTZLAFF|Gützlaff)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["K. GÜTZLAFF"]],
+ 43464:["(?<![\\p{L}\\p{N}])(?:GARDT|Gardt)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. GARDT"]],
+ 43465:["(?<![\\p{L}\\p{N}])(?:NEUHAUS|Neuhaus)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["G. M. NEUHAUS"]],
+ 43466:["(?<![\\p{L}\\p{N}])(?:KAEMPF|Kaempf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. KAEMPF"]],
+ 43467:["(?<![\\p{L}\\p{N}])(?:ZÜRCHER|Zürcher)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. ZÜRCHER"]],
+ 43468:["(?<![\\p{L}\\p{N}])(?:REICHWEIN|Reichwein)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. REICHWEIN"]],
+ 43469:[
+  "(?<![\\p{L}\\p{N}])(?:LIU\\s+XIAOGAN|Liu\\s+Xiaogan|Xiaogan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["LIU XIAOGAN"]
+ ],
+ 43470:[
+  "(?<![\\p{L}\\p{N}])(?:ROETZ\\s+AMES|Roetz\\s+Ames|Ames)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["R. T. H. ROETZ AMES"]
+ ],
+ 43471:[
+  "(?<![\\p{L}\\p{N}])(?:CSIKSZENTMIHALYI|Csikszentmihalyi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["M. CSIKSZENTMIHALYI"]
+ ],
+ 43472:["(?<![\\p{L}\\p{N}])(?:IVANHOE|Ivanhoe)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["P. J. IVANHOE"]],
+ 43473:["(?<![\\p{L}\\p{N}])(?:GASSMANN|Gassmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["R. GASSMANN"]],
+ 43474:["(?<![\\p{L}\\p{N}])(?:DENISSOFF|Denissoff)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. DENISSOFF"]],
+ 43475:["(?<![\\p{L}\\p{N}])(?:WOLF|Wolf)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["T. WOLF"]],
+ 43476:["(?<![\\p{L}\\p{N}])(?:INGOLD|Ingold)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["F. P. INGOLD"]],
+ 43477:["(?<![\\p{L}\\p{N}])(?:MATTÉI|Mattéi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["J. F. MATTÉI"]],
+ 43478:["(?<![\\p{L}\\p{N}])(?:DÜTTMANN|Düttmann)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. G. DÜTTMANN"]],
+ 43479:["(?<![\\p{L}\\p{N}])(?:HANSEN-LÖW|Hansen-Löw)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. A. HANSEN-LÖW"]],
+ 43480:["(?<![\\p{L}\\p{N}])(?:SCHEIFFELE|Scheiffele)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["E. SCHEIFFELE"]],
+ 43481:["(?<![\\p{L}\\p{N}])(?:SHIJICHIJI|Shijichiji)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Y. SHIJICHIJI"]],
+ 43482:["(?<![\\p{L}\\p{N}])(?:BRODERSEN|Brodersen)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["A. BRODERSEN"]],
+ 43483:["(?<![\\p{L}\\p{N}])(?:LADWIG|Ladwig)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. LADWIG"]],
+ 43484:["(?<![\\p{L}\\p{N}])(?:NAKAMURA|Nakamura)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["Y. NAKAMURA"]],
+ 43485:["(?<![\\p{L}\\p{N}])(?:JOSTES|Jostes)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["B. JOSTES"]],
+ 43486:["(?<![\\p{L}\\p{N}])(?:VYSA|Vysa)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["VYSA"]],
+ 43487:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+KEYSERLINGS|von\\s+Keyserlings|Keyserlings)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["H. VON KEYSERLINGS"]
+ ],
+ 43488:[
+  "(?<![\\p{L}\\p{N}])(?:MUCKENSTURM-POULLE|Muckensturm-Poulle)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["C. MUCKENSTURM-POULLE"]
+ ],
+ 43489:[
+  "(?<![\\p{L}\\p{N}])(?:SCHELLLING|Schellling)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["F. W. J. SCHELLLING"]
+ ],
+ 43490:[
+  "(?<![\\p{L}\\p{N}])(?:VON\\s+KEYSERLING|von\\s+Keyserling|Keyserling)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["H. VON KEYSERLING"]
+ ],
+ 43491:["(?<![\\p{L}\\p{N}])(?:GANESHAN|Ganeshan)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["V. GANESHAN"]],
+ 43492:[
+  "(?<![\\p{L}\\p{N}])(?:DENGYÔ\\s+DAISHI|Dengyô\\s+Daishi|Daishi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",
+  ["DENGYÔ DAISHI"]
+ ],
+ 43493:["(?<![\\p{L}\\p{N}])(?:YOSHIMOCHI|Yoshimochi)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["YOSHIMOCHI"]],
+ 43494:["(?<![\\p{L}\\p{N}])(?:MIBU|Mibu)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["MIBU"]],
+ 43495:["(?<![\\p{L}\\p{N}])(?:TADAMINE|Tadamine)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TADAMINE"]],
+ 43496:["(?<![\\p{L}\\p{N}])(?:SHUNZEI|Shunzei)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SHUNZEI"]],
+ 43497:["(?<![\\p{L}\\p{N}])(?:TEIKA|Teika)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TEIKA"]],
+ 43498:["(?<![\\p{L}\\p{N}])(?:TSURAYUKI|Tsurayuki)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["TSURAYUKI"]],
+ 43499:["(?<![\\p{L}\\p{N}])(?:SHÔTETSU|Shôtetsu)(?:s|S|'|’)?(?![\\p{L}\\p{N}])",["SHÔTETSU"]]
+}
+);

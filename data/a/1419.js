@@ -1,0 +1,27 @@
+HWPH.put("a/1419",
+{
+ "id":1419,
+ "lemma":"Individualurteil",
+ "band":"4",
+ "kind":"article",
+ "col_from":295,
+ "col_to":295,
+ "pdf_from":12293,
+ "pdf_to":12293,
+ "authors":["A. Menne"],
+ "n_notes":1,
+ "n_chars":211,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Individualurteil wird 1. im Sinne von <a class=\"xref\" href=\"#/a/1413\">‹Individualaussage›</a> <span class=\"sd\">→ (s.d.)</span> gebraucht sowie 2. die Behauptung einer Individualaussage genannt und steht dann für ‹singuläres Urteil› <sup class=\"fn\" data-fn=\"0-1\">1</sup> oder ‹Einzelurteil›.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. Art. <a class=\"xref\" href=\"#/a/2887\">→ Singulär</a>.</li>\n</ol>",
+ "prev":{"id":1418,"lemma":"Individualpsychologie","band":"4","col":291},
+ "next":{"id":1420,"lemma":"Individuation, Individuationsprinzip","band":"4","col":296},
+ "backlinks":[],
+ "outlinks":[{"id":1413,"lemma":"Individualaussage","n":1},{"id":2887,"lemma":"Singulär","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":696,"lemma":"Einzelurteil"},{"id":1413,"lemma":"Individualaussage"}],
+ "groups":[{"id":22,"name":"Logik","label":"Individualurteil"}],
+ "reg_authors":[{"name":"Hüllen Jürgen","n":7},{"name":"Menne Albert","n":61}]
+}
+);

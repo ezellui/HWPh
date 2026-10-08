@@ -1,0 +1,38 @@
+HWPH.put("t/2653",
+{
+ "b":"Rehabilitation der Materie (des Fleisches). Die Forderung nach einer R.d.M. (d.F.) wendet sich gegen eine einseitige Auslegung des paulinischen Antagonismus von Fleisch und Geist sowie gegen eine enggeführte Deutungstradition der residual-manichäischen Konkupiszenzlehre von Augustinus. Gegen die asketische Fleischesverachtung in Verbindung mit einer rigiden Sündenlehre hatten bereits in der Patristik gewisse gnostische Sekten (Kanaiten , Nikolaiten ), im Mittelalter die Brüder vom freien Geiste und während der Reformation die westfälischen Wiedertäufer opponiert. Begrifflich faßbar wird die R.d.M. (d.F.) (réhabilitation de la chair) als zentraler Programmpunkt der Saint-Simonisten. \nWiewohl das Stichwort in der pazifistischen Sozialutopie und diesseitigen Wissenschaftsreligion von C.-H. de ROUVROY, Comte de SAINT-SIMON, einzig implizit enthalten war, gewinnt es in der dezidiert religiösen Umprägung der Gesellschaftslehre durch seine Anhänger den Status eines Schlüsselbegriffs: Als «saint-simonistisches Dogma» lehrt B.-P. ENFANTIN die «lebendige Einheit» («union vivante») von Geist und Stoff, die sich in der leiblichen Liebe zwischen Mann und Frau manifestiere. E. BARRAULT verkündet die «Weihe des Stoffes» («consécration de la matière») . A. TRANSON proklamiert die «Wiedereinsetzung der Bedürfnisse und der Freuden des Fleisches» («la réhabilitation des besoins et des jouissances de la chair») . Die geforderte ‘Erhebung des Fleischesʼ durch die Aufhebung der bürgerlichen Ehe und die Abschaffung der Prostitution zielt u.a. auf die Emanzipation der Frau . \nDie saint-simonistische Doktrin einer R.d.M. (d.F.) wird von H. HEINE zeitweilig aufgenommen und in eine sozial-revolutionäre Prophetie transponiert. Er deutet die deutsche Religions- und Philosophiegeschichte als Opposition des ‘Sensualismusʼ, der «ein Rehabilitiren der Materie bezweckt und den Sinnen ihre Rechte vindizirt», gegen den vorherrschenden ‘Spiritualismusʼ, der aufgrundeines Primates des Geistes «die Materie zu zertreten» sucht. Da aus der überkommenen christlichen Abwertung des Fleisches Heuchelei, Lüge und Sünde entstanden seien, gelte es in Zukunft «die Rehabilitazion der Materie, die Wiedereinsetzung derselben in ihre Würde» zu erreichen, namentlich in einer Ästhetik, welche Kunst als Versinnbildlichung jener ‘Doktrinʼ begriffe, «die den Menschen vielmehr schon auf dieser Erde beseligen möchte, und die sinnliche Welt eben so heilig achtet wie die geistige» . \nDie von Heine inaugurierte Vernichtung des «Zweyerley» und die Beendigung der «Leiberquälerey» begegnet leitmotivisch in F. NIETZSCHES «Fluch auf das Christenthum» . Die ‘Sündeʼ wird ‘psychologischʼ als historisches Phänomen, d.h. als Perversion des Bewußtseins durch das Christentum entlarvt. Entgegen einer «Verachtung des Leibes» und einer asketischen Abtötung der Sinne rät Nietzsche zu Gesundung, Stärkung und «Unschuld der Sinne» . – Auch in der hermetischen Dichtung von S. GEORGE wird das saint-simonistische Programm einer R.d.M. (d.F.) aufgenommen; die Formel «Den leib vergottet und den gott verleibt» spiegelt den Grundsatz Enfantins wider. \nHeines pantheistisches Plädoyer für die Leibesemanzipation wird von K. ROSENKRANZ kritisch diskutiert; er weist auf die Gefahr hin, daß die grenzenlose Befreiung des Fleisches in eine ‘Verknechtungʼ des Geistes umschlagen könnte. Mit der Position Nietzsches und der Lehre der Saint-Simonisten setzt sich W. SOLOWJEW kritisch auseinander, indem er den Vorrang des Geistes aus der Hinordnung der Materie auf den Geist expliziert: «die Materie hat ein Recht auf ihre Vergeistigung» . Aus dem sexuellen Libertinismus und dem faktischen Niedergang der Saint-Simonisten könne abgelesen werden, daß eine einseitige Akzentuierung der materiellen Seite des menschlichen Lebens die «Entfremdung gegenüber den höchsten geistigen Interessen» und den sittlichen Grundvorstellungen zeitige.",
+ "n":"Vgl. H. JONAS: Gnosis und spätant. Geist 1 (31964) 200f. 237. \na.O. 307. \nR. GUARNIERI: Il movimento del libero spirito. Archivio ital. Storia Pietà 4 (1965) 351–708. \nVgl. R. van DÜLMEN: Reformation als Revolution (1977) 169–370. \nC.-H. de SAINT-SIMON: Nouveau christianisme. Oeuvres 3 [Ed. Anthropos] (Paris 1966) 153. \nExposition de la doctrine II. Oeuvres de Saint-Simon et d'Enfantin (Paris 1865–78, ND 1964) 42, 291–293. \nOeuvr. ... 45, 223. \na.O. 43, 526–552. \n45, 362. \nVgl. M. THIBERT: Le féminisme dans le socialisme français de 1830 à 1850 (Paris 1926) 9–67. \nH. HEINE: Hist.-krit. Ges.ausg., hg. M. WINDFUHR (1975ff.) 8/2, 530–533. \nZur Gesch. der Relig. und Philos. in Deutschland, a.O. 8/1, 49. \na.O. 60. \nFranzös. Maler, a.O. 12/1, 34. \nSeraphine, a.O. 2, 34. \nF. NIETZSCHE: Der Antichrist (1888). Krit. Ges.ausg., hg. G. COLLI/M. MONTINARI (1967ff.) 6/3, 163. \nNr. 56, a.O. 237. \nAlso sprach Zarathustra 1: Von der Keuschheit (1883), a.O. 6/1, 65. \nS. GEORGE: Der siebente Ring (1907). Sämtl. Werke, hg. G. P. LANDMANN 6/7 (1931, ND 1986) 53. \nK. ROSENKRANZ: Die Emanzipation des Fleisches. Neue Stud. 1: Stud. zur Culturgesch. (1875) 1–10. \nW. SOLOWJEW: Die Rechtfertigung des Guten. Eine Moralphilos. [1897–99]. Dtsch. Ges.ausg. hg. W. SZYLARSKI u.a. 5 (1976) 22–25. \na.O. 479f. \n480. \na. O.",
+ "l":"E. M. BUTLER: The Saint-Simonian religion in Germany (Cambridge 1926, ND New York 1968). – J. WALCH: Bibliogr. du saint-simonisme (Paris 1967). – M. WINDFUHR (Hg.): Int. Heine-Kongreß 1972 (1973) 259–345. – D. STERNBERGER: H. Heine und die Abschaffung der Sünde (1976). – C. WAGNER: Die R.d.M., in: Materie im MA (Fribourg 1986) 193–210.",
+ "au":"C. Wagner",
+ "A":["C. Wagner"],
+ "cb":[[0,495],[692,495],[1579,495],[2467,495],[2602,496],[3121,496]],
+ "cn":[
+  [0,495],
+  [0,496],
+  [63,496],
+  [74,496],
+  [168,496],
+  [232,496],
+  [322,496],
+  [428,496],
+  [449,496],
+  [468,496],
+  [478,496],
+  [571,496],
+  [645,496],
+  [710,496],
+  [720,496],
+  [752,496],
+  [776,496],
+  [877,496],
+  [896,496],
+  [965,496],
+  [1060,496],
+  [1158,496],
+  [1286,496],
+  [1298,496],
+  [1304,496]
+ ],
+ "cl":[[0,496]]
+}
+);

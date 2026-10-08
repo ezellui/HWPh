@@ -1,0 +1,24 @@
+HWPH.put("t/131",
+{
+ "b":"Anamnese (von griech. ἀνάμνησις, die Erinnerung, das Erinnern) bedeutet im heutigen medizinischen Sprachgebrauch das Ergebnis ärztlicher Befragung des Kranken nach der Vorgeschichte der in Frage stehenden Krankheit, darüber hinaus nach der somatischen und nötigenfalls auch der psychischen Lebensgeschichte des Kranken. \nDiese sich gegenseitig ergänzende Krankheits- und Krankengeschichte ist erst in der Frühgeschichte der Klinik (Leiden und Wien, 17./18. Jh.) zum geforderten Bestandteil der diagnostischen Tätigkeit geworden. \nDer im ‹Corpus Hippocraticum› geschilderte Arzt fragt seinen Kranken nicht systematisch, sondern nur gelegentlich, und seine A. (den Terminus verwenden die antiken Ärzte nicht) ist nicht der Bericht des Kranken, sondern eine subjektive Meinung des Arztes. Sie dient weniger der Diagnose als der Prognose. Sie ist aus der Krankengeschichte, wie der Arzt sie epikritisch gibt, nicht herauszulösen. Die einzige Stelle im ‹Corpus Hippocraticum›, die eine Anweisung an den Arzt enthält, eine A. im späteren Begriffssinn zu erheben, findet sich in ‹Die Leiden› . Daß einer so verstandenen A. praktische Schwierigkeiten entgegenstehen, wußte schon der althippokratische Arzt . Die erste ausschließlich der A. gewidmete Schrift ist RUPHOS' ‹Fragen des Arztes an den Kranken› . Über ihre Bedeutung herrscht in der Medizinhistorik keine Einigkeit (Steudel; Müller). \nIm lateinischen Mittelalter spielte die A. offenbar keine Rolle als diagnostisch-prognostisches Hilfsmittel . RHAZES dagegen scheint sie im Sinne von Rhuphos verwendet zu haben ; er prangert ausdrücklich die Praktik an, durch eine A. aus dem Mund Dritter den Patienten mit vermeintlicher ärztlicher Erkenntnis zu verblüffen. Aus der frühen Consilienliteratur hebt sich I. B. MONTANUS (posthum 1559) mit der Forderung heraus, der Arzt müsse «... mit dem Kranken selbst sprechen», um alles zu erfahren, «was für die Erkennung der Krankheit wichtig ist». Hier ist der Begriff der A. (das Wort wird noch nicht gebraucht) zum erstenmal deutlich mit dem der Diagnose verknüpft. H. CAPIVACCIO (posthum 1603) und A. POSSEVINUS (1603) geben erste Monographien (‹Methodus interrogandi aegrotos›). Diese pressen die A. in ein dogmatisches Lehrschema, die A. wird zur «gezielten A.». \nBOERHAAVE (1738) stellt in seinen klassischen Krankengeschichten die «Narratio» als chronologisch geordnete biographische A. dem – wesentlich kürzeren – eigentlichen Untersuchungsbefund voran. Dem steht im 18. Jh. bei Anhängern G. E. STAHLS (z.B. MICHAEL ALBERTI 1724) eine «Confessio aegri erga medicum» entgegen, im Sinne einer Ohrenbeichte, «weil feststeht, daß der Mensch für seine Sünden irgendwann krank wird». Meist wird die A. im ausgehenden Barock jedoch der Pathologie zugerechnet; sie ist geradezu ein Synonym für die Vorgeschichte der Krankheit, «wobei es relativ gleichgültig ist, auf welche Weise die Kenntnis um die Vorgeschichte erlangt wird, ob aus Fragen oder aus anamnestischen Zeichen, Symptomen» . In der DIDEROTschen ‹Encyclopédie› gehören die «signes anamnestiques» zur (als Terminus in der Ausgabe 21778 eingeführten) Semeiotik, gleichbewertet mit den diagnostischen und den prognostischen Zeichen . Die deutsche medizinische Literatur der Aufklärungszeit kennt einige Monographien zur Praktik des «Krankenexamens». In ihm sind gelegentlich die A. in unserem Sinne und eine kathartische Selbstdarstellung des Kranken miteinander verwoben , Auch sind A. und «Status praesens» im Sinne der modernen Krankengeschichte noch nicht klar voneinander getrennt. Dies wird in scharfem Gegensatz dazu von der neuen «klinischen» Heilkunde SCHOENLEINS, WUNDERLICHS u.a. verworfen und dafür gefordert, die subjektive A. vom objektiven Befund klar zu trennen, wobei dem «Befund» das Primat in der Bedeutung für die Diagnose zukommt. Das heutige Verständnis der A. sichert ihr eine wesentliche Rolle auf dem Weg zu Diagnose und Therapieplan.",
+ "n":"PERÌ NOÚSON, hg. KAPFERER/STICKER III, 17/44, 37. \nPERÌ TÉCHNES I a.a.O. I, 2/56, 11. \nRHUPHOS IATRIKÁ EROTÉMATA, hg. GÄRTNER, bes. § 2, S. 25. \nO. TEMKIN: Studien zum «Sinn»-Begriff in der Med. Kyklos, Jb. Inst. Gesch. Med. Leipzig 2 (1929) 48f. \nJ. STEUDEL: Zur Gesch. der A. Ciba Symp. 5 (1958) 183. \nG. C. CAPPIVACCIO: Opera omnia quinque sectionibus comprehensa, hg. J. H. BAYER (1603). \nH. BOERHAAVE: Aphorismi de cognoscendis et curandis morbis (Rotterdam 1737). \nTEMPKIN, a.a.O. 57. \nBd. 31, Art. ‹signe›. \nG. MÜLLER: Die Fragen des Arztes an den Kranken (Diss. med. Kiel 1967).",
+ "l":"",
+ "au":"R. Herrlinger",
+ "A":["R. Herrlinger"],
+ "cb":[[0,261],[22,262],[321,262],[530,262],[1387,262],[2260,262],[3872,263]],
+ "cn":[
+  [0,261],
+  [0,263],
+  [51,263],
+  [87,263],
+  [145,263],
+  [248,263],
+  [304,263],
+  [393,263],
+  [471,263],
+  [492,263],
+  [515,263]
+ ],
+ "cl":[]
+}
+);

@@ -1,0 +1,13 @@
+HWPH.put("s/75-6b",
+{
+ "uk":"2rr:0,0,1",
+ "ukase":"29v:0,1",
+ "ukaza":"298:0,0,1",
+ "ukendelighed":"2k0:0,1",
+ "uklidis":"1wz:0,3",
+ "ukraine":"3q:0,1",
+ "ukrainien":"1td:0,0,1",
+ "ukrainisch":"2b0:0,1",
+ "uktion":"223:0,1"
+}
+);

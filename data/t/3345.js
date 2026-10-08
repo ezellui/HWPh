@@ -1,0 +1,23 @@
+HWPH.put("t/3345",
+{
+ "b":"Urmonotheismus (engl. primitive monotheism; frz. monothéisme primitif; ital. monoteismo primordiale) ist der religionswissenschaftliche Terminus für die These, daß der Eingottglaube am Anfang der Menschheitsgeschichte gestanden habe und der Polytheismus ein späterer Abfall davon gewesen sei. In der 1. Hälfte des 18. Jh. glaubt der Jesuit J.-F. LAFITAU bei den Indianern Nordamerikas Zeugnisse dafür zu finden, daß sie trotz aller Entstellung nicht das Bewußtsein «d'un Dieu vrai & unique, qui est l'Auteur de toutes choses» verloren hätten . Im 19. Jh. vermutet dann A. PICTET in den indoeuropäischen Religionen einen ursprünglichen Monotheismus («monothéisme primitif»), der, wenn auch vage und unsicher, so doch auch unter dem späteren Polytheismus nicht verlorengegangen sei . Diese These trifft jedoch schon bald auf Skepsis bzw. Ablehnung . \nBreite Wirkung erzielen die Forschungen des schottischen Folkloristen A. LANG, der eine Kritik der animistischen Religionstheorie auf Grund der Verhältnisse bei Primitivstämmen Südostaustraliens mit seiner Entdeckung dortiger Verehrung von Hochgöttern («high gods») verbindet . N. SÖDERBLOM, obwohl ablehnend gegenüber dem U., bezeichnet diese «Höchsten Wesen» als «Urheber», die vornehmlich als Schöpfer und Errichter der religiösen und sozialen Ordnungen nachweisbar seien . Größte Beachtung erfährt die Theorie des U. durch das religionswissenschaftliche Werk des Steyler Missionars Pater W. SCHMIDT und durch die Arbeiten seiner um die Zeitschrift ‹Anthropos› (1906–97) gescharten Schule. Seine Auffassung, durch eine Uroffenbarung (s.d.) sei bei den Urvölkern der monotheistische Gottesglaube eingesetzt worden, versucht er durch ethnologische Untersuchungen der Formen des Glaubens an ein höchstes Wesen bei den Urvölkern zu belegen. Sowohl von ethnologischer wie von religionshistorischer und christlich-theologischer Seite wird dem Forschungsansatz sowie der Methode der Beweisführung widersprochen. R. OTTO lehnt sie als «Ausgeburt missionarischer Apologetik» ab . \nR. PETTAZZONI vertritt zunächst selbst einen entwicklungsgeschichtlichen U. , verwirft die These aber später und sieht genau umgekehrt den Monotheismus als Protesterscheinung gegen den Polytheismus .",
+ "n":"J.-F. LAFITAU: Mœurs des sauvages amér., comp. aux mœurs des premiers temps (Paris 1724) 1, 199; dtsch.: Die Sitten der amer. Wilden im Vergleich zu den Sitten der Frühzeit (1752, ND 1987) 58. \nA. PICTET: Les origines indoeurop. et les Aryas primitifs (Paris 1859–63) 2, 708–711. \nA. RÉVILLE: Les ancêtres des Européens d'après la sci. moderne. Rev. deux Mondes 49 (1864) 694–727, bes. 721f.; E. SCHERER: Mélanges d'hist. relig. (Paris 1864) 35–38; O. PFLEIDERER: Die Religion, ihr Wesen und ihre Gesch. (1869, 21878) 2, 48; vgl. auch: J. MUIR: Orig. Sanskrit texts on the origin and hist. of the people of India 5 (London 31874, ND Amsterdam 1967) 412–420. \nA. LANG: The making of relig. (London 1898, 21910, ND 1997) 173–200. \nN. SÖDERBLOM: Gudstrons uppkomst (Stockholm 1914); dtsch: Das Werden des Gottesglaubens (1916, 21926) 93ff. \nW. SCHMIDT: Der Ursprung der Gottesidee 1–12 (1912–55). \nB. BAENTSCH: Altoriental. und israelit. Monotheismus (1906) 3; W. WUNDT: Völkerpsychol. 2/3: Mythos und Relig. (1909) 404–407; F. B. JEVONS: Comparat. relig. (Cambridge 1913) 120; vgl. Art. ‹U.›. RGG3 6 (1962) 1197–1199; Theol. Realenzykl. 23 (1994) 234f. \nR. OTTO: Das Heilige (1917) 133. \nR. PETTAZZONI: Dio. Formazione e sviluppo del monoteismo nella storia delle relig. 1 (Rom 1922) bes. XVI. \nL'onniscienza di Dio (Turin 1955) 3–5. 11.",
+ "l":"P. RADIN: Monotheism among primit. peoples (London 1924). – K. TH. PREUSS: Glauben und Mystik im Schatten des höchsten Wesens (1926). – J. J. FAHRENFORT: Het hoogste wezen der primitieven (Groningen/Den Haag 1927). – H. FRICK: Über den Ursprung des Gottesglaubens und die Relig. der Primitiven. Theol. Rdsch. NF 1 (1929) 241–265. – W. KOPPERS: Urmensch und Urrelig., in: F. DESSAUER (Hg.): Wissen und Bekenntnis (21944) 23–149, bes. 131–134; Der Urmensch und sein Weltbild (1949) 231–234. – W. E. MÜHLMANN: Das Problem des U. Theol. Lit.ztg. 78 (1953) 715–718. – F. C. BURSCH: Het problem van het oermonotheisme in ethnologie en praehistorie. Mens Maatschappij 29 (1954) 321–331. – G. LANCZKOWSKI: Forschungen zum Gottesglauben in der Relig.gesch. Saeculum 8 (1957) 392–403.",
+ "au":"G. Lanczkowski",
+ "A":["G. Lanczkowski"],
+ "cb":[[0,365],[22,366],[849,366],[2024,366],[2223,367]],
+ "cn":[
+  [0,365],
+  [194,365],
+  [281,365],
+  [659,365],
+  [729,365],
+  [838,365],
+  [895,365],
+  [1152,365],
+  [1186,365],
+  [1293,365]
+ ],
+ "cl":[[0,367]]
+}
+);

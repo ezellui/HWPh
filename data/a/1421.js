@@ -1,0 +1,27 @@
+HWPH.put("a/1421",
+{
+ "id":1421,
+ "lemma":"Individuenkonstanten",
+ "band":"4",
+ "kind":"article",
+ "col_from":299,
+ "col_to":299,
+ "pdf_from":12306,
+ "pdf_to":12306,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":253,
+ "toc":[],
+ "html":"<p>Individuenkonstanten werden in der modernen Logik Konstanten genannt, die als Zeichen für Einzelgegenstände («Individuen») stehen. Meistens werden dafür die ersten Buchstaben des kleinen lateinischen Alphabetes benutzt: <i>a, b, c</i>, ... bzw. <i>a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub></i>, ...</p>",
+ "prev":{"id":1420,"lemma":"Individuation, Individuationsprinzip","band":"4","col":296},
+ "next":{"id":1422,"lemma":"Individuenvariablen","band":"4","col":299},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Individuenkonstanten"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

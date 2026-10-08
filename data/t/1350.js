@@ -1,0 +1,12 @@
+HWPH.put("t/1350",
+{
+ "b":"Idealismus, monistischer. Als ‹m.I.› im neuartigen Sinn von «Erlebnis-I.» bezeichnet R. REININGER sein «Metaphysik der Wirklichkeit» benanntes System. ‹I.› wird dasselbe genannt, weil es – den transzendentalen Ansatz KANTS bis zur äußersten Konsequenz durchdenkend – die ursprünglich-synthetische Subjekt-Objekt-Einheit des aktual-gegenwärtigen Erlebnis- oder Seinsbewußtseins (Urerlebnis) als absolute, paradigmatische Wirklichkeit im Sinne vorprädikativer, unmittelbarer Seinsgewißheit begreift und alles, was in intentionalem Wissensbewußtsein für objektive Realität gehalten wird, als Selbstobjektivation dieser ichzentrierten «Urwirklichkeit» durch Transformation der Bewußtheitsformen erklärt. «Das Reale wird hier aus einer Umformung von Erlebnissen abgeleitet, nicht das Auftreten der Erlebnisse aus einer für sich bestehenden Realität» , so daß «auch das Reale als Bewußtseinsphänomen erkannt wird» und somit «die Dingwelt eine Erscheinung der Erlebniswirklichkeit im intentionalen Bewußtsein [ist], nicht deren An-sich» . – ‹Monistisch› darf dieser «aktualistische I.» heißen, insofern er, sich selbst als «subjektiven Spinozismus» interpretierend, die Absolutheit und Selbstgenügsamkeit der Totalität des zeitlosgegenwärtigen Jetzt-Bewußtseins, dem alle Seinsweisen immanent sind, behauptet, so daß «ihm zufolge alles Seiende seiner Wirklichkeit nach gleicher Art ist und Physisches, Psychisches und Geistiges nicht als ontisch gesonderte Seinsgebiete gelten» . Als «immanente Ontologie» kennt dieser m.I. keinerlei Seinsdualismus, also «weder eine Transzendenz des Seins noch eine Immanenz des Bewußtseins» , distanziert sich aber ausdrücklich als «aktualistischer Monismus» von allen Spielarten des bisherigen «Geistes-I.» , dem gegenüber er die Überlegenheit seines unangreifbaren Ansatzpunktes in der unbezweifelbaren Gewißheit des Erlebnisbewußtseins geltend macht.",
+ "n":"R. REININGER: Met. der Wirklichkeit (= MW) 1. 2 (1931, 21947/48) 2, 152. \nNachgel. philos. Aphor. aus den Jahren 1948–54, hg. E. HEINTEL (= NA). Abh. österr. Akad. Wiss., philos.-hist. Kl. 237, 5 (1961) 69 (Nr. 88). \nMW 2, 194. \nNA 69. \nMW 2, 166. \n152. \n194. \nNA 51 (Nr. 30). \n69. \nMW 2, 159.",
+ "l":"s. Art. ‹Ich, primäres, sekundäres›.",
+ "au":"H. Kleiner",
+ "A":["H. Kleiner"],
+ "cb":[[0,40],[26,41]],
+ "cn":[[0,40],[74,40],[217,40],[229,40],[237,40],[249,40],[255,40],[261,40],[278,40],[283,40]],
+ "cl":[[0,41]]
+}
+);

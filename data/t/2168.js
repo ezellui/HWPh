@@ -1,0 +1,35 @@
+HWPH.put("t/2168",
+{
+ "b":"Notiones communes. Die Rede von n.c. geht zurück auf den stoischen Ausdruck κοινὴ ἔννοια, dabei ist strittig, ob πρόληψις als synonym zu gelten hat. Diese κοινὴ ἔννοια bezieht sich auf Vorstellungen, die als generelle oder Existenzaussagen formuliert werden können. Nach CHRYSIPP dienen die κοιναὶ ἔννοιαι als stärkstes natürliches Wahrheitskriterium. Sie basieren auf der Erfahrung (z.B.: daß viele Körper, die allein unfähig seien, eine gewisse Ausdehnung zu erreichen, diese mit Hilfe – etwa durch Beimischung – eines andern Körpers erreichen) . PLUTARCH kritisiert , daß die Stoiker zum Teil von κοιναὶ ἔννοιαι reden, wo sie nicht mit den allen Menschen gemeinsamen Vorstellungen übereinstimmen. So würden sie die allgemein verbreiteten n.c. von ‘Verwendung haben fürʼ oder ‘benötigenʼ nicht respektieren . Überdies gerieten sie auch in Widerspruch zu ihren eigenen n.c, etwa ihren n.c. von Gott oder von der Vorstellung . \nCICERO führt «notio communis» als Übersetzung von κοινὴ ἔννοια und πρόληψις ein . Er versteht darunter entweder allen Menschen gemeinsame (vor aller Wahrnehmung getroffene) Unterscheidungen (Begriffe, Vorstellungen), die mittels Definition geklärt werden können, z.B. «usucapio» (Eigentumsrecht durch Verjährung), «agnatio» (Blutsverwandtschaft von Vaterseite), «fortitudo» (Tapferkeit) , oder Einsichten, formuliert in Sätzen, über deren Geltung weitgehende Übereinstimmung herrscht. Der Konsens soll dabei nicht Wahrheitskriterium sein. Cicero nennt religiöse und ethische Einsichten, z.B. daß es Götter gebe . In der Folge ist die Rede von den n.c. einesteils an stoischen Gebrauchsweisen orientiert; daneben werden – entsprechend dem Gebrauch von κοινὴ ἔννοια in der Geometrie EUKLIDS – vor allem auch mathematische Axiome zu den n.c. gerechnet . \nMELANCHTHON führt die Gewißheit in den Wissenschaften unter anderm auf angeborene Prinzipien oder Erkenntniselemente zurück, die nach seiner Auffassung den κοιναὶ ἔννοιαι entsprechen. Er unterscheidet theoretische Prinzipien (principia speculabilia), z.B. ‘Zweimal vier ist achtʼ, und praktische Prinzipien, z.B. ‘Man soll Gott gehorchenʼ. Die praktischen Prinzipien stimmen mit dem ‹Dekalog› überein . \nHERBERT VON CHERBURY kennzeichnet die n.c. – neben «n.c.» gebraucht er häufig «notitiae communes» – durch sechs Merkmale: 1. Vorherigkeit (vor dem Diskurs), 2. Unabhängigkeit (von anderen n.c), 3. Allgemeinheit (aus dem universalen Konsens sind nur die Geistesschwachen auszunehmen), 4. Gewißheit, 5. Notwendigkeit (die n.c. tragen zur Erhaltung des Menschen bei), 6. die Art der Bildung: Die n.c. werden ohne Verzug gebildet, während der Diskurs langsam verfährt . Im Unterschied zu den so charakterisierten n.c. der ersten Klasse, die auf der Grundlage des «instinctus naturalis» gebildet werden, werden n.c. der zweiten Klasse mit Hilfe des Diskurses gebildet . Für Herbert wichtige Beispiele von n.c. sind die fünf Prinzipien seiner rationalen Theologie, die auch praktische Sätze umfassen . \nKritik an Herberts Verständnis der n.c. üben DESCARTES, GASSENDI und LEIBNIZ. DESCARTES versteht unter ‹n.c› wie unter ‹Axiom› und ‹ewige Wahrheit› solche Sätze, die aus der Intuition des «lumen naturale» gewiß sind, z.B. das «Cogito, ergo sum», den Satz der Identität, mathematische Axiome . Er wirft Herbert vor, er mache die faktische Einhelligkeit der Meinungen zu einem Kriterium für n.c, da doch nur wenige Menschen sich richtig des «lumen naturale» bedienen würden . GASSENDI stellt das Vorkommen des «consensus universalis» in Abrede und argumentiert so dagegen, daß er als ein Kennzeichen der n.c. dient . Nach LEIBNIZ nennt Herbert die fünf Prinzipien zu Unrecht «n.c», da sie bewiesen werden können und müssen . Bei SPINOZA sind die n.c. «Grundlagen unseres Schlußverfahrens». Sie erklären dasjenige, was allen Körpern gemeinsam und gleichermaßen im Ganzen wie in den Teilen ist, z.B. «Substanz» . HERDER stellt die n.c, «jene Begriffe, die auch nach der Ordnung unsres denkenden Geistes die ersten sein müssen», «himmlische, geistige Begriffe» , den Begriffen für sinnlich wahrnehmbare Merkmale gegenüber. \nAbseits dieser terminologischen Tradition bestimmt CHR. WOLFF «notio communis» (gemeinschaftlicher Begriff) als etwas, das mehreren Dingen gemeinsam ist, im Gegensatz zur «notio singularis», die ein Individuum bezeichne . Ähnlich unterscheidet E. SCHRÖDER die n.c. als Gattungsnamen, allgemeine Begriffswörter, von «nomina propria» (Eigennamen) .",
+ "n":"CHRYSIPP, SVF II, 154, 23–155, 24. \nPLUTARCH, Comm. not. \na.O. 1068 A–D. \n1065 D–E; 1084 F–1085 B. \nCICERO, Topica ad C. Trebatium 7. \na.O. 5. 7; Tusc. IV, 24, 53. \nTusc. I, 13; De nat. deor. I, 22f. \nVgl. G. W. LEIBNIZ: Nouv. Essais. Die philos. Schr., hg. C. J. GERHARDT 5, Préface 42. \nPH. MELANCHTHON: Loci praecipui theol. von 1559, De lege naturae. \nCorresp. du P. MARIN MERSENNE, hg. C. de WAARD 6 (1960) 358–362. \nHERBERT VON CHERBURY: De veritate (London 31645), hg. G. GAWLICK (1966) 60f. \na.O. 58. 60. \n208–226. \nR. DESCARTES, Principia Philos. 1, 49f. \nCorresp., hg. ADAM/TANNERY 2, 597f. (an Mersenne, 16. 10. 1639). \nP. GASSENDI, Op. omnia (Lyon 1658, ND 1964) 3, 411–419. \nLEIBNIZ, a.O. [8] I, 88f. \nB. SPINOZA, Ethik I, 8, Anm. 2; II, 38. 40. \nJ. G. HERDER: Abh. über den Ursprung der Sprache. Sprachphilos. Ausgew. Schr., hg. E. HEINTEL (21964) 1–87, zit. 33. \nJ. N. FROBESIUS: Christiani Wolfii Philos. rat. sive Logica. CHR. WOLFF, Ges. Werke, hg. J. ECOLE u.a. III/6 (1980). \nE. SCHRÖDER: Lehrb. der Arithmetik und Algebra für Lehrer und Studirende 1: Die sieben algebr. Operationen (Leipzig 1873) 6.",
+ "l":"R. G. KOTTICH: Die Lehre von den angeborenen Ideen seit Herbert von Cherbury (Diss. Berlin 1917). – G. GAWLICK: Einl. zu: Herbert von Cherbury s. Anm. [11] VII–XLVIII. – R. SCHIAN: Unters. über das argumentum e consensu omnium (1973). – R. B. TODD: The Stoic common notions: A reexamination and reinterpretation. Symb. Osloenses 48 (1973) 47–75.",
+ "au":"J. Schneider",
+ "A":["J. Schneider"],
+ "cb":[[0,938],[37,939],[928,939],[1780,939],[2184,939],[2981,939],[3860,940],[4100,940]],
+ "cn":[
+  [0,938],
+  [0,940],
+  [36,940],
+  [58,940],
+  [74,940],
+  [100,940],
+  [135,940],
+  [165,940],
+  [201,940],
+  [289,940],
+  [356,940],
+  [422,940],
+  [500,940],
+  [514,940],
+  [524,940],
+  [565,940],
+  [631,940],
+  [688,940],
+  [715,940],
+  [760,940],
+  [878,940],
+  [996,940]
+ ],
+ "cl":[[0,940]]
+}
+);

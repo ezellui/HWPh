@@ -1,0 +1,12 @@
+HWPH.put("t/1167",
+{
+ "b":"Gottesbeweis, entropologischer. Der um die Wende vom 19. zum 20. Jh. gebräuchlich gewordene Terminus ‹e. G.› bezeichnet den Versuch, aus den – tatsächlichen oder vermeintlichen – Implikationen des Entropiesatzes bzw. -begriffs auf das Dasein Gottes zu schließen. Dabei hielt man entweder allgemein aufgrundder – bis heute höchst umstrittenen – «Wärmetod» – Theorie, d.h. aufgrundder Behauptung vom physikalisch anzunehmenden Ende der Welt auch deren zeitlichen Anfang für gegeben, oder man schloß spezieller, daß bei Annahme der zeitlichen Unendlichkeit der Welt der als Wärmetod bezeichnete Zustand des vollkommenen Energieausgleichs und damit des Aufhörens aller Naturprozesse schon eingetreten sein müßte; da dies offensichtlich nicht der Fall sei, müsse die Welt einen Anfang haben. In beiden Fällen wurde die Notwendigkeit der Annahme eines Weltanfangs als Argument für die Schöpfung der Welt und so als Beweis für die Existenz eines Schöpfers, d.h. Gottes, verwendet. Der e. G. erweist sich somit als kosmologisches Argument, welches sich auf Ergebnisse der exakten Wissenschaften zu stützen versucht . \nNach einigen Andeutungen in der zweiten Hälfte des 19. Jh. und ersten, den Entropiesatz ausnutzenden apologetischen Versuchen am Ende des Jh. erreichte die Kontroverse im Anschluß an eine Arbeit von L. DRESSEL 1909/10 ihren Höhepunkt. Um 1920 konnte sie praktisch als beendet gelten : abgesehen von der grundsätzlichen (philosophisch-theologischen) Problematik kosmologischer Beweise hatten die Schwierigkeiten der physikalischen Theorie (insbesondere die ungelöste Frage nach der Anwendbarkeit des Entropiesatzes auf das Weltganze) das entropologische Argument als für einen G. ungeeignet erwiesen.",
+ "n":"Vgl. J. SCHNIPPENKÖTTER: Der e. G. (1920) 79. \nz.B. A. SECCHI: Die Größe der Schöpfung (1876; dtsch. 41885). \nJ. HONTHEIM: Institutiones Theodicaeae (1893); B. BOEDER: Theol. naturalis (1895). \nDer G. auf Grund des Entropiesatzes. Stimmen aus Maria-Laach 76 (1909) 150–160; dagegen u.a. C. ISENKRAHE: Energie, Entropie, Weltanfang, Weltende (1910); B. BAVINK: Das «Entropiegesetz» und die Endlichkeit der Welt. Der Geisteskampf der Gegenwart (1910) H. 7, 260–267. \nSCHNIPPENKÖTTER, a.a.O. [1] 93.",
+ "l":"Bericht und Lit. bei J. SCHNIPPENKÖTTER s. Anm. [1]. – F. SAWICKI: Die G. (1926) 129–136. – P. DESCOQS: Cours de théodicée 1 (Paris 1932) 652–663.",
+ "au":"W. Franzen",
+ "A":["W. Franzen"],
+ "cb":[[0,831],[1110,831],[1305,832]],
+ "cn":[[0,831],[0,832],[47,832],[110,832],[194,832],[465,832]],
+ "cl":[[0,832]]
+}
+);

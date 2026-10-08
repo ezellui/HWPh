@@ -1,0 +1,37 @@
+HWPH.put("t/2378",
+{
+ "b":"Pilpul ist eine talmudisch-rabbinische Diskussionsart und -methode. Der Terminus ist abgeleitet von hebräisch ‹pilpel› Pfeffer, pfeffern, würzen . Im ‹Talmud› wird unter ‹P.› eine scharfsinnige Disputation verstanden , die auch verletzend sein kann . Ziel dieser Disputation war die Erforschung der richtigen Auslegung des Gesetzes. Auch in der Bedeutung ‘Spitzfindigkeitʼ kann ‹P.› vorkommen , und Sätze wie «Entsprechend dem Scharfsinn die Fehler» und «Wegen seines Scharfsinns dachte er nicht nach» lassen schon eine frühe Kritik an zu einseitig-scharfsinnigen Diskussionen erkennen (auch wenn diese Sätze das Wort ‹P.› nicht enthalten). Diese konnten darin bestehen, einen Gegenstand zu diskutieren allein mit dem Ziel, «den Scharfsinn der Schüler zu wecken» . Der Pilpulist (Palpelan, Pilpilan) wurde im Gegensatz zu dem «Sodran», dem Ordnenden , gesehen, der, «der Berge versetzt» (Pilpulist), im Gegensatz zu dem «Sinai», dem Vielwissenden . Neben den «Baal P.» stellt B.b. 145 b den «Baal Schemuot» (Lehrenkundigen) und den «Baal Hagadot» (Agadakundigen). Nach festen Regeln der Hermeneutik (Middot) scheint der P. im ‹Talmud› nicht vorzugehen . \nWer den P. zu einer selbständigen Methode des Talmudstudiums in Polen und Deutschland entwickelt hat, ist nicht ganz sicher. Seit D. GANS (gest. 1613) und CH. J. D. ASULAI (gest. 1807) gilt gemeinhin der aus Prag stammende und später in Krakau lehrende Talmudist JAKOB POLLAK (gest. 1541) als Begründer der pilpulistischen Methode , die durch spitzfindige Untersuchungen (Deraschot) oder Analysen (Chillukim) von talmudischen oder biblischen Aussagen zu völlig neuen Ergebnissen (Chidduschim oder Novellae) in der Gesetzesauslegung zu kommen suchte. Verschiedene Talmudschulen (Jeschibot), z.B. Nürnberg und Augsburg (JAKOB WEIL), Regensburg (ISRAEL BRUNA), entwickelten darin verschiedene Methoden, die nach dem Ort der Jeschiba benannt wurden, z.B. «Nürnberger», «Regensburger» P. . M. GÜDEMANN dagegen sieht in R. MEIR HALEWI aus Wien den Begründer des P.; dieser habe mit der Wiedereinführung der «Semicha» in der zweiten Hälfte des 14. Jh. das Rabbinerwesen neu organisiert, dadurch dem Talmudstudium zu einer neuen Blüte verholfen und dabei den P. entwickelt als eine ernst zu nehmende Methode und als Gegenstand des Forschens. Erst um die Mitte des 15. Jh. finde man eine Kontroverse um den P., der bereits um 1470 ausgeartet gewesen sei . \nIm 16./17. Jh. war der Kabbalist ISAJAH BEN ABRAHAM HA-LEVI HOROWITZ (1565–1630) in seinem Werk ‹Schnei Luchot Ha-Berit› (1649) ein entschiedener Gegner der «Chillukim», während im 18. Jh. der Kabbalist JONATHAN EIBESCHÜTZ (1690/1695–1764) den P. wieder anwandte und glaubte, seine Schriften als «Meisterstücke pilpulistischer Literatur» bezeichnen zu können . M. MENDELSSOHN sieht im P. eine «unfruchtbare Art des Witzes» , und S. MAIMON bezeichnet ihn als «talmudischen Skeptizismus» . Die Begründer der «Wissenschaft des Judentums» wandten sich scharf gegen diese «verwünschte Klopffechterei» , ähnlich auch die Mitarbeiter im ‹Kerem Chemed› , die genauso auch den Chassidismus bekämpften. Andererseits konnten aber auch die Anhänger des Chassidismus den P. verachten, da sie den Chassidismus als eine neue Bewegung sahen, die den starren Kampf «um den gekrönten Leichnam des Gesetzes herum» abgelöst habe . \nIn neuster Zeit hat H. A. WOLFSON den P. interpretiert als «nothing but the application of the scientific method to the study of texts» und diese «hypothetisch-deductive Methode der Text-Interpretation» in seiner Analyse von Crescas' Aristoteles-Kritik angewandt . Diese Methode wurde von I. HEINEMANN und G. SARTON kritisiert , was WOLFSON zu einer erneuten Klärung des Begriffs ‹P.› veranlasste: «P. to the study of texts is as scientific method to the study of nature» .",
+ "n":"Sab. 64 b; Ber. 36 b; zum Stamm ‹plpl› vgl. E. BEN JEHUDA: Milon Ha-Laschon Ha-Iwrit 6 (New York 1960) 4961–4965; J. LEW: Wb. über die Talmudim und Midraschim (21924, 1963) 4, 56f. \nVgl. Sab. 31 a; B.M. 85 b; Ket. 103 b; Ab. VI, 6; Er. 67 a; Ned. 38 a. \nTos. B.b. VII, 5, hg. ZUCKERMANDEL 407, 34; vgl. die «verletzende» Erörterung der Halacha im Babylonischen im Gegensatz zur «milden» im Jerusalemer ‹Talmud› San. 24 a. \nTem. 16 a. \nB.m. 96 b; Nid. 33 b. \nB.b. 116 b; Er. 90 a. \nEr. 13 a; Naz. 59 b; vgl. Ber. 33 b; Meg. 25 a; Zeb. 13 a; Nid. 4 b; 45 b. \nj. Hor. III, 48 c. \nBer. 64 a; Hor. 14 a. \nVgl. J. Z. LAUTERBACH: Art. ‹P.›, in: Jew. Encyclop. 10, 39–43; E. BANETH: Art. ‹P.›, in: Jüd. Lex. 4, 942. \nE. NEUMANN: Art. ‹Pollak, Jacob›, in: Jew. Encyclop. 10, 114f.; M. S. BALABAN: Art. ‹Pollak, Jakob›, in: Jüd. Lex. 4 (1930) 989f.; Jakob Pollak, der Baal Chillukim in Krakau und seine Zeit. Mschr. Gesch. Wiss. Judentums [= MGWJ] 57 (1913) 59–73. 196–210. \nVgl. H. EHRENTREU: Über den «P.» in den alten Jeschiboth, in: Jb. jüd. lit. Ges. 3 (1905, ND 1973) 206–219; L. APPOLTUS: Specimen academicum de modo disputandi, quo doctores Judaei quondam Norimbergae in exercendis atque acuendis suis discipulis usi sunt (Altorf 1737). \nM. GÜDEMANN: Die Neugestaltung des Rabbinerwesens und deren Einfluß auf die talmud. Wiss. im MA. MGWJ 13 (1864) 97–110. 384–395. 421–444; vgl. dazu: S. LINDERMANN, in: MGWJ 14 (1865) 277f.; M. GÜDEMANN: Gesch. des Erziehungswesens und der Cultur der abendländ. Juden 3 (1888, ND 1966) 79–83. \nG. SCHOLEM: Kabbala (Jerusalem 1974) 406. \nM. MENDELSSOHN: Ges. Schr. 5 (1844) 673. \nS. MAIMON: Lebensgesch. 1 (1792, ND 1965) 65. \nL. ZUNZ: Etwas über die rabbin. Lit. (1818) 29; Die gottesdienstl. Vorträge der Juden (21892, ND 1966) 462. \n‹Kerem Chemed› Wien (I/II) und Prag (III–VII) 1833–1843; NF I/II Berlin 1854–1856. \nM. BUBER: Drei Reden über das Judentum (1916) 86. \nH. A. WOLFSON: Crescas' crit. of Aristotle (Cambridge, Mass. 1929) 24–29. \nI. HEINEMANN, in: MGWJ 76 (1932) 487–489; G. SARTON, in: Isis 14 (1930) 240–244. \nH. A. WOLFSON: Stud. in Crescas (1934), in: A. HYMAN (Hg.): Essays in medieval Jew. and Islamic philos. (New York 1977) 279–297.",
+ "l":"A. HAHN: The Rabbinical dialectics. A hist. of dialecticians and dialectics of the Mishna and Talmud (Cincinnati 1879). – S. HIRSCH: Unerhörte Pilpulistik (Philadelphia 1880). – I. H. WEISS: The study of the Talmud in the 13th century. Jew. Quart. Rev. 1 (1889) 289–313. – L. BLAU: Methods of teaching the Talmud in the past and the present. Jew. Quart. Rev. 15 (1903) 121–134. – M. ESCHELBACHER: Probleme der talmud. Dialektik. MGWJ 68 (1924) 47–66. 127–150. – L. LEWIN: Art. ‹P.›, in: Jüd. Lex. 4, 942;. – L. JACOBS: Studies in Talmudic logics and methodol. (London 1961). – M. BREUER: Art. ‹P.›, in: Encyclop. Judaica 13 (Jerusalem 1971) 524–527. – M. KARTAGENER: Pilpulistik – eine Kunst? Neue Zürcher Zeitung Nr. 25 = Fern-A. 15 (16. 1. 1972) 52.",
+ "au":"F. Niewöhner",
+ "A":["F. Niewöhner"],
+ "cb":[[0,974],[1155,974],[1252,975],[2403,975],[3315,975],[3788,976]],
+ "cn":[
+  [0,974],
+  [0,975],
+  [182,975],
+  [254,975],
+  [423,975],
+  [435,975],
+  [458,975],
+  [481,975],
+  [557,975],
+  [577,975],
+  [600,975],
+  [709,975],
+  [941,976],
+  [965,976],
+  [1236,976],
+  [1529,976],
+  [1572,976],
+  [1614,976],
+  [1661,976],
+  [1770,976],
+  [1854,976],
+  [1905,976],
+  [1980,976],
+  [2062,976]
+ ],
+ "cl":[[0,976]]
+}
+);

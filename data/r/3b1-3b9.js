@@ -1,0 +1,27 @@
+HWPH.put("r/3b1-3b9",
+[
+ ["ἀιδώς","Scham","",null,null,"ref",2751,"Scham, Scheu","αιδωσ"],
+ ["ἀιδώς","Religion","I","8","632","ref",2673,"Religion","αιδωσ"],
+ ["ἄινιγμα","Aenigma","",null,null,"ref",51,"Aenigma","αινιγμα"],
+ ["ἀιών","Aion","",null,null,"ref",69,"Aion","αιων"],
+ ["ἀιών","Welt","I",null,null,"ref",3557,"Welt","αιων"],
+ ["ἀιών","Spiel","","9","1386f.","ref",2973,"Spiel","αιων"],
+ ["ἀιών","Zeit","II A","12","1192f.","ref",3676,"Zeit","αιων"],
+ ["ἀιὼν μέλλων","Palingenesie","I (allg.)","7","41","ref",2259,"Palingenesie","αιων μελλων"],
+ ["ἀιώνιος","Ewigkeit","","2","838","ref",854,"Ewigkeit","αιωνιοσ"],
+ ["ἀισχρόν","Hässliche, das ἀισχύνη","",null,null,"ref",null,null,"αισχρον"],
+ ["ἄισθησις","Wahrnehmung","",null,null,"ref",3539,"Wahrnehmung","αισθησισ"],
+ ["ἀισθητήριον","Sinne, die","","9","830","ref",2892,"Sinne, die","αισθητηριον"],
+ ["ἀισθητικόν","Animalisch","",null,null,"ref",146,"Animalisch","αισθητικον"],
+ ["ἄιτημα","Postulat","",null,null,"ref",2418,"Postulat","αιτημα"],
+ ["ἄιτημα","Axiom","I","1","739","ref",340,"Axiom","αιτημα"],
+ ["ἀιθήρ","Äther Aitiologia","",null,null,"ref",null,null,"αιθηρ"],
+ ["ἄιτιον; ἀιτία","Ursache/Wirkung","I",null,null,"ref",3350,"Ursache/Wirkung","αιτιον; αιτια"],
+ ["ἄιτιον; ἀιτία","Schuld","IV (jur.)","8","1465","ref",2784,"Schuld","αιτιον; αιτια"],
+ ["ἄιτιον ἑαυτοῦ","Causa sui","",null,null,"ref",479,"Causa sui","αιτιον εαυτου"],
+ ["ἄιτιον τοῦ ἀιτίου","Prinzip","I","7","1343","ref",2458,"Prinzip","αιτιον του αιτιου"],
+ ["ἅιρεσις","Sekte","",null,null,"ref",2818,"Sekte","αιρεσισ"],
+ ["ἅιρεσις","Wahl","",null,null,"ref",3517,"Wahl","αιρεσισ"],
+ ["ἅιρεσις","Philosophie","V A (institut. Formen)","7","798","ref",2353,"Philosophie","αιρεσισ"]
+]
+);

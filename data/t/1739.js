@@ -1,0 +1,48 @@
+HWPH.put("t/1739",
+{
+ "b":"Lebensalter. Die L. (aetates) gliedern sich nach AUGUSTIN in Kindheit (infantia), Knabenzeit (pueritia), Jünglingsalter (adolescentia), Mannesalter (iuventus), reifes Mannesalter (gravitas) und Greisenalter (senectus) . \n1. Wiewohl HOMER dem Greisenalter stets überlegene Verständigkeit zuerkennt , vergißt er doch nie, dieses mit den Epitheta des Traurigen und Düsteren auszustatten , sofern ihm Tod und Schrecken des Hades drohen . – Im Heptomadengedicht des SOLON wird jedes L. dem Wachstum der Physis gemäß als notwendige Stufe begriffen; demnach löst der Tod den Prozeß nicht auf, sondern gehört zu dessen Ordnung; Solon vermeidet dabei jede an die Düsterkeit der homerischen Altersvorstellung erinnernde Formulierung . Im selben Sinne schildert PLATON den alten Kephalos als einen mit seinem Alter ausgesöhnten Mann, der einen gerechten Hadesrichter erwartet . Für CICERO ist die Einsicht, daß der Tod kein Übel sei, und besonders die Überzeugung vom Weiterleben wenigstens der bedeutenden Männer nach dem Tode Anlaß, sich mit dem Greisenalter abzufinden . Die homerischen Akzente weiterhin verlagernd, dekuvriert erstmals PLATONS Agathonkarikatur im ‹Symposion› forcierte Jugendlichkeit als Schein des Idealen, seichte Oberflächlichkeit und latente Brutalität, die in der Verdrängung des Alters liegt . \n2. Im Mittelalter ist das L.-Problem handgreiflicher. Jugend bedeutet Rebellion gegen die von den Vätern vertretene überlieferte Ordnung, sei es, daß die «aetas lubrica» sittlichen Forderungen der Kirche nicht entsprechen mag – die Geschichten in BOCCACCIOS ‹Decamerone› erzählen sich ausschließlich junge Leute – oder sei es, daß eine «immoderata dominandi libido» (R. de DICETO) die Fürstensöhne, gestützt auf Schwurverbände, zu bewaffneten Erhebungen drängt, um das patriarchalische Joch der Väter abzuschütteln . \n3. Während im 20. Jh. die Diskussion des L.-Problems medizinisch, juristisch, pädagogisch, strukturpsychologisch verfächert ist, fehlt es doch nicht an Versuchen, die ungeteilte Form antiker L.-Betrachtung fortzuführen : Wie verlebt man die gegenwärtige Phase, ohne die folgende zu kennen? Wie ist ein aussöhnendes Ja zu jeder Phase möglich? \n4. Als Metapher geschichtlicher Prozesse, hier der römischen Geschichte, figurieren die L. erstmals bei L. ANNAEUS FLORUS . AUGUSTIN bringt die L. eines einzelnen Menschen in Analogie zu den Weltgeschichtsepochen des ganzen Menschengeschlechts: 1. die infantia entspricht der Zeit von Adam bis Noa, 2. die pueritia dauert von Noa bis Abraham, 3. die adolescentia von Abraham bis David, 4. die iuventus von David bis zur babylonischen Gefangenschaft, 5. die gravitas von der Gefangenschaft bis zu Johannes dem Täufer und 6. die senectus, deren Ende wir nicht kennen, entspricht der Zeit bis zum jüngsten Gericht, dessen Zeitpunkt uns ebenso verborgen ist; 7. der Zeit nach dem jüngsten Gericht entspricht schließlich der Tod und dieser, nachdem Augustin das Schema auch mit den sieben Schöpfungstagen in Analogie gebracht hat, dem siebten und Ruhetag der Schöpfung : Auch die nur als Metapher fungierenden L. sind für Augustin mit der Zeit nach diesem Leben versöhnt. \n5. Geschichtstheorien der Aufklärung nehmen die Metaphorik der L. auf, wenn sie geschichtliche Fortschritte als Entwicklung charakterisieren, die von der Sinnlichkeit des jugendlichen Menschen zur Vernunftherrschaft des reifen Mannesalters führt (I. ISELIN ) oder wenn sie, das Organische geschichtlicher Entwicklungen betonend, das Bild der L. auf das Werden speziell von Nation, Staat, Religion, Kunst, Wissenschaft und Sprache anwenden (J. G. HERDER ). Auch G. E. LESSING gebraucht in seinen Thesen über ‹Die Erziehung des Menschengeschlechts› das Bild der L. Dabei entsprechen 1. der Kindheit, deren moralisches Handeln sich noch nach Lohn und Strafe im Diesseits richtet, der Alte Bund, dessen «Elementarbuch», das Alte Testament, den Einigen Gott als höchste Wahrheit lehrt; 2. dem Jünglingsalter, dessen moralisches Handeln sich auf die Hoffnung auf ein Leben nach dem Tode gründet, der Neue Bund, dessen Elementarbuch, das Neue Testament, die Unsterblichkeit der Seele lehrt; 3. dem reifen Mannesalter, dessen moralisches Handeln allein auf dem Pflichtgefühl beruht, das Zeitalter der Aufklärung, dessen Vollendung erst in Zukunft zu erwarten ist. Lessing hat nicht technisch-ökonomische, sondern moralische Fortschritte im Auge, zu welchen die Offenbarung nichts beitrug, «worauf die menschliche Vernunft, sich selbst überlassen, nicht auch kommen würde» . Folglich expliziert die L.-Metaphorik Lessings nicht eine Ungültigkeitserklärung humaner Probleme früherer Epochen, sondern lediglich die Änderung der Modalität ihrer Präsenz. \n6. Fortschrittstheorien operieren dagegen gern mit der L.-Metapher, um alte «Stadien» als Kindheit der Menschen zu historisieren, sofern sie allein den Sinn hatten, dem «Mannesalter des Geistes», dem positiven Stadium als unerläßliche Entwicklungsstufe zu dienen . In der typischen Gleichsetzung der Menschheit mit einem menschlichen Individuum werden Tradition und Autorität aufgelöst; die Alten erscheinen als Kinder und die Gegenwärtigen als die wahren Alten, als «les véritables anciens du monde» . Scheinbar im selben Sinne bedient sich HEGEL dieser Metapher, wenn er die orientalische Welt mit dem «Kindesgeiste», die römische mit dem «Mannesalter» und unter Vorbehalt die christlich-germanische Welt mit dem «Greisenalter» vergleicht . Indes beginnt bei Hegel die Geschichte der Freiheit im Jünglingsalter, das mithin nicht historisierender Destruktion verfällt, sondern in seiner Zugehörigkeit zu den substanziellen Interessen der Gegenwart begriffen wird. \n7. M. STIRNER beschließt den ersten Abschnitt von ‹Der Einzige und sein Eigentum›, der den Titel ‹Ein Menschenleben› trägt, mit den Sätzen: «Das Kind war realistisch ...; der Jüngling war idealistisch, vom Gedanken begeistert, bis er sich zum Manne hinaufarbeitete, dem egoistischen, der ... sein persönliches Interesse über alles setzt. Endlich der Greis? Wenn ich einer werde, so ist noch Zeit genug, davon zu sprechen.» Diese «feierliche und langwierige» Konstruktion zeiht K. MARX der Naivität, da Stirners Erklärungen, wie das Kind, der Jüngling und schließlich der Mann zur «Selbstfindung» gelangen, eine sozialgeschichtliche Deutung der jeweiligen Bewußtseinsänderung unterschlagen . \n8. Im Zusammenhang seiner zyklustheoretischen Geschichtsdeutung kommt O. SPENGLER zu dem Urteil, daß die abendländische («faustische») Kultur bereits seit etwa 1800 in das letzte Stadium ihrer Entwicklung, in ihr unfruchtbares Greisenalter, eingetreten sei: Wir sind nicht mehr Träger wirklicher Kultur, sondern bloßer «Zivilisation» ; jede Kultur hat «eine ideale Lebensdauer von einem Jahrtausend» , so daß der «Untergang des Abendlandes» um das Jahr 2000 sein Ende erreichen wird.",
+ "n":"AUGUSTIN, Ep. 213. \nHOMER, Il. 2, 370; 3, 109f.; Od. 7, 293f. \nII. 4, 315; 19, 336; 24, 487; THEOGNIS I, 527f. \nHOMER, Od. 13, 59f.; 15, 409ff. \nOd. 11, 488ff. \nVgl. W. SCHADEWALDT: Lebenszeit und Greisenalter im frühen Griechentum. Die Antike 9 (1933) 282–302. \nPLATON, Resp. 330 d ff. \nCICERO, De senec. 77ff. \nPLATON, Symp. 194 e ff.; vgl. K. LÖWITH, Einl. zu: Die Hegelsche Linke (1962) 10f. \nVgl. U. HELFENSTEIN: Beitr. zur Problematik der L. in der mittleren Gesch. (Diss. Zürich 1952). \nH. KNITTERMEYER: Philos. der L. (1944); H. KÜNKEL: Die L. (1948). \nFLORUS, Res Romanae, prooem. §§ 4–8. \nAUGUSTIN, In Ioannis Evang. XV, 4, 9; Enarratio in Psalmum XCII, 2; CXXVII, 15; De genesi contra Manichaeos I 23, 35–42; De trin. IV 4, 7. \nVgl. H. GIRGENSOHN: Das Problem des gesch. Fortschritts bei Iselin und Herder (Diss. Erlangen 1913) 21f. \nVgl. D. W. JÖNS: Begriff und Problem der hist. Zeit bei J. G. Herder (Göteborg 1956) 15f. \nG. E. LESSING, Die Erziehung des Menschengeschlechts § 4. \nA. COMTE, Rede über den Geist des Positivismus § 9. \nCH. PERRAULT, Paral. I, 49/50. ND 113; vgl. Art. ‹Antiqui/moderni (Querelles des Anciens et des Modernes)›; ‹Fortschritt›. \nG. W. F. HEGEL, Die Vernunft in der Gesch., hg. HOFFMEISTER (1955) 156f. \nK. MARX/FR. ENGELS: Dtsch. Ideol., III. Sankt Max. MEW 3, 101ff. \nO. SPENGLER: Der Untergang des Abendlandes (7–101920) 488. \na.O. 158.",
+ "l":"A. PETZELT: Kindheit, Jugend, Reifezeit (31958). – R. GUARDINI: Die L. (51959). – Vita humana. Int. Z. L.-Forsch. (1958ff.). – A. DEMANDT: Metaphern für Gesch. (1978) 37ff. 56ff.: weitere Belege.",
+ "au":"A. Müller",
+ "A":["A. Müller"],
+ "cb":[
+  [0,112],
+  [221,112],
+  [1311,112],
+  [1829,112],
+  [2172,112],
+  [2515,113],
+  [3140,113],
+  [4683,113],
+  [5649,113],
+  [6341,113],
+  [6483,114]
+ ],
+ "cn":[
+  [0,112],
+  [0,114],
+  [20,114],
+  [63,114],
+  [112,114],
+  [145,114],
+  [161,114],
+  [263,114],
+  [288,114],
+  [313,114],
+  [397,114],
+  [494,114],
+  [561,114],
+  [599,114],
+  [739,114],
+  [845,114],
+  [936,114],
+  [995,114],
+  [1048,114],
+  [1172,114],
+  [1246,114],
+  [1312,114],
+  [1372,114]
+ ],
+ "cl":[[0,114]]
+}
+);

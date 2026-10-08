@@ -1,0 +1,36 @@
+HWPH.put("t/556",
+{
+ "b":"Denkökonomie. Das Prinzip der D., eine Sonderform des allgemeiner formulierten Ökonomieprinzips der «Ausschaltung zweckloser Tätigkeit» bzw. des «Prinzips des kleinsten Kraftmaßes» , rückte mit den Untersuchungen MACHS , zu denen dieser durch den Nationalökonomen E. Hermann angeregt worden sein will (vgl. auch das Prinzip der «reinen Ökonomik» K. MENGERS, ST. JEVONS u.a.) , in den Mittelpunkt wissenschaftstheoretischen Interesses vor allem bei R. AVENARIUS und H. CORNELIUS . MACH begründete in ihm die Definition der Wissenschaft als einer Minimumaufgabe, welche darin besteht, «möglichst vollständig die Tatsachen mit dem geringsten Gedankenaufwand darzustellen» . \nAls Einfach(st)heitsforderung findet sich das Prinzip der D. bereits bei W. VON OCCAM (vgl. das «Occamsche Rasiermesser-Prinzip»: «entia non sunt multiplicanda praeter necessitatem»), KOPERNIKUS, GALILEI, KEPLER, NEWTON und andern vorgeformt . M. MENDELSSOHN stellt es «dem Weltweisen, so wie dem Mathematiker frey, diejenige von allen gleichgeltenden Erklärungen vorauszusetzen, die ihn den kürzesten Weg zu seinem Zwecke leitet» . Für KANT ist die «Ersparung der Principien nicht bloß ein ökonomischer Grundsatz der Vernunft, sondern inneres Gesetz der Natur» , nicht ein «bloß ökonomischer Handgriff der Vernunft, um sich so viel als möglich Mühe zu ersparen», sondern die Idee einer objektiven Einheit . In der KIRCHHOFFschen Formulierung, daß es Aufgabe der Mechanik sei, die in der Natur ablaufenden Bewegungen «vollständig und auf die einfachste Weise zu beschreiben» , erlangte das Prinzip der D. dann Berühmtheit. \nEs blieb in seiner wissenschaftsbeschreibenden Funktion bereits im Lager der Empiriokritizisten , später auch der Physiker und sogar der Neopositivisten keineswegs unwidersprochen: So wendet sich z.B. M. SCHLICK gegen Avenarius und Mach, sofern sie von «unseren Vorstellungs- und Willensprozessen» reden; die wahre Ökonomie des Denkens aber sei ein logisches Prinzip, das sich auf das Verhältnis der Begriffe zueinander beziehe . In seiner wissenschaftsbegründenden Funktion unterzogen es insbesondere HUSSERL und NELSON scharfer Kritik. P. NATORP hatte der D. «zwar ihr gutes Recht in der gesetzmäßigen Darstellung der Naturtatsachen» zuerkannt, jedoch nicht in Entscheidungen, «wo es sich um die Voraussetzungen handelt, die allein a priori heißen dürfen, nämlich die, welche überhaupt nur eine Naturwissenschaft möglich machen» . Ähnlich urteilen auch LOTZE und HÖNIGSWALD . BUNGE dehnte diese Kritik neuerlich von seiten der Wissenschaftstheorie auf das Prinzip der Einfach(st)heit überhaupt aus.",
+ "n":"E. MACH: Die Leitgedanken meiner naturwiss. Erkenntnislehre und ihre Aufnahme durch die Zeitgenossen. Phys. Z. 11 (1910) 600. \nR. AVENARIUS: Philos. als Denken der Welt gemäß dem Prinzip des kleinsten Kraftmaßes. Prolegomena zu einer Kritik der reinen Erfahrung (1876, 31917) 29. \nE. MACH: Die Gestalten der Flüssigkeit (1868), in: Populärwiss. Vorles. (41910), 1ff.; Die Gesch. und die Wurzel des Satzes von der Erhaltung der Arbeit (1871, 21909); Die ökonomische Natur der phys. Forsch. (1882), in: Populärwiss. Vorles. 217ff.; Die Ökonomie der Wiss., in: Die Mechanik histor.-krit. dargestellt (1883, 91933, Nachdruck 1963) 457ff.; Die Ökonomie der Wiss., in: Die Prinzipien der Wärmelehre hist.-krit. entwickelt (1896) 391ff. \nVgl. MACH, a.a.O. [1]. \nR. AVENARIUS: Kritik der reinen Erfahrung (1888–1900). \nH. CORNELIUS: Psychologie als Erfahrungswissenschaft (1897). \nMACH, a.a.O. [3] 465. \nVgl. a.a.O. 469. \nM. MENDELSSOHN, Philos. Schriften (1783) 1, 150. \nKANT, KrV B 678. \nKrV B 681. \nG. KIRCHHOFF: Vorles. über math. Phys. 1: Mechanik (1876) 1. \nJ. PETZOLDT: Maxima, Minima und Ökonomie. Vjschr. wiss. Philos. 14 (1890) 206–239. 354–366. 417–442. \nM. PLANCK: Die Einheit des phys. Weltbildes (1909), in: Wege zur phys. Erkenntnis 1 (31943) 25. \nM. SCHLICK: Allg. Erkenntnislehre (21925) 91. \nE. HUSSERL: Log. Untersuch. 1: Prolegomena zur reinen Logik (1900, 41928) 192ff.; vgl. hierzu Brief HUSSERLS an Mach vom 18. 6. 1901, in: K. D. HELLER: E. Mach. Wegbereiter der modernen Phys. (1964) 61ff. \nL. NELSON: Ist metaphysikfreie Naturwiss. möglich? Abh. Fries. Schule NF 2 (1908) 276ff. \nP. NATORP: Die log. Grundlagen der exakten Wiss. (1910) 322. \nH. LOTZE: Logik (1912) 407ff. \nR. HÖNIGSWALD: Zur Kritik der Machschen Philos. (1903) 40ff. \nM. BUNGE: The myth of simplicity. Problems of sci. philos. (Englewood Cliffs, N. Y. 1963). \nVgl. H. DINGLER: Über den Begriff der ‹Einfachstheit› in der Methodik der Phys. und der exakten Wiss. Z. Phys. (1920); Relativitätstheorie und Ökonomieprinzip (1922).",
+ "l":"W. WUNDT: Logik 1 (1880, 41919) 385ff.; 2 (1883, 41920) 297ff. – F. KALLFELZ: Das Ökonomieprinzip bei E. Mach. Darstellung und Kritik (1929). – J. THIELE: Zur Wirkungsgesch. der Schriften E. Machs. Z. philos. Forsch. 20 (1966) 118–130. – G. KÖNIG: Der Wissenschaftsbegriff bei Helmholtz und Mach, in: A. DIEMER (Hg.): Stud. zur Wissenschaftstheorie 1: Beitr. zur Entwicklung ... im 19. Jh. (1968) 90–114.",
+ "au":"G. König",
+ "A":["G. König"],
+ "cb":[[0,108],[672,108],[1596,108],[2596,109]],
+ "cn":[
+  [0,108],
+  [127,108],
+  [281,108],
+  [731,108],
+  [755,108],
+  [811,108],
+  [873,108],
+  [894,109],
+  [896,109],
+  [914,109],
+  [964,109],
+  [982,109],
+  [994,109],
+  [1056,109],
+  [1158,109],
+  [1255,109],
+  [1302,109],
+  [1508,109],
+  [1598,109],
+  [1660,109],
+  [1691,109],
+  [1753,109],
+  [1845,109]
+ ],
+ "cl":[[0,109]]
+}
+);

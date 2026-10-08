@@ -1,0 +1,23 @@
+HWPH.put("t/2421",
+{
+ "b":"Potentia oboedientialis (dtsch.: Vermögen, Gehör zu schenken, zu gehorchen) ist eine genuin theologische Kategorie im Spannungsfeld von Natur und Gnade , die wegen ihrer vielfältigen anthropologischen Bezüge für die Philosophie bedeutsam ist. Sie meint, daß die gesamte Schöpfung und besonders der Mensch wesenhaft mit einem rezeptiven Vermögen begabt ist (als rezeptive Potenz das aristotelische Schema ‹aktiv-passiv› sprengend), kraft dessen menschliche Vollendung noch über die natürlichen Fähigkeiten hinaus erfolgen kann: als Offenheit auf alles Sein hin. Damit ist sie auch Bedingung der Möglichkeit, eine eventuelle Selbstmitteilung Gottes zu vernehmen und durch sie gehorsam, also frei, und von Gott her ungeschuldet erhoben, d.h. übernatürlich begnadet zu werden. \nInhaltlich bei ORIGENES und besonders bei AUGUSTINUS nachweisbar, erscheint der Begriff, an letzteren anknüpfend, zuerst bei THOMAS VON AQUIN und bleibt für die Scholastik ein Kardinalbegriff theologischer Anthropologie ; ohne genannt zu werden ist er in der skotischen Schule Angelpunkt einer ‘natürlichenʼ Anthropologie . \nK. RAHNER nimmt die p.o. in heutiges Philosophieren auf, indem er den Begriff existentiell umwandelte. Er entfaltet phänomenologisch eine Religionsphilosophie als «Ontologie der p.o. für Offenbarung», d.h. als legitime philosophische Anthropologie. Die p.o. «für die übernatürliche Gnade als der seinshaften Erhebung des Menschen» zu Gott weist er ausdrücklich zurück, um sie ausschließlich als p.o. des Hörens «auf eine möglicherweise erfolgende Rede Gottes» und die Offenbarung nicht als «religiöse Anlage» des Menschen, sondern von Gott her verstehen zu können . Dieses Verständnis impliziert für den «Hörer des Wortes» die ganze geschichtliche Bedingtheit des Wortes und seiner Vermittlung im Horizont der Gelichtetheit wie Verborgenheit des Seins, wie es Rahner expliziert. Dabei wird p.o. als ontologisches Konstitutiv und über-natürliches Existential des Menschen für eine christliche Metaphysik und doch zugleich eigenständige, reine Philosophie aufgewiesen .",
+ "n":"J. ALFARO: Art. ‹Natur u. Gnade›. LThK2 7, 830–835; K. RAHNER: Theos im NT, in: Schriften zur Theol. 1 (1956) 94–97; Über das Verhältnis von Natur und Gnade, a.O. 1, 323–345; Natur und Gnade, a.O. 4 (1960) 209–236. \nVgl. F. SUÁREZ: Disp. metaph. 43, sect. IV, n. 16. Opera omn., hg. C. BERTON 26 (Paris 1866, ND 1965) 649; J. CAJETAN: Com. in I S. theol., q. 12, a. 1; J. M. de RIPALDA: De ente supernaturali disp. metaph. (Paris 1870) 1, 234–416. \nORIGENES: In cantic. canticor. hom. 4. Werke 8, hg. W. A. BAEHRENS (1925) 227; vgl. De princ. III, 1, 12. 24. \nAUGUSTINUS: De gen. ad lit. IX, 17, n. 32. \nTHOMAS VON AQUIN: S. theol. III, q. 11, a. 1 c. Op. omn. 11 (Rom 1903) 157; De verit., q. 29, a. 3 ad 3, a.O. 22/3 (1976) 856; q. 8, a. 4 ad 13, a.O. 22/2 (1972) 233; De pot., q. 6, a. 1 ad 18. Op. omn. 13 (Paris 1875) 183; vgl. J. AUER: Die Entwickl. der Gnadenlehre in der Hochscholastik 2 (1951) 186–191; JOH. DUNS SCOTUS: Ordin. I, prol. 1, n. 70. Op. omn. 1, hg. K. BALIĆ (Rom 1950) 57; Ox. III, d. 13, q. 4, n. 11. Opera omn. (Paris 1891–95, ND 1969) 14, 464; Quodl., q. 18, n. 19, a.O. 26, 298; GOTTFRIED VON FONTAINES: Quodl. II, q. 6, hg. M. de WULF/M. PELZER 2 (Löwen 1904) 93; BERNHARD VON AUVERGNE, in: Rev. thomiste 47 (1947) 304–310; PETRUS AUREOLI: Script. super primum sent. I, dist. 42, q. 68 (1), a. 3. \nWILHELM VON ALNWICK: Utrum homo possit consequi omnem beatitudinem per naturam quam naturaliter appetit. Quodl., q. 5 (Quaracchi 1937) 337–367. \nK. RAHNER: Hörer des Wortes, hg. J. B. METZ (1963) 15. 37; zur Kritik der Erstausg. (1941) vgl. H. FRIES: Die kath. Rel.philos. der Gegenwart (1949) 257–260. \nRAHNER, a.O. 139. 37, Anm. 6. \na.O. 38f. 39, Anm. 7; vgl. METZ: Art. ‹Christl. Philos.›, in: LThK2 2, 1141–1144; Art. ‹Weisheit›. Hb. theol. Grundbegriffe, hg. H. FRIES (1963) 2, 805–813.",
+ "l":"J. B. Rossi: Disctinctiones ex Comment. S. Bonaventurae in IV Hb. sent. coll. et disp. de p.o. 1–2 (Paris 1646–52). – J. M. de RIPALDA s. Anm. [2]. – M. LIMBOURG: Über die p.o. Z. kath. Theol. 16 (1892) 231–272. – H. de LUBAC: Surnaturel (Paris 1946). – J. ALFARO: Lo natural y lo sobrenatural (Madrid 1952); Art. ‹Natura pura›, in: LThK2 7, 809f. – J. AUER: Art. ‹Gnade III. Zur Gesch. der G.n-Lehre›, in: LThK2 4, 984–991; ‹Gnadenerfahrung›, a.O. 1001f. – F. BUUCK: Art. ‹P.o.›, in: LThK2 8, 646f.",
+ "au":"O. Wanke",
+ "A":["O. Wanke"],
+ "cb":[[0,1165],[774,1165],[1099,1165],[1258,1166]],
+ "cn":[
+  [0,1165],
+  [0,1166],
+  [216,1166],
+  [449,1166],
+  [560,1166],
+  [604,1166],
+  [1326,1166],
+  [1471,1166],
+  [1630,1166],
+  [1661,1166]
+ ],
+ "cl":[[0,1166]]
+}
+);

@@ -1,0 +1,35 @@
+HWPH.put("t/2796",
+{
+ "b":"Seelengrund. Der Begriff ‹S.› wurde von der deutschen Mystik des 14. Jh. geprägt, um den von den Seelenkräften unterschiedenen Ort der Gotteseinung zu bezeichnen. Er setzt, wie der ihm entsprechende Begriff ‹Seelenspitze› (s.d.), die augustinische Tradition vom «abditum mentis» und die der Viktoriner vom «summus et intimus sinus mentis» («dem höchsten und innersten Schoß des Geistes») fort. \nBei MEISTER ECKHART steht ‹S.› («abditum animae») für «essentia animae» («Wesen der Seele»); zu ihm hat Gott allein Zutritt . In diesem «Innigsten des Geistes» wird Gottes Grund mein Grund und umgekehrt : «Diu sêle nimet ir wesen âne mitel von gote; dar umbe ist got der sêle naeher, dan si ir selber sî; dar umbe ist got in dem grunde der sêle mit aller sîner gotheit» . Die Seele verliert dort ihre Eigenschaften, wie Gott sein Personsein aufgibt, wenn es dort, im S., im «Bürglein der Seele», zur Einung kommt . Wie Gott ohne Namen ist, so ist auch «diu sêle in irm grunde ... unsprechlich», da sie Gottes Ebenbild ist . \nJOHANNES TAULER übersetzt AUGUSTINS «abditum mentis» mit «verborgen des geistes», «verborgen gemüte» , nennt den S. neben «grunt» und «gemüte» auch «boden» oder «dolten der selen» (Seelenkrone, -spitze); eigentlich hat der S. aber «keinen eigenen namen», so wie Gott keinen bestimmten Namen hat . TAULER teilt die Seele in Sinne, Vernunft und Grund; in letzterem ist das Bild der Dreifaltigkeit verborgen; in ihm vollzieht sich die Vereinigung mit Gott . Tauler wendet sich damit gegen THOMAS VON AQUIN, der in den oberen Seelenkräften (intelligentia, voluntas, memoria) ein Abbild der Trinität zu erkennen glaubte; nach TAULER, der sich dazu auf Proklos beruft, gelangt man gar nicht in den S., solange man mit den Bildern der Mannigfaltigkeit umgeht . – Bei HEINRICH SEUSE heißt der Ort der Einheit aller Dinge, in dem der dreieinige Gott verborgen ist, der «grundelose abgrund» , JAN van RUYSBROEK nennt ihn «gront» . \nDer Begriff ‹S.› lebt weiter im Pietismus . Er ist weitgehend bedeutungsgleich mit «Seelenfünklein» , muß jedoch, trotz terminologischer Überschneidungen bei TAULER und SEUSE , von der Tradition des Begriffs ‹Abgrund› (griech. βυθός, lat. abyssus) unterschieden werden . Diese Linie ist aber, über A. G. BAUMGARTEN und J. G. SULZER , von J. G. HERDER mit dem Begriff ‹S.› fortgesetzt worden: Im «dunkeln Abgrundder Menschlichen Seele» liegen «die Empfindungen des Thieres» und werden zu denen «eines Menschen»: «Triebe und Affekte, ... Lust und Unlust» . Die Seele hat von nichts anderem tiefere Gewißheit als von dieser in ihrem «dunkeln Grunde» liegenden «Thätigkeit», dem «innigsten Reiz und Bewußtseyn ihrer selbst, ihrer Kraft, ihres innern Lebens». Der «hellen und klaren Philosophie» jedoch «graut ... vor der Hölle unterster Seelenkräfte» .",
+ "n":"AUGUSTINUS: De trin. XIV, 7. CCSL 50 A, 443. \nRICHARD VON ST. VIKTOR: Beniamin maior IV, 23. 16. MPL 196, 167 A. 154f. \nMEISTER ECKHART: Sermo IX, 98; XXIV, 249; XLVII, 482. Lat. Werke [LW] 4 (1956) 93. 227. 397; Pr. 21. Dtsch. Werke [DW] 1 (1958) 360, 5 und Anm. \nPr. 5 b. DW 1, 90, 7f. \nPr. 10, a.O. 162, 4–6; vgl. Sermo VI, 1. LW 4, 55, 8; XLV, 452, a.O. 376, 8. \nPr. 2. DW 1, 43, 1–44, 6; vgl. Pr. 24, a.O. 419, 4f. \nPr. 17. 24, a.O. 284, 2–6; 415, 13–15; vgl. Pr. 7, a.O. 124, 4–6. \nJOH. TAULER: Die Pr., hg. F. VETTER (1910) 101, 4–30; 262, 20ff.; 350, 25ff.; 357, 29ff. (Nrn. 24. 56. 64. 65). \na.O. 262, 13f. (Nr. 56). \n92, 20–93, 3; 347, 6ff. (Nrn. 23. 64). \n300, 10–301, 3 (Nr. 60 d). \nHEINRICH SEUSE: Büchlein der Weisheit II. Dtsch. Schr., hg. K. BIHLMEYER (1907, ND 1961) 330. \nJAN van RUYSBROEK: Die Zierde der geistl. Hochzeit III, 4. CC Cont. Med. 103, 599. \nz.B. bei G. TERSTEEGEN: Geistl. Blumengärtlein inniger Seelen (1727, 161969) 58. 93; vgl. A. LANGEN: Der Wortschatz des dtsch. Pietismus (21968) 167. 421. \nVgl. Art. ‹Fünklein, Seelenfünklein›. Hist. Wb. Philos. 2 (1972) 1137f.; ferner: M. TARDIEU: ΨΥΧΑΙΟΣ ΣΠΙΝΘΗΡ. Hist. d'une métaphore dans la trad. platonicienne jusqu'à Eckhart. Rev. Et. august. 21 (1975) 225–255; B. MOJSISCH: Meister Eckhart (1983) 130–142. \nTAULER, a.O. [8] 201, 3ff. (Nr. 45); SEUSE, a.O. [12]. \nVgl. Art. ‹Abgrund›. Hist. Wb. Philos. 1 (1971) 5; anders P. WYSER: Der S. in Taulers Pr., in: Lebendiges MA. Festgabe W. Stammler (1958) 204–311. \nA. G. BAUMGARTEN: Metaphysica (41757) § 511 («fundus animae», der «Grund der Seele», Übers. noch nicht in früheren Aufl.). \nJ. G. SULZER: Kurzer Begriff aller Wiss. (21759) 157f. (§ 205). \nJ. G. HERDER: Entwurf zu einer Denkschr. auf A. G. Baumgarten. Sämmtl. Werke, hg. B. SUPHAN (1877–1913) 32, 186. \nVom Erkennen und Empfinden (1778), a.O. 8, 195. 179f.; vgl. H. ADLER: Fundus animae – der Grund der Seele. Dtsch. Vjschr. Lit.wiss. Geistesgesch. 62 (1988) 197–220.",
+ "l":"J. BERNHARDT: Die philos. Mystik des MA (1922). – H. KUNISCH: Das Wort ‹Grund› in der Sprache der dtsch. Mystik des 14. und 15. Jh. (1929). – K. WEISS: Die Seelenmet. des Meister Eckhart. Z. Kirchengesch. 52 (1933) 467–516. – C. KIRMSSE: Die Terminol. des Mystikers Joh. Taulers (1930). – B. SCHMOLDT: Die dtsch. Begriffssprache Meister Eckharts (1954). – B. DIETSCHE: Der S. nach den dtsch. und lat. Pr., in: U. M. NIX/R. ÖCHSLIN (Hg.): Meister Eckhart als Prediger (1960) 167–199. – H. FISCHER/F. JETTÉ: Art. ‹Fond de l'âme›. Dict. de spiritualité 5 (Paris 1964) 650–666. – A. M. HAAS: Sermo mysticus (1979). – O. LANGER: Meister Eckharts Lehre vom S., in: Grundfragen christl. Mystik (1987) 173–191. – P. REITER: Der Seele Grund. Meister Eckhart und die Trad. der Seelenlehre (1993).",
+ "au":"P. Heidrich",
+ "A":["P. Heidrich"],
+ "cb":[[0,93],[395,93],[1020,93],[1942,93],[2790,94]],
+ "cn":[
+  [0,93],
+  [46,93],
+  [120,93],
+  [265,93],
+  [289,93],
+  [367,93],
+  [421,93],
+  [488,93],
+  [601,93],
+  [625,94],
+  [627,94],
+  [667,94],
+  [695,94],
+  [790,94],
+  [874,94],
+  [1030,94],
+  [1289,94],
+  [1345,94],
+  [1493,94],
+  [1617,94],
+  [1682,94],
+  [1796,94]
+ ],
+ "cl":[[0,94]]
+}
+);

@@ -1,0 +1,36 @@
+HWPH.put("t/1214",
+{
+ "b":"Halkyonisch (griech. ἀλκυονίς, lat. alcedo) wird meist in der Verbindung ‹halkyonische Tage› (= h. T.; griech. ἀλκυονίδες (ἡμέραι), lat. (h)alcyonis dies) gebraucht und bezeichnet eine zeitweilige beglückende Entsprechung von Natur und Seele. \nDer Begriff ‹h. T.› kommt aus der griechischen Mythologie; mit seiner Begründung, Herkunft und Bedeutung beschäftigen sich verschiedene Sagen . Grundlegend dürfte die Erzählung sein, nach der Alkyone – ein verschieden lokalisiertes und «infolgedessen in verschiedene Genealogien eingefügtes Meerwesen» – als Gemahlin des Königs Keyx von Trachis am Oeta galt . Keyx, der auf See umkommt, und Alkyone, die um ihren Gatten trauert, werden von Aiolos, dem Windgott und Vater Alkyones, in Eisvögel (ἀλκυόνες) verwandelt, deren klagenden Rufen besondere Bedeutung zugemessen wurde . Während der Brutzeit der Eisvögel ließ Aiolos 14 Tage Windstille herrschen – jedoch divergiert die Anzahl dieser h. T. . Wurde der Eisvogel Halkyon gelegentlich schon früher metaphorisch für die inmitten der Weltstürme wirkende Kirche gebraucht , setzte sich in der deutschen Literatur, jetzt ohne Bezug auf den Eisvogel als Symbol des Duldens und Klagens, der Begriff der h. T. nachdrücklich erst dank CHR. M. WIELAND durch . Sein Einfluß auf den Properzübersetzer L. v. KNEBEL und V. W. NEUBECK sowie später auf L. FOGLAR ist wahrscheinlich . FR. L. JAHN faßt die h. T. als «Eisvogeltage, wo der Geist in ruhiger Pflege der Zeit sich am Leben erwärmt» . So wird auch im ‹Freimütigen›, der von A. v. KOTZEBUE herausgegebenen Zeitschrift, auf die h. T. hingewiesen, die die Universität Göttingen dank des Wirkens einiger bedeutender Gelehrter und trotz «der Stürme und Ungewitter, die das Land umher verheerten» genoß. Wichtig wird der Begriff auch für G. HAUPTMANN und O. E. HARTLEBEN . Für A. STIFTER gibt – nach der Deutung des Nachsommer durch W. REHM – ‹halkyonisch› die Abgrenzung zum «Gefühlsüberschwang Jean Pauls» an. Rehm umschreibt die «halkyonische Stille» als «Windstille der Seele in weiter Landschaft unter lichtdurchflutetem blauem Himmel» . In solchem Sinne wurde ‹halkyonisch› auch zum Lieblingsbegriff des Stifterverehrers FR. NIETZSCHE . «Halkyonische Stimmung» spiegelt sich in seinem Sinnspruch ‹Der Halkyonier› wider . Diese Stimmung, die er in seiner späten Auseinandersetzung mit Wagner bei diesem vermißt , kennzeichnet Nietzsche als Grundlage der «gaya scienza», als «die leichten Füße, Witz, Feuer, Anmut, die große Logik, den Tanz der Sterne, die übermütige Geistigkeit, die Lichtschauder des Südens, das glatte Meer – Vollkommenheit» . – Der Romanist W. KRAUSS schildert in seinem in politischer Haft geschriebenen Roman ‹PLN› das Grauen des Gegenteils halkyonischer Seelenlage und signalisiert das kassiberhaft mit dem Untertitel ‹Passionen der halykonischen [sic] Seele› .",
+ "n":"U. v. WILAMOWITZ, Hermes 18 (1883) 417ff.; M. WELLMANN, Hermes 26 (1891) 515f.; vgl. RE 2, 1579ff. \nRE 1579. \nebda. \nebda. \nebda.; vgl. J. W. GOETHE, Philostrats Gemählde und Antik und Modern. Weimarer A. 49/I, 99. \nA. J. STORFER: Wörter und ihre Schicksale (1935) 96. \nVgl. a.a.O. 96; A. GOMBERT, Z. dtsch. Wortforsch. 3 (1902) 147 mit Hinweisen auf CHR. M. WIELAND, Werke (1839/40) 16, 119 (Peregrinus Proteus, zu «halk. Stille»); 18, 322 (Agathodämon, 1796); 21, 231 (Krates und Hipparchia, 1804); 26, 315 (Cyrus, 1756/57); 32, 172 (Gespr. unt. vier Augen, 1798). \nL. v. KNEBEL: Properz (dtsch. 1798). \nV. W. NEUBECK: Die Gesundbrunnen. Vier Gesänge (1799) 27. 30. \nL. FOGLAR: Neuere Gedichte (1859) 5. \nVgl. A. GOMBERT, Z. dtsch. Wortforsch. 2 (1901) 70; 3 (1902) 146f. \nFR. L. JAHN, Denknisse eines Deutschen oder Fahrten eines Alten im Bart, hg. K. SCHÖPPACH (1873) 70; vgl. R. ARNOLD: Ein neues lexikol. Verfahren. Z. österr. Gymnasien 52 (1901) 974; GOMBERT, a.a.O. (1902) 147; Storfer, a.a.O. [6] 97. \nDer Freimütige, hg. A. v. KOTZEBUE Nr. 36 (1806) 142 a. \nG. HAUPTMANN, Im Wirbel der Berufung. Werke 1/13 (1942) 383. \nO. E. HARTLEBEN: Halk. Brevier, hg. C. F. W. BEHL/CH. v. KLEMENT (o.J. [1965]) 9; Der Halkyonier. Ein Buch Schlußreime. Gedichtband (1904). \nW. REHM: Nachsommer. Zur Deutung von Stifters Dichtung (1951) 16. 30. \na.a.O. 16. \nVgl. STORFER, a.a.O. [6] 97; E. BERTRAM: Nietzsche (1919) 238. 240; R. BLUNCK: F. Nietzsche. Kindheit und Jugend (1953) 25. \nFR. NIETZSCHE, Gedichte. Kröner-A. 77. 500. \nDer Fall Wagner a.a.O. 77, 3ff. \n30; vgl. Ecce Homo a.a.O. 77. 380. \nW. KRAUSS: PLN [= Postleitnummer]. Die Passionen der halyk. Seele (1946).",
+ "l":"R. M. MEYER: Vierhundert Schlagworte (1900). – R. ARNOLD s. Anm. [12]. – A. GOMBERT s. Anm. [11]. – A. J. STORFER s. Anm. [6]. – W. REHM s. Anm. [16].",
+ "au":"G. Biller",
+ "A":["G. Biller"],
+ "cb":[[0,988],[244,988],[2551,989]],
+ "cn":[
+  [0,988],
+  [0,989],
+  [100,989],
+  [110,989],
+  [117,989],
+  [124,989],
+  [216,989],
+  [270,989],
+  [568,989],
+  [606,989],
+  [669,989],
+  [707,989],
+  [775,989],
+  [1011,989],
+  [1068,989],
+  [1130,989],
+  [1271,989],
+  [1342,989],
+  [1354,989],
+  [1479,989],
+  [1524,989],
+  [1557,989],
+  [1593,989]
+ ],
+ "cl":[[0,989]]
+}
+);

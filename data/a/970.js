@@ -1,0 +1,27 @@
+HWPH.put("a/970",
+{
+ "id":970,
+ "lemma":"Fundamentum in re",
+ "band":"2",
+ "kind":"article",
+ "col_from":1136,
+ "col_to":1136,
+ "pdf_from":7276,
+ "pdf_to":7276,
+ "authors":["O. Muck"],
+ "n_notes":0,
+ "n_chars":77,
+ "toc":[],
+ "html":"<p>Fundamentum in re ist sachliche Grundlage für die <a class=\"xref\" href=\"#/a/620\"><i>distinctio rationis</i></a> <span class=\"sd\">→ (s.d.)</span>.</p>",
+ "prev":{"id":969,"lemma":"Fundamentaltheologie","band":"2","col":1135},
+ "next":{"id":971,"lemma":"Fundierung","band":"2","col":1136},
+ "backlinks":[],
+ "outlinks":[{"id":620,"lemma":"Distinctio rationis","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[{"name":"Muck Otto","n":12}]
+}
+);

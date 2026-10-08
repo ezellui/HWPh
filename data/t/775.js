@@ -1,0 +1,37 @@
+HWPH.put("t/775",
+{
+ "b":"Epiphänomen. Im 18. Jh. ist der Begriff im deutschen , englischen und französischen Sprachbereich der Medizin zugeordnet. Während G. H. ZINCKE E. nur allgemein als Krankheitssymptom bestimmt, unterscheidet die französische ‹Encyclopédie› genau zwischen Symptomen, die der Krankheit eigentümlich sind, und anderen, die sich zusätzlich einstellen, ohne für die jeweilige Krankheit charakteristisch zu sein. Für die zweite Art von Symptomen habe der Arzt QUESNAY den Begriff ‹E.› geprägt nach sorgfältiger Prüfung, ob die Einführung dieses griechischen Terminus ins Französische notwendig sei. \n‹E.› bezeichnet in dieser Bedeutung die zufällige, nichtnotwendige Begleiterscheinung einer Haupterscheinung: Die ontologische Unterscheidung zwischen Essenz und Akzidens der scholastischen Philosophie wird damit auf den Bereich der Erscheinungen übertragen. Daran erinnert noch A. LALANDES Bestimmung des E. als «phénomène accessoire», dem das «phénomène essentiel» gegenübersteht . \nIm 19. Jh. wird der Begriff aus der Medizin in die philosophische Diskussion übernommen, und zwar in die auch medizinisch interessierende Auseinandersetzung über das Verhältnis von Seele und Leib. Den Standpunkt, das Bewußtsein sei eine Begleiterscheinung der physiologischen Prozesse, vertreten unter anderen L. BÜCHNER , TH. H. HUXLEY , H. MAUDSLEY , TH. RIBOT und E. HAECKEL . F. BRENTANO differenziert diese Theorie in seiner Psychologie dahin, daß das Bewußtsein nicht nur physiologische Prozesse begleite, sondern auch psychische Phänomene, die wiederum eng mit physischen Phänomenen verbunden seien . Nach F. NIETZSCHE ist «die Bewußtheit nur ein accidens der Vorstellung ..., nicht deren notwendiges und wesentliches Attribut» . Das Bewußtsein sei ein Oberflächenphänomen, hinter dem der Kampf der Triebe und Zustände stehe . E. v. HARTMANN verwendet in seiner Erörterung dieser Theorien für den von ihnen dem Bewußtsein zugeschriebenen Charakter einer Begleiterscheinung den Begriff ‹E.› , den die erwähnten Autoren selbst nicht gebrauchen. \nH. DRIESCH bezieht den E.-Begriff auf das grundsätzlichere Problem des Verhältnisses von Geist und Materie. Nach Ansicht der Materialisten sei das Erleben, das Bewußtsein ein E. der Materie . \nVon L. W. STERN (1871–1938) wird ‹E.› im Zusammenhang mit der ‹Lehre vom Wirken (Teleologie)› im weltanschaulichen Sinne verwendet: Zweckmäßigkeit wird als E. mechanischer Wirksamkeiten, Entwicklung als E. mechanischer Vorgänge, als E. der Selbsterhaltung und als E. von Anpassungsakten aufgefaßt. Das Übel in der Welt ist bei ihm nur «E.» der «immanenten Zielstrebigkeiten, welche die eigentlich treibenden Faktoren des Weltgeschehens sind» . \nM. SCHELER, der die Eigenständigkeit des Psychischen vertritt, bezeichnet die Auffassung, das Psychische sei ein E. des Physischen, polemisch als ‹Epiphänomenalismus› . In anderem Zusammenhang gebraucht er ‹E.› selber, um im Gegensatz zum Eigentlichen, Wesentlichen die unwesentliche Begleiterscheinung zu charakterisieren. So erklärt er in der Abhandlung ‹Über Scham und Schamgefühl›, daß für Freud in den libidinösen Regungen die «eigentliche Substanz und Wirklichkeit unseres Lebens» bestehe, das bewußte Leben dagegen nur ein E. dieses eigentlich Wirklichen sei. Oder er stellt die Frage, ob die von der Phänomenologie untersuchten Phänomene das absolut Seiende, das Ding-an-sich oder «bloße E. eines absolut realen Kausalnexus von Dingen und Kräften» seien . \nNeuerdings unterscheidet R. KIRCHHOFF zwischen einem materialistischen (Bewußtsein als E. der Materie) und einem psychistischen Epiphänomenalismus (Bewußtsein als E. des Unterbewußtseins) . \nIm englischen Sprachbereich wird ‹epiphaenomenalism› gelegentlich synonym mit ‹psychophysischem Parallelismus› verwendet, so z.B. von H. D. LEWIS . M. H. MARX und W. A. HILLIX heben den Epiphänomenalismus vom Phänomenalismus ab .",
+ "n":"G. H. ZINCKE: Conversations-Zeitungs-Lex. 2. Teil (1746). \nOxford English Dict. (21961) 243. \nEncyclopédie ou dictionaire raisonné..., hg. DIDEROT/d'ALEMBERT 12 (1779) 692. \nLalande10, 293. \nL. BÜCHNER: Kraft und Stoff (1855); Neudr. hg. W. BÖLSCHE (1900) 123. \nTH. H. HUXLEY: Zeugnisse für die Stellung des Menschen in der Natur, dtsch. hg. G. HEBERER (1963, 21970) 138. \nH. MAUDSLEY: Physiol. of mind (21876). \nTH. RIBOT: Les maladies de la mémoire (1881) bes. 11; Les maladies de la volonté (221906) bes. 8; Die Persönlichkeit (1894) bes. 4ff. \nE. HAECKEL: Die Welträtsel (1900) bes. 195–216. \nF. BRENTANO: Psychol. vom empirischen Standpunkt (1874), hg. O. KRAUS (1924) bes. 141; vgl. 117. \nF. NIETZSCHE: Die fröhliche Wiss. (1882). Werke (1903) 8, 71. \na.a.O. 176. \nE. v. HARTMANN: Die moderne Psychol. (1901) 376. \nH. DRIESCH: Met. der Natur, in: Hb. der Philos., hg. A. BAEUMLER/M. SCHRÖTER (1927) Abt. 2, Abschn. B, 81. \nL. W. STERN: Person und Sache, System der philos. Weltanschauung 1 (1906) 253. 275. 305. 309. 314. 427. \nM. SCHELER: Der Formalismus in der Ethik und die materiale Wertethik (1913). Werke (1957) 2, 423. 428; Vom Umsturz der Werte a.a.O. 3, 271; Zur Phänomenol. und Met. der Freiheit a.a.O. 10, 163. \nZur Phänomenol. ... a.a.O. 10, 175. \n114. \n419. \nR. KIRCHHOFF: Das Problem des Bewußtseins und die Geist-Seele-Thematik. Philos. Rsch. 5 (1957) 18. \nH. D. LEWIS: The elusive mind (1969) 194. \nM. H. MARX und W. A. HILLIX: Systems and theories in psychol. (New York/San Francisco/Toronto/London 1963) 27.",
+ "l":"",
+ "au":"W. Nieke",
+ "A":["W. Nieke"],
+ "cb":[[0,586],[592,586],[977,586],[1233,587],[2028,587],[2221,587],[2666,587],[3431,587],[3622,587]],
+ "cn":[
+  [0,586],
+  [0,587],
+  [59,587],
+  [94,587],
+  [174,587],
+  [191,587],
+  [262,587],
+  [373,587],
+  [413,587],
+  [548,587],
+  [597,587],
+  [695,587],
+  [756,588],
+  [758,588],
+  [771,588],
+  [821,588],
+  [929,588],
+  [1034,588],
+  [1229,588],
+  [1266,588],
+  [1272,588],
+  [1278,588],
+  [1378,588],
+  [1421,588]
+ ],
+ "cl":[]
+}
+);

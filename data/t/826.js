@@ -1,0 +1,46 @@
+HWPH.put("t/826",
+{
+ "b":"Eselsbrücke (pons asinorum) wurde im Mittelalter das Diagramm genannt, das ARISTOTELES' Lehre zur Auffindung eines Mittelbegriffs (inventio medii) zum Beweis der verschiedenen Schlußsätze im Syllogismus veranschaulichte . \nIst ein zu beweisender Satz vorgegeben, ist also fraglich, ob dessen Prädikat (A) dem Subjekt (E) zukommt, so sind nach Aristoteles einerseits die Begriffe zusammenzustellen, die – umfangslogisch formuliert – anerkanntermaßen zum Prädikat (A) in der Beziehung des ihn Enthaltens (B) oder des von ihm Enthaltenseins (C) oder der Unverträglichkeit (D) stehen, und andererseits die Begriffe, die in den entsprechenden Beziehungen zum Subjekt (E) stehen, nämlich in gleicher Reihenfolge die \nFig. 1 \nFig. 2 \nKlassen F, G und H. Aristoteles gibt für die vier möglichen Satzarten insgesamt sechs, wie wir heute sagen würden, «idiotensichere» Regeln, die einen Übergang von der einen Seite auf die andere, gleichsam ohne hereinzufallen, erlauben. Für einen allgemein bejahenden Schlußsatz beispielsweise ergibt ein Vergleich der Klassen F und C den Beweis, falls sie ein gemeinsames Glied, eben den gesuchten Mittelbegriff, enthalten. Ist ein partikulär bejahender Satz zu beweisen, dann muß dieses gemeinsame, den Übergang ermöglichende Bindeglied in den Klassen C und G oder G und B liegen. Bei allgemein verneinenden Schlußsätzen muß das verbindende Glied in den Klassen D und F bzw. H und B, also unter Berücksichtigung der Unverträglichkeitsklassen, gesucht werden, was auch für die sechste Regel gilt, die anweist, in den Klassen G und D nach dem Mittelbegriff zum Beweis einer partikulär verneinenden Konklusion zu suchen . \nWährend die Kennzeichnung dieser Klassen durch die ersten Buchstaben des Alphabets bereits von Aristoteles stammt (lateinische Buchstaben haben wir der späteren Merkwörter wegen gewählt), ist es nicht sicher, ob erst ALEXANDER VON APHRODISIAS im 3. Jh. diese sechs Regeln in einem Diagramm beschrieben hat. Das ausgeführte Diagramm selbst (vgl. Figur 1), dessen Erfinder Alexander möglicherweise war (wie das Minio-Paluello annimmt, der als erster darauf aufmerksam gemacht hat) findet sich mit allen Beispielen Alexanders im Kommentar des JOHANNES PHILOPONUS (6. Jh.), aber auch in den ältesten griechischen Manuskripten der ‹Analytica Priora›, ebenso wie in einem wohl von BOETHIUS geschriebenen lateinischen Scholion zu seiner Übersetzung dieses Werkes . AVERROES, in dessen Analytik-Kommentar das Schema als eine «figura ex Antiquis excerpta» wieder erscheint, erleichterte seine Handhabung durch den Bezug der erlaubten, aber auch der verbotenen Übergänge auf die einzelnen Figuren und Modi des Syllogismus . Von ihm dürfte ALBERTUS MAGNUS die Figur übernommen haben . \nDer erste bekannte Merkvers, der sogar bereits alle neun möglichen Kombinationen berücksichtigt, stammt aus dem 13. Jh. : \n«FaCia CoGenti DeFert HeBere GraDendo \nGalBa valent, sed non constant HeDes FaBer HirCe.» \nDie Großbuchstaben zeigen durch ihre Reihenfolge die Richtung des Übergangs an. Die späteren Merkwörter, die man etwa bei THOMAS BRICOT (15. Jh.) überliefert findet, nämlich: \nFeCanA, CaGetI, DaFenEs, HeBarE, GeDacO und GeBalI \ngeben außerdem mit ihrem letzten Vokal an, wie der zu beweisende Schlußsatz nach Qualität und Quantität beschaffen sein muß (A = affirmo universaliter; I = affirmo partialiter, E = nego universaliter; O = nego partialiter), während die ersten beiden Vokale die Beziehung auf das Subjekt (e) oder das Prädikat (a) kennzeichnen sollen . \nBei JOHANNES DORP, dem Buridan-Kommentator, findet man auch die Merkwörter für die verbotenen Übergänge innerhalb des Merkverses normiert : \n«Fecana, Cageti, Dafenes, Hebare, Gedaco, \nGebali stant, sed non constant Febas, Hedas, Heca.» \nPETRUS TARTARETUS bringt die unwesentlich erweiterte Figur mit dem ironischen Hinweis: «quae communiter propter eius apparentem difficultatem pons asinorum dicitur», der die erste bisher bekannte Erwähnung der «Eselsbrücke» enthält . \nEine gänzlich neue Auslegung für die Figur der E. nimmt im 18. Jh. A. RÜDIGER im Rahmen seiner Lehre vom synthetischen Syllogismus in Anspruch. Die Mittelwaagerechte des Diagramms repräsentiert bei ihm nicht mehr den zu beweisenden Schlußsatz, sondern die durch Assumption eines Mittelbegriffs synthetisch zu erweiternde «propositio fundamentalis» . Er macht, ähnlich wie Aristoteles, dabei Gebrauch von den Ober- und Unterbegriffen (einschließlich der vollständig disjunkten, unverträglichen Unterbegriffe) zum Subjekt bzw. Prädikat und gelangt so zu vier Schemata mit je 18 möglichen Kombinationen, die sich in einer einzigen Figur darstellen lassen (Figur 2). Es bezeichne a das Subjekt, b das Prädikat des Ausgangssatzes; einen der Oberbegriffe, einen der Unterbegriffe und die vollständige Disjunktion der Unterbegriffe des Subjekts a und entsprechend , und für das Prädikat b. Der Ausgangssatz, die «propositio fundamentalis», entspricht der mittleren Waagerechten (Linie 1), die Konversion der rückläufig gelesenen mittleren Waagerechten (Linie 2), die klassischen Syllogismen werden durch die Linien 3–8, 13 und 14 (gestrichelt) dargestellt, und die verbleibenden Linien 9–12 und 15–18 (ausgezogene Linien) repräsentieren die Kombination der Syllogismen mit vier Begriffen. Insgesamt gewinnt Rüdiger auf diese Weise 55 gültige Schlußsätze .",
+ "n":"Vgl. ARISTOTELES, Anal. pr. I, 27–30. \na.a.O. I, 27, bes. 44 a 12–45 a 22. \nL. MINIO-PALUELLO: A Latin commentary (translated by Boethius?) on the Prior Analytics, and its Greek sources. J. hellenic Stud. 77/1 (1957) 93–102, bes. 97 Anm. 7; vgl. zu den Beispielen J. M. BOCHEŃSKI: Formale Logik 24. 35 (31970) 164f. \nARISTOTELES, Opera cum Commentariis AVERROIS, Editio Juntina I, 2 (1562, Nachdruck Minerva 1962) fol. 78r. \nVgl. C. PRANTL: Gesch. der Logik 2 (21885) 392f. \na.a.O. 3 (1867) 105. \nVgl. a.a.O. [3]. \nVgl. PRANTL, a.a.O. 4 (1870) 201 Anm. 129. \nVgl. 4, 237 Anm. 359. \nVgl. 4, 206 Anm. 165 mit Figur; auch bei BOCHEŃSKI, a.a.O. [3] zu S. 256 abgebildet. \nA. RÜDIGER: Disp. de novis ratiocinandi adminiculis (1704); De sensu veri et falsi (21722) Tabula II u. III. \nVgl. H. SCHEPERS: Andreas Rüdigers Methodologie (1959) 95ff., bes. 95f. Anm. 3. 99; vgl. auch W. RISSE: Die Logik der Neuzeit 2 (1970) 668.",
+ "l":"",
+ "au":"H. Schepers",
+ "A":["H. Schepers"],
+ "cb":[
+  [0,743],
+  [223,743],
+  [711,743],
+  [719,743],
+  [727,743],
+  [1390,744],
+  [1648,744],
+  [2723,744],
+  [2846,744],
+  [2885,744],
+  [2937,744],
+  [3113,744],
+  [3165,744],
+  [3501,744],
+  [3642,744],
+  [3685,744],
+  [3738,744],
+  [3973,744],
+  [4830,745]
+ ],
+ "cn":[
+  [0,743],
+  [0,745],
+  [39,745],
+  [76,745],
+  [317,745],
+  [425,745],
+  [475,745],
+  [497,745],
+  [515,745],
+  [559,745],
+  [582,745],
+  [668,745],
+  [778,745]
+ ],
+ "cl":[]
+}
+);

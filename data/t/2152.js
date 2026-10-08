@@ -1,0 +1,12 @@
+HWPH.put("t/2152",
+{
+ "b":"Nominismus. Der Ausdruck ‹N.› ist ein Neologismus F. M. MÜLLERS zur Kennzeichnung seines sprachkritischen Entwurfs einer monistischen Erkenntnistheorie auf der Grundlage einer einheitlichen Wissenschaft der Sprache und des Denkens, in Abgrenzung gegen den Nominalismus des 11. bis 14. Jh. . G. RUNZE übernahm die Wortneubildung Müllers als programmatischen Titel für seinen glottophilosophischen Versuch einer «wahr haft monistischen Lösung des erkenntnistheoretischen Grundproblems», nämlich des Verhältnisses von Sprache und Denken, Stoff und Geist . Während man nominalistische Theorien seit den Kynikern und Stoikern primär durch ihre antiplatonische Stellungnahme in der Universaliendiskussion kennzeichnen kann, insofern sie allgemeine Begriffe lediglich als in Gestalt oder in Verbindung mit nomina bestehend interpretieren, bezieht der N. Müllers, Runzes sowie die beiden verwandte Theorie G. GERBERS sprach- und philosophiekritisch Stellung im Monismusstreit des 19. Jh. und versucht, im Gegensatz zu allen systematischen Identitätsphilosophien einen sprachphilosophischen Monismus als «methodisches Ergebnis einer psychologischen und erkenntnistheoretischen Kritik der Sprache in ihrem Verhältnis zum Denken» zu entwickeln und in bewußter Anknüpfung an LOCKE, HERDER, KANT und vor allem W. v. HUMBOLDT eine «linguistische» Philosophie auf den Ergebnissen der Sprachwissenschaft des 19. Jh. zu begründen. Diese enge Beziehung zur Sprachwissenschaft unterscheidet den N. von allen nominalistischen und monistischen Philosophien. Der N. bezieht seine Argumente aus dem Grundsatz der – teils parallelistisch, teils dialektisch-operational gedeuteten – Untrennbarkeit von Sprache und Denken und sieht in dieser durch die Sprachforschung explizit gemachten Erkenntnis eine «vollständige Revolution der Philosophie» und zugleich die einzig mögliche Grundkonzeption aller zukünftigen Philosophie.",
+ "n":"F. M. MÜLLER: Das Denken im Lichte der Sprache (The sci. of thought), dtsch. E. SCHNEIDER (1888) Vorrede VIII. \nG. RUNZE: Sprache und Gedanke. Beilage I der Stud. zur vergl. Relig.wiss. (1889) 188. \nG. GERBER: Die Sprache und das Erkennen (1884). \nRUNZE, a.O. [2] 188. \n194. \nMÜLLER, a.O. [1] 45.",
+ "l":"L. NOIRÉ: F. M. Müller und die Sprachphilos. (1879). – S. J. SCHMIDT: Sprache und Denken als sprachphilos. Problem von Locke bis Wittgenstein (1968).",
+ "au":"S. J. Schmidt",
+ "A":["S. J. Schmidt"],
+ "cb":[[0,889]],
+ "cn":[[0,889],[112,889],[199,889],[248,889],[270,889],[276,889]],
+ "cl":[[0,889]]
+}
+);

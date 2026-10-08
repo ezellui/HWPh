@@ -1,0 +1,12 @@
+HWPH.put("t/2905",
+{
+ "b":"Sitz im Leben ist ein vom Alttestamentier H. GUNKEL für «die Literatur urwüchsiger Zeiten» geprägter Begriff, der ihren «Quellort» angibt. Diese Literatur ist «bei gewissen, besonderen Gelegenheiten des wirklichen Lebens zu Worte gekommen» . Der «Sitz im Volksleben» für den Rechtsspruch ist das Gericht, für das Siegeslied der «Einzug des siegreichen Heeres» . Der Begriff ‹S.i.L.› bezeichnet innerhalb der frühchristlichen Literaturgeschichte nach M. DIBELIUS «die geschichtlichsoziale Lage, in der gerade derartige literarische Formen ausgebildet werden» . ‹S.i.L.› meint also nicht den aktuellen Anlaß für ein Produkt der Literatur, sondern bezeichnet eine regelmäßig wiederkehrende Lage der sozialen Bezüge und damit zusammenhängend die Zielsetzung, die der literarischen Gattung eigen ist. Der Begriff wird darum vornehmlich für die Kleinliteratur verwendet, für die derartige Gesetzmäßigkeiten festgestellt sind. \nDer in der Theologie inzwischen weithin aufgenommene Begriff ist auch in der Literaturwissenschaft rezipiert worden, etwa in der Gattungsgeschichte des Mittelalters: Hier «ist alle Literatur noch funktional durch ihren S.i.L. bestimmt, entspringt solchen unmittelbar verwirklichten, selbstverständlichen und darum zumeist unreflektierten Funktionen, nicht also einem reflektierten Verhältnis zur Form als ästhetischem Mittel» .",
+ "n":"H. GUNKEL: Formen der Hymnen. Theol. Rdsch. 20 (1917) 269. \nDie israelit. Lit., in: Die Kultur der Gegenwart I, 7 (1906, 21925, ND 1963) 55; vgl. 56; vgl. Art. ‹Bibelwiss. I, C›. RGG1 1 (1909) 1193; Reden und Aufs. (1913) 33. 35. \nM. DIBELIUS: Die Formgesch. des Evang. (31959) 7. \nVgl. z.B. R. BULTMANN: Die Gesch. der synopt. Trad. (81970) 4; K. KOCH: Was ist Formgesch.? (51989) 34–48. \nH. R. JAUSS: Theorie der Gattungen und Lit. des MA, in: Grundr. der roman. Lit. des MA 1 (1972) 132; vgl. M. WALTZ: Zum Probl. der Gattungsgesch. im MA – am Beispiel des Mirakels. Z. roman. Philol. 86 (1970) bes. 35f.; R. WARNING: Elem. einer Pragmasemiotik der Komödie, in: W. PREISENDANZ/R. WARNING (Hg.): Das Komische. Poetik und Herm. 7 (1976) 282f. 317ff.",
+ "l":"M. J. Buss: The idea of S.i.L. – Hist. and crit. Z. alttestamentl. Wiss. 90 (1978) 157–170. – G. SELLIN: ‘Gattungʼ und ‘S.i.L.ʼ auf dem Hintergrundvon Mündlichkeit und Schriftlichkeit synopt. Erzählungen. Evang. Theol. 50 (1990) 311–331.",
+ "au":"H.-W. Bartsch",
+ "A":["H.-W. Bartsch"],
+ "cb":[[0,937],[921,937],[1339,938]],
+ "cn":[[0,937],[0,938],[60,938],[231,938],[282,938],[390,938]],
+ "cl":[[0,938]]
+}
+);

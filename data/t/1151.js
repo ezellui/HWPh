@@ -1,0 +1,25 @@
+HWPH.put("t/1151",
+{
+ "b":"I. Im Unterschied zum formalen Begriff der Simultaneität, dem Gegenbegriff zu dem der Sukzessivität, wie er schon im ἅμα (simul) der Formulierung des Widerspruchsprinzips bei ARISTOTELES liegt , meint der geschichtsphilosophische und -theologische Terminus ‹G.› (dän. Samtidighed) bei KIERKEGAARD zweierlei: 1. das Leben des Einzelnen in und mit der geschichtlichen Zeit, in der er existiert; 2. sein Leben in und mit Christus . Das Interesse Kierkegaards gilt dem letzteren. In bezug darauf muß man einen eigentlichen und einen uneigentlichen, zunächst zwar gebrauchten, aber dann wieder durchgestrichenen Begriff des Gleichzeitigen unterscheiden. Dieser bezeichnet den Augen- und Ohrenzeugen. Einen solchen kann es im Verhältnis zum Gottmenschen nicht geben. Denn daß der unmittelbar wahrnehmbare Mensch Jesus Gott ist, das ist selbst keineswegs unmittelbar wahrzunehmen. Gibt es aber im Verhältnis zum Gottmenschen keine G. «in unmittelbarem Sinne», dann besteht trotz aller sekundären Differenzen auch kein Wesensunterschied zwischen dem Zeitgenossen Jesu und dem «Späteren». Es läßt sich, streng genommen, nicht trennen zwischen einem Jünger «erster» und einem «zweiter Hand». Den Glauben nämlich, der sie zu Jüngern macht, müssen beide aus der Hand Gottes empfangen. Wie also der scheinbar unmittelbar Gleichzeitige darum noch nicht wahrhaft gleichzeitig ist, so kann der in unmittelbarem Sinne Nicht-Gleichzeitige gleichzeitig werden – auf dieselbe Weise und dank desselben, wodurch auch jener es werden kann . Denn Glaube ist nichts anderes als die vom historischen Abstand unbeeinträchtigte G., und Christwerden heißt: gleichzeitig werden mit Christus . \nEine Interpretation auch der Beziehung zur profanen Geschichte als derart mittelbarer G. verbietet sich für Kierkegaard, weil er als die Bedingung der Möglichkeit einer G. mit dem «Leben Christi auf Erden» gerade dessen Abgeschiedenheit von der Geschichte betrachtet. Besonders hier zeigt sich: Der Begriff hat einen polemischen Akzent gegen Hegel und damit eine gewisse geistesgeschichtliche Nähe zu der ebenfalls hegel-kritischen Lehre RANKES, daß alle Epochen gleich unmittelbar zu Gott sind , einer Lehre, an die KIERKEGAARD auch insofern erinnert, als er sie in die These abwandelt, daß alle Epochen gleich mittelbar zu Christus sind. Doch entgegen dem Selbstverständnis Kierkegaards ist die von ihm bedachte G. auch gar nicht so weit entfernt von der «Gegenwart Gottes», in die sich nach HEGEL mit der Vollendung des Glaubens die dem Leben Christi von der Vorstellung zugemutete «Ferne der Vergangenheit» verwandelt . Letztlich hebt sie sich hiervon nur dadurch ab, daß Kierkegaard das trinitarische Christentumsverständnis Hegels zu einem binitarischen verkürzt und allein vom Sohn erwartet, was Hegel als Wirken des Hl. Geistes verstanden hat. \nII. ‹G.› und ‹Ungleichzeitigkeit› sind Kategorien E. BLOCHS, mit denen er die Entstehung des Hitlerfaschismus zu verstehen sucht. «Die verelendete Mitte ... widerspricht dem Jetzt. ... Das subjektiv Ungleichzeitige ... erscheint ... als aufgestaute Wut» . «Dem entspricht das objektiv Ungleichzeitige ... ‹Es› umgreift ... unaufgearbeitete Vergangenheit ... Haus, Boden, Volk sind solche abgehobenen Widersprüche zum kapitalistischen Jetzt, worin sie wachsend zerstört und nicht ersetzt worden sind» . Das ungleichzeitige Bewußtsein wird geschärft durch den objektiv gleichzeitigen Widerspruch. Statt diesen aufzuheben, gebraucht das Kapital «den lebenden Antagonismus einer noch lebenden Vergangenheit als ... Kampfmittel gegen ... sich dialektisch gebärende Zukunft» . «Das Fundament des ungleichzeitigen Widerspruchs ist ... [die] noch nicht ganz abgegoltene Vergangenheit» . Der gleichzeitige Widerspruch «ist im Heute ... Seine subjektive Erscheinung ... [ist] der klassenbewußte [revolutionäre] Prolet. Seine objektive Erscheinung ... [ist] verhinderte Zukunft» .",
+ "n":"ARIST., Met. IV, 1005 b 19. \nS. KIERKEGAARD, Samlede Værker2 12, 84 (Einübung ins Christentum). \n4, 247–263. 281–302 (Philos. Brocken 4. und 5. Kap.); vgl. 7, 84f. (Abschließende unwiss. Nachschrift). \n12, 19. 83 (Einübung ins Christentum); vgl. 14, 309–315 (Der Augenblick). \nL. v. RANKE: Über die Epochen der neueren Gesch. (verf. 1854, 11888), in: Weltgesch. 8 (51922) 177. \nG. W. F. HEGEL, Phänomenol. des Geistes, hg. HOFFMEISTER 548. \nE. BLOCH: Erbschaft dieser Zeit (1962) 116. \na.a.O. 117. \n118. \n122. \n119.",
+ "l":"W. T. HAHN: Das Mitsterben und Mitauferstehen mit Christus bei Paulus. Ein Beitrag zum Problem der G. des Christen mit Christus (1937). – P. LØNNING: ‹Samtidighedens Situation›. En studie i S. Kierkegaards kristendomsforståelse (Oslo 1954). – S. HOLM: S. Kierkegaards Geschichtsphilos. (dtsch. 1956). – V. LINDSTRÖM: Efterföljelsens teologi hos S. Kierkegaard (Stockholm 1956) 62–94.",
+ "au":"M. Theunissen H. Brinkmann",
+ "A":["M. Theunissen","H. Brinkmann"],
+ "cb":[[0,674],[1246,675],[1664,675],[2817,675]],
+ "cn":[
+  [0,674],
+  [0,675],
+  [29,675],
+  [97,675],
+  [202,675],
+  [277,675],
+  [378,675],
+  [441,675],
+  [486,675],
+  [499,675],
+  [505,675],
+  [511,675]
+ ],
+ "cl":[[0,675]]
+}
+);

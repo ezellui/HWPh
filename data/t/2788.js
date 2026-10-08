@@ -1,0 +1,36 @@
+HWPH.put("t/2788",
+{
+ "b":"Schwermut. Im Mittelhochdeutschen heißen ‹schwaermuetic› ‘gedrückten Mutesʼ und ‹swarmueti› zunächst ‘Zornʼ, dann ‘Traurigkeitʼ; schließlich werden die Wörter fast synonym mit ‹melancholisch› bzw. ‹Melancholie› (s.d.) gebraucht . Offensichtlich setzt ‹Sch.› die Tradition von ‹Acedia› (s.d.) fort , wird deshalb religiös interpretiert und steht so in inhaltlichem Bezug zur Sünde; wie z.B. H. SEUSE bezeugt: «ein sündig, geladen, swaermuetig herz» . Auch für M. LUTHER ist diese Verbindung selbstverständlich: «... wo ist grösser traurigkeit und schweer mut denn ein böse, verzagt, schuldig gewissen?» \nWährend Rationalismus und Aufklärung die Sch. nur als Krankheit betrachten – J. H. ZEDLER berichtet 1743 ausschließlich über therapeutische Maßnahmen –, wird Sch. in der Dichtung des Seelenkultes und der Empfindsamkeit im 18. Jh. (J. P. Uz, L. H. CH. HÖLTY, F. U. L. SCHRÖDER, F. VON MATTHISSON u.a.) oft zur ästhetischen Grundstimmung der Lyrik ; beliebte Adjektive zu Sch. sind hier ‹sanft› und ‹süß›, die angrenzenden Ausdrücke des Bedeutungsfeldes ‹Trauer›, ‹Wehmut›, ‹Sehnsucht› . K. H. HEYDENREICH, für den alle Kunst «Darstellung der Empfindsamkeit» ist, gibt dazu die ästhetische Theorie: Wenn der Mensch für ihn wesentliche Zwecke nicht erreichen, sie aber auch nicht vergessen kann, wird er in seiner «Sch. eine gewisse sanfte Wollust empfinden». Daraus folgen die Elegien, «Gesänge einer süssen Wehmut» . \nDie Romantik macht aus diesem anthropologischen und ästhetischen Phänomen ein metaphysisches und erkennt die Sch. in der gesamten Welt: als Schmerz und Trauer in der unerlösten Natur (L. TIECK, NOVALIS, N. LENAU) . F. W. J. SCHELLING bringt den in der romantischen Kunst artikulierten Gedanken auf den spekulativen Begriff: Das Tiefste im Menschen und in der Natur ist die Sch.; sie zeigt die Rückverbindung der Kreatur zu einem Prinzip des Bösen und der Trauer in Gott . Die romantische spekulative Psychologie von C. G. CARUS reflektiert auf die Identität des Bewußten und Unbewußten in Sch. und Trauer und deutet sie als einen «raupenhaften», noch unfreien und unentfalteten «Seelenzustand». Sch. ist eine seelische Verfassung, der die alten Mythen wie die moderne Dichtung entstammen . Formal ähnlich interpretiert G. W. F. HEGEL die Trauer in den griechischen Götterstatuen; sie zeige an, daß in ihnen der Geist noch nicht zur Ruhe gekommen ist . Die Sch. der Moderne aber kritisiert Hegel als Ausdruck einer «gehaltlosen Subjektivität», ihrer «Schwäche» und ihrer «verlogenen Herrlichkeit des Gemüts» – während für A. W. SCHLEGEL die Sch. der «Grundton» der christlichen und modernen Poesie ist . – Wie noch bei J. W. GOETHE und A. SCHOPENHAUER die Melancholie, so ist bei F. NIETZSCHE die Sch. vor allem die Eigenschaft des Genies, besonders des Künstlers und Dichters; jedoch verrät sie hier keinen Vorrang mehr, sondern den Makel, nicht «der Wahrheit Freier» sein zu können: «Nur Narr! Nur Dichter!» \nSchon bei F. HÖLDERLIN deutete die Sch. auf eine Kollision des Ästhetischen und des Christlich-Religiösen . S. KIERKEGAARD stellt dann explizit den Begriff zurück in eine Beziehung zur Sünde und versteht die Sch. der «Ästhetiker» (des Dichters und des Verführers) als Signum ihrer Verzweiflung und Unerlöstheit . Sch. ist «die Krise für das Religiöse» und leitet als solche durch das ‘ästhetischeʼ und ‘ethischeʼ Stadium, um reif zu machen für das religiöse . Bei Kierkegaard läßt sich – im Gegensatz zum sonst synonymen Sprachgebrauch – ein Bedeutungsunterschied zwischen ‘Melancholieʼ und Sch. (dän. tungsind) feststellen: Während ‹Melancholie› das unbewußte Sehnen nach dem Religiösen bezeichnet, steht ‹Sch.› für das entschiedene, reflektierte Sehnen . Die christlich-religiöse Deutung der Sch. blieb präsent und nötigte auch später zur begrifflichen Unterscheidung von Melancholie als klinischer Krankheitsform und «existentieller Sch.» .",
+ "n":"W. WACKERNAGEL: Altdtsch. Lesebuch (Basel 1861) 284; F. J. MONES: Anzeiger für Kunde der dtsch. Vorzeit, 4. Jg. (1853) 368 (§ 21); TRÜBNERS Dtsch. Wb. (1955) 6, 276f.; GRIMM 9 (1899) 2572ff.; vgl. JOH. TAULER: Die Pr., hg. F. VETTER (1910, ND 1968) 93. 184. 386; H. FLÜGEL: Zweifel Sch. Genialität (1952) 31–52. \nW. REHM: Gontscharow und Jakobsen (1963) 95f.; D. RUPRECHT: Tristitia (1959) 9–16. \nH. SEUSE: Büchlein der ewigen Weisheit. Dtsch. Schr., hg. K. BIELMEYER (1907) 212, 27. \nM. LUTHER: Auslegung des 118. Ps. (1529–30). Weimarer Ausg. 31/1, 177. \nJ. H. ZEDLER: Grosses vollst. Univ.-Lex. 36 (1743) 464–476; J. A. EBERHARD: Versuch einer allg. dtsch. Synonymik in einem krit.-philos. Wb. der sinn verwandten Wörter der hochdtsch. Mundart (1799) 4, 35f. \nVgl. z.B. F. SCHILLER: Über Matthissons Gedichte (1794). Nat.ausg. 22 (1943ff.) 265–283. \nC. TH. BECK: Ernst, Gefühl und Laune (1784) 47f.; vgl. CH. KAHN: Die Melancholie in der dtsch. Lyrik des 18. Jh. (1932). \nK. H. HEYDENREICH: System der Aesthetik (1790) 273. \nR. SCHNEIDER: Sch. und Zuversicht (1948). \nF. W. J. SCHELLING: Philos. Unters. über das Wesen der menschl. Freiheit ... (1809). Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) I/7, 399; Stuttgarter Privatvorles. (1810), a.O. 465f. \nC. G. CARUS: Psyche (1851, 21860) 298–308. \nG. W. F. HEGEL: Vorles. über die Ästhetik 2. Jub.ausg., hg. H. GLOCKNER (1927–40) 13, 75ff. 101f. \na.O. 12, 326; A. W. SCHLEGEL: Krit. Schr. und Br., hg. E. LOHNER (1966) 5, 25. \nA. SCHOPENHAUER: Welt als Wille und Vorstellung I, § 57 (1819). Sämtl. Werke, hg. A. HÜBSCHER 2 (1938) 376. \nF. NIETZSCHE: Also sprach Zarathustra 4. Das Lied der Schwermuth (1885). Krit. Ges.ausg., hg. G. COLLI/M. MONTINARI (1967ff.) 6/1, 365–370. \nW. REHM: Orpheus (1950) 283. 365f. \nS. KIERKEGAARD: Entweder-Oder. Ges. Werke 2 (1957) 197ff.; W. REHM: Kierkegaard und der Verführer (1949) 223f. 387. 408ff. u.ö. \nStadien auf des Lebens Weg (1845). Ges. Werke 15 (1958) 457. \na.O. 458. \nvgl. V. A. MCCARTHY: ‘Melancholyʼ and ‘Religious Melancholyʼ in Kierkegaard. Kierkegaardiana 10 (1977) 152–165. \nR. GUARDINI: Vom Wesen der Schwermut [1928] (1987). \nL. BINSWANGER: Melancholie und Manie (1960) 10.",
+ "l":"",
+ "au":"G. Schultz",
+ "A":["G. Schultz"],
+ "cb":[[0,1495],[129,1496],[603,1496],[1420,1496],[2930,1496],[3866,1497]],
+ "cn":[
+  [0,1495],
+  [0,1497],
+  [313,1497],
+  [397,1497],
+  [485,1497],
+  [557,1497],
+  [763,1497],
+  [853,1497],
+  [975,1497],
+  [1028,1497],
+  [1071,1497],
+  [1260,1497],
+  [1304,1497],
+  [1403,1497],
+  [1483,1497],
+  [1592,1497],
+  [1733,1497],
+  [1769,1497],
+  [1898,1497],
+  [1960,1497],
+  [1971,1497],
+  [2084,1497],
+  [2137,1497]
+ ],
+ "cl":[]
+}
+);

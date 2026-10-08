@@ -1,0 +1,43 @@
+HWPH.put("t/2541",
+{
+ "b":"Quadrivium, bei BOETHIUS noch «quadruvium» genannt, war im Mittelalter die Sammelbezeichnung für eine Gruppe von Unterrichtsfächern aus der Enkyklios Paideia (s.d.) oder den septem artes liberales, nämlich die Arithmetik, Musik, Geometrie und Astronomie. Diese Fächer waren ebenso wie jene des Triviums zunächst nichts anderes als Dienerinnen der Theologie. Sie wurden von den christlichen Gelehrten des MA nur soweit für nützlich erachtet, als sie zum Studium und Verständnis der Hl. Schrift, dem Endziel aller geistigen Bemühungen, beitrugen. Das Q., die artes reales, wurde vom Trivium, den artes sermonicales, deutlich abgegrenzt, wobei die Kirche die Grammatik, Rhetorik und Dialektik weit höher schätzte als die artes reales. Schließlich waren sie für das Studium der Bibel naturgemäß wichtiger . \nDer Aufbau der mittelalterlichen Studienordnung wurde in erster Linie von den vorhandenen und benutzbaren Büchern bestimmt . Das Q. entsprach etwa den heutigen mathematischen und naturwissenschaftlichen Unterrichtsfächern, setzte darum die Beherrschung der lateinischen Buch- und Disputationssprache und damit das im Trivium erworbene Können voraus. Zumeist wurde das Q. in progressiver Ordnung, d.h. ein Fach nach Abschluß des andern und nicht fächerweise nebeneinander gelehrt. Nach ALKUIN bilden die artes liberales die sieben Säulen, auf welche die Weisheit sich stütze, und nur wer die Säulen wie Stufen einer Treppe emporsteige, könne die vollendete Wissenschaft erreichen («Sapientia liberalium literarum septem columnis confirmatur, nec aliter ad perfectam quemlibet deducit scientiam, nisi his septem columnis vel etiam gradibus exaltetur» ). Üblicherweise entsprach die Reihenfolge der Disziplinen der von ISIDOR festgelegten Ordnung: Nach den Fächern des Trivium kamen «Quarta arithmetica ... Quinta musica ... Sexta geometria ... Septima astronomia ...» . \nDer Umfang des Q. änderte sich ständig und war bei den nördlichen Völkern und im griechischen Bereich größer als im Süden. Hier galt sein Inhalt und sein Studium vielfach als unnütz oder gar gefährlich. HIERONYMUS jedenfalls war überzeugt, daß die Fächer des Q. zwar einige Wahrheiten enthielten, für das Bibelstudium jedoch gänzlich ohne Wert seien . Und bezeichnenderweise genießen in DANTES ‹Divina Commedia› nur die Autoren des Triviums wie Boethius, Isidor, Beda, Lombardus den Vorzug, in den Himmel versetzt zu werden , während sich die eigentlichen Autoren des Q. mit anderen Künstlern und Gelehrten (z.B. Vergil, Horaz, Cicero, Aristoteles, Platon, Euklid usw.) in den «Limbus», den ersten Kreis der Ungetauften ohne Sünde und Verdienst, verbannt sehen . \nDie Arithmetik war das wichtigste Fach des Q.; CASSIODOR befand ebenso wie HRABANUS MAURUS: «Tolle saeculo computum et omnia ignorantia caeca complectitur. Nec differre potest a caeteris animalibus, qui calculi non intelligit quantitatem» («Ohne die Arithmetik würde die ganze Welt von größter Unwissenheit umfangen sein. Wer nicht rechnen kann, ist kaum von den unvernünftigen Tieren zu unterscheiden») . Die Arithmetik-Lehrbücher befaßten sich mit den einfachen natürlichen Zahlen in einem recht begrenzten Bereich, so mit geraden und ungeraden Zahlen, mit Brüchen usw., bei Neigung zu Merkwürdigkeiten und Spielereien. Der Unterricht litt unter der Verwendung der römischen Zahlzeichen; technisches Hilfsmittel war das Rechenbrett (Abakus). \nDie Musik war wesentlich Musiktheorie, Lehre vom Zusammenklang der Töne nach Zahlenverhältnissen, auch von den verschiedenen Musikinstrumenten, und beinhaltete den musikalischen Teil der Liturgie im Gottesdienst. Sie löste sich zuerst aus dem Verband der Q.-Fächer heraus. \nDie Geometrie war vornehmlich Geographie, wie sie CAPELLA im 6. Buch seiner fantastischen Enzyklopädie darstellt, und zwar der Erdteile, Gebirge, Flüsse und Städte, aber auch der Pflanzen und der Tiere. Die Geometrie spielte im artes-Kanon eher eine untergeordnete Rolle, weil ihr Inhalt für den auszubildenden Klerus kaum eine praktische Bedeutung hatte . \nDie Astronomie handelte von den Sternbildern und dem Tierkreis, von den «Ungeheuern des Himmels» und lehrte den Kalender, vor allem die Berechnung der kirchlichen Festtage. \nMit dem Untergang des römischen Reiches war die antike Lehrplan-Tradition vollkommen verschüttet worden. Erst im frühen MA entwickelten sich die artes wieder zusehends, wobei sich der Abstand zwischen den artes sermonicales und reales immer mehr vergrößerte. Je mehr sich die Kenntnisse erweiterten, desto weniger ließen sie sich jedoch in den engen Rahmen der artes spannen. Mit den im 13. Jh. aufkommenden Universitäten wandelte sich der artes-Lehrplan der Schule allmählich zur artistischen Fakultät der Universität. Viele der ehemals bedeutenden Kloster- und Domschulen sanken zu bloßen Vorbereitungsanstalten (facultas grammatica, heute noch erhalten im Begriff «Grammar School») herab . Obwohl an einigen großen Schulen noch lange das gesamte antike Fächerprogramm gelehrt wurde, entwickelten sich die artes immer mehr zur facultas artium, die als unterste Stufe und obligatorisches Propädeutikum sämtlichen universitären Studienrichtungen vorgelagert war . Die mit der Rezeption der Aristoteles-Schriften ständig zunehmenden logisch-dialektischen Studien verdrängten aber bald auch dort die artes, vor allem die Fächer des Q., so daß der alte Lehrplan gleichsam zwischen Schule und Universität verkümmerte und das ganze artes-System sich allmählich auflöste.",
+ "n":"BOETHIUS: De arithmetica I, 1. MPL 63, 1079ff. \nA. APPUHN: Das Trivium und Quadrivium in Theorie und Praxis (Diss. Erlangen 1900) 6; vgl. Art. ‹Artes liberales/artes mechanicae›. \nDie wichtigsten waren: VARRO: Discipl. lib. IX (Kommentar von F. RITSCHEL: Opusc. philolog. 3 [Leiden 1877] cap. 9); MARTIANUS CAPELLA: De nuptiis Philol. et Merc. lib. IX, hg. A. DICK (1925); AUGUSTINUS: De ordine lib. II; De doctrina christ. lib. IV. MPL 32, 977ff.; 34, 16ff.; BOETHIUS: De geometria (unecht); De musica lib. V. MPL 63, 1167ff.; De arithmetica lib. II, a.O. 1079ff. 1167ff.; CASSIODORUS: De artibus ac discipl. liberalium litt. lib. I. MPL 70, 1149ff.; ISIDOR VON SEVILLA: Etymologiarum sive originum lib. XX. MPL 82, 74ff.; HRABANUS MAURUS: De instit. clericorum lib. III; Artium liberalium ordo et natura lib. I. MPL 107, 293ff. 379ff. \nALKUIN: Grammat. Opera II, 268. MPL 100, 368. \nISIDOR, a.O. [3] I, c. 2. MPL 82, 74. \nHIERONYMUS: In Ep. ad Titum c. 1. MPL 26, 558. \nDANTE: Div. comm. Paradiso X, 97–138. \nInferno IV, 70–151. \nCASSIODOR, a.O. [3] c. 4 opp.; Gretii II, 586; HRABANUS MAURUS: Liber de computu c. 1 opp. MPL 107, 671. \nBOETHIUS, a.O. [3]. MPL 63, 1167ff. \nMARTIANUS CAPELLA, a.O. [3]. \nF. A. SPECHT: Gesch. des Unterrichtswesen in Dtschland (1885) 143. \nVgl. Vorrede zu BOETHIUS, a.O. [3] 63. \nVgl. H. M. KLINKENBERG: Der Verfall des Q., in: J. KOCH (Hg.): Artes liberales (1959) 1–32. \nVgl. J. VERGER: Les universités au Moyen Age (Paris 1974). \nJ. DOLCH: Lehrplan des Abendlandes (1959) 147.",
+ "l":"J. de SACRO BOSCO: Algorismus (1501). – M. CANTOR: Vorles. über Gesch. der Mathematik 1–4 (1880/1908). – J. J. BAEBLER: Beitr. zur Gesch. der lat. Grammatik im MA (1885). – F. A. SPECHT s. Anm. [12]. – P. G. MEIER: Die sieben freien Künste, in: Jahresber. Lehr-und Erziehungs-Anstalt Einsiedeln (1885/86) 3–30. – S. GÜNTHER: Gesch. des math. Unterrichts (1887). – A. APPUHN s. Anm. [2]. – M. MAURITIUS: Gesch. der lat. Lit. des MA 1–3 (1911/23/31). – J. L. HEIBERG (Hg.): Anonymi Logica et Quadrivium cum scholis antiquis (1929). – CASSIODORI senatoris institutiones, hg. R. A. B. MYNORS (Oxford 1937). – G. PACHYMERES: Quadrivium, hg. P. TANNERY (Rom 1940). – E. R. CURTIUS: Europ. Lit. und lat. MA (1948). – G. MÜNZEL: Der Zyklus der sieben freien Künste in der Vorhalle des Freiburger Münsters (1950). – W. WÜHR: Das abendländ. Bildungswesen im MA (1950). – CH. D. du CANGE: Glossarium mediae et infimae Latinitatis II (Basel 1762, ND 1954). – J. DOLCH s. Anm. [16]. – J. KOCH (Hg.) s. Anm. [14]. – H. M. KLINKENBERG s. Anm. [14]. – H. FUCHS: Art. ‹Enkyklios paideia›. RAC 5 (1960) 366–398. – J. VERGER s. Anm. [15]. – I. HADOT: Arts libéraux et philosophie dans la pensée antique (Paris 1984).",
+ "au":"J. Dolch",
+ "A":["J. Dolch"],
+ "cb":[
+  [0,1736],
+  [255,1737],
+  [804,1737],
+  [1873,1737],
+  [2628,1738],
+  [2637,1738],
+  [3382,1738],
+  [3656,1738],
+  [4014,1738],
+  [4188,1738],
+  [5453,1739]
+ ],
+ "cn":[
+  [0,1736],
+  [0,1738],
+  [48,1738],
+  [180,1738],
+  [838,1738],
+  [885,1738],
+  [922,1739],
+  [924,1739],
+  [972,1739],
+  [1011,1739],
+  [1032,1739],
+  [1138,1739],
+  [1175,1739],
+  [1205,1739],
+  [1273,1739],
+  [1313,1739],
+  [1406,1739],
+  [1466,1739]
+ ],
+ "cl":[[0,1739]]
+}
+);

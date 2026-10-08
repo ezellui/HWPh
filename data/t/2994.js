@@ -1,0 +1,47 @@
+HWPH.put("t/2994",
+{
+ "b":"Sprachspiel (engl. language game) \nI. – ‹S.› ist ein grundlegender Begriff in L. WITTGENSTEINS Spätphilosophie. Bereits früher spricht F. MAUTHNER von der Sprache als «Spiel» und «Spielregel», allerdings im Unterschied zu Wittgenstein im pejorativen Sinne . \nDer Terminus ‹S.› tritt zuerst in WITTGENSTEINS Vorlesungen der dreißiger Jahre auf und wird seitdem von ihm benutzt, zunächst auch noch in Verbindung mit der Rede von «Kalkülen» . Einerseits behauptet Wittgenstein, daß man die Bedeutung eines Worts in einer Sprache im allgemeinen mit seinem Gebrauch gleichsetzen könne, wobei dies wohl so verstanden werden soll, daß hier von seinem Gebrauch nach den konventionellen Regeln der Sprache die Rede ist. Andererseits kann dieser Gebrauch nicht unabhängig von den Sprachsituationen, in welchen das Wort verwendet wird, studiert werden. Diese verschiedenen Sprachsituationen sind aber wie Spiele, die den Regeln des Sprachgebrauchs unterworfen sind: Mit der Rede vom «Sprachspiel» will Wittgenstein hervorheben, «daß das Sprechen der Sprache ein Teil ist einer Tätigkeit, oder einer Lebensform» . Die Bedeutung eines Wortes ist dann erst mit den verschiedenen S.en gegeben, in denen das Wort – wie eine Schachfigur im Schachspiel – gebraucht wird. Wittgensteins nachdrückliche Betonung dieses Zusammenhangs unterstützt seine Polemik gegen die Auffassung, daß die Bedeutung eines Wortes eine «okkulte» innere geistige Entität sei. \nDie Verschiedenheit möglicher S.e dient auch dazu, die Verschiedenheit der grammatischen Modi, in welchen ein Satz dargestellt werden kann, zu kennzeichnen; doch gibt es nicht nur diejenigen Modi, die die gewöhnliche «Oberflächengrammatik» unterscheidet. «Tiefengrammatisch» gibt es unzählige Satzarten . \nDer Terminus ‹S.› wird aber nicht nur dazu benutzt, den wirklichen Sprachgebrauch zu charakterisieren. Er dient außerdem dazu, sprachliche Phänomene durch die Aufstellung von vereinfachten Modell-S.en, die als «Vergleichsobjekte» dienen sollen, zu beleuchten . Insbesondere scheinen solche Modell-S.e den Zweck zu haben, allgemeine Theorien über das ‘Wesenʼ der Sprache zurückzuweisen. Sie können aber auch ein eigenes Sprachsystem konstituieren, das sich von unserer Sprache nur darin unterscheidet, daß es einer einfacheren Lebensform als der unsrigen entspricht. \nII. – Eine eigene Rezeption hat der S.-Begriff in der Philosophie des Poststrukturalismus und seinen zahlreichen Spielarten gefunden. In unterschiedlichen, unter dem Terminus ‹Postmoderne› provisorisch sammelbaren Ansätzen wird deren gemeinsames Grundwort ‹Pluralismus› zuweilen in ausdrücklichem Rückgriff auf Wittgensteins Konzeption der S.e erläutert. \nVor allem J.-F. LYOTARD steht für das Postulat strikt heterogener Erscheinungsformen, inkommensurabler Aussagekategorien und Diskursarten. Nicht Konsens und Einheit, sondern der im Muster der irreduziblen S.e gründende Kommunikationsmodus der «Paralogie» («Agonistik», «Widerstreit») soll das sprachanalytisch reflektierte Modell einer zeitgemäßen, Disparates wahrenden Philosophie der Differenz bereitstellen, die die Hoffnung auf eine «Versöhnung der Sprachspiele» aufgegeben hat . Dem Diktum L. WITTGENSTEINS, den vielfältigen S.en sei «garnicht Eines gemeinsam» , entspricht dabei die These vom Fehlen einer übergreifenden «Meta-Regel» . \nEine ebenfalls an Wittgenstein anknüpfende, aber im Resultat gegensätzliche Position findet sich bei K.-O. APEL . Dieser sieht ein Verstehen von «gegebenen» S.en nur gewährleistet in der Annahme eines «transzendentalen Sprachspiels», welches zwar im Ideal einer «unbegrenzten Kommunikationsgemeinschaft» noch nicht realisiert, aber gleichwohl wirksam ist: Als «normative Voraussetzung aller Wissenschaft» und «Bedingung der Möglichkeit aller Kommunikation und gesellschaftlichen Interaktion» müssen wir es als verbindlich für alle anderen S.e immer schon voraussetzen. \nEntgegen dieser Auffassung Apels werden bei LYOTARD allen S.en gemeinsame «Metapräskriptionen» gerade ausgeschlossen. Folgenreich ist dessen Ansatz auch für den funktionalen Status der Philosophie: Diese ist nicht länger übergeordnet-privilegierte Repräsentantin eines alle anderen Diskurse verpflichtenden fundamentum veritatis, sondern eine (vor allem der Kunst) gleichgestellte Weise menschlich-kreativen Weltzugangs: Sie ist ein S. unter anderen. \nHatte WITTGENSTEIN den in der Anschauung des alltäglichen Gebrauchs gewonnenen S.-Begriff weitestgehend als Ideal einer auch ohne explizites Regelwissen (knowing that) gelingenden Sprach- und Lebenspraxis (knowing how) verstanden und einem einseitig aufs Propositionale reduzierten Wissensbegriff als Korrektiv entgegengestellt, so wird dieser kritische Impuls neuerlich sprachlogisch verfestigt. Auch der mitunter synonyme Begriffsgebrauch von ‹S.› und ‹Diskurs› weist in die Richtung einer theoretischen Überhöhung des ursprünglich am Praktischen orientierten Ansatzes. Kritiker haben folglich geltend gemacht, das weniger phänomenal ausgewiesene als axiomatisch erstarrte Theorem rigider Pluralität sei am lebensweltlichen Befund nicht nur nicht festzumachen, sondern dem Regelbegriff der ‹Philosophischen Untersuchungen› beinahe entgegengesetzt . \nDer bei Wittgenstein mit dem S.-Begriff eng verwobene Begriff der «Familienähnlichkeit» , wie auch das heute mit ‹Vagheit› und ‹Porosität› bezeichnete Phänomen eines «Begriff[s] mit verschwommenen Rändern» , gerät denn auch andernorts zur Legitimation für einen gerade auf Übergänge und Ähnlichkeiten der separierten Diskurse hinzielenden, analogischen Begriffsgebrauch . \nSo macht die hier zweifach fortwirkende Rezeption des S.-Begriffs ein Grundproblem der ‘Postmoderneʼ überhaupt deutlich: Einerseits werden auch marginale Phänomene durch partikularisierende Festschreibung ihrer Grenzen zu sichern versucht; andererseits werden diese Begrenzungen dann gerade in analogisch-experimenteller Performanz wieder aufgeweicht.",
+ "n":"F. MAUTHNER: Beitr. zu einer Kritik der Sprache 1 (1901) 24f. \nL. WITTGENSTEIN: Philos. Grammatik I, § 26 [1931–33]. Schr. 4 (1969) 62. \nPhilos. Unters. I, § 23 [1945]. \nVgl. zu dieser Unterscheidung: a.O. § 664. \nVgl. die Aufzählung: a.O. § 23. \nIn den §§ 2 und 8 der ‹Philos. Unters.› werden Beispiele für solche einfachen Sprachen beschrieben; vgl. dazu auch: F. WAISMANN: Logik, Sprache, Philos. (1976) 145ff. \nJ.-F. LYOTARD: La condition postmoderne (Paris 1979); dtsch.: Das postmoderne Wissen (Graz/Wien 1986) passim; ferner: Le différend (Paris 1983); dtsch.: Der Widerstreit (21989); hier allerdings gewandelte Terminologie: statt ‹S.› nun ‹Satz-Regelsystem›; vgl. aber: a.O. 12. \nVgl. A. WELLMER: Zur Dialektik von Moderne und Postmoderne (1985) 104ff. \nWITTGENSTEIN, a.O. [3 zu I.] § 65. \nVgl. J.-F. LYOTARD: Grundlagenkrise. Neue Hefte Philos. 26 (1986) 1–33, bes. 6–11; kritisch: M. FRANK: Was ist Neostrukturalismus? (1983) 106–115; Das Sagbare und das Unsagbare. Stud. zur dtsch.-frz. Hermeneutik und Texttheorie. Erw. Neuausg. (1990) 574–607. \nK.-O. APEL: Die Kommunikationsgemeinschaft als trl. Voraussetzung der Sozialwiss. Neue Hefte Philos. 2/3 (1972) 1–40; ND, in: Transformation der Philos. 2 (1973) 220–263; vgl. auch: 89–94; vgl. G. WOLFF: Wittgensteins S.-Begriff. Wirkendes Wort 30 (1980) 225–240. \nAPEL, a.O. 228. \na.O. 254. \nz.B. J. BOUVERESSE: Rationalité et cynisme (Paris 1984) 145ff. 155ff. \nWITTGENSTEIN, a.O. [3 zu I.] § 67. \na.O. § 71. \nVgl. exemplarisch: W. WELSCH: Das Ästhetische – Eine Schlüsselkategorie unserer Zeit? in: W. WELSCH (Hg.): Die Aktualität des Ästhetischen (1993) 13–47, hier: 25–30.",
+ "l":"H. LÜBBE: ‘S.eʼ und ‘Geschichtenʼ. Neopositivismus und Phänomenol. im Spätstadium. Kantstudien 52 (1960/61) 220–243. – H. HERVEY: The problem of the model language-game in Wittgenstein's later philos. Philosophy 36 (1961) 333–351. – H. LENK: Zu Wittgensteins Theorie der S.e. Kantstud. 58 (1967) 458–480. – K. WUCHTERL: Struktur und S. bei Wittgenstein (1969) 110–128. – A. KENNY: Wittgenstein (1974) 186–207. – M. BLACK: Wittgenstein's language-games. Dialectica 33 (1979) 337–353. – H. BILLING: Wittgensteins S.-Konzeption (1980). – D. BIRNBACHER/A. BURCKHARDT (Hg.): S. und Methode. Zum Stand der Wittgenstein-Diskussion (1985). – M. B./J. HINTIKKA: Investigating Wittgenstein, ch. 11: Differences and interrelations among language-games (Oxford 1986) 272–304; dtsch.: Unters. zu Wittgenstein (1990) 346–386.",
+ "au":"E. Stenius F. Schlegel",
+ "A":["E. Stenius","F. Schlegel"],
+ "cb":[
+  [0,1534],
+  [35,1534],
+  [259,1534],
+  [1253,1535],
+  [1436,1535],
+  [1742,1535],
+  [2309,1535],
+  [2665,1535],
+  [3308,1535],
+  [3699,1536],
+  [3878,1536],
+  [4330,1536],
+  [5182,1536],
+  [5555,1536]
+ ],
+ "cn":[
+  [0,1534],
+  [0,1535],
+  [63,1535],
+  [137,1535],
+  [170,1535],
+  [214,1535],
+  [247,1535],
+  [413,1536],
+  [415,1536],
+  [690,1536],
+  [764,1536],
+  [800,1536],
+  [1060,1536],
+  [1325,1536],
+  [1342,1536],
+  [1353,1536],
+  [1424,1536],
+  [1460,1536],
+  [1472,1536]
+ ],
+ "cl":[[0,1535]]
+}
+);

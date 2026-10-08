@@ -1,0 +1,27 @@
+HWPH.put("s/76-79",
+{
+ "vyakta":"1vr:0,1",
+ "vyaptih":"1oj:0,4",
+ "vyaptivada":"1oj:0,0,0,1",
+ "vyasa":"1td:0,1 10j:0,1",
+ "vyasatirthas":"1oj:0,1",
+ "vygotskij":"1pu:0,4,1 7x:0,3,0,1",
+ "vygotskijs":"1xr:0,1",
+ "vygotsky":"fi:0,0,1 2e3:0,0,1",
+ "vyomasivas":"2ln:0,1",
+ "vyp":"1nf:0,0,0,1 5y:0,0,2",
+ "vypusk":"14o:0,0,1,1 bs:0,0,0,1",
+ "vysa":"2tw:0,1",
+ "vyseslavcev":"1td:0,0,1",
+ "vysinskij":"1f8:0,1,1",
+ "vysnemu":"1f8:0,1",
+ "vysokij":"1td:0,0,1",
+ "vyssago":"2ba:0,0,0,1",
+ "vystrela":"1kg:0,0,1",
+ "vyvcennja":"2e5:0,0,0,1",
+ "vyver":"1e2:0,0,2 7y:0,0,1 7d:0,0,2 r:0,0,1 7s:0,0,1 l7:0,0,1",
+ "vyverberg":"1ne:0,0,0,1 2l:0,0,0,1",
+ "vyvoje":"23a:0,0,1",
+ "vyʼ":"1yu:0,2"
+}
+);

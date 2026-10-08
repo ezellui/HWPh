@@ -1,0 +1,27 @@
+HWPH.put("a/468",
+{
+ "id":468,
+ "lemma":"Causa efficiens",
+ "band":"1",
+ "kind":"article",
+ "col_from":973,
+ "col_to":973,
+ "pdf_from":3370,
+ "pdf_to":3370,
+ "authors":["R. Specht"],
+ "n_notes":0,
+ "n_chars":515,
+ "toc":[],
+ "html":"<p>Causa efficiens ist eine der vier Ursachen: die Wirkursache oder das äußere Prinzip, das etwas anderes hervorbringt. Mit ihr ist auch die Wirkung gegeben; entfällt sie, entfällt auch die Wirkung; deshalb ist für die Scholastik eine Trägheitsbewegung nicht denkbar. Jede C. e. steht im hierarchisch geordneten Wirkenszusammenhang mit dem Ersten Beweger an der Spitze und ist grundsätzlich vollkommener als ihre Wirkung. Entsprechend den mannigfachen Arten des Wirkens erfährt die C. e. besonders viele Distinktionen.</p>",
+ "prev":{"id":467,"lemma":"Causa deficiens","band":"1","col":973},
+ "next":{"id":469,"lemma":"Causa essendi et fiendi","band":"1","col":973},
+ "backlinks":[{"id":3350,"lemma":"Ursache/Wirkung","n":1}],
+ "outlinks":[],
+ "register":[{"term":"Wirkursache","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":3350,"lemma":"Ursache/Wirkung"}],
+ "groups":[{"id":26,"name":"Metaphysik","label":"Causa efficiens"}],
+ "reg_authors":[{"name":"Specht Rainer","n":32}]
+}
+);

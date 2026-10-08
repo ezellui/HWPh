@@ -1,0 +1,23 @@
+HWPH.put("t/2412",
+{
+ "b":"Possest (Istkönnen), aus posse (können) und est (ist), ist ein zusammengesetzter symbolischer Name Gottes, den NIKOLAUS VON KUES erfunden hat. Er wird in dem gleichnamigen Dreigespräch und in cap. 13 von ‹De venatione sapientiae› erläutert. Die deutschen Übersetzungen dieses Kunstwortes lauten: Können-Sein (E. BOHNENSTAEDT), Seinkönnen (H. RUPPRICH), Können-Ist (W. und D. DUPRÉ und R. STEIGER) . – Daraus, daß in Gott Potenz und Akt identisch sind, folgert NIKOLAUS: «Deus omne id est actu, de quo posse esse potest verificari. Nihil enim esse potest quod deus actu non sit» («Gott ist all das in Wirklichkeit, von dem wahres Seinkönnen erweisbar ist. Denn nichts kann sein, das Gott nicht wirklich wäre») . Dies bedeutet nicht Identität von Gott und Welt: «Volo dicere omnia illa complicite in deo esse deus sicut explicite in creatura mundi sunt mundus» («Ich will sagen, daß alle Dinge in der Einfaltung in Gott Gott sind, so wie sie in der Entfaltung in der Schöpfung der Welt die Welt sind») . Die Einheit von absoluter Wirklichkeit und absolutem Können in Gott, die bereits in der Formulierung von ‹De docta ignorantia› I, 4, n. 11, 16 ausgesagt ist, wird auch in ‹De possest› durch die «Coincidentia oppositorum» erläutert . Diese Perspektive dient in erster Linie zur Unterscheidung des Geschaffenen vom Schöpfer. Am Beispiel der Sonne wird die Eingeschränktheit des jeweiligen Wirklichseins gegenüber dem eigenen Seinkönnen dargetan: Die wahrnehmbare Sonne kann, während sie im Osten steht, nicht auch an den andern Orten ihrer Himmelsbahn sein. Aber wenn man sagt, Gott sei ‘Sonneʼ, dann heißt dies, daß alle geschöpflichen Einschränkungen und Gegensätze aufgehoben sind. Gott-Sonne wäre überall in jedem beliebigen Teil des Himmels und zugleich die größte und die kleinste, so daß sie nicht größer und auch nicht kleiner sein könnte, und sie wäre «alles, so daß sie nicht ein andres sein könnte als sie ist» («ut non possit aliud esse quam est») . \nP. will, aus seiner Perspektive der Identität von Sein und Können in Gott als dem allumfassenden Ursprung, die anderen Gottesnamen nicht ersetzen, sondern vielmehr umgreifen. Es scheint darin auch schon das «Non aliud» (s.d.) anzuklingen , als Konsequenz aus dem besonderen Alles-sein Gottes. – Dennoch hat Nikolaus schließlich in ‹De apice theoriae› mit dem Namen «Posse ipsum» (das «Können-selbst») einen neuen Aufschwung des Denkens hin zu Gott gezeigt. «Wenn Cusanus im P. noch Posse und Esse in einer Ureinheit ... zusammengedacht hat, so stößt er jetzt, durch diese Heraushebung des absoluten Posse aus der Einheit mit dem Esse, noch vor zum Posse ipsum» . Nikolaus sieht es «als Können allen Könnens, im Vergleich zu dem [quo] nichts vorrangiger oder vollkommener sein kann, und dessen Nichtexistenz zur Folge hätte, daß überhaupt nichts bestehn bleiben kann» . – Während P. die absolute Wirklichkeit des absoluten Könnens aussagt, nimmt «Posse ipsum» die aus der Perspektive des Geschaffenen erscheinende Differenz in der Identität zurück in die einfache Einheit des Ursprungs.",
+ "n":"Übersetzungen des ‹Trialogus›: NICOLAUS CUS.: Vom Können-Sein, Vom Gipfel der Betrachtung, übers. E. BOHNENSTAEDT. Schr. in dtsch. Übers. (Leipzig 1947); Gespräch über das Seinkönnen, übers. H. RUPPRICH (1963); Trialogus de possest – Das Können-Ist, übers. D./W. DUPRÉ. Philos.-theol. Schr. 2 (Wien 1966) 267–359; Dreiergespräch über das Können-Ist (Trialogus de possest), übers. R. STEIGER. Lat.-dtsch. Parall.ausg., hg. E. HOFFMANN/P. WILPERT/K. BORMANN 9 (1973). \nTrialogus de possest, hg. R. STEIGER. Opera omn. XI/2 (1973) n. 8, 6. \na.O. n. 9, 6–7. \nn. 9. 10. \nn. 8, 10–12; n. 11. \nn. 11, 9. \nVgl. n. 12, 7–8. \nJ. STALLMACH: Sein und das Können-selbst bei N. von K., in: K. FLASCH (Hg.): Parusia, Festgabe J. Hirschberger (1965) 407–421, zit. 420. \nNICOLAUS Cus.: De apice theoriae n. 7, 17–19, hg. R. KLIBANSKY/J. G. SENGER. Opera omn. XII (1982); dieses Werk entstand Anfang April 1464, N. starb am 11. Aug. 1464; vgl. hierzu auch H. G. SENGER: Einl., in: NICOLAUS Cus.: Die höchste Stufe der Betrachtung. Lat.-dtsch. Parall.ausg. 19 (1986) VII–XXVIII.",
+ "l":"J. STALLMACH s. Anm. [8]. – S. DANGELMAYR: Gotteserkenntnis und Gottesbegriff in den philos. Schr. des N. von K. (1969) 257–295. – W. BEIERWALTES: Identität und Differenz (1980) 120–124. – D. PÄTZOLD: Einheit und Andersheit. Die Bedeut. kategorialer Neubildungen in der Philos. des Nic. Cus. (1981).",
+ "au":"G. Von Bredow",
+ "A":["G. Von Bredow"],
+ "cb":[[0,1125],[1311,1126],[1963,1126]],
+ "cn":[
+  [0,1125],
+  [0,1126],
+  [467,1126],
+  [538,1126],
+  [555,1126],
+  [566,1126],
+  [587,1126],
+  [598,1126],
+  [616,1126],
+  [754,1126]
+ ],
+ "cl":[[0,1126]]
+}
+);

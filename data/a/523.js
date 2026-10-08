@@ -1,0 +1,27 @@
+HWPH.put("a/523",
+{
+ "id":523,
+ "lemma":"Dann und nur dann, wenn – so",
+ "band":"2",
+ "kind":"article",
+ "col_from":11,
+ "col_to":11,
+ "pdf_from":3616,
+ "pdf_to":3616,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":200,
+ "toc":[],
+ "html":"<p>Dann und nur dann, wenn – so wird gesagt, wenn zwischen zwei Aussagen <a class=\"xref\" href=\"#/a/228\">Äquivalenz</a> <span class=\"sd\">→ (s.d.)</span> besteht, d.h. eine not wendige und hinreichende <a class=\"xref\" href=\"#/a/354\">Bedingung</a> <span class=\"sd\">→ (s.d.)</span>. Kürzer sagt man auch: «genau dann, wenn – so».</p>",
+ "prev":{"id":522,"lemma":"Dankbarkeit","band":"2","col":9},
+ "next":{"id":524,"lemma":"Darstellung","band":"2","col":11},
+ "backlinks":[],
+ "outlinks":[{"id":228,"lemma":"Äquivalenz","n":1},{"id":354,"lemma":"Bedingung","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Dann und nur dann, wenn..., so..."}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

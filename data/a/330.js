@@ -1,0 +1,27 @@
+HWPH.put("a/330",
+{
+ "id":330,
+ "lemma":"Autonym",
+ "band":"1",
+ "kind":"article",
+ "col_from":721,
+ "col_to":721,
+ "pdf_from":2556,
+ "pdf_to":2556,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":175,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Autonym. Ein Zeichen wird autonym verwendet, wenn es sich selbst bezeichnet (z.B. das Zeichen «¬» in dem Satz: «¬ bezeichnet den Negator» <sup class=\"fn\" data-fn=\"0-1\">1</sup>).</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Vgl. Art. <a class=\"xref\" href=\"#/a/2426\">→ Prädikatenlogik</a>, Nr. 2.</li>\n</ol>",
+ "prev":{"id":329,"lemma":"Autonomismus","band":"1","col":720},
+ "next":{"id":331,"lemma":"Autor","band":"1","col":721},
+ "backlinks":[{"id":3363,"lemma":"Use/Mention","n":1}],
+ "outlinks":[{"id":2426,"lemma":"Prädikatenlogik, Prädikatenkalkül","n":1}],
+ "register":[{"term":"Selbstbezeichnung","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[{"id":3673,"lemma":"Zeichen","tf":2}],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Autonym"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

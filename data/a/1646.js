@@ -1,0 +1,27 @@
+HWPH.put("a/1646",
+{
+ "id":1646,
+ "lemma":"Konträr",
+ "band":"4",
+ "kind":"article",
+ "col_from":1065,
+ "col_to":1065,
+ "pdf_from":14707,
+ "pdf_to":14707,
+ "authors":["Red"],
+ "n_notes":1,
+ "n_chars":374,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Konträr bezeichnet in der Logik bestimmte Formen des Gegensatzes zwischen Begriffen bzw. Aussagen <sup class=\"fn\" data-fn=\"0-1\">1</sup>. So heißen in der Syllogistik die Urteile <i>SaP</i> und <i>SeP</i> konträr zueinander. Zwei Prädikatoren (bzw. die entsprechenden Begriffe) <i>P</i> und <i>Q</i> sind konträr zueinander, wenn die folgende Prädikatorenregel gilt: <i>xεP</i> ⇒ <i>xε'Q.</i></p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">Zur Gesch. des konträren Gegensatzes vgl. Art. <a class=\"xref\" href=\"#/a/1018\">→ Gegensatz II</a>.</li>\n</ol>",
+ "prev":{"id":1645,"lemma":"Kontraposition","band":"4","col":1065},
+ "next":{"id":1647,"lemma":"Kontrast","band":"4","col":1066},
+ "backlinks":[],
+ "outlinks":[{"id":1018,"lemma":"Gegensatz","n":1}],
+ "register":[{"term":"Gegensatz, konträrer/kontradiktorischer","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":1018,"lemma":"Gegensatz"},{"id":2540,"lemma":"Quadrat, logisches"}],
+ "groups":[{"id":22,"name":"Logik","label":"Konträr"}],
+ "reg_authors":[{"name":"Red","n":242}]
+}
+);

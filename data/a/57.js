@@ -1,0 +1,27 @@
+HWPH.put("a/57",
+{
+ "id":57,
+ "lemma":"Affirmativ",
+ "band":"1",
+ "kind":"article",
+ "col_from":101,
+ "col_to":101,
+ "pdf_from":560,
+ "pdf_to":560,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":199,
+ "toc":[],
+ "html":"<p>Affirmativ (bejahend, positiv) heißen in der Logik Aus sagen von der Form <i>SaP</i> (von <i>a</i>ffirmo), z.B. «Alle Säugetiere sind Wirbeltiere», oder <i>SiP</i> (von aff<i>i</i>rmo), z.B. «Einige Vierecke sind gleichseitig».</p>",
+ "prev":{"id":56,"lemma":"Affirmation","band":"1","col":101},
+ "next":{"id":58,"lemma":"Agens","band":"1","col":101},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[{"id":380,"lemma":"Bejahung"},{"id":2545,"lemma":"Qualität des Urteils"}],
+ "groups":[{"id":22,"name":"Logik","label":"Affirmativ"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

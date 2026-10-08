@@ -1,0 +1,38 @@
+HWPH.put("a/1355",
+{
+ "id":1355,
+ "lemma":"Idealismus, transzendentaler, Realismus, empirischer",
+ "band":"4",
+ "kind":"article",
+ "col_from":43,
+ "col_to":44,
+ "pdf_from":11494,
+ "pdf_to":11496,
+ "authors":["H. Zeltner"],
+ "n_notes":7,
+ "n_chars":2683,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Idealismus, transzendentaler, Realismus, empirischer. Im Unterschied zu dem «materialen I.» vor allem Berkeleys, dem KANTS «Widerlegung des I.» gilt <sup class=\"fn\" data-fn=\"0-1\">1</sup>, bezeichnet Kant seine eigene Theorie als «t.I.», nach welchem wir alle Erscheinungen «insgesamt als bloße Vorstellungen, und nicht als Dinge an sich selbst, ansehen» <sup class=\"fn\" data-fn=\"0-2\">2</sup>. Er ist das Ergebnis der Vernunftkritik und heißt daher auch «kritischer I.». Er ist aber vor allem «der Schlüssel zur Auflösung der kosmologischen Dialektik» <sup class=\"fn\" data-fn=\"0-3\">3</sup>. Grundlegend dafür ist die in der ‹Transzendentalen Ästhetik› bewiesene Idealität von Raum und Zeit und damit der Erscheinungen überhaupt; danach sind Raum und Zeit «nur sinnliche Formen unserer Anschauung, nicht aber vor sich gegebene Bestimmungen, oder Bedingungen der Objekte, als Dinge an sich selbst». Gleichwohl haben sie «in Ansehung der Gegenstände der Sinne (der äußern und des innern) <i>als Erscheinungen</i>» volle Realität, und daß alle Erfahrung uns die Gegenstände nur als Erscheinungen zu erkennen gibt, bedeutet darum nicht, daß unsere Vorstellungen «nur den Schein von Gegenständen» enthalten <sup class=\"fn\" data-fn=\"0-4\">4</sup>. Es ist dies ein formaler I., d.h. er betrifft «nicht die Existenz der Sachen ..., denn die zu bezweifeln, ist mir niemals in den Sinn gekommen, sondern bloß die sinnliche Vorstellung der Sachen, dazu Raum und Zeit zu oberst gehören» <span class=\"col\" data-col=\"44\"></span> <sup class=\"fn\" data-fn=\"0-5\">5</sup>. Während der traditionelle I. – Kant nennt ihn auch «empirisch» – «indem er die eigene Wirklichkeit des Raumes annimmt, das Dasein der ausgedehnten Wesen in demselben leugnet, wenigstens zweifelhaft findet, und zwischen Traum und Wahrheit in diesem Stücke keinen genugsam erweislichen Unterschied einräumet», dagegen andererseits behauptet, daß die «innere Erfahrung das wirkliche Dasein ihres Objekts ... hinreichend beweise», führt der t.I. zu der Einsicht, «daß die Gegenstände äußerer Anschauung, eben so wie sie im Raume angeschauet werden, auch wirklich sind, und in der Zeit alle Veränderungen, so wie sie der innere Sinn vorstellt» <sup class=\"fn\" data-fn=\"0-6\">6</sup>.</p>\n<p>Komplementär zu diesem t.I. vertritt Kant also einen e.R.: «Ich habe in Absicht auf die Wirklichkeit äußerer Gegenstände eben so wenig nöthig zu schließen, als in Ansehung der Wirklichkeit des Gegenstandes meines innern Sinnes (meiner Gedanken), denn sie sind beiderseitig nichts als Vorstellungen, deren unmittelbare Wahrnehmung (Bewußtsein) zugleich ein genügsamer Beweis ihrer Wirklichkeit ist. Also ist der transzendentale Idealist ein empirischer Realist und gesteht der Materie, als Erscheinung, eine Wirklichkeit zu, die nicht geschlossen werden darf, sondern unmittelbar wahrgenommen wird» <sup class=\"fn\" data-fn=\"0-7\">7</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\"><span class=\"col\" data-col=\"44\"></span> I. KANT, KrV B 274ff.</li>\n<li id=\"fn0-2\" value=\"2\">KrV A 369.</li>\n<li id=\"fn0-3\" value=\"3\">B 518ff.</li>\n<li id=\"fn0-4\" value=\"4\">Fortschritte ... A 32. 34.</li>\n<li id=\"fn0-5\" value=\"5\">Prol. A 70: § 13, Anm. 3.</li>\n<li id=\"fn0-6\" value=\"6\">KrV B 519f.</li>\n<li id=\"fn0-7\" value=\"7\">KrV A 371.</li>\n</ol>",
+ "prev":{"id":1354,"lemma":"Idealismus, subjektiver","band":"4","col":43},
+ "next":{"id":1356,"lemma":"Idealrealismus","band":"4","col":44},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[{"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
+ "mentions":[
+  {"id":2578,"lemma":"Raum","tf":5},
+  {"id":814,"lemma":"Erscheinung","tf":5},
+  {"id":3628,"lemma":"Wirklichkeit","tf":5},
+  {"id":604,"lemma":"Ding an sich","tf":2},
+  {"id":161,"lemma":"Anschauung","tf":2},
+  {"id":2590,"lemma":"Realität/Idealität","tf":2},
+  {"id":527,"lemma":"Dasein","tf":2},
+  {"id":2183,"lemma":"Objekt","tf":2},
+  {"id":2730,"lemma":"Sache","tf":2},
+  {"id":786,"lemma":"Erfahrung","tf":2}
+ ],
+ "see_also":[],
+ "groups":[],
+ "reg_authors":[]
+}
+);

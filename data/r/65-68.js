@@ -1,0 +1,36 @@
+HWPH.put("r/65-68",
+[
+ ["Ehe","Familie; Ehe","",null,null,"ref",893,"Familie, Ehe","ehe"],
+ ["Ehe","Liebe","III","5","312","ref",1795,"Liebe","ehe"],
+ ["Ehe","Liebe","IV","5","320f.","ref",1795,"Liebe","ehe"],
+ ["Ehe","Sexualität","I","9","727","ref",2878,"Sexualität","ehe"],
+ ["Ehe","Weiblich/männlich","III","12","361f.","ref",3552,"Weiblich/männlich","ehe"],
+ ["Ehevertrag","Familie; Ehe","II 1","2","899","ref",893,"Familie, Ehe","ehevertrag"],
+ ["Ehre","Ehre","","2","319–323","main",654,"Ehre","ehre"],
+ ["Ehre","Achtung","",null,null,"see",41,"Achtung","ehre"],
+ ["Ehre","Ehrgeiz","",null,null,"see",656,"Ehrgeiz","ehre"],
+ ["Ehre","Grossmut","","3","887f.","ref",1189,"Großmut","ehre"],
+ ["Ehre, bürgerliche","Ehrlichkeit","","2","326","ref",657,"Ehrlichkeit","ehre, burgerliche"],
+ ["Ehre Gottes","Herrlichkeit","III","3","1083","ref",1260,"Herrlichkeit","ehre gottes"],
+ [
+  "Ehrenfels-Kriterien","Gestaltqualität","","3","550f.","ref",1120,"Gestaltqualität",
+  "ehrenfels-kriterien"
+ ],
+ ["Ehrfurcht","Ehrfurcht","","2","323f.","main",655,"Ehrfurcht","ehrfurcht"],
+ ["Ehrfurcht","Achtung","",null,null,"see",41,"Achtung","ehrfurcht"],
+ ["Ehrfurcht","Pietas","",null,null,"see",2375,"Pietas","ehrfurcht"],
+ ["Ehrfurcht","Religion","VII","8","677","ref",2673,"Religion","ehrfurcht"],
+ ["Ehrfurcht","Scham C","1","8","1208f.","ref",2751,"Scham, Scheu","ehrfurcht"],
+ ["Ehrfurcht","Vegetarismus","","11","560","ref",3377,"Vegetarismus","ehrfurcht"],
+ ["Ehrgefühl","Scham A","","8","1208f.","ref",2751,"Scham, Scheu","ehrgefuhl"],
+ ["Ehrgeiz","Ehrgeiz","","2","324f.","main",656,"Ehrgeiz","ehrgeiz"],
+ ["Ehrgeiz","Prestige","",null,null,"see",2450,"Prestige","ehrgeiz"],
+ ["Ehrgeiz","Grossmut","","3","897","ref",1189,"Großmut","ehrgeiz"],
+ ["Ehrgeiz","Hochmut","1","3","1150","ref",1286,"Hochmut","ehrgeiz"],
+ ["Ehrlichkeit","Ehrlichkeit","","2","325f.","main",657,"Ehrlichkeit","ehrlichkeit"],
+ ["Ehrlichkeit","Redlichkeit","",null,null,"see",2622,"Redlichkeit","ehrlichkeit"],
+ ["Ehrlichkeit","Wahrhaftigkeit","",null,null,"see",3522,"Wahrhaftigkeit","ehrlichkeit"],
+ ["Ehrliebe; Ehrsucht","Ehrgeiz","","2","325","ref",656,"Ehrgeiz","ehrliebe; ehrsucht"],
+ ["Ehre","Ehre","","2","320","main",654,"Ehre","ehre"]
+]
+);

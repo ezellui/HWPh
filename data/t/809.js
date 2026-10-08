@@ -1,0 +1,12 @@
+HWPH.put("t/809",
+{
+ "b":"Erlösungswissen (auch Heilswissen) ist bei M. SCHELER in der Trias: Leistungswissen – Bildungswissen – E. das höchste Wissensideal. Erstmalig fällt der Begriff in Schelers wissenssoziologischen Studien, der Sache nach regiert er bereits die religionsphilosophischen Schriften der mittleren Schaffensphase. – Da Scheler Wissen als liebendes Seinsverhältnis bestimmt, muß jedem Wissen ein finaler ontischer Sinn zukommen: den drei obersten Wissensarten korrespondieren drei oberste Werdensziele, denen Wissen dient. Dabei existiert eine objektive Rangordnung der Wissensgüter – entsprechend den drei Wertmodalitäten: Vitalwerte, Geisteswerte, Heiligkeitswerte-, die erst zusammengenommen die volle Idee des Wissens ausmachen. Entgegen Comtes Dreistadiengesetz betont Scheler die Gleichursprünglichkeit des religiösen, des metaphysischen und des positiven Wissens als dem Menschengeiste essentiell gegebene Erkenntnisformen. – E. heißt auf die kürzeste Formel gebracht: «Wissen um der Gottheit willen» . Es gründet in dem Verlangen des Menschen, aus partikularer Welterfahrung auszubrechen und sein Schicksal zu bergen in einer übermächtig geglaubten Wirklichkeit. Das Heil und die Liebe zum Heil aller Dinge sind Urkategorien der Religion; das «summum bonum» ist erster Intentionsgegenstand des religiösen Aktes. – In seiner späten pantheistischen Phase füllt Scheler den Begriff mit der eigenen metaphysischen Konzeption: in das Absolute wird der Konflikt von Geist und Drang hereingetragen. E. stellt sich nun dar als das «Wissen ..., in dem der oberste Grund der Dinge, insofern er sich selbst und die Welt in und durch den Menschen ‹weiß›, selbst zu seinem unzeithaften Werdensziel gelangt – zu irgendeiner Art der Einigung mit sich selbst, zur Erlösung von einer in ihm gelegenen Spannung und Urgegensätzlichkeit» . Durch liebenden Mitvollzug im Akt des Einsatzes tätiger Identifizierung mit dem Seienden ist der Mensch aufgerufen zur Mitverwirklichung «des aus dem Urgrunde werdenden Gottes» .",
+ "n":"M. SCHELER, Ges. Werke 8 (1960) 205. \na.a.O. 205f. \nDie Stellung des Menschen im Kosmos (61962) 91.",
+ "l":"Vgl. M. SCHELERS Abh.: Probleme der Religion, in: Vom Ewigen im Menschen (1921). 4. durchges. Aufl. in Ges. Werke 5, hg. MARIA SCHELER (1954); Die Stellung des Menschen im Kosmos (1928, 61962). – Weitere Lit. s. Art. ‹Leistungswissen›.",
+ "au":"S. Böhle",
+ "A":["S. Böhle"],
+ "cb":[[0,719],[1316,720]],
+ "cn":[[0,719],[0,720],[38,720],[52,720]],
+ "cl":[[0,720]]
+}
+);

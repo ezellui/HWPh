@@ -1,0 +1,9 @@
+HWPH.put("r/3c6-3c9",
+[
+ ["φωνή","Stimme","",null,null,"ref",3025,"Stimme","φωνη"],
+ ["φωνὴσυνθετή","Satz","I","8","1178","ref",2745,"Satz","φωνησυνθετη"],
+ ["φως͂","Licht","",null,null,"ref",1792,"Licht","φωσ"],
+ ["φως͂","Schein","I","8","1230","ref",2757,"Schein","φωσ"],
+ ["φωτισμός","Erleuchtung","",null,null,"ref",807,"Erleuchtung","φωτισμοσ"]
+]
+);

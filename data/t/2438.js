@@ -1,0 +1,45 @@
+HWPH.put("t/2438",
+{
+ "b":"Prägung (engl. imprinting). P. ist ein Phänomen einer Gruppe von Instinkthandlungen, die dadurch ausgezeichnet sind, daß erstens zwar der motorische Ablauf, nicht aber das Auslöseschema (Prägungsobjekt), angeboren ist, daß dieses zweitens nur in seinen überindividuellen Eigenschaften eingeprägt wird und daß drittens der Verlauf der P. sie von den übrigen Lernvorgängen unterscheidet . Das Phänomen der P. ist mindestens seit PLINIUS bekannt, der ein solches Verhalten bei einer Gans beobachtete ; weitere Beispiele historischer Phänomenbeschreibung finden sich bei E. H. HESS . Wissenschaftlich wurde P. erstmals von P. SPALDING untersucht , der W. James dazu inspiriert hat, für die Psychologie seine zwei Gesetze über Instinkte aufzustellen: das Gesetz der Hemmung von Instinkten durch Gewöhnung und das des Verschwindens der Instinktausprägung. \nDie eigentliche Begriffsdefinition geht auf K. LORENZ zurück, der – sich auf O. HEINROTHS Gebrauch der Verbform ‹einprägen› beziehend – den betreffenden Phänomenen die Bezeichnung ‹P.› verleiht . Für die Abgrenzung zu den Lernvorgängen nennt Lorenz dabei die Merkmale der Irreversibilität des P.-Vorganges, das eingeprägte Objekt wird im weiteren Verlauf der Entwicklung nicht vergessen; der Abhängigkeit der P. von gewissen festgelegten Reifungszuständen der Tiere, so daß sie nur innerhalb enger Zeitgrenzen möglich ist; sowie der Schnelligkeit, mit der die P. erfolgt, ohne daß dabei das angeborene Verhalten bereits aufzutreten braucht. Dieses kann unter Umständen erst zu einem späteren Zeitpunkt der Entwicklung durch das vorher eingeprägte Objekt ausgelöst werden . \nLorenz entwickelte seine Theorie der P. aus dem ethologischen Erkenntnisinteresse, vererbte Handlungsabläufe zur Klassifikation von Tierarten und -gattungen zu benutzen , so daß sie keinerlei Modifikationen durch Umweltfaktoren zeigen dürfen, durch die eine solche Taxonomie hinfällig würde. Stärker noch als die Vererbungstheorie von arteigenen Instinkthandlungen ist die P. der lerntheoretischen Hypothese der Abhängigkeit alles Verhaltens von Umweltfaktoren entgegengesetzt, da ihr Verlauf weder von Belohnungen beeinflußt wird noch rückgängig gemacht werden kann. Über diese prinzipielle Ablehnung der Allgemeinheit der Lerntheorie hat Lorenz auch nie Unklarheit aufkommen lassen . Mit wachsender Popularität der P.-Theorie sahen sich deshalb verschiedene behavioristisch orientierte Tierpsychologen veranlaßt, auf die Einwände von Lorenz zu reagieren. Dabei lassen sich drei Typen von Reaktionen unterscheiden: \na) Durch operationale Umdefinition des Begriffs der P. zu einer Form experimentellen Umgangs mit Jungtieren wurde durch H. MOLTZ eine wissenschaftstheoretische Assimilation an den Behaviorismus vorgenommen, die es bis heute erlaubt, diesen Begriff auch innerhalb der Lerntheorie zu benutzen . LORENZ kritisiert dieses Vorgehen im Gegenzug als Ausklammerung des «ganzen Organismus» aus der Wissenschaft , da keine Aussagen über phylogenetisch gewordene Strukturen mehr gemacht werden. \nb) Auf verschiedene Weise wurde versucht, durch experimentelle Nachweise die von Lorenz als differentia specifica aufgestellten Kriterien zu widerlegen. Der Hauptaspekt lag dabei im wesentlichen auf der Postulierung einer abgegrenzten sensiblen Phase und der Irreversibilität des eingeprägten Objekts . Die Stichhaltigkeit dieser Gegenversuche wurde von der an Lorenz orientierten Schule der Ethologie allerdings stark in Frage gestellt . \nc) Im dritten Anlauf wurden von den Lerntheoretikern die P.-Phänomene im Rahmen ihrer eigenen Theorie erklärt: MOLTZ führte anfänglich die P. auf den angstreduzierenden Charakter der Orientierung am Elternobjekt zurück , um sie später aus der Abhängigkeit von der Intensität des Reizes zu erklären . P. P. G. BATESON hingegen schlägt die Neuheit des P.-Objektes gegenüber den bereits gelernten als Theoriealternative vor , um im weiteren auf die Bedeutung der Entwicklung des Diskriminationsvermögens bei jungen Tieren zu verweisen. Die Erklärung der Spezifität der P. aus der frühen und mangelhaften, sich erst entwickelnden Unterscheidungsfähigkeit der Tiere geht auf W. SLUCKIN zurück und wurde von E. A. SALZEN durch sich an informationstheoretische Überlegungen anlehnende Modelle weiterentwickelt. Danach bildet sich im Gehirn der Tiere ein spezifisches Erkennungsmuster, welches aufgrundder mangelhaften Unterscheidungsfähigkeit anfangs sehr variabel (unspezifisch prägbar) sein kann. Anderseits dient es aber als Ausgangspunkt für die weitere Unterscheidung der Umweltkomplexität. Um für eine solche Gliederung hinreichend zu sein, muß das P.-Objekt ein stabiles Erkennungsmuster beim jungen Tier gebildet haben; dies erklärt die von Lorenz postulierte Irreversibilität. Im Laufe der Herausbildung der diskriminatorischen Fähigkeiten verschwindet die Eigentümlichkeit der P., da nunmehr die Umwelt genügend aufgeschlüsselt werden kann; dadurch erklärt sich das zweite Phänomen der P., ihre sensiblen Phasen. Die Nachfolgereaktion der Tiere und ihre Bindung an das Elternobjekt wird von Salzen, ähnlich wie bei Moltz, auf die Angstreduktion zurückgeführt, die durch die Wahrnehmung des vertrauten P.-Objektes vonstatten geht . \nAuch gegen die ausgearbeiteteren Ansätze ist von ethologischer Seite an Kritik nicht gespart worden. E. H. HESS hat gegenüber Salzen insbesondere die Irreversibilität des P.-Vorganges und die Aufrechterhaltung des P.-Objektes trotz aktiver Umweltexploration, die nicht im Rahmen der Angstreduktion erklärbar ist, geltend gemacht . Insgesamt bleibt der Widerspruch zwischen dem ethologischen und dem lerntheoretischen Ansatz zur Erklärung der P., trotz Anstrengungen von britischen Ethologen, die den aufgebrochenen Gegensatz von ‘angeborenʼ/‘erworbenʼ zu überwinden trachten , unversöhnlich bestehen. Während die Behavioristen sich um das Verhalten einzelner Tiere in experimentellen Versuchsituationen bemühen, orientieren sich die Ethologen Lorenzscher Prägung an der phylogenetischen Anpassung und kritisieren, daß «many conceptualization about imprinting in particular organisms are put forth with utter disregard for the phylogenetic, ecological, and ontogenetic history of that organism» .",
+ "n":"K. LORENZ. Der Kumpan in der Umwelt des Vogels (1935), in: Über tier. und menschl. Verhalten 1. 2 (1965) 1, 115–282, hier 70f. \nPLINIUS: Naturalis historia X, 26. \nE. H. HESS: Prägung (1975) 95ff. \nD. SPALDING: Instinct, with original observations on young animals. MacMillan's Magazine (1873); ND in: Brit. J. Anim. Beh. 2 (1954) 2–11. \nW. JAMES: Principles of psychol. 2 (1890) 394. 398. \nLORENZ, a.O. [1] 141. \nK. LORENZ: Über die Bildung des Instinktbegriffes (1937), a.O. [1] 283–342, hier 305f. \na.O. 308. \na.O. 305; Der Kumpan ..., a.O. [1] 131ff. \nH. MOLTZ: Imprinting: Empir. basis and theoret. significance. Psychol. Bull. 57 (1960) 291–314, hier 294. \nK. LORENZ: Phylogenet. Anpassung und adaptive Modifikation des Verhaltens (1961), a.O. [1] 2, 301–358, hier 318. \nVgl. MOLTZ, a.O. [10]; P. P. G. BATESON: The characteristics and context of imprinting, in: W. van der KLOOT/C. WALCOTT/B. DANE (Hg.): Readings in behavior (New York 1974) 329–372; R. A. HINDE: The establishment of the parent-offspring relation in birds, with some mammalian analogies, in: W. H. THORPE/O. L. ZANGWILL (Hg.): Current problems in animal behaviour (Cambridge 1966) 175–193. \nLORENZ, a.O. [11] 305ff.; HESS, a.O. [3] 423ff. \nMOLTZ, a.O. [10] 308. \nImprinting: An epigenetic approach. Psychol. Review 70 (1963) 123–138. \nBATESON, a.O. [12] 360ff. \nW. SLUCKIN: Perceptual and associative learning. Zool. Soc. London Symp. 8 (1962) 193–198. \nE. A. SALZEN: Imprinting and fear, a.O. 199–217; vgl. als Überblick: D. W. RAJECKI: Imprinting in precocial birds: Interpret., evidence, and evaluation. Psychol. Bull. 79 (1973) 48–58. \nHESS, a.O. [3] 439. \nVgl. W. H. THORPE/O. L. ZANGWILL (Hg.), a.O. [12]. \nE. H. HESS/S. B. PETROVICH (Hg.): Imprinting (Stroudsburg 1977) 4.",
+ "l":"K. LORENZ s. Anm. [1]. – D. W. RAJECKI s. Anm. [18]. – E. H. HESS/S. B. PETROVICH (Hg.) s. Anm. [21].",
+ "au":"H. Hildebrandt",
+ "A":["H. Hildebrandt"],
+ "cb":[
+  [0,1250],
+  [851,1250],
+  [1307,1251],
+  [1625,1251],
+  [2542,1251],
+  [3027,1251],
+  [3467,1251],
+  [5199,1252],
+  [5202,1252]
+ ],
+ "cn":[
+  [0,1250],
+  [0,1252],
+  [128,1252],
+  [164,1252],
+  [198,1252],
+  [338,1252],
+  [391,1252],
+  [414,1252],
+  [502,1252],
+  [513,1252],
+  [556,1252],
+  [663,1252],
+  [777,1252],
+  [1166,1252],
+  [1215,1252],
+  [1238,1252],
+  [1310,1252],
+  [1337,1252],
+  [1429,1252],
+  [1615,1252],
+  [1636,1252],
+  [1688,1252]
+ ],
+ "cl":[[0,1252]]
+}
+);

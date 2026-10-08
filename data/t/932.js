@@ -1,0 +1,12 @@
+HWPH.put("t/932",
+{
+ "b":"Formalstufen. Mit ‹F.› bezeichnet man die von HERBART konzipierten, von seinen Anhängern, besonders von T. ZILLER, fortentwickelten, dabei aber verengten und schematisierten Stufen des Unterrichts. Es geht dabei um die innere Ordnung des Lern- und Erkenntnisvorganges. HERBART selbst verwendet den Begriff ‹F.› nicht. Er geht aus von seiner Interessenlehre und dem fruchtbaren Gedanken des Wechselspiels von Vertiefung und Besinnung: In der Vertiefung faßt der Mensch mit Sorgfalt und Klarheit das Einzelne auf; die Besinnung muß die vielen Vertiefungen ordnen und verbinden. Auf dieser «Sammlung» beruht die Einheit des Bewußtseins. Hieraus entwickelte HERBART die vier F. Klarheit, Assoziation, System und Methode. Ruhende Vertiefung wirkt Klarheit. Assoziation geschieht beim Fortschreiten von einer Vertiefung zur anderen. Ruhende Besinnung führt zur rechten Ordnung, zum System. «Der Fortschritt der Besinnung ist Methode. Sie durchläuft das System, produziert neue Glieder desselben und wacht über die Konsequenz in seiner Anwendung» . Der Gliederung des Interesses in Erkenntnis und Teilnahme folgend, verlangt Herbart, daß der Unterricht allgemein (d.h. im Bereich der Erkenntnis) «zeigen, verknüpfen, lehren, philosophieren» soll. «In Sache der Teilnahme sei er anschaulich, kontinuierlich, erhebend, in die Wirklichkeit eingreifend» . Beide Reihen sind Ableitungen der ursprünglichen F. – Herbarts Anhänger haben die Lehre von den F. bis ins einzelne ausgebaut. T. ZILLER teilt die Stufe der Klarheit in Analyse und Synthese . W. REIN übersetzt die so gewonnenen fünf F. in Vorbereitung, Darbietung, Verknüpfung, Zusammenfassung, Anwendung . O. WILLMANN unterscheidet Auffassen, Verstehen, Verarbeiten als Aneignungsstufen, denen er die didaktischen Vermittlungen Darstellen, Erklären, Befestigen zuordnet .",
+ "n":"J. F. HERBART: Allg. Pädag. (1806) 2. Buch 1. Kap. II. \na.a.O. 2. Buch 4. Kap. II. \nT. ZILLER: Allg. Pädag. (31893). \nW. REIN: Pädag. im Grundriß (41907) 109. \nO. WILLMANN: Didaktik als Bildungslehre (61957) 444.",
+ "l":"G. GLÖCKNER: Die formalen Stufen bei Herbart und seiner Schule, in: Jb. des Vereins für wiss. Pädag. (1892) 184ff. – H. HAASE: Der ursprüngliche Sinn der Lehre von den Stufen des Unterrichts (1910). – TH. WIGET: Die formalen Stufen des Unterrichts (101911). – B. SCHWENK: Das Herbartverständnis der Herbartianer (1963).",
+ "au":"F. Seidenfaden",
+ "A":["F. Seidenfaden"],
+ "cb":[[0,971],[107,972]],
+ "cn":[[0,971],[56,971],[84,971],[118,971],[160,971]],
+ "cl":[[0,972]]
+}
+);

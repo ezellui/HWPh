@@ -1,0 +1,23 @@
+HWPH.put("t/1954",
+{
+ "b":"Meteora, Meteorologos. Der Ausdruck ‹ta meteora› (griech. τὰ μετέωρα) bezeichnet in der vorsokratischen Naturphilosophie alle Erscheinungen über der Erde, sowohl der unteren Sphäre, des Aër, also Nebel, Wolken, Regen, Hagel, Schnee, Winde, wie auch der oberen, des Aither, also die Gestirne, die Sternbilder des Fixsternhimmels, die Planeten und ihre Bewegungen, Kometen und andere Lichterscheinungen des Himmels . Eine Meteorologie im eingeschränkten modernen Sinne wurde jedoch erst durch ARISTOTELES geschaffen: M. als die Wissenschaft der Erd- und Luftbewegungen, wie Wetterstrahlen, kalte Schläge, Windhosen und ähnliche Erscheinungen mehr . Diese Erscheinungen lassen sich allerdings nach Aristoteles nur erforschen, wenn man nicht nur die Vorgänge um die Teile der Erde und im Bereich der Luft und des Wassers untersucht, sondern auch alle «feurig verlaufenden Erscheinungen», wie Milchstraßen und Kometen, kurz alle Erscheinungen im Nachbarbereich vor allem des Sternenumlaufs, «die natürlich ablaufen, nur nicht so regelmäßig wie die mit dem himmlischen Urstoff» (ταῦτα δ' ἐστὶν ὅσα συμβαίνει κατὰ φύσιν μεν ἀτακτοτέραν μέντοι τῆς τοῦ πρώτου στοιχείου τῶν σωμάτων) . \nBereits im 5. Jh. wurde ‹meteorologos› im Zuge der Bildung zahlreicher weiterer pejorativer Verbindungen vor allem negativ verstanden als «Schwätzer von den oberen Erscheinungen». Diese durchaus negative Wertung des Mls. kann nicht einfach als Ablehnung der Naturphilosophie verstanden werden. Sie bezieht sich vielmehr auf eine bestimmte Gruppe von Philosophen, welche ‘ta meteoraʼ und ‘ta hypo gesʼ, die ‘Dinge am Himmelʼ wie auch die ‘Dinge unter der Erdeʼ zu erforschen suchten . \nIm Prozeß wurde Sokrates vorgeworfen: «Daß da ein gewisser Sokrates ist, ein weiser Mann, der die Dinge oben bedenkt und alles unter der Erde erforscht hat» (τά τε μετέωρα φροντιστὴς καὶ τὰ ὑπὸ γῆς ἀνεζητηκώς) . Wie konnte das Wirken eines Mannes so kraß entstellt werden, der sich doch nur mit dem Menschen befaßte und ‘die Philosophie vom Himmel herab auf die Erde gezogenʼ hatte? PLATON gibt auf diese Frage in der ‹Apologie› eine klare Antwort . Wenn einer die Verleumder fragt, wie denn Sokrates die Jugend verderbe, vermögen sie nichts anzuführen, sondern wissen nichts. Damit sie aber nicht verlegen erscheinen müssen, «sagen sie das, was gegen alle Philosophen gewöhnlich gesagt wird», daß sie an «die Dinge am Himmel und die unter der Erde» und «nicht an die Götter glauben» . Sie verwenden also nicht individuelle Vorwürfe, sondern Schlagworte gegen Philosophen, deren Bild schon im 5. Jh. geschaffen worden war, aber keineswegs auf Sokrates paßt. Schon in den ‹Wolken› des ARISTOPHANES wird dieses Bild des Philosophen gezeichnet und mit Sokrates in Verbindung gebracht. Dieser Philosoph erforscht das ‘Obereʼ, indem er in einem Hängekorb durch die Sphären reist, aber auch in der Wanderung durch die Höhle die ‘Dinge unter der Erdeʼ erforscht. Er wird Philosoph durch die Initiation in Form einer Jenseitsreise . Es zeigt sich, daß dieses Bild des Philosophen Pythagoreer des 5. Jh. meint, welche sich durch eine rituell vollzogene Jenseitsreise Unsterblichkeit zu sichern suchten. \nDie Schlagworte des 5. Jh., ‘ta meteoraʼ und ‘ta hypo gesʼ, die also gegen alle Philosophen zur Hand waren, erweisen sich somit als Reflexe eines literarisch fixierten Idealbildes des ‘bios theoretikosʼ, der als Initiation die Seele eine Jenseitsreise ‘unter die Erdeʼ und zu den ‘oberen Dingenʼ vollziehen ließ. Ungezählte dichterische Formungen dieser Jenseitsreise wurden in den folgenden Jahrhunderten bis zu Dante geschaffen. Sie stimmen alle miteinander in den Grundzügen überein. Fast alle stehen in der Nachfolge Platons, doch sind sie keineswegs aus Platon allein ableitbar. Es handelt sich bei ihnen nicht um Konkretisierung platonischer Mythen, vielmehr sind schon die platonischen Mythen in Erzählung umgesetztes ‘ergonʼ dieser philosophischen Initiation des 5. Jh. .",
+ "n":"ANAXIMANDER, VS 12 A 11; ANAXAGORAS, VS 59 A 42. \nARISTOTELES, Meteor. 338 b 26ff. \na.O. 338 a 26ff. \nW. CAPELLE: μετέωρος und μετεωρολογία. Philologus 71 (1912) 438; H. KOLLER: Jenseitsreise des Philosophen. Asiat. Stud. Z. Schweiz. Ges. Asienkunde 27 (1973) 35ff. \nPLATON, Apol. 18b. \na.O. 23 d. \n23 b. \nDIOGENES, VS 64 C 1. \nPLATON, Resp. 529 a ff.",
+ "l":"W. CAPELLE s. Anm. [4] 414–448. – H. KOLLER s. Anm. [4] 35–57.",
+ "au":"H. Koller",
+ "A":["H. Koller"],
+ "cb":[[0,1303],[1177,1303],[1282,1304],[1662,1304],[3157,1304]],
+ "cn":[
+  [0,1303],
+  [0,1304],
+  [50,1304],
+  [84,1304],
+  [102,1304],
+  [267,1304],
+  [287,1304],
+  [299,1304],
+  [306,1304],
+  [328,1304]
+ ],
+ "cl":[[0,1304]]
+}
+);

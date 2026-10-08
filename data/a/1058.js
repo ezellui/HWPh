@@ -1,0 +1,27 @@
+HWPH.put("a/1058",
+{
+ "id":1058,
+ "lemma":"Genau dann, wenn ..., so",
+ "band":"3",
+ "kind":"article",
+ "col_from":268,
+ "col_to":268,
+ "pdf_from":8180,
+ "pdf_to":8180,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":294,
+ "toc":[],
+ "html":"<p>Genau dann, wenn ..., so ... <i>p</i>, so <i>q</i> wird umgangssprachlich die <a class=\"xref\" href=\"#/a/228\"><i>Äquivalenz</i></a> <span class=\"sd\">→ (s.d.)</span> oder <a class=\"xref\" href=\"#/a/450\"><i>Bisubjunktion</i></a> <span class=\"sd\">→ (s.d.)</span> der beiden Aussagen <i>p</i> und <i>q</i> umschrieben. Man sagt stattdessen auch: «Dann und nur dann, wenn <i>p</i>, so <i>q</i>». Im Englischen hat sich dafür die Abkürzung «iff» eingebürgert. Man schreibt: «<i>p</i>↔<i>q</i>».</p>",
+ "prev":{"id":1057,"lemma":"Gen","band":"3","col":268},
+ "next":{"id":1059,"lemma":"Genealogie","band":"3","col":268},
+ "backlinks":[],
+ "outlinks":[{"id":228,"lemma":"Äquivalenz","n":1},{"id":450,"lemma":"Bisubjunktion","n":1}],
+ "register":[{"term":"wenn..., so","qualifier":"","band":null,"col":null}],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Genau dann, wenn ..., so ..."}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

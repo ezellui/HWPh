@@ -1,0 +1,27 @@
+HWPH.put("a/540",
+{
+ "id":540,
+ "lemma":"Definitionsschema",
+ "band":"2",
+ "kind":"article",
+ "col_from":43,
+ "col_to":43,
+ "pdf_from":3722,
+ "pdf_to":3722,
+ "authors":["G. Gabriel"],
+ "n_notes":0,
+ "n_chars":226,
+ "toc":[],
+ "html":"<p>Definitionsschema. Ein D. ist ein sprachlicher Ausdruck, der eine (eventuell unendliche) Anzahl von definitorischen Festsetzungen trifft, und zwar so, daß diese aus ihm durch Ersetzung unbestimmt andeutender Symbole entstehen.</p>",
+ "prev":{"id":539,"lemma":"Definition, rekursive","band":"2","col":43},
+ "next":{"id":541,"lemma":"Defizienz","band":"2","col":43},
+ "backlinks":[{"id":539,"lemma":"Definition, rekursive","n":1}],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Definitionsschema"}],
+ "reg_authors":[{"name":"Gabriel Gottfried","n":51}]
+}
+);

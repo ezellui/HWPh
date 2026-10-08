@@ -1,0 +1,32 @@
+HWPH.put("t/3146",
+{
+ "b":"Teleonomie (engl. teleonomy). ‹T.› ist ein Neologismus, der einer die Geschichte teleologischen Reflektierens nicht zur Kenntnis nehmenden Denkart entspringt – oder, positiv im Sinne des Wortschöpfers C. S. PITTENDRIGH ausgedrückt, Teil des Programms, eine metaphysikfreie Naturwissenschaft durch neue Definitionen zu vollenden: «The biologist's longstanding confusion would be more fully removed if all end-directed systems were described by some other term, like ‘teleonomicʼ, in order to emphasize that the recognition and description of end-directedness does not carry a commitment to Aristotelian teleology as an efficient causal principle» . Für die Diskussion um den Begriff der T. muß sein Verhältnis zur Teleologie (s.d.) betrachtet werden. Zunächst schien es so zu sein, daß nur ein neues Wort für die gleiche Sache eingeführt werden sollte, um diejenigen Biologen, die am Gebrauch einer teleologischen Sprache festhielten, davon zu überzeugen, daß sie im Grunde gar nicht das (teleologisch) meinen, was sie richtig nur im Horizont der Evolutionstheorie (teleonomisch) sagen könnten . \nDie dem Metaphysikvorwurf ausgesetzte Teleologie ist jedoch nicht durch eine metaphysikfreie T. ersetzt worden, sondern durch die ganz und gar nicht metaphysikfreie Evolutionstheorie, in der der Begriff ‹T.› erst interpretierbar ist . Daher ist es auch nur ein Selbstüberredungsversuch, wenn gesagt wird, T. verhalte sich zur Teleologie wie die Astronomie zur Astrologie . T. ist bis heute nicht als eine besondere ‘Lehreʼ vertreten worden. Wer in der modernen Biologie von T. redet, vertritt keine neue Wissenschaft, sondern behauptet nur, daß es legitim sei, Organismen, Organe und Verhaltensweisen als zweckmäßig ohne Zweck (d.h. teleonom) zu bezeichnen; denn evolutionstheoretisch gesehen kann jeder Naturzweck negiert werden, weil Zufall das Prinzip ist. \nNur insofern die Evolutionstheorie als Paradigma akzeptiert wird, kann ‹teleonom› als beschreibender Begriff benutzt werden; er meint aber nicht mehr als das, was früher schon mit ‹angepaßt› bezeichnet wurde . Allerdings soll auch bei diesem Rückzug ins Deskriptive häufig jeder Anklang an den Telos-Begriff negiert werden, wie B. HASSENSTEIN feststellt: «Manche Forscher vermeiden allerdings auch den Ausdruck ‘teleonom(isch)ʼ und benutzen statt dessen andere, gleichbedeutende Vokabeln: Sie sprechen vom biologischen Sinn, von der biologischen Bedeutung oder auch von der funktionellen oder funktionalen Erklärung eines biologischen Tatbestandes» . Der Ort teleonomer Aussagen ist folgerichtig Systemtheorie und Kybernetik, und der teleonome Sprachgebrauch ist gleicherweise auf Organismen und Maschinen anwendbar. «Damit ist zugleich – zumindest im Rahmen der Biologie – der Widerspruch zwischen Kausalität und Teleonomie aufgehoben» . \nDa dies erheblich weniger ist, als sich viele Biologen durch die Neuerung erhofften, hat insbesondere E. MAYR den Begriff zu konkretisieren versucht. Doch muß er die Unterscheidung ‹organisch›/‹anorganisch› bzw. ‹lebend›/‹unbelebt› wieder einführen und die «Verwendung der sogenannten teleologischen Sprache» beibehalten, um seine neuen Begriffe zu erläutern. Mayr stellt fest, daß die meisten Abläufe in der Natur endgerichtete Vorgänge sind, da sie sich gemäß dem Zweiten Hauptsatz der Thermodynamik (‘Alles strebt dem Zustand größter Wahrscheinlichkeit [d.h. Entropie] entgegenʼ) naturgesetzlich auf ein niedrigeres Energieniveau zubewegen. Hierfür prägt er den Begriff ‹teleomatisch›: «Da der Endzustand solcher unbelebter Gegenstände automatisch erreicht wird, kann man derartige Änderungen teleomatisch nennen» . Demgegenüber sollen die endgerichteten Vorgänge in der organischen Natur zielgerichtet sein und durch den Begriff ‹teleonomisch› gekennzeichnet werden: «Ein teleonomischer Vorgang oder ein teleonomisches Verhalten ist ein Vorgang oder Verhalten, das sein Zielgerichtetsein dem Wirken eines Programms verdankt» . Für das Verständnis der T. und der klaren Abgrenzung zur Teleologie hängt nun alles vom Begriff des Programms ab . Rein funktional gedeutet, werden so aber alle Prozesse bei Organismen wieder mit Prozessen bei Maschinen vergleichbar, und diese wiederum funktionieren nur nach Naturgesetzen, also nur teleomatisch. Erst die Reflexion auf den Programmierer (bei Maschinen) oder den Ursprung des Programms (bei Organismen) müßte Teleologie bemühen. Diese Reflexion will Mayr aber nicht zulassen , weil der «Ursprung dieser Reguliervorrichtung ... das große Rätsel bei der Frage nach der Entstehung des Lebens» ist. \nDann trifft aber die Kritik zu, die von R. SPAEMANN und R. LÖW geltend gemacht wurde: «die T. hat nur die Option, zur Teleologie oder zur Teleomatie zu werden. Als T. ist sie jedenfalls widersprüchlich» . Das Unzureichende aller Entwürfe zur T. besteht letztlich darin, daß die aufgrundder Evolutionstheorie bedingte Eliminierung von Sinn nachher durch Definitionen wieder zurückgewonnen werden soll. Eine Verständigung über T. und die implizierende Teleologie ist bisher nur einer kritischen Teleologie zuzutrauen, wie sie etwa in der Weiterentwicklung Kantischer Überlegungen vorgelegt worden ist .",
+ "n":"C. S. PITTENDRIGH: Adaptation, nat. selection, and behavior, in: A. ROE/G. G. SIMPSON (Hg.): Behavior and evolution (New Haven 1958) 394. \nVgl. E. MAYR: Evolution und die Vielfalt des Lebens (1979) 202. \nVgl. G. G. SIMPSON: This view of life (New Haven 1964) 113. \nvgl. K. LORENZ: Vergleich. Verhaltensforsch. (1978) 44. \nVgl. J. MONOD: Le hasard et la necessité (Paris 1970, 21971); dtsch.: Zufall und Notwendigkeit (1971) 33ff. \nB. HASSENSTEIN: Biolog. T. Neue H. Philos. 20 (1981) 60–71, zit. 63. \na.O. 64. \nMAYR, a.O. [2]; vgl. Die Entwickl. der biolog. Gedankenwelt (1982). \na.O. 205f. \n226; vgl. 199f. 203. \n206. \nvgl. 207. \n207. \nvgl. 213. \nvgl. 214. \n216. \nR. SPAEMANN/R. LÖW: Die Frage Wozu? Gesch. und Wiederentdeckung des teleolog. Denkens (1981, 21985) 252. \na.O.; R. LÖW: Philos. des Lebendigen (1980).",
+ "l":"",
+ "au":"H. Schlüter",
+ "A":["H. Schlüter"],
+ "cb":[[0,978],[1096,978],[1857,978],[2653,979],[2797,979],[4541,979]],
+ "cn":[
+  [0,978],
+  [0,979],
+  [139,979],
+  [204,979],
+  [265,979],
+  [322,979],
+  [431,979],
+  [501,979],
+  [511,979],
+  [580,979],
+  [592,979],
+  [614,979],
+  [620,979],
+  [631,979],
+  [637,979],
+  [648,979],
+  [659,979],
+  [665,979],
+  [771,979]
+ ],
+ "cl":[]
+}
+);

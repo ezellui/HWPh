@@ -1,0 +1,12 @@
+HWPH.put("t/1341",
+{
+ "b":"Idealisierung. Der Terminus ‹I.› kennzeichnet im Spätwerk E. HUSSERLS die Methode der Erzeugung jener idealen Urgebilde, welche die Grundvoraussetzungen abendländisch-wissenschaftlichen Denkens ausmachen . Das durch sie bestimmte Denken sieht die Welt unserer Erfahrung als ein Universum des an sich Seienden und an sich Bestimmten . Dabei ist vergessen, daß die uns unter der Idee der Bestimmtheit des Seienden an sich als selbstverständlich vorgegebene Welt Produkt eines methodischen I.-Prozesses ist, der sein notwendiges Sinnesfundament in den vorprädikativen Evidenzen der Lebenswelt hat . Die I. geht von diesen vorwissenschaftlichen Gegebenheiten der Erfahrungswelt aus und verwendet sie als «Material», aus dem in einer Vervollkommnungspraxis ideal an sich Seiendes im Sinne der «objektiven» Wissenschaften hervorgeht . Die idealen, an sich bestimmten Gebilde der objektiven Wissenschaft sind durch die Seinsweise des Lebensweltlichen selbst ermöglicht, fundiert und motiviert . Der Prozeß der I. hat einerseits für die Logik, andererseits für die Mathematik und die mathematische Naturwissenschaft eine spezifische Ausprägung . \n‹I. im engeren Sinne› nennt Husserl vornehmlich die Leistung der exakten mathematischen Naturwissenschaften der Neuzeit. Sie substruieren der subjektiv-relativen Erfahrungswelt das Ideal eines rational erkennbaren Ansichseins . Dieses setzt als «Entwicklungsprodukt» bestimmter methodischer Operationen die invariante Wesensstruktur der Lebenswelt und die freie Vermöglichkeit des Menschen, den I.-Prozeß immer wieder vollziehen zu können, voraus . Nach einmal gelungener I. geht die objektive Wissenschaft dazu über, aus den erzeugten idealen Urgebilden neue ideale Gegenständlichkeiten operativ zu konstruieren und sie auf die Erfahrungswelt anzuwenden .",
+ "n":"E. HUSSERL: Erfahrung und Urteil. Untersuch. zur Geneal. der Logik (= EU) (31964) 38ff.; Die Krisis der europ. Wiss. und die transzendentale Phänomenol. (= KW). Husserliana 6 (Den Haag 21962) 18ff. 26ff. 375f. \nEU 40. \n42f. \nKW 359. 361f. \n361 Anm. 1; EU 37. \nEU 41f. 427f.; Formale und transzendentale Logik. Versuch einer Kritik der log. Vernunft (1929) 162ff. \nKW 358f. \n363. 383. \n19f. 360.",
+ "l":"",
+ "au":"P. Janssen",
+ "A":["P. Janssen"],
+ "cb":[[0,28],[61,29],[1139,29]],
+ "cn":[[0,28],[211,28],[219,28],[225,28],[240,28],[260,28],[364,28],[374,28],[385,28]],
+ "cl":[]
+}
+);

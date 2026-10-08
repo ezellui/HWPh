@@ -1,0 +1,12 @@
+HWPH.put("t/1118",
+{
+ "b":"Gestaltkreis. Dieser Begriff wurde von V. VON WEIZSÄCKER in einem so betitelten Buch 1940 eingeführt . Er fand schnell Eingang in theoretische Schriften der Biologie und Psychologie. \nWeizsäcker kritisiert zwei schon damals nicht mehr unangefochtene Prinzipien: 1. das Leitungsprinzip, d.h. die Annahme einer von Umgebungsvorgängen unbeeinflußten Erregungsleitung zwischen Sinneszelle und Sinneszentrum; 2. die strenge Unterscheidung und Gegenüberstellung von Erkennen und Tun bzw. rezeptorischem und effektorischem Geschehen. \nZu 1: Weizsäcker sieht die Unvereinbarkeit der Tatsachen des Erlebens (und Verhaltens) mit dem Leitungsprinzip; er betrachtet dieses aber offensichtlich als unentbehrlich für die physiologische Beobachtung und Analyse. Er gelangt deshalb zu der Forderung, auf eine Theorie des Psychischen zu verzichten, in der die Ergebnisse der Phänomenologie (bzw. Introspektion) und der physiologischen Analyse gleichermaßen Berücksichtigung finden. \nZu 2: Wir verdanken Weizsäcker den bisher nachdrücklichsten Hinweis auf die Tatsache, daß es 1. kein Erkennen ohne ein Tun, d.h. ohne mindestens die aktive Herstellung und Erhaltung günstigster Aufnahmebedingungen, und 2. kein sinnvolles Handeln ohne ständige Überwachung durch die Sinne gibt, und daß 3. die Wechselwirkung zweier Menschen ein fortgesetztes, unmittelbares Geben und Nehmen, Reden und Antworten ist, in dem beide Teile sich laufend aufeinander einspielen . Bei der Wechselwirkung zwischen Ich und Du handelt es sich jedoch um eine «Felddynamik», d.h. um unmittelbare Wechselwirkung, der das Wort ‹Kreis› nicht recht angemessen ist . Weizsäcker selbst versucht die zwischenmenschliche Wechselwirkung nach dem Bild des Kreises zu verstehen, was nicht ohne Unklarheiten und Widersprüche abgeht.",
+ "n":"V. v. WEIZSÄCKER: Der G. Theorie der Einheit von Wahrnehmen und Bewegen (1940, 31947). \nVgl. H. FREYER: Theorie des gegenwärtigen Zeitalters (21956); W. METZGER: Schöpferische Freiheit (21962). \nI. KOHLER: Gestaltbegriff und Mechanismus, in: Gestalthaftes Sehen, hg. F. WEINHANDL (1960, 21967) 211–227.",
+ "l":"W. METZGER: Psychol. (1941, 31963). – K. LEWIN: Field theory in social sci. (New York 1951). – N. BISCHOF: Erkenntnistheoretische Grundlagenprobleme der Wahrnehmungspsychol., in: Hb. der Psychol. I/1 (1966) 21–78.",
+ "au":"W. Metzger",
+ "A":["W. Metzger"],
+ "cb":[[0,548],[42,549],[184,549],[528,549],[966,549]],
+ "cn":[[0,548],[88,548],[195,548]],
+ "cl":[[0,549]]
+}
+);

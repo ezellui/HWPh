@@ -1,0 +1,12 @@
+HWPH.put("t/851",
+{
+ "b":"Evokation. Der auf eine römisch-antike Kulthandlung zurückgehende Terminus («evocatio deorum»: Herausrufung der Götter aus einer belagerten Stadt, um sie auf die Seite der Belagerer zu ziehen) wird um die Mitte des 19. Jh. – von BAUDELAIRE und insbesondere von MALLARMÉ – seinem Zuständigkeitsbereich für spiritistische Praktiken entnommen und zur Bezeichnung eines der Dichtung eigenen Modus der Vermittlung ihrer Inhalte benutzt. In den dichtungstheoretischen Äußerungen Mallarmés bezeichnet ‹E.› (dort meist in Verbalform: «évoquer») die Wirkweise einer Dichtung (Evokationskunst), die unter Weglassung prosaischer und rhetorischer Elemente und in der Veränderung traditioneller syntaktischer Figuren eine Reduktion auf Werte «sui generis» anstrebt, sich auf ihren mythischen Ursprung beruft und im Sinne alchimistisch-hermetischer Praxis mit der magischen Valenz der Wörter und vermusikalisierter Sprache operiert, um derart ihren mit herkömmlichen poetischen Verfahren unsagbaren Gegenstand hervorzurufen bzw. im rezeptiven Subjekt den poetischen «état d'âme» zu erzeugen. Häufig tritt an die Stelle von ‹E.› auch ‹Suggestion›. \n‹E.› dient der Theorie und Kritik moderner Lyrik als hermeneutischer Schlüsselbegriff. Nach H. O. Burger ist «das evokative Äquivalent im modernen Gedicht eine folgerichtige Weiterbildung des adäquaten Symbols im klassischen» .",
+ "n":"H. O. BURGER und R. GRIMM: E. und Montage (1961) 24.",
+ "l":"W. NAUMANN: Der Sprachgebrauch Mallarmés (1936) 55. 81. 152. 204. – F. USINGER: St. Mallarmé und die Magie der Dichtung. Romania 1 (1948) 25–35. – E. HOWALD: Die absolute Dichtung im 19. Jh. Trivium 6 (1948) 23–52. – M. C. GHYKA: Sortilèges du verbe (Paris 1949). – W. GÜNTHER: Über die absolute Poesie. Dtsch. Vjschr. Lit.wiss. 23 (1949) 1–32. – G. R. HOCKE: Manierismus in der Lit. (1959) vgl. Reg. unter ‹E.› und 128. 152. 182. 190. – J.-P. WEBER: Genèse de l'œuvre poétique (Paris 1960) 284ff. – H. R. ZELLER: Mallarmé und das serielle Denken. Reihe 4 (1960). – H. O. BURGER und R. GRIMM s. Anm. [1]. – E. BIRD: L'univers poétique de St. Mallarmé (Paris 1962) 12. 46. 56ff. 61–74. 183f. – H. FRIEDRICH: Die Struktur der modernen Lyrik (Neu-A. 1967) 49ff. 120ff. 134. – W. ISER (Hg.): Immanente Ästhetik/Ästhetische Reflexion (1966) Reg. unter ‹E.›.",
+ "au":"H.-K. Gritschke",
+ "A":["H.-K. Gritschke"],
+ "cb":[[0,834],[1134,834],[1281,835]],
+ "cn":[[0,834]],
+ "cl":[[0,835]]
+}
+);

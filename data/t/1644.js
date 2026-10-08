@@ -1,0 +1,25 @@
+HWPH.put("t/1644",
+{
+ "b":"Kontraktion Gottes ist ein theosophisch-metaphysischer Begriff, der sich aus Platonismus und Kabbala (Zimzum) herleitet und zur Darstellung der Lebendigkeit Gottes und des Kosmos dient. Die Welt als Ganzes ist für NIKOLAUS VON KUES als eine gegenüber Gott als der absoluten Einheit durch Vielfalt «kontrahierte» bestimmt: «unitas contracta ... per pluralitatem» . Der verschiedene Grad der weiter absteigenden «Contractionen» bestimmt die unverwechselbare Individualität des Seienden auf allen Seinsstufen . In seiner Abhandlung ‹Von der Ursache, dem Prinzip und dem Einen› erörtert G. BRUNO den Unterschied zwischen körperlichen und unkörperlichen Dingen; beide sind verschiedene Wirklichkeitsformen der einen und selben Materie: «Der Unterschied sei so groß, wie er wolle, in bezug auf die eigentümliche Art und Weise, kraft deren die eine zum körperlichen Sein herabsteigt und die andere nicht, die eine sinnlich wahrnehmbare Eigenschaften annimmt, die andere nicht ... Dennoch sind beide ein und dasselbe, und der ganze Unterschied beruht ... auf der Zusammenziehung der einen zu körperlichem Sein, während die andere unkörperlich ist» . \nDas «dialektische» Denken J. BÖHMES erkennt – analog zum menschlichen Prozeß schöpferischen Gestaltens und Sichbewußtwerdens – im «Ungrund» einen unendlichen, subjektlosen Willen, der sich selbst erst zum Subjekt macht in der Sehnsucht nach Selbsterkenntnis und Selbstoffenbarung durch Selbstgebärung. Im Begehren des Willens ist ein «Anziehen» (Attraktion), «das das Faßliche im Willen zeucht» . Aber erst ein Sich-zusammen-Ziehen (K.) macht dieses «Faßliche» zu einem Etwas, d.h. zur ersten Naturgestalt Gottes. Was im Willenssubjekt als Sehnsucht erscheint, erweist sich im Willensobjekt als Selbstsucht (K.), die nun den Willen in einer Finsternis gefangen setzt, aus der er sich befreien will. Dadurch gerät er in einen Selbstwiderspruch, in dessen Zentrum die «begehrende Angst» steht. Diese Willensspaltung im «Ungrund» löst eine Kettenreaktion aus, die den dialektischen Übergang von der Einheit zur Vielheit darstellt und die noch unaufgeschlossene Seinstotalität durch die Verengung in der K. individualisiert, wodurch erst sich Gott sich selbst offenbaren kann. \nAuch F. W. J. SCHELLING findet in der «contrahierenden Kraft» die eigentliche Wuzelkraft alles Lebens, den «ewigen Keim Gottes» : «In der Anziehung liegt der Anfang. Alles Seyn ist Contraction und die zusammenziehende Grundkraft die eigentliche Original- und Wurzelkraft der Natur» . Die K. ist die erste Potenz der Natur in Gott und bedeutet die Verneinung des Prinzips der Liebe: «Die bloße Liebe für sich könnte nicht sein, nicht subsistieren, denn eben weil sie ihrer Natur nach expansiv, unendlich mitteilsam ist, so würde sie zerfließen, wenn nicht eine contractive Urkraft in ihr wäre. So wenig der Mensch aus bloßer Liebe bestehen kann, so wenig Gott. Ist eine Liebe in Gott, so auch ein Zorn, und dieser Zorn oder die Eigenkraft in Gott ist, was der Liebe Halt, Grund und Bestand gibt» . Die Liebe als die zweite Potenz der Natur in Gott kann sich deshalb erst in der Negation ihrer Verneinung erweisen; und deshalb offenbart sich Gott zuerst als Leidender: «Alles, was wird, kann nur im Unmut werden ..., sind nicht die meisten Produkte der unorganischen Natur offenbar Kinder der Angst, des Schreckens, ja der Verzweiflung?» ; denn «der wahre Grundstoff alles Lebens und Daseyns» ist «eben das Schreckliche» . Diese Überlegungen sind bezogen auf die Philosophie des «Weltalter»; und in diesem Zusammenhang sind drei Topoi wichtig: «Die Vorstellung von einer Natur in Gott, ferner von einem Rückzug Gottes in sich selbst, schließlich vom Abfall des ersten Menschen, der die Schöpfung mit sich herabzieht und die Geschichte zum Zwecke der Widerherstellung eines ursprünglichen Zustandes eröffnet» .",
+ "n":"NIKOLAUS VON KUES, Docta ignorantia II, 6, h 79, 4. \na.a.O. III, 1, h 119, 8ff. \nG. BRUNO: Dialoghi Italiani, hg. G. GENTILE/G. AQUILECCHIA (Florenz 31958) 303. \nJ. BÖHME, Beschreibung der Drey Principien Göttliches Wesens Kap. 14, Nr. 63. \nVom Dreyfachen Leben des Menschen Kap. 4, Nr. 16. \nF. W. J. SCHELLING, Werke, hg. K. F. A. SCHELLING 8, 311ff. \nDie Weltalter. Fragmente, hg. M. SCHRÖTER (1946) 23f. \nWerke, a.a.O. [6] 4, 331. \na.a.O. 8, 322. \n8, 339. \nJ. HABERMAS: Dial. Idealismus im Übergang zum Materialismus – Geschichtsphilos. Folgerungen aus Schellings Idee einer Contraction Gottes, in: Theorie und Praxis (21967) 121.",
+ "l":"H. ZELTNER: Schelling (1954). – F. LOMBARDI: Studia in onore di G. Bruno (1955). – H. GRUNSKY: J. Böhme (1956). – J. VON KEMPSKI: Zimzum: Die Schöpfung aus dem Nichts. Merkur 14 (1960) 1107–1126. – K. HUBER: Einheit und Vielheit in Denken und Sprache G. Brunos (1965). – J. HABERMAS s. Anm. [11].",
+ "au":"St. Portmann",
+ "A":["St. Portmann"],
+ "cb":[[0,1064],[1143,1064],[2217,1064],[2616,1065]],
+ "cn":[
+  [0,1064],
+  [0,1065],
+  [53,1065],
+  [81,1065],
+  [162,1065],
+  [241,1065],
+  [292,1065],
+  [353,1065],
+  [408,1065],
+  [435,1065],
+  [451,1065],
+  [460,1065]
+ ],
+ "cl":[[0,1065]]
+}
+);

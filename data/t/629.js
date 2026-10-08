@@ -1,0 +1,12 @@
+HWPH.put("t/629",
+{
+ "b":"Domestikation. Die Haltung von Wildtieren als Fleischlieferanten (z.B. Schwein, Rind), Tragtiere (z.B. Kamel, Elefant), Jagdbegleiter (Hund) und Opfertiere (z.B. Antilopen), die vor etwa 6000–10000 Jahren einsetzte, führte allmählich zur Züchtung von Rassen mit gesteigerten Nutzleistungen . Durch die dabei betriebene Auslese wurden die in langer Stammesgeschichte entstandenen harmonischen Erbgefüge und damit Struktur und Funktion vieler Organe verändert. Dazu trug auch der Aufenthalt in einer nicht mehr natürlichen Umwelt bei. In den meisten Fällen bewirkte die D. eine Verringerung der Durchblutung, eine Schwächung des Muskeltonus, eine Verringerung der Hirngröße, eine Steigerung der Fruchtbarkeit sowie eine Änderung der Hormonproduktion und der sexuellen Rhythmen . Damit wurde auch der normale Instinktablauf gestört. Vor allem fielen meist Fluchtinstinkte und zeremonielle Paarungseinleitungen fort . Von CH. DARWIN wurde die Herausbildung von Zuchtrassen als Modell natürlicher Rassen-und Artbildung verwendet . \nAuch die jüngere Stammesgeschichte des Menschen zeigt Parallelen zum D.-Vorgang: Leben in künstlicher Umwelt und größeren sozialen Verbänden, schwächerer Muskeltonus, stärkere Neigung zur Anlage von Fettreserven, Erhöhung der Variabilität und Abbau von Instinkten. Es ist deshalb gelegentlich von einer Selbst-D. des Menschen gesprochen worden .",
+ "n":"O. ANTONIUS: Stammesgesch. der Haustiere (1922); Die Geschichte der Haustiere, in: L. VON BERTALANFFY: Hdb. Biol. 7 (1942) 116–132; M. HILZHEIMER: Natürliche Rassengesch. der Haussäugetiere (1926); H. NACHTSHEIM: Vom Wildtier zum Haustier (1936). \nCH. DARWIN: The Variation of animals and plants under domestication (London 1868); B. KLATT: Studien zum D.-Problem I. Bibl. genet. (Lpz.) 2 (1921); B. KLATT und VORSTEHER: Stud. zum D.-Problem II a.a.O. 6 (1923); W. HERRE: Neue Ergebnisse zoologischer D.-Forsch. Verh. dtsch. zool. Ges. (1950) 40–54; D. und Stammesgesch., in: G. HEBERER: Die Evolution der Organismen (21959) 801–856. \nK. LORENZ: Psychol. u. Stammesgesch., in: G. HEBERER, a.a.O. [2] 131–172. \nCH. DARWIN: On the origin of species (London 1859). \nH. FRIEDENTHAL: Haustiereigenschaften und Haustiercharakter bei Wildtieren und Menschen. Sber. Ges. Naturforsch. Freunde Berlin (1933); K. LORENZ, a.a.O. [3].",
+ "l":"",
+ "au":"B. Rensch",
+ "A":["B. Rensch"],
+ "cb":[[0,280],[71,281],[1027,281]],
+ "cn":[[0,280],[248,280],[635,280],[710,280],[763,280]],
+ "cl":[]
+}
+);

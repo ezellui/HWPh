@@ -1,0 +1,30 @@
+HWPH.put("t/3629",
+{
+ "b":"Wirkungsgeschichte. Der Begriff ‹W.› gehört zu den Grundtermini der philosophischen Hermeneutik H.-G. GADAMERS. Er bezeichnet die unhintergehbare Abhängigkeit des Verstehens (s.d.) von der historischen Bedingtheit des Verstehenden, die aus der Zugehörigkeit zur Tradition resultiert. ‹W.› bezeichnet dieses unaufhebbare Hineinwirken der Überlieferung (s.d.) in die hermeneutische Situation des Interpreten, das zu einer Begrenzung des Verstehenshorizontes und damit auch zu einer Einschränkung des Spielraums der Interpretation führt. Die früheste Formulierung der Konzeption findet sich im Aufsatz ‹Das Problem der Geschichte in der neueren deutschen Philosophie› (1943): «Bedeutung erschließt sich nicht, wie Dilthey meint, im Abstand des Verstehens, sondern dadurch, daß wir selber in dem Wirkungszusammenhang der Geschichte stehen. Geschichtliches Verstehen ist selber immer Erfahrung von Wirkung und Weiterwirken. Seine Befangenheit bedeutet geradezu seine geschichtliche Wirkungskraft» . \nMit dem später eingeführten Begriff ‹W.› kritisiert Gadamer entschieden die «Naivität des sogenannten Historismus» bzw. des «historistischen Objektivismus» , der seine eigene Geschichtlichkeit und damit die Vorurteilshaftigkeit seines Verstehens vergißt und – vertrauend auf die Objektivität der Methodik seines forschenden Verfahrens – das «Phantom eines historischen Objektes» konstruiert, das «Gegenstand fortschreitender Forschung ist». Demgegenüber insistiert Gadamer darauf, daß der «wahre historische Gegenstand» kein Gegenstand ist, sondern vielmehr die Einheit des Eigenen und des Anderen des Eigenen, d.h. «ein Verhältnis, in dem die Wirklichkeit der Geschichte ebenso wie die Wirklichkeit des geschichtlichen Verstehens besteht». Eine ihrer Sache angemessene Hermeneutik (s.d.) hat daher im Verstehen nach Gadamer die «Wirklichkeit der Geschichte» aufzuweisen. Verstehen ist insofern «seinem Wesen nach ein wirkungsgeschichtlicher Vorgang» . Dieses Postulat eines «Prinzips der Wirkungsgeschichte» zielt nicht auf die Ergänzung der konkreten historischen Erforschung eines Werks durch Rezeptionsgeschichte , d.h. die Analyse des Wirkens dieses Werks in der Geschichte, sondern versteht sich vielmehr als Forderung theoretischer Art: Gegen die vermeintliche Unmittelbarkeit, mit der sich das historische Bewußtsein auf das Werk oder die Überlieferung richtet, soll ein Bewußtsein ausgebildet werden, «daß in allem Verstehen, ob man sich dessen ausdrücklich bewußt ist oder nicht, die Wirkung dieser W. am Werke ist», denn «sie bestimmt im voraus, was sich uns als fragwürdig und als Gegenstand der Forschung zeigt». Die Entwicklung dieses Bewußtseins bezeichnet Gadamer als «wirkungsgeschichtliches Bewußtsein» . Dieses Bewußtsein, das er auch als «Bewußtsein der hermeneutischen Situation» bestimmt , ist «ein Moment des Vollzugs des Verstehens» und «schon im Gewinnen der rechten Frage wirksam» . Das wirkungsgeschichtliche Bewußtsein ist damit keine «Modifikation des Selbstbewußtseins», sondern vielmehr «die Begrenzung des Bewußtseins durch die W. ..., in der wir alle stehen» ; es ist insofern «mehr Sein als Bewußtsein» . Die gewisse «Zweideutigkeit» in dem Begriff eines wirkungsgeschichtlichen Bewußtseins hat Gadamer selbst eingeräumt und – unter Hinweis auf seine Historismus-Kritik – gerechtfertigt; mit ihm sei einerseits «das im Gang der Geschichte erwirkte und durch die Geschichte bestimmte Bewußtsein» gemeint, andererseits aber auch «ein Bewußtsein dieses Erwirkt- und Bestimmtseins selber» . \nWährend das Konzept der W. in verschiedener Hinsicht Kritik erfuhr , ist es von der Rezeptionsästhetik zunächst positiv aufgenommen , später aber eher verworfen worden . Auch in der Theorie der Geschichtswissenschaft wurde Gadamers Konzeption der W. aufgegriffen . \nIm Kontext der konstruktiven Wissenschaftstheorie der Erlanger (und Konstanzer) Schule unterscheidet J. MITTELSTRASS zwischen der W., d.h. dem sozusagen naturwüchsigen Wirkungszusammenhang der faktischen historischen Entwicklung von wissenschaftlichen (oder philosophischen) Theorien, und der «Gründegeschichte», d.h. dem rekonstruierbaren Begründungszusammenhang bzw. der normativen oder kritischen Genese solcher Theorien .",
+ "n":"H.-G. GADAMER: Ges. Werke (1985ff.) [GW] 2, 27–36, zit. 34f. \nWahrheit und Methode (1960). GW 1, 304. \na.O. 305. \n305–312. \nVgl. Art. ‹Rezeptionsästhetik›. Hist. Wb. Philos. 8 (1992) 996–1004. \n305f. \n307. \n306. \nZwischen Phänomenologie und Dialektik (1985). GW 2, 3–23, zit. 11; vgl. Die Kontinuität der Geschichte und der Augenblick der Existenz (1965). GW 2, 133–145, bes. 142f. \nRhetorik, Hermeneutik und Ideologiekritik (1967). GW 2, 232–250, zit. 247. \nVorwort zur 2. Aufl. von ‹Wahrheit und Methode› (1965). GW 2, 437–448, zit. 444. \nVgl. J. HABERMAS: Zur Logik der Sozialwiss. (1967) 172ff. \nVgl. H. R. JAUSS: Lit.gesch. als Provokation der Lit.wiss., in: Lit.gesch. als Provokation (1970) 144–207, hier: 185–188. \nAlterität und Modernität der mittelalterl. Lit. (1977) 11 (Anm. 2). \nVgl. R. KOSELLECK: Historik und Hermeneutik, in: Zeitschichten (2000) 97–118, hier: 117; Die Zeiten der Geschichtsschreibung, a.O. 287–297, hier: 294. \nVgl. J. MITTELSTRASS: Proleg. zu einer konstruktiven Theorie der Wiss.geschichte, in: Die Möglichkeit von Wissenschaft (1974) 106–144, bes. 140–144; Gründegeschichten und Wirkungsgeschichten, in: CH. DEMMERLING/G. GABRIEL/TH. RENTSCH (Hg.): Vernunft und Lebenspraxis (1995) 10–31.",
+ "l":"E. BRAUN: Art. ‹Wirkungsgeschichte›, in: Wiss.theoret. Lexikon, hg. E. BRAUN/H. RADERMACHER (1978) 662–664. – J. GRONDIN: Hermeneut. Wahrheit? (1982) 143–149. – J. MITTELSTRASS: Art. ‹Wirkungsgeschichte›, in: Enzykl. Philos. und Wiss.theorie 4 (1996) 714f. – D. TEICHERT: Verstehen und W. (2000).",
+ "au":"H.-U. Lessing",
+ "A":["H.-U. Lessing"],
+ "cb":[[0,846],[995,846],[2613,847],[3517,847],[3783,847]],
+ "cn":[
+  [0,846],
+  [0,847],
+  [62,847],
+  [103,847],
+  [114,847],
+  [124,847],
+  [194,847],
+  [201,847],
+  [207,847],
+  [213,847],
+  [383,847],
+  [459,847],
+  [541,847],
+  [600,847],
+  [723,847],
+  [792,847],
+  [944,847]
+ ],
+ "cl":[[0,847]]
+}
+);

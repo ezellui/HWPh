@@ -1,0 +1,27 @@
+HWPH.put("a/375",
+{
+ "id":375,
+ "lemma":"Behauptungssatz",
+ "band":"1",
+ "kind":"article",
+ "col_from":816,
+ "col_to":816,
+ "pdf_from":2855,
+ "pdf_to":2855,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":174,
+ "toc":[],
+ "html":"<p>Behauptungssatz heißt die <a class=\"xref\" href=\"#/a/374\"><i>Behauptung</i></a> <span class=\"sd\">→ (s.d.)</span> einer Aus sage als wahr oder begründet, in der modernen Logik manchmal gekennzeichnet durch ein eigenes <a class=\"xref\" href=\"#/a/376\"><i>Behauptungszeichen</i></a> <span class=\"sd\">→ (s.d.)</span>.</p>",
+ "prev":{"id":374,"lemma":"Behauptung","band":"1","col":816},
+ "next":{"id":376,"lemma":"Behauptungszeichen","band":"1","col":816},
+ "backlinks":[],
+ "outlinks":[{"id":374,"lemma":"Behauptung","n":1},{"id":376,"lemma":"Behauptungszeichen","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Behauptungssatz"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

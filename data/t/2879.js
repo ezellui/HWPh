@@ -1,0 +1,12 @@
+HWPH.put("t/2879",
+{
+ "b":"Shingaku, die ‘Lehre/Wissenschaft vom Herzenʼ, ist eine japanische Bewegung der Volksaufklärung und Volkserziehung, ausgelöst durch das Wirken des ISHIDA BAIGAN (1685–1744), deshalb auch unter dem Namen ‹Sh. der Ishida-Schule› (‹Sekimon-Sh.›) bekannt – zur Abgrenzung von der auf dem Konfuzianismus basierenden ‹Yōmei-› und ‹Shushi-Schule›, die zuweilen auch ‹Sh.› genannt wurden und von den Lehren der chinesischen Philosophen Chu Hsi, Lu Hsiangshan und Wang Yangming ausgingen. \nDie Sh. begann mit Lehrvorträgen (dōwa) des Baigan 1729 in Kyoto, breitete sich durch seine Anhänger wie TEJIMA TOAN, NAKAZAWA DŌNI, KAMADA RYŪKŌ, SHIBATA KYŪŌ u.a. nach Edo und in die Provinz aus und war über ein Jahrhundert wirksam. Sh. ist im Grunde eine synkretistische, Elemente des Schintoismus, Konfuzianismus und Buddhismus aufnehmende Moralphilosophie, die sich mit leicht verständlichen Lehrschriften, Vorträgen und seminaristischen Übungen vor allem an den jungen Bürgerstand (chōnin) wandte, um ihm in der feudalistischen Klassengesellschaft des spätmittelalterlichen Japan ideologischen Halt zu geben und zum Selbstverständnis zu verhelfen. Die spekulativen Ideen, die in die Sh. einflossen, wurden vereinfacht und popularisiert; eine Ethik des Bürgerstandes (chōnindō) wurde proklamiert, die schließlich als Lebensphilosophie alle Stände harmonisieren sollte. Die Wissenschaft sollte einem jeden seine natürlichen Anlagen (sei) bewußt machen, ihn das Gute in sich, das Herz (shin, kokoro) erkennen lassen und die Gesellschaft zu tätiger Nächstenliebe führen. \nDie Aktivitäten der Sh.-Anhänger erstreckten sich nicht zuletzt auf die Schulerziehung; bis hin in die Dorfschulen (terakoya) traten sie mit ihren Vorträgen in Erscheinung.",
+ "n":"",
+ "l":"H. HAMMITZSCH: Sh. Eine Bewegung der Volksaufkl. und Volkserzieh. in der Tokugawa-Zeit. Monumenta Nipponica 4 (Tokio 1941) 1–32. – R. N. BELLAH: Tokugawa relig. (Glencoe, Ill. 1957) 133–177. – R. P. DORE: Educat. in Tokugawa Japan (Berkeley 1965) 236f. – K. ISHIKAWA: Baigan Ishida's Shingaku doctr. Philos. Stud. Japan 6 (Tokio 1965) 1–29. – I. SCHUSTER: Kamada Ryūkō und seine Stellung in der Sh. Stud. Japanol. 10 (1967). – K. KRACHT: Kyūō-dōwa – Pr. des Shibata Kyūō. Veröff. Ostasien-Inst. Ruhr-Univ. Bochum 11 (1974) 238–320.",
+ "au":"B. Lewin",
+ "A":["B. Lewin"],
+ "cb":[[0,742],[208,743],[481,743],[1555,743]],
+ "cn":[],
+ "cl":[[0,743]]
+}
+);

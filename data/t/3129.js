@@ -1,0 +1,36 @@
+HWPH.put("t/3129",
+{
+ "b":"Tathandlung. Der Begriff ist als politisch-juristischer Terminus in der Bedeutung ‘äußere, durchgeführte Tatʼ (im Unterschied zur bloßen Absicht) schon im 17. Jh. belegt und begegnet als solcher auch im 18. und 19. Jh. . Bald kann ‹T.› auch in anderen Bereichen verwandt werden, so z.B. wenn M. MENDELSSOHN die jüdischen Zeremonialgesetze als «religiöse T.en» bezeichnet, die die jüdische «Nation von allen übrigen ... auszusondern» scheinen , oder J. H. PESTALOZZI in «Thathandlungen und Gemüthsstimmungen» die «Begriffe von Gut und Bös» begründet findet . \nZum eigentlich philosophischen Begriff wird ‹T.› aber erst bei J. G. FICHTE. Hier ist mit ‹T.› jener erste und nicht weiter reduzierbare Akt des Ich gemeint, durch den es sich als reflektierendes Ich setzt, der deshalb den Anfang allen Wissens bildet und «allem Bewußtseyn zum Grunde liegt». Seine «Formel» lautet: «Ich bin schlechthin, d.i. ich bin schlechthin, weil ich bin; und ich bin schlechthin, was ich bin»; oder: «Das Ich setzt ursprünglich schlechthin sein eigenes Seyn» . In einer T. ist noch kein Objekt gesetzt, und insofern ist sie von einer «Thatsache» unterschieden. Ein Objekt wird das Ich erst, wenn es sich «selbst vorstellt» . An diesen Bestimmungen hat Fichte später festgehalten , wenn auch die Wissensbegründungen und damit die Stellung der T. sich ändern. \nVon Fichte ausgehend wird der Begriff auch bei anderen Philosophen der Zeit gebraucht: bei NOVALIS und F. W. J. SCHELLING , bei F. SCHILLER (Urteilen oder Denken ist «eine absolute T. des Geistes») , K. L. REINHOLD (T. ist «jene künstlich» im Ich «hervorgebrachte Selbstanschauung») , CH. G. BARDILI , CH. H. WEISSE oder F. ANCILLON (T.en sind «Thatsachen, wenn von Menschen die Rede ist» ; sie sind «alles, was wir in uns wahrnehmen» und eine unerklärbare «Schöpfung» ). Jedoch haben nicht alle, die an Fichte anknüpften, den Begriff aufgenommen. Neben umgangssprachlichem und juristischem Gebrauch (Unterscheidung von Meinung und «wirklicher T.») stehen philosophische Verwendungsweisen: G. RUNZE bezeichnet mit ‹T.› die ursprüngliche Anerkennung der Natur- und Sprachgesetze im wissenschaftlichen Erkennen , M. ADLER ähnlich die am Anfang aller Wissenschaft stehende bewußte Entscheidung für das «methodisch geleitete Erkennen und Forschen» , O. EWALD jene «urschöpferische Tat des Ich», die sich im Setzen und Erfassen der «Gegenwart» zeigt , und G. LANDAUER das aller Theorie vorausliegende, zur Schaffung einer neuen Gesellschaft nötige «wilde, gärende Gefühl, die Empörung» . \nKritik kommt von TH. W. ADORNO: Die negative Dialektik muß die «T. der Synthese», die sich im «Es ist so, nicht anders» äußert, zugleich anerkennen und «immanent ... verneinen» . Die Rechtswissenschaft unterscheidet gegenwärtig noch T.en (Realakte) von Rechtshandlungen .",
+ "n":"CH. W. FRIEDTLIEB: Prudentia politica christiana, Das ist: Beschreibung einer Christlichen/Nützlichen und guten Policey (1614) 456; L. DIEFENBACH/E. WÜLCKER: Hoch-und niederdtsch. Wb. der mittleren und neueren Zeit (1885) 874 (handschr. Beleg von 1695). \nJ. W. GOETHE: Götz von Berlichingen V, 4 (1773). Hamb. Ausg. 4, 162; J. V. VON SPECKTER: Rede von dem wahren Patriote (1775) 19; Br.wechsel zwoer geistlichen Bauern im Jahr 1783. Patriot. Archiv für Deutschland 1 (1784) 521–530, hier: 526; CH. SOMMER: Grundlage zu einem vollkommenen Staat (1802, ND 1979) 70; J. GÖRRES: Teutschland und die Revolution (1819). Ausgew. Werke, hg. W. FRÜHWALD (1978) 1, 305. 335; TH. A. RIXNER: Handb. der Gesch. der Philos. (21829) 1, 9. \nM. MENDELSSOHN: Gegenbetrachtungen über Bonnets Palingenesie (1770). Ges. Schr. Jub.ausg. 7 (1930, ND 1974) 98. \nJ. H. PESTALOZZI: Über die Entstehung der sittl. Begriffe in der Entwicklung der Menschheit (1786/87?). Sämtl. Werke, hg. A. BUCHENAU u.a. (1927–64) 9, 437–470, zit. 440. \nJ. G. FICHTE: Grundlage der ges. WL I, § 1 (1794). Akad.-A. I/2 (1965) 250. 260. \nII, § 4, a.O. 293; Rez. von G. E. Schulze: Aenesidemus (1794), a.O. 46. \nGrundlage des Naturrechts nach Principien der WL (1796). Akad.-A. I/3 (1966) 336; Versuch einer neuen Darst. der WL (1797f.), a.O. I/4 (1970) 219. 221; Vorles. der WL im Winter 1804, XV, a.O. II/7 (1989) 145; WL (1804) XIII, a.O. II/8 (1985) 202; Vierter Vortrag der WL (1805), a.O. II/9 (1993) 253. \nNOVALIS: Philos. Studien (1795f.). Schr., hg. P. KLUCKHOHN/R. SAMUEL (21960–88) 2, 254. 265; Das allg. Brouillon (1798f), a.O. 3, 391; F. W. J. SCHELLING: Philos. und Relig. (1804). Sämmtl. Werke, hg. K. F. A. SCHELLING (1856–61) I/6, 42. \nF. SCHILLER: Über die ästhet. Erziehung des Menschen XIX (1795). Nat.ausg. 20, 369. \nK. L. REINHOLD: Die Paradoxien der neuesten Philos. (1799) 71; vgl. Br. an Fichte (Dez. 1795), in: J. G. FICHTE: Akad.-A. III/2 (1970) 438. \nCH. G. BARDILI: Beilage zu einem Br. von Reinhold an Fichte (23. 11. 1800), in: FICHTE, a.O. III/4 (1973) 390. \nCH. H. WEISSE: Ueber den gegenwärt. Standpunct der philos. Wiss. (1829) 156. \nF. ANCILLON: Ueber die Staatswiss. (1820) 29. \nUeber Glauben und Wissen in der Philos. (1824) 77. 104f. \nG. KELLER: Der Wahltag (1862). Nachgel. Schr. und Dichtungen (41893) 296. \nF. ENGELS: Br. an L. Lafargue (9. 2. 1886). MEW 36, 442; Br. an A. Bebel (15. 2. 1886). MEW 36, 446; Br. an A. Labriola (30. 3. 1890). MEW 37, 370. \nG. RUNZE: Die Bedeutung der Sprache für das wissenschaftl. Erkennen (1886) 276. \nM. ADLER: Kausalität und Teleologie im Streite um die Wiss., in: Marx-Studien 1 (1904) 193–433, zit. 409; vgl. 416. \nO. EWALD: Die Relig. des Lebens (1925) 328. \nG. LANDAUER: Beginnen (1924) 44. \nTH. W. ADORNO: Negat. Dialektik (1966) 149; vgl. Minima moralia (1951) 111. \nC. CREIFELDS/H. KAUFMANN: Rechtswb. (111992) 935f.",
+ "l":"",
+ "au":"U. Dierse",
+ "A":["U. Dierse"],
+ "cb":[[0,908],[159,909],[559,909],[1340,909],[2524,909]],
+ "cn":[
+  [0,908],
+  [255,908],
+  [726,908],
+  [839,908],
+  [1009,910],
+  [1011,910],
+  [1093,910],
+  [1166,910],
+  [1467,910],
+  [1707,910],
+  [1792,910],
+  [1933,910],
+  [2045,910],
+  [2123,910],
+  [2170,910],
+  [2228,910],
+  [2303,910],
+  [2452,910],
+  [2533,910],
+  [2650,910],
+  [2695,910],
+  [2729,910],
+  [2806,910]
+ ],
+ "cl":[]
+}
+);

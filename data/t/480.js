@@ -1,0 +1,12 @@
+HWPH.put("t/480",
+{
+ "b":"Cephalisation bedeutet die stammesgeschichtliche Entwicklungshöhe des Gehirns von Tieren und Menschenvorstufen. Der C.-Grad hängt ab von der absoluten und relativen Hirngröße, von der Zahl und Struktur der Hirnneuronen (Ganglienzellen) und von dem Grade der histologischen und funktionellen Differenzierung der Hirngebiete. In vielen tierischen Stammesreihen und auch in der zum Homo sapiens führenden Vormenschen- und Frühmenschen-Reihe nahm die relative Hirngröße im Laufe der Stammesgeschichte zu. Anderseits haben allgemein größere Arten relativ kleinere Gehirne als kleine Arten der gleichen Verwandtschaftsgruppe (HALLERsche Regel ). Im übrigen bedingt die spezielle Lebensweise der Arten jeweils spezifische Unterschiede einzelner Hirnabschnitte. \nTrotz der Verschiedenartigkeit der die C. bedingenden Komponenten ist es möglich, den C.-Grad näherungsweise durch Formeln zu erfassen. Innerhalb von Säugetiergruppen gibt z.B. der allometrische Exponent a (mit 0,56–0,69) aufgrundder Formel \n«b ∙ Körpergewichta» \ndas Gehirngewicht (in %) für jedes Körpergewicht an, während b den C.-Faktor darstellt . Andere Formeln berücksichtigen stärker die Unterschiede der progressiven Hirnteile, speziell des Vorderhirns . Der Mensch, der weder das absolut noch das relativ größte Hirn unter den Säugetieren besitzt, zeigt bei derartigen Formeln meist mit Abstand die höchsten Werte. Bei Vergleich von Arten verwandter Tiergruppen erweisen sich die Hirnleistungen meist als der absoluten Hirngröße proportional .",
+ "n":"A. von HALLER: Elementa physiologiae corporis humanis 4 (Lausanne 1762). \nB. KLATT: Studien zum Domestikationsproblem. Untersuchungen am Hirn. Bibl. genet. (Lpz.) 1 (1921) passim; M. RÖHRS: Allometrische Untersuchungen an Canidenhirnen. Verh. dtsch. zool. Ges. (1958) 295–307. \nA. PORTMANN: Cerebralisation und Ontogenese. Med. Grundlagenforsch. 4 (1962) 1–62; H. J. JERISON: Quantitative analysis of evolution of the brain in mammals. Science 133 (1961) 1012–1014; D. STARCK: Die Neencephalisation, in: G. HEBERER: Menschliche Abstammungslehre (1965) 103–144; B. RENSCH: The evolution of brain achievements. Evolut. Biol. 1 (1967) 26–68. \nB. RENSCH: Die Abhängigkeit der Struktur und der Leistungen tierischer Gehirne von ihrer Größe. Naturwiss. 45 (1958) 145–154. 175–180.",
+ "l":"",
+ "au":"B. Rensch",
+ "A":["B. Rensch"],
+ "cb":[[0,977],[112,978],[755,978],[997,978],[1019,978]],
+ "cn":[[0,977],[74,977],[278,977],[640,977]],
+ "cl":[]
+}
+);

@@ -1,0 +1,37 @@
+HWPH.put("t/2657",
+{
+ "b":"Reich der Zwecke ist ein zentraler Terminus in der Moral- und Rechtsphilosophie I. KANTS. Kant versteht unter ‹Reich› «die systematische Verbindung verschiedener vernünftiger Wesen durch gemeinschaftliche Gesetze»; unter ‹Zweck› versteht er einerseits – wie alltagssprachlich üblich – eine übergeordnete Handlungsorientierung als Resultat einer Zwecksetzung, andererseits den Menschen selbst als Person, d.h. als sittlich autonomes Vernunftwesen, das er «Zweck an sich selbst» nennt . «Zwecke an sich selbst» (oder nachkantisch: Selbstzwecke) heißen Personen auch deshalb, weil sie absoluten Wert und daher Würde haben , weswegen sie, der Selbstzweckformel des Kategorischen Imperativs gemäß , niemals völlig instrumentalisiert oder funktionalisiert, d.h. einem durch Handlungen oder Zwecksetzungen etablierten Zweckezusammenhang ein- und untergeordnet werden dürfen. \nNicht der einzelne Mensch, wohl aber die Menschheit als ganze ist zur Verwirklichung des R.d.Z. moralisch verpflichtet; der einzelne kann nur nach dem Maß seines Vermögens auf seine Realisierung hinarbeiten und sie befördern. Deshalb, und weil der gute Wille zu seiner Verwirklichung nicht als vorhanden unterstellt werden kann, ist das R.d.Z. «nur ein Ideal» . Dennoch hat jeder so zu verfahren, «als ob» seine Etablierung nur von ihm selbst abhinge , weshalb die entsprechende R.d.Z.-Formel des Kategorischen Imperativs lautet: «handle nach Maximen eines allgemein gesetzgebenden Gliedes zu einem bloß möglichen R.d.Z.» . Der entwickelte Begriff dieses Ideals enthält außer der Allgemeinheit seiner Gesetzesform und der Vernunftgemäßheit seines Inhalts die Aspekte der individuellen und der kollektiven Urheberschaft des Moralgesetzes und seiner auf die Urheber selbst bezogenen Adressierung. Die individuelle Urheberschaft und Selbstadressierung faßt Kant in den Begriff der Autonomie oder Selbstgesetzgebung , die kollektive Urheberschaft und Selbstadressierung in den des R.d.Z. . \nAls Gegenbild zum R.d.Z. dient Kant die vernunftlose Natur, deren empirisch-kontingente Gesetze ebenfalls ein – allerdings nicht vernunftnotwendiges – System bilden. Deswegen sowie aufgrundihrer Offenheit für die Zwecke von Vernunftwesen kann die Natur ebenfalls als «Reich» gelten . Das «Reich der Natur» dient Kant zur Analogie für das R.d.Z. . Darüber hinaus kann es selbst, jedenfalls für den Bereich des Lebendigen, als «System der Zwecke» beurteilt werden, allerdings nicht von der bestimmenden, sondern der reflektierenden Urteilskraft, somit nicht in konstitutiver, sondern nur in regulativer Hinsicht . \nIn seiner philosophischen Religionslehre beschreibt Kant das R.d.Z. unter Verwendung rechtlich-politischer und biblischer Begrifflichkeit als eine unter ethischen oder Tugendgesetzen stehende ethische Gemeinschaft, die, sofern jene Gesetze öffentlich gemacht werden, ein «ethisches gemeines Wesen» (Gemeinwesen) oder ein «ethischer Staat, d.i. ein Reich der Tugend» oder auch «Volk Gottes» bzw. «Reich Gottes» genannt werden darf; «Reich Gottes», weil die Stiftung eines Volks Gottes «nicht von Menschen, sondern nur von Gott selbst erwartet werden kann» . Da dieses Reich zugleich das «höchste Gut», d.h. den durch Gott zu erwirkenden moralisch «notwendigen Zusammenhang zwischen Sittlichkeit und der ihr proportionirten Glückseligkeit» verkörpert, kann Kant es, in z.T. ausdrücklicher Bezugnahme auf G. W. LEIBNIZ, als «beste Welt» im Sinne einer «moralischen Welt» und als «das Reich der Gnaden» bezeichnen , das im Unterschied zum «Reiche der Natur» die «systematische Einheit der Zwecke» unter Gesetzen der Moral – kurz: ein moralisches «R.d.Z.» darstellt . \nKANTS Konzeption eines R.d.Z. ist auf z.T. von ihm selbst ausdrücklich bemerkte vielfache Weise mit philosophischen und theologischen Topoi der Tradition verknüpft: philosophisch mit Platons Ideal einer vollkommenen Republik , mit der antiken Lehre vom höchsten Gut (s.d.) und ihrer Aufnahme in die stoische Konzeption eines rechtlichen oder ethischen Kosmopolitismus (s.d.) ; theologisch mit dem neutestamentlichen und mittelalterlich-chiliastischen Begriff des Reichs Gottes (s.d.) in eins mit dem augustinischen Begriff des Gottesstaats und der lutherischen Zwei-Reiche-Lehre. \nKants Gegenüberstellung des R.d.Z. und des Reichs der Natur läßt sich als philosophisch rationalisierte Fassung des primär theologisch motivierten Begriffspaars ‹Reich der Gnade/Reich der Natur› (s.d.) lesen, die unter dem Einfluß der politischen Motive der Französischen Revolution und ihrer spekulativen Verarbeitung durch die Freiheitsphilosophie des Deutschen Idealismus (s.d.) vornehmlich von K. MARX in das Gegensatzpaar ‹Reich der Freiheit/Reich der Notwendigkeit› (s.d.) transformiert wurde. Kants unmittelbare philosophische Nachfahren beziehen sich nur gelegentlich auf seine Konzeption des R.d.Z.: F. W. J. SCHELLING spricht vom «Reich moralischer Wesen» , und J. G. FICHTE ruft dazu auf, die «Eine große, freie, moralische Gemeine ... durch den gemeinschaftlichen pflichtmäßigen Willen», dem «Grundgesetz des großen sittlichen Reichs», hervorzubringen, welches Reich er als «Welt» oder «System» bezeichnet und als «Vereinigung und unmittelbare Wechselwirkung mehrerer selbständiger und unabhängiger Willen miteinander» beschreibt .",
+ "n":"I. KANT: Grundl. zur Met. der Sitten (1785). Akad.-A. 4, 433. \na.O. 428. \n434f. \n429. \n433. 438f. \n438. \n439. \n431. 433. 440; KpV A 58. Akad.-A. 5, 33. \n431. 433–436. 438f. \n438f. \na.O. sowie 436, Anm. \nKU B 301 (§ 67), a.O. 379. \nRelig. innerh. der Grenzen der bl. Vern. (1793). Akad.-A. 6, 94f. \na.O. 100. \nKpV A 224. Akad.-A. 5, 124. \nA 225, a.O. 125; KrV A 811f./B 839f.; vgl. G. W. LEIBNIZ: Princ. de la nat. et de la grâce fondés en raison 15 (1714/1718); Monadol. 84–90 (1714/1720). \nKrV A 815/B 843. \nÜber eine Entdeckung ... (1790). Akad.-A. 8, 250. \nVgl. KrV A 316f./B 372f. \nVgl. SVF II, 528; III, 333–348. \nF. W. J. SCHELLING: Neue Deduction des Naturrechts 15. 31 (1796/97). Akad.-A. I/3 (1982) 142. 145. \nJ. G. FICHTE: Die Bestimmung des Menschen 3, IV (1800). Akad.-A. I/6 (1981) 298. 293.",
+ "l":"",
+ "au":"R. Wimmer",
+ "A":["R. Wimmer"],
+ "cb":[[0,508],[869,508],[1281,509],[1956,509],[2569,509],[3633,509],[4214,509]],
+ "cn":[
+  [0,508],
+  [0,509],
+  [63,509],
+  [74,509],
+  [81,509],
+  [87,509],
+  [99,509],
+  [105,509],
+  [111,509],
+  [153,509],
+  [174,509],
+  [181,509],
+  [203,509],
+  [231,509],
+  [298,509],
+  [307,510],
+  [309,510],
+  [338,510],
+  [491,510],
+  [509,510],
+  [560,510],
+  [586,510],
+  [619,510],
+  [719,510]
+ ],
+ "cl":[]
+}
+);

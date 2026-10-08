@@ -1,0 +1,27 @@
+HWPH.put("a/1022",
+{
+ "id":1022,
+ "lemma":"Gegenteil",
+ "band":"3",
+ "kind":"article",
+ "col_from":136,
+ "col_to":136,
+ "pdf_from":7758,
+ "pdf_to":7758,
+ "authors":["A. Menne"],
+ "n_notes":0,
+ "n_chars":292,
+ "toc":[],
+ "html":"<p>Gegenteil eines <i>Begriffes A</i> heißt ein Begriff, der sich zu <i>A ausschließend, widersprechend</i> oder <i>widerstreitend</i> verhält; ‹G.› einer <i>Aussage p</i> heißt eine Aussage <i>q</i>, wenn zwischen beiden die <i>Exklusion p</i>/<a class=\"xref\" href=\"#/a/870\"><i>q</i></a> <span class=\"sd\">→ (s.d.)</span> oder die <i>Kontravalenz p</i>›–‹<a class=\"xref\" href=\"#/a/1648\"><i>q</i></a> <span class=\"sd\">→ (s.d.)</span> besteht oder wenn <i>p</i> und <i>q</i> in <i>Widerstreit</i> stehen.</p>",
+ "prev":{"id":1021,"lemma":"Gegenstandstheorie","band":"3","col":134},
+ "next":{"id":1023,"lemma":"Gegenwart","band":"3","col":136},
+ "backlinks":[],
+ "outlinks":[{"id":870,"lemma":"Exklusion","n":1},{"id":1648,"lemma":"Kontravalenz","n":1}],
+ "register":[],
+ "persons":[],
+ "mentions":[{"id":309,"lemma":"Aussage","tf":2}],
+ "see_also":[],
+ "groups":[{"id":22,"name":"Logik","label":"Gegenteil"}],
+ "reg_authors":[{"name":"Menne Albert","n":61}]
+}
+);

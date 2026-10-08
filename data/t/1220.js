@@ -1,0 +1,12 @@
+HWPH.put("t/1220",
+{
+ "b":"Handelsstaat, geschlossener. Der g. H. ist J. G. FICHTES theoretische Überführung der politischen Wirklichkeit in den von ihm «nach Prinzipien der Wissenschaftslehre» deduzierten Vernunftstaat . Seine Intention ist die Überwindung der seit der bürgerlichen Revolution sich abzeichnenden Tendenz zu einer neuen Klassengesellschaft. Durch die Herstellung völliger wirtschaftlicher Autarkie und die Unterbindung jeglichen internationalen Verkehrs der Bevölkerungen soll außerdem der Friede zwischen den so gewonnenen politischen Einheiten garantiert sein . Mittel dazu sind die Umstellung der heimischen Industrie (bis zu dem Vorschlag, die Baumwolle durch heimisches Wollgras zu ersetzen ) und zentrale Planung der Wirtschaft bis in alle Einzelheiten des Arbeitsablaufs, der Qualitäts- und Preisfestsetzung, der Berufswahl usw. – Politisch bedeutet Fichtes g. H. den Versuch, die revolutionäre Gleichheitsforderung praktisch-ökonomisch zu verwirklichen; durch ihn wird in einigen Zügen sozialistische Theorie und Praxis vorweggenommen. Mit dem übrigen Denken Fichtes ist der g. H. systematisch durch den Begriff des Eigentums verbunden, das Fichte als die Konkretion der Freiheit begreift. Die als Zweck des Bürgervertrages deduzierte Freiheitsgarantie wird zur Eigentumsgarantie und so zum unbeschränkten Eingriffs- und Aufsichtsrecht der Gesellschaft in bezug auf alle Handlungen der empirischen Personen, insofern diese als Eigentum der intelligiblen Person betrachtet werden. Fichte glaubt, daß im g. H. die Freiheit verwirklicht werde, insofern er durch seine extreme Disjunktion von Moralität und Legalität den g. H. lediglich auf den Bereich des letzteren eingeschränkt sieht. Die nicht-empirische, abstrakte Moralität bleibt als der Ort der Freiheit das Alibi der totalen Zwangsgesellschaft des g. H. Als Utopie ist der g. H. nicht anzusprechen, da er, intermediär aufgefaßt, dazu dienen soll, das ‹Reich› der Freiheit, der unmittelbaren Moralität, Fichtes eigentliche Utopie, heraufzuführen.",
+ "n":"J. G. FICHTE: Der g. H. Ein philosoph. Entwurf als Anhang zur Rechtslehre und Probe einer künftig zu liefernden Politik (1800). Werke, hg. I. H. FICHTE (1834–46) 3, 387ff. \na.a.O. 515. \n500.",
+ "l":"H. BRUNNER: Die Wirtschaftsphilos. Fichtes (1935). – H. SCHOLZ: J. G. Fichtes Staatssozialismus (Diss. Köln 1955). – B. WILLMS: Die totale Freiheit. Fichtes politische Philos. (1966).",
+ "au":"B. Willms",
+ "A":["B. Willms"],
+ "cb":[[0,996],[1315,997]],
+ "cn":[[0,996],[0,997],[173,997],[186,997]],
+ "cl":[[0,997]]
+}
+);

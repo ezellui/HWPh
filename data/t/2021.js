@@ -1,0 +1,37 @@
+HWPH.put("t/2021",
+{
+ "b":"Montanismus. Der von der Kirchengeschichtsschreibung des frühen 19. Jh. eingeführte Begriff ‹M.›, der sich an das bereits im 4. Jh. gebräuchliche Wort ‹Montanist› (Μοντανιστός) anschließen konnte , bezieht sich auf eine um 156 n.Chr. auftretende radikal-eschatologische Bewegung, die maßgeblich von dem ehemaligen Kybelepriester MONTANUS getragen wurde, nach dessen phrygischer Heimat die Montanisten auch die «Kataphryger» (οἱ κατὰ Φρύγας; Cataphrygae) genannt wurden . In der ersten, stark endzeitlich geprägten und weitestgehend auf Kleinasien beschränkten Phase des M. verkündeten Montanus und seine beiden prophetischen Begleiterinnen Priscilla und Maximilla das baldige Ende der Welt (συντέλεια) , das mit der Herabkunft des Oberen Jerusalem' (ἄνω Ἱερουσαλήμ) auf das phrygische Dorf Pepuza begönne . Die eschatologische Gewißheit, des endzeitlichen Charisma (ἔσχατον χάρισμα) teilhaftig zu sein, brach in ekstatischer Begeisterung hervor und führte zur Selbstidentifikation des Montanus mit dem im Johannesevangelium (14, 16. 26; 15, 26; 16, 7) prophezeiten Parakleten (παράκλητος) oder auch Hl. Geist : «Ich bin der Vater und ich bin der Sohn und ich bin der Paraklet» (Ἐγώ εἰμι ὁ πατὴρ καὶ ἐγώ εἰμι ὁ υἱὸς καὶ ἐγὼ ὁ παράκλητος) . Die in der Gestalt des Parakleten sich offenbarende ‘Neue Prophetieʼ (νέα προφητεία, nova prophetia) forderte angesichts des Weltendes die kompromißlose Entweltlichung (Verbot der zweiten Ehe, wenn nicht der Ehe schlechthin, λύσις γάμων; Fastengebote, νυστείας νομοθετεῖν; Martyrium – optare exire in martyriis) . Die durch den M. provozierten Fragen nach der Legitimität der Prophetie und der Gültigkeit der apostolischen Offenbarung machten eine Intervention des sich konsolidierenden und mit dem Bestand der Welt rechnenden Episkopats der Großkirche erforderlich und führten zu einer verstärkt antimontanistischen Kirchenpolitik und Literatur, in der der ursprünglich orthodoxe M. zusehends verfremdet dargestellt und allmählich häretisiert wurde: seine falsifizierte Naherwartung , sein u.a. für TERTULLIAN so attraktiver ethischer Rigorismus , seine strenge Bußdisziplin , seine Duldung weiblicher Kleriker, seine Vergöttlichung der Maria , besonders aber sein Sabellianismus , die Überordnung der ‘Pneumatikerʼ (πνευματικοί) über den bloß ‘psychischenʼ Episkopat und die hieraus resultierende Bestreitung der kirchlich vermittelten Sündenvergebung und schließlich die Relativierung der neutestamentlichen Offenbarungsereignisse und die pneumatische Überbietung des apostolischen Kanons ließen den M. zum Inbegriff antichristlicher Doktrinen und Praktiken (Σατανᾶς Μοντανός) werden. Trotz dieses inkriminierenden Katalogs fragte sich besonders die protestantische Kirchengeschichtsschreibung, ob der M. nicht einen historisch legitimen Versuch der Reaktualisierung urchristlicher Eschatologie in einer Zeit zunehmender «Verweltlichung» und Klerikalisierung repräsentierte und ob nicht «die Montanisten um das Christenthum willen gelitten hätten» . «Man wird nicht irre gehen, wenn man gerade dadurch, dass so die Kirche festen Fuss in der Welt zu fassen begann, den M. hervorgerufen sieht. Indem er dagegen ankämpft, ist er Reaktion und vertritt die bisherige Form des Christentums» .",
+ "n":"A. NEANDER: Allg. Gesch. der christl. Relig. und Kirche (1828) I/3, 579ff.; F. K. A. SCHWEGLER: Der M. (1841); F. CHR. BAUR: Das Christenthum und die christl. Kirche der drei ersten Jh. (1853) 213ff. \nVgl. G. FICKER: Widerlegung eines Montanisten. Z. Kirchengesch. 26 (1905) 447–463; P. de LABRIOLLE: Les sources de l'hist. du montanisme (Paris 1913) 153, 17. \nVgl. G. N. BONWETSCH: Die Gesch. des M. (ND 1972) 140ff.; dagegen: T. D. BARNES: The chronol. of montanism. J. theol. Stud. NS 11 (Oxford 1970) 403–408. \nVgl. de LABRIOLLE, a.O. [2] 242, 7f. 254, 1f. \n117, 3; vgl. K. ALAND: Bemerk. zum M. und zur frühchristl. Eschatol. Kirchengesch. Entwürfe (1960) 105ff. \nde LABRIOLLE, a.O. [2] 137, 4ff. \n103, 30. \n97, 25ff. \nVgl. BONWETSCH, a.O. [3] 81ff. \nVgl. EUSEBIUS, Kirchengesch., hg. ED. SCHWARTZ (21914) 199, 10ff. \nVgl. de LABRIOLLE, a.O. [2] 196ff. \nVgl. 150, 1ff.; BONWETSCH, a.O. [3] 69ff.; ALAND, a.O. [5] 118; H. J. LAWLOR: Art. ‹Montanism›, in: Encyclop. of relig. and ethics, hg. J. HASTINGS u.a. (Edinburgh 1930, ND New York 1955) 8, 827f. \nde LABRIOLLE, a.O. [2] 117, 9ff. \n128ff.; BONWETSCH, a.O. [3] 81ff. \nde LABRIOLLE, a.O. [2] 168f. \n140. 17ff. 215, 13ff. 228, 17ff. 248, 14f. 194f. \n154, 14ff. 168, 1ff. 206, 1ff. 207, 1ff. 212, 18ff. 221, 2ff. \nTERTULLIAN, De paenitentia. De pudicitia, hg. E. PREUSCHEN (21910) 66f.; BAUR, a.O. [1] 263. 355f. \nde LABRIOLLE, a.O. [2] 103, 8f. 150, 12ff.; 156ff. \nVgl. F. OVERBECK: Zur Gesch. des Kanons (1880) 73. 79; de LABRIOLLE, a.O. [2] 84, 3ff. \n223, 10. \nVgl. BAUR, a.O. [1] 224. 263. \nG. ARNOLD: Unparteyische Kirchen- und Ketzer-Hist. (1690) 71. \nBONWETSCH, a.O. [3] 138.",
+ "l":"",
+ "au":"M. Arndt",
+ "A":["M. Arndt"],
+ "cb":[[0,147],[68,148]],
+ "cn":[
+  [0,147],
+  [201,147],
+  [361,147],
+  [515,147],
+  [562,147],
+  [669,147],
+  [703,147],
+  [713,147],
+  [724,147],
+  [756,147],
+  [823,147],
+  [859,147],
+  [1057,147],
+  [1091,147],
+  [1126,147],
+  [1156,147],
+  [1206,147],
+  [1269,147],
+  [1369,147],
+  [1421,147],
+  [1509,147],
+  [1519,147],
+  [1550,147],
+  [1613,147]
+ ],
+ "cl":[]
+}
+);

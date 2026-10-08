@@ -1,0 +1,37 @@
+HWPH.put("t/420",
+{
+ "b":"Bewußtseinsstörung. Für die mit ‹B.› gemeinten psychischen Veränderungen finden sich im 19. Jh. zunächst noch mehrere, zum Teil von recht verschiedenen Bewußtseinsbegriffen ausgehende Synonyma, wie ‹Verfälschung› (LEIDESDORF ), ‹Verödung› (SPIELMANN ), ‹Umdämmerung›, ‹Umnebelung› (GRIESINGER ), ‹Schwächung› (KAHLBAUM ), auch schon ‹Trübung› (FEUCHTERSLEBEN, KRAEPELIN ) des Bewußtseins. Dessen Betrachtung unter dem allgemeinen Gesichtspunkt der «Helligkeit», bereits bei CHR. WOLFF anklingend , hält sich aber noch innerhalb des psychologischen Rahmens (HEGEL, FECHNER, KRAEPELIN ). Der eigentliche Begriff ‹B.› erfährt zunächst auch noch eine mehr idealistisch oder rationalistisch gefärbte, von den Denk- und Gefühlsinhalten her bestimmte Verwendung, so von HEINROTH beim «Blödsinn» als Störung der «Bedingungen zur Menschheit» , von HENKE bei «Stumpfsinn und Blödsinn» , von IDELER bei «Geisteskrankheiten» und «gestörten Seelenzuständen» allgemein , ferner von CARUS beim «Wahnsinn» , von SPIELMANN bei der «Verrücktheit» und von SANTLUS (im Plural) synonym zu den verschiedenen «Formen des Irreseins» überhaupt . \nZunehmend setzt sich jedoch um die Jahrhundertwende die Tendenz durch, den B.-Begriff auf «abnorme Veränderungen in der Verbindung der psychischen Gebilde» (WUNDT ) und auf die «Bewußtseinstätigkeit» (WERNICKE ) statt auf die Einzelinhalte zu beziehen. Zum gängigen Gesichtspunkt für die Definition der B. wird in der folgenden Zeit in erster Linie die skalare «Trübung» im Sinne verschiedener Wachheitsgrade, bis hin zur Bewußtlosigkeit (Benommenheit, Somnolenz, Sopor, Koma) , zum andern die «Einengung» des Bewußtseins, beides von JASPERS in dem Bild von der «Bühne» veranschaulicht . Seit der Aufstellung der «exogenen psychischen Reaktionstypen» durch BONHOEFFER gilt die Bewußtseinstrübung insbesondere als Leitsymptom dieser akuten «symptomatischen» oder «körperlich begründbaren» Psychosen (K. SCHNEIDER, WEITBRECHT ), zu denen auch das Delir zählt. Verschiedene Autoren haben andererseits auch auf die Schwierigkeiten einer befriedigenden Fassung des B.-Begriffs hingewiesen, so BUMKE, MAYER-GROSS, JAHRREISS, FISCHER . Neuerdings beschrieb ZUTT die «gesteigerte Wachheit» ebenfalls als Störungsform des normalen Wachbewußtseins , CONRAD gab dem «Gestaltwandel des Erlebnisfeldes» , ZEH der «Bewußtseinsveränderung» den begrifflichen Vorrang vor der B. Gemeinsam gehen jedoch auch heute fast alle Verwendungen des B.-Begriffs von der gestörten Funktion und Integration der psychischen Vorgänge und nicht vom Bewußtseinsinhalt aus.",
+ "n":"M. LEIDESDORF: Lehrb. der psychischen Krankheiten (21865) 121. \nJ. SPIELMANN: Diagnostik der Geisteskrankheiten (1855) 254. \nW. GRIESINGER: Pathol. und Therapie der psychischen Krankheiten (21867) 109. 262. 411. \nG. KAHLBAUM: Die Sinnesdelirien. Allg. Z. Psychiat. 23 (1866) 43. \nE. v. FEUCHTERSLEBEN: Lehrb. der ärztlichen Seelenkunde (1845) 313; E. KRAEPELIN: Psychiat. (31889) 85. 241. \nVgl. CHR. WOLFF: Dtsch. Met. (1720). Dtsch. Lit. Reihe ‹Aufklärung› 2 (1930) 49. \nVgl. G. W. F. HEGEL, Sämtl. Werke, hg. H. GLOCKNER 10 (31958) 184; G. TH. FECHNER: Elemente der Psychophysik (21889) 2, 440f.; KRAEPELIN, a.a.O. [5] 87. \nF. C. A. HEINROTH: Lb. der Störungen des Seelenlebens (1818) 341. \nA. HENKE: Lb. der gerichtlichen Medizin (61829) 181. \nK. W. IDELER: Grundriß der Seelenheilkunde 2 (1838) 36. 64. \nC. G. CARUS: Psyche (21860) 485. \nJ. SPIELMANN, a.a.O. [2] 231. \nJ. C. SANTLUS: Die Alienationen des Bewußtseins. Allg. Z. Psychiat. 13 (1856) 173. \nW. WUNDT: Grundriß der Psychol. (71905) 246. \nK. WERNICKE: Grundriß der Psychiat. (21906) 79f. 171. \nH. OPPENHEIM: Lb. der Nervenkrankheiten 2 (1905) 682. – K. WERNICKE, a.a.O. [15] 76; W. JAHRREISS: Störungen des Bewußtseins, in: Hb. der Geisteskrankheiten, hg. O. BUMKE 1/1 (1928) 612ff. \nK. JASPERS: Allg. Psychopathol. (11913) 77f. \nK. BONHOEFFER, in: Hb. Psychiat., hg. G. ASCHAFFENBURG 3/1 (1912) 106. \nVgl. H. J. WEITBRECHT: Symptomatische Psychosen. Klinik der Gegenwart 1/2 (1956) 484f. \nVgl. u.a. O. BUMKE: Die Diagnose der Geisteskrankheiten (1919) 354–357; W. JAHRREISS, a.a.O. [16] 613. \nJ. ZUTT: Über die polare Struktur des Bewußtseins. Nervenarzt 16 (1943) 146. \nK. CONRAD: Die symptomatischen Psychosen. Psychiat. der Gegenwart 2 (1960) 376f. 413. \nW. ZEH: Bewußtseinsveränderungen und psychopathol. Erscheinungsbilder. Fortschr. Neurol. Psychiat. 27 (1959) 610.",
+ "l":"J. C. SANTLUS s. Anm. [13]. – W. JAHRREISS s. Anm. [16]. – K. JASPERS s. Anm. [17]. – B. Symposion St. Moritz, hg. H. STRAUB und H. THÖLEN (1961). – W. LEIBBRAND: Der Wahnsinn (1961).",
+ "au":"G. Hole",
+ "A":["G. Hole"],
+ "cb":[[0,903],[1122,903],[2445,904]],
+ "cn":[
+  [0,903],
+  [0,904],
+  [64,904],
+  [125,904],
+  [213,904],
+  [280,904],
+  [390,904],
+  [472,904],
+  [626,904],
+  [693,904],
+  [747,904],
+  [808,904],
+  [842,904],
+  [873,904],
+  [957,904],
+  [1003,904],
+  [1058,904],
+  [1248,904],
+  [1294,904],
+  [1366,904],
+  [1454,904],
+  [1558,904],
+  [1636,904],
+  [1723,904]
+ ],
+ "cl":[[0,904]]
+}
+);

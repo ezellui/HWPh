@@ -1,0 +1,43 @@
+HWPH.put("t/1665",
+{
+ "b":"Körperschema (dtsch. syn. auch Körperbild, Körper-Ich, engl. body image, frz. image du corps). – 1. Im Rahmen der Diskussion um die Existenz ‹isolierter Empfindungen› wendet sich die Neurophysiologie und Psychiatrie des beginnenden 20. Jh. der Untersuchung der Körperwahrnehmung zu, die als Musterbeispiel für eine nicht aus einer additiven Zusammensetzung isolierter Elemente erklärbare Klasse von Bewußtseinsinhalten gesehen wird . Noch WERNICKE hatte unter dem «somatopsychischen Bereich» die Gesamtheit der in der «Fühlsphäre» repräsentierten Körperempfindungen bzw. – Vorstellungen verstanden. \nHEAD wendet sich aber aufgrundder Analyse von neurologischen Orientierungsstörungen hinsichtlich der Stellung von Gliedmaßen und der Lokalisation von Berührungsreizen auf der Körperoberfläche gegen die Auffassung, diese Leistungen könnten aus der Aktivierung von Bewegungs- oder Raumvorstellungen (images) erklärt werden. Er spricht vom «postural model of the body», das die funktionalen Eigenschaften eines Schemas besitzt: Es ist selbst nicht im «Brennpunkt des Bewußtseins» gelegen, sondern wirkt als unbewußter «Standard», auf den die aktuellen Stellungswahrnehmungen bezogen sind. Dieser Standard ist nicht ein für allemal festgelegt, sondern ändert mit jeder neuen Gliedbewegung seinen Wert. Die Lokalisation auf der Körperoberfläche orientiert sich an einem relativ statischen «surface model of the body». – Physiologisch sieht Head in den «Schemata» teils gespeicherte Residuen vergangener Sinneseindrücke, die sich von den Vorstellungen nur durch das Fehlen der Bewußtseinsrepräsentanz unterscheiden, teils aber auch reine «Dispositionen», durch die aktuelle Erregungsabläufe modifiziert werden. So wird die tonische Innervation der Skelettmuskulatur durch das «postural model of the body» gesteuert. Im ganzen überwiegt bei Head eine funktionalistische, nicht phänomendeskriptive Verwendung des Begriffes. \n2. PICK hatte schon 1905 von «Raumbildern des Körpers» gesprochen, ersetzt aber diesen Ausdruck später durch ‹K.› ; durch diesen Begriff sollen sowohl Heads «models of the body» wie auch die «Raumbilder des Körpers» wiedergegeben werden. Indessen sind die K. nach Picks Auffassung durchaus Bewußtseinstatsachen; es sind visuelle, taktile und kinästhetische Vorstellungskomplexe vom eigenen Körper, die als Ganzes die intakte Körperwahrnehmung ergeben. Orientierungsstörungen am eigenen Körper (Autotopagnosien) werden durch das Fehlen der Fähigkeit zur Aktivierung des visuellen Raumbildes des Körpers erklärt. Eine funktionalistische Komponente erhält Picks Auffassung der K. durch die Einführung des «Habitualzustandes» ; er ist das «Gerüst», in das die einzelnen K. eingetragen werden. \n3. Während Head und vor allem Pick die Körperwahrnehmung noch in einzelne Sinnesgebiete aufgeteilt sahen, betont SCHILDER ihren intermodalen Charakter und verwendet folgerichtig den Begriff ausschließlich in der Einzahl. Er übernimmt die erlebnisdeskriptive Definition PICKS und beschreibt das K. als das «Raumbild, das jeder von sich hat» . Während in der ersten Fassung seiner Monographie die von Head und Pick übernommene Problematik der Orientierung am eigenen Körper im Vordergrundsteht, erweitert SCHILDER in seinem späteren, umfassenden Werk seine K.-Konzeption um psychoanalytische und soziologische Aspekte. Die ontogenetische Entwicklung des K. und seine Beteiligung an psychodynamischen Prozessen (Verdrängung, Konversion) werden analysiert. Das K. erhält eine integrative und steuernde Funktion, indem es die psychische Energie auf den Organismus verteilt. \nIn dieser, von Heads ursprünglicher Konzeption weit entfernten Fassung, die deskriptive und funktionalistisch-motivationale Gesichtspunkte in eins setzt, ist das ‹body image› in die angelsächsische Literatur wieder eingeführt worden. Das ‹body image› erscheint heute in diesem Sprachbereich vorwiegend in psychoanalytisch orientierten Theorien und dient häufig zur Erklärung «psychosomatischer» Symptombildungen auf neurotischer Grundlage. So wird die psychoanalytische Ich-Psychologie von FEDERN um eine sorgfältige Analyse des Körper-Ichs des Erwachsenen bereichert. \n4. In der Psychiatrie der zwanziger Jahre wird ‹K.› zum beliebten «Erklärungsbegriff», wobei eine naivrealistische Konfundierung des wahrgenommenen Körpers mit dem physischen Organismus nicht immer vermieden wurde . Erscheinungen, die PICK und SCHILDER als Beweis für die Integrität des K. bei Schädigungen des physischen Organismus ins Feld führten (etwa das Phantomglied der Amputierten), werden jetzt – so etwa von KLEIN – aus einer Defizienz des K. abgeleitet. Entscheidend für die Integrität des K. ist hier die «Wirklichkeitstreue» der Körperwahrnehmung. Diese phänomenanalytisch unangemessene Auffassung gibt CONRAD Anlaß zu einer kritischen Revision des Begriffs. Konsequent wird hier – in Anlehnung an Köhler – das K. rein phänomendeskriptiv als «Bewußtheit des eigenen Körpers als eines aus dem Anschauungs- und Aktionsraum herausgesonderten Ganzen im Sinne der Ganzheitspsychologie» bestimmt. Störungen der Körperwahrnehmung werden nun als Ausdruck einer primären Defizienz der «Gestaltfunktion des Cortex» aufgefaßt. \n5. Erst KÖHLER betonte die Notwendigkeit einer konsequenten erkenntnistheoretischen Unterscheidung zwischen wahrgenommenem Körper und physischem Organismus. In diesem Sinn spricht METZGER von einem Körper-Ich als Erlebnisinhalt, das ebenso im Wahrnehmungsraum lokalisiert ist wie die Wahrnehmungsdinge der Umwelt und das ebensowenig mit dem physischen Organismus identifiziert werden darf wie die Wahrnehmungsdinge der phänomenalen Welt mit den bewußtseinsunabhängigen Gegebenheiten der physikalischen Realität. Es fehlt in dieser Analyse ein Begriff für das «Bezugssystem», in das die einzelnen Körperwahrnehmungen eingeordnet werden. Im Interesse einer klaren Terminologie sollte – in Anlehnung an Prinz v. AUERSPERG – zwischen ‹K.› im Sinne Heads, d.h. funktionalem Bezugssystem der Körperwahrnehmung, ‹Körperbild› als relativ überdauerndem Ding im Wahrnehmungsraum, und aktuellen Körperwahrnehmungen unterschieden werden.",
+ "n":"A. PICK: Hist. Notiz zur Empfindungslehre nebst Bemerkungen bezügl. ihrer Verwertung. Z. Psychol. 76 (1916) 232–246. \nC. WERNICKE: Grundriß der Psychiat. in klin. Vorles. (1900). \nH. MUNK: Über die Funktionen der Großhirnrinde (21890). \nH. HEAD und G. HOLMES: Sensory disturbances from cerebral lesions. Brain 34 (1911) 102; auch in: H. HEAD: Stud. in neurol. (London 1920) 533–638. \nA. PICK: Stud. zur Hirnpathol. und Psychol. (1908). \nA. PICK: Störungen der Orientierung am eigenen Körper. Psychol. Forsch. 1 (1922) 303–318. \nP. SCHILDER: Das K. Ein Beitrag zur Lehre vom Bewußtsein des eigenen Körpers (1922). \na.a.O. 2. \nebda. \nThe image and appearance of tne human body (New York 1950). \nP. FEDERN: Ich-Psychol. und die Psychosen (1956). \nG. ENGERTH: Zeichenstörungen bei Patienten mit Autotopagnosie. Z. ges. Neurol. 143 (1933) 381; H. HOFF und O. POETZL: Exp. Nachbildung von Anosognosie. Z. ges. Neurol. 137 (1931) 722. \nR. KLEIN: Zur Empfindung der Körperlichkeit. Z. ges. Neurol. 126 (1930) 453–472. \nK. CONRAD: Das K. Eine krit. Studie und der Versuch einer Revision. Z. ges. Neurol. Psychiat. 147 (1933) 346–369. \nW. KÖHLER: Ein altes Scheinproblem. Naturwiss. 17 (1929) 399. \nCONRAD, a.a.O. [14] 367. \nKÖHLER, a.a.O. [15]. \nW. METZGER: Psychol. Entwickl. ihrer Grundannahmen seit der Einf. des Experiments (31963). \nA. Prinz v. AUERSPERG: Körperbild und K. Nervenarzt 31 (1959) 19–24.",
+ "l":"K. CONRAD s. Anm. [14]. – R. C. OLDFIELD und O. L. ZANGWILL: Head's concept of the schema and its application in contemporary Brit. psychol. Brit. J. Psychol. 32 (1942) 267–286; 33 (1942) 58–64. 113–129. 143–149. – H. HECAEN und J. de AJURIAGUERRA: Méconnaissances et hallucinations corporelles: Intégration et désintégration de la somatognosie (Paris 1952). – H. SCHMITZ: System der Philos. II/1: Der Leib (11965). – S. WAPNER und H. WERNER (Hg.): The body percept (New York 1965). N. BISCHOF: Stellungs-, Spannungs- und Lagewahrnehmung, in: Hb. der Psychol., hg. K. GOTTSCHALDT u.a. I/1: Wahrnehmung und Bewußtsein (1966) 409–497.",
+ "au":"E. Scheerer",
+ "A":["E. Scheerer"],
+ "cb":[
+  [0,1134],
+  [600,1134],
+  [1917,1134],
+  [2615,1135],
+  [2707,1135],
+  [3577,1135],
+  [4147,1135],
+  [5175,1136],
+  [5177,1136]
+ ],
+ "cn":[
+  [0,1134],
+  [0,1136],
+  [118,1136],
+  [180,1136],
+  [237,1136],
+  [384,1136],
+  [437,1136],
+  [528,1136],
+  [614,1136],
+  [625,1136],
+  [632,1136],
+  [693,1136],
+  [744,1136],
+  [929,1136],
+  [1011,1136],
+  [1126,1136],
+  [1189,1136],
+  [1215,1136],
+  [1237,1136],
+  [1329,1136]
+ ],
+ "cl":[[0,1136]]
+}
+);

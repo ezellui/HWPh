@@ -1,0 +1,46 @@
+HWPH.put("t/63",
+{
+ "b":"Agnostizismus wurde 1869 von TH. H. HUXLEY geprägt zur Bezeichnung der positivistischen Richtung, die vom Standpunkt des ‹ignoramus ignorabimus›, des Nichtwissens, das metaphysische Wahrheitsproblem zwar nicht bestreitet, doch die Möglichkeit seiner Lösung verneint: «Now I, and many other Agnostics, believe that faith, in this sense, is an abomination» . Der A. ist kennzeichnend für den Kritizismus und Positivismus. Die Beschränkung auf das Erfahrungsmäßige, Positive führt aber nicht zur Konsequenz der Leugnung des Transzendenten, sondern eher zu einer indifferenten bis positiven Haltung ihm gegenüber. NIETZSCHE kritisiert diese Inkonsequenz des Denkens als «Erschleichung» einer vermeintlichen Emanzipation von der Theologie durch die agnostische These: «Es giebt kein Erkennen: folglich – giebt es einen Gott» ; die «Agnostiker, die Verehrer des Unbekannten und Geheimnisvollen an sich, woher nehmen sie das Recht, ein Fragezeichen als Gott anzubeten» . \nAuch vom Standpunkt des Marxismus wird die inkonsequente Haltung des A. betont. So bemerkt ENGELS, daß der Zweifel an der Möglichkeit umfassender Erkenntnis nicht zur Eliminierung der von Hegel bereits theoretisch und von der Wissenschaft praktisch widerlegten Hypothese des Dings an sich führe, sondern nur zu einem «verschämten Materialismus» ; soweit der Agnostiker ein «wissenschaftlicher Mann» ist, «soweit er etwas weiß, soweit ist er Materialist; außerhalb seiner Wissenschaft, auf Gebieten, wo er nicht zu Hause ist, übersetzt er seine Unwissenheit ins Griechische und nennt sie A.» . \nM. SCHELER sieht den A. als eine nach den traditionellen Verhältnisbestimmungen von Religion und Metaphysik neu einsetzende Denkrichtung, die durch die Preisgabe der Metaphysik und die daraus resultierende Trennung von Metaphysik und Religion zu charakterisieren sei . In größerer Differenzierung unterscheidet er von den Kantischen agnostischen Schulen, die die Rechtsgültigkeit metaphysischer Fragen und Probleme bestehen lassen und nur ihre theoretische Lösung leugnen, den positivistisch-sensualistischen A., der auch die Berechtigung dieser Fragen selbst verwirft . Alle Arten des A. hält Scheler für unhaltbare Resultate einer Selbsttäuschung , einer bewußten Verengung der Sphäre des Erkennbaren auf «die zu einer menschlichen Organisation, ja überhaupt einem sog. transzendentalen Verstand relativen Gegenstände» . \nAuch H. COHEN beurteilt den A. kritisch als «religiöse Spezialität des Skeptizismus» : vom Standpunkt einer auf Vernunft gegründeten Religion muß die «Resignation auf die Schranken der Erkenntnis im A.» überwunden werden . An anderer Stelle charakterisiert Cohen mit dem Begriff ‹A.› die Willens-Philosophie Schopenhauers und Nietzsches: «Die Tendenz einer sogenannten Metaphysik, welche den Willen auf Kosten des Intellekts offenbart, ist der Skeptizismus oder, wie man es heute wieder zu benennen pflegt, der A.» . Die Theorie der absoluten Selbständigkeit des Willens ist nach Cohen die Metaphysik des A., der durch die Ablehnung einer Vernunfterkenntnis des «Begriffes des Menschen» «einer selbständigen Ethik» widerstrebt . \nH. RICKERT überträgt A. auf bestimmte Richtungen relativistischer Philosophie, die den Begriff des Absoluten von innen her aufzulösen suchten; ähnlich wie Nietzsche und Scheler setzt seine Kritik an der Inkonsequenz und Paradoxie relativistisch-agnostischen Denkens an. Die inkonsequente Richtung des Relativismus, die «von einem Absoluten» redet, das sie «nicht antasten will» und es damit doch «auch theoretisch als Absolutes» anerkennt, mag sie «es im übrigen für völlig unerkennbar erklären ..., sollte man ... lieber A. nennen» . \nF. MAUTHNER unterstellt den Agnostikern nicht die uneingestandene Anerkennung des Absoluten, sondern die Vermeidung des «unschicklichen», aber zutreffenden Wortes «Atheist» . Huxley und Spencer führten «zur Schonung der respectability das Schlagwort Agnostiker ein», um damit von neuem die doppelte Wahrheit von Glauben und Wissen zu behaupten: «Ernsthaften A. würde nur Sprachkritik lehren, wenn sie die Begriffe Gott, absolut als Scheinbegriffe erkannt und die Begriffe unendlich, Wissen in ihrem historischen Wandel untersucht hat» . \nA. J. AYER bemängelt am A. die Sinnlosigkeit des Aufzeigens einer Möglichkeit, die weder zum Glauben noch zum Unglauben führt und deshalb ohne Wirksamkeit bleibt: «we have seen that the sentences in question do not express propositions at all. And this means, that agnosticism also is ruled out» . \nIn neuerer Zeit versucht E. BRUNNER zu einer historischen Beurteilung des A. zu gelangen; der A. löse wie der Positivismus den praktisch «verabschiedeten» Gott des Deismus durch die Behauptung eines «unerforschlichen Geheimnisses» ab . A. und Positivismus sind zwei Aspekte derselben Grundhaltung des Verzichtes auf Erkenntnis des Überweltlichen, wobei der A. durch die Verallgemeinerung des ‹ignoramus ignorabimus› doktrinärer als der Positivismus Sci. Der positive Zug des A. ist nach Brunner «etwas von der Erkenntnis ..., daß alle rationale Gotterkenntnis im höchsten Grade hypothetisch und unsicher ist» .",
+ "n":"Vgl. R. EUCKEN: Geistige Strömungen der Gegenwart (= Die Grundbegriffe der Gegenwart 61920) 398. \nTH. H. HUXLEY: A. and christianity. Collected Essays V (1894) 314. \nNIETZSCHE, Werke. Musarion-A. 15, 442. \na.a.O. 16, 98. \nK. MARX und F. ENGELS, Ausgew. Schriften (1958) 2, 89. \na.a.O. 91. \nM. SCHELER, Werke 5 (41954) 138f. \na.a.O. 5, 139. \n5, 263. \nVgl. 10, 208. 204. \na.a.O. 10, 401. \nH. COHEN: Relig. der Vernunft aus den Quellen des Judentums (21928, Neudruck 1959) 70. \na.a.O. 242. \nEthik des reinen Willens (21907) 20; vgl. 126. \na.a.O. 20f. \nH. RICKERT: Allg. Grundlegung der Philos. (1921) 42f. \nF. MAUTHNER: Wb. der Philos. (21923) 1, 20. \na.a.O. 21. \nA. J. AYER: Language, truth and logic (London 1936, 121956) 116. \nE. BRUNNER: Offenbarung und Vernunft (21961) 378. \nebda.",
+ "l":"",
+ "au":"Ch. Seidel",
+ "A":["Ch. Seidel"],
+ "cb":[
+  [0,110],
+  [965,110],
+  [1261,111],
+  [1559,111],
+  [2383,111],
+  [3113,111],
+  [3649,111],
+  [3888,112],
+  [4187,112],
+  [4486,112]
+ ],
+ "cn":[
+  [0,110],
+  [0,112],
+  [98,112],
+  [166,112],
+  [206,112],
+  [222,112],
+  [278,112],
+  [290,112],
+  [325,112],
+  [341,112],
+  [350,112],
+  [370,112],
+  [387,112],
+  [475,112],
+  [488,112],
+  [536,112],
+  [549,112],
+  [604,112],
+  [649,112],
+  [661,112],
+  [727,112],
+  [778,112]
+ ],
+ "cl":[]
+}
+);

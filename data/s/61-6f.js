@@ -1,0 +1,28 @@
+HWPH.put("s/61-6f",
+{
+ "ao":"1cu:0,1 111:0,1",
+ "aob":"1e3:0,2",
+ "aoki":"1za:0,1",
+ "aon":"1x:0,1 3q:0,3 mz:0,1 75:0,2 b5:0,1 oq:0,1 2a:0,1 pj:0,1",
+ "aonen":"jj:0,1 12:0,1 35:0,2 33:0,1 8y:0,1 1sl:0,1",
+ "aonenlehre":"5n:0,1 1h3:0,1 sz:0,1",
+ "aonenmachten":"241:0,1",
+ "aonenpaaren":"qt:0,1",
+ "aonenspekulation":"nq:0,1",
+ "aonenwende":"u5:0,1 17p:0,1",
+ "aonische":"2is:0,1",
+ "aons":"qa:0,1 fd:0,1 fn:0,1 gk:0,1 2:0,1 dt:0,1 bq:0,2",
+ "aonʼ":"1wu:0,1",
+ "aor":"24o:0,1",
+ "aorgisch":"1qa:1,6,1",
+ "aorgischen":"1qa:0,1",
+ "aorgischere":"1qa:0,1",
+ "aorgischeren":"2ha:0,1",
+ "aorgischerer":"2ne:0,1",
+ "aorist":"23d:0,1",
+ "aoristpart":"hl:0,0,1",
+ "aorta":"1gy:0,1",
+ "aosta":"257:0,0,1",
+ "aout":"i2:0,0,1 17x:0,0,1 qy:0,0,1 v:0,0,0,1"
+}
+);

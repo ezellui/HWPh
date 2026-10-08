@@ -1,0 +1,27 @@
+HWPH.put("a/475",
+{
+ "id":475,
+ "lemma":"Causa moralis",
+ "band":"1",
+ "kind":"article",
+ "col_from":975,
+ "col_to":975,
+ "pdf_from":3378,
+ "pdf_to":3378,
+ "authors":["R. Specht"],
+ "n_notes":1,
+ "n_chars":536,
+ "toc":[["notes","Anmerkungen",0]],
+ "html":"<p>Causa moralis, Gegenstück zu C. <i>physica</i>, ist Bestimmung der C. <i>efficiens</i>, bezeichnet die schwer faßbare Kausalität z.B. der Ratgeber, Anführer, Verführer und Schwachen. Die C. m. «verhindert Vergehen nicht, obgleich sie es könnte und müßte, oder bedient sich der C. per se und verleitet sie durch Bitten, Verdienst, gegebenenfalls auch durch räumliche Bewegung, z.B. wenn jemand Feuer an ein Haus legt ... Sie ist physisch per accidens, gilt aber moralisch als per se und ist voll zu verantworten» <sup class=\"fn\" data-fn=\"0-1\">1</sup>.</p>\n<h3 id=\"notes\">Anmerkungen</h3><ol class=\"notes\">\n<li id=\"fn0-1\" value=\"1\">FR. SUÁREZ, Disp. 17 Met. s. 2, n. 6.</li>\n</ol>",
+ "prev":{"id":474,"lemma":"Causa materialis","band":"1","col":975},
+ "next":{"id":476,"lemma":"Causa occasionalis","band":"1","col":975},
+ "backlinks":[],
+ "outlinks":[],
+ "register":[],
+ "persons":[],
+ "mentions":[],
+ "see_also":[],
+ "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Causa moralis"}],
+ "reg_authors":[{"name":"Specht Rainer","n":32}]
+}
+);

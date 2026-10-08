@@ -1,0 +1,33 @@
+HWPH.put("t/756",
+{
+ "b":"Entschluß ist ein seit Anfang des 19. Jh. zu grundsätzlicher philosophischer Bedeutung gelangter Begriff mit weit zurückreichender Vorgeschichte. Was wir ‹E.› nennen, wird von ARISTOTELES durch den im ganzen etwas anders umrissenen Begriff der προαίρεσις erfaßt. Aristoteles bestimmt diese als «überlegtes Begehren des in unserer Macht Stehenden» (ßουλευτικὴ ὄρεξις τῶν ἐφ' ἡμῖν) , das den Anfangsgrund(ἀρχή) unseres Handelns bildet . Sie ist ein Akt der Freiwilligkeit (ἑκοúσιον), der auf der Grundlage einer ßοúλησις, d.h. des Wollens (entschiedenen Wünschens) eines Ziels , gesetzt wird, gilt indes ihrerseits «mehr» der vorziehenden Entscheidung zwischen mehreren zu dessen Erreichung erwogenen Mitteln . Da diese letztlich eigene Handlungen (des etwas Ergreifens oder Fliehens oder ähnliche) sind, wird unter προαίρεσις zugleich auch der E. zur Ausführung der vorgezogenen Handlung verstanden. THOMAS VON AQUIN übernimmt von Aristoteles den Begriff der προαίρεσις, den er mit ‹electio› wiedergibt , interpretiert diese aber als ausschließlich in der Entscheidung für ein bestimmtes Mittel bestehend: «voluntas eius, quod est ad finem, dicitur electio» . Den E. als Selbstbestimmung zur Ausführung der Handlung faßt Thomas als ‹imperium› . \nDen E. behandelt unter dieser Bezeichnung philosophisch zuerst SCHLEIERMACHER: «So wie es im einzelnen, abgesehen von seinem Verhältnis zur Mehrheit, einen Zustand des streitigen Denkens gibt, den Zweifel, so auch beim Wollen die Unentschlossenheit. Dieser wird ein Ende gemacht durch den E., dem die Tat folgt» . Ferner: Es gibt «einen das ganze Leben bedingenden E., unter welchem alle einzelne pflichtgemäße Handlungen schon so begriffen sind, daß kein neuer E. gefaßt zu werden braucht, wenn immer das Rechte geschehen soll, daß aber durch jede pflichtwidrige Handlung dieser gewiß gebrochen wird ...» . HEGEL führt aus: Dadurch, daß der Wille sich «die Form der Einzelnheit gibt, ist er beschließend, und nur als beschließender Wille überhaupt ist er wirklicher Wille. Statt etwas beschließen, d.h. die Unbestimmtheit, in welcher der eine sowohl als der andere Inhalt zunächst nur ein möglicher ist, aufheben, hat unsere Sprache auch den Ausdruck: sich entschließen, indem die Unbestimmtheit des Willens selbst, als das Neutrale, aber unendlich Befruchtete, der Urkeim alles Daseins, in sich die Bestimmungen und Zwecke enthält und sie nur aus sich hervorbringt. Durch das Beschliessen setzt der Wille sich als Willen eines bestimmten Individuums und als sich hinaus gegen anderes unterscheidenden» . SCHOPENHAUER erklärt, den Willensakt erläuternd: «... solange er im Werden begriffen ist, heißt er Wunsch, wenn fertig E.; daß er aber dies sei, beweist dem Selbstbewußtsein selbst erst die Tat; denn bis zu ihr ist er veränderlich» . \nWeiterhin wandte sich vornehmlich die psychologische und phänomenologische Forschung dem E. zu. W. WUNDT definierte: «Den der Handlung unmittelbar vorausgehenden psychischen Vorgang des mehr oder weniger plötzlichen Herrschendwerdens des entscheidenden Motivs nennen wir bei den Willkürhandlungen im allgemeinen die Entscheidung, bei den Wahlhandlungen die Entschließung» . TH. LIPPS beschreibt den E. als ein Streben, das aus einer Abwägung von für und gegen die Zielsetzung sprechenden Gründen hervorgeht und durch Unterordnung der einen Art von Gründen unter die andere eine apperzeptive Synthese derselben enthält. Der E. kann dabei für oder gegen die Zielsetzung ausfallen . J. VOLKELT stellt als wesentlichstes Moment des E. seine Beziehung auf die kommende Verwirklichung des Ziels heraus; in ihm «ist entschieden, daß sie eintreten wird» . Eine Abgrenzung gegenüber dem verwandten Begriff des Vorsatzes versucht H. REINER mit dem Hinweis, daß von ‹Vorsatz› gewöhnlich nur dann gesprochen werde, wenn der Wille eine erst «spätere» Ausführung der Handlung beschließt . Gegenüber der Entscheidung grenzt wie Wundt neuerdings W. KELLER den E. ab, bestimmt diesen aber ähnlich wie Volkelt. Beides sind Teilfunktionen des einen Willensaktes. «Entscheidung ist das Ergreifen des Objekts oder Ziels, E. aber ist die Bestimmung des eigenen Selbst auf dieses Ziel hin», er ist «jenes Einklinken der Tunsbereitschaft, die unzertrennbar mit jedem wirklichen Wollen verbunden ist» . Ähnlich unterscheidet auch H. THOMAE zwischen Entscheidung und E., indem er die Entscheidung als ein «mehr oder minder langes Geschehen der Auseinandersetzung mit der Mehrdeutigkeit einer Situation» versteht, den E. dagegen als «Abschluß der Unentschiedenheit» und «Übergang in den Zustand der Entschiedenheit» . \nExistenzphilosophisch betrachtet K. JASPERS den E. Er unterscheidet den endlichen vom existentiellen E. «Der endliche E. entscheidet auf Grund allseitigen Überlegens nach bestem Wissen das wahrscheinlich Richtige, dessen Erfolg zeigt, ob es richtig war; er ist bedingt, keine Antwort des Selbstseins auf sein Gewissen. Der existentielle E. dagegen als eigentliche Gewissensantwort wählt unbedingt im Sichergreifen um jeden Preis; der Erfolg als Ausfall der Konsequenzen im Gelingen und Scheitern in der Welt ist kein Beweis für oder gegen» .",
+ "n":"ARISTOTELES, Eth. Nic. 1113 a 10. \nMet. 1013 a 21. \nEth. Eud. 1226 b 17–19. \nEth. Nic. 1111 b 26f. \na.a.O. 1112 a 3f.; vgl. Eth. Eud. 1226 b 30f. \nTHOMAS VON AQUIN, In 4 sent. 13, 2, 1 c: «electio prohairesis dicitur». \nS. theol. I/II 12, 4, obj. 3. \na.a.O. I/II, 17, 1 c, 5 c. \nFR. SCHLEIERMACHER: Dialektik (1811), hg. J. HALPERN (1903) 209. \nVersuch über die wiss. Behandlung des Pflichtbegriffs (1824). Sämtl. Werke (1835ff.) III/2, 383f. \nHEGEL: Grundlinien der Philos. des Rechts (1821) § 12. 13. \nA. SCHOPENHAUER: Preisschrift über die Freiheit des Willens (1839) II: Der Wille vor dem Selbstbewußtsein. \nW. WUNDT: Grundriß der Psychol. (81907) 225. \nTH. LIPPS: Vom Fühlen, Wollen und Denken (21907) 92–95. \nJ. VOLKELT: Versuch über Fühlen und Wollen (1930) 91. \nH. REINER: Freiheit, Wollen und Aktivität (1927) 74. \nW. KELLER: Psychol. und Philos. des Wollens (1954) 235. 237. \nH. THOMAE: Der Mensch in der Entscheidung (1960) 20. 148. 152. \nK. JASPERS: Philos. 2 (1932) 270.",
+ "l":"H. REINER vgl. Anm. [16]. – W. HAENSEL: Beiträge zur Strukturanalyse des Wollens (1939). – W. KELLER vgl. Anm. [17]. – H. THOMAE vgl. Anm. [18].",
+ "au":"H. Reiner",
+ "A":["H. Reiner"],
+ "cb":[[0,547],[1245,547],[2605,548],[2786,548],[4578,548]],
+ "cn":[
+  [0,547],
+  [0,548],
+  [35,548],
+  [52,548],
+  [77,548],
+  [100,548],
+  [147,548],
+  [220,548],
+  [251,548],
+  [279,548],
+  [345,548],
+  [444,548],
+  [504,548],
+  [612,548],
+  [658,548],
+  [715,548],
+  [770,548],
+  [824,548],
+  [886,548],
+  [950,548]
+ ],
+ "cl":[[0,548]]
+}
+);
