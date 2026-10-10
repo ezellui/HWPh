@@ -23,6 +23,7 @@ HWPH.put("a/1913",
  "backlinks":[{"id":2206,"lemma":"Öffentlichkeit","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"common consent","qualifier":"","band":"5","col":"1024"},
   {"term":"Kritik","qualifier":"","band":"5","col":"1027"},
   {"term":"Menschenverstand, gesunder","qualifier":"","band":"5","col":"1028f."},
   {"term":"öffentliche Meinung","qualifier":"","band":null,"col":null},

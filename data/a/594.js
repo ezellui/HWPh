@@ -19,8 +19,8 @@ HWPH.put("a/594",
  "outlinks":[{"id":593,"lemma":"Differentia numerica","n":1}],
  "register":[
   {"term":"diversitas","qualifier":"","band":null,"col":null},
-  {"term":"Mannigfaltige, das","qualifier":"","band":"2","col":"236"},
   {"term":"Nichtidentität","qualifier":"","band":"2","col":"236"},
+  {"term":"Verschiedenheit","qualifier":"","band":"2","col":"236"},
   {"term":"διαφορά","qualifier":"","band":null,"col":null}
  ],
  "persons":[

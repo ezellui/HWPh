@@ -27,6 +27,7 @@ HWPH.put("a/3254",
   {"term":"Spätantike","qualifier":"","band":"11","col":"33"},
   {"term":"Transformationsperiode","qualifier":"","band":"11","col":"33"},
   {"term":"Übergang, fliessender","qualifier":"","band":"11","col":"33"},
+  {"term":"Übergangszeit","qualifier":"","band":null,"col":null},
   {"term":"Umbruch, geschichtlicher","qualifier":"","band":"11","col":"33"},
   {"term":"Veränderung","qualifier":"","band":null,"col":null}
  ],

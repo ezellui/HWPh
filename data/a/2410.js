@@ -77,6 +77,6 @@ HWPH.put("a/2410",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Positivismus, Logischer"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Positivismus, Logischer"}
  ],
- "reg_authors":[{"name":"Kraft Victor","n":14},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Kraft Victor","n":14},{"name":"Red","n":241}]
 }
 );

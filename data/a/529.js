@@ -18,6 +18,7 @@ HWPH.put("a/529",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Bewusstsein, intentionales","qualifier":"(Janssen)","band":null,"col":null},
   {"term":"Dasein","qualifier":"(Janssen)","band":null,"col":null},
   {"term":"Feld des Daseienden","qualifier":"(Janssen)","band":"2","col":"25"},
   {"term":"Gegebenheitszusammenhang","qualifier":"(Janssen)","band":"2","col":"25"},

@@ -18,6 +18,7 @@ HWPH.put("a/784",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Elementengeister","qualifier":"","band":null,"col":null},
   {"term":"Geister","qualifier":"","band":null,"col":null},
   {"term":"subterranei","qualifier":"","band":"2","col":"608"}
  ],

@@ -54,6 +54,6 @@ HWPH.put("a/2166",
  ],
  "see_also":[],
  "groups":[{"id":25,"name":"Medizin","label":"Nostalgie"}],
- "reg_authors":[{"name":"Gerschmann Karl-Heinz","n":2},{"name":"Gombocz Wolfgang L","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Gerschmann Karl-Heinz","n":2},{"name":"Gombocz Wolfgang L","n":1},{"name":"Red","n":241}]
 }
 );

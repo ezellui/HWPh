@@ -43,11 +43,7 @@ HWPH.put("a/251",
   {"id":707,"lemma":"Element","tf":3},
   {"id":1803,"lemma":"Logik","tf":2}
  ],
- "see_also":[
-  {"id":253,"lemma":"Ars magna, lullische Kunst"},
-  {"id":2353,"lemma":"Philosophie"},
-  {"id":3306,"lemma":"Universalsprache"}
- ],
+ "see_also":[{"id":253,"lemma":"Ars magna, lullische Kunst"}],
  "groups":[{"id":22,"name":"Logik","label":"Ars combinatoria"}],
  "reg_authors":[{"name":"Platzeck Erhard Wolfram","n":2}]
 }

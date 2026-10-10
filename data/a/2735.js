@@ -28,10 +28,16 @@ HWPH.put("a/2735",
   {"id":2544,"lemma":"Qualität","n":1}
  ],
  "register":[
+  {"term":"Blut","qualifier":"","band":null,"col":null},
   {"term":"complexio","qualifier":"","band":"8","col":"1122"},
   {"term":"contraria contrariis","qualifier":"","band":"8","col":"1120"},
+  {"term":"Elemente, vier","qualifier":"","band":null,"col":null},
+  {"term":"Galle","qualifier":"","band":null,"col":null},
   {"term":"Gleiches zu Gleichem","qualifier":"","band":"8","col":"1120"},
+  {"term":"Humoralpathologie","qualifier":"","band":null,"col":null},
   {"term":"medicina theorica/practica","qualifier":"","band":"8","col":"1122"},
+  {"term":"Säftelehre","qualifier":"","band":null,"col":null},
+  {"term":"Schleim","qualifier":"","band":null,"col":null},
   {"term":"theorica","qualifier":"","band":"8","col":"1122"},
   {"term":"κρᾶσις","qualifier":"","band":"8","col":"1122"}
  ],

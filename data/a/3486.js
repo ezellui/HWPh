@@ -18,14 +18,9 @@ HWPH.put("a/3486",
  "backlinks":[{"id":3620,"lemma":"Wille","n":1},{"id":3624,"lemma":"Willkür","n":1}],
  "outlinks":[{"id":1462,"lemma":"Intellektualismus","n":1}],
  "register":[
-  {"term":"(ling.) 3 1204 kontingente Wahrheit","qualifier":"","band":"11","col":"1144"},
-  {
-   "term":"natürliche bzw. vernünftige 8 719 veritas contingens",
-   "qualifier":"",
-   "band":"11",
-   "col":"1144"
-  },
-  {"term":"Vernunftwahrheiten/Tatsachenwahrheiten","qualifier":"","band":"11","col":"1144"},
+  {"term":"kontingente Wahrheit","qualifier":"","band":"11","col":"1144"},
+  {"term":"Tatsachenwahrheit","qualifier":"","band":"11","col":"1144"},
+  {"term":"veritas contingens","qualifier":"","band":"11","col":"1144"},
   {"term":"Verstand/Wille","qualifier":"","band":null,"col":null},
   {"term":"Wahrheit, kontingente","qualifier":"","band":"11","col":"1144"}
  ],

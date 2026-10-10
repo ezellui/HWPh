@@ -22,6 +22,6 @@ HWPH.put("a/1885",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Materia signata"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

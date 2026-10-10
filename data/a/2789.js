@@ -26,6 +26,7 @@ HWPH.put("a/2789",
   {"term":"Elektronengehirn","qualifier":"","band":"8","col":"1498"},
   {"term":"folk psychology","qualifier":"","band":"8","col":"1501"},
   {"term":"Intelligenz, künstliche","qualifier":"","band":null,"col":null},
+  {"term":"Kognitionspsychologie","qualifier":"","band":null,"col":null},
   {"term":"Kognitionswissenschaft","qualifier":"","band":null,"col":null},
   {"term":"Konnektionismus","qualifier":"","band":"8","col":"1502"},
   {"term":"künstliche Intelligenz","qualifier":"","band":null,"col":null},
@@ -34,9 +35,7 @@ HWPH.put("a/2789",
   {"term":"Psychologie, kognitive","qualifier":"","band":null,"col":null},
   {"term":"psychology, cognitive","qualifier":"","band":null,"col":null},
   {"term":"Turing-Maschine","qualifier":"","band":"8","col":"1499f."},
-  {"term":"Wunsch","qualifier":"","band":"8","col":"1501"},
-  {"term":"– II (psych.) 2 662–681 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– IV (psych.) 8 834–846 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wunsch","qualifier":"","band":"8","col":"1501"}
  ],
  "persons":[
   {"id":332,"name":"J. R. Searle","b":3,"n":3,"l":0,"editor":0,"role":"source"},
@@ -125,7 +124,7 @@ HWPH.put("a/2789",
   {"id":535,"lemma":"Definition","tf":4},
   {"id":2511,"lemma":"Psychologie","tf":3}
  ],
- "see_also":[{"id":796,"lemma":"Erkennen, Erkenntnis"}],
+ "see_also":[{"id":796,"lemma":"Erkennen, Erkenntnis"},{"id":1578,"lemma":"Kognition, kognitiv"}],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Science, cognitive"},
   {"id":36,"name":"Psychologie","label":"Science, cognitive"}

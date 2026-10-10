@@ -24,15 +24,12 @@ HWPH.put("a/2320",
  "backlinks":[{"id":3625,"lemma":"Wir","n":1},{"id":3656,"lemma":"Wort","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"der","qualifier":"II","band":null,"col":null},
   {"term":"Gott, persönlicher","qualifier":"I","band":"7","col":"338"},
-  {"term":"Ich-Identität","qualifier":"II","band":null,"col":null},
   {"term":"Miteinandersein","qualifier":"II","band":"7","col":"339"},
   {"term":"Pantheismus","qualifier":"I","band":null,"col":null},
   {"term":"Persönlichkeit Gottes","qualifier":"I","band":null,"col":null},
   {"term":"Sein, absolutes","qualifier":"II","band":"7","col":"340"},
-  {"term":"Selbstgehörigkeit","qualifier":"II","band":"7","col":"340"},
-  {"term":"– I (anthr.) 4 893–895 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Selbstgehörigkeit","qualifier":"II","band":"7","col":"340"}
  ],
  "persons":[
   {"id":21,"name":"M. Scheler","b":3,"n":2,"l":0,"editor":0,"role":"source"},
@@ -99,6 +96,6 @@ HWPH.put("a/2320",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Personalismus"},
   {"id":44,"name":"Theologie","label":"Personalismus I"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Theunissen Michael","n":17}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Theunissen Michael","n":17}]
 }
 );

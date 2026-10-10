@@ -53,7 +53,8 @@ HWPH.put("a/351",
  "see_also":[
   {"id":348,"lemma":"Bedeutung"},
   {"id":2861,"lemma":"Semantik, semantisch"},
-  {"id":2863,"lemma":"Semasiologie"}
+  {"id":2863,"lemma":"Semasiologie"},
+  {"id":2865,"lemma":"Semiotik, Semiologie"}
  ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Bedeutungslehre"},

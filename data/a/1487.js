@@ -33,7 +33,7 @@ HWPH.put("a/1487",
   {"term":"Anschauung","qualifier":"","band":"4","col":"533"},
   {"term":"Anschauung, intellektuelle","qualifier":"","band":"4","col":"526"},
   {"term":"Augenblick","qualifier":"","band":"4","col":"533"},
-  {"term":"Bedeutungserfüllung","qualifier":"","band":"4","col":"537"},
+  {"term":"Ausdruck","qualifier":"","band":"4","col":"537"},
   {"term":"cognitio abstractiva/intuitiva","qualifier":"","band":"4","col":"528"},
   {"term":"cognitio intuitiva","qualifier":"","band":null,"col":null},
   {"term":"Denken, diskursives","qualifier":"","band":"4","col":"524"},
@@ -59,8 +59,7 @@ HWPH.put("a/1487",
   {"term":"Wahrheiten, primitive","qualifier":"","band":"4","col":"530"},
   {"term":"Wesensschau","qualifier":"","band":"4","col":"536"},
   {"term":"Zeichen","qualifier":"","band":"4","col":"530f."},
-  {"term":"ἐπιβολή","qualifier":"","band":null,"col":null},
-  {"term":"– I (erk.) 4 540f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἐπιβολή","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":141,"name":"H. Bergson","b":2,"n":2,"l":0,"editor":0,"role":"source"},

@@ -31,7 +31,8 @@ HWPH.put("a/345",
   {"id":892,"lemma":"Falsifikation"},
   {"id":2410,"lemma":"Positivismus, Logischer"},
   {"id":2490,"lemma":"Protokollsatz"},
-  {"id":2574,"lemma":"Rationalismus"}
+  {"id":2575,"lemma":"Rationalismus, Kritischer"},
+  {"id":3409,"lemma":"Verifikation"}
  ],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Basissatz (Popper)"}],
  "reg_authors":[{"name":"Kraft Victor","n":14}]

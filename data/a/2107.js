@@ -44,6 +44,6 @@ HWPH.put("a/2107",
   {"id":35,"name":"Psychoanalyse","label":"Neofreudianismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Neofreudianismus"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Thomä Hans","n":1}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Thomä Hans","n":1}]
 }
 );

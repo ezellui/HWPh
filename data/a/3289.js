@@ -19,8 +19,7 @@ HWPH.put("a/3289",
  "outlinks":[{"id":2917,"lemma":"Solidität","n":2}],
  "register":[
   {"term":"Impenetrabilität","qualifier":"","band":null,"col":null},
-  {"term":"Volle, das","qualifier":"","band":null,"col":null},
-  {"term":"– I (nat.) 12 703–709 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Volle, das","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},

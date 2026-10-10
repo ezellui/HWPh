@@ -20,8 +20,7 @@ HWPH.put("a/592",
  "register":[
   {"term":"Bildungslehre","qualifier":"","band":null,"col":null},
   {"term":"Lehrkunst","qualifier":"","band":null,"col":null},
-  {"term":"Wissenschaft des Unterrichts","qualifier":"","band":"2","col":"234"},
-  {"term":"– I (päd.) 5 241–245 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wissenschaft des Unterrichts","qualifier":"","band":"2","col":"234"}
  ],
  "persons":[
   {"id":1165,"name":"E. Weniger","b":1,"n":2,"l":0,"editor":0,"role":"source"},

@@ -25,10 +25,10 @@ HWPH.put("a/1623",
  "register":[
   {"term":"Assoziation","qualifier":"","band":"4","col":"989"},
   {"term":"constellatio","qualifier":"","band":"4","col":"988"},
-  {"term":"der 4 936","qualifier":"","band":"4","col":"990"},
   {"term":"Gedächtnis","qualifier":"","band":"4","col":"991"},
   {"term":"Konstellationstheorie","qualifier":"","band":"4","col":"991"},
   {"term":"Sternbilder","qualifier":"","band":"4","col":"988f."},
+  {"term":"Vorstellungskomplex","qualifier":"","band":"4","col":"990"},
   {"term":"Vorstellungsreihe","qualifier":"","band":"4","col":"989f."},
   {"term":"συναστρία","qualifier":"","band":"4","col":"988"}
  ],
@@ -82,7 +82,7 @@ HWPH.put("a/1623",
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
   {"id":125,"lemma":"Analyse","tf":2}
  ],
- "see_also":[{"id":263,"lemma":"Assoziation"},{"id":1600,"lemma":"Komplex"}],
+ "see_also":[{"id":263,"lemma":"Assoziation"},{"id":1601,"lemma":"Komplex (der)"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Konstellation"}],
  "reg_authors":[{"name":"Emminghaus Wolf B","n":1}]
 }

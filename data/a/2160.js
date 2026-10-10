@@ -31,16 +31,16 @@ HWPH.put("a/2160",
  "outlinks":[],
  "register":[
   {"term":"Erwartungsmuster","qualifier":"III","band":"6","col":"919"},
-  {"term":"Gesetz","qualifier":"I","band":"6","col":"909"},
   {"term":"Handeln, soziales","qualifier":"III","band":null,"col":null},
-  {"term":"Negativität II 6 682","qualifier":"II","band":"6","col":"913f."},
   {"term":"Norm, soziale","qualifier":"III","band":null,"col":null},
   {"term":"Normenlogik","qualifier":"II","band":"6","col":"914f."},
   {"term":"Normwissenschaft","qualifier":"II","band":"6","col":"912"},
+  {"term":"Rechtssatz","qualifier":"I","band":"6","col":"909"},
   {"term":"regula iuris","qualifier":"I","band":"6","col":"907"},
   {"term":"Richtschnur","qualifier":"I","band":"6","col":"908"},
   {"term":"Sollen","qualifier":"II","band":"6","col":"914"},
-  {"term":"Vernunftgesetz","qualifier":"I","band":"6","col":"906f."}
+  {"term":"Vernunftgesetz","qualifier":"I","band":"6","col":"906f."},
+  {"term":"Wert","qualifier":"II","band":"6","col":"913f."}
  ],
  "persons":[
   {"id":412,"name":"M. Riedel","b":2,"n":6,"l":1,"editor":0,"role":"scholar"},
@@ -232,6 +232,6 @@ HWPH.put("a/2160",
   {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Norm I"},
   {"id":42,"name":"Soziologie","label":"Norm III"}
  ],
- "reg_authors":[{"name":"Hofmann Hasso","n":12},{"name":"Red","n":242},{"name":"Schrader Wolfgang H","n":3}]
+ "reg_authors":[{"name":"Hofmann Hasso","n":12},{"name":"Red","n":241},{"name":"Schrader Wolfgang H","n":3}]
 }
 );

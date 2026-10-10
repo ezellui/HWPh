@@ -18,7 +18,8 @@ HWPH.put("a/553",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"der Sprache 6 1369 appellierendes Denken","qualifier":"(Jaspers)","band":null,"col":null},
+  {"term":"appellierendes Denken","qualifier":"(Jaspers)","band":null,"col":null},
+  {"term":"Chiffre","qualifier":"(Jaspers)","band":"2","col":"104"},
   {"term":"Gedanke, philosophischer","qualifier":"(Jaspers)","band":null,"col":null}
  ],
  "persons":[

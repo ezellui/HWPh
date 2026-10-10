@@ -19,6 +19,8 @@ HWPH.put("a/1918",
  "outlinks":[],
  "register":[
   {"term":"dritter Mensch","qualifier":"","band":null,"col":null},
+  {"term":"Entwicklung der Menschlichkeit","qualifier":"","band":null,"col":null},
+  {"term":"Herrschaftsmensch","qualifier":"","band":"5","col":"1105"},
   {"term":"τρίτος ἄνθρωπος","qualifier":"","band":null,"col":null}
  ],
  "persons":[

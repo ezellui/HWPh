@@ -30,8 +30,10 @@ HWPH.put("a/2926",
  ],
  "register":[
   {"term":"Gesetzlosigkeit","qualifier":"II","band":"9","col":"1083"},
+  {"term":"Sophist","qualifier":"","band":null,"col":null},
   {"term":"Sophistikation","qualifier":"II","band":"9","col":"1083"},
   {"term":"Spitzfindigkeit","qualifier":"II","band":"9","col":"1084f."},
+  {"term":"Wortklauberei","qualifier":"","band":null,"col":null},
   {"term":"εὐβουλία","qualifier":"I","band":"9","col":"1075"},
   {"term":"σοφιστής","qualifier":"","band":null,"col":null}
  ],

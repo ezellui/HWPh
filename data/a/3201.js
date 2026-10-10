@@ -39,7 +39,7 @@ HWPH.put("a/3201",
   {"id":2675,"lemma":"Religionsfreiheit","n":1}
  ],
  "register":[
-  {"term":"602","qualifier":"","band":"10","col":"1258"},
+  {"term":"Anerkennung","qualifier":"","band":"10","col":"1258"},
   {"term":"approbatio","qualifier":"","band":"10","col":"1252"},
   {"term":"concordia","qualifier":"","band":"10","col":"1253"},
   {"term":"Duldung","qualifier":"","band":null,"col":null},

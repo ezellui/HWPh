@@ -34,6 +34,6 @@ HWPH.put("a/3030",
  "mentions":[],
  "see_also":[{"id":938,"lemma":"Form und Inhalt"},{"id":1892,"lemma":"Materie"}],
  "groups":[{"id":21,"name":"Literaturtheorie","label":"Stoff"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

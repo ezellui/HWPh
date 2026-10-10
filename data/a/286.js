@@ -33,7 +33,7 @@ HWPH.put("a/286",
   {"id":3406,"lemma":"Verhalten","tf":2},
   {"id":666,"lemma":"Eigenschaft","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":904,"lemma":"Feld, Feldtheorie"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Aufforderungscharakter"}],
  "reg_authors":[{"name":"Müller Kurt","n":7}]
 }

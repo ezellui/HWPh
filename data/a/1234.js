@@ -25,6 +25,7 @@ HWPH.put("a/1234",
  "outlinks":[],
  "register":[
   {"term":"Glückseligkeit","qualifier":"","band":"3","col":"1025"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"Hedonik","qualifier":"","band":null,"col":null},
   {"term":"Musik, hedonistische","qualifier":"","band":"3","col":"1025"},
   {"term":"pleasure","qualifier":"","band":"3","col":"1024"}

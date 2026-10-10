@@ -28,6 +28,6 @@ HWPH.put("a/717",
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Emergenzphilosophie"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Emergenzphilosophie"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -73,6 +73,6 @@ HWPH.put("a/2133",
  ],
  "see_also":[{"id":946,"lemma":"Freiheit"},{"id":3620,"lemma":"Wille"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Nezessitieren"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

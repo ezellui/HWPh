@@ -24,7 +24,18 @@ HWPH.put("a/1996",
   {"id":3628,"lemma":"Wirklichkeit","n":1}
  ],
  "outlinks":[{"id":1997,"lemma":"Modallogik","n":1}],
- "register":[],
+ "register":[
+  {"term":"apodiktisch","qualifier":"","band":"6","col":"14"},
+  {"term":"assertorisch","qualifier":"","band":"6","col":"14"},
+  {"term":"de dicto/de re","qualifier":"","band":"6","col":"13"},
+  {"term":"generalis/specialis","qualifier":"","band":"6","col":"13"},
+  {"term":"modus","qualifier":"","band":"6","col":"12"},
+  {"term":"modus generalis/specialis","qualifier":"","band":"6","col":"13"},
+  {"term":"Urteil, apodiktisches","qualifier":"","band":"6","col":"14"},
+  {"term":"Urteil, assertorisches","qualifier":"","band":"6","col":"14"},
+  {"term":"Urteil, problematisches","qualifier":"","band":"6","col":"14"},
+  {"term":"τρόπος","qualifier":"","band":"6","col":"12"}
+ ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -92,6 +103,6 @@ HWPH.put("a/1996",
  ],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Modalität des Urteils"}],
- "reg_authors":[]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

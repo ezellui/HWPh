@@ -21,11 +21,10 @@ HWPH.put("a/1531",
   {"term":"Abweichung vom Original","qualifier":"","band":null,"col":null},
   {"term":"caricature","qualifier":"","band":null,"col":null},
   {"term":"cartoon","qualifier":"","band":null,"col":null},
-  {"term":"das","qualifier":"","band":null,"col":null},
-  {"term":"das 3 900–902 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"das Komische, das","qualifier":"","band":null,"col":null},
-  {"term":"das V Charakteristische, das","qualifier":"","band":"4","col":"698"},
+  {"term":"Charakteristische, das","qualifier":"","band":"4","col":"698"},
   {"term":"Ideal, umgekehrtes","qualifier":"","band":"4","col":"699"},
+  {"term":"Klassizismus","qualifier":"","band":"4","col":"696"},
+  {"term":"Komische, das","qualifier":"","band":null,"col":null},
   {"term":"Original","qualifier":"","band":null,"col":null},
   {"term":"Zerrbild","qualifier":"","band":null,"col":null}
  ],
@@ -130,7 +129,7 @@ HWPH.put("a/1531",
   {"id":991,"lemma":"Gattung, Genus","tf":2},
   {"id":26,"lemma":"Absicht","tf":2}
  ],
- "see_also":[{"id":1190,"lemma":"Groteske"}],
+ "see_also":[{"id":1190,"lemma":"Groteske"},{"id":1228,"lemma":"Häßliche (das)"}],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Karikatur"}],
  "reg_authors":[{"name":"Oesterle Günter","n":2},{"name":"Oesterle Ingrid","n":1}]
 }

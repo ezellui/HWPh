@@ -17,7 +17,7 @@ HWPH.put("a/2670",
  "next":{"id":2671,"lemma":"Relativismus","band":"8","col":613},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Relationieren","qualifier":"(Mannheim)","band":null,"col":null}],
  "persons":[
   {"id":378,"name":"K. Mannheim","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":3055,"name":"K. H. Wolff","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
@@ -35,6 +35,6 @@ HWPH.put("a/2670",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Relationismus (Mannheim)"},
   {"id":42,"name":"Soziologie","label":"Relationismus (Mannheim)"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

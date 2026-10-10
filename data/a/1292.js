@@ -19,7 +19,7 @@ HWPH.put("a/1292",
  "outlinks":[],
  "register":[
   {"term":"Anthropolatrie","qualifier":"(Mauthner)","band":"3","col":"1171"},
-  {"term":"Anthropologie","qualifier":"(Mauthner)","band":"3","col":"1171"}
+  {"term":"Anthropomorphismus","qualifier":"(Mauthner)","band":"3","col":"1171"}
  ],
  "persons":[
   {"id":110,"name":"W. Windelband","b":1,"n":1,"l":0,"editor":0,"role":"source"},

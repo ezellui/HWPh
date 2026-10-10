@@ -23,13 +23,14 @@ HWPH.put("r/65-74",
   "etendue"
  ],
  ["eternal bliss","Seligkeit, ewige","",null,null,"ref",2859,"Seligkeit, ewige","eternal bliss"],
- ["eternal objects","Prozess II (Whitehead)","","7","1559","ref",2499,"Prozeß","eternal objects"],
+ ["eternal objects","Prozess","II (Whitehead)","7","1559","ref",2499,"Prozeß","eternal objects"],
  [
-  "eternal recurrence","Wiederkunft, ewige (Nietzsche) eternal truth","",null,null,"ref",3617,
+  "eternal recurrence","Wiederkunft, ewige","(Nietzsche)",null,null,"ref",3617,
   "Wiederkunft, ewige; Wiederkehr, ewige","eternal recurrence"
  ],
+ ["eternal truth","Wahrheit, ewige","",null,null,"ref",3528,"Wahrheit, ewige","eternal truth"],
  ["eternitology","Futurologie","",null,null,"ref",982,"Futurologie","eternitology"],
- ["Ethik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"ethik s. auch"],
+ ["Ethik","Register der Sachgruppen","",null,null,"see",null,null,"ethik"],
  ["Ethik","Ethik","","2","759–809","main",835,"Ethik","ethik"],
  ["Ethik","Erfolgsethik","(Scheler)",null,null,"see",791,"Erfolgsethik","ethik"],
  ["Ethik","Gesinnungsethik","(Scheler)",null,null,"see",1115,"Gesinnungsethik","ethik"],
@@ -55,10 +56,10 @@ HWPH.put("r/65-74",
  ["Ethik, autoritäre","Autonomie","","1","716","ref",327,"Autonomie","ethik, autoritare"],
  ["Ethik, deontologische","Deontologie","",null,null,"ref",561,"Deontologie","ethik, deontologische"],
  [
-  "Ethik, deontologische","Pflichtethik Ethik, evolutionistische","",null,null,"ref",null,null,
-  "ethik, deontologische"
+  "Ethik, deontologische","Pflichtethik","",null,null,"ref",2338,
+  "Pflichtethik, deontologische Ethik","ethik, deontologische"
  ],
- ["Ethik","Ethik","VII","2","800f.","main",835,"Ethik","ethik"],
+ ["Ethik, evolutionistische","Ethik","VII","2","800f.","ref",835,"Ethik","ethik, evolutionistische"],
  [
   "Ethik, feministische","Sexismus; Feminismus","","9","724","ref",2877,"Sexismus/Feminismus",
   "ethik, feministische"
@@ -149,8 +150,8 @@ HWPH.put("r/65-74",
  ["Ethizismus","Ethizismus","","2","811","main",837,"Ethizismus","ethizismus"],
  ["Ethnographie","Völkerkunde","",null,null,"ref",3474,"Völkerkunde","ethnographie"],
  [
-  "Ethnologie s. auch","Register der Sachgruppen: Kulturgeschichte und Kulturtheorie Ethnologie","",
-  null,null,"ref",null,null,"ethnologie s. auch"
+  "Ethnologie","Register der Sachgruppen: Kulturgeschichte und Kulturtheorie Ethnologie","",null,
+  null,"see",null,null,"ethnologie"
  ],
  [
   "ethnologischer Gottesbeweis","Gottesbeweis, historischer","",null,null,"ref",1168,
@@ -175,7 +176,11 @@ HWPH.put("r/65-74",
  ],
  ["etisch","Phonologie","","7","928","ref",2364,"Phonologie, Phonem","etisch"],
  ["étoffe","Stoff","",null,null,"ref",3030,"Stoff","etoffe"],
- ["étonnement","Staunen étranger","",null,null,"ref",null,null,"etonnement"],
+ ["étonnement","Staunen","",null,null,"ref",3015,"Staunen; Bewunderung; Verwunderung","etonnement"],
+ [
+  "étranger","Xenologie; Wissenschaft vom Fremden","",null,null,"ref",3666,
+  "Xenologie; Wissenschaft vom Fremden","etranger"
+ ],
  ["étrangeté","Verfremdung","",null,null,"ref",3400,"Verfremdung","etrangete"],
  [
   "étrangeté inquiétante","Unheimliche, das","","11","174","ref",3299,"Unheimliche, das",
@@ -207,7 +212,12 @@ HWPH.put("r/65-74",
  ["Etwas","Nichts; Nichtseiendes","","6","807","ref",2136,"Nichts, Nichtseiendes","etwas"],
  ["Etwas","Res","","8","898f.","ref",2691,"Res","etwas"],
  ["Etwas-Sein","Existenz; existentia","I","2","855","ref",863,"Existenz, existentia","etwas-sein"],
- ["Etwas-überhaupt","Ontologie","",null,null,"ref",2218,"Ontologie","etwas-uberhaupt"],
+ [
+  "Etwas-überhaupt","Ontologie, formale/materiale","(Husserl)","6","1200","ref",2218,"Ontologie",
+  "etwas-uberhaupt"
+ ],
+ ["Etymologie","Etymologie","","2","816–818","main",842,"Etymologie","etymologie"],
+ ["Etymologie","Volksetymologie","",null,null,"see",3476,"Volksetymologie","etymologie"],
  ["Ethik","Ethik","VII","2","805","main",835,"Ethik","ethik"]
 ]
 );

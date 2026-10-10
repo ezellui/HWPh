@@ -1,17 +1,14 @@
 HWPH.put("r/65-70",
 [
- [
-  "Epagogé","Anagogé; Epagogé ἐπανάληψις","",null,null,"ref",121,"Anagogé, Apagogé, Epagogé",
-  "epagoge"
- ],
+ ["Epagogé","Anagogé; Epagogé","",null,null,"ref",121,"Anagogé, Apagogé, Epagogé","epagoge"],
  [
   "Ephektiker","Skepsis; Skeptizismus","II","9","951","ref",2907,"Skepsis; Skeptizismus",
   "ephektiker"
  ],
  ["Epichirem","Epichirem","","2","577–579","main",769,"Epichirem","epichirem"],
  [
-  "Episyllogismus/Prosyllogismus","Episyllogismus/Prosyllogismus","","2","594","main",777,
-  "Episyllogismus/Prosyllogismus","episyllogismus/prosyllogismus"
+  "Epichirem","Episyllogismus/Prosyllogismus","","2","594","ref",777,"Episyllogismus/Prosyllogismus",
+  "epichirem"
  ],
  ["Epigenese","Psychologie","","7","1642","ref",2511,"Psychologie","epigenese"],
  ["Epigenesis","Epigenesis","","2","580f.","main",770,"Epigenesis","epigenesis"],
@@ -56,7 +53,7 @@ HWPH.put("r/65-70",
  ["Episteme","Anamnesis","",null,null,"see",132,"Anamnesis","episteme"],
  ["Episteme","Denken","",null,null,"see",552,"Denken","episteme"],
  ["Episteme","Doxa","",null,null,"see",633,"Doxa","episteme"],
- ["Episteme","Erkenntnis I (erk.)","",null,null,"see",796,"Erkennen, Erkenntnis","episteme"],
+ ["Episteme","Erkenntnis","I (erk.)",null,null,"see",796,"Erkennen, Erkenntnis","episteme"],
  ["Episteme","Katalepsis","",null,null,"see",1536,"Katalepsis","episteme"],
  [
   "Episteme","Mundus intelligibilis/sensibilis","",null,null,"see",2040,
@@ -78,7 +75,10 @@ HWPH.put("r/65-70",
   "Epistemologie, genetische","Psychologie","","7","1634","ref",2511,"Psychologie",
   "epistemologie, genetische"
  ],
- ["epistemology","Erkenntnistheorie ἐπιστροφή","",null,null,"ref",null,null,"epistemology"],
+ [
+  "epistemology","Erkenntnistheorie","",null,null,"ref",799,
+  "Erkenntnistheorie, Erkenntnislehre, Erkenntniskritik","epistemology"
+ ],
  [
   "Episyllogismus/Prosyllogismus","Episyllogismus/Prosyllogismus","","2","593f.","main",777,
   "Episyllogismus/Prosyllogismus","episyllogismus/prosyllogismus"
@@ -105,6 +105,21 @@ HWPH.put("r/65-70",
  ],
  ["Epizykel","Kreis; Kugel","","4","1215f.","ref",1687,"Kreis und Kugel","epizykel"],
  ["Epoché","Epoché","","2","594–596","main",778,"Epoché","epoche"],
+ ["Epoché","Übereilung","",null,null,"see",3250,"Übereilung; Voreiligkeit","epoche"],
+ ["Epoché","Zustimmung","I",null,null,"see",3715,"Zustimmung","epoche"],
+ ["Epoché","Einstellung","II (phän.)",null,null,"see",691,"Einstellung","epoche"],
+ [
+  "Epoché","Reduktion, phänomenologische","(Husserl)",null,null,"see",2626,
+  "Reduktion, phänomenologische","epoche"
+ ],
+ [
+  "Epoché","Reduktion, transzendentale","(Husserl)",null,null,"see",2627,
+  "Reduktion, transzendentale","epoche"
+ ],
+ [
+  "Epoché","Subjektivität, transzendentale","(Husserl)",null,null,"see",3053,
+  "Subjektivität, transzendentale","epoche"
+ ],
  ["Epoché","Interesse","II","4","493","ref",1475,"Interesse","epoche"],
  ["Epoché","Pyrrhonismus","I","7","1720","ref",2538,"Pyrrhonismus","epoche"],
  ["Epoché","Residuum","","8","906","ref",2692,"Residuum","epoche"],
@@ -130,13 +145,10 @@ HWPH.put("r/65-70",
   "epoche; epochenbewusstsein"
  ],
  [
-  "Epoche; Epochenbewusstsein","Weltgeschichte Epochenbegriffe","",null,null,"see",null,null,
-  "epoche; epochenbewusstsein"
+  "Epoche; Epochenbewusstsein","Weltgeschichte","",null,null,"see",3567,
+  "Weltgeschichte; Universalgeschichte","epoche; epochenbewusstsein"
  ],
- [
-  "Epoche; Epochenbewusstsein","Register der Sachgruppen","",null,null,"see",null,null,
-  "epoche; epochenbewusstsein"
- ],
+ ["Epochenbegriffe","Register der Sachgruppen","",null,null,"see",null,null,"epochenbegriffe"],
  ["Epopteia","Epopteia","","2","599","main",780,"Epopteia","epopteia"],
  ["Epopteia","Metaphysik","III",null,null,"see",1944,"Metaphysik","epopteia"],
  ["Epoptik","Epopteia","",null,null,"ref",780,"Epopteia","epoptik"],

@@ -32,10 +32,7 @@ HWPH.put("a/282",
   {"id":281,"lemma":"Atommodell","n":2},
   {"id":709,"lemma":"Elementarteilchen","n":2}
  ],
- "register":[
-  {"term":"– I (nat.) 1 603f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (phys.) 1 603 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":1,"n":0,"l":0,"editor":0,"role":"source"},

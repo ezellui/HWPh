@@ -28,19 +28,20 @@ HWPH.put("a/3032",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"/Potenz","qualifier":"","band":null,"col":null},
   {"term":"Arbeit","qualifier":"","band":"10","col":"194"},
+  {"term":"Bedeutung/Potenz","qualifier":"","band":null,"col":null},
+  {"term":"fermentatio","qualifier":"","band":"10","col":"190"},
   {"term":"Formganzheit des Lebendigen","qualifier":"","band":"10","col":"195"},
   {"term":"Freiheit, bedürftige","qualifier":"","band":"10","col":"195"},
   {"term":"Gattungsleben","qualifier":"","band":"10","col":"194"},
   {"term":"Informationswechsel","qualifier":"","band":"10","col":"194"},
   {"term":"metabolism","qualifier":"","band":null,"col":null},
   {"term":"perspiratio insensibilis","qualifier":"","band":"10","col":"190"},
+  {"term":"Reproduktion","qualifier":"","band":"10","col":"194"},
   {"term":"Verdauung","qualifier":"","band":null,"col":null},
   {"term":"Vernunftinteresse","qualifier":"","band":"10","col":"194"},
   {"term":"Weltseele","qualifier":"","band":"10","col":"193"},
-  {"term":"Zymase","qualifier":"","band":"10","col":"192"},
-  {"term":"– I (biol.) 1 544–546 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zymase","qualifier":"","band":"10","col":"192"}
  ],
  "persons":[
   {"id":2217,"name":"J. Liebig","b":3,"n":3,"l":0,"editor":0,"role":"source"},

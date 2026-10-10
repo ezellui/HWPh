@@ -53,6 +53,6 @@ HWPH.put("a/3183",
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Theozentrisch"},
   {"id":44,"name":"Theologie","label":"Theozentrisch"}
  ],
- "reg_authors":[{"name":"Birkner Hans-Joachim","n":6},{"name":"Red","n":242},{"name":"Rothschuh Karl E","n":6}]
+ "reg_authors":[{"name":"Birkner Hans-Joachim","n":6},{"name":"Red","n":241},{"name":"Rothschuh Karl E","n":6}]
 }
 );

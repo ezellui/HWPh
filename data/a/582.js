@@ -20,6 +20,7 @@ HWPH.put("a/582",
  "register":[
   {"term":"Idiom","qualifier":"","band":null,"col":null},
   {"term":"Mundart","qualifier":"","band":null,"col":null},
+  {"term":"Volkssprache","qualifier":"","band":null,"col":null},
   {"term":"ἰδίωμα","qualifier":"","band":"2","col":"164"}
  ],
  "persons":[

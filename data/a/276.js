@@ -97,10 +97,6 @@ HWPH.put("a/276",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Atheismus"},
   {"id":44,"name":"Theologie","label":"Atheismus"}
  ],
- "reg_authors":[
-  {"name":"Kurdzialek Marian","n":3},
-  {"name":"Nieke Wolfgang","n":18},
-  {"name":"Schütte Hans-Walter","n":3}
- ]
+ "reg_authors":[{"name":"Kurdzialek Marian","n":3},{"name":"Schütte Hans-Walter","n":3}]
 }
 );

@@ -70,8 +70,7 @@ HWPH.put("a/3429",
   {"term":"Verdunklung der Vorstellungen","qualifier":"","band":null,"col":null},
   {"term":"Verschmelzung von Gedanken/Vorstellungen","qualifier":"","band":null,"col":null},
   {"term":"Vorstellungsverdunklung","qualifier":"","band":null,"col":null},
-  {"term":"Vorstellungsverschmelzung","qualifier":"","band":null,"col":null},
-  {"term":"– II (med.) 5 42f. – III (psych.) 5 43–46 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vorstellungsverschmelzung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":5,"n":11,"l":0,"editor":0,"role":"source"},
@@ -127,6 +126,6 @@ HWPH.put("a/3429",
   {"id":3248,"lemma":"Überdeterminierung"}
  ],
  "groups":[{"id":35,"name":"Psychoanalyse","label":"Verschiebung; Verdichtung"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

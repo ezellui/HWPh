@@ -46,14 +46,7 @@ HWPH.put("a/3590",
   {"term":"psychophysisches Grundgesetz","qualifier":"","band":"12","col":"590"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"valeur","qualifier":"","band":"12","col":"586f."},
-  {"term":"Zinsverbot","qualifier":"","band":"12","col":"586"},
-  {
-   "term":"– I (nat.) 7 1418–1426 – II (ökon.) 7 1427–1432 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
-  {"term":"– III (ökon.) 5 513–521 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zinsverbot","qualifier":"","band":"12","col":"586"}
  ],
  "persons":[
   {"id":17,"name":"K. Marx","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -136,7 +129,8 @@ HWPH.put("a/3590",
   {"id":2177,"lemma":"Nutzen, Nützlichkeit, das Nützliche, nützlich"},
   {"id":2469,"lemma":"Produktion, Produktivität"},
   {"id":3133,"lemma":"Tausch"},
-  {"id":3136,"lemma":"Tauschwert/Gebrauchswert"}
+  {"id":3136,"lemma":"Tauschwert/Gebrauchswert"},
+  {"id":3545,"lemma":"Ware; Warencharakter; Warenfetischismus"}
  ],
  "groups":[{"id":29,"name":"Ökonomie","label":"Wert/Preis"}],
  "reg_authors":[{"name":"Hügli Anton","n":34},{"name":"Lichtblau Klaus","n":8}]

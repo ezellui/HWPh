@@ -18,6 +18,7 @@ HWPH.put("a/1549",
  "backlinks":[{"id":3575,"lemma":"Weltreligion(en)","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Katholizität","qualifier":"","band":null,"col":null},
   {"term":"καθολικός","qualifier":"","band":null,"col":null},
   {"term":"πλήρωμα","qualifier":"","band":"4","col":"788"}
  ],

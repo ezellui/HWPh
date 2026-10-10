@@ -17,14 +17,7 @@ HWPH.put("a/1409",
  "next":{"id":1410,"lemma":"Indifferenz","band":"4","col":282},
  "backlinks":[{"id":3557,"lemma":"Welt","n":2}],
  "outlinks":[],
- "register":[
-  {
-   "term":"– II (Leibniz) 4 395 – III (Heidegger) 4 395f. s. auch",
-   "qualifier":"(Heidegger)",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[],
  "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[],
  "see_also":[{"id":129,"lemma":"Analytik des Daseins"},{"id":1449,"lemma":"Insein"},{"id":2927,"lemma":"Sorge"}],

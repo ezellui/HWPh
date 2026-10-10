@@ -32,8 +32,7 @@ HWPH.put("a/840",
   {"term":"Ethos/Pathos","qualifier":"I","band":"2","col":"814"},
   {"term":"Gemütsart","qualifier":"","band":null,"col":null},
   {"term":"ἔθος","qualifier":"","band":null,"col":null},
-  {"term":"ἦθος","qualifier":"","band":null,"col":null},
-  {"term":"– I (eth.) 4 1071–1073 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἦθος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":3,"l":0,"editor":0,"role":"source"},

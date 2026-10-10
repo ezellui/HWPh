@@ -29,7 +29,7 @@ HWPH.put("a/2976",
  ],
  "register":[
   {"term":"instinct de jeu","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"naturalis","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":46,"name":"F. Schiller","b":3,"n":4,"l":0,"editor":0,"role":"source"},

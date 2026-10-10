@@ -95,7 +95,11 @@ HWPH.put("a/2232",
  "see_also":[
   {"id":125,"lemma":"Analyse"},
   {"id":2342,"lemma":"Phänomenalismus, linguistischer"},
-  {"id":2353,"lemma":"Philosophie"}
+  {"id":2353,"lemma":"Philosophie"},
+  {"id":2354,"lemma":"Philosophie, analytische"},
+  {"id":2991,"lemma":"Sprachkritik"},
+  {"id":2992,"lemma":"Sprachphilosophie"},
+  {"id":3273,"lemma":"Umgangssprache"}
  ],
  "groups":[
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Ordinary Language Philosophy"},

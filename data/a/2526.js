@@ -26,13 +26,13 @@ HWPH.put("a/2526",
   {"term":"Abnormität, psychische","qualifier":"","band":null,"col":null},
   {"term":"Anthropologie, phänomenologische","qualifier":"II","band":"7","col":"1686"},
   {"term":"Daseinsstruktur","qualifier":"II","band":"7","col":"1686"},
-  {"term":"geisteswissenschaftliche","qualifier":"II","band":"7","col":"1686"},
   {"term":"interaktionale Psychopathologie","qualifier":"II","band":"7","col":"1686"},
   {"term":"Pathopsychologie","qualifier":"II","band":"7","col":"1686"},
   {"term":"phänomenologische Anthropologie","qualifier":"II","band":"7","col":"1686"},
+  {"term":"Psychologie, verstehende","qualifier":"II","band":"7","col":"1686"},
   {"term":"Seelenkrankheit","qualifier":"","band":null,"col":null},
   {"term":"Symptomkomplex","qualifier":"II","band":"7","col":"1686"},
-  {"term":"– III (psych.) 7 1560–1562 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"verstehende Psychologie","qualifier":"II","band":"7","col":"1686"}
  ],
  "persons":[
   {"id":42,"name":"K. Jaspers","b":1,"n":1,"l":1,"editor":0,"role":"source"},
@@ -88,6 +88,6 @@ HWPH.put("a/2526",
   {"id":34,"name":"Psychiatrie","label":"Psychopathologie"},
   {"id":36,"name":"Psychologie","label":"Psychopathologie"}
  ],
- "reg_authors":[{"name":"Glatzel Johann","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Glatzel Johann","n":4},{"name":"Red","n":241}]
 }
 );

@@ -33,8 +33,7 @@ HWPH.put("a/1307",
   {"term":"gleichnamig","qualifier":"","band":null,"col":null},
   {"term":"homograph","qualifier":"","band":null,"col":null},
   {"term":"homophon","qualifier":"","band":null,"col":null},
-  {"term":"ὁμώνυμος","qualifier":"","band":null,"col":null},
-  {"term":"– I (sprach.) 1 201–203 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ὁμώνυμος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},

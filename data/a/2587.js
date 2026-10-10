@@ -32,11 +32,11 @@ HWPH.put("a/2587",
   {"term":"Bergung der Dinge","qualifier":"II","band":"8","col":"147"},
   {"term":"Dingwerdung","qualifier":"II","band":"8","col":"147"},
   {"term":"Exemplifikation","qualifier":"I","band":"8","col":"145"},
+  {"term":"Paradigma; exemplar","qualifier":"I","band":"8","col":"145"},
   {"term":"Sagen, sachliches","qualifier":"II","band":"8","col":"147"},
   {"term":"Ware","qualifier":"I","band":"8","col":"144"},
   {"term":"Wirklichmachung","qualifier":"I","band":"8","col":"143"},
-  {"term":"Zwiefalt","qualifier":"II","band":"8","col":"147"},
-  {"term":"– II (ling.) 6 52–54 Modell","qualifier":"I","band":"8","col":"145"}
+  {"term":"Zwiefalt","qualifier":"II","band":"8","col":"147"}
  ],
  "persons":[
   {"id":1427,"name":"M. Bense","b":2,"n":4,"l":0,"editor":0,"role":"mixed"},
@@ -130,6 +130,6 @@ HWPH.put("a/2587",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[{"name":"Büttemeyer Wilhelm","n":4},{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Büttemeyer Wilhelm","n":4},{"name":"Hühn Helmut","n":52}]
 }
 );

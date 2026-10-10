@@ -19,7 +19,7 @@ HWPH.put("a/2028",
  "outlinks":[],
  "register":[
   {"term":"Ethik/Recht","qualifier":"","band":null,"col":null},
-  {"term":"Freiheit","qualifier":"","band":null,"col":null},
+  {"term":"Freiheit","qualifier":"(Hegel)","band":null,"col":null},
   {"term":"Gesetzmässigkeit","qualifier":"","band":null,"col":null},
   {"term":"Gesinnung, moralische","qualifier":"","band":"6","col":"179f."},
   {"term":"Legalität","qualifier":"","band":null,"col":null},
@@ -27,8 +27,8 @@ HWPH.put("a/2028",
   {"term":"pflichtgemäss","qualifier":"","band":"6","col":"179"},
   {"term":"Recht/Sittlichkeit","qualifier":"","band":null,"col":null},
   {"term":"Triebfeder","qualifier":"","band":"6","col":"179"},
-  {"term":"Tugend","qualifier":"","band":"6","col":"184"},
-  {"term":"Wille","qualifier":"","band":null,"col":null}
+  {"term":"Tugend","qualifier":"(Hegel)","band":"6","col":"184"},
+  {"term":"Wille","qualifier":"(Hegel)","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},

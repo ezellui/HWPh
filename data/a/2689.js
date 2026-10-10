@@ -46,10 +46,7 @@ HWPH.put("a/2689",
   {"term":"repugnantia rerum","qualifier":"I","band":"8","col":"882"},
   {"term":"Weite der Welt","qualifier":"I","band":"8","col":"881"},
   {"term":"Widerstreit","qualifier":"I","band":null,"col":null},
-  {"term":"Wirklichkeit","qualifier":"II (Kant)","band":null,"col":null},
-  {"term":"– I (allg.) 1 393–396 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 6 1237f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (erk.) 1 407 ἀντιπάθεια","qualifier":"I","band":"8","col":"882"}
+  {"term":"Wirklichkeit","qualifier":"II (Kant)","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":2,"n":3,"l":0,"editor":0,"role":"source"},

@@ -25,6 +25,7 @@ HWPH.put("a/3046",
  ],
  "register":[
   {"term":"consequentia immediata","qualifier":"","band":"10","col":"372"},
+  {"term":"propositio subalterna","qualifier":"","band":null,"col":null},
   {"term":"ὑπάλληλος","qualifier":"","band":"10","col":"372"}
  ],
  "persons":[

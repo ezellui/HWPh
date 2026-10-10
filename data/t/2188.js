@@ -5,8 +5,8 @@ HWPH.put("t/2188",
  "l":"H. JOHACH: Handelnder Mensch und objektiver Geist. Zur Theorie der Geistes- und Sozialwiss. bei W. Dilthey (1974).",
  "au":"F.-J. Albers",
  "A":["F.-J. Albers"],
- "cb":[[0,1056],[663,1056]],
- "cn":[[0,1056],[101,1056],[112,1056],[118,1056]],
+ "cb":[[0,1055],[39,1056],[663,1056]],
+ "cn":[[0,1055],[101,1055],[112,1055],[118,1055]],
  "cl":[[0,1056]]
 }
 );

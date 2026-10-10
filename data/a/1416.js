@@ -18,6 +18,7 @@ HWPH.put("a/1416",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"generalisieren/individualisieren","qualifier":"","band":null,"col":null},
   {"term":"idiographisch/nomothetisch","qualifier":"","band":null,"col":null},
   {"term":"Wertbeziehung","qualifier":"","band":"4","col":"289"}
  ],

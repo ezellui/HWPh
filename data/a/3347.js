@@ -30,8 +30,8 @@ HWPH.put("a/3347",
   {"id":3508,"lemma":"Vorverständnis","n":1}
  ],
  "register":[
+  {"term":"bzw. vernünftige","qualifier":"","band":"11","col":"370f."},
   {"term":"Grundoffenbarung","qualifier":"","band":"11","col":"370ff."},
-  {"term":"natürliche bzw. vernünftige","qualifier":"","band":"11","col":"370f."},
   {"term":"Offenbarung, natürliche bzw. ursprüngliche","qualifier":"","band":null,"col":null},
   {"term":"primordial revelation","qualifier":"","band":null,"col":null},
   {"term":"revelatio generalis","qualifier":"","band":null,"col":null},
@@ -150,7 +150,7 @@ HWPH.put("a/3347",
  "see_also":[
   {"id":2203,"lemma":"Offenbarung"},
   {"id":2843,"lemma":"Selbstoffenbarung"},
-  {"id":3169,"lemma":"Theologie"}
+  {"id":3171,"lemma":"Theologie, Dialektische"}
  ],
  "groups":[{"id":44,"name":"Theologie","label":"Uroffenbarung"}],
  "reg_authors":[{"name":"Sparn Walter","n":4}]

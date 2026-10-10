@@ -50,13 +50,6 @@ HWPH.put("a/3244",
   {"term":"Grundform","qualifier":"II (allg.)","band":"10","col":"1596"},
   {"term":"Idealtypus (Weber)","qualifier":"II (allg.)","band":"10","col":"1603"},
   {"term":"Konstitutionstypus","qualifier":"II (allg.)","band":"10","col":"1605"},
-  {
-   "term":"natürliche bzw. vernünftige 8 723f. Theologie, typische",
-   "qualifier":"I (theol.)",
-   "band":"10",
-   "col":"1590f."
-  },
-  {"term":"Paradigma; exemplar","qualifier":"I (theol.)","band":"10","col":"1587"},
   {"term":"Prototyp","qualifier":"II (allg.)","band":"10","col":"1587"},
   {"term":"Psychologie der Abstraktion","qualifier":"II (allg.)","band":"10","col":"1596f."},
   {"term":"Rationalisierungstypen","qualifier":"II (allg.)","band":"10","col":"1602"},
@@ -64,13 +57,14 @@ HWPH.put("a/3244",
   {"term":"Schatten","qualifier":"I (theol.)","band":"10","col":"1588"},
   {"term":"Schriftsinn, typologischer","qualifier":"I (theol.)","band":"10","col":"1590"},
   {"term":"sensus typicus","qualifier":"I (theol.)","band":"10","col":"1589"},
+  {"term":"Theologie, typische","qualifier":"I (theol.)","band":"10","col":"1590f."},
   {"term":"Typische, das","qualifier":"II (allg.)","band":"10","col":"1598"},
   {"term":"Typologie","qualifier":"","band":null,"col":null},
   {"term":"typus","qualifier":"","band":null,"col":null},
   {"term":"Urtier","qualifier":"II (allg.)","band":"10","col":"1595"},
   {"term":"Weltanschauung","qualifier":"II (allg.)","band":"10","col":"1598f."},
-  {"term":"τύπος","qualifier":"I (theol.)","band":null,"col":null},
-  {"term":"– I (rhet.) 2 948f. s. auch","qualifier":"I (theol.)","band":null,"col":null}
+  {"term":"παράδειγμα","qualifier":"I (theol.)","band":"10","col":"1587"},
+  {"term":"τύπος","qualifier":"I (theol.)","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":2,"n":4,"l":0,"editor":0,"role":"source"},
@@ -290,7 +284,7 @@ HWPH.put("a/3244",
   {"id":3192,"lemma":"Tier; Tierseele","tf":5},
   {"id":1526,"lemma":"Kanon","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":2782,"lemma":"Schriftsinn, mehrfacher"},{"id":3554,"lemma":"Weissagung"}],
  "groups":[{"id":44,"name":"Theologie","label":"Typos; Typologie I (theol.)"}],
  "reg_authors":[{"name":"Lessing Hans-Ulrich","n":11},{"name":"Strenge Britta","n":1}]
 }

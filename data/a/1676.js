@@ -25,9 +25,9 @@ HWPH.put("a/1676",
   {"term":"cosmologia experimentalis","qualifier":"","band":null,"col":null},
   {"term":"cosmologia generalis","qualifier":"","band":null,"col":null},
   {"term":"cosmologia scientifica","qualifier":"","band":null,"col":null},
-  {"term":"dialektische I Metaphysik, allgemeine/besondere","qualifier":"","band":null,"col":null},
-  {"term":"K 7 789 Kosmologie, rationale","qualifier":"","band":null,"col":null},
-  {"term":"metaphysica specialis","qualifier":"","band":null,"col":null}
+  {"term":"Kosmologie, rationale","qualifier":"","band":null,"col":null},
+  {"term":"metaphysica specialis","qualifier":"","band":null,"col":null},
+  {"term":"Metaphysik, allgemeine/besondere","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -20,8 +20,8 @@ HWPH.put("a/2839",
  "register":[
   {"term":"Egoismus, moralischer","qualifier":"","band":"9","col":"463f."},
   {"term":"Freitätigkeit","qualifier":"","band":"9","col":"464"},
-  {"term":"Ich-Identität","qualifier":"","band":null,"col":null},
   {"term":"idem ipse","qualifier":"","band":"9","col":"462"},
+  {"term":"Ihrheit","qualifier":"","band":"9","col":"462"},
   {"term":"ipsitas","qualifier":"","band":"9","col":"463"},
   {"term":"meitas","qualifier":"","band":"9","col":"463"},
   {"term":"multiplicitas","qualifier":"","band":"9","col":"462"},
@@ -34,8 +34,7 @@ HWPH.put("a/2839",
   {"term":"suitas","qualifier":"","band":"9","col":"463"},
   {"term":"Wesenheit","qualifier":"","band":"9","col":"463"},
   {"term":"Wirheit","qualifier":"","band":"9","col":"464"},
-  {"term":"αὐτότης","qualifier":"","band":"9","col":"462"},
-  {"term":"– II (theol.) 2 334–337 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"αὐτότης","qualifier":"","band":"9","col":"462"}
  ],
  "persons":[
   {"id":66,"name":"Eckhart","b":3,"n":1,"l":0,"editor":0,"role":"source"},

@@ -25,6 +25,7 @@ HWPH.put("a/1665",
  "outlinks":[],
  "register":[
   {"term":"Aktualgenese","qualifier":"","band":null,"col":null},
+  {"term":"body image","qualifier":"","band":null,"col":null},
   {"term":"image du corps","qualifier":"","band":null,"col":null},
   {"term":"Körper-Ich","qualifier":"","band":null,"col":null},
   {"term":"Körperbild","qualifier":"","band":null,"col":null},

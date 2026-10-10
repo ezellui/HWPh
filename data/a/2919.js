@@ -59,6 +59,6 @@ HWPH.put("a/2919",
  ],
  "see_also":[],
  "groups":[{"id":29,"name":"Ökonomie","label":"Soll; Plansoll"}],
- "reg_authors":[{"name":"Red","n":242},{"name":"Schlüter Steffen","n":1},{"name":"Zinn Karl Georg","n":1}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Schlüter Steffen","n":1},{"name":"Zinn Karl Georg","n":1}]
 }
 );

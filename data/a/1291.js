@@ -19,7 +19,8 @@ HWPH.put("a/1291",
  "outlinks":[],
  "register":[
   {"term":"homo erectus","qualifier":"","band":"3","col":"1170"},
-  {"term":"homo sapiens","qualifier":"","band":null,"col":null}
+  {"term":"homo sapiens","qualifier":"","band":null,"col":null},
+  {"term":"Menschwerdung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":260,"name":"Ch. Darwin","b":1,"n":1,"l":0,"editor":0,"role":"source"},

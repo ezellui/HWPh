@@ -1,73 +1,6 @@
 HWPH.put("r/70-65",
 [
  [
-  "performativer 12 700 actus existentiae","Akt/Potenz","","1","142","ref",83,"Akt/Potenz",
-  "performativer 12 700 actus existentiae"
- ],
- ["Performance","Performance","",null,null,"main",2308,"Performance","performance"],
- [
-  "performativer 12 699 consolatio","Trost","",null,null,"ref",3235,"Trost",
-  "performativer 12 699 consolatio"
- ],
- [
-  "performativer 12 699 consolatio","Theologie","","10","1087","ref",3169,"Theologie",
-  "performativer 12 699 consolatio"
- ],
- ["Person","Person","II","7","287","main",2318,"Person","person"],
- [
-  "Persönlichkeit","Persönlichkeit","II (psych.)","7","352","main",2322,"Persönlichkeit",
-  "personlichkeit"
- ],
- [
-  "performativer 12 700 Implikation, materiale","Implikation","",null,null,"ref",1399,"Implikation",
-  "performativer 12 700 implikation, materiale"
- ],
- [
-  "performativer 12 700 Implikation, materiale","Konsequenz","","4","979","ref",1619,"Konsequenz",
-  "performativer 12 700 implikation, materiale"
- ],
- [
-  "performativer 12 700 Implikation, materiale","Modallogik","II","6","23","ref",1997,"Modallogik",
-  "performativer 12 700 implikation, materiale"
- ],
- [
-  "performativer 12 700 Implikation, materiale","Wahrheitsfunktion; Wahrheitstafel","","12","177",
-  "ref",3535,"Wahrheitsfunktion; Wahrheitstafel","performativer 12 700 implikation, materiale"
- ],
- [
-  "performativer 12 699 inconstance","Selbstflucht","","9","441","ref",2834,"Selbstflucht",
-  "performativer 12 699 inconstance"
- ],
- [
-  "performativer 12 699 inconstance","Standhaftigkeit","","10","101","ref",3011,"Standhaftigkeit",
-  "performativer 12 699 inconstance"
- ],
- [
-  "performativer 12 700","Kontiguität","","4","1026f.","ref",1636,"Kontiguität",
-  "performativer 12 700"
- ],
- [
-  "Periode; Periodisierung","Periode; Periodisierung","","7","259f.","main",2313,
-  "Periode, Periodisierung","periode; periodisierung"
- ],
- [
-  "performativer 12 700 mora","Zeit","III A","12","1210f.","ref",3676,"Zeit",
-  "performativer 12 700 mora"
- ],
- [
-  "Perspektive I (allg.)","Perspektive I (allg.)","",null,null,"main",2326,
-  "Perspektive, Perspektivismus, perspektivisch","perspektive i (allg.)"
- ],
- ["Perspektive I (allg.)","Sehen","III",null,null,"ref",2802,"Sehen","perspektive i (allg.)"],
- [
-  "performativer Paradox","Antinomie","I (allg.)","1","396","ref",185,"Antinomie",
-  "performativer paradox"
- ],
- [
-  "performativer Paradox","Geschichte","V","3","376","ref",1085,"Geschichte, Historie",
-  "performativer paradox"
- ],
- [
   "Peanosches Axiomensystem","Axiomensystem, Peanosches","",null,null,"ref",342,
   "Axiomensystem, Peanosches","peanosches axiomensystem"
  ],
@@ -127,9 +60,12 @@ HWPH.put("r/70-65",
   "Pedant; Pedanterie","Pedant; Pedanterie","","7","229–233","main",2302,"Pedant, Pedanterie",
   "pedant; pedanterie"
  ],
- ["pedantical","Kritik","",null,null,"ref",1694,"Kritik","pedantical"],
+ [
+  "pedantical","Kritik; Literaturkritik","II","4","1286","ref",1695,"Kritik, Literaturkritik",
+  "pedantical"
+ ],
  ["Peirastik","Peirastik","","7","234","main",2303,"Peirastik","peirastik"],
- ["Peirastik","Dialektik","IV",null,null,"ref",583,"Dialektik","peirastik"],
+ ["Peirastik","Dialektik","IV 1. 5","2","194","ref",583,"Dialektik","peirastik"],
  [
   "Peircesche Aussage","Aussage, Peircesche","",null,null,"ref",310,"Aussage, Peircesche",
   "peircesche aussage"
@@ -145,12 +81,17 @@ HWPH.put("r/70-65",
  ["penetrativum","Subtilität","","10","564","ref",3067,"Subtilität","penetrativum"],
  ["Penisneid","Neid","","6","704","ref",2105,"Neid","penisneid"],
  ["pensée pneumatique","Denken","I","2","96","ref",552,"Denken","pensee pneumatique"],
- ["pensum","Aufgabe; aufgegeben πέντε φωναί","",null,null,"ref",287,"Aufgabe, aufgegeben","pensum"],
+ ["pensum","Aufgabe; aufgegeben","",null,null,"ref",287,"Aufgabe, aufgegeben","pensum"],
  [
   "per aliud","An sich/für sich","","1","353","ref",167,"An sich/für sich; an und für sich",
   "per aliud"
  ],
- ["per se","Substanz II per se/per accidens","",null,null,"ref",null,null,"per se"],
+ ["per se","Substanz","II",null,null,"ref",3062,"Substanz; Substanz/Akzidens","per se"],
+ [
+  "per se/per accidens","An sich/für sich","",null,null,"ref",167,
+  "An sich/für sich; an und für sich","per se/per accidens"
+ ],
+ ["per se esse","Subsistenz","","10","491","ref",3060,"Subsistenz","per se esse"],
  ["per se existere","Person","II","7","291","ref",2318,"Person","per se existere"],
  ["Per se notum","Per se notum","","7","262–265","main",2315,"Per se notum","per se notum"],
  ["Per se notum","Prinzip","",null,null,"see",2458,"Prinzip","per se notum"],
@@ -218,7 +159,8 @@ HWPH.put("r/70-65",
   "perceptual defense"
  ],
  ["percepturitio","Appétition","(Leibniz)","1","457","ref",216,"Appétition","percepturitio"],
- ["Perestroika","Philosophie","IV",null,null,"ref",2353,"Philosophie","perestroika"],
+ ["Perestroika","Philosophie","IV J","7","784","ref",2353,"Philosophie","perestroika"],
+ ["Perestroika","Sobornost","","9","997","ref",2913,"Sobornost","perestroika"],
  ["perfecta forma","Entelechie","II (biol.)","2","507","ref",746,"Entelechie","perfecta forma"],
  ["perfecte","Absolut; das Absolute","","1","13","ref",27,"Absolut, das Absolute","perfecte"],
  ["perfectihabies","Entelechie","II (biol.)","2","507","ref",746,"Entelechie","perfectihabies"],
@@ -275,22 +217,22 @@ HWPH.put("r/70-65",
   "Lokutionärer Akt/illokutionärer Akt","performativ"
  ],
  ["Performativ","Sprechakt","",null,null,"see",2995,"Sprechakt","performativ"],
- ["Performativ","Widerspruch","",null,null,"see",3607,"Widerspruch","performativ"],
+ ["Performativ","Widerspruch, performativer","",null,null,"see",3607,"Widerspruch","performativ"],
  [
-  "performativer performativ","Textualität; Dekonstruktion","(Derrida)","10","1047","ref",3160,
-  "Textualität; Dekonstruktion","performativer performativ"
+  "performativ","Textualität; Dekonstruktion","(Derrida)","10","1047","ref",3160,
+  "Textualität; Dekonstruktion","performativ"
  ],
  [
-  "performative contradiction","Widerspruch","",null,null,"ref",3607,"Widerspruch",
+  "performative contradiction","Widerspruch, performativer","",null,null,"ref",3607,"Widerspruch",
   "performative contradiction"
  ],
- ["performativer","Perichorese","","7","255–259","ref",2311,"Perichorese","performativer"],
+ ["Perichorese","Perichorese","","7","255–259","main",2311,"Perichorese","perichorese"],
  [
-  "performativer","Idiomatum communicatio","",null,null,"see",1376,"Idiomatum communicatio",
-  "performativer"
+  "Perichorese","Idiomatum communicatio","",null,null,"see",1376,"Idiomatum communicatio",
+  "perichorese"
  ],
- ["performativer","Trinität","",null,null,"see",3231,"Trinität","performativer"],
- ["performativer","Zweinaturenlehre","",null,null,"see",3723,"Zweinaturenlehre","performativer"],
+ ["Perichorese","Trinität","",null,null,"see",3231,"Trinität","perichorese"],
+ ["Perichorese","Zweinaturenlehre","",null,null,"see",3723,"Zweinaturenlehre","perichorese"],
  ["Perichorese","Immanenz","","4","223","ref",1390,"Immanent, Immanenz","perichorese"],
  ["periculum","Wahrscheinlichkeit","III","12","260","ref",3540,"Wahrscheinlichkeit","periculum"],
  [
@@ -331,9 +273,10 @@ HWPH.put("r/70-65",
  ],
  ["période finale","Posthistoire","","7","1140","ref",2415,"Posthistoire","periode finale"],
  [
-  "Periodisierung","Neuzeit; Mittelalter; Altertum Periodizität","",null,null,"ref",2131,
+  "Periodisierung","Neuzeit; Mittelalter; Altertum","",null,null,"ref",2131,
   "Neuzeit, Mittelalter, Altertum","periodisierung"
  ],
+ ["Periodizität","Rhythmus","II (biol.)",null,null,"ref",2715,"Rhythmus","periodizitat"],
  ["Peripatetisch","Peripatetisch","","7","261f.","main",2314,"Peripatetisch","peripatetisch"],
  ["Peripatetisch","Aristotelismus","",null,null,"see",246,"Aristotelismus","peripatetisch"],
  ["Peripetie","Umschlag","","11","93","ref",3275,"Umschlag","peripetie"],
@@ -348,6 +291,10 @@ HWPH.put("r/70-65",
   "Individuum, Individualität","periphrastisch"
  ],
  ["peritia linguarum","Philologie","","7","557","ref",2352,"Philologie","peritia linguarum"],
+ [
+  "Perlokution","Lokutionärer Akt/illokutionärer Akt","",null,null,"ref",1833,
+  "Lokutionärer Akt/illokutionärer Akt","perlokution"
+ ],
  [
   "permanente Revolution","Revolution, permanente","",null,null,"ref",2708,"Revolution, permanente",
   "permanente revolution"
@@ -387,6 +334,15 @@ HWPH.put("r/70-65",
  ],
  ["Persönlichkeit","Persönlichkeit","","7","345–354","main",2322,"Persönlichkeit","personlichkeit"],
  ["Persönlichkeit","Person","",null,null,"see",2318,"Person","personlichkeit"],
+ ["Persönlichkeit","Charakterologie","",null,null,"see",488,"Charakterologie","personlichkeit"],
+ ["Persönlichkeit","Eigenschaft","III (psych.)",null,null,"see",666,"Eigenschaft","personlichkeit"],
+ ["Persönlichkeit","Faktorenanalyse","",null,null,"see",889,"Faktorenanalyse","personlichkeit"],
+ [
+  "Persönlichkeit","Psychologie, differentielle","",null,null,"see",2513,
+  "Psychologie, differentielle","personlichkeit"
+ ],
+ ["Persönlichkeit","Selbst","III",null,null,"see",2820,"Selbst","personlichkeit"],
+ ["Persönlichkeit","Temperament","III",null,null,"see",3148,"Temperament","personlichkeit"],
  [
   "Persönlichkeit","Imperativ, kategorischer","IV 2","4","254","ref",1395,
   "Imperative, kategorischer Imperativ","personlichkeit"
@@ -466,25 +422,42 @@ HWPH.put("r/70-65",
  ],
  ["Persönlichkeitsstörung","Psychose","",null,null,"ref",2528,"Psychose","personlichkeitsstorung"],
  [
-  "Persönlichkeitswert (Hartmann)","Persönlichkeitswert (Hartmann)","","7","362f.","main",2325,
-  "Persönlichkeitswert, Personwert","personlichkeitswert (hartmann)"
+  "Persönlichkeitswert","Persönlichkeitswert","(Hartmann)","7","362f.","main",2325,
+  "Persönlichkeitswert, Personwert","personlichkeitswert"
  ],
  [
-  "Persönlichkeitswert (Hartmann)","Aktualwert","(Hartmann)",null,null,"see",88,"Aktualwert",
-  "personlichkeitswert (hartmann)"
+  "Persönlichkeitswert","Aktualwert","(Hartmann)",null,null,"see",88,"Aktualwert",
+  "personlichkeitswert"
  ],
  [
-  "Persönlichkeitswert (Hartmann)","Empirischer/intelligibler Charakter","",null,null,"see",727,
-  "Empirischer/intelligibler Charakter","personlichkeitswert (hartmann)"
+  "Persönlichkeitswert","Empirischer/intelligibler Charakter","",null,null,"see",727,
+  "Empirischer/intelligibler Charakter","personlichkeitswert"
  ],
- [
-  "Persönlichkeitswert (Hartmann)","Wert","III B (phän.)",null,null,"see",3588,"Wert",
-  "personlichkeitswert (hartmann)"
- ],
+ ["Persönlichkeitswert","Wert","III B (phän.)",null,null,"see",3588,"Wert","personlichkeitswert"],
  ["Person","Person","","7","269–338","main",2318,"Person","person"],
- ["Person","Identität","",null,null,"see",1366,"Identität","person"],
+ ["Person","Identität; Ich-Identität","",null,null,"see",1366,"Identität","person"],
+ ["Person","Personalismus","II",null,null,"see",2320,"Personalismus","person"],
+ ["Person","Sein, moralisches","",null,null,"see",2808,"Sein, moralisches","person"],
+ ["Person","Selbstbewusstsein","",null,null,"see",2828,"Selbstbewußtsein","person"],
+ ["Person","Subsistenz","",null,null,"see",3060,"Subsistenz","person"],
+ ["Person","Menschenwürde","",null,null,"see",1924,"Menschenwürde","person"],
+ [
+  "Person","Rechte des Menschen; Menschenrechte","",null,null,"see",2600,
+  "Rechte des Menschen, Menschenrechte","person"
+ ],
+ ["Person","Zurechnung","I (jur.)",null,null,"see",3712,"Zurechnung","person"],
  ["Person (theol.)","Inkarnation","",null,null,"ref",1440,"Inkarnation","person (theol.)"],
- ["Person (theol.)","Person","",null,null,"ref",2318,"Person","person (theol.)"],
+ ["Person (theol.)","Person","I-II",null,null,"ref",2318,"Person","person (theol.)"],
+ [
+  "Person (theol.)","Existenz; existentia","II","2","856","ref",863,"Existenz, existentia",
+  "person (theol.)"
+ ],
+ ["Person (theol.)","Immanenz","","4","223","ref",1390,"Immanent, Immanenz","person (theol.)"],
+ ["Person (theol.)","Modalismus","","6","8","ref",1994,"Modalismus","person (theol.)"],
+ [
+  "Person (theol.)","Substanz","I","10","502f.","ref",3062,"Substanz; Substanz/Akzidens",
+  "person (theol.)"
+ ],
  ["Person, juristische","Ethik","VII","2","796","ref",835,"Ethik","person, juristische"],
  [
   "Person, juristische","Körperschaft","","4","1118ff.","ref",1664,"Körperschaft",
@@ -507,7 +480,7 @@ HWPH.put("r/70-65",
  ["persona","Rolle","",null,null,"ref",2722,"Rolle","persona"],
  ["persona","Hypostase","","3","1257f.","ref",1328,"Hypostase","persona"],
  ["Persona","Persona","(Jung)","7","338","main",2319,"Persona","persona"],
- ["Persona","Anima/Animus (Jung)","",null,null,"see",145,"Anima, Animus","persona"],
+ ["Persona","Anima/Animus","(Jung)",null,null,"see",145,"Anima, Animus","persona"],
  ["Persona","Psychologie, komplexe","(Jung)",null,null,"see",2516,"Psychologie, komplexe","persona"],
  ["persona composita","Person","II","7","293","ref",2318,"Person","persona composita"],
  ["persona divinitatis","Person","III 2","7","303","ref",2318,"Person","persona divinitatis"],
@@ -536,7 +509,13 @@ HWPH.put("r/70-65",
   "personale Handlungsfähigkeit","Psychologie","","7","1649","ref",2511,"Psychologie",
   "personale handlungsfahigkeit"
  ],
- ["personale Identität","Identität","",null,null,"ref",1366,"Identität","personale identitat"],
+ [
+  "personale Identität","Identität; Ich-Identität","",null,null,"ref",1366,"Identität",
+  "personale identitat"
+ ],
+ ["personale Identität","Person","III 3","7","304ff.","ref",2318,"Person","personale identitat"],
+ ["personale Identität","Präexistenz","","7","1231","ref",2432,"Präexistenz","personale identitat"],
+ ["personale Identität","Selbst","II","9","295ff.","ref",2820,"Selbst","personale identitat"],
  ["Personalgott","Religion","VIII","10","8","ref",2998,"Staat","personalgott"],
  ["personalis","Egotismus","","2","316","ref",652,"Egotismus, Egoismus, Egomismus","personalis"],
  ["Personalismus","Personalismus","","7","338–341","main",2320,"Personalismus","personalismus"],
@@ -567,8 +546,12 @@ HWPH.put("r/70-65",
   "Personifikation, Personifizierung","personifikation"
  ],
  [
-  "Personifizierung","Personifikation Personifizierung der Sache","",null,null,"ref",null,null,
+  "Personifizierung","Personifikation","",null,null,"ref",2321,"Personifikation, Personifizierung",
   "personifizierung"
+ ],
+ [
+  "Personifizierung der Sache","Versachlichung","","11","872","ref",3428,"Versachlichung",
+  "personifizierung der sache"
  ],
  ["Personismus","Spiritismus","","9","1402","ref",2978,"Spiritismus","personismus"],
  [
@@ -576,19 +559,32 @@ HWPH.put("r/70-65",
   "personnalisme"
  ],
  [
-  "Personwert","Persönlichkeitswert (Hartmann) perspectiva","",null,null,"ref",null,null,
-  "personwert"
+  "Personwert","Persönlichkeitswert","(Hartmann)",null,null,"ref",2325,
+  "Persönlichkeitswert, Personwert","personwert"
  ],
  [
-  "Perspektive perspective realism","Perspektive perspective realism","",null,null,"main",null,null,
-  "perspektive perspective realism"
+  "perspectiva","Perspektive","",null,null,"ref",2326,"Perspektive, Perspektivismus, perspektivisch",
+  "perspectiva"
+ ],
+ [
+  "perspective realism","Realismus","III (analyt. Philos.)","8","163","ref",2588,"Realismus",
+  "perspective realism"
  ],
  [
   "Perspektive","Perspektive","","7","363–377","main",2325,"Persönlichkeitswert, Personwert",
   "perspektive"
  ],
+ [
+  "Perspektive","Standpunkt; Gesichtspunkt","",null,null,"see",3012,"Standpunkt; Gesichtspunkt",
+  "perspektive"
+ ],
+ ["Perspektive","Raum","V (ästh.)",null,null,"see",2578,"Raum","perspektive"],
  ["Perspektivenwechsel","Verfremdung","","11","654","ref",3400,"Verfremdung","perspektivenwechsel"],
- ["Perspektivismus","Perspektive perspicacia","",null,null,"ref",null,null,"perspektivismus"],
+ [
+  "Perspektivismus","Perspektive","",null,null,"ref",2326,
+  "Perspektive, Perspektivismus, perspektivisch","perspektivismus"
+ ],
+ ["perspicacia","Witz","","12","987","ref",3648,"Witz","perspicacia"],
  ["perspicere","Denken","I","2","61","ref",552,"Denken","perspicere"],
  ["perspicuitas","Perspikuität","",null,null,"ref",2327,"Perspikuität","perspicuitas"],
  ["perspicuitas","Evidenz","I (erk.)","2","829","ref",850,"Evidenz","perspicuitas"],
@@ -660,62 +656,8 @@ HWPH.put("r/70-65",
  ],
  ["petitio principii","Beweis","","1","884","ref",410,"Beweis","petitio principii"],
  [
-  "petitio principii","Irrtum","(Schlussfehler)","4","610","ref",1500,"Irrtum (Schlußfehler)",
+  "petitio principii","Irrtum (Schlussfehler)","","4","610","ref",1500,"Irrtum (Schlußfehler)",
   "petitio principii"
- ],
- [
-  "performativer pragmaticism","Pragmatismus pragmatics","",null,null,"ref",null,null,
-  "performativer pragmaticism"
- ],
- ["performativer","Pragmatismus","","7","1244–1249","ref",2435,"Pragmatisch","performativer"],
- ["performativer","Instrumentalismus","",null,null,"see",1455,"Instrumentalismus","performativer"],
- ["performativer","Wert","IV (Pragmatismus)",null,null,"see",3588,"Wert","performativer"],
- ["Perseveration","Perseveration","","7","268","main",2317,"Perseveration","perseveration"],
- ["Perspikuität","Perspikuität","",null,null,"main",2327,"Perspikuität","perspikuitat"],
- [
-  "Perspikuität","Schriftsinn, mehrfacher","",null,null,"ref",2782,"Schriftsinn, mehrfacher",
-  "perspikuitat"
- ],
- [
-  "performativer Selbstwiederholung","Wiederholung","","12","739ff.","ref",3616,"Wiederholung",
-  "performativer selbstwiederholung"
- ],
- ["Perfektionismus","Perfektionismus","",null,null,"main",2307,"Perfektionismus","perfektionismus"],
- [
-  "Persönlichkeit, allseitige","Persönlichkeit, allseitige","","7","355","main",2323,
-  "Persönlichkeit, allseitige","personlichkeit, allseitige"
- ],
- [
-  "performativer","Widerspruchsfreiheit","",null,null,"ref",3609,"Widerspruchsfreiheit",
-  "performativer"
- ],
- [
-  "performativer 12 699f. s. auch","Insolubilia","",null,null,"ref",1450,"Insolubilia",
-  "performativer 12 699f. s. auch"
- ],
- [
-  "performativer 12 699f. s. auch","Letztbegründung","",null,null,"ref",1784,"Letztbegründung",
-  "performativer 12 699f. s. auch"
- ],
- [
-  "performativer 12 699f. s. auch","Performativ","",null,null,"ref",2310,"Performativ",
-  "performativer 12 699f. s. auch"
- ],
- [
-  "performativer 12 699f. s. auch","Selbstreferenz","I (log.)",null,null,"ref",2845,"Selbstreferenz",
-  "performativer 12 699f. s. auch"
- ],
- [
-  "performativer 12 699f. s. auch","Transzendentalpragmatik/Universalpragmatik","",null,null,"ref",
-  3222,"Transzendentalpragmatik/Universalpragmatik","performativer 12 699f. s. auch"
- ],
- [
-  "performativer 12 699f. s. auch","Widerlegung","",null,null,"ref",3605,"Widerlegung",
-  "performativer 12 699f. s. auch"
- ],
- [
-  "performativer Widerspruch, wesentlicher","Wesen","IV","12","640","ref",3595,"Wesen",
-  "performativer widerspruch, wesentlicher"
  ],
  [
   "Peckhaus Volker","Umfangslogik/Inhaltslogik","","11","83f.","author",3271,

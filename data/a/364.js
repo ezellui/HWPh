@@ -18,6 +18,7 @@ HWPH.put("a/364",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"Seelenteile","qualifier":"","band":null,"col":null},
   {"term":"Seelenvermögen","qualifier":"","band":null,"col":null},
   {"term":"ἐπιθυμητικόν","qualifier":"","band":null,"col":null}

@@ -17,7 +17,7 @@ HWPH.put("a/2414",
  "next":{"id":2415,"lemma":"Posthistoire","band":"7","col":1140},
  "backlinks":[{"id":2463,"lemma":"Probabilismus, probabilistisch","n":1}],
  "outlinks":[],
- "register":[{"term":"– IV (geogr.) 7 1396f. s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":2237,"name":"L. Febvre","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1237,"name":"F. Ratzel","b":1,"n":1,"l":0,"editor":0,"role":"source"},

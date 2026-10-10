@@ -27,10 +27,7 @@ HWPH.put("a/2228",
   {"id":2227,"lemma":"Operationalismus","n":1},
   {"id":2495,"lemma":"Protophysik","n":1}
  ],
- "register":[
-  {"term":"Mathematik, operative","qualifier":"(Dingler)","band":"6","col":"1223"},
-  {"term":"– I (wiss.) 6 1216–1218 s. auch","qualifier":"(Dingler)","band":null,"col":null}
- ],
+ "register":[{"term":"Mathematik, operative","qualifier":"(Dingler)","band":"6","col":"1223"}],
  "persons":[
   {"id":392,"name":"H. Dingler","b":4,"n":3,"l":0,"editor":0,"role":"mixed"},
   {"id":78,"name":"P. Lorenzen","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
@@ -53,6 +50,6 @@ HWPH.put("a/2228",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Operativismus (Dingler)"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Operativismus (Dingler)"}
  ],
- "reg_authors":[{"name":"Frey Gerhard","n":9},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Frey Gerhard","n":9},{"name":"Red","n":241}]
 }
 );

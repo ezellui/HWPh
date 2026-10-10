@@ -19,8 +19,7 @@ HWPH.put("a/732",
  "outlinks":[],
  "register":[
   {"term":"Bewegung, ewige","qualifier":"","band":null,"col":null},
-  {"term":"Seelenbewegung","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 2 506f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Seelenbewegung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":1,"n":1,"l":0,"editor":0,"role":"source"},

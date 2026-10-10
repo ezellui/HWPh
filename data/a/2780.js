@@ -26,14 +26,15 @@ HWPH.put("a/2780",
  "outlinks":[],
  "register":[
   {"term":"Abscheuliche, das","qualifier":"","band":null,"col":null},
-  {"term":"das","qualifier":"","band":null,"col":null},
-  {"term":"das 1 1006f. Choc","qualifier":"","band":null,"col":null},
-  {"term":"destruction","qualifier":"","band":null,"col":null},
-  {"term":"Entsetzliche, das","qualifier":"","band":null,"col":null},
-  {"term":"Furcht","qualifier":"","band":null,"col":null},
-  {"term":"horror","qualifier":"","band":null,"col":null},
-  {"term":"joy, terrible","qualifier":"","band":null,"col":null},
-  {"term":"Schock","qualifier":"","band":null,"col":null},
+  {"term":"Choc","qualifier":"","band":"8","col":"1415"},
+  {"term":"destruction","qualifier":"","band":"8","col":"1415"},
+  {"term":"Entsetzliche, das","qualifier":"","band":"8","col":"1414"},
+  {"term":"Furcht","qualifier":"","band":"8","col":"1414"},
+  {"term":"Grauen, angenehmes","qualifier":"","band":"8","col":"1414"},
+  {"term":"horror","qualifier":"","band":"8","col":"1414"},
+  {"term":"joy, terrible","qualifier":"","band":"8","col":"1414"},
+  {"term":"Pathetische","qualifier":"","band":null,"col":null},
+  {"term":"Schock","qualifier":"","band":"8","col":"1415"},
   {"term":"Schrecken","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -116,6 +117,6 @@ HWPH.put("a/2780",
  ],
  "see_also":[],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Schreckliche, das"}],
- "reg_authors":[{"name":"Zelle Carsten","n":1}]
+ "reg_authors":[]
 }
 );

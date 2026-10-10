@@ -1,6 +1,7 @@
 HWPH.put("r/3b8-3b1",
 [
  ["θάμβος","Staunen","",null,null,"ref",3015,"Staunen; Bewunderung; Verwunderung","θαμβοσ"],
+ ["θάνατος","Tod","",null,null,"ref",3197,"Tod","θανατοσ"],
  [
   "θάνατος προαιρετικός","Sterben lernen","","10","130","ref",3018,"Sterben lernen",
   "θανατοσ προαιρετικοσ"
@@ -18,6 +19,6 @@ HWPH.put("r/3b8-3b1",
   "θαυμαστόν","Wunderbare, das; Phantastische, das","",null,null,"ref",3660,
   "Wunderbare, das; Phantastische, das","θαυμαστον"
  ],
- ["θαυμάζειν","Staunen θέα","",null,null,"ref",null,null,"θαυμαζειν"]
+ ["θαυμάζειν","Staunen","",null,null,"ref",3015,"Staunen; Bewunderung; Verwunderung","θαυμαζειν"]
 ]
 );

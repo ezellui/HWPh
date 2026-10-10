@@ -31,13 +31,14 @@ HWPH.put("a/2141",
   {"term":"conatus","qualifier":"","band":"6","col":"858"},
   {"term":"Hemmung (phys.)","qualifier":"","band":null,"col":null},
   {"term":"impetus","qualifier":"","band":"6","col":"857"},
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"nisus formativus","qualifier":"","band":"6","col":"859f."},
+  {"term":"nixus","qualifier":"","band":null,"col":null},
   {"term":"principium vegetationis","qualifier":"","band":"6","col":"865"},
   {"term":"sollicitatio","qualifier":"","band":"6","col":"858f."},
   {"term":"vibratio","qualifier":"","band":"6","col":"858"},
   {"term":"virtus agendi","qualifier":"","band":"6","col":"858"},
-  {"term":"παλμός; πάλσις","qualifier":"","band":"6","col":"858"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"παλμός; πάλσις","qualifier":"","band":"6","col":"858"}
  ],
  "persons":[
   {"id":938,"name":"J. F. Blumenbach","b":4,"n":7,"l":0,"editor":0,"role":"source"},

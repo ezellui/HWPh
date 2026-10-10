@@ -56,7 +56,11 @@ HWPH.put("a/3479",
   {"id":1769,"lemma":"Leib, Körper","tf":2},
   {"id":3620,"lemma":"Wille","tf":2}
  ],
- "see_also":[{"id":2933,"lemma":"Souveränität"},{"id":3472,"lemma":"Volk"}],
+ "see_also":[
+  {"id":2933,"lemma":"Souveränität"},
+  {"id":3472,"lemma":"Volk"},
+  {"id":3485,"lemma":"Volonté générale; volonté de tous"}
+ ],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Volkssouveränität"}],
  "reg_authors":[{"name":"Linvers Ralf","n":1},{"name":"Röttgers Arndt","n":23}]
 }

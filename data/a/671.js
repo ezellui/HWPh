@@ -26,13 +26,18 @@ HWPH.put("a/671",
   {"id":666,"lemma":"Eigenschaft","n":1}
  ],
  "register":[
+  {"term":"consilium privatum","qualifier":"","band":null,"col":null},
   {"term":"Eigensinn","qualifier":"","band":null,"col":null},
   {"term":"Gehorsam","qualifier":"","band":null,"col":null},
   {"term":"opinio propria","qualifier":"","band":"2","col":"344"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Selbstbefangenheit","qualifier":"","band":"2","col":"344"},
+  {"term":"self-will","qualifier":"","band":null,"col":null},
   {"term":"superbia","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 2 334–337 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"volonté particulière bzw. propre","qualifier":"","band":null,"col":null},
+  {"term":"voluntas perversa bzw. privata bzw. propria","qualifier":"","band":null,"col":null},
+  {"term":"αὐτογνώμονον","qualifier":"","band":null,"col":null},
+  {"term":"ἰδιογνώμονον","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},

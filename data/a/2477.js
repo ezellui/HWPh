@@ -19,7 +19,6 @@ HWPH.put("a/2477",
  "outlinks":[{"id":2269,"lemma":"Paradigma, exemplar","n":1},{"id":2381,"lemma":"Pluralismus","n":1}],
  "register":[
   {"term":"Fruchtbarkeit","qualifier":"(Feyerabend)","band":null,"col":null},
-  {"term":"kritischer (Popper) 8 49–52 s. auch","qualifier":"(Feyerabend)","band":null,"col":null},
   {"term":"principle of proliferation","qualifier":"(Feyerabend)","band":null,"col":null}
  ],
  "persons":[

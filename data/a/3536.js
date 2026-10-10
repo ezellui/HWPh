@@ -29,14 +29,16 @@ HWPH.put("a/3536",
   {"id":3067,"lemma":"Subtilität","n":1}
  ],
  "register":[
-  {"term":"(institut. Formen) salto mortale","qualifier":"","band":"12","col":"179"},
-  {"term":"Ahnung","qualifier":"","band":"12","col":"179"},
+  {"term":"Ahndung","qualifier":"","band":"12","col":"179"},
   {"term":"Evidenzgefühl","qualifier":"","band":"12","col":"179f."},
+  {"term":"Gefühl der Wahrheit","qualifier":"","band":null,"col":null},
+  {"term":"salto mortale","qualifier":"","band":"12","col":"179"},
   {"term":"sensus veri","qualifier":"","band":"12","col":"179"},
   {"term":"sentiment of truth","qualifier":"","band":null,"col":null},
   {"term":"Sprung","qualifier":"","band":"12","col":"179"},
   {"term":"Überzeugungsgefühl","qualifier":"","band":"12","col":"179"},
-  {"term":"Urteilskraft","qualifier":"","band":"12","col":"180"}
+  {"term":"Urteilskraft","qualifier":"","band":"12","col":"180"},
+  {"term":"Wahrheitssinn","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},

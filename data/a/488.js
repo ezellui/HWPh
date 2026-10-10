@@ -20,16 +20,7 @@ HWPH.put("a/488",
  "register":[
   {"term":"Charakterkunde","qualifier":"","band":null,"col":null},
   {"term":"Persönlichkeitspsychologie","qualifier":"","band":"1","col":"995"},
-  {"term":"Typologie (psych.)","qualifier":"","band":"1","col":"995"},
-  {
-   "term":"– I (allg.) 7 345–352 – II (psych.) 7 352–354 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
-  {"term":"– II (psych ) 1 991f s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 8 1268–1271 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (psych.) 2 337–339 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Typologie (psych.)","qualifier":"","band":"1","col":"995"}
  ],
  "persons":[
   {"id":1531,"name":"R. Heiss","b":2,"n":2,"l":1,"editor":0,"role":"scholar"},

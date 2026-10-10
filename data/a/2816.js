@@ -18,7 +18,6 @@ HWPH.put("a/2816",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"3d","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Seinsfrage","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Sinn von Sein","qualifier":"(Heidegger)","band":null,"col":null}
  ],
@@ -27,7 +26,10 @@ HWPH.put("a/2816",
   {"id":1714,"name":"J. Stallmach","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":527,"lemma":"Dasein","tf":7},{"id":1310,"lemma":"Horizont","tf":3}],
- "see_also":[{"id":967,"lemma":"Fundamentalontologie"},{"id":3205,"lemma":"Topologie"}],
+ "see_also":[
+  {"id":967,"lemma":"Fundamentalontologie"},
+  {"id":3206,"lemma":"Topologie des Seins; Ortschaft des Seins"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Seinsverständnis (Heidegger)"}],
  "reg_authors":[{"name":"Probst Peter","n":51}]
 }

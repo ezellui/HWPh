@@ -45,14 +45,15 @@ HWPH.put("a/3692",
   {"term":"credulity","qualifier":"I (erk.)","band":"12","col":"1322"},
   {"term":"Glaubwürdigkeit","qualifier":"I (erk.)","band":"12","col":"1321"},
   {"term":"Leichtgläubigkeit","qualifier":"I (erk.)","band":"12","col":"1319"},
+  {"term":"martyriocritica","qualifier":"I (erk.)","band":"12","col":"1320"},
   {"term":"témoignage","qualifier":"","band":null,"col":null},
   {"term":"testimonium","qualifier":"","band":null,"col":null},
   {"term":"testis oculatus/immediatus","qualifier":"","band":"12","col":"1318"},
   {"term":"Wahrhaftigkeit","qualifier":"","band":"12","col":"1322"},
   {"term":"Wahrheitszeugen","qualifier":"II (theol.)","band":"12","col":"1328"},
   {"term":"witness","qualifier":"","band":null,"col":null},
-  {"term":"μάρτυς","qualifier":"II (theol.)","band":null,"col":null},
-  {"term":"– I (rhet.) 1 724–727 s. auch","qualifier":"I (erk.)","band":null,"col":null}
+  {"term":"Zeichen (theol.)","qualifier":"II (theol.)","band":"12","col":"1327"},
+  {"term":"μάρτυς","qualifier":"II (theol.)","band":null,"col":null}
  ],
  "persons":[
   {"id":4532,"name":"C. A. J. Coady","b":2,"n":6,"l":1,"editor":0,"role":"mixed"},
@@ -197,7 +198,7 @@ HWPH.put("a/3692",
   {"id":309,"lemma":"Aussage","tf":5},
   {"id":3414,"lemma":"Verkündigung; Verkünden","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":333,"lemma":"Autorität"},{"id":1560,"lemma":"Kerygma"}],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Zeuge; Zeugnis I (erk.)"},
   {"id":44,"name":"Theologie","label":"Zeuge; Zeugnis II (theol.)"}

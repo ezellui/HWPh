@@ -49,6 +49,7 @@ HWPH.put("a/2884",
   {"term":"inconscient","qualifier":"II (psych.)","band":"9","col":"757"},
   {"term":"jeu de différences","qualifier":"II (psych.)","band":"9","col":"758"},
   {"term":"linguisterie","qualifier":"II (psych.)","band":"9","col":"757"},
+  {"term":"Mangel an Sein","qualifier":"II (psych.)","band":"9","col":"757"},
   {"term":"manque de l'être","qualifier":"II (psych.)","band":"9","col":"757"},
   {"term":"Metapher","qualifier":"II (psych.)","band":"9","col":"757"},
   {"term":"Metonymie","qualifier":"II (psych.)","band":"9","col":"757"},
@@ -118,11 +119,15 @@ HWPH.put("a/2884",
   {"id":1099,"lemma":"Gesellschaft","tf":2},
   {"id":3047,"lemma":"Subjekt","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":235,"lemma":"Arbiträr"},
+  {"id":1728,"lemma":"Langue/Parole"},
+  {"id":2506,"lemma":"Psychoanalyse"}
+ ],
  "groups":[
   {"id":20,"name":"Linguistik","label":"Signifiant/signifié I (ling.)"},
   {"id":35,"name":"Psychoanalyse","label":"Signifiant/signifié II (psych.)"}
  ],
- "reg_authors":[{"name":"Bormann Claus von","n":9},{"name":"Red","n":242},{"name":"Schwarz Hans","n":16}]
+ "reg_authors":[{"name":"Bormann Claus von","n":9},{"name":"Red","n":241},{"name":"Schwarz Hans","n":16}]
 }
 );

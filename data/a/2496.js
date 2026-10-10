@@ -18,6 +18,7 @@ HWPH.put("a/2496",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Cytoplast","qualifier":"D","band":null,"col":null},
   {"term":"Energide","qualifier":"","band":null,"col":null},
   {"term":"erstgebildet","qualifier":"","band":null,"col":null},
   {"term":"πρωτόπλαστος","qualifier":"","band":null,"col":null}

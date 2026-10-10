@@ -36,6 +36,7 @@ HWPH.put("a/2904",
  "outlinks":[{"id":1186,"lemma":"Grenzsituation","n":1}],
  "register":[
   {"term":"behavior setting","qualifier":"II (psych./soz.)","band":"9","col":"935"},
+  {"term":"Bildung","qualifier":"II (psych./soz.)","band":"9","col":"930ff."},
   {"term":"Entscheidungssituation","qualifier":"I (anthr.)","band":"9","col":"926"},
   {"term":"Entschlossenheit","qualifier":"I (anthr.)","band":"9","col":"925"},
   {"term":"environmental situation","qualifier":"II (psych./soz.)","band":"9","col":"932"},
@@ -48,10 +49,10 @@ HWPH.put("a/2904",
   {"term":"setting","qualifier":"II (psych./soz.)","band":"9","col":"935"},
   {"term":"Situagenie","qualifier":"II (psych./soz.)","band":"9","col":"930"},
   {"term":"Situationsethik","qualifier":"I (anthr.)","band":"9","col":"926"},
+  {"term":"Synthesis","qualifier":"","band":null,"col":null},
   {"term":"Umwelt","qualifier":"II (psych./soz.)","band":null,"col":null},
   {"term":"Wahlsituation","qualifier":"I (anthr.)","band":"9","col":"926"},
-  {"term":"Wesensethik","qualifier":"I (anthr.)","band":"9","col":"926ff."},
-  {"term":"– V (ling.) 7 335–338 Person","qualifier":"II (psych./soz.)","band":"9","col":"930ff."}
+  {"term":"Wesensethik","qualifier":"I (anthr.)","band":"9","col":"926ff."}
  ],
  "persons":[
   {"id":42,"name":"K. Jaspers","b":3,"n":5,"l":0,"editor":0,"role":"source"},
@@ -204,7 +205,11 @@ HWPH.put("a/2904",
   {"id":869,"lemma":"Existenzphilosophie","tf":2},
   {"id":904,"lemma":"Feld, Feldtheorie","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":360,"lemma":"Befindlichkeit"},
+  {"id":1186,"lemma":"Grenzsituation"},
+  {"id":3604,"lemma":"Widerfahrnis"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Situation I (anthr.)"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Situation I (anthr.)"},

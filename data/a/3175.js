@@ -23,10 +23,9 @@ HWPH.put("a/3175",
  ],
  "outlinks":[],
  "register":[
-  {"term":"3d 6 1197","qualifier":"","band":"10","col":"1112"},
-  {"term":"dialektische 10 1099","qualifier":"","band":"10","col":"1112f."},
+  {"term":"bzw. vernünftige","qualifier":"","band":null,"col":null},
+  {"term":"Differenz, ontologische","qualifier":"","band":"10","col":"1112"},
   {"term":"Logik, theologische","qualifier":"","band":"10","col":"1112"},
-  {"term":"natürliche bzw. vernünftige","qualifier":"","band":null,"col":null},
   {"term":"Onto-Theo-Logik","qualifier":"","band":"10","col":"1112"},
   {"term":"übersetzen; übertragen","qualifier":"","band":"10","col":"1113"},
   {"term":"Wahrheit","qualifier":"","band":"10","col":"1113"},
@@ -52,7 +51,7 @@ HWPH.put("a/3175",
   {"id":2066,"lemma":"Name","tf":2},
   {"id":3635,"lemma":"Wissenschaft","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":816,"lemma":"Erste Philosophie"},{"id":1944,"lemma":"Metaphysik"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Theologik"}],
  "reg_authors":[{"name":"Kremer Klaus","n":8}]
 }

@@ -1,0 +1,16 @@
+HWPH.put("p/73-62",
+{"sb":[["SB","fc:;;23i,7,4,6,6 223:;;if,5t,12"],["Sb","vv:;;;16 xq:;;1bm mq:;;1gk,h 7k:;;;y"]],
+"sb3jjt":[["sb3jjt","259:;2yp"]],
+"sbaw":[["SBAW","y1:;;2y"]],
+"sbd":[["Sbd","1f8:;;2g6"]],
+"sbedurftigkeit":[["sbedürftigkeit","259:;4n1"]],
+"sber":[["Sber","v:;;;7l 1h:;;1o 26:;;4 d:;;;p 1:;;;2n 26:;;;6q 1l:;;c5 3g:;;qm,qd 2r:;;1b 1:;;cm 1c:;;wf d:;;6p x:;;3n 3m:;;;2a a:;;1o 2:;;3e 36:;;2t r:;;5r h:;;1r b:;;;l 29:;;2p 2c:;;1v2 g:;;l 28:;;4d s:;;;o g:;;31 1v:;;50 35:;;15 x:;;10 u:;;7z;3o 5:;;27 x:;;;3a e:;;;m0 e:;;39 1a:;;2s 1:;;;a v:;;2h 1a:;;18a d:;;;2b k:;;;a 1:;;2ly 2j:;;x0,11v b:;;8v 26:;;t7,31r e:;;;jm d:;;;26 1j:;;14;d 1u:;;;59 a:;;nb g:;;t4 1:;;;ae l:;;;bi,7i 17:;;8g i:;;5 b:;;;14 j:;;;aj,32,2f 2m:;;bn 19:;;;2n z:;;3j1,2cs,jfx,3sf,ob 2:;;;44 d:;;jl 1j:;;3r 38:;;dn,cv 13:;;2ac;vf 1:;;m2 1i:;;;27 8:;;6y 19:;;22m,3q r:;;uk 2:;;t5 3:;;8 e:;;f4 6:;;;6o g:;;;v p:;;20i 2:;;f9,hj 3:;;1t i:;;;n6 3:;;5n 1:;;4l7 2z:;;mn 22:;;o 9:;;1av 9:;;ef j:;;ma e:;;1sk x:;;rh q:;;m e:;;;2v 14:;;2c s:;;;4,bu 1b:;;ko f:;;u0 52:;;5wi 1h:;;;f v:;;r2 1c:;;62 2:;;;8 5:;;iu s:;;;1g 14:;;ey 1:;;27 5:;;ac 3:;;;h o:;;il 7:;;i 1:;;9q a:;;ao r:;;98"]],
+"sberg":[["SBERG","246:;;;17"]],
+"sbisa":[["SBISÀ","1vm:;;;cn"]],
+"sbo":[["SBO","25c:;;1x4,p"]],
+"sbogar":[["SBOGAR","2qc:;;14d,fx,16"]],
+"sbordone":[["SBORDONE","1ud:;;rg"]],
+"sbornik":[["Sbornik","x5:;;im 7j:;;d0 6t:;;b3;9 20:;;37 1r:;;2g1 16:;;;1r 2:;;;e 6z:;;;f9 nv:;;3ub"]],
+"sborniki":[["Sborniki","2mc:;;36"]],
+"sbz":[["SBZ","29v:;;;1t el:;2bd,av"]]}
+);

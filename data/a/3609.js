@@ -29,17 +29,15 @@ HWPH.put("a/3609",
   {"id":3484,"lemma":"Vollständigkeit/Unvollständigkeit","n":1}
  ],
  "register":[
+  {"term":"actus exercitus/signatus","qualifier":"","band":"12","col":"700"},
+  {"term":"consistency","qualifier":"","band":null,"col":null},
+  {"term":"Implikation, kontextuelle","qualifier":"","band":"12","col":"700"},
   {"term":"Konsistenz","qualifier":"","band":null,"col":null},
+  {"term":"kontextuelle Implikation","qualifier":"","band":"12","col":"700"},
+  {"term":"Moore's paradox","qualifier":"","band":"12","col":"700"},
   {"term":"Parallelenaxiom","qualifier":"","band":"12","col":"701"},
-  {"term":"performativer","qualifier":"","band":null,"col":null},
-  {"term":"Satz vom (ausgeschlossenen) Widerspruch","qualifier":"","band":null,"col":null},
-  {"term":"tertium non datur","qualifier":"","band":"12","col":"701"},
-  {
-   "term":"vom (ausgeschlossenen)Widerspruch 8 1202- 1205 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"principle of non-contradiction","qualifier":"","band":null,"col":null},
+  {"term":"tertium non datur","qualifier":"","band":"12","col":"701"}
  ],
  "persons":[
   {"id":211,"name":"D. Hilbert","b":2,"n":3,"l":1,"editor":0,"role":"source"},

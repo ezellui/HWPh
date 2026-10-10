@@ -26,6 +26,7 @@ HWPH.put("a/2067",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"Heiligung des Namens","qualifier":"I","band":"6","col":"392f."},
   {"term":"Jahwe","qualifier":"I","band":null,"col":null},
   {"term":"Tetragrammaton","qualifier":"I","band":null,"col":null}

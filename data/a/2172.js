@@ -18,16 +18,10 @@ HWPH.put("a/2172",
  "backlinks":[{"id":2340,"lemma":"Phänomen","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Erscheinung","qualifier":"(Kant)","band":null,"col":null},
   {"term":"Grenzbegriff","qualifier":"(Kant)","band":"6","col":"987"},
   {"term":"Phaenomenon","qualifier":"(Kant)","band":null,"col":null},
-  {"term":"phaenomenon (Kant)","qualifier":"(Kant)","band":null,"col":null},
-  {
-   "term":"transzendentaler; Realismus, empirischer (Kant)",
-   "qualifier":"(Kant)",
-   "band":null,
-   "col":null
-  },
-  {"term":"– I (erk.) 3 129–133 s. auch","qualifier":"(Kant)","band":null,"col":null}
+  {"term":"phaenomenon (Kant)","qualifier":"(Kant)","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -58,6 +52,6 @@ HWPH.put("a/2172",
   {"id":2893,"lemma":"Sinnenwelt/Verstandeswelt"}
  ],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Noumenon/Phaenomenon (Kant)"}],
- "reg_authors":[{"name":"Herring Herbert","n":5},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Herring Herbert","n":5},{"name":"Red","n":241}]
 }
 );

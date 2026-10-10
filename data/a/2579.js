@@ -31,7 +31,11 @@ HWPH.put("a/2579",
  "next":{"id":2580,"lemma":"Raum, logischer","band":"8","col":121},
  "backlinks":[{"id":3539,"lemma":"Wahrnehmung","n":3}],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Egozentrismus","qualifier":"","band":"8","col":"117f."},
+  {"term":"Niveau, psychophysisches","qualifier":"","band":"8","col":"117"},
+  {"term":"Realismus, ökologischer","qualifier":"","band":"8","col":"118"}
+ ],
  "persons":[
   {"id":135,"name":"W. James","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":2,"name":"Aristoteles","b":2,"n":1,"l":0,"editor":0,"role":"source"},

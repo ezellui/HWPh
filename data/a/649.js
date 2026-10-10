@@ -25,6 +25,7 @@ HWPH.put("a/649",
   {"term":"invisible religion","qualifier":"","band":"2","col":"309"},
   {"term":"Kirche en miniature","qualifier":"","band":"2","col":"308"},
   {"term":"Kirche, sichtbare/unsichtbare","qualifier":"","band":null,"col":null},
+  {"term":"Unsichtbarkeit der Kirche","qualifier":"","band":null,"col":null},
   {"term":"ἐκκλησία οὐράνιος","qualifier":"","band":"2","col":"306"},
   {"term":"ἐκκλησία πνευματική","qualifier":"","band":"2","col":"306"},
   {"term":"ἐπίσκοπος βλεπόμενος/ἀόρατος","qualifier":"","band":"2","col":"306"}

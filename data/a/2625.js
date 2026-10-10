@@ -24,10 +24,9 @@ HWPH.put("a/2625",
  ],
  "outlinks":[{"id":778,"lemma":"Epoché","n":1}],
  "register":[
-  {"term":"3a","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"eidetische Reduktion","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Eidos","qualifier":"(Husserl)","band":"8","col":"374f."},
-  {"term":"– II (Husserl) 3 269f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"Variation, eidetische","qualifier":"(Husserl)","band":"8","col":"375"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},

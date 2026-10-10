@@ -109,6 +109,6 @@ HWPH.put("a/3151",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Terminismus"},
   {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Terminismus"}
  ],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

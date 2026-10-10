@@ -1,15 +1,5 @@
 HWPH.put("r/70-66",
 [
- [
-  "Pflichtenkollision","Pflichtenkollision","",null,null,"main",2336,"Pflichtenkollision",
-  "pflichtenkollision"
- ],
- ["Pflanze","Pflanze","",null,null,"main",2332,"Pflanze","pflanze"],
- [
-  "Pflichtenkollision","Pflichtenkollision","",null,null,"main",2336,"Pflichtenkollision",
-  "pflichtenkollision"
- ],
- ["Pflanze","Pflanze","","7","398","main",2332,"Pflanze","pflanze"],
  ["Pfad","Weg","","12","341","ref",3551,"Weg","pfad"],
  ["Pfaffenglauben","Religionskritik","","8","737","ref",2677,"Religionskritik","pfaffenglauben"],
  ["Pfaffentum","Fetischismus","II","2","941","ref",911,"Fetischismus","pfaffentum"],
@@ -38,21 +28,7 @@ HWPH.put("r/70-66",
  ["Pflanzenseele","Vegetativ","","11","561","ref",3378,"Vegetativ","pflanzenseele"],
  ["Pflicht","Pflicht","","7","405–433","main",2334,"Pflicht","pflicht"],
  ["Pflicht","Imperativ, kategorischer","",null,null,"see",null,null,"pflicht"],
- [
-  "Pflicht","Obligatio; Ars obligatoria I (eth.)","",null,null,"see",2194,
-  "Obligatio, Ars obligatoria","pflicht"
- ],
- ["Pflicht","Officium","",null,null,"see",2207,"Officium","pflicht"],
- [
-  "Pflicht","Pflichten, unvollkommene/vollkommene","",null,null,"see",2335,
-  "Pflichten, unvollkommene/vollkommene","pflicht"
- ],
- ["Pflicht","Pflichtenkollision","",null,null,"see",2336,"Pflichtenkollision","pflicht"],
- ["Pflicht","Pflichtenlehre","",null,null,"see",2337,"Pflichtenlehre","pflicht"],
- ["Pflicht","Rat","II",null,null,"see",2569,"Rat","pflicht"],
- ["Pflicht","Rechtspflicht","",null,null,"see",2613,"Rechtspflicht","pflicht"],
- ["Pflicht","Sollen","",null,null,"see",2920,"Sollen","pflicht"],
- ["Pflicht","Supererogation","",null,null,"see",3079,"Supererogation","pflicht"],
+ ["Pflicht","Obligatio; Ars","",null,null,"see",2194,"Obligatio, Ars obligatoria","pflicht"],
  ["Pflicht","Freiheit","I","2","1070","ref",946,"Freiheit","pflicht"],
  ["Pflicht","Freiheit","II","2","1076","ref",946,"Freiheit","pflicht"],
  ["Pflicht","Intuitionismus","II (eth.)","4","542f.","ref",1488,"Intuitionismus","pflicht"],
@@ -71,8 +47,12 @@ HWPH.put("r/70-66",
   "pflichten, innerliche/ausserliche"
  ],
  [
-  "Pflichten, unvollkommene/vollkommene","Pflichten, unvollkommene/vollkommene","","7","433","main",
-  2335,"Pflichten, unvollkommene/vollkommene","pflichten, unvollkommene/vollkommene"
+  "Pflichten, unvollkommene/vollkommene","Pflichten, unvollkommene/vollkommene","","7","433- 439",
+  "main",2335,"Pflichten, unvollkommene/vollkommene","pflichten, unvollkommene/vollkommene"
+ ],
+ [
+  "Pflichten, unvollkommene/vollkommene","Pflicht","",null,null,"see",2334,"Pflicht",
+  "pflichten, unvollkommene/vollkommene"
  ],
  ["Pflichten gegen Gott","Ethik","V","2","780","ref",835,"Ethik","pflichten gegen gott"],
  [
@@ -81,9 +61,10 @@ HWPH.put("r/70-66",
  ],
  ["Pflichtenkollision","Pflicht","",null,null,"see",2334,"Pflicht","pflichtenkollision"],
  [
-  "Pflichtenkollision","Unterlassung Pflichtenkollision","",null,null,"see",null,null,
+  "Pflichtenkollision","Unterlassung","",null,null,"see",3325,"Unterlassung; Unterlassen",
   "pflichtenkollision"
  ],
+ ["Pflichtenkollision","Versprechen","","11","907","ref",3435,"Versprechen","pflichtenkollision"],
  ["Pflichtenlehre","Pflichtenlehre","","7","456–458","main",2337,"Pflichtenlehre","pflichtenlehre"],
  ["Pflichtenlehre","Pflicht","",null,null,"see",2334,"Pflicht","pflichtenlehre"],
  ["Pflichtenlehre, ethische","Sitte","","9","901","ref",2902,"Sitte","pflichtenlehre, ethische"],
@@ -101,8 +82,8 @@ HWPH.put("r/70-66",
   "pflichtgemass"
  ],
  [
-  "pflichtgemäss","Moralität; Sittlichkeit (Hegel)","","6","185","ref",2029,
-  "Moralität, Sittlichkeit","pflichtgemass"
+  "pflichtgemäss","Moralität; Sittlichkeit","(Hegel)","6","185","ref",2029,"Moralität, Sittlichkeit",
+  "pflichtgemass"
  ],
  ["pflichtgemäss","Naturrecht","IV 4","6","595","ref",2089,"Naturrecht","pflichtgemass"],
  ["pflichtgemäss","Zurechnung","I (jur.)","12","1447","ref",3712,"Zurechnung","pflichtgemass"],

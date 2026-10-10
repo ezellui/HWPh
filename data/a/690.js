@@ -20,9 +20,7 @@ HWPH.put("a/690",
  "register":[
   {"term":"cogitatio formata","qualifier":"","band":"2","col":"416"},
   {"term":"Glanz der Weisheit","qualifier":"","band":"2","col":"416"},
-  {"term":"splendor sapientiae","qualifier":"","band":"2","col":"416"},
-  {"term":"– I (theol.) 4 401–403 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 12 1030–1036 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"splendor sapientiae","qualifier":"","band":"2","col":"416"}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":2,"n":1,"l":0,"editor":0,"role":"source"},

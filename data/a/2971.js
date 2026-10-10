@@ -193,6 +193,6 @@ HWPH.put("a/2971",
   {"id":26,"name":"Metaphysik","label":"Sphäre II"},
   {"id":42,"name":"Soziologie","label":"Sphäre I"}
  ],
- "reg_authors":[{"name":"Edel Susanne","n":2},{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Edel Susanne","n":2},{"name":"Hühn Helmut","n":52}]
 }
 );

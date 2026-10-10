@@ -17,10 +17,7 @@ HWPH.put("a/977",
  "next":{"id":978,"lemma":"Funktionskreis","band":"2","col":1146},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"employé","qualifier":"","band":"2","col":"1146"},
-  {"term":"– I (pol.) 1 210–212 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"employé","qualifier":"","band":"2","col":"1146"}],
  "persons":[
   {"id":416,"name":"E. Burke","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":900,"name":"A. R. J. Turgot","b":1,"n":1,"l":0,"editor":0,"role":"source"},

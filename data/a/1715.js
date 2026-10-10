@@ -29,7 +29,7 @@ HWPH.put("a/1715",
  ],
  "outlinks":[{"id":2387,"lemma":"Poesie","n":1}],
  "register":[
-  {"term":"Literaturkritik Literaturpsycholgie","qualifier":"","band":"4","col":"1448"},
+  {"term":"Literaturpsycholgie","qualifier":"","band":"4","col":"1448"},
   {"term":"Literatursoziologie","qualifier":"","band":"4","col":"1448"},
   {"term":"Philosoph","qualifier":"","band":"4","col":"1443f."}
  ],

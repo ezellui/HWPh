@@ -38,13 +38,12 @@ HWPH.put("a/2005",
  ],
  "outlinks":[{"id":746,"lemma":"Entelechie","n":1}],
  "register":[
-  {"term":"III-IV","qualifier":"","band":"6","col":"87"},
+  {"term":"Erfahrung","qualifier":"","band":"6","col":"87"},
   {"term":"possibilitas","qualifier":"","band":null,"col":null},
   {"term":"Vermögen","qualifier":"","band":null,"col":null},
   {"term":"δύναμις","qualifier":"","band":null,"col":null},
   {"term":"ἐνδεχόμενον","qualifier":"","band":"6","col":"77f."},
-  {"term":"ἐντελέχεια","qualifier":"","band":null,"col":null},
-  {"term":"– I (philos.) 4 1027–1034 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἐντελέχεια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":3,"n":3,"l":0,"editor":0,"role":"source"},

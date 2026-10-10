@@ -19,6 +19,7 @@ HWPH.put("a/1205",
  "outlinks":[],
  "register":[
   {"term":"benignitas","qualifier":"","band":null,"col":null},
+  {"term":"bonitas","qualifier":"","band":null,"col":null},
   {"term":"Helfenwollen","qualifier":"","band":"3","col":"977"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Wohlwollen","qualifier":"","band":"3","col":"977"}

@@ -30,6 +30,7 @@ HWPH.put("a/2322",
  "register":[
   {"term":"Bewusstsein, kritisches","qualifier":"I (allg.)","band":"7","col":"350"},
   {"term":"Bourgeois","qualifier":"I (allg.)","band":"7","col":"349"},
+  {"term":"Einheit von Fühlen, Denken, Wollen","qualifier":"II (psych.)","band":"7","col":"352"},
   {"term":"Entfaltung der Persönlichkeit","qualifier":"I (allg.)","band":"7","col":"350"},
   {"term":"Gedächtnis","qualifier":"I (allg.)","band":"7","col":"345"},
   {"term":"Gottes Persönlichkeit","qualifier":"I (allg.)","band":"7","col":"348f."},
@@ -38,13 +39,12 @@ HWPH.put("a/2322",
   {"term":"personalitas","qualifier":"","band":null,"col":null},
   {"term":"personality","qualifier":"","band":null,"col":null},
   {"term":"Persönlichkeit, höchste","qualifier":"I (allg.)","band":"7","col":"348"},
-  {"term":"primäres/sekundäres (Reininger)","qualifier":"I (allg.)","band":null,"col":null},
+  {"term":"Selbstbewusstsein","qualifier":"I (allg.)","band":null,"col":null},
   {"term":"Selbstleben","qualifier":"I (allg.)","band":"7","col":"349"},
   {"term":"Sinn aller Sinne","qualifier":"I (allg.)","band":"7","col":"347"},
   {"term":"Weltmaschine","qualifier":"I (allg.)","band":"7","col":"346"},
   {"term":"Wertganze, das","qualifier":"I (allg.)","band":"7","col":"349"},
-  {"term":"Würde","qualifier":"I (allg.)","band":"7","col":"346"},
-  {"term":"– II (psych ) 1 991f s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"Würde","qualifier":"I (allg.)","band":"7","col":"346"}
  ],
  "persons":[
   {"id":4992,"name":"M. Amelang","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},
@@ -194,7 +194,15 @@ HWPH.put("a/2322",
   {"id":2998,"lemma":"Staat","tf":4},
   {"id":2893,"lemma":"Sinnenwelt/Verstandeswelt","tf":2}
  ],
- "see_also":[{"id":2318,"lemma":"Person"}],
+ "see_also":[
+  {"id":2318,"lemma":"Person"},
+  {"id":488,"lemma":"Charakterologie"},
+  {"id":666,"lemma":"Eigenschaft"},
+  {"id":889,"lemma":"Faktorenanalyse"},
+  {"id":2513,"lemma":"Psychologie, differentielle"},
+  {"id":2820,"lemma":"Selbst"},
+  {"id":3148,"lemma":"Temperament"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Persönlichkeit I (allg.)"},
   {"id":36,"name":"Psychologie","label":"Persönlichkeit II (psych.)"},

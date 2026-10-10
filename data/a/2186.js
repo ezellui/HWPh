@@ -32,6 +32,6 @@ HWPH.put("a/2186",
  ],
  "see_also":[{"id":3620,"lemma":"Wille"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Objektität (Schopenhauer)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

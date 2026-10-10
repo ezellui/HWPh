@@ -21,8 +21,7 @@ HWPH.put("a/141",
   {"term":"erlernt","qualifier":"","band":null,"col":null},
   {"term":"erworben","qualifier":"","band":null,"col":null},
   {"term":"Modifikation","qualifier":"","band":"1","col":"302"},
-  {"term":"Variationsbreite (biol.)","qualifier":"","band":"1","col":"302f."},
-  {"term":"– II (psych.) 1 325 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Variationsbreite (biol.)","qualifier":"","band":"1","col":"302f."}
  ],
  "persons":[
   {"id":1947,"name":"H. Spemann","b":1,"n":0,"l":1,"editor":0,"role":"scholar"},

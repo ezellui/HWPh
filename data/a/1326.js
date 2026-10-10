@@ -57,7 +57,7 @@ HWPH.put("a/1326",
   {"id":1769,"lemma":"Leib, Körper","tf":3},
   {"id":723,"lemma":"Empfindung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1332,"lemma":"Hysterie, hysterisch"}],
  "groups":[{"id":34,"name":"Psychiatrie","label":"Hypochondrie"}],
  "reg_authors":[{"name":"Kehrer Hans E","n":4}]
 }

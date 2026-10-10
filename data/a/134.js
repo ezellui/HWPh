@@ -39,6 +39,7 @@ HWPH.put("a/134",
   {"term":"dissolutio imperii","qualifier":"","band":"1","col":"271"},
   {"term":"Föderalismus","qualifier":"","band":"1","col":"280f."},
   {"term":"Gesetzlosigkeit","qualifier":"","band":null,"col":null},
+  {"term":"Herrschaftslosigkeit","qualifier":"","band":null,"col":null},
   {"term":"inordinatio","qualifier":"","band":"1","col":"268"},
   {"term":"Kommunismus","qualifier":"","band":"1","col":"284ff."},
   {"term":"kommunistischer Anarchismus","qualifier":"","band":"1","col":"284"},
@@ -55,8 +56,7 @@ HWPH.put("a/134",
   {"term":"ἀναρχία","qualifier":"","band":null,"col":null},
   {"term":"ἀνομία","qualifier":"","band":null,"col":null},
   {"term":"μόναρχον","qualifier":"","band":"1","col":"268"},
-  {"term":"πολύαρχον","qualifier":"","band":"1","col":"268"},
-  {"term":"– I (allg.) 2 132–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"πολύαρχον","qualifier":"","band":"1","col":"268"}
  ],
  "persons":[
   {"id":5914,"name":"R. Rocker","b":2,"n":4,"l":0,"editor":0,"role":"source"},

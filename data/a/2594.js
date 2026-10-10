@@ -25,17 +25,16 @@ HWPH.put("a/2594",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Anpassung","qualifier":"","band":"8","col":"211"},
   {"term":"Gesundheit zum Tode","qualifier":"","band":"8","col":"211"},
   {"term":"Kultur","qualifier":"","band":"8","col":"211f."},
   {"term":"Leistungsprinzip","qualifier":"","band":"8","col":"212"},
   {"term":"Lust-Ich/Real-Ich","qualifier":"","band":"8","col":"211"},
   {"term":"principe de réalité","qualifier":"","band":null,"col":null},
+  {"term":"Psychologie","qualifier":"","band":"8","col":"211"},
   {"term":"Realitätsverlust","qualifier":"","band":"8","col":"211"},
   {"term":"Selbstbehauptung","qualifier":"","band":"8","col":"211"},
   {"term":"Selbsterhaltung","qualifier":"","band":"8","col":"211"},
-  {"term":"Sublimierung, nicht-repressive","qualifier":"","band":"8","col":"212"},
-  {"term":"– VI B (psych.) 12 113–115 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Sublimierung, nicht-repressive","qualifier":"","band":"8","col":"212"}
  ],
  "persons":[
   {"id":127,"name":"H. Marcuse","b":1,"n":2,"l":0,"editor":0,"role":"source"},

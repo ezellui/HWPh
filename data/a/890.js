@@ -25,6 +25,8 @@ HWPH.put("a/890",
  "register":[
   {"term":"Abfall","qualifier":"","band":null,"col":null},
   {"term":"Absonderung","qualifier":"","band":"2","col":"892"},
+  {"term":"Abstieg","qualifier":"","band":"2","col":"889"},
+  {"term":"apostasia","qualifier":"","band":null,"col":null},
   {"term":"auslaufen","qualifier":"","band":"2","col":"891"},
   {"term":"Böse, das","qualifier":"","band":null,"col":null},
   {"term":"discessio","qualifier":"","band":null,"col":null},

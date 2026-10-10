@@ -32,7 +32,7 @@ HWPH.put("a/197",
   {"id":1577,"name":"H. G. Steiner","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1896,"lemma":"Mathematik","tf":2},{"id":707,"lemma":"Element","tf":2}],
- "see_also":[],
+ "see_also":[{"id":3670,"lemma":"Zahl; Zählen"}],
  "groups":[{"id":24,"name":"Mathematik","label":"Anzahl/Ordnungszahl"}],
  "reg_authors":[{"name":"Thiel Christian","n":11}]
 }

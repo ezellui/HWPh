@@ -20,9 +20,7 @@ HWPH.put("a/976",
  "register":[
   {"term":"Behaviorismus","qualifier":"","band":"2","col":"1144"},
   {"term":"Strukturalismus (psych.)","qualifier":"","band":"2","col":"1144"},
-  {"term":"Wahrnehmungstheorie, transaktionale","qualifier":"","band":"2","col":"1145"},
-  {"term":"– III (psych.) 2 1141f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (psych.) 7 1394–1396 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wahrnehmungstheorie, transaktionale","qualifier":"","band":"2","col":"1145"}
  ],
  "persons":[
   {"id":135,"name":"W. James","b":2,"n":1,"l":0,"editor":0,"role":"source"},

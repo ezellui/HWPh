@@ -28,8 +28,7 @@ HWPH.put("a/624",
   {"term":"Maximum/Minimum","qualifier":"(Cusanus)","band":"2","col":"274"},
   {"term":"Minimum/Maximum","qualifier":"(Cusanus)","band":"2","col":"274"},
   {"term":"Nichtbegreifen","qualifier":"(Cusanus)","band":"2","col":"273"},
-  {"term":"Wissen des Nichtwissens","qualifier":"(Cusanus)","band":null,"col":null},
-  {"term":"– II (Cusanus) 7 1215f. s. auch","qualifier":"(Cusanus)","band":null,"col":null}
+  {"term":"Wissen des Nichtwissens","qualifier":"(Cusanus)","band":null,"col":null}
  ],
  "persons":[
   {"id":51,"name":"Nikolaus von Kues","b":2,"n":3,"l":0,"editor":0,"role":"source"},

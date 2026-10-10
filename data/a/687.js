@@ -22,6 +22,6 @@ HWPH.put("a/687",
  "mentions":[],
  "see_also":[{"id":3050,"lemma":"Subjekt/Prädikat"}],
  "groups":[{"id":22,"name":"Logik","label":"Einordnung"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

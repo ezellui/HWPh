@@ -17,7 +17,10 @@ HWPH.put("a/1045",
  "next":{"id":1046,"lemma":"Geltungstheorie","band":"3","col":237},
  "backlinks":[{"id":3038,"lemma":"Streben","n":1},{"id":3259,"lemma":"Überkompensation","n":1}],
  "outlinks":[{"id":61,"lemma":"Aggression","n":1}],
- "register":[{"term":"Überlegenheitsgefühl","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
+  {"term":"Überlegenheitsgefühl","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":310,"name":"A. Adler","b":1,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":177,"name":"L. Klages","b":1,"n":2,"l":0,"editor":0,"role":"source"},

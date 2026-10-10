@@ -31,20 +31,14 @@ HWPH.put("a/2461",
   {"term":"absentia formae","qualifier":"","band":"7","col":"1380"},
   {"term":"Abwesenheit","qualifier":"","band":"7","col":"1378f."},
   {"term":"Beraubung","qualifier":"","band":null,"col":null},
-  {
-   "term":"C(analyt. Philos.) 12 117 coincidentia contrariorum",
-   "qualifier":"",
-   "band":"7",
-   "col":"1380"
-  },
-  {"term":"das 5 3 625 ἀπουσία","qualifier":"","band":"7","col":"1378f."},
-  {"term":"Form und Materie","qualifier":"","band":"7","col":"1379f."},
+  {"term":"coincidentia contrariorum","qualifier":"","band":"7","col":"1380"},
   {"term":"Form/Materie","qualifier":"","band":"7","col":"1379"},
   {"term":"Mangel","qualifier":"","band":null,"col":null},
   {"term":"Mängelwesen","qualifier":"","band":"7","col":"1383"},
-  {"term":"Negativität 6 671–686 s. auch","qualifier":"","band":null,"col":null},
   {"term":"privatio","qualifier":"","band":null,"col":null},
   {"term":"Vergehen","qualifier":"","band":"7","col":"1380"},
+  {"term":"Werden","qualifier":"","band":"7","col":"1379f."},
+  {"term":"ἀπουσία","qualifier":"","band":"7","col":"1378f."},
   {"term":"στέρησις","qualifier":"","band":null,"col":null}
  ],
  "persons":[

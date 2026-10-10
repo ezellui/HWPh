@@ -37,12 +37,13 @@ HWPH.put("a/2463",
   {"id":2548,"lemma":"Quantenmechanik","n":1}
  ],
  "register":[
-  {"term":"Gewissheit, moralische","qualifier":"","band":"7","col":"1391"},
-  {"term":"Moralsystem","qualifier":"","band":"7","col":"1390"},
-  {"term":"opinio probabilis","qualifier":"","band":null,"col":null},
-  {"term":"Probabiliorismus","qualifier":"","band":"7","col":"1390"},
-  {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Zufall","qualifier":"","band":null,"col":null}
+  {"term":"Gewissheit, moralische","qualifier":"II (eth.)","band":"7","col":"1391"},
+  {"term":"Moralsystem","qualifier":"II (eth.)","band":"7","col":"1390"},
+  {"term":"opinio probabilis","qualifier":"II (eth.)","band":null,"col":null},
+  {"term":"Probabiliorismus","qualifier":"II (eth.)","band":"7","col":"1390"},
+  {"term":"s auch","qualifier":"IV (geogr.)","band":null,"col":null},
+  {"term":"Statistik, mathematische","qualifier":"I (wiss.)","band":null,"col":null},
+  {"term":"Zufall","qualifier":"I (wiss.)","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":2,"l":0,"editor":0,"role":"source"},

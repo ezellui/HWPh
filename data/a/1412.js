@@ -28,8 +28,7 @@ HWPH.put("a/1412",
   {"term":"Prinzip der Identität","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"Unterscheidbarkeit","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"Unterschiedenheit","qualifier":"(Leibniz)","band":null,"col":null},
-  {"term":"Ununterscheidbarkeit","qualifier":"(Leibniz)","band":null,"col":null},
-  {"term":"– II (met.) 3 672 s. auch","qualifier":"(Leibniz)","band":null,"col":null}
+  {"term":"Ununterscheidbarkeit","qualifier":"(Leibniz)","band":null,"col":null}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":3,"n":5,"l":0,"editor":0,"role":"source"},

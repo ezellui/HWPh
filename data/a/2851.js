@@ -31,8 +31,7 @@ HWPH.put("a/2851",
   {"term":"oubli de soi-même","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Uneigentlichkeit","qualifier":"","band":"9","col":"548"},
-  {"term":"Verwirrung","qualifier":"","band":"9","col":"548"},
-  {"term":"– I (anthr.) 12 1310–1315 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verwirrung","qualifier":"","band":"9","col":"548"}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":2,"n":3,"l":0,"editor":0,"role":"source"},

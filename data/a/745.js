@@ -19,9 +19,10 @@ HWPH.put("a/745",
  "outlinks":[{"id":747,"lemma":"Entfremdung","n":1}],
  "register":[
   {"term":"alienation","qualifier":"","band":"2","col":"506"},
+  {"term":"Äusserungen des Inneren","qualifier":"","band":null,"col":null},
   {"term":"Entleerung des Inneren","qualifier":"","band":"2","col":"505"},
+  {"term":"Entwirklichung","qualifier":"","band":"2","col":"505"},
   {"term":"extériorisation","qualifier":"","band":"2","col":"506"},
-  {"term":"genetische 7 1659 Entwirklichung","qualifier":"","band":"2","col":"505"},
   {"term":"objectivation","qualifier":"","band":"2","col":"506"},
   {"term":"s auch","qualifier":"","band":null,"col":null}
  ],
@@ -51,7 +52,11 @@ HWPH.put("a/745",
   {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2},
   {"id":3628,"lemma":"Wirklichkeit","tf":2}
  ],
- "see_also":[{"id":230,"lemma":"Arbeit"},{"id":747,"lemma":"Entfremdung"}],
+ "see_also":[
+  {"id":230,"lemma":"Arbeit"},
+  {"id":747,"lemma":"Entfremdung"},
+  {"id":765,"lemma":"Entzweiung, entzweien"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Entäusserung"}],
  "reg_authors":[{"name":"Röttgers Arndt","n":23}]
 }

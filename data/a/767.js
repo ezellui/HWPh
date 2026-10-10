@@ -17,7 +17,7 @@ HWPH.put("a/767",
  "next":{"id":768,"lemma":"Enzyklopädismus","band":"2","col":575},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– VI (lit. Formen) 7 848–858 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":55,"name":"D. Diderot","b":4,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":38,"name":"J.-J. Rousseau","b":2,"n":0,"l":0,"editor":0,"role":"source"},

@@ -37,10 +37,9 @@ HWPH.put("a/3695",
   {"term":"circulus","qualifier":"","band":null,"col":null},
   {"term":"Friessches Trilemma","qualifier":"","band":"12","col":"1338"},
   {"term":"Imprädikativität","qualifier":"","band":"12","col":"1338"},
-  {"term":"kritischer (Popper) 8 49","qualifier":"","band":"12","col":"1338"},
+  {"term":"Rationalismus, kritischer","qualifier":"","band":"12","col":"1338"},
   {"term":"vicious circle","qualifier":"","band":null,"col":null},
-  {"term":"κύκλος","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 9 515f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"κύκλος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":47,"name":"B. Russell","b":1,"n":3,"l":0,"editor":0,"role":"source"},

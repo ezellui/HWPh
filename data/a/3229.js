@@ -68,7 +68,7 @@ HWPH.put("a/3229",
   {"term":"instinct","qualifier":"","band":null,"col":null},
   {"term":"Kunsttrieb","qualifier":"I (allg.)","band":"10","col":"1486f."},
   {"term":"Libido","qualifier":"I (allg.)","band":"10","col":"1487"},
-  {"term":"Naturtrieb","qualifier":"I (allg.)","band":"10","col":"1485"},
+  {"term":"naturalis","qualifier":"II (psych.)","band":"10","col":"1485"},
   {"term":"pulsion","qualifier":"","band":null,"col":null},
   {"term":"Selbstbehauptung","qualifier":"II (psych.)","band":"10","col":"1489"},
   {"term":"Selbsterhaltung","qualifier":"I (allg.)","band":"10","col":"1487"},
@@ -83,8 +83,7 @@ HWPH.put("a/3229",
   {"term":"Widerspruch","qualifier":"I (allg.)","band":"10","col":"1486"},
   {"term":"Zeugungstrieb","qualifier":"I (allg.)","band":"10","col":"1486"},
   {"term":"ἐπιθυμία","qualifier":"","band":null,"col":null},
-  {"term":"ὁρμή","qualifier":"","band":null,"col":null},
-  {"term":"– I (psych.) 6 218–221 s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"ὁρμή","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -166,7 +165,17 @@ HWPH.put("a/3229",
   {"id":2241,"lemma":"Organisation","tf":3},
   {"id":2804,"lemma":"Sehnsucht","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":362,"lemma":"Begehren, appetitus naturalis"},
+  {"id":61,"lemma":"Aggression"},
+  {"id":194,"lemma":"Antrieb"},
+  {"id":824,"lemma":"Es"},
+  {"id":1755,"lemma":"Lebenstrieb"},
+  {"id":1791,"lemma":"Libido"},
+  {"id":2034,"lemma":"Motivation"},
+  {"id":2878,"lemma":"Sexualität"},
+  {"id":3200,"lemma":"Todestrieb"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Trieb"},
   {"id":26,"name":"Metaphysik","label":"Trieb"},

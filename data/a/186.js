@@ -23,10 +23,7 @@ HWPH.put("a/186",
  "next":{"id":187,"lemma":"Antiperístasis","band":"1","col":407},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"– I (allg.) 1 393–396 s. auch","qualifier":"III (erk.)","band":null,"col":null},
-  {"term":"– II (theol ) 3 494–514 s. auch","qualifier":"II (jüd.)","band":null,"col":null}
- ],
+ "register":[],
  "persons":[
   {"id":110,"name":"W. Windelband","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":195,"name":"G. Scholem","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -62,7 +59,11 @@ HWPH.put("a/186",
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
   {"id":946,"lemma":"Freiheit","tf":2}
  ],
- "see_also":[{"id":1112,"lemma":"Gesetzlichkeit"}],
+ "see_also":[
+  {"id":1112,"lemma":"Gesetzlichkeit"},
+  {"id":3155,"lemma":"Tertius usus legis"},
+  {"id":2728,"lemma":"Sabbatianismus"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Antinomismus III (erk.)"},
   {"id":18,"name":"Judentum","label":"Antinomismus II (jüd.)"},

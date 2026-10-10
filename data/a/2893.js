@@ -31,9 +31,10 @@ HWPH.put("a/2893",
  "register":[
   {"term":"ab alio","qualifier":"","band":"9","col":"873"},
   {"term":"Autonomie des Willens","qualifier":"","band":"9","col":"874"},
-  {"term":"II-III Zweiweltenlehre","qualifier":"","band":null,"col":null},
+  {"term":"Geschöpf, doppelsinniges","qualifier":"","band":"9","col":"873"},
   {"term":"mundus archetypus","qualifier":"","band":"9","col":"872"},
   {"term":"Verstandeswelt","qualifier":"","band":null,"col":null},
+  {"term":"Zweiweltenlehre","qualifier":"","band":null,"col":null},
   {"term":"ἀμφίβιοι","qualifier":"","band":"9","col":"873"},
   {"term":"κόσμος νοητός/ἀισθητός","qualifier":"","band":null,"col":null},
   {"term":"τόπος ὁρατός/νοητός","qualifier":"","band":"9","col":"869"}

@@ -43,6 +43,7 @@ HWPH.put("a/3449",
   {"term":"Schwägerschaft","qualifier":"","band":"11","col":"991"},
   {"term":"social anthropology","qualifier":"","band":"11","col":"993"},
   {"term":"Tausch","qualifier":"","band":"11","col":"994"},
+  {"term":"Verwandtschaft der Sprachen","qualifier":"","band":"11","col":"992"},
   {"term":"Wahlverwandtschaft","qualifier":"","band":"11","col":"992"}
  ],
  "persons":[

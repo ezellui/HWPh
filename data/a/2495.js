@@ -69,7 +69,7 @@ HWPH.put("a/2495",
   {"id":691,"lemma":"Einstellung","tf":2},
   {"id":535,"lemma":"Definition","tf":2}
  ],
- "see_also":[{"id":1359,"lemma":"Ideation"}],
+ "see_also":[{"id":1359,"lemma":"Ideation"},{"id":1936,"lemma":"Meßprozeß"}],
  "groups":[
   {"id":32,"name":"Physik","label":"Protophysik"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Protophysik"}

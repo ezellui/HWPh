@@ -23,7 +23,6 @@ HWPH.put("a/2202",
  "backlinks":[{"id":3257,"lemma":"Über-Ich","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"der 4 935–939 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Entwicklung, ödipale","qualifier":"I","band":"6","col":"1099"},
   {"term":"Fixierung, ödipale","qualifier":"I","band":null,"col":null},
   {"term":"Inzesttabu","qualifier":"II","band":"6","col":"1103f."},
@@ -34,13 +33,7 @@ HWPH.put("a/2202",
   {"term":"Triangulierung","qualifier":"II","band":"6","col":"1103f."},
   {"term":"Trias, ödipale","qualifier":"II","band":"6","col":"1104"},
   {"term":"Vater, symbolischer","qualifier":"II","band":"6","col":"1104"},
-  {"term":"Wunschproduktion","qualifier":"I","band":"6","col":"1100"},
-  {
-   "term":"– I (allg.) 12 1077–1085 – II (psych.) 12 1085–1088 s. auch",
-   "qualifier":"II",
-   "band":null,
-   "col":null
-  }
+  {"term":"Wunschproduktion","qualifier":"I","band":"6","col":"1100"}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":3,"n":4,"l":0,"editor":0,"role":"source"},
@@ -121,7 +114,11 @@ HWPH.put("a/2202",
   {"id":1452,"lemma":"Instanz","tf":3},
   {"id":3229,"lemma":"Trieb","tf":3}
  ],
- "see_also":[{"id":1600,"lemma":"Komplex"}],
+ "see_also":[
+  {"id":1601,"lemma":"Komplex (der)"},
+  {"id":2506,"lemma":"Psychoanalyse"},
+  {"id":2878,"lemma":"Sexualität"}
+ ],
  "groups":[{"id":35,"name":"Psychoanalyse","label":"Ödipus-Komplex"}],
  "reg_authors":[{"name":"Kammler-Plumpe Christiane","n":1},{"name":"Loch Wolfgang","n":12}]
 }

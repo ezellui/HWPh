@@ -51,6 +51,6 @@ HWPH.put("a/2415",
  ],
  "see_also":[{"id":1092,"lemma":"Geschichtslosigkeit"}],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Posthistoire"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

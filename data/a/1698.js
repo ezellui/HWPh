@@ -23,7 +23,6 @@ HWPH.put("a/1698",
  "outlinks":[],
  "register":[
   {"term":"Kantizismus","qualifier":"","band":"4","col":"1296"},
-  {"term":"kritischer (Popper)","qualifier":"","band":"4","col":"1294–1299"},
   {"term":"Kritizismus, neuer","qualifier":"","band":"4","col":"1298"},
   {"term":"Kritizismus, rationaler","qualifier":"","band":"4","col":"1299"},
   {"term":"Methode, kritische","qualifier":"","band":null,"col":null},
@@ -77,7 +76,11 @@ HWPH.put("a/1698",
   {"id":309,"lemma":"Aussage","tf":2},
   {"id":3635,"lemma":"Wissenschaft","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":626,"lemma":"Dogmatismus"},
+  {"id":1528,"lemma":"Kantianismus"},
+  {"id":2119,"lemma":"Neukantianismus"}
+ ],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Kritizismus"}],
  "reg_authors":[{"name":"Nieke Wolfgang","n":18}]
 }

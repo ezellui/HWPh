@@ -23,6 +23,7 @@ HWPH.put("a/292",
  "outlinks":[],
  "register":[
   {"term":"Lautung/Begriff","qualifier":"","band":"1","col":"646"},
+  {"term":"Stellenwert (ling.)","qualifier":"","band":null,"col":null},
   {"term":"valeur","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -65,13 +65,7 @@ HWPH.put("a/2889",
   {"term":"sense","qualifier":"","band":null,"col":null},
   {"term":"Übersetzbarkeit","qualifier":"","band":"9","col":"812"},
   {"term":"ungerade Rede","qualifier":"","band":"9","col":"810"},
-  {"term":"Wahrheitswert","qualifier":"","band":"9","col":"810"},
-  {
-   "term":"– I (Heidegger) 11 138 – II (Quine) 11 139f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Wahrheitswert","qualifier":"","band":"9","col":"810"}
  ],
  "persons":[
   {"id":39,"name":"G. Frege","b":5,"n":4,"l":0,"editor":0,"role":"source"},

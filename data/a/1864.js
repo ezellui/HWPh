@@ -19,7 +19,7 @@ HWPH.put("a/1864",
  "outlinks":[{"id":845,"lemma":"Euhemerismus","n":1}],
  "register":[
   {"term":"Ahnenkult","qualifier":"","band":null,"col":null},
-  {"term":"primäres/sekundäres (Reininger) Primärkultur","qualifier":"","band":"5","col":"731"},
+  {"term":"Primärkultur","qualifier":"","band":"5","col":"731"},
   {"term":"Urkultur","qualifier":"","band":"5","col":"731"}
  ],
  "persons":[

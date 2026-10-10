@@ -1,35 +1,22 @@
 HWPH.put("r/73-79",
 [
- ["Symptom","Symptom","III (sem.)","10","767","main",3099,"Symptom","symptom"],
- ["Symbiose","Symbiose","II (soz.)","10","709","main",3092,"Symbiose","symbiose"],
- ["Symptom","Symptom","III (sem.)","10","766","main",3099,"Symptom","symptom"],
- ["Symptom","Zeichen","II","12","1174","ref",3673,"Zeichen","symptom"],
- [
-  "Syllogismus; Syllogistik","Syllogismus; Syllogistik","",null,null,"main",3091,
-  "Syllogismus; Syllogistik","syllogismus; syllogistik"
- ],
+ ["Synthesis","Protention","(Husserl)","7","1529","ref",2488,"Protention","synthesis"],
  [
   "Systemtheorie; System, soziales","Systemtheorie; System, soziales","",null,null,"main",3117,
   "Systemtheorie; System, soziales","systemtheorie; system, soziales"
  ],
  [
-  "Systemtheorie; System, soziales","Perspektive I (allg.)","","7","370","ref",2326,
+  "Systemtheorie; System, soziales","Perspektive","I (allg.)","7","370","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","systemtheorie; system, soziales"
  ],
- ["System","System","II","10","828","main",3115,"System; Systematik; systematisch","system"],
+ ["Synthesis","Widerfahrnis","",null,null,"ref",3604,"Widerfahrnis","synthesis"],
+ ["Synthesis","Phänomen","I","7","463","ref",2340,"Phänomen","synthesis"],
  [
   "Syllogismus; Syllogistik","Syllogismus; Syllogistik","",null,null,"main",3091,
   "Syllogismus; Syllogistik","syllogismus; syllogistik"
  ],
- [
-  "Syllogismus; Syllogistik","Syllogismus; Syllogistik","",null,null,"main",3091,
-  "Syllogismus; Syllogistik","syllogismus; syllogistik"
- ],
- ["Synechismus","Synechismus","(Peirce)",null,null,"main",3104,"Synechismus","synechismus"],
- ["Synechismus","Eine, das; Einheit","III","2","378","ref",675,"Eine (das), Einheit","synechismus"],
- ["Synechismus","Synechismus","(Peirce)","10","780","main",3104,"Synechismus","synechismus"],
- ["Symptom","Symptom","III (sem.)","10","766","main",3099,"Symptom","symptom"],
- ["Symptom","Zeichen","II","12","1172","ref",3673,"Zeichen","symptom"],
+ ["Synthesis","Spontaneität","",null,null,"ref",2982,"Spontaneität","synthesis"],
+ ["Synthesis","Tun/Leiden","",null,null,"ref",3241,"Tun/Leiden","synthesis"],
  [
   "Syllogismus; Syllogistik","Syllogismus; Syllogistik","","10","687–707","main",3091,
   "Syllogismus; Syllogistik","syllogismus; syllogistik"
@@ -41,13 +28,15 @@ HWPH.put("r/73-79",
  ],
  ["Syllogismus; Syllogistik","Schluss","",null,null,"see",2769,"Schluß","syllogismus; syllogistik"],
  [
-  "Syllogismus; Syllogistik","Topik II","",null,null,"see",3203,"Topik; Topos",
+  "Syllogismus; Syllogistik","Topik","II",null,null,"see",3203,"Topik; Topos",
   "syllogismus; syllogistik"
  ],
  [
-  "Syllogismus; Syllogistik","Vernunftschluss Syllogismus","",null,null,"see",null,null,
+  "Syllogismus; Syllogistik","Vernunftschluss","",null,null,"see",3426,"Vernunftschluß",
   "syllogismus; syllogistik"
  ],
+ ["Syllogismus","Abduktion","(Peirce)",null,null,"ref",19,"Abduktion","syllogismus"],
+ ["Syllogismus","Denken","I","2","71f.","ref",552,"Denken","syllogismus"],
  ["Syllogismus, eristischer","Eristik","",null,null,"ref",795,"Eristik","syllogismus, eristischer"],
  [
   "Syllogismus, hypothetischer","Syllogismus; Syllogistik","","10","694f.","ref",3091,
@@ -93,9 +82,14 @@ HWPH.put("r/73-79",
  ],
  ["syllogismus imperfectus","Enthymem","","2","534f.","ref",749,"Enthymem","syllogismus imperfectus"],
  [
-  "syllogismus operativus","Schluss, praktischer syllogismus practicus","",null,null,"ref",2769,
-  "Schluß","syllogismus operativus"
+  "syllogismus operativus","Schluss, praktischer","",null,null,"ref",2770,"Schluß, praktischer",
+  "syllogismus operativus"
  ],
+ [
+  "syllogismus practicus","Schluss, praktischer","",null,null,"ref",2770,"Schluß, praktischer",
+  "syllogismus practicus"
+ ],
+ ["syllogismus practicus","Gewissen","","3","584","ref",1130,"Gewissen","syllogismus practicus"],
  [
   "syllogismus primarius","Episyllogismus/Prosyllogismus","","2","593","ref",777,
   "Episyllogismus/Prosyllogismus","syllogismus primarius"
@@ -111,12 +105,13 @@ HWPH.put("r/73-79",
   "syllogistik"
  ],
  [
-  "Syllogistik, Kritik an der","Invention; Erfindung III (log.)","","4","556","ref",1490,
+  "Syllogistik, Kritik an der","Invention; Erfindung","III (log.)","4","556","ref",1490,
   "Invention, Erfindung, Entdeckung","syllogistik, kritik an der"
  ],
  ["Syllogistik, modale","Modallogik","I","6","19f.","ref",1997,"Modallogik","syllogistik, modale"],
  ["syllogizare","Seele","II","9","18","ref",2794,"Seele","syllogizare"],
  ["Symbiose","Symbiose","","10","707–710","main",3092,"Symbiose","symbiose"],
+ ["Symbiose","Symbiose","II (soz.)",null,null,"main",3092,"Symbiose","symbiose"],
  ["symbiosis","Politik","II","7","1052","ref",2396,"Politik","symbiosis"],
  [
   "symbiotici","Gesellschaftsvertrag; Herrschaftsvertrag","","3","478","ref",1104,
@@ -205,6 +200,14 @@ HWPH.put("r/73-79",
   "sympathicus"
  ],
  ["Sympathie","Sympathie","","10","751–762","main",3098,"Sympathie","sympathie"],
+ [
+  "Sympathie","Connaturalitas, Erkenntnis durch","",null,null,"see",509,
+  "Connaturalitas, Erkenntnis durch","sympathie"
+ ],
+ ["Sympathie","Ideomotorisches Gesetz","",null,null,"see",1374,"Ideomotorisches Gesetz","sympathie"],
+ ["Sympathie","Repulsion/Attraktion","",null,null,"see",2690,"Repulsion/Attraktion","sympathie"],
+ ["Sympathie","Mitleid","",null,null,"see",1981,"Mitleid","sympathie"],
+ ["Sympathie","Wohlwollen","",null,null,"see",3653,"Wohlwollen","sympathie"],
  ["Sympathie","Ethik","IV","2","776","ref",835,"Ethik","sympathie"],
  ["Sympathie","Illusion","","4","205","ref",1387,"Illusion","sympathie"],
  ["Sympathie","Liebe","III","5","309","ref",1795,"Liebe","sympathie"],
@@ -224,10 +227,13 @@ HWPH.put("r/73-79",
   "symproduktiv"
  ],
  [
-  "symproduktiv","Produktion III (ästh.)","","7","1433","ref",2469,"Produktion, Produktivität",
+  "symproduktiv","Produktion","III (ästh.)","7","1433","ref",2469,"Produktion, Produktivität",
   "symproduktiv"
  ],
  ["Symptom","Symptom","","10","762–768","main",3099,"Symptom","symptom"],
+ ["Symptom","Anamnese","",null,null,"see",131,"Anamnese","symptom"],
+ ["Symptom","Diagnose","",null,null,"see",580,"Diagnose","symptom"],
+ ["Symptom","·","",null,null,"see",null,null,"symptom"],
  ["Symptom (psych.)","Psychoanalyse","I","7","1572","ref",2506,"Psychoanalyse","symptom (psych.)"],
  [
   "Symptom (psych.)","Überdeterminierung","","11","7","ref",3248,"Überdeterminierung",
@@ -252,7 +258,7 @@ HWPH.put("r/73-79",
   "synchronie/diachronie"
  ],
  [
-  "Synchronizität","Makrokosmos/Mikrokosmos","II",null,null,"ref",1849,"Makrokosmos/Mikrokosmos",
+  "Synchronizität","Makrokosmos/Mikrokosmos","II 2",null,null,"ref",1849,"Makrokosmos/Mikrokosmos",
   "synchronizitat"
  ],
  ["Synchronizität","Parapsychologie","","7","117","ref",2275,"Parapsychologie","synchronizitat"],
@@ -336,10 +342,13 @@ HWPH.put("r/73-79",
  ],
  ["Synonym","Synonym","","10","802–807","main",3111,"Synonym; Synonymik","synonym"],
  ["Synonym","Homonym","",null,null,"see",1307,"Homonym","synonym"],
- ["Synonym","Univozität synonym","",null,null,"see",null,null,"synonym"],
- ["Synonymik","Synonym II συνώνυμος","",null,null,"ref",null,null,"synonymik"],
- ["Synonym Synopsie","Synonym Synopsie","",null,null,"main",null,null,"synonym synopsie"],
- ["Synästhesie","Synästhesie","","10","768","main",3100,"Synästhesie","synasthesie"],
+ ["Synonym","Univozität","",null,null,"see",3311,"Univozität; univok","synonym"],
+ ["synonym","Begriff","II (log.)",null,null,"ref",365,"Begriff","synonym"],
+ ["synonym","Unbestimmtheit","",null,null,"ref",3285,"Unbestimmtheit","synonym"],
+ ["synonym","Identität","II","4","147","ref",1366,"Identität","synonym"],
+ ["synonym","Tautologie","","10","933","ref",3137,"Tautologie","synonym"],
+ ["Synonymik","Synonym","II",null,null,"ref",3111,"Synonym; Synonymik","synonymik"],
+ ["Synopsie","Synästhesie","","10","768","ref",3100,"Synästhesie","synopsie"],
  ["synsemantisch","Synkategorem σύνταγμα","",null,null,"ref",null,null,"synsemantisch"],
  [
   "Syntagma/Paradigma","Syntagmatisch/paradigmatisch","",null,null,"ref",3112,
@@ -363,9 +372,10 @@ HWPH.put("r/73-79",
   "syntaktische aphasie"
  ],
  [
-  "syntaktische Kategorie","Kategorie, syntaktische/semantische Syntalität","",null,null,"ref",1540,
+  "syntaktische Kategorie","Kategorie, syntaktische/semantische","",null,null,"ref",1540,
   "Kategorie, Kategorienlehre","syntaktische kategorie"
  ],
+ ["Syntalität","Kollektivbewusstsein","","4","884","ref",1585,"Kollektivbewußtsein","syntalitat"],
  ["Syntax","Syntax","","10","810–818","main",3113,"Syntax","syntax"],
  ["Syntax","Grammatik","",null,null,"see",1177,"Grammatik","syntax"],
  ["Syntax","Makrosyntax","",null,null,"see",1850,"Makrosyntax","syntax"],
@@ -381,7 +391,7 @@ HWPH.put("r/73-79",
  ["Synthese","Synthesis","",null,null,"ref",3114,"Synthesis; synthetisch","synthese"],
  ["Synthese","Analogie","I (allg.)","1","214","ref",123,"Analogie","synthese"],
  [
-  "Synthese","Invention; Erfindung III (log.)","","4","558ff.","ref",1490,
+  "Synthese","Invention; Erfindung","III (log.)","4","558ff.","ref",1490,
   "Invention, Erfindung, Entdeckung","synthese"
  ],
  ["Synthese","Syndesmos","","10","776f.","ref",3102,"Syndesmos","synthese"],
@@ -405,8 +415,8 @@ HWPH.put("r/73-79",
   "Methode, analytische/synthetische","synthesis"
  ],
  [
-  "Synthesis","Passivität; passive Synthesis","",null,null,"ref",2288,
-  "Passivität, passive Synthesis","synthesis"
+  "Synthesis","Passivität; passive","",null,null,"ref",2288,"Passivität, passive Synthesis",
+  "synthesis"
  ],
  [
   "Synthesis","Einfach/zusammengesetzt","","2","386","ref",676,
@@ -431,8 +441,12 @@ HWPH.put("r/73-79",
   "synthesis, figurliche"
  ],
  [
-  "Synthesis, passive","Passivität; passive Synthesis Synthesis, physische","",null,null,"ref",2288,
-  "Passivität, passive Synthesis","synthesis, passive"
+  "Synthesis, passive","Passivität; passive","",null,null,"ref",2288,"Passivität, passive Synthesis",
+  "synthesis, passive"
+ ],
+ [
+  "Synthesis Synthesis, physische","Erfahrung, Analogien der","(Kant)","2","618","ref",787,
+  "Erfahrung, Analogien der","synthesis synthesis, physische"
  ],
  [
   "Synthesis, universale","Passivität; passive Synthesis","","7","165","ref",2288,
@@ -451,7 +465,15 @@ HWPH.put("r/73-79",
   "synthesis intellectualis/speciosa","Synthesis","","10","819","ref",3114,"Synthesis; synthetisch",
   "synthesis intellectualis/speciosa"
  ],
- ["synthetisch","Synthesis synthetisch/analytisch","",null,null,"ref",null,null,"synthetisch"],
+ ["synthetisch","Synthesis","",null,null,"ref",3114,"Synthesis; synthetisch","synthetisch"],
+ [
+  "synthetisch/analytisch","Analytisch/synthetisch","",null,null,"ref",130,"Analytisch/synthetisch",
+  "synthetisch/analytisch"
+ ],
+ [
+  "synthetisch/analytisch","Progressiv/regressiv","","7","1450","ref",2473,"Progressiv/regressiv",
+  "synthetisch/analytisch"
+ ],
  [
   "synthetische Sätze a priori","Analytisch/synthetisch","I (log.)",null,null,"ref",130,
   "Analytisch/synthetisch","synthetische satze a priori"
@@ -469,12 +491,17 @@ HWPH.put("r/73-79",
   "synthetisches urteil"
  ],
  [
-  "synthetisches Verfahren","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "synthetisches Verfahren","Dialektik","IV 1. 2","2","187","ref",583,"Dialektik",
   "synthetisches verfahren"
  ],
  [
-  "synthetisch-makroskopische Psychologie","Psychologie","",null,null,"ref",2511,"Psychologie",
+  "synthetisch-makroskopische Psychologie","Psychologie, geisteswissenschaftliche","","7","1657",
+  "ref",2514,"Psychologie, geisteswissenschaftliche und verstehende",
   "synthetisch-makroskopische psychologie"
+ ],
+ [
+  "Synthetismus, ästhetischer","Realismus","IV (ästh.)","8","170f.","ref",2588,"Realismus",
+  "synthetismus, asthetischer"
  ],
  ["System","System","","10","824–856","main",3115,"System; Systematik; systematisch","system"],
  ["System","Architektonik","",null,null,"see",241,"Architektonik, architektonisch","system"],
@@ -578,16 +605,20 @@ HWPH.put("r/73-79",
  ["System der Gesetze","Rechtsordnung","","8","301","ref",2612,"Rechtsordnung","system der gesetze"],
  ["System der Sprache","Glossematik","",null,null,"ref",1154,"Glossematik","system der sprache"],
  [
-  "System der Wissenschaften","Architektonik System von Stufen","",null,null,"ref",null,null,
-  "system der wissenschaften"
+  "System der Wissenschaften","Architektonik","",null,null,"ref",241,
+  "Architektonik, architektonisch","system der wissenschaften"
  ],
- ["System I","System I","",null,null,"main",3115,"System; Systematik; systematisch","system i"],
- ["System I","Ramismus; Semiramismus","","8","16","ref",2564,"Ramismus, Semiramismus","system i"],
- ["System I","Wissenschaft","I","12","910","ref",3635,"Wissenschaft","system i"],
+ ["System von Stufen","Stufen","II","10","360","ref",3044,"Stufen","system von stufen"],
+ ["systema","System","I",null,null,"ref",3115,"System; Systematik; systematisch","systema"],
+ ["systema","Ramismus; Semiramismus","","8","16","ref",2564,"Ramismus, Semiramismus","systema"],
+ ["systema","Wissenschaft","I","12","910","ref",3635,"Wissenschaft","systema"],
  ["systema theologiae","Theologie","","10","1088","ref",3169,"Theologie","systema theologiae"],
  ["Systemata","Philosophie","III D","7","672","ref",2353,"Philosophie","systemata"],
- ["systematisch","System Systematologie","",null,null,"ref",null,null,"systematisch"],
- ["System","System","II","10","835f.","main",3115,"System; Systematik; systematisch","system"],
+ ["systematisch","System","",null,null,"ref",3115,"System; Systematik; systematisch","systematisch"],
+ [
+  "Systematologie","System","II","10","835f.","ref",3115,"System; Systematik; systematisch",
+  "systematologie"
+ ],
  [
   "Systemgeschichte","Problemgeschichte","I",null,null,"ref",2467,"Problemgeschichte",
   "systemgeschichte"
@@ -605,7 +636,7 @@ HWPH.put("r/73-79",
   "systemlosigkeit"
  ],
  [
-  "Systemrationalität","Rationalität III (analyt. Philos.)","","8","62","ref",2576,
+  "Systemrationalität","Rationalität","III (analyt. Philos.)","8","62","ref",2576,
   "Rationalität, Rationalisierung","systemrationalitat"
  ],
  ["Systemrationalität","Zweck; Ziel","","12","1507","ref",3718,"Zweck; Ziel","systemrationalitat"],
@@ -648,9 +679,21 @@ HWPH.put("r/73-79",
   "systole/diastole"
  ],
  [
-  "Systole/Diastole","Potenzen I (Schelling)","","7","1169","ref",2423,"Potenz, Potenzen",
+  "Systole/Diastole","Potenzen","I (Schelling)","7","1169","ref",2423,"Potenz, Potenzen",
   "systole/diastole"
  ],
- ["Syzygie","Freiheit","II","2","1077","ref",946,"Freiheit","syzygie"]
+ ["Syzygie","Freiheit","II","2","1077","ref",946,"Freiheit","syzygie"],
+ [
+  "Synthesis","Konstitution, phänomenologische","(Husserl)","4","1005","ref",1626,
+  "Konstitution, phänomenologische","synthesis"
+ ],
+ [
+  "Synthesis vorläufiges Urteil","Urteil, vorläufiges","",null,null,"ref",3358,"Urteil, vorläufiges",
+  "synthesis vorlaufiges urteil"
+ ],
+ ["Synthesis","Pathisch; Pathik","I",null,null,"ref",2290,"Pathisch, Pathik","synthesis"],
+ ["Synthesis","Situation","",null,null,"ref",2904,"Situation","synthesis"],
+ ["Synthesis","Tun/Leiden","",null,null,"ref",3241,"Tun/Leiden","synthesis"],
+ ["Synthesis","Unverfügbarkeit","",null,null,"ref",3332,"Unverfügbarkeit","synthesis"]
 ]
 );

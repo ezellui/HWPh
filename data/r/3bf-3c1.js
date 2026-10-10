@@ -3,7 +3,7 @@ HWPH.put("r/3bf-3c1",
  ["ὁρισμός","Definition","I",null,null,"ref",535,"Definition","ορισμοσ"],
  ["ὁρισμός","Begriff","I (allg.)","1","781","ref",365,"Begriff","ορισμοσ"],
  [
-  "ὁρίζειν","Bestimmung; Determination I (met.) horizon aestheticus","",null,null,"ref",400,
+  "ὁρίζειν","Bestimmung; Determination","I (met.)",null,null,"ref",400,
   "Bestimmung, bestimmen, Determination","οριζειν"
  ],
  ["ὅρκος","Eid","I",null,null,"ref",658,"Eid","ορκοσ"],

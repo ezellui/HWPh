@@ -17,7 +17,7 @@ HWPH.put("a/1428",
  "next":{"id":1429,"lemma":"Infallibilismus","band":"4","col":343},
  "backlinks":[{"id":3726,"lemma":"Zwillingsparadoxon; Uhrenparadoxon","n":1}],
  "outlinks":[],
- "register":[{"term":"– I (phys.) 5 825–828 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":113,"name":"I. Newton","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1854,"name":"N. R. Hanson","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},

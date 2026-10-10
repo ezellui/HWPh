@@ -24,7 +24,7 @@ HWPH.put("a/980",
  ],
  "outlinks":[],
  "register":[
-  {"term":"K 7 788 Glauben (erk.)","qualifier":"","band":"2","col":"1149"},
+  {"term":"Glauben (erk.)","qualifier":"","band":"2","col":"1149"},
   {"term":"Überzeugung","qualifier":"","band":"2","col":"1149"},
   {"term":"Wissen","qualifier":"","band":"2","col":"1149"},
   {"term":"Zuversicht","qualifier":"","band":"2","col":"1150"}
@@ -40,7 +40,7 @@ HWPH.put("a/980",
   {"id":95,"name":"F. Brentano","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[{"id":1131,"lemma":"Gewißheit","tf":2}],
- "see_also":[{"id":68,"lemma":"Ahnung"}],
+ "see_also":[{"id":68,"lemma":"Ahnung"},{"id":1912,"lemma":"Meinen, Meinung"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Fürwahrhalten"}],
  "reg_authors":[{"name":"Diemer Alwin","n":5}]
 }

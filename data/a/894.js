@@ -17,7 +17,7 @@ HWPH.put("a/894",
  "next":{"id":895,"lemma":"Farbe","band":"2","col":908},
  "backlinks":[{"id":2786,"lemma":"Schwärmerei","n":1}],
  "outlinks":[],
- "register":[{"term":"das II 8 1351f Licht, inneres","qualifier":"","band":"2","col":"905"}],
+ "register":[{"term":"f Licht, inneres","qualifier":"","band":"2","col":"905"}],
  "persons":[
   {"id":481,"name":"J.-B. Bossuet","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

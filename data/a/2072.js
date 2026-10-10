@@ -21,16 +21,10 @@ HWPH.put("a/2072",
   {"term":"Grenznutzen","qualifier":"","band":"6","col":"419"},
   {"term":"moral sense","qualifier":"","band":"6","col":"418"},
   {"term":"Pareto-Prinzip","qualifier":"","band":"6","col":"419"},
-  {
-   "term":"Polizeiwissenschaft Verwaltung, staatswirtschaftliche",
-   "qualifier":"",
-   "band":"6",
-   "col":"418"
-  },
   {"term":"Sozialökonomik","qualifier":"","band":"6","col":"419"},
   {"term":"Staatswirtschaft","qualifier":"","band":null,"col":null},
-  {"term":"Volkswirtschaft","qualifier":"","band":null,"col":null},
-  {"term":"– I (ökon.) 6 1149–1153 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verwaltung, staatswirtschaftliche","qualifier":"","band":"6","col":"418"},
+  {"term":"Volkswirtschaft","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":11955,"name":"J. v. Soden","b":1,"n":2,"l":0,"editor":0,"role":"source"},

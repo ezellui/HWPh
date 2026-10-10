@@ -28,11 +28,10 @@ HWPH.put("a/2815",
   {"term":"Enteignis","qualifier":"(Heidegger)","band":"9","col":"264"},
   {"term":"Entzug","qualifier":"(Heidegger)","band":"9","col":"264"},
   {"term":"Seinsverlassenheit","qualifier":"(Heidegger)","band":"9","col":"264"},
-  {"term":"Undurchsichtigkeit","qualifier":"(Heidegger)","band":"9","col":"264"},
   {"term":"Vergessenheit des Seins","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Verhüllung","qualifier":"(Heidegger)","band":"9","col":"264"},
   {"term":"Verstockung","qualifier":"(Heidegger)","band":"9","col":"264"},
-  {"term":"Vorenthalt","qualifier":"(Heidegger)","band":"9","col":"264"},
-  {"term":"– I (Heidegger) 2 146f. s. auch","qualifier":"(Heidegger)","band":null,"col":null}
+  {"term":"Vorenthalt","qualifier":"(Heidegger)","band":"9","col":"264"}
  ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":0,"l":0,"editor":0,"role":"source"},

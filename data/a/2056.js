@@ -23,8 +23,8 @@ HWPH.put("a/2056",
  "register":[
   {"term":"Dichter","qualifier":"","band":"6","col":"339f."},
   {"term":"imitatio","qualifier":"","band":null,"col":null},
-  {"term":"Naturnachahmung","qualifier":"","band":null,"col":null},
-  {"term":"– IV (ästh.) 8 169–178 s auch","qualifier":"","band":null,"col":null}
+  {"term":"Kunst; Kunstwerk","qualifier":"","band":null,"col":null},
+  {"term":"Naturnachahmung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":2,"l":0,"editor":0,"role":"source"},

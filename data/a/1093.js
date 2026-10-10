@@ -39,15 +39,15 @@ HWPH.put("a/1093",
   {"id":1705,"lemma":"Kulturgeschichte","n":1}
  ],
  "register":[
-  {"term":"Drei-Stadien-Gesetz","qualifier":"","band":null,"col":null},
   {"term":"enchaînure","qualifier":"","band":"3","col":"419"},
   {"term":"Endzweck","qualifier":"","band":null,"col":null},
   {"term":"Erziehung des Menschengeschlechts","qualifier":"","band":"3","col":"421"},
-  {"term":"Geschichte","qualifier":"","band":"3","col":"424ff."},
+  {"term":"Fortschritt","qualifier":"","band":null,"col":null},
   {"term":"Geschichte der Menschheit","qualifier":"","band":"3","col":"418"},
   {"term":"Geschichtsmetaphysik","qualifier":"","band":"3","col":"434"},
   {"term":"Geschichtsschreibung, philosophische","qualifier":"","band":null,"col":null},
   {"term":"Geschichtstheologie","qualifier":"","band":"3","col":"432"},
+  {"term":"Kulturgeschichte","qualifier":"","band":"3","col":"424ff."},
   {"term":"Kunst","qualifier":"","band":"3","col":"427"},
   {"term":"Logik der Geschichte","qualifier":"","band":"3","col":"419"},
   {"term":"Menschengeist","qualifier":"","band":"3","col":"430"},
@@ -288,7 +288,11 @@ HWPH.put("a/1093",
   {"id":2313,"lemma":"Periode, Periodisierung","tf":5},
   {"id":1283,"lemma":"Historismus, Historizismus","tf":4}
  ],
- "see_also":[{"id":1085,"lemma":"Geschichte, Historie"},{"id":1705,"lemma":"Kulturgeschichte"}],
+ "see_also":[
+  {"id":1085,"lemma":"Geschichte, Historie"},
+  {"id":1705,"lemma":"Kulturgeschichte"},
+  {"id":3567,"lemma":"Weltgeschichte; Universalgeschichte"}
+ ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Geschichtsphilosophie"},
   {"id":13,"name":"Geschichtsphilosophie","label":"Geschichtsphilosophie"},

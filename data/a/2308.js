@@ -18,6 +18,7 @@ HWPH.put("a/2308",
  "backlinks":[{"id":3586,"lemma":"Werk","n":1},{"id":3713,"lemma":"Zuschauer","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Aufführung","qualifier":"","band":null,"col":null},
   {"term":"Fluxus","qualifier":"","band":null,"col":null},
   {"term":"Happening","qualifier":"","band":null,"col":null}
  ],

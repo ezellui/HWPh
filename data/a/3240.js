@@ -24,6 +24,7 @@ HWPH.put("a/3240",
  "outlinks":[{"id":260,"lemma":"Askese","n":1}],
  "register":[
   {"term":"Rechtslehre","qualifier":"","band":"10","col":"1571"},
+  {"term":"selfhood","qualifier":"","band":"10","col":"1572"},
   {"term":"Sittenlehre","qualifier":"","band":"10","col":"1571"},
   {"term":"theory of virtue","qualifier":"","band":"10","col":"1572"}
  ],

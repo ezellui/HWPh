@@ -1,12 +1,11 @@
 HWPH.put("r/7a-77",
 [
- ["Zwang","Zwang","",null,null,"main",3717,"Zwang","zwang"],
- ["Zweifel","Zweifel","","12","1520","main",3722,"Zweifel","zweifel"],
- ["Zweifel","Zweifel","",null,null,"main",3722,"Zweifel","zweifel"],
- ["Zweck; Ziel","Zweck; Ziel","",null,null,"main",3718,"Zweck; Ziel","zweck; ziel"],
- ["Zweck; Ziel","Skopus","","9","985","ref",2910,"Skopus","zweck; ziel"],
- ["Zweireichelehre","Zweireichelehre","",null,null,"main",3724,"Zweireichelehre","zweireichelehre"],
  ["Zwang","Zwang","","12","1475–1486","main",3717,"Zwang","zwang"],
+ ["Zwang","Ananke","",null,null,"see",133,"Ananke","zwang"],
+ ["Zwang","Schicksal","",null,null,"see",2764,"Schicksal","zwang"],
+ ["Zwang","Hemmung, vitale","",null,null,"see",1249,"Hemmung, vitale","zwang"],
+ ["Zwang","Verdrängung","",null,null,"see",3393,"Verdrängung","zwang"],
+ ["Zwang","Wiederholung","",null,null,"see",3616,"Wiederholung","zwang"],
  [
   "Zwang","Determinismus/Indeterminismus","I (met.)",null,null,"ref",575,
   "Determinismus/Indeterminismus","zwang"
@@ -64,13 +63,11 @@ HWPH.put("r/7a-77",
  ["Zweck/Mittel","Instrumentalismus","",null,null,"ref",1455,"Instrumentalismus","zweck/mittel"],
  ["Zweck/Mittel","Mittel","",null,null,"ref",1987,"Mittel","zweck/mittel"],
  [
-  "Zweck/Mittel","Rationalität II (ökon.)","",null,null,"ref",2576,"Rationalität, Rationalisierung",
+  "Zweck/Mittel","Rationalität","II (ökon.)",null,null,"ref",2576,"Rationalität, Rationalisierung",
   "zweck/mittel"
  ],
- [
-  "Zweck/Mittel","Schluss, praktischer Zweck, objektiver","",null,null,"ref",2769,"Schluß",
-  "zweck/mittel"
- ],
+ ["Zweck/Mittel","Schluss, praktischer","",null,null,"ref",2770,"Schluß, praktischer","zweck/mittel"],
+ ["Zweck, objektiver","Funktion","IV (soz.)","2","1142","ref",974,"Funktion","zweck, objektiver"],
  [
   "Zweck an sich selbst","Selbstzweck","",null,null,"ref",2855,"Selbstzweck; Zweck an sich selbst",
   "zweck an sich selbst"
@@ -122,26 +119,24 @@ HWPH.put("r/7a-77",
   "Außen/innen, Außenwelt/Innenwelt","zweckmassigkeit, aussere/innere"
  ],
  [
-  "Zweckmässigkeit, sekundäre objektive (Gehlen)","Zweckmässigkeit, sekundäre objektive (Gehlen)","",
-  "12","1510","main",3719,"Zweckmäßigkeit, sekundäre objektive",
-  "zweckmassigkeit, sekundare objektive (gehlen)"
+  "Zweckmässigkeit, sekundäre objektive","Zweckmässigkeit, sekundäre objektive","(Gehlen)","12",
+  "1510","main",3719,"Zweckmäßigkeit, sekundäre objektive","zweckmassigkeit, sekundare objektive"
  ],
  [
-  "Zweckmässigkeit, sekundäre objektive (Gehlen)","Bewusstsein, ideatives/instrumentelles (Gehlen)",
-  "",null,null,"see",415,"Bewußtsein, ideatives/instrumentelles",
-  "zweckmassigkeit, sekundare objektive (gehlen)"
+  "Zweckmässigkeit, sekundäre objektive","Bewusstsein, ideatives/instrumentelles","(Gehlen)",null,
+  null,"see",415,"Bewußtsein, ideatives/instrumentelles","zweckmassigkeit, sekundare objektive"
  ],
  [
-  "Zweckmässigkeit, sekundäre objektive (Gehlen)","Entlastung","",null,null,"see",750,"Entlastung",
-  "zweckmassigkeit, sekundare objektive (gehlen)"
+  "Zweckmässigkeit, sekundäre objektive","Entlastung","",null,null,"see",750,"Entlastung",
+  "zweckmassigkeit, sekundare objektive"
  ],
  [
-  "Zweckmässigkeit, sekundäre objektive (Gehlen)","Führungssystem","(Gehlen)",null,null,"see",963,
-  "Führungssystem","zweckmassigkeit, sekundare objektive (gehlen)"
+  "Zweckmässigkeit, sekundäre objektive","Führungssystem","(Gehlen)",null,null,"see",963,
+  "Führungssystem","zweckmassigkeit, sekundare objektive"
  ],
  [
-  "Zweckmässigkeit, sekundäre objektive (Gehlen)","Institution","",null,null,"see",1454,
-  "Institution","zweckmassigkeit, sekundare objektive (gehlen)"
+  "Zweckmässigkeit, sekundäre objektive","Institution","",null,null,"see",1454,"Institution",
+  "zweckmassigkeit, sekundare objektive"
  ],
  [
   "Zweckmässigkeit ohne Zweck","Naturschönheit/Kunstschönheit","II","6","627","ref",2090,
@@ -170,7 +165,7 @@ HWPH.put("r/7a-77",
  ],
  ["Zweckrationalität","Mittel","",null,null,"see",1987,"Mittel","zweckrationalitat"],
  [
-  "Zweckrationalität","Rationalität II (ökon.)","",null,null,"see",2576,
+  "Zweckrationalität","Rationalität","II (ökon.)",null,null,"see",2576,
   "Rationalität, Rationalisierung","zweckrationalitat"
  ],
  ["Zweckrationalität","Strategie","",null,null,"see",3036,"Strategie","zweckrationalitat"],
@@ -214,16 +209,20 @@ HWPH.put("r/7a-77",
   "zweideutigkeit; vieldeutigkeit"
  ],
  [
-  "Zweideutigkeit; Vieldeutigkeit","Irrtum","(Schlussfehler)",null,null,"see",1499,"Irrtum",
-  "zweideutigkeit; vieldeutigkeit"
+  "Zweideutigkeit; Vieldeutigkeit","Irrtum (Schlussfehler)","",null,null,"see",1500,
+  "Irrtum (Schlußfehler)","zweideutigkeit; vieldeutigkeit"
  ],
  [
   "Zweideutigkeit; Vieldeutigkeit","Unbestimmtheit","",null,null,"see",3285,"Unbestimmtheit",
   "zweideutigkeit; vieldeutigkeit"
  ],
  [
-  "Zweideutigkeit; Vieldeutigkeit","Vagheit Zweideutigkeit","",null,null,"see",null,null,
+  "Zweideutigkeit; Vieldeutigkeit","Vagheit","",null,null,"see",3370,"Vagheit; vage",
   "zweideutigkeit; vieldeutigkeit"
+ ],
+ [
+  "Zweideutigkeit","Alltäglichkeit","(Heidegger)","1","195","ref",105,"Alltäglichkeit",
+  "zweideutigkeit"
  ],
  [
   "Zweielemententheorie","Transzendental","IX","10","1407","ref",3219,"Transzendental",
@@ -284,16 +283,28 @@ HWPH.put("r/7a-77",
   "zweite philosophie"
  ],
  [
-  "zweite Substanz","Substanz I zweite Unmittelbarkeit","",null,null,"ref",null,null,
+  "zweite Substanz","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
   "zweite substanz"
+ ],
+ [
+  "zweite Unmittelbarkeit","Unmittelbarkeit","","11","238","ref",3314,"Unmittelbarkeit",
+  "zweite unmittelbarkeit"
  ],
  ["Zweiteilung","Dichotomie","",null,null,"ref",590,"Dichotomie","zweiteilung"],
  [
-  "Zweitheit","Erstheit; Zweitheit; Drittheit (Peirce) Zweitlosigkeit","",null,null,"ref",817,
+  "Zweitheit","Erstheit; Zweitheit; Drittheit","(Peirce)",null,null,"ref",817,
   "Erstheit, Zweitheit, Drittheit","zweitheit"
  ],
+ ["Zweitlosigkeit","Advaita","",null,null,"ref",50,"Advaita","zweitlosigkeit"],
  ["Zweitursache","Causa secunda","",null,null,"ref",478,"Causa secunda","zweitursache"],
- ["Zweitursache","Ursache/Wirkung","",null,null,"ref",3350,"Ursache/Wirkung","zweitursache"],
+ ["Zweitursache","Ursache/Wirkung","II-III",null,null,"ref",3350,"Ursache/Wirkung","zweitursache"],
+ ["Zweiweltenlehre","Ideenlehre","",null,null,"ref",1364,"Ideenlehre","zweiweltenlehre"],
+ [
+  "Zweiweltenlehre","Sinnenwelt/Verstandeswelt","",null,null,"ref",2893,"Sinnenwelt/Verstandeswelt",
+  "zweiweltenlehre"
+ ],
+ ["Zweiweltenlehre","Gegebenes","","3","102","ref",1016,"Gegeben(es)","zweiweltenlehre"],
+ ["Zweiweltenlehre","Sein; Seiendes","V 5","9","215","ref",2806,"Sein; Seiendes","zweiweltenlehre"],
  [
   "Zweiwertigkeit","Logik, dialogische","","5","403","ref",1806,"Logik, dialogische",
   "zweiwertigkeit"
@@ -346,7 +357,7 @@ HWPH.put("r/7a-77",
  ["Zwischenbegriffe","Zwischen","","12","1548","ref",3727,"Zwischen","zwischenbegriffe"],
  ["Zwischengedanke","Annahme","","1","331","ref",154,"Annahme, Annehmen","zwischengedanke"],
  [
-  "Zwischengegensätzlichkeit","Übergegensätzlichkeit (Lask)","","11","35","ref",3255,
+  "Zwischengegensätzlichkeit","Übergegensätzlichkeit","(Lask)","11","35","ref",3255,
   "Übergegensätzlichkeit; übergegensätzlich","zwischengegensatzlichkeit"
  ],
  [

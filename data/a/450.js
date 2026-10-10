@@ -22,6 +22,6 @@ HWPH.put("a/450",
  "mentions":[],
  "see_also":[{"id":228,"lemma":"Äquivalenz"}],
  "groups":[{"id":22,"name":"Logik","label":"Bisubjunktion"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

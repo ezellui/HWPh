@@ -19,22 +19,11 @@ HWPH.put("a/1350",
  "outlinks":[{"id":1335,"lemma":"Ich, primäres, sekundäres","n":1}],
  "register":[
   {"term":"Erlebnisidealismus","qualifier":"(Reininger)","band":null,"col":null},
-  {
-   "term":"historischer 3 5 862 monistischer Idealismus",
-   "qualifier":"(Reininger)",
-   "band":null,
-   "col":null
-  },
   {"term":"Monismus, aktualistischer","qualifier":"(Reininger)","band":"4","col":"41"},
-  {"term":"primäres/sekundäres (Reininger)","qualifier":"(Reininger)","band":"4","col":"40"},
-  {
-   "term":"primäres/sekundäres (Reininger) 4 18f. s. auch",
-   "qualifier":"(Reininger)",
-   "band":null,
-   "col":null
-  },
+  {"term":"monistischer Idealismus","qualifier":"(Reininger)","band":null,"col":null},
   {"term":"Selbstobjektivation","qualifier":"(Reininger)","band":"4","col":"40"},
   {"term":"Spinozismus, subjektiver","qualifier":"(Reininger)","band":"4","col":"40"},
+  {"term":"Urerlebnis","qualifier":"(Reininger)","band":"4","col":"40"},
   {"term":"Urwirklichkeit","qualifier":"(Reininger)","band":"4","col":"40"}
  ],
  "persons":[

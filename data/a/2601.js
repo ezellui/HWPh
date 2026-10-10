@@ -37,11 +37,10 @@ HWPH.put("a/2601",
  ],
  "outlinks":[{"id":2457,"lemma":"Principium rationis sufficientis","n":1}],
  "register":[
-  {"term":"649","qualifier":"III (analyt. Philos.)","band":"8","col":"257"},
   {"term":"Begründung","qualifier":"","band":null,"col":null},
+  {"term":"bzw. vernünftige rationem reddere","qualifier":"","band":null,"col":null},
   {"term":"cognoscendi/essendi/fiendi","qualifier":"II","band":null,"col":null},
   {"term":"Dialektik","qualifier":"I","band":null,"col":null},
-  {"term":"dialektische","qualifier":"I","band":null,"col":null},
   {"term":"doppelte Rechtfertigung","qualifier":"IV (theol.)","band":"8","col":"261"},
   {"term":"duplex iustificatio","qualifier":"IV (theol.)","band":"8","col":"261"},
   {"term":"Frage-Antwort-Gespräch","qualifier":"I","band":null,"col":null},
@@ -49,28 +48,17 @@ HWPH.put("a/2601",
   {"term":"iustificatio","qualifier":"IV (theol.)","band":null,"col":null},
   {"term":"justification","qualifier":"III (analyt. Philos.)","band":null,"col":null},
   {"term":"Meinung, gerechtfertigte","qualifier":"III (analyt. Philos.)","band":null,"col":null},
-  {"term":"natürliche bzw. vernünftige rationem reddere","qualifier":"","band":null,"col":null},
+  {"term":"obligatoria II (log.)","qualifier":"I","band":null,"col":null},
   {"term":"opinion, justified","qualifier":"III (analyt. Philos.)","band":null,"col":null},
   {"term":"ordo iustificationis","qualifier":"IV (theol.)","band":"8","col":"261"},
   {"term":"Rechenschaft geben","qualifier":"I","band":null,"col":null},
   {"term":"remissio peccatorum","qualifier":"IV (theol.)","band":"8","col":"260"},
   {"term":"s auch","qualifier":"IV (theol.)","band":null,"col":null},
   {"term":"Verteidigung","qualifier":"I","band":null,"col":null},
+  {"term":"Wissen","qualifier":"III (analyt. Philos.)","band":"8","col":"257"},
   {"term":"διαλέγεσθαι","qualifier":"I","band":"8","col":"252"},
   {"term":"δικαίωσις","qualifier":"","band":null,"col":null},
-  {"term":"λόγον διδόναι","qualifier":"","band":null,"col":null},
-  {"term":"– I (rhet.) 1 392 s. auch","qualifier":"I","band":null,"col":null},
-  {"term":"– I (theol.) 11 891–898 s. auch","qualifier":"IV (theol.)","band":null,"col":null},
-  {"term":"– II (theol ) 3 494–514 s. auch","qualifier":"IV (theol.)","band":null,"col":null},
-  {"term":"– II (theol.) 12 1449–1452 s. auch","qualifier":"IV (theol.)","band":null,"col":null},
-  {"term":"– II (theol.) 5 509–513 s. auch","qualifier":"IV (theol.)","band":null,"col":null},
-  {"term":"– III (analyt. Philos.) 8 256–259 s. auch","qualifier":"","band":"8","col":"259–265"},
-  {
-   "term":"– III (analyt. Philos.) 8 62–66 s. auch",
-   "qualifier":"III (analyt. Philos.)",
-   "band":null,
-   "col":null
-  }
+  {"term":"λόγον διδόναι","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":3,"n":4,"l":0,"editor":0,"role":"source"},
@@ -245,7 +233,14 @@ HWPH.put("a/2601",
   {"id":1828,"lemma":"Lohn, Verdienst","tf":3},
   {"id":596,"lemma":"Differenzierung","tf":4}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":2576,"lemma":"Rationalität, Rationalisierung"},
+  {"id":1828,"lemma":"Lohn, Verdienst"},
+  {"id":3434,"lemma":"Versöhnung"},
+  {"id":3457,"lemma":"Verzeihen; Vergeben"},
+  {"id":3587,"lemma":"Werkgerechtigkeit"},
+  {"id":3712,"lemma":"Zurechnung"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Rechtfertigung I"},
   {"id":9,"name":"Erkenntnistheorie","label":"Rechtfertigung"},
@@ -255,7 +250,7 @@ HWPH.put("a/2601",
  "reg_authors":[
   {"name":"Mann Wolfgang R","n":2},
   {"name":"Peters Albrecht","n":6},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Thöle Bernhard","n":1}
  ]
 }

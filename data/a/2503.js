@@ -17,7 +17,7 @@ HWPH.put("a/2503",
  "next":{"id":2504,"lemma":"Psittazismus","band":"7","col":1569},
  "backlinks":[],
  "outlinks":[{"id":1986,"lemma":"Mitteilung, Mitteilbarkeit, indirekte Mitteilung","n":1}],
- "register":[{"term":"Mitteilung, indirekte","qualifier":"","band":"7","col":"1568"}],
+ "register":[{"term":"Mitteilung, indirekte","qualifier":"(Kierkegaard)","band":"7","col":"1568"}],
  "persons":[
   {"id":49,"name":"S. Kierkegaard","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":18109,"name":"J. A. Sint","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},

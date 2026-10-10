@@ -20,14 +20,7 @@ HWPH.put("a/2513",
  "register":[
   {"term":"differentielle Psychologie","qualifier":"","band":null,"col":null},
   {"term":"Variieren, seelisches","qualifier":"","band":"7","col":"1655"},
-  {"term":"Verhalten","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (allg.) 7 345–352 – II (psych.) 7 352–354 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
-  {"term":"– II (psych.) 2 239–242 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verhalten","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":375,"name":"W. Stern","b":1,"n":1,"l":0,"editor":0,"role":"source"},

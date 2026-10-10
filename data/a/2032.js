@@ -27,12 +27,12 @@ HWPH.put("a/2032",
  "outlinks":[],
  "register":[
   {"term":"accidence","qualifier":"III (ling.)","band":null,"col":null},
+  {"term":"dessein","qualifier":"II (nat.)","band":"6","col":"205f."},
   {"term":"Formenlehre","qualifier":"III (ling.)","band":null,"col":null},
   {"term":"Isomorphismus","qualifier":"I (allg.)","band":"6","col":"204"},
   {"term":"Morphem","qualifier":"III (ling.)","band":null,"col":null},
   {"term":"Plan","qualifier":"II (nat.)","band":null,"col":null},
-  {"term":"Syntax, formale","qualifier":"III (ling.)","band":null,"col":null},
-  {"term":"– I (allg.) 6 200–205 s. auch","qualifier":"","band":"6","col":"205–210"}
+  {"term":"Syntax, formale","qualifier":"III (ling.)","band":null,"col":null}
  ],
  "persons":[
   {"id":19,"name":"J. W. Goethe","b":3,"n":2,"l":1,"editor":0,"role":"source"},
@@ -176,7 +176,14 @@ HWPH.put("a/2032",
   {"id":1866,"lemma":"Mannigfaltigkeit, ästhetische","tf":3},
   {"id":746,"lemma":"Entelechie","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1706,"lemma":"Kulturmorphologie, Kulturkreislehre"},
+  {"id":346,"lemma":"Bauplan, Funktionsplan"},
+  {"id":940,"lemma":"Formwechsel"},
+  {"id":3244,"lemma":"Typos; Typologie"},
+  {"id":3348,"lemma":"Urpflanze"},
+  {"id":2364,"lemma":"Phonologie, Phonem"}
+ ],
  "groups":[
   {"id":20,"name":"Linguistik","label":"Morphologie III (ling.)"},
   {"id":28,"name":"Naturphilosophie","label":"Morphologie II (nat.)"}
@@ -185,7 +192,7 @@ HWPH.put("a/2032",
   {"name":"Ballauff Theodor","n":11},
   {"name":"Holenstein Elmar","n":2},
   {"name":"Piepmeier Rainer","n":12},
-  {"name":"Red","n":242}
+  {"name":"Red","n":241}
  ]
 }
 );

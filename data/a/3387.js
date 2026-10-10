@@ -29,21 +29,18 @@ HWPH.put("a/3387",
   {"id":3657,"lemma":"Wort, inneres; Rede, innere","n":1}
  ],
  "register":[
-  {"term":"/Objekt I","qualifier":"","band":null,"col":null},
+  {"term":"conceptio","qualifier":"","band":"11","col":"593"},
   {"term":"conceptus","qualifier":"","band":"11","col":"593"},
-  {"term":"das II 8 1352 species expressa","qualifier":"","band":"11","col":"593"},
-  {"term":"inneres 12 1037–1050 s. auch","qualifier":"","band":null,"col":null},
   {"term":"intellectio","qualifier":"","band":"11","col":"594"},
   {"term":"intentio","qualifier":"","band":"11","col":"593"},
-  {"term":"Konzept","qualifier":"","band":"11","col":"593"},
   {"term":"locutio cordis","qualifier":"","band":"11","col":"592"},
   {"term":"memoria","qualifier":"","band":"11","col":"593"},
   {"term":"notitia","qualifier":"","band":"11","col":"593"},
+  {"term":"species expressa","qualifier":"","band":"11","col":"593"},
   {"term":"species intelligibilis","qualifier":"","band":"11","col":"593"},
   {"term":"terminus","qualifier":"","band":"11","col":"593"},
   {"term":"verbum interius","qualifier":"","band":"11","col":"592"},
-  {"term":"Wort des Geistes","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 12 1030–1036 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wort des Geistes","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":3,"n":3,"l":0,"editor":0,"role":"source"},
@@ -105,6 +102,6 @@ HWPH.put("a/3387",
   {"id":9,"name":"Erkenntnistheorie","label":"Verbum mentis"},
   {"id":44,"name":"Theologie","label":"Verbum mentis"}
  ],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

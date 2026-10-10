@@ -42,8 +42,7 @@ HWPH.put("a/2612",
   {"term":"ordre social","qualifier":"","band":"8","col":"301"},
   {"term":"Rechtssystem","qualifier":"","band":"8","col":"302ff."},
   {"term":"Rechtszustand","qualifier":"","band":"8","col":"303f."},
-  {"term":"System der Gesetze","qualifier":"","band":"8","col":"301"},
-  {"term":"– I (jur.) 3 480–493 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"System der Gesetze","qualifier":"","band":"8","col":"301"}
  ],
  "persons":[
   {"id":1483,"name":"J. Blühdorn","b":0,"n":4,"l":2,"editor":0,"role":"scholar"},

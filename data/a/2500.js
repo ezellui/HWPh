@@ -26,7 +26,10 @@ HWPH.put("a/2500",
   {"id":3557,"lemma":"Welt","n":1}
  ],
  "outlinks":[{"id":2499,"lemma":"Prozeß","n":1}],
- "register":[],
+ "register":[
+  {"term":"new pantheism","qualifier":"","band":null,"col":null},
+  {"term":"new theology","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":3139,"name":"D. R. Griffin","b":1,"n":4,"l":0,"editor":0,"role":"scholar"},
   {"id":4686,"name":"J. B. Cobb","b":1,"n":4,"l":0,"editor":0,"role":"scholar"},
@@ -75,7 +78,7 @@ HWPH.put("a/2500",
   {"id":3628,"lemma":"Wirklichkeit","tf":3},
   {"id":3718,"lemma":"Zweck; Ziel","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":2499,"lemma":"Prozeß"}],
  "groups":[{"id":44,"name":"Theologie","label":"Prozesstheologie"}],
  "reg_authors":[{"name":"Dalferth Ingolf U","n":1}]
 }

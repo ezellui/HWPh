@@ -18,11 +18,12 @@ HWPH.put("a/68",
  "backlinks":[{"id":3635,"lemma":"Wissenschaft","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Ahndung","qualifier":"","band":null,"col":null},
   {"term":"Andacht","qualifier":"","band":"1","col":"116"},
   {"term":"Bewusstsein, religiöses","qualifier":"","band":"1","col":"117"},
   {"term":"Enthusiasmus","qualifier":"","band":"1","col":"116"},
   {"term":"Gefühl","qualifier":"","band":"1","col":"116"},
-  {"term":"K 7 788 Glauben (erk.)","qualifier":"","band":"1","col":"116"},
+  {"term":"Glauben (erk.)","qualifier":"","band":"1","col":"116"},
   {"term":"praesensio","qualifier":"","band":"1","col":"115"},
   {"term":"religiöses Bewusstsein","qualifier":"","band":"1","col":"117"},
   {"term":"Wissen","qualifier":"","band":"1","col":"116"}

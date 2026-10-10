@@ -34,7 +34,7 @@ HWPH.put("a/1740",
   {"id":3560,"lemma":"Weltanschauung","tf":2},
   {"id":2668,"lemma":"Relation","tf":2}
  ],
- "see_also":[{"id":1742,"lemma":"Lebenserfahrung"}],
+ "see_also":[{"id":1742,"lemma":"Lebenserfahrung"},{"id":3510,"lemma":"Vorwissenschaftlich; vortheoretisch"}],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Lebensbezug (Dilthey)"},
   {"id":14,"name":"Hermeneutik","label":"Lebensbezug (Dilthey)"}

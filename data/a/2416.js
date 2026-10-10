@@ -18,10 +18,10 @@ HWPH.put("a/2416",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"649","qualifier":"","band":"7","col":"1143"},
   {"term":"Eklektizismus","qualifier":"","band":"7","col":"1143"},
   {"term":"Übermensch","qualifier":"","band":"7","col":"1142"},
-  {"term":"ultramodernismo","qualifier":"","band":"7","col":"1142"}
+  {"term":"ultramodernismo","qualifier":"","band":"7","col":"1142"},
+  {"term":"Wissen","qualifier":"","band":"7","col":"1143"}
  ],
  "persons":[
   {"id":886,"name":"W. Welsch","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},
@@ -75,6 +75,6 @@ HWPH.put("a/2416",
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Postmoderne"},
   {"id":8,"name":"Epochenbegriffe","label":"Postmoderne"}
  ],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

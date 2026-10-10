@@ -17,7 +17,15 @@ HWPH.put("a/3170",
  "next":{"id":3171,"lemma":"Theologie, Dialektische","band":"10","col":1099},
  "backlinks":[],
  "outlinks":[{"id":2947,"lemma":"Sozialismus","n":1},{"id":3174,"lemma":"Theologie, politische","n":1}],
- "register":[],
+ "register":[
+  {"term":"Befreiung","qualifier":"","band":null,"col":null},
+  {"term":"Sozialismus, wahrer","qualifier":"","band":"10","col":"1097"},
+  {"term":"teología de la liberación bzw. revolución","qualifier":"","band":null,"col":null},
+  {"term":"Theologie der Entwicklung","qualifier":"","band":"10","col":"1096"},
+  {"term":"Theologie der Revolution","qualifier":"","band":null,"col":null},
+  {"term":"Theologie der Versöhnung","qualifier":"","band":"10","col":"1097"},
+  {"term":"Versöhnung","qualifier":"","band":"10","col":"1097"}
+ ],
  "persons":[
   {"id":5793,"name":"L. Boff","b":2,"n":4,"l":0,"editor":0,"role":"mixed"},
   {"id":6726,"name":"G. Gutiérrez","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},

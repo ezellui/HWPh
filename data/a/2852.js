@@ -109,7 +109,10 @@ HWPH.put("a/2852",
   {"id":2050,"lemma":"Mystik, mystisch","tf":2},
   {"id":1156,"lemma":"Gnade","tf":2}
  ],
- "see_also":[{"id":565,"lemma":"Desappropriatio, expropriatio (sui)"}],
+ "see_also":[
+  {"id":565,"lemma":"Desappropriatio, expropriatio (sui)"},
+  {"id":2693,"lemma":"Resignation, resignieren"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Selbstverleugnung"},
   {"id":44,"name":"Theologie","label":"Selbstverleugnung"}

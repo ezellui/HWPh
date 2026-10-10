@@ -32,7 +32,12 @@ HWPH.put("a/2795",
   {"id":1522,"lemma":"Kalokagathia","n":1},
   {"id":2776,"lemma":"Schöne","n":1}
  ],
- "register":[],
+ "register":[
+  {"term":"Experimentalreligionslehre","qualifier":"","band":"9","col":"91"},
+  {"term":"Humanität","qualifier":"","band":"9","col":"91"},
+  {"term":"Schöngeist","qualifier":"","band":"9","col":"90"},
+  {"term":"Vornehmheit","qualifier":"","band":"9","col":"92"}
+ ],
  "persons":[
   {"id":7,"name":"Augustinus","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":38,"name":"J.-J. Rousseau","b":2,"n":1,"l":0,"editor":0,"role":"source"},

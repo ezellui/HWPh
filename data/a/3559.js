@@ -54,11 +54,11 @@ HWPH.put("a/3559",
  ],
  "register":[
   {"term":"aetates","qualifier":"","band":null,"col":null},
-  {"term":"Aion","qualifier":"","band":"12","col":"449f."},
   {"term":"gradus aetatum","qualifier":"","band":"12","col":"447"},
   {"term":"Historie","qualifier":"","band":"12","col":"450f."},
   {"term":"new age","qualifier":"","band":"12","col":"451"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
+  {"term":"saeculum","qualifier":"","band":"12","col":"449f."},
   {"term":"siècles","qualifier":"","band":null,"col":null},
   {"term":"tempora","qualifier":"","band":"12","col":"447f."},
   {"term":"Zeitalter","qualifier":"","band":null,"col":null}

@@ -23,7 +23,7 @@ HWPH.put("a/3309",
  ],
  "register":[
   {"term":"akroamatisch/exoterisch","qualifier":"(Schopenhauer)","band":"11","col":"218"},
-  {"term":"K 7 788ff.","qualifier":"(Schopenhauer)","band":"11","col":"219"},
+  {"term":"Philosoph","qualifier":"(Schopenhauer)","band":"11","col":"219"},
   {"term":"Philosophie, Weltbegriff der","qualifier":"(Schopenhauer)","band":"11","col":"218"},
   {"term":"Professorenphilosophie","qualifier":"(Schopenhauer)","band":"11","col":"219"},
   {"term":"Schulbegriff der Philosophie","qualifier":"(Schopenhauer)","band":"11","col":"218"},
@@ -65,7 +65,7 @@ HWPH.put("a/3309",
   {"id":3308,"lemma":"Universität","tf":6},
   {"id":2926,"lemma":"Sophistik; sophistisch; Sophist","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1547,"lemma":"Kathederphilosophie"}],
  "groups":[{"id":46,"name":"Unterricht und Institutionen","label":"Universitätsphilosophie (Schopenhauer)"}],
  "reg_authors":[{"name":"Rother Wolfgang","n":1}]
 }

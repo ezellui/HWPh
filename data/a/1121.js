@@ -26,6 +26,7 @@ HWPH.put("a/1121",
   {"id":1116,"lemma":"Gestalt","n":1},
   {"id":1117,"lemma":"Gestalten, physische","n":1},
   {"id":1622,"lemma":"Konstanzannahme","n":1},
+  {"id":2511,"lemma":"Psychologie","n":1},
   {"id":2803,"lemma":"Sehen als; Aspektsehen","n":1}
  ],
  "outlinks":[{"id":1120,"lemma":"Gestaltqualität","n":1}],
@@ -33,14 +34,7 @@ HWPH.put("a/1121",
   {"term":"Isomorphie, psychophysische","qualifier":"","band":"3","col":"551"},
   {"term":"Selbstregulation","qualifier":"","band":"3","col":"551"},
   {"term":"Selbststeuerung","qualifier":"","band":"3","col":"551"},
-  {"term":"Strukturverwandtschaft","qualifier":"","band":"3","col":"551"},
-  {"term":"– I (ästh.) 3 540–547 – II (psych.) 3 547f. s. auch","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (phys.) 2 923–926 – II (psych.) 2 926–929 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Strukturverwandtschaft","qualifier":"","band":"3","col":"551"}
  ],
  "persons":[
   {"id":684,"name":"M. Wertheimer","b":1,"n":1,"l":1,"editor":0,"role":"source"},

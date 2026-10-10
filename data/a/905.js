@@ -29,6 +29,7 @@ HWPH.put("a/905",
   {"term":"linguistic field","qualifier":"","band":null,"col":null},
   {"term":"Sinnbezirk","qualifier":"","band":null,"col":null},
   {"term":"Sprachfeld","qualifier":"","band":null,"col":null},
+  {"term":"sprachliches Feld","qualifier":"","band":null,"col":null},
   {"term":"Umgriff","qualifier":"","band":"2","col":"931"},
   {"term":"Wortfeld","qualifier":"","band":null,"col":null},
   {"term":"Wortinhalt","qualifier":"","band":"2","col":"931"}
@@ -71,7 +72,7 @@ HWPH.put("a/905",
   {"id":23,"lemma":"Abhängigkeit (Dependenz)","tf":2},
   {"id":395,"lemma":"Beschreibung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":425,"lemma":"Bezeichnungslehre, Onomasiologie"}],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Feld, sprachliches"}],
  "reg_authors":[{"name":"Trier Jost","n":2}]
 }

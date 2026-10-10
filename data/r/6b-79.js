@@ -18,6 +18,6 @@ HWPH.put("r/6b-79",
   "Kynismus; kynisch","Kynismus; kynisch","","4","1468–1470","main",1722,"Kynismus, kynisch",
   "kynismus; kynisch"
  ],
- ["Kynismus; kynisch","Zynismus κυριεύων λόγος","",null,null,"see",null,null,"kynismus; kynisch"]
+ ["Kynismus; kynisch","Zynismus","",null,null,"see",3728,"Zynismus; zynisch","kynismus; kynisch"]
 ]
 );

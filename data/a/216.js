@@ -18,13 +18,13 @@ HWPH.put("a/216",
  "backlinks":[{"id":3038,"lemma":"Streben","n":1},{"id":3149,"lemma":"Tendenz","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"(ling.) 3 1205 praetensio","qualifier":"(Leibniz)","band":"1","col":"456"},
   {"term":"appetitio","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"appetitus","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"Begehren","qualifier":"(Leibniz)","band":"1","col":"457"},
   {"term":"Monade","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"perceptio","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"percepturitio","qualifier":"(Leibniz)","band":"1","col":"457"},
+  {"term":"praetensio","qualifier":"(Leibniz)","band":"1","col":"456"},
   {"term":"tendentia","qualifier":"(Leibniz)","band":"1","col":"456"}
  ],
  "persons":[

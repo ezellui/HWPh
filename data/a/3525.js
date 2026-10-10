@@ -18,7 +18,7 @@ HWPH.put("a/3525",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"508","qualifier":"","band":"12","col":"133"},
+  {"term":"Gerechtigkeit","qualifier":"","band":"12","col":"133"},
   {"term":"Istina","qualifier":"","band":null,"col":null},
   {"term":"pravda","qualifier":"","band":null,"col":null},
   {"term":"spravedlivost","qualifier":"","band":"12","col":"133"}

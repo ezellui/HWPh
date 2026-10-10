@@ -24,16 +24,13 @@ HWPH.put("a/1886",
  "register":[
   {"term":"dialektischer","qualifier":"","band":null,"col":null},
   {"term":"Geist/Materie","qualifier":"","band":null,"col":null},
-  {"term":"Geschichtsanschauung, monistische","qualifier":"","band":null,"col":null},
   {"term":"historischer Materialismus","qualifier":"","band":null,"col":null},
-  {"term":"historischer Materialismus, didaktischer","qualifier":"","band":"5","col":"844"},
   {"term":"Materialismus, anthropologischer","qualifier":"","band":"5","col":"844"},
+  {"term":"Materialismus, didaktischer","qualifier":"","band":"5","col":"844"},
   {"term":"Materialismus, formaler","qualifier":"","band":"5","col":"849"},
   {"term":"Materialismus, physiologischer","qualifier":"","band":"5","col":"843f."},
   {"term":"materialistische Geschichtsauffassung","qualifier":"","band":null,"col":null},
-  {"term":"Menschewismus","qualifier":"","band":null,"col":null},
   {"term":"Monismus","qualifier":"","band":"5","col":"846"},
-  {"term":"monistische Geschichtsanschauung","qualifier":"","band":null,"col":null},
   {"term":"Physikalismus","qualifier":"","band":"5","col":"849"},
   {"term":"Realismus, naiver","qualifier":"","band":"5","col":"848"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
@@ -132,6 +129,6 @@ HWPH.put("a/1886",
   },
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Materialismus"}
  ],
- "reg_authors":[{"name":"Dahm Helmut","n":3},{"name":"Goerdt Wilhelm","n":33},{"name":"Nieke Wolfgang","n":18}]
+ "reg_authors":[{"name":"Goerdt Wilhelm","n":33},{"name":"Nieke Wolfgang","n":18}]
 }
 );

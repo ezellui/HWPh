@@ -40,9 +40,9 @@ HWPH.put("a/3245",
   {"term":"regium","qualifier":"II","band":"10","col":"1613"},
   {"term":"regnum","qualifier":"II","band":"10","col":"1611"},
   {"term":"Tyrannenmord","qualifier":"II","band":null,"col":null},
+  {"term":"usurpation","qualifier":"II","band":"10","col":"1615"},
   {"term":"Verbrechen, grösstes","qualifier":"II","band":"10","col":"1613"},
-  {"term":"τυραννίς","qualifier":"I","band":null,"col":null},
-  {"term":"– I (allg.) 2 132–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"τυραννίς","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":2,"l":0,"editor":0,"role":"source"},

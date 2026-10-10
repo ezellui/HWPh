@@ -33,6 +33,6 @@ HWPH.put("a/1354",
   {"id":9,"name":"Erkenntnistheorie","label":"Idealismus, subjektiver"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Idealismus, subjektiver"}
  ],
- "reg_authors":[{"name":"Zeltner Hermann","n":6}]
+ "reg_authors":[{"name":"Zeltner Hermann","n":7}]
 }
 );

@@ -31,7 +31,6 @@ HWPH.put("a/2310",
  "outlinks":[],
  "register":[
   {"term":"Äusserung, performative","qualifier":"","band":null,"col":null},
-  {"term":"performativer 12 699f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"Sprachhandlung","qualifier":"","band":null,"col":null}
  ],
  "persons":[

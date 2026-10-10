@@ -1,99 +1,18 @@
 HWPH.put("r/73-63",
 [
- ["Scham C","Scham C","2","8","1211","main",2751,"Scham, Scheu","scham c"],
- ["Scham","Scham","",null,null,"main",2751,"Scham, Scheu","scham"],
- ["Scham","Strafe","I","10","210","ref",3035,"Strafe","scham"],
- [
-  "schöne ἄλογος","Rationalität I (erk.)","","8","53","ref",2576,"Rationalität, Rationalisierung",
-  "schone αλογοσ"
- ],
- ["schöne ἄλογος","Zahl","I","12","1125","ref",3670,"Zahl; Zählen","schone αλογοσ"],
- [
-  "Scientia generalis","Scientia generalis","(Leibniz)","8","1505","main",2790,"Scientia generalis",
-  "scientia generalis"
- ],
- [
-  "schöne anima rationabilis","Seele","II","9","14ff.","ref",2794,"Seele",
-  "schone anima rationabilis"
- ],
- [
-  "schöne beaux-arts","Kunst; Kunstwerk","II","4","1375","ref",1712,"Kunst, Kunstwerk",
-  "schone beaux-arts"
- ],
- [
-  "schöne beaux-arts","Wissenschaften, schöne","","12","955","ref",3639,"Wissenschaften, schöne",
-  "schone beaux-arts"
- ],
- [
-  "schöne belles-lettres","Wissenschaften, schöne","","12","955f.","ref",3639,
-  "Wissenschaften, schöne","schone belles-lettres"
- ],
  ["Schizophrenie","Schizophrenie","","8","1292","main",2765,"Schizophrenie","schizophrenie"],
- ["Schechina","Schechina","","8","1228","main",2756,"Schechina","schechina"],
- ["Schechina","Wohnen","","12","1016","ref",3654,"Wohnen","schechina"],
- ["Schranke","Kunst; Kunstwerk","III","4","1388f.","ref",1712,"Kunst, Kunstwerk","schranke"],
- ["Schranke","Sollen","I","9","1030","ref",2920,"Sollen","schranke"],
  [
-  "schöne 9 91 Experimental-Seelenlehre","Psychologie","","7","1600","ref",2511,"Psychologie",
-  "schone 9 91 experimental-seelenlehre"
+  "Schluss, praktischer","Schluss, praktischer","",null,null,"main",2770,"Schluß, praktischer",
+  "schluss, praktischer"
  ],
- ["Scheitern","Scheitern","",null,null,"main",2759,"Scheitern","scheitern"],
- ["Schreckliche","Schreckliche","",null,null,"main",2780,"Schreckliche","schreckliche"],
- [
-  "Schranke 3 875–877 s. auch","Horizont","II (erk.)",null,null,"ref",1310,"Horizont",
-  "schranke 3 875–877 s. auch"
- ],
- [
-  "Schranke – III 1 (allg.) 3 1200 – III 2 (Husserl) 3 1200f. – III 3 (Heidegger) 3 1201f. – III 4 (ling.) 3 1202–1206 s. auch",
-  "Präsupposition","",null,null,"ref",2446,"Präsupposition",
-  "schranke – iii 1 (allg.) 3 1200 – iii 2 (husserl) 3 1200f. – iii 3 (heidegger) 3 1201f. – iii 4 (ling.) 3 1202–1206 s. auch"
- ],
- [
-  "schöne 9 91 Humanität, höchste","Religion","VII","8","673f.","ref",2673,"Religion",
-  "schone 9 91 humanitat, hochste"
- ],
- ["schöne","Kalkül","","4","672–681","ref",1521,"Kalkül","schone"],
- ["schöne","Algebra der Logik","",null,null,"see",96,"Algebra der Logik","schone"],
- ["schöne","Algorithmus","",null,null,"see",97,"Algorithmus","schone"],
- ["schöne","Formales System","",null,null,"see",928,"Formales System","schone"],
- ["schöne","Formalismus","",null,null,"see",930,"Formalismus","schone"],
- ["schöne","Konstruktivismus","",null,null,"see",1632,"Konstruktivismus","schone"],
- ["schöne","Logik, konstruktive","",null,null,"see",1814,"Logik, konstruktive","schone"],
- ["schöne","Logik, operative","",null,null,"see",1816,"Logik, operative","schone"],
- ["schöne","Methode, axiomatische","",null,null,"see",1957,"Methode, axiomatische","schone"],
- ["schöne","Schliessen, natürliches","",null,null,"see",2768,"Schließen, natürliches","schone"],
- ["schöne","Sequenzenkalkül","",null,null,"see",2874,"Sequenzenkalkül","schone"],
- ["schöne","Vollformalismus","",null,null,"see",3481,"Vollformalismus","schone"],
- ["schöne","Tugend","",null,null,"ref",3239,"Tugend","schone"],
- ["Scholastik","Scholastik","","8","1337","main",2775,"Scholastik","scholastik"],
- [
-  "Science, cognitive","Science, cognitive","",null,null,"main",2789,"Science, Cognitive",
-  "science, cognitive"
- ],
- ["Science, cognitive","Operation","","6","1215","ref",2226,"Operation","science, cognitive"],
- [
-  "Science, cognitive","Repräsentation","IV (psych.)","8","840","ref",2686,"Repräsentation",
-  "science, cognitive"
- ],
- [
-  "Schema; Schematismus I (allg.)","Schema; Schematismus I (allg.)","","8","1248f.","main",2760,
-  "Schema, Schematismus","schema; schematismus i (allg.)"
- ],
- [
-  "Schluss, praktischer practical truth","Schluss, praktischer practical truth","",null,null,"main",
-  2769,"Schluß","schluss, praktischer practical truth"
- ],
- [
-  "Schluss, praktischer praktisches Wissen","Schluss, praktischer praktisches Wissen","",null,null,
-  "main",2769,"Schluß","schluss, praktischer praktisches wissen"
- ],
- ["Schöpfung","Schöpfung","III","8","1396","main",2779,"Schöpfung","schopfung"],
- ["schöne pulchritudo","Schöne","",null,null,"ref",2776,"Schöne","schone pulchritudo"],
- ["Schuld","Schuld","",null,null,"main",2784,"Schuld","schuld"],
- ["Schuld","Sünde","II","10","603","ref",3075,"Sünde","schuld"],
- ["Schechina","Schechina","","8","1229","main",2756,"Schechina","schechina"],
  ["scaena vitae","Theatrum mundi","",null,null,"ref",3162,"Theatrum mundi","scaena vitae"],
- ["scala creaturarum","Religion","",null,null,"ref",2673,"Religion","scala creaturarum"],
+ [
+  "scala creaturarum","Religion, natürliche bzw. vernünftige","","8","714","ref",2674,"Religion",
+  "scala creaturarum"
+ ],
+ ["scala naturae","Leben","VI (biol.)","5","98","ref",1735,"Leben","scala naturae"],
+ ["scala naturae","Stufen","I","10","353","ref",3044,"Stufen","scala naturae"],
+ ["scala naturae","Tier","I","10","1199","ref",3192,"Tier; Tierseele","scala naturae"],
  ["scandalum","Ärgernis","",null,null,"ref",243,"Ärgernis","scandalum"],
  ["scelus","Sünde","I","10","599","ref",3075,"Sünde","scelus"],
  ["scelus","Verbrechen","","11","588","ref",3386,"Verbrechen","scelus"],
@@ -119,9 +38,10 @@ HWPH.put("r/73-63",
   "schadellehre; kranioskopie"
  ],
  [
-  "Schädellehre; Kranioskopie","Physiognomik Schärfe des Begriffs","",null,null,"see",null,null,
+  "Schädellehre; Kranioskopie","Physiognomik","",null,null,"see",2371,"Physiognomik, Physiognomie",
   "schadellehre; kranioskopie"
  ],
+ ["Schärfe des Begriffs","Subtilität","","10","565","ref",3067,"Subtilität","scharfe des begriffs"],
  ["Schaffen","Poiesis","",null,null,"ref",2390,"Poiesis","schaffen"],
  [
   "Schaffen, künstlerisches","Empfindlichkeit","(Valéry)","2","454","ref",720,"Empfindlichkeit",
@@ -159,7 +79,7 @@ HWPH.put("r/73-63",
  ],
  ["Schattenbild","Eidolon; Eikon","","2","231","ref",589,"Diätetik","schattenbild"],
  ["schattenlos","Erleuchtung","","2","713","ref",807,"Erleuchtung","schattenlos"],
- ["Schatz","Lohn II (theol.)","","5","510","ref",1828,"Lohn, Verdienst","schatz"],
+ ["Schatz","Lohn","II (theol.)","5","510","ref",1828,"Lohn, Verdienst","schatz"],
  ["Schatz des Seins","Vollkommenheit","","11","1122","ref",3482,"Vollkommenheit","schatz des seins"],
  ["Schau","Metaphysik","III",null,null,"ref",1944,"Metaphysik","schau"],
  ["Schau","Theorie","I",null,null,"ref",3179,"Theorie","schau"],
@@ -190,7 +110,7 @@ HWPH.put("r/73-63",
   "scheidung, innerliche"
  ],
  ["Schein","Schein","","8","1230–1243","main",2757,"Schein","schein"],
- ["Schein","Dialektik","IV",null,null,"ref",583,"Dialektik","schein"],
+ ["Schein","Dialektik","IV 5. 3","2","210","ref",583,"Dialektik","schein"],
  ["Schein","Phänomen","III","7","475","ref",2340,"Phänomen","schein"],
  ["Schein","Sein; Seiendes","V 4","9","213","ref",2806,"Sein; Seiendes","schein"],
  ["Schein","Verblendung","","11","580f.","ref",3383,"Verblendung; Verblendungszusammenhang","schein"],
@@ -228,7 +148,7 @@ HWPH.put("r/73-63",
  ["Scheinbegriffe","Scheinprobleme","",null,null,"ref",2758,"Scheinprobleme","scheinbegriffe"],
  ["Scheineigenname","Eigenname","","2","333","ref",663,"Eigenname","scheineigenname"],
  [
-  "Scheinerklärung","Erklären II (wiss.)","","2","695","ref",801,"Erklären, Erklärung",
+  "Scheinerklärung","Erklären","II (wiss.)","2","695","ref",801,"Erklären, Erklärung",
   "scheinerklarung"
  ],
  ["Scheinlehre","Phänomenologie","I 4","7","487","ref",2343,"Phänomenologie","scheinlehre"],
@@ -245,7 +165,10 @@ HWPH.put("r/73-63",
   "Scheinprobleme","Theologie, politische","","10","1108","ref",3174,"Theologie, politische",
   "scheinprobleme"
  ],
- ["Scheinschluss","Irrtum","(Schlussfehler)",null,null,"ref",1499,"Irrtum","scheinschluss"],
+ [
+  "Scheinschluss","Irrtum (Schlussfehler)","",null,null,"ref",1500,"Irrtum (Schlußfehler)",
+  "scheinschluss"
+ ],
  ["Scheintod","Todeskriterien","","10","1245f.","ref",3199,"Todeskriterien","scheintod"],
  ["Scheinweisheit","Phänomen","II","7","465ff.","ref",2340,"Phänomen","scheinweisheit"],
  ["Scheitern","Scheitern","","8","1245f.","main",2759,"Scheitern","scheitern"],
@@ -254,9 +177,18 @@ HWPH.put("r/73-63",
   "Schema; Schematismus","Schema; Schematismus","","8","1246–1263","main",2760,
   "Schema, Schematismus","schema; schematismus"
  ],
+ ["Schema; Schematismus","Hypotypose","",null,null,"see",1331,"Hypotypose","schema; schematismus"],
+ [
+  "Schema; Schematismus","Kognition","",null,null,"see",1578,"Kognition, kognitiv",
+  "schema; schematismus"
+ ],
+ [
+  "Schema; Schematismus","Mechanismus, auslösender","",null,null,"see",1904,
+  "Mechanismus, auslösender","schema; schematismus"
+ ],
  ["Schema","Allgemeines/Besonderes","III 2","1","181f.","ref",101,"Allgemeines/Besonderes","schema"],
  ["Schema","Einbildungskraft","I","2","348","ref",673,"Einbildung, Einbildungskraft","schema"],
- ["Schema","Erfahrung","",null,null,"ref",786,"Erfahrung","schema"],
+ ["Schema","Erfahrung, Analogien","",null,null,"ref",786,"Erfahrung","schema"],
  [
   "schema/inscription","Type and token","","10","1580","ref",3242,"Type and token",
   "schema/inscription"
@@ -271,11 +203,11 @@ HWPH.put("r/73-63",
   "schema, korperliches"
  ],
  [
-  "Schema, körperliches","Schema; Schematismus I (allg.)","","8","1258","ref",2760,
+  "Schema, körperliches","Schema; Schematismus","I (allg.)","8","1258","ref",2760,
   "Schema, Schematismus","schema, korperliches"
  ],
  [
-  "Schema, symbolisches","Schema; Schematismus II (psych.)","","8","1262","ref",2760,
+  "Schema, symbolisches","Schema; Schematismus","II (psych.)","8","1262","ref",2760,
   "Schema, Schematismus","schema, symbolisches"
  ],
  ["Schema Gottes","Setzen","I","9","701","ref",2876,"Setzen, Setzung","schema gottes"],
@@ -289,8 +221,12 @@ HWPH.put("r/73-63",
  ],
  ["schematismi","Form und Materie","","2","1011","ref",939,"Form und Materie (Stoff)","schematismi"],
  [
-  "schematismi","Schema; Schematismus I (allg.)","","8","1248","ref",2760,"Schema, Schematismus",
+  "schematismi","Schema; Schematismus","I (allg.)","8","1248","ref",2760,"Schema, Schematismus",
   "schematismi"
+ ],
+ [
+  "schematismus processus","Latenz","III (psych.)","5","43","ref",1731,"Latent, Latenz",
+  "schematismus processus"
  ],
  ["Scherz","Ernst","","2","721ff.","ref",811,"Ernst","scherz"],
  ["Scherz","Witz","","12","983","ref",3648,"Witz","scherz"],
@@ -308,13 +244,33 @@ HWPH.put("r/73-63",
   "schicht, soziale"
  ],
  [
-  "Schichten der Persönlichkeit","Schichtenlehre II (psych.) Schichten des Seins","",null,null,"ref",
-  null,null,"schichten der personlichkeit"
+  "Schichten der Persönlichkeit","Schichtenlehre","II (psych.)",null,null,"ref",2762,
+  "Schichtenlehre, Schichtentheorie","schichten der personlichkeit"
  ],
+ [
+  "Schichten des Seins","Form und Materie","","2","1027","ref",939,"Form und Materie (Stoff)",
+  "schichten des seins"
+ ],
+ ["Schichten des Seins","Stufen","II","10","362f.","ref",3044,"Stufen","schichten des seins"],
  [
   "Schichtenlehre","Schichtenlehre","","8","1267–1271","main",2762,
   "Schichtenlehre, Schichtentheorie","schichtenlehre"
  ],
+ [
+  "Schichtenlehre","Dependenzgesetze","(Hartmann)",null,null,"see",562,"Dependenzgesetze",
+  "schichtenlehre"
+ ],
+ [
+  "Schichtenlehre","Gesetze, kategoriale","(Hartmann)",null,null,"see",1110,"Gesetze, kategoriale",
+  "schichtenlehre"
+ ],
+ [
+  "Schichtenlehre","Kategorialanalyse","(Hartmann)",null,null,"see",1539,"Kategorialanalyse",
+  "schichtenlehre"
+ ],
+ ["Schichtenlehre","Kohärenz","(Hartmann)",null,null,"see",1579,"Kohärenz","schichtenlehre"],
+ ["Schichtenlehre","Charakterologie","",null,null,"see",488,"Charakterologie","schichtenlehre"],
+ ["Schichtenlehre","Es Schichtenlehre","",null,null,"see",null,null,"schichtenlehre"],
  [
   "Schichtentheorie","Schichtenlehre","",null,null,"ref",2762,"Schichtenlehre, Schichtentheorie",
   "schichtentheorie"
@@ -322,15 +278,15 @@ HWPH.put("r/73-63",
  ["Schicklich","Schicklich","","8","1271–1274","main",2763,"Schicklich","schicklich"],
  ["Schicklich","Anständigkeit","",null,null,"see",170,"Anständigkeit","schicklich"],
  ["Schicklich","Geselligkeit","",null,null,"see",1098,"Geselligkeit, gesellig","schicklich"],
- ["Schicklich","Geziemende","",null,null,"see",1136,"Geziemende","schicklich"],
+ ["Schicklich","Geziemende, das","",null,null,"see",1136,"Geziemende","schicklich"],
+ ["Schicklich","Takt","",null,null,"see",3123,"Takt","schicklich"],
+ ["Schicklich","Umgang","",null,null,"see",3272,"Umgang","schicklich"],
  ["Schickliche, das","Ingenium","","4","361","ref",1436,"Ingenium","schickliche, das"],
  ["Schicksal","Schicksal","","8","1275–1289","main",2764,"Schicksal","schicksal"],
  ["Schicksal","Ananke","",null,null,"see",133,"Ananke","schicksal"],
  ["Schicksal","Fatalismus","",null,null,"see",898,"Fatalismus","schicksal"],
  ["Schicksal","Fatum","",null,null,"see",899,"Fatum","schicksal"],
- ["Schicksal","Nexus universalis","",null,null,"see",2132,"Nexus, Nexus universalis","schicksal"],
- ["Schicksal","Prädestination","",null,null,"see",2424,"Prädestination","schicksal"],
- ["Schicksal","Vorsehung","",null,null,"see",3500,"Vorsehung","schicksal"],
+ ["Schicksal","Nexus","",null,null,"see",2132,"Nexus, Nexus universalis","schicksal"],
  ["Schicksal","Mantik","",null,null,"ref",1868,"Mantik","schicksal"],
  ["Schicksal","Geschichte","VI","3","386","ref",1085,"Geschichte, Historie","schicksal"],
  ["Schicksal","Gesetz, ewiges","","3","514","ref",1106,"Gesetz, ewiges","schicksal"],
@@ -345,7 +301,7 @@ HWPH.put("r/73-63",
  ],
  ["Schicksalstragödie","Schicksal","","8","1284","ref",2764,"Schicksal","schicksalstragodie"],
  ["Schicksalswendung","Umschlag","","11","92","ref",3275,"Umschlag","schicksalswendung"],
- ["Schimpfliche, das","Scham C","2","8","1210","ref",2751,"Scham, Scheu","schimpfliche, das"],
+ ["Schimpfliche, das","Scham","C 2","8","1210","ref",2751,"Scham, Scheu","schimpfliche, das"],
  [
   "Schintoismus","Shintō; Shintoismus Schizo-Analyse","",null,null,"ref",2880,"Shinto; Schintoismus",
   "schintoismus"
@@ -354,7 +310,7 @@ HWPH.put("r/73-63",
  ["Schizophrenie","Schizophrenie","","8","1289–1295","main",2765,"Schizophrenie","schizophrenie"],
  ["Schizophrenie","Bewusstseinsstörung","",null,null,"see",420,"Bewußtseinsstörung","schizophrenie"],
  ["Schizophrenie","Geisteskrankheit","",null,null,"see",1035,"Geisteskrankheit","schizophrenie"],
- ["Schizophrenie","Prozess III (psych.)","",null,null,"see",2499,"Prozeß","schizophrenie"],
+ ["Schizophrenie","Prozess","III (psych.)",null,null,"see",2499,"Prozeß","schizophrenie"],
  ["Schizophrenie","Psychose","",null,null,"see",2528,"Psychose","schizophrenie"],
  ["Schizophrenie","Wahn","",null,null,"see",3520,"Wahn","schizophrenie"],
  [
@@ -382,11 +338,11 @@ HWPH.put("r/73-63",
  ["Schlaf, magnetischer","Hypnose","","3","1242","ref",1325,"Hypnose","schlaf, magnetischer"],
  ["Schlaf, partieller","Hypnose","","3","1247","ref",1325,"Hypnose","schlaf, partieller"],
  ["Schlaf des Geistes","Seele","IV","9","47","ref",2794,"Seele","schlaf des geistes"],
- ["Schlafwandeln","Somnambulismus Schlangenlinie","",null,null,"ref",null,null,"schlafwandeln"],
  [
-  "Schönheitslinie","Schönheitslinie","","8","1387f.","main",2778,"Schönheitslinie",
-  "schonheitslinie"
+  "Schlafwandeln","Somnambulismus","",null,null,"ref",2923,"Somnambulismus, somnambul",
+  "schlafwandeln"
  ],
+ ["Schlangenlinie","Schönheitslinie","","8","1387f.","ref",2778,"Schönheitslinie","schlangenlinie"],
  ["Schlechte, das","Malum","",null,null,"ref",1852,"Malum","schlechte, das"],
  ["Schlechtigkeit der Welt","Malum","VI","5","697","ref",1852,"Malum","schlechtigkeit der welt"],
  [
@@ -412,7 +368,9 @@ HWPH.put("r/73-63",
   "Schleiermacherei","Moralist; Moralismus","","6","177","ref",2027,"Moralist, Moralismus",
   "schleiermacherei"
  ],
- ["Schleim","Säfte Schlichtung","",null,null,"ref",null,null,"schleim"],
+ ["Schleim","Säfte","",null,null,"ref",2735,"Säfte, Säftelehre","schleim"],
+ ["Schlichtung","Billigkeit","II",null,null,"ref",438,"Billigkeit","schlichtung"],
+ ["Schlichtung","Vermittlung","","11","723","ref",3417,"Vermittlung","schlichtung"],
  ["Schliessen","Schluss","",null,null,"ref",2769,"Schluß","schliessen"],
  ["Schliessen","Denken","I","2","71f.","ref",552,"Denken","schliessen"],
  ["Schliessen","Urteil","II 2","11","440","ref",3355,"Urteil","schliessen"],
@@ -440,7 +398,7 @@ HWPH.put("r/73-63",
  ["Schluss","Folgerung","",null,null,"see",926,"Folgerung","schluss"],
  ["Schluss","Implikation","",null,null,"see",1399,"Implikation","schluss"],
  ["Schluss","Induktion","III (math.)",null,null,"see",1425,"Induktion","schluss"],
- ["Schluss","Irrtum","(Schlussfehler)",null,null,"see",1499,"Irrtum","schluss"],
+ ["Schluss","Irrtum (Schlussfehler)","",null,null,"see",1500,"Irrtum (Schlußfehler)","schluss"],
  ["Schluss","Kalkül","",null,null,"see",1521,"Kalkül","schluss"],
  ["Schluss","Konsequenz","",null,null,"see",1619,"Konsequenz","schluss"],
  ["Schluss","Logik","II",null,null,"see",1803,"Logik","schluss"],
@@ -452,10 +410,20 @@ HWPH.put("r/73-63",
  ["Schluss","Trugschluss","",null,null,"see",3237,"Trugschluß","schluss"],
  ["Schluss","Vernunftschluss","",null,null,"see",3426,"Vernunftschluß","schluss"],
  ["Schluss","Verstandesschluss","",null,null,"see",3436,"Verstandesschluß","schluss"],
- ["Schluss","Wahrscheinlichkeitsschluss Schluss","",null,null,"see",null,null,"schluss"],
  [
-  "Schluss, dialektischer","Wahrscheinlichkeitsschluss Schluss, epagogischer","",null,null,"ref",
-  null,null,"schluss, dialektischer"
+  "Schluss","Wahrscheinlichkeitsschluss","",null,null,"see",3542,"Wahrscheinlichkeitsschluß",
+  "schluss"
+ ],
+ ["Schluss","Dilemma","",null,null,"ref",601,"Dilemma","schluss"],
+ ["Schluss","Regressus/Progressus","",null,null,"ref",2649,"Regressus/progressus","schluss"],
+ ["Schluss","Mitte","","5","1423","ref",1985,"Mitte","schluss"],
+ [
+  "Schluss, dialektischer","Wahrscheinlichkeitsschluss","",null,null,"ref",3542,
+  "Wahrscheinlichkeitsschluß","schluss, dialektischer"
+ ],
+ [
+  "Schluss, epagogischer","Induktion","I (wiss.)",null,null,"ref",1425,"Induktion",
+  "schluss, epagogischer"
  ],
  [
   "Schluss, hypothetischer","Konsequenz","",null,null,"ref",1619,"Konsequenz",
@@ -470,8 +438,12 @@ HWPH.put("r/73-63",
   "schluss, hypothetischer"
  ],
  [
-  "Schluss, mittelbarer","Vernunftschluss Schluss, nicht-syllogistischer","",null,null,"ref",null,
-  null,"schluss, mittelbarer"
+  "Schluss, mittelbarer","Vernunftschluss","",null,null,"ref",3426,"Vernunftschluß",
+  "schluss, mittelbarer"
+ ],
+ [
+  "Schluss, nicht-syllogistischer","Verstandesschluss","",null,null,"ref",3436,"Verstandesschluß",
+  "schluss, nicht-syllogistischer"
  ],
  [
   "Schluss, praktischer","Schluss, praktischer","","8","1306–1312","main",2770,"Schluß, praktischer",
@@ -483,15 +455,22 @@ HWPH.put("r/73-63",
   "Progressiv/regressiv","schluss, progressiver/regressiver"
  ],
  [
-  "Schluss, unmittelbarer","Verstandesschluss Schluss, vernünftelnder","",null,null,"ref",null,null,
+  "Schluss, unmittelbarer","Verstandesschluss","",null,null,"ref",3436,"Verstandesschluß",
   "schluss, unmittelbarer"
+ ],
+ [
+  "Schluss, vernünftelnder","Vernunftschluss","","11","868","ref",3426,"Vernunftschluß",
+  "schluss, vernunftelnder"
  ],
  [
   "Schluss, vollkommener","Syllogismus; Syllogistik","","10","691","ref",3091,
   "Syllogismus; Syllogistik","schluss, vollkommener"
  ],
  ["Schluss aus Zeichen","Semiose","",null,null,"ref",2864,"Semiose","schluss aus zeichen"],
- ["Schlussfehler","Irrtum","(Schlussfehler)",null,null,"ref",1499,"Irrtum","schlussfehler"],
+ [
+  "Schlussfehler","Irrtum (Schlussfehler)","",null,null,"ref",1500,"Irrtum (Schlußfehler)",
+  "schlussfehler"
+ ],
  [
   "Schlussfigur; Schlussform","Syllogismus; Syllogistik","",null,null,"ref",3091,
   "Syllogismus; Syllogistik","schlussfigur; schlussform"
@@ -563,7 +542,18 @@ HWPH.put("r/73-63",
   "Schnittsatz","Regellogik/Satzlogik","","8","470f.","ref",2643,"Regellogik/Satzlogik",
   "schnittsatz"
  ],
- ["Schock","Schreckliche","",null,null,"ref",2780,"Schreckliche","schock"],
+ ["Schock","Schreckliche, das","","8","1415","ref",2780,"Schreckliche","schock"],
+ ["Schöne, das","Schöne, das","","8","1343–1385","main",2776,"Schöne","schone, das"],
+ ["Schöne, das","Ästhetik","",null,null,"see",266,"Ästhetik, ästhetisch","schone, das"],
+ ["Schöne, das","Erhabene, das","",null,null,"see",null,null,"schone, das"],
+ ["Schöne, das","Gestalt","I (ästh.)",null,null,"see",1116,"Gestalt","schone, das"],
+ ["Schöne, das","Glanz","",null,null,"see",1137,"Glanz","schone, das"],
+ [
+  "Schöne, das","Naturschönheit/Kunstschönheit","",null,null,"see",2090,
+  "Naturschönheit/Kunstschönheit","schone, das"
+ ],
+ ["Schöne, das","Symmetrie","I (ästh.)",null,null,"see",3097,"Symmetrie","schone, das"],
+ ["Schöne, das","Wahrnehmung","VIII (ästh.)",null,null,"see",3539,"Wahrnehmung","schone, das"],
  [
   "Schöne, das","Einbildungskraft","II","2","353ff.","ref",673,"Einbildung, Einbildungskraft",
   "schone, das"
@@ -571,42 +561,47 @@ HWPH.put("r/73-63",
  ["Schöne, das","Einfühlungsästhetik","","2","398","ref",682,"Einfühlungsästhetik","schone, das"],
  ["Schöne, das","Genuss","","3","320","ref",1076,"Genuß","schone, das"],
  ["Schöne, das","Kunst; Kunstwerk","II","4","1375","ref",1712,"Kunst, Kunstwerk","schone, das"],
- ["Schöne, das","Mass II (ästh.)","","5","816ff.","ref",1877,"Maß","schone, das"],
+ ["Schöne, das","Mass","II (ästh.)","5","816ff.","ref",1877,"Maß","schone, das"],
  ["schöne Künste","Genie","III","3","288","ref",1071,"Genie","schone kunste"],
  ["schöne Künste","Kunst; Kunstwerk","III","4","1378","ref",1712,"Kunst, Kunstwerk","schone kunste"],
  [
   "schöne Künste","Wissenschaften, schöne","","12","955","ref",3639,"Wissenschaften, schöne",
   "schone kunste"
  ],
- ["schöne Seele","Seele","",null,null,"ref",2794,"Seele","schone seele"],
+ ["schöne Seele","Seele, schöne","",null,null,"ref",2794,"Seele","schone seele"],
  [
-  "schöne schöne Wissenschaften","Wissenschaften, schöne","",null,null,"ref",3639,
-  "Wissenschaften, schöne","schone schone wissenschaften"
+  "schöne Wissenschaften","Wissenschaften, schöne","",null,null,"ref",3639,"Wissenschaften, schöne",
+  "schone wissenschaften"
  ],
  ["Schöner Geist","Schöner Geist","","8","1385–1387","main",2776,"Schöne","schoner geist"],
  ["schöner Geist","Ästhetik","","1","556","ref",266,"Ästhetik, ästhetisch","schoner geist"],
  ["Schöngeist","Schöner Geist","",null,null,"ref",2777,"Schöner Geist, Schöngeist","schongeist"],
- ["Schöngeist","Seele","",null,null,"ref",2794,"Seele","schongeist"],
+ ["Schöngeist","Seele, schöne","","9","90","ref",2795,"Seele, schöne; Seelenschönheit","schongeist"],
+ ["Schönheit","Ausdruck","II (ästh.)",null,null,"ref",298,"Ausdruck","schonheit"],
+ ["Schönheit","Geschmack","",null,null,"ref",1097,"Geschmack","schonheit"],
+ ["Schönheit","Schöne, das","",null,null,"ref",2776,"Schöne","schonheit"],
+ ["Schönheit","Seele, schöne","",null,null,"ref",2794,"Seele","schonheit"],
  [
-  "schöne 9 90 Schönheit","Ausdruck","II (ästh.)",null,null,"ref",298,"Ausdruck",
-  "schone 9 90 schonheit"
+  "Schönheit","Wohlgefallen, interesseloses","",null,null,"ref",3651,"Wohlgefallen, interesseloses",
+  "schonheit"
  ],
- ["schöne 9 90 Schönheit","Geschmack","",null,null,"ref",1097,"Geschmack","schone 9 90 schonheit"],
- ["schöne 9 90 Schönheit","Schöne","",null,null,"ref",2776,"Schöne","schone 9 90 schonheit"],
+ ["Schönheit","Autonomie","","1","710","ref",327,"Autonomie","schonheit"],
+ ["Schönheit","Einbildungskraft","II","2","350","ref",673,"Einbildung, Einbildungskraft","schonheit"],
+ ["Schönheit","Gefühl","I","3","84ff.","ref",1009,"Gefühl","schonheit"],
+ ["Schönheit","Genie","III","3","288f.","ref",1071,"Genie","schonheit"],
+ ["Schönheit","Idee","IV","4","122f.","ref",1361,"Idee","schonheit"],
+ ["Schönheit","Species","I (met.)","9","1316ff.","ref",2966,"Species","schonheit"],
+ ["Schönheit","Vielheit","I","11","1047","ref",3462,"Vielheit","schonheit"],
+ ["Schönheit","Vollkommenheit","","11","1125","ref",3482,"Vollkommenheit","schonheit"],
+ ["Schönheit","Wahrheit","V A","12","89f.","ref",3523,"Wahrheit","schonheit"],
  [
-  "schöne","Wohlgefallen, interesseloses","",null,null,"ref",3651,"Wohlgefallen, interesseloses",
-  "schone"
+  "Schönheit","Wahrheit, ästhetische","","12","139","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","schonheit"
  ],
- ["schöne","Autonomie","","1","710","ref",327,"Autonomie","schone"],
- ["schöne","Einbildungskraft","II","2","350","ref",673,"Einbildung, Einbildungskraft","schone"],
- ["schöne","Gefühl","I","3","84ff.","ref",1009,"Gefühl","schone"],
- ["schöne","Genie","III","3","288f.","ref",1071,"Genie","schone"],
- ["schöne","Idee","IV","4","122f.","ref",1361,"Idee","schone"],
- ["schöne","Species","I (met.)","9","1316ff.","ref",2966,"Species","schone"],
- ["schöne","Vielheit","I","11","1047","ref",3462,"Vielheit","schone"],
- ["schöne","Vollkommenheit","","11","1125","ref",3482,"Vollkommenheit","schone"],
- ["schöne","Wahrheit","V A","12","89f.","ref",3523,"Wahrheit","schone"],
- ["schöne","Wahrheit","",null,null,"ref",3523,"Wahrheit","schone"],
+ [
+  "Schönheit, absolute","Wahrheit, absolute","","12","136","ref",3526,"Wahrheit, absolute",
+  "schonheit, absolute"
+ ],
  ["Schönheit, geistige","Uti/frui","","11","501","ref",3365,"Uti/frui","schonheit, geistige"],
  ["Schönheit, innere","Kalokagathia","II","4","682","ref",1522,"Kalokagathia","schonheit, innere"],
  [
@@ -682,9 +677,9 @@ HWPH.put("r/73-63",
   "scholastische methode"
  ],
  ["Schonen","Wohnen","","12","1016f.","ref",3654,"Wohnen","schonen"],
- ["Schranke","Grenze","",null,null,"ref",1184,"Grenze","schranke"],
+ ["Schranke","Grenze; Schranke","",null,null,"ref",1184,"Grenze","schranke"],
  [
-  "Schranke","Bestimmung; Determination I (met.)","","1","854","ref",400,
+  "Schranke","Bestimmung; Determination","I (met.)","1","854","ref",400,
   "Bestimmung, bestimmen, Determination","schranke"
  ],
  [
@@ -692,8 +687,17 @@ HWPH.put("r/73-63",
   "schranken der erkenntnis"
  ],
  ["Schrecken","Furcht und Mitleid","",null,null,"ref",979,"Furcht und Mitleid","schrecken"],
- ["Schrecken","Schreckliche","",null,null,"ref",2780,"Schreckliche","schrecken"],
- ["Schreckliche","Schreckliche","",null,null,"main",2780,"Schreckliche","schreckliche"],
+ ["Schrecken","Schreckliche, das","",null,null,"ref",2780,"Schreckliche","schrecken"],
+ ["Schrecken","Terror","",null,null,"ref",3154,"Terror","schrecken"],
+ [
+  "Schreckliche, das","Schreckliche, das","","8","1413–1416","main",2779,"Schöpfung",
+  "schreckliche, das"
+ ],
+ ["Schreckliche, das","Hässliche, das","",null,null,"see",1228,"Häßliche (das)","schreckliche, das"],
+ [
+  "Schreckliche, das","Unheimliche, das","",null,null,"see",3299,"Unheimliche, das",
+  "schreckliche, das"
+ ],
  [
   "Schreckliche, das","Kontraktion Gottes","","4","1065","ref",1644,"Kontraktion Gottes",
   "schreckliche, das"
@@ -701,9 +705,11 @@ HWPH.put("r/73-63",
  ["Schreckstarre","Hypnose","","3","1248","ref",1325,"Hypnose","schreckstarre"],
  ["Schreibart, göttliche","Solözismus","","9","1059","ref",2922,"Solözismus","schreibart, gottliche"],
  ["Schrift","Schrift","","8","1417–1431","main",2781,"Schrift","schrift"],
+ ["Schrift (chin.)","Emblem","II (chin.)",null,null,"ref",716,"Emblem, Emblematik","schrift (chin.)"],
+ ["Schriftauslegung","Perspikuität","",null,null,"ref",2327,"Perspikuität","schriftauslegung"],
  [
-  "Schrift (chin.)","Emblem II (chin.) Schriftauslegung","",null,null,"ref",null,null,
-  "schrift (chin.)"
+  "Schriftauslegung","Schriftsinn, mehrfacher","",null,null,"ref",2782,"Schriftsinn, mehrfacher",
+  "schriftauslegung"
  ],
  [
   "Schriften, psychagogische","Philosophie","VI (lit. Formen)","7","857f.","ref",2353,"Philosophie",
@@ -744,8 +750,10 @@ HWPH.put("r/73-63",
  ],
  ["Schuld","Schuld","","8","1442–1472","main",2784,"Schuld","schuld"],
  ["Schuld","Sünde","",null,null,"see",3075,"Sünde","schuld"],
+ ["Schuld","Vorsatz","",null,null,"see",3497,"Vorsatz","schuld"],
+ ["Schuld","Vorwerfbarkeit","",null,null,"see",3509,"Vorwerfbarkeit","schuld"],
  [
-  "Schuld","Obligatio; Ars obligatoria I (eth.)","","6","1066","ref",2194,
+  "Schuld","Obligatio; Ars obligatoria","I (eth.)","6","1066","ref",2194,
   "Obligatio, Ars obligatoria","schuld"
  ],
  ["Schuld","Sein, moralisches","","9","240","ref",2808,"Sein, moralisches","schuld"],
@@ -761,8 +769,8 @@ HWPH.put("r/73-63",
  ],
  ["Schule","Schule","","8","1472–1478","main",2785,"Schule","schule"],
  [
-  "Schulen, Strömungen und Positionen > s. auch","Register der Sachgruppen Schulen, philosophische",
-  "",null,null,"ref",null,null,"schulen, stromungen und positionen > s. auch"
+  "Schulen, Strömungen und Positionen >","Register der Sachgruppen Schulen, philosophische","",null,
+  null,"see",null,null,"schulen, stromungen und positionen >"
  ],
  [
   "Schulgelehrtheit","Universitätsphilosophie","(Schopenhauer)","11","218","ref",3309,
@@ -803,7 +811,7 @@ HWPH.put("r/73-63",
  ],
  ["Schwere","Gravitation","",null,null,"ref",1181,"Gravitation","schwere"],
  ["Schwere","Leib/Körper","I","5","175","ref",1769,"Leib, Körper","schwere"],
- ["Schwere","Masse I (phys.)","","5","826","ref",1878,"Masse, Massen","schwere"],
+ ["Schwere","Masse","I (phys.)","5","826","ref",1878,"Masse, Massen","schwere"],
  ["Schwere","Materie","I","5","878","ref",1892,"Materie","schwere"],
  ["Schwere","Materie","III","5","909f.","ref",1892,"Materie","schwere"],
  ["Schwere","Materie","V (phys.)","5","921","ref",1892,"Materie","schwere"],
@@ -822,13 +830,14 @@ HWPH.put("r/73-63",
   "science, cognitive"
  ],
  [
-  "Science, cognitive","Erkenntnis II (psych.)","",null,null,"see",796,"Erkennen, Erkenntnis",
+  "Science, cognitive","Erkenntnis","II (psych.)",null,null,"see",796,"Erkennen, Erkenntnis",
   "science, cognitive"
  ],
  [
-  "Science, cognitive","Kognition science, cognitive","",null,null,"see",null,null,
+  "Science, cognitive","Kognition","",null,null,"see",1578,"Kognition, kognitiv",
   "science, cognitive"
  ],
+ ["science, cognitive","Psychologie","","7","1644f.","ref",2511,"Psychologie","science, cognitive"],
  [
   "science, inductive","Erfahrungswissenschaft","","2","621","ref",789,"Erfahrungswissenschaft",
   "science, inductive"
@@ -982,7 +991,7 @@ HWPH.put("r/73-63",
   "scientia generalis"
  ],
  [
-  "scientia generalis","Invention; Erfindung III (log.)","","4","558ff.","ref",1490,
+  "scientia generalis","Invention; Erfindung","III (log.)","4","558ff.","ref",1490,
   "Invention, Erfindung, Entdeckung","scientia generalis"
  ],
  ["scientia generalis","Philosophie","III C","7","668","ref",2353,"Philosophie","scientia generalis"],
@@ -1014,7 +1023,7 @@ HWPH.put("r/73-63",
  ["Scientia media","Vorherwissen","",null,null,"see",3494,"Vorherwissen","scientia media"],
  ["Scientia media","Vorsehung","",null,null,"see",3500,"Vorsehung","scientia media"],
  [
-  "scientia moralis","Moral; Moralphilosophie III","",null,null,"ref",2022,
+  "scientia moralis","Moral; Moralphilosophie","III",null,null,"ref",2022,
   "Moral, moralisch, Moralphilosophie","scientia moralis"
  ],
  ["scientia moralis","Ethik","II","2","766","ref",835,"Ethik","scientia moralis"],
@@ -1126,7 +1135,7 @@ HWPH.put("r/73-63",
   "Scientific community","scientific community"
  ],
  [
-  "scientific management","Rationalität II (ökon.)","","8","57","ref",2576,
+  "scientific management","Rationalität","II (ökon.)","8","57","ref",2576,
   "Rationalität, Rationalisierung","scientific management"
  ],
  [
@@ -1151,57 +1160,18 @@ HWPH.put("r/73-63",
  ["scintilla","Seelenspitze","",null,null,"ref",2799,"Seelenspitze","scintilla"],
  ["scintilla conscientiae","Gewissen","","3","581","ref",1130,"Gewissen","scintilla conscientiae"],
  [
-  "scintilla rationis","Fünklein; Seelenfünklein scission","",null,null,"ref",973,
-  "Fünklein, Seelenfünklein","scintilla rationis"
+  "scintilla rationis","Fünklein; Seelenfünklein","",null,null,"ref",973,"Fünklein, Seelenfünklein",
+  "scintilla rationis"
  ],
+ ["scission","Reflexion","","8","403","ref",2634,"Reflexion","scission"],
  ["scolarium","Studium generale","","10","350","ref",3043,"Studium generale","scolarium"],
  ["scotism","Skotismus","",null,null,"ref",2911,"Skotismus","scotism"],
  ["scriptura","Schrift","",null,null,"ref",2781,"Schrift","scriptura"],
- [
-  "schöne 9 89–92 s. auch","Kalokagathia","",null,null,"ref",1522,"Kalokagathia",
-  "schone 9 89–92 s. auch"
- ],
- ["schöne","Seelensitz","","9","105–110","ref",2798,"Seelensitz","schone"],
- ["schöne","Seele","",null,null,"see",2794,"Seele","schone"],
- [
-  "Schichtenlehre I (Hartmann)","Schichtenlehre I (Hartmann)","",null,null,"main",2762,
-  "Schichtenlehre, Schichtentheorie","schichtenlehre i (hartmann)"
- ],
- [
-  "Schichtenlehre I (Hartmann)","Stufen","II","10","362","ref",3044,"Stufen",
-  "schichtenlehre i (hartmann)"
- ],
- [
-  "Schranke Selbstbegründung","Voraussetzungslosigkeit","","11","1169f.","ref",3488,
-  "Voraussetzungslosigkeit","schranke selbstbegrundung"
- ],
- [
-  "Schweigen; Stille A","Schweigen; Stille A","","8","1484","main",2787,"Schweigen, Stille",
-  "schweigen; stille a"
- ],
- [
-  "Schluss, praktischer","Schluss, praktischer","",null,null,"main",2770,"Schluß, praktischer",
-  "schluss, praktischer"
- ],
- ["Schluss, praktischer","Gewissen","","3","584","ref",1130,"Gewissen","schluss, praktischer"],
- [
-  "Schweigen; Stille A","Schweigen; Stille A","","8","1486","main",2787,"Schweigen, Stille",
-  "schweigen; stille a"
- ],
- [
-  "Schranke unendlich, aktual","Eine, das; Einheit","III","2","382","ref",675,"Eine (das), Einheit",
-  "schranke unendlich, aktual"
- ],
- [
-  "Schranke unendlich, aktual","Endlich/unendlich","","2","489f.","ref",735,"Endlich/unendlich",
-  "schranke unendlich, aktual"
- ],
- [
-  "schöne 9 92 Vorplatoniker","Vorsokratiker","","11","1223","ref",3502,
-  "Vorsokratisch; Vorsokratiker","schone 9 92 vorplatoniker"
- ],
- ["schöne","Subtilität","",null,null,"ref",3067,"Subtilität","schone"],
- ["Schaber Peter","Prinzip","III",null,null,"author",2458,"Prinzip","schaber peter"],
+ ["Schicksal","Schicksal","","8","1284f.","main",2764,"Schicksal","schicksal"],
+ ["Schicksal","Schuld","III","8","1459f.","ref",2784,"Schuld","schicksal"],
+ ["Schicksal","Seelenwanderung","I","9","117","ref",2801,"Seelenwanderung","schicksal"],
+ ["Schicksal","Sein, moralisches","","9","241","ref",2808,"Sein, moralisches","schicksal"],
+ ["Schaber Peter","Prinzip","III 5. 6 c","7","1366–1369","author",2458,"Prinzip","schaber peter"],
  [
   "Schaber Peter","Urteil, moralisches","II","11","470–473","author",3357,"Urteil, moralisches",
   "schaber peter"
@@ -1211,10 +1181,7 @@ HWPH.put("r/73-63",
   "Schäfer Rolf","Absolutheit des Christentums","","1","31f.","author",28,
   "Absolutheit des Christentums","schafer rolf"
  ],
- [
-  "Schäfer Rolf","Christentum,Wesen des","","1","1008–1016","author",496,"Christentum, Wesen des",
-  "schafer rolf"
- ],
+ ["Schäfer Rolf","Christentum","",null,null,"author",496,"Christentum, Wesen des","schafer rolf"],
  [
   "Schaeffler Richard","Modernismus","II","6","62–66","author",2002,"Modernismus",
   "schaeffler richard"
@@ -1231,14 +1198,14 @@ HWPH.put("r/73-63",
  ["Schalk Fritz","Epigramm","","2","582–584","author",772,"Epigramm","schalk fritz"],
  ["Schalk Fritz","Homme éclairé","","3","1171f.","author",1293,"Homme éclairé","schalk fritz"],
  ["Schalk Fritz","Honnête homme","","3","1186f.","author",1309,"Honnête homme","schalk fritz"],
- ["Schalk Fritz","Kritik","",null,null,"author",1694,"Kritik","schalk fritz"],
+ ["Schalk Fritz","Kritik; Literaturkritik","I","4","1282–1285","author",1694,"Kritik","schalk fritz"],
  ["Schalk Fritz","Libertin","","5","272–274","author",1788,"Libertin","schalk fritz"],
  [
   "Schalk Fritz","Libertinisme","","5","274f.","author",1789,"Libertinisme, Libertinage",
   "schalk fritz"
  ],
  [
-  "Schalk Helge","Unzeitgemäss (Nietzsche)","","11","348f.","author",3336,"Unzeitgemäß",
+  "Schalk Helge","Unzeitgemäss","(Nietzsche)","11","348f.","author",3336,"Unzeitgemäß",
   "schalk helge"
  ],
  ["Schaller Klaus","Pampaedia","(Comenius)","7","47f.","author",2260,"Pampaedia","schaller klaus"],
@@ -1292,7 +1259,7 @@ HWPH.put("r/73-63",
   "Scheerer Eckart","Kausalität","II (wiss.)","4","799–801","author",1551,"Kausalität",
   "scheerer eckart"
  ],
- ["Schellong Dieter","Gott","VII",null,null,"author",1162,"Gott","schellong dieter"],
+ ["Schellong Dieter","Gott","VII 2b","3","753–756","author",1162,"Gott","schellong dieter"],
  ["Schemme Wolfgang","Autor","II","1","722f.","author",331,"Autor","schemme wolfgang"],
  [
   "Schenk Günter","Subjekt/Prädikat","III","10","442–451","author",3050,"Subjekt/Prädikat",
@@ -1338,7 +1305,7 @@ HWPH.put("r/73-63",
   "Logica vetus / Logica nova, Logica antiqua / Logica modernorum","schepers heinrich"
  ],
  [
-  "Schepers Heinrich","Obligatio; Ars obligatoria II (log.)","","6","1068–1072","author",2194,
+  "Schepers Heinrich","Obligatio; Ars obligatoria","II (log.)","6","1068–1072","author",2194,
   "Obligatio, Ars obligatoria","schepers heinrich"
  ],
  [
@@ -1378,7 +1345,10 @@ HWPH.put("r/73-63",
   "Scherner Maximilian","Genus; Sexus","","3","311–315","author",1075,"Genus, Sexus",
   "scherner maximilian"
  ],
- ["Scherner Maximilian","Horizont","III",null,null,"author",1310,"Horizont","scherner maximilian"],
+ [
+  "Scherner Maximilian","Horizont","III 4 (ling.)","3","1202–1206","author",1310,"Horizont",
+  "scherner maximilian"
+ ],
  [
   "Scherner Maximilian","Lehnwort","","5","168–171","author",1766,"Lehnwort, Lehngut",
   "scherner maximilian"
@@ -1401,7 +1371,7 @@ HWPH.put("r/73-63",
  ["Schetsche Michael","Sexualität","II","9","730–742","author",2878,"Sexualität","schetsche michael"],
  ["Schiefele Hans","Es","","2","739f.","author",824,"Es","schiefele hans"],
  [
-  "Schiefele Hans","Schichtenlehre II (psych.)","","8","1268–1271","author",2762,
+  "Schiefele Hans","Schichtenlehre","II (psych.)","8","1268–1271","author",2762,
   "Schichtenlehre, Schichtentheorie","schiefele hans"
  ],
  [
@@ -1436,12 +1406,15 @@ HWPH.put("r/73-63",
   "schlaeger jurgen"
  ],
  [
-  "Schlegel Frank","Sprachspiel","(Wittgenstein)",null,null,"author",2994,"Sprachspiel",
+  "Schlegel Frank","Sprachspiel","(Wittgenstein) II","9","1535f.","author",2994,"Sprachspiel",
   "schlegel frank"
  ],
- ["Schlegel Frank","Topologie","",null,null,"author",3205,"Topologie","schlegel frank"],
  [
-  "Schlegel Frank","Verweisung (Heidegger)","","11","1006f.","author",3452,
+  "Schlegel Frank","Topologie des Seins","(Heidegger)","10","1291f.","author",3206,
+  "Topologie des Seins; Ortschaft des Seins","schlegel frank"
+ ],
+ [
+  "Schlegel Frank","Verweisung","(Heidegger)","11","1006f.","author",3452,
   "Verweisung; Verweisungszusammenhang","schlegel frank"
  ],
  ["Schlegel Frank","Vierung","(Heidegger)","11","1055f.","author",3463,"Vierung","schlegel frank"],
@@ -1568,7 +1541,7 @@ HWPH.put("r/73-63",
   "Schmidt Jan C","Zufall","IV (math. /phys.)","12","1419–1424","author",3706,"Zufall",
   "schmidt jan c"
  ],
- ["Schmidt Klaus J","Emblem I (lit.)","","2","449–452","author",715,"Emanzipation","schmidt klaus j"],
+ ["Schmidt Klaus J","Emblem","I (lit.)","2","449–452","author",715,"Emanzipation","schmidt klaus j"],
  [
   "Schmidt Klaus J","Zweiwertigkeitsprinzip","","12","1540–1542","author",3725,
   "Zweiwertigkeitsprinzip","schmidt klaus j"
@@ -1592,7 +1565,7 @@ HWPH.put("r/73-63",
   "schmidt-biggemann wilhelm"
  ],
  [
-  "Schmidt-Biggemann Wilhelm","Philosophie","III",null,null,"author",2353,"Philosophie",
+  "Schmidt-Biggemann Wilhelm","Philosophie III D-E","","7","671–679","author",2353,"Philosophie",
   "schmidt-biggemann wilhelm"
  ],
  [
@@ -1767,7 +1740,7 @@ HWPH.put("r/73-63",
   "Begehren, appetitus naturalis","schonpflug ute"
  ],
  ["Schönpflug Ute","Drang","","2","290–293","author",635,"Drang","schonpflug ute"],
- ["Schönpflug Ute","Entspannung","","2","548f.","author",756,"Entschluß","schonpflug ute"],
+ ["Schönpflug Ute","Entspannung","","2","548f.","author",757,"Entspannung","schonpflug ute"],
  ["Schönpflug Ute","Fehlleistung","","2","919–922","author",902,"Fehlleistung","schonpflug ute"],
  ["Schönpflug Ute","Fixierung","","2","954–957","author",922,"Fixierung","schonpflug ute"],
  [
@@ -1783,7 +1756,7 @@ HWPH.put("r/73-63",
  ["Schönpflug Ute","Ich","II","4","6–18","author",1334,"Ich","schonpflug ute"],
  ["Schönpflug Ute","Krise","III (psych.)","4","1242–1245","author",1691,"Krise","schonpflug ute"],
  [
-  "Schönpflug Ute","Latenz III (psych.)","","5","43–46","author",1731,"Latent, Latenz",
+  "Schönpflug Ute","Latenz","III (psych.)","5","43–46","author",1731,"Latent, Latenz",
   "schonpflug ute"
  ],
  ["Schönpflug Ute","Nachahmung","","6","319–336","author",2054,"Nachahmung","schonpflug ute"],
@@ -1796,14 +1769,14 @@ HWPH.put("r/73-63",
   "schonpflug wolfgang"
  ],
  [
-  "Schönrich Gerhard","Kategorie; Kategorienlehre I-II. IV-V","","4","714–725","author",1540,
+  "Schönrich Gerhard","Kategorie; Kategorienlehre I-II.","IV-V","4","714–725","author",1540,
   "Kategorie, Kategorienlehre","schonrich gerhard"
  ],
  ["Schöpf Alfred","Liebe","IV","5","318–328","author",1795,"Liebe","schopf alfred"],
  ["Schöpf Alfred","Lust; Freude","IV","5","563f.","author",1837,"Lust, Freude","schopf alfred"],
  ["Scholtz Gunter","Einkehr","","2","406f.","author",686,"Einkehr","scholtz gunter"],
  [
-  "Scholtz Gunter","Geschichte II-VI","","3","345–398","author",1085,"Geschichte, Historie",
+  "Scholtz Gunter","Geschichte","II-VI","3","345–398","author",1085,"Geschichte, Historie",
   "scholtz gunter"
  ],
  [
@@ -1864,16 +1837,22 @@ HWPH.put("r/73-63",
  ["Schott Erdmann","Fleisch","I","2","957","author",923,"Fleisch","schott erdmann"],
  ["Schott Erdmann","Köhlerglaube","","4","879","author",1581,"Köhlerglaube","schott erdmann"],
  ["Schottlaender Rudolf","Malum","II","5","656–665","author",1852,"Malum","schottlaender rudolf"],
- ["Schrader Wolfgang H","Konvention","",null,null,"author",1651,"Konvention","schrader wolfgang h"],
+ [
+  "Schrader Wolfgang H","Konvention","I-II","4","1071–1076","author",1651,"Konvention",
+  "schrader wolfgang h"
+ ],
  ["Schrader Wolfgang H","Norm","II","6","910–918","author",2160,"Norm","schrader wolfgang h"],
  ["Schrader Wolfgang H","Selbst","II","9","293–305","author",2820,"Selbst","schrader wolfgang h"],
  ["Schramm Hans-Peter","Befehl","","1","774f.","author",359,"Befehl","schramm hans-peter"],
  [
-  "Schramm Hans-Peter","Obligatio; Ars obligatoria I (eth.)","","6","1065–1068","author",2194,
+  "Schramm Hans-Peter","Obligatio; Ars obligatoria","I (eth.)","6","1065–1068","author",2194,
   "Obligatio, Ars obligatoria","schramm hans-peter"
  ],
  ["Schramm Matthias","Materie","II","5","880–904","author",1892,"Materie","schramm matthias"],
- ["Schramm Matthias","Proportion","",null,null,"author",2483,"Proportion","schramm matthias"],
+ [
+  "Schramm Matthias","Proportion","I-III","7","1482–1505","author",2483,"Proportion",
+  "schramm matthias"
+ ],
  ["Schreckenberg Heinz","Ananke","","1","266f.","author",133,"Ananke","schreckenberg heinz"],
  [
   "Schreckenberger Waldemar","Imputation","III","4","276f.","author",1405,"Imputation",
@@ -1914,7 +1893,7 @@ HWPH.put("r/73-63",
   "schroder winfried"
  ],
  [
-  "Schröder Winfried","Naturphilosophie","",null,null,"author",2088,"Naturphilosophie",
+  "Schröder Winfried","Naturphilosophie","I-IV","6","535–548","author",2088,"Naturphilosophie",
   "schroder winfried"
  ],
  [
@@ -1940,10 +1919,13 @@ HWPH.put("r/73-63",
  ],
  ["Schröder Winfried","Pantheismus","I","7","59–63","author",2266,"Pantheismus","schroder winfried"],
  [
-  "Schröder Winfried","Persönlichkeit, autoritäre","II",null,null,"author",2324,
+  "Schröder Winfried","Persönlichkeit, autoritäre","II 1. 3","7","356f.","author",2324,
   "Persönlichkeit, autoritäre","schroder winfried"
  ],
- ["Schröder Winfried","Philosophie","III",null,null,"author",2353,"Philosophie","schroder winfried"],
+ [
+  "Schröder Winfried","Philosophie III A;","VII A 7","7","656–662","author",2353,"Philosophie",
+  "schroder winfried"
+ ],
  [
   "Schröder Winfried","Präexistenz","","7","1228–1233","author",2432,"Präexistenz",
   "schroder winfried"
@@ -1956,12 +1938,15 @@ HWPH.put("r/73-63",
   "Schröder Winfried","Pyrrhonismus","II","7","1721–1724","author",2538,"Pyrrhonismus",
   "schroder winfried"
  ],
- ["Schröder Winfried","Religion","",null,null,"author",2673,"Religion","schroder winfried"],
+ [
+  "Schröder Winfried","Religion, natürliche bzw. vernünftige","","8","713–727","author",2673,
+  "Religion","schroder winfried"
+ ],
  [
   "Schröder Winfried","Schwärmerei","","8","1478–1483","author",2786,"Schwärmerei",
   "schroder winfried"
  ],
- ["Schröder Winfried","Sekte","I",null,null,"author",2818,"Sekte","schroder winfried"],
+ ["Schröder Winfried","Sekte I 1;","II 1","9","274–277","author",2818,"Sekte","schroder winfried"],
  ["Schröder Winfried","Skindapsos","","9","974–976","author",2908,"Skindapsos","schroder winfried"],
  [
   "Schröder Winfried","Stercoranismus","","10","134f.","author",3019,"Stercoranismus",
@@ -2002,7 +1987,7 @@ HWPH.put("r/73-63",
   "schroeder-heister peter"
  ],
  [
-  "Schröer Henning","Paradox II (theol.)","","7","90–96","author",2270,
+  "Schröer Henning","Paradox","II (theol.)","7","90–96","author",2270,
   "Paradox, Paradox(e), Paradoxie","schroer henning"
  ],
  ["Schrott Balthasar","Geist","III","3","162–169","author",1030,"Geist","schrott balthasar"],

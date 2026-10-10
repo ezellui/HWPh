@@ -49,8 +49,8 @@ HWPH.put("a/3585",
   {"id":3680,"lemma":"Zeitlosigkeit","n":1}
  ],
  "register":[
-  {"term":"875","qualifier":"","band":"12","col":"544"},
   {"term":"becoming","qualifier":"","band":null,"col":null},
+  {"term":"Bewegung/Ruhe","qualifier":"","band":"12","col":"544"},
   {"term":"corruptio","qualifier":"","band":null,"col":null},
   {"term":"creatio","qualifier":"","band":"12","col":"541"},
   {"term":"devenir","qualifier":"","band":null,"col":null},
@@ -60,6 +60,7 @@ HWPH.put("a/3585",
   {"term":"fieri","qualifier":"","band":null,"col":null},
   {"term":"Gignomenologie","qualifier":"","band":"12","col":"544"},
   {"term":"passing away","qualifier":"","band":null,"col":null},
+  {"term":"Ruhe/Bewegung","qualifier":"","band":"12","col":"544"},
   {"term":"Synthesis","qualifier":"","band":"12","col":"543"},
   {"term":"Trilemma","qualifier":"","band":"12","col":"543"},
   {"term":"Übergang","qualifier":"","band":"12","col":"541ff."},
@@ -67,13 +68,7 @@ HWPH.put("a/3585",
   {"term":"zusammengesetzt","qualifier":"","band":"12","col":"541"},
   {"term":"γένεσις","qualifier":"","band":null,"col":null},
   {"term":"ὂν ἅμα κὰι γινόμενον","qualifier":"","band":"12","col":"541"},
-  {"term":"φθορά","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I 1 (jur.) 7 1543–1548 – I 2 (log.) 7 1548 – I 3 (hist.) 7 1548–1551 – I 4 (nat.) 7 1551–1558 – II (Whitehead) 7 1558–1560 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"φθορά","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":3,"n":4,"l":0,"editor":0,"role":"source"},
@@ -234,7 +229,8 @@ HWPH.put("a/3585",
   {"id":408,"lemma":"Bewegung"},
   {"id":2499,"lemma":"Prozeß"},
   {"id":3401,"lemma":"Vergänglichkeit; Vergehen"},
-  {"id":3513,"lemma":"Wachstum"}
+  {"id":3513,"lemma":"Wachstum"},
+  {"id":3543,"lemma":"Wandel; Veränderung"}
  ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Werden/Vergehen"}],
  "reg_authors":[{"name":"Cürsgen Dirk","n":1}]

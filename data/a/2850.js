@@ -140,13 +140,14 @@ HWPH.put("a/2850",
  "see_also":[
   {"id":1749,"lemma":"Lebenslüge"},
   {"id":2833,"lemma":"Selbsterkenntnis"},
-  {"id":3135,"lemma":"Täuschung"}
+  {"id":3135,"lemma":"Täuschung"},
+  {"id":3383,"lemma":"Verblendung; Verblendungszusammenhang"}
  ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Selbsttäuschung"},
   {"id":3,"name":"Antike Philosophie","label":"Selbsttäuschung I"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Selbsttäuschung"}
  ],
- "reg_authors":[{"name":"Halbfass Wilhelm","n":32},{"name":"Hühn Helmut","n":51},{"name":"Löw-Beer Martin","n":1}]
+ "reg_authors":[{"name":"Halbfass Wilhelm","n":32},{"name":"Hühn Helmut","n":52},{"name":"Löw-Beer Martin","n":1}]
 }
 );

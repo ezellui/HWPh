@@ -57,7 +57,7 @@ HWPH.put("a/1633",
   {"id":695,"lemma":"Einzelne","tf":2},
   {"id":331,"lemma":"Autor","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3252,"lemma":"Überfluß; Überflußgesellschaft"}],
  "groups":[{"id":42,"name":"Soziologie","label":"Konsumgesellschaft"}],
  "reg_authors":[{"name":"Höttler Rainer","n":1}]
 }

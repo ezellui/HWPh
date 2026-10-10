@@ -26,8 +26,8 @@ HWPH.put("a/3458",
   {"id":3424,"lemma":"Vernunft, historische","n":1}
  ],
  "register":[
-  {"term":"(ling.) 3 1202","qualifier":"","band":"11","col":"1027"},
   {"term":"Erfahrungsraum","qualifier":"","band":"11","col":"1027"},
+  {"term":"Erwartungshorizont","qualifier":"","band":"11","col":"1027"},
   {"term":"Sattelzeit","qualifier":"","band":"11","col":"1027"},
   {"term":"temporalization","qualifier":"","band":null,"col":null},
   {"term":"Zeitstelle","qualifier":"","band":"11","col":"1026"}

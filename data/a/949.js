@@ -17,10 +17,7 @@ HWPH.put("a/949",
  "next":{"id":950,"lemma":"Fremdich","band":"2","col":1103},
  "backlinks":[{"id":3666,"lemma":"Xenologie; Wissenschaft vom Fremden","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"der","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"Fremdwahrnehmung","qualifier":"(Husserl)","band":null,"col":null}
- ],
+ "register":[{"term":"Fremdwahrnehmung","qualifier":"(Husserl)","band":null,"col":null}],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":369,"name":"M. Theunissen","b":0,"n":1,"l":1,"editor":0,"role":"scholar"}

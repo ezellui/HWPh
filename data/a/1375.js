@@ -28,6 +28,6 @@ HWPH.put("a/1375",
  "mentions":[{"id":3355,"lemma":"Urteil","tf":2}],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Idiogenetisch (Hillebrand)"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

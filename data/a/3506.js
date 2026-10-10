@@ -72,6 +72,6 @@ HWPH.put("a/3506",
  ],
  "see_also":[],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Vorstellungsvorstellung"}],
- "reg_authors":[{"name":"Gabriel Gottfried","n":51},{"name":"Halbfass Wilhelm","n":32},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Gabriel Gottfried","n":51},{"name":"Halbfass Wilhelm","n":32},{"name":"Red","n":241}]
 }
 );

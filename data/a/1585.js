@@ -19,8 +19,10 @@ HWPH.put("a/1585",
  "outlinks":[],
  "register":[
   {"term":"Allgemeinbegriff","qualifier":"","band":"4","col":"884"},
+  {"term":"conscience collective","qualifier":"","band":null,"col":null},
   {"term":"Gesamtwille","qualifier":"","band":"4","col":"883"},
   {"term":"Menschheit","qualifier":"","band":"4","col":"883"},
+  {"term":"Syntalität","qualifier":"","band":"4","col":"884"},
   {"term":"Unbewusstes, kollektives","qualifier":"","band":"4","col":"884"},
   {"term":"Willensgemeinschaft","qualifier":"","band":"4","col":"883"}
  ],

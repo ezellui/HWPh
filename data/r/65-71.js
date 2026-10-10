@@ -7,7 +7,7 @@ HWPH.put("r/65-71",
  ],
  ["equifinality","Äquifinalität","",null,null,"ref",225,"Äquifinalität","equifinality"],
  [
-  "equilibrium","Rationalität III (analyt. Philos.)","","8","65","ref",2576,
+  "equilibrium","Rationalität","III (analyt. Philos.)","8","65","ref",2576,
   "Rationalität, Rationalisierung","equilibrium"
  ],
  ["equilibrium","Stabilität","","10","86","ref",3005,"Stabilität","equilibrium"],

@@ -34,8 +34,7 @@ HWPH.put("a/3094",
   {"term":"Relation, symbolische","qualifier":"(Cassirer)","band":"10","col":"739"},
   {"term":"Sinngebung, geistige","qualifier":"(Cassirer)","band":"10","col":"740"},
   {"term":"Universum, symbolisches","qualifier":"(Cassirer)","band":"10","col":"739"},
-  {"term":"Weltverstehen","qualifier":"(Cassirer)","band":"10","col":"739"},
-  {"term":"– II (log.) 2 1140f. s. auch","qualifier":"(Cassirer)","band":null,"col":null}
+  {"term":"Weltverstehen","qualifier":"(Cassirer)","band":"10","col":"739"}
  ],
  "persons":[
   {"id":62,"name":"E. Cassirer","b":4,"n":6,"l":0,"editor":0,"role":"mixed"},

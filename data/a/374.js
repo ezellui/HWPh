@@ -46,6 +46,6 @@ HWPH.put("a/374",
   {"id":22,"name":"Logik","label":"Behauptung"},
   {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Behauptung"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

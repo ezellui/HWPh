@@ -32,8 +32,8 @@ HWPH.put("a/262",
   {"term":"Akkommodation (soz.)","qualifier":"III (kult )","band":"1","col":"547"},
   {"term":"Autotrophie","qualifier":"I (biol.)","band":null,"col":null},
   {"term":"Bioenergetik","qualifier":"I (biol.)","band":"1","col":"544"},
+  {"term":"cultural fusion","qualifier":"III (kult.)","band":"1","col":"547"},
   {"term":"Dissimilation","qualifier":"","band":null,"col":null},
-  {"term":"empirische cultural fusion","qualifier":"III (kult.)","band":"1","col":"547"},
   {"term":"Ernährung","qualifier":"I (biol.)","band":null,"col":null},
   {"term":"Heterotrophie","qualifier":"I (biol.)","band":null,"col":null},
   {"term":"Katabolismus","qualifier":"I (biol.)","band":"1","col":"545"},
@@ -41,10 +41,7 @@ HWPH.put("a/262",
   {"term":"Photosynthese","qualifier":"I (biol.)","band":null,"col":null},
   {"term":"s auch","qualifier":"I (biol )","band":null,"col":null},
   {"term":"Unbewusste, das","qualifier":"II (psych.)","band":"1","col":"546"},
-  {"term":"végétation","qualifier":"I (biol.)","band":null,"col":null},
-  {"term":"– I (biol./psych.) 1 336–338 s. auch","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"– II (psych.) 4 1067f. s. auch","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"– II (soz./kult.) 1 338f. s. auch","qualifier":"III (kult.)","band":null,"col":null}
+  {"term":"végétation","qualifier":"I (biol.)","band":null,"col":null}
  ],
  "persons":[
   {"id":1654,"name":"A. L. Lavoisier","b":2,"n":2,"l":1,"editor":0,"role":"source"},
@@ -110,7 +107,16 @@ HWPH.put("a/262",
   {"id":1199,"lemma":"Gruppe, soziale","tf":2},
   {"id":1424,"lemma":"Individuum, Individualität","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3032,"lemma":"Stoffwechsel"},
+  {"id":3513,"lemma":"Wachstum"},
+  {"id":3681,"lemma":"Zelle"},
+  {"id":45,"lemma":"Adaptation"},
+  {"id":159,"lemma":"Anpassung"},
+  {"id":1647,"lemma":"Kontrast"},
+  {"id":2054,"lemma":"Nachahmung"},
+  {"id":74,"lemma":"Akkulturation"}
+ ],
  "groups":[
   {"id":5,"name":"Biologie","label":"Assimilation/Dissimilation I (biol.)"},
   {

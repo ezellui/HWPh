@@ -19,8 +19,8 @@ HWPH.put("a/2068",
  "outlinks":[{"id":2032,"lemma":"Morphologie","n":1}],
  "register":[
   {"term":"Erzählform","qualifier":"","band":null,"col":null},
-  {"term":"narratio","qualifier":"","band":"6","col":"399"},
-  {"term":"Parabel; Fabel","qualifier":"","band":"6","col":"400"}
+  {"term":"Fabel","qualifier":"","band":"6","col":"400"},
+  {"term":"narratio","qualifier":"","band":"6","col":"399"}
  ],
  "persons":[
   {"id":233,"name":"H. Lübbe","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

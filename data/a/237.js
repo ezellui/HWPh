@@ -21,6 +21,7 @@ HWPH.put("a/237",
   {"term":"Geheimlehre; Geheimmittel","qualifier":"","band":null,"col":null},
   {"term":"Geheimnis","qualifier":"","band":null,"col":null},
   {"term":"lapis philosophorum","qualifier":"","band":"1","col":"495"},
+  {"term":"materia prima","qualifier":"","band":"1","col":"495"},
   {"term":"mercurius vitae","qualifier":"","band":"1","col":"495"},
   {"term":"spezifisches Mittel","qualifier":"","band":null,"col":null}
  ],

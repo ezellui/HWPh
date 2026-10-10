@@ -21,13 +21,8 @@ HWPH.put("a/2327",
   {"term":"Deutlichkeit","qualifier":"","band":null,"col":null},
   {"term":"Durchsichtigkeit","qualifier":"","band":null,"col":null},
   {"term":"perspicuitas","qualifier":"","band":null,"col":null},
-  {"term":"σαφήνεια","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (Heidegger) 11 138 – II (Quine) 11 139f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Schriftauslegung","qualifier":"","band":null,"col":null},
+  {"term":"σαφήνεια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":100,"name":"Quintilian","b":1,"n":2,"l":0,"editor":0,"role":"source"},

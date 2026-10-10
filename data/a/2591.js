@@ -34,19 +34,20 @@ HWPH.put("a/2591",
  ],
  "outlinks":[],
  "register":[
-  {"term":"/Objekt Objekt","qualifier":"I","band":"8","col":"197"},
   {"term":"conceptus entis","qualifier":"I","band":"8","col":"194"},
   {"term":"conceptus formalis","qualifier":"I","band":"8","col":"195"},
   {"term":"conceptus obiectivus","qualifier":"I","band":"8","col":"195f."},
   {"term":"existentia realis","qualifier":"I","band":"8","col":"196"},
-  {"term":"formale/materiale (Husserl) formale Realität","qualifier":"","band":null,"col":null},
+  {"term":"formale Realität","qualifier":"","band":null,"col":null},
   {"term":"Freiheit","qualifier":"I","band":"8","col":"197"},
   {"term":"gradus metaphysici","qualifier":"I","band":"8","col":"194"},
   {"term":"Hirngespinster der Theologie","qualifier":"I","band":"8","col":"197"},
   {"term":"Idee","qualifier":"I","band":"8","col":"194f."},
   {"term":"Kategorien","qualifier":"I","band":"8","col":"197"},
   {"term":"Konstruktivismus, radikaler","qualifier":"II","band":"8","col":"199"},
+  {"term":"Kopenhagener Deutung","qualifier":"II","band":"8","col":"199"},
   {"term":"Medium","qualifier":"II","band":"8","col":"200"},
+  {"term":"Objekt","qualifier":"I","band":"8","col":"197"},
   {"term":"objektive Realität","qualifier":"","band":null,"col":null},
   {"term":"Raum und Zeit","qualifier":"I","band":"8","col":"196f."},
   {"term":"realitas formalis","qualifier":"I","band":null,"col":null},
@@ -135,6 +136,6 @@ HWPH.put("a/2591",
   {"id":9,"name":"Erkenntnistheorie","label":"Realität, formale/objektive"},
   {"id":26,"name":"Metaphysik","label":"Realität, formale/objektive"}
  ],
- "reg_authors":[{"name":"Kible Brigitte","n":6},{"name":"Red","n":242},{"name":"Trappe Tobias","n":22}]
+ "reg_authors":[{"name":"Kible Brigitte","n":6},{"name":"Red","n":241},{"name":"Trappe Tobias","n":22}]
 }
 );

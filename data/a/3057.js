@@ -18,7 +18,7 @@ HWPH.put("a/3057",
  "backlinks":[{"id":3258,"lemma":"Überirdisch","n":1},{"id":3557,"lemma":"Welt","n":2}],
  "outlinks":[],
  "register":[
-  {"term":"1217","qualifier":"","band":"10","col":"478"},
+  {"term":"coelum empyreum","qualifier":"","band":"10","col":"478"},
   {"term":"mundus sublunaris","qualifier":"","band":"10","col":"478"},
   {"term":"regio etherea","qualifier":"","band":"10","col":"478"},
   {"term":"sphaera erratica","qualifier":"","band":"10","col":"478"},

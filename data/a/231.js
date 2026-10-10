@@ -18,6 +18,8 @@ HWPH.put("a/231",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Arbeiterfrage","qualifier":"","band":null,"col":null},
+  {"term":"Arbeiterklasse","qualifier":"","band":"1","col":"488"},
   {"term":"Arbeitnehmer","qualifier":"","band":"1","col":"487"},
   {"term":"Stand","qualifier":"","band":"1","col":"488"}
  ],

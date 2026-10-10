@@ -1,15 +1,6 @@
 HWPH.put("r/7a-65",
 [
  ["Zerstreuung","Zerstreuung","I (anthr.)",null,null,"main",3690,"Zerstreuung","zerstreuung"],
- ["Zeichnung","Zeichnung","","12","1181","main",3674,"Zeichnung","zeichnung"],
- ["Zeitlogik","Zeitlogik","",null,null,"main",3679,"Zeitlogik","zeitlogik"],
- ["Zeitlogik","Notwendigkeit","II","6","951","ref",2171,"Notwendigkeit","zeitlogik"],
- ["Zeitlogik","Unmöglichkeit","","11","243","ref",3315,"Unmöglichkeit","zeitlogik"],
- ["Zeit","Zeit","V","12","1232","main",3676,"Zeit","zeit"],
- [
-  "Zeuge; Zeugnis","Zeuge; Zeugnis","I (erk.)","12","1320","main",3692,"Zeuge; Zeugnis",
-  "zeuge; zeugnis"
- ],
  ["Zehnerzahl","Dekas","",null,null,"ref",545,"Dekas","zehnerzahl"],
  ["Zeichen","Zeichen","","12","1155–1179","main",3673,"Zeichen","zeichen"],
  ["Zeichen","Begriff","I (allg.)",null,null,"see",365,"Begriff","zeichen"],
@@ -26,8 +17,12 @@ HWPH.put("r/7a-65",
  ["Zeichen","Terminus","","10","1016f.","ref",3153,"Terminus","zeichen"],
  ["Zeichen","Verstehen","","11","925","ref",3438,"Verstehen","zeichen"],
  [
-  "Zeuge; Zeugnis","Zeuge; Zeugnis","II (theol.)","12","1327","main",3692,"Zeuge; Zeugnis",
-  "zeuge; zeugnis"
+  "Zeichen","Weltorientierung; Orientierung","","12","503","ref",3573,
+  "Weltorientierung; Orientierung","zeichen"
+ ],
+ [
+  "Zeichen (theol.)","Zeuge; Zeugnis","II (theol.)","12","1327","ref",3692,"Zeuge; Zeugnis",
+  "zeichen (theol.)"
  ],
  [
   "Zeichen, ästhetisches","Zweideutigkeit; Vieldeutigkeit","III","12","1518","ref",3721,
@@ -40,10 +35,7 @@ HWPH.put("r/7a-65",
  ["Zeicheninterpretation","Semiose","",null,null,"ref",2864,"Semiose","zeicheninterpretation"],
  ["Zeichenprozess","Semiose","",null,null,"ref",2864,"Semiose","zeichenprozess"],
  ["Zeichenprozess","Semantik","","9","583","ref",2861,"Semantik, semantisch","zeichenprozess"],
- [
-  "Zeichenreihe","Semiotik III (math.)","",null,null,"ref",2865,"Semiotik, Semiologie",
-  "zeichenreihe"
- ],
+ ["Zeichenreihe","Semiotik","III (math.)",null,null,"ref",2865,"Semiotik, Semiologie","zeichenreihe"],
  [
   "Zeichenreihe","Prädikatenlogik","","7","1188","ref",2426,"Prädikatenlogik, Prädikatenkalkül",
   "zeichenreihe"
@@ -60,7 +52,7 @@ HWPH.put("r/7a-65",
  ["Zeigen","Hinweisdefinition","",null,null,"see",1279,"Hinweisdefinition","zeigen"],
  ["Zeigen","Indikator","",null,null,"see",1411,"Indikator","zeigen"],
  ["Zeigen","Zeichen","",null,null,"see",3673,"Zeichen","zeigen"],
- ["Zeigen","Schweigen; Stille A","","8","1491ff.","ref",2787,"Schweigen, Stille","zeigen"],
+ ["Zeigen","Schweigen; Stille","A","8","1491ff.","ref",2787,"Schweigen, Stille","zeigen"],
  ["Zeigen","Semantik","","9","586","ref",2861,"Semantik, semantisch","zeigen"],
  ["Zeigen","Unsagbare, das","","11","259","ref",3317,"Unsagbare, das","zeigen"],
  ["Zeigen","Zeichen","II","12","1174f.","ref",3673,"Zeichen","zeigen"],
@@ -105,7 +97,7 @@ HWPH.put("r/7a-65",
   "zeit, physiologische"
  ],
  [
-  "Zeit, physiologische","Latenz III (psych.)","","5","43","ref",1731,"Latent, Latenz",
+  "Zeit, physiologische","Latenz","III (psych.)","5","43","ref",1731,"Latent, Latenz",
   "zeit, physiologische"
  ],
  [
@@ -195,15 +187,24 @@ HWPH.put("r/7a-65",
  ["Zeitfülle","Zeit","II C","12","1208","ref",3676,"Zeit","zeitfulle"],
  ["Zeitfülle","Zeit","VI","12","1241","ref",3676,"Zeit","zeitfulle"],
  ["Zeitgeist","Zeitgeist","","12","1266–1270","main",3678,"Zeitgeist","zeitgeist"],
- ["Zeitgeist","Unzeitgemäss (Nietzsche) Zeitgeist","",null,null,"see",null,null,"zeitgeist"],
+ ["Zeitgeist","Unzeitgemäss","(Nietzsche)",null,null,"see",3336,"Unzeitgemäß","zeitgeist"],
+ ["Zeitgeist","Geistesgeschichte","","3","208","ref",1034,"Geistesgeschichte","zeitgeist"],
  [
   "Zeitgeschichte","Neuzeit; Mittelalter; Altertum","","6","793","ref",2131,
   "Neuzeit, Mittelalter, Altertum","zeitgeschichte"
  ],
- ["Zeitgestalt","Komplex","",null,null,"ref",1600,"Komplex","zeitgestalt"],
+ ["Zeitgestalt","Komplex, der","","4","937","ref",1601,"Komplex (der)","zeitgestalt"],
+ [
+  "Zeitigung","Passivität; passive Synthesis","","7","167","ref",2288,
+  "Passivität, passive Synthesis","zeitigung"
+ ],
+ ["Zeitigung","Zeit","VI","12","1238","ref",3676,"Zeit","zeitigung"],
  ["Zeitkrankheit","Unbehagen","","11","119","ref",3283,"Unbehagen","zeitkrankheit"],
  ["Zeitlichkeit","Gewesenheit","(Heidegger)",null,null,"ref",1129,"Gewesenheit","zeitlichkeit"],
- ["Zeitlichkeit","Horizont","III",null,null,"ref",1310,"Horizont","zeitlichkeit"],
+ ["Zeitlichkeit","Horizont","III 3 (Heidegger)",null,null,"ref",1310,"Horizont","zeitlichkeit"],
+ ["Zeitlichkeit","Jetzt","","4","647","ref",1510,"Jetzt","zeitlichkeit"],
+ ["Zeitlichkeit","Sorge","","9","1088","ref",2927,"Sorge","zeitlichkeit"],
+ ["Zeitlichkeit","Zeit","VI","12","1238","ref",3676,"Zeit","zeitlichkeit"],
  ["Zeitlogik","Zeitlogik","","12","1271–1274","main",3679,"Zeitlogik","zeitlogik"],
  ["Zeitlogik","Futurabilien","",null,null,"see",981,"Futurabilien","zeitlogik"],
  [
@@ -242,7 +243,7 @@ HWPH.put("r/7a-65",
   "zeitreihe"
  ],
  [
-  "Zeitreihe","Schema; Schematismus I (allg.)","","8","1251","ref",2760,"Schema, Schematismus",
+  "Zeitreihe","Schema; Schematismus","I (allg.)","8","1251","ref",2760,"Schema, Schematismus",
   "zeitreihe"
  ],
  ["Zeitreihe","Seele","V","9","71","ref",2794,"Seele","zeitreihe"],
@@ -257,9 +258,10 @@ HWPH.put("r/7a-65",
  ],
  ["Zeitumgang","Zeit","VIII A",null,null,"ref",3676,"Zeit","zeitumgang"],
  [
-  "zeitunabhängiger Zustand","Fliessgleichgewicht Zeitursprung","",null,null,"ref",null,null,
+  "zeitunabhängiger Zustand","Fliessgleichgewicht","",null,null,"ref",924,"Fließgleichgewicht",
   "zeitunabhangiger zustand"
  ],
+ ["Zeitursprung","Ursprung","","11","418f.","ref",3352,"Ursprung","zeitursprung"],
  ["Zeitwahrnehmung","Moment","III (psych.)",null,null,"ref",2009,"Moment","zeitwahrnehmung"],
  ["Zeitwende","Wende","","12","536","ref",3582,"Wende","zeitwende"],
  ["Zeitzeichen","Zeit","VI","12","1242","ref",3676,"Zeit","zeitzeichen"],
@@ -313,6 +315,8 @@ HWPH.put("r/7a-65",
  ],
  ["Zensor","Zensur","II (psych.)",null,null,"ref",3683,"Zensur","zensor"],
  ["Zensur","Zensur","","12","1286–1291","main",3683,"Zensur","zensur"],
+ ["Zensur","Traum","II",null,null,"see",3225,"Traum","zensur"],
+ ["Zensur","Über-Ich","",null,null,"see",3257,"Über-Ich","zensur"],
  ["Zensur","Kunst; Kunstwerk","IV 4","4","1409","ref",1712,"Kunst, Kunstwerk","zensur"],
  ["Zensur der Vernunft","Dogmatismus","","2","277","ref",626,"Dogmatismus","zensur der vernunft"],
  ["Zensusverfassung","Timokratie","","10","1224","ref",3195,"Timokratie","zensusverfassung"],
@@ -329,18 +333,20 @@ HWPH.put("r/7a-65",
   "Zentralmonade","Zentralmonade","(Leibniz)","12","1293","main",3685,"Zentralmonade",
   "zentralmonade"
  ],
- [
-  "Zentralmonade","Monade; Monas Zentralorgan","",null,null,"see",2010,"Monade, Monas",
-  "zentralmonade"
- ],
+ ["Zentralmonade","Monade; Monas","",null,null,"see",2010,"Monade, Monas","zentralmonade"],
+ ["Zentralorgan","Hegemonikon","",null,null,"ref",1236,"Hegemonikon","zentralorgan"],
  ["Zentralwissenschaft","Sozialismus","6","9","1192","ref",2947,"Sozialismus","zentralwissenschaft"],
  [
   "Zentralwissenschaft","Wissenschaft","II","12","917","ref",3635,"Wissenschaft",
   "zentralwissenschaft"
  ],
  [
-  "Zentrierung","Umstrukturierung zentrifugal/zentripetal","",null,null,"ref",null,null,
+  "Zentrierung","Umstrukturierung","",null,null,"ref",3277,"Umstrukturierung; Umzentrierung",
   "zentrierung"
+ ],
+ [
+  "zentrifugal/zentripetal","Reflexion","","8","398","ref",2634,"Reflexion",
+  "zentrifugal/zentripetal"
  ],
  [
   "Zentrifugalkraft/Zentripetalkraft","Zentrifugalkraft/Zentripetalkraft","","12","1293–1298","main",
@@ -394,7 +400,7 @@ HWPH.put("r/7a-65",
  ["Zergliederung","Abstraktion","II","1","46","ref",31,"Abstraktion","zergliederung"],
  ["Zergliederung","Analytik","","1","250","ref",128,"Analytik","zergliederung"],
  [
-  "Zermelo-Axiom","Definit; Definitheit I","",null,null,"ref",534,"Definit, Definitheit",
+  "Zermelo-Axiom","Definit; Definitheit","I",null,null,"ref",534,"Definit, Definitheit",
   "zermelo-axiom"
  ],
  ["Zermelo-Axiom","Antinomie","II (log.)","1","404","ref",185,"Antinomie","zermelo-axiom"],
@@ -420,12 +426,21 @@ HWPH.put("r/7a-65",
  ],
  ["Zerstörungstrieb","Aggression","","1","103","ref",61,"Aggression","zerstorungstrieb"],
  ["Zerstreuung","Zerstreuung","","12","1310–1316","main",3690,"Zerstreuung","zerstreuung"],
+ ["Zerstreuung","Acedia","",null,null,"see",39,"Acedia","zerstreuung"],
+ ["Zerstreuung","Langeweile","",null,null,"see",1727,"Langeweile","zerstreuung"],
+ ["Zerstreuung","Selbstvergessenheit","",null,null,"see",2851,"Selbstvergessenheit","zerstreuung"],
+ ["Zerstreuung","Trägheit","I (anthr.)",null,null,"see",3213,"Trägheit","zerstreuung"],
+ ["Zerstreuung","Vielgeschäftigkeit","",null,null,"see",3461,"Vielgeschäftigkeit","zerstreuung"],
+ ["Zerstreuung","Energie","",null,null,"see",738,"Energie","zerstreuung"],
+ ["Zerstreuung","Entropie","",null,null,"see",752,"Entropie","zerstreuung"],
+ ["Zerstreuung","Thermodynamik","",null,null,"see",3185,"Thermodynamik","zerstreuung"],
+ ["Zerstreuung","Wärmetod","",null,null,"see",3546,"Wärmetod","zerstreuung"],
  ["Zerstückelung","Zerrissenheit","","12","1305f.","ref",3689,"Zerrissenheit","zerstuckelung"],
  ["Zetetiker","Skepsis; Skeptizismus","II","9","951","ref",2907,"Skepsis; Skeptizismus","zetetiker"],
  ["Zeug","Uti/frui","","11","502","ref",3365,"Uti/frui","zeug"],
  ["Zeug","Zeug","(Heidegger)","12","1316f.","main",3691,"Zeug","zeug"],
  [
-  "Zeug","Verweisung (Heidegger)","",null,null,"see",3452,"Verweisung; Verweisungszusammenhang",
+  "Zeug","Verweisung","(Heidegger)",null,null,"see",3452,"Verweisung; Verweisungszusammenhang",
   "zeug"
  ],
  [
@@ -436,6 +451,8 @@ HWPH.put("r/7a-65",
   "Zeuge; Zeugnis","Zeuge; Zeugnis","","12","1317–1330","main",3692,"Zeuge; Zeugnis",
   "zeuge; zeugnis"
  ],
+ ["Zeuge; Zeugnis","Autorität","I (rhet.)",null,null,"see",333,"Autorität","zeuge; zeugnis"],
+ ["Zeuge; Zeugnis","Kerygma","",null,null,"see",1560,"Kerygma","zeuge; zeugnis"],
  ["Zeuge","Zitat","I (lit.)",null,null,"ref",3697,"Zitat","zeuge"],
  ["Zeuge","Wunder","","12","1062ff.","ref",3659,"Wunder","zeuge"],
  ["zeugende Kraft","Limbus","","5","329","ref",1796,"Limbus","zeugende kraft"],
@@ -453,7 +470,7 @@ HWPH.put("r/7a-65",
  ["Zeugzusammenhang","Umsicht","",null,null,"ref",3276,"Umsicht","zeugzusammenhang"],
  ["Zeugzusammenhang","Zeug","(Heidegger)",null,null,"ref",3691,"Zeug","zeugzusammenhang"],
  ["Zekl Hans Günter","Raum","I","8","67–82","author",2578,"Raum","zekl hans gunter"],
- ["Zelle Carsten","Schreckliche","",null,null,"author",2780,"Schreckliche","zelle carsten"],
+ ["Zelle Carsten","Schreckliche, das","","8","1413–1416","author",2779,"Schöpfung","zelle carsten"],
  ["Zeltner Hermann","Idealismus","","4","30–33","author",1343,"Idealismus","zeltner hermann"],
  [
   "Zeltner Hermann","Idealismus, absoluter","(Schelling)","4","33f.","author",1344,
@@ -471,7 +488,10 @@ HWPH.put("r/7a-65",
   "Zeltner Hermann","Idealismus, subjektiver","","4","43","author",1354,"Idealismus, subjektiver",
   "zeltner hermann"
  ],
- ["Zeltner Hermann","Idealismus","",null,null,"author",1343,"Idealismus","zeltner hermann"],
+ [
+  "Zeltner Hermann","Idealismus, transzendentaler; Realismus, empirischer","(Kant)","4","43f.",
+  "author",1355,"Idealismus, transzendentaler, Realismus, empirischer","zeltner hermann"
+ ],
  [
   "Zeltner Hermann","Identitätsphilosophie","(Schelling)","4","151f.","author",1368,
   "Identitätsphilosophie","zeltner hermann"

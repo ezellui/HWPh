@@ -74,15 +74,17 @@ HWPH.put("a/3673",
   {"id":3707,"lemma":"Zuhandenheit/Vorhandenheit","n":1}
  ],
  "register":[
+  {"term":"Anzeichen","qualifier":"II","band":"12","col":"1174"},
   {"term":"Anzeige","qualifier":"II","band":"12","col":"1174"},
   {"term":"Arbitrarität","qualifier":"II","band":"12","col":"1175"},
   {"term":"Argument (Peirce)","qualifier":"II","band":"12","col":"1172"},
+  {"term":"cognitio symbolica","qualifier":"I","band":"12","col":"1165"},
   {"term":"concomitantia","qualifier":"I","band":"12","col":"1161"},
   {"term":"Dici-Zeichen","qualifier":"II","band":"12","col":"1172"},
   {"term":"fonction-signe","qualifier":"II","band":"12","col":"1175"},
   {"term":"icon","qualifier":"I","band":"12","col":"1161"},
   {"term":"index","qualifier":"I","band":"12","col":"1161"},
-  {"term":"inneres 12 1042","qualifier":"I","band":"12","col":"1165"},
+  {"term":"Legi-Zeichen","qualifier":"II","band":"12","col":"1172"},
   {"term":"Lekton","qualifier":"I","band":"12","col":"1157"},
   {"term":"nota","qualifier":"","band":null,"col":null},
   {"term":"notitia","qualifier":"I","band":"12","col":"1163"},
@@ -95,15 +97,11 @@ HWPH.put("a/3673",
   {"term":"signifiant/signifié","qualifier":"II","band":"12","col":"1175f."},
   {"term":"signum","qualifier":"","band":null,"col":null},
   {"term":"Sin-Zeichen","qualifier":"II","band":"12","col":"1172"},
-  {"term":"Symptom","qualifier":"II","band":"12","col":"1174"},
   {"term":"Zeigen","qualifier":"II","band":"12","col":"1174f."},
   {"term":"σῆμα","qualifier":"I","band":null,"col":null},
   {"term":"σημε͂ιον","qualifier":"I","band":null,"col":null},
   {"term":"σύμβολον","qualifier":"I","band":null,"col":null},
-  {"term":"τεκμήριον","qualifier":"I","band":"12","col":"1158"},
-  {"term":"– I (allg.) 1 780–785 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (sprach.) 12 1023–1030 s. auch","qualifier":"I","band":null,"col":null},
-  {"term":"– III (sem.) 10 766–768 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"τεκμήριον","qualifier":"I","band":"12","col":"1158"}
  ],
  "persons":[
   {"id":1853,"name":"S. Meier-Oeser","b":0,"n":11,"l":1,"editor":0,"role":"scholar"},
@@ -329,6 +327,6 @@ HWPH.put("a/3673",
   {"id":3099,"lemma":"Symptom"}
  ],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Zeichen"}],
- "reg_authors":[{"name":"Frank Hartwig","n":2},{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Frank Hartwig","n":2},{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

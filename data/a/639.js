@@ -23,8 +23,6 @@ HWPH.put("a/639",
  "outlinks":[],
  "register":[
   {"term":"Akt, sozialer","qualifier":"","band":"2","col":"297"},
-  {"term":"der","qualifier":"","band":null,"col":null},
-  {"term":"der 1 296f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"Redegeselle","qualifier":"","band":"2","col":"296"}
  ],
  "persons":[
@@ -76,7 +74,13 @@ HWPH.put("a/639",
   {"id":2745,"lemma":"Satz","tf":2},
   {"id":2171,"lemma":"Notwendigkeit","tf":2}
  ],
- "see_also":[{"id":137,"lemma":"Andere"}],
+ "see_also":[
+  {"id":137,"lemma":"Andere"},
+  {"id":585,"lemma":"Dialog, dialogisch"},
+  {"id":1336,"lemma":"Ich-Du-Verhältnis"},
+  {"id":1982,"lemma":"Mitmensch"},
+  {"id":3625,"lemma":"Wir"}
+ ],
  "groups":[{"id":2,"name":"Anthropologie","label":"Du"}],
  "reg_authors":[{"name":"Theunissen Michael","n":17}]
 }

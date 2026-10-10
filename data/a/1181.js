@@ -27,9 +27,7 @@ HWPH.put("a/1181",
   {"term":"Leichtheit","qualifier":"","band":null,"col":null},
   {"term":"levitas","qualifier":"","band":null,"col":null},
   {"term":"Schwere","qualifier":"","band":null,"col":null},
-  {"term":"vis inertiae","qualifier":"","band":null,"col":null},
-  {"term":"– I (nat.) 6 96–99 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (phys.) 5 825–828 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"vis inertiae","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},

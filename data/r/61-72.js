@@ -2,7 +2,10 @@ HWPH.put("r/61-72",
 [
  ["Ärger","Zorn","II",null,null,"ref",3702,"Zorn","arger"],
  ["Ärgernis","Ärgernis","","1","504f.","main",243,"Ärgernis","argernis"],
- ["Ärgernis","Paradox II (theol.) aesthetic experience","",null,null,"see",null,null,"argernis"],
+ [
+  "Ärgernis","Paradox","II (theol.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
+  "argernis"
+ ],
  ["Arabeske","Schönheitslinie","","8","1388","ref",2778,"Schönheitslinie","arabeske"],
  [
   "arabische Philosophie","Philosophie, arabische","",null,null,"ref",2355,"Philosophie, arabische",
@@ -13,8 +16,8 @@ HWPH.put("r/61-72",
  ["Arbeit","Arbeitsteilung","",null,null,"see",233,"Arbeitsteilung","arbeit"],
  ["Arbeit","Arbeitswelt","",null,null,"see",234,"Arbeitswelt","arbeit"],
  ["Arbeit","Entäusserung","",null,null,"see",745,"Entäußerung","arbeit"],
- ["Arbeit","Lohn III (ökon.)","",null,null,"see",1828,"Lohn, Verdienst","arbeit"],
- ["Arbeit","Produktion II (ökon.)","",null,null,"see",2469,"Produktion, Produktivität","arbeit"],
+ ["Arbeit","Lohn","III (ökon.)",null,null,"see",1828,"Lohn, Verdienst","arbeit"],
+ ["Arbeit","Produktion","II (ökon.)",null,null,"see",2469,"Produktion, Produktivität","arbeit"],
  ["Arbeit","Tausch","",null,null,"see",3133,"Tausch","arbeit"],
  ["Arbeit","Automation","",null,null,"ref",324,"Automation","arbeit"],
  ["Arbeit","Musse","",null,null,"ref",2044,"Muße","arbeit"],
@@ -57,9 +60,9 @@ HWPH.put("r/61-72",
  ["Arbeiter","Proletariat","",null,null,"see",2476,"Proletariat, Proletarier","arbeiter"],
  ["Arbeiter","Soziale Frage","",null,null,"see",2940,"Soziale Frage","arbeiter"],
  ["Arbeiter","Verelendung","",null,null,"see",3394,"Verelendung","arbeiter"],
- ["Arbeiterfrage","Arbeiter Arbeiterklasse","",null,null,"ref",null,null,"arbeiterfrage"],
- ["Arbeiter","Arbeiter","","1","488","main",231,"Arbeiter, Arbeiterfrage","arbeiter"],
- ["Arbeiter","Klasse, soziale","","4","849","ref",1572,"Klasse, soziale","arbeiter"],
+ ["Arbeiterfrage","Arbeiter","",null,null,"ref",231,"Arbeiter, Arbeiterfrage","arbeiterfrage"],
+ ["Arbeiterklasse","Arbeiter","","1","488","ref",231,"Arbeiter, Arbeiterfrage","arbeiterklasse"],
+ ["Arbeiterklasse","Klasse, soziale","","4","849","ref",1572,"Klasse, soziale","arbeiterklasse"],
  ["Arbeitnehmer","Arbeiter","","1","487","ref",231,"Arbeiter, Arbeiterfrage","arbeitnehmer"],
  ["Arbeitsethos","Arbeitsethos","(Weber)","1","489","main",232,"Arbeitsethos","arbeitsethos"],
  ["Arbeitsethos","Askese","III (Weber)",null,null,"see",260,"Askese","arbeitsethos"],
@@ -121,7 +124,7 @@ HWPH.put("r/61-72",
  ["Archetypus","Urbild","",null,null,"see",3339,"Urbild","archetypus"],
  ["archetypus","Idee","II A 1","4","65f.","ref",1361,"Idee","archetypus"],
  [
-  "Archetypus (Jung)","Anima/Animus (Jung)","",null,null,"ref",145,"Anima, Animus",
+  "Archetypus (Jung)","Anima/Animus","(Jung)",null,null,"ref",145,"Anima, Animus",
   "archetypus (jung)"
  ],
  ["Archetypus (Jung)","Bild","II (erk.)","1","918","ref",431,"Bild","archetypus (jung)"],
@@ -131,6 +134,8 @@ HWPH.put("r/61-72",
  ["Archeus","Qualitas occulta","",null,null,"see",2543,"Qualitas occulta","archeus"],
  ["Archeus","Idee","III","4","104","ref",1361,"Idee","archeus"],
  ["Archeus","Lebenskraft","","5","124","ref",1746,"Lebenskraft","archeus"],
+ ["Archeus","Organismus","I (biol.)","6","1330","ref",2243,"Organismus","archeus"],
+ ["Archeus","Prinzip","III 1","7","1356","ref",2458,"Prinzip","archeus"],
  ["archi-écriture","Schrift","II (Derrida)","8","1430f.","ref",2781,"Schrift","archi-ecriture"],
  [
   "archimedisch geordnet","Ordnung","IV (log.)","6","1305f.","ref",2233,"Ordnung",
@@ -146,7 +151,7 @@ HWPH.put("r/61-72",
  ],
  ["Architekt des Weltalls","Geist","V","3","177","ref",1030,"Geist","architekt des weltalls"],
  ["Architekt des Weltalls","Gott","VII","3","765","ref",1162,"Gott","architekt des weltalls"],
- ["Architekt des Weltalls","Idee","II B",null,null,"ref",1361,"Idee","architekt des weltalls"],
+ ["Architekt des Weltalls","Idee II B 14","","4","101","ref",1361,"Idee","architekt des weltalls"],
  ["Architekt des Weltalls","Ordnung","III","6","1280","ref",2233,"Ordnung","architekt des weltalls"],
  [
   "Architektonik","Architektonik","","1","502–504","main",241,"Architektonik, architektonisch",
@@ -187,9 +192,8 @@ HWPH.put("r/61-72",
   "argumentatio ex repugnantibus"
  ],
  [
-  "Argumentation s. auch",
-  "Register der Sachgruppen: Rhetorik und Argumentationstheorie Argumentation","",null,null,"ref",
-  null,null,"argumentation s. auch"
+  "Argumentation","Register der Sachgruppen: Rhetorik und Argumentationstheorie Argumentation","",
+  null,null,"see",null,null,"argumentation"
  ],
  ["argumentieren","Denken","I","2","71","ref",552,"Denken","argumentieren"],
  [
@@ -231,7 +235,8 @@ HWPH.put("r/61-72",
  ["Arithmetik","Logistik","",null,null,"see",1820,"Logistik","arithmetik"],
  ["Arithmetik","Mathematik","",null,null,"see",1896,"Mathematik","arithmetik"],
  ["Arithmetik","Rechnen","I (math.)",null,null,"see",2597,"Rechnen","arithmetik"],
- ["Arithmetik","Zahl Arithmetik","",null,null,"see",null,null,"arithmetik"],
+ ["Arithmetik","Zahl","",null,null,"see",3670,"Zahl; Zählen","arithmetik"],
+ ["Arithmetik","Quadrivium","","7","1737","ref",2541,"Quadrivium","arithmetik"],
  [
   "Arithmetik, politische","Ökonomie, politische","","6","1167","ref",2211,"Ökonomie, politische",
   "arithmetik, politische"
@@ -279,7 +284,7 @@ HWPH.put("r/61-72",
  ["Arrangement","Lebensplan","(Adler)",null,null,"see",1751,"Lebensplan","arrangement"],
  ["arrogantia","Eigendünkel","",null,null,"ref",662,"Eigendünkel","arrogantia"],
  ["arrogantia","Selbstsucht","","9","536","ref",2849,"Selbstsucht","arrogantia"],
- ["ars","Disciplina I","",null,null,"ref",607,"Disciplina, doctrina","ars"],
+ ["ars","Disciplina","I",null,null,"ref",607,"Disciplina, doctrina","ars"],
  ["ars","Kunst; Kunstwerk","",null,null,"ref",1712,"Kunst, Kunstwerk","ars"],
  ["ars","Technik","",null,null,"ref",3139,"Technik","ars"],
  ["ars","Verfahren","",null,null,"ref",3396,"Verfahren","ars"],
@@ -296,12 +301,7 @@ HWPH.put("r/61-72",
   "ars combinatoria"
  ],
  [
-  "Ars combinatoria","Ars magna; lullische Kunst","",null,null,"see",253,
-  "Ars magna, lullische Kunst","ars combinatoria"
- ],
- ["Ars combinatoria","Philosophie","III C",null,null,"see",2353,"Philosophie","ars combinatoria"],
- [
-  "Ars combinatoria","Universalsprache","",null,null,"see",3306,"Universalsprache",
+  "Ars combinatoria","Ars magna; lullische","",null,null,"see",253,"Ars magna, lullische Kunst",
   "ars combinatoria"
  ],
  ["ars combinatoria","Analyse/Synthese","","1","243","ref",126,"Analyse/Synthese","ars combinatoria"],
@@ -373,7 +373,7 @@ HWPH.put("r/61-72",
   "ars interna/externa"
  ],
  [
-  "ars inveniendi","Invention; Erfindung III (log.)","",null,null,"ref",1490,
+  "ars inveniendi","Invention; Erfindung","III (log.)",null,null,"ref",1490,
   "Invention, Erfindung, Entdeckung","ars inveniendi"
  ],
  ["ars inveniendi","Urteil","I (rhet.)",null,null,"ref",3355,"Urteil","ars inveniendi"],
@@ -398,15 +398,24 @@ HWPH.put("r/61-72",
   "Ars magna; lullische Kunst","Universalsprache","",null,null,"see",3306,"Universalsprache",
   "ars magna; lullische kunst"
  ],
- ["ars medica","Medizin I ars medicinae","",null,null,"ref",null,null,"ars medica"],
+ [
+  "ars medica","Medizin","I",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "ars medica"
+ ],
+ [
+  "ars medicinae","Medizin","II",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "ars medicinae"
+ ],
+ ["ars memoriae","Mnemotechnik","",null,null,"ref",1991,"Mnemotechnik","ars memoriae"],
  ["ars moriendi","Sterben lernen","",null,null,"ref",3018,"Sterben lernen","ars moriendi"],
  ["ars naturae","Archeus","","1","500","ref",240,"Archeus","ars naturae"],
  ["ars naturalis","Philosophie","III C","7","670","ref",2353,"Philosophie","ars naturalis"],
  [
-  "ars obligatoria","Obligatio; Ars obligatoria II (log.) ars observandi","",null,null,"ref",2194,
-  "Obligatio, Ars obligatoria","ars obligatoria"
+  "ars obligatoria","Obligatio; Ars","",null,null,"ref",2194,"Obligatio, Ars obligatoria",
+  "ars obligatoria"
  ],
- ["ars oratoria","Rhetorik ars semantica","",null,null,"ref",null,null,"ars oratoria"],
+ ["ars oratoria","Rhetorik","",null,null,"ref",2713,"Rhetorik, Redekunst","ars oratoria"],
+ ["ars semantica","Semiotik","II","9","604","ref",2865,"Semiotik, Semiologie","ars semantica"],
  [
   "ars signata","Signatur; Signaturenlehre","","9","751","ref",2883,"Signatur, Signaturenlehre",
   "ars signata"
@@ -422,8 +431,10 @@ HWPH.put("r/61-72",
  ["Art","Art","","1","525–531","main",254,"Art","art"],
  ["Art","Arbor porphyriana","",null,null,"see",236,"Arbor porphyriana, porphyrischer Baum","art"],
  ["Art","Gattung; Genus","",null,null,"see",991,"Gattung, Genus","art"],
- ["Art","Species","",null,null,"see",2966,"Species","art"],
- ["Art (biol.)","Art","",null,null,"ref",254,"Art","art (biol.)"],
+ ["Art","Species","II-III (log.)",null,null,"see",2966,"Species","art"],
+ ["Art","Unterschied, spezifischer","",null,null,"see",3328,"Unterschied, spezifischer","art"],
+ ["Art (biol.)","Art","II-III",null,null,"ref",254,"Art","art (biol.)"],
+ ["Art (biol.)","Pflanze","","7","399","ref",2332,"Pflanze","art (biol.)"],
  [
   "Art/Gattung","Arbor porphyriana","",null,null,"ref",236,"Arbor porphyriana, porphyrischer Baum",
   "art/gattung"
@@ -438,7 +449,13 @@ HWPH.put("r/61-72",
  ["Art/Gattung","Proprium","","7","1526","ref",2485,"Proprium","art/gattung"],
  ["Art/Gattung","Weiblich/männlich","II","12","347","ref",3552,"Weiblich/männlich","art/gattung"],
  ["art de penser","Logik","I","5","361","ref",1803,"Logik","art de penser"],
- ["Art des Denkens","Denkart art pour l'art","",null,null,"ref",null,null,"art des denkens"],
+ ["Art des Denkens","Denkart","",null,null,"ref",551,"Denkart, Denkungsart","art des denkens"],
+ ["art pour l'art","Ästhetizismus","","1","581","ref",268,"Ästhetizismus","art pour l'art"],
+ [
+  "art pour l'art","Kunst; Kunstwerk","III","4","1399","ref",1712,"Kunst, Kunstwerk",
+  "art pour l'art"
+ ],
+ ["art pour l'art","Kunst, absolute","","4","1435f.","ref",1713,"Kunst, absolute","art pour l'art"],
  [
   "artbildender Unterschied","Unterschied, spezifischer","",null,null,"ref",3328,
   "Unterschied, spezifischer","artbildender unterschied"
@@ -453,7 +470,7 @@ HWPH.put("r/61-72",
   "Artes liberales/artes mechanicae","artes liberales/artes mechanicae"
  ],
  [
-  "Artes liberales/artes mechanicae","Disciplina I","",null,null,"see",607,"Disciplina, doctrina",
+  "Artes liberales/artes mechanicae","Disciplina","I",null,null,"see",607,"Disciplina, doctrina",
   "artes liberales/artes mechanicae"
  ],
  [
@@ -511,7 +528,8 @@ HWPH.put("r/61-72",
   "artificial language","Sprache, künstliche","",null,null,"ref",2988,"Sprache, künstliche",
   "artificial language"
  ],
- ["artificium","Kunst; Kunstwerk Artigkeit","",null,null,"ref",1712,"Kunst, Kunstwerk","artificium"],
+ ["artificium","Kunst; Kunstwerk","",null,null,"ref",1712,"Kunst, Kunstwerk","artificium"],
+ ["Artigkeit","Sitte","","9","899","ref",2902,"Sitte","artigkeit"],
  ["Artikulation","Artikulation","","1","535f.","main",256,"Artikulation","artikulation"],
  [
   "Artistenmetaphysik","Apollinisch/dionysisch","II","1","445","ref",205,"Apollinisch/dionysisch",
@@ -532,36 +550,11 @@ HWPH.put("r/61-72",
   "arzt, philosophischer"
  ],
  [
-  "Arzt der Seele","Therapie II (philos.)","","10","1165","ref",3184,"Therapie; Therapeutik",
+  "Arzt der Seele","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik",
   "arzt der seele"
  ],
  [
-  "Arbor porphyriana","Arbor porphyriana","",null,null,"main",236,
-  "Arbor porphyriana, porphyrischer Baum","arbor porphyriana"
- ],
- ["Arbor porphyriana","Ganzes/Teil","",null,null,"ref",986,"Ganzes/Teil","arbor porphyriana"],
- ["Arbor porphyriana","Gattung; Genus I","",null,null,"ref",991,"Gattung, Genus","arbor porphyriana"],
- [
-  "Arbor porphyriana","Prädikabilien","",null,null,"ref",2425,"Prädikabilien, Prädikabilienlehre",
-  "arbor porphyriana"
- ],
- ["Arbor porphyriana","Species","II (log.)",null,null,"ref",2966,"Species","arbor porphyriana"],
- [
-  "Aristokratie; Adel","Aristokratie; Adel","","1","508","main",245,"Aristokratie, Adel",
-  "aristokratie; adel"
- ],
- ["Arbeit","Arbeit","II","1","484","main",230,"Arbeit","arbeit"],
- ["Arbeit","Unsichtbarkeit","","11","269","ref",3321,"Unsichtbarkeit; Unsichtbares","arbeit"],
- ["Arcanum","Arcanum","","1","495","main",237,"Arcanum","arcanum"],
- ["Arcanum","Chaos","II","1","982f.","ref",484,"Chaos","arcanum"],
- ["Arcanum","Materie","II","5","894ff.","ref",1892,"Materie","arcanum"],
- ["Arcanum","Natur","IV","6","465","ref",2074,"Natur","arcanum"],
- ["Arcanum","Quantität","II","7","1798","ref",2552,"Quantität","arcanum"],
- ["Ärgernis","Ärgernis","",null,null,"main",243,"Ärgernis","argernis"],
- ["Arbiträr","Arbiträr","(Saussure)",null,null,"main",235,"Arbiträr","arbitrar"],
- ["Arbiträr","Sprache","III","9","1484f.","ref",2985,"Sprache","arbitrar"],
- [
-  "Arndt Andreas","Produktion II (ökon.)","","7","1427–1432","author",2469,
+  "Arndt Andreas","Produktion","II (ökon.)","7","1427–1432","author",2469,
   "Produktion, Produktivität","arndt andreas"
  ],
  ["Arndt Andreas","Realdialektik","","8","133–135","author",2584,"Realdialektik","arndt andreas"],
@@ -622,7 +615,7 @@ HWPH.put("r/61-72",
   "arntz joseph th. c"
  ],
  [
-  "Artz Johannes","Illative sense (Newman)","","4","201f.","author",1385,"Illative Sense",
+  "Artz Johannes","Illative sense","(Newman)","4","201f.","author",1385,"Illative Sense",
   "artz johannes"
  ],
  [

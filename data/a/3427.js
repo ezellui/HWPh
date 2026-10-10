@@ -36,11 +36,12 @@ HWPH.put("a/3427",
   {"id":3714,"lemma":"Zustandsbeschreibung","n":1}
  ],
  "register":[
-  {"term":"(ling.) 3 1204 kontingente Wahrheit","qualifier":"","band":null,"col":null},
-  {"term":"dialektische I 5 396","qualifier":"","band":"11","col":"871"},
+  {"term":"kontingente Wahrheit","qualifier":"","band":null,"col":null},
+  {"term":"Tatsachenwahrheit","qualifier":"","band":null,"col":null},
   {"term":"truth of reason/truth of fact","qualifier":"","band":null,"col":null},
   {"term":"vérités de raison/de fait","qualifier":"","band":null,"col":null},
   {"term":"vérités de sentiment/d'intelligence","qualifier":"","band":"11","col":"869"},
+  {"term":"Vernunfterkenntnis","qualifier":"","band":"11","col":"871"},
   {"term":"Wahrheit, kontingente","qualifier":"","band":"11","col":"869"},
   {"term":"Wahrheit, notwendige","qualifier":"","band":"11","col":"870"},
   {"term":"Wahrheit, zufällige","qualifier":"","band":"11","col":"871"}

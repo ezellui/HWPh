@@ -9,13 +9,19 @@ HWPH.put("r/61-6d",
   "Ambiguität","Zweideutigkeit; Vieldeutigkeit","",null,null,"see",3721,
   "Zweideutigkeit; Vieldeutigkeit","ambiguitat"
  ],
+ ["Ambiguität","Homonym","",null,null,"see",1307,"Homonym","ambiguitat"],
+ [
+  "Ambiguität","Vorwissenschaftlich","",null,null,"see",3510,"Vorwissenschaftlich; vortheoretisch",
+  "ambiguitat"
+ ],
+ ["Ambiguität","Wahrnehmung","VI (phän.)",null,null,"see",3539,"Wahrnehmung","ambiguitat"],
  [
   "ambiguitas","Zweideutigkeit; Vieldeutigkeit","",null,null,"ref",3721,
   "Zweideutigkeit; Vieldeutigkeit","ambiguitas"
  ],
  ["ambiguitas","Mentalreservation","","5","1140","ref",1927,"Mentalreservation","ambiguitas"],
  [
-  "ambiguitas dictionis","Ambiguität I (sprach.)","","1","202","ref",113,"Ambiguität (Amphibolie)",
+  "ambiguitas dictionis","Ambiguität","I (sprach.)","1","202","ref",113,"Ambiguität (Amphibolie)",
   "ambiguitas dictionis"
  ],
  ["Ambitendenz","Ambivalenz","",null,null,"ref",114,"Ambivalenz","ambitendenz"],
@@ -29,10 +35,7 @@ HWPH.put("r/61-6d",
  ["Ambivalenz","Ambivalenz","","1","204","main",114,"Ambivalenz","ambivalenz"],
  ["Ambivalenz","Konflikt","II (psych.)",null,null,"see",1608,"Konflikt","ambivalenz"],
  ["Ambivalenz","Ödipus-Komplex","",null,null,"see",2202,"Ödipus-Komplex","ambivalenz"],
- [
-  "Ambivalenz","Ambiguität I (sprach.)","","1","202","ref",113,"Ambiguität (Amphibolie)",
-  "ambivalenz"
- ],
+ ["Ambivalenz","Ambiguität","I (sprach.)","1","202","ref",113,"Ambiguität (Amphibolie)","ambivalenz"],
  ["Ambivalenz","Verleugnung","","11","720","ref",3416,"Verleugnung","ambivalenz"],
  ["âme","Seele","",null,null,"ref",2794,"Seele","ame"],
  ["âme du monde","Weltseele","",null,null,"ref",3578,"Weltseele","ame du monde"],
@@ -42,6 +45,8 @@ HWPH.put("r/61-6d",
  ],
  ["âme sensible","Seele","IV","9","39","ref",2794,"Seele","ame sensible"],
  ["Amentia","Psychose","II","7","1693","ref",2528,"Psychose","amentia"],
+ ["amentia","Unsinn; Widersinn","","11","271","ref",3322,"Unsinn; Widersinn","amentia"],
+ ["amentia","Wahnsinn","","12","37","ref",3521,"Wahnsinn","amentia"],
  ["amicitia","Freundschaft","",null,null,"ref",954,"Freundschaft","amicitia"],
  ["amicitia","Repulsion/Attraktion","","8","885","ref",2690,"Repulsion/Attraktion","amicitia"],
  ["Amnesie","Amnesie","","1","205","main",115,"Amnesie","amnesie"],
@@ -55,7 +60,15 @@ HWPH.put("r/61-6d",
  ["Amnestie","Vergessen, das","","11","674","ref",3404,"Vergessen, das","amnestie"],
  ["amor","Liebe","",null,null,"ref",1795,"Liebe","amor"],
  ["amor","Affekt","I","1","92","ref",53,"Affekt","amor"],
- ["amor","Schöne","",null,null,"ref",2776,"Schöne","amor"],
+ ["amor","Schöne, das","III","8","1359","ref",2776,"Schöne","amor"],
+ [
+  "amor amicitiae/concupiscentiae","Liebe","II","5","301f.","ref",1795,"Liebe",
+  "amor amicitiae/concupiscentiae"
+ ],
+ [
+  "amor amicitiae/concupiscentiae","Uti/frui","","11","502","ref",3365,"Uti/frui",
+  "amor amicitiae/concupiscentiae"
+ ],
  ["amor cognoscendi","Philosophie","III B 1","7","662","ref",2353,"Philosophie","amor cognoscendi"],
  [
   "amor concupiscentiae/benevolentiae","Wohlwollen","","12","1006","ref",3653,"Wohlwollen",
@@ -130,7 +143,7 @@ HWPH.put("r/61-6d",
  ["Amour-propre","Selbstliebe","",null,null,"see",2840,"Selbstliebe","amour-propre"],
  ["Ampheck","Rejektion","(Peirce)","8","569","ref",2665,"Rejektion","ampheck"],
  ["Amphibolie","Ambiguität","",null,null,"ref",113,"Ambiguität (Amphibolie)","amphibolie"],
- ["Amphibolie","Irrtum","(Schlussfehler)","4","609","ref",1500,"Irrtum (Schlußfehler)","amphibolie"],
+ ["Amphibolie","Irrtum (Schlussfehler)","","4","609","ref",1500,"Irrtum (Schlußfehler)","amphibolie"],
  ["Amphibolie","Mentalreservation","","5","1140ff.","ref",1927,"Mentalreservation","amphibolie"],
  [
   "Amphibolie, transzendentale","Reflexionsbegriffe","",null,null,"ref",2635,"Reflexionsbegriffe",
@@ -141,7 +154,7 @@ HWPH.put("r/61-6d",
   "Zweideutigkeit; Vieldeutigkeit","amphibologia"
  ],
  [
-  "amphibologia","Ambiguität I (sprach.)","","1","202","ref",113,"Ambiguität (Amphibolie)",
+  "amphibologia","Ambiguität","I (sprach.)","1","202","ref",113,"Ambiguität (Amphibolie)",
   "amphibologia"
  ],
  ["Amphitheismus","Polytheismus","I","7","1090","ref",2403,"Polytheismus","amphitheismus"],
@@ -149,6 +162,9 @@ HWPH.put("r/61-6d",
  ["Ampliatio","Supposition","",null,null,"see",3084,"Supposition","ampliatio"],
  ["Ampliatio","Terminus","",null,null,"see",3153,"Terminus","ampliatio"],
  ["Amt","Amt","","1","210–212","main",120,"Amt","amt"],
+ ["Amt","Funktionär","",null,null,"see",977,"Funktionär","amt"],
+ ["Amt","Verwaltung; Bürokratie","",null,null,"see",3448,"Verwaltung; Bürokratie","amt"],
+ ["Amt","Vollmacht","",null,null,"see",3483,"Vollmacht","amt"],
  ["Amt","Charisma","I","1","996","ref",489,"Charisma","amt"],
  ["amtscharismatisch","Charisma","II","1","997","ref",489,"Charisma","amtscharismatisch"],
  ["Amelung Eberhard","Kairos","II","4","668f.","author",1519,"Kairos","amelung eberhard"],

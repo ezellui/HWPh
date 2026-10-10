@@ -1,15 +1,5 @@
 HWPH.put("r/6d-61",
 [
- ["Macht","Macht","II (allg.)","5","612f.","main",1844,"Macht","macht"],
- ["Materialismus","Materialismus","",null,null,"main",1886,"Materialismus","materialismus"],
- ["Materia prima","Materia prima","",null,null,"main",1883,"Materia prima","materia prima"],
- [
-  "Materialobjekt/Formalobjekt","Materialobjekt/Formalobjekt","",null,null,"main",1891,
-  "Materialobjekt/Formalobjekt","materialobjekt/formalobjekt"
- ],
- ["Mathematik","Mathematik","","5","931","main",1896,"Mathematik","mathematik"],
- ["Mathematik","Ursache/Wirkung","III","11","396","ref",3350,"Ursache/Wirkung","mathematik"],
- ["Malum","Malum","II","5","658","main",1852,"Malum","malum"],
  [
   "Machiavellismus","Machiavellismus","","5","579–583","main",1842,"Machiavellismus",
   "machiavellismus"
@@ -79,7 +69,7 @@ HWPH.put("r/6d-61",
   "machte des beharrens/der bewegung"
  ],
  [
-  "Mächtigkeit","Kontinuum IV (math.)","","4","1062","ref",1640,"Kontinuum, Kontinuität",
+  "Mächtigkeit","Kontinuum","IV (math.)","4","1062","ref",1640,"Kontinuum, Kontinuität",
   "machtigkeit"
  ],
  ["Mächtigkeit","Mengenlehre","","5","1049f.","ref",1916,"Mengenlehre","machtigkeit"],
@@ -106,7 +96,11 @@ HWPH.put("r/6d-61",
  ["Mässigkeit","Bescheidenheit","",null,null,"see",394,"Bescheidenheit","massigkeit"],
  ["Mässigkeit","Besonnenheit","",null,null,"see",397,"Besonnenheit","massigkeit"],
  ["Mässigkeit","Selbstbeherrschung","",null,null,"see",2824,"Selbstbeherrschung","massigkeit"],
- ["Mässigung","Mässigkeit Magd der Theologie","",null,null,"ref",null,null,"massigung"],
+ ["Mässigung","Mässigkeit","",null,null,"ref",1881,"Mäßigkeit","massigung"],
+ [
+  "Magd der Theologie","Ancilla theologiae","",null,null,"ref",135,"Ancilla theologiae",
+  "magd der theologie"
+ ],
  ["Magd des Glaubens","Philosophie","IV G","7","743","ref",2353,"Philosophie","magd des glaubens"],
  ["magia ceremonialis","Theurgie","","10","1182","ref",3187,"Theurgie","magia ceremonialis"],
  ["Magie","Magie","","5","631–636","main",1845,"Magie","magie"],
@@ -159,15 +153,20 @@ HWPH.put("r/6d-61",
   "Maieutik","Nichtwissen, sokratisches","",null,null,"see",2137,"Nichtwissen, sokratisches",
   "maieutik"
  ],
- ["Maieutik","Sokratik Maieutik","",null,null,"see",null,null,"maieutik"],
+ ["Maieutik","Sokratik","",null,null,"see",2914,"Sokratik; Sokratismus","maieutik"],
+ ["Maieutik","Ironie","","4","578","ref",1495,"Ironie","maieutik"],
  [
   "maîtrise de soi","Selbstbeherrschung","",null,null,"ref",2824,"Selbstbeherrschung",
   "maitrise de soi"
  ],
  ["majorennitas","Mündigkeit","","6","225f.","ref",2038,"Mündigkeit","majorennitas"],
  [
-  "Majoritätsprinzip","Mehrheit; Mehrheitsprinzip majorité","",null,null,"ref",1909,
+  "Majoritätsprinzip","Mehrheit; Mehrheitsprinzip","",null,null,"ref",1909,
   "Mehrheit, Mehrheitsprinzip","majoritatsprinzip"
+ ],
+ [
+  "majorité","Volonté générale","","11","1141","ref",3485,"Volonté générale; volonté de tous",
+  "majorite"
  ],
  ["Makrobiotik","Makrobiotik","","5","638–640","main",1848,"Makrobiotik","makrobiotik"],
  ["Makrobiotik","Diätetik","",null,null,"see",589,"Diätetik","makrobiotik"],
@@ -210,12 +209,7 @@ HWPH.put("r/6d-61",
   "malthusianismus"
  ],
  ["Malum","Malum","","5","652–706","main",1852,"Malum","malum"],
- ["Malum","Gut; das Gute","",null,null,"see",1203,"Gut, das Gute, das Gut","malum"],
- ["Malum","Laster","",null,null,"see",1729,"Laster","malum"],
- ["Malum","Leiden","",null,null,"see",1771,"Leiden","malum"],
- ["Malum","Radikal Böses","",null,null,"see",2562,"Radikal Böses","malum"],
- ["Malum","Sünde","",null,null,"see",3075,"Sünde","malum"],
- ["Malum","Theodizee","",null,null,"see",3166,"Theodizee","malum"],
+ ["Malum","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","malum"],
  [
   "malum/bonum metaphysicum","Vollkommenheit","","11","1123","ref",3482,"Vollkommenheit",
   "malum/bonum metaphysicum"
@@ -229,7 +223,16 @@ HWPH.put("r/6d-61",
  ["malum physicum","Malum","VI","5","684","ref",1852,"Malum","malum physicum"],
  ["malum physicum","Strafe","II","10","222","ref",3035,"Strafe","malum physicum"],
  ["Man","Wir","","12","815f.","ref",3625,"Wir","man"],
- ["Man","Man","",null,null,"main",1853,"Man","man"],
+ ["Man, das","Man, das","(Heidegger)","5","706f.","main",1852,"Malum","man, das"],
+ ["Man, das","Alltäglichkeit","(Heidegger)",null,null,"see",105,"Alltäglichkeit","man, das"],
+ [
+  "Man, das","Analytik des Daseins","(Heidegger)",null,null,"see",129,"Analytik des Daseins",
+  "man, das"
+ ],
+ [
+  "Man, das","Eigentlichkeit/Uneigentlichkeit","(Heidegger)",null,null,"see",667,
+  "Eigentlichkeit/Uneigentlichkeit","man, das"
+ ],
  ["man of feeling","Sensibilité","","9","612","ref",2866,"Sensibilité","man of feeling"],
  ["Mana","Mana","","5","707–709","main",1854,"Mana","mana"],
  ["Mana","Animismus","",null,null,"see",148,"Animismus","mana"],
@@ -252,7 +255,15 @@ HWPH.put("r/6d-61",
  ["Mangel","Bedürfnis","",null,null,"ref",355,"Bedürfnis","mangel"],
  ["Mangel","Defizienz","",null,null,"ref",541,"Defizienz","mangel"],
  ["Mangel","Privation","",null,null,"ref",2461,"Privation","mangel"],
- ["Mangel","Überfluss Mangel an Sein","",null,null,"ref",null,null,"mangel"],
+ ["Mangel","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft","mangel"],
+ [
+  "Mangel an Sein","Signifiant/signifié","II (psych.)","9","757","ref",2884,"Signifiant/signifié",
+  "mangel an sein"
+ ],
+ [
+  "Mangel an Sein","Überfluss","","11","28","ref",3252,"Überfluß; Überflußgesellschaft",
+  "mangel an sein"
+ ],
  ["Mania","Mania","","5","714","main",1859,"Mania","mania"],
  ["Mania","Inspiration","I (theol.)",null,null,"see",1451,"Inspiration","mania"],
  ["Mania","Manie","",null,null,"see",1861,"Manie","mania"],
@@ -274,7 +285,7 @@ HWPH.put("r/6d-61",
  ["Manieriertheit","Verschrobenheit","","11","886","ref",3431,"Verschrobenheit","manieriertheit"],
  ["Manierismus","Manierismus","","5","724–726","main",1862,"Manierismus","manierismus"],
  ["Manierismus","Narzissmus","III","6","405","ref",2069,"Narzißmus, narzißtisch","manierismus"],
- ["manifest","Latenz III (psych.)","","5","45","ref",1731,"Latent, Latenz","manifest"],
+ ["manifest","Latenz","III (psych.)","5","45","ref",1731,"Latent, Latenz","manifest"],
  ["manifest","Verhalten","","11","683","ref",3406,"Verhalten","manifest"],
  ["manifestatio","Offenbarung","",null,null,"ref",2203,"Offenbarung","manifestatio"],
  ["Manipulation","Manipulation","","5","726–729","main",1863,"Manipulation","manipulation"],
@@ -289,8 +300,13 @@ HWPH.put("r/6d-61",
  ["Manismus","Manismus","","5","729–731","main",1864,"Manismus","manismus"],
  ["Manismus","Animismus","",null,null,"see",148,"Animismus","manismus"],
  [
-  "mankind","Menschheit; Menschengeschlecht Mann/Frau","",null,null,"ref",1925,
+  "mankind","Menschheit; Menschengeschlecht","",null,null,"ref",1925,
   "Menschheit, Menschengeschlecht","mankind"
+ ],
+ ["Mann/Frau","Familie; Ehe","",null,null,"ref",893,"Familie, Ehe","mann/frau"],
+ [
+  "Mann, verstümmelter","Weiblich/männlich","II","12","348","ref",3552,"Weiblich/männlich",
+  "mann, verstummelter"
  ],
  ["Mannesalter","Lebensalter","",null,null,"ref",1739,"Lebensalter","mannesalter"],
  [
@@ -331,15 +347,23 @@ HWPH.put("r/6d-61",
  ["Mantik","Mantik","","5","749–751","main",1868,"Mantik","mantik"],
  ["Mantik","Divination","",null,null,"see",623,"Divination","mantik"],
  ["Mantik","Hellsehen","",null,null,"see",1246,"Hellsehen","mantik"],
- ["Mantik","Voraussage many-sorted logic","",null,null,"see",null,null,"mantik"],
+ ["Mantik","Voraussage","",null,null,"see",3487,"Voraussage; Vorhersage; Prognose","mantik"],
+ ["many-sorted logic","Sortenlogik","",null,null,"ref",2930,"Sortenlogik","many-sorted logic"],
  [
   "many-valued logics","Logik, mehrwertige","",null,null,"ref",1815,"Logik, mehrwertige",
   "many-valued logics"
  ],
  ["Maoismus","Maoismus","","5","751–753","main",1869,"Maoismus","maoismus"],
  ["mapping","Zuordnung; Abbildung","",null,null,"ref",3710,"Zuordnung; Abbildung","mapping"],
- ["mapping","Erkenntnis II (psych.)","","2","673","ref",796,"Erkennen, Erkenntnis","mapping"],
- ["marchandise","Ware mare historiarum","",null,null,"ref",null,null,"marchandise"],
+ ["mapping","Erkenntnis","II (psych.)","2","673","ref",796,"Erkennen, Erkenntnis","mapping"],
+ [
+  "marchandise","Ware","",null,null,"ref",3545,"Ware; Warencharakter; Warenfetischismus",
+  "marchandise"
+ ],
+ [
+  "mare historiarum","Weltgeschichte","","12","481","ref",3567,"Weltgeschichte; Universalgeschichte",
+  "mare historiarum"
+ ],
  ["Markt","Markt","","5","753–758","main",1870,"Markt","markt"],
  ["Markt","Konkurrenz","",null,null,"see",1617,"Konkurrenz","markt"],
  ["Markt","Tausch","",null,null,"see",3133,"Tausch","markt"],
@@ -351,15 +375,19 @@ HWPH.put("r/6d-61",
   "marsch durch die institutionen"
  ],
  [
-  "Martinisme","Illuminaten; Illuminisme martyriocritica","",null,null,"ref",1386,
-  "Illuminaten, Illuminisme","martinisme"
+  "Martinisme","Illuminaten; Illuminisme","",null,null,"ref",1386,"Illuminaten, Illuminisme",
+  "martinisme"
+ ],
+ [
+  "martyriocritica","Zeuge; Zeugnis","I (erk.)","12","1320","ref",3692,"Zeuge; Zeugnis",
+  "martyriocritica"
  ],
  ["marvel","Wunder","",null,null,"ref",3659,"Wunder","marvel"],
  [
   "marvellous","Wunderbare, das; Phantastische, das","",null,null,"ref",3660,
   "Wunderbare, das; Phantastische, das","marvellous"
  ],
- ["Marxismus s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"marxismus s. auch"],
+ ["Marxismus","Register der Sachgruppen","",null,null,"see",null,null,"marxismus"],
  ["Marxismus","Marxismus","","5","758–790","main",1871,"Marxismus","marxismus"],
  ["Marxismus","Leninismus","",null,null,"see",1781,"Leninismus","marxismus"],
  ["Marxismus","Philosophie","IV",null,null,"see",2353,"Philosophie","marxismus"],
@@ -411,6 +439,17 @@ HWPH.put("r/6d-61",
  ["Masochismus","Liebe","IV","5","322f.","ref",1795,"Liebe","masochismus"],
  ["Masora","Masora","","5","806f.","main",1876,"Masora","masora"],
  ["Mass","Mass","","5","807–825","main",1877,"Maß","mass"],
+ ["Mass","Geziemende, das","",null,null,"see",1136,"Geziemende","mass"],
+ ["Mass","Mesotes","",null,null,"see",1933,"Mesotes","mass"],
+ ["Mass","Mitte","",null,null,"see",1985,"Mitte","mass"],
+ ["Mass","Schicklich","",null,null,"see",2763,"Schicklich","mass"],
+ ["Mass","Grösse","",null,null,"see",1187,"Größe","mass"],
+ ["Mass","Proportion","IV (ästh.)",null,null,"see",2483,"Proportion","mass"],
+ ["Mass","Messen","",null,null,"see",1934,"Messen","mass"],
+ ["Mass","Messprozess","",null,null,"see",1936,"Meßprozeß","mass"],
+ ["Mass","Kanon","",null,null,"ref",1526,"Kanon","mass"],
+ ["Mass","Affekt","I","1","90","ref",53,"Affekt","mass"],
+ ["Mass","Symmetrie","I (ästh.)","10","746","ref",3097,"Symmetrie","mass"],
  ["Mass (phys.)","Praecisio","I (log.)","7","1213","ref",2429,"Praecisio","mass (phys.)"],
  [
   "mass communication","Massenkommunikation","",null,null,"ref",1879,"Massenkommunikation",
@@ -422,6 +461,14 @@ HWPH.put("r/6d-61",
  ["massa corporalis","Chaos","II","1","982","ref",484,"Chaos","massa corporalis"],
  ["massa perditionis","Prädestination","","7","1173","ref",2424,"Prädestination","massa perditionis"],
  ["Masse","Masse","","5","825–832","main",1877,"Maß","masse"],
+ ["Masse","Gravitation","",null,null,"see",1181,"Gravitation","masse"],
+ ["Masse","Ideation","",null,null,"see",1359,"Ideation","masse"],
+ ["Masse","Impetus","",null,null,"see",1397,"Impetus","masse"],
+ ["Masse","Inertialsystem","",null,null,"see",1428,"Inertialsystem","masse"],
+ ["Masse","Kraft","II",null,null,"see",1680,"Kraft","masse"],
+ ["Masse","Materie","V (phys.)",null,null,"see",1892,"Materie","masse"],
+ ["Masse","Massenpsychologie","",null,null,"see",1880,"Massenpsychologie","masse"],
+ ["Masse","Pöbel","",null,null,"see",2386,"Pöbel","masse"],
  ["Masse","Alchemie","","1","149","ref",93,"Alchemie","masse"],
  ["Masse (soz.)","Einzelne","","2","426f.","ref",695,"Einzelne","masse (soz.)"],
  [
@@ -433,7 +480,11 @@ HWPH.put("r/6d-61",
   "Masse des Verderbens","Prädestination","","7","1173","ref",2424,"Prädestination",
   "masse des verderbens"
  ],
- ["Masseinheiten","Mass III (phys.) Massendemokratie","",null,null,"ref",null,null,"masseinheiten"],
+ ["Masseinheiten","Mass","III (phys.)",null,null,"ref",1877,"Maß","masseinheiten"],
+ [
+  "Massendemokratie","Repräsentation","II (pol.)","8","822","ref",2686,"Repräsentation",
+  "massendemokratie"
+ ],
  [
   "Masseneudaimonismus","Hypermoral","(Gehlen)","3","1238","ref",1323,"Hypermoral",
   "masseneudaimonismus"
@@ -452,7 +503,7 @@ HWPH.put("r/6d-61",
   "Massenpsychologie","Massenpsychologie","","5","836–838","main",1880,"Massenpsychologie",
   "massenpsychologie"
  ],
- ["Massenpsychologie","Masse II (soz.)","",null,null,"see",1878,"Masse, Massen","massenpsychologie"],
+ ["Massenpsychologie","Masse","II (soz.)",null,null,"see",1878,"Masse, Massen","massenpsychologie"],
  [
   "Massenpsychologie","Sozialpsychologie","",null,null,"see",2952,"Sozialpsychologie",
   "massenpsychologie"
@@ -465,12 +516,12 @@ HWPH.put("r/6d-61",
  ["Massenwahn","Massenpsychologie","","5","836","ref",1880,"Massenpsychologie","massenwahn"],
  ["Massenwahn","Wahn","","12","32","ref",3520,"Wahn","massenwahn"],
  [
-  "Massformel der Empfindungen","Mass II (ästh.)","","5","820","ref",1877,"Maß",
+  "Massformel der Empfindungen","Mass","II (ästh.)","5","820","ref",1877,"Maß",
   "massformel der empfindungen"
  ],
- ["Masslosigkeit","Mass II (ästh.)","","5","818","ref",1877,"Maß","masslosigkeit"],
+ ["Masslosigkeit","Mass","II (ästh.)","5","818","ref",1877,"Maß","masslosigkeit"],
  ["Massnahmegesetz","Gesetz","I (jur.)","3","493","ref",1105,"Gesetz","massnahmegesetz"],
- ["Massstab","Mass II (ästh.)","","5","817","ref",1877,"Maß","massstab"],
+ ["Massstab","Mass","II (ästh.)","5","817","ref",1877,"Maß","massstab"],
  ["matā","Wo; wann I μάταιος","",null,null,"ref",3649,"Wo; Wann","mata"],
  ["mater artium","Dialektik","III","2","176","ref",583,"Dialektik","mater artium"],
  ["materia","Causa materialis","",null,null,"ref",474,"Causa materialis","materia"],
@@ -483,8 +534,12 @@ HWPH.put("r/6d-61",
   "Materia communis/M. individualis","materia communis/individualis"
  ],
  [
-  "Materia communis/individualis","Form und Materie materia extensiva","",null,null,"see",null,null,
-  "materia communis/individualis"
+  "Materia communis/individualis","Form und Materie","",null,null,"see",939,
+  "Form und Materie (Stoff)","materia communis/individualis"
+ ],
+ [
+  "materia extensiva","Individuation","","4","296","ref",1420,"Individuation, Individuationsprinzip",
+  "materia extensiva"
  ],
  [
   "materia individualis","Materia communis/individualis","",null,null,"ref",1882,
@@ -498,8 +553,17 @@ HWPH.put("r/6d-61",
   "materia informis","Form und Materie","","2","987","ref",939,"Form und Materie (Stoff)",
   "materia informis"
  ],
+ ["materia informis","Materie","II","5","894","ref",1892,"Materie","materia informis"],
  ["Materia prima","Materia prima","","5","841","main",1883,"Materia prima","materia prima"],
- ["Materia prima","Form und Materie materia prima","",null,null,"see",null,null,"materia prima"],
+ [
+  "Materia prima","Form und Materie","",null,null,"see",939,"Form und Materie (Stoff)",
+  "materia prima"
+ ],
+ ["materia prima","Arcanum","","1","495","ref",237,"Arcanum","materia prima"],
+ ["materia prima","Chaos","II","1","982f.","ref",484,"Chaos","materia prima"],
+ ["materia prima","Materie","II","5","894ff.","ref",1892,"Materie","materia prima"],
+ ["materia prima","Natur","IV","6","465","ref",2074,"Natur","materia prima"],
+ ["materia prima","Quantität","II","7","1798","ref",2552,"Quantität","materia prima"],
  ["Materia secunda","Materia secunda","","5","841f.","main",1884,"Materia secunda","materia secunda"],
  [
   "materia sensibilis/intelligibilis","Materie","II","5","897","ref",1892,"Materie",
@@ -522,7 +586,15 @@ HWPH.put("r/6d-61",
   "Materialcharakter","Aufforderungscharakter","","1","617","ref",286,"Aufforderungscharakter",
   "materialcharakter"
  ],
- ["materiale Ontologie","Ontologie","",null,null,"ref",2218,"Ontologie","materiale ontologie"],
+ [
+  "materiale Ontologie","Ontologie, formale/materiale","(Husserl)",null,null,"ref",2218,"Ontologie",
+  "materiale ontologie"
+ ],
+ [
+  "materiale Wertethik","Formalismus","I (Scheler)",null,null,"ref",930,"Formalismus",
+  "materiale wertethik"
+ ],
+ ["materiale Wertethik","Wert","III B (phän.)","12","569","ref",3588,"Wert","materiale wertethik"],
  ["Materialismus","Materialismus","","5","842–850","main",1886,"Materialismus","materialismus"],
  ["Materialismus","Spiritualismus","",null,null,"ref",2979,"Spiritualismus","materialismus"],
  ["Materialismus (ind.)","Lokâyata","",null,null,"ref",1832,"Lokâyata","materialismus (ind.)"],
@@ -547,14 +619,33 @@ HWPH.put("r/6d-61",
   "Idealismus, menschewisierender","materialismus, dialektischer"
  ],
  [
-  "Materialismus, dialektischer","Materialismus","",null,null,"see",1886,"Materialismus",
-  "materialismus, dialektischer"
+  "Materialismus, dialektischer","Materialismus, historischer","",null,null,"see",1886,
+  "Materialismus","materialismus, dialektischer"
+ ],
+ [
+  "Materialismus, didaktischer","Materialismus","","5","844","ref",1886,"Materialismus",
+  "materialismus, didaktischer"
  ],
  [
   "Materialismus, formaler","Materialismus","","5","849","ref",1886,"Materialismus",
   "materialismus, formaler"
  ],
- ["Materialismus","Materialismus","",null,null,"main",1886,"Materialismus","materialismus"],
+ [
+  "Materialismus, historischer","Materialismus, historischer","","5","859–868","main",1887,
+  "Materialismus, dialektischer","materialismus, historischer"
+ ],
+ [
+  "Materialismus, historischer","Dialektik","IV",null,null,"see",583,"Dialektik",
+  "materialismus, historischer"
+ ],
+ [
+  "Materialismus, historischer","Geschichtsauffassung, materialistische","",null,null,"see",1091,
+  "Geschichtsauffassung, materialistische","materialismus, historischer"
+ ],
+ [
+  "Materialismus, historischer","Materialismus, dialektischer","",null,null,"see",1887,
+  "Materialismus, dialektischer","materialismus, historischer"
+ ],
  [
   "Materialismus, mechanischer","Materialismus, mechanischer","","5","868","main",1889,
   "Materialismus, mechanischer","materialismus, mechanischer"
@@ -572,16 +663,24 @@ HWPH.put("r/6d-61",
   "ref",1091,"Geschichtsauffassung, materialistische","materialistische geschichtsauffassung"
  ],
  [
-  "materialistische Geschichtsauffassung","Materialismus","",null,null,"ref",1886,"Materialismus",
-  "materialistische geschichtsauffassung"
+  "materialistische Geschichtsauffassung","Materialismus, historischer","",null,null,"ref",1886,
+  "Materialismus","materialistische geschichtsauffassung"
+ ],
+ [
+  "Materialobjekt/Formalobjekt","Materialobjekt/Formalobjekt","","5","870","main",1891,
+  "Materialobjekt/Formalobjekt","materialobjekt/formalobjekt"
+ ],
+ [
+  "Materialobjekt/Formalobjekt","Objekt","",null,null,"see",2183,"Objekt",
+  "materialobjekt/formalobjekt"
  ],
  ["Materie","Materie","","5","870–924","main",1892,"Materie","materie"],
  [
   "Materie","Einheit und Vielheit der Wesensform","",null,null,"see",684,
   "Einheit und Vielheit der Wesensform","materie"
  ],
- ["Materie","Form und Materie – V (phys.)","","5","921–924","see",1892,"Materie","materie"],
- ["Materie","Masse I (phys.)","",null,null,"see",1878,"Masse, Massen","materie"],
+ ["Materie","Form und Materie","",null,null,"see",939,"Form und Materie (Stoff)","materie"],
+ ["Materie","Masse","I (phys.)",null,null,"see",1878,"Masse, Massen","materie"],
  ["Materie","Trägheit","II (phys.)",null,null,"see",3213,"Trägheit","materie"],
  ["Materie","Repulsion/Attraktion","",null,null,"ref",2690,"Repulsion/Attraktion","materie"],
  ["Materie","Moment","II (met.)","6","103f.","ref",2009,"Moment","materie"],
@@ -644,7 +743,7 @@ HWPH.put("r/6d-61",
   "mathematica disciplina","Disciplina","I","2","258","ref",607,"Disciplina, doctrina",
   "mathematica disciplina"
  ],
- ["Mathematik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"mathematik s. auch"],
+ ["Mathematik","Register der Sachgruppen","",null,null,"see",null,null,"mathematik"],
  ["Mathematik","Mathematik","","5","926–935","main",1896,"Mathematik","mathematik"],
  ["Mathematik","Algebra","",null,null,"see",95,"Algebra","mathematik"],
  ["Mathematik","Arithmetik","",null,null,"see",247,"Arithmetik","mathematik"],
@@ -721,7 +820,13 @@ HWPH.put("r/6d-61",
  ["Maxime","Axiom","",null,null,"see",340,"Axiom","maxime"],
  ["Maxime","Grundsätze, praktische","(Kant)",null,null,"see",1197,"Grundsätze, praktische","maxime"],
  ["Maxime","Regel","II (eth.)",null,null,"see",2640,"Regel","maxime"],
- ["Maxime","Topik II Maxime","",null,null,"see",null,null,"maxime"],
+ ["Maxime","Topik","II",null,null,"see",3203,"Topik; Topos","maxime"],
+ ["Maxime","Dialektik","III","2","179","ref",583,"Dialektik","maxime"],
+ [
+  "Maxime","Imperativ, kategorischer","I","4","244f.","ref",1395,
+  "Imperative, kategorischer Imperativ","maxime"
+ ],
+ ["Maxime","Prinzip","III 4","7","1365","ref",2458,"Prinzip","maxime"],
  ["maxime esse","Wesen, höchstes","","12","647","ref",3596,"Wesen, höchstes","maxime esse"],
  [
   "maximitas absoluta","Absolut; das Absolute","","1","14","ref",27,"Absolut, das Absolute",
@@ -742,28 +847,6 @@ HWPH.put("r/6d-61",
   "Makrokosmos/Mikrokosmos","Makrokosmos/Mikrokosmos","",null,null,"main",1849,
   "Makrokosmos/Mikrokosmos","makrokosmos/mikrokosmos"
  ],
- ["Malum","Malum","V",null,null,"main",1852,"Malum","malum"],
- ["Malum","Grund","","3","905","ref",1191,"Grund","malum"],
- ["Malum","Negation","",null,null,"ref",2100,"Negation","malum"],
- [
-  "Männlich/weiblich","Männlich/weiblich","(psych.)","5","742","main",1867,"Männlich/weiblich",
-  "mannlich/weiblich"
- ],
- ["Männlich/weiblich","Verstellung","","11","940","ref",3439,"Verstellung","mannlich/weiblich"],
- ["Malum","Malum","",null,null,"main",1852,"Malum","malum"],
- ["Malum","Entzweiung","","2","567","ref",765,"Entzweiung, entzweien","malum"],
- ["Malum","Freiheit","II","2","1080f.","ref",946,"Freiheit","malum"],
- ["Malum","Streit","I (allg.)","10","298","ref",3039,"Streit","malum"],
- ["Malum","Weltseele","","12","517","ref",3578,"Weltseele","malum"],
- ["Malum","Wiederbringung","","12","721","ref",3612,"Wiederbringung","malum"],
- [
-  "Mannigfaltige, das","Mannigfaltige, das","",null,null,"main",1865,
-  "Mannigfaltige, Mannigfaltigkeit","mannigfaltige, das"
- ],
- ["Mannigfaltige, das","Dasein","","2","17","ref",527,"Dasein","mannigfaltige, das"],
- ["Mannigfaltige, das","Differenz","","2","236","ref",594,"Differenz","mannigfaltige, das"],
- ["Mannigfaltige, das","Qualität","III","7","1778","ref",2544,"Qualität","mannigfaltige, das"],
- ["Mannigfaltige, das","Vielheit","I","11","1047","ref",3462,"Vielheit","mannigfaltige, das"],
  [
   "Maas Jörg F","Revolution, permanente","","8","988–990","author",2708,"Revolution, permanente",
   "maas jorg f"
@@ -773,11 +856,11 @@ HWPH.put("r/6d-61",
   "machscheidt klaus"
  ],
  [
-  "Mackenthun Winfried","Familie; Ehe II 3–4","","2","902f.","author",893,"Familie, Ehe",
+  "Mackenthun Winfried","Familie; Ehe","II",null,null,"author",893,"Familie, Ehe",
   "mackenthun winfried"
  ],
  [
-  "Mackenthun Winfried","Intelligenz; Intellektueller V (soz.)","","4","454–458","author",1464,
+  "Mackenthun Winfried","Intelligenz; Intellektueller","V (soz.)","4","454–458","author",1464,
   "Intelligenz, Intelligentsia, Intellektueller","mackenthun winfried"
  ],
  ["Madec Goulven","Philosophie","II D","7","630–633","author",2353,"Philosophie","madec goulven"],
@@ -830,16 +913,16 @@ HWPH.put("r/6d-61",
   "mainzer klaus"
  ],
  ["Mainzer Klaus","Gültigkeit","","3","934–937","author",1201,"Gültigkeit","mainzer klaus"],
- ["Mainzer Klaus","Konstruktion","",null,null,"author",1631,"Konstruktion","mainzer klaus"],
+ ["Mainzer Klaus","Konstruktion II.","IV","4","1011f.","author",1631,"Konstruktion","mainzer klaus"],
  [
   "Mainzer Klaus","Konstruktivismus","","4","1019–1021","author",1632,"Konstruktivismus",
   "mainzer klaus"
  ],
  [
-  "Mainzer Klaus","Kontinuum IV (math.)","","4","1057–1062","author",1640,"Kontinuum, Kontinuität",
+  "Mainzer Klaus","Kontinuum","IV (math.)","4","1057–1062","author",1640,"Kontinuum, Kontinuität",
   "mainzer klaus"
  ],
- ["Mainzer Klaus","Mass III (phys.)","","5","823–825","author",1877,"Maß","mainzer klaus"],
+ ["Mainzer Klaus","Mass","III (phys.)","5","823–825","author",1877,"Maß","mainzer klaus"],
  ["Mainzer Klaus","Mathematik","","5","926–935","author",1896,"Mathematik","mainzer klaus"],
  [
   "Mainzer Klaus","Mathematik, positive","","5","935–937","author",1897,"Mathematik, positive",
@@ -919,7 +1002,7 @@ HWPH.put("r/6d-61",
  ],
  ["Marquard Odo","Anthropologie","","1","362–374","author",175,"Anthropologie","marquard odo"],
  [
-  "Marquard Odo","Antriebsüberschuss (Gehlen)","","1","427f.","author",195,"Antriebsüberschuß",
+  "Marquard Odo","Antriebsüberschuss","(Gehlen)","1","427f.","author",195,"Antriebsüberschuß",
   "marquard odo"
  ],
  ["Marquard Odo","Bionegativ","","1","945","author",442,"Bionegativ","marquard odo"],

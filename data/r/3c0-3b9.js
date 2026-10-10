@@ -17,7 +17,7 @@ HWPH.put("r/3c0-3b9",
  ["πιθανολογία","Subtilität","","10","563","ref",3067,"Subtilität","πιθανολογια"],
  ["πιθανολογία","Wahrscheinlichkeit","II","12","252","ref",3540,"Wahrscheinlichkeit","πιθανολογια"],
  ["πιθανόν","Katalepsis","",null,null,"ref",1536,"Katalepsis","πιθανον"],
- ["πιθανόν","Phantasia","I",null,null,"ref",2348,"Phantasia","πιθανον"],
+ ["πιθανόν","Phantasia","I 4",null,null,"ref",2348,"Phantasia","πιθανον"],
  ["πιθανόν","Wahrscheinlichkeit","II",null,null,"ref",3540,"Wahrscheinlichkeit","πιθανον"],
  ["πιθανόν","Wahrheitskriterium","I","12","183","ref",3537,"Wahrheitskriterium","πιθανον"]
 ]

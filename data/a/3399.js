@@ -39,6 +39,7 @@ HWPH.put("a/3399",
  ],
  "register":[
   {"term":"Anarchie","qualifier":"","band":"11","col":"646f."},
+  {"term":"Autokratie","qualifier":"","band":"11","col":"648"},
   {"term":"dominium regale/politicum","qualifier":"","band":"11","col":"646"},
   {"term":"Kreislauf der Verfassungen","qualifier":"","band":"11","col":"644f."},
   {"term":"république","qualifier":"","band":"11","col":"647"},

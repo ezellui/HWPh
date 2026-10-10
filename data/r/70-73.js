@@ -1,12 +1,12 @@
 HWPH.put("r/70-73",
 [
- ["Psychoanalyse","Psychoanalyse","I","7","1572","main",2506,"Psychoanalyse","psychoanalyse"],
- ["Psychologie","Psychologie","","7","1600","main",2511,"Psychologie","psychologie"],
- ["Psychometrie","Psychometrie","","7","1679","main",2523,"Psychometrie","psychometrie"],
- ["Psychologie","Psychologie","","7","1634","main",2511,"Psychologie","psychologie"],
+ ["Psychologie","Psychologie","","7","1625","main",2511,"Psychologie","psychologie"],
+ ["Psychologie","Realitätsprinzip","","8","211","ref",2594,"Realitätsprinzip","psychologie"],
+ ["Psychologie","Selektion","","9","567","ref",2856,"Selektion","psychologie"],
  ["Psychologie","Psychologie","","7","1649","main",2511,"Psychologie","psychologie"],
  ["Psychologismus","Psychologismus","","7","1676ff.","main",2522,"Psychologismus","psychologismus"],
- ["Psychose","Psychose","II","7","1693","main",2528,"Psychose","psychose"],
+ ["Psychologie","Psychologie","","7","1628ff.","main",2511,"Psychologie","psychologie"],
+ ["Psychologie","Seele","V","9","70f.","ref",2794,"Seele","psychologie"],
  ["Pseudobeweis","Circulus vitiosus","",null,null,"ref",499,"Circulus vitiosus","pseudobeweis"],
  ["Pseudo-Existenz","Wirklichkeit","","12","838","ref",3628,"Wirklichkeit","pseudo-existenz"],
  [
@@ -20,8 +20,8 @@ HWPH.put("r/70-73",
   "pseudomorphose"
  ],
  [
-  "Pseudonym (Kierkegaard)","Pseudonym (Kierkegaard)","","7","1567–1569","main",2503,
-  "Pseudonym, Pseudonymität","pseudonym (kierkegaard)"
+  "Pseudonym","Pseudonym","(Kierkegaard)","7","1567–1569","main",2503,"Pseudonym, Pseudonymität",
+  "pseudonym"
  ],
  [
   "Pseudonym (Kierkegaard)","Mitteilung; Mitteilbarkeit","","5","1426f.","ref",1986,
@@ -50,6 +50,7 @@ HWPH.put("r/70-73",
  ["Psyche","Psychologie","",null,null,"ref",2511,"Psychologie","psyche"],
  ["Psyche","Seele","IV",null,null,"ref",2794,"Seele","psyche"],
  ["Psyche","Ich","II","4","15","ref",1334,"Ich","psyche"],
+ ["Psychiatrie","Register der Sachgruppen","",null,null,"see",null,null,"psychiatrie"],
  ["Psychiatrie","Psychiatrie","","7","1569–1572","main",2505,"Psychiatrie","psychiatrie"],
  ["Psychiatrie","Neurologie","",null,null,"see",2123,"Neurologie","psychiatrie"],
  ["Psychiatrie","Psychopathie","",null,null,"see",2525,"Psychopathie","psychiatrie"],
@@ -96,10 +97,7 @@ HWPH.put("r/70-73",
   "psychische Realität","Realität, psychische","",null,null,"ref",2592,"Realität, psychische",
   "psychische realitat"
  ],
- [
-  "Psychoanalyse > s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "psychoanalyse > s. auch"
- ],
+ ["Psychoanalyse >","Register der Sachgruppen","",null,null,"see",null,null,"psychoanalyse >"],
  ["Psychoanalyse","Psychoanalyse","","7","1572–1590","main",2506,"Psychoanalyse","psychoanalyse"],
  ["Psychoanalyse","Neofreudianismus","",null,null,"see",2107,"Neofreudianismus","psychoanalyse"],
  ["Psychoanalyse","Tiefenpsychologie","",null,null,"see",3191,"Tiefenpsychologie","psychoanalyse"],
@@ -114,7 +112,10 @@ HWPH.put("r/70-73",
   "psychoanalyse, strukturale"
  ],
  ["Psychodrama","Psychodrama","","7","1590f.","main",2507,"Psychodrama","psychodrama"],
- ["Psychodrama","Methode","",null,null,"see",1955,"Methode","psychodrama"],
+ ["Psychodrama","Methode, kathartische","",null,null,"see",1955,"Methode","psychodrama"],
+ ["Psychodynamik","Psychodynamik","","7","1591–1593","main",2508,"Psychodynamik","psychodynamik"],
+ ["Psychodynamik","Psychoanalyse","",null,null,"see",2506,"Psychoanalyse","psychodynamik"],
+ ["Psychodynamik","Verdrängung","",null,null,"see",3393,"Verdrängung","psychodynamik"],
  [
   "Psychogenese","Psychogenese","","7","1593–1597","main",2509,"Psychogenese, Psychophylogenese",
   "psychogenese"
@@ -136,8 +137,8 @@ HWPH.put("r/70-73",
   "psychoid"
  ],
  [
-  "Psychoid","Schichtenlehre II (psych.)","","8","1269","ref",2762,
-  "Schichtenlehre, Schichtentheorie","psychoid"
+  "Psychoid","Schichtenlehre","II (psych.)","8","1269","ref",2762,"Schichtenlehre, Schichtentheorie",
+  "psychoid"
  ],
  [
   "Psycholamarckismus","Psycholamarckismus","","7","1597–1599","main",2510,"Psycholamarckismus",
@@ -175,10 +176,7 @@ HWPH.put("r/70-73",
   "Psychologie, transzendentale","psychologia rationalis"
  ],
  ["psychologia vera","Herz","","3","1106","ref",1265,"Herz","psychologia vera"],
- [
-  "Psychologie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "psychologie s. auch"
- ],
+ ["Psychologie","Register der Sachgruppen","",null,null,"see",null,null,"psychologie"],
  ["Psychologie","Psychologie","","7","1599–1653","main",2511,"Psychologie","psychologie"],
  ["Psychologie","Aktpsychologie","",null,null,"see",84,"Aktpsychologie","psychologie"],
  [
@@ -237,8 +235,28 @@ HWPH.put("r/70-73",
   "psychologie, beschreibende und zergliedernde"
  ],
  [
-  "Psychologie, beschreibende und zergliedernde","Psychologie","",null,null,"see",2511,"Psychologie",
-  "psychologie, beschreibende und zergliedernde"
+  "Psychologie, beschreibende und zergliedernde","Psychologie, geisteswissenschaftliche","",null,
+  null,"see",2511,"Psychologie","psychologie, beschreibende und zergliedernde"
+ ],
+ [
+  "Psychologie, beschreibende und zergliedernde","Realpsychologie","(Dilthey)",null,null,"see",2595,
+  "Realpsychologie","psychologie, beschreibende und zergliedernde"
+ ],
+ [
+  "Psychologie, beschreibende und zergliedernde","Stand des Bewusstseins","(Dilthey)",null,null,
+  "see",3009,"Stand des Bewußtseins","psychologie, beschreibende und zergliedernde"
+ ],
+ [
+  "Psychologie, beschreibende und zergliedernde","Beschreibung","II","1","844","ref",395,
+  "Beschreibung","psychologie, beschreibende und zergliedernde"
+ ],
+ [
+  "Psychologie, beschreibende und zergliedernde","Erklären","I (Dilthey)","2","692","ref",801,
+  "Erklären, Erklärung","psychologie, beschreibende und zergliedernde"
+ ],
+ [
+  "Psychologie, beschreibende und zergliedernde","Erleben; Erlebnis","","2","707","ref",804,
+  "Erleben, Erlebnis","psychologie, beschreibende und zergliedernde"
  ],
  [
   "Psychologie, dialektische","Psychologie, transzendentale","(Kant)","7","1671","ref",2521,
@@ -300,7 +318,24 @@ HWPH.put("r/70-73",
   "Psychologie, experimentelle","Psychologie","","7","1620ff.","ref",2511,"Psychologie",
   "psychologie, experimentelle"
  ],
- ["Psychologie","Psychologie","",null,null,"main",2511,"Psychologie","psychologie"],
+ [
+  "Psychologie, geisteswissenschaftliche","Psychologie, geisteswissenschaftliche","","7",
+  "1656- 1658","main",2514,"Psychologie, geisteswissenschaftliche und verstehende",
+  "psychologie, geisteswissenschaftliche"
+ ],
+ [
+  "Psychologie, geisteswissenschaftliche","Geisteswissenschaftliche Pädagogik","",null,null,"see",
+  1037,"Geisteswissenschaftliche Pädagogik","psychologie, geisteswissenschaftliche"
+ ],
+ [
+  "Psychologie, geisteswissenschaftliche","Psychologie, beschreibende und zergliedernde","",null,
+  null,"see",2512,"Psychologie, beschreibende und zergliedernde",
+  "psychologie, geisteswissenschaftliche"
+ ],
+ [
+  "Psychologie, geisteswissenschaftliche","Realpsychologie","(Dilthey)",null,null,"see",2595,
+  "Realpsychologie","psychologie, geisteswissenschaftliche"
+ ],
  [
   "Psychologie, geisteswissenschaftliche","Verstehen","",null,null,"ref",3438,"Verstehen",
   "psychologie, geisteswissenschaftliche"
@@ -342,7 +377,7 @@ HWPH.put("r/70-73",
   "psychologie, induktive"
  ],
  [
-  "Psychologie, kognitive","Erkenntnis II (psych.)","",null,null,"ref",796,"Erkennen, Erkenntnis",
+  "Psychologie, kognitive","Erkenntnis","II (psych.)",null,null,"ref",796,"Erkennen, Erkenntnis",
   "psychologie, kognitive"
  ],
  [
@@ -358,7 +393,7 @@ HWPH.put("r/70-73",
   "Psychologie, komplexe","psychologie, komplexe"
  ],
  [
-  "Psychologie, komplexe","Anima/Animus (Jung)","",null,null,"see",145,"Anima, Animus",
+  "Psychologie, komplexe","Anima/Animus","(Jung)",null,null,"see",145,"Anima, Animus",
   "psychologie, komplexe"
  ],
  ["Psychologie, komplexe","Komplex","",null,null,"see",1600,"Komplex","psychologie, komplexe"],
@@ -466,7 +501,7 @@ HWPH.put("r/70-73",
   "Psychologie, topologische","psychologie, topologische"
  ],
  [
-  "Psychologie, topologische","Feld II (psych.)","",null,null,"see",904,"Feld, Feldtheorie",
+  "Psychologie, topologische","Feld","II (psych.)",null,null,"see",904,"Feld, Feldtheorie",
   "psychologie, topologische"
  ],
  [
@@ -498,7 +533,19 @@ HWPH.put("r/70-73",
   "psychologie, transzendentale (kant)"
  ],
  [
-  "Psychologie, verstehende","Psychologie","",null,null,"ref",2511,"Psychologie",
+  "Psychologie, verstehende","Psychologie, geisteswissenschaftliche","",null,null,"ref",2511,
+  "Psychologie","psychologie, verstehende"
+ ],
+ [
+  "Psychologie, verstehende","Psychologie, objektive","","7","1663","ref",2517,
+  "Psychologie, objektive","psychologie, verstehende"
+ ],
+ [
+  "Psychologie, verstehende","Psychopathologie","II","7","1686","ref",2526,"Psychopathologie",
+  "psychologie, verstehende"
+ ],
+ [
+  "Psychologie, verstehende","Verstehen","","11","924","ref",3438,"Verstehen",
   "psychologie, verstehende"
  ],
  [
@@ -522,11 +569,15 @@ HWPH.put("r/70-73",
   "Typos; Typologie","psychologie der abstraktion"
  ],
  [
-  "Psychologie der Erfindung","Invention; Erfindung IV (psych.) psychologie des facultés","",null,
-  null,"ref",1490,"Invention, Erfindung, Entdeckung","psychologie der erfindung"
+  "Psychologie der Erfindung","Invention; Erfindung","IV (psych.)",null,null,"ref",1490,
+  "Invention, Erfindung, Entdeckung","psychologie der erfindung"
  ],
  [
-  "Psychologie des Schaffens","Produktion III (ästh.)","","7","1435","ref",2469,
+  "psychologie des facultés","Vermögen; Vermögenspsychologie","",null,null,"ref",3419,
+  "Vermögen; Vermögenspsychologie","psychologie des facultes"
+ ],
+ [
+  "Psychologie des Schaffens","Produktion","III (ästh.)","7","1435","ref",2469,
   "Produktion, Produktivität","psychologie des schaffens"
  ],
  [
@@ -542,7 +593,7 @@ HWPH.put("r/70-73",
   "psychologische semiotik"
  ],
  [
-  "psychologisches Feld","Feld II (psych.)","",null,null,"ref",904,"Feld, Feldtheorie",
+  "psychologisches Feld","Feld","II (psych.)",null,null,"ref",904,"Feld, Feldtheorie",
   "psychologisches feld"
  ],
  ["Psychologismus","Psychologismus","","7","1675–1678","main",2522,"Psychologismus","psychologismus"],
@@ -558,7 +609,7 @@ HWPH.put("r/70-73",
   "psychology, applied"
  ],
  [
-  "psychology, cognitive","Erkenntnis II (psych.)","",null,null,"ref",796,"Erkennen, Erkenntnis",
+  "psychology, cognitive","Erkenntnis","II (psych.)",null,null,"ref",796,"Erkennen, Erkenntnis",
   "psychology, cognitive"
  ],
  [
@@ -598,7 +649,7 @@ HWPH.put("r/70-73",
   "psychopathologie"
  ],
  ["Psychopathologie","Pathologie","III",null,null,"see",2292,"Pathologie","psychopathologie"],
- ["Psychopathologie","Prozess III (psych.)","",null,null,"see",2499,"Prozeß","psychopathologie"],
+ ["Psychopathologie","Prozess","III (psych.)",null,null,"see",2499,"Prozeß","psychopathologie"],
  ["Psychopathologie","Psychiatrie","",null,null,"see",2505,"Psychiatrie","psychopathologie"],
  ["Psychopathologie","Psychopathie","",null,null,"see",2525,"Psychopathie","psychopathologie"],
  ["Psychopathologie","Psychose","",null,null,"see",2528,"Psychose","psychopathologie"],
@@ -693,24 +744,14 @@ HWPH.put("r/70-73",
  ["Psychotherapie","Hypnose","",null,null,"see",1325,"Hypnose","psychotherapie"],
  ["Psychotherapie","Leidensdruck","",null,null,"see",1772,"Leidensdruck","psychotherapie"],
  ["Psychotherapie","Logotherapie","",null,null,"see",1826,"Logotherapie","psychotherapie"],
- ["Psychotherapie","Methode","",null,null,"see",1955,"Methode","psychotherapie"],
- ["Psychologie","Psychologie","","7","1623","main",2511,"Psychologie","psychologie"],
- ["Psychologie","Psychomotorik","I","7","1681","ref",2524,"Psychomotorik","psychologie"],
- ["Psychologie","Reflex","","8","392f.","ref",2633,"Reflex, Reflexbewegung","psychologie"],
- ["Psychologie","Psychologie","","7","1644f.","main",2511,"Psychologie","psychologie"],
- ["Psychosynthese","Psychosynthese","","7","1702","main",2530,"Psychosynthese","psychosynthese"],
- ["Psychose","Psychose","II","7","1695","main",2528,"Psychose","psychose"],
+ ["Psychotherapie","Methode, kathartische","",null,null,"see",1955,"Methode","psychotherapie"],
+ ["Psychotherapie","Psychodrama","",null,null,"see",2507,"Psychodrama","psychotherapie"],
+ ["Psychotherapie","Psychosynthese","",null,null,"see",2530,"Psychosynthese","psychotherapie"],
+ ["Psychotherapie","Therapie","",null,null,"see",3184,"Therapie; Therapeutik","psychotherapie"],
+ ["Psychovitalismus","Seele","V","9","76f.","ref",2794,"Seele","psychovitalismus"],
  ["Psychosomatik","Psychosomatik","",null,null,"main",2529,"Psychosomatik","psychosomatik"],
- ["Psychose","Psychose","II","7","1695","main",2528,"Psychose","psychose"],
+ ["Psychosomatik","Zeichen","",null,null,"see",3673,"Zeichen","psychosomatik"],
  ["Psychologie","Psychologie","","7","1610f.","main",2511,"Psychologie","psychologie"],
- ["Psychologie","Schlaf","","8","1296","ref",2767,"Schlaf","psychologie"],
- [
-  "Psychologie, rationale","Psychologie, rationale","","7","1666","main",2519,
-  "Psychologie, rationale","psychologie, rationale"
- ],
- ["Psychologie, rationale","Seele","V","9","59","ref",2794,"Seele","psychologie, rationale"],
- ["Psychoanalyse","Psychoanalyse","II","7","1578","main",2506,"Psychoanalyse","psychoanalyse"],
- ["Psychose","Psychose","II","7","1695","main",2528,"Psychose","psychose"],
- ["Psychologie","Psychologie","","7","1641","main",2511,"Psychologie","psychologie"]
+ ["Psychologie","Schlaf","","8","1296","ref",2767,"Schlaf","psychologie"]
 ]
 );

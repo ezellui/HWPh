@@ -98,7 +98,7 @@ HWPH.put("a/2648",
   {"id":3396,"lemma":"Verfahren","tf":2},
   {"id":1773,"lemma":"Leistung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3395,"lemma":"Vererbung"},{"id":1791,"lemma":"Libido"}],
  "groups":[
   {"id":5,"name":"Biologie","label":"Regression I (biol.)"},
   {"id":35,"name":"Psychoanalyse","label":"Regression II (psych.)"}

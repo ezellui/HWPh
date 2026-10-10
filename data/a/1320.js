@@ -32,7 +32,10 @@ HWPH.put("a/1320",
   {"id":1892,"lemma":"Materie","tf":4},
   {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":3}
  ],
- "see_also":[{"id":684,"lemma":"Einheit und Vielheit der Wesensform"}],
+ "see_also":[
+  {"id":684,"lemma":"Einheit und Vielheit der Wesensform"},
+  {"id":939,"lemma":"Form und Materie (Stoff)"}
+ ],
  "groups":[
   {"id":26,"name":"Metaphysik","label":"Hylemorphismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Hylemorphismus"}

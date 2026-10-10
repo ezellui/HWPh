@@ -27,6 +27,7 @@ HWPH.put("a/1173",
  "register":[
   {"term":"deitas","qualifier":"","band":null,"col":null},
   {"term":"divinitas","qualifier":"","band":null,"col":null},
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"humanitas","qualifier":"I","band":"3","col":"837"},
   {"term":"θειότης","qualifier":"","band":null,"col":null},
   {"term":"θεότης","qualifier":"","band":null,"col":null}

@@ -22,6 +22,8 @@ HWPH.put("a/3295",
  ],
  "outlinks":[],
  "register":[
+  {"term":"civil disobedience","qualifier":"","band":null,"col":null},
+  {"term":"disobedience","qualifier":"","band":null,"col":null},
   {"term":"Protest","qualifier":"","band":null,"col":null},
   {"term":"satyagraha","qualifier":"","band":"11","col":"162"},
   {"term":"ziviler Ungehorsam","qualifier":"","band":null,"col":null}

@@ -19,6 +19,7 @@ HWPH.put("a/2799",
  "outlinks":[{"id":973,"lemma":"Fünklein, Seelenfünklein","n":1},{"id":2796,"lemma":"Seelengrund","n":1}],
  "register":[
   {"term":"acies mentis","qualifier":"","band":null,"col":null},
+  {"term":"apex mentis","qualifier":"","band":null,"col":null},
   {"term":"Bewusstsein, sittliches","qualifier":"","band":"9","col":"110"},
   {"term":"Blüte des Geistes","qualifier":"","band":"9","col":"110"},
   {"term":"essentia animae","qualifier":"","band":"9","col":"110"},

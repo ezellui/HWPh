@@ -1,11 +1,5 @@
 HWPH.put("r/68-65",
 [
- ["Herrlichkeit","Herrlichkeit","II","3","1080","main",1260,"Herrlichkeit","herrlichkeit"],
- ["Herrlichkeit","Kunst; Kunstwerk","V 4","4","1427","ref",1712,"Kunst, Kunstwerk","herrlichkeit"],
- [
-  "Heuristik Erfolg/Misserfolg","Heuristik Erfolg/Misserfolg","",null,null,"main",null,null,
-  "heuristik erfolg/misserfolg"
- ],
  ["Heautognosie","Selbsterkenntnis","III","9","431","ref",2833,"Selbsterkenntnis","heautognosie"],
  ["Heautonomie","Heautonomie","(Kant)","3","1022","main",1232,"Heautonomie","heautonomie"],
  ["Heautonomie (Kant)","Autonomie","","1","708ff.","ref",327,"Autonomie","heautonomie (kant)"],
@@ -78,7 +72,14 @@ HWPH.put("r/68-65",
   "Heilig; Heiligkeit","Heilig; Heiligkeit","","3","1034–1037","main",1239,"Heilig, Heiligkeit",
   "heilig; heiligkeit"
  ],
- ["Heilig; Heiligkeit","Profan heilig/profan","",null,null,"see",null,null,"heilig; heiligkeit"],
+ [
+  "Heilig; Heiligkeit","Profan","",null,null,"see",2471,"Profan, das Profane, Profanität",
+  "heilig; heiligkeit"
+ ],
+ [
+  "heilig/profan","Religionssoziologie","","8","769","ref",2681,"Religionssoziologie",
+  "heilig/profan"
+ ],
  ["Heilige","Pharisäer; Pharisäismus","III","7","540","ref",2349,"Pharisäer, Pharisäismus","heilige"],
  ["Heilige","Philosophie","II E","7","645","ref",2353,"Philosophie","heilige"],
  ["Heilige, das","Numinose, das","(Otto)",null,null,"ref",2175,"Numinose, das","heilige, das"],
@@ -102,11 +103,20 @@ HWPH.put("r/68-65",
   "heilkunde, psychische"
  ],
  ["Heilkunst","Medizin","",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie","heilkunst"],
- ["Heilkunst","Therapie Heilmittel der Unsterblichkeit","",null,null,"ref",null,null,"heilkunst"],
+ ["Heilkunst","Therapie","",null,null,"ref",3184,"Therapie; Therapeutik","heilkunst"],
  [
-  "Heilsgeschichte","Heil; Heilsgeschichte; Heilstatsache Heilsgewissheit","",null,null,"ref",1237,
+  "Heilmittel der Unsterblichkeit","Unsterblichkeit","II","11","279","ref",3323,"Unsterblichkeit",
+  "heilmittel der unsterblichkeit"
+ ],
+ [
+  "Heilsgeschichte","Heil; Heilsgeschichte; Heilstatsache","",null,null,"ref",1237,
   "Heil, Heilsgeschichte, Heilstatsache","heilsgeschichte"
  ],
+ [
+  "Heilsgewissheit","Glaubensgewissheit","",null,null,"ref",1142,"Glaubensgewißheit",
+  "heilsgewissheit"
+ ],
+ ["Heilshandeln","Vorsehung","","11","1216","ref",3500,"Vorsehung","heilshandeln"],
  ["Heilsordnung","Ökonomie","II (theol.)",null,null,"ref",2210,"Ökonomie","heilsordnung"],
  ["Heilsordnung","Erweckung","","2","733","ref",820,"Erweckung","heilsordnung"],
  ["Heilsplan","Ökonomie","II (theol.)",null,null,"ref",2210,"Ökonomie","heilsplan"],
@@ -209,7 +219,7 @@ HWPH.put("r/68-65",
   "hemmung durch reflexion"
  ],
  [
-  "Hempel-Oppenheim-Schema","Erklären II (wiss.)","",null,null,"ref",801,"Erklären, Erklärung",
+  "Hempel-Oppenheim-Schema","Erklären","II (wiss.)",null,null,"ref",801,"Erklären, Erklärung",
   "hempel-oppenheim-schema"
  ],
  [
@@ -244,7 +254,7 @@ HWPH.put("r/68-65",
  ["Herdenmenschen","Massenpsychologie","","5","836","ref",1880,"Massenpsychologie","herdenmenschen"],
  ["heredity","Vererbung","",null,null,"ref",3395,"Vererbung","heredity"],
  [
-  "herile imperium","Despotie I (allg.)","","2","133","ref",571,"Despotie, Despotismus",
+  "herile imperium","Despotie","I (allg.)","2","133","ref",571,"Despotie, Despotismus",
   "herile imperium"
  ],
  [
@@ -260,10 +270,7 @@ HWPH.put("r/68-65",
   "hermeneutica iuris","Logik, juristische","","5","432","ref",1812,"Logik, juristische",
   "hermeneutica iuris"
  ],
- [
-  "Hermeneutik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "hermeneutik s. auch"
- ],
+ ["Hermeneutik","Register der Sachgruppen","",null,null,"see",null,null,"hermeneutik"],
  ["Hermeneutik","Hermeneutik","","3","1061–1073","main",1255,"Hermeneutik","hermeneutik"],
  ["Hermeneutik","Auslegung","",null,null,"see",305,"Auslegung","hermeneutik"],
  ["Hermeneutik","Interpretation","",null,null,"see",1478,"Interpretation","hermeneutik"],
@@ -335,16 +342,20 @@ HWPH.put("r/68-65",
   "hermesianismus"
  ],
  [
-  "hermetisch","Hermetismus; hermetisch hermetisches Kunstwerk","",null,null,"ref",1258,
-  "Hermetismus, hermetisch","hermetisch"
+  "hermetisch","Hermetismus; hermetisch","",null,null,"ref",1258,"Hermetismus, hermetisch",
+  "hermetisch"
+ ],
+ [
+  "hermetisches Kunstwerk","Unverständlichkeit","","11","338","ref",3333,"Unverständlichkeit",
+  "hermetisches kunstwerk"
  ],
  [
   "Hermetismus; hermetisch","Hermetismus; hermetisch","","3","1075–1078","main",1258,
   "Hermetismus, hermetisch","hermetismus; hermetisch"
  ],
- ["heroisch","Held; Heros I","",null,null,"ref",1243,"Held, Heros","heroisch"],
+ ["heroisch","Held; Heros","I",null,null,"ref",1243,"Held, Heros","heroisch"],
  ["heroisch","Freiheit","I","2","1065","ref",946,"Freiheit","heroisch"],
- ["Heilbringer","Heilbringer","","3","1034","main",1238,"Heilbringer","heilbringer"],
+ ["héros civilisateur","Heilbringer","","3","1034","ref",1238,"Heilbringer","heros civilisateur"],
  [
   "Herr/Knecht","Herrschaft und Knechtschaft","",null,null,"ref",1262,"Herrschaft und Knechtschaft",
   "herr/knecht"
@@ -362,6 +373,16 @@ HWPH.put("r/68-65",
  ["Herrlichkeit Gottes","Doxa","","2","288","ref",633,"Doxa","herrlichkeit gottes"],
  ["Herrlichkeit Gottes","Leben","IV","5","69","ref",1735,"Leben","herrlichkeit gottes"],
  ["Herrschaft","Herrschaft","","3","1084–1088","main",1261,"Herrschaft","herrschaft"],
+ ["Herrschaft","Autorität","II (pol.)",null,null,"see",333,"Autorität","herrschaft"],
+ ["Herrschaft","Herrschaftsformen","",null,null,"see",1263,"Herrschaftsform(en)","herrschaft"],
+ ["Herrschaft","Macht","",null,null,"see",1844,"Macht","herrschaft"],
+ ["Herrschaft","Soziokratie","(Comte)",null,null,"see",2958,"Soziokratie","herrschaft"],
+ ["Herrschaft","Despotie","II (Weber)",null,null,"see",571,"Despotie, Despotismus","herrschaft"],
+ ["Herrschaft","Geschichte","VI","3","391f.","ref",1085,"Geschichte, Historie","herrschaft"],
+ ["Herrschaft","Hierarchie","","3","1124","ref",1270,"Hierarchie","herrschaft"],
+ ["Herrschaft","Politik","III","7","1068","ref",2396,"Politik","herrschaft"],
+ ["Herrschaft","Republik","","8","860","ref",2688,"Republik","herrschaft"],
+ ["Herrschaft","Staat","II","10","45","ref",2998,"Staat","herrschaft"],
  [
   "Herrschaft, charismatische","Charisma","II","1","997","ref",489,"Charisma",
   "herrschaft, charismatische"
@@ -398,7 +419,7 @@ HWPH.put("r/68-65",
   "Herrschaft und Knechtschaft","herrschaft und knechtschaft"
  ],
  [
-  "Herrschaft und Knechtschaft","Despotie I (allg.)","",null,null,"see",571,"Despotie, Despotismus",
+  "Herrschaft und Knechtschaft","Despotie","I (allg.)",null,null,"see",571,"Despotie, Despotismus",
   "herrschaft und knechtschaft"
  ],
  ["Herrschaft und Knechtschaft","Haus","I",null,null,"see",1229,"Haus","herrschaft und knechtschaft"],
@@ -421,6 +442,14 @@ HWPH.put("r/68-65",
  [
   "Herrschaftsformen","Verfassungsformen Herrschaftslegitimation","",null,null,"see",null,null,
   "herrschaftsformen"
+ ],
+ [
+  "Herrschaftslosigkeit","Anarchie","",null,null,"ref",134,"Anarchie, Anarchismus",
+  "herrschaftslosigkeit"
+ ],
+ [
+  "Herrschaftsmensch","Mensch, dritter","","5","1105","ref",1918,"Mensch, dritter",
+  "herrschaftsmensch"
  ],
  ["Herrschaftstechnik","Manipulation","","5","728","ref",1863,"Manipulation","herrschaftstechnik"],
  [
@@ -450,15 +479,16 @@ HWPH.put("r/68-65",
  ],
  ["Hervorbringen","Poiesis","",null,null,"ref",2390,"Poiesis","hervorbringen"],
  [
-  "Hervorbringen","Produktion I (nat.) hervorbringende/hervorgebrachte Natur","",null,null,"ref",
-  null,null,"hervorbringen"
+  "Hervorbringen","Produktion","I (nat.)",null,null,"ref",2469,"Produktion, Produktivität",
+  "hervorbringen"
+ ],
+ [
+  "hervorbringende/hervorgebrachte Natur","Natura naturans/naturata","",null,null,"ref",2079,
+  "Natura naturans/naturata","hervorbringende/hervorgebrachte natur"
  ],
  ["Hervorgang","Ausfluss","",null,null,"ref",304,"Ausfluß","hervorgang"],
  ["Hervorgang","Emanation","",null,null,"ref",714,"Emanation","hervorgang"],
- [
-  "Hervorgang","Produktion I (nat.)","",null,null,"ref",2469,"Produktion, Produktivität",
-  "hervorgang"
- ],
+ ["Hervorgang","Produktion","I (nat.)",null,null,"ref",2469,"Produktion, Produktivität","hervorgang"],
  ["Hervorgang","Trias; Triaden","",null,null,"ref",3228,"Trias; Triaden","hervorgang"],
  ["Hervorgang","Leben","III","5","60","ref",1735,"Leben","hervorgang"],
  ["Hervorgang","Methode","II","5","1306","ref",1955,"Methode","hervorgang"],
@@ -492,6 +522,9 @@ HWPH.put("r/68-65",
   "Hesychasmus","Quietismus; Hesychasmus","","7","1836f.","ref",2557,"Quietismus, Hesychasmus",
   "hesychasmus"
  ],
+ ["Heterodoxie","Libertin","",null,null,"ref",1788,"Libertin","heterodoxie"],
+ ["Heterodoxie","Orthodoxie","II","6","1382","ref",2252,"Orthodoxie, orthodox","heterodoxie"],
+ ["Heterodoxie","Urchristentum","","11","357","ref",3340,"Urchristentum","heterodoxie"],
  ["Heterogonie","Generationswechsel","","3","277","ref",1067,"Generationswechsel","heterogonie"],
  ["Heterogonie","Teleologie","","10","975","ref",3145,"Teleologie; teleologisch","heterogonie"],
  ["Heterogonie","Heterogonie","(Wundt)","3","1112f.","main",1266,"Heterogonie","heterogonie"],
@@ -524,9 +557,10 @@ HWPH.put("r/68-65",
  ["heuretisch","Heuristik","",null,null,"ref",1268,"Heuristik, heuristisch","heuretisch"],
  ["Heuristik","Heuristik","","3","1115–1120","main",1267,"Heuchelei","heuristik"],
  [
-  "Heuristik","Invention; Erfindung Heuristik","",null,null,"see",1490,
-  "Invention, Erfindung, Entdeckung","heuristik"
+  "Heuristik","Invention; Erfindung","",null,null,"see",1490,"Invention, Erfindung, Entdeckung",
+  "heuristik"
  ],
+ ["Heuristik","Urteil, vorläufiges","",null,null,"ref",3358,"Urteil, vorläufiges","heuristik"],
  [
   "heuristische Methode","Umstrukturierung","","11","98","ref",3277,
   "Umstrukturierung; Umzentrierung","heuristische methode"
@@ -546,24 +580,9 @@ HWPH.put("r/68-65",
  ["Herz","Mensch, neuer","","5","1112","ref",1921,"Mensch, neuer","herz"],
  ["Herz","Selbst","I","9","292","ref",2820,"Selbst","herz"],
  [
-  "Hermetismus; hermetisch","Hermetismus; hermetisch","","3","1077","main",1258,
-  "Hermetismus, hermetisch","hermetismus; hermetisch"
+  "Heitere Wissenschaft, göttliche","Metaphysik","III","5","1209ff.","ref",1944,"Metaphysik",
+  "heitere wissenschaft, gottliche"
  ],
- [
-  "Heiterkeit; das Heitere","Heiterkeit; das Heitere","","3","1040","main",1242,
-  "Heiterkeit, das Heitere","heiterkeit; das heitere"
- ],
- ["Herz","Herz","","3","1110f.","main",1265,"Herz","herz"],
- ["Herz","Kult","","4","1305","ref",1700,"Kult","herz"],
- ["Herz","Landschaft","III (ästh.)","5","25","ref",1726,"Landschaft","herz"],
- ["Herz","Streit","I (allg.)","10","298","ref",3039,"Streit","herz"],
- ["Herz","Theologie","",null,null,"ref",3169,"Theologie","herz"],
- ["Heuristik","Heuristik","","3","1116","main",1268,"Heuristik, heuristisch","heuristik"],
- [
-  "Heliozentrisch Weltsystem, ptolemäisches","Heliozentrisch Weltsystem, ptolemäisches","",null,null,
-  "main",null,null,"heliozentrisch weltsystem, ptolemaisches"
- ],
- ["Hegemonikon","Hegemonikon","",null,null,"main",1236,"Hegemonikon","hegemonikon"],
  [
   "Heckhausen Heinz","Kompetenz","V (psych.)","4","922f.","author",1598,"Kompetenz",
   "heckhausen heinz"
@@ -584,8 +603,8 @@ HWPH.put("r/68-65",
  ["Hedwig Klaus","Vorschrift","","11","1202–1206","author",3499,"Vorschrift","hedwig klaus"],
  ["Heede Reinhard","Abduktion","(Peirce)","1","3f.","author",19,"Abduktion","heede reinhard"],
  [
-  "Heede Reinhard","Erstheit; Zweitheit; Drittheit (Peirce)","","2","729f.","author",816,
-  "Erste Philosophie","heede reinhard"
+  "Heede Reinhard","Erstheit; Zweitheit; Drittheit","(Peirce)","2","729f.","author",817,
+  "Erstheit, Zweitheit, Drittheit","heede reinhard"
  ],
  [
   "Heede Reinhard","Fallibilismus","(Peirce)","2","894f.","author",891,"Fallibilismus",
@@ -606,7 +625,7 @@ HWPH.put("r/68-65",
   "heftrich eckhard"
  ],
  [
-  "Heftrich Eckhard","Grösse, historische (Burckhardt)","","3","886f.","author",1188,
+  "Heftrich Eckhard","Grösse, historische","(Burckhardt)","3","886f.","author",1188,
   "Größe, historische","heftrich eckhard"
  ],
  [
@@ -630,7 +649,7 @@ HWPH.put("r/68-65",
   "hegselmann rainer"
  ],
  [
-  "Heidelberger Michael","Probabilismus I (wiss.)","","7","1388–1390","author",2462,
+  "Heidelberger Michael","Probabilismus","I (wiss.)","7","1388–1390","author",2462,
   "Privatsprachenargument","heidelberger michael"
  ],
  [
@@ -675,10 +694,7 @@ HWPH.put("r/68-65",
   "Heintel Erich","Eine, das; Einheit","III","2","377–384","author",675,"Eine (das), Einheit",
   "heintel erich"
  ],
- [
-  "Heintel Erich","Gegenstand","I (erk.)","3","129–133","author",1019,"Gegenseitigkeit",
-  "heintel erich"
- ],
+ ["Heintel Erich","Gegenstand","I (erk.)","3","129–133","author",1020,"Gegenstand","heintel erich"],
  [
   "Heintel Erich","Glauben und Wissen","I","3","646–648","author",1140,"Glauben und Wissen",
   "heintel erich"
@@ -718,7 +734,7 @@ HWPH.put("r/68-65",
   "Phänomenologie, genetische","held klaus"
  ],
  ["Held Klaus","Präsentation","II (Husserl)","7","1257","author",2442,"Präsentation","held klaus"],
- ["Held Klaus","Protention","(Husserl)","7","1528f.","author",2487,"Protasis","held klaus"],
+ ["Held Klaus","Protention","(Husserl)","7","1528f.","author",2488,"Protention","held klaus"],
  [
   "Held Klaus","Psychologie, phänomenologische","","7","1664","author",2518,
   "Psychologie, phänomenologische","held klaus"
@@ -800,7 +816,7 @@ HWPH.put("r/68-65",
   "Prädikatenlogik, Prädikatenkalkül","hermann armin"
  ],
  [
-  "Hermann Armin","Semiotik III (math.)","","9","608f.","author",2865,"Semiotik, Semiologie",
+  "Hermann Armin","Semiotik","III (math.)","9","608f.","author",2865,"Semiotik, Semiologie",
   "hermann armin"
  ],
  ["Herold Norbert","Gesetz","III (wiss.)","3","501–514","author",1105,"Gesetz","herold norbert"],
@@ -835,7 +851,7 @@ HWPH.put("r/68-65",
  ],
  ["Herrmann Theo","Ganzqualitäten","","3","23f.","author",990,"Ganzqualitäten","herrmann theo"],
  [
-  "Herrmann Theo","Schema; Schematismus II (psych.)","","8","1261–1263","author",2760,
+  "Herrmann Theo","Schema; Schematismus","II (psych.)","8","1261–1263","author",2760,
   "Schema, Schematismus","herrmann theo"
  ],
  ["Herzog Gunter","Schizophrenie","","8","1289–1295","author",2765,"Schizophrenie","herzog gunter"],
@@ -844,7 +860,10 @@ HWPH.put("r/68-65",
   "Herzog Roman","Gesellschaftsordnung","","3","476","author",1103,"Gesellschaftsordnung",
   "herzog roman"
  ],
- ["Herzog Roman","Ordnung, berufsständische","","6","1309f.","author",2233,"Ordnung","herzog roman"],
+ [
+  "Herzog Roman","Ordnung, berufsständische","","6","1309f.","author",2234,
+  "Ordnung, berufsständische","herzog roman"
+ ],
  [
   "Herzog Roman","Subsidiaritätsprinzip","","10","482–486","author",3059,"Subsidiaritätsprinzip",
   "herzog roman"
@@ -872,7 +891,7 @@ HWPH.put("r/68-65",
   "Indiscernibilien","heyde johannes erich"
  ],
  [
-  "Heydebrand Renate von","Innerlichkeit","","4","386–388","author",1445,"Innenwelt",
+  "Heydebrand Renate von","Innerlichkeit","","4","386–388","author",1446,"Innerlichkeit",
   "heydebrand renate von"
  ],
  [

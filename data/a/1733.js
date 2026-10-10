@@ -18,11 +18,12 @@ HWPH.put("a/1733",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Anfang","qualifier":"","band":"5","col":"49"},
   {"term":"Einfachheit","qualifier":"","band":null,"col":null},
   {"term":"Einheit","qualifier":"","band":null,"col":null},
-  {"term":"I-II","qualifier":"","band":"5","col":"49"},
   {"term":"sinceritas","qualifier":"","band":"5","col":"47"},
-  {"term":"Unschuld","qualifier":"","band":null,"col":null}
+  {"term":"Unschuld","qualifier":"","band":null,"col":null},
+  {"term":"ἐιλικρίνεια","qualifier":"","band":"5","col":"47"}
  ],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":1,"n":2,"l":0,"editor":0,"role":"source"},

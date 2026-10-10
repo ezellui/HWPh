@@ -91,7 +91,11 @@ HWPH.put("a/1437",
   {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2},
   {"id":863,"lemma":"Existenz, existentia","tf":2}
  ],
- "see_also":[{"id":1449,"lemma":"Insein"},{"id":3050,"lemma":"Subjekt/Prädikat"}],
+ "see_also":[
+  {"id":1449,"lemma":"Insein"},
+  {"id":3050,"lemma":"Subjekt/Prädikat"},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Inhärenz"}],
  "reg_authors":[{"name":"Kobusch Theo","n":18}]
 }

@@ -46,6 +46,6 @@ HWPH.put("a/3514",
  ],
  "see_also":[],
  "groups":[{"id":29,"name":"Ökonomie","label":"Wachstumstheorie"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

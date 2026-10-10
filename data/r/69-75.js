@@ -4,7 +4,11 @@ HWPH.put("r/69-75",
  ["iucundum","Gut, höchstes","","3","973","ref",1204,"Gut, höchstes","iucundum"],
  ["iudicium","Kritik","",null,null,"ref",1694,"Kritik","iudicium"],
  ["iudicium","Urteil","I (rhet.)",null,null,"ref",3355,"Urteil","iudicium"],
- ["iudicium","Urteilskraft iudicium categoricum","",null,null,"ref",null,null,"iudicium"],
+ ["iudicium","Urteilskraft","",null,null,"ref",3359,"Urteilskraft; Urteilsvermögen","iudicium"],
+ [
+  "iudicium categoricum","Relation des Urteils","","8","611","ref",2669,"Relation des Urteils",
+  "iudicium categoricum"
+ ],
  [
   "iudicium determinans","Urteil, vorläufiges","","11","474","ref",3358,"Urteil, vorläufiges",
   "iudicium determinans"

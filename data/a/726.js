@@ -26,7 +26,10 @@ HWPH.put("a/726",
   {"id":814,"name":"W. Goerdt","b":0,"n":1,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":1886,"lemma":"Materialismus","tf":2}],
- "see_also":[{"id":1349,"lemma":"Idealismus, menschewisierender"}],
+ "see_also":[
+  {"id":1349,"lemma":"Idealismus, menschewisierender"},
+  {"id":3606,"lemma":"Widerspiegelung; Widerspiegelungstheorie"}
+ ],
  "groups":[
   {"id":23,"name":"Marxismus","label":"Empiriomonismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Empiriomonismus"}

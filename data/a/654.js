@@ -23,6 +23,7 @@ HWPH.put("a/654",
   {"term":"bona fama","qualifier":"","band":null,"col":null},
   {"term":"gloria","qualifier":"","band":"2","col":"320"},
   {"term":"honor","qualifier":"","band":null,"col":null},
+  {"term":"laus","qualifier":"","band":"2","col":"320"},
   {"term":"Ruf, guter","qualifier":"","band":null,"col":null},
   {"term":"τιμή","qualifier":"","band":null,"col":null}
  ],

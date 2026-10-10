@@ -23,8 +23,7 @@ HWPH.put("a/21",
  "outlinks":[],
  "register":[
   {"term":"Armut im Geiste","qualifier":"","band":null,"col":null},
-  {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (myst.) 5 157f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"s auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":66,"name":"Eckhart","b":1,"n":0,"l":1,"editor":0,"role":"source"},

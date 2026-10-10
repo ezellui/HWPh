@@ -20,7 +20,7 @@ HWPH.put("a/200",
  "register":[{"term":"Temporik","qualifier":"(Gebser)","band":"1","col":"436"}],
  "persons":[{"id":6875,"name":"J. Gebser","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}],
  "mentions":[{"id":2578,"lemma":"Raum","tf":2}],
- "see_also":[],
+ "see_also":[{"id":2326,"lemma":"Perspektive, Perspektivismus, perspektivisch"}],
  "groups":[{"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Aperspektivisch (Gebser)"}],
  "reg_authors":[{"name":"Kambartel Walter","n":16}]
 }

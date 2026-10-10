@@ -26,6 +26,7 @@ HWPH.put("a/2082",
   {"term":"ethischer Naturalismus","qualifier":"","band":null,"col":null},
   {"term":"Fehlschluss, naturalistischer","qualifier":"","band":null,"col":null},
   {"term":"gut","qualifier":"","band":null,"col":null},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"naturalistischer Fehlschluss","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -100,6 +100,6 @@ HWPH.put("a/2505",
   {"id":25,"name":"Medizin","label":"Psychiatrie"},
   {"id":34,"name":"Psychiatrie","label":"Psychiatrie"}
  ],
- "reg_authors":[{"name":"Glatzel Johann","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Glatzel Johann","n":4},{"name":"Red","n":241}]
 }
 );

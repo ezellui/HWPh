@@ -2,32 +2,25 @@ HWPH.put("r/6d-6f",
 [
  ["Moralsystem","Moralsystem","","6","196ff.","main",2030,"Moralsystem","moralsystem"],
  [
-  "Moralsystem","Probabilismus II (eth.)","","7","1390","ref",2463,"Probabilismus, probabilistisch",
+  "Moralsystem","Probabilismus","II (eth.)","7","1390","ref",2463,"Probabilismus, probabilistisch",
   "moralsystem"
  ],
  [
-  "Modelltheorie I (log.)","Wohlordnungssatz","",null,null,"ref",3652,"Wohlordnungssatz",
-  "modelltheorie i (log.)"
+  "Moderne","Antiqui/moderni (via antiqua/via moderna)","","1","407–410","ref",187,"Antiperístasis",
+  "moderne"
  ],
- ["Morphologie","Morphologie","II (nat.)","6","205f.","main",2032,"Morphologie","morphologie"],
+ ["Moderne","Albertinismus","",null,null,"see",92,"Albertinismus","moderne"],
  [
-  "Modelltheorie I (log.) 6 50 ἁλκυονίς","Halkyonisch","",null,null,"ref",1214,"Halkyonisch",
-  "modelltheorie i (log.) 6 50 αλκυονισ"
+  "Moderne","Logica vetus/nova","",null,null,"see",1802,
+  "Logica vetus / Logica nova, Logica antiqua / Logica modernorum","moderne"
  ],
- [
-  "Modelltheorie I (log.) 6 50","Prädikatenlogik","","7","1189","ref",2426,
-  "Prädikatenlogik, Prädikatenkalkül","modelltheorie i (log.) 6 50"
- ],
- [
-  "Modelltheorie I (log.) 6 50","Welt","III","12","438","ref",3557,"Welt",
-  "modelltheorie i (log.) 6 50"
- ],
+ ["Moderne","Nominalismus","",null,null,"see",2150,"Nominalismus","moderne"],
+ ["Moderne","Realismus","I (met.)",null,null,"see",2588,"Realismus","moderne"],
+ ["Moderne","Terminismus","",null,null,"see",3151,"Terminismus","moderne"],
+ ["Moderne","Thomismus","",null,null,"see",3188,"Thomismus","moderne"],
+ ["Moderne","Universalien","",null,null,"see",3302,"Universalien","moderne"],
  ["Moment","Moment","I (nat.)",null,null,"main",2009,"Moment","moment"],
  ["Modalanalyse","Modalanalyse","(Hartmann)","6","5","main",1993,"Modalanalyse","modalanalyse"],
- [
-  "Modern; die Moderne","Modern; die Moderne","","6","57","main",2001,"Modern, die Moderne",
-  "modern; die moderne"
- ],
  ["Mobilisierung der Welt","Technik","","10","948","ref",3139,"Technik","mobilisierung der welt"],
  ["Mobilität","Mobilität","","6","1–3","main",1992,"Mobilität","mobilitat"],
  ["Mobilmachung","Politisierung","","7","1077","ref",2398,"Politisierung","mobilmachung"],
@@ -52,50 +45,60 @@ HWPH.put("r/6d-6f",
   "Modalität der Empfindung","Sinne, die","","9","854","ref",2892,"Sinne, die",
   "modalitat der empfindung"
  ],
- ["Modalität","Modalität","",null,null,"main",1995,"Modalität","modalitat"],
+ [
+  "Modalität des Urteils","Modalität des Urteils","","6","12–16","main",1996,
+  "Modalität (des Urteils)","modalitat des urteils"
+ ],
+ ["Modalität des Urteils","Modallogik","",null,null,"see",1997,"Modallogik","modalitat des urteils"],
+ [
+  "Modalität des Urteils","Urteil","III (Formen)",null,null,"see",3355,"Urteil",
+  "modalitat des urteils"
+ ],
  ["Modallogik","Modallogik","","6","16–41","main",1997,"Modallogik","modallogik"],
  ["Modallogik","Kontingenz","III (log.)",null,null,"see",1637,"Kontingenz","modallogik"],
  ["Modallogik","Modalität","",null,null,"see",1995,"Modalität","modallogik"],
  ["Modallogik","Aussagenlogik","","1","677","ref",311,"Aussagenlogik","modallogik"],
- ["Modallogik","Modell","",null,null,"ref",1999,"Modell","modallogik"],
  [
-  "Modelltheorie II (ling.) 6 53 Modallogik, ethische","Ethik","VIII","2","807","ref",835,"Ethik",
-  "modelltheorie ii (ling.) 6 53 modallogik, ethische"
+  "Modallogik","Modell; Modelltheorie","II (ling.)","6","53","ref",2000,"Modell, Modelltheorie",
+  "modallogik"
  ],
+ ["Modallogik, ethische","Ethik","VIII","2","807","ref",835,"Ethik","modallogik, ethische"],
  [
   "Modalpersönlichkeit","Charakter","II (psych.)","1","992","ref",486,"Charakter",
   "modalpersonlichkeit"
  ],
  ["Modalzeit","Zeit","V","12","1232","ref",3676,"Zeit","modalzeit"],
  ["Mode","Mode","","6","41–45","main",1998,"Mode","mode"],
- ["Mode","Unzeitgemäss (Nietzsche)","",null,null,"ref",3336,"Unzeitgemäß","mode"],
+ ["Mode","Unzeitgemäss","(Nietzsche)",null,null,"ref",3336,"Unzeitgemäß","mode"],
  ["Mode","Kitsch","","4","844","ref",1570,"Kitsch","mode"],
- ["Mode","Neue, das II (kult.)","","6","729","ref",2114,"Neu, das Neue","mode"],
+ ["Mode","Neue, das","II (kult.)","6","729","ref",2114,"Neu, das Neue","mode"],
  ["mode of being","Seinsweise","",null,null,"ref",2817,"Seinsweise","mode of being"],
  ["model","Urbild","",null,null,"ref",3339,"Urbild","model"],
  ["model","Archetypus","","1","498","ref",239,"Archetypus","model"],
  ["Modell","Modell","","6","45–50","main",1999,"Modell","modell"],
- ["Modell","Modell","",null,null,"main",1999,"Modell","modell"],
  [
-  "Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","Kategorientheorie","",null,null,"ref",1543,
-  "Kategorientheorie","modelltheorie 6 50–54 – i (log.) 6 50–52 s. auch"
+  "Modell; Modelltheorie","Modell; Modelltheorie","","6","50–54","main",1999,"Modell",
+  "modell; modelltheorie"
  ],
  [
-  "Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","Kategorisch; monomorph","",null,null,"ref",
-  1544,"Kategorisch/hypothetisch","modelltheorie 6 50–54 – i (log.) 6 50–52 s. auch"
+  "Modell; Modelltheorie","Kategorientheorie","",null,null,"see",1543,"Kategorientheorie",
+  "modell; modelltheorie"
  ],
  [
-  "Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","Methode, axiomatische","",null,null,"ref",1957,
-  "Methode, axiomatische","modelltheorie 6 50–54 – i (log.) 6 50–52 s. auch"
+  "Modell; Modelltheorie","Kategorisch; monomorph","",null,null,"see",1544,
+  "Kategorisch/hypothetisch","modell; modelltheorie"
  ],
  [
-  "Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","Standard-Modell/Nicht-Standard-Modell","",null,
-  null,"ref",3010,"Standard-Modell/Nicht-Standard-Modell",
-  "modelltheorie 6 50–54 – i (log.) 6 50–52 s. auch"
+  "Modell; Modelltheorie","Methode, axiomatische","",null,null,"see",1957,"Methode, axiomatische",
+  "modell; modelltheorie"
  ],
  [
-  "Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","Vollformalismus","",null,null,"ref",3481,
-  "Vollformalismus","modelltheorie 6 50–54 – i (log.) 6 50–52 s. auch"
+  "Modell; Modelltheorie","Standard-Modell/Nicht-Standard-Modell","",null,null,"see",3010,
+  "Standard-Modell/Nicht-Standard-Modell","modell; modelltheorie"
+ ],
+ [
+  "Modell; Modelltheorie","Vollformalismus","",null,null,"see",3481,"Vollformalismus",
+  "modell; modelltheorie"
  ],
  ["Modell (log.)","Modallogik","II","6","27","ref",1997,"Modallogik","modell (log.)"],
  [
@@ -103,10 +106,10 @@ HWPH.put("r/6d-6f",
   "modell (log.)"
  ],
  [
-  "Modelle, mentale","Schema; Schematismus II (psych )","","8","1262","ref",2760,
+  "Modelle, mentale","Schema; Schematismus","II (psych )","8","1262","ref",2760,
   "Schema, Schematismus","modelle, mentale"
  ],
- ["Modelltheorie","Modell","",null,null,"ref",1999,"Modell","modelltheorie"],
+ ["Modelltheorie","Modell; Modelltheorie","",null,null,"ref",1999,"Modell","modelltheorie"],
  ["Modelltheorie","Logik","V","5","382","ref",1803,"Logik","modelltheorie"],
  ["Modelltheorie","Theorie","II","10","1150","ref",3179,"Theorie","modelltheorie"],
  ["moderatio","Bescheidenheit","",null,null,"ref",394,"Bescheidenheit","moderatio"],
@@ -130,7 +133,8 @@ HWPH.put("r/6d-6f",
   "Antiqui/moderni (Querelle des Anciens et des Modernes)","modernitas"
  ],
  ["modestia","Bescheidenheit","",null,null,"ref",394,"Bescheidenheit","modestia"],
- ["modestia","Mass Modethemata","",null,null,"ref",null,null,"modestia"],
+ ["modestia","Mass","",null,null,"ref",1877,"Maß","modestia"],
+ ["Modethemata","Begriffsgeschichte","","1","800","ref",368,"Begriffsgeschichte","modethemata"],
  [
   "Modifikation","Angeboren/erworben","","1","302","ref",141,"Angeboren/erworben, erlernt",
   "modifikation"
@@ -147,7 +151,8 @@ HWPH.put("r/6d-6f",
  ["Modus","Modus","","6","66–68","main",2003,"Modus","modus"],
  ["modus","Mass","",null,null,"ref",1877,"Maß","modus"],
  ["modus","Gott","VIII","3","779","ref",1162,"Gott","modus"],
- ["modus","Modalität","",null,null,"ref",1995,"Modalität","modus"],
+ ["modus","Modalität des Urteils","","6","12","ref",1996,"Modalität (des Urteils)","modus"],
+ ["modus","Zeit","V","12","1228","ref",3676,"Zeit","modus"],
  ["Modus, intrinsischer","Realitas","","8","179","ref",2589,"Realitas","modus, intrinsischer"],
  ["modus belli/poenae","Strafe","II","10","222","ref",3035,"Strafe","modus belli/poenae"],
  [
@@ -161,8 +166,12 @@ HWPH.put("r/6d-6f",
  ["modus existendi","Seinsweise","",null,null,"ref",2817,"Seinsweise","modus existendi"],
  ["modus existendi","Inhärenz","","4","364","ref",1437,"Inhärenz","modus existendi"],
  [
-  "modus generalis/specialis","Modalität","",null,null,"ref",1995,"Modalität",
-  "modus generalis/specialis"
+  "modus generalis/specialis","Modalität des Urteils","","6","13","ref",1996,
+  "Modalität (des Urteils)","modus generalis/specialis"
+ ],
+ [
+  "modus intelligendi","Modus significandi","","6","69","ref",2004,"Modus significandi",
+  "modus intelligendi"
  ],
  [
   "modus loquendi metaphysicus","Substanz","II","10","519","ref",3062,"Substanz; Substanz/Akzidens",
@@ -264,6 +273,10 @@ HWPH.put("r/6d-6f",
  ["Molekül","Elementarteilchen","",null,null,"see",709,"Elementarteilchen","molekul"],
  ["Molinismus","Molinismus","","6","95f.","main",2008,"Molinismus","molinismus"],
  ["Moment","Moment","","6","96–114","main",2009,"Moment","moment"],
+ ["Moment","Gravitation","",null,null,"see",1181,"Gravitation","moment"],
+ ["Moment","Nunc stans","",null,null,"see",2176,"Nunc stans","moment"],
+ ["Moment","Punkt","",null,null,"see",2534,"Punkt, Punktualität","moment"],
+ ["Moment","Eigenzeit","(Uexküll)",null,null,"see",672,"Eigenzeit","moment"],
  ["Moment","Aufheben","(Hegel)","1","619","ref",288,"Aufheben","moment"],
  ["momenta entis","Moment","II (met.)","6","100","ref",2009,"Moment","momenta entis"],
  ["momentum gravitatis","Moment","I (nat.)",null,null,"ref",2009,"Moment","momentum gravitatis"],
@@ -320,7 +333,7 @@ HWPH.put("r/6d-6f",
   "monadologia transcendentalis","Transzendental","V","10","1377","ref",3219,"Transzendental",
   "monadologia transcendentalis"
  ],
- ["Monadologie","Monade; Monas II","",null,null,"ref",2010,"Monade, Monas","monadologie"],
+ ["Monadologie","Monade; Monas","II",null,null,"ref",2010,"Monade, Monas","monadologie"],
  [
   "Monadologie","Repräsentation","III (19./20. Jh.)","8","827","ref",2686,"Repräsentation",
   "monadologie"
@@ -333,7 +346,7 @@ HWPH.put("r/6d-6f",
  ["Monarchie","Demokratie","",null,null,"see",547,"Demokratie","monarchie"],
  ["Monarchie","Konstitutionalismus","",null,null,"see",1627,"Konstitutionalismus","monarchie"],
  [
-  "Monarchie","Patriarchat; Patriarchalismus I","",null,null,"see",2298,
+  "Monarchie","Patriarchat; Patriarchalismus","I",null,null,"see",2298,
   "Patriarchat, Patriarchalismus","monarchie"
  ],
  ["Monarchie","Tyrannis","",null,null,"see",3245,"Tyrannis","monarchie"],
@@ -379,13 +392,20 @@ HWPH.put("r/6d-6f",
   "monismus, subjektivistischer"
  ],
  [
-  "monistische Geschichtsanschauung","Materialismus","",null,null,"ref",1886,"Materialismus",
+  "monistische Geschichtsanschauung","Materialismus, historischer","3","5","862","ref",1888,
+  "Materialismus, historischer, materialistische Geschichtsauffassung",
   "monistische geschichtsanschauung"
+ ],
+ [
+  "monistischer Idealismus","Idealismus, monistischer","(Reininger)",null,null,"ref",1350,
+  "Idealismus, monistischer","monistischer idealismus"
  ],
  ["Monoideismus","Hypnose","","3","1243","ref",1325,"Hypnose","monoideismus"],
  ["Monokratie","Monarchie","",null,null,"ref",2012,"Monarchie","monokratie"],
  ["Monokratie","Herrschaftsformen","","3","1096","ref",1263,"Herrschaftsform(en)","monokratie"],
- ["Monolog","Dialog Monomanie","",null,null,"ref",null,null,"monolog"],
+ ["Monolog","Dialog","",null,null,"ref",585,"Dialog, dialogisch","monolog"],
+ ["Monomanie","Wahn","",null,null,"ref",3520,"Wahn","monomanie"],
+ ["Monomanie","Zwang","II (psych.)","12","1481","ref",3717,"Zwang","monomanie"],
  [
   "monomorph","Kategorisch; monomorph","",null,null,"ref",1544,"Kategorisch/hypothetisch",
   "monomorph"
@@ -424,10 +444,14 @@ HWPH.put("r/6d-6f",
  ["monumenta","Geschichte","II","3","348","ref",1085,"Geschichte, Historie","monumenta"],
  ["mood","Stimmung","",null,null,"ref",3027,"Stimmung","mood"],
  ["mood","Proposition","","7","1523","ref",2484,"Proposition","mood"],
- ["Moore's paradox","Widerspruch","",null,null,"ref",3607,"Widerspruch","moore's paradox"],
  [
-  "Moral s. auch","Register der Sachgruppen: Ethik und Moralphilosophie","",null,null,"ref",null,
-  null,"moral s. auch"
+  "Moore's paradox","Widerspruch, performativer","","12","700","ref",3609,"Widerspruchsfreiheit",
+  "moore's paradox"
+ ],
+ ["mora","Zeit","III A","12","1210f.","ref",3676,"Zeit","mora"],
+ [
+  "Moral","Register der Sachgruppen: Ethik und Moralphilosophie","",null,null,"see",null,null,
+  "moral"
  ],
  [
   "Moral; Moralphilosophie","Moral; Moralphilosophie","","6","149–168","main",2022,
@@ -473,8 +497,12 @@ HWPH.put("r/6d-6f",
   "moral, theologische"
  ],
  [
-  "Moral der Ambiguität","Ambiguität II (Merleau-Ponty) Moral der Eigentlichkeit","",null,null,"ref",
-  null,null,"moral der ambiguitat"
+  "Moral der Ambiguität","Ambiguität","II (Merleau-Ponty)",null,null,"ref",113,
+  "Ambiguität (Amphibolie)","moral der ambiguitat"
+ ],
+ [
+  "Moral der Eigentlichkeit","Sadismus","","8","1118","ref",2734,"Sadismus",
+  "moral der eigentlichkeit"
  ],
  ["moral faculty","Sanktion","II","8","1169","ref",2741,"Sanktion","moral faculty"],
  ["Moral für das Denken","Ethizismus","","2","811","ref",837,"Ethizismus","moral fur das denken"],
@@ -521,8 +549,12 @@ HWPH.put("r/6d-6f",
  ["moralia","Sein, moralisches","",null,null,"ref",2808,"Sein, moralisches","moralia"],
  ["Moralisation","Sozialisation","","9","1161","ref",2946,"Sozialisation","moralisation"],
  [
-  "moralische Erziehung","Werterziehung moralische Unmöglichkeit","",null,null,"ref",null,null,
-  "moralische erziehung"
+  "moralische Erziehung","Werterziehung","",null,null,"ref",3591,
+  "Werterziehung; moralische Erziehung; Moralpädagogik","moralische erziehung"
+ ],
+ [
+  "moralische Unmöglichkeit","Wahrscheinlichkeit","IV A","12","271","ref",3540,"Wahrscheinlichkeit",
+  "moralische unmoglichkeit"
  ],
  [
   "moralische Wahrheit","Wahrheit, praktische","",null,null,"ref",3532,"Wahrheit, praktische",
@@ -554,24 +586,25 @@ HWPH.put("r/6d-6f",
   "moralisches Urteil","Urteil, moralisches","",null,null,"ref",3357,"Urteil, moralisches",
   "moralisches urteil"
  ],
+ ["Moralismus","Moralist; Moralismus","",null,null,"ref",2027,"Moralist, Moralismus","moralismus"],
  [
-  "Moralismus","Moralist; Moralismus Moralismus, politischer","",null,null,"ref",2027,
-  "Moralist, Moralismus","moralismus"
+  "Moralismus, politischer","Sensus communis","IV 1","9","663","ref",2869,"Sensus communis",
+  "moralismus, politischer"
  ],
  [
   "Moralist; Moralismus","Moralist; Moralismus","","6","175–179","main",2027,"Moralist, Moralismus",
   "moralist; moralismus"
  ],
  [
-  "Moralität; Sittlichkeit (Hegel)","Moralität; Sittlichkeit (Hegel)","","6","184–192","main",2028,
-  "Moralität/Legalität","moralitat; sittlichkeit (hegel)"
+  "Moralität; Sittlichkeit","Moralität; Sittlichkeit","(Hegel)","6","184–192","main",2028,
+  "Moralität/Legalität","moralitat; sittlichkeit"
  ],
  [
-  "Moralität; Sittlichkeit (Hegel)","Sittlichkeit; Sittenlehre","",null,null,"see",2903,
-  "Sittlichkeit; Sittenlehre","moralitat; sittlichkeit (hegel)"
+  "Moralität; Sittlichkeit","Sittlichkeit; Sittenlehre","",null,null,"see",2903,
+  "Sittlichkeit; Sittenlehre","moralitat; sittlichkeit"
  ],
  [
-  "Moralität","Moral; Moralphilosophie III","",null,null,"ref",2022,
+  "Moralität","Moral; Moralphilosophie","III",null,null,"ref",2022,
   "Moral, moralisch, Moralphilosophie","moralitat"
  ],
  ["Moralität","Geist","VIII","3","194","ref",1030,"Geist","moralitat"],
@@ -602,14 +635,18 @@ HWPH.put("r/6d-6f",
   "morality of common sense","Utilitarismus","","11","505","ref",3366,"Utilitarismus",
   "morality of common sense"
  ],
- ["Moralpädagogik","Werterziehung Moralphilosophie","",null,null,"ref",null,null,"moralpadagogik"],
  [
-  "Moral; Moralphilosophie Moralstatistik","Moral; Moralphilosophie Moralstatistik","",null,null,
-  "main",2022,"Moral, moralisch, Moralphilosophie","moral; moralphilosophie moralstatistik"
+  "Moralpädagogik","Werterziehung","",null,null,"ref",3591,
+  "Werterziehung; moralische Erziehung; Moralpädagogik","moralpadagogik"
  ],
+ [
+  "Moralphilosophie","Moral; Moralphilosophie","",null,null,"ref",2022,
+  "Moral, moralisch, Moralphilosophie","moralphilosophie"
+ ],
+ ["Moralstatistik","Sozialethik","","9","1135","ref",2941,"Sozialethik","moralstatistik"],
  ["Moralsystem","Moralsystem","","6","192–199","main",2030,"Moralsystem","moralsystem"],
  [
-  "Moralsystem","Probabilismus II (eth.)","",null,null,"see",2463,"Probabilismus, probabilistisch",
+  "Moralsystem","Probabilismus","II (eth.)",null,null,"see",2463,"Probabilismus, probabilistisch",
   "moralsystem"
  ],
  ["Moraltheologie","Moraltheologie","","6","199f.","main",2031,"Moraltheologie","moraltheologie"],
@@ -626,11 +663,28 @@ HWPH.put("r/6d-6f",
   "mores","Moral; Moralphilosophie","I","6","149","ref",2022,"Moral, moralisch, Moralphilosophie",
   "mores"
  ],
+ ["Moria","Psychose","II","7","1693","ref",2528,"Psychose","moria"],
  ["Morphem","Morphologie","III (ling.)",null,null,"ref",2032,"Morphologie","morphem"],
  ["Morphismus","Isomorphie","","4","627","ref",1502,"Isomorphie","morphismus"],
  ["Morphismus","Mengenlehre","","5","1056","ref",1916,"Mengenlehre","morphismus"],
  ["Morphogenese","Formwechsel","",null,null,"ref",940,"Formwechsel","morphogenese"],
  ["Morphologie","Morphologie","","6","200–211","main",2032,"Morphologie","morphologie"],
+ [
+  "Morphologie","Kulturmorphologie","(Frobenius)",null,null,"see",1706,
+  "Kulturmorphologie, Kulturkreislehre","morphologie"
+ ],
+ [
+  "Morphologie","Bauplan; Funktionsplan","(Uexküll)",null,null,"see",346,"Bauplan, Funktionsplan",
+  "morphologie"
+ ],
+ ["Morphologie","Formwechsel","",null,null,"see",940,"Formwechsel","morphologie"],
+ [
+  "Morphologie","Typos; Typologie","II (allg )",null,null,"see",3244,"Typos; Typologie",
+  "morphologie"
+ ],
+ ["Morphologie","Urpflanze","(Goethe)",null,null,"see",3348,"Urpflanze","morphologie"],
+ ["Morphologie","Phonologie","",null,null,"see",2364,"Phonologie, Phonem","morphologie"],
+ ["Morphologie","Selbstdarstellung","","9","384","ref",2830,"Selbstdarstellung","morphologie"],
  [
   "Morphologie, experimentelle","Entwicklungsmechanik","","2","561","ref",761,
   "Entwicklungsmechanik, Entwicklungsphysiologie","morphologie, experimentelle"
@@ -684,6 +738,11 @@ HWPH.put("r/6d-6f",
  ["mother of lies","Rhetorik","","8","1017","ref",2713,"Rhetorik, Redekunst","mother of lies"],
  ["motif research","Motivforschung","",null,null,"ref",2035,"Motivforschung","motif research"],
  ["Motiv","Motiv","","6","211–218","main",2033,"Motiv","motiv"],
+ ["Motiv","Wille","III A",null,null,"see",3620,"Wille","motiv"],
+ ["Motiv","Motivforschung","",null,null,"see",2035,"Motivforschung","motiv"],
+ ["Motiv","Thema","III (lit.)",null,null,"see",3165,"Thema","motiv"],
+ ["Motiv","Motivation","I (psych.)",null,null,"see",2034,"Motivation","motiv"],
+ ["Motiv","Rationalisierung","",null,null,"see",2573,"Rationalisierung","motiv"],
  ["Motiv","Prophasis","",null,null,"ref",2481,"Prophasis","motiv"],
  ["Motiv","Notwendigkeit","III","6","977","ref",2171,"Notwendigkeit","motiv"],
  ["Motiv","Psychodynamik","","7","1592","ref",2508,"Psychodynamik","motiv"],
@@ -696,6 +755,10 @@ HWPH.put("r/6d-6f",
  ],
  ["Motivation","Drang","",null,null,"see",635,"Drang","motivation"],
  ["Motivation","Wille","III B",null,null,"see",3620,"Wille","motivation"],
+ ["Motivation","Aktivierung","",null,null,"see",80,"Aktivierung (Aktivation)","motivation"],
+ ["Motivation","Bedürfnis","II",null,null,"see",355,"Bedürfnis","motivation"],
+ ["Motivation","Motiv","IV (psych.)",null,null,"see",2033,"Motiv","motivation"],
+ ["Motivation","Trieb","II (psych.)",null,null,"see",3229,"Trieb","motivation"],
  [
   "Motivation (phän.)","Reiz und Reaktion","","8","566","ref",2662,"Reiz und Reaktion",
   "motivation (phan.)"
@@ -716,7 +779,10 @@ HWPH.put("r/6d-6f",
  ],
  ["motor animi","Wille","II","12","771","ref",3620,"Wille","motor animi"],
  ["motorisch","Psychomotorik","II","7","1682","ref",2524,"Psychomotorik","motorisch"],
- ["Motto","Emblem I (lit.) motus","",null,null,"ref",null,null,"motto"],
+ ["Motto","Emblem","I (lit.)",null,null,"ref",716,"Emblem, Emblematik","motto"],
+ ["motus","Bewegung","",null,null,"ref",408,"Bewegung","motus"],
+ ["motus","Schöne, das","II","8","1352","ref",2776,"Schöne","motus"],
+ ["motus","Zeit","III A","12","1210ff.","ref",3676,"Zeit","motus"],
  ["motus animalis","Streben","","10","276","ref",3038,"Streben","motus animalis"],
  ["motus iucundus","Angenehm","I","1","305","ref",142,"Angenehm","motus iucundus"],
  ["motus reflexus","Reflex","","8","389","ref",2633,"Reflex, Reflexbewegung","motus reflexus"],
@@ -731,29 +797,13 @@ HWPH.put("r/6d-6f",
   "mouvement social"
  ],
  ["moyen","Mittel","",null,null,"ref",1987,"Mittel","moyen"],
- ["Modallogik","Modallogik","II","6","28ff.","main",1997,"Modallogik","modallogik"],
- ["Modalismus","Modalismus","","6","8","main",1994,"Modalismus","modalismus"],
  [
-  "Modelltheorie Standardmodell des Universums","Universum","","11","223","ref",3310,"Universum",
-  "modelltheorie standardmodell des universums"
- ],
- ["Modelltheorie I (log.)","Topologie","",null,null,"ref",3205,"Topologie","modelltheorie i (log.)"],
- ["moralisches I 11 468","Wahrheit","",null,null,"ref",3523,"Wahrheit","moralisches i 11 468"],
- [
-  "Modelltheorie I (log.)","Vollständigkeit vollkommen Seiendes","",null,null,"ref",null,null,
-  "modelltheorie i (log.)"
+  "Modern; die Moderne","Modern; die Moderne","","6","61","main",2001,"Modern, die Moderne",
+  "modern; die moderne"
  ],
  [
-  "Modelltheorie II (ling.) 6 53","Proposition","","7","1522","ref",2484,"Proposition",
-  "modelltheorie ii (ling.) 6 53"
- ],
- [
-  "Modelltheorie II (ling.) 6 53","Ursache/Wirkung","V","11","405","ref",3350,"Ursache/Wirkung",
-  "modelltheorie ii (ling.) 6 53"
- ],
- [
-  "Modelltheorie II (ling.) 6 53","Wahrheit","",null,null,"ref",3523,"Wahrheit",
-  "modelltheorie ii (ling.) 6 53"
+  "Moderne postmoderne Moderne","Übergang","","11","32","ref",3253,"Übergang",
+  "moderne postmoderne moderne"
  ],
  [
   "Möhl Wolfgang","Kathedersozialismus","","4","786f.","author",1548,"Kathedersozialismus",
@@ -779,23 +829,23 @@ HWPH.put("r/6d-6f",
  ],
  ["Mojsisch Burkhard","Name","II","6","378–384","author",2066,"Name","mojsisch burkhard"],
  [
-  "Mojsisch Burkhard","Naturphilosophie","",null,null,"author",2088,"Naturphilosophie",
+  "Mojsisch Burkhard","Naturphilosophie","I-IV","6","535–548","author",2088,"Naturphilosophie",
   "mojsisch burkhard"
  ],
  ["Mojsisch Burkhard","Phänomen","II","7","464–471","author",2340,"Phänomen","mojsisch burkhard"],
  ["Mojsisch Burkhard","Relation","II","8","586–595","author",2668,"Relation","mojsisch burkhard"],
- ["Mojsisch Burkhard","Satz","",null,null,"author",2745,"Satz","mojsisch burkhard"],
+ ["Mojsisch Burkhard","Satz","I-II","8","1175–1186","author",2745,"Satz","mojsisch burkhard"],
  ["Mojsisch Burkhard","Seele","II","9","12–22","author",2794,"Seele","mojsisch burkhard"],
  [
   "Mojsisch Burkhard","Unsterblichkeit","III","11","281–285","author",3323,"Unsterblichkeit",
   "mojsisch burkhard"
  ],
  [
-  "Moltmann Jürgen","Neue, das I (theol.)","","6","725–727","author",2113,"Nestorianismus",
+  "Moltmann Jürgen","Neue, das","I (theol.)","6","725–727","author",2113,"Nestorianismus",
   "moltmann jurgen"
  ],
  ["Moltmann Jürgen","Perseveranz","","7","266–268","author",2316,"Perseveranz","moltmann jurgen"],
- ["Most Glenn W","Schöne","",null,null,"author",2776,"Schöne","most glenn w"],
+ ["Most Glenn W","Schöne, das","I","8","1343–1351","author",2776,"Schöne","most glenn w"],
  [
   "Most Otto J","Determination","(Hartmann)","2","148–150","author",573,"Determination",
   "most otto j"

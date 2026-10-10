@@ -50,16 +50,13 @@ HWPH.put("a/3393",
  ],
  "register":[
   {"term":"Befriedigung","qualifier":"","band":"11","col":"620"},
-  {"term":"das","qualifier":"","band":null,"col":null},
   {"term":"Fixierung","qualifier":"","band":"11","col":"619"},
   {"term":"Nachträglichkeit","qualifier":"","band":"11","col":"620"},
   {"term":"refoulement","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Trauma","qualifier":"","band":"11","col":"621"},
   {"term":"Urverdrängung","qualifier":"","band":"11","col":"619"},
-  {"term":"Wiederkehr des Verdrängten","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 12 1480–1486 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– VI B (psych.) 12 113–115 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wiederkehr des Verdrängten","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":2,"n":4,"l":0,"editor":0,"role":"source"},

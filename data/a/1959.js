@@ -18,7 +18,7 @@ HWPH.put("a/1959",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"1203","qualifier":"","band":"5","col":"1344"},
+  {"term":"Dialektik","qualifier":"","band":"5","col":"1344"},
   {"term":"genetische Methode","qualifier":"","band":null,"col":null},
   {"term":"Tathandlung","qualifier":"","band":"5","col":"1343"},
   {"term":"Vernunftgesetz","qualifier":"","band":"5","col":"1343"}

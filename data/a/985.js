@@ -17,7 +17,7 @@ HWPH.put("a/985",
  "next":{"id":986,"lemma":"Ganzes/Teil","band":"3","col":3},
  "backlinks":[{"id":2175,"lemma":"Numinose, das","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Andere, das","qualifier":"(Otto)","band":null,"col":null}],
  "persons":[
   {"id":383,"name":"R. Otto","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":69,"name":"K. Barth","b":1,"n":1,"l":0,"editor":0,"role":"source"},

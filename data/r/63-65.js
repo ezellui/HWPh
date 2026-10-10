@@ -16,7 +16,8 @@ HWPH.put("r/63-65",
   "cenogenesis"
  ],
  ["censura","Zensur","I (pol.)",null,null,"ref",3683,"Zensur","censura"],
- ["censura","Kritik","",null,null,"ref",1694,"Kritik","censura"],
+ ["censura","Kritik; Literaturkritik","II","4","1286","ref",1695,"Kritik, Literaturkritik","censura"],
+ ["centrosophia","Zentrum","","12","1299","ref",3687,"Zentrum","centrosophia"],
  ["centrum","Zentrum","",null,null,"ref",3687,"Zentrum","centrum"],
  ["centrum naturae","Sphäre","II","9","1378","ref",2971,"Sphäre","centrum naturae"],
  ["Cephalisation","Cephalisation","","1","977f.","main",480,"Cephalisation","cephalisation"],
@@ -49,17 +50,30 @@ HWPH.put("r/63-65",
   "certitudo adhaesionis/evidentiae"
  ],
  [
-  "certitudo ex parte subiecti","Subjekt","",null,null,"ref",3047,"Subjekt",
-  "certitudo ex parte subiecti"
+  "certitudo ex parte subiecti","Subjekt/Objekt","I","10","402","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","certitudo ex parte subiecti"
+ ],
+ [
+  "certitudo formalis","Subjekt/Objekt","I","10","403f.","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","certitudo formalis"
+ ],
+ [
+  "certitudo moralis","Unfehlbarkeit","I (erk.)","11","153","ref",3294,"Unfehlbarkeit",
+  "certitudo moralis"
+ ],
+ [
+  "certitudo moralis","Wahrscheinlichkeit","IV B","12","290","ref",3540,"Wahrscheinlichkeit",
+  "certitudo moralis"
  ],
  [
   "certitudo subiectiva","Unfehlbarkeit","I (erk.)","11","151","ref",3294,"Unfehlbarkeit",
   "certitudo subiectiva"
  ],
  [
-  "certitudo subiectiva/obiectiva","Subjekt","",null,null,"ref",3047,"Subjekt",
+  "certitudo subiectiva/obiectiva","Subjekt/Objekt","I",null,null,"ref",3047,"Subjekt",
   "certitudo subiectiva/obiectiva"
  ],
+ ["Cesare","Syllogismus; Syllogistik","",null,null,"ref",3091,"Syllogismus; Syllogistik","cesare"],
  [
   "Cesa Claudio","Transzendental","VI","10","1388–1396","author",3219,"Transzendental",
   "cesa claudio"

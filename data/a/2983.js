@@ -30,12 +30,11 @@ HWPH.put("a/2983",
  ],
  "register":[
   {"term":"Analyse der Sprache","qualifier":"","band":null,"col":null},
-  {"term":"K","qualifier":"","band":null,"col":null},
-  {"term":"K 7 788ff.","qualifier":"","band":"9","col":"1436"},
   {"term":"language analysis","qualifier":"","band":null,"col":null},
   {"term":"linguistic analysis","qualifier":"","band":null,"col":null},
   {"term":"linguistic philosophy","qualifier":"","band":null,"col":null},
-  {"term":"Missbrauch der Sprache","qualifier":"","band":"9","col":"1435"}
+  {"term":"Missbrauch der Sprache","qualifier":"","band":"9","col":"1435"},
+  {"term":"Philosoph","qualifier":"","band":"9","col":"1436"}
  ],
  "persons":[
   {"id":30,"name":"L. Wittgenstein","b":2,"n":4,"l":0,"editor":0,"role":"source"},
@@ -68,7 +67,10 @@ HWPH.put("a/2983",
  "see_also":[
   {"id":125,"lemma":"Analyse"},
   {"id":1797,"lemma":"Linguistik, Sprachwissenschaft"},
-  {"id":2353,"lemma":"Philosophie"}
+  {"id":2353,"lemma":"Philosophie"},
+  {"id":2985,"lemma":"Sprache"},
+  {"id":2991,"lemma":"Sprachkritik"},
+  {"id":2992,"lemma":"Sprachphilosophie"}
  ],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Sprachanalyse"}],
  "reg_authors":[{"name":"Gabriel Gottfried","n":51}]

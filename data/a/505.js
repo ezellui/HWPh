@@ -26,7 +26,6 @@ HWPH.put("a/505",
  "register":[
   {"term":"complexum","qualifier":"","band":"1","col":"1026"},
   {"term":"Glaubensinhalt/Glaubenssatz","qualifier":"","band":"1","col":"1026"},
-  {"term":"inneres 12 1037–1050 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Totalinhalt","qualifier":"","band":null,"col":null}
  ],
  "persons":[

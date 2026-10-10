@@ -17,7 +17,10 @@ HWPH.put("a/2325",
  "next":{"id":2326,"lemma":"Perspektive, Perspektivismus, perspektivisch","band":"7","col":364},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– V (ling.) 7 335–338 Person","qualifier":"","band":"7","col":"362f."}],
+ "register":[
+  {"term":"Bildung","qualifier":"(Hartmann)","band":"7","col":"362f."},
+  {"term":"Personwert","qualifier":"(Hartmann)","band":null,"col":null}
+ ],
  "persons":[
   {"id":35,"name":"N. Hartmann","b":4,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":21,"name":"M. Scheler","b":3,"n":4,"l":0,"editor":0,"role":"source"},

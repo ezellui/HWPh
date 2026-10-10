@@ -35,8 +35,7 @@ HWPH.put("a/3110",
   {"term":"Trennung","qualifier":"","band":null,"col":null},
   {"term":"Verbindung","qualifier":"","band":null,"col":null},
   {"term":"διάκρισις","qualifier":"","band":null,"col":null},
-  {"term":"σύγκρισις","qualifier":"","band":null,"col":null},
-  {"term":"– I (nat.) 11 605–607 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"σύγκρισις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":79,"name":"Demokrit","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -64,6 +63,6 @@ HWPH.put("a/3110",
   {"id":28,"name":"Naturphilosophie","label":"Synkrisis/Diakrisis"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Synkrisis/Diakrisis"}
  ],
- "reg_authors":[{"name":"Buck Günther","n":5},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Buck Günther","n":5},{"name":"Red","n":241}]
 }
 );

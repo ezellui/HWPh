@@ -1,0 +1,15 @@
+HWPH.put("p/65-6a",
+{"ej":[["EJ","165:;;10,2r,8l,92,14,24,18,6c,bq"],["Ej","2eh:;2bb"]],
+"ejaculation":[["éjaculation","1p0:;1k0"]],
+"ejchenbaum":[["EJCHENBAUM","18c:;nh"],["ÈJCHENBAUM","1kg:;30r"],["ĖJCHENBAUM","1bn:;20r,5i;1bk,6l"]],
+"ejektiv":[["ejektiv","1wr:;n9"]],
+"ejektive":[["ejektive","1wr:;iz"]],
+"ejektiven":[["ejektiven","1l2:;463,1z la:;4n2"]],
+"ejerc":[["Ejerc","26w:;;1td"]],
+"ejercicios":[["Ejercicios","fu:;;h 1r2:;;1sh"]],
+"ejus":[["ejus","bg:;;6t np:;1r0 2o:;agi,6o 6k:;m6 f:;;7x 29:;;7v 47:;5ak 5:;;op 4t:;3ga 19:;8z m:;9np c:;119 70:;15bh 1j:;2ve m:;;;1u 79:;;zq 21:;;ju s:;nm 1e:;;58 6i:;;1bi 4:;;gi 4l:;1xi 3h:;187 69:;32l f:;1pd o:;7pj 1:;2ml l:;1sr 3:;23b b:;306 16:;es,1m 6:;;157"]],
+"ejusdam":[["Ejusdam","1tu:;6n"]],
+"ejusdem":[["ejusdem","13k:;363 cm:;h0 as:;;r 2f:;;agt c9:;9em 5o:;4z8 1d:;2p4 a8:;a7 7e:;;w"]],
+"ejusmodi":[["ejusmodi","29l:;ez"]],
+"ejusque":[["ejusque","1nh:;;nz 12n:;;66"]]}
+);

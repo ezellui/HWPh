@@ -3,7 +3,7 @@ HWPH.put("r/67-6e",
  ["Gnade","Gnade","","3","707–713","main",1156,"Gnade","gnade"],
  ["Gnade","Gnadenstreit","",null,null,"see",1157,"Gnadenstreit","gnade"],
  ["Gnade","Gratuität","",null,null,"see",1180,"Gratuität","gnade"],
- ["Gnade","Lohn II (theol.)","",null,null,"see",1828,"Lohn, Verdienst","gnade"],
+ ["Gnade","Lohn","II (theol.)",null,null,"see",1828,"Lohn, Verdienst","gnade"],
  [
   "Gnade","Pelagianismus; Semipelagianismus","",null,null,"see",2304,
   "Pelagianismus, Semipelagianismus","gnade"
@@ -64,6 +64,6 @@ HWPH.put("r/67-6e",
  ["Gnostizismus","Gnosis","II","3","718","ref",1160,"Gnosis","gnostizismus"],
  ["Gnostizismus","Säkularisierung","","8","1150","ref",2738,"Säkularisierung","gnostizismus"],
  ["Gnostologie","Gnostologie","","3","720f.","main",1161,"Gnostologie","gnostologie"],
- ["Gnostologie","Noologie γνωθ͂ι σεαυτόν","",null,null,"see",null,null,"gnostologie"]
+ ["Gnostologie","Noologie","",null,null,"see",2159,"Noologie, noologisch","gnostologie"]
 ]
 );

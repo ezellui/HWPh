@@ -18,7 +18,7 @@ HWPH.put("a/318",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"dialektische dialektische Vernunft","qualifier":"","band":"1","col":"693"},
+  {"term":"dialektische Vernunft","qualifier":"","band":"1","col":"693"},
   {"term":"Vernunft, dialektische","qualifier":"","band":"1","col":"693"}
  ],
  "persons":[

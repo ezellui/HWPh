@@ -28,9 +28,9 @@ HWPH.put("a/3502",
   {"term":"philosophi naturales","qualifier":"","band":"11","col":"1223"},
   {"term":"Philosophie, poetische","qualifier":"","band":"11","col":"1222"},
   {"term":"Philosophie, vorsokratische","qualifier":"","band":"11","col":"1222"},
-  {"term":"schöne 9 92 Vorplatoniker","qualifier":"","band":"11","col":"1223"},
   {"term":"Voraristoteliker","qualifier":"","band":"11","col":"1225"},
   {"term":"vorattisch","qualifier":"","band":"11","col":"1225"},
+  {"term":"Vorplatoniker","qualifier":"","band":"11","col":"1223"},
   {"term":"vorsophistisch","qualifier":"","band":"11","col":"1224f."},
   {"term":"θεολόγοι","qualifier":"","band":"11","col":"1223"},
   {"term":"φυσικοί","qualifier":"","band":"11","col":"1223"},
@@ -101,6 +101,6 @@ HWPH.put("a/3502",
   {"id":3,"name":"Antike Philosophie","label":"Vorsokratiker"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Vorsokratiker"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

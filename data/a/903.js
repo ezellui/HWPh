@@ -17,10 +17,7 @@ HWPH.put("a/903",
  "next":{"id":904,"lemma":"Feld, Feldtheorie","band":"2","col":923},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Justizirrtum","qualifier":"","band":null,"col":null},
-  {"term":"– IV (jur.) 11 459–461 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Justizirrtum","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":10803,"name":"M. Hirschberg","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":14505,"name":"Hirschberg","b":2,"n":0,"l":0,"editor":0,"role":"source"},

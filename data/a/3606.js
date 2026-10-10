@@ -25,7 +25,9 @@ HWPH.put("a/3606",
   {"id":3248,"lemma":"Überdeterminierung","n":1}
  ],
  "register":[
+  {"term":"historischer","qualifier":"","band":null,"col":null},
   {"term":"Leben, geistiges","qualifier":"","band":"12","col":"686"},
+  {"term":"otraenie","qualifier":"","band":null,"col":null},
   {"term":"reflection","qualifier":"","band":null,"col":null},
   {"term":"Überdeterminierung","qualifier":"","band":"12","col":"686"},
   {"term":"Widerspiegelungstheorie","qualifier":"","band":null,"col":null}
@@ -85,6 +87,6 @@ HWPH.put("a/3606",
  ],
  "see_also":[],
  "groups":[{"id":23,"name":"Marxismus","label":"Widerspiegelung"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

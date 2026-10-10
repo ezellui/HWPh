@@ -23,8 +23,7 @@ HWPH.put("a/1656",
  "outlinks":[],
  "register":[
   {"term":"verbum mentale","qualifier":"","band":"4","col":"1087"},
-  {"term":"Vokalismus","qualifier":"","band":null,"col":null},
-  {"term":"– II (log.) 7 985–988 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vokalismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1424,"name":"J. Thomasius","b":1,"n":4,"l":1,"editor":0,"role":"source"},

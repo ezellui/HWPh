@@ -118,6 +118,6 @@ HWPH.put("a/3211",
   {"id":3,"name":"Antike Philosophie","label":"To ti en einai"},
   {"id":26,"name":"Metaphysik","label":"To ti en einai"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

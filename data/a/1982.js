@@ -18,7 +18,6 @@ HWPH.put("a/1982",
  "backlinks":[{"id":3625,"lemma":"Wir","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"der","qualifier":"","band":null,"col":null},
   {"term":"Dualismus","qualifier":"","band":"5","col":"1418"},
   {"term":"Fürwörter, persönliche","qualifier":"","band":"5","col":"1418"},
   {"term":"Nebenmensch","qualifier":"","band":"5","col":"1417"}
@@ -63,7 +62,14 @@ HWPH.put("a/1982",
   {"id":863,"lemma":"Existenz, existentia","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[{"id":137,"lemma":"Andere"}],
+ "see_also":[
+  {"id":137,"lemma":"Andere"},
+  {"id":639,"lemma":"Du"},
+  {"id":1336,"lemma":"Ich-Du-Verhältnis"},
+  {"id":1670,"lemma":"Korrelation"},
+  {"id":2060,"lemma":"Nächstenliebe"},
+  {"id":3625,"lemma":"Wir"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Mitmensch"},
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Mitmensch"}

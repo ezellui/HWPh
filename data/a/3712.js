@@ -35,11 +35,11 @@ HWPH.put("a/3712",
  "register":[
   {"term":"attribution","qualifier":"","band":null,"col":null},
   {"term":"imputatio facti/legis","qualifier":"I (jur.)","band":"12","col":"1447"},
+  {"term":"meritum/demeritum","qualifier":"I (jur.)","band":"12","col":"1447"},
   {"term":"pflichtgemäss","qualifier":"I (jur.)","band":"12","col":"1447"},
   {"term":"s auch","qualifier":"II (theol.)","band":null,"col":null},
   {"term":"Verantwortlichkeit","qualifier":"","band":null,"col":null},
-  {"term":"Verdienst","qualifier":"II (theol.)","band":null,"col":null},
-  {"term":"– IV (jur.) 7 322–335 s. auch","qualifier":"I (jur.)","band":null,"col":null}
+  {"term":"Verdienst","qualifier":"II (theol.)","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":7,"n":7,"l":0,"editor":0,"role":"source"},
@@ -130,7 +130,17 @@ HWPH.put("a/3712",
   {"id":2022,"lemma":"Moral, moralisch, Moralphilosophie","tf":2},
   {"id":3165,"lemma":"Thema","tf":2}
  ],
- "see_also":[{"id":26,"lemma":"Absicht"},{"id":1405,"lemma":"Imputation"}],
+ "see_also":[
+  {"id":26,"lemma":"Absicht"},
+  {"id":1405,"lemma":"Imputation"},
+  {"id":2318,"lemma":"Person"},
+  {"id":3128,"lemma":"Tatbestand"},
+  {"id":3350,"lemma":"Ursache/Wirkung"},
+  {"id":3497,"lemma":"Vorsatz"},
+  {"id":3509,"lemma":"Vorwerfbarkeit"},
+  {"id":2601,"lemma":"Rechtfertigung"},
+  {"id":3075,"lemma":"Sünde"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Zurechnung I (jur.)"},
   {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Zurechnung I (jur.)"},

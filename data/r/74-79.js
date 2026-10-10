@@ -33,7 +33,7 @@ HWPH.put("r/74-79",
   "typische, das"
  ],
  [
-  "Typogenese","Bauplan; Funktionsplan (Uexküll)","","1","756","ref",346,"Bauplan, Funktionsplan",
+  "Typogenese","Bauplan; Funktionsplan","(Uexküll)","1","756","ref",346,"Bauplan, Funktionsplan",
   "typogenese"
  ],
  ["Typologie","Typos; Typologie","",null,null,"ref",3244,"Typos; Typologie","typologie"],
@@ -50,6 +50,11 @@ HWPH.put("r/74-79",
   "Typos; Typologie","Typos; Typologie","","10","1587–1607","main",3244,"Typos; Typologie",
   "typos; typologie"
  ],
+ [
+  "Typos; Typologie","Schriftsinn, mehrfacher","",null,null,"see",2782,"Schriftsinn, mehrfacher",
+  "typos; typologie"
+ ],
+ ["Typos; Typologie","Weissagung","",null,null,"see",3554,"Weissagung","typos; typologie"],
  ["typus","Typos; Typologie","",null,null,"ref",3244,"Typos; Typologie","typus"],
  ["typus","Vorbild","",null,null,"ref",3491,"Vorbild","typus"],
  ["Typus/Antitypus","Bild","II (erk.)","1","915","ref",431,"Bild","typus/antitypus"],
@@ -57,8 +62,7 @@ HWPH.put("r/74-79",
  ["Tyrannenmord","Tyrannis","II",null,null,"ref",3245,"Tyrannis","tyrannenmord"],
  ["Tyrannis","Tyrannis","","10","1607–1618","main",3245,"Tyrannis","tyrannis"],
  ["Tyrannis","Anarchie","",null,null,"see",134,"Anarchie, Anarchismus","tyrannis"],
- ["Tyrannis","Despotie I (allg.)","",null,null,"see",571,"Despotie, Despotismus","tyrannis"],
- ["Tyrannis","Monarchie","",null,null,"see",2012,"Monarchie","tyrannis"],
- ["Tyrannis","Tyrannis","II","10","1615","main",3245,"Tyrannis","tyrannis"]
+ ["Tyrannis","Despotie","I (allg.)",null,null,"see",571,"Despotie, Despotismus","tyrannis"],
+ ["Tyrannis","Monarchie","",null,null,"see",2012,"Monarchie","tyrannis"]
 ]
 );

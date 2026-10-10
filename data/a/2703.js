@@ -72,6 +72,6 @@ HWPH.put("a/2703",
   {"id":23,"name":"Marxismus","label":"Revisionismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Revisionismus"}
  ],
- "reg_authors":[{"name":"Feldhoff Jürgen","n":7},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Feldhoff Jürgen","n":7},{"name":"Red","n":241}]
 }
 );

@@ -35,9 +35,9 @@ HWPH.put("a/3413",
   {"term":"chaîne parlée","qualifier":"","band":"11","col":"711"},
   {"term":"concatenation","qualifier":"","band":null,"col":null},
   {"term":"enchaînement","qualifier":"","band":null,"col":null},
+  {"term":"Kette","qualifier":"","band":null,"col":null},
   {"term":"Kontinuismus","qualifier":"","band":"11","col":"711"},
   {"term":"rapports associatifs/syntagmatiques","qualifier":"","band":"11","col":"711"},
-  {"term":"Series","qualifier":"","band":null,"col":null},
   {"term":"Sukzession","qualifier":"","band":null,"col":null},
   {"term":"Verknüpfung","qualifier":"","band":null,"col":null}
  ],
@@ -85,7 +85,7 @@ HWPH.put("a/3413",
   {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2},
   {"id":1803,"lemma":"Logik","tf":2}
  ],
- "see_also":[{"id":2132,"lemma":"Nexus, Nexus universalis"},{"id":2875,"lemma":"Series"}],
+ "see_also":[{"id":2132,"lemma":"Nexus, Nexus universalis"}],
  "groups":[{"id":45,"name":"Topoi und Metaphern","label":"Verkettung"}],
  "reg_authors":[{"name":"Gehring Petra","n":8}]
 }

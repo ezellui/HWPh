@@ -29,7 +29,8 @@ HWPH.put("a/2323",
  "register":[
   {"term":"allseitige Persönlichkeit","qualifier":"","band":null,"col":null},
   {"term":"Entwicklung der Persönlichkeit","qualifier":"","band":null,"col":null},
-  {"term":"Mensch, totaler","qualifier":"","band":"7","col":"354"}
+  {"term":"Mensch, totaler","qualifier":"","band":"7","col":"354"},
+  {"term":"Vervollkommnung, allseitige","qualifier":"","band":"7","col":"355"}
  ],
  "persons":[
   {"id":17,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},

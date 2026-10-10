@@ -42,7 +42,6 @@ HWPH.put("a/3531",
   {"id":3533,"lemma":"Wahrheit, transzendentale","n":1}
  ],
  "register":[
-  {"term":"/Objekt 10 401–433 s. auch","qualifier":"","band":null,"col":null},
   {"term":"formale/objektive Wahrheit","qualifier":"","band":null,"col":null},
   {"term":"Gegebenes","qualifier":"","band":"12","col":"158"},
   {"term":"Harmonie, objektive","qualifier":"","band":"12","col":"158"},

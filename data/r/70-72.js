@@ -1,73 +1,10 @@
 HWPH.put("r/70-72",
 [
- [
-  "Prädikatenlogik","Prädikatenlogik","","7","1189","main",2426,"Prädikatenlogik, Prädikatenkalkül",
-  "pradikatenlogik"
- ],
- ["Praecisio","Praecisio","I (log.)",null,null,"main",2429,"Praecisio","praecisio"],
- ["Praecisio","Species","I (met.)",null,null,"ref",2966,"Species","praecisio"],
- ["Praecisio","Vorstellung","I B",null,null,"ref",3503,"Vorstellung","praecisio"],
- [
-  "Praecisio","An sich/für sich","","1","354","ref",167,"An sich/für sich; an und für sich",
-  "praecisio"
- ],
- ["Praecisio","Causa sui","","1","977","ref",479,"Causa sui","praecisio"],
- ["Praecisio","Eine, das; Einheit","III","2","380","ref",675,"Eine (das), Einheit","praecisio"],
- ["Praecisio","Gegenstand","II (log.)","3","134","ref",1020,"Gegenstand","praecisio"],
- ["Praecisio","Logik","",null,null,"ref",1803,"Logik","praecisio"],
- ["Proposition","Proposition","","7","1522","main",2484,"Proposition","proposition"],
- ["Protoplast","Protoplast","D",null,null,"main",2496,"Protoplast","protoplast"],
- ["Prädestination","Prädestination","",null,null,"main",2424,"Prädestination","pradestination"],
- ["Prädestination","Verstockung","","11","945","ref",3440,"Verstockung","pradestination"],
- [
-  "Provinz, pädagogische","Provinz, pädagogische","","7","1542","main",2498,"Provinz, pädagogische",
-  "provinz, padagogische"
- ],
- [
-  "Provinz, pädagogische","Sozialisation","","9","1163","ref",2946,"Sozialisation",
-  "provinz, padagogische"
- ],
- ["Prägnanz","Prägnanz","","7","1249","main",2437,"Prägnanz, prägnant","pragnanz"],
- ["Präsupposition","Präsupposition","II","7","1271","main",2446,"Präsupposition","prasupposition"],
- [
-  "Prädikatenlogik","Prädikatenlogik","","7","1189f.","main",2426,
-  "Prädikatenlogik, Prädikatenkalkül","pradikatenlogik"
- ],
- [
-  "primäres/sekundäres (Reininger) 4 18f. s. auch","Idealismus, monistischer","(Reininger)",null,
-  null,"ref",1350,"Idealismus, monistischer","primares/sekundares (reininger) 4 18f. s. auch"
- ],
- [
-  "primäres/sekundäres (Reininger) Ich, transzendentales","Egologie","(Husserl)",null,null,"ref",651,
-  "Egologie","primares/sekundares (reininger) ich, transzendentales"
- ],
- [
-  "primäres/sekundäres (Reininger) Ich, transzendentales","Habitualitäten","(Husserl)",null,null,
-  "ref",1208,"Habitualitäten","primares/sekundares (reininger) ich, transzendentales"
- ],
- [
-  "primäres/sekundäres (Reininger) Ich, transzendentales","Ichpol","(Husserl)","4","25","ref",1338,
-  "Ichpol","primares/sekundares (reininger) ich, transzendentales"
- ],
- [
-  "primäres/sekundäres (Reininger)","Idealismus, morphologischer","(Friedmann)","4","41f.","ref",
-  1351,"Idealismus, morphologischer","primares/sekundares (reininger)"
- ],
- [
-  "Prädikatenlogik","Prädikatenlogik","","7","1192","main",2426,"Prädikatenlogik, Prädikatenkalkül",
-  "pradikatenlogik"
- ],
- [
-  "Produktion II (ökon.)","Produktion II (ökon.)","","7","1428f.","main",2469,
-  "Produktion, Produktivität","produktion ii (okon.)"
- ],
- [
-  "Prädikatenlogik","Prädikatenlogik","","7","1192","main",2426,"Prädikatenlogik, Prädikatenkalkül",
-  "pradikatenlogik"
- ],
- ["Prädikabilien πένθος","Prädikabilien πένθος","",null,null,"main",null,null,"pradikabilien πενθοσ"],
- ["Prinzip","Prinzip","I","7","1342","main",2458,"Prinzip","prinzip"],
  ["Prinzip","Prinzip","III 5","7","1367","main",2458,"Prinzip","prinzip"],
+ [
+  "practical truth","Wahrheit, praktische","",null,null,"ref",3532,"Wahrheit, praktische",
+  "practical truth"
+ ],
  ["praeambula fidei","Glaube","I","3","634f.","ref",1138,"Glaube","praeambula fidei"],
  ["Präanimismus","Dynamismus","",null,null,"ref",646,"Dynamismus","praanimismus"],
  ["Präanimismus","Animismus","","1","317","ref",148,"Animismus","praanimismus"],
@@ -89,8 +26,15 @@ HWPH.put("r/70-72",
   "praeceptum morale"
  ],
  ["praeceptum negativum","Vorschrift","","11","1203","ref",3499,"Vorschrift","praeceptum negativum"],
- ["praecipitatio","Übereilung praecipua capita","",null,null,"ref",null,null,"praecipitatio"],
+ ["praecipitatio","Übereilung","",null,null,"ref",3250,"Übereilung; Voreiligkeit","praecipitatio"],
+ ["praecipua capita","Dialektik","III","2","180","ref",583,"Dialektik","praecipua capita"],
  ["Praecisio","Praecisio","","7","1212–1216","main",2429,"Praecisio","praecisio"],
+ ["Praecisio","Distinktion","",null,null,"see",622,"Distinktion","praecisio"],
+ [
+  "Praecisio","Complicatio/explicatio","(Cusanus)",null,null,"see",506,"Complicatio/explicatio",
+  "praecisio"
+ ],
+ ["Praecisio","Docta ignorantia","(Cusanus)",null,null,"see",624,"Docta ignorantia","praecisio"],
  ["praecisio","Suarezismus","","10","369","ref",3045,"Suarezismus","praecisio"],
  ["praecisio obiectiva","Virtualität","I","11","1063","ref",3467,"Virtualität","praecisio obiectiva"],
  [
@@ -151,17 +95,26 @@ HWPH.put("r/70-72",
   "Determinismus/Indeterminismus","pradetermination"
  ],
  [
-  "praedicabilia","Prädikabilien praedicamenta transcendentalia","",null,null,"ref",null,null,
+  "praedicabilia","Prädikabilien","",null,null,"ref",2425,"Prädikabilien, Prädikabilienlehre",
   "praedicabilia"
+ ],
+ [
+  "praedicamenta transcendentalia","Relation","II","8","593","ref",2668,"Relation",
+  "praedicamenta transcendentalia"
+ ],
+ [
+  "praedicamenta transcendentalia","Transzendental","IV","10","1374","ref",3219,"Transzendental",
+  "praedicamenta transcendentalia"
  ],
  [
   "praedicamentalis","Transzendental","IV","10","1372","ref",3219,"Transzendental",
   "praedicamentalis"
  ],
  [
-  "praedicatum finitum/infinitum","Negation","",null,null,"ref",2100,"Negation",
-  "praedicatum finitum/infinitum"
+  "praedicatum finitum/infinitum","Negation; Negativität","I","6","672","ref",2101,
+  "Negation, Negativität","praedicatum finitum/infinitum"
  ],
+ ["praedictio","Voraussage","",null,null,"ref",3487,"Voraussage; Vorhersage; Prognose","praedictio"],
  ["Prädikabilien","Prädikabilien","","7","1178–1186","main",2424,"Prädestination","pradikabilien"],
  ["Prädikabilien","Anteprädikamente","",null,null,"see",172,"Anteprädikamente","pradikabilien"],
  [
@@ -207,7 +160,13 @@ HWPH.put("r/70-72",
  ],
  ["Prädikatenlogik","Sortenlogik","",null,null,"see",2930,"Sortenlogik","pradikatenlogik"],
  ["Prädikatenlogik","Sprache, formale","",null,null,"see",2987,"Sprache, formale","pradikatenlogik"],
- ["Prädikatenlogik","Typentheorie Prädikatenlogik","",null,null,"see",null,null,"pradikatenlogik"],
+ [
+  "Prädikatenlogik","Typentheorie","",null,null,"see",3243,"Typentheorie; Typenlogik",
+  "pradikatenlogik"
+ ],
+ ["Prädikatenlogik","Algorithmus","","1","160","ref",97,"Algorithmus","pradikatenlogik"],
+ ["Prädikatenlogik","Modallogik","II","6","28ff.","ref",1997,"Modallogik","pradikatenlogik"],
+ ["Prädikatenlogik","Relation","V","8","606f.","ref",2668,"Relation","pradikatenlogik"],
  ["Prädikation","Prädikation","","7","1194–1208","main",2427,"Prädikation","pradikation"],
  ["Prädikation","Inhärenz","",null,null,"see",1437,"Inhärenz","pradikation"],
  ["Prädikation","Satz","",null,null,"see",2745,"Satz","pradikation"],
@@ -285,7 +244,10 @@ HWPH.put("r/70-72",
  ],
  ["Präkognition","Hellsehen","",null,null,"ref",1246,"Hellsehen","prakognition"],
  ["Prälogisch","Prälogisch","","7","1253–1255","main",2440,"Prälogisch","pralogisch"],
- ["Prälogisch","Primitiv prälogisch","",null,null,"see",null,null,"pralogisch"],
+ ["Prälogisch","Primitiv","",null,null,"see",2454,"Primitiv, der bzw. das Primitive","pralogisch"],
+ ["prälogisch","Kollektivvorstellung","","4","887","ref",1588,"Kollektivvorstellung","pralogisch"],
+ ["prälogisch","Mythos; Mythologie","VI","6","301","ref",2053,"Mythos, Mythologie","pralogisch"],
+ ["prälogisch","Religion","VIII 7","8","695","ref",2673,"Religion","pralogisch"],
  ["Prämisse","Prämisse","","7","1255f.","main",2441,"Prämisse","pramisse"],
  ["Prämisse","Obersatz","",null,null,"see",2182,"Obersatz","pramisse"],
  ["Prämisse","Protasis","",null,null,"see",2487,"Protasis","pramisse"],
@@ -324,7 +286,8 @@ HWPH.put("r/70-72",
  ["Präsenz","Gegenwart","",null,null,"see",1023,"Gegenwart","prasenz"],
  ["Präsenz","Ubiquität","",null,null,"see",3269,"Ubiquität","prasenz"],
  ["Präsenz","Schrift","II (Derrida)",null,null,"ref",2781,"Schrift","prasenz"],
- ["Präsenz","Philosophie","IV",null,null,"ref",2353,"Philosophie","prasenz"],
+ ["Präsenz","Philosophie","IV L","7","794","ref",2353,"Philosophie","prasenz"],
+ ["Präsenzfeld","Präsentation","II (Husserl)","7","1257","ref",2442,"Präsentation","prasenzfeld"],
  ["Präskriptiv","Präskriptiv","","7","1265f.","main",2445,"Präskriptiv","praskriptiv"],
  [
   "Präskriptiv","Naturalismus, ethischer","",null,null,"see",2082,"Naturalismus, ethischer",
@@ -352,7 +315,12 @@ HWPH.put("r/70-72",
  ["Präsumtion","Urteil, vorläufiges","","11","477","ref",3358,"Urteil, vorläufiges","prasumtion"],
  ["Präsumtion","Vorurteil","I (erk.)","11","1256ff.","ref",3507,"Vorurteil","prasumtion"],
  ["Präsupposition","Präsupposition","","7","1267–1274","main",2446,"Präsupposition","prasupposition"],
- ["Präsupposition","Kennzeichnung Präsupposition","",null,null,"see",null,null,"prasupposition"],
+ [
+  "Präsupposition","Kennzeichnung","",null,null,"see",1558,"Kennzeichnung, Kennzeichnungstheorie",
+  "prasupposition"
+ ],
+ ["Präsupposition","Horizont","III 4 (ling.)","3","1205","ref",1310,"Horizont","prasupposition"],
+ ["praetensio","Appétition","(Leibniz)","1","456","ref",216,"Appétition","praetensio"],
  [
   "praeteritum imperfectum","Zukunft; Vergangenheit","","12","1427","ref",3708,
   "Zukunft; Vergangenheit","praeteritum imperfectum"
@@ -368,10 +336,14 @@ HWPH.put("r/70-72",
  ],
  ["pragmatic","Pragmatisch","",null,null,"ref",2435,"Pragmatisch","pragmatic"],
  [
-  "pragmatic contradiction","Widerspruch","",null,null,"ref",3607,"Widerspruch",
+  "pragmatic contradiction","Widerspruch, performativer","",null,null,"ref",3607,"Widerspruch",
   "pragmatic contradiction"
  ],
- ["Pragmatik","Pragmatik","",null,null,"main",2434,"Pragmatik","pragmatik"],
+ [
+  "pragmaticism","Pragmatismus","",null,null,"ref",2436,"Pragmatismus, Pragmatizismus",
+  "pragmaticism"
+ ],
+ ["pragmatics","Pragmatik","",null,null,"ref",2434,"Pragmatik","pragmatics"],
  ["Pragmatik","Pragmatik","","7","1234–1241","main",2434,"Pragmatik","pragmatik"],
  ["Pragmatik","Gebrauchsnorm","",null,null,"see",995,"Gebrauchsnorm","pragmatik"],
  ["Pragmatik","Semiose","",null,null,"see",2864,"Semiose","pragmatik"],
@@ -388,24 +360,29 @@ HWPH.put("r/70-72",
  ],
  ["pragmatische Wende","Wende","","12","536","ref",3582,"Wende","pragmatische wende"],
  [
-  "pragmatischer Widerspruch","Widerspruch","",null,null,"ref",3607,"Widerspruch",
+  "pragmatischer Widerspruch","Widerspruch, performativer","",null,null,"ref",3607,"Widerspruch",
   "pragmatischer widerspruch"
  ],
- ["Pragmatizismus","Pragmatismus Prahlerei","",null,null,"ref",null,null,"pragmatizismus"],
+ ["Pragmatismus","Pragmatismus","","7","1244–1249","main",2435,"Pragmatisch","pragmatismus"],
+ ["Pragmatismus","Instrumentalismus","",null,null,"see",1455,"Instrumentalismus","pragmatismus"],
+ ["Pragmatismus","Wert","IV (Pragmatismus)",null,null,"see",3588,"Wert","pragmatismus"],
+ [
+  "Pragmatizismus","Pragmatismus","",null,null,"ref",2436,"Pragmatismus, Pragmatizismus",
+  "pragmatizismus"
+ ],
+ ["Prahlerei","Eigendünkel","","2","332","ref",662,"Eigendünkel","prahlerei"],
  ["Prakr.ti","Prakr.ti","","7","1252f.","main",2439,"Prakr.ti","prakr.ti"],
  ["Prakr.ti","Māyā","",null,null,"see",1902,"Maya","prakr.ti"],
  ["Prakr.ti","Purus.a","",null,null,"see",2537,"Purus.a","prakr.ti"],
  ["Prakr.ti","Sām. khya praktisch","",null,null,"see",null,null,"prakr.ti"],
- [
-  "Praxis praktisch/spekulativ","Praxis praktisch/spekulativ","",null,null,"main",null,null,
-  "praxis praktisch/spekulativ"
- ],
+ ["Praxis","Praxis","",null,null,"main",2448,"Praxis, praktisch","praxis"],
+ ["praktisch/spekulativ","Spekulation","",null,null,"ref",2969,"Spekulation","praktisch/spekulativ"],
  [
   "praktisch/transzendental","Transzendental","V","10","1384","ref",3219,"Transzendental",
   "praktisch/transzendental"
  ],
  [
-  "praktische/theoretische Lebensform","Praxis I","",null,null,"ref",2448,"Praxis, praktisch",
+  "praktische/theoretische Lebensform","Praxis","I",null,null,"ref",2448,"Praxis, praktisch",
   "praktische/theoretische lebensform"
  ],
  [
@@ -467,19 +444,25 @@ HWPH.put("r/70-72",
   "praktische wirtschaftspsychologie"
  ],
  [
-  "praktischer Schluss","Schluss, praktischer praktischer Syllogismus","",null,null,"ref",2769,
-  "Schluß","praktischer schluss"
+  "praktischer Schluss","Schluss, praktischer","",null,null,"ref",2770,"Schluß, praktischer",
+  "praktischer schluss"
  ],
+ [
+  "praktischer Syllogismus","Schluss, praktischer","",null,null,"ref",2770,"Schluß, praktischer",
+  "praktischer syllogismus"
+ ],
+ ["praktisches Wissen","Phronesis","",null,null,"ref",2366,"Phronesis","praktisches wissen"],
  ["Praktizismus","Praxis","III","7","1300","ref",2448,"Praxis, praktisch","praktizismus"],
  ["prâna","Sinne, die","","9","825","ref",2892,"Sinne, die","prana"],
  ["pravda","Wahrheit (Pravda/Istina)","",null,null,"ref",3525,"Wahrheit (Pravda/Istina)","pravda"],
- ["pravda","Philosophie","IV",null,null,"ref",2353,"Philosophie","pravda"],
+ ["pravda","Philosophie","IV J","7","778","ref",2353,"Philosophie","pravda"],
+ ["pravda","Sobornost","","9","993","ref",2913,"Sobornost","pravda"],
  ["pravitas","Herz","","3","1108","ref",1265,"Herz","pravitas"],
  ["pravitas","Naturrecht","IV 3","6","590","ref",2089,"Naturrecht","pravitas"],
  ["Praxeologie","Praxeologie","","7","1274–1277","main",2447,"Praxeologie","praxeologie"],
  ["praxiologia","Praxeologie","",null,null,"ref",2447,"Praxeologie","praxiologia"],
  ["Praxis","Praxis","","7","1277–1307","main",2448,"Praxis, praktisch","praxis"],
- ["Praxis","Bios (Lebensform)","",null,null,"see",null,null,"praxis"],
+ ["Praxis","Bios","(Lebensform)",null,null,"see",null,null,"praxis"],
  [
   "Praxis","Handeln; Handlung; Tat; Tätigkeit","",null,null,"see",1218,
   "Handeln, Handlung, Tat, Tätigkeit","praxis"
@@ -492,7 +475,7 @@ HWPH.put("r/70-72",
  ["Praxis","Praxis","",null,null,"main",2448,"Praxis, praktisch","praxis"],
  ["Praxis","Actio immanens/transiens","","1","76","ref",42,"Actio immanens/actio transiens","praxis"],
  ["Praxis","Theorie","I",null,null,"ref",3179,"Theorie","praxis"],
- ["Praxis","Dialektik","IV",null,null,"ref",583,"Dialektik","praxis"],
+ ["Praxis","Dialektik","IV 7. 1","2","218f.","ref",583,"Dialektik","praxis"],
  [
   "Praxis, Philosophische","Praxis, Philosophische","","7","1307f.","main",2449,
   "Praxis, Philosophische","praxis, philosophische"
@@ -560,10 +543,14 @@ HWPH.put("r/70-72",
   "premieres verites"
  ],
  [
-  "préobjectif","Ambiguität II (Merleau-Ponty)","","1","203","ref",113,"Ambiguität (Amphibolie)",
+  "préobjectif","Ambiguität","II (Merleau-Ponty)","1","203","ref",113,"Ambiguität (Amphibolie)",
   "preobjectif"
  ],
  ["préoccupation","Vorurteil","I (erk.)","11","1252","ref",3507,"Vorurteil","preoccupation"],
+ [
+  "prerogativa","Vorgriff; Vorhabe; Vorsicht","(Heidegger)","11","1188","ref",3493,
+  "Vorgriff; Vorhabe; Vorsicht","prerogativa"
+ ],
  ["préscience","Vorverständnis","","11","1269","ref",3508,"Vorverständnis","prescience"],
  [
   "prescientific","Vorwissenschaftlich","",null,null,"ref",3510,
@@ -643,11 +630,8 @@ HWPH.put("r/70-72",
   "prima philosophia","Erste Philosophie","",null,null,"ref",816,"Erste Philosophie",
   "prima philosophia"
  ],
- ["primäres Ich","Ich","",null,null,"ref",1334,"Ich","primares ich"],
- [
-  "primäres/sekundäres (Reininger) Primärkultur","Manismus","","5","731","ref",1864,"Manismus",
-  "primares/sekundares (reininger) primarkultur"
- ],
+ ["primäres Ich","Ich, primäres/sekundäres","(Reininger)",null,null,"ref",1334,"Ich","primares ich"],
+ ["Primärkultur","Manismus","","5","731","ref",1864,"Manismus","primarkultur"],
  ["Primärvorgang","Primärvorgang","","7","1311–1314","main",2452,"Primärvorgang","primarvorgang"],
  ["Primärvorgang","Lustprinzip","",null,null,"see",1838,"Lustprinzip","primarvorgang"],
  ["Primärvorgang","Sekundärvorgang","",null,null,"see",2819,"Sekundärvorgang","primarvorgang"],
@@ -668,7 +652,7 @@ HWPH.put("r/70-72",
  ["primitas","Primität","",null,null,"ref",2453,"Primität","primitas"],
  ["Primitiv","Primitiv","","7","1315–1320","main",2453,"Primität","primitiv"],
  ["Primitiv","Prälogisch","",null,null,"see",2440,"Prälogisch","primitiv"],
- ["primitiv","Organprimitivismen","(Gehlen)","6","1369","ref",2247,"Organonmodell","primitiv"],
+ ["primitiv","Organprimitivismen","(Gehlen)","6","1369","ref",2248,"Organprimitivismen","primitiv"],
  [
   "primitiva ecclesia","Primitiv","","7","1316","ref",2454,"Primitiv, der bzw. das Primitive",
   "primitiva ecclesia"
@@ -745,8 +729,12 @@ HWPH.put("r/70-72",
   "Satz vom (ausgeschlossenen) Widerspruch","principe de contradiction"
  ],
  [
-  "principe de la moindre action","Wirkungsprinzip principe de la perfection","",null,null,"ref",
-  null,null,"principe de la moindre action"
+  "principe de la moindre action","Wirkungsprinzip","",null,null,"ref",3630,
+  "Wirkungsprinzip; Prinzip der kleinsten Aktion","principe de la moindre action"
+ ],
+ [
+  "principe de la perfection","Vollkommenheit","","11","1124","ref",3482,"Vollkommenheit",
+  "principe de la perfection"
  ],
  [
   "principe de la raison déterminante bzw. suffisante","Principium rationis sufficientis","",null,
@@ -764,8 +752,13 @@ HWPH.put("r/70-72",
   "principe de realite"
  ],
  [
-  "principe d'Harlequin","Regelmässigkeitsvoraussetzung (Leibniz) principe du meilleur","",null,null,
-  "ref",null,null,"principe d'harlequin"
+  "principe d'Harlequin","Regelmässigkeitsvoraussetzung","(Leibniz)",null,null,"ref",2644,
+  "Regelmäßigkeitsvoraussetzung","principe d'harlequin"
+ ],
+ ["principe du meilleur","Optimismus","",null,null,"ref",2231,"Optimismus","principe du meilleur"],
+ [
+  "principe du meilleur","Principium rationis sufficientis","","7","1326","ref",2457,
+  "Principium rationis sufficientis","principe du meilleur"
  ],
  ["principe interne","Selbst","II","9","297","ref",2820,"Selbst","principe interne"],
  [
@@ -962,7 +955,14 @@ HWPH.put("r/70-72",
  ["principium numeri","Prinzip","II","7","1353","ref",2458,"Prinzip","principium numeri"],
  ["principium numeri","Vielheit","I","11","1042","ref",3462,"Vielheit","principium numeri"],
  ["principium obiectivum","Idee","III","4","104","ref",1361,"Idee","principium obiectivum"],
- ["principium obiectivum","Subjekt","",null,null,"ref",3047,"Subjekt","principium obiectivum"],
+ [
+  "principium obiectivum","Subjekt/Objekt","I","10","405","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","principium obiectivum"
+ ],
+ [
+  "principium obiectorum","Schema; Schematismus","I (allg.)","8","1249","ref",2760,
+  "Schema, Schematismus","principium obiectorum"
+ ],
  ["principium operabilium","Gewissen","","3","582","ref",1130,"Gewissen","principium operabilium"],
  [
   "principium operabilium","Grund","","3","940","ref",1203,"Gut, das Gute, das Gut",
@@ -996,7 +996,7 @@ HWPH.put("r/70-72",
  ["principium potestativum","Wille","II","12","773","ref",3620,"Wille","principium potestativum"],
  ["principium probandi","Methode","V 1","5","1320","ref",1955,"Methode","principium probandi"],
  [
-  "principium rationalitatis","Rationalität I (erk.)","","8","54","ref",2576,
+  "principium rationalitatis","Rationalität","I (erk.)","8","54","ref",2576,
   "Rationalität, Rationalisierung","principium rationalitatis"
  ],
  [
@@ -1028,7 +1028,14 @@ HWPH.put("r/70-72",
   "principium sensationis"
  ],
  ["principium sermonis","Stimme","","10","166","ref",3025,"Stimme","principium sermonis"],
- ["principium subiectivum","Subjekt","",null,null,"ref",3047,"Subjekt","principium subiectivum"],
+ [
+  "principium subiectivum","Subjekt/Objekt","I","10","405","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","principium subiectivum"
+ ],
+ [
+  "principium subsidiaritatis","Subsidiaritätsprinzip","","10","483","ref",3059,
+  "Subsidiaritätsprinzip","principium subsidiaritatis"
+ ],
  [
   "principium transcendentale","Transzendental","IV","10","1375","ref",3219,"Transzendental",
   "principium transcendentale"
@@ -1080,8 +1087,16 @@ HWPH.put("r/70-72",
   "principle of indifference"
  ],
  [
-  "principle of least action","Wirkungsprinzip principle of non-contradiction","",null,null,"ref",
-  null,null,"principle of least action"
+  "principle of least action","Wirkungsprinzip","",null,null,"ref",3630,
+  "Wirkungsprinzip; Prinzip der kleinsten Aktion","principle of least action"
+ ],
+ [
+  "principle of non-contradiction","Satz vom (ausgeschlossenen) Widerspruch","",null,null,"ref",2748,
+  "Satz vom (ausgeschlossenen) Widerspruch","principle of non-contradiction"
+ ],
+ [
+  "principle of non-contradiction","Widerspruchsfreiheit","",null,null,"ref",3609,
+  "Widerspruchsfreiheit","principle of non-contradiction"
  ],
  [
   "principle of parsimony","Sparsamkeitsprinzip","",null,null,"ref",2962,"Sparsamkeitsprinzip",
@@ -1174,8 +1189,20 @@ HWPH.put("r/70-72",
   "prinzip der kausalitat"
  ],
  [
-  "Prinzip der kleinsten Aktion","Wirkungsprinzip Prinzip der kleinsten Wirkung","",null,null,"ref",
-  null,null,"prinzip der kleinsten aktion"
+  "Prinzip der kleinsten Aktion","Wirkungsprinzip","",null,null,"ref",3630,
+  "Wirkungsprinzip; Prinzip der kleinsten Aktion","prinzip der kleinsten aktion"
+ ],
+ [
+  "Prinzip der kleinsten Wirkung","Extremalprinzipien","",null,null,"ref",885,"Extremalprinzipien",
+  "prinzip der kleinsten wirkung"
+ ],
+ [
+  "Prinzip der kleinsten Wirkung","Wirkungsprinzip","",null,null,"ref",3630,
+  "Wirkungsprinzip; Prinzip der kleinsten Aktion","prinzip der kleinsten wirkung"
+ ],
+ [
+  "Prinzip der pragmatischen Ordnung","Methode","V 3","5","1330","ref",1955,"Methode",
+  "prinzip der pragmatischen ordnung"
  ],
  [
   "Prinzip der Sparsamkeit","Sparsamkeitsprinzip","",null,null,"ref",2962,"Sparsamkeitsprinzip",
@@ -1234,7 +1261,7 @@ HWPH.put("r/70-72",
   "Principium rationis sufficientis","prinzip universaler intelligibilitat"
  ],
  [
-  "Prinzipienwissen","Erkenntnis I (erk.)","","2","647f.","ref",796,"Erkennen, Erkenntnis",
+  "Prinzipienwissen","Erkenntnis","I (erk.)","2","647f.","ref",796,"Erkennen, Erkenntnis",
   "prinzipienwissen"
  ],
  [
@@ -1279,7 +1306,7 @@ HWPH.put("r/70-72",
   "Privatsprachenargument","private language argument"
  ],
  [
-  "private world","Perspektive I (allg.)","","7","371","ref",2326,
+  "private world","Perspektive","I (allg.)","7","371","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","private world"
  ],
  [
@@ -1297,7 +1324,9 @@ HWPH.put("r/70-72",
  ["Privation","Privation","","7","1378–1383","main",2461,"Privation","privation"],
  ["Privation","Defizienz","",null,null,"see",541,"Defizienz","privation"],
  ["Privation","Hexis; habitus","",null,null,"see",null,null,"privation"],
- ["Privation","Negation","",null,null,"see",2100,"Negation","privation"],
+ ["Privation","Negation; Negativität","",null,null,"see",2100,"Negation","privation"],
+ ["Privation","Malum","V",null,null,"ref",1852,"Malum","privation"],
+ ["Privation","Analyse/Synthese","","1","246","ref",126,"Analyse/Synthese","privation"],
  [
   "privativ unendlich","Unendlichkeit","","11","141f.","ref",3291,"Unendlichkeit",
   "privativ unendlich"
@@ -1312,9 +1341,22 @@ HWPH.put("r/70-72",
  ["Privatrecht","Naturrecht","II","6","569","ref",2089,"Naturrecht","privatrecht"],
  ["Privatrecht","Öffentlich/privat","","6","1132","ref",2205,"Öffentlich/privat","privatrecht"],
  ["Privatreligion","Religion","VI","8","653","ref",2673,"Religion","privatreligion"],
+ ["Privatsprache","Richtigkeit","","8","1043","ref",2717,"Richtigkeit","privatsprache"],
  [
-  "Privatsprachenargument","Privatsprachenargument","(Wittgenstein)","7","1383","main",2462,
+  "Privatsprachenargument","Privatsprachenargument","(Wittgenstein)","7","1383- 1388","main",2462,
   "Privatsprachenargument","privatsprachenargument"
+ ],
+ [
+  "Privatsprachenargument","Leib-Seele-Verhältnis","III",null,null,"see",1770,
+  "Leib-Seele-Verhältnis","privatsprachenargument"
+ ],
+ [
+  "Privatsprachenargument","Solipsismus","",null,null,"see",2918,"Solipsismus",
+  "privatsprachenargument"
+ ],
+ [
+  "Privatsprachenargument","Sprachspiel","(Wittgenstein)",null,null,"see",2994,"Sprachspiel",
+  "privatsprachenargument"
  ],
  [
   "Privatsprachenargument (Wittgenstein)","Schmerz","II","8","1321","ref",2773,"Schmerz",
@@ -1343,7 +1385,7 @@ HWPH.put("r/70-72",
  ],
  ["probabel","Moralsystem","","6","196","ref",2030,"Moralsystem","probabel"],
  [
-  "Probabiliorismus","Probabilismus II (eth.)","","7","1390","ref",2463,
+  "Probabiliorismus","Probabilismus","II (eth.)","7","1390","ref",2463,
   "Probabilismus, probabilistisch","probabiliorismus"
  ],
  [
@@ -1355,6 +1397,16 @@ HWPH.put("r/70-72",
   "probabilismus"
  ],
  ["Probabilismus","Wahrscheinlichkeit","",null,null,"see",3540,"Wahrscheinlichkeit","probabilismus"],
+ ["Probabilismus","Moralsystem","",null,null,"see",2030,"Moralsystem","probabilismus"],
+ [
+  "Probabilismus","Wahrscheinlichkeit","III",null,null,"see",3540,"Wahrscheinlichkeit",
+  "probabilismus"
+ ],
+ ["Probabilismus","Funktionalismus","",null,null,"see",976,"Funktionalismus","probabilismus"],
+ ["Probabilismus","Kognition","",null,null,"see",1578,"Kognition, kognitiv","probabilismus"],
+ ["Probabilismus","Ökologie","II (psych.)",null,null,"see",2209,"Ökologie","probabilismus"],
+ ["Probabilismus","Reiz und Reaktion","",null,null,"see",2662,"Reiz und Reaktion","probabilismus"],
+ ["Probabilismus","Possibilismus","",null,null,"see",2414,"Possibilismus","probabilismus"],
  ["probabilitas","Wahrscheinlichkeit","",null,null,"ref",3540,"Wahrscheinlichkeit","probabilitas"],
  [
   "probabilitas","Wahrheitsähnlichkeit","","12","170","ref",3534,"Wahrheitsähnlichkeit",
@@ -1383,7 +1435,7 @@ HWPH.put("r/70-72",
  ["probare","Überreden; Überzeugen","","11","51","ref",3262,"Überreden; Überzeugen","probare"],
  ["probatio","Beweis","",null,null,"ref",410,"Beweis","probatio"],
  [
-  "probatio","Obligatio; Ars obligatoria II (log.)","","6","1070","ref",2194,
+  "probatio","Obligatio; Ars obligatoria","II (log.)","6","1070","ref",2194,
   "Obligatio, Ars obligatoria","probatio"
  ],
  ["probatio","Pistis","","7","976f.","ref",2379,"Pistis","probatio"],
@@ -1443,16 +1495,20 @@ HWPH.put("r/70-72",
  ],
  ["Problemlösung","Aha-Erlebnis","",null,null,"ref",66,"Aha-Erlebnis","problemlosung"],
  [
-  "Problemlösung","Invention; Erfindung IV (psych.)","",null,null,"ref",1490,
+  "Problemlösung","Invention; Erfindung","IV (psych.)",null,null,"ref",1490,
   "Invention, Erfindung, Entdeckung","problemlosung"
  ],
- ["Problemlösung","Umstrukturierung προβολή","",null,null,"ref",null,null,"problemlosung"],
+ [
+  "Problemlösung","Umstrukturierung","",null,null,"ref",3277,"Umstrukturierung; Umzentrierung",
+  "problemlosung"
+ ],
  ["procedure","Verfahren","",null,null,"ref",3396,"Verfahren","procedure"],
  ["processio","Leben","III","5","60","ref",1735,"Leben","processio"],
  ["processio","Trinität","I","10","1501f.","ref",3231,"Trinität","processio"],
- ["processus","Prozess processus in infinitum","",null,null,"ref",null,null,"processus"],
+ ["processus","Prozess","",null,null,"ref",2499,"Prozeß","processus"],
+ ["processus in infinitum","Ordnung","II","6","1276","ref",2233,"Ordnung","processus in infinitum"],
  [
-  "processus schematismus","Latenz III (psych.)","","5","43","ref",1731,"Latent, Latenz",
+  "processus schematismus","Latenz","III (psych.)","5","43","ref",1731,"Latent, Latenz",
   "processus schematismus"
  ],
  [
@@ -1462,7 +1518,8 @@ HWPH.put("r/70-72",
  ["proclivitas","Neigung","",null,null,"ref",2106,"Neigung","proclivitas"],
  ["procreatio","Zeugung","",null,null,"ref",3693,"Zeugung","procreatio"],
  ["prodige","Wunder","",null,null,"ref",3659,"Wunder","prodige"],
- ["prodigium","Voraussage prodire","",null,null,"ref",null,null,"prodigium"],
+ ["prodigium","Voraussage","",null,null,"ref",3487,"Voraussage; Vorhersage; Prognose","prodigium"],
+ ["prodire","Existenz; existentia","II","2","856","ref",863,"Existenz, existentia","prodire"],
  ["productio","Produktion","",null,null,"ref",2469,"Produktion, Produktivität","productio"],
  ["productio","Schöpfung","",null,null,"ref",2779,"Schöpfung","productio"],
  [
@@ -1484,7 +1541,15 @@ HWPH.put("r/70-72",
  ],
  ["Produktion","Produktion","","7","1418–1438","main",2469,"Produktion, Produktivität","produktion"],
  ["Produktion","Reproduktion","",null,null,"see",2687,"Reproduktion","produktion"],
- ["Produktionsprozess","Prozess I 4 (nat.)","","7","1553","ref",2499,"Prozeß","produktionsprozess"],
+ ["Produktion","Arbeit","",null,null,"see",230,"Arbeit","produktion"],
+ [
+  "Produktion","Produktionsverhältnisse; Produktivkräfte I","",null,null,"see",2470,
+  "Produktionsverhältnisse/Produktivkräfte","produktion"
+ ],
+ ["Produktion","Wert/Preis","",null,null,"see",3590,"Wert/Preis","produktion"],
+ ["Produktion","Einbildungskraft","",null,null,"see",673,"Einbildung, Einbildungskraft","produktion"],
+ ["Produktion","Genie","",null,null,"see",1071,"Genie","produktion"],
+ ["Produktionsprozess","Prozess","I 4 (nat.)","7","1553","ref",2499,"Prozeß","produktionsprozess"],
  [
   "Produktionsprozess","Verdinglichung","","11","611","ref",3391,
   "Verdinglichung; Vergegenständlichung","produktionsprozess"
@@ -1495,7 +1560,11 @@ HWPH.put("r/70-72",
  ],
  [
   "Produktionsverhältnisse; Produktivkräfte","Produktionsverhältnisse; Produktivkräfte","","7",
-  "1438","main",2470,"Produktionsverhältnisse/Produktivkräfte",
+  "1438- 1442","main",2470,"Produktionsverhältnisse/Produktivkräfte",
+  "produktionsverhaltnisse; produktivkrafte"
+ ],
+ [
+  "Produktionsverhältnisse; Produktivkräfte","Mensch","IV 3",null,null,"see",1917,"Mensch",
   "produktionsverhaltnisse; produktivkrafte"
  ],
  ["produktiv/reproduktiv","Traum","II","10","1465ff.","ref",3225,"Traum","produktiv/reproduktiv"],
@@ -1508,28 +1577,32 @@ HWPH.put("r/70-72",
   "produktive einbildungskraft"
  ],
  [
-  "produktive Einbildungskraft","Produktion I (nat.)","","7","1421f.","ref",2469,
+  "produktive Einbildungskraft","Produktion","I (nat.)","7","1421f.","ref",2469,
   "Produktion, Produktivität","produktive einbildungskraft"
  ],
  [
-  "produktive Einbildungskraft","Produktion III (ästh.)","","7","1432f.","ref",2469,
+  "produktive Einbildungskraft","Produktion","III (ästh.)","7","1432f.","ref",2469,
   "Produktion, Produktivität","produktive einbildungskraft"
  ],
- ["Produktivität","Produktion Produktivkräfte","",null,null,"ref",null,null,"produktivitat"],
+ ["Produktivität","Produktion","",null,null,"ref",2469,"Produktion, Produktivität","produktivitat"],
  [
-  "Produktionsverhältnisse; Produktivkräfte","Produktionsverhältnisse; Produktivkräfte","",null,null,
-  "main",2470,"Produktionsverhältnisse/Produktivkräfte","produktionsverhaltnisse; produktivkrafte"
+  "Produktivkräfte","Produktionsverhältnisse; Produktivkräfte","",null,null,"ref",2470,
+  "Produktionsverhältnisse/Produktivkräfte","produktivkrafte"
  ],
  [
-  "Produktionsverhältnisse; Produktivkräfte","Gesellschaft, industrielle","","3","475","ref",1102,
-  "Gesellschaft, industrielle","produktionsverhaltnisse; produktivkrafte"
+  "Produktivkräfte","Gesellschaft, industrielle","","3","475","ref",1102,
+  "Gesellschaft, industrielle","produktivkrafte"
  ],
  ["Produzieren","Setzen","I","9","701","ref",2876,"Setzen, Setzung","produzieren"],
  ["Profan","Profan","","7","1442–1446","main",2471,"Profan, das Profane, Profanität","profan"],
  ["Profan","Heilig; Heiligkeit","",null,null,"see",1239,"Heilig, Heiligkeit","profan"],
  ["Profan","Verweltlichung","",null,null,"see",3453,"Verweltlichung","profan"],
  ["profanare","Profan","","7","1442f.","ref",2471,"Profan, das Profane, Profanität","profanare"],
- ["Profanität","Profan professor","",null,null,"ref",null,null,"profanitat"],
+ ["Profanität","Profan","",null,null,"ref",2471,"Profan, das Profane, Profanität","profanitat"],
+ [
+  "professor","Medizin","I","5","973","ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "professor"
+ ],
  [
   "Professorenphilosophie","Neukantianismus","","6","748","ref",2119,"Neukantianismus",
   "professorenphilosophie"
@@ -1540,7 +1613,10 @@ HWPH.put("r/70-72",
  ],
  ["Profit","Mehrwert","",null,null,"ref",1910,"Mehrwert","profit"],
  ["Profundität","Totalität","II","10","1303","ref",3209,"Totalität","profunditat"],
- ["profunditas","Tiefe Prognose","",null,null,"ref",null,null,"profunditas"],
+ ["profunditas","Tiefe","",null,null,"ref",3190,"Tiefe; Tiefsinn","profunditas"],
+ ["Prognose","Voraussage","",null,null,"ref",3487,"Voraussage; Vorhersage; Prognose","prognose"],
+ ["Prognose","Abhängigkeit","","1","6","ref",23,"Abhängigkeit (Dependenz)","prognose"],
+ ["Prognose","Prophetie","III","7","1480","ref",2482,"Prophetie","prognose"],
  [
   "Prognose, soziologische","Voraussage","","11","1157","ref",3487,
   "Voraussage; Vorhersage; Prognose","prognose, soziologische"
@@ -1598,7 +1674,7 @@ HWPH.put("r/70-72",
  ],
  ["Projektion","Wahn","","12","31","ref",3520,"Wahn","projektion"],
  ["Projektion","Wille","III A","12","787","ref",3620,"Wille","projektion"],
- ["projet","Dialektik","IV",null,null,"ref",583,"Dialektik","projet"],
+ ["projet","Dialektik","IV 7. 1","2","218","ref",583,"Dialektik","projet"],
  ["projet d'être","Wahl","","12","22","ref",3517,"Wahl","projet d'etre"],
  ["Prolepsis","Antizipation","I (erk.)",null,null,"ref",193,"Antizipation","prolepsis"],
  ["Prolepsis","Wiederholung","","12","741","ref",3616,"Wiederholung","prolepsis"],
@@ -1639,8 +1715,8 @@ HWPH.put("r/70-72",
  ["promulgatio","Gesetz, moralisches","","3","516","ref",1107,"Gesetz, moralisches","promulgatio"],
  ["pronitas","Neigung","",null,null,"ref",2106,"Neigung","pronitas"],
  ["prononcer","Urteil","II 2","11","440","ref",3355,"Urteil","prononcer"],
- ["pronostic","Voraussage pronuntiatio","",null,null,"ref",null,null,"pronostic"],
- ["Proposition","Proposition","","7","1509","main",2484,"Proposition","proposition"],
+ ["pronostic","Voraussage","",null,null,"ref",3487,"Voraussage; Vorhersage; Prognose","pronostic"],
+ ["pronuntiatio","Proposition","","7","1509","ref",2484,"Proposition","pronuntiatio"],
  [
   "proof, burden of","Verteilung der Beweislast","",null,null,"ref",3443,"Verteilung der Beweislast",
   "proof, burden of"
@@ -1695,7 +1771,12 @@ HWPH.put("r/70-72",
  ["proportio","Analogie","",null,null,"ref",123,"Analogie","proportio"],
  ["proportio","Proportion","",null,null,"ref",2483,"Proportion","proportio"],
  ["proportio","Ordnung","II","6","1266","ref",2233,"Ordnung","proportio"],
- ["proportio divina","Schöne","",null,null,"ref",2776,"Schöne","proportio divina"],
+ ["proportio divina","Schöne, das","III","8","1358","ref",2776,"Schöne","proportio divina"],
+ ["Proportion","Proportion","","7","1482–1508","main",2483,"Proportion","proportion"],
+ ["Proportion","Analogie","",null,null,"see",123,"Analogie","proportion"],
+ ["Proportion","Figur","II (ästh.)",null,null,"see",916,"Figur","proportion"],
+ ["Proportion","Mass","II (ästh.)",null,null,"see",1877,"Maß","proportion"],
+ ["Proportion","Schnitt","",null,null,"see",2774,"Schnitt, Goldener","proportion"],
  ["proportionalitas","Analogie","I (allg.)","1","220","ref",123,"Analogie","proportionalitas"],
  ["proportionalitas","Proportion","III A","7","1494","ref",2483,"Proportion","proportionalitas"],
  [
@@ -1740,11 +1821,22 @@ HWPH.put("r/70-72",
  ],
  ["propositio mentalis","Terminus","","10","1015","ref",3153,"Terminus","propositio mentalis"],
  ["propositio mentalis","Wissen","II","12","873","ref",3634,"Wissen","propositio mentalis"],
- ["propositio mentalis","Wort","",null,null,"ref",3656,"Wort","propositio mentalis"],
+ [
+  "propositio mentalis","Wort, inneres","","12","1039","ref",3657,"Wort, inneres; Rede, innere",
+  "propositio mentalis"
+ ],
+ [
+  "propositio per se nota","Per se notum","",null,null,"ref",2315,"Per se notum",
+  "propositio per se nota"
+ ],
  ["propositio prima","Prinzip","III 2","7","1358","ref",2458,"Prinzip","propositio prima"],
  [
-  "propositio subalterna","Subalternation propositio superabnegativa","",null,null,"ref",null,null,
-  "propositio subalterna"
+  "propositio subalterna","Subalternation","",null,null,"ref",3046,
+  "Subalternation; Subalternationsschluß","propositio subalterna"
+ ],
+ [
+  "propositio superabnegativa","Enthymem","","2","532","ref",749,"Enthymem",
+  "propositio superabnegativa"
  ],
  ["propositio vaga","Spielraum","","9","1391","ref",2974,"Spielraum","propositio vaga"],
  ["propositio vaga","Vagheit","","11","535","ref",3370,"Vagheit; vage","propositio vaga"],
@@ -1768,7 +1860,7 @@ HWPH.put("r/70-72",
   "Undurchsichtigkeit","propositionale einstellung"
  ],
  [
-  "propositionale Einstellung","Rationalität III (analyt. Philos.)","","8","64","ref",2576,
+  "propositionale Einstellung","Rationalität","III (analyt. Philos.)","8","64","ref",2576,
   "Rationalität, Rationalisierung","propositionale einstellung"
  ],
  [
@@ -1832,7 +1924,8 @@ HWPH.put("r/70-72",
   "propter quid/quia","Apriori/aposteriori","I","1","463","ref",221,"A priori/a posteriori",
   "propter quid/quia"
  ],
- ["Prosodie","Irrtum","(Schlussfehler)","4","609","ref",1500,"Irrtum (Schlußfehler)","prosodie"],
+ ["Prosodie","Irrtum (Schlussfehler)","","4","609","ref",1500,"Irrtum (Schlußfehler)","prosodie"],
+ ["prospect","Sehen","II","9","146","ref",2802,"Sehen","prospect"],
  ["prospect beyond the grave","Seele","IV","9","35","ref",2794,"Seele","prospect beyond the grave"],
  [
   "Prospektive Bedeutung/Potenz","Prospektive Bedeutung/Potenz","","7","1527","main",2486,
@@ -1854,13 +1947,23 @@ HWPH.put("r/70-72",
   "Prospektive Bedeutung/Potenz","Zelle","",null,null,"see",3681,"Zelle",
   "prospektive bedeutung/potenz"
  ],
- ["prospettiva","Perspektive I (allg.) προσφυὴς ψυχή","",null,null,"ref",null,null,"prospettiva"],
+ [
+  "prospettiva","Perspektive","I (allg.)",null,null,"ref",2326,
+  "Perspektive, Perspektivismus, perspektivisch","prospettiva"
+ ],
  [
   "Prosyllogismus","Episyllogismus/Prosyllogismus","",null,null,"ref",777,
   "Episyllogismus/Prosyllogismus","prosyllogismus"
  ],
  ["Protasis","Protasis","","7","1528","main",2487,"Protasis","protasis"],
  ["Protasis","Prämisse","",null,null,"see",2441,"Prämisse","protasis"],
+ ["Protention","Protention","(Husserl)","7","1528f.","main",2488,"Protention","protention"],
+ [
+  "Protention","Gegenwart, lebendige","(Husserl)",null,null,"see",1024,"Gegenwart, lebendige",
+  "protention"
+ ],
+ ["Protention","Retention","(Husserl)",null,null,"see",2699,"Retention","protention"],
+ ["Protention","Urimpression","(Husserl)",null,null,"see",3343,"Urimpression","protention"],
  ["Proteron","Hysteron/Proteron","",null,null,"ref",1333,"Hysteron/Proteron","proteron"],
  ["Protest","Ungehorsam, ziviler","",null,null,"ref",3295,"Ungehorsam, ziviler","protest"],
  [
@@ -1916,7 +2019,8 @@ HWPH.put("r/70-72",
  ],
  ["Protophysik","Protophysik","","7","1538–1540","main",2495,"Protophysik","protophysik"],
  ["Protophysik","Ideation","",null,null,"see",1359,"Ideation","protophysik"],
- ["Protophysik","Messprozess Protophysik","",null,null,"see",null,null,"protophysik"],
+ ["Protophysik","Messprozess","",null,null,"see",1936,"Meßprozeß","protophysik"],
+ ["Protophysik","Konstruktion","IV","4","1017","ref",1631,"Konstruktion","protophysik"],
  ["Protoplasma","Zelle","","12","1278f.","ref",3681,"Zelle","protoplasma"],
  ["Protoplast","Protoplast","","7","1540","main",2496,"Protoplast","protoplast"],
  ["Protoplast","Zelle","",null,null,"see",3681,"Zelle","protoplast"],
@@ -1929,9 +2033,10 @@ HWPH.put("r/70-72",
  ["Prototyp","Urpflanze","(Goethe)",null,null,"ref",3348,"Urpflanze","prototyp"],
  ["Prototyp","Typos; Typologie","I (theol.)","10","1587","ref",3244,"Typos; Typologie","prototyp"],
  [
-  "Protowissenschaft/Metawissenschaft","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "Protowissenschaft/Metawissenschaft","Philosophie","IV K","7","789","ref",2353,"Philosophie",
   "protowissenschaft/metawissenschaft"
  ],
+ ["Protozoa","Metazoa","(Haeckel)",null,null,"ref",1953,"Metazoa","protozoa"],
  ["Protreptik","Protreptik","","7","1540f.","main",2497,"Protreptik","protreptik"],
  ["Protreptik","Überreden; Überzeugen","",null,null,"see",3262,"Überreden; Überzeugen","protreptik"],
  ["Proudhonismus","Marxismus","I","5","759","ref",1871,"Marxismus","proudhonismus"],
@@ -1950,19 +2055,26 @@ HWPH.put("r/70-72",
  ["Prozeduralismus","Verfahren","","11","633","ref",3396,"Verfahren","prozeduralismus"],
  ["Prozess","Prozess","","7","1543–1562","main",2499,"Prozeß","prozess"],
  ["Prozess","Entwicklung","I (allg.)",null,null,"see",759,"Entwicklung","prozess"],
+ ["Prozess","Werden/Vergehen","",null,null,"see",3585,"Werden/Vergehen","prozess"],
+ ["Prozess","Pathologie","III",null,null,"see",2292,"Pathologie","prozess"],
+ ["Prozess","Psychopathologie","",null,null,"see",2526,"Psychopathologie","prozess"],
+ ["Prozess","Schizophrenie","",null,null,"see",2765,"Schizophrenie","prozess"],
  ["Prozess","Gesetz","III (wiss.)","3","507","ref",1105,"Gesetz","prozess"],
  ["Prozess (phys.)","Ursache/Wirkung","V","11","406","ref",3350,"Ursache/Wirkung","prozess (phys.)"],
- ["Prozess, absoluter","Prozess I 3 (hist.)","","7","1550","ref",2499,"Prozeß","prozess, absoluter"],
+ ["Prozess, absoluter","Prozess","I 3 (hist.)","7","1550","ref",2499,"Prozeß","prozess, absoluter"],
  ["Prozess, chemischer","Chemismus","","1","1000","ref",491,"Chemismus","prozess, chemischer"],
  [
   "Prozess, dialektischer","Dialektik","IV 3","2","205f.","ref",583,"Dialektik",
   "prozess, dialektischer"
  ],
  [
-  "Prozess, kognitiver","Kognition Prozess, psychischer","",null,null,"ref",null,null,
+  "Prozess, kognitiver","Kognition","",null,null,"ref",1578,"Kognition, kognitiv",
   "prozess, kognitiver"
  ],
- ["Prozess I 4 (nat.)","Prozess I 4 (nat.)","","7","1554","main",2499,"Prozeß","prozess i 4 (nat.)"],
+ [
+  "Prozess, psychischer","Prozess","I 4 (nat.)","7","1554","ref",2499,"Prozeß",
+  "prozess, psychischer"
+ ],
  [
   "Prozess, restitutiver","Kompensation","","4","914","ref",1597,"Kompensation",
   "prozess, restitutiver"
@@ -1971,8 +2083,9 @@ HWPH.put("r/70-72",
   "Prozesstheologie","Prozesstheologie","","7","1562–1565","main",2500,"Prozeßtheologie",
   "prozesstheologie"
  ],
+ ["Prozesstheologie","Prozess","II (Whitehead)",null,null,"see",2499,"Prozeß","prozesstheologie"],
  [
-  "Prozesstheologie","Prozess II (Whitehead) Prozesstheologie","",null,null,"see",null,null,
+  "Prozesstheologie","Unveränderlichkeit Gottes","",null,null,"ref",3330,"Unveränderlichkeit Gottes",
   "prozesstheologie"
  ],
  ["prudence","Klugheit","",null,null,"ref",1575,"Klugheit","prudence"],
@@ -2006,82 +2119,8 @@ HWPH.put("r/70-72",
  ["Prüfung","Kritik","II","4","1274","ref",1694,"Kritik","prufung"],
  ["Prüfung","Urteil","I (rhet.)","11","434","ref",3355,"Urteil","prufung"],
  ["Prüfung des Wissens","Erfahrung","","2","616","ref",786,"Erfahrung","prufung des wissens"],
- [
-  "primäres/sekundäres (Reininger)","Sekundärvorgang","","9","288–291","ref",2818,"Sekte",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Primärvorgang","",null,null,"see",2452,"Primärvorgang",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Realitätsprinzip","",null,null,"see",2594,"Realitätsprinzip",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Persönlichkeit","I (allg.)",null,null,"ref",2322,
-  "Persönlichkeit","primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Apperzeption","","1","449","ref",212,"Apperzeption",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Dasein","","2","18","ref",527,"Dasein",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Geist","VII","3","186ff.","ref",1030,"Geist",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Gesetz, moralisches","","3","522","ref",1107,
-  "Gesetz, moralisches","primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Handlungshemmung","(Gehlen)","3","997","ref",1222,
-  "Handlungshemmung","primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Individuum; Individualität","III","4","313","ref",1424,
-  "Individuum, Individualität","primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Perzeption","","7","384","ref",2329,"Perzeption",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Phänomenologie, transzendentale","","7","510","ref",2347,
-  "Phänomenologie, transzendentale","primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Religion","VII","8","680","ref",2673,"Religion",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Seele","IV","9","41","ref",2794,"Seele",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Sittlichkeit; Sittenlehre","","9","912","ref",2903,
-  "Sittlichkeit; Sittenlehre","primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Spontaneität","","9","1432","ref",2982,"Spontaneität",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Verdopplung","","11","614f.","ref",3392,"Verdopplung",
-  "primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Vergänglichkeit","","11","661","ref",3401,
-  "Vergänglichkeit; Vergehen","primares/sekundares (reininger)"
- ],
- [
-  "primäres/sekundäres (Reininger)","Idealismus, monistischer","(Reininger)","4","40","ref",1350,
-  "Idealismus, monistischer","primares/sekundares (reininger)"
- ],
+ ["Proportion","Proportion","IV (ästh )",null,null,"main",2483,"Proportion","proportion"],
+ ["Proportion","Schöne","",null,null,"ref",2776,"Schöne","proportion"],
  ["Preisendanz Karin","Vaiśes.ika","","11","540–542","author",3371,"Vaisesika","preisendanz karin"],
  ["Preisendanz Wolfgang","Humor","","3","1232–1234","author",1317,"Humor","preisendanz wolfgang"],
  [
@@ -2091,7 +2130,7 @@ HWPH.put("r/70-72",
  ["Preuss Ulrich K","Verfassung","","11","636–643","author",3398,"Verfassung","preuss ulrich k"],
  ["Primavesi Oliver","Topik","I","10","1263–1269","author",3203,"Topik; Topos","primavesi oliver"],
  [
-  "Prinz Wolfgang","Erkenntnis II (psych.)","","2","662–681","author",796,"Erkennen, Erkenntnis",
+  "Prinz Wolfgang","Erkenntnis","II (psych.)","2","662–681","author",796,"Erkennen, Erkenntnis",
   "prinz wolfgang"
  ],
  [
@@ -2112,7 +2151,7 @@ HWPH.put("r/70-72",
   "probst peter"
  ],
  ["Probst Peter","Bewandtnis","(Heidegger)","1","863","author",406,"Bewandtnis","probst peter"],
- ["Probst Peter","Da (Heidegger)","","2","1","author",516,"Da","probst peter"],
+ ["Probst Peter","Da","(Heidegger)","2","1","author",516,"Da","probst peter"],
  [
   "Probst Peter","Differenz, ontologische","(Heidegger)","2","236f.","author",595,
   "Differenz, ontologische","probst peter"
@@ -2131,13 +2170,13 @@ HWPH.put("r/70-72",
   "Fundamentalontologie","probst peter"
  ],
  ["Probst Peter","Gefühlsdrang","(Scheler)","3","99","author",1012,"Gefühlsdrang","probst peter"],
- ["Probst Peter","Gestell (Heidegger)","","3","552","author",1123,"Gestirn, Sterne","probst peter"],
+ ["Probst Peter","Gestell","(Heidegger)","3","552","author",1123,"Gestirn, Sterne","probst peter"],
  ["Probst Peter","Gewesenheit","(Heidegger)","3","574","author",1129,"Gewesenheit","probst peter"],
  [
   "Probst Peter","Gleichursprünglich","(Heidegger)","3","674","author",1150,"Gleichursprünglich",
   "probst peter"
  ],
- ["Probst Peter","Instinktreduktion (Gehlen)","","4","417f.","author",1453,"Instinkt","probst peter"],
+ ["Probst Peter","Instinktreduktion","(Gehlen)","4","417f.","author",1453,"Instinkt","probst peter"],
  [
   "Probst Peter","Intelligenz, praktische","(Scheler)","4","461","author",1465,
   "Intelligenz, praktische","probst peter"
@@ -2152,7 +2191,7 @@ HWPH.put("r/70-72",
   "Probst Peter","Logik des Scheins","(Kant)","5","461f.","author",1818,"Logik des Scheins",
   "probst peter"
  ],
- ["Probst Peter","Man","",null,null,"author",1853,"Man","probst peter"],
+ ["Probst Peter","Man, das","(Heidegger)","5","706f.","author",1852,"Malum","probst peter"],
  [
   "Probst Peter","Medizin","IV","5","992–1002","author",1906,
   "Medizin, Heilkunst, Medizinphilosophie","probst peter"
@@ -2162,11 +2201,11 @@ HWPH.put("r/70-72",
  ["Probst Peter","Naiv; Naivität","","6","359–362","author",2063,"Naiv, Naivität","probst peter"],
  ["Probst Peter","Neugierde","II","6","736f.","author",2117,"Neugierde","probst peter"],
  [
-  "Probst Peter","Organprimitivismen","(Gehlen)","6","1369–1371","author",2247,"Organonmodell",
+  "Probst Peter","Organprimitivismen","(Gehlen)","6","1369–1371","author",2248,"Organprimitivismen",
   "probst peter"
  ],
  [
-  "Probst Peter","Paradox I (rhet.)","","7","81–90","author",2270,"Paradox, Paradox(e), Paradoxie",
+  "Probst Peter","Paradox","I (rhet.)","7","81–90","author",2270,"Paradox, Paradox(e), Paradoxie",
   "probst peter"
  ],
  ["Probst Peter","Parontologie","(Becker)","7","130","author",2278,"Parontologie","probst peter"],

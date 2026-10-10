@@ -17,10 +17,7 @@ HWPH.put("a/232",
  "next":{"id":233,"lemma":"Arbeitsteilung","band":"1","col":489},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"– II (Weber) 7 1717f. s. auch","qualifier":"(Weber)","band":null,"col":null},
-  {"term":"– III (Weber) 1 541–543 s. auch","qualifier":"(Weber)","band":null,"col":null}
- ],
+ "register":[],
  "persons":[{"id":60,"name":"M. Weber","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[
   {"id":3575,"lemma":"Weltreligion(en)","tf":2},

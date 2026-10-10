@@ -31,10 +31,7 @@ HWPH.put("a/1432",
   {"id":1433,"lemma":"Informationstheorie","n":2},
   {"id":2865,"lemma":"Semiotik, Semiologie","n":1}
  ],
- "register":[
-  {"term":"Mitteilung","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 1 984–991 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Mitteilung","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":8,"name":"Cicero","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":15,"name":"R. Descartes","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -1,9 +1,10 @@
 HWPH.put("r/68-61",
 [
- ["Haus","Haus","I","3","1016","main",1229,"Haus","haus"],
  ["Habe; Haben","Habe; Haben","","3","981–983","main",1207,"Habe, Haben","habe; haben"],
  ["Habe; Haben","Gewohnheit","",null,null,"see",1132,"Gewohnheit","habe; haben"],
- ["Habe; Haben","Hexis; habitus Habgier","",null,null,"see",null,null,"habe; haben"],
+ ["Habe; Haben","Hexis; habitus","",null,null,"see",null,null,"habe; haben"],
+ ["Habgier","Mehrhabenwollen","",null,null,"ref",1908,"Mehrhabenwollen","habgier"],
+ ["Habgier","Selbstliebe","I","9","466","ref",2840,"Selbstliebe","habgier"],
  ["habit","Gewohnheit","",null,null,"ref",1132,"Gewohnheit","habit"],
  ["habit","Verhalten","","11","684","ref",3406,"Verhalten","habit"],
  ["habit pattern","Bedürfnis","II","1","770","ref",355,"Bedürfnis","habit pattern"],
@@ -56,9 +57,20 @@ HWPH.put("r/68-61",
  ["Hackordnung","Hackordnung","","3","984f.","main",1209,"Hackordnung","hackordnung"],
  ["Haecceitas","Haecceitas","","3","985f.","main",1210,"Haecceitas","haecceitas"],
  [
-  "Haecceitas","Individuum; Individualität haecceitas","",null,null,"see",1424,
-  "Individuum, Individualität","haecceitas"
+  "Haecceitas","Individuum; Individualität","",null,null,"see",1424,"Individuum, Individualität",
+  "haecceitas"
  ],
+ [
+  "haecceitas","Erstheit; Zweitheit; Drittheit","(Peirce)","2","729","ref",817,
+  "Erstheit, Zweitheit, Drittheit","haecceitas"
+ ],
+ ["haecceitas","Form und Materie","","2","1009","ref",939,"Form und Materie (Stoff)","haecceitas"],
+ [
+  "haecceitas","Individuation","","4","297","ref",1420,"Individuation, Individuationsprinzip",
+  "haecceitas"
+ ],
+ ["haecceitas","Materie","II","5","898","ref",1892,"Materie","haecceitas"],
+ ["haecceitas","Realitas","","8","179","ref",2589,"Realitas","haecceitas"],
  ["Häkchen","Kohäsion; Kohärenz","","4","878","ref",1580,"Kohäsion, Kohärenz","hakchen"],
  ["Häresie","Häresie","","3","999–1001","main",1225,"Häresie","haresie"],
  ["Häresie","Fall; Abfall","",null,null,"see",890,"Fall, Abfall","haresie"],
@@ -71,7 +83,11 @@ HWPH.put("r/68-61",
  ["Häretiker","Toleranz","","10","1252","ref",3201,"Toleranz","haretiker"],
  ["Härte","Widerstand","I (nat.)","12","705","ref",3610,"Widerstand","harte"],
  ["Hässliche, das","Hässliche, das","","3","1003–1007","main",1228,"Häßliche (das)","hassliche, das"],
- ["Hässliche, das","Groteske","",null,null,"see",1190,"Groteske","hassliche, das"],
+ ["Hässliche, das","Groteske, das","",null,null,"see",1190,"Groteske","hassliche, das"],
+ ["Hässliche, das","Karikatur","",null,null,"see",1531,"Karikatur","hassliche, das"],
+ ["Hässliche, das","Obszön","",null,null,"see",2196,"Obszön","hassliche, das"],
+ ["Hässliche, das","Schreckliche, das","",null,null,"see",2780,"Schreckliche","hassliche, das"],
+ ["Häufigkeit","Wahrscheinlichkeit","",null,null,"ref",3540,"Wahrscheinlichkeit","haufigkeit"],
  ["Häufungspunkt","Topologie","","10","1290","ref",3205,"Topologie","haufungspunkt"],
  ["Haftbarkeit","Verantwortung","II","11","570","ref",3380,"Verantwortung","haftbarkeit"],
  ["Haftung","Rechtspflicht","","8","312","ref",2613,"Rechtspflicht","haftung"],
@@ -92,7 +108,7 @@ HWPH.put("r/68-61",
   "Halbintuitionismus","Grundlagenstreit","","3","913","ref",1193,"Grundlagenstreit",
   "halbintuitionismus"
  ],
- ["Halbmodell","Modell","",null,null,"ref",1999,"Modell","halbmodell"],
+ ["Halbmodell","Modell; Modelltheorie","I (log.)","6","50","ref",1999,"Modell","halbmodell"],
  ["Halkyonisch","Halkyonisch","","3","988f.","main",1214,"Halkyonisch","halkyonisch"],
  ["hallucination vraie","Täuschung","","10","929","ref",3135,"Täuschung","hallucination vraie"],
  ["Halluzination","Halluzination","","3","989f.","main",1215,"Halluzination","halluzination"],
@@ -151,7 +167,7 @@ HWPH.put("r/68-61",
  ["Handeln","Denken","I","2","99","ref",552,"Denken","handeln"],
  ["Handeln","Methode","V 3","5","1330f.","ref",1955,"Methode","handeln"],
  ["Handeln","Operation","","6","1211f.","ref",2226,"Operation","handeln"],
- ["Handeln","Produktion III (ästh.)","","7","1437","ref",2469,"Produktion, Produktivität","handeln"],
+ ["Handeln","Produktion","III (ästh.)","7","1437","ref",2469,"Produktion, Produktivität","handeln"],
  ["Handeln","Ursache/Wirkung","V","11","404f.","ref",3350,"Ursache/Wirkung","handeln"],
  ["Handeln","Verhalten","","11","685ff.","ref",3406,"Verhalten","handeln"],
  [
@@ -182,7 +198,7 @@ HWPH.put("r/68-61",
   "Handeln, korporatives","Verantwortung","II","11","573","ref",3380,"Verantwortung",
   "handeln, korporatives"
  ],
- ["Handeln, moralisches","Lohn I 2","",null,null,"ref",1828,"Lohn, Verdienst","handeln, moralisches"],
+ ["Handeln, moralisches","Lohn","I 2",null,null,"ref",1828,"Lohn, Verdienst","handeln, moralisches"],
  [
   "Handeln, moralisches","Sein, moralisches","","9","239f.","ref",2808,"Sein, moralisches",
   "handeln, moralisches"
@@ -196,9 +212,10 @@ HWPH.put("r/68-61",
   "handeln, rationales"
  ],
  [
-  "Handeln, rationales","Rationalität II (ökon.) Handeln, reinigendes","",null,null,"ref",null,null,
-  "handeln, rationales"
+  "Handeln, rationales","Rationalität","II (ökon.)",null,null,"ref",2576,
+  "Rationalität, Rationalisierung","handeln, rationales"
  ],
+ ["Handeln, reinigendes","Strafe","III 7","10","244","ref",3035,"Strafe","handeln, reinigendes"],
  [
   "Handeln, relativ rationales","Religion","VIII 7","8","694","ref",2673,"Religion",
   "handeln, relativ rationales"
@@ -218,7 +235,7 @@ HWPH.put("r/68-61",
  ],
  ["Handeln, soziales","Idealtypus","(Weber)",null,null,"see",1357,"Idealtypus","handeln, soziales"],
  [
-  "Handeln, soziales","Rationalität II (ökon.)","",null,null,"see",2576,
+  "Handeln, soziales","Rationalität","II (ökon.)",null,null,"see",2576,
   "Rationalität, Rationalisierung","handeln, soziales"
  ],
  [
@@ -295,9 +312,10 @@ HWPH.put("r/68-61",
  ["Handlungskette","Handlungskette","","3","998","main",1223,"Handlungskette","handlungskette"],
  ["Handlungsprinzip","Prohairesis","",null,null,"ref",2474,"Prohairesis","handlungsprinzip"],
  [
-  "Handlungsrationalität","Rationalität III (analyt. Philos.) Handlungsregeln","",null,null,"ref",
-  null,null,"handlungsrationalitat"
+  "Handlungsrationalität","Rationalität","III (analyt. Philos.)",null,null,"ref",2576,
+  "Rationalität, Rationalisierung","handlungsrationalitat"
  ],
+ ["Handlungsregeln","Regel","II (eth.)",null,null,"ref",2640,"Regel","handlungsregeln"],
  ["Handlungssätze","Logik, deontische","","5","386","ref",1804,"Logik, deontische","handlungssatze"],
  [
   "Handlungssteuerung","Steuerung","II (psych.)","10","147f.","ref",3023,"Steuerung",
@@ -338,7 +356,8 @@ HWPH.put("r/68-61",
  ["Harmonie","Übereinstimmung","",null,null,"see",3251,"Übereinstimmung","harmonie"],
  ["Harmonie","Idylle","","4","195","ref",1380,"Idylle","harmonie"],
  ["Harmonie","Musik","","6","243","ref",2043,"Musik","harmonie"],
- ["Harmonie","Schöne","",null,null,"ref",2776,"Schöne","harmonie"],
+ ["Harmonie","Schöne, das","II","8","1351","ref",2776,"Schöne","harmonie"],
+ ["Harmonie","Vielheit","I","11","1047","ref",3462,"Vielheit","harmonie"],
  [
   "Harmonie, objektive","Wahrheit, objektive","","12","158","ref",3531,"Wahrheit, objektive",
   "harmonie, objektive"
@@ -390,10 +409,10 @@ HWPH.put("r/68-61",
  ],
  ["Haupt-Punkt","Skopus","","9","986","ref",2910,"Skopus","haupt-punkt"],
  ["Hauptsatz","Thema","III (lit.)","10","1063","ref",3165,"Thema","hauptsatz"],
- ["Hauptwiderspruch","Dialektik","IV",null,null,"ref",583,"Dialektik","hauptwiderspruch"],
+ ["Hauptwiderspruch","Dialektik","IV 5. 7","2","213","ref",583,"Dialektik","hauptwiderspruch"],
  ["Hauptwiderspruch","Widerspruch","","12","696","ref",3607,"Widerspruch","hauptwiderspruch"],
  ["Haus","Haus","","3","1007–1020","main",1229,"Haus","haus"],
- ["Haus","Despotie I (allg.)","",null,null,"see",571,"Despotie, Despotismus","haus"],
+ ["Haus","Despotie","I (allg.)",null,null,"see",571,"Despotie, Despotismus","haus"],
  ["Haus","Gesellschaft, bürgerliche","",null,null,"see",1100,"Gesellschaft, bürgerliche","haus"],
  ["Haus","Haushalt","",null,null,"see",1230,"Haushalt","haus"],
  ["Haus","Ökonomie","I (ökon.)",null,null,"see",2210,"Ökonomie","haus"],
@@ -413,7 +432,17 @@ HWPH.put("r/68-61",
  ],
  ["Hayathologie","Hayathologie","(Hartshorne)","3","1022","main",1231,"Hayathologie","hayathologie"],
  ["hayūla","Materie","II",null,null,"ref",1892,"Materie","hayula"],
- ["Halo","Halo","","3","990","main",1216,"Halo","halo"],
+ ["Häresie","Häresie","",null,null,"main",1225,"Häresie","haresie"],
+ ["Haltung","Haltung","","3","990","main",1217,"Haltung","haltung"],
+ [
+  "Haltung","Imperativ, kategorischer","IV 2","4","254","ref",1395,
+  "Imperative, kategorischer Imperativ","haltung"
+ ],
+ [
+  "Haltung","Passivität; passive Synthesis","","7","167","ref",2288,"Passivität, passive Synthesis",
+  "haltung"
+ ],
+ ["Haltung","Text","","10","1042","ref",3158,"Text","haltung"],
  [
   "Haardt Alexander","Wahrheit (Pravda/Istina)","","12","133–135","author",3525,
   "Wahrheit (Pravda/Istina)","haardt alexander"
@@ -682,7 +711,10 @@ HWPH.put("r/68-61",
   "Hartung Gerald","Vertrag","II (soz./pol.)","11","965–979","author",3445,"Vertrag",
   "hartung gerald"
  ],
- ["Hasenhüttl Gotthold","Theologie","",null,null,"author",3169,"Theologie","hasenhuttl gotthold"],
+ [
+  "Hasenhüttl Gotthold","Theologie der Befreiung","","10","1095–1098","author",3169,"Theologie",
+  "hasenhuttl gotthold"
+ ],
  ["Hasenjaeger Gisbert","Definierbar","","2","29f.","author",533,"Definierbar","hasenjaeger gisbert"],
  [
   "Hasenjaeger Gisbert","Kategorientheorie","","4","783","author",1543,"Kategorientheorie",
@@ -692,7 +724,10 @@ HWPH.put("r/68-61",
   "Hasenjaeger Gisbert","Kategorisch; monomorph","","4","784","author",1546,"Katharsis",
   "hasenjaeger gisbert"
  ],
- ["Hasenjaeger Gisbert","Modell","",null,null,"author",1999,"Modell","hasenjaeger gisbert"],
+ [
+  "Hasenjaeger Gisbert","Modell; Modelltheorie","I (log.)","6","50–52","author",1999,"Modell",
+  "hasenjaeger gisbert"
+ ],
  [
   "Hasenjaeger Gisbert","Sortenlogik","","9","1099f.","author",2930,"Sortenlogik",
   "hasenjaeger gisbert"

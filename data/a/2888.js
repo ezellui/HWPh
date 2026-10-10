@@ -41,7 +41,6 @@ HWPH.put("a/2888",
   {"id":2010,"lemma":"Monade, Monas","n":1}
  ],
  "register":[
-  {"term":"Allgemeines/Besonderes","qualifier":"","band":null,"col":null},
   {"term":"dividuum","qualifier":"I (met.)","band":"9","col":"799"},
   {"term":"Einheit","qualifier":"I (met.)","band":"9","col":"800"},
   {"term":"Einzelding","qualifier":"I (met.)","band":null,"col":null},
@@ -59,10 +58,10 @@ HWPH.put("a/2888",
   {"term":"Unterscheidbarkeit","qualifier":"I (met.)","band":"9","col":"799"},
   {"term":"Urknall","qualifier":"II (phys.)","band":"9","col":"806"},
   {"term":"ἀτομον","qualifier":"","band":null,"col":null},
+  {"term":"καθ' ἕκαστον","qualifier":"","band":null,"col":null},
   {"term":"κατὰμέρος","qualifier":"","band":null,"col":null},
   {"term":"μονάς","qualifier":"I (met.)","band":"9","col":"800"},
-  {"term":"μονότης","qualifier":"I (met.)","band":"9","col":"800"},
-  {"term":"– I (met.) 9 798–804 s. auch","qualifier":"","band":"9","col":"804–808"}
+  {"term":"μονότης","qualifier":"I (met.)","band":"9","col":"800"}
  ],
  "persons":[
   {"id":2925,"name":"S. W. Hawking","b":3,"n":3,"l":1,"editor":0,"role":"source"},
@@ -218,7 +217,7 @@ HWPH.put("a/2888",
   {"id":1999,"lemma":"Modell","tf":3},
   {"id":67,"lemma":"Ähnlichkeit","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1424,"lemma":"Individuum, Individualität"},{"id":2672,"lemma":"Relativitätstheorie"}],
  "groups":[
   {"id":26,"name":"Metaphysik","label":"Singulär; Singularität I (met.)"},
   {"id":32,"name":"Physik","label":"Singulär; Singularität II (phys.)"}

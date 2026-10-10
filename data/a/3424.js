@@ -23,12 +23,7 @@ HWPH.put("a/3424",
   {"id":3423,"lemma":"Vernunft; Verstand","n":1}
  ],
  "register":[
-  {
-   "term":"des Geistes/des Lebens (Dilthey) 6 1055 geschichtliche Vernunft",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
+  {"term":"geschichtliche Vernunft","qualifier":"","band":null,"col":null},
   {"term":"historical reason","qualifier":"","band":null,"col":null},
   {"term":"historische Vernunft","qualifier":"","band":null,"col":null},
   {"term":"Selbstzerstörung der Aufklärung","qualifier":"","band":"11","col":"865"},

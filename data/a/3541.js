@@ -34,16 +34,15 @@ HWPH.put("a/3541",
   {"id":3660,"lemma":"Wunderbare, das; Phantastische, das","n":1}
  ],
  "register":[
-  {"term":"ästhetische 12 137–141 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"ästhetische 12 138","qualifier":"","band":"12","col":"305"},
-  {"term":"ästhetische 12 139","qualifier":"","band":"12","col":"305"},
   {"term":"ästhetische Wahrscheinlichkeit","qualifier":"","band":null,"col":null},
-  {"term":"das","qualifier":"","band":null,"col":null},
   {"term":"fiction","qualifier":"","band":"12","col":"304"},
   {"term":"Glaublichkeit","qualifier":"","band":"12","col":"305"},
+  {"term":"poetische Wahrscheinlichkeit","qualifier":"","band":null,"col":null},
   {"term":"seeming truth","qualifier":"","band":"12","col":"304"},
   {"term":"verisimilitudo aesthetica","qualifier":"","band":null,"col":null},
+  {"term":"veritas aesthetica","qualifier":"","band":"12","col":"305"},
   {"term":"vraisemblance","qualifier":"","band":null,"col":null},
+  {"term":"Wahrheit, innere","qualifier":"","band":"12","col":"305"},
   {"term":"Wahrheitsähnlichkeit der Kunst","qualifier":"","band":null,"col":null},
   {"term":"Wunderbare, das","qualifier":"","band":"12","col":"305"}
  ],
@@ -99,6 +98,6 @@ HWPH.put("a/3541",
  ],
  "see_also":[{"id":3523,"lemma":"Wahrheit"}],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Wahrscheinlichkeit (ästhetisch)"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

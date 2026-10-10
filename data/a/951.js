@@ -27,6 +27,6 @@ HWPH.put("a/951",
  "mentions":[{"id":3618,"lemma":"Wiener Kreis","tf":3},{"id":1424,"lemma":"Individuum, Individualität","tf":2}],
  "see_also":[{"id":665,"lemma":"Eigenpsychisch"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Fremdpsychisch (Scheler)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

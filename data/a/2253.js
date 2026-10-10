@@ -40,6 +40,6 @@ HWPH.put("a/2253",
  "mentions":[{"id":526,"lemma":"Darwinismus","tf":3},{"id":2856,"lemma":"Selektion","tf":2}],
  "see_also":[],
  "groups":[{"id":5,"name":"Biologie","label":"Orthogenese"}],
- "reg_authors":[{"name":"Red","n":242},{"name":"Schlüter Gisela","n":6}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Schlüter Gisela","n":6}]
 }
 );

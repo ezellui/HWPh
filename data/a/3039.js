@@ -38,40 +38,36 @@ HWPH.put("a/3039",
   {"id":3133,"lemma":"Tausch","n":1}
  ],
  "register":[
-  {"term":"4","qualifier":"I (allg.)","band":"10","col":"298f."},
   {"term":"certamen","qualifier":"","band":null,"col":null},
   {"term":"concordia discors","qualifier":"I (allg.)","band":"10","col":"298"},
   {"term":"contentio","qualifier":"","band":null,"col":null},
-  {"term":"das III 8 1360f.","qualifier":"I (allg.)","band":"10","col":"297"},
   {"term":"Destruktion","qualifier":"I (allg.)","band":"10","col":"299"},
   {"term":"dialektischer Widerspruch","qualifier":"I (allg.)","band":"10","col":"298"},
   {"term":"discordia","qualifier":"","band":null,"col":null},
   {"term":"Einheit, überindividuelle","qualifier":"II (soz.)","band":"10","col":"302"},
   {"term":"Entbergung/Verbergung","qualifier":"I (allg.)","band":"10","col":"299"},
+  {"term":"Entzweiung","qualifier":"I (allg.)","band":"10","col":"298f."},
   {"term":"Fremde, der","qualifier":"II (soz.)","band":"10","col":"301"},
   {"term":"Füreinander","qualifier":"II (soz.)","band":"10","col":"301"},
   {"term":"Gegeneinander","qualifier":"II (soz.)","band":"10","col":"301"},
   {"term":"Gegenwendige, das","qualifier":"I (allg.)","band":"10","col":"299"},
-  {"term":"Herz","qualifier":"I (allg.)","band":"10","col":"298"},
   {"term":"Kompromiss","qualifier":"II (soz.)","band":"10","col":"302"},
   {"term":"Konfliktsoziologie","qualifier":"II (soz.)","band":"10","col":"302"},
   {"term":"Kosmodizee","qualifier":"I (allg.)","band":"10","col":"299"},
   {"term":"Krieg","qualifier":"I (allg.)","band":"10","col":"297"},
-  {"term":"Malum","qualifier":"I (allg.)","band":"10","col":"298"},
-  {
-   "term":"Negativität II 6 676 Verneinung des anderen",
-   "qualifier":"II (soz.)",
-   "band":"10",
-   "col":"301"
-  },
+  {"term":"Liebe","qualifier":"I (allg.)","band":"10","col":"297"},
   {"term":"Recht/Gewalt","qualifier":"I (allg.)","band":"10","col":"297"},
   {"term":"Repulsion/Attraktion","qualifier":"II (soz.)","band":"10","col":"301"},
   {"term":"social conflict","qualifier":"II (soz.)","band":"10","col":"302"},
   {"term":"strife","qualifier":"","band":null,"col":null},
   {"term":"Tausch","qualifier":"II (soz.)","band":"10","col":"302"},
   {"term":"Unterschiedsempfindlichkeit","qualifier":"II (soz.)","band":"10","col":"301"},
+  {"term":"Ursache des Bösen","qualifier":"I (allg.)","band":"10","col":"298"},
   {"term":"Urstreit","qualifier":"I (allg.)","band":"10","col":"299"},
   {"term":"Vergesellschaftung","qualifier":"II (soz.)","band":null,"col":null},
+  {"term":"Verneinung des anderen","qualifier":"II (soz.)","band":"10","col":"301"},
+  {"term":"Versöhnung","qualifier":"I (allg.)","band":"10","col":"298"},
+  {"term":"Wettstreit","qualifier":"I (allg.)","band":"10","col":"297f."},
   {"term":"Zwietracht","qualifier":"I (allg.)","band":"10","col":"297"},
   {"term":"ἀγών","qualifier":"","band":null,"col":null},
   {"term":"ἔρις","qualifier":"","band":null,"col":null},
@@ -79,9 +75,7 @@ HWPH.put("a/3039",
   {"term":"νε͂ικος","qualifier":"","band":null,"col":null},
   {"term":"σύγχυσις κόσμου","qualifier":"I (allg.)","band":"10","col":"298"},
   {"term":"φιλία","qualifier":"I (allg.)","band":"10","col":"297ff."},
-  {"term":"φιλότης","qualifier":"I (allg.)","band":"10","col":"297ff."},
-  {"term":"– I (allg.) 10 297–301 s. auch","qualifier":"","band":"10","col":"301–303"},
-  {"term":"– I (soz.) 4 947–949 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"φιλότης","qualifier":"I (allg.)","band":"10","col":"297ff."}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":3,"l":0,"editor":0,"role":"source"},
@@ -198,13 +192,18 @@ HWPH.put("a/3039",
   {"id":2281,"lemma":"Partei","tf":2},
   {"id":125,"lemma":"Analyse","tf":4}
  ],
- "see_also":[{"id":1524,"lemma":"Kampf"}],
+ "see_also":[
+  {"id":1524,"lemma":"Kampf"},
+  {"id":765,"lemma":"Entzweiung, entzweien"},
+  {"id":1608,"lemma":"Konflikt"},
+  {"id":1617,"lemma":"Konkurrenz"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Streit"},
   {"id":3,"name":"Antike Philosophie","label":"Streit I (allg.)"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Streit"},
   {"id":42,"name":"Soziologie","label":"Streit II (soz.)"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Lichtblau Klaus","n":8}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Lichtblau Klaus","n":8}]
 }
 );

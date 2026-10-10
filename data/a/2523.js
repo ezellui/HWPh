@@ -24,6 +24,7 @@ HWPH.put("a/2523",
  "register":[
   {"term":"biometrische Funktion","qualifier":"","band":"7","col":"1679"},
   {"term":"Funktion, biometrische","qualifier":"","band":null,"col":null},
+  {"term":"Funktion, psychometrische","qualifier":"","band":"7","col":"1679"},
   {"term":"mental test","qualifier":"","band":"7","col":"1680"},
   {"term":"Messung, psychologische","qualifier":"","band":"7","col":"1680"},
   {"term":"Unterschiedsschwelle","qualifier":"","band":"7","col":"1679"}

@@ -19,6 +19,7 @@ HWPH.put("a/76",
  "outlinks":[],
  "register":[
   {"term":"Äquivalenz","qualifier":"","band":"1","col":"127"},
+  {"term":"Implikation","qualifier":"","band":"1","col":"127"},
   {"term":"Implikation, Philonische","qualifier":"","band":"1","col":"128"},
   {"term":"ἀκολουθία","qualifier":"","band":null,"col":null},
   {"term":"συνημμένον","qualifier":"","band":"1","col":"127"}

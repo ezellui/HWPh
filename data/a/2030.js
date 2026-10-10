@@ -31,13 +31,7 @@ HWPH.put("a/2030",
   {"term":"perfectio caritatis","qualifier":"","band":"6","col":"193f."},
   {"term":"probabel","qualifier":"","band":"6","col":"196"},
   {"term":"Rigorismus","qualifier":"","band":"6","col":"195"},
-  {"term":"Tutorismus","qualifier":"","band":"6","col":"195f."},
-  {
-   "term":"– I (wiss.) 7 1388–1390 – II (eth.) 7 1390–1394 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Tutorismus","qualifier":"","band":"6","col":"195f."}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":2,"l":0,"editor":0,"role":"source"},

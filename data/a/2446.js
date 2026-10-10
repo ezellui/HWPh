@@ -45,19 +45,13 @@ HWPH.put("a/2446",
   {"term":"cogito","qualifier":"II","band":"7","col":"1270"},
   {"term":"conversational implicatures","qualifier":"I","band":"7","col":"1269"},
   {"term":"exponibilia","qualifier":"III","band":"7","col":"1273"},
+  {"term":"Frage-Antwort-Logik","qualifier":"II","band":"7","col":"1271"},
   {"term":"Implikaturen","qualifier":"I","band":"7","col":"1269"},
   {"term":"kontextuell","qualifier":"I","band":"7","col":"1268"},
   {"term":"presupposition","qualifier":"","band":null,"col":null},
-  {
-   "term":"Schranke – III 1 (allg.) 3 1200 – III 2 (Husserl) 3 1200f. – III 3 (Heidegger) 3 1201f. – III 4 (ling.) 3 1202–1206 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
   {"term":"Unterstellung","qualifier":"","band":null,"col":null},
   {"term":"Voraussetzung","qualifier":"","band":null,"col":null},
-  {"term":"Zirkularität, präsumptive","qualifier":"II","band":"7","col":"1271"},
-  {"term":"– III (log.) 7 96f. s. auch","qualifier":"III","band":null,"col":null}
+  {"term":"Zirkularität, präsumptive","qualifier":"II","band":"7","col":"1271"}
  ],
  "persons":[
   {"id":301,"name":"P. F. Strawson","b":4,"n":3,"l":2,"editor":0,"role":"mixed"},
@@ -145,7 +139,7 @@ HWPH.put("a/2446",
   {"id":890,"lemma":"Fall, Abfall","tf":4},
   {"id":1900,"lemma":"Maxime","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1558,"lemma":"Kennzeichnung, Kennzeichnungstheorie"}],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Präsupposition"}],
  "reg_authors":[
   {"name":"Demmerling Christoph","n":12},

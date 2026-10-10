@@ -24,7 +24,6 @@ HWPH.put("a/2829",
  "outlinks":[],
  "register":[
   {"term":"Gottwerden","qualifier":"","band":"9","col":"380"},
-  {"term":"Ich-Identität","qualifier":"","band":null,"col":null},
   {"term":"Selbstbeschränkung","qualifier":"","band":"9","col":"381"},
   {"term":"Selbsterlernen","qualifier":"","band":"9","col":"382"},
   {"term":"Selbsterziehung","qualifier":"","band":"9","col":"382"},
@@ -101,7 +100,8 @@ HWPH.put("a/2829",
  "see_also":[
   {"id":435,"lemma":"Bildung"},
   {"id":1424,"lemma":"Individuum, Individualität"},
-  {"id":2847,"lemma":"Selbstsein"}
+  {"id":2847,"lemma":"Selbstsein"},
+  {"id":2854,"lemma":"Selbstverwirklichung, Selbstaktualisierung"}
  ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Selbstbildung"},

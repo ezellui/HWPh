@@ -22,8 +22,8 @@ HWPH.put("a/1508",
  ],
  "outlinks":[],
  "register":[
-  {"term":"189","qualifier":"","band":"4","col":"643"},
   {"term":"despejo","qualifier":"","band":"4","col":"641"},
+  {"term":"Genie","qualifier":"","band":"4","col":"643"},
   {"term":"honnêteté","qualifier":"","band":"4","col":"642"}
  ],
  "persons":[

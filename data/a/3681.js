@@ -26,9 +26,7 @@ HWPH.put("a/3681",
   {"term":"Energide","qualifier":"","band":"12","col":"1279"},
   {"term":"Nucleus; Nucleolus","qualifier":"","band":"12","col":"1277"},
   {"term":"Pangene","qualifier":"","band":"12","col":"1279"},
-  {"term":"Protoplasma","qualifier":"","band":"12","col":"1278f."},
-  {"term":"– I (biol.) 1 544–546 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (biol.) 2 237–239 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Protoplasma","qualifier":"","band":"12","col":"1278f."}
  ],
  "persons":[
   {"id":4724,"name":"Th. Schwann","b":2,"n":3,"l":0,"editor":0,"role":"source"},

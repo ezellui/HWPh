@@ -26,12 +26,11 @@ HWPH.put("a/1619",
   {"term":"consequentia naturalis/accidentalis","qualifier":"","band":"4","col":"978"},
   {"term":"consequentia simplex/ut nunc","qualifier":"","band":"4","col":"978"},
   {"term":"Gelten; Geltung","qualifier":"","band":"4","col":"978"},
+  {"term":"Implikation, materiale","qualifier":"","band":"4","col":"979"},
   {"term":"Konsequenzenlehre","qualifier":"","band":null,"col":null},
   {"term":"loci","qualifier":"","band":"4","col":"979"},
-  {"term":"performativer 12 700 Implikation, materiale","qualifier":"","band":"4","col":"979"},
   {"term":"Schluss, hypothetischer","qualifier":"","band":null,"col":null},
-  {"term":"similitudo formae","qualifier":"","band":"4","col":"978"},
-  {"term":"– II (log.) 6 1068–1072 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"similitudo formae","qualifier":"","band":"4","col":"978"}
  ],
  "persons":[
   {"id":57,"name":"Wilhelm von Ockham","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -78,7 +77,8 @@ HWPH.put("a/1619",
   {"id":76,"lemma":"Akoluthie"},
   {"id":1399,"lemma":"Implikation"},
   {"id":2925,"lemma":"Sophisma; Sophismata"},
-  {"id":3108,"lemma":"Synkategorem;synkategorematisch;synsemantisch"}
+  {"id":3108,"lemma":"Synkategorem;synkategorematisch;synsemantisch"},
+  {"id":3436,"lemma":"Verstandesschluß"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Konsequenz"}],
  "reg_authors":[{"name":"Muñoz Delgado Vincente","n":8}]

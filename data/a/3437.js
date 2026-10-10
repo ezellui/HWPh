@@ -34,7 +34,6 @@ HWPH.put("a/3437",
  ],
  "register":[
   {"term":"communication","qualifier":"","band":null,"col":null},
-  {"term":"der","qualifier":"","band":null,"col":null},
   {"term":"Einverständnis","qualifier":"","band":"11","col":"915f."},
   {"term":"Geselligkeit","qualifier":"","band":"11","col":"914"},
   {"term":"Gespräch","qualifier":"","band":"11","col":"914"},

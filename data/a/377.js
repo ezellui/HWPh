@@ -21,10 +21,7 @@ HWPH.put("a/377",
   {"id":3503,"lemma":"Vorstellung","n":1}
  ],
  "outlinks":[],
- "register":[
-  {"term":"Verhaltensforschung","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 6 1218–1222 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Verhaltensforschung","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":729,"name":"J. B. Watson","b":3,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":876,"name":"W. Mcdougall","b":1,"n":3,"l":0,"editor":0,"role":"source"},

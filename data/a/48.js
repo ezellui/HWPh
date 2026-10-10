@@ -46,6 +46,6 @@ HWPH.put("a/48",
   {"id":3073,"lemma":"Summe, logische"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Adjunktion"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

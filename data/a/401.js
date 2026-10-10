@@ -25,8 +25,7 @@ HWPH.put("a/401",
   {"term":"Humanität","qualifier":"","band":"1","col":"858"},
   {"term":"Staat","qualifier":"","band":"1","col":"858f."},
   {"term":"Ziel des Daseins","qualifier":"","band":null,"col":null},
-  {"term":"Zweck des Daseins","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 1 850–856 s. auch","qualifier":"","band":"1","col":"856"}
+  {"term":"Zweck des Daseins","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":11,"name":"J. G. Fichte","b":3,"n":1,"l":0,"editor":0,"role":"source"},

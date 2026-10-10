@@ -43,7 +43,7 @@ HWPH.put("r/6e-69",
   "Verteilung der Beweislast","nichtexistenz gottes"
  ],
  [
-  "Nichtgegensätzlichkeit","Übergegensätzlichkeit (Lask)","","11","35","ref",3255,
+  "Nichtgegensätzlichkeit","Übergegensätzlichkeit","(Lask)","11","35","ref",3255,
   "Übergegensätzlichkeit; übergegensätzlich","nichtgegensatzlichkeit"
  ],
  [
@@ -54,7 +54,11 @@ HWPH.put("r/6e-69",
   "Nichtgegenständlichkeit Gottes","Unbegreiflichkeit","",null,null,"see",3281,"Unbegreiflichkeit",
   "nichtgegenstandlichkeit gottes"
  ],
- ["Nichtheit","Negation","",null,null,"ref",2100,"Negation","nichtheit"],
+ ["Nichtheit","Negation; Negativität","II","6","684","ref",2101,"Negation, Negativität","nichtheit"],
+ [
+  "Nichthintergehbarkeit","Unhintergehbarkeit","",null,null,"ref",3300,"Unhintergehbarkeit",
+  "nichthintergehbarkeit"
+ ],
  ["Nicht-Ich","Nicht-Ich","","6","801–803","main",2134,"Nicht-Ich","nicht-ich"],
  ["Nicht-Ich","Ich","I",null,null,"see",1334,"Ich","nicht-ich"],
  [
@@ -79,14 +83,29 @@ HWPH.put("r/6e-69",
  ["Nichtigkeit","Langeweile","","5","29","ref",1727,"Langeweile","nichtigkeit"],
  ["Nichtigkeit","Sinn des Lebens","","9","817","ref",2890,"Sinn des Lebens","nichtigkeit"],
  ["Nicht-Philosophie","Philosophie","IV E","7","721f.","ref",2353,"Philosophie","nicht-philosophie"],
- ["Nicht-Philosophie","Philosophie","IV",null,null,"ref",2353,"Philosophie","nicht-philosophie"],
+ ["Nicht-Philosophie","Philosophie","IV L","7","795","ref",2353,"Philosophie","nicht-philosophie"],
+ [
+  "Nicht-Reduzierbarkeit","Supervenienz","",null,null,"ref",3082,"Supervenienz",
+  "nicht-reduzierbarkeit"
+ ],
+ ["Nicht-Reduzierbarkeit","Residuum","","8","908","ref",2692,"Residuum","nicht-reduzierbarkeit"],
  [
   "Nichts; Nichtseiendes","Nichts; Nichtseiendes","","6","805–836","main",2136,
   "Nichts, Nichtseiendes","nichts; nichtseiendes"
  ],
  ["Nichts; Nichtseiendes","Leere","I (myst.)",null,null,"see",1758,"Leere","nichts; nichtseiendes"],
  ["Nichts; Nichtseiendes","Unding","",null,null,"see",3288,"Unding","nichts; nichtseiendes"],
- ["Nichts; Nichtseiendes","Vernichtung Nichts","",null,null,"see",null,null,"nichts; nichtseiendes"],
+ [
+  "Nichts; Nichtseiendes","Vernichtung","",null,null,"see",3422,"Vernichtung; Vernichten",
+  "nichts; nichtseiendes"
+ ],
+ ["Nichts","Malum","V",null,null,"ref",1852,"Malum","nichts"],
+ ["Nichts","Grund","","3","905","ref",1191,"Grund","nichts"],
+ ["Nichts","Negation; Negativität","II","6","684","ref",2101,"Negation, Negativität","nichts"],
+ [
+  "Nichts","Principium rationis sufficientis","","7","1327","ref",2457,
+  "Principium rationis sufficientis","nichts"
+ ],
  ["Nichts, absolutes","Nihilismus","I","6","847","ref",2139,"Nihilismus","nichts, absolutes"],
  [
   "Nichts, supertranszendentes","Supertranszendent","","10","647","ref",3081,
@@ -200,7 +219,7 @@ HWPH.put("r/6e-69",
  ["Nihilismus","Wahrheit","V A","12","90","ref",3523,"Wahrheit","nihilismus"],
  ["Nihilismus","Wert","III A (phän.)","12","567","ref",3588,"Wert","nihilismus"],
  [
-  "Nihilismus","Wiederkunft, ewige (Nietzsche)","","12","750","ref",3617,
+  "Nihilismus","Wiederkunft, ewige","(Nietzsche)","12","750","ref",3617,
   "Wiederkunft, ewige; Wiederkehr, ewige","nihilismus"
  ],
  [
@@ -237,19 +256,17 @@ HWPH.put("r/6e-69",
   "Niveau, psychophysisches","Isomorphie, psychophysische","",null,null,"see",1503,
   "Isomorphie, psychophysische","niveau, psychophysisches"
  ],
- ["Niveau, psychophysisches","Raum","",null,null,"ref",2578,"Raum","niveau, psychophysisches"],
- ["Niveauqualität","Komplex","",null,null,"ref",1600,"Komplex","niveauqualitat"],
- ["Nisus","Nisus","",null,null,"main",2141,"Nisus","nisus"],
  [
-  "Nichts; Nichtseiendes","Nichts; Nichtseiendes","","6","815","main",2136,"Nichts, Nichtseiendes",
-  "nichts; nichtseiendes"
+  "Niveau, psychophysisches","Raum; Raumwahrnehmung","","8","117","ref",2579,
+  "Raum, Raumwahrnehmung, psychologischer Raum","niveau, psychophysisches"
  ],
- [
-  "Nichts; Nichtseiendes","Possibilien","I","7","1129","ref",2413,"Possibilien",
-  "nichts; nichtseiendes"
- ],
- ["Nichts; Nichtseiendes","Realitas","","8","179","ref",2589,"Realitas","nichts; nichtseiendes"],
- ["Nichts; Nichtseiendes","Res","","8","896f.","ref",2691,"Res","nichts; nichtseiendes"],
+ ["Niveauerhöhung","Stufen","II","10","362","ref",3044,"Stufen","niveauerhohung"],
+ ["Niveauqualität","Komplex, der","","4","938","ref",1601,"Komplex (der)","niveauqualitat"],
+ ["Nivellierung","Nivellierung","","6","867–869","main",2143,"Nivellierung","nivellierung"],
+ ["Nivellierung","Schicht, soziale","",null,null,"see",2761,"Schicht, soziale","nivellierung"],
+ ["Nivellierung","Gedächtnis","",null,null,"see",996,"Gedächtnis","nivellierung"],
+ ["Nivellierung","Prägnanz","",null,null,"see",2437,"Prägnanz, prägnant","nivellierung"],
+ ["nixus","Nisus","",null,null,"ref",2141,"Nisus","nixus"],
  [
   "Nickl Peter","Quietismus; Hesychasmus","","7","1834–1837","author",2557,"Quietismus, Hesychasmus",
   "nickl peter"
@@ -269,7 +286,10 @@ HWPH.put("r/6e-69",
   "Nieke Wolfgang","Antinomismus","III (erk.)","1","407","author",186,"Antinomismus",
   "nieke wolfgang"
  ],
- ["Nieke Wolfgang","Athanismus (Haeckel)","","1","595","author",276,"Atheismus","nieke wolfgang"],
+ [
+  "Nieke Wolfgang","Athanismus","(Haeckel)","1","595","author",275,"Athanismus (Athanatismus)",
+  "nieke wolfgang"
+ ],
  ["Nieke Wolfgang","Dogmatismus","","2","277–279","author",626,"Dogmatismus","nieke wolfgang"],
  ["Nieke Wolfgang","Dualismus","","2","297–299","author",640,"Dualismus","nieke wolfgang"],
  ["Nieke Wolfgang","Eklektizismus","","2","432f.","author",700,"Eklektizismus","nieke wolfgang"],
@@ -308,12 +328,12 @@ HWPH.put("r/6e-69",
   "niewohner friedrich"
  ],
  [
-  "Niewöhner Friedrich","Judentum (Wesen des Judentums)","","4","649–653","author",1512,
-  "Judentum, Wesen des Judentums","niewohner friedrich"
+  "Niewöhner Friedrich","Judentum","(Wesen des Judentums)","4","649–653","author",1511,"Jetztzeit",
+  "niewohner friedrich"
  ],
  [
-  "Niewöhner Friedrich","Judentum (Wissenschaft des Judentums)","","4","653–658","author",1513,
-  "Judentum, Wissenschaft des Judentums","niewohner friedrich"
+  "Niewöhner Friedrich","Judentum","(Wissenschaft des Judentums)","4","653–658","author",1512,
+  "Judentum, Wesen des Judentums","niewohner friedrich"
  ],
  ["Niewöhner Friedrich","Kabbala","","4","661–666","author",1517,"Kabbala","niewohner friedrich"],
  ["Niewöhner Friedrich","Kalām","","4","669–672","author",1520,"Kalam","niewohner friedrich"],
@@ -337,7 +357,7 @@ HWPH.put("r/6e-69",
  ],
  ["Niewöhner Friedrich","Pilpul","","7","974–976","author",2378,"Pilpul","niewohner friedrich"],
  [
-  "Niewöhner Friedrich","Potenzen II 1 (theol.)","","7","1169–1171","author",2423,"Potenz, Potenzen",
+  "Niewöhner Friedrich","Potenzen","II 1 (theol.)","7","1169–1171","author",2423,"Potenz, Potenzen",
   "niewohner friedrich"
  ],
  [
@@ -352,7 +372,7 @@ HWPH.put("r/6e-69",
   "Niewöhner Friedrich","Symbiose","II (soz.)","10","708–710","author",3092,"Symbiose",
   "niewohner friedrich"
  ],
- ["Nippel Wilfried","Polis","","7","1031–1034","author",2392,"Polemik","nippel wilfried"],
+ ["Nippel Wilfried","Polis","","7","1031–1034","author",2393,"Polis","nippel wilfried"],
  ["Nippel Wilfried","Politeuma","","7","1036f.","author",2395,"Politeuma","nippel wilfried"],
  [
   "Nipperdey Thomas","Antisemitismus","","1","414–416","author",190,"Antisemitismus",

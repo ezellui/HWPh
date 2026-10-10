@@ -30,14 +30,13 @@ HWPH.put("a/2946",
  "backlinks":[{"id":3324,"lemma":"Unterdrückung; Repression","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"/Objekt IV 10 416 Subjektwerdung","qualifier":"","band":"9","col":"1163"},
+  {"term":"Erziehung","qualifier":"","band":"9","col":"1163"},
   {"term":"f","qualifier":"","band":"9","col":"1162"},
   {"term":"Moralisation","qualifier":"","band":"9","col":"1161"},
-  {"term":"Provinz, pädagogische","qualifier":"","band":"9","col":"1163"},
   {"term":"socialization","qualifier":"","band":null,"col":null},
   {"term":"Sozialisierung","qualifier":"","band":null,"col":null},
-  {"term":"Vergemeinschaftung","qualifier":"","band":"9","col":"1161"},
-  {"term":"– II (soz.) 4 X- 431 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Subjektwerdung","qualifier":"","band":"9","col":"1163"},
+  {"term":"Vergemeinschaftung","qualifier":"","band":"9","col":"1161"}
  ],
  "persons":[
   {"id":2088,"name":"W. Brezinka","b":1,"n":3,"l":2,"editor":0,"role":"scholar"},

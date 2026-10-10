@@ -40,6 +40,7 @@ HWPH.put("a/1804",
   {"term":"geboten","qualifier":"","band":null,"col":null},
   {"term":"Handlungssätze","qualifier":"","band":"5","col":"386"},
   {"term":"Logik des Befehlens","qualifier":"","band":"5","col":"384"},
+  {"term":"Logik des Willens","qualifier":"","band":"5","col":"384"},
   {"term":"Logik des Wünschens","qualifier":"","band":"5","col":"384"},
   {"term":"Normenlogik","qualifier":"","band":null,"col":null},
   {"term":"Tautologie, deontische","qualifier":"","band":"5","col":"385"}

@@ -17,7 +17,11 @@ HWPH.put("a/2805",
  "next":{"id":2806,"lemma":"Sein; Seiendes","band":"9","col":170},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Vorstellungsformen","qualifier":"","band":"9","col":"169"}],
+ "register":[
+  {"term":"Sehform","qualifier":"","band":null,"col":null},
+  {"term":"Sehgeschichte","qualifier":"","band":"9","col":"169"},
+  {"term":"Vorstellungsformen","qualifier":"","band":"9","col":"169"}
+ ],
  "persons":[
   {"id":1057,"name":"H. Wölfflin","b":3,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":1503,"name":"A. Riegl","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},

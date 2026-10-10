@@ -38,10 +38,11 @@ HWPH.put("a/2294",
   {"id":2379,"lemma":"Pistis","n":1}
  ],
  "register":[
-  {"term":"Affekt","qualifier":"","band":null,"col":null},
   {"term":"Anmut","qualifier":"","band":"7","col":"197"},
   {"term":"Leidenschaft","qualifier":"","band":"7","col":"197"},
   {"term":"Parenthyrsus","qualifier":"","band":"7","col":"196"},
+  {"term":"Pathetische","qualifier":"","band":null,"col":null},
+  {"term":"Pathetische πάθος","qualifier":"","band":null,"col":null},
   {"term":"pathologiae rhetoricae","qualifier":"","band":"7","col":"194"},
   {"term":"persuasion passionelle","qualifier":"","band":"7","col":"194"},
   {"term":"Stimmung","qualifier":"","band":"7","col":"198"},

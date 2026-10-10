@@ -26,7 +26,6 @@ HWPH.put("a/3013",
  "register":[
   {"term":"notitia rerum publicarum","qualifier":"","band":"10","col":"104ff."},
   {"term":"notitia statuum","qualifier":"","band":"10","col":"104ff."},
-  {"term":"Polizeiwissenschaft","qualifier":"","band":null,"col":null},
   {"term":"Staatsbeschreibung","qualifier":"","band":null,"col":null},
   {"term":"Staatswissenschaft","qualifier":"","band":"10","col":"104"}
  ],

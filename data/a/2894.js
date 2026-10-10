@@ -59,8 +59,8 @@ HWPH.put("a/2894",
   {"term":"law of sensory association","qualifier":"","band":"9","col":"880"},
   {"term":"observation","qualifier":"","band":"9","col":"881"},
   {"term":"Qualität","qualifier":"","band":"9","col":"876"},
-  {"term":"Raumwahrnehmung","qualifier":"","band":null,"col":null},
   {"term":"sense-data","qualifier":"","band":null,"col":null},
+  {"term":"sensible data","qualifier":"","band":null,"col":null},
   {"term":"sensing","qualifier":"","band":"9","col":"879f."}
  ],
  "persons":[

@@ -31,7 +31,11 @@ HWPH.put("a/75",
   {"id":13571,"name":"P. M. Sweezy","b":0,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[],
- "see_also":[{"id":2470,"lemma":"Produktionsverhältnisse/Produktivkräfte"},{"id":3394,"lemma":"Verelendung"}],
+ "see_also":[
+  {"id":2470,"lemma":"Produktionsverhältnisse/Produktivkräfte"},
+  {"id":3394,"lemma":"Verelendung"},
+  {"id":3545,"lemma":"Ware; Warencharakter; Warenfetischismus"}
+ ],
  "groups":[{"id":23,"name":"Marxismus","label":"Akkumulationstheorie"}],
  "reg_authors":[{"name":"Frese Jürgen","n":5}]
 }

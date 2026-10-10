@@ -22,11 +22,9 @@ HWPH.put("a/3474",
   {"id":3478,"lemma":"Volkskunde","n":1}
  ],
  "register":[
-  {"term":"- 1126 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Bevölkerungskunde","qualifier":"","band":"11","col":"1095"},
-  {"term":"empirische","qualifier":"","band":null,"col":null},
-  {"term":"empirische 4 1328–1332 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Ethnographie","qualifier":"","band":null,"col":null},
+  {"term":"Kulturanthropologie, empirische","qualifier":"","band":null,"col":null},
   {"term":"Sprachen, semitische","qualifier":"","band":"11","col":"1095"},
   {"term":"Volkskunde","qualifier":"","band":"11","col":"1095"}
  ],
@@ -66,7 +64,10 @@ HWPH.put("a/3474",
   {"id":1701,"lemma":"Kultur, Kulturphilosophie","tf":2},
   {"id":2904,"lemma":"Situation","tf":2}
  ],
- "see_also":[{"id":1702,"lemma":"Kulturanthropologie"}],
+ "see_also":[
+  {"id":1702,"lemma":"Kulturanthropologie"},
+  {"id":2938,"lemma":"Sozialanthropologie; Social anthropology"}
+ ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Völkerkunde"},
   {"id":42,"name":"Soziologie","label":"Völkerkunde"}

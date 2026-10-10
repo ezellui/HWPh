@@ -35,7 +35,6 @@ HWPH.put("a/2992",
   {"id":2991,"lemma":"Sprachkritik","n":1}
  ],
  "register":[
-  {"term":"K","qualifier":"II","band":null,"col":null},
   {"term":"linguistic philosophy","qualifier":"II","band":null,"col":null},
   {"term":"linguistic turn","qualifier":"II","band":"9","col":"1524"},
   {"term":"linguistique","qualifier":"I","band":"9","col":"1518"},
@@ -209,6 +208,6 @@ HWPH.put("a/2992",
   {"id":7,"name":"Disziplinen und Fächer","label":"Sprachphilosophie"},
   {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Sprachphilosophie"}
  ],
- "reg_authors":[{"name":"Dierse Ulrich","n":52},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Dierse Ulrich","n":52},{"name":"Red","n":241}]
 }
 );

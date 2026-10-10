@@ -1,6 +1,9 @@
-/* static_api.js — the answers of hwph_serve.py, computed in the page from the files of data/.
-   Written by hwph_export.py next to index.html. A page opened from disk may load scripts but not
-   fetch files, so every data file is a script: HWPH.put(key, value). */
+/* static_api.js — the answers of the reader's API, computed in the page from the files of data/
+   (made by the XQuery files of xq/ from the XML database). A page opened from disk may load scripts
+   but not fetch files, so every data file is a script: HWPH.put(key, value).
+   Phrases, NEAR and searches with capitals are checked in the positional index (data/p: where every
+   word stands, in the forms the text writes it), for every article that has the words — not in the
+   article texts, which would have to be loaded one by one (once limited to 1500 articles). */
 "use strict";
 (function () {
   const WAIT = new Map(), DATA = new Map();
@@ -58,7 +61,7 @@
   const W = '[\\p{L}\\p{N}_]', NW = '[^\\p{L}\\p{N}_]';
   const WORD_RX = /[\p{L}\p{N}_]+/gu;
   const COLS = ['lemma', 'body', 'notes', 'lit', 'authors'];
-  const WEIGHTS = [10.0, 1.0, 0.35, 0.5, 2.0], K1 = 1.2, B = 0.75, NEAR_DEFAULT = 20, MAX_EXPAND = 300, MAX_VERIFY = 1500;
+  const WEIGHTS = [10.0, 1.0, 0.35, 0.5, 2.0], K1 = 1.2, B = 0.75, NEAR_DEFAULT = 20, MAX_EXPAND = 300;
   const reEsc = s => s.replace(/[.*+?^${}()|[\]\\/-]/g, '\\$&');
   const cmpStr = (a, b) => (a < b ? -1 : a > b ? 1 : 0);
 
@@ -228,6 +231,71 @@
     postCache.set(term, d);
     return d;
   }
+  /* ---------- positional index: data/p/<shard>.js, data/p/<shard>.<k>.js, data/pdir.js ---------- */
+  let PDIR = null;
+  const formCache = new Map();
+  async function formsOf(term) {     // [[form, places], …]: how the text writes the word, and where
+    if (formCache.has(term)) return formCache.get(term);
+    const m = await meta(), name = shardOf(term);
+    let forms = [];
+    if (m.shardSet.has(name)) {
+      if (!PDIR) PDIR = await load('pdir');
+      const own = PDIR[name] ? PDIR[name].indexOf(term) : -1;      // a word with a file of its own
+      const d = await load('p/' + name + (own >= 0 ? '.' + own : ''));
+      forms = d[term] || [];
+    }
+    if (formCache.size > 5000) formCache.clear();
+    formCache.set(term, forms);
+    return forms;
+  }
+  // 'aid:p,p;p;;p aid:…' (differences, base 36) -> Map aid -> five sorted arrays of word numbers
+  function decodePlaces(str, into) {
+    let prev = 0;
+    for (const e of str.split(' ')) {
+      const c = e.indexOf(':');
+      prev += parseInt(e.slice(0, c), 36);
+      let f = into.get(prev);
+      if (!f) { f = [[], [], [], [], []]; into.set(prev, f); }
+      const fs = e.slice(c + 1).split(';');
+      for (let i = 0; i < fs.length; i++) {
+        if (!fs[i]) continue;
+        let p = 0;
+        for (const x of fs[i].split(',')) { p += parseInt(x, 36); f[i].push(p); }
+      }
+    }
+    return into;
+  }
+  // the non-overlapping occurrences of consecutive words (a phrase), as a regular expression finds them
+  function phraseSpans(lists) {
+    const k = lists.length, sets = lists.slice(1).map(a => new Set(a)), out = [];
+    let next = -1;
+    for (const p of lists[0]) {
+      if (p < next) continue;
+      let ok = true;
+      for (let j = 1; j < k; j++) if (!sets[j - 1].has(p + j)) { ok = false; break; }
+      if (ok) { out.push([p, p + k - 1]); next = p + k; }
+    }
+    return out;
+  }
+  // NEAR: occurrences of the first item with all others within dist words (spans of word numbers)
+  function nearSpans(spans, dist) {
+    if (spans.some(s => !s.length)) return 0;
+    let n = 0;
+    for (const [a0, b0] of spans[0]) {
+      let ok = true, lo = a0, hi = b0;
+      for (const occ of spans.slice(1)) {
+        let best = null;
+        for (const [a, b] of occ) {
+          const l2 = Math.min(lo, a), h2 = Math.max(hi, b), gap = Math.max(a, lo) - Math.min(b, hi) - 1;
+          if (gap <= dist && (best === null || h2 - l2 < best[1] - best[0])) best = [l2, h2];
+        }
+        if (best === null) { ok = false; break; }
+        [lo, hi] = best;
+      }
+      if (ok) n++;
+    }
+    return n;
+  }
   async function prefixTerms(head) {
     const m = await meta();
     const names = head.length >= 2 ? [shardOf(head)] : m.shards.filter(n => n.split('-')[0] === head.codePointAt(0).toString(16));
@@ -273,40 +341,8 @@
     }
     return out;
   }
-  function bisectLeft(arr, x) { let lo = 0, hi = arr.length; while (lo < hi) { const m = (lo + hi) >> 1; if (arr[m] < x) lo = m + 1; else hi = m; } return lo; }
-  function bisectRight(arr, x) { let lo = 0, hi = arr.length; while (lo < hi) { const m = (lo + hi) >> 1; if (x < arr[m]) hi = m; else lo = m + 1; } return lo; }
-  function nearCount(text, rxs, dist, starts) {
-    if (!text) return 0;
-    const spans = [];
-    for (const rx of rxs) {
-      const occ = []; rx.lastIndex = 0; let m;
-      while ((m = rx.exec(text))) {
-        if (!m[0].length) { rx.lastIndex++; continue; }
-        const a = bisectLeft(starts, m.index), b = bisectRight(starts, m.index + m[0].length - 1) - 1;
-        occ.push([a, Math.max(a, b)]);
-      }
-      if (!occ.length) return 0;
-      spans.push(occ);
-    }
-    let n = 0;
-    for (const [a0, b0] of spans[0]) {
-      let ok = true, lo = a0, hi = b0;
-      for (const occ of spans.slice(1)) {
-        let best = null;
-        for (const [a, b] of occ) {
-          const l2 = Math.min(lo, a), h2 = Math.max(hi, b), gap = Math.max(a, lo) - Math.min(b, hi) - 1;
-          if (gap <= dist && (best === null || h2 - l2 < best[1] - best[0])) best = [l2, h2];
-        }
-        if (best === null) { ok = false; break; }
-        [lo, hi] = best;
-      }
-      if (ok) n++;
-    }
-    return n;
-  }
-
   class Search {
-    constructor(tolerant, cs, col) { this.tolerant = tolerant; this.cs = cs; this.col = col; this.expanded = new Map(); this.cut = false; this.approx = null; }
+    constructor(tolerant, cs, col) { this.tolerant = tolerant; this.cs = cs; this.col = col; this.expanded = new Map(); this.cut = false; this.approx = null; this.placeCache = new Map(); }
     wordsOf(raw) { return this.expanded.get(raw); }            // filled by prepare()
     async prepare(tree) {
       for (const [lf] of leaves(tree))
@@ -334,57 +370,57 @@
       docs.forEach((c, a) => { if (c[this.col]) { const z = [0, 0, 0, 0, 0]; z[this.col] = c[this.col]; out.set(a, z); } });
       return out;
     }
-    async countInTexts(rx, aid, near) {
-      const m = await meta(), t = await load('t/' + aid);
-      const cols = [m.byId.get(aid)[1], t.b, t.n, t.l, t.au];
-      if (!this.cs && !t._folded) t._folded = cols.map(x => fold(x || ''));
-      const out = [];
-      for (let i = 0; i < 5; i++) {
-        if (this.col !== null && i !== this.col) { out.push(0); continue; }
-        const s = this.cs ? cols[i] : t._folded[i];
-        if (near) {
-          const key = (this.cs ? '_starts_c' : '_starts') + i;
-          if (!t[key]) { t[key] = []; WORD_RX.lastIndex = 0; let mm; while ((mm = WORD_RX.exec(s || ''))) t[key].push(mm.index); }
-          out.push(near(s, t[key]));
-        } else {
-          rx.lastIndex = 0; let n = 0, mm;
-          while ((mm = rx.exec(s || ''))) { if (!mm[0].length) { rx.lastIndex++; continue; } n++; }
-          out.push(n);
-        }
+    // the places of one word of the query: every word of the index it stands for, in every form the
+    // text writes it — with capitals significant, only the forms the word matches as typed
+    async placesOf(raw) {
+      if (this.placeCache.has(raw)) return this.placeCache.get(raw);
+      let ws = this.wordsOf(raw);
+      if (ws === null) ws = await prefixTerms(fold(raw.slice(0, -1)));
+      const csRx = this.cs ? new RegExp('^(?:' + patternRegex(raw, true) + ')$', 'u') : null;
+      const out = new Map();
+      let parts = 0;
+      for (const w of ws) for (const [form, str] of await formsOf(w)) {
+        if (csRx && !csRx.test(form)) continue;
+        decodePlaces(str, out);
+        parts++;
       }
+      if (parts > 1) out.forEach(f => f.forEach(a => a.sort((x, y) => x - y)));
+      this.placeCache.set(raw, out);
       return out;
     }
-    async check(cand, counter) {
-      let keys = [...cand.keys()].sort((a, b) => a - b);
-      if (keys.length > MAX_VERIFY) {
-        keys.sort((a, b) => cand.get(b).reduce((s, v) => s + v, 0) - cand.get(a).reduce((s, v) => s + v, 0) || a - b);
-        this.approx = {checked: MAX_VERIFY, of: keys.length};
-        keys = keys.slice(0, MAX_VERIFY).sort((a, b) => a - b);
-      }
+    // counts per field of every article that has all the words, by the counter (field lists -> count)
+    async counted(words, counter) {
+      const maps = [];
+      for (const w of words) maps.push(await this.placesOf(w));
       const out = new Map();
-      for (const a of keys) { const c = await counter(a); if (c.some(x => x > 0)) out.set(a, c); }
+      if (!maps.length) return out;
+      const order = maps.slice().sort((a, b) => a.size - b.size);
+      const keys = [...order[0].keys()].filter(a => order.every(m => m.has(a))).sort((a, b) => a - b);
+      for (const a of keys) {
+        const c = [0, 0, 0, 0, 0];
+        for (let i = 0; i < 5; i++) {
+          if (this.col !== null && i !== this.col) continue;
+          c[i] = counter(maps.map(m => m.get(a)[i]), words);
+        }
+        if (c.some(x => x > 0)) out.set(a, c);
+      }
       return out;
     }
     async leafDocs(leaf) {
-      const wo = r => this.wordsOf(r);
       if (leaf[0] === 'term') {
-        const docs = await this.wordDocs(leaf[1]);
-        if (!this.cs) return this.restrict(docs);
-        const rx = new RegExp(leafRegex(leaf, wo, true), 'gu');
-        return this.check(docs, a => this.countInTexts(rx, a));
+        if (!this.cs) return this.restrict(await this.wordDocs(leaf[1]));
+        return this.counted([leaf[1]], ls => ls[0].length);
       }
-      if (leaf[0] === 'phrase') {
-        const lists = []; for (const w of leaf[1]) lists.push(await this.wordDocs(w));
-        const rx = new RegExp(leafRegex(leaf, wo, this.cs), 'gu');
-        return this.check(intersect(lists), a => this.countInTexts(rx, a));
-      }
-      const lists = [];
+      if (leaf[0] === 'phrase') return this.counted(leaf[1], ls => phraseSpans(ls).length);
+      // NEAR: the items are words or phrases; their words in one list, each item knows its slice
+      const words = [], slices = [];
       for (const it of leaf[2]) {
-        if (it[0] === 'term') lists.push(await this.wordDocs(it[1]));
-        else { const ls = []; for (const w of it[1]) ls.push(await this.wordDocs(w)); lists.push(intersect(ls)); }
+        const ws = it[0] === 'term' ? [it[1]] : it[1];
+        slices.push([words.length, words.length + ws.length]);
+        words.push(...ws);
       }
-      const rxs = leaf[2].map(it => new RegExp(leafRegex(it, wo, this.cs), 'gu')), dist = leaf[1];
-      return this.check(intersect(lists), a => this.countInTexts(null, a, (s, st) => nearCount(s, rxs, dist, st)));
+      const dist = leaf[1];
+      return this.counted(words, ls => nearSpans(slices.map(([x, y]) => y - x === 1 ? ls[x].map(p => [p, p]) : phraseSpans(ls.slice(x, y))), dist));
     }
     async run(tree) { this.leafResults = []; return this.evalNode(tree); }
     async evalNode(node) {
@@ -731,7 +767,7 @@
     }
     for (const r of g.mentions) { if (!G.mentions.has(r[0])) G.mentions.set(r[0], []); G.mentions.get(r[0]).push(r); }
     G.mentions.forEach(l => l.sort((a, b) => b[3] - a[3] || a[1] - b[1]));
-    for (const p of persons) G.P.set(p[0], {id: p[0], name: p[1], fold: p[2], n_articles: p[3], n_body: p[4], n_notes: p[5], n_lit: p[6], editor: p[7], role: p[8]});
+    for (const p of persons) G.P.set(p[0], {id: p[0], name: p[1], fold: p[2], n_articles: p[3], n_body: p[4], n_notes: p[5], n_lit: p[6], editor: p[7], role: p[8], at: p[9] || 0});
     G.persons = persons;
     return G;
   }
@@ -761,23 +797,41 @@
     const surname = P.name.split(' ').pop();
     const lemmas = surname.length >= 4 ? m.lemmas.filter(r => r[4] === 'article' && m.fold.get(r[0]).indexOf(fold(surname)) >= 0)
       .sort((a, b) => (m.fold.get(a[0]) < m.fold.get(b[0]) ? -1 : 1)).slice(0, 30).map(r => ({id: r[0], lemma: r[1]})) : [];
-    const {fold: _f, ...row} = P;                              // the name key is not part of the answer
+    const {fold: _f, lf: _l, at: _a, ...row} = P;             // the name keys are not part of the answer
     return Object.assign({}, row, {variants, articles: arts, cocited: cocited(id, 40, p.get('scholars') === '1'), lemmas});
   }
+  // the name as a list of persons writes it, the surname first: 'Kant, I.', 'Montaigne, M. de' (where the
+  // surname begins comes with the data; names without initials stay as they are: 'Thomas von Aquin')
+  const listName = P => P.at ? P.name.slice(P.at) + ', ' + P.name.slice(0, P.at - 1) : P.name;
+  const listFold = P => P.lf || (P.lf = fold(listName(P)));
+  const PERSON_SORT = {
+    n: null,                                             // the order of the data: most articles first
+    name: (a, b) => (a.lf < b.lf ? -1 : a.lf > b.lf ? 1 : a.id - b.id),
+    b: (a, b) => b.n_body - a.n_body || b.n_articles - a.n_articles || a.id - b.id,
+    notes: (a, b) => b.n_notes - a.n_notes || b.n_articles - a.n_articles || a.id - b.id,
+    lit: (a, b) => b.n_lit - a.n_lit || b.n_articles - a.n_articles || a.id - b.id,
+  };
   async function persons(p) {
     await graph();
     const q = fold((p.get('q') || '').trim()), editors = p.get('editors') === '1', role = p.get('role') || '';
-    const limit = Math.min(+(p.get('limit') || 200), 1000), out = [];
+    const sort = PERSON_SORT.hasOwnProperty(p.get('sort')) ? p.get('sort') : 'n';
+    const limit = Math.min(+(p.get('limit') || 200), 1000), offset = Math.max(+(p.get('offset') || 0), 0);
+    let all = [];
     for (const r of G.persons) {
       const P = G.P.get(r[0]);
       if (!editors && P.editor) continue;
-      if (q && P.fold.indexOf(q) < 0) continue;
+      if (q && P.fold.indexOf(q) < 0 && listFold(P).indexOf(q) < 0) continue;
       if (['source', 'mixed', 'scholar'].includes(role) && P.role !== role) continue;
       if (role === 'thinkers' && P.role === 'scholar') continue;
-      out.push({id: P.id, name: P.name, n_articles: P.n_articles, b: P.n_body, n: P.n_notes, l: P.n_lit, editor: P.editor, role: P.role});
-      if (out.length >= limit) break;
+      all.push(P);
     }
-    return out;
+    if (sort === 'name') {
+      all.forEach(listFold);
+      all.sort(PERSON_SORT.name);
+    } else if (PERSON_SORT[sort]) all.sort(PERSON_SORT[sort]);
+    const items = all.slice(offset, offset + limit).map(P => ({id: P.id, name: P.name, list_name: listName(P), n_articles: P.n_articles,
+      b: P.n_body, n: P.n_notes, l: P.n_lit, editor: P.editor, role: P.role}));
+    return {total: all.length, offset, sort, items};
   }
   const neighbours = a => [...new Set([...(G.out.get(a) || []).map(x => x[0]), ...(G.inn.get(a) || []).map(x => x[0])])].filter(x => x !== a);
   // one order for nodes and links, the same as hwph_serve.py: the drawing starts from it
@@ -787,6 +841,7 @@
   async function graphArticle(aid, p) {
     const m = await meta(); await graph();
     const depth = p.get('depth') === '2' ? 2 : 1, withP = p.get('persons') !== '0', scholars = p.get('scholars') === '1', cap = 90;
+    const withM = p.get('mentions') !== '0';
     const level = new Map([[aid, 0]]);
     const first = neighbours(aid); first.forEach(a => { if (!level.has(a)) level.set(a, 1); });
     if (depth === 2) {
@@ -798,6 +853,18 @@
     const nodes = ids.filter(a => m.byId.has(a)).map(a => { const L = m.byId.get(a); return {id: 'a' + a, ref: a, kind: 'article', label: L[1], level: level.get(a), sub: {k: 'loc', band: L[2], col: L[3]}}; });
     const links = [];
     for (const s of ids) for (const [d, c] of G.out.get(s) || []) if (idset.has(d) && d !== s) links.push({source: 'a' + s, target: 'a' + d, kind: 'xref', w: c});
+    if (withM) {
+      // the concepts the article discusses (its rail, 'Concepts discussed'): the articles whose lemma the text
+      // uses, the twelve most telling of them as nodes of their own; none where a reference already joins the two
+      const joined = new Set(neighbours(aid)), extra = [];
+      for (const r of G.mentions.get(aid) || []) {
+        const d = r[1];
+        if (d === aid || !m.byId.has(d) || joined.has(d)) continue;
+        if (!idset.has(d)) { if (extra.length >= 12) continue; extra.push(d); idset.add(d); }
+        links.push({source: 'a' + aid, target: 'a' + d, kind: 'mention', w: 1});
+      }
+      for (const d of extra) { const L = m.byId.get(d); nodes.push({id: 'a' + d, ref: d, kind: 'article', label: L[1], level: 1, sub: {k: 'loc', band: L[2], col: L[3]}}); }
+    }
     if (withP) {
       let top = (G.byArt.get(aid) || []).filter(r => { const P = G.P.get(r[1]); return P && !P.editor && P.role !== 'scholar' && r[2] + r[3] > 0; })
         .sort((a, b) => (b[2] + b[3]) - (a[2] + a[3]) || G.P.get(b[1]).n_articles - G.P.get(a[1]).n_articles || a[1] - b[1]).slice(0, 10).map(r => [r[1], r[2] + r[3]]);

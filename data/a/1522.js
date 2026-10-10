@@ -29,9 +29,8 @@ HWPH.put("a/1522",
  ],
  "outlinks":[{"id":1189,"lemma":"Großmut","n":1}],
  "register":[
-  {"term":"das","qualifier":"","band":"4","col":"681–684"},
-  {"term":"kritischer (Popper) 8 51 Gesellschaft, schöne","qualifier":"II","band":"4","col":"682"},
-  {"term":"schöne 9 89–92 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"Gesellschaft, schöne","qualifier":"II","band":"4","col":"682"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"Schönheit, innere","qualifier":"II","band":"4","col":"682"},
   {"term":"Schönheit, moralische","qualifier":"II","band":"4","col":"683f."},
   {"term":"virtuoso","qualifier":"II","band":null,"col":null},
@@ -93,7 +92,7 @@ HWPH.put("a/1522",
   {"id":435,"lemma":"Bildung","tf":2},
   {"id":1009,"lemma":"Gefühl","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1203,"lemma":"Gut, das Gute, das Gut"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Kalokagathia I"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Kalokagathia"}

@@ -17,7 +17,7 @@ HWPH.put("a/543",
  "next":{"id":544,"lemma":"Dekadenz","band":"2","col":47},
  "backlinks":[{"id":2673,"lemma":"Religion","n":1},{"id":3163,"lemma":"Theismus","n":1}],
  "outlinks":[],
- "register":[{"term":"natürliche bzw. vernünftige 8 713–727 s auch","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"s auch","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":55,"name":"D. Diderot","b":1,"n":1,"l":0,"editor":0,"role":"source"},

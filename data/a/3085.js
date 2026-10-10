@@ -21,7 +21,6 @@ HWPH.put("a/3085",
  "backlinks":[{"id":3047,"lemma":"Subjekt","n":1}],
  "outlinks":[{"id":1328,"lemma":"Hypostase","n":1},{"id":3060,"lemma":"Subsistenz","n":1}],
  "register":[
-  {"term":"I-II","qualifier":"","band":null,"col":null},
   {"term":"nomina rei/intentionis","qualifier":"","band":"10","col":"661"},
   {"term":"suppôt","qualifier":"","band":"10","col":"663"}
  ],
@@ -72,7 +71,13 @@ HWPH.put("a/3085",
   {"id":1199,"lemma":"Gruppe, soziale","tf":2},
   {"id":1424,"lemma":"Individuum, Individualität","tf":2}
  ],
- "see_also":[{"id":1328,"lemma":"Hypostase"},{"id":2318,"lemma":"Person"}],
+ "see_also":[
+  {"id":1328,"lemma":"Hypostase"},
+  {"id":2318,"lemma":"Person"},
+  {"id":3060,"lemma":"Subsistenz"},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens"},
+  {"id":3065,"lemma":"Substrat"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Suppositum"}],
  "reg_authors":[{"name":"Kible Brigitte","n":6}]
 }

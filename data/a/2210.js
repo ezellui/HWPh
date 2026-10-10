@@ -30,13 +30,12 @@ HWPH.put("a/2210",
   {"term":"dispositio","qualifier":"II (theol.)","band":null,"col":null},
   {"term":"économie","qualifier":"I (ökon.)","band":null,"col":null},
   {"term":"Erwerbskunst","qualifier":"I (ökon.)","band":"6","col":"1150"},
-  {"term":"Gewaltenteilung","qualifier":"I (ökon.)","band":"6","col":"1151"},
   {"term":"Haushaltung Gottes","qualifier":"II (theol.)","band":"6","col":"1158"},
   {"term":"Hausväterliteratur","qualifier":"I (ökon.)","band":"6","col":"1150"},
   {"term":"Hausverwaltungslehre","qualifier":"I (ökon.)","band":null,"col":null},
   {"term":"Heilsordnung","qualifier":"II (theol.)","band":null,"col":null},
   {"term":"Heilsplan","qualifier":"II (theol.)","band":null,"col":null},
-  {"term":"IV-V","qualifier":"I (ökon.)","band":"6","col":"1151"},
+  {"term":"Naturrecht","qualifier":"I (ökon.)","band":"6","col":"1151"},
   {"term":"oeconomia","qualifier":"I (ökon.)","band":null,"col":null},
   {"term":"oeconomia christiana","qualifier":"I (ökon.)","band":"6","col":"1151"},
   {"term":"Ökonomie des Heils","qualifier":"II (theol.)","band":null,"col":null},
@@ -50,6 +49,7 @@ HWPH.put("a/2210",
   {"term":"status civilis","qualifier":"I (ökon.)","band":"6","col":"1151"},
   {"term":"status oeconomicus","qualifier":"I (ökon.)","band":"6","col":"1151"},
   {"term":"status politicus","qualifier":"I (ökon.)","band":"6","col":"1151"},
+  {"term":"Untertan","qualifier":"I (ökon.)","band":"6","col":"1151"},
   {"term":"Vorsehung","qualifier":"II (theol.)","band":"6","col":"1155"},
   {"term":"Wirtschaftsbüchel","qualifier":"I (ökon.)","band":"6","col":"1150"},
   {"term":"ὀικονομία","qualifier":"I (ökon.)","band":null,"col":null}
@@ -278,12 +278,20 @@ HWPH.put("a/2210",
   {"id":1229,"lemma":"Haus","tf":3},
   {"id":3133,"lemma":"Tausch","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1229,"lemma":"Haus"},
+  {"id":2072,"lemma":"Nationalökonomie"},
+  {"id":2211,"lemma":"Ökonomie, politische"},
+  {"id":2396,"lemma":"Politik"},
+  {"id":3133,"lemma":"Tausch"},
+  {"id":3134,"lemma":"Tauschgesellschaft"},
+  {"id":3627,"lemma":"Wirken Gottes"}
+ ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Ökonomie I (ökon.)"},
   {"id":29,"name":"Ökonomie","label":"Ökonomie I (ökon.)"},
   {"id":44,"name":"Theologie","label":"Ökonomie II (theol.)"}
  ],
- "reg_authors":[{"name":"Dierse Ulrich","n":52},{"name":"Rabe Hannah","n":10},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Dierse Ulrich","n":52},{"name":"Rabe Hannah","n":10},{"name":"Red","n":241}]
 }
 );

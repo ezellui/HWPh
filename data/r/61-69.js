@@ -9,9 +9,6 @@ HWPH.put("r/61-69",
  ["Aisthesis","Wahrnehmung","I",null,null,"see",3539,"Wahrnehmung","aisthesis"],
  ["aisthesis (Lyotard)","Seele","IV","9","51","ref",2794,"Seele","aisthesis (lyotard)"],
  ["Aisthetik","Wahrnehmung","VIII (ästh.)","12","243","ref",3539,"Wahrnehmung","aisthetik"],
- ["Aion","Aion","",null,null,"main",69,"Aion","aion"],
- ["Aion","Welt","I",null,null,"ref",3557,"Welt","aion"],
- ["Aion","Ewigkeit","","2","840","ref",854,"Ewigkeit","aion"],
- ["Aion","Weltalter; Zeitalter","","12","449f.","ref",3559,"Weltalter; Zeitalter","aion"]
+ ["Aitiologia","Physiologie","","7","965","ref",2373,"Physiologie","aitiologia"]
 ]
 );

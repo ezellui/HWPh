@@ -23,6 +23,7 @@ HWPH.put("a/2661",
  "outlinks":[],
  "register":[
   {"term":"Ensomatose","qualifier":"","band":null,"col":null},
+  {"term":"Karma","qualifier":"","band":null,"col":null},
   {"term":"Metempsychose","qualifier":"","band":null,"col":null},
   {"term":"transmigratio","qualifier":"","band":null,"col":null}
  ],

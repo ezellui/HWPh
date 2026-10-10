@@ -8,7 +8,7 @@ HWPH.put("r/3b9-3b4",
   "ἰδία φύσις","Natura universalis/particularis","",null,null,"ref",2080,
   "Natura universalis/particularis","ιδια φυσισ"
  ],
- ["ἰδιογνώμονον","Eigenwille idiographisch","",null,null,"ref",null,null,"ιδιογνωμονον"],
+ ["ἰδιογνώμονον","Eigenwille","",null,null,"ref",671,"Eigenwille, Eigensinn","ιδιογνωμονον"],
  ["ἰδιολογία","Ideologie","I","4","158","ref",1373,"Ideologie","ιδιολογια"],
  ["ἰδίωμα","Dialekt","","2","164","ref",582,"Dialekt","ιδιωμα"],
  ["ἴδιον","Proprium","",null,null,"ref",2485,"Proprium","ιδιον"],

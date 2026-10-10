@@ -40,10 +40,7 @@ HWPH.put("a/3682",
   {"id":2880,"lemma":"Shinto; Schintoismus","n":1},
   {"id":3668,"lemma":"Yoga","n":1}
  ],
- "register":[
-  {"term":"realization","qualifier":"","band":"12","col":"1285"},
-  {"term":"– III (chin.) 5 967f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"realization","qualifier":"","band":"12","col":"1285"}],
  "persons":[
   {"id":3109,"name":"D. T. Suzuki","b":4,"n":4,"l":0,"editor":0,"role":"mixed"},
   {"id":3600,"name":"H. Dumoulin","b":1,"n":5,"l":0,"editor":0,"role":"mixed"},

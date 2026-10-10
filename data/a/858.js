@@ -18,7 +18,7 @@ HWPH.put("a/858",
  "backlinks":[{"id":3374,"lemma":"Variation; Varietät; Variabilität","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Hypothese","qualifier":"","band":null,"col":null},
+  {"term":"Hypothese","qualifier":"(Dingler)","band":null,"col":null},
   {"term":"Variabilität","qualifier":"","band":null,"col":null},
   {"term":"varietas","qualifier":"","band":null,"col":null}
  ],

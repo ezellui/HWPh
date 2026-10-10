@@ -21,8 +21,7 @@ HWPH.put("a/3343",
   {"term":"Uraffektion","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Urbewusstsein","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Urempfindung","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"Zeitbewusstsein, inneres","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"– I (erk.) 2 358–360 s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"Zeitbewusstsein, inneres","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -43,6 +42,6 @@ HWPH.put("a/3343",
   {"id":2699,"lemma":"Retention"}
  ],
  "groups":[{"id":31,"name":"Phänomenologie","label":"Urimpression (Husserl)"}],
- "reg_authors":[{"name":"Held Klaus","n":19},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Held Klaus","n":19},{"name":"Red","n":241}]
 }
 );

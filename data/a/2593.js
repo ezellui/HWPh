@@ -28,6 +28,8 @@ HWPH.put("a/2593",
  ],
  "outlinks":[{"id":2588,"lemma":"Realismus","n":1},{"id":2746,"lemma":"Satz der Phänomenalität","n":1}],
  "register":[
+  {"term":"Aussenwelt","qualifier":"","band":null,"col":null},
+  {"term":"external world","qualifier":"","band":null,"col":null},
   {"term":"In-der-Welt-sein","qualifier":"","band":"8","col":"210"},
   {"term":"private world","qualifier":"","band":"8","col":"210"},
   {"term":"Satz vom Grund","qualifier":"","band":"8","col":"207"},

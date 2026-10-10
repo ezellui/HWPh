@@ -42,6 +42,6 @@ HWPH.put("a/1654",
  "mentions":[{"id":2441,"lemma":"Prämisse","tf":2}],
  "see_also":[{"id":2197,"lemma":"Obversion"}],
  "groups":[{"id":22,"name":"Logik","label":"Konversion"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

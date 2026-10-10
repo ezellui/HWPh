@@ -25,7 +25,7 @@ HWPH.put("a/735",
   {"term":"aktual unendlich","qualifier":"","band":"2","col":"489f."},
   {"term":"Fiktion, heuristische","qualifier":"","band":"2","col":"490"},
   {"term":"Menge, unendliche","qualifier":"","band":"2","col":"491"},
-  {"term":"Schranke unendlich, aktual","qualifier":"","band":"2","col":"489f."},
+  {"term":"unendlich, aktual","qualifier":"","band":"2","col":"489f."},
   {"term":"unendlich/endlich","qualifier":"","band":null,"col":null},
   {"term":"Zahlen, natürliche","qualifier":"","band":"2","col":"490f."}
  ],

@@ -23,8 +23,7 @@ HWPH.put("a/35",
  "outlinks":[],
  "register":[
   {"term":"Absurdität","qualifier":"","band":null,"col":null},
-  {"term":"vernunftwidrig","qualifier":"","band":"1","col":"66"},
-  {"term":"– I (rhet.) 7 81–90 – II (theol.) 7 90–96 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"vernunftwidrig","qualifier":"","band":"1","col":"66"}
  ],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},

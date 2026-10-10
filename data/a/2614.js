@@ -51,14 +51,14 @@ HWPH.put("a/2614",
   {"id":2617,"lemma":"Rechtstheorie","n":1}
  ],
  "register":[
-  {"term":"Konvention","qualifier":"","band":"8","col":"320f."},
   {"term":"legal philosophy","qualifier":"","band":null,"col":null},
   {"term":"Nomos","qualifier":"","band":"8","col":"316f."},
   {"term":"Person, juristische","qualifier":"","band":"8","col":"317"},
   {"term":"persona naturalis/fictitia","qualifier":"","band":"8","col":"317"},
   {"term":"Philosophie des Rechts","qualifier":"","band":null,"col":null},
   {"term":"philosophie du droit","qualifier":"","band":null,"col":null},
-  {"term":"philosophy of law","qualifier":"","band":null,"col":null}
+  {"term":"philosophy of law","qualifier":"","band":null,"col":null},
+  {"term":"Vertrag","qualifier":"","band":"8","col":"320f."}
  ],
  "persons":[
   {"id":1175,"name":"O. Weinberger","b":1,"n":6,"l":0,"editor":0,"role":"scholar"},

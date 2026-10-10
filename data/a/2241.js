@@ -85,7 +85,13 @@ HWPH.put("a/2241",
   {"id":2233,"lemma":"Ordnung","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3117,"lemma":"Systemtheorie; System, soziales"},
+  {"id":558,"lemma":"Denkpsychologie"},
+  {"id":996,"lemma":"Gedächtnis"},
+  {"id":1272,"lemma":"Hierarchisierung"},
+  {"id":2744,"lemma":"Sättigung"}
+ ],
  "groups":[
   {"id":36,"name":"Psychologie","label":"Organisation II (psych.)"},
   {"id":42,"name":"Soziologie","label":"Organisation I (soz.)"}

@@ -17,7 +17,7 @@ HWPH.put("a/2338",
  "next":{"id":2339,"lemma":"Phaneroskopie, Phaneron","band":"7","col":460},
  "backlinks":[{"id":2334,"lemma":"Pflicht","n":1}],
  "outlinks":[{"id":2335,"lemma":"Pflichten, unvollkommene/vollkommene","n":1}],
- "register":[],
+ "register":[{"term":"Ethik, deontologische","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1432,"name":"H. A. Prichard","b":3,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":242,"name":"J. Bentham","b":2,"n":1,"l":0,"editor":0,"role":"source"},

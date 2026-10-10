@@ -22,6 +22,7 @@ HWPH.put("a/2158",
   {"term":"deskriptiv","qualifier":"","band":"6","col":"902"},
   {"term":"Emotivismus","qualifier":"","band":null,"col":null},
   {"term":"ethischer Nonkognitivismus","qualifier":"","band":null,"col":null},
+  {"term":"kognitiv/emotiv","qualifier":"","band":null,"col":null},
   {"term":"pro-attitude","qualifier":"","band":"6","col":"901"}
  ],
  "persons":[
@@ -91,7 +92,11 @@ HWPH.put("a/2158",
   {"id":3634,"lemma":"Wissen","tf":2},
   {"id":125,"lemma":"Analyse","tf":2}
  ],
- "see_also":[{"id":1938,"lemma":"Metaethik"},{"id":3357,"lemma":"Urteil, moralisches"}],
+ "see_also":[
+  {"id":1938,"lemma":"Metaethik"},
+  {"id":3357,"lemma":"Urteil, moralisches"},
+  {"id":3594,"lemma":"Werturteil; Werturteilsstreit"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Nonkognitivismus, ethischer"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Nonkognitivismus, ethischer"}

@@ -19,8 +19,7 @@ HWPH.put("a/895",
  "outlinks":[],
  "register":[
   {"term":"Licht","qualifier":"","band":"2","col":"908f."},
-  {"term":"Simultaneität","qualifier":"","band":"2","col":"909"},
-  {"term":"– I (ästh ) 4 1066f s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Simultaneität","qualifier":"","band":"2","col":"909"}
  ],
  "persons":[
   {"id":2473,"name":"R. de Piles","b":4,"n":3,"l":0,"editor":0,"role":"source"},

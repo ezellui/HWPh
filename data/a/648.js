@@ -24,7 +24,8 @@ HWPH.put("a/648",
   {"term":"Schwelle","qualifier":"","band":null,"col":null},
   {"term":"Unterschied, ebenmerklicher","qualifier":"","band":null,"col":null},
   {"term":"Unterschiedsempfindlichkeit","qualifier":"","band":null,"col":null},
-  {"term":"Wahrnehmungsschwelle","qualifier":"","band":null,"col":null}
+  {"term":"Wahrnehmungsschwelle","qualifier":"","band":null,"col":null},
+  {"term":"Webersches Gesetz","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1073,"name":"E. H. Weber","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

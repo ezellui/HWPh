@@ -25,8 +25,7 @@ HWPH.put("a/2652",
   {"term":"Autokatalyse","qualifier":"","band":"8","col":"491"},
   {"term":"Fliessgleichgewicht","qualifier":"","band":"8","col":"492"},
   {"term":"Kybernetik","qualifier":"","band":"8","col":"493"},
-  {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (biol.) 10 144–147 s auch","qualifier":"","band":null,"col":null}
+  {"term":"s auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3777,"name":"W. Pfeffer","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},

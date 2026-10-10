@@ -41,7 +41,7 @@ HWPH.put("a/3138",
   {"id":39017,"name":"M. Nolan","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":231,"lemma":"Arbeiter, Arbeiterfrage","tf":2},{"id":613,"lemma":"Disposition","tf":2}],
- "see_also":[],
+ "see_also":[{"id":2576,"lemma":"Rationalität, Rationalisierung"}],
  "groups":[
   {"id":29,"name":"Ökonomie","label":"Taylorismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Taylorismus"}

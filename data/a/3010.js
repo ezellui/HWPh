@@ -23,7 +23,6 @@ HWPH.put("a/3010",
  "outlinks":[{"id":3243,"lemma":"Typentheorie; Typenlogik","n":1}],
  "register":[
   {"term":"abzählbar","qualifier":"","band":"10","col":"97"},
-  {"term":"Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Nicht-Standard-Modell","qualifier":"","band":null,"col":null},
   {"term":"Satz von Löwenheim-Skolem","qualifier":"","band":"10","col":"96f."},
   {"term":"überabzählbar","qualifier":"","band":"10","col":"97"}

@@ -18,6 +18,7 @@ HWPH.put("a/2065",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Dummheit","qualifier":"(Wust)","band":"6","col":"364"},
   {"term":"Dumpfheit","qualifier":"(Wust)","band":"6","col":"363f."},
   {"term":"Pietät","qualifier":"(Wust)","band":null,"col":null},
   {"term":"Weltunerfahrenheit","qualifier":"(Wust)","band":"6","col":"364"}
@@ -36,6 +37,6 @@ HWPH.put("a/2065",
  ],
  "see_also":[{"id":3207,"lemma":"Torheit; Narrheit"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Naivität/Pietät (Wust)"}],
- "reg_authors":[{"name":"Leenhouwers Albuinus","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Leenhouwers Albuinus","n":1},{"name":"Red","n":241}]
 }
 );

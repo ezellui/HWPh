@@ -18,9 +18,11 @@ HWPH.put("a/3336",
  "backlinks":[{"id":3678,"lemma":"Zeitgeist","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Mode","qualifier":"","band":null,"col":null},
-  {"term":"Tagesbedürfnisse","qualifier":"","band":"11","col":"348"},
-  {"term":"unfashionable","qualifier":"","band":null,"col":null}
+  {"term":"inactuel","qualifier":"(Nietzsche)","band":null,"col":null},
+  {"term":"Mode","qualifier":"(Nietzsche)","band":null,"col":null},
+  {"term":"Tagesbedürfnisse","qualifier":"(Nietzsche)","band":"11","col":"348"},
+  {"term":"unfashionable","qualifier":"(Nietzsche)","band":null,"col":null},
+  {"term":"unmodern","qualifier":"(Nietzsche)","band":null,"col":null}
  ],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":1,"n":3,"l":0,"editor":0,"role":"source"},
@@ -35,7 +37,7 @@ HWPH.put("a/3336",
   {"id":18802,"name":"B. Scholz","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":3678,"lemma":"Zeitgeist"}],
  "groups":[
   {"id":13,"name":"Geschichtsphilosophie","label":"Unzeitgemäss (Nietzsche)"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Unzeitgemäss (Nietzsche)"}

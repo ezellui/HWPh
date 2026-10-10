@@ -19,12 +19,7 @@ HWPH.put("a/1208",
  "outlinks":[],
  "register":[
   {"term":"Ich, personales","qualifier":"(Husserl)","band":"3","col":"984"},
-  {
-   "term":"primäres/sekundäres (Reininger) Ich, transzendentales",
-   "qualifier":"(Husserl)",
-   "band":null,
-   "col":null
-  },
+  {"term":"Ich, transzendentales","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Überzeugung","qualifier":"(Husserl)","band":"3","col":"984"}
  ],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],

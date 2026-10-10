@@ -1,0 +1,15 @@
+HWPH.put("p/64-77",
+{"dw":[["DW","2t:;;k6,6,5,5 1il:;;182,a,8 4n:;;2hp,3,9,6,d,5 ek:;;2t,j,6,e,n,7 u:;;nc,9,8,4,e,i,9,13 9:;;18,a,r 11:;;1bf,1i,u 8m:;;x3,10,5,c 2o:;;1vu,8 26:;;9y,9,6 2y:;;5uf,s,k,5,29,6,8,6,l,11,m,d,2k 11:;;gu 8:;;9z,19,7,6 27:;;8o,p,9,8,e 12:;;po,e,7,d z:;;1u5,9,n,5,5,5,5,a,l"]],
+"dw2":[["DW2","1q1:;;2ic fe:;;og"]],
+"dwaasheid":[["dwaasheid","2h3:;g"]],
+"dwell":[["dwell","27p:;7gh,ah fe:;iz8"]],
+"dwelling":[["dwelling","2ti:;2"]],
+"dwelshauvers":[["DWELSHAUVERS","1xr:;;1zt;av"]],
+"dwelt":[["dwelt","1m0:;1x5"]],
+"dwir":[["Dwir","161:;1ae;do"]],
+"dworetzki":[["DWORETZKI","dk:;;2g bk:;;4y"]],
+"dworkin":[["DWORKIN","20m:;2pc;nf,co,9u,2h 3:;19d;w8,de 79:;4p3 4d:;;4zf 78:;;41 as:;;ce"]],
+"dworkins":[["DWORKINS","20p:;1p6"]],
+"dwuwartosciowa":[["dwuwartosciowa","2vh:;1h"],["dwuwartościowa","1ee:;;73"]],
+"dwyer":[["DWYER","1td:;;;rq kp:;;193"]]}
+);

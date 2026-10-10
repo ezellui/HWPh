@@ -23,7 +23,7 @@ HWPH.put("a/40",
   {"id":21350,"name":"Paul Schilpp","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":3567,"lemma":"Weltgeschichte; Universalgeschichte"}],
  "groups":[{"id":8,"name":"Epochenbegriffe","label":"Achsenzeit (Jaspers)"}],
  "reg_authors":[{"name":"Lohff Wenzel","n":7}]
 }

@@ -46,8 +46,7 @@ HWPH.put("a/3710",
   {"term":"eineindeutig","qualifier":"","band":"12","col":"1440"},
   {"term":"Entsprechung","qualifier":"","band":"12","col":"1439"},
   {"term":"mapping","qualifier":"","band":null,"col":null},
-  {"term":"Verbindung","qualifier":"","band":"12","col":"1439"},
-  {"term":"– I (math.) 2 1138–1140 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verbindung","qualifier":"","band":"12","col":"1439"}
  ],
  "persons":[
   {"id":3265,"name":"P. G. L. Dirichlet","b":2,"n":4,"l":0,"editor":0,"role":"source"},

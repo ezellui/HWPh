@@ -29,8 +29,7 @@ HWPH.put("a/853",
   {"term":"Abstammungslehre","qualifier":"","band":null,"col":null},
   {"term":"Deszendenztheorie","qualifier":"","band":null,"col":null},
   {"term":"Entwicklungstheorie","qualifier":"","band":null,"col":null},
-  {"term":"Stammesentwicklung","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 2 550–557 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Stammesentwicklung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":1,"l":0,"editor":0,"role":"source"},

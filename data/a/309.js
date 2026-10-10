@@ -25,9 +25,9 @@ HWPH.put("a/309",
  "register":[
   {"term":"abstract proposition","qualifier":"","band":"1","col":"671"},
   {"term":"Aussagefunktion","qualifier":"","band":"1","col":"671"},
-  {"term":"formale/materiale (Husserl) ἀποφαντικός/σημαντικός","qualifier":"","band":"1","col":"670"},
   {"term":"propositio mentalis","qualifier":"","band":"1","col":"671"},
   {"term":"Variable","qualifier":"","band":"1","col":"671"},
+  {"term":"ἀποφαντικός/σημαντικός","qualifier":"","band":"1","col":"670"},
   {"term":"λόγος","qualifier":"","band":"1","col":"670"}
  ],
  "persons":[

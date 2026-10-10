@@ -43,7 +43,6 @@ HWPH.put("a/786",
   {"term":"experientia literata","qualifier":"","band":"2","col":"612"},
   {"term":"experientia vaga/ordinata","qualifier":"","band":"2","col":"611f."},
   {"term":"Gegebenes","qualifier":"","band":"2","col":"613"},
-  {"term":"Kunst; Kunstwerk","qualifier":"","band":"2","col":"609"},
   {"term":"Prüfung des Wissens","qualifier":"","band":"2","col":"616"},
   {"term":"Schema","qualifier":"","band":null,"col":null},
   {"term":"Urteil, empirisches","qualifier":"","band":"2","col":"614f."},
@@ -51,7 +50,8 @@ HWPH.put("a/786",
   {"term":"Wahrnehmungsurteil","qualifier":"","band":"2","col":"614"},
   {"term":"Weltbegriff, natürlicher","qualifier":"","band":"2","col":"613"},
   {"term":"Wissen","qualifier":"","band":"2","col":"616"},
-  {"term":"Wissen des Besonderen","qualifier":"","band":"2","col":"610f."}
+  {"term":"Wissen des Besonderen","qualifier":"","band":"2","col":"610f."},
+  {"term":"τέχνη","qualifier":"","band":"2","col":"609"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":3,"n":1,"l":0,"editor":0,"role":"source"},

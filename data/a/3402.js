@@ -19,8 +19,7 @@ HWPH.put("a/3402",
  "outlinks":[{"id":2444,"lemma":"Präsenz","n":1}],
  "register":[
   {"term":"Einfühlung","qualifier":"","band":"11","col":"665"},
-  {"term":"présentification","qualifier":"","band":"11","col":"665"},
-  {"term":"– II (Husserl) 7 1257 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"présentification","qualifier":"","band":"11","col":"665"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":3,"l":0,"editor":0,"role":"source"},

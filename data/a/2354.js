@@ -19,7 +19,8 @@ HWPH.put("a/2354",
   {"id":126,"lemma":"Analyse/Synthese","n":1},
   {"id":2232,"lemma":"Ordinary Language Philosophy","n":1},
   {"id":2340,"lemma":"Phänomen","n":1},
-  {"id":2342,"lemma":"Phänomenalismus, linguistischer","n":1}
+  {"id":2342,"lemma":"Phänomenalismus, linguistischer","n":1},
+  {"id":2991,"lemma":"Sprachkritik","n":1}
  ],
  "outlinks":[
   {"id":126,"lemma":"Analyse/Synthese","n":1},
@@ -28,9 +29,8 @@ HWPH.put("a/2354",
   {"id":3618,"lemma":"Wiener Kreis","n":1}
  ],
  "register":[
-  {"term":"analytische Philosophie","qualifier":"","band":null,"col":null},
-  {"term":"K","qualifier":"","band":null,"col":null},
-  {"term":"K 7 790","qualifier":"","band":"7","col":"879"}
+  {"term":"Analysis, philosophische","qualifier":"","band":"7","col":"879"},
+  {"term":"analytische Philosophie","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":630,"name":"M. Dummett","b":2,"n":1,"l":1,"editor":0,"role":"scholar"},
@@ -67,7 +67,8 @@ HWPH.put("a/2354",
  "see_also":[
   {"id":125,"lemma":"Analyse"},
   {"id":2232,"lemma":"Ordinary Language Philosophy"},
-  {"id":2353,"lemma":"Philosophie"}
+  {"id":2353,"lemma":"Philosophie"},
+  {"id":2983,"lemma":"Sprachanalyse"}
  ],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Philosophie, analytische"}],
  "reg_authors":[{"name":"Wälde Martin","n":4}]

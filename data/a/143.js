@@ -32,7 +32,7 @@ HWPH.put("a/143",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Emanation","qualifier":"","band":"1","col":"308"},
+  {"term":"Eine, das","qualifier":"","band":"1","col":"308"},
   {"term":"Gottähnlichwerden","qualifier":"","band":null,"col":null},
   {"term":"Homoiosis","qualifier":"","band":null,"col":null},
   {"term":"similitudo dei","qualifier":"","band":null,"col":null},

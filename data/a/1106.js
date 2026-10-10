@@ -23,8 +23,7 @@ HWPH.put("a/1106",
   {"term":"lex aeterna","qualifier":"","band":null,"col":null},
   {"term":"ratio divina","qualifier":"","band":"3","col":"514"},
   {"term":"sapientia divina","qualifier":"","band":"3","col":"514f."},
-  {"term":"Schicksal","qualifier":"","band":"3","col":"514"},
-  {"term":"– II (theol ) 3 494–514 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Schicksal","qualifier":"","band":"3","col":"514"}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":1,"n":2,"l":0,"editor":0,"role":"source"},

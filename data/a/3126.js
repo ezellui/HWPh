@@ -19,8 +19,7 @@ HWPH.put("a/3126",
  "outlinks":[{"id":1505,"lemma":"Jainismus","n":1}],
  "register":[
   {"term":"Glut, innere","qualifier":"","band":null,"col":null},
-  {"term":"Hitze","qualifier":"","band":null,"col":null},
-  {"term":"– II (rel.) 1 541 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Hitze","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":20056,"name":"Sri Aurobindo","b":1,"n":1,"l":0,"editor":0,"role":"source"},

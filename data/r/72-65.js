@@ -1,114 +1,22 @@
 HWPH.put("r/72-65",
 [
- ["Reflex","Reflex","","8","393","main",2633,"Reflex, Reflexbewegung","reflex"],
- ["Religionskritik","Religionskritik","","8","740","main",2677,"Religionskritik","religionskritik"],
- [
-  "Religionsphilosophie","Religionsphilosophie","","8","757","main",2679,"Religionsphilosophie",
-  "religionsphilosophie"
- ],
- [
-  "Realität der Aussenwelt Aussenwelt/Innenwelt","Realität der Aussenwelt Aussenwelt/Innenwelt","",
-  null,null,"main",null,null,"realitat der aussenwelt aussenwelt/innenwelt"
- ],
+ ["Repugnanz","Repugnanz","I","8","882","main",2689,"Repugnanz","repugnanz"],
+ ["Repugnanz","Sympathie","I (nat.)","10","753","ref",3098,"Sympathie","repugnanz"],
  ["Recte/oblique","Recte/oblique","","8","362","main",2621,"Recte/oblique","recte/oblique"],
  [
   "Recte/oblique","Undurchsichtigkeit","II (Quine)","11","139","ref",3290,"Undurchsichtigkeit",
   "recte/oblique"
  ],
- ["Republik","Republik","","8","871","main",2688,"Republik","republik"],
- ["Republik","Staat","I","10","5f.","ref",2998,"Staat","republik"],
- ["Realitas","Realitas","","8","183","main",2589,"Realitas","realitas"],
- ["Realitas","Sein; Seiendes","IV","9","206","ref",2806,"Sein; Seiendes","realitas"],
- ["Realitas","Wirklichkeit","","12","830","ref",3628,"Wirklichkeit","realitas"],
- ["Religion","Religion","V B","8","652","main",2673,"Religion","religion"],
- [
-  "Reflexionsbegriffe","Reflexionsbegriffe","",null,null,"main",2635,"Reflexionsbegriffe",
-  "reflexionsbegriffe"
- ],
- ["Reflexionsbegriffe","Dasein","","2","17","ref",527,"Dasein","reflexionsbegriffe"],
- [
-  "Reflexionsbegriffe","Identitätssystem (Schelling)","","4","155","ref",1370,
-  "Identitätssystem, Identität, Indifferenz","reflexionsbegriffe"
- ],
- ["Reflexionsbegriffe","Reflexion","","8","397","ref",2634,"Reflexion","reflexionsbegriffe"],
- [
-  "Realität, psychische","Realität, psychische","","8","201","main",2592,"Realität, psychische",
-  "realitat, psychische"
- ],
- [
-  "Realität, psychische","Schluss, praktischer","","8","1308f.","ref",2770,"Schluß, praktischer",
-  "realitat, psychische"
- ],
- ["Realität, psychische","Verstehen","","11","932ff.","ref",3438,"Verstehen","realitat, psychische"],
- [
-  "Rehabilitation der Materie/des Fleisches","Rehabilitation der Materie/des Fleisches","",null,null,
-  "main",null,null,"rehabilitation der materie/des fleisches"
- ],
- [
-  "Rehabilitation der Materie/des Fleisches","Versuchung","","11","954","ref",3442,"Versuchung",
-  "rehabilitation der materie/des fleisches"
- ],
- [
-  "Repräsentation","Repräsentation","IV (psych.)","8","843","main",2686,"Repräsentation",
-  "reprasentation"
- ],
- ["Religion","Religion","VIII 1","8","684","main",2673,"Religion","religion"],
- ["Religion","Religion","VII","8","681","main",2673,"Religion","religion"],
- ["Repräsentation","Repräsentation","I 2","8","795","main",2686,"Repräsentation","reprasentation"],
- ["Realitas","Realitas","","8","181ff.","main",2589,"Realitas","realitas"],
- ["Regel","Regel","II (eth.)",null,null,"main",2640,"Regel","regel"],
- [
-  "Religionssoziologie","Religionssoziologie","","8","769","main",2681,"Religionssoziologie",
-  "religionssoziologie"
- ],
- [
-  "Relation des Urteils","Relation des Urteils","","8","611","main",2669,"Relation des Urteils",
-  "relation des urteils"
- ],
- ["Reinkarnation","Reinkarnation","",null,null,"main",2661,"Reinkarnation","reinkarnation"],
- ["Reinkarnation","Sam. sāra","","8","1164","ref",2740,"Samsara","reinkarnation"],
- [
-  "Reinheit; Reinigung","Reinheit; Reinigung","",null,null,"main",2660,"Reinheit, Reinigung",
-  "reinheit; reinigung"
- ],
- [
-  "Religionsfreiheit","Religionsfreiheit","",null,null,"main",2675,"Religionsfreiheit",
-  "religionsfreiheit"
- ],
- [
-  "Realität, formale/objektive","Realität, formale/objektive","II","8","199","main",2591,
-  "Realität, formale/objektive","realitat, formale/objektive"
- ],
  [
   "Repulsion/Attraktion","Repulsion/Attraktion","",null,null,"main",2690,"Repulsion/Attraktion",
   "repulsion/attraktion"
- ],
- ["Regula Lesbia","Regula Lesbia","",null,null,"main",2651,"Regula Lesbia","regula lesbia"],
- [
-  "Repräsentation","Repräsentation","II (pol.)","8","822","main",2686,"Repräsentation",
-  "reprasentation"
- ],
- [
-  "Rest, metaphysischer","Rest, metaphysischer","","8","925","main",2696,"Rest, metaphysischer",
-  "rest, metaphysischer"
  ],
  ["Repugnanz","Repugnanz","II (Kant)","8","883","main",2689,"Repugnanz","repugnanz"],
  ["Republik","Republik","","8","868","main",2688,"Republik","republik"],
  ["Republik","Vielheit","I","11","1046","ref",3462,"Vielheit","republik"],
  ["Realitas","Realitas","","8","184","main",2589,"Realitas","realitas"],
  ["Realitas","Totalität","II","10","1303","ref",3209,"Totalität","realitas"],
- [
-  "Repräsentation","Repräsentation","II (pol.)","8","815","main",2686,"Repräsentation",
-  "reprasentation"
- ],
- ["Realismus","Realismus","III (analyt. Philos.)","8","163","main",2588,"Realismus","realismus"],
  ["Republik","Republik","","8","865","main",2688,"Republik","republik"],
- ["Relation","Relation","II","8","593","main",2668,"Relation","relation"],
- ["Relation","Transzendental","IV","10","1374","ref",3219,"Transzendental","relation"],
- [
-  "Reinheit; Reinigung","Reinheit; Reinigung","III 2","8","543","main",2660,"Reinheit, Reinigung",
-  "reinheit; reinigung"
- ],
  ["reactio","Wechselwirkung","","12","334f.","ref",3550,"Wechselwirkung","reactio"],
  ["readiness","Vigilanz","","11","1056","ref",3464,"Vigilanz","readiness"],
  [
@@ -158,9 +66,9 @@ HWPH.put("r/72-65",
   "reaktionsbildung"
  ],
  ["Reaktionsbildung","Gegenbesetzung","",null,null,"see",1017,"Gegenbesetzung","reaktionsbildung"],
- ["Reaktionsbildung","Scham C","4","8","1215","ref",2752,"Schamanismus","reaktionsbildung"],
+ ["Reaktionsbildung","Scham","C 4","8","1215","ref",2751,"Scham, Scheu","reaktionsbildung"],
  ["Reaktionsweise","Charakter","I (allg.)","1","989","ref",486,"Charakter","reaktionsweise"],
- ["Reaktionszeit","Latenz III (psych.)","","5","43f.","ref",1731,"Latent, Latenz","reaktionszeit"],
+ ["Reaktionszeit","Latenz","III (psych.)","5","43f.","ref",1731,"Latent, Latenz","reaktionszeit"],
  ["Reaktivbewegung","Psychomotorik","I","7","1681","ref",2524,"Psychomotorik","reaktivbewegung"],
  [
   "Reaktivität/Aktivität","Temperament","III","10","994","ref",3148,"Temperament",
@@ -199,7 +107,7 @@ HWPH.put("r/72-65",
  ],
  ["Realgrund","Realgrund","","8","135–140","main",2585,"Realgrund","realgrund"],
  ["Realgrund","Ratio","",null,null,"see",2570,"Ratio","realgrund"],
- ["Realgrund","Erklären II (wiss.)","","2","697","ref",801,"Erklären, Erklärung","realgrund"],
+ ["Realgrund","Erklären","II (wiss.)","2","697","ref",801,"Erklären, Erklärung","realgrund"],
  ["Realgrund","Possibilien","II","7","1138","ref",2413,"Possibilien","realgrund"],
  [
   "Realgrund","Principium rationis sufficientis","","7","1329f.","ref",2457,
@@ -242,6 +150,19 @@ HWPH.put("r/72-65",
   "realisme spiritualiste"
  ],
  ["Realismus","Realismus","","8","148–178","main",2588,"Realismus","realismus"],
+ ["Realismus","Allgemeines/Besonderes","",null,null,"see",101,"Allgemeines/Besonderes","realismus"],
+ ["Realismus","Nominalismus","",null,null,"see",2150,"Nominalismus","realismus"],
+ ["Realismus","Universalien","",null,null,"see",3302,"Universalien","realismus"],
+ [
+  "Realismus","Idealismus, transzendentaler; Realismus, empirischer","(Kant)",null,null,"see",1343,
+  "Idealismus","realismus"
+ ],
+ ["Realismus","Idealrealismus","",null,null,"see",1356,"Idealrealismus","realismus"],
+ [
+  "Realismus","Neurealismus","",null,null,"see",2122,"Neurealismus (Neorealismus), New Realism",
+  "realismus"
+ ],
+ ["Realismus","Wahrnehmung","VII (analyt. Philos.)",null,null,"see",3539,"Wahrnehmung","realismus"],
  ["Realismus","Objektivismus","","6","1064","ref",2192,"Objektivismus","realismus"],
  ["Realismus","Solipsismus","","9","1021","ref",2918,"Solipsismus","realismus"],
  [
@@ -274,8 +195,11 @@ HWPH.put("r/72-65",
   "Realismus, kritischer","Neurealismus I","",null,null,"ref",2122,
   "Neurealismus (Neorealismus), New Realism","realismus, kritischer"
  ],
- ["Realismus, kritischer","Realismus","II",null,null,"ref",2588,"Realismus","realismus, kritischer"],
- ["Realismus, naiver","Realismus","II",null,null,"ref",2588,"Realismus","realismus, naiver"],
+ [
+  "Realismus, kritischer","Realismus","II 2",null,null,"ref",2588,"Realismus",
+  "realismus, kritischer"
+ ],
+ ["Realismus, naiver","Realismus","II 3",null,null,"ref",2588,"Realismus","realismus, naiver"],
  ["Realismus, naiver","Materialismus","","5","848","ref",1886,"Materialismus","realismus, naiver"],
  [
   "Realismus, natürlicher","Realismus","II 3","8","160","ref",2588,"Realismus",
@@ -285,7 +209,14 @@ HWPH.put("r/72-65",
   "Realismus, ökologischer","Psychologie","","7","1646","ref",2511,"Psychologie",
   "realismus, okologischer"
  ],
- ["Realismus, ökologischer","Raum","",null,null,"ref",2578,"Raum","realismus, okologischer"],
+ [
+  "Realismus, ökologischer","Raum; Raumwahrnehmung","","8","118","ref",2579,
+  "Raum, Raumwahrnehmung, psychologischer Raum","realismus, okologischer"
+ ],
+ [
+  "Realismus, ökologischer","Sinne, die","","9","860","ref",2892,"Sinne, die",
+  "realismus, okologischer"
+ ],
  [
   "Realismus, philosophischer","Realismus","II 2","8","159","ref",2588,"Realismus",
   "realismus, philosophischer"
@@ -307,7 +238,7 @@ HWPH.put("r/72-65",
   "realismus, sozialistischer"
  ],
  [
-  "Realismus, transzendentaler","Realismus","II",null,null,"ref",2588,"Realismus",
+  "Realismus, transzendentaler","Realismus","II 1",null,null,"ref",2588,"Realismus",
   "realismus, transzendentaler"
  ],
  [
@@ -437,7 +368,11 @@ HWPH.put("r/72-65",
  ["realitas","Dasein","","2","16","ref",527,"Dasein","realitas"],
  ["realitas","Univozität","II","11","229","ref",3311,"Univozität; univok","realitas"],
  ["realitas","Vollkommenheit","","11","1123","ref",3482,"Vollkommenheit","realitas"],
- ["realitas/negatio","Negation","",null,null,"ref",2100,"Negation","realitas/negatio"],
+ [
+  "realitas/negatio","Negation; Negativität","I","6","674","ref",2101,"Negation, Negativität",
+  "realitas/negatio"
+ ],
+ ["realitas entis","Haecceitas","","3","985","ref",1210,"Haecceitas","realitas entis"],
  [
   "realitas formalis","Realität, formale/objektive","I",null,null,"ref",2591,
   "Realität, formale/objektive","realitas formalis"
@@ -489,7 +424,11 @@ HWPH.put("r/72-65",
   "Realpsychologie","Psychologie, beschreibende und zergliedernde","",null,null,"see",2512,
   "Psychologie, beschreibende und zergliedernde","realpsychologie"
  ],
- ["Realpsychologie","Psychologie","",null,null,"see",2511,"Psychologie","realpsychologie"],
+ [
+  "Realpsychologie","Psychologie, geisteswissenschaftliche","",null,null,"see",2511,"Psychologie",
+  "realpsychologie"
+ ],
+ ["Realraum","Raum","III","8","96","ref",2578,"Raum","realraum"],
  [
   "Realrelation/Idealrelation","Realrelation/Idealrelation","(Meinong)","8","214","main",2596,
   "Realrelation/Idealrelation","realrelation/idealrelation"
@@ -510,18 +449,20 @@ HWPH.put("r/72-65",
  ["reason","Vernunft; Verstand","V","11","813ff.","ref",3423,"Vernunft; Verstand","reason"],
  ["reason","Vernunft; Verstand","VII F","11","858","ref",3423,"Vernunft; Verstand","reason"],
  ["reason of state","Staatsräson","",null,null,"ref",3001,"Staatsräson","reason of state"],
- ["reasoning","Schluss reatus","",null,null,"ref",null,null,"reasoning"],
+ ["reasoning","Schluss","",null,null,"ref",2769,"Schluß","reasoning"],
+ ["reatus","Schuld","",null,null,"ref",2784,"Schuld","reatus"],
+ ["reatus","Sünde","II","10","603","ref",3075,"Sünde","reatus"],
  ["recapitulatio","Freiheit","II","2","1077","ref",946,"Freiheit","recapitulatio"],
  [
   "recapitulatio omnium","Wiederbringung","","12","721","ref",3612,"Wiederbringung",
   "recapitulatio omnium"
  ],
  ["received view","Theorie","II","10","1147","ref",3179,"Theorie","received view"],
- ["recentering","Umstrukturierung receptio","",null,null,"ref",null,null,"recentering"],
  [
-  "Rezeption, juristische","Rezeption, juristische","",null,null,"main",2711,
-  "Rezeption, juristische","rezeption, juristische"
+  "recentering","Umstrukturierung","",null,null,"ref",3277,"Umstrukturierung; Umzentrierung",
+  "recentering"
  ],
+ ["receptio","Rezeption, juristische","",null,null,"ref",2711,"Rezeption, juristische","receptio"],
  [
   "receptio/emissio","Systole/Diastole","","10","870","ref",3118,"Systole/Diastole",
   "receptio/emissio"
@@ -534,11 +475,12 @@ HWPH.put("r/72-65",
  ],
  ["Rechenschaft geben","Wissen","I B","12","859","ref",3634,"Wissen","rechenschaft geben"],
  ["Rechnen","Rechnen","","8","214–220","main",2597,"Rechnen","rechnen"],
- ["Rechnen","Kalkül","",null,null,"ref",1521,"Kalkül","rechnen"],
- ["Rechnen","Scientia generalis","(Leibniz)","8","1507","ref",2790,"Scientia generalis","rechnen"],
+ ["Rechnen","Algebra","",null,null,"see",95,"Algebra","rechnen"],
+ ["Rechnen","Arithmetik","",null,null,"see",247,"Arithmetik","rechnen"],
+ ["Rechnen","Zahl","",null,null,"see",3670,"Zahl; Zählen","rechnen"],
  [
-  "Recht s. auch","Register der Sachgruppen: Rechtsphilosophie und Rechtstheorie","",null,null,"ref",
-  null,null,"recht s. auch"
+  "Recht","Register der Sachgruppen: Rechtsphilosophie und Rechtstheorie","",null,null,"see",null,
+  null,"recht"
  ],
  ["Recht","Recht","","8","221–233","main",2598,"Recht","recht"],
  ["Recht","Gerechtigkeit","",null,null,"see",1083,"Gerechtigkeit","recht"],
@@ -565,7 +507,7 @@ HWPH.put("r/72-65",
   "main",2599,"Recht, positives; Rechtspositivismus","recht, positives; rechtspositivismus"
  ],
  [
-  "Recht, positives; Rechtspositivismus","Naturrecht","IV",null,null,"see",2089,"Naturrecht",
+  "Recht, positives; Rechtspositivismus","Naturrecht","IV 4",null,null,"see",2089,"Naturrecht",
   "recht, positives; rechtspositivismus"
  ],
  [
@@ -617,6 +559,15 @@ HWPH.put("r/72-65",
   "rechte des menschen; menschenrechte"
  ],
  ["Rechtfertigung","Rechtfertigung","","8","251–265","main",2601,"Rechtfertigung","rechtfertigung"],
+ [
+  "Rechtfertigung","Rationalität","III (analyt. Philos.)",null,null,"see",2576,
+  "Rationalität, Rationalisierung","rechtfertigung"
+ ],
+ ["Rechtfertigung","Lohn","II (theol.)",null,null,"see",1828,"Lohn, Verdienst","rechtfertigung"],
+ ["Rechtfertigung","Versöhnung","I (theol.)",null,null,"see",3434,"Versöhnung","rechtfertigung"],
+ ["Rechtfertigung","Verzeihen","",null,null,"see",3457,"Verzeihen; Vergeben","rechtfertigung"],
+ ["Rechtfertigung","Werkgerechtigkeit","",null,null,"see",3587,"Werkgerechtigkeit","rechtfertigung"],
+ ["Rechtfertigung","Zurechnung","II (theol.)",null,null,"see",3712,"Zurechnung","rechtfertigung"],
  ["Rechtfertigung (theol.)","Rat","II","8","36","ref",2569,"Rat","rechtfertigung (theol.)"],
  [
   "Rechtfertigung der Natur","Vorsehung","","11","1215","ref",3500,"Vorsehung",
@@ -630,7 +581,17 @@ HWPH.put("r/72-65",
   "Rechtfertigungszusammenhang","Rekonstruktion","","8","574","ref",2667,"Rekonstruktion",
   "rechtfertigungszusammenhang"
  ],
- ["Rechthaberei","Dialektik","IV",null,null,"ref",583,"Dialektik","rechthaberei"],
+ ["Rechthaberei","Dialektik","IV 2. 1",null,null,"ref",583,"Dialektik","rechthaberei"],
+ [
+  "Rechtmässigkeit","Legalität; Legitimität","",null,null,"ref",1762,"Legalität, Legitimität",
+  "rechtmassigkeit"
+ ],
+ [
+  "rechts/links","Anisotropie/Isotropie","","1","319","ref",149,"Anisotropie/Isotropie",
+  "rechts/links"
+ ],
+ ["rechts/links","Relation","V","8","609","ref",2668,"Relation","rechts/links"],
+ ["rechts/links","Weiblich/männlich","II","12","353","ref",3552,"Weiblich/männlich","rechts/links"],
  ["Rechtsakt","Rechtsakt","","8","265f.","main",2602,"Rechtsakt","rechtsakt"],
  ["Rechtsakt","Rechtslehre","",null,null,"see",2609,"Rechtslehre","rechtsakt"],
  [
@@ -740,7 +701,11 @@ HWPH.put("r/72-65",
   "Rechtsprechung","Interessenjurisprudenz","",null,null,"ref",1476,"Interessenjurisprudenz",
   "rechtsprechung"
  ],
- ["Rechtsprozess","Prozess I 1 (jur.) Rechtssatz","",null,null,"ref",null,null,"rechtsprozess"],
+ ["Rechtsprozess","Prozess","I 1 (jur.)",null,null,"ref",2499,"Prozeß","rechtsprozess"],
+ ["Rechtssatz","Gesetz","I (jur.)","3","490f.","ref",1105,"Gesetz","rechtssatz"],
+ ["Rechtssatz","Norm","I","6","909","ref",2160,"Norm","rechtssatz"],
+ ["Rechtssatz","Rechtsnorm","","8","292","ref",2610,"Rechtsnorm","rechtssatz"],
+ ["Rechtssatz","Tatbestand","","10","906","ref",3128,"Tatbestand","rechtssatz"],
  ["Rechtssicherheit","Gerechtigkeit","II 2","3","337","ref",1083,"Gerechtigkeit","rechtssicherheit"],
  ["Rechtssicherheit","Rechtsidee","","8","282","ref",2606,"Rechtsidee","rechtssicherheit"],
  [
@@ -803,7 +768,7 @@ HWPH.put("r/72-65",
  ["Recte/oblique","Connotatio","",null,null,"see",510,"Connotatio","recte/oblique"],
  ["Recte/oblique","Konnotation","I",null,null,"see",1618,"Konnotation","recte/oblique"],
  ["rectitudo","Richtigkeit","",null,null,"ref",2717,"Richtigkeit","rectitudo"],
- ["rectitudo","Erkenntnis I (erk.)","","2","649f.","ref",796,"Erkennen, Erkenntnis","rectitudo"],
+ ["rectitudo","Erkenntnis","I (erk.)","2","649f.","ref",796,"Erkennen, Erkenntnis","rectitudo"],
  ["rectitudo","Geist","IV","3","172","ref",1030,"Geist","rectitudo"],
  ["rectitudo","Gerechtigkeit","I","3","332","ref",1083,"Gerechtigkeit","rectitudo"],
  ["rectitudo","Konform","","4","953","ref",1609,"Konform, Konformität","rectitudo"],
@@ -829,13 +794,14 @@ HWPH.put("r/72-65",
   "Rede, gerade/ungerade","Sinn/Bedeutung","","9","810","ref",2889,"Sinn/Bedeutung",
   "rede, gerade/ungerade"
  ],
- ["Rede, innere","Wort","",null,null,"ref",3656,"Wort","rede, innere"],
+ ["Rede, innere","Wort, inneres","",null,null,"ref",3656,"Wort","rede, innere"],
+ ["Rede an die Kreatur","Stimme","","10","167","ref",3025,"Stimme","rede an die kreatur"],
  ["Redegeselle","Du","","2","296","ref",639,"Du","redegeselle"],
  ["Redehandlung","Sprechakt","",null,null,"ref",2995,"Sprechakt","redehandlung"],
- ["Redekunst","Rhetorik Reden von Gott","",null,null,"ref",null,null,"redekunst"],
+ ["Redekunst","Rhetorik","",null,null,"ref",2713,"Rhetorik, Redekunst","redekunst"],
  [
-  "Religionsphilosophie","Religionsphilosophie","","8","759","main",2679,"Religionsphilosophie",
-  "religionsphilosophie"
+  "Reden von Gott","Religionsphilosophie","","8","759","ref",2679,"Religionsphilosophie",
+  "reden von gott"
  ],
  [
   "redende Künste","Wissenschaften, schöne","","12","956","ref",3639,"Wissenschaften, schöne",
@@ -896,6 +862,9 @@ HWPH.put("r/72-65",
  ],
  ["reductionism","Reduktionismus","",null,null,"ref",2629,"Reduktionismus","reductionism"],
  ["Reduktion","Reduktion","","8","370–374","main",2624,"Reduktion","reduktion"],
+ ["Reduktion","Anagogé; Epagogé","",null,null,"see",121,"Anagogé, Apagogé, Epagogé","reduktion"],
+ ["Reduktion","Analyse/Synthese","",null,null,"see",126,"Analyse/Synthese","reduktion"],
+ ["Reduktion","Reductio ad absurdum","",null,null,"see",2623,"Reductio ad absurdum","reduktion"],
  [
   "Reduktion, eidetische","Reduktion, eidetische","(Husserl)","8","374f.","main",2625,
   "Reduktion, eidetische","reduktion, eidetische"
@@ -973,7 +942,7 @@ HWPH.put("r/72-65",
   "reduktion, transzendentale"
  ],
  [
-  "Reduktion der Instinkte","Instinktreduktion (Gehlen)","",null,null,"ref",null,null,
+  "Reduktion der Instinkte","Instinktreduktion","(Gehlen)",null,null,"ref",null,null,
   "reduktion der instinkte"
  ],
  [
@@ -1010,7 +979,7 @@ HWPH.put("r/72-65",
  ],
  ["Reduktionismus","Reduktionismus","","8","378–383","main",2629,"Reduktionismus","reduktionismus"],
  [
-  "Reduktionssätze","Konstitutionssystem (Carnap)","","4","1007","ref",1628,
+  "Reduktionssätze","Konstitutionssystem","(Carnap)","4","1007","ref",1628,
   "Konstitutionssystem, Konstitutionstheorie","reduktionssatze"
  ],
  ["Reduktionssätze","Verifikation","I","11","700","ref",3409,"Verifikation","reduktionssatze"],
@@ -1023,6 +992,7 @@ HWPH.put("r/72-65",
  ["reduplication","Verdopplung","",null,null,"ref",3392,"Verdopplung","reduplication"],
  ["Reduzierbarkeit","Relation","V","8","608","ref",2668,"Relation","reduzierbarkeit"],
  ["Reell","Reell","","8","383–385","main",2631,"Reell","reell"],
+ ["Reell","Reell","I (Husserl)","8","384","main",2631,"Reell","reell"],
  ["reelle Zahlen","Reell","II (math.)",null,null,"ref",2631,"Reell","reelle zahlen"],
  ["reelle Zahlen","Zahl","III","12","1133ff.","ref",3670,"Zahl; Zählen","reelle zahlen"],
  ["reeller Schein","Zeit","V","12","1233","ref",3676,"Zeit","reeller schein"],
@@ -1049,7 +1019,7 @@ HWPH.put("r/72-65",
   "Referenz, Referenztheorie","referenz; referenztheorie"
  ],
  [
-  "Referenz; Referenztheorie","Allgemeines/Besonderes","III",null,null,"see",101,
+  "Referenz; Referenztheorie","Allgemeines/Besonderes","III 4",null,null,"see",101,
   "Allgemeines/Besonderes","referenz; referenztheorie"
  ],
  [
@@ -1098,14 +1068,17 @@ HWPH.put("r/72-65",
   "reflex, bedingter"
  ],
  ["Reflex, bedingter","Psychologie","","7","1635","ref",2511,"Psychologie","reflex, bedingter"],
- ["Reflexbewegung","Reflex Reflexbogen","",null,null,"ref",null,null,"reflexbewegung"],
+ ["Reflexbewegung","Reflex","",null,null,"ref",2633,"Reflex, Reflexbewegung","reflexbewegung"],
+ ["Reflexbogen","Psychologie","","7","1623","ref",2511,"Psychologie","reflexbogen"],
+ ["Reflexbogen","Psychomotorik","I","7","1681","ref",2524,"Psychomotorik","reflexbogen"],
+ ["Reflexbogen","Reflex","","8","392f.","ref",2633,"Reflex, Reflexbewegung","reflexbogen"],
  ["Reflexfunktion","Reiz und Reaktion","","8","559","ref",2662,"Reiz und Reaktion","reflexfunktion"],
  ["reflexio","Reflex","","8","389","ref",2633,"Reflex, Reflexbewegung","reflexio"],
  ["reflexio","Selbsterkenntnis","II","9","416f.","ref",2833,"Selbsterkenntnis","reflexio"],
  ["Reflexion","Reflexion","","8","396–405","main",2634,"Reflexion","reflexion"],
  ["Reflexion","Apperzeption","",null,null,"see",212,"Apperzeption","reflexion"],
  ["Reflexion","Denken","",null,null,"see",552,"Denken","reflexion"],
- ["Reflexion","Selbstbewusstsein I","",null,null,"see",2828,"Selbstbewußtsein","reflexion"],
+ ["Reflexion","Selbstbewusstsein","I",null,null,"see",2828,"Selbstbewußtsein","reflexion"],
  ["Reflexion","Selbstreflexion","",null,null,"see",2846,"Selbstreflexion","reflexion"],
  ["Reflexion","Spekulation","",null,null,"see",2969,"Spekulation","reflexion"],
  ["Reflexion","Vermittlung","",null,null,"see",3417,"Vermittlung","reflexion"],
@@ -1115,7 +1088,7 @@ HWPH.put("r/72-65",
   "reflexion"
  ],
  ["Reflexion","Anonym","(Husserl)","1","334","ref",157,"Anonym","reflexion"],
- ["Reflexion","Dialektik","IV",null,null,"ref",583,"Dialektik","reflexion"],
+ ["Reflexion","Dialektik","IV 1. 2","2","187","ref",583,"Dialektik","reflexion"],
  ["Reflexion","Leben","IV","5","63","ref",1735,"Leben","reflexion"],
  ["Reflexion","Naiv/sentimentalisch","","6","362","ref",2064,"Naiv/sentimentalisch","reflexion"],
  ["Reflexion","Selbstbewusstsein","II","9","358","ref",2828,"Selbstbewußtsein","reflexion"],
@@ -1218,7 +1191,27 @@ HWPH.put("r/72-65",
  ["refus","Verweigerung; Dissidenz","",null,null,"ref",3451,"Verweigerung; Dissidenz","refus"],
  ["refus","Scheitern","","8","1246","ref",2759,"Scheitern","refus"],
  ["refutatio","Widerlegung","",null,null,"ref",3605,"Widerlegung","refutatio"],
- ["regard déjà codé","Philosophie","IV",null,null,"ref",2353,"Philosophie","regard deja code"],
+ ["regard déjà codé","Philosophie","IV L","7","794","ref",2353,"Philosophie","regard deja code"],
+ ["Regel","Regel","","8","427–450","main",2640,"Regel","regel"],
+ ["Regel","Kanon","",null,null,"see",1526,"Kanon","regel"],
+ ["Regel","Norm","",null,null,"see",2160,"Norm","regel"],
+ ["Regel","Maxime","",null,null,"see",1900,"Maxime","regel"],
+ ["Regel","Kalkül","",null,null,"see",1521,"Kalkül","regel"],
+ [
+  "Rechtsverhältnis","Rechtsverhältnis","",null,null,"main",2618,"Rechtsverhältnis",
+  "rechtsverhaltnis"
+ ],
+ [
+  "Rechtsverhältnis","Universalisierung","",null,null,"ref",3303,"Universalisierung",
+  "rechtsverhaltnis"
+ ],
+ ["Rechtsverhältnis","Gesetz","III (wiss.)","3","503","ref",1105,"Gesetz","rechtsverhaltnis"],
+ ["Rechtsverhältnis","Naturrecht","II","6","569","ref",2089,"Naturrecht","rechtsverhaltnis"],
+ ["Rechtsverhältnis","Naturrecht","III","6","578","ref",2089,"Naturrecht","rechtsverhaltnis"],
+ [
+  "Rechtsverhältnis","Urteilskraft","","11","481f.","ref",3359,"Urteilskraft; Urteilsvermögen",
+  "rechtsverhaltnis"
+ ],
  ["Regel (ästh.)","Genie","III","3","286f.","ref",1071,"Genie","regel (asth.)"],
  ["Regel (log.)","Partikeln, logische","","7","150","ref",2283,"Partikeln, logische","regel (log.)"],
  ["Regel/Einzelfall","Kasuistik","",null,null,"ref",1534,"Kasuistik","regel/einzelfall"],
@@ -1238,18 +1231,19 @@ HWPH.put("r/72-65",
   "regellogik/satzlogik"
  ],
  [
-  "Regellogik/Satzlogik","Schliessen, natürliches Regellosigkeit","",null,null,"see",2768,
-  "Schließen, natürliches","regellogik/satzlogik"
+  "Regellogik/Satzlogik","Schliessen, natürliches","",null,null,"see",2768,"Schließen, natürliches",
+  "regellogik/satzlogik"
  ],
- ["regelmässig","Mass II (ästh.)","","5","815","ref",1877,"Maß","regelmassig"],
+ ["Regellosigkeit","Zufall","IV (math./phys.)","12","1419","ref",3706,"Zufall","regellosigkeit"],
+ ["regelmässig","Mass","II (ästh.)","5","815","ref",1877,"Maß","regelmassig"],
  ["Regelmässigkeit","Ursache/Wirkung","V",null,null,"ref",3350,"Ursache/Wirkung","regelmassigkeit"],
  [
-  "Regelmässigkeitsvoraussetzung (Leibniz)","Regelmässigkeitsvoraussetzung (Leibniz)","","8","473f.",
-  "main",2644,"Regelmäßigkeitsvoraussetzung","regelmassigkeitsvoraussetzung (leibniz)"
+  "Regelmässigkeitsvoraussetzung","Regelmässigkeitsvoraussetzung","(Leibniz)","8","473f.","main",
+  2644,"Regelmäßigkeitsvoraussetzung","regelmassigkeitsvoraussetzung"
  ],
  [
-  "Regelmässigkeitsvoraussetzung (Leibniz)","Kontinuitätsgesetz","",null,null,"see",1639,
-  "Kontinuitätsgesetz","regelmassigkeitsvoraussetzung (leibniz)"
+  "Regelmässigkeitsvoraussetzung","Kontinuitätsgesetz","",null,null,"see",1639,"Kontinuitätsgesetz",
+  "regelmassigkeitsvoraussetzung"
  ],
  ["Regeln, grammatische","Regel","III (log.)","8","444","ref",2640,"Regel","regeln, grammatische"],
  ["Regeln, konstitutive","Regel","IV (wiss.)",null,null,"ref",2640,"Regel","regeln, konstitutive"],
@@ -1276,8 +1270,12 @@ HWPH.put("r/72-65",
  ["Regelutilitarismus","Utilitarismus","","11","506","ref",3366,"Utilitarismus","regelutilitarismus"],
  ["Regeneration","Regeneration","","8","476–479","main",2646,"Regeneration","regeneration"],
  [
-  "Regeneration","Entwicklungsmechanik Regierung, väterliche","",null,null,"see",null,null,
-  "regeneration"
+  "Regeneration","Entwicklungsmechanik","",null,null,"see",761,
+  "Entwicklungsmechanik, Entwicklungsphysiologie","regeneration"
+ ],
+ [
+  "Regierung, väterliche","Despotie","I (allg.)","2","140","ref",571,"Despotie, Despotismus",
+  "regierung, vaterliche"
  ],
  ["Regierungsformen","Anarchie","",null,null,"ref",134,"Anarchie, Anarchismus","regierungsformen"],
  [
@@ -1312,16 +1310,18 @@ HWPH.put("r/72-65",
   "Reich der Gnade/der Natur","regnum gloriae"
  ],
  [
-  "regnum gratiae/naturae","Reich der Gnade/Reich der Natur regnum potentiae/naturale","",null,null,
-  "ref",2656,"Reich der Gnade/der Natur","regnum gratiae/naturae"
+  "regnum gratiae/naturae","Reich der Gnade/Reich der Natur","",null,null,"ref",2656,
+  "Reich der Gnade/der Natur","regnum gratiae/naturae"
  ],
  [
-  "Reich der Gnade/Reich der Natur","Reich der Gnade/Reich der Natur","","8","506","main",2656,
-  "Reich der Gnade/der Natur","reich der gnade/reich der natur"
+  "regnum potentiae/naturale","Reich der Gnade/Reich der Natur","","8","506","ref",2656,
+  "Reich der Gnade/der Natur","regnum potentiae/naturale"
  ],
  ["regnum sanctorum","Reich Gottes","","8","519","ref",2658,"Reich Gottes","regnum sanctorum"],
  ["regressio","Regression","",null,null,"ref",2648,"Regression","regressio"],
  ["Regression","Regression","","8","481–484","main",2648,"Regression","regression"],
+ ["Regression","Vererbung","I (biol.)",null,null,"see",3395,"Vererbung","regression"],
+ ["Regression","Libido","",null,null,"see",1791,"Libido","regression"],
  ["Regression","Fixierung","","2","955","ref",922,"Fixierung","regression"],
  ["Regression","Hypnose","","3","1246","ref",1325,"Hypnose","regression"],
  ["Regression","Hypochondrie","","3","1252","ref",1326,"Hypochondrie","regression"],
@@ -1443,12 +1443,12 @@ HWPH.put("r/72-65",
  ],
  ["Reich der Natur","Revolte","","8","955","ref",2704,"Revolte","reich der natur"],
  [
-  "Reich der Notwendigkeit","Reich der Freiheit/Reich der Notwendigkeit Reich der Vernunft","",null,
-  null,"ref",2655,"Reich der Freiheit/der Notwendigkeit","reich der notwendigkeit"
+  "Reich der Notwendigkeit","Reich der Freiheit/Reich der Notwendigkeit","",null,null,"ref",2655,
+  "Reich der Freiheit/der Notwendigkeit","reich der notwendigkeit"
  ],
  [
-  "Reinheit; Reinigung","Reinheit; Reinigung","III 2","8","544","main",2660,"Reinheit, Reinigung",
-  "reinheit; reinigung"
+  "Reich der Vernunft","Reinheit; Reinigung","III 2","8","544","ref",2660,"Reinheit, Reinigung",
+  "reich der vernunft"
  ],
  ["Reich der Welt","Zweireichelehre","","12","1534ff.","ref",3724,"Zweireichelehre","reich der welt"],
  [
@@ -1550,7 +1550,11 @@ HWPH.put("r/72-65",
   "Reinheit; Reinigung","Reinheit; Reinigung","","8","531–553","main",2660,"Reinheit, Reinigung",
   "reinheit; reinigung"
  ],
- ["Reinheit; Reinigung","Läuterung Reinheit","",null,null,"see",null,null,"reinheit; reinigung"],
+ [
+  "Reinheit; Reinigung","Läuterung","",null,null,"see",1734,"Läuterung, Reinigung",
+  "reinheit; reinigung"
+ ],
+ ["Reinheit","Gewissen","","3","576","ref",1130,"Gewissen","reinheit"],
  [
   "Reinheit des Herzens","Läuterung","","5","51","ref",1734,"Läuterung, Reinigung",
   "reinheit des herzens"
@@ -1604,7 +1608,21 @@ HWPH.put("r/72-65",
   "Reiz und Reaktion","Reaktion, bedingte","",null,null,"see",2582,"Reaktion, bedingte",
   "reiz und reaktion"
  ],
- ["Reiz und Reaktion","Reflex Reiz und Reaktion","",null,null,"see",null,null,"reiz und reaktion"],
+ ["Reiz und Reaktion","Reflex","",null,null,"see",2633,"Reflex, Reflexbewegung","reiz und reaktion"],
+ [
+  "Reiz und Reaktion","Erkenntnis","II (psych.)","2","671ff.","ref",796,"Erkennen, Erkenntnis",
+  "reiz und reaktion"
+ ],
+ [
+  "Reiz und Reaktion","Identifikation","I","4","140f.","ref",1365,"Identifikation",
+  "reiz und reaktion"
+ ],
+ [
+  "Reiz und Reaktion","Kognition","","4","872ff.","ref",1578,"Kognition, kognitiv",
+  "reiz und reaktion"
+ ],
+ ["Reiz und Reaktion","Nachahmung","","6","325","ref",2054,"Nachahmung","reiz und reaktion"],
+ ["Reiz und Reaktion","Psychologie","","7","1640","ref",2511,"Psychologie","reiz und reaktion"],
  [
   "Reiz- und Reaktionsverallgemeinerung","Generalisation","",null,null,"ref",1060,"Generalisation",
   "reiz- und reaktionsverallgemeinerung"
@@ -1655,7 +1673,10 @@ HWPH.put("r/72-65",
   "Rekonstruktion, rationale","Rekonstruktion","","8","573ff.","ref",2667,"Rekonstruktion",
   "rekonstruktion, rationale"
  ],
- ["Rekursionstheorie","Irrtum","(Schlussfehler)",null,null,"ref",1499,"Irrtum","rekursionstheorie"],
+ [
+  "Rekursionstheorie","Irrtum (Schlussfehler)","",null,null,"ref",1500,"Irrtum (Schlußfehler)",
+  "rekursionstheorie"
+ ],
  [
   "rekursive Definition","Definition, rekursive","",null,null,"ref",539,"Definition, rekursive",
   "rekursive definition"
@@ -1705,25 +1726,30 @@ HWPH.put("r/72-65",
  ["relational art","Symmetrie","I (ästh.)","10","747f.","ref",3097,"Symmetrie","relational art"],
  ["Relationentheorie","Relation","V","8","609f.","ref",2668,"Relation","relationentheorie"],
  [
-  "Relationieren","Relationismus (Mannheim) Relationismus","",null,null,"ref",null,null,
+  "Relationieren","Relationismus","(Mannheim)",null,null,"ref",2670,"Relationismus, Relationieren",
   "relationieren"
  ],
- ["Relativismus","Relativismus","","8","614","main",2671,"Relativismus","relativismus"],
+ ["Relationismus","Relativismus","","8","614","ref",2671,"Relativismus","relationismus"],
  [
-  "Relationismus (Mannheim)","Relationismus (Mannheim)","","8","612f.","main",2670,
-  "Relationismus, Relationieren","relationismus (mannheim)"
+  "Relationismus","Relationismus","(Mannheim)","8","612f.","main",2670,
+  "Relationismus, Relationieren","relationismus"
  ],
  [
-  "Relationismus (Mannheim)","Seinsverbundenheit (Mannheim)","",null,null,"see",2814,
-  "Seinsverbundenheit; Seinsgebundenheit","relationismus (mannheim)"
+  "Relationismus","Seinsverbundenheit","(Mannheim)",null,null,"see",2814,
+  "Seinsverbundenheit; Seinsgebundenheit","relationismus"
  ],
- [
-  "Relationismus (Mannheim)","Wissenssoziologie","",null,null,"see",3647,"Wissenssoziologie",
-  "relationismus (mannheim)"
- ],
+ ["Relationismus","Wissenssoziologie","",null,null,"see",3647,"Wissenssoziologie","relationismus"],
  ["Relationsgebilde","Isomorphie","","4","627","ref",1502,"Isomorphie","relationsgebilde"],
  ["Relativismus","Relativismus","","8","613–622","main",2671,"Relativismus","relativismus"],
- ["Relativismus","Historismus Relativismus, kultureller","",null,null,"ref",null,null,"relativismus"],
+ ["Relativismus","Historismus","",null,null,"ref",1283,"Historismus, Historizismus","relativismus"],
+ [
+  "Relativismus, kultureller","Kultureller Relativismus","",null,null,"ref",1704,
+  "Kultureller Relativismus","relativismus, kultureller"
+ ],
+ [
+  "Relativismus, kultureller","Ethnozentrismus","","2","811","ref",838,"Ethnozentrismus",
+  "relativismus, kultureller"
+ ],
  [
   "Relativität der Werte","Absolut; das Absolute","","1","29","ref",27,"Absolut, das Absolute",
   "relativitat der werte"
@@ -1747,15 +1773,20 @@ HWPH.put("r/72-65",
  ["religio","Religion","",null,null,"ref",2673,"Religion","religio"],
  ["religio","Dankbarkeit","","2","10","ref",522,"Dankbarkeit","religio"],
  ["religio docta","Philosophie","III A","7","658","ref",2353,"Philosophie","religio docta"],
- ["religio naturalis","Religion","",null,null,"ref",2673,"Religion","religio naturalis"],
+ ["religio naturalis","Religion, natürliche","",null,null,"ref",2673,"Religion","religio naturalis"],
  ["religio politica","Religion","V B","8","649","ref",2673,"Religion","religio politica"],
- ["religio rationalis","Religion","",null,null,"ref",2673,"Religion","religio rationalis"],
+ [
+  "religio rationalis","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "religio rationalis"
+ ],
+ ["religio vera","Philosophie","II D","7","631","ref",2353,"Philosophie","religio vera"],
+ ["religio vera","Religion","II","8","636","ref",2673,"Religion","religio vera"],
  [
   "Religiöse, das","Profan","","7","1444","ref",2471,"Profan, das Profane, Profanität",
   "religiose, das"
  ],
  [
-  "relSozialismus 8igiöser Sozialismus","Sozialismus","",null,null,"ref",2947,"Sozialismus",
+  "relSozialismus 8igiöser Sozialismus","Sozialismus","8",null,null,"ref",2947,"Sozialismus",
   "relsozialismus 8igioser sozialismus"
  ],
  [
@@ -1764,8 +1795,8 @@ HWPH.put("r/72-65",
  ],
  ["religiöses Bewusstsein","Ahnung","","1","117","ref",68,"Ahnung","religioses bewusstsein"],
  [
-  "Religion s. auch","Register der Sachgruppen: Religionswissenschaft und Religionsphilosophie","",
-  null,null,"ref",null,null,"religion s. auch"
+  "Religion","Register der Sachgruppen: Religionswissenschaft und Religionsphilosophie","",null,null,
+  "see",null,null,"religion"
  ],
  ["Religion","Religion","","8","632–713","main",2673,"Religion","religion"],
  ["Religion","Offenbarung","",null,null,"see",2203,"Offenbarung","religion"],
@@ -1784,7 +1815,10 @@ HWPH.put("r/72-65",
   "Religion, natürliche","Offenbarung","III","6","1116ff.","ref",2203,"Offenbarung",
   "religion, naturliche"
  ],
- ["Religion","Religion","",null,null,"main",2673,"Religion","religion"],
+ [
+  "Religion, natürliche bzw. vernünftige","Religion, natürliche bzw. vernünftige","","8","713–727",
+  "main",2673,"Religion","religion, naturliche bzw. vernunftige"
+ ],
  [
   "Religion, öffentliche/innerliche","Weltreligionen","","12","510","ref",3575,"Weltreligion(en)",
   "religion, offentliche/innerliche"
@@ -1797,10 +1831,17 @@ HWPH.put("r/72-65",
   "Religion, reine","Religionsphilosophie","","8","748","ref",2679,"Religionsphilosophie",
   "religion, reine"
  ],
- ["Religion, vernünftige","Religion","",null,null,"ref",2673,"Religion","religion, vernunftige"],
  [
-  "religion civile","Zivilreligion religion collective","",null,null,"ref",null,null,
+  "Religion, vernünftige","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "religion, vernunftige"
+ ],
+ [
+  "religion civile","Zivilreligion","",null,null,"ref",3701,"Zivilreligion; Ziviltheologie",
   "religion civile"
+ ],
+ [
+  "religion collective","Staatsreligion","","10","78","ref",3003,"Staatsreligion",
+  "religion collective"
  ],
  ["religion de l'absence","Abwesenheit","","1","70","ref",37,"Abwesenheit","religion de l'absence"],
  [
@@ -1880,6 +1921,14 @@ HWPH.put("r/72-65",
  ],
  ["Religionskritik","Kritik","II","4","1271","ref",1694,"Kritik","religionskritik"],
  [
+  "Religionslehre, philosophische","Eusebiologie","",null,null,"ref",848,"Eusebiologie",
+  "religionslehre, philosophische"
+ ],
+ [
+  "Religionslehre, philosophische","Religionsphilosophie","","8","748","ref",2679,
+  "Religionsphilosophie","religionslehre, philosophische"
+ ],
+ [
   "Religionsmetaphysik","Religionsphilosophie","","8","753","ref",2679,"Religionsphilosophie",
   "religionsmetaphysik"
  ],
@@ -1904,7 +1953,10 @@ HWPH.put("r/72-65",
   "Religionsphilosophie","Religionsphilosophie","","8","748–763","main",2679,"Religionsphilosophie",
   "religionsphilosophie"
  ],
- ["Religionsphilosophie","Religion","",null,null,"see",2673,"Religion","religionsphilosophie"],
+ [
+  "Religionsphilosophie","Religion, natürliche","",null,null,"see",2673,"Religion",
+  "religionsphilosophie"
+ ],
  [
   "Religionsphilosophie, islamische","Kalām","",null,null,"ref",1520,"Kalam",
   "religionsphilosophie, islamische"
@@ -1931,7 +1983,11 @@ HWPH.put("r/72-65",
   "Religionstheorie","Religionsphilosophie","","8","749","ref",2679,"Religionsphilosophie",
   "religionstheorie"
  ],
- ["Religionswahn","Religion","",null,null,"ref",2673,"Religion","religionswahn"],
+ [
+  "Religionswahn","Religion, natürliche bzw. vernünftige","","8","724","ref",2674,"Religion",
+  "religionswahn"
+ ],
+ ["Religionswahn","Schwärmerei","","6","1478","ref",2786,"Schwärmerei","religionswahn"],
  [
   "Religionswissenschaft","Religionswissenschaft","","8","771–774","main",2682,
   "Religionswissenschaft","religionswissenschaft"
@@ -1962,7 +2018,7 @@ HWPH.put("r/72-65",
   "remissio peccatorum"
  ],
  ["remords","Gewissen","","3","584f.","ref",1130,"Gewissen","remords"],
- ["remords","Scham C","2","8","1212","ref",2751,"Scham, Scheu","remords"],
+ ["remords","Scham","C 2","8","1212","ref",2751,"Scham, Scheu","remords"],
  ["remuement","Zerstreuung","I (anthr.)","12","1311","ref",3690,"Zerstreuung","remuement"],
  ["remunerantia","Belohnung","","1","830","ref",385,"Belohnung","remunerantia"],
  ["Renaissance","Renaissance","","8","783–790","main",2685,"Renaissance","renaissance"],
@@ -1970,7 +2026,11 @@ HWPH.put("r/72-65",
  ["rénovation","Reform","","8","410","ref",2638,"Reform","renovation"],
  ["Rentenhysterie","Hysterie","","3","1270","ref",1332,"Hysterie, hysterisch","rentenhysterie"],
  ["renversement","Verkehrung","",null,null,"ref",3412,"Verkehrung","renversement"],
- ["reorganization","Umstrukturierung reparation","",null,null,"ref",null,null,"reorganization"],
+ [
+  "reorganization","Umstrukturierung","",null,null,"ref",3277,"Umstrukturierung; Umzentrierung",
+  "reorganization"
+ ],
+ ["reparation","Wiedergutmachung","",null,null,"ref",3615,"Wiedergutmachung","reparation"],
  ["réparer sa machine","Schlaf","","8","1296","ref",2767,"Schlaf","reparer sa machine"],
  [
   "repellency/attraction","Repulsion/Attraktion","",null,null,"ref",2690,"Repulsion/Attraktion",
@@ -2009,7 +2069,20 @@ HWPH.put("r/72-65",
  ["Repräsentation","Repräsentation","","8","790–853","main",2686,"Repräsentation","reprasentation"],
  ["Repräsentation","Präsentation","",null,null,"see",2442,"Präsentation","reprasentation"],
  ["Repräsentation","Vorstellung","",null,null,"see",3503,"Vorstellung","reprasentation"],
- ["Republik","Republik","","8","872ff.","main",2688,"Republik","republik"],
+ ["Repräsentation","Abbildtheorie","",null,null,"see",18,"Abbildtheorie","reprasentation"],
+ ["Repräsentation","Bild","II (erk.)",null,null,"see",431,"Bild","reprasentation"],
+ ["Repräsentation","Idee","III",null,null,"see",1361,"Idee","reprasentation"],
+ ["Repräsentation","Signifikation","",null,null,"see",2885,"Signifikation","reprasentation"],
+ [
+  "Repräsentation","Volonté générale","",null,null,"see",3485,"Volonté générale; volonté de tous",
+  "reprasentation"
+ ],
+ ["Repräsentation","Kognition","",null,null,"see",1578,"Kognition, kognitiv","reprasentation"],
+ [
+  "Repräsentation","Science, cognitive","",null,null,"see",2789,"Science, Cognitive",
+  "reprasentation"
+ ],
+ ["Repräsentation (pol.)","Republik","","8","872ff.","ref",2688,"Republik","reprasentation (pol.)"],
  [
   "Repräsentation (theol.)","Repräsentation","II (pol.)","8","813ff.","ref",2686,"Repräsentation",
   "reprasentation (theol.)"
@@ -2039,9 +2112,15 @@ HWPH.put("r/72-65",
   "representamen"
  ],
  ["Repressalie","Unterdrückung","","11","296","ref",3324,"Unterdrückung; Repression","repressalie"],
- ["repressio","Unterdrückung reprobatio","",null,null,"ref",null,null,"repressio"],
+ ["repressio","Unterdrückung","",null,null,"ref",3324,"Unterdrückung; Repression","repressio"],
+ ["reprobatio","Verdammung","",null,null,"ref",3389,"Verdammung; Verwerfung","reprobatio"],
+ [
+  "reprobatio","Obligatio; Ars obligatoria","II (log.)","6","1070","ref",2194,
+  "Obligatio, Ars obligatoria","reprobatio"
+ ],
  ["Reproduktion","Reproduktion","","8","853–858","main",2687,"Reproduktion","reproduktion"],
- ["Reproduktion","Produktion Reproduktion","",null,null,"see",null,null,"reproduktion"],
+ ["Reproduktion","Produktion","",null,null,"see",2469,"Produktion, Produktivität","reproduktion"],
+ ["Reproduktion","Stoffwechsel","","10","194","ref",3032,"Stoffwechsel","reproduktion"],
  ["Reproduktion (erk.)","Gedächtnis","",null,null,"ref",996,"Gedächtnis","reproduktion (erk.)"],
  [
   "Reproduktion (erk.)","Rekognition","(Kant)",null,null,"ref",2666,"Rekognition",
@@ -2062,7 +2141,7 @@ HWPH.put("r/72-65",
   "republik der gelehrten"
  ],
  [
-  "Republikanismus","Despotie I (allg.)","","2","140ff.","ref",571,"Despotie, Despotismus",
+  "Republikanismus","Despotie","I (allg.)","2","140ff.","ref",571,"Despotie, Despotismus",
   "republikanismus"
  ],
  ["Republikanismus","Pazifismus","","7","222","ref",2301,"Pazifismus","republikanismus"],
@@ -2158,7 +2237,7 @@ HWPH.put("r/72-65",
   "reservatum ecclesiasticum"
  ],
  [
-  "Residualmethode","Invention; Erfindung III (log.)","","4","560","ref",1490,
+  "Residualmethode","Invention; Erfindung","III (log.)","4","560","ref",1490,
   "Invention, Erfindung, Entdeckung","residualmethode"
  ],
  ["Residuum","Residuum","","8","901–909","main",2692,"Residuum","residuum"],
@@ -2205,10 +2284,7 @@ HWPH.put("r/72-65",
   "resolutio/compositio","Analyse/Synthese","",null,null,"ref",126,"Analyse/Synthese",
   "resolutio/compositio"
  ],
- [
-  "resolutio/compositio","Prozess I 2 (log.)","",null,null,"ref",2499,"Prozeß",
-  "resolutio/compositio"
- ],
+ ["resolutio/compositio","Prozess","I 2 (log.)",null,null,"ref",2499,"Prozeß","resolutio/compositio"],
  [
   "resolutio/compositio","Apriori/aposteriori","I","1","465","ref",221,"A priori/a posteriori",
   "resolutio/compositio"
@@ -2229,7 +2305,7 @@ HWPH.put("r/72-65",
  ],
  ["Resonanz","Resonanz","","8","916–920","main",2694,"Resonanz","resonanz"],
  ["Resonanz","Einfühlung","",null,null,"see",681,"Einfühlung","resonanz"],
- ["Resonanz","Erkenntnis II (psych.)","","2","673","ref",796,"Erkennen, Erkenntnis","resonanz"],
+ ["Resonanz","Erkenntnis","II (psych.)","2","673","ref",796,"Erkennen, Erkenntnis","resonanz"],
  ["Resonanz","Musik","","6","253","ref",2043,"Musik","resonanz"],
  [
   "respect de soi-même","Selbstachtung","",null,null,"ref",2821,"Selbstachtung",
@@ -2309,12 +2385,16 @@ HWPH.put("r/72-65",
   "restringiert/elaboriert"
  ],
  [
-  "restruction","Umstrukturierung Resultante, schöpferische","",null,null,"ref",null,null,
+  "restruction","Umstrukturierung","",null,null,"ref",3277,"Umstrukturierung; Umzentrierung",
   "restruction"
+ ],
+ [
+  "Resultante, schöpferische","Gestaltqualität","","3","551","ref",1120,"Gestaltqualität",
+  "resultante, schopferische"
  ],
  ["retaliation","Rache","",null,null,"ref",2561,"Rache","retaliation"],
  ["Retardation","Retardation","","8","930f.","main",2698,"Retardation","retardation"],
- ["Retardation","Instinktreduktion (Gehlen)","",null,null,"see",null,null,"retardation"],
+ ["Retardation","Instinktreduktion","(Gehlen)",null,null,"see",null,null,"retardation"],
  ["Retention","Retention","(Husserl)","8","931f.","main",2699,"Retention","retention"],
  [
   "Retention","Gegenwart, lebendige","(Husserl)",null,null,"see",1024,"Gegenwart, lebendige",
@@ -2331,6 +2411,7 @@ HWPH.put("r/72-65",
  ["retributio","Strafe","II","10","221","ref",3035,"Strafe","retributio"],
  ["retroduction","Abduktion","(Peirce)","1","4","ref",19,"Abduktion","retroduction"],
  ["Rettung","Rettung","","8","932–941","main",2700,"Rettung","rettung"],
+ ["Rettung","Bild, dialektisches","(Benjamin)",null,null,"see",432,"Bild, dialektisches","rettung"],
  [
   "Rettung der Phänomene","Rettung der Phänomene","","8","941–944","main",2701,
   "Rettung der Phänomene","rettung der phanomene"
@@ -2342,7 +2423,11 @@ HWPH.put("r/72-65",
  ["Reue","Reue","","8","944–951","main",2702,"Reue","reue"],
  ["Reue","Busse","",null,null,"see",462,"Buße","reue"],
  ["Reue","Conversio; Umkehr","",null,null,"see",514,"Conversio, Umkehr","reue"],
- ["Reue","Verzeihen Reue","",null,null,"see",null,null,"reue"],
+ ["Reue","Verzeihen","",null,null,"see",3457,"Verzeihen; Vergeben","reue"],
+ ["Reue","Gewissen","","3","587","ref",1130,"Gewissen","reue"],
+ ["Reue","Schuld","III","8","1461","ref",2784,"Schuld","reue"],
+ ["Reue","Versöhnung","II (anthr.)","11","901","ref",3434,"Versöhnung","reue"],
+ ["Reue","Zeit","VI","12","1237","ref",3676,"Zeit","reue"],
  [
   "revaluation","Umwertung aller Werte","(Nietzsche)",null,null,"ref",3279,"Umwertung aller Werte",
   "revaluation"
@@ -2355,7 +2440,8 @@ HWPH.put("r/72-65",
   "revelatio generalis"
  ],
  ["reverentia","Achtung","",null,null,"ref",41,"Achtung","reverentia"],
- ["reverentia","Scham reverie","",null,null,"ref",null,null,"reverentia"],
+ ["reverentia","Scham","",null,null,"ref",2751,"Scham, Scheu","reverentia"],
+ ["reverie","Wachtraum; Tagtraum","",null,null,"ref",3515,"Wachtraum; Tagtraum","reverie"],
  ["reversal","Verkehrung","",null,null,"ref",3412,"Verkehrung","reversal"],
  ["reversible world","Verkehrte Welt","",null,null,"ref",3411,"Verkehrte Welt","reversible world"],
  ["Reversion","Atavismus","","1","594","ref",273,"Atavismus","reversion"],
@@ -2480,43 +2566,19 @@ HWPH.put("r/72-65",
  ["reziproke Begriffe","Äquipollenz","",null,null,"ref",226,"Äquipollenz","reziproke begriffe"],
  ["Reziprozität","Gegenseitigkeit","",null,null,"ref",1019,"Gegenseitigkeit","reziprozitat"],
  ["Reziprozität","Strafe","I","10","212","ref",3035,"Strafe","reziprozitat"],
- [
-  "Rettung der Phänomene","Rettung der Phänomene","",null,null,"main",2701,"Rettung der Phänomene",
-  "rettung der phanomene"
- ],
- ["Reflexion","Reflexion","","8","403","main",2634,"Reflexion","reflexion"],
- ["Reich Gottes","Reich Gottes","","8","524","main",2658,"Reich Gottes","reich gottes"],
- ["Religion","Religion","VIII 4","8","689","main",2673,"Religion","religion"],
- ["Religion","Trauer; Trauerarbeit","","10","1455f.","ref",3224,"Trauer; Trauerarbeit","religion"],
- [
-  "Reduktion, eidetische","Reduktion, eidetische","(Husserl)","8","375","main",2625,
-  "Reduktion, eidetische","reduktion, eidetische"
- ],
- [
-  "Reduktion, eidetische","Variation","","11","551","ref",3374,"Variation; Varietät; Variabilität",
-  "reduktion, eidetische"
- ],
+ ["Regulation","Regulation","",null,null,"main",2652,"Regulation","regulation"],
  [
   "Repräsentation","Repräsentation","II (pol.)","8","822","main",2686,"Repräsentation",
   "reprasentation"
  ],
  ["Religionskritik","Religionskritik","","8","740","main",2677,"Religionskritik","religionskritik"],
  [
-  "Regressus/Progressus in infinitum","Regressus/Progressus in infinitum","","8","488","main",2650,
-  "Regressus/progressus in infinitum","regressus/progressus in infinitum"
- ],
- [
-  "Reinheit; Reinigung","Reinheit; Reinigung","V","8","551","main",2660,"Reinheit, Reinigung",
-  "reinheit; reinigung"
- ],
- ["Reflexion","Reflexion","","8","398","main",2634,"Reflexion","reflexion"],
- [
   "Reble Albert","Geisteswissenschaftliche Pädagogik","","3","215f.","author",1037,
   "Geisteswissenschaftliche Pädagogik","reble albert"
  ],
  ["Reble Albert","Kulturpädagogik","","4","1339f.","author",1707,"Kulturpädagogik","reble albert"],
  [
-  "Reckermann Alfons","Agon (Nietzsche)","","1","112f.","author",64,"Agon, agonal",
+  "Reckermann Alfons","Agon","(Nietzsche)","1","112f.","author",64,"Agon, agonal",
   "reckermann alfons"
  ],
  ["Reckermann Alfons","Akataleptisch","","1","124f.","author",72,"Akataleptisch","reckermann alfons"],
@@ -2584,14 +2646,14 @@ HWPH.put("r/72-65",
  ["Red","Gottesbeweis, historischer","","3","832","author",1168,"Gottesbeweis, historischer","red"],
  ["Red","Gottesbeweis, moralischer","","3","832f.","author",1169,"Gottesbeweis, moralischer","red"],
  ["Red","Grundsatz","","3","924","author",1196,"Grundsatz","red"],
- ["Red","Habe; Haben 4 (Sartre)","","3","983","author",1207,"Habe, Haben","red"],
+ ["Red","Habe; Haben","4 (Sartre)","3","983","author",1207,"Habe, Haben","red"],
  ["Red","Hayathologie","(Hartshorne)","3","1022","author",1231,"Hayathologie","red"],
  ["Red","Heterogonie","(Wundt)","3","1112f.","author",1266,"Heterogonie","red"],
  ["Red","Hilfssatz","","3","1126f.","author",1274,"Hilfssatz","red"],
- ["Red","Horizont","III",null,null,"author",1310,"Horizont","red"],
+ ["Red","Horizont III 1 (allg.).","3 (Heidegger)","3","1200–1202","author",1310,"Horizont","red"],
  ["Red","Hypostasierung","","3","1259f.","author",1329,"Hypostasierung, hypostasieren","red"],
  ["Red","Ideat","","4","48f.","author",1358,"Ideat","red"],
- ["Red","Idee","II B",null,null,"author",1361,"Idee","red"],
+ ["Red","Idee II B 14","","4","101f.","author",1361,"Idee","red"],
  ["Red","Ikonisch","","4","199","author",1383,"Ikonisch","red"],
  ["Red","Inkarnation","II","4","369f.","author",1440,"Inkarnation","red"],
  ["Red","Integration","II (soz.)","4","431","author",1456,"Integration","red"],
@@ -2605,7 +2667,7 @@ HWPH.put("r/72-65",
  ["Red","Kindgemäss","","4","834","author",1565,"Kindgemäß, Kindgemäßheit","red"],
  ["Red","Kompetenz","II","4","919f.","author",1598,"Kompetenz","red"],
  ["Red","Kondeszendenz","","4","942–946","author",1604,"Kondeszendenz","red"],
- ["Red","Konstanz","",null,null,"author",1621,"Konstanz","red"],
+ ["Red","Konstanz","I-II","4","985","author",1621,"Konstanz","red"],
  ["Red","Konstitution","II","4","994–997","author",1624,"Konstitution","red"],
  ["Red","Konstitutionalismus","","4","1005f.","author",1627,"Konstitutionalismus","red"],
  ["Red","Kontingenz","II (Luhmann)","4","1034f.","author",1637,"Kontingenz","red"],
@@ -2619,13 +2681,13 @@ HWPH.put("r/72-65",
  ["Red","Kosmos","II","4","1173","author",1678,"Kosmos","red"],
  ["Red","Krieg","I","4","1230–1233","author",1690,"Krieg","red"],
  ["Red","Kristallisation","1","4","1245f.","author",1692,"Kristallisation","red"],
- ["Red","Kunst; Kunstwerk IV 1–4.","6","4","1402–1410","author",1712,"Kunst, Kunstwerk","red"],
+ ["Red","Kunst; Kunstwerk","IV",null,null,"author",1712,"Kunst, Kunstwerk","red"],
  ["Red","Leben, ewiges","","5","103–107","author",1736,"Leben, ewiges","red"],
  ["Red","Lebensgefühl","","5","119f.","author",1744,"Lebensgefühl","red"],
  ["Red","Lehnsatz","","5","167","author",1764,"Lehnsatz","red"],
  ["Red","Lehrsatz","","5","173","author",1768,"Lehrsatz","red"],
  ["Red","Lemma","","5","234","author",1780,"Lemma","red"],
- ["Red","Liberalismus","",null,null,"author",1787,"Liberalismus","red"],
+ ["Red","Liberalismus II.","IV 1","5","259–261","author",1787,"Liberalismus","red"],
  ["Red","Logik","IV","5","375–378","author",1803,"Logik","red"],
  ["Red","Logophor","","5","491","author",1824,"Logophor","red"],
  ["Red","Logozentrisch","(Klages)","5","502f.","author",1827,"Logozentrisch","red"],
@@ -2661,8 +2723,8 @@ HWPH.put("r/72-65",
  ["Red","Mysterium","","6","263–267","author",2048,"Mysterium","red"],
  ["Red","Naiv/sentimentalisch","","6","362f.","author",2064,"Naiv/sentimentalisch","red"],
  ["Red","Naivität/Pietät","(Wust)","6","363f.","author",2065,"Naivität/Pietät","red"],
- ["Red","Negation","I (log.)","6","666–670","author",2099,"Negat","red"],
- ["Red","Negation","",null,null,"author",2100,"Negation","red"],
+ ["Red","Negation","I (log.)","6","666–670","author",2100,"Negation","red"],
+ ["Red","Negation; Negativität","I","6","671–675","author",2100,"Negation","red"],
  ["Red","Negativismus","","6","692–694","author",2103,"Negativismus","red"],
  ["Red","Neofreudianismus","","6","712–714","author",2107,"Neofreudianismus","red"],
  ["Red","Neugierde","III","6","737–742","author",2117,"Neugierde","red"],
@@ -2671,14 +2733,14 @@ HWPH.put("r/72-65",
  ["Red","Noetik","","6","873f.","author",2148,"Noetik","red"],
  ["Red","Nomokratie","","6","889–891","author",2153,"Nomokratie","red"],
  ["Red","Noologie","","6","904–906","author",2159,"Noologie, noologisch","red"],
- ["Red","Norm","",null,null,"author",2160,"Norm","red"],
+ ["Red","Norm I.","III","6","906–910","author",2160,"Norm","red"],
  ["Red","Notion","","6","935–938","author",2166,"Nostalgie","red"],
  ["Red","Notstaat; Verstandesstaat","","6","946","author",2171,"Notwendigkeit","red"],
  ["Red","Noumenon/Phaenomenon","(Kant)","6","986f.","author",2172,"Noumenon/Phaenomenon","red"],
  ["Red","Novissima","","6","987f.","author",2173,"Novissima","red"],
  ["Red","Objektität","(Schopenhauer)","6","1054","author",2186,"Objektität","red"],
  ["Red","Ockhamismus","","6","1096–1098","author",2201,"Ockhamismus","red"],
- ["Red","Offenbarung","",null,null,"author",2203,"Offenbarung","red"],
+ ["Red","Offenbarung","I-II","6","1105–1114","author",2203,"Offenbarung","red"],
  ["Red","Ökonomie","I (ökon.)","6","1149–1153","author",2210,"Ökonomie","red"],
  ["Red","Ökumene","","6","1174–1177","author",2213,"Ökumene","red"],
  ["Red","Ontosophie","","6","1206f.","author",2224,"Ontosophie","red"],
@@ -2718,14 +2780,14 @@ HWPH.put("r/72-65",
  ["Red","Regula Lesbia","","8","489f.","author",2651,"Regula Lesbia","red"],
  ["Red","Rejektion","(Peirce)","8","569","author",2665,"Rejektion","red"],
  ["Red","Relation des Urteils","","8","611f.","author",2669,"Relation des Urteils","red"],
- ["Red","Relationismus (Mannheim)","","8","612f.","author",2670,"Relationismus, Relationieren","red"],
+ ["Red","Relationismus","(Mannheim)","8","612f.","author",2670,"Relationismus, Relationieren","red"],
  ["Red","Religionssoziologie","","8","768–771","author",2681,"Religionssoziologie","red"],
  ["Red","Revisionismus","","8","951–953","author",2703,"Revisionismus","red"],
  ["Red","Rolle","II","8","1067–1070","author",2722,"Rolle","red"],
  ["Red","Sabbatianismus","","8","1093","author",2728,"Sabbatianismus","red"],
  ["Red","Saint-Simonismus","I","8","1126f.","author",2736,"Saint-Simonismus","red"],
  ["Red","Sakrament","","8","1128–1132","author",2737,"Sakrament","red"],
- ["Red","Scham C","4","8","1215","author",2752,"Schamanismus","red"],
+ ["Red","Scham","C 4","8","1215","author",2751,"Scham, Scheu","red"],
  ["Red","Scheitern","","8","1245f.","author",2759,"Scheitern","red"],
  ["Red","Schicht, soziale","II","8","1267","author",2761,"Schicht, soziale","red"],
  ["Red","Schöpfung","II","8","1393f.","author",2779,"Schöpfung","red"],
@@ -2735,7 +2797,7 @@ HWPH.put("r/72-65",
  ["Red","Selbstbewusstsein","I","9","350–352","author",2828,"Selbstbewußtsein","red"],
  ["Red","Selbsthass","I","9","454","author",2837,"Selbsthaß","red"],
  ["Red","Self-evidence","","9","569f.","author",2857,"Self-evidence","red"],
- ["Red","Seligkeit, ewige","",null,null,"author",2859,"Seligkeit, ewige","red"],
+ ["Red","Seligkeit, ewige","I-II","9","574–580","author",2859,"Seligkeit, ewige","red"],
  ["Red","Sem; Semem","","9","580f.","author",2860,"Sem, Semem","red"],
  ["Red","Semasiologie","","9","598f.","author",2863,"Semasiologie","red"],
  ["Red","Sensualismus","","9","614–618","author",2867,"Sensualismus","red"],
@@ -2790,7 +2852,7 @@ HWPH.put("r/72-65",
  ["Red","Verantwortung","I","11","566–569","author",3380,"Verantwortung","red"],
  ["Red","Verdichtung","I (nat.)","11","605–607","author",3390,"Verdichtung","red"],
  ["Red","Verfahren","","11","632–634","author",3396,"Verfahren","red"],
- ["Red","Vernunft; Verstand","",null,null,"author",3423,"Vernunft; Verstand","red"],
+ ["Red","Vernunft; Verstand I;","VII D 5","11","748f.","author",3423,"Vernunft; Verstand","red"],
  ["Red","Versenken","II","11","888f.","author",3432,"Versenken","red"],
  ["Red","Vorstellungsreihe","","11","1247f.","author",3505,"Vorstellungsreihe","red"],
  ["Red","Vorstellungsvorstellung","1","11","1248f.","author",3506,"Vorstellungsvorstellung","red"],
@@ -2843,8 +2905,8 @@ HWPH.put("r/72-65",
   "reibenschuh gernot"
  ],
  [
-  "Reichelt Helmut","Geschichtsauffassung, materialistische","","3","408–413","author",1090,
-  "Geschichtlichkeit","reichelt helmut"
+  "Reichelt Helmut","Geschichtsauffassung, materialistische","","3","408–413","author",1091,
+  "Geschichtsauffassung, materialistische","reichelt helmut"
  ],
  ["Reichert Ernst Otto","Bekehrung","","1","825f.","author",381,"Bekehrung","reichert ernst otto"],
  [
@@ -2913,7 +2975,7 @@ HWPH.put("r/72-65",
   "reisinger peter"
  ],
  [
-  "Reisinger Peter","Imperativ, kategorischer I-IV 1; V (Scheler)","","4","242–252","author",1395,
+  "Reisinger Peter","Imperativ, kategorischer I-IV 1;","V (Scheler)","4","242–252","author",1395,
   "Imperative, kategorischer Imperativ","reisinger peter"
  ],
  ["Remane Adolf","Analogie","III (biol.)","1","228f.","author",123,"Analogie","remane adolf"],
@@ -2976,7 +3038,7 @@ HWPH.put("r/72-65",
  ],
  ["Rensch Bernhard","Rudimentation","","8","1092","author",2727,"Rudimentation","rensch bernhard"],
  [
-  "Renthe-Fink Leonhard von","Bewusstsein, geschichtliches (Dilthey)","","1","897f.","author",414,
+  "Renthe-Fink Leonhard von","Bewusstsein, geschichtliches","(Dilthey)","1","897f.","author",414,
   "Bewußtsein, geschichtliches bzw. historisches","renthe-fink leonhard von"
  ],
  [
@@ -3012,7 +3074,7 @@ HWPH.put("r/72-65",
   "Rentsch Thomas","Paradigma; exemplar","","7","74–81","author",2269,"Paradigma, exemplar",
   "rentsch thomas"
  ],
- ["Rentsch Thomas","Philosophie","IV",null,null,"author",2353,"Philosophie","rentsch thomas"],
+ ["Rentsch Thomas","Philosophie","IV K","7","786–792","author",2353,"Philosophie","rentsch thomas"],
  [
   "Rentsch Thomas","Platonismus","II (log.)","7","985–988","author",2380,"Platonismus",
   "rentsch thomas"
@@ -3022,7 +3084,7 @@ HWPH.put("r/72-65",
   "rentsch thomas"
  ],
  [
-  "Rentsch Thomas","Übergegensätzlichkeit (Lask)","","11","34–36","author",3255,
+  "Rentsch Thomas","Übergegensätzlichkeit","(Lask)","11","34–36","author",3255,
   "Übergegensätzlichkeit; übergegensätzlich","rentsch thomas"
  ],
  [
@@ -3049,7 +3111,10 @@ HWPH.put("r/72-65",
   "Rescher Nicholas","Reductio ad absurdum","","8","369f.","author",2623,"Reductio ad absurdum",
   "rescher nicholas"
  ],
- ["Reschke Renate","Philosophie","V E",null,null,"author",2353,"Philosophie","reschke renate"],
+ [
+  "Reschke Renate","Philosophie","V E 5 (institut. Formen)","7","846–848","author",2353,
+  "Philosophie","reschke renate"
+ ],
  [
   "Reznik Hans","Assimilation/Dissimilation","I (biol.)","1","544–546","author",262,
   "Assimilation/Dissimilation","reznik hans"

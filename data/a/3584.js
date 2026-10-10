@@ -75,7 +75,7 @@ HWPH.put("a/3584",
   {"id":3540,"lemma":"Wahrscheinlichkeit","tf":2},
   {"id":1478,"lemma":"Interpretation","tf":2}
  ],
- "see_also":[{"id":1399,"lemma":"Implikation"}],
+ "see_also":[{"id":1399,"lemma":"Implikation"},{"id":3054,"lemma":"Subjunktion; Subjunktor"}],
  "groups":[{"id":22,"name":"Logik","label":"Wenn-so-Satz"}],
  "reg_authors":[{"name":"Rott Hans","n":1}]
 }

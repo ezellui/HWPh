@@ -17,7 +17,7 @@ HWPH.put("a/360",
  "next":{"id":361,"lemma":"Begabung","band":"1","col":775},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– I (anthr.) 9 923–929 s. auch","qualifier":"(Heidegger)","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":309,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}

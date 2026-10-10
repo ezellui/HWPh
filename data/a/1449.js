@@ -75,7 +75,15 @@ HWPH.put("a/1449",
   {"id":527,"lemma":"Dasein","tf":2},
   {"id":2183,"lemma":"Objekt","tf":2}
  ],
- "see_also":[{"id":1437,"lemma":"Inhärenz"},{"id":3050,"lemma":"Subjekt/Prädikat"},{"id":1449,"lemma":"Insein"}],
+ "see_also":[
+  {"id":1437,"lemma":"Inhärenz"},
+  {"id":3050,"lemma":"Subjekt/Prädikat"},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens"},
+  {"id":129,"lemma":"Analytik des Daseins"},
+  {"id":815,"lemma":"Erschlossenheit, Erschließen"},
+  {"id":1409,"lemma":"In-der-Welt-sein"},
+  {"id":3654,"lemma":"Wohnen"}
+ ],
  "groups":[{"id":22,"name":"Logik","label":"Insein"},{"id":26,"name":"Metaphysik","label":"Insein"}],
  "reg_authors":[
   {"name":"Borsche Tilman","n":13},

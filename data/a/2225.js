@@ -18,8 +18,8 @@ HWPH.put("a/2225",
  "backlinks":[{"id":3219,"lemma":"Transzendental","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Kosmotheologie","qualifier":"","band":null,"col":null},
-  {"term":"natürliche bzw. vernünftige","qualifier":"","band":"6","col":"1207"}
+  {"term":"bzw. vernünftige","qualifier":"","band":"6","col":"1207"},
+  {"term":"Kosmotheologie","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

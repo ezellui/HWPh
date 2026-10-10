@@ -1,13 +1,5 @@
 HWPH.put("r/7a-69",
 [
- [
-  "Zivil; Zivilgesellschaft","Zivil; Zivilgesellschaft","",null,null,"main",3698,
-  "Zivil; Zivilgesellschaft","zivil; zivilgesellschaft"
- ],
- [
-  "Zivil; Zivilgesellschaft","Gesellschaft, bürgerliche","","3","470","ref",1100,
-  "Gesellschaft, bürgerliche","zivil; zivilgesellschaft"
- ],
  ["Ziel","Absicht","",null,null,"ref",26,"Absicht","ziel"],
  ["Ziel","Skopus","",null,null,"ref",2910,"Skopus","ziel"],
  ["Ziel","Teleologie","",null,null,"ref",3145,"Teleologie; teleologisch","ziel"],
@@ -27,7 +19,7 @@ HWPH.put("r/7a-69",
  ["Zimzum","Ensoph","",null,null,"see",744,"Ensoph","zimzum"],
  ["Zimzum","Kabbala","",null,null,"see",1517,"Kabbala","zimzum"],
  ["Zimzum","Kontraktion Gottes","",null,null,"see",1644,"Kontraktion Gottes","zimzum"],
- ["Zimzum","Potenzen II 1 (theol.)","","7","1169f.","ref",2423,"Potenz, Potenzen","zimzum"],
+ ["Zimzum","Potenzen","II 1 (theol.)","7","1169f.","ref",2423,"Potenz, Potenzen","zimzum"],
  ["Zins","Mehrwert","",null,null,"ref",1910,"Mehrwert","zins"],
  ["Zins","Interesse","I","4","480","ref",1475,"Interesse","zins"],
  ["Zinsverbot","Markt","","5","753","ref",1870,"Markt","zinsverbot"],
@@ -89,6 +81,7 @@ HWPH.put("r/7a-69",
  ],
  ["zirkumskriptiv","Ubiquität","",null,null,"ref",3269,"Ubiquität","zirkumskriptiv"],
  ["Zitat","Zitat","","12","1344–1357","main",3697,"Zitat","zitat"],
+ ["Zitat","Use/Mention","",null,null,"see",3363,"Use/Mention","zitat"],
  [
   "Zivil; Zivilgesellschaft","Zivil; Zivilgesellschaft","","12","1357–1362","main",3698,
   "Zivil; Zivilgesellschaft","zivil; zivilgesellschaft"
@@ -139,7 +132,7 @@ HWPH.put("r/7a-69",
  ],
  ["Zivilisierung","Anlage","I (anthr.)","1","324","ref",151,"Anlage","zivilisierung"],
  ["Zivilreligion","Zivilreligion","","12","1379–1382","main",3700,"Zivilisation","zivilreligion"],
- ["Zivilreligion","Religion","",null,null,"see",2673,"Religion","zivilreligion"],
+ ["Zivilreligion","Religion, natürliche","",null,null,"see",2673,"Religion","zivilreligion"],
  [
   "Ziviltheologie","Zivilreligion","","12","1381","ref",3701,"Zivilreligion; Ziviltheologie",
   "ziviltheologie"
@@ -170,7 +163,7 @@ HWPH.put("r/7a-69",
  ],
  ["Zimmermann Thomas","Innovation","","4","391–393","author",1448,"Innovation","zimmermann thomas"],
  [
-  "Zimmermann Thomas","Wesenwille; Kürwille (Tönnies)","","12","659–661","author",3601,
+  "Zimmermann Thomas","Wesenwille; Kürwille","(Tönnies)","12","659–661","author",3601,
   "Wesenwille/Kürwille","zimmermann thomas"
  ],
  [

@@ -17,7 +17,7 @@ HWPH.put("a/502",
  "next":{"id":503,"lemma":"Communes conceptiones","band":"1","col":1024},
  "backlinks":[{"id":2794,"lemma":"Seele","n":1}],
  "outlinks":[],
- "register":[{"term":"II-III intellectus agens separatus","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"intellectus agens separatus","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":115,"name":"Avicenna","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":1666,"name":"A. Nifo","b":1,"n":0,"l":0,"editor":0,"role":"source"},

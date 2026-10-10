@@ -29,6 +29,7 @@ HWPH.put("a/226",
  "outlinks":[{"id":1018,"lemma":"Gegensatz","n":1},{"id":3091,"lemma":"Syllogismus; Syllogistik","n":1}],
  "register":[
   {"term":"Begriff, reziproker","qualifier":"","band":null,"col":null},
+  {"term":"Gleichgeltung","qualifier":"","band":null,"col":null},
   {"term":"reziproke Begriffe","qualifier":"","band":null,"col":null},
   {"term":"Wechselbegriffe","qualifier":"","band":null,"col":null},
   {"term":"ἰσοδυναμία","qualifier":"","band":"1","col":"478"}
@@ -47,6 +48,6 @@ HWPH.put("a/226",
  "mentions":[],
  "see_also":[{"id":2540,"lemma":"Quadrat, logisches"}],
  "groups":[{"id":22,"name":"Logik","label":"Äquipollenz"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

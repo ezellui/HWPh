@@ -17,7 +17,7 @@ HWPH.put("a/1244",
  "next":{"id":1245,"lemma":"Hellenismus","band":"3","col":1050},
  "backlinks":[{"id":3557,"lemma":"Welt","n":2},{"id":3687,"lemma":"Zentrum","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Weltsystem, heliozentrisches","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":94,"name":"Plutarch","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":113,"name":"I. Newton","b":1,"n":0,"l":0,"editor":0,"role":"source"},

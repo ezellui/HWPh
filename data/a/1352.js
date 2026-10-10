@@ -17,14 +17,7 @@ HWPH.put("a/1352",
  "next":{"id":1353,"lemma":"Idealismus, physikalischer","band":"4","col":42},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {
-   "term":"des Geistes/des Lebens (Dilthey) 6 1056 objektiver Idealismus",
-   "qualifier":"(Schelling)",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"objektiver Idealismus","qualifier":"(Schelling)","band":null,"col":null}],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -36,6 +29,6 @@ HWPH.put("a/1352",
  "mentions":[{"id":3560,"lemma":"Weltanschauung","tf":2}],
  "see_also":[{"id":1354,"lemma":"Idealismus, subjektiver"},{"id":1368,"lemma":"Identitätsphilosophie"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Idealismus, objektiver (Schelling)"}],
- "reg_authors":[{"name":"Zeltner Hermann","n":6}]
+ "reg_authors":[{"name":"Zeltner Hermann","n":7}]
 }
 );

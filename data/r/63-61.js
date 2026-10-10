@@ -87,9 +87,10 @@ HWPH.put("r/63-61",
   "Kategorie, Kategorienlehre","categoreal scheme"
  ],
  [
-  "categoria","Kategorie; Kategorienlehre categorica","",null,null,"ref",1540,
-  "Kategorie, Kategorienlehre","categoria"
+  "categoria","Kategorie; Kategorienlehre","",null,null,"ref",1540,"Kategorie, Kategorienlehre",
+  "categoria"
  ],
+ ["categorica","Unbedingte, das","","11","108","ref",3280,"Unbedingte, das","categorica"],
  [
   "categorical imperative","Imperativ, kategorischer catena","",null,null,"ref",null,null,
   "categorical imperative"
@@ -103,7 +104,8 @@ HWPH.put("r/63-61",
   "catholic consent","Wahrheit","VI C (analyt. Philos.)","12","116","ref",3523,"Wahrheit",
   "catholic consent"
  ],
- ["catholicus","Orthodoxie I Cauchysches Kriterium","",null,null,"ref",null,null,"catholicus"],
+ ["catholicus","Orthodoxie","I",null,null,"ref",2252,"Orthodoxie, orthodox","catholicus"],
+ ["Cauchysches Kriterium","Zahl","III","12","1138","ref",3670,"Zahl; Zählen","cauchysches kriterium"],
  ["causa","Sache","",null,null,"ref",2730,"Sache","causa"],
  ["causa","Ursache/Wirkung","",null,null,"ref",3350,"Ursache/Wirkung","causa"],
  [
@@ -230,7 +232,9 @@ HWPH.put("r/63-61",
   "Causa occasionalis","Causa occasionalis","","1","975","main",476,"Causa occasionalis",
   "causa occasionalis"
  ],
- ["Causa occasionalis","Anlass causa per accidens","",null,null,"see",null,null,"causa occasionalis"],
+ ["Causa occasionalis","Anlass","",null,null,"see",152,"Anlaß","causa occasionalis"],
+ ["causa per accidens","Zufall","II",null,null,"ref",3706,"Zufall","causa per accidens"],
+ ["causa per accidens","Anlass","","1","325f.","ref",152,"Anlaß","causa per accidens"],
  ["causa per se","Anlass","","1","325f.","ref",152,"Anlaß","causa per se"],
  ["causa perfecta","Schicksal","","8","1276","ref",2764,"Schicksal","causa perfecta"],
  ["causa perfecta","Ursache/Wirkung","I","11","380","ref",3350,"Ursache/Wirkung","causa perfecta"],
@@ -286,6 +290,7 @@ HWPH.put("r/63-61",
   "cause occasionnelle"
  ],
  ["cautio","Versicherung","",null,null,"ref",3433,"Versicherung","cautio"],
+ ["Casus","Casus","",null,null,"main",465,"Casus","casus"],
  [
   "Caldera Rafael Tomas","Moral; Moralphilosophie","III","6","156–168","author",2022,
   "Moral, moralisch, Moralphilosophie","caldera rafael tomas"

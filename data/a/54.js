@@ -17,7 +17,11 @@ HWPH.put("a/54",
  "next":{"id":55,"lemma":"Affinität","band":"1","col":101},
  "backlinks":[{"id":2822,"lemma":"Selbstaffektion","n":1},{"id":3539,"lemma":"Wahrnehmung","n":1}],
  "outlinks":[],
- "register":[{"term":"Anschauung","qualifier":"","band":"1","col":"100"}],
+ "register":[
+  {"term":"affizieren","qualifier":"","band":null,"col":null},
+  {"term":"Anschauung","qualifier":"","band":"1","col":"100"},
+  {"term":"Einwirkung","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":15,"name":"R. Descartes","b":1,"n":1,"l":0,"editor":0,"role":"source"},

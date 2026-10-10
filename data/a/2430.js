@@ -26,8 +26,8 @@ HWPH.put("a/2430",
   {"term":"Mitwirkung","qualifier":"","band":"7","col":"1220"},
   {"term":"praemotio","qualifier":"","band":"7","col":"1216"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Willensfreiheit","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 2 150–155 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"universalis","qualifier":"","band":null,"col":null},
+  {"term":"Willensfreiheit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1930,"name":"Th. de Lemos","b":6,"n":13,"l":2,"editor":0,"role":"mixed"},

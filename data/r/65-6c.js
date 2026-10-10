@@ -20,7 +20,8 @@ HWPH.put("r/65-6c",
  ["Eleatismus","Megarisch","",null,null,"see",1907,"Megarisch","eleatismus"],
  ["Eleatismus","Vorsokratiker electio","",null,null,"see",null,null,"eleatismus"],
  ["elegantia","Urbanität","","11","351","ref",3338,"Urbanität","elegantia"],
- ["Elektrakomplex","Komplex","",null,null,"ref",1600,"Komplex","elektrakomplex"],
+ ["Elektrakomplex","Komplex, der","","4","936","ref",1601,"Komplex (der)","elektrakomplex"],
+ ["Elektrizität","Kreis; Kugel","","4","1225","ref",1687,"Kreis und Kugel","elektrizitat"],
  ["Elektrizität, tierische","Geist","VI 1","3","181","ref",1030,"Geist","elektrizitat, tierische"],
  [
   "Elektronengehirn","Elektronengehirn","","2","439","main",706,"Elektronengehirn",
@@ -66,7 +67,7 @@ HWPH.put("r/65-6c",
   "elementarerlebnisse"
  ],
  [
-  "Elementarerlebnisse","Konstitutionssystem (Carnap)","",null,null,"see",1628,
+  "Elementarerlebnisse","Konstitutionssystem","(Carnap)",null,null,"see",1628,
   "Konstitutionssystem, Konstitutionstheorie","elementarerlebnisse"
  ],
  [
@@ -93,7 +94,16 @@ HWPH.put("r/65-6c",
   "Elementarphilosophie","Transzendental","VI","10","1389","ref",3219,"Transzendental",
   "elementarphilosophie"
  ],
- ["Elementarsatz","Atomismus","",null,null,"ref",280,"Atomismus","elementarsatz"],
+ ["Elementarsatz","Atomismus","lII (log.)","1","605","ref",280,"Atomismus","elementarsatz"],
+ [
+  "Elementarsatz","Partikeln, logische","","7","149","ref",2283,"Partikeln, logische",
+  "elementarsatz"
+ ],
+ ["Elementarsatz","Verstehen","","11","929","ref",3438,"Verstehen","elementarsatz"],
+ [
+  "Elementarsatz","Wahrheit","VI C (analyt. Philos.)","12","118","ref",3523,"Wahrheit",
+  "elementarsatz"
+ ],
  [
   "Elementarteilchen","Elementarteilchen","","2","441f.","main",709,"Elementarteilchen",
   "elementarteilchen"
@@ -102,8 +112,9 @@ HWPH.put("r/65-6c",
  ["Elementarteilchen","Atomtheorie","",null,null,"see",282,"Atomtheorie","elementarteilchen"],
  ["Elementarteilchen","Molekül","",null,null,"see",2007,"Molekül","elementarteilchen"],
  ["Elementarteilchen","Physik","","7","944f.","ref",2368,"Physik","elementarteilchen"],
- ["Elemente, vier","Säfte Elementengeister","",null,null,"ref",null,null,"elemente, vier"],
- ["Element","Element","",null,null,"main",707,"Element","element"],
+ ["Elemente, vier","Säfte","",null,null,"ref",2735,"Säfte, Säftelehre","elemente, vier"],
+ ["Elementengeister","Erdgeist","",null,null,"ref",784,"Erdgeist, Erdgeister","elementengeister"],
+ ["Elementenlehre","Element","",null,null,"ref",707,"Element","elementenlehre"],
  [
   "Elementenpsychologie","Atomismus","II (psych.)",null,null,"ref",280,"Atomismus",
   "elementenpsychologie"
@@ -117,7 +128,7 @@ HWPH.put("r/65-6c",
  ["Elenchus","Rechtfertigung","I",null,null,"see",2601,"Rechtfertigung","elenchus"],
  ["Elenchus","These","I",null,null,"see",3186,"These","elenchus"],
  ["Elenchus","Widerlegung","",null,null,"see",3605,"Widerlegung","elenchus"],
- ["Elenktik","Elenchus ἔλεος","",null,null,"ref",null,null,"elenktik"],
+ ["Elenktik","Elenchus","",null,null,"ref",710,"Elenchus, Elenktik","elenktik"],
  ["Eleutheronomie","Eleutheronomie","(Kant)","2","443","main",711,"Eleutheronomie","eleutheronomie"],
  ["Eleutheronomie","Freiheit","IV",null,null,"see",946,"Freiheit","eleutheronomie"],
  ["élevage","Züchtung","",null,null,"ref",3704,"Züchtung","elevage"],
@@ -135,7 +146,7 @@ HWPH.put("r/65-6c",
  ["Elite","Vornehm","(Nietzsche)",null,null,"see",3495,"Vornehm","elite"],
  ["Elite","Establishment","","2","757","ref",833,"Establishment","elite"],
  [
-  "Elite","Intelligenz; Intellektueller V (soz.)","","4","456f.","ref",1464,
+  "Elite","Intelligenz; Intellektueller","V (soz.)","4","456f.","ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","elite"
  ],
  ["Elite","Macht","II (allg.)","5","610","ref",1844,"Macht","elite"],

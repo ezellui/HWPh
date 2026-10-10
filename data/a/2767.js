@@ -23,11 +23,11 @@ HWPH.put("a/2767",
  "outlinks":[{"id":1770,"lemma":"Leib-Seele-Verhältnis","n":1}],
  "register":[
   {"term":"Aufmerksamkeit","qualifier":"","band":null,"col":null},
-  {"term":"Essentifikation","qualifier":"","band":"8","col":"1296f."},
   {"term":"Psychologie","qualifier":"","band":"8","col":"1296"},
   {"term":"réparer sa machine","qualifier":"","band":"8","col":"1296"},
   {"term":"sleep","qualifier":"","band":null,"col":null},
   {"term":"somnus","qualifier":"","band":null,"col":null},
+  {"term":"Tod","qualifier":"","band":"8","col":"1296f."},
   {"term":"Vigilanz","qualifier":"","band":"8","col":"1299"},
   {"term":"ὕπνος","qualifier":"","band":null,"col":null}
  ],

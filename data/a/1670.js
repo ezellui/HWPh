@@ -23,7 +23,6 @@ HWPH.put("a/1670",
  "outlinks":[],
  "register":[
   {"term":"correlation","qualifier":"","band":null,"col":null},
-  {"term":"der","qualifier":"I","band":null,"col":null},
   {"term":"Gott/Mensch","qualifier":"I","band":null,"col":null},
   {"term":"Wechselbeziehung","qualifier":"","band":null,"col":null},
   {"term":"Zusammenhang","qualifier":"","band":null,"col":null}

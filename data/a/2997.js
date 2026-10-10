@@ -29,10 +29,10 @@ HWPH.put("a/2997",
   {"id":2815,"lemma":"Seinsvergessenheit","n":1}
  ],
  "register":[
-  {"term":"Ähnlichkeit","qualifier":"","band":"9","col":"1552"},
   {"term":"archi-trace","qualifier":"","band":"9","col":"1556"},
-  {"term":"Disposition","qualifier":"","band":"9","col":"1554"},
+  {"term":"Engramm","qualifier":"","band":"9","col":"1554"},
   {"term":"Erinnerungsspur","qualifier":"","band":"9","col":"1554"},
+  {"term":"similitudo","qualifier":"","band":"9","col":"1552"},
   {"term":"trace","qualifier":"","band":null,"col":null},
   {"term":"Trinität","qualifier":"","band":"9","col":"1551f."},
   {"term":"Urspur","qualifier":"","band":"9","col":"1556"},

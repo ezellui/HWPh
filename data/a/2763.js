@@ -19,8 +19,6 @@ HWPH.put("a/2763",
  "outlinks":[{"id":1136,"lemma":"Geziemende","n":1}],
  "register":[
   {"term":"convenant","qualifier":"","band":null,"col":null},
-  {"term":"das","qualifier":"","band":null,"col":null},
-  {"term":"das 3 623–626 s. auch","qualifier":"","band":null,"col":null},
   {"term":"décent","qualifier":"","band":null,"col":null},
   {"term":"fit","qualifier":"","band":null,"col":null},
   {"term":"honnête","qualifier":"","band":null,"col":null},
@@ -80,7 +78,9 @@ HWPH.put("a/2763",
  "see_also":[
   {"id":170,"lemma":"Anständigkeit"},
   {"id":1098,"lemma":"Geselligkeit, gesellig"},
-  {"id":1136,"lemma":"Geziemende"}
+  {"id":1136,"lemma":"Geziemende"},
+  {"id":3123,"lemma":"Takt"},
+  {"id":3272,"lemma":"Umgang"}
  ],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Schicklich"}],
  "reg_authors":[{"name":"Bräuer Gottfried","n":1}]

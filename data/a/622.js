@@ -21,8 +21,7 @@ HWPH.put("a/622",
   {"term":"distinctio","qualifier":"","band":null,"col":null},
   {"term":"distinctio modalis","qualifier":"","band":"2","col":"272"},
   {"term":"διάκρισις","qualifier":"","band":null,"col":null},
-  {"term":"διορισμός","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 7 1212–1215 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"διορισμός","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":2,"l":0,"editor":0,"role":"source"},

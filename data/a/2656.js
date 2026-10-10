@@ -25,6 +25,7 @@ HWPH.put("a/2656",
   {"term":"règne de la puissance","qualifier":"","band":"8","col":"506"},
   {"term":"regnum gloriae","qualifier":"","band":"8","col":"506"},
   {"term":"regnum gratiae/naturae","qualifier":"","band":null,"col":null},
+  {"term":"regnum potentiae/naturale","qualifier":"","band":"8","col":"506"},
   {"term":"Reich der Natur","qualifier":"","band":null,"col":null},
   {"term":"Wissenschaft/Offenbarung","qualifier":"","band":"8","col":"507"},
   {"term":"Zusammenstimmung","qualifier":"","band":"8","col":"507"}

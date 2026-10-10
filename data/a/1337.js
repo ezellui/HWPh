@@ -28,6 +28,7 @@ HWPH.put("a/1337",
  ],
  "register":[
   {"term":"Egoität","qualifier":"","band":null,"col":null},
+  {"term":"Meinheit","qualifier":"","band":"4","col":"22f."},
   {"term":"Selbsthass","qualifier":"","band":"4","col":"23"},
   {"term":"Unserheit","qualifier":"","band":"4","col":"22"}
  ],

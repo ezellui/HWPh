@@ -21,7 +21,8 @@ HWPH.put("a/150",
   {"term":"Anknüpfungspunkt","qualifier":"","band":null,"col":null},
   {"term":"Anthropologie, theologische","qualifier":"","band":null,"col":null},
   {"term":"Apriori, religiöses","qualifier":"","band":"1","col":"321"},
-  {"term":"Theologie, christliche natürliche","qualifier":"","band":"1","col":"321"}
+  {"term":"Theologie, christliche natürliche","qualifier":"","band":"1","col":"321"},
+  {"term":"Verstehen, glaubendes","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":420,"name":"E. Brunner","b":2,"n":0,"l":1,"editor":0,"role":"source"},

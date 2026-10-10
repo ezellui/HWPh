@@ -27,6 +27,7 @@ HWPH.put("a/69",
  "outlinks":[],
  "register":[
   {"term":"Lebenszeit","qualifier":"","band":null,"col":null},
+  {"term":"saeculum","qualifier":"","band":null,"col":null},
   {"term":"ἀιών","qualifier":"","band":null,"col":null}
  ],
  "persons":[

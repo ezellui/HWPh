@@ -26,6 +26,7 @@ HWPH.put("a/3709",
  ],
  "register":[
   {"term":"Abkehr von Gott","qualifier":"","band":"12","col":"1436"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"permissio efficax","qualifier":"","band":"12","col":"1437"},
   {"term":"permission","qualifier":"","band":null,"col":null}
  ],

@@ -30,10 +30,10 @@ HWPH.put("a/3262",
   {"id":3203,"lemma":"Topik; Topos","n":1}
  ],
  "register":[
-  {"term":"Anerkennungstheorie","qualifier":"","band":"11","col":"53"},
   {"term":"Beredsamkeit, vernünftige","qualifier":"","band":"11","col":"53"},
   {"term":"convictio","qualifier":"","band":"11","col":"53"},
   {"term":"convincingness","qualifier":"","band":"11","col":"54"},
+  {"term":"Fürwahrhalten","qualifier":"","band":"11","col":"53"},
   {"term":"persuasio","qualifier":"","band":null,"col":null},
   {"term":"probare","qualifier":"","band":"11","col":"51"},
   {"term":"rhetorica acroamatica","qualifier":"","band":"11","col":"53"},
@@ -152,7 +152,8 @@ HWPH.put("a/3262",
   {"id":2379,"lemma":"Pistis"},
   {"id":2497,"lemma":"Protreptik"},
   {"id":2713,"lemma":"Rhetorik, Redekunst"},
-  {"id":2926,"lemma":"Sophistik; sophistisch; Sophist"}
+  {"id":2926,"lemma":"Sophistik; sophistisch; Sophist"},
+  {"id":3203,"lemma":"Topik; Topos"}
  ],
  "groups":[{"id":39,"name":"Rhetorik und Argumentationstheorie","label":"Überreden; Überzeugen"}],
  "reg_authors":[{"name":"Ostermann Eberhard","n":3}]

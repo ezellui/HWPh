@@ -21,6 +21,7 @@ HWPH.put("a/2778",
   {"term":"Arabeske","qualifier":"","band":"8","col":"1388"},
   {"term":"line of beauty","qualifier":"","band":null,"col":null},
   {"term":"Linie der Schönheit","qualifier":"","band":null,"col":null},
+  {"term":"Schlangenlinie","qualifier":"","band":"8","col":"1387f."},
   {"term":"Wellenlinie","qualifier":"","band":"8","col":"1387"}
  ],
  "persons":[

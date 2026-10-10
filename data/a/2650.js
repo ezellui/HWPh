@@ -20,6 +20,7 @@ HWPH.put("a/2650",
  "register":[
   {"term":"Aufhören","qualifier":"","band":"8","col":"488"},
   {"term":"Progress, unendlicher","qualifier":"","band":null,"col":null},
+  {"term":"Verstandesschluss","qualifier":"","band":"8","col":"488"},
   {"term":"ἀνάγκη στῆναι","qualifier":"","band":"8","col":"488"}
  ],
  "persons":[
@@ -72,6 +73,6 @@ HWPH.put("a/2650",
  ],
  "see_also":[{"id":2036,"lemma":"Münchhausen-Trilemma"}],
  "groups":[{"id":22,"name":"Logik","label":"Regressus/Progressus in infinitum"}],
- "reg_authors":[{"name":"Bendiek Johannes","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Bendiek Johannes","n":1},{"name":"Red","n":241}]
 }
 );

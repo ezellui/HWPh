@@ -17,7 +17,7 @@ HWPH.put("a/353",
  "next":{"id":354,"lemma":"Bedingung","band":"1","col":762},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Absolute","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":304,"name":"M. Schröter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

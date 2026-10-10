@@ -22,8 +22,7 @@ HWPH.put("a/1184",
   {"term":"Schranke","qualifier":"","band":null,"col":null},
   {"term":"Selbstbegrenzung","qualifier":"","band":null,"col":null},
   {"term":"unendlich/endlich","qualifier":"","band":null,"col":null},
-  {"term":"πέρας","qualifier":"","band":null,"col":null},
-  {"term":"– II (erk.) 3 1194–1200 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"πέρας","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":1,"l":0,"editor":0,"role":"source"},

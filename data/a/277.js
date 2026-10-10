@@ -25,7 +25,9 @@ HWPH.put("a/277",
   {"term":"corpus spirituale","qualifier":"","band":"1","col":"600"},
   {"term":"Luft","qualifier":"","band":null,"col":null},
   {"term":"materia caeli","qualifier":"","band":"1","col":"600"},
+  {"term":"quinta essentia","qualifier":"","band":null,"col":null},
   {"term":"spiritus mundi","qualifier":"","band":"1","col":"600"},
+  {"term":"ἀιθήρ","qualifier":"","band":null,"col":null},
   {"term":"πέμπτη οὐσία","qualifier":"","band":null,"col":null}
  ],
  "persons":[

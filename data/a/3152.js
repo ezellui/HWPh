@@ -18,9 +18,9 @@ HWPH.put("a/3152",
  "backlinks":[],
  "outlinks":[{"id":368,"lemma":"Begriffsgeschichte","n":1}],
  "register":[
+  {"term":"Ausdruck","qualifier":"","band":"10","col":"1010"},
   {"term":"Bedeutung","qualifier":"","band":"10","col":"1009f."},
-  {"term":"Begriffsgeschichte","qualifier":"","band":"10","col":"1010"},
-  {"term":"der Sprache 6 1369","qualifier":"","band":"10","col":"1010"}
+  {"term":"Begriffsgeschichte","qualifier":"","band":"10","col":"1010"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":3,"n":4,"l":0,"editor":0,"role":"source"},

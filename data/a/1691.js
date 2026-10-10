@@ -175,7 +175,7 @@ HWPH.put("a/1691",
   {"id":2470,"lemma":"Produktionsverhältnisse/Produktivkräfte","tf":2},
   {"id":1930,"lemma":"Merkmal","tf":4}
  ],
- "see_also":[],
+ "see_also":[{"id":1681,"lemma":"Krankheit"}],
  "groups":[
   {"id":13,"name":"Geschichtsphilosophie","label":"Krise I (hist.)"},
   {"id":25,"name":"Medizin","label":"Krise II (med.)"},

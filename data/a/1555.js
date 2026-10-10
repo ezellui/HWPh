@@ -23,8 +23,7 @@ HWPH.put("a/1555",
   {"term":"principle of causation","qualifier":"","band":null,"col":null},
   {"term":"Prinzip der Kausalität","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Satz vom Grund","qualifier":"","band":null,"col":null},
-  {"term":"– II (phys.) 2 155–157 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Satz vom Grund","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":128,"name":"W. Stegmüller","b":2,"n":2,"l":1,"editor":0,"role":"scholar"},

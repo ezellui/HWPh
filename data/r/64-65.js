@@ -1,86 +1,13 @@
 HWPH.put("r/64-65",
 [
- ["Denken","Denken","I","2","82","main",552,"Denken","denken"],
  [
-  "der 4 938 Aktualisierung","Wirklichkeit","","12","833","ref",3628,"Wirklichkeit",
-  "der 4 938 aktualisierung"
+  "de dicto/de re","Modalität des Urteils","","6","13","ref",1996,"Modalität (des Urteils)",
+  "de dicto/de re"
  ],
- ["der 1 296f. s. auch","Du","",null,null,"ref",639,"Du","der 1 296f. s. auch"],
- ["der 1 296f. s. auch","Fremdich","",null,null,"ref",950,"Fremdich","der 1 296f. s. auch"],
- ["der","Stimmung","",null,null,"ref",3027,"Stimmung","der"],
- [
-  "des Urteils 6 14 apodiktisch/adäquat","Evidenz","II (phän.)","2","833","ref",850,"Evidenz",
-  "des urteils 6 14 apodiktisch/adaquat"
- ],
- [
-  "der Sprache 6 1369 appellierendes Denken","Denken, appellierendes","(Jaspers)",null,null,"ref",
-  553,"Denken, appellierendes","der sprache 6 1369 appellierendes denken"
- ],
- [
-  "des Urteils 6 14 assertorischer Imperativ","Imperativ, kategorischer","I","4","243","ref",1395,
-  "Imperative, kategorischer Imperativ","des urteils 6 14 assertorischer imperativ"
- ],
- [
-  "der Sprache 6 1369","Repräsentation","I 4","8","808ff.","ref",2686,"Repräsentation",
-  "der sprache 6 1369"
- ],
- ["der Sprache 6 1369","Seele","IV","9","34","ref",2794,"Seele","der sprache 6 1369"],
- ["der Sprache 6 1369","Seele","V","9","76","ref",2794,"Seele","der sprache 6 1369"],
- ["der Sprache 6 1369","Terminologie","","10","1010","ref",3152,"Terminologie","der sprache 6 1369"],
- ["der Sprache 6 1369","Verstehen","","11","924f.","ref",3438,"Verstehen","der sprache 6 1369"],
- [
-  "der Sprache 6 1369 Auslösung, psychogene","Psychogenese","II","7","1596","ref",2509,
-  "Psychogenese, Psychophylogenese","der sprache 6 1369 auslosung, psychogene"
- ],
- [
-  "der Befreiung Befreiung der Seele","Tod","","10","1231","ref",3197,"Tod",
-  "der befreiung befreiung der seele"
- ],
- [
-  "des Bewusstseins (Dilthey)","Wirkungszusammenhang, historischer","(Dilthey)",null,null,"ref",3632,
-  "Wirkungszusammenhang, historischer","des bewusstseins (dilthey)"
- ],
- [
-  "des Bewusstseins (Dilthey)","Einstellung","I (psych.)","2","418","ref",691,"Einstellung",
-  "des bewusstseins (dilthey)"
- ],
- [
-  "des Bewusstseins (Dilthey)","Bewusstseinsstellung (Dilthey)","","1","902f.","ref",419,
-  "Bewußtseinsstellung","des bewusstseins (dilthey)"
- ],
- [
-  "des Bewusstseins (Dilthey)","Bewusstsein, geschichtliches (Dilthey)","",null,null,"see",412,
-  "Bewußtsein","des bewusstseins (dilthey)"
- ],
- [
-  "des Bewusstseins (Dilthey)","Weltanschauung","",null,null,"see",3560,"Weltanschauung",
-  "des bewusstseins (dilthey)"
- ],
- [
-  "Denken, appellierendes","Denken, appellierendes","(Jaspers)","2","104","main",553,
-  "Denken, appellierendes","denken, appellierendes"
- ],
- [
-  "Denken, appellierendes","Glaube, philosophischer","(Jaspers)","3","646","ref",1139,
-  "Glaube, philosophischer","denken, appellierendes"
- ],
- [
-  "Denken, appellierendes","Immanenz","","4","233","ref",1390,"Immanent, Immanenz",
-  "denken, appellierendes"
- ],
- [
-  "Denken, appellierendes","Nichts; Nichtseiendes","","6","828","ref",2136,"Nichts, Nichtseiendes",
-  "denken, appellierendes"
- ],
- [
-  "Denken, appellierendes","Rationalität I (erk.)","","8","55","ref",2576,
-  "Rationalität, Rationalisierung","denken, appellierendes"
- ],
- ["de dicto/de re","Modalität","",null,null,"ref",1995,"Modalität","de dicto/de re"],
- ["des Urteils 6 13","Modallogik","I","6","17","ref",1997,"Modallogik","des urteils 6 13"],
- ["des Urteils 6 13","Modallogik","II","6","36","ref",1997,"Modallogik","des urteils 6 13"],
- ["des Urteils 6 13","Notwendigkeit","IV","6","985","ref",2171,"Notwendigkeit","des urteils 6 13"],
- ["des Urteils 6 13","Satz","II","8","1183","ref",2745,"Satz","des urteils 6 13"],
+ ["de dicto/de re","Modallogik","I","6","17","ref",1997,"Modallogik","de dicto/de re"],
+ ["de dicto/de re","Modallogik","II","6","36","ref",1997,"Modallogik","de dicto/de re"],
+ ["de dicto/de re","Notwendigkeit","IV","6","985","ref",2171,"Notwendigkeit","de dicto/de re"],
+ ["de dicto/de re","Satz","II","8","1183","ref",2745,"Satz","de dicto/de re"],
  ["death","Tod","",null,null,"ref",3197,"Tod","death"],
  ["death education","Sterben lernen","","10","132","ref",3018,"Sterben lernen","death education"],
  ["death instinct","Todestrieb","",null,null,"ref",3200,"Todestrieb","death instinct"],
@@ -94,17 +21,23 @@ HWPH.put("r/64-65",
  ["Dechiffrieren","Welträtsel","","12","507","ref",3574,"Welträtsel","dechiffrieren"],
  ["déchirement","Zerrissenheit","",null,null,"ref",3689,"Zerrissenheit","dechirement"],
  [
-  "decidable","Definit; Definitheit II (Carnap)","",null,null,"ref",534,"Definit, Definitheit",
+  "decidable","Definit; Definitheit","II (Carnap)",null,null,"ref",534,"Definit, Definitheit",
   "decidable"
  ],
  ["decidable","Algorithmus","","1","155","ref",97,"Algorithmus","decidable"],
- ["decisio","Dezision (Schmitt)","","2","159","ref",577,"Devotio moderna","decisio"],
+ ["decisio","Dezision","(Schmitt)","2","159","ref",577,"Devotio moderna","decisio"],
  [
   "Deckerinnerung","Gedächtnistäuschung","","3","51","ref",998,"Gedächtnistäuschung",
   "deckerinnerung"
  ],
- ["decline","Niedergang déconstruction","",null,null,"ref",null,null,"decline"],
- ["decorum","Geziemende","",null,null,"ref",1136,"Geziemende","decorum"],
+ ["decline","Niedergang","",null,null,"ref",2138,"Niedergang, Untergang","decline"],
+ [
+  "déconstruction","Textualität; Dekonstruktion","(Derrida)",null,null,"ref",3160,
+  "Textualität; Dekonstruktion","deconstruction"
+ ],
+ ["decorum","Geziemende, das","",null,null,"ref",1136,"Geziemende","decorum"],
+ ["decorum","Geschmack","II","3","449","ref",1097,"Geschmack","decorum"],
+ ["decorum","Sitte","","9","899","ref",2902,"Sitte","decorum"],
  ["décret","Gesetz","I (jur.)","3","487","ref",1105,"Gesetz","decret"],
  ["decreta animi","Symbol","I","10","718","ref",3093,"Symbol","decreta animi"],
  ["decretum","Dogma","",null,null,"ref",625,"Dogma","decretum"],
@@ -112,7 +45,7 @@ HWPH.put("r/64-65",
  ["decretum aeternum","Prädestination","","7","1175","ref",2424,"Prädestination","decretum aeternum"],
  ["decretum vagum","Vagheit","","11","533","ref",3370,"Vagheit; vage","decretum vagum"],
  [
-  "Dedekindscher Schnitt","Kontinuum IV (math.)","","4","1059f.","ref",1640,"Kontinuum, Kontinuität",
+  "Dedekindscher Schnitt","Kontinuum","IV (math.)","4","1059f.","ref",1640,"Kontinuum, Kontinuität",
   "dedekindscher schnitt"
  ],
  ["dedignatio","Verachtung","","11","563","ref",3379,"Verachtung; Mißachtung","dedignatio"],
@@ -121,7 +54,11 @@ HWPH.put("r/64-65",
  ["Deduktion","Folgerung","",null,null,"see",926,"Folgerung","deduktion"],
  ["Deduktion","Kalkül","",null,null,"see",1521,"Kalkül","deduktion"],
  ["Deduktion","Methode, axiomatische","",null,null,"see",1957,"Methode, axiomatische","deduktion"],
- ["Deduktion","Schluss Deduktion","",null,null,"see",null,null,"deduktion"],
+ ["Deduktion","Schluss","",null,null,"see",2769,"Schluß","deduktion"],
+ [
+  "Deduktion","Quaestio iuris/quaestio facti","","7","1742","ref",2542,
+  "Quaestio iuris/quaestio facti","deduktion"
+ ],
  [
   "Deduktion, empirische","Deduktion, transzendentale","","2","28","ref",532,
   "Deduktion, transzendentale","deduktion, empirische"
@@ -135,7 +72,7 @@ HWPH.put("r/64-65",
   "Apperzeption, transzendentale","deduktion, transzendentale"
  ],
  [
-  "Deduktion, transzendentale","Kategorie; Kategorienlehre IV","",null,null,"see",1540,
+  "Deduktion, transzendentale","Kategorie; Kategorienlehre","IV",null,null,"see",1540,
   "Kategorie, Kategorienlehre","deduktion, transzendentale"
  ],
  [
@@ -151,7 +88,7 @@ HWPH.put("r/64-65",
   "deduktives system"
  ],
  [
-  "deduktiv-nomologisch","Erklären II (wiss.)","","2","695","ref",801,"Erklären, Erklärung",
+  "deduktiv-nomologisch","Erklären","II (wiss.)","2","695","ref",801,"Erklären, Erklärung",
   "deduktiv-nomologisch"
  ],
  ["deduktiv-nomologisch","Verstehen","","11","933","ref",3438,"Verstehen","deduktiv-nomologisch"],
@@ -186,14 +123,19 @@ HWPH.put("r/64-65",
  ["Definiens","Proprium","",null,null,"ref",2485,"Proprium","definiens"],
  ["Definiens","Definition","II","2","39","ref",535,"Definition","definiens"],
  ["Definierbar","Definierbar","","2","29f.","main",533,"Definierbar","definierbar"],
- ["Definierbar","Modell","",null,null,"see",1999,"Modell","definierbar"],
+ ["Definierbar","Modell; Modelltheorie","I (log.)",null,null,"see",1999,"Modell","definierbar"],
+ ["Definierbar","Wohlordnungssatz","",null,null,"see",3652,"Wohlordnungssatz","definierbar"],
  [
   "Definit; Definitheit","Definit; Definitheit","","2","30f.","main",534,"Definit, Definitheit",
   "definit; definitheit"
  ],
  [
-  "definite description","Kennzeichnung definitio accidentalis/essentialis","",null,null,"ref",null,
-  null,"definite description"
+  "definite description","Kennzeichnung","",null,null,"ref",1558,
+  "Kennzeichnung, Kennzeichnungstheorie","definite description"
+ ],
+ [
+  "definitio accidentalis/essentialis","Wesensdefinition","II","12","653","ref",3598,
+  "Wesensdefinition","definitio accidentalis/essentialis"
  ],
  ["definitio causalis","Definition","I",null,null,"ref",535,"Definition","definitio causalis"],
  [
@@ -232,7 +174,7 @@ HWPH.put("r/64-65",
  ["Definition","Definition","","2","31–42","main",535,"Definition","definition"],
  ["Definition","Begriff","I (allg.)",null,null,"see",365,"Begriff","definition"],
  ["Definition","Beschreibung","I",null,null,"see",395,"Beschreibung","definition"],
- ["Definition","Erklären II (wiss.)","",null,null,"see",801,"Erklären, Erklärung","definition"],
+ ["Definition","Erklären","II (wiss.)",null,null,"see",801,"Erklären, Erklärung","definition"],
  ["Definition","Gebrauchsdefinition","",null,null,"see",994,"Gebrauchsdefinition","definition"],
  ["Definition","Hinweisdefinition","",null,null,"see",1279,"Hinweisdefinition","definition"],
  ["Definition","Konventionalismus","",null,null,"see",1652,"Konventionalismus","definition"],
@@ -288,8 +230,12 @@ HWPH.put("r/64-65",
   "definition, induktive"
  ],
  [
-  "Definition, induktive","Prädikatenlogik Definition, kontextuale","",null,null,"see",null,null,
-  "definition, induktive"
+  "Definition, induktive","Prädikatenlogik","",null,null,"see",2426,
+  "Prädikatenlogik, Prädikatenkalkül","definition, induktive"
+ ],
+ [
+  "Definition, kontextuale","Gebrauchsdefinition","",null,null,"ref",994,"Gebrauchsdefinition",
+  "definition, kontextuale"
  ],
  [
   "Definition, operationale","Definition, operationale","(Bridgman)","2","43","main",538,
@@ -352,15 +298,24 @@ HWPH.put("r/64-65",
  ["Degeneration","Anpassung","",null,null,"see",159,"Anpassung","degeneration"],
  ["Degeneration","Rudimentation","",null,null,"see",2727,"Rudimentation","degeneration"],
  ["Degeneration","Psychopathie","I","7","1683","ref",2525,"Psychopathie","degeneration"],
- ["dégoût","Überdruss degrees","",null,null,"ref",null,null,"degout"],
+ ["dégoût","Überdruss","",null,null,"ref",3249,"Überdruß","degout"],
+ ["degrees","Stufen","",null,null,"ref",3044,"Stufen","degrees"],
  ["deguitas","Person","II",null,null,"ref",2318,"Person","deguitas"],
- ["déhiscence","Philosophie","IV",null,null,"ref",2353,"Philosophie","dehiscence"],
+ ["déhiscence","Philosophie","IV L","7","794","ref",2353,"Philosophie","dehiscence"],
+ [
+  "deificatio","Gottwerdung; Vergöttlichung","",null,null,"ref",1175,
+  "Gottwerdung, Vergottung, Vergöttlichung","deificatio"
+ ],
+ ["deificatio","Ekstase","II","2","434","ref",702,"Ekstase","deificatio"],
+ ["deificatio","Gut; das Gute","III","3","952","ref",1203,"Gut, das Gute, das Gut","deificatio"],
+ ["deificatio","Kontemplation","","4","1025","ref",1635,"Kontemplation","deificatio"],
+ ["deificatio","Übermensch","","11","46","ref",3261,"Übermensch","deificatio"],
  ["deiformis","Gottförmig","",null,null,"ref",1172,"Gottförmig","deiformis"],
  ["deify","Personifikation","","7","342","ref",2321,"Personifikation, Personifizierung","deify"],
  ["Deismus","Deismus","","2","44–47","main",543,"Deismus","deismus"],
  ["Deismus","Freidenker","",null,null,"see",944,"Freidenker","deismus"],
  ["Deismus","Physikotheologie","",null,null,"see",2370,"Physikotheologie","deismus"],
- ["Deismus","Religion","",null,null,"see",2673,"Religion","deismus"],
+ ["Deismus","Religion, natürliche","",null,null,"see",2673,"Religion","deismus"],
  ["Deismus","Rationalismus","I","8","45","ref",2574,"Rationalismus","deismus"],
  ["deitas","Gottheit","",null,null,"ref",1173,"Gottheit","deitas"],
  ["Deixis","Zeigen","",null,null,"ref",3675,"Zeigen","deixis"],
@@ -368,7 +323,7 @@ HWPH.put("r/64-65",
  ["déjà raconté","Gedächtnistäuschung","","3","51","ref",998,"Gedächtnistäuschung","deja raconte"],
  ["déjà vécu","Gedächtnistäuschung","","3","46","ref",998,"Gedächtnistäuschung","deja vecu"],
  ["déjà-vu","Gedächtnistäuschung","",null,null,"ref",998,"Gedächtnistäuschung","deja-vu"],
- ["déjà-vu","Erkenntnis II (psych.)","","2","670","ref",796,"Erkennen, Erkenntnis","deja-vu"],
+ ["déjà-vu","Erkenntnis","II (psych.)","2","670","ref",796,"Erkennen, Erkenntnis","deja-vu"],
  ["Dekadenz","Dekadenz","","2","47f.","main",544,"Dekadenz","dekadenz"],
  ["Dekas","Dekas","","2","48f.","main",545,"Dekas","dekas"],
  ["Dekas","Dyas","",null,null,"see",643,"Dyas","dekas"],
@@ -380,7 +335,11 @@ HWPH.put("r/64-65",
   "Textualität; Dekonstruktion","dekonstruktion"
  ],
  ["Dekonstruktion","Verantwortung","I","11","568","ref",3380,"Verantwortung","dekonstruktion"],
- ["Dekonstruktivismus","Philosophie","IV",null,null,"ref",2353,"Philosophie","dekonstruktivismus"],
+ ["Dekonstruktivismus","Philosophie","IV L",null,null,"ref",2353,"Philosophie","dekonstruktivismus"],
+ [
+  "Dekonstruktivismus","Struktur","II (frz. Struktural.)",null,null,"ref",3040,"Struktur",
+  "dekonstruktivismus"
+ ],
  [
   "Dekonzentration","Zerstreuung","I (anthr.)","12","1312","ref",3690,"Zerstreuung",
   "dekonzentration"
@@ -457,9 +416,11 @@ HWPH.put("r/64-65",
   "demonstrabel/probabel"
  ],
  [
-  "Demonstrabel/probabel","Wahrscheinlichkeitsschluss demonstratio","",null,null,"see",null,null,
-  "demonstrabel/probabel"
+  "Demonstrabel/probabel","Wahrscheinlichkeitsschluss","",null,null,"see",3542,
+  "Wahrscheinlichkeitsschluß","demonstrabel/probabel"
  ],
+ ["demonstratio","Beweis","",null,null,"ref",410,"Beweis","demonstratio"],
+ ["demonstratio","Topik","II","10","1273","ref",3203,"Topik; Topos","demonstratio"],
  [
   "demonstratio catholica","Fundamentaltheologie","","2","1136","ref",969,"Fundamentaltheologie",
   "demonstratio catholica"
@@ -574,14 +535,15 @@ HWPH.put("r/64-65",
  ["Denken","Vernunft; Verstand","V","11","818","ref",3423,"Vernunft; Verstand","denken"],
  ["Denken (ind.)","Manas","",null,null,"ref",1856,"Manas","denken (ind.)"],
  ["Denken/Glauben","Dasein","","2","17","ref",527,"Dasein","denken/glauben"],
- ["Denken/Sprechen","Wort","",null,null,"ref",3656,"Wort","denken/sprechen"],
+ ["Denken/Sprechen","Wort, inneres","",null,null,"ref",3656,"Wort","denken/sprechen"],
+ ["Denken/Sprechen","Denken","I","2","92","ref",552,"Denken","denken/sprechen"],
  [
   "Denken, appellierendes","Denken, appellierendes","(Jaspers)","2","104","main",553,
   "Denken, appellierendes","denken, appellierendes"
  ],
  ["Denken, diskursives","Intuition","","4","524","ref",1487,"Intuition","denken, diskursives"],
  [
-  "Denken, divergentes","Invention; Erfindung IV (psych.)","","4","568","ref",1490,
+  "Denken, divergentes","Invention; Erfindung","IV (psych.)","4","568","ref",1490,
   "Invention, Erfindung, Entdeckung","denken, divergentes"
  ],
  ["Denken, divergentes","Kreativität","","4","1195","ref",1685,"Kreativität","denken, divergentes"],
@@ -593,8 +555,14 @@ HWPH.put("r/64-65",
   "Denken, existierendes","Existenzerhellung","(Jaspers)","2","861","ref",866,"Existenzerhellung",
   "denken, existierendes"
  ],
- ["Denken, geschäftliches","Dialektik","IV",null,null,"ref",583,"Dialektik","denken, geschaftliches"],
- ["Denken, künstlerisches","Dialektik","IV",null,null,"ref",583,"Dialektik","denken, kunstlerisches"],
+ [
+  "Denken, geschäftliches","Dialektik","IV 1. 6","2","194","ref",583,"Dialektik",
+  "denken, geschaftliches"
+ ],
+ [
+  "Denken, künstlerisches","Dialektik","IV 1. 6","2","194","ref",583,"Dialektik",
+  "denken, kunstlerisches"
+ ],
  ["Denken, lautes","Denkpsychologie","","2","110","ref",558,"Denkpsychologie","denken, lautes"],
  [
   "Denken, mythisches","Mythos; Mythologie","V","6","296","ref",2053,"Mythos, Mythologie",
@@ -613,7 +581,7 @@ HWPH.put("r/64-65",
   "denken, primitives"
  ],
  ["Denken, rechnendes","Rechnen","II (kult.)",null,null,"ref",2597,"Rechnen","denken, rechnendes"],
- ["Denken, reines","Dialektik","IV",null,null,"ref",583,"Dialektik","denken, reines"],
+ ["Denken, reines","Dialektik","IV 1. 6","2","194","ref",583,"Dialektik","denken, reines"],
  ["Denken, reines","Ding an sich","I","2","252","ref",604,"Ding an sich","denken, reines"],
  [
   "Denken, reines","Erkenntnistheorie","II","2","686","ref",799,
@@ -640,13 +608,20 @@ HWPH.put("r/64-65",
   "Denken, spekulatives","Eine, das; Einheit","III","2","381","ref",675,"Eine (das), Einheit",
   "denken, spekulatives"
  ],
- ["Denken, stilles","Wort","",null,null,"ref",3656,"Wort","denken, stilles"],
+ [
+  "Denken, stilles","Wort, inneres","","12","1044","ref",3657,"Wort, inneres; Rede, innere",
+  "denken, stilles"
+ ],
+ [
+  "Denken, übergeschichtliches","Übergeschichtlich","","11","38","ref",3256,
+  "Übergeschichtlich; überhistorisch","denken, ubergeschichtliches"
+ ],
  [
   "Denken, voraussetzungsloses","Voraussetzungslosigkeit","","11","1172","ref",3488,
   "Voraussetzungslosigkeit","denken, voraussetzungsloses"
  ],
  [
-  "Denken, wildes","Faktenaussenwelt/Fakteninnenwelt (Gehlen)","","2","885","ref",887,
+  "Denken, wildes","Faktenaussenwelt/Fakteninnenwelt","(Gehlen)","2","885","ref",887,
   "Faktenaußenwelt/Fakteninnenwelt","denken, wildes"
  ],
  [
@@ -674,9 +649,10 @@ HWPH.put("r/64-65",
  ["Denkgesetz","Denken","II",null,null,"see",552,"Denken","denkgesetz"],
  ["Denkgesetz","Denkpsychologie","",null,null,"see",558,"Denkpsychologie","denkgesetz"],
  [
-  "Denkgesetz","Schema; Schematismus II (psych.) Denkgesetz","",null,null,"see",2760,
-  "Schema, Schematismus","denkgesetz"
+  "Denkgesetz","Schema; Schematismus","II (psych.)",null,null,"see",2760,"Schema, Schematismus",
+  "denkgesetz"
  ],
+ ["Denkgesetz","Axiom","II","1","747","ref",340,"Axiom","denkgesetz"],
  [
   "Denkkollektiv","Scientific community","","8","1518","ref",2793,"Scientific community",
   "denkkollektiv"
@@ -712,7 +688,7 @@ HWPH.put("r/64-65",
  ],
  ["Denkpsychologie","Verdichtung","II (erk.)",null,null,"see",3390,"Verdichtung","denkpsychologie"],
  [
-  "Denkschema","Schema; Schematismus I (allg.)","","8","1258","ref",2760,"Schema, Schematismus",
+  "Denkschema","Schema; Schematismus","I (allg.)","8","1258","ref",2760,"Schema, Schematismus",
   "denkschema"
  ],
  ["Denkstil","Paradigma; exemplar","","7","80","ref",2269,"Paradigma, exemplar","denkstil"],
@@ -728,7 +704,7 @@ HWPH.put("r/64-65",
   "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","denkungsart, erweiterte"
  ],
  [
-  "Denkverlauf, geordneter","Schema; Schematismus II (psych.)","","8","1261","ref",2760,
+  "Denkverlauf, geordneter","Schema; Schematismus","II (psych.)","8","1261","ref",2760,
   "Schema, Schematismus","denkverlauf, geordneter"
  ],
  [
@@ -759,7 +735,7 @@ HWPH.put("r/64-65",
  ],
  ["denotation","Signifikation","","9","789f.","ref",2885,"Signifikation","denotation"],
  ["densatio","Verdichtung","",null,null,"ref",3390,"Verdichtung","densatio"],
- ["densitas","Masse I (phys.)","","5","826","ref",1878,"Masse, Massen","densitas"],
+ ["densitas","Masse","I (phys.)","5","826","ref",1878,"Masse, Massen","densitas"],
  ["densitas","Qualität","II 3","7","1762","ref",2544,"Qualität","densitas"],
  ["denudatio","Abstraktion","III","1","50","ref",31,"Abstraktion","denudatio"],
  ["denudatio","Vorurteil","I (erk.)","11","1251","ref",3507,"Vorurteil","denudatio"],
@@ -806,8 +782,13 @@ HWPH.put("r/64-65",
   "dependenzgesetze"
  ],
  [
-  "Dependenzgesetze","Schichtenlehre I (Hartmann) Dependenzgrammatik","",null,null,"see",null,null,
-  "dependenzgesetze"
+  "Dependenzgesetze","Schichtenlehre","I (Hartmann)",null,null,"see",2762,
+  "Schichtenlehre, Schichtentheorie","dependenzgesetze"
+ ],
+ ["Dependenzgrammatik","Satz","III 1","8","1190","ref",2745,"Satz","dependenzgrammatik"],
+ [
+  "Dependenzgrammatik","Subjekt/Prädikat","IV","10","452","ref",3050,"Subjekt/Prädikat",
+  "dependenzgrammatik"
  ],
  [
   "Depersonalisation","Depersonalisation","","2","115","main",563,"Depersonalisation",
@@ -824,7 +805,7 @@ HWPH.put("r/64-65",
   "deplacement"
  ],
  [
-  "depositio","Obligatio; Ars obligatoria II (log.)","","6","1068","ref",2194,
+  "depositio","Obligatio; Ars obligatoria","II (log.)","6","1068","ref",2194,
   "Obligatio, Ars obligatoria","depositio"
  ],
  ["Depression","Depression","","2","115","main",564,"Depression","depression"],
@@ -837,7 +818,11 @@ HWPH.put("r/64-65",
   "depth","Begriffsinhalt/Begriffsumfang","",null,null,"ref",369,"Begriffsinhalt/Begriffsumfang",
   "depth"
  ],
- ["depth","Tiefe depth psychology","",null,null,"ref",null,null,"depth"],
+ ["depth","Tiefe","",null,null,"ref",3190,"Tiefe; Tiefsinn","depth"],
+ [
+  "depth psychology","Tiefenpsychologie","",null,null,"ref",3191,"Tiefenpsychologie",
+  "depth psychology"
+ ],
  ["déraison","Wahnsinn","","12","40","ref",3521,"Wahnsinn","deraison"],
  ["Derealisierung","Virtualität","II","11","1066","ref",3467,"Virtualität","derealisierung"],
  [
@@ -855,8 +840,12 @@ HWPH.put("r/64-65",
  ],
  ["description","Beschreibung","",null,null,"ref",395,"Beschreibung","description"],
  [
-  "description","Kennzeichnung Desensibilisierung, systematische","",null,null,"ref",null,null,
+  "description","Kennzeichnung","",null,null,"ref",1558,"Kennzeichnung, Kennzeichnungstheorie",
   "description"
+ ],
+ [
+  "Desensibilisierung, systematische","Neurose","III","6","766","ref",2124,"Neurose",
+  "desensibilisierung, systematische"
  ],
  ["déserteur du monde","Stolz","","10","206","ref",3034,"Stolz","deserteur du monde"],
  ["désespoir","Verzweiflung","",null,null,"ref",3459,"Verzweiflung","desespoir"],
@@ -867,7 +856,15 @@ HWPH.put("r/64-65",
  ["Desiderative","Wert","III A (phän.)","12","566","ref",3588,"Wert","desiderative"],
  ["desiderium","Verlangen","",null,null,"ref",3415,"Verlangen","desiderium"],
  ["desiderium","Affekt","I","1","92","ref",53,"Affekt","desiderium"],
- ["desiderium","Schöne","",null,null,"ref",2776,"Schöne","desiderium"],
+ ["desiderium","Schöne, das","III","8","1359f.","ref",2776,"Schöne","desiderium"],
+ [
+  "Desiderium naturale","Desiderium naturale","","2","118–130","main",566,"Desiderium naturale",
+  "desiderium naturale"
+ ],
+ [
+  "Desiderium naturale","Begehren; appetitus","",null,null,"see",362,"Begehren, appetitus naturalis",
+  "desiderium naturale"
+ ],
  [
   "desiderium naturale","Unsterblichkeit","III","11","282ff.","ref",3323,"Unsterblichkeit",
   "desiderium naturale"
@@ -875,7 +872,7 @@ HWPH.put("r/64-65",
  ["desidia","Faulheit","","2","916","ref",900,"Faulheit","desidia"],
  ["design","Zeichnung","",null,null,"ref",3674,"Zeichnung","design"],
  [
-  "designatio","Bestimmung; Determination I (met.)","","1","852","ref",400,
+  "designatio","Bestimmung; Determination","I (met.)","1","852","ref",400,
   "Bestimmung, bestimmen, Determination","designatio"
  ],
  ["Designator","Designator","(Carnap)","2","130","main",567,"Designator","designator"],
@@ -955,12 +952,29 @@ HWPH.put("r/64-65",
  ["desperatio","Verzweiflung","",null,null,"ref",3459,"Verzweiflung","desperatio"],
  ["desperatio","Verstockung","","11","944","ref",3440,"Verstockung","desperatio"],
  ["Despotie","Despotie","","2","132–146","main",570,"Désintéressement","despotie"],
+ ["Despotie","Anarchie","",null,null,"see",134,"Anarchie, Anarchismus","despotie"],
+ ["Despotie","Diktatur","",null,null,"see",600,"Diktatur","despotie"],
+ ["Despotie","Haus","I",null,null,"see",1229,"Haus","despotie"],
+ [
+  "Despotie","Herrschaft und Knechtschaft","",null,null,"see",1262,"Herrschaft und Knechtschaft",
+  "despotie"
+ ],
+ ["Despotie","Monarchie","",null,null,"see",2012,"Monarchie","despotie"],
+ ["Despotie","Tyrannis","",null,null,"see",3245,"Tyrannis","despotie"],
+ ["Despotie","Unterdrückung","",null,null,"see",3324,"Unterdrückung; Repression","despotie"],
+ ["Despotie","Untertan","",null,null,"see",3329,"Untertan","despotie"],
+ ["Despotie","Usurpation","",null,null,"see",3364,"Usurpation","despotie"],
+ ["Despotie","Verfassungsformen","",null,null,"see",3399,"Verfassungsform(en)","despotie"],
+ ["Despotie","Herrschaft","II (Weber)",null,null,"see",1261,"Herrschaft","despotie"],
+ ["Despotie","Legalität; Legitimität","",null,null,"see",1762,"Legalität, Legitimität","despotie"],
+ ["Despotie","Nomokratie","","6","890","ref",2153,"Nomokratie","despotie"],
  ["despotism of the eye","Sehen","I","9","129","ref",2802,"Sehen","despotism of the eye"],
  [
-  "despotisme arbitraire/légal","Despotie I (allg.)","","2","136","ref",571,"Despotie, Despotismus",
+  "despotisme arbitraire/légal","Despotie","I (allg.)","2","136","ref",571,"Despotie, Despotismus",
   "despotisme arbitraire/legal"
  ],
- ["Despotismus","Despotie II (Weber) dessein","",null,null,"ref",null,null,"despotismus"],
+ ["Despotismus","Despotie","II (Weber)",null,null,"ref",571,"Despotie, Despotismus","despotismus"],
+ ["dessein","Morphologie","II (nat.)","6","205f.","ref",2032,"Morphologie","dessein"],
  [
   "dessein général","Typos; Typologie","II (allg.)","10","1594","ref",3244,"Typos; Typologie",
   "dessein general"
@@ -973,10 +987,19 @@ HWPH.put("r/64-65",
  ],
  ["destructio","Annihilation","","1","333","ref",156,"Annihilation","destructio"],
  ["destructio","Widerlegung","","12","681","ref",3605,"Widerlegung","destructio"],
- ["destruction","Schreckliche","",null,null,"ref",2780,"Schreckliche","destruction"],
+ ["destruction","Schreckliche, das","","8","1415","ref",2780,"Schreckliche","destruction"],
+ ["déstructuration","Unheimliche, das","","11","174","ref",3299,"Unheimliche, das","destructuration"],
  ["Destrudo","Aggression","","1","105","ref",61,"Aggression","destrudo"],
  ["Destrudo","Libido","","11","805","ref",3423,"Vernunft; Verstand","destrudo"],
  ["Destruktion","Destruktion","","2","146f.","main",572,"Destruktion","destruktion"],
+ ["Destruktion","Metaphysik","VII (Heidegger)",null,null,"see",1944,"Metaphysik","destruktion"],
+ ["Destruktion","Seinsgeschichte","(Heidegger)",null,null,"see",2812,"Seinsgeschichte","destruktion"],
+ [
+  "Destruktion","Seinsvergessenheit","(Heidegger)",null,null,"see",2815,"Seinsvergessenheit",
+  "destruktion"
+ ],
+ ["Destruktion","Aggression","",null,null,"see",61,"Aggression","destruktion"],
+ ["Destruktion","Todestrieb","",null,null,"see",3200,"Todestrieb","destruktion"],
  ["Destruktion","Streit","I (allg.)","10","299","ref",3039,"Streit","destruktion"],
  [
   "Destruktion","Textualität; Dekonstruktion","(Derrida)","10","1045f.","ref",3160,
@@ -1004,7 +1027,7 @@ HWPH.put("r/64-65",
   "determinatio"
  ],
  [
-  "determinatio","Bestimmung; Determination I (met.)","","1","852","ref",400,
+  "determinatio","Bestimmung; Determination","I (met.)","1","852","ref",400,
   "Bestimmung, bestimmen, Determination","determinatio"
  ],
  ["determinatio","Dialektik","III","2","181","ref",583,"Dialektik","determinatio"],
@@ -1065,8 +1088,28 @@ HWPH.put("r/64-65",
   "Determinismus/Indeterminismus","determinismus/indeterminismus"
  ],
  [
-  "Determinismus/Indeterminismus","Determinismus/Indeterminismus","I (met.)","2","153","main",575,
-  "Determinismus/Indeterminismus","determinismus/indeterminismus"
+  "Determinismus/Indeterminismus","Freiheit","IV",null,null,"see",946,"Freiheit",
+  "determinismus/indeterminismus"
+ ],
+ [
+  "Determinismus/Indeterminismus","Nexus","",null,null,"see",2132,"Nexus, Nexus universalis",
+  "determinismus/indeterminismus"
+ ],
+ [
+  "Determinismus/Indeterminismus","Kausalitätsprinzip","",null,null,"see",1555,"Kausalitätsprinzip",
+  "determinismus/indeterminismus"
+ ],
+ [
+  "Determinismus/Indeterminismus","Unschärferelation","",null,null,"see",3318,
+  "Unschärferelation; Unbestimmtheitsrelation","determinismus/indeterminismus"
+ ],
+ [
+  "Determinismus/Indeterminismus","Voraussage","",null,null,"see",3487,
+  "Voraussage; Vorhersage; Prognose","determinismus/indeterminismus"
+ ],
+ [
+  "Determinismus, ökonomischer","Determinismus/Indeterminismus","I (met.)","2","153","ref",575,
+  "Determinismus/Indeterminismus","determinismus, okonomischer"
  ],
  [
   "detractio","Verschiebung; Verdichtung","","11","877","ref",3429,"Verschiebung; Verdichtung",
@@ -1105,65 +1148,17 @@ HWPH.put("r/64-65",
  ["Devotio moderna","Frömmigkeit II","",null,null,"see",959,"Fromm, Frömmigkeit","devotio moderna"],
  ["Devotio moderna","Pietismus","",null,null,"see",2377,"Pietismus","devotio moderna"],
  ["dexteritas","Philanthropie","",null,null,"ref",2351,"Philanthropie","dexteritas"],
+ ["Dezision","Dezision","(Schmitt)","2","159–161","main",577,"Devotio moderna","dezision"],
+ ["Dezision","Ausnahmezustand","",null,null,"see",308,"Ausnahmezustand","dezision"],
+ ["Dezision","Cäsarismus","",null,null,"see",464,"Cäsarismus","dezision"],
+ ["Dezision","Entscheidung","",null,null,"see",754,"Entscheidung","dezision"],
  [
-  "Dezision (Schmitt)","Dezision (Schmitt)","","2","159–161","main",577,"Devotio moderna",
-  "dezision (schmitt)"
+  "Dezision","Ordnungsdenken, konkretes","(Schmitt)",null,null,"see",2236,
+  "Ordnungsdenken, konkretes","dezision"
  ],
  [
-  "Dezision (Schmitt)","Ausnahmezustand","",null,null,"see",308,"Ausnahmezustand",
-  "dezision (schmitt)"
- ],
- ["Dezision (Schmitt)","Cäsarismus","",null,null,"see",464,"Cäsarismus","dezision (schmitt)"],
- ["Dezision (Schmitt)","Entscheidung","",null,null,"see",754,"Entscheidung","dezision (schmitt)"],
- [
-  "Dezision (Schmitt)","Ordnungsdenken, konkretes","(Schmitt)",null,null,"see",2236,
-  "Ordnungsdenken, konkretes","dezision (schmitt)"
- ],
- [
-  "Dezisionismus","Dezision (Schmitt)","",null,null,"ref",578,"Dezision, Dezisionismus",
+  "Dezisionismus","Dezision","(Schmitt)",null,null,"ref",578,"Dezision, Dezisionismus",
   "dezisionismus"
- ],
- ["der","Du","",null,null,"ref",639,"Du","der"],
- ["der","Ich-Du-Verhältnis","",null,null,"ref",1336,"Ich-Du-Verhältnis","der"],
- ["der","Und","",null,null,"ref",3287,"Und","der"],
- ["der","Verständigung","",null,null,"ref",3437,"Verständigung","der"],
- ["der","Wir","",null,null,"ref",3625,"Wir","der"],
- ["der","Zwischen","",null,null,"ref",3727,"Zwischen","der"],
- ["der","Dialog","",null,null,"ref",585,"Dialog, dialogisch","der"],
- ["der","Ich-Du-Verhältnis","",null,null,"ref",1336,"Ich-Du-Verhältnis","der"],
- ["der","Mitmensch","",null,null,"ref",1982,"Mitmensch","der"],
- ["der","Wir","",null,null,"ref",3625,"Wir","der"],
- [
-  "der 4 936 Elektrizität","Kreis; Kugel","","4","1225","ref",1687,"Kreis und Kugel",
-  "der 4 936 elektrizitat"
- ],
- [
-  "Desappropriatio Entselbstung der Person","Desappropriatio Entselbstung der Person","",null,null,
-  "main",null,null,"desappropriatio entselbstung der person"
- ],
- [
-  "des Seins (Heidegger) Ereignis","Kausalgesetz","","4","791ff.","ref",1550,"Kausalgesetz",
-  "des seins (heidegger) ereignis"
- ],
- [
-  "des Seins (Heidegger) Ereignis","Monade; Monas","III","6","124","ref",2010,"Monade, Monas",
-  "des seins (heidegger) ereignis"
- ],
- [
-  "des Seins (Heidegger) Ereignis","Objekt","","6","1050","ref",2183,"Objekt",
-  "des seins (heidegger) ereignis"
- ],
- [
-  "des Seins (Heidegger) Ereignis","Widerfahrnis","","12","680","ref",3604,"Widerfahrnis",
-  "des seins (heidegger) ereignis"
- ],
- [
-  "des Seins (Heidegger) Ereignis","Zweideutigkeit; Vieldeutigkeit","III","12","1519","ref",3721,
-  "Zweideutigkeit; Vieldeutigkeit","des seins (heidegger) ereignis"
- ],
- [
-  "des Seins (Heidegger) Ereignis","Zwischen","","12","1547","ref",3727,"Zwischen",
-  "des seins (heidegger) ereignis"
  ],
  ["des Urteils","Qualität des Urteils","",null,null,"ref",2545,"Qualität des Urteils","des urteils"],
  [
@@ -1176,29 +1171,6 @@ HWPH.put("r/64-65",
   "Synkategorem;synkategorematisch;synsemantisch","des urteils"
  ],
  ["des Urteils","Urteil","III (Formen)",null,null,"ref",3355,"Urteil","des urteils"],
- ["der","Fremderfahrung","(Husserl)",null,null,"ref",949,"Fremderfahrung","der"],
- ["der","Intersubjektivität","(Husserl)",null,null,"ref",1484,"Intersubjektivität","der"],
- [
-  "der 4 938 Ganztod","Unsterblichkeit","IV","11","290","ref",3323,"Unsterblichkeit",
-  "der 4 938 ganztod"
- ],
- ["der 4 938","Gefühl","","3","82–96","ref",1009,"Gefühl","der 4 938"],
- ["der 4 938","Affekt","",null,null,"see",53,"Affekt","der 4 938"],
- ["der 4 938","Empfindsamkeit","",null,null,"see",722,"Empfindsamkeit","der 4 938"],
- ["der 4 938","Empfindung","",null,null,"see",723,"Empfindung","der 4 938"],
- ["der 4 938","Gemüt","",null,null,"see",1054,"Gemüt","der 4 938"],
- ["der 4 938","Gemütsbewegung","",null,null,"see",1055,"Gemütsbewegung","der 4 938"],
- ["der 4 938","Logik des Gefühls","",null,null,"see",1807,"Logik des Gefühls","der 4 938"],
- ["der 4 938","Lust; Freude","",null,null,"see",1837,"Lust, Freude","der 4 938"],
- ["der 4 938","Sentiment","",null,null,"see",2870,"Sentiment","der 4 938"],
- [
-  "der 4 937 Gefühlsausdruck","Ausdruck","III (psych.)",null,null,"ref",298,"Ausdruck",
-  "der 4 937 gefuhlsausdruck"
- ],
- [
-  "des Geistes/des Lebens (Dilthey) 6 1056 Geist, objektivierter","Geist","IX","3","201","ref",1030,
-  "Geist","des geistes/des lebens (dilthey) 6 1056 geist, objektivierter"
- ],
  [
   "des Geistes/des Lebens (Dilthey)","Erinnerung","","2","639","ref",794,"Erinnerung",
   "des geistes/des lebens (dilthey)"
@@ -1215,292 +1187,32 @@ HWPH.put("r/64-65",
   "des Geistes/des Lebens (Dilthey)","Philologie","","7","566","ref",2352,"Philologie",
   "des geistes/des lebens (dilthey)"
  ],
- ["des Urteils 6 13","Generalisation","","3","269","ref",1060,"Generalisation","des urteils 6 13"],
- [
-  "des Urteils 6 13","Reaktion, bedingte","",null,null,"see",2582,"Reaktion, bedingte",
-  "des urteils 6 13"
- ],
- [
-  "des Urteils 6 13","Reiz und Reaktion","",null,null,"see",2662,"Reiz und Reaktion",
-  "des urteils 6 13"
- ],
- [
-  "des Geistes/des Lebens (Dilthey) 6 1055 geschichtliche Vernunft","Vernunft, historische","",null,
-  null,"ref",3424,"Vernunft, historische",
-  "des geistes/des lebens (dilthey) 6 1055 geschichtliche vernunft"
- ],
- ["der 4 937f.","Psychologie","","7","1632","ref",2511,"Psychologie","der 4 937f."],
- [
-  "der 4 938 Gestaltungstheorie","Gewohnheitsrecht","","3","619","ref",1133,"Gewohnheitsrecht",
-  "der 4 938 gestaltungstheorie"
- ],
- [
-  "der 1 296 Ich, empirisches/transzendentales","Ich","I","4","2ff.","ref",1334,"Ich",
-  "der 1 296 ich, empirisches/transzendentales"
- ],
- ["der","Dialog","",null,null,"ref",585,"Dialog, dialogisch","der"],
- ["der","Du","",null,null,"ref",639,"Du","der"],
- ["der","Fremdich","",null,null,"ref",950,"Fremdich","der"],
- ["der","Kommunikation","",null,null,"ref",1591,"Kommunikation","der"],
- ["der","Korrelation","I",null,null,"ref",1670,"Korrelation","der"],
- ["Denken","Denken","I","2","61","main",552,"Denken","denken"],
- ["Denken","Verstehen","","11","921","ref",3438,"Verstehen","denken"],
- ["der 4 936","Neid","","6","704","ref",2105,"Neid","der 4 936"],
- ["der 4 935–939 s. auch","Anmutung","",null,null,"ref",153,"Anmutung","der 4 935–939 s. auch"],
- [
-  "der 4 935–939 s. auch","Gestaltqualität","",null,null,"ref",1120,"Gestaltqualität",
-  "der 4 935–939 s. auch"
- ],
- [
-  "der 4 935–939 s. auch","Minderwertigkeitsgefühl","",null,null,"ref",1976,
-  "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","der 4 935–939 s. auch"
- ],
- [
-  "der 4 935–939 s. auch","Ödipus-Komplex","",null,null,"ref",2202,"Ödipus-Komplex",
-  "der 4 935–939 s. auch"
- ],
- ["der 4 937f. Kompositum","Aggregat","","1","102","ref",59,"Aggregat","der 4 937f. kompositum"],
- [
-  "der Konstellation (psych.)","Gedächtnis","","3","38","ref",996,"Gedächtnis",
-  "der konstellation (psych.)"
- ],
- [
-  "der Sprache 6 1369 Kunst s. auch","Register der Sachgruppen: Ästhetik und Kunsttheorie","",null,
-  null,"ref",null,null,"der sprache 6 1369 kunst s. auch"
- ],
- ["des Seins (Heidegger)","Liebe","","5","290–328","ref",1794,"Lichtung","des seins (heidegger)"],
- [
-  "des Seins (Heidegger)","Freundschaft","",null,null,"see",954,"Freundschaft",
-  "des seins (heidegger)"
- ],
- [
-  "des Seins (Heidegger)","Nächstenliebe","",null,null,"see",2060,"Nächstenliebe",
-  "des seins (heidegger)"
- ],
- [
-  "des Seins (Heidegger)","Selbstliebe","",null,null,"see",2840,"Selbstliebe",
-  "des seins (heidegger)"
- ],
- ["der","Überkompensation","(Adler)",null,null,"ref",3259,"Überkompensation","der"],
- ["der","Du","",null,null,"ref",639,"Du","der"],
- ["der","Ich-Du-Verhältnis","",null,null,"ref",1336,"Ich-Du-Verhältnis","der"],
- ["der","Korrelation","I",null,null,"ref",1670,"Korrelation","der"],
- ["der","Nächstenliebe","",null,null,"ref",2060,"Nächstenliebe","der"],
- ["der","Wir","",null,null,"ref",3625,"Wir","der"],
- [
-  "des Urteils 6 12–16 s. auch","Modallogik","",null,null,"ref",1997,"Modallogik",
-  "des urteils 6 12–16 s. auch"
- ],
- [
-  "des Urteils 6 12–16 s. auch","Urteil","III (Formen)",null,null,"ref",3355,"Urteil",
-  "des urteils 6 12–16 s. auch"
- ],
  ["des Urteils","Welt, mögliche","",null,null,"ref",3558,"Welt, mögliche","des urteils"],
  ["des Urteils","Zeitlogik","",null,null,"ref",3679,"Zeitlogik","des urteils"],
- ["des Urteils 6 12","Zeit","V","12","1228","ref",3676,"Zeit","des urteils 6 12"],
- [
-  "des Urteils 6 13 modus intelligendi","Modus significandi","","6","69","ref",2004,
-  "Modus significandi","des urteils 6 13 modus intelligendi"
- ],
- ["der 4 936","Mutterrecht","","6","261–263","ref",2046,"Mutterrecht","der 4 936"],
- ["der 4 938","Nivellierung","","6","867–869","ref",2143,"Nivellierung","der 4 938"],
- ["Designatum","Designatum","(Carnap)","2","130","main",568,"Designatum","designatum"],
- [
-  "des Geistes/des Lebens (Dilthey) 6 1055f. s. auch","Geisteswissenschaften","",null,null,"ref",
-  1036,"Geisteswissenschaften","des geistes/des lebens (dilthey) 6 1055f. s. auch"
- ],
- [
-  "des Geistes/des Lebens (Dilthey) 6 1056 objektiver Idealismus","Begriffsrealismus","",null,null,
-  "ref",371,"Begriffsrealismus","des geistes/des lebens (dilthey) 6 1056 objektiver idealismus"
- ],
- [
-  "des Geistes/des Lebens (Dilthey) 6 1056 objektiver Idealismus","Idealismus, objektiver",
-  "(Schelling)",null,null,"ref",1352,"Idealismus, objektiver",
-  "des geistes/des lebens (dilthey) 6 1056 objektiver idealismus"
- ],
- [
-  "Despotie I (allg.)","Despotie I (allg.)","","2","142","main",571,"Despotie, Despotismus",
-  "despotie i (allg.)"
- ],
- ["der","Psychoanalyse","",null,null,"ref",2506,"Psychoanalyse","der"],
- ["der","Sexualität","II",null,null,"ref",2878,"Sexualität","der"],
- [
-  "Definition, operationale","Definition, operationale","(Bridgman)",null,null,"main",538,
-  "Definition, operationale","definition, operationale"
- ],
- [
-  "der Sprache 6 1368f","Organprimitivismen","(Gehlen)","6","1369–1371","ref",2247,"Organonmodell",
-  "der sprache 6 1368f"
- ],
- [
-  "des Seins (Heidegger) osnova","Macht","IV (marx.)","5","624","ref",1844,"Macht",
-  "des seins (heidegger) osnova"
- ],
+ ["Despotie","Despotie","I (allg.)","2","142","main",571,"Despotie, Despotismus","despotie"],
  ["des Urteils","Urteil","III (Formen)",null,null,"ref",3355,"Urteil","des urteils"],
  ["des Urteils","Urteil, vorläufiges","",null,null,"ref",3358,"Urteil, vorläufiges","des urteils"],
  ["des Urteils","Satz","III 2","8","1193","ref",2745,"Satz","des urteils"],
- [
-  "des Bewusstseins (Dilthey) Psychologie, beschreibende und zergliedernde","Beschreibung","II","1",
-  "844","ref",395,"Beschreibung",
-  "des bewusstseins (dilthey) psychologie, beschreibende und zergliedernde"
- ],
- [
-  "des Bewusstseins (Dilthey) Psychologie, beschreibende und zergliedernde","Erklären I (Dilthey)",
-  "","2","692","ref",801,"Erklären, Erklärung",
-  "des bewusstseins (dilthey) psychologie, beschreibende und zergliedernde"
- ],
- [
-  "des Bewusstseins (Dilthey) Psychologie, beschreibende und zergliedernde","Erleben; Erlebnis","",
-  "2","707","ref",804,"Erleben, Erlebnis",
-  "des bewusstseins (dilthey) psychologie, beschreibende und zergliedernde"
- ],
- [
-  "Despotie I (allg.)","Despotie I (allg.)","","2","140","main",571,"Despotie, Despotismus",
-  "despotie i (allg.)"
- ],
- [
-  "des Seins (Heidegger) Sein, unbedingtes","Dasein","","2","18","ref",527,"Dasein",
-  "des seins (heidegger) sein, unbedingtes"
- ],
- [
-  "des Seins (Heidegger)","Fundamentalontologie","(Heidegger)","2","1134","ref",967,
-  "Fundamentalontologie","des seins (heidegger)"
- ],
- [
-  "des Seins (Heidegger) Seinsverständnis, nivelliertes","Naiv; Naivität","","6","361","ref",2063,
-  "Naiv, Naivität","des seins (heidegger) seinsverstandnis, nivelliertes"
- ],
- [
-  "der 1 296 Selbst, eigentliches","Subjekt, transzendentales","","10","400","ref",3048,
-  "Subjekt, transzendentales","der 1 296 selbst, eigentliches"
- ],
- [
-  "der Befreiung 10 1097 Sozialismus, wissenschaftlicher","Dialektik","IV",null,null,"ref",583,
-  "Dialektik","der befreiung 10 1097 sozialismus, wissenschaftlicher"
- ],
- [
-  "der Befreiung 10 1097 Sozialismus, wissenschaftlicher","Marxismus","II","5","768","ref",1871,
-  "Marxismus","der befreiung 10 1097 sozialismus, wissenschaftlicher"
- ],
- [
-  "der Befreiung 10 1097 Sozialismus, wissenschaftlicher","Sozialismus","2","9","1174f.","ref",2947,
-  "Sozialismus","der befreiung 10 1097 sozialismus, wissenschaftlicher"
- ],
+ ["der","der","(Kant)","2","617","main",787,"Erfahrung, Analogien der","der"],
+ ["der","Kategorie; Kategorienlehre","IV","4","728","ref",1540,"Kategorie, Kategorienlehre","der"],
+ ["der","Konstruktion","II","4","1011ff.","ref",1631,"Konstruktion","der"],
+ ["der","Logik, transzendentale","","5","467","ref",1819,"Logik, transzendentale","der"],
+ ["der","Produktion","I (nat.)","7","1421f.","ref",2469,"Produktion, Produktivität","der"],
+ ["der","Regel","III (log.)","8","445","ref",2640,"Regel","der"],
+ ["der","Symbol","II","10","724","ref",3093,"Symbol","der"],
+ ["der","Transzendental","VI","10","1389","ref",3219,"Transzendental","der"],
+ ["der","Zahl","III","12","1135","ref",3670,"Zahl; Zählen","der"],
  ["der Sprache","Sprache, phänomenale","","9","1506","ref",2989,"Sprache, phänomenale","der sprache"],
  ["der Sprache","Protokollsprache","(Carnap)",null,null,"see",2491,"Protokollsprache","der sprache"],
- [
-  "des Bewusstseins (Dilthey) 10 95f. s. auch","Bewusstseinsstellung (Dilthey)","",null,null,"ref",
-  419,"Bewußtseinsstellung","des bewusstseins (dilthey) 10 95f. s. auch"
- ],
- [
-  "des Bewusstseins (Dilthey) 10 95f. s. auch","Psychologie, beschreibende und zergliedernde","",
-  null,null,"ref",2512,"Psychologie, beschreibende und zergliedernde",
-  "des bewusstseins (dilthey) 10 95f. s. auch"
- ],
- [
-  "des Bewusstseins (Dilthey) 10 95 status innocentiae","Urstand","",null,null,"ref",3353,"Urstand",
-  "des bewusstseins (dilthey) 10 95 status innocentiae"
- ],
- ["Denken","Denken","I","2","88ff.","main",552,"Denken","denken"],
- ["Denken","Entscheidung","","2","542","ref",754,"Entscheidung","denken"],
- ["Denken","Ernst","","2","722f.","ref",811,"Ernst","denken"],
- ["Denken","Geschmack","III","3","453","ref",1097,"Geschmack","denken"],
- ["Denken","Protestantismus","","7","1531","ref",2489,"Protestantismus","denken"],
- ["Denken","Repräsentation","V","8","849","ref",2686,"Repräsentation","denken"],
- ["Denken","Wahrheit","V B","12","95","ref",3523,"Wahrheit","denken"],
- ["der Befreiung","Term","","10","1004","ref",3150,"Term","der befreiung"],
- ["der Befreiung","Formales System","",null,null,"see",928,"Formales System","der befreiung"],
- ["der Befreiung","Variable","",null,null,"see",3373,"Variable","der befreiung"],
- [
-  "der Befreiung 10 1095–1098 Theologie der Entwicklung","Theologie","",null,null,"ref",3169,
-  "Theologie","der befreiung 10 1095–1098 theologie der entwicklung"
- ],
- [
-  "der Befreiung 10 1096 Theologie der Geschichte","Geschichtstheologie","",null,null,"ref",1094,
-  "Geschichtstheologie","der befreiung 10 1096 theologie der geschichte"
- ],
- [
-  "der Befreiung Theologie der Versöhnung","Theologie","",null,null,"ref",3169,"Theologie",
-  "der befreiung theologie der versohnung"
- ],
- [
-  "der Befreiung 10 1097 Theologie des Wortes Gottes","Theologie","",null,null,"ref",3169,
-  "Theologie","der befreiung 10 1097 theologie des wortes gottes"
- ],
- [
-  "des Seins (Heidegger) 10 1291f. s. auch","Ereignis","",null,null,"ref",785,"Ereignis",
-  "des seins (heidegger) 10 1291f. s. auch"
- ],
- [
-  "des Seins (Heidegger) 10 1291f. s. auch","Lichtung","(Heidegger)",null,null,"ref",1794,"Lichtung",
-  "des seins (heidegger) 10 1291f. s. auch"
- ],
- [
-  "des Seins (Heidegger) 10 1291f. s. auch","Wohnen","",null,null,"ref",3654,"Wohnen",
-  "des seins (heidegger) 10 1291f. s. auch"
- ],
- [
-  "des Urteils 6 12 Tropos","Tropen; Tropos","",null,null,"ref",3233,"Tropen; Tropos",
-  "des urteils 6 12 tropos"
- ],
- [
-  "des Urteils 6 12 Tropos","Figur","I (rhet.)","2","948","ref",916,"Figur",
-  "des urteils 6 12 tropos"
- ],
- ["Determination","Determination","(Hartmann)",null,null,"main",573,"Determination","determination"],
  ["des Urteils","Qualität des Urteils","",null,null,"ref",2545,"Qualität des Urteils","des urteils"],
  [
   "des Urteils","Quantität des Urteils","",null,null,"ref",2553,"Quantität des Urteils",
   "des urteils"
  ],
  ["des Urteils","Relation des Urteils","",null,null,"ref",2669,"Relation des Urteils","des urteils"],
- [
-  "des Urteils 6 14 Urteil, assertorisches","Urteil","III (Formen)",null,null,"ref",3355,"Urteil",
-  "des urteils 6 14 urteil, assertorisches"
- ],
- [
-  "des Urteils 6 14 Urteil, assertorisches","Modalität","",null,null,"ref",1995,"Modalität",
-  "des urteils 6 14 urteil, assertorisches"
- ],
- ["des Urteils 6 14","Satz","III 2","8","1193","ref",2745,"Satz","des urteils 6 14"],
- ["des Urteils 6 14","Urteil","II 2","11","443","ref",3355,"Urteil","des urteils 6 14"],
  ["des","Urteils","",null,null,"ref",3355,"Urteil","des"],
  ["des","Singulär","",null,null,"ref",2887,"Singulär","des"],
  ["des","Urteil","III (Formen)",null,null,"ref",3355,"Urteil","des"],
- ["des Urteils 6 14","Satz","III 2","8","1193","ref",2745,"Satz","des urteils 6 14"],
- [
-  "der Befreiung 10 1097","Tragische, das","","10","1339f.","ref",3214,"Tragische, das",
-  "der befreiung 10 1097"
- ],
- [
-  "der Befreiung 10 1097","Vermittlung","","11","724","ref",3417,"Vermittlung",
-  "der befreiung 10 1097"
- ],
- [
-  "Desiderium naturale","Desiderium naturale","","2","129","main",566,"Desiderium naturale",
-  "desiderium naturale"
- ],
- ["der 4 936","Konstellation","","4","990","ref",1623,"Konstellation","der 4 936"],
- ["der 4 936","Vorstellungsreihe","","11","1247f.","ref",3505,"Vorstellungsreihe","der 4 936"],
- [
-  "des Seins (Heidegger)","Seinsgeschichte","(Heidegger)","9","259f.","ref",2812,"Seinsgeschichte",
-  "des seins (heidegger)"
- ],
- ["der","Du","",null,null,"ref",639,"Du","der"],
- ["der","Gruppe, soziale","",null,null,"ref",1199,"Gruppe, soziale","der"],
- ["der","Ich-Du-Verhältnis","",null,null,"ref",1336,"Ich-Du-Verhältnis","der"],
- ["der","Mitmensch","",null,null,"ref",1982,"Mitmensch","der"],
- ["der","Personalismus","II",null,null,"ref",2320,"Personalismus","der"],
- ["der","Verständigung","",null,null,"ref",3437,"Verständigung","der"],
- [
-  "des Seins (Heidegger) Wolkenkuckucksheim","Vernunft; Verstand","VII B (Schopenhauer)","11","835",
-  "ref",3423,"Vernunft; Verstand","des seins (heidegger) wolkenkuckucksheim"
- ],
- [
-  "der 4 937 Zeitigung","Passivität; passive Synthesis","","7","167","ref",2288,
-  "Passivität, passive Synthesis","der 4 937 zeitigung"
- ],
- ["der 4 937 Zeitigung","Zeit","VI","12","1238","ref",3676,"Zeit","der 4 937 zeitigung"],
  [
   "Debus Jürgen","Beziehungssoziologie","","1","910","author",428,"Beziehungssoziologie",
   "debus jurgen"
@@ -1509,7 +1221,7 @@ HWPH.put("r/64-65",
   "Debus Jürgen","Bildungswissen","(Scheler)","1","938f.","author",437,"Bildungswissen",
   "debus jurgen"
  ],
- ["Debus Jürgen","Dialektik","IV",null,null,"author",583,"Dialektik","debus jurgen"],
+ ["Debus Jürgen","Dialektik","IV 1. 6","2","194–196","author",583,"Dialektik","debus jurgen"],
  ["Debus Jürgen","Direkte Aktion","","2","255f.","author",606,"Direkte Aktion","debus jurgen"],
  ["Debus Jürgen","Lebensraum","II","5","145–147","author",1753,"Lebensraum","debus jurgen"],
  ["Debus Jürgen","Wachstum","II","12","8–11","author",3513,"Wachstum","debus jurgen"],
@@ -1590,7 +1302,7 @@ HWPH.put("r/64-65",
  ["Derbolav Josef","Poiesis","I","7","1024f.","author",2390,"Poiesis","derbolav josef"],
  ["Detel Wolfgang","Materie","I","5","870–880","author",1892,"Materie","detel wolfgang"],
  [
-  "Deuser Hermann","Phaneroskopie (Peirce)","","7","460f.","author",2339,"Phaneroskopie, Phaneron",
+  "Deuser Hermann","Phaneroskopie","(Peirce)","7","460f.","author",2339,"Phaneroskopie, Phaneron",
   "deuser hermann"
  ],
  [

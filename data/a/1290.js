@@ -25,6 +25,7 @@ HWPH.put("a/1290",
  "backlinks":[{"id":3389,"lemma":"Verdammung; Verwerfung","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"Höllenstrafen","qualifier":"","band":"3","col":"1168f."},
   {"term":"Jenseits","qualifier":"","band":null,"col":null},
   {"term":"resignatio ad infernum","qualifier":"","band":"3","col":"1169"}

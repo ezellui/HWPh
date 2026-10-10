@@ -24,9 +24,9 @@ HWPH.put("a/1016",
  ],
  "outlinks":[],
  "register":[
-  {"term":"II-III Zweiweltenlehre","qualifier":"","band":"3","col":"102"},
   {"term":"Innenwelt/Aussenwelt","qualifier":"","band":"3","col":"102"},
-  {"term":"innerseelisch/ausserseelisch","qualifier":"","band":"3","col":"102"}
+  {"term":"innerseelisch/ausserseelisch","qualifier":"","band":"3","col":"102"},
+  {"term":"Zweiweltenlehre","qualifier":"","band":"3","col":"102"}
  ],
  "persons":[
   {"id":986,"name":"J. Rehmke","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},

@@ -24,8 +24,8 @@ HWPH.put("a/3158",
  "backlinks":[],
  "outlinks":[{"id":1310,"lemma":"Horizont","n":1},{"id":2745,"lemma":"Satz","n":1}],
  "register":[
-  {"term":"- 1050 s. auch","qualifier":"","band":null,"col":null},
   {"term":"contextus","qualifier":"","band":"10","col":"1041"},
+  {"term":"Haltung","qualifier":"","band":"10","col":"1042"},
   {"term":"Hypertext","qualifier":"","band":"10","col":"1043"},
   {"term":"Intertextualität","qualifier":"","band":"10","col":"1043"},
   {"term":"Kohäsion (ling.)","qualifier":"","band":"10","col":"1040"},
@@ -34,8 +34,7 @@ HWPH.put("a/3158",
   {"term":"Rede","qualifier":"","band":"10","col":"1039f."},
   {"term":"Textem","qualifier":"","band":"10","col":"1042"},
   {"term":"Textkritik","qualifier":"","band":"10","col":"1040"},
-  {"term":"λόγος","qualifier":"","band":"10","col":"1038f."},
-  {"term":"– II (psych./soz.) 9 929–937 Situation","qualifier":"","band":"10","col":"1042"}
+  {"term":"λόγος","qualifier":"","band":"10","col":"1038f."}
  ],
  "persons":[
   {"id":1918,"name":"M. Scherner","b":0,"n":7,"l":1,"editor":0,"role":"scholar"},

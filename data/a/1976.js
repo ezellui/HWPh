@@ -18,11 +18,14 @@ HWPH.put("a/1976",
  "backlinks":[{"id":3259,"lemma":"Überkompensation","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"der 4 935–939 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Entmutigung","qualifier":"","band":"5","col":"1399"},
+  {"term":"inferiority complex","qualifier":"","band":null,"col":null},
+  {"term":"Insuffizienzgefühl","qualifier":"","band":null,"col":null},
+  {"term":"Minderwertigkeitskomplex","qualifier":"","band":null,"col":null},
   {"term":"Organminderwertigkeit","qualifier":"","band":null,"col":null},
   {"term":"Reizbarkeit","qualifier":"","band":"5","col":"1400"},
   {"term":"Selbstwertgefühl","qualifier":"","band":null,"col":null},
+  {"term":"sentiment d'infériorité","qualifier":"","band":null,"col":null},
   {"term":"Unzulänglichkeit","qualifier":"","band":"5","col":"1400"}
  ],
  "persons":[
@@ -61,6 +64,6 @@ HWPH.put("a/1976",
  ],
  "see_also":[],
  "groups":[{"id":36,"name":"Psychologie","label":"Minderwertigkeitsgefühl"}],
- "reg_authors":[{"name":"Boulnois Olivier","n":12},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Boulnois Olivier","n":12},{"name":"Red","n":241}]
 }
 );

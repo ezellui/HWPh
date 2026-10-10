@@ -21,7 +21,7 @@ HWPH.put("a/2104",
   {"id":3355,"lemma":"Urteil","n":1}
  ],
  "outlinks":[],
- "register":[{"term":"– I (log.) 6 666–670 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":955,"name":"A. Menne","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":4256,"name":"J. Dopp","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
@@ -34,6 +34,6 @@ HWPH.put("a/2104",
  "mentions":[{"id":2745,"lemma":"Satz","tf":3},{"id":309,"lemma":"Aussage","tf":2}],
  "see_also":[{"id":2100,"lemma":"Negation"}],
  "groups":[{"id":22,"name":"Logik","label":"Negator"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

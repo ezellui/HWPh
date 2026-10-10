@@ -18,9 +18,8 @@ HWPH.put("a/1444",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"(Husserl) 3 1201","qualifier":"","band":"4","col":"385f."},
-  {"term":"(Husserl) 3 1201 Aussensteuerung","qualifier":"","band":null,"col":null},
-  {"term":"inneres innerdirectedness","qualifier":"","band":null,"col":null},
+  {"term":"Aussensteuerung","qualifier":"","band":null,"col":null},
+  {"term":"innerdirectedness","qualifier":"","band":null,"col":null},
   {"term":"other-directedness","qualifier":"","band":null,"col":null},
   {"term":"Verhalten, konformes/abweichendes","qualifier":"","band":"4","col":"385"}
  ],
@@ -49,7 +48,7 @@ HWPH.put("a/1444",
   {"id":15263,"name":"E. Boettcher","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":1099,"lemma":"Gesellschaft","tf":2}],
- "see_also":[],
+ "see_also":[{"id":2946,"lemma":"Sozialisation"}],
  "groups":[{"id":42,"name":"Soziologie","label":"Innensteuerung/Aussensteuerung"}],
  "reg_authors":[{"name":"Osswald Klaus-Dieter","n":4}]
 }

@@ -38,7 +38,6 @@ HWPH.put("a/2847",
   {"term":"Existenz","qualifier":"","band":"9","col":"521f."},
   {"term":"Freiheit von sich/zu sich","qualifier":"","band":"9","col":"525"},
   {"term":"Gegenwart","qualifier":"","band":"9","col":"525"},
-  {"term":"Ich-Identität","qualifier":"","band":null,"col":null},
   {"term":"ipséité","qualifier":"","band":"9","col":"523"},
   {"term":"Kommunikation","qualifier":"","band":"9","col":"523"},
   {"term":"lézarde","qualifier":"","band":"9","col":"524"},
@@ -50,6 +49,7 @@ HWPH.put("a/2847",
   {"term":"Selbstwerden","qualifier":"","band":null,"col":null},
   {"term":"Selbstwohl","qualifier":"","band":"9","col":"521f."},
   {"term":"Verhalten zu sich selbst","qualifier":"","band":null,"col":null},
+  {"term":"werde der du bist","qualifier":"","band":"9","col":"520"},
   {"term":"Wir","qualifier":"","band":"9","col":"520"},
   {"term":"Wirheit","qualifier":"","band":"9","col":"525"}
  ],
@@ -132,7 +132,15 @@ HWPH.put("a/2847",
   {"id":3352,"lemma":"Ursprung","tf":4},
   {"id":1795,"lemma":"Liebe","tf":3}
  ],
- "see_also":[{"id":1366,"lemma":"Identität"}],
+ "see_also":[
+  {"id":1366,"lemma":"Identität"},
+  {"id":2320,"lemma":"Personalismus"},
+  {"id":2820,"lemma":"Selbst"},
+  {"id":2829,"lemma":"Selbstbildung"},
+  {"id":2834,"lemma":"Selbstflucht"},
+  {"id":2854,"lemma":"Selbstverwirklichung, Selbstaktualisierung"},
+  {"id":3459,"lemma":"Verzweiflung"}
+ ],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Selbstsein"}],
  "reg_authors":[{"name":"Hügli Anton","n":34}]
 }

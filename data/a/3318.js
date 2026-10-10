@@ -27,12 +27,14 @@ HWPH.put("a/3318",
  ],
  "outlinks":[{"id":1659,"lemma":"Kopenhagener Deutung","n":1}],
  "register":[
+  {"term":"Grössen, komplementäre","qualifier":"","band":null,"col":null},
   {"term":"Indeterminismus","qualifier":"","band":null,"col":null},
+  {"term":"Lage","qualifier":"","band":null,"col":null},
   {"term":"Parameter, verborgene","qualifier":"","band":null,"col":null},
   {"term":"Realismusproblem","qualifier":"","band":"11","col":"263"},
   {"term":"Unbestimmtheitsrelation","qualifier":"","band":null,"col":null},
-  {"term":"Unsicherheitsrelation","qualifier":"","band":null,"col":null},
-  {"term":"– II (phys.) 2 155–157 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"uncertainty principle","qualifier":"","band":null,"col":null},
+  {"term":"Unsicherheitsrelation","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":10101,"name":"K. Neuser","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},

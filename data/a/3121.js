@@ -17,7 +17,10 @@ HWPH.put("a/3121",
  "next":{"id":3122,"lemma":"Taiping","band":"10","col":881},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Surrationalismus","qualifier":"(Fechner)","band":"10","col":"881"}],
+ "register":[
+  {"term":"Nachtansicht","qualifier":"(Fechner)","band":null,"col":null},
+  {"term":"Surrationalismus","qualifier":"(Fechner)","band":"10","col":"881"}
+ ],
  "persons":[
   {"id":174,"name":"G. Th. Fechner","b":2,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":1549,"name":"G. H. Schubert","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},

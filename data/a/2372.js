@@ -17,7 +17,10 @@ HWPH.put("a/2372",
  "next":{"id":2373,"lemma":"Physiologie","band":"7","col":964},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"T tableau économique","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Physiokratismus","qualifier":"","band":null,"col":null},
+  {"term":"T tableau économique","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":1203,"name":"F. Quesnay","b":3,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":4765,"name":"P.-S. Dupont de Nemours","b":2,"n":0,"l":1,"editor":0,"role":"mixed"},

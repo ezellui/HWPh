@@ -35,9 +35,15 @@ HWPH.put("a/3277",
   {"term":"heuristische Methode","qualifier":"","band":"11","col":"98"},
   {"term":"Methode, heuristische","qualifier":"","band":"11","col":"98"},
   {"term":"Paradigmenwechsel","qualifier":"","band":"11","col":"98"},
+  {"term":"Problemlösung","qualifier":"","band":null,"col":null},
+  {"term":"recentering","qualifier":"","band":null,"col":null},
+  {"term":"reorganization","qualifier":"","band":null,"col":null},
+  {"term":"restruction","qualifier":"","band":null,"col":null},
   {"term":"Strukturblindheit","qualifier":"","band":"11","col":"98"},
   {"term":"switch","qualifier":"","band":"11","col":"98"},
-  {"term":"transformation of vision","qualifier":"","band":"11","col":"98"}
+  {"term":"transformation of vision","qualifier":"","band":"11","col":"98"},
+  {"term":"Umzentrierung","qualifier":"","band":null,"col":null},
+  {"term":"Zentrierung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":684,"name":"M. Wertheimer","b":3,"n":4,"l":0,"editor":0,"role":"source"},
@@ -55,6 +61,6 @@ HWPH.put("a/3277",
  "mentions":[{"id":2904,"lemma":"Situation","tf":3},{"id":3639,"lemma":"Wissenschaften, schöne","tf":2}],
  "see_also":[],
  "groups":[{"id":36,"name":"Psychologie","label":"Umstrukturierung"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

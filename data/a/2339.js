@@ -18,9 +18,10 @@ HWPH.put("a/2339",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"coenoscopic","qualifier":"","band":"7","col":"460"},
-  {"term":"idioscopic","qualifier":"","band":"7","col":"460"},
-  {"term":"Phänomenologie","qualifier":"","band":"7","col":"461"}
+  {"term":"coenoscopic","qualifier":"(Peirce)","band":"7","col":"460"},
+  {"term":"idioscopic","qualifier":"(Peirce)","band":"7","col":"460"},
+  {"term":"Phaneron","qualifier":"(Peirce)","band":null,"col":null},
+  {"term":"Phänomenologie","qualifier":"(Peirce)","band":"7","col":"461"}
  ],
  "persons":[
   {"id":96,"name":"Ch. S. Peirce","b":1,"n":3,"l":0,"editor":0,"role":"source"},

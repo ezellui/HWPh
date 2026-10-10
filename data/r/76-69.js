@@ -1,14 +1,5 @@
 HWPH.put("r/76-69",
 [
- ["VII-VIII","Gott","",null,null,"ref",1162,"Gott","vii-viii"],
- ["VII-VIII","Unbedingte das","",null,null,"ref",3280,"Unbedingte, das","vii-viii"],
- ["VII-VIII","Voraussetzungslosigkeit","",null,null,"ref",3488,"Voraussetzungslosigkeit","vii-viii"],
- ["Virtualität","Virtualität","II","11","1067","main",3467,"Virtualität","virtualitat"],
- [
-  "Vinculum substantiale","Vinculum substantiale","(Leibniz)","11","1061","main",3466,
-  "Vinculum substantiale","vinculum substantiale"
- ],
- ["Visio","Visio","",null,null,"main",3468,"Visio","visio"],
  ["via","Weg","",null,null,"ref",3551,"Weg","via"],
  [
   "via antiqua/via moderna","Antiqui/moderni (via antiqua/via moderna)","",null,null,"ref",188,
@@ -19,27 +10,37 @@ HWPH.put("r/76-69",
   "via antiqua/via moderna"
  ],
  [
-  "Via causalitatis/negationis/eminentiae","Via causalitatis/negationis/eminentiae","","11","1034",
-  "main",3460,"Via causalitatis; via negationis; via eminentiae",
+  "Via causalitatis/negationis/eminentiae","Via causalitatis/negationis/eminentiae","","11",
+  "1034- 1038","main",3460,"Via causalitatis; via negationis; via eminentiae",
   "via causalitatis/negationis/eminentiae"
+ ],
+ [
+  "Via causalitatis/negationis/eminentiae","Theologie, negative","",null,null,"see",3173,
+  "Theologie, negative","via causalitatis/negationis/eminentiae"
+ ],
+ [
+  "Via causalitatis/negationis/eminentiae","Verborgenheit Gottes","",null,null,"see",3384,
+  "Verborgenheit Gottes","via causalitatis/negationis/eminentiae"
  ],
  [
   "via demonstrativa","Heuristik","","3","1116","ref",1268,"Heuristik, heuristisch",
   "via demonstrativa"
  ],
  [
-  "via eminentiae","Via causalitatis/negationis/eminentiae via indicativa","",null,null,"ref",3460,
+  "via eminentiae","Via causalitatis/negationis/eminentiae","",null,null,"ref",3460,
   "Via causalitatis; via negationis; via eminentiae","via eminentiae"
  ],
+ ["via indicativa","Heuristik","","3","1116","ref",1268,"Heuristik, heuristisch","via indicativa"],
  ["via iudicii","Analyse/Synthese","","1","233","ref",126,"Analyse/Synthese","via iudicii"],
  [
   "via moderna","Antiqui/moderni (via antiqua/via moderna)","",null,null,"ref",188,
   "Antiqui/moderni (via antiqua/via moderna)","via moderna"
  ],
  [
-  "via negationis","Via causalitatis/negationis/eminentiae via procedendi","",null,null,"ref",3460,
+  "via negationis","Via causalitatis/negationis/eminentiae","",null,null,"ref",3460,
   "Via causalitatis; via negationis; via eminentiae","via negationis"
  ],
+ ["via procedendi","Methode","III 1","5","1308","ref",1955,"Methode","via procedendi"],
  [
   "via purgativa/illuminativa","Erleuchtung","","2","716","ref",807,"Erleuchtung",
   "via purgativa/illuminativa"
@@ -162,8 +163,12 @@ HWPH.put("r/76-69",
   "Einfachheit, einfach/zusammengesetzt","vinculum substantiale"
  ],
  [
-  "Vinculum substantiale","Monade; Monas vinculum substantiale (Suárez)","",null,null,"see",2010,
-  "Monade, Monas","vinculum substantiale"
+  "Vinculum substantiale","Monade; Monas","",null,null,"see",2010,"Monade, Monas",
+  "vinculum substantiale"
+ ],
+ [
+  "vinculum substantiale (Suárez)","Substanz","II","10","520","ref",3062,
+  "Substanz; Substanz/Akzidens","vinculum substantiale (suarez)"
  ],
  ["vinculum trinitatis","Trinität","I","10","1497","ref",3231,"Trinität","vinculum trinitatis"],
  ["vindicatio","Rache","",null,null,"ref",2561,"Rache","vindicatio"],
@@ -207,7 +212,7 @@ HWPH.put("r/76-69",
  ["virtus (Kraft)","Tinktur","","10","1225f.","ref",3196,"Tinktur","virtus (kraft)"],
  ["virtus agendi","Nisus","","6","858","ref",2141,"Nisus","virtus agendi"],
  [
-  "virtus catholica","Moral; Moralphilosophie II C","","6","154","ref",2022,
+  "virtus catholica","Moral; Moralphilosophie","II C","6","154","ref",2022,
   "Moral, moralisch, Moralphilosophie","virtus catholica"
  ],
  ["virtus civilis","Wahrhaftigkeit","I","12","43","ref",3522,"Wahrhaftigkeit","virtus civilis"],
@@ -220,7 +225,7 @@ HWPH.put("r/76-69",
  ],
  ["virtus innata","Religion","III","8","637f.","ref",2673,"Religion","virtus innata"],
  [
-  "virtus moralis","Moral; Moralphilosophie II C","","6","154","ref",2022,
+  "virtus moralis","Moral; Moralphilosophie","II C","6","154","ref",2022,
   "Moral, moralisch, Moralphilosophie","virtus moralis"
  ],
  ["virtus moralis","Religion","V B","8","646","ref",2673,"Religion","virtus moralis"],
@@ -422,7 +427,7 @@ HWPH.put("r/76-69",
   "vita activa/contemplativa"
  ],
  [
-  "Vita activa/contemplativa","Bios (Lebensform)","",null,null,"see",null,null,
+  "Vita activa/contemplativa","Bios","(Lebensform)",null,null,"see",null,null,
   "vita activa/contemplativa"
  ],
  [
@@ -478,7 +483,7 @@ HWPH.put("r/76-69",
  ],
  ["Vitalität/Geist","Seele","V","9","77","ref",2794,"Seele","vitalitat/geist"],
  [
-  "Vitalperson","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Vitalperson","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","vitalperson"
  ],
  ["Vitalseele","Seele","V","9","83","ref",2794,"Seele","vitalseele"],

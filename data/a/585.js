@@ -23,11 +23,14 @@ HWPH.put("a/585",
  "backlinks":[{"id":3437,"lemma":"Verständigung","n":1},{"id":3625,"lemma":"Wir","n":1}],
  "outlinks":[{"id":1806,"lemma":"Logik, dialogische","n":1}],
  "register":[
-  {"term":"Aufheben","qualifier":"","band":null,"col":null},
-  {"term":"der","qualifier":"","band":null,"col":null},
+  {"term":"Dialektik","qualifier":"","band":null,"col":null},
+  {"term":"dialogische Philosophie","qualifier":"","band":null,"col":null},
+  {"term":"Einzelne, der","qualifier":"","band":"2","col":"227f."},
   {"term":"Gespräch","qualifier":"","band":null,"col":null},
   {"term":"Icheinsamkeit","qualifier":"","band":"2","col":"228"},
   {"term":"Interperson","qualifier":"","band":"2","col":"227"},
+  {"term":"Monolog","qualifier":"","band":null,"col":null},
+  {"term":"Philosophie, dialogische","qualifier":"","band":null,"col":null},
   {"term":"Verwirklichung","qualifier":"","band":"2","col":"228"}
  ],
  "persons":[

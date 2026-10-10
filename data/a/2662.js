@@ -34,7 +34,7 @@ HWPH.put("a/2662",
  ],
  "outlinks":[{"id":2511,"lemma":"Psychologie","n":1}],
  "register":[
-  {"term":"/Potenz","qualifier":"","band":null,"col":null},
+  {"term":"Bedeutung/Potenz","qualifier":"","band":null,"col":null},
   {"term":"Behaviorismus","qualifier":"","band":"8","col":"561ff."},
   {"term":"Behaviorismus, molarer","qualifier":"","band":"8","col":"563"},
   {"term":"distal/proximal stimuli","qualifier":"","band":"8","col":"566"},
@@ -53,10 +53,7 @@ HWPH.put("a/2662",
   {"term":"stimulus","qualifier":"","band":null,"col":null},
   {"term":"trial and error","qualifier":"","band":"8","col":"562"},
   {"term":"Verhalten, operantes","qualifier":"","band":"8","col":"562"},
-  {"term":"Versuch und Irrtum","qualifier":"","band":"8","col":"562"},
-  {"term":"– I (erk.) 4 408–413 – II (biol.) 4 413–417 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (med.) 5 42f. – III (psych.) 5 43–46 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (psych.) 7 1394–1396 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Versuch und Irrtum","qualifier":"","band":"8","col":"562"}
  ],
  "persons":[
   {"id":669,"name":"B. F. Skinner","b":3,"n":3,"l":0,"editor":0,"role":"source"},
@@ -183,7 +180,8 @@ HWPH.put("a/2662",
   {"id":1453,"lemma":"Instinkt"},
   {"id":1731,"lemma":"Latent, Latenz"},
   {"id":1904,"lemma":"Mechanismus, auslösender"},
-  {"id":2582,"lemma":"Reaktion, bedingte"}
+  {"id":2582,"lemma":"Reaktion, bedingte"},
+  {"id":2633,"lemma":"Reflex, Reflexbewegung"}
  ],
  "groups":[{"id":5,"name":"Biologie","label":"Reiz und Reaktion"}],
  "reg_authors":[{"name":"Danziger Kurt","n":1}]

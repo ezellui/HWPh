@@ -24,6 +24,7 @@ HWPH.put("a/1991",
  "backlinks":[{"id":3404,"lemma":"Vergessen, das","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"ars memoriae","qualifier":"","band":null,"col":null},
   {"term":"dual-coding","qualifier":"II","band":"5","col":"1446"},
   {"term":"Landkarte, kognitive","qualifier":"II","band":"5","col":"1447"},
   {"term":"Mnemonik","qualifier":"","band":null,"col":null}

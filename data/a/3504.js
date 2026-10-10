@@ -23,7 +23,7 @@ HWPH.put("a/3504",
  ],
  "outlinks":[{"id":2889,"lemma":"Sinn/Bedeutung","n":1}],
  "register":[
-  {"term":"/Objekt III 10 411 Anschauung an sich","qualifier":"(Bolzano)","band":null,"col":null},
+  {"term":"Anschauung an sich","qualifier":"(Bolzano)","band":null,"col":null},
   {"term":"Begriff an sich","qualifier":"(Bolzano)","band":null,"col":null},
   {"term":"Einzelvorstellung","qualifier":"(Bolzano)","band":"11","col":"1247"}
  ],

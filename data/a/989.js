@@ -17,10 +17,7 @@ HWPH.put("a/989",
  "next":{"id":990,"lemma":"Ganzqualitäten","band":"3","col":23},
  "backlinks":[{"id":987,"lemma":"Ganzheit","n":1},{"id":990,"lemma":"Ganzqualitäten","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"– I (psych.) 3 20 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 1 604f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[],
  "persons":[
   {"id":246,"name":"W. Köhler","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":399,"name":"F. Krueger","b":2,"n":1,"l":0,"editor":0,"role":"source"},

@@ -22,7 +22,10 @@ HWPH.put("a/168",
  "next":{"id":169,"lemma":"Anspruchsniveau","band":"1","col":356},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Pädagogik der Entsprechung","qualifier":"II","band":"1","col":"356"}],
+ "register":[
+  {"term":"Gegenstandsentsprechung","qualifier":"II","band":"1","col":"356"},
+  {"term":"Pädagogik der Entsprechung","qualifier":"II","band":"1","col":"356"}
+ ],
  "persons":[
   {"id":69,"name":"K. Barth","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":184,"name":"P. Tillich","b":1,"n":1,"l":0,"editor":0,"role":"source"},

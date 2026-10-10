@@ -30,9 +30,10 @@ HWPH.put("a/3037",
  ],
  "outlinks":[{"id":2761,"lemma":"Schicht, soziale","n":1}],
  "register":[
+  {"term":"cognitive linguistics","qualifier":"I (ling.)","band":"10","col":"267"},
   {"term":"Differenzierung, soziale","qualifier":"II (soz.)","band":"10","col":"269"},
   {"term":"Hierarchie","qualifier":"II (soz.)","band":"10","col":"268"},
-  {"term":"inneres 12 1046 language strata","qualifier":"I (ling.)","band":"10","col":"266"},
+  {"term":"language strata","qualifier":"I (ling.)","band":"10","col":"266"},
   {"term":"Rangordnung","qualifier":"II (soz.)","band":"10","col":"268"},
   {"term":"ranking","qualifier":"II (soz.)","band":"10","col":"268"},
   {"term":"social stratification","qualifier":"II (soz.)","band":null,"col":null},
@@ -86,7 +87,7 @@ HWPH.put("a/3037",
   {"id":2640,"lemma":"Regel","tf":2},
   {"id":2781,"lemma":"Schrift","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2761,"lemma":"Schicht, soziale"},{"id":3117,"lemma":"Systemtheorie; System, soziales"}],
  "groups":[
   {"id":20,"name":"Linguistik","label":"Stratifikation I (ling.)"},
   {"id":42,"name":"Soziologie","label":"Stratifikation II (soz.)"}

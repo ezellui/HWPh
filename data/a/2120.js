@@ -17,10 +17,7 @@ HWPH.put("a/2120",
  "next":{"id":2121,"lemma":"Neupythagoreismus","band":"6","col":756},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"neoplatonism","qualifier":"","band":null,"col":null},
-  {"term":"– I (philos.) 7 977–985 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"neoplatonism","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":7,"name":"Augustinus","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -160,7 +160,7 @@ HWPH.put("a/2117",
  "reg_authors":[
   {"name":"Müller Götz","n":1},
   {"name":"Probst Peter","n":51},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Schönpflug Ute","n":20}
  ]
 }

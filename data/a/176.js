@@ -21,7 +21,10 @@ HWPH.put("a/176",
  "next":{"id":177,"lemma":"Anthropomorphismus","band":"1","col":376},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"medizinische Anthropologie","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Medizin, anthropologische","qualifier":"","band":null,"col":null},
+  {"term":"medizinische Anthropologie","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":2575,"name":"P. Christian","b":0,"n":3,"l":2,"editor":0,"role":"scholar"},
   {"id":258,"name":"O. Marquard","b":0,"n":2,"l":1,"editor":0,"role":"mixed"},
@@ -47,7 +50,7 @@ HWPH.put("a/176",
   {"id":168,"lemma":"Anspruch","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1906,"lemma":"Medizin, Heilkunst, Medizinphilosophie"}],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Anthropologie, medizinische"},
   {"id":25,"name":"Medizin","label":"Anthropologie, medizinische"}

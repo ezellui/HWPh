@@ -29,8 +29,7 @@ HWPH.put("a/2987",
  "register":[
   {"term":"formal language","qualifier":"","band":null,"col":null},
   {"term":"formale Sprache","qualifier":"","band":null,"col":null},
-  {"term":"Kalkülsprache","qualifier":"","band":null,"col":null},
-  {"term":"– I (wiss.) 2 964–967 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Kalkülsprache","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":39,"name":"G. Frege","b":2,"n":2,"l":0,"editor":0,"role":"source"},

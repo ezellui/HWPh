@@ -19,8 +19,10 @@ HWPH.put("a/421",
  "outlinks":[],
  "register":[
   {"term":"Denken der Wissenschaft","qualifier":"","band":"1","col":"904"},
+  {"term":"Einheit der Apperzeption","qualifier":"","band":null,"col":null},
   {"term":"Einheit des Bewusstseins","qualifier":"","band":null,"col":null},
-  {"term":"Residuum, phänomenologisches","qualifier":"","band":null,"col":null}
+  {"term":"Residuum, phänomenologisches","qualifier":"","band":null,"col":null},
+  {"term":"transzendentales Bewusstsein","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

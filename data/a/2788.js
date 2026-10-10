@@ -23,8 +23,7 @@ HWPH.put("a/2788",
  "outlinks":[{"id":39,"lemma":"Acedia","n":1},{"id":1915,"lemma":"Melancholie","n":1}],
  "register":[
   {"term":"Sehnsucht","qualifier":"","band":"8","col":"1496"},
-  {"term":"Wehmut","qualifier":"","band":"8","col":"1496"},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wehmut","qualifier":"","band":"8","col":"1496"}
  ],
  "persons":[
   {"id":895,"name":"W. Rehm","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},

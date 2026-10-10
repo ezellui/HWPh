@@ -27,6 +27,7 @@ HWPH.put("a/3288",
   {"term":"Gedankending","qualifier":"","band":"11","col":"136"},
   {"term":"Nichtseiendes","qualifier":"","band":null,"col":null},
   {"term":"terminus infinitus","qualifier":"","band":"11","col":"136"},
+  {"term":"Unmögliche, das","qualifier":"","band":null,"col":null},
   {"term":"Urding","qualifier":"","band":"11","col":"135"}
  ],
  "persons":[

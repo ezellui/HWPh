@@ -29,17 +29,18 @@ HWPH.put("a/400",
   {"id":2889,"lemma":"Sinn/Bedeutung","n":1}
  ],
  "register":[
-  {"term":"Beschränktheit","qualifier":"","band":"1","col":"854"},
-  {"term":"designatio","qualifier":"","band":"1","col":"852"},
-  {"term":"determinatio","qualifier":"","band":"1","col":"852"},
+  {"term":"Abgrenzen","qualifier":"I (met.)","band":"1","col":"854"},
+  {"term":"Beschränktheit","qualifier":"I (met.)","band":"1","col":"854"},
+  {"term":"designatio","qualifier":"I (met.)","band":"1","col":"852"},
+  {"term":"determinatio","qualifier":"I (met.)","band":"1","col":"852"},
   {"term":"Determination","qualifier":"","band":null,"col":null},
-  {"term":"Grenzbestimmungen","qualifier":"","band":"1","col":"854"},
-  {"term":"Grenze","qualifier":"","band":"1","col":"854"},
-  {"term":"Schranke","qualifier":"","band":"1","col":"854"},
-  {"term":"Umfang/Inhalt","qualifier":"","band":"1","col":"856"},
-  {"term":"Unterscheiden","qualifier":"","band":"1","col":"854"},
-  {"term":"ὁρίζειν","qualifier":"","band":null,"col":null},
-  {"term":"τιθέναι","qualifier":"","band":"1","col":"851"}
+  {"term":"Grenzbestimmungen","qualifier":"I (met.)","band":"1","col":"854"},
+  {"term":"Grenze","qualifier":"I (met.)","band":"1","col":"854"},
+  {"term":"Schranke","qualifier":"I (met.)","band":"1","col":"854"},
+  {"term":"Umfang/Inhalt","qualifier":"II (log.)","band":"1","col":"856"},
+  {"term":"Unterscheiden","qualifier":"I (met )","band":"1","col":"854"},
+  {"term":"ὁρίζειν","qualifier":"I (met.)","band":null,"col":null},
+  {"term":"τιθέναι","qualifier":"I (met.)","band":"1","col":"851"}
  ],
  "persons":[
   {"id":1072,"name":"Melissos","b":2,"n":2,"l":0,"editor":0,"role":"source"},

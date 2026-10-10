@@ -17,7 +17,7 @@ HWPH.put("a/515",
  "next":{"id":516,"lemma":"Da","band":"2","col":1},
  "backlinks":[{"id":2050,"lemma":"Mystik, mystisch","n":1}],
  "outlinks":[],
- "register":[{"term":"– III (pol.) 6 1348–1358 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":745,"name":"H. de Lubac","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":3,"name":"Platon","b":0,"n":2,"l":0,"editor":0,"role":"source"},

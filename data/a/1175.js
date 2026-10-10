@@ -25,7 +25,7 @@ HWPH.put("a/1175",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"L 7 794 deificatio","qualifier":"","band":null,"col":null},
+  {"term":"deificatio","qualifier":"","band":null,"col":null},
   {"term":"Vergöttlichung; Vergottung","qualifier":"","band":null,"col":null},
   {"term":"Vervollkommnung","qualifier":"6","band":"3","col":"845"},
   {"term":"θέωσις","qualifier":"","band":null,"col":null}

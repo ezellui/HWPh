@@ -27,8 +27,11 @@ HWPH.put("a/3190",
   {"id":3191,"lemma":"Tiefenpsychologie","n":1}
  ],
  "register":[
+  {"term":"depth","qualifier":"","band":null,"col":null},
   {"term":"dunkel","qualifier":"","band":null,"col":null},
-  {"term":"Tiefsinn","qualifier":"","band":null,"col":null}
+  {"term":"profunditas","qualifier":"","band":null,"col":null},
+  {"term":"Tiefsinn","qualifier":"","band":null,"col":null},
+  {"term":"βάθος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -75,6 +78,6 @@ HWPH.put("a/3190",
  ],
  "see_also":[],
  "groups":[{"id":45,"name":"Topoi und Metaphern","label":"Tiefe"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

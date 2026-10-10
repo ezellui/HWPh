@@ -18,10 +18,10 @@ HWPH.put("a/578",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Dezisionismus","qualifier":"","band":null,"col":null},
-  {"term":"Entscheidung, juristische","qualifier":"","band":"2","col":"160"},
-  {"term":"Entschlossenheit","qualifier":"","band":"2","col":"161"},
-  {"term":"Normativismus","qualifier":"","band":"2","col":"160"}
+  {"term":"Dezisionismus","qualifier":"(Schmitt)","band":null,"col":null},
+  {"term":"Entscheidung, juristische","qualifier":"(Schmitt)","band":"2","col":"160"},
+  {"term":"Entschlossenheit","qualifier":"(Schmitt)","band":"2","col":"161"},
+  {"term":"Normativismus","qualifier":"(Schmitt)","band":"2","col":"160"}
  ],
  "persons":[
   {"id":43,"name":"J. Habermas","b":1,"n":1,"l":0,"editor":0,"role":"source"},

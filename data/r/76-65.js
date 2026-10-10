@@ -1,99 +1,11 @@
 HWPH.put("r/76-65",
 [
- [
-  "Vernunft; Verstand","Vernunft; Verstand","II","11","760","main",3423,"Vernunft; Verstand",
-  "vernunft; verstand"
- ],
- [
-  "Verfassungsformen","Verfassungsformen","","11","648","main",3399,"Verfassungsform(en)",
-  "verfassungsformen"
- ],
- ["Verdichtung","Verdichtung","",null,null,"main",3390,"Verdichtung","verdichtung"],
- ["Verhalten","Verhalten","","11","683f.","main",3406,"Verhalten","verhalten"],
- ["Vertrauen","Vertrauen","",null,null,"main",3447,"Vertrauen","vertrauen"],
- ["Vertrauen","Zuversicht","",null,null,"ref",3716,"Zuversicht","vertrauen"],
- [
-  "Verachtung contemptus mundi","Verachtung contemptus mundi","",null,null,"main",null,null,
-  "verachtung contemptus mundi"
- ],
- ["Vergessen, das","Vergessen, das","","11","674","main",3404,"Vergessen, das","vergessen, das"],
- ["Verheissung","Verheissung","","11","692f.","main",3407,"Verheißung","verheissung"],
- [
-  "Verweigerung; Dissidenz","Verweigerung; Dissidenz","I","11","1003","main",3451,
-  "Verweigerung; Dissidenz","verweigerung; dissidenz"
- ],
- ["Verhüllte, der","Verhüllte, der","",null,null,"main",3408,"Verhüllte, der","verhullte, der"],
- ["Verschiedenheit","Verschiedenheit","","11","880","main",3430,"Verschiedenheit","verschiedenheit"],
- [
-  "Vernunftschluss inference of the understanding","Vernunftschluss inference of the understanding",
-  "",null,null,"main",null,null,"vernunftschluss inference of the understanding"
- ],
- [
-  "Verstandesschluss inference rules","Verstandesschluss inference rules","",null,null,"main",null,
-  null,"verstandesschluss inference rules"
- ],
- ["Vertrag","Vertrag","II (soz./pol.)",null,null,"main",3445,"Vertrag","vertrag"],
- ["Verstehen","Verstehen","","11","924","main",3438,"Verstehen","verstehen"],
- ["Vermittlung","Vermittlung","",null,null,"main",3417,"Vermittlung","vermittlung"],
- ["Vertrag","Vertrag","II (soz./pol.)","11","965","main",3445,"Vertrag","vertrag"],
- [
-  "Vernunft; Verstand","Vernunft; Verstand","II","11","754","main",3423,"Vernunft; Verstand",
-  "vernunft; verstand"
- ],
- [
-  "Verweigerung; Dissidenz","Verweigerung; Dissidenz","II","11","1003","main",3451,
-  "Verweigerung; Dissidenz","verweigerung; dissidenz"
- ],
  ["Vergessen, das","Vergessen, das","",null,null,"main",3404,"Vergessen, das","vergessen, das"],
- ["Verstellung","Verstellung","","11","940","main",3439,"Verstellung","verstellung"],
- ["Versachlichung","Versachlichung","","11","872","main",3428,"Versachlichung","versachlichung"],
- ["Versprechen","Versprechen","","11","907","main",3435,"Versprechen","versprechen"],
- [
-  "Vermögen; Vermögenspsychologie","Vermögen; Vermögenspsychologie","",null,null,"main",3419,
-  "Vermögen; Vermögenspsychologie","vermogen; vermogenspsychologie"
- ],
- [
-  "Vernunft; Verstand","Vernunft; Verstand","VII D 5","11","847f.","main",3423,"Vernunft; Verstand",
-  "vernunft; verstand"
- ],
- ["Vernunft; Verstand","Wissenschaft","II","12","916","ref",3635,"Wissenschaft","vernunft; verstand"],
- ["Verdammung","Verdammung","",null,null,"main",3389,"Verdammung; Verwerfung","verdammung"],
- [
-  "Verdammung","Obligatio; Ars obligatoria II (log.)","","6","1070","ref",2194,
-  "Obligatio, Ars obligatoria","verdammung"
- ],
- ["Vermutung","Vermutung","I","11","733","main",3421,"Vermutung","vermutung"],
- [
-  "Verstandesschluss","Verstandesschluss","",null,null,"main",3436,"Verstandesschluß",
-  "verstandesschluss"
- ],
- ["Vernunftschluss","Vernunftschluss","","11","868","main",3426,"Vernunftschluß","vernunftschluss"],
- ["Verstehen","Verstehen","","11","919f.","main",3438,"Verstehen","verstehen"],
  ["Verworrenheit","Verworrenheit","I","11","1014","main",3456,"Verworrenheit","verworrenheit"],
- [
-  "Vernunftwahrheiten/Tatsachenwahrheiten","Vernunftwahrheiten/Tatsachenwahrheiten","",null,null,
-  "main",3427,"Vernunftwahrheiten/Tatsachenwahrheiten","vernunftwahrheiten/tatsachenwahrheiten"
- ],
- [
-  "Vernunftwahrheiten/Tatsachenwahrheiten","Denken","I","2","82","ref",552,"Denken",
-  "vernunftwahrheiten/tatsachenwahrheiten"
- ],
- [
-  "Vernunftwahrheiten/Tatsachenwahrheiten","Voluntarismus","","11","1144","ref",3486,"Voluntarismus",
-  "vernunftwahrheiten/tatsachenwahrheiten"
- ],
- [
-  "Vernunftwahrheiten/Tatsachenwahrheiten","Wissen","IV","12","882","ref",3634,"Wissen",
-  "vernunftwahrheiten/tatsachenwahrheiten"
- ],
  [
   "Vernunft; Verstand","Vernunft; Verstand","VII F","11","859","main",3423,"Vernunft; Verstand",
   "vernunft; verstand"
  ],
- ["Verdopplung","Verdopplung","","11","614","main",3392,"Verdopplung","verdopplung"],
- ["Verkehrung","Verkehrung","",null,null,"main",3412,"Verkehrung","verkehrung"],
- ["Verkehrung","Widerspruch","","12","695","ref",3607,"Widerspruch","verkehrung"],
- ["Vermutung","Vermutung","II","11","736","main",3421,"Vermutung","vermutung"],
  ["Veda; Vedanta","Veda; Vedanta","","11","556–558","main",3376,"Veda; Vedanta","veda; vedanta"],
  ["Veda; Vedanta","Avidyā","",null,null,"see",337,"Avidya","veda; vedanta"],
  ["Veda; Vedanta","Brahman","",null,null,"see",453,"Brahman","veda; vedanta"],
@@ -268,6 +180,10 @@ HWPH.put("r/76-65",
  ["Verbigeration","Stereotypie","","10","139","ref",3021,"Stereotypie","verbigeration"],
  ["Verbinden","Logik, transzendentale","","5","472","ref",1819,"Logik, transzendentale","verbinden"],
  ["Verbinden/Trennen","Urteil","II","11","440","ref",3355,"Urteil","verbinden/trennen"],
+ [
+  "Verbindlichkeit","Obligatio; Ars","",null,null,"ref",2194,"Obligatio, Ars obligatoria",
+  "verbindlichkeit"
+ ],
  ["Verbindung","Syndesmos","",null,null,"ref",3102,"Syndesmos","verbindung"],
  ["Verbindung","Synkrisis/Diakrisis","",null,null,"ref",3110,"Synkrisis/Diakrisis","verbindung"],
  ["Verbindung","Zuordnung; Abbildung","","12","1439","ref",3710,"Zuordnung; Abbildung","verbindung"],
@@ -325,8 +241,12 @@ HWPH.put("r/76-65",
   "verborgenheit gottes"
  ],
  [
-  "Verborgenheit Gottes","Via causalitatis/negationis/eminentiae Verborgenheit Gottes","",null,null,
-  "see",3460,"Via causalitatis; via negationis; via eminentiae","verborgenheit gottes"
+  "Verborgenheit Gottes","Via causalitatis/negationis/eminentiae","",null,null,"see",3460,
+  "Via causalitatis; via negationis; via eminentiae","verborgenheit gottes"
+ ],
+ [
+  "Verborgenheit Gottes","Latenz","I (allg.)","5","40","ref",1731,"Latent, Latenz",
+  "verborgenheit gottes"
  ],
  ["Verbot","Verbot","","11","585–588","main",3385,"Verbot","verbot"],
  ["Verbot","Deontologie","",null,null,"see",561,"Deontologie","verbot"],
@@ -354,9 +274,10 @@ HWPH.put("r/76-65",
   "verbruderung, christliche"
  ],
  [
-  "Verbürgerlichung des Evangeliums","Religion","",null,null,"ref",2673,"Religion",
-  "verburgerlichung des evangeliums"
+  "Verbürgerlichung des Evangeliums","Religion, natürliche bzw. vernünftige","","8","726","ref",2674,
+  "Religion","verburgerlichung des evangeliums"
  ],
+ ["verbum","Wort","I (sprach.)",null,null,"ref",3656,"Wort","verbum"],
  ["verbum aeternum","Wort","II (theol.)","12","1030","ref",3656,"Wort","verbum aeternum"],
  ["verbum copulativum","Prädikation","I","7","1200","ref",2427,"Prädikation","verbum copulativum"],
  ["verbum dei","Wort","II (theol.)",null,null,"ref",3656,"Wort","verbum dei"],
@@ -373,7 +294,11 @@ HWPH.put("r/76-65",
  ],
  ["Verbum mentis","Konzept","",null,null,"see",1655,"Konzept, konzeptibel","verbum mentis"],
  ["Verbum mentis","Wort","II (theol.)",null,null,"see",3656,"Wort","verbum mentis"],
- ["Verbum mentis","Wort","",null,null,"see",3656,"Wort","verbum mentis"],
+ ["Verbum mentis","Wort, inneres","",null,null,"see",3656,"Wort","verbum mentis"],
+ [
+  "verbum mentis","Form und Materie","","2","1004","ref",939,"Form und Materie (Stoff)",
+  "verbum mentis"
+ ],
  [
   "verbum primigenium","Wurzelwort; Stammwort; Urwort","",null,null,"ref",3663,
   "Wurzelwort; Stammwort; Urwort","verbum primigenium"
@@ -386,12 +311,7 @@ HWPH.put("r/76-65",
  ["Verdammung","Verdammung","","11","598–605","main",3388,"Verdacht","verdammung"],
  ["Verdammung","Apokalyptik","",null,null,"see",203,"Apokalyptik","verdammung"],
  ["Verdammung","Erwählung","",null,null,"see",818,"Erwählung","verdammung"],
- ["Verdammung","Gericht Gottes","",null,null,"see",1084,"Gericht (Gottes)","verdammung"],
- ["Verdammung","Hölle","",null,null,"see",1290,"Hölle","verdammung"],
- ["Verdammung","Prädestination","",null,null,"see",2424,"Prädestination","verdammung"],
- ["Verdammung","Strafe","I",null,null,"see",3035,"Strafe","verdammung"],
- ["Verdammung","Wiederbringung","",null,null,"see",3612,"Wiederbringung","verdammung"],
- ["Verdammung","Zorn Gottes","",null,null,"see",3703,"Zorn Gottes","verdammung"],
+ ["Verdammung","Gericht","",null,null,"see",1084,"Gericht (Gottes)","verdammung"],
  ["Verdauung","Stoffwechsel","",null,null,"ref",3032,"Stoffwechsel","verdauung"],
  [
   "Verdecktheit","Undurchsichtigkeit","I (Heidegger)",null,null,"ref",3290,"Undurchsichtigkeit",
@@ -401,6 +321,11 @@ HWPH.put("r/76-65",
  ["Verderbnis des Herzens","Herz","","3","1108","ref",1265,"Herz","verderbnis des herzens"],
  ["Verderbnis des Herzens","Sünde","III","10","607ff.","ref",3075,"Sünde","verderbnis des herzens"],
  ["Verdichtung","Verdichtung","","11","605–608","main",3390,"Verdichtung","verdichtung"],
+ ["Verdichtung","Antiperístasis","",null,null,"see",187,"Antiperístasis","verdichtung"],
+ ["Verdichtung","Synkrisis/Diakrisis","",null,null,"see",3110,"Synkrisis/Diakrisis","verdichtung"],
+ ["Verdichtung","Wandel","",null,null,"see",3543,"Wandel; Veränderung","verdichtung"],
+ ["Verdichtung","Apperzeption","",null,null,"see",212,"Apperzeption","verdichtung"],
+ ["Verdichtung","Vorstellung","",null,null,"see",3503,"Vorstellung","verdichtung"],
  [
   "Verdichtung (psych.)","Verschiebung; Verdichtung","",null,null,"ref",3429,
   "Verschiebung; Verdichtung","verdichtung (psych.)"
@@ -418,7 +343,12 @@ HWPH.put("r/76-65",
  ["Verdinglichung","Entäusserung","",null,null,"see",745,"Entäußerung","verdinglichung"],
  ["Verdinglichung","Entfremdung","",null,null,"see",747,"Entfremdung","verdinglichung"],
  ["Verdinglichung","Versachlichung","",null,null,"see",3428,"Versachlichung","verdinglichung"],
- ["Verdinglichung","Ware Verdinglichung","",null,null,"see",null,null,"verdinglichung"],
+ [
+  "Verdinglichung","Ware","",null,null,"see",3545,"Ware; Warencharakter; Warenfetischismus",
+  "verdinglichung"
+ ],
+ ["Verdinglichung","Natur, zweite","II","6","492","ref",2077,"Natur, zweite","verdinglichung"],
+ ["Verdinglichung","Praxis","III","7","1300f.","ref",2448,"Praxis, praktisch","verdinglichung"],
  ["Verdopplung","Verdopplung","","11","613–618","main",3392,"Verdopplung","verdopplung"],
  ["Verdopplung des Ich","Religion","VIII 2","8","687","ref",2673,"Religion","verdopplung des ich"],
  [
@@ -438,8 +368,8 @@ HWPH.put("r/76-65",
   "Verdrängung (phys.)","Antiperístasis","",null,null,"ref",187,"Antiperístasis",
   "verdrangung (phys.)"
  ],
- ["Verdrossenheit","Überdruss Verdünnung","",null,null,"ref",null,null,"verdrossenheit"],
- ["Verdichtung","Verdichtung","I (nat.)",null,null,"main",3390,"Verdichtung","verdichtung"],
+ ["Verdrossenheit","Überdruss","",null,null,"ref",3249,"Überdruß","verdrossenheit"],
+ ["Verdünnung","Verdichtung","I (nat.)",null,null,"ref",3390,"Verdichtung","verdunnung"],
  [
   "Verdünnungsgrad","Potenzen II 2 (med.) Verdunkelung","",null,null,"ref",null,null,
   "verdunnungsgrad"
@@ -448,10 +378,14 @@ HWPH.put("r/76-65",
   "Verdunklung der Vorstellungen","Verschiebung; Verdichtung","",null,null,"ref",3429,
   "Verschiebung; Verdichtung","verdunklung der vorstellungen"
  ],
- ["verecundia","Scham Veredelung des Charakters","",null,null,"ref",null,null,"verecundia"],
+ ["verecundia","Scham","",null,null,"ref",2751,"Scham, Scheu","verecundia"],
+ [
+  "Veredelung des Charakters","Heiterkeit; das Heitere","","3","1040","ref",1242,
+  "Heiterkeit, das Heitere","veredelung des charakters"
+ ],
  ["Vereinbarung","Vertrag","",null,null,"ref",3445,"Vertrag","vereinbarung"],
  [
-  "Vereinfachung","Potenzen II 1 (theol.)","","7","1170","ref",2423,"Potenz, Potenzen",
+  "Vereinfachung","Potenzen","II 1 (theol.)","7","1170","ref",2423,"Potenz, Potenzen",
   "vereinfachung"
  ],
  ["Vereinigung","Einigung","",null,null,"ref",685,"Einigung","vereinigung"],
@@ -482,7 +416,7 @@ HWPH.put("r/76-65",
  ["Verelendung","Pauper; Pauperismus","",null,null,"see",2300,"Pauper, Pauperismus","verelendung"],
  ["Verelendung","Proletariat","",null,null,"see",2476,"Proletariat, Proletarier","verelendung"],
  ["Vererbung","Vererbung","","11","624–632","main",3395,"Vererbung","vererbung"],
- ["Vererbung","Orthogenese – I (biol.)","","11","624–628","see",3395,"Vererbung","vererbung"],
+ ["Vererbung","Orthogenese","",null,null,"see",2253,"Orthogenese, Orthogenesis","vererbung"],
  ["Vererbung","Dominant/rezessiv","",null,null,"see",630,"Dominant/rezessiv","vererbung"],
  ["Vererbung","Gen","",null,null,"see",1057,"Gen","vererbung"],
  ["Vererbung","Genetik","",null,null,"see",1070,"Genetik","vererbung"],
@@ -490,11 +424,13 @@ HWPH.put("r/76-65",
  ["Vererbung","Regression","I (biol.)",null,null,"see",2648,"Regression","vererbung"],
  ["Vererbung","Zelle","",null,null,"see",3681,"Zelle","vererbung"],
  ["Vererbung","Zeugung","",null,null,"see",3693,"Zeugung","vererbung"],
+ ["Vererbung","Rasse","I",null,null,"see",2568,"Rasse","vererbung"],
+ ["Vererbung","Züchtung","",null,null,"see",3704,"Züchtung","vererbung"],
  ["Vererbung","Pflanze","","7","401","ref",2332,"Pflanze","vererbung"],
  ["Verfahren","Verfahren","","11","632–634","main",3396,"Verfahren","verfahren"],
- ["Verfahren","Encheiresis naturae","",null,null,"see",731,"Encheiresis (naturae)","verfahren"],
- ["Verfahren","Methode","",null,null,"see",1955,"Methode","verfahren"],
- ["Verfahren","Prozess Verfahren","",null,null,"see",null,null,"verfahren"],
+ ["Verfahren","Encheiresis","",null,null,"see",731,"Encheiresis (naturae)","verfahren"],
+ ["Verfahren","Konstruktion","IV",null,null,"ref",1631,"Konstruktion","verfahren"],
+ ["Verfahren","Recht","I","8","226","ref",2598,"Recht","verfahren"],
  [
   "Verfahren, analytisches/synthetisches","Antithetik","","1","418","ref",191,"Antithetik",
   "verfahren, analytisches/synthetisches"
@@ -512,7 +448,7 @@ HWPH.put("r/76-65",
   "verfahren, statistisches"
  ],
  [
-  "Verfahren, synthetisches","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Verfahren, synthetisches","Dialektik","IV 1. 2","2","187","ref",583,"Dialektik",
   "verfahren, synthetisches"
  ],
  ["Verfahrensart","Denkart","","2","59","ref",550,"Demut","verfahrensart"],
@@ -641,6 +577,7 @@ HWPH.put("r/76-65",
  ],
  ["Vergeben","Verzeihen","",null,null,"ref",3457,"Verzeihen; Vergeben","vergeben"],
  ["Vergeben","Strafe","I","10","213","ref",3035,"Strafe","vergeben"],
+ ["Vergeben","Strafe","III 3","10","233","ref",3035,"Strafe","vergeben"],
  [
   "Vergegenständlichung","Objektivierung","I (allg.)",null,null,"ref",2191,"Objektivierung",
   "vergegenstandlichung"
@@ -782,8 +719,12 @@ HWPH.put("r/76-65",
  ["Vergnügen","Lust; Freude","III","5","560","ref",1837,"Lust, Freude","vergnugen"],
  ["Vergnügungssucht","Lasterkatalog","","5","38","ref",1730,"Lasterkatalog","vergnugungssucht"],
  [
-  "Vergöttlichung; Vergottung","Gottwerdung; Vergöttlichung Vergottung der Geschichte","",null,null,
-  "ref",1175,"Gottwerdung, Vergottung, Vergöttlichung","vergottlichung; vergottung"
+  "Vergöttlichung; Vergottung","Gottwerdung; Vergöttlichung","",null,null,"ref",1175,
+  "Gottwerdung, Vergottung, Vergöttlichung","vergottlichung; vergottung"
+ ],
+ [
+  "Vergottung der Geschichte","Geschichte","VI","3","392","ref",1085,"Geschichte, Historie",
+  "vergottung der geschichte"
  ],
  ["Verhältnis","Proportion","",null,null,"ref",2483,"Proportion","verhaltnis"],
  ["Verhältnis","Relation","III","8","601","ref",2668,"Relation","verhaltnis"],
@@ -867,7 +808,7 @@ HWPH.put("r/76-65",
   "Innensteuerung/Außensteuerung","verhalten, konformes/abweichendes"
  ],
  [
-  "Verhalten, kulturelles","Kulturmorphologie (Frobenius)","","4","1338","ref",1706,
+  "Verhalten, kulturelles","Kulturmorphologie","(Frobenius)","4","1338","ref",1706,
   "Kulturmorphologie, Kulturkreislehre","verhalten, kulturelles"
  ],
  ["Verhalten, kulturelles","Paideuma","","7","40","ref",2258,"Paideuma","verhalten, kulturelles"],
@@ -884,7 +825,7 @@ HWPH.put("r/76-65",
   "verhalten, pflanzliches"
  ],
  [
-  "Verhalten, rationales","Rationalität III (analyt. Philos.)","",null,null,"ref",2576,
+  "Verhalten, rationales","Rationalität","III (analyt. Philos.)",null,null,"ref",2576,
   "Rationalität, Rationalisierung","verhalten, rationales"
  ],
  [
@@ -968,7 +909,20 @@ HWPH.put("r/76-65",
   "verhexte, das"
  ],
  ["Verhüllte, der","Verhüllte, der","","11","694f.","main",3408,"Verhüllte, der","verhullte, der"],
- ["Verhüllte, der","Paradox III (log.) Verhüllung","",null,null,"see",null,null,"verhullte, der"],
+ [
+  "Verhüllte, der","Paradox","III (log.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
+  "verhullte, der"
+ ],
+ [
+  "Verhüllung","Undurchsichtigkeit","I (Heidegger)",null,null,"ref",3290,"Undurchsichtigkeit",
+  "verhullung"
+ ],
+ ["Verhüllung","Wahrheit, nackte","",null,null,"ref",3530,"Wahrheit, nackte","verhullung"],
+ [
+  "Verhüllung","Seinsvergessenheit","(Heidegger)","9","264","ref",2815,"Seinsvergessenheit",
+  "verhullung"
+ ],
+ ["Verhüllung","Unverborgenheit","(Heidegger)","11","332","ref",3331,"Unverborgenheit","verhullung"],
  [
   "Verhüllungsmechanismen","Rationalisierung","","8","42f.","ref",2573,"Rationalisierung",
   "verhullungsmechanismen"
@@ -981,11 +935,18 @@ HWPH.put("r/76-65",
  ["Verifikation","Verifikation","","11","696–703","main",3409,"Verifikation","verifikation"],
  ["Verifikation","Sinnkriterien","",null,null,"see",2900,"Sinnkriterien","verifikation"],
  [
-  "Verifikation","Invention; Erfindung III (log.)","","4","563f.","ref",1490,
+  "Verifikation","Invention; Erfindung","III (log.)","4","563f.","ref",1490,
   "Invention, Erfindung, Entdeckung","verifikation"
  ],
  ["Verifikation","Metaphysikkritik","II","5","1292","ref",1946,"Metaphysikkritik","verifikation"],
- ["Verifikation","Rationalismus","",null,null,"ref",2574,"Rationalismus","verifikation"],
+ [
+  "Verifikation","Rationalismus, kritischer","(Popper)","8","50","ref",2575,
+  "Rationalismus, Kritischer","verifikation"
+ ],
+ [
+  "Verifikation","Voraussage","","11","1151f.","ref",3487,"Voraussage; Vorhersage; Prognose",
+  "verifikation"
+ ],
  [
   "Verifikation, eschatologische","Wahrheit (christlich-theologisch)","","12","129","ref",3524,
   "Wahrheit (christlich-theologisch)","verifikation, eschatologische"
@@ -1025,12 +986,27 @@ HWPH.put("r/76-65",
   "veritas aesthetica","Kunst; Kunstwerk","III","4","1379","ref",1712,"Kunst, Kunstwerk",
   "veritas aesthetica"
  ],
- ["veritas aesthetica","Wahrheit","",null,null,"ref",3523,"Wahrheit","veritas aesthetica"],
  [
-  "veritas aestheticologica","Wahrheit","",null,null,"ref",3523,"Wahrheit",
-  "veritas aestheticologica"
+  "veritas aesthetica","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","veritas aesthetica"
  ],
- ["veritas catholica","Religion","",null,null,"ref",2673,"Religion","veritas catholica"],
+ [
+  "veritas aesthetica","Wahrscheinlichkeit (ästhetisch)","","12","305","ref",3541,
+  "Wahrscheinlichkeit (ästhetisch)","veritas aesthetica"
+ ],
+ [
+  "veritas aestheticologica","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","veritas aestheticologica"
+ ],
+ ["veritas aeterna","Wahrheit, ewige","",null,null,"ref",3528,"Wahrheit, ewige","veritas aeterna"],
+ [
+  "veritas catholica","Religion, natürliche bzw. vernünftige","","8","719","ref",2674,"Religion",
+  "veritas catholica"
+ ],
+ [
+  "veritas contingens","Voluntarismus","","11","1144","ref",3486,"Voluntarismus",
+  "veritas contingens"
+ ],
  ["veritas ethica","Lüge","I","5","540","ref",1834,"Lüge","veritas ethica"],
  ["veritas exsistentiae","Wahrheit","IV","12","80","ref",3523,"Wahrheit","veritas exsistentiae"],
  [
@@ -1038,7 +1014,14 @@ HWPH.put("r/76-65",
   "veritas externa"
  ],
  ["veritas facti","Wissen","IV","12","882","ref",3634,"Wissen","veritas facti"],
- ["veritas heterocosmica","Wahrheit","",null,null,"ref",3523,"Wahrheit","veritas heterocosmica"],
+ [
+  "veritas heterocosmica","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","veritas heterocosmica"
+ ],
+ [
+  "veritas historiae","Geschichte","II","3","348","ref",1085,"Geschichte, Historie",
+  "veritas historiae"
+ ],
  ["veritas iustitiara","Lüge","I","5","540","ref",1834,"Lüge","veritas iustitiara"],
  [
   "veritas metaphysica","Wahrheit, objektive","","12","155","ref",3531,"Wahrheit, objektive",
@@ -1052,11 +1035,19 @@ HWPH.put("r/76-65",
   "veritas obiectiva","Wahrheit, objektive","",null,null,"ref",3531,"Wahrheit, objektive",
   "veritas obiectiva"
  ],
- ["veritas obiectiva","Subjekt","",null,null,"ref",3047,"Subjekt","veritas obiectiva"],
  [
-  "veritas practica/speculativa","Religion","",null,null,"ref",2673,"Religion",
-  "veritas practica/speculativa"
+  "veritas obiectiva","Subjekt/Objekt","II","10","408","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","veritas obiectiva"
  ],
+ [
+  "veritas practica","Wahrheit, praktische","",null,null,"ref",3532,"Wahrheit, praktische",
+  "veritas practica"
+ ],
+ [
+  "veritas practica/speculativa","Religion, natürliche bzw. vernünftige","","8","716","ref",2674,
+  "Religion","veritas practica/speculativa"
+ ],
+ ["veritas prima","Glaube","I","3","635","ref",1138,"Glaube","veritas prima"],
  [
   "veritas purissima","Wahrheit, absolute","","12","135","ref",3526,"Wahrheit, absolute",
   "veritas purissima"
@@ -1066,9 +1057,10 @@ HWPH.put("r/76-65",
   "veritas sempiterna"
  ],
  [
-  "veritas subiectiva/obiectiva","Subjekt","",null,null,"ref",3047,"Subjekt",
-  "veritas subiectiva/obiectiva"
+  "veritas subiectiva/obiectiva","Subjekt/Objekt","II","10","408","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","veritas subiectiva/obiectiva"
  ],
+ ["veritas subsistens","Subsistenz","","10","487","ref",3060,"Subsistenz","veritas subsistens"],
  [
   "veritas supertemporalis","Überzeitlich","","11","72","ref",3268,"Überzeitlich",
   "veritas supertemporalis"
@@ -1114,8 +1106,7 @@ HWPH.put("r/76-65",
   "verkennung"
  ],
  ["Verkettung","Verkettung","","11","710–713","main",3413,"Verkettung","verkettung"],
- ["Verkettung","Nexus universalis","",null,null,"see",2132,"Nexus, Nexus universalis","verkettung"],
- ["Verkettung","Series","II",null,null,"see",2875,"Series","verkettung"],
+ ["Verkettung","Nexus","",null,null,"see",2132,"Nexus, Nexus universalis","verkettung"],
  ["Verkettung","Vorstellungsreihe","",null,null,"ref",3505,"Vorstellungsreihe","verkettung"],
  ["Verkettung","Ganzes/Teil","III","3","12","ref",986,"Ganzes/Teil","verkettung"],
  ["Verkettung","Geschichtsphilosophie","","3","419","ref",1093,"Geschichtsphilosophie","verkettung"],
@@ -1162,27 +1153,25 @@ HWPH.put("r/76-65",
  ["Verlässlichkeit","Pistis","",null,null,"ref",2379,"Pistis","verlasslichkeit"],
  ["Verlangen","Verlangen","","11","716–719","main",3415,"Verlangen","verlangen"],
  [
-  "Verlangen","Begehren; appetitus naturalis","",null,null,"see",362,"Begehren, appetitus naturalis",
+  "Verlangen","Begehren; appetitus","",null,null,"see",362,"Begehren, appetitus naturalis",
   "verlangen"
  ],
- ["Verlangen","Desiderium naturale","",null,null,"see",566,"Desiderium naturale","verlangen"],
- ["Verlangen","Konkupiszenz","",null,null,"see",1616,"Konkupiszenz","verlangen"],
- ["Verlangen","Sehnsucht","",null,null,"see",2804,"Sehnsucht","verlangen"],
- ["Verlangen","Streben","",null,null,"see",3038,"Streben","verlangen"],
- ["Verlangen","Sucht","",null,null,"see",3069,"Sucht","verlangen"],
- ["Verlangen","Trieb","",null,null,"see",3229,"Trieb","verlangen"],
- ["Verlangen","Wunsch","",null,null,"see",3661,"Wunsch","verlangen"],
  [
   "Verlebendigung des Geistes","Sublimierung","","10","476","ref",3056,"Sublimierung",
   "verlebendigung des geistes"
  ],
- ["Verlegenheit","Aporie Verleiblichung der Seele","",null,null,"ref",null,null,"verlegenheit"],
+ ["Verlegenheit","Aporie","",null,null,"ref",210,"Aporie, Aporetik","verlegenheit"],
+ [
+  "Verleiblichung der Seele","Psychologie, rationale","","7","1666","ref",2519,
+  "Psychologie, rationale","verleiblichung der seele"
+ ],
+ ["Verleiblichung der Seele","Seele","V","9","59","ref",2794,"Seele","verleiblichung der seele"],
  ["Verleugnung","Verleugnung","","11","719–722","main",3416,"Verleugnung","verleugnung"],
  ["Verleugnung","Abwehrmechanismus","",null,null,"see",36,"Abwehrmechanismus","verleugnung"],
  ["Verleugnung","Verdrängung","",null,null,"see",3393,"Verdrängung","verleugnung"],
  ["Verleugnung","Wahrheit","VI B (psych )",null,null,"see",3523,"Wahrheit","verleugnung"],
  ["Verlöschen","Nirvān.a Verlust der Mitte","",null,null,"ref",null,null,"verloschen"],
- ["Vermassung","Masse II (soz.)","","5","831","ref",1878,"Masse, Massen","vermassung"],
+ ["Vermassung","Masse","II (soz.)","5","831","ref",1878,"Masse, Massen","vermassung"],
  ["Vermeinen","Intentionalität","(Husserl)","4","475","ref",1470,"Intentionalität","vermeinen"],
  ["Vermessenheit","Hochmut","",null,null,"ref",1286,"Hochmut","vermessenheit"],
  ["Vermessenheit","Hybris","",null,null,"ref",1318,"Hybris","vermessenheit"],
@@ -1209,7 +1198,7 @@ HWPH.put("r/76-65",
   "Vermittlung","Allgemeines/Besonderes","III 3","1","185f.","ref",101,"Allgemeines/Besonderes",
   "vermittlung"
  ],
- ["Vermittlung","Dialektik","IV",null,null,"ref",583,"Dialektik","vermittlung"],
+ ["Vermittlung","Dialektik","IV 5. 1","2","209","ref",583,"Dialektik","vermittlung"],
  ["Vermittlung","Entweder-Oder","(Kierkegaard)","2","550","ref",758,"Entweder-Oder","vermittlung"],
  [
   "Vermittlung","Fundamentalphilosophie","","2","1134","ref",968,"Fundamentalphilosophie",
@@ -1247,7 +1236,15 @@ HWPH.put("r/76-65",
   "Vermöglichkeit","Habitualitäten","(Husserl)",null,null,"see",1208,"Habitualitäten",
   "vermoglichkeit"
  ],
- ["Vermöglichkeit","Horizont","III",null,null,"see",1310,"Horizont","vermoglichkeit"],
+ ["Vermöglichkeit","Horizont","III 2 (Husserl)",null,null,"see",1310,"Horizont","vermoglichkeit"],
+ [
+  "Vermöglichkeit","Gegenwart, lebendige","(Husserl)","3","139","ref",1024,"Gegenwart, lebendige",
+  "vermoglichkeit"
+ ],
+ [
+  "Vermöglichkeit","Phänomenologie, genetische","(Husserl)","7","506f.","ref",2344,
+  "Phänomenologie, genetische","vermoglichkeit"
+ ],
  ["Vermutung","Vermutung","","11","732–740","main",3421,"Vermutung","vermutung"],
  ["Vermutung","Annahme","",null,null,"see",154,"Annahme, Annehmen","vermutung"],
  ["Vermutung","Ars coniecturalis","(Cusanus)",null,null,"see",252,"Ars coniecturalis","vermutung"],
@@ -1270,7 +1267,8 @@ HWPH.put("r/76-65",
  ],
  ["Vernehmen","Vernunft; Verstand","VII E","11","852","ref",3423,"Vernunft; Verstand","vernehmen"],
  ["Verneinung","Bejahung","II",null,null,"ref",380,"Bejahung","verneinung"],
- ["Verneinung","Negation","",null,null,"ref",2100,"Negation","verneinung"],
+ ["Verneinung","Negation; Negativität","II",null,null,"ref",2100,"Negation","verneinung"],
+ ["Verneinung","Verleugnung","","11","719","ref",3416,"Verleugnung","verneinung"],
  [
   "Verneinung (log.)","Anerkennungstheorie","",null,null,"ref",139,"Anerkennungstheorie",
   "verneinung (log.)"
@@ -1284,8 +1282,12 @@ HWPH.put("r/76-65",
  ["Verneinung (log.)","Urteil","III (Formen)",null,null,"ref",3355,"Urteil","verneinung (log.)"],
  ["Verneinung (log.)","Urteil","II 3","11","447","ref",3355,"Urteil","verneinung (log.)"],
  [
-  "Verneinung, transzendentale","Negation","",null,null,"ref",2100,"Negation",
-  "verneinung, transzendentale"
+  "Verneinung, transzendentale","Negation; Negativität","II","6","676","ref",2101,
+  "Negation, Negativität","verneinung, transzendentale"
+ ],
+ [
+  "Verneinung des anderen","Streit","II (soz.)","10","301","ref",3039,"Streit",
+  "verneinung des anderen"
  ],
  [
   "Verneinung des Lebens","Vernichtung","","11","746","ref",3422,"Vernichtung; Vernichten",
@@ -1322,7 +1324,7 @@ HWPH.put("r/76-65",
   "vernichtung des individuums"
  ],
  ["vernünfteln","Ästhetik","","1","560","ref",266,"Ästhetik, ästhetisch","vernunfteln"],
- ["vernünfteln","Dialektik","IV",null,null,"ref",583,"Dialektik","vernunfteln"],
+ ["vernünfteln","Dialektik","IV 1. 1","2","184ff.","ref",583,"Dialektik","vernunfteln"],
  ["vernünfteln","Gewaltenteilung","","3","571","ref",1128,"Gewaltenteilung","vernunfteln"],
  [
   "vernünfteln","Imperativ, kategorischer","I","4","247","ref",1395,
@@ -1335,7 +1337,10 @@ HWPH.put("r/76-65",
   "vernünftelnder Schluss","Vernunftschluss","","11","868","ref",3426,"Vernunftschluß",
   "vernunftelnder schluss"
  ],
- ["vernünftige Theologie","Religion","",null,null,"ref",2673,"Religion","vernunftige theologie"],
+ [
+  "vernünftige Theologie","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "vernunftige theologie"
+ ],
  [
   "Vernunft; Verstand","Vernunft; Verstand","","11","748–863","main",3423,"Vernunft; Verstand",
   "vernunft; verstand"
@@ -1409,12 +1414,22 @@ HWPH.put("r/76-65",
   "vernunft/herz"
  ],
  ["Vernunft/Unvernunft","Wahnsinn","",null,null,"ref",3521,"Wahnsinn","vernunft/unvernunft"],
- ["Vernunft, absolute","Negation","",null,null,"ref",2100,"Negation","vernunft, absolute"],
+ [
+  "Vernunft, absolute","Negation; Negativität","II","6","678","ref",2101,"Negation, Negativität",
+  "vernunft, absolute"
+ ],
+ [
+  "Vernunft, beobachtende","Observatio; Beobachtung","","6","1077","ref",2195,
+  "Observatio, Beobachtung","vernunft, beobachtende"
+ ],
  [
   "Vernunft, dialektische","Authentizität","","1","693","ref",318,"Authentizität",
   "vernunft, dialektische"
  ],
- ["Vernunft, dialektische","Dialektik","IV",null,null,"ref",583,"Dialektik","vernunft, dialektische"],
+ [
+  "Vernunft, dialektische","Dialektik","IV 7. 1","2","218f.","ref",583,"Dialektik",
+  "vernunft, dialektische"
+ ],
  [
   "Vernunft, dialektische","Sensus communis","IV 1","9","665","ref",2869,"Sensus communis",
   "vernunft, dialektische"
@@ -1450,7 +1465,7 @@ HWPH.put("r/76-65",
   "vernunft, instrumentelle"
  ],
  [
-  "Vernunft, instrumentelle","Rationalität II (ökon.)","",null,null,"see",2576,
+  "Vernunft, instrumentelle","Rationalität","II (ökon.)",null,null,"see",2576,
   "Rationalität, Rationalisierung","vernunft, instrumentelle"
  ],
  [
@@ -1469,7 +1484,14 @@ HWPH.put("r/76-65",
   "Vernunft, materielle","Rezeptivität","","8","1010","ref",2712,"Rezeptivität",
   "vernunft, materielle"
  ],
- ["Vernunft, negative","Negation","",null,null,"ref",2100,"Negation","vernunft, negative"],
+ [
+  "Vernunft, negative","Negation; Negativität","II","6","678","ref",2101,"Negation, Negativität",
+  "vernunft, negative"
+ ],
+ [
+  "Vernunft, negative","Vernunft; Verstand","VI","11","828","ref",3423,"Vernunft; Verstand",
+  "vernunft, negative"
+ ],
  ["Vernunft, praktische","Autonomie","",null,null,"ref",327,"Autonomie","vernunft, praktische"],
  [
   "Vernunft, praktische","Imperativ, kategorischer","",null,null,"ref",null,null,
@@ -1529,8 +1551,16 @@ HWPH.put("r/76-65",
   "vernunft, spekulative"
  ],
  [
-  "Vernunft, subjektive/objektive","Subjekt","",null,null,"ref",3047,"Subjekt",
+  "Vernunft, subjektive/objektive","Subjekt/Objekt","III",null,null,"ref",3047,"Subjekt",
   "vernunft, subjektive/objektive"
+ ],
+ [
+  "Vernunft, subjektive/objektive","Subjekt/Objekt","IV","10","414","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","vernunft, subjektive/objektive"
+ ],
+ [
+  "Vernunft, subjektive/objektive","Vernunft; Verstand","VI","11","829","ref",3423,
+  "Vernunft; Verstand","vernunft, subjektive/objektive"
  ],
  ["Vernunft, technische","Technik","","10","948","ref",3139,"Technik","vernunft, technische"],
  ["Vernunft, transversale","Übergang","","11","32","ref",3253,"Übergang","vernunft, transversale"],
@@ -1563,7 +1593,7 @@ HWPH.put("r/76-65",
  ["Vernunftbegriff","Universalien","II","11","191","ref",3302,"Universalien","vernunftbegriff"],
  ["Vernunftbildung","Ästhetik","","1","575","ref",266,"Ästhetik, ästhetisch","vernunftbildung"],
  [
-  "Vernunfteinheit","Vernunft; Verstand","VII D",null,null,"ref",3423,"Vernunft; Verstand",
+  "Vernunfteinheit","Vernunft; Verstand","VII D 5",null,null,"ref",3423,"Vernunft; Verstand",
   "vernunfteinheit"
  ],
  [
@@ -1579,7 +1609,26 @@ HWPH.put("r/76-65",
   "vernunfterkenntnis"
  ],
  ["Vernunfterkenntnis","Kritik","II","4","1267","ref",1694,"Kritik","vernunfterkenntnis"],
- ["Vernunfterkenntnis","Logik","",null,null,"ref",1803,"Logik","vernunfterkenntnis"],
+ [
+  "Vernunfterkenntnis","Logik, dialektische","I","5","396","ref",1805,
+  "Logik, (spekulativ-)dialektische","vernunfterkenntnis"
+ ],
+ ["Vernunfterkenntnis","Offenbarung","II","6","1111","ref",2203,"Offenbarung","vernunfterkenntnis"],
+ ["Vernunfterkenntnis","Philosophie","IV E","7","715","ref",2353,"Philosophie","vernunfterkenntnis"],
+ ["Vernunfterkenntnis","Reflexion","","8","401","ref",2634,"Reflexion","vernunfterkenntnis"],
+ [
+  "Vernunfterkenntnis","Rest, metaphysischer","","8","924","ref",2696,"Rest, metaphysischer",
+  "vernunfterkenntnis"
+ ],
+ ["Vernunfterkenntnis","Selbst","II","9","298","ref",2820,"Selbst","vernunfterkenntnis"],
+ [
+  "Vernunfterkenntnis","Sittlichkeit; Sittenlehre","","9","909","ref",2903,
+  "Sittlichkeit; Sittenlehre","vernunfterkenntnis"
+ ],
+ [
+  "Vernunfterkenntnis","Vernunftwahrheiten/Tatsachenwahrheiten","","11","871","ref",3427,
+  "Vernunftwahrheiten/Tatsachenwahrheiten","vernunfterkenntnis"
+ ],
  ["Vernunftgebot","Neigung","","6","710","ref",2106,"Neigung","vernunftgebot"],
  ["Vernunftgesetz","Anlage","I (anthr.)","1","324","ref",151,"Anlage","vernunftgesetz"],
  [
@@ -1589,16 +1638,28 @@ HWPH.put("r/76-65",
  ["Vernunftgesetz","Naturrecht","IV 4","6","595","ref",2089,"Naturrecht","vernunftgesetz"],
  ["Vernunftgesetz","Norm","I","6","906f.","ref",2160,"Norm","vernunftgesetz"],
  ["Vernunftgesetz","Projektion","","7","1461","ref",2475,"Projektion","vernunftgesetz"],
- ["Vernunftgesetz","Urteil","",null,null,"ref",3355,"Urteil","vernunftgesetz"],
  [
-  "Vernunftgrund","Erkenntnis I (erk.)","","2","649","ref",796,"Erkennen, Erkenntnis",
-  "vernunftgrund"
+  "Vernunftgesetz","Urteil moralisches","I","11","468","ref",3357,"Urteil, moralisches",
+  "vernunftgesetz"
  ],
+ ["Vernunftgesetz","Wahrheit ewige","","12","143","ref",3528,"Wahrheit, ewige","vernunftgesetz"],
+ ["Vernunftglaube","Glaube","II","3","643","ref",1138,"Glaube","vernunftglaube"],
+ ["Vernunftgrund","Erkenntnis","I (erk.)","2","649","ref",796,"Erkennen, Erkenntnis","vernunftgrund"],
  [
-  "Vernunftgrund","Erklären II (wiss.)","","2","696f.","ref",801,"Erklären, Erklärung",
+  "Vernunftgrund","Erklären","II (wiss.)","2","696f.","ref",801,"Erklären, Erklärung",
   "vernunftgrund"
  ],
  ["Vernunftgrund","Idee","II A","4","73","ref",1361,"Idee","vernunftgrund"],
+ ["Vernunftgrund","Idee","II B","4","86","ref",1361,"Idee","vernunftgrund"],
+ ["Vernunftgrund","Lernen","I (päd.)","5","244","ref",1782,"Lernen","vernunftgrund"],
+ [
+  "Vernunftgrund","Supranatural","","10","673","ref",3088,"Supranatural; Supranaturalismus",
+  "vernunftgrund"
+ ],
+ [
+  "Vernunftgrund","Vernunft; Verstand","VII E","11","852","ref",3423,"Vernunft; Verstand",
+  "vernunftgrund"
+ ],
  ["Vernunftideal","Urbild","","11","355","ref",3339,"Urbild","vernunftideal"],
  [
   "Vernunftideal","Vernunft; Verstand","VI","11","824","ref",3423,"Vernunft; Verstand",
@@ -1676,14 +1737,22 @@ HWPH.put("r/76-65",
   "Vernunftreich","Zeitalter, goldenes","","12","1264","ref",3677,"Zeitalter, goldenes",
   "vernunftreich"
  ],
- ["Vernunftreligion","Religion","",null,null,"ref",2673,"Religion","vernunftreligion"],
+ ["Vernunftreligion","Religion, natürliche","",null,null,"ref",2673,"Religion","vernunftreligion"],
  [
   "Vernunftschluss","Vernunftschluss","","11","867–869","main",3426,"Vernunftschluß",
   "vernunftschluss"
  ],
  ["Vernunftschluss","Epichirem","",null,null,"see",769,"Epichirem","vernunftschluss"],
  ["Vernunftschluss","Schluss","",null,null,"see",2769,"Schluß","vernunftschluss"],
- ["Vernunftschluss","Verstandesschluss Vernunftseele","",null,null,"see",null,null,"vernunftschluss"],
+ ["Vernunftschluss","Verstandesschluss","",null,null,"see",3436,"Verstandesschluß","vernunftschluss"],
+ [
+  "Vernunftseele","Geistseele; Vernunftseele","",null,null,"ref",1039,"Geistseele, Vernunftseele",
+  "vernunftseele"
+ ],
+ ["Vernunftseele","Seele","IV","9","27","ref",2794,"Seele","vernunftseele"],
+ ["Vernunftseele","Seelenwagen","","9","111","ref",2800,"Seelenwagen","vernunftseele"],
+ ["Vernunftseele","Unsterblichkeit","II","11","279","ref",3323,"Unsterblichkeit","vernunftseele"],
+ ["Vernunftseele","Unsterblichkeit","III","11","284","ref",3323,"Unsterblichkeit","vernunftseele"],
  [
   "Vernunftstaat","Handelsstaat, geschlossener","(Fichte)",null,null,"ref",1220,
   "Handelsstaat, geschlossener","vernunftstaat"
@@ -1720,7 +1789,7 @@ HWPH.put("r/76-65",
  ],
  ["Vernunftwesen","Mensch","",null,null,"ref",1917,"Mensch","vernunftwesen"],
  [
-  "Vernunftwesen","Identitätssystem (Schelling)","","4","154","ref",1370,
+  "Vernunftwesen","Identitätssystem","(Schelling)","4","154","ref",1370,
   "Identitätssystem, Identität, Indifferenz","vernunftwesen"
  ],
  [
@@ -1770,19 +1839,19 @@ HWPH.put("r/76-65",
  ["Vernunftzweck","Zweck; Ziel","","12","1503","ref",3718,"Zweck; Ziel","vernunftzweck"],
  ["Verordnung","Gesetz","I (jur.)","3","489","ref",1105,"Gesetz","verordnung"],
  [
-  "Verpflichtung","Obligatio; Ars obligatoria I (eth.)","",null,null,"ref",2194,
-  "Obligatio, Ars obligatoria","verpflichtung"
+  "Verpflichtung","Obligatio; Ars","",null,null,"ref",2194,"Obligatio, Ars obligatoria",
+  "verpflichtung"
  ],
- ["Verpflichtung","Officium","",null,null,"ref",2207,"Officium","verpflichtung"],
- ["Verpflichtung","Pflicht","",null,null,"ref",2334,"Pflicht","verpflichtung"],
- ["Verpflichtung","Versprechen","",null,null,"ref",3435,"Versprechen","verpflichtung"],
- ["Verpflichtung","Vertrag","II (soz./pol.)","11","965","ref",3445,"Vertrag","verpflichtung"],
  ["Verrücktheit","Psychologie","","7","1611","ref",2511,"Psychologie","verrucktheit"],
  ["Verrücktheit","Torheit","","10","1295","ref",3207,"Torheit; Narrheit","verrucktheit"],
  ["Verrücktheit","Wahnsinn","","12","37f.","ref",3521,"Wahnsinn","verrucktheit"],
  ["Versachlichung","Versachlichung","","11","872–874","main",3428,"Versachlichung","versachlichung"],
  ["Versachlichung","Sachlichkeit","",null,null,"see",2731,"Sachlichkeit","versachlichung"],
- ["Versachlichung","Verdinglichung Versachlichung","",null,null,"see",null,null,"versachlichung"],
+ [
+  "Versachlichung","Verdinglichung","",null,null,"see",3391,"Verdinglichung; Vergegenständlichung",
+  "versachlichung"
+ ],
+ ["Versachlichung","Institution","","4","422","ref",1454,"Institution","versachlichung"],
  ["Versagen","Fehlleistung","",null,null,"ref",902,"Fehlleistung","versagen"],
  ["Versagen","Scheitern","",null,null,"ref",2759,"Scheitern","versagen"],
  ["Versagung","Entsagung","(Goethe)",null,null,"ref",753,"Entsagung","versagung"],
@@ -1832,23 +1901,36 @@ HWPH.put("r/76-65",
   "Unterscheiden; Unterscheidung","verschiedenheit"
  ],
  ["Verschiedenheit","Unterschied","",null,null,"see",3327,"Unterschied","verschiedenheit"],
- ["Verschiedenheit","Variation Verschiedenheit","",null,null,"see",null,null,"verschiedenheit"],
+ ["Verschiedenheit","Variation","",null,null,"see",858,"Exhaustion, Variation","verschiedenheit"],
+ [
+  "Verschiedenheit","Mannigfaltige, das","",null,null,"ref",1865,"Mannigfaltige, Mannigfaltigkeit",
+  "verschiedenheit"
+ ],
+ ["Verschiedenheit","Dasein","","2","17","ref",527,"Dasein","verschiedenheit"],
+ ["Verschiedenheit","Differenz","","2","236","ref",594,"Differenz","verschiedenheit"],
+ ["Verschiedenheit","Qualität","III","7","1778","ref",2544,"Qualität","verschiedenheit"],
+ ["Verschiedenheit","Vielheit","I","11","1047","ref",3462,"Vielheit","verschiedenheit"],
  [
   "Verschiedenheitsurteil","Verschiedenheit","","11","882","ref",3430,"Verschiedenheit",
   "verschiedenheitsurteil"
  ],
  [
-  "Verschlossenheit","Erschlossenheit (Heidegger) Verschlüsseln/Entschlüsseln","",null,null,"ref",
-  null,null,"verschlossenheit"
+  "Verschlossenheit","Erschlossenheit","(Heidegger)",null,null,"ref",815,
+  "Erschlossenheit, Erschließen","verschlossenheit"
  ],
- ["Verstellung","Verstellung","","11","939","main",3439,"Verstellung","verstellung"],
- ["Verschmelzung","Horizont","III",null,null,"ref",1310,"Horizont","verschmelzung"],
+ [
+  "Verschlüsseln/Entschlüsseln","Verstellung","","11","939","ref",3439,"Verstellung",
+  "verschlusseln/entschlusseln"
+ ],
+ ["Verschmelzung","Horizont","III 4 (ling.)","3","1202","ref",1310,"Horizont","verschmelzung"],
+ ["Verschmelzung","Symbiose","II (soz.)","10","708","ref",3092,"Symbiose","verschmelzung"],
+ ["Verschmelzung","Synechismus","(Peirce)","10","780","ref",3104,"Synechismus","verschmelzung"],
  [
   "Verschmelzung von Gedanken/Vorstellungen","Verschiebung; Verdichtung","",null,null,"ref",3429,
   "Verschiebung; Verdichtung","verschmelzung von gedanken/vorstellungen"
  ],
  [
-  "Verschmelzung von Gedanken/Vorstellungen","Erkenntnis II (psych.)","","2","672","ref",796,
+  "Verschmelzung von Gedanken/Vorstellungen","Erkenntnis","II (psych.)","2","672","ref",796,
   "Erkennen, Erkenntnis","verschmelzung von gedanken/vorstellungen"
  ],
  [
@@ -1874,7 +1956,10 @@ HWPH.put("r/76-65",
  ["Versenken","Einkehr","",null,null,"see",686,"Einkehr","versenken"],
  ["Versenken","Resignation","",null,null,"see",2693,"Resignation, resignieren","versenken"],
  ["Versenken","Unio mystica","",null,null,"see",3301,"Unio mystica","versenken"],
- ["Versenken","Vernichtung Versenkung","",null,null,"see",null,null,"versenken"],
+ ["Versenken","Vernichtung","",null,null,"see",3422,"Vernichtung; Vernichten","versenken"],
+ ["Versenkung","Yoga","",null,null,"ref",3668,"Yoga","versenkung"],
+ ["Versenkung","Philologie","","7","571","ref",2352,"Philologie","versenkung"],
+ ["Versenkung","Selbsterkenntnis","II","9","418","ref",2833,"Selbsterkenntnis","versenkung"],
  ["Versicherung","Versicherung","","11","889–891","main",3433,"Versicherung","versicherung"],
  ["Versicherung","Sicherheit","",null,null,"see",2881,"Sicherheit","versicherung"],
  ["Versicherung","Soziale Frage","",null,null,"see",2940,"Soziale Frage","versicherung"],
@@ -1887,6 +1972,24 @@ HWPH.put("r/76-65",
  ["Versinnlichung","Hypotypose","","3","1266","ref",1331,"Hypotypose","versinnlichung"],
  ["Versöhnlichkeit","Versöhnung","II (anthr.)","11","903","ref",3434,"Versöhnung","versohnlichkeit"],
  ["Versöhnung","Versöhnung","","11","891–904","main",3434,"Versöhnung","versohnung"],
+ ["Versöhnung","Genugtuung","",null,null,"see",1074,"Genugtuung (Satisfaktion)","versohnung"],
+ ["Versöhnung","Rechtfertigung","IV (theol.)",null,null,"see",2601,"Rechtfertigung","versohnung"],
+ ["Versöhnung","Schuld","",null,null,"see",2784,"Schuld","versohnung"],
+ ["Versöhnung","Stellvertretung","",null,null,"see",3017,"Stellvertretung","versohnung"],
+ ["Versöhnung","Wiedergutmachung","",null,null,"see",3615,"Wiedergutmachung","versohnung"],
+ ["Versöhnung","Entzweiung","",null,null,"see",765,"Entzweiung, entzweien","versohnung"],
+ ["Versöhnung","Geist","VIII",null,null,"see",1030,"Geist","versohnung"],
+ ["Versöhnung","Verzeihen","",null,null,"see",3457,"Verzeihen; Vergeben","versohnung"],
+ ["Versöhnung","Herz","","3","1110f.","ref",1265,"Herz","versohnung"],
+ ["Versöhnung","Kult","","4","1305","ref",1700,"Kult","versohnung"],
+ ["Versöhnung","Landschaft","III (ästh.)","5","25","ref",1726,"Landschaft","versohnung"],
+ ["Versöhnung","Streit","I (allg.)","10","298","ref",3039,"Streit","versohnung"],
+ [
+  "Versöhnung","Theologie der Befreiung","","10","1097","ref",3170,
+  "Theologie der Befreiung; Theologie der Revolution","versohnung"
+ ],
+ ["Versöhnung","Tragische, das","","10","1339f.","ref",3214,"Tragische, das","versohnung"],
+ ["Versöhnung","Vermittlung","","11","724","ref",3417,"Vermittlung","versohnung"],
  [
   "Versöhnung des Rechts mit sich selbst","Strafe","III 3","10","232","ref",3035,"Strafe",
   "versohnung des rechts mit sich selbst"
@@ -1984,7 +2087,15 @@ HWPH.put("r/76-65",
   "verstandesbegriffe"
  ],
  ["Verstandesbegriffe","Universalien","II","11","191","ref",3302,"Universalien","verstandesbegriffe"],
- ["Verstandesding","Gedankending Verstandeslosigkeit","",null,null,"ref",null,null,"verstandesding"],
+ [
+  "Verstandesding","Gedankending","",null,null,"ref",1000,"Gedankending (ens rationis)",
+  "verstandesding"
+ ],
+ [
+  "Verstandeslosigkeit","Subjekt/Objekt","V","10","426","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","verstandeslosigkeit"
+ ],
+ ["Verstandesmetaphysik","Scholastik","","8","1339","ref",2775,"Scholastik","verstandesmetaphysik"],
  [
   "Verstandesphilosophie","Reflexionsphilosophie","",null,null,"ref",2636,"Reflexionsphilosophie",
   "verstandesphilosophie"
@@ -2004,8 +2115,12 @@ HWPH.put("r/76-65",
  ],
  ["Verstandesschluss","Vernunftschluss","",null,null,"see",3426,"Vernunftschluß","verstandesschluss"],
  [
-  "Verstandesschluss","Wahrscheinlichkeitsschluss Verstandesschluss","",null,null,"see",null,null,
-  "verstandesschluss"
+  "Verstandesschluss","Wahrscheinlichkeitsschluss","",null,null,"see",3542,
+  "Wahrscheinlichkeitsschluß","verstandesschluss"
+ ],
+ [
+  "Verstandesschluss","Regressus/Progressus in infinitum","","8","488","ref",2650,
+  "Regressus/progressus in infinitum","verstandesschluss"
  ],
  ["Verstandesstaat","Notstaat; Verstandesstaat","",null,null,"ref",null,null,"verstandesstaat"],
  [
@@ -2022,8 +2137,20 @@ HWPH.put("r/76-65",
   "verstandeswelt"
  ],
  [
-  "Verstandeswissenschaft von Gott","Religion","",null,null,"ref",2673,"Religion",
-  "verstandeswissenschaft von gott"
+  "Verstandeswissenschaft von Gott","Religion, natürliche bzw. vernünftige","","8","725","ref",2674,
+  "Religion","verstandeswissenschaft von gott"
+ ],
+ ["Verstehen","Verstehen","","11","918–938","main",3438,"Verstehen","verstehen"],
+ ["Verstehen","Einfühlung","",null,null,"see",681,"Einfühlung","verstehen"],
+ ["Verstehen","Erklären","",null,null,"see",801,"Erklären, Erklärung","verstehen"],
+ ["Verstehen","Hermeneutik","",null,null,"see",1255,"Hermeneutik","verstehen"],
+ ["Verstehen","Nacherleben","",null,null,"see",2058,"Nacherleben","verstehen"],
+ ["Verstehen","Unverständlichkeit","",null,null,"see",3333,"Unverständlichkeit","verstehen"],
+ ["Verstehen","Verständigung","",null,null,"see",3437,"Verständigung","verstehen"],
+ ["Verstehen","Vorverständnis","",null,null,"see",3508,"Vorverständnis","verstehen"],
+ [
+  "Verstehen","Zirkel, hermeneutischer","",null,null,"see",3696,"Zirkel, hermeneutischer",
+  "verstehen"
  ],
  ["Verstehen","Wirkungsgeschichte","",null,null,"ref",3629,"Wirkungsgeschichte","verstehen"],
  ["Verstehen","Erleben; Erlebnis","","2","707","ref",804,"Erleben, Erlebnis","verstehen"],
@@ -2045,15 +2172,27 @@ HWPH.put("r/76-65",
   "verstehen, existenziales"
  ],
  [
-  "Verstehen, glaubendes","Anknüpfung Verstehen, szenisches","",null,null,"ref",null,null,
+  "Verstehen, glaubendes","Anknüpfung","",null,null,"ref",150,"Anknüpfung, Anknüpfungspunkt",
   "verstehen, glaubendes"
+ ],
+ [
+  "Verstehen, szenisches","Psychoanalyse","II","7","1578","ref",2506,"Psychoanalyse",
+  "verstehen, szenisches"
  ],
  [
   "Verstehen, vorgängiges","Vorverständnis","","11","1268","ref",3508,"Vorverständnis",
   "verstehen, vorgangiges"
  ],
  [
-  "verstehende Psychologie","Psychologie","",null,null,"ref",2511,"Psychologie",
+  "verstehende Psychologie","Psychologie, geisteswissenschaftliche","",null,null,"ref",2511,
+  "Psychologie","verstehende psychologie"
+ ],
+ [
+  "verstehende Psychologie","Psychologie, objektive","","7","1663","ref",2517,
+  "Psychologie, objektive","verstehende psychologie"
+ ],
+ [
+  "verstehende Psychologie","Psychopathologie","II","7","1686","ref",2526,"Psychopathologie",
   "verstehende psychologie"
  ],
  [
@@ -2067,18 +2206,32 @@ HWPH.put("r/76-65",
  ["Verstellung","Mentalreservation","",null,null,"see",1927,"Mentalreservation","verstellung"],
  ["Verstellung","Simulation","",null,null,"see",2886,"Simulation","verstellung"],
  ["Verstiegenheit","Verschrobenheit","","11","886","ref",3431,"Verschrobenheit","verstiegenheit"],
- ["Verstocktheit","Subjekt","",null,null,"ref",3047,"Subjekt","verstocktheit"],
  [
-  "Verblendung","Verblendung","",null,null,"main",3383,"Verblendung; Verblendungszusammenhang",
-  "verblendung"
+  "Verstocktheit","Subjekt/Objekt","I","10","404","ref",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "verstocktheit"
  ],
- ["Verblendung","Phänomenologie","III","7","500","ref",2343,"Phänomenologie","verblendung"],
+ ["Verstockung","Verstockung","","11","942–948","main",3440,"Verstockung","verstockung"],
+ ["Verstockung","Fall; Abfall","",null,null,"see",890,"Fall, Abfall","verstockung"],
+ [
+  "Verstockung","Verblendung","",null,null,"see",3383,"Verblendung; Verblendungszusammenhang",
+  "verstockung"
+ ],
+ ["Verstockung","Verdammung","",null,null,"see",3389,"Verdammung; Verwerfung","verstockung"],
+ [
+  "Verstrickung","Verblendung","",null,null,"ref",3383,"Verblendung; Verblendungszusammenhang",
+  "verstrickung"
+ ],
+ ["Verstrickung","Phänomenologie","III","7","500","ref",2343,"Phänomenologie","verstrickung"],
  ["Versuch","Experiment","",null,null,"ref",873,"Experiment","versuch"],
  [
   "Versuch und Irrtum","Versuch und Irrtum","","11","949–951","main",3441,"Versuch und Irrtum",
   "versuch und irrtum"
  ],
- ["Versuch und Irrtum","Rationalismus","",null,null,"see",2574,"Rationalismus","versuch und irrtum"],
+ [
+  "Versuch und Irrtum","Rationalismus, kritischer","(Popper)",null,null,"see",2575,
+  "Rationalismus, Kritischer","versuch und irrtum"
+ ],
+ ["Versuch und Irrtum","Widerlegung","",null,null,"see",3605,"Widerlegung","versuch und irrtum"],
  ["Versuch und Irrtum","Denken","I","2","99","ref",552,"Denken","versuch und irrtum"],
  ["Versuch und Irrtum","Einfall","","2","391f.","ref",678,"Einfall","versuch und irrtum"],
  [
@@ -2121,6 +2274,17 @@ HWPH.put("r/76-65",
  ["Vertrag","Vertrag","","11","962–983","main",3445,"Vertrag","vertrag"],
  ["Vertrag","Treue","",null,null,"see",3226,"Treue","vertrag"],
  ["Vertrag","Versprechen","",null,null,"see",3435,"Versprechen","vertrag"],
+ [
+  "Vertrag","Gesellschaftsvertrag; Herrschaftsvertrag","",null,null,"see",1104,
+  "Gesellschaftsvertrag, Herrschaftsvertrag","vertrag"
+ ],
+ ["Vertrag","Gesetz","I (jur.)",null,null,"see",1105,"Gesetz","vertrag"],
+ ["Vertrag","Verheissung","",null,null,"see",3407,"Verheißung","vertrag"],
+ ["Vertrag","Konvention","III (jur.)",null,null,"ref",1651,"Konvention","vertrag"],
+ ["Vertrag","Haus","I","3","1012f.","ref",1229,"Haus","vertrag"],
+ ["Vertrag","Konvention","I (eth.)","4","1071","ref",1651,"Konvention","vertrag"],
+ ["Vertrag","Pflicht","","7","423","ref",2334,"Pflicht","vertrag"],
+ ["Vertrag","Rechtsphilosophie","","8","320f.","ref",2614,"Rechtsphilosophie","vertrag"],
  ["Vertrauen","Vertrauen","","11","986–990","main",3447,"Vertrauen","vertrauen"],
  ["Vertrauen","Glaube","",null,null,"see",1138,"Glaube","vertrauen"],
  ["Vertrauen","Pistis","",null,null,"see",2379,"Pistis","vertrauen"],
@@ -2136,7 +2300,7 @@ HWPH.put("r/76-65",
   "vertu, malheurs de la"
  ],
  [
-  "vertu publique","Despotie I (allg.)","","2","138","ref",571,"Despotie, Despotismus",
+  "vertu publique","Despotie","I (allg.)","2","138","ref",571,"Despotie, Despotismus",
   "vertu publique"
  ],
  [
@@ -2175,6 +2339,10 @@ HWPH.put("r/76-65",
  ["Vervollkommnung","Religion","VI","8","664","ref",2673,"Religion","vervollkommnung"],
  ["Vervollkommnung","Vollkommenheit","","11","1119","ref",3482,"Vollkommenheit","vervollkommnung"],
  [
+  "Vervollkommnung, allseitige","Persönlichkeit, allseitige","","7","355","ref",2323,
+  "Persönlichkeit, allseitige","vervollkommnung, allseitige"
+ ],
+ [
   "Vervollkommnung des Menschengeschlechts","Fortschritt","",null,null,"ref",942,"Fortschritt",
   "vervollkommnung des menschengeschlechts"
  ],
@@ -2183,7 +2351,14 @@ HWPH.put("r/76-65",
   "Verwaltung; Bürokratie","verwaltung; burokratie"
  ],
  ["Verwaltung; Bürokratie","Amt","I (pol.)",null,null,"see",120,"Amt","verwaltung; burokratie"],
- ["Verwaltung; Bürokratie","Polizei","",null,null,"see",2399,"Polizei","verwaltung; burokratie"],
+ [
+  "Verwaltung; Bürokratie","Polizei; Polizeiwissenschaft","",null,null,"see",2399,"Polizei",
+  "verwaltung; burokratie"
+ ],
+ [
+  "Verwaltung, staatswirtschaftliche","Nationalökonomie","","6","418","ref",2072,"Nationalökonomie",
+  "verwaltung, staatswirtschaftliche"
+ ],
  [
   "Verwaltung von Sachen","Herrschaft","I (allg.)","3","1085","ref",1261,"Herrschaft",
   "verwaltung von sachen"
@@ -2211,10 +2386,13 @@ HWPH.put("r/76-65",
   "verwandtschaft (ling.)"
  ],
  [
-  "Verwandtschaft der Dinge","Noologie Verwandtschaft der Sprachen","",null,null,"ref",null,null,
+  "Verwandtschaft der Dinge","Noologie","",null,null,"ref",2159,"Noologie, noologisch",
   "verwandtschaft der dinge"
  ],
- ["Verwandtschaft","Verwandtschaft","","11","992","main",3449,"Verwandtschaft","verwandtschaft"],
+ [
+  "Verwandtschaft der Sprachen","Verwandtschaft","","11","992","ref",3449,"Verwandtschaft",
+  "verwandtschaft der sprachen"
+ ],
  [
   "Verwandtschaftsselektion","Soziobiologie","","9","1264","ref",2956,"Soziobiologie",
   "verwandtschaftsselektion"
@@ -2251,30 +2429,27 @@ HWPH.put("r/76-65",
   "verstockung"
  ],
  ["Verweilen","Nunc stans","",null,null,"ref",2176,"Nunc stans","verweilen"],
- ["Verweilen","Schweigen; Stille A","","8","1483","ref",2787,"Schweigen, Stille","verweilen"],
+ ["Verweilen","Schweigen; Stille","A","8","1483","ref",2787,"Schweigen, Stille","verweilen"],
  [
-  "Verweisung (Heidegger)","Verweisung (Heidegger)","","11","1006f.","main",3452,
-  "Verweisung; Verweisungszusammenhang","verweisung (heidegger)"
+  "Verweisung","Verweisung","(Heidegger)","11","1006f.","main",3452,
+  "Verweisung; Verweisungszusammenhang","verweisung"
  ],
  [
-  "Verweisung (Heidegger)","Analytik des Daseins","(Heidegger)",null,null,"see",129,
-  "Analytik des Daseins","verweisung (heidegger)"
+  "Verweisung","Analytik des Daseins","(Heidegger)",null,null,"see",129,"Analytik des Daseins",
+  "verweisung"
+ ],
+ ["Verweisung","Vierung","(Heidegger)",null,null,"see",3463,"Vierung","verweisung"],
+ ["Verweisung","Zeug","(Heidegger)",null,null,"see",3691,"Zeug","verweisung"],
+ [
+  "Verweisung","Zuhandenheit/Vorhandenheit","(Heidegger)",null,null,"see",3707,
+  "Zuhandenheit/Vorhandenheit","verweisung"
  ],
  [
-  "Verweisung (Heidegger)","Vierung","(Heidegger)",null,null,"see",3463,"Vierung",
-  "verweisung (heidegger)"
- ],
- ["Verweisung (Heidegger)","Zeug","(Heidegger)",null,null,"see",3691,"Zeug","verweisung (heidegger)"],
- [
-  "Verweisung (Heidegger)","Zuhandenheit/Vorhandenheit","(Heidegger)",null,null,"see",3707,
-  "Zuhandenheit/Vorhandenheit","verweisung (heidegger)"
- ],
- [
-  "Verweisungsganzheit","Perspektive I (allg.)","","7","372","ref",2326,
+  "Verweisungsganzheit","Perspektive","I (allg.)","7","372","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","verweisungsganzheit"
  ],
  [
-  "Verweisungszusammenhang","Verweisung (Heidegger)","",null,null,"ref",3452,
+  "Verweisungszusammenhang","Verweisung","(Heidegger)",null,null,"ref",3452,
   "Verweisung; Verweisungszusammenhang","verweisungszusammenhang"
  ],
  [
@@ -2291,7 +2466,11 @@ HWPH.put("r/76-65",
  ],
  ["Verweltlichung","Säkularisierung","",null,null,"see",2738,"Säkularisierung","verweltlichung"],
  ["Verweltlichung","Welt","I",null,null,"see",3557,"Welt","verweltlichung"],
- ["Verwerfung","Verdammung Verwestlichung","",null,null,"ref",null,null,"verwerfung"],
+ ["Verwerfung","Verdammung","",null,null,"ref",3389,"Verdammung; Verwerfung","verwerfung"],
+ [
+  "Verwestlichung","Westen; Okzident","III (chin./jap.)","12","673","ref",3602,"Westen; Okzident",
+  "verwestlichung"
+ ],
  ["Verwindung","Überwindung","",null,null,"ref",3267,"Überwindung","verwindung"],
  [
   "Verwindung der Metaphysik","Seinsgeschichte","(Heidegger)","9","259f.","ref",2812,
@@ -2321,9 +2500,10 @@ HWPH.put("r/76-65",
   "verwirklichung der philosophie"
  ],
  [
-  "Verwirklichung des Selbst","Selbstverwirklichung Verwirrtheit","",null,null,"ref",null,null,
-  "verwirklichung des selbst"
+  "Verwirklichung des Selbst","Selbstverwirklichung","",null,null,"ref",2854,
+  "Selbstverwirklichung, Selbstaktualisierung","verwirklichung des selbst"
  ],
+ ["Verwirrtheit","Psychose","II","7","1695","ref",2528,"Psychose","verwirrtheit"],
  ["Verwirrung","Seelenruhe","I","9","95","ref",2797,"Seelenruhe","verwirrung"],
  ["Verwirrung","Selbstvergessenheit","","9","548","ref",2851,"Selbstvergessenheit","verwirrung"],
  [
@@ -2333,7 +2513,22 @@ HWPH.put("r/76-65",
  ["Verwöhnung","Über-Ich","","11","40","ref",3257,"Über-Ich","verwohnung"],
  ["verworren","Empfindung","I (erk.)",null,null,"ref",723,"Empfindung","verworren"],
  ["verworren","Vielheit","I","11","1046","ref",3462,"Vielheit","verworren"],
- ["verworren","Wahrheit","",null,null,"ref",3523,"Wahrheit","verworren"],
+ [
+  "verworren","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","verworren"
+ ],
+ ["Verworrenheit","Verworrenheit","","11","1014–1020","main",3456,"Verworrenheit","verworrenheit"],
+ ["Verworrenheit","Klar und deutlich","",null,null,"see",1571,"Klar und deutlich","verworrenheit"],
+ ["Verworrenheit","Unbestimmtheit","",null,null,"see",3285,"Unbestimmtheit","verworrenheit"],
+ [
+  "Verworrenheit","Unterscheiden; Unterscheidung","",null,null,"see",3326,
+  "Unterscheiden; Unterscheidung","verworrenheit"
+ ],
+ ["Verworrenheit","Vagheit","",null,null,"see",3370,"Vagheit; vage","verworrenheit"],
+ [
+  "Verwunderung","Staunen","",null,null,"ref",3015,"Staunen; Bewunderung; Verwunderung",
+  "verwunderung"
+ ],
  ["Verzeihen","Verzeihen","","11","1020–1026","main",3457,"Verzeihen; Vergeben","verzeihen"],
  ["Verzeihen","Rechtfertigung","IV (theol.)",null,null,"see",2601,"Rechtfertigung","verzeihen"],
  ["Verzeihen","Reue","",null,null,"see",2702,"Reue","verzeihen"],
@@ -2376,9 +2571,6 @@ HWPH.put("r/76-65",
  ["vesaniae","Neurose","I","6","761","ref",2124,"Neurose","vesaniae"],
  ["vestigium","Spur","",null,null,"ref",2997,"Spur","vestigium"],
  ["vestigium","Selbsterkenntnis","II","9","416","ref",2833,"Selbsterkenntnis","vestigium"],
- ["Verstehen","Verstehen","","11","923","main",3438,"Verstehen","verstehen"],
- ["Versöhnung","Versöhnung","I (theol.)","11","893","main",3434,"Versöhnung","versohnung"],
- ["Versöhnung","Zorn","II","12","1386ff.","ref",3702,"Zorn","versohnung"],
  [
   "Vec Miloš","Zeremonie; Zeremonialwissenschaft","","12","1301–1305","author",3688,
   "Zeremonie; Zeremonialwissenschaft","vec milos"

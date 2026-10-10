@@ -19,8 +19,7 @@ HWPH.put("a/225",
  "outlinks":[],
  "register":[
   {"term":"equifinality","qualifier":"","band":null,"col":null},
-  {"term":"System, offenes","qualifier":"","band":"1","col":"477"},
-  {"term":"– II (biol.) 2 507–509 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"System, offenes","qualifier":"","band":"1","col":"477"}
  ],
  "persons":[
   {"id":1570,"name":"L. v. Bertalanffy","b":1,"n":1,"l":1,"editor":0,"role":"source"},

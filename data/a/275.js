@@ -17,11 +17,11 @@ HWPH.put("a/275",
  "next":{"id":276,"lemma":"Atheismus","band":"1","col":595},
  "backlinks":[{"id":3161,"lemma":"Thanatismus","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Athanatismus","qualifier":"(Haeckel)","band":null,"col":null}],
  "persons":[{"id":263,"name":"E. Haeckel","b":1,"n":0,"l":0,"editor":0,"role":"source"}],
  "mentions":[],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Nieke Wolfgang","n":18}]
 }
 );

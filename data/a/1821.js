@@ -27,8 +27,7 @@ HWPH.put("a/1821",
  "outlinks":[{"id":1193,"lemma":"Grundlagenstreit","n":1}],
  "register":[
   {"term":"Erfahrung, reine","qualifier":"","band":"5","col":"483"},
-  {"term":"Logismus","qualifier":"","band":null,"col":null},
-  {"term":"– III (log./math.) 4 543f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Logismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":31,"name":"W. Wundt","b":1,"n":2,"l":0,"editor":0,"role":"source"},

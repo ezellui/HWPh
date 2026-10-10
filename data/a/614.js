@@ -43,7 +43,10 @@ HWPH.put("a/614",
   {"id":666,"lemma":"Eigenschaft","tf":4},
   {"id":2668,"lemma":"Relation","tf":2}
  ],
- "see_also":[{"id":388,"lemma":"Beobachtungssprache/theoretische Sprache"}],
+ "see_also":[
+  {"id":388,"lemma":"Beobachtungssprache/theoretische Sprache"},
+  {"id":1628,"lemma":"Konstitutionssystem, Konstitutionstheorie"}
+ ],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Dispositionsbegriff (Carnap)"}],
  "reg_authors":[{"name":"Brockhaus Klaus","n":5}]
 }

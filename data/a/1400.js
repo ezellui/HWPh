@@ -26,6 +26,6 @@ HWPH.put("a/1400",
  "mentions":[],
  "see_also":[{"id":1399,"lemma":"Implikation"}],
  "groups":[{"id":22,"name":"Logik","label":"Implikator"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

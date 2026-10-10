@@ -21,7 +21,7 @@ HWPH.put("a/990",
  "next":{"id":991,"lemma":"Gattung, Genus","band":"3","col":24},
  "backlinks":[],
  "outlinks":[{"id":987,"lemma":"Ganzheit","n":1},{"id":989,"lemma":"Ganzheitspsychologie","n":1}],
- "register":[{"term":"– I (psych.) 3 20 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"übersummativ","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":399,"name":"F. Krueger","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":311,"name":"W. Metzger","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

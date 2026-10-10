@@ -18,7 +18,7 @@ HWPH.put("a/1220",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Einzige, der","qualifier":"(Fichte)","band":"3","col":"996"},
+  {"term":"Eigentum","qualifier":"(Fichte)","band":"3","col":"996"},
   {"term":"geschlossener Handelsstaat","qualifier":"(Fichte)","band":null,"col":null},
   {"term":"Vernunftstaat","qualifier":"(Fichte)","band":null,"col":null}
  ],

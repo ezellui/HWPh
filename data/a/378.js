@@ -47,6 +47,6 @@ HWPH.put("a/378",
   {"id":3715,"lemma":"Zustimmung"}
  ],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Beifall"}],
- "reg_authors":[{"name":"Buck Günther","n":5},{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Buck Günther","n":5},{"name":"Menne Albert","n":62}]
 }
 );

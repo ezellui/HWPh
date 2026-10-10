@@ -23,11 +23,11 @@ HWPH.put("a/3317",
   {"id":2985,"lemma":"Sprache","n":1}
  ],
  "register":[
-  {"term":"Emanation","qualifier":"","band":"11","col":"257"},
+  {"term":"Eine, das","qualifier":"","band":"11","col":"257"},
   {"term":"ineffabilis","qualifier":"","band":null,"col":null},
   {"term":"Nicht-Sagbares","qualifier":"","band":null,"col":null},
   {"term":"sagbar","qualifier":"","band":null,"col":null},
-  {"term":"Sein; Seiendes","qualifier":"","band":"11","col":"259"},
+  {"term":"Sigetik","qualifier":"","band":"11","col":"259"},
   {"term":"überunaussprechlich","qualifier":"","band":"11","col":"258"},
   {"term":"unaussprechlich","qualifier":"","band":null,"col":null},
   {"term":"Ungenannte, das","qualifier":"","band":"11","col":"259"},

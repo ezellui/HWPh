@@ -35,9 +35,7 @@ HWPH.put("a/39",
   {"term":"Mittagsteufel","qualifier":"","band":"1","col":"73"},
   {"term":"Todsünde","qualifier":"","band":"1","col":"74"},
   {"term":"tristitia","qualifier":"","band":"1","col":"74"},
-  {"term":"ἀκηδία","qualifier":"","band":null,"col":null},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (anthr.) 12 1310–1315 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἀκηδία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1566,"name":"Joh. Cassianus","b":0,"n":4,"l":0,"editor":0,"role":"mixed"},

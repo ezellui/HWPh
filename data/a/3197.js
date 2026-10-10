@@ -45,9 +45,9 @@ HWPH.put("a/3197",
   {"id":3200,"lemma":"Todestrieb","n":1}
  ],
  "register":[
+  {"term":"Befreiung der Seele","qualifier":"","band":"10","col":"1231"},
   {"term":"Bejahung des Lebens","qualifier":"","band":"10","col":"1238"},
   {"term":"death","qualifier":"","band":null,"col":null},
-  {"term":"der Befreiung Befreiung der Seele","qualifier":"","band":"10","col":"1231"},
   {"term":"diminutio","qualifier":"","band":"10","col":"1232"},
   {"term":"Doppelnatur","qualifier":"","band":"10","col":"1231"},
   {"term":"involutio","qualifier":"","band":"10","col":"1232"},
@@ -65,6 +65,7 @@ HWPH.put("a/3197",
   {"term":"Sterblichkeit","qualifier":"","band":"10","col":"1236"},
   {"term":"Torheit des Lebens","qualifier":"","band":"10","col":"1230"},
   {"term":"Trennung der Seele vom Leib","qualifier":"","band":"10","col":"1229"},
+  {"term":"θάνατος","qualifier":"","band":null,"col":null},
   {"term":"σύνθητον ζω¸˜ ον","qualifier":"","band":"10","col":"1231f."},
   {"term":"σωμ͂α πνευματικόν","qualifier":"","band":"10","col":"1231"},
   {"term":"χωρισμὸς ψυχῆς ἀπὸσώματος","qualifier":"","band":"10","col":"1229f."},
@@ -296,7 +297,8 @@ HWPH.put("a/3197",
   {"id":3018,"lemma":"Sterben lernen"},
   {"id":3161,"lemma":"Thanatismus"},
   {"id":3200,"lemma":"Todestrieb"},
-  {"id":3323,"lemma":"Unsterblichkeit"}
+  {"id":3323,"lemma":"Unsterblichkeit"},
+  {"id":3401,"lemma":"Vergänglichkeit; Vergehen"}
  ],
  "groups":[{"id":2,"name":"Anthropologie","label":"Tod"}],
  "reg_authors":[{"name":"Hügli Anton","n":34}]

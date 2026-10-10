@@ -57,6 +57,6 @@ HWPH.put("a/1893",
  ],
  "see_also":[{"id":934,"lemma":"Form des Urteils"}],
  "groups":[{"id":22,"name":"Logik","label":"Materie des Urteils"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

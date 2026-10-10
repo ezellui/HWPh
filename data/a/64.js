@@ -17,7 +17,10 @@ HWPH.put("a/64",
  "next":{"id":65,"lemma":"Agrammatismus","band":"1","col":113},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"agonal","qualifier":"(Nietzsche)","band":null,"col":null},
+  {"term":"Wettkampf","qualifier":"(Nietzsche)","band":null,"col":null}
+ ],
  "persons":[
   {"id":1770,"name":"J. Huizinga","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},

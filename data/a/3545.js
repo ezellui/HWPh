@@ -39,8 +39,11 @@ HWPH.put("a/3545",
   {"id":3590,"lemma":"Wert/Preis","n":1}
  ],
  "register":[
+  {"term":"commodity","qualifier":"","band":null,"col":null},
   {"term":"Geldfetisch","qualifier":"","band":"12","col":"322"},
+  {"term":"Güter","qualifier":"","band":null,"col":null},
   {"term":"Kapitalfetisch","qualifier":"","band":"12","col":"322"},
+  {"term":"marchandise","qualifier":"","band":null,"col":null},
   {"term":"Warenfetischismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[

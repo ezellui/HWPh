@@ -19,7 +19,7 @@ HWPH.put("a/452",
  "outlinks":[{"id":2562,"lemma":"Radikal Böses","n":1}],
  "register":[
   {"term":"Bösesein","qualifier":"","band":"1","col":"954"},
-  {"term":"das 8 1414 Grausamkeit","qualifier":"","band":"1","col":"954"}
+  {"term":"Grausamkeit","qualifier":"","band":"1","col":"954"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},

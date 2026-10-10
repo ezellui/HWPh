@@ -17,11 +17,7 @@ HWPH.put("a/950",
  "next":{"id":951,"lemma":"Fremdpsychisch","band":"2","col":1104},
  "backlinks":[{"id":3625,"lemma":"Wir","n":1},{"id":3666,"lemma":"Xenologie; Wissenschaft vom Fremden","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"der","qualifier":"","band":null,"col":null},
-  {"term":"der 1 296f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"Ich, fremdes","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Ich, fremdes","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":21,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -40,7 +36,11 @@ HWPH.put("a/950",
   {"id":137,"lemma":"Andere","tf":3},
   {"id":1769,"lemma":"Leib, Körper","tf":3}
  ],
- "see_also":[{"id":137,"lemma":"Andere"}],
+ "see_also":[
+  {"id":137,"lemma":"Andere"},
+  {"id":949,"lemma":"Fremderfahrung"},
+  {"id":1484,"lemma":"Intersubjektivität"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Fremdich"},
   {"id":36,"name":"Psychologie","label":"Fremdich"}

@@ -1,0 +1,3 @@
+HWPH.put("p/3b4",
+{"δ":[["Δ","ir:;3t1 qt:;40d,2 7b:;1di,5e d:;za 13:;;af 3b:;3hu;1ap,z,e,17,e,o,s 31:;;3 1g:;;o 5c:;;r3 u:;;x,v 1:;x5;s,6n p:;2es,13,q 25:;;b,1d,w,r i:;1ym,ll 2i:;su 5q:;57,a,a,3a,2,3,2,6,7,p,3,2,3,5,4,2 ih:;8uw"],["δ","v:;m4 1y:;1db 6a:;5l,54 69:;13b,fz,3,6,ve,20,3v v:;b0w 32:;11 5k:;uh 4g:;6l,k,c 1b:;1r 5:;4fr 7c:;8q 1k:;96,2gz 1f:;5ft 1t:;1cm,9,1h,g,4d,7 5f:;9q x:;do,cc 55:;43 1f:;3g6 7g:;6l 2t:;;4i 22:;259 3d:;;9y,a 9:;2i9,84 n:;t,21,36,sy,9e,3v,2r,44 1n:;nh t:;so 1m:;1n t:;;1h q:;4v9 1y:;l8 u:;8n 2b:;mr,4hx 11:;6o,e h:;7w b:;2j8 2f:;;1en g:;1i 16:;6y,a c:;e7 12:;36 1f:;58 r:;vu 7:;2q 5:;es f:;7u1 x:;60,2o 5n:;c0 1v:;7k 1h:;xl"]]}
+);

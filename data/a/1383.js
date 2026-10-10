@@ -25,6 +25,6 @@ HWPH.put("a/1383",
  "mentions":[],
  "see_also":[{"id":1388,"lemma":"Image"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Ikonisch"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

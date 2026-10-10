@@ -21,9 +21,7 @@ HWPH.put("a/74",
   {"term":"acculturation","qualifier":"","band":null,"col":null},
   {"term":"culture change","qualifier":"","band":null,"col":null},
   {"term":"culture contact","qualifier":"","band":null,"col":null},
-  {"term":"Kulturwandel","qualifier":"","band":null,"col":null},
-  {"term":"– II (soz./kult.) 1 338f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (kult.) 1 547f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Kulturwandel","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1776,"name":"R. Thurnwald","b":1,"n":1,"l":0,"editor":0,"role":"source"},

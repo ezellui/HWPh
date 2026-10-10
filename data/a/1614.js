@@ -25,6 +25,6 @@ HWPH.put("a/1614",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Konjunktor"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

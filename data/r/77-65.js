@@ -1,70 +1,16 @@
 HWPH.put("r/77-65",
 [
  [
-  "Weltverachtung; Weltflucht","Weltverachtung; Weltflucht","","12","522","main",3579,
-  "Weltverachtung; Weltflucht","weltverachtung; weltflucht"
- ],
- [
-  "Weltverachtung; Weltflucht","Zueignung (Oikeiosis)","","12","1405","ref",3705,
-  "Zueignung (Oikeiosis)","weltverachtung; weltflucht"
- ],
- [
-  "Wesensdefinition","Wesensdefinition","II","12","653","main",3598,"Wesensdefinition",
-  "wesensdefinition"
- ],
- [
   "Weiblich/männlich","Weiblich/männlich","II","12","356","main",3552,"Weiblich/männlich",
   "weiblich/mannlich"
  ],
- [
-  "Weiblich/männlich","Weiblich/männlich","I","12","345","main",3552,"Weiblich/männlich",
-  "weiblich/mannlich"
- ],
- [
-  "Weltorientierung; Orientierung","Weltorientierung; Orientierung","","12","500","main",3573,
-  "Weltorientierung; Orientierung","weltorientierung; orientierung"
- ],
- [
-  "Weiblich/männlich","Weiblich/männlich","II","12","348","main",3552,"Weiblich/männlich",
-  "weiblich/mannlich"
- ],
- [
-  "Weltgeschichte","Weltgeschichte","","12","481","main",3567,"Weltgeschichte; Universalgeschichte",
-  "weltgeschichte"
- ],
+ ["Wesen des 1 1011","Übermensch","","11","46","ref",3261,"Übermensch","wesen des 1 1011"],
  ["Wertphilosophie","Wertphilosophie","",null,null,"main",3593,"Wertphilosophie","wertphilosophie"],
- ["Wesen","Wesen","III","12","636","main",3595,"Wesen","wesen"],
- ["Werk","Werk","","12","548","main",3586,"Werk","werk"],
- [
-  "Weiblich/männlich","Weiblich/männlich","II","12","354","main",3552,"Weiblich/männlich",
-  "weiblich/mannlich"
- ],
- [
-  "Werterziehung","Werterziehung","","12","601f.","main",3591,
-  "Werterziehung; moralische Erziehung; Moralpädagogik","werterziehung"
- ],
- ["Wertphilosophie","Wertphilosophie","",null,null,"main",3593,"Wertphilosophie","wertphilosophie"],
- ["Welträtsel","Welträtsel","",null,null,"main",3574,"Welträtsel","weltratsel"],
- [
-  "Weltende Untergegensätzlichkeit","Weltende Untergegensätzlichkeit","",null,null,"main",null,null,
-  "weltende untergegensatzlichkeit"
- ],
- [
-  "Wertewandel; Werteforschung","Wertewandel; Werteforschung","",null,null,"main",3592,
-  "Wertewandel; Werteforschung","wertewandel; werteforschung"
- ],
- [
-  "Werterziehung","Werterziehung","","12","603f.","main",3591,
-  "Werterziehung; moralische Erziehung; Moralpädagogik","werterziehung"
- ],
- ["Wert","Wert","VI","12","581","main",3588,"Wert","wert"],
- [
-  "Westen; Okzident","Westen; Okzident","III (chin./jap.)","12","673","main",3602,"Westen; Okzident",
-  "westen; okzident"
- ],
  ["weakness, moral","Willensschwäche","","12","805","ref",3623,"Willensschwäche","weakness, moral"],
  ["weakness of will","Willensschwäche","",null,null,"ref",3623,"Willensschwäche","weakness of will"],
- ["weariness","Überdruss Webersches Gesetz","",null,null,"ref",null,null,"weariness"],
+ ["weariness","Überdruss","",null,null,"ref",3249,"Überdruß","weariness"],
+ ["Webersches Gesetz","Ebenmerklich","",null,null,"ref",648,"Ebenmerklich","webersches gesetz"],
+ ["Webersches Gesetz","Fechnersches","",null,null,"ref",null,null,"webersches gesetz"],
  ["Wechsel","Wechsel","","12","333f.","main",3549,"Wechsel","wechsel"],
  ["Wechsel","Bewegung","",null,null,"see",408,"Bewegung","wechsel"],
  ["Wechsel","Variation","",null,null,"see",858,"Exhaustion, Variation","wechsel"],
@@ -72,7 +18,11 @@ HWPH.put("r/77-65",
  ["Wechsel","Wende","",null,null,"see",3582,"Wende","wechsel"],
  ["Wechsel","Werden/Vergehen","",null,null,"see",3585,"Werden/Vergehen","wechsel"],
  ["Wechselbegriffe","Äquipollenz","",null,null,"ref",226,"Äquipollenz","wechselbegriffe"],
- ["Wechselbestimmung","Subjekt","",null,null,"ref",3047,"Subjekt","wechselbestimmung"],
+ [
+  "Wechselbestimmung","Subjekt/Objekt","IV","10","417","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","wechselbestimmung"
+ ],
+ ["Wechselbestimmung","Wechselwirkung","","12","336","ref",3550,"Wechselwirkung","wechselbestimmung"],
  ["Wechselbeziehung","Korrelation","",null,null,"ref",1670,"Korrelation","wechselbeziehung"],
  [
   "wechselseitige Anerkennung","Herrschaft und Knechtschaft","","3","1092f.","ref",1262,
@@ -91,7 +41,7 @@ HWPH.put("r/77-65",
  ],
  ["Wechselwirkung","Anlass","","1","326","ref",152,"Anlaß","wechselwirkung"],
  [
-  "Wechselwirkung","Determinismus/ Indeterminismus I (met.)","","2","153","ref",575,
+  "Wechselwirkung","Determinismus/ Indeterminismus","I (met.)","2","153","ref",575,
   "Determinismus/Indeterminismus","wechselwirkung"
  ],
  ["Wechselwirkung","Dialektik","IV 3","2","201","ref",583,"Dialektik","wechselwirkung"],
@@ -150,17 +100,18 @@ HWPH.put("r/77-65",
  ],
  ["weiblich/männlich","Zeugung","","12","1330","ref",3693,"Zeugung","weiblich/mannlich"],
  [
-  "weiblich/männlich (ästh.)","Charakteristische","",null,null,"ref",487,"Charakteristische",
+  "weiblich/männlich (ästh.)","Charakteristische, das","","1","993","ref",487,"Charakteristische",
   "weiblich/mannlich (asth.)"
  ],
+ ["Weibsästhetik","Ästhetisch","","1","580","ref",267,"Ästhetisch","weibsasthetik"],
  ["we-identities","Wir","","12","817","ref",3625,"Wir","we-identities"],
  [
   "Weigerung, grosse","Verweigerung; Dissidenz","I",null,null,"ref",3451,"Verweigerung; Dissidenz",
   "weigerung, grosse"
  ],
  [
-  "Weigerung, grosse","Konformismus/Nonkonformismus","","4","958","ref",1610,
-  "Konformismus (Konformität)/Nonkonformismus","weigerung, grosse"
+  "Weigerung, grosse","Konformismus/Nonkonformismus","","4","958","ref",1611,"Konfuzianismus",
+  "weigerung, grosse"
  ],
  ["Weigerung, grosse","Psychoanalyse","II","7","1584","ref",2506,"Psychoanalyse","weigerung, grosse"],
  ["Weisheit","Weisheit","","12","371–397","main",3553,"Weisheit","weisheit"],
@@ -198,7 +149,8 @@ HWPH.put("r/77-65",
  ["Weissagung","Prophetie","",null,null,"see",2482,"Prophetie","weissagung"],
  ["Weissagung","Typos; Typologie","I (theol.)",null,null,"see",3244,"Typos; Typologie","weissagung"],
  ["Weissagung","Verheissung","",null,null,"see",3407,"Verheißung","weissagung"],
- ["Weissagung","Voraussage Weissagungsbeweis","",null,null,"see",null,null,"weissagung"],
+ ["Weissagung","Voraussage","",null,null,"see",3487,"Voraussage; Vorhersage; Prognose","weissagung"],
+ ["Weissagungsbeweis","Wunder","","12","1060","ref",3659,"Wunder","weissagungsbeweis"],
  ["weisses Papier","Abbildtheorie","","1","1","ref",18,"Abbildtheorie","weisses papier"],
  ["Weite der Welt","Repugnanz","I","8","881","ref",2689,"Repugnanz","weite der welt"],
  ["Weiterleben nach dem Tod","Leben","II","5","57","ref",1735,"Leben","weiterleben nach dem tod"],
@@ -289,20 +241,30 @@ HWPH.put("r/77-65",
   "Mundus intelligibilis/sensibilis","welt, intelligible"
  ],
  [
-  "Welt, kleine/grosse","Makrokosmos/Mikrokosmos","II",null,null,"ref",1849,
+  "Welt, kleine/grosse","Makrokosmos/Mikrokosmos","II 1",null,null,"ref",1849,
   "Makrokosmos/Mikrokosmos","welt, kleine/grosse"
  ],
  ["Welt, mögliche","Welt, mögliche","","12","443–446","main",3558,"Welt, mögliche","welt, mogliche"],
  ["Welt, mögliche","Kontingenz","III (log.)",null,null,"see",1637,"Kontingenz","welt, mogliche"],
  ["Welt, mögliche","Modallogik","",null,null,"see",1997,"Modallogik","welt, mogliche"],
  ["Welt, mögliche","Zeitlogik","",null,null,"see",3679,"Zeitlogik","welt, mogliche"],
- ["Welt, mögliche","Modell","",null,null,"ref",1999,"Modell","welt, mogliche"],
+ [
+  "Welt, mögliche","Modell; Modelltheorie","II (ling.)","6","53","ref",2000,"Modell, Modelltheorie",
+  "welt, mogliche"
+ ],
+ ["Welt, mögliche","Proposition","","7","1522","ref",2484,"Proposition","welt, mogliche"],
+ ["Welt, mögliche","Ursache/Wirkung","V","11","405","ref",3350,"Ursache/Wirkung","welt, mogliche"],
+ [
+  "Welt, mögliche","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","welt, mogliche"
+ ],
+ ["Welt, moralische","Welt","II","12","417ff.","ref",3557,"Welt","welt, moralische"],
  [
   "Welt, objektive","Intersubjektivität","(Husserl)","4","521","ref",1484,"Intersubjektivität",
   "welt, objektive"
  ],
  [
-  "Welt, private","Perspektive I (allg.)","","7","371","ref",2326,
+  "Welt, private","Perspektive","I (allg.)","7","371","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","welt, private"
  ],
  [
@@ -374,7 +336,7 @@ HWPH.put("r/77-65",
  ["Weltanfang","Ewigkeit der Welt","",null,null,"ref",855,"Ewigkeit der Welt","weltanfang"],
  ["Weltanschauung","Weltanschauung","","12","453–460","main",3560,"Weltanschauung","weltanschauung"],
  [
-  "Weltanschauung","Bewusstseinsstellung (Dilthey)","",null,null,"see",419,"Bewußtseinsstellung",
+  "Weltanschauung","Bewusstseinsstellung","(Dilthey)",null,null,"see",419,"Bewußtseinsstellung",
   "weltanschauung"
  ],
  ["Weltanschauung","Gedankensystem","",null,null,"see",1003,"Gedankensystem","weltanschauung"],
@@ -495,8 +457,12 @@ HWPH.put("r/77-65",
   "weltbild, anthropozentrisches"
  ],
  [
-  "Weltbild, geozentrisches","Geozentrisch Weltbild, kopernikanisches","",null,null,"ref",null,null,
-  "weltbild, geozentrisches"
+  "Weltbild, geozentrisches","Geozentrisch","",null,null,"ref",1082,
+  "Geozentrisch, geozentrisches Weltsystem","weltbild, geozentrisches"
+ ],
+ [
+  "Weltbild, kopernikanisches","Kopernikanische Wende","",null,null,"ref",1660,
+  "Kopernikanische Wende","weltbild, kopernikanisches"
  ],
  [
   "Weltbild, natürliches","Empiriokritizismus","","2","474","ref",725,"Empiriokritizismus",
@@ -531,7 +497,15 @@ HWPH.put("r/77-65",
   "Weltbürgerrecht","Kosmopolitismus","2","4","1161","ref",1677,"Kosmopolit, Kosmopolitismus",
   "weltburgerrecht"
  ],
- ["Weltdialektik","Logik","",null,null,"ref",1803,"Logik","weltdialektik"],
+ [
+  "Weltdialektik","Logik, dialektische","I","5","393","ref",1805,"Logik, (spekulativ-)dialektische",
+  "weltdialektik"
+ ],
+ [
+  "Welten, viele","Einwelttheorie/Mehrweltentheorie","",null,null,"ref",693,
+  "Einwelttheorie/Mehrweltentheorie","welten, viele"
+ ],
+ ["Welten, viele","Universum","","11","224","ref",3310,"Universum","welten, viele"],
  ["Weltende","Weltende","","12","464–469","main",3562,"Weltende; Weltuntergang","weltende"],
  ["Weltende","Apokalyptik","",null,null,"see",203,"Apokalyptik","weltende"],
  ["Weltende","Apokatastasis","",null,null,"see",204,"Apokatastasis","weltende"],
@@ -543,7 +517,7 @@ HWPH.put("r/77-65",
  ["Weltende","Naherwartung","",null,null,"ref",2062,"Naherwartung","weltende"],
  ["Weltende","Idee","II A 2","4","70","ref",1361,"Idee","weltende"],
  ["Weltende","Westen; Okzident","I (allg.)","12","663","ref",3602,"Westen; Okzident","weltende"],
- ["Weltentstehung","Idee","II A",null,null,"ref",1361,"Idee","weltentstehung"],
+ ["Weltentstehung","Idee","II A 1",null,null,"ref",1361,"Idee","weltentstehung"],
  ["Weltentstehung","Kosmogonie","",null,null,"ref",1675,"Kosmogonie","weltentstehung"],
  ["Welterkenntnis","Naturphilosophie","III","6","545","ref",2088,"Naturphilosophie","welterkenntnis"],
  [
@@ -600,13 +574,7 @@ HWPH.put("r/77-65",
   "Weltgelehrtheit","Universitätsphilosophie","(Schopenhauer)","11","218","ref",3309,
   "Universitätsphilosophie","weltgelehrtheit"
  ],
- ["Weltgericht","Gericht Gottes","",null,null,"ref",1084,"Gericht (Gottes)","weltgericht"],
- ["Weltgericht","Prozess I 4 (nat.)","","7","1551","ref",2499,"Prozeß","weltgericht"],
- ["Weltgericht","Verdammung","","11","601","ref",3389,"Verdammung; Verwerfung","weltgericht"],
- [
-  "Weltgericht","Weltgeschichte","","12","483","ref",3567,"Weltgeschichte; Universalgeschichte",
-  "weltgericht"
- ],
+ ["Weltgericht","Gericht","",null,null,"ref",1084,"Gericht (Gottes)","weltgericht"],
  [
   "Weltgeschichte","Weltgeschichte","","12","480–486","main",3567,
   "Weltgeschichte; Universalgeschichte","weltgeschichte"
@@ -645,7 +613,8 @@ HWPH.put("r/77-65",
   "welthilfssprache"
  ],
  ["Welthorizont","Generalthesis","(Husserl)",null,null,"ref",1063,"Generalthesis","welthorizont"],
- ["Welthorizont","Horizont","III",null,null,"ref",1310,"Horizont","welthorizont"],
+ ["Welthorizont","Horizont","III 2 (Husserl)","3","1201","ref",1310,"Horizont","welthorizont"],
+ ["Weltkenntnis","Anthropologie","","1","365","ref",175,"Anthropologie","weltkenntnis"],
  ["Weltkind","Phänomenologie","II (Husserl)","7","492","ref",2343,"Phänomenologie","weltkind"],
  ["weltklug","Klugheit","","4","862","ref",1575,"Klugheit","weltklug"],
  ["weltklug","Verstellung","","11","939","ref",3439,"Verstellung","weltklug"],
@@ -672,7 +641,7 @@ HWPH.put("r/77-65",
  ],
  ["Weltlichkeit","Mundan","(Husserl)",null,null,"ref",2037,"Mundan","weltlichkeit"],
  [
-  "Weltlichkeit","Verweisung (Heidegger)","",null,null,"ref",3452,
+  "Weltlichkeit","Verweisung","(Heidegger)",null,null,"ref",3452,
   "Verweisung; Verweisungszusammenhang","weltlichkeit"
  ],
  ["Weltlichkeit","Verweltlichung","",null,null,"ref",3453,"Verweltlichung","weltlichkeit"],
@@ -729,7 +698,7 @@ HWPH.put("r/77-65",
   "Weltplan","Weltgeschichte","","12","482","ref",3567,"Weltgeschichte; Universalgeschichte",
   "weltplan"
  ],
- ["Weltprozess","Prozess I 4 (nat.)","",null,null,"ref",2499,"Prozeß","weltprozess"],
+ ["Weltprozess","Prozess","I 4 (nat.)",null,null,"ref",2499,"Prozeß","weltprozess"],
  ["Welträtsel","Welträtsel","","12","507–510","main",3574,"Welträtsel","weltratsel"],
  [
   "Welträtsel","Ignoramus-ignorabimus","",null,null,"see",1382,"Ignoramus – ignorabimus",
@@ -749,7 +718,7 @@ HWPH.put("r/77-65",
  ],
  ["Weltrevolution","Revolution","","8","966f.","ref",2705,"Revolution","weltrevolution"],
  [
-  "Weltschema","Schema; Schematismus I (allg.)","","8","1255","ref",2760,"Schema, Schematismus",
+  "Weltschema","Schema; Schematismus","I (allg.)","8","1255","ref",2760,"Schema, Schematismus",
   "weltschema"
  ],
  ["Weltschmerz","Weltschmerz","","12","514–516","main",3577,"Weltschmerz","weltschmerz"],
@@ -795,7 +764,24 @@ HWPH.put("r/77-65",
  ["Weltstaat","Weltgesellschaft","",null,null,"ref",3568,"Weltgesellschaft","weltstaat"],
  ["Weltstaat","Völkerbund","","11","1092","ref",3473,"Völkerbund","weltstaat"],
  ["Weltsubstanz","Substanz","IV","10","541","ref",3062,"Substanz; Substanz/Akzidens","weltsubstanz"],
- ["Weltsyllogismus","Logik","",null,null,"ref",1803,"Logik","weltsyllogismus"],
+ [
+  "Weltsyllogismus","Logik, dialektische","I","5","393","ref",1805,
+  "Logik, (spekulativ-)dialektische","weltsyllogismus"
+ ],
+ [
+  "Weltsystem, geozentrisches","Geozentrisch","",null,null,"ref",1082,
+  "Geozentrisch, geozentrisches Weltsystem","weltsystem, geozentrisches"
+ ],
+ [
+  "Weltsystem, heliozentrisches","Heliozentrisch","",null,null,"ref",1244,
+  "Heliozentrisch, heliozentrisches Weltsystem","weltsystem, heliozentrisches"
+ ],
+ [
+  "Weltsystem, ptolemäisches","Ptolemäisch","",null,null,"ref",2533,
+  "Ptolemäisch, Ptolemäisches Weltsystem","weltsystem, ptolemaisches"
+ ],
+ ["Welttheater","Theatrum mundi","",null,null,"ref",3162,"Theatrum mundi","welttheater"],
+ ["Welttheater","Gott","VIII","3","761","ref",1162,"Gott","welttheater"],
  ["Welttragik","Pantragismus","","7","64","ref",2267,"Pantragismus","welttragik"],
  ["Weltüberwindung","Überwindung","","11","70","ref",3267,"Überwindung","weltuberwindung"],
  [
@@ -825,9 +811,11 @@ HWPH.put("r/77-65",
   "weltverachtung; weltflucht"
  ],
  [
-  "Weltverachtung; Weltflucht","Vergänglichkeit Weltverachtung","",null,null,"see",null,null,
+  "Weltverachtung; Weltflucht","Vergänglichkeit","",null,null,"see",3401,"Vergänglichkeit; Vergehen",
   "weltverachtung; weltflucht"
  ],
+ ["Weltverachtung","Grossmut","","3","889","ref",1189,"Großmut","weltverachtung"],
+ ["Weltverachtung","Philosophie","II B","7","624","ref",2353,"Philosophie","weltverachtung"],
  [
   "Weltverantwortung","Weltverantwortung","","12","527–531","main",3580,"Weltverantwortung",
   "weltverantwortung"
@@ -891,32 +879,36 @@ HWPH.put("r/77-65",
   "Wendigkeit, allseitige","Wendigkeit, allseitige","","12","538","main",3583,
   "Wendigkeit, allseitige","wendigkeit, allseitige"
  ],
- ["Wendigkeit, allseitige","Dialektik","IV",null,null,"see",583,"Dialektik","wendigkeit, allseitige"],
+ [
+  "Wendigkeit, allseitige","Dialektik","IV 5. 2",null,null,"see",583,"Dialektik",
+  "wendigkeit, allseitige"
+ ],
  [
   "Wendung gegen die eigene Person","Abwehrmechanismus","",null,null,"ref",36,"Abwehrmechanismus",
   "wendung gegen die eigene person"
  ],
- [
-  "wenn..., so","Genau dann, wenn..., so...","",null,null,"ref",1058,"Genau dann, wenn ..., so",
-  "wenn..., so"
- ],
- ["wenn..., so","Junktor","",null,null,"ref",1516,"Junktor","wenn..., so"],
+ ["wenn..., so","Genau dann, wenn","",null,null,"ref",1058,"Genau dann, wenn ..., so","wenn..., so"],
  ["Wenn-dann-Satz","Wenn-so-Satz","",null,null,"ref",3584,"Wenn-so-Satz","wenn-dann-satz"],
  ["Wenn-so-Satz","Wenn-so-Satz","","12","538–540","main",3584,"Wenn-so-Satz","wenn-so-satz"],
- ["Wenn-so-Satz","Implikation","",null,null,"see",1399,"Implikation","wenn-so-satz"],
- ["Wenn-so-Satz","Subjunktion werde der du bist","",null,null,"see",null,null,"wenn-so-satz"],
+ ["Wenn-so-Satz","Implikation","8",null,null,"see",1399,"Implikation","wenn-so-satz"],
+ ["Wenn-so-Satz","Subjunktion","",null,null,"see",3054,"Subjunktion; Subjunktor","wenn-so-satz"],
+ ["werde der du bist","Selbstsein","","9","520","ref",2847,"Selbstsein","werde der du bist"],
  [
   "Werden/Vergehen","Werden/Vergehen","","12","540–547","main",3585,"Werden/Vergehen",
   "werden/vergehen"
  ],
  ["Werden/Vergehen","Bewegung","",null,null,"see",408,"Bewegung","werden/vergehen"],
- ["Werden/Vergehen","Prozess II (Whitehead)","",null,null,"see",2499,"Prozeß","werden/vergehen"],
+ ["Werden/Vergehen","Prozess","II (Whitehead)",null,null,"see",2499,"Prozeß","werden/vergehen"],
  [
   "Werden/Vergehen","Vergänglichkeit","",null,null,"see",3401,"Vergänglichkeit; Vergehen",
   "werden/vergehen"
  ],
  ["Werden/Vergehen","Wachstum","",null,null,"see",3513,"Wachstum","werden/vergehen"],
- ["Werden/Vergehen","Wandel Werden","",null,null,"see",null,null,"werden/vergehen"],
+ ["Werden/Vergehen","Wandel","",null,null,"see",3543,"Wandel; Veränderung","werden/vergehen"],
+ ["Werden","Form und Materie","",null,null,"ref",939,"Form und Materie (Stoff)","werden"],
+ ["Werden","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens","werden"],
+ ["Werden","Natur","I","6","422","ref",2074,"Natur","werden"],
+ ["Werden","Privation","","7","1379f.","ref",2461,"Privation","werden"],
  ["Werdenskrise","Krise","III (psych.)","4","1243","ref",1691,"Krise","werdenskrise"],
  ["Werk","Werk","","12","547–553","main",3586,"Werk","werk"],
  ["Werk","Poiesis","",null,null,"see",2390,"Poiesis","werk"],
@@ -931,7 +923,7 @@ HWPH.put("r/77-65",
  ],
  ["Werkgerechtigkeit","Gerechtigkeit","",null,null,"see",1083,"Gerechtigkeit","werkgerechtigkeit"],
  [
-  "Werkgerechtigkeit","Lohn II (theol.)","",null,null,"see",1828,"Lohn, Verdienst",
+  "Werkgerechtigkeit","Lohn","II (theol.)",null,null,"see",1828,"Lohn, Verdienst",
   "werkgerechtigkeit"
  ],
  [
@@ -956,21 +948,15 @@ HWPH.put("r/77-65",
  ["Wert","Aktualwert","(Hartmann)",null,null,"see",88,"Aktualwert","wert"],
  ["Wert","Axiologie","",null,null,"see",339,"Axiologie","wert"],
  ["Wert","Gelten; Geltung","",null,null,"see",1044,"Gelten, Geltung","wert"],
- ["Wert","Gut; das Gute","",null,null,"see",1203,"Gut, das Gute, das Gut","wert"],
- ["Wert","Metaethik","",null,null,"see",1938,"Metaethik","wert"],
- ["Wert","Naturalismus, ethischer","",null,null,"see",2082,"Naturalismus, ethischer","wert"],
- ["Wert","Potentialwert","(Meinong)",null,null,"see",2422,"Potentialwert","wert"],
- ["Wert","Sollen","",null,null,"see",2920,"Sollen","wert"],
- ["Wert","Umwertung aller Werte","(Nietzsche)",null,null,"see",3279,"Umwertung aller Werte","wert"],
- ["Wert","Urteil, moralisches","II",null,null,"see",3357,"Urteil, moralisches","wert"],
- ["Wert","Wahrheitswert","",null,null,"see",3538,"Wahrheitswert","wert"],
- ["Wert","Wert (linguistisch)","",null,null,"see",3589,"Wert (linguistisch)","wert"],
- [
-  "Wert","Werterziehung","",null,null,"see",3591,
-  "Werterziehung; moralische Erziehung; Moralpädagogik","wert"
- ],
- ["Wert","Wertphilosophie","",null,null,"see",3593,"Wertphilosophie","wert"],
- ["Wert","Werturteil Wert","",null,null,"see",null,null,"wert"],
+ ["Wert","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","wert"],
+ ["Wert","Lebenskategorien","(Dilthey)","5","121","ref",1745,"Lebenskategorien","wert"],
+ ["Wert","Logik, transzendentale","","5","477","ref",1819,"Logik, transzendentale","wert"],
+ ["Wert","Negation; Negativität","II","6","682","ref",2101,"Negation, Negativität","wert"],
+ ["Wert","Norm","II","6","913f.","ref",2160,"Norm","wert"],
+ ["Wert","Objekt","","6","1047","ref",2183,"Objekt","wert"],
+ ["Wert","Sein; Seiendes","V 7","9","225","ref",2806,"Sein; Seiendes","wert"],
+ ["Wert","Vernunft; Verstand","VII D 1","11","842","ref",3423,"Vernunft; Verstand","wert"],
+ ["Wert","Wahrheit","V C","12","102","ref",3523,"Wahrheit","wert"],
  [
   "Wert (linguistisch)","Wert (linguistisch)","","12","583–586","main",3589,"Wert (linguistisch)",
   "wert (linguistisch)"
@@ -984,7 +970,7 @@ HWPH.put("r/77-65",
   "wert (linguistisch)"
  ],
  ["Wert/Preis","Wert/Preis","","12","586–591","main",3590,"Wert/Preis","wert/preis"],
- ["Wert/Preis","Lohn III (ökon.)","",null,null,"see",1828,"Lohn, Verdienst","wert/preis"],
+ ["Wert/Preis","Lohn","III (ökon.)",null,null,"see",1828,"Lohn, Verdienst","wert/preis"],
  ["Wert/Preis","Markt","",null,null,"see",1870,"Markt","wert/preis"],
  ["Wert/Preis","Mehrwert","",null,null,"see",1910,"Mehrwert","wert/preis"],
  [
@@ -992,7 +978,7 @@ HWPH.put("r/77-65",
   "Nutzen, Nützlichkeit, das Nützliche, nützlich","wert/preis"
  ],
  [
-  "Wert/Preis","Produktion II (ökon.)","",null,null,"see",2469,"Produktion, Produktivität",
+  "Wert/Preis","Produktion","II (ökon.)",null,null,"see",2469,"Produktion, Produktivität",
   "wert/preis"
  ],
  ["Wert/Preis","Tausch","",null,null,"see",3133,"Tausch","wert/preis"],
@@ -1000,7 +986,9 @@ HWPH.put("r/77-65",
   "Wert/Preis","Tauschwert/Gebrauchswert","",null,null,"see",3136,"Tauschwert/Gebrauchswert",
   "wert/preis"
  ],
- ["Wert/Preis","Ware Wert, innerer","",null,null,"see",null,null,"wert/preis"],
+ ["Wert/Preis","Ware","",null,null,"see",3545,"Ware; Warencharakter; Warenfetischismus","wert/preis"],
+ ["Wert, innerer","Menschenwürde","","5","1125","ref",1924,"Menschenwürde","wert, innerer"],
+ ["Wert, innerer","Versprechen","","11","907","ref",3435,"Versprechen","wert, innerer"],
  [
   "Wert, persönlicher/unpersönlicher","Potentialwert","(Meinong)","7","1166","ref",2422,
   "Potentialwert","wert, personlicher/unpersonlicher"
@@ -1068,7 +1056,7 @@ HWPH.put("r/77-65",
  ["Wertgefühl","Wert","III (phän.)","12","565f.","ref",3588,"Wert","wertgefuhl"],
  ["Wertgegensatz","Wert","II","12","561","ref",3588,"Wert","wertgegensatz"],
  [
-  "Wertheimer-Problem","Feld II (psych.)","","2","926","ref",904,"Feld, Feldtheorie",
+  "Wertheimer-Problem","Feld","II (psych.)","2","926","ref",904,"Feld, Feldtheorie",
   "wertheimer-problem"
  ],
  [
@@ -1086,7 +1074,7 @@ HWPH.put("r/77-65",
  ["Wertphilosophie","Axiologie","",null,null,"see",339,"Axiologie","wertphilosophie"],
  ["Wertpsychologie","Wert","II","12","562f.","ref",3588,"Wert","wertpsychologie"],
  [
-  "Wertrationalität","Rationalität II (ökon.)","","8","57","ref",2576,
+  "Wertrationalität","Rationalität","II (ökon.)","8","57","ref",2576,
   "Rationalität, Rationalisierung","wertrationalitat"
  ],
  [
@@ -1108,7 +1096,11 @@ HWPH.put("r/77-65",
  ["Werturteil","Urteil, moralisches","",null,null,"see",3357,"Urteil, moralisches","werturteil"],
  ["Werturteil","Gut; das Gute","IV","3","971","ref",1203,"Gut, das Gute, das Gut","werturteil"],
  ["Werturteil","Sollen","I","9","1039f.","ref",2920,"Sollen","werturteil"],
- ["Werturteilsstreit","Werturteil Wertverläufe","",null,null,"ref",null,null,"werturteilsstreit"],
+ [
+  "Werturteilsstreit","Werturteil","",null,null,"ref",3594,"Werturteil; Werturteilsstreit",
+  "werturteilsstreit"
+ ],
+ ["Wertverläufe","Mengenlehre","","5","1044f.","ref",1916,"Mengenlehre","wertverlaufe"],
  ["Wertwahrnehmung","Phänomenologie","III","7","499","ref",2343,"Phänomenologie","wertwahrnehmung"],
  ["Wertwissenschaft","Wertphilosophie","",null,null,"ref",3593,"Wertphilosophie","wertwissenschaft"],
  ["Wertwissenschaft","Wert","II","12","561","ref",3588,"Wert","wertwissenschaft"],
@@ -1128,7 +1120,7 @@ HWPH.put("r/77-65",
  ["Wesen","Washeit","",null,null,"see",3548,"Washeit","wesen"],
  ["Wesen","Wesensbegriff","",null,null,"see",3597,"Wesensbegriff","wesen"],
  ["Wesen","Wesensdefinition","",null,null,"see",3598,"Wesensdefinition","wesen"],
- ["Wesen","Dialektik","IV",null,null,"ref",583,"Dialektik","wesen"],
+ ["Wesen","Dialektik","IV 5. 3","2","210","ref",583,"Dialektik","wesen"],
  ["Wesen/Erscheinung","Phänomen","III","7","477","ref",2340,"Phänomen","wesen/erscheinung"],
  ["Wesen/Sosein","Sosein","","9","1100f.","ref",2931,"Sosein","wesen/sosein"],
  ["Wesen, absolutes","Religion","VII","8","680","ref",2673,"Religion","wesen, absolutes"],
@@ -1157,8 +1149,12 @@ HWPH.put("r/77-65",
  ],
  ["Wesen des Geistes","Verstehen","","11","924","ref",3438,"Verstehen","wesen des geistes"],
  [
-  "Wesen des Judentums","Judentum (Wesen des Judentums) Wesen des Menschen","",null,null,"ref",null,
-  null,"wesen des judentums"
+  "Wesen des Judentums","Judentum","(Wesen des Judentums)",null,null,"ref",1512,
+  "Judentum, Wesen des Judentums","wesen des judentums"
+ ],
+ [
+  "Wesen des Menschen","Menschheit; Menschengeschlecht","II","5","1133","ref",1925,
+  "Menschheit, Menschengeschlecht","wesen des menschen"
  ],
  ["Wesen des Menschen (ind.)","Brahman","",null,null,"ref",453,"Brahman","wesen des menschen (ind.)"],
  ["Wesenheit","Natura communis","",null,null,"ref",2078,"Natura communis","wesenheit"],
@@ -1202,7 +1198,7 @@ HWPH.put("r/77-65",
   "wesenseigenschaft (psych.)"
  ],
  [
-  "Wesenserkenntnis","Erkenntnis I (erk.)","","2","658","ref",796,"Erkennen, Erkenntnis",
+  "Wesenserkenntnis","Erkenntnis","I (erk.)","2","658","ref",796,"Erkennen, Erkenntnis",
   "wesenserkenntnis"
  ],
  ["Wesenserschauung","Universalien","II","11","193","ref",3302,"Universalien","wesenserschauung"],
@@ -1211,7 +1207,8 @@ HWPH.put("r/77-65",
   "Wesensform","Einheit und Vielheit der Wesensform","",null,null,"ref",684,
   "Einheit und Vielheit der Wesensform","wesensform"
  ],
- ["Wesensontologie","Ontologie","",null,null,"ref",2218,"Ontologie","wesensontologie"],
+ ["Wesensontologie","Ontologie","3b","6","1195","ref",2218,"Ontologie","wesensontologie"],
+ ["Wesensphilosophie","Essentialismus","",null,null,"ref",830,"Essentialismus","wesensphilosophie"],
  ["Wesensprädikation","Prädikation","I",null,null,"ref",2427,"Prädikation","wesenspradikation"],
  ["Wesensreich","Wesen","IV","12","642","ref",3595,"Wesen","wesensreich"],
  ["Wesensschau","Wesensschau","","12","655–659","main",3600,"Wesensschau","wesensschau"],
@@ -1246,8 +1243,8 @@ HWPH.put("r/77-65",
  ],
  ["Wesenszusammenhang","Wesen","IV","12","642","ref",3595,"Wesen","wesenszusammenhang"],
  [
-  "Wesenwille; Kürwille (Tönnies)","Wesenwille; Kürwille (Tönnies)","","12","659–661","main",3601,
-  "Wesenwille/Kürwille","wesenwille; kurwille (tonnies)"
+  "Wesenwille; Kürwille","Wesenwille; Kürwille","(Tönnies)","12","659–661","main",3601,
+  "Wesenwille/Kürwille","wesenwille; kurwille"
  ],
  ["Wesenwille/Kürwille","Sitte","","9","903","ref",2902,"Sitte","wesenwille/kurwille"],
  [
@@ -1262,17 +1259,16 @@ HWPH.put("r/77-65",
  ["Wettbewerb","Konkurrenz","",null,null,"ref",1617,"Konkurrenz","wettbewerb"],
  ["Wette","Wette","","12","675–678","main",3603,"Wette","wette"],
  ["Wette","Wahl, rationale","",null,null,"see",3518,"Wahl, rationale","wette"],
- ["Wettkampf","Agon (Nietzsche) Wettstreit","",null,null,"ref",null,null,"wettkampf"],
- ["Weltlinie","Weltlinie","",null,null,"main",3570,"Weltlinie","weltlinie"],
+ ["Wettkampf","Agon","(Nietzsche)",null,null,"ref",64,"Agon, agonal","wettkampf"],
+ ["Wettstreit","Streit","I (allg.)","10","297f.","ref",3039,"Streit","wettstreit"],
  [
   "Weltverantwortung","Weltverantwortung","",null,null,"main",3580,"Weltverantwortung",
   "weltverantwortung"
  ],
  [
-  "Weltorientierung; Orientierung","Weltorientierung; Orientierung","","12","504","main",3573,
-  "Weltorientierung; Orientierung","weltorientierung; orientierung"
+  "Weber Heinz-Dieter","Kritik; Literaturkritik","II","4","1285–1292","author",1695,
+  "Kritik, Literaturkritik","weber heinz-dieter"
  ],
- ["Weber Heinz-Dieter","Kritik","",null,null,"author",1694,"Kritik","weber heinz-dieter"],
  [
   "Weber Heinz-Dieter","Transzendentalpoesie","","10","1438f.","author",3221,"Transzendentalpoesie",
   "weber heinz-dieter"
@@ -1296,7 +1292,7 @@ HWPH.put("r/77-65",
  ["Weier Winfried","Hochmut","2","3","1151–1153","author",1286,"Hochmut","weier winfried"],
  [
   "Weiler Antonius Gerardus","Antiqui/moderni (via antiqua/via moderna)","","1","407–410","author",
-  188,"Antiqui/moderni (via antiqua/via moderna)","weiler antonius gerardus"
+  187,"Antiperístasis","weiler antonius gerardus"
  ],
  [
   "Weinacht Paul-Ludwig","Politik","II","7","1047–1056","author",2396,"Politik",
@@ -1386,7 +1382,7 @@ HWPH.put("r/77-65",
   "wellek albert"
  ],
  ["Wellek Albert","Komplex","","4","934f.","author",1600,"Komplex","wellek albert"],
- ["Wellek Albert","Komplex","",null,null,"author",1600,"Komplex","wellek albert"],
+ ["Wellek Albert","Komplex, der","","4","935–939","author",1601,"Komplex (der)","wellek albert"],
  ["Welt Thomas","Theophanie","","10","1116–1123","author",3177,"Theophanie","welt thomas"],
  ["Welt Thomas","Wo; wann","I","12","990–997","author",3649,"Wo; Wann","welt thomas"],
  ["Welter Rüdiger","Methode","V",null,null,"author",1955,"Methode","welter rudiger"],
@@ -1401,7 +1397,7 @@ HWPH.put("r/77-65",
   "Selbstzweck; Zweck an sich selbst","wenzel uwe justus"
  ],
  [
-  "Werschowetz Gerhard","Bewusstseinsstellung (Dilthey)","","1","902f.","author",419,
+  "Werschowetz Gerhard","Bewusstseinsstellung","(Dilthey)","1","902f.","author",419,
   "Bewußtseinsstellung","werschowetz gerhard"
  ],
  [
@@ -1428,7 +1424,7 @@ HWPH.put("r/77-65",
   "wewetzer karl hermann"
  ],
  [
-  "Wewetzer Karl Hermann","Intelligenz; Intellektueller VI (psych.)","","4","458–461","author",1464,
+  "Wewetzer Karl Hermann","Intelligenz; Intellektueller","VI (psych.)","4","458–461","author",1464,
   "Intelligenz, Intelligentsia, Intellektueller","wewetzer karl hermann"
  ],
  [

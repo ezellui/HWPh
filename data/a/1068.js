@@ -29,6 +29,6 @@ HWPH.put("a/1068",
  "mentions":[{"id":991,"lemma":"Gattung, Genus","tf":2},{"id":486,"lemma":"Charakter","tf":2}],
  "see_also":[{"id":2553,"lemma":"Quantität des Urteils"}],
  "groups":[{"id":22,"name":"Logik","label":"Generell"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

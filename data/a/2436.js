@@ -26,6 +26,8 @@ HWPH.put("a/2436",
   {"term":"Jesuitismus, epistemologischer","qualifier":"","band":"7","col":"1248"},
   {"term":"klar","qualifier":"","band":"7","col":"1246"},
   {"term":"Pluralismus","qualifier":"","band":"7","col":"1246f."},
+  {"term":"pragmaticism","qualifier":"","band":null,"col":null},
+  {"term":"Pragmatizismus","qualifier":"","band":null,"col":null},
   {"term":"Übersetzung","qualifier":"","band":"7","col":"1246"}
  ],
  "persons":[

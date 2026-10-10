@@ -18,12 +18,11 @@ HWPH.put("a/1343",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"empirischer Realismus","qualifier":"","band":null,"col":null},
-  {"term":"Erscheinung","qualifier":"","band":null,"col":null},
+  {"term":"empirischer Realismus","qualifier":"(Kant)","band":null,"col":null},
+  {"term":"Erscheinung","qualifier":"(Kant)","band":null,"col":null},
   {"term":"Idealismus der Freiheit (Dilthey)","qualifier":"","band":"4","col":"32"},
   {"term":"Realität der Aussenwelt","qualifier":"","band":"4","col":"32"},
-  {"term":"transzendentaler Idealismus","qualifier":"","band":null,"col":null},
-  {"term":"– II (erk.) 8 156–159 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"transzendentaler Idealismus","qualifier":"(Kant)","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":3,"n":2,"l":0,"editor":0,"role":"source"},
@@ -96,6 +95,6 @@ HWPH.put("a/1343",
   },
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Idealismus"}
  ],
- "reg_authors":[{"name":"Zeltner Hermann","n":6}]
+ "reg_authors":[{"name":"Zeltner Hermann","n":7}]
 }
 );

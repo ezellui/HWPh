@@ -52,7 +52,7 @@ HWPH.put("a/3405",
   {"term":"Scharfsinn","qualifier":"","band":"11","col":"679"},
   {"term":"tertium comparationis","qualifier":"","band":"11","col":"677"},
   {"term":"Topos","qualifier":"","band":"11","col":"678"},
-  {"term":"Urbanität","qualifier":"","band":"11","col":"679"}
+  {"term":"Witz","qualifier":"","band":"11","col":"679"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

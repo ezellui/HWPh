@@ -1,32 +1,14 @@
 HWPH.put("r/70-68",
 [
- ["Physiologie","Physiologie","","7","965","main",2373,"Physiologie","physiologie"],
- ["Philologie","Philologie","","7","561","main",2352,"Philologie","philologie"],
  ["Philosophie","Philosophie","VII B","7","871","main",2353,"Philosophie","philosophie"],
  ["Philosophie","Philosophie","I G","7","607","main",2353,"Philosophie","philosophie"],
  ["Philosophie","Philosophie","III A","7","657","ref",2353,"Philosophie","philosophie"],
- ["Philosophie","Philosophie","IV E","7","715","main",2353,"Philosophie","philosophie"],
- ["Philosophie","Selbsterkenntnis","III","9","430","ref",2833,"Selbsterkenntnis","philosophie"],
- ["philosophische 5 454","Topik","III","10","1284","ref",3203,"Topik; Topos","philosophische 5 454"],
- [
-  "philosophische 5 454","Vorgriff; Vorhabe; Vorsicht","(Heidegger)","11","1189","ref",3493,
-  "Vorgriff; Vorhabe; Vorsicht","philosophische 5 454"
- ],
- ["Phonologie","Phonologie","","7","928","main",2364,"Phonologie, Phonem","phonologie"],
- ["Philosophie","Philosophie","IV G","7","748","main",2353,"Philosophie","philosophie"],
  ["Philosophie","Philosophie","IV G","7","742","main",2353,"Philosophie","philosophie"],
- ["Philologie","Philologie","","7","557","main",2352,"Philologie","philologie"],
  ["Philosophie","Philosophie","IV C","7","704","main",2353,"Philosophie","philosophie"],
  ["Philosophie","Philosophie","II E","7","642","main",2353,"Philosophie","philosophie"],
- ["Philosophie","Philosophie","III A","7","659","main",2353,"Philosophie","philosophie"],
- [
-  "philosophische 5 452–461 Logik, produktive","Sprung","","9","1547","ref",2996,"Sprung",
-  "philosophische 5 452–461 logik, produktive"
- ],
  ["Philosophie","Philosophie","IV I","7","773","main",2353,"Philosophie","philosophie"],
  ["Philosophie","Philosophie","IV G","7","746","main",2353,"Philosophie","philosophie"],
- ["Philosophie","Philosophie","IV",null,null,"main",2353,"Philosophie","philosophie"],
- ["Philosophie","Philosophie","IV",null,null,"main",2353,"Philosophie","philosophie"],
+ ["Philosophie","Philosophie","IV L","7","795","main",2353,"Philosophie","philosophie"],
  ["Philosophy","Philosophy","II","6","1249","main",2233,"Ordnung","philosophy"],
  ["Philosophie","Philosophie","III A","7","658","main",2353,"Philosophie","philosophie"],
  ["Phän","Merkmal","III (biol.)",null,null,"ref",1930,"Merkmal","phan"],
@@ -114,18 +96,16 @@ HWPH.put("r/70-68",
   "phaenomenologia generalis","Phänomenologie","I 3","7","487","ref",2343,"Phänomenologie",
   "phaenomenologia generalis"
  ],
- [
-  "Phänomenologie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "phanomenologie s. auch"
- ],
+ ["Phänomenologie","Register der Sachgruppen","",null,null,"see",null,null,"phanomenologie"],
  ["Phänomenologie","Phänomenologie","","7","486–505","main",2343,"Phänomenologie","phanomenologie"],
  ["Phänomenologie","Philosophie","IV G",null,null,"see",2353,"Philosophie","phanomenologie"],
  ["Phänomenologie","Analyse/Synthese","","1","237","ref",126,"Analyse/Synthese","phanomenologie"],
  [
-  "Phänomenologie","Phaneroskopie (Peirce)","","7","461","ref",2339,"Phaneroskopie, Phaneron",
+  "Phänomenologie","Phaneroskopie","(Peirce)","7","461","ref",2339,"Phaneroskopie, Phaneron",
   "phanomenologie"
  ],
- ["Phänomenologie","Philosophie","IV",null,null,"ref",2353,"Philosophie","phanomenologie"],
+ ["Phänomenologie","Philosophie","IV K","7","791","ref",2353,"Philosophie","phanomenologie"],
+ ["Phänomenologie","Schein","I 3","8","1232","ref",2757,"Schein","phanomenologie"],
  [
   "Phänomenologie, existentielle","Phänomenologie","III","7","503","ref",2343,"Phänomenologie",
   "phanomenologie, existentielle"
@@ -234,14 +214,14 @@ HWPH.put("r/70-68",
   "phallogozentrisch"
  ],
  ["Phallus","Signifiant/signifié","II (psych.)","9","758","ref",2884,"Signifiant/signifié","phallus"],
- ["Phaneron","Phaneroskopie (Peirce) φανέρωσις","",null,null,"ref",null,null,"phaneron"],
+ ["Phaneron","Phaneroskopie","(Peirce)",null,null,"ref",2339,"Phaneroskopie, Phaneron","phaneron"],
  [
-  "Phaneroskopie (Peirce)","Phaneroskopie (Peirce)","","7","460f.","main",2339,
-  "Phaneroskopie, Phaneron","phaneroskopie (peirce)"
+  "Phaneroskopie","Phaneroskopie","(Peirce)","7","460f.","main",2339,"Phaneroskopie, Phaneron",
+  "phaneroskopie"
  ],
  [
-  "Phaneroskopie (Peirce)","Erstheit; Zweitheit; Drittheit (Peirce)","",null,null,"see",817,
-  "Erstheit, Zweitheit, Drittheit","phaneroskopie (peirce)"
+  "Phaneroskopie","Erstheit; Zweitheit; Drittheit","(Peirce)",null,null,"see",817,
+  "Erstheit, Zweitheit, Drittheit","phaneroskopie"
  ],
  ["Phantasia","Phantasia","","7","516–535","main",2348,"Phantasia","phantasia"],
  ["Phantasia","Einbildungskraft","",null,null,"see",673,"Einbildung, Einbildungskraft","phantasia"],
@@ -258,7 +238,7 @@ HWPH.put("r/70-68",
  ["Phantasie","Imagination","I",null,null,"ref",1389,"Imagination","phantasie"],
  ["Phantasie","Phantasia","I 4","7","521","ref",2348,"Phantasia","phantasie"],
  [
-  "Phantasie","Produktion III (ästh.)","","7","1433f.","ref",2469,"Produktion, Produktivität",
+  "Phantasie","Produktion","III (ästh.)","7","1433f.","ref",2469,"Produktion, Produktivität",
   "phantasie"
  ],
  ["Phantasie","Religion","VIII 2","8","686","ref",2673,"Religion","phantasie"],
@@ -304,8 +284,8 @@ HWPH.put("r/70-68",
   "phenomene accessoire/essentiel"
  ],
  [
-  "phénomène ambigu","Ambiguität II (Merleau-Ponty)","","1","203","ref",113,
-  "Ambiguität (Amphibolie)","phenomene ambigu"
+  "phénomène ambigu","Ambiguität","II (Merleau-Ponty)","1","203","ref",113,"Ambiguität (Amphibolie)",
+  "phenomene ambigu"
  ],
  [
   "phénoménologie de la phénoménologie","Reflexion","","8","402","ref",2634,"Reflexion",
@@ -371,6 +351,27 @@ HWPH.put("r/70-68",
  ["Philosoph","Philosophie","I B","7","578ff.","ref",2353,"Philosophie","philosoph"],
  ["Philosoph","Philosophie","I D","7","590","ref",2353,"Philosophie","philosoph"],
  ["Philosoph","Philosophie","I G","7","608","ref",2353,"Philosophie","philosoph"],
+ ["Philosoph","Philosophie","II B","7","624","ref",2353,"Philosophie","philosoph"],
+ ["Philosoph","Philosophie","II E","7","639","ref",2353,"Philosophie","philosoph"],
+ ["Philosoph","Philosophie","IV B","7","699ff.","ref",2353,"Philosophie","philosoph"],
+ ["Philosoph","Philosophie","IV G","7","743","ref",2353,"Philosophie","philosoph"],
+ ["Philosoph","Philosophie","IV I","7","766","ref",2353,"Philosophie","philosoph"],
+ ["Philosoph","Philosophie","IV K","7","788ff.","ref",2353,"Philosophie","philosoph"],
+ ["Philosoph","Popularphilosophie","","7","1097","ref",2404,"Popularphilosophie","philosoph"],
+ ["Philosoph","Prophetie","III","7","1479","ref",2482,"Prophetie","philosoph"],
+ ["Philosoph","Sprachanalyse","","9","1436","ref",2983,"Sprachanalyse","philosoph"],
+ ["Philosoph","Sterben lernen","","10","129f.","ref",3018,"Sterben lernen","philosoph"],
+ ["Philosoph","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik","philosoph"],
+ [
+  "Philosoph","Universitätsphilosophie","(Schopenhauer)","11","219","ref",3309,
+  "Universitätsphilosophie","philosoph"
+ ],
+ ["Philosoph","Unwissenheit","","11","345","ref",3335,"Unwissenheit","philosoph"],
+ ["Philosoph","Urphänomen","(Goethe)","11","375","ref",3349,"Urphänomen","philosoph"],
+ ["Philosoph","Wahrheitsähnlichkeit","","12","170f.","ref",3534,"Wahrheitsähnlichkeit","philosoph"],
+ ["Philosoph","Weisheit","","12","385","ref",3553,"Weisheit","philosoph"],
+ ["Philosoph","Weisheit","","12","391","ref",3553,"Weisheit","philosoph"],
+ ["Philosoph","Wissenschaft","III","12","939","ref",3635,"Wissenschaft","philosoph"],
  [
   "Philosophen/Heilige","Philosophie","II E","7","645","ref",2353,"Philosophie",
   "philosophen/heilige"
@@ -379,7 +380,7 @@ HWPH.put("r/70-68",
   "Philosophen, neue","Verweigerung; Dissidenz","III","11","1005","ref",3451,
   "Verweigerung; Dissidenz","philosophen, neue"
  ],
- ["Philosophenschule","Sekte","I",null,null,"ref",2818,"Sekte","philosophenschule"],
+ ["Philosophenschule","Sekte","I 1",null,null,"ref",2818,"Sekte","philosophenschule"],
  ["philosophes","Freidenker","","2","1062","ref",944,"Freidenker","philosophes"],
  [
   "philosophi naturales","Vorsokratiker","","11","1223","ref",3502,"Vorsokratisch; Vorsokratiker",
@@ -511,13 +512,16 @@ HWPH.put("r/70-68",
  ["philosophia monastica","Ethik","II","2","767","ref",835,"Ethik","philosophia monastica"],
  ["philosophia moralis","Ethik","",null,null,"ref",835,"Ethik","philosophia moralis"],
  [
-  "philosophia moralis","Moral; Moralphilosophie philosophia mosaica","",null,null,"ref",2022,
+  "philosophia moralis","Moral; Moralphilosophie","",null,null,"ref",2022,
   "Moral, moralisch, Moralphilosophie","philosophia moralis"
  ],
- ["Philosophie","Philosophie","IV A","7","684","main",2353,"Philosophie","philosophie"],
  [
-  "Philosophie","Philosophie, jüdische","","7","902","ref",2358,"Philosophie, jüdische",
-  "philosophie"
+  "philosophia mosaica","Philosophie","IV A","7","684","ref",2353,"Philosophie",
+  "philosophia mosaica"
+ ],
+ [
+  "philosophia mosaica","Philosophie, jüdische","","7","902","ref",2358,"Philosophie, jüdische",
+  "philosophia mosaica"
  ],
  ["philosophia mundana","Natur","II","6","444","ref",2074,"Natur","philosophia mundana"],
  [
@@ -589,7 +593,7 @@ HWPH.put("r/70-68",
   "philosophia saracenorum","Philosophie, arabische","",null,null,"ref",2355,
   "Philosophie, arabische","philosophia saracenorum"
  ],
- ["philosophia sectaria","Sekte","I",null,null,"ref",2818,"Sekte","philosophia sectaria"],
+ ["philosophia sectaria","Sekte","I 2",null,null,"ref",2818,"Sekte","philosophia sectaria"],
  ["philosophia sectaria","Sekte","I 1","9","275","ref",2818,"Sekte","philosophia sectaria"],
  [
   "philosophia sensibilium","Philosophie","IV B","7","697","ref",2353,"Philosophie",
@@ -640,6 +644,19 @@ HWPH.put("r/70-68",
  ],
  ["Philosophie","Weisheit","",null,null,"see",3553,"Weisheit","philosophie"],
  ["Philosophie","Weltweisheit","",null,null,"see",3581,"Weltweisheit","philosophie"],
+ ["Philosophie","Akademie","",null,null,"see",71,"Akademie, akademisch","philosophie"],
+ ["Philosophie","Universität","",null,null,"see",3308,"Universität","philosophie"],
+ ["Philosophie","Aphorismus","",null,null,"see",202,"Aphorismus","philosophie"],
+ ["Philosophie","Enzyklopädie","",null,null,"see",767,"Enzyklopädie","philosophie"],
+ ["Philosophie","Epigramm","",null,null,"see",772,"Epigramm","philosophie"],
+ ["Philosophie","Essay","",null,null,"see",828,"Essay","philosophie"],
+ ["Philosophie","Lehrgedicht","",null,null,"see",1767,"Lehrgedicht","philosophie"],
+ [
+  "Philosophie","Paradox","I (rhet.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
+  "philosophie"
+ ],
+ ["Philosophie","Summe","",null,null,"see",3072,"Summe","philosophie"],
+ ["Philosophie","Theorem","",null,null,"see",3178,"Theorem","philosophie"],
  [
   "Philosophie, absolute","Theosophie","","10","1159","ref",3182,"Theosophie",
   "philosophie, absolute"
@@ -654,7 +671,11 @@ HWPH.put("r/70-68",
   "Ordinary Language Philosophy","philosophie, analytische"
  ],
  [
-  "Philosophie, analytische","Philosophie","IV",null,null,"see",2353,"Philosophie",
+  "Philosophie, analytische","Philosophie","IV K",null,null,"see",2353,"Philosophie",
+  "philosophie, analytische"
+ ],
+ [
+  "Philosophie, analytische","Sprachanalyse","",null,null,"see",2983,"Sprachanalyse",
   "philosophie, analytische"
  ],
  [
@@ -666,8 +687,12 @@ HWPH.put("r/70-68",
   "Philosophie, arabische","philosophie, arabische"
  ],
  [
-  "Philosophie, bolschewistische","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "Philosophie, bolschewistische","Philosophie","IV J","7","782","ref",2353,"Philosophie",
   "philosophie, bolschewistische"
+ ],
+ [
+  "Philosophie, bürgerliche","Philosophie","IV I","7","763","ref",2353,"Philosophie",
+  "philosophie, burgerliche"
  ],
  [
   "Philosophie, chinesische","Philosophie","VII A",null,null,"ref",2353,"Philosophie",
@@ -694,9 +719,10 @@ HWPH.put("r/70-68",
   "philosophie, christliche"
  ],
  [
-  "Philosophie, dialogische","Dialog Philosophie, eklektische","",null,null,"ref",null,null,
+  "Philosophie, dialogische","Dialog","",null,null,"ref",585,"Dialog, dialogisch",
   "philosophie, dialogische"
  ],
+ ["Philosophie, eklektische","Sekte","I 2",null,null,"ref",2818,"Sekte","philosophie, eklektische"],
  [
   "Philosophie, erste","Erste Philosophie","",null,null,"ref",816,"Erste Philosophie",
   "philosophie, erste"
@@ -739,18 +765,25 @@ HWPH.put("r/70-68",
   "philosophie, indische"
  ],
  [
-  "Philosophie, innere/äussere","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "Philosophie, innere/äussere","Philosophie","IV J","7","775f.","ref",2353,"Philosophie",
   "philosophie, innere/aussere"
+ ],
+ [
+  "Philosophie, institutionelle Formen der","Philosophie","V (institut. Formen)",null,null,"ref",
+  2353,"Philosophie","philosophie, institutionelle formen der"
  ],
  [
   "Philosophie, jüdische","Philosophie, jüdische","","7","900–904","main",2358,
   "Philosophie, jüdische","philosophie, judische"
  ],
  [
-  "Philosophie, jüdische","Judentum (Wissenschaft des Judentums) Philosophie, Konkretwerden der","",
-  null,null,"see",null,null,"philosophie, judische"
+  "Philosophie, jüdische","Judentum","(Wissenschaft des Judentums)",null,null,"see",1512,
+  "Judentum, Wesen des Judentums","philosophie, judische"
  ],
- ["Philosophie","Philosophie","IV I","7","769","main",2353,"Philosophie","philosophie"],
+ [
+  "Philosophie, Konkretwerden der","Philosophie","IV I","7","769","ref",2353,"Philosophie",
+  "philosophie, konkretwerden der"
+ ],
  [
   "Philosophie, Konstruktion aller","Philosophie der Philosophie","","7","907","ref",2359,
   "Philosophie der Philosophie","philosophie, konstruktion aller"
@@ -765,10 +798,13 @@ HWPH.put("r/70-68",
  ],
  ["Philosophie, kritische","Kritik","II","4","1272","ref",1694,"Kritik","philosophie, kritische"],
  [
-  "Philosophie, linguistische","Linguistik; Sprachwissenschaft III Philosophie, menschgewordene","",
-  null,null,"ref",1797,"Linguistik, Sprachwissenschaft","philosophie, linguistische"
+  "Philosophie, linguistische","Linguistik; Sprachwissenschaft","III",null,null,"ref",1797,
+  "Linguistik, Sprachwissenschaft","philosophie, linguistische"
  ],
- ["Philosophie","Philosophie","IV E","7","722","main",2353,"Philosophie","philosophie"],
+ [
+  "Philosophie, menschgewordene","Philosophie","IV E","7","722","ref",2353,"Philosophie",
+  "philosophie, menschgewordene"
+ ],
  [
   "Philosophie, menschliche","Philosophie","II E","7","648","ref",2353,"Philosophie",
   "philosophie, menschliche"
@@ -832,7 +868,7 @@ HWPH.put("r/70-68",
  ],
  ["Philosophie, praktische","Ethik","",null,null,"ref",835,"Ethik","philosophie, praktische"],
  [
-  "Philosophie, praktische","Praxis III","",null,null,"ref",2448,"Praxis, praktisch",
+  "Philosophie, praktische","Praxis","III",null,null,"ref",2448,"Praxis, praktisch",
   "philosophie, praktische"
  ],
  [
@@ -936,8 +972,12 @@ HWPH.put("r/70-68",
   "Aktion, Philosophie der","philosophie de l'action"
  ],
  [
-  "philosophie de l'ambiguïté","Ambiguität II (Merleau-Ponty) philosophie de l'esprit","",null,null,
-  "ref",null,null,"philosophie de l'ambiguite"
+  "philosophie de l'ambiguïté","Ambiguität","II (Merleau-Ponty)",null,null,"ref",113,
+  "Ambiguität (Amphibolie)","philosophie de l'ambiguite"
+ ],
+ [
+  "philosophie de l'esprit","Spiritualismus","II","9","1410","ref",2979,"Spiritualismus",
+  "philosophie de l'esprit"
  ],
  [
   "philosophie de l'existence","Existentialismus","",null,null,"ref",859,"Existentialismus",
@@ -1181,7 +1221,7 @@ HWPH.put("r/70-68",
   "philosophie musulmane","Philosophie, arabische","",null,null,"ref",2355,"Philosophie, arabische",
   "philosophie musulmane"
  ],
- ["philosophie ouverte","Dialektik","IV",null,null,"ref",583,"Dialektik","philosophie ouverte"],
+ ["philosophie ouverte","Dialektik","IV 7. 5","2","221","ref",583,"Dialektik","philosophie ouverte"],
  [
   "philosophie sociale","Sozial; das Soziale","","9","1116f.","ref",2937,"Sozial; das Soziale",
   "philosophie sociale"
@@ -1218,7 +1258,7 @@ HWPH.put("r/70-68",
   "Philosophiegeschichte","Problemgeschichte","",null,null,"see",2467,"Problemgeschichte",
   "philosophiegeschichte"
  ],
- ["Philosophiegeschichte","Sekte","I",null,null,"ref",2818,"Sekte","philosophiegeschichte"],
+ ["Philosophiegeschichte","Sekte","I 2",null,null,"ref",2818,"Sekte","philosophiegeschichte"],
  [
   "Philosophiegeschichte","Geschichtsphilosophie","","3","430","ref",1093,"Geschichtsphilosophie",
   "philosophiegeschichte"
@@ -1318,8 +1358,12 @@ HWPH.put("r/70-68",
   "philosophy of religion"
  ],
  [
-  "philosophy of science","Wissenschaftstheorie philosophy of values","",null,null,"ref",null,null,
-  "philosophy of science"
+  "philosophy of science","Wissenschaftstheorie","",null,null,"ref",3646,
+  "Wissenschaftstheorie; Wissenschaftsphilosophie","philosophy of science"
+ ],
+ [
+  "philosophy of values","Wertphilosophie","",null,null,"ref",3593,"Wertphilosophie",
+  "philosophy of values"
  ],
  [
   "Philosophy of x","Philosophy of x","","7","924–927","main",2363,"Philosophy of x",
@@ -1327,8 +1371,11 @@ HWPH.put("r/70-68",
  ],
  ["Phlegma, glückliches","Apathie","I (eth.)","1","432","ref",198,"Apathie","phlegma, gluckliches"],
  ["Phlegmatiker","Temperament","",null,null,"ref",3148,"Temperament","phlegmatiker"],
- ["Phonem","Phonologie Phonematik; Phonemik","",null,null,"ref",null,null,"phonem"],
- ["Phonologie","Phonologie","","7","927","main",2364,"Phonologie, Phonem","phonologie"],
+ ["Phonem","Phonologie","",null,null,"ref",2364,"Phonologie, Phonem","phonem"],
+ [
+  "Phonematik; Phonemik","Phonologie","","7","927","ref",2364,"Phonologie, Phonem",
+  "phonematik; phonemik"
+ ],
  [
   "Phonetik, funktionale","Phonologie","",null,null,"ref",2364,"Phonologie, Phonem",
   "phonetik, funktionale"
@@ -1372,19 +1419,9 @@ HWPH.put("r/70-68",
   "phylogenese"
  ],
  ["Phylogenese","Ontogenese","(Haeckel)",null,null,"see",2217,"Ontogenese","phylogenese"],
- ["Phylogenese","Psychogenese φύσει/θέσει","",null,null,"see",null,null,"phylogenese"],
  [
-  "Physis/Nomos; Physis/Thesis","Physis/Nomos; Physis/Thesis","",null,null,"main",2374,
-  "Physis/Nomos, Physis/Thesis","physis/nomos; physis/thesis"
- ],
- [
-  "Physis/Nomos; Physis/Thesis","Arbiträr","(Saussure)","1","492","ref",235,"Arbiträr",
-  "physis/nomos; physis/thesis"
- ],
- ["Physis/Nomos; Physis/Thesis","Name","I","6","366","ref",2066,"Name","physis/nomos; physis/thesis"],
- [
-  "Physis/Nomos; Physis/Thesis","Positiv; Positivität","I","7","1108","ref",2408,
-  "Positiv, Positivität","physis/nomos; physis/thesis"
+  "Phylogenese","Psychogenese","",null,null,"see",2509,"Psychogenese, Psychophylogenese",
+  "phylogenese"
  ],
  [
   "physical sciences","Wissenschaft","III","12","928f.","ref",3635,"Wissenschaft",
@@ -1392,7 +1429,7 @@ HWPH.put("r/70-68",
  ],
  ["physicalism","Physikalismus","(Carnap)",null,null,"ref",2369,"Physikalismus","physicalism"],
  ["physicus","Physik","","7","938","ref",2368,"Physik","physicus"],
- ["Physik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"physik s. auch"],
+ ["Physik","Register der Sachgruppen","",null,null,"see",null,null,"physik"],
  ["Physik","Physik","","7","937–947","main",2368,"Physik","physik"],
  ["Physik","Mechanik","",null,null,"see",1903,"Mechanik","physik"],
  ["Physik","Naturphilosophie","",null,null,"see",2088,"Naturphilosophie","physik"],
@@ -1455,15 +1492,18 @@ HWPH.put("r/70-68",
   "Physikotheologie","Physikotheologie","","7","948–955","main",2370,"Physikotheologie",
   "physikotheologie"
  ],
- ["Physikotheologie","Religion","",null,null,"see",2673,"Religion","physikotheologie"],
+ ["Physikotheologie","Religion, natürliche","",null,null,"see",2673,"Religion","physikotheologie"],
+ [
+  "Physikotheologie","Medizin","III","5","989","ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "physikotheologie"
+ ],
+ ["Physikotheologie","Ordnung","III","6","1292f.","ref",2233,"Ordnung","physikotheologie"],
  [
   "physikotheologischer Gottesbeweis","Gottesbeweis","","3","820","ref",1165,"Gottesbeweis",
   "physikotheologischer gottesbeweis"
  ],
- [
-  "Physiognomik Physiognomie des Geistes","Physiognomik Physiognomie des Geistes","",null,null,
-  "main",null,null,"physiognomik physiognomie des geistes"
- ],
+ ["Physiognomie","Physiognomik","",null,null,"ref",2371,"Physiognomik, Physiognomie","physiognomie"],
+ ["Physiognomie des Geistes","Stil","","10","152","ref",3024,"Stil","physiognomie des geistes"],
  [
   "Physiognomik","Physiognomik","","7","955–963","main",2371,"Physiognomik, Physiognomie",
   "physiognomik"
@@ -1472,9 +1512,14 @@ HWPH.put("r/70-68",
  ["Physiognomik","Pathognomik","",null,null,"see",2291,"Pathognomik","physiognomik"],
  ["Physiognomik","Schädellehre; Kranioskopie","",null,null,"see",null,null,"physiognomik"],
  [
-  "Physiognomik","Signatur; Signaturenlehre Physiognomik","",null,null,"see",2883,
-  "Signatur, Signaturenlehre","physiognomik"
+  "Physiognomik","Signatur; Signaturenlehre","",null,null,"see",2883,"Signatur, Signaturenlehre",
+  "physiognomik"
  ],
+ [
+  "Physiognomik","Männlich/weiblich","(psych.)","5","742","ref",1867,"Männlich/weiblich",
+  "physiognomik"
+ ],
+ ["Physiognomik","Verstellung","","11","940","ref",3439,"Verstellung","physiognomik"],
  ["Physiogonie","Geschichte der Natur","","3","400","ref",1087,"Geschichte der Natur","physiogonie"],
  ["Physiogonie","Naturwissenschaften","","6","645","ref",2093,"Naturwissenschaften","physiogonie"],
  [
@@ -1485,10 +1530,13 @@ HWPH.put("r/70-68",
   "Physiokratie","Physiokratie","","7","963f.","main",2372,"Physiokratie, Physiokratismus",
   "physiokratie"
  ],
- ["Physiokratismus","Physiokratie φυσιολογία","",null,null,"ref",null,null,"physiokratismus"],
+ [
+  "Physiokratismus","Physiokratie","",null,null,"ref",2372,"Physiokratie, Physiokratismus",
+  "physiokratismus"
+ ],
  ["Physiologie","Physiologie","","7","964–967","main",2373,"Physiologie","physiologie"],
  [
-  "Physiologie","Medizin IV","",null,null,"see",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "Physiologie","Medizin","IV",null,null,"see",1906,"Medizin, Heilkunst, Medizinphilosophie",
   "physiologie"
  ],
  [
@@ -1549,7 +1597,7 @@ HWPH.put("r/70-68",
   "physiologische zeit"
  ],
  [
-  "physiologische Zeit","Latenz III (psych.)","","5","43","ref",1731,"Latent, Latenz",
+  "physiologische Zeit","Latenz","III (psych.)","5","43","ref",1731,"Latent, Latenz",
   "physiologische zeit"
  ],
  ["physiology","Semiotik","II","9","603","ref",2865,"Semiotik, Semiologie","physiology"],
@@ -1572,19 +1620,20 @@ HWPH.put("r/70-68",
   "Physis/Nomos; Physis/Thesis","Natur","I",null,null,"see",2074,"Natur",
   "physis/nomos; physis/thesis"
  ],
- ["physisch/moralisch","Subjekt","",null,null,"ref",3047,"Subjekt","physisch/moralisch"],
+ [
+  "physisch/moralisch","Subjekt/Objekt","I","10","405","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","physisch/moralisch"
+ ],
+ [
+  "physische Gestalten","Gestalten, physische","",null,null,"ref",1117,"Gestalten, physische",
+  "physische gestalten"
+ ],
  [
   "Physisches/Psychisches","Parallelismus, psychophysischer","",null,null,"ref",2272,
   "Parallelismus, psychophysischer","physisches/psychisches"
  ],
  ["physisches Übel","Übel","","11","2","ref",3246,"Übel","physisches ubel"],
- ["Philosophie","Philosophie","III B 1","7","663","main",2353,"Philosophie","philosophie"],
- ["Phronesis","Phronesis","",null,null,"main",2366,"Phronesis","phronesis"],
- ["Philologie","Philologie","","7","554","main",2352,"Philologie","philologie"],
- [
-  "philosophische 5 453f. Satz der Immanenz","Immanenz","","4","228","ref",1390,"Immanent, Immanenz",
-  "philosophische 5 453f. satz der immanenz"
- ],
+ ["Philosophie","Philosophie","IV G","7","744","main",2353,"Philosophie","philosophie"],
  [
   "phaenomenon (Kant)","phaenomenon (Kant)","",null,null,"main",2172,"Noumenon/Phaenomenon",
   "phaenomenon (kant)"
@@ -1594,18 +1643,10 @@ HWPH.put("r/70-68",
   "phaenomenon (kant)"
  ],
  [
-  "phaenomenon (Kant)","Übersinnlich Sinnenwelt/Verstandeswelt","",null,null,"ref",null,null,
+  "phaenomenon (Kant)","Übersinnlich","",null,null,"ref",3265,"Übersinnlich; das Übersinnliche",
   "phaenomenon (kant)"
  ],
- ["Philosophie","Philosophie","IV G","7","746","main",2353,"Philosophie","philosophie"],
- ["Philosophie","Sokratik","","9","1003","ref",2914,"Sokratik; Sokratismus","philosophie"],
- ["Philosophie","Philosophie","I D","7","591","main",2353,"Philosophie","philosophie"],
  ["Philosophie","Philosophie","IV E","7","722","main",2353,"Philosophie","philosophie"],
- ["Philosophie","Philosophie","II E","7","647f.","main",2353,"Philosophie","philosophie"],
- [
-  "Phänomenologie","Phänomenologie","II (Husserl)","7","495","main",2343,"Phänomenologie",
-  "phanomenologie"
- ],
  ["physica","physica","",null,null,"main",null,null,"physica"],
  ["physica","Scientia media","",null,null,"ref",2791,"Scientia media","physica"],
  ["physica","Vorsehung","",null,null,"ref",3500,"Vorsehung","physica"],

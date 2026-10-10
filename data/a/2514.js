@@ -21,7 +21,13 @@ HWPH.put("a/2514",
   {"id":3560,"lemma":"Weltanschauung","n":1}
  ],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Kollektivität","qualifier":"","band":"7","col":"1656"},
+  {"term":"Strukturpsychologie","qualifier":"","band":"7","col":"1656"},
+  {"term":"synthetisch-makroskopische Psychologie","qualifier":"","band":"7","col":"1657"},
+  {"term":"Transsubjektivität","qualifier":"","band":"7","col":"1656"},
+  {"term":"Zusammenhang (psych.)","qualifier":"","band":"7","col":"1656f."}
+ ],
  "persons":[
   {"id":189,"name":"E. Spranger","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":29,"name":"W. Dilthey","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -65,6 +71,6 @@ HWPH.put("a/2514",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Lessing Hans-Ulrich","n":11}]
 }
 );

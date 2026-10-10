@@ -62,7 +62,10 @@ HWPH.put("a/283",
   {"id":1944,"lemma":"Metaphysik","tf":3},
   {"id":2775,"lemma":"Scholastik","tf":2}
  ],
- "see_also":[{"id":2425,"lemma":"Prädikabilien, Prädikabilienlehre"}],
+ "see_also":[
+  {"id":2425,"lemma":"Prädikabilien, Prädikabilienlehre"},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Attribut"}],
  "reg_authors":[{"name":"Kohlenberger Helmut K","n":15},{"name":"Oeing-Hanhoff Ludger","n":29}]
 }

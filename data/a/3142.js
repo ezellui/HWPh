@@ -73,6 +73,6 @@ HWPH.put("a/3142",
  ],
  "see_also":[{"id":3635,"lemma":"Wissenschaft"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Technologie"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

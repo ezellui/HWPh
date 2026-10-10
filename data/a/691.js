@@ -31,7 +31,7 @@ HWPH.put("a/691",
  "outlinks":[],
  "register":[
   {"term":"Attitüde","qualifier":"I (psych.)","band":null,"col":null},
-  {"term":"des Bewusstseins (Dilthey)","qualifier":"I (psych.)","band":"2","col":"418"},
+  {"term":"Bewusstseinslage","qualifier":"I (psych.)","band":"2","col":"418"},
   {"term":"Einstellung, naturalistische","qualifier":"II (phän.)","band":"2","col":"421"},
   {"term":"Einstellung, natürliche","qualifier":"II (phän.)","band":null,"col":null},
   {"term":"Einstellung, personalistische","qualifier":"II (phän.)","band":"2","col":"421f."},
@@ -43,9 +43,7 @@ HWPH.put("a/691",
   {"term":"Thesis","qualifier":"II (phän.)","band":null,"col":null},
   {"term":"Welt","qualifier":"II (phän.)","band":"2","col":"421f."},
   {"term":"Wesensschau","qualifier":"II (phän.)","band":"2","col":"422"},
-  {"term":"Zuschauer","qualifier":"II (phän.)","band":"2","col":"422"},
-  {"term":"– II (phän.) 2 595f. s. auch","qualifier":"II (phän.)","band":null,"col":null},
-  {"term":"– II (psych.) 11 1263–1268 s. auch","qualifier":"I (psych.)","band":null,"col":null}
+  {"term":"Zuschauer","qualifier":"II (phän.)","band":"2","col":"422"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":2,"n":3,"l":0,"editor":0,"role":"source"},
@@ -110,7 +108,17 @@ HWPH.put("a/691",
   {"id":2904,"lemma":"Situation","tf":2},
   {"id":1930,"lemma":"Merkmal","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":796,"lemma":"Erkennen, Erkenntnis"},
+  {"id":884,"lemma":"Extravertiert/introvertiert"},
+  {"id":3020,"lemma":"Stereotyp"},
+  {"id":778,"lemma":"Epoché"},
+  {"id":1063,"lemma":"Generalthesis"},
+  {"id":1443,"lemma":"Inneneinstellung"},
+  {"id":2037,"lemma":"Mundan"},
+  {"id":3341,"lemma":"Urdoxa"},
+  {"id":3510,"lemma":"Vorwissenschaftlich; vortheoretisch"}
+ ],
  "groups":[
   {"id":31,"name":"Phänomenologie","label":"Einstellung II (phän.)"},
   {"id":36,"name":"Psychologie","label":"Einstellung I (psych.)"}

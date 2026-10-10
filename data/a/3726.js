@@ -23,7 +23,11 @@ HWPH.put("a/3726",
   {"id":3097,"lemma":"Symmetrie","n":1},
   {"id":3570,"lemma":"Weltlinie","n":1}
  ],
- "register":[],
+ "register":[
+  {"term":"clock paradox","qualifier":"","band":null,"col":null},
+  {"term":"twin paradox","qualifier":"","band":null,"col":null},
+  {"term":"Uhrenparadoxon","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":282,"name":"A. Einstein","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":7881,"name":"L. Marder","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},

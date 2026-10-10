@@ -37,6 +37,6 @@ HWPH.put("a/1368",
   {"id":2052,"lemma":"Mythologie, neue"}
  ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Identitätsphilosophie (Schelling)"}],
- "reg_authors":[{"name":"Zeltner Hermann","n":6}]
+ "reg_authors":[{"name":"Zeltner Hermann","n":7}]
 }
 );

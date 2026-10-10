@@ -24,8 +24,7 @@ HWPH.put("a/1753",
  "outlinks":[],
  "register":[
   {"term":"Feld (psych.)","qualifier":"I","band":null,"col":null},
-  {"term":"Kampf ums Dasein","qualifier":"II","band":null,"col":null},
-  {"term":"– II (psych.) 6 1147–1149 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Kampf ums Dasein","qualifier":"II","band":null,"col":null}
  ],
  "persons":[
   {"id":367,"name":"K. Lewin","b":1,"n":3,"l":0,"editor":0,"role":"source"},

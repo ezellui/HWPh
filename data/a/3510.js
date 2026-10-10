@@ -50,8 +50,7 @@ HWPH.put("a/3510",
   {"term":"Prototheorien","qualifier":"","band":"11","col":"1274"},
   {"term":"vorlogisch","qualifier":"","band":"11","col":"1274"},
   {"term":"vortheoretisch","qualifier":"","band":null,"col":null},
-  {"term":"Welt, soziale","qualifier":"","band":"11","col":"1275"},
-  {"term":"– II (Merleau-Ponty) 1 203f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Welt, soziale","qualifier":"","band":"11","col":"1275"}
  ],
  "persons":[
   {"id":232,"name":"J. Mittelstrass","b":0,"n":6,"l":0,"editor":0,"role":"scholar"},

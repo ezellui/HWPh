@@ -34,6 +34,7 @@ HWPH.put("a/3322",
  ],
  "register":[
   {"term":"Absurdität","qualifier":"","band":null,"col":null},
+  {"term":"amentia","qualifier":"","band":"11","col":"271"},
   {"term":"contre-sens","qualifier":"","band":null,"col":null},
   {"term":"countersense","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},

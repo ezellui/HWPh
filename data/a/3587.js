@@ -38,8 +38,7 @@ HWPH.put("a/3587",
   {"term":"iustitia duplex","qualifier":"","band":"12","col":"554"},
   {"term":"opera iustitiae","qualifier":"","band":"12","col":"554"},
   {"term":"rectitudo voluntatis","qualifier":"","band":"12","col":"553"},
-  {"term":"Werkheiligkeit","qualifier":"","band":"12","col":"554"},
-  {"term":"– II (theol.) 5 509–513 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Werkheiligkeit","qualifier":"","band":"12","col":"554"}
  ],
  "persons":[
   {"id":22,"name":"M. Luther","b":2,"n":2,"l":0,"editor":0,"role":"source"},

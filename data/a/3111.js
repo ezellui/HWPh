@@ -32,9 +32,11 @@ HWPH.put("a/3111",
  "register":[
   {"term":"geltungsgleich","qualifier":"II","band":"10","col":"805"},
   {"term":"sinnverwandt","qualifier":"II","band":"10","col":"805"},
+  {"term":"Synonymik","qualifier":"II","band":null,"col":null},
   {"term":"ἰσόρροπος","qualifier":"I","band":"10","col":"802f."},
   {"term":"πολύσημος","qualifier":"I","band":"10","col":"802"},
-  {"term":"πολυώνυμον","qualifier":"I","band":"10","col":"803"}
+  {"term":"πολυώνυμον","qualifier":"I","band":"10","col":"803"},
+  {"term":"συνώνυμος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":315,"name":"H. Schwarz","b":0,"n":16,"l":1,"editor":0,"role":"scholar"},

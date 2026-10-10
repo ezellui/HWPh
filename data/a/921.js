@@ -22,6 +22,6 @@ HWPH.put("a/921",
  "mentions":[],
  "see_also":[{"id":1273,"lemma":"Hilbertsches Programm"}],
  "groups":[{"id":24,"name":"Mathematik","label":"Finitismus"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

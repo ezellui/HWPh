@@ -38,7 +38,11 @@ HWPH.put("r/6e-75",
  ["Nullpunkt","Bezugssystem","","1","911","ref",429,"Bezugssystem","nullpunkt"],
  ["Nullpunkt","Wahrnehmung","VI (phän.)","12","225","ref",3539,"Wahrnehmung","nullpunkt"],
  ["numerus","Rhythmus","",null,null,"ref",2715,"Rhythmus","numerus"],
- ["numerus","Zahl numerus abstractus/concretus","",null,null,"ref",null,null,"numerus"],
+ ["numerus","Zahl","",null,null,"ref",3670,"Zahl; Zählen","numerus"],
+ [
+  "numerus abstractus/concretus","Abstrakt/konkret","III","1","38","ref",30,"Abstrakt/konkret",
+  "numerus abstractus/concretus"
+ ],
  ["numerus sanctus","Septenarius","","9","685","ref",2873,"Septenarius","numerus sanctus"],
  ["numerus substantialis","Seele","IV","9","27","ref",2794,"Seele","numerus substantialis"],
  ["Numinose, das","Numinose, das","(Otto)","6","988f.","main",2175,"Numinose, das","numinose, das"],
@@ -46,7 +50,11 @@ HWPH.put("r/6e-75",
   "Numinose, das","Apriori, religiöses","(Otto)",null,null,"see",223,"Apriori, religiöses",
   "numinose, das"
  ],
- ["Numinose, das","Ganz Andere","",null,null,"see",985,"Ganz Andere","numinose, das"],
+ ["Numinose, das","Ganz Andere, das","(Otto)",null,null,"see",985,"Ganz Andere","numinose, das"],
+ [
+  "Numinose, das","Mysterium tremendum et fascinosum","(Otto)",null,null,"see",2049,
+  "Mysterium tremendum et fascinosum","numinose, das"
+ ],
  [
   "Numinose, das (Otto)","Heilig; Heiligkeit","","3","1035f.","ref",1239,"Heilig, Heiligkeit",
   "numinose, das (otto)"
@@ -73,9 +81,7 @@ HWPH.put("r/6e-75",
   "Nutzen","Nutzen","","6","992–1008","main",2177,"Nutzen, Nützlichkeit, das Nützliche, nützlich",
   "nutzen"
  ],
- ["Nutzen","Gut; das Gute","",null,null,"see",1203,"Gut, das Gute, das Gut","nutzen"],
- ["Nutzen","Interesse","I",null,null,"see",1475,"Interesse","nutzen"],
- ["Nutzen","Utilitarismus","",null,null,"see",3366,"Utilitarismus","nutzen"],
+ ["Nutzen","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","nutzen"],
  [
   "Nutzen; Grenznutzen","Nutzen; Grenznutzen","","6","1008–1011","main",2177,
   "Nutzen, Nützlichkeit, das Nützliche, nützlich","nutzen; grenznutzen"
@@ -103,7 +109,7 @@ HWPH.put("r/6e-75",
   "Nusser Karl-Heinz","Gleichgültigkeit","","3","671","author",1146,"Gleichgültigkeit",
   "nusser karl-heinz"
  ],
- ["Nusser Karl-Heinz","Liebe","",null,null,"author",1795,"Liebe","nusser karl-heinz"],
+ ["Nusser Karl-Heinz","Liebe","I-III","5","290–318","author",1795,"Liebe","nusser karl-heinz"],
  ["Nusser Karl-Heinz","Neid","","6","695–706","author",2105,"Neid","nusser karl-heinz"],
  ["Nusser Karl-Heinz","Neigung","","6","707–712","author",2106,"Neigung","nusser karl-heinz"]
 ]

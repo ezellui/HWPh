@@ -36,6 +36,6 @@ HWPH.put("a/1645",
  ],
  "see_also":[{"id":1654,"lemma":"Konversion"}],
  "groups":[{"id":22,"name":"Logik","label":"Kontraposition"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

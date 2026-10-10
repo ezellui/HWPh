@@ -27,8 +27,8 @@ HWPH.put("a/3154",
  "outlinks":[],
  "register":[
   {"term":"Abschreckung","qualifier":"","band":"10","col":"1021"},
-  {"term":"das","qualifier":"","band":null,"col":null},
   {"term":"Freiheit der Andersdenkenden","qualifier":"","band":"10","col":"1024"},
+  {"term":"Schrecken","qualifier":"","band":null,"col":null},
   {"term":"Terrorismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[

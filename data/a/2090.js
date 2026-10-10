@@ -27,20 +27,13 @@ HWPH.put("a/2090",
  "backlinks":[],
  "outlinks":[{"id":266,"lemma":"Ästhetik, ästhetisch","n":1}],
  "register":[
-  {"term":"das 8 1343–1385 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Ideal","qualifier":"II","band":"6","col":"632"},
-  {"term":"IV-V","qualifier":"II","band":"6","col":"630"},
   {"term":"Kunstschönheit","qualifier":"","band":null,"col":null},
   {"term":"natural beauty","qualifier":"","band":null,"col":null},
+  {"term":"Naturrecht","qualifier":"II","band":"6","col":"630"},
   {"term":"Nichtidentische, das","qualifier":"II","band":"6","col":"633"},
   {"term":"Schönheit der Natur","qualifier":"","band":null,"col":null},
-  {"term":"Zweckmässigkeit ohne Zweck","qualifier":"II","band":"6","col":"627"},
-  {
-   "term":"– I (allg.) 5 11–13 – II (geogr.) 5 13–15 – III (ästh.) 5 15–28 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Zweckmässigkeit ohne Zweck","qualifier":"II","band":"6","col":"627"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":6,"n":4,"l":0,"editor":0,"role":"source"},

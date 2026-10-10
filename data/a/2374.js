@@ -46,6 +46,7 @@ HWPH.put("a/2374",
   {"term":"Setzung","qualifier":"","band":null,"col":null},
   {"term":"θέσις","qualifier":"","band":null,"col":null},
   {"term":"νόμος","qualifier":"","band":null,"col":null},
+  {"term":"φύσει/θέσει","qualifier":"","band":null,"col":null},
   {"term":"φύσις","qualifier":"","band":null,"col":null}
  ],
  "persons":[

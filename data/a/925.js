@@ -21,6 +21,7 @@ HWPH.put("a/925",
   {"term":"Blüte der Substanz","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"principium vitale","qualifier":"(Leibniz)","band":"2","col":"959"},
   {"term":"spiritus","qualifier":"(Leibniz)","band":"2","col":"959"},
+  {"term":"Substanz, Blüte der","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"tinctura seminalis","qualifier":"(Leibniz)","band":"2","col":"960"},
   {"term":"vis plastica","qualifier":"(Leibniz)","band":"2","col":"959"}
  ],

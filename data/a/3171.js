@@ -23,7 +23,10 @@ HWPH.put("a/3171",
   {"id":3656,"lemma":"Wort","n":1}
  ],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"dialektische Theologie","qualifier":"","band":null,"col":null},
+  {"term":"Theologie des Wortes Gottes","qualifier":"","band":"10","col":"1099"}
+ ],
  "persons":[
   {"id":69,"name":"K. Barth","b":4,"n":10,"l":0,"editor":0,"role":"source"},
   {"id":132,"name":"R. Bultmann","b":3,"n":6,"l":0,"editor":0,"role":"mixed"},
@@ -56,8 +59,8 @@ HWPH.put("a/3171",
   {"id":3047,"lemma":"Subjekt","tf":2},
   {"id":408,"lemma":"Bewegung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":583,"lemma":"Dialektik"},{"id":3656,"lemma":"Wort"}],
  "groups":[{"id":44,"name":"Theologie","label":"Theologie, dialektische"}],
- "reg_authors":[]
+ "reg_authors":[{"name":"Geyer Hans-Georg","n":2}]
 }
 );

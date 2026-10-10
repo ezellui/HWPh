@@ -40,7 +40,7 @@ HWPH.put("a/307",
   {"id":863,"lemma":"Existenz, existentia","tf":2},
   {"id":890,"lemma":"Fall, Abfall","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":308,"lemma":"Ausnahmezustand"}],
  "groups":[
   {"id":11,"name":"Existenzphilosophie","label":"Ausnahme I (Kierkegaard)"},
   {"id":33,"name":"Politische Theorie","label":"Ausnahme II (Schmitt)"}

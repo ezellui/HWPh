@@ -15,7 +15,8 @@ HWPH.put("r/61-63",
   "accidens","An sich/für sich","",null,null,"ref",167,"An sich/für sich; an und für sich",
   "accidens"
  ],
- ["accidens","Substanz accidens logicum","",null,null,"ref",null,null,"accidens"],
+ ["accidens","Substanz","",null,null,"ref",3062,"Substanz; Substanz/Akzidens","accidens"],
+ ["accidens logicum","Eigenschaft","I (met.)","2","334","ref",666,"Eigenschaft","accidens logicum"],
  [
   "Accidens praedicabile","Accidens praedicabile","","1","72f.","main",38,"Accidens praedicabile",
   "accidens praedicabile"
@@ -34,7 +35,7 @@ HWPH.put("r/61-63",
  ],
  ["Accidens praedicabile","Proprium","",null,null,"see",2485,"Proprium","accidens praedicabile"],
  [
-  "Accidens praedicabile","Substanz I","",null,null,"see",3062,"Substanz; Substanz/Akzidens",
+  "Accidens praedicabile","Substanz","I",null,null,"see",3062,"Substanz; Substanz/Akzidens",
   "accidens praedicabile"
  ],
  [
@@ -79,7 +80,14 @@ HWPH.put("r/61-63",
   "achrematismus"
  ],
  ["Achsenzeit","Achsenzeit","(Jaspers)","1","74f.","main",40,"Achsenzeit","achsenzeit"],
- ["Achsenzeit","Weltgeschichte Achtsamkeitsfehler","",null,null,"see",null,null,"achsenzeit"],
+ [
+  "Achsenzeit","Weltgeschichte","",null,null,"see",3567,"Weltgeschichte; Universalgeschichte",
+  "achsenzeit"
+ ],
+ [
+  "Achtsamkeitsfehler","Beobachtungsfehler","",null,null,"ref",386,"Beobachtungsfehler",
+  "achtsamkeitsfehler"
+ ],
  ["Achtung","Achtung","","1","75f.","main",41,"Achtung","achtung"],
  ["Achtung","Gefühl, moralisches","",null,null,"see",1010,"Gefühl, moralisches","achtung"],
  ["Achtung","Gesetz, moralisches","",null,null,"see",1107,"Gesetz, moralisches","achtung"],
@@ -150,7 +158,8 @@ HWPH.put("r/61-63",
  ["actualitas","Wirklichkeit","","12","830","ref",3628,"Wirklichkeit","actualitas"],
  ["actualité","Realität/Idealität","","8","189","ref",2590,"Realität/Idealität","actualite"],
  ["actuositas","Aktuosität","",null,null,"ref",89,"Aktuosität","actuositas"],
- ["actus","Praxis II actus absolutus","",null,null,"ref",null,null,"actus"],
+ ["actus","Praxis","II",null,null,"ref",2448,"Praxis, praktisch","actus"],
+ ["actus absolutus","Akt/Potenz","","1","142","ref",83,"Akt/Potenz","actus absolutus"],
  ["actus apprehensivus","Urteil","II 1","11","439","ref",3355,"Urteil","actus apprehensivus"],
  ["actus dictandi","Praxis","II","7","1291","ref",2448,"Praxis, praktisch","actus dictandi"],
  ["actus elicitus","Praxis","II","7","1289f.","ref",2448,"Praxis, praktisch","actus elicitus"],
@@ -173,9 +182,10 @@ HWPH.put("r/61-63",
   "Actus exercitus/actus signatus","actus exercitus/actus signatus"
  ],
  [
-  "actus exercitus/signatus","Widerspruch","",null,null,"ref",3607,"Widerspruch",
-  "actus exercitus/signatus"
+  "actus exercitus/signatus","Widerspruch, performativer","","12","700","ref",3609,
+  "Widerspruchsfreiheit","actus exercitus/signatus"
  ],
+ ["actus existentiae","Akt/Potenz","","1","142","ref",83,"Akt/Potenz","actus existentiae"],
  ["actus imperfectus","Bewegung","II","1","870","ref",408,"Bewegung","actus imperfectus"],
  ["actus iudicativus","Urteil","II 1","11","438","ref",3355,"Urteil","actus iudicativus"],
  [

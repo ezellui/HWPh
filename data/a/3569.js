@@ -73,6 +73,6 @@ HWPH.put("a/3569",
  ],
  "see_also":[],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Weltlauf"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

@@ -22,7 +22,8 @@ HWPH.put("a/1584",
   {"term":"Begriff, distributiver","qualifier":"","band":"4","col":"882"},
   {"term":"Begriff, kollektiver","qualifier":"","band":"4","col":"882"},
   {"term":"Ganzheiten","qualifier":"","band":"4","col":"882"},
-  {"term":"nomina collectiva/complexiva/comprehensiva","qualifier":"","band":"4","col":"882"}
+  {"term":"nomina collectiva/complexiva/comprehensiva","qualifier":"","band":"4","col":"882"},
+  {"term":"ὀνόματα περιεκτικά","qualifier":"","band":"4","col":"882"}
  ],
  "persons":[
   {"id":23,"name":"Boethius","b":1,"n":2,"l":0,"editor":0,"role":"source"},

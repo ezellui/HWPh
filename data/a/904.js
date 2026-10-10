@@ -31,14 +31,16 @@ HWPH.put("a/904",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Äther","qualifier":"","band":"2","col":"923"},
-  {"term":"Feld, elektromagnetisches","qualifier":"","band":null,"col":null},
-  {"term":"Gravitation","qualifier":"","band":"2","col":"925"},
-  {"term":"II-III","qualifier":"","band":"2","col":"923"},
-  {"term":"Induktion, elektromagnetische","qualifier":"","band":"2","col":"924"},
-  {"term":"psychologisches Feld","qualifier":"","band":null,"col":null},
+  {"term":"Äther","qualifier":"I (phys.)","band":"2","col":"923"},
+  {"term":"Feld, elektromagnetisches","qualifier":"I (phys.)","band":null,"col":null},
+  {"term":"Feldtheorie","qualifier":"","band":null,"col":null},
+  {"term":"Gesichtsfeld","qualifier":"II (psych.)","band":"2","col":"926f."},
+  {"term":"Gravitation","qualifier":"I (phys.)","band":"2","col":"925"},
+  {"term":"Induktion, elektromagnetische","qualifier":"I (phys.)","band":"2","col":"924"},
+  {"term":"Pneuma","qualifier":"I (phys.)","band":"2","col":"923"},
+  {"term":"psychologisches Feld","qualifier":"II (psych.)","band":null,"col":null},
   {"term":"Verhalten","qualifier":"","band":"2","col":"928"},
-  {"term":"Wertheimer-Problem","qualifier":"","band":"2","col":"926"}
+  {"term":"Wertheimer-Problem","qualifier":"II (psych.)","band":"2","col":"926"}
  ],
  "persons":[
   {"id":246,"name":"W. Köhler","b":2,"n":4,"l":0,"editor":0,"role":"mixed"},

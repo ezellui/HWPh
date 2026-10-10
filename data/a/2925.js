@@ -33,9 +33,10 @@ HWPH.put("a/2925",
   {"term":"Problem","qualifier":"","band":"9","col":"1073"},
   {"term":"sensus compositus/divisus","qualifier":"","band":"9","col":"1072f."},
   {"term":"solutio","qualifier":"","band":"9","col":"1071"},
+  {"term":"Sophismata","qualifier":"","band":null,"col":null},
   {"term":"sophista","qualifier":"","band":"9","col":"1069"},
   {"term":"syncategoremata","qualifier":"","band":"9","col":"1070f."},
-  {"term":"– II (log.) 6 1068–1072 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"σόφισμα","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":6509,"name":"Richard Kilvington","b":1,"n":3,"l":0,"editor":0,"role":"source"},

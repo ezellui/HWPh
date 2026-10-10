@@ -28,6 +28,9 @@ HWPH.put("a/3701",
   {"id":3174,"lemma":"Theologie, politische","n":1}
  ],
  "register":[
+  {"term":"civil religion/theology","qualifier":"","band":null,"col":null},
+  {"term":"religion civile","qualifier":"","band":null,"col":null},
+  {"term":"Staatstheologie","qualifier":"","band":null,"col":null},
   {"term":"theologia civilis","qualifier":"","band":"12","col":"1381"},
   {"term":"Ziviltheologie","qualifier":"","band":"12","col":"1381"}
  ],

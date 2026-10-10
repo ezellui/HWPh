@@ -18,9 +18,9 @@ HWPH.put("a/3002",
  "backlinks":[{"id":2998,"lemma":"Staat","n":2},{"id":2999,"lemma":"Staatslehre","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"constitutional law","qualifier":"","band":null,"col":null},
   {"term":"droit public","qualifier":"","band":null,"col":null},
   {"term":"ius publicum/privatum","qualifier":"","band":"10","col":"71"},
-  {"term":"Polizeiwissenschaft","qualifier":"","band":null,"col":null},
   {"term":"public law","qualifier":"","band":null,"col":null},
   {"term":"Recht des Staates","qualifier":"","band":null,"col":null},
   {"term":"Verfassungsrecht","qualifier":"","band":"10","col":"75"}

@@ -26,17 +26,16 @@ HWPH.put("a/1651",
  "backlinks":[],
  "outlinks":[{"id":1105,"lemma":"Gesetz","n":1}],
  "register":[
-  {"term":"das II 8 1353 conventio","qualifier":"","band":null,"col":null},
+  {"term":"conventio","qualifier":"","band":null,"col":null},
   {"term":"Gewohnheit","qualifier":"I (eth.)","band":"4","col":"1072"},
   {"term":"illokutionärer Akt","qualifier":"II (sprach.)","band":"4","col":"1075"},
-  {"term":"Konvention","qualifier":"I (eth.)","band":"4","col":"1071"},
   {"term":"s auch","qualifier":"II (sprach )","band":null,"col":null},
   {"term":"Sitte","qualifier":"I (eth.)","band":"4","col":"1072"},
   {"term":"tacit consent","qualifier":"II (sprach.)","band":"4","col":"1075"},
   {"term":"Übereinkunft","qualifier":"","band":null,"col":null},
   {"term":"Versprechen","qualifier":"I (eth.)","band":"4","col":"1071"},
-  {"term":"συνθήκη","qualifier":"","band":null,"col":null},
-  {"term":"– I (eth.) 4 1071–1073 s. auch","qualifier":"","band":"4","col":"1073–1076"}
+  {"term":"Vertrag","qualifier":"III (jur.)","band":"4","col":"1071"},
+  {"term":"συνθήκη","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":32,"name":"D. Hume","b":2,"n":3,"l":0,"editor":0,"role":"source"},
@@ -133,7 +132,12 @@ HWPH.put("a/1651",
   {"id":2335,"lemma":"Pflichten, unvollkommene/vollkommene","tf":2},
   {"id":2717,"lemma":"Richtigkeit","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":840,"lemma":"Ethos"},
+  {"id":2374,"lemma":"Physis/Nomos, Physis/Thesis"},
+  {"id":235,"lemma":"Arbiträr"},
+  {"id":3475,"lemma":"Völkerrecht"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Konvention I (eth.)"},
   {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Konvention III (jur.)"},

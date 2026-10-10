@@ -29,8 +29,8 @@ HWPH.put("a/1924",
   {"term":"Gleichheit der Menschen","qualifier":"","band":"5","col":"1125"},
   {"term":"Gottebenbildlichkeit","qualifier":"","band":"5","col":"1124"},
   {"term":"Respekt","qualifier":"","band":"5","col":"1126"},
-  {"term":"Wille, heiliger","qualifier":"","band":"5","col":"1125"},
-  {"term":"– IV (jur.) 7 322–335 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wert, innerer","qualifier":"","band":"5","col":"1125"},
+  {"term":"Wille, heiliger","qualifier":"","band":"5","col":"1125"}
  ],
  "persons":[
   {"id":119,"name":"E. Bloch","b":1,"n":1,"l":1,"editor":0,"role":"source"},

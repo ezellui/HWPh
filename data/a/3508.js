@@ -33,13 +33,12 @@ HWPH.put("a/3508",
   {"id":3507,"lemma":"Vorurteil","n":1}
  ],
  "register":[
-  {"term":"- 1190 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"foreconception","qualifier":"","band":null,"col":null},
   {"term":"précompréhension","qualifier":"","band":null,"col":null},
   {"term":"préscience","qualifier":"","band":"11","col":"1269"},
   {"term":"previous understanding","qualifier":"","band":null,"col":null},
   {"term":"Verstehen, vorgängiges","qualifier":"","band":"11","col":"1268"},
   {"term":"vorgängiges Verstehen","qualifier":"","band":"11","col":"1268"},
-  {"term":"Vorgriff; Vorhabe; Vorsicht","qualifier":"","band":null,"col":null},
   {"term":"Vormeinung","qualifier":"","band":"11","col":"1268"},
   {"term":"Vorurteil","qualifier":"","band":"11","col":"1268f."},
   {"term":"Vorwissen","qualifier":"","band":"11","col":"1268f."}

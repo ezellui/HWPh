@@ -34,6 +34,7 @@ HWPH.put("a/2843",
  ],
  "register":[
   {"term":"absolute Religion","qualifier":"II","band":"9","col":"505"},
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"patefactio sui ipsius","qualifier":"I","band":"9","col":"502"},
   {"term":"Religion, absolute","qualifier":"II","band":"9","col":"505"},
   {"term":"Selbstaufschliessung Gottes","qualifier":"II","band":"9","col":"505"},

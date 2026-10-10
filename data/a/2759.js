@@ -18,11 +18,12 @@ HWPH.put("a/2759",
  "backlinks":[{"id":3249,"lemma":"Überdruß","n":1}],
  "outlinks":[{"id":492,"lemma":"Chiffre","n":1}],
  "register":[
-  {"term":"(Heidegger) 3 1202","qualifier":"","band":"8","col":"1245f."},
   {"term":"échec","qualifier":"","band":null,"col":null},
+  {"term":"foundering","qualifier":"","band":null,"col":null},
   {"term":"naufrage du monde","qualifier":"","band":"8","col":"1245"},
   {"term":"refus","qualifier":"","band":"8","col":"1246"},
   {"term":"rompre au port","qualifier":"","band":"8","col":"1245"},
+  {"term":"Übersinnlich","qualifier":"","band":"8","col":"1245f."},
   {"term":"Versagen","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -51,6 +52,6 @@ HWPH.put("a/2759",
  ],
  "see_also":[{"id":492,"lemma":"Chiffre"}],
  "groups":[{"id":11,"name":"Existenzphilosophie","label":"Scheitern"}],
- "reg_authors":[{"name":"Rath Helmut","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Rath Helmut","n":4},{"name":"Red","n":241}]
 }
 );

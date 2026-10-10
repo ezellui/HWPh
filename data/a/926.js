@@ -32,6 +32,7 @@ HWPH.put("a/926",
   {"term":"consequence","qualifier":"","band":null,"col":null},
   {"term":"consequentia","qualifier":"","band":"2","col":"961"},
   {"term":"Konklusion","qualifier":"","band":null,"col":null},
+  {"term":"so...","qualifier":"","band":null,"col":null},
   {"term":"Subjunktion","qualifier":"","band":"2","col":"961"},
   {"term":"ἀκολούθησις","qualifier":"","band":"2","col":"961"},
   {"term":"ἀναπόδεικτος","qualifier":"","band":"2","col":"961"},
@@ -85,7 +86,8 @@ HWPH.put("a/926",
   {"id":1619,"lemma":"Konsequenz"},
   {"id":1806,"lemma":"Logik, dialogische"},
   {"id":1814,"lemma":"Logik, konstruktive"},
-  {"id":2768,"lemma":"Schließen, natürliches"}
+  {"id":2768,"lemma":"Schließen, natürliches"},
+  {"id":2769,"lemma":"Schluß"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Folgerung"}],
  "reg_authors":[{"name":"Lorenz Kuno","n":16}]

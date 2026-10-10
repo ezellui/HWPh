@@ -2,7 +2,8 @@ HWPH.put("r/3bc-3b1",
 [
  ["μαγεία","Magie","",null,null,"ref",1845,"Magie","μαγεια"],
  ["μάγος","Magie","","5","632","ref",1845,"Magie","μαγοσ"],
- ["μακαριότης","Glück μακαρισμός","",null,null,"ref",null,null,"μακαριοτησ"],
+ ["μακαριότης","Glück","",null,null,"ref",1155,"Glück, Glückseligkeit","μακαριοτησ"],
+ ["μακαρισμός","Glück","II","3","691","ref",1155,"Glück, Glückseligkeit","μακαρισμοσ"],
  [
   "μακρὸς κόσμος","Makrokosmos/Mikrokosmos","",null,null,"ref",1849,"Makrokosmos/Mikrokosmos",
   "μακροσ κοσμοσ"
@@ -13,7 +14,7 @@ HWPH.put("r/3bc-3b1",
  ["μᾶλλον ὄν","Idee","I","4","59","ref",1361,"Idee","μαλλον ον"],
  ["μᾶλλον ὄν","Ontōs on","","6","1205","ref",2223,"Ontos on","μαλλον ον"],
  ["μανία","Mania","",null,null,"ref",1859,"Mania","μανια"],
- ["μανία ἔνθεος","Schweigen; Stille A","","8","1484","ref",2787,"Schweigen, Stille","μανια ενθεοσ"],
+ ["μανία ἔνθεος","Schweigen; Stille","A","8","1484","ref",2787,"Schweigen, Stille","μανια ενθεοσ"],
  ["μάνωσις","Verdichtung","I (nat.)",null,null,"ref",3390,"Verdichtung","μανωσισ"],
  ["μαντεύεσθαι","Vermutung","I","11","733","ref",3421,"Vermutung","μαντευεσθαι"],
  ["μάρτυς","Zeuge; Zeugnis","II (theol.)",null,null,"ref",3692,"Zeuge; Zeugnis","μαρτυσ"],

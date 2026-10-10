@@ -54,9 +54,9 @@ HWPH.put("a/3610",
   {"id":3622,"lemma":"Wille zur Macht","n":1}
  ],
  "register":[
-  {"term":"819","qualifier":"II (erk.)","band":"12","col":"710"},
   {"term":"Bewegung/Ruhe","qualifier":"I (nat.)","band":null,"col":null},
   {"term":"Charakterwiderstand","qualifier":"III (psych.)","band":"12","col":"712"},
+  {"term":"Erhabene, das","qualifier":"II (erk.)","band":"12","col":"710"},
   {"term":"Härte","qualifier":"I (nat.)","band":"12","col":"705"},
   {"term":"Reaktanz","qualifier":"III (psych.)","band":"12","col":"711"},
   {"term":"resistentia","qualifier":"","band":null,"col":null},
@@ -64,8 +64,7 @@ HWPH.put("a/3610",
   {"term":"Ruhe/Bewegung","qualifier":"I (nat.)","band":null,"col":null},
   {"term":"Widerstandserlebnis","qualifier":"II (erk.)","band":"12","col":"710"},
   {"term":"ἀντείρεσις","qualifier":"I (nat.)","band":"12","col":"706"},
-  {"term":"στερεότης","qualifier":"I (nat.)","band":"12","col":"705"},
-  {"term":"– II (erk.) 12 709–711 s. auch","qualifier":"","band":"12","col":"711–714"}
+  {"term":"στερεότης","qualifier":"I (nat.)","band":"12","col":"705"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":5,"l":0,"editor":0,"role":"source"},
@@ -203,7 +202,18 @@ HWPH.put("a/3610",
   {"id":792,"lemma":"Erhaben, das Erhabene","tf":3},
   {"id":2340,"lemma":"Phänomen","tf":6}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":192,"lemma":"Antitypie"},
+  {"id":1397,"lemma":"Impetus"},
+  {"id":2917,"lemma":"Solidität"},
+  {"id":3213,"lemma":"Trägheit"},
+  {"id":3289,"lemma":"Undurchdringlichkeit"},
+  {"id":2593,"lemma":"Realität der Außenwelt"},
+  {"id":36,"lemma":"Abwehrmechanismus"},
+  {"id":3266,"lemma":"Übertragung"},
+  {"id":3393,"lemma":"Verdrängung"},
+  {"id":3683,"lemma":"Zensur"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Widerstand II (erk.)"},
   {"id":28,"name":"Naturphilosophie","label":"Widerstand I (nat.)"},

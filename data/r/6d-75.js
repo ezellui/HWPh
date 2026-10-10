@@ -96,8 +96,20 @@ HWPH.put("r/6d-75",
   "Übersinnlich; das Übersinnliche","mundus intelligibilis/sensibilis"
  ],
  [
-  "Mundus intelligibilis/sensibilis","Unsichtbarkeit mundus intelligibilis/sensibilis","",null,null,
-  "see",null,null,"mundus intelligibilis/sensibilis"
+  "Mundus intelligibilis/sensibilis","Unsichtbarkeit","",null,null,"see",3321,
+  "Unsichtbarkeit; Unsichtbares","mundus intelligibilis/sensibilis"
+ ],
+ [
+  "mundus intelligibilis/sensibilis","Horizont","I (met.)","3","1191","ref",1310,"Horizont",
+  "mundus intelligibilis/sensibilis"
+ ],
+ [
+  "mundus intelligibilis/sensibilis","Idee","II B 3","4","84","ref",1361,"Idee",
+  "mundus intelligibilis/sensibilis"
+ ],
+ [
+  "mundus intelligibilis/sensibilis","Reich, Drittes","","8","500","ref",2654,"Reich, Drittes",
+  "mundus intelligibilis/sensibilis"
  ],
  ["mundus inversus","Verkehrte Welt","",null,null,"ref",3411,"Verkehrte Welt","mundus inversus"],
  [
@@ -110,7 +122,7 @@ HWPH.put("r/6d-75",
  ],
  ["mundus optimus","Theodizee","","10","1067","ref",3166,"Theodizee","mundus optimus"],
  [
-  "mundus parvus","Makrokosmos/Mikrokosmos","II",null,null,"ref",1849,"Makrokosmos/Mikrokosmos",
+  "mundus parvus","Makrokosmos/Mikrokosmos","II 1",null,null,"ref",1849,"Makrokosmos/Mikrokosmos",
   "mundus parvus"
  ],
  [
@@ -195,7 +207,8 @@ HWPH.put("r/6d-75",
   "Mutter-Kind-Beziehung","Psychologie","","7","1648","ref",2511,"Psychologie",
   "mutter-kind-beziehung"
  ],
- ["Mutterkomplex","Komplex","",null,null,"ref",1600,"Komplex","mutterkomplex"],
+ ["Mutterkomplex","Komplex, der","","4","936","ref",1601,"Komplex (der)","mutterkomplex"],
+ ["Mutterrecht","Mutterrecht","","6","261–263","main",2046,"Mutterrecht","mutterrecht"],
  [
   "Mutterschoss alles Bewusstseins","Religion","VIII 8","8","695","ref",2673,"Religion",
   "mutterschoss alles bewusstseins"
@@ -290,7 +303,7 @@ HWPH.put("r/6d-75",
   "Beweger, unbewegter","muller armin"
  ],
  [
-  "Müller Armin","Bios (Lebensform)","","1","948f.","author",445,"Bios (Leben, Lebensform)",
+  "Müller Armin","Bios","(Lebensform)","1","948f.","author",445,"Bios (Leben, Lebensform)",
   "muller armin"
  ],
  ["Müller Armin","Dialektik","II","2","167–175","author",583,"Dialektik","muller armin"],
@@ -299,7 +312,7 @@ HWPH.put("r/6d-75",
  ["Müller Armin","Epikureismus","","2","584f.","author",773,"Epikureismus","muller armin"],
  ["Müller Armin","Erhabene, das","I","2","624–626","author",791,"Erfolgsethik","muller armin"],
  ["Müller Armin","Freundschaft","I","2","1105–1107","author",954,"Freundschaft","muller armin"],
- ["Müller Armin","Geziemende","",null,null,"author",1136,"Geziemende","muller armin"],
+ ["Müller Armin","Geziemende, das","",null,null,"author",1136,"Geziemende","muller armin"],
  [
   "Müller Armin","Kreislauftheorien","","4","1227–1229","author",1688,"Kreislauftheorien",
   "muller armin"

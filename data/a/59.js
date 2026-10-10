@@ -18,12 +18,13 @@ HWPH.put("a/59",
  "backlinks":[{"id":1187,"lemma":"Größe","n":1},{"id":1406,"lemma":"Inbegriff","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Anhäufung, zufällige","qualifier":"","band":"1","col":"102"},
   {"term":"compositum","qualifier":"","band":"1","col":"102"},
   {"term":"congregatio atomalium","qualifier":"","band":"1","col":"102"},
-  {"term":"der 4 937f. Kompositum","qualifier":"","band":"1","col":"102"},
+  {"term":"Kompositum","qualifier":"","band":"1","col":"102"},
   {"term":"substantia simplex","qualifier":"","band":"1","col":"102"},
   {"term":"Substanz, einfache","qualifier":"","band":"1","col":"102"},
-  {"term":"Zusammenhang","qualifier":"","band":"1","col":"102"}
+  {"term":"universalis","qualifier":"","band":"1","col":"102"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

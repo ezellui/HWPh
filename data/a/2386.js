@@ -19,8 +19,7 @@ HWPH.put("a/2386",
  "outlinks":[],
  "register":[
   {"term":"Armut","qualifier":"","band":"7","col":"999"},
-  {"term":"populus","qualifier":"","band":null,"col":null},
-  {"term":"– II (soz.) 5 828–832 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"populus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

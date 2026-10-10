@@ -30,17 +30,11 @@ HWPH.put("a/3654",
  ],
  "register":[
   {"term":"Aufenthalt","qualifier":"","band":"12","col":"1016"},
+  {"term":"Bauen","qualifier":"","band":null,"col":null},
   {"term":"demeur","qualifier":"","band":"12","col":"1017"},
-  {"term":"des Seins (Heidegger) 10 1291f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"dwelling","qualifier":"","band":null,"col":null},
-  {"term":"Schechina","qualifier":"","band":"12","col":"1016"},
-  {"term":"Schonen","qualifier":"","band":"12","col":"1016f."},
-  {
-   "term":"– II (Leibniz) 4 395 – III (Heidegger) 4 395f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Einwohnung","qualifier":"","band":"12","col":"1016"},
+  {"term":"Schonen","qualifier":"","band":"12","col":"1016f."}
  ],
  "persons":[
   {"id":6775,"name":"A. Behne","b":3,"n":3,"l":0,"editor":0,"role":"source"},
@@ -92,7 +86,7 @@ HWPH.put("a/3654",
   {"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[{"id":3205,"lemma":"Topologie"}],
+ "see_also":[{"id":3206,"lemma":"Topologie des Seins; Ortschaft des Seins"}],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Wohnen"},
   {"id":2,"name":"Anthropologie","label":"Wohnen"}

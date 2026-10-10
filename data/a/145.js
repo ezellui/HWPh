@@ -18,10 +18,10 @@ HWPH.put("a/145",
  "backlinks":[{"id":1867,"lemma":"Männlich/weiblich","n":1},{"id":2516,"lemma":"Psychologie, komplexe","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Animus","qualifier":"","band":null,"col":null},
-  {"term":"Archetypus (Jung)","qualifier":"","band":null,"col":null},
-  {"term":"kollektives Unbewusste","qualifier":"","band":null,"col":null},
-  {"term":"Unbewusstes, kollektives","qualifier":"","band":null,"col":null}
+  {"term":"Animus","qualifier":"(Jung)","band":null,"col":null},
+  {"term":"Archetypus (Jung)","qualifier":"(Jung)","band":null,"col":null},
+  {"term":"kollektives Unbewusste","qualifier":"(Jung)","band":null,"col":null},
+  {"term":"Unbewusstes, kollektives","qualifier":"(Jung)","band":null,"col":null}
  ],
  "persons":[{"id":180,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[

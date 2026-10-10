@@ -18,8 +18,8 @@ HWPH.put("a/2437",
  "backlinks":[{"id":3277,"lemma":"Umstrukturierung; Umzentrierung","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"prägnant","qualifier":"","band":null,"col":null},
-  {"term":"– I (ästh.) 3 540–547 – II (psych.) 3 547f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Exemplarische, das","qualifier":"","band":"7","col":"1249"},
+  {"term":"prägnant","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1408,"name":"E. Rausch","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},

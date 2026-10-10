@@ -23,8 +23,7 @@ HWPH.put("a/2623",
  ],
  "register":[
   {"term":"demonstratio per impossibile","qualifier":"","band":null,"col":null},
-  {"term":"reductio ad impossibile","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 8 370f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"reductio ad impossibile","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -48,6 +47,6 @@ HWPH.put("a/2623",
  ],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Reductio ad absurdum"}],
- "reg_authors":[{"name":"Red","n":242},{"name":"Rescher Nicholas","n":6}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Rescher Nicholas","n":6}]
 }
 );

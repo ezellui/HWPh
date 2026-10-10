@@ -21,8 +21,7 @@ HWPH.put("a/2870",
   {"term":"homme de sentiment","qualifier":"","band":"9","col":"677"},
   {"term":"je sens, donc je suis","qualifier":"","band":"9","col":"677"},
   {"term":"moral sentiment","qualifier":"","band":"9","col":"676"},
-  {"term":"sensation","qualifier":"","band":"9","col":"676ff."},
-  {"term":"– I (erk.) 2 456–464 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"sensation","qualifier":"","band":"9","col":"676ff."}
  ],
  "persons":[
   {"id":38,"name":"J.-J. Rousseau","b":2,"n":1,"l":0,"editor":0,"role":"source"},

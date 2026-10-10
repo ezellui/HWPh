@@ -99,6 +99,6 @@ HWPH.put("a/3268",
   {"id":13,"name":"Geschichtsphilosophie","label":"Überzeitlich"},
   {"id":26,"name":"Metaphysik","label":"Überzeitlich"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Schneider Helmut","n":5}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Schneider Helmut","n":5}]
 }
 );

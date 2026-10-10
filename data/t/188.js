@@ -5,8 +5,8 @@ HWPH.put("t/188",
  "l":"F. EHRLE s. Anm. [2]. – G. MEERSSEMAN: Gesch. des Albertismus 1 (Rom 1933); 2 (1935). – L. BAUDRY: La querelle des futurs contingents. Louvain 1465–1475 (Paris 1950). – J. P. SCHOBINGER: Vom Sein der Universalien. Ein Beitrag zur Deutung des Universalienstreites. Slg. Schweiz. Diss., Philos. R. 2 (1958). – L. M. de RIJK: Logica modernorum. A contribution to the hist. of early terminist logic 1 (Assen 1962); Bd. 2 (1968) konnte nicht benutzt werden. – A. G. WEILER: Heinrich von Gorkum (Hilversum 1962) (frühestes Dokument betr. des Wegestreites: Köln 1414); Magister Herwich van Amsterdam, in: Postillen, Festschrift R. R. Post (Nijmegen 1964) 257–283 (Einführung der via antiqua in Heidelberg 1452); Realisme, nominalisme, humanisme. Vox theol. 39 (1969) 58–79. – G. RITTER: Via antiqua und via moderna auf den dtsch. Univ. des XV. Jh. (21963). – E. A. MOODY: A quodlibetal question of Robert Holkot o. p. on the problem of the objects of knowledge and belief. Speculum 39 (1964) 53–74. – T. K. SCOTT: John Buridan on the objects of demonstrative science. Speculum 40 (1965) 654–673. – J. PINBORG s. Anm. [1].",
  "au":"A. G. Weiler",
  "A":["A. G. Weiler"],
- "cb":[[0,407],[43,408],[630,408],[1091,408],[2290,408],[2596,409],[4082,409],[6435,409],[6688,410]],
- "cn":[[0,407],[0,410],[126,410],[428,410]],
+ "cb":[[0,408],[630,408],[1091,408],[2290,408],[2596,409],[4082,409],[6435,409],[6688,410]],
+ "cn":[[0,408],[0,410],[126,410],[428,410]],
  "cl":[[0,410]]
 }
 );

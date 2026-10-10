@@ -44,7 +44,6 @@ HWPH.put("a/2951",
   {"term":"Kathedersozialismus","qualifier":"","band":"9","col":"1229"},
   {"term":"Pauperismus","qualifier":"","band":"9","col":"1228"},
   {"term":"Politik, soziale","qualifier":"","band":null,"col":null},
-  {"term":"Polizeiwissenschaft 7 1080–1083 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Reichsgründung, innere","qualifier":"","band":"9","col":"1229"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Selbsthilfe/Staatshilfe","qualifier":"","band":"9","col":"1229"},
@@ -128,7 +127,12 @@ HWPH.put("a/2951",
   {"id":1649,"lemma":"Kontrolle, soziale","tf":3},
   {"id":2576,"lemma":"Rationalität, Rationalisierung","tf":3}
  ],
- "see_also":[{"id":2399,"lemma":"Polizei"}],
+ "see_also":[
+  {"id":2399,"lemma":"Polizei"},
+  {"id":2940,"lemma":"Soziale Frage"},
+  {"id":2953,"lemma":"Sozialstaat"},
+  {"id":3650,"lemma":"Wohlfahrt; Wohlfahrtsstaat"}
+ ],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Sozialpolitik"}],
  "reg_authors":[{"name":"Pankoke Eckart","n":7}]
 }

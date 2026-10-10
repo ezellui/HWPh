@@ -1,38 +1,5 @@
 HWPH.put("r/6e-65",
 [
- ["Negativität I 6 674","Absicht","","1","9–12","ref",26,"Absicht","negativitat i 6 674"],
- ["Negativität I 6 674","Gesinnung","",null,null,"see",1114,"Gesinnung","negativitat i 6 674"],
- ["Negativität I 6 674","Imputation","",null,null,"see",1405,"Imputation","negativitat i 6 674"],
- [
-  "Negativität I 6 674","Nebenwirkungen","",null,null,"see",2097,"Nebenwirkungen",
-  "negativitat i 6 674"
- ],
- ["Negativität I 6 674","Vorsatz","",null,null,"see",3497,"Vorsatz","negativitat i 6 674"],
- ["Negativität I 6 674","Wille","",null,null,"see",3620,"Wille","negativitat i 6 674"],
- ["Negativität I 6 674","Zurechnung","",null,null,"see",3712,"Zurechnung","negativitat i 6 674"],
- ["Neurose","Neurose","III","6","766","main",2124,"Neurose","neurose"],
- [
-  "Negativität II 6 685","Negation der Negation","","6","691","ref",2102,"Negation der Negation",
-  "negativitat ii 6 685"
- ],
- [
-  "Negativität II 6 685","Selbstreflexion","","9","519","ref",2846,"Selbstreflexion",
-  "negativitat ii 6 685"
- ],
- ["Negativität II 6 685","Subjekt","",null,null,"ref",3047,"Subjekt","negativitat ii 6 685"],
- [
-  "Negativität II 6 676 ens in subiecto","Substanz","II","10","513","ref",3062,
-  "Substanz; Substanz/Akzidens","negativitat ii 6 676 ens in subiecto"
- ],
- [
-  "Negativität I 6 674 ens originarium","Ungrund; Urgrund","","11","169","ref",3298,
-  "Ungrund; Urgrund","negativitat i 6 674 ens originarium"
- ],
- [
-  "Negativität II 6 683 Falschmünzerei","Umwertung aller Werte","(Nietzsche)","11","107","ref",3279,
-  "Umwertung aller Werte","negativitat ii 6 683 falschmunzerei"
- ],
- ["Negativität II 6 677","Objekt","","6","1040","ref",2183,"Objekt","negativitat ii 6 677"],
  ["néantisation","Liebe","IV","5","326","ref",1795,"Liebe","neantisation"],
  ["néantisation","Reflexion","","8","402f.","ref",2634,"Reflexion","neantisation"],
  ["néantisation","Tod","","10","1236","ref",3197,"Tod","neantisation"],
@@ -95,35 +62,40 @@ HWPH.put("r/6e-65",
  ["negatio","Negation","",null,null,"ref",2100,"Negation","negatio"],
  ["negatio","Individuation","","4","296","ref",1420,"Individuation, Individuationsprinzip","negatio"],
  [
-  "negatio in genere/extra genus","Negation","",null,null,"ref",2100,"Negation",
-  "negatio in genere/extra genus"
+  "negatio in genere/extra genus","Negation; Negativität","I","6","672","ref",2101,
+  "Negation, Negativität","negatio in genere/extra genus"
  ],
  [
-  "Negativität I 6 672 negatio infinita","Negation","",null,null,"ref",2100,"Negation",
-  "negativitat i 6 672 negatio infinita"
+  "negatio infinita","Negation; Negativität","I","6","672","ref",2101,"Negation, Negativität",
+  "negatio infinita"
  ],
  [
-  "Negativität I 6 672 negatio negationis","Negation","",null,null,"ref",2100,"Negation",
-  "negativitat i 6 672 negatio negationis"
+  "negatio negationis","Negation; Negativität","I","6","673","ref",2101,"Negation, Negativität",
+  "negatio negationis"
  ],
  [
-  "Negativität I 6 673","Negation der Negation","","6","690f.","ref",2102,"Negation der Negation",
-  "negativitat i 6 673"
- ],
- ["negatio realis","Negation","",null,null,"ref",2100,"Negation","negatio realis"],
- [
-  "Negativität I 6 672 negatio simplex","Negation","",null,null,"ref",2100,"Negation",
-  "negativitat i 6 672 negatio simplex"
- ],
- ["Negativität I 6 672","Negation","","6","666–671","ref",2099,"Negat","negativitat i 6 672"],
- [
-  "Negativität 6 671–686 s. auch","Dialektik","IV",null,null,"ref",583,"Dialektik",
-  "negativitat 6 671–686 s. auch"
+  "negatio negationis","Negation der Negation","","6","690f.","ref",2102,"Negation der Negation",
+  "negatio negationis"
  ],
  [
-  "Negativität 6 671–686 s. auch","Privation","",null,null,"ref",2461,"Privation",
-  "negativitat 6 671–686 s. auch"
+  "negatio realis","Negation; Negativität","I","6","672","ref",2101,"Negation, Negativität",
+  "negatio realis"
  ],
+ [
+  "negatio simplex","Negation; Negativität","I","6","672","ref",2101,"Negation, Negativität",
+  "negatio simplex"
+ ],
+ ["Negation","Negation","","6","666–671","main",2100,"Negation","negation"],
+ ["Negation","Negator","",null,null,"see",2104,"Negator","negation"],
+ ["Negation","Obversion","",null,null,"see",2197,"Obversion","negation"],
+ ["Negation","Qualität des Urteils","",null,null,"see",2545,"Qualität des Urteils","negation"],
+ ["Negation","Urteil","III (Formen)",null,null,"see",3355,"Urteil","negation"],
+ [
+  "Negation; Negativität","Negation; Negativität","","6","671–686","main",2100,"Negation",
+  "negation; negativitat"
+ ],
+ ["Negation; Negativität","Dialektik","IV",null,null,"see",583,"Dialektik","negation; negativitat"],
+ ["Negation; Negativität","Privation","",null,null,"see",2461,"Privation","negation; negativitat"],
  ["Negation","Mathematik, positive","",null,null,"ref",1897,"Mathematik, positive","negation"],
  ["Negation","Regellogik/Satzlogik","","8","470","ref",2643,"Regellogik/Satzlogik","negation"],
  [
@@ -132,8 +104,13 @@ HWPH.put("r/6e-65",
  ],
  ["Negation","Urteil","II 3","11","448","ref",3355,"Urteil","negation"],
  [
-  "Negation (theol.)","Via causalitatis/negationis/eminentiae Negation, bestimmte","",null,null,
-  "ref",3460,"Via causalitatis; via negationis; via eminentiae","negation (theol.)"
+  "Negation (theol.)","Via causalitatis/negationis/eminentiae","",null,null,"ref",3460,
+  "Via causalitatis; via negationis; via eminentiae","negation (theol.)"
+ ],
+ ["Negation, bestimmte","Dialektik","IV 1. 4","2","191","ref",583,"Dialektik","negation, bestimmte"],
+ [
+  "Negation, bestimmte","Kritik, immanente","","4","1292","ref",1696,"Kritik, immanente",
+  "negation, bestimmte"
  ],
  ["Negation, doppelte","Alternation","",null,null,"ref",110,"Alternation","negation, doppelte"],
  [
@@ -141,28 +118,35 @@ HWPH.put("r/6e-65",
   "negation, doppelte"
  ],
  [
-  "Negation, starke/schwache","Negation","",null,null,"ref",2100,"Negation",
-  "negation, starke/schwache"
+  "Negation, starke/schwache","Negation; Negativität","II","6","683","ref",2101,
+  "Negation, Negativität","negation, starke/schwache"
  ],
  [
-  "Negativität II 6 683","Negation der Negation","","6","686–692","ref",2102,"Negation der Negation",
-  "negativitat ii 6 683"
+  "Negation der Negation","Negation der Negation","","6","686–692","main",2102,
+  "Negation der Negation","negation der negation"
  ],
- ["Negation der Negation","Logik","",null,null,"ref",1803,"Logik","negation der negation"],
  [
-  "Negativität II 6 680","Positiv; Positivität","II","7","1113","ref",2408,"Positiv, Positivität",
-  "negativitat ii 6 680"
+  "Negation der Negation","Logik, dialektische","I","5","390","ref",1805,
+  "Logik, (spekulativ-)dialektische","negation der negation"
+ ],
+ [
+  "Negation der Negation","Negation; Negativität","II","6","680","ref",2101,"Negation, Negativität",
+  "negation der negation"
+ ],
+ [
+  "Negation der Negation","Positiv; Positivität","II","7","1113","ref",2408,"Positiv, Positivität",
+  "negation der negation"
  ],
  ["negativ unendlich","Unendlichkeit","","11","141f.","ref",3291,"Unendlichkeit","negativ unendlich"],
  [
   "negative Dialektik","Absolut; das Absolute","","1","30","ref",27,"Absolut, das Absolute",
   "negative dialektik"
  ],
- ["negative Dialektik","Negation","",null,null,"ref",2100,"Negation","negative dialektik"],
  [
-  "Negativität II 6 685 negative Macht","Macht","II (allg.)","5","613","ref",1844,"Macht",
-  "negativitat ii 6 685 negative macht"
+  "negative Dialektik","Negation; Negativität","II","6","685","ref",2101,"Negation, Negativität",
+  "negative dialektik"
  ],
+ ["negative Macht","Macht","II (allg.)","5","613","ref",1844,"Macht","negative macht"],
  [
   "negative Theologie","Theologie, negative","",null,null,"ref",3173,"Theologie, negative",
   "negative theologie"
@@ -179,8 +163,8 @@ HWPH.put("r/6e-65",
   "Negativität","Negation der Negation","",null,null,"ref",2102,"Negation der Negation",
   "negativitat"
  ],
- ["Negativität","Negation","",null,null,"ref",2100,"Negation","negativitat"],
- ["Negativität","Dialektik","IV",null,null,"ref",583,"Dialektik","negativitat"],
+ ["Negativität","Negation; Negativität","",null,null,"ref",2100,"Negation","negativitat"],
+ ["Negativität","Dialektik","IV 5. 1","2","209","ref",583,"Dialektik","negativitat"],
  [
   "Negativität","Skepsis; Skeptizismus","II","9","963","ref",2907,"Skepsis; Skeptizismus",
   "negativitat"
@@ -416,17 +400,14 @@ HWPH.put("r/6e-65",
  ["Neuthomismus","Neuscholastik","",null,null,"see",2125,"Neuscholastik","neuthomismus"],
  ["Neuthomismus","Thomismus","",null,null,"see",3188,"Thomismus","neuthomismus"],
  [
-  "Neutralisierung (Husserl)","Neutralisierung (Husserl)","","6","781","main",2130,
-  "Neutralisierungen, Zeitalter der","neutralisierung (husserl)"
+  "Neutralisierung","Neutralisierung","(Husserl)","6","781","main",2129,
+  "Neutralisierung (neutrales Bewußtsein)","neutralisierung"
  ],
  [
-  "Neutralisierung (Husserl)","Bewusstsein, positionales (Husserl)","",null,null,"see",416,
-  "Bewußtsein, positionales","neutralisierung (husserl)"
+  "Neutralisierung","Bewusstsein, positionales","(Husserl)",null,null,"see",416,
+  "Bewußtsein, positionales","neutralisierung"
  ],
- [
-  "Neutralisierung (Husserl)","Setzen II","",null,null,"see",2876,"Setzen, Setzung",
-  "neutralisierung (husserl)"
- ],
+ ["Neutralisierung","Setzen","II",null,null,"see",2876,"Setzen, Setzung","neutralisierung"],
  [
   "Neutralisierungen, Zeitalter der","Neutralisierungen, Zeitalter der","(Schmitt)","6","781f.",
   "main",2130,"Neutralisierungen, Zeitalter der","neutralisierungen, zeitalter der"
@@ -449,12 +430,20 @@ HWPH.put("r/6e-65",
  ["Neuzeit","Selbsterhaltung","","9","402","ref",2832,"Selbsterhaltung","neuzeit"],
  ["new age","Weltalter; Zeitalter","","12","451","ref",3559,"Weltalter; Zeitalter","new age"],
  ["new Jerusalem","Reich Gottes","","8","522","ref",2658,"Reich Gottes","new jerusalem"],
+ ["new pantheism","Prozesstheologie","",null,null,"ref",2500,"Prozeßtheologie","new pantheism"],
  [
-  "new pantheism","Prozesstheologie new philosophy of science","",null,null,"ref",null,null,
-  "new pantheism"
+  "new philosophy of science","Wissenschaft","III","12","946","ref",3635,"Wissenschaft",
+  "new philosophy of science"
+ ],
+ [
+  "new philosophy of science","Wissenschaftstheorie","","12","978","ref",3646,
+  "Wissenschaftstheorie; Wissenschaftsphilosophie","new philosophy of science"
  ],
  ["new realism","Neurealismus new subjectivism","",null,null,"ref",null,null,"new realism"],
- ["new theology","Prozesstheologie nexum","",null,null,"ref",null,null,"new theology"],
+ ["new theology","Prozesstheologie","",null,null,"ref",2500,"Prozeßtheologie","new theology"],
+ ["nexum","Vertrag","II (soz./pol.)","11","965","ref",3445,"Vertrag","nexum"],
+ ["nexus","Kategorie; Kategorienlehre","V","4","760","ref",1540,"Kategorie, Kategorienlehre","nexus"],
+ ["nexus","Vernunft; Verstand","III E","11","788","ref",3423,"Vernunft; Verstand","nexus"],
  [
   "nexus effectivus","Ursache/Wirkung","III","11","394","ref",3350,"Ursache/Wirkung",
   "nexus effectivus"
@@ -476,68 +465,6 @@ HWPH.put("r/6e-65",
  ["Nezessitieren","Nezessitieren","","6","799–801","main",2133,"Nezessitieren","nezessitieren"],
  ["Nezessitieren","Freiheit","III",null,null,"see",946,"Freiheit","nezessitieren"],
  ["Nezessitieren","Wille","II",null,null,"see",3620,"Wille","nezessitieren"],
- [
-  "Negativität II 6 684 Nichthintergehbarkeit","Unhintergehbarkeit","",null,null,"ref",3300,
-  "Unhintergehbarkeit","negativitat ii 6 684 nichthintergehbarkeit"
- ],
- [
-  "Negativität II 6 684","Principium rationis sufficientis","","7","1327","ref",2457,
-  "Principium rationis sufficientis","negativitat ii 6 684"
- ],
- [
-  "Negativität I 6 672 praedictio","Voraussage","",null,null,"ref",3487,
-  "Voraussage; Vorhersage; Prognose","negativitat i 6 672 praedictio"
- ],
- ["Negativität Privation","Malum","V",null,null,"ref",1852,"Malum","negativitat privation"],
- [
-  "Negativität Privation","Analyse/Synthese","","1","246","ref",126,"Analyse/Synthese",
-  "negativitat privation"
- ],
- [
-  "Negativität I 6 674 realitas entis","Haecceitas","","3","985","ref",1210,"Haecceitas",
-  "negativitat i 6 674 realitas entis"
- ],
- [
-  "Neutralisierungen, Zeitalter der","Neutralisierungen, Zeitalter der","(Schmitt)",null,null,"main",
-  2130,"Neutralisierungen, Zeitalter der","neutralisierungen, zeitalter der"
- ],
- [
-  "Neutralisierungen, Zeitalter der","Säkularisierung","",null,null,"ref",2738,"Säkularisierung",
-  "neutralisierungen, zeitalter der"
- ],
- ["Neurose","Neurose","I","6","761","main",2124,"Neurose","neurose"],
- [
-  "Negativität II 6 678 Unendlichkeit, erfüllte","Zweideutigkeit; Vieldeutigkeit","III","12","1518",
-  "ref",3721,"Zweideutigkeit; Vieldeutigkeit","negativitat ii 6 678 unendlichkeit, erfullte"
- ],
- [
-  "Negativität II 6 681ff. Urteil, neutrales","Annahme","","1","331","ref",154,"Annahme, Annehmen",
-  "negativitat ii 6 681ff. urteil, neutrales"
- ],
- ["Negativität II","Verleugnung","","11","719","ref",3416,"Verleugnung","negativitat ii"],
- [
-  "Negativität II 6 676 Verneinung des anderen","Streit","II (soz.)","10","301","ref",3039,"Streit",
-  "negativitat ii 6 676 verneinung des anderen"
- ],
- [
-  "Negativität II 6 678 Vernunft, beobachtende","Observatio; Beobachtung","","6","1077","ref",2195,
-  "Observatio, Beobachtung","negativitat ii 6 678 vernunft, beobachtende"
- ],
- [
-  "Negativität II 6 678","Vernunft; Verstand","VI","11","828","ref",3423,"Vernunft; Verstand",
-  "negativitat ii 6 678"
- ],
- ["Negativität II 6 682","Norm","II","6","913f.","ref",2160,"Norm","negativitat ii 6 682"],
- ["Negativität II 6 682","Objekt","","6","1047","ref",2183,"Objekt","negativitat ii 6 682"],
- [
-  "Negativität II 6 682","Sein; Seiendes","V 7","9","225","ref",2806,"Sein; Seiendes",
-  "negativitat ii 6 682"
- ],
- [
-  "Negativität II 6 682","Vernunft; Verstand","VII D 1","11","842","ref",3423,"Vernunft; Verstand",
-  "negativitat ii 6 682"
- ],
- ["Negativität II 6 682","Wahrheit","V C","12","102","ref",3523,"Wahrheit","negativitat ii 6 682"],
  ["Neemann Ute","Merkmal","II","5","1154f.","author",1930,"Merkmal","neemann ute"],
  ["Neubaur Caroline","Todestrieb","","10","1249–1251","author",3200,"Todestrieb","neubaur caroline"],
  ["Neuendorff Martina","Verdacht","","11","595–598","author",3388,"Verdacht","neuendorff martina"],

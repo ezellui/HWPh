@@ -18,11 +18,12 @@ HWPH.put("a/3621",
  "backlinks":[{"id":3653,"lemma":"Wohlwollen","n":1},{"id":3705,"lemma":"Zueignung (Oikeiosis)","n":1}],
  "outlinks":[{"id":671,"lemma":"Eigenwille, Eigensinn","n":1},{"id":1468,"lemma":"Intentio","n":1}],
  "register":[
-  {"term":"das II 8 1353","qualifier":"","band":"12","col":"797"},
+  {"term":"Gute","qualifier":"","band":"12","col":"797"},
   {"term":"guter Wille","qualifier":"","band":null,"col":null},
   {"term":"mala voluntas","qualifier":"","band":"12","col":"796"},
   {"term":"rās.ôn","qualifier":"","band":"12","col":"796"},
-  {"term":"voluntas bona","qualifier":"","band":null,"col":null}
+  {"term":"voluntas bona","qualifier":"","band":null,"col":null},
+  {"term":"εὐδοκία","qualifier":"","band":"12","col":"796"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},

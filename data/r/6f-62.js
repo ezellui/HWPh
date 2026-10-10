@@ -1,19 +1,20 @@
 HWPH.put("r/6f-62",
 [
  [
-  "Observatio; Beobachtung","Observatio; Beobachtung","","6","1076","main",2195,
-  "Observatio, Beobachtung","observatio; beobachtung"
+  "obligatoria II (log.) ars observandi","Observatio; Beobachtung","","6","1076","ref",2195,
+  "Observatio, Beobachtung","obligatoria ii (log.) ars observandi"
  ],
+ ["obligatoria II (log.)","These","",null,null,"ref",3186,"These","obligatoria ii (log.)"],
  [
-  "Obligatio; Ars obligatoria II (log.)","Obligatio; Ars obligatoria II (log.)","","6","1070","main",
-  2194,"Obligatio, Ars obligatoria","obligatio; ars obligatoria ii (log.)"
+  "obligatoria II (log.)","Philosophie","V B (institut. Formen)","7","806f.","ref",2353,
+  "Philosophie","obligatoria ii (log.)"
  ],
  ["obduratio","Verstockung","",null,null,"ref",3440,"Verstockung","obduratio"],
  ["oben/unten","Anisotropie/Isotropie","","1","319","ref",149,"Anisotropie/Isotropie","oben/unten"],
  ["oben/unten","Überbau/Basis","","11","6","ref",3247,"Überbau/Basis","oben/unten"],
  ["Oberbau","Überbau/Basis","","11","6","ref",3247,"Überbau/Basis","oberbau"],
  [
-  "Oberbau, personeller","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Oberbau, personeller","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","oberbau, personeller"
  ],
  ["Oberbegriff","Oberbegriff","","6","1021f.","main",2180,"Oberbegriff","oberbegriff"],
@@ -46,7 +47,12 @@ HWPH.put("r/6f-62",
   "obiectivus/subiectivus","Potentia obiectiva/subiectiva","",null,null,"ref",null,null,
   "obiectivus/subiectivus"
  ],
- ["obiectivus/subiectivus","Subjekt","",null,null,"ref",3047,"Subjekt","obiectivus/subiectivus"],
+ [
+  "obiectivus/subiectivus","Subjekt/Objekt","",null,null,"ref",3047,"Subjekt",
+  "obiectivus/subiectivus"
+ ],
+ ["obiectum","Gegenstand","",null,null,"ref",1020,"Gegenstand","obiectum"],
+ ["obiectum","Objekt","",null,null,"ref",2183,"Objekt","obiectum"],
  ["obiectum disciplinare","Objekt","","6","1037","ref",2183,"Objekt","obiectum disciplinare"],
  [
   "obiectum materiale/formale","Materialobjekt/Formalobjekt","",null,null,"ref",1891,
@@ -78,14 +84,20 @@ HWPH.put("r/6f-62",
   "Objekt","Objekt, transzendentales","(Kant)",null,null,"see",2184,"Objekt, transzendentales",
   "objekt"
  ],
- ["Objekt","Subjekt","",null,null,"see",3047,"Subjekt","objekt"],
+ ["Objekt","Subjekt/Objekt","",null,null,"see",3047,"Subjekt","objekt"],
+ ["Objekt","Präsenz","","7","1260f.","ref",2444,"Präsenz","objekt"],
+ ["Objekt","Realismus","II 4","8","161","ref",2588,"Realismus","objekt"],
+ [
+  "Objekt","Realität, formale/objektive","I","8","197","ref",2591,"Realität, formale/objektive",
+  "objekt"
+ ],
  ["Objekt, adäquates","Objekt","","6","1032f.","ref",2183,"Objekt","objekt, adaquates"],
  [
   "Objekt, ästhetisches","Kunst; Kunstwerk","V 3","4","1423f.","ref",1712,"Kunst, Kunstwerk",
   "objekt, asthetisches"
  ],
  ["Objekt, ewiges","Objekt","","6","1051","ref",2183,"Objekt","objekt, ewiges"],
- ["Objekt, ewiges","Prozess II (Whitehead)","","7","1559","ref",2499,"Prozeß","objekt, ewiges"],
+ ["Objekt, ewiges","Prozess","II (Whitehead)","7","1559","ref",2499,"Prozeß","objekt, ewiges"],
  ["Objekt, immanentes","Objekt","","6","1046ff.","ref",2183,"Objekt","objekt, immanentes"],
  ["Objekt, inneres/äusseres","Objekt","","6","1036","ref",2183,"Objekt","objekt, inneres/ausseres"],
  ["Objekt, intentionales","Objekt","","6","1048","ref",2183,"Objekt","objekt, intentionales"],
@@ -114,7 +126,8 @@ HWPH.put("r/6f-62",
   "objektbesetzung"
  ],
  ["Objektbesetzung","Libido","",null,null,"see",1791,"Libido","objektbesetzung"],
- ["Objektbesetzung","Narzissmus Objektbeziehung","",null,null,"see",null,null,"objektbesetzung"],
+ ["Objektbesetzung","Narzissmus","",null,null,"see",2069,"Narzißmus, narzißtisch","objektbesetzung"],
+ ["Objektbeziehung","Selbstgefühl","","9","450","ref",2836,"Selbstgefühl","objektbeziehung"],
  [
   "Objektbeziehungspsychologie","Ödipus-Komplex","I","6","1101","ref",2202,"Ödipus-Komplex",
   "objektbeziehungspsychologie"
@@ -125,7 +138,8 @@ HWPH.put("r/6f-62",
  ],
  ["Objektität","Objektität","(Schopenhauer)","6","1054","main",2186,"Objektität","objektitat"],
  ["Objektität","Wille","",null,null,"see",3620,"Wille","objektitat"],
- ["objektiv","Subjekt","",null,null,"ref",3047,"Subjekt","objektiv"],
+ ["objektiv","Subjekt/Objekt","",null,null,"ref",3047,"Subjekt","objektiv"],
+ ["objektiv","Unparteilichkeit","","11","254","ref",3316,"Unparteilichkeit","objektiv"],
  [
   "Objektiv, das (Meinong)","Gegenstandstheorie","(Meinong)",null,null,"ref",1021,
   "Gegenstandstheorie","objektiv, das (meinong)"
@@ -141,9 +155,22 @@ HWPH.put("r/6f-62",
  ],
  ["Objektivation","Objektivation","","6","1054f.","main",2187,"Objektivation","objektivation"],
  ["Objektivation","Objektivierung","",null,null,"see",2191,"Objektivierung","objektivation"],
- ["Objektivation","Objektivation","",null,null,"main",2187,"Objektivation","objektivation"],
+ [
+  "Objektivation des Geistes/des Lebens","Objektivation des Geistes/des Lebens","(Dilthey)","6",
+  "1055f.","main",2188,"Objektivation des Geistes /des Lebens",
+  "objektivation des geistes/des lebens"
+ ],
+ [
+  "Objektivation des Geistes/des Lebens","Geisteswissenschaften","",null,null,"see",1036,
+  "Geisteswissenschaften","objektivation des geistes/des lebens"
+ ],
  ["Objektivdialektik","Realdialektik","","8","134","ref",2584,"Realdialektik","objektivdialektik"],
- ["objektive/subjektive Logik","Logik","",null,null,"ref",1803,"Logik","objektive/subjektive logik"],
+ [
+  "objektive/subjektive Logik","Logik, dialektische","I","5","394","ref",1805,
+  "Logik, (spekulativ-)dialektische","objektive/subjektive logik"
+ ],
+ ["objektive Gewissheit","Subjekt/Objekt","I",null,null,"ref",3047,"Subjekt","objektive gewissheit"],
+ ["objektive Gewissheit","Wissen","VI","12","894","ref",3634,"Wissen","objektive gewissheit"],
  ["objektive Präsenz","Präsenz","",null,null,"ref",2444,"Präsenz","objektive prasenz"],
  [
   "objektive Psychologie","Psychologie, objektive","",null,null,"ref",2517,"Psychologie, objektive",
@@ -164,6 +191,14 @@ HWPH.put("r/6f-62",
  ],
  ["objektiver Geist","Geist","VIII","3","194ff.","ref",1030,"Geist","objektiver geist"],
  ["objektiver Geist","Geistiges","",null,null,"ref",null,null,"objektiver geist"],
+ [
+  "objektiver Idealismus","Begriffsrealismus","",null,null,"ref",371,"Begriffsrealismus",
+  "objektiver idealismus"
+ ],
+ [
+  "objektiver Idealismus","Idealismus, objektiver","(Schelling)",null,null,"ref",1352,
+  "Idealismus, objektiver","objektiver idealismus"
+ ],
  [
   "objektiver Logizismus","Psychologismus","","7","1677","ref",2522,"Psychologismus",
   "objektiver logizismus"
@@ -210,7 +245,16 @@ HWPH.put("r/6f-62",
   "objektivitat"
  ],
  ["Objektivität","Realität/Idealität","","8","191f.","ref",2590,"Realität/Idealität","objektivitat"],
- ["Objektivität","Subjekt","",null,null,"ref",3047,"Subjekt","objektivitat"],
+ [
+  "Objektivität","Subjekt/Objekt","IV","10","423f.","ref",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "objektivitat"
+ ],
+ ["Objektivität","Subjektivität","II","10","466","ref",3052,"Subjektivität","objektivitat"],
+ [
+  "Objektivität","Werturteil","I","12","616f.","ref",3594,"Werturteil; Werturteilsstreit",
+  "objektivitat"
+ ],
+ ["Objektivität","Zweck; Ziel","","12","1505","ref",3718,"Zweck; Ziel","objektivitat"],
  [
   "Objektivität, historische","Parteilichkeit","I (hist.)","7","141f.","ref",2282,"Parteilichkeit",
   "objektivitat, historische"
@@ -244,6 +288,23 @@ HWPH.put("r/6f-62",
   "Obligatio; Ars obligatoria","Obligatio; Ars obligatoria","","6","1065–1072","main",2194,
   "Obligatio, Ars obligatoria","obligatio; ars obligatoria"
  ],
+ [
+  "Obligatio; Ars obligatoria","Pflicht","",null,null,"see",2334,"Pflicht",
+  "obligatio; ars obligatoria"
+ ],
+ [
+  "Obligatio; Ars obligatoria","Sollen","",null,null,"see",2920,"Sollen",
+  "obligatio; ars obligatoria"
+ ],
+ [
+  "Obligatio; Ars obligatoria","Konsequenz","",null,null,"see",1619,"Konsequenz",
+  "obligatio; ars obligatoria"
+ ],
+ [
+  "Obligatio; Ars obligatoria","Sophisma","",null,null,"see",2925,"Sophisma; Sophismata",
+  "obligatio; ars obligatoria"
+ ],
+ ["Obligatio; Ars obligatoria","These","",null,null,"see",3186,"These","obligatio; ars obligatoria"],
  ["obligatio","Versprechen","","11","906ff.","ref",3435,"Versprechen","obligatio"],
  ["obligatio","Vertrag","II (soz./pol.)","11","965f.","ref",3445,"Vertrag","obligatio"],
  [
@@ -261,7 +322,11 @@ HWPH.put("r/6f-62",
  ["oblivio Dei","Vergessen, das","","11","672","ref",3404,"Vergessen, das","oblivio dei"],
  ["oblivio sui","Selbstvergessenheit","",null,null,"ref",2851,"Selbstvergessenheit","oblivio sui"],
  ["oboedientia","Gehorsam","",null,null,"ref",1029,"Gehorsam","oboedientia"],
- ["oboenie","Philosophie","IV",null,null,"ref",2353,"Philosophie","oboenie"],
+ ["oboenie","Philosophie","IV J","7","777","ref",2353,"Philosophie","oboenie"],
+ [
+  "Obreption","Vitium subreptionis; Subreption","",null,null,"ref",3471,
+  "Vitium subreptionis; Subreption","obreption"
+ ],
  ["obscene","Obszön","",null,null,"ref",2196,"Obszön","obscene"],
  [
   "obscuratio cordis","Verblendung","","11","580","ref",3383,"Verblendung; Verblendungszusammenhang",
@@ -306,22 +371,72 @@ HWPH.put("r/6f-62",
  ["Obversion","Obversion","","6","1089f.","main",2197,"Obversion","obversion"],
  ["Obversion","Konversion","",null,null,"see",1654,"Konversion","obversion"],
  ["Obversion","Negation","I (log.)",null,null,"see",2100,"Negation","obversion"],
- ["Obszön","Obszön","","6","1086","main",2196,"Obszön","obszon"],
+ ["obligatoria I (eth.)","Officium","",null,null,"ref",2207,"Officium","obligatoria i (eth.)"],
  [
-  "Obligatio; Ars obligatoria I (eth.)","Obligatio; Ars obligatoria I (eth.)","",null,null,"main",
-  2194,"Obligatio, Ars obligatoria","obligatio; ars obligatoria i (eth.)"
+  "obligatoria I (eth.)","Pflichten, unvollkommene/vollkommene","",null,null,"ref",2335,
+  "Pflichten, unvollkommene/vollkommene","obligatoria i (eth.)"
  ],
  [
-  "Obligatio; Ars obligatoria I (eth.)","Pflicht","",null,null,"ref",2334,"Pflicht",
-  "obligatio; ars obligatoria i (eth.)"
+  "obligatoria I (eth.)","Pflichtenkollision","",null,null,"ref",2336,"Pflichtenkollision",
+  "obligatoria i (eth.)"
  ],
  [
-  "Obligatio; Ars obligatoria I (eth.)","Rechtspflicht","","8","311","ref",2613,"Rechtspflicht",
-  "obligatio; ars obligatoria i (eth.)"
+  "obligatoria I (eth.)","Pflichtenlehre","",null,null,"ref",2337,"Pflichtenlehre",
+  "obligatoria i (eth.)"
+ ],
+ ["obligatoria I (eth.)","Rat","II",null,null,"ref",2569,"Rat","obligatoria i (eth.)"],
+ [
+  "obligatoria I (eth.)","Rechtspflicht","",null,null,"ref",2613,"Rechtspflicht",
+  "obligatoria i (eth.)"
+ ],
+ ["obligatoria I (eth.)","Sollen","",null,null,"ref",2920,"Sollen","obligatoria i (eth.)"],
+ [
+  "obligatoria I (eth.)","Supererogation","",null,null,"ref",3079,"Supererogation",
+  "obligatoria i (eth.)"
+ ],
+ ["obligatoria","Pflicht","",null,null,"ref",2334,"Pflicht","obligatoria"],
+ ["obligatoria","Präskriptiv","",null,null,"ref",2445,"Präskriptiv","obligatoria"],
+ [
+  "obligatoria II (log.)","Paralogismus","",null,null,"ref",2273,"Paralogismus",
+  "obligatoria ii (log.)"
+ ],
+ ["obligatoria II (log.)","Trugschluss","",null,null,"ref",3237,"Trugschluß","obligatoria ii (log.)"],
+ [
+  "obligatoria II (log.)","Rechtfertigung","I",null,null,"ref",2601,"Rechtfertigung",
+  "obligatoria ii (log.)"
  ],
  [
-  "Obligatio; Ars obligatoria I (eth.)","Subjekt","",null,null,"ref",3047,"Subjekt",
-  "obligatio; ars obligatoria i (eth.)"
+  "obligatoria II (log.)","Widerlegung","",null,null,"ref",3605,"Widerlegung",
+  "obligatoria ii (log.)"
+ ],
+ ["obligatoria I (eth.)","Pflicht","",null,null,"ref",2334,"Pflicht","obligatoria i (eth.)"],
+ [
+  "obligatoria I (eth.)","Rechtspflicht","","8","311","ref",2613,"Rechtspflicht",
+  "obligatoria i (eth.)"
+ ],
+ [
+  "obligatoria I (eth.)","Subjekt/Objekt","II","10","409","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","obligatoria i (eth.)"
+ ],
+ [
+  "obligatoria I (eth.)","Vertrag","II (soz./pol.)","11","966","ref",3445,"Vertrag",
+  "obligatoria i (eth.)"
+ ],
+ ["obligatoria I (eth.)","Officium","",null,null,"ref",2207,"Officium","obligatoria i (eth.)"],
+ ["obligatoria I (eth.)","Pflicht","",null,null,"ref",2334,"Pflicht","obligatoria i (eth.)"],
+ ["obligatoria I (eth.)","Versprechen","",null,null,"ref",3435,"Versprechen","obligatoria i (eth.)"],
+ [
+  "obligatoria I (eth.)","Vertrag","II (soz./pol.)","11","965","ref",3445,"Vertrag",
+  "obligatoria i (eth.)"
+ ],
+ ["obligatoria II (log.)","These","",null,null,"ref",3186,"These","obligatoria ii (log.)"],
+ [
+  "obligatoria II (log.)","Versuch und Irrtum","",null,null,"ref",3441,"Versuch und Irrtum",
+  "obligatoria ii (log.)"
+ ],
+ [
+  "obligatoria II (log.)","Widerspruch","",null,null,"ref",3607,"Widerspruch",
+  "obligatoria ii (log.)"
  ],
  ["Oberhammer Gerhard","Nyāya","II","6","1012–1020","author",2179,"Nyaya","oberhammer gerhard"],
  [

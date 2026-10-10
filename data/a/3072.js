@@ -24,12 +24,11 @@ HWPH.put("a/3072",
  "outlinks":[],
  "register":[
   {"term":"kullun","qualifier":"","band":null,"col":null},
-  {"term":"natürliche bzw. vernünftige 8 726","qualifier":"","band":"10","col":"591"},
+  {"term":"Offenbarung","qualifier":"","band":"10","col":"591"},
   {"term":"quaestio","qualifier":"","band":"10","col":"590"},
   {"term":"scientia Dei et beatorum","qualifier":"","band":"10","col":"590"},
   {"term":"Sentenzen","qualifier":"","band":"10","col":"589"},
-  {"term":"summa","qualifier":"","band":null,"col":null},
-  {"term":"– VI (lit. Formen) 7 848–858 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"summa","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":234,"name":"Hugo von St. Viktor","b":4,"n":2,"l":0,"editor":0,"role":"source"},

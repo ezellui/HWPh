@@ -8,7 +8,7 @@ HWPH.put("r/3bd-3bf",
  ["νόησις","Vernunft; Verstand","II",null,null,"ref",3423,"Vernunft; Verstand","νοησισ"],
  ["νόησις","Denken","I","2","65","ref",552,"Denken","νοησισ"],
  ["νόησις","Doxa","","2","288","ref",633,"Doxa","νοησισ"],
- ["νόησις","Erkenntnis I (erk.)","","2","646f.","ref",796,"Erkennen, Erkenntnis","νοησισ"],
+ ["νόησις","Erkenntnis","I (erk.)","2","646f.","ref",796,"Erkennen, Erkenntnis","νοησισ"],
  [
   "νόησις","Intelligibel","","4","464","ref",1467,"Intelligibel, das Intelligible, Intelligibilität",
   "νοησισ"
@@ -39,7 +39,7 @@ HWPH.put("r/3bd-3bf",
  ["νοσοτροφία","Pythagoreismus","III","7","1730","ref",2539,"Pythagoreismus","νοσοτροφια"],
  ["νουθεσία","Strafe","I","10","214","ref",3035,"Strafe","νουθεσια"],
  [
-  "νουνέχεια","Rationalität I (erk.)","","8","53","ref",2576,"Rationalität, Rationalisierung",
+  "νουνέχεια","Rationalität","I (erk.)","8","53","ref",2576,"Rationalität, Rationalisierung",
   "νουνεχεια"
  ],
  ["νοῦς","Denken","I",null,null,"ref",552,"Denken","νουσ"],
@@ -83,6 +83,8 @@ HWPH.put("r/3bd-3bf",
  [
   "νοῦς ποιητικός","Vernunft; Verstand","II","11","753","ref",3423,"Vernunft; Verstand",
   "νουσ ποιητικοσ"
- ]
+ ],
+ ["νοῦς θύραθεν","Vernunft; Verstand","II","11","754","ref",3423,"Vernunft; Verstand","νουσ θυραθεν"],
+ ["νοῦσος","Krankheit","",null,null,"ref",1681,"Krankheit","νουσοσ"]
 ]
 );

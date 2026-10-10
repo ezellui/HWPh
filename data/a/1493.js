@@ -42,11 +42,11 @@ HWPH.put("a/1493",
   {"id":1410,"name":"J. Chevalier","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3517,"lemma":"Wahl","tf":3},{"id":309,"lemma":"Aussage","tf":4}],
- "see_also":[],
+ "see_also":[{"id":2328,"lemma":"Perversion"}],
  "groups":[
   {"id":22,"name":"Logik","label":"Inversion I (log.)"},
   {"id":35,"name":"Psychoanalyse","label":"Inversion II (psych.)"}
  ],
- "reg_authors":[{"name":"Menne Albert","n":61},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Menne Albert","n":62},{"name":"Red","n":241}]
 }
 );

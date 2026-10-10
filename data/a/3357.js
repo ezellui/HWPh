@@ -54,14 +54,14 @@ HWPH.put("a/3357",
  ],
  "register":[
   {"term":"aestimatio moralis","qualifier":"I","band":"11","col":"465"},
-  {"term":"Gute, das","qualifier":"","band":null,"col":null},
+  {"term":"Gute","qualifier":"II","band":null,"col":null},
   {"term":"instinct","qualifier":"I","band":"11","col":"467"},
   {"term":"jugement moral","qualifier":"","band":null,"col":null},
   {"term":"moral judgment","qualifier":"","band":null,"col":null},
   {"term":"moral sense","qualifier":"I","band":"11","col":"466"},
   {"term":"moralisches Urteil","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (eth.) 4 542f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vernunftgesetz","qualifier":"I","band":"11","col":"468"}
  ],
  "persons":[
   {"id":8075,"name":"D. Mcnaughton","b":2,"n":3,"l":0,"editor":0,"role":"source"},

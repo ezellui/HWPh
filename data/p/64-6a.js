@@ -1,0 +1,17 @@
+HWPH.put("p/64-6a",
+{"djabir":[["ḎJĀBIR","1gk:;5co"]],
+"djabr":[["ḏjabr","1wz:;;i1"]],
+"djahannam":[["djahannam","15p:;f2"]],
+"djanna":[["djanna","15p:;ey"]],
+"djatkina":[["Djatkina","1f7:;a0"]],
+"djauhari":[["DJAUHARĪ","1wz:;320"],["Ḏjauharī","1wz:;;ob"]],
+"djawhar":[["djawhar","1gk:;4l3"]],
+"djayyani":[["ḎJAYYĀNĪ","1wz:;42l"]],
+"djet":[["Djet","2u4:;u1,t,c,k,12"]],
+"djiang":[["Djiang","1bh:;1d5"]],
+"djihad":[["djihād","15p:;te"]],
+"djing":[["Djing","1cu:;;70"]],
+"djinn":[["djinn","15p:;7b"]],
+"djuric":[["DJURIC","2ej:;;5c8 8k:;;;19c"],["DJURIĆ","2t1:;;2j"]],
+"djz":[["DJZ","aa:;;15,i,1b uq:;;8,1g,p"]]}
+);

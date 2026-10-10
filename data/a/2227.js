@@ -41,6 +41,7 @@ HWPH.put("a/2227",
   {"term":"operationism","qualifier":"","band":null,"col":null},
   {"term":"Operativismus","qualifier":"II (psych.)","band":"6","col":"1221"},
   {"term":"Organismus, leerer","qualifier":"II (psych.)","band":"6","col":"1220"},
+  {"term":"surplus meaning","qualifier":"II (psych.)","band":"6","col":"1219"},
   {"term":"Variable, intervenierende","qualifier":"II (psych.)","band":"6","col":"1219"}
  ],
  "persons":[
@@ -106,7 +107,11 @@ HWPH.put("a/2227",
   {"id":3186,"lemma":"These","tf":2},
   {"id":2340,"lemma":"Phänomen","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":538,"lemma":"Definition, operationale"},
+  {"id":2228,"lemma":"Operativismus"},
+  {"id":377,"lemma":"Behaviorismus"}
+ ],
  "groups":[
   {"id":36,"name":"Psychologie","label":"Operationalismus II (psych.)"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Operationalismus I (wiss.)"},

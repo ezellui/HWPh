@@ -18,7 +18,6 @@ HWPH.put("a/2046",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"der 4 936","qualifier":"","band":"6","col":"261–263"},
   {"term":"Gynaikokratie","qualifier":"H","band":null,"col":null},
   {"term":"Matriarchat","qualifier":"","band":"6","col":"261"}
  ],

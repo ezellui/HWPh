@@ -17,10 +17,7 @@ HWPH.put("a/1755",
  "next":{"id":1756,"lemma":"Lebensweise, sozialistische","band":"5","col":149},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Eros","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 10 1488–1492 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Eros","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1804,"name":"J.-B. Pontalis","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

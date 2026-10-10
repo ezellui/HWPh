@@ -28,7 +28,12 @@ HWPH.put("a/1888",
   {"id":3560,"lemma":"Weltanschauung","n":1}
  ],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Empiriomonismus","qualifier":"3","band":"5","col":"862"},
+  {"term":"Geschichtsanschauung, monistische","qualifier":"3","band":"5","col":"862"},
+  {"term":"Menschewismus","qualifier":"3","band":"5","col":"863"},
+  {"term":"monistische Geschichtsanschauung","qualifier":"3","band":"5","col":"862"}
+ ],
  "persons":[
   {"id":449,"name":"K. Kautsky","b":3,"n":2,"l":2,"editor":0,"role":"source"},
   {"id":48,"name":"F. Engels","b":2,"n":2,"l":1,"editor":0,"role":"source"},
@@ -149,6 +154,6 @@ HWPH.put("a/1888",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Dahm Helmut","n":3}]
 }
 );

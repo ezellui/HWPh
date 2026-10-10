@@ -22,7 +22,6 @@ HWPH.put("a/3632",
  ],
  "outlinks":[],
  "register":[
-  {"term":"des Bewusstseins (Dilthey)","qualifier":"(Dilthey)","band":null,"col":null},
   {"term":"historischer Wirkungszusammenhang","qualifier":"(Dilthey)","band":null,"col":null},
   {"term":"Zusammenhang (Dilthey)","qualifier":"(Dilthey)","band":null,"col":null}
  ],

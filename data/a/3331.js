@@ -29,11 +29,11 @@ HWPH.put("a/3331",
  "register":[
   {"term":"dévoilement","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"exposition","qualifier":"(Heidegger)","band":"11","col":"333"},
-  {"term":"Undurchsichtigkeit","qualifier":"(Heidegger)","band":"11","col":"332"},
+  {"term":"unconcealment","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Verbergen","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Verborgenheit","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"ἀλήθεια","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"– I (allg.) 5 39–42 s. auch","qualifier":"(Heidegger)","band":null,"col":null}
+  {"term":"Verhüllung","qualifier":"(Heidegger)","band":"11","col":"332"},
+  {"term":"ἀλήθεια","qualifier":"(Heidegger)","band":null,"col":null}
  ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":6,"n":8,"l":0,"editor":0,"role":"source"},

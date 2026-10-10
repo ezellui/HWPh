@@ -17,10 +17,7 @@ HWPH.put("a/449",
  "next":{"id":450,"lemma":"Bisubjunktion","band":"1","col":952},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Biozönose","qualifier":"","band":null,"col":null},
-  {"term":"– I (biol.) 6 1146f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Biozönose","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":10522,"name":"F. Dahl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":14053,"name":"Friedrich","b":1,"n":1,"l":0,"editor":0,"role":"source"},

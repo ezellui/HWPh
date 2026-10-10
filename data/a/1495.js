@@ -24,6 +24,8 @@ HWPH.put("a/1495",
  "outlinks":[],
  "register":[
   {"term":"dissimulatio","qualifier":"","band":"4","col":"578"},
+  {"term":"Humor","qualifier":"","band":"4","col":"580f."},
+  {"term":"Maieutik","qualifier":"","band":"4","col":"578"},
   {"term":"simulatio","qualifier":"","band":"4","col":"578"},
   {"term":"Universalpoesie","qualifier":"","band":"4","col":"579"},
   {"term":"ἐιρωνεία","qualifier":"","band":null,"col":null}

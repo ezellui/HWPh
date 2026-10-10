@@ -40,7 +40,7 @@ HWPH.put("a/3146",
   {"id":3352,"lemma":"Ursprung","tf":2},
   {"id":535,"lemma":"Definition","tf":2}
  ],
- "see_also":[{"id":853,"lemma":"Evolutionstheorie"}],
+ "see_also":[{"id":853,"lemma":"Evolutionstheorie"},{"id":3145,"lemma":"Teleologie; teleologisch"}],
  "groups":[{"id":5,"name":"Biologie","label":"Teleonomie"}],
  "reg_authors":[{"name":"Hoppe Brigitte","n":3},{"name":"Schlüter Gisela","n":6}]
 }

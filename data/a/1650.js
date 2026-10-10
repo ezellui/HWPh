@@ -20,10 +20,11 @@ HWPH.put("a/1650",
  "register":[
   {"term":"conformitas","qualifier":"","band":"4","col":"1069"},
   {"term":"convenientia","qualifier":"","band":null,"col":null},
+  {"term":"gentium","qualifier":"","band":null,"col":null},
   {"term":"harmonia","qualifier":"","band":null,"col":null},
   {"term":"Homologie","qualifier":"","band":"4","col":"1068"},
   {"term":"principium convenientiae","qualifier":"","band":"4","col":"1070"},
-  {"term":"Univozität","qualifier":"","band":"4","col":"1069"}
+  {"term":"Univokation","qualifier":"","band":"4","col":"1069"}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":3,"l":0,"editor":0,"role":"source"},

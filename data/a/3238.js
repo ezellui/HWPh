@@ -112,6 +112,6 @@ HWPH.put("a/3238",
   {"id":44,"name":"Theologie","label":"Trunkenheit/Nüchternheit"},
   {"id":45,"name":"Topoi und Metaphern","label":"Trunkenheit/Nüchternheit"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

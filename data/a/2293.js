@@ -24,10 +24,10 @@ HWPH.put("a/2293",
  "outlinks":[{"id":2161,"lemma":"Normal, Normalität","n":1}],
  "register":[
   {"term":"Lust","qualifier":"II (eth.)","band":"7","col":"192"},
+  {"term":"pathologia aesthetica","qualifier":"II (eth.)","band":"7","col":"192"},
   {"term":"pathologia psychologica","qualifier":"II (eth.)","band":"7","col":"192"},
   {"term":"Sinnlichkeit","qualifier":"II (eth )","band":"7","col":"192"},
-  {"term":"παρὰφύσιν","qualifier":"I (med.)","band":"7","col":"191"},
-  {"term":"– I (med.) 7 191 s. auch","qualifier":"","band":"7","col":"191–193"}
+  {"term":"παρὰφύσιν","qualifier":"I (med.)","band":"7","col":"191"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -61,7 +61,7 @@ HWPH.put("a/2293",
   {"id":1009,"lemma":"Gefühl","tf":2},
   {"id":3635,"lemma":"Wissenschaft","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2161,"lemma":"Normal, Normalität"},{"id":53,"lemma":"Affekt"}],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Pathologisch II (eth.)"},
   {"id":25,"name":"Medizin","label":"Pathologisch I (med.)"}

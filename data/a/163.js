@@ -25,9 +25,10 @@ HWPH.put("a/163",
  ],
  "outlinks":[],
  "register":[
-  {"term":"/Objekt IV","qualifier":"","band":"1","col":"349f."},
+  {"term":"Absolute, das","qualifier":"","band":"1","col":"349f."},
   {"term":"Anschauung, ästhetische","qualifier":"","band":"1","col":"349"},
   {"term":"Bewusstsein, unmittelbares","qualifier":"","band":"1","col":"349"},
+  {"term":"intellektuelle Anschauung","qualifier":"","band":null,"col":null},
   {"term":"intuitus divinus","qualifier":"","band":"1","col":"349"},
   {"term":"intuitus gnosticus","qualifier":"","band":"1","col":"349"},
   {"term":"kontemplativ","qualifier":"","band":"1","col":"350"}

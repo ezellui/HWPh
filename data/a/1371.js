@@ -36,6 +36,6 @@ HWPH.put("a/1371",
  ],
  "see_also":[{"id":3050,"lemma":"Subjekt/Prädikat"},{"id":3355,"lemma":"Urteil"}],
  "groups":[{"id":22,"name":"Logik","label":"Identitätstheorie"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

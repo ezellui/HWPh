@@ -17,7 +17,10 @@ HWPH.put("a/1398",
  "next":{"id":1399,"lemma":"Implikation","band":"4","col":263},
  "backlinks":[{"id":3715,"lemma":"Zustimmung","n":1}],
  "outlinks":[{"id":1385,"lemma":"Illative Sense","n":1}],
- "register":[{"term":"informal inference","qualifier":"(Newman)","band":null,"col":null}],
+ "register":[
+  {"term":"informal inference","qualifier":"(Newman)","band":null,"col":null},
+  {"term":"natural inference","qualifier":"(Newman)","band":null,"col":null}
+ ],
  "persons":[
   {"id":1489,"name":"J. H. Newman","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":8869,"name":"J. Artz","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},

@@ -17,7 +17,7 @@ HWPH.put("a/2076",
  "next":{"id":2077,"lemma":"Natur, zweite","band":"6","col":484},
  "backlinks":[{"id":3528,"lemma":"Wahrheit, ewige","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Gottes","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":154,"name":"J. Böhme","b":1,"n":1,"l":0,"editor":0,"role":"source"},

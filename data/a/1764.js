@@ -22,6 +22,6 @@ HWPH.put("a/1764",
  "mentions":[],
  "see_also":[{"id":1780,"lemma":"Lemma"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Lehnsatz"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

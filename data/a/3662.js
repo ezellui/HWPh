@@ -34,6 +34,7 @@ HWPH.put("a/3662",
   {"id":3552,"lemma":"Weiblich/männlich","n":1}
  ],
  "register":[
+  {"term":"Bürgerwürde","qualifier":"","band":"12","col":"1089"},
   {"term":"citizen dignity","qualifier":"","band":"12","col":"1089"},
   {"term":"dignitas","qualifier":"","band":null,"col":null},
   {"term":"persona personalis/idealis","qualifier":"","band":"12","col":"1089"}

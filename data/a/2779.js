@@ -43,8 +43,8 @@ HWPH.put("a/2779",
   {"term":"creatio ex nihilo","qualifier":"","band":null,"col":null},
   {"term":"Enthaltung der Welt","qualifier":"V","band":null,"col":null},
   {"term":"Hominisation","qualifier":"V","band":"8","col":"1411"},
-  {"term":"natürliche bzw. vernünftige 8 726","qualifier":"V","band":"8","col":"1407"},
   {"term":"Neuschöpfung","qualifier":"I","band":"8","col":"1392"},
+  {"term":"Offenbarung","qualifier":"V","band":"8","col":"1407"},
   {"term":"productio","qualifier":"","band":null,"col":null},
   {"term":"Schlussstein","qualifier":"V","band":"8","col":"1410"},
   {"term":"Schöpfung aus dem Nichts","qualifier":"","band":null,"col":null},
@@ -54,7 +54,8 @@ HWPH.put("a/2779",
   {"term":"δημιουργός","qualifier":"III","band":"8","col":"1395f."},
   {"term":"καταβολή","qualifier":"III","band":"8","col":"1396"},
   {"term":"κτίσις","qualifier":"","band":null,"col":null},
-  {"term":"λόγοι σπερματικοί","qualifier":"II","band":"8","col":"1394"}
+  {"term":"λόγοι σπερματικοί","qualifier":"II","band":"8","col":"1394"},
+  {"term":"προβολή","qualifier":"III","band":"8","col":"1396"}
  ],
  "persons":[
   {"id":1557,"name":"C. Westermann","b":0,"n":8,"l":1,"editor":0,"role":"scholar"},
@@ -292,8 +293,9 @@ HWPH.put("a/2779",
  "reg_authors":[
   {"name":"Albertz Rainer","n":1},
   {"name":"Köhler Johannes","n":3},
-  {"name":"Red","n":242},
-  {"name":"Stammkötter Franz-Bernhard","n":3}
+  {"name":"Red","n":241},
+  {"name":"Stammkötter Franz-Bernhard","n":3},
+  {"name":"Zelle Carsten","n":1}
  ]
 }
 );

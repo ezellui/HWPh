@@ -29,10 +29,10 @@ HWPH.put("a/1782",
   {"id":823,"lemma":"Erziehung des Menschengeschlechts","n":1}
  ],
  "register":[
-  {"term":"89","qualifier":"I (päd.)","band":"5","col":"244"},
   {"term":"Anamnesis","qualifier":"I (päd.)","band":"5","col":"241"},
   {"term":"disciplina","qualifier":"I (päd.)","band":"5","col":"242"},
   {"term":"Gemeinschaft der Lehrenden und Lernenden","qualifier":"I (päd.)","band":"5","col":"245"},
+  {"term":"Vernunftgrund","qualifier":"I (päd.)","band":"5","col":"244"},
   {"term":"μάθησις","qualifier":"I (päd.)","band":null,"col":null}
  ],
  "persons":[
@@ -165,7 +165,16 @@ HWPH.put("a/1782",
   {"id":182,"lemma":"Antike","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[{"id":2054,"lemma":"Nachahmung"}],
+ "see_also":[
+  {"id":2054,"lemma":"Nachahmung"},
+  {"id":592,"lemma":"Didaktik"},
+  {"id":932,"lemma":"Formalstufen"},
+  {"id":263,"lemma":"Assoziation"},
+  {"id":366,"lemma":"Begriffsbildung"},
+  {"id":689,"lemma":"Einsicht, einsichtig"},
+  {"id":996,"lemma":"Gedächtnis"},
+  {"id":1783,"lemma":"Lerntheorien"}
+ ],
  "groups":[
   {"id":30,"name":"Pädagogik","label":"Lernen"},
   {"id":36,"name":"Psychologie","label":"Lernen II (psych.)"}

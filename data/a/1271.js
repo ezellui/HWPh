@@ -17,7 +17,10 @@ HWPH.put("a/1271",
  "next":{"id":1272,"lemma":"Hierarchisierung","band":"3","col":1126},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"formule hiérarchique","qualifier":"(Comte)","band":null,"col":null}],
+ "register":[
+  {"term":"formule hiérarchique","qualifier":"(Comte)","band":null,"col":null},
+  {"term":"loi encyclopédique","qualifier":"(Comte)","band":null,"col":null}
+ ],
  "persons":[
   {"id":130,"name":"A. Comte","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":822,"name":"W. Ostwald","b":0,"n":0,"l":1,"editor":0,"role":"source"},

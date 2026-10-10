@@ -22,10 +22,7 @@ HWPH.put("a/1546",
   {"id":3713,"lemma":"Zuschauer","n":1}
  ],
  "outlinks":[{"id":979,"lemma":"Furcht und Mitleid","n":1}],
- "register":[
-  {"term":"Entspannung","qualifier":"","band":"4","col":"784"},
-  {"term":"kathartische 5 1355–1359 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Entspannung","qualifier":"","band":"4","col":"784"}],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -57,7 +54,8 @@ HWPH.put("a/1546",
  "see_also":[
   {"id":979,"lemma":"Furcht und Mitleid"},
   {"id":1734,"lemma":"Läuterung, Reinigung"},
-  {"id":1955,"lemma":"Methode"}
+  {"id":1955,"lemma":"Methode"},
+  {"id":3214,"lemma":"Tragische, das"}
  ],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Katharsis"}],
  "reg_authors":[{"name":"Flashar Helmut","n":3},{"name":"Hasenjaeger Gisbert","n":6}]

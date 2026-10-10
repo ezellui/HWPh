@@ -23,12 +23,15 @@ HWPH.put("a/2364",
  "backlinks":[{"id":3673,"lemma":"Zeichen","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"emisch","qualifier":"","band":"7","col":"928"},
   {"term":"etisch","qualifier":"","band":"7","col":"928"},
   {"term":"Kommutation","qualifier":"","band":"7","col":"929"},
   {"term":"Laut","qualifier":"","band":null,"col":null},
   {"term":"Morphophonem","qualifier":"","band":"7","col":"928"},
+  {"term":"Phonem","qualifier":"","band":null,"col":null},
+  {"term":"Phonematik; Phonemik","qualifier":"","band":"7","col":"927"},
   {"term":"Phonetik, funktionale","qualifier":"","band":null,"col":null},
-  {"term":"– III (ling.) 10 323–325 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Sprachlaut","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":443,"name":"R. Jakobson","b":1,"n":6,"l":1,"editor":0,"role":"source"},

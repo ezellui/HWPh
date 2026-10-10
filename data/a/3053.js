@@ -36,11 +36,12 @@ HWPH.put("a/3053",
   {"term":"Monade","qualifier":"(Husserl)","band":"10","col":"473"},
   {"term":"reines Bewusstsein","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Seinsbewährung","qualifier":"(Husserl)","band":"10","col":"472"},
+  {"term":"Sinngebung","qualifier":"(Husserl)","band":"10","col":"472"},
   {"term":"Subjektivität, absolute","qualifier":"(Husserl)","band":"10","col":"472"},
   {"term":"transzendentale Intersubjektivität","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"transzendentale Subjektivität","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"Urstätte aller Sinngebung","qualifier":"(Husserl)","band":"10","col":"472"},
-  {"term":"– II (phän.) 2 595f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"transzendentales Ego","qualifier":"(Husserl)","band":"10","col":"472f."},
+  {"term":"Urstätte aller Sinngebung","qualifier":"(Husserl)","band":"10","col":"472"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},

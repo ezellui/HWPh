@@ -26,7 +26,10 @@ HWPH.put("a/2084",
   {"id":3706,"lemma":"Zufall","n":1}
  ],
  "outlinks":[{"id":1087,"lemma":"Geschichte der Natur","n":1}],
- "register":[{"term":"Geschichte I","qualifier":"","band":"6","col":"526"}],
+ "register":[
+  {"term":"historia naturalis","qualifier":"","band":"6","col":"526"},
+  {"term":"i‘στορία","qualifier":"","band":"6","col":"526"}
+ ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":17,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},

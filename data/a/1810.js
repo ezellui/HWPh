@@ -18,6 +18,8 @@ HWPH.put("a/1810",
  "backlinks":[{"id":3424,"lemma":"Vernunft, historische","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Geschichtslogik","qualifier":"","band":null,"col":null},
+  {"term":"Historiologie","qualifier":"","band":"5","col":"417"},
   {"term":"historische Logik","qualifier":"","band":null,"col":null},
   {"term":"Logik der Geschichte","qualifier":"","band":null,"col":null}
  ],

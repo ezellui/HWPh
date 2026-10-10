@@ -22,6 +22,6 @@ HWPH.put("a/312",
  "mentions":[],
  "see_also":[{"id":870,"lemma":"Exklusion"}],
  "groups":[{"id":22,"name":"Logik","label":"Ausschliessung"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

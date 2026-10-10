@@ -19,8 +19,8 @@ HWPH.put("a/1222",
  "outlinks":[],
  "register":[
   {"term":"Hemmung durch Reflexion","qualifier":"(Gehlen)","band":null,"col":null},
-  {"term":"primäres/sekundäres (Reininger)","qualifier":"(Gehlen)","band":"3","col":"997"},
-  {"term":"Reflexion","qualifier":"(Gehlen)","band":null,"col":null}
+  {"term":"Reflexion","qualifier":"(Gehlen)","band":null,"col":null},
+  {"term":"Selbstbewusstsein","qualifier":"(Gehlen)","band":"3","col":"997"}
  ],
  "persons":[
   {"id":87,"name":"A. Gehlen","b":3,"n":2,"l":0,"editor":0,"role":"source"},

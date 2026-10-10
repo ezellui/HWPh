@@ -18,11 +18,11 @@ HWPH.put("a/2397",
  "backlinks":[{"id":2998,"lemma":"Staat","n":2},{"id":2999,"lemma":"Staatslehre","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"601","qualifier":"","band":"7","col":"1073"},
   {"term":"animal politicum","qualifier":"","band":"7","col":"1073"},
   {"term":"animal sociale","qualifier":"","band":"7","col":"1073"},
   {"term":"body politic","qualifier":"","band":"7","col":"1073"},
-  {"term":"corpus politicum","qualifier":"","band":"7","col":"1073"}
+  {"term":"corpus politicum","qualifier":"","band":"7","col":"1073"},
+  {"term":"Körper, politischer","qualifier":"","band":"7","col":"1073"}
  ],
  "persons":[
   {"id":9587,"name":"F. Schotten","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},

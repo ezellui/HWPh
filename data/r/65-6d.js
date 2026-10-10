@@ -1,27 +1,9 @@
 HWPH.put("r/65-6d",
 [
- ["Emanation","Emanation","",null,null,"main",714,"Emanation","emanation"],
- [
-  "empirische cultural fusion","Assimilation/Dissimilation","III (kult.)","1","547","ref",262,
-  "Assimilation/Dissimilation","empirische cultural fusion"
- ],
- ["Emanation","Emanation","",null,null,"main",714,"Emanation","emanation"],
- ["Emanation","Sein; Seiendes","II",null,null,"ref",2806,"Sein; Seiendes","emanation"],
- ["Emanation","Transzendenz I","",null,null,"ref",3223,"Transzendenz; Transzendieren","emanation"],
- ["Emanation","Wahrheit","I B",null,null,"ref",3523,"Wahrheit","emanation"],
- ["Emanation","Akt/Potenz","","1","138","ref",83,"Akt/Potenz","emanation"],
- ["Emanation","Andersheit","","1","298","ref",138,"Andersheit, Anderssein","emanation"],
- ["Emanation","Angleichung an Gott","","1","308","ref",143,"Angleichung an Gott","emanation"],
- ["Emanation","Etwas","","2","815","ref",841,"Etwas","emanation"],
- ["Emanation","Freiheit","I","2","1072","ref",946,"Freiheit","emanation"],
- ["Emanation","Gegensatz","I (met.)","3","109f.","ref",1018,"Gegensatz","emanation"],
- ["Emanation","Gott","VI","3","743f.","ref",1162,"Gott","emanation"],
- ["Emanation","Sein; Seiendes","I 2","9","177","ref",2806,"Sein; Seiendes","emanation"],
- ["Emanation","Unsagbare, das","","11","257","ref",3317,"Unsagbare, das","emanation"],
- ["Emanation","Vernunft; Verstand","II","11","760","ref",3423,"Vernunft; Verstand","emanation"],
  ["Emanation","Emanation","","2","445–448","main",714,"Emanation","emanation"],
  ["Emanation","Ausfluss","",null,null,"see",304,"Ausfluß","emanation"],
- ["Emanation","Produktion I (nat.) Emanation","",null,null,"see",null,null,"emanation"],
+ ["Emanation","Produktion","I (nat.)",null,null,"see",2469,"Produktion, Produktivität","emanation"],
+ ["Emanation","Series","I","9","690","ref",2875,"Series","emanation"],
  ["Emanismus","Animismus","","1","317","ref",148,"Animismus","emanismus"],
  ["Emanzipation","Emanzipation","","2","448f.","main",715,"Emanzipation","emanzipation"],
  ["Emanzipation","Mündigkeit","",null,null,"see",2038,"Mündigkeit","emanzipation"],
@@ -42,8 +24,14 @@ HWPH.put("r/65-6d",
   "emanzipation von der religion"
  ],
  ["Emblem","Emblem","","2","449–452","main",715,"Emanzipation","emblem"],
+ ["Emblem","Chinesische, das","",null,null,"see",494,"Chinesische","emblem"],
+ ["Emblem","Symbol","I","10","718","ref",3093,"Symbol","emblem"],
  ["Embryo","Keim","",null,null,"ref",1557,"Keim","embryo"],
- ["Embryologie","Entwicklungsmechanik emendatio hominis","",null,null,"ref",null,null,"embryologie"],
+ [
+  "Embryologie","Entwicklungsmechanik","",null,null,"ref",761,
+  "Entwicklungsmechanik, Entwicklungsphysiologie","embryologie"
+ ],
+ ["emendatio hominis","Strafe","II","10","218","ref",3035,"Strafe","emendatio hominis"],
  ["Emergenz","Reduktionismus","","8","381","ref",2629,"Reduktionismus","emergenz"],
  ["Emergenz","Seele","V","9","78","ref",2794,"Seele","emergenz"],
  ["Emergenz","Ursache/Wirkung","V","11","410","ref",3350,"Ursache/Wirkung","emergenz"],
@@ -60,9 +48,10 @@ HWPH.put("r/65-6d",
  ["Eminenter","Ursache/Wirkung","II",null,null,"see",3350,"Ursache/Wirkung","eminenter"],
  ["eminentia","Überschwang","",null,null,"ref",3263,"Überschwang","eminentia"],
  [
-  "eminentia","Via causalitatis/negationis/eminentiae emisch","",null,null,"ref",3460,
+  "eminentia","Via causalitatis/negationis/eminentiae","",null,null,"ref",3460,
   "Via causalitatis; via negationis; via eminentiae","eminentia"
  ],
+ ["emisch","Phonologie","","7","928","ref",2364,"Phonologie, Phonem","emisch"],
  [
   "Emissionstheorien","Wellentheorie/Teilchentheorie","","12","403","ref",3556,
   "Wellentheorie/Teilchentheorie","emissionstheorien"
@@ -109,9 +98,7 @@ HWPH.put("r/65-6d",
  ["empathy","Verstehen","","11","933","ref",3438,"Verstehen","empathy"],
  ["Empeiria","Empeiria","","2","453f.","main",719,"Empeiria","empeiria"],
  ["Empeiria","Erfahrung","",null,null,"see",786,"Erfahrung","empeiria"],
- ["Empeiria","Geschichte I ἐμπειρία","",null,null,"see",null,null,"empeiria"],
- ["Empeiria","Empeiria","",null,null,"main",719,"Empeiria","empeiria"],
- ["Empeiria","Vermutung","I","11","733","ref",3421,"Vermutung","empeiria"],
+ ["Empeiria","Geschichte","I",null,null,"see",1085,"Geschichte, Historie","empeiria"],
  ["Empfänglichkeit","Aufmerksamkeit","","1","640","ref",290,"Aufmerksamkeit","empfanglichkeit"],
  ["Empfänglichkeit","Rezeptivität","","8","1012","ref",2712,"Rezeptivität","empfanglichkeit"],
  ["Empfängnis","Konzept","","4","1084","ref",1655,"Konzept, konzeptibel","empfangnis"],
@@ -140,6 +127,15 @@ HWPH.put("r/65-6d",
  ["Empfindsamkeit","Zart; zärtlich","",null,null,"see",3672,"Zart; zärtlich","empfindsamkeit"],
  ["Empfindung","Empfindung","","2","456–474","main",723,"Empfindung","empfindung"],
  ["Empfindung","Gefühl","",null,null,"see",1009,"Gefühl","empfindung"],
+ ["Empfindung","Empfindnis","(Husserl)",null,null,"see",721,"Empfindnis","empfindung"],
+ ["Empfindung","Klar und deutlich","",null,null,"see",1571,"Klar und deutlich","empfindung"],
+ ["Empfindung","Perzeption","",null,null,"see",2329,"Perzeption","empfindung"],
+ ["Empfindung","Sentiment","",null,null,"see",2870,"Sentiment","empfindung"],
+ ["Empfindung","Wahrnehmung","III",null,null,"see",3539,"Wahrnehmung","empfindung"],
+ ["Empfindung","Lokalzeichen","",null,null,"see",1831,"Lokalzeichen","empfindung"],
+ ["Empfindung","Psychophysik","",null,null,"see",2527,"Psychophysik","empfindung"],
+ ["Empfindung","Sinnesenergien, spezifische","",null,null,"see",null,null,"empfindung"],
+ ["Empfindung","Wahrnehmung","V (psych.)",null,null,"see",3539,"Wahrnehmung","empfindung"],
  ["Empfindung","Empiriokritizismus","",null,null,"ref",725,"Empiriokritizismus","empfindung"],
  ["Empfindung","Gefallen","",null,null,"ref",1005,"Gefallen, Wohlgefallen","empfindung"],
  ["Empfindung","Gemüt","I",null,null,"ref",1054,"Gemüt","empfindung"],
@@ -219,19 +215,30 @@ HWPH.put("r/65-6d",
   "Empiriomonismus","Idealismus, menschewisierender","",null,null,"see",1349,
   "Idealismus, menschewisierender","empiriomonismus"
  ],
- ["Empiriomonismus","Widerspiegelung Empiriomonismus","",null,null,"see",null,null,"empiriomonismus"],
+ [
+  "Empiriomonismus","Widerspiegelung","",null,null,"see",3606,
+  "Widerspiegelung; Widerspiegelungstheorie","empiriomonismus"
+ ],
+ [
+  "Empiriomonismus","Materialismus, historischer","3","5","862","ref",1888,
+  "Materialismus, historischer, materialistische Geschichtsauffassung","empiriomonismus"
+ ],
+ [
+  "empirisch/transzendental","Transzendental","V","10","1380ff.","ref",3219,"Transzendental",
+  "empirisch/transzendental"
+ ],
  [
   "empirische/transzendentale Phänomenologie","Phänomenologie, transzendentale","","7","510","ref",
   2347,"Phänomenologie, transzendentale","empirische/transzendentale phanomenologie"
  ],
  ["empirische Erkenntnis","Erfahrung","","2","614","ref",786,"Erfahrung","empirische erkenntnis"],
  [
-  "empirische Kulturanthropologie","Kulturanthropologie","",null,null,"ref",1702,
+  "empirische Kulturanthropologie","Kulturanthropologie, empirische","",null,null,"ref",1702,
   "Kulturanthropologie","empirische kulturanthropologie"
  ],
  [
-  "empirische empirische Psychologie","Psychologie","","7","1600ff.","ref",2511,"Psychologie",
-  "empirische empirische psychologie"
+  "empirische Psychologie","Psychologie","","7","1600ff.","ref",2511,"Psychologie",
+  "empirische psychologie"
  ],
  [
   "empirische Schule","Medizin","I","5","972f.","ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
@@ -250,10 +257,21 @@ HWPH.put("r/65-6d",
   "empirischer/intelligibler charakter"
  ],
  [
-  "Empirischer/intelligibler Charakter","Persönlichkeitswert (Hartmann) empirischer Idealismus","",
-  null,null,"see",null,null,"empirischer/intelligibler charakter"
+  "Empirischer/intelligibler Charakter","Persönlichkeitswert","(Hartmann)",null,null,"see",2325,
+  "Persönlichkeitswert, Personwert","empirischer/intelligibler charakter"
  ],
- ["empirischer Realismus","Idealismus","",null,null,"ref",1343,"Idealismus","empirischer realismus"],
+ [
+  "empirischer Idealismus","Idealismus, empirischer","",null,null,"ref",1347,
+  "Idealismus, empirischer","empirischer idealismus"
+ ],
+ [
+  "empirischer Realismus","Idealismus, transzendentaler; Realismus, empirischer","(Kant)",null,null,
+  "ref",1343,"Idealismus","empirischer realismus"
+ ],
+ [
+  "empirischer Satz","Anschauungssatz/Begriffssatz","(Bolzano)",null,null,"ref",166,
+  "Anschauungssatz/Begriffssatz","empirischer satz"
+ ],
  ["empirisches Urteil","Erfahrung","","2","614f.","ref",786,"Erfahrung","empirisches urteil"],
  ["empirisches Urteil","Verifikation","I","11","697","ref",3409,"Verifikation","empirisches urteil"],
  ["Empirismus","Empirismus","","2","477f.","main",728,"Empirismus","empirismus"],
@@ -277,20 +295,6 @@ HWPH.put("r/65-6d",
  ["Empörung","Zorn","II","12","1388","ref",3702,"Zorn","emporung"],
  ["Empyreum","Empyreum","","2","478–480","main",730,"Empyreum","empyreum"],
  ["Empyreum","Himmel","",null,null,"see",1275,"Himmel","empyreum"],
- ["empirische","Völkerkunde","",null,null,"ref",3474,"Völkerkunde","empirische"],
- ["Empfindung","Empfindung","I (erk.)","2","458","main",723,"Empfindung","empfindung"],
- ["Empfindung","Empfindung","I (erk.)","2","458","main",723,"Empfindung","empfindung"],
- [
-  "empirische 4 1328–1332 s. auch","Völkerkunde","",null,null,"ref",3474,"Völkerkunde",
-  "empirische 4 1328–1332 s. auch"
- ],
- ["empirische","Archetypus","","1","498","ref",239,"Archetypus","empirische"],
- ["empirische","Struktur","V (soz.)","10","330","ref",3040,"Struktur","empirische"],
- [
-  "empirische","Sozialanthropologie; Social anthropology","",null,null,"ref",2938,
-  "Sozialanthropologie; Social anthropology","empirische"
- ],
- ["empirische","Volkstum","",null,null,"ref",3480,"Volkstum","empirische"],
  ["Emmel Hildegard","Einsamkeit","I","2","407–410","author",688,"Einsamkeit","emmel hildegard"],
  ["Emmel Hildegard","Empfindsamkeit","","2","455f.","author",722,"Empfindsamkeit","emmel hildegard"],
  ["Emmel Hildegard","Gefühl","II","3","89–93","author",1009,"Gefühl","emmel hildegard"],

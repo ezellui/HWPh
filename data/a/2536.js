@@ -22,7 +22,7 @@ HWPH.put("a/2536",
  "next":{"id":2537,"lemma":"Purus.a","band":"7","col":1718},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– III (Weber) 1 541–543 s. auch","qualifier":"II (Weber)","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":60,"name":"M. Weber","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":228,"name":"E. Troeltsch","b":1,"n":1,"l":1,"editor":0,"role":"source"},
@@ -75,12 +75,12 @@ HWPH.put("a/2536",
   {"id":1099,"lemma":"Gesellschaft","tf":2},
   {"id":408,"lemma":"Bewegung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":232,"lemma":"Arbeitsethos"},{"id":260,"lemma":"Askese"}],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Puritanismus II (Weber)"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Puritanismus"},
   {"id":44,"name":"Theologie","label":"Puritanismus"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Walton Robert C","n":1}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Walton Robert C","n":1}]
 }
 );

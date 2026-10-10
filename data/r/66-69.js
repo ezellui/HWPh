@@ -13,7 +13,7 @@ HWPH.put("r/66-69",
   "Wahrscheinlichkeit (ästhetisch)","fiction"
  ],
  ["fictor deorum","Mensch","III 2","5","1075","ref",1917,"Mensch","fictor deorum"],
- ["fictum","Erkenntnis I (erk.)","","2","651","ref",796,"Erkennen, Erkenntnis","fictum"],
+ ["fictum","Erkenntnis","I (erk.)","2","651","ref",796,"Erkennen, Erkenntnis","fictum"],
  ["fictum","Sein, objektives","","9","249","ref",2809,"Sein, objektives","fictum"],
  ["Fideismus","Fideismus","","2","946f.","main",914,"Fideismus","fideismus"],
  ["Fideismus","Glauben und Wissen","",null,null,"see",1140,"Glauben und Wissen","fideismus"],
@@ -53,6 +53,11 @@ HWPH.put("r/66-69",
  ["fierté","Stolz","","10","202","ref",3034,"Stolz","fierte"],
  ["figürlich","Symbol","I","10","720","ref",3093,"Symbol","figurlich"],
  ["Figur","Figur","","2","948–951","main",916,"Figur","figur"],
+ ["Figur","Tropen; Tropos","",null,null,"see",3233,"Tropen; Tropos","figur"],
+ ["Figur","Typos; Typologie","I (theol.)",null,null,"see",3244,"Typos; Typologie","figur"],
+ ["Figur","Proportion","IV (ästh.)",null,null,"see",2483,"Proportion","figur"],
+ ["Figur","Zeichnung","",null,null,"see",3674,"Zeichnung","figur"],
+ ["Figur","Kalkül","",null,null,"see",1521,"Kalkül","figur"],
  ["Figur","Leib/Körper","I","5","175","ref",1769,"Leib, Körper","figur"],
  [
   "Figur, dichterische","Figur, dichterische","","2","951","main",917,"Figur, dichterische",
@@ -60,7 +65,7 @@ HWPH.put("r/66-69",
  ],
  ["figura","Figur","I (rhet.)",null,null,"ref",916,"Figur","figura"],
  ["figura","Qualität","II 3","7","1762","ref",2544,"Qualität","figura"],
- ["figura","Schema; Schematismus I (allg.)","","8","1248","ref",2760,"Schema, Schematismus","figura"],
+ ["figura","Schema; Schematismus","I (allg.)","8","1248","ref",2760,"Schema, Schematismus","figura"],
  ["figura","Typos; Typologie","I (theol.)","10","1588","ref",3244,"Typos; Typologie","figura"],
  ["figura cryptica","Tropen; Tropos","","10","1522","ref",3233,"Tropen; Tropos","figura cryptica"],
  [
@@ -75,7 +80,7 @@ HWPH.put("r/66-69",
  ["Fiktion","Fiktion","","2","951–953","main",918,"Fiktion","fiktion"],
  ["Fiktion","Als-Ob","",null,null,"see",108,"Als-Ob","fiktion"],
  ["Fiktion","Gedankenexperiment","",null,null,"see",1001,"Gedankenexperiment","fiktion"],
- ["Fiktion","Hypothese II","",null,null,"see",1330,"Hypothese, Hypothesis","fiktion"],
+ ["Fiktion","Hypothese","II",null,null,"see",1330,"Hypothese, Hypothesis","fiktion"],
  ["Fiktion","Illusion","",null,null,"see",1387,"Illusion","fiktion"],
  ["Fiktion","Absolut; das Absolute","","1","26","ref",27,"Absolut, das Absolute","fiktion"],
  ["Fiktion","Einbildungskraft","II","2","348","ref",673,"Einbildung, Einbildungskraft","fiktion"],
@@ -117,14 +122,33 @@ HWPH.put("r/66-69",
  ],
  ["filosofia volgar","Philosophie","III A","7","661","ref",2353,"Philosophie","filosofia volgar"],
  [
-  "filosofija duchóvnaja/svétskaja","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "filosofija duchóvnaja/svétskaja","Philosophie","IV J","7","778","ref",2353,"Philosophie",
   "filosofija duchovnaja/svetskaja"
  ],
+ [
+  "filosofija marksistsko-leninskaja","Philosophie","IV J","7","781","ref",2353,"Philosophie",
+  "filosofija marksistsko-leninskaja"
+ ],
+ [
+  "filosofija otecestvennaja","Philosophie","IV J","7","777","ref",2353,"Philosophie",
+  "filosofija otecestvennaja"
+ ],
+ [
+  "filosofija pravoslavnaja","Philosophie","IV J","7","778","ref",2353,"Philosophie",
+  "filosofija pravoslavnaja"
+ ],
+ [
+  "fin en soi","Selbstzweck","",null,null,"ref",2855,"Selbstzweck; Zweck an sich selbst",
+  "fin en soi"
+ ],
+ ["Finalität","Extremalprinzipien","",null,null,"ref",885,"Extremalprinzipien","finalitat"],
+ ["Finalität","Zweck; Ziel","","12","1506","ref",3718,"Zweck; Ziel","finalitat"],
  ["Finalnexus","Finalnexus","","2","953f.","main",919,"Finalnexus","finalnexus"],
  ["Finalursache","Causa finalis","",null,null,"ref",471,"Causa finalis","finalursache"],
  ["Finalursache","Zweck; Ziel","",null,null,"ref",3718,"Zweck; Ziel","finalursache"],
  ["finis","Zweck; Ziel","",null,null,"ref",3718,"Zweck; Ziel","finis"],
- ["finis mundi","Weltende finis operis","",null,null,"ref",null,null,"finis mundi"],
+ ["finis mundi","Weltende","",null,null,"ref",3562,"Weltende; Weltuntergang","finis mundi"],
+ ["finis operis","Streben","","10","270","ref",3038,"Streben","finis operis"],
  ["finis ultimus","Gut, höchstes","","3","973","ref",1204,"Gut, höchstes","finis ultimus"],
  ["Finit","Finit","","2","954","main",920,"Finit","finit"],
  ["Finit","Widerspruchsfreiheit","",null,null,"see",3609,"Widerspruchsfreiheit","finit"],
@@ -143,8 +167,8 @@ HWPH.put("r/66-69",
   "first-person judgements"
  ],
  [
-  "firstness; secondness; thirdness","Erstheit; Zweitheit; Drittheit (Peirce)","",null,null,"ref",
-  817,"Erstheit, Zweitheit, Drittheit","firstness; secondness; thirdness"
+  "firstness; secondness; thirdness","Erstheit; Zweitheit; Drittheit","(Peirce)",null,null,"ref",817,
+  "Erstheit, Zweitheit, Drittheit","firstness; secondness; thirdness"
  ],
  [
   "firstness; secondness; thirdness","Monade; Monas","III","6","124","ref",2010,"Monade, Monas",

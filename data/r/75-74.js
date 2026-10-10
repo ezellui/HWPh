@@ -2,7 +2,12 @@ HWPH.put("r/75-74",
 [
  ["Uti/frui","Uti/frui","","11","500–503","main",3365,"Uti/frui","uti/frui"],
  ["Uti/frui","Genuss","",null,null,"see",1076,"Genuß","uti/frui"],
- ["Uti/frui","Nutzen I uti/frui","",null,null,"see",null,null,"uti/frui"],
+ [
+  "Uti/frui","Nutzen","I",null,null,"see",2177,"Nutzen, Nützlichkeit, das Nützliche, nützlich",
+  "uti/frui"
+ ],
+ ["uti/frui","Lust; Freude","II","5","556","ref",1837,"Lust, Freude","uti/frui"],
+ ["uti/frui","Mittel","","5","1432","ref",1987,"Mittel","uti/frui"],
  [
   "uti mundo","Globus intellectualis","(Bacon)","3","678","ref",1153,"Globus intellectualis",
   "uti mundo"
@@ -16,7 +21,7 @@ HWPH.put("r/75-74",
  ["Utilitarismus","Hedonismus","",null,null,"see",1234,"Hedonismus","utilitarismus"],
  ["Utilitarismus","Imperativ, kategorischer VI","",null,null,"see",null,null,"utilitarismus"],
  [
-  "Utilitarismus","Nutzen III","",null,null,"see",2177,
+  "Utilitarismus","Nutzen","III",null,null,"see",2177,
   "Nutzen, Nützlichkeit, das Nützliche, nützlich","utilitarismus"
  ],
  ["Utilitarismus","Sozialeudämonismus","",null,null,"see",2942,"Sozialeudämonismus","utilitarismus"],
@@ -44,7 +49,7 @@ HWPH.put("r/75-74",
  ["utilitas tua/nostra","Eigennutz","",null,null,"ref",664,"Eigennutz","utilitas tua/nostra"],
  ["Utopie","Utopie","","11","510–526","main",3367,"Utopie","utopie"],
  [
-  "Utopie","Bewusstsein, utopisches (Mannheim)","",null,null,"see",423,"Bewußtsein, utopisches",
+  "Utopie","Bewusstsein, utopisches","(Mannheim)",null,null,"see",423,"Bewußtsein, utopisches",
   "utopie"
  ],
  ["Utopie","Zeitalter, goldenes","",null,null,"see",3677,"Zeitalter, goldenes","utopie"],
@@ -62,6 +67,6 @@ HWPH.put("r/75-74",
   "Utraquismus","Kategorie; Kategorienlehre","V","4","751","ref",1540,"Kategorie, Kategorienlehre",
   "utraquismus"
  ],
- ["utterance","Äusserung V vacuitas aegritudinis","",null,null,"ref",null,null,"utterance"]
+ ["utterance","Äusserung","V",null,null,"ref",314,"Äußerung","utterance"]
 ]
 );

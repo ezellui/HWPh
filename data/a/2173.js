@@ -27,8 +27,8 @@ HWPH.put("a/2173",
   {"id":15262,"name":"König","b":1,"n":0,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[{"id":825,"lemma":"Eschatologie"}],
+ "see_also":[{"id":825,"lemma":"Eschatologie"},{"id":3562,"lemma":"Weltende; Weltuntergang"}],
  "groups":[{"id":44,"name":"Theologie","label":"Novissima"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

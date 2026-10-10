@@ -72,6 +72,7 @@ HWPH.put("r/3ba-3bf",
   "κόσμος νοητός/νοερός","Vernunft; Verstand","II","11","761","ref",3423,"Vernunft; Verstand",
   "κοσμοσ νοητοσ/νοεροσ"
  ],
+ ["κοσμοθεωρός","Spectator caeli","","9","1350","ref",2968,"Spectator caeli","κοσμοθεωροσ"],
  ["κότος","Streit","I (allg.)","10","297","ref",3039,"Streit","κοτοσ"]
 ]
 );

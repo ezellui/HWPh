@@ -18,7 +18,7 @@ HWPH.put("a/2303",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Aufheben","qualifier":"","band":null,"col":null},
+  {"term":"Dialektik","qualifier":"","band":null,"col":null},
   {"term":"ζητητικός","qualifier":"","band":null,"col":null},
   {"term":"πειραστική","qualifier":"","band":null,"col":null}
  ],

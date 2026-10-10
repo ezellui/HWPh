@@ -59,7 +59,7 @@ HWPH.put("a/1463",
   {"id":408,"lemma":"Bewegung","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1467,"lemma":"Intelligibel, das Intelligible, Intelligibilität"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Intellektuell"}],
  "reg_authors":[{"name":"Beierwaltes Werner","n":14},{"name":"Piepmeier Rainer","n":12}]
 }

@@ -88,7 +88,11 @@ HWPH.put("a/1705",
   {"id":1773,"lemma":"Leistung","tf":2},
   {"id":230,"lemma":"Arbeit","tf":2}
  ],
- "see_also":[{"id":1093,"lemma":"Geschichtsphilosophie"},{"id":1710,"lemma":"Kultursoziologie"}],
+ "see_also":[
+  {"id":1093,"lemma":"Geschichtsphilosophie"},
+  {"id":1710,"lemma":"Kultursoziologie"},
+  {"id":2943,"lemma":"Sozialgeschichte; Sozialhistorie"}
+ ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Kulturgeschichte"},
   {"id":13,"name":"Geschichtsphilosophie","label":"Kulturgeschichte"},

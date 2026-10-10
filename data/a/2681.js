@@ -23,6 +23,7 @@ HWPH.put("a/2681",
  "outlinks":[],
  "register":[
   {"term":"Ersatzreligion","qualifier":"","band":"8","col":"771"},
+  {"term":"heilig/profan","qualifier":"","band":"8","col":"769"},
   {"term":"Opium des Volks","qualifier":"","band":"8","col":"768"},
   {"term":"sociology of religion","qualifier":"","band":null,"col":null},
   {"term":"Sozialreligion","qualifier":"","band":"8","col":"771"},
@@ -79,6 +80,6 @@ HWPH.put("a/2681",
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Religionssoziologie"},
   {"id":42,"name":"Soziologie","label":"Religionssoziologie"}
  ],
- "reg_authors":[{"name":"Helle Horst Jürgen","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Helle Horst Jürgen","n":1},{"name":"Red","n":241}]
 }
 );

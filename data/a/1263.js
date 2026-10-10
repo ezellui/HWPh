@@ -19,7 +19,6 @@ HWPH.put("a/1263",
  "outlinks":[],
  "register":[
   {"term":"formes des gouvernements","qualifier":"","band":null,"col":null},
-  {"term":"Gewaltenteilung","qualifier":"","band":"3","col":"1098"},
   {"term":"Monokratie","qualifier":"","band":"3","col":"1096"},
   {"term":"Pantarchie","qualifier":"","band":"3","col":"1096"},
   {"term":"Pantokratie","qualifier":"","band":"3","col":"1096"},
@@ -27,7 +26,7 @@ HWPH.put("a/1263",
   {"term":"Polykratie","qualifier":"","band":"3","col":"1096"},
   {"term":"Regierungsformen","qualifier":"","band":null,"col":null},
   {"term":"Staatsformen","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 3 1084–1087 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Untertan","qualifier":"","band":"3","col":"1098"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":6,"l":0,"editor":0,"role":"source"},

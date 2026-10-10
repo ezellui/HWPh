@@ -1,17 +1,29 @@
 HWPH.put("r/63-75",
 [
+ [
+  "cuius regio eius religio","Religion","V B","8","652","ref",2673,"Religion",
+  "cuius regio eius religio"
+ ],
  ["culpa","Schuld","",null,null,"ref",2784,"Schuld","culpa"],
  [
   "culte intérieur/extérieur","Religion","VI","8","659","ref",2673,"Religion",
   "culte interieur/exterieur"
  ],
  [
-  "cultura","Kultur; Kulturphilosophie cultura animi","",null,null,"ref",1701,
-  "Kultur, Kulturphilosophie","cultura"
+  "cultura","Kultur; Kulturphilosophie","",null,null,"ref",1701,"Kultur, Kulturphilosophie",
+  "cultura"
  ],
  [
-  "cultural anthropology","Kulturanthropologie","",null,null,"ref",1702,"Kulturanthropologie",
-  "cultural anthropology"
+  "cultura animi","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik",
+  "cultura animi"
+ ],
+ [
+  "cultural anthropology","Kulturanthropologie, empirische","",null,null,"ref",1702,
+  "Kulturanthropologie","cultural anthropology"
+ ],
+ [
+  "cultural fusion","Assimilation/Dissimilation","III (kult.)","1","547","ref",262,
+  "Assimilation/Dissimilation","cultural fusion"
  ],
  ["cultural lag","Ungleichzeitigkeit","","11","168","ref",3297,"Ungleichzeitigkeit","cultural lag"],
  ["cultural lag","Wandel, sozialer","","12","318","ref",3544,"Wandel, sozialer","cultural lag"],
@@ -60,7 +72,7 @@ HWPH.put("r/63-75",
  ["cura sui","Selbstsorge","",null,null,"ref",2848,"Selbstsorge","cura sui"],
  ["curatio","Verwaltung; Bürokratie","","11","990","ref",3448,"Verwaltung; Bürokratie","curatio"],
  [
-  "curatio animae","Therapie II (philos.)","","10","1165","ref",3184,"Therapie; Therapeutik",
+  "curatio animae","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik",
   "curatio animae"
  ],
  ["curiositas","Neugierde","",null,null,"ref",2117,"Neugierde","curiositas"],

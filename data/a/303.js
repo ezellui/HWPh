@@ -17,14 +17,7 @@ HWPH.put("a/303",
  "next":{"id":304,"lemma":"Ausfluß","band":"1","col":666},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {
-   "term":"– I (allg.) 1 653–655 – II (ästh.) 1 655–661 – III (psych.) 1 x- 661f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[],
  "persons":[
   {"id":198,"name":"Th. Lipps","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":21,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},

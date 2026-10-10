@@ -1,17 +1,5 @@
 HWPH.put("r/66-6f",
 [
- [
-  "formale/materiale (Husserl) ἀποφαντικός/σημαντικός","Aussage","","1","670","ref",309,"Aussage",
-  "formale/materiale (husserl) αποφαντικοσ/σημαντικοσ"
- ],
- [
-  "formale/materiale (Husserl) 6 1200","Etymologie","","2","816–818","ref",842,"Etymologie",
-  "formale/materiale (husserl) 6 1200"
- ],
- [
-  "formale/materiale (Husserl) 6 1200","Volksetymologie","",null,null,"see",3476,"Volksetymologie",
-  "formale/materiale (husserl) 6 1200"
- ],
  ["foedera pacis","Vertrag","I (allg.)","11","964","ref",3445,"Vertrag","foedera pacis"],
  ["Föderalismus","Anarchie","","1","280f.","ref",134,"Anarchie, Anarchismus","foderalismus"],
  ["Föderaltheologie","Vertrag","III (theol.)","11","981","ref",3445,"Vertrag","foderaltheologie"],
@@ -44,7 +32,9 @@ HWPH.put("r/66-6f",
  ["Folgerung","Logik, dialogische","",null,null,"see",1806,"Logik, dialogische","folgerung"],
  ["Folgerung","Logik, konstruktive","",null,null,"see",1814,"Logik, konstruktive","folgerung"],
  ["Folgerung","Schliessen, natürliches","",null,null,"see",2768,"Schließen, natürliches","folgerung"],
- ["Folgerung","Schluss Folgerung","",null,null,"see",null,null,"folgerung"],
+ ["Folgerung","Schluss","",null,null,"see",2769,"Schluß","folgerung"],
+ ["Folgerung","Implikation","4",null,null,"ref",1399,"Implikation","folgerung"],
+ ["Folgerung","Porisma","",null,null,"ref",2406,"Porisma","folgerung"],
  [
   "Folgerungssinn","Illative sense (Newman) Folgsamkeit","",null,null,"ref",null,null,
   "folgerungssinn"
@@ -94,7 +84,12 @@ HWPH.put("r/66-6f",
  ["Forderung","Axiom","",null,null,"ref",340,"Axiom","forderung"],
  ["Forderung","Postulat","",null,null,"ref",2418,"Postulat","forderung"],
  ["fordoblelse","Verdopplung","",null,null,"ref",3392,"Verdopplung","fordoblelse"],
- ["forecast","Voraussage foreconception","",null,null,"ref",null,null,"forecast"],
+ ["forecast","Voraussage","",null,null,"ref",3487,"Voraussage; Vorhersage; Prognose","forecast"],
+ [
+  "foreconception","Vorgriff; Vorhabe; Vorsicht","(Heidegger)",null,null,"ref",3493,
+  "Vorgriff; Vorhabe; Vorsicht","foreconception"
+ ],
+ ["foreconception","Vorverständnis","",null,null,"ref",3508,"Vorverständnis","foreconception"],
  ["foreknowledge","Vorherwissen","",null,null,"ref",3494,"Vorherwissen","foreknowledge"],
  ["foresight","Voraussicht","",null,null,"ref",3489,"Voraussicht","foresight"],
  [
@@ -102,9 +97,10 @@ HWPH.put("r/66-6f",
   "Vorgriff; Vorhabe; Vorsicht","foresight"
  ],
  ["forgetting","Vergessen, das","",null,null,"ref",3404,"Vergessen, das","forgetting"],
- ["forgive","Verzeihen Form","",null,null,"ref",null,null,"forgive"],
+ ["forgive","Verzeihen","",null,null,"ref",3457,"Verzeihen; Vergeben","forgive"],
+ ["Form","Idee","",null,null,"ref",1361,"Idee","form"],
  [
-  "Form (biol.)","Bauplan; Funktionsplan (Uexküll)","",null,null,"ref",346,"Bauplan, Funktionsplan",
+  "Form (biol.)","Bauplan; Funktionsplan","(Uexküll)",null,null,"ref",346,"Bauplan, Funktionsplan",
   "form (biol.)"
  ],
  ["Form (biol.)","Formwechsel","",null,null,"ref",940,"Formwechsel","form (biol.)"],
@@ -189,7 +185,11 @@ HWPH.put("r/66-6f",
  ["Form und Materie","Ursache/Wirkung","",null,null,"see",3350,"Ursache/Wirkung","form und materie"],
  ["forma","Abstraktion","III",null,null,"ref",31,"Abstraktion","forma"],
  ["forma","Causa formalis","",null,null,"ref",472,"Causa formalis","forma"],
- ["forma","Form und Materie forma assistens","",null,null,"ref",null,null,"forma"],
+ ["forma","Form und Materie","",null,null,"ref",939,"Form und Materie (Stoff)","forma"],
+ [
+  "forma assistens","Leib-Seele-Verhältnis","II","5","191ff.","ref",1770,"Leib-Seele-Verhältnis",
+  "forma assistens"
+ ],
  [
   "forma corporalis","Form und Materie","","2","991","ref",939,"Form und Materie (Stoff)",
   "forma corporalis"
@@ -254,10 +254,13 @@ HWPH.put("r/66-6f",
   "formale Kausalität","Kausalität, formale","",null,null,"ref",1552,"Kausalität, formale",
   "formale kausalitat"
  ],
- ["formale Ontologie","Ontologie","",null,null,"ref",2218,"Ontologie","formale ontologie"],
  [
-  "formale/materiale (Husserl) formale Realität","Realität, formale/objektive","",null,null,"ref",
-  2591,"Realität, formale/objektive","formale/materiale (husserl) formale realitat"
+  "formale Ontologie","Ontologie, formale/materiale","(Husserl)",null,null,"ref",2218,"Ontologie",
+  "formale ontologie"
+ ],
+ [
+  "formale Realität","Realität, formale/objektive","",null,null,"ref",2591,
+  "Realität, formale/objektive","formale realitat"
  ],
  ["formale Sprache","Sprache, formale","",null,null,"ref",2987,"Sprache, formale","formale sprache"],
  ["Formales System","Formales System","","2","963f.","main",928,"Formales System","formales system"],
@@ -268,10 +271,23 @@ HWPH.put("r/66-6f",
   "formalienklauber"
  ],
  ["Formalisierung","Formalisierung","","2","964–967","main",929,"Formalisierung","formalisierung"],
+ ["Formalisierung","Axiomatik","",null,null,"see",341,"Axiomatik","formalisierung"],
+ ["Formalisierung","Mathematik","",null,null,"see",1896,"Mathematik","formalisierung"],
+ ["Formalisierung","Sprache, formale","",null,null,"see",2987,"Sprache, formale","formalisierung"],
  [
-  "formale/materiale (Husserl)","Formalismus","","2","967–971","ref",930,"Formalismus",
-  "formale/materiale (husserl)"
+  "Formalisierung","Generalisierung","II (Husserl)",null,null,"see",1062,"Generalisierung",
+  "formalisierung"
  ],
+ [
+  "Formalisierung","Ontologie, formale/materiale","(Husserl)",null,null,"see",2218,"Ontologie",
+  "formalisierung"
+ ],
+ ["Formalismus","Formalismus","","2","967–971","main",930,"Formalismus","formalismus"],
+ ["Formalismus","Wert","III B (phän.)",null,null,"see",3588,"Wert","formalismus"],
+ ["Formalismus","Form und Inhalt","",null,null,"see",938,"Form und Inhalt","formalismus"],
+ ["Formalismus","Kunst; Kunstwerk","V 6",null,null,"see",1712,"Kunst, Kunstwerk","formalismus"],
+ ["Formalismus","Formales System","",null,null,"see",928,"Formales System","formalismus"],
+ ["Formalismus","Grundlagenstreit","",null,null,"see",1193,"Grundlagenstreit","formalismus"],
  ["Formalismus","Form und Materie","","2","1027","ref",939,"Form und Materie (Stoff)","formalismus"],
  ["formalitas","Realitas","",null,null,"ref",2589,"Realitas","formalitas"],
  ["formalitates","Abstraktion","III",null,null,"ref",31,"Abstraktion","formalitates"],
@@ -279,7 +295,11 @@ HWPH.put("r/66-6f",
  ["Formaliter","Causa formalis","",null,null,"see",472,"Causa formalis","formaliter"],
  ["Formaliter","Distinctio formalis","",null,null,"see",619,"Distinctio formalis","formaliter"],
  ["Formaliter","Eminenter","",null,null,"see",718,"Eminenter","formaliter"],
- ["Formaliter","Form und Materie Formalobjekt","",null,null,"see",null,null,"formaliter"],
+ ["Formaliter","Form und Materie","",null,null,"see",939,"Form und Materie (Stoff)","formaliter"],
+ [
+  "Formalobjekt","Materialobjekt/Formalobjekt","",null,null,"ref",1891,"Materialobjekt/Formalobjekt",
+  "formalobjekt"
+ ],
  ["Formalrepugnanz","Repugnanz","I",null,null,"ref",2689,"Repugnanz","formalrepugnanz"],
  ["Formalstufen","Formalstufen","","2","971f.","main",932,"Formalstufen","formalstufen"],
  ["Formalursache","Causa formalis","",null,null,"ref",472,"Causa formalis","formalursache"],
@@ -292,10 +312,8 @@ HWPH.put("r/66-6f",
   "formalwissenschaft/realwissenschaft"
  ],
  ["Formanalyse","Formanalyse","","2","972","main",933,"Formanalyse","formanalyse"],
- [
-  "Formanalyse","Kunst; Kunstwerk V 2 Format","",null,null,"see",1712,"Kunst, Kunstwerk",
-  "formanalyse"
- ],
+ ["Formanalyse","Kunst; Kunstwerk","V 2",null,null,"see",1712,"Kunst, Kunstwerk","formanalyse"],
+ ["Format","Repräsentation","IV (psych.)","8","843","ref",2686,"Repräsentation","format"],
  ["formatio","Abstraktion","III",null,null,"ref",31,"Abstraktion","formatio"],
  ["formatio","Urteil","II 1","11","438","ref",3355,"Urteil","formatio"],
  [
@@ -381,7 +399,7 @@ HWPH.put("r/66-6f",
  ],
  ["Fortschritt","Entwicklung","I (allg.)",null,null,"see",759,"Entwicklung","fortschritt"],
  [
-  "Fortschritt","Invention; Erfindung V (kult.)","",null,null,"see",1490,
+  "Fortschritt","Invention; Erfindung","V (kult.)",null,null,"see",1490,
   "Invention, Erfindung, Entdeckung","fortschritt"
  ],
  [
@@ -390,7 +408,23 @@ HWPH.put("r/66-6f",
  ],
  ["Fortschritt","Perfektibilität","",null,null,"see",2306,"Perfektibilität","fortschritt"],
  ["Fortschritt","Progress, unendlicher","",null,null,"see",2472,"Progreß, unendlicher","fortschritt"],
- ["Fortschritt","Weltgeschichte Fortschritt","",null,null,"see",null,null,"fortschritt"],
+ [
+  "Fortschritt","Weltgeschichte","",null,null,"see",3567,"Weltgeschichte; Universalgeschichte",
+  "fortschritt"
+ ],
+ ["Fortschritt","Drei-Stadien-Gesetz","",null,null,"ref",637,"Drei-Stadien-Gesetz","fortschritt"],
+ [
+  "Fortschritt","Geschichtsphilosophie","",null,null,"ref",1093,"Geschichtsphilosophie",
+  "fortschritt"
+ ],
+ ["Fortschritt","Geschichtszeichen","",null,null,"ref",1095,"Geschichtszeichen","fortschritt"],
+ ["Fortschritt","Idol","","4","191","ref",1379,"Idol, Ido(lo)latrie","fortschritt"],
+ ["Fortschritt","Mensch","III 2","5","1076ff.","ref",1917,"Mensch","fortschritt"],
+ ["Fortschritt","Niedergang","","6","841","ref",2138,"Niedergang, Untergang","fortschritt"],
+ ["Fortschritt","Ordnung","III","6","1295","ref",2233,"Ordnung","fortschritt"],
+ ["Fortschritt","Theorie","II","10","1151","ref",3179,"Theorie","fortschritt"],
+ ["Fortschritt","Wachstum","II","12","9","ref",3513,"Wachstum","fortschritt"],
+ ["Fortschritt","Weiblich/männlich","III","12","362","ref",3552,"Weiblich/männlich","fortschritt"],
  [
   "Fortschritt, wissenschaftlicher","Revolution, wissenschaftliche","",null,null,"ref",2709,
   "Revolution, wissenschaftliche","fortschritt, wissenschaftlicher"
@@ -405,46 +439,13 @@ HWPH.put("r/66-6f",
  ["fortvivelse","Verzweiflung","",null,null,"ref",3459,"Verzweiflung","fortvivelse"],
  ["forum","Markt","",null,null,"ref",1870,"Markt","forum"],
  ["forundring","Staunen","","10","123","ref",3015,"Staunen; Bewunderung; Verwunderung","forundring"],
- ["foule","Masse II (soz.) foundering","",null,null,"ref",null,null,"foule"],
- [
-  "Form und Materie","Form und Materie","","2","981","main",939,"Form und Materie (Stoff)",
-  "form und materie"
- ],
- [
-  "formale/materiale (Husserl) materiale Wertethik","Formalismus","I (Scheler)",null,null,"ref",930,
-  "Formalismus","formale/materiale (husserl) materiale wertethik"
- ],
- [
-  "formale/materiale (Husserl) materiale Wertethik","Wert","III B (phän.)","12","569","ref",3588,
-  "Wert","formale/materiale (husserl) materiale wertethik"
- ],
- [
-  "formale/materiale (Husserl) 6 1200f. s. auch","Apophantik","(Husserl)",null,null,"ref",208,
-  "Apophantik","formale/materiale (husserl) 6 1200f. s. auch"
- ],
- [
-  "Form und Materie","Form und Materie","","2","1027","main",939,"Form und Materie (Stoff)",
-  "form und materie"
- ],
- ["Form und Materie","Stufen","II","10","362f.","ref",3044,"Stufen","form und materie"],
+ ["foule","Masse","II (soz.)",null,null,"ref",1878,"Masse, Massen","foule"],
+ ["foundering","Scheitern","",null,null,"ref",2759,"Scheitern","foundering"],
+ ["Fortschritt","Fortschritt","","2","1055","main",942,"Fortschritt","fortschritt"],
  ["Fortschritt","Fortschritt","","2","1041","main",942,"Fortschritt","fortschritt"],
  ["Fortschritt","Wissenschaft","I","12","906","ref",3635,"Wissenschaft","fortschritt"],
  [
-  "Form und Materie","Form und Materie","","2","1027","main",939,"Form und Materie (Stoff)",
-  "form und materie"
- ],
- [
-  "Form und Materie","Form und Materie","",null,null,"main",939,"Form und Materie (Stoff)",
-  "form und materie"
- ],
- [
-  "Form und Materie","Substanz I","",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
-  "form und materie"
- ],
- ["Form und Materie","Natur","I","6","422","ref",2074,"Natur","form und materie"],
- ["Form und Materie","Privation","","7","1379f.","ref",2461,"Privation","form und materie"],
- [
-  "Förster Wolfgang","Potenzen I (Schelling)","","7","1167–1669","author",2423,"Potenz, Potenzen",
+  "Förster Wolfgang","Potenzen","I (Schelling)","7","1167–1669","author",2423,"Potenz, Potenzen",
   "forster wolfgang"
  ],
  ["Foppa Klaus","Begriffsbildung","","1","787f.","author",366,"Begriffsbildung","foppa klaus"],

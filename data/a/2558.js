@@ -17,13 +17,13 @@ HWPH.put("a/2558",
  "next":{"id":2559,"lemma":"Quintessenz","band":"7","col":1838},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Quietiv des Willens","qualifier":"(Schopenhauer)","band":null,"col":null}],
  "persons":[
   {"id":16,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4925,"name":"W. von Löhneysen","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":2693,"lemma":"Resignation, resignieren"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Quietiv (Schopenhauer)"}],
  "reg_authors":[{"name":"Probst Peter","n":51}]
 }

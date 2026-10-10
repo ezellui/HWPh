@@ -52,6 +52,7 @@ HWPH.put("a/1425",
   {"term":"inductio completa/imperfecta","qualifier":"I (wiss.)","band":"4","col":"327"},
   {"term":"inductio perfecta/probabilis","qualifier":"I (wiss.)","band":"4","col":"326"},
   {"term":"Organisation (biol.)","qualifier":"IV (biol.)","band":"4","col":"334"},
+  {"term":"Schluss, epagogischer","qualifier":"I (wiss.)","band":null,"col":null},
   {"term":"Wahrheit","qualifier":"II (wiss.)","band":"4","col":"330f."},
   {"term":"Zahlen, natürliche","qualifier":"III (math.)","band":"4","col":"332"},
   {"term":"zygotische Induktion","qualifier":"IV (biol.)","band":"4","col":"335"},
@@ -191,7 +192,12 @@ HWPH.put("a/1425",
   {"id":3639,"lemma":"Wissenschaften, schöne","tf":5},
   {"id":1896,"lemma":"Mathematik","tf":4}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":121,"lemma":"Anagogé, Apagogé, Epagogé"},
+  {"id":1426,"lemma":"Induktionismus"},
+  {"id":1811,"lemma":"Logik, induktive"},
+  {"id":3116,"lemma":"System, biologisches"}
+ ],
  "groups":[
   {"id":5,"name":"Biologie","label":"Induktion IV (biol.)"},
   {"id":24,"name":"Mathematik","label":"Induktion III (math.)"},

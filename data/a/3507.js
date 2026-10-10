@@ -59,18 +59,23 @@ HWPH.put("a/3507",
   {"id":3508,"lemma":"Vorverständnis","n":1}
  ],
  "register":[
-  {"term":"/Objekt III 10 411","qualifier":"I (erk.)","band":"11","col":"1258"},
   {"term":"Autorität, Vorurteil der","qualifier":"I (erk.)","band":"11","col":"1256"},
-  {"term":"das II 8 1355","qualifier":"I (erk.)","band":"11","col":"1258"},
   {"term":"denudatio","qualifier":"I (erk.)","band":"11","col":"1251"},
   {"term":"Diskriminierung","qualifier":"II (psych.)","band":"11","col":"1264ff."},
   {"term":"expurgatio","qualifier":"I (erk.)","band":"11","col":"1252"},
+  {"term":"Gewohnheit","qualifier":"I (erk.)","band":"11","col":"1258"},
   {"term":"Heteronomie","qualifier":"I (erk.)","band":"11","col":"1259"},
   {"term":"idola","qualifier":"I (erk.)","band":"11","col":"1251f."},
   {"term":"in-group/out-group","qualifier":"II (psych.)","band":"11","col":"1266"},
   {"term":"Kategorisierung","qualifier":"II (psych.)","band":"11","col":"1266"},
   {"term":"medicina mentis","qualifier":"I (erk.)","band":"11","col":"1252"},
   {"term":"Neigung","qualifier":"I (erk.)","band":"11","col":"1258"},
+  {
+   "term":"opinio praeconcepta bzw. praeiudicata bzw. praeoccupata",
+   "qualifier":"",
+   "band":null,
+   "col":null
+  },
   {"term":"Persönlichkeit, autoritäre","qualifier":"II (psych.)","band":"11","col":"1265"},
   {"term":"praeconceptio","qualifier":"I (erk.)","band":"11","col":"1251"},
   {"term":"praeiudicium","qualifier":"","band":null,"col":null},
@@ -84,6 +89,7 @@ HWPH.put("a/3507",
   {"term":"Rassismusforschung","qualifier":"II (psych.)","band":"11","col":"1265"},
   {"term":"Reinigung","qualifier":"I (erk.)","band":"11","col":"1252"},
   {"term":"s auch","qualifier":"I (erk.)","band":null,"col":null},
+  {"term":"Sinnlichkeit","qualifier":"I (erk.)","band":"11","col":"1258"},
   {"term":"tabula rasa","qualifier":"","band":"11","col":"1251"},
   {"term":"Verstehen","qualifier":"I (erk.)","band":"11","col":"1260"},
   {"term":"Vorstruktur des Verstehens","qualifier":"I (erk.)","band":"11","col":"1260"},
@@ -279,7 +285,13 @@ HWPH.put("a/3507",
   {"id":364,"lemma":"Begehrungsvermögen","tf":2},
   {"id":535,"lemma":"Definition","tf":6}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3250,"lemma":"Übereilung; Voreiligkeit"},
+  {"id":3358,"lemma":"Urteil, vorläufiges"},
+  {"id":691,"lemma":"Einstellung"},
+  {"id":1388,"lemma":"Image"},
+  {"id":3020,"lemma":"Stereotyp"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Vorurteil I (erk.)"},
   {"id":36,"name":"Psychologie","label":"Vorurteil II (psych.)"}

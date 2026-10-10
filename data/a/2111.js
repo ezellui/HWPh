@@ -25,8 +25,7 @@ HWPH.put("a/2111",
   {"term":"Dominanten","qualifier":"","band":"6","col":"722"},
   {"term":"Maschine","qualifier":"","band":"6","col":"722"},
   {"term":"Selbstbestimmung, vitale","qualifier":"","band":"6","col":"721"},
-  {"term":"Zweckmässigkeit","qualifier":"","band":null,"col":null},
-  {"term":"– II (biol.) 2 507–509 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zweckmässigkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":206,"name":"H. Driesch","b":1,"n":2,"l":1,"editor":0,"role":"mixed"},

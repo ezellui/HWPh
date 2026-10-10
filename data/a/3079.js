@@ -19,10 +19,11 @@ HWPH.put("a/3079",
  "outlinks":[{"id":2569,"lemma":"Rat","n":1}],
  "register":[
   {"term":"angeraten/abgeraten","qualifier":"","band":"10","col":"632"},
+  {"term":"obligatoria I (eth.)","qualifier":"","band":null,"col":null},
   {"term":"opera debita/supererogationis","qualifier":"","band":"10","col":"631"},
   {"term":"Pflicht/Rat","qualifier":"","band":"10","col":"631"},
   {"term":"pflichtgemäss","qualifier":"","band":null,"col":null},
-  {"term":"Rat","qualifier":"","band":null,"col":null},
+  {"term":"übergebührlich","qualifier":"","band":null,"col":null},
   {"term":"Unterlassung","qualifier":"","band":"10","col":"631"},
   {"term":"Verhalten, supererogatorisches","qualifier":"","band":null,"col":null},
   {"term":"Wert-Nullpunkt","qualifier":"","band":"10","col":"631"}

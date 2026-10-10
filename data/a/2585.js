@@ -25,9 +25,7 @@ HWPH.put("a/2585",
  "backlinks":[{"id":2571,"lemma":"Ratio cognoscendi/r. essendi/r. fiendi","n":1}],
  "outlinks":[{"id":2571,"lemma":"Ratio cognoscendi/r. essendi/r. fiendi","n":1}],
  "register":[
-  {"term":"3c 6 1196","qualifier":"","band":"8","col":"137"},
   {"term":"cognoscendi/essendi/fiendi","qualifier":"","band":null,"col":null},
-  {"term":"cognoscendi/essendi/fiendi 8 40f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"Erkenntnisgrund","qualifier":"","band":"8","col":"135f."},
   {"term":"Erklärungsgrund","qualifier":"","band":"8","col":"138"},
   {"term":"Existentialgrund","qualifier":"","band":"8","col":"135"},
@@ -39,7 +37,7 @@ HWPH.put("a/2585",
   {"term":"principium essendi","qualifier":"","band":null,"col":null},
   {"term":"Realdetermination","qualifier":"","band":"8","col":"140"},
   {"term":"Seinsprinzip","qualifier":"","band":null,"col":null},
-  {"term":"– II (wiss.) 2 693–701 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wirklichkeit","qualifier":"","band":"8","col":"137"}
  ],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":1,"n":2,"l":0,"editor":0,"role":"source"},

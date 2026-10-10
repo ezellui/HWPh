@@ -52,6 +52,6 @@ HWPH.put("a/3431",
  ],
  "see_also":[{"id":528,"lemma":"Daseinsanalyse"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Verschrobenheit"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

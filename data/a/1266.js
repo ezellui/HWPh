@@ -39,6 +39,6 @@ HWPH.put("a/1266",
  "mentions":[{"id":2033,"lemma":"Motiv","tf":4}],
  "see_also":[{"id":3718,"lemma":"Zweck; Ziel"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Heterogonie (Wundt)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

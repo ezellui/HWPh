@@ -18,6 +18,7 @@ HWPH.put("a/3045",
  "backlinks":[{"id":3531,"lemma":"Wahrheit, objektive","n":1},{"id":3540,"lemma":"Wahrscheinlichkeit","n":1}],
  "outlinks":[{"id":2791,"lemma":"Scientia media","n":1}],
  "register":[
+  {"term":"Jesuitenscholastik","qualifier":"","band":null,"col":null},
   {"term":"Objektivpräzision","qualifier":"","band":"10","col":"369"},
   {"term":"praecisio","qualifier":"","band":"10","col":"369"}
  ],

@@ -25,11 +25,11 @@ HWPH.put("a/2399",
  ],
  "outlinks":[{"id":2394,"lemma":"Politeia","n":1}],
  "register":[
-  {"term":"Kameralistik","qualifier":"","band":null,"col":null},
+  {"term":"Kameralistik","qualifier":"","band":"7","col":"1081"},
   {"term":"Ordnung (pol.)","qualifier":"","band":null,"col":null},
   {"term":"police","qualifier":"","band":null,"col":null},
-  {"term":"Politikstaat","qualifier":"","band":null,"col":null},
-  {"term":"Polizeiwissenschaft 7 1081 Politikwissenschaft","qualifier":"","band":null,"col":null}
+  {"term":"Politikstaat","qualifier":"","band":"7","col":"1081"},
+  {"term":"Politikwissenschaft","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":7791,"name":"K. Zobel","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},

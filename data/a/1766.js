@@ -26,6 +26,7 @@ HWPH.put("a/1766",
  "outlinks":[],
  "register":[
   {"term":"Barbarismus","qualifier":"","band":"5","col":"168"},
+  {"term":"Fremdwörter","qualifier":"","band":null,"col":null},
   {"term":"Interferenz","qualifier":"","band":"5","col":"171"},
   {"term":"Lehngut","qualifier":"","band":null,"col":null},
   {"term":"Transferenz","qualifier":"","band":"5","col":"171"}

@@ -56,6 +56,6 @@ HWPH.put("a/856",
  ],
  "see_also":[],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Exakt/unexakt"}],
- "reg_authors":[{"name":"Körner Stephan","n":7},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Körner Stephan","n":7},{"name":"Red","n":241}]
 }
 );

@@ -36,8 +36,7 @@ HWPH.put("a/118",
   {"term":"Ruhmsucht","qualifier":"","band":"1","col":"207"},
   {"term":"Selbsterhaltung","qualifier":"","band":"1","col":"209"},
   {"term":"Selbstsucht","qualifier":"","band":"1","col":"207"},
-  {"term":"self-respect","qualifier":"","band":"1","col":"209"},
-  {"term":"– II (theol.) 2 334–337 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"self-respect","qualifier":"","band":"1","col":"209"}
  ],
  "persons":[
   {"id":2043,"name":"Franz von Sales","b":3,"n":1,"l":0,"editor":0,"role":"source"},

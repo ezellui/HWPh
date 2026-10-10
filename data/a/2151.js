@@ -34,7 +34,11 @@ HWPH.put("a/2151",
   {"id":757,"name":"O. Schwemmer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[{"id":663,"lemma":"Eigenname"},{"id":1411,"lemma":"Indikator"}],
+ "see_also":[
+  {"id":663,"lemma":"Eigenname"},
+  {"id":1411,"lemma":"Indikator"},
+  {"id":1558,"lemma":"Kennzeichnung, Kennzeichnungstheorie"}
+ ],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Nominator"}],
  "reg_authors":[{"name":"Gabriel Gottfried","n":51}]
 }

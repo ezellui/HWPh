@@ -33,8 +33,8 @@ HWPH.put("a/1483",
   {"id":3047,"lemma":"Subjekt","tf":2},
   {"id":707,"lemma":"Element","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1628,"lemma":"Konstitutionssystem, Konstitutionstheorie"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Intersubjektiv"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

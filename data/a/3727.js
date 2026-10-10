@@ -38,11 +38,9 @@ HWPH.put("a/3727",
   {"id":3670,"lemma":"Zahl; Zählen","n":1}
  ],
  "register":[
-  {"term":"875","qualifier":"","band":"12","col":"1544f."},
-  {"term":"Augenblick","qualifier":"","band":"12","col":"1545"},
+  {"term":"Bewegung/Ruhe","qualifier":"","band":"12","col":"1544f."},
   {"term":"Dazwischen-sein","qualifier":"","band":"12","col":"1546"},
-  {"term":"der","qualifier":"","band":null,"col":null},
-  {"term":"des Seins (Heidegger) Ereignis","qualifier":"","band":"12","col":"1547"},
+  {"term":"Ereignis","qualifier":"","band":"12","col":"1547"},
   {"term":"Gegensatz","qualifier":"","band":"12","col":"1545"},
   {"term":"Ich-Du-Verhältnis","qualifier":"","band":"12","col":"1546f."},
   {"term":"Interesse","qualifier":"","band":"12","col":"1546"},
@@ -51,7 +49,9 @@ HWPH.put("a/3727",
   {"term":"mellembestemmelser","qualifier":"","band":"12","col":"1548"},
   {"term":"milieu","qualifier":"","band":null,"col":null},
   {"term":"plötzlich","qualifier":"","band":"12","col":"1545"},
+  {"term":"Ruhe/Bewegung","qualifier":"","band":"12","col":"1544f."},
   {"term":"Zwischenbegriffe","qualifier":"","band":"12","col":"1548"},
+  {"term":"ἐξαίφνης","qualifier":"","band":"12","col":"1545"},
   {"term":"μεταξύ","qualifier":"","band":null,"col":null}
  ],
  "persons":[

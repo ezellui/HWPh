@@ -29,11 +29,12 @@ HWPH.put("a/893",
  "register":[
   {"term":"Ehe","qualifier":"","band":null,"col":null},
   {"term":"Ehevertrag","qualifier":"II 1","band":"2","col":"899"},
-  {"term":"familia","qualifier":"","band":null,"col":null},
+  {"term":"familia","qualifier":"II 1","band":null,"col":null},
   {"term":"Familiensoziologie","qualifier":"II 3","band":"2","col":"902f."},
   {"term":"Frau/Mann","qualifier":"","band":null,"col":null},
   {"term":"Geschlechterrolle","qualifier":"","band":null,"col":null},
   {"term":"Gleichberechtigung der Frau","qualifier":"","band":null,"col":null},
+  {"term":"Mann/Frau","qualifier":"","band":null,"col":null},
   {"term":"Sexualität","qualifier":"II 1","band":"2","col":"899"},
   {"term":"Totalphänomen, soziales","qualifier":"II 3","band":"2","col":"902"},
   {"term":"συμβίωσις","qualifier":"I","band":"2","col":"898"}

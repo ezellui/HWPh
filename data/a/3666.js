@@ -35,14 +35,14 @@ HWPH.put("a/3666",
   {"id":3579,"lemma":"Weltverachtung; Weltflucht","n":1}
  ],
  "register":[
-  {"term":"- 1110 ξένον","qualifier":"","band":null,"col":null},
   {"term":"Andere, der","qualifier":"","band":"12","col":"1107"},
-  {"term":"das","qualifier":"","band":null,"col":null},
+  {"term":"étranger","qualifier":"","band":null,"col":null},
   {"term":"Fremde, der","qualifier":"","band":null,"col":null},
   {"term":"Fremdheit","qualifier":"","band":null,"col":null},
   {"term":"stranger","qualifier":"","band":null,"col":null},
   {"term":"Unverständlichkeit","qualifier":"","band":"12","col":"1107"},
-  {"term":"Wissenschaft vom Fremden","qualifier":"","band":null,"col":null}
+  {"term":"Wissenschaft vom Fremden","qualifier":"","band":null,"col":null},
+  {"term":"ξένον","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":470,"name":"B. Waldenfels","b":0,"n":7,"l":3,"editor":0,"role":"scholar"},

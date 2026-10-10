@@ -31,6 +31,6 @@ HWPH.put("a/2491",
   {"id":2989,"lemma":"Sprache, phänomenale"}
  ],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Protokollsprache (Carnap)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

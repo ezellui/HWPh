@@ -25,7 +25,10 @@ HWPH.put("a/2373",
   {"id":2088,"lemma":"Naturphilosophie","n":1},
   {"id":2353,"lemma":"Philosophie","n":1}
  ],
- "register":[{"term":"Physiologie der reinen Vernunft","qualifier":"","band":"7","col":"965"}],
+ "register":[
+  {"term":"Aitiologia","qualifier":"","band":"7","col":"965"},
+  {"term":"Physiologie der reinen Vernunft","qualifier":"","band":"7","col":"965"}
+ ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},

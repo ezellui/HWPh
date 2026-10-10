@@ -27,8 +27,7 @@ HWPH.put("a/1456",
   {"term":"Gefühlsganzheitlichkeit","qualifier":"I (psych.)","band":"4","col":"430"},
   {"term":"Integration, politische","qualifier":"II (soz.)","band":null,"col":null},
   {"term":"Strukturierung","qualifier":"I (psych.)","band":"4","col":"429"},
-  {"term":"Umweltkohärenz","qualifier":"I (psych.)","band":"4","col":"429"},
-  {"term":"– I (psych.) 3 20 s. auch","qualifier":"I (psych.)","band":null,"col":null}
+  {"term":"Umweltkohärenz","qualifier":"I (psych.)","band":"4","col":"429"}
  ],
  "persons":[
   {"id":241,"name":"Ph. Lersch","b":4,"n":4,"l":0,"editor":0,"role":"mixed"},
@@ -78,11 +77,15 @@ HWPH.put("a/1456",
   {"id":1116,"lemma":"Gestalt","tf":2},
   {"id":2640,"lemma":"Regel","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":569,"lemma":"Desintegration"},
+  {"id":987,"lemma":"Ganzheit"},
+  {"id":2946,"lemma":"Sozialisation"}
+ ],
  "groups":[
   {"id":36,"name":"Psychologie","label":"Integration I (psych.)"},
   {"id":42,"name":"Soziologie","label":"Integration II (soz.)"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Wellek Albert","n":5}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Wellek Albert","n":6}]
 }
 );

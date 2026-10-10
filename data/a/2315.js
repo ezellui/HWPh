@@ -23,7 +23,7 @@ HWPH.put("a/2315",
  "outlinks":[],
  "register":[
   {"term":"Evidenz","qualifier":"","band":null,"col":null},
-  {"term":"inneres 12 1039 propositio per se nota","qualifier":"","band":null,"col":null},
+  {"term":"propositio per se nota","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[

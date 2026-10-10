@@ -41,7 +41,7 @@ HWPH.put("a/1822",
   {"term":"Samen","qualifier":"","band":null,"col":null},
   {"term":"Schicksal","qualifier":"","band":"5","col":"485"},
   {"term":"Schöpfung","qualifier":"","band":"5","col":"487"},
-  {"term":"εi‘μαρμένη","qualifier":"","band":"5","col":"485"},
+  {"term":"universalis","qualifier":"","band":"5","col":"485"},
   {"term":"συμπάθεια","qualifier":"","band":"5","col":"485"}
  ],
  "persons":[

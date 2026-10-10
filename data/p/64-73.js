@@ -1,0 +1,15 @@
+HWPH.put("p/64-73",
+{"ds":[["DS","1es:;;p5,4,4w,6,4,3 18b:;;62q,i,8,l,a"],["Ds","fv:;vv,i,r,c,h,s,f,s,18,d,4e,9,1b,11,c,c,2f,10,e,2n,l,t,j,10,8,i,t,x,m,v,1p,22,c,w,5,38,1c,e,16,2z,2b,6z,18,b,2x,14,2a,1h,6t,1k,12,3b,1s,n,13,v,w,19,7,1f,2j,2a,3k,61,k,q,l,o;rd,jv 1tj:;g,u,35"],["dS","kw:;3a 1vl:;18q"],["ds","1gv:;1qi 2o:;153 ip:;277,70"]],
+"ds2":[["ds2","1jj:;15j ip:;26j"]],
+"dsb":[["DSB","1m0:;;1f0,f,s,q,1j"]],
+"dschafar":[["Dschafar","1lz:;;7d"]],
+"dschinnen":[["Dschinnen","2iy:;;5f,e"]],
+"dschu":[["DSCHU","1td:;2ep1"]],
+"dschuang":[["DSCHUANG","1cu:;;75 sl:;;1t4 eq:;;nm"],["Dschuang","1gx:;;;2"]],
+"dschuangdse":[["DSCHUANGDSE","25f:;389,5e"],["Dschuangdse","25f:;31n,p"]],
+"dschung":[["Dschung","229:;;1k"]],
+"dse":[["Dse","1cu:;;6x"]],
+"dsi":[["DSI","1cu:;;76 sl:;;1t5 eq:;;nn"],["Dsi","1gx:;1q3;k1;3,6"]],
+"dsm":[["DSM","1ta:;3v;d bk:;;p 73:;;36 5f:;cb,f 8g:;;lf,e 5h:;;u2"]],
+"dsnr":[["DSNr","1es:;;u9"]]}
+);

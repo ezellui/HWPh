@@ -40,10 +40,10 @@ HWPH.put("a/3335",
   {"term":"Grenzen des Wissens","qualifier":"","band":"11","col":"345"},
   {"term":"Horizont","qualifier":"","band":"11","col":"345"},
   {"term":"ignorantia","qualifier":"","band":null,"col":null},
-  {"term":"K 7 788ff.","qualifier":"","band":"11","col":"345"},
   {"term":"nescientia","qualifier":"","band":"11","col":"343"},
   {"term":"Nichtwissen","qualifier":"","band":null,"col":null},
   {"term":"Nichtwissenwollen","qualifier":"","band":"11","col":"344"},
+  {"term":"Philosoph","qualifier":"","band":"11","col":"345"},
   {"term":"Rechtsunkenntnis","qualifier":"","band":"11","col":"346"},
   {"term":"Schleier der Unwissenheit","qualifier":"","band":"11","col":"346"},
   {"term":"Schranken der Erkenntnis","qualifier":"","band":"11","col":"345"},
@@ -145,6 +145,6 @@ HWPH.put("a/3335",
   {"id":2137,"lemma":"Nichtwissen, sokratisches"}
  ],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Unwissenheit"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

@@ -20,11 +20,9 @@ HWPH.put("a/3155",
  "register":[
   {"term":"duplex usus legis","qualifier":"","band":"10","col":"1027"},
   {"term":"Gesetz und Evangelium","qualifier":"","band":"10","col":"1029"},
-  {"term":"inneres 12 1037f. triplex usus legis","qualifier":"","band":null,"col":null},
+  {"term":"triplex usus legis","qualifier":"","band":null,"col":null},
   {"term":"usus civilis/theologicus","qualifier":"","band":"10","col":"1027"},
-  {"term":"usus didacticus","qualifier":"","band":"10","col":"1028f."},
-  {"term":"– I (theol.) 1 406 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol ) 3 494–514 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"usus didacticus","qualifier":"","band":"10","col":"1028f."}
  ],
  "persons":[
   {"id":107,"name":"Ph. Melanchthon","b":3,"n":1,"l":0,"editor":0,"role":"source"},

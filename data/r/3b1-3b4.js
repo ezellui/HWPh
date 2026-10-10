@@ -9,7 +9,8 @@ HWPH.put("r/3b1-3b4",
  ["ἄδικος εὐδαίμων","Strafe","I","10","210","ref",3035,"Strafe","αδικοσ ευδαιμων"],
  ["ἀδιόριστος","Vagheit","","11","532","ref",3370,"Vagheit; vage","αδιοριστοσ"],
  ["ἀδολεσχία","Tautologie","","10","934","ref",3137,"Tautologie","αδολεσχια"],
- ["ἄδος","Überdruss ἀδοξάστως","",null,null,"ref",null,null,"αδοσ"],
+ ["ἄδος","Überdruss","",null,null,"ref",3249,"Überdruß","αδοσ"],
+ ["ἀδοξάστως","Skepsis; Skeptizismus","I","9","939","ref",2907,"Skepsis; Skeptizismus","αδοξαστωσ"],
  ["ἀδύνατον","Unmöglichkeit","",null,null,"ref",3315,"Unmöglichkeit","αδυνατον"]
 ]
 );

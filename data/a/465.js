@@ -22,13 +22,7 @@ HWPH.put("a/465",
   {"term":"casus (ling.)","qualifier":"","band":null,"col":null},
   {"term":"Fall (ling.)","qualifier":"","band":null,"col":null},
   {"term":"Nominativ","qualifier":"","band":null,"col":null},
-  {"term":"πτωσ͂ις","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (theol.) 4 703–705 – II (eth.) 4 705f. – III (med.) 4 706f. Kasus (ling.)",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"πτωσ͂ις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":495,"name":"Varro","b":1,"n":1,"l":0,"editor":0,"role":"source"},

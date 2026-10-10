@@ -13,6 +13,10 @@ HWPH.put("r/3b4-3b5",
  ["δεσμός","Ananke","","1","267","ref",133,"Ananke","δεσμοσ"],
  ["δεσμός","Ganzes/Teil","I","3","4","ref",986,"Ganzes/Teil","δεσμοσ"],
  ["δεσμός","Spannung","II","9","1286","ref",2961,"Spannung","δεσμοσ"],
- ["δεύτερα οὐσία","Substanz I δεύτερα φιλοσοφία","",null,null,"ref",null,null,"δευτερα ουσια"]
+ ["δεύτερα οὐσία","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens","δευτερα ουσια"],
+ [
+  "δεύτερα φιλοσοφία","Erste Philosophie","I",null,null,"ref",816,"Erste Philosophie",
+  "δευτερα φιλοσοφια"
+ ]
 ]
 );

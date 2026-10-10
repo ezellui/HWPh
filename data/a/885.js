@@ -21,8 +21,10 @@ HWPH.put("a/885",
  ],
  "outlinks":[],
  "register":[
+  {"term":"Finalität","qualifier":"","band":null,"col":null},
   {"term":"Kausalität","qualifier":"","band":null,"col":null},
-  {"term":"Maximalprinzipien","qualifier":"","band":null,"col":null}
+  {"term":"Maximalprinzipien","qualifier":"","band":null,"col":null},
+  {"term":"Prinzip der kleinsten Wirkung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":3,"n":1,"l":0,"editor":0,"role":"source"},
@@ -91,7 +93,7 @@ HWPH.put("a/885",
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
   {"id":2640,"lemma":"Regel","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3630,"lemma":"Wirkungsprinzip; Prinzip der kleinsten Aktion"}],
  "groups":[
   {"id":32,"name":"Physik","label":"Extremalprinzipien"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Extremalprinzipien"}

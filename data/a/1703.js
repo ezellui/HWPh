@@ -59,6 +59,6 @@ HWPH.put("a/1703",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Rudolph Wolfgang","n":5}]
 }
 );

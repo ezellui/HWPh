@@ -130,7 +130,14 @@ HWPH.put("a/1905",
   {"id":2033,"lemma":"Motiv","tf":2},
   {"id":2781,"lemma":"Schrift","tf":3}
  ],
- "see_also":[{"id":3270,"lemma":"Übung"}],
+ "see_also":[
+  {"id":3270,"lemma":"Übung"},
+  {"id":1635,"lemma":"Kontemplation"},
+  {"id":2537,"lemma":"Purus.a"},
+  {"id":3668,"lemma":"Yoga"},
+  {"id":2743,"lemma":"Satori"},
+  {"id":3682,"lemma":"Zen"}
+ ],
  "groups":[
   {"id":6,"name":"Chinesische Philosophie","label":"Meditation III (chin.)"},
   {"id":15,"name":"Indische Philosophie","label":"Meditation II (ind.)"},

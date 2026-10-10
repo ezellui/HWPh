@@ -156,7 +156,12 @@ HWPH.put("a/855",
   {"id":2785,"lemma":"Schule","tf":2},
   {"id":154,"lemma":"Annahme, Annehmen","tf":2}
  ],
- "see_also":[{"id":701,"lemma":"Ekpyrosis"},{"id":1675,"lemma":"Kosmogonie"},{"id":1678,"lemma":"Kosmos"}],
+ "see_also":[
+  {"id":701,"lemma":"Ekpyrosis"},
+  {"id":1675,"lemma":"Kosmogonie"},
+  {"id":1678,"lemma":"Kosmos"},
+  {"id":3562,"lemma":"Weltende; Weltuntergang"}
+ ],
  "groups":[],
  "reg_authors":[{"name":"Behler Ernst","n":4}]
 }

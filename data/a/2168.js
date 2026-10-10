@@ -24,13 +24,12 @@ HWPH.put("a/2168",
  ],
  "outlinks":[],
  "register":[
+  {"term":"bzw. vernünftige","qualifier":"","band":"6","col":"939"},
   {"term":"consensus universalis","qualifier":"","band":"6","col":"939"},
-  {"term":"natürliche bzw. vernünftige","qualifier":"","band":"6","col":"939"},
   {"term":"notio communis","qualifier":"","band":null,"col":null},
   {"term":"notio singularis","qualifier":"","band":"6","col":"940"},
   {"term":"notitiae communes","qualifier":"","band":"6","col":"939"},
-  {"term":"κοινὰι ἔννοιαι","qualifier":"","band":null,"col":null},
-  {"term":"– I (erk.) 1 419–423 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"κοινὰι ἔννοιαι","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":2,"l":0,"editor":0,"role":"source"},

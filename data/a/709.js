@@ -19,8 +19,7 @@ HWPH.put("a/709",
  "outlinks":[{"id":282,"lemma":"Atomtheorie","n":1}],
  "register":[
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Teilchen","qualifier":"","band":null,"col":null},
-  {"term":"– I (phys.) 1 603 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Teilchen","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":79,"name":"Demokrit","b":1,"n":0,"l":0,"editor":0,"role":"source"},

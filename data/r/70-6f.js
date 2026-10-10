@@ -7,47 +7,24 @@ HWPH.put("r/70-6f",
   "possest"
  ],
  ["Possest","Wesen","II","12","628","ref",3595,"Wesen","possest"],
- ["Politik","Politik","II","7","1048","main",2396,"Politik","politik"],
  ["Polytheismus","Polytheismus","II","7","1093","main",2403,"Polytheismus","polytheismus"],
- [
-  "Potenzen II 1 (theol.)","Potenzen II 1 (theol.)","","7","1170","main",2423,"Potenz, Potenzen",
-  "potenzen ii 1 (theol.)"
- ],
- [
-  "Potenzen II 1 (theol.)","Produktion I (nat.)","","7","1423","ref",2469,
-  "Produktion, Produktivität","potenzen ii 1 (theol.)"
- ],
- [
-  "Polyhistorie; Polymathie","Polyhistorie; Polymathie","",null,null,"main",2400,
-  "Polyhistorie/Polymathie","polyhistorie; polymathie"
- ],
- [
-  "Polyhistorie; Polymathie","Philosophie","IV D","7","709ff.","ref",2353,"Philosophie",
-  "polyhistorie; polymathie"
- ],
  ["Postulat","Postulat","III A","7","1149","main",2418,"Postulat","postulat"],
- [
-  "Polizeiwissenschaft 7 1081 Kameralwissenschaft","Ökonomie, politische","","6","1166","ref",2211,
-  "Ökonomie, politische","polizeiwissenschaft 7 1081 kameralwissenschaft"
- ],
- [
-  "Polizeiwissenschaft","Ordnung, berufsständische","","6","1309f.","ref",2233,"Ordnung",
-  "polizeiwissenschaft"
- ],
- [
-  "Polizeiwissenschaft","Subsidiaritätsprinzip","",null,null,"see",3059,"Subsidiaritätsprinzip",
-  "polizeiwissenschaft"
- ],
  [
   "politische Physiokratie, transzendentale","Transzendental","V","10","1384","ref",3219,
   "Transzendental","politische physiokratie, transzendentale"
  ],
  ["Pöbel","Pöbel","","7","999f.","main",2386,"Pöbel","pobel"],
- ["Pöbel","Masse II (soz.)","",null,null,"see",1878,"Masse, Massen","pobel"],
- ["Pöbel","Pauper; Pauperismus Pöbel","",null,null,"see",2300,"Pauper, Pauperismus","pobel"],
+ ["Pöbel","Masse","II (soz.)",null,null,"see",1878,"Masse, Massen","pobel"],
+ ["Pöbel","Pauper; Pauperismus","",null,null,"see",2300,"Pauper, Pauperismus","pobel"],
+ ["Pöbel","Gesellschaft, bürgerliche","","3","472","ref",1100,"Gesellschaft, bürgerliche","pobel"],
+ ["Pöbel","Soziale Frage","","9","1130","ref",2940,"Soziale Frage","pobel"],
  ["Pöbelherrschaft","Ochlokratie","",null,null,"ref",2199,"Ochlokratie","pobelherrschaft"],
  ["poena","Strafe","",null,null,"ref",3035,"Strafe","poena"],
- ["poenitentia","Busse poesia hermetica","",null,null,"ref",null,null,"poenitentia"],
+ ["poenitentia","Busse","",null,null,"ref",462,"Buße","poenitentia"],
+ [
+  "poesia hermetica","Hermetismus; hermetisch","","3","1077","ref",1258,"Hermetismus, hermetisch",
+  "poesia hermetica"
+ ],
  ["Poesie","Poesie","","7","1000–1008","main",2387,"Poesie","poesie"],
  ["Poesie","Kunst; Dichtung","",null,null,"see",1712,"Kunst, Kunstwerk","poesie"],
  ["Poesie","Lyrik","",null,null,"see",1841,"Lyrik, lyrisch","poesie"],
@@ -86,7 +63,11 @@ HWPH.put("r/70-6f",
  ["Poetic diction","Stil","",null,null,"see",3024,"Stil","poetic diction"],
  ["Poetik","Poetik","","7","1011–1023","main",2389,"Poetik","poetik"],
  ["Poetik","Kunst; Dichtung","",null,null,"see",1712,"Kunst, Kunstwerk","poetik"],
- ["Poetik","Lyrik poetische Wahrscheinlichkeit","",null,null,"see",null,null,"poetik"],
+ ["Poetik","Lyrik","",null,null,"see",1841,"Lyrik, lyrisch","poetik"],
+ [
+  "poetische Wahrscheinlichkeit","Wahrscheinlichkeit (ästhetisch)","",null,null,"ref",3541,
+  "Wahrscheinlichkeit (ästhetisch)","poetische wahrscheinlichkeit"
+ ],
  [
   "poetischer Nihilist","Ästhetik","","1","570","ref",266,"Ästhetik, ästhetisch",
   "poetischer nihilist"
@@ -94,13 +75,7 @@ HWPH.put("r/70-6f",
  ["poetischer Staat","Staat","II","10","38","ref",2998,"Staat","poetischer staat"],
  ["Poetizität","Poesie","","7","1006","ref",2387,"Poesie","poetizitat"],
  ["Poiesis","Poiesis","","7","1024–1026","main",2390,"Poiesis","poiesis"],
- ["Poiesis","Praxis ποίησις","",null,null,"see",null,null,"poiesis"],
- ["Poiesis","Poiesis","",null,null,"main",2390,"Poiesis","poiesis"],
- [
-  "Poiesis","Actio immanens/transiens","","1","76","ref",42,"Actio immanens/actio transiens",
-  "poiesis"
- ],
- ["Poiesis","Produktion I (nat.)","","7","1418f.","ref",2469,"Produktion, Produktivität","poiesis"],
+ ["Poiesis","Praxis","",null,null,"see",2448,"Praxis, praktisch","poiesis"],
  ["Poiesis","Kunst; Kunstwerk","I","4","1362","ref",1712,"Kunst, Kunstwerk","poiesis"],
  ["point animé","Seele","IV","9","33","ref",2794,"Seele","point anime"],
  [
@@ -109,7 +84,7 @@ HWPH.put("r/70-6f",
  ],
  ["Poiographie","Philosophie","IV B","7","697","ref",2353,"Philosophie","poiographie"],
  [
-  "Poiopsyche","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Poiopsyche","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","poiopsyche"
  ],
  ["Polarität","Polarität","","7","1026–1029","main",2391,"Polarität","polaritat"],
@@ -133,9 +108,9 @@ HWPH.put("r/70-6f",
   "polemische theologie"
  ],
  ["polemische Theologie","Widerlegung","","12","682","ref",3605,"Widerlegung","polemische theologie"],
- ["police","Polizei","",null,null,"ref",2399,"Polizei","police"],
- ["Polizeiwissenschaft","Polis","","7","1031–1034","ref",2392,"Polemik","polizeiwissenschaft"],
- ["Polizeiwissenschaft","Politik","I",null,null,"see",2396,"Politik","polizeiwissenschaft"],
+ ["police","Polizei; Polizeiwissenschaft","",null,null,"ref",2399,"Polizei","police"],
+ ["Polis","Polis","","7","1031–1034","main",2393,"Polis","polis"],
+ ["Polis","Politik","I",null,null,"see",2396,"Politik","polis"],
  ["Polis","Gesellschaft, bürgerliche","","3","466","ref",1100,"Gesellschaft, bürgerliche","polis"],
  ["Politeia","Politeia","","7","1034–1036","main",2394,"Politeia","politeia"],
  ["Politeia","Demokratie","",null,null,"see",547,"Demokratie","politeia"],
@@ -167,10 +142,7 @@ HWPH.put("r/70-6f",
  ["politicum","Politische, das Politie","",null,null,"ref",409,"Bewegung, politische","politicum"],
  ["Politeia","Politeia","",null,null,"main",2394,"Politeia","politeia"],
  ["Politeia","Timokratie","",null,null,"ref",3195,"Timokratie","politeia"],
- [
-  "Politik s. auch","Register der Sachgruppen: Politische Theorie","",null,null,"ref",null,null,
-  "politik s. auch"
- ],
+ ["Politik","Register der Sachgruppen: Politische Theorie","",null,null,"see",null,null,"politik"],
  ["Politik","Politik","","7","1038–1072","main",2396,"Politik","politik"],
  ["Politik","Staat","III",null,null,"see",2998,"Staat","politik"],
  ["Politik","Staatsrecht","",null,null,"see",3002,"Staatsrecht","politik"],
@@ -182,12 +154,12 @@ HWPH.put("r/70-6f",
   "politik, dichterische"
  ],
  ["Politik, soziale","Sozialpolitik","",null,null,"ref",2951,"Sozialpolitik","politik, soziale"],
- ["Politikstaat","Polizei","",null,null,"ref",2399,"Polizei","politikstaat"],
+ ["Politikstaat","Polizei; Polizeiwissenschaft","","7","1081","ref",2399,"Polizei","politikstaat"],
  [
-  "Polizeiwissenschaft 7 1081 Politikwissenschaft","Polizei","",null,null,"ref",2399,"Polizei",
-  "polizeiwissenschaft 7 1081 politikwissenschaft"
+  "Politikwissenschaft","Polizei; Polizeiwissenschaft","",null,null,"ref",2399,"Polizei",
+  "politikwissenschaft"
  ],
- ["Polizeiwissenschaft","Politik","III","7","1070","ref",2396,"Politik","polizeiwissenschaft"],
+ ["Politikwissenschaft","Politik","III","7","1070","ref",2396,"Politik","politikwissenschaft"],
  ["politique positif","Soziologie","","9","1272","ref",2960,"Soziologie","politique positif"],
  ["politisch","Öffentlich/privat","",null,null,"ref",2205,"Öffentlich/privat","politisch"],
  [
@@ -226,18 +198,21 @@ HWPH.put("r/70-6f",
   "politischer raum"
  ],
  ["Politisierung","Politisierung","","7","1075–1079","main",2398,"Politisierung","politisierung"],
- ["Polizei","Polizei","",null,null,"main",2399,"Polizei","polizei"],
  [
-  "Polizeiwissenschaft 7 1080–1083 s. auch","Sozialpolitik","",null,null,"ref",2951,"Sozialpolitik",
-  "polizeiwissenschaft 7 1080–1083 s. auch"
+  "Polizei; Polizeiwissenschaft","Polizei; Polizeiwissenschaft","","7","1080–1083","main",2399,
+  "Polizei","polizei; polizeiwissenschaft"
  ],
  [
-  "Polizeiwissenschaft 7 1080–1083 s. auch","Staatslehre","",null,null,"ref",2999,"Staatslehre",
-  "polizeiwissenschaft 7 1080–1083 s. auch"
+  "Polizei; Polizeiwissenschaft","Sozialpolitik","",null,null,"see",2951,"Sozialpolitik",
+  "polizei; polizeiwissenschaft"
  ],
  [
-  "Polizeiwissenschaft 7 1080–1083 s. auch","Verwaltung; Bürokratie","",null,null,"ref",3448,
-  "Verwaltung; Bürokratie","polizeiwissenschaft 7 1080–1083 s. auch"
+  "Polizei; Polizeiwissenschaft","Staatslehre","",null,null,"see",2999,"Staatslehre",
+  "polizei; polizeiwissenschaft"
+ ],
+ [
+  "Polizei; Polizeiwissenschaft","Verwaltung; Bürokratie","",null,null,"see",3448,
+  "Verwaltung; Bürokratie","polizei; polizeiwissenschaft"
  ],
  [
   "Polizeiwissenschaft","Ökonomie, politische","","6","1169","ref",2211,"Ökonomie, politische",
@@ -301,12 +276,23 @@ HWPH.put("r/70-6f",
  ["Porisma","Korollar","",null,null,"see",1662,"Korollar","porisma"],
  ["Pornographie","Obszön","","6","1083","ref",2196,"Obszön","pornographie"],
  ["Porösität","Unbestimmtheit","",null,null,"ref",3285,"Unbestimmtheit","porositat"],
- ["porphyrischer Baum","Arbor porphyriana positio","",null,null,"ref",null,null,"porphyrischer baum"],
+ [
+  "porphyrischer Baum","Arbor porphyriana","",null,null,"ref",236,
+  "Arbor porphyriana, porphyrischer Baum","porphyrischer baum"
+ ],
+ ["positio","Setzen","",null,null,"ref",2876,"Setzen, Setzung","positio"],
+ ["positio","These","",null,null,"ref",3186,"These","positio"],
+ [
+  "positio","Obligatio; Ars obligatoria","II (log.)","6","1068f.","ref",2194,
+  "Obligatio, Ars obligatoria","positio"
+ ],
+ ["positio","Thema","I (rhet.)","10","1060","ref",3165,"Thema","positio"],
+ ["positio","These","I","10","1176","ref",3186,"These","positio"],
  ["Position","Setzen","",null,null,"ref",2876,"Setzen, Setzung","position"],
  ["Position","These","",null,null,"ref",3186,"These","position"],
  ["Position, manische","Verleugnung","","11","721","ref",3416,"Verleugnung","position, manische"],
  [
-  "positionales Bewusstsein","Bewusstsein, positionales (Husserl)","",null,null,"ref",416,
+  "positionales Bewusstsein","Bewusstsein, positionales","(Husserl)",null,null,"ref",416,
   "Bewußtsein, positionales","positionales bewusstsein"
  ],
  [
@@ -357,21 +343,21 @@ HWPH.put("r/70-6f",
   "Positivismus, therapeutischer","positivismus, therapeutischer"
  ],
  [
-  "Positivismus, therapeutischer","Therapie II (philos.) Positivismusstreit","",null,null,"see",null,
-  null,"positivismus, therapeutischer"
+  "Positivismus, therapeutischer","Therapie","II (philos.)",null,null,"see",3184,
+  "Therapie; Therapeutik","positivismus, therapeutischer"
  ],
- ["Positivismus","Positivismus","","7","1121","main",2409,"Positivismus","positivismus"],
- ["Positivismus","Szientismus","","10","873f.","ref",3119,"Szientismus","positivismus"],
+ ["Positivismusstreit","Positivismus","","7","1121","ref",2409,"Positivismus","positivismusstreit"],
+ ["Positivismusstreit","Szientismus","","10","873f.","ref",3119,"Szientismus","positivismusstreit"],
  [
-  "Positivismus","Werturteil","I","12","616f.","ref",3594,"Werturteil; Werturteilsstreit",
-  "positivismus"
- ],
- [
-  "Positivität","Positiv; Positivität II ποσόν; ποσότης","",null,null,"ref",2408,
-  "Positiv, Positivität","positivitat"
+  "Positivismusstreit","Werturteil","I","12","616f.","ref",3594,"Werturteil; Werturteilsstreit",
+  "positivismusstreit"
  ],
  [
-  "possefieri","Produktion I (nat.)","","7","1419","ref",2469,"Produktion, Produktivität",
+  "Positivität","Positiv; Positivität","II",null,null,"ref",2408,"Positiv, Positivität",
+  "positivitat"
+ ],
+ [
+  "possefieri","Produktion","I (nat.)","7","1419","ref",2469,"Produktion, Produktivität",
   "possefieri"
  ],
  ["Possest","Possest","(Cusanus)","7","1125f.","main",2412,"Possest","possest"],
@@ -411,7 +397,7 @@ HWPH.put("r/70-6f",
  ],
  ["possible world","Welt, mögliche","",null,null,"ref",3558,"Welt, mögliche","possible world"],
  [
-  "post hoc ergo propter hoc","Irrtum","(Schlussfehler)","4","610","ref",1500,
+  "post hoc ergo propter hoc","Irrtum (Schlussfehler)","","4","610","ref",1500,
   "Irrtum (Schlußfehler)","post hoc ergo propter hoc"
  ],
  ["postea","Spät","",null,null,"ref",2963,"Spät","postea"],
@@ -424,10 +410,7 @@ HWPH.put("r/70-6f",
  ],
  ["Postlapsarismus","Infralapsarismus","",null,null,"ref",1434,"Infralapsarismus","postlapsarismus"],
  ["Postmoderne","Postmoderne","","7","1141–1145","main",2416,"Postmoderne","postmoderne"],
- [
-  "Postmoderne","Modern; die Moderne postmoderne Moderne","",null,null,"see",2001,
-  "Modern, die Moderne","postmoderne"
- ],
+ ["Postmoderne","Modern; die","",null,null,"see",2001,"Modern, die Moderne","postmoderne"],
  [
   "Postprädikament","Postprädikament","","7","1145f.","main",2417,"Postprädikament",
   "postpradikament"
@@ -443,6 +426,7 @@ HWPH.put("r/70-6f",
  ],
  ["Postulat","Postulat","","7","1146–1157","main",2418,"Postulat","postulat"],
  ["Postulat","Axiom","",null,null,"see",340,"Axiom","postulat"],
+ ["Postulat","Imperativ, kategorischer Postulat","",null,null,"see",null,null,"postulat"],
  [
   "Postulat, praktisches","Postulat","III B (eth.)",null,null,"ref",2418,"Postulat",
   "postulat, praktisches"
@@ -494,7 +478,11 @@ HWPH.put("r/70-6f",
   "potentia obiectiva/subiectiva"
  ],
  [
-  "Potentia obiectiva/subiectiva","Subjekt","",null,null,"see",3047,"Subjekt",
+  "Potentia obiectiva/subiectiva","Subjekt/Objekt","I",null,null,"see",3047,"Subjekt",
+  "potentia obiectiva/subiectiva"
+ ],
+ [
+  "potentia obiectiva/subiectiva","Possibilien","I","7","1130","ref",2413,"Possibilien",
   "potentia obiectiva/subiectiva"
  ],
  [
@@ -538,7 +526,7 @@ HWPH.put("r/70-6f",
   "potestas ecclesiastica"
  ],
  [
-  "potestas herilis","Despotie I (allg.)","","2","133","ref",571,"Despotie, Despotismus",
+  "potestas herilis","Despotie","I (allg.)","2","133","ref",571,"Despotie, Despotismus",
   "potestas herilis"
  ],
  [
@@ -560,7 +548,7 @@ HWPH.put("r/70-6f",
  ["pouvoir","Macht","",null,null,"ref",1844,"Macht","pouvoir"],
  ["pouvoir","Vollmacht","",null,null,"ref",3483,"Vollmacht","pouvoir"],
  [
-  "pouvoir absolu","Despotie I (allg.)","","2","137","ref",571,"Despotie, Despotismus",
+  "pouvoir absolu","Despotie","I (allg.)","2","137","ref",571,"Despotie, Despotismus",
   "pouvoir absolu"
  ],
  ["pouvoir constituant","Verfassung","","11","639","ref",3398,"Verfassung","pouvoir constituant"],
@@ -578,24 +566,8 @@ HWPH.put("r/70-6f",
   "ref",2470,"Produktionsverhältnisse/Produktivkräfte","powers, productive"
  ],
  [
-  "Polizeiwissenschaft","Soziale Frage","",null,null,"ref",2940,"Soziale Frage",
-  "polizeiwissenschaft"
- ],
- ["Polizeiwissenschaft","Sozialstaat","",null,null,"ref",2953,"Sozialstaat","polizeiwissenschaft"],
- [
-  "Polizeiwissenschaft","Wohlfahrt; Wohlfahrtsstaat","",null,null,"ref",3650,
-  "Wohlfahrt; Wohlfahrtsstaat","polizeiwissenschaft"
- ],
- ["Polizeiwissenschaft","Staat","",null,null,"ref",2998,"Staat","polizeiwissenschaft"],
- ["Polizeiwissenschaft","Staatsrecht","",null,null,"ref",3002,"Staatsrecht","polizeiwissenschaft"],
- ["Polizeiwissenschaft","Statistik","",null,null,"ref",3013,"Statistik","polizeiwissenschaft"],
- [
   "Polyhistorie; Polymathie","Polyhistorie; Polymathie","","7","1084","main",2400,
   "Polyhistorie/Polymathie","polyhistorie; polymathie"
- ],
- [
-  "Polizeiwissenschaft Verwaltung, staatswirtschaftliche","Nationalökonomie","","6","418","ref",2072,
-  "Nationalökonomie","polizeiwissenschaft verwaltung, staatswirtschaftliche"
  ],
  [
   "Podskalsky Gerhard","Philosophie","II B","7","623–626","author",2353,"Philosophie",

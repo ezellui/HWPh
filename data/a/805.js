@@ -20,6 +20,7 @@ HWPH.put("a/805",
  "register":[
   {"term":"Akt, intentionaler","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Erlebniszeitlichkeit","qualifier":"(Husserl)","band":"2","col":"711"},
+  {"term":"Horizontintentionalität","qualifier":"(Husserl)","band":"2","col":"711"},
   {"term":"intentionales Erlebnis","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"}],

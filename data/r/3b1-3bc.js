@@ -10,7 +10,7 @@ HWPH.put("r/3b1-3bc",
   "ἀμφίβιοι","Sinnenwelt/Verstandeswelt","","9","873","ref",2893,"Sinnenwelt/Verstandeswelt",
   "αμφιβιοι"
  ],
- ["ἀμφιβολία","Ambiguität I (sprach.)","",null,null,"ref",113,"Ambiguität (Amphibolie)","αμφιβολια"],
+ ["ἀμφιβολία","Ambiguität","I (sprach.)",null,null,"ref",113,"Ambiguität (Amphibolie)","αμφιβολια"],
  [
   "ἀμφιβολία","Zweideutigkeit; Vieldeutigkeit","",null,null,"ref",3721,
   "Zweideutigkeit; Vieldeutigkeit","αμφιβολια"

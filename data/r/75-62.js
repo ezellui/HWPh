@@ -1,15 +1,17 @@
 HWPH.put("r/75-62",
 [
- ["Überschwang","Überschwang","",null,null,"main",3263,"Überschwang","uberschwang"],
- ["Überdruss","Überdruss","","11","9","main",3249,"Überdruß","uberdruss"],
- ["Übergang","Übergang","","11","32","main",3253,"Übergang","ubergang"],
- ["Überwindung","Überwindung","",null,null,"main",3267,"Überwindung","uberwindung"],
- ["Überschwang","Überschwang","",null,null,"main",3263,"Überschwang","uberschwang"],
  [
   "Übersinnlich","Übersinnlich","",null,null,"main",3265,"Übersinnlich; das Übersinnliche",
   "ubersinnlich"
  ],
- ["Übersinnlich","Horizont","III",null,null,"ref",1310,"Horizont","ubersinnlich"],
+ ["Übersinnlich","Horizont","III 3 (Heidegger)","3","1202","ref",1310,"Horizont","ubersinnlich"],
+ ["Übersinnlich","Scheitern","","8","1245f.","ref",2759,"Scheitern","ubersinnlich"],
+ ["Übersinnlich","Transzendental","X","10","1416","ref",3219,"Transzendental","ubersinnlich"],
+ [
+  "Übersinnlich","Vernunft; Verstand","VII D 3","11","844","ref",3423,"Vernunft; Verstand",
+  "ubersinnlich"
+ ],
+ ["Übersinnlich","Wiederholung","","12","740ff.","ref",3616,"Wiederholung","ubersinnlich"],
  ["ubi","Wo; wann I","",null,null,"ref",3649,"Wo; Wann","ubi"],
  ["ubi","Dasein","","2","15","ref",527,"Dasein","ubi"],
  ["ubique","Wo; wann","I","12","991","ref",3649,"Wo; Wann","ubique"],
@@ -19,10 +21,7 @@ HWPH.put("r/75-62",
  ["Ubiquität","Menschensohn","",null,null,"see",1923,"Menschensohn","ubiquitat"],
  ["Ubiquität","Präsenz","",null,null,"see",2444,"Präsenz","ubiquitat"],
  ["Übel","Übel","","11","1–4","main",3246,"Übel","ubel"],
- ["Übel","Gut; das Gute","",null,null,"see",1203,"Gut, das Gute, das Gut","ubel"],
- ["Übel","Malum","",null,null,"see",1852,"Malum","ubel"],
- ["Übel","Theodizee","",null,null,"see",3166,"Theodizee","ubel"],
- ["Übel","Zulassung","",null,null,"see",3709,"Zulassung","ubel"],
+ ["Übel","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","ubel"],
  ["Übel","Causa deficiens","",null,null,"ref",467,"Causa deficiens","ubel"],
  [
   "Übel, kleineres","Pflichtenkollision","","7","440f.","ref",2336,"Pflichtenkollision",
@@ -37,6 +36,24 @@ HWPH.put("r/75-62",
  ["überall","Ubiquität","",null,null,"ref",3269,"Ubiquität","uberall"],
  ["überall","Allzeitlichkeit","(Husserl)","1","198","ref",107,"Allzeitlichkeit","uberall"],
  ["Überbau/Basis","Überbau/Basis","","11","4–7","main",3247,"Überbau/Basis","uberbau/basis"],
+ [
+  "Überbau/Basis","Bewusstsein, antizipierendes","(Bloch)","1","896","ref",413,
+  "Bewußtsein, antizipierendes","uberbau/basis"
+ ],
+ [
+  "Überbau/Basis","Geschichtsauffassung, materialistische","","3","409","ref",1091,
+  "Geschichtsauffassung, materialistische","uberbau/basis"
+ ],
+ [
+  "Überbau/Basis","Kunst; Kunstwerk","IV","4","1403ff.","ref",1712,"Kunst, Kunstwerk",
+  "uberbau/basis"
+ ],
+ ["Überbau/Basis","Liebe","IV","5","323","ref",1795,"Liebe","uberbau/basis"],
+ ["Überbau/Basis","Marxismus","II","5","769","ref",1871,"Marxismus","uberbau/basis"],
+ [
+  "Überbau/Basis","Struktur","II (frz. Struktural.)","10","318","ref",3040,"Struktur",
+  "uberbau/basis"
+ ],
  [
   "Überbegriffliche, das","Psychologie, transzendentale","(Kant)","7","1673","ref",2521,
   "Psychologie, transzendentale","uberbegriffliche, das"
@@ -81,14 +98,9 @@ HWPH.put("r/75-62",
   "ubereinstimmung"
  ],
  [
-  "Übereinstimmung","Consensus omnium; consensus gentium","",null,null,"see",511,
+  "Übereinstimmung","Consensus omnium; consensus","",null,null,"see",511,
   "Consensus omnium, consensus gentium","ubereinstimmung"
  ],
- ["Übereinstimmung","Harmonie","",null,null,"see",1226,"Harmonie","ubereinstimmung"],
- ["Übereinstimmung","Homologie","",null,null,"see",1306,"Homologie","ubereinstimmung"],
- ["Übereinstimmung","Konvenienz","",null,null,"see",1650,"Konvenienz","ubereinstimmung"],
- ["Übereinstimmung","Stimmigkeit","",null,null,"see",3026,"Stimmigkeit","ubereinstimmung"],
- ["Übereinstimmung","Vertrag","",null,null,"see",3445,"Vertrag","ubereinstimmung"],
  ["Übereinstimmung","Abbildtheorie","",null,null,"ref",18,"Abbildtheorie","ubereinstimmung"],
  ["Übereinstimmung","Wahrheit","",null,null,"ref",3523,"Wahrheit","ubereinstimmung"],
  ["Übereinstimmung","Sobornost","","9","995","ref",2913,"Sobornost","ubereinstimmung"],
@@ -110,6 +122,7 @@ HWPH.put("r/75-62",
   "Übereinstimmung mit sich","Übereinstimmung","","11","15","ref",3251,"Übereinstimmung",
   "ubereinstimmung mit sich"
  ],
+ ["Übererregung","Psychose","II","7","1695","ref",2528,"Psychose","ubererregung"],
  ["überfliegend","Immanenz","","4","224","ref",1390,"Immanent, Immanenz","uberfliegend"],
  ["überfliegend","Überschwang","","11","57","ref",3263,"Überschwang","uberfliegend"],
  ["Überfluss","Überfluss","","11","27–30","main",3252,"Überfluß; Überflußgesellschaft","uberfluss"],
@@ -118,9 +131,10 @@ HWPH.put("r/75-62",
  ["Überfluss","Tauschgesellschaft","",null,null,"see",3134,"Tauschgesellschaft","uberfluss"],
  ["Überfluss","Redundanz","",null,null,"ref",2630,"Redundanz","uberfluss"],
  [
-  "Überflussgesellschaft","Überfluss Überformung","",null,null,"ref",null,null,
+  "Überflussgesellschaft","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft",
   "uberflussgesellschaft"
  ],
+ ["Überformung","Form und Materie","","2","1027","ref",939,"Form und Materie (Stoff)","uberformung"],
  ["Übergang","Übergang","","11","30–32","main",3253,"Übergang","ubergang"],
  ["Übergang","Niedergang","",null,null,"see",2138,"Niedergang, Untergang","ubergang"],
  ["Übergang","Übergangsperiode","",null,null,"see",3254,"Übergangsperiode; Übergangszeit","ubergang"],
@@ -152,18 +166,23 @@ HWPH.put("r/75-62",
  ],
  ["Übergangsperiode","Übergang","",null,null,"see",3253,"Übergang","ubergangsperiode"],
  ["Übergangsperiode","Entzweiung","","2","568","ref",765,"Entzweiung, entzweien","ubergangsperiode"],
- ["Übergangszeit","Übergangsperiode übergebührlich","",null,null,"ref",null,null,"ubergangszeit"],
  [
-  "Übergegensätzlichkeit (Lask)","Übergegensätzlichkeit (Lask)","","11","34–36","main",3255,
-  "Übergegensätzlichkeit; übergegensätzlich","ubergegensatzlichkeit (lask)"
+  "Übergangszeit","Übergangsperiode","",null,null,"ref",3254,"Übergangsperiode; Übergangszeit",
+  "ubergangszeit"
+ ],
+ ["übergebührlich","Rat","II",null,null,"ref",2569,"Rat","ubergebuhrlich"],
+ ["übergebührlich","Supererogation","",null,null,"ref",3079,"Supererogation","ubergebuhrlich"],
+ [
+  "Übergegensätzlichkeit","Übergegensätzlichkeit","(Lask)","11","34–36","main",3255,
+  "Übergegensätzlichkeit; übergegensätzlich","ubergegensatzlichkeit"
  ],
  [
-  "Übergegensätzlichkeit (Lask)","Coincidentia oppositorum","(Cusanus)",null,null,"see",501,
-  "Coincidentia oppositorum","ubergegensatzlichkeit (lask)"
+  "Übergegensätzlichkeit","Coincidentia oppositorum","(Cusanus)",null,null,"see",501,
+  "Coincidentia oppositorum","ubergegensatzlichkeit"
  ],
  [
-  "Übergegensätzlichkeit (Lask)","Gegensatz","I (met.)",null,null,"see",1018,"Gegensatz",
-  "ubergegensatzlichkeit (lask)"
+  "Übergegensätzlichkeit","Gegensatz","I (met.)",null,null,"see",1018,"Gegensatz",
+  "ubergegensatzlichkeit"
  ],
  ["übergegenständlich","Wahrheit","VI A","12","106","ref",3523,"Wahrheit","ubergegenstandlich"],
  [
@@ -215,7 +234,14 @@ HWPH.put("r/75-62",
  ["Überirdisch","Überirdisch","","11","41f.","main",3258,"Überirdisch","uberirdisch"],
  ["Überirdisch","Sublunar/translunar","",null,null,"see",3057,"Sublunar/translunar","uberirdisch"],
  ["Überirdisch","Supramundan","",null,null,"see",3087,"Supramundan","uberirdisch"],
- ["Überirdisch","Übersinnlich überkausale Determinanten","",null,null,"see",null,null,"uberirdisch"],
+ [
+  "Überirdisch","Übersinnlich","",null,null,"see",3265,"Übersinnlich; das Übersinnliche",
+  "uberirdisch"
+ ],
+ [
+  "überkausale Determinanten","Determination","(Hartmann)",null,null,"ref",573,"Determination",
+  "uberkausale determinanten"
+ ],
  [
   "Überkompensation","Überkompensation","(Adler)","11","42f.","main",3259,"Überkompensation",
   "uberkompensation"
@@ -264,11 +290,11 @@ HWPH.put("r/75-62",
   "Übermass","Via causalitatis/negationis/eminentiae","",null,null,"ref",3460,
   "Via causalitatis; via negationis; via eminentiae","ubermass"
  ],
- ["Übermass","Mass II (ästh.)","","5","820","ref",1877,"Maß","ubermass"],
+ ["Übermass","Mass","II (ästh.)","5","820","ref",1877,"Maß","ubermass"],
  ["Übermass/Mangel","Mesotes","",null,null,"ref",1933,"Mesotes","ubermass/mangel"],
  ["Übermass/Mangel","Mehrhabenwollen","","5","1004","ref",1908,"Mehrhabenwollen","ubermass/mangel"],
  ["Übermensch","Übermensch","","11","46–50","main",3261,"Übermensch","ubermensch"],
- ["Übermensch","Held; Heros II","",null,null,"see",1243,"Held, Heros","ubermensch"],
+ ["Übermensch","Held; Heros","II",null,null,"see",1243,"Held, Heros","ubermensch"],
  ["Übermensch","Herrenmoral","(Nietzsche)",null,null,"see",1259,"Herrenmoral","ubermensch"],
  ["Übermensch","Tod Gottes","",null,null,"see",3198,"Tod Gottes","ubermensch"],
  [
@@ -312,7 +338,7 @@ HWPH.put("r/75-62",
  ],
  ["überprüfbar","Prüfbar","(Carnap)",null,null,"ref",2501,"Prüfbar","uberprufbar"],
  [
-  "überraschend","Paradox I (rhet.)","","7","81","ref",2270,"Paradox, Paradox(e), Paradoxie",
+  "überraschend","Paradox","I (rhet.)","7","81","ref",2270,"Paradox, Paradox(e), Paradoxie",
   "uberraschend"
  ],
  ["Überrealismus","Surrealismus","","10","682","ref",3090,"Surrealismus","uberrealismus"],
@@ -330,12 +356,15 @@ HWPH.put("r/75-62",
   "Überreden; Überzeugen","Sophistik","",null,null,"see",2926,"Sophistik; sophistisch; Sophist",
   "uberreden; uberzeugen"
  ],
- ["Überreden; Überzeugen","Topik Überredung","",null,null,"see",null,null,"uberreden; uberzeugen"],
- ["Überredungskunst","Dialektik","IV",null,null,"ref",583,"Dialektik","uberredungskunst"],
+ ["Überreden; Überzeugen","Topik","",null,null,"see",3203,"Topik; Topos","uberreden; uberzeugen"],
  [
-  "Überdruss Überschauen","Überdruss Überschauen","",null,null,"main",null,null,
-  "uberdruss uberschauen"
+  "Überredung","Mitteilung; Mitteilbarkeit","","5","1424","ref",1986,
+  "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","uberredung"
  ],
+ ["Überredung","Wette","","12","676","ref",3603,"Wette","uberredung"],
+ ["Überredungskunst","Dialektik","IV 2. 1",null,null,"ref",583,"Dialektik","uberredungskunst"],
+ ["Übersättigung","Überdruss","",null,null,"ref",3249,"Überdruß","ubersattigung"],
+ ["Überschauen","Phänomenologie","II (Husserl)","7","495","ref",2343,"Phänomenologie","uberschauen"],
  [
   "Überschreiten der Subjektivität","Transsubjektivität","","10","1348f.","ref",3217,
   "Transsubjektivität; das Transsubjektive","uberschreiten der subjektivitat"
@@ -344,8 +373,10 @@ HWPH.put("r/75-62",
   "Überschritt","Transzendenz","II","10","1449","ref",3223,"Transzendenz; Transzendieren",
   "uberschritt"
  ],
- ["Überschuss","Antriebsüberschuss (Gehlen)","",null,null,"ref",195,"Antriebsüberschuß","uberschuss"],
- ["Überschuss","Überfluss Überschuss/Mangel","",null,null,"ref",null,null,"uberschuss"],
+ ["Überschuss","Antriebsüberschuss","(Gehlen)",null,null,"ref",195,"Antriebsüberschuß","uberschuss"],
+ ["Überschuss","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft","uberschuss"],
+ ["Überschuss/Mangel","Mesotes","",null,null,"ref",1933,"Mesotes","uberschuss/mangel"],
+ ["Überschuss/Mangel","Dyas","","2","302","ref",643,"Dyas","uberschuss/mangel"],
  ["Überschwang","Überschwang","","11","56–58","main",3263,"Überschwang","uberschwang"],
  ["Überschwang","Fest","II","2","940","ref",910,"Fest","uberschwang"],
  ["Überschwang","Liebe","IV","5","328","ref",1795,"Liebe","uberschwang"],
@@ -420,6 +451,9 @@ HWPH.put("r/75-62",
  ["Übersetzung","Phänomenalismus","","7","484","ref",2341,"Phänomenalismus","ubersetzung"],
  ["Übersetzung","Pragmatismus","","7","1246","ref",2436,"Pragmatismus, Pragmatizismus","ubersetzung"],
  ["Übersetzung","Sprache","III","9","1474","ref",2985,"Sprache","ubersetzung"],
+ ["Übersetzung","Verstehen","","11","922","ref",3438,"Verstehen","ubersetzung"],
+ ["Übersetzung","Weltliteratur","","12","495","ref",3571,"Weltliteratur","ubersetzung"],
+ ["Übersetzung","Wiedererkennen","","12","729","ref",3613,"Wiedererkennen","ubersetzung"],
  [
   "Übersetzung, radikale","Unbestimmtheit","","11","122","ref",3285,"Unbestimmtheit",
   "ubersetzung, radikale"
@@ -455,11 +489,13 @@ HWPH.put("r/75-62",
  ],
  ["Übersprung","Sprung","","9","1543","ref",2996,"Sprung","ubersprung"],
  ["Übersprungshandlung","Stereotypie","","10","140","ref",3021,"Stereotypie","ubersprungshandlung"],
- ["Überstieg","Transzendenz übersubstantiell","",null,null,"ref",null,null,"uberstieg"],
+ ["Überstieg","Transzendenz","",null,null,"ref",3223,"Transzendenz; Transzendieren","uberstieg"],
  [
-  "Überseiend übersummativ","Überseiend übersummativ","",null,null,"main",null,null,
-  "uberseiend ubersummativ"
+  "übersubstantiell","Überseiend","",null,null,"ref",3264,"Überseiend; überwesentlich",
+  "ubersubstantiell"
  ],
+ ["übersummativ","Ganzqualitäten","",null,null,"ref",990,"Ganzqualitäten","ubersummativ"],
+ ["übersummativ","Psychologie","","7","1633","ref",2511,"Psychologie","ubersummativ"],
  ["Übertragung","Übertragung","","11","66–69","main",3266,"Übertragung","ubertragung"],
  ["Übertragung","Psychoanalyse","I",null,null,"see",2506,"Psychoanalyse","ubertragung"],
  ["Übertragung","Widerstand","III (psych.)",null,null,"see",3610,"Widerstand","ubertragung"],
@@ -475,7 +511,7 @@ HWPH.put("r/75-62",
   "ubertragung (psych.)"
  ],
  [
-  "überunaussprechlich","Schweigen; Stille A","","8","1485","ref",2787,"Schweigen, Stille",
+  "überunaussprechlich","Schweigen; Stille","A","8","1485","ref",2787,"Schweigen, Stille",
   "uberunaussprechlich"
  ],
  [
@@ -483,7 +519,7 @@ HWPH.put("r/75-62",
   "uberunaussprechlich"
  ],
  [
-  "überunerkennbar","Schweigen; Stille A","","8","1485","ref",2787,"Schweigen, Stille",
+  "überunerkennbar","Schweigen; Stille","A","8","1485","ref",2787,"Schweigen, Stille",
   "uberunerkennbar"
  ],
  [
@@ -562,7 +598,7 @@ HWPH.put("r/75-62",
  ["Überzeitlich","Aion","",null,null,"see",69,"Aion","uberzeitlich"],
  ["Überzeitlich","Allzeitlichkeit","(Husserl)",null,null,"see",107,"Allzeitlichkeit","uberzeitlich"],
  [
-  "Überzeitlich","Übergegensätzlichkeit (Lask)","",null,null,"see",3255,
+  "Überzeitlich","Übergegensätzlichkeit","(Lask)",null,null,"see",3255,
   "Übergegensätzlichkeit; übergegensätzlich","uberzeitlich"
  ],
  [
@@ -581,7 +617,15 @@ HWPH.put("r/75-62",
   "Überzeugung","Mitteilung; Mitteilbarkeit","","5","1424","ref",1986,
   "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","uberzeugung"
  ],
- ["Überzeugung","Phänomenologie","",null,null,"ref",2343,"Phänomenologie","uberzeugung"],
+ [
+  "Überzeugung","Phänomenologie genetische","(Husserl)","7","507","ref",2344,
+  "Phänomenologie, genetische","uberzeugung"
+ ],
+ ["Überzeugung","Religion","VII","8","674","ref",2673,"Religion","uberzeugung"],
+ ["Überzeugung","Urteil","II 3","11","450","ref",3355,"Urteil","uberzeugung"],
+ ["Überzeugung","Wette","","12","676","ref",3603,"Wette","uberzeugung"],
+ ["Überzeugung","Zeugung","","12","1333","ref",3693,"Zeugung","uberzeugung"],
+ ["Überzeugung","Zustimmung","II","12","1468","ref",3715,"Zustimmung","uberzeugung"],
  [
   "Überzeugung, unkorrigierbare","Wahn","","12","32","ref",3520,"Wahn",
   "uberzeugung, unkorrigierbare"
@@ -591,7 +635,7 @@ HWPH.put("r/75-62",
   "uberzeugungen, irrationale"
  ],
  [
-  "Überzeugungsbegründungen","Erklären II (wiss.)","","2","697","ref",801,"Erklären, Erklärung",
+  "Überzeugungsbegründungen","Erklären","II (wiss.)","2","697","ref",801,"Erklären, Erklärung",
   "uberzeugungsbegrundungen"
  ],
  ["Überzeugungsgefühl","Wahrheit","V A","12","90","ref",3523,"Wahrheit","uberzeugungsgefuhl"],
@@ -616,10 +660,6 @@ HWPH.put("r/75-62",
  ["Übung","Gewohnheit","","3","603","ref",1132,"Gewohnheit","ubung"],
  ["Übung, geistliche","Übung","II",null,null,"ref",3270,"Übung","ubung, geistliche"],
  ["Übungsgespräch","These","I",null,null,"ref",3186,"These","ubungsgesprach"],
- ["Übungsgespräch","Topik I Uhr","",null,null,"ref",null,null,"ubungsgesprach"],
- [
-  "Übergegensätzlichkeit (Lask)","Übergegensätzlichkeit (Lask)","","11","35","main",3255,
-  "Übergegensätzlichkeit; übergegensätzlich","ubergegensatzlichkeit (lask)"
- ]
+ ["Übungsgespräch","Topik","I",null,null,"ref",3203,"Topik; Topos","ubungsgesprach"]
 ]
 );

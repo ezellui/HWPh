@@ -123,6 +123,6 @@ HWPH.put("a/3580",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Weltverantwortung"},
   {"id":44,"name":"Theologie","label":"Weltverantwortung"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Schweizer Hans Rudolf","n":11}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Schweizer Hans Rudolf","n":11}]
 }
 );

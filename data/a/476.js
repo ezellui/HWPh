@@ -27,7 +27,7 @@ HWPH.put("a/476",
   {"id":1006,"name":"R. Specht","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":152,"lemma":"Anlaß"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Causa occasionalis"}],
  "reg_authors":[{"name":"Specht Rainer","n":32}]
 }

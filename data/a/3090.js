@@ -34,7 +34,6 @@ HWPH.put("a/3090",
  "register":[
   {"term":"automatisme psychique","qualifier":"","band":"10","col":"682f."},
   {"term":"bricolage","qualifier":"","band":"10","col":"684f."},
-  {"term":"das","qualifier":"","band":null,"col":null},
   {"term":"élimination des émotions","qualifier":"","band":"10","col":"683"},
   {"term":"émotions, élimination des","qualifier":"","band":"10","col":"683"},
   {"term":"Erleuchtung, profane","qualifier":"","band":"10","col":"684"},

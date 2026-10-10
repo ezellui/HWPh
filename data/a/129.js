@@ -18,17 +18,9 @@ HWPH.put("a/129",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"- 1190 s. auch","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Analytik, existentiale","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"das (Heidegger) 5 706f. s. auch","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"existentiale Analytik","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"s auch","qualifier":"(Heidegger)","band":null,"col":null},
-  {
-   "term":"– II (Leibniz) 4 395 – III (Heidegger) 4 395f. s. auch",
-   "qualifier":"(Heidegger)",
-   "band":null,
-   "col":null
-  }
+  {"term":"s auch","qualifier":"(Heidegger)","band":null,"col":null}
  ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -50,7 +42,15 @@ HWPH.put("a/129",
   {"id":1449,"lemma":"Insein"},
   {"id":1480,"lemma":"Interpretation, temporale"},
   {"id":1507,"lemma":"Jemeinigkeit"},
-  {"id":1853,"lemma":"Man"}
+  {"id":1853,"lemma":"Man"},
+  {"id":1983,"lemma":"Mitsein"},
+  {"id":1988,"lemma":"Mitwelt"},
+  {"id":2810,"lemma":"Sein zum Tode"},
+  {"id":3397,"lemma":"Verfallen"},
+  {"id":3452,"lemma":"Verweisung; Verweisungszusammenhang"},
+  {"id":3493,"lemma":"Vorgriff; Vorhabe; Vorsicht"},
+  {"id":3691,"lemma":"Zeug"},
+  {"id":3707,"lemma":"Zuhandenheit/Vorhandenheit"}
  ],
  "groups":[{"id":11,"name":"Existenzphilosophie","label":"Analytik des Daseins (Heidegger)"}],
  "reg_authors":[{"name":"Probst Peter","n":51}]

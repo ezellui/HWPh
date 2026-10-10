@@ -23,9 +23,10 @@ HWPH.put("a/2814",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Sein, soziales","qualifier":"","band":"9","col":"262"},
-  {"term":"Seinsgebundenheit","qualifier":"","band":null,"col":null},
-  {"term":"Standortgebundenheit","qualifier":"","band":"9","col":"262"}
+  {"term":"Sein, soziales","qualifier":"(Mannheim)","band":"9","col":"262"},
+  {"term":"Seinsgebundenheit","qualifier":"(Mannheim)","band":null,"col":null},
+  {"term":"Seinsrelativität","qualifier":"(Mannheim)","band":null,"col":null},
+  {"term":"Standortgebundenheit","qualifier":"(Mannheim)","band":"9","col":"262"}
  ],
  "persons":[
   {"id":378,"name":"K. Mannheim","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

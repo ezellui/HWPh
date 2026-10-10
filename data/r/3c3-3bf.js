@@ -5,6 +5,7 @@ HWPH.put("r/3c3-3bf",
  ["σοφία","Adam Kadmon","II","1","79","ref",44,"Adam Kadmon","σοφια"],
  ["σοφία","Philosophie","I A","7","573ff.","ref",2353,"Philosophie","σοφια"],
  ["σοφία","Tugend","I","10","1538","ref",3239,"Tugend","σοφια"],
+ ["σόφισμα","Sophisma","",null,null,"ref",2925,"Sophisma; Sophismata","σοφισμα"],
  ["σοφιστής","Sophistik","",null,null,"ref",2926,"Sophistik; sophistisch; Sophist","σοφιστησ"],
  ["σοφιστής","Rhetorik","","8","1014","ref",2713,"Rhetorik, Redekunst","σοφιστησ"]
 ]

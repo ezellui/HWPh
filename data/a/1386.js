@@ -18,6 +18,7 @@ HWPH.put("a/1386",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Freimaurerei","qualifier":"","band":null,"col":null},
   {"term":"Illuminisme","qualifier":"","band":null,"col":null},
   {"term":"Martinisme","qualifier":"","band":null,"col":null}
  ],

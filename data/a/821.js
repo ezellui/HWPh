@@ -20,8 +20,7 @@ HWPH.put("a/821",
  "register":[
   {"term":"analytisches/synthetisches Urteil","qualifier":"(Kant)","band":null,"col":null},
   {"term":"synthetisches Urteil","qualifier":"(Kant)","band":null,"col":null},
-  {"term":"Urteil, synthetisches","qualifier":"(Kant)","band":null,"col":null},
-  {"term":"– I (log.) 1 251–260 s. auch","qualifier":"(Kant)","band":null,"col":null}
+  {"term":"Urteil, synthetisches","qualifier":"(Kant)","band":null,"col":null}
  ],
  "persons":[{"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[
@@ -31,6 +30,6 @@ HWPH.put("a/821",
  ],
  "see_also":[{"id":130,"lemma":"Analytisch/synthetisch"},{"id":803,"lemma":"Erläuterungsurteil"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Erweiterungsurteil (Kant)"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

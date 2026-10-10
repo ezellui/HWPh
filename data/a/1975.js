@@ -32,6 +32,7 @@ HWPH.put("a/1975",
   {"term":"imitatio","qualifier":"","band":null,"col":null},
   {"term":"Mimos","qualifier":"","band":"5","col":"1397"},
   {"term":"Nachahmung","qualifier":"","band":null,"col":null},
+  {"term":"Wort (ind.)","qualifier":"","band":"5","col":"1396"},
   {"term":"μίμησις","qualifier":"","band":null,"col":null}
  ],
  "persons":[

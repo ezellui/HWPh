@@ -31,6 +31,7 @@ HWPH.put("a/2960",
  ],
  "outlinks":[],
  "register":[
+  {"term":"conformisme social","qualifier":"","band":"9","col":"1278"},
   {"term":"Kausaladäquatheit/Sinnadäquatheit","qualifier":"","band":"9","col":"1279"},
   {"term":"ordre naturel/positif","qualifier":"","band":"9","col":"1271"},
   {"term":"Physik, soziale","qualifier":"","band":"9","col":"1270"},
@@ -38,6 +39,7 @@ HWPH.put("a/2960",
   {"term":"politique positif","qualifier":"","band":"9","col":"1272"},
   {"term":"sociology","qualifier":"","band":null,"col":null},
   {"term":"soziale Physik","qualifier":"","band":"9","col":"1270"},
+  {"term":"statistique morale","qualifier":"","band":"9","col":"1277"},
   {"term":"Wertfreiheit","qualifier":"","band":"9","col":"1279f."}
  ],
  "persons":[

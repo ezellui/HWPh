@@ -21,7 +21,7 @@ HWPH.put("a/1552",
   {"term":"causalitas formae","qualifier":"","band":null,"col":null},
   {"term":"formale Kausalität","qualifier":"","band":null,"col":null},
   {"term":"Formalursache","qualifier":"","band":null,"col":null},
-  {"term":"Immanenz","qualifier":"","band":"4","col":"801"},
+  {"term":"Inhärenz","qualifier":"","band":"4","col":"801"},
   {"term":"unio formae et materiae","qualifier":"","band":null,"col":null}
  ],
  "persons":[],

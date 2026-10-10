@@ -21,8 +21,7 @@ HWPH.put("a/1904",
   {"term":"angeborenes Schema","qualifier":"","band":null,"col":null},
   {"term":"innate releasing mechanism","qualifier":"","band":null,"col":null},
   {"term":"Instinkthandlung","qualifier":"","band":"5","col":"960"},
-  {"term":"Schema, angeborenes","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 8 1261–1263 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Schema, angeborenes","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":221,"name":"K. Lorenz","b":4,"n":2,"l":1,"editor":0,"role":"mixed"},

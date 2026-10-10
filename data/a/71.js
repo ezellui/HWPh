@@ -17,7 +17,7 @@ HWPH.put("a/71",
  "next":{"id":72,"lemma":"Akataleptisch","band":"1","col":124},
  "backlinks":[{"id":2793,"lemma":"Scientific community","n":1}],
  "outlinks":[],
- "register":[{"term":"– V (institut. Formen) 7 795–848 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"akademisch","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":81,"name":"Ch. Thomasius","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},

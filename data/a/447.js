@@ -17,7 +17,10 @@ HWPH.put("a/447",
  "next":{"id":448,"lemma":"Biotisch","band":"1","col":951},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Noosphäre","qualifier":"(Teilhard de Chardin)","band":null,"col":null}],
+ "register":[
+  {"term":"Innen","qualifier":"(Teilhard de Chardin)","band":"1","col":"950"},
+  {"term":"Noosphäre","qualifier":"(Teilhard de Chardin)","band":null,"col":null}
+ ],
  "persons":[
   {"id":1150,"name":"P. Teilhard de Chardin","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1236,"name":"A. Portmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}

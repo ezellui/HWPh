@@ -21,7 +21,22 @@ HWPH.put("r/6f-66",
  ["Offenbarung","Religion","",null,null,"see",2673,"Religion","offenbarung"],
  ["Offenbarung","Selbstoffenbarung","",null,null,"see",2843,"Selbstoffenbarung","offenbarung"],
  ["Offenbarung","Uroffenbarung","",null,null,"see",3347,"Uroffenbarung","offenbarung"],
- ["Offenbarung","Verkündigung Offenbarung","",null,null,"see",null,null,"offenbarung"],
+ ["Offenbarung","Verkündigung","",null,null,"see",3414,"Verkündigung; Verkünden","offenbarung"],
+ [
+  "Offenbarung","Erziehung des Menschengeschlechts","",null,null,"ref",823,
+  "Erziehung des Menschengeschlechts","offenbarung"
+ ],
+ [
+  "Offenbarung","Einbildungskraft","II","2","348","ref",673,"Einbildung, Einbildungskraft",
+  "offenbarung"
+ ],
+ [
+  "Offenbarung","Religion, natürliche bzw. vernünftige","","8","726","ref",2674,"Religion",
+  "offenbarung"
+ ],
+ ["Offenbarung","Schöpfung","V","8","1407","ref",2779,"Schöpfung","offenbarung"],
+ ["Offenbarung","Summe","","10","591","ref",3072,"Summe","offenbarung"],
+ ["Offenbarung","Verheissung","","11","692","ref",3407,"Verheißung","offenbarung"],
  [
   "Offenbarung, natürliche bzw. ursprüngliche","Uroffenbarung","",null,null,"ref",3347,
   "Uroffenbarung","offenbarung, naturliche bzw. ursprungliche"
@@ -39,7 +54,7 @@ HWPH.put("r/6f-66",
   "offenbarungsorgan"
  ],
  [
-  "Offenbarungsreligion/Vernunftreligion","Religion","",null,null,"ref",2673,"Religion",
+  "Offenbarungsreligion/Vernunftreligion","Religion, natürliche","",null,null,"ref",2673,"Religion",
   "offenbarungsreligion/vernunftreligion"
  ],
  [
@@ -56,11 +71,15 @@ HWPH.put("r/6f-66",
   "Gesellschaft, geschlossene/offene","offene gesellschaft"
  ],
  [
-  "offene Gesellschaft","Rationalismus","",null,null,"ref",2574,"Rationalismus",
-  "offene gesellschaft"
+  "offene Gesellschaft","Rationalismus kritischer","(Popper)","8","51","ref",2575,
+  "Rationalismus, Kritischer","offene gesellschaft"
  ],
  [
-  "Offenheit","Erschlossenheit (Heidegger)","",null,null,"ref",815,"Erschlossenheit, Erschließen",
+  "offene Moral","Moral, offene/geschlossene","(Bergson)",null,null,"ref",2024,
+  "Moral, offene/geschlossene","offene moral"
+ ],
+ [
+  "Offenheit","Erschlossenheit","(Heidegger)",null,null,"ref",815,"Erschlossenheit, Erschließen",
   "offenheit"
  ],
  ["Offenheit","Naiv; Naivität","","6","359","ref",2063,"Naiv, Naivität","offenheit"],
@@ -77,7 +96,6 @@ HWPH.put("r/6f-66",
  [
   "officium (sprach.)","Synkategorem","","10","791","ref",3108,
   "Synkategorem;synkategorematisch;synsemantisch","officium (sprach.)"
- ],
- ["Offenbarung","Offenbarung","I","6","1106","main",2203,"Offenbarung","offenbarung"]
+ ]
 ]
 );

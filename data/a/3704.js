@@ -35,8 +35,7 @@ HWPH.put("a/3704",
   {"term":"Eugenik, negative","qualifier":"","band":"12","col":"1401"},
   {"term":"Metaman","qualifier":"","band":"12","col":"1401"},
   {"term":"Panmixie","qualifier":"","band":"12","col":"1397"},
-  {"term":"Zucht","qualifier":"","band":"12","col":"1399"},
-  {"term":"– II (soz.) 11 628–632 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zucht","qualifier":"","band":"12","col":"1399"}
  ],
  "persons":[
   {"id":852,"name":"F. Galton","b":1,"n":2,"l":0,"editor":0,"role":"source"},

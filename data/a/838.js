@@ -19,7 +19,7 @@ HWPH.put("a/838",
  "outlinks":[],
  "register":[
   {"term":"in-group/out-group","qualifier":"","band":"2","col":"811"},
-  {"term":"Kultureller Relativismus","qualifier":"","band":"2","col":"811"}
+  {"term":"Relativismus, kultureller","qualifier":"","band":"2","col":"811"}
  ],
  "persons":[
   {"id":1718,"name":"F. Boas","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

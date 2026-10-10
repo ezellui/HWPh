@@ -24,7 +24,7 @@ HWPH.put("a/1282",
  "next":{"id":1283,"lemma":"Historismus, Historizismus","band":"3","col":1141},
  "backlinks":[{"id":2089,"lemma":"Naturrecht","n":1}],
  "outlinks":[],
- "register":[{"term":"IV-V","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"Naturrecht","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":2066,"name":"F. C. v. Savigny","b":3,"n":5,"l":1,"editor":0,"role":"source"},
   {"id":17,"name":"K. Marx","b":2,"n":4,"l":0,"editor":0,"role":"source"},

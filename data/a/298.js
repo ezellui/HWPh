@@ -32,16 +32,15 @@ HWPH.put("a/298",
   {"term":"Ausdruckswelt","qualifier":"II (ästh.)","band":"1","col":"660"},
   {"term":"Bewegungsausdruck","qualifier":"III (psych.)","band":null,"col":null},
   {"term":"Denken, schweigendes","qualifier":"II (ästh.)","band":"1","col":"659"},
-  {"term":"der 4 937 Gefühlsausdruck","qualifier":"III (psych.)","band":null,"col":null},
   {"term":"Erleben","qualifier":"II (ästh.)","band":"1","col":"659"},
   {"term":"expressio","qualifier":"I (allg.)","band":null,"col":null},
+  {"term":"Gefühlsausdruck","qualifier":"III (psych.)","band":null,"col":null},
   {"term":"Inneres","qualifier":"II (ästh.)","band":"1","col":"657f."},
   {"term":"Innerlichkeit, wortlose","qualifier":"II (ästh.)","band":"1","col":"657"},
-  {"term":"schöne 9 90 Schönheit","qualifier":"II (ästh.)","band":null,"col":null},
+  {"term":"Schönheit","qualifier":"II (ästh.)","band":null,"col":null},
   {"term":"Schönheit des Ausdrucks/der Form","qualifier":"I (allg )","band":"1","col":"654"},
   {"term":"schweigendes Denken","qualifier":"II (ästh.)","band":"1","col":"659"},
-  {"term":"wortlose Innerlichkeit","qualifier":"II (ästh.)","band":"1","col":"657"},
-  {"term":"– II (psych.) 2 360 s. auch","qualifier":"III (psych.)","band":null,"col":null}
+  {"term":"wortlose Innerlichkeit","qualifier":"II (ästh.)","band":"1","col":"657"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -199,7 +198,15 @@ HWPH.put("a/298",
   {"id":1182,"lemma":"Grazie, Anmut","tf":2},
   {"id":2511,"lemma":"Psychologie","tf":5}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":299,"lemma":"Ausdrucksbewegung"},
+  {"id":300,"lemma":"Ausdrucksgeben"},
+  {"id":302,"lemma":"Ausdruckspsychologie"},
+  {"id":303,"lemma":"Ausdrucksverstehen"},
+  {"id":674,"lemma":"Eindruck"},
+  {"id":2291,"lemma":"Pathognomik"},
+  {"id":2371,"lemma":"Physiognomik, Physiognomie"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Ausdruck I-II"},
   {"id":36,"name":"Psychologie","label":"Ausdruck III (psych.)"}

@@ -18,7 +18,6 @@ HWPH.put("a/469",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"cognoscendi/essendi/fiendi 8 40f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"principium essendi","qualifier":"","band":null,"col":null},
   {"term":"Seinsprinzip","qualifier":"","band":null,"col":null}
  ],

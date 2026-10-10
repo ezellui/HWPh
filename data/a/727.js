@@ -27,8 +27,7 @@ HWPH.put("a/727",
   {"term":"Charakter, intelligibler/empirischer","qualifier":"","band":null,"col":null},
   {"term":"intelligibler/empirischer Charakter","qualifier":"","band":null,"col":null},
   {"term":"praktische Vernunft","qualifier":"","band":"2","col":"476f."},
-  {"term":"Vernunft, praktische","qualifier":"","band":"2","col":"476f."},
-  {"term":"– I (allg.) 1 984–991 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vernunft, praktische","qualifier":"","band":"2","col":"476f."}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":4,"l":0,"editor":0,"role":"source"},
@@ -57,7 +56,7 @@ HWPH.put("a/727",
   {"id":786,"lemma":"Erfahrung","tf":3},
   {"id":695,"lemma":"Einzelne","tf":2}
  ],
- "see_also":[{"id":486,"lemma":"Charakter"}],
+ "see_also":[{"id":486,"lemma":"Charakter"},{"id":2325,"lemma":"Persönlichkeitswert, Personwert"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Empirischer/intelligibler Charakter"}],
  "reg_authors":[{"name":"Funke Gerhard","n":12}]
 }

@@ -24,7 +24,7 @@ HWPH.put("a/1182",
  "outlinks":[],
  "register":[
   {"term":"agrément","qualifier":"I","band":"3","col":"866"},
-  {"term":"Anmut","qualifier":"","band":null,"col":null},
+  {"term":"Anmut","qualifier":"II","band":null,"col":null},
   {"term":"Einfalt, edle","qualifier":"II","band":"3","col":"868"},
   {"term":"grace","qualifier":"","band":null,"col":null},
   {"term":"Grösse, stille","qualifier":"II","band":"3","col":"868"},

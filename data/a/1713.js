@@ -19,7 +19,7 @@ HWPH.put("a/1713",
  "outlinks":[],
  "register":[
   {"term":"absolute Kunst","qualifier":"","band":null,"col":null},
-  {"term":"Ästhetizismus","qualifier":"","band":"4","col":"1435f."},
+  {"term":"art pour l'art","qualifier":"","band":"4","col":"1435f."},
   {"term":"Malerei, reine","qualifier":"","band":"4","col":"1436"}
  ],
  "persons":[

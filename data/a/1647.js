@@ -28,8 +28,7 @@ HWPH.put("a/1647",
   {"term":"contrast","qualifier":"","band":null,"col":null},
   {"term":"Egozentrismus","qualifier":"II (psych.)","band":"4","col":"1068"},
   {"term":"Simultaneität","qualifier":"I (ästh.)","band":"4","col":"1066"},
-  {"term":"Symmetrie","qualifier":"I (ästh.)","band":"4","col":"1066"},
-  {"term":"– II (psych.) 1 546f. s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"Symmetrie","qualifier":"I (ästh.)","band":"4","col":"1066"}
  ],
  "persons":[
   {"id":2473,"name":"R. de Piles","b":0,"n":4,"l":0,"editor":0,"role":"source"},
@@ -80,7 +79,7 @@ HWPH.put("a/1647",
   {"id":890,"lemma":"Fall, Abfall","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":895,"lemma":"Farbe"},{"id":262,"lemma":"Assimilation/Dissimilation"}],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Kontrast I (ästh.)"},
   {"id":36,"name":"Psychologie","label":"Kontrast II (psych.)"}

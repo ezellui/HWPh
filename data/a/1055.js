@@ -26,6 +26,7 @@ HWPH.put("a/1055",
   {"term":"Emotion","qualifier":"","band":null,"col":null},
   {"term":"entweilend","qualifier":"","band":"3","col":"266"},
   {"term":"Gefühlszustand","qualifier":"","band":"3","col":"267"},
+  {"term":"Rührung","qualifier":"","band":"3","col":"266"},
   {"term":"Seelenbewegung","qualifier":"","band":null,"col":null},
   {"term":"Seelenvermögen","qualifier":"","band":"3","col":"265"},
   {"term":"Thymologie","qualifier":"","band":"3","col":"267"}

@@ -1,6 +1,25 @@
 HWPH.put("r/63-68",
 [
- ["Charisma","Charisma","II","1","998","main",489,"Charisma","charisma"],
+ [
+  "Charakteristische, das","Charakteristische, das","","1","993","main",487,"Charakteristische",
+  "charakteristische, das"
+ ],
+ [
+  "Charakteristische, das","Denkpsychologie","","2","111","ref",558,"Denkpsychologie",
+  "charakteristische, das"
+ ],
+ [
+  "Charakteristische, das","Sein; Seiendes","V 7","9","225","ref",2806,"Sein; Seiendes",
+  "charakteristische, das"
+ ],
+ [
+  "Charakteristische, das","Verwegenheit; Kühnheit","III","11","1001","ref",3450,
+  "Verwegenheit; Kühnheit","charakteristische, das"
+ ],
+ [
+  "Charakteristische, das","Wiederholung","","12","740","ref",3616,"Wiederholung",
+  "charakteristische, das"
+ ],
  ["Chadô","Chadô","","1","978","main",481,"Chadô","chado"],
  ["chain of being","Series","II",null,null,"ref",2875,"Series","chain of being"],
  ["chain of being","Stufen","I","10","353","ref",3044,"Stufen","chain of being"],
@@ -45,7 +64,8 @@ HWPH.put("r/63-68",
  ["Chance","Chance","(Weber)","1","979f.","main",483,"Chance","chance"],
  ["Chance","Idealtypus","(Weber)",null,null,"see",1357,"Idealtypus","chance"],
  ["Chance","Voraussicht","",null,null,"see",3489,"Voraussicht","chance"],
- ["change","Wandel change, social","",null,null,"ref",null,null,"change"],
+ ["change","Wandel","",null,null,"ref",3543,"Wandel; Veränderung","change"],
+ ["change, social","Wandel, sozialer","",null,null,"ref",3544,"Wandel, sozialer","change, social"],
  [
   "change of values","Wertewandel; Werteforschung","",null,null,"ref",3592,
   "Wertewandel; Werteforschung","change of values"
@@ -53,6 +73,7 @@ HWPH.put("r/63-68",
  ["Chaos","Chaos","","1","980–984","main",484,"Chaos","chaos"],
  ["Chaos","Unding","",null,null,"ref",3288,"Unding","chaos"],
  ["Chaos","Raum","I","8","68","ref",2578,"Raum","chaos"],
+ ["character/content","Proposition","","7","1522","ref",2484,"Proposition","character/content"],
  [
   "character education","Werterziehung","","12","602","ref",3591,
   "Werterziehung; moralische Erziehung; Moralpädagogik","character education"
@@ -123,9 +144,19 @@ HWPH.put("r/63-68",
   "characteristica universalis (leibniz)"
  ],
  ["Charakter","Charakter","","1","984–992","main",486,"Charakter","charakter"],
+ [
+  "Charakter","Empirischer/intelligibler Charakter","",null,null,"see",727,
+  "Empirischer/intelligibler Charakter","charakter"
+ ],
+ ["Charakter","Information","",null,null,"see",1432,"Information","charakter"],
+ ["Charakter","Anlage","II (psych.)",null,null,"see",151,"Anlage","charakter"],
+ ["Charakter","Charakterologie","",null,null,"see",488,"Charakterologie","charakter"],
+ ["Charakter","Konstitutionstypus","",null,null,"see",1629,"Konstitutionstypus","charakter"],
+ ["Charakter","Persönlichkeit","II (psych.)",null,null,"see",2322,"Persönlichkeit","charakter"],
+ ["Charakter","Temperament","III",null,null,"see",3148,"Temperament","charakter"],
  ["Charakter","Person","I","7","269","ref",2318,"Person","charakter"],
  [
-  "Charakter","Schichtenlehre II (psych.)","","8","1270","ref",2762,
+  "Charakter","Schichtenlehre","II (psych.)","8","1270","ref",2762,
   "Schichtenlehre, Schichtentheorie","charakter"
  ],
  ["Charakter","Schicksal","","8","1284ff.","ref",2764,"Schicksal","charakter"],
@@ -162,9 +193,15 @@ HWPH.put("r/63-68",
  ],
  ["Charakterismen","Symbol","II","10","723f.","ref",3093,"Symbol","charakterismen"],
  [
-  "Charakteristische","Charakteristische","",null,null,"main",487,"Charakteristische",
-  "charakteristische"
+  "Charakteristische, das","Charakteristische, das","","1","992–994","main",486,"Charakter",
+  "charakteristische, das"
  ],
+ [
+  "Charakteristische, das","Interessante, das","(Schlegel)",null,null,"see",1474,"Interessante",
+  "charakteristische, das"
+ ],
+ ["Charakteristische, das","Schöne, das","V",null,null,"see",2776,"Schöne","charakteristische, das"],
+ ["Charakteristische, das","Karikatur","","4","698","ref",1531,"Karikatur","charakteristische, das"],
  ["Charakterkunde","Charakterologie","",null,null,"ref",488,"Charakterologie","charakterkunde"],
  ["Charaktermaske","Theatrum mundi","","10","1052","ref",3162,"Theatrum mundi","charaktermaske"],
  ["Charakterneurose","Psychopathie","II","7","1684","ref",2525,"Psychopathie","charakterneurose"],
@@ -180,7 +217,7 @@ HWPH.put("r/63-68",
   "charakterologie"
  ],
  [
-  "Charakterologie","Schichtenlehre II (psych.)","",null,null,"see",2762,
+  "Charakterologie","Schichtenlehre","II (psych.)",null,null,"see",2762,
   "Schichtenlehre, Schichtentheorie","charakterologie"
  ],
  ["Charakterologie","Temperament","III",null,null,"see",3148,"Temperament","charakterologie"],
@@ -219,18 +256,31 @@ HWPH.put("r/63-68",
  ["Chiffre","Chiffre","","1","1001","main",492,"Chiffre","chiffre"],
  ["Chiffre","Buch der Natur","",null,null,"see",456,"Buch der Natur","chiffre"],
  [
-  "Chiffre","Signatur; Signaturenlehre Chiffre","",null,null,"see",2883,"Signatur, Signaturenlehre",
+  "Chiffre","Signatur; Signaturenlehre","",null,null,"see",2883,"Signatur, Signaturenlehre",
   "chiffre"
  ],
+ [
+  "Chiffre","Denken, appellierendes","(Jaspers)","2","104","ref",553,"Denken, appellierendes",
+  "chiffre"
+ ],
+ [
+  "Chiffre","Glaube, philosophischer","(Jaspers)","3","646","ref",1139,"Glaube, philosophischer",
+  "chiffre"
+ ],
+ ["Chiffre","Immanenz","","4","233","ref",1390,"Immanent, Immanenz","chiffre"],
+ ["Chiffre","Nichts; Nichtseiendes","","6","828","ref",2136,"Nichts, Nichtseiendes","chiffre"],
+ ["Chiffre","Rationalität","I (erk.)","8","55","ref",2576,"Rationalität, Rationalisierung","chiffre"],
  ["Chiliasmus","Chiliasmus","","1","1001–1006","main",493,"Chiliasmus","chiliasmus"],
  ["Chiliasmus","Eschatologie","",null,null,"see",825,"Eschatologie","chiliasmus"],
  ["Chiliasmus","Reich, Drittes","",null,null,"see",2654,"Reich, Drittes","chiliasmus"],
  ["China-Wissenschaft","Kangaku","",null,null,"ref",1525,"Kangaku","china-wissenschaft"],
  [
-  "Chinesische Philosophie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "chinesische philosophie s. auch"
+  "Chinesische Philosophie","Register der Sachgruppen","",null,null,"see",null,null,
+  "chinesische philosophie"
  ],
- ["Chinesische","Chinesische","",null,null,"main",494,"Chinesische","chinesische"],
+ ["Chinesische, das","Chinesische, das","","1","1006f.","main",494,"Chinesische","chinesische, das"],
+ ["Choc","Schreckliche, das","","8","1415","ref",2780,"Schreckliche","choc"],
+ ["choice","Wahl","",null,null,"ref",3517,"Wahl","choice"],
  ["choice, rational","Wahl, rationale","",null,null,"ref",3518,"Wahl, rationale","choice, rational"],
  ["choice sequence","Wahlfolge","",null,null,"ref",3519,"Wahlfolge","choice sequence"],
  ["Choleriker","Temperament","",null,null,"ref",3148,"Temperament","choleriker"],
@@ -264,7 +314,7 @@ HWPH.put("r/63-68",
   "christentum, fruhes"
  ],
  [
-  "Christentum, latentes","Latenz I (allg.)","","5","42","ref",1731,"Latent, Latenz",
+  "Christentum, latentes","Latenz","I (allg.)","5","42","ref",1731,"Latent, Latenz",
   "christentum, latentes"
  ],
  [
@@ -321,17 +371,18 @@ HWPH.put("r/63-68",
  ["chute","Sündenfall","",null,null,"ref",3076,"Sündenfall","chute"],
  ["Charisma","Charisma","I",null,null,"main",489,"Charisma","charisma"],
  ["Charisma","Glaube","I","3","634","ref",1138,"Glaube","charisma"],
- ["Chaos","Chaos","I","1","981","main",484,"Chaos","chaos"],
- ["Charakter","Charakter","I (allg.)","1","989","main",486,"Charakter","charakter"],
- ["christliche","Religion","",null,null,"ref",2673,"Religion","christliche"],
+ ["Charakter","Charakter","I (allg.)",null,null,"main",486,"Charakter","charakter"],
+ ["Charakter","Konstitution","III",null,null,"ref",1624,"Konstitution","charakter"],
+ ["Charakter","Proprium","",null,null,"ref",2485,"Proprium","charakter"],
  [
-  "Christentum, Wesen des","Christentum, Wesen des","","1","1009","main",496,
-  "Christentum, Wesen des","christentum, wesen des"
+  "Charakter","Unterschied, spezifischer","",null,null,"ref",3328,"Unterschied, spezifischer",
+  "charakter"
  ],
- [
-  "Christentum, Wesen des","Theosophie","","10","1158","ref",3182,"Theosophie",
-  "christentum, wesen des"
- ],
+ ["Charakter","Abstraktion","IV","1","61","ref",31,"Abstraktion","charakter"],
+ ["Charakter","Immanenz","","4","229","ref",1390,"Immanent, Immanenz","charakter"],
+ ["Charakter","Prädikation","I","7","1206","ref",2427,"Prädikation","charakter"],
+ ["Charakter","Wesenseigenschaft","","12","654","ref",3599,"Wesenseigenschaft","charakter"],
+ ["christliche","Religion, natürliche","",null,null,"ref",2673,"Religion","christliche"],
  ["Cheneval Francis","Völkerbund","","11","1090–1094","author",3473,"Völkerbund","cheneval francis"],
  ["Cheneval Francis","Weltfrieden","","12","471–474","author",3564,"Weltfrieden","cheneval francis"],
  ["Chenu Marie-Dominique","Arbeit","I","1","480–482","author",230,"Arbeit","chenu marie-dominique"],

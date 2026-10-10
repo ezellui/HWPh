@@ -1,5 +1,6 @@
 HWPH.put("r/3c3-3ba",
 [
+ ["σκάνδαλον","Ärgernis","",null,null,"ref",243,"Ärgernis","σκανδαλον"],
  ["σκέδασις","Zerstreuung","I (anthr.)",null,null,"ref",3690,"Zerstreuung","σκεδασισ"],
  ["σκιᾶν ὄναρ ἄνθρωπος","Traum","III","10","1471f.","ref",3225,"Traum","σκιαν οναρ ανθρωποσ"],
  ["σκινδαψός","Skindapsos","",null,null,"ref",2908,"Skindapsos","σκινδαψοσ"],

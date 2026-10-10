@@ -28,7 +28,11 @@ HWPH.put("a/2813",
   {"id":463,"name":"L. Landgrebe","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[{"id":1062,"lemma":"Generalisierung"},{"id":2218,"lemma":"Ontologie"}],
+ "see_also":[
+  {"id":1062,"lemma":"Generalisierung"},
+  {"id":2218,"lemma":"Ontologie"},
+  {"id":2625,"lemma":"Reduktion, eidetische"}
+ ],
  "groups":[{"id":31,"name":"Phänomenologie","label":"Seinsregion (Husserl)"}],
  "reg_authors":[{"name":"Claesges Ulrich","n":25}]
 }

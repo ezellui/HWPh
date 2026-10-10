@@ -59,6 +59,8 @@ HWPH.put("a/723",
   {"term":"Idee","qualifier":"I (erk.)","band":"2","col":"457"},
   {"term":"Impression, organische","qualifier":"I (erk.)","band":"2","col":"463"},
   {"term":"impressions of sensation","qualifier":"I (erk.)","band":"2","col":"457"},
+  {"term":"je-ne-sais-quoi","qualifier":"I (erk.)","band":"2","col":"458"},
+  {"term":"jugement confus","qualifier":"I (erk.)","band":"2","col":"458"},
   {"term":"jugement naturel","qualifier":"II (psych.)","band":"2","col":"467"},
   {"term":"Lust","qualifier":"I (erk.)","band":"2","col":"458"},
   {"term":"Organempfindung","qualifier":"I (erk.)","band":"2","col":"462"},
@@ -77,8 +79,7 @@ HWPH.put("a/723",
   {"term":"Vitalempfindung","qualifier":"I (erk.)","band":"2","col":"462"},
   {"term":"Vollkommenheit (ästh.)","qualifier":"I (erk.)","band":"2","col":"459f."},
   {"term":"Vorstellung","qualifier":"I (erk.)","band":null,"col":null},
-  {"term":"Wissen des Nichtwissens","qualifier":"I (erk.)","band":"2","col":"461"},
-  {"term":"– I (erk.) 2 358–360 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wissen des Nichtwissens","qualifier":"I (erk.)","band":"2","col":"461"}
  ],
  "persons":[
   {"id":15,"name":"R. Descartes","b":5,"n":4,"l":0,"editor":0,"role":"source"},
@@ -245,7 +246,16 @@ HWPH.put("a/723",
   {"id":1693,"lemma":"Kriterium","tf":5},
   {"id":707,"lemma":"Element","tf":8}
  ],
- "see_also":[{"id":1009,"lemma":"Gefühl"}],
+ "see_also":[
+  {"id":1009,"lemma":"Gefühl"},
+  {"id":721,"lemma":"Empfindnis"},
+  {"id":1571,"lemma":"Klar und deutlich"},
+  {"id":2329,"lemma":"Perzeption"},
+  {"id":2870,"lemma":"Sentiment"},
+  {"id":3539,"lemma":"Wahrnehmung"},
+  {"id":1831,"lemma":"Lokalzeichen"},
+  {"id":2527,"lemma":"Psychophysik"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Empfindung I (erk.)"},
   {"id":36,"name":"Psychologie","label":"Empfindung II (psych.)"}

@@ -32,7 +32,7 @@ HWPH.put("a/3237",
   {"id":2925,"lemma":"Sophisma; Sophismata","n":1},
   {"id":2928,"lemma":"Sorites","n":1}
  ],
- "register":[{"term":"– III (log.) 7 96f. s. auch","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"obligatoria II (log.)","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1,"name":"I. Kant","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":436,"name":"G. B. Jäsche","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
@@ -41,7 +41,7 @@ HWPH.put("a/3237",
  "see_also":[
   {"id":1311,"lemma":"Hörnerfrage"},
   {"id":1450,"lemma":"Insolubilia"},
-  {"id":1499,"lemma":"Irrtum"},
+  {"id":1500,"lemma":"Irrtum (Schlußfehler)"},
   {"id":1699,"lemma":"Krokodilschluß"},
   {"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"},
   {"id":2273,"lemma":"Paralogismus"},
@@ -52,6 +52,6 @@ HWPH.put("a/3237",
   {"id":3695,"lemma":"Zirkel"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Trugschluss"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

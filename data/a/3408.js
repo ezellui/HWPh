@@ -32,11 +32,11 @@ HWPH.put("a/3408",
   {"term":"extensional/intensional","qualifier":"","band":"11","col":"695"},
   {"term":"fallacia ex accidente","qualifier":"","band":"11","col":"694"},
   {"term":"Gegebenseins, Art des","qualifier":"","band":"11","col":"694"},
+  {"term":"hooded man","qualifier":"","band":null,"col":null},
   {"term":"intensional/extensional","qualifier":"","band":"11","col":"695"},
   {"term":"Mehrdeutigkeit","qualifier":"","band":"11","col":"695"},
   {"term":"velatus","qualifier":"","band":null,"col":null},
-  {"term":"voilé","qualifier":"","band":null,"col":null},
-  {"term":"– III (log.) 7 96f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"voilé","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -66,7 +66,7 @@ HWPH.put("a/3408",
   {"id":2318,"lemma":"Person","tf":2},
   {"id":309,"lemma":"Aussage","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"}],
  "groups":[{"id":22,"name":"Logik","label":"Verhüllte, der"}],
  "reg_authors":[{"name":"Gabriel Gottfried","n":51}]
 }

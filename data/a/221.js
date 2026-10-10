@@ -23,9 +23,9 @@ HWPH.put("a/221",
  "backlinks":[{"id":2963,"lemma":"Spät","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"a se","qualifier":"I","band":"1","col":"464"},
   {"term":"Analyse/Synthese","qualifier":"I","band":"1","col":"465"},
   {"term":"Anlage, unbewusste","qualifier":"III","band":"1","col":"471"},
-  {"term":"Aseität","qualifier":"I","band":"1","col":"464"},
   {"term":"cognitio a priori","qualifier":"I","band":"1","col":"464"},
   {"term":"compositio/resolutio","qualifier":"I","band":"1","col":"465"},
   {"term":"ens a se","qualifier":"I","band":"1","col":"464"},
@@ -183,7 +183,7 @@ HWPH.put("a/221",
  "groups":[],
  "reg_authors":[
   {"name":"Eisler Rudolf","n":2},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Schepers Heinrich","n":22},
   {"name":"Tonelli Giorgio","n":8}
  ]

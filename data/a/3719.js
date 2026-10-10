@@ -22,7 +22,7 @@ HWPH.put("a/3719",
   {"id":1454,"lemma":"Institution","n":1},
   {"id":3248,"lemma":"Überdeterminierung","n":1}
  ],
- "register":[{"term":"serendipity","qualifier":"","band":"12","col":"1510"}],
+ "register":[{"term":"serendipity","qualifier":"(Gehlen)","band":"12","col":"1510"}],
  "persons":[
   {"id":87,"name":"A. Gehlen","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":905,"name":"R. K. Merton","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -37,7 +37,12 @@ HWPH.put("a/3719",
   {"id":44246,"name":"W. S. Lewis","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":2}],
- "see_also":[],
+ "see_also":[
+  {"id":415,"lemma":"Bewußtsein, ideatives/instrumentelles"},
+  {"id":750,"lemma":"Entlastung"},
+  {"id":963,"lemma":"Führungssystem"},
+  {"id":1454,"lemma":"Institution"}
+ ],
  "groups":[{"id":42,"name":"Soziologie","label":"Zweckmässigkeit, sekundäre objektive (Gehlen)"}],
  "reg_authors":[{"name":"Lepenies Wolf","n":6}]
 }

@@ -32,17 +32,11 @@ HWPH.put("a/1726",
  "register":[
   {"term":"Aura (Benjamin)","qualifier":"III (ästh.)","band":"5","col":"25"},
   {"term":"Betrachtung der Natur","qualifier":"III (ästh.)","band":null,"col":null},
-  {"term":"das 5 5","qualifier":"III (ästh.)","band":"5","col":"23"},
+  {"term":"Erhabene, das","qualifier":"III (ästh.)","band":"5","col":"23"},
   {"term":"Flaneur","qualifier":"III (ästh.)","band":"5","col":"27"},
   {"term":"Freizeitlandschaft","qualifier":"III (ästh.)","band":"5","col":"26"},
-  {"term":"Herz","qualifier":"III (ästh.)","band":"5","col":"25"},
   {"term":"paysage","qualifier":"","band":null,"col":null},
-  {
-   "term":"– IV (phys./math.) 8 97–108 – V (ästh.) 8 108–111 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Versöhnung","qualifier":"III (ästh.)","band":"5","col":"25"}
  ],
  "persons":[
   {"id":192,"name":"J. Ritter","b":2,"n":5,"l":1,"editor":0,"role":"scholar"},
@@ -215,7 +209,7 @@ HWPH.put("a/1726",
   {"id":916,"lemma":"Figur","tf":4},
   {"id":1549,"lemma":"Katholisch, Katholizität","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2090,"lemma":"Naturschönheit/Kunstschönheit"}],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Landschaft III (ästh.)"},
   {"id":12,"name":"Geographie und Geologie","label":"Landschaft II (geogr.)"}

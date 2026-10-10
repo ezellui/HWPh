@@ -28,7 +28,6 @@ HWPH.put("a/26",
   {"term":"Gesinnung","qualifier":"","band":"1","col":"9"},
   {"term":"Handeln, willentliches","qualifier":"","band":null,"col":null},
   {"term":"intentio","qualifier":"","band":null,"col":null},
-  {"term":"Negativität I 6 674","qualifier":"","band":"1","col":"9–12"},
   {"term":"potentia intellectiva","qualifier":"","band":"1","col":"9"},
   {"term":"Wahl","qualifier":"","band":"1","col":"10"},
   {"term":"Ziel","qualifier":"","band":null,"col":null},
@@ -67,7 +66,14 @@ HWPH.put("a/26",
   {"id":835,"lemma":"Ethik","tf":2},
   {"id":2598,"lemma":"Recht","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1114,"lemma":"Gesinnung"},
+  {"id":1405,"lemma":"Imputation"},
+  {"id":2097,"lemma":"Nebenwirkungen"},
+  {"id":3497,"lemma":"Vorsatz"},
+  {"id":3620,"lemma":"Wille"},
+  {"id":3712,"lemma":"Zurechnung"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Absicht"},
   {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Absicht"}

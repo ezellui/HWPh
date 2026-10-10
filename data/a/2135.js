@@ -17,7 +17,10 @@ HWPH.put("a/2135",
  "next":{"id":2136,"lemma":"Nichts, Nichtseiendes","band":"6","col":805},
  "backlinks":[{"id":3332,"lemma":"Unverfügbarkeit","n":1}],
  "outlinks":[{"id":492,"lemma":"Chiffre","n":1}],
- "register":[{"term":"Ungegenständlichkeit Gottes","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
+  {"term":"Ungegenständlichkeit Gottes","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":54,"name":"H. Cohen","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":69,"name":"K. Barth","b":2,"n":3,"l":0,"editor":0,"role":"source"},

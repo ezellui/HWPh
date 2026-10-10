@@ -1,0 +1,16 @@
+HWPH.put("p/64-76",
+{"dv":[["DV","26z:;;1u5 iw:;;29l,j,d,b,8,7,7,7"],["dv","1gv:;1k1"]],
+"dva":[["Dva","1nf:;;;fq"],["dva","1cs:;;3c"]],
+"dvaita":[["Dvaita","1e:;9u 1n5:;2b7 x9:;;;4n"],["dvaita","2ls:;;;57"]],
+"dvaitadvaita":[["Dvaitâdvaita","1e:;8r"]],
+"dve":[["Dve","1cs:;;39 p:;;ii fw:;;mk6"]],
+"dvenadcati":[["dvenadcati","298:;;7d"]],
+"dvizenie":[["Dviženie","19x:;;;37"],["dviženie","1bh:;;5o"]],
+"dvizenija":[["dviženija","1gf:;;6o"]],
+"dvlg":[["DVLG","sq:;;67,26,1g kd:;;;22,j"]],
+"dvorak":[["DVORAK","2fp:;;;7k"],["DVORÁK","wo:;c;8"],["DVOŘÁK","1bo:;25z;13q 42:;;;2v"]],
+"dvoraks":[["DVOŘÁKS","1fq:;9u"]],
+"dvornik":[["DVORNIK","x1:;;1k5,j i7:;;;en"]],
+"dvornikovic":[["DVORNIKOVIC","1tj:;1j3;k4"]],
+"dvu":[["dvu","1td:;1q0k"]]}
+);

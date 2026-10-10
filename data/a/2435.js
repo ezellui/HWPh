@@ -26,7 +26,6 @@ HWPH.put("a/2435",
  "outlinks":[{"id":1088,"lemma":"Geschichte, pragmatische","n":1}],
  "register":[
   {"term":"Geschichtsschreibung, pragmatische","qualifier":"","band":"7","col":"1243"},
-  {"term":"performativer","qualifier":"","band":"7","col":"1244–1249"},
   {"term":"pragmatic","qualifier":"","band":null,"col":null},
   {"term":"Sanktion, pragmatische","qualifier":"","band":"7","col":"1242"},
   {"term":"spekulativ","qualifier":"","band":"7","col":"1242"}

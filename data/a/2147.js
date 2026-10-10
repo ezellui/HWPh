@@ -24,7 +24,10 @@ HWPH.put("a/2147",
   {"id":3423,"lemma":"Vernunft; Verstand","n":1}
  ],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"ἐνέργεια","qualifier":"","band":"6","col":"871"},
+  {"term":"πρώτη οὐσία","qualifier":"","band":"6","col":"871"}
+ ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":2,"name":"Aristoteles","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -71,11 +74,11 @@ HWPH.put("a/2147",
   {"id":3040,"lemma":"Struktur","tf":4},
   {"id":1944,"lemma":"Metaphysik","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":407,"lemma":"Beweger, unbewegter"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Noesis noeseos"},
   {"id":26,"name":"Metaphysik","label":"Noesis noeseos"}
  ],
- "reg_authors":[]
+ "reg_authors":[{"name":"Krämer Hans Joachim","n":1}]
 }
 );

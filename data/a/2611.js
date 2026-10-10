@@ -25,7 +25,7 @@ HWPH.put("a/2611",
  "next":{"id":2612,"lemma":"Rechtsordnung","band":"8","col":297},
  "backlinks":[{"id":2806,"lemma":"Sein; Seiendes","n":1}],
  "outlinks":[{"id":2075,"lemma":"Natur der Sache","n":1}],
- "register":[{"term":"Geistiges Sein","qualifier":"","band":"8","col":"296"}],
+ "register":[{"term":"Sein, geistiges","qualifier":"","band":"8","col":"296"}],
  "persons":[
   {"id":1033,"name":"A. Kaufmann","b":1,"n":7,"l":0,"editor":0,"role":"mixed"},
   {"id":703,"name":"W. Maihofer","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

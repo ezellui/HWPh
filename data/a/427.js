@@ -19,9 +19,9 @@ HWPH.put("a/427",
  "outlinks":[],
  "register":[
   {"term":"Ding/Eigenschaft","qualifier":"","band":null,"col":null},
+  {"term":"externe Beziehung","qualifier":"","band":null,"col":null},
   {"term":"interne Beziehung","qualifier":"","band":null,"col":null},
-  {"term":"intrinsisch","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 2 334 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"intrinsisch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":47,"name":"B. Russell","b":2,"n":0,"l":2,"editor":0,"role":"source"},

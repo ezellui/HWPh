@@ -22,8 +22,8 @@ HWPH.put("a/1094",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"der Befreiung 10 1096 Theologie der Geschichte","qualifier":"","band":null,"col":null},
-  {"term":"Ende der Geschichte","qualifier":"","band":"3","col":"440"}
+  {"term":"Ende der Geschichte","qualifier":"","band":"3","col":"440"},
+  {"term":"Theologie der Geschichte","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":230,"name":"W. Pannenberg","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

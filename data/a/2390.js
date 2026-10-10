@@ -44,7 +44,8 @@ HWPH.put("a/2390",
   {"term":"Geschehnis","qualifier":"II","band":"7","col":"1025"},
   {"term":"Herstellen","qualifier":"","band":null,"col":null},
   {"term":"Hervorbringen","qualifier":"","band":null,"col":null},
-  {"term":"Schaffen","qualifier":"","band":null,"col":null}
+  {"term":"Schaffen","qualifier":"","band":null,"col":null},
+  {"term":"ποίησις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":3,"l":0,"editor":0,"role":"source"},
@@ -78,7 +79,7 @@ HWPH.put("a/2390",
   {"id":1803,"lemma":"Logik","tf":2},
   {"id":486,"lemma":"Charakter","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2448,"lemma":"Praxis, praktisch"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Poiesis I"},
   {"id":26,"name":"Metaphysik","label":"Poiesis"}

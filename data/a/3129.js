@@ -18,8 +18,8 @@ HWPH.put("a/3129",
  "backlinks":[{"id":3423,"lemma":"Vernunft; Verstand","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"/Objekt IV 10 419","qualifier":"","band":"10","col":"909"},
-  {"term":"/Objekt V 10 427f.","qualifier":"","band":"10","col":"909"}
+  {"term":"Dialektik, negative","qualifier":"","band":"10","col":"909"},
+  {"term":"Selbstanschauung","qualifier":"","band":"10","col":"909"}
  ],
  "persons":[
   {"id":11,"name":"J. G. Fichte","b":1,"n":3,"l":0,"editor":0,"role":"source"},

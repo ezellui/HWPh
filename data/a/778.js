@@ -49,8 +49,7 @@ HWPH.put("a/778",
   {"term":"Seinsglaube","qualifier":"II (phän.)","band":"2","col":"595"},
   {"term":"Urteilsenthaltung","qualifier":"","band":null,"col":null},
   {"term":"Zuschauer, uninteressierter","qualifier":"II (phän.)","band":"2","col":"596"},
-  {"term":"ἐποχή","qualifier":"I (erk.)","band":"2","col":"594"},
-  {"term":"– II (phän.) 2 421f. s. auch","qualifier":"II (phän.)","band":null,"col":null}
+  {"term":"ἐποχή","qualifier":"I (erk.)","band":"2","col":"594"}
  ],
  "persons":[
   {"id":85,"name":"Sextus Empiricus","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
@@ -71,7 +70,14 @@ HWPH.put("a/778",
   {"id":1155,"lemma":"Glück, Glückseligkeit","tf":2},
   {"id":754,"lemma":"Entscheidung","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3250,"lemma":"Übereilung; Voreiligkeit"},
+  {"id":3715,"lemma":"Zustimmung"},
+  {"id":691,"lemma":"Einstellung"},
+  {"id":2626,"lemma":"Reduktion, phänomenologische"},
+  {"id":2627,"lemma":"Reduktion, transzendentale"},
+  {"id":3053,"lemma":"Subjektivität, transzendentale"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Epoché I (erk.)"},
   {"id":9,"name":"Erkenntnistheorie","label":"Epoché I (erk.)"},

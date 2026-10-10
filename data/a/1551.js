@@ -93,7 +93,7 @@ HWPH.put("a/1551",
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3350,"lemma":"Ursache/Wirkung"},{"id":1550,"lemma":"Kausalgesetz"}],
  "groups":[
   {"id":26,"name":"Metaphysik","label":"Kausalität I (met.)"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Kausalität II (wiss.)"}

@@ -32,14 +32,15 @@ HWPH.put("a/514",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Busse","qualifier":"","band":null,"col":null},
   {"term":"progressio","qualifier":"","band":"1","col":"1034"},
   {"term":"regressus","qualifier":"","band":"1","col":"1034"},
   {"term":"Rückkehr zum Innersten","qualifier":"","band":null,"col":null},
   {"term":"Rückwendung","qualifier":"","band":null,"col":null},
   {"term":"status","qualifier":"","band":"1","col":"1034"},
   {"term":"šûb_","qualifier":"","band":"1","col":"1034"},
-  {"term":"Umkehr","qualifier":"","band":null,"col":null}
+  {"term":"Umkehr","qualifier":"","band":null,"col":null},
+  {"term":"ἐπιστροφή","qualifier":"","band":null,"col":null},
+  {"term":"μετάνοια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":2,"l":0,"editor":0,"role":"source"},

@@ -30,16 +30,15 @@ HWPH.put("a/3097",
  ],
  "outlinks":[{"id":2483,"lemma":"Proportion","n":1},{"id":2776,"lemma":"Schöne","n":1}],
  "register":[
+  {"term":"Angemessenheit","qualifier":"I (ästh.)","band":"10","col":"746"},
   {"term":"convenientia","qualifier":"I (ästh.)","band":"10","col":"746"},
-  {"term":"das","qualifier":"I (ästh.)","band":"10","col":"746"},
-  {"term":"das 8 1343–1385 s. auch","qualifier":"I (ästh.)","band":null,"col":null},
   {"term":"Eurhythmia","qualifier":"I (ästh.)","band":"10","col":"747"},
+  {"term":"Goldener","qualifier":"I (ästh )","band":null,"col":null},
   {"term":"Gravitation","qualifier":"II (wiss.)","band":"10","col":"750"},
-  {"term":"Kanon","qualifier":"I (ästh.)","band":"10","col":"746"},
+  {"term":"Mass","qualifier":"I (ästh.)","band":"10","col":"746"},
   {"term":"relational art","qualifier":"I (ästh.)","band":"10","col":"747f."},
   {"term":"Wohlgereimtheit","qualifier":"I (ästh.)","band":"10","col":"747"},
-  {"term":"σύμμετρία","qualifier":"","band":null,"col":null},
-  {"term":"– IV (ästh.) 7 1505–1508 s. auch","qualifier":"I (ästh )","band":null,"col":null}
+  {"term":"σύμμετρία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3527,"name":"W. Kambartel","b":0,"n":6,"l":1,"editor":0,"role":"scholar"},
@@ -159,6 +158,6 @@ HWPH.put("a/3097",
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Symmetrie I (ästh.)"},
   {"id":32,"name":"Physik","label":"Symmetrie II (wiss.)"}
  ],
- "reg_authors":[{"name":"Kambartel Walter","n":16},{"name":"Mainzer Klaus","n":21},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Kambartel Walter","n":16},{"name":"Mainzer Klaus","n":21},{"name":"Red","n":241}]
 }
 );

@@ -29,8 +29,7 @@ HWPH.put("a/3276",
   {"id":3512,"lemma":"Wachen, das","n":1}
  ],
  "register":[
-  {"term":"- 1190 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"Bahnung","qualifier":"","band":null,"col":null},
+  {"term":"Aufmerksamkeit","qualifier":"","band":null,"col":null},
   {"term":"circumspectio","qualifier":"","band":null,"col":null},
   {"term":"Sorge","qualifier":"","band":null,"col":null},
   {"term":"Voraussicht","qualifier":"","band":"11","col":"96"},

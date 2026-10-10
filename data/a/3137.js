@@ -29,7 +29,6 @@ HWPH.put("a/3137",
  ],
  "register":[
   {"term":"Bathologie; Battologie","qualifier":"","band":"10","col":"932"},
-  {"term":"Begriff","qualifier":"","band":"10","col":"933"},
   {"term":"Definition","qualifier":"","band":"10","col":"933f."},
   {"term":"Definition, rekursive","qualifier":"","band":"10","col":"933"},
   {"term":"Diallele","qualifier":"","band":"10","col":"933"},
@@ -38,12 +37,14 @@ HWPH.put("a/3137",
   {"term":"nugatio","qualifier":"","band":"10","col":"934"},
   {"term":"Pleonasmus","qualifier":"","band":"10","col":"933"},
   {"term":"Satz, identischer","qualifier":"","band":"10","col":"935f."},
+  {"term":"synonym","qualifier":"","band":"10","col":"933"},
   {"term":"Urteil, tautologisches","qualifier":"","band":"10","col":"935"},
   {"term":"virtuell identisch","qualifier":"","band":"10","col":"935"},
   {"term":"vitium tautologiae","qualifier":"","band":"10","col":"934"},
   {"term":"Wiederholung","qualifier":"","band":"10","col":"933"},
   {"term":"Zirkeldefinition","qualifier":"","band":"10","col":"934f."},
-  {"term":"ἀδολεσχία","qualifier":"","band":"10","col":"934"}
+  {"term":"ἀδολεσχία","qualifier":"","band":"10","col":"934"},
+  {"term":"ἐπανάληψις","qualifier":"","band":"10","col":"933"}
  ],
  "persons":[
   {"id":134,"name":"R. Goclenius","b":4,"n":8,"l":0,"editor":0,"role":"source"},

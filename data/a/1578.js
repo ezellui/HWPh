@@ -32,17 +32,16 @@ HWPH.put("a/1578",
  "register":[
   {"term":"Aktualgenese","qualifier":"","band":"4","col":"867f."},
   {"term":"Bewusstseinsvorgänge","qualifier":"","band":null,"col":null},
-  {"term":"Erkenntnis II (psych.)","qualifier":"","band":"4","col":"872ff."},
+  {"term":"cognition","qualifier":"","band":null,"col":null},
+  {"term":"Funktion, kognitive","qualifier":"","band":null,"col":null},
   {"term":"Gestalt (psych.)","qualifier":"","band":"4","col":"876"},
   {"term":"Lerntheorien","qualifier":"","band":"4","col":"871f."},
+  {"term":"Prozess, kognitiver","qualifier":"","band":null,"col":null},
   {"term":"Psychologie, kognitive","qualifier":"","band":"4","col":"871ff."},
   {"term":"Psychologie, topologische","qualifier":"","band":"4","col":"872f."},
+  {"term":"Reiz und Reaktion","qualifier":"","band":"4","col":"872ff."},
   {"term":"Struktur, kognitive","qualifier":"","band":"4","col":"876"},
-  {"term":"Vorstellung","qualifier":"","band":"4","col":"870"},
-  {"term":"– II (psych.) 2 662–681 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 8 1261–1263 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (psych.) 7 1394–1396 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– IV (psych.) 8 834–846 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vorstellung","qualifier":"","band":"4","col":"870"}
  ],
  "persons":[
   {"id":1082,"name":"U. Neisser","b":6,"n":8,"l":1,"editor":0,"role":"source"},

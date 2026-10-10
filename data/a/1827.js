@@ -18,7 +18,6 @@ HWPH.put("a/1827",
  "backlinks":[{"id":3423,"lemma":"Vernunft; Verstand","n":1},{"id":3673,"lemma":"Zeichen","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"- 1050 s. auch","qualifier":"(Klages)","band":null,"col":null},
   {"term":"biozentrisch","qualifier":"(Klages)","band":null,"col":null},
   {"term":"critique of reason","qualifier":"(Klages)","band":null,"col":null},
   {"term":"grammtologie","qualifier":"(Klages)","band":"5","col":"503"},
@@ -36,6 +35,6 @@ HWPH.put("a/1827",
  "mentions":[{"id":2757,"lemma":"Schein","tf":2},{"id":3635,"lemma":"Wissenschaft","tf":2}],
  "see_also":[{"id":2781,"lemma":"Schrift"},{"id":3160,"lemma":"Textualität; Dekonstruktion"}],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Logozentrisch (Klages)"}],
- "reg_authors":[{"name":"Hauser Richard","n":18},{"name":"Pöhler Egon","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Hauser Richard","n":18},{"name":"Pöhler Egon","n":2},{"name":"Red","n":241}]
 }
 );

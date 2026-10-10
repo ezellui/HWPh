@@ -62,6 +62,7 @@ HWPH.put("a/3520",
   {"term":"intellektuelle Störung","qualifier":"","band":null,"col":null},
   {"term":"Konkretismus","qualifier":"","band":"12","col":"34"},
   {"term":"Massenwahn","qualifier":"","band":"12","col":"32"},
+  {"term":"Monomanie","qualifier":"","band":null,"col":null},
   {"term":"overinclusion","qualifier":"","band":"12","col":"34"},
   {"term":"Paranoia","qualifier":"","band":null,"col":null},
   {"term":"Projektion","qualifier":"","band":"12","col":"31"},
@@ -192,6 +193,6 @@ HWPH.put("a/3520",
   {"id":3521,"lemma":"Wahnsinn"}
  ],
  "groups":[{"id":34,"name":"Psychiatrie","label":"Wahn"},{"id":35,"name":"Psychoanalyse","label":"Wahn"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

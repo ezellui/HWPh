@@ -40,11 +40,11 @@ HWPH.put("a/942",
  ],
  "outlinks":[{"id":189,"lemma":"Antiqui/moderni (Querelle des Anciens et des Modernes)","n":1}],
  "register":[
-  {"term":"4","qualifier":"","band":"2","col":"1047f."},
-  {"term":"als (Wittgenstein) Alte/Neue","qualifier":"","band":"2","col":"1035"},
+  {"term":"Alte/Neue","qualifier":"","band":"2","col":"1035"},
   {"term":"animal rationabile/rationale","qualifier":"","band":"2","col":"1048"},
   {"term":"Emanzipation","qualifier":"","band":"2","col":"1050"},
   {"term":"Entwicklung des Menschengeschlechts","qualifier":"","band":null,"col":null},
+  {"term":"Entzweiung","qualifier":"","band":"2","col":"1047f."},
   {"term":"evolutionary progress","qualifier":"","band":"2","col":"1054"},
   {"term":"Freiheit","qualifier":"","band":"2","col":"1049f."},
   {"term":"Geschichte","qualifier":"","band":"2","col":"1054"},
@@ -65,10 +65,7 @@ HWPH.put("a/942",
   {"term":"Zeitalter","qualifier":"","band":"2","col":"1034f."},
   {"term":"Zivilisation","qualifier":"","band":"2","col":"1055f."},
   {"term":"ἐπίδοσις","qualifier":"","band":null,"col":null},
-  {"term":"προκοπή","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 2 550–557 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (psych.) 4 1242–1245 Krise der Moderne","qualifier":"","band":"2","col":"1055"},
-  {"term":"– V (kult.) 4 570–574 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"προκοπή","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":53,"name":"F. Bacon","b":6,"n":5,"l":0,"editor":0,"role":"source"},
@@ -294,7 +291,8 @@ HWPH.put("a/942",
   {"id":1490,"lemma":"Invention, Erfindung, Entdeckung"},
   {"id":1638,"lemma":"Kontinuität, historische"},
   {"id":2306,"lemma":"Perfektibilität"},
-  {"id":2472,"lemma":"Progreß, unendlicher"}
+  {"id":2472,"lemma":"Progreß, unendlicher"},
+  {"id":3567,"lemma":"Weltgeschichte; Universalgeschichte"}
  ],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Fortschritt"}],
  "reg_authors":[{"name":"Ritter Joachim","n":9}]

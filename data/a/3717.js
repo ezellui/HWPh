@@ -67,11 +67,11 @@ HWPH.put("a/3717",
   {"id":3623,"lemma":"Willensschwäche","n":1}
  ],
  "register":[
-  {"term":"(Heidegger) 3 1202 βία","qualifier":"","band":null,"col":null},
   {"term":"Abwehr, sekundäre","qualifier":"II (psych.)","band":"12","col":"1483"},
   {"term":"Anankasmus","qualifier":"II (psych.)","band":"12","col":"1482"},
   {"term":"coactio","qualifier":"","band":null,"col":null},
   {"term":"coercion","qualifier":"","band":null,"col":null},
+  {"term":"compulsion","qualifier":"","band":null,"col":null},
   {"term":"constraint","qualifier":"","band":null,"col":null},
   {"term":"contrainte","qualifier":"","band":null,"col":null},
   {"term":"délire émotif","qualifier":"II (psych.)","band":"12","col":"1481"},
@@ -82,12 +82,12 @@ HWPH.put("a/3717",
   {"term":"imposition","qualifier":"I (allg.)","band":"12","col":"1479"},
   {"term":"Intersubjektivität, zwanglose","qualifier":"I (allg.)","band":"12","col":"1479"},
   {"term":"maladie du doute","qualifier":"II (psych.)","band":"12","col":"1481"},
+  {"term":"Monomanie","qualifier":"II (psych.)","band":"12","col":"1481"},
   {"term":"Nichterledigenkönnen","qualifier":"II (psych.)","band":"12","col":"1483"},
   {"term":"obsession","qualifier":"II (psych.)","band":"12","col":"1481"},
   {"term":"psychasthénie","qualifier":"II (psych.)","band":"12","col":"1481"},
   {"term":"terminaison","qualifier":"II (psych.)","band":"12","col":"1483"},
   {"term":"Verhalten, anankastisches","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"Wahn","qualifier":"II (psych.)","band":"12","col":"1481"},
   {"term":"Wahnidee","qualifier":"II (psych.)","band":"12","col":"1481"},
   {"term":"Welt des Zwangskranken","qualifier":"II (psych.)","band":"12","col":"1482"},
   {"term":"Wiederholung, anankastische","qualifier":"II (psych.)","band":"12","col":"1483"},
@@ -95,7 +95,8 @@ HWPH.put("a/3717",
   {"term":"Zeiterleben, verwandeltes","qualifier":"II (psych.)","band":"12","col":"1482"},
   {"term":"zwangloser Zwang","qualifier":"I (allg.)","band":"12","col":"1479"},
   {"term":"Zwangsneurose","qualifier":"II (psych.)","band":"12","col":"1482"},
-  {"term":"Zwangsvorstellung","qualifier":"II (psych.)","band":"12","col":"1481"}
+  {"term":"Zwangsvorstellung","qualifier":"II (psych.)","band":"12","col":"1481"},
+  {"term":"βία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":5,"n":5,"l":0,"editor":0,"role":"source"},
@@ -258,13 +259,19 @@ HWPH.put("a/3717",
   {"id":1564,"lemma":"Kind","tf":3},
   {"id":836,"lemma":"Ethisch","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":133,"lemma":"Ananke"},
+  {"id":2764,"lemma":"Schicksal"},
+  {"id":1249,"lemma":"Hemmung, vitale"},
+  {"id":3393,"lemma":"Verdrängung"},
+  {"id":3616,"lemma":"Wiederholung"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Zwang I (allg.)"},
   {"id":30,"name":"Pädagogik","label":"Zwang I (allg.)"},
   {"id":34,"name":"Psychiatrie","label":"Zwang II (psych.)"},
   {"id":35,"name":"Psychoanalyse","label":"Zwang II (psych.)"}
  ],
- "reg_authors":[{"name":"Hügli Anton","n":34},{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hügli Anton","n":34},{"name":"Hühn Helmut","n":52}]
 }
 );

@@ -7,7 +7,9 @@ HWPH.put("r/66-6c",
  ["Fleck, blinder","Sehen","III","9","153","ref",2802,"Sehen","fleck, blinder"],
  ["fleeting images","Traum","II","10","1469","ref",3225,"Traum","fleeting images"],
  ["Fleisch","Fleisch","","2","957–959","main",923,"Fleisch","fleisch"],
- ["Fleisch","Leib/Körper I Fleisch","",null,null,"see",1769,"Leib, Körper","fleisch"],
+ ["Fleisch","Leib/Körper","I",null,null,"see",1769,"Leib, Körper","fleisch"],
+ ["Fleisch","Rehabilitation der Materie/des","",null,null,"ref",null,null,"fleisch"],
+ ["Fleisches","Versuchung","","11","954","ref",3442,"Versuchung","fleisches"],
  ["Fleiss","Industrie","",null,null,"ref",1427,"Industrie","fleiss"],
  [
   "flexibility of mind","Umstrukturierung","","11","98","ref",3277,"Umstrukturierung; Umzentrierung",
@@ -61,7 +63,7 @@ HWPH.put("r/66-6c",
   "flucht"
  ],
  [
-  "Fluchtpunkt","Perspektive II (ästh.)","","7","375","ref",2326,
+  "Fluchtpunkt","Perspektive","II (ästh.)","7","375","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","fluchtpunkt"
  ],
  [
@@ -79,10 +81,8 @@ HWPH.put("r/66-6c",
   "fluxus formae"
  ],
  ["fluxus temporis","Zeit","V","12","1228","ref",3676,"Zeit","fluxus temporis"],
- [
-  "Flos substantiae","Flos substantiae","(Leibniz)",null,null,"main",925,"Flos substantiae",
-  "flos substantiae"
- ],
+ ["Fleisches","Materie","III","5","909","ref",1892,"Materie","fleisches"],
+ ["Fleisches sakīna","Schechina","","8","1229","ref",2756,"Schechina","fleisches sakina"],
  ["Fladerer Ludwig","Wahrheit","I B","12","54–57","author",3523,"Wahrheit","fladerer ludwig"],
  ["Flaig Egon","Sklaverei","","9","976–985","author",2909,"Sklaverei","flaig egon"],
  [

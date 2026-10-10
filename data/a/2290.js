@@ -24,14 +24,16 @@ HWPH.put("a/2290",
  "outlinks":[],
  "register":[
   {"term":"Anthropologie, pathische","qualifier":"I","band":"7","col":"179f."},
-  {"term":"anthropopathisch","qualifier":"","band":null,"col":null},
+  {"term":"anthropopathisch","qualifier":"II","band":null,"col":null},
   {"term":"Grössenwahn","qualifier":"I","band":"7","col":"178"},
+  {"term":"Hingebung","qualifier":"I","band":"7","col":"177"},
   {"term":"Leben, offenes","qualifier":"I","band":"7","col":"177"},
   {"term":"Megalomanie","qualifier":"I","band":"7","col":"178"},
   {"term":"ontische Existenz","qualifier":"I","band":"7","col":"179"},
   {"term":"pathicus","qualifier":"I","band":"7","col":"177"},
   {"term":"Pathik","qualifier":"","band":null,"col":null},
-  {"term":"pathologia","qualifier":"","band":null,"col":null}
+  {"term":"pathologia","qualifier":"","band":null,"col":null},
+  {"term":"Synthesis","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":177,"name":"L. Klages","b":2,"n":3,"l":0,"editor":0,"role":"source"},

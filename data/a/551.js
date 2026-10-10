@@ -17,7 +17,10 @@ HWPH.put("a/551",
  "next":{"id":552,"lemma":"Denken","band":"2","col":60},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Denkungsart","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Art des Denkens","qualifier":"","band":null,"col":null},
+  {"term":"Denkungsart","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":18,"name":"J. G. Herder","b":1,"n":1,"l":0,"editor":0,"role":"source"},

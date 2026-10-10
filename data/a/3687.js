@@ -31,9 +31,9 @@ HWPH.put("a/3687",
   {"id":3278,"lemma":"Umwelt","n":1}
  ],
  "register":[
+  {"term":"centrosophia","qualifier":"","band":"12","col":"1299"},
   {"term":"centrum","qualifier":"","band":null,"col":null},
   {"term":"exzentrisch","qualifier":"","band":"12","col":"1299f."},
-  {"term":"Literaturkritik II 4 1286 centrosophia","qualifier":"","band":"12","col":"1299"},
   {"term":"κέντρον","qualifier":"","band":null,"col":null}
  ],
  "persons":[

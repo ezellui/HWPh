@@ -17,7 +17,10 @@ HWPH.put("a/1340",
  "next":{"id":1341,"lemma":"Idealisierung","band":"4","col":28},
  "backlinks":[{"id":3423,"lemma":"Vernunft; Verstand","n":1}],
  "outlinks":[],
- "register":[{"term":"transzendentales Ideal","qualifier":"(Kant)","band":null,"col":null}],
+ "register":[
+  {"term":"Gottes","qualifier":"(Kant)","band":null,"col":null},
+  {"term":"transzendentales Ideal","qualifier":"(Kant)","band":null,"col":null}
+ ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -22,6 +22,6 @@ HWPH.put("a/1482",
  "mentions":[],
  "see_also":[{"id":2369,"lemma":"Physikalismus"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Intersensual (Carnap)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

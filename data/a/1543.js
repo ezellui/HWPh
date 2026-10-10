@@ -17,7 +17,7 @@ HWPH.put("a/1543",
  "next":{"id":1544,"lemma":"Kategorisch/hypothetisch","band":"4","col":783},
  "backlinks":[{"id":342,"lemma":"Axiomensystem, Peanosches","n":1}],
  "outlinks":[{"id":2000,"lemma":"Modell, Modelltheorie","n":1}],
- "register":[{"term":"Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":8954,"name":"S. Mac Lane","b":0,"n":1,"l":2,"editor":0,"role":"scholar"},
   {"id":15595,"name":"S. Eilenberg","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},

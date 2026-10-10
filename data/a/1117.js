@@ -18,15 +18,8 @@ HWPH.put("a/1117",
  "backlinks":[{"id":1622,"lemma":"Konstanzannahme","n":1},{"id":2511,"lemma":"Psychologie","n":1}],
  "outlinks":[{"id":1120,"lemma":"Gestaltqualität","n":1},{"id":1121,"lemma":"Gestalttheorie","n":1}],
  "register":[
-  {"term":"/Objekt I 10 405 physische Gestalten","qualifier":"","band":null,"col":null},
-  {"term":"Regulation","qualifier":"","band":"3","col":"548"},
-  {"term":"– I (ästh.) 3 540–547 – II (psych.) 3 547f. s. auch","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (phys.) 2 923–926 – II (psych.) 2 926–929 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"physische Gestalten","qualifier":"","band":null,"col":null},
+  {"term":"Regulation","qualifier":"","band":"3","col":"548"}
  ],
  "persons":[{"id":246,"name":"W. Köhler","b":1,"n":3,"l":0,"editor":0,"role":"mixed"}],
  "mentions":[],

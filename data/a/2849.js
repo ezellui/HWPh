@@ -30,8 +30,7 @@ HWPH.put("a/2849",
   {"term":"Grundliebe","qualifier":"","band":"9","col":"536"},
   {"term":"self-concernment","qualifier":"","band":"9","col":"536"},
   {"term":"selfishness","qualifier":"","band":null,"col":null},
-  {"term":"Solipsismus","qualifier":"","band":null,"col":null},
-  {"term":"– I (eth.) 2 310–313 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Solipsismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":11,"name":"J. G. Fichte","b":1,"n":3,"l":0,"editor":0,"role":"source"},

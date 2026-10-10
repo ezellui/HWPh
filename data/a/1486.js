@@ -53,7 +53,7 @@ HWPH.put("a/1486",
   {"id":873,"lemma":"Experiment","tf":2},
   {"id":1184,"lemma":"Grenze","tf":2}
  ],
- "see_also":[{"id":377,"lemma":"Behaviorismus"}],
+ "see_also":[{"id":377,"lemma":"Behaviorismus"},{"id":412,"lemma":"Bewußtsein"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Introspektion"}],
  "reg_authors":[{"name":"Koch Manfred","n":4}]
 }

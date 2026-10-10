@@ -23,8 +23,7 @@ HWPH.put("a/3341",
   {"term":"Setzen (Husserl)","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Urglaube","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Urthesis","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"Wahrheit","qualifier":"(Husserl)","band":"11","col":"359"},
-  {"term":"– II (phän.) 2 421f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"Wahrheit","qualifier":"(Husserl)","band":"11","col":"359"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},

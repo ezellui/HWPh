@@ -56,12 +56,12 @@ HWPH.put("a/3708",
   {"id":3680,"lemma":"Zeitlosigkeit","n":1}
  ],
  "register":[
-  {"term":"806","qualifier":"","band":"12","col":"1428f."},
   {"term":"avenir","qualifier":"","band":null,"col":null},
   {"term":"contuitus","qualifier":"","band":"12","col":"1428f."},
   {"term":"Erlebnisstrom (Husserl)","qualifier":"","band":"12","col":"1432"},
   {"term":"expectatio","qualifier":"","band":"12","col":"1428f."},
   {"term":"future","qualifier":"","band":null,"col":null},
+  {"term":"memoria","qualifier":"","band":"12","col":"1428f."},
   {"term":"Parusie","qualifier":"","band":"12","col":"1433"},
   {"term":"past","qualifier":"","band":null,"col":null},
   {"term":"praeteritum imperfectum","qualifier":"","band":"12","col":"1427"},

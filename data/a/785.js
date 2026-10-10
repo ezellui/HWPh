@@ -17,7 +17,7 @@ HWPH.put("a/785",
  "next":{"id":786,"lemma":"Erfahrung","band":"2","col":609},
  "backlinks":[{"id":2390,"lemma":"Poiesis","n":1},{"id":3557,"lemma":"Welt","n":1}],
  "outlinks":[],
- "register":[{"term":"des Seins (Heidegger) 10 1291f. s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -31,7 +31,7 @@ HWPH.put("a/785",
   {"id":1556,"lemma":"Kehre"},
   {"id":1794,"lemma":"Lichtung"},
   {"id":2812,"lemma":"Seinsgeschichte"},
-  {"id":3205,"lemma":"Topologie"}
+  {"id":3206,"lemma":"Topologie des Seins; Ortschaft des Seins"}
  ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Ereignis"}],
  "reg_authors":[{"name":"Sinn Dieter","n":3}]

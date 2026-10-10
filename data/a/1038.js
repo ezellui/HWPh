@@ -19,7 +19,8 @@ HWPH.put("a/1038",
  "outlinks":[],
  "register":[
   {"term":"Geist, objektiver","qualifier":"(Hartmann)","band":"3","col":"216"},
-  {"term":"Geist, personaler","qualifier":"(Hartmann)","band":"3","col":"216"}
+  {"term":"Geist, personaler","qualifier":"(Hartmann)","band":"3","col":"216"},
+  {"term":"Sein, geistiges","qualifier":"(Hartmann)","band":null,"col":null}
  ],
  "persons":[
   {"id":35,"name":"N. Hartmann","b":1,"n":0,"l":1,"editor":0,"role":"source"},
@@ -32,7 +33,11 @@ HWPH.put("a/1038",
   {"id":327,"lemma":"Autonomie","tf":2},
   {"id":1540,"lemma":"Kategorie, Kategorienlehre","tf":3}
  ],
- "see_also":[{"id":562,"lemma":"Dependenzgesetze"},{"id":1033,"lemma":"Geist, objektivierter"}],
+ "see_also":[
+  {"id":562,"lemma":"Dependenzgesetze"},
+  {"id":1033,"lemma":"Geist, objektivierter"},
+  {"id":2762,"lemma":"Schichtenlehre, Schichtentheorie"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Geistiges Sein (Hartmann)"}],
  "reg_authors":[{"name":"Hülsmann Heinrich","n":14}]
 }

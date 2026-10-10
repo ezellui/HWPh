@@ -19,6 +19,7 @@ HWPH.put("a/2635",
  "outlinks":[],
  "register":[
   {"term":"Amphibolie, transzendentale","qualifier":"","band":null,"col":null},
+  {"term":"Einerleiheit","qualifier":"","band":null,"col":null},
   {"term":"Einstimmung/Widerstreit","qualifier":"","band":null,"col":null},
   {"term":"Form/Materie","qualifier":"","band":null,"col":null},
   {"term":"Inneres/Äusseres","qualifier":"","band":null,"col":null},

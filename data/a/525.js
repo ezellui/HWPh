@@ -36,7 +36,7 @@ HWPH.put("a/525",
   {"id":3217,"name":"A. Hauser","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}
  ],
  "mentions":[{"id":1776,"lemma":"Leitbild","tf":3},{"id":1712,"lemma":"Kunst, Kunstwerk","tf":2}],
- "see_also":[],
+ "see_also":[{"id":2805,"lemma":"Sehweise, Sehform"}],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Darstellungsformen (Wölfflin)"}],
  "reg_authors":[{"name":"Kambartel Walter","n":16}]
 }

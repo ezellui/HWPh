@@ -23,14 +23,13 @@ HWPH.put("a/2329",
  "outlinks":[],
  "register":[
   {"term":"cogitatio","qualifier":"","band":null,"col":null},
+  {"term":"comprehensio","qualifier":"","band":null,"col":null},
   {"term":"Einheit des Bewusstseins","qualifier":"","band":"7","col":"384"},
-  {"term":"Katalepsis","qualifier":"","band":null,"col":null},
   {"term":"perceptio","qualifier":"","band":null,"col":null},
   {"term":"perception","qualifier":"","band":null,"col":null},
   {"term":"prehension","qualifier":"","band":"7","col":"385"},
-  {"term":"primäres/sekundäres (Reininger)","qualifier":"","band":"7","col":"384"},
-  {"term":"Selbstgebung (Husserl)","qualifier":"","band":"7","col":"385"},
-  {"term":"– I (erk.) 2 456–464 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Selbstbewusstsein","qualifier":"","band":"7","col":"384"},
+  {"term":"Selbstgebung (Husserl)","qualifier":"","band":"7","col":"385"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":2,"l":0,"editor":0,"role":"source"},

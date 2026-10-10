@@ -27,8 +27,8 @@ HWPH.put("a/2910",
   {"term":"punctum mathematicum","qualifier":"","band":"9","col":"986"},
   {"term":"punctum physicum","qualifier":"","band":"9","col":"986"},
   {"term":"Ziel","qualifier":"","band":null,"col":null},
-  {"term":"Zweck; Ziel","qualifier":"","band":"9","col":"985"},
-  {"term":"σκοπός","qualifier":"","band":"9","col":"985"}
+  {"term":"σκοπός","qualifier":"","band":"9","col":"985"},
+  {"term":"τέλος","qualifier":"","band":"9","col":"985"}
  ],
  "persons":[
   {"id":391,"name":"G. Ebeling","b":0,"n":5,"l":0,"editor":0,"role":"mixed"},

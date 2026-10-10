@@ -24,7 +24,8 @@ HWPH.put("a/2945",
  "outlinks":[],
  "register":[
   {"term":"Autotelie","qualifier":"","band":"9","col":"1160"},
-  {"term":"Idealismus, sozialer","qualifier":"","band":"9","col":"1159"}
+  {"term":"Idealismus, sozialer","qualifier":"","band":"9","col":"1159"},
+  {"term":"social idealism","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":90,"name":"P. Natorp","b":2,"n":1,"l":0,"editor":0,"role":"source"},

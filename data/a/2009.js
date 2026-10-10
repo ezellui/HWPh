@@ -56,8 +56,7 @@ HWPH.put("a/2009",
   {"term":"Zeitpunkt","qualifier":"II (met.)","band":null,"col":null},
   {"term":"Zeitschwelle","qualifier":"III (psych.)","band":"6","col":"109"},
   {"term":"Zeitwahrnehmung","qualifier":"III (psych.)","band":null,"col":null},
-  {"term":"ῥοπή","qualifier":"I (nat.)","band":null,"col":null},
-  {"term":"– II (met.) 6 100–108 s. auch","qualifier":"","band":"6","col":"108–114"}
+  {"term":"ῥοπή","qualifier":"I (nat.)","band":null,"col":null}
  ],
  "persons":[
   {"id":3497,"name":"Brecher","b":2,"n":7,"l":0,"editor":0,"role":"mixed"},
@@ -187,7 +186,12 @@ HWPH.put("a/2009",
   {"id":2730,"lemma":"Sache","tf":7},
   {"id":1432,"lemma":"Information","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1181,"lemma":"Gravitation"},
+  {"id":2176,"lemma":"Nunc stans"},
+  {"id":2534,"lemma":"Punkt, Punktualität"},
+  {"id":672,"lemma":"Eigenzeit"}
+ ],
  "groups":[
   {"id":26,"name":"Metaphysik","label":"Moment II (met.)"},
   {"id":28,"name":"Naturphilosophie","label":"Moment I (nat.)"},

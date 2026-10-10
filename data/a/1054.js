@@ -28,11 +28,11 @@ HWPH.put("a/1054",
  "outlinks":[],
  "register":[
   {"term":"Akt, emotionaler","qualifier":"I","band":"3","col":"261"},
+  {"term":"animus","qualifier":"I","band":null,"col":null},
   {"term":"Begehrungsvermögen","qualifier":"I","band":"3","col":"259"},
   {"term":"Bindung; Bindungsfähigkeit","qualifier":"II","band":"3","col":"262f."},
   {"term":"emotionaler Akt","qualifier":"I","band":"3","col":"261"},
   {"term":"Empfindung","qualifier":"I","band":null,"col":null},
-  {"term":"Geist","qualifier":"I","band":null,"col":null},
   {"term":"Gemeinschaftsgefühl","qualifier":"II","band":"3","col":"263"},
   {"term":"Gestalt (psych.)","qualifier":"II","band":"3","col":"264"},
   {"term":"Gewissen","qualifier":"II","band":"3","col":"262"},
@@ -133,6 +133,6 @@ HWPH.put("a/1054",
   {"id":9,"name":"Erkenntnistheorie","label":"Gemüt I"},
   {"id":36,"name":"Psychologie","label":"Gemüt II"}
  ],
- "reg_authors":[{"name":"Emmel Hildegard","n":5},{"name":"Lasslop Peter","n":3},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Emmel Hildegard","n":5},{"name":"Lasslop Peter","n":3},{"name":"Red","n":241}]
 }
 );

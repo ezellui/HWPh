@@ -20,9 +20,9 @@ HWPH.put("r/65-68",
  ["Ehrfurcht","Achtung","",null,null,"see",41,"Achtung","ehrfurcht"],
  ["Ehrfurcht","Pietas","",null,null,"see",2375,"Pietas","ehrfurcht"],
  ["Ehrfurcht","Religion","VII","8","677","ref",2673,"Religion","ehrfurcht"],
- ["Ehrfurcht","Scham C","1","8","1208f.","ref",2751,"Scham, Scheu","ehrfurcht"],
+ ["Ehrfurcht","Scham","C 1","8","1208f.","ref",2751,"Scham, Scheu","ehrfurcht"],
  ["Ehrfurcht","Vegetarismus","","11","560","ref",3377,"Vegetarismus","ehrfurcht"],
- ["Ehrgefühl","Scham A","","8","1208f.","ref",2751,"Scham, Scheu","ehrgefuhl"],
+ ["Ehrgefühl","Scham","A","8","1208f.","ref",2751,"Scham, Scheu","ehrgefuhl"],
  ["Ehrgeiz","Ehrgeiz","","2","324f.","main",656,"Ehrgeiz","ehrgeiz"],
  ["Ehrgeiz","Prestige","",null,null,"see",2450,"Prestige","ehrgeiz"],
  ["Ehrgeiz","Grossmut","","3","897","ref",1189,"Großmut","ehrgeiz"],
@@ -30,7 +30,6 @@ HWPH.put("r/65-68",
  ["Ehrlichkeit","Ehrlichkeit","","2","325f.","main",657,"Ehrlichkeit","ehrlichkeit"],
  ["Ehrlichkeit","Redlichkeit","",null,null,"see",2622,"Redlichkeit","ehrlichkeit"],
  ["Ehrlichkeit","Wahrhaftigkeit","",null,null,"see",3522,"Wahrhaftigkeit","ehrlichkeit"],
- ["Ehrliebe; Ehrsucht","Ehrgeiz","","2","325","ref",656,"Ehrgeiz","ehrliebe; ehrsucht"],
- ["Ehre","Ehre","","2","320","main",654,"Ehre","ehre"]
+ ["Ehrliebe; Ehrsucht","Ehrgeiz","","2","325","ref",656,"Ehrgeiz","ehrliebe; ehrsucht"]
 ]
 );

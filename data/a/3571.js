@@ -29,10 +29,10 @@ HWPH.put("a/3571",
   {"id":3305,"lemma":"Universalpoesie","n":1}
  ],
  "register":[
-  {"term":"1486","qualifier":"","band":"12","col":"495"},
   {"term":"correspondance littéraire","qualifier":"","band":"12","col":"494"},
   {"term":"Globalisierung","qualifier":"","band":"12","col":"495"},
   {"term":"littérature mondiale","qualifier":"","band":null,"col":null},
+  {"term":"Übersetzung","qualifier":"","band":"12","col":"495"},
   {"term":"world literature","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -48,6 +48,7 @@ HWPH.put("a/3419",
   {"term":"Disposition","qualifier":"","band":"11","col":"731"},
   {"term":"faculty psychology","qualifier":"","band":null,"col":null},
   {"term":"Fähigkeiten, seelische","qualifier":"","band":null,"col":null},
+  {"term":"psychologie des facultés","qualifier":"","band":null,"col":null},
   {"term":"Seelenvermögen","qualifier":"","band":null,"col":null},
   {"term":"Vermögenspsychologie","qualifier":"","band":null,"col":null}
  ],

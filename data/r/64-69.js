@@ -15,7 +15,7 @@ HWPH.put("r/64-69",
  ["diaetetica","Diätetik","",null,null,"ref",589,"Diätetik","diaetetica"],
  ["Diätetik","Diätetik","","2","231f.","main",589,"Diätetik","diatetik"],
  ["Diätetik","Makrobiotik","",null,null,"see",1848,"Makrobiotik","diatetik"],
- ["Diätetik","Medizin I","",null,null,"see",1906,"Medizin, Heilkunst, Medizinphilosophie","diatetik"],
+ ["Diätetik","Medizin","I",null,null,"see",1906,"Medizin, Heilkunst, Medizinphilosophie","diatetik"],
  ["Diätetik","Pythagoreismus","III",null,null,"see",2539,"Pythagoreismus","diatetik"],
  ["Diätetik","Therapie","",null,null,"see",3184,"Therapie; Therapeutik","diatetik"],
  ["Diagnose","Diagnose","","2","162f.","main",580,"Diagnose","diagnose"],
@@ -78,15 +78,48 @@ HWPH.put("r/64-69",
  ["Dialekt","Umgangssprache","",null,null,"see",3273,"Umgangssprache","dialekt"],
  ["Dialektik","Dialektik","","2","164–226","main",583,"Dialektik","dialektik"],
  [
-  "Dialektik","Invention; Erfindung III (log.)","",null,null,"see",1490,
+  "Dialektik","Invention; Erfindung","III (log.)",null,null,"see",1490,
   "Invention, Erfindung, Entdeckung","dialektik"
  ],
  ["Dialektik","Logik","",null,null,"see",1803,"Logik","dialektik"],
- ["Dialektik","Logik","",null,null,"see",1803,"Logik","dialektik"],
- ["dialektische","Realdialektik","",null,null,"ref",2584,"Realdialektik","dialektische"],
- ["dialektische","Rechtfertigung","I",null,null,"ref",2601,"Rechtfertigung","dialektische"],
- ["dialektische","Topik Dialektik","",null,null,"ref",null,null,"dialektische"],
- ["Dialektik, deszendente","Dialektik","IV",null,null,"ref",583,"Dialektik","dialektik, deszendente"],
+ ["Dialektik","Logik, dialektische","",null,null,"see",1803,"Logik","dialektik"],
+ ["Dialektik","Realdialektik","",null,null,"see",2584,"Realdialektik","dialektik"],
+ ["Dialektik","Rechtfertigung","I",null,null,"see",2601,"Rechtfertigung","dialektik"],
+ ["Dialektik","Topik","",null,null,"see",3203,"Topik; Topos","dialektik"],
+ ["Dialektik","Aufheben","(Hegel)",null,null,"ref",288,"Aufheben","dialektik"],
+ ["Dialektik","Dialog","",null,null,"ref",585,"Dialog, dialogisch","dialektik"],
+ ["Dialektik","Methode","II",null,null,"ref",1955,"Methode","dialektik"],
+ ["Dialektik","Peirastik","",null,null,"ref",2303,"Peirastik","dialektik"],
+ [
+  "Dialektik","Philosophie","I F (Einteilung der Ph./Antike)",null,null,"ref",2353,"Philosophie",
+  "dialektik"
+ ],
+ ["Dialektik","These","",null,null,"ref",3186,"These","dialektik"],
+ ["Dialektik","Analyse/Synthese","","1","240ff.","ref",126,"Analyse/Synthese","dialektik"],
+ ["Dialektik","Analytik","","1","249","ref",128,"Analytik","dialektik"],
+ ["Dialektik","Ich-Du-Verhältnis","","4","20","ref",1336,"Ich-Du-Verhältnis","dialektik"],
+ ["Dialektik","Kritik","I 2","4","1254f.","ref",1694,"Kritik","dialektik"],
+ ["Dialektik","Logik","I","5","358","ref",1803,"Logik","dialektik"],
+ ["Dialektik","Metaphysik","III","5","1200","ref",1944,"Metaphysik","dialektik"],
+ ["Dialektik","Metaphysik","IV","5","1221f.","ref",1944,"Metaphysik","dialektik"],
+ ["Dialektik","Methode, genetische","","5","1344","ref",1959,"Methode, genetische","dialektik"],
+ ["Dialektik","Philosophie","I B","7","580f.","ref",2353,"Philosophie","dialektik"],
+ ["Dialektik","Philosophie","III C","7","668","ref",2353,"Philosophie","dialektik"],
+ ["Dialektik","Scholastik","","8","1334","ref",2775,"Scholastik","dialektik"],
+ ["Dialektik","Selbstbewegung","","9","349","ref",2827,"Selbstbewegung","dialektik"],
+ ["Dialektik","Struktur","I (allg.)","10","308","ref",3040,"Struktur","dialektik"],
+ ["Dialektik","Synthesis","","10","821","ref",3114,"Synthesis; synthetisch","dialektik"],
+ ["Dialektik","Umschlag","","11","92f.","ref",3275,"Umschlag","dialektik"],
+ ["Dialektik","Verdopplung","","11","615","ref",3392,"Verdopplung","dialektik"],
+ ["Dialektik","Vermittlung","","11","724f.","ref",3417,"Vermittlung","dialektik"],
+ [
+  "Dialektik","Voraussetzungslosigkeit","","11","1166f.","ref",3488,"Voraussetzungslosigkeit",
+  "dialektik"
+ ],
+ [
+  "Dialektik, deszendente","Dialektik","IV 1. 2","2","187","ref",583,"Dialektik",
+  "dialektik, deszendente"
+ ],
  ["Dialektik, genetische","Dialektik","IV 2","2","197","ref",583,"Dialektik","dialektik, genetische"],
  [
   "Dialektik, idealistische","Materialismus, dialektischer","I",null,null,"ref",1887,
@@ -94,7 +127,7 @@ HWPH.put("r/64-69",
  ],
  ["Dialektik, kritische","Dialektik","IV 4","2","207","ref",583,"Dialektik","dialektik, kritische"],
  [
-  "Dialektik, materialistische","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Dialektik, materialistische","Dialektik","IV 3",null,null,"ref",583,"Dialektik",
   "dialektik, materialistische"
  ],
  [
@@ -102,14 +135,17 @@ HWPH.put("r/64-69",
   "Materialismus, dialektischer","dialektik, materialistische"
  ],
  [
-  "Dialektik, materialistische","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Dialektik, materialistische","Dialektik","IV 5. 4","2","211","ref",583,"Dialektik",
   "dialektik, materialistische"
  ],
  [
   "Dialektik, materialistische","Materie","IV 5","5","919","ref",1892,"Materie",
   "dialektik, materialistische"
  ],
- ["Dialektik, natürliche","Dialektik","IV",null,null,"ref",583,"Dialektik","dialektik, naturliche"],
+ [
+  "Dialektik, natürliche","Dialektik","IV 1. 1","2","186","ref",583,"Dialektik",
+  "dialektik, naturliche"
+ ],
  ["Dialektik, natürliche","Dialektik","IV 3","2","198","ref",583,"Dialektik","dialektik, naturliche"],
  [
   "Dialektik, natürliche","Kontinuum","III","4","1054","ref",1640,"Kontinuum, Kontinuität",
@@ -125,16 +161,44 @@ HWPH.put("r/64-69",
   "dialektik, negative"
  ],
  ["Dialektik, negative","Dialektik","IV 3","2","198","ref",583,"Dialektik","dialektik, negative"],
- ["Dialektik, negative","Negation","",null,null,"ref",2100,"Negation","dialektik, negative"],
- ["Dialektik, positive","Dialektik","IV 2","2","197","ref",583,"Dialektik","dialektik, positive"],
- ["Dialektik, positive","Logik","",null,null,"ref",1803,"Logik","dialektik, positive"],
  [
-  "dialektische I 5 396 Dialektik, proletarische","Dialektik","IV",null,null,"ref",583,"Dialektik",
-  "dialektische i 5 396 dialektik, proletarische"
+  "Dialektik, negative","Negation; Negativität","II","6","685","ref",2101,"Negation, Negativität",
+  "dialektik, negative"
+ ],
+ [
+  "Dialektik, negative","Negation der Negation","","6","691","ref",2102,"Negation der Negation",
+  "dialektik, negative"
+ ],
+ [
+  "Dialektik, negative","Selbstreflexion","","9","519","ref",2846,"Selbstreflexion",
+  "dialektik, negative"
+ ],
+ [
+  "Dialektik, negative","Subjekt/Objekt","V","10","427f.","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","dialektik, negative"
+ ],
+ ["Dialektik, negative","Tathandlung","","10","909","ref",3129,"Tathandlung","dialektik, negative"],
+ [
+  "Dialektik, negative","Unmittelbarkeit","","11","240","ref",3314,"Unmittelbarkeit",
+  "dialektik, negative"
+ ],
+ [
+  "Dialektik, negative","Verblendung","","11","581","ref",3383,
+  "Verblendung; Verblendungszusammenhang","dialektik, negative"
+ ],
+ ["Dialektik, negative","Widerspruch","","12","696f.","ref",3607,"Widerspruch","dialektik, negative"],
+ ["Dialektik, positive","Dialektik","IV 2","2","197","ref",583,"Dialektik","dialektik, positive"],
+ [
+  "Dialektik, positive","Logik, dialektische","I","5","396","ref",1805,
+  "Logik, (spekulativ-)dialektische","dialektik, positive"
+ ],
+ [
+  "Dialektik, proletarische","Dialektik","IV 5. 4","2","211","ref",583,"Dialektik",
+  "dialektik, proletarische"
  ],
  ["Dialektik, qualitative","Dialektik","V","2","224","ref",583,"Dialektik","dialektik, qualitative"],
  [
-  "Dialektik, revolutionäre","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Dialektik, revolutionäre","Dialektik","IV 5. 3","2","210","ref",583,"Dialektik",
   "dialektik, revolutionare"
  ],
  [
@@ -158,12 +222,16 @@ HWPH.put("r/64-69",
   "dialektik, transzendentale"
  ],
  [
-  "Dialektik, transzendentale","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Dialektik, transzendentale","Dialektik","IV 1. 1","2","185","ref",583,"Dialektik",
   "dialektik, transzendentale"
  ],
  [
   "Dialektik, transzendentale","Logik, transzendentale","","5","464","ref",1819,
   "Logik, transzendentale","dialektik, transzendentale"
+ ],
+ [
+  "Dialektik, transzendentale","Paralogismus","","7","112","ref",2273,"Paralogismus",
+  "dialektik, transzendentale"
  ],
  [
   "Dialektik der Dialektik","Dialektik","IV 4","2","207","ref",583,"Dialektik",
@@ -196,28 +264,31 @@ HWPH.put("r/64-69",
   "Dialektische, das (Kierkegaard)","Pathetisch; das Pathetische","","7","175f.","ref",2289,
   "Pathetisch, das Pathetische","dialektische, das (kierkegaard)"
  ],
- ["dialektische Logik","Logik","",null,null,"ref",1803,"Logik","dialektische logik"],
+ ["dialektische Logik","Logik, dialektische","",null,null,"ref",1803,"Logik","dialektische logik"],
  [
-  "dialektische dialektische Psychologie","Psychologie, transzendentale","(Kant)","7","1671","ref",
-  2521,"Psychologie, transzendentale","dialektische dialektische psychologie"
+  "dialektische Psychologie","Psychologie, transzendentale","(Kant)","7","1671","ref",2521,
+  "Psychologie, transzendentale","dialektische psychologie"
  ],
  ["dialektische Theologie","Dialektik","V",null,null,"ref",583,"Dialektik","dialektische theologie"],
- ["dialektische Theologie","Theologie","",null,null,"ref",3169,"Theologie","dialektische theologie"],
  [
-  "dialektische dialektische Vernunft","Authentizität","","1","693","ref",318,"Authentizität",
-  "dialektische dialektische vernunft"
+  "dialektische Theologie","Theologie, dialektische","",null,null,"ref",3171,
+  "Theologie, Dialektische","dialektische theologie"
  ],
  [
-  "dialektische dialektische Vernunft","Dialektik","IV",null,null,"ref",583,"Dialektik",
-  "dialektische dialektische vernunft"
+  "dialektische Vernunft","Authentizität","","1","693","ref",318,"Authentizität",
+  "dialektische vernunft"
  ],
  [
-  "dialektische dialektische Vernunft","Sensus communis","IV 1","9","665","ref",2869,
-  "Sensus communis","dialektische dialektische vernunft"
+  "dialektische Vernunft","Dialektik","IV 7. 1","2","218f.","ref",583,"Dialektik",
+  "dialektische vernunft"
  ],
  [
-  "dialektische dialektische Vernunft","Vernunft; Verstand","VI","11","828","ref",3423,
-  "Vernunft; Verstand","dialektische dialektische vernunft"
+  "dialektische Vernunft","Sensus communis","IV 1","9","665","ref",2869,"Sensus communis",
+  "dialektische vernunft"
+ ],
+ [
+  "dialektische Vernunft","Vernunft; Verstand","VI","11","828","ref",3423,"Vernunft; Verstand",
+  "dialektische vernunft"
  ],
  [
   "dialektischer Materialismus","Materialismus, dialektischer","",null,null,"ref",1887,
@@ -241,10 +312,20 @@ HWPH.put("r/64-69",
  ["Diallele","Zirkel","",null,null,"see",3695,"Zirkel","diallele"],
  ["Diallele","Tautologie","","10","933","ref",3137,"Tautologie","diallele"],
  ["Dialog","Dialog","","2","226–229","main",585,"Dialog, dialogisch","dialog"],
- ["Dialog","Andere","",null,null,"see",137,"Andere","dialog"],
+ ["Dialog","Andere, der","",null,null,"see",137,"Andere","dialog"],
+ ["Dialog","Du","",null,null,"see",639,"Du","dialog"],
+ ["Dialog","Ich-Du-Verhältnis","",null,null,"see",1336,"Ich-Du-Verhältnis","dialog"],
+ ["Dialog","Und","",null,null,"see",3287,"Und","dialog"],
+ ["Dialog","Verständigung","",null,null,"see",3437,"Verständigung","dialog"],
+ ["Dialog","Wir","",null,null,"see",3625,"Wir","dialog"],
+ ["Dialog","Zwischen","",null,null,"see",3727,"Zwischen","dialog"],
  ["Dialog","Aufklärung","I","1","631","ref",289,"Aufklärung","dialog"],
- ["Dialog","Dialektik","IV",null,null,"ref",583,"Dialektik","dialog"],
- ["Dialog, innerer","Wort","",null,null,"ref",3656,"Wort","dialog, innerer"],
+ ["Dialog","Dialektik","IV 1. 6","2","194f.","ref",583,"Dialektik","dialog"],
+ [
+  "Dialog, innerer","Wort, inneres","","12","1037","ref",3657,"Wort, inneres; Rede, innere",
+  "dialog, innerer"
+ ],
+ ["dialogdefinit","Logik, dialogische","",null,null,"ref",1806,"Logik, dialogische","dialogdefinit"],
  [
   "Dialoghermeneutik","Kompetenz","VI (sprach.)","4","931","ref",1598,"Kompetenz",
   "dialoghermeneutik"
@@ -254,7 +335,7 @@ HWPH.put("r/64-69",
   "dialogische logik"
  ],
  [
-  "dialogische Philosophie","Dialog διαλογισμός","",null,null,"ref",null,null,
+  "dialogische Philosophie","Dialog","",null,null,"ref",585,"Dialog, dialogisch",
   "dialogische philosophie"
  ],
  ["Dialogizität","Zitat","I (lit.)","12","1352","ref",3697,"Zitat","dialogizitat"],
@@ -275,7 +356,7 @@ HWPH.put("r/64-69",
  ["Dianoetisch/ethisch","Tugend","I",null,null,"see",3239,"Tugend","dianoetisch/ethisch"],
  ["dianoia","Urteil","II 1","11","439","ref",3355,"Urteil","dianoia"],
  [
-  "dianoia simplex/composita","Verstandesschluss διανοίας ὄψις","",null,null,"ref",null,null,
+  "dianoia simplex/composita","Verstandesschluss","",null,null,"ref",3436,"Verstandesschluß",
   "dianoia simplex/composita"
  ],
  ["Dianoiologie","Dianoiologie","","2","230f.","main",588,"Dianoiologie","dianoiologie"],
@@ -288,7 +369,7 @@ HWPH.put("r/64-69",
   "dichtart, romantische"
  ],
  ["Dichte","Form und Materie","","2","1013","ref",939,"Form und Materie (Stoff)","dichte"],
- ["Dichte","Masse I (phys.)","","5","826f.","ref",1878,"Masse, Massen","dichte"],
+ ["Dichte","Masse","I (phys.)","5","826f.","ref",1878,"Masse, Massen","dichte"],
  ["Dichter","Schriftsteller","",null,null,"ref",2783,"Schriftsteller","dichter"],
  ["Dichter","Nachahmung der Natur","","6","339f.","ref",2056,"Nachahmung der Natur","dichter"],
  ["Dichter","Natur, zweite","II","6","489","ref",2077,"Natur, zweite","dichter"],
@@ -305,7 +386,11 @@ HWPH.put("r/64-69",
  ],
  ["Dichtkunst","Kunst; Dichtung","",null,null,"ref",1712,"Kunst, Kunstwerk","dichtkunst"],
  ["Dichtkunst","Poetik","",null,null,"ref",2389,"Poetik","dichtkunst"],
- ["Dichtkunst, kritische","Kritik","",null,null,"ref",1694,"Kritik","dichtkunst, kritische"],
+ [
+  "Dichtkunst, kritische","Kritik; Literaturkritik","II","4","1288","ref",1695,
+  "Kritik, Literaturkritik","dichtkunst, kritische"
+ ],
+ ["Dichtkunst, neologische","Neologie","","6","719","ref",2110,"Neologie","dichtkunst, neologische"],
  ["Dichtung","Kunst; Dichtung","",null,null,"ref",1712,"Kunst, Kunstwerk","dichtung"],
  ["Dichtung","Poesie","",null,null,"ref",2387,"Poesie","dichtung"],
  ["Dichtung","Kunst; Kunstwerk","I","4","1363f.","ref",1712,"Kunst, Kunstwerk","dichtung"],
@@ -344,7 +429,12 @@ HWPH.put("r/64-69",
  ["dieu caché","Verborgenheit Gottes","",null,null,"ref",3384,"Verborgenheit Gottes","dieu cache"],
  ["dieu perdu","Tod Gottes","","10","1242","ref",3198,"Tod Gottes","dieu perdu"],
  ["Diffamierung","Distanz, soziale","(Simmel)","2","269","ref",617,"Distanz, soziale","diffamierung"],
- ["différance","Philosophie","IV",null,null,"ref",2353,"Philosophie","differance"],
+ ["différance","Philosophie","IV L","7","794","ref",2353,"Philosophie","differance"],
+ ["différance","Schrift","II (Derrida)","8","1429f.","ref",2781,"Schrift","differance"],
+ ["différance","Spät","","9","1310","ref",2963,"Spät","differance"],
+ ["différance","Struktur","II (frz. Struktural.)","10","319","ref",3040,"Struktur","differance"],
+ ["différance","System","II","10","851","ref",3115,"System; Systematik; systematisch","differance"],
+ ["différance","Zeit","VI","12","1240","ref",3676,"Zeit","differance"],
  ["différence","Unterschied","",null,null,"ref",3327,"Unterschied","difference"],
  ["différence","Widerspruch","","12","697","ref",3607,"Widerspruch","difference"],
  [
@@ -431,7 +521,15 @@ HWPH.put("r/64-69",
  ],
  ["Differenz","Verschiedenheit","",null,null,"see",3430,"Verschiedenheit","differenz"],
  [
-  "Differenz, ontologische","Ontologie","",null,null,"ref",2218,"Ontologie",
+  "Differenz, ontologische","Ontologie","3d","6","1197","ref",2218,"Ontologie",
+  "differenz, ontologische"
+ ],
+ [
+  "Differenz, ontologische","Sein; Seiendes","II","9","184","ref",2806,"Sein; Seiendes",
+  "differenz, ontologische"
+ ],
+ [
+  "Differenz, ontologische","Theologik","","10","1112","ref",3175,"Theologik",
   "differenz, ontologische"
  ],
  [
@@ -439,13 +537,25 @@ HWPH.put("r/64-69",
   "Differenz, ontologische","differenz, ontologische"
  ],
  [
-  "Differenz, ontologische","Sein; Seiendes","V",null,null,"see",2806,"Sein; Seiendes",
+  "Differenz, ontologische","Sein; Seiendes","V 6",null,null,"see",2806,"Sein; Seiendes",
   "differenz, ontologische"
  ],
  ["Differenz, topische","Topik","II","10","1270f.","ref",3203,"Topik; Topos","differenz, topische"],
  [
   "Differenzierung","Differenzierung","","2","237–242","main",596,"Differenzierung",
   "differenzierung"
+ ],
+ [
+  "Differenzierung","Entwicklungsmechanik","",null,null,"see",761,
+  "Entwicklungsmechanik, Entwicklungsphysiologie","differenzierung"
+ ],
+ ["Differenzierung","Zelle","",null,null,"see",3681,"Zelle","differenzierung"],
+ ["Differenzierung","Entwicklung","II (psych.)",null,null,"see",759,"Entwicklung","differenzierung"],
+ ["Differenzierung","Gestalt","II (psych.)",null,null,"see",1116,"Gestalt","differenzierung"],
+ ["Differenzierung","Hierarchisierung","",null,null,"see",1272,"Hierarchisierung","differenzierung"],
+ [
+  "Differenzierung","Psychologie, differentielle","",null,null,"see",2513,
+  "Psychologie, differentielle","differenzierung"
  ],
  [
   "Differenzierung, soziale","Stratifikation","II (soz.)","10","269","ref",3037,"Stratifikation",
@@ -488,7 +598,11 @@ HWPH.put("r/64-69",
  ["Dike","Gerechtigkeit","",null,null,"see",1083,"Gerechtigkeit","dike"],
  ["Diktatur","Diktatur","","2","245–247","main",600,"Diktatur","diktatur"],
  ["Diktatur","Cäsarismus","",null,null,"see",464,"Cäsarismus","diktatur"],
- ["Diktatur","Despotie Diktatur, demokratische","",null,null,"see",null,null,"diktatur"],
+ ["Diktatur","Despotie","",null,null,"see",571,"Despotie, Despotismus","diktatur"],
+ [
+  "Diktatur, demokratische","Mehrheit; Mehrheitsprinzip","","5","1008","ref",1909,
+  "Mehrheit, Mehrheitsprinzip","diktatur, demokratische"
+ ],
  [
   "Diktatur, kommissarische/souveräne","Cäsarismus","","1","971","ref",464,"Cäsarismus",
   "diktatur, kommissarische/souverane"
@@ -563,7 +677,7 @@ HWPH.put("r/64-69",
  ["Dingler-Komplex","Letztbegründung","","5","252","ref",1784,"Letztbegründung","dingler-komplex"],
  ["Dingmystik","Dingmystik","","2","255","main",605,"Dingmystik","dingmystik"],
  [
-  "Dingschema","Schema; Schematismus I (allg.)","","8","1256f.","ref",2760,"Schema, Schematismus",
+  "Dingschema","Schema; Schematismus","I (allg.)","8","1256f.","ref",2760,"Schema, Schematismus",
   "dingschema"
  ],
  [
@@ -592,7 +706,7 @@ HWPH.put("r/64-69",
  ],
  ["Disciplina","Quadrivium","",null,null,"see",2541,"Quadrivium","disciplina"],
  ["Disciplina","Trivium","",null,null,"see",3232,"Trivium","disciplina"],
- ["disciplina","Methode","III",null,null,"ref",1955,"Methode","disciplina"],
+ ["disciplina","Methode","III 1",null,null,"ref",1955,"Methode","disciplina"],
  ["disciplina","Technik","",null,null,"ref",3139,"Technik","disciplina"],
  ["disciplina","Wissenschaft","I",null,null,"ref",3635,"Wissenschaft","disciplina"],
  ["disciplina","Lernen","I (päd.)","5","242","ref",1782,"Lernen","disciplina"],
@@ -627,7 +741,8 @@ HWPH.put("r/64-69",
  ["discovery","Genie","II","3","283","ref",1071,"Genie","discovery"],
  ["discredit","Verachtung","","11","564","ref",3379,"Verachtung; Mißachtung","discredit"],
  ["discretio","Bescheidenheit","",null,null,"ref",394,"Bescheidenheit","discretio"],
- ["discretio","Mass discretio personalis","",null,null,"ref",null,null,"discretio"],
+ ["discretio","Mass","",null,null,"ref",1877,"Maß","discretio"],
+ ["discretio personalis","Geist","IV","3","172","ref",1030,"Geist","discretio personalis"],
  ["discreto","Verstellung","","11","939","ref",3439,"Verstellung","discreto"],
  ["discretum discernens","Person","II","7","286","ref",2318,"Person","discretum discernens"],
  [
@@ -640,7 +755,8 @@ HWPH.put("r/64-69",
   "discursus syllogisticus","Vernunft; Verstand","III D","11","784","ref",3423,"Vernunft; Verstand",
   "discursus syllogisticus"
  ],
- ["disdain","Verachtung disease","",null,null,"ref",null,null,"disdain"],
+ ["disdain","Verachtung","",null,null,"ref",3379,"Verachtung; Mißachtung","disdain"],
+ ["disease","Krankheit","",null,null,"ref",1681,"Krankheit","disease"],
  ["disegno","Zeichnung","",null,null,"ref",3674,"Zeichnung","disegno"],
  ["disestablishment","Establishment","","2","756","ref",833,"Establishment","disestablishment"],
  ["disguised","Verhüllte, der","",null,null,"ref",3408,"Verhüllte, der","disguised"],
@@ -690,7 +806,8 @@ HWPH.put("r/64-69",
  ["diskursiv","Intuition","",null,null,"ref",1487,"Intuition","diskursiv"],
  ["diskursiv","Vernunft; Verstand","IV",null,null,"ref",3423,"Vernunft; Verstand","diskursiv"],
  ["Diskussion","Diskussion","","2","262","main",612,"Diskussion","diskussion"],
- ["Diskussion","Dezision (Schmitt) disobedience","",null,null,"see",null,null,"diskussion"],
+ ["Diskussion","Dezision","(Schmitt)",null,null,"see",578,"Dezision, Dezisionismus","diskussion"],
+ ["disobedience","Ungehorsam, ziviler","",null,null,"ref",3295,"Ungehorsam, ziviler","disobedience"],
  ["disorder of living","Schizophrenie","","8","1292","ref",2765,"Schizophrenie","disorder of living"],
  ["Disparatheit","Verschiedenheit","","11","882","ref",3430,"Verschiedenheit","disparatheit"],
  ["dispensatio","Ökonomie","II (theol.)",null,null,"ref",2210,"Ökonomie","dispensatio"],
@@ -703,11 +820,15 @@ HWPH.put("r/64-69",
  ["dispositio","Ökonomie","II (theol.)",null,null,"ref",2210,"Ökonomie","dispositio"],
  ["dispositio","Anlass","","1","326","ref",152,"Anlaß","dispositio"],
  [
-  "dispositio","Invention; Erfindung II (ästh.)","","4","548","ref",1490,
+  "dispositio","Invention; Erfindung","II (ästh.)","4","548","ref",1490,
   "Invention, Erfindung, Entdeckung","dispositio"
  ],
  ["dispositio","Rhetorik","","8","1018","ref",2713,"Rhetorik, Redekunst","dispositio"],
  ["Disposition","Disposition","","2","262–266","main",613,"Disposition","disposition"],
+ ["Disposition","Anlage","I (anthr.)",null,null,"see",151,"Anlage","disposition"],
+ ["Disposition","Hexis; habitus","",null,null,"see",null,null,"disposition"],
+ ["Disposition","Anlage","II (psych.)",null,null,"see",151,"Anlage","disposition"],
+ ["Disposition","Eigenschaft","III (psych.)",null,null,"see",666,"Eigenschaft","disposition"],
  ["Disposition","Engramm","","2","503","ref",742,"Engramm","disposition"],
  ["Disposition","Psychologie","","7","1639","ref",2511,"Psychologie","disposition"],
  ["Disposition","Seele","V","9","74","ref",2794,"Seele","disposition"],
@@ -737,20 +858,14 @@ HWPH.put("r/64-69",
   "Beobachtungssprache/theoretische Sprache","dispositionsbegriff"
  ],
  [
-  "Dispositionsbegriff","Konstitutionssystem (Carnap) Dispositive","",null,null,"see",null,null,
-  "dispositionsbegriff"
+  "Dispositionsbegriff","Konstitutionssystem","(Carnap)",null,null,"see",1628,
+  "Konstitutionssystem, Konstitutionstheorie","dispositionsbegriff"
  ],
+ ["Dispositive","Wissen","VII","12","901","ref",3634,"Wissen","dispositive"],
  ["disproportion","Selbsterkenntnis","III","9","424","ref",2833,"Selbsterkenntnis","disproportion"],
- [
-  "disputatio","Obligatio; Ars obligatoria II (log.)","",null,null,"ref",2194,
-  "Obligatio, Ars obligatoria","disputatio"
- ],
- ["disputatio","These","",null,null,"ref",3186,"These","disputatio"],
- [
-  "disputatio","Philosophie","V B (institut. Formen)","7","806f.","ref",2353,"Philosophie",
-  "disputatio"
- ],
- ["dissémination","Philosophie","IV",null,null,"ref",2353,"Philosophie","dissemination"],
+ ["disputatio","Obligatio; Ars","",null,null,"ref",2194,"Obligatio, Ars obligatoria","disputatio"],
+ ["dissémination","Philosophie","IV L","7","794","ref",2353,"Philosophie","dissemination"],
+ ["dissémination","Zerstreuung","I (anthr.)","12","1312","ref",3690,"Zerstreuung","dissemination"],
  ["dissensus","Zustimmung","","12","1461","ref",3715,"Zustimmung","dissensus"],
  [
   "dissenters","Verweigerung; Dissidenz","II","11","1003","ref",3451,"Verweigerung; Dissidenz",
@@ -791,7 +906,7 @@ HWPH.put("r/64-69",
  ["Dissoziation","Hypnose","","3","1243f.","ref",1325,"Hypnose","dissoziation"],
  ["Dissoziation","Hysterie","","3","1270","ref",1332,"Hysterie, hysterisch","dissoziation"],
  [
-  "Dissoziation","Invention; Erfindung IV (psych.)","","4","567","ref",1490,
+  "Dissoziation","Invention; Erfindung","IV (psych.)","4","567","ref",1490,
   "Invention, Erfindung, Entdeckung","dissoziation"
  ],
  [
@@ -821,7 +936,7 @@ HWPH.put("r/64-69",
  ["Distanzierung","Distanzierung","","2","269f.","main",618,"Distanzierung","distanzierung"],
  ["Distanzierung","Anpassung","",null,null,"see",159,"Anpassung","distanzierung"],
  [
-  "Distanzlosigkeit","Distanz, ästhetische διστάζειν","",null,null,"ref",616,
+  "Distanzlosigkeit","Distanz, ästhetische","",null,null,"ref",616,
   "Distanz/Distanzlosigkeit, ästhetische","distanzlosigkeit"
  ],
  ["distensio motus","Zeit","III A","12","1213","ref",3676,"Zeit","distensio motus"],
@@ -872,6 +987,10 @@ HWPH.put("r/64-69",
  [
   "distinctio formalis","Substanz","II","10","515","ref",3062,"Substanz; Substanz/Akzidens",
   "distinctio formalis"
+ ],
+ [
+  "distinctio incommunicabilitatis","Person","II","7","287","ref",2318,"Person",
+  "distinctio incommunicabilitatis"
  ],
  [
   "distinctio materialis","Differentia numerica","",null,null,"ref",593,"Differentia numerica",
@@ -940,13 +1059,11 @@ HWPH.put("r/64-69",
   "Verteilungsgerechtigkeit","distributive justice"
  ],
  [
-  "Disziplin s. auch","Register der Sachgruppen: Disziplinen und Fächer Disziplin","",null,null,
-  "ref",null,null,"disziplin s. auch"
+  "Disziplin","Register der Sachgruppen: Disziplinen und Fächer Disziplin","",null,null,"see",null,
+  null,"disziplin"
  ],
- [
-  "Disciplina Disziplinierung","Disciplina Disziplinierung","",null,null,"main",null,null,
-  "disciplina disziplinierung"
- ],
+ ["Disciplina","Disciplina","",null,null,"main",607,"Disciplina, doctrina","disciplina"],
+ ["Disziplinierung","Strafe","V (päd./psych.)",null,null,"ref",3035,"Strafe","disziplinierung"],
  ["Diversion","Zerstreuung","I (anthr.)","12","1312","ref",3690,"Zerstreuung","diversion"],
  ["diversitas","Differenz","",null,null,"ref",594,"Differenz","diversitas"],
  ["diversitas","Verschiedenheit","",null,null,"ref",3430,"Verschiedenheit","diversitas"],
@@ -988,143 +1105,17 @@ HWPH.put("r/64-69",
   "divisiv/konstitutiv","Unterschied, spezifischer","","11","317","ref",3328,
   "Unterschied, spezifischer","divisiv/konstitutiv"
  ],
- ["Diktatur","Diktatur","","2","246","main",600,"Diktatur","diktatur"],
- ["Diktatur","Fetischismus","II","2","941","ref",911,"Fetischismus","diktatur"],
- ["Diktatur","Wissenschaft","III","12","928f.","ref",3635,"Wissenschaft","diktatur"],
- ["Dialog","Dialog","","2","227f.","main",585,"Dialog, dialogisch","dialog"],
- ["Dialog","Philosophie","IV E","7","722","ref",2353,"Philosophie","dialog"],
- ["Disposition","Disposition","II (psych.)",null,null,"main",613,"Disposition","disposition"],
- ["Disposition","Spur","","9","1554","ref",2997,"Spur","disposition"],
- ["Dialektik","Dialektik","IV",null,null,"main",583,"Dialektik","dialektik"],
- ["dialektischer","Materialismus","",null,null,"ref",1886,"Materialismus","dialektischer"],
+ [
+  "dialektischer","Materialismus, historischer","",null,null,"ref",1886,"Materialismus",
+  "dialektischer"
+ ],
  ["Diskussion","Diskussion","","2","262","main",612,"Diskussion","diskussion"],
- ["Distanzierung","Distanzierung","","2","270","main",618,"Distanzierung","distanzierung"],
- [
-  "dialektische 5 389–402 s. auch","Dialektik","IV",null,null,"ref",583,"Dialektik",
-  "dialektische 5 389–402 s. auch"
- ],
- [
-  "dialektische 5 389–402 s. auch","Logik, transzendentale","",null,null,"ref",1819,
-  "Logik, transzendentale","dialektische 5 389–402 s. auch"
- ],
- [
-  "dialektische I 5 394","Logik, operative","","5","444–452","ref",1816,"Logik, operative",
-  "dialektische i 5 394"
- ],
- [
-  "dialektische I 5 394","Intuitionismus","III (log./math.)",null,null,"see",1488,"Intuitionismus",
-  "dialektische i 5 394"
- ],
- ["dialektische I 5 394","Kalkül","",null,null,"see",1521,"Kalkül","dialektische i 5 394"],
- [
-  "dialektische I 5 394","Operativismus","(Dingler)",null,null,"see",2228,"Operativismus",
-  "dialektische i 5 394"
- ],
- ["dialektische","Transzendental","V",null,null,"ref",3219,"Transzendental","dialektische"],
- ["Dialektik","Dialektik","III","2","179","main",583,"Dialektik","dialektik"],
- [
-  "Dialektik","Imperativ, kategorischer","I","4","244f.","ref",1395,
-  "Imperative, kategorischer Imperativ","dialektik"
- ],
- ["Dialektik","Prinzip","III 4","7","1365","ref",2458,"Prinzip","dialektik"],
- [
-  "dialektische I Metaphysik, allgemeine/besondere","Kosmologie","",null,null,"ref",1676,
-  "Kosmologie","dialektische i metaphysik, allgemeine/besondere"
- ],
- [
-  "dialektische I Metaphysik, allgemeine/besondere","Metaphysik","VI","5","1249f.","ref",1944,
-  "Metaphysik","dialektische i metaphysik, allgemeine/besondere"
- ],
- [
-  "dialektische I Metaphysik, allgemeine/besondere","Ontologie","","6","1189","ref",2218,"Ontologie",
-  "dialektische i metaphysik, allgemeine/besondere"
- ],
- ["Dialektik","Dialektik","IV",null,null,"main",583,"Dialektik","dialektik"],
- ["Dialektik","Kritik, immanente","","4","1292","ref",1696,"Kritik, immanente","dialektik"],
- ["dialektische I 5 390","Negation","",null,null,"ref",2100,"Negation","dialektische i 5 390"],
- [
-  "dialektische I 5 394 objektive Gewissheit","Subjekt","",null,null,"ref",3047,"Subjekt",
-  "dialektische i 5 394 objektive gewissheit"
- ],
- ["Disposition","Disposition","I (erk.)",null,null,"main",613,"Disposition","disposition"],
- ["Dialektik","Dialektik","III","2","180","main",583,"Dialektik","dialektik"],
  ["Diskussion","Diskussion","","2","262","main",612,"Diskussion","diskussion"],
- ["Dilemma","Dilemma","",null,null,"main",601,"Dilemma","dilemma"],
- ["Dilemma","Regressus/Progressus","",null,null,"ref",2649,"Regressus/progressus","dilemma"],
- ["Dilemma","Mitte","","5","1423","ref",1985,"Mitte","dilemma"],
- [
-  "dialektische spekulative Vernunft","Vernunft; Verstand","VI","11","828f.","ref",3423,
-  "Vernunft; Verstand","dialektische spekulative vernunft"
- ],
- ["Disposition","Disposition","I (erk.)","2","264","main",613,"Disposition","disposition"],
- ["Disposition","Disposition","II (psych.)",null,null,"ref",613,"Disposition","disposition"],
- ["Disposition","Gedächtnis","","3","38","ref",996,"Gedächtnis","disposition"],
- [
-  "Disposition","Ontologie, trinitarische","","6","1201","ref",2220,"Ontologie, trinitarische",
-  "disposition"
- ],
- ["Disposition","Präsenz","","7","1263","ref",2444,"Präsenz","disposition"],
- ["Disposition","Repräsentation","I 2","8","791f.","ref",2686,"Repräsentation","disposition"],
- ["Disposition","Schrift","II (Derrida)","8","1430f.","ref",2781,"Schrift","disposition"],
- ["Disposition","Zeit","VI","12","1241","ref",3676,"Zeit","disposition"],
- [
-  "dialektische 10 1099–1101 s. auch","Dialektik","V",null,null,"ref",583,"Dialektik",
-  "dialektische 10 1099–1101 s. auch"
- ],
- [
-  "dialektische 10 1099–1101 s. auch","Wort","II (theol.)",null,null,"ref",3656,"Wort",
-  "dialektische 10 1099–1101 s. auch"
- ],
- ["dialektische 10 1099","Theologik","","10","1112f.","ref",3175,"Theologik","dialektische 10 1099"],
- [
-  "dialektische 10 1099","Erste Philosophie","",null,null,"see",816,"Erste Philosophie",
-  "dialektische 10 1099"
- ],
- ["dialektische 10 1099","Metaphysik","",null,null,"see",1944,"Metaphysik","dialektische 10 1099"],
+ ["Dialektik","Dialektik","IV 7. 3","2","220","main",583,"Dialektik","dialektik"],
+ ["Dialektik","System","II","10","849ff.","ref",3115,"System; Systematik; systematisch","dialektik"],
  ["Didaktik","Didaktik","",null,null,"main",592,"Didaktik","didaktik"],
- ["Didaktik","Disciplina II","",null,null,"ref",607,"Disciplina, doctrina","didaktik"],
+ ["Didaktik","Disciplina","II",null,null,"ref",607,"Disciplina, doctrina","didaktik"],
  ["Didaktik","Methode, pädagogische","","5","1361","ref",1962,"Methode, pädagogische","didaktik"],
- [
-  "dialektische Uroffenbarung","Urmonotheismus","","11","366","ref",3345,"Urmonotheismus",
-  "dialektische uroffenbarung"
- ],
- [
-  "dialektische I 5 396","Offenbarung","II","6","1111","ref",2203,"Offenbarung",
-  "dialektische i 5 396"
- ],
- [
-  "dialektische I 5 396","Philosophie","IV E","7","715","ref",2353,"Philosophie",
-  "dialektische i 5 396"
- ],
- ["dialektische I 5 396","Reflexion","","8","401","ref",2634,"Reflexion","dialektische i 5 396"],
- [
-  "dialektische I 5 396","Rest, metaphysischer","","8","924","ref",2696,"Rest, metaphysischer",
-  "dialektische i 5 396"
- ],
- ["dialektische I 5 396","Selbst","II","9","298","ref",2820,"Selbst","dialektische i 5 396"],
- [
-  "dialektische I 5 396","Sittlichkeit; Sittenlehre","","9","909","ref",2903,
-  "Sittlichkeit; Sittenlehre","dialektische i 5 396"
- ],
- [
-  "dialektische I 5 396","Vernunftwahrheiten/Tatsachenwahrheiten","","11","871","ref",3427,
-  "Vernunftwahrheiten/Tatsachenwahrheiten","dialektische i 5 396"
- ],
- ["Dialekt","Dialekt","",null,null,"main",582,"Dialekt","dialekt"],
- ["Dialekt","Sprache","II","9","1462","ref",2985,"Sprache","dialekt"],
- ["Dialekt","Umgangssprache","II","11","88","ref",3273,"Umgangssprache","dialekt"],
- [
-  "dialektische I 5 393 Welten, viele","Einwelttheorie/Mehrweltentheorie","",null,null,"ref",693,
-  "Einwelttheorie/Mehrweltentheorie","dialektische i 5 393 welten, viele"
- ],
- [
-  "dialektische I 5 393 Welten, viele","Universum","","11","224","ref",3310,"Universum",
-  "dialektische i 5 393 welten, viele"
- ],
- [
-  "dialektische I 5 393 Weltsystem, geozentrisches","Geozentrisch Weltsystem, heliozentrisches","",
-  null,null,"ref",null,null,"dialektische i 5 393 weltsystem, geozentrisches"
- ],
  ["Di Cesare Donatella","Moment","I (nat.)","6","96–99","author",2009,"Moment","di cesare donatella"],
  ["Di Cesare Donatella","Stimme","","10","159–170","author",3025,"Stimme","di cesare donatella"],
  ["Diemer Alwin","Bewusstsein","","1","888–896","author",412,"Bewußtsein","diemer alwin"],
@@ -1151,7 +1142,7 @@ HWPH.put("r/64-69",
  ["Dierse Ulrich","Atavismus","","1","593–595","author",273,"Atavismus","dierse ulrich"],
  ["Dierse Ulrich","Chaos","II","1","981–984","author",484,"Chaos","dierse ulrich"],
  [
-  "Dierse Ulrich","Despotie I (allg.)","","2","132–144","author",570,"Désintéressement",
+  "Dierse Ulrich","Despotie","I (allg.)","2","132–144","author",570,"Désintéressement",
   "dierse ulrich"
  ],
  ["Dierse Ulrich","Einsamkeit","II","2","410–413","author",688,"Einsamkeit","dierse ulrich"],
@@ -1180,7 +1171,7 @@ HWPH.put("r/64-69",
   "Dierse Ulrich","Gottesaufweis","(Scheler)","3","818","author",1164,"Gottesaufweis",
   "dierse ulrich"
  ],
- ["Dierse Ulrich","Ideologie","",null,null,"author",1373,"Ideologie","dierse ulrich"],
+ ["Dierse Ulrich","Ideologie I.","III","4","158–164","author",1373,"Ideologie","dierse ulrich"],
  ["Dierse Ulrich","Idylle","","4","192–197","author",1380,"Idylle","dierse ulrich"],
  ["Dierse Ulrich","Leben","V","5","71–97","author",1735,"Leben","dierse ulrich"],
  ["Dierse Ulrich","Liberalismus","I","5","256–259","author",1787,"Liberalismus","dierse ulrich"],
@@ -1205,14 +1196,17 @@ HWPH.put("r/64-69",
   "Dierse Ulrich","Persönlichkeit","I (allg.)","7","345–352","author",2322,"Persönlichkeit",
   "dierse ulrich"
  ],
- ["Dierse Ulrich","Philosophie","IV",null,null,"author",2353,"Philosophie","dierse ulrich"],
+ [
+  "Dierse Ulrich","Philosophie IV C; IV F (Einteilung der Philos./Neuzeit);",
+  "V D 2 (institut. Formen)","7","698–709","author",2353,"Philosophie","dierse ulrich"
+ ],
  ["Dierse Ulrich","Prophetie","II","7","1475–1478","author",2482,"Prophetie","dierse ulrich"],
  [
   "Dierse Ulrich","Pythagoreismus","II","7","1724–1729","author",2539,"Pythagoreismus",
   "dierse ulrich"
  ],
  ["Dierse Ulrich","Radikal Böses","","8","6–11","author",2562,"Radikal Böses","dierse ulrich"],
- ["Dierse Ulrich","Religion","",null,null,"author",2673,"Religion","dierse ulrich"],
+ ["Dierse Ulrich","Religion I.","VI","8","632f.","author",2673,"Religion","dierse ulrich"],
  ["Dierse Ulrich","Seelenruhe","II","9","95–105","author",2797,"Seelenruhe","dierse ulrich"],
  ["Dierse Ulrich","Sekte","II 2","9","284–288","author",2818,"Sekte","dierse ulrich"],
  ["Dierse Ulrich","Selbstdenken","","9","386–392","author",2831,"Selbstdenken","dierse ulrich"],

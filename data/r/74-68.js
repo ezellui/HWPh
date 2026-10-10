@@ -1,14 +1,10 @@
 HWPH.put("r/74-68",
 [
- [
-  "Therapie II (philos.)","Therapie II (philos.)","","10","1165","main",3184,"Therapie; Therapeutik",
-  "therapie ii (philos.)"
- ],
- ["Theosophie","Theosophie","","10","1159","main",3182,"Theosophie","theosophie"],
- ["Theonomie","Theonomie","",null,null,"main",3176,"Theonomie","theonomie"],
- ["Theophanie","Theophanie","","10","1117","main",3177,"Theophanie","theophanie"],
  ["Thanatismus","Thanatismus","(Haeckel)","10","1050f.","main",3161,"Thanatismus","thanatismus"],
- ["Thanatismus","Athanismus (Haeckel) θάνατος","",null,null,"see",null,null,"thanatismus"],
+ [
+  "Thanatismus","Athanismus","(Haeckel)",null,null,"see",275,"Athanismus (Athanatismus)",
+  "thanatismus"
+ ],
  [
   "thaumaturgia aesthetica","Staunen","","10","121","ref",3015,"Staunen; Bewunderung; Verwunderung",
   "thaumaturgia aesthetica"
@@ -32,8 +28,13 @@ HWPH.put("r/74-68",
  ["Thelematologie","Streben","","10","285","ref",3038,"Streben","thelematologie"],
  ["Theletik","Noetik","","6","874","ref",2148,"Noetik","theletik"],
  ["Thema","Thema","","10","1059–1065","main",3165,"Thema","thema"],
- ["Thema","Setzen – I (rhet.)","","10","1059–1061","see",3165,"Thema","thema"],
+ ["Thema","Setzen","",null,null,"see",2876,"Setzen, Setzung","thema"],
  ["Thema","These","",null,null,"see",3186,"These","thema"],
+ [
+  "Thema","Bewusstsein, positionales","(Husserl)",null,null,"see",416,"Bewußtsein, positionales",
+  "thema"
+ ],
+ ["Thema","Motiv","III (ästh.)",null,null,"see",2033,"Motiv","thema"],
  ["thema","Aufgabe; aufgegeben","","1","618","ref",287,"Aufgabe, aufgegeben","thema"],
  ["thema","Proposition","","7","1514","ref",2484,"Proposition","thema"],
  ["thema","Ramismus; Semiramismus","","8","16","ref",2564,"Ramismus, Semiramismus","thema"],
@@ -58,7 +59,7 @@ HWPH.put("r/74-68",
  ["Theokrasie","Theogonie","","10","1074","ref",3167,"Theogonie","theokrasie"],
  ["Theokratie","Theokratie","","10","1075–1080","main",3168,"Theokratie","theokratie"],
  ["Theokratie","Nomokratie","",null,null,"ref",2153,"Nomokratie","theokratie"],
- ["Theokratie","Despotie I (allg.)","","2","143","ref",571,"Despotie, Despotismus","theokratie"],
+ ["Theokratie","Despotie","I (allg.)","2","143","ref",571,"Despotie, Despotismus","theokratie"],
  ["theologia accurata","Theologie","","10","1088","ref",3169,"Theologie","theologia accurata"],
  [
   "theologia archetypos/ektypos","Theologie","","10","1088","ref",3169,"Theologie",
@@ -91,7 +92,10 @@ HWPH.put("r/74-68",
  ["theologia in se/in nobis","Wissen","II","12","872","ref",3634,"Wissen","theologia in se/in nobis"],
  ["theologia moralis","Moraltheologie","",null,null,"ref",2031,"Moraltheologie","theologia moralis"],
  ["theologia mystica","Geist","V","3","174","ref",1030,"Geist","theologia mystica"],
- ["theologia naturalis","Religion","",null,null,"ref",2673,"Religion","theologia naturalis"],
+ [
+  "theologia naturalis","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "theologia naturalis"
+ ],
  [
   "theologia negativa","Theologie, negative","",null,null,"ref",3173,"Theologie, negative",
   "theologia negativa"
@@ -112,7 +116,10 @@ HWPH.put("r/74-68",
   "Philosophie, immerwährende","theologia prisca"
  ],
  ["theologia propria","Geist","V","3","174","ref",1030,"Geist","theologia propria"],
- ["theologia rationalis","Religion","",null,null,"ref",2673,"Religion","theologia rationalis"],
+ [
+  "theologia rationalis","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "theologia rationalis"
+ ],
  [
   "theologia scholastica","Positiv; Positivität","I","7","1109","ref",2408,"Positiv, Positivität",
   "theologia scholastica"
@@ -123,9 +130,12 @@ HWPH.put("r/74-68",
   "Via causalitatis; via negationis; via eminentiae","theologia secretissima"
  ],
  [
-  "theologia supernaturalis","Religion","",null,null,"ref",2673,"Religion",
-  "theologia supernaturalis"
+  "theologia supernaturalis","Religion, natürliche bzw. vernünftige","","8","716","ref",2674,
+  "Religion","theologia supernaturalis"
  ],
+ ["theologia symbolica","Geist","V","3","174","ref",1030,"Geist","theologia symbolica"],
+ ["theologia symbolica","Symbol","I","10","715ff.","ref",3093,"Symbol","theologia symbolica"],
+ ["theologia symbolica","Symbol","III","10","738","ref",3093,"Symbol","theologia symbolica"],
  [
   "theologia terminiloqua","Philosophie","III E","7","676","ref",2353,"Philosophie",
   "theologia terminiloqua"
@@ -141,7 +151,7 @@ HWPH.put("r/74-68",
   "theologia tripertita"
  ],
  ["theologia viatorum","Theologie","","10","1086","ref",3169,"Theologie","theologia viatorum"],
- ["Theologie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"theologie s. auch"],
+ ["Theologie","Register der Sachgruppen","",null,null,"see",null,null,"theologie"],
  ["Theologie","Theologie","","10","1080–1095","main",3169,"Theologie","theologie"],
  ["Theologie","Fundamentaltheologie","",null,null,"see",969,"Fundamentaltheologie","theologie"],
  ["Theologie","Gefühlstheologie","",null,null,"see",1015,"Gefühlstheologie","theologie"],
@@ -150,7 +160,7 @@ HWPH.put("r/74-68",
  ["Theologie","Ontotheologie","",null,null,"see",2225,"Ontotheologie","theologie"],
  ["Theologie","Philosophie","",null,null,"see",2353,"Philosophie","theologie"],
  ["Theologie","Philosophie","II E",null,null,"ref",2353,"Philosophie","theologie"],
- ["Theologie","Philosophie","III B",null,null,"ref",2353,"Philosophie","theologie"],
+ ["Theologie","Philosophie","III B 2",null,null,"ref",2353,"Philosophie","theologie"],
  ["Theologie","Wort","II (theol.)",null,null,"ref",3656,"Wort","theologie"],
  ["Theologie","Naturphilosophie","III","6","545","ref",2088,"Naturphilosophie","theologie"],
  ["Theologie","Philosophie","V B (institut. Formen)","7","814","ref",2353,"Philosophie","theologie"],
@@ -165,13 +175,24 @@ HWPH.put("r/74-68",
   "Theologie, christliche natürliche","Anknüpfung","","1","321","ref",150,
   "Anknüpfung, Anknüpfungspunkt","theologie, christliche naturliche"
  ],
- ["Theologie","Theologie","",null,null,"main",3169,"Theologie","theologie"],
+ [
+  "Theologie, dialektische","Theologie, dialektische","","10","1099–1101","main",3171,
+  "Theologie, Dialektische","theologie, dialektische"
+ ],
+ [
+  "Theologie, dialektische","Dialektik","V",null,null,"see",583,"Dialektik",
+  "theologie, dialektische"
+ ],
+ [
+  "Theologie, dialektische","Wort","II (theol.)",null,null,"see",3656,"Wort",
+  "theologie, dialektische"
+ ],
  [
   "Theologie, dialektische","Mitteilung; Mitteilbarkeit","","5","1429","ref",1986,
   "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","theologie, dialektische"
  ],
  [
-  "Theologie, dialektische","Paradox II (theol.)","","7","93","ref",2270,
+  "Theologie, dialektische","Paradox","II (theol.)","7","93","ref",2270,
   "Paradox, Paradox(e), Paradoxie","theologie, dialektische"
  ],
  [
@@ -190,7 +211,10 @@ HWPH.put("r/74-68",
   "Theologie, mystische","Philosophie","II E","7","652","ref",2353,"Philosophie",
   "theologie, mystische"
  ],
- ["Theologie, natürliche","Religion","",null,null,"ref",2673,"Religion","theologie, naturliche"],
+ [
+  "Theologie, natürliche","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "theologie, naturliche"
+ ],
  [
   "Theologie, negative","Theologie, negative","","10","1102–1105","main",3173,"Theologie, negative",
   "theologie, negative"
@@ -212,39 +236,85 @@ HWPH.put("r/74-68",
   "theologie, negative"
  ],
  [
-  "Theologie, negative","Via causalitatis/negationis/eminentiae Theologie, polemische","",null,null,
-  "see",3460,"Via causalitatis; via negationis; via eminentiae","theologie, negative"
+  "Theologie, negative","Via causalitatis/negationis/eminentiae","",null,null,"see",3460,
+  "Via causalitatis; via negationis; via eminentiae","theologie, negative"
+ ],
+ [
+  "Theologie, polemische","Methode, polemische","",null,null,"ref",1964,"Methode, polemische",
+  "theologie, polemische"
+ ],
+ ["Theologie, polemische","These","II","10","1178","ref",3186,"These","theologie, polemische"],
+ [
+  "Theologie, polemische","Widerlegung","","12","682","ref",3605,"Widerlegung",
+  "theologie, polemische"
  ],
  [
   "Theologie, politische","Theologie, politische","","10","1105–1112","main",3174,
   "Theologie, politische","theologie, politische"
  ],
  [
-  "Theologie, politische","Zivilreligion Theologie, politische","",null,null,"see",null,null,
+  "Theologie, politische","Zivilreligion","",null,null,"see",3701,"Zivilreligion; Ziviltheologie",
+  "theologie, politische"
+ ],
+ [
+  "Theologie, politische","Säkularisierung","","8","1141f.","ref",2738,"Säkularisierung",
   "theologie, politische"
  ],
  [
   "Theologie, positive","Positiv; Positivität","I","7","1110","ref",2408,"Positiv, Positivität",
   "theologie, positive"
  ],
- ["Theologie, rationale","Religion","",null,null,"ref",2673,"Religion","theologie, rationale"],
+ [
+  "Theologie, rationale","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "theologie, rationale"
+ ],
+ [
+  "Theologie, theologische/philosophische","Philosophie","II E","7","647f.","ref",2353,"Philosophie",
+  "theologie, theologische/philosophische"
+ ],
  [
   "Theologie, transzendentale","Transzendental","XII",null,null,"ref",3219,"Transzendental",
   "theologie, transzendentale"
  ],
  [
-  "Theologie, transzendentale","Religion","",null,null,"ref",2673,"Religion",
-  "theologie, transzendentale"
+  "Theologie, transzendentale","Religion, natürliche bzw. vernünftige","","8","723f.","ref",2674,
+  "Religion","theologie, transzendentale"
  ],
- ["Theologie, vernünftige","Religion","",null,null,"ref",2673,"Religion","theologie, vernunftige"],
+ [
+  "Theologie, typische","Typos; Typologie","I (theol.)","10","1590f.","ref",3244,"Typos; Typologie",
+  "theologie, typische"
+ ],
+ [
+  "Theologie, vernünftige","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "theologie, vernunftige"
+ ],
+ [
+  "Theologie der Entwicklung","Theologie der Befreiung","","10","1096","ref",3170,
+  "Theologie der Befreiung; Theologie der Revolution","theologie der entwicklung"
+ ],
+ [
+  "Theologie der Geschichte","Geschichtstheologie","",null,null,"ref",1094,"Geschichtstheologie",
+  "theologie der geschichte"
+ ],
  [
   "Theologie der Philosophen","Philosophie","II E","7","644","ref",2353,"Philosophie",
   "theologie der philosophen"
  ],
  [
-  "Theologie der Revolution","Theologie","",null,null,"ref",3169,"Theologie",
-  "theologie der revolution"
+  "Theologie der Revolution","Theologie der Befreiung","",null,null,"ref",3170,
+  "Theologie der Befreiung; Theologie der Revolution","theologie der revolution"
  ],
+ [
+  "Theologie der Versöhnung","Theologie der Befreiung","","10","1097","ref",3170,
+  "Theologie der Befreiung; Theologie der Revolution","theologie der versohnung"
+ ],
+ [
+  "Theologie des Wortes Gottes","Theologie, dialektische","","10","1099","ref",3171,
+  "Theologie, Dialektische","theologie des wortes gottes"
+ ],
+ ["Theologik","Theologik","","10","1112f.","main",3175,"Theologik","theologik"],
+ ["Theologik","Erste Philosophie","",null,null,"see",816,"Erste Philosophie","theologik"],
+ ["Theologik","Metaphysik","",null,null,"see",1944,"Metaphysik","theologik"],
  [
   "theologisch fiktives Stadium","Drei-Stadien-Gesetz","","2","293","ref",637,"Drei-Stadien-Gesetz",
   "theologisch fiktives stadium"
@@ -307,13 +377,18 @@ HWPH.put("r/74-68",
  ["theorica","Säfte","","8","1122","ref",2735,"Säfte, Säftelehre","theorica"],
  ["theorica","Theorie","I","10","1133f.","ref",3179,"Theorie","theorica"],
  [
-  "theorica/practica","Medizin II","",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "theorica/practica","Medizin","II",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
   "theorica/practica"
  ],
  ["Theorie","Theorie","","10","1128–1154","main",3179,"Theorie","theorie"],
  ["Theorie","Wissenschaft","",null,null,"see",3635,"Wissenschaft","theorie"],
- ["Theorie","Wissenschaftstheorie Theorie","",null,null,"see",null,null,"theorie"],
- ["Theorie/Praxis","Praxis III","",null,null,"ref",2448,"Praxis, praktisch","theorie/praxis"],
+ [
+  "Theorie","Wissenschaftstheorie","",null,null,"see",3646,
+  "Wissenschaftstheorie; Wissenschaftsphilosophie","theorie"
+ ],
+ ["Theorie","Geschichten","","3","403f.","ref",1089,"Geschichten","theorie"],
+ ["Theorie","Praxis","I","7","1286","ref",2448,"Praxis, praktisch","theorie"],
+ ["Theorie/Praxis","Praxis","III",null,null,"ref",2448,"Praxis, praktisch","theorie/praxis"],
  ["Theorie/Praxis","Dialektik","IV 4","2","207","ref",583,"Dialektik","theorie/praxis"],
  [
   "Theorie, entscheidbare","Algorithmus","","1","160","ref",97,"Algorithmus",
@@ -388,26 +463,28 @@ HWPH.put("r/74-68",
   "therapeutic counseling","Psychotherapie","","7","1707","ref",2532,"Psychotherapie",
   "therapeutic counseling"
  ],
- ["Therapeutik","Therapie therapia","",null,null,"ref",null,null,"therapeutik"],
- ["Therapie","Therapie","",null,null,"main",3184,"Therapie; Therapeutik","therapie"],
+ ["Therapeutik","Therapie","",null,null,"ref",3184,"Therapie; Therapeutik","therapeutik"],
+ ["therapia","Therapie","",null,null,"ref",3184,"Therapie; Therapeutik","therapia"],
  ["Therapie","Therapie","","10","1163–1166","main",3183,"Theozentrisch","therapie"],
- ["Therapie","Philosophie","IV",null,null,"ref",2353,"Philosophie","therapie"],
+ ["Therapie","Medizin","",null,null,"see",1906,"Medizin, Heilkunst, Medizinphilosophie","therapie"],
+ [
+  "Therapie","Positivismus, therapeutischer","",null,null,"see",2411,"Positivismus, therapeutischer",
+  "therapie"
+ ],
+ ["Therapie","Psychotherapie","",null,null,"see",2532,"Psychotherapie","therapie"],
+ ["Therapie","Philosophie","IV K","7","791","ref",2353,"Philosophie","therapie"],
+ ["Therapie des Zorns","Zorn","I","12","1384","ref",3702,"Zorn","therapie des zorns"],
  ["Therapiemotivation","Leidensdruck","",null,null,"ref",1772,"Leidensdruck","therapiemotivation"],
  ["Thermodynamik","Thermodynamik","","10","1166–1174","main",3185,"Thermodynamik","thermodynamik"],
  ["Thermodynamik","Energie","",null,null,"see",738,"Energie","thermodynamik"],
  ["Thermometer des Geistes","Geist","V","3","178","ref",1030,"Geist","thermometer des geistes"],
  ["These","These","","10","1175–1180","main",3186,"These","these"],
  ["These","Annahme","",null,null,"see",154,"Annahme, Annehmen","these"],
- [
-  "These","Obligatio; Ars obligatoria II (log.)","",null,null,"see",2194,
-  "Obligatio, Ars obligatoria","these"
- ],
- ["These","Rechtfertigung","I",null,null,"see",2601,"Rechtfertigung","these"],
- ["These","Widerlegung","",null,null,"see",3605,"Widerlegung","these"],
+ ["These","Obligatio; Ars","",null,null,"see",2194,"Obligatio, Ars obligatoria","these"],
  ["These","Philosophie","VI (lit. Formen)","7","852","ref",2353,"Philosophie","these"],
  ["These/Antithese","Dialektik","IV",null,null,"ref",583,"Dialektik","these/antithese"],
  [
-  "Thesis","Bewusstsein, positionales (Husserl)","",null,null,"ref",416,"Bewußtsein, positionales",
+  "Thesis","Bewusstsein, positionales","(Husserl)",null,null,"ref",416,"Bewußtsein, positionales",
   "thesis"
  ],
  ["Thesis","Einstellung","II (phän.)",null,null,"ref",691,"Einstellung","thesis"],
@@ -424,7 +501,7 @@ HWPH.put("r/74-68",
  ["Thymologie","Gemütsbewegung","","3","267","ref",1055,"Gemütsbewegung","thymologie"],
  ["Thymopsyche","Es","","2","739f.","ref",824,"Es","thymopsyche"],
  [
-  "Thymopsyche","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Thymopsyche","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","thymopsyche"
  ],
  ["Thymos","Thymos","","10","1187–1192","main",3189,"Thymos","thymos"],
@@ -432,8 +509,6 @@ HWPH.put("r/74-68",
  ["Thymos","Herz","",null,null,"see",1265,"Herz","thymos"],
  ["Thymos","Seele","I",null,null,"see",2794,"Seele","thymos"],
  ["Thymos","Zorn","I",null,null,"see",3702,"Zorn","thymos"],
- ["Theatrum mundi","Theatrum mundi","",null,null,"main",3162,"Theatrum mundi","theatrum mundi"],
- ["Theatrum mundi","Gott","VIII","3","761","ref",1162,"Gott","theatrum mundi"],
  ["Theis Robert","Wesen, höchstes","","12","645–649","author",3596,"Wesen, höchstes","theis robert"],
  ["Theissmann Udo","Angenehm","II","1","306f.","author",142,"Angenehm","theissmann udo"],
  ["Theissmann Udo","Darstellung","II","2","12–14","author",524,"Darstellung","theissmann udo"],
@@ -445,10 +520,10 @@ HWPH.put("r/74-68",
  ],
  ["Theissmann Udo","Herrlichkeit","II","3","1080","author",1260,"Herrlichkeit","theissmann udo"],
  [
-  "Theissmann Udo","Invention; Erfindung II (ästh.)","","4","548–552","author",1490,
+  "Theissmann Udo","Invention; Erfindung","II (ästh.)","4","548–552","author",1490,
   "Invention, Erfindung, Entdeckung","theissmann udo"
  ],
- ["Theunissen Michael","Andere","",null,null,"author",137,"Andere","theunissen michael"],
+ ["Theunissen Michael","Andere, der","","1","296f.","author",137,"Andere","theunissen michael"],
  [
   "Theunissen Michael","Augenblick","(Kierkegaard)","1","649f.","author",295,"Augenblick",
   "theunissen michael"
@@ -551,11 +626,8 @@ HWPH.put("r/74-68",
   "thummel wolf"
  ],
  ["Thümmel Wolf","Glossematik","","3","678f.","author",1154,"Glossematik","thummel wolf"],
- [
-  "Thümmel Wolf","Mentalismus","","5","1137f.","author",1925,"Menschheit, Menschengeschlecht",
-  "thummel wolf"
- ],
- ["Thümmel Wolf","Organonmodell","",null,null,"author",2247,"Organonmodell","thummel wolf"],
+ ["Thümmel Wolf","Mentalismus","","5","1137f.","author",1926,"Mentalismus","thummel wolf"],
+ ["Thümmel Wolf","Organonmodell der Sprache","","6","1368f.","author",2246,"Organon","thummel wolf"],
  ["Thümmel Wolf","Polysemantisch","","7","1086","author",2401,"Polysemantisch","thummel wolf"],
  [
   "Thürnau Donatus","Sinn/Bedeutung","","9","808–815","author",2889,"Sinn/Bedeutung",

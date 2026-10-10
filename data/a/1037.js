@@ -17,7 +17,7 @@ HWPH.put("a/1037",
  "next":{"id":1038,"lemma":"Geistiges Sein","band":"3","col":216},
  "backlinks":[{"id":2256,"lemma":"Pädagogik","n":1}],
  "outlinks":[],
- "register":[{"term":"geisteswissenschaftliche 7 1656- 1658 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":1165,"name":"E. Weniger","b":2,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":2320,"name":"W. Klafki","b":1,"n":0,"l":2,"editor":0,"role":"mixed"},

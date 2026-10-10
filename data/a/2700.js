@@ -174,7 +174,7 @@ HWPH.put("a/2700",
   {"id":814,"lemma":"Erscheinung","tf":2},
   {"id":3047,"lemma":"Subjekt","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":432,"lemma":"Bild, dialektisches"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Rettung I (theol.)"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Rettung II (Benjamin)"},

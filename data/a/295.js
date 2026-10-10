@@ -29,7 +29,8 @@ HWPH.put("a/295",
   {"term":"Jetzt","qualifier":"(Kierkegaard)","band":"1","col":"649"},
   {"term":"Plötzliche, das","qualifier":"(Kierkegaard)","band":null,"col":null},
   {"term":"Ruhe/Bewegung","qualifier":"(Kierkegaard)","band":"1","col":"649"},
-  {"term":"Übergang","qualifier":"(Kierkegaard)","band":null,"col":null}
+  {"term":"Übergang","qualifier":"(Kierkegaard)","band":null,"col":null},
+  {"term":"ἐξαίφνης","qualifier":"(Kierkegaard)","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":0,"l":0,"editor":0,"role":"source"},

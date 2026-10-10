@@ -41,7 +41,7 @@ HWPH.put("a/533",
   {"id":1199,"lemma":"Gruppe, soziale","tf":2},
   {"id":2183,"lemma":"Objekt","tf":2}
  ],
- "see_also":[{"id":1999,"lemma":"Modell"}],
+ "see_also":[{"id":1999,"lemma":"Modell"},{"id":3652,"lemma":"Wohlordnungssatz"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Definierbar"}],
  "reg_authors":[{"name":"Hasenjaeger Gisbert","n":6}]
 }

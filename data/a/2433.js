@@ -28,9 +28,7 @@ HWPH.put("a/2433",
   {"term":"Animalkulisten","qualifier":"","band":"7","col":"1233"},
   {"term":"Ovulisten","qualifier":"","band":"7","col":"1233"},
   {"term":"Präexistenz","qualifier":"","band":"7","col":"1233"},
-  {"term":"preformation","qualifier":"","band":null,"col":null},
-  {"term":"– I (biol.) 6 1330–1336 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (biol.) 2 507–509 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"preformation","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5315,"name":"A. van Leeuwenhoek","b":1,"n":2,"l":0,"editor":0,"role":"source"},

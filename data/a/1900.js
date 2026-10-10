@@ -17,10 +17,7 @@ HWPH.put("a/1900",
  "next":{"id":1901,"lemma":"Maximum/Minimum","band":"5","col":944},
  "backlinks":[{"id":2640,"lemma":"Regel","n":1},{"id":3303,"lemma":"Universalisierung","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"propositio maxima","qualifier":"","band":"5","col":"941"},
-  {"term":"– I (allg.) 8 427–434 – II (eth.) 8 434–444 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"propositio maxima","qualifier":"","band":"5","col":"941"}],
  "persons":[
   {"id":196,"name":"Ch. L. de Montesquieu","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1783,"name":"Chamfort","b":1,"n":3,"l":0,"editor":0,"role":"source"},
@@ -115,7 +112,8 @@ HWPH.put("a/1900",
  "see_also":[
   {"id":340,"lemma":"Axiom"},
   {"id":1197,"lemma":"Grundsätze, praktische"},
-  {"id":2640,"lemma":"Regel"}
+  {"id":2640,"lemma":"Regel"},
+  {"id":3203,"lemma":"Topik; Topos"}
  ],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Maxime"}],
  "reg_authors":[{"name":"Bubner Rüdiger","n":3},{"name":"Dierse Ulrich","n":52}]

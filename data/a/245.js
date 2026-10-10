@@ -20,6 +20,7 @@ HWPH.put("a/245",
  "register":[
   {"term":"Adel","qualifier":"","band":null,"col":null},
   {"term":"edel","qualifier":"","band":null,"col":null},
+  {"term":"Geistesaristokratie","qualifier":"","band":"1","col":"508"},
   {"term":"Herrschaft der Besten","qualifier":"","band":null,"col":null},
   {"term":"nobilis; nobilitas","qualifier":"","band":null,"col":null},
   {"term":"Tugend","qualifier":"","band":"1","col":"506"}

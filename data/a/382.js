@@ -18,6 +18,8 @@ HWPH.put("a/382",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"confession","qualifier":"","band":null,"col":null},
+  {"term":"Konfession","qualifier":"","band":null,"col":null},
   {"term":"Sündenbekenntnis","qualifier":"","band":"1","col":"827"},
   {"term":"ἐξομολογε͂ισθαι","qualifier":"","band":"1","col":"826"},
   {"term":"ὁμολογία","qualifier":"","band":"1","col":"826"}

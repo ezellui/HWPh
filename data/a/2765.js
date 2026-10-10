@@ -39,8 +39,7 @@ HWPH.put("a/2765",
   {"term":"Spaltung","qualifier":"","band":null,"col":null},
   {"term":"Störung der Affekte","qualifier":"","band":"8","col":"1291f."},
   {"term":"Störung der Assoziation","qualifier":"","band":"8","col":"1291f."},
-  {"term":"Willensstörung","qualifier":"","band":"8","col":"1293"},
-  {"term":"– III (psych.) 7 1560–1562 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Willensstörung","qualifier":"","band":"8","col":"1293"}
  ],
  "persons":[
   {"id":180,"name":"C. G. Jung","b":7,"n":5,"l":0,"editor":0,"role":"source"},

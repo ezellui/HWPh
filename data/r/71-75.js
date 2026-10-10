@@ -1,15 +1,5 @@
 HWPH.put("r/71-75",
 [
- ["Quadrivium","Quadrivium","","7","1737","main",2541,"Quadrivium","quadrivium"],
- [
-  "Qualitas occulta","Qualitas occulta","","7","1745","main",2543,"Qualitas occulta",
-  "qualitas occulta"
- ],
- [
-  "Quaestio iuris/quaestio facti","Quaestio iuris/quaestio facti","","7","1742","main",2542,
-  "Quaestio iuris/quaestio facti","quaestio iuris/quaestio facti"
- ],
- ["Quantität","Quantität","I",null,null,"main",2552,"Quantität","quantitat"],
  [
   "Quadrat, logisches","Quadrat, logisches","","7","1733–1736","main",2540,"Quadrat, logisches",
   "quadrat, logisches"
@@ -29,7 +19,7 @@ HWPH.put("r/71-75",
   "Quadrivium","Artes liberales/artes mechanicae","",null,null,"see",255,
   "Artes liberales/artes mechanicae","quadrivium"
  ],
- ["Quadrivium","Disciplina I","",null,null,"see",607,"Disciplina, doctrina","quadrivium"],
+ ["Quadrivium","Disciplina","I",null,null,"see",607,"Disciplina, doctrina","quadrivium"],
  ["Quadrivium","Enkyklios Paideia","",null,null,"see",743,"Enkyklios Paideia","quadrivium"],
  ["Quadrivium","Realia","",null,null,"see",2586,"Realia","quadrivium"],
  ["Quadrivium","Trivium","",null,null,"see",3232,"Trivium","quadrivium"],
@@ -53,7 +43,7 @@ HWPH.put("r/71-75",
   "Quaestio iuris/quaestio facti","quaestio iuris/quaestio facti"
  ],
  [
-  "Qualia","Konstitutionssystem (Carnap)","","4","1008","ref",1628,
+  "Qualia","Konstitutionssystem","(Carnap)","4","1008","ref",1628,
   "Konstitutionssystem, Konstitutionstheorie","qualia"
  ],
  ["Qualia","Sinne, die","","9","864","ref",2892,"Sinne, die","qualia"],
@@ -65,8 +55,8 @@ HWPH.put("r/71-75",
   "qualitat"
  ],
  [
-  "Qualität","Erstheit; Zweitheit; Drittheit (Peirce)","","2","729","ref",816,"Erste Philosophie",
-  "qualitat"
+  "Qualität","Erstheit; Zweitheit; Drittheit","(Peirce)","2","729","ref",817,
+  "Erstheit, Zweitheit, Drittheit","qualitat"
  ],
  ["Qualität","Sinnesdaten","","9","876","ref",2894,"Sinnesdaten","qualitat"],
  [
@@ -110,7 +100,11 @@ HWPH.put("r/71-75",
   "Remissio/intensio formarum","qualitatsveranderung"
  ],
  ["qualitas","Qualität","",null,null,"ref",2544,"Qualität","qualitas"],
- ["qualitas","Schöne","",null,null,"ref",2776,"Schöne","qualitas"],
+ ["qualitas","Schöne, das","II","8","1352","ref",2776,"Schöne","qualitas"],
+ [
+  "qualitas gradualis","Remissio/intensio formarum","","8","782","ref",2684,
+  "Remissio/intensio formarum","qualitas gradualis"
+ ],
  [
   "Qualitas occulta","Qualitas occulta","","7","1743–1748","main",2543,"Qualitas occulta",
   "qualitas occulta"
@@ -171,7 +165,11 @@ HWPH.put("r/71-75",
   "Quantifikation des Prädikats","Quantifikation des Prädikats","","7","1791f.","main",2550,
   "Quantifikation des Prädikats","quantifikation des pradikats"
  ],
- ["Quantifikator","Quantor quantifizierte Modallogik","",null,null,"ref",null,null,"quantifikator"],
+ ["Quantifikator","Quantor","",null,null,"ref",2554,"Quantor, Quantifikator","quantifikator"],
+ [
+  "quantifizierte Modallogik","Modallogik","II","6","28ff.","ref",1997,"Modallogik",
+  "quantifizierte modallogik"
+ ],
  ["Quantifizierung","Quantifizierung","","7","1792","main",2551,"Quantifizierung","quantifizierung"],
  ["Quantifizierung","Quantifikation","",null,null,"see",2549,"Quantifikation","quantifizierung"],
  ["Quantifizierung","Quantität","IV","7","1825f.","ref",2552,"Quantität","quantifizierung"],
@@ -211,10 +209,7 @@ HWPH.put("r/71-75",
   "quantitas discreta/continua"
  ],
  ["quantitas intensiva","Quantität","III","7","1816","ref",2552,"Quantität","quantitas intensiva"],
- [
-  "quantitas materiae","Masse I (phys.)","","5","826","ref",1878,"Masse, Massen",
-  "quantitas materiae"
- ],
+ ["quantitas materiae","Masse","I (phys.)","5","826","ref",1878,"Masse, Massen","quantitas materiae"],
  ["quantitas motus","Impetus","","4","261","ref",1397,"Impetus","quantitas motus"],
  ["quantitas motus","Quantität","III","7","1809","ref",2552,"Quantität","quantitas motus"],
  [
@@ -225,7 +220,7 @@ HWPH.put("r/71-75",
   "quantitas qualitatis","Remissio/intensio formarum","","8","782","ref",2684,
   "Remissio/intensio formarum","quantitas qualitatis"
  ],
- ["quantitas solida","Masse I (phys.)","","5","826","ref",1878,"Masse, Massen","quantitas solida"],
+ ["quantitas solida","Masse","I (phys.)","5","826","ref",1878,"Masse, Massen","quantitas solida"],
  ["Quantor","Quantor","","7","1830–1832","main",2553,"Quantität des Urteils","quantor"],
  ["Quantor","Generalisator","",null,null,"see",1061,"Generalisator","quantor"],
  ["Quantor","Partikularisator","",null,null,"see",2284,"Partikularisator","quantor"],
@@ -257,9 +252,10 @@ HWPH.put("r/71-75",
   "quasianalyse"
  ],
  [
-  "Quasianalyse","Konstitutionssystem (Carnap) Quasibedürfnis","",null,null,"see",null,null,
-  "quasianalyse"
+  "Quasianalyse","Konstitutionssystem","(Carnap)",null,null,"see",1628,
+  "Konstitutionssystem, Konstitutionstheorie","quasianalyse"
  ],
+ ["Quasibedürfnis","Bedürfnis","II","1","768","ref",355,"Bedürfnis","quasibedurfnis"],
  [
   "Quasiindikator","Selbstbewusstsein","III","9","376","ref",2828,"Selbstbewußtsein",
   "quasiindikator"
@@ -347,14 +343,24 @@ HWPH.put("r/71-75",
   "System; Systematik; systematisch","quietismus, scientifischer"
  ],
  ["Quietiv","Quietiv","(Schopenhauer)","7","1838","main",2558,"Quietiv","quietiv"],
- ["Quietiv","Resignation Quietiv des Willens","",null,null,"see",null,null,"quietiv"],
- ["Quietiv","Quietiv","(Schopenhauer)",null,null,"main",2558,"Quietiv","quietiv"],
- ["Quietiv","Gnade","","3","712","ref",1156,"Gnade","quietiv"],
+ ["Quietiv","Resignation","",null,null,"see",2693,"Resignation, resignieren","quietiv"],
  [
-  "quinque universalia","Prädikabilien quinque viae","",null,null,"ref",null,null,
+  "Quietiv des Willens","Quietiv","(Schopenhauer)",null,null,"ref",2558,"Quietiv",
+  "quietiv des willens"
+ ],
+ ["Quietiv des Willens","Gnade","","3","712","ref",1156,"Gnade","quietiv des willens"],
+ [
+  "quinque universalia","Prädikabilien","",null,null,"ref",2425,"Prädikabilien, Prädikabilienlehre",
   "quinque universalia"
  ],
- ["quinque voces","Prädikabilien quinta essentia","",null,null,"ref",null,null,"quinque voces"],
+ ["quinque viae","Gottesbeweis","","3","827f.","ref",1165,"Gottesbeweis","quinque viae"],
+ [
+  "quinque voces","Prädikabilien","",null,null,"ref",2425,"Prädikabilien, Prädikabilienlehre",
+  "quinque voces"
+ ],
+ ["quinta essentia","Äther","",null,null,"ref",277,"Äther, Quintessenz","quinta essentia"],
+ ["quinta essentia","Quintessenz","",null,null,"ref",2559,"Quintessenz","quinta essentia"],
+ ["quinta essentia","Geist","V","3","176","ref",1030,"Geist","quinta essentia"],
  ["quinta natura","Quintessenz","",null,null,"ref",2559,"Quintessenz","quinta natura"],
  ["Quintessenz","Quintessenz","","7","1838–1841","main",2559,"Quintessenz","quintessenz"],
  ["Quintessenz","Äther","",null,null,"see",277,"Äther, Quintessenz","quintessenz"],
@@ -376,18 +382,6 @@ HWPH.put("r/71-75",
   "quodlibeta"
  ],
  ["quotation","Zitat","",null,null,"ref",3697,"Zitat","quotation"],
- [
-  "Quadrat, logisches","Quadrat, logisches","",null,null,"main",2540,"Quadrat, logisches",
-  "quadrat, logisches"
- ],
- [
-  "Qualität des Urteils","Qualität des Urteils","","7","1781","main",2545,"Qualität des Urteils",
-  "qualitat des urteils"
- ],
- [
-  "Qualität des Urteils","Urteil","III (Formen)","11","456","ref",3355,"Urteil",
-  "qualitat des urteils"
- ],
  [
   "Quaritsch Helmut","Souveränität","","9","1104–1109","author",2933,"Souveränität",
   "quaritsch helmut"

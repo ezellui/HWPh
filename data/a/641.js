@@ -48,7 +48,7 @@ HWPH.put("a/641",
   {"id":22807,"name":"W. Bubbe","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3359,"lemma":"Urteilskraft; Urteilsvermögen","tf":3}],
- "see_also":[],
+ "see_also":[{"id":3207,"lemma":"Torheit; Narrheit"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Dummheit"}],
  "reg_authors":[{"name":"Beer Otto F","n":1}]
 }

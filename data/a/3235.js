@@ -18,9 +18,9 @@ HWPH.put("a/3235",
  "backlinks":[{"id":3224,"lemma":"Trauer; Trauerarbeit","n":1}],
  "outlinks":[{"id":3224,"lemma":"Trauer; Trauerarbeit","n":1}],
  "register":[
+  {"term":"consolatio","qualifier":"","band":null,"col":null},
   {"term":"mortalitas","qualifier":"","band":"10","col":"1525"},
   {"term":"Paraklet","qualifier":"","band":"10","col":"1525"},
-  {"term":"performativer 12 699 consolatio","qualifier":"","band":null,"col":null},
   {"term":"solacium","qualifier":"","band":null,"col":null},
   {"term":"παράκλησις","qualifier":"","band":null,"col":null},
   {"term":"παραμυθία","qualifier":"","band":null,"col":null},
@@ -119,7 +119,7 @@ HWPH.put("a/3235",
   {"id":3165,"lemma":"Thema","tf":2},
   {"id":182,"lemma":"Antike","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3184,"lemma":"Therapie; Therapeutik"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Trost"}],
  "reg_authors":[{"name":"Stammkötter Franz-Bernhard","n":3}]
 }

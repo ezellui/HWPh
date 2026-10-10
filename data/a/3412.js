@@ -30,6 +30,7 @@ HWPH.put("a/3412",
   {"term":"reversal","qualifier":"","band":null,"col":null},
   {"term":"Revolution der Denkart","qualifier":"","band":"11","col":"708"},
   {"term":"Umkehrung","qualifier":"","band":null,"col":null},
+  {"term":"Umstülpung","qualifier":"","band":null,"col":null},
   {"term":"verkehrt","qualifier":"","band":null,"col":null}
  ],
  "persons":[

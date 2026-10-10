@@ -17,7 +17,10 @@ HWPH.put("a/1994",
  "next":{"id":1995,"lemma":"Modalität","band":"6","col":9},
  "backlinks":[{"id":2888,"lemma":"Singulär; Singularität","n":1},{"id":3231,"lemma":"Trinität","n":1}],
  "outlinks":[{"id":1732,"lemma":"Latitudinarismus","n":1}],
- "register":[{"term":"I-II","qualifier":"","band":"6","col":"8"}],
+ "register":[
+  {"term":"Person (theol.)","qualifier":"","band":"6","col":"8"},
+  {"term":"Sabellianismus","qualifier":"","band":"6","col":"8"}
+ ],
  "persons":[
   {"id":400,"name":"J. Moltmann","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":1187,"name":"J. F. Buddeus","b":1,"n":2,"l":0,"editor":0,"role":"source"},

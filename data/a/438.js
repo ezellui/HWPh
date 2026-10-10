@@ -28,6 +28,7 @@ HWPH.put("a/438",
   {"term":"f equity","qualifier":"","band":null,"col":null},
   {"term":"Gerechtigkeit","qualifier":"I","band":null,"col":null},
   {"term":"Güte","qualifier":"I","band":null,"col":null},
+  {"term":"Schlichtung","qualifier":"II","band":null,"col":null},
   {"term":"Takt","qualifier":"I","band":null,"col":null},
   {"term":"Urteil, salomonisches","qualifier":"II","band":"1","col":"941"},
   {"term":"ἐπιείκεια","qualifier":"I","band":null,"col":null}

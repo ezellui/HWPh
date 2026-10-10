@@ -22,7 +22,8 @@ HWPH.put("a/2335",
  ],
  "outlinks":[],
  "register":[
-  {"term":"IV-V","qualifier":"","band":"7","col":"434"},
+  {"term":"Naturrecht","qualifier":"","band":"7","col":"434"},
+  {"term":"obligatoria I (eth.)","qualifier":"","band":null,"col":null},
   {"term":"officia perfecta/media","qualifier":"","band":null,"col":null},
   {"term":"Rechte, vollkommene/unvollkommene","qualifier":"","band":"7","col":"435"},
   {"term":"Tugendpflicht","qualifier":"","band":"7","col":"438"},
@@ -86,7 +87,7 @@ HWPH.put("a/2335",
   {"id":3517,"lemma":"Wahl","tf":2},
   {"id":1083,"lemma":"Gerechtigkeit","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2334,"lemma":"Pflicht"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Pflichten, unvollkommene/vollkommene"}],
  "reg_authors":[{"name":"Kersting Wolfgang","n":6}]
 }

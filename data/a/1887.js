@@ -33,8 +33,7 @@ HWPH.put("a/1887",
  "register":[
   {"term":"Dialektik, idealistische","qualifier":"I","band":null,"col":null},
   {"term":"Dialektik, materialistische","qualifier":"","band":null,"col":null},
-  {"term":"dialektischer Materialismus","qualifier":"","band":null,"col":null},
-  {"term":"historischer 5 859–868 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"dialektischer Materialismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":48,"name":"F. Engels","b":3,"n":4,"l":0,"editor":0,"role":"source"},

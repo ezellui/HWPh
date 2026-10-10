@@ -35,8 +35,7 @@ HWPH.put("a/2600",
   {"term":"Freiheitsrecht","qualifier":"","band":null,"col":null},
   {"term":"human rights","qualifier":"","band":null,"col":null},
   {"term":"Menschenrecht","qualifier":"","band":null,"col":null},
-  {"term":"rights of man","qualifier":"","band":null,"col":null},
-  {"term":"– IV (jur.) 7 322–335 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"rights of man","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2538,"name":"G. Birtsch","b":0,"n":10,"l":1,"editor":0,"role":"scholar"},

@@ -23,7 +23,7 @@ HWPH.put("a/1539",
   {"id":3635,"lemma":"Wissenschaft","n":1}
  ],
  "outlinks":[],
- "register":[{"term":"– I (Hartmann) 8 1267f. s. auch","qualifier":"(Hartmann)","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":35,"name":"N. Hartmann","b":1,"n":1,"l":2,"editor":0,"role":"source"},
   {"id":275,"name":"H. Heimsoeth","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -43,7 +43,8 @@ HWPH.put("a/1539",
   {"id":1007,"lemma":"Gefüge"},
   {"id":1110,"lemma":"Gesetze, kategoriale"},
   {"id":1579,"lemma":"Kohärenz"},
-  {"id":2218,"lemma":"Ontologie"}
+  {"id":2218,"lemma":"Ontologie"},
+  {"id":2762,"lemma":"Schichtenlehre, Schichtentheorie"}
  ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Kategorialanalyse (Hartmann)"}],
  "reg_authors":[{"name":"Baumgartner Hans-Michael","n":14}]

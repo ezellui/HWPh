@@ -1,0 +1,18 @@
+HWPH.put("p/65-65",
+{"ee":[["EE","gb:;;3,2b 5u:;;1t aw:;bn;dm,f,1q,6,7,t,10,17,k,l,15,1s,3g,r ct:;;6z gs:;jk,2b,4o"],["ee","19x:;;28 48:;;11e 13:;;2vo e5:;;n1l 9c:;xp 9r:;;l5"]],
+"eecke":[["EECKE","1ip:;;;37 3o:;;;gn"]],
+"eecon":[["eécon","1pf:;;go"]],
+"eeg":[["EEG","28:;;4m,1 5u:;;kf sr:;;ok j0:;49z,gg x2:;z8 q:;26v,s;186"]],
+"eells":[["EELLS","24p:;;38 mv:;;;25"]],
+"eemeren":[["EEMEREN","24x:;;;1s 7f:;;5s,19;16"]],
+"een":[["EeN","26p:;;3yz,18"],["Een","u3:;;;1e cv:;;;2b 9r:;;r 65:;;bc 4o:;;36 mg:;;g fk:;;dz"],["een","1jm:;;38 bp:;;f2 60:;1gf 13:;;;s f1:;;;t0 19:;17a"]],
+"eere":[["eere","27e:;;kf"]],
+"eerlichen":[["Eerlichen","2tj:;;6o"]],
+"eerste":[["eerste","278:;;79 ar:;;2aw"]],
+"eetat":[["eétat","20p:;;6q"]],
+"eetre":[["eêtre","216:;2dn"]],
+"eeuw":[["Eeuw","25y:;;;mt ik:;;4x"],["eeuw","1m2:;;;28 15t:;;;2a"]],
+"eeuwige":[["eeuwige","1c8:;;;m"]],
+"eeuwse":[["Eeuwse","1nc:;;s6 lx:;;7o"],["eeuwse","2ec:;;c fp:;;wo"]],
+"eewt":[["EEwT","25l:;;8q,y,11,4,6,2"]]}
+);

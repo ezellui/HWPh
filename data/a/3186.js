@@ -38,25 +38,23 @@ HWPH.put("a/3186",
   {"id":3165,"lemma":"Thema","n":1}
  ],
  "register":[
-  {"term":"Aufheben","qualifier":"","band":null,"col":null},
-  {"term":"disputatio","qualifier":"","band":null,"col":null},
+  {"term":"Dialektik","qualifier":"","band":null,"col":null},
   {"term":"Ekthesis","qualifier":"II","band":"10","col":"1178"},
   {"term":"Frage-Antwort-Gespräch","qualifier":"","band":null,"col":null},
   {"term":"Lehrsatz","qualifier":"II","band":"10","col":"1178"},
-  {"term":"Methode, polemische","qualifier":"II","band":"10","col":"1178"},
+  {"term":"obligatoria II (log.)","qualifier":"","band":null,"col":null},
+  {"term":"positio","qualifier":"I","band":"10","col":"1176"},
   {"term":"Position","qualifier":"","band":null,"col":null},
   {"term":"Proposition","qualifier":"I","band":"10","col":"1176f."},
   {"term":"quaestio","qualifier":"I","band":"10","col":"1177"},
-  {"term":"Setzen","qualifier":"I","band":"10","col":"1176"},
   {"term":"theologia polemica","qualifier":"II","band":"10","col":"1178"},
   {"term":"theologia thetica","qualifier":"II","band":"10","col":"1178"},
+  {"term":"Theologie, polemische","qualifier":"II","band":"10","col":"1178"},
   {"term":"Thetik","qualifier":"II","band":"10","col":"1179"},
   {"term":"Übungsgespräch","qualifier":"I","band":null,"col":null},
   {"term":"Verteidigung","qualifier":"","band":null,"col":null},
   {"term":"θέσις","qualifier":"","band":null,"col":null},
-  {"term":"ὑπόθεσις","qualifier":"I","band":"10","col":"1176"},
-  {"term":"– I (rhet.) 1 392 s. auch","qualifier":"I","band":null,"col":null},
-  {"term":"– II (log.) 6 1068–1072 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ὑπόθεσις","qualifier":"I","band":"10","col":"1176"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":3,"n":7,"l":0,"editor":0,"role":"source"},
@@ -130,12 +128,7 @@ HWPH.put("a/3186",
   {"id":2749,"lemma":"Sätze, subjektlose","tf":2},
   {"id":435,"lemma":"Bildung","tf":2}
  ],
- "see_also":[
-  {"id":154,"lemma":"Annahme, Annehmen"},
-  {"id":2194,"lemma":"Obligatio, Ars obligatoria"},
-  {"id":2601,"lemma":"Rechtfertigung"},
-  {"id":3605,"lemma":"Widerlegung"}
- ],
+ "see_also":[{"id":154,"lemma":"Annahme, Annehmen"},{"id":2194,"lemma":"Obligatio, Ars obligatoria"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"These I"},
   {"id":39,"name":"Rhetorik und Argumentationstheorie","label":"These"}

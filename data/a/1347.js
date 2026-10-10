@@ -19,6 +19,7 @@ HWPH.put("a/1347",
  "outlinks":[],
  "register":[
   {"term":"akosmistischer Idealismus","qualifier":"","band":null,"col":null},
+  {"term":"empirischer Idealismus","qualifier":"","band":null,"col":null},
   {"term":"Idealismus, akosmistischer","qualifier":"","band":null,"col":null},
   {"term":"Idealismus, dogmatischer","qualifier":"","band":null,"col":null},
   {"term":"Idealismus, psychologischer","qualifier":"","band":null,"col":null}

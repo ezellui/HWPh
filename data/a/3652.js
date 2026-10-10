@@ -22,12 +22,10 @@ HWPH.put("a/3652",
   {"id":2233,"lemma":"Ordnung","n":1}
  ],
  "register":[
-  {"term":"Modelltheorie I (log.)","qualifier":"","band":null,"col":null},
   {"term":"well-ordering theorem","qualifier":"","band":null,"col":null},
   {"term":"wohlgeordnet","qualifier":"","band":null,"col":null},
   {"term":"Wohlordnungsprinzip","qualifier":"","band":null,"col":null},
-  {"term":"Zermeloscher Wohlordnungssatz","qualifier":"","band":null,"col":null},
-  {"term":"– IV (log.) 6 1303–1309 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zermeloscher Wohlordnungssatz","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":384,"name":"G. Cantor","b":1,"n":3,"l":0,"editor":0,"role":"source"},

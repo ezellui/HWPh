@@ -19,6 +19,7 @@ HWPH.put("a/1342",
  "outlinks":[],
  "register":[
   {"term":"Anwendung","qualifier":"","band":null,"col":null},
+  {"term":"Begriffsanwendung","qualifier":"","band":null,"col":null},
   {"term":"Realisation","qualifier":"","band":null,"col":null},
   {"term":"Realisierung","qualifier":"","band":null,"col":null},
   {"term":"realization","qualifier":"","band":null,"col":null},

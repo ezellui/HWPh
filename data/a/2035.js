@@ -23,8 +23,7 @@ HWPH.put("a/2035",
   {"term":"Grundmotiv","qualifier":"","band":null,"col":null},
   {"term":"motif research","qualifier":"","band":null,"col":null},
   {"term":"Nomos","qualifier":"","band":"6","col":"222"},
-  {"term":"typologische Forschung","qualifier":"","band":"6","col":"222"},
-  {"term":"– II (lit.) 6 214–216 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"typologische Forschung","qualifier":"","band":"6","col":"222"}
  ],
  "persons":[
   {"id":2665,"name":"A. Nygren","b":2,"n":1,"l":1,"editor":0,"role":"scholar"},

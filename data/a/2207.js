@@ -18,7 +18,7 @@ HWPH.put("a/2207",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Verpflichtung","qualifier":"","band":null,"col":null},
+  {"term":"obligatoria I (eth.)","qualifier":"","band":null,"col":null},
   {"term":"καθῆκον","qualifier":"","band":null,"col":null}
  ],
  "persons":[

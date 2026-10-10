@@ -17,11 +17,7 @@ HWPH.put("a/2175",
  "next":{"id":2176,"lemma":"Nunc stans","band":"6","col":989},
  "backlinks":[],
  "outlinks":[{"id":985,"lemma":"Ganz Andere","n":1}],
- "register":[
-  {"term":"das (Otto)","qualifier":"(Otto)","band":null,"col":null},
-  {"term":"das (Otto) 3 3 s. auch","qualifier":"(Otto)","band":null,"col":null},
-  {"term":"Heilige, das","qualifier":"(Otto)","band":null,"col":null}
- ],
+ "register":[{"term":"Heilige, das","qualifier":"(Otto)","band":null,"col":null}],
  "persons":[
   {"id":383,"name":"R. Otto","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1355,"name":"N. Söderblom","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -36,7 +32,11 @@ HWPH.put("a/2175",
   {"id":30182,"name":"R. F. Davidson","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1239,"lemma":"Heilig, Heiligkeit","tf":3},{"id":222,"lemma":"Apriori, emotionales","tf":2}],
- "see_also":[{"id":223,"lemma":"Apriori, religiöses"},{"id":985,"lemma":"Ganz Andere"}],
+ "see_also":[
+  {"id":223,"lemma":"Apriori, religiöses"},
+  {"id":985,"lemma":"Ganz Andere"},
+  {"id":2049,"lemma":"Mysterium tremendum et fascinosum"}
+ ],
  "groups":[{"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Numinose, das (Otto)"}],
  "reg_authors":[{"name":"Lanczkowski Günter","n":22}]
 }

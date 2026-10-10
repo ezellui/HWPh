@@ -31,9 +31,11 @@ HWPH.put("a/2273",
  ],
  "outlinks":[{"id":1802,"lemma":"Logica vetus / Logica nova, Logica antiqua / Logica modernorum","n":1}],
  "register":[
-  {"term":"468","qualifier":"","band":"7","col":"112"},
+  {"term":"Dialektik, transzendentale","qualifier":"","band":"7","col":"112"},
   {"term":"fallacia","qualifier":"","band":null,"col":null},
   {"term":"Fehlschluss","qualifier":"","band":null,"col":null},
+  {"term":"obligatoria II (log.)","qualifier":"","band":null,"col":null},
+  {"term":"Paralogismus, transzendentaler","qualifier":"","band":"7","col":"112f."},
   {"term":"perversa ratio","qualifier":"","band":"7","col":"113"},
   {"term":"Psychologie, transzendentale (Kant)","qualifier":"","band":"7","col":"112f."},
   {"term":"Seele","qualifier":"","band":"7","col":"112f."},
@@ -148,7 +150,7 @@ HWPH.put("a/2273",
   {"id":3605,"lemma":"Widerlegung","tf":2},
   {"id":3135,"lemma":"Täuschung","tf":2}
  ],
- "see_also":[{"id":1499,"lemma":"Irrtum"}],
+ "see_also":[{"id":1500,"lemma":"Irrtum (Schlußfehler)"},{"id":2925,"lemma":"Sophisma; Sophismata"}],
  "groups":[{"id":22,"name":"Logik","label":"Paralogismus"}],
  "reg_authors":[{"name":"Konhardt Klaus","n":3}]
 }

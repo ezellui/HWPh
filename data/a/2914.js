@@ -26,8 +26,10 @@ HWPH.put("a/2914",
   {"term":"furor socraticus","qualifier":"","band":"9","col":"1000"},
   {"term":"Lehrart Christi","qualifier":"","band":"9","col":"1001"},
   {"term":"Lehrart, sokratische","qualifier":"","band":"9","col":"1001"},
-  {"term":"Philosophie","qualifier":"","band":"9","col":"1003"},
-  {"term":"Sokratische, das","qualifier":"","band":"9","col":"1001"}
+  {"term":"Methode, sokratische","qualifier":"","band":null,"col":null},
+  {"term":"Sokratische, das","qualifier":"","band":"9","col":"1001"},
+  {"term":"Sokratismus","qualifier":"","band":null,"col":null},
+  {"term":"Sokratismus, christlicher","qualifier":"","band":"9","col":"1003"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":2,"l":0,"editor":0,"role":"source"},

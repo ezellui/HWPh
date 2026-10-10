@@ -40,30 +40,31 @@ HWPH.put("a/3390",
   {"id":3543,"lemma":"Wandel; Veränderung","n":1}
  ],
  "register":[
-  {"term":"Anthropologie","qualifier":"II (erk.)","band":"11","col":"607f."},
+  {"term":"animus","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"coactio","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"coarctatio","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"concretum animae","qualifier":"I (nat.)","band":"11","col":"606"},
+  {"term":"condensatio","qualifier":"","band":null,"col":null},
   {"term":"condensation","qualifier":"","band":null,"col":null},
   {"term":"densatio","qualifier":"","band":null,"col":null},
+  {"term":"Entlastung","qualifier":"II (erk.)","band":"11","col":"607f."},
   {"term":"Expansion","qualifier":"I (nat.)","band":"11","col":"606"},
-  {"term":"Geist","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"Hypostasierung","qualifier":"","band":"11","col":"608"},
-  {"term":"II-III","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"Kondensierung","qualifier":"II (erk.)","band":"11","col":"607"},
   {"term":"Kontraktion","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"Kraftersparnis","qualifier":"II (erk.)","band":"11","col":"608"},
   {"term":"Luft","qualifier":"I (nat.)","band":null,"col":null},
+  {"term":"Pneuma","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"rarefaction","qualifier":"I (nat.)","band":null,"col":null},
   {"term":"spissatio","qualifier":"","band":null,"col":null},
+  {"term":"Verdünnung","qualifier":"I (nat.)","band":null,"col":null},
   {"term":"Verfilzung","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"Vertretung","qualifier":"II (erk.)","band":"11","col":"607"},
   {"term":"ἄνεσις","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"ἐπίτασις","qualifier":"I (nat.)","band":"11","col":"606"},
   {"term":"μάνωσις","qualifier":"I (nat.)","band":null,"col":null},
   {"term":"πίλησις","qualifier":"I (nat.)","band":"11","col":"606"},
-  {"term":"πύκνωσις","qualifier":"I (nat.)","band":null,"col":null},
-  {"term":"– I (nat.) 11 605–607 s. auch","qualifier":"","band":"11","col":"607f."}
+  {"term":"πύκνωσις","qualifier":"I (nat.)","band":null,"col":null}
  ],
  "persons":[
   {"id":851,"name":"Anaximenes","b":3,"n":2,"l":0,"editor":0,"role":"source"},
@@ -124,12 +125,18 @@ HWPH.put("a/3390",
   {"id":2499,"lemma":"Prozeß","tf":2},
   {"id":1769,"lemma":"Leib, Körper","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":187,"lemma":"Antiperístasis"},
+  {"id":3110,"lemma":"Synkrisis/Diakrisis"},
+  {"id":3543,"lemma":"Wandel; Veränderung"},
+  {"id":212,"lemma":"Apperzeption"},
+  {"id":3503,"lemma":"Vorstellung"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Verdichtung I (nat.)"},
   {"id":9,"name":"Erkenntnistheorie","label":"Verdichtung II (erk.)"},
   {"id":28,"name":"Naturphilosophie","label":"Verdichtung I (nat.)"}
  ],
- "reg_authors":[{"name":"Meschiari Alberto","n":1},{"name":"Red","n":242},{"name":"Schmidt Alfred","n":1}]
+ "reg_authors":[{"name":"Meschiari Alberto","n":1},{"name":"Red","n":241},{"name":"Schmidt Alfred","n":1}]
 }
 );

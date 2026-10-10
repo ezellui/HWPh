@@ -3,8 +3,12 @@ HWPH.put("r/68-75",
  ["Hüter des Schlafes","Traum","II","10","1465","ref",3225,"Traum","huter des schlafes"],
  ["Huld","Gnade","",null,null,"ref",1156,"Gnade","huld"],
  [
-  "human rights","Rechte des Menschen; Menschenrechte human studies","",null,null,"ref",2600,
+  "human rights","Rechte des Menschen; Menschenrechte","",null,null,"ref",2600,
   "Rechte des Menschen, Menschenrechte","human rights"
+ ],
+ [
+  "human studies","Geisteswissenschaften","","3","212","ref",1036,"Geisteswissenschaften",
+  "human studies"
  ],
  ["Humanethologie","Verhalten","","11","683","ref",3406,"Verhalten","humanethologie"],
  ["Humangenetik","Genetik","",null,null,"ref",1070,"Genetik","humangenetik"],
@@ -40,7 +44,8 @@ HWPH.put("r/68-75",
  ["Humanität","Bestimmung des Menschen","","1","858","ref",401,"Bestimmung des Menschen","humanitat"],
  ["Humanität","Palingenesie","I (allg.)","7","43","ref",2259,"Palingenesie","humanitat"],
  ["Humanität","Philosophie","II E","7","636","ref",2353,"Philosophie","humanitat"],
- ["Humanität","Seele","",null,null,"ref",2794,"Seele","humanitat"],
+ ["Humanität","Seele, schöne","","9","91","ref",2795,"Seele, schöne; Seelenschönheit","humanitat"],
+ ["Humanität, höchste","Religion","VII","8","673f.","ref",2673,"Religion","humanitat, hochste"],
  [
   "Humanität, wahre","Geselligkeit","","3","457","ref",1098,"Geselligkeit, gesellig",
   "humanitat, wahre"
@@ -53,7 +58,7 @@ HWPH.put("r/68-75",
  ],
  ["Humanitas","Humanitas","","3","1231f.","main",1316,"Humanitas","humanitas"],
  [
-  "humanitas","Menschheit; Menschengeschlecht II","",null,null,"ref",1925,
+  "humanitas","Menschheit; Menschengeschlecht","II",null,null,"ref",1925,
   "Menschheit, Menschengeschlecht","humanitas"
  ],
  ["humanitas","Gottheit","I","3","837","ref",1173,"Gottheit","humanitas"],
@@ -70,10 +75,12 @@ HWPH.put("r/68-75",
  ["humility","Demut","",null,null,"ref",550,"Demut","humility"],
  ["humility","Stolz","","10","203","ref",3034,"Stolz","humility"],
  ["Humor","Humor","","3","1232–1234","main",1317,"Humor","humor"],
- ["Humor","Komische, das; Lachen, das Humor","",null,null,"see",1590,"Komische, Lachen","humor"],
- ["Humoralpathologie","Säfte humour","",null,null,"ref",null,null,"humoralpathologie"],
- ["Humor","Humor","",null,null,"main",1317,"Humor","humor"],
- ["Humor","Stimmung","","10","173","ref",3027,"Stimmung","humor"],
+ ["Humor","Komische, das; Lachen, das","",null,null,"see",1590,"Komische, Lachen","humor"],
+ ["Humor","Ironie","","4","580f.","ref",1495,"Ironie","humor"],
+ ["Humor","Parodie","","7","126","ref",2277,"Parodie","humor"],
+ ["Humoralpathologie","Säfte","",null,null,"ref",2735,"Säfte, Säftelehre","humoralpathologie"],
+ ["humour","Humor","",null,null,"ref",1317,"Humor","humour"],
+ ["humour","Stimmung","","10","173","ref",3027,"Stimmung","humour"],
  ["Hunger nach Sein","Seinkönnen","(Cusanus)","9","257","ref",2811,"Seinkönnen","hunger nach sein"],
  [
   "Huber Wolfgang","Friedensforschung","","2","1119–1122","author",957,"Friedensforschung",
@@ -119,10 +126,10 @@ HWPH.put("r/68-75",
   "hubner johannes"
  ],
  [
-  "Hügli Anton","Invention; Erfindung I. III-V","","4","544–548","author",1489,"Intussuszeption",
+  "Hügli Anton","Invention; Erfindung I.","III-V","4","544–548","author",1489,"Intussuszeption",
   "hugli anton"
  ],
- ["Hügli Anton","Lächerliche","",null,null,"author",1723,"Lächerliche","hugli anton"],
+ ["Hügli Anton","Lächerliche, das","","5","1–8","author",1723,"Lächerliche","hugli anton"],
  ["Hügli Anton","Lebenslüge","","5","132–135","author",1749,"Lebenslüge","hugli anton"],
  ["Hügli Anton","Lohn","I 2","5","507–509","author",1828,"Lohn, Verdienst","hugli anton"],
  ["Hügli Anton","Lyrik","","5","571–578","author",1841,"Lyrik, lyrisch","hugli anton"],
@@ -148,8 +155,8 @@ HWPH.put("r/68-75",
  ],
  ["Hügli Anton","Philanthropie","3","7","548–552","author",2351,"Philanthropie","hugli anton"],
  [
-  "Hügli Anton","Pseudonym (Kierkegaard)","","7","1567–1569","author",2503,
-  "Pseudonym, Pseudonymität","hugli anton"
+  "Hügli Anton","Pseudonym","(Kierkegaard)","7","1567–1569","author",2503,"Pseudonym, Pseudonymität",
+  "hugli anton"
  ],
  [
   "Hügli Anton","Schluss, praktischer","","8","1306–1312","author",2770,"Schluß, praktischer",
@@ -164,7 +171,7 @@ HWPH.put("r/68-75",
  ["Hügli Anton","Übung","II","11","79–83","author",3270,"Übung","hugli anton"],
  ["Hügli Anton","Utilitarismus","","11","503–510","author",3366,"Utilitarismus","hugli anton"],
  ["Hügli Anton","Wahl, rationale","","12","22–28","author",3518,"Wahl, rationale","hugli anton"],
- ["Hügli Anton","Wert","",null,null,"author",3588,"Wert","hugli anton"],
+ ["Hügli Anton","Wert I; III A (phän.);","VI","12","556–558","author",3588,"Wert","hugli anton"],
  ["Hügli Anton","Werterziehung","","12","591–609","author",3590,"Wert/Preis","hugli anton"],
  ["Hügli Anton","Wertphilosophie","","12","611–614","author",3593,"Wertphilosophie","hugli anton"],
  [
@@ -174,11 +181,11 @@ HWPH.put("r/68-75",
  ["Hügli Anton","Willensschwäche","","12","800–809","author",3623,"Willensschwäche","hugli anton"],
  ["Hügli Anton","Zwang","I (allg.)","12","1475–1480","author",3717,"Zwang","hugli anton"],
  ["Hühn Helmut","Perfektionismus","","7","244–246","author",2307,"Perfektionismus","huhn helmut"],
- ["Hühn Helmut","Philosophie","V E",null,null,"author",2353,"Philosophie","huhn helmut"],
  [
-  "Hühn Helmut","Potenzen II 2 (med.)","","7","1171f.","author",2423,"Potenz, Potenzen",
+  "Hühn Helmut","Philosophie","V E 5 (institut. Formen)","7","846–848","author",2353,"Philosophie",
   "huhn helmut"
  ],
+ ["Hühn Helmut","Potenzen","II 2 (med.)","7","1171f.","author",2423,"Potenz, Potenzen","huhn helmut"],
  [
   "Hühn Helmut","Realisierung","II","8","146–148","author",2587,"Realisierung, Realisation",
   "huhn helmut"
@@ -242,7 +249,10 @@ HWPH.put("r/68-75",
  ["Hühn Helmut","Wahn","","12","30–36","author",3520,"Wahn","huhn helmut"],
  ["Hühn Helmut","Wahnsinn","","12","36–42","author",3521,"Wahnsinn","huhn helmut"],
  ["Hühn Helmut","Wahrheit","VI B (psych.)","12","113–115","author",3523,"Wahrheit","huhn helmut"],
- ["Hühn Helmut","Wahrheit","",null,null,"author",3523,"Wahrheit","huhn helmut"],
+ [
+  "Hühn Helmut","Wahrheit, ästhetische","","12","137–141","author",3526,"Wahrheit, absolute",
+  "huhn helmut"
+ ],
  [
   "Hühn Helmut","Wahrscheinlichkeit (ästhetisch)","","12","304–306","author",3541,
   "Wahrscheinlichkeit (ästhetisch)","huhn helmut"
@@ -263,7 +273,7 @@ HWPH.put("r/68-75",
  ["Hühn Helmut","Widerfahrnis","","12","678–680","author",3604,"Widerfahrnis","huhn helmut"],
  ["Hühn Helmut","Wiedergutmachung","","12","734–738","author",3615,"Wiedergutmachung","huhn helmut"],
  ["Hühn Helmut","Wiederholung","","12","738–746","author",3616,"Wiederholung","huhn helmut"],
- ["Hühn Helmut","Wille","III",null,null,"author",3620,"Wille","huhn helmut"],
+ ["Hühn Helmut","Wille III A-B","","12","783–793","author",3620,"Wille","huhn helmut"],
  ["Hühn Helmut","Wir","","12","812–820","author",3625,"Wir","huhn helmut"],
  ["Hühn Helmut","Wissenschaft","II","12","915–920","author",3635,"Wissenschaft","huhn helmut"],
  ["Hühn Helmut","Zeit","V","12","1227–1234","author",3676,"Zeit","huhn helmut"],
@@ -281,7 +291,7 @@ HWPH.put("r/68-75",
  ],
  ["Hühn Lore","Urwissen","(Schelling)","11","485f.","author",3360,"Urwissen","huhn lore"],
  ["Hühn Lore","Vernichtung","","11","740–747","author",3421,"Vermutung","huhn lore"],
- ["Hüllen Jürgen","Anima/Animus (Jung)","","1","314f.","author",145,"Anima, Animus","hullen jurgen"],
+ ["Hüllen Jürgen","Anima/Animus","(Jung)","1","314f.","author",145,"Anima, Animus","hullen jurgen"],
  ["Hüllen Jürgen","Archetypus","","1","497–500","author",239,"Archetypus","hullen jurgen"],
  ["Hüllen Jürgen","Ektypus","","2","436f.","author",703,"Ektypus","hullen jurgen"],
  ["Hüllen Jürgen","Individuation","","4","295–299","author",1419,"Individualurteil","hullen jurgen"],
@@ -344,7 +354,7 @@ HWPH.put("r/68-75",
   "Gesetze, kategoriale","hulsmann heinrich"
  ],
  [
-  "Hülsmann Heinrich","Irrational; transintelligibel (Hartmann)","","4","588f.","author",1497,
+  "Hülsmann Heinrich","Irrational; transintelligibel","(Hartmann)","4","588f.","author",1497,
   "Irrational, das Irrationale, Irrationalismus","hulsmann heinrich"
  ],
  [
@@ -352,11 +362,11 @@ HWPH.put("r/68-75",
   "hulsmann heinrich"
  ],
  [
-  "Hülsmann Heinrich","Persönlichkeitswert (Hartmann)","","7","362f.","author",2325,
+  "Hülsmann Heinrich","Persönlichkeitswert","(Hartmann)","7","362f.","author",2325,
   "Persönlichkeitswert, Personwert","hulsmann heinrich"
  ],
  [
-  "Hülsmann Heinrich","Schichtenlehre I (Hartmann)","","8","1267f.","author",2762,
+  "Hülsmann Heinrich","Schichtenlehre","I (Hartmann)","8","1267f.","author",2762,
   "Schichtenlehre, Schichtentheorie","hulsmann heinrich"
  ],
  ["Hünermann Peter","Spätidealismus","","9","1312","author",2964,"Spätidealismus","hunermann peter"],
@@ -374,8 +384,8 @@ HWPH.put("r/68-75",
  ],
  ["Hufnagel Cordula","Und","","11","133–135","author",3287,"Und","hufnagel cordula"],
  [
-  "Huning Alois","Einheit und Vielheit der Wesensform","","2","400–405","author",683,
-  "Einheit der Wissenschaft","huning alois"
+  "Huning Alois","Einheit und Vielheit der Wesensform","","2","400–405","author",684,
+  "Einheit und Vielheit der Wesensform","huning alois"
  ],
  ["Huning Alois","Per se notum","","7","262–265","author",2315,"Per se notum","huning alois"],
  ["Huning Hanns","Misanthropie","","5","1402–1408","author",1978,"Misanthropie","huning hanns"],
@@ -383,7 +393,10 @@ HWPH.put("r/68-75",
   "Husen Karl-Friedrich","Narzissmus","II","6","403–405","author",2069,"Narzißmus, narzißtisch",
   "husen karl-friedrich"
  ],
- ["Husen Karl-Friedrich","Neurose","",null,null,"author",2124,"Neurose","husen karl-friedrich"],
+ [
+  "Husen Karl-Friedrich","Neurose I.","III","6","760–769","author",2124,"Neurose",
+  "husen karl-friedrich"
+ ],
  [
   "Hutter Axel","Unvordenkliche, das","(Schelling)","11","339–341","author",3334,
   "Unvordenkliche, das","hutter axel"

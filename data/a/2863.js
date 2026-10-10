@@ -30,8 +30,8 @@ HWPH.put("a/2863",
   {"id":351,"lemma":"Bedeutungslehre","tf":2},
   {"id":1797,"lemma":"Linguistik, Sprachwissenschaft","tf":2}
  ],
- "see_also":[{"id":351,"lemma":"Bedeutungslehre"}],
+ "see_also":[{"id":351,"lemma":"Bedeutungslehre"},{"id":2861,"lemma":"Semantik, semantisch"}],
  "groups":[{"id":7,"name":"Disziplinen und Fächer","label":"Semasiologie"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

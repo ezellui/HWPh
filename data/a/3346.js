@@ -68,6 +68,6 @@ HWPH.put("a/3346",
  ],
  "see_also":[{"id":239,"lemma":"Archetypus"},{"id":2516,"lemma":"Psychologie, komplexe"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Uroboros"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

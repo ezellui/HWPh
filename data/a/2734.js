@@ -17,7 +17,10 @@ HWPH.put("a/2734",
  "next":{"id":2735,"lemma":"Säfte, Säftelehre","band":"8","col":1120},
  "backlinks":[{"id":3619,"lemma":"Wildheit; Grausamkeit; Rohheit","n":1}],
  "outlinks":[{"id":1875,"lemma":"Masochismus","n":1},{"id":2328,"lemma":"Perversion","n":2}],
- "register":[{"term":"Algolagnie","qualifier":"","band":"8","col":"1118"}],
+ "register":[
+  {"term":"Algolagnie","qualifier":"","band":"8","col":"1118"},
+  {"term":"Moral der Eigentlichkeit","qualifier":"","band":"8","col":"1118"}
+ ],
  "persons":[
   {"id":3129,"name":"I. Bloch","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":3946,"name":"R. Krafft-Ebing","b":3,"n":0,"l":0,"editor":0,"role":"source"},

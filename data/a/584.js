@@ -30,6 +30,6 @@ HWPH.put("a/584",
  "mentions":[{"id":410,"lemma":"Beweis","tf":3},{"id":1693,"lemma":"Kriterium","tf":2}],
  "see_also":[{"id":499,"lemma":"Circulus vitiosus"},{"id":3695,"lemma":"Zirkel"}],
  "groups":[{"id":22,"name":"Logik","label":"Diallele"}],
- "reg_authors":[{"name":"Eisler Rudolf","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Eisler Rudolf","n":2},{"name":"Red","n":241}]
 }
 );

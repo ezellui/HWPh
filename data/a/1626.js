@@ -28,19 +28,15 @@ HWPH.put("a/1626",
  ],
  "outlinks":[],
  "register":[
-  {
-   "term":"/Objekt V 10 431 intersubjektive Konstitution",
-   "qualifier":"(Husserl)",
-   "band":"4",
-   "col":"1005"
-  },
   {"term":"Apriori, konstitutives","qualifier":"(Husserl)","band":"4","col":"1004"},
   {"term":"Apriori, ontisches","qualifier":"(Husserl)","band":"4","col":"1004"},
+  {"term":"intersubjektive Konstitution","qualifier":"(Husserl)","band":"4","col":"1005"},
+  {"term":"Konstitution, transzendentale","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Kreation","qualifier":"(Husserl)","band":"4","col":"1005"},
   {"term":"Monadenall","qualifier":"(Husserl)","band":"4","col":"1005"},
   {"term":"phänomenologische Konstitution","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"primordiale Konstitution","qualifier":"(Husserl)","band":"4","col":"1005"},
-  {"term":"Urkonstitution","qualifier":"(Husserl)","band":"4","col":"1005"}
+  {"term":"Synthesis","qualifier":"(Husserl)","band":"4","col":"1005"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -67,7 +63,8 @@ HWPH.put("a/1626",
   {"id":971,"lemma":"Fundierung"},
   {"id":2343,"lemma":"Phänomenologie"},
   {"id":2347,"lemma":"Phänomenologie, transzendentale"},
-  {"id":2891,"lemma":"Sinnbildung"}
+  {"id":2891,"lemma":"Sinnbildung"},
+  {"id":2899,"lemma":"Sinnkonstitution, Sinnstiftung"}
  ],
  "groups":[{"id":31,"name":"Phänomenologie","label":"Konstitution, phänomenologische (Husserl)"}],
  "reg_authors":[{"name":"Claesges Ulrich","n":25}]

@@ -18,7 +18,7 @@ HWPH.put("a/1270",
  "backlinks":[{"id":3044,"lemma":"Stufen","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Geschichte","qualifier":"","band":"3","col":"1124"},
+  {"term":"Herrschaft","qualifier":"","band":"3","col":"1124"},
   {"term":"i‘εραρχία","qualifier":"","band":null,"col":null},
   {"term":"Ordnung","qualifier":"","band":null,"col":null}
  ],

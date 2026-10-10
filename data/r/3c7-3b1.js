@@ -1,7 +1,7 @@
 HWPH.put("r/3c7-3b1",
 [
  ["χάος","Chaos","I",null,null,"ref",484,"Chaos","χαοσ"],
- ["χαρά","Lust; Freude character/content","",null,null,"ref",1837,"Lust, Freude","χαρα"],
+ ["χαρά","Lust; Freude","",null,null,"ref",1837,"Lust, Freude","χαρα"],
  ["χάρις","Gnade","",null,null,"ref",1156,"Gnade","χαρισ"],
  ["χάρις","Grazie; Anmut","",null,null,"ref",1182,"Grazie, Anmut","χαρισ"],
  ["χάρις","Dankbarkeit","","2","9","ref",522,"Dankbarkeit","χαρισ"],

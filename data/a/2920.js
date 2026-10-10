@@ -58,25 +58,26 @@ HWPH.put("a/2920",
  ],
  "register":[
   {"term":"devoir","qualifier":"","band":null,"col":null},
+  {"term":"endlich/unendlich","qualifier":"I","band":"9","col":"1030"},
   {"term":"Ethik, integrative","qualifier":"II","band":"9","col":"1053"},
   {"term":"Fehlschluss, naturalistischer","qualifier":"II","band":null,"col":null},
   {"term":"fittingness","qualifier":"II","band":"9","col":"1051"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"is/ought","qualifier":"","band":null,"col":null},
   {"term":"Kommunismus","qualifier":"I","band":"9","col":"1034"},
   {"term":"Können","qualifier":"I","band":"9","col":"1028"},
   {"term":"Logik, deontische","qualifier":"II","band":"9","col":"1050f."},
   {"term":"naturalistischer Fehlschluss","qualifier":"II","band":null,"col":null},
   {"term":"Norm","qualifier":"I","band":"9","col":"1035f."},
+  {"term":"obligatoria I (eth.)","qualifier":"","band":null,"col":null},
   {"term":"ought","qualifier":"","band":null,"col":null},
-  {"term":"Schranke","qualifier":"I","band":"9","col":"1030"},
   {"term":"Sein/Sollen","qualifier":"","band":null,"col":null},
   {"term":"Seinsollen","qualifier":"I","band":"9","col":"1040f."},
   {"term":"Strebensethik","qualifier":"II","band":"9","col":"1053"},
   {"term":"Vernunft, praktische","qualifier":"I","band":"9","col":"1027f."},
   {"term":"Verstand","qualifier":"I","band":"9","col":"1027"},
   {"term":"Wertfreiheit","qualifier":"I","band":"9","col":"1043f."},
-  {"term":"Werturteil","qualifier":"I","band":"9","col":"1039f."},
-  {"term":"– I (eth.) 6 1065–1068 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Werturteil","qualifier":"I","band":"9","col":"1039f."}
  ],
  "persons":[
   {"id":227,"name":"R. M. Hare","b":4,"n":9,"l":0,"editor":0,"role":"source"},
@@ -275,12 +276,7 @@ HWPH.put("a/2920",
   {"id":1044,"lemma":"Gelten, Geltung","tf":9},
   {"id":3038,"lemma":"Streben","tf":7}
  ],
- "see_also":[
-  {"id":1107,"lemma":"Gesetz, moralisches"},
-  {"id":2194,"lemma":"Obligatio, Ars obligatoria"},
-  {"id":2334,"lemma":"Pflicht"},
-  {"id":2445,"lemma":"Präskriptiv"}
- ],
+ "see_also":[{"id":1107,"lemma":"Gesetz, moralisches"},{"id":2194,"lemma":"Obligatio, Ars obligatoria"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Sollen"}],
  "reg_authors":[{"name":"Hügli Anton","n":34},{"name":"Pieper Annemarie","n":8}]
 }

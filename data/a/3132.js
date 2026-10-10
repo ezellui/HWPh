@@ -17,7 +17,7 @@ HWPH.put("a/3132",
  "next":{"id":3133,"lemma":"Tausch","band":"10","col":920},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Das bist du","qualifier":"","band":"10","col":"919"}],
  "persons":[
   {"id":1183,"name":"P. Hacker","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":16,"name":"A. Schopenhauer","b":1,"n":0,"l":0,"editor":0,"role":"source"},

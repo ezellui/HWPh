@@ -34,6 +34,6 @@ HWPH.put("a/1329",
  "mentions":[{"id":2544,"lemma":"Qualität","tf":2},{"id":3047,"lemma":"Subjekt","tf":2}],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Hypostasierung"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

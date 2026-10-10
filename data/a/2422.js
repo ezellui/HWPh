@@ -18,6 +18,7 @@ HWPH.put("a/2422",
  "backlinks":[],
  "outlinks":[{"id":88,"lemma":"Aktualwert","n":1},{"id":1021,"lemma":"Gegenstandstheorie","n":1}],
  "register":[
+  {"term":"Gute","qualifier":"(Meinong)","band":null,"col":null},
   {"term":"Partialwert/Totalwert","qualifier":"(Meinong)","band":"7","col":"1166"},
   {"term":"Wert, persönlicher/unpersönlicher","qualifier":"(Meinong)","band":"7","col":"1166"}
  ],

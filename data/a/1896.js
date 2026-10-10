@@ -42,10 +42,10 @@ HWPH.put("a/1896",
  "register":[
   {"term":"Delisches Problem","qualifier":"","band":"5","col":"928"},
   {"term":"Differentialgeometrie","qualifier":"","band":"5","col":"932f."},
+  {"term":"Funktion (math.)","qualifier":"","band":"5","col":"931"},
   {"term":"Topologie","qualifier":"","band":"5","col":"932"},
   {"term":"Vektorraum","qualifier":"","band":"5","col":"932"},
-  {"term":"Widerspruchsfreiheit","qualifier":"","band":"5","col":"933f."},
-  {"term":"– I (wiss.) 2 964–967 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Widerspruchsfreiheit","qualifier":"","band":"5","col":"933f."}
  ],
  "persons":[
   {"id":484,"name":"L. Euler","b":4,"n":1,"l":0,"editor":0,"role":"source"},

@@ -32,7 +32,6 @@ HWPH.put("a/3650",
  "register":[
   {"term":"bonum publicum","qualifier":"I","band":"12","col":"998"},
   {"term":"état-providence","qualifier":"II","band":"12","col":"1000"},
-  {"term":"Polizeiwissenschaft","qualifier":"","band":null,"col":null},
   {"term":"prévoyance sociale","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"salus civitatis","qualifier":"I","band":"12","col":"998"},

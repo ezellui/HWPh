@@ -1,9 +1,5 @@
 HWPH.put("r/74-69",
 [
- [
-  "Tiefenpsychologie","Tiefenpsychologie","",null,null,"main",3191,"Tiefenpsychologie",
-  "tiefenpsychologie"
- ],
  ["Tiefe","Tiefe","","10","1192–1194","main",3190,"Tiefe; Tiefsinn","tiefe"],
  ["Tiefe","Unergründlichkeit","",null,null,"see",3293,"Unergründlichkeit","tiefe"],
  ["Tiefe","Yûgen","",null,null,"ref",3669,"Yûgen","tiefe"],
@@ -17,7 +13,7 @@ HWPH.put("r/74-69",
  ["Tiefenperson","Es","","2","739","ref",824,"Es","tiefenperson"],
  ["Tiefenperson","Mensch, ganzer","","5","1107","ref",1919,"Mensch, ganzer","tiefenperson"],
  [
-  "Tiefenperson","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Tiefenperson","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","tiefenperson"
  ],
  [
@@ -46,7 +42,7 @@ HWPH.put("r/74-69",
   "tier/mensch"
  ],
  ["Tier/Mensch","Tier","",null,null,"ref",3192,"Tier; Tierseele","tier/mensch"],
- ["Tier/Mensch","Mass II (ästh.)","","5","820","ref",1877,"Maß","tier/mensch"],
+ ["Tier/Mensch","Mass","II (ästh.)","5","820","ref",1877,"Maß","tier/mensch"],
  ["Tier/Mensch","Naturrecht","IV 1","6","583","ref",2089,"Naturrecht","tier/mensch"],
  [
   "Tier/Mensch","Positionalität, exzentrische","(Plessner)","7","1105","ref",2407,

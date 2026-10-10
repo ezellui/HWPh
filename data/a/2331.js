@@ -35,13 +35,13 @@ HWPH.put("a/2331",
   {"id":2557,"lemma":"Quietismus, Hesychasmus","n":1}
  ],
  "register":[
-  {"term":"Lasterkatalog","qualifier":"","band":"7","col":"392"},
   {"term":"Lust/Unlust","qualifier":"","band":"7","col":"389"},
   {"term":"Mortifikation des Willens","qualifier":"","band":"7","col":"388"},
+  {"term":"Nachtansicht","qualifier":"","band":"7","col":"389"},
   {"term":"Pessimismus, griechischer","qualifier":"","band":"7","col":"391f."},
   {"term":"philosophus christianissimus","qualifier":"","band":"7","col":"392"},
   {"term":"principium individuationis","qualifier":"","band":"7","col":"388"},
-  {"term":"Tagesansicht/Nachtansicht","qualifier":"","band":"7","col":"389"},
+  {"term":"Trauer","qualifier":"","band":"7","col":"392"},
   {"term":"Trauer der Endlichkeit","qualifier":"","band":"7","col":"388"},
   {"term":"Verneinung des Willens","qualifier":"","band":"7","col":"388"},
   {"term":"Willensverneinung","qualifier":"","band":"7","col":"388"}

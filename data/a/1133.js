@@ -23,7 +23,7 @@ HWPH.put("a/1133",
  "outlinks":[],
  "register":[
   {"term":"consuetudo","qualifier":"","band":"3","col":"617"},
-  {"term":"der 4 938 Gestaltungstheorie","qualifier":"","band":"3","col":"619"},
+  {"term":"Gestaltungstheorie","qualifier":"","band":"3","col":"619"},
   {"term":"mos maiorum","qualifier":"","band":"3","col":"617"},
   {"term":"Recht der Sitte","qualifier":"","band":"3","col":"618"},
   {"term":"νόμος ἄγραφος","qualifier":"","band":"3","col":"617"}

@@ -35,9 +35,11 @@ HWPH.put("a/3264",
   {"term":"superessentialis","qualifier":"","band":null,"col":null},
   {"term":"supersubstantialis","qualifier":"","band":null,"col":null},
   {"term":"übernatürlich","qualifier":"","band":"11","col":"60"},
+  {"term":"übersubstantiell","qualifier":"","band":null,"col":null},
   {"term":"überwesentlich","qualifier":"","band":null,"col":null},
   {"term":"überwirklich","qualifier":"","band":"11","col":"62"},
   {"term":"ἐπέκεινα τῆς οὐσίας","qualifier":"","band":"11","col":"58"},
+  {"term":"ὑπερόν","qualifier":"","band":null,"col":null},
   {"term":"ὑπερούσιος","qualifier":"","band":null,"col":null}
  ],
  "persons":[

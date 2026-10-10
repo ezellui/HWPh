@@ -57,6 +57,6 @@ HWPH.put("a/1473",
  ],
  "see_also":[],
  "groups":[{"id":46,"name":"Unterricht und Institutionen","label":"Interdisziplinär"}],
- "reg_authors":[{"name":"Holzhey Helmut","n":13}]
+ "reg_authors":[{"name":"Holzhey Helmut","n":13},{"name":"Rasch Wolfdietrich","n":2}]
 }
 );

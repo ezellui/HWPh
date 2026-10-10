@@ -22,6 +22,6 @@ HWPH.put("a/1646",
  "mentions":[],
  "see_also":[{"id":1018,"lemma":"Gegensatz"},{"id":2540,"lemma":"Quadrat, logisches"}],
  "groups":[{"id":22,"name":"Logik","label":"Konträr"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

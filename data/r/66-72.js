@@ -1,7 +1,6 @@
 HWPH.put("r/66-72",
 [
  ["Freiheit","Freiheit","II","2","1079","main",946,"Freiheit","freiheit"],
- ["Freiheit","Freiheit","II","2","1075","main",946,"Freiheit","freiheit"],
  ["Freiheit","Freiheit","I",null,null,"main",946,"Freiheit","freiheit"],
  ["Freiheit","Wahl","",null,null,"ref",3517,"Wahl","freiheit"],
  ["Freiheit","Absicht","","1","9f.","ref",26,"Absicht","freiheit"],
@@ -19,9 +18,10 @@ HWPH.put("r/66-72",
   "frage-antwort-gesprach"
  ],
  ["Frage-Antwort-Gespräch","These","",null,null,"ref",3186,"These","frage-antwort-gesprach"],
+ ["Frage-Antwort-Gespräch","Topik","I",null,null,"ref",3203,"Topik; Topos","frage-antwort-gesprach"],
  [
-  "Frage-Antwort-Gespräch","Topik I Frage-Antwort-Logik","",null,null,"ref",null,null,
-  "frage-antwort-gesprach"
+  "Frage-Antwort-Logik","Präsupposition","II","7","1271","ref",2446,"Präsupposition",
+  "frage-antwort-logik"
  ],
  ["Fragelogik","Interrogativlogik","",null,null,"ref",1481,"Interrogativlogik","fragelogik"],
  [
@@ -78,7 +78,7 @@ HWPH.put("r/66-72",
  ["Freiheit","Wahl","",null,null,"see",3517,"Wahl","freiheit"],
  ["Freiheit","Wille","",null,null,"see",3620,"Wille","freiheit"],
  [
-  "Freiheit","Moralität; Sittlichkeit (Hegel)","",null,null,"ref",2028,"Moralität/Legalität",
+  "Freiheit","Moralität; Sittlichkeit","(Hegel)",null,null,"ref",2028,"Moralität/Legalität",
   "freiheit"
  ],
  [
@@ -177,8 +177,12 @@ HWPH.put("r/66-72",
   "freiheitsprinzip"
  ],
  [
-  "Freiheitsrecht","Rechte des Menschen; Menschenrechte Freimaurerei","",null,null,"ref",2600,
+  "Freiheitsrecht","Rechte des Menschen; Menschenrechte","",null,null,"ref",2600,
   "Rechte des Menschen, Menschenrechte","freiheitsrecht"
+ ],
+ [
+  "Freimaurerei","Illuminaten; Illuminisme","",null,null,"ref",1386,"Illuminaten, Illuminisme",
+  "freimaurerei"
  ],
  [
   "Freirechtslehre","Freirechtslehre","","2","1098–1102","main",947,"Freirechtslehre",
@@ -219,7 +223,7 @@ HWPH.put("r/66-72",
   "Xenologie; Wissenschaft vom Fremden","fremde, der"
  ],
  [
-  "Fremde, der","Intelligenz; Intellektueller V (soz.)","","4","457","ref",1464,
+  "Fremde, der","Intelligenz; Intellektueller","V (soz.)","4","457","ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","fremde, der"
  ],
  ["Fremde, der","Streit","II (soz.)","10","301","ref",3039,"Streit","fremde, der"],
@@ -257,7 +261,9 @@ HWPH.put("r/66-72",
   "Xenologie; Wissenschaft vom Fremden","fremdheit"
  ],
  ["Fremdich","Fremdich","","2","1103f.","main",950,"Fremdich","fremdich"],
- ["Fremdich","Andere","",null,null,"see",137,"Andere","fremdich"],
+ ["Fremdich","Andere, der","",null,null,"see",137,"Andere","fremdich"],
+ ["Fremdich","Fremderfahrung","(Husserl)",null,null,"see",949,"Fremderfahrung","fremdich"],
+ ["Fremdich","Intersubjektivität","(Husserl)",null,null,"see",1484,"Intersubjektivität","fremdich"],
  [
   "Fremdpräsentation","Präsentation","I (Meinong)",null,null,"ref",2442,"Präsentation",
   "fremdprasentation"
@@ -277,8 +283,13 @@ HWPH.put("r/66-72",
  ],
  ["Fremdwelt","Fremdwelt","(Husserl)","2","1104","main",952,"Fremdwelt","fremdwelt"],
  ["Fremdwelt","Heimwelt","(Husserl)",null,null,"see",1241,"Heimwelt","fremdwelt"],
- ["Fremdwörter","Lehnwort Fremdzwecklichkeit","",null,null,"ref",null,null,"fremdworter"],
- ["Freude","Lust; Freude Freudlosigkeit","",null,null,"ref",1837,"Lust, Freude","freude"],
+ ["Fremdwörter","Lehnwort","",null,null,"ref",1766,"Lehnwort, Lehngut","fremdworter"],
+ [
+  "Fremdzwecklichkeit","Autotelie/Heterotelie","(Stern)",null,null,"ref",335,"Autotelie/Heterotelie",
+  "fremdzwecklichkeit"
+ ],
+ ["Freude","Lust; Freude","",null,null,"ref",1837,"Lust, Freude","freude"],
+ ["Freudlosigkeit","Überdruss","","11","9","ref",3249,"Überdruß","freudlosigkeit"],
  ["Freund","Freundschaft","",null,null,"ref",954,"Freundschaft","freund"],
  ["Freund","Natur, zweite","I","6","485","ref",2077,"Natur, zweite","freund"],
  ["Freund/Feind","Freund/Feind","","2","1104f.","main",953,"Freund/Feind","freund/feind"],
@@ -337,7 +348,7 @@ HWPH.put("r/66-72",
  ],
  ["Frömmigkeit","Erleben; Erlebnis","","2","704","ref",804,"Erleben, Erlebnis","frommigkeit"],
  [
-  "Frömmigkeit, jüdische","Judentum (Wesen des Judentums)","","4","650","ref",1512,
+  "Frömmigkeit, jüdische","Judentum","(Wesen des Judentums)","4","650","ref",1512,
   "Judentum, Wesen des Judentums","frommigkeit, judische"
  ],
  ["frottage","Verfahren","","11","633","ref",3396,"Verfahren","frottage"],
@@ -365,6 +376,8 @@ HWPH.put("r/66-72",
  ],
  ["früher/später","Ordnung","II","6","1276f.","ref",2233,"Ordnung","fruher/spater"],
  ["früher/später","Zeit","II B","12","1197","ref",3676,"Zeit","fruher/spater"],
+ ["früher/später","Zeit","III A","12","1212ff.","ref",3676,"Zeit","fruher/spater"],
+ ["früher/später","Zeit","VI","12","1242","ref",3676,"Zeit","fruher/spater"],
  [
   "Früheres/Späteres","Hysteron/Proteron","",null,null,"ref",1333,"Hysteron/Proteron",
   "fruheres/spateres"
@@ -377,7 +390,6 @@ HWPH.put("r/66-72",
  ["Frustration","Frustration","","2","1125–1127","main",960,"Frustration","frustration"],
  ["Frustration","Aggression","",null,null,"see",61,"Aggression","frustration"],
  ["Frustration","Regression","II (psych.)",null,null,"see",2648,"Regression","frustration"],
- ["Freiheit","Freiheit","I",null,null,"main",946,"Freiheit","freiheit"],
  ["Fraisse Paul","Rhythmus","III (psych.)","8","1034–1036","author",2715,"Rhythmus","fraisse paul"],
  ["Frank Hartwig","Wesen","IV","12","637–644","author",3595,"Wesen","frank hartwig"],
  ["Frank Hartwig","Zeichen","II","12","1172–1179","author",3673,"Zeichen","frank hartwig"],
@@ -448,7 +460,7 @@ HWPH.put("r/66-72",
   "Determinismus/Indeterminismus","frey gerhard"
  ],
  [
-  "Frey Gerhard","Exhaustion; Variation (Dingler)","","2","850","author",858,"Exhaustion, Variation",
+  "Frey Gerhard","Exhaustion; Variation","(Dingler)","2","850","author",858,"Exhaustion, Variation",
   "frey gerhard"
  ],
  ["Frey Gerhard","Experiment","","2","868–870","author",873,"Experiment","frey gerhard"],

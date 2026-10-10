@@ -18,7 +18,7 @@ HWPH.put("a/2821",
  "backlinks":[{"id":2836,"lemma":"Selbstgefühl","n":1},{"id":3379,"lemma":"Verachtung; Mißachtung","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"602","qualifier":"","band":"9","col":"316f."},
+  {"term":"Anerkennung","qualifier":"","band":"9","col":"316f."},
   {"term":"estime de soi-même","qualifier":"","band":null,"col":null},
   {"term":"générosité","qualifier":"","band":"9","col":"314"},
   {"term":"other-respect","qualifier":"","band":"9","col":"316"},

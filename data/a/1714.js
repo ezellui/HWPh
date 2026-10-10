@@ -21,7 +21,7 @@ HWPH.put("a/1714",
   {"term":"abstrakte Kunst","qualifier":"","band":null,"col":null},
   {"term":"gegenstandslose Kunst","qualifier":"","band":null,"col":null},
   {"term":"konkrete Kunst","qualifier":"","band":"4","col":"1437"},
-  {"term":"L 7 795 non-relational art","qualifier":"","band":"4","col":"1439"},
+  {"term":"non-relational art","qualifier":"","band":"4","col":"1439"},
   {"term":"relational art","qualifier":"","band":"4","col":"1438"}
  ],
  "persons":[

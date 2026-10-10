@@ -21,8 +21,7 @@ HWPH.put("a/2132",
   {"term":"fatum","qualifier":"","band":null,"col":null},
   {"term":"series causarum","qualifier":"","band":null,"col":null},
   {"term":"Zusammenhang","qualifier":"","band":null,"col":null},
-  {"term":"εi‘μαρμένη","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 2 150–155 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"εi‘μαρμένη","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":1,"n":2,"l":0,"editor":0,"role":"source"},

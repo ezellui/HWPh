@@ -1,17 +1,8 @@
 HWPH.put("r/6c-65",
 [
  [
-  "Leib-Seele-Verhältnis","Leib-Seele-Verhältnis","II","5","191ff.","main",1770,
-  "Leib-Seele-Verhältnis","leib-seele-verhaltnis"
- ],
- [
-  "Leib-Seele-Verhältnis","Leib-Seele-Verhältnis","III","5","204","main",1770,
-  "Leib-Seele-Verhältnis","leib-seele-verhaltnis"
- ],
- ["Leib/Körper","Leib/Körper","I","5","175","main",1769,"Leib, Körper","leib/korper"],
- [
-  "Legalität; Legitimität Herrschaftslosigkeit","Legalität; Legitimität Herrschaftslosigkeit","",
-  null,null,"main",1762,"Legalität, Legitimität","legalitat; legitimitat herrschaftslosigkeit"
+  "Legalität; Legitimität","Legalität; Legitimität","",null,null,"main",1762,
+  "Legalität, Legitimität","legalitat; legitimitat"
  ],
  ["Lebenskraft","Lebenskraft","",null,null,"main",1746,"Lebenskraft","lebenskraft"],
  [
@@ -24,14 +15,20 @@ HWPH.put("r/6c-65",
  ],
  ["league of nations","Völkerbund","",null,null,"ref",3473,"Völkerbund","league of nations"],
  ["Leben","Leben","","5","52–103","main",1735,"Leben","leben"],
- ["Leben","Bios (Lebensform)","",null,null,"see",null,null,"leben"],
+ ["Leben","Bios","(Lebensform)",null,null,"see",null,null,"leben"],
  ["Leben","Leben, ewiges","",null,null,"see",1736,"Leben, ewiges","leben"],
  ["Leben","Selbstbewegung","",null,null,"see",2827,"Selbstbewegung","leben"],
+ ["Leben","Lebenskraft","",null,null,"see",1746,"Lebenskraft","leben"],
+ ["Leben","Lebenskriterien","",null,null,"see",1748,"Lebenskriterien","leben"],
+ [
+  "Leben","Maschinentheorie des Lebens","",null,null,"see",1873,"Maschinentheorie des Lebens",
+  "leben"
+ ],
  ["Leben","Erleben; Erlebnis","",null,null,"ref",804,"Erleben, Erlebnis","leben"],
  ["Leben","Seele","",null,null,"ref",2794,"Seele","leben"],
  ["Leben","Sinn des Lebens","",null,null,"ref",2890,"Sinn des Lebens","leben"],
  ["Leben","Undurchsichtigkeit","I (Heidegger)",null,null,"ref",3290,"Undurchsichtigkeit","leben"],
- ["Leben","Dialektik","IV",null,null,"ref",583,"Dialektik","leben"],
+ ["Leben","Dialektik","IV 1. 4","2","189ff.","ref",583,"Dialektik","leben"],
  ["Leben","Eine, das; Einheit","III","2","380","ref",675,"Eine (das), Einheit","leben"],
  ["Leben","Einfühlungsästhetik","","2","398","ref",682,"Einfühlungsästhetik","leben"],
  ["Leben","Geist","VIII","3","193","ref",1030,"Geist","leben"],
@@ -41,7 +38,7 @@ HWPH.put("r/6c-65",
   "leben"
  ],
  ["Leben","Kontinuum","III","4","1055","ref",1640,"Kontinuum, Kontinuität","leben"],
- ["Leben","Prozess I 3 (hist.)","","7","1549","ref",2499,"Prozeß","leben"],
+ ["Leben","Prozess","I 3 (hist.)","7","1549","ref",2499,"Prozeß","leben"],
  ["Leben","Schicksal","","8","1284f.","ref",2764,"Schicksal","leben"],
  ["Leben","Unergründlichkeit","","11","148","ref",3293,"Unergründlichkeit","leben"],
  ["Leben","Vernunft; Verstand","VII D 1","11","843","ref",3423,"Vernunft; Verstand","leben"],
@@ -101,7 +98,7 @@ HWPH.put("r/6c-65",
   "Leben, tätiges","Vita activa/contemplativa","",null,null,"ref",3469,
   "Vita activa/vita contemplativa","leben, tatiges"
  ],
- ["Leben, tätiges","Dialektik","IV",null,null,"ref",583,"Dialektik","leben, tatiges"],
+ ["Leben, tätiges","Dialektik","IV 1. 6","2","195f.","ref",583,"Dialektik","leben, tatiges"],
  [
   "Leben, transzendentales","Phänomenologie","II (Husserl)","7","494","ref",2343,"Phänomenologie",
   "leben, transzendentales"
@@ -130,7 +127,7 @@ HWPH.put("r/6c-65",
  ],
  ["Lebensalter","Lebensalter","","5","112–114","main",1739,"Lebensalter","lebensalter"],
  [
-  "Lebensalter","Kulturmorphologie (Frobenius)","",null,null,"see",1706,
+  "Lebensalter","Kulturmorphologie","(Frobenius)",null,null,"see",1706,
   "Kulturmorphologie, Kulturkreislehre","lebensalter"
  ],
  [
@@ -154,7 +151,11 @@ HWPH.put("r/6c-65",
  ["Lebensbesinnung","Selbstbesinnung","II","9","333","ref",2825,"Selbstbesinnung","lebensbesinnung"],
  ["Lebensbezug","Lebensbezug","(Dilthey)","5","114f.","main",1740,"Lebensbezug","lebensbezug"],
  ["Lebensbezug","Lebenserfahrung","(Dilthey)",null,null,"see",1742,"Lebenserfahrung","lebensbezug"],
- ["Lebensbezug","Vorwissenschaftlich Lebensbuch","",null,null,"see",null,null,"lebensbezug"],
+ [
+  "Lebensbezug","Vorwissenschaftlich","",null,null,"see",3510,"Vorwissenschaftlich; vortheoretisch",
+  "lebensbezug"
+ ],
+ ["Lebensbuch","Buch des Lebens","",null,null,"ref",455,"Buch des Lebens","lebensbuch"],
  ["Lebensenergie","Libido","","5","279","ref",1791,"Libido","lebensenergie"],
  [
   "Lebensentstehung","Lebensentstehung","","5","115f.","main",1741,"Lebensentstehung",
@@ -169,7 +170,7 @@ HWPH.put("r/6c-65",
  ["Lebenserfahrung","Lebensbezug","(Dilthey)",null,null,"see",1740,"Lebensbezug","lebenserfahrung"],
  ["Lebenserfahrung","Weltanschauung","",null,null,"see",3560,"Weltanschauung","lebenserfahrung"],
  ["Lebenserfahrung","Weltbild","",null,null,"see",3561,"Weltbild","lebenserfahrung"],
- ["Lebensform","Bios (Lebensform)","",null,null,"ref",null,null,"lebensform"],
+ ["Lebensform","Bios","(Lebensform)",null,null,"ref",null,null,"lebensform"],
  [
   "Lebensform","Vita activa/contemplativa","",null,null,"ref",3469,"Vita activa/vita contemplativa",
   "lebensform"
@@ -191,6 +192,21 @@ HWPH.put("r/6c-65",
  ["Lebensgeister","Leben","IV","5","66","ref",1735,"Leben","lebensgeister"],
  ["Lebensgeister","Reflex","","8","389","ref",2633,"Reflex, Reflexbewegung","lebensgeister"],
  ["Lebensgeister","Seele","IV","9","30","ref",2794,"Seele","lebensgeister"],
+ ["Lebenshorizont","Horizont","III 1 (allg.)","3","1200","ref",1310,"Horizont","lebenshorizont"],
+ [
+  "Lebenskategorien","Lebenskategorien","(Dilthey)","5","120–122","main",1745,"Lebenskategorien",
+  "lebenskategorien"
+ ],
+ ["Lebenskategorien","Lebendigkeit","",null,null,"see",1737,"Lebendigkeit","lebenskategorien"],
+ ["Lebenskategorien","Lebensbezug","(Dilthey)",null,null,"see",1740,"Lebensbezug","lebenskategorien"],
+ [
+  "Lebenskategorien","Lebenserfahrung","(Dilthey)",null,null,"see",1742,"Lebenserfahrung",
+  "lebenskategorien"
+ ],
+ [
+  "Lebenskategorien","Logik, hermeneutische","",null,null,"see",1808,"Logik, hermeneutische",
+  "lebenskategorien"
+ ],
  ["Lebenskraft","Lebenskraft","","5","122–128","main",1746,"Lebenskraft","lebenskraft"],
  ["Lebenskraft","Archeus","",null,null,"see",240,"Archeus","lebenskraft"],
  ["Lebenskraft","Nisus","",null,null,"see",2141,"Nisus","lebenskraft"],
@@ -201,7 +217,7 @@ HWPH.put("r/6c-65",
  ],
  ["Lebenskraft","Organ","","6","1320f.","ref",2239,"Organ","lebenskraft"],
  ["Lebenskraft","Organismus","I (biol.)","6","1330","ref",2243,"Organismus","lebenskraft"],
- ["Lebenskraft","Potenzen II 2 (med.)","","7","1171","ref",2423,"Potenz, Potenzen","lebenskraft"],
+ ["Lebenskraft","Potenzen","II 2 (med.)","7","1171","ref",2423,"Potenz, Potenzen","lebenskraft"],
  ["Lebenskraft","Weltseele","","12","519","ref",3578,"Weltseele","lebenskraft"],
  ["Lebenskreis","Lebenskreis","","5","128f.","main",1747,"Lebenskreis","lebenskreis"],
  ["Lebenskreis","Heimat; Heimatkunde","",null,null,"see",1240,"Heimat, Heimatkunde","lebenskreis"],
@@ -248,10 +264,10 @@ HWPH.put("r/6c-65",
   "lebensphilosophie"
  ],
  [
-  "Lebensphilosophie","Erleben; Erlebnis Lebensphilosophie","",null,null,"see",804,
-  "Erleben, Erlebnis","lebensphilosophie"
+  "Lebensphilosophie","Erleben; Erlebnis","",null,null,"see",804,"Erleben, Erlebnis",
+  "lebensphilosophie"
  ],
- ["Leben","Leben","V","5","73","main",1735,"Leben","leben"],
+ ["Lebensphilosophie","Leben","V","5","73","ref",1735,"Leben","lebensphilosophie"],
  ["Lebensplan","Lebensplan","(Adler)","5","140f.","main",1751,"Lebensplan","lebensplan"],
  ["Lebensplan","Arrangement","(Adler)",null,null,"see",250,"Arrangement","lebensplan"],
  ["Lebensplan","Lebensstil","",null,null,"see",1754,"Lebensstil","lebensplan"],
@@ -303,14 +319,14 @@ HWPH.put("r/6c-65",
  ],
  ["Lebensverlängerung","Makrobiotik","",null,null,"ref",1848,"Makrobiotik","lebensverlangerung"],
  ["Lebensvertrauen","Vertrauen","","11","987","ref",3447,"Vertrauen","lebensvertrauen"],
- ["Lebenswahl","Bios (Lebensform)","",null,null,"ref",null,null,"lebenswahl"],
+ ["Lebenswahl","Bios","(Lebensform)",null,null,"ref",null,null,"lebenswahl"],
  ["Lebenswahl","Prohairesis","","7","1451","ref",2474,"Prohairesis","lebenswahl"],
  ["Lebensweise","Lebensformen","",null,null,"ref",1743,"Lebensformen","lebensweise"],
  [
   "Lebensweise","Philosophie","V A (institut. Formen)",null,null,"ref",2353,"Philosophie",
   "lebensweise"
  ],
- ["Lebensweise","Sekte","I",null,null,"ref",2818,"Sekte","lebensweise"],
+ ["Lebensweise","Sekte","I 1",null,null,"ref",2818,"Sekte","lebensweise"],
  ["Lebensweise","Praxis","I","7","1279f.","ref",2448,"Praxis, praktisch","lebensweise"],
  [
   "Lebensweise, sozialistische","Lebensweise, sozialistische","","5","149–151","main",1756,
@@ -358,8 +374,18 @@ HWPH.put("r/6c-65",
  ["lectio","Meditation","I (allg.)","5","963","ref",1905,"Meditation","lectio"],
  ["lectio","Philosophie","V B (institut. Formen)","7","806","ref",2353,"Philosophie","lectio"],
  ["lectio","Scholastik","","8","1340","ref",2775,"Scholastik","lectio"],
- ["lecture","Lektüre; Lesart lecture symptomale","",null,null,"ref",1779,"Lektüre, Lesart","lecture"],
+ ["lecture","Lektüre; Lesart","",null,null,"ref",1779,"Lektüre, Lesart","lecture"],
+ [
+  "lecture symptomale","Struktur","II (frz. Struktural.)","10","318","ref",3040,"Struktur",
+  "lecture symptomale"
+ ],
  ["Leere","Leere","","5","157–159","main",1758,"Leere","leere"],
+ ["Leere","Abgeschiedenheit","",null,null,"see",21,"Abgeschiedenheit","leere"],
+ ["Leere","Langeweile","",null,null,"see",1727,"Langeweile","leere"],
+ ["Leere","Nichts; Nichtseiendes","",null,null,"see",2136,"Nichts, Nichtseiendes","leere"],
+ ["Leere","Satori","",null,null,"see",2743,"Satori","leere"],
+ ["Leere","Śūnyatā","",null,null,"see",3077,"Śūnyatā","leere"],
+ ["Leere","Wu-Wei Leere","(phys.)",null,null,"see",null,null,"leere"],
  ["leere Menge","Mengenlehre","","5","1048","ref",1916,"Mengenlehre","leere menge"],
  [
   "leerer Begriff","Gedankending","","3","61","ref",1000,"Gedankending (ens rationis)",
@@ -373,7 +399,16 @@ HWPH.put("r/6c-65",
  ["Leerformel","Dialektik","IV","10","2","ref",2998,"Staat","leerformel"],
  ["Leerhorizont","Leerintention","(Husserl)",null,null,"ref",1760,"Leerintention","leerhorizont"],
  ["Leerhorizont","Antizipation","I (erk.)","1","423","ref",193,"Antizipation","leerhorizont"],
- ["Leerhorizont","Horizont","III",null,null,"ref",1310,"Horizont","leerhorizont"],
+ ["Leerhorizont","Horizont","III 2 (Husserl)","3","1200","ref",1310,"Horizont","leerhorizont"],
+ ["Leerintention","Leerintention","(Husserl)","5","160","main",1760,"Leerintention","leerintention"],
+ [
+  "Leerintention","Intentionalität","(Husserl)",null,null,"see",1470,"Intentionalität",
+  "leerintention"
+ ],
+ [
+  "Leerintention","Selbstgebung","(Husserl)",null,null,"see",2835,"Selbstgebung, Selbstgegebenheit",
+  "leerintention"
+ ],
  [
   "Leerlaufhandlung","Leerlaufhandlung","","5","160f.","main",1761,"Leerlaufhandlung",
   "leerlaufhandlung"
@@ -401,9 +436,11 @@ HWPH.put("r/6c-65",
  ],
  ["Legitimität","Herrschaft","II (Weber)",null,null,"ref",1261,"Herrschaft","legitimitat"],
  [
-  "Legitimität","Legalität; Legitimität Legi-Zeichen","",null,null,"ref",1762,
-  "Legalität, Legitimität","legitimitat"
+  "Legitimität","Legalität; Legitimität","",null,null,"ref",1762,"Legalität, Legitimität",
+  "legitimitat"
  ],
+ ["Legi-Zeichen","Symptom","III (sem.)","10","766","ref",3099,"Symptom","legi-zeichen"],
+ ["Legi-Zeichen","Zeichen","II","12","1172","ref",3673,"Zeichen","legi-zeichen"],
  ["Lehngut","Lehnwort","",null,null,"ref",1766,"Lehnwort, Lehngut","lehngut"],
  ["Lehnsatz","Lehnsatz","","5","167","main",1764,"Lehnsatz","lehnsatz"],
  ["Lehnsatz","Lemma","",null,null,"see",1780,"Lemma","lehnsatz"],
@@ -425,7 +462,7 @@ HWPH.put("r/6c-65",
  ["Lehre vom Herzen","Shingaku","",null,null,"ref",2879,"Shingaku","lehre vom herzen"],
  ["Lehre vom Staat","Staatslehre","",null,null,"ref",2999,"Staatslehre","lehre vom staat"],
  [
-  "Lehren, wortloses","Schweigen; Stille B","","8","1493","ref",2787,"Schweigen, Stille",
+  "Lehren, wortloses","Schweigen; Stille","B","8","1493","ref",2787,"Schweigen, Stille",
   "lehren, wortloses"
  ],
  ["Lehrerbildung","Pädagogik","","7","11f.","ref",2256,"Pädagogik","lehrerbildung"],
@@ -459,7 +496,7 @@ HWPH.put("r/6c-65",
  ["Leib des Geistes","Stil","","10","152","ref",3024,"Stil","leib des geistes"],
  ["Leibapriori","Interesse","II","4","494","ref",1475,"Interesse","leibapriori"],
  [
-  "Leibbewusstsein","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Leibbewusstsein","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","leibbewusstsein"
  ],
  ["Leibeigenschaft","Sklaverei","","9","982","ref",2909,"Sklaverei","leibeigenschaft"],
@@ -545,8 +582,8 @@ HWPH.put("r/6c-65",
   "Pathetisch, das Pathetische","leidenschaft der innerlichkeit"
  ],
  [
-  "leidenschaftlich","Pathetisch; das Pathetische Leidenschaftslosigkeit","",null,null,"ref",2289,
-  "Pathetisch, das Pathetische","leidenschaftlich"
+  "leidenschaftlich","Pathetisch; das","",null,null,"ref",2289,"Pathetisch, das Pathetische",
+  "leidenschaftlich"
  ],
  ["Leidensdruck","Leidensdruck","","5","212–215","main",1772,"Leidensdruck","leidensdruck"],
  ["Leidensdruck","Psychotherapie","",null,null,"see",2532,"Psychotherapie","leidensdruck"],
@@ -556,7 +593,7 @@ HWPH.put("r/6c-65",
  ["Leistung","Leistungsprinzip","",null,null,"see",1774,"Leistungsprinzip","leistung"],
  ["Leistung","Anspruchsniveau","",null,null,"ref",169,"Anspruchsniveau","leistung"],
  ["Leistung","Bildung","","1","927","ref",435,"Bildung","leistung"],
- ["Leistung","Erkenntnis II (psych.)","","2","677","ref",796,"Erkennen, Erkenntnis","leistung"],
+ ["Leistung","Erkenntnis","II (psych.)","2","677","ref",796,"Erkennen, Erkenntnis","leistung"],
  [
   "Leistung, transzendentale","Leistungsprinzip","","5","221","ref",1774,"Leistungsprinzip",
   "leistung, transzendentale"
@@ -608,7 +645,7 @@ HWPH.put("r/6c-65",
  ["Leitbild","Lebensstil","",null,null,"see",1754,"Lebensstil","leitbild"],
  ["Leitbild","Leitlinie","(Adler)",null,null,"see",1777,"Leitlinie","leitbild"],
  ["Leitbild","Vorbild","",null,null,"see",3491,"Vorbild","leitbild"],
- ["Leitbild","Darstellungsprinzip (Klages)","","2","14","ref",526,"Darwinismus","leitbild"],
+ ["Leitbild","Darstellungsprinzip","(Klages)","2","14","ref",526,"Darwinismus","leitbild"],
  ["Leiter der Wesen","Stufen","II","10","359","ref",3044,"Stufen","leiter der wesen"],
  ["Leitlinie","Leitlinie","(Adler)","5","228f.","main",1777,"Leitlinie","leitlinie"],
  ["Leitlinie","Charakter","I (allg.)",null,null,"see",486,"Charakter","leitlinie"],
@@ -648,14 +685,18 @@ HWPH.put("r/6c-65",
  ["Lernbehinderung","Psychomotorik","II","7","1682","ref",2524,"Psychomotorik","lernbehinderung"],
  ["Lernen","Lernen","","5","241–247","main",1782,"Lernen","lernen"],
  ["Lernen","Nachahmung","",null,null,"see",2054,"Nachahmung","lernen"],
+ ["Lernen","Didaktik","",null,null,"see",592,"Didaktik","lernen"],
+ ["Lernen","Formalstufen","",null,null,"see",932,"Formalstufen","lernen"],
+ ["Lernen","Assoziation","II",null,null,"see",263,"Assoziation","lernen"],
+ ["Lernen","Begriffsbildung","",null,null,"see",366,"Begriffsbildung","lernen"],
+ ["Lernen","Einsicht","II",null,null,"see",689,"Einsicht, einsichtig","lernen"],
+ ["Lernen","Gedächtnis","",null,null,"see",996,"Gedächtnis","lernen"],
+ ["Lernen","Lerntheorien","",null,null,"see",1783,"Lerntheorien","lernen"],
  ["Lernen","Anpassung","I (biol./psych.)","1","337","ref",159,"Anpassung","lernen"],
  ["Lernen","Heuristik","","3","1116","ref",1268,"Heuristik, heuristisch","lernen"],
  ["Lernen","Performanz","","7","248","ref",2309,"Performanz","lernen"],
  ["Lernen","Versuch und Irrtum","","11","949f.","ref",3441,"Versuch und Irrtum","lernen"],
- [
-  "Lernen, latentes","Latenz III (psych.)","","5","44","ref",1731,"Latent, Latenz",
-  "lernen, latentes"
- ],
+ ["Lernen, latentes","Latenz","III (psych.)","5","44","ref",1731,"Latent, Latenz","lernen, latentes"],
  ["Lernen, soziales","Psychologie","","7","1640","ref",2511,"Psychologie","lernen, soziales"],
  ["Lernen durch Leiden","Widerfahrnis","","12","678","ref",3604,"Widerfahrnis","lernen durch leiden"],
  [
@@ -665,14 +706,15 @@ HWPH.put("r/6c-65",
  ["Lerntheorien","Lerntheorien","","5","247–251","main",1783,"Lerntheorien","lerntheorien"],
  ["Lerntheorien","Antizipation","II (psych.)",null,null,"see",193,"Antizipation","lerntheorien"],
  ["Lerntheorien","Assoziation","II",null,null,"see",263,"Assoziation","lerntheorien"],
- ["Lerntheorien","Einsicht II","",null,null,"see",689,"Einsicht, einsichtig","lerntheorien"],
+ ["Lerntheorien","Einsicht","II",null,null,"see",689,"Einsicht, einsichtig","lerntheorien"],
  ["Lerntheorien","Gedächtnis","",null,null,"see",996,"Gedächtnis","lerntheorien"],
  ["Lerntheorien","Lernen","II (psych.)",null,null,"see",1782,"Lernen","lerntheorien"],
  ["Lerntheorien","Nachahmung","",null,null,"see",2054,"Nachahmung","lerntheorien"],
  ["Lerntheorien","Orientierungsreflex","",null,null,"see",2249,"Orientierungsreflex","lerntheorien"],
  ["Lerntheorien","Versuch und Irrtum","",null,null,"see",3441,"Versuch und Irrtum","lerntheorien"],
  ["Lerntheorien","Kognition","","4","871f.","ref",1578,"Kognition, kognitiv","lerntheorien"],
- ["Lesart","Lektüre; Lesart lesbische Regel","",null,null,"ref",1779,"Lektüre, Lesart","lesart"],
+ ["Lesart","Lektüre; Lesart","",null,null,"ref",1779,"Lektüre, Lesart","lesart"],
+ ["lesbische Regel","Regula Lesbia","",null,null,"ref",2651,"Regula Lesbia","lesbische regel"],
  ["Lesen im Innern","Phänomen","II","7","467","ref",2340,"Phänomen","lesen im innern"],
  ["Lesung","Shintō; Shintoismus Lethargie","",null,null,"ref",2880,"Shinto; Schintoismus","lesung"],
  ["Lethe","Vergessen, das","",null,null,"ref",3404,"Vergessen, das","lethe"],
@@ -691,7 +733,7 @@ HWPH.put("r/6c-65",
   "Transzendentalpragmatik/Universalpragmatik","letztbegrundung"
  ],
  [
-  "Letztbegründung","Rationalität III (analyt. Philos.)","","8","65","ref",2576,
+  "Letztbegründung","Rationalität","III (analyt. Philos.)","8","65","ref",2576,
   "Rationalität, Rationalisierung","letztbegrundung"
  ],
  ["Letztbegründung","Transzendental","XI","10","1425","ref",3219,"Transzendental","letztbegrundung"],
@@ -757,49 +799,6 @@ HWPH.put("r/6c-65",
  ["Lexikologie","Lexikologie","","5","255f.","main",1786,"Lexikologie, Lexematik","lexikologie"],
  ["lézarde","Selbstsein","","9","524","ref",2847,"Selbstsein","lezarde"],
  [
-  "Legalität; Legitimität rechts/links","Legalität; Legitimität rechts/links","",null,null,"main",
-  1762,"Legalität, Legitimität","legalitat; legitimitat rechts/links"
- ],
- [
-  "Leib-Seele-Verhältnis","Leib-Seele-Verhältnis","II","5","191","main",1770,"Leib-Seele-Verhältnis",
-  "leib-seele-verhaltnis"
- ],
- ["Leib-Seele-Verhältnis","Maschine","","5","791ff.","ref",1872,"Maschine","leib-seele-verhaltnis"],
- [
-  "Leib-Seele-Verhältnis","Struktur","I (allg.)","10","304","ref",3040,"Struktur",
-  "leib-seele-verhaltnis"
- ],
- [
-  "Leib-Seele-Verhältnis","Leib-Seele-Verhältnis","II",null,null,"main",1770,"Leib-Seele-Verhältnis",
-  "leib-seele-verhaltnis"
- ],
- ["Leib-Seele-Verhältnis","Seele","",null,null,"ref",2794,"Seele","leib-seele-verhaltnis"],
- [
-  "Leib-Seele-Verhältnis","Präexistenz","","7","1230f.","ref",2432,"Präexistenz",
-  "leib-seele-verhaltnis"
- ],
- [
-  "Leib-Seele-Verhältnis","Psychologie","","7","1603","ref",2511,"Psychologie",
-  "leib-seele-verhaltnis"
- ],
- [
-  "Leib-Seele-Verhältnis","Psychologie, rationale","","7","1665ff.","ref",2519,
-  "Psychologie, rationale","leib-seele-verhaltnis"
- ],
- [
-  "Leib-Seele-Verhältnis","Seelenwanderung","I","9","118","ref",2801,"Seelenwanderung",
-  "leib-seele-verhaltnis"
- ],
- [
-  "Lebenskategorien","Lebenskategorien","(Dilthey)","5","121","main",1745,"Lebenskategorien",
-  "lebenskategorien"
- ],
- [
-  "Lebenskategorien","Logik, transzendentale","","5","477","ref",1819,"Logik, transzendentale",
-  "lebenskategorien"
- ],
- ["Lebenskategorien","Negation","",null,null,"ref",2100,"Negation","lebenskategorien"],
- [
   "Leenhouwers Albuinus","Naivität/Pietät","(Wust)","6","363f.","author",2065,"Naivität/Pietät",
   "leenhouwers albuinus"
  ],
@@ -816,7 +815,7 @@ HWPH.put("r/6c-65",
   "Leidhold Wolfgang","Synkretismus","","10","799–801","author",3109,"Synkretismus",
   "leidhold wolfgang"
  ],
- ["Leinkauf Thomas","Schöne","",null,null,"author",2776,"Schöne","leinkauf thomas"],
+ ["Leinkauf Thomas","Schöne, das","III","8","1356–1364","author",2776,"Schöne","leinkauf thomas"],
  [
   "Leinkauf Thomas","Sensus communis","I","9","622–633","author",2869,"Sensus communis",
   "leinkauf thomas"
@@ -852,16 +851,16 @@ HWPH.put("r/6c-65",
  ],
  ["Lemoine Michel","Methode","III 1","5","1307–1309","author",1955,"Methode","lemoine michel"],
  ["Lemoine Michel","Postulat","II","7","1147f.","author",2418,"Postulat","lemoine michel"],
- ["Lenk Hans","Erklären II (wiss.)","","2","693–701","author",801,"Erklären, Erklärung","lenk hans"],
+ ["Lenk Hans","Erklären","II (wiss.)","2","693–701","author",801,"Erklären, Erklärung","lenk hans"],
  ["Lenk Hans","Neustik/Phrastik","I","6","774f.","author",2126,"Neustik/Phrastik","lenk hans"],
  ["Lenk Hans","Partikeln, logische","","7","147–154","author",2283,"Partikeln, logische","lenk hans"],
  ["Lenk Hans","Verantwortung","II","11","569–575","author",3380,"Verantwortung","lenk hans"],
  [
-  "Lepenies Wolf","Bewusstsein, ideatives/instrumentelles (Gehlen)","","1","898f.","author",414,
-  "Bewußtsein, geschichtliches bzw. historisches","lepenies wolf"
+  "Lepenies Wolf","Bewusstsein, ideatives/instrumentelles","(Gehlen)","1","898f.","author",415,
+  "Bewußtsein, ideatives/instrumentelles","lepenies wolf"
  ],
  [
-  "Lepenies Wolf","Faktenaussenwelt/Fakteninnenwelt (Gehlen)","","2","885","author",887,
+  "Lepenies Wolf","Faktenaussenwelt/Fakteninnenwelt","(Gehlen)","2","885","author",887,
   "Faktenaußenwelt/Fakteninnenwelt","lepenies wolf"
  ],
  [
@@ -877,7 +876,7 @@ HWPH.put("r/6c-65",
   "Hintergrundserfüllung","lepenies wolf"
  ],
  [
-  "Lepenies Wolf","Zweckmässigkeit, sekundäre objektive (Gehlen)","","12","1510","author",3719,
+  "Lepenies Wolf","Zweckmässigkeit, sekundäre objektive","(Gehlen)","12","1510","author",3719,
   "Zweckmäßigkeit, sekundäre objektive","lepenies wolf"
  ],
  ["Lessing Hans-Ulrich","Langeweile","","5","28–32","author",1727,"Langeweile","lessing hans-ulrich"],
@@ -901,7 +900,10 @@ HWPH.put("r/6c-65",
   "Lessing Hans-Ulrich","Psychologie, beschreibende und zergliedernde","","7","1653–1655","author",
   2512,"Psychologie, beschreibende und zergliedernde","lessing hans-ulrich"
  ],
- ["Lessing Hans-Ulrich","Psychologie","",null,null,"author",2511,"Psychologie","lessing hans-ulrich"],
+ [
+  "Lessing Hans-Ulrich","Psychologie, geisteswissenschaftliche","","7","1656–1658","author",2514,
+  "Psychologie, geisteswissenschaftliche und verstehende","lessing hans-ulrich"
+ ],
  [
   "Lessing Hans-Ulrich","Realpsychologie","(Dilthey)","8","212f.","author",2595,"Realpsychologie",
   "lessing hans-ulrich"

@@ -17,7 +17,7 @@ HWPH.put("a/517",
  "next":{"id":518,"lemma":"Dämonen","band":"2","col":1},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"δαιμόνιον","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":3,"name":"Platon","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":191,"name":"Xenophon","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -31,7 +31,7 @@ HWPH.put("a/517",
   {"id":1197,"name":"O. Gigon","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3673,"lemma":"Zeichen","tf":2},{"id":1116,"lemma":"Gestalt","tf":2}],
- "see_also":[],
+ "see_also":[{"id":519,"lemma":"Dämonisch, das Dämonische"}],
  "groups":[{"id":3,"name":"Antike Philosophie","label":"Daimonion"}],
  "reg_authors":[{"name":"Hager Fritz-Peter","n":24}]
 }

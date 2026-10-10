@@ -26,14 +26,7 @@ HWPH.put("a/2632",
   {"term":"denotation","qualifier":"","band":"8","col":"385"},
   {"term":"Gegenstandsbezug","qualifier":"","band":null,"col":null},
   {"term":"meaning","qualifier":"","band":"8","col":"385"},
-  {"term":"reference","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (Heidegger) 11 138 – II (Quine) 11 139f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
-  {"term":"– II (log.) 3 134 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"reference","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":39,"name":"G. Frege","b":3,"n":3,"l":0,"editor":0,"role":"source"},

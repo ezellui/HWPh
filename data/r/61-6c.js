@@ -11,7 +11,7 @@ HWPH.put("r/61-6c",
   "alchemie"
  ],
  ["Alchemie","Natur","IV","6","459","ref",2074,"Natur","alchemie"],
- ["Alchemie","Prozess I 3 (hist.)","","7","1548","ref",2499,"Prozeß","alchemie"],
+ ["Alchemie","Prozess","I 3 (hist.)","7","1548","ref",2499,"Prozeß","alchemie"],
  ["Alchemie","Uroboros","","11","367","ref",3346,"Uroboros","alchemie"],
  ["Aleatorik","Wahrscheinlichkeit","IV A",null,null,"ref",3540,"Wahrscheinlichkeit","aleatorik"],
  ["Aleatorik","Zufall","IV (math. /phys.)",null,null,"ref",3706,"Zufall","aleatorik"],
@@ -165,7 +165,7 @@ HWPH.put("r/61-6c",
  ],
  ["Allgemeines/Besonderes","Begriff","",null,null,"see",365,"Begriff","allgemeines/besonderes"],
  [
-  "Allgemeines/Besonderes","Individuum; Individualität I","",null,null,"see",1424,
+  "Allgemeines/Besonderes","Individuum; Individualität","I",null,null,"see",1424,
   "Individuum, Individualität","allgemeines/besonderes"
  ],
  [
@@ -318,7 +318,12 @@ HWPH.put("r/61-6c",
   "Eigentlichkeit/Uneigentlichkeit","alltaglichkeit"
  ],
  ["Alltäglichkeit","Lebenswelt","I",null,null,"see",1757,"Lebenswelt","alltaglichkeit"],
- ["Alltäglichkeit","Man","",null,null,"see",1853,"Man","alltaglichkeit"],
+ ["Alltäglichkeit","Man, das","(Heidegger)",null,null,"see",1853,"Man","alltaglichkeit"],
+ [
+  "Alltäglichkeit","Sein zum Tode","(Heidegger)",null,null,"see",2810,"Sein zum Tode",
+  "alltaglichkeit"
+ ],
+ ["Alltäglichkeit","Verfallen","(Heidegger)",null,null,"see",3397,"Verfallen","alltaglichkeit"],
  ["Alltag","Lebenswelt","II",null,null,"ref",1757,"Lebenswelt","alltag"],
  ["Alltag","Gewöhnung","","3","621","ref",1134,"Gewöhnung","alltag"],
  [
@@ -338,7 +343,7 @@ HWPH.put("r/61-6c",
   "Alltagssprache","Ordinary Language Philosophy","",null,null,"ref",2232,
   "Ordinary Language Philosophy","alltagssprache"
  ],
- ["Alltagssprache","Sensus communis","IV",null,null,"ref",2869,"Sensus communis","alltagssprache"],
+ ["Alltagssprache","Sensus communis","IV 3",null,null,"ref",2869,"Sensus communis","alltagssprache"],
  ["Alltagssprache","Umgangssprache","",null,null,"ref",3273,"Umgangssprache","alltagssprache"],
  ["Alltagssprache","Exakt/unexakt","","2","849","ref",856,"Exakt/unexakt","alltagssprache"],
  [
@@ -353,7 +358,7 @@ HWPH.put("r/61-6c",
   "Alltagsverstand","Sensus communis","IV 1","9","664","ref",2869,"Sensus communis",
   "alltagsverstand"
  ],
- ["Alltagswelt","Sensus communis","IV",null,null,"ref",2869,"Sensus communis","alltagswelt"],
+ ["Alltagswelt","Sensus communis","IV 4",null,null,"ref",2869,"Sensus communis","alltagswelt"],
  [
   "Alltagswelt","Vorwissenschaftlich","","11","1275","ref",3510,
   "Vorwissenschaftlich; vortheoretisch","alltagswelt"
@@ -389,7 +394,7 @@ HWPH.put("r/61-6c",
   "allzeitlichkeit"
  ],
  ["Allzeitlichkeit","Zeitlosigkeit","",null,null,"see",3680,"Zeitlosigkeit","allzeitlichkeit"],
- ["alma hermosa","Seele","",null,null,"ref",2794,"Seele","alma hermosa"],
+ ["alma hermosa","Seele, schöne","",null,null,"ref",2794,"Seele","alma hermosa"],
  ["Alphabet","Formales System","",null,null,"ref",928,"Formales System","alphabet"],
  ["Alphabet","Chiffre","","1","1001","ref",492,"Chiffre","alphabet"],
  [
@@ -397,6 +402,10 @@ HWPH.put("r/61-6c",
   "alphabet"
  ],
  ["Alphabetschrift","Schrift","I","8","1419","ref",2781,"Schrift","alphabetschrift"],
+ [
+  "alphabetum cogitationum","Scientia generalis","(Leibniz)","8","1505","ref",2790,
+  "Scientia generalis","alphabetum cogitationum"
+ ],
  ["Als","Struktur","I (allg.)","10","309","ref",3040,"Struktur","als"],
  ["Als","Vorprädikativ","II","11","1197","ref",3496,"Vorprädikativ","als"],
  ["als ob nicht","Weltverachtung; Weltflucht","","12","515","ref",3577,"Weltschmerz","als ob nicht"],
@@ -411,16 +420,15 @@ HWPH.put("r/61-6c",
  ["Als-Ob","Realismus","III (analyt. Philos.)","8","163","ref",2588,"Realismus","als-ob"],
  ["Als-Ob","Realität, psychische","","8","206","ref",2592,"Realität, psychische","als-ob"],
  ["Als-Sein","Sein; Seiendes","V 7","9","226","ref",2806,"Sein; Seiendes","als-sein"],
- ["Als-Struktur","Sehen","",null,null,"ref",2802,"Sehen","als-struktur"],
  [
-  "als (Wittgenstein) Alte/Neue","Antiqui/moderni (Querelle des Anciens et des Modernes)","",null,
-  null,"ref",189,"Antiqui/moderni (Querelle des Anciens et des Modernes)",
-  "als (wittgenstein) alte/neue"
+  "Als-Struktur","Sehen als","(Wittgenstein)",null,null,"ref",2803,"Sehen als; Aspektsehen",
+  "als-struktur"
  ],
  [
-  "als (Wittgenstein) Alte/Neue","Fortschritt","","2","1035","ref",942,"Fortschritt",
-  "als (wittgenstein) alte/neue"
+  "Alte/Neue","Antiqui/moderni (Querelle des Anciens et des Modernes)","",null,null,"ref",189,
+  "Antiqui/moderni (Querelle des Anciens et des Modernes)","alte/neue"
  ],
+ ["Alte/Neue","Fortschritt","","2","1035","ref",942,"Fortschritt","alte/neue"],
  ["Alter","Lebensalter","",null,null,"ref",1739,"Lebensalter","alter"],
  ["Alter","Autorität","I (rhet.)","1","725","ref",333,"Autorität","alter"],
  ["alter deus","Natur, zweite","II","6","489","ref",2077,"Natur, zweite","alter deus"],
@@ -429,7 +437,8 @@ HWPH.put("r/61-6c",
  ["altera natura","Natur, zweite","",null,null,"ref",2077,"Natur, zweite","altera natura"],
  ["Alteratio","Alteratio","","1","199","main",109,"Alteratio","alteratio"],
  ["Alteratio","Qualität","",null,null,"see",2544,"Qualität","alteratio"],
- ["Alteratio","Wandel Alterität","",null,null,"see",null,null,"alteratio"],
+ ["Alteratio","Wandel","",null,null,"see",3543,"Wandel; Veränderung","alteratio"],
+ ["Alterität","Unheimliche, das","","11","174","ref",3299,"Unheimliche, das","alteritat"],
  ["alteritas","Andersheit","",null,null,"ref",138,"Andersheit, Anderssein","alteritas"],
  ["alteritas","Vielheit","I","11","1046f.","ref",3462,"Vielheit","alteritas"],
  ["alteritas","Weiblich/männlich","II","12","347","ref",3552,"Weiblich/männlich","alteritas"],
@@ -442,9 +451,10 @@ HWPH.put("r/61-6c",
  ["Altertümlichkeit","Archaisch","","1","496","ref",238,"Archaisch","altertumlichkeit"],
  ["Altertum","Antike","",null,null,"ref",182,"Antike","altertum"],
  [
-  "Altertum","Neuzeit; Mittelalter; Altertum Altertumskunde","",null,null,"ref",2131,
+  "Altertum","Neuzeit; Mittelalter; Altertum","",null,null,"ref",2131,
   "Neuzeit, Mittelalter, Altertum","altertum"
  ],
+ ["Altertumskunde","Philologie","","7","561","ref",2352,"Philologie","altertumskunde"],
  ["Altphilologie","Philologie","","7","570","ref",2352,"Philologie","altphilologie"],
  ["Altruismus","Altruismus","","1","200f.","main",112,"Altruismus","altruismus"],
  ["Altruismus","Egoismus","",null,null,"see",650,"Egoismus","altruismus"],
@@ -454,99 +464,13 @@ HWPH.put("r/61-6c",
   "altruistische abtretung"
  ],
  ["alvor","Ernst","","2","722","ref",811,"Ernst","alvor"],
- [
-  "als (Wittgenstein) aspectus","Sehen","II","9","144","ref",2802,"Sehen",
-  "als (wittgenstein) aspectus"
- ],
- [
-  "Allgemeines/Besonderes","Allgemeines/Besonderes","",null,null,"main",101,"Allgemeines/Besonderes",
-  "allgemeines/besonderes"
- ],
- [
-  "Allgemeines/Besonderes","Individuum; Individualität I Einzelne, der","",null,null,"ref",1424,
-  "Individuum, Individualität","allgemeines/besonderes"
- ],
- [
-  "Allgemeines/Besonderes","Allgemeines/Besonderes","I",null,null,"main",101,
-  "Allgemeines/Besonderes","allgemeines/besonderes"
- ],
- [
-  "Allgemeines/Besonderes","Individuum; Individualität I","",null,null,"ref",1424,
-  "Individuum, Individualität","allgemeines/besonderes"
- ],
- [
-  "Allgemeines/Besonderes","Singulär; Singularität","",null,null,"ref",2888,"Singulär; Singularität",
-  "allgemeines/besonderes"
- ],
- [
-  "Allgemeines/Besonderes","Allgemeines/Besonderes","I",null,null,"main",101,
-  "Allgemeines/Besonderes","allgemeines/besonderes"
- ],
- ["Allgemeines/Besonderes","Denken","I","2","68","ref",552,"Denken","allgemeines/besonderes"],
  ["Allgegenwart Gottes","Allgegenwart Gottes","",null,null,"main",null,null,"allgegenwart gottes"],
  ["Allgegenwart Gottes","Ubiquität","",null,null,"ref",3269,"Ubiquität","allgegenwart gottes"],
- ["Algorithmus","Algorithmus","","1","160","main",97,"Algorithmus","algorithmus"],
- ["Algorithmus","Modallogik","II","6","28ff.","ref",1997,"Modallogik","algorithmus"],
- ["Algorithmus","Relation","V","8","606f.","ref",2668,"Relation","algorithmus"],
- ["als (Wittgenstein)","Seele","","9","1–89","ref",2794,"Seele","als (wittgenstein)"],
- ["als (Wittgenstein)","Doppelnatur","",null,null,"see",631,"Doppelnatur","als (wittgenstein)"],
- [
-  "als (Wittgenstein)","Geistseele; Vernunftseele","",null,null,"see",1039,
-  "Geistseele, Vernunftseele","als (wittgenstein)"
- ],
- ["als (Wittgenstein)","Gemüt","",null,null,"see",1054,"Gemüt","als (wittgenstein)"],
- [
-  "als (Wittgenstein)","Generatianismus; Traduzianismus","",null,null,"see",null,null,
-  "als (wittgenstein)"
- ],
- ["als (Wittgenstein)","Herz","",null,null,"see",1265,"Herz","als (wittgenstein)"],
- [
-  "als (Wittgenstein)","Kausalität, psychische","",null,null,"see",1554,"Kausalität, psychische",
-  "als (wittgenstein)"
- ],
- [
-  "als (Wittgenstein)","Leib-Seele-Verhältnis","",null,null,"see",1770,"Leib-Seele-Verhältnis",
-  "als (wittgenstein)"
- ],
- [
-  "als (Wittgenstein)","Parallelismus, psychophysischer","",null,null,"see",2272,
-  "Parallelismus, psychophysischer","als (wittgenstein)"
- ],
- ["als (Wittgenstein)","Pflanzenseele","",null,null,"see",2333,"Pflanzenseele","als (wittgenstein)"],
- ["als (Wittgenstein)","Psychologie","",null,null,"see",2511,"Psychologie","als (wittgenstein)"],
- [
-  "als (Wittgenstein)","Psychologie, rationale","",null,null,"see",2519,"Psychologie, rationale",
-  "als (wittgenstein)"
- ],
- ["als (Wittgenstein)","Seelensitz","",null,null,"see",2798,"Seelensitz","als (wittgenstein)"],
- ["als (Wittgenstein)","Seelenwagen","",null,null,"see",2800,"Seelenwagen","als (wittgenstein)"],
- [
-  "als (Wittgenstein)","Selbstbewegung","",null,null,"see",2827,"Selbstbewegung",
-  "als (wittgenstein)"
- ],
- [
-  "als (Wittgenstein)","Vernunft; Verstand","",null,null,"see",3423,"Vernunft; Verstand",
-  "als (wittgenstein)"
- ],
- ["als (Wittgenstein)","Weltseele","",null,null,"see",3578,"Weltseele","als (wittgenstein)"],
- ["als (Wittgenstein)","Sinne, die","",null,null,"ref",2892,"Sinne, die","als (wittgenstein)"],
- ["als (Wittgenstein)","Visio","",null,null,"ref",3468,"Visio","als (wittgenstein)"],
- ["als (Wittgenstein)","Wahrnehmung","",null,null,"ref",3539,"Wahrnehmung","als (wittgenstein)"],
- [
-  "als (Wittgenstein) 9 162–165 s. auch","Wahrnehmung","VII (analyt. Philos.)",null,null,"ref",3539,
-  "Wahrnehmung","als (wittgenstein) 9 162–165 s. auch"
- ],
- ["Allheit","Allheit","","1","193","main",103,"Allheit","allheit"],
- ["Allheit","Grundlagenstreit","","3","911","ref",1193,"Grundlagenstreit","allheit"],
- [
-  "Alltäglichkeit","Alltäglichkeit","(Heidegger)","1","195","main",105,"Alltäglichkeit",
-  "alltaglichkeit"
- ],
  ["Aland Kurt","Adiaphora","II","1","85","author",47,"Adiaphora","aland kurt"],
  ["Aland Kurt","Apologetik","","1","446f.","author",206,"Apologetik","aland kurt"],
  [
   "Albers Franz-Josef","Objektivation des Geistes /des Lebens","(Dilthey)","6","1055f.","author",
-  2187,"Objektivation","albers franz-josef"
+  2188,"Objektivation des Geistes /des Lebens","albers franz-josef"
  ],
  ["Albertz Rainer","Schöpfung","I","8","1389–1393","author",2779,"Schöpfung","albertz rainer"],
  ["Albrecht Michael","Sekte","I 2","9","277–284","author",2818,"Sekte","albrecht michael"],
@@ -560,7 +484,7 @@ HWPH.put("r/61-6c",
   "albrecht michael"
  ],
  ["Albrecht Michael","Wahrheit","IV","12","79–88","author",3523,"Wahrheit","albrecht michael"],
- ["Allemann Beda","Klassische","",null,null,"author",1573,"Klassische","allemann beda"],
+ ["Allemann Beda","Klassische, das","","4","853–856","author",1573,"Klassische","allemann beda"],
  ["Alpers Harm","Versöhnung","I (theol.)","11","891–898","author",3434,"Versöhnung","alpers harm"],
  [
   "Althaus Claudia","Wille zur Macht","(Nietzsche)","12","797–800","author",3622,"Wille zur Macht",

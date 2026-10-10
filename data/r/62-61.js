@@ -1,11 +1,5 @@
 HWPH.put("r/62-61",
 [
- ["Bahnung","Bahnung","",null,null,"main",343,"Bahnung","bahnung"],
- ["Bahnung","Umsicht","",null,null,"ref",3276,"Umsicht","bahnung"],
- ["Bahnung","Gedächtnis","","3","39","ref",996,"Gedächtnis","bahnung"],
- ["Bahnung","Spannung","IV (psych.)","9","1294","ref",2961,"Spannung","bahnung"],
- ["Bahnung","Wille","III B","12","790","ref",3620,"Wille","bahnung"],
- ["Bahnung","Zerstreuung","I (anthr.)","12","1312","ref",3690,"Zerstreuung","bahnung"],
  [
   "baccalaureus","Philosophie","V B (institut. Formen)","7","809","ref",2353,"Philosophie",
   "baccalaureus"
@@ -31,6 +25,9 @@ HWPH.put("r/62-61",
  ],
  ["Band","Vinculum substantiale","(Leibniz)",null,null,"ref",3466,"Vinculum substantiale","band"],
  ["Band","Analogie","I (allg.)","1","215","ref",123,"Analogie","band"],
+ ["Band","Ganzes/Teil","I","3","4","ref",986,"Ganzes/Teil","band"],
+ ["Band","Makrokosmos/Mikrokosmos","II 1","5","646","ref",1849,"Makrokosmos/Mikrokosmos","band"],
+ ["Band","Natur","IV","6","457","ref",2074,"Natur","band"],
  ["Band, erzwungenes","Gesetz","III (wiss.)","3","505","ref",1105,"Gesetz","band, erzwungenes"],
  ["Band, göttliches","Syndesmos","",null,null,"ref",3102,"Syndesmos","band, gottliches"],
  ["Band, göttliches","Seelenwagen","","9","114","ref",2800,"Seelenwagen","band, gottliches"],
@@ -58,13 +55,17 @@ HWPH.put("r/62-61",
  ["Barbar","Westen; Okzident","III (chin./jap.)","12","672f.","ref",3602,"Westen; Okzident","barbar"],
  ["Barbara","Syllogismus; Syllogistik","",null,null,"ref",3091,"Syllogismus; Syllogistik","barbara"],
  ["Barbarei","Zivilisation","",null,null,"ref",3700,"Zivilisation","barbarei"],
- ["Barbarei","Despotie I (allg.)","","2","140","ref",571,"Despotie, Despotismus","barbarei"],
+ ["Barbarei","Despotie","I (allg.)","2","140","ref",571,"Despotie, Despotismus","barbarei"],
  ["Barbarei","Geschichtslosigkeit","","3","414","ref",1092,"Geschichtslosigkeit","barbarei"],
  ["Barbarismus","Solözismus","",null,null,"ref",2922,"Solözismus","barbarismus"],
  ["Barbarismus","Lehnwort","","5","168","ref",1766,"Lehnwort, Lehngut","barbarismus"],
  ["Barcan-Formel","Modallogik","II","6","28f.","ref",1997,"Modallogik","barcan-formel"],
  ["Barmherzigkeit","Barmherzigkeit","","1","753–755","main",344,"Barmherzigkeit","barmherzigkeit"],
- ["Barmherzigkeit Gottes","Verdammung Baroco","",null,null,"ref",null,null,"barmherzigkeit gottes"],
+ [
+  "Barmherzigkeit Gottes","Verdammung","",null,null,"ref",3389,"Verdammung; Verwerfung",
+  "barmherzigkeit gottes"
+ ],
+ ["Baroco","Syllogismus; Syllogistik","",null,null,"ref",3091,"Syllogismus; Syllogistik","baroco"],
  ["bāśār","Mensch","II 2","5","1070","ref",1917,"Mensch","basar"],
  ["basic norm","Grundnorm","",null,null,"ref",1194,"Grundnorm","basic norm"],
  [
@@ -78,7 +79,7 @@ HWPH.put("r/62-61",
  ["basic trust","Vertrauen","","11","988","ref",3447,"Vertrauen","basic trust"],
  ["Basis","Überbau/Basis","",null,null,"ref",3247,"Überbau/Basis","basis"],
  [
-  "Basisbegriffe","Konstitutionssystem (Carnap)","","4","1007","ref",1628,
+  "Basisbegriffe","Konstitutionssystem","(Carnap)","4","1007","ref",1628,
   "Konstitutionssystem, Konstitutionstheorie","basisbegriffe"
  ],
  ["Basisphänomen","Urphänomen","(Goethe)",null,null,"ref",3349,"Urphänomen","basisphanomen"],
@@ -94,44 +95,40 @@ HWPH.put("r/62-61",
   "basissatz"
  ],
  ["Basissatz","Protokollsatz","",null,null,"see",2490,"Protokollsatz","basissatz"],
- ["Basissatz","Rationalismus","",null,null,"see",2574,"Rationalismus","basissatz"],
+ [
+  "Basissatz","Rationalismus, kritischer","(Popper)",null,null,"see",2575,
+  "Rationalismus, Kritischer","basissatz"
+ ],
+ ["Basissatz","Verifikation","I",null,null,"see",3409,"Verifikation","basissatz"],
  [
   "Bathologie; Battologie","Tautologie","","10","932","ref",3137,"Tautologie",
   "bathologie; battologie"
  ],
+ ["Bauen","Wohnen","",null,null,"ref",3654,"Wohnen","bauen"],
  [
   "Baum, porphyrischer","Arbor porphyriana","",null,null,"ref",236,
   "Arbor porphyriana, porphyrischer Baum","baum, porphyrischer"
  ],
  [
-  "Bauplan; Funktionsplan (Uexküll)","Bauplan; Funktionsplan (Uexküll)","","1","756f.","main",346,
-  "Bauplan, Funktionsplan","bauplan; funktionsplan (uexkull)"
+  "Bauplan; Funktionsplan","Bauplan; Funktionsplan","(Uexküll)","1","756f.","main",346,
+  "Bauplan, Funktionsplan","bauplan; funktionsplan"
  ],
  [
-  "Bauplan; Funktionsplan (Uexküll)","Funktionskreis","(Uexküll)",null,null,"see",978,
-  "Funktionskreis","bauplan; funktionsplan (uexkull)"
+  "Bauplan; Funktionsplan","Funktionskreis","(Uexküll)",null,null,"see",978,"Funktionskreis",
+  "bauplan; funktionsplan"
  ],
  [
-  "Bauplan; Funktionsplan (Uexküll)","Lamarckismus","",null,null,"see",1725,"Lamarckismus",
-  "bauplan; funktionsplan (uexkull)"
+  "Bauplan; Funktionsplan","Lamarckismus","",null,null,"see",1725,"Lamarckismus",
+  "bauplan; funktionsplan"
  ],
  [
-  "Bauplan; Funktionsplan (Uexküll)","Morphologie","II (nat.)",null,null,"see",2032,"Morphologie",
-  "bauplan; funktionsplan (uexkull)"
+  "Bauplan; Funktionsplan","Morphologie","II (nat.)",null,null,"see",2032,"Morphologie",
+  "bauplan; funktionsplan"
  ],
  [
   "Bayessches Theorem","Wahrscheinlichkeit","IV A","12","269","ref",3540,"Wahrscheinlichkeit",
   "bayessches theorem"
  ],
- [
-  "Bauplan; Funktionsplan (Uexküll)","Bauplan; Funktionsplan (Uexküll)","","1","756","main",346,
-  "Bauplan, Funktionsplan","bauplan; funktionsplan (uexkull)"
- ],
- ["Barmherzigkeit","Barmherzigkeit","I",null,null,"main",344,"Barmherzigkeit","barmherzigkeit"],
- ["Barmherzigkeit","Furcht und Mitleid","",null,null,"ref",979,"Furcht und Mitleid","barmherzigkeit"],
- ["Barmherzigkeit","Mitleid","",null,null,"ref",1981,"Mitleid","barmherzigkeit"],
- ["Barmherzigkeit","Gnade","","3","708","ref",1156,"Gnade","barmherzigkeit"],
- ["Barmherzigkeit","Strafe","I","10","213","ref",3035,"Strafe","barmherzigkeit"],
  ["Baasner Frank","Sensibilité","","9","609–614","author",2866,"Sensibilité","baasner frank"],
  ["Baasner Frank","Sentiment","","9","675–679","author",2870,"Sentiment","baasner frank"],
  [
@@ -145,7 +142,7 @@ HWPH.put("r/62-61",
   "Autonomie der Lebensvorgänge","ballauff theodor"
  ],
  [
-  "Ballauff Theodor","Bauplan; Funktionsplan (Uexküll)","","1","756f.","author",346,
+  "Ballauff Theodor","Bauplan; Funktionsplan","(Uexküll)","1","756f.","author",346,
   "Bauplan, Funktionsplan","ballauff theodor"
  ],
  ["Ballauff Theodor","Biologie","","1","943f.","author",439,"Biologie","ballauff theodor"],
@@ -167,7 +164,7 @@ HWPH.put("r/62-61",
  ],
  ["Ballauff Theodor","Protoplast","","7","1540","author",2496,"Protoplast","ballauff theodor"],
  [
-  "Ballestrem Karl Graf","Lohn III (ökon.)","","5","513–521","author",1828,"Lohn, Verdienst",
+  "Ballestrem Karl Graf","Lohn","III (ökon.)","5","513–521","author",1828,"Lohn, Verdienst",
   "ballestrem karl graf"
  ],
  ["Baltzer Ulrich","Semiose","","9","599–601","author",2864,"Semiose","baltzer ulrich"],
@@ -248,7 +245,7 @@ HWPH.put("r/62-61",
  ],
  ["Baumgartner Hans-Michael","Art","I","1","525f.","author",254,"Art","baumgartner hans-michael"],
  [
-  "Baumgartner Hans-Michael","Erkenntnis I (erk.)","","2","643–662","author",796,
+  "Baumgartner Hans-Michael","Erkenntnis","I (erk.)","2","643–662","author",796,
   "Erkennen, Erkenntnis","baumgartner hans-michael"
  ],
  [
@@ -264,7 +261,7 @@ HWPH.put("r/62-61",
   "Kategorialanalyse","baumgartner hans-michael"
  ],
  [
-  "Baumgartner Hans-Michael","Kategorie; Kategorienlehre I-II. IV-V","","4","714–725","author",1540,
+  "Baumgartner Hans-Michael","Kategorie; Kategorienlehre I-II.","IV-V","4","714–725","author",1540,
   "Kategorie, Kategorienlehre","baumgartner hans-michael"
  ],
  [

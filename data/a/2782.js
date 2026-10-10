@@ -34,7 +34,7 @@ HWPH.put("a/2782",
   {"term":"interpretatio historica","qualifier":"","band":"8","col":"1434"},
   {"term":"Literalsinn","qualifier":"","band":null,"col":null},
   {"term":"mehrfacher Schriftsinn","qualifier":"","band":null,"col":null},
-  {"term":"Perspikuität","qualifier":"","band":null,"col":null},
+  {"term":"Schriftauslegung","qualifier":"","band":null,"col":null},
   {"term":"Schriftsinn, allegorischer","qualifier":"","band":null,"col":null},
   {"term":"Schriftsinn, typologischer","qualifier":"","band":"8","col":"1432"},
   {"term":"sensus litteralis","qualifier":"","band":"8","col":"1433"},
@@ -44,8 +44,7 @@ HWPH.put("a/2782",
   {"term":"sermo conversus","qualifier":"","band":"8","col":"1433"},
   {"term":"tropologia","qualifier":"","band":"8","col":"1433"},
   {"term":"ἀλληγορία","qualifier":"","band":"8","col":"1432"},
-  {"term":"ὑπόνοια","qualifier":"","band":"8","col":"1432"},
-  {"term":"– I (theol.) 10 1587–1594 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ὑπόνοια","qualifier":"","band":"8","col":"1432"}
  ],
  "persons":[
   {"id":745,"name":"H. de Lubac","b":0,"n":6,"l":1,"editor":0,"role":"scholar"},

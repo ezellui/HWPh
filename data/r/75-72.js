@@ -1,13 +1,13 @@
 HWPH.put("r/75-72",
 [
- ["Urchristentum","Urchristentum","","11","356","main",3340,"Urchristentum","urchristentum"],
  [
-  "Urteil, vorläufiges","Urteil, vorläufiges","",null,null,"main",3358,"Urteil, vorläufiges",
-  "urteil, vorlaufiges"
+  "Urgründe ewige Wahrheit","Wahrheit, ewige","",null,null,"ref",3528,"Wahrheit, ewige",
+  "urgrunde ewige wahrheit"
  ],
- ["Urteil","Urteil","",null,null,"main",3355,"Urteil","urteil"],
- ["Urteil","Urteilskraft jugement confus","",null,null,"ref",null,null,"urteil"],
- ["Ursprache","Ursprache","","11","412","main",3351,"Ursprache","ursprache"],
+ ["Urgründe","Repräsentation","I (erk.)",null,null,"ref",2686,"Repräsentation","urgrunde"],
+ ["Urgründe","Species","I (met.)",null,null,"ref",2966,"Species","urgrunde"],
+ ["Urgründe","Universalien","II",null,null,"ref",3302,"Universalien","urgrunde"],
+ ["Urgründe","Vorstellung","",null,null,"ref",3503,"Vorstellung","urgrunde"],
  ["Urzeit; Vorzeit","Urzeit; Vorzeit","","11","487","main",3361,"Urzeit; Vorzeit","urzeit; vorzeit"],
  ["Ur -","Urbild","",null,null,"ref",3339,"Urbild","ur -"],
  ["Uraffektion","Urimpression","(Husserl)",null,null,"ref",3343,"Urimpression","uraffektion"],
@@ -47,7 +47,7 @@ HWPH.put("r/75-72",
  ["Urding","Unding","","11","135","ref",3288,"Unding","urding"],
  ["Urdoxa","Urdoxa","(Husserl)","11","359f.","main",3341,"Urdoxa","urdoxa"],
  [
-  "Urdoxa","Bewusstsein, positionales (Husserl)","",null,null,"see",416,"Bewußtsein, positionales",
+  "Urdoxa","Bewusstsein, positionales","(Husserl)",null,null,"see",416,"Bewußtsein, positionales",
   "urdoxa"
  ],
  ["Urdoxa","Einstellung","II (phän.)",null,null,"see",691,"Einstellung","urdoxa"],
@@ -58,7 +58,11 @@ HWPH.put("r/75-72",
   "Psychologie, transzendentale","ureine, das"
  ],
  ["Urempfindung","Urimpression","(Husserl)",null,null,"ref",3343,"Urimpression","urempfindung"],
- ["Urerlebnis","Ich","",null,null,"ref",1334,"Ich","urerlebnis"],
+ ["Urerlebnis","Ich, primäres/sekundäres","(Reininger)",null,null,"ref",1334,"Ich","urerlebnis"],
+ [
+  "Urerlebnis","Idealismus, monistischer","(Reininger)","4","40","ref",1350,
+  "Idealismus, monistischer","urerlebnis"
+ ],
  ["Urfunktion","Funktion","II (log.)","2","1140","ref",974,"Funktion","urfunktion"],
  [
   "Urgebilde, ideale","Idealisierung","(Husserl)","4","28","ref",1341,"Idealisierung",
@@ -79,11 +83,16 @@ HWPH.put("r/75-72",
  ["Urgesetz","Primitiv","","7","1317","ref",2454,"Primitiv, der bzw. das Primitive","urgesetz"],
  ["Urglaube","Urdoxa","(Husserl)",null,null,"ref",3341,"Urdoxa","urglaube"],
  ["Urgott","Trinität","II","10","1507","ref",3231,"Trinität","urgott"],
+ ["Urgründe, ewige","Rationes aeternae; ewige","",null,null,"ref",null,null,"urgrunde, ewige"],
  [
-  "Urgründe, ewige","Rationes aeternae; ewige Urgründe Urgrund","",null,null,"ref",null,null,
-  "urgrunde, ewige"
+  "Urgründe Urgrund","Ungrund; Urgrund","",null,null,"ref",3298,"Ungrund; Urgrund",
+  "urgrunde urgrund"
  ],
- ["Urhandlung","Subjekt","",null,null,"ref",3047,"Subjekt","urhandlung"],
+ [
+  "Urhandlung","Subjekt/Objekt","IV","10","422","ref",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "urhandlung"
+ ],
+ ["Urheb","Prinzip","III 1","7","1356","ref",2458,"Prinzip","urheb"],
  ["Urheber","Autor","",null,null,"ref",331,"Autor","urheber"],
  ["Urheber","Ursache/Wirkung","IV",null,null,"ref",3350,"Ursache/Wirkung","urheber"],
  ["Urimpression","Urimpression","(Husserl)","11","363f.","main",3343,"Urimpression","urimpression"],
@@ -110,12 +119,8 @@ HWPH.put("r/75-72",
   "Psychologie, transzendentale","urkonkrete, das"
  ],
  [
-  "Urkonstitution","Passivität; passive Synthesis","",null,null,"ref",2288,
-  "Passivität, passive Synthesis","urkonstitution"
- ],
- [
-  "Urkonstitution","Konstitution, phänomenologische","(Husserl)","4","1005","ref",1626,
-  "Konstitution, phänomenologische","urkonstitution"
+  "Urkonstitution","Passivität; passive","",null,null,"ref",2288,"Passivität, passive Synthesis",
+  "urkonstitution"
  ],
  ["Urkraft","Seele","IV","9","50","ref",2794,"Seele","urkraft"],
  ["Urkrise","Krise","III (psych.)","4","1243","ref",1691,"Krise","urkrise"],
@@ -127,7 +132,7 @@ HWPH.put("r/75-72",
   "Urlogische, das","Psychologie, transzendentale","(Kant)","7","1673","ref",2521,
   "Psychologie, transzendentale","urlogische, das"
  ],
- ["Urmaterie","Materie","IV",null,null,"ref",1892,"Materie","urmaterie"],
+ ["Urmaterie","Materie","IV 1",null,null,"ref",1892,"Materie","urmaterie"],
  ["Urmaterie","Prakr.ti","",null,null,"ref",2439,"Prakr.ti","urmaterie"],
  ["Urmensch","Adam Kadmon","",null,null,"ref",44,"Adam Kadmon","urmensch"],
  ["Urmensch","Urkommunismus","",null,null,"ref",3344,"Urkommunismus","urmensch"],
@@ -146,7 +151,11 @@ HWPH.put("r/75-72",
  ["Uroffenbarung","Uroffenbarung","","11","368–373","main",3347,"Uroffenbarung","uroffenbarung"],
  ["Uroffenbarung","Offenbarung","",null,null,"see",2203,"Offenbarung","uroffenbarung"],
  ["Uroffenbarung","Selbstoffenbarung","",null,null,"see",2843,"Selbstoffenbarung","uroffenbarung"],
- ["Uroffenbarung","Theologie","",null,null,"see",3169,"Theologie","uroffenbarung"],
+ [
+  "Uroffenbarung","Theologie, dialektische","",null,null,"see",3171,"Theologie, Dialektische",
+  "uroffenbarung"
+ ],
+ ["Uroffenbarung","Urmonotheismus","","11","366","ref",3345,"Urmonotheismus","uroffenbarung"],
  ["Urpflanze","Urpflanze","(Goethe)","11","373–375","main",3348,"Urpflanze","urpflanze"],
  ["Urpflanze","Epigenesis","",null,null,"see",770,"Epigenesis","urpflanze"],
  ["Urpflanze","Metamorphose","",null,null,"see",1942,"Metamorphose","urpflanze"],
@@ -169,7 +178,7 @@ HWPH.put("r/75-72",
  ["Urrecht","Naturrecht","IV 5","6","599","ref",2089,"Naturrecht","urrecht"],
  ["Urreligion","Uroffenbarung","",null,null,"ref",3347,"Uroffenbarung","urreligion"],
  ["Ursache","Eminenter","",null,null,"ref",718,"Eminenter","ursache"],
- ["Ursache","Produktion I (nat.)","","7","1420f.","ref",2469,"Produktion, Produktivität","ursache"],
+ ["Ursache","Produktion","I (nat.)","7","1420f.","ref",2469,"Produktion, Produktivität","ursache"],
  [
   "Ursache/Wirkung","Ursache/Wirkung","","11","377–412","main",3350,"Ursache/Wirkung",
   "ursache/wirkung"
@@ -265,14 +274,8 @@ HWPH.put("r/75-72",
  ["Ursache, finale","Ursache/Wirkung","",null,null,"ref",3350,"Ursache/Wirkung","ursache, finale"],
  ["Ursache, formale","Causa formalis","",null,null,"ref",472,"Causa formalis","ursache, formale"],
  ["Ursache, formale","Ursache/Wirkung","",null,null,"ref",3350,"Ursache/Wirkung","ursache, formale"],
- [
-  "Ursache, gelegenheitliche","Anlass Ursache, innere","",null,null,"ref",null,null,
-  "ursache, gelegenheitliche"
- ],
- [
-  "Ursache/Wirkung","Ursache/Wirkung","II","11","385","main",3350,"Ursache/Wirkung",
-  "ursache/wirkung"
- ],
+ ["Ursache, gelegenheitliche","Anlass","",null,null,"ref",152,"Anlaß","ursache, gelegenheitliche"],
+ ["Ursache, innere","Ursache/Wirkung","II","11","385","ref",3350,"Ursache/Wirkung","ursache, innere"],
  [
   "Ursache, materielle","Causa materialis","",null,null,"ref",474,"Causa materialis",
   "ursache, materielle"
@@ -289,10 +292,16 @@ HWPH.put("r/75-72",
   "Ursache, physische","Ursache/Wirkung","III","11","395","ref",3350,"Ursache/Wirkung",
   "ursache, physische"
  ],
+ ["Ursache, veranlassende","Anlass","",null,null,"ref",152,"Anlaß","ursache, veranlassende"],
+ ["Ursache des Bösen","Malum","",null,null,"ref",1852,"Malum","ursache des bosen"],
  [
-  "Ursache, veranlassende","Anlass Ursache des Bösen","",null,null,"ref",null,null,
-  "ursache, veranlassende"
+  "Ursache des Bösen","Entzweiung","","2","567","ref",765,"Entzweiung, entzweien",
+  "ursache des bosen"
  ],
+ ["Ursache des Bösen","Freiheit","II","2","1080f.","ref",946,"Freiheit","ursache des bosen"],
+ ["Ursache des Bösen","Streit","I (allg.)","10","298","ref",3039,"Streit","ursache des bosen"],
+ ["Ursache des Bösen","Weltseele","","12","517","ref",3578,"Weltseele","ursache des bosen"],
+ ["Ursache des Bösen","Wiederbringung","","12","721","ref",3612,"Wiederbringung","ursache des bosen"],
  [
   "Ursache des Erkennens","Causa cognoscendi","",null,null,"ref",466,"Causa cognoscendi",
   "ursache des erkennens"
@@ -316,6 +325,10 @@ HWPH.put("r/75-72",
  ["Ursprache","Sprache","III",null,null,"see",2985,"Sprache","ursprache"],
  ["Ursprache","Sprache, adamische","",null,null,"see",2986,"Sprache, adamische","ursprache"],
  ["ursprünglich","Ursache/Wirkung","III","11","389","ref",3350,"Ursache/Wirkung","ursprunglich"],
+ [
+  "Ursprüngliche, das","Voraussetzungslosigkeit","","11","1170","ref",3488,"Voraussetzungslosigkeit",
+  "ursprungliche, das"
+ ],
  ["ursprünglicher Zustand","Urstand","",null,null,"ref",3353,"Urstand","ursprunglicher zustand"],
  ["Ursprünglichkeit","Ursprung","","11","421","ref",3352,"Ursprung","ursprunglichkeit"],
  ["Ursprung","Ursprung","","11","417–424","main",3352,"Ursprung","ursprung"],
@@ -374,7 +387,9 @@ HWPH.put("r/75-72",
   "Urteil","Kategorie; Kategorienlehre","V","4","745ff.","ref",1540,"Kategorie, Kategorienlehre",
   "urteil"
  ],
- ["Urteil","Prinzip","III",null,null,"ref",2458,"Prinzip","urteil"],
+ ["Urteil","Prinzip","III 6 a","7","1370","ref",2458,"Prinzip","urteil"],
+ ["Urteil","Relation","III","8","599","ref",2668,"Relation","urteil"],
+ ["Urteil","Vorstellung","I B","11","1231f.","ref",3503,"Vorstellung","urteil"],
  [
   "Urteil, ästhetisches","Urteil, ästhetisches","","11","462–465","main",3356,"Urteil, ästhetisches",
   "urteil, asthetisches"
@@ -412,7 +427,20 @@ HWPH.put("r/75-72",
   "Urteil, apodiktisches","Urteil","III (Formen)",null,null,"ref",3355,"Urteil",
   "urteil, apodiktisches"
  ],
- ["Urteil, apodiktisches","Modalität","",null,null,"ref",1995,"Modalität","urteil, apodiktisches"],
+ [
+  "Urteil, apodiktisches","Modalität des Urteils","","6","14","ref",1996,"Modalität (des Urteils)",
+  "urteil, apodiktisches"
+ ],
+ [
+  "Urteil, assertorisches","Urteil","III (Formen)",null,null,"ref",3355,"Urteil",
+  "urteil, assertorisches"
+ ],
+ [
+  "Urteil, assertorisches","Modalität des Urteils","","6","14","ref",1996,"Modalität (des Urteils)",
+  "urteil, assertorisches"
+ ],
+ ["Urteil, assertorisches","Satz","III 2","8","1193","ref",2745,"Satz","urteil, assertorisches"],
+ ["Urteil, assertorisches","Urteil","II 2","11","443","ref",3355,"Urteil","urteil, assertorisches"],
  [
   "Urteil, ausschliessendes","Urteil","III (Formen)",null,null,"ref",3355,"Urteil",
   "urteil, ausschliessendes"
@@ -566,7 +594,11 @@ HWPH.put("r/75-72",
   "urteil, negatives"
  ],
  ["Urteil, negatives","Urteil","II (log.)",null,null,"ref",3355,"Urteil","urteil, negatives"],
- ["Urteil, negatives","Negation","",null,null,"ref",2100,"Negation","urteil, negatives"],
+ [
+  "Urteil, negatives","Negation; Negativität","II","6","681ff.","ref",2101,"Negation, Negativität",
+  "urteil, negatives"
+ ],
+ ["Urteil, neutrales","Annahme","","1","331","ref",154,"Annahme, Annehmen","urteil, neutrales"],
  [
   "Urteil, normatives","Normativ/deskriptiv","",null,null,"ref",2164,"Normativ/deskriptiv",
   "urteil, normatives"
@@ -594,9 +626,10 @@ HWPH.put("r/75-72",
   "urteil, problematisches"
  ],
  [
-  "Urteil, problematisches","Modalität","",null,null,"ref",1995,"Modalität",
+  "Urteil, problematisches","Modalität des Urteils","","6","14","ref",1996,"Modalität (des Urteils)",
   "urteil, problematisches"
  ],
+ ["Urteil, problematisches","Satz","III 2","8","1193","ref",2745,"Satz","urteil, problematisches"],
  ["Urteil, salomonisches","Billigkeit","II","1","941","ref",438,"Billigkeit","urteil, salomonisches"],
  ["Urteil, singuläres","Einzelurteil","",null,null,"ref",696,"Einzelurteil","urteil, singulares"],
  [
@@ -729,7 +762,7 @@ HWPH.put("r/75-72",
  ["Urteilskraft","Denken","I","2","76","ref",552,"Denken","urteilskraft"],
  ["Urteilskraft","Konstitution","III","4","1001f.","ref",1624,"Konstitution","urteilskraft"],
  [
-  "Urteilskraft","Schema; Schematismus I (allg.)","","8","1251","ref",2760,"Schema, Schematismus",
+  "Urteilskraft","Schema; Schematismus","I (allg.)","8","1251","ref",2760,"Schema, Schematismus",
   "urteilskraft"
  ],
  ["Urteilskraft","Übung","II","11","81","ref",3270,"Übung","urteilskraft"],
@@ -765,10 +798,14 @@ HWPH.put("r/75-72",
   "Urteilstafel","Partikeln, logische","","7","147f.","ref",2283,"Partikeln, logische",
   "urteilstafel"
  ],
- ["Urteilsvermögen","Kritik","I",null,null,"ref",1694,"Kritik","urteilsvermogen"],
+ ["Urteilsvermögen","Kritik","I 1",null,null,"ref",1694,"Kritik","urteilsvermogen"],
  [
-  "Urteilsvermögen","Urteilskraft Urteilsvermögen, supralogisches","",null,null,"ref",null,null,
+  "Urteilsvermögen","Urteilskraft","",null,null,"ref",3359,"Urteilskraft; Urteilsvermögen",
   "urteilsvermogen"
+ ],
+ [
+  "Urteilsvermögen, supralogisches","Illative sense (Newman) Urteilung","",null,null,"ref",null,null,
+  "urteilsvermogen, supralogisches"
  ],
  ["Ur-Teilung","Sein; Seiendes","V 2","9","210","ref",2806,"Sein; Seiendes","ur-teilung"],
  ["Ur-Teilung","Urteil","II 2","11","442f.","ref",3355,"Urteil","ur-teilung"],
@@ -793,7 +830,11 @@ HWPH.put("r/75-72",
   "Urwirklichkeit","Idealismus, monistischer","(Reininger)","4","40","ref",1350,
   "Idealismus, monistischer","urwirklichkeit"
  ],
- ["Urwissen","Subjekt","",null,null,"ref",3047,"Subjekt","urwissen"],
+ [
+  "Urwissen","Subjekt/Objekt","IV","10","423","ref",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "urwissen"
+ ],
+ ["Urwissen","Urwissen","(Schelling)","11","485f.","main",3360,"Urwissen","urwissen"],
  ["Urwissenschaft","Ursprung","","11","421","ref",3352,"Ursprung","urwissenschaft"],
  ["Urworte","Und","","11","133","ref",3287,"Und","urworte"],
  [
@@ -826,19 +867,6 @@ HWPH.put("r/75-72",
  ["Urzustand","Unparteilichkeit","","11","255","ref",3316,"Unparteilichkeit","urzustand"],
  ["Urzweck","Ungrund; Urgrund","","11","169","ref",3298,"Ungrund; Urgrund","urzweck"],
  ["Ursprung","Ursprung","","11","419","main",3352,"Ursprung","ursprung"],
- [
-  "Urteil, vorläufiges","Urteil, vorläufiges","",null,null,"main",3358,"Urteil, vorläufiges",
-  "urteil, vorlaufiges"
- ],
- [
-  "Ursache/Wirkung","Ursache/Wirkung","IV","11","401","main",3350,"Ursache/Wirkung",
-  "ursache/wirkung"
- ],
- ["Urbanität","Urbanität","",null,null,"main",3338,"Urbanität","urbanitat"],
- ["Urbanität","Analogon rationis","(Baumgarten)","1","229","ref",124,"Analogon rationis","urbanitat"],
- ["Urbanität","Parodie","","7","125","ref",2277,"Parodie","urbanitat"],
- ["Urbanität","Vergleich","","11","679","ref",3405,"Vergleich","urbanitat"],
- ["Ursprung","Ursprung","","11","418f.","main",3352,"Ursprung","ursprung"],
  ["Urban Wolfgang","Qualität","II",null,null,"author",2544,"Qualität","urban wolfgang"],
  ["Urban Wolfgang","Quantität","II","7","1796–1808","author",2552,"Quantität","urban wolfgang"]
 ]

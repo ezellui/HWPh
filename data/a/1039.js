@@ -25,6 +25,7 @@ HWPH.put("a/1039",
   {"term":"Seele, rationale","qualifier":"","band":null,"col":null},
   {"term":"Seelenteil, rationaler","qualifier":"","band":null,"col":null},
   {"term":"Seelenteile","qualifier":"","band":null,"col":null},
+  {"term":"Vernunftseele","qualifier":"","band":null,"col":null},
   {"term":"διανοητικόν","qualifier":"","band":null,"col":null},
   {"term":"λογιστικόν","qualifier":"","band":null,"col":null}
  ],

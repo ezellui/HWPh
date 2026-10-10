@@ -28,11 +28,10 @@ HWPH.put("a/916",
   {"term":"Ausdruck (log.)","qualifier":"III (log.)","band":null,"col":null},
   {"term":"Bildfigur","qualifier":"II (ästh.)","band":"2","col":"950"},
   {"term":"Daseinsform/Wirkungsform","qualifier":"II (ästh.)","band":"2","col":"950"},
-  {"term":"des Urteils 6 12 Tropos","qualifier":"I (rhet.)","band":"2","col":"948"},
   {"term":"figura","qualifier":"I (rhet.)","band":null,"col":null},
   {"term":"imago","qualifier":"I (rhet.)","band":"2","col":"949"},
-  {"term":"σχῆμα","qualifier":"II (ästh.)","band":null,"col":null},
-  {"term":"– IV (ästh.) 7 1505–1508 s. auch","qualifier":"II (ästh.)","band":null,"col":null}
+  {"term":"Tropos","qualifier":"I (rhet.)","band":"2","col":"948"},
+  {"term":"σχῆμα","qualifier":"II (ästh.)","band":null,"col":null}
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -85,7 +84,13 @@ HWPH.put("a/916",
   {"id":1116,"lemma":"Gestalt","tf":2},
   {"id":3588,"lemma":"Wert","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3233,"lemma":"Tropen; Tropos"},
+  {"id":3244,"lemma":"Typos; Typologie"},
+  {"id":2483,"lemma":"Proportion"},
+  {"id":3674,"lemma":"Zeichnung"},
+  {"id":1521,"lemma":"Kalkül"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Figur II (ästh.)"},
   {"id":22,"name":"Logik","label":"Figur III (log.)"},

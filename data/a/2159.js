@@ -22,7 +22,8 @@ HWPH.put("a/2159",
   {"term":"cognatio rerum","qualifier":"","band":"6","col":"904"},
   {"term":"Gewissheit","qualifier":"","band":"6","col":"905"},
   {"term":"Intuition","qualifier":"","band":"6","col":"905"},
-  {"term":"Methode, noologische","qualifier":"","band":"6","col":"905"}
+  {"term":"Methode, noologische","qualifier":"","band":"6","col":"905"},
+  {"term":"Verwandtschaft der Dinge","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":806,"name":"A. Calov","b":3,"n":2,"l":1,"editor":0,"role":"source"},
@@ -75,6 +76,6 @@ HWPH.put("a/2159",
   {"id":9,"name":"Erkenntnistheorie","label":"Noologie"},
   {"id":26,"name":"Metaphysik","label":"Noologie"}
  ],
- "reg_authors":[{"name":"Ränsch-Trill Barbara","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Ränsch-Trill Barbara","n":2},{"name":"Red","n":241}]
 }
 );

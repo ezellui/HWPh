@@ -38,8 +38,7 @@ HWPH.put("a/1108",
   {"term":"Übereinstimmung mit der Natur","qualifier":"","band":null,"col":null},
   {"term":"Völkerrecht","qualifier":"","band":"3","col":"527"},
   {"term":"ὁμολογουμένως ζῆν","qualifier":"","band":"3","col":"526"},
-  {"term":"φύσις/νόμος","qualifier":"","band":"3","col":"524"},
-  {"term":"– III (wiss.) 3 501–514 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"φύσις/νόμος","qualifier":"","band":"3","col":"524"}
  ],
  "persons":[
   {"id":56,"name":"Diogenes Laertius","b":2,"n":3,"l":0,"editor":0,"role":"scholar"},

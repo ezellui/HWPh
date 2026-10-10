@@ -36,7 +36,27 @@ HWPH.put("a/3657",
   {"id":3387,"lemma":"Verbum mentis","n":2},
   {"id":3656,"lemma":"Wort","n":1}
  ],
- "register":[],
+ "register":[
+  {"term":"cogitatio","qualifier":"","band":"12","col":"1042"},
+  {"term":"cognitio symbolica","qualifier":"","band":"12","col":"1042"},
+  {"term":"conceptus rerum/vocum","qualifier":"","band":"12","col":"1042"},
+  {"term":"Denken, stilles","qualifier":"","band":"12","col":"1044"},
+  {"term":"Dialog, innerer","qualifier":"","band":"12","col":"1037"},
+  {"term":"endofasia","qualifier":"","band":"12","col":"1045"},
+  {"term":"Endophasie","qualifier":"","band":"12","col":"1045"},
+  {"term":"innerer Dialog","qualifier":"","band":"12","col":"1037"},
+  {"term":"language of thought","qualifier":"","band":"12","col":"1046"},
+  {"term":"logos interior","qualifier":"","band":"12","col":"1038"},
+  {"term":"mental proposition","qualifier":"","band":"12","col":"1042"},
+  {"term":"oratio triplex","qualifier":"","band":"12","col":"1037f."},
+  {"term":"propositio mentalis","qualifier":"","band":"12","col":"1039"},
+  {"term":"Selbstgespräch","qualifier":"","band":"12","col":"1041"},
+  {"term":"sermo interior/exterior","qualifier":"","band":"12","col":"1039"},
+  {"term":"Sprache, innere","qualifier":"","band":"12","col":"1043"},
+  {"term":"triplex oratio","qualifier":"","band":"12","col":"1037f."},
+  {"term":"ἔξω λόγος","qualifier":"","band":"12","col":"1037"},
+  {"term":"λόγος ἐν ψυχ͂¸η","qualifier":"","band":"12","col":"1037"}
+ ],
  "persons":[
   {"id":3380,"name":"C. Panaccio","b":0,"n":6,"l":1,"editor":0,"role":"scholar"},
   {"id":81,"name":"Ch. Thomasius","b":3,"n":3,"l":0,"editor":0,"role":"source"},
@@ -254,6 +274,6 @@ HWPH.put("a/3657",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

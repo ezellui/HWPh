@@ -29,8 +29,7 @@ HWPH.put("a/3461",
   {"term":"Wissbegierde","qualifier":"","band":null,"col":null},
   {"term":"περιεργία","qualifier":"","band":"11","col":"1038"},
   {"term":"πολυπραγμοσύνη","qualifier":"","band":null,"col":null},
-  {"term":"φιλοπραγμοσύνη","qualifier":"","band":"11","col":"1038"},
-  {"term":"– I (anthr.) 12 1310–1315 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"φιλοπραγμοσύνη","qualifier":"","band":"11","col":"1038"}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":5,"l":0,"editor":0,"role":"source"},

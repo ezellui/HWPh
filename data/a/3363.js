@@ -22,15 +22,7 @@ HWPH.put("a/3363",
   {"id":1952,"lemma":"Metasprache/Objektsprache","n":1},
   {"id":3084,"lemma":"Supposition","n":1}
  ],
- "register":[
-  {"term":"suppositio formalis/materialis","qualifier":"","band":"11","col":"497"},
-  {
-   "term":"– I (lit.) 12 1344–1355 – II (sprach.) 12 1355–1357 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"suppositio formalis/materialis","qualifier":"","band":"11","col":"497"}],
  "persons":[
   {"id":33,"name":"R. Carnap","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":39,"name":"G. Frege","b":2,"n":2,"l":0,"editor":0,"role":"source"},

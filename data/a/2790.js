@@ -18,11 +18,12 @@ HWPH.put("a/2790",
  "backlinks":[{"id":3635,"lemma":"Wissenschaft","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"alphabetum cogitationum","qualifier":"(Leibniz)","band":"8","col":"1505"},
   {"term":"calculus ratiocinator","qualifier":"(Leibniz)","band":"8","col":"1505"},
   {"term":"grammatica rationalis","qualifier":"(Leibniz)","band":"8","col":"1506"},
   {"term":"inventaire général","qualifier":"(Leibniz)","band":"8","col":"1506"},
-  {"term":"lingua rationalis","qualifier":"(Leibniz)","band":"8","col":"1507"},
-  {"term":"Rechnen","qualifier":"(Leibniz)","band":"8","col":"1507"}
+  {"term":"Kalkül","qualifier":"(Leibniz)","band":"8","col":"1507"},
+  {"term":"lingua rationalis","qualifier":"(Leibniz)","band":"8","col":"1507"}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":1,"l":0,"editor":0,"role":"source"},

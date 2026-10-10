@@ -1,13 +1,11 @@
 HWPH.put("r/66-61",
 [
- ["Fall; Abfall","Fall; Abfall","","2","889","main",890,"Fall, Abfall","fall; abfall"],
- ["Fall; Abfall","Seelenwagen","","9","112f.","ref",2800,"Seelenwagen","fall; abfall"],
- [
-  "Fall; Abfall aposteriori","Fall; Abfall aposteriori","",null,null,"main",890,"Fall, Abfall",
-  "fall; abfall aposteriori"
- ],
+ ["Fabel","Parabel; Fabel","",null,null,"ref",2268,"Parabel, Fabel","fabel"],
+ ["Fabel","Narrativ; Narrativität","","6","400","ref",2068,"Narrativ, Narrativität","fabel"],
  ["Fabianismus","Sozialismus","5","9","1185","ref",2947,"Sozialismus","fabianismus"],
- ["fabula","Mythos; Mythologie II facere","",null,null,"ref",2053,"Mythos, Mythologie","fabula"],
+ ["fabula","Mythos; Mythologie","II",null,null,"ref",2053,"Mythos, Mythologie","fabula"],
+ ["facere","Tun/Leiden","",null,null,"ref",3241,"Tun/Leiden","facere"],
+ ["facere","Zeugung","","12","1332","ref",3693,"Zeugung","facere"],
  ["Fachmann","Experte","",null,null,"ref",876,"Experte","fachmann"],
  ["Fachmensch","Beruf","","1","834","ref",390,"Beruf","fachmensch"],
  ["factio","Praxis","II","7","1292","ref",2448,"Praxis, praktisch","factio"],
@@ -89,13 +87,12 @@ HWPH.put("r/66-61",
   "fait social"
  ],
  [
-  "Faktenaussenwelt/Fakteninnenwelt (Gehlen)","Faktenaussenwelt/Fakteninnenwelt (Gehlen)","","2",
-  "885","main",887,"Faktenaußenwelt/Fakteninnenwelt","faktenaussenwelt/fakteninnenwelt (gehlen)"
+  "Faktenaussenwelt/Fakteninnenwelt","Faktenaussenwelt/Fakteninnenwelt","(Gehlen)","2","885","main",
+  887,"Faktenaußenwelt/Fakteninnenwelt","faktenaussenwelt/fakteninnenwelt"
  ],
  [
-  "Faktenaussenwelt/Fakteninnenwelt (Gehlen)","Bedürfnisorientierung/Antriebsorientierung",
-  "(Gehlen)",null,null,"see",357,"Bedürfnisorientierung/Antriebsorientierung",
-  "faktenaussenwelt/fakteninnenwelt (gehlen)"
+  "Faktenaussenwelt/Fakteninnenwelt","Bedürfnisorientierung/Antriebsorientierung","(Gehlen)",null,
+  null,"see",357,"Bedürfnisorientierung/Antriebsorientierung","faktenaussenwelt/fakteninnenwelt"
  ],
  ["Faktenwissen","Geschichte","III","3","354f.","ref",1085,"Geschichte, Historie","faktenwissen"],
  ["Faktion","Partei","",null,null,"ref",2281,"Partei","faktion"],
@@ -104,7 +101,7 @@ HWPH.put("r/66-61",
   "faktisch wahr"
  ],
  [
-  "faktische Implikation","Implikation","",null,null,"ref",1399,"Implikation",
+  "faktische Implikation","Implikation","4",null,null,"ref",1399,"Implikation",
   "faktische implikation"
  ],
  ["Faktizität","Faktizität","(Heidegger)","2","886","main",888,"Faktizität","faktizitat"],
@@ -156,7 +153,7 @@ HWPH.put("r/66-61",
  ["fall","Sündenfall","",null,null,"ref",3076,"Sündenfall","fall"],
  ["Fall (ling.)","Casus","",null,null,"ref",465,"Casus","fall (ling.)"],
  ["fallacia","Insolubilia","",null,null,"ref",1450,"Insolubilia","fallacia"],
- ["fallacia","Irrtum","(Schlussfehler)",null,null,"ref",1499,"Irrtum","fallacia"],
+ ["fallacia","Irrtum (Schlussfehler)","",null,null,"ref",1500,"Irrtum (Schlußfehler)","fallacia"],
  ["fallacia","Paralogismus","",null,null,"ref",2273,"Paralogismus","fallacia"],
  ["fallacia","Täuschung","",null,null,"ref",3135,"Täuschung","fallacia"],
  [
@@ -181,7 +178,7 @@ HWPH.put("r/66-61",
   "fallacia vicesima","Ars combinatoria","","1","522","ref",251,"Ars combinatoria",
   "fallacia vicesima"
  ],
- ["fallacy","Irrtum","(Schlussfehler)",null,null,"ref",1499,"Irrtum","fallacy"],
+ ["fallacy","Irrtum (Schlussfehler)","",null,null,"ref",1500,"Irrtum (Schlußfehler)","fallacy"],
  ["Fallibilismus","Fallibilismus","(Peirce)","2","894f.","main",891,"Fallibilismus","fallibilismus"],
  ["Fallibilismus","Abduktion","(Peirce)",null,null,"see",19,"Abduktion","fallibilismus"],
  [
@@ -196,7 +193,14 @@ HWPH.put("r/66-61",
  ["falsch sprechen","Solözismus","","9","1059","ref",2922,"Solözismus","falsch sprechen"],
  ["Falschaussage","Lüge","I","5","538","ref",1834,"Lüge","falschaussage"],
  ["Falschaussage","Mentalreservation","","5","1139","ref",1927,"Mentalreservation","falschaussage"],
- ["Falschheit","Negation","",null,null,"ref",2100,"Negation","falschheit"],
+ [
+  "Falschheit","Negation; Negativität","II","6","683","ref",2101,"Negation, Negativität",
+  "falschheit"
+ ],
+ [
+  "Falschmünzerei","Umwertung aller Werte","(Nietzsche)","11","107","ref",3279,
+  "Umwertung aller Werte","falschmunzerei"
+ ],
  ["falsificabilis","Unfehlbarkeit","I (erk.)","11","151","ref",3294,"Unfehlbarkeit","falsificabilis"],
  ["Falsifikation","Theorie","II","10","1149","ref",3179,"Theorie","falsifikation"],
  [
@@ -206,8 +210,22 @@ HWPH.put("r/66-61",
  ["Falsifikation","Widerlegung","","12","682f.","ref",3605,"Widerlegung","falsifikation"],
  ["Falsifikation","Falsifikation","(Popper)","2","895","main",892,"Falsifikation","falsifikation"],
  ["Falsifikation","Fallibilismus","(Peirce)",null,null,"see",891,"Fallibilismus","falsifikation"],
- ["Falsifikation","Rationalismus","",null,null,"see",2574,"Rationalismus","falsifikation"],
- ["Falsifikationismus","Rationalismus","",null,null,"ref",2574,"Rationalismus","falsifikationismus"],
+ [
+  "Falsifikation","Rationalismus, kritischer","(Popper)",null,null,"see",2575,
+  "Rationalismus, Kritischer","falsifikation"
+ ],
+ ["Falsifikation","Verifikation","",null,null,"see",3409,"Verifikation","falsifikation"],
+ ["Falsifikation","Widerlegung","",null,null,"see",3605,"Widerlegung","falsifikation"],
+ [
+  "Falsifikationismus","Rationalismus, kritischer","(Popper)","8","51","ref",2575,
+  "Rationalismus, Kritischer","falsifikationismus"
+ ],
+ ["falsifizierbar","Prüfbar","(Carnap)",null,null,"ref",2501,"Prüfbar","falsifizierbar"],
+ [
+  "falsifizierbar","Rationalismus, kritischer","(Popper)","8","50f.","ref",2575,
+  "Rationalismus, Kritischer","falsifizierbar"
+ ],
+ ["falsifizierbar","Unfehlbarkeit","I (erk.)","11","151","ref",3294,"Unfehlbarkeit","falsifizierbar"],
  ["falsiloquium","Lüge","I","5","538","ref",1834,"Lüge","falsiloquium"],
  ["falsiloquium","Mentalreservation","","5","1139","ref",1927,"Mentalreservation","falsiloquium"],
  [
@@ -220,9 +238,10 @@ HWPH.put("r/66-61",
   "fame futura famelicus","Tauschwert/Gebrauchswert","","10","931","ref",3136,
   "Tauschwert/Gebrauchswert","fame futura famelicus"
  ],
+ ["familia","Familie; Ehe","II 1",null,null,"ref",893,"Familie, Ehe","familia"],
  [
-  "familia","Familie; Ehe II 1 familia perfecta/imperfecta","",null,null,"ref",893,"Familie, Ehe",
-  "familia"
+  "familia perfecta/imperfecta","Haus","I","3","1016","ref",1229,"Haus",
+  "familia perfecta/imperfecta"
  ],
  [
   "familiarization","Zueignung (Oikeiosis)","",null,null,"ref",3705,"Zueignung (Oikeiosis)",
@@ -237,9 +256,18 @@ HWPH.put("r/66-61",
   "familienahnlichkeit"
  ],
  [
-  "Familienähnlichkeit","Sprachspiel","(Wittgenstein)",null,null,"ref",2994,"Sprachspiel",
+  "Familienähnlichkeit","Sprachspiel","(Wittgenstein) II","9","1536","ref",2994,"Sprachspiel",
   "familienahnlichkeit"
  ],
+ [
+  "Familienähnlichkeit","Universalien","II","11","195f.","ref",3302,"Universalien",
+  "familienahnlichkeit"
+ ],
+ [
+  "Familienähnlichkeit","Univozität","II","11","230","ref",3311,"Univozität; univok",
+  "familienahnlichkeit"
+ ],
+ ["Familienähnlichkeit","Vagheit","","11","537","ref",3370,"Vagheit; vage","familienahnlichkeit"],
  [
   "Familiensoziologie","Familie; Ehe","II 3","2","902f.","ref",893,"Familie, Ehe",
   "familiensoziologie"
@@ -257,7 +285,7 @@ HWPH.put("r/66-61",
  ["fancy","Vorstellung","II","11","1240","ref",3503,"Vorstellung","fancy"],
  ["fancy","Witz","","12","984","ref",3648,"Witz","fancy"],
  ["Fangschluss","Krokodilschluss","",null,null,"ref",1699,"Krokodilschluß","fangschluss"],
- ["Fangschluss","Sorites","",null,null,"ref",2928,"Sorites","fangschluss"],
+ ["Fangschluss","Sorites","1",null,null,"ref",2928,"Sorites","fangschluss"],
  ["fantaisie","Imagination","II",null,null,"ref",1389,"Imagination","fantaisie"],
  ["fantasmes originaires","Urszene","",null,null,"ref",3354,"Urszene","fantasmes originaires"],
  [
@@ -277,7 +305,8 @@ HWPH.put("r/66-61",
  ["Faschismus","Faschismus","","2","912f.","main",897,"Faschismus","faschismus"],
  ["Faschismus","Totalitarismus","",null,null,"see",3208,"Totalitarismus","faschismus"],
  ["fashion","Mode","",null,null,"ref",1998,"Mode","fashion"],
- ["fastidium","Überdruss Faszination","",null,null,"ref",null,null,"fastidium"],
+ ["fastidium","Überdruss","",null,null,"ref",3249,"Überdruß","fastidium"],
+ ["Faszination","Hypnose","","3","1248","ref",1325,"Hypnose","faszination"],
  ["Fatalismus","Fatalismus","","2","913–915","main",898,"Fatalismus","fatalismus"],
  ["Fatalismus","Schicksal","",null,null,"see",2764,"Schicksal","fatalismus"],
  ["Fatalismus","Spinozismus","",null,null,"see",2977,"Spinozismus","fatalismus"],
@@ -288,8 +317,7 @@ HWPH.put("r/66-61",
  ["Fatum","Amor fati","(Nietzsche)",null,null,"see",117,"Amor fati","fatum"],
  ["Fatum","Schicksal","",null,null,"see",2764,"Schicksal","fatum"],
  ["Fatum","Vorsehung","",null,null,"see",3500,"Vorsehung","fatum"],
- ["fatum","Nexus universalis","",null,null,"ref",2132,"Nexus, Nexus universalis","fatum"],
- ["fatum","Mantik","","5","750","ref",1868,"Mantik","fatum"],
+ ["fatum","Nexus","",null,null,"ref",2132,"Nexus, Nexus universalis","fatum"],
  ["fatum astrologicum","Schicksal","","8","1281","ref",2764,"Schicksal","fatum astrologicum"],
  ["fatum christianum","Prädestination","","7","1175","ref",2424,"Prädestination","fatum christianum"],
  ["fatum mahumetanum","Schicksal","","8","1281","ref",2764,"Schicksal","fatum mahumetanum"],
@@ -306,14 +334,10 @@ HWPH.put("r/66-61",
   "fausse reconnaissance"
  ],
  [
-  "fausse reconnaissance","Erkenntnis II (psych.)","","2","670","ref",796,"Erkennen, Erkenntnis",
+  "fausse reconnaissance","Erkenntnis","II (psych.)","2","670","ref",796,"Erkennen, Erkenntnis",
   "fausse reconnaissance"
  ],
  ["Faustregel","Regel","II (eth.)","8","441","ref",2640,"Regel","faustregel"],
- [
-  "Familie; Ehe Mann, verstümmelter","Familie; Ehe Mann, verstümmelter","",null,null,"main",893,
-  "Familie, Ehe","familie; ehe mann, verstummelter"
- ],
  ["Fall; Abfall","Fall; Abfall","","2","889","main",890,"Fall, Abfall","fall; abfall"],
  ["Fabian Bernhard","Genie","II","3","282–285","author",1071,"Genie","fabian bernhard"],
  [
@@ -327,7 +351,7 @@ HWPH.put("r/66-61",
  ],
  ["Fabian Rainer","Absurd","","1","66f.","author",35,"Absurd","fabian rainer"],
  [
-  "Fabian Rainer","Ambiguität II (Merleau-Ponty)","","1","203f.","author",113,
+  "Fabian Rainer","Ambiguität","II (Merleau-Ponty)","1","203f.","author",113,
   "Ambiguität (Amphibolie)","fabian rainer"
  ],
  [

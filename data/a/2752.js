@@ -17,12 +17,7 @@ HWPH.put("a/2752",
  "next":{"id":2753,"lemma":"Scharfsinn","band":"8","col":1217},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Exhibitionslust","qualifier":"4","band":"8","col":"1215"},
-  {"term":"Identitätskonflikt","qualifier":"4","band":"8","col":"1215"},
-  {"term":"Reaktionsbildung","qualifier":"4","band":"8","col":"1215"},
-  {"term":"Sublimierung","qualifier":"4","band":"8","col":"1215"}
- ],
+ "register":[],
  "persons":[
   {"id":18817,"name":"J. G. Georgi","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
   {"id":3007,"name":"H. Hoffmann","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
@@ -56,6 +51,6 @@ HWPH.put("a/2752",
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Schamanismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Schamanismus"}
  ],
- "reg_authors":[{"name":"Lanczkowski Günter","n":22},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Lanczkowski Günter","n":22}]
 }
 );

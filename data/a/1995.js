@@ -22,19 +22,8 @@ HWPH.put("a/1995",
  ],
  "outlinks":[{"id":1993,"lemma":"Modalanalyse","n":1},{"id":1996,"lemma":"Modalität (des Urteils)","n":2}],
  "register":[
-  {"term":"apodiktisch","qualifier":"","band":null,"col":null},
-  {"term":"assertorisch","qualifier":"","band":null,"col":null},
-  {"term":"de dicto/de re","qualifier":"","band":null,"col":null},
-  {"term":"des Urteils 6 14 Urteil, assertorisches","qualifier":"","band":null,"col":null},
   {"term":"distinctio modalis","qualifier":"","band":"6","col":"9"},
-  {"term":"generalis/specialis","qualifier":"","band":null,"col":null},
-  {"term":"modus","qualifier":"","band":null,"col":null},
-  {"term":"modus generalis/specialis","qualifier":"","band":null,"col":null},
-  {"term":"problematisches Urteil","qualifier":"","band":null,"col":null},
-  {"term":"Urteil, apodiktisches","qualifier":"","band":null,"col":null},
-  {"term":"Urteil, problematisches","qualifier":"","band":null,"col":null},
-  {"term":"τρόπος","qualifier":"","band":null,"col":null},
-  {"term":"– III (Formen) 11 455–458 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"problematisches Urteil","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -107,6 +96,6 @@ HWPH.put("a/1995",
   {"id":3628,"lemma":"Wirklichkeit"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Modalität"},{"id":26,"name":"Metaphysik","label":"Modalität"}],
- "reg_authors":[{"name":"Menne Albert","n":61},{"name":"Specht Rainer","n":32}]
+ "reg_authors":[{"name":"Specht Rainer","n":32}]
 }
 );

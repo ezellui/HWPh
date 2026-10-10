@@ -19,14 +19,18 @@ HWPH.put("r/72-6f",
  ["Romanismus","Hellenismus","","3","1052","ref",1245,"Hellenismus","romanismus"],
  ["Romanismus","Neuscholastik","","6","771","ref",2125,"Neuscholastik","romanismus"],
  ["Romantik","Romantik","","8","1076–1086","main",2724,"Romantik, das Romantische","romantik"],
- ["Romantik","Klassische","",null,null,"see",1573,"Klassische","romantik"],
+ ["Romantik","Klassische, das","",null,null,"see",1573,"Klassische","romantik"],
+ ["Romantik","Repräsentation","V","8","847","ref",2686,"Repräsentation","romantik"],
  [
   "romantisch","Antiqui/moderni (Querelle des Anciens et des Modernes)","","1","414","ref",189,
   "Antiqui/moderni (Querelle des Anciens et des Modernes)","romantisch"
  ],
  ["romantisch","Romantik","","8","1083ff.","ref",2724,"Romantik, das Romantische","romantisch"],
- ["Romantische, das","Romantik Romantizismus","",null,null,"ref",null,null,"romantische, das"],
- ["Rousseauismus","Rousseauismus","","8","1089","main",2725,"Rousseauismus","rousseauismus"],
+ [
+  "Romantische, das","Romantik","",null,null,"ref",2724,"Romantik, das Romantische",
+  "romantische, das"
+ ],
+ ["Romantizismus","Rousseauismus","","8","1089","ref",2725,"Rousseauismus","romantizismus"],
  ["Romanze","Romantik","","8","1076f.","ref",2724,"Romantik, das Romantische","romanze"],
  ["rompre au port","Scheitern","","8","1245","ref",2759,"Scheitern","rompre au port"],
  [
@@ -61,12 +65,15 @@ HWPH.put("r/72-6f",
   "Wirkungszusammenhang, historischer","rodi frithjof"
  ],
  ["Rodingen Hubert","Macht","IV (marx.)","5","622–625","author",1844,"Macht","rodingen hubert"],
- ["Rodríguez-Lores Juan","Dialektik","IV",null,null,"author",583,"Dialektik","rodriguez-lores juan"],
  [
-  "Rodríguez-Lores Juan","Intelligenz; Intellektueller IV (marx.)","","4","452–454","author",1464,
+  "Rodríguez-Lores Juan","Dialektik","IV 5.",null,null,"author",583,"Dialektik",
+  "rodriguez-lores juan"
+ ],
+ [
+  "Rodríguez-Lores Juan","Intelligenz; Intellektueller","IV (marx.)","4","452–454","author",1464,
   "Intelligenz, Intelligentsia, Intellektueller","rodriguez-lores juan"
  ],
- ["Roebling Irmgard","Groteske","",null,null,"author",1190,"Groteske","roebling irmgard"],
+ ["Roebling Irmgard","Groteske, das","","3","900–902","author",1190,"Groteske","roebling irmgard"],
  [
   "Rödding Dieter","Algebra der Logik","","1","152f.","author",96,"Algebra der Logik",
   "rodding dieter"
@@ -94,11 +101,11 @@ HWPH.put("r/72-6f",
  ],
  ["Röttgers Arndt","Authentisch","","1","691f.","author",317,"Authentisch","rottgers arndt"],
  ["Röttgers Arndt","Autorität","III (pol.)","1","729–733","author",333,"Autorität","rottgers arndt"],
- ["Röttgers Arndt","Dialektik","IV",null,null,"author",583,"Dialektik","rottgers arndt"],
+ ["Röttgers Arndt","Dialektik","IV 1.",null,null,"author",583,"Dialektik","rottgers arndt"],
  ["Röttgers Arndt","Entäusserung","","2","504–506","author",745,"Entäußerung","rottgers arndt"],
  ["Röttgers Arndt","Gewalt","","3","562–570","author",1127,"Gewalt","rottgers arndt"],
  [
-  "Röttgers Arndt","Intelligenz; Intellektueller II. V (soz.)","","4","447f.","author",1464,
+  "Röttgers Arndt","Intelligenz; Intellektueller II.","V (soz.)","4","447f.","author",1464,
   "Intelligenz, Intelligentsia, Intellektueller","rottgers arndt"
  ],
  ["Röttgers Arndt","Macht","I B","5","588–604","author",1844,"Macht","rottgers arndt"],
@@ -110,7 +117,7 @@ HWPH.put("r/72-6f",
   "Röttgers Arndt","Produktionsverhältnisse; Produktivkräfte","I","7","1438–1440","author",2470,
   "Produktionsverhältnisse/Produktivkräfte","rottgers arndt"
  ],
- ["Röttgers Arndt","Prozess I 1–4","","7","1543–1558","author",2499,"Prozeß","rottgers arndt"],
+ ["Röttgers Arndt","Prozess","I",null,null,"author",2499,"Prozeß","rottgers arndt"],
  ["Röttgers Arndt","Residuum","","8","901–909","author",2692,"Residuum","rottgers arndt"],
  [
   "Röttgers Arndt","Rhizom","(Deleuze/Guattari)","8","1025f.","author",2714,"Rhizom",
@@ -144,7 +151,7 @@ HWPH.put("r/72-6f",
  ["Rohde K","Instinkt","II (biol.)","4","413–417","author",1453,"Instinkt","rohde k"],
  ["Rohs Peter","Schein","I",null,null,"author",2757,"Schein","rohs peter"],
  [
-  "Rolke Lothar","Rationalität II (ökon.)","","8","56–62","author",2576,
+  "Rolke Lothar","Rationalität","II (ökon.)","8","56–62","author",2576,
   "Rationalität, Rationalisierung","rolke lothar"
  ],
  [
@@ -156,7 +163,7 @@ HWPH.put("r/72-6f",
   "roloff dietrich"
  ],
  [
-  "Roloff Dietrich","Gottwerdung; Vergöttlichung 1–5","","3","842–844","author",1175,
+  "Roloff Dietrich","Gottwerdung; Vergöttlichung","",null,null,"author",1175,
   "Gottwerdung, Vergottung, Vergöttlichung","roloff dietrich"
  ],
  [
@@ -180,7 +187,7 @@ HWPH.put("r/72-6f",
  ["Roos Heinrich","Grammatik","I","3","846–849","author",1177,"Grammatik","roos heinrich"],
  ["Rossa Kurt","Fehlurteil","","2","922f.","author",903,"Fehlurteil","rossa kurt"],
  [
-  "Roth Gerhard","Kulturmorphologie (Frobenius)","","4","1338f.","author",1706,
+  "Roth Gerhard","Kulturmorphologie","(Frobenius)","4","1338f.","author",1706,
   "Kulturmorphologie, Kulturkreislehre","roth gerhard"
  ],
  ["Rothe Klaus","Geist","IX","3","199–204","author",1030,"Geist","rothe klaus"],
@@ -205,7 +212,7 @@ HWPH.put("r/72-6f",
  ["Rothschuh Karl E","Physiologie","","7","964–967","author",2373,"Physiologie","rothschuh karl e"],
  ["Rothschuh Karl E","Reizbarkeit","","8","567f.","author",2663,"Reizbarkeit","rothschuh karl e"],
  [
-  "Rothschuh Karl E","Therapie I (med.)","","10","1163–1165","author",3183,"Theozentrisch",
+  "Rothschuh Karl E","Therapie","I (med.)","10","1163–1165","author",3183,"Theozentrisch",
   "rothschuh karl e"
  ],
  ["Rott Hans","Wenn-so-Satz","","12","538–540","author",3584,"Wenn-so-Satz","rott hans"],

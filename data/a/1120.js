@@ -23,19 +23,16 @@ HWPH.put("a/1120",
  "outlinks":[{"id":1116,"lemma":"Gestalt","n":1},{"id":1119,"lemma":"Gestaltpsychologie","n":1}],
  "register":[
   {"term":"Chemie, psychische","qualifier":"","band":"3","col":"551"},
-  {"term":"der 4 935–939 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Ehrenfels-Kriterien","qualifier":"","band":"3","col":"550f."},
   {"term":"Komplexqualität","qualifier":"","band":null,"col":null},
   {"term":"psychische Chemie","qualifier":"","band":"3","col":"551"},
   {"term":"quality of configuration","qualifier":"","band":null,"col":null},
+  {"term":"Resultante, schöpferische","qualifier":"","band":"3","col":"551"},
   {"term":"schöpferische Resultante","qualifier":"","band":"3","col":"551"},
   {"term":"schöpferische Synthese","qualifier":"","band":"3","col":"551"},
   {"term":"Synthese, schöpferische","qualifier":"","band":"3","col":"551"},
   {"term":"Wahrnehmungs-Komplex","qualifier":"","band":"3","col":"550"},
-  {"term":"Wahrnehmungsinhalt","qualifier":"","band":"3","col":"550"},
-  {"term":"– I (ästh.) 3 540–547 – II (psych.) 3 547f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (psych.) 3 20 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (psych.) 2 337–339 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wahrnehmungsinhalt","qualifier":"","band":"3","col":"550"}
  ],
  "persons":[
   {"id":1151,"name":"Chr. v. Ehrenfels","b":1,"n":2,"l":0,"editor":0,"role":"source"},

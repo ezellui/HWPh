@@ -25,6 +25,6 @@ HWPH.put("a/711",
  "mentions":[],
  "see_also":[{"id":946,"lemma":"Freiheit"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Eleutheronomie (Kant)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -23,8 +23,7 @@ HWPH.put("a/3519",
  ],
  "register":[
   {"term":"choice sequence","qualifier":"","band":null,"col":null},
-  {"term":"Kontinuum, arithmetisches","qualifier":"","band":null,"col":null},
-  {"term":"– III (log./math.) 4 543f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Kontinuum, arithmetisches","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":731,"name":"L. E. J. Brouwer","b":2,"n":2,"l":0,"editor":0,"role":"source"},

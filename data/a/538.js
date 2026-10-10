@@ -22,7 +22,7 @@ HWPH.put("a/538",
   {"id":3635,"lemma":"Wissenschaft","n":1}
  ],
  "outlinks":[],
- "register":[{"term":"– I (wiss.) 6 1216–1218 s. auch","qualifier":"(Bridgman)","band":null,"col":null}],
+ "register":[{"term":"operationale Definition","qualifier":"(Bridgman)","band":null,"col":null}],
  "persons":[
   {"id":1595,"name":"P. W. Bridgman","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":14115,"name":"D. P. Gorski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

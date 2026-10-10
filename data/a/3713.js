@@ -122,6 +122,6 @@ HWPH.put("a/3713",
   {"id":3651,"lemma":"Wohlgefallen, interesseloses"}
  ],
  "groups":[{"id":45,"name":"Topoi und Metaphern","label":"Zuschauer"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Lühe Astrid von der","n":18}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Lühe Astrid von der","n":18}]
 }
 );

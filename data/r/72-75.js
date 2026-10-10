@@ -28,9 +28,12 @@ HWPH.put("r/72-75",
   "ruckkehr zu sich selbst"
  ],
  [
-  "Rückkehr zum Innersten","Conversio; Umkehr Rückkopplung","",null,null,"ref",514,
-  "Conversio, Umkehr","ruckkehr zum innersten"
+  "Rückkehr zum Innersten","Conversio; Umkehr","",null,null,"ref",514,"Conversio, Umkehr",
+  "ruckkehr zum innersten"
  ],
+ ["Rückkopplung","Homöostase","",null,null,"ref",1308,"Homöostase","ruckkopplung"],
+ ["Rückkopplung","Regelung","",null,null,"ref",2645,"Regelung","ruckkopplung"],
+ ["Rückkopplung","Anpassung","III (anthr.)","1","339","ref",159,"Anpassung","ruckkopplung"],
  ["Rückschlag","Atavismus","","1","594","ref",273,"Atavismus","ruckschlag"],
  [
   "Rücksicht auf Darstellbarkeit","Traum","II","10","1466","ref",3225,"Traum",
@@ -44,11 +47,12 @@ HWPH.put("r/72-75",
   "Rückstossung","Repulsion/Attraktion","",null,null,"ref",2690,"Repulsion/Attraktion",
   "ruckstossung"
  ],
- ["Rückwendung","Conversio; Umkehr Rührung","",null,null,"ref",514,"Conversio, Umkehr","ruckwendung"],
+ ["Rückwendung","Conversio; Umkehr","",null,null,"ref",514,"Conversio, Umkehr","ruckwendung"],
+ ["Rührung","Gemütsbewegung","","3","266","ref",1055,"Gemütsbewegung","ruhrung"],
  ["Ruf","Doxa","","2","288","ref",633,"Doxa","ruf"],
  ["Ruf","Ethik","IV","2","775","ref",835,"Ethik","ruf"],
  ["Ruf, guter","Ehre","",null,null,"ref",654,"Ehre","ruf, guter"],
- ["Ruhe","Schweigen; Stille A","",null,null,"ref",2787,"Schweigen, Stille","ruhe"],
+ ["Ruhe","Schweigen; Stille","A",null,null,"ref",2787,"Schweigen, Stille","ruhe"],
  ["Ruhe","Seelenruhe","",null,null,"ref",2797,"Seelenruhe","ruhe"],
  ["Ruhe","Lust; Freude","I","5","553","ref",1837,"Lust, Freude","ruhe"],
  ["Ruhe","Selbstbewegung","","9","349","ref",2827,"Selbstbewegung","ruhe"],
@@ -56,6 +60,13 @@ HWPH.put("r/72-75",
  ["Ruhe/Bewegung","Augenblick","(Kierkegaard)","1","649","ref",295,"Augenblick","ruhe/bewegung"],
  ["Ruhe/Bewegung","Bewegung","I","1","865f.","ref",408,"Bewegung","ruhe/bewegung"],
  ["Ruhe/Bewegung","Bewegung","III","1","872","ref",408,"Bewegung","ruhe/bewegung"],
+ ["Ruhe/Bewegung","Kontinuitätsgesetz","","4","1043","ref",1639,"Kontinuitätsgesetz","ruhe/bewegung"],
+ ["Ruhe/Bewegung","Natur","I","6","430","ref",2074,"Natur","ruhe/bewegung"],
+ ["Ruhe/Bewegung","Substanz","I","10","504","ref",3062,"Substanz; Substanz/Akzidens","ruhe/bewegung"],
+ ["Ruhe/Bewegung","Wandel","","12","312","ref",3543,"Wandel; Veränderung","ruhe/bewegung"],
+ ["Ruhe/Bewegung","Werden/Vergehen","","12","544","ref",3585,"Werden/Vergehen","ruhe/bewegung"],
+ ["Ruhe/Bewegung","Zeit","III A","12","1215","ref",3676,"Zeit","ruhe/bewegung"],
+ ["Ruhe/Bewegung","Zwischen","","12","1544f.","ref",3727,"Zwischen","ruhe/bewegung"],
  [
   "Ruhe, heitere","Heiterkeit; das Heitere","","3","1040","ref",1242,"Heiterkeit, das Heitere",
   "ruhe, heitere"
@@ -97,8 +108,8 @@ HWPH.put("r/72-75",
   "Vorstellungsvorstellung","russellsche antinomie"
  ],
  [
-  "Russische Philosophie s. auch","Register der Sachgruppen: Russische bzw.","",null,null,"ref",null,
-  null,"russische philosophie s. auch"
+  "Russische Philosophie","Register der Sachgruppen: Russische bzw.","",null,null,"see",null,null,
+  "russische philosophie"
  ],
  ["Ruben Peter","Sozialismus","1","9","1166–1171","author",2947,"Sozialismus","ruben peter"],
  [
@@ -116,15 +127,15 @@ HWPH.put("r/72-75",
   "Evolutionismus, kultureller","rudolph wolfgang"
  ],
  [
-  "Rudolph Wolfgang","Kulturanthropologie","",null,null,"author",1702,"Kulturanthropologie",
-  "rudolph wolfgang"
+  "Rudolph Wolfgang","Kulturanthropologie, empirische","","4","1328–1332","author",1703,
+  "Kulturanthropologie, empirische (culturalanthropology)","rudolph wolfgang"
  ],
  [
   "Rudolph Wolfgang","Kultureller Relativismus","","4","1332f.","author",1704,
   "Kultureller Relativismus","rudolph wolfgang"
  ],
  ["Rücker Helmut","Komparatistik","","4","908–912","author",1596,"Komparatistik","rucker helmut"],
- ["Rücker Helmut","Mass I 7; II (ästh.)","","5","811f.","author",1877,"Maß","rucker helmut"],
+ ["Rücker Helmut","Mass I 7;","II (ästh.)","5","811f.","author",1877,"Maß","rucker helmut"],
  [
   "Rücker Helmut","Nationalliteratur","","6","414–417","author",2071,"Nationalliteratur",
   "rucker helmut"

@@ -32,6 +32,7 @@ HWPH.put("a/289",
  "outlinks":[],
  "register":[
   {"term":"Dialog","qualifier":"I","band":"1","col":"631"},
+  {"term":"illuminismo","qualifier":"","band":null,"col":null},
   {"term":"Kritik","qualifier":"I","band":"1","col":"622"},
   {"term":"Licht","qualifier":"I","band":"1","col":"621"},
   {"term":"lumières","qualifier":"","band":null,"col":null},

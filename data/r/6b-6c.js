@@ -1,5 +1,6 @@
 HWPH.put("r/6b-6c",
 [
+ ["klagbar","Vertrag","II (soz./pol.)",null,null,"ref",3445,"Vertrag","klagbar"],
  ["Klangrhythmus","Rhythmus","I (mus.)","8","1031","ref",2715,"Rhythmus","klangrhythmus"],
  [
   "klar","Zweideutigkeit; Vieldeutigkeit","",null,null,"ref",3721,"Zweideutigkeit; Vieldeutigkeit",
@@ -34,7 +35,7 @@ HWPH.put("r/6b-6c",
  ],
  ["Klasse, soziale","Schicht, soziale","",null,null,"see",2761,"Schicht, soziale","klasse, soziale"],
  [
-  "Klasse, sterile","Produktion II (ökon.)","","7","1427","ref",2469,"Produktion, Produktivität",
+  "Klasse, sterile","Produktion","II (ökon.)","7","1427","ref",2469,"Produktion, Produktivität",
   "klasse, sterile"
  ],
  [
@@ -42,7 +43,7 @@ HWPH.put("r/6b-6c",
   "Parteilichkeit","klassenbedingtheit der erkenntnis"
  ],
  [
-  "Klassenbewusstsein","Intelligenz; Intellektueller IV (marx.)","","4","453","ref",1464,
+  "Klassenbewusstsein","Intelligenz; Intellektueller","IV (marx.)","4","453","ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","klassenbewusstsein"
  ],
  ["Klassenbewusstsein","Philosophie","IV I","7","762","ref",2353,"Philosophie","klassenbewusstsein"],
@@ -66,7 +67,7 @@ HWPH.put("r/6b-6c",
  ["Klassifikation","Theorie","I","10","1142ff.","ref",3179,"Theorie","klassifikation"],
  ["Klassifikation","Verwandtschaft","","11","993","ref",3449,"Verwandtschaft","klassifikation"],
  [
-  "Klassifikation (biol.)","Gattung; Genus III","",null,null,"ref",991,"Gattung, Genus",
+  "Klassifikation (biol.)","Gattung; Genus","III",null,null,"ref",991,"Gattung, Genus",
   "klassifikation (biol.)"
  ],
  [
@@ -76,8 +77,12 @@ HWPH.put("r/6b-6c",
  ["Klassifikation (biol.)","Art","III","1","529","ref",254,"Art","klassifikation (biol.)"],
  ["Klassifikation (biol.)","Pflanze","","7","398f.","ref",2332,"Pflanze","klassifikation (biol.)"],
  [
-  "Klassifikation (ling.)","Genus; Sexus Klassifikation (psych.)","",null,null,"ref",991,
-  "Gattung, Genus","klassifikation (ling.)"
+  "Klassifikation (ling.)","Genus; Sexus","",null,null,"ref",991,"Gattung, Genus",
+  "klassifikation (ling.)"
+ ],
+ [
+  "Klassifikation (psych.)","Identifikation","I","4","140f.","ref",1365,"Identifikation",
+  "klassifikation (psych.)"
  ],
  [
   "Klassifikation der Begriffe","Ordnung der Begriffe","",null,null,"ref",2235,
@@ -91,7 +96,10 @@ HWPH.put("r/6b-6c",
   "klassische/progressive Philologie","Philologie","","7","561","ref",2352,"Philologie",
   "klassische/progressive philologie"
  ],
- ["Klassische","Klassische","",null,null,"main",1573,"Klassische","klassische"],
+ ["Klassische, das","Klassische, das","","4","853–856","main",1573,"Klassische","klassische, das"],
+ ["Klassische, das","Antike","III",null,null,"see",182,"Antike","klassische, das"],
+ ["Klassische, das","Romantik","",null,null,"see",2724,"Romantik, das Romantische","klassische, das"],
+ ["Klassizismus","Karikatur","","4","696","ref",1531,"Karikatur","klassizismus"],
  [
   "Kleingruppenforschung","Gruppendynamik","",null,null,"ref",1200,"Gruppendynamik",
   "kleingruppenforschung"
@@ -141,7 +149,10 @@ HWPH.put("r/6b-6c",
  ["Klein Ulrich","Kardinaltugenden","","4","695f.","author",1530,"Kardinaltugenden","klein ulrich"],
  ["Klein Ulrich","Milde","","5","1391–1393","author",1972,"Milde","klein ulrich"],
  ["Klein Wilhelm","Monophysitismus","","6","136–138","author",2016,"Monophysitismus","klein wilhelm"],
- ["Kleiner Heinrich","Ich","",null,null,"author",1334,"Ich","kleiner heinrich"],
+ [
+  "Kleiner Heinrich","Ich, primäres/sekundäres","(Reininger)","4","18f.","author",1334,"Ich",
+  "kleiner heinrich"
+ ],
  [
   "Kleiner Heinrich","Idealismus, monistischer","(Reininger)","4","40f.","author",1350,
   "Idealismus, monistischer","kleiner heinrich"

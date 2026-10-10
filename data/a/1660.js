@@ -31,6 +31,8 @@ HWPH.put("a/1660",
  "register":[
   {"term":"Kränkung, kosmologische","qualifier":"","band":"4","col":"1097"},
   {"term":"Paradies","qualifier":"","band":"4","col":"1096"},
+  {"term":"Stellung des Menschen","qualifier":"","band":null,"col":null},
+  {"term":"Weltbild, kopernikanisches","qualifier":"","band":null,"col":null},
   {"term":"Weltmodell","qualifier":"","band":null,"col":null},
   {"term":"Wende, kopernikanische","qualifier":"","band":null,"col":null}
  ],

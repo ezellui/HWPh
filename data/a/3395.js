@@ -46,8 +46,7 @@ HWPH.put("a/3395",
   {"term":"inheritance","qualifier":"","band":null,"col":null},
   {"term":"Konstanz der Arten","qualifier":"I (biol.)","band":"11","col":"625"},
   {"term":"Lyssenkoismus","qualifier":"II (soz.)","band":"11","col":"630"},
-  {"term":"Phänotyp","qualifier":"I (biol.)","band":"11","col":"626"},
-  {"term":"– I (biol.) 8 481–483 s. auch","qualifier":"I (biol.)","band":null,"col":null}
+  {"term":"Phänotyp","qualifier":"I (biol.)","band":"11","col":"626"}
  ],
  "persons":[
   {"id":3113,"name":"P. Weingart","b":0,"n":5,"l":0,"editor":0,"role":"scholar"},
@@ -179,14 +178,16 @@ HWPH.put("a/3395",
   {"id":2332,"lemma":"Pflanze","tf":2}
  ],
  "see_also":[
-  {"id":3395,"lemma":"Vererbung"},
+  {"id":2253,"lemma":"Orthogenese, Orthogenesis"},
   {"id":630,"lemma":"Dominant/rezessiv"},
   {"id":1057,"lemma":"Gen"},
   {"id":1070,"lemma":"Genetik"},
   {"id":1073,"lemma":"Genotyp/Phänotyp"},
   {"id":2648,"lemma":"Regression"},
   {"id":3681,"lemma":"Zelle"},
-  {"id":3693,"lemma":"Zeugung"}
+  {"id":3693,"lemma":"Zeugung"},
+  {"id":2568,"lemma":"Rasse"},
+  {"id":3704,"lemma":"Züchtung"}
  ],
  "groups":[
   {"id":5,"name":"Biologie","label":"Vererbung I (biol.)"},

@@ -17,7 +17,10 @@ HWPH.put("a/455",
  "next":{"id":456,"lemma":"Buch der Natur","band":"1","col":957},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Buch des Gedächtnisses","qualifier":"","band":"1","col":"956"}],
+ "register":[
+  {"term":"Buch des Gedächtnisses","qualifier":"","band":"1","col":"956"},
+  {"term":"Lebensbuch","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":50,"name":"Bonaventura","b":0,"n":3,"l":0,"editor":0,"role":"source"},

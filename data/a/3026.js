@@ -21,6 +21,7 @@ HWPH.put("a/3026",
   {"term":"concinnitas","qualifier":"","band":null,"col":null},
   {"term":"Einstimmigkeit","qualifier":"","band":"10","col":"171f."},
   {"term":"Füglichkeit","qualifier":"","band":"10","col":"171"},
+  {"term":"gentium","qualifier":"","band":null,"col":null},
   {"term":"Symmetrie, übereinstimmende","qualifier":"","band":"10","col":"171"},
   {"term":"Unstimmigkeit","qualifier":"","band":"10","col":"172"},
   {"term":"Zusammenstimmung","qualifier":"","band":"10","col":"171f."}

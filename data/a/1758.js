@@ -31,7 +31,7 @@ HWPH.put("a/1758",
   {"id":3077,"lemma":"Śūnyatā","n":1},
   {"id":3368,"lemma":"Vacuum","n":1}
  ],
- "register":[{"term":"– I (myst.) 5 157f. s. auch","qualifier":"","band":"5","col":"158f."}],
+ "register":[],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":4891,"name":"D. Bodde","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
@@ -84,7 +84,13 @@ HWPH.put("a/1758",
   {"id":2969,"lemma":"Spekulation","tf":2},
   {"id":1795,"lemma":"Liebe","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":21,"lemma":"Abgeschiedenheit"},
+  {"id":1727,"lemma":"Langeweile"},
+  {"id":2136,"lemma":"Nichts, Nichtseiendes"},
+  {"id":2743,"lemma":"Satori"},
+  {"id":3077,"lemma":"Śūnyatā"}
+ ],
  "groups":[
   {"id":6,"name":"Chinesische Philosophie","label":"Leere II (Ostasien)"},
   {"id":15,"name":"Indische Philosophie","label":"Leere II (Ostasien)"},

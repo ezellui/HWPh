@@ -17,7 +17,7 @@ HWPH.put("a/2618",
  "next":{"id":2619,"lemma":"Rechtszweck","band":"8","col":353},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– IV (wiss.) 8 446–450 Regel","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":1343,"name":"F. C. von Savigny","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":240,"name":"H. Kelsen","b":0,"n":1,"l":0,"editor":0,"role":"source"},

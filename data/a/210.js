@@ -17,7 +17,11 @@ HWPH.put("a/210",
  "next":{"id":211,"lemma":"Appellatio","band":"1","col":448},
  "backlinks":[{"id":3551,"lemma":"Weg","n":1},{"id":3722,"lemma":"Zweifel","n":1}],
  "outlinks":[],
- "register":[{"term":"Aporetik","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Aporetik","qualifier":"","band":null,"col":null},
+  {"term":"Ausweglosigkeit","qualifier":"","band":null,"col":null},
+  {"term":"Verlegenheit","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -35,16 +35,17 @@ HWPH.put("a/3352",
   {"id":3493,"lemma":"Vorgriff; Vorhabe; Vorsicht","n":1}
  ],
  "register":[
+  {"term":"Anfang","qualifier":"","band":null,"col":null},
   {"term":"Ausfluss","qualifier":"","band":"11","col":"418"},
   {"term":"Erkenntnis, Ursprung der","qualifier":"","band":"11","col":"419f."},
   {"term":"Erstes","qualifier":"","band":null,"col":null},
-  {"term":"I-II","qualifier":"","band":null,"col":null},
   {"term":"origin","qualifier":"","band":null,"col":null},
   {"term":"origo","qualifier":"","band":null,"col":null},
   {"term":"Quelle","qualifier":"","band":"11","col":"417f."},
   {"term":"Ursprung der Zeit","qualifier":"","band":"11","col":"418"},
   {"term":"Ursprünglichkeit","qualifier":"","band":"11","col":"421"},
-  {"term":"Urwissenschaft","qualifier":"","band":"11","col":"421"}
+  {"term":"Urwissenschaft","qualifier":"","band":"11","col":"421"},
+  {"term":"Zeitursprung","qualifier":"","band":"11","col":"418f."}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":3,"n":5,"l":0,"editor":0,"role":"source"},

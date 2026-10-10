@@ -20,7 +20,7 @@ HWPH.put("a/1538",
   {"id":3108,"lemma":"Synkategorem;synkategorematisch;synsemantisch","n":1}
  ],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"kategorematisch","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":23,"name":"Boethius","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -40,11 +40,11 @@ HWPH.put("a/2288",
  "register":[
   {"term":"admission, passive","qualifier":"","band":"7","col":"164"},
   {"term":"Assoziation","qualifier":"","band":"7","col":"166"},
-  {"term":"der 4 937 Zeitigung","qualifier":"","band":"7","col":"167"},
   {"term":"Doxa, passive","qualifier":"","band":"7","col":"166"},
   {"term":"Einbildungskraft","qualifier":"","band":"7","col":"166"},
   {"term":"Erleiden","qualifier":"","band":null,"col":null},
   {"term":"Genesis, passive","qualifier":"","band":"7","col":"166f."},
+  {"term":"Haltung","qualifier":"","band":"7","col":"167"},
   {"term":"Orientierungsapriori","qualifier":"","band":"7","col":"166"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Seinsglaube","qualifier":"","band":"7","col":"166"},
@@ -61,7 +61,7 @@ HWPH.put("a/2288",
   {"term":"Vorgegebenheit","qualifier":"","band":"7","col":"165f."},
   {"term":"Vorkonstitution","qualifier":"","band":null,"col":null},
   {"term":"Zeitbewusstsein, inneres","qualifier":"","band":"7","col":"166"},
-  {"term":"– II (psych./soz.) 9 929–937 Situation","qualifier":"","band":"7","col":"167"}
+  {"term":"Zeitigung","qualifier":"","band":"7","col":"167"}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":3,"l":0,"editor":0,"role":"source"},

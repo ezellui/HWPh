@@ -30,8 +30,7 @@ HWPH.put("a/2599",
   {"term":"Gewohnheitsrecht","qualifier":"","band":"8","col":"237f."},
   {"term":"positives Recht","qualifier":"","band":null,"col":null},
   {"term":"Rechtsgeltung","qualifier":"","band":"8","col":"237ff."},
-  {"term":"Rechtspositivismus","qualifier":"","band":null,"col":null},
-  {"term":"– I (jur.) 3 480–493 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Rechtspositivismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2909,"name":"K. Bergbohm","b":2,"n":3,"l":0,"editor":0,"role":"source"},

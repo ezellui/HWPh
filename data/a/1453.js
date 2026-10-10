@@ -45,15 +45,15 @@ HWPH.put("a/1453",
   {"term":"instinctus naturalis","qualifier":"I (erk.)","band":"4","col":"409"},
   {"term":"Kettenreflex","qualifier":"II (biol.)","band":"4","col":"414"},
   {"term":"Leerlaufreaktion","qualifier":"II (biol.)","band":"4","col":"415"},
-  {"term":"Naturtrieb","qualifier":"I (erk.)","band":"4","col":"409"},
+  {"term":"Mensch/Tier","qualifier":"II (biol.)","band":null,"col":null},
+  {"term":"naturalis","qualifier":"I (erk.)","band":"4","col":"409"},
   {"term":"Reflex","qualifier":"II (biol.)","band":"4","col":"414"},
   {"term":"spezifische Handlungsbereitschaft","qualifier":"II (biol.)","band":"4","col":"416"},
   {"term":"Stand der Unschuld","qualifier":"I (erk.)","band":"4","col":"409"},
   {"term":"Tier/Mensch","qualifier":"II (biol.)","band":null,"col":null},
   {"term":"Verhalten, instinktives","qualifier":"","band":null,"col":null},
   {"term":"Vernunftinstinkt","qualifier":"I (erk.)","band":"4","col":"409f."},
-  {"term":"Vernunftwissenschaft","qualifier":"I (erk.)","band":"4","col":"409"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vernunftwissenschaft","qualifier":"I (erk.)","band":"4","col":"409"}
  ],
  "persons":[
   {"id":221,"name":"K. Lorenz","b":3,"n":6,"l":0,"editor":0,"role":"mixed"},
@@ -152,7 +152,7 @@ HWPH.put("a/1453",
   {"id":151,"lemma":"Anlage","tf":2},
   {"id":26,"lemma":"Absicht","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":2662,"lemma":"Reiz und Reaktion"}],
  "groups":[
   {"id":5,"name":"Biologie","label":"Instinkt II (biol.)"},
   {"id":9,"name":"Erkenntnistheorie","label":"Instinkt I (erk.)"}

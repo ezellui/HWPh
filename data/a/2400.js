@@ -18,6 +18,7 @@ HWPH.put("a/2400",
  "backlinks":[],
  "outlinks":[{"id":2265,"lemma":"Pansophie","n":1}],
  "register":[
+  {"term":"Gelehrsamkeit","qualifier":"","band":null,"col":null},
   {"term":"Polymathie","qualifier":"","band":null,"col":null},
   {"term":"Vielwisserei","qualifier":"","band":null,"col":null}
  ],

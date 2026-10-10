@@ -36,17 +36,13 @@ HWPH.put("a/2969",
   {"id":2972,"lemma":"Spiegel","n":1}
  ],
  "register":[
+  {"term":"bzw. vernünftige Theologie, spekulative","qualifier":"","band":"9","col":"1361f."},
   {"term":"consideratio","qualifier":"","band":"9","col":"1356"},
   {"term":"Grammatik, spekulative","qualifier":"","band":"9","col":"1361"},
   {"term":"Idealismus, spekulativer","qualifier":"","band":"9","col":"1365"},
   {"term":"J Philosophie, spekulative","qualifier":"","band":"9","col":"1363"},
-  {
-   "term":"natürliche bzw. vernünftige Theologie, spekulative",
-   "qualifier":"",
-   "band":"9",
-   "col":"1361f."
-  },
   {"term":"Physik, spekulative","qualifier":"","band":"9","col":"1365"},
+  {"term":"praktisch/spekulativ","qualifier":"","band":null,"col":null},
   {"term":"speculatio","qualifier":"","band":null,"col":null},
   {"term":"speculative philosophy","qualifier":"","band":"9","col":"1369"},
   {"term":"speculum","qualifier":"","band":"9","col":"1356f."},

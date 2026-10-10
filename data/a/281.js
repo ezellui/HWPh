@@ -17,10 +17,7 @@ HWPH.put("a/281",
  "next":{"id":282,"lemma":"Atomtheorie","band":"1","col":606},
  "backlinks":[{"id":282,"lemma":"Atomtheorie","n":2}],
  "outlinks":[{"id":282,"lemma":"Atomtheorie","n":2},{"id":709,"lemma":"Elementarteilchen","n":1}],
- "register":[
-  {"term":"(Wittgenstein)","qualifier":"","band":"1","col":"606"},
-  {"term":"– I (phys.) 1 603 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":79,"name":"Demokrit","b":1,"n":0,"l":0,"editor":0,"role":"source"},

@@ -29,6 +29,8 @@ HWPH.put("a/3332",
   {"id":3139,"lemma":"Technik","n":1}
  ],
  "register":[
+  {"term":"Synthesis","qualifier":"","band":null,"col":null},
+  {"term":"Unantastbarkeit","qualifier":"","band":"11","col":"335"},
   {"term":"Unverletzlichkeit","qualifier":"","band":"11","col":"335"},
   {"term":"Verfügbarkeit","qualifier":"","band":null,"col":null},
   {"term":"Vorhandenheit","qualifier":"","band":null,"col":null},
@@ -81,6 +83,6 @@ HWPH.put("a/3332",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Unverfügbarkeit"},
   {"id":44,"name":"Theologie","label":"Unverfügbarkeit"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Vorster Hans","n":2}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Vorster Hans","n":2}]
 }
 );

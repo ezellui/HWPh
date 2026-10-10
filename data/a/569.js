@@ -19,8 +19,7 @@ HWPH.put("a/569",
  "outlinks":[],
  "register":[
   {"term":"Destrukturierung","qualifier":"","band":null,"col":null},
-  {"term":"Strukturzerfall","qualifier":"","band":null,"col":null},
-  {"term":"– I (psych.) 4 428–431 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Strukturzerfall","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":241,"name":"Ph. Lersch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
@@ -34,6 +33,6 @@ HWPH.put("a/569",
  "mentions":[{"id":1456,"lemma":"Integration","tf":2}],
  "see_also":[{"id":1456,"lemma":"Integration"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Desintegration"}],
- "reg_authors":[{"name":"Wellek Albert","n":5}]
+ "reg_authors":[{"name":"Wellek Albert","n":6}]
 }
 );

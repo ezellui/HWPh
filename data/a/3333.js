@@ -25,19 +25,14 @@ HWPH.put("a/3333",
  ],
  "register":[
   {"term":"dunkel","qualifier":"","band":null,"col":null},
+  {"term":"hermetisches Kunstwerk","qualifier":"","band":"11","col":"338"},
   {"term":"inintelligibilité","qualifier":"","band":null,"col":null},
   {"term":"Kunstwerk, hermetisches","qualifier":"","band":"11","col":"338"},
   {"term":"Nicht-Verstehen","qualifier":"","band":null,"col":null},
   {"term":"obscuritas","qualifier":"","band":null,"col":null},
   {"term":"unintelligibility","qualifier":"","band":null,"col":null},
   {"term":"Unlesbarkeit","qualifier":"","band":"11","col":"338"},
-  {"term":"Verständlichkeit","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (Heidegger) 11 138 – II (Quine) 11 139f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Verständlichkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":37,"name":"F. Schlegel","b":2,"n":3,"l":0,"editor":0,"role":"source"},

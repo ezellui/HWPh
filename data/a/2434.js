@@ -24,12 +24,13 @@ HWPH.put("a/2434",
   {"term":"acceptance","qualifier":"","band":"7","col":"1236"},
   {"term":"Äusserung","qualifier":"","band":"7","col":"1239"},
   {"term":"Interpretant","qualifier":"","band":"7","col":"1237"},
-  {"term":"K 7 788","qualifier":"","band":"7","col":"1235"},
   {"term":"Kompetenz","qualifier":"","band":"7","col":"1236"},
-  {"term":"Literaturkritik II 4 1290 Universalpragmatik","qualifier":"","band":"7","col":"1238"},
+  {"term":"pragmatics","qualifier":"","band":null,"col":null},
   {"term":"Semantik","qualifier":"","band":"7","col":"1235"},
   {"term":"Syntaktik","qualifier":"","band":"7","col":"1235"},
-  {"term":"Verhalten","qualifier":"","band":"7","col":"1237"}
+  {"term":"Universalpragmatik","qualifier":"","band":"7","col":"1238"},
+  {"term":"Verhalten","qualifier":"","band":"7","col":"1237"},
+  {"term":"Wissenschaftssprache","qualifier":"","band":"7","col":"1235"}
  ],
  "persons":[
   {"id":561,"name":"Ch. W. Morris","b":5,"n":8,"l":1,"editor":0,"role":"source"},

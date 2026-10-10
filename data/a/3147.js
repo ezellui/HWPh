@@ -17,7 +17,10 @@ HWPH.put("a/3147",
  "next":{"id":3148,"lemma":"Temperament","band":"10","col":981},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Magnetismus, animalischer","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Magnetismus, animalischer","qualifier":"","band":null,"col":null},
+  {"term":"Tellurismus","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":5675,"name":"D. G. Kieser","b":3,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":361,"name":"C. G. Carus","b":1,"n":1,"l":0,"editor":0,"role":"source"},

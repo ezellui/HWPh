@@ -20,8 +20,7 @@ HWPH.put("a/133",
  "register":[
   {"term":"Band des Seins","qualifier":"","band":"1","col":"267"},
   {"term":"ἀνάγκη","qualifier":"","band":null,"col":null},
-  {"term":"δεσμός","qualifier":"","band":"1","col":"267"},
-  {"term":"– I (allg.) 12 1475–1480 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"δεσμός","qualifier":"","band":"1","col":"267"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},

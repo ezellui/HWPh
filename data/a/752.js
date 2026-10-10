@@ -25,7 +25,7 @@ HWPH.put("a/752",
   {"id":3706,"lemma":"Zufall","n":1}
  ],
  "outlinks":[{"id":3546,"lemma":"Wärmetod","n":1}],
- "register":[{"term":"– II (phys.) 12 1315f. s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":2084,"name":"R. Clausius","b":3,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1823,"name":"W. Thomson","b":2,"n":1,"l":0,"editor":0,"role":"source"},

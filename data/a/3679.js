@@ -45,8 +45,9 @@ HWPH.put("a/3679",
   {"term":"physica","qualifier":"","band":null,"col":null},
   {"term":"temporal logic","qualifier":"","band":null,"col":null},
   {"term":"tense logic","qualifier":"","band":null,"col":null},
+  {"term":"universalis","qualifier":"","band":null,"col":null},
   {"term":"Zeitreihe","qualifier":"","band":"12","col":"1272"},
-  {"term":"– I (met.) 2 150–155 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"κυριεύων λόγος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1008,"name":"A. N. Prior","b":4,"n":3,"l":4,"editor":0,"role":"scholar"},

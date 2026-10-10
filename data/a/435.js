@@ -35,6 +35,7 @@ HWPH.put("a/435",
  "outlinks":[],
  "register":[
   {"term":"Allgemeinbildung","qualifier":"","band":"1","col":"927"},
+  {"term":"Ausbildung","qualifier":"","band":null,"col":null},
   {"term":"Bilden","qualifier":"","band":null,"col":null},
   {"term":"Bildsamkeit","qualifier":"","band":"1","col":"930"},
   {"term":"Bildungsgut","qualifier":"","band":"1","col":"928"},
@@ -56,13 +57,13 @@ HWPH.put("a/435",
   {"term":"Leistung","qualifier":"","band":"1","col":"927"},
   {"term":"Nationalbildung","qualifier":"","band":"1","col":"931"},
   {"term":"nisus formativus","qualifier":"","band":"1","col":"924"},
+  {"term":"Pädagogik","qualifier":"","band":"1","col":"929f."},
   {"term":"philosophia anthropologica","qualifier":"","band":"1","col":"923"},
   {"term":"Selbstschaffen","qualifier":"","band":"1","col":"928"},
   {"term":"Weltbildung","qualifier":"","band":"1","col":"924"},
   {"term":"Wertübertragung","qualifier":"","band":"1","col":"929"},
   {"term":"Willensbildung","qualifier":"","band":"1","col":"929"},
-  {"term":"Zwangsnivellierung","qualifier":"","band":"1","col":"927"},
-  {"term":"– V (ling.) 7 335–338 Person","qualifier":"","band":"1","col":"925"}
+  {"term":"Zwangsnivellierung","qualifier":"","band":"1","col":"927"}
  ],
  "persons":[
   {"id":189,"name":"E. Spranger","b":9,"n":10,"l":0,"editor":0,"role":"source"},

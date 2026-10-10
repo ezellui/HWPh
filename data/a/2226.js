@@ -35,9 +35,9 @@ HWPH.put("a/2226",
   {"term":"Funktionalismus","qualifier":"","band":"6","col":"1210f."},
   {"term":"Geistestätigkeit","qualifier":"","band":null,"col":null},
   {"term":"Handeln","qualifier":"","band":"6","col":"1211f."},
+  {"term":"Kognitionspsychologie","qualifier":"","band":"6","col":"1215"},
   {"term":"Operationalismus","qualifier":"","band":"6","col":"1212"},
   {"term":"Reaktion, spezifische","qualifier":"","band":"6","col":"1209"},
-  {"term":"Science, cognitive","qualifier":"","band":"6","col":"1215"},
   {"term":"Tätigkeit","qualifier":"","band":"6","col":"1213f."},
   {"term":"Tätigkeiten des Verstandes","qualifier":"","band":null,"col":null},
   {"term":"Verinnerlichung","qualifier":"","band":"6","col":"1210"},
@@ -107,7 +107,11 @@ HWPH.put("a/2226",
   {"id":1572,"lemma":"Klasse, soziale","tf":4},
   {"id":3606,"lemma":"Widerspiegelung; Widerspiegelungstheorie","tf":2}
  ],
- "see_also":[{"id":558,"lemma":"Denkpsychologie"},{"id":976,"lemma":"Funktionalismus"}],
+ "see_also":[
+  {"id":558,"lemma":"Denkpsychologie"},
+  {"id":976,"lemma":"Funktionalismus"},
+  {"id":1578,"lemma":"Kognition, kognitiv"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Operation"},
   {"id":36,"name":"Psychologie","label":"Operation"}

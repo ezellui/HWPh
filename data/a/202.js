@@ -17,7 +17,7 @@ HWPH.put("a/202",
  "next":{"id":203,"lemma":"Apokalyptik","band":"1","col":439},
  "backlinks":[],
  "outlinks":[{"id":340,"lemma":"Axiom","n":1}],
- "register":[{"term":"– VI (lit. Formen) 7 848–858 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":815,"name":"P. Valéry","b":2,"n":1,"l":0,"editor":0,"role":"source"},

@@ -19,7 +19,8 @@ HWPH.put("a/343",
  "outlinks":[],
  "register":[
   {"term":"Abstimmung (biol.)","qualifier":"","band":null,"col":null},
-  {"term":"Assoziation","qualifier":"","band":null,"col":null}
+  {"term":"Assoziation","qualifier":"","band":null,"col":null},
+  {"term":"Aufmerksamkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":255,"name":"Th. Ziehen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

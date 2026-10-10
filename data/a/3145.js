@@ -30,6 +30,7 @@ HWPH.put("a/3145",
  ],
  "outlinks":[{"id":2370,"lemma":"Physikotheologie","n":1}],
  "register":[
+  {"term":"bzw. vernünftige","qualifier":"","band":null,"col":null},
   {"term":"conditio finalis","qualifier":"","band":"10","col":"975"},
   {"term":"Entelechie","qualifier":"","band":"10","col":"975"},
   {"term":"Ganzheitsbezogenheit","qualifier":"","band":"10","col":"975"},

@@ -113,7 +113,15 @@ HWPH.put("a/1488",
   {"id":3588,"lemma":"Wert","tf":3},
   {"id":2343,"lemma":"Phänomenologie","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1487,"lemma":"Intuition"},
+  {"id":835,"lemma":"Ethik"},
+  {"id":3357,"lemma":"Urteil, moralisches"},
+  {"id":930,"lemma":"Formalismus"},
+  {"id":1193,"lemma":"Grundlagenstreit"},
+  {"id":1821,"lemma":"Logizismus"},
+  {"id":3519,"lemma":"Wahlfolge"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Intuitionismus II (eth.)"},
   {"id":24,"name":"Mathematik","label":"Intuitionismus III (log./math.)"},

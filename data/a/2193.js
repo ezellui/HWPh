@@ -19,8 +19,7 @@ HWPH.put("a/2193",
  "outlinks":[],
  "register":[
   {"term":"bürgerlicher Objektivismus","qualifier":"","band":null,"col":null},
-  {"term":"Parteilosigkeit","qualifier":"","band":"6","col":"1065"},
-  {"term":"– II (marx.) 7 144–146 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Parteilosigkeit","qualifier":"","band":"6","col":"1065"}
  ],
  "persons":[
   {"id":137,"name":"W. I. Lenin","b":1,"n":2,"l":0,"editor":0,"role":"source"},

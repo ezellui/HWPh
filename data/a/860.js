@@ -20,8 +20,7 @@ HWPH.put("a/860",
  "register":[
   {"term":"Existenzurteil","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Urteil, subjektloses","qualifier":"","band":"2","col":"852"},
-  {"term":"– III (Formen) 11 455–458 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Urteil, subjektloses","qualifier":"","band":"2","col":"852"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -49,6 +48,6 @@ HWPH.put("a/860",
  "mentions":[{"id":863,"lemma":"Existenz, existentia","tf":7},{"id":3050,"lemma":"Subjekt/Prädikat","tf":4}],
  "see_also":[{"id":865,"lemma":"Existenzaussage"},{"id":1170,"lemma":"Gottesbeweis, ontologischer"}],
  "groups":[{"id":22,"name":"Logik","label":"Existentialurteil"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

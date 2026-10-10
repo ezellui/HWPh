@@ -25,7 +25,7 @@ HWPH.put("a/2185",
   {"id":3477,"name":"E. Jacobson","b":0,"n":1,"l":0,"editor":0,"role":"mixed"}
  ],
  "mentions":[{"id":738,"lemma":"Energie","tf":4},{"id":2183,"lemma":"Objekt","tf":3}],
- "see_also":[{"id":1791,"lemma":"Libido"}],
+ "see_also":[{"id":1791,"lemma":"Libido"},{"id":2069,"lemma":"Narzißmus, narzißtisch"}],
  "groups":[{"id":35,"name":"Psychoanalyse","label":"Objektbesetzung"}],
  "reg_authors":[{"name":"Loch Wolfgang","n":12}]
 }

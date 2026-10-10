@@ -32,8 +32,7 @@ HWPH.put("a/125",
   {"term":"Analyse der Sprache","qualifier":"","band":null,"col":null},
   {"term":"Analyse, logische","qualifier":"","band":null,"col":null},
   {"term":"Linguistik, algebraische","qualifier":"","band":"1","col":"232"},
-  {"term":"logische Analyse","qualifier":"","band":null,"col":null},
-  {"term":"– III (log.) 1 605f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"logische Analyse","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1044,"name":"Y. Bar-Hillel","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},
@@ -75,7 +74,9 @@ HWPH.put("a/125",
  "see_also":[
   {"id":280,"lemma":"Atomismus"},
   {"id":1178,"lemma":"Grammatik, logische"},
-  {"id":2353,"lemma":"Philosophie"}
+  {"id":2353,"lemma":"Philosophie"},
+  {"id":2354,"lemma":"Philosophie, analytische"},
+  {"id":2983,"lemma":"Sprachanalyse"}
  ],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Analyse"}],
  "reg_authors":[{"name":"Schnelle Helmut","n":10}]

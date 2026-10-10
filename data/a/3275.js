@@ -37,10 +37,11 @@ HWPH.put("a/3275",
   {"id":3613,"lemma":"Wiedererkennen","n":1}
  ],
  "register":[
-  {"term":"1203","qualifier":"","band":"11","col":"92f."},
   {"term":"conversion","qualifier":"","band":null,"col":null},
+  {"term":"Dialektik","qualifier":"","band":"11","col":"92f."},
   {"term":"Krach, ökonomischer","qualifier":"","band":"11","col":"92"},
   {"term":"ökonomischer Krach","qualifier":"","band":"11","col":"92"},
+  {"term":"Pathetische","qualifier":"","band":null,"col":null},
   {"term":"Peripetie","qualifier":"","band":"11","col":"93"},
   {"term":"Schicksalswendung","qualifier":"","band":"11","col":"92"},
   {"term":"Verfassungsformen","qualifier":"","band":"11","col":"92"},

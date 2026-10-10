@@ -132,6 +132,6 @@ HWPH.put("a/2737",
  ],
  "see_also":[{"id":2048,"lemma":"Mysterium"}],
  "groups":[{"id":44,"name":"Theologie","label":"Sakrament"}],
- "reg_authors":[{"name":"Peters Albrecht","n":6},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Peters Albrecht","n":6},{"name":"Red","n":241}]
 }
 );

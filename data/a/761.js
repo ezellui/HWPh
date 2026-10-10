@@ -19,10 +19,11 @@ HWPH.put("a/761",
  "outlinks":[],
  "register":[
   {"term":"Biomechanik","qualifier":"","band":null,"col":null},
+  {"term":"Embryologie","qualifier":"","band":null,"col":null},
   {"term":"Entwicklung (biol.)","qualifier":"","band":null,"col":null},
+  {"term":"Entwicklung der Lebewesen","qualifier":"","band":null,"col":null},
   {"term":"Entwicklungsphysiologie","qualifier":"","band":null,"col":null},
-  {"term":"Morphologie, experimentelle","qualifier":"","band":"2","col":"561"},
-  {"term":"– I (biol.) 2 237–239 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Morphologie, experimentelle","qualifier":"","band":"2","col":"561"}
  ],
  "persons":[
   {"id":1885,"name":"W. Roux","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -23,7 +23,8 @@ HWPH.put("r/70-75",
  ["publicus sensus","Philosophie","II C","7","628","ref",2353,"Philosophie","publicus sensus"],
  ["Publikum","Öffentlichkeit","","6","1135","ref",2206,"Öffentlichkeit","publikum"],
  ["Publizität","Öffentlichkeit","",null,null,"ref",2206,"Öffentlichkeit","publizitat"],
- ["pudor","Scham puer","",null,null,"ref",null,null,"pudor"],
+ ["pudor","Scham","",null,null,"ref",2751,"Scham, Scheu","pudor"],
+ ["puer","Kind","",null,null,"ref",1564,"Kind","puer"],
  ["pugna verborum","Logomachie","","5","489","ref",1823,"Logomachie","pugna verborum"],
  ["puissance","Macht","",null,null,"ref",1844,"Macht","puissance"],
  [
@@ -35,7 +36,13 @@ HWPH.put("r/70-75",
   "puissances productives","Produktionsverhältnisse; Produktivkräfte I pulchra anima","",null,null,
   "ref",2470,"Produktionsverhältnisse/Produktivkräfte","puissances productives"
  ],
- ["pulchritudo absoluta","Schöne","",null,null,"ref",2776,"Schöne","pulchritudo absoluta"],
+ ["pulchritudo","Schöne, das","",null,null,"ref",2776,"Schöne","pulchritudo"],
+ ["pulchritudo","Vielheit","I","11","1047","ref",3462,"Vielheit","pulchritudo"],
+ ["pulchritudo absoluta","Schöne, das","III","8","1357","ref",2776,"Schöne","pulchritudo absoluta"],
+ [
+  "pulchritudo intelligibilis","Uti/frui","","11","501","ref",3365,"Uti/frui",
+  "pulchritudo intelligibilis"
+ ],
  [
   "pulchritudo vaga/adhaerens","Vagheit","","11","535","ref",3370,"Vagheit; vage",
   "pulchritudo vaga/adhaerens"
@@ -66,7 +73,8 @@ HWPH.put("r/70-75",
   "Punkt, singulärer","Singulär; Singularität","II (phys.)","9","805","ref",2888,
   "Singulär; Singularität","punkt, singularer"
  ],
- ["Punktualität","Punkt punto metafisico","",null,null,"ref",null,null,"punktualitat"],
+ ["Punktualität","Punkt","",null,null,"ref",2534,"Punkt, Punktualität","punktualitat"],
+ ["punto metafisico","Wesen","III","12","636","ref",3595,"Wesen","punto metafisico"],
  ["pura intellectio","Denken","I","2","79","ref",552,"Denken","pura intellectio"],
  ["pure pensée","Denken","I","2","77","ref",552,"Denken","pure pensee"],
  ["purgatio","Läuterung","",null,null,"ref",1734,"Läuterung, Reinigung","purgatio"],
@@ -81,9 +89,12 @@ HWPH.put("r/70-75",
   "purissima veritas"
  ],
  ["Puritanismus","Puritanismus","","7","1715–1718","main",2536,"Puritanismus","puritanismus"],
+ ["Puritanismus","Arbeitsethos","(Weber)",null,null,"see",232,"Arbeitsethos","puritanismus"],
+ ["Puritanismus","Askese","III (Weber)",null,null,"see",260,"Askese","puritanismus"],
+ ["puritas","Reinheit; Reinigung","",null,null,"ref",2660,"Reinheit, Reinigung","puritas"],
  [
-  "puritas","Reinheit; Reinigung puritas cordis","",null,null,"ref",2660,"Reinheit, Reinigung",
-  "puritas"
+  "puritas cordis","Reinheit; Reinigung","III 2","8","543","ref",2660,"Reinheit, Reinigung",
+  "puritas cordis"
  ],
  ["purpose","Zweck; Ziel","",null,null,"ref",3718,"Zweck; Ziel","purpose"],
  ["purposive behavior","Verhalten","","11","682","ref",3406,"Verhalten","purposive behavior"],

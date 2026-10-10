@@ -21,8 +21,7 @@ HWPH.put("a/114",
   {"term":"Ambitendenz","qualifier":"","band":null,"col":null},
   {"term":"Bipolarität","qualifier":"","band":null,"col":null},
   {"term":"Sexualwiderstand","qualifier":"","band":"1","col":"204"},
-  {"term":"Verhalten, ambivalentes","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 4 949–951 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verhalten, ambivalentes","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":1,"l":1,"editor":0,"role":"source"},

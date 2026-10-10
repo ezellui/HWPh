@@ -34,6 +34,6 @@ HWPH.put("a/2964",
  "mentions":[{"id":1343,"lemma":"Idealismus","tf":4}],
  "see_also":[{"id":1235,"lemma":"Hegelianismus"},{"id":1346,"lemma":"Idealismus, Deutscher"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Spätidealismus"}],
- "reg_authors":[{"name":"Hünermann Peter","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Hünermann Peter","n":2},{"name":"Red","n":241}]
 }
 );

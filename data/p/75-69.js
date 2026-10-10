@@ -1,0 +1,16 @@
+HWPH.put("p/75-69",
+{"uibereilung":[["Uibereilung","2pf:;1ue"]],
+"uibereinstimmung":[["Uibereinstimmung","2pv:;cit"]],
+"uibopuu":[["UIBOPUU","17t:;;;6w"]],
+"uice":[["uice","2dk:;50"]],
+"uicher":[["uicher","23i:;6h"]],
+"uidebam":[["uidebam","2i1:;l0"]],
+"uiren":[["uiren","223:;5p"]],
+"uis":[["uis","2n3:;6ip"]],
+"uita":[["uita","25a:;10y ak:;36"]],
+"uitgave":[["Uitgave","1td:;;op5"]],
+"uiuendo":[["uiuendo","1td:;rv5"]],
+"uiuendum":[["uiuendum","1td:;;nyu"]],
+"uiueret":[["uiueret","1td:;;;j4"]],
+"uivalent":[["uivalent","6c:;1b"]]}
+);

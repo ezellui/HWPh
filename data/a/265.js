@@ -21,8 +21,7 @@ HWPH.put("a/265",
   {"term":"hypersthenisch","qualifier":"","band":"1","col":"554"},
   {"term":"leptosom","qualifier":"","band":"1","col":"555"},
   {"term":"Neurasthenie","qualifier":"","band":"1","col":"555"},
-  {"term":"psychasthénie","qualifier":"","band":"1","col":"555"},
-  {"term":"– II (psych.) 10 147–150 sthenisch","qualifier":"","band":null,"col":null}
+  {"term":"psychasthénie","qualifier":"","band":"1","col":"555"}
  ],
  "persons":[
   {"id":732,"name":"E. Kretschmer","b":1,"n":2,"l":0,"editor":0,"role":"source"},

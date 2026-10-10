@@ -23,18 +23,13 @@ HWPH.put("a/3092",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"(ling.) 3 1202","qualifier":"II (soz.)","band":"10","col":"708"},
+  {"term":"Antisemitismus, kultureller","qualifier":"II (soz.)","band":"10","col":"709"},
   {"term":"Bisystem","qualifier":"I (biol.)","band":"10","col":"708"},
   {"term":"Eusymbiose","qualifier":"I (biol.)","band":"10","col":"708"},
   {"term":"Kommensalismus","qualifier":"I (biol.)","band":"10","col":"707"},
   {"term":"Mutualismus","qualifier":"I (biol.)","band":"10","col":"708"},
   {"term":"Parasitismus","qualifier":"I (biol.)","band":"10","col":"707"},
-  {
-   "term":"– I (biol.) 10 707f. – II (soz.) 10 708–710 Symbiose, deutsch-jüdische",
-   "qualifier":"II (soz.)",
-   "band":null,
-   "col":null
-  }
+  {"term":"Verschmelzung","qualifier":"II (soz.)","band":"10","col":"708"}
  ],
  "persons":[
   {"id":13182,"name":"M. Goldstein","b":1,"n":2,"l":0,"editor":0,"role":"source"},

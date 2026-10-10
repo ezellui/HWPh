@@ -69,7 +69,7 @@ HWPH.put("a/1285",
   {"id":3028,"lemma":"Stoa; Stoizismus","tf":2},
   {"id":3406,"lemma":"Verhalten","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1189,"lemma":"Großmut"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Hochherzigkeit 1–2"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Hochherzigkeit"}

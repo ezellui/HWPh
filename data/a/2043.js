@@ -37,8 +37,7 @@ HWPH.put("a/2043",
   {"term":"Sphärenmusik","qualifier":"","band":"6","col":"243ff."},
   {"term":"Ton","qualifier":"","band":"6","col":"253"},
   {"term":"Zahlen, klingende","qualifier":"","band":"6","col":"246"},
-  {"term":"μουσική","qualifier":"","band":null,"col":null},
-  {"term":"– I (mus.) 8 1026–1033 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"μουσική","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2019,"name":"W. H. Wackenroder","b":5,"n":6,"l":0,"editor":0,"role":"source"},

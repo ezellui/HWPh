@@ -37,6 +37,6 @@ HWPH.put("a/2882",
   {"id":5,"name":"Biologie","label":"Signalsystem"},
   {"id":36,"name":"Psychologie","label":"Signalsystem"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

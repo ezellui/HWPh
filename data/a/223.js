@@ -18,7 +18,6 @@ HWPH.put("a/223",
  "backlinks":[{"id":3219,"lemma":"Transzendental","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"das (Otto) 3 3 s. auch","qualifier":"(Otto)","band":null,"col":null},
   {"term":"religiöses Apriori","qualifier":"(Otto)","band":null,"col":null},
   {"term":"Seelengrund","qualifier":"(Otto)","band":"1","col":"476"}
  ],
@@ -28,7 +27,11 @@ HWPH.put("a/223",
   {"id":4148,"name":"A. Paus","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[{"id":985,"lemma":"Ganz Andere"}],
+ "see_also":[
+  {"id":985,"lemma":"Ganz Andere"},
+  {"id":2049,"lemma":"Mysterium tremendum et fascinosum"},
+  {"id":2175,"lemma":"Numinose, das"}
+ ],
  "groups":[
   {
    "id":38,

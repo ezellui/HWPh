@@ -34,9 +34,9 @@ HWPH.put("a/3538",
   {"id":3725,"lemma":"Zweiwertigkeitsprinzip","n":1}
  ],
  "register":[
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"truth value","qualifier":"","band":null,"col":null},
-  {"term":"Wert der Wahrheit","qualifier":"","band":null,"col":null},
-  {"term":"– II (log.) 1 392","qualifier":"","band":null,"col":null}
+  {"term":"Wert der Wahrheit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":39,"name":"G. Frege","b":2,"n":3,"l":0,"editor":0,"role":"source"},

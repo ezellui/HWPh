@@ -21,7 +21,6 @@ HWPH.put("a/2311",
   {"term":"circumincessio","qualifier":"","band":"7","col":"256"},
   {"term":"Durchdringung (theol.)","qualifier":"","band":null,"col":null},
   {"term":"immanentia","qualifier":"","band":"7","col":"257"},
-  {"term":"performativer","qualifier":"","band":"7","col":"255–259"},
   {"term":"περιχώρησις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -98,7 +97,11 @@ HWPH.put("a/2311",
   {"id":431,"lemma":"Bild","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1376,"lemma":"Idiomatum communicatio"},
+  {"id":3231,"lemma":"Trinität"},
+  {"id":3723,"lemma":"Zweinaturenlehre"}
+ ],
  "groups":[{"id":44,"name":"Theologie","label":"Perichorese"}],
  "reg_authors":[{"name":"Stemmer Peter","n":4}]
 }

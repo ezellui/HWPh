@@ -1,15 +1,22 @@
 HWPH.put("r/67-6c",
 [
- ["Glaube","Glaube","",null,null,"main",1138,"Glaube","glaube"],
- ["Glück","Glück","",null,null,"main",1155,"Glück, Glückseligkeit","gluck"],
- ["Glück","Religion","IV","8","641","ref",2673,"Religion","gluck"],
- ["Glück","Seelenruhe","II","9","99","ref",2797,"Seelenruhe","gluck"],
- ["Glück","Weisheit","","12","385","ref",3553,"Weisheit","gluck"],
  ["Glanz","Glanz","","3","626","main",1137,"Glanz","glanz"],
  ["Glanz","Licht","",null,null,"see",1792,"Licht","glanz"],
- ["Glanz","Schöne","",null,null,"see",2776,"Schöne","glanz"],
+ ["Glanz","Schöne, das","",null,null,"see",2776,"Schöne","glanz"],
+ ["Glanz, göttlicher","Doxa","","2","288","ref",633,"Doxa","glanz, gottlicher"],
  ["Glanz der Weisheit","Einsprechung","","2","416","ref",690,"Einsprechung","glanz der weisheit"],
- ["Glásnost","Philosophie","IV",null,null,"ref",2353,"Philosophie","glasnost"],
+ ["Glásnost","Philosophie","IV J","7","784","ref",2353,"Philosophie","glasnost"],
+ ["Glaube","Glaube","","3","627–645","main",1138,"Glaube","glaube"],
+ ["Glaube","Analysis fidei","",null,null,"see",127,"Analysis fidei","glaube"],
+ ["Glaube","Fiduzialglaube","",null,null,"see",915,"Fiduzialglaube","glaube"],
+ ["Glaube","Glauben und Wissen","",null,null,"see",1140,"Glauben und Wissen","glaube"],
+ ["Glaube","Glaubensgewissheit","",null,null,"see",1142,"Glaubensgewißheit","glaube"],
+ ["Glaube","Kirchenglaube","(Kant)",null,null,"see",1569,"Kirchenglaube","glaube"],
+ ["Glaube","Köhlerglaube","",null,null,"see",1581,"Köhlerglaube","glaube"],
+ ["Glaube","Rechtfertigung","IV (theol.)",null,null,"see",2601,"Rechtfertigung","glaube"],
+ ["Glaube","Verheissung","",null,null,"see",3407,"Verheißung","glaube"],
+ ["Glaube","Vertrauen","",null,null,"see",3447,"Vertrauen","glaube"],
+ ["Glaube","Zustimmung","",null,null,"see",3715,"Zustimmung","glaube"],
  ["Glaube","Ärgernis","",null,null,"ref",243,"Ärgernis","glaube"],
  ["Glaube","Philosophie","II E","7","641","ref",2353,"Philosophie","glaube"],
  ["Glaube","Religion","IV","8","642f.","ref",2673,"Religion","glaube"],
@@ -57,7 +64,15 @@ HWPH.put("r/67-6c",
   "Glaube, wissenschaftlicher","Glauben und Wissen","II","3","651","ref",1140,"Glauben und Wissen",
   "glaube, wissenschaftlicher"
  ],
- ["Glaube, wortloser","Philosophie","IV",null,null,"ref",2353,"Philosophie","glaube, wortloser"],
+ ["Glaube, wortloser","Philosophie","IV K","7","788","ref",2353,"Philosophie","glaube, wortloser"],
+ ["Glauben (erk.)","Ahnung","","1","116","ref",68,"Ahnung","glauben (erk.)"],
+ ["Glauben (erk.)","Fürwahrhalten","","2","1149","ref",980,"Fürwahrhalten","glauben (erk.)"],
+ ["Glauben (erk.)","Modallogik","I","6","21f.","ref",1997,"Modallogik","glauben (erk.)"],
+ [
+  "Glauben (erk.)","Wahrscheinlichkeit","IV B","12","290f.","ref",3540,"Wahrscheinlichkeit",
+  "glauben (erk.)"
+ ],
+ ["Glauben (erk.)","Wissen","VI","12","893","ref",3634,"Wissen","glauben (erk.)"],
  [
   "Glauben und Wissen","Glauben und Wissen","","3","646–655","main",1140,"Glauben und Wissen",
   "glauben und wissen"
@@ -72,7 +87,7 @@ HWPH.put("r/67-6c",
   "glauben und wissen"
  ],
  [
-  "Glauben und Wissen","Erkenntnis I (erk.)","","2","649","ref",796,"Erkennen, Erkenntnis",
+  "Glauben und Wissen","Erkenntnis","I (erk.)","2","649","ref",796,"Erkennen, Erkenntnis",
   "glauben und wissen"
  ],
  ["Glauben und Wissen","Instinkt","","4","411","ref",1453,"Instinkt","glauben und wissen"],
@@ -139,9 +154,10 @@ HWPH.put("r/67-6c",
  ],
  ["Glaubensregel","Glaubensartikel","I","3","656","ref",1141,"Glaubensartikel","glaubensregel"],
  [
-  "Glaubensunterwerfung","Disciplina II Glaubensweise","",null,null,"ref",null,null,
+  "Glaubensunterwerfung","Disciplina","II",null,null,"ref",607,"Disciplina, doctrina",
   "glaubensunterwerfung"
  ],
+ ["Glaubensweise","Religion","VII","8","681","ref",2673,"Religion","glaubensweise"],
  ["glaubhaft","Wahrscheinlichkeit","II",null,null,"ref",3540,"Wahrscheinlichkeit","glaubhaft"],
  ["glaubhaft","Wahrheitskriterium","I","12","183","ref",3537,"Wahrheitskriterium","glaubhaft"],
  [
@@ -180,13 +196,15 @@ HWPH.put("r/67-6c",
   "Gleichförmig, Gleichförmigkeit","gleichformig; gleichformigkeit"
  ],
  [
-  "Gleichförmig; Gleichförmigkeit","Konform Gleichförmigkeit","",null,null,"see",null,null,
+  "Gleichförmig; Gleichförmigkeit","Konform","",null,null,"see",1609,"Konform, Konformität",
   "gleichformig; gleichformigkeit"
  ],
+ ["Gleichförmigkeit","Repräsentation","I 2","8","795","ref",2686,"Repräsentation","gleichformigkeit"],
  [
-  "Gleichförmigkeit der Planetenbahnen","Ptolemäisch Gleichgeltung","",null,null,"ref",null,null,
-  "gleichformigkeit der planetenbahnen"
+  "Gleichförmigkeit der Planetenbahnen","Ptolemäisch","",null,null,"ref",2533,
+  "Ptolemäisch, Ptolemäisches Weltsystem","gleichformigkeit der planetenbahnen"
  ],
+ ["Gleichgeltung","Äquipollenz","",null,null,"ref",226,"Äquipollenz","gleichgeltung"],
  ["Gleichgewicht","Homöostase","",null,null,"ref",1308,"Homöostase","gleichgewicht"],
  ["Gleichgewicht","Stabilität","",null,null,"ref",3005,"Stabilität","gleichgewicht"],
  ["Gleichgewicht","Gestalt","II (psych.)","3","547","ref",1116,"Gestalt","gleichgewicht"],
@@ -227,6 +245,11 @@ HWPH.put("r/67-6c",
   "gleichgultigkeit"
  ],
  ["Gleichheit","Gleichheit","","3","671f.","main",1147,"Gleichheit","gleichheit"],
+ ["Gleichheit","Abstraktion","V",null,null,"see",31,"Abstraktion","gleichheit"],
+ ["Gleichheit","Äquivalenz","",null,null,"see",228,"Äquivalenz","gleichheit"],
+ ["Gleichheit","Identität","",null,null,"see",1366,"Identität","gleichheit"],
+ ["Gleichheit","Indiscernibilien","(Leibniz)",null,null,"see",1412,"Indiscernibilien","gleichheit"],
+ ["Gleichheit","Verschiedenheit","",null,null,"see",3430,"Verschiedenheit","gleichheit"],
  ["Gleichheit","Ordnung","II","6","1264","ref",2233,"Ordnung","gleichheit"],
  ["Gleichheit (eth.)","Gerechtigkeit","I",null,null,"ref",1083,"Gerechtigkeit","gleichheit (eth.)"],
  [
@@ -323,6 +346,14 @@ HWPH.put("r/67-6c",
   "Gleichzeitigkeit","Gleichzeitigkeit","","3","674f.","main",1151,"Gleichzeitigkeit",
   "gleichzeitigkeit"
  ],
+ [
+  "Gleichzeitigkeit","Bewusstsein, antizipierendes","(Bloch)",null,null,"see",413,
+  "Bewußtsein, antizipierendes","gleichzeitigkeit"
+ ],
+ [
+  "Gleichzeitigkeit","Ungleichzeitigkeit","",null,null,"see",3297,"Ungleichzeitigkeit",
+  "gleichzeitigkeit"
+ ],
  ["Gliederung","Artikulation","",null,null,"ref",256,"Artikulation","gliederung"],
  [
   "global history","Weltgeschichte","","12","484","ref",3567,"Weltgeschichte; Universalgeschichte",
@@ -356,11 +387,8 @@ HWPH.put("r/67-6c",
  ["Glück","Glück","","3","679–707","main",1155,"Glück, Glückseligkeit","gluck"],
  ["Glück","Eudämonismus","",null,null,"see",844,"Eudämonismus","gluck"],
  ["Glück","Genuss","",null,null,"see",1076,"Genuß","gluck"],
- ["Glück","Gut; das Gute","",null,null,"see",1203,"Gut, das Gute, das Gut","gluck"],
- ["Glück","Gut, höchstes","",null,null,"see",1204,"Gut, höchstes","gluck"],
- ["Glück","Hedonismus","",null,null,"see",1234,"Hedonismus","gluck"],
- ["Glück","Tugend","",null,null,"see",3239,"Tugend","gluck"],
- ["Glück","Lohn I 1","",null,null,"ref",1828,"Lohn, Verdienst","gluck"],
+ ["Glück","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","gluck"],
+ ["Glück","Lohn","I 1",null,null,"ref",1828,"Lohn, Verdienst","gluck"],
  ["Glück","Tugend","I",null,null,"ref",3239,"Tugend","gluck"],
  ["Glück","Freundschaft","III","2","1109","ref",954,"Freundschaft","gluck"],
  ["Glück","Zufall","I","12","1411","ref",3706,"Zufall","gluck"],
@@ -400,10 +428,6 @@ HWPH.put("r/67-6c",
  ["glückswürdig","Tugend","III","10","1560","ref",3239,"Tugend","gluckswurdig"],
  ["Glut, innere","Tapas","",null,null,"ref",3126,"Tapas","glut, innere"],
  [
-  "Glaubensgewissheit Heilshandeln","Glaubensgewissheit Heilshandeln","",null,null,"main",null,null,
-  "glaubensgewissheit heilshandeln"
- ],
- [
   "Glaubensfreiheit; Gewissensfreiheit","Glaubensfreiheit; Gewissensfreiheit","",null,null,"main",
   null,null,"glaubensfreiheit; gewissensfreiheit"
  ],
@@ -411,7 +435,6 @@ HWPH.put("r/67-6c",
   "Glaubensfreiheit; Gewissensfreiheit","Autonomie","","1","702","ref",327,"Autonomie",
   "glaubensfreiheit; gewissensfreiheit"
  ],
- ["Glück","Glück","II","3","691","main",1155,"Glück, Glückseligkeit","gluck"],
  [
   "Gleichzeitigkeit","Gleichzeitigkeit","I (theol.)",null,null,"main",1151,"Gleichzeitigkeit",
   "gleichzeitigkeit"

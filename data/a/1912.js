@@ -31,6 +31,8 @@ HWPH.put("a/1912",
   {"term":"Annehmen","qualifier":"","band":"5","col":"1021"},
   {"term":"Gewissheit","qualifier":"","band":null,"col":null},
   {"term":"Intentionalität","qualifier":"","band":null,"col":null},
+  {"term":"Meinen","qualifier":"","band":null,"col":null},
+  {"term":"opinio","qualifier":"","band":null,"col":null},
   {"term":"Sinn/Bedeutung","qualifier":"","band":"5","col":"1021"},
   {"term":"Verstehen","qualifier":"","band":"5","col":"1022"},
   {"term":"δόξα","qualifier":"","band":null,"col":null}

@@ -1,6 +1,5 @@
 HWPH.put("r/67-61",
 [
- ["Ganz Andere","Ganz Andere","",null,null,"main",985,"Ganz Andere","ganz andere"],
  [
   "Gabe, transbiologische","Vernunft; Verstand","VII D 2","11","843","ref",3423,"Vernunft; Verstand",
   "gabe, transbiologische"
@@ -12,18 +11,31 @@ HWPH.put("r/67-61",
  ["Gabentausch","Gegenseitigkeit","","3","128","ref",1019,"Gegenseitigkeit","gabentausch"],
  ["Galanterie","Pedant; Pedanterie","","7","231","ref",2302,"Pedant, Pedanterie","galanterie"],
  ["Galimathias","Galimathias","","3","1","main",983,"Galimathias","galimathias"],
- ["Galle","Säfte Gallikanismus","",null,null,"ref",null,null,"galle"],
+ ["Galle","Säfte","",null,null,"ref",2735,"Säfte, Säftelehre","galle"],
+ ["Gallikanismus","Jansenismus","","4","636ff.","ref",1506,"Jansenismus","gallikanismus"],
  ["Galvanismus","Galvanismus","","3","1–3","main",984,"Galvanismus","galvanismus"],
  ["Galvanismus","Seele","IV","9","44","ref",2794,"Seele","galvanismus"],
  ["Galvanismus","Versöhnung","II (anthr.)","11","901","ref",3434,"Versöhnung","galvanismus"],
  ["game","Spiel","",null,null,"ref",2973,"Spiel","game"],
  ["game theory","Spieltheorie","",null,null,"ref",2975,"Spieltheorie","game theory"],
- ["Gang des Geistes","Prozess I 3 (hist.)","","7","1550","ref",2499,"Prozeß","gang des geistes"],
+ ["Gang des Geistes","Prozess","I 3 (hist.)","7","1550","ref",2499,"Prozeß","gang des geistes"],
  ["Ganz Andere, das","Andersheit","","1","299","ref",138,"Andersheit, Anderssein","ganz andere, das"],
- ["Ganz Andere","Ganz Andere","",null,null,"main",985,"Ganz Andere","ganz andere"],
+ ["Ganz Andere, das","Ganz Andere, das","(Otto)","3","3","main",985,"Ganz Andere","ganz andere, das"],
+ [
+  "Ganz Andere, das","Apriori, religiöses","(Otto)",null,null,"see",223,"Apriori, religiöses",
+  "ganz andere, das"
+ ],
+ [
+  "Ganz Andere, das","Mysterium tremendum et fascinosum","(Otto)",null,null,"see",2049,
+  "Mysterium tremendum et fascinosum","ganz andere, das"
+ ],
+ [
+  "Ganz Andere, das","Numinose, das","(Otto)",null,null,"see",2175,"Numinose, das",
+  "ganz andere, das"
+ ],
  ["Ganze, das","Gesundheit","",null,null,"ref",1125,"Gesund, Gesundheit","ganze, das"],
  ["Ganze, das","Praedominium","",null,null,"ref",2431,"Praedominium","ganze, das"],
- ["Ganze, das","System II","",null,null,"ref",3115,"System; Systematik; systematisch","ganze, das"],
+ ["Ganze, das","System","II",null,null,"ref",3115,"System; Systematik; systematisch","ganze, das"],
  ["Ganze, das","Architektonik","","1","503","ref",241,"Architektonik, architektonisch","ganze, das"],
  ["Ganze, das","Einzelne","","2","426","ref",695,"Einzelne","ganze, das"],
  ["Ganze, das","Entzweiung","","2","569","ref",765,"Entzweiung, entzweien","ganze, das"],
@@ -55,6 +67,20 @@ HWPH.put("r/67-61",
   "ganzes/teil (text)"
  ],
  ["Ganzheit","Ganzheit","","3","20–22","main",987,"Ganzheit","ganzheit"],
+ ["Ganzheit","Atomismus","II (psych.)",null,null,"see",280,"Atomismus","ganzheit"],
+ ["Ganzheit","Ganzes/Teil","V",null,null,"see",986,"Ganzes/Teil","ganzheit"],
+ ["Ganzheit","Ganzheitspsychologie","",null,null,"see",989,"Ganzheitspsychologie","ganzheit"],
+ ["Ganzheit","Ganzqualitäten","",null,null,"see",990,"Ganzqualitäten","ganzheit"],
+ ["Ganzheit","Gestalt","II (psych.)",null,null,"see",1116,"Gestalt","ganzheit"],
+ ["Ganzheit","Gestaltqualität","",null,null,"see",1120,"Gestaltqualität","ganzheit"],
+ ["Ganzheit","Integration","I (psych.)",null,null,"see",1456,"Integration","ganzheit"],
+ ["Ganzheit","Struktur","IV (psych.)",null,null,"see",3040,"Struktur","ganzheit"],
+ ["Ganzes/Teil","Ganzes/Teil","",null,null,"main",986,"Ganzes/Teil","ganzes/teil"],
+ ["Ganzes/Teil","Totalität","",null,null,"ref",3209,"Totalität","ganzes/teil"],
+ [
+  "Ganzes/Teil","Individuum; Individualität","II","4","306","ref",1424,"Individuum, Individualität",
+  "ganzes/teil"
+ ],
  ["Ganzheit (soz.)","Ganzes/Teil","V","3","18f.","ref",986,"Ganzes/Teil","ganzheit (soz.)"],
  ["Ganzheit (soz.)","Gruppe, soziale","","3","932","ref",1199,"Gruppe, soziale","ganzheit (soz.)"],
  [
@@ -133,23 +159,27 @@ HWPH.put("r/67-61",
  ],
  ["Ganzqualitäten","Gestaltqualität","",null,null,"see",1120,"Gestaltqualität","ganzqualitaten"],
  ["Ganzqualitäten","Identifikation","I","4","139","ref",1365,"Identifikation","ganzqualitaten"],
- ["Ganzqualitäten","Komplex","",null,null,"ref",1600,"Komplex","ganzqualitaten"],
+ ["Ganzqualitäten","Komplex, der","","4","938","ref",1601,"Komplex (der)","ganzqualitaten"],
+ ["Ganztod","Unsterblichkeit","IV","11","290","ref",3323,"Unsterblichkeit","ganztod"],
  ["Gastrecht","Hospitalität","",null,null,"ref",1313,"Hospitalität","gastrecht"],
  ["Gattung; Genus","Gattung; Genus","","3","24–30","main",991,"Gattung, Genus","gattung; genus"],
  ["Gattung; Genus","Art","",null,null,"see",254,"Art","gattung; genus"],
+ ["Gattung (biol.)","Gattung; Genus","II",null,null,"ref",991,"Gattung, Genus","gattung (biol.)"],
+ ["Gattung (ling.)","Genus; Sexus","",null,null,"ref",991,"Gattung, Genus","gattung (ling.)"],
  [
-  "Gattung (biol.)","Gattung; Genus II Gattung (ling.)","",null,null,"ref",991,"Gattung, Genus",
-  "gattung (biol.)"
+  "Gattung/Art","Arbor porphyriana","",null,null,"ref",236,"Arbor porphyriana, porphyrischer Baum",
+  "gattung/art"
  ],
+ ["Gattung/Art","Ganzes/Teil","",null,null,"ref",986,"Ganzes/Teil","gattung/art"],
+ ["Gattung/Art","Gattung; Genus","I",null,null,"ref",991,"Gattung, Genus","gattung/art"],
+ [
+  "Gattung/Art","Prädikabilien","",null,null,"ref",2425,"Prädikabilien, Prädikabilienlehre",
+  "gattung/art"
+ ],
+ ["Gattung/Art","Species","II (log.)",null,null,"ref",2966,"Species","gattung/art"],
  ["Gattungsleben","Stoffwechsel","","10","194","ref",3032,"Stoffwechsel","gattungsleben"],
  ["gaudium","Lust; Freude","",null,null,"ref",1837,"Lust, Freude","gaudium"],
  ["gaudium","Affekt","I","1","92","ref",53,"Affekt","gaudium"],
- ["Ganzes/Teil","Ganzes/Teil","",null,null,"main",986,"Ganzes/Teil","ganzes/teil"],
- ["Ganzes/Teil","Organ","",null,null,"ref",2239,"Organ","ganzes/teil"],
- ["Ganzqualitäten","Ganzqualitäten","",null,null,"main",990,"Ganzqualitäten","ganzqualitaten"],
- ["Ganzqualitäten","Psychologie","","7","1633","ref",2511,"Psychologie","ganzqualitaten"],
- ["Ganzes/Teil","Ganzes/Teil","II","3","9","main",986,"Ganzes/Teil","ganzes/teil"],
- ["Ganzes/Teil","Geschmack","I","3","446","ref",1097,"Geschmack","ganzes/teil"],
  [
   "Gabriel Gottfried","Begriffsschrift","(Frege)","1","814","author",372,"Begriffsschrift",
   "gabriel gottfried"
@@ -222,7 +252,10 @@ HWPH.put("r/67-61",
  ["Gabriel Gottfried","Nominator","","6","888f.","author",2151,"Nominator","gabriel gottfried"],
  ["Gabriel Gottfried","Oberbegriff","","6","1021f.","author",2180,"Oberbegriff","gabriel gottfried"],
  ["Gabriel Gottfried","Obersatz","","6","1025f.","author",2182,"Obersatz","gabriel gottfried"],
- ["Gabriel Gottfried","Philosophie","IV",null,null,"author",2353,"Philosophie","gabriel gottfried"],
+ [
+  "Gabriel Gottfried","Philosophie","IV K","7","786–792","author",2353,"Philosophie",
+  "gabriel gottfried"
+ ],
  [
   "Gabriel Gottfried","Platonismus","II (log.)","7","985–988","author",2380,"Platonismus",
   "gabriel gottfried"
@@ -329,7 +362,7 @@ HWPH.put("r/67-61",
  ],
  ["Gatzemeier Matthias","Kosmos","I","4","1167–1173","author",1678,"Kosmos","gatzemeier matthias"],
  [
-  "Gatzemeier Matthias","Makrokosmos/Mikrokosmos","",null,null,"author",1849,
+  "Gatzemeier Matthias","Makrokosmos/Mikrokosmos I;","II 2","5","640–642","author",1849,
   "Makrokosmos/Mikrokosmos","gatzemeier matthias"
  ],
  [

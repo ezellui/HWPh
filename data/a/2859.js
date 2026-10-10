@@ -23,6 +23,7 @@ HWPH.put("a/2859",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"beatitudo aeterna","qualifier":"","band":null,"col":null},
   {"term":"beatitudo creata/increata","qualifier":"II","band":"9","col":"576"},
   {"term":"eternal bliss","qualifier":"","band":null,"col":null},
   {"term":"ewige Seligkeit","qualifier":"","band":null,"col":null},
@@ -155,6 +156,6 @@ HWPH.put("a/2859",
   {"id":3,"name":"Antike Philosophie","label":"Seligkeit, ewige I"},
   {"id":44,"name":"Theologie","label":"Seligkeit, ewige"}
  ],
- "reg_authors":[{"name":"Echternach Helmut","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Echternach Helmut","n":4},{"name":"Red","n":241}]
 }
 );

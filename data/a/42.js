@@ -26,9 +26,9 @@ HWPH.put("a/42",
   {"term":"Hervorbringen","qualifier":"","band":null,"col":null},
   {"term":"operatio","qualifier":"","band":"1","col":"78"},
   {"term":"passio","qualifier":"","band":"1","col":"77"},
-  {"term":"Poiesis","qualifier":"","band":"1","col":"76"},
   {"term":"Praxis","qualifier":"","band":"1","col":"76"},
-  {"term":"Tätigkeit","qualifier":"","band":null,"col":null}
+  {"term":"Tätigkeit","qualifier":"","band":null,"col":null},
+  {"term":"ποίησις","qualifier":"","band":"1","col":"76"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":1,"l":0,"editor":0,"role":"source"},

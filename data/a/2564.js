@@ -24,7 +24,8 @@ HWPH.put("a/2564",
   {"term":"ars interna/externa","qualifier":"","band":"8","col":"16"},
   {"term":"habitus","qualifier":"","band":"8","col":"16"},
   {"term":"Philipporamismus","qualifier":"","band":"8","col":"15f."},
-  {"term":"System I","qualifier":"","band":"8","col":"16"},
+  {"term":"Semiramismus","qualifier":"","band":null,"col":null},
+  {"term":"systema","qualifier":"","band":"8","col":"16"},
   {"term":"thema","qualifier":"","band":"8","col":"16"}
  ],
  "persons":[

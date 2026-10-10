@@ -18,7 +18,7 @@ HWPH.put("a/1891",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"historischer","qualifier":"","band":"5","col":"870"},
+  {"term":"Formalobjekt","qualifier":"","band":null,"col":null},
   {"term":"obiectum materiale/formale","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -37,7 +37,7 @@ HWPH.put("a/1891",
   {"id":3430,"lemma":"Verschiedenheit","tf":2},
   {"id":2732,"lemma":"Sachverhalt","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2183,"lemma":"Objekt"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Materialobjekt/Formalobjekt"}],
  "reg_authors":[{"name":"Schlüter Dietrich","n":17}]
 }

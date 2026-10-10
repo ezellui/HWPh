@@ -68,13 +68,7 @@ HWPH.put("a/3720",
   {"term":"Mittel-Zweck-Rationalität","qualifier":"(Weber)","band":"12","col":"1511"},
   {"term":"purposive rationality","qualifier":"(Weber)","band":null,"col":null},
   {"term":"rationality, instrumental","qualifier":"(Weber)","band":null,"col":null},
-  {"term":"Verständigung","qualifier":"(Weber)","band":"12","col":"1513"},
-  {
-   "term":"– I (erk.) 8 52–56 – II (ökon.) 8 56–62 s. auch",
-   "qualifier":"(Weber)",
-   "band":null,
-   "col":null
-  }
+  {"term":"Verständigung","qualifier":"(Weber)","band":"12","col":"1513"}
  ],
  "persons":[
   {"id":60,"name":"M. Weber","b":1,"n":4,"l":0,"editor":0,"role":"source"},
@@ -134,6 +128,6 @@ HWPH.put("a/3720",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Zweckrationalität (Weber)"},
   {"id":42,"name":"Soziologie","label":"Zweckrationalität (Weber)"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

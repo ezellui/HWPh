@@ -44,6 +44,6 @@ HWPH.put("a/2148",
  ],
  "see_also":[{"id":1803,"lemma":"Logik"}],
  "groups":[{"id":22,"name":"Logik","label":"Noetik"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

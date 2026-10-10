@@ -26,7 +26,6 @@ HWPH.put("a/3397",
  "register":[
   {"term":"Abfall","qualifier":"(Heidegger)","band":"11","col":"635f."},
   {"term":"Absturz","qualifier":"(Heidegger)","band":"11","col":"634"},
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Reluzenz","qualifier":"(Heidegger)","band":"11","col":"634"},
   {"term":"Ruinanz","qualifier":"(Heidegger)","band":"11","col":"634f."},
   {"term":"Wirbel","qualifier":"(Heidegger)","band":"11","col":"634"}

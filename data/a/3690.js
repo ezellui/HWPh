@@ -66,15 +66,15 @@ HWPH.put("a/3690",
   {"term":"Abkehr von Gott","qualifier":"I (anthr.)","band":"12","col":"1310"},
   {"term":"Ablenkung","qualifier":"I (anthr.)","band":"12","col":"1313"},
   {"term":"absentia","qualifier":"I (anthr.)","band":"12","col":"1312"},
-  {"term":"Bahnung","qualifier":"I (anthr.)","band":"12","col":"1312"},
+  {"term":"Aufmerksamkeit","qualifier":"I (anthr.)","band":"12","col":"1312"},
   {"term":"Dekonzentration","qualifier":"I (anthr.)","band":"12","col":"1312"},
   {"term":"dispersio","qualifier":"","band":null,"col":null},
+  {"term":"dissémination","qualifier":"I (anthr.)","band":"12","col":"1312"},
   {"term":"dissipatio","qualifier":"","band":null,"col":null},
   {"term":"distractio","qualifier":"I (anthr.)","band":null,"col":null},
   {"term":"Diversion","qualifier":"I (anthr.)","band":"12","col":"1312"},
   {"term":"divertissement","qualifier":"I (anthr.)","band":null,"col":null},
   {"term":"Konzentration","qualifier":"I (anthr.)","band":"12","col":"1312"},
-  {"term":"L 7 794","qualifier":"I (anthr.)","band":"12","col":"1312"},
   {"term":"remuement","qualifier":"I (anthr.)","band":"12","col":"1311"},
   {"term":"Sammlung","qualifier":"I (anthr.)","band":"12","col":"1310"},
   {"term":"tracas","qualifier":"I (anthr.)","band":"12","col":"1311"},
@@ -193,11 +193,21 @@ HWPH.put("a/3690",
   {"id":1712,"lemma":"Kunst, Kunstwerk","tf":2},
   {"id":707,"lemma":"Element","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":39,"lemma":"Acedia"},
+  {"id":1727,"lemma":"Langeweile"},
+  {"id":2851,"lemma":"Selbstvergessenheit"},
+  {"id":3213,"lemma":"Trägheit"},
+  {"id":3461,"lemma":"Vielgeschäftigkeit"},
+  {"id":738,"lemma":"Energie"},
+  {"id":752,"lemma":"Entropie"},
+  {"id":3185,"lemma":"Thermodynamik"},
+  {"id":3546,"lemma":"Wärmetod"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Zerstreuung I (anthr.)"},
   {"id":32,"name":"Physik","label":"Zerstreuung II (phys.)"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Schiemann Gregor","n":2}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Schiemann Gregor","n":2}]
 }
 );

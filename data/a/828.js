@@ -17,7 +17,7 @@ HWPH.put("a/828",
  "next":{"id":829,"lemma":"Esse commune, esse subsistens","band":"2","col":749},
  "backlinks":[{"id":2353,"lemma":"Philosophie","n":1}],
  "outlinks":[],
- "register":[{"term":"– VI (lit. Formen) 7 848–858 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":131,"name":"M. de Montaigne","b":4,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":37,"name":"F. Schlegel","b":2,"n":1,"l":0,"editor":0,"role":"source"},

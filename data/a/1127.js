@@ -20,7 +20,7 @@ HWPH.put("a/1127",
  "register":[
   {"term":"Autorität","qualifier":"","band":null,"col":null},
   {"term":"Besitz","qualifier":"","band":"3","col":"564"},
-  {"term":"Einzige, der","qualifier":"","band":"3","col":"564f."},
+  {"term":"Eigentum","qualifier":"","band":"3","col":"564f."},
   {"term":"force","qualifier":"","band":null,"col":null},
   {"term":"Gewalt, göttliche (Benjamin)","qualifier":"","band":"3","col":"568"},
   {"term":"Monopol der Gewalt","qualifier":"","band":"3","col":"568"},

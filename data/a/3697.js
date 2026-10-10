@@ -39,13 +39,12 @@ HWPH.put("a/3697",
   {"term":"citation","qualifier":"","band":null,"col":null},
   {"term":"Collage","qualifier":"I (lit.)","band":"12","col":"1351"},
   {"term":"Dialogizität","qualifier":"I (lit.)","band":"12","col":"1352"},
+  {"term":"Eigenname","qualifier":"II (sprach.)","band":null,"col":null},
   {"term":"Erwähnung","qualifier":"II (sprach.)","band":"12","col":"1355"},
-  {"term":"Nominalismus","qualifier":"II (sprach.)","band":null,"col":null},
   {"term":"quotation","qualifier":"","band":null,"col":null},
   {"term":"Zeuge","qualifier":"I (lit.)","band":null,"col":null},
   {"term":"Zweistimmigkeit","qualifier":"I (lit.)","band":"12","col":"1352"},
-  {"term":"χρεία","qualifier":"I (lit.)","band":"12","col":"1344"},
-  {"term":"– I (rhet.) 1 724–727 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"χρεία","qualifier":"I (lit.)","band":"12","col":"1344"}
  ],
  "persons":[
   {"id":109,"name":"J. G. Hamann","b":1,"n":5,"l":0,"editor":0,"role":"source"},
@@ -248,7 +247,7 @@ HWPH.put("a/3697",
   {"id":3359,"lemma":"Urteilskraft; Urteilsvermögen","tf":2},
   {"id":1478,"lemma":"Interpretation","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":3363,"lemma":"Use/Mention"}],
  "groups":[
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Zitat I (lit.)"},
   {"id":21,"name":"Literaturtheorie","label":"Zitat I (lit.)"},

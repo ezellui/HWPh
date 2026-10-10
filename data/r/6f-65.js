@@ -14,7 +14,7 @@ HWPH.put("r/6f-65",
   "oeconomia rustica"
  ],
  [
-  "Oeing-Hanhoff Ludger","Abstrakt/konkret","",null,null,"author",30,"Abstrakt/konkret",
+  "Oeing-Hanhoff Ludger","Abstrakt/konkret","II-III","1","34–42","author",30,"Abstrakt/konkret",
   "oeing-hanhoff ludger"
  ],
  [
@@ -53,7 +53,7 @@ HWPH.put("r/6f-65",
   "Form und Materie (Stoff)","oeing-hanhoff ludger"
  ],
  [
-  "Oeing-Hanhoff Ludger","Ganzes/Teil","",null,null,"author",986,"Ganzes/Teil",
+  "Oeing-Hanhoff Ludger","Ganzes/Teil","II-III","3","5–13","author",986,"Ganzes/Teil",
   "oeing-hanhoff ludger"
  ],
  ["Oeing-Hanhoff Ludger","Gedanke","I","3","52–54","author",999,"Gedanke","oeing-hanhoff ludger"],
@@ -88,7 +88,10 @@ HWPH.put("r/6f-65",
   "oeing-hanhoff ludger"
  ],
  ["Oeing-Hanhoff Ludger","Macht","I A","5","585–588","author",1844,"Macht","oeing-hanhoff ludger"],
- ["Oeing-Hanhoff Ludger","Metaphysik","",null,null,"author",1944,"Metaphysik","oeing-hanhoff ludger"],
+ [
+  "Oeing-Hanhoff Ludger","Metaphysik I. IV.","VII (Heidegger)","5","1186–1188","author",1944,
+  "Metaphysik","oeing-hanhoff ludger"
+ ],
  [
   "Oeing-Hanhoff Ludger","Methode","III 2","5","1309–1311","author",1955,"Methode",
   "oeing-hanhoff ludger"

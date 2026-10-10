@@ -50,16 +50,30 @@ HWPH.put("r/63-69",
   "citizen of the world","Weltgesellschaft","","12","489","ref",3568,"Weltgesellschaft",
   "citizen of the world"
  ],
- ["citoyen","Bürger civil disobedience","",null,null,"ref",null,null,"citoyen"],
+ ["citoyen","Bürger","",null,null,"ref",459,"Bürger, bourgeois, citoyen","citoyen"],
+ [
+  "civil disobedience","Ungehorsam, ziviler","",null,null,"ref",3295,"Ungehorsam, ziviler",
+  "civil disobedience"
+ ],
  ["civil philosophy","Ethik","III","2","769","ref",835,"Ethik","civil philosophy"],
  [
-  "civil religion/theology","Zivilreligion civil society","",null,null,"ref",null,null,
+  "civil religion/theology","Zivilreligion","",null,null,"ref",3701,"Zivilreligion; Ziviltheologie",
   "civil religion/theology"
+ ],
+ [
+  "civil society","Zivil; Zivilgesellschaft","",null,null,"ref",3698,"Zivil; Zivilgesellschaft",
+  "civil society"
+ ],
+ [
+  "civil society","Gesellschaft, bürgerliche","","3","470","ref",1100,"Gesellschaft, bürgerliche",
+  "civil society"
  ],
  ["civilis","Zivil; Zivilgesellschaft","",null,null,"ref",3698,"Zivil; Zivilgesellschaft","civilis"],
  ["civilitas","Urbanität","","11","351f.","ref",3338,"Urbanität","civilitas"],
  ["civilization","Zivilisation","",null,null,"ref",3700,"Zivilisation","civilization"],
- ["civis","Bürger civitas","",null,null,"ref",null,null,"civis"],
+ ["civis","Bürger","",null,null,"ref",459,"Bürger, bourgeois, citoyen","civis"],
+ ["civitas","Republik","","8","871","ref",2688,"Republik","civitas"],
+ ["civitas","Staat","I","10","5f.","ref",2998,"Staat","civitas"],
  [
   "civitas dei/terrena","Geschichte","II","3","347","ref",1085,"Geschichte, Historie",
   "civitas dei/terrena"

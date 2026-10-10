@@ -8,7 +8,7 @@ HWPH.put("a/3008",
  "col_to":95,
  "pdf_from":39805,
  "pdf_to":39806,
- "authors":["Abeler Helmut","Red"],
+ "authors":["Red"],
  "n_notes":2,
  "n_chars":1642,
  "toc":[["h1","Literaturhinweise",0],["notes","Anmerkungen",0]],
@@ -21,12 +21,7 @@ HWPH.put("a/3008",
   {"id":2761,"lemma":"Schicht, soziale","n":1},
   {"id":3037,"lemma":"Stratifikation","n":1}
  ],
- "register":[
-  {"term":"Bewusstseinslage","qualifier":"","band":null,"col":null},
-  {"term":"Bewusstseinsstand","qualifier":"","band":null,"col":null},
-  {"term":"geisteswissenschaftliche","qualifier":"","band":null,"col":null},
-  {"term":"status conscientiae","qualifier":"","band":null,"col":null}
- ],
+ "register":[],
  "persons":[
   {"id":149,"name":"R. Koselleck","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":244,"name":"O. Brunner","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -41,6 +36,6 @@ HWPH.put("a/3008",
   {"id":2761,"lemma":"Schicht, soziale"}
  ],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Stand"}],
- "reg_authors":[{"name":"Abeler Helmut","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

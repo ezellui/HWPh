@@ -20,7 +20,10 @@ HWPH.put("a/169",
  "next":{"id":170,"lemma":"Anständigkeit","band":"1","col":357},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Leistung","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Erfolg/Misserfolg","qualifier":"","band":"1","col":"356"},
+  {"term":"Leistung","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":241,"name":"Ph. Lersch","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":367,"name":"K. Lewin","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -43,6 +46,6 @@ HWPH.put("a/169",
  ],
  "see_also":[],
  "groups":[{"id":36,"name":"Psychologie","label":"Anspruchsniveau"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

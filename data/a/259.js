@@ -22,7 +22,9 @@ HWPH.put("a/259",
  ],
  "outlinks":[],
  "register":[
+  {"term":"a se","qualifier":"","band":null,"col":null},
   {"term":"ab alio","qualifier":"","band":null,"col":null},
+  {"term":"Absolute","qualifier":"","band":null,"col":null},
   {"term":"essentia Dei metaphysica","qualifier":"","band":"1","col":"538"},
   {"term":"ursprungslos","qualifier":"","band":"1","col":"537"},
   {"term":"ἄναρχος","qualifier":"","band":"1","col":"537"}

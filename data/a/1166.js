@@ -40,6 +40,6 @@ HWPH.put("a/1166",
   {"id":26,"name":"Metaphysik","label":"Gottesbeweis, axiologischer"},
   {"id":44,"name":"Theologie","label":"Gottesbeweis, axiologischer"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

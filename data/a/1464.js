@@ -43,14 +43,13 @@ HWPH.put("a/1464",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Elite","qualifier":"","band":"4","col":"456f."},
-  {"term":"Fremde, der","qualifier":"","band":"4","col":"457"},
-  {"term":"intellegentia","qualifier":"","band":null,"col":null},
-  {"term":"Intellektueller","qualifier":"","band":null,"col":null},
-  {"term":"Intellektueller, kollektiver","qualifier":"","band":"4","col":"453"},
-  {"term":"Intelligentsia","qualifier":"","band":null,"col":null},
-  {"term":"Klassenbewusstsein","qualifier":"","band":"4","col":"453"},
-  {"term":"– II (marx.) 7 144–146 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Elite","qualifier":"V (soz.)","band":"4","col":"456f."},
+  {"term":"Fremde, der","qualifier":"V (soz.)","band":"4","col":"457"},
+  {"term":"intellegentia","qualifier":"I (erk.)","band":null,"col":null},
+  {"term":"Intellektueller","qualifier":"V (soz.)","band":null,"col":null},
+  {"term":"Intellektueller, kollektiver","qualifier":"IV (marx.)","band":"4","col":"453"},
+  {"term":"Intelligentsia","qualifier":"III (russ.)","band":null,"col":null},
+  {"term":"Klassenbewusstsein","qualifier":"IV (marx.)","band":"4","col":"453"}
  ],
  "persons":[
   {"id":595,"name":"A. Gramsci","b":2,"n":8,"l":0,"editor":0,"role":"source"},

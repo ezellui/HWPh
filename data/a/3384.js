@@ -24,15 +24,14 @@ HWPH.put("a/3384",
   {"id":3293,"lemma":"Unergründlichkeit","n":1}
  ],
  "register":[
-  {"term":"- 1038 s. auch","qualifier":"","band":null,"col":null},
   {"term":"absconditas Dei","qualifier":"","band":null,"col":null},
   {"term":"deus absconditus","qualifier":"","band":null,"col":null},
   {"term":"dieu caché","qualifier":"","band":null,"col":null},
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"hidden God","qualifier":"","band":null,"col":null},
   {"term":"Offenbarung Gottes","qualifier":"","band":"11","col":"585"},
   {"term":"Sprung","qualifier":"","band":"11","col":"584"},
-  {"term":"Unerforschlichkeit Gottes","qualifier":"","band":"11","col":"583"},
-  {"term":"– I (allg.) 5 39–42 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Unerforschlichkeit Gottes","qualifier":"","band":"11","col":"583"}
  ],
  "persons":[
   {"id":151,"name":"K. Rahner","b":0,"n":2,"l":1,"editor":0,"role":"mixed"},

@@ -6,7 +6,7 @@ HWPH.put("r/6a-6f",
   "Journalismus","Verdinglichung","","11","611","ref",3391,"Verdinglichung; Vergegenständlichung",
   "journalismus"
  ],
- ["joy, terrible","Schreckliche","",null,null,"ref",2780,"Schreckliche","joy, terrible"],
+ ["joy, terrible","Schreckliche, das","","8","1414","ref",2780,"Schreckliche","joy, terrible"],
  [
   "Jochum Herbert","Substitutionstheorie","","10","556","author",3064,"Substitutionstheorie",
   "jochum herbert"

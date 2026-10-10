@@ -93,6 +93,6 @@ HWPH.put("a/3376",
   {"id":1276,"lemma":"Hinduismus"}
  ],
  "groups":[{"id":15,"name":"Indische Philosophie","label":"Veda; Vedanta"}],
- "reg_authors":[{"name":"Red","n":242},{"name":"Schmithausen Lambert","n":17}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Schmithausen Lambert","n":17}]
 }
 );

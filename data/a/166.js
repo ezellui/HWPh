@@ -21,14 +21,9 @@ HWPH.put("a/166",
   {"term":"Begriffssatz","qualifier":"(Bolzano)","band":null,"col":null},
   {"term":"Begriffswahrheiten","qualifier":"(Bolzano)","band":"1","col":"352"},
   {"term":"dies","qualifier":"(Bolzano)","band":"1","col":"352"},
-  {"term":"Raumwahrnehmung Wahrnehmungssatz","qualifier":"(Bolzano)","band":null,"col":null},
+  {"term":"empirischer Satz","qualifier":"(Bolzano)","band":null,"col":null},
   {"term":"Satz, empirischer","qualifier":"(Bolzano)","band":null,"col":null},
-  {
-   "term":"transzendentaler; Realismus, empirischer (Kant) empirischer Satz",
-   "qualifier":"(Bolzano)",
-   "band":null,
-   "col":null
-  }
+  {"term":"Wahrnehmungssatz","qualifier":"(Bolzano)","band":null,"col":null}
  ],
  "persons":[
   {"id":89,"name":"B. Bolzano","b":1,"n":1,"l":0,"editor":0,"role":"source"},

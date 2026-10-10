@@ -65,6 +65,6 @@ HWPH.put("a/3248",
  ],
  "see_also":[{"id":1554,"lemma":"Kausalität, psychische"},{"id":3429,"lemma":"Verschiebung; Verdichtung"}],
  "groups":[{"id":35,"name":"Psychoanalyse","label":"Überdeterminierung"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Loch Wolfgang","n":12}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Loch Wolfgang","n":12}]
 }
 );

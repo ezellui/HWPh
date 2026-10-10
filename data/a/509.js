@@ -20,8 +20,7 @@ HWPH.put("a/509",
  "register":[
   {"term":"Erkenntnis durch Connaturalitas","qualifier":"","band":null,"col":null},
   {"term":"Liebe","qualifier":"","band":"1","col":"1030"},
-  {"term":"συμφύ¨ια","qualifier":"","band":"1","col":"1030"},
-  {"term":"– I (nat.) 10 751–756 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"συμφύ¨ια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":3,"l":0,"editor":0,"role":"source"},

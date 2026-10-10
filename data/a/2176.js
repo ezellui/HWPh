@@ -25,8 +25,7 @@ HWPH.put("a/2176",
   {"term":"Verharren","qualifier":"","band":null,"col":null},
   {"term":"Verweilen","qualifier":"","band":null,"col":null},
   {"term":"zugleich","qualifier":"","band":"6","col":"991"},
-  {"term":"μένειν","qualifier":"","band":"6","col":"989"},
-  {"term":"– II (met.) 6 100–108 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"μένειν","qualifier":"","band":"6","col":"989"}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":2,"n":2,"l":0,"editor":0,"role":"source"},

@@ -1,15 +1,11 @@
 HWPH.put("r/61-73",
 [
- ["Aseität","Aseität","",null,null,"main",259,"Aseität","aseitat"],
- ["Aseität","Apriori/aposteriori","I","1","464","ref",221,"A priori/a posteriori","aseitat"],
- ["Aseität","Freiheit","IV","2","1090","ref",946,"Freiheit","aseitat"],
- ["Aseität","Ordnung","II","6","1269","ref",2233,"Ordnung","aseitat"],
- ["Aseität","Substanz","IV","10","535","ref",3062,"Substanz; Substanz/Akzidens","aseitat"],
- ["Ästhetik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"asthetik s. auch"],
+ ["Ästhetik","Register der Sachgruppen","",null,null,"see",null,null,"asthetik"],
  ["Ästhetik","Ästhetik","","1","555–580","main",265,"Asthenisch/sthenisch","asthetik"],
  ["Ästhetik","Gneumatologie","",null,null,"see",1158,"Gneumatologie","asthetik"],
  ["Ästhetik","Kunst; Kunstwerk","",null,null,"see",1712,"Kunst, Kunstwerk","asthetik"],
- ["Ästhetik","Schöne","",null,null,"see",2776,"Schöne","asthetik"],
+ ["Ästhetik","Schöne, das","",null,null,"see",2776,"Schöne","asthetik"],
+ ["Ästhetik","Wissenschaften, schöne","",null,null,"see",3639,"Wissenschaften, schöne","asthetik"],
  ["Ästhetik","Empfindung","I (erk.)","2","460","ref",723,"Empfindung","asthetik"],
  ["Ästhetik","Kritik","I 3","4","1261","ref",1694,"Kritik","asthetik"],
  ["Ästhetik","Vollkommenheit","","11","1125","ref",3482,"Vollkommenheit","asthetik"],
@@ -22,8 +18,16 @@ HWPH.put("r/61-73",
   "asthetik, proletarische"
  ],
  [
-  "Ästhetik, psychologische","Kunst; Kunstwerk V 1 Ästhetik, theologische","",null,null,"ref",1712,
-  "Kunst, Kunstwerk","asthetik, psychologische"
+  "Ästhetik, psychologische","Kunst; Kunstwerk","V 1",null,null,"ref",1712,"Kunst, Kunstwerk",
+  "asthetik, psychologische"
+ ],
+ [
+  "Ästhetik, theologische","Herrlichkeit","II","3","1080","ref",1260,"Herrlichkeit",
+  "asthetik, theologische"
+ ],
+ [
+  "Ästhetik, theologische","Kunst; Kunstwerk","V 4","4","1427","ref",1712,"Kunst, Kunstwerk",
+  "asthetik, theologische"
  ],
  [
   "Ästhetik von unten","Kunst; Kunstwerk","III","4","1394","ref",1712,"Kunst, Kunstwerk",
@@ -39,14 +43,21 @@ HWPH.put("r/61-73",
  ["ästhetisch/ethisch","Wahl","","12","20","ref",3517,"Wahl","asthetisch/ethisch"],
  ["Ästhetische, das","Unmittelbarkeit","","11","238","ref",3314,"Unmittelbarkeit","asthetische, das"],
  [
-  "ästhetische Distanz","Distanz, ästhetische ästhetische Freiheit","",null,null,"ref",616,
+  "ästhetische Distanz","Distanz, ästhetische","",null,null,"ref",616,
   "Distanz/Distanzlosigkeit, ästhetische","asthetische distanz"
  ],
- ["ästhetische Idee","Idee","IV","4","118","ref",1361,"Idee","asthetische idee"],
- ["ästhetische Wahrheit","Wahrheit","",null,null,"ref",3523,"Wahrheit","asthetische wahrheit"],
  [
-  "ästhetische ästhetische Wahrnehmung","Wahrnehmung","VIII (ästh.)",null,null,"ref",3539,
-  "Wahrnehmung","asthetische asthetische wahrnehmung"
+  "ästhetische Freiheit","Einbildungskraft","II","2","354","ref",673,"Einbildung, Einbildungskraft",
+  "asthetische freiheit"
+ ],
+ ["ästhetische Idee","Idee","IV","4","118","ref",1361,"Idee","asthetische idee"],
+ [
+  "ästhetische Wahrheit","Wahrheit, ästhetische","",null,null,"ref",3523,"Wahrheit",
+  "asthetische wahrheit"
+ ],
+ [
+  "ästhetische Wahrnehmung","Wahrnehmung","VIII (ästh.)",null,null,"ref",3539,"Wahrnehmung",
+  "asthetische wahrnehmung"
  ],
  [
   "ästhetische Wahrscheinlichkeit","Wahrscheinlichkeit (ästhetisch)","",null,null,"ref",3541,
@@ -64,9 +75,6 @@ HWPH.put("r/61-73",
  ["ästhetisches Urteil","Wert","II","12","559","ref",3588,"Wert","asthetisches urteil"],
  ["Ästhetizismus","Ästhetizismus","","1","581f.","main",268,"Ästhetizismus","asthetizismus"],
  ["Ästhetizismus","Formalismus","II (ästh.)","2","970","ref",930,"Formalismus","asthetizismus"],
- ["Ästhetizismus","Ästhetizismus","","1","581","main",268,"Ästhetizismus","asthetizismus"],
- ["Ästhetizismus","Kunst; Kunstwerk","III","4","1399","ref",1712,"Kunst, Kunstwerk","asthetizismus"],
- ["Ästhetizismus","Kunst, absolute","","4","1435f.","ref",1713,"Kunst, absolute","asthetizismus"],
  [
   "Ascensus/Descensus","Ascensus/Descensus","","1","536f.","main",258,"Ascensus/Descensus",
   "ascensus/descensus"
@@ -89,6 +97,11 @@ HWPH.put("r/61-73",
  ],
  ["Asianismus","Scharfsinn","","8","1217","ref",2753,"Scharfsinn","asianismus"],
  ["Askese","Askese","","1","538–543","main",260,"Askese","askese"],
+ ["Askese","Übung","",null,null,"see",3270,"Übung","askese"],
+ ["Askese","Tapas","",null,null,"see",3126,"Tapas","askese"],
+ ["Askese","Yoga","",null,null,"see",3668,"Yoga","askese"],
+ ["Askese","Arbeitsethos","(Weber)",null,null,"see",232,"Arbeitsethos","askese"],
+ ["Askese","Puritanismus","II (Weber)",null,null,"see",2536,"Puritanismus","askese"],
  [
   "Askese, innerweltliche","Askese","III (Weber)",null,null,"ref",260,"Askese",
   "askese, innerweltliche"
@@ -101,7 +114,11 @@ HWPH.put("r/61-73",
   "Werterziehung; moralische Erziehung; Moralpädagogik","asketik"
  ],
  ["Asozial","Asozial","","1","543","main",261,"Asozial","asozial"],
- ["aspect-seeing","Sehen","",null,null,"ref",2802,"Sehen","aspect-seeing"],
+ [
+  "aspect-seeing","Sehen als","(Wittgenstein)",null,null,"ref",2803,"Sehen als; Aspektsehen",
+  "aspect-seeing"
+ ],
+ ["aspectus","Sehen","II","9","144","ref",2802,"Sehen","aspectus"],
  ["aspectus simplex","Wahrnehmung","II","12","199","ref",3539,"Wahrnehmung","aspectus simplex"],
  ["assecuratio","Versicherung","",null,null,"ref",3433,"Versicherung","assecuratio"],
  [
@@ -116,12 +133,19 @@ HWPH.put("r/61-73",
  ],
  ["assertion","Sprechakt","","9","1537","ref",2995,"Sprechakt","assertion"],
  ["assertorisch","Modallogik","I",null,null,"ref",1997,"Modallogik","assertorisch"],
- ["assertorisch","Urteil","II",null,null,"ref",3355,"Urteil","assertorisch"],
+ ["assertorisch","Urteil","II 2",null,null,"ref",3355,"Urteil","assertorisch"],
  ["assertorisch","Urteil","III (Formen)",null,null,"ref",3355,"Urteil","assertorisch"],
- ["assertorisch","Modalität","",null,null,"ref",1995,"Modalität","assertorisch"],
+ [
+  "assertorisch","Modalität des Urteils","","6","14","ref",1996,"Modalität (des Urteils)",
+  "assertorisch"
+ ],
+ [
+  "assertorischer Imperativ","Imperativ, kategorischer","I","4","243","ref",1395,
+  "Imperative, kategorischer Imperativ","assertorischer imperativ"
+ ],
  ["assimilatio entium","Geist","V","3","175","ref",1030,"Geist","assimilatio entium"],
  [
-  "Assimilation","Erkenntnis II (psych.)","","2","672","ref",796,"Erkennen, Erkenntnis",
+  "Assimilation","Erkenntnis","II (psych.)","2","672","ref",796,"Erkennen, Erkenntnis",
   "assimilation"
  ],
  ["Assimilation","Introjektion","","4","521","ref",1485,"Introjektion","assimilation"],
@@ -129,6 +153,39 @@ HWPH.put("r/61-73",
  [
   "Assimilation/Dissimilation","Assimilation/Dissimilation","","1","544–548","main",262,
   "Assimilation/Dissimilation","assimilation/dissimilation"
+ ],
+ [
+  "Assimilation/Dissimilation","Stoffwechsel","",null,null,"see",3032,"Stoffwechsel",
+  "assimilation/dissimilation"
+ ],
+ [
+  "Assimilation/Dissimilation","Wachstum","",null,null,"see",3513,"Wachstum",
+  "assimilation/dissimilation"
+ ],
+ ["Assimilation/Dissimilation","Zelle","",null,null,"see",3681,"Zelle","assimilation/dissimilation"],
+ [
+  "Assimilation/Dissimilation","Adaptation","",null,null,"see",45,"Adaptation",
+  "assimilation/dissimilation"
+ ],
+ [
+  "Assimilation/Dissimilation","Anpassung","I (biol./psych.)",null,null,"see",159,"Anpassung",
+  "assimilation/dissimilation"
+ ],
+ [
+  "Assimilation/Dissimilation","Kontrast","II (psych.)",null,null,"see",1647,"Kontrast",
+  "assimilation/dissimilation"
+ ],
+ [
+  "Assimilation/Dissimilation","Nachahmung","",null,null,"see",2054,"Nachahmung",
+  "assimilation/dissimilation"
+ ],
+ [
+  "Assimilation/Dissimilation","Akkulturation","",null,null,"see",74,"Akkulturation",
+  "assimilation/dissimilation"
+ ],
+ [
+  "Assimilation/Dissimilation","Anpassung","II (soz./kult.)",null,null,"see",159,"Anpassung",
+  "assimilation/dissimilation"
  ],
  [
   "associatif","Syntagmatisch/paradigmatisch","","10","808","ref",3112,
@@ -151,7 +208,7 @@ HWPH.put("r/61-73",
  ["Assoziation","Formalstufen","","2","972","ref",932,"Formalstufen","assoziation"],
  ["Assoziation","Gedächtnis","","3","37f.","ref",996,"Gedächtnis","assoziation"],
  [
-  "Assoziation","Invention; Erfindung IV (psych.)","","4","567","ref",1490,
+  "Assoziation","Invention; Erfindung","IV (psych.)","4","567","ref",1490,
   "Invention, Erfindung, Entdeckung","assoziation"
  ],
  ["Assoziation","Konstellation","","4","989","ref",1623,"Konstellation","assoziation"],
@@ -246,7 +303,7 @@ HWPH.put("r/61-73",
   "Astrologie","Voraussage","","11","1147f.","ref",3487,"Voraussage; Vorhersage; Prognose",
   "astrologie"
  ],
- ["Astronomie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"astronomie s. auch"],
+ ["Astronomie","Register der Sachgruppen","",null,null,"see",null,null,"astronomie"],
  ["Astronomie","Astronomie","","1","588–593","main",271,"Astronomie","astronomie"],
  ["Astronomie","Astrologie","",null,null,"see",270,"Astrologie","astronomie"],
  [
@@ -258,147 +315,19 @@ HWPH.put("r/61-73",
   "Astronomie","Heliozentrisch","",null,null,"see",1244,
   "Heliozentrisch, heliozentrisches Weltsystem","astronomie"
  ],
- ["Astronomie","Ptolemäisch asylum ignorantiae","",null,null,"see",null,null,"astronomie"],
+ [
+  "Astronomie","Ptolemäisch","",null,null,"see",2533,"Ptolemäisch, Ptolemäisches Weltsystem",
+  "astronomie"
+ ],
+ [
+  "asylum ignorantiae","Qualitas occulta","","7","1745","ref",2543,"Qualitas occulta",
+  "asylum ignorantiae"
+ ],
  ["Asystasie","Philosophie","IV E","7","717","ref",2353,"Philosophie","asystasie"],
- ["ästhetische 12 138","Wahrnehmung","II","12","197","ref",3539,"Wahrnehmung","asthetische 12 138"],
- [
-  "ästhetische 12 138","Wahrnehmung","VIII (ästh.)","12","236","ref",3539,"Wahrnehmung",
-  "asthetische 12 138"
- ],
- ["ästhetische 12 138 confusio","Chaos","",null,null,"ref",484,"Chaos","asthetische 12 138 confusio"],
- [
-  "ästhetische 12 138 confusio","Verworrenheit","",null,null,"ref",3456,"Verworrenheit",
-  "asthetische 12 138 confusio"
- ],
- [
-  "ästhetische 12 138 confusio","Scham C","2","8","1212","ref",2751,"Scham, Scheu",
-  "asthetische 12 138 confusio"
- ],
- [
-  "ästhetische 12 138 confusio","Unterscheiden; Unterscheidung","","11","308","ref",3326,
-  "Unterscheiden; Unterscheidung","asthetische 12 138 confusio"
- ],
- [
-  "ästhetische 12 138 confusio","Vielheit","I","11","1046f.","ref",3462,"Vielheit",
-  "asthetische 12 138 confusio"
- ],
- [
-  "ästhetische 12 138","Wahrnehmung","VIII (ästh.)","12","236","ref",3539,"Wahrnehmung",
-  "asthetische 12 138"
- ],
  ["Astronomie","Astronomie","",null,null,"main",271,"Astronomie","astronomie"],
  [
-  "ästhetische 12 139 innere Wahrnehmung","Psychologie","","7","1626","ref",2511,"Psychologie",
-  "asthetische 12 139 innere wahrnehmung"
- ],
- [
-  "ästhetische 12 138","Konfuzianismus","","4","958–960","ref",1610,
-  "Konformismus (Konformität)/Nonkonformismus","asthetische 12 138"
- ],
- [
-  "ästhetische 12 138","Auftrag des Himmels","",null,null,"see",293,"Auftrag des Himmels",
-  "asthetische 12 138"
- ],
- ["ästhetische 12 138","Legismus","",null,null,"see",1763,"Legismus","asthetische 12 138"],
- ["ästhetische 12 138","Mohismus","",null,null,"see",2006,"Mohismus","asthetische 12 138"],
- [
-  "ästhetische 12 138","Neokonfuzianismus","",null,null,"see",2108,"Neokonfuzianismus",
-  "asthetische 12 138"
- ],
- ["ästhetische 12 138","Philosophie","VII A",null,null,"see",2353,"Philosophie","asthetische 12 138"],
- [
-  "ästhetische 12 139 Kunstwerk","Kunst; Kunstwerk","",null,null,"ref",1712,"Kunst, Kunstwerk",
-  "asthetische 12 139 kunstwerk"
- ],
- [
-  "ästhetische 12 139 Kunstwerk","Genie","III","3","289","ref",1071,"Genie",
-  "asthetische 12 139 kunstwerk"
- ],
- [
-  "ästhetische 12 139 Kunstwerk","Type and token","","10","1581","ref",3242,"Type and token",
-  "asthetische 12 139 kunstwerk"
- ],
- [
-  "ästhetische 12 139 Kunstwerk","Werk","","12","551","ref",3586,"Werk",
-  "asthetische 12 139 kunstwerk"
- ],
- [
-  "ästhetische 12 138ff. Richtigkeit, historische","Wahrheit, historische","","12","147","ref",3529,
-  "Wahrheit, historische","asthetische 12 138ff. richtigkeit, historische"
- ],
- [
-  "ästhetische 12 138 Sarkiker","Pneumatiker/Psychiker","","7","995","ref",2384,
-  "Pneumatiker/Psychiker","asthetische 12 138 sarkiker"
- ],
- [
-  "ästhetische 12 139 Schönheit, absolute","Wahrheit, absolute","","12","136","ref",3526,
-  "Wahrheit, absolute","asthetische 12 139 schonheit, absolute"
- ],
- [
-  "ästhetische 12 138","Wahrnehmung","VIII (ästh.)","12","236","ref",3539,"Wahrnehmung",
-  "asthetische 12 138"
- ],
- ["Astronomie","Astronomie","",null,null,"main",271,"Astronomie","astronomie"],
- [
-  "ästhetische 12 138","Wahrscheinlichkeit (ästhetisch)","","12","305","ref",3541,
-  "Wahrscheinlichkeit (ästhetisch)","asthetische 12 138"
- ],
- [
-  "ästhetische 12 138 veritas aeterna","Wahrheit, ewige","",null,null,"ref",3528,"Wahrheit, ewige",
-  "asthetische 12 138 veritas aeterna"
- ],
- [
-  "ästhetische 12 138 veritas historiae","Geschichte","II","3","348","ref",1085,
-  "Geschichte, Historie","asthetische 12 138 veritas historiae"
- ],
- [
-  "ästhetische 12 138","Verworrenheit","","11","1014–1020","ref",3456,"Verworrenheit",
-  "asthetische 12 138"
- ],
- [
-  "ästhetische 12 138","Klar und deutlich","",null,null,"see",1571,"Klar und deutlich",
-  "asthetische 12 138"
- ],
- [
-  "ästhetische 12 138","Unbestimmtheit","",null,null,"see",3285,"Unbestimmtheit",
-  "asthetische 12 138"
- ],
- [
-  "ästhetische 12 138","Unterscheiden; Unterscheidung","",null,null,"see",3326,
-  "Unterscheiden; Unterscheidung","asthetische 12 138"
- ],
- ["ästhetische 12 138","Vagheit Verwunderung","",null,null,"see",null,null,"asthetische 12 138"],
- [
-  "ästhetische 12 137–141 s. auch","Kunst; Kunstwerk III","",null,null,"ref",1712,"Kunst, Kunstwerk",
-  "asthetische 12 137–141 s. auch"
- ],
- [
-  "ästhetische 12 137–141 s. auch","Urteil, ästhetisches","",null,null,"ref",3356,
-  "Urteil, ästhetisches","asthetische 12 137–141 s. auch"
- ],
- [
-  "ästhetische 12 137–141 s. auch","Wahrscheinlichkeit (ästhetisch)","",null,null,"ref",3541,
-  "Wahrscheinlichkeit (ästhetisch)","asthetische 12 137–141 s. auch"
- ],
- [
-  "ästhetische 12 139","Wahrscheinlichkeit (ästhetisch)","","12","305","ref",3541,
-  "Wahrscheinlichkeit (ästhetisch)","asthetische 12 139"
- ],
- [
-  "ästhetische Wahrheit der Wahrnehmung","Wahrheit","VI A","12","108","ref",3523,"Wahrheit",
-  "asthetische wahrheit der wahrnehmung"
- ],
- [
-  "ästhetische 12 139","Wahrheitsähnlichkeit","","12","173","ref",3534,"Wahrheitsähnlichkeit",
-  "asthetische 12 139"
- ],
- [
-  "ästhetische Wahrscheinlichkeit (soz.)","Chance","(Weber)",null,null,"ref",483,"Chance",
-  "asthetische wahrscheinlichkeit (soz.)"
- ],
- [
-  "ästhetische 12 138 Welt, moralische","Welt","II","12","417ff.","ref",3557,"Welt",
-  "asthetische 12 138 welt, moralische"
+  "Asthenisch/sthenisch","Asthenisch/sthenisch","",null,null,"main",265,"Asthenisch/sthenisch",
+  "asthenisch/sthenisch"
  ],
  ["Aschoff Jürgen","Rhythmus","II (biol.)","8","1033f.","author",2715,"Rhythmus","aschoff jurgen"],
  ["Assel Heinrich","Verheissung","","11","689–694","author",3407,"Verheißung","assel heinrich"],

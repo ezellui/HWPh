@@ -22,9 +22,9 @@ HWPH.put("a/3529",
   {"id":3527,"lemma":"Wahrheit, ästhetische; Wahrheit der Kunst","n":1}
  ],
  "register":[
-  {"term":"ästhetische 12 138ff. Richtigkeit, historische","qualifier":"","band":"12","col":"147"},
   {"term":"Geschichtswahrheiten","qualifier":"","band":"12","col":"146"},
   {"term":"historische Wahrheit","qualifier":"","band":null,"col":null},
+  {"term":"Richtigkeit, historische","qualifier":"","band":"12","col":"147"},
   {"term":"Vernunftwahrheiten/Tatsachenwahrheiten","qualifier":"","band":"12","col":"146"}
  ],
  "persons":[

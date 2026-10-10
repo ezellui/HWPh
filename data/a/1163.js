@@ -30,8 +30,7 @@ HWPH.put("a/1163",
  "outlinks":[],
  "register":[
   {"term":"Abbild Gottes","qualifier":"","band":null,"col":null},
-  {"term":"Schatten","qualifier":"","band":"3","col":"815"},
-  {"term":"– I (met.) 1 913–915 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Schatten","qualifier":"","band":"3","col":"815"}
  ],
  "persons":[
   {"id":51,"name":"Nikolaus von Kues","b":1,"n":2,"l":0,"editor":0,"role":"source"},

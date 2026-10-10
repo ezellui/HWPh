@@ -18,8 +18,8 @@ HWPH.put("a/2384",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"ästhetische 12 138 Sarkiker","qualifier":"","band":"7","col":"995"},
-  {"term":"Psychiker","qualifier":"","band":null,"col":null}
+  {"term":"Psychiker","qualifier":"","band":null,"col":null},
+  {"term":"Sarkiker","qualifier":"","band":"7","col":"995"}
  ],
  "persons":[
   {"id":145,"name":"Paulus","b":1,"n":1,"l":0,"editor":0,"role":"source"},

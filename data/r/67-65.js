@@ -1,18 +1,6 @@
 HWPH.put("r/67-65",
 [
  ["Gedächtnisspanne","Gedächtnisspanne","","3","44","main",997,"Gedächtnisspanne","gedachtnisspanne"],
- ["Genuss","Genuss","","3","317","main",1076,"Genuß","genuss"],
- ["Geist","Geist","IV",null,null,"main",1030,"Geist","geist"],
- ["Geist","Gemüt","I",null,null,"ref",1054,"Gemüt","geist"],
- ["Geist","Seele","I","9","6f.","ref",2794,"Seele","geist"],
- ["Geist","Seelensitz","","9","106","ref",2798,"Seelensitz","geist"],
- ["Geist","Verdichtung","I (nat.)","11","606","ref",3390,"Verdichtung","geist"],
- ["Gemeinwohl","Gemeinwohl","",null,null,"main",1053,"Gemeinwohl","gemeinwohl"],
- ["Gefühl","Gefühl","I","3","84","main",1009,"Gefühl","gefuhl"],
- [
-  "Gebrauchsdefinition","Gebrauchsdefinition","",null,null,"main",994,"Gebrauchsdefinition",
-  "gebrauchsdefinition"
- ],
  [
   "Gelehrtenrepublik","Gelehrtenrepublik","","3","228","main",1043,"Gelehrtenrepublik",
   "gelehrtenrepublik"
@@ -20,41 +8,10 @@ HWPH.put("r/67-65",
  ["Gelehrtenrepublik","Isonomie","","4","631","ref",1504,"Isonomie","gelehrtenrepublik"],
  ["Gelehrtenrepublik","Republik","","8","874ff.","ref",2688,"Republik","gelehrtenrepublik"],
  ["Gelehrtenrepublik","Sozialismus","","9","1182","ref",2947,"Sozialismus","gelehrtenrepublik"],
- ["Geist","Geist","IV","3","172","main",1030,"Geist","geist"],
- ["Gegensatz","Gegensatz","I (met.)",null,null,"main",1018,"Gegensatz","gegensatz"],
- ["Gewohnheit","Gewohnheit","","3","608","main",1132,"Gewohnheit","gewohnheit"],
- ["Gewohnheit","Ich","II","4","18","ref",1334,"Ich","gewohnheit"],
- ["Gewohnheit","Philosophie","IV",null,null,"ref",2353,"Philosophie","gewohnheit"],
- [
-  "genetische 7 1659 Entwirklichung","Entäusserung","","2","505","ref",745,"Entäußerung",
-  "genetische 7 1659 entwirklichung"
- ],
- [
-  "genetische 7 1659 Entwirklichung","Verdinglichung","","11","609","ref",3391,
-  "Verdinglichung; Vergegenständlichung","genetische 7 1659 entwirklichung"
- ],
- [
-  "genetische 7 1659 Entwirklichung","Wirklichkeit","","12","836","ref",3628,"Wirklichkeit",
-  "genetische 7 1659 entwirklichung"
- ],
- [
-  "geisteswissenschaftliche","Selbstbewusstsein","",null,null,"ref",2828,"Selbstbewußtsein",
-  "geisteswissenschaftliche"
- ],
- [
-  "geisteswissenschaftliche","Verstehen","",null,null,"ref",3438,"Verstehen",
-  "geisteswissenschaftliche"
- ],
- ["Geschichte","Geschichte","VI","3","395","main",1085,"Geschichte, Historie","geschichte"],
- ["Genie","Genie","I","3","279","main",1071,"Genie","genie"],
  ["Gewissen","Gewissen","","3","587","main",1130,"Gewissen","gewissen"],
  [
   "Gedankenfreiheit","Gedankenfreiheit","",null,null,"main",1002,"Gedankenfreiheit",
   "gedankenfreiheit"
- ],
- [
-  "Genus; Sexus Gattung/Art","Genus; Sexus Gattung/Art","",null,null,"main",991,"Gattung, Genus",
-  "genus; sexus gattung/art"
  ],
  [
   "Gebärde; Gebärdensprache","Gebärde; Gebärdensprache","","3","30f.","main",992,
@@ -65,7 +22,7 @@ HWPH.put("r/67-65",
   "gebarde; gebardensprache"
  ],
  [
-  "Gebärde; Gebärdensprache","Mneme; Mnemosyne II 1","",null,null,"see",1989,"Mneme, Mnemosyne",
+  "Gebärde; Gebärdensprache","Mneme; Mnemosyne","II 1",null,null,"see",1989,"Mneme, Mnemosyne",
   "gebarde; gebardensprache"
  ],
  [
@@ -83,7 +40,7 @@ HWPH.put("r/67-65",
  ],
  ["Geben","Freigebigkeit","",null,null,"ref",945,"Freigebigkeit","geben"],
  ["Geben","Zeit","VI","12","1238","ref",3676,"Zeit","geben"],
- ["Gebet","Schweigen; Stille A","","8","1489","ref",2787,"Schweigen, Stille","gebet"],
+ ["Gebet","Schweigen; Stille","A","8","1489","ref",2787,"Schweigen, Stille","gebet"],
  ["Gebilde","Struktur","V (soz.)","10","329f.","ref",3040,"Struktur","gebilde"],
  [
   "Gebilde (math.)","Struktur (Mathematik)","",null,null,"ref",3041,"Struktur (Mathematik)",
@@ -220,6 +177,9 @@ HWPH.put("r/67-65",
  ["Gedanke","Prädikation","I","7","1201","ref",2427,"Prädikation","gedanke"],
  ["Gedanke","Reich, Drittes","","8","499","ref",2654,"Reich, Drittes","gedanke"],
  ["Gedanke","Satz","III","8","1187","ref",2745,"Satz","gedanke"],
+ ["Gedanke","Universalien","II","11","191","ref",3302,"Universalien","gedanke"],
+ ["Gedanke","Urteil","II 3","11","451","ref",3355,"Urteil","gedanke"],
+ ["Gedanke","Vorstellung","I B","11","1229","ref",3503,"Vorstellung","gedanke"],
  [
   "Gedanke, philosophischer","Denken, appellierendes","(Jaspers)",null,null,"ref",553,
   "Denken, appellierendes","gedanke, philosophischer"
@@ -240,7 +200,8 @@ HWPH.put("r/67-65",
   "gedankending"
  ],
  ["Gedankending","Sein, objektives","",null,null,"see",2809,"Sein, objektives","gedankending"],
- ["Gedankending","Subjekt","",null,null,"see",3047,"Subjekt","gedankending"],
+ ["Gedankending","Subjekt/Objekt","I",null,null,"see",3047,"Subjekt","gedankending"],
+ ["Gedankending","Verbum mentis","",null,null,"see",3387,"Verbum mentis","gedankending"],
  [
   "Gedankending","Nichts; Nichtseiendes","","6","815","ref",2136,"Nichts, Nichtseiendes",
   "gedankending"
@@ -292,7 +253,8 @@ HWPH.put("r/67-65",
  ["Geduld","Standhaftigkeit","",null,null,"see",3011,"Standhaftigkeit","geduld"],
  ["Geduld","Tapferkeit","",null,null,"see",3127,"Tapferkeit","geduld"],
  ["Geduld","Grossmut","","3","892","ref",1189,"Großmut","geduld"],
- ["Gefällige, das","Gefallen Gefahr","",null,null,"ref",null,null,"gefallige, das"],
+ ["Gefällige, das","Gefallen","",null,null,"ref",1005,"Gefallen, Wohlgefallen","gefallige, das"],
+ ["Gefahr","Risiko","","8","1046","ref",2718,"Risiko","gefahr"],
  ["Gefallen","Gefallen","","3","75–79","main",1005,"Gefallen, Wohlgefallen","gefallen"],
  [
   "Gefallen","Wohlgefallen, interesseloses","",null,null,"see",3651,"Wohlgefallen, interesseloses",
@@ -309,7 +271,7 @@ HWPH.put("r/67-65",
  ["Gefüge","Kategorialanalyse","(Hartmann)",null,null,"see",1539,"Kategorialanalyse","gefuge"],
  ["Gefüge","Kohärenz","(Hartmann)",null,null,"see",1579,"Kohärenz","gefuge"],
  [
-  "Gefüge","Schichtenlehre I (Hartmann)","",null,null,"see",2762,"Schichtenlehre, Schichtentheorie",
+  "Gefüge","Schichtenlehre","I (Hartmann)",null,null,"see",2762,"Schichtenlehre, Schichtentheorie",
   "gefuge"
  ],
  [
@@ -320,7 +282,16 @@ HWPH.put("r/67-65",
   "Gefügegesetzlichkeit","Gesetzlichkeit, biologische","",null,null,"see",1113,
   "Gesetzlichkeit, biologische","gefugegesetzlichkeit"
  ],
- ["Gefügequalität","Komplex","",null,null,"ref",1600,"Komplex","gefugequalitat"],
+ ["Gefügequalität","Komplex, der","","4","938","ref",1601,"Komplex (der)","gefugequalitat"],
+ ["Gefühl","Gefühl","","3","82–96","main",1009,"Gefühl","gefuhl"],
+ ["Gefühl","Affekt","",null,null,"see",53,"Affekt","gefuhl"],
+ ["Gefühl","Empfindsamkeit","",null,null,"see",722,"Empfindsamkeit","gefuhl"],
+ ["Gefühl","Empfindung","",null,null,"see",723,"Empfindung","gefuhl"],
+ ["Gefühl","Gemüt","",null,null,"see",1054,"Gemüt","gefuhl"],
+ ["Gefühl","Gemütsbewegung","",null,null,"see",1055,"Gemütsbewegung","gefuhl"],
+ ["Gefühl","Logik des Gefühls","",null,null,"see",1807,"Logik des Gefühls","gefuhl"],
+ ["Gefühl","Lust; Freude","",null,null,"see",1837,"Lust, Freude","gefuhl"],
+ ["Gefühl","Sentiment","",null,null,"see",2870,"Sentiment","gefuhl"],
  ["Gefühl","Absolut; das Absolute","","1","17f.","ref",27,"Absolut, das Absolute","gefuhl"],
  ["Gefühl","Ahnung","","1","116","ref",68,"Ahnung","gefuhl"],
  ["Gefühl","Gefallen","","3","77","ref",1005,"Gefallen, Wohlgefallen","gefuhl"],
@@ -328,7 +299,8 @@ HWPH.put("r/67-65",
  ["Gefühl","Residuum","","8","906","ref",2692,"Residuum","gefuhl"],
  ["Gefühl","Seele","IV","9","51","ref",2794,"Seele","gefuhl"],
  ["Gefühl","Sinne, die","","9","849","ref",2892,"Sinne, die","gefuhl"],
- ["Gefühl","Subjekt","",null,null,"ref",3047,"Subjekt","gefuhl"],
+ ["Gefühl","Subjekt/Objekt","IV","10","417","ref",3049,"Subjekt/Objekt; subjektiv/objektiv","gefuhl"],
+ ["Gefühl/Verstand","Herz","",null,null,"ref",1265,"Herz","gefuhl/verstand"],
  [
   "Gefühl, ästhetisches","Empfindung","I (erk.)","2","464","ref",723,"Empfindung",
   "gefuhl, asthetisches"
@@ -380,8 +352,12 @@ HWPH.put("r/67-65",
   "gefuhl, unmittelbares"
  ],
  [
-  "Gefühl der Wahrheit","Wahrheitsgefühl Gefühl des eigenen Selbst","",null,null,"ref",null,null,
+  "Gefühl der Wahrheit","Wahrheitsgefühl","",null,null,"ref",3536,"Wahrheitsgefühl; Wahrheitssinn",
   "gefuhl der wahrheit"
+ ],
+ [
+  "Gefühl des eigenen Selbst","Religion","VIII 1","8","684","ref",2673,"Religion",
+  "gefuhl des eigenen selbst"
  ],
  [
   "Gefühl schlechthinniger Abhängigkeit","Gefühl schlechthinniger Abhängigkeit","","3","98","main",
@@ -408,7 +384,8 @@ HWPH.put("r/67-65",
   "gefuhl schlechthinniger abhangigkeit"
  ],
  ["Gefühlsansteckung","Mitleid","","5","1414","ref",1981,"Mitleid","gefuhlsansteckung"],
- ["Gefühlsartige, das","Komplex","",null,null,"ref",1600,"Komplex","gefuhlsartige, das"],
+ ["Gefühlsartige, das","Komplex, der","","4","937","ref",1601,"Komplex (der)","gefuhlsartige, das"],
+ ["Gefühlsausdruck","Ausdruck","III (psych.)",null,null,"ref",298,"Ausdruck","gefuhlsausdruck"],
  [
   "Gefühlschristentum","Gefühlsreligion","","3","100","ref",1014,"Gefühlsreligion",
   "gefuhlschristentum"
@@ -466,7 +443,7 @@ HWPH.put("r/67-65",
  ["Gegebenes","Unbegrifflichkeit","II","11","118","ref",3282,"Unbegrifflichkeit","gegebenes"],
  ["Gegebenes","Wahrheit, objektive","","12","158","ref",3531,"Wahrheit, objektive","gegebenes"],
  [
-  "Gegebenheit","Selbstgebung (Husserl)","",null,null,"ref",2835,"Selbstgebung, Selbstgegebenheit",
+  "Gegebenheit","Selbstgebung","(Husserl)",null,null,"ref",2835,"Selbstgebung, Selbstgegebenheit",
   "gegebenheit"
  ],
  ["Gegebenheit","Sinnesdaten","","9","876","ref",2894,"Sinnesdaten","gegebenheit"],
@@ -501,6 +478,25 @@ HWPH.put("r/67-65",
   "gegenrevolution"
  ],
  ["Gegensatz","Gegensatz","","3","105–119","main",1018,"Gegensatz","gegensatz"],
+ [
+  "Gegensatz","Coincidentia oppositorum","(Cusanus)",null,null,"see",501,"Coincidentia oppositorum",
+  "gegensatz"
+ ],
+ ["Gegensatz","Sein; Seiendes","I",null,null,"see",2806,"Sein; Seiendes","gegensatz"],
+ [
+  "Gegensatz","Übergegensätzlichkeit","(Lask)",null,null,"see",3255,
+  "Übergegensätzlichkeit; übergegensätzlich","gegensatz"
+ ],
+ ["Gegensatz","Gegenteil","",null,null,"see",1022,"Gegenteil","gegensatz"],
+ ["Gegensatz","Opposition","I (log.)",null,null,"see",2230,"Opposition","gegensatz"],
+ ["Gegensatz","Postprädikament","",null,null,"see",2417,"Postprädikament","gegensatz"],
+ ["Gegensatz","Quadrat, logisches","",null,null,"see",2540,"Quadrat, logisches","gegensatz"],
+ ["Gegensatz","Repugnanz","",null,null,"see",2689,"Repugnanz","gegensatz"],
+ [
+  "Gegensatz","Subalternation","",null,null,"see",3046,"Subalternation; Subalternationsschluß",
+  "gegensatz"
+ ],
+ ["Gegensatz","Widerspruch","",null,null,"see",3607,"Widerspruch","gegensatz"],
  ["Gegensatz","Polarität","",null,null,"ref",2391,"Polarität","gegensatz"],
  ["Gegensatz","Dialektik","IV 3","2","206","ref",583,"Dialektik","gegensatz"],
  ["Gegensatz","Zwischen","","12","1545","ref",3727,"Zwischen","gegensatz"],
@@ -522,15 +518,15 @@ HWPH.put("r/67-65",
   "gegensatz, subkontrarer"
  ],
  [
-  "Gegensatzentrücktheit","Übergegensätzlichkeit (Lask)","","11","35","ref",3255,
+  "Gegensatzentrücktheit","Übergegensätzlichkeit","(Lask)","11","35","ref",3255,
   "Übergegensätzlichkeit; übergegensätzlich","gegensatzentrucktheit"
  ],
  [
-  "Gegensatzindifferenz","Übergegensätzlichkeit (Lask)","","11","35","ref",3255,
+  "Gegensatzindifferenz","Übergegensätzlichkeit","(Lask)","11","35","ref",3255,
   "Übergegensätzlichkeit; übergegensätzlich","gegensatzindifferenz"
  ],
  [
-  "Gegensatzlosigkeit","Übergegensätzlichkeit (Lask)","","11","35","ref",3255,
+  "Gegensatzlosigkeit","Übergegensätzlichkeit","(Lask)","11","35","ref",3255,
   "Übergegensätzlichkeit; übergegensätzlich","gegensatzlosigkeit"
  ],
  ["Gegensatzlosigkeit Gottes","Gott","VI","3","747","ref",1162,"Gott","gegensatzlosigkeit gottes"],
@@ -561,12 +557,34 @@ HWPH.put("r/67-65",
   "Gegenstände, abstrakte","Universalien","II","11","191","ref",3302,"Universalien",
   "gegenstande, abstrakte"
  ],
+ ["Gegenständigkeit","Anwesenheit","",null,null,"ref",196,"Anwesenheit","gegenstandigkeit"],
  [
   "Gegenständlichkeit","Gegenstand","I (erk.)",null,null,"ref",1020,"Gegenstand",
   "gegenstandlichkeit"
  ],
  ["Gegenständlichkeit","Bewegung","III","1","878","ref",408,"Bewegung","gegenstandlichkeit"],
- ["Gegenständlichkeit","Prinzip","III",null,null,"ref",2458,"Prinzip","gegenstandlichkeit"],
+ ["Gegenständlichkeit","Prinzip","III 6 a","7","1370","ref",2458,"Prinzip","gegenstandlichkeit"],
+ ["Gegenstand","Gegenstand","","3","129–134","main",1020,"Gegenstand","gegenstand"],
+ ["Gegenstand","Gegebenes","",null,null,"see",null,null,"gegenstand"],
+ [
+  "Gegenstand","Gegenstandstheorie","(Meinong)",null,null,"see",1021,"Gegenstandstheorie",
+  "gegenstand"
+ ],
+ [
+  "Gegenstand","Noumenon/Phaenomenon","(Kant)",null,null,"see",2172,"Noumenon/Phaenomenon",
+  "gegenstand"
+ ],
+ ["Gegenstand","Objekt","",null,null,"see",2183,"Objekt","gegenstand"],
+ [
+  "Gegenstand","Kennzeichnung","",null,null,"see",1558,"Kennzeichnung, Kennzeichnungstheorie",
+  "gegenstand"
+ ],
+ [
+  "Gegenstand","Referenz; Referenztheorie","",null,null,"see",2632,"Referenz, Referenztheorie",
+  "gegenstand"
+ ],
+ ["Gegenstand","Atomismus","lII (log.)","1","605","ref",280,"Atomismus","gegenstand"],
+ ["Gegenstand","Erleben; Erlebnis","","2","708","ref",804,"Erleben, Erlebnis","gegenstand"],
  [
   "Gegenstand, ästhetischer","Kunst; Kunstwerk","V 2","4","1421","ref",1712,"Kunst, Kunstwerk",
   "gegenstand, asthetischer"
@@ -605,9 +623,10 @@ HWPH.put("r/67-65",
  ],
  ["Gegenstand, vager","Vagheit","","11","537","ref",3370,"Vagheit; vage","gegenstand, vager"],
  [
-  "Gegenstandsbezug","Referenz; Referenztheorie Gegenstandsentsprechung","",null,null,"ref",2632,
-  "Referenz, Referenztheorie","gegenstandsbezug"
+  "Gegenstandsbezug","Referenz; Referenztheorie","",null,null,"ref",2632,"Referenz, Referenztheorie",
+  "gegenstandsbezug"
  ],
+ ["Gegenstandsentsprechung","Anspruch","II","1","356","ref",168,"Anspruch","gegenstandsentsprechung"],
  [
   "Gegenstandskalkül","Umfangslogik/Inhaltslogik","","11","84","ref",3271,
   "Umfangslogik/Inhaltslogik","gegenstandskalkul"
@@ -634,7 +653,7 @@ HWPH.put("r/67-65",
   "gegenstandstheorie"
  ],
  [
-  "Gegenstandstheorie","Sein; Seiendes","V",null,null,"see",2806,"Sein; Seiendes",
+  "Gegenstandstheorie","Sein; Seiendes","V 8",null,null,"see",2806,"Sein; Seiendes",
   "gegenstandstheorie"
  ],
  [
@@ -703,7 +722,7 @@ HWPH.put("r/67-65",
  ["Geheimnis","Mysterium","","6","265","ref",2048,"Mysterium","geheimnis"],
  ["Geheimnis","Offenbarung","IV","6","1125","ref",2203,"Offenbarung","geheimnis"],
  [
-  "Geheimnis","Paradox II (theol.)","","7","94","ref",2270,"Paradox, Paradox(e), Paradoxie",
+  "Geheimnis","Paradox","II (theol.)","7","94","ref",2270,"Paradox, Paradox(e), Paradoxie",
   "geheimnis"
  ],
  ["Geheimnis","Religion","VIII 7","8","692","ref",2673,"Religion","geheimnis"],
@@ -715,7 +734,10 @@ HWPH.put("r/67-65",
  ],
  ["Geheimwissenschaft","Magie","",null,null,"see",1845,"Magie","geheimwissenschaft"],
  ["Geheimwissenschaft","Okkultismus","",null,null,"see",2208,"Okkultismus","geheimwissenschaft"],
- ["Geheimwissenschaft","Philosophie","III B",null,null,"see",2353,"Philosophie","geheimwissenschaft"],
+ [
+  "Geheimwissenschaft","Philosophie","III B 3",null,null,"see",2353,"Philosophie",
+  "geheimwissenschaft"
+ ],
  ["gehenna","Verdammung","","11","599","ref",3389,"Verdammung; Verwerfung","gehenna"],
  ["Gehirn","Herz","","3","1101f.","ref",1265,"Herz","gehirn"],
  ["Gehirn","Schmerz","III","8","1323","ref",2773,"Schmerz","gehirn"],
@@ -780,11 +802,7 @@ HWPH.put("r/67-65",
  ],
  ["Geist/Leben","Leben","V","5","79","ref",1735,"Leben","geist/leben"],
  ["Geist/Materie","Materialismus","",null,null,"ref",1886,"Materialismus","geist/materie"],
- [
-  "Geist/Materie","Rehabilitation der Materie/des Fleisches","",null,null,"ref",null,null,
-  "geist/materie"
- ],
- ["Geist/Materie","Materie","III","5","909","ref",1892,"Materie","geist/materie"],
+ ["Geist/Materie","Rehabilitation der Materie/des","",null,null,"ref",null,null,"geist/materie"],
  [
   "Geist, absoluter","Absolut; das Absolute","","1","22f.","ref",27,"Absolut, das Absolute",
   "geist, absoluter"
@@ -822,7 +840,11 @@ HWPH.put("r/67-65",
   "Geist, objektiver","Geistiges Sein","(Hartmann)","3","216","ref",1038,"Geistiges Sein",
   "geist, objektiver"
  ],
- ["Geist, objektiver","Objektivation","",null,null,"ref",2187,"Objektivation","geist, objektiver"],
+ [
+  "Geist, objektiver","Objektivation des Geistes/des Lebens","(Dilthey)","6","1056","ref",2188,
+  "Objektivation des Geistes /des Lebens","geist, objektiver"
+ ],
+ ["Geist, objektivierter","Geist","IX","3","201","ref",1030,"Geist","geist, objektivierter"],
  [
   "Geist, objektivierter","Geist, objektivierter","(Hartmann)","3","206f.","main",1033,
   "Geist, objektivierter","geist, objektivierter"
@@ -880,6 +902,10 @@ HWPH.put("r/67-65",
  ["Geisterlehre","Pneumatologie","","7","997","ref",2385,"Pneumatologie, Pneumatik","geisterlehre"],
  ["Geisterreich","Geist","VII","3","183","ref",1030,"Geist","geisterreich"],
  ["Geisterwelt","Geist","VII","3","183","ref",1030,"Geist","geisterwelt"],
+ [
+  "Geistesaristokratie","Aristokratie; Adel","","1","508","ref",245,"Aristokratie, Adel",
+  "geistesaristokratie"
+ ],
  ["Geistesbildung","Bildung","","1","927","ref",435,"Bildung","geistesbildung"],
  ["Geisteschemie","Geistesgeschichte","","3","208","ref",1034,"Geistesgeschichte","geisteschemie"],
  [
@@ -911,8 +937,16 @@ HWPH.put("r/67-65",
   "geistesgeschichte"
  ],
  [
-  "Geistesgeschichte","Sozialgeschichte Geisteskräfte","",null,null,"see",null,null,
+  "Geistesgeschichte","Sozialgeschichte","",null,null,"see",2943,"Sozialgeschichte; Sozialhistorie",
   "geistesgeschichte"
+ ],
+ [
+  "Geisteskräfte","Potenzen","II 1 (theol.)","7","1170","ref",2423,"Potenz, Potenzen",
+  "geisteskrafte"
+ ],
+ [
+  "Geisteskräfte","Produktion","I (nat.)","7","1423","ref",2469,"Produktion, Produktivität",
+  "geisteskrafte"
  ],
  [
   "Geisteskrankheit","Geisteskrankheit","","3","210f.","main",1035,"Geisteskrankheit",
@@ -931,11 +965,8 @@ HWPH.put("r/67-65",
  ["Geisteskrankheit","Wahn","",null,null,"see",3520,"Wahn","geisteskrankheit"],
  ["Geisteskrankheit","Wahnsinn","",null,null,"see",3521,"Wahnsinn","geisteskrankheit"],
  ["Geisteskrankheit","Reflexion","","8","399","ref",2634,"Reflexion","geisteskrankheit"],
- ["Geisteslehre","Pneumatologie Geistesphysik","",null,null,"ref",null,null,"geisteslehre"],
- [
-  "Geistesgeschichte","Geistesgeschichte","","3","208","main",1034,"Geistesgeschichte",
-  "geistesgeschichte"
- ],
+ ["Geisteslehre","Pneumatologie","",null,null,"ref",2385,"Pneumatologie, Pneumatik","geisteslehre"],
+ ["Geistesphysik","Geistesgeschichte","","3","208","ref",1034,"Geistesgeschichte","geistesphysik"],
  ["Geistestätigkeit","Operation","",null,null,"ref",2226,"Operation","geistestatigkeit"],
  ["Geisteswelt, höhere","Geist","VIII","3","197","ref",1030,"Geist","geisteswelt, hohere"],
  [
@@ -972,12 +1003,12 @@ HWPH.put("r/67-65",
   "geisteswissenschaftliche padagogik"
  ],
  [
-  "geisteswissenschaftliche Psychologie","Psychologie","",null,null,"ref",2511,"Psychologie",
-  "geisteswissenschaftliche psychologie"
+  "geisteswissenschaftliche Psychologie","Psychologie, geisteswissenschaftliche","",null,null,"ref",
+  2511,"Psychologie","geisteswissenschaftliche psychologie"
  ],
  [
-  "geisteswissenschaftliche geistige Aristokratie","Gelehrtenrepublik","","3","230","ref",1043,
-  "Gelehrtenrepublik","geisteswissenschaftliche geistige aristokratie"
+  "geistige Aristokratie","Gelehrtenrepublik","","3","230","ref",1043,"Gelehrtenrepublik",
+  "geistige aristokratie"
  ],
  ["geistige Übung","Übung","",null,null,"ref",3270,"Übung","geistige ubung"],
  [
@@ -997,9 +1028,10 @@ HWPH.put("r/67-65",
   "geistiges sein"
  ],
  [
-  "Geistiges Sein","Schichtenlehre I (Hartmann) Geistigkeit","",null,null,"see",null,null,
-  "geistiges sein"
+  "Geistiges Sein","Schichtenlehre","I (Hartmann)",null,null,"see",2762,
+  "Schichtenlehre, Schichtentheorie","geistiges sein"
  ],
+ ["Geistigkeit","Sobornost","",null,null,"ref",2913,"Sobornost","geistigkeit"],
  ["Geistkirche","Ecclesia spiritualis","","2","309","ref",649,"Ecclesia spiritualis","geistkirche"],
  [
   "geistlich/weltlich","Säkularisierung","",null,null,"ref",2738,"Säkularisierung",
@@ -1033,7 +1065,13 @@ HWPH.put("r/67-65",
  ["Gelassenheit","Ataraxie","",null,null,"see",272,"Ataraxie","gelassenheit"],
  ["Gelassenheit","Désintéressement","",null,null,"see",570,"Désintéressement","gelassenheit"],
  ["Gelassenheit","Eigenwille","",null,null,"see",671,"Eigenwille, Eigensinn","gelassenheit"],
- ["Gelassenheit","Resignation Gelassenheit","",null,null,"see",null,null,"gelassenheit"],
+ ["Gelassenheit","Resignation","",null,null,"see",2693,"Resignation, resignieren","gelassenheit"],
+ ["Gelassenheit","Apathie","I (eth.)","1","431","ref",198,"Apathie","gelassenheit"],
+ ["Gelassenheit","Gewöhnung","","3","622","ref",1134,"Gewöhnung","gelassenheit"],
+ [
+  "Gelassenheit","Vernunft; Verstand","III E","11","788","ref",3423,"Vernunft; Verstand",
+  "gelassenheit"
+ ],
  ["Geld","Geld","","3","224–226","main",1042,"Geld","geld"],
  ["Geld","Gegenseitigkeit","","3","120","ref",1019,"Gegenseitigkeit","geld"],
  ["Geld","Verkehr","","11","703","ref",3410,"Verkehr","geld"],
@@ -1043,23 +1081,26 @@ HWPH.put("r/67-65",
   "geldfetisch"
  ],
  ["Geldgeiz","Geiz","",null,null,"ref",1040,"Geiz","geldgeiz"],
- ["Gelegenheit","Anlass Gelehrsamkeit","",null,null,"ref",null,null,"gelegenheit"],
+ ["Gelegenheit","Anlass","",null,null,"ref",152,"Anlaß","gelegenheit"],
+ [
+  "Gelehrsamkeit","Polyhistorie; Polymathie","",null,null,"ref",2400,"Polyhistorie/Polymathie",
+  "gelehrsamkeit"
+ ],
+ ["Gelehrsamkeit","Philosophie","IV D","7","709ff.","ref",2353,"Philosophie","gelehrsamkeit"],
  [
   "Gelehrtenrepublik","Gelehrtenrepublik","","3","226–232","main",1043,"Gelehrtenrepublik",
   "gelehrtenrepublik"
  ],
- ["Gelehrtenrepublik","Akademie Gelehrter","",null,null,"see",null,null,"gelehrtenrepublik"],
+ ["Gelehrtenrepublik","Akademie","",null,null,"see",71,"Akademie, akademisch","gelehrtenrepublik"],
+ ["Gelehrter","Gelehrtenrepublik","",null,null,"ref",1043,"Gelehrtenrepublik","gelehrter"],
+ ["Gelehrter","Schöner Geist","","8","1386","ref",2777,"Schöner Geist, Schöngeist","gelehrter"],
  [
-  "Gelehrtenrepublik","Gelehrtenrepublik","",null,null,"main",1043,"Gelehrtenrepublik",
-  "gelehrtenrepublik"
- ],
- [
-  "Gelehrtenrepublik","Schöner Geist","","8","1386","ref",2777,"Schöner Geist, Schöngeist",
-  "gelehrtenrepublik"
- ],
- [
-  "Gelichtetsein","Erschlossenheit (Heidegger) γελο͂ιος","",null,null,"ref",null,null,
+  "Gelichtetsein","Erschlossenheit","(Heidegger)",null,null,"ref",815,"Erschlossenheit, Erschließen",
   "gelichtetsein"
+ ],
+ [
+  "Gelten; Geltung","Gelten; Geltung","","3","232–235","main",1044,"Gelten, Geltung",
+  "gelten; geltung"
  ],
  [
   "Gelten; Geltung","Syllogismus; Syllogistik","",null,null,"ref",3091,"Syllogismus; Syllogistik",
@@ -1202,7 +1243,8 @@ HWPH.put("r/67-65",
   "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","gemeinschaftsgefuhl"
  ],
  ["Gemeinsinn","Gemeinsinn","","3","243–247","main",1050,"Gemeinsinn","gemeinsinn"],
- ["Gemeinsinn","Sensus communis","",null,null,"see",2869,"Sensus communis","gemeinsinn"],
+ ["Gemeinsinn","Sensus communis","III-IV",null,null,"see",2869,"Sensus communis","gemeinsinn"],
+ ["Gemeinsinn","Übereinstimmung","","11","22","ref",3251,"Übereinstimmung","gemeinsinn"],
  ["Gemeintes","Gemeintes","","3","247","main",1051,"Gemeintes","gemeintes"],
  [
   "Gemeinvorstellung","Allgemeinvorstellung","",null,null,"ref",102,"Allgemeinvorstellung",
@@ -1254,16 +1296,8 @@ HWPH.put("r/67-65",
  ["Gen","Vererbung","I (biol.)",null,null,"see",3395,"Vererbung","gen"],
  ["genau","Exakt/unexakt","",null,null,"ref",856,"Exakt/unexakt","genau"],
  [
-  "Genau dann, wenn..., so...","Genau dann, wenn..., so...","","3","268","main",1058,
-  "Genau dann, wenn ..., so","genau dann, wenn..., so..."
- ],
- [
-  "Genau dann, wenn..., so...","Äquivalenz","",null,null,"see",228,"Äquivalenz",
-  "genau dann, wenn..., so..."
- ],
- [
-  "Genau dann, wenn..., so...","Bisubjunktion","",null,null,"see",450,"Bisubjunktion",
-  "genau dann, wenn..., so..."
+  "Genau dann, wenn","Genau dann, wenn","",null,null,"main",1058,"Genau dann, wenn ..., so",
+  "genau dann, wenn"
  ],
  ["Genauigkeit","Praecisio","II (Cusanus)",null,null,"ref",2429,"Praecisio","genauigkeit"],
  ["Genauigkeit","Subtilität","","10","563","ref",3067,"Subtilität","genauigkeit"],
@@ -1308,7 +1342,7 @@ HWPH.put("r/67-65",
  ],
  ["generable","Algorithmus","","1","155","ref",97,"Algorithmus","generable"],
  [
-  "general/particular","Allgemeines/Besonderes","III",null,null,"ref",101,"Allgemeines/Besonderes",
+  "general/particular","Allgemeines/Besonderes","III 4",null,null,"ref",101,"Allgemeines/Besonderes",
   "general/particular"
  ],
  [
@@ -1323,8 +1357,21 @@ HWPH.put("r/67-65",
  ],
  ["general mind","Weltgeist","","12","476","ref",3566,"Weltgeist","general mind"],
  ["general names","Nominalismus","II","6","884","ref",2150,"Nominalismus","general names"],
- ["general will","Volonté générale Generalassumption","",null,null,"ref",null,null,"general will"],
- ["generalis/specialis","Modalität","",null,null,"ref",1995,"Modalität","generalis/specialis"],
+ [
+  "general will","Volonté générale","",null,null,"ref",3485,"Volonté générale; volonté de tous",
+  "general will"
+ ],
+ ["Generalassumption","Setzen","II","9","717","ref",2876,"Setzen, Setzung","generalassumption"],
+ [
+  "generalis/specialis","Modalität des Urteils","","6","13","ref",1996,"Modalität (des Urteils)",
+  "generalis/specialis"
+ ],
+ ["Generalisation","Generalisation","","3","269","main",1060,"Generalisation","generalisation"],
+ [
+  "Generalisation","Reaktion, bedingte","",null,null,"see",2582,"Reaktion, bedingte",
+  "generalisation"
+ ],
+ ["Generalisation","Reiz und Reaktion","",null,null,"see",2662,"Reiz und Reaktion","generalisation"],
  [
   "Generalisation (log.)","Generalisierung","I (log.)",null,null,"ref",1062,"Generalisierung",
   "generalisation (log.)"
@@ -1334,12 +1381,13 @@ HWPH.put("r/67-65",
   "generalisation (psych.)"
  ],
  ["Generalisator","Generalisator","","3","269","main",1061,"Generalisator","generalisator"],
+ ["Generalisator","Quantor","",null,null,"see",2554,"Quantor, Quantifikator","generalisator"],
  [
-  "Generalisator","Quantor generalisieren/individualisieren","",null,null,"see",null,null,
-  "generalisator"
+  "generalisieren/individualisieren","Individualisieren/Generalisieren","",null,null,"ref",1416,
+  "Individualisieren/Generalisieren","generalisieren/individualisieren"
  ],
  [
-  "generalisierend","Erklären I (Dilthey)","","2","692","ref",801,"Erklären, Erklärung",
+  "generalisierend","Erklären","I (Dilthey)","2","692","ref",801,"Erklären, Erklärung",
   "generalisierend"
  ],
  ["Generalisierung","Generalisierung","","3","269f.","main",1062,"Generalisierung","generalisierung"],
@@ -1349,6 +1397,20 @@ HWPH.put("r/67-65",
  ],
  [
   "Generalisierung","Universalisierung","",null,null,"see",3303,"Universalisierung",
+  "generalisierung"
+ ],
+ [
+  "Generalisierung","Ascensus/Descensus","",null,null,"see",258,"Ascensus/Descensus",
+  "generalisierung"
+ ],
+ ["Generalisierung","Generalisator","",null,null,"see",1061,"Generalisator","generalisierung"],
+ ["Generalisierung","Quantifikation","",null,null,"see",2549,"Quantifikation","generalisierung"],
+ [
+  "Generalisierung","Formalisierung","II (Husserl)",null,null,"see",929,"Formalisierung",
+  "generalisierung"
+ ],
+ [
+  "Generalisierung","Reduktion, eidetische","(Husserl)",null,null,"see",2625,"Reduktion, eidetische",
   "generalisierung"
  ],
  [
@@ -1441,9 +1503,10 @@ HWPH.put("r/67-65",
  ["Genetik","Genetik","","3","278","main",1070,"Genetik","genetik"],
  ["Genetik","Gen","",null,null,"see",1057,"Gen","genetik"],
  ["Genetik","Vererbung","I (biol.)",null,null,"see",3395,"Vererbung","genetik"],
+ ["genetisch","Genese; genetisch","",null,null,"ref",1069,"Genese, genetisch","genetisch"],
  [
-  "genetisch","Genese; genetisch genetische Epistemologie","",null,null,"ref",1069,
-  "Genese, genetisch","genetisch"
+  "genetische Epistemologie","Psychologie","","7","1634","ref",2511,"Psychologie",
+  "genetische epistemologie"
  ],
  [
   "genetische Ganzheitspsychologie","Psychologie, genetische","","7","1659","ref",2515,
@@ -1476,13 +1539,22 @@ HWPH.put("r/67-65",
  ["Genie","Dämonisch","",null,null,"see",519,"Dämonisch, das Dämonische","genie"],
  ["Genie","Ingenium","",null,null,"see",1436,"Ingenium","genie"],
  ["Genie","Original; Originalität","",null,null,"see",2250,"Original, Originalität","genie"],
- ["Genie","Produktion III (ästh.)","",null,null,"see",2469,"Produktion, Produktivität","genie"],
+ ["Genie","Produktion","III (ästh.)",null,null,"see",2469,"Produktion, Produktivität","genie"],
  ["Genie","Talent","",null,null,"see",3124,"Talent","genie"],
  ["Genie","Witz","",null,null,"see",3648,"Witz","genie"],
  ["Genie","Ausnahme","I (Kierkegaard)",null,null,"ref",307,"Ausnahme","genie"],
  ["Genie","Bionegativ","",null,null,"ref",442,"Bionegativ","genie"],
  ["Genie","Autonomie","","1","710","ref",327,"Autonomie","genie"],
  ["Genie","Geist","VII","3","184","ref",1030,"Geist","genie"],
+ ["Genie","Geschmack","III","3","454","ref",1097,"Geschmack","genie"],
+ ["Genie","Held; Heros","II","3","1046","ref",1243,"Held, Heros","genie"],
+ ["Genie","Imagination","II","4","220","ref",1389,"Imagination","genie"],
+ [
+  "Genie","Invention; Erfindung","III (log.)","4","561f.","ref",1490,
+  "Invention, Erfindung, Entdeckung","genie"
+ ],
+ ["Genie","Je-ne-sais-quoi","","4","643","ref",1508,"Je ne sais quoi","genie"],
+ ["Genie","Manie","II","5","721","ref",1861,"Manie","genie"],
  ["génie","Geschmack","I","3","447","ref",1097,"Geschmack","genie"],
  ["genitura","Zeugung","",null,null,"ref",3693,"Zeugung","genitura"],
  ["Genius","Dämonisch","",null,null,"ref",519,"Dämonisch, das Dämonische","genius"],
@@ -1522,7 +1594,11 @@ HWPH.put("r/67-65",
  ["Genus; Sexus","Genus; Sexus","","3","311–315","main",1075,"Genus, Sexus","genus; sexus"],
  ["genus","Allgemeines/Besonderes","II",null,null,"ref",101,"Allgemeines/Besonderes","genus"],
  ["genus","Arbor porphyriana","",null,null,"ref",236,"Arbor porphyriana, porphyrischer Baum","genus"],
- ["genus","Gattung; Genus genus deliberativum","",null,null,"ref",991,"Gattung, Genus","genus"],
+ ["genus","Gattung; Genus","",null,null,"ref",991,"Gattung, Genus","genus"],
+ [
+  "genus deliberativum","Rhetorik","","8","1018","ref",2713,"Rhetorik, Redekunst",
+  "genus deliberativum"
+ ],
  [
   "genus demonstrativum","Rhetorik","","8","1018","ref",2713,"Rhetorik, Redekunst",
   "genus demonstrativum"
@@ -1532,9 +1608,10 @@ HWPH.put("r/67-65",
   "genus generalissimum"
  ],
  [
-  "genus humanum","Menschheit; Menschengeschlecht genus iudiciale","",null,null,"ref",1925,
+  "genus humanum","Menschheit; Menschengeschlecht","",null,null,"ref",1925,
   "Menschheit, Menschengeschlecht","genus humanum"
  ],
+ ["genus iudiciale","Rhetorik","","8","1018","ref",2713,"Rhetorik, Redekunst","genus iudiciale"],
  ["genus tertium","Weiblich/männlich","I","12","345","ref",3552,"Weiblich/männlich","genus tertium"],
  ["Genuss","Genuss","","3","316–322","main",1076,"Genuß","genuss"],
  ["Genuss","Glück","",null,null,"see",1155,"Glück, Glückseligkeit","genuss"],
@@ -1542,7 +1619,7 @@ HWPH.put("r/67-65",
  ["Genuss","Lust; Freude","",null,null,"see",1837,"Lust, Freude","genuss"],
  ["Genuss","Uti/frui","",null,null,"see",3365,"Uti/frui","genuss"],
  ["Genuss","Nutzen; Grenznutzen","","6","1009f.","ref",2178,"Nutzen, Grenznutzen","genuss"],
- ["Geographie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"geographie s. auch"],
+ ["Geographie","Register der Sachgruppen","",null,null,"see",null,null,"geographie"],
  [
   "Geographie, philosophische","Geographie, philosophische","","3","322–324","main",1077,
   "Geographie, philosophische","geographie, philosophische"
@@ -1632,6 +1709,11 @@ HWPH.put("r/67-65",
  ["Gerechtigkeit","Seelenwanderung","I","9","117","ref",2801,"Seelenwanderung","gerechtigkeit"],
  ["Gerechtigkeit","Übereinstimmung","","11","25","ref",3251,"Übereinstimmung","gerechtigkeit"],
  ["Gerechtigkeit","Utilitarismus","","11","504","ref",3366,"Utilitarismus","gerechtigkeit"],
+ ["Gerechtigkeit","Wahrheit","VI A","12","109f.","ref",3523,"Wahrheit","gerechtigkeit"],
+ [
+  "Gerechtigkeit","Wahrheit (Pravda/Istina)","","12","133","ref",3525,"Wahrheit (Pravda/Istina)",
+  "gerechtigkeit"
+ ],
  [
   "Gerechtigkeit, ausgleichende","Verteilungsgerechtigkeit","","11","960","ref",3444,
   "Verteilungsgerechtigkeit","gerechtigkeit, ausgleichende"
@@ -1716,7 +1798,10 @@ HWPH.put("r/67-65",
   "geschaftigkeit"
  ],
  ["Geschäftigkeit","Seelenruhe","II","9","101","ref",2797,"Seelenruhe","geschaftigkeit"],
- ["geschäftliches Denken","Dialektik","IV",null,null,"ref",583,"Dialektik","geschaftliches denken"],
+ [
+  "geschäftliches Denken","Dialektik","IV 1. 6","2","194","ref",583,"Dialektik",
+  "geschaftliches denken"
+ ],
  [
   "geschehene Geschichte","Geschichte","V","3","374","ref",1085,"Geschichte, Historie",
   "geschehene geschichte"
@@ -1724,8 +1809,8 @@ HWPH.put("r/67-65",
  ["Geschehnis","Poiesis","II","7","1025","ref",2390,"Poiesis","geschehnis"],
  ["Geschehnis","Widerfahrnis","","12","679","ref",3604,"Widerfahrnis","geschehnis"],
  [
-  "Geschichte s. auch","Register der Sachgruppen: Geschichtsphilosophie","",null,null,"ref",null,
-  null,"geschichte s. auch"
+  "Geschichte","Register der Sachgruppen: Geschichtsphilosophie","",null,null,"see",null,null,
+  "geschichte"
  ],
  ["Geschichte","Geschichte","","3","344–398","main",1085,"Geschichte, Historie","geschichte"],
  ["Geschichte","Historik","",null,null,"see",1280,"Historik, ars historica","geschichte"],
@@ -1830,8 +1915,12 @@ HWPH.put("r/67-65",
  ["Geschichten","Phänomenologie","III","7","500","ref",2343,"Phänomenologie","geschichten"],
  ["Geschichten/Theorien","Geschichten","",null,null,"ref",1089,"Geschichten","geschichten/theorien"],
  [
-  "Geschichtliche, das","Objektivation","",null,null,"ref",2187,"Objektivation",
-  "geschichtliche, das"
+  "Geschichtliche, das","Objektivation des Geistes/des Lebens","(Dilthey)","6","1055","ref",2188,
+  "Objektivation des Geistes /des Lebens","geschichtliche, das"
+ ],
+ [
+  "geschichtliche Vernunft","Vernunft, historische","",null,null,"ref",3424,"Vernunft, historische",
+  "geschichtliche vernunft"
  ],
  [
   "geschichtliche Wahrheit","Wahrheit","(christlichtheologisch)","12","126","ref",3524,
@@ -1842,7 +1931,7 @@ HWPH.put("r/67-65",
   "Sittlichkeit; Sittenlehre","geschichtliche welt"
  ],
  [
-  "geschichtliches Bewusstsein","Bewusstsein, geschichtliches (Dilthey)","",null,null,"ref",412,
+  "geschichtliches Bewusstsein","Bewusstsein, geschichtliches","(Dilthey)",null,null,"ref",412,
   "Bewußtsein","geschichtliches bewusstsein"
  ],
  [
@@ -1855,7 +1944,7 @@ HWPH.put("r/67-65",
   "Wirkungszusammenhang, historischer","geschichtlichkeit"
  ],
  [
-  "Geschichtlichkeit","Bewusstsein, geschichtliches (Dilthey)","",null,null,"ref",412,"Bewußtsein",
+  "Geschichtlichkeit","Bewusstsein, geschichtliches","(Dilthey)",null,null,"ref",412,"Bewußtsein",
   "geschichtlichkeit"
  ],
  [
@@ -1875,23 +1964,40 @@ HWPH.put("r/67-65",
   "geschichtlichkeit des daseins"
  ],
  [
-  "Geschichtsanschauung, monistische","Materialismus","",null,null,"ref",1886,"Materialismus",
+  "Geschichtsanschauung, monistische","Materialismus, historischer","3","5","862","ref",1888,
+  "Materialismus, historischer, materialistische Geschichtsauffassung",
   "geschichtsanschauung, monistische"
  ],
  [
-  "Geschichtsbewusstsein","Bewusstsein, geschichtliches (Dilthey) Geschichtskunde","",null,null,
-  "ref",412,"Bewußtsein","geschichtsbewusstsein"
+  "Geschichtsauffassung, materialistische","Geschichtsauffassung, materialistische","","3","408–413",
+  "main",1091,"Geschichtsauffassung, materialistische","geschichtsauffassung, materialistische"
  ],
- ["Geschichte","Geschichte","IV","3","364","main",1085,"Geschichte, Historie","geschichte"],
- ["Geschichtskunst","Historik Geschichtslogik","",null,null,"ref",null,null,"geschichtskunst"],
+ [
+  "Geschichtsauffassung, ökonomische","Geschichtsauffassung, materialistische","","3","411","ref",
+  1091,"Geschichtsauffassung, materialistische","geschichtsauffassung, okonomische"
+ ],
+ [
+  "Geschichtsbewusstsein","Bewusstsein, geschichtliches","(Dilthey)",null,null,"ref",412,
+  "Bewußtsein","geschichtsbewusstsein"
+ ],
+ ["Geschichtskunde","Geschichte","IV","3","364","ref",1085,"Geschichte, Historie","geschichtskunde"],
+ ["Geschichtskunst","Historik","",null,null,"ref",1280,"Historik, ars historica","geschichtskunst"],
+ [
+  "Geschichtslogik","Logik, historische","",null,null,"ref",1810,"Logik, historische",
+  "geschichtslogik"
+ ],
  [
   "Geschichtslosigkeit","Geschichtslosigkeit","","3","413–416","main",1092,"Geschichtslosigkeit",
   "geschichtslosigkeit"
  ],
  ["Geschichtslosigkeit","Posthistoire","",null,null,"see",2415,"Posthistoire","geschichtslosigkeit"],
  [
-  "Geschichtslosigkeit","Übergeschichtlich Geschichtslosigkeit","",null,null,"see",null,null,
-  "geschichtslosigkeit"
+  "Geschichtslosigkeit","Übergeschichtlich","",null,null,"see",3256,
+  "Übergeschichtlich; überhistorisch","geschichtslosigkeit"
+ ],
+ [
+  "Geschichtslosigkeit","Naturvölker/Kulturvölker","","6","638","ref",2092,
+  "Naturvölker/Kulturvölker","geschichtslosigkeit"
  ],
  [
   "Geschichtsmetaphysik","Geschichtsphilosophie","","3","434","ref",1093,"Geschichtsphilosophie",
@@ -1910,7 +2016,23 @@ HWPH.put("r/67-65",
   "geschichtsphilosophie"
  ],
  [
-  "Geschichtsphilosophie","Weltgeschichte Geschichtsphilosophie","",null,null,"see",null,null,
+  "Geschichtsphilosophie","Weltgeschichte","",null,null,"see",3567,
+  "Weltgeschichte; Universalgeschichte","geschichtsphilosophie"
+ ],
+ [
+  "Geschichtsphilosophie","Anthropologie","","1","366ff.","ref",175,"Anthropologie",
+  "geschichtsphilosophie"
+ ],
+ [
+  "Geschichtsphilosophie","Eschatologie","","2","742","ref",825,"Eschatologie",
+  "geschichtsphilosophie"
+ ],
+ [
+  "Geschichtsphilosophie","Geschichte","VI","3","385","ref",1085,"Geschichte, Historie",
+  "geschichtsphilosophie"
+ ],
+ [
+  "Geschichtsphilosophie","Säkularisierung","","8","1144f.","ref",2738,"Säkularisierung",
   "geschichtsphilosophie"
  ],
  ["Geschichtsreligion","Religion","VIII 2","8","687","ref",2673,"Religion","geschichtsreligion"],
@@ -1947,8 +2069,12 @@ HWPH.put("r/67-65",
   "geschichtstheologie"
  ],
  [
-  "Geschichtstheorie","Historik Geschichtsverweigerung","",null,null,"ref",null,null,
+  "Geschichtstheorie","Historik","",null,null,"ref",1280,"Historik, ars historica",
   "geschichtstheorie"
+ ],
+ [
+  "Geschichtsverweigerung","Verweigerung; Dissidenz","I","11","1003","ref",3451,
+  "Verweigerung; Dissidenz","geschichtsverweigerung"
  ],
  [
   "Geschichtsvölker","Naturvölker/Kulturvölker","","6","638","ref",2092,"Naturvölker/Kulturvölker",
@@ -1970,9 +2096,10 @@ HWPH.put("r/67-65",
  ["Geschick","Seinsgeschichte","(Heidegger)","9","259","ref",2812,"Seinsgeschichte","geschick"],
  ["Geschlecht","Generation","",null,null,"ref",1066,"Generation","geschlecht"],
  ["Geschlecht","Sexualität","",null,null,"ref",2878,"Sexualität","geschlecht"],
+ ["Geschlecht (ling.)","Genus; Sexus","",null,null,"ref",991,"Gattung, Genus","geschlecht (ling.)"],
  [
-  "Geschlecht (ling.)","Genus; Sexus Geschlecht, drittes","",null,null,"ref",991,"Gattung, Genus",
-  "geschlecht (ling.)"
+  "Geschlecht, drittes","Weiblich/männlich","I","12","345","ref",3552,"Weiblich/männlich",
+  "geschlecht, drittes"
  ],
  [
   "Geschlechterdifferenz","Sexismus; Feminismus","",null,null,"ref",2877,"Sexismus/Feminismus",
@@ -2037,7 +2164,8 @@ HWPH.put("r/67-65",
  ["Geschmack","Empfindung","I (erk.)","2","458f.","ref",723,"Empfindung","geschmack"],
  ["Geschmack","Gemeinsinn","","3","246","ref",1050,"Gemeinsinn","geschmack"],
  ["Geschmack","Lust; Freude","III","5","559f.","ref",1837,"Lust, Freude","geschmack"],
- ["Geschmack","Schöne","",null,null,"ref",2776,"Schöne","geschmack"],
+ ["Geschmack","Schöne, das","IV B","8","1372f.","ref",2776,"Schöne","geschmack"],
+ ["Geschmack","Urteilskraft","","11","480","ref",3359,"Urteilskraft; Urteilsvermögen","geschmack"],
  ["Geschmack, guter","Gefühl","I","3","83","ref",1009,"Gefühl","geschmack, guter"],
  [
   "Geschmack, guter","Sensus communis","III","9","649","ref",2869,"Sensus communis",
@@ -2052,7 +2180,11 @@ HWPH.put("r/67-65",
   "Geschmacksurteil","Urteil, ästhetisches","","11","463","ref",3356,"Urteil, ästhetisches",
   "geschmacksurteil"
  ],
- ["Geschöpf","Kreatur Geschöpf, doppelsinniges","",null,null,"ref",null,null,"geschopf"],
+ ["Geschöpf","Kreatur","",null,null,"ref",1686,"Kreatur, Kreatürlichkeit","geschopf"],
+ [
+  "Geschöpf, doppelsinniges","Sinnenwelt/Verstandeswelt","","9","873","ref",2893,
+  "Sinnenwelt/Verstandeswelt","geschopf, doppelsinniges"
+ ],
  ["Geselligkeit","Geselligkeit","","3","456–458","main",1097,"Geschmack","geselligkeit"],
  ["Geselligkeit","Schicklich","",null,null,"see",2763,"Schicklich","geselligkeit"],
  ["Geselligkeit","Umgang","",null,null,"see",3272,"Umgang","geselligkeit"],
@@ -2116,12 +2248,24 @@ HWPH.put("r/67-65",
   "Moral, offene/geschlossene","gesellschaft, geschlossene/offene"
  ],
  [
-  "Gesellschaft, geschlossene/offene","Rationalismus","",null,null,"ref",2574,"Rationalismus",
+  "Gesellschaft, geschlossene/offene","Rationalismus, kritischer","(Popper)","8","51","ref",2575,
+  "Rationalismus, Kritischer","gesellschaft, geschlossene/offene"
+ ],
+ [
+  "Gesellschaft, geschlossene/offene","Wandel","","12","315","ref",3543,"Wandel; Veränderung",
   "gesellschaft, geschlossene/offene"
  ],
  [
-  "Gesellschaft, geschlossene/offene","Gesellschaft, geschlossene/offene","(Popper)","3","473",
+  "Gesellschaft, geschlossene/offene","Gesellschaft, geschlossene/offene","(Popper)","3","473- 475",
   "main",1101,"Gesellschaft, geschlossene/offene","gesellschaft, geschlossene/offene"
+ ],
+ [
+  "Gesellschaft, industrielle","Gesellschaft, industrielle","","3","475","main",1102,
+  "Gesellschaft, industrielle","gesellschaft, industrielle"
+ ],
+ [
+  "Gesellschaft, industrielle","Drei-Stadien-Gesetz","",null,null,"see",637,"Drei-Stadien-Gesetz",
+  "gesellschaft, industrielle"
  ],
  [
   "Gesellschaft, menschliche","Gesellschaft, bürgerliche","","3","467","ref",1100,
@@ -2133,8 +2277,12 @@ HWPH.put("r/67-65",
   "Gesellschaft, geschlossene/offene","gesellschaft, offene"
  ],
  [
-  "Gesellschaft, offene","Rationalismus","",null,null,"ref",2574,"Rationalismus",
-  "gesellschaft, offene"
+  "Gesellschaft, offene","Rationalismus, kritischer","(Popper)","8","51","ref",2575,
+  "Rationalismus, Kritischer","gesellschaft, offene"
+ ],
+ [
+  "Gesellschaft, schöne","Kalokagathia","II","4","682","ref",1522,"Kalokagathia",
+  "gesellschaft, schone"
  ],
  [
   "gesellschaftliches Bewusstsein","Psychologie","","7","1619","ref",2511,"Psychologie",
@@ -2210,6 +2358,27 @@ HWPH.put("r/67-65",
  ],
  ["Gesetz","Gesetz","","3","480–514","main",1105,"Gesetz","gesetz"],
  ["Gesetz","Vorschrift","",null,null,"see",3499,"Vorschrift","gesetz"],
+ ["Gesetz","Naturrecht","",null,null,"see",2089,"Naturrecht","gesetz"],
+ ["Gesetz","Nomos","",null,null,"see",2155,"Nomos","gesetz"],
+ ["Gesetz","Recht","I",null,null,"see",2598,"Recht","gesetz"],
+ [
+  "Gesetz","Recht, positives; Rechtspositivismus","",null,null,"see",2599,
+  "Recht, positives; Rechtspositivismus","gesetz"
+ ],
+ ["Gesetz","Rechtsnorm","",null,null,"see",2610,"Rechtsnorm","gesetz"],
+ ["Gesetz","Rechtsordnung","",null,null,"see",2612,"Rechtsordnung","gesetz"],
+ ["Gesetz","Vertrag","I (allg.)",null,null,"see",3445,"Vertrag","gesetz"],
+ ["Gesetz","Antinomismus","II (jüd.)",null,null,"see",186,"Antinomismus","gesetz"],
+ ["Gesetz","Gesetz, ewiges","",null,null,"see",1106,"Gesetz, ewiges","gesetz"],
+ ["Gesetz","Gesetzlichkeit","",null,null,"see",1112,"Gesetzlichkeit","gesetz"],
+ ["Gesetz","Rechtfertigung","IV (theol.)",null,null,"see",2601,"Rechtfertigung","gesetz"],
+ ["Gesetz","Tertius usus legis","",null,null,"see",3155,"Tertius usus legis","gesetz"],
+ ["Gesetz","Erklären","",null,null,"see",801,"Erklären, Erklärung","gesetz"],
+ ["Gesetz","Gesetz, natürliches","",null,null,"see",1108,"Gesetz, natürliches","gesetz"],
+ ["Gesetz","Gesetz, physikalisches","",null,null,"see",1109,"Gesetz, physikalisches","gesetz"],
+ ["Gesetz","Kausalgesetz","",null,null,"see",1550,"Kausalgesetz","gesetz"],
+ ["Gesetz","Naturgesetzlichkeit","",null,null,"see",2085,"Naturgesetzlichkeit, Naturgesetz","gesetz"],
+ ["Gesetz","Theorie","II",null,null,"see",3179,"Theorie","gesetz"],
  [
   "Gesetz","Physis/Nomos; Physis/Thesis","",null,null,"ref",2374,"Physis/Nomos, Physis/Thesis",
   "gesetz"
@@ -2292,7 +2461,11 @@ HWPH.put("r/67-65",
   "gesetz, physikalisches"
  ],
  [
-  "Gesetz, physikalisches","Naturgesetzlichkeit Gesetz, physikalisches","",null,null,"see",null,null,
+  "Gesetz, physikalisches","Naturgesetzlichkeit","",null,null,"see",2085,
+  "Naturgesetzlichkeit, Naturgesetz","gesetz, physikalisches"
+ ],
+ [
+  "Gesetz, physikalisches","Voraussage","","11","1153","ref",3487,"Voraussage; Vorhersage; Prognose",
   "gesetz, physikalisches"
  ],
  [
@@ -2326,7 +2499,7 @@ HWPH.put("r/67-65",
   "Gesetz, moralisches","gesetz des selbstbewusstseins"
  ],
  ["Gesetz in uns","Gewissen","","3","586","ref",1130,"Gewissen","gesetz in uns"],
- ["Gesetz und Evangelium","Gesetz","II",null,null,"ref",1105,"Gesetz","gesetz und evangelium"],
+ ["Gesetz und Evangelium","Gesetz","II 4",null,null,"ref",1105,"Gesetz","gesetz und evangelium"],
  [
   "Gesetz und Evangelium","Gesetzlichkeit","II","3","534","ref",1112,"Gesetzlichkeit",
   "gesetz und evangelium"
@@ -2365,7 +2538,7 @@ HWPH.put("r/67-65",
   "gesetze, kategoriale"
  ],
  [
-  "Gesetze, kategoriale","Schichtenlehre I (Hartmann)","",null,null,"see",2762,
+  "Gesetze, kategoriale","Schichtenlehre","I (Hartmann)",null,null,"see",2762,
   "Schichtenlehre, Schichtentheorie","gesetze, kategoriale"
  ],
  [
@@ -2373,8 +2546,12 @@ HWPH.put("r/67-65",
   "gesetze, statistische"
  ],
  [
-  "Gesetze, statistische","Erklären II (wiss.) gesetzesähnlich","",null,null,"see",null,null,
+  "Gesetze, statistische","Erklären","II (wiss.)",null,null,"see",801,"Erklären, Erklärung",
   "gesetze, statistische"
+ ],
+ [
+  "gesetzesähnlich","Leib-Seele-Verhältnis","III","5","204","ref",1770,"Leib-Seele-Verhältnis",
+  "gesetzesahnlich"
  ],
  ["Gesetzesanwendung","Freirechtslehre","",null,null,"ref",947,"Freirechtslehre","gesetzesanwendung"],
  [
@@ -2452,13 +2629,14 @@ HWPH.put("r/67-65",
   "Gesetzmässigkeit gesellschaftlicher Entwicklung","Gesetz","III (wiss.)","3","507f.","ref",1105,
   "Gesetz","gesetzmassigkeit gesellschaftlicher entwicklung"
  ],
- ["Gesetztsein","Setzen I Gesichtsfeld","",null,null,"ref",null,null,"gesetztsein"],
+ ["Gesetztsein","Setzen","I",null,null,"ref",2876,"Setzen, Setzung","gesetztsein"],
+ ["Gesichtsfeld","Feld","II (psych.)","2","926f.","ref",904,"Feld, Feldtheorie","gesichtsfeld"],
  [
   "Gesichtspunkt","Standpunkt; Gesichtspunkt","",null,null,"ref",3012,"Standpunkt; Gesichtspunkt",
   "gesichtspunkt"
  ],
  [
-  "Gesichtspunkt","Perspektive I (allg.)","","7","368f.","ref",2326,
+  "Gesichtspunkt","Perspektive","I (allg.)","7","368f.","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","gesichtspunkt"
  ],
  ["Gesichtssinn","Sinne, die","",null,null,"ref",2892,"Sinne, die","gesichtssinn"],
@@ -2496,12 +2674,18 @@ HWPH.put("r/67-65",
  ["gesta","Verfahren","",null,null,"ref",3396,"Verfahren","gesta"],
  ["gesta","Weltgeschichte","","12","481","ref",3567,"Weltgeschichte; Universalgeschichte","gesta"],
  ["Gestalt","Gestalt","","3","540–548","main",1116,"Gestalt","gestalt"],
+ ["Gestalt","Gestalten, physische","",null,null,"see",1117,"Gestalten, physische","gestalt"],
+ ["Gestalt","Gestaltpsychologie","",null,null,"see",1119,"Gestaltpsychologie","gestalt"],
+ ["Gestalt","Gestaltqualität","",null,null,"see",1120,"Gestaltqualität","gestalt"],
+ ["Gestalt","Gestalttheorie","",null,null,"see",1121,"Gestalttheorie","gestalt"],
+ ["Gestalt","Prägnanz","",null,null,"see",2437,"Prägnanz, prägnant","gestalt"],
+ ["Gestalt","Struktur","IV (psych.)",null,null,"see",3040,"Struktur","gestalt"],
  ["Gestalt","Idee","I",null,null,"ref",1361,"Idee","gestalt"],
  ["Gestalt","Species","I (met.)",null,null,"ref",2966,"Species","gestalt"],
  ["Gestalt","Gehalt","","3","144","ref",1026,"Gehalt","gestalt"],
  ["Gestalt","Geschichte","VI","3","381","ref",1085,"Geschichte, Historie","gestalt"],
  [
-  "Gestalt","Schema; Schematismus I (allg.)","","8","1247","ref",2760,"Schema, Schematismus",
+  "Gestalt","Schema; Schematismus","I (allg.)","8","1247","ref",2760,"Schema, Schematismus",
   "gestalt"
  ],
  ["Gestalt (psych.)","Gemüt","II","3","264","ref",1054,"Gemüt","gestalt (psych.)"],
@@ -2513,7 +2697,7 @@ HWPH.put("r/67-65",
   "Gestalten, physische","Gestalten, physische","","3","548","main",1117,"Gestalten, physische",
   "gestalten, physische"
  ],
- ["Gestalten der Natur","Materie","IV",null,null,"ref",1892,"Materie","gestalten der natur"],
+ ["Gestalten der Natur","Materie","IV 2",null,null,"ref",1892,"Materie","gestalten der natur"],
  ["Gestaltkreis","Gestaltkreis","","3","548f.","main",1118,"Gestaltkreis","gestaltkreis"],
  ["Gestaltkreis","Gestalt","II (psych.)",null,null,"see",1116,"Gestalt","gestaltkreis"],
  [
@@ -2548,7 +2732,8 @@ HWPH.put("r/67-65",
  ["Gestaltqualität","Gestalttheorie","",null,null,"see",1121,"Gestalttheorie","gestaltqualitat"],
  ["Gestaltqualität","Ganzes/Teil","V","3","18","ref",986,"Ganzes/Teil","gestaltqualitat"],
  ["Gestaltqualität","Gefühl","III","3","94","ref",1009,"Gefühl","gestaltqualitat"],
- ["Gestaltqualität","Komplex","",null,null,"ref",1600,"Komplex","gestaltqualitat"],
+ ["Gestaltqualität","Komplex, der","","4","937f.","ref",1601,"Komplex (der)","gestaltqualitat"],
+ ["Gestaltqualität","Psychologie","","7","1632","ref",2511,"Psychologie","gestaltqualitat"],
  ["Gestalttheorie","Gestalttheorie","","3","551f.","main",1121,"Gestalttheorie","gestalttheorie"],
  ["Gestalttheorie","Gestalt","II (psych.)",null,null,"see",1116,"Gestalt","gestalttheorie"],
  [
@@ -2557,14 +2742,15 @@ HWPH.put("r/67-65",
  ],
  ["Gestalttheorie","Gestaltqualität","",null,null,"see",1120,"Gestaltqualität","gestalttheorie"],
  ["Gestalttheorie","Psychologie","","7","1633","ref",2511,"Psychologie","gestalttheorie"],
- ["Gestalttiefe","Komplex","",null,null,"ref",1600,"Komplex","gestalttiefe"],
+ ["Gestalttiefe","Komplex, der","","4","938","ref",1601,"Komplex (der)","gestalttiefe"],
+ [
+  "Gestaltungstheorie","Gewohnheitsrecht","","3","619","ref",1133,"Gewohnheitsrecht",
+  "gestaltungstheorie"
+ ],
  ["Gestaltungswert","Selbsterhaltung","","9","402","ref",2832,"Selbsterhaltung","gestaltungswert"],
  ["Gestaltwerdeprozess","Aktualgenese","",null,null,"ref",85,"Aktualgenese","gestaltwerdeprozess"],
- [
-  "Gestell (Heidegger)","Gestell (Heidegger)","","3","552","main",1123,"Gestirn, Sterne",
-  "gestell (heidegger)"
- ],
- ["Gestell (Heidegger)","Vierung","(Heidegger)",null,null,"see",3463,"Vierung","gestell (heidegger)"],
+ ["Gestell","Gestell","(Heidegger)","3","552","main",1123,"Gestirn, Sterne","gestell"],
+ ["Gestell","Vierung","(Heidegger)",null,null,"see",3463,"Vierung","gestell"],
  ["Gestell (Heidegger)","Technik","","10","948","ref",3139,"Technik","gestell (heidegger)"],
  ["Gestimmtheit","Anmutung","",null,null,"ref",153,"Anmutung","gestimmtheit"],
  ["Gestimmtheit","Lebensgefühl","","5","120","ref",1744,"Lebensgefühl","gestimmtheit"],
@@ -2595,7 +2781,8 @@ HWPH.put("r/67-65",
   "gesundheit"
  ],
  ["Gesundheit","Normal; Normalität","",null,null,"see",2161,"Normal, Normalität","gesundheit"],
- ["Gesundheit","Therapie I (med.) Gesundheit/Krankheit","",null,null,"see",null,null,"gesundheit"],
+ ["Gesundheit","Therapie","I (med.)",null,null,"see",3184,"Therapie; Therapeutik","gesundheit"],
+ ["Gesundheit/Krankheit","Malum","II","5","658","ref",1852,"Malum","gesundheit/krankheit"],
  [
   "Gesundheit, vollkommene","Gerechtigkeit","I","3","332","ref",1083,"Gerechtigkeit",
   "gesundheit, vollkommene"
@@ -2615,8 +2802,8 @@ HWPH.put("r/67-65",
   "gesundheit der vernunft"
  ],
  [
-  "Gesundheit der Vernunft","Therapie II (philos.)","","10","1165","ref",3184,
-  "Therapie; Therapeutik","gesundheit der vernunft"
+  "Gesundheit der Vernunft","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik",
+  "gesundheit der vernunft"
  ],
  [
   "Gesundheit zum Tode","Realitätsprinzip","","8","211","ref",2594,"Realitätsprinzip",
@@ -2735,7 +2922,7 @@ HWPH.put("r/67-65",
   "gewissheit, moralische"
  ],
  [
-  "Gewissheit, moralische","Probabilismus II (eth.)","","7","1391","ref",2463,
+  "Gewissheit, moralische","Probabilismus","II (eth.)","7","1391","ref",2463,
   "Probabilismus, probabilistisch","gewissheit, moralische"
  ],
  [
@@ -2751,13 +2938,18 @@ HWPH.put("r/67-65",
   "gewissheit, sinnliche"
  ],
  [
-  "Gewissheit, subjektive/objektive","Subjekt","",null,null,"ref",3047,"Subjekt",
+  "Gewissheit, subjektive/objektive","Subjekt/Objekt","I",null,null,"ref",3047,"Subjekt",
   "gewissheit, subjektive/objektive"
  ],
  [
-  "Gewissheit des Glaubens","Glaubensgewissheit Gewissmachung","",null,null,"ref",null,null,
+  "Gewissheit, unmittelbare","Unmittelbarkeit","","11","239","ref",3314,"Unmittelbarkeit",
+  "gewissheit, unmittelbare"
+ ],
+ [
+  "Gewissheit des Glaubens","Glaubensgewissheit","",null,null,"ref",1142,"Glaubensgewißheit",
   "gewissheit des glaubens"
  ],
+ ["Gewissmachung","Abfolge","(Bolzano)","1","4","ref",20,"Abfolge","gewissmachung"],
  ["Gewöhnen","Gewohnheit","",null,null,"ref",1132,"Gewohnheit","gewohnen"],
  ["gewöhnlich","Gewöhnung","","3","621","ref",1134,"Gewöhnung","gewohnlich"],
  ["Gewöhnung","Gewöhnung","","3","620–622","main",1134,"Gewöhnung","gewohnung"],
@@ -2778,7 +2970,9 @@ HWPH.put("r/67-65",
  ["Gewohnheit","Instinkt","","4","412","ref",1453,"Instinkt","gewohnheit"],
  ["Gewohnheit","Konvention","I (eth.)","4","1072","ref",1651,"Konvention","gewohnheit"],
  ["Gewohnheit","Neigung","","6","708","ref",2106,"Neigung","gewohnheit"],
- ["Gewohnheit","Schöne","",null,null,"ref",2776,"Schöne","gewohnheit"],
+ ["Gewohnheit","Schöne, das","II","8","1355","ref",2776,"Schöne","gewohnheit"],
+ ["Gewohnheit","Universalien","II","11","189","ref",3302,"Universalien","gewohnheit"],
+ ["Gewohnheit","Vorurteil","I (erk.)","11","1258","ref",3507,"Vorurteil","gewohnheit"],
  ["Gewohnheitsmuster","Bedürfnis","II","1","770","ref",355,"Bedürfnis","gewohnheitsmuster"],
  [
   "Gewohnheitsrecht","Gewohnheitsrecht","","3","617–620","main",1133,"Gewohnheitsrecht",
@@ -2796,230 +2990,63 @@ HWPH.put("r/67-65",
  ["Geworfenheit","Geworfenheit","(Heidegger)","3","622f.","main",1135,"Geworfenheit","geworfenheit"],
  ["Geworfenheit","Faktizität","(Heidegger)",null,null,"see",888,"Faktizität","geworfenheit"],
  ["Geworfenheit","Situation","",null,null,"see",2904,"Situation","geworfenheit"],
- ["Geziemende","Geziemende","",null,null,"main",1136,"Geziemende","geziemende"],
+ ["Geziemende, das","Geziemende, das","","3","623–626","main",1136,"Geziemende","geziemende, das"],
+ ["Geziemende, das","Schicklich","",null,null,"see",2763,"Schicklich","geziemende, das"],
  ["Gezweiung","Universalismus","","11","206","ref",3304,"Universalismus","gezweiung"],
- ["Geschichte","Geschichte","VI","3","391f.","main",1085,"Geschichte, Historie","geschichte"],
- ["Geschichte","Hierarchie","","3","1124","ref",1270,"Hierarchie","geschichte"],
- ["Geschichte","Politik","III","7","1068","ref",2396,"Politik","geschichte"],
- ["Geschichte","Republik","","8","860","ref",2688,"Republik","geschichte"],
- ["Geschichte","Staat","II","10","45","ref",2998,"Staat","geschichte"],
- ["Geschichte","Geschichte","VI","3","396","main",1085,"Geschichte, Historie","geschichte"],
- ["Geschichte I","Geschichte I","",null,null,"main",1085,"Geschichte, Historie","geschichte i"],
- ["Geschichte I","Naturgeschichte","","6","526","ref",2084,"Naturgeschichte","geschichte i"],
- ["Geschichte I","Philosophie","I A","7","573","ref",2353,"Philosophie","geschichte i"],
- ["Geschichten","Geschichten","","3","403","main",1089,"Geschichten","geschichten"],
  [
-  "Geschichtlichkeit","Geschichtlichkeit","",null,null,"main",1090,"Geschichtlichkeit",
-  "geschichtlichkeit"
- ],
- [
-  "Geisteswissenschaften","Geisteswissenschaften","","3","212","main",1036,"Geisteswissenschaften",
-  "geisteswissenschaften"
- ],
- ["Gegenwart","Gegenwart","","3","137","main",1023,"Gegenwart","gegenwart"],
- ["Gegenwart","Präsenz","","7","1263","ref",2444,"Präsenz","gegenwart"],
- ["Gegenwart","Wo; wann","II","12","997","ref",3649,"Wo; Wann","gegenwart"],
- ["Gegenwart","Zeit","VI","12","1242","ref",3676,"Zeit","gegenwart"],
- ["Gegenwart","Zeit","IX (chin.)","12","1261","ref",3676,"Zeit","gegenwart"],
- [
-  "Gericht Gottes jugement","Gericht Gottes jugement","",null,null,"main",null,null,
-  "gericht gottes jugement"
+  "gentium Gottesbeweis, ideologischer","Gottesbeweis","","3","823","ref",1165,"Gottesbeweis",
+  "gentium gottesbeweis, ideologischer"
  ],
  ["Geschichte","Geschichte","VI","3","380","main",1085,"Geschichte, Historie","geschichte"],
- [
-  "geisteswissenschaftliche 7 1656 Kollektivpsyche","Kollektivseele","",null,null,"ref",1587,
-  "Kollektivseele","geisteswissenschaftliche 7 1656 kollektivpsyche"
- ],
- ["Gewohnheit","Gewohnheit","","3","607","main",1132,"Gewohnheit","gewohnheit"],
  ["Genie","Genie","III","3","304","main",1071,"Genie","genie"],
  ["Genie","Selbsterkenntnis","II","9","415","ref",2833,"Selbsterkenntnis","genie"],
  [
   "Genie","Wohlgefallen, interesseloses","","12","1001","ref",3651,"Wohlgefallen, interesseloses",
   "genie"
  ],
- ["Geschichte","Geschichte","VI","3","380","main",1085,"Geschichte, Historie","geschichte"],
- [
-  "Geschichte","Geschichtsphilosophie","","3","424ff.","ref",1093,"Geschichtsphilosophie",
-  "geschichte"
- ],
- [
-  "Geschichte","Kunstphilosophie; Kunstgeschichte","","4","1453","ref",1716,
-  "Kunstphilosophie, Kunstgeschichte, Kunstwissenschaft","geschichte"
- ],
- ["Geist","Geist","IX","3","200","main",1030,"Geist","geist"],
- ["Gesetz","Gesetz","",null,null,"main",1105,"Gesetz","gesetz"],
  [
   "Gegenwart, lebendige","Gegenwart, lebendige","(Husserl)",null,null,"main",1024,
   "Gegenwart, lebendige","gegenwart, lebendige"
  ],
  ["Gegenwart, lebendige","Ewigkeit","","2","841","ref",854,"Ewigkeit","gegenwart, lebendige"],
- ["Geist","Geist","VI 1","3","180","main",1030,"Geist","geist"],
- ["Geist","Medizin","I","5","974","ref",1906,"Medizin, Heilkunst, Medizinphilosophie","geist"],
+ ["Geschichte","Geschichte","IV","3","362f.","main",1085,"Geschichte, Historie","geschichte"],
+ ["Geist","Geist","VII","3","189","main",1030,"Geist","geist"],
+ ["Geist","Latenz","I (allg.)","5","40","ref",1731,"Latent, Latenz","geist"],
+ ["Geist","Produktion","I (nat.)","7","1424","ref",2469,"Produktion, Produktivität","geist"],
  [
-  "Gesellschaft, bürgerliche","Gesellschaft, bürgerliche","","3","472","main",1100,
-  "Gesellschaft, bürgerliche","gesellschaft, burgerliche"
+  "Gegenstandstheorie","Gegenstandstheorie","(Meinong)",null,null,"main",1021,"Gegenstandstheorie",
+  "gegenstandstheorie"
  ],
  [
-  "Gesellschaft, bürgerliche","Soziale Frage","","9","1130","ref",2940,"Soziale Frage",
-  "gesellschaft, burgerliche"
+  "Gegenstandstheorie","Appräsentation","(Husserl)",null,null,"see",218,"Appräsentation",
+  "gegenstandstheorie"
+ ],
+ ["Gegenstandstheorie","Evidenz","II (phän.)",null,null,"see",850,"Evidenz","gegenstandstheorie"],
+ [
+  "Gegenstandstheorie","Selbstgebung","(Husserl)",null,null,"see",2835,
+  "Selbstgebung, Selbstgegebenheit","gegenstandstheorie"
  ],
  [
-  "geisteswissenschaftliche","Realpsychologie","(Dilthey)",null,null,"ref",2595,"Realpsychologie",
-  "geisteswissenschaftliche"
+  "Gegenstandstheorie","Vergegenwärtigung","",null,null,"see",3402,"Vergegenwärtigung",
+  "gegenstandstheorie"
  ],
- ["geisteswissenschaftliche","Stand","",null,null,"ref",3008,"Stand","geisteswissenschaftliche"],
- [
-  "geisteswissenschaftliche 7 1656- 1658 s. auch","Geisteswissenschaftliche Pädagogik","",null,null,
-  "ref",1037,"Geisteswissenschaftliche Pädagogik","geisteswissenschaftliche 7 1656- 1658 s. auch"
- ],
- [
-  "geisteswissenschaftliche 7 1656- 1658 s. auch","Psychologie, beschreibende und zergliedernde","",
-  null,null,"ref",2512,"Psychologie, beschreibende und zergliedernde",
-  "geisteswissenschaftliche 7 1656- 1658 s. auch"
- ],
- [
-  "geisteswissenschaftliche 7 1656- 1658 s. auch","Realpsychologie","(Dilthey)",null,null,"ref",2595,
-  "Realpsychologie","geisteswissenschaftliche 7 1656- 1658 s. auch"
- ],
- [
-  "geisteswissenschaftliche","Psychologie, objektive","","7","1663","ref",2517,
-  "Psychologie, objektive","geisteswissenschaftliche"
- ],
- [
-  "geisteswissenschaftliche","Psychopathologie","II","7","1686","ref",2526,"Psychopathologie",
-  "geisteswissenschaftliche"
- ],
- [
-  "geisteswissenschaftliche","Verstehen","","11","924","ref",3438,"Verstehen",
-  "geisteswissenschaftliche"
- ],
- [
-  "geisteswissenschaftliche Realraum","Raum","III","8","96","ref",2578,"Raum",
-  "geisteswissenschaftliche realraum"
- ],
- ["Gesetz","Gesetz","I (jur.)","3","490f.","main",1105,"Gesetz","gesetz"],
- ["Gesetz","Norm","I","6","909","ref",2160,"Norm","gesetz"],
- ["Gesetz","Rechtsnorm","","8","292","ref",2610,"Rechtsnorm","gesetz"],
- ["Gesetz","Tatbestand","","10","906","ref",3128,"Tatbestand","gesetz"],
- ["Gewissen","Gewissen","","3","576","main",1130,"Gewissen","gewissen"],
- ["Gestaltqualität","Gestaltqualität","","3","551","main",1120,"Gestaltqualität","gestaltqualitat"],
- ["Gewissen","Gewissen","","3","587","main",1130,"Gewissen","gewissen"],
- ["Gewissen","Schuld","III","8","1461","ref",2784,"Schuld","gewissen"],
- ["Gewissen","Versöhnung","II (anthr.)","11","901","ref",3434,"Versöhnung","gewissen"],
- ["Gewissen","Zeit","VI","12","1237","ref",3676,"Zeit","gewissen"],
- ["Gemütsbewegung","Gemütsbewegung","","3","266","main",1055,"Gemütsbewegung","gemutsbewegung"],
  ["Gesundheit","Gesundheit","",null,null,"main",1125,"Gesund, Gesundheit","gesundheit"],
  [
-  "Gesundheit","Medizin II","",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "Gesundheit","Medizin","II",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
   "gesundheit"
  ],
- [
-  "Geistiges Sein","Geistiges Sein","(Hartmann)",null,null,"main",1038,"Geistiges Sein",
-  "geistiges sein"
- ],
- ["Geistiges Sein","Geist","VIII","3","198","ref",1030,"Geist","geistiges sein"],
- ["Geistiges Sein","Rechtsontologie","","8","296","ref",2611,"Rechtsontologie","geistiges sein"],
- ["Gefühl","Gefühl","I","3","83","main",1009,"Gefühl","gefuhl"],
- ["Gelassenheit","Gelassenheit","II","3","222","main",1041,"Gelassenheit","gelassenheit"],
- [
-  "Generatianismus; Traduzianismus","Generatianismus; Traduzianismus","","3","272","main",1064,
-  "Generatianismus und Traduzianismus","generatianismus; traduzianismus"
- ],
- [
-  "geisteswissenschaftliche – V (soz.) 10 328–332 – VI (chem.) 10 332–334 Struktur","Dialektik","IV",
-  null,null,"ref",583,"Dialektik",
-  "geisteswissenschaftliche – v (soz.) 10 328–332 – vi (chem.) 10 332–334 struktur"
- ],
- [
-  "geisteswissenschaftliche – V (soz.) 10 328–332 – VI (chem.) 10 332–334 Struktur","System","II",
-  "10","849ff.","ref",3115,"System; Systematik; systematisch",
-  "geisteswissenschaftliche – v (soz.) 10 328–332 – vi (chem.) 10 332–334 struktur"
- ],
- [
-  "geisteswissenschaftliche 7 1656","Psychologie, genetische","","7","1659","ref",2515,
-  "Psychologie, genetische","geisteswissenschaftliche 7 1656"
- ],
- [
-  "geisteswissenschaftliche 7 1656","Realpsychologie","(Dilthey)","8","213","ref",2595,
-  "Realpsychologie","geisteswissenschaftliche 7 1656"
- ],
- ["Gewissen","Gewissen","","3","582","main",1130,"Gewissen","gewissen"],
- [
-  "geisteswissenschaftliche 7 1657 Synthetismus, ästhetischer","Realismus","IV (ästh.)","8","170f.",
-  "ref",2588,"Realismus","geisteswissenschaftliche 7 1657 synthetismus, asthetischer"
- ],
- ["Geschichten","Geschichten","","3","403f.","main",1089,"Geschichten","geschichten"],
- ["Geschichten","Praxis","I","7","1286","ref",2448,"Praxis, praktisch","geschichten"],
- [
-  "geisteswissenschaftliche 7 1656","Subjektivität","II","10","465","ref",3052,"Subjektivität",
-  "geisteswissenschaftliche 7 1656"
- ],
- [
-  "genetische (Husserl) 7 507","Religion","VII","8","674","ref",2673,"Religion",
-  "genetische (husserl) 7 507"
- ],
- [
-  "genetische (Husserl) 7 507","Urteil","II 3","11","450","ref",3355,"Urteil",
-  "genetische (husserl) 7 507"
- ],
- ["genetische (Husserl) 7 507","Wette","","12","676","ref",3603,"Wette","genetische (husserl) 7 507"],
- [
-  "genetische (Husserl) 7 507","Zeugung","","12","1333","ref",3693,"Zeugung",
-  "genetische (husserl) 7 507"
- ],
- [
-  "genetische (Husserl) 7 507","Zustimmung","II","12","1468","ref",3715,"Zustimmung",
-  "genetische (husserl) 7 507"
- ],
- ["Gedankending","Gedankending","","3","61","main",1000,"Gedankending (ens rationis)","gedankending"],
- ["Gewaltenteilung","Gewaltenteilung","","3","571","main",1128,"Gewaltenteilung","gewaltenteilung"],
- [
-  "Gewaltenteilung","Herrschaftsformen","","3","1098","ref",1263,"Herrschaftsform(en)",
-  "gewaltenteilung"
- ],
- ["Gewaltenteilung","Ökonomie","I (ökon.)","6","1151","ref",2210,"Ökonomie","gewaltenteilung"],
- ["Geschichte","Geschichte","VI","3","392","main",1085,"Geschichte, Historie","geschichte"],
- [
-  "Geistseele; Vernunftseele","Geistseele; Vernunftseele","",null,null,"main",1039,
-  "Geistseele, Vernunftseele","geistseele; vernunftseele"
- ],
- ["Geistseele; Vernunftseele","Seele","IV","9","27","ref",2794,"Seele","geistseele; vernunftseele"],
- [
-  "Geistseele; Vernunftseele","Seelenwagen","","9","111","ref",2800,"Seelenwagen",
-  "geistseele; vernunftseele"
- ],
- [
-  "Geistseele; Vernunftseele","Unsterblichkeit","II","11","279","ref",3323,"Unsterblichkeit",
-  "geistseele; vernunftseele"
- ],
- [
-  "Geistseele; Vernunftseele","Unsterblichkeit","III","11","284","ref",3323,"Unsterblichkeit",
-  "geistseele; vernunftseele"
- ],
- [
-  "geisteswissenschaftliche","Psychologie, objektive","","7","1663","ref",2517,
-  "Psychologie, objektive","geisteswissenschaftliche"
- ],
- [
-  "geisteswissenschaftliche","Psychopathologie","II","7","1686","ref",2526,"Psychopathologie",
-  "geisteswissenschaftliche"
- ],
+ ["gentium","Gemeinsinn","",null,null,"ref",1050,"Gemeinsinn","gentium"],
+ ["gentium","Geschmack","",null,null,"ref",1097,"Geschmack","gentium"],
+ ["gentium","Lumen naturale","",null,null,"ref",1836,"Lumen naturale","gentium"],
+ ["gentium","Sinne, die","",null,null,"ref",2892,"Sinne, die","gentium"],
+ ["gentium","Harmonie","",null,null,"ref",1226,"Harmonie","gentium"],
+ ["gentium","Homologie","",null,null,"ref",1306,"Homologie","gentium"],
+ ["gentium","Konvenienz","",null,null,"ref",1650,"Konvenienz","gentium"],
+ ["gentium","Stimmigkeit","",null,null,"ref",3026,"Stimmigkeit","gentium"],
+ ["gentium","Vertrag","",null,null,"ref",3445,"Vertrag","gentium"],
  ["Gesetz","Gesetz","",null,null,"main",1105,"Gesetz","gesetz"],
  ["Gesetz","Psychophysik","","7","1689","ref",2527,"Psychophysik","gesetz"],
  ["Gesetz","Wahrnehmung","V (psych.)","12","219","ref",3539,"Wahrnehmung","gesetz"],
- ["Genie","Genie","III","3","287f.","main",1071,"Genie","genie"],
- [
-  "Geistesgeschichte","Geistesgeschichte","","3","208","main",1034,"Geistesgeschichte",
-  "geistesgeschichte"
- ],
- [
-  "geisteswissenschaftliche 7 1656f.","Seele","V","9","54f.","ref",2794,"Seele",
-  "geisteswissenschaftliche 7 1656f."
- ],
- [
-  "geisteswissenschaftliche 7 1656f.","Struktur","I (allg.)","10","306","ref",3040,"Struktur",
-  "geisteswissenschaftliche 7 1656f."
- ],
  ["Gehring Petra","Rechtsordnung","","8","297–310","author",2612,"Rechtsordnung","gehring petra"],
  ["Gehring Petra","Statistik","","10","104–110","author",3013,"Statistik","gehring petra"],
  ["Gehring Petra","Tatbestand","","10","901–908","author",3128,"Tatbestand","gehring petra"],
@@ -3064,7 +3091,7 @@ HWPH.put("r/67-65",
   "georgulis konstantin"
  ],
  [
-  "Gerhardt Gerd","Kategorie; Kategorienlehre I-II. IV-V","","4","714–725","author",1540,
+  "Gerhardt Gerd","Kategorie; Kategorienlehre I-II.","IV-V","4","714–725","author",1540,
   "Kategorie, Kategorienlehre","gerhardt gerd"
  ],
  [
@@ -3139,6 +3166,9 @@ HWPH.put("r/67-65",
   "Geyer Hans-Georg","Analogia fidei","(Barth)","1","213f.","author",122,"Analogia fidei",
   "geyer hans-georg"
  ],
- ["Geyer Hans-Georg","Theologie","",null,null,"author",3169,"Theologie","geyer hans-georg"]
+ [
+  "Geyer Hans-Georg","Theologie, dialektische","","10","1099–1101","author",3171,
+  "Theologie, Dialektische","geyer hans-georg"
+ ]
 ]
 );

@@ -41,10 +41,10 @@ HWPH.put("a/3722",
   {"id":3540,"lemma":"Wahrscheinlichkeit","n":1}
  ],
  "register":[
-  {"term":"Anerkennungstheorie","qualifier":"","band":"12","col":"1523"},
   {"term":"dubitatio","qualifier":"","band":null,"col":null},
   {"term":"dubium","qualifier":"","band":null,"col":null},
   {"term":"Einwurf","qualifier":"","band":"12","col":"1523"},
+  {"term":"Fürwahrhalten","qualifier":"","band":"12","col":"1523"},
   {"term":"Gleichgewicht der Argumente","qualifier":"","band":"12","col":"1520"},
   {"term":"incertitude","qualifier":"","band":"12","col":"1523"},
   {"term":"indétermination","qualifier":"","band":"12","col":"1523"},
@@ -57,7 +57,9 @@ HWPH.put("a/3722",
   {"term":"Vorurteil","qualifier":"","band":"12","col":"1522"},
   {"term":"ἀμφισβητε͂ιν","qualifier":"","band":null,"col":null},
   {"term":"ἀναμφισβήτητος","qualifier":"","band":"12","col":"1520"},
-  {"term":"διακρίνεσθαι","qualifier":"","band":"12","col":"1520"}
+  {"term":"διακρίνεσθαι","qualifier":"","band":"12","col":"1520"},
+  {"term":"διαλογισμός","qualifier":"","band":"12","col":"1520"},
+  {"term":"διστάζειν","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":4,"l":0,"editor":0,"role":"source"},
@@ -199,6 +201,6 @@ HWPH.put("a/3722",
  ],
  "see_also":[{"id":210,"lemma":"Aporie, Aporetik"},{"id":2907,"lemma":"Skepsis; Skeptizismus"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Zweifel"}],
- "reg_authors":[{"name":"Lorenz Stefan","n":17},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Lorenz Stefan","n":17},{"name":"Red","n":241}]
 }
 );

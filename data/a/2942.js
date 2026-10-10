@@ -75,6 +75,6 @@ HWPH.put("a/2942",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Sozialeudämonismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Sozialeudämonismus"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

@@ -25,8 +25,7 @@ HWPH.put("a/45",
   {"term":"Gewöhnung (physiol.)","qualifier":"","band":null,"col":null},
   {"term":"Reizstatistik","qualifier":"","band":"1","col":"81"},
   {"term":"Umstimmung","qualifier":"","band":null,"col":null},
-  {"term":"Umwelt","qualifier":"","band":"1","col":"82"},
-  {"term":"– II (psych.) 1 546f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Umwelt","qualifier":"","band":"1","col":"82"}
  ],
  "persons":[
   {"id":1769,"name":"I. Kohler","b":2,"n":2,"l":0,"editor":0,"role":"source"},

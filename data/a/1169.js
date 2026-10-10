@@ -48,6 +48,6 @@ HWPH.put("a/1169",
   {"id":26,"name":"Metaphysik","label":"Gottesbeweis, moralischer"},
   {"id":44,"name":"Theologie","label":"Gottesbeweis, moralischer"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

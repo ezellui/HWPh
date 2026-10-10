@@ -35,7 +35,7 @@ HWPH.put("a/3517",
  ],
  "register":[
   {"term":"ästhetisch/ethisch","qualifier":"","band":"12","col":"20"},
-  {"term":"das 8 1415 choice","qualifier":"","band":null,"col":null},
+  {"term":"choice","qualifier":"","band":null,"col":null},
   {"term":"Entwurf","qualifier":"","band":"12","col":"22"},
   {"term":"ethisch/ästhetisch","qualifier":"","band":"12","col":"20"},
   {"term":"existentielle Wahl","qualifier":"","band":"12","col":"21"},

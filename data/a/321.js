@@ -52,7 +52,7 @@ HWPH.put("a/321",
   {"id":3047,"lemma":"Subjekt","tf":2},
   {"id":2794,"lemma":"Seele","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":571,"lemma":"Despotie, Despotismus"}],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Autokratie"},
   {"id":33,"name":"Politische Theorie","label":"Autokratie"}

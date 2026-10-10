@@ -18,6 +18,7 @@ HWPH.put("a/2542",
  "backlinks":[{"id":3712,"lemma":"Zurechnung","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Deduktion","qualifier":"","band":"7","col":"1742"},
   {"term":"Faktum","qualifier":"","band":null,"col":null},
   {"term":"Hypothese","qualifier":"","band":"7","col":"1741f."},
   {"term":"quid iuris/quid facti","qualifier":"","band":"7","col":"1742"},

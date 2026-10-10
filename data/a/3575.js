@@ -94,6 +94,6 @@ HWPH.put("a/3575",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[{"name":"Lanczkowski Günter","n":22},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Lanczkowski Günter","n":22},{"name":"Red","n":241}]
 }
 );

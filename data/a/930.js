@@ -30,18 +30,11 @@ HWPH.put("a/930",
   {"term":"Ästhetizismus","qualifier":"II (ästh.)","band":"2","col":"970"},
   {"term":"Ethik, formale","qualifier":"I (Scheler)","band":null,"col":null},
   {"term":"ethisches Apriori","qualifier":"I (Scheler)","band":null,"col":null},
-  {"term":"formale/materiale (Husserl)","qualifier":"","band":"2","col":"967–971"},
-  {
-   "term":"formale/materiale (Husserl) materiale Wertethik",
-   "qualifier":"I (Scheler)",
-   "band":null,
-   "col":null
-  },
+  {"term":"materiale Wertethik","qualifier":"I (Scheler)","band":null,"col":null},
   {"term":"Methode, formale","qualifier":"II (ästh.)","band":null,"col":null},
   {"term":"Methode, morphologische","qualifier":"II (ästh.)","band":"2","col":"969"},
   {"term":"Spezifikatoren","qualifier":"II (ästh.)","band":"2","col":"969"},
-  {"term":"Wertethik, materiale","qualifier":"I (Scheler)","band":null,"col":null},
-  {"term":"– III (log./math.) 4 543f. s. auch","qualifier":"III (log.)","band":null,"col":null}
+  {"term":"Wertethik, materiale","qualifier":"I (Scheler)","band":null,"col":null}
  ],
  "persons":[
   {"id":5353,"name":"V. Erlich","b":0,"n":5,"l":1,"editor":0,"role":"scholar"},
@@ -112,7 +105,13 @@ HWPH.put("a/930",
   {"id":3588,"lemma":"Wert","tf":2},
   {"id":3586,"lemma":"Werk","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3588,"lemma":"Wert"},
+  {"id":938,"lemma":"Form und Inhalt"},
+  {"id":1712,"lemma":"Kunst, Kunstwerk"},
+  {"id":928,"lemma":"Formales System"},
+  {"id":1193,"lemma":"Grundlagenstreit"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Formalismus II (ästh.)"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Formalismus I (Scheler)"},
@@ -120,6 +119,6 @@ HWPH.put("a/930",
   {"id":24,"name":"Mathematik","label":"Formalismus III (log.)"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Formalismus"}
  ],
- "reg_authors":[{"name":"Dierse Ulrich","n":52},{"name":"Hülsmann Heinrich","n":14},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Dierse Ulrich","n":52},{"name":"Hülsmann Heinrich","n":14},{"name":"Red","n":241}]
 }
 );

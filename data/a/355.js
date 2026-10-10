@@ -32,7 +32,7 @@ HWPH.put("a/355",
   {"term":"habit pattern","qualifier":"II","band":"1","col":"770"},
   {"term":"Mangel","qualifier":"","band":null,"col":null},
   {"term":"need","qualifier":"II","band":"1","col":"769"},
-  {"term":"– I (psych.) 6 218–221 s. auch","qualifier":"II","band":null,"col":null}
+  {"term":"Quasibedürfnis","qualifier":"II","band":"1","col":"768"}
  ],
  "persons":[
   {"id":241,"name":"Ph. Lersch","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
@@ -115,7 +115,7 @@ HWPH.put("a/355",
   {"id":363,"lemma":"Begehren, Begierde","tf":2},
   {"id":2903,"lemma":"Sittlichkeit; Sittenlehre","tf":2}
  ],
- "see_also":[{"id":362,"lemma":"Begehren, appetitus naturalis"},{"id":3229,"lemma":"Trieb"}],
+ "see_also":[{"id":362,"lemma":"Begehren, appetitus naturalis"}],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Bedürfnis I"},
   {"id":36,"name":"Psychologie","label":"Bedürfnis II"}

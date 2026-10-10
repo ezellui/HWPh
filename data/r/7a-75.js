@@ -1,15 +1,6 @@
 HWPH.put("r/7a-75",
 [
  ["Zuschauer","Zuschauer","",null,null,"main",3713,"Zuschauer","zuschauer"],
- ["Zufall","Zufall","II",null,null,"main",3706,"Zufall","zufall"],
- ["Zufall","Anlass","","1","325f.","ref",152,"Anlaß","zufall"],
- ["Zurechnung","Zurechnung","I (jur.)","12","1447","main",3712,"Zurechnung","zurechnung"],
- ["Zufall","Zufall","IV (math./phys.)","12","1419","main",3706,"Zufall","zufall"],
- [
-  "Zueignung (Oikeiosis)","Zueignung (Oikeiosis)","",null,null,"main",3705,"Zueignung (Oikeiosis)",
-  "zueignung (oikeiosis)"
- ],
- ["Zufall","Zufall","IV (math./phys.)","12","1421","main",3706,"Zufall","zufall"],
  ["zu den Sachen selbst","Phänomen","III","7","478","ref",2340,"Phänomen","zu den sachen selbst"],
  ["Zucht","Strafe","V (päd./psych.)",null,null,"ref",3035,"Strafe","zucht"],
  ["Zucht","Freiheit","IV","2","1096","ref",946,"Freiheit","zucht"],
@@ -38,21 +29,21 @@ HWPH.put("r/7a-75",
   "Zueignung (Oikeiosis)","Selbstliebe","",null,null,"see",2840,"Selbstliebe",
   "zueignung (oikeiosis)"
  ],
- ["Zuendedenken","Dialektik","IV",null,null,"ref",583,"Dialektik","zuendedenken"],
+ ["Zuendedenken","Dialektik","IV 5. 3","2","211","ref",583,"Dialektik","zuendedenken"],
  ["Zufall","Zufall","","12","1408–1424","main",3706,"Zufall","zufall"],
  ["Zufall","Kontingenz","",null,null,"see",1637,"Kontingenz","zufall"],
  ["Zufall","Schicksal","",null,null,"see",2764,"Schicksal","zufall"],
  ["Zufall","Wahrscheinlichkeit","",null,null,"see",3540,"Wahrscheinlichkeit","zufall"],
  [
-  "Zufall","Probabilismus I (wiss.)","",null,null,"ref",2463,"Probabilismus, probabilistisch",
+  "Zufall","Probabilismus","I (wiss.)",null,null,"ref",2463,"Probabilismus, probabilistisch",
   "zufall"
  ],
  ["Zufall","Experiment","","2","868","ref",873,"Experiment","zufall"],
  [
-  "Zufall","Invention; Erfindung IV (psych.)","","4","567","ref",1490,
+  "Zufall","Invention; Erfindung","IV (psych.)","4","567","ref",1490,
   "Invention, Erfindung, Entdeckung","zufall"
  ],
- ["Zufall","Latenz I (allg.)","","5","39","ref",1731,"Latent, Latenz","zufall"],
+ ["Zufall","Latenz","I (allg.)","5","39","ref",1731,"Latent, Latenz","zufall"],
  ["Zufall","Notwendigkeit","II","6","969","ref",2171,"Notwendigkeit","zufall"],
  ["Zufall","Synechismus","(Peirce)","10","780","ref",3104,"Synechismus","zufall"],
  ["Zufall","Vorsehung","","11","1215","ref",3500,"Vorsehung","zufall"],
@@ -83,7 +74,7 @@ HWPH.put("r/7a-75",
   3707,"Zuhandenheit/Vorhandenheit","zuhandenheit/vorhandenheit"
  ],
  [
-  "Zuhandenheit/Vorhandenheit","Verweisung (Heidegger)","",null,null,"see",3452,
+  "Zuhandenheit/Vorhandenheit","Verweisung","(Heidegger)",null,null,"see",3452,
   "Verweisung; Verweisungszusammenhang","zuhandenheit/vorhandenheit"
  ],
  [
@@ -103,7 +94,7 @@ HWPH.put("r/7a-75",
   "zukunft; vergangenheit"
  ],
  [
-  "Zukunft; Vergangenheit","Bewusstsein, antizipierendes (Bloch)","",null,null,"see",413,
+  "Zukunft; Vergangenheit","Bewusstsein, antizipierendes","(Bloch)",null,null,"see",413,
   "Bewußtsein, antizipierendes","zukunft; vergangenheit"
  ],
  ["Zukunft; Vergangenheit","Ewigkeit","",null,null,"see",854,"Ewigkeit","zukunft; vergangenheit"],
@@ -178,7 +169,7 @@ HWPH.put("r/7a-75",
   "Zuordnung; Abbildung","Funktion","I (math.)",null,null,"see",974,"Funktion",
   "zuordnung; abbildung"
  ],
- ["Zuordnung","Erkenntnis II (psych.)","","2","673","ref",796,"Erkennen, Erkenntnis","zuordnung"],
+ ["Zuordnung","Erkenntnis","II (psych.)","2","673","ref",796,"Erkennen, Erkenntnis","zuordnung"],
  [
   "Zuordnungsdefinition","Zuordnungsdefinition","","12","1443–1445","main",3711,
   "Zuordnungsdefinition","zuordnungsdefinition"
@@ -195,6 +186,13 @@ HWPH.put("r/7a-75",
  ["Zurechnung","Zurechnung","","12","1445–1452","main",3712,"Zurechnung","zurechnung"],
  ["Zurechnung","Absicht","",null,null,"see",26,"Absicht","zurechnung"],
  ["Zurechnung","Imputation","",null,null,"see",1405,"Imputation","zurechnung"],
+ ["Zurechnung","Person","IV (jur.)",null,null,"see",2318,"Person","zurechnung"],
+ ["Zurechnung","Tatbestand","",null,null,"see",3128,"Tatbestand","zurechnung"],
+ ["Zurechnung","Ursache/Wirkung","IV",null,null,"see",3350,"Ursache/Wirkung","zurechnung"],
+ ["Zurechnung","Vorsatz","",null,null,"see",3497,"Vorsatz","zurechnung"],
+ ["Zurechnung","Vorwerfbarkeit","",null,null,"see",3509,"Vorwerfbarkeit","zurechnung"],
+ ["Zurechnung","Rechtfertigung","IV (theol.)",null,null,"see",2601,"Rechtfertigung","zurechnung"],
+ ["Zurechnung","Sünde","",null,null,"see",3075,"Sünde","zurechnung"],
  ["Zurechnung","Unterlassung","",null,null,"ref",3325,"Unterlassung; Unterlassen","zurechnung"],
  ["Zurechnung","Tatbestand","","10","904","ref",3128,"Tatbestand","zurechnung"],
  ["Zurückübersetzen","Nacherleben","","6","350","ref",2058,"Nacherleben","zuruckubersetzen"],
@@ -225,16 +223,7 @@ HWPH.put("r/7a-75",
  ["zusammengesetzt","Werden/Vergehen","","12","541","ref",3585,"Werden/Vergehen","zusammengesetzt"],
  ["Zusammenhang","Erklären","",null,null,"ref",801,"Erklären, Erklärung","zusammenhang"],
  ["Zusammenhang","Korrelation","",null,null,"ref",1670,"Korrelation","zusammenhang"],
- [
-  "Zusammenhang","Nexus universalis","",null,null,"ref",2132,"Nexus, Nexus universalis",
-  "zusammenhang"
- ],
- ["Zusammenhang","Aggregat","","1","102","ref",59,"Aggregat","zusammenhang"],
- [
-  "Zusammenhang","Complicatio/explicatio","(Cusanus)","1","1027","ref",506,"Complicatio/explicatio",
-  "zusammenhang"
- ],
- ["Zusammenhang","Dialektik","IV","2","197","ref",583,"Dialektik","zusammenhang"],
+ ["Zusammenhang","Nexus","",null,null,"ref",2132,"Nexus, Nexus universalis","zusammenhang"],
  [
   "Zusammenhang (Dilthey)","Wirkungszusammenhang, historischer","(Dilthey)",null,null,"ref",3632,
   "Wirkungszusammenhang, historischer","zusammenhang (dilthey)"
@@ -260,7 +249,12 @@ HWPH.put("r/7a-75",
   "Psychologie, beschreibende und zergliedernde","zusammenhang (psych.)"
  ],
  [
-  "Zusammenhang (psych.)","Psychologie","",null,null,"ref",2511,"Psychologie",
+  "Zusammenhang (psych.)","Psychologie, geisteswissenschaftliche","","7","1656f.","ref",2514,
+  "Psychologie, geisteswissenschaftliche und verstehende","zusammenhang (psych.)"
+ ],
+ ["Zusammenhang (psych.)","Seele","V","9","54f.","ref",2794,"Seele","zusammenhang (psych.)"],
+ [
+  "Zusammenhang (psych.)","Struktur","I (allg.)","10","306","ref",3040,"Struktur",
   "zusammenhang (psych.)"
  ],
  [

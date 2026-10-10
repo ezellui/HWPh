@@ -20,6 +20,7 @@ HWPH.put("a/20",
  "register":[
   {"term":"Begründung","qualifier":"(Bolzano)","band":null,"col":null},
   {"term":"Darstellung, philosophische","qualifier":"(Bolzano)","band":"1","col":"4"},
+  {"term":"Gewissmachung","qualifier":"(Bolzano)","band":"1","col":"4"},
   {"term":"Warum","qualifier":"(Bolzano)","band":"1","col":"4"},
   {"term":"Zusammenhang, objektiver","qualifier":"(Bolzano)","band":"1","col":"4"}
  ],

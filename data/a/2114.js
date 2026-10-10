@@ -26,7 +26,7 @@ HWPH.put("a/2114",
  "next":{"id":2115,"lemma":"Neufichteanismus","band":"6","col":731},
  "backlinks":[{"id":3015,"lemma":"Staunen; Bewunderung; Verwunderung","n":1},{"id":3676,"lemma":"Zeit","n":1}],
  "outlinks":[],
- "register":[{"term":"Mode","qualifier":"","band":"6","col":"729"}],
+ "register":[{"term":"Mode","qualifier":"II (kult.)","band":"6","col":"729"}],
  "persons":[
   {"id":126,"name":"W. Benjamin","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":2,"n":2,"l":0,"editor":0,"role":"source"},

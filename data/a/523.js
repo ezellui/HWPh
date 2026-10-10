@@ -22,6 +22,6 @@ HWPH.put("a/523",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Dann und nur dann, wenn..., so..."}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

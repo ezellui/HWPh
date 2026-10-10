@@ -83,11 +83,18 @@ HWPH.put("a/596",
   {"id":1773,"lemma":"Leistung","tf":2},
   {"id":435,"lemma":"Bildung","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":761,"lemma":"Entwicklungsmechanik, Entwicklungsphysiologie"},
+  {"id":3681,"lemma":"Zelle"},
+  {"id":759,"lemma":"Entwicklung"},
+  {"id":1116,"lemma":"Gestalt"},
+  {"id":1272,"lemma":"Hierarchisierung"},
+  {"id":2513,"lemma":"Psychologie, differentielle"}
+ ],
  "groups":[
   {"id":5,"name":"Biologie","label":"Differenzierung I (biol.)"},
   {"id":36,"name":"Psychologie","label":"Differenzierung II (psych.)"}
  ],
- "reg_authors":[{"name":"Engländer Hans","n":7},{"name":"Wellek Albert","n":5}]
+ "reg_authors":[{"name":"Engländer Hans","n":7},{"name":"Wellek Albert","n":6}]
 }
 );

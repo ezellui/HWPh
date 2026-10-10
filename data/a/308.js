@@ -17,15 +17,7 @@ HWPH.put("a/308",
  "next":{"id":309,"lemma":"Aussage","band":"1","col":670},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Gesetzgebungsnotstand","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (Kierkegaard) 1 667f. – II (Schmitt) 1 668f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"Gesetzgebungsnotstand","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":8288,"name":"Carl Schmitt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":133,"name":"C. Schmitt","b":0,"n":0,"l":2,"editor":0,"role":"source"},

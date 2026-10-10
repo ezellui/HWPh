@@ -52,6 +52,6 @@ HWPH.put("a/2516",
   {"id":36,"name":"Psychologie","label":"Psychologie, komplexe (Jung)"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Psychologie, komplexe (Jung)"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

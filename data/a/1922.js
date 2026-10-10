@@ -17,7 +17,7 @@ HWPH.put("a/1922",
  "next":{"id":1923,"lemma":"Menschensohn","band":"5","col":1121},
  "backlinks":[{"id":1917,"lemma":"Mensch","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Introspektion","qualifier":"","band":"5","col":"1119"}],
  "persons":[
   {"id":29,"name":"W. Dilthey","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

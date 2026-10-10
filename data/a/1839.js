@@ -89,6 +89,6 @@ HWPH.put("a/1839",
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Luxus"},
   {"id":29,"name":"Ökonomie","label":"Luxus"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

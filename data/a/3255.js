@@ -29,12 +29,13 @@ HWPH.put("a/3255",
   {"id":3264,"lemma":"Überseiend; überwesentlich","n":1}
  ],
  "register":[
-  {"term":"Gegensatzentrücktheit","qualifier":"","band":"11","col":"35"},
-  {"term":"Gegensatzindifferenz","qualifier":"","band":"11","col":"35"},
-  {"term":"Gegensatzlosigkeit","qualifier":"","band":"11","col":"35"},
-  {"term":"Nichtgegensätzlichkeit","qualifier":"","band":"11","col":"35"},
-  {"term":"Platonismus, neukritizistischer","qualifier":"","band":"11","col":"35"},
-  {"term":"Zwischengegensätzlichkeit","qualifier":"","band":"11","col":"35"}
+  {"term":"Gegensatzentrücktheit","qualifier":"(Lask)","band":"11","col":"35"},
+  {"term":"Gegensatzindifferenz","qualifier":"(Lask)","band":"11","col":"35"},
+  {"term":"Gegensatzlosigkeit","qualifier":"(Lask)","band":"11","col":"35"},
+  {"term":"Nichtgegensätzlichkeit","qualifier":"(Lask)","band":"11","col":"35"},
+  {"term":"Platonismus, neukritizistischer","qualifier":"(Lask)","band":"11","col":"35"},
+  {"term":"Untergegensätzlichkeit","qualifier":"(Lask)","band":"11","col":"35"},
+  {"term":"Zwischengegensätzlichkeit","qualifier":"(Lask)","band":"11","col":"35"}
  ],
  "persons":[
   {"id":397,"name":"E. Lask","b":2,"n":2,"l":0,"editor":0,"role":"source"},

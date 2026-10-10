@@ -37,14 +37,7 @@ HWPH.put("a/2033",
   {"term":"Bildmotiv","qualifier":"III (ästh.)","band":"6","col":"217"},
   {"term":"Leitmotiv","qualifier":"III (ästh.)","band":"6","col":"216"},
   {"term":"Triebfeder","qualifier":"I (eth.)","band":null,"col":null},
-  {"term":"vis appetitiva","qualifier":"I (eth.)","band":"6","col":"211"},
-  {"term":"– I (psych.) 6 218–221 s. auch","qualifier":"IV (psych.)","band":null,"col":null},
-  {
-   "term":"– IV (biol.) 4 921f. – V (psych.) 4 922f. s. auch",
-   "qualifier":"IV (psych.)",
-   "band":null,
-   "col":null
-  }
+  {"term":"vis appetitiva","qualifier":"I (eth.)","band":"6","col":"211"}
  ],
  "persons":[
   {"id":19,"name":"J. W. Goethe","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -156,7 +149,13 @@ HWPH.put("a/2033",
   {"id":707,"lemma":"Element","tf":4},
   {"id":1105,"lemma":"Gesetz","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3620,"lemma":"Wille"},
+  {"id":2035,"lemma":"Motivforschung"},
+  {"id":3165,"lemma":"Thema"},
+  {"id":2034,"lemma":"Motivation"},
+  {"id":2573,"lemma":"Rationalisierung"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Motiv III (ästh.)"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Motiv I (eth.)"},

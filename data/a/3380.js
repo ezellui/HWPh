@@ -37,13 +37,13 @@ HWPH.put("a/3380",
   {"id":3712,"lemma":"Zurechnung","n":1}
  ],
  "register":[
-  {"term":"1463","qualifier":"II","band":"11","col":"573"},
   {"term":"Andere, der","qualifier":"I","band":"11","col":"568"},
   {"term":"Dekonstruktion","qualifier":"I","band":"11","col":"568"},
   {"term":"Gemeinschaft","qualifier":"II","band":"11","col":"573"},
   {"term":"Haftbarkeit","qualifier":"II","band":"11","col":"570"},
   {"term":"Handeln, korporatives","qualifier":"II","band":"11","col":"573"},
   {"term":"kollektive Verantwortung","qualifier":"II","band":"11","col":"573"},
+  {"term":"Kollektivschuld","qualifier":"II","band":"11","col":"573"},
   {"term":"korporatives Handeln","qualifier":"II","band":"11","col":"573"},
   {"term":"Mitverantwortung","qualifier":"II","band":"11","col":"574"},
   {"term":"responsibility","qualifier":"","band":null,"col":null},
@@ -146,7 +146,7 @@ HWPH.put("a/3380",
   {"name":"Holl Jann","n":1},
   {"name":"Lenk Hans","n":4},
   {"name":"Maring Matthias","n":1},
-  {"name":"Red","n":242}
+  {"name":"Red","n":241}
  ]
 }
 );

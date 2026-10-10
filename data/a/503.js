@@ -31,7 +31,7 @@ HWPH.put("a/503",
   {"id":281,"name":"B. Geyer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[{"id":340,"lemma":"Axiom"}],
+ "see_also":[{"id":340,"lemma":"Axiom"},{"id":1655,"lemma":"Konzept, konzeptibel"}],
  "groups":[
   {"id":39,"name":"Rhetorik und Argumentationstheorie","label":"Communes conceptiones"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Communes conceptiones"}

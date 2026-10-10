@@ -18,6 +18,7 @@ HWPH.put("a/1479",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Analyse, immanente","qualifier":"","band":"4","col":"517"},
   {"term":"immanente Interpretation","qualifier":"","band":null,"col":null},
   {"term":"Wahrheit, ästhetische","qualifier":"","band":"4","col":"517f."}
  ],

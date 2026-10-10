@@ -34,16 +34,13 @@ HWPH.put("a/159",
   {"term":"Akkommodation (soz.)","qualifier":"II (soz./kult.)","band":null,"col":null},
   {"term":"Angepasstheit","qualifier":"I (biol./psych.)","band":null,"col":null},
   {"term":"feed-back","qualifier":"III (anthr.)","band":"1","col":"339"},
-  {"term":"Homöostase","qualifier":"III (anthr.)","band":"1","col":"339"},
   {"term":"input-output","qualifier":"III (anthr.)","band":"1","col":"339"},
   {"term":"Lernen","qualifier":"I (biol./psych.)","band":"1","col":"337"},
   {"term":"Milieu, inneres","qualifier":"I (biol./psych.)","band":"1","col":"337"},
+  {"term":"Rückkopplung","qualifier":"III (anthr.)","band":"1","col":"339"},
   {"term":"Sozialisierung","qualifier":"I (biol./psych.)","band":null,"col":null},
   {"term":"Überleben","qualifier":"III (anthr.)","band":null,"col":null},
-  {"term":"Umwelt, soziale","qualifier":"III (anthr.)","band":"1","col":"339"},
-  {"term":"– II (psych.) 1 546f. s. auch","qualifier":"I (biol./psych.)","band":null,"col":null},
-  {"term":"– II (soz./kult.) 1 338f. s. auch","qualifier":"","band":"1","col":"339f."},
-  {"term":"– III (kult.) 1 547f. s. auch","qualifier":"II (soz./kult.)","band":null,"col":null}
+  {"term":"Umwelt, soziale","qualifier":"III (anthr.)","band":"1","col":"339"}
  ],
  "persons":[
   {"id":93,"name":"N. Luhmann","b":0,"n":2,"l":1,"editor":0,"role":"source"},
@@ -107,7 +104,12 @@ HWPH.put("a/159",
   {"id":2582,"lemma":"Reaktion, bedingte","tf":2},
   {"id":1693,"lemma":"Kriterium","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":262,"lemma":"Assimilation/Dissimilation"},
+  {"id":974,"lemma":"Funktion"},
+  {"id":1308,"lemma":"Homöostase"},
+  {"id":74,"lemma":"Akkulturation"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Anpassung III (anthr.)"},
   {"id":5,"name":"Biologie","label":"Anpassung I (biol./psych.)"},

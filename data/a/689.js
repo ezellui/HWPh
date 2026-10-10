@@ -29,8 +29,7 @@ HWPH.put("a/689",
   {"term":"Evidenz","qualifier":"I","band":"2","col":"414"},
   {"term":"Evidenz, apodiktische","qualifier":"I","band":"2","col":"414"},
   {"term":"Werkzeuggebrauch","qualifier":"II","band":"2","col":"416"},
-  {"term":"φρόνησις","qualifier":"I","band":"2","col":"414"},
-  {"term":"– II (psych.) 5 245–247 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"φρόνησις","qualifier":"I","band":"2","col":"414"}
  ],
  "persons":[
   {"id":246,"name":"W. Köhler","b":2,"n":1,"l":1,"editor":0,"role":"mixed"},

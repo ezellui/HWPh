@@ -36,11 +36,11 @@ HWPH.put("a/2292",
  ],
  "outlinks":[],
  "register":[
+  {"term":"Anthropopathologie","qualifier":"III","band":"7","col":"185"},
   {"term":"calor innatus","qualifier":"II","band":"7","col":"184"},
   {"term":"Pathogenese","qualifier":"","band":null,"col":null},
   {"term":"Philosoph","qualifier":"IV","band":"7","col":"191"},
-  {"term":"Wärme","qualifier":"II","band":"7","col":"184"},
-  {"term":"– III (psych.) 7 1560–1562 s. auch","qualifier":"III","band":null,"col":null}
+  {"term":"Wärme","qualifier":"II","band":"7","col":"184"}
  ],
  "persons":[
   {"id":1300,"name":"R. Virchow","b":3,"n":2,"l":1,"editor":0,"role":"source"},
@@ -195,7 +195,7 @@ HWPH.put("a/2292",
  "reg_authors":[
   {"name":"Glatzel Johann","n":4},
   {"name":"Probst Peter","n":51},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Seidler Eduard","n":1}
  ]
 }

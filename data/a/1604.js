@@ -113,6 +113,6 @@ HWPH.put("a/1604",
  ],
  "see_also":[{"id":73,"lemma":"Akkommodation"},{"id":1559,"lemma":"Kenose"}],
  "groups":[{"id":44,"name":"Theologie","label":"Kondeszendenz"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

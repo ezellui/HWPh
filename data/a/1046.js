@@ -37,6 +37,6 @@ HWPH.put("a/1046",
  "mentions":[{"id":1201,"lemma":"Gültigkeit","tf":2}],
  "see_also":[{"id":139,"lemma":"Anerkennungstheorie"},{"id":3355,"lemma":"Urteil"}],
  "groups":[{"id":22,"name":"Logik","label":"Geltungstheorie"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

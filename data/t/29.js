@@ -5,8 +5,8 @@ HWPH.put("t/29",
  "l":"E. FINK: Das Problem der Phänomenol. Edmund Husserls. Rev. int. Philos. 1 (1938/39) 226–270. – H. WAGNER: Kritische Bemerkungen zu Husserls Nachlaß. Philos. Rdsch. 1 (1953/54) 1–22. 93–123. – R. BOEHM: Zum Begriff des Absoluten bei Husserl. Z. philos. Forsch. 2 (1959) 214–242. – L. LANDGREBE: Der Weg der Phänomenol. (1963).",
  "au":"E. Ströker",
  "A":["E. Ströker"],
- "cb":[[0,33]],
- "cn":[[0,33],[72,33],[134,33],[237,33],[304,33],[552,33]],
+ "cb":[[0,32],[31,33]],
+ "cn":[[0,32],[72,32],[134,32],[237,32],[304,32],[552,32]],
  "cl":[[0,33]]
 }
 );

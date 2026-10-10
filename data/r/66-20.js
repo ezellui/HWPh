@@ -13,6 +13,7 @@ HWPH.put("r/66-20",
  ],
  ["f libertas naturae","Natur","V","6","472","ref",2074,"Natur","f libertas naturae"],
  ["f libertas naturae","Sünde","II","10","603","ref",3075,"Sünde","f libertas naturae"],
+ ["f Licht, inneres","Fanatismus","","2","905","ref",894,"Fanatisch, Fanatismus","f licht, inneres"],
  ["f positio casus","Sophisma","","9","1071","ref",2925,"Sophisma; Sophismata","f positio casus"],
  [
   "f Prädikation zweiter Stufe","Prädikation","II","7","1209","ref",2427,"Prädikation",

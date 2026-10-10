@@ -20,8 +20,7 @@ HWPH.put("a/891",
  "register":[
   {"term":"Abduktionsschluss","qualifier":"(Peirce)","band":null,"col":null},
   {"term":"Induktionsschluss","qualifier":"(Peirce)","band":null,"col":null},
-  {"term":"Widerlegung","qualifier":"(Peirce)","band":null,"col":null},
-  {"term":"– I (erk.) 11 150–156 s. auch","qualifier":"(Peirce)","band":null,"col":null}
+  {"term":"Widerlegung","qualifier":"(Peirce)","band":null,"col":null}
  ],
  "persons":[
   {"id":96,"name":"Ch. S. Peirce","b":2,"n":3,"l":0,"editor":0,"role":"source"},

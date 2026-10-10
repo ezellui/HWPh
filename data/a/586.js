@@ -22,6 +22,6 @@ HWPH.put("a/586",
  "mentions":[],
  "see_also":[{"id":1018,"lemma":"Gegensatz"}],
  "groups":[{"id":22,"name":"Logik","label":"Diametral"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

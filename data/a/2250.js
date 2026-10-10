@@ -26,15 +26,7 @@ HWPH.put("a/2250",
  "next":{"id":2251,"lemma":"Orphik","band":"6","col":1378},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Originalität","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (allg.) 4 544–548 – II (ästh.) 4 548–552 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"Originalität","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":16,"name":"A. Schopenhauer","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},

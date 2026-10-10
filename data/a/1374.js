@@ -20,8 +20,7 @@ HWPH.put("a/1374",
  "register":[
   {"term":"Carpenter-Effekt","qualifier":"","band":null,"col":null},
   {"term":"Gesetz,ideomotorisches","qualifier":"","band":null,"col":null},
-  {"term":"Synkinesien","qualifier":"","band":null,"col":null},
-  {"term":"– I (nat.) 10 751–756 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Synkinesien","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1117,"name":"W. Hellpach","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

@@ -51,12 +51,9 @@ HWPH.put("a/3456",
   {"id":3370,"lemma":"Vagheit; vage","n":1}
  ],
  "register":[
-  {"term":"/Objekt III 10 411","qualifier":"II","band":"11","col":"1019"},
-  {"term":"ästhetische 12 138","qualifier":"","band":"11","col":"1014–1020"},
-  {"term":"ästhetische 12 138 confusio","qualifier":"","band":null,"col":null},
   {"term":"cognitio confusa/distincta","qualifier":"","band":null,"col":null},
   {"term":"cognitio intuitiva","qualifier":"II","band":"11","col":"1018"},
-  {"term":"das II 8 1353","qualifier":"I","band":"11","col":"1015f."},
+  {"term":"confusio","qualifier":"","band":null,"col":null},
   {"term":"distincte/confuse","qualifier":"I","band":null,"col":null},
   {"term":"dunkel","qualifier":"II","band":null,"col":null},
   {"term":"Erkenntnis, ästhetische","qualifier":"II","band":"11","col":"1018"},
@@ -65,16 +62,12 @@ HWPH.put("a/3456",
   {"term":"perceptio praegnans","qualifier":"II","band":"11","col":"1019"},
   {"term":"ratio conceptibilis","qualifier":"I","band":"11","col":"1015"},
   {"term":"ratio confusionis","qualifier":"I","band":"11","col":"1015"},
+  {"term":"Seiendes","qualifier":"I","band":"11","col":"1015f."},
+  {"term":"Sinnlichkeit","qualifier":"II","band":"11","col":"1019"},
   {"term":"suppositio confusa","qualifier":"I","band":"11","col":"1016"},
   {"term":"undeutlich","qualifier":"II","band":null,"col":null},
   {"term":"ἀσυγχύτως","qualifier":"I","band":"11","col":"1014"},
-  {"term":"σύγχυσις","qualifier":"I","band":"11","col":"1014"},
-  {
-   "term":"– I (Heidegger) 11 138 – II (Quine) 11 139f. s. auch",
-   "qualifier":"II",
-   "band":null,
-   "col":null
-  }
+  {"term":"σύγχυσις","qualifier":"I","band":"11","col":"1014"}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":4,"n":5,"l":0,"editor":0,"role":"source"},
@@ -168,7 +161,12 @@ HWPH.put("a/3456",
   {"id":161,"lemma":"Anschauung","tf":2},
   {"id":2233,"lemma":"Ordnung","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1571,"lemma":"Klar und deutlich"},
+  {"id":3285,"lemma":"Unbestimmtheit"},
+  {"id":3326,"lemma":"Unterscheiden; Unterscheidung"},
+  {"id":3370,"lemma":"Vagheit; vage"}
+ ],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Verworrenheit"}],
  "reg_authors":[{"name":"Gabriel Gottfried","n":51},{"name":"Knebel Sven K","n":19}]
 }

@@ -30,8 +30,7 @@ HWPH.put("a/501",
  "outlinks":[],
  "register":[
   {"term":"Paradies","qualifier":"(Cusanus)","band":"1","col":"1022"},
-  {"term":"Zusammenfall der Gegensätze","qualifier":"(Cusanus)","band":null,"col":null},
-  {"term":"– I (met.) 3 105–117 s. auch","qualifier":"(Cusanus)","band":null,"col":null}
+  {"term":"Zusammenfall der Gegensätze","qualifier":"(Cusanus)","band":null,"col":null}
  ],
  "persons":[
   {"id":51,"name":"Nikolaus von Kues","b":2,"n":2,"l":0,"editor":0,"role":"source"},

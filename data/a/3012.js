@@ -22,9 +22,7 @@ HWPH.put("a/3012",
   {"term":"point de vue","qualifier":"","band":"10","col":"103"},
   {"term":"punctum visus","qualifier":"","band":"10","col":"103"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Sehepunkt","qualifier":"","band":"10","col":"103"},
-  {"term":"– I (allg.) 7 363–375 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (hist.) 7 138–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Sehepunkt","qualifier":"","band":"10","col":"103"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -49,7 +47,10 @@ HWPH.put("a/3012",
   {"id":61,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3462,"lemma":"Vielheit","tf":2}],
- "see_also":[{"id":2282,"lemma":"Parteilichkeit"}],
+ "see_also":[
+  {"id":2282,"lemma":"Parteilichkeit"},
+  {"id":2326,"lemma":"Perspektive, Perspektivismus, perspektivisch"}
+ ],
  "groups":[{"id":14,"name":"Hermeneutik","label":"Standpunkt; Gesichtspunkt"}],
  "reg_authors":[{"name":"Röttgers Arndt","n":23}]
 }

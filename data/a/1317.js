@@ -17,7 +17,10 @@ HWPH.put("a/1317",
  "next":{"id":1318,"lemma":"Hybris","band":"3","col":1234},
  "backlinks":[{"id":3648,"lemma":"Witz","n":1}],
  "outlinks":[],
- "register":[{"term":"Blick","qualifier":"","band":"3","col":"1233f."}],
+ "register":[
+  {"term":"Blick","qualifier":"","band":"3","col":"1233f."},
+  {"term":"humour","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":199,"name":"Jean Paul","b":3,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -18,11 +18,11 @@ HWPH.put("a/105",
  "backlinks":[{"id":3510,"lemma":"Vorwissenschaftlich; vortheoretisch","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":"1","col":"194"},
-  {"term":"das (Heidegger) 5 706f. s. auch","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Durchschnittlichkeit","qualifier":"(Heidegger)","band":"1","col":"194"},
   {"term":"Gerede","qualifier":"(Heidegger)","band":"1","col":"195"},
   {"term":"Neugierde","qualifier":"(Heidegger)","band":"1","col":"195"},
-  {"term":"Weltbegriff, natürlicher","qualifier":"(Heidegger)","band":"1","col":"195"}
+  {"term":"Weltbegriff, natürlicher","qualifier":"(Heidegger)","band":"1","col":"195"},
+  {"term":"Zweideutigkeit","qualifier":"(Heidegger)","band":"1","col":"195"}
  ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -42,7 +42,9 @@ HWPH.put("a/105",
   {"id":129,"lemma":"Analytik des Daseins"},
   {"id":667,"lemma":"Eigentlichkeit/Uneigentlichkeit"},
   {"id":1757,"lemma":"Lebenswelt"},
-  {"id":1853,"lemma":"Man"}
+  {"id":1853,"lemma":"Man"},
+  {"id":2810,"lemma":"Sein zum Tode"},
+  {"id":3397,"lemma":"Verfallen"}
  ],
  "groups":[{"id":11,"name":"Existenzphilosophie","label":"Alltäglichkeit (Heidegger)"}],
  "reg_authors":[{"name":"Probst Peter","n":51},{"name":"Stöhr Johannes","n":5}]

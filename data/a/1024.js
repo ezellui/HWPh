@@ -18,8 +18,8 @@ HWPH.put("a/1024",
  "backlinks":[{"id":3708,"lemma":"Zukunft; Vergangenheit","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"(Husserl) Vermöglichkeit","qualifier":"(Husserl)","band":"3","col":"139"},
   {"term":"lebendige Gegenwart","qualifier":"(Husserl)","band":null,"col":null},
+  {"term":"Vermöglichkeit","qualifier":"(Husserl)","band":"3","col":"139"},
   {"term":"Zeitbewusstsein, inneres","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[

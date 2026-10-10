@@ -30,6 +30,7 @@ HWPH.put("a/1526",
  "outlinks":[{"id":1527,"lemma":"Kanonik","n":1}],
  "register":[
   {"term":"canon","qualifier":"","band":null,"col":null},
+  {"term":"Mass","qualifier":"","band":null,"col":null},
   {"term":"Richtschnur","qualifier":"","band":null,"col":null},
   {"term":"κανών","qualifier":"","band":null,"col":null}
  ],
@@ -133,6 +134,6 @@ HWPH.put("a/1526",
   {"id":9,"name":"Erkenntnistheorie","label":"Kanon 4. 8"},
   {"id":44,"name":"Theologie","label":"Kanon 5–6"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Szabó Árpád","n":3}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Szabó Árpád","n":3}]
 }
 );

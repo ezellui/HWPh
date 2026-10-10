@@ -18,10 +18,10 @@ HWPH.put("a/693",
  "backlinks":[{"id":3557,"lemma":"Welt","n":1},{"id":3558,"lemma":"Welt, mögliche","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"dialektische I 5 393 Welten, viele","qualifier":"","band":null,"col":null},
   {"term":"Mehrweltentheorie","qualifier":"","band":null,"col":null},
   {"term":"Pluralität von Welten","qualifier":"","band":null,"col":null},
-  {"term":"Vielheit der Welten","qualifier":"","band":null,"col":null}
+  {"term":"Vielheit der Welten","qualifier":"","band":null,"col":null},
+  {"term":"Welten, viele","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

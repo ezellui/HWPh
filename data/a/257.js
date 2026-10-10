@@ -17,10 +17,7 @@ HWPH.put("a/257",
  "next":{"id":258,"lemma":"Ascensus/Descensus","band":"1","col":536},
  "backlinks":[{"id":939,"lemma":"Form und Materie (Stoff)","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"μορφή","qualifier":"(Conrad-Martius)","band":"1","col":"536"},
-  {"term":"– I (met.) 2 506f. s. auch","qualifier":"(Conrad-Martius)","band":null,"col":null}
- ],
+ "register":[{"term":"μορφή","qualifier":"(Conrad-Martius)","band":"1","col":"536"}],
  "persons":[
   {"id":726,"name":"H. Conrad-Martius","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},

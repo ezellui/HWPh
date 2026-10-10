@@ -45,8 +45,8 @@ HWPH.put("a/3430",
   {"term":"distinctio","qualifier":"","band":"11","col":"880"},
   {"term":"diversitas","qualifier":"","band":null,"col":null},
   {"term":"Gleichheit/Ungleichheit","qualifier":"","band":"11","col":"882"},
-  {"term":"II-III (log.)","qualifier":"","band":null,"col":null},
-  {"term":"II-III Identität","qualifier":"","band":null,"col":null},
+  {"term":"Identität","qualifier":"","band":null,"col":null},
+  {"term":"inaequalitas","qualifier":"","band":"11","col":"880"},
   {"term":"Inhaltsfremdheit","qualifier":"","band":"11","col":"882"},
   {"term":"multiplicitas","qualifier":"","band":"11","col":"880"},
   {"term":"oppositio","qualifier":"","band":"11","col":"880"},
@@ -56,8 +56,7 @@ HWPH.put("a/3430",
   {"term":"Vielheit","qualifier":"","band":"11","col":"882"},
   {"term":"ἑτερότης","qualifier":"","band":null,"col":null},
   {"term":"θάτερον","qualifier":"","band":"11","col":"879"},
-  {"term":"ταὐτόν","qualifier":"","band":"11","col":"879"},
-  {"term":"– II (met.) 3 672 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ταὐτόν","qualifier":"","band":"11","col":"879"}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":14,"l":0,"editor":0,"role":"source"},
@@ -190,7 +189,8 @@ HWPH.put("a/3430",
   {"id":138,"lemma":"Andersheit, Anderssein"},
   {"id":619,"lemma":"Distinctio formalis"},
   {"id":3326,"lemma":"Unterscheiden; Unterscheidung"},
-  {"id":3327,"lemma":"Unterschied"}
+  {"id":3327,"lemma":"Unterschied"},
+  {"id":858,"lemma":"Exhaustion, Variation"}
  ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Verschiedenheit"}],
  "reg_authors":[{"name":"Knebel Sven K","n":19}]

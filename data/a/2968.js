@@ -34,9 +34,9 @@ HWPH.put("a/2968",
   {"term":"Bewunderung","qualifier":"","band":"9","col":"1353"},
   {"term":"contemplator caeli","qualifier":"","band":null,"col":null},
   {"term":"Himmelsbeobachter","qualifier":"","band":null,"col":null},
-  {"term":"natürliche bzw. vernünftige 8 723 κοσμοθεωρός","qualifier":"","band":"9","col":"1350"},
   {"term":"Selbstachtung","qualifier":"","band":"9","col":"1353"},
-  {"term":"Weltmitte","qualifier":"","band":"9","col":"1353"}
+  {"term":"Weltmitte","qualifier":"","band":"9","col":"1353"},
+  {"term":"κοσμοθεωρός","qualifier":"","band":"9","col":"1350"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":3,"n":3,"l":0,"editor":0,"role":"source"},

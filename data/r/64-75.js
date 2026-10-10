@@ -1,7 +1,11 @@
 HWPH.put("r/64-75",
 [
  ["Du","Du","","2","295–297","main",639,"Du","du"],
- ["Du","Andere","",null,null,"see",137,"Andere","du"],
+ ["Du","Andere, der","",null,null,"see",137,"Andere","du"],
+ ["Du","Dialog","",null,null,"see",585,"Dialog, dialogisch","du"],
+ ["Du","Ich-Du-Verhältnis","",null,null,"see",1336,"Ich-Du-Verhältnis","du"],
+ ["Du","Mitmensch","",null,null,"see",1982,"Mitmensch","du"],
+ ["Du","Wir","",null,null,"see",3625,"Wir","du"],
  ["Du","Einsamkeit","II","2","412","ref",688,"Einsamkeit","du"],
  ["Du","Einzige, der","","2","429","ref",697,"Einzige, Einzigkeit","du"],
  ["Du","Liebe","IV","5","320","ref",1795,"Liebe","du"],
@@ -13,7 +17,7 @@ HWPH.put("r/64-75",
  ["Dualismus","Mitmensch","","5","1418","ref",1982,"Mitmensch","dualismus"],
  ["dubitatio","Zweifel","",null,null,"ref",3722,"Zweifel","dubitatio"],
  [
-  "dubitatio","Obligatio; Ars obligatoria II (log.)","","6","1068","ref",2194,
+  "dubitatio","Obligatio; Ars obligatoria","II (log.)","6","1068","ref",2194,
   "Obligatio, Ars obligatoria","dubitatio"
  ],
  ["dubium","Zweifel","",null,null,"ref",3722,"Zweifel","dubium"],
@@ -25,9 +29,11 @@ HWPH.put("r/64-75",
  ["Duldemut","Trauer; Trauerarbeit","","10","1455","ref",3224,"Trauer; Trauerarbeit","duldemut"],
  ["Duldung","Toleranz","",null,null,"ref",3201,"Toleranz","duldung"],
  ["Dummheit","Dummheit","","2","299f.","main",641,"Dummheit","dummheit"],
- ["Dummheit","Torheit Dummheit","",null,null,"see",null,null,"dummheit"],
+ ["Dummheit","Torheit","",null,null,"see",3207,"Torheit; Narrheit","dummheit"],
+ ["Dummheit","Naivität/Pietät","(Wust)","6","364","ref",2065,"Naivität/Pietät","dummheit"],
+ ["Dummheit","Urteilskraft","","11","481","ref",3359,"Urteilskraft; Urteilsvermögen","dummheit"],
  ["Dumpfheit","Naivität/Pietät","(Wust)","6","363f.","ref",2065,"Naivität/Pietät","dumpfheit"],
- ["dunkel","Mystik II","",null,null,"ref",2050,"Mystik, mystisch","dunkel"],
+ ["dunkel","Mystik","II",null,null,"ref",2050,"Mystik, mystisch","dunkel"],
  ["dunkel","Tiefe","",null,null,"ref",3190,"Tiefe; Tiefsinn","dunkel"],
  ["dunkel","Unverständlichkeit","",null,null,"ref",3333,"Unverständlichkeit","dunkel"],
  ["dunkel","Verworrenheit","II",null,null,"ref",3456,"Verworrenheit","dunkel"],
@@ -83,7 +89,12 @@ HWPH.put("r/64-75",
   "durchdringung (theol.)"
  ],
  ["Durchkreuzung","Vierung","(Heidegger)","11","1055","ref",3463,"Vierung","durchkreuzung"],
- ["Durchkreuzung","Vierung","(Heidegger)",null,null,"ref",3463,"Vierung","durchkreuzung"],
+ ["Durchkreuzung","Vierung","(Heidegger) X","12","1103f.","ref",3665,"X","durchkreuzung"],
+ ["Durchschnittlichkeit","Man, das","(Heidegger)",null,null,"ref",1853,"Man","durchschnittlichkeit"],
+ [
+  "Durchschnittlichkeit","Alltäglichkeit","(Heidegger)","1","194","ref",105,"Alltäglichkeit",
+  "durchschnittlichkeit"
+ ],
  [
   "Durchschnittsmensch","Wahrscheinlichkeit","IV A","12","274","ref",3540,"Wahrscheinlichkeit",
   "durchschnittsmensch"
@@ -103,7 +114,10 @@ HWPH.put("r/64-75",
  ["durée pure","Dauer","","2","27","ref",530,"Dauer","duree pure"],
  ["durities cordis","Verstockung","",null,null,"ref",3440,"Verstockung","durities cordis"],
  ["dux vitae","Philosophie","II C","7","627","ref",2353,"Philosophie","dux vitae"],
- ["Dubiel Helmut","Identität","",null,null,"author",1366,"Identität","dubiel helmut"],
+ [
+  "Dubiel Helmut","Identität; Ich-Identität","","4","148–151","author",1366,"Identität",
+  "dubiel helmut"
+ ],
  ["Dubiel Helmut","Institution","","4","418–424","author",1454,"Institution","dubiel helmut"],
  [
   "Dubiel Helmut","Theorie, kritische","","10","1154–1156","author",3180,"Theorie, kritische",

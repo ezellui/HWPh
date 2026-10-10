@@ -21,8 +21,7 @@ HWPH.put("a/258",
   {"term":"Abstieg (log.)","qualifier":"","band":null,"col":null},
   {"term":"consequentia","qualifier":"","band":null,"col":null},
   {"term":"constantia singularium","qualifier":"","band":"1","col":"537"},
-  {"term":"descensus","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 3 269 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"descensus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2036,"name":"Petrus Tartaretus","b":1,"n":1,"l":0,"editor":0,"role":"source"},

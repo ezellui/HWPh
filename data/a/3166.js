@@ -25,6 +25,7 @@ HWPH.put("a/3166",
  ],
  "outlinks":[{"id":2231,"lemma":"Optimismus","n":1},{"id":2370,"lemma":"Physikotheologie","n":1}],
  "register":[
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"harmonia rerum","qualifier":"","band":"10","col":"1066"},
   {"term":"mundus optimus","qualifier":"","band":"10","col":"1067"},
   {"term":"necessitas moralis","qualifier":"","band":"10","col":"1067"},

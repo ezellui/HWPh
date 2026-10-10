@@ -27,8 +27,7 @@ HWPH.put("a/2309",
   {"term":"langue/parole","qualifier":"","band":"7","col":"249"},
   {"term":"Lernen","qualifier":"","band":"7","col":"248"},
   {"term":"performance","qualifier":"","band":null,"col":null},
-  {"term":"Sprachverwendung","qualifier":"","band":null,"col":null},
-  {"term":"– VI (sprach.) 4 923–933 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Sprachverwendung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":345,"name":"N. Chomsky","b":3,"n":4,"l":0,"editor":0,"role":"source"},

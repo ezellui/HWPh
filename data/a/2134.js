@@ -18,7 +18,6 @@ HWPH.put("a/2134",
  "backlinks":[{"id":2587,"lemma":"Realisierung, Realisation","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Ich-Identität","qualifier":"","band":null,"col":null},
   {"term":"Ich/Nicht-Ich","qualifier":"","band":null,"col":null},
   {"term":"ichlich","qualifier":"","band":"6","col":"801"}
  ],

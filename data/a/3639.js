@@ -18,15 +18,13 @@ HWPH.put("a/3639",
  "backlinks":[{"id":3635,"lemma":"Wissenschaft","n":1},{"id":3638,"lemma":"Wissenschaft, Schönheit der","n":1}],
  "outlinks":[{"id":1508,"lemma":"Je ne sais quoi","n":1}],
  "register":[
-  {"term":"das","qualifier":"","band":null,"col":null},
+  {"term":"beaux-arts","qualifier":"","band":"12","col":"955"},
+  {"term":"belles-lettres","qualifier":"","band":"12","col":"955f."},
   {"term":"Künste, redende","qualifier":"","band":"12","col":"956"},
-  {"term":"Literaturkritik","qualifier":"","band":null,"col":null},
   {"term":"litterae humaniores","qualifier":"","band":"12","col":"954"},
   {"term":"redende Künste","qualifier":"","band":"12","col":"956"},
-  {"term":"schöne beaux-arts","qualifier":"","band":"12","col":"955"},
-  {"term":"schöne belles-lettres","qualifier":"","band":"12","col":"955f."},
   {"term":"schöne Künste","qualifier":"","band":"12","col":"955"},
-  {"term":"schöne schöne Wissenschaften","qualifier":"","band":null,"col":null}
+  {"term":"schöne Wissenschaften","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":205,"name":"J. G. Sulzer","b":2,"n":2,"l":0,"editor":0,"role":"source"},

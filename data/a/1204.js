@@ -25,6 +25,7 @@ HWPH.put("a/1204",
  "register":[
   {"term":"beatitudo philosophica","qualifier":"","band":"3","col":"974"},
   {"term":"finis ultimus","qualifier":"","band":"3","col":"973"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"höchstes Gut","qualifier":"","band":null,"col":null},
   {"term":"iucundum","qualifier":"","band":"3","col":"973"},
   {"term":"praktische Vernunft","qualifier":"","band":"3","col":"974"},

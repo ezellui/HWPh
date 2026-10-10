@@ -24,16 +24,15 @@ HWPH.put("a/2844",
  ],
  "outlinks":[{"id":2243,"lemma":"Organismus","n":1},{"id":2463,"lemma":"Probabilismus, probabilistisch","n":1}],
  "register":[
-  {"term":"/Potenz","qualifier":"","band":null,"col":null},
   {"term":"Autopoiese","qualifier":"","band":"9","col":"513"},
+  {"term":"Bedeutung/Potenz","qualifier":"","band":null,"col":null},
   {"term":"Gleichgewicht, dynamisches","qualifier":"","band":"9","col":"511"},
   {"term":"Konstruktivismus, radikaler","qualifier":"","band":"9","col":"513"},
   {"term":"order from noise/from order","qualifier":"","band":"9","col":"512"},
   {"term":"Ordnung durch Fluktuation","qualifier":"","band":"9","col":"512f."},
   {"term":"Selbstbewegung","qualifier":"","band":"9","col":"511"},
   {"term":"self-organization","qualifier":"","band":null,"col":null},
-  {"term":"Synergetik","qualifier":"","band":"9","col":"513"},
-  {"term":"– II (soz.) 9 516–518 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Synergetik","qualifier":"","band":"9","col":"513"}
  ],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":2,"n":3,"l":0,"editor":0,"role":"source"},

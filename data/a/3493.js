@@ -26,19 +26,18 @@ HWPH.put("a/3493",
  ],
  "register":[
   {"term":"anticipation","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"das prerogativa","qualifier":"(Heidegger)","band":"11","col":"1188"},
+  {"term":"Begriff","qualifier":"(Heidegger)","band":"11","col":"1189"},
   {"term":"Dasein (Heidegger)","qualifier":"(Heidegger)","band":"11","col":"1189"},
   {"term":"Erfahrung, transzendentale (Rahner)","qualifier":"(Heidegger)","band":"11","col":"1190"},
   {"term":"Erwartungsintention","qualifier":"(Heidegger)","band":"11","col":"1189"},
+  {"term":"foreconception","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"foresight","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"philosophische 5 454","qualifier":"(Heidegger)","band":"11","col":"1189"},
   {"term":"praeiudicium","qualifier":"(Heidegger)","band":"11","col":"1188"},
   {"term":"pré-aquisation","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"prerogativa","qualifier":"(Heidegger)","band":"11","col":"1188"},
   {"term":"prévision","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Vorhabe","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"Vorsicht","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"– I (erk.) 1 419–423 s. auch","qualifier":"(Heidegger)","band":null,"col":null}
+  {"term":"Vorsicht","qualifier":"(Heidegger)","band":null,"col":null}
  ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":3,"n":2,"l":0,"editor":0,"role":"source"},
@@ -55,7 +54,11 @@ HWPH.put("a/3493",
   {"id":41854,"name":"Philipp","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":527,"lemma":"Dasein","tf":4},{"id":2634,"lemma":"Reflexion","tf":2}],
- "see_also":[],
+ "see_also":[
+  {"id":129,"lemma":"Analytik des Daseins"},
+  {"id":3276,"lemma":"Umsicht"},
+  {"id":3508,"lemma":"Vorverständnis"}
+ ],
  "groups":[
   {"id":11,"name":"Existenzphilosophie","label":"Vorgriff; Vorhabe; Vorsicht (Heidegger)"},
   {"id":14,"name":"Hermeneutik","label":"Vorgriff; Vorhabe; Vorsicht (Heidegger)"}

@@ -17,7 +17,10 @@ HWPH.put("a/831",
  "next":{"id":832,"lemma":"Essenz, essentia","band":"2","col":753},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Philosophie, positive","qualifier":"(Schelling)","band":null,"col":null}],
+ "register":[
+  {"term":"Philosophie, positive","qualifier":"(Schelling)","band":null,"col":null},
+  {"term":"Tod","qualifier":"(Schelling)","band":null,"col":null}
+ ],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":73,"name":"K. F. A. Schelling","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

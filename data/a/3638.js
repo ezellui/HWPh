@@ -24,7 +24,6 @@ HWPH.put("a/3638",
   {"id":3639,"lemma":"Wissenschaften, schöne","n":1}
  ],
  "register":[
-  {"term":"das – II (wiss.) 10 749–751 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Schönheit der Wissenschaft","qualifier":"","band":null,"col":null},
   {"term":"Schönheit, veritative","qualifier":"","band":"12","col":"952"},
   {"term":"veritative Schönheit","qualifier":"","band":"12","col":"952"},

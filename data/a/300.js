@@ -17,14 +17,7 @@ HWPH.put("a/300",
  "next":{"id":301,"lemma":"Ausdrucksprinzip","band":"1","col":663},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {
-   "term":"– I (allg.) 1 653–655 – II (ästh.) 1 655–661 – III (psych.) 1 x- 661f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[],
  "persons":[
   {"id":31,"name":"W. Wundt","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":260,"name":"Ch. Darwin","b":1,"n":0,"l":0,"editor":0,"role":"source"},

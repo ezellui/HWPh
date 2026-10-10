@@ -39,8 +39,7 @@ HWPH.put("a/263",
   {"term":"Reproduktion (erk.)","qualifier":"I","band":"1","col":"549"},
   {"term":"Vergessen","qualifier":"II","band":"1","col":"552"},
   {"term":"Verknüpfung, assoziative","qualifier":"II","band":null,"col":null},
-  {"term":"Vorstellungsverbindung","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 5 245–247 s. auch","qualifier":"II","band":null,"col":null}
+  {"term":"Vorstellungsverbindung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1955,"name":"C. E. Osgood","b":2,"n":3,"l":0,"editor":0,"role":"mixed"},

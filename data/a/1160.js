@@ -108,6 +108,6 @@ HWPH.put("a/1160",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Gnosis"},
   {"id":44,"name":"Theologie","label":"Gnosis I"}
  ],
- "reg_authors":[{"name":"Behse Georg","n":3},{"name":"Red","n":242},{"name":"Stupperich Robert","n":3}]
+ "reg_authors":[{"name":"Behse Georg","n":3},{"name":"Red","n":241},{"name":"Stupperich Robert","n":3}]
 }
 );

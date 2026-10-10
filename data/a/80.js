@@ -25,8 +25,7 @@ HWPH.put("a/80",
   {"term":"Erkundungsverhalten","qualifier":"","band":"1","col":"131"},
   {"term":"Erregung","qualifier":"","band":"1","col":"130"},
   {"term":"Neugierverhalten","qualifier":"","band":"1","col":"131"},
-  {"term":"Verhalten","qualifier":"","band":null,"col":null},
-  {"term":"– I (psych.) 6 218–221 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verhalten","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":4542,"name":"E. Duffy","b":3,"n":3,"l":1,"editor":0,"role":"mixed"},

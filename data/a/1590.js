@@ -18,7 +18,6 @@ HWPH.put("a/1590",
  "backlinks":[{"id":3648,"lemma":"Witz","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"das 5 1–8 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Kontrast (ästh.)","qualifier":"","band":null,"col":null},
   {"term":"Lachen","qualifier":"","band":null,"col":null},
   {"term":"laughter","qualifier":"","band":null,"col":null}

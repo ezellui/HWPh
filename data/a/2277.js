@@ -18,11 +18,11 @@ HWPH.put("a/2277",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"das 5 1–8 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"das Komische, das","qualifier":"","band":"7","col":"126"},
-  {"term":"Ironie","qualifier":"","band":"7","col":"126"},
+  {"term":"Humor","qualifier":"","band":"7","col":"126"},
+  {"term":"Ironie","qualifier":"","band":"7","col":"125"},
+  {"term":"Komische, das","qualifier":"","band":"7","col":"126"},
   {"term":"Kontrafaktur","qualifier":"","band":"7","col":"123f."},
-  {"term":"Urbanität","qualifier":"","band":"7","col":"125"},
+  {"term":"Witz","qualifier":"","band":"7","col":"125"},
   {"term":"παρη¸ δία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -157,7 +157,7 @@ HWPH.put("a/2277",
   {"id":101,"lemma":"Allgemeines/Besonderes","tf":2},
   {"id":991,"lemma":"Gattung, Genus","tf":3}
  ],
- "see_also":[{"id":1723,"lemma":"Lächerliche"}],
+ "see_also":[{"id":1723,"lemma":"Lächerliche"},{"id":2742,"lemma":"Satire, satirisch"}],
  "groups":[{"id":21,"name":"Literaturtheorie","label":"Parodie"}],
  "reg_authors":[{"name":"Reckermann Alfons","n":7}]
 }

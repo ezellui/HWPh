@@ -23,6 +23,7 @@ HWPH.put("a/3191",
  "outlinks":[],
  "register":[
   {"term":"Bewusstseins-Psychologie","qualifier":"","band":"10","col":"1194"},
+  {"term":"depth psychology","qualifier":"","band":null,"col":null},
   {"term":"Höhenpsychologie","qualifier":"","band":"10","col":"1195"},
   {"term":"psychologie abyssale","qualifier":"","band":null,"col":null},
   {"term":"Tiefe","qualifier":"","band":"10","col":"1195"},
@@ -52,6 +53,6 @@ HWPH.put("a/3191",
  "mentions":[{"id":2506,"lemma":"Psychoanalyse","tf":3}],
  "see_also":[{"id":2506,"lemma":"Psychoanalyse"}],
  "groups":[{"id":35,"name":"Psychoanalyse","label":"Tiefenpsychologie"}],
- "reg_authors":[{"name":"Dierauer Urs","n":1},{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Dierauer Urs","n":1},{"name":"Hühn Helmut","n":52}]
 }
 );

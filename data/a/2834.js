@@ -29,10 +29,9 @@ HWPH.put("a/2834",
   {"term":"Flucht","qualifier":"","band":null,"col":null},
   {"term":"fuga sui ipsius","qualifier":"","band":null,"col":null},
   {"term":"Gottesflucht","qualifier":"","band":null,"col":null},
-  {"term":"Ich-Identität","qualifier":"","band":null,"col":null},
+  {"term":"inconstance","qualifier":"","band":"9","col":"441"},
   {"term":"inquiétude","qualifier":"","band":"9","col":"441"},
   {"term":"mauvaise foi","qualifier":"","band":"9","col":"442"},
-  {"term":"performativer 12 699 inconstance","qualifier":"","band":"9","col":"441"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Selbsthass","qualifier":"","band":"9","col":"440"},
   {"term":"Tatendrang","qualifier":"","band":"9","col":"442"},
@@ -96,6 +95,6 @@ HWPH.put("a/2834",
   {"id":2,"name":"Anthropologie","label":"Selbstflucht"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Selbstflucht"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Ströker Elisabeth","n":5}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Ströker Elisabeth","n":5}]
 }
 );

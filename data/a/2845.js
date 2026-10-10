@@ -30,14 +30,12 @@ HWPH.put("a/2845",
  "register":[
   {"term":"Fremdreferenz","qualifier":"II (soz.)","band":"9","col":"516f."},
   {"term":"Lügner","qualifier":"I (log.)","band":null,"col":null},
-  {"term":"performativer 12 699f. s. auch","qualifier":"I (log.)","band":null,"col":null},
   {"term":"Reflexion","qualifier":"II (soz.)","band":"9","col":"516f."},
   {"term":"Reflexivität","qualifier":"II (soz.)","band":"9","col":"517"},
   {"term":"selbstanwendbar","qualifier":"I (log.)","band":null,"col":null},
-  {"term":"Selbstbewusstsein III","qualifier":"","band":null,"col":null},
   {"term":"Selbstbezüglichkeit","qualifier":"","band":null,"col":null},
-  {"term":"System, selbstreferentielles","qualifier":"II (soz.)","band":null,"col":null},
-  {"term":"– II (log.) 1 396–405 s. auch","qualifier":"I (log.)","band":null,"col":null}
+  {"term":"self-reference","qualifier":"","band":null,"col":null},
+  {"term":"System, selbstreferentielles","qualifier":"II (soz.)","band":null,"col":null}
  ],
  "persons":[
   {"id":93,"name":"N. Luhmann","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -92,7 +90,13 @@ HWPH.put("a/2845",
   {"id":594,"lemma":"Differenz","tf":2},
   {"id":1930,"lemma":"Merkmal","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":185,"lemma":"Antinomie"},
+  {"id":1450,"lemma":"Insolubilia"},
+  {"id":3695,"lemma":"Zirkel"},
+  {"id":2844,"lemma":"Selbstorganisation"},
+  {"id":3117,"lemma":"Systemtheorie; System, soziales"}
+ ],
  "groups":[
   {"id":22,"name":"Logik","label":"Selbstreferenz I (log.)"},
   {"id":42,"name":"Soziologie","label":"Selbstreferenz II (soz.)"}

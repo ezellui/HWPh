@@ -17,7 +17,7 @@ HWPH.put("a/3150",
  "next":{"id":3151,"lemma":"Terminismus","band":"10","col":1004},
  "backlinks":[{"id":3181,"lemma":"Theoriesprache","n":1}],
  "outlinks":[{"id":2987,"lemma":"Sprache, formale","n":1},{"id":3153,"lemma":"Terminus","n":1}],
- "register":[{"term":"der Befreiung","qualifier":"","band":"10","col":"1004"}],
+ "register":[],
  "persons":[
   {"id":47,"name":"B. Russell","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":183,"name":"A. N. Whitehead","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -34,7 +34,7 @@ HWPH.put("a/3150",
   {"id":2640,"lemma":"Regel","tf":2},
   {"id":1803,"lemma":"Logik","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":928,"lemma":"Formales System"},{"id":3373,"lemma":"Variable"}],
  "groups":[{"id":22,"name":"Logik","label":"Term"}],
  "reg_authors":[{"name":"Stekeler-Weithofer Pirmin","n":19}]
 }

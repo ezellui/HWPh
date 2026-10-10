@@ -24,7 +24,6 @@ HWPH.put("a/1044",
  "outlinks":[],
  "register":[
   {"term":"Allgemeingültigkeit","qualifier":"","band":"3","col":"234"},
-  {"term":"das","qualifier":"","band":"3","col":"232–235"},
   {"term":"Validität","qualifier":"","band":null,"col":null},
   {"term":"wirklich","qualifier":"","band":"3","col":"232"}
  ],

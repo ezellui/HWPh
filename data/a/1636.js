@@ -30,7 +30,6 @@ HWPH.put("a/1636",
   {"term":"Kontinuität","qualifier":"","band":null,"col":null},
   {"term":"Lage","qualifier":"","band":null,"col":null},
   {"term":"nebeneinander","qualifier":"","band":null,"col":null},
-  {"term":"performativer 12 700","qualifier":"","band":"4","col":"1026f."},
   {"term":"ἁπτόμενον","qualifier":"","band":null,"col":null},
   {"term":"ἐφεξῆς","qualifier":"I","band":"4","col":"1026"},
   {"term":"ἐχόμενον","qualifier":"","band":null,"col":null}

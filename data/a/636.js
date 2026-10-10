@@ -27,6 +27,6 @@ HWPH.put("a/636",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":44,"name":"Theologie","label":"Dreieinigkeit; Dreifaltigkeit"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

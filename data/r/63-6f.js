@@ -15,7 +15,9 @@ HWPH.put("r/63-6f",
  ["coaeternum","Koäternität","",null,null,"ref",1576,"Koäternität","coaeternum"],
  ["coarcervatio","Artikulation","I","1","535","ref",256,"Artikulation","coarcervatio"],
  ["coarctatio","Verdichtung","I (nat.)","11","606","ref",3390,"Verdichtung","coarctatio"],
- ["Code","Horizont","III",null,null,"ref",1310,"Horizont","code"],
+ ["Code","Horizont","III 4 (ling.)","3","1204","ref",1310,"Horizont","code"],
+ ["Code","Kommunikationswissenschaft","","4","898","ref",1594,"Kommunikationswissenschaft","code"],
+ ["Code","Repräsentation","IV (psych.)","8","840ff.","ref",2686,"Repräsentation","code"],
  [
   "Code, restringierter/elaborierter","Soziolinguistik","","9","1268","ref",2959,"Soziolinguistik",
   "code, restringierter/elaborierter"
@@ -23,11 +25,21 @@ HWPH.put("r/63-6f",
  ["coeffector","Wille","II","12","775","ref",3620,"Wille","coeffector"],
  ["coelum empyreum","Kreis; Kugel","","4","1212","ref",1687,"Kreis und Kugel","coelum empyreum"],
  [
-  "coenoscopic","Phaneroskopie (Peirce)","","7","460","ref",2339,"Phaneroskopie, Phaneron",
+  "coelum empyreum","Sublunar/translunar","","10","478","ref",3057,"Sublunar/translunar",
+  "coelum empyreum"
+ ],
+ [
+  "coenoscopic","Phaneroskopie","(Peirce)","7","460","ref",2339,"Phaneroskopie, Phaneron",
   "coenoscopic"
  ],
  ["coercion","Zwang","",null,null,"ref",3717,"Zwang","coercion"],
  ["cogitabile","Denken","I","2","61","ref",552,"Denken","cogitabile"],
+ ["cogitabile","Res","","8","898","ref",2691,"Res","cogitabile"],
+ ["cogitabile","Sein; Seiendes","IV","9","202","ref",2806,"Sein; Seiendes","cogitabile"],
+ [
+  "cogitabile","Supertranszendent","","10","645","ref",3081,"Supertranszendent; Supertranszendenz",
+  "cogitabile"
+ ],
  ["cogitabilitas","Wahrheit","IV","12","83","ref",3523,"Wahrheit","cogitabilitas"],
  ["cogitatio","Denken","",null,null,"ref",552,"Denken","cogitatio"],
  ["cogitatio","Gedanke","",null,null,"ref",999,"Gedanke","cogitatio"],
@@ -38,14 +50,15 @@ HWPH.put("r/63-6f",
  ["cogitatio","Meditation","I (allg.)","5","963","ref",1905,"Meditation","cogitatio"],
  ["cogitatio","Selbstbewusstsein","II","9","352","ref",2828,"Selbstbewußtsein","cogitatio"],
  ["cogitatio","Wahrnehmung","III","12","205","ref",3539,"Wahrnehmung","cogitatio"],
- ["cogitatio","Wort","",null,null,"ref",3656,"Wort","cogitatio"],
+ ["cogitatio","Wort, inneres","","12","1042","ref",3657,"Wort, inneres; Rede, innere","cogitatio"],
+ ["cogitatio divina","Denken","I","2","82","ref",552,"Denken","cogitatio divina"],
  ["cogitatio formata","Einsprechung","","2","416","ref",690,"Einsprechung","cogitatio formata"],
  ["cogitatio symbolica","Denken","I","2","82","ref",552,"Denken","cogitatio symbolica"],
  [
   "cogito","Apperzeption, transzendentale","","1","451","ref",213,"Apperzeption, transzendentale",
   "cogito"
  ],
- ["cogito","Erkenntnis I (erk.)","","2","652","ref",796,"Erkennen, Erkenntnis","cogito"],
+ ["cogito","Erkenntnis","I (erk.)","2","652","ref",796,"Erkennen, Erkenntnis","cogito"],
  ["cogito","Präsupposition","II","7","1270","ref",2446,"Präsupposition","cogito"],
  ["cogito","Sein; Seiendes","IV","9","204","ref",2806,"Sein; Seiendes","cogito"],
  [
@@ -177,7 +190,15 @@ HWPH.put("r/63-6f",
   "cognitio sensitiva","Sinnlichkeit","","9","893","ref",2901,"Sinnlichkeit; sinnlich",
   "cognitio sensitiva"
  ],
- ["cognitio sensitiva","Wahrheit","",null,null,"ref",3523,"Wahrheit","cognitio sensitiva"],
+ [
+  "cognitio sensitiva","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","cognitio sensitiva"
+ ],
+ ["cognitio sensitiva","Wahrnehmung","II","12","197","ref",3539,"Wahrnehmung","cognitio sensitiva"],
+ [
+  "cognitio sensitiva","Wahrnehmung","VIII (ästh.)","12","236","ref",3539,"Wahrnehmung",
+  "cognitio sensitiva"
+ ],
  [
   "cognitio sensualis","Vernunft; Verstand","IV","11","804","ref",3423,"Vernunft; Verstand",
   "cognitio sensualis"
@@ -194,7 +215,11 @@ HWPH.put("r/63-6f",
  ],
  ["cognitio symbolica","Sprache","III","9","1475","ref",2985,"Sprache","cognitio symbolica"],
  ["cognitio symbolica","Symbol","I","10","718f.","ref",3093,"Symbol","cognitio symbolica"],
- ["cognitio symbolica","Wort","",null,null,"ref",3656,"Wort","cognitio symbolica"],
+ [
+  "cognitio symbolica","Wort, inneres","","12","1042","ref",3657,"Wort, inneres; Rede, innere",
+  "cognitio symbolica"
+ ],
+ ["cognitio symbolica","Zeichen","I","12","1165","ref",3673,"Zeichen","cognitio symbolica"],
  ["cognitio universalis","Pansophie","","7","56","ref",2265,"Pansophie","cognitio universalis"],
  [
   "cognitio vespertina","Sein, ideales/reales","I","9","235","ref",2807,"Sein, ideales/reales",
@@ -204,7 +229,11 @@ HWPH.put("r/63-6f",
   "cognitio viva","Beispiel; Exempel","","1","820","ref",379,"Beispiel, Exempel, exemplarisch",
   "cognitio viva"
  ],
- ["cognition","Kognition cognitive linguistics","",null,null,"ref",null,null,"cognition"],
+ ["cognition","Kognition","",null,null,"ref",1578,"Kognition, kognitiv","cognition"],
+ [
+  "cognitive linguistics","Stratifikation","I (ling.)","10","267","ref",3037,"Stratifikation",
+  "cognitive linguistics"
+ ],
  [
   "cognitive psychology","Science, cognitive","",null,null,"ref",2789,"Science, Cognitive",
   "cognitive psychology"
@@ -215,9 +244,10 @@ HWPH.put("r/63-6f",
   "cognitive rationality"
  ],
  [
-  "cognitive science","Science, cognitive cognito","",null,null,"ref",2789,"Science, Cognitive",
+  "cognitive science","Science, cognitive","",null,null,"ref",2789,"Science, Cognitive",
   "cognitive science"
  ],
+ ["cognito","Erkenntnis","I (erk.)","2","649f.","ref",796,"Erkennen, Erkenntnis","cognito"],
  ["cognitum","Sein, objektives","",null,null,"ref",2809,"Sein, objektives","cognitum"],
  ["cognoscere","Denken","I","2","61","ref",552,"Denken","cognoscere"],
  [
@@ -229,8 +259,13 @@ HWPH.put("r/63-6f",
   "cognoscibile"
  ],
  [
-  "cohaesio; cohaerentia","Kohäsion; Kohärenz coherence","",null,null,"ref",1580,
-  "Kohäsion, Kohärenz","cohaesio; cohaerentia"
+  "cohaesio; cohaerentia","Kohäsion; Kohärenz","",null,null,"ref",1580,"Kohäsion, Kohärenz",
+  "cohaesio; cohaerentia"
+ ],
+ ["coherence","Wahrheit","VI C(analyt. Philos.)","12","117","ref",3523,"Wahrheit","coherence"],
+ [
+  "coincidentia contrariorum","Privation","","7","1380","ref",2461,"Privation",
+  "coincidentia contrariorum"
  ],
  [
   "coincidentia oppositorum","Maximum/Minimum","","5","947","ref",1901,"Maximum/Minimum",
@@ -292,6 +327,7 @@ HWPH.put("r/63-6f",
   "collectivisme","Kollektiv; Kollektivismus collegium","",null,null,"ref",1586,
   "Kollektivismus, Kollektiv","collectivisme"
  ],
+ ["colligantia","Species","I (met.)","9","1332","ref",2966,"Species","colligantia"],
  [
   "colloquial language","Umgangssprache","",null,null,"ref",3273,"Umgangssprache",
   "colloquial language"
@@ -329,7 +365,11 @@ HWPH.put("r/63-6f",
  ],
  ["commiseratio","Mitleid","",null,null,"ref",1981,"Mitleid","commiseratio"],
  ["commissio","Unterlassung","","11","304f.","ref",3325,"Unterlassung; Unterlassen","commissio"],
- ["commodity","Ware common consent","",null,null,"ref",null,null,"commodity"],
+ ["commodity","Ware","",null,null,"ref",3545,"Ware; Warencharakter; Warenfetischismus","commodity"],
+ [
+  "common consent","Meinung, öffentliche","","5","1024","ref",1913,"Meinung, öffentliche",
+  "common consent"
+ ],
  ["common good","Gemeinwohl","",null,null,"ref",1053,"Gemeinwohl","common good"],
  [
   "common knowledge","Sensus communis","III","9","656","ref",2869,"Sensus communis",
@@ -359,8 +399,12 @@ HWPH.put("r/63-6f",
  ],
  ["Communes conceptiones","Axiom","",null,null,"see",340,"Axiom","communes conceptiones"],
  [
-  "Communes conceptiones","Konzept communes conceptiones","",null,null,"see",null,null,
+  "Communes conceptiones","Konzept","",null,null,"see",1655,"Konzept, konzeptibel",
   "communes conceptiones"
+ ],
+ [
+  "communes conceptiones","Voraussetzungslosigkeit","","11","1168","ref",3488,
+  "Voraussetzungslosigkeit","communes conceptiones"
  ],
  ["communicatio","Kommunikation","",null,null,"ref",1591,"Kommunikation","communicatio"],
  ["communicatio","Sobornost","",null,null,"ref",2913,"Sobornost","communicatio"],
@@ -471,7 +515,11 @@ HWPH.put("r/63-6f",
  ["compassion","Mitleid","",null,null,"ref",1981,"Mitleid","compassion"],
  ["compassion","Sympathie","II (anthr.)",null,null,"ref",3098,"Sympathie","compassion"],
  ["compassion","Sensibilité","","9","610","ref",2866,"Sensibilité","compassion"],
- ["compatibilitas","Verträglichkeit compendium","",null,null,"ref",null,null,"compatibilitas"],
+ [
+  "compatibilitas","Verträglichkeit","",null,null,"ref",3446,"Verträglichkeit; Kompatibilität",
+  "compatibilitas"
+ ],
+ ["compendium","System","II","10","828","ref",3115,"System; Systematik; systematisch","compendium"],
  [
   "compendium historiae","Weltgeschichte","","12","481","ref",3567,
   "Weltgeschichte; Universalgeschichte","compendium historiae"
@@ -496,8 +544,20 @@ HWPH.put("r/63-6f",
   "complementum possibilitatis"
  ],
  [
-  "Complementum possibilitatis","Existenz; existentia complementum possibilitatis","",null,null,
-  "see",863,"Existenz, existentia","complementum possibilitatis"
+  "Complementum possibilitatis","Existenz; existentia","",null,null,"see",863,"Existenz, existentia",
+  "complementum possibilitatis"
+ ],
+ [
+  "complementum possibilitatis","Realitas","","8","183","ref",2589,"Realitas",
+  "complementum possibilitatis"
+ ],
+ [
+  "complementum possibilitatis","Sein; Seiendes","IV","9","206","ref",2806,"Sein; Seiendes",
+  "complementum possibilitatis"
+ ],
+ [
+  "complementum possibilitatis","Wirklichkeit","","12","830","ref",3628,"Wirklichkeit",
+  "complementum possibilitatis"
  ],
  ["complementum potentiae","Tugend","II","10","1550","ref",3239,"Tugend","complementum potentiae"],
  [
@@ -509,7 +569,23 @@ HWPH.put("r/63-6f",
   "Complexe significabile","complexe significabile"
  ],
  ["Complexe significabile","Aussage","",null,null,"see",309,"Aussage","complexe significabile"],
- ["Complexe significabile","Wort","",null,null,"see",3656,"Wort","complexe significabile"],
+ ["Complexe significabile","Wort, inneres","",null,null,"see",3656,"Wort","complexe significabile"],
+ [
+  "complexe significabile","Proposition","","7","1512","ref",2484,"Proposition",
+  "complexe significabile"
+ ],
+ [
+  "complexe significabile","Sein, objektives","","9","250","ref",2809,"Sein, objektives",
+  "complexe significabile"
+ ],
+ [
+  "complexe significabile","Signifikation","","9","777f.","ref",2885,"Signifikation",
+  "complexe significabile"
+ ],
+ [
+  "complexe significabile","Zustimmung","I","12","1461","ref",3715,"Zustimmung",
+  "complexe significabile"
+ ],
  ["complexio","Temperament","",null,null,"ref",3148,"Temperament","complexio"],
  [
   "complexio","Complicatio/explicatio","(Cusanus)","1","1027","ref",506,"Complicatio/explicatio",
@@ -568,10 +644,7 @@ HWPH.put("r/63-6f",
   "compositio/resolutio","Analyse/Synthese","",null,null,"ref",126,"Analyse/Synthese",
   "compositio/resolutio"
  ],
- [
-  "compositio/resolutio","Prozess I 2 (log.)","",null,null,"ref",2499,"Prozeß",
-  "compositio/resolutio"
- ],
+ ["compositio/resolutio","Prozess","I 2 (log.)",null,null,"ref",2499,"Prozeß","compositio/resolutio"],
  [
   "compositio/resolutio","Apriori/aposteriori","I","1","465","ref",221,"A priori/a posteriori",
   "compositio/resolutio"
@@ -603,6 +676,8 @@ HWPH.put("r/63-6f",
  ],
  ["compossibilitas","Possibilien","I","7","1131","ref",2413,"Possibilien","compossibilitas"],
  ["comprehendere","Denken","I","2","61","ref",552,"Denken","comprehendere"],
+ ["comprehensio","Katalepsis","",null,null,"ref",1536,"Katalepsis","comprehensio"],
+ ["comprehensio","Perzeption","",null,null,"ref",2329,"Perzeption","comprehensio"],
  [
   "comprehensio aesthetica","Apprehension","","1","460","ref",219,"Apprehension",
   "comprehensio aesthetica"
@@ -612,7 +687,8 @@ HWPH.put("r/63-6f",
   "Begriffsinhalt/Begriffsumfang","comprehension"
  ],
  ["comprehension","Verstehen","",null,null,"ref",3438,"Verstehen","comprehension"],
- ["compressio","Unterdrückung compulsion","",null,null,"ref",null,null,"compressio"],
+ ["compressio","Unterdrückung","",null,null,"ref",3324,"Unterdrückung; Repression","compressio"],
+ ["compulsion","Zwang","",null,null,"ref",3717,"Zwang","compulsion"],
  ["compunctio","Reue","",null,null,"ref",2702,"Reue","compunctio"],
  ["computable","Algorithmus","","1","155","ref",97,"Algorithmus","computable"],
  ["computare","Rechnen","",null,null,"ref",2597,"Rechnen","computare"],
@@ -628,12 +704,7 @@ HWPH.put("r/63-6f",
  ["computus","Zeit","III A","12","1210","ref",3676,"Zeit","computus"],
  ["Conatus","Conatus","","1","1028f.","main",507,"Conatus","conatus"],
  ["Conatus","Appétition","(Leibniz)",null,null,"see",216,"Appétition","conatus"],
- [
-  "Conatus","Begehren; appetitus naturalis","",null,null,"see",362,"Begehren, appetitus naturalis",
-  "conatus"
- ],
- ["Conatus","Streben","",null,null,"see",3038,"Streben","conatus"],
- ["Conatus","Trieb","",null,null,"see",3229,"Trieb","conatus"],
+ ["Conatus","Begehren; appetitus","",null,null,"see",362,"Begehren, appetitus naturalis","conatus"],
  ["conatus","Bewegung","III","1","874","ref",408,"Bewegung","conatus"],
  ["conatus","Moment","II (met.)","6","101f.","ref",2009,"Moment","conatus"],
  ["conatus","Nisus","","6","858","ref",2141,"Nisus","conatus"],
@@ -652,7 +723,10 @@ HWPH.put("r/63-6f",
  ["concausa","Form und Materie","","2","1021","ref",939,"Form und Materie (Stoff)","concausa"],
  ["concausa","Molinismus","","6","95","ref",2008,"Molinismus","concausa"],
  ["concentus","Übereinstimmung","",null,null,"ref",3251,"Übereinstimmung","concentus"],
- ["conceptibile","Konzept conceptio","",null,null,"ref",null,null,"conceptibile"],
+ ["conceptibile","Konzept","",null,null,"ref",1655,"Konzept, konzeptibel","conceptibile"],
+ ["conceptio","Konzept","",null,null,"ref",1655,"Konzept, konzeptibel","conceptio"],
+ ["conceptio","Notion","","6","936","ref",2167,"Notion, notio","conceptio"],
+ ["conceptio","Verbum mentis","","11","593","ref",3387,"Verbum mentis","conceptio"],
  ["conceptismo","Ingenium","","4","362","ref",1436,"Ingenium","conceptismo"],
  ["conceptus","Konzept","",null,null,"ref",1655,"Konzept, konzeptibel","conceptus"],
  ["conceptus","Begriff","I (allg.)","1","782","ref",365,"Begriff","conceptus"],
@@ -699,7 +773,11 @@ HWPH.put("r/63-6f",
   "conceptus obiectivus","Univozität","II","11","229","ref",3311,"Univozität; univok",
   "conceptus obiectivus"
  ],
- ["conceptus rerum/vocum","Wort","",null,null,"ref",3656,"Wort","conceptus rerum/vocum"],
+ [
+  "conceptus rerum/vocum","Wort, inneres","","12","1042","ref",3657,"Wort, inneres; Rede, innere",
+  "conceptus rerum/vocum"
+ ],
+ ["concetto","Poetik","II","7","1019","ref",2389,"Poetik","concetto"],
  ["concevoir","Denken","I","2","79","ref",552,"Denken","concevoir"],
  [
   "conciliatio","Zueignung (Oikeiosis)","",null,null,"ref",3705,"Zueignung (Oikeiosis)",
@@ -757,7 +835,8 @@ HWPH.put("r/63-6f",
  ["concursus","Molinismus","","6","95","ref",2008,"Molinismus","concursus"],
  ["concursus","Vorsehung","","11","1214","ref",3500,"Vorsehung","concursus"],
  ["concursus","Wirken Gottes","","12","825","ref",3627,"Wirken Gottes","concursus"],
- ["condemnatio","Verdammung condensatio","",null,null,"ref",null,null,"condemnatio"],
+ ["condemnatio","Verdammung","",null,null,"ref",3389,"Verdammung; Verwerfung","condemnatio"],
+ ["condensatio","Verdichtung","",null,null,"ref",3390,"Verdichtung","condensatio"],
  ["condensation","Verdichtung","",null,null,"ref",3390,"Verdichtung","condensation"],
  [
   "condensation","Verschiebung; Verdichtung","",null,null,"ref",3429,"Verschiebung; Verdichtung",
@@ -786,7 +865,8 @@ HWPH.put("r/63-6f",
   "conditional definition"
  ],
  ["conditional knowledge","Wissen","IV","12","882","ref",3634,"Wissen","conditional knowledge"],
- ["condonare","Verzeihen conduct","",null,null,"ref",null,null,"condonare"],
+ ["condonare","Verzeihen","",null,null,"ref",3457,"Verzeihen; Vergeben","condonare"],
+ ["conduct","Verhalten","","11","683f.","ref",3406,"Verhalten","conduct"],
  ["conduite","Steuerung","",null,null,"ref",3023,"Steuerung","conduite"],
  ["confatalia","Ratio ignava","","8","41","ref",2572,"Ratio ignava","confatalia"],
  [
@@ -797,7 +877,9 @@ HWPH.put("r/63-6f",
   "confédérations perpétuelles","Völkerbund","","11","1091","ref",3473,"Völkerbund",
   "confederations perpetuelles"
  ],
- ["confession","Bekenntnis confiance","",null,null,"ref",null,null,"confession"],
+ ["confession","Bekenntnis","",null,null,"ref",382,"Bekenntnis (Konfession)","confession"],
+ ["confiance","Vertrauen","",null,null,"ref",3447,"Vertrauen","confiance"],
+ ["confiance","Zuversicht","",null,null,"ref",3716,"Zuversicht","confiance"],
  ["confidentia","Zuversicht","","12","1470f.","ref",3716,"Zuversicht","confidentia"],
  ["configuration","Tugend","II","10","1551","ref",3239,"Tugend","configuration"],
  ["confines","Zweck; Ziel","","12","1502","ref",3718,"Zweck; Ziel","confines"],
@@ -808,7 +890,8 @@ HWPH.put("r/63-6f",
  ["confirmation","Bestätigung","(Carnap)",null,null,"ref",399,"Bestätigung","confirmation"],
  ["conflictus","Konflikt","",null,null,"ref",1608,"Konflikt","conflictus"],
  ["conformation","Tugend","II","10","1551","ref",3239,"Tugend","conformation"],
- ["conformis","Konform conformisme social","",null,null,"ref",null,null,"conformis"],
+ ["conformis","Konform","",null,null,"ref",1609,"Konform, Konformität","conformis"],
+ ["conformisme social","Soziologie","","9","1278","ref",2960,"Soziologie","conformisme social"],
  ["conformitas","Konvenienz","","4","1069","ref",1650,"Konvenienz","conformitas"],
  ["conformitas","Repräsentation","I 2","8","795","ref",2686,"Repräsentation","conformitas"],
  ["conformitas","Übereinstimmung","","11","21","ref",3251,"Übereinstimmung","conformitas"],
@@ -824,11 +907,22 @@ HWPH.put("r/63-6f",
   "confuse/distincte","Vernunft; Verstand","III G","11","795","ref",3423,"Vernunft; Verstand",
   "confuse/distincte"
  ],
- ["confuse/distincte","Wahrheit","",null,null,"ref",3523,"Wahrheit","confuse/distincte"],
+ [
+  "confuse/distincte","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","confuse/distincte"
+ ],
+ ["confusio","Chaos","",null,null,"ref",484,"Chaos","confusio"],
+ ["confusio","Verworrenheit","",null,null,"ref",3456,"Verworrenheit","confusio"],
+ ["confusio","Scham","C 2","8","1212","ref",2751,"Scham, Scheu","confusio"],
+ [
+  "confusio","Unterscheiden; Unterscheidung","","11","308","ref",3326,
+  "Unterscheiden; Unterscheidung","confusio"
+ ],
+ ["confusio","Vielheit","I","11","1046f.","ref",3462,"Vielheit","confusio"],
  ["confutatio","Widerlegung","",null,null,"ref",3605,"Widerlegung","confutatio"],
  ["congregatio atomalium","Aggregat","","1","102","ref",59,"Aggregat","congregatio atomalium"],
  ["coniectura","Ars coniecturalis","(Cusanus)",null,null,"ref",252,"Ars coniecturalis","coniectura"],
- ["coniectura","Hypothese II","",null,null,"ref",1330,"Hypothese, Hypothesis","coniectura"],
+ ["coniectura","Hypothese","II",null,null,"ref",1330,"Hypothese, Hypothesis","coniectura"],
  ["coniectura","Konjekturalsätze","",null,null,"ref",1612,"Konjekturalsätze","coniectura"],
  ["coniectura","Vermutung","",null,null,"ref",3421,"Vermutung","coniectura"],
  ["coniectura","Docta ignorantia","(Cusanus)","2","274","ref",624,"Docta ignorantia","coniectura"],
@@ -891,8 +985,16 @@ HWPH.put("r/63-6f",
  ["conscience","Gewissen","",null,null,"ref",1130,"Gewissen","conscience"],
  ["conscience","Unparteilichkeit","","11","254","ref",3316,"Unparteilichkeit","conscience"],
  [
-  "conscience collective","Kollektivbewusstsein conscience de soi","",null,null,"ref",null,null,
+  "conscience collective","Kollektivbewusstsein","",null,null,"ref",1585,"Kollektivbewußtsein",
   "conscience collective"
+ ],
+ [
+  "conscience de soi","Selbstbewusstsein","",null,null,"ref",2828,"Selbstbewußtsein",
+  "conscience de soi"
+ ],
+ [
+  "conscience imageante","Vorstellung","II","11","1243","ref",3503,"Vorstellung",
+  "conscience imageante"
  ],
  ["conscience morale","Gewissen","",null,null,"ref",1130,"Gewissen","conscience morale"],
  [
@@ -901,8 +1003,13 @@ HWPH.put("r/63-6f",
  ],
  ["conscientia","Bewusstsein","",null,null,"ref",412,"Bewußtsein","conscientia"],
  ["conscientia","Gewissen","",null,null,"ref",1130,"Gewissen","conscientia"],
- ["conscientia","Selbstbewusstsein II conscientia intima","",null,null,"ref",null,null,"conscientia"],
- ["conscientia veritatis","Subjekt","",null,null,"ref",3047,"Subjekt","conscientia veritatis"],
+ ["conscientia","Selbstbewusstsein","II",null,null,"ref",2828,"Selbstbewußtsein","conscientia"],
+ ["conscientia intima","Gefühl","I","3","84","ref",1009,"Gefühl","conscientia intima"],
+ [
+  "conscientia veritatis","Subjekt/Objekt","II","10","407","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","conscientia veritatis"
+ ],
+ ["consciosité","Selbstbewusstsein","II","9","356","ref",2828,"Selbstbewußtsein","consciosite"],
  ["consciousness","Bewusstsein","",null,null,"ref",412,"Bewußtsein","consciousness"],
  ["consciousness","Person","III 3","7","304","ref",2318,"Person","consciousness"],
  ["consciousness","Verhalten","","11","681","ref",3406,"Verhalten","consciousness"],
@@ -943,7 +1050,7 @@ HWPH.put("r/63-6f",
  ["consequence","Folgerung","",null,null,"ref",926,"Folgerung","consequence"],
  ["consequens","Konsequenz","","4","978","ref",1619,"Konsequenz","consequens"],
  ["consequentia","Ascensus/Descensus","",null,null,"ref",258,"Ascensus/Descensus","consequentia"],
- ["consequentia","Implikation","",null,null,"ref",1399,"Implikation","consequentia"],
+ ["consequentia","Implikation","8",null,null,"ref",1399,"Implikation","consequentia"],
  ["consequentia","Repugnanz","I",null,null,"ref",2689,"Repugnanz","consequentia"],
  ["consequentia","Folgerung","","2","961","ref",926,"Folgerung","consequentia"],
  [
@@ -967,7 +1074,7 @@ HWPH.put("r/63-6f",
   "consequentia simplex/ut nunc"
  ],
  [
-  "consequentia simplex/ut nunc","Obligatio; Ars obligatoria II (log.)","","6","1070","ref",2194,
+  "consequentia simplex/ut nunc","Obligatio; Ars obligatoria","II (log.)","6","1070","ref",2194,
   "Obligatio, Ars obligatoria","consequentia simplex/ut nunc"
  ],
  [
@@ -1001,16 +1108,23 @@ HWPH.put("r/63-6f",
  ],
  ["consilium","Naturrecht","IV 3","6","592","ref",2089,"Naturrecht","consilium"],
  ["consilium","Prohairesis","","7","1451","ref",2474,"Prohairesis","consilium"],
- ["consilium privatum","Eigenwille consistency","",null,null,"ref",null,null,"consilium privatum"],
  [
-  "consistency, practical/logical","Widerspruch","",null,null,"ref",3607,"Widerspruch",
-  "consistency, practical/logical"
+  "consilium privatum","Eigenwille","",null,null,"ref",671,"Eigenwille, Eigensinn",
+  "consilium privatum"
  ],
+ ["consistency","Widerspruchsfreiheit","",null,null,"ref",3609,"Widerspruchsfreiheit","consistency"],
+ [
+  "consistency, practical/logical","Widerspruch, performativer","","12","699","ref",3607,
+  "Widerspruch","consistency, practical/logical"
+ ],
+ ["consolatio","Trost","",null,null,"ref",3235,"Trost","consolatio"],
+ ["consolatio","Theologie","","10","1087","ref",3169,"Theologie","consolatio"],
  [
   "consolatrice de la vie","Philosophie","IV C","7","699","ref",2353,"Philosophie",
   "consolatrice de la vie"
  ],
- ["consonantia","Schöne","",null,null,"ref",2776,"Schöne","consonantia"],
+ ["consonantia","Schöne, das","II","8","1351","ref",2776,"Schöne","consonantia"],
+ ["consonantia","Übereinstimmung","","11","20","ref",3251,"Übereinstimmung","consonantia"],
  ["conspiratio","Übereinstimmung","",null,null,"ref",3251,"Übereinstimmung","conspiratio"],
  ["constantia","Beharrlichkeit","",null,null,"ref",373,"Beharrlichkeit","constantia"],
  ["constantia","Standhaftigkeit","",null,null,"ref",3011,"Standhaftigkeit","constantia"],
@@ -1031,9 +1145,10 @@ HWPH.put("r/63-6f",
  ["constitution","Konstitution","",null,null,"ref",1624,"Konstitution","constitution"],
  ["constitution","Verfassung","",null,null,"ref",3398,"Verfassung","constitution"],
  [
-  "constitution system","Konstitutionssystem (Carnap) constitutional law","",null,null,"ref",null,
-  null,"constitution system"
+  "constitution system","Konstitutionssystem","(Carnap)",null,null,"ref",1628,
+  "Konstitutionssystem, Konstitutionstheorie","constitution system"
  ],
+ ["constitutional law","Staatsrecht","",null,null,"ref",3002,"Staatsrecht","constitutional law"],
  [
   "constitutionnalisme","Konstitutionalismus","",null,null,"ref",1627,"Konstitutionalismus",
   "constitutionnalisme"
@@ -1058,14 +1173,22 @@ HWPH.put("r/63-6f",
  ["consuetudo","Natur, zweite","",null,null,"ref",2077,"Natur, zweite","consuetudo"],
  ["consuetudo","Gewohnheit","","3","613","ref",1132,"Gewohnheit","consuetudo"],
  ["consuetudo","Gewohnheitsrecht","","3","617","ref",1133,"Gewohnheitsrecht","consuetudo"],
- ["consuetudo","Schöne","",null,null,"ref",2776,"Schöne","consuetudo"],
+ ["consuetudo","Schöne, das","II","8","1355","ref",2776,"Schöne","consuetudo"],
+ [
+  "consuetudo loquendi","Philosophie","III A","7","657","ref",2353,"Philosophie",
+  "consuetudo loquendi"
+ ],
  [
   "consuetudo subiectiva/obiectiva","Gewohnheit","","3","600","ref",1132,"Gewohnheit",
   "consuetudo subiectiva/obiectiva"
  ],
  [
-  "consummatio saeculi","Weltende Contagium, psychisches","",null,null,"ref",null,null,
+  "consummatio saeculi","Weltende","",null,null,"ref",3562,"Weltende; Weltuntergang",
   "consummatio saeculi"
+ ],
+ [
+  "Contagium, psychisches","Suggestion","","10","583","ref",3071,"Suggestion",
+  "contagium, psychisches"
  ],
  ["containment","Wahn","","12","33","ref",3520,"Wahn","containment"],
  ["containment","Wunsch","II (psych.)","12","1087","ref",3661,"Wunsch","containment"],
@@ -1100,7 +1223,13 @@ HWPH.put("r/63-6f",
   "contemplator caeli"
  ],
  ["contemptio sui","Selbstverleugnung","",null,null,"ref",2852,"Selbstverleugnung","contemptio sui"],
- ["contemptio sui","Verachtung contemptus","",null,null,"ref",null,null,"contemptio sui"],
+ ["contemptio sui","Verachtung","",null,null,"ref",3379,"Verachtung; Mißachtung","contemptio sui"],
+ ["contemptus","Verachtung","",null,null,"ref",3379,"Verachtung; Mißachtung","contemptus"],
+ ["contemptus mundi","Vanitas mundi","",null,null,"ref",3372,"Vanitas mundi","contemptus mundi"],
+ [
+  "contemptus mundi","Weltverachtung; Weltflucht","",null,null,"ref",3579,
+  "Weltverachtung; Weltflucht","contemptus mundi"
+ ],
  ["contentio","Spannung","",null,null,"ref",2961,"Spannung","contentio"],
  ["contentio","Streit","",null,null,"ref",3039,"Streit","contentio"],
  ["context","Kompetenz","VI (sprach.)","4","926","ref",1598,"Kompetenz","context"],
@@ -1233,7 +1362,7 @@ HWPH.put("r/63-6f",
   "contrat social"
  ],
  [
-  "contre-révolutionnaire","Despotie I (allg.)","","2","138","ref",571,"Despotie, Despotismus",
+  "contre-révolutionnaire","Despotie","I (allg.)","2","138","ref",571,"Despotie, Despotismus",
   "contre-revolutionnaire"
  ],
  ["contre-sens","Unsinn; Widersinn","",null,null,"ref",3322,"Unsinn; Widersinn","contre-sens"],
@@ -1257,7 +1386,12 @@ HWPH.put("r/63-6f",
  ["convenientia","Konvenienz","",null,null,"ref",1650,"Konvenienz","convenientia"],
  ["convenientia","Übereinstimmung","",null,null,"ref",3251,"Übereinstimmung","convenientia"],
  ["convenientia","Symmetrie","I (ästh.)","10","746","ref",3097,"Symmetrie","convenientia"],
- ["convenientia disparium","Schöne","",null,null,"ref",2776,"Schöne","convenientia disparium"],
+ [
+  "convenientia disparium","Schöne, das","II","8","1353","ref",2776,"Schöne",
+  "convenientia disparium"
+ ],
+ ["conventio","Konvention","",null,null,"ref",1651,"Konvention","conventio"],
+ ["conventio","Vertrag","II (soz./pol.)","11","967","ref",3445,"Vertrag","conventio"],
  ["conventum","Versprechen","","11","905","ref",3435,"Versprechen","conventum"],
  ["conversatio","Umgang","",null,null,"ref",3272,"Umgang","conversatio"],
  [
@@ -1307,7 +1441,7 @@ HWPH.put("r/63-6f",
   "coordinative definition","Zuordnungsdefinition","",null,null,"ref",3711,"Zuordnungsdefinition",
   "coordinative definition"
  ],
- ["copia materiae","Masse I (phys.)","","5","826","ref",1878,"Masse, Massen","copia materiae"],
+ ["copia materiae","Masse","I (phys.)","5","826","ref",1878,"Masse, Massen","copia materiae"],
  ["copula","Kopula","",null,null,"ref",1661,"Kopula","copula"],
  ["copula","Syndesmos","",null,null,"ref",3102,"Syndesmos","copula"],
  ["copula","Makrokosmos/Mikrokosmos","II 1","5","646","ref",1849,"Makrokosmos/Mikrokosmos","copula"],
@@ -1436,13 +1570,7 @@ HWPH.put("r/63-6f",
   "covering-law model"
  ],
  [
-  "Conversio; Umkehr","Conversio; Umkehr","",null,null,"main",514,"Conversio, Umkehr",
-  "conversio; umkehr"
- ],
- ["Conversio; Umkehr","Erleuchtung","","2","715","ref",807,"Erleuchtung","conversio; umkehr"],
- ["Conversio; Umkehr","Reflexion","","8","396","ref",2634,"Reflexion","conversio; umkehr"],
- [
-  "cognoscendi/essendi/fiendi Erkenntnispsychologie","Erkenntnis II (psych.)","","2","663ff.","ref",
+  "cognoscendi/essendi/fiendi Erkenntnispsychologie","Erkenntnis","II (psych.)","2","663ff.","ref",
   796,"Erkennen, Erkenntnis","cognoscendi/essendi/fiendi erkenntnispsychologie"
  ],
  [
@@ -1473,26 +1601,6 @@ HWPH.put("r/63-6f",
  [
   "cognoscendi/essendi/fiendi","Ursache/Wirkung","III",null,null,"ref",3350,"Ursache/Wirkung",
   "cognoscendi/essendi/fiendi"
- ],
- [
-  "cognoscendi/essendi/fiendi 8 40f. s. auch","Causa cognoscendi","",null,null,"ref",466,
-  "Causa cognoscendi","cognoscendi/essendi/fiendi 8 40f. s. auch"
- ],
- [
-  "cognoscendi/essendi/fiendi 8 40f. s. auch","Causa essendi et fiendi","",null,null,"ref",469,
-  "Causa essendi et fiendi","cognoscendi/essendi/fiendi 8 40f. s. auch"
- ],
- [
-  "cognoscendi/essendi/fiendi 8 40f. s. auch","Principium rationis sufficientis","",null,null,"ref",
-  2457,"Principium rationis sufficientis","cognoscendi/essendi/fiendi 8 40f. s. auch"
- ],
- [
-  "cognoscendi/essendi/fiendi 8 40f. s. auch","Prinzip","",null,null,"ref",2458,"Prinzip",
-  "cognoscendi/essendi/fiendi 8 40f. s. auch"
- ],
- [
-  "cognoscendi/essendi/fiendi 8 40f. s. auch","Realgrund","",null,null,"ref",2585,"Realgrund",
-  "cognoscendi/essendi/fiendi 8 40f. s. auch"
  ],
  [
   "cognoscendi/essendi/fiendi ratio fiendi","Ratio","",null,null,"ref",2570,"Ratio",

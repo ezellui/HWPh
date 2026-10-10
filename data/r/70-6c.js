@@ -22,8 +22,8 @@ HWPH.put("r/70-6c",
   "plan gottes"
  ],
  [
-  "plan of action","Schema; Schematismus II (psych.)","","8","1261","ref",2760,
-  "Schema, Schematismus","plan of action"
+  "plan of action","Schema; Schematismus","II (psych.)","8","1261","ref",2760,"Schema, Schematismus",
+  "plan of action"
  ],
  [
   "Planck's constant","Wirkungsquantum","",null,null,"ref",3631,"Wirkungsquantum",
@@ -43,7 +43,8 @@ HWPH.put("r/70-6c",
   "Planetisation des Menschen","Omega","(Teilhard de Chardin)",null,null,"ref",2215,"Omega",
   "planetisation des menschen"
  ],
- ["Plansoll","Soll; Plansoll Plansprache","",null,null,"ref",2919,"Soll, Plansoll","plansoll"],
+ ["Plansoll","Soll; Plansoll","",null,null,"ref",2919,"Soll, Plansoll","plansoll"],
+ ["Plansprache","Sprache, künstliche","","9","1502","ref",2988,"Sprache, künstliche","plansprache"],
  [
   "Plansprachenforschung","Linguistik; Sprachwissenschaft","II","5","332","ref",1797,
   "Linguistik, Sprachwissenschaft","plansprachenforschung"
@@ -53,6 +54,12 @@ HWPH.put("r/70-6c",
  ["plastic nature","Seele","IV","9","28","ref",2794,"Seele","plastic nature"],
  ["platonicus","Platonismus","I (philos.)","7","979","ref",2380,"Platonismus","platonicus"],
  ["Platonismus","Platonismus","","7","977–988","main",2380,"Platonismus","platonismus"],
+ ["Platonismus","Neuplatonismus","",null,null,"see",2120,"Neuplatonismus","platonismus"],
+ [
+  "Platonismus","Philosophie, immerwährende","",null,null,"see",2357,"Philosophie, immerwährende",
+  "platonismus"
+ ],
+ ["Platonismus","Konzeptualismus","",null,null,"see",1656,"Konzeptualismus","platonismus"],
  [
   "Platonismus","Allgemeines/Besonderes","II","1","172","ref",101,"Allgemeines/Besonderes",
   "platonismus"
@@ -63,7 +70,7 @@ HWPH.put("r/70-6c",
   "platonismus, logischer"
  ],
  [
-  "Platonismus, neukritizistischer","Übergegensätzlichkeit (Lask)","","11","35","ref",3255,
+  "Platonismus, neukritizistischer","Übergegensätzlichkeit","(Lask)","11","35","ref",3255,
   "Übergegensätzlichkeit; übergegensätzlich","platonismus, neukritizistischer"
  ],
  [
@@ -95,6 +102,7 @@ HWPH.put("r/70-6c",
  ["Plötzliche, das","Augenblick","(Kierkegaard)",null,null,"ref",295,"Augenblick","plotzliche, das"],
  ["Plötzliche, das","Erleuchtung","","2","712","ref",807,"Erleuchtung","plotzliche, das"],
  ["Plötzliche, das","Zeit","II","12","1195","ref",3676,"Zeit","plotzliche, das"],
+ ["plötzliche Erkenntnis","Einfall","",null,null,"ref",678,"Einfall","plotzliche erkenntnis"],
  ["Pluralisierung","Vielheit","III","11","1054","ref",3462,"Vielheit","pluralisierung"],
  ["Pluralismus","Pluralismus","","7","988–995","main",2381,"Pluralismus","pluralismus"],
  [
@@ -136,7 +144,7 @@ HWPH.put("r/70-6c",
   "Einheit und Vielheit der Wesensform","pluralitas formarum"
  ],
  [
-  "plurium interrogationum","Irrtum","(Schlussfehler)","4","610","ref",1500,"Irrtum (Schlußfehler)",
+  "plurium interrogationum","Irrtum (Schlussfehler)","","4","610","ref",1500,"Irrtum (Schlußfehler)",
   "plurium interrogationum"
  ],
  ["Pluriverse","Pluralismus","I","7","989","ref",2381,"Pluralismus","pluriverse"],

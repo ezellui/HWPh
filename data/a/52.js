@@ -19,6 +19,7 @@ HWPH.put("a/52",
  "outlinks":[{"id":69,"lemma":"Aion","n":1}],
  "register":[
   {"term":"aeternitas","qualifier":"","band":"1","col":"88"},
+  {"term":"aevitas; aeviternitas","qualifier":"","band":"1","col":"88"},
   {"term":"creata/increata","qualifier":"","band":"1","col":"88"},
   {"term":"Sukzession","qualifier":"","band":"1","col":"88"}
  ],

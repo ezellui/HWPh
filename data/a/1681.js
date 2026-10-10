@@ -30,20 +30,16 @@ HWPH.put("a/1681",
  "register":[
   {"term":"aegritudo","qualifier":"","band":null,"col":null},
   {"term":"affectus","qualifier":"","band":"4","col":"1185"},
-  {"term":"Affekt","qualifier":"","band":null,"col":null},
+  {"term":"disease","qualifier":"","band":null,"col":null},
   {"term":"maladie","qualifier":"","band":null,"col":null},
   {"term":"morbus","qualifier":"","band":null,"col":null},
   {"term":"Nosologie","qualifier":"","band":"4","col":"1188f."},
+  {"term":"Pathetische πάθος","qualifier":"","band":null,"col":null},
   {"term":"sickness","qualifier":"","band":null,"col":null},
   {"term":"νόσημα","qualifier":"","band":null,"col":null},
+  {"term":"νοῦσος","qualifier":"","band":null,"col":null},
   {"term":"πάθημα","qualifier":"","band":null,"col":null},
-  {"term":"παθολογία","qualifier":"","band":"4","col":"1186"},
-  {
-   "term":"– I (hist.) 4 1235–1240 – II (med.) 4 1240–1242 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"παθολογία","qualifier":"","band":"4","col":"1186"}
  ],
  "persons":[
   {"id":547,"name":"K. E. Rothschuh","b":0,"n":10,"l":0,"editor":0,"role":"scholar"},

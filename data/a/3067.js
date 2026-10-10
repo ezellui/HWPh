@@ -29,8 +29,8 @@ HWPH.put("a/3067",
   {"term":"Genauigkeit","qualifier":"","band":"10","col":"563"},
   {"term":"materia subtilis","qualifier":"","band":"10","col":"563"},
   {"term":"penetrativum","qualifier":"","band":"10","col":"564"},
+  {"term":"Schärfe des Begriffs","qualifier":"","band":"10","col":"565"},
   {"term":"Scharfsinn","qualifier":"","band":"10","col":"563"},
-  {"term":"schöne","qualifier":"","band":null,"col":null},
   {"term":"Spitzfindigkeit","qualifier":"","band":"10","col":"563"},
   {"term":"subtililoquentia","qualifier":"","band":"10","col":"563"},
   {"term":"subtilitas","qualifier":"","band":null,"col":null},
@@ -112,6 +112,6 @@ HWPH.put("a/3067",
  ],
  "see_also":[{"id":3672,"lemma":"Zart; zärtlich"}],
  "groups":[{"id":14,"name":"Hermeneutik","label":"Subtilität"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

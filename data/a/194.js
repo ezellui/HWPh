@@ -17,7 +17,7 @@ HWPH.put("a/194",
  "next":{"id":195,"lemma":"Antriebsüberschuß","band":"1","col":427},
  "backlinks":[{"id":3229,"lemma":"Trieb","n":1}],
  "outlinks":[],
- "register":[{"term":"– II (psych.) 10 1488–1492 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":366,"name":"H. Thomae","b":1,"n":5,"l":0,"editor":0,"role":"mixed"},
   {"id":2146,"name":"K. Kleist","b":2,"n":4,"l":0,"editor":0,"role":"mixed"},

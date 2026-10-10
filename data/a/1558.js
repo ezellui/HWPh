@@ -38,11 +38,13 @@ HWPH.put("a/1558",
   {"id":2446,"lemma":"Präsupposition","n":1}
  ],
  "register":[
+  {"term":"definite description","qualifier":"","band":null,"col":null},
+  {"term":"description","qualifier":"","band":null,"col":null},
   {"term":"Einzigkeitsbedingung","qualifier":"","band":"4","col":"811"},
   {"term":"Gebrauchssprache","qualifier":"","band":null,"col":null},
   {"term":"Iotaoperator","qualifier":"","band":"4","col":"810"},
-  {"term":"Wissenschaftssprache","qualifier":"","band":null,"col":null},
-  {"term":"– II (log.) 3 134 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Kennzeichnungstheorie","qualifier":"","band":null,"col":null},
+  {"term":"Wissenschaftssprache","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":47,"name":"B. Russell","b":3,"n":4,"l":0,"editor":0,"role":"source"},

@@ -19,9 +19,9 @@ HWPH.put("a/754",
  "outlinks":[],
  "register":[
   {"term":"Augenblick","qualifier":"","band":"2","col":"542"},
-  {"term":"Denken","qualifier":"","band":"2","col":"542"},
   {"term":"Entschlossenheit","qualifier":"","band":"2","col":"543"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
+  {"term":"Subjektivität","qualifier":"","band":"2","col":"542"},
   {"term":"κρίσις","qualifier":"","band":"2","col":"541"}
  ],
  "persons":[

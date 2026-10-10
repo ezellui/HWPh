@@ -25,7 +25,7 @@ HWPH.put("a/2370",
  "outlinks":[{"id":1165,"lemma":"Gottesbeweis","n":1}],
  "register":[
   {"term":"Gottesbeweis, teleologischer","qualifier":"","band":null,"col":null},
-  {"term":"natürliche bzw. vernünftige 8 713–727 s auch","qualifier":"","band":null,"col":null},
+  {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"teleologischer Gottesbeweis","qualifier":"","band":null,"col":null},
   {"term":"Weltschöpfung","qualifier":"","band":"7","col":"951"}
  ],

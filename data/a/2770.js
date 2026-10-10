@@ -27,8 +27,13 @@ HWPH.put("a/2770",
  ],
  "outlinks":[{"id":1987,"lemma":"Mittel","n":1},{"id":2336,"lemma":"Pflichtenkollision","n":1}],
  "register":[
+  {"term":"Erklären/Verstehen","qualifier":"","band":"8","col":"1308f."},
   {"term":"Handeln","qualifier":"","band":null,"col":null},
-  {"term":"Realität, psychische","qualifier":"","band":"8","col":"1308f."}
+  {"term":"praktischer Schluss","qualifier":"","band":null,"col":null},
+  {"term":"praktischer Syllogismus","qualifier":"","band":null,"col":null},
+  {"term":"syllogismus operativus","qualifier":"","band":null,"col":null},
+  {"term":"syllogismus practicus","qualifier":"","band":null,"col":null},
+  {"term":"Zweck/Mittel","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":140,"name":"K.-O. Apel","b":0,"n":8,"l":0,"editor":0,"role":"mixed"},

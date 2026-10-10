@@ -17,7 +17,7 @@ HWPH.put("a/1180",
  "next":{"id":1181,"lemma":"Gravitation","band":"3","col":863},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– II (theol.) 5 509–513 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":745,"name":"H. de Lubac","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -33,7 +33,11 @@ HWPH.put("a/1180",
   {"id":1099,"name":"A. M. Landgraf","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":1156,"lemma":"Gnade","tf":2}],
- "see_also":[{"id":1156,"lemma":"Gnade"},{"id":1828,"lemma":"Lohn, Verdienst"}],
+ "see_also":[
+  {"id":1156,"lemma":"Gnade"},
+  {"id":1828,"lemma":"Lohn, Verdienst"},
+  {"id":3088,"lemma":"Supranatural; Supranaturalismus"}
+ ],
  "groups":[{"id":44,"name":"Theologie","label":"Gratuität"}],
  "reg_authors":[{"name":"Henrici Peter","n":3}]
 }

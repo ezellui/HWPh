@@ -31,18 +31,20 @@ HWPH.put("a/198",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Affekt","qualifier":"I (eth.)","band":null,"col":null},
   {"term":"Analgie, psychische","qualifier":"II (psych.)","band":"1","col":"433"},
   {"term":"Anästhesie, psychische","qualifier":"II (psych.)","band":"1","col":"433"},
   {"term":"Anhedonie, psychische","qualifier":"II (psych.)","band":"1","col":"433"},
   {"term":"constantia","qualifier":"I (eth.)","band":"1","col":"431"},
-  {"term":"Literaturkritik II 4 1286 πηγή","qualifier":"I (eth.)","band":"1","col":"431"},
+  {"term":"Gelassenheit","qualifier":"I (eth.)","band":"1","col":"431"},
+  {"term":"Pathetische Leidenschaftslosigkeit","qualifier":"","band":null,"col":null},
+  {"term":"Pathetische πάθος","qualifier":"I (eth.)","band":null,"col":null},
   {"term":"Phlegma, glückliches","qualifier":"I (eth.)","band":"1","col":"432"},
   {"term":"psychische Anästhesie","qualifier":"II (psych.)","band":"1","col":"433"},
   {"term":"ἀπάθεια","qualifier":"I (eth.)","band":null,"col":null},
   {"term":"εὐστάθεια","qualifier":"I (eth.)","band":"1","col":"431"},
   {"term":"θυμός","qualifier":"I (eth.)","band":"1","col":"431"},
-  {"term":"μετριοπάθεια","qualifier":"I (eth.)","band":"1","col":"432"}
+  {"term":"μετριοπάθεια","qualifier":"I (eth.)","band":"1","col":"432"},
+  {"term":"πηγή","qualifier":"I (eth.)","band":"1","col":"431"}
  ],
  "persons":[
   {"id":44,"name":"Seneca","b":2,"n":5,"l":0,"editor":0,"role":"source"},
@@ -104,7 +106,12 @@ HWPH.put("a/198",
   {"id":835,"lemma":"Ethik","tf":2},
   {"id":2794,"lemma":"Seele","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":53,"lemma":"Affekt"},
+  {"id":272,"lemma":"Ataraxie"},
+  {"id":220,"lemma":"Apraxie"},
+  {"id":1249,"lemma":"Hemmung, vitale"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Apathie I (eth.)"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Apathie I (eth.)"},

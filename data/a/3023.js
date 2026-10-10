@@ -34,8 +34,8 @@ HWPH.put("a/3023",
   {"id":2652,"lemma":"Regulation","n":1}
  ],
  "register":[
-  {"term":"/Potenz","qualifier":"I (biol.)","band":null,"col":null},
   {"term":"Auslösekausalität","qualifier":"I (biol.)","band":"10","col":"146"},
+  {"term":"Bedeutung/Potenz","qualifier":"I (biol.)","band":null,"col":null},
   {"term":"conduite","qualifier":"","band":null,"col":null},
   {"term":"control","qualifier":"","band":null,"col":null},
   {"term":"Handlungssteuerung","qualifier":"II (psych.)","band":"10","col":"147f."},

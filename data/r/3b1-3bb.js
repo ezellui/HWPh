@@ -1,7 +1,7 @@
 HWPH.put("r/3b1-3bb",
 [
  ["ἀλαζονεία","Eigendünkel","","2","332","ref",662,"Eigendünkel","αλαζονεια"],
- ["ἀλαζονεία","Scham C","2","8","1210","ref",2751,"Scham, Scheu","αλαζονεια"],
+ ["ἀλαζονεία","Scham","C 2","8","1210","ref",2751,"Scham, Scheu","αλαζονεια"],
  ["ἀλήθεια","Unverborgenheit","(Heidegger)",null,null,"ref",3331,"Unverborgenheit","αληθεια"],
  ["ἀλήθεια","Wahrheit","",null,null,"ref",3523,"Wahrheit","αληθεια"],
  [
@@ -26,6 +26,9 @@ HWPH.put("r/3b1-3bb",
   "ἀλλότριον ἀγαθόν","Gut; das Gute","I","3","939","ref",1203,"Gut, das Gute, das Gut",
   "αλλοτριον αγαθον"
  ],
- ["ἀλλοτριοῦν","Entfremdung","","2","509f.","ref",747,"Entfremdung","αλλοτριουν"]
+ ["ἀλλοτριοῦν","Entfremdung","","2","509f.","ref",747,"Entfremdung","αλλοτριουν"],
+ ["ἄλογος","Rationalität","I (erk.)","8","53","ref",2576,"Rationalität, Rationalisierung","αλογοσ"],
+ ["ἄλογος","Zahl","I","12","1125","ref",3670,"Zahl; Zählen","αλογοσ"],
+ ["ἁλκυονίς","Halkyonisch","",null,null,"ref",1214,"Halkyonisch","αλκυονισ"]
 ]
 );

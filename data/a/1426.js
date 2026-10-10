@@ -20,9 +20,8 @@ HWPH.put("a/1426",
  "register":[
   {"term":"Bestätigung","qualifier":"","band":"4","col":"337"},
   {"term":"context of discovery/justification","qualifier":"","band":"4","col":"337"},
-  {"term":"Induktivismus","qualifier":"","band":null,"col":null},
-  {"term":"– I/II (wiss.) 4 323–332 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (log.) 4 552–565 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Entdeckungslogik","qualifier":"","band":null,"col":null},
+  {"term":"Induktivismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":603,"name":"W. Whewell","b":1,"n":2,"l":0,"editor":0,"role":"source"},

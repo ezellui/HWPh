@@ -25,8 +25,7 @@ HWPH.put("a/770",
  "outlinks":[],
  "register":[
   {"term":"Anatomie, rationale","qualifier":"","band":"2","col":"580"},
-  {"term":"vis essentialis","qualifier":"","band":"2","col":"580"},
-  {"term":"– I (allg.) 2 550–557 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"vis essentialis","qualifier":"","band":"2","col":"580"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -26,13 +26,7 @@ HWPH.put("a/2631",
   {"term":"reelle Zahlen","qualifier":"II (math.)","band":null,"col":null},
   {"term":"wirklich","qualifier":"I (Husserl)","band":"8","col":"384"},
   {"term":"Zahlen, imaginäre","qualifier":"II (math.)","band":null,"col":null},
-  {"term":"Zahlen, reelle","qualifier":"II (math.)","band":null,"col":null},
-  {
-   "term":"– I (Husserl) 8 383f. – II (math.) 8 384f. reell/real",
-   "qualifier":"I (Husserl)",
-   "band":"8",
-   "col":"384"
-  }
+  {"term":"Zahlen, reelle","qualifier":"II (math.)","band":null,"col":null}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},

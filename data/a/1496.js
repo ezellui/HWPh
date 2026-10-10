@@ -19,7 +19,8 @@ HWPH.put("a/1496",
  "outlinks":[{"id":807,"lemma":"Erleuchtung","n":1}],
  "register":[
   {"term":"Einstrahlung","qualifier":"","band":null,"col":null},
-  {"term":"Illuminationslehre","qualifier":"","band":null,"col":null}
+  {"term":"Illuminationslehre","qualifier":"","band":null,"col":null},
+  {"term":"Strahl","qualifier":"","band":"4","col":"583"}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":1,"n":2,"l":0,"editor":0,"role":"source"},

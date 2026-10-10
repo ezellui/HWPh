@@ -26,8 +26,7 @@ HWPH.put("a/1403",
  "outlinks":[{"id":247,"lemma":"Arithmetik","n":1},{"id":1408,"lemma":"Indefinit","n":1}],
  "register":[
   {"term":"Antinomie, Russellsche","qualifier":"","band":"4","col":"271"},
-  {"term":"Russellsche Antinomie","qualifier":"","band":"4","col":"271"},
-  {"term":"– II (log.) 1 396–405 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Russellsche Antinomie","qualifier":"","band":"4","col":"271"}
  ],
  "persons":[
   {"id":78,"name":"P. Lorenzen","b":1,"n":2,"l":1,"editor":0,"role":"mixed"},

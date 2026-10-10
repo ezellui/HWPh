@@ -17,7 +17,7 @@ HWPH.put("a/494",
  "next":{"id":495,"lemma":"Chorismos","band":"1","col":1007},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– I (lit.) 2 449–452 – II (chin.) 2 452 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3394,"name":"T. Grimm","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

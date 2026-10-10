@@ -23,7 +23,7 @@ HWPH.put("a/271",
  "next":{"id":272,"lemma":"Ataraxie","band":"1","col":593},
  "backlinks":[{"id":1123,"lemma":"Gestirn, Sterne","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Sternkunde","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":91,"name":"H. Blumenberg","b":0,"n":5,"l":0,"editor":0,"role":"mixed"},
   {"id":175,"name":"G. Galilei","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -96,7 +96,8 @@ HWPH.put("a/271",
   {"id":270,"lemma":"Astrologie"},
   {"id":1082,"lemma":"Geozentrisch, geozentrisches Weltsystem"},
   {"id":1123,"lemma":"Gestirn, Sterne"},
-  {"id":1244,"lemma":"Heliozentrisch, heliozentrisches Weltsystem"}
+  {"id":1244,"lemma":"Heliozentrisch, heliozentrisches Weltsystem"},
+  {"id":2533,"lemma":"Ptolemäisch, Ptolemäisches Weltsystem"}
  ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Astronomie I"},

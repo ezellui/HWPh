@@ -25,6 +25,6 @@ HWPH.put("a/539",
  "mentions":[],
  "see_also":[{"id":537,"lemma":"Definition, induktive"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Definition, rekursive"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -34,9 +34,7 @@ HWPH.put("a/3200",
   {"term":"pulsion de mort","qualifier":"","band":null,"col":null},
   {"term":"Selbstzerstörung","qualifier":"","band":"10","col":"1250"},
   {"term":"Strukturierung","qualifier":"","band":"10","col":"1251"},
-  {"term":"Über-Ich","qualifier":"","band":"10","col":"1250f."},
-  {"term":"– II (psych.) 10 1488–1492 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 2 147 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Über-Ich","qualifier":"","band":"10","col":"1250f."}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":2,"n":3,"l":0,"editor":0,"role":"source"},

@@ -31,6 +31,7 @@ HWPH.put("a/2371",
  "register":[
   {"term":"Beobachtung","qualifier":"","band":"7","col":"958"},
   {"term":"Kranioskopie","qualifier":"","band":"7","col":"959f."},
+  {"term":"Physiognomie","qualifier":"","band":null,"col":null},
   {"term":"Takt","qualifier":"","band":"7","col":"961"},
   {"term":"Verbrecher","qualifier":"","band":"7","col":"960"},
   {"term":"φυσιογνωμία","qualifier":"","band":null,"col":null}

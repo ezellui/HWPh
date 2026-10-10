@@ -23,7 +23,7 @@ HWPH.put("a/445",
  "next":{"id":446,"lemma":"Biosophie","band":"1","col":949},
  "backlinks":[{"id":3469,"lemma":"Vita activa/vita contemplativa","n":1}],
  "outlinks":[],
- "register":[{"term":"μονώτης","qualifier":"","band":"1","col":"948"}],
+ "register":[{"term":"μονώτης","qualifier":"(Lebensform)","band":"1","col":"948"}],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":79,"name":"Demokrit","b":0,"n":4,"l":0,"editor":0,"role":"source"},

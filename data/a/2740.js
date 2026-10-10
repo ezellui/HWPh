@@ -37,7 +37,7 @@ HWPH.put("a/2740",
   {"id":3614,"lemma":"Wiedergeburt","n":1}
  ],
  "outlinks":[{"id":2739,"lemma":"Samkhya","n":1},{"id":3371,"lemma":"Vaisesika","n":1}],
- "register":[{"term":"Reinkarnation","qualifier":"","band":"8","col":"1164"}],
+ "register":[{"term":"Karma","qualifier":"","band":"8","col":"1164"}],
  "persons":[
   {"id":513,"name":"E. Frauwallner","b":0,"n":15,"l":0,"editor":0,"role":"scholar"},
   {"id":9814,"name":"L. Rocher","b":0,"n":4,"l":0,"editor":0,"role":"scholar"},

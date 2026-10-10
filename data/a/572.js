@@ -48,7 +48,13 @@ HWPH.put("a/572",
   {"id":527,"lemma":"Dasein","tf":2},
   {"id":1944,"lemma":"Metaphysik","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1944,"lemma":"Metaphysik"},
+  {"id":2812,"lemma":"Seinsgeschichte"},
+  {"id":2815,"lemma":"Seinsvergessenheit"},
+  {"id":61,"lemma":"Aggression"},
+  {"id":3200,"lemma":"Todestrieb"}
+ ],
  "groups":[
   {"id":26,"name":"Metaphysik","label":"Destruktion I (Heidegger)"},
   {"id":35,"name":"Psychoanalyse","label":"Destruktion II (psych.)"}

@@ -1,7 +1,7 @@
 HWPH.put("r/77-2019",
 [
  [
-  "w’ μότης","Wildheit; Grausamkeit ὄν","",null,null,"ref",3619,"Wildheit; Grausamkeit; Rohheit",
+  "w’ μότης","Wildheit; Grausamkeit","",null,null,"ref",3619,"Wildheit; Grausamkeit; Rohheit",
   "w’ μοτησ"
  ],
  [

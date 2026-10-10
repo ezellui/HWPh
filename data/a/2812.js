@@ -27,13 +27,12 @@ HWPH.put("a/2812",
  ],
  "outlinks":[{"id":1556,"lemma":"Kehre","n":1}],
  "register":[
-  {"term":"des Seins (Heidegger)","qualifier":"(Heidegger)","band":"9","col":"259f."},
+  {"term":"Anfang","qualifier":"(Heidegger)","band":"9","col":"259"},
   {"term":"Ende der Philosophie","qualifier":"(Heidegger)","band":"9","col":"259"},
   {"term":"Geschichte","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Geschick","qualifier":"(Heidegger)","band":"9","col":"259"},
-  {"term":"I-II","qualifier":"(Heidegger)","band":"9","col":"259"},
   {"term":"Verwindung der Metaphysik","qualifier":"(Heidegger)","band":"9","col":"259f."},
-  {"term":"– I (Heidegger) 2 146f. s. auch","qualifier":"(Heidegger)","band":null,"col":null}
+  {"term":"Wahrheit des Seins","qualifier":"(Heidegger)","band":"9","col":"259f."}
  ],
  "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[

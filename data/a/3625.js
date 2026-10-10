@@ -62,7 +62,6 @@ HWPH.put("a/3625",
  ],
  "register":[
   {"term":"Anerkennung","qualifier":"","band":null,"col":null},
-  {"term":"der","qualifier":"","band":null,"col":null},
   {"term":"entre-nous","qualifier":"","band":"12","col":"815"},
   {"term":"Intersubjektivität","qualifier":"","band":null,"col":null},
   {"term":"kollektives Wir","qualifier":"","band":"12","col":"815"},
@@ -195,8 +194,16 @@ HWPH.put("a/3625",
   {"id":290,"lemma":"Aufmerksamkeit","tf":3},
   {"id":3047,"lemma":"Subjekt","tf":5}
  ],
- "see_also":[{"id":137,"lemma":"Andere"}],
+ "see_also":[
+  {"id":137,"lemma":"Andere"},
+  {"id":639,"lemma":"Du"},
+  {"id":1199,"lemma":"Gruppe, soziale"},
+  {"id":1336,"lemma":"Ich-Du-Verhältnis"},
+  {"id":1982,"lemma":"Mitmensch"},
+  {"id":2320,"lemma":"Personalismus"},
+  {"id":3437,"lemma":"Verständigung"}
+ ],
  "groups":[{"id":2,"name":"Anthropologie","label":"Wir"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

@@ -18,12 +18,13 @@ HWPH.put("a/2543",
  "backlinks":[{"id":3098,"lemma":"Sympathie","n":1},{"id":3449,"lemma":"Verwandtschaft","n":1}],
  "outlinks":[{"id":2556,"lemma":"Quellgeist","n":1}],
  "register":[
+  {"term":"asylum ignorantiae","qualifier":"","band":"7","col":"1745"},
   {"term":"mirabilia","qualifier":"","band":"7","col":"1745"},
-  {"term":"Natur","qualifier":"","band":"7","col":"1746"},
   {"term":"proprietates occultae","qualifier":"","band":null,"col":null},
   {"term":"Qualität, okkulte","qualifier":"","band":null,"col":null},
   {"term":"virtus (Kraft)","qualifier":"","band":null,"col":null},
   {"term":"Wirkkraft, verborgene","qualifier":"","band":null,"col":null},
+  {"term":"Wunder","qualifier":"","band":"7","col":"1746"},
   {"term":"ἰδιότητες ἄρρητοι","qualifier":"","band":"7","col":"1744"}
  ],
  "persons":[

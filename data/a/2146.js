@@ -17,10 +17,7 @@ HWPH.put("a/2146",
  "next":{"id":2147,"lemma":"Noesis Noeseos","band":"6","col":871},
  "backlinks":[{"id":2899,"lemma":"Sinnkonstitution, Sinnstiftung","n":1},{"id":3557,"lemma":"Welt","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"ἐνέργεια","qualifier":"","band":null,"col":null},
-  {"term":"πρώτη οὐσία","qualifier":"","band":null,"col":null}
- ],
+ "register":[],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":398,"name":"A. Diemer","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
@@ -37,6 +34,6 @@ HWPH.put("a/2146",
   {"id":2145,"lemma":"Noema"}
  ],
  "groups":[{"id":31,"name":"Phänomenologie","label":"Noesis (Husserl)"}],
- "reg_authors":[{"name":"Janssen Paul","n":26},{"name":"Krämer Hans Joachim","n":1}]
+ "reg_authors":[{"name":"Janssen Paul","n":26}]
 }
 );

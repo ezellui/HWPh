@@ -59,6 +59,6 @@ HWPH.put("a/2873",
  "mentions":[{"id":3093,"lemma":"Symbol","tf":2},{"id":2781,"lemma":"Schrift","tf":2}],
  "see_also":[{"id":1233,"lemma":"Hebdomaden"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Septenarius"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

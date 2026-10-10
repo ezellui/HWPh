@@ -35,7 +35,6 @@ HWPH.put("a/3153",
   {"term":"appellatio","qualifier":"","band":"10","col":"1013f."},
   {"term":"conceptus mentis","qualifier":"","band":"10","col":"1014"},
   {"term":"idea (engl.)","qualifier":"","band":"10","col":"1018"},
-  {"term":"inneres 12 1037–1050 s. auch","qualifier":"","band":null,"col":null},
   {"term":"intentio animae","qualifier":"","band":"10","col":"1014"},
   {"term":"intentio prima/secunda","qualifier":"","band":"10","col":"1018"},
   {"term":"Kopula","qualifier":"","band":"10","col":"1016f."},
@@ -47,8 +46,7 @@ HWPH.put("a/3153",
   {"term":"terminus technicus","qualifier":"","band":"10","col":"1019"},
   {"term":"word","qualifier":"","band":"10","col":"1018"},
   {"term":"Zeichen","qualifier":"","band":"10","col":"1016f."},
-  {"term":"ὅρος","qualifier":"","band":null,"col":null},
-  {"term":"– I (sprach.) 12 1023–1030 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ὅρος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":202,"name":"Ockham","b":3,"n":5,"l":0,"editor":0,"role":"source"},

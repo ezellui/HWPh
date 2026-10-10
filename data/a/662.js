@@ -21,6 +21,7 @@ HWPH.put("a/662",
   {"term":"Anmassung","qualifier":"","band":"2","col":"332"},
   {"term":"arrogantia","qualifier":"","band":null,"col":null},
   {"term":"Dünkel","qualifier":"","band":null,"col":null},
+  {"term":"Prahlerei","qualifier":"","band":"2","col":"332"},
   {"term":"superbia","qualifier":"","band":null,"col":null},
   {"term":"ἀλαζονεία","qualifier":"","band":"2","col":"332"}
  ],

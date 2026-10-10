@@ -23,8 +23,8 @@ HWPH.put("a/2029",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"pflichtgemäss","qualifier":"","band":"6","col":"185"},
-  {"term":"Wohlwollen","qualifier":"","band":"6","col":"189"}
+  {"term":"pflichtgemäss","qualifier":"(Hegel)","band":"6","col":"185"},
+  {"term":"Wohlwollen","qualifier":"(Hegel)","band":"6","col":"189"}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":2,"l":0,"editor":0,"role":"source"},

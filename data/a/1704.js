@@ -20,7 +20,8 @@ HWPH.put("a/1704",
  "register":[
   {"term":"enculturation","qualifier":"","band":"4","col":"1333"},
   {"term":"Kulturrelativismus","qualifier":"","band":null,"col":null},
-  {"term":"Pluralismus, kultureller","qualifier":"","band":null,"col":null}
+  {"term":"Pluralismus, kultureller","qualifier":"","band":null,"col":null},
+  {"term":"Relativismus, kultureller","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1843,"name":"A. L. Kroeber","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},

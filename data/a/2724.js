@@ -30,6 +30,7 @@ HWPH.put("a/2724",
   {"term":"reaktionär","qualifier":"","band":"8","col":"1082"},
   {"term":"romanesque","qualifier":"","band":"8","col":"1078"},
   {"term":"romantisch","qualifier":"","band":"8","col":"1083ff."},
+  {"term":"Romantische, das","qualifier":"","band":null,"col":null},
   {"term":"Romanze","qualifier":"","band":"8","col":"1076f."}
  ],
  "persons":[

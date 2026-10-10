@@ -1,35 +1,9 @@
 HWPH.put("r/73-75",
 [
- [
-  "Suprarational/kontrarational","Suprarational/kontrarational","","10","678","main",3089,
-  "Suprarational/kontrarational","suprarational/kontrarational"
- ],
- ["Suggestion","Suggestion","","10","583","main",3071,"Suggestion","suggestion"],
- ["Subsistenz","Subsistenz","","10","491","main",3060,"Subsistenz","subsistenz"],
- ["Subsistenz","Subsistenz","","10","490","main",3060,"Subsistenz","subsistenz"],
  ["Substanz","Substanz","IV","10","545","main",3062,"Substanz; Substanz/Akzidens","substanz"],
- ["Subjekt","Subjekt","",null,null,"main",3047,"Subjekt","subjekt"],
- ["Suarezismus","Suarezismus","",null,null,"main",3045,"Suarezismus","suarezismus"],
  ["Subjektivismus","Subjektivismus","","10","456","main",3051,"Subjektivismus","subjektivismus"],
- ["Subsistenz","Subsistenz","","10","491","main",3060,"Subsistenz","subsistenz"],
- ["Subtilität","Subtilität","","10","565","main",3067,"Subtilität","subtilitat"],
  ["šûb_","Conversio; Umkehr","","1","1034","ref",514,"Conversio, Umkehr","sub_"],
- [
-  "Subjektivität, transzendentale","Subjektivität, transzendentale","(Husserl)","10","472","main",
-  3053,"Subjektivität, transzendentale","subjektivitat, transzendentale"
- ],
- [
-  "Subjektivität, transzendentale","Zufall","III (hist.)","12","1418","ref",3706,"Zufall",
-  "subjektivitat, transzendentale"
- ],
- [
-  "Sub specie aeternitatis","Sub specie aeternitatis","",null,null,"main",3061,
-  "Sub specie aeternitatis","sub specie aeternitatis"
- ],
- [
-  "Sub specie aeternitatis","Punkt","","7","1713","ref",2534,"Punkt, Punktualität",
-  "sub specie aeternitatis"
- ],
+ ["sua sponte","Freiheit","I",null,null,"ref",946,"Freiheit","sua sponte"],
  ["Suarezismus","Suarezismus","","10","368–371","main",3045,"Suarezismus","suarezismus"],
  ["suavitas","Schmecken","","8","1313","ref",2772,"Schmecken","suavitas"],
  [
@@ -53,7 +27,8 @@ HWPH.put("r/73-75",
   "Subalternation","Quadrat, logisches","",null,null,"see",2540,"Quadrat, logisches",
   "subalternation"
  ],
- ["Subalternation","Verstandesschluss subcontrariae","",null,null,"see",null,null,"subalternation"],
+ ["Subalternation","Verstandesschluss","",null,null,"see",3436,"Verstandesschluß","subalternation"],
+ ["subcontrariae","Quadrat, logisches","",null,null,"ref",2540,"Quadrat, logisches","subcontrariae"],
  ["subculture","Subkultur","",null,null,"ref",3055,"Subkultur","subculture"],
  ["subditus","Untertan","",null,null,"ref",3329,"Untertan","subditus"],
  ["subiectio","Unterdrückung","","11","294","ref",3324,"Unterdrückung; Repression","subiectio"],
@@ -65,9 +40,18 @@ HWPH.put("r/73-75",
   "subiective/obiective","Potentia obiectiva/subiectiva","",null,null,"ref",null,null,
   "subiective/obiective"
  ],
- ["subiective/obiective","Subjekt","",null,null,"ref",3047,"Subjekt","subiective/obiective"],
+ ["subiective/obiective","Subjekt/Objekt","II",null,null,"ref",3047,"Subjekt","subiective/obiective"],
+ [
+  "subiective/obiective","Possibilien","I","7","1129f.","ref",2413,"Possibilien",
+  "subiective/obiective"
+ ],
+ [
+  "subiective/obiective","Wahrscheinlichkeit","III","12","258","ref",3540,"Wahrscheinlichkeit",
+  "subiective/obiective"
+ ],
  ["subiectum","Subjekt","",null,null,"ref",3047,"Subjekt","subiectum"],
- ["subiectum","Subjekt","",null,null,"ref",3047,"Subjekt","subiectum"],
+ ["subiectum","Subjekt/Objekt","II",null,null,"ref",3047,"Subjekt","subiectum"],
+ ["subiectum","Subjekt/Prädikat","",null,null,"ref",3050,"Subjekt/Prädikat","subiectum"],
  ["subiectum (ling.)","Vorbegriff","","11","1182","ref",3490,"Vorbegriff","subiectum (ling.)"],
  ["subiectum attributionis","Subjekt","I","10","373","ref",3047,"Subjekt","subiectum attributionis"],
  ["subiectum generationis","Subjekt","I","10","373","ref",3047,"Subjekt","subiectum generationis"],
@@ -88,7 +72,10 @@ HWPH.put("r/73-75",
   "Subjekt","Subjekt, transzendentales","",null,null,"see",3048,"Subjekt, transzendentales",
   "subjekt"
  ],
- ["Subjekt","Subjekt","",null,null,"see",3047,"Subjekt","subjekt"],
+ ["Subjekt","Subjekt/Objekt","",null,null,"see",3047,"Subjekt","subjekt"],
+ ["Subjekt","Subjekt/Prädikat","",null,null,"see",3050,"Subjekt/Prädikat","subjekt"],
+ ["Subjekt","Substanz","",null,null,"see",3062,"Substanz; Substanz/Akzidens","subjekt"],
+ ["Subjekt","Substrat","",null,null,"see",3065,"Substrat","subjekt"],
  [
   "Subjekt (log.)","Prädikatenlogik","",null,null,"ref",2426,"Prädikatenlogik, Prädikatenkalkül",
   "subjekt (log.)"
@@ -96,7 +83,20 @@ HWPH.put("r/73-75",
  ["Subjekt (log.)","Subjekt/Prädikat","",null,null,"ref",3050,"Subjekt/Prädikat","subjekt (log.)"],
  ["Subjekt (pol.)","Untertan","",null,null,"ref",3329,"Untertan","subjekt (pol.)"],
  ["Subjekt (psych.)","Selbst","III","9","307","ref",2820,"Selbst","subjekt (psych.)"],
- ["Subjekt","Subjekt","",null,null,"main",3047,"Subjekt","subjekt"],
+ [
+  "Subjekt/Objekt","Subjekt/Objekt","","10","401–433","main",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","subjekt/objekt"
+ ],
+ [
+  "Subjekt/Objekt","Gedankending","",null,null,"see",1000,"Gedankending (ens rationis)",
+  "subjekt/objekt"
+ ],
+ ["Subjekt/Objekt","Objekt","",null,null,"see",2183,"Objekt","subjekt/objekt"],
+ ["Subjekt/Objekt","Sein, objektives","",null,null,"see",2809,"Sein, objektives","subjekt/objekt"],
+ [
+  "Subjekt/Objekt","Wahrheit, objektive","",null,null,"see",3531,"Wahrheit, objektive",
+  "subjekt/objekt"
+ ],
  ["Subjekt/Objekt","Mystik","II","6","277","ref",2050,"Mystik, mystisch","subjekt/objekt"],
  ["Subjekt/Objekt","Prinzip","III 5","7","1368","ref",2458,"Prinzip","subjekt/objekt"],
  ["Subjekt/Person","Person","III 9","7","318f.","ref",2318,"Person","subjekt/person"],
@@ -185,7 +185,23 @@ HWPH.put("r/73-75",
   "subjekt des unbewussten"
  ],
  ["Subjektität","Subjekt","IV","10","394","ref",3047,"Subjekt","subjektitat"],
- ["subjektiv/objektiv","Subjekt","",null,null,"ref",3047,"Subjekt","subjektiv/objektiv"],
+ ["subjektiv/objektiv","Subjekt/Objekt","",null,null,"ref",3047,"Subjekt","subjektiv/objektiv"],
+ [
+  "subjektiv/objektiv","Imperativ, kategorischer","II","4","248f.","ref",1395,
+  "Imperative, kategorischer Imperativ","subjektiv/objektiv"
+ ],
+ [
+  "subjektiv/objektiv","Wahrscheinlichkeit","IV A","12","272","ref",3540,"Wahrscheinlichkeit",
+  "subjektiv/objektiv"
+ ],
+ [
+  "subjektiv/objektiv","Wahrscheinlichkeit","IV B","12","296","ref",3540,"Wahrscheinlichkeit",
+  "subjektiv/objektiv"
+ ],
+ [
+  "subjektiv/objektiv","Werturteil","II","12","620","ref",3594,"Werturteil; Werturteilsstreit",
+  "subjektiv/objektiv"
+ ],
  [
   "subjektive/objektive Empfindung","Gefühl","I","3","85","ref",1009,"Gefühl",
   "subjektive/objektive empfindung"
@@ -219,7 +235,17 @@ HWPH.put("r/73-75",
   "Subjektivität","Subjektivität, transzendentale","(Husserl)",null,null,"see",3053,
   "Subjektivität, transzendentale","subjektivitat"
  ],
- ["Subjektivität","Transsubjektivität Subjektivität","",null,null,"see",null,null,"subjektivitat"],
+ [
+  "Subjektivität","Transsubjektivität","",null,null,"see",3217,
+  "Transsubjektivität; das Transsubjektive","subjektivitat"
+ ],
+ ["Subjektivität","Denken","I","2","88ff.","ref",552,"Denken","subjektivitat"],
+ ["Subjektivität","Entscheidung","","2","542","ref",754,"Entscheidung","subjektivitat"],
+ ["Subjektivität","Ernst","","2","722f.","ref",811,"Ernst","subjektivitat"],
+ ["Subjektivität","Geschmack","III","3","453","ref",1097,"Geschmack","subjektivitat"],
+ ["Subjektivität","Protestantismus","","7","1531","ref",2489,"Protestantismus","subjektivitat"],
+ ["Subjektivität","Repräsentation","V","8","849","ref",2686,"Repräsentation","subjektivitat"],
+ ["Subjektivität","Wahrheit","V B","12","95","ref",3523,"Wahrheit","subjektivitat"],
  [
   "Subjektivität, absolute","Subjektivität, transzendentale","(Husserl)","10","472","ref",3053,
   "Subjektivität, transzendentale","subjektivitat, absolute"
@@ -277,7 +303,11 @@ HWPH.put("r/73-75",
   "subjektlose Sätze","Sätze, subjektlose","",null,null,"ref",2749,"Sätze, subjektlose",
   "subjektlose satze"
  ],
- ["Subjektobjektivität","Subjekt","",null,null,"ref",3047,"Subjekt","subjektobjektivitat"],
+ [
+  "Subjektobjektivität","Subjekt/Objekt","IV","10","416","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","subjektobjektivitat"
+ ],
+ ["Subjektwerdung","Sozialisation","","9","1163","ref",2946,"Sozialisation","subjektwerdung"],
  ["Subjunktion","Subjunktion","","10","474","main",3054,"Subjunktion; Subjunktor","subjunktion"],
  ["Subjunktion","Einzelimplikation","",null,null,"see",694,"Einzelimplikation","subjunktion"],
  ["Subjunktion","Folgerung","","2","961","ref",926,"Folgerung","subjunktion"],
@@ -307,7 +337,7 @@ HWPH.put("r/73-75",
  ],
  ["Sublimierung","Ideologie","II","4","169","ref",1373,"Ideologie","sublimierung"],
  ["Sublimierung","Kunst; Kunstwerk","IV 7","4","1417","ref",1712,"Kunst, Kunstwerk","sublimierung"],
- ["Sublimierung","Scham C","4","8","1215","ref",2752,"Schamanismus","sublimierung"],
+ ["Sublimierung","Scham","C 4","8","1215","ref",2751,"Scham, Scheu","sublimierung"],
  [
   "Sublimierung, nicht-repressive","Realitätsprinzip","","8","212","ref",2594,"Realitätsprinzip",
   "sublimierung, nicht-repressive"
@@ -329,7 +359,7 @@ HWPH.put("r/73-75",
   "subreptio","Vitium subreptionis; Subreption","",null,null,"ref",3471,
   "Vitium subreptionis; Subreption","subreptio"
  ],
- ["subscriptio","Emblem I (lit.)","",null,null,"ref",716,"Emblem, Emblematik","subscriptio"],
+ ["subscriptio","Emblem","I (lit.)",null,null,"ref",716,"Emblem, Emblematik","subscriptio"],
  [
   "Subsidiaritätsprinzip","Subsidiaritätsprinzip","","10","482–486","main",3059,
   "Subsidiaritätsprinzip","subsidiaritatsprinzip"
@@ -352,8 +382,11 @@ HWPH.put("r/73-75",
  ["Subsistenz","Subsistenz","","10","486–493","main",3060,"Subsistenz","subsistenz"],
  ["Subsistenz","Existenz; existentia","",null,null,"see",863,"Existenz, existentia","subsistenz"],
  ["Subsistenz","Hypostase","",null,null,"see",1328,"Hypostase","subsistenz"],
- ["Subsistenz","Person","",null,null,"see",2318,"Person","subsistenz"],
- ["substantia","Existenz; existentia I","",null,null,"ref",863,"Existenz, existentia","substantia"],
+ ["Subsistenz","Person","I-II",null,null,"see",2318,"Person","subsistenz"],
+ ["Subsistenz","Substanz","",null,null,"see",3062,"Substanz; Substanz/Akzidens","subsistenz"],
+ ["Subsistenz","Suppositum","",null,null,"see",3085,"Suppositum","subsistenz"],
+ ["Subsistenz","Trinität","",null,null,"see",3231,"Trinität","subsistenz"],
+ ["substantia","Existenz; existentia","I",null,null,"ref",863,"Existenz, existentia","substantia"],
  ["substantia","Substanz","",null,null,"ref",3062,"Substanz; Substanz/Akzidens","substantia"],
  ["substantia","Natur","III","6","450","ref",2074,"Natur","substantia"],
  ["substantia","Wesen","I","12","621","ref",3595,"Wesen","substantia"],
@@ -427,15 +460,19 @@ HWPH.put("r/73-75",
   "Substanz","Arbor porphyriana","",null,null,"ref",236,"Arbor porphyriana, porphyrischer Baum",
   "substanz"
  ],
- ["Substanz","Qualität","II",null,null,"ref",2544,"Qualität","substanz"],
+ ["Substanz","Qualität","II 1",null,null,"ref",2544,"Qualität","substanz"],
  ["Substanz","Quantität","II",null,null,"ref",2552,"Quantität","substanz"],
  [
   "Substanz (arab.)","Form und Materie","","2","995f.","ref",939,"Form und Materie (Stoff)",
   "substanz (arab.)"
  ],
  [
-  "Substanz/Akzidens","Substanz Substanz, Blüte der","",null,null,"ref",null,null,
+  "Substanz/Akzidens","Substanz","",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
   "substanz/akzidens"
+ ],
+ [
+  "Substanz, Blüte der","Flos substantiae","(Leibniz)",null,null,"ref",925,"Flos substantiae",
+  "substanz, blute der"
  ],
  ["Substanz, einfache","Aggregat","","1","102","ref",59,"Aggregat","substanz, einfache"],
  [
@@ -447,7 +484,7 @@ HWPH.put("r/73-75",
   "substanz, einfache"
  ],
  [
-  "Substanz, erste/zweite","Substanz I","",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
+  "Substanz, erste/zweite","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
   "substanz, erste/zweite"
  ],
  [
@@ -495,6 +532,8 @@ HWPH.put("r/73-75",
   "subsumieren"
  ],
  ["Subsumtion","Subsumtion","","10","560–563","main",3066,"Subsumtion","subsumtion"],
+ ["Subsumtion","Subordination","",null,null,"see",3058,"Subordination","subsumtion"],
+ ["Subsumtion","Rechtsnorm","",null,null,"see",2610,"Rechtsnorm","subsumtion"],
  ["Subsumtion","Algebra der Logik","","1","153","ref",96,"Algebra der Logik","subsumtion"],
  ["Subsumtion","Inklusion","","4","384","ref",1442,"Inklusion","subsumtion"],
  ["Subsumtionsautomat","Urteil","IV 2","11","461","ref",3355,"Urteil","subsumtionsautomat"],
@@ -518,8 +557,8 @@ HWPH.put("r/73-75",
   "subversion des subjekts"
  ],
  [
-  "suchness","Erstheit; Zweitheit; Drittheit (Peirce)","","2","729","ref",816,"Erste Philosophie",
-  "suchness"
+  "suchness","Erstheit; Zweitheit; Drittheit","(Peirce)","2","729","ref",817,
+  "Erstheit, Zweitheit, Drittheit","suchness"
  ],
  ["Sucht","Sucht","","10","572–576","main",3069,"Sucht","sucht"],
  ["Sühne","Strafe","I",null,null,"ref",3035,"Strafe","suhne"],
@@ -565,9 +604,14 @@ HWPH.put("r/73-75",
  ["Sündenfall","Sünde","",null,null,"see",3075,"Sünde","sundenfall"],
  ["Sündenfall","Urstand","",null,null,"see",3353,"Urstand","sundenfall"],
  ["Sündenübel","Übel","","11","2","ref",3246,"Übel","sundenubel"],
- ["Sündenvergebung","Verzeihen Sündlosigkeit","",null,null,"ref",null,null,"sundenvergebung"],
+ ["Sündenvergebung","Verzeihen","",null,null,"ref",3457,"Verzeihen; Vergeben","sundenvergebung"],
+ ["Sündlosigkeit","Perfektionismus","",null,null,"ref",2307,"Perfektionismus","sundlosigkeit"],
  ["Süssigkeit","Schmecken","","8","1313","ref",2772,"Schmecken","sussigkeit"],
- ["sufficientia sui","Autarkie Suffizienz, reale","",null,null,"ref",null,null,"sufficientia sui"],
+ ["sufficientia sui","Autarkie","",null,null,"ref",316,"Autarkie, autark","sufficientia sui"],
+ [
+  "Suffizienz, reale","Kategorie; Kategorienlehre","V","4","750","ref",1540,
+  "Kategorie, Kategorienlehre","suffizienz, reale"
+ ],
  [
   "suffocation of the mother","Hysterie","","3","1268","ref",1332,"Hysterie, hysterisch",
   "suffocation of the mother"
@@ -614,9 +658,7 @@ HWPH.put("r/73-75",
  ["summe vivere","Wesen, höchstes","","12","647","ref",3596,"Wesen, höchstes","summe vivere"],
  ["Summum bonum","Summum bonum","","10","593–598","main",3074,"Summum bonum","summum bonum"],
  ["Summum bonum","Glück","",null,null,"see",1155,"Glück, Glückseligkeit","summum bonum"],
- ["Summum bonum","Gut; das Gute","",null,null,"see",1203,"Gut, das Gute, das Gut","summum bonum"],
- ["Summum bonum","Gut, höchstes","",null,null,"see",1204,"Gut, höchstes","summum bonum"],
- ["Summum bonum","Vollkommenheit","",null,null,"see",3482,"Vollkommenheit","summum bonum"],
+ ["Summum bonum","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","summum bonum"],
  ["summum bonum","Philosophie","III A","7","658","ref",2353,"Philosophie","summum bonum"],
  ["summum bonum","Trinität","I","10","1501","ref",3231,"Trinität","summum bonum"],
  ["summum ens","Wesen, höchstes","",null,null,"ref",3596,"Wesen, höchstes","summum ens"],
@@ -643,7 +685,11 @@ HWPH.put("r/73-75",
  ["Sunyatsenismus","Sunyatsenismus","","10","630","main",3078,"Sunyatsenismus","sunyatsenismus"],
  ["Sunyatsenismus","Maoismus","",null,null,"see",1869,"Maoismus","sunyatsenismus"],
  ["super humanus","Übermensch","","11","46","ref",3261,"Übermensch","super humanus"],
- ["super sensus","Übersinnlich superabundantia","",null,null,"ref",null,null,"super sensus"],
+ [
+  "super sensus","Übersinnlich","",null,null,"ref",3265,"Übersinnlich; das Übersinnliche",
+  "super sensus"
+ ],
+ ["superabundantia","Überschwang","",null,null,"ref",3263,"Überschwang","superabundantia"],
  ["superbia","Eigendünkel","",null,null,"ref",662,"Eigendünkel","superbia"],
  ["superbia","Eigenwille","",null,null,"ref",671,"Eigenwille, Eigensinn","superbia"],
  ["superbia","Eitelkeit","",null,null,"ref",698,"Eitelkeit","superbia"],
@@ -693,7 +739,11 @@ HWPH.put("r/73-75",
   "supersapientia"
  ],
  ["supersapientia","Weisheit","","12","384","ref",3553,"Weisheit","supersapientia"],
- ["supersensible","Übersinnlich superspecialis","",null,null,"ref",null,null,"supersensible"],
+ [
+  "supersensible","Übersinnlich","",null,null,"ref",3265,"Übersinnlich; das Übersinnliche",
+  "supersensible"
+ ],
+ ["superspecialis","Species","I (met.)","9","1319","ref",2966,"Species","superspecialis"],
  [
   "Superstition; Aberglaube","Superstition; Aberglaube","","10","633–644","main",3080,
   "Superstition; Aberglaube","superstition; aberglaube"
@@ -729,7 +779,7 @@ HWPH.put("r/73-75",
  ["Suppletivwesen","Suppletivwesen","","10","650–652","main",3083,"Suppletivwesen","suppletivwesen"],
  ["Suppletivwesen","Analogie","II (ling.)",null,null,"see",123,"Analogie","suppletivwesen"],
  ["supplicium","Strafe","I","10","212","ref",3035,"Strafe","supplicium"],
- ["suppositio","Hypothese II","",null,null,"ref",1330,"Hypothese, Hypothesis","suppositio"],
+ ["suppositio","Hypothese","II",null,null,"ref",1330,"Hypothese, Hypothesis","suppositio"],
  ["suppositio","Supposition","",null,null,"ref",3084,"Supposition","suppositio"],
  ["suppositio","Logik","III","5","371f.","ref",1803,"Logik","suppositio"],
  ["suppositio","Name","II","6","379","ref",2066,"Name","suppositio"],
@@ -755,19 +805,29 @@ HWPH.put("r/73-75",
  ["Supposition","Signifikation","",null,null,"see",2885,"Signifikation","supposition"],
  ["Supposition","Subjekt/Prädikat","II",null,null,"see",3050,"Subjekt/Prädikat","supposition"],
  ["Supposition","Terminus","",null,null,"see",3153,"Terminus","supposition"],
- ["Supposition","Erkenntnis I (erk.)","","2","651","ref",796,"Erkennen, Erkenntnis","supposition"],
+ ["Supposition","Erkenntnis","I (erk.)","2","651","ref",796,"Erkennen, Erkenntnis","supposition"],
  ["Supposition","Suggestion","","10","585","ref",3071,"Suggestion","supposition"],
  ["Suppositum","Suppositum","","10","661–664","main",3085,"Suppositum","suppositum"],
  ["Suppositum","Hypostase","",null,null,"see",1328,"Hypostase","suppositum"],
- ["Suppositum","Person","",null,null,"see",2318,"Person","suppositum"],
+ ["Suppositum","Person","I-II",null,null,"see",2318,"Person","suppositum"],
+ ["Suppositum","Subsistenz","",null,null,"see",3060,"Subsistenz","suppositum"],
+ ["Suppositum","Substanz","",null,null,"see",3062,"Substanz; Substanz/Akzidens","suppositum"],
+ ["Suppositum","Substrat","",null,null,"see",3065,"Substrat","suppositum"],
  ["suppositum","Natur","III","6","450ff.","ref",2074,"Natur","suppositum"],
  ["suppôt","Suppositum","","10","663","ref",3085,"Suppositum","suppot"],
- ["suppressio","Unterdrückung supra rationem","",null,null,"ref",null,null,"suppressio"],
+ ["suppressio","Unterdrückung","",null,null,"ref",3324,"Unterdrückung; Repression","suppressio"],
  [
-  "Suprarational/kontrarational","Suprarational/kontrarational","",null,null,"main",3089,
-  "Suprarational/kontrarational","suprarational/kontrarational"
+  "supra rationem","Suprarational/kontrarational","",null,null,"ref",3089,
+  "Suprarational/kontrarational","supra rationem"
  ],
- ["supra sensum","Übersinnlich supra spiritum","",null,null,"ref",null,null,"supra sensum"],
+ [
+  "supra sensum","Übersinnlich","",null,null,"ref",3265,"Übersinnlich; das Übersinnliche",
+  "supra sensum"
+ ],
+ [
+  "supra spiritum","Schweigen; Stille","A","8","1484","ref",2787,"Schweigen, Stille",
+  "supra spiritum"
+ ],
  ["supra tempus","Überzeitlich","",null,null,"ref",3268,"Überzeitlich","supra tempus"],
  [
   "Supralapsarismus","Supralapsarismus","","10","664f.","main",3086,"Supralapsarismus",
@@ -791,12 +851,12 @@ HWPH.put("r/73-75",
   "supranatural"
  ],
  ["Supranatural","Gnade","",null,null,"see",1156,"Gnade","supranatural"],
- ["Supranatural","Hyperphysisch Supranaturalismus","",null,null,"see",null,null,"supranatural"],
+ ["Supranatural","Hyperphysisch","",null,null,"see",1324,"Hyperphysisch, Hyperphysik","supranatural"],
  [
-  "Supranatural","Supranatural","",null,null,"main",3088,"Supranatural; Supranaturalismus",
-  "supranatural"
+  "Supranaturalismus","Supranatural","",null,null,"ref",3088,"Supranatural; Supranaturalismus",
+  "supranaturalismus"
  ],
- ["Supranatural","Rationalismus","I","8","46","ref",2574,"Rationalismus","supranatural"],
+ ["Supranaturalismus","Rationalismus","I","8","46","ref",2574,"Rationalismus","supranaturalismus"],
  [
   "Suprarational/kontrarational","Suprarational/kontrarational","","10","677–681","main",3089,
   "Suprarational/kontrarational","suprarational/kontrarational"
@@ -817,7 +877,11 @@ HWPH.put("r/73-75",
  ],
  ["surhomme","Übermensch","","11","47","ref",3261,"Übermensch","surhomme"],
  ["surmoi","Über-Ich","",null,null,"ref",3257,"Über-Ich","surmoi"],
- ["surnaturel","Supranatural surplus meaning","",null,null,"ref",null,null,"surnaturel"],
+ ["surnaturel","Supranatural","",null,null,"ref",3088,"Supranatural; Supranaturalismus","surnaturel"],
+ [
+  "surplus meaning","Operationalismus","II (psych.)","6","1219","ref",2227,"Operationalismus",
+  "surplus meaning"
+ ],
  ["surplus value","Mehrwert","",null,null,"ref",1910,"Mehrwert","surplus value"],
  ["surrationalisme","Wissen","VII","12","900","ref",3634,"Wissen","surrationalisme"],
  [
@@ -851,15 +915,11 @@ HWPH.put("r/73-75",
  ["suspicio","Verdacht","",null,null,"ref",3388,"Verdacht","suspicio"],
  ["suspicio","Vermutung","",null,null,"ref",3421,"Vermutung","suspicio"],
  ["sustentaculum","Subjekt","I","10","378","ref",3047,"Subjekt","sustentaculum"],
- ["Substanz","Substanz","I","10","501","main",3062,"Substanz; Substanz/Akzidens","substanz"],
  ["Substanz","Substanz","III","10","526","main",3062,"Substanz; Substanz/Akzidens","substanz"],
  [
-  "Subjektivität, transzendentale","Subjektivität, transzendentale","(Husserl)","10","472f.","main",
-  3053,"Subjektivität, transzendentale","subjektivitat, transzendentale"
+  "Subjekt/Objekt","Subjekt/Objekt","I","10","404","main",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "subjekt/objekt"
  ],
- ["Subjekt","Subjekt","I","10","377","main",3047,"Subjekt","subjekt"],
- ["Subjekt","Subjekt","",null,null,"main",3047,"Subjekt","subjekt"],
- ["Substanz","Substanz","II","10","520","main",3062,"Substanz; Substanz/Akzidens","substanz"],
  ["Sünkel Wolfgang","Diätetik","","2","231f.","author",589,"Diätetik","sunkel wolfgang"],
  [
   "Sünkel Wolfgang","Hermeneutisch-pragmatisch","","3","1074","author",1256,

@@ -33,12 +33,16 @@ HWPH.put("a/3594",
   {"id":3588,"lemma":"Wert","n":1}
  ],
  "register":[
-  {"term":"/Objekt","qualifier":"II","band":"12","col":"620"},
-  {"term":"/Objekt IV 10 423f.","qualifier":"I","band":"12","col":"616f."},
   {"term":"Argumentieren, normatives","qualifier":"I","band":"12","col":"618"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"normatives Argumentieren","qualifier":"I","band":"12","col":"618"},
-  {"term":"Positivismus","qualifier":"I","band":"12","col":"616f."},
-  {"term":"Wertfreiheit","qualifier":"","band":null,"col":null}
+  {"term":"Objektivität","qualifier":"I","band":"12","col":"616f."},
+  {"term":"Positivismusstreit","qualifier":"I","band":"12","col":"616f."},
+  {"term":"subjektiv/objektiv","qualifier":"II","band":"12","col":"620"},
+  {"term":"value controversy","qualifier":"","band":null,"col":null},
+  {"term":"value judgement","qualifier":"","band":null,"col":null},
+  {"term":"Wertfreiheit","qualifier":"","band":null,"col":null},
+  {"term":"Werturteilsstreit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":927,"name":"Ch. Taylor","b":4,"n":4,"l":0,"editor":0,"role":"source"},

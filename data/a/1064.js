@@ -17,7 +17,10 @@ HWPH.put("a/1064",
  "next":{"id":1065,"lemma":"Generatio","band":"3","col":273},
  "backlinks":[{"id":1684,"lemma":"Kreatianismus","n":1}],
  "outlinks":[],
- "register":[{"term":"tradux animae","qualifier":"","band":"3","col":"272"}],
+ "register":[
+  {"term":"semen animae","qualifier":"","band":"3","col":"272"},
+  {"term":"tradux animae","qualifier":"","band":"3","col":"272"}
+ ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":7,"name":"Augustinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},

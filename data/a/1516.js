@@ -24,8 +24,8 @@ HWPH.put("a/1516",
  "outlinks":[],
  "register":[
   {"term":"oder (log.)","qualifier":"","band":null,"col":null},
-  {"term":"und (log.)","qualifier":"","band":null,"col":null},
-  {"term":"wenn..., so","qualifier":"","band":null,"col":null}
+  {"term":"so...","qualifier":"","band":null,"col":null},
+  {"term":"und (log.)","qualifier":"","band":null,"col":null}
  ],
  "persons":[],
  "mentions":[
@@ -39,6 +39,6 @@ HWPH.put("a/1516",
   {"id":3073,"lemma":"Summe, logische"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Junktor"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

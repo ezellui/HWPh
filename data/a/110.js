@@ -22,6 +22,6 @@ HWPH.put("a/110",
  "mentions":[{"id":3355,"lemma":"Urteil","tf":3}],
  "see_also":[{"id":226,"lemma":"Äquipollenz"}],
  "groups":[{"id":22,"name":"Logik","label":"Alternation"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

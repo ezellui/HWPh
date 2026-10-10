@@ -37,7 +37,10 @@ HWPH.put("a/1155",
  "outlinks":[],
  "register":[
   {"term":"Affekt","qualifier":"I","band":"3","col":"687f."},
+  {"term":"beatitudo","qualifier":"","band":null,"col":null},
   {"term":"Befriedigung","qualifier":"III","band":"3","col":"705"},
+  {"term":"bonheur","qualifier":"","band":null,"col":null},
+  {"term":"felicitas","qualifier":"","band":null,"col":null},
   {"term":"first-person judgements","qualifier":"III","band":"3","col":"707"},
   {"term":"Glückseligkeit","qualifier":"","band":null,"col":null},
   {"term":"glückswürdig","qualifier":"III","band":"3","col":"703"},
@@ -52,7 +55,10 @@ HWPH.put("a/1155",
   {"term":"Vergnügen","qualifier":"III","band":"3","col":"704"},
   {"term":"visio beatifica","qualifier":"III","band":"3","col":"698"},
   {"term":"Zufriedenheit","qualifier":"III","band":"3","col":"703"},
-  {"term":"Zweck des Daseins","qualifier":"III","band":"3","col":"703"}
+  {"term":"Zweck des Daseins","qualifier":"III","band":"3","col":"703"},
+  {"term":"εὐδαιμονία","qualifier":"","band":null,"col":null},
+  {"term":"μακαριότης","qualifier":"","band":null,"col":null},
+  {"term":"μακαρισμός","qualifier":"II","band":"3","col":"691"}
  ],
  "persons":[
   {"id":56,"name":"Diogenes Laertius","b":1,"n":13,"l":0,"editor":0,"role":"scholar"},

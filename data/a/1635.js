@@ -33,13 +33,12 @@ HWPH.put("a/1635",
  "register":[
   {"term":"cognitio specularis","qualifier":"","band":"4","col":"1025"},
   {"term":"contemplatio","qualifier":"","band":null,"col":null},
+  {"term":"deificatio","qualifier":"","band":"4","col":"1025"},
   {"term":"informatio","qualifier":"","band":"4","col":"1025"},
   {"term":"intellectualitas","qualifier":"","band":"4","col":"1025"},
   {"term":"intellectus speculativus","qualifier":"","band":"4","col":"1025"},
   {"term":"intuitus simplex","qualifier":"","band":"4","col":"1025"},
-  {"term":"L 7 794 deificatio","qualifier":"","band":"4","col":"1025"},
-  {"term":"θεωρε͂ιν","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 5 961–965 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"θεωρε͂ιν","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1023,"name":"Richard von St. Victor","b":1,"n":5,"l":0,"editor":0,"role":"source"},

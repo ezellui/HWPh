@@ -44,9 +44,7 @@ HWPH.put("a/61",
   {"term":"Selbstzerstörung","qualifier":"","band":"1","col":"103"},
   {"term":"Verhalten, aggressives","qualifier":"","band":null,"col":null},
   {"term":"Zerstörung","qualifier":"","band":null,"col":null},
-  {"term":"Zerstörungstrieb","qualifier":"","band":"1","col":"103"},
-  {"term":"– II (psych.) 10 1488–1492 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 2 147 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zerstörungstrieb","qualifier":"","band":"1","col":"103"}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":4,"n":3,"l":0,"editor":0,"role":"source"},

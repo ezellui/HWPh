@@ -18,10 +18,10 @@ HWPH.put("a/887",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Aussen/innen","qualifier":"","band":null,"col":null},
-  {"term":"Denken, wildes","qualifier":"","band":"2","col":"885"},
-  {"term":"Logik des Konkreten","qualifier":"","band":"2","col":"885"},
-  {"term":"wildes Denken","qualifier":"","band":"2","col":"885"}
+  {"term":"Aussenwelt/Innenwelt","qualifier":"(Gehlen)","band":null,"col":null},
+  {"term":"Denken, wildes","qualifier":"(Gehlen)","band":"2","col":"885"},
+  {"term":"Logik des Konkreten","qualifier":"(Gehlen)","band":"2","col":"885"},
+  {"term":"wildes Denken","qualifier":"(Gehlen)","band":"2","col":"885"}
  ],
  "persons":[
   {"id":87,"name":"A. Gehlen","b":2,"n":1,"l":1,"editor":0,"role":"source"},
@@ -35,7 +35,7 @@ HWPH.put("a/887",
   {"id":14473,"name":"R. Denney","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1446,"lemma":"Innerlichkeit","tf":2}],
- "see_also":[],
+ "see_also":[{"id":357,"lemma":"Bedürfnisorientierung/Antriebsorientierung"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Faktenaussenwelt/Fakteninnenwelt (Gehlen)"}],
  "reg_authors":[{"name":"Lepenies Wolf","n":6}]
 }

@@ -39,8 +39,6 @@ HWPH.put("a/3660",
  ],
  "register":[
   {"term":"admirabilia","qualifier":"","band":null,"col":null},
-  {"term":"das","qualifier":"","band":null,"col":null},
-  {"term":"das 3 900–902 s. auch","qualifier":"","band":null,"col":null},
   {"term":"fantastic","qualifier":"","band":"12","col":"1074ff."},
   {"term":"marvellous","qualifier":"","band":null,"col":null},
   {"term":"merveilleux","qualifier":"","band":null,"col":null},
@@ -142,7 +140,14 @@ HWPH.put("a/3660",
   {"id":2233,"lemma":"Ordnung","tf":2},
   {"id":535,"lemma":"Definition","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1190,"lemma":"Groteske"},
+  {"id":3015,"lemma":"Staunen; Bewunderung; Verwunderung"},
+  {"id":3090,"lemma":"Surrealismus"},
+  {"id":3299,"lemma":"Unheimliche, das"},
+  {"id":3541,"lemma":"Wahrscheinlichkeit (ästhetisch)"},
+  {"id":3659,"lemma":"Wunder"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Wunderbare, das; Phantastische, das"},
   {"id":21,"name":"Literaturtheorie","label":"Wunderbare, das; Phantastische, das"}

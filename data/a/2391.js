@@ -19,7 +19,7 @@ HWPH.put("a/2391",
  "outlinks":[],
  "register":[
   {"term":"Gegensatz","qualifier":"","band":null,"col":null},
-  {"term":"II-III Identität","qualifier":"","band":"7","col":"1027"},
+  {"term":"Identität","qualifier":"","band":"7","col":"1027"},
   {"term":"Steigerung","qualifier":"","band":"7","col":"1027"}
  ],
  "persons":[

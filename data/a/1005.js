@@ -27,6 +27,7 @@ HWPH.put("a/1005",
  "register":[
   {"term":"Begehrungsvermögen","qualifier":"","band":"3","col":"76"},
   {"term":"Empfindung","qualifier":"","band":null,"col":null},
+  {"term":"Gefällige, das","qualifier":"","band":null,"col":null},
   {"term":"Gefühl","qualifier":"","band":"3","col":"77"},
   {"term":"Gunst","qualifier":"","band":"3","col":"77"},
   {"term":"Wohlgefallen","qualifier":"","band":null,"col":null}

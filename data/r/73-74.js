@@ -1,24 +1,6 @@
 HWPH.put("r/73-74",
 [
- ["Staunen","Staunen","","10","119","main",3015,"Staunen; Bewunderung; Verwunderung","staunen"],
- [
-  "Stratifikation","Stratifikation","I (ling.)","10","267","main",3037,"Stratifikation",
-  "stratifikation"
- ],
- ["Staatsrecht","Staatsrecht","",null,null,"main",3002,"Staatsrecht","staatsrecht"],
- ["Stufen","Stufen","",null,null,"main",3044,"Stufen","stufen"],
- ["Strafe","Strafe","V (päd./psych.)",null,null,"main",3035,"Strafe","strafe"],
- ["Strafe","Strafe","II","10","218","main",3035,"Strafe","strafe"],
- ["Stoffwechsel","Stoffwechsel","","10","190","main",3032,"Stoffwechsel","stoffwechsel"],
- ["Streben","Streben","","10","270","main",3038,"Streben","streben"],
- ["Strafe","Strafe","III 7","10","244","main",3035,"Strafe","strafe"],
  ["Standhaftigkeit","Standhaftigkeit","",null,null,"main",3011,"Standhaftigkeit","standhaftigkeit"],
- ["Struktur","Struktur","II (frz. Struktural.)","10","318","main",3040,"Struktur","struktur"],
- ["Stil","Stil","","10","157","main",3024,"Stil","stil"],
- ["Strafe","Strafe","V (päd./psych.)","10","255","main",3035,"Strafe","strafe"],
- ["Stil","Stil","","10","152","main",3024,"Stil","stil"],
- ["Staatsreligion","Staatsreligion","","10","78","main",3003,"Staatsreligion","staatsreligion"],
- ["Stoffwechsel","Stoffwechsel","","10","194","main",3032,"Stoffwechsel","stoffwechsel"],
  ["Staat","Staat","","10","1–53","main",2998,"Staat","staat"],
  ["Staat","Bürger","",null,null,"see",459,"Bürger, bourgeois, citoyen","staat"],
  ["Staat","Etatismus","",null,null,"see",834,"Etatismus","staat"],
@@ -73,7 +55,11 @@ HWPH.put("r/73-74",
  ["staatlicher Wille","Gesetz","I (jur.)","3","490","ref",1105,"Gesetz","staatlicher wille"],
  ["Staatsbeamte","Amt","I (pol.)","1","211","ref",120,"Amt","staatsbeamte"],
  ["Staatsbeschreibung","Statistik","",null,null,"ref",3013,"Statistik","staatsbeschreibung"],
- ["Staatsbürger","Bürger Staatsbürgerkunde","",null,null,"ref",null,null,"staatsburger"],
+ ["Staatsbürger","Bürger","",null,null,"ref",459,"Bürger, bourgeois, citoyen","staatsburger"],
+ [
+  "Staatsbürgerkunde","Werterziehung","","12","601f.","ref",3591,
+  "Werterziehung; moralische Erziehung; Moralpädagogik","staatsburgerkunde"
+ ],
  ["Staatschristentum","Staatsreligion","",null,null,"ref",3003,"Staatsreligion","staatschristentum"],
  ["Staatsformen","Herrschaftsformen","",null,null,"ref",1263,"Herrschaftsform(en)","staatsformen"],
  ["Staatsformen","Verfassungsformen Staatsgelehrtheit","",null,null,"ref",null,null,"staatsformen"],
@@ -89,7 +75,10 @@ HWPH.put("r/73-74",
  ["Staatsklugheit","Klugheit","","4","860f.","ref",1575,"Klugheit","staatsklugheit"],
  ["Staatsklugheit","Verstellung","","11","939","ref",3439,"Verstellung","staatsklugheit"],
  ["Staatslehre","Staatslehre","","10","53–63","main",2999,"Staatslehre","staatslehre"],
- ["Staatslehre","Polizei","",null,null,"see",2399,"Polizei","staatslehre"],
+ ["Staatslehre","Polizei; Polizeiwissenschaft","",null,null,"see",2399,"Polizei","staatslehre"],
+ ["Staatslehre","Staat","",null,null,"see",2998,"Staat","staatslehre"],
+ ["Staatslehre","Staatsrecht","",null,null,"see",3002,"Staatsrecht","staatslehre"],
+ ["Staatslehre","Statistik","",null,null,"see",3013,"Statistik","staatslehre"],
  ["Staatslehre","Politik","III","7","1060f.","ref",2396,"Politik","staatslehre"],
  ["Staatsmacht","Macht","II (allg.)","5","607","ref",1844,"Macht","staatsmacht"],
  ["Staatsmaschine","Staatsmaschine","","10","63–66","main",3000,"Staatsmaschine","staatsmaschine"],
@@ -114,8 +103,11 @@ HWPH.put("r/73-74",
  ["Staatsreligion","Staatsreligion","","10","76–80","main",3003,"Staatsreligion","staatsreligion"],
  ["Staatsreligion","Religion","VIII 2","8","687","ref",2673,"Religion","staatsreligion"],
  ["Staatssozialismus","Sozialismus","","9","1180f.","ref",2947,"Sozialismus","staatssozialismus"],
- ["Staatstheologie","Zivilreligion Staatstheorie","",null,null,"ref",null,null,"staatstheologie"],
- ["Staatslehre","Staatslehre","",null,null,"main",2999,"Staatslehre","staatslehre"],
+ [
+  "Staatstheologie","Zivilreligion","",null,null,"ref",3701,"Zivilreligion; Ziviltheologie",
+  "staatstheologie"
+ ],
+ ["Staatstheorie","Staatslehre","",null,null,"ref",2999,"Staatslehre","staatstheorie"],
  ["Staatsverfassung","Verfassung","",null,null,"ref",3398,"Verfassung","staatsverfassung"],
  [
   "Staatsverwaltung","Ökonomie, politische","",null,null,"ref",2211,"Ökonomie, politische",
@@ -156,8 +148,16 @@ HWPH.put("r/73-74",
  ["Stalinismus","Trotzkismus","",null,null,"see",3236,"Trotzkismus","stalinismus"],
  ["Stammbegriffe","Stammbegriffe","(Kant)","10","92–94","main",3007,"Stammbegriffe","stammbegriffe"],
  [
-  "Stammbegriffe","Kategorie; Kategorienlehre IV Stammbegriffe (Kant)","",null,null,"see",1540,
+  "Stammbegriffe","Kategorie; Kategorienlehre","IV",null,null,"see",1540,
   "Kategorie, Kategorienlehre","stammbegriffe"
+ ],
+ [
+  "Stammbegriffe (Kant)","Logik, transzendentale","","5","465","ref",1819,"Logik, transzendentale",
+  "stammbegriffe (kant)"
+ ],
+ [
+  "Stammbegriffe (Kant)","Ordnung der Begriffe","","6","1311","ref",2235,"Ordnung der Begriffe",
+  "stammbegriffe (kant)"
  ],
  [
   "Stammesentwicklung","Evolutionstheorie","",null,null,"ref",853,"Evolutionstheorie",
@@ -169,9 +169,10 @@ HWPH.put("r/73-74",
  ],
  ["Stammesentwicklung","Phylogenese","",null,null,"ref",2367,"Phylogenese","stammesentwicklung"],
  [
-  "Stammesentwicklung","Psychogenese Stammreihe der Dinge","",null,null,"ref",null,null,
+  "Stammesentwicklung","Psychogenese","",null,null,"ref",2509,"Psychogenese, Psychophylogenese",
   "stammesentwicklung"
  ],
+ ["Stammreihe der Dinge","Series","II","9","693","ref",2875,"Series","stammreihe der dinge"],
  ["Stammsprache","Ursprache","","11","414","ref",3351,"Ursprache","stammsprache"],
  [
   "Stammwort","Wurzelwort; Stammwort; Urwort","",null,null,"ref",3663,
@@ -202,7 +203,18 @@ HWPH.put("r/73-74",
  ["Stand der Unschuld","Instinkt","I (erk.)","4","409","ref",1453,"Instinkt","stand der unschuld"],
  ["Stand der Unschuld","Macht","I A","5","588","ref",1844,"Macht","stand der unschuld"],
  ["Stand der Unschuld","Materie","IV","5","918","ref",1892,"Materie","stand der unschuld"],
- ["Stand","Stand","",null,null,"main",3008,"Stand","stand"],
+ [
+  "Stand des Bewusstseins","Stand des Bewusstseins","(Dilthey)","10","95f.","main",3009,
+  "Stand des Bewußtseins","stand des bewusstseins"
+ ],
+ [
+  "Stand des Bewusstseins","Bewusstseinsstellung","(Dilthey)",null,null,"see",419,
+  "Bewußtseinsstellung","stand des bewusstseins"
+ ],
+ [
+  "Stand des Bewusstseins","Psychologie, beschreibende und zergliedernde","",null,null,"see",2512,
+  "Psychologie, beschreibende und zergliedernde","stand des bewusstseins"
+ ],
  ["Standardmodell","Semantik","","9","585","ref",2861,"Semantik, semantisch","standardmodell"],
  ["Standardmodell","Theoriesprache","","10","1156","ref",3181,"Theoriesprache","standardmodell"],
  [
@@ -214,8 +226,12 @@ HWPH.put("r/73-74",
   "Infinitesimalrechnung","standard-modell/nicht-standard-modell"
  ],
  [
-  "Standard-Modell/Nicht-Standard-Modell","Modell","",null,null,"see",1999,"Modell",
+  "Standard-Modell/Nicht-Standard-Modell","Modell; Modelltheorie","",null,null,"see",1999,"Modell",
   "standard-modell/nicht-standard-modell"
+ ],
+ [
+  "Standardmodell des Universums","Universum","","11","223","ref",3310,"Universum",
+  "standardmodell des universums"
  ],
  ["Standards","Paradigma; exemplar","","7","78","ref",2269,"Paradigma, exemplar","standards"],
  [
@@ -230,7 +246,7 @@ HWPH.put("r/73-74",
   "standort, utopischer"
  ],
  [
-  "Standortgebundenheit","Seinsverbundenheit (Mannheim)","","9","262","ref",2814,
+  "Standortgebundenheit","Seinsverbundenheit","(Mannheim)","9","262","ref",2814,
   "Seinsverbundenheit; Seinsgebundenheit","standortgebundenheit"
  ],
  [
@@ -242,9 +258,14 @@ HWPH.put("r/73-74",
   "standpunkt; gesichtspunkt"
  ],
  [
-  "Standpunkt; Gesichtspunkt","Perspektive I (allg.) Standpunkt","",null,null,"see",null,null,
-  "standpunkt; gesichtspunkt"
+  "Standpunkt; Gesichtspunkt","Perspektive","I (allg.)",null,null,"see",2326,
+  "Perspektive, Perspektivismus, perspektivisch","standpunkt; gesichtspunkt"
  ],
+ [
+  "Standpunkt","Sub specie aeternitatis","",null,null,"ref",3061,"Sub specie aeternitatis",
+  "standpunkt"
+ ],
+ ["Standpunkt","Punkt","","7","1713","ref",2534,"Punkt, Punktualität","standpunkt"],
  [
   "Standpunkt der Erlösung","Unmöglichkeit","","11","248","ref",3315,"Unmöglichkeit",
   "standpunkt der erlosung"
@@ -291,15 +312,16 @@ HWPH.put("r/73-74",
  ["Statistik (pol.)","Politik","II","7","1053","ref",2396,"Politik","statistik (pol.)"],
  ["Statistik, biologische","Biometrik","",null,null,"ref",441,"Biometrik","statistik, biologische"],
  [
-  "Statistik, mathematische","Probabilismus I (wiss.) statistique morale","",null,null,"ref",null,
-  null,"statistik, mathematische"
+  "Statistik, mathematische","Probabilismus","I (wiss.)",null,null,"ref",2463,
+  "Probabilismus, probabilistisch","statistik, mathematische"
  ],
+ ["statistique morale","Soziologie","","9","1277","ref",2960,"Soziologie","statistique morale"],
  [
   "statistisch vollständig","Voraussage","","11","1156","ref",3487,
   "Voraussage; Vorhersage; Prognose","statistisch vollstandig"
  ],
  [
-  "statistische Erklärung","Erklären II (wiss.)","","2","697ff.","ref",801,"Erklären, Erklärung",
+  "statistische Erklärung","Erklären","II (wiss.)","2","697ff.","ref",801,"Erklären, Erklärung",
   "statistische erklarung"
  ],
  [
@@ -334,7 +356,11 @@ HWPH.put("r/73-74",
  ["status/propositio","Sachverhalt","","8","1103f.","ref",2732,"Sachverhalt","status/propositio"],
  ["status civilis","Ökonomie","I (ökon.)","6","1151","ref",2210,"Ökonomie","status civilis"],
  ["status civitatis","Bürger","","1","962","ref",459,"Bürger, bourgeois, citoyen","status civitatis"],
- ["status conscientiae","Stand","",null,null,"ref",3008,"Stand","status conscientiae"],
+ [
+  "status conscientiae","Stand des Bewusstseins","(Dilthey)","10","95","ref",3009,
+  "Stand des Bewußtseins","status conscientiae"
+ ],
+ ["status innocentiae","Urstand","",null,null,"ref",3353,"Urstand","status innocentiae"],
  ["status integritatis","Urstand","",null,null,"ref",3353,"Urstand","status integritatis"],
  ["status moralis","Person","IV (jur.)","7","323ff.","ref",2318,"Person","status moralis"],
  ["status naturae","Urstand","",null,null,"ref",3353,"Urstand","status naturae"],
@@ -368,8 +394,20 @@ HWPH.put("r/73-74",
  ["Steissbein","Luz","",null,null,"ref",1840,"Luz","steissbein"],
  ["stella nobilis","Welt","II","12","415","ref",3557,"Welt","stella nobilis"],
  [
-  "Stellenwert (ling.)","Aufschlusswert Stellung des Bewusstseins","",null,null,"ref",null,null,
+  "Stellenwert (ling.)","Aufschlusswert","",null,null,"ref",292,"Aufschlußwert",
   "stellenwert (ling.)"
+ ],
+ [
+  "Stellung des Bewusstseins","Bewusstseinsstellung","(Dilthey)",null,null,"ref",419,
+  "Bewußtseinsstellung","stellung des bewusstseins"
+ ],
+ [
+  "Stellung des Menschen","Kopernikanische Wende","",null,null,"ref",1660,"Kopernikanische Wende",
+  "stellung des menschen"
+ ],
+ [
+  "Stellung des Menschen","Positionalität, exzentrische","(Plessner)",null,null,"ref",2407,
+  "Positionalität, exzentrische","stellung des menschen"
  ],
  [
   "Stellungnahme, absolute","Stellungnahme, absolute","","10","126","main",3016,
@@ -401,13 +439,16 @@ HWPH.put("r/73-74",
  ["Stereotypie","Stereotypie","","10","139–143","main",3021,"Stereotypie","stereotypie"],
  ["Stereotypie","Automatismus","",null,null,"see",325,"Automatismus","stereotypie"],
  ["Stereotypie","Perseveration","",null,null,"see",2317,"Perseveration","stereotypie"],
- ["steril","Produktion II (ökon.)","","7","1427","ref",2469,"Produktion, Produktivität","steril"],
+ ["steril","Produktion","II (ökon.)","7","1427","ref",2469,"Produktion, Produktivität","steril"],
  ["Sternbilder","Konstellation","","4","988f.","ref",1623,"Konstellation","sternbilder"],
  ["Sternbilder","Natur","II","6","446","ref",2074,"Natur","sternbilder"],
- ["Sterne","Gestirn; Sterne Sternkunde","",null,null,"ref",1123,"Gestirn, Sterne","sterne"],
+ ["Sterne","Gestirn; Sterne","",null,null,"ref",1123,"Gestirn, Sterne","sterne"],
+ ["Sternkunde","Astronomie","",null,null,"ref",271,"Astronomie","sternkunde"],
  ["Stetigkeit","Stetigkeit","","10","143f.","main",3022,"Stetigkeit","stetigkeit"],
  ["Stetigkeit","Funktion","I (math.)",null,null,"see",974,"Funktion","stetigkeit"],
- ["Stetigkeit","Kontinuum Stetigkeit","",null,null,"see",null,null,"stetigkeit"],
+ ["Stetigkeit","Kontinuum","",null,null,"see",1640,"Kontinuum, Kontinuität","stetigkeit"],
+ ["Stetigkeit","Allheit","","1","193","ref",103,"Allheit","stetigkeit"],
+ ["Stetigkeit","Grundlagenstreit","","3","911","ref",1193,"Grundlagenstreit","stetigkeit"],
  ["Steuerkausalität","Steuerung","I (biol.)","10","146","ref",3023,"Steuerung","steuerkausalitat"],
  ["Steuerung","Steuerung","","10","144–150","main",3023,"Steuerung","steuerung"],
  ["Steuerung","Information","",null,null,"see",1432,"Information","steuerung"],
@@ -434,7 +475,8 @@ HWPH.put("r/73-74",
  ["Stimme","Phonologie","",null,null,"see",2364,"Phonologie, Phonem","stimme"],
  ["Stimme","Sprache","",null,null,"see",2985,"Sprache","stimme"],
  ["Stimme","Wort","I (sprach.)",null,null,"see",3656,"Wort","stimme"],
- ["Stimme","Wort","",null,null,"see",3656,"Wort","stimme"],
+ ["Stimme","Wort, inneres","",null,null,"see",3656,"Wort","stimme"],
+ ["Stimme","Organ","","6","1319","ref",2239,"Organ","stimme"],
  ["Stimme, innere","Religion","VII","8","681","ref",2673,"Religion","stimme, innere"],
  ["Stimme des Gewissens","Gewissen","","3","586","ref",1130,"Gewissen","stimme des gewissens"],
  ["Stimme Gottes","Stimme","","10","160f.","ref",3025,"Stimme","stimme gottes"],
@@ -498,9 +540,10 @@ HWPH.put("r/73-74",
   "storung der sprachfahigkeit"
  ],
  [
-  "Störung des Bewusstseins","Bewusstseinsstörung Störung des Gemüts","",null,null,"ref",null,null,
+  "Störung des Bewusstseins","Bewusstseinsstörung","",null,null,"ref",420,"Bewußtseinsstörung",
   "storung des bewusstseins"
  ],
+ ["Störung des Gemüts","Psychose","II","7","1695","ref",2528,"Psychose","storung des gemuts"],
  ["Störung des Strebens","Psychose","II","7","1695","ref",2528,"Psychose","storung des strebens"],
  [
   "Störung des Vorstellungsvermögens","Psychose","II","7","1695","ref",2528,"Psychose",
@@ -561,6 +604,7 @@ HWPH.put("r/73-74",
  ["Strafklugheit","Strafe","III 1","10","227","ref",3035,"Strafe","strafklugheit"],
  ["Strafübel","Übel","","11","2","ref",3246,"Übel","strafubel"],
  ["Strafwürdigkeit","Strafe","III","10","228","ref",3035,"Strafe","strafwurdigkeit"],
+ ["Strahl","Irradiatio","","4","583","ref",1496,"Irradiatio","strahl"],
  [
   "stranger","Xenologie; Wissenschaft vom Fremden","",null,null,"ref",3666,
   "Xenologie; Wissenschaft vom Fremden","stranger"
@@ -569,6 +613,11 @@ HWPH.put("r/73-74",
  ["Strategie","Strategie","","10","261–266","main",3036,"Strategie","strategie"],
  ["Strategie","Spieltheorie","",null,null,"see",2975,"Spieltheorie","strategie"],
  ["Stratifikation","Stratifikation","","10","266–269","main",3037,"Stratifikation","stratifikation"],
+ ["Stratifikation","Schicht, soziale","",null,null,"see",2761,"Schicht, soziale","stratifikation"],
+ [
+  "Stratifikation","Systemtheorie; System, soziales","",null,null,"see",3117,
+  "Systemtheorie; System, soziales","stratifikation"
+ ],
  [
   "Stratifikationsgrammatik","Stratifikation","I (ling.)","10","267","ref",3037,"Stratifikation",
   "stratifikationsgrammatik"
@@ -576,19 +625,7 @@ HWPH.put("r/73-74",
  ["stream of thought","Seele","V","9","71","ref",2794,"Seele","stream of thought"],
  ["Streben","Streben","","10","269–296","main",3038,"Streben","streben"],
  ["Streben","Appétition","(Leibniz)",null,null,"see",216,"Appétition","streben"],
- [
-  "Streben","Begehren; appetitus naturalis","",null,null,"see",362,"Begehren, appetitus naturalis",
-  "streben"
- ],
- ["Streben","Begehrungsvermögen","",null,null,"see",364,"Begehrungsvermögen","streben"],
- ["Streben","Conatus","",null,null,"see",507,"Conatus","streben"],
- ["Streben","Desiderium naturale","",null,null,"see",566,"Desiderium naturale","streben"],
- ["Streben","Drang","",null,null,"see",635,"Drang","streben"],
- ["Streben","Geltungsstreben","",null,null,"see",1045,"Geltungsstreben","streben"],
- ["Streben","Nisus","",null,null,"see",2141,"Nisus","streben"],
- ["Streben","Tendenz","",null,null,"see",3149,"Tendenz","streben"],
- ["Streben","Trieb","I (allg.)",null,null,"see",3229,"Trieb","streben"],
- ["Streben","Verlangen","",null,null,"see",3415,"Verlangen","streben"],
+ ["Streben","Begehren; appetitus","",null,null,"see",362,"Begehren, appetitus naturalis","streben"],
  ["Streben","Bewegung","III","1","874","ref",408,"Bewegung","streben"],
  ["Streben","Interesse","II","4","485f.","ref",1475,"Interesse","streben"],
  ["Streben","Meidungsverhalten","","5","1013","ref",1911,"Meidungsverhalten","streben"],
@@ -602,6 +639,9 @@ HWPH.put("r/73-74",
  ["Strebungsgefühl","Wunsch","I (allg.)","12","1080","ref",3661,"Wunsch","strebungsgefuhl"],
  ["Streit","Streit","","10","297–303","main",3039,"Streit","streit"],
  ["Streit","Kampf","",null,null,"see",1524,"Kampf","streit"],
+ ["Streit","Entzweiung","",null,null,"see",765,"Entzweiung, entzweien","streit"],
+ ["Streit","Konflikt","I (soz.)",null,null,"see",1608,"Konflikt","streit"],
+ ["Streit","Konkurrenz","",null,null,"see",1617,"Konkurrenz","streit"],
  ["Streit","Polemik","",null,null,"ref",2392,"Polemik","streit"],
  [
   "Streit der Fakultäten","Ancilla theologiae","","1","294f.","ref",135,"Ancilla theologiae",
@@ -618,14 +658,13 @@ HWPH.put("r/73-74",
  ["Streit um Worte","Logomachie","",null,null,"ref",1823,"Logomachie","streit um worte"],
  ["Streit um Worte","Wortstreit","",null,null,"ref",3658,"Wortstreit","streit um worte"],
  ["Streitkunst","Eristik","",null,null,"ref",795,"Eristik","streitkunst"],
- ["strict implication","Implikation","",null,null,"ref",1399,"Implikation","strict implication"],
+ ["strict implication","Implikation","3",null,null,"ref",1399,"Implikation","strict implication"],
  ["strict implication","Modallogik","II","6","23ff.","ref",1997,"Modallogik","strict implication"],
  ["strife","Streit","",null,null,"ref",3039,"Streit","strife"],
  ["Strömung","Sekte","",null,null,"ref",2818,"Sekte","stromung"],
  [
-  "Strömungen, philosophische s. auch",
-  "Register der Sachgruppen: Schulen, Strömungen und Positionen stroke","",null,null,"ref",null,null,
-  "stromungen, philosophische s. auch"
+  "Strömungen, philosophische","Register der Sachgruppen: Schulen, Strömungen und Positionen stroke",
+  "",null,null,"see",null,null,"stromungen, philosophische"
  ],
  ["struggle for existence","Selektion","","9","564","ref",2856,"Selektion","struggle for existence"],
  [
@@ -634,6 +673,23 @@ HWPH.put("r/73-74",
  ],
  ["struggle for life","Konkurrenz","","4","972","ref",1617,"Konkurrenz","struggle for life"],
  ["Struktur","Struktur","","10","303–334","main",3040,"Struktur","struktur"],
+ ["Strukturalismus","Strukturalismus","",null,null,"main",3042,"Strukturalismus","strukturalismus"],
+ [
+  "Strukturalismus","Oberflächenstruktur/Tiefenstruktur","",null,null,"see",2181,
+  "Oberflächenstruktur/Tiefenstruktur","strukturalismus"
+ ],
+ ["Strukturalismus","Phonologie","",null,null,"see",2364,"Phonologie, Phonem","strukturalismus"],
+ [
+  "Strukturalismus","Syntagmatisch/paradigmatisch","",null,null,"see",3112,
+  "Syntagmatisch/paradigmatisch","strukturalismus"
+ ],
+ ["Strukturalismus","Artikulation","I",null,null,"see",256,"Artikulation","strukturalismus"],
+ ["Strukturalismus","Ganzheit","I (psych.)",null,null,"see",987,"Ganzheit","strukturalismus"],
+ ["Strukturalismus","Gestalt","II (psych.)",null,null,"see",1116,"Gestalt","strukturalismus"],
+ [
+  "Strukturalismus","Psychologie, geisteswissenschaftliche","",null,null,"see",2511,"Psychologie",
+  "strukturalismus"
+ ],
  [
   "Struktur (Mathematik)","Struktur (Mathematik)","","10","334–341","main",3041,
   "Struktur (Mathematik)","struktur (mathematik)"
@@ -644,10 +700,14 @@ HWPH.put("r/73-74",
   "Struktur (Mathematik)","Mengenlehre","",null,null,"see",1916,"Mengenlehre",
   "struktur (mathematik)"
  ],
- ["Struktur (Mathematik)","Modell","",null,null,"see",1999,"Modell","struktur (mathematik)"],
+ [
+  "Struktur (Mathematik)","Modell; Modelltheorie","I (log.)",null,null,"see",1999,"Modell",
+  "struktur (mathematik)"
+ ],
+ ["Struktur (Mathematik)","Topologie","",null,null,"see",3205,"Topologie","struktur (mathematik)"],
  ["Struktur (Mathematik)","Gültigkeit","","3","935","ref",1201,"Gültigkeit","struktur (mathematik)"],
  [
-  "Struktur (Mathematik)","Kontinuum IV (math.)","","4","1060f.","ref",1640,"Kontinuum, Kontinuität",
+  "Struktur (Mathematik)","Kontinuum","IV (math.)","4","1060f.","ref",1640,"Kontinuum, Kontinuität",
   "struktur (mathematik)"
  ],
  [
@@ -680,6 +740,15 @@ HWPH.put("r/73-74",
   "strukturalismus"
  ],
  [
+  "Strukturalismus","Kunst; Kunstwerk","V 6",null,null,"see",1712,"Kunst, Kunstwerk",
+  "strukturalismus"
+ ],
+ [
+  "Strukturalismus","Struktur","II (frz. Struktural.)",null,null,"see",3040,"Struktur",
+  "strukturalismus"
+ ],
+ ["Strukturalismus","Theorie","II",null,null,"see",3179,"Theorie","strukturalismus"],
+ [
   "Strukturalismus (psych.)","Funktionalismus","","2","1144","ref",976,"Funktionalismus",
   "strukturalismus (psych.)"
  ],
@@ -693,13 +762,25 @@ HWPH.put("r/73-74",
  ],
  ["Strukturierung","Integration","I (psych.)","4","429","ref",1456,"Integration","strukturierung"],
  ["Strukturierung","Todestrieb","","10","1251","ref",3200,"Todestrieb","strukturierung"],
- ["Strukturlogik","Prinzip","III",null,null,"ref",2458,"Prinzip","strukturlogik"],
+ ["Strukturlogik","Prinzip","III 6 a","7","1370","ref",2458,"Prinzip","strukturlogik"],
+ ["Strukturontologie","Struktur","I (allg.)","10","309","ref",3040,"Struktur","strukturontologie"],
  [
   "Strukturpsychologie","Organismus","II (soz./psych.)","6","1347","ref",2243,"Organismus",
   "strukturpsychologie"
  ],
  ["Strukturpsychologie","Psychologie","","7","1630","ref",2511,"Psychologie","strukturpsychologie"],
- ["Strukturpsychologie","Psychologie","",null,null,"ref",2511,"Psychologie","strukturpsychologie"],
+ [
+  "Strukturpsychologie","Psychologie, geisteswissenschaftliche","","7","1656","ref",2514,
+  "Psychologie, geisteswissenschaftliche und verstehende","strukturpsychologie"
+ ],
+ [
+  "Strukturpsychologie","Psychologie, genetische","","7","1659","ref",2515,"Psychologie, genetische",
+  "strukturpsychologie"
+ ],
+ [
+  "Strukturpsychologie","Realpsychologie","(Dilthey)","8","213","ref",2595,"Realpsychologie",
+  "strukturpsychologie"
+ ],
  [
   "Strukturverwandtschaft","Gestalttheorie","","3","551","ref",1121,"Gestalttheorie",
   "strukturverwandtschaft"
@@ -772,11 +853,9 @@ HWPH.put("r/73-74",
  ["Stufenlogik","Mengenlehre","","5","1054f.","ref",1916,"Mengenlehre","stufenlogik"],
  ["Stufenordnung","Ordnung","III","6","1280","ref",2233,"Ordnung","stufenordnung"],
  ["stultitia","Dummheit","",null,null,"ref",641,"Dummheit","stultitia"],
- ["stultitia","Torheit Stumpfsinn","",null,null,"ref",null,null,"stultitia"],
- ["stupor","Staunen sua sponte","",null,null,"ref",null,null,"stupor"],
- ["Stufen","Stufen","II","10","360","main",3044,"Stufen","stufen"],
- ["Staunen","Staunen","",null,null,"main",3015,"Staunen; Bewunderung; Verwunderung","staunen"],
- ["Streit","Streit","I (allg.)","10","297f.","main",3039,"Streit","streit"],
+ ["stultitia","Torheit","",null,null,"ref",3207,"Torheit; Narrheit","stultitia"],
+ ["Stumpfsinn","Bewusstseinsstörung","","1","903","ref",420,"Bewußtseinsstörung","stumpfsinn"],
+ ["stupor","Staunen","",null,null,"ref",3015,"Staunen; Bewunderung; Verwunderung","stupor"],
  ["Stabile Giorgio","Natur","IV","6","455–468","author",2074,"Natur","stabile giorgio"],
  ["Stadler Michael","Synergetik","","10","782f.","author",3106,"Synergetik","stadler michael"],
  [
@@ -810,7 +889,7 @@ HWPH.put("r/73-74",
   "steenblock volker"
  ],
  [
-  "Stegmaier Werner","Schema; Schematismus I (allg.)","","8","1246–1261","author",2760,
+  "Stegmaier Werner","Schema; Schematismus","I (allg.)","8","1246–1261","author",2760,
   "Schema, Schematismus","stegmaier werner"
  ],
  [
@@ -924,7 +1003,7 @@ HWPH.put("r/73-74",
   "Stekeler-Weithofer Pirmin","Variable","","11","545–548","author",3373,"Variable",
   "stekeler-weithofer pirmin"
  ],
- ["Stemmer Peter","Lob Gottes","I","5","344–350","author",1799,"Literary Criticism","stemmer peter"],
+ ["Stemmer Peter","Lob Gottes","I","5","344–350","author",1800,"Lob Gottes","stemmer peter"],
  [
   "Stemmer Peter","Mneme; Mnemosyne","II 2","5","1443f.","author",1989,"Mneme, Mnemosyne",
   "stemmer peter"
@@ -932,7 +1011,7 @@ HWPH.put("r/73-74",
  ["Stemmer Peter","Perichorese","","7","255–259","author",2311,"Perichorese","stemmer peter"],
  ["Stemmer Peter","Tugend","I","10","1532–1548","author",3239,"Tugend","stemmer peter"],
  [
-  "Stempel Werner","Lust; Freude III-IV","","5","558–564","author",1837,"Lust, Freude",
+  "Stempel Werner","Lust; Freude","III-IV","5","558–564","author",1837,"Lust, Freude",
   "stempel werner"
  ],
  ["Stenius Erik","Atomismus","III (log.)","1","605f.","author",280,"Atomismus","stenius erik"],
@@ -964,8 +1043,11 @@ HWPH.put("r/73-74",
   "Stenius Erik","Raum, logischer","(Wittgenstein)","8","121f.","author",2580,"Raum, logischer",
   "stenius erik"
  ],
- ["Stenius Erik","Satz","III",null,null,"author",2745,"Satz","stenius erik"],
- ["Stenius Erik","Sprachspiel","(Wittgenstein)",null,null,"author",2994,"Sprachspiel","stenius erik"],
+ ["Stenius Erik","Satz","III 3 (Wittgenstein)","8","1195","author",2745,"Satz","stenius erik"],
+ [
+  "Stenius Erik","Sprachspiel","(Wittgenstein) I","9","1534f.","author",2994,"Sprachspiel",
+  "stenius erik"
+ ],
  [
   "Sternschulte Klaus Peter","Establishment","","2","755–758","author",833,"Establishment",
   "sternschulte klaus peter"
@@ -1025,15 +1107,15 @@ HWPH.put("r/73-74",
   "strenge britta"
  ],
  [
-  "Ströker Elisabeth","Absolutsphäre des Bewusstseins (Husserl)","","1","32f.","author",28,
-  "Absolutheit des Christentums","stroker elisabeth"
+  "Ströker Elisabeth","Absolutsphäre des Bewusstseins","(Husserl)","1","32f.","author",29,
+  "Absolutsphäre des Bewußtseins","stroker elisabeth"
  ],
  [
   "Ströker Elisabeth","Primordialsphäre","(Husserl)","7","1320f.","author",2455,"Primordialsphäre",
   "stroker elisabeth"
  ],
  [
-  "Ströker Elisabeth","Selbstgebung (Husserl)","","9","443f.","author",2834,"Selbstflucht",
+  "Ströker Elisabeth","Selbstgebung","(Husserl)","9","443f.","author",2834,"Selbstflucht",
   "stroker elisabeth"
  ],
  [
@@ -1041,7 +1123,7 @@ HWPH.put("r/73-74",
   "stroker elisabeth"
  ],
  [
-  "Ströker Elisabeth","Sinnkonstitution (Husserl)","","9","888f.","author",2899,
+  "Ströker Elisabeth","Sinnkonstitution","(Husserl)","9","888f.","author",2899,
   "Sinnkonstitution, Sinnstiftung","stroker elisabeth"
  ],
  [
@@ -1060,7 +1142,7 @@ HWPH.put("r/73-74",
  ["Strube Werner","Gestalt","I (ästh.)","3","540–547","author",1116,"Gestalt","strube werner"],
  ["Strube Werner","Illusion","","4","204–215","author",1387,"Illusion","strube werner"],
  [
-  "Strube Werner","Kunst; Kunstwerk V 2.","5","4","1421f.","author",1712,"Kunst, Kunstwerk",
+  "Strube Werner","Kunst; Kunstwerk","V 2. 5","4","1421f.","author",1712,"Kunst, Kunstwerk",
   "strube werner"
  ],
  ["Strube Werner","Kunstrichter","","4","1460–1463","author",1718,"Kunstrichter","strube werner"],
@@ -1090,7 +1172,7 @@ HWPH.put("r/73-74",
   "strube werner"
  ],
  [
-  "Strüber Hans-Joachim","Psychodynamik","","7","1591–1593","author",2507,"Psychodrama",
+  "Strüber Hans-Joachim","Psychodynamik","","7","1591–1593","author",2508,"Psychodynamik",
   "struber hans-joachim"
  ],
  ["Studer Basil","Hypostase","","3","1255–1259","author",1328,"Hypostase","studer basil"],

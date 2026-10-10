@@ -17,7 +17,7 @@ HWPH.put("a/2278",
  "next":{"id":2279,"lemma":"Paronym","band":"7","col":130},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"3d","qualifier":"(Becker)","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":521,"name":"O. Becker","b":1,"n":2,"l":0,"editor":0,"role":"scholar"}

@@ -88,6 +88,6 @@ HWPH.put("a/3547",
  ],
  "see_also":[{"id":570,"lemma":"Désintéressement"},{"id":1191,"lemma":"Grund"}],
  "groups":[{"id":27,"name":"Mystik","label":"Warum"}],
- "reg_authors":[{"name":"Fuchs Hans-Jürgen","n":14},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Fuchs Hans-Jürgen","n":14},{"name":"Red","n":241}]
 }
 );

@@ -17,8 +17,8 @@ HWPH.put("r/66",
  ["f","Realität, psychische","","8","201f.","ref",2592,"Realität, psychische","f"],
  ["f","Seele","V","9","72","ref",2794,"Seele","f"],
  ["f","Sein, objektives","","9","251f.","ref",2809,"Sein, objektives","f"],
- ["f","Subjekt","",null,null,"ref",3047,"Subjekt","f"],
- ["f","Schöne","",null,null,"ref",2776,"Schöne","f"],
+ ["f","Subjekt/Objekt","V","10","429","ref",3049,"Subjekt/Objekt; subjektiv/objektiv","f"],
+ ["f","Schöne das","II","8","1351","ref",2776,"Schöne","f"],
  ["f","Sozialisation","","9","1162","ref",2946,"Sozialisation","f"],
  ["f","Verhalten","","11","682","ref",3406,"Verhalten","f"]
 ]

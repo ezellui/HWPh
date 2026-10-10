@@ -24,10 +24,9 @@ HWPH.put("a/1228",
  "backlinks":[{"id":3539,"lemma":"Wahrnehmung","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"das 3 900–902 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"das 8 1413–1416 s. auch","qualifier":"","band":null,"col":null},
   {"term":"deformitas","qualifier":"","band":null,"col":null},
-  {"term":"turpitudo","qualifier":"","band":null,"col":null}
+  {"term":"turpitudo","qualifier":"","band":null,"col":null},
+  {"term":"ἀισχρόν","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":3,"n":3,"l":0,"editor":0,"role":"source"},

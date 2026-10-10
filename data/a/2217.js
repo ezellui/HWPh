@@ -17,10 +17,7 @@ HWPH.put("a/2217",
  "next":{"id":2218,"lemma":"Ontologie","band":"6","col":1189},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Entwicklung (biol.)","qualifier":"(Haeckel)","band":null,"col":null},
-  {"term":"– II (Haeckel) 7 46 s. auch","qualifier":"(Haeckel)","band":null,"col":null}
- ],
+ "register":[{"term":"Entwicklung (biol.)","qualifier":"(Haeckel)","band":null,"col":null}],
  "persons":[
   {"id":263,"name":"E. Haeckel","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":2517,"name":"K. E. von Baer","b":1,"n":1,"l":0,"editor":0,"role":"source"},

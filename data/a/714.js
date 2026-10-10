@@ -31,8 +31,10 @@ HWPH.put("a/714",
  ],
  "outlinks":[],
  "register":[
+  {"term":"Eine, das","qualifier":"","band":null,"col":null},
   {"term":"Hervorgang","qualifier":"","band":null,"col":null},
-  {"term":"Schöpfung","qualifier":"","band":"2","col":"447f."}
+  {"term":"Schöpfung","qualifier":"","band":"2","col":"447f."},
+  {"term":"ἀπόρροια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":26,"name":"Plotin","b":2,"n":3,"l":0,"editor":0,"role":"source"},
@@ -87,7 +89,7 @@ HWPH.put("a/714",
   {"id":1173,"lemma":"Gottheit","tf":2},
   {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":2}
  ],
- "see_also":[{"id":304,"lemma":"Ausfluß"}],
+ "see_also":[{"id":304,"lemma":"Ausfluß"},{"id":2469,"lemma":"Produktion, Produktivität"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Emanation"},
   {"id":26,"name":"Metaphysik","label":"Emanation"}

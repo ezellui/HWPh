@@ -1,38 +1,9 @@
 HWPH.put("r/77-61",
 [
- ["Wahrheit","Wahrheit","V C","12","99f.","main",3523,"Wahrheit","wahrheit"],
- ["Wahrheit","Wahrheitsähnlichkeit","","12","173","ref",3534,"Wahrheitsähnlichkeit","wahrheit"],
- [
-  "Wandel, sozialer","Wandel, sozialer","",null,null,"main",3544,"Wandel, sozialer",
-  "wandel, sozialer"
- ],
- ["Wahrheit","Wahrheit","VI",null,null,"main",3523,"Wahrheit","wahrheit"],
- ["Wahrheit, ewige","Wahrheit, ewige","",null,null,"main",3528,"Wahrheit, ewige","wahrheit, ewige"],
- ["Wahrheit, ewige","Wahrheit, ewige","",null,null,"main",3528,"Wahrheit, ewige","wahrheit, ewige"],
- ["Wahrheit, ewige","Wahrheit, ewige","","12","144","main",3528,"Wahrheit, ewige","wahrheit, ewige"],
- ["Wahn","Wahn","",null,null,"main",3520,"Wahn","wahn"],
- ["Wahn","Zwang","II (psych.)","12","1481","ref",3717,"Zwang","wahn"],
- [
-  "Wahrscheinlichkeit","Wahrscheinlichkeit","IV A","12","271","main",3540,"Wahrscheinlichkeit",
-  "wahrscheinlichkeit"
- ],
  ["Wandel","Wandel","",null,null,"main",3543,"Wandel; Veränderung","wandel"],
  ["Wandel","Einfluss","","2","396","ref",680,"Einfluß","wandel"],
  ["Wandel","Relation","II","8","592f.","ref",2668,"Relation","wandel"],
  ["Wandel","Transsubstantiation","","10","1352","ref",3218,"Transsubstantiation","wandel"],
- [
-  "Wahrscheinlichkeit (ästhetisch)","Wahrscheinlichkeit (ästhetisch)","",null,null,"main",3541,
-  "Wahrscheinlichkeit (ästhetisch)","wahrscheinlichkeit (asthetisch)"
- ],
- [
-  "Wahrheit, praktische","Wahrheit, praktische","",null,null,"main",3532,"Wahrheit, praktische",
-  "wahrheit, praktische"
- ],
- ["Wahl, rationale","Wahl, rationale","",null,null,"main",3518,"Wahl, rationale","wahl, rationale"],
- [
-  "Wachtraum; Tagtraum","Wachtraum; Tagtraum","",null,null,"main",3515,"Wachtraum; Tagtraum",
-  "wachtraum; tagtraum"
- ],
  ["waagrecht","Anisotropie/Isotropie","",null,null,"ref",149,"Anisotropie/Isotropie","waagrecht"],
  ["Wabi","Sabi","",null,null,"ref",2729,"Sabi","wabi"],
  ["Wachen, das","Wachen, das","","12","1–6","main",3512,"Wachen, das","wachen, das"],
@@ -133,7 +104,7 @@ HWPH.put("r/77-61",
  ["Wahl","Willensschwäche","",null,null,"ref",3623,"Willensschwäche","wahl"],
  ["Wahl","Absicht","","1","10","ref",26,"Absicht","wahl"],
  ["Wahl","Gut; das Gute","IV","3","966","ref",1203,"Gut, das Gute, das Gut","wahl"],
- ["Wahl (pol.)","Pars sanior/maior I","",null,null,"ref",2280,"Pars sanior/pars maior","wahl (pol.)"],
+ ["Wahl (pol.)","Pars sanior/maior","I",null,null,"ref",2280,"Pars sanior/pars maior","wahl (pol.)"],
  [
   "Wahl, rationale","Wahl, rationale","","12","22–28","main",3518,"Wahl, rationale",
   "wahl, rationale"
@@ -144,11 +115,11 @@ HWPH.put("r/77-61",
  ],
  ["Wahl, rationale","Erwartung","",null,null,"see",819,"Erwartung","wahl, rationale"],
  [
-  "Wahl, rationale","Rationalität II (ökon.)","",null,null,"see",2576,
+  "Wahl, rationale","Rationalität","II (ökon.)",null,null,"see",2576,
   "Rationalität, Rationalisierung","wahl, rationale"
  ],
  [
-  "Wahl, rationale","Rationalität III (analyt. Philos.)","",null,null,"see",2576,
+  "Wahl, rationale","Rationalität","III (analyt. Philos.)",null,null,"see",2576,
   "Rationalität, Rationalisierung","wahl, rationale"
  ],
  ["Wahl, rationale","Selektion","",null,null,"see",2856,"Selektion","wahl, rationale"],
@@ -228,6 +199,9 @@ HWPH.put("r/77-61",
  ],
  ["Wahrheit","Wissen","",null,null,"see",3634,"Wissen","wahrheit"],
  ["Wahrheit","Zweiwertigkeitsprinzip","",null,null,"see",3725,"Zweiwertigkeitsprinzip","wahrheit"],
+ ["Wahrheit","Realitätsprinzip","",null,null,"see",2594,"Realitätsprinzip","wahrheit"],
+ ["Wahrheit","Verdrängung","",null,null,"see",3393,"Verdrängung","wahrheit"],
+ ["Wahrheit","Verleugnung","",null,null,"see",3416,"Verleugnung","wahrheit"],
  ["Wahrheit","Konform","","4","953","ref",1609,"Konform, Konformität","wahrheit"],
  ["Wahrheit","Phänomen","II","7","466ff.","ref",2340,"Phänomen","wahrheit"],
  ["Wahrheit","Philosophie","IV I","7","767ff.","ref",2353,"Philosophie","wahrheit"],
@@ -253,10 +227,29 @@ HWPH.put("r/77-61",
   "wahrheit, absolute"
  ],
  [
-  "Wahrheit, ästhetikologische","Subjekt","",null,null,"ref",3047,"Subjekt",
+  "Wahrheit, ästhetikologische","Subjekt/Objekt","II","10","407","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","wahrheit, asthetikologische"
+ ],
+ [
+  "Wahrheit, ästhetikologische","Wahrnehmung","VIII (ästh.)","12","236","ref",3539,"Wahrnehmung",
   "wahrheit, asthetikologische"
  ],
- ["Wahrheit","Wahrheit","",null,null,"main",3523,"Wahrheit","wahrheit"],
+ [
+  "Wahrheit, ästhetische","Wahrheit, ästhetische","","12","137–141","main",3526,"Wahrheit, absolute",
+  "wahrheit, asthetische"
+ ],
+ [
+  "Wahrheit, ästhetische","Kunst; Kunstwerk","III",null,null,"see",1712,"Kunst, Kunstwerk",
+  "wahrheit, asthetische"
+ ],
+ [
+  "Wahrheit, ästhetische","Urteil, ästhetisches","",null,null,"see",3356,"Urteil, ästhetisches",
+  "wahrheit, asthetische"
+ ],
+ [
+  "Wahrheit, ästhetische","Wahrscheinlichkeit (ästhetisch)","",null,null,"see",3541,
+  "Wahrscheinlichkeit (ästhetisch)","wahrheit, asthetische"
+ ],
  [
   "Wahrheit, ästhetische","Analogon rationis","(Baumgarten)","1","229","ref",124,"Analogon rationis",
   "wahrheit, asthetische"
@@ -315,9 +308,9 @@ HWPH.put("r/77-61",
   "Wahrheit, ewige","Vernunftwahrheiten/Tatsachenwahrheiten","",null,null,"see",3427,
   "Vernunftwahrheiten/Tatsachenwahrheiten","wahrheit, ewige"
  ],
- ["Wahrheit, ewige","Idee","II B",null,null,"ref",1361,"Idee","wahrheit, ewige"],
+ ["Wahrheit, ewige","Idee II B 14","","4","101","ref",1361,"Idee","wahrheit, ewige"],
  [
-  "Wahrheit, ewige","Invention; Erfindung III (log.)","","4","559","ref",1490,
+  "Wahrheit, ewige","Invention; Erfindung","III (log.)","4","559","ref",1490,
   "Invention, Erfindung, Entdeckung","wahrheit, ewige"
  ],
  [
@@ -336,7 +329,14 @@ HWPH.put("r/77-61",
   "Wahrheit, historische","Geschichte","III","3","356","ref",1085,"Geschichte, Historie",
   "wahrheit, historische"
  ],
- ["Wahrheit, innere","Wahrheit","",null,null,"ref",3523,"Wahrheit","wahrheit, innere"],
+ [
+  "Wahrheit, innere","Wahrheit, ästhetische","","12","139","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","wahrheit, innere"
+ ],
+ [
+  "Wahrheit, innere","Wahrscheinlichkeit (ästhetisch)","","12","305","ref",3541,
+  "Wahrscheinlichkeit (ästhetisch)","wahrheit, innere"
+ ],
  ["Wahrheit, kontingente","Modallogik","I",null,null,"ref",1997,"Modallogik","wahrheit, kontingente"],
  [
   "Wahrheit, kontingente","Individuum; Individualität","III","4","311","ref",1424,
@@ -358,7 +358,14 @@ HWPH.put("r/77-61",
   "Wahrheit, logische","Logik, konstruktive","",null,null,"ref",1814,"Logik, konstruktive",
   "wahrheit, logische"
  ],
- ["Wahrheit, logische","Subjekt","",null,null,"ref",3047,"Subjekt","wahrheit, logische"],
+ [
+  "Wahrheit, logische","Subjekt/Objekt","II","10","407","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","wahrheit, logische"
+ ],
+ [
+  "Wahrheit, logische","Zustandsbeschreibung","(Carnap)","12","1456","ref",3714,
+  "Zustandsbeschreibung","wahrheit, logische"
+ ],
  [
   "Wahrheit, materielle","Wahrheit, objektive","","12","156","ref",3531,"Wahrheit, objektive",
   "wahrheit, materielle"
@@ -367,7 +374,14 @@ HWPH.put("r/77-61",
   "Wahrheit, metaphorische","Wahrheit","VI A","12","109","ref",3523,"Wahrheit",
   "wahrheit, metaphorische"
  ],
- ["Wahrheit, metaphysische","Subjekt","",null,null,"ref",3047,"Subjekt","wahrheit, metaphysische"],
+ [
+  "Wahrheit, metaphysische","Subjekt/Objekt","II","10","407","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","wahrheit, metaphysische"
+ ],
+ [
+  "Wahrheit, nackte","Wahrheit, nackte","","12","148–154","main",3530,"Wahrheit, nackte",
+  "wahrheit, nackte"
+ ],
  ["Wahrheit, notwendige","Modallogik","I",null,null,"ref",1997,"Modallogik","wahrheit, notwendige"],
  [
   "Wahrheit, notwendige","Vernunftwahrheiten/Tatsachenwahrheiten","","11","870","ref",3427,
@@ -381,7 +395,8 @@ HWPH.put("r/77-61",
   "Wahrheit, objektive","Wahrheit, objektive","","12","154–163","main",3531,"Wahrheit, objektive",
   "wahrheit, objektive"
  ],
- ["Wahrheit, objektive","Subjekt","",null,null,"see",3047,"Subjekt","wahrheit, objektive"],
+ ["Wahrheit, objektive","Subjekt/Objekt","III",null,null,"see",3047,"Subjekt","wahrheit, objektive"],
+ ["Wahrheit, ontische","Wahrheit","VI A","12","105","ref",3523,"Wahrheit","wahrheit, ontische"],
  [
   "Wahrheit, ontologische","Wahrheit","VI A","12","106","ref",3523,"Wahrheit",
   "wahrheit, ontologische"
@@ -439,12 +454,26 @@ HWPH.put("r/77-61",
  ],
  ["Wahrheit, zweifache","Wahrheit","II B","12","67","ref",3523,"Wahrheit","wahrheit, zweifache"],
  ["Wahrheit an sich","Sein; Seiendes","V 7","9","223","ref",2806,"Sein; Seiendes","wahrheit an sich"],
- ["Wahrheit der Kunst","Wahrheit","",null,null,"ref",3523,"Wahrheit","wahrheit der kunst"],
+ [
+  "Wahrheit der Kunst","Wahrheit, ästhetische","",null,null,"ref",3523,"Wahrheit",
+  "wahrheit der kunst"
+ ],
+ [
+  "Wahrheit der Wahrnehmung","Wahrheit","VI A","12","108","ref",3523,"Wahrheit",
+  "wahrheit der wahrnehmung"
+ ],
  [
   "Wahrheit des Herzens/der Vernunft","Logik des Herzens","(Pascal)",null,null,"ref",1809,
   "Logik des Herzens","wahrheit des herzens/der vernunft"
  ],
- ["Wahrheit des Seins","Topologie","",null,null,"ref",3205,"Topologie","wahrheit des seins"],
+ [
+  "Wahrheit des Seins","Topologie des Seins","(Heidegger)",null,null,"ref",3206,
+  "Topologie des Seins; Ortschaft des Seins","wahrheit des seins"
+ ],
+ [
+  "Wahrheit des Seins","Seinsgeschichte","(Heidegger)","9","259f.","ref",2812,"Seinsgeschichte",
+  "wahrheit des seins"
+ ],
  ["Wahrheit Gottes","Wahrheit","II A","12","61ff.","ref",3523,"Wahrheit","wahrheit gottes"],
  ["Wahrheiten, primitive","Intuition","","4","530","ref",1487,"Intuition","wahrheiten, primitive"],
  [
@@ -484,14 +513,21 @@ HWPH.put("r/77-61",
   "wahrheitsgefuhl"
  ],
  ["Wahrheitsgefühl","Gefühl","II","3","91","ref",1009,"Gefühl","wahrheitsgefuhl"],
- ["Wahrheitsgehalt","Wahrheit","",null,null,"ref",3523,"Wahrheit","wahrheitsgehalt"],
+ [
+  "Wahrheitsgehalt","Wahrheit, ästhetische","","12","139","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","wahrheitsgehalt"
+ ],
+ [
+  "Wahrheitsgehalt","Wahrheitsähnlichkeit","","12","173","ref",3534,"Wahrheitsähnlichkeit",
+  "wahrheitsgehalt"
+ ],
  ["Wahrheitsgeschehen","Wahrheit","VI A","12","107","ref",3523,"Wahrheit","wahrheitsgeschehen"],
  [
   "Wahrheitskriterium","Wahrheitskriterium","","12","182–188","main",3537,"Wahrheitskriterium",
   "wahrheitskriterium"
  ],
  ["Wahrheitskriterium","Kriterium","",null,null,"see",1693,"Kriterium","wahrheitskriterium"],
- ["Wahrheitskriterium","Phantasia","I",null,null,"ref",2348,"Phantasia","wahrheitskriterium"],
+ ["Wahrheitskriterium","Phantasia","I 4",null,null,"ref",2348,"Phantasia","wahrheitskriterium"],
  ["Wahrheitskriterium","Episteme","","2","591f.","ref",776,"Episteme","wahrheitskriterium"],
  ["Wahrheitskriterium","Orthos logos","","6","1392","ref",2254,"Orthos logos","wahrheitskriterium"],
  [
@@ -500,18 +536,19 @@ HWPH.put("r/77-61",
  ],
  ["Wahrheitsliebe","Wahrhaftigkeit","I","12","43","ref",3522,"Wahrhaftigkeit","wahrheitsliebe"],
  ["Wahrheitsliebe","Wahrheit","VI B (psych.)","12","114","ref",3523,"Wahrheit","wahrheitsliebe"],
- ["Wahrheitspolitik","Philosophie","IV",null,null,"ref",2353,"Philosophie","wahrheitspolitik"],
+ ["Wahrheitspolitik","Philosophie","IV L","7","794","ref",2353,"Philosophie","wahrheitspolitik"],
  [
-  "Wahrheitsfunktion; Wahrheitstafel","Wahrheitsfunktion; Wahrheitstafel","",null,null,"main",3535,
-  "Wahrheitsfunktion; Wahrheitstafel","wahrheitsfunktion; wahrheitstafel"
+  "Wahrheitssinn","Wahrheitsgefühl","",null,null,"ref",3536,"Wahrheitsgefühl; Wahrheitssinn",
+  "wahrheitssinn"
  ],
  [
-  "Wahrheitsfunktion; Wahrheitstafel","Aussagenlogik","","1","675ff.","ref",311,"Aussagenlogik",
-  "wahrheitsfunktion; wahrheitstafel"
+  "Wahrheitstafel","Wahrheitsfunktion; Wahrheitstafel","",null,null,"ref",3535,
+  "Wahrheitsfunktion; Wahrheitstafel","wahrheitstafel"
  ],
+ ["Wahrheitstafel","Aussagenlogik","","1","675ff.","ref",311,"Aussagenlogik","wahrheitstafel"],
  [
-  "Wahrheitsfunktion; Wahrheitstafel","Prädikatenlogik","","7","1191","ref",2426,
-  "Prädikatenlogik, Prädikatenkalkül","wahrheitsfunktion; wahrheitstafel"
+  "Wahrheitstafel","Prädikatenlogik","","7","1191","ref",2426,"Prädikatenlogik, Prädikatenkalkül",
+  "wahrheitstafel"
  ],
  ["Wahrheitswert","Wahrheitswert","","12","188f.","main",3538,"Wahrheitswert","wahrheitswert"],
  [
@@ -543,12 +580,20 @@ HWPH.put("r/77-61",
  ["Wahrnehmung","Empfindung","",null,null,"see",723,"Empfindung","wahrnehmung"],
  ["Wahrnehmung","Perzeption","",null,null,"see",2329,"Perzeption","wahrnehmung"],
  ["Wahrnehmung","Phantasia","",null,null,"see",2348,"Phantasia","wahrnehmung"],
- ["Wahrnehmung","Raum","",null,null,"see",2578,"Raum","wahrnehmung"],
+ ["Wahrnehmung","Raum; Raumwahrnehmung","",null,null,"see",2578,"Raum","wahrnehmung"],
+ ["Wahrnehmung","Sehen","",null,null,"see",2802,"Sehen","wahrnehmung"],
+ ["Wahrnehmung","Sensualismus","",null,null,"see",2867,"Sensualismus","wahrnehmung"],
+ ["Wahrnehmung","Sinne, die","",null,null,"see",2892,"Sinne, die","wahrnehmung"],
+ ["Wahrnehmung","Sinnesdaten","",null,null,"see",2894,"Sinnesdaten","wahrnehmung"],
+ ["Wahrnehmung","Species","I (met.)",null,null,"see",2966,"Species","wahrnehmung"],
+ ["Wahrnehmung","Synästhesie","",null,null,"see",3100,"Synästhesie","wahrnehmung"],
+ ["Wahrnehmung","Vernunft; Verstand","",null,null,"see",3423,"Vernunft; Verstand","wahrnehmung"],
+ ["Wahrnehmung","Vorstellung","",null,null,"see",3503,"Vorstellung","wahrnehmung"],
  ["Wahrnehmung","Nachbild","",null,null,"ref",2057,"Nachbild","wahrnehmung"],
  ["Wahrnehmung","Sensus communis","I",null,null,"ref",2869,"Sensus communis","wahrnehmung"],
  ["Wahrnehmung","Operation","","6","1208f.","ref",2226,"Operation","wahrnehmung"],
  [
-  "Wahrnehmung (ind.)","Vijñaptimātratā Wahrnehmung (psych.)","",null,null,"ref",null,null,
+  "Wahrnehmung (ind.)","Vijñaptimātratā Wahrnehmung","(psych.)",null,null,"ref",null,null,
   "wahrnehmung (ind.)"
  ],
  [
@@ -582,7 +627,14 @@ HWPH.put("r/77-61",
   "Wahrnehmung, innere","Wahrnehmung","V (psych.)","12","221","ref",3539,"Wahrnehmung",
   "wahrnehmung, innere"
  ],
- ["Wahrnehmung, räumliche","Raum","",null,null,"ref",2578,"Raum","wahrnehmung, raumliche"],
+ [
+  "Wahrnehmung, räumliche","Raum; Raumwahrnehmung","",null,null,"ref",2578,"Raum",
+  "wahrnehmung, raumliche"
+ ],
+ [
+  "Wahrnehmung, synästhetische","Synästhesie","",null,null,"ref",3100,"Synästhesie",
+  "wahrnehmung, synasthetische"
+ ],
  [
   "Wahrnehmung, unmittelbare","Unmittelbarkeit","",null,null,"ref",3314,"Unmittelbarkeit",
   "wahrnehmung, unmittelbare"
@@ -623,7 +675,11 @@ HWPH.put("r/77-61",
   "Wahrnehmungsraum","Anisotropie/Isotropie","",null,null,"ref",149,"Anisotropie/Isotropie",
   "wahrnehmungsraum"
  ],
- ["Wahrnehmungsraum","Raum","",null,null,"ref",2578,"Raum","wahrnehmungsraum"],
+ ["Wahrnehmungsraum","Raum; Raumwahrnehmung","",null,null,"ref",2578,"Raum","wahrnehmungsraum"],
+ [
+  "Wahrnehmungssatz","Anschauungssatz/Begriffssatz","(Bolzano)",null,null,"ref",166,
+  "Anschauungssatz/Begriffssatz","wahrnehmungssatz"
+ ],
  ["Wahrnehmungsschwelle","Ebenmerklich","",null,null,"ref",648,"Ebenmerklich","wahrnehmungsschwelle"],
  ["Wahrnehmungsstörung","Agnosie","",null,null,"ref",62,"Agnosie","wahrnehmungsstorung"],
  ["Wahrnehmungssysteme","Sinne, die","","9","860","ref",2892,"Sinne, die","wahrnehmungssysteme"],
@@ -676,7 +732,9 @@ HWPH.put("r/77-61",
   "Wahrscheinlichkeit","Wahrheitsähnlichkeit","",null,null,"see",3534,"Wahrheitsähnlichkeit",
   "wahrscheinlichkeit"
  ],
- ["Wahrscheinlichkeit","Zufall","",null,null,"see",3706,"Zufall","wahrscheinlichkeit"],
+ ["Wahrscheinlichkeit","Zufall","III-IV",null,null,"see",3706,"Zufall","wahrscheinlichkeit"],
+ ["Wahrscheinlichkeit","Erwartung","",null,null,"ref",819,"Erwartung","wahrscheinlichkeit"],
+ ["Wahrscheinlichkeit","Doppelte","",null,null,"ref",2023,"Moral, doppelte","wahrscheinlichkeit"],
  ["Wahrheit","Wahrheit","","2","286","main",632,"Doppelte Wahrheit","wahrheit"],
  ["Wahrheit","Glaube","II","3","643","ref",1138,"Glaube","wahrheit"],
  ["Wahrheit","Induktion","II (wiss.)","4","330f.","ref",1425,"Induktion","wahrheit"],
@@ -690,8 +748,12 @@ HWPH.put("r/77-61",
   "Wahrscheinlichkeit (ästhetisch)","wahrscheinlichkeit (asthetisch)"
  ],
  [
-  "Wahrscheinlichkeit (ästhetisch)","Wahrheit","",null,null,"see",3523,"Wahrheit",
+  "Wahrscheinlichkeit (ästhetisch)","Wahrheit, ästhetische","",null,null,"see",3523,"Wahrheit",
   "wahrscheinlichkeit (asthetisch)"
+ ],
+ [
+  "Wahrscheinlichkeit (soz.)","Chance","(Weber)",null,null,"ref",483,"Chance",
+  "wahrscheinlichkeit (soz.)"
  ],
  [
   "Wahrscheinlichkeit, logische/reale","Wahrheitsähnlichkeit","","12","172","ref",3534,
@@ -714,7 +776,7 @@ HWPH.put("r/77-61",
   "Wahrscheinlichkeit","wahrscheinlichkeit, statistische"
  ],
  [
-  "Wahrscheinlichkeit, statistische","Erklären II (wiss.)","","2","697ff.","ref",801,
+  "Wahrscheinlichkeit, statistische","Erklären","II (wiss.)","2","697ff.","ref",801,
   "Erklären, Erklärung","wahrscheinlichkeit, statistische"
  ],
  [
@@ -742,12 +804,12 @@ HWPH.put("r/77-61",
   "wahrscheinlichkeitsschluss"
  ],
  [
-  "Wahrscheinlichkeitsschluss","Topik II Wahrscheinlichkeitstheorie","",null,null,"see",null,null,
+  "Wahrscheinlichkeitsschluss","Topik","II",null,null,"see",3203,"Topik; Topos",
   "wahrscheinlichkeitsschluss"
  ],
  [
-  "Wahrscheinlichkeit","Wahrscheinlichkeit","IV",null,null,"main",3540,"Wahrscheinlichkeit",
-  "wahrscheinlichkeit"
+  "Wahrscheinlichkeitstheorie","Wahrscheinlichkeit","IV",null,null,"ref",3540,"Wahrscheinlichkeit",
+  "wahrscheinlichkeitstheorie"
  ],
  [
   "Wahrscheinlichkeitsurteil","Wahrscheinlichkeitsschluss","","12","307","ref",3542,
@@ -765,7 +827,7 @@ HWPH.put("r/77-61",
  ["Wandel","Bewegung","",null,null,"see",408,"Bewegung","wandel"],
  ["Wandel","Kraft","II",null,null,"see",1680,"Kraft","wandel"],
  ["Wandel","Metaschematismus","",null,null,"see",1950,"Metaschematismus","wandel"],
- ["Wandel","Prozess II (Whitehead)","",null,null,"see",2499,"Prozeß","wandel"],
+ ["Wandel","Prozess","II (Whitehead)",null,null,"see",2499,"Prozeß","wandel"],
  ["Wandel","Variation","",null,null,"see",858,"Exhaustion, Variation","wandel"],
  ["Wandel","Wechsel","",null,null,"see",3549,"Wechsel","wandel"],
  ["Wandel","Werden/Vergehen","",null,null,"see",3585,"Werden/Vergehen","wandel"],
@@ -822,7 +884,8 @@ HWPH.put("r/77-61",
   "Principium rationis sufficientis","warum"
  ],
  ["Warum","Wesen","I","12","624","ref",3595,"Wesen","warum"],
- ["Warum-Fragen","Erklären II (wiss.) Waschzwang","",null,null,"ref",null,null,"warum-fragen"],
+ ["Warum-Fragen","Erklären","II (wiss.)",null,null,"ref",801,"Erklären, Erklärung","warum-fragen"],
+ ["Waschzwang","Reinheit; Reinigung","V","8","551","ref",2660,"Reinheit, Reinigung","waschzwang"],
  ["Washeit","Washeit","","12","330–333","main",3548,"Washeit","washeit"],
  ["Washeit","Artlogos","(Conrad-Martius)",null,null,"see",257,"Artlogos","washeit"],
  ["Washeit","Essenz; essentia","",null,null,"see",832,"Essenz, essentia","washeit"],
@@ -895,11 +958,11 @@ HWPH.put("r/77-61",
   "wanke otto"
  ],
  [
-  "Warnach Viktor","Bestimmung; Determination I (met.)","","1","850–856","author",399,"Bestätigung",
+  "Warnach Viktor","Bestimmung; Determination","I (met.)","1","850–856","author",399,"Bestätigung",
   "warnach viktor"
  ],
  ["Warnach Walter","Autarkie","I","1","685–690","author",316,"Autarkie, autark","warnach walter"],
- ["Warnach Walter","Freiheit","",null,null,"author",946,"Freiheit","warnach walter"],
+ ["Warnach Walter","Freiheit","I-II","2","1064–1083","author",946,"Freiheit","warnach walter"],
  ["Warning Rainer","Genie","I","3","279–282","author",1071,"Genie","warning rainer"],
  ["Warning Rainer","Imagination","II","4","219f.","author",1389,"Imagination","warning rainer"],
  [

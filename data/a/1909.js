@@ -25,6 +25,7 @@ HWPH.put("a/1909",
  "outlinks":[],
  "register":[
   {"term":"demokratische Diktatur","qualifier":"","band":"5","col":"1008"},
+  {"term":"Diktatur, demokratische","qualifier":"","band":"5","col":"1008"},
   {"term":"Majoritätsprinzip","qualifier":"","band":null,"col":null}
  ],
  "persons":[

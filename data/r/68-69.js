@@ -1,18 +1,5 @@
 HWPH.put("r/68-69",
 [
- [
-  "historischer 3 5 862 empirisch/transzendental","Transzendental","V","10","1380ff.","ref",3219,
-  "Transzendental","historischer 3 5 862 empirisch/transzendental"
- ],
- [
-  "historischer 3 5 862","Geschichtsauffassung, materialistische","","3","408–413","ref",1090,
-  "Geschichtlichkeit","historischer 3 5 862"
- ],
- [
-  "historischer Geschichtsauffassung, ökonomische","Geschichtsauffassung, materialistische","","3",
-  "411","ref",1091,"Geschichtsauffassung, materialistische",
-  "historischer geschichtsauffassung, okonomische"
- ],
  ["hiatus","Sprung","",null,null,"ref",2996,"Sprung","hiatus"],
  ["hidden God","Verborgenheit Gottes","",null,null,"ref",3384,"Verborgenheit Gottes","hidden god"],
  ["hier","Da (Heidegger)","",null,null,"ref",516,"Da","hier"],
@@ -37,7 +24,7 @@ HWPH.put("r/68-69",
   "hierarchisierung"
  ],
  [
-  "Hierarchisierung","Schichtenlehre II (psych.)","",null,null,"see",2762,
+  "Hierarchisierung","Schichtenlehre","II (psych.)",null,null,"see",2762,
   "Schichtenlehre, Schichtentheorie","hierarchisierung"
  ],
  ["Hierarchisierung","Struktur","IV (psych.)",null,null,"see",3040,"Struktur","hierarchisierung"],
@@ -45,7 +32,7 @@ HWPH.put("r/68-69",
   "hieroglyphica grammata","Signatur; Signaturenlehre","","9","752","ref",2883,
   "Signatur, Signaturenlehre","hieroglyphica grammata"
  ],
- ["Hieroglyphik","Emblem I (lit.)","","2","450","ref",716,"Emblem, Emblematik","hieroglyphik"],
+ ["Hieroglyphik","Emblem","I (lit.)","2","450","ref",716,"Emblem, Emblematik","hieroglyphik"],
  ["higher-order actions","Stufen","III","10","365","ref",3044,"Stufen","higher-order actions"],
  [
   "Hilbertsches Programm","Hilbertsches Programm","","3","1126","main",1273,"Hilbertsches Programm",
@@ -95,7 +82,11 @@ HWPH.put("r/68-69",
  ["Hinduismus","Buddhismus","",null,null,"see",458,"Buddhismus","hinduismus"],
  ["Hinduismus","Jainismus","",null,null,"see",1505,"Jainismus","hinduismus"],
  ["Hinduismus","Veda; Vedanta","",null,null,"see",3376,"Veda; Vedanta","hinduismus"],
- ["Hingabe, religiöse","Resignation Hingebung","",null,null,"ref",null,null,"hingabe, religiose"],
+ [
+  "Hingabe, religiöse","Resignation","",null,null,"ref",2693,"Resignation, resignieren",
+  "hingabe, religiose"
+ ],
+ ["Hingebung","Pathisch; Pathik","I","7","177","ref",2290,"Pathisch, Pathik","hingebung"],
  ["Hinschauen, tätiges","Sehen","IV","9","158","ref",2802,"Sehen","hinschauen, tatiges"],
  ["hinten/vorn","Anisotropie/Isotropie","","1","319","ref",149,"Anisotropie/Isotropie","hinten/vorn"],
  ["Hinterfragen","Hinterfragen","(Nietzsche)","3","1130f.","main",1277,"Hinterfragen","hinterfragen"],
@@ -131,12 +122,20 @@ HWPH.put("r/68-69",
   "histoire de longue duree"
  ],
  [
-  "histoire du monde","Weltgeschichte histoire sociale","",null,null,"ref",null,null,
+  "histoire du monde","Weltgeschichte","",null,null,"ref",3567,"Weltgeschichte; Universalgeschichte",
   "histoire du monde"
  ],
  [
-  "histoire universelle","Weltgeschichte i‘στορία","",null,null,"ref",null,null,
-  "histoire universelle"
+  "histoire sociale","Sozialgeschichte","",null,null,"ref",2943,"Sozialgeschichte; Sozialhistorie",
+  "histoire sociale"
+ ],
+ [
+  "histoire structurale","Geschichte","VI","3","396","ref",1085,"Geschichte, Historie",
+  "histoire structurale"
+ ],
+ [
+  "histoire universelle","Weltgeschichte","",null,null,"ref",3567,
+  "Weltgeschichte; Universalgeschichte","histoire universelle"
  ],
  ["historia","Geschichte","",null,null,"ref",1085,"Geschichte, Historie","historia"],
  ["historia","Schriftsinn, mehrfacher","","8","1434","ref",2782,"Schriftsinn, mehrfacher","historia"],
@@ -157,7 +156,18 @@ HWPH.put("r/68-69",
   "historia litteraria","Kunstphilosophie; Kunstgeschichte","","4","1453","ref",1716,
   "Kunstphilosophie, Kunstgeschichte, Kunstwissenschaft","historia litteraria"
  ],
- ["historia mundi","Weltgeschichte historia naturalis","",null,null,"ref",null,null,"historia mundi"],
+ [
+  "historia mundi","Weltgeschichte","",null,null,"ref",3567,"Weltgeschichte; Universalgeschichte",
+  "historia mundi"
+ ],
+ [
+  "historia naturalis","Naturgeschichte","","6","526","ref",2084,"Naturgeschichte",
+  "historia naturalis"
+ ],
+ [
+  "historia naturalis","Observatio; Beobachtung","","6","1075f.","ref",2195,
+  "Observatio, Beobachtung","historia naturalis"
+ ],
  [
   "historia philosophiae","Philosophiegeschichte","","7","914","ref",2361,"Philosophiegeschichte",
   "historia philosophiae"
@@ -180,14 +190,19 @@ HWPH.put("r/68-69",
   "historia religionis"
  ],
  [
-  "historia universalis","Weltgeschichte historical explanation","",null,null,"ref",null,null,
-  "historia universalis"
+  "historia universalis","Weltgeschichte","",null,null,"ref",3567,
+  "Weltgeschichte; Universalgeschichte","historia universalis"
+ ],
+ [
+  "historical explanation","Geschichten","","3","403","ref",1089,"Geschichten",
+  "historical explanation"
  ],
  [
   "historical reason","Vernunft, historische","",null,null,"ref",3424,"Vernunft, historische",
   "historical reason"
  ],
- ["historicism","Historismus historicity","",null,null,"ref",null,null,"historicism"],
+ ["historicism","Historismus","",null,null,"ref",1283,"Historismus, Historizismus","historicism"],
+ ["historicity","Geschichtlichkeit","",null,null,"ref",1090,"Geschichtlichkeit","historicity"],
  ["Historie","Geschichte","",null,null,"ref",1085,"Geschichte, Historie","historie"],
  ["Historie","Geschichte/Historie","",null,null,"ref",1086,"Geschichte/Historie","historie"],
  [
@@ -200,7 +215,8 @@ HWPH.put("r/68-69",
  ["Historik","Geschichte","",null,null,"see",1085,"Geschichte, Historie","historik"],
  ["Historik","Methode, historische","",null,null,"see",1960,"Methode, historische","historik"],
  ["Historik","Parteilichkeit","I (hist.)",null,null,"see",2282,"Parteilichkeit","historik"],
- ["Historiographie","Historik Historiologie","",null,null,"ref",null,null,"historiographie"],
+ ["Historiographie","Historik","",null,null,"ref",1280,"Historik, ars historica","historiographie"],
+ ["Historiologie","Logik, historische","","5","417","ref",1810,"Logik, historische","historiologie"],
  ["Historiomathie","Historik","","3","1132","ref",1280,"Historik, ars historica","historiomathie"],
  [
   "Historiomathie","Methode, historische","","5","1348","ref",1960,"Methode, historische",
@@ -213,8 +229,12 @@ HWPH.put("r/68-69",
   "historisch/systematisch"
  ],
  [
-  "historische Grösse","Grösse, historische (Burckhardt) historische Kontinuität","",null,null,"ref",
-  1187,"Größe","historische grosse"
+  "historische Grösse","Grösse, historische","(Burckhardt)",null,null,"ref",1188,
+  "Größe, historische","historische grosse"
+ ],
+ [
+  "historische Kontinuität","Kontinuität, historische","",null,null,"ref",1638,
+  "Kontinuität, historische","historische kontinuitat"
  ],
  [
   "historische Logik","Logik, historische","",null,null,"ref",1810,"Logik, historische",
@@ -258,20 +278,24 @@ HWPH.put("r/68-69",
   "Gottesbeweis, historischer","historischer gottesbeweis"
  ],
  [
-  "historischer Materialismus","Materialismus","",null,null,"ref",1886,"Materialismus",
+  "historischer Materialismus","Materialismus, historischer","",null,null,"ref",1886,"Materialismus",
   "historischer materialismus"
  ],
  [
-  "historischer historischer Pyrrhonismus","Pyrrhonismus","II","7","1723","ref",2538,"Pyrrhonismus",
-  "historischer historischer pyrrhonismus"
+  "historischer Pyrrhonismus","Pyrrhonismus","II","7","1723","ref",2538,"Pyrrhonismus",
+  "historischer pyrrhonismus"
  ],
  [
   "historischer Wirkungszusammenhang","Wirkungszusammenhang, historischer","(Dilthey)",null,null,
   "ref",3632,"Wirkungszusammenhang, historischer","historischer wirkungszusammenhang"
  ],
  [
-  "historisches Bewusstsein","Bewusstsein, geschichtliches (Dilthey) historisches Individuum","",
-  null,null,"ref",412,"Bewußtsein","historisches bewusstsein"
+  "historisches Bewusstsein","Bewusstsein, geschichtliches","(Dilthey)",null,null,"ref",412,
+  "Bewußtsein","historisches bewusstsein"
+ ],
+ [
+  "historisches Individuum","Individuum; Individualität","III","4","322","ref",1424,
+  "Individuum, Individualität","historisches individuum"
  ],
  [
   "Historismus","Historismus","","3","1141–1147","main",1283,"Historismus, Historizismus",
@@ -283,7 +307,8 @@ HWPH.put("r/68-69",
   "Historizismus","Voraussage","","11","1159","ref",3487,"Voraussage; Vorhersage; Prognose",
   "historizismus"
  ],
- ["history","Geschichte history, virtual","",null,null,"ref",null,null,"history"],
+ ["history","Geschichte","",null,null,"ref",1085,"Geschichte, Historie","history"],
+ ["history, virtual","Virtualität","II","11","1067","ref",3467,"Virtualität","history, virtual"],
  [
   "History of Ideas","History of Ideas","","3","1147","main",1284,"History of Ideas",
   "history of ideas"
@@ -307,39 +332,9 @@ HWPH.put("r/68-69",
  ],
  ["Hitze","Tapas","",null,null,"ref",3126,"Tapas","hitze"],
  [
-  "Hierarchiegesetz","Hierarchiegesetz","(Comte)",null,null,"main",1271,"Hierarchiegesetz",
-  "hierarchiegesetz"
+  "historischer","Widerspiegelung","",null,null,"ref",3606,
+  "Widerspiegelung; Widerspiegelungstheorie","historischer"
  ],
- [
-  "historischer Materialismus, didaktischer","Materialismus","","5","844","ref",1886,"Materialismus",
-  "historischer materialismus, didaktischer"
- ],
- [
-  "historischer 5 859–868 s. auch","Dialektik","IV",null,null,"ref",583,"Dialektik",
-  "historischer 5 859–868 s. auch"
- ],
- [
-  "historischer 5 859–868 s. auch","Geschichtsauffassung, materialistische","",null,null,"ref",1091,
-  "Geschichtsauffassung, materialistische","historischer 5 859–868 s. auch"
- ],
- [
-  "historischer 5 859–868 s. auch","Materialismus, dialektischer","",null,null,"ref",1887,
-  "Materialismus, dialektischer","historischer 5 859–868 s. auch"
- ],
- [
-  "historischer","Materialobjekt/Formalobjekt","","5","870","ref",1891,"Materialobjekt/Formalobjekt",
-  "historischer"
- ],
- ["historischer","Objekt","",null,null,"see",2183,"Objekt","historischer"],
- [
-  "historischer 3 5 863","Revolution, permanente","","8","990","ref",2708,"Revolution, permanente",
-  "historischer 3 5 863"
- ],
- [
-  "historischer 3 5 862 monistischer Idealismus","Idealismus, monistischer","(Reininger)",null,null,
-  "ref",1350,"Idealismus, monistischer","historischer 3 5 862 monistischer idealismus"
- ],
- ["historischer","Widerspiegelung Überbau/Basis","",null,null,"ref",null,null,"historischer"],
  [
   "Hickman Larry","Impositio prima/secunda","","4","269f.","author",1402,"Impositio prima/secunda",
   "hickman larry"

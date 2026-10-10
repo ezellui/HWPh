@@ -26,6 +26,7 @@ HWPH.put("a/2429",
  "register":[
   {"term":"abstractio praecisiva","qualifier":"I (log.)","band":null,"col":null},
   {"term":"Allgemeinbegriff","qualifier":"I (log.)","band":null,"col":null},
+  {"term":"Begriff","qualifier":"I (log.)","band":null,"col":null},
   {"term":"coniectura","qualifier":"II (Cusanus)","band":"7","col":"1215"},
   {"term":"Genauigkeit","qualifier":"II (Cusanus)","band":null,"col":null},
   {"term":"Mass (phys.)","qualifier":"I (log.)","band":"7","col":"1213"},
@@ -90,7 +91,11 @@ HWPH.put("a/2429",
   {"id":408,"lemma":"Bewegung","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":622,"lemma":"Distinktion"},
+  {"id":506,"lemma":"Complicatio/explicatio"},
+  {"id":624,"lemma":"Docta ignorantia"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Praecisio II (Cusanus)"},
   {"id":26,"name":"Metaphysik","label":"Praecisio II (Cusanus)"},
@@ -98,7 +103,7 @@ HWPH.put("a/2429",
  ],
  "reg_authors":[
   {"name":"Hucklenbroich Peter","n":10},
-  {"name":"Meier-Oeser Stephan","n":29},
+  {"name":"Meier-Oeser Stephan","n":30},
   {"name":"Meinhardt Helmut","n":11}
  ]
 }

@@ -17,7 +17,7 @@ HWPH.put("a/700",
  "next":{"id":701,"lemma":"Ekpyrosis","band":"2","col":433},
  "backlinks":[{"id":2818,"lemma":"Sekte","n":1},{"id":3678,"lemma":"Zeitgeist","n":1}],
  "outlinks":[],
- "register":[{"term":"– I (Schule) 9 274–284 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":40,"name":"W. T. Krug","b":1,"n":1,"l":0,"editor":0,"role":"source"},

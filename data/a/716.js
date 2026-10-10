@@ -24,9 +24,12 @@ HWPH.put("a/716",
  "backlinks":[{"id":3093,"lemma":"Symbol","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Hieroglyphik","qualifier":"","band":"2","col":"450"},
-  {"term":"sensus mysticus","qualifier":"","band":"2","col":"450"},
-  {"term":"subscriptio","qualifier":"","band":null,"col":null}
+  {"term":"Hieroglyphik","qualifier":"I (lit.)","band":"2","col":"450"},
+  {"term":"Motto","qualifier":"I (lit.)","band":null,"col":null},
+  {"term":"pictura","qualifier":"I (lit.)","band":null,"col":null},
+  {"term":"Schrift (chin.)","qualifier":"II (chin.)","band":null,"col":null},
+  {"term":"sensus mysticus","qualifier":"I (lit.)","band":"2","col":"450"},
+  {"term":"subscriptio","qualifier":"I (lit.)","band":null,"col":null}
  ],
  "persons":[
   {"id":2213,"name":"A. Schöne","b":0,"n":3,"l":2,"editor":0,"role":"scholar"},

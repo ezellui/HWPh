@@ -36,19 +36,12 @@ HWPH.put("a/3257",
  "register":[
   {"term":"Autorität, innere","qualifier":"","band":"11","col":"39"},
   {"term":"Ich-Ideal","qualifier":"","band":null,"col":null},
-  {"term":"IV-V","qualifier":"","band":null,"col":null},
   {"term":"Kultur-Überich","qualifier":"","band":"11","col":"40"},
   {"term":"Kulturentwicklung","qualifier":"","band":null,"col":null},
   {"term":"super-ego","qualifier":"","band":null,"col":null},
   {"term":"surmoi","qualifier":"","band":null,"col":null},
   {"term":"Verinnerlichung","qualifier":"","band":"11","col":"40"},
-  {"term":"Verwöhnung","qualifier":"","band":"11","col":"40"},
-  {
-   "term":"– I (pol.) 12 1286–1289 – II (psych.) 12 1289–1291 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Verwöhnung","qualifier":"","band":"11","col":"40"}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":4,"l":0,"editor":0,"role":"source"},
@@ -91,6 +84,6 @@ HWPH.put("a/3257",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Über-Ich"},
   {"id":35,"name":"Psychoanalyse","label":"Über-Ich"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Loch Wolfgang","n":12}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Loch Wolfgang","n":12}]
 }
 );

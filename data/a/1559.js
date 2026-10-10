@@ -23,6 +23,7 @@ HWPH.put("a/1559",
  ],
  "outlinks":[{"id":1604,"lemma":"Kondeszendenz","n":1}],
  "register":[
+  {"term":"Entäusserung","qualifier":"","band":null,"col":null},
   {"term":"Erniedrigung","qualifier":"","band":null,"col":null},
   {"term":"evacuatio","qualifier":"","band":null,"col":null},
   {"term":"exinanitio","qualifier":"","band":null,"col":null},

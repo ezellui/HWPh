@@ -36,7 +36,6 @@ HWPH.put("a/2381",
  ],
  "outlinks":[],
  "register":[
-  {"term":"729","qualifier":"I","band":"7","col":"989"},
   {"term":"concatenation","qualifier":"I","band":"7","col":"989"},
   {"term":"contiguity","qualifier":"I","band":"7","col":"989"},
   {"term":"Egoismus","qualifier":"I","band":"7","col":"988"},
@@ -52,6 +51,7 @@ HWPH.put("a/2381",
   {"term":"Pluriverse","qualifier":"I","band":"7","col":"989"},
   {"term":"Sozialismus, pluralistischer","qualifier":"I","band":"7","col":"992"},
   {"term":"Unitarismus","qualifier":"I","band":"7","col":"991"},
+  {"term":"universalis","qualifier":"I","band":"7","col":"989"},
   {"term":"Verantwortungsethik (Weber)","qualifier":"II","band":"7","col":"993f."}
  ],
  "persons":[
@@ -161,6 +161,6 @@ HWPH.put("a/2381",
   {"id":33,"name":"Politische Theorie","label":"Pluralismus I"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Pluralismus"}
  ],
- "reg_authors":[{"name":"Kerber Walter","n":2},{"name":"Red","n":242},{"name":"Samson Lothar","n":4}]
+ "reg_authors":[{"name":"Kerber Walter","n":2},{"name":"Red","n":241},{"name":"Samson Lothar","n":4}]
 }
 );

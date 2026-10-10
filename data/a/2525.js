@@ -101,6 +101,6 @@ HWPH.put("a/2525",
  ],
  "see_also":[{"id":2528,"lemma":"Psychose"}],
  "groups":[{"id":34,"name":"Psychiatrie","label":"Psychopathie"}],
- "reg_authors":[{"name":"Glatzel Johann","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Glatzel Johann","n":4},{"name":"Red","n":241}]
 }
 );

@@ -22,6 +22,7 @@ HWPH.put("a/19",
   {"term":"circulus fructuosus","qualifier":"(Peirce)","band":"1","col":"3"},
   {"term":"Hypothese","qualifier":"(Peirce)","band":null,"col":null},
   {"term":"retroduction","qualifier":"(Peirce)","band":"1","col":"4"},
+  {"term":"Syllogismus","qualifier":"(Peirce)","band":null,"col":null},
   {"term":"Zirkel des Verstehens","qualifier":"(Peirce)","band":"1","col":"3"}
  ],
  "persons":[

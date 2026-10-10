@@ -36,13 +36,7 @@ HWPH.put("a/3116",
   {"term":"Handeln, übermaschinelles","qualifier":"","band":"10","col":"858f."},
   {"term":"Ökosystem","qualifier":"","band":"10","col":"861"},
   {"term":"Organisation (biol.)","qualifier":"","band":null,"col":null},
-  {"term":"Organismus","qualifier":"","band":"10","col":"857ff."},
-  {
-   "term":"– III (math.) 4 332–334 – IV (biol.) 4 334f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Organismus","qualifier":"","band":"10","col":"857ff."}
  ],
  "persons":[
   {"id":1087,"name":"L. von Bertalanffy","b":1,"n":4,"l":1,"editor":0,"role":"mixed"},

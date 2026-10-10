@@ -47,7 +47,8 @@ HWPH.put("a/531",
   {"id":410,"lemma":"Beweis"},
   {"id":926,"lemma":"Folgerung"},
   {"id":1521,"lemma":"Kalkül"},
-  {"id":1957,"lemma":"Methode, axiomatische"}
+  {"id":1957,"lemma":"Methode, axiomatische"},
+  {"id":2769,"lemma":"Schluß"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Deduktion"}],
  "reg_authors":[{"name":"Lorenz Kuno","n":16}]

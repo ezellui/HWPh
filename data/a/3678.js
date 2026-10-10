@@ -110,7 +110,7 @@ HWPH.put("a/3678",
   {"id":2998,"lemma":"Staat","tf":2},
   {"id":168,"lemma":"Anspruch","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3336,"lemma":"Unzeitgemäß"}],
  "groups":[
   {"id":13,"name":"Geschichtsphilosophie","label":"Zeitgeist"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Zeitgeist"}

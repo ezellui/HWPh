@@ -47,7 +47,7 @@ HWPH.put("a/2506",
  "register":[
   {"term":"analytische Sozialpsychologie","qualifier":"II","band":"7","col":"1584"},
   {"term":"Assoziation, freie","qualifier":"I","band":"7","col":"1573"},
-  {"term":"der","qualifier":"","band":null,"col":null},
+  {"term":"Bewusstmachung des Unbewussten","qualifier":"I","band":"7","col":"1572"},
   {"term":"existentielle Psychoanalyse","qualifier":"II","band":"7","col":"1582"},
   {"term":"freie Assoziation","qualifier":"I","band":"7","col":"1573"},
   {"term":"Ichautonomie, primäre/sekundäre","qualifier":"II","band":"7","col":"1576"},
@@ -61,10 +61,10 @@ HWPH.put("a/2506",
   {"term":"Sozialpsychologie, analytische","qualifier":"II","band":"7","col":"1584"},
   {"term":"Symptom (psych.)","qualifier":"I","band":"7","col":"1572"},
   {"term":"Unbewusste, das","qualifier":"","band":null,"col":null},
+  {"term":"Verstehen, szenisches","qualifier":"II","band":"7","col":"1578"},
   {"term":"Weigerung, grosse","qualifier":"II","band":"7","col":"1584"},
   {"term":"Wunsch","qualifier":"II","band":"7","col":"1586"},
-  {"term":"Wunschmaschine","qualifier":"","band":"7","col":"1585f."},
-  {"term":"– II (psych.) 9 756–759 s. auch","qualifier":"II","band":null,"col":null}
+  {"term":"Wunschmaschine","qualifier":"","band":"7","col":"1585f."}
  ],
  "persons":[
   {"id":1705,"name":"A. Lorenzer","b":3,"n":9,"l":1,"editor":0,"role":"source"},

@@ -18,9 +18,9 @@ HWPH.put("a/3345",
  "backlinks":[{"id":3347,"lemma":"Uroffenbarung","n":2}],
  "outlinks":[{"id":3347,"lemma":"Uroffenbarung","n":1}],
  "register":[
-  {"term":"dialektische Uroffenbarung","qualifier":"","band":"11","col":"366"},
   {"term":"primitive monotheism","qualifier":"","band":null,"col":null},
-  {"term":"Primitivenreligion","qualifier":"","band":null,"col":null}
+  {"term":"Primitivenreligion","qualifier":"","band":null,"col":null},
+  {"term":"Uroffenbarung","qualifier":"","band":"11","col":"366"}
  ],
  "persons":[
   {"id":383,"name":"R. Otto","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -57,6 +57,6 @@ HWPH.put("a/3345",
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Urmonotheismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Urmonotheismus"}
  ],
- "reg_authors":[{"name":"Lanczkowski Günter","n":22},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Lanczkowski Günter","n":22},{"name":"Red","n":241}]
 }
 );

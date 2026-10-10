@@ -24,7 +24,6 @@ HWPH.put("a/1981",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Barmherzigkeit","qualifier":"","band":null,"col":null},
   {"term":"commiseratio","qualifier":"","band":null,"col":null},
   {"term":"compassion","qualifier":"","band":null,"col":null},
   {"term":"Gefühlsansteckung","qualifier":"","band":"5","col":"1414"},
@@ -32,8 +31,8 @@ HWPH.put("a/1981",
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Solidarität","qualifier":"","band":"5","col":"1415"},
   {"term":"Sozialregulation","qualifier":"","band":"5","col":"1415"},
-  {"term":"ὀ͂ικτος","qualifier":"","band":null,"col":null},
-  {"term":"– II (anthr.) 10 756–762 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἔλεος","qualifier":"","band":null,"col":null},
+  {"term":"ὀ͂ικτος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":16,"name":"A. Schopenhauer","b":2,"n":2,"l":0,"editor":0,"role":"source"},

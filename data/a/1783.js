@@ -20,8 +20,7 @@ HWPH.put("a/1783",
  "register":[
   {"term":"Konditionieren","qualifier":"","band":null,"col":null},
   {"term":"theory of learning","qualifier":"","band":null,"col":null},
-  {"term":"Verstärkung","qualifier":"","band":"5","col":"249"},
-  {"term":"– II (psych.) 5 245–247 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verstärkung","qualifier":"","band":"5","col":"249"}
  ],
  "persons":[
   {"id":3183,"name":"K. Foppa","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},

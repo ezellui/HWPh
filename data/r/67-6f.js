@@ -4,7 +4,7 @@ HWPH.put("r/67-6f",
  ["Gottes","Prinzip","I","7","1337","ref",2458,"Prinzip","gottes"],
  ["goal-situation","Situation","II (psych./soz.)","9","932","ref",2904,"Situation","goal-situation"],
  [
-  "god's-eye view","Perspektive I (allg.)","","7","371","ref",2326,
+  "god's-eye view","Perspektive","I (allg.)","7","371","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","god's-eye view"
  ],
  [
@@ -33,37 +33,36 @@ HWPH.put("r/67-6f",
  ["goodwill","Wohlwollen","","12","1007","ref",3653,"Wohlwollen","goodwill"],
  ["gosudárstvo","Staat","III",null,null,"ref",2998,"Staat","gosudarstvo"],
  ["Gott","Gott","","3","721–814","main",1162,"Gott","gott"],
- ["Gott","Absolut; das Absolute","",null,null,"see",27,"Absolut, das Absolute","gott"],
- ["Gott","Aktuosität","",null,null,"see",89,"Aktuosität","gott"],
- ["Gott","Allgegenwart Gottes","",null,null,"see",null,null,"gott"],
- ["Gott","Allmacht Gottes","",null,null,"see",null,null,"gott"],
- ["Gott","Allwissenheit Gottes","",null,null,"see",null,null,"gott"],
- ["Gott","Aseität","",null,null,"see",259,"Aseität","gott"],
- ["Gott","Attribute Gottes","",null,null,"see",null,null,"gott"],
- ["Gott","Gericht Gottes","",null,null,"see",1084,"Gericht (Gottes)","gott"],
- ["Gott","Gottesbeweis","",null,null,"see",1165,"Gottesbeweis","gott"],
- ["Gott","Gottheit","",null,null,"see",1173,"Gottheit","gott"],
- ["Gott","Ideal, transzendentales","(Kant)",null,null,"see",1340,"Ideal, transzendentales","gott"],
- ["Gott","Kontraktion Gottes","",null,null,"see",1644,"Kontraktion Gottes","gott"],
- ["Gott","Lob Gottes","",null,null,"see",1800,"Lob Gottes","gott"],
- ["Gott","Name Gottes","",null,null,"see",2067,"Name Gottes","gott"],
- ["Gott","Natur in Gott","",null,null,"see",2076,"Natur in Gott","gott"],
+ ["Gott","Absolut; das","",null,null,"see",27,"Absolut, das Absolute","gott"],
+ ["Gottes","Gottesbeweis","",null,null,"ref",1165,"Gottesbeweis","gottes"],
+ ["Gottes","Gottheit","",null,null,"ref",1173,"Gottheit","gottes"],
  [
-  "Gott","Nichtgegenständlichkeit Gottes","",null,null,"see",2135,"Nichtgegenständlichkeit Gottes",
-  "gott"
+  "Gottes","Ideal, transzendentales","(Kant)",null,null,"ref",1340,"Ideal, transzendentales",
+  "gottes"
  ],
- ["Gott","Potentia absoluta/ordinata","",null,null,"see",2419,"Potentia absoluta/ordinata","gott"],
- ["Gott","Selbstoffenbarung","",null,null,"see",2843,"Selbstoffenbarung","gott"],
- ["Gott","Tod Gottes","",null,null,"see",3198,"Tod Gottes","gott"],
- ["Gott","Trinität","",null,null,"see",3231,"Trinität","gott"],
- ["Gott","Ubiquität","",null,null,"see",3269,"Ubiquität","gott"],
- ["Gott","Unbegreiflichkeit","",null,null,"see",3281,"Unbegreiflichkeit","gott"],
- ["Gott","Unveränderlichkeit Gottes","",null,null,"see",3330,"Unveränderlichkeit Gottes","gott"],
- ["Gott","Verborgenheit Gottes","",null,null,"see",3384,"Verborgenheit Gottes","gott"],
- ["Gott","Wesen, höchstes","",null,null,"see",3596,"Wesen, höchstes","gott"],
- ["Gott","Wirken Gottes","",null,null,"see",3627,"Wirken Gottes","gott"],
- ["Gott","Wort","II (theol.)",null,null,"see",3656,"Wort","gott"],
- ["Gott","Zorn Gottes","",null,null,"see",3703,"Zorn Gottes","gott"],
+ ["Gottes","Kontraktion Gottes","",null,null,"ref",1644,"Kontraktion Gottes","gottes"],
+ ["Gottes","Lob Gottes","",null,null,"ref",1800,"Lob Gottes","gottes"],
+ ["Gottes","Name Gottes","",null,null,"ref",2067,"Name Gottes","gottes"],
+ ["Gottes","Natur in Gott","",null,null,"ref",2076,"Natur in Gott","gottes"],
+ [
+  "Gottes","Nichtgegenständlichkeit Gottes","",null,null,"ref",2135,"Nichtgegenständlichkeit Gottes",
+  "gottes"
+ ],
+ [
+  "Gottes","Potentia absoluta/ordinata","",null,null,"ref",2419,"Potentia absoluta/ordinata",
+  "gottes"
+ ],
+ ["Gottes","Selbstoffenbarung","",null,null,"ref",2843,"Selbstoffenbarung","gottes"],
+ ["Gottes","Tod Gottes","",null,null,"ref",3198,"Tod Gottes","gottes"],
+ ["Gottes","Trinität","",null,null,"ref",3231,"Trinität","gottes"],
+ ["Gottes","Ubiquität","",null,null,"ref",3269,"Ubiquität","gottes"],
+ ["Gottes","Unbegreiflichkeit","",null,null,"ref",3281,"Unbegreiflichkeit","gottes"],
+ ["Gottes","Unveränderlichkeit Gottes","",null,null,"ref",3330,"Unveränderlichkeit Gottes","gottes"],
+ ["Gottes","Verborgenheit Gottes","",null,null,"ref",3384,"Verborgenheit Gottes","gottes"],
+ ["Gottes","Wesen, höchstes","",null,null,"ref",3596,"Wesen, höchstes","gottes"],
+ ["Gottes","Wirken Gottes","",null,null,"ref",3627,"Wirken Gottes","gottes"],
+ ["Gottes","Wort","II (theol.)",null,null,"ref",3656,"Wort","gottes"],
+ ["Gottes","Zorn Gottes","",null,null,"ref",3703,"Zorn Gottes","gottes"],
  ["Gott","Non aliud","(Cusanus)",null,null,"ref",2157,"Non aliud","gott"],
  ["Gott","Sein; Seiendes","II",null,null,"ref",2806,"Sein; Seiendes","gott"],
  ["Gott","Selbstmitteilung","I",null,null,"ref",2841,"Selbstmitteilung","gott"],
@@ -74,7 +73,8 @@ HWPH.put("r/67-6f",
  ["Gott","Nichts; Nichtseiendes","","6","809","ref",2136,"Nichts, Nichtseiendes","gott"],
  ["Gott","Vernunft; Verstand","VII A","11","832","ref",3423,"Vernunft; Verstand","gott"],
  ["Gott/Mensch","Korrelation","I",null,null,"ref",1670,"Korrelation","gott/mensch"],
- ["Gott/Mensch","Kreatur Gott/Welt","",null,null,"ref",null,null,"gott/mensch"],
+ ["Gott/Mensch","Kreatur","",null,null,"ref",1686,"Kreatur, Kreatürlichkeit","gott/mensch"],
+ ["Gott/Welt","Immanenz","","4","234","ref",1390,"Immanent, Immanenz","gott/welt"],
  ["Gott, lebendiger","Aktuosität","","1","146","ref",89,"Aktuosität","gott, lebendiger"],
  ["Gott, persönlicher","Theismus","",null,null,"ref",3163,"Theismus","gott, personlicher"],
  ["Gott, persönlicher","Offenbarung","IV","6","1123","ref",2203,"Offenbarung","gott, personlicher"],
@@ -146,9 +146,10 @@ HWPH.put("r/67-6f",
   "Gottes Gerechtigkeit","Gerechtigkeit","I","3","331f.","ref",1083,"Gerechtigkeit",
   "gottes gerechtigkeit"
  ],
+ ["Gottes Gericht","Gericht","",null,null,"ref",1084,"Gericht (Gottes)","gottes gericht"],
  [
-  "Gottes Gericht","Gericht Gottes Gottes Gesetzgebung","",null,null,"ref",null,null,
-  "gottes gericht"
+  "Gottes Gottes Gesetzgebung","Theonomie","",null,null,"ref",3176,"Theonomie",
+  "gottes gottes gesetzgebung"
  ],
  ["Gottes Mummerei","Gottes Mummerei","","3","835","main",1171,"Gottes Mummerei","gottes mummerei"],
  [
@@ -217,10 +218,9 @@ HWPH.put("r/67-6f",
   "Gottesbeweis, historischer","gottesbeweis, historischer"
  ],
  [
-  "Gottesbeweis, historischer","Consensus omnium; consensus gentium Gottesbeweis, ideologischer","",
-  null,null,"see",511,"Consensus omnium, consensus gentium","gottesbeweis, historischer"
+  "Gottesbeweis, historischer","Consensus omnium; consensus","",null,null,"see",511,
+  "Consensus omnium, consensus gentium","gottesbeweis, historischer"
  ],
- ["Gottesbeweis","Gottesbeweis","","3","823","main",1165,"Gottesbeweis","gottesbeweis"],
  [
   "Gottesbeweis, kosmologischer","Gottesbeweis","","3","828","ref",1165,"Gottesbeweis",
   "gottesbeweis, kosmologischer"
@@ -246,7 +246,7 @@ HWPH.put("r/67-6f",
   "Gottesbeweis, ontologischer","gottesbeweis, ontologischer"
  ],
  [
-  "Gottesbeweis, ontologischer","Erkenntnis I (erk.)","","2","650","ref",796,"Erkennen, Erkenntnis",
+  "Gottesbeweis, ontologischer","Erkenntnis","I (erk.)","2","650","ref",796,"Erkennen, Erkenntnis",
   "gottesbeweis, ontologischer"
  ],
  [
@@ -339,7 +339,12 @@ HWPH.put("r/67-6f",
   "government, forms of","Verfassungsformen government by discussion","",null,null,"ref",null,null,
   "government, forms of"
  ],
- ["Gottesbeweis","Gottesbeweis","","3","827f.","main",1165,"Gottesbeweis","gottesbeweis"],
+ ["Gottes jugement","Urteil","",null,null,"ref",3355,"Urteil","gottes jugement"],
+ [
+  "Gottes jugement","Urteilskraft","",null,null,"ref",3359,"Urteilskraft; Urteilsvermögen",
+  "gottes jugement"
+ ],
+ ["Goldener","Symmetrie","I (ästh )",null,null,"ref",3097,"Symmetrie","goldener"],
  ["Gottes","Gottes","","6","803","main",2135,"Nichtgegenständlichkeit Gottes","gottes"],
  ["Gottes","Sein; Seiendes","V 3","9","211","ref",2806,"Sein; Seiendes","gottes"],
  ["Gottes","Subjekt","II","10","384","ref",3047,"Subjekt","gottes"],
@@ -349,6 +354,16 @@ HWPH.put("r/67-6f",
  ["Gottes","Idee","II A 6","4","78","ref",1361,"Idee","gottes"],
  ["Gottes","Unsterblichkeit","II","11","278ff.","ref",3323,"Unsterblichkeit","gottes"],
  ["Gottes","Vergänglichkeit","","11","662","ref",3401,"Vergänglichkeit; Vergehen","gottes"],
+ ["Gottes","Hölle","",null,null,"ref",1290,"Hölle","gottes"],
+ ["Gottes","Prädestination","",null,null,"ref",2424,"Prädestination","gottes"],
+ ["Gottes","Strafe","I",null,null,"ref",3035,"Strafe","gottes"],
+ ["Gottes","Wiederbringung","",null,null,"ref",3612,"Wiederbringung","gottes"],
+ ["Gottes","Zorn Gottes","",null,null,"ref",3703,"Zorn Gottes","gottes"],
+ ["Gottes","Prozess","I 4 (nat.)","7","1551","ref",2499,"Prozeß","gottes"],
+ ["Gottes","Verdammung","","11","601","ref",3389,"Verdammung; Verwerfung","gottes"],
+ ["Gottes","Weltgeschichte","","12","483","ref",3567,"Weltgeschichte; Universalgeschichte","gottes"],
+ ["Gottes","Malum","III",null,null,"ref",1852,"Malum","gottes"],
+ ["Gottes","Verdammung","",null,null,"ref",3389,"Verdammung; Verwerfung","gottes"],
  [
   "Göbbeler Hans-Peter","Perspikuität","","7","377–379","author",2327,"Perspikuität",
   "gobbeler hans-peter"
@@ -377,7 +392,7 @@ HWPH.put("r/67-6f",
   "Idealismus, menschewisierender","goerdt wilhelm"
  ],
  [
-  "Goerdt Wilhelm","Intelligenz; Intellektueller III (russ.)","","4","448–452","author",1464,
+  "Goerdt Wilhelm","Intelligenz; Intellektueller","III (russ.)","4","448–452","author",1464,
   "Intelligenz, Intelligentsia, Intellektueller","goerdt wilhelm"
  ],
  ["Goerdt Wilhelm","Konvergenz","II","4","1080–1082","author",1653,"Konvergenz","goerdt wilhelm"],
@@ -386,14 +401,20 @@ HWPH.put("r/67-6f",
   "Lebensweise, sozialistische","goerdt wilhelm"
  ],
  ["Goerdt Wilhelm","Leninismus","","5","234–241","author",1781,"Leninismus","goerdt wilhelm"],
- ["Goerdt Wilhelm","Logik","",null,null,"author",1803,"Logik","goerdt wilhelm"],
+ [
+  "Goerdt Wilhelm","Logik, dialektische","II","5","398–402","author",1805,
+  "Logik, (spekulativ-)dialektische","goerdt wilhelm"
+ ],
  ["Goerdt Wilhelm","Macht","III (russ.)","5","617–622","author",1844,"Macht","goerdt wilhelm"],
  ["Goerdt Wilhelm","Marxismus","II","5","767–772","author",1871,"Marxismus","goerdt wilhelm"],
  [
-  "Goerdt Wilhelm","Materialismus, dialektischer","",null,null,"author",1887,
+  "Goerdt Wilhelm","Materialismus, dialektischer II.","IV","5","853–856","author",1887,
   "Materialismus, dialektischer","goerdt wilhelm"
  ],
- ["Goerdt Wilhelm","Materialismus","",null,null,"author",1886,"Materialismus","goerdt wilhelm"],
+ [
+  "Goerdt Wilhelm","Materialismus, historischer","",null,null,"author",1886,"Materialismus",
+  "goerdt wilhelm"
+ ],
  [
   "Goerdt Wilhelm","Materialismus, mechanischer","","5","868","author",1889,
   "Materialismus, mechanischer","goerdt wilhelm"
@@ -407,7 +428,7 @@ HWPH.put("r/67-6f",
   "Goerdt Wilhelm","Persönlichkeit, allseitige","","7","354–356","author",2323,
   "Persönlichkeit, allseitige","goerdt wilhelm"
  ],
- ["Goerdt Wilhelm","Philosophie","IV",null,null,"author",2353,"Philosophie","goerdt wilhelm"],
+ ["Goerdt Wilhelm","Philosophie","IV J","7","775–786","author",2353,"Philosophie","goerdt wilhelm"],
  ["Goerdt Wilhelm","Radikalismus","II","8","13–15","author",2563,"Radikalismus","goerdt wilhelm"],
  ["Goerdt Wilhelm","Sobornost","","9","993–1000","author",2913,"Sobornost","goerdt wilhelm"],
  ["Goerdt Wilhelm","Sophiologie","","9","1063–1069","author",2924,"Sophiologie","goerdt wilhelm"],
@@ -500,7 +521,7 @@ HWPH.put("r/67-6f",
  ],
  ["Gorsen Peter","Obszön","","6","1081–1089","author",2196,"Obszön","gorsen peter"],
  [
-  "Gosepath Stefan","Rationalität III (analyt. Philos.)","","8","62–66","author",2576,
+  "Gosepath Stefan","Rationalität","III (analyt. Philos.)","8","62–66","author",2576,
   "Rationalität, Rationalisierung","gosepath stefan"
  ]
 ]

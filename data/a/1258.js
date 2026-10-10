@@ -20,7 +20,8 @@ HWPH.put("a/1258",
  "register":[
   {"term":"Alchemie","qualifier":"","band":null,"col":null},
   {"term":"hermetisch","qualifier":"","band":null,"col":null},
-  {"term":"Kunstwerk, hermetisches","qualifier":"","band":"3","col":"1077"}
+  {"term":"Kunstwerk, hermetisches","qualifier":"","band":"3","col":"1077"},
+  {"term":"poesia hermetica","qualifier":"","band":"3","col":"1077"}
  ],
  "persons":[
   {"id":6264,"name":"C. Kiesewetter","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},

@@ -17,7 +17,7 @@ HWPH.put("a/483",
  "next":{"id":484,"lemma":"Chaos","band":"1","col":980},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"ästhetische Wahrscheinlichkeit (soz.)","qualifier":"(Weber)","band":null,"col":null}],
+ "register":[{"term":"Wahrscheinlichkeit (soz.)","qualifier":"(Weber)","band":null,"col":null}],
  "persons":[
   {"id":2172,"name":"Max Weber","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":60,"name":"M. Weber","b":0,"n":0,"l":1,"editor":0,"role":"source"},

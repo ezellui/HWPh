@@ -21,7 +21,6 @@ HWPH.put("a/153",
   {"term":"Anmutungsqualität","qualifier":"","band":null,"col":null},
   {"term":"Artungsqualitäten","qualifier":"","band":"1","col":"328"},
   {"term":"Befindlichkeit","qualifier":"","band":null,"col":null},
-  {"term":"der 4 935–939 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Fühldenken","qualifier":"","band":"1","col":"328"},
   {"term":"Gestimmtheit","qualifier":"","band":null,"col":null},
   {"term":"Komplexqualität","qualifier":"","band":null,"col":null},
@@ -68,9 +67,10 @@ HWPH.put("a/153",
  "see_also":[
   {"id":990,"lemma":"Ganzqualitäten"},
   {"id":1120,"lemma":"Gestaltqualität"},
-  {"id":1600,"lemma":"Komplex"}
+  {"id":1601,"lemma":"Komplex (der)"},
+  {"id":3027,"lemma":"Stimmung"}
  ],
  "groups":[{"id":36,"name":"Psychologie","label":"Anmutung"}],
- "reg_authors":[{"name":"Wellek Albert","n":5}]
+ "reg_authors":[{"name":"Wellek Albert","n":6}]
 }
 );

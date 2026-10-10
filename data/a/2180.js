@@ -18,7 +18,7 @@ HWPH.put("a/2180",
  "backlinks":[{"id":2182,"lemma":"Obersatz","n":1},{"id":3091,"lemma":"Syllogismus; Syllogistik","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Eselsbrücke","qualifier":"","band":"6","col":"1021"},
+  {"term":"Mittelbegriff","qualifier":"","band":"6","col":"1021"},
   {"term":"terminus maior","qualifier":"","band":"6","col":"1021"},
   {"term":"terminus medius","qualifier":"","band":"6","col":"1021"},
   {"term":"Unterbegriff","qualifier":"","band":null,"col":null},

@@ -18,6 +18,7 @@ HWPH.put("a/777",
  "backlinks":[{"id":2402,"lemma":"Polysyllogismus","n":1}],
  "outlinks":[{"id":769,"lemma":"Epichirem","n":1}],
  "register":[
+  {"term":"Epichirem","qualifier":"","band":"2","col":"594"},
   {"term":"epilogismus","qualifier":"","band":"2","col":"594"},
   {"term":"epilogus","qualifier":"","band":"2","col":"594"},
   {"term":"Kettenschluss","qualifier":"","band":null,"col":null},

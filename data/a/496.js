@@ -28,13 +28,14 @@ HWPH.put("a/496",
  "register":[
   {"term":"christianitas","qualifier":"","band":null,"col":null},
   {"term":"christliches Prinzip","qualifier":"","band":"1","col":"1014"},
-  {"term":"das 8 1414 Judaismus","qualifier":"","band":"1","col":"1008"},
+  {"term":"Judaismus","qualifier":"","band":"1","col":"1008"},
   {"term":"Mensch, innerer","qualifier":"","band":"1","col":"1011"},
-  {"term":"Mensch, neuer","qualifier":"","band":"1","col":"1011"},
+  {"term":"Mensch, neuer","qualifier":"","band":null,"col":null},
   {"term":"Nachahmung (theol.)","qualifier":"","band":"1","col":"1009"},
   {"term":"Prinzip, christliches","qualifier":"","band":"1","col":"1014"},
   {"term":"Religionsglaube","qualifier":"","band":"1","col":"1013"},
   {"term":"Wesen des Christentums","qualifier":"","band":null,"col":null},
+  {"term":"θεοσοφία","qualifier":"","band":"1","col":"1009"},
   {"term":"χριστιανισμός","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -21,14 +21,14 @@ HWPH.put("a/697",
   {"term":"Du","qualifier":"","band":"2","col":"429"},
   {"term":"Egoist","qualifier":"","band":"2","col":"428f."},
   {"term":"Eigenheit","qualifier":"","band":"2","col":"428"},
+  {"term":"Eigentum","qualifier":"","band":"2","col":"428"},
   {"term":"Einzigkeit Gottes","qualifier":"","band":"2","col":"427f."},
   {"term":"Kommunist/Egoist","qualifier":"","band":"2","col":"429"},
   {"term":"Mensch","qualifier":"","band":"2","col":"428f."},
   {"term":"Monismus, subjektivistischer","qualifier":"","band":"2","col":"430"},
   {"term":"Unmenschliche, das","qualifier":"","band":"2","col":"428"},
   {"term":"Vollkommenheit Gottes","qualifier":"","band":"2","col":"429"},
-  {"term":"Voraussetzungslosigkeit","qualifier":"","band":"2","col":"429"},
-  {"term":"– I (eth.) 2 310–313 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Voraussetzungslosigkeit","qualifier":"","band":"2","col":"429"}
  ],
  "persons":[
   {"id":479,"name":"M. Stirner","b":3,"n":4,"l":0,"editor":0,"role":"source"},

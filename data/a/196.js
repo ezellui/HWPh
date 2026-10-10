@@ -22,7 +22,7 @@ HWPH.put("a/196",
   {"id":3595,"lemma":"Wesen","n":1}
  ],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Gegenständigkeit","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":3,"name":"Platon","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},

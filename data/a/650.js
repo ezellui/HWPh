@@ -86,7 +86,13 @@ HWPH.put("a/650",
   {"id":1795,"lemma":"Liebe","tf":2},
   {"id":576,"lemma":"Deutung","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":112,"lemma":"Altruismus"},
+  {"id":664,"lemma":"Eigennutz"},
+  {"id":697,"lemma":"Einzige, Einzigkeit"},
+  {"id":2849,"lemma":"Selbstsucht"},
+  {"id":2918,"lemma":"Solipsismus"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Egoismus II (erk.)"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Egoismus I (eth.)"},

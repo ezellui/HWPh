@@ -40,6 +40,7 @@ HWPH.put("a/2150",
   {"id":1928,"lemma":"Mereologie","n":1}
  ],
  "register":[
+  {"term":"Eigenname","qualifier":"II","band":null,"col":null},
   {"term":"flatus vocis","qualifier":"I","band":"6","col":"877"},
   {"term":"general names","qualifier":"II","band":"6","col":"884"},
   {"term":"grammatica speculativa","qualifier":"I","band":"6","col":"880"},
@@ -47,8 +48,7 @@ HWPH.put("a/2150",
   {"term":"Konstitutionssystem","qualifier":"II","band":"6","col":"886f."},
   {"term":"Mereologie","qualifier":"II","band":"6","col":"886"},
   {"term":"Philosoph","qualifier":"II","band":"6","col":"887"},
-  {"term":"significatum propositionis","qualifier":"I","band":"6","col":"881"},
-  {"term":"– I (met.) 8 148–156 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"significatum propositionis","qualifier":"I","band":"6","col":"881"}
  ],
  "persons":[
   {"id":271,"name":"N. Goodman","b":11,"n":14,"l":0,"editor":0,"role":"source"},

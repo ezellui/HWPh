@@ -32,8 +32,8 @@ HWPH.put("a/3513",
  ],
  "register":[
   {"term":"augmentum","qualifier":"","band":null,"col":null},
-  {"term":"Drei-Stadien-Gesetz","qualifier":"II","band":"12","col":"9"},
   {"term":"Entwicklung","qualifier":"II","band":"12","col":"9"},
+  {"term":"Fortschritt","qualifier":"II","band":"12","col":"9"},
   {"term":"generatio","qualifier":"I","band":"12","col":"7"},
   {"term":"growth","qualifier":"II","band":null,"col":null},
   {"term":"incrementum","qualifier":"","band":null,"col":null},
@@ -45,8 +45,7 @@ HWPH.put("a/3513",
   {"term":"self-actualization","qualifier":"II","band":"12","col":"10"},
   {"term":"αὔξησις","qualifier":"I","band":null,"col":null},
   {"term":"τροφή","qualifier":"I","band":"12","col":"7"},
-  {"term":"φύσις","qualifier":"I","band":null,"col":null},
-  {"term":"– I (biol.) 1 544–546 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"φύσις","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":4,"l":0,"editor":0,"role":"source"},

@@ -24,10 +24,7 @@ HWPH.put("a/1560",
  "next":{"id":1561,"lemma":"Keuschheit","band":"4","col":817},
  "backlinks":[{"id":3414,"lemma":"Verkündigung; Verkünden","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"Dogma","qualifier":"II","band":null,"col":null},
-  {"term":"– II (theol.) 12 1324–1330 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Dogma","qualifier":"II","band":null,"col":null}],
  "persons":[
   {"id":132,"name":"R. Bultmann","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":58,"name":"Origenes","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -60,7 +57,7 @@ HWPH.put("a/1560",
   {"id":1568,"lemma":"Kirche","tf":2},
   {"id":2673,"lemma":"Religion","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3414,"lemma":"Verkündigung; Verkünden"}],
  "groups":[{"id":44,"name":"Theologie","label":"Kerygma"}],
  "reg_authors":[
   {"name":"Bartsch Hans-Werner","n":6},

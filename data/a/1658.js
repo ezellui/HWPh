@@ -17,7 +17,10 @@ HWPH.put("a/1658",
  "next":{"id":1659,"lemma":"Kopenhagener Deutung","band":"4","col":1093},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Reflex","qualifier":"","band":"4","col":"1092"}],
+ "register":[
+  {"term":"Reflex","qualifier":"","band":"4","col":"1092"},
+  {"term":"Sensomotorik","qualifier":"","band":"4","col":"1092"}
+ ],
  "persons":[
   {"id":2685,"name":"E. von Holst","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":6791,"name":"R. Held","b":2,"n":1,"l":0,"editor":0,"role":"source"},

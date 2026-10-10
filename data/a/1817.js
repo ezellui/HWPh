@@ -33,7 +33,10 @@ HWPH.put("a/1817",
   {"id":2769,"lemma":"Schluß","n":1},
   {"id":3643,"lemma":"Wissenschaftslehre","n":1}
  ],
- "register":[],
+ "register":[
+  {"term":"Begriff","qualifier":"","band":"5","col":"454"},
+  {"term":"Satz der Identität","qualifier":"","band":"5","col":"453f."}
+ ],
  "persons":[
   {"id":247,"name":"Ch. Sigwart","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":136,"name":"J. H. Lambert","b":2,"n":2,"l":0,"editor":0,"role":"source"},

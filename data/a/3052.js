@@ -36,22 +36,21 @@ HWPH.put("a/3052",
   {"id":3053,"lemma":"Subjektivität, transzendentale","n":1}
  ],
  "register":[
-  {"term":"/Objekt IV","qualifier":"","band":null,"col":null},
-  {"term":"/Objekt IV 10 419","qualifier":"I","band":"10","col":"460"},
-  {"term":"/Objekt IV 10 423f.","qualifier":"II","band":"10","col":"466"},
   {"term":"Egoismus, spekulativer","qualifier":"I","band":"10","col":"459"},
   {"term":"Einheit der Person","qualifier":"II","band":"10","col":"465"},
   {"term":"Entsubjektivierung","qualifier":"I","band":"10","col":"460"},
   {"term":"Evidenz","qualifier":"I","band":"10","col":"459"},
-  {"term":"geisteswissenschaftliche 7 1656","qualifier":"II","band":"10","col":"465"},
   {"term":"Heteronomie","qualifier":"III","band":"10","col":"470"},
   {"term":"Ichheit","qualifier":"I","band":"10","col":"459"},
   {"term":"Individualität","qualifier":"II","band":"10","col":"468"},
   {"term":"Innerlichkeit","qualifier":"III","band":"10","col":"470f."},
   {"term":"Intersubjektivität","qualifier":"II","band":"10","col":"468"},
+  {"term":"Objektivität","qualifier":"II","band":"10","col":"466"},
   {"term":"Ohnmacht des Geistes","qualifier":"II","band":"10","col":"467"},
+  {"term":"Selbstanschauung","qualifier":"I","band":"10","col":"460"},
   {"term":"Spiegel","qualifier":"I","band":"10","col":"460"},
   {"term":"Sprachsubjektivität","qualifier":"I","band":"10","col":"462"},
+  {"term":"Transsubjektivität","qualifier":"II","band":"10","col":"465"},
   {"term":"Überwindung der Subjektivität","qualifier":"II","band":"10","col":"467"},
   {"term":"Vernichtung des Ich","qualifier":"I","band":"10","col":"459"},
   {"term":"Virtualität","qualifier":"I","band":"10","col":"459"}
@@ -211,7 +210,8 @@ HWPH.put("a/3052",
  "see_also":[
   {"id":1334,"lemma":"Ich"},
   {"id":2828,"lemma":"Selbstbewußtsein"},
-  {"id":3053,"lemma":"Subjektivität, transzendentale"}
+  {"id":3053,"lemma":"Subjektivität, transzendentale"},
+  {"id":3217,"lemma":"Transsubjektivität; das Transsubjektive"}
  ],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Subjektivität"}],
  "reg_authors":[{"name":"Beelmann Axel","n":2},{"name":"Clairmont Heinrich","n":1},{"name":"Cosmann Peggy","n":1}]

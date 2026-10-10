@@ -31,8 +31,7 @@ HWPH.put("a/2994",
  ],
  "outlinks":[],
  "register":[
-  {"term":"- 1388 s. auch","qualifier":"(Wittgenstein)","band":null,"col":null},
-  {"term":"Familienähnlichkeit","qualifier":"(Wittgenstein)","band":null,"col":null},
+  {"term":"Familienähnlichkeit","qualifier":"(Wittgenstein) II","band":"9","col":"1536"},
   {"term":"language game","qualifier":"(Wittgenstein)","band":null,"col":null}
  ],
  "persons":[

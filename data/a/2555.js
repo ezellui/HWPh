@@ -40,7 +40,10 @@ HWPH.put("a/2555",
   {"id":125,"lemma":"Analyse","tf":3},
   {"id":707,"lemma":"Element","tf":3}
  ],
- "see_also":[{"id":708,"lemma":"Elementarerlebnisse"}],
+ "see_also":[
+  {"id":708,"lemma":"Elementarerlebnisse"},
+  {"id":1628,"lemma":"Konstitutionssystem, Konstitutionstheorie"}
+ ],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Quasianalyse (Carnap)"}],
  "reg_authors":[{"name":"Brockhaus Klaus","n":5}]
 }

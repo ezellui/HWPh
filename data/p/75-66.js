@@ -1,0 +1,15 @@
+HWPH.put("p/75-66",
+{"uf":[["uf","2ah:;rr"],["ûf","x3:;53 3b:;1ul,3d 1mo:;6a 4l:;gc,7"]],
+"ufenthalt":[["ûfenthalt","ta:;2g"]],
+"ufer":[["UFER","2cb:;;5mr"],["Ufer","3i:;277,2 z1:;2tg xd:;7vn ig:;u 7z:;3pk,12 4u:;nq"]],
+"uferlos":[["uferlos","2cw:;5g"]],
+"uferlose":[["Uferlose","15e:;4q0"]],
+"uferloser":[["uferloser","1td:;277z"]],
+"uferlosigkeit":[["Uferlosigkeit","vf:;oy"]],
+"uff":[["Uff","si:;;3p"],["uff","23i:;6u,o"]],
+"uffelmann":[["UFFELMANN","285:;;529"]],
+"uffgeben":[["uffgeben","22t:;9l"]],
+"ufgan":[["ûfgân","10e:;1wn 1m3:;;8j"]],
+"uforanderlighed":[["Uforanderlighed","2ki:;;c6"]],
+"ufstuont":[["ûfstuont","2oc:;q1"]]}
+);

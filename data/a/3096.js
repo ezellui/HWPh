@@ -80,6 +80,6 @@ HWPH.put("a/3096",
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Symbolismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Symbolismus"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

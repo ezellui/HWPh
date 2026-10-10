@@ -21,6 +21,7 @@ HWPH.put("a/2313",
  ],
  "outlinks":[],
  "register":[
+  {"term":"Kreislauf","qualifier":"","band":"7","col":"259f."},
   {"term":"Wiederkehr, ewige","qualifier":"","band":"7","col":"260"},
   {"term":"Zeitalter","qualifier":"","band":null,"col":null},
   {"term":"zyklisch","qualifier":"","band":"7","col":"259f."}

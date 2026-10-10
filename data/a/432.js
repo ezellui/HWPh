@@ -21,13 +21,7 @@ HWPH.put("a/432",
   {"term":"Denkbilder","qualifier":"(Benjamin)","band":"1","col":"919"},
   {"term":"Dialektik im Stillstand","qualifier":"(Benjamin)","band":null,"col":null},
   {"term":"dialektisches Bild","qualifier":"(Benjamin)","band":null,"col":null},
-  {"term":"Kollektivbewusstsein","qualifier":"(Benjamin)","band":"1","col":"920"},
-  {
-   "term":"– I (theol ) 8 932–938 – II (Benjamin) 8 938–941 s. auch",
-   "qualifier":"(Benjamin)",
-   "band":null,
-   "col":null
-  }
+  {"term":"Kollektivbewusstsein","qualifier":"(Benjamin)","band":"1","col":"920"}
  ],
  "persons":[
   {"id":126,"name":"W. Benjamin","b":2,"n":4,"l":0,"editor":0,"role":"source"},

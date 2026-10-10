@@ -28,9 +28,9 @@ HWPH.put("a/635",
  ],
  "outlinks":[],
  "register":[
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"Urdrang","qualifier":"","band":"2","col":"291"},
-  {"term":"Wille","qualifier":"","band":"2","col":"291"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wille","qualifier":"","band":"2","col":"291"}
  ],
  "persons":[
   {"id":177,"name":"L. Klages","b":2,"n":1,"l":0,"editor":0,"role":"source"},

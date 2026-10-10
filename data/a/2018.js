@@ -17,7 +17,7 @@ HWPH.put("a/2018",
  "next":{"id":2019,"lemma":"Monotheismus","band":"6","col":142},
  "backlinks":[{"id":3578,"lemma":"Weltseele","n":1}],
  "outlinks":[],
- "register":[{"term":"III-IV","qualifier":"","band":"6","col":"141"}],
+ "register":[{"term":"Intellectus agens/possibilis","qualifier":"","band":"6","col":"141"}],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":1108,"name":"Ph. Merlan","b":2,"n":2,"l":0,"editor":0,"role":"scholar"},
@@ -84,6 +84,6 @@ HWPH.put("a/2018",
   {"id":9,"name":"Erkenntnistheorie","label":"Monopsychismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Monopsychismus"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -37,13 +37,14 @@ HWPH.put("a/3535",
   {"id":3725,"lemma":"Zweiwertigkeitsprinzip","n":2}
  ],
  "register":[
+  {"term":"Implikation, materiale","qualifier":"","band":"12","col":"177"},
   {"term":"logical matrix","qualifier":"","band":null,"col":null},
   {"term":"Nicodscher Operator","qualifier":"","band":"12","col":"178"},
-  {"term":"performativer 12 700 Implikation, materiale","qualifier":"","band":"12","col":"177"},
   {"term":"Sheffer-Strich","qualifier":"","band":"12","col":"178"},
   {"term":"truth function","qualifier":"","band":null,"col":null},
   {"term":"truth table","qualifier":"","band":null,"col":null},
-  {"term":"W Waagerechte, der","qualifier":"","band":"12","col":"177"}
+  {"term":"W Waagerechte, der","qualifier":"","band":"12","col":"177"},
+  {"term":"Wahrheitstafel","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1780,"name":"E. L. Post","b":3,"n":3,"l":0,"editor":0,"role":"source"},

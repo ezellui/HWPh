@@ -33,14 +33,7 @@ HWPH.put("a/2034",
  "register":[
   {"term":"Leibkörper","qualifier":"II (phän.)","band":"6","col":"221"},
   {"term":"Motivationskausalität","qualifier":"II (phän.)","band":null,"col":null},
-  {"term":"Passivität/Aktivität","qualifier":"II (phän.)","band":"6","col":"221"},
-  {"term":"– II (psych.) 10 1488–1492 s. auch","qualifier":"","band":null,"col":null},
-  {
-   "term":"– III (ästh.) 6 216f. – IV (psych.) 6 217f. s. auch",
-   "qualifier":"I (psych.)",
-   "band":null,
-   "col":null
-  }
+  {"term":"Passivität/Aktivität","qualifier":"II (phän.)","band":"6","col":"221"}
  ],
  "persons":[
   {"id":1641,"name":"H. Heckhausen","b":1,"n":4,"l":1,"editor":0,"role":"scholar"},
@@ -89,7 +82,11 @@ HWPH.put("a/2034",
   {"id":194,"lemma":"Antrieb"},
   {"id":362,"lemma":"Begehren, appetitus naturalis"},
   {"id":635,"lemma":"Drang"},
-  {"id":3620,"lemma":"Wille"}
+  {"id":3620,"lemma":"Wille"},
+  {"id":80,"lemma":"Aktivierung (Aktivation)"},
+  {"id":355,"lemma":"Bedürfnis"},
+  {"id":2033,"lemma":"Motiv"},
+  {"id":3229,"lemma":"Trieb"}
  ],
  "groups":[
   {"id":31,"name":"Phänomenologie","label":"Motivation II (phän.)"},

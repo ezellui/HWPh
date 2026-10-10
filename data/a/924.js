@@ -17,7 +17,7 @@ HWPH.put("a/924",
  "next":{"id":925,"lemma":"Flos substantiae","band":"2","col":959},
  "backlinks":[],
  "outlinks":[{"id":225,"lemma":"Äquifinalität","n":1}],
- "register":[],
+ "register":[{"term":"zeitunabhängiger Zustand","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1087,"name":"L. von Bertalanffy","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":1386,"name":"I. Prigogine","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

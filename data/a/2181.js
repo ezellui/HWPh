@@ -22,8 +22,7 @@ HWPH.put("a/2181",
   {"term":"Generative Transformationsgrammatik","qualifier":"","band":null,"col":null},
   {"term":"initial phrase marker","qualifier":"","band":"6","col":"1024"},
   {"term":"surface structure","qualifier":"","band":null,"col":null},
-  {"term":"Transformationsgrammatik","qualifier":"","band":null,"col":null},
-  {"term":"– III (ling.) 10 323–325 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Transformationsgrammatik","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":345,"name":"N. Chomsky","b":3,"n":6,"l":0,"editor":0,"role":"source"},

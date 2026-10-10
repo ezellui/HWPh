@@ -29,8 +29,7 @@ HWPH.put("a/900",
   {"term":"Resistenz","qualifier":"","band":"2","col":"917"},
   {"term":"Untätigkeit","qualifier":"","band":"2","col":"916"},
   {"term":"ἀργία","qualifier":"","band":"2","col":"916"},
-  {"term":"ὄκνος","qualifier":"","band":"2","col":"916"},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ὄκνος","qualifier":"","band":"2","col":"916"}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":2,"l":0,"editor":0,"role":"source"},

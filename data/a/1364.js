@@ -17,7 +17,7 @@ HWPH.put("a/1364",
  "next":{"id":1365,"lemma":"Identifikation","band":"4","col":138},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"II-III Zweiweltenlehre","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"Zweiweltenlehre","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":37,"name":"F. Schlegel","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":2,"l":0,"editor":0,"role":"source"},

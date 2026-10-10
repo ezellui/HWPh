@@ -31,15 +31,16 @@ HWPH.put("a/3532",
   {"id":3523,"lemma":"Wahrheit","n":1}
  ],
  "register":[
-  {"term":"/Objekt II 10 408 veritas practica","qualifier":"","band":null,"col":null},
   {"term":"intellectus practicus","qualifier":"","band":"12","col":"164"},
   {"term":"moral truth","qualifier":"","band":null,"col":null},
   {"term":"moralische Wahrheit","qualifier":"","band":null,"col":null},
+  {"term":"practical truth","qualifier":"","band":null,"col":null},
   {"term":"praktische Wahrheit","qualifier":"","band":null,"col":null},
   {"term":"scientia practica","qualifier":"","band":"12","col":"164"},
   {"term":"truth aptness","qualifier":"","band":"12","col":"166"},
   {"term":"veracitas","qualifier":"","band":"12","col":"165"},
   {"term":"veritas moralis","qualifier":"","band":null,"col":null},
+  {"term":"veritas practica","qualifier":"","band":null,"col":null},
   {"term":"Vernunft, praktische","qualifier":"","band":null,"col":null},
   {"term":"Wahrhaftigkeit","qualifier":"","band":"12","col":"165"},
   {"term":"ἀλήθεια πρακτική","qualifier":"","band":null,"col":null}

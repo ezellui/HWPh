@@ -22,6 +22,6 @@ HWPH.put("a/1231",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Hayathologie (Hartshorne)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

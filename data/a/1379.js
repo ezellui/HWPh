@@ -26,7 +26,7 @@ HWPH.put("a/1379",
  "outlinks":[],
  "register":[
   {"term":"Aberglaube","qualifier":"","band":"4","col":"190"},
-  {"term":"Drei-Stadien-Gesetz","qualifier":"","band":"4","col":"191"},
+  {"term":"Fortschritt","qualifier":"","band":"4","col":"191"},
   {"term":"Ideologie","qualifier":"","band":"4","col":"191"},
   {"term":"idolatria","qualifier":"","band":null,"col":null},
   {"term":"Idololatrie","qualifier":"","band":null,"col":null},

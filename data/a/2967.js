@@ -36,11 +36,7 @@ HWPH.put("a/2967",
   {"id":17674,"name":"I. Salzinger","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[
-  {"id":95,"lemma":"Algebra"},
-  {"id":253,"lemma":"Ars magna, lullische Kunst"},
-  {"id":485,"lemma":"Characteristica universalis"}
- ],
+ "see_also":[{"id":95,"lemma":"Algebra"},{"id":253,"lemma":"Ars magna, lullische Kunst"}],
  "groups":[{"id":22,"name":"Logik","label":"Speciosa"},{"id":24,"name":"Mathematik","label":"Speciosa"}],
  "reg_authors":[{"name":"Thiel Christian","n":11}]
 }

@@ -25,9 +25,9 @@ HWPH.put("a/1934",
  "backlinks":[{"id":3670,"lemma":"Zahl; Zählen","n":1}],
  "outlinks":[{"id":1147,"lemma":"Gleichheit","n":1},{"id":1640,"lemma":"Kontinuum, Kontinuität","n":1}],
  "register":[
+  {"term":"Messgenauigkeit","qualifier":"","band":"5","col":"1162"},
   {"term":"Skalen","qualifier":"","band":null,"col":null},
-  {"term":"Z zählen","qualifier":"","band":"5","col":"1161"},
-  {"term":"– III (phys.) 5 823–825 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Z zählen","qualifier":"","band":"5","col":"1161"}
  ],
  "persons":[
   {"id":268,"name":"H. v. Helmholtz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -59,7 +59,7 @@ HWPH.put("a/1934",
   {"id":2368,"lemma":"Physik","tf":2},
   {"id":1987,"lemma":"Mittel","tf":2}
  ],
- "see_also":[{"id":1663,"lemma":"Körper, starrer"},{"id":1877,"lemma":"Maß"}],
+ "see_also":[{"id":1663,"lemma":"Körper, starrer"},{"id":1877,"lemma":"Maß"},{"id":1936,"lemma":"Meßprozeß"}],
  "groups":[
   {"id":32,"name":"Physik","label":"Messen"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Messen"}

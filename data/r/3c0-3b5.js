@@ -6,6 +6,11 @@ HWPH.put("r/3c0-3b5",
  ["πείθω","Überreden; Überzeugen","",null,null,"ref",3262,"Überreden; Überzeugen","πειθω"],
  ["πέμπτη οὐσία","Äther","",null,null,"ref",277,"Äther, Quintessenz","πεμπτη ουσια"],
  ["πέμπτη οὐσία","Quintessenz","",null,null,"ref",2559,"Quintessenz","πεμπτη ουσια"],
+ [
+  "πέντε φωναί","Prädikabilien","",null,null,"ref",2425,"Prädikabilien, Prädikabilienlehre",
+  "πεντε φωναι"
+ ],
+ ["πένθος","Trauer; Trauerarbeit","",null,null,"ref",3224,"Trauer; Trauerarbeit","πενθοσ"],
  ["πεποίθησις","Zuversicht","","12","1470f.","ref",3716,"Zuversicht","πεποιθησισ"],
  ["πεπρωμένη","Schicksal","","8","1275","ref",2764,"Schicksal","πεπρωμενη"],
  ["πέψις","Urzeugung","","11","491","ref",3362,"Urzeugung","πεψισ"],
@@ -20,6 +25,6 @@ HWPH.put("r/3c0-3b5",
  ["περισκοπή","Umsicht","",null,null,"ref",3276,"Umsicht","περισκοπη"],
  ["περίστασις","Circumstantia","",null,null,"ref",500,"Circumstantia","περιστασισ"],
  ["περιτροπή","Widerlegung","","12","683","ref",3605,"Widerlegung","περιτροπη"],
- ["περιουσία","Überfluss Perlokution","",null,null,"ref",null,null,"περιουσια"]
+ ["περιουσία","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft","περιουσια"]
 ]
 );

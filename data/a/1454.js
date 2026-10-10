@@ -27,15 +27,16 @@ HWPH.put("a/1454",
  "register":[
   {"term":"Charisma","qualifier":"","band":"4","col":"422"},
   {"term":"idée directrice","qualifier":"","band":"4","col":"419"},
-  {"term":"inneres Internalisierung","qualifier":"","band":"4","col":"422"},
   {"term":"Instinktreduktion","qualifier":"","band":"4","col":"423"},
   {"term":"Institutionalisierung","qualifier":"","band":"4","col":"422"},
+  {"term":"Internalisierung","qualifier":"","band":"4","col":"422"},
   {"term":"Kollektivbewusstsein","qualifier":"","band":"4","col":"421"},
   {"term":"Kultur","qualifier":"","band":"4","col":"421"},
   {"term":"Ordnungsdenken, konkretes (Schmitt)","qualifier":"","band":"4","col":"420"},
   {"term":"Subjektivismus (Gehlen)","qualifier":"","band":"4","col":"423"},
   {"term":"System, kulturelles","qualifier":"","band":"4","col":"422"},
-  {"term":"System, soziales","qualifier":"","band":"4","col":"422"}
+  {"term":"System, soziales","qualifier":"","band":"4","col":"422"},
+  {"term":"Versachlichung","qualifier":"","band":"4","col":"422"}
  ],
  "persons":[
   {"id":237,"name":"T. Parsons","b":1,"n":3,"l":2,"editor":0,"role":"source"},

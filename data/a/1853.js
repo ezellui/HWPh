@@ -17,7 +17,7 @@ HWPH.put("a/1853",
  "next":{"id":1854,"lemma":"Mana","band":"5","col":707},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"X 12 1103f. Durchschnittlichkeit","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"Durchschnittlichkeit","qualifier":"(Heidegger)","band":null,"col":null}],
  "persons":[
   {"id":703,"name":"W. Maihofer","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}
@@ -30,6 +30,6 @@ HWPH.put("a/1853",
  ],
  "see_also":[],
  "groups":[{"id":11,"name":"Existenzphilosophie","label":"Man, das (Heidegger)"}],
- "reg_authors":[{"name":"Probst Peter","n":51}]
+ "reg_authors":[]
 }
 );

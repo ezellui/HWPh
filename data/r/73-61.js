@@ -1,20 +1,10 @@
 HWPH.put("r/73-61",
 [
- ["Satz","Satz","III 1","8","1190","main",2745,"Satz","satz"],
- ["Satz","Subjekt/Prädikat","IV","10","452","ref",3050,"Subjekt/Prädikat","satz"],
- ["Sadismus","Sadismus","","8","1118","main",2734,"Sadismus","sadismus"],
- [
-  "Satz vom (ausgeschlossenen) Widerspruch","Satz vom (ausgeschlossenen) Widerspruch","",null,null,
-  "main",2748,"Satz vom (ausgeschlossenen) Widerspruch","satz vom (ausgeschlossenen) widerspruch"
- ],
- [
-  "Satz vom (ausgeschlossenen) Widerspruch","Widerspruchsfreiheit","",null,null,"ref",3609,
-  "Widerspruchsfreiheit","satz vom (ausgeschlossenen) widerspruch"
- ],
  ["Sabbat des Herzens","Seelenruhe","II","9","96","ref",2797,"Seelenruhe","sabbat des herzens"],
  ["Sabbatianismus","Sabbatianismus","","8","1093","main",2728,"Sabbatianismus","sabbatianismus"],
  ["Sabbatianismus","Antinomismus","II (jüd.)",null,null,"see",186,"Antinomismus","sabbatianismus"],
  ["Sabbatruhe","Seelenruhe","II","9","99","ref",2797,"Seelenruhe","sabbatruhe"],
+ ["Sabellianismus","Modalismus","","6","8","ref",1994,"Modalismus","sabellianismus"],
  ["saber olvidar","Vergessen, das","","11","674","ref",3404,"Vergessen, das","saber olvidar"],
  ["Sabi","Sabi","","8","1093f.","main",2729,"Sabi","sabi"],
  ["Sabi","Yûgen","",null,null,"see",3669,"Yûgen","sabi"],
@@ -64,10 +54,11 @@ HWPH.put("r/73-61",
  ["Sadismus","Perversion","",null,null,"see",2328,"Perversion","sadismus"],
  ["Sadismus","Obszön","","6","1086","ref",2196,"Obszön","sadismus"],
  ["Sadismus, theologischer","Leiden","","5","211","ref",1771,"Leiden","sadismus, theologischer"],
- [
-  "sächlich (ling.)","Genus; Sexus saeculum","",null,null,"ref",991,"Gattung, Genus",
-  "sachlich (ling.)"
- ],
+ ["sächlich (ling.)","Genus; Sexus","",null,null,"ref",991,"Gattung, Genus","sachlich (ling.)"],
+ ["saeculum","Aion","",null,null,"ref",69,"Aion","saeculum"],
+ ["saeculum","Welt","I",null,null,"ref",3557,"Welt","saeculum"],
+ ["saeculum","Ewigkeit","","2","840","ref",854,"Ewigkeit","saeculum"],
+ ["saeculum","Weltalter; Zeitalter","","12","449f.","ref",3559,"Weltalter; Zeitalter","saeculum"],
  [
   "saeculum aureum","Zeitalter, goldenes","",null,null,"ref",3677,"Zeitalter, goldenes",
   "saeculum aureum"
@@ -75,7 +66,12 @@ HWPH.put("r/73-61",
  ["Säfte","Säfte","","8","1119–1126","main",2734,"Sadismus","safte"],
  ["Säfte","Melancholie","",null,null,"see",1915,"Melancholie","safte"],
  ["Säfte","Temperament","I",null,null,"see",3148,"Temperament","safte"],
- ["Säftelehre","Säfte Säkularisation","",null,null,"ref",null,null,"saftelehre"],
+ ["Säftelehre","Säfte","",null,null,"ref",2735,"Säfte, Säftelehre","saftelehre"],
+ [
+  "Säkularisation","Neutralisierungen, Zeitalter der","(Schmitt)",null,null,"ref",2130,
+  "Neutralisierungen, Zeitalter der","sakularisation"
+ ],
+ ["Säkularisation","Säkularisierung","",null,null,"ref",2738,"Säkularisierung","sakularisation"],
  [
   "Säkularisierung","Säkularisierung","","8","1133–1161","main",2738,"Säkularisierung",
   "sakularisierung"
@@ -95,9 +91,10 @@ HWPH.put("r/73-61",
  ],
  ["Sätze, subjektlose","Impersonalien","",null,null,"see",1396,"Impersonalien","satze, subjektlose"],
  [
-  "saevitia","Wildheit; Grausamkeit sagacitas","",null,null,"ref",3619,
-  "Wildheit; Grausamkeit; Rohheit","saevitia"
+  "saevitia","Wildheit; Grausamkeit","",null,null,"ref",3619,"Wildheit; Grausamkeit; Rohheit",
+  "saevitia"
  ],
+ ["sagacitas","Vermutung","I","11","733","ref",3421,"Vermutung","sagacitas"],
  ["Sagazität","Urteil, vorläufiges","","11","473","ref",3358,"Urteil, vorläufiges","sagazitat"],
  ["sagbar","Unsagbare, das","",null,null,"ref",3317,"Unsagbare, das","sagbar"],
  ["Sagen/Zeigen","Zeigen","",null,null,"ref",3675,"Zeigen","sagen/zeigen"],
@@ -115,12 +112,29 @@ HWPH.put("r/73-61",
   "saint-simonismus"
  ],
  [
-  "Saint-Simonismus","Rehabilitation der Materie/des Fleisches sakīna","",null,null,"see",null,null,
+  "Saint-Simonismus","Rehabilitation der Materie/des","",null,null,"see",null,null,
   "saint-simonismus"
  ],
  ["Sakrament","Sakrament","","8","1128–1132","main",2737,"Sakrament","sakrament"],
  ["Sakrament","Mysterium","",null,null,"see",2048,"Mysterium","sakrament"],
- ["Salon","Philosophie","V D",null,null,"ref",2353,"Philosophie","salon"],
+ ["Salon","Philosophie","V D 2 (institut. Formen)",null,null,"ref",2353,"Philosophie","salon"],
+ [
+  "salto mortale","Absolut; das Absolute","","1","18","ref",27,"Absolut, das Absolute",
+  "salto mortale"
+ ],
+ [
+  "salto mortale","Sacrificium intellectus","","8","1115","ref",2733,"Sacrificium intellectus",
+  "salto mortale"
+ ],
+ ["salto mortale","Sprung","","9","1543","ref",2996,"Sprung","salto mortale"],
+ [
+  "salto mortale","Vernunft; Verstand","VI","11","823","ref",3423,"Vernunft; Verstand",
+  "salto mortale"
+ ],
+ [
+  "salto mortale","Wahrheitsgefühl","","12","179","ref",3536,"Wahrheitsgefühl; Wahrheitssinn",
+  "salto mortale"
+ ],
  ["saltus","Sprung","",null,null,"ref",2996,"Sprung","saltus"],
  ["salus","Rettung","I (theol.)","8","934","ref",2700,"Rettung","salus"],
  [
@@ -150,7 +164,8 @@ HWPH.put("r/73-61",
  ["samurai","Bushidô","",null,null,"ref",461,"Bushidô","samurai"],
  ["sancta simplicitas","Einfalt","","2","395","ref",679,"Einfalt","sancta simplicitas"],
  ["sanctio","Sanktion","",null,null,"ref",2741,"Sanktion","sanctio"],
- ["sanctus","Heilig; Heiligkeit Sanftmut","",null,null,"ref",1239,"Heilig, Heiligkeit","sanctus"],
+ ["sanctus","Heilig; Heiligkeit","",null,null,"ref",1239,"Heilig, Heiligkeit","sanctus"],
+ ["Sanftmut","Zorn","II","12","1386","ref",3702,"Zorn","sanftmut"],
  ["Sanguiniker","Temperament","",null,null,"ref",3148,"Temperament","sanguiniker"],
  [
   "sanioritas","Pars sanior/maior I sanitas","",null,null,"ref",2280,"Pars sanior/pars maior",
@@ -164,9 +179,10 @@ HWPH.put("r/73-61",
  ],
  ["sapere aude","Wagen; Wagnis","",null,null,"ref",3516,"Wagen; Wagnis","sapere aude"],
  ["sapientia","Weisheit","",null,null,"ref",3553,"Weisheit","sapientia"],
- ["sapientia","Schweigen; Stille A","","8","1484","ref",2787,"Schweigen, Stille","sapientia"],
+ ["sapientia","Schweigen; Stille","A","8","1484","ref",2787,"Schweigen, Stille","sapientia"],
  ["sapientia","Selbsterkenntnis","II","9","414","ref",2833,"Selbsterkenntnis","sapientia"],
  ["sapientia","Theologie","","10","1083","ref",3169,"Theologie","sapientia"],
+ ["sapientia/eloquentia","Philologie","","7","554","ref",2352,"Philologie","sapientia/eloquentia"],
  [
   "sapientia Christi","Philosophie, christliche","","7","888","ref",2356,"Philosophie, christliche",
   "sapientia christi"
@@ -188,7 +204,11 @@ HWPH.put("r/73-61",
   "sapientia transcendentalis","Transzendental","IV","10","1375","ref",3219,"Transzendental",
   "sapientia transcendentalis"
  ],
- ["sapienza poetica","Wahrheit","",null,null,"ref",3523,"Wahrheit","sapienza poetica"],
+ [
+  "sapienza poetica","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","sapienza poetica"
+ ],
+ ["Sarkiker","Pneumatiker/Psychiker","","7","995","ref",2384,"Pneumatiker/Psychiker","sarkiker"],
  ["satagere","Vielgeschäftigkeit","","11","1039","ref",3461,"Vielgeschäftigkeit","satagere"],
  ["Satan","Teufel","",null,null,"ref",3157,"Teufel","satan"],
  ["Satanskult","Dämonologie","","2","7","ref",521,"Dämonologie","satanskult"],
@@ -214,8 +234,8 @@ HWPH.put("r/73-61",
  ["Satori","Meditation","III (chin.)",null,null,"see",1905,"Meditation","satori"],
  ["Satori","Zen","",null,null,"see",3682,"Zen","satori"],
  ["Sattelzeit","Verzeitlichung","","11","1027","ref",3458,"Verzeitlichung","sattelzeit"],
- ["Satthaben","Überdruss saturation","",null,null,"ref",null,null,"satthaben"],
- ["Sättigung","Sättigung","","8","1174","main",2744,"Sättigung","sattigung"],
+ ["Satthaben","Überdruss","",null,null,"ref",3249,"Überdruß","satthaben"],
+ ["saturation","Sättigung","","8","1174","ref",2744,"Sättigung","saturation"],
  [
   "Saturationspunkt","Weltorientierung; Orientierung","","12","500","ref",3573,
   "Weltorientierung; Orientierung","saturationspunkt"
@@ -252,34 +272,54 @@ HWPH.put("r/73-61",
   "satz der bedeutsamkeit"
  ],
  ["Satz der Identität","Identität","II","4","147","ref",1366,"Identität","satz der identitat"],
- ["Satz der Identität","Logik","",null,null,"ref",1803,"Logik","satz der identitat"],
+ [
+  "Satz der Identität","Logik, philosophische","","5","453f.","ref",1817,
+  "Logik, philosophische, in der Neuzeit","satz der identitat"
+ ],
+ ["Satz der Immanenz","Immanenz","","4","228","ref",1390,"Immanent, Immanenz","satz der immanenz"],
  [
   "Satz der Phänomenalität","Satz der Phänomenalität","(Dilthey)","8","1195–1198","main",2746,
   "Satz der Phänomenalität","satz der phanomenalitat"
  ],
  [
-  "Satz der Phänomenalität","Realität der Aussenwelt Satz des Bewusstseins","",null,null,"see",null,
-  null,"satz der phanomenalitat"
+  "Satz der Phänomenalität","Realität der Aussenwelt","",null,null,"see",2593,
+  "Realität der Außenwelt","satz der phanomenalitat"
  ],
  [
-  "Satz der Phänomenalität","Satz der Phänomenalität","(Dilthey)",null,null,"main",2746,
-  "Satz der Phänomenalität","satz der phanomenalitat"
+  "Satz des Bewusstseins","Satz der Phänomenalität","(Dilthey)",null,null,"ref",2746,
+  "Satz der Phänomenalität","satz des bewusstseins"
  ],
  [
-  "Satz der Phänomenalität","Kategorie; Kategorienlehre","IV","4","730","ref",1540,
-  "Kategorie, Kategorienlehre","satz der phanomenalitat"
+  "Satz des Bewusstseins","Kategorie; Kategorienlehre","IV","4","730","ref",1540,
+  "Kategorie, Kategorienlehre","satz des bewusstseins"
  ],
  [
-  "Satz der Phänomenalität","Prinzip","III 5","7","1366f.","ref",2458,"Prinzip",
-  "satz der phanomenalitat"
+  "Satz des Bewusstseins","Prinzip","III 5","7","1366f.","ref",2458,"Prinzip",
+  "satz des bewusstseins"
  ],
- ["Satz der Phänomenalität","Subjekt","II","10","383","ref",3047,"Subjekt","satz der phanomenalitat"],
- ["Satz der Phänomenalität","Subjekt","",null,null,"ref",3047,"Subjekt","satz der phanomenalitat"],
+ ["Satz des Bewusstseins","Subjekt","II","10","383","ref",3047,"Subjekt","satz des bewusstseins"],
+ [
+  "Satz des Bewusstseins","Subjekt/Objekt","IV","10","415f.","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","satz des bewusstseins"
+ ],
+ [
+  "Satz des Bewusstseins","Vorstellung","I B","11","1232","ref",3503,"Vorstellung",
+  "satz des bewusstseins"
+ ],
+ ["Satz des Bewusstseins","Wahrheit","V A","12","88","ref",3523,"Wahrheit","satz des bewusstseins"],
  [
   "Satz des zureichenden Grundes","Principium rationis sufficientis","",null,null,"ref",2457,
   "Principium rationis sufficientis","satz des zureichenden grundes"
  ],
- ["Satz","Satz","",null,null,"main",2745,"Satz","satz"],
+ [
+  "Satz vom (ausgeschlossenen)Widerspruch","Satz vom (ausgeschlossenen)Widerspruch","","8",
+  "1202- 1205","main",2748,"Satz vom (ausgeschlossenen) Widerspruch",
+  "satz vom (ausgeschlossenen)widerspruch"
+ ],
+ [
+  "Satz vom (ausgeschlossenen)Widerspruch","Widerspruchsfreiheit","",null,null,"see",3609,
+  "Widerspruchsfreiheit","satz vom (ausgeschlossenen)widerspruch"
+ ],
  [
   "Satz vom ausgeschlossenen Dritten","Satz vom ausgeschlossenen Dritten","","8","1198–1202","main",
   2747,"Satz vom ausgeschlossenen Dritten","satz vom ausgeschlossenen dritten"
@@ -329,19 +369,20 @@ HWPH.put("r/73-61",
  ["Satzmelodie","Satz","III 1","8","1189","ref",2745,"Satz","satzmelodie"],
  ["Satzradikal","Neustik/Phrastik","I","6","775","ref",2126,"Neustik/Phrastik","satzradikal"],
  [
-  "Satzung","Physis/Nomos; Physis/Thesis Satzzeichen","",null,null,"ref",2374,
-  "Physis/Nomos, Physis/Thesis","satzung"
+  "Satzung","Physis/Nomos; Physis/Thesis","",null,null,"ref",2374,"Physis/Nomos, Physis/Thesis",
+  "satzung"
  ],
- ["Satz","Satz","III",null,null,"main",2745,"Satz","satz"],
+ ["Satzzeichen","Satz","III 3 (Wittgenstein)",null,null,"ref",2745,"Satz","satzzeichen"],
+ ["sauvage (ästh.)","Genie","I","3","281","ref",1071,"Genie","sauvage (asth.)"],
  [
-  "savageness; savagery","Wildheit; Grausamkeit saving the phaenomena","",null,null,"ref",3619,
+  "savageness; savagery","Wildheit; Grausamkeit","",null,null,"ref",3619,
   "Wildheit; Grausamkeit; Rohheit","savageness; savagery"
  ],
- ["šālôm","Friede","",null,null,"ref",955,"Friede","salom"],
  [
-  "Säkularisierung","Säkularisierung","","8","1141f.","main",2738,"Säkularisierung",
-  "sakularisierung"
+  "saving the phaenomena","Rettung der Phänomene","",null,null,"ref",2701,"Rettung der Phänomene",
+  "saving the phaenomena"
  ],
+ ["šālôm","Friede","",null,null,"ref",955,"Friede","salom"],
  ["Saake Helmut","Pneumatik","","7","995","author",2383,"Pneumatik","saake helmut"],
  ["Saarinen Risto","Vorherwissen","","11","1190–1193","author",3494,"Vorherwissen","saarinen risto"],
  [
@@ -394,7 +435,7 @@ HWPH.put("r/73-61",
   "sandkuhler hans jorg"
  ],
  [
-  "Sandkühler Hans Jörg","Identitätssystem (Schelling)","","4","153–157","author",1370,
+  "Sandkühler Hans Jörg","Identitätssystem","(Schelling)","4","153–157","author",1370,
   "Identitätssystem, Identität, Indifferenz","sandkuhler hans jorg"
  ],
  [

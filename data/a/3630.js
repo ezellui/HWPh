@@ -22,7 +22,13 @@ HWPH.put("a/3630",
   {"id":2962,"lemma":"Sparsamkeitsprinzip","n":2},
   {"id":3145,"lemma":"Teleologie; teleologisch","n":1}
  ],
- "register":[{"term":"Ökonomie des Denkens","qualifier":"","band":"12","col":"848"}],
+ "register":[
+  {"term":"Ökonomie des Denkens","qualifier":"","band":"12","col":"848"},
+  {"term":"principe de la moindre action","qualifier":"","band":null,"col":null},
+  {"term":"principle of least action","qualifier":"","band":null,"col":null},
+  {"term":"Prinzip der kleinsten Aktion","qualifier":"","band":null,"col":null},
+  {"term":"Prinzip der kleinsten Wirkung","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":484,"name":"L. Euler","b":3,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":899,"name":"P. L. M. de Maupertuis","b":4,"n":1,"l":0,"editor":0,"role":"source"},

@@ -22,6 +22,7 @@ HWPH.put("a/710",
  ],
  "outlinks":[],
  "register":[
+  {"term":"Elenktik","qualifier":"","band":null,"col":null},
   {"term":"ignoratio elenchi","qualifier":"","band":"2","col":"442"},
   {"term":"ἔλεγχος","qualifier":"","band":null,"col":null},
   {"term":"ὁμολογία","qualifier":"","band":"2","col":"442"}

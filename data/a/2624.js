@@ -98,7 +98,11 @@ HWPH.put("a/2624",
   {"id":1631,"lemma":"Konstruktion","tf":2},
   {"id":666,"lemma":"Eigenschaft","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":121,"lemma":"Anagogé, Apagogé, Epagogé"},
+  {"id":126,"lemma":"Analyse/Synthese"},
+  {"id":2623,"lemma":"Reductio ad absurdum"}
+ ],
  "groups":[
   {"id":22,"name":"Logik","label":"Reduktion I (log.)"},
   {"id":28,"name":"Naturphilosophie","label":"Reduktion II (nat.)"}

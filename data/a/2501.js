@@ -22,7 +22,7 @@ HWPH.put("a/2501",
   {"id":3409,"lemma":"Verifikation","n":1}
  ],
  "register":[
-  {"term":"kritischer (Popper) 8 51 falsifizierbar","qualifier":"(Carnap)","band":null,"col":null},
+  {"term":"falsifizierbar","qualifier":"(Carnap)","band":null,"col":null},
   {"term":"testability","qualifier":"(Carnap)","band":null,"col":null},
   {"term":"überprüfbar","qualifier":"(Carnap)","band":null,"col":null}
  ],

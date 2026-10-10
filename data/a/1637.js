@@ -166,13 +166,21 @@ HWPH.put("a/1637",
   {"id":3310,"lemma":"Universum","tf":3},
   {"id":2760,"lemma":"Schema, Schematismus","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":2005,"lemma":"Möglichkeit"},
+  {"id":2171,"lemma":"Notwendigkeit"},
+  {"id":3350,"lemma":"Ursache/Wirkung"},
+  {"id":3706,"lemma":"Zufall"},
+  {"id":3117,"lemma":"Systemtheorie; System, soziales"},
+  {"id":1997,"lemma":"Modallogik"},
+  {"id":3558,"lemma":"Welt, mögliche"}
+ ],
  "groups":[
   {"id":22,"name":"Logik","label":"Kontingenz III (log.)"},
   {"id":26,"name":"Metaphysik","label":"Kontingenz I (philos.)"},
   {"id":42,"name":"Soziologie","label":"Kontingenz II (Luhmann)"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Kontingenz III (log.)"}
  ],
- "reg_authors":[{"name":"Brugger Walter","n":2},{"name":"Hoering Walter","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Brugger Walter","n":2},{"name":"Hoering Walter","n":1},{"name":"Red","n":241}]
 }
 );

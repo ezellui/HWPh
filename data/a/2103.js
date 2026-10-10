@@ -70,6 +70,6 @@ HWPH.put("a/2103",
  ],
  "see_also":[{"id":3459,"lemma":"Verzweiflung"}],
  "groups":[{"id":34,"name":"Psychiatrie","label":"Negativismus"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

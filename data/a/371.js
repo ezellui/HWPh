@@ -18,13 +18,8 @@ HWPH.put("a/371",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {
-   "term":"des Geistes/des Lebens (Dilthey) 6 1056 objektiver Idealismus",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
-  {"term":"Idealismus, objektiver","qualifier":"","band":null,"col":null}
+  {"term":"Idealismus, objektiver","qualifier":"","band":null,"col":null},
+  {"term":"objektiver Idealismus","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},

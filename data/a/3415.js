@@ -34,9 +34,9 @@ HWPH.put("a/3415",
   {"term":"désir métaphysique","qualifier":"","band":"11","col":"718"},
   {"term":"desire","qualifier":"","band":null,"col":null},
   {"term":"longing","qualifier":"","band":null,"col":null},
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"Vereinigungsphilosophie","qualifier":"","band":"11","col":"717"},
-  {"term":"ἔρως","qualifier":"","band":"11","col":"716"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἔρως","qualifier":"","band":"11","col":"716"}
  ],
  "persons":[
   {"id":687,"name":"G. Deleuze","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -102,16 +102,7 @@ HWPH.put("a/3415",
   {"id":3708,"lemma":"Zukunft; Vergangenheit","tf":2},
   {"id":695,"lemma":"Einzelne","tf":2}
  ],
- "see_also":[
-  {"id":362,"lemma":"Begehren, appetitus naturalis"},
-  {"id":566,"lemma":"Desiderium naturale"},
-  {"id":1616,"lemma":"Konkupiszenz"},
-  {"id":2804,"lemma":"Sehnsucht"},
-  {"id":3038,"lemma":"Streben"},
-  {"id":3069,"lemma":"Sucht"},
-  {"id":3229,"lemma":"Trieb"},
-  {"id":3661,"lemma":"Wunsch"}
- ],
+ "see_also":[{"id":362,"lemma":"Begehren, appetitus naturalis"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Verlangen"}],
  "reg_authors":[{"name":"Bertram Georg W","n":1}]
 }

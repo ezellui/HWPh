@@ -44,6 +44,7 @@ HWPH.put("a/1624",
   {"term":"Antitypie (Leibniz)","qualifier":"III","band":"4","col":"999"},
   {"term":"arbor porphyriana","qualifier":"I","band":"4","col":"993"},
   {"term":"causa essendi","qualifier":"II","band":"4","col":"994"},
+  {"term":"Charakter","qualifier":"III","band":null,"col":null},
   {"term":"constitutio","qualifier":"","band":null,"col":null},
   {"term":"constitution","qualifier":"","band":null,"col":null},
   {"term":"differentia constitutiva","qualifier":"I","band":"4","col":"993"},
@@ -64,8 +65,7 @@ HWPH.put("a/1624",
   {"term":"vernünfteln","qualifier":"III","band":"4","col":"1000f."},
   {"term":"διαφορά","qualifier":"I","band":"4","col":"993"},
   {"term":"διαφορὰσυστατική","qualifier":"I","band":"4","col":"993"},
-  {"term":"σύστασις","qualifier":"","band":null,"col":null},
-  {"term":"– III (biol.) 5 1155f. Merkmal","qualifier":"III","band":null,"col":null}
+  {"term":"σύστασις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":261,"name":"Porphyrios","b":5,"n":4,"l":0,"editor":0,"role":"source"},
@@ -178,6 +178,6 @@ HWPH.put("a/1624",
  ],
  "see_also":[{"id":939,"lemma":"Form und Materie (Stoff)"},{"id":3327,"lemma":"Unterschied"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Konstitution"}],
- "reg_authors":[{"name":"Hogrebe Wolfram","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Hogrebe Wolfram","n":2},{"name":"Red","n":241}]
 }
 );

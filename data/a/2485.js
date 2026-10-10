@@ -25,11 +25,10 @@ HWPH.put("a/2485",
  "register":[
   {"term":"Akzidens","qualifier":"","band":null,"col":null},
   {"term":"Art/Gattung","qualifier":"","band":"7","col":"1526"},
-  {"term":"das (Heidegger) Eigentümliche, das","qualifier":"","band":null,"col":null},
+  {"term":"Charakter","qualifier":"","band":null,"col":null},
   {"term":"Definiens","qualifier":"","band":null,"col":null},
-  {"term":"ἴδιον","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 2 334 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (biol.) 5 1155f. Merkmal","qualifier":"","band":null,"col":null}
+  {"term":"Eigentümliche, das","qualifier":"","band":null,"col":null},
+  {"term":"ἴδιον","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":2,"l":0,"editor":0,"role":"source"},

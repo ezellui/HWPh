@@ -1,16 +1,5 @@
 HWPH.put("r/65-69",
 [
- ["Eigenschaft","Eigenschaft","I (met.)","2","334","main",666,"Eigenschaft","eigenschaft"],
- [
-  "Einbildungskraft","Einbildungskraft","II","2","354","main",673,"Einbildung, Einbildungskraft",
-  "einbildungskraft"
- ],
- ["Einfluss","Einfluss","","2","396","main",680,"Einfluß","einfluss"],
- ["Einsamkeit","Einsamkeit","II","2","411","main",688,"Einsamkeit","einsamkeit"],
- [
-  "Einsamkeit","Konformismus/Nonkonformismus","","4","958","ref",1610,
-  "Konformismus (Konformität)/Nonkonformismus","einsamkeit"
- ],
  ["Eid","Eid","","2","326–329","main",658,"Eid","eid"],
  [
   "Eid, Hippokratischer","Pythagoreismus","III","7","1732","ref",2539,"Pythagoreismus",
@@ -35,6 +24,7 @@ HWPH.put("r/65-69",
   "eidetische variation"
  ],
  ["Eidographie","Philosophie","IV B","7","697","ref",2353,"Philosophie","eidographie"],
+ ["eidola","Abbildtheorie","","1","1","ref",18,"Abbildtheorie","eidola"],
  ["Eidolologie","Eidolologie","(Herbart)","2","329f.","main",660,"Eidolologie","eidolologie"],
  ["Eidolologie","Synechologie","",null,null,"see",3105,"Synechologie","eidolologie"],
  [
@@ -43,8 +33,8 @@ HWPH.put("r/65-69",
  ],
  ["Eidolon; Eikon","Bild","",null,null,"see",431,"Bild","eidolon; eikon"],
  [
-  "Eidolon; Eikon","Paradigma; exemplar ἐιδοποιὸς διαφορά","",null,null,"see",2269,
-  "Paradigma, exemplar","eidolon; eikon"
+  "Eidolon; Eikon","Paradigma; exemplar","",null,null,"see",2269,"Paradigma, exemplar",
+  "eidolon; eikon"
  ],
  ["Eidos","Reduktion, eidetische","(Husserl)","8","374f.","ref",2625,"Reduktion, eidetische","eidos"],
  ["Eifersucht","Neid","","6","700","ref",2105,"Neid","eifersucht"],
@@ -79,9 +69,12 @@ HWPH.put("r/65-69",
  ["Eigenname","Name","III",null,null,"see",2066,"Name","eigenname"],
  ["Eigenname","Nominator","",null,null,"see",2151,"Nominator","eigenname"],
  [
-  "Eigenname","Referenz; Referenztheorie Eigenname","",null,null,"see",2632,
-  "Referenz, Referenztheorie","eigenname"
+  "Eigenname","Referenz; Referenztheorie","",null,null,"see",2632,"Referenz, Referenztheorie",
+  "eigenname"
  ],
+ ["Eigenname","Nominalismus","II",null,null,"ref",2150,"Nominalismus","eigenname"],
+ ["Eigenname","Zitat","II (sprach.)",null,null,"ref",3697,"Zitat","eigenname"],
+ ["Eigenname","Denotation","","2","113","ref",560,"Denotation","eigenname"],
  ["Eigennutz","Eigennutz","","2","333f.","main",664,"Eigennutz","eigennutz"],
  ["Eigennutz","Egoismus","I (eth.)",null,null,"see",650,"Egoismus","eigennutz"],
  ["Eigennutz","Interesse","",null,null,"see",1475,"Interesse","eigennutz"],
@@ -100,6 +93,32 @@ HWPH.put("r/65-69",
  ],
  ["Eigenpsychisch","Solipsismus","",null,null,"see",2918,"Solipsismus","eigenpsychisch"],
  ["Eigenschaft","Eigenschaft","","2","334–339","main",666,"Eigenschaft","eigenschaft"],
+ [
+  "Eigenschaft","Beziehung, interne/externe","",null,null,"see",427,"Beziehung, interne/externe",
+  "eigenschaft"
+ ],
+ ["Eigenschaft","Merkmal","",null,null,"see",1930,"Merkmal","eigenschaft"],
+ ["Eigenschaft","Proprium","",null,null,"see",2485,"Proprium","eigenschaft"],
+ ["Eigenschaft","Qualität","",null,null,"see",2544,"Qualität","eigenschaft"],
+ ["Eigenschaft","Substanz","",null,null,"see",3062,"Substanz; Substanz/Akzidens","eigenschaft"],
+ ["Eigenschaft","Wesen","V",null,null,"see",3595,"Wesen","eigenschaft"],
+ ["Eigenschaft","Wesenseigenschaft","",null,null,"see",3599,"Wesenseigenschaft","eigenschaft"],
+ [
+  "Eigenschaft","Amour-propre","",null,null,"see",118,"Amour-propre, amour de soi(-même)",
+  "eigenschaft"
+ ],
+ [
+  "Eigenschaft","Desappropriatio","",null,null,"see",565,"Desappropriatio, expropriatio (sui)",
+  "eigenschaft"
+ ],
+ ["Eigenschaft","Eigenwille","",null,null,"see",671,"Eigenwille, Eigensinn","eigenschaft"],
+ ["Eigenschaft","Properheit","",null,null,"see",2480,"Properheit","eigenschaft"],
+ ["Eigenschaft","Selbstheit","",null,null,"see",2839,"Selbstheit","eigenschaft"],
+ ["Eigenschaft","Bezugssystem","",null,null,"see",429,"Bezugssystem","eigenschaft"],
+ ["Eigenschaft","Charakterologie","",null,null,"see",488,"Charakterologie","eigenschaft"],
+ ["Eigenschaft","Disposition","II (psych.)",null,null,"see",613,"Disposition","eigenschaft"],
+ ["Eigenschaft","Gestaltqualität","",null,null,"see",1120,"Gestaltqualität","eigenschaft"],
+ ["Eigenschaft","Halo","",null,null,"see",1216,"Halo","eigenschaft"],
  ["Eigenschaft","Ding","","2","250f.","ref",603,"Ding","eigenschaft"],
  ["Eigenschaft","Immanenz","","4","229","ref",1390,"Immanent, Immanenz","eigenschaft"],
  ["Eigenschaft","Prädikation","I","7","1206","ref",2427,"Prädikation","eigenschaft"],
@@ -165,28 +184,26 @@ HWPH.put("r/65-69",
   "Analytik des Daseins","eigentlichkeit/uneigentlichkeit"
  ],
  [
-  "Eigentlichkeit/Uneigentlichkeit","Man","",null,null,"see",1853,"Man",
+  "Eigentlichkeit/Uneigentlichkeit","Man, das","(Heidegger)",null,null,"see",1853,"Man",
   "eigentlichkeit/uneigentlichkeit"
  ],
+ ["Eigentümliche, das","Proprium","",null,null,"ref",2485,"Proprium","eigentumliche, das"],
  ["Eigentum","Eigentum","","2","339–342","main",668,"Eigentum","eigentum"],
  ["Eigentum","Besitz","",null,null,"see",396,"Besitz","eigentum"],
- ["Eigentum","Habe; Haben Eigentum","",null,null,"see",1207,"Habe, Haben","eigentum"],
- ["Einzige, der","Einzige, der","","2","428","main",697,"Einzige, Einzigkeit","einzige, der"],
- ["Einzige, der","Gewalt","","3","564f.","ref",1127,"Gewalt","einzige, der"],
+ ["Eigentum","Habe; Haben","",null,null,"see",1207,"Habe, Haben","eigentum"],
+ ["Eigentum","Einzige, der","","2","428","ref",697,"Einzige, Einzigkeit","eigentum"],
+ ["Eigentum","Gewalt","","3","564f.","ref",1127,"Gewalt","eigentum"],
  [
-  "Einzige, der","Handelsstaat, geschlossener","(Fichte)","3","996","ref",1220,
-  "Handelsstaat, geschlossener","einzige, der"
+  "Eigentum","Handelsstaat, geschlossener","(Fichte)","3","996","ref",1220,
+  "Handelsstaat, geschlossener","eigentum"
  ],
- ["Einzige, der","Malum","VI","5","688","ref",1852,"Malum","einzige, der"],
- ["Einzige, der","Sache","II","8","1097","ref",2730,"Sache","einzige, der"],
+ ["Eigentum","Malum","VI","5","688","ref",1852,"Malum","eigentum"],
+ ["Eigentum","Sache","II","8","1097","ref",2730,"Sache","eigentum"],
  [
   "Eigentum (theol.)","Eigenschaft","II (theol.)",null,null,"ref",666,"Eigenschaft",
   "eigentum (theol.)"
  ],
- [
-  "Eigentumsherr","Despotie I (allg.)","","2","133","ref",571,"Despotie, Despotismus",
-  "eigentumsherr"
- ],
+ ["Eigentumsherr","Despotie","I (allg.)","2","133","ref",571,"Despotie, Despotismus","eigentumsherr"],
  [
   "Eigentumsrecht","Rechte des Menschen; Menschenrechte","","8","246f.","ref",2600,
   "Rechte des Menschen, Menschenrechte","eigentumsrecht"
@@ -194,7 +211,7 @@ HWPH.put("r/65-69",
  ["Eigenwelt","Eigenwelt","(Uexküll)","2","342","main",669,"Eigenwelt","eigenwelt"],
  ["Eigenwelt","Eigenzeit","(Uexküll)",null,null,"see",672,"Eigenzeit","eigenwelt"],
  [
-  "Eigenwelt","Merkwelt; Merkmal (Uexküll)","",null,null,"see",1931,"Merkwelt, Merkmal, Merkzeichen",
+  "Eigenwelt","Merkwelt; Merkmal","(Uexküll)",null,null,"see",1931,"Merkwelt, Merkmal, Merkzeichen",
   "eigenwelt"
  ],
  ["Eigenwelt","Umwelt","",null,null,"see",3278,"Umwelt","eigenwelt"],
@@ -215,7 +232,7 @@ HWPH.put("r/65-69",
  ["Eigenzeit","Eigenzeit","(Uexküll)","2","345f.","main",672,"Eigenzeit","eigenzeit"],
  ["Eigenzeit","Eigenwelt","(Uexküll)",null,null,"see",669,"Eigenwelt","eigenzeit"],
  ["Eigenzeit","Moment","III (psych.)",null,null,"see",2009,"Moment","eigenzeit"],
- ["Eile","Übereilung ἐιλικρίνεια","",null,null,"ref",null,null,"eile"],
+ ["Eile","Übereilung","",null,null,"ref",3250,"Übereilung; Voreiligkeit","eile"],
  ["Ein-/Ausatmen","Systole/Diastole","","10","871","ref",3118,"Systole/Diastole","ein-/ausatmen"],
  ["Einbildung","Einbildungskraft","",null,null,"ref",673,"Einbildung, Einbildungskraft","einbildung"],
  [
@@ -231,7 +248,7 @@ HWPH.put("r/65-69",
  ],
  ["Einbildungskraft","Phantasia","",null,null,"see",2348,"Phantasia","einbildungskraft"],
  [
-  "Einbildungskraft","Produktion III (ästh.)","",null,null,"see",2469,"Produktion, Produktivität",
+  "Einbildungskraft","Produktion","III (ästh.)",null,null,"see",2469,"Produktion, Produktivität",
   "einbildungskraft"
  ],
  [
@@ -243,7 +260,7 @@ HWPH.put("r/65-69",
   "Einbildungskraft","Absolut; das Absolute","","1","20","ref",27,"Absolut, das Absolute",
   "einbildungskraft"
  ],
- ["Einbildungskraft","Dialektik","IV",null,null,"ref",583,"Dialektik","einbildungskraft"],
+ ["Einbildungskraft","Dialektik","IV 1. 2","2","187","ref",583,"Dialektik","einbildungskraft"],
  ["Einbildungskraft","Geist","VII","3","184","ref",1030,"Geist","einbildungskraft"],
  ["Einbildungskraft","Genie","III","3","297","ref",1071,"Genie","einbildungskraft"],
  [
@@ -251,7 +268,7 @@ HWPH.put("r/65-69",
   "Passivität, passive Synthesis","einbildungskraft"
  ],
  [
-  "Einbildungskraft","Produktion I (nat.)","","7","1421f.","ref",2469,"Produktion, Produktivität",
+  "Einbildungskraft","Produktion","I (nat.)","7","1421f.","ref",2469,"Produktion, Produktivität",
   "einbildungskraft"
  ],
  ["Einbildungskraft","Seele","II","9","16","ref",2794,"Seele","einbildungskraft"],
@@ -284,6 +301,11 @@ HWPH.put("r/65-69",
   "eindimensionalitat"
  ],
  ["Eindruck","Eindruck","","2","358–360","main",674,"Eindruck","eindruck"],
+ ["Eindruck","Archetypus","",null,null,"see",239,"Archetypus","eindruck"],
+ ["Eindruck","Empfindung","",null,null,"see",723,"Empfindung","eindruck"],
+ ["Eindruck","Urimpression","(Husserl)",null,null,"see",3343,"Urimpression","eindruck"],
+ ["Eindruck","Ausdruck","III (psych.)",null,null,"see",298,"Ausdruck","eindruck"],
+ ["Eindruck","Halo","",null,null,"see",1216,"Halo","eindruck"],
  [
   "Eindruck/Ausdruck","Symbolische Form","(Cassirer)","10","739","ref",3094,"Symbolische Form",
   "eindruck/ausdruck"
@@ -317,7 +339,21 @@ HWPH.put("r/65-69",
   "eine, das; einheit"
  ],
  ["Eine, das; Einheit","Vielheit","",null,null,"see",3462,"Vielheit","eine, das; einheit"],
- ["Eine, das; Einheit","Zahl Eine, das","",null,null,"see",null,null,"eine, das; einheit"],
+ ["Eine, das; Einheit","Zahl","",null,null,"see",3670,"Zahl; Zählen","eine, das; einheit"],
+ ["Eine, das","Emanation","",null,null,"ref",714,"Emanation","eine, das"],
+ ["Eine, das","Sein; Seiendes","II",null,null,"ref",2806,"Sein; Seiendes","eine, das"],
+ ["Eine, das","Transzendenz","I",null,null,"ref",3223,"Transzendenz; Transzendieren","eine, das"],
+ ["Eine, das","Wahrheit","I B",null,null,"ref",3523,"Wahrheit","eine, das"],
+ ["Eine, das","Akt/Potenz","","1","138","ref",83,"Akt/Potenz","eine, das"],
+ ["Eine, das","Andersheit","","1","298","ref",138,"Andersheit, Anderssein","eine, das"],
+ ["Eine, das","Angleichung an Gott","","1","308","ref",143,"Angleichung an Gott","eine, das"],
+ ["Eine, das","Etwas","","2","815","ref",841,"Etwas","eine, das"],
+ ["Eine, das","Freiheit","I","2","1072","ref",946,"Freiheit","eine, das"],
+ ["Eine, das","Gegensatz","I (met.)","3","109f.","ref",1018,"Gegensatz","eine, das"],
+ ["Eine, das","Gott","VI","3","743f.","ref",1162,"Gott","eine, das"],
+ ["Eine, das","Sein; Seiendes","I 2","9","177","ref",2806,"Sein; Seiendes","eine, das"],
+ ["Eine, das","Unsagbare, das","","11","257","ref",3317,"Unsagbare, das","eine, das"],
+ ["Eine, das","Vernunft; Verstand","II","11","760","ref",3423,"Vernunft; Verstand","eine, das"],
  ["Eine, einige","Trinität","I","10","1502","ref",3231,"Trinität","eine, einige"],
  ["Eine in uns","Erleuchtung","","2","715","ref",807,"Erleuchtung","eine in uns"],
  [
@@ -325,9 +361,16 @@ HWPH.put("r/65-69",
   "eineindeutig"
  ],
  [
-  "Einengung des Bewusstseins","Bewusstseinsstörung Einerleiheit","",null,null,"ref",null,null,
+  "Einengung des Bewusstseins","Bewusstseinsstörung","",null,null,"ref",420,"Bewußtseinsstörung",
   "einengung des bewusstseins"
  ],
+ ["Einerleiheit","Reflexionsbegriffe","",null,null,"ref",2635,"Reflexionsbegriffe","einerleiheit"],
+ ["Einerleiheit","Dasein","","2","17","ref",527,"Dasein","einerleiheit"],
+ [
+  "Einerleiheit","Identitätssystem","(Schelling)","4","155","ref",1370,
+  "Identitätssystem, Identität, Indifferenz","einerleiheit"
+ ],
+ ["Einerleiheit","Reflexion","","8","397","ref",2634,"Reflexion","einerleiheit"],
  ["einfach","Einfalt","",null,null,"ref",679,"Einfalt","einfach"],
  ["einfach","Eine, das; Einheit","III","2","382","ref",675,"Eine (das), Einheit","einfach"],
  ["einfach","Intuition","","4","529","ref",1487,"Intuition","einfach"],
@@ -341,8 +384,12 @@ HWPH.put("r/65-69",
   "einfach/zusammengesetzt"
  ],
  [
-  "Einfach/zusammengesetzt","Individuum; Atom einfach/zusammengesetzt (log.)","",null,null,"see",
-  1424,"Individuum, Individualität","einfach/zusammengesetzt"
+  "Einfach/zusammengesetzt","Individuum; Atom","",null,null,"see",1424,"Individuum, Individualität",
+  "einfach/zusammengesetzt"
+ ],
+ [
+  "einfach/zusammengesetzt (log.)","Incomplexum/complexum","",null,null,"ref",1407,
+  "Incomplexum/complexum","einfach/zusammengesetzt (log.)"
  ],
  ["Einfache, das","Leben","IV","5","69","ref",1735,"Leben","einfache, das"],
  ["einfache Idee","Idee, einfache","",null,null,"ref",1362,"Idee, einfache","einfache idee"],
@@ -382,7 +429,7 @@ HWPH.put("r/65-69",
  ["Einfall","Ingenium","",null,null,"see",1436,"Ingenium","einfall"],
  ["Einfall","Intuition","",null,null,"see",1487,"Intuition","einfall"],
  [
-  "Einfall","Invention; Erfindung II (ästh.)","",null,null,"see",1490,
+  "Einfall","Invention; Erfindung","II (ästh.)",null,null,"see",1490,
   "Invention, Erfindung, Entdeckung","einfall"
  ],
  ["Einfall","Scharfsinn","",null,null,"see",2753,"Scharfsinn","einfall"],
@@ -396,7 +443,11 @@ HWPH.put("r/65-69",
   "einfaltung"
  ],
  ["Einfluss","Einfluss","","2","395f.","main",680,"Einfluß","einfluss"],
- ["Einfluss","Influxus physicus Einfluss","",null,null,"see",null,null,"einfluss"],
+ [
+  "Einfluss","Influxus physicus","",null,null,"see",1431,"Influxus physicus, Influxionismus",
+  "einfluss"
+ ],
+ ["Einfluss","Macht","II (allg.)","5","612f.","ref",1844,"Macht","einfluss"],
  ["Einfühlung","Einfühlung","","2","396f.","main",681,"Einfühlung","einfuhlung"],
  ["Einfühlung","Abstraktion","VI",null,null,"see",31,"Abstraktion","einfuhlung"],
  ["Einfühlung","Einfühlungsästhetik","",null,null,"see",682,"Einfühlungsästhetik","einfuhlung"],
@@ -443,10 +494,8 @@ HWPH.put("r/65-69",
  ],
  ["Einheit/Vielheit","Allheit","",null,null,"ref",103,"Allheit","einheit/vielheit"],
  ["Einheit/Vielheit","Monopluralismus","",null,null,"ref",2017,"Monopluralismus","einheit/vielheit"],
- [
-  "Einheit/Vielheit","Zahl II Einheit/Vielheit (ind.)","",null,null,"ref",null,null,
-  "einheit/vielheit"
- ],
+ ["Einheit/Vielheit","Zahl","II",null,null,"ref",3670,"Zahl; Zählen","einheit/vielheit"],
+ ["Einheit/Vielheit (ind.)","Advaita","",null,null,"ref",50,"Advaita","einheit/vielheit (ind.)"],
  [
   "Einheit, einheitliche/vielheitliche","Vielheit","III","11","1053","ref",3462,"Vielheit",
   "einheit, einheitliche/vielheitliche"
@@ -460,8 +509,12 @@ HWPH.put("r/65-69",
   "einheit, unbegriffene"
  ],
  [
-  "Einheit der Apperzeption","Bewusstsein, transzendentales Einheit der Gegensätze","",null,null,
-  "ref",412,"Bewußtsein","einheit der apperzeption"
+  "Einheit der Apperzeption","Bewusstsein, transzendentales","",null,null,"ref",421,
+  "Bewußtsein, transzendentales","einheit der apperzeption"
+ ],
+ [
+  "Einheit der Gegensätze","Gegensatz","I (met.)",null,null,"ref",1018,"Gegensatz",
+  "einheit der gegensatze"
  ],
  [
   "Einheit der Natur","Naturphilosophie","V","6","558","ref",2088,"Naturphilosophie",
@@ -498,7 +551,7 @@ HWPH.put("r/65-69",
  ],
  ["Einheit der Sinne","Synästhesie","",null,null,"ref",3100,"Synästhesie","einheit der sinne"],
  [
-  "Einheit der Vernunft","Vernunft; Verstand","VII D",null,null,"ref",3423,"Vernunft; Verstand",
+  "Einheit der Vernunft","Vernunft; Verstand","VII D 5",null,null,"ref",3423,"Vernunft; Verstand",
   "einheit der vernunft"
  ],
  [
@@ -576,7 +629,30 @@ HWPH.put("r/65-69",
   "Einheit in der Vielheit","Mannigfaltige, das","",null,null,"ref",1865,
   "Mannigfaltige, Mannigfaltigkeit","einheit in der vielheit"
  ],
- ["Einheit in der Vielheit","Schöne","",null,null,"ref",2776,"Schöne","einheit in der vielheit"],
+ [
+  "Einheit in der Vielheit","Schöne, das","III","8","1358f.","ref",2776,"Schöne",
+  "einheit in der vielheit"
+ ],
+ [
+  "Einheit und Vielheit der Wesensform","Einheit und Vielheit der Wesensform","","2","400–405",
+  "main",684,"Einheit und Vielheit der Wesensform","einheit und vielheit der wesensform"
+ ],
+ [
+  "Einheit und Vielheit der Wesensform","Akt/Potenz","",null,null,"see",83,"Akt/Potenz",
+  "einheit und vielheit der wesensform"
+ ],
+ [
+  "Einheit und Vielheit der Wesensform","Form und Materie","",null,null,"see",939,
+  "Form und Materie (Stoff)","einheit und vielheit der wesensform"
+ ],
+ [
+  "Einheit und Vielheit der Wesensform","Substanz","",null,null,"see",3062,
+  "Substanz; Substanz/Akzidens","einheit und vielheit der wesensform"
+ ],
+ [
+  "Einheit von Fühlen, Denken, Wollen","Persönlichkeit","II (psych.)","7","352","ref",2322,
+  "Persönlichkeit","einheit von fuhlen, denken, wollen"
+ ],
  ["Einheiten","Henaden","",null,null,"ref",1251,"Henaden","einheiten"],
  [
   "einheitliche Vielheit","Darstellungsformen","(Wölfflin)","2","14","ref",525,"Darstellungsformen",
@@ -656,6 +732,25 @@ HWPH.put("r/65-69",
  ["Einsquantor","Existenzaussage","",null,null,"ref",865,"Existenzaussage","einsquantor"],
  ["Einsquantor","Partikularisator","",null,null,"ref",2284,"Partikularisator","einsquantor"],
  ["Einstellung","Einstellung","","2","417–422","main",691,"Einstellung","einstellung"],
+ ["Einstellung","Erkenntnis","II (psych.)",null,null,"see",796,"Erkennen, Erkenntnis","einstellung"],
+ [
+  "Einstellung","Extravertiert/introvertiert","",null,null,"see",884,"Extravertiert/introvertiert",
+  "einstellung"
+ ],
+ ["Einstellung","Stereotyp","",null,null,"see",3020,"Stereotyp","einstellung"],
+ ["Einstellung","Epoché","II (phän.)",null,null,"see",778,"Epoché","einstellung"],
+ ["Einstellung","Generalthesis","(Husserl)",null,null,"see",1063,"Generalthesis","einstellung"],
+ ["Einstellung","Inneneinstellung","(Husserl)",null,null,"see",1443,"Inneneinstellung","einstellung"],
+ ["Einstellung","Mundan","(Husserl)",null,null,"see",2037,"Mundan","einstellung"],
+ ["Einstellung","Urdoxa","(Husserl)",null,null,"see",3341,"Urdoxa","einstellung"],
+ [
+  "Einstellung","Vorwissenschaftlich","",null,null,"see",3510,"Vorwissenschaftlich; vortheoretisch",
+  "einstellung"
+ ],
+ ["Einstellung","Gewohnheit","","3","608","ref",1132,"Gewohnheit","einstellung"],
+ ["Einstellung","Ich","II","4","18","ref",1334,"Ich","einstellung"],
+ ["Einstellung","Philosophie","IV K","7","791","ref",2353,"Philosophie","einstellung"],
+ ["Einstellung","Unparteilichkeit","","11","255","ref",3316,"Unparteilichkeit","einstellung"],
  [
   "Einstellung, ästhetische","Wahrnehmung","VIII (ästh.)","12","245f.","ref",3539,"Wahrnehmung",
   "einstellung, asthetische"
@@ -701,7 +796,7 @@ HWPH.put("r/65-69",
   "Undurchsichtigkeit","einstellung, propositionale"
  ],
  [
-  "Einstellung, propositionale","Rationalität III (analyt. Philos.)","","8","64","ref",2576,
+  "Einstellung, propositionale","Rationalität","III (analyt. Philos.)","8","64","ref",2576,
   "Rationalität, Rationalisierung","einstellung, propositionale"
  ],
  [
@@ -770,7 +865,9 @@ HWPH.put("r/65-69",
   "Einwirklichkeitentheorie","Wirklichkeit","","12","839","ref",3628,"Wirklichkeit",
   "einwirklichkeitentheorie"
  ],
- ["Einwirkung","Affektion Einwohnung","",null,null,"ref",null,null,"einwirkung"],
+ ["Einwirkung","Affektion","",null,null,"ref",54,"Affektion, affizieren","einwirkung"],
+ ["Einwohnung","Schechina","","8","1228","ref",2756,"Schechina","einwohnung"],
+ ["Einwohnung","Wohnen","","12","1016","ref",3654,"Wohnen","einwohnung"],
  ["Einwurf","Zweifel","","12","1523","ref",3722,"Zweifel","einwurf"],
  [
   "Einzelding","Singulär; Singularität","I (met.)",null,null,"ref",2888,"Singulär; Singularität",
@@ -786,13 +883,27 @@ HWPH.put("r/65-69",
   "einzelimplikation"
  ],
  ["Einzelimplikation","Implikation","",null,null,"see",1399,"Implikation","einzelimplikation"],
- ["Einzelimplikation","Subjunktion Einzelinteresse","",null,null,"see",null,null,"einzelimplikation"],
+ [
+  "Einzelimplikation","Subjunktion","",null,null,"see",3054,"Subjunktion; Subjunktor",
+  "einzelimplikation"
+ ],
+ ["Einzelinteresse","Interesse","II","4","486","ref",1475,"Interesse","einzelinteresse"],
  ["Einzelne","Einzelne","","2","425–427","main",695,"Einzelne","einzelne"],
  ["Einzelne","Einzige, der","",null,null,"see",697,"Einzige, Einzigkeit","einzelne"],
  [
-  "Einzelne","Individuum; Individualität III Einzelne, das","",null,null,"see",1424,
-  "Individuum, Individualität","einzelne"
+  "Einzelne","Individuum; Individualität","III",null,null,"see",1424,"Individuum, Individualität",
+  "einzelne"
  ],
+ [
+  "Einzelne, das","Allgemeines/Besonderes","",null,null,"ref",101,"Allgemeines/Besonderes",
+  "einzelne, das"
+ ],
+ [
+  "Einzelne, das","Individuum; Individualität","I",null,null,"ref",1424,"Individuum, Individualität",
+  "einzelne, das"
+ ],
+ ["Einzelne, der","Dialog","","2","227f.","ref",585,"Dialog, dialogisch","einzelne, der"],
+ ["Einzelne, der","Philosophie","IV E","7","722","ref",2353,"Philosophie","einzelne, der"],
  ["Einzelurteil","Einzelurteil","","2","427","main",696,"Einzelurteil","einzelurteil"],
  ["Einzelurteil","Individualaussage","",null,null,"see",1413,"Individualaussage","einzelurteil"],
  [
@@ -829,13 +940,8 @@ HWPH.put("r/65-69",
  ["Eitelkeit","Vanitas mundi","",null,null,"see",3372,"Vanitas mundi","eitelkeit"],
  ["Eitelkeit","Amour-propre","","1","207","ref",118,"Amour-propre, amour de soi(-même)","eitelkeit"],
  ["Eitelkeit","Hochmut","","3","1150","ref",1286,"Hochmut","eitelkeit"],
+ ["Eitelkeit","Stolz","","10","205f.","ref",3034,"Stolz","eitelkeit"],
  ["Eitelkeit der Welt","Vanitas mundi","",null,null,"ref",3372,"Vanitas mundi","eitelkeit der welt"],
- ["Eitelkeit","Eitelkeit","",null,null,"main",698,"Eitelkeit","eitelkeit"],
- ["Einfall","Einfall","",null,null,"main",678,"Einfall","einfall"],
- ["Eigendünkel","Eigendünkel","","2","332","main",662,"Eigendünkel","eigendunkel"],
- ["Eitelkeit","Eitelkeit","","2","431","main",698,"Eitelkeit","eitelkeit"],
- ["Eitelkeit","Genuss","","3","318f.","ref",1076,"Genuß","eitelkeit"],
- ["Eitelkeit","Kitsch","","4","844","ref",1570,"Kitsch","eitelkeit"],
  [
   "Eine, das; Einheit","Eine, das; Einheit","I","2","366","main",675,"Eine (das), Einheit",
   "eine, das; einheit"

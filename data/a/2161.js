@@ -26,7 +26,7 @@ HWPH.put("a/2161",
  "register":[
   {"term":"Abweichung (psych.)","qualifier":"II","band":"6","col":"921"},
   {"term":"Anomalie","qualifier":"II","band":"6","col":"921"},
-  {"term":"natürliche bzw. vernünftige naturalis","qualifier":"I","band":"6","col":"920"},
+  {"term":"bzw. vernünftige naturalis","qualifier":"I","band":"6","col":"920"},
   {"term":"Normalität","qualifier":"","band":null,"col":null},
   {"term":"Normaltypus","qualifier":"II","band":"6","col":"925"}
  ],

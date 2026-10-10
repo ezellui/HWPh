@@ -20,7 +20,6 @@ HWPH.put("a/2584",
  "register":[
   {"term":"Begriffsdialektik","qualifier":"","band":null,"col":null},
   {"term":"Dialektik, subjektive/objektive","qualifier":"","band":"8","col":"134"},
-  {"term":"dialektische","qualifier":"","band":null,"col":null},
   {"term":"Objektivdialektik","qualifier":"","band":"8","col":"134"},
   {"term":"Realopposition","qualifier":"","band":"8","col":"134"},
   {"term":"Widersprüche, wirkliche","qualifier":"","band":"8","col":"134"},

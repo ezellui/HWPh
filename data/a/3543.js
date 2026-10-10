@@ -53,10 +53,12 @@ HWPH.put("a/3543",
   {"id":3622,"lemma":"Wille zur Macht","n":1}
  ],
  "register":[
-  {"term":"875","qualifier":"","band":"12","col":"312"},
+  {"term":"Bewegung/Ruhe","qualifier":"","band":"12","col":"312"},
+  {"term":"change","qualifier":"","band":null,"col":null},
   {"term":"conversio","qualifier":"","band":null,"col":null},
+  {"term":"Gesellschaft, geschlossene/offene","qualifier":"","band":"12","col":"315"},
   {"term":"immutabilia","qualifier":"","band":"12","col":"313"},
-  {"term":"kritischer (Popper) 8 51","qualifier":"","band":"12","col":"315"},
+  {"term":"Ruhe/Bewegung","qualifier":"","band":"12","col":"312"},
   {"term":"Übergang","qualifier":"","band":"12","col":"312"},
   {"term":"Unveränderlichkeit","qualifier":"","band":"12","col":"311ff."},
   {"term":"Unveränderlichkeit der Arten","qualifier":"","band":"12","col":"315"},
@@ -65,6 +67,7 @@ HWPH.put("a/3543",
   {"term":"ἀλλοίωσις","qualifier":"","band":null,"col":null},
   {"term":"ἀμετάβλητα","qualifier":"","band":"12","col":"313"},
   {"term":"μεταβολή","qualifier":"","band":null,"col":null},
+  {"term":"μεταμόρφωσις","qualifier":"","band":null,"col":null},
   {"term":"φορά","qualifier":"","band":"12","col":"311"}
  ],
  "persons":[

@@ -20,7 +20,8 @@ HWPH.put("a/568",
  "register":[
   {"term":"Bedeutung","qualifier":"(Carnap)","band":"2","col":"130"},
   {"term":"Extension/Intension","qualifier":"(Carnap)","band":"2","col":"130"},
-  {"term":"Intension/Extension","qualifier":"(Carnap)","band":"2","col":"130"}
+  {"term":"Intension/Extension","qualifier":"(Carnap)","band":"2","col":"130"},
+  {"term":"Nominatum","qualifier":"(Carnap)","band":"2","col":"130"}
  ],
  "persons":[{"id":33,"name":"R. Carnap","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[{"id":880,"lemma":"Extension/Intension","tf":2}],

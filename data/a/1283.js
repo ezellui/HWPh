@@ -21,9 +21,11 @@ HWPH.put("a/1283",
  ],
  "outlinks":[],
  "register":[
+  {"term":"historicism","qualifier":"","band":null,"col":null},
   {"term":"Historizismus","qualifier":"","band":null,"col":null},
   {"term":"Naturalismus","qualifier":"","band":"3","col":"1142f."},
   {"term":"Positivismus, historischer","qualifier":"","band":null,"col":null},
+  {"term":"Relativismus","qualifier":"","band":null,"col":null},
   {"term":"Universalismus","qualifier":"","band":"3","col":"1145"}
  ],
  "persons":[

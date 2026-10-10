@@ -20,7 +20,7 @@ HWPH.put("a/3471",
  "register":[
   {"term":"axiomata subreptica","qualifier":"","band":"11","col":"1079"},
   {"term":"Erschleichung","qualifier":"","band":null,"col":null},
-  {"term":"J 7 777 Obreption","qualifier":"","band":null,"col":null},
+  {"term":"Obreption","qualifier":"","band":null,"col":null},
   {"term":"subreptio","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -1,29 +1,6 @@
 HWPH.put("r/6d-65",
 [
- [
-  "Meidungsverhalten","Meidungsverhalten","",null,null,"main",1911,"Meidungsverhalten",
-  "meidungsverhalten"
- ],
- ["Methode","Methode","V 3","5","1329","main",1955,"Methode","methode"],
- [
-  "Methode","Rationalität II (ökon.)","","8","60","ref",2576,"Rationalität, Rationalisierung",
-  "methode"
- ],
- [
-  "Medizin II ars memoriae","Medizin II ars memoriae","",null,null,"main",null,null,
-  "medizin ii ars memoriae"
- ],
  ["Medizin","Medizin","III","5","985","main",1906,"Medizin, Heilkunst, Medizinphilosophie","medizin"],
- ["Medizin","Medizin","III","5","987","main",1906,"Medizin, Heilkunst, Medizinphilosophie","medizin"],
- [
-  "Meinung, öffentliche","Meinung, öffentliche","","5","1024","main",1913,"Meinung, öffentliche",
-  "meinung, offentliche"
- ],
- [
-  "Mehrheit; Mehrheitsprinzip","Mehrheit; Mehrheitsprinzip","","5","1008","main",1909,
-  "Mehrheit, Mehrheitsprinzip","mehrheit; mehrheitsprinzip"
- ],
- ["Mensch, dritter","Mensch, dritter","",null,null,"main",1918,"Mensch, dritter","mensch, dritter"],
  ["Methodologie","Methodologie","","5","1382","main",1968,"Methodologie","methodologie"],
  ["Methodologie","Philosophie","III E","7","677f.","ref",2353,"Philosophie","methodologie"],
  [
@@ -31,25 +8,8 @@ HWPH.put("r/6d-65",
   "methodologie"
  ],
  ["Methodologie","Wissenschaft","III","12","941","ref",3635,"Wissenschaft","methodologie"],
- ["Medizin","Medizin","IV","5","996","main",1906,"Medizin, Heilkunst, Medizinphilosophie","medizin"],
- ["Medizin","Theorie","I","10","1141","ref",3179,"Theorie","medizin"],
- ["Mehrhabenwollen","Mehrhabenwollen","",null,null,"main",1908,"Mehrhabenwollen","mehrhabenwollen"],
- ["Mehrhabenwollen","Selbstliebe","I","9","466","ref",2840,"Selbstliebe","mehrhabenwollen"],
- ["Mensch, dritter","Mensch, dritter","","5","1105","main",1918,"Mensch, dritter","mensch, dritter"],
- ["Melancholie","Melancholie","II","5","1040","main",1915,"Melancholie","melancholie"],
- ["Melancholie","Überdruss","","11","9","ref",3249,"Überdruß","melancholie"],
- [
-  "Menschenkenntnis","Menschenkenntnis","","5","1119","main",1922,"Menschenkenntnis",
-  "menschenkenntnis"
- ],
- [
-  "Menschenkenntnis","Parallelismus, psychophysischer","","7","104","ref",2272,
-  "Parallelismus, psychophysischer","menschenkenntnis"
- ],
- ["Menschenkenntnis","Psychologismus","","7","1676","ref",2522,"Psychologismus","menschenkenntnis"],
- ["Menschenkenntnis","Unmittelbarkeit","","11","239","ref",3314,"Unmittelbarkeit","menschenkenntnis"],
- ["Menschenkenntnis","Vorstellung","II","11","1243","ref",3503,"Vorstellung","menschenkenntnis"],
- ["me","Identität","",null,null,"ref",1366,"Identität","me"],
+ ["me","Identität; Ich-Identität","","4","149","ref",1367,"Identität, Ich-Identität","me"],
+ ["me","Selbst","III","9","306","ref",2820,"Selbst","me"],
  ["meaning","Signifikation","",null,null,"ref",2885,"Signifikation","meaning"],
  [
   "meaning","Referenz; Referenztheorie","","8","385","ref",2632,"Referenz, Referenztheorie",
@@ -132,13 +92,13 @@ HWPH.put("r/6d-65",
   "Mechanismus des Verstandes","Staatsmaschine","","10","64","ref",3000,"Staatsmaschine",
   "mechanismus des verstandes"
  ],
- ["méconnaître","Philosophie","IV",null,null,"ref",2353,"Philosophie","meconnaitre"],
+ ["méconnaître","Philosophie","IV L","7","793","ref",2353,"Philosophie","meconnaitre"],
  ["media hermeneutica","Philosophie","IV H","7","752","ref",2353,"Philosophie","media hermeneutica"],
  ["mediation","Repräsentation","III (19./20. Jh.)","8","829","ref",2686,"Repräsentation","mediation"],
  ["Mediation","Vermittlung","",null,null,"ref",3417,"Vermittlung","mediation"],
  ["medicina adepta","Philosophie","III B 3","7","668","ref",2353,"Philosophie","medicina adepta"],
  [
-  "medicina animi","Therapie II (philos.)","","10","1165","ref",3184,"Therapie; Therapeutik",
+  "medicina animi","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik",
   "medicina animi"
  ],
  [
@@ -152,7 +112,7 @@ HWPH.put("r/6d-65",
  ["medicina mentis","Gesundheit","","3","560","ref",1125,"Gesund, Gesundheit","medicina mentis"],
  ["medicina mentis","Logik","I","5","359","ref",1803,"Logik","medicina mentis"],
  [
-  "medicina mentis","Therapie II (philos.)","","10","1165","ref",3184,"Therapie; Therapeutik",
+  "medicina mentis","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik",
   "medicina mentis"
  ],
  ["medicina mentis","Vorurteil","I (erk.)","11","1252","ref",3507,"Vorurteil","medicina mentis"],
@@ -170,6 +130,11 @@ HWPH.put("r/6d-65",
  ["meditatio mortis","Sterben lernen","","10","129","ref",3018,"Sterben lernen","meditatio mortis"],
  ["Meditation","Meditation","","5","961–968","main",1905,"Meditation","meditation"],
  ["Meditation","Übung","",null,null,"see",3270,"Übung","meditation"],
+ ["Meditation","Kontemplation","",null,null,"see",1635,"Kontemplation","meditation"],
+ ["Meditation","Purus.a","",null,null,"see",2537,"Purus.a","meditation"],
+ ["Meditation","Yoga","",null,null,"see",3668,"Yoga","meditation"],
+ ["Meditation","Satori","",null,null,"see",2743,"Satori","meditation"],
+ ["Meditation","Zen","",null,null,"see",3682,"Zen","meditation"],
  ["Meditation","Philosophie","VI (lit. Formen)","7","858","ref",2353,"Philosophie","meditation"],
  ["medium","Mitte","",null,null,"ref",1985,"Mitte","medium"],
  ["medium","Mittel","",null,null,"ref",1987,"Mittel","medium"],
@@ -179,14 +144,18 @@ HWPH.put("r/6d-65",
   "medium"
  ],
  ["medius terminus","Mitte","","5","1423","ref",1985,"Mitte","medius terminus"],
- ["Medizin s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"medizin s. auch"],
+ ["Medizin","Register der Sachgruppen","",null,null,"see",null,null,"medizin"],
  [
   "Medizin","Medizin","","5","968–1002","main",1906,"Medizin, Heilkunst, Medizinphilosophie",
   "medizin"
  ],
  ["Medizin","Pathologie","",null,null,"see",2292,"Pathologie","medizin"],
  ["Medizin","Physiologie","",null,null,"see",2373,"Physiologie","medizin"],
- ["Medizin","Therapie I (med.) Medizin, anthropologische","",null,null,"see",null,null,"medizin"],
+ ["Medizin","Therapie","I (med.)",null,null,"see",3184,"Therapie; Therapeutik","medizin"],
+ [
+  "Medizin, anthropologische","Anthropologie, medizinische","",null,null,"ref",176,
+  "Anthropologie, medizinische","medizin, anthropologische"
+ ],
  [
   "Medizin, pythagoreische","Pythagoreismus","III",null,null,"ref",2539,"Pythagoreismus",
   "medizin, pythagoreische"
@@ -204,8 +173,12 @@ HWPH.put("r/6d-65",
   "medizinische Psychologie","Psychologie","","7","1616","ref",2511,"Psychologie",
   "medizinische psychologie"
  ],
- ["Medizinphilosophie","Medizin Meer des Seins","",null,null,"ref",null,null,"medizinphilosophie"],
- ["Meeresstille","Schweigen; Stille A","","8","1490","ref",2787,"Schweigen, Stille","meeresstille"],
+ [
+  "Medizinphilosophie","Medizin","",null,null,"ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "medizinphilosophie"
+ ],
+ ["Meer des Seins","Sein; Seiendes","II","9","182","ref",2806,"Sein; Seiendes","meer des seins"],
+ ["Meeresstille","Schweigen; Stille","A","8","1490","ref",2787,"Schweigen, Stille","meeresstille"],
  ["Meeresstille","Seelenruhe","I","9","94","ref",2797,"Seelenruhe","meeresstille"],
  ["Megalomanie","Pathisch; Pathik","I","7","178","ref",2290,"Pathisch, Pathik","megalomanie"],
  ["Megarisch","Megarisch","","5","1002f.","main",1907,"Megarisch","megarisch"],
@@ -278,7 +251,8 @@ HWPH.put("r/6d-65",
   "Meidungsverhalten","Motivation","I (psych.)",null,null,"see",2034,"Motivation",
   "meidungsverhalten"
  ],
- ["Meinen","Meinung Meinheit","",null,null,"ref",null,null,"meinen"],
+ ["Meinen","Meinung","",null,null,"ref",1912,"Meinen, Meinung","meinen"],
+ ["Meinheit","Ichheit; Egoität","","4","22f.","ref",1337,"Ichheit, Egoität","meinheit"],
  ["Meinung","Meinung","","5","1017–1023","main",1911,"Meidungsverhalten","meinung"],
  ["Meinung","Doxa","",null,null,"see",633,"Doxa","meinung"],
  ["Meinung","Fürwahrhalten","",null,null,"see",980,"Fürwahrhalten","meinung"],
@@ -286,7 +260,7 @@ HWPH.put("r/6d-65",
  ["Meinung","Vermutung","",null,null,"see",3421,"Vermutung","meinung"],
  ["Meinung","Phantasia","I",null,null,"ref",2348,"Phantasia","meinung"],
  [
-  "Meinung","Rationalität III (analyt. Philos.)","","8","64f.","ref",2576,
+  "Meinung","Rationalität","III (analyt. Philos.)","8","64f.","ref",2576,
   "Rationalität, Rationalisierung","meinung"
  ],
  ["Meinung","Urteil, vorläufiges","","11","474","ref",3358,"Urteil, vorläufiges","meinung"],
@@ -336,6 +310,7 @@ HWPH.put("r/6d-65",
  ["Melancholie","Stimmung","",null,null,"see",3027,"Stimmung","melancholie"],
  ["Melancholie","Trauer; Trauerarbeit","",null,null,"see",3224,"Trauer; Trauerarbeit","melancholie"],
  ["Melancholie","Psychose","II","7","1693","ref",2528,"Psychose","melancholie"],
+ ["Melancholiker","Temperament","",null,null,"ref",3148,"Temperament","melancholiker"],
  ["mellembestemmelser","Zwischen","","12","1548","ref",3727,"Zwischen","mellembestemmelser"],
  ["memento mori","Sterben lernen","","10","130","ref",3018,"Sterben lernen","memento mori"],
  ["mémoire","Erinnerung","",null,null,"ref",794,"Erinnerung","memoire"],
@@ -348,12 +323,14 @@ HWPH.put("r/6d-65",
  ["memoria","Gedächtnis","",null,null,"ref",996,"Gedächtnis","memoria"],
  ["memoria","Analogon rationis","(Baumgarten)","1","229","ref",124,"Analogon rationis","memoria"],
  ["memoria","Anamnesis","","1","265","ref",132,"Anamnesis","memoria"],
- ["memoria","Erkenntnis I (erk.)","","2","649f.","ref",796,"Erkennen, Erkenntnis","memoria"],
+ ["memoria","Erkenntnis","I (erk.)","2","649f.","ref",796,"Erkennen, Erkenntnis","memoria"],
  ["memoria","Geschichte","III","3","354","ref",1085,"Geschichte, Historie","memoria"],
  ["memoria","Idee","I","4","64","ref",1361,"Idee","memoria"],
  ["memoria","Verbum mentis","","11","593","ref",3387,"Verbum mentis","memoria"],
  ["memoria","Vergessen, das","","11","673","ref",3404,"Vergessen, das","memoria"],
  ["memoria","Vernunft; Verstand","IV","11","800","ref",3423,"Vernunft; Verstand","memoria"],
+ ["memoria","Zeit","II B","12","1204","ref",3676,"Zeit","memoria"],
+ ["memoria","Zukunft; Vergangenheit","","12","1428f.","ref",3708,"Zukunft; Vergangenheit","memoria"],
  [
   "memoria intellectualis","Persönlichkeit","I (allg.)","7","345","ref",2322,"Persönlichkeit",
   "memoria intellectualis"
@@ -366,7 +343,7 @@ HWPH.put("r/6d-65",
  ["mendacium","Lüge","",null,null,"ref",1834,"Lüge","mendacium"],
  ["Menge","Inbegriff","",null,null,"ref",1406,"Inbegriff","menge"],
  ["Menge","Mengenlehre","",null,null,"ref",1916,"Mengenlehre","menge"],
- ["Menge","Sorites","",null,null,"ref",2928,"Sorites","menge"],
+ ["Menge","Sorites","3",null,null,"ref",2928,"Sorites","menge"],
  ["Menge","Quantität","IV","7","1822","ref",2552,"Quantität","menge"],
  ["Menge, fundierte","Mengenlehre","","5","1055","ref",1916,"Mengenlehre","menge, fundierte"],
  ["Menge, geordnete","Ordnung","IV (log.)",null,null,"ref",2233,"Ordnung","menge, geordnete"],
@@ -390,7 +367,11 @@ HWPH.put("r/6d-65",
  ["Mengenlehre, naive","Mengenlehre","","5","1044","ref",1916,"Mengenlehre","mengenlehre, naive"],
  ["mens","Ratio","",null,null,"ref",2570,"Ratio","mens"],
  ["mens","Geist","IV",null,null,"ref",1030,"Geist","mens"],
- ["mens","Vernunft; Verstand","",null,null,"ref",3423,"Vernunft; Verstand","mens"],
+ ["mens","Vernunft; Verstand","III-IV",null,null,"ref",3423,"Vernunft; Verstand","mens"],
+ ["mens","Regel","I (allg )","8","431","ref",2640,"Regel","mens"],
+ ["mens","Relation","II","8","586","ref",2668,"Relation","mens"],
+ ["mens","Seele","II","9","12f.","ref",2794,"Seele","mens"],
+ ["mens","Vernunft; Verstand","III G","11","795","ref",3423,"Vernunft; Verstand","mens"],
  ["mens divina","Geist","IV","3","171f.","ref",1030,"Geist","mens divina"],
  ["Mensch","Mensch","","5","1059–1105","main",1917,"Mensch","mensch"],
  ["Mensch","Bestimmung des Menschen","",null,null,"see",401,"Bestimmung des Menschen","mensch"],
@@ -418,6 +399,16 @@ HWPH.put("r/6d-65",
  ["Mensch","Person","IV (jur.)","7","327","ref",2318,"Person","mensch"],
  ["Mensch","Religion","VIII 2","8","687","ref",2673,"Religion","mensch"],
  ["Mensch","Weiblich/männlich","II","12","351","ref",3552,"Weiblich/männlich","mensch"],
+ ["Mensch/Tier","Instinkt","II (biol.)",null,null,"ref",1453,"Instinkt","mensch/tier"],
+ [
+  "Mensch/Tier","Organprimitivismen","(Gehlen)",null,null,"ref",2248,"Organprimitivismen",
+  "mensch/tier"
+ ],
+ ["Mensch/Tier","Speziesismus","",null,null,"ref",2970,"Speziesismus","mensch/tier"],
+ ["Mensch/Tier","Tier","",null,null,"ref",3192,"Tier; Tierseele","mensch/tier"],
+ ["Mensch/Tier","Mass","II (ästh.)","5","820","ref",1877,"Maß","mensch/tier"],
+ ["Mensch/Tier","Naturrecht","IV 1","6","583","ref",2089,"Naturrecht","mensch/tier"],
+ ["Mensch/Tier","Retardation","","8","931","ref",2698,"Retardation","mensch/tier"],
  [
   "Mensch, bedürftiger","Philanthropie","3","7","552","ref",2351,"Philanthropie",
   "mensch, bedurftiger"
@@ -473,11 +464,8 @@ HWPH.put("r/6d-65",
   "mensch, neuer"
  ],
  ["Mensch, neuer","Sowjethumanismus","",null,null,"see",2934,"Sowjethumanismus","mensch, neuer"],
- [
-  "Mensch, neuer","Christentum,Wesen des","","1","1011","ref",496,"Christentum, Wesen des",
-  "mensch, neuer"
- ],
- ["Mensch, neuer","Übermensch","","11","46","ref",3261,"Übermensch","mensch, neuer"],
+ ["Mensch, neuer","Christentum","",null,null,"ref",496,"Christentum, Wesen des","mensch, neuer"],
+ ["Mensch, oberer","Doppelnatur","","2","283","ref",631,"Doppelnatur","mensch, oberer"],
  [
   "Mensch, spielender","Homo ludens","(Huizinga)",null,null,"ref",1299,"Homo ludens",
   "mensch, spielender"
@@ -525,7 +513,7 @@ HWPH.put("r/6d-65",
  ],
  ["Mensch als zweiter Gott","Genie","III","3","292","ref",1071,"Genie","mensch als zweiter gott"],
  ["Menschenfeindschaft","Misanthropie","",null,null,"ref",1978,"Misanthropie","menschenfeindschaft"],
- ["Menschenfreund","Philanthropie","",null,null,"ref",2351,"Philanthropie","menschenfreund"],
+ ["Menschenfreund","Philanthropie","2",null,null,"ref",2351,"Philanthropie","menschenfreund"],
  ["Menschenfreund","Freund/Feind","","2","1105","ref",953,"Freund/Feind","menschenfreund"],
  [
   "Menschenfreundschaft","Philanthropie","3","7","549f.","ref",2351,"Philanthropie",
@@ -553,7 +541,7 @@ HWPH.put("r/6d-65",
   "Menschenkenntnis","Menschenkenntnis","","5","1117–1121","main",1922,"Menschenkenntnis",
   "menschenkenntnis"
  ],
- ["Menschenliebe","Philanthropie","",null,null,"ref",2351,"Philanthropie","menschenliebe"],
+ ["Menschenliebe","Philanthropie","3",null,null,"ref",2351,"Philanthropie","menschenliebe"],
  ["Menschenliebe","Geschichte","III","3","358","ref",1085,"Geschichte, Historie","menschenliebe"],
  ["Menschenliebe","Patriotismus","","7","210","ref",2299,"Patriotismus","menschenliebe"],
  ["Menschenliebe","Sensus communis","III","9","644","ref",2869,"Sensus communis","menschenliebe"],
@@ -617,7 +605,14 @@ HWPH.put("r/6d-65",
   "menschewisierender Idealismus","Idealismus, menschewisierender","",null,null,"ref",1349,
   "Idealismus, menschewisierender","menschewisierender idealismus"
  ],
- ["Menschewismus","Materialismus","",null,null,"ref",1886,"Materialismus","menschewismus"],
+ [
+  "Menschewismus","Materialismus, historischer","3","5","863","ref",1888,
+  "Materialismus, historischer, materialistische Geschichtsauffassung","menschewismus"
+ ],
+ [
+  "Menschewismus","Revolution, permanente","","8","990","ref",2708,"Revolution, permanente",
+  "menschewismus"
+ ],
  [
   "Menschheit; Menschengeschlecht","Menschheit; Menschengeschlecht","","5","1127–1137","main",1925,
   "Menschheit, Menschengeschlecht","menschheit; menschengeschlecht"
@@ -644,9 +639,10 @@ HWPH.put("r/6d-65",
  ["Menschheit","Kollektivbewusstsein","","4","883","ref",1585,"Kollektivbewußtsein","menschheit"],
  ["menschlich-bedeutungsvoll","Gehalt","","3","143","ref",1026,"Gehalt","menschlich-bedeutungsvoll"],
  [
-  "Menschlichkeit","Humanismus; Humanität Menschwerdung","",null,null,"ref",1315,
-  "Humanismus, Humanität","menschlichkeit"
+  "Menschlichkeit","Humanismus; Humanität","",null,null,"ref",1315,"Humanismus, Humanität",
+  "menschlichkeit"
  ],
+ ["Menschwerdung","Hominisation","",null,null,"ref",1291,"Hominisation","menschwerdung"],
  ["Menschwerdung Gottes","Inkarnation","",null,null,"ref",1440,"Inkarnation","menschwerdung gottes"],
  [
   "Menschwerdung Gottes","Kondeszendenz","",null,null,"ref",1604,"Kondeszendenz",
@@ -659,7 +655,11 @@ HWPH.put("r/6d-65",
  ["mensura substantiae","Quantität","II","7","1798","ref",2552,"Quantität","mensura substantiae"],
  ["mental chemistry","Psychologie","","7","1614f.","ref",2511,"Psychologie","mental chemistry"],
  ["mental health","Wahrheit","VI B (psych.)","12","114","ref",3523,"Wahrheit","mental health"],
- ["mental proposition","Wort","",null,null,"ref",3656,"Wort","mental proposition"],
+ [
+  "mental proposition","Wort, inneres","","12","1042","ref",3657,"Wort, inneres; Rede, innere",
+  "mental proposition"
+ ],
+ ["mental span","Gedächtnisspanne","","3","42","ref",997,"Gedächtnisspanne","mental span"],
  ["mental test","Psychometrie","","7","1680","ref",2523,"Psychometrie","mental test"],
  [
   "mentale Repräsentation","Repräsentation","III (19./20. Jh.)","8","831ff.","ref",2686,
@@ -669,7 +669,8 @@ HWPH.put("r/6d-65",
   "mentale Repräsentation","Repräsentation","IV (psych.)","8","837","ref",2686,"Repräsentation",
   "mentale reprasentation"
  ],
- ["mentale Sprache","Wort","",null,null,"ref",3656,"Wort","mentale sprache"],
+ ["mentale Sprache","Wort, inneres","",null,null,"ref",3656,"Wort","mentale sprache"],
+ ["Mentalismus","Mentalismus","","5","1137f.","main",1926,"Mentalismus","mentalismus"],
  ["Mentalismus","Psychologie","","7","1634ff.","ref",2511,"Psychologie","mentalismus"],
  [
   "Mentalitätsgeschichte","Sozialgeschichte","","9","1147","ref",2943,
@@ -682,16 +683,22 @@ HWPH.put("r/6d-65",
  ["Mentalreservation","Lüge","",null,null,"see",1834,"Lüge","mentalreservation"],
  ["Mentalreservation","Verstellung","",null,null,"see",3439,"Verstellung","mentalreservation"],
  ["Mentalreservation","Wahrhaftigkeit","",null,null,"see",3522,"Wahrhaftigkeit","mentalreservation"],
- ["Mentalsprache","Wort","",null,null,"ref",3656,"Wort","mentalsprache"],
+ ["Mentalsprache","Wort, inneres","",null,null,"ref",3656,"Wort","mentalsprache"],
+ ["mépris","Verachtung","",null,null,"ref",3379,"Verachtung; Mißachtung","mepris"],
+ ["merces","Belohnung","",null,null,"ref",385,"Belohnung","merces"],
  ["mercurius vitae","Arcanum","","1","495","ref",237,"Arcanum","mercurius vitae"],
  ["Mereologie","Mereologie","","5","1145–1148","main",1928,"Mereologie","mereologie"],
  ["Mereologie","Mengenlehre","",null,null,"see",1916,"Mengenlehre","mereologie"],
  ["Mereologie","Nominalismus","II","6","886","ref",2150,"Nominalismus","mereologie"],
  ["merit","Tugend","III","10","1557","ref",3239,"Tugend","merit"],
- ["meritum","Lohn meritum/demeritum","",null,null,"ref",null,null,"meritum"],
+ ["meritum","Lohn","",null,null,"ref",1828,"Lohn, Verdienst","meritum"],
+ [
+  "meritum/demeritum","Zurechnung","I (jur.)","12","1447","ref",3712,"Zurechnung",
+  "meritum/demeritum"
+ ],
  ["meritum culparum","Strafe","II","10","220","ref",3035,"Strafe","meritum culparum"],
  [
-  "meritum de condigno","Lohn II (theol.)","","5","511","ref",1828,"Lohn, Verdienst",
+  "meritum de condigno","Lohn","II (theol.)","5","511","ref",1828,"Lohn, Verdienst",
   "meritum de condigno"
  ],
  ["meritum de condigno","Verheissung","","11","691","ref",3407,"Verheißung","meritum de condigno"],
@@ -705,32 +712,20 @@ HWPH.put("r/6d-65",
   "merkmalskalkul"
  ],
  [
-  "Merkwelt; Merkmal (Uexküll)","Merkwelt; Merkmal (Uexküll)","","5","1156","main",1931,
-  "Merkwelt, Merkmal, Merkzeichen","merkwelt; merkmal (uexkull)"
+  "Merkwelt; Merkmal","Merkwelt; Merkmal","(Uexküll)","5","1156","main",1931,
+  "Merkwelt, Merkmal, Merkzeichen","merkwelt; merkmal"
  ],
+ ["Merkwelt; Merkmal","Eigenwelt","(Uexküll)",null,null,"see",669,"Eigenwelt","merkwelt; merkmal"],
  [
-  "Merkwelt; Merkmal (Uexküll)","Eigenwelt","(Uexküll)",null,null,"see",669,"Eigenwelt",
-  "merkwelt; merkmal (uexkull)"
+  "Merkwelt; Merkmal","Funktionskreis","(Uexküll)",null,null,"see",978,"Funktionskreis",
+  "merkwelt; merkmal"
  ],
- [
-  "Merkwelt; Merkmal (Uexküll)","Funktionskreis","(Uexküll)",null,null,"see",978,"Funktionskreis",
-  "merkwelt; merkmal (uexkull)"
- ],
- [
-  "Merkwelt; Merkmal (Uexküll)","Innenwelt","",null,null,"see",1445,"Innenwelt",
-  "merkwelt; merkmal (uexkull)"
- ],
- [
-  "Merkwelt; Merkmal (Uexküll)","Steuerung","I (biol.)",null,null,"see",3023,"Steuerung",
-  "merkwelt; merkmal (uexkull)"
- ],
- [
-  "Merkwelt; Merkmal (Uexküll)","Umwelt","",null,null,"see",3278,"Umwelt",
-  "merkwelt; merkmal (uexkull)"
- ],
+ ["Merkwelt; Merkmal","Innenwelt","",null,null,"see",1445,"Innenwelt","merkwelt; merkmal"],
+ ["Merkwelt; Merkmal","Steuerung","I (biol.)",null,null,"see",3023,"Steuerung","merkwelt; merkmal"],
+ ["Merkwelt; Merkmal","Umwelt","",null,null,"see",3278,"Umwelt","merkwelt; merkmal"],
  ["Merkwort","Reflexion","","8","397","ref",2634,"Reflexion","merkwort"],
  [
-  "Merkzeichen","Merkwelt; Merkmal (Uexküll) μέρος","",null,null,"ref",1931,
+  "Merkzeichen","Merkwelt; Merkmal","(Uexküll)",null,null,"ref",1931,
   "Merkwelt, Merkmal, Merkzeichen","merkzeichen"
  ],
  ["merveille","Wunder","",null,null,"ref",3659,"Wunder","merveille"],
@@ -741,16 +736,17 @@ HWPH.put("r/6d-65",
  ["Mesmerismus","Mesmerismus","","5","1156–1158","main",1932,"Mesmerismus","mesmerismus"],
  ["Mesmerismus","Hypnose","",null,null,"see",1325,"Hypnose","mesmerismus"],
  ["Mesmerismus","Okkultismus","",null,null,"see",2208,"Okkultismus","mesmerismus"],
- ["Mesmerismus","Tellurisch mésologie","",null,null,"see",null,null,"mesmerismus"],
+ ["Mesmerismus","Tellurisch","",null,null,"see",3147,"Tellurisch; Tellurismus","mesmerismus"],
+ ["mésologie","Umwelt","","11","102","ref",3278,"Umwelt","mesologie"],
  ["Mesotes","Mesotes","","5","1158–1161","main",1933,"Mesotes","mesotes"],
- ["Mesotes","Mass I (eth.)","",null,null,"see",1877,"Maß","mesotes"],
+ ["Mesotes","Mass","I (eth.)",null,null,"see",1877,"Maß","mesotes"],
  ["Mesotes","Mitte","",null,null,"see",1985,"Mitte","mesotes"],
  ["messbar","Grösse","II","3","884","ref",1187,"Größe","messbar"],
  ["Messen","Messen","","5","1161f.","main",1934,"Messen","messen"],
  ["Messen","Körper, starrer","",null,null,"see",1663,"Körper, starrer","messen"],
- ["Messen","Mass III (phys.)","",null,null,"see",1877,"Maß","messen"],
- ["Messen","Messprozess Messgenauigkeit","",null,null,"see",null,null,"messen"],
- ["Messen","Messen","","5","1162","main",1934,"Messen","messen"],
+ ["Messen","Mass","III (phys.)",null,null,"see",1877,"Maß","messen"],
+ ["Messen","Messprozess","",null,null,"see",1936,"Meßprozeß","messen"],
+ ["Messgenauigkeit","Messen","","5","1162","ref",1934,"Messen","messgenauigkeit"],
  ["Messgrösse","Quantität","IV","7","1823f.","ref",2552,"Quantität","messgrosse"],
  [
   "Messianismus","Messianismus","","5","1163–1166","main",1935,"Messianismus, messianisch",
@@ -767,7 +763,7 @@ HWPH.put("r/6d-65",
  ],
  ["Messprozess","Messprozess","","5","1166–1168","main",1936,"Meßprozeß","messprozess"],
  ["Messprozess","Ideation","",null,null,"see",1359,"Ideation","messprozess"],
- ["Messprozess","Mass III (phys.)","",null,null,"see",1877,"Maß","messprozess"],
+ ["Messprozess","Mass","III (phys.)",null,null,"see",1877,"Maß","messprozess"],
  ["Messprozess","Messen","",null,null,"see",1934,"Messen","messprozess"],
  ["Messprozess","Operationalismus","I (wiss.)",null,null,"see",2227,"Operationalismus","messprozess"],
  ["Messprozess","Protophysik","",null,null,"see",2495,"Protophysik","messprozess"],
@@ -842,8 +838,8 @@ HWPH.put("r/6d-65",
   "metapher, kuhne"
  ],
  [
-  "Metaphern s. auch","Register der Sachgruppen: Topoi und Metaphern Metaphilosophie","",null,null,
-  "ref",null,null,"metaphern s. auch"
+  "Metaphern","Register der Sachgruppen: Topoi und Metaphern Metaphilosophie","",null,null,"see",
+  null,null,"metaphern"
  ],
  [
   "metaphilosophy","Philosophie der Philosophie","","7","905","ref",2359,
@@ -880,8 +876,11 @@ HWPH.put("r/6d-65",
   "metaphysica specialis","Metaphysik","VI","5","1250","ref",1944,"Metaphysik",
   "metaphysica specialis"
  ],
- ["metaphysica specialis","Religion","",null,null,"ref",2673,"Religion","metaphysica specialis"],
- ["Metaphysik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"metaphysik s. auch"],
+ [
+  "metaphysica specialis","Religion, natürliche bzw. vernünftige","","8","715","ref",2674,"Religion",
+  "metaphysica specialis"
+ ],
+ ["Metaphysik","Register der Sachgruppen","",null,null,"see",null,null,"metaphysik"],
  ["Metaphysik","Metaphysik","","5","1186–1279","main",1944,"Metaphysik","metaphysik"],
  ["Metaphysik","Epopteia","",null,null,"see",780,"Epopteia","metaphysik"],
  ["Metaphysik","Erste Philosophie","",null,null,"see",816,"Erste Philosophie","metaphysik"],
@@ -901,7 +900,19 @@ HWPH.put("r/6d-65",
  ],
  ["Metaphysik","Theorem","","10","1125","ref",3178,"Theorem","metaphysik"],
  ["Metaphysik","Weltanschauung","","12","456","ref",3560,"Weltanschauung","metaphysik"],
- ["Metaphysik/Logik","Logik","",null,null,"ref",1803,"Logik","metaphysik/logik"],
+ ["Metaphysik/Logik","Logik, dialektische","I",null,null,"ref",1803,"Logik","metaphysik/logik"],
+ [
+  "Metaphysik, allgemeine/besondere","Kosmologie","",null,null,"ref",1676,"Kosmologie",
+  "metaphysik, allgemeine/besondere"
+ ],
+ [
+  "Metaphysik, allgemeine/besondere","Metaphysik","VI","5","1249f.","ref",1944,"Metaphysik",
+  "metaphysik, allgemeine/besondere"
+ ],
+ [
+  "Metaphysik, allgemeine/besondere","Ontologie","","6","1189","ref",2218,"Ontologie",
+  "metaphysik, allgemeine/besondere"
+ ],
  [
   "Metaphysik, christliche","Philosophie, christliche","","7","890","ref",2356,
   "Philosophie, christliche","metaphysik, christliche"
@@ -962,6 +973,10 @@ HWPH.put("r/6d-65",
   "Sittlichkeit; Sittenlehre","metaphysik der sitten"
  ],
  [
+  "Metaphysik der Systeme/Probleme","Rest, metaphysischer","","8","925","ref",2696,
+  "Rest, metaphysischer","metaphysik der systeme/probleme"
+ ],
+ [
   "Metaphysik des Schönen","Ästhetik","","1","558","ref",266,"Ästhetik, ästhetisch",
   "metaphysik des schonen"
  ],
@@ -1015,7 +1030,11 @@ HWPH.put("r/6d-65",
   "Metaschematismus","Metaschematismus","","5","1299f.","main",1950,"Metaschematismus",
   "metaschematismus"
  ],
- ["Metaschematismus","Wandel metaschematismus","",null,null,"see",null,null,"metaschematismus"],
+ ["Metaschematismus","Wandel","",null,null,"see",3543,"Wandel; Veränderung","metaschematismus"],
+ [
+  "metaschematismus","Schema; Schematismus","I (allg.)","8","1248f.","ref",2760,
+  "Schema, Schematismus","metaschematismus"
+ ],
  ["Metascience","Metascience","","5","1300f.","main",1951,"Metascience","metascience"],
  ["Metascience","Wissenschaftsforschung metascience","",null,null,"see",null,null,"metascience"],
  ["Metasprache","Antinomie","II (log.)","1","403","ref",185,"Antinomie","metasprache"],
@@ -1039,12 +1058,12 @@ HWPH.put("r/6d-65",
   "method of double position"
  ],
  [
-  "Methode s. auch","Register der Sachgruppen: Wissenschaftstheorie und Methodenlehre","",null,null,
-  "ref",null,null,"methode s. auch"
+  "Methode","Register der Sachgruppen: Wissenschaftstheorie und Methodenlehre","",null,null,"see",
+  null,null,"methode"
  ],
  ["Methode","Methode","","5","1304–1332","main",1955,"Methode","methode"],
  [
-  "Methode","Invention; Erfindung III (log.)","",null,null,"ref",1490,
+  "Methode","Invention; Erfindung","III (log.)",null,null,"ref",1490,
   "Invention, Erfindung, Entdeckung","methode"
  ],
  ["Methode","Regel","I (allg.)","8","432","ref",2640,"Regel","methode"],
@@ -1062,7 +1081,7 @@ HWPH.put("r/6d-65",
   "Analytisch/synthetisch","methode, analytische/synthetische"
  ],
  [
-  "Methode, analytische/synthetische","Methode","III",null,null,"see",1955,"Methode",
+  "Methode, analytische/synthetische","Methode","III 2",null,null,"see",1955,"Methode",
   "methode, analytische/synthetische"
  ],
  [
@@ -1151,7 +1170,17 @@ HWPH.put("r/6d-65",
   "methode, juristische"
  ],
  ["Methode, juristische","Recht","I","8","225","ref",2598,"Recht","methode, juristische"],
- ["Methode","Methode","",null,null,"main",1955,"Methode","methode"],
+ [
+  "Methode, kathartische","Methode, kathartische","","5","1355–1359","main",1960,
+  "Methode, historische","methode, kathartische"
+ ],
+ ["Methode, kathartische","Abreagieren","",null,null,"see",24,"Abreagieren","methode, kathartische"],
+ ["Methode, kathartische","Hypnose","",null,null,"see",1325,"Hypnose","methode, kathartische"],
+ ["Methode, kathartische","Katharsis","",null,null,"see",1546,"Katharsis","methode, kathartische"],
+ [
+  "Methode, kathartische","Psychodrama","",null,null,"see",2507,"Psychodrama",
+  "methode, kathartische"
+ ],
  ["Methode, kritische","Kritik","I",null,null,"ref",1694,"Kritik","methode, kritische"],
  ["Methode, kritische","Kritizismus","",null,null,"ref",1698,"Kritizismus","methode, kritische"],
  [
@@ -1194,7 +1223,7 @@ HWPH.put("r/6d-65",
   "methode, phanomenologische"
  ],
  [
-  "Methode, phänomenologische","Methode","V",null,null,"see",1955,"Methode",
+  "Methode, phänomenologische","Methode","V 3",null,null,"see",1955,"Methode",
   "methode, phanomenologische"
  ],
  [
@@ -1287,9 +1316,10 @@ HWPH.put("r/6d-65",
  ],
  ["Methode, skeptische","Antithetik","",null,null,"see",191,"Antithetik","methode, skeptische"],
  [
-  "Methode, sokratische","Sokratik Methode, spekulative","",null,null,"ref",null,null,
+  "Methode, sokratische","Sokratik","",null,null,"ref",2914,"Sokratik; Sokratismus",
   "methode, sokratische"
  ],
+ ["Methode, spekulative","Verstehen","","11","924","ref",3438,"Verstehen","methode, spekulative"],
  [
   "Methode, synkritische","Beispiel; Exempel","","1","819","ref",379,
   "Beispiel, Exempel, exemplarisch","methode, synkritische"
@@ -1412,39 +1442,17 @@ HWPH.put("r/6d-65",
  ],
  ["Metrik","Poetik","II","7","1017","ref",2389,"Poetik","metrik"],
  ["metrischer Raum","Geometrie","","3","327","ref",1078,"Geometrie","metrischer raum"],
+ ["Metrum","Rhythmus","I (mus.)","8","1027f.","ref",2715,"Rhythmus","metrum"],
  [
   "metus irrationalis","Superstition; Aberglaube","II","10","638","ref",3080,
   "Superstition; Aberglaube","metus irrationalis"
  ],
- ["Medizin","Medizin","III","5","989","main",1906,"Medizin, Heilkunst, Medizinphilosophie","medizin"],
- ["Medizin","Ordnung","III","6","1292f.","ref",2233,"Ordnung","medizin"],
  [
   "Meinungsfreiheit","Meinungsfreiheit","",null,null,"main",1914,"Meinungsfreiheit",
   "meinungsfreiheit"
  ],
  ["Meinungsfreiheit","Zensur","I (pol.)","12","1288","ref",3683,"Zensur","meinungsfreiheit"],
- ["Methode","Methode","V 3","5","1330","main",1955,"Methode","methode"],
  ["Mengenlehre","Mengenlehre","","5","1051","main",1916,"Mengenlehre","mengenlehre"],
- ["Medizin","Medizin","I","5","973","main",1906,"Medizin, Heilkunst, Medizinphilosophie","medizin"],
- [
-  "Methode, polemische","Methode, polemische","",null,null,"main",1964,"Methode, polemische",
-  "methode, polemische"
- ],
- ["Methode, polemische","These","II","10","1178","ref",3186,"These","methode, polemische"],
- ["Methode, polemische","Widerlegung","","12","682","ref",3605,"Widerlegung","methode, polemische"],
- ["Mesotes","Mesotes","",null,null,"main",1933,"Mesotes","mesotes"],
- ["Mesotes","Dyas","","2","302","ref",643,"Dyas","mesotes"],
- ["Methode","Methode","III 1","5","1308","main",1955,"Methode","methode"],
- ["Menschenwürde","Menschenwürde","","5","1125","main",1924,"Menschenwürde","menschenwurde"],
- ["Menschenwürde","Versprechen","","11","907","ref",3435,"Versprechen","menschenwurde"],
- ["Mengenlehre","Mengenlehre","","5","1044f.","main",1916,"Mengenlehre","mengenlehre"],
- [
-  "Menschheit; Menschengeschlecht","Menschheit; Menschengeschlecht","II","5","1133","main",1925,
-  "Menschheit, Menschengeschlecht","menschheit; menschengeschlecht"
- ],
- ["Metaphysik","Metaphysik","III","5","1209ff.","main",1944,"Metaphysik","metaphysik"],
- ["Mengenlehre","Mengenlehre","","5","1051f.","main",1916,"Mengenlehre","mengenlehre"],
- ["Mensch","Mensch","III",null,null,"main",1917,"Mensch","mensch"],
  ["Meier Christian","Isonomie","","4","631f.","author",1504,"Isonomie","meier christian"],
  ["Meier Christian","Politeia","","7","1034–1036","author",2394,"Politeia","meier christian"],
  ["Meier Christian","Politik","I","7","1038–1047","author",2396,"Politik","meier christian"],
@@ -1530,8 +1538,14 @@ HWPH.put("r/6d-65",
   "Meier-Oeser Stephan","Verbum mentis","","11","592–595","author",3387,"Verbum mentis",
   "meier-oeser stephan"
  ],
- ["Meier-Oeser Stephan","Vielheit","",null,null,"author",3462,"Vielheit","meier-oeser stephan"],
- ["Meier-Oeser Stephan","Wissen","I",null,null,"author",3634,"Wissen","meier-oeser stephan"],
+ [
+  "Meier-Oeser Stephan","Vielheit I.","III","11","1041–1050","author",3462,"Vielheit",
+  "meier-oeser stephan"
+ ],
+ [
+  "Meier-Oeser Stephan","Wissen I A; II.","IV","12","855f.","author",3634,"Wissen",
+  "meier-oeser stephan"
+ ],
  [
   "Meier-Oeser Stephan","Wissenschaft","I","12","902–915","author",3635,"Wissenschaft",
   "meier-oeser stephan"
@@ -1544,7 +1558,10 @@ HWPH.put("r/6d-65",
   "Meier-Oeser Stephan","Wort","I (sprach.)","12","1023–1030","author",3656,"Wort",
   "meier-oeser stephan"
  ],
- ["Meier-Oeser Stephan","Wort","",null,null,"author",3656,"Wort","meier-oeser stephan"],
+ [
+  "Meier-Oeser Stephan","Wort, inneres","","12","1037–1050","author",3657,
+  "Wort, inneres; Rede, innere","meier-oeser stephan"
+ ],
  [
   "Meier-Oeser Stephan","Wurzelwort; Stammwort; Urwort","","12","1093–1097","author",3663,
   "Wurzelwort; Stammwort; Urwort","meier-oeser stephan"
@@ -1666,8 +1683,8 @@ HWPH.put("r/6d-65",
  ["Menne Albert","Gegenteil","","3","136","author",1022,"Gegenteil","menne albert"],
  ["Menne Albert","Geltungstheorie","","3","237f.","author",1046,"Geltungstheorie","menne albert"],
  [
-  "Menne Albert","Genau dann, wenn ..., so","",null,null,"author",1058,"Genau dann, wenn ..., so",
-  "menne albert"
+  "Menne Albert","Genau dann, wenn ..., so ...","","3","268","author",1058,
+  "Genau dann, wenn ..., so","menne albert"
  ],
  [
   "Menne Albert","Generalisierung","I (log.)","3","269","author",1062,"Generalisierung",
@@ -1702,9 +1719,12 @@ HWPH.put("r/6d-65",
   "Menne Albert","Materie des Urteils","","5","924f.","author",1893,"Materie des Urteils",
   "menne albert"
  ],
- ["Menne Albert","Modalität","",null,null,"author",1995,"Modalität","menne albert"],
+ [
+  "Menne Albert","Modalität des Urteils","","6","12–16","author",1996,"Modalität (des Urteils)",
+  "menne albert"
+ ],
  ["Menne Albert","Negat","","6","666","author",2099,"Negat","menne albert"],
- ["Menne Albert","Negation","I (log.)","6","666–670","author",2099,"Negat","menne albert"],
+ ["Menne Albert","Negation","I (log.)","6","666–670","author",2100,"Negation","menne albert"],
  ["Menne Albert","Negator","","6","694f.","author",2104,"Negator","menne albert"],
  ["Menne Albert","Obversion","","6","1089f.","author",2197,"Obversion","menne albert"],
  ["Menne Albert","Opposition","I (log.)","6","1237f.","author",2230,"Opposition","menne albert"],

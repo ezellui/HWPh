@@ -102,7 +102,7 @@ HWPH.put("a/1978",
   {"id":691,"lemma":"Einstellung","tf":2},
   {"id":2340,"lemma":"Phänomen","tf":3}
  ],
- "see_also":[{"id":2351,"lemma":"Philanthropie"}],
+ "see_also":[{"id":2351,"lemma":"Philanthropie"},{"id":3379,"lemma":"Verachtung; Mißachtung"}],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Misanthropie"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Misanthropie"}

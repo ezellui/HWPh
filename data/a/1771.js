@@ -30,6 +30,7 @@ HWPH.put("a/1771",
  "register":[
   {"term":"analogia doloris","qualifier":"","band":"5","col":"211"},
   {"term":"Apathie","qualifier":"","band":"5","col":"208"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"Sadismus, theologischer","qualifier":"","band":"5","col":"211"},
   {"term":"Unlustvermeidung","qualifier":"","band":"5","col":"211"}
  ],

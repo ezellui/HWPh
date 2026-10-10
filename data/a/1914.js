@@ -106,6 +106,6 @@ HWPH.put("a/1914",
  ],
  "see_also":[{"id":3201,"lemma":"Toleranz"},{"id":3683,"lemma":"Zensur"}],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Meinungsfreiheit"}],
- "reg_authors":[{"name":"Lorenz Rosemarie","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Lorenz Rosemarie","n":1},{"name":"Red","n":241}]
 }
 );

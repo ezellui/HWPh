@@ -77,7 +77,10 @@ HWPH.put("a/2532",
   {"id":1325,"lemma":"Hypnose"},
   {"id":1772,"lemma":"Leidensdruck"},
   {"id":1826,"lemma":"Logotherapie"},
-  {"id":1955,"lemma":"Methode"}
+  {"id":1955,"lemma":"Methode"},
+  {"id":2507,"lemma":"Psychodrama"},
+  {"id":2530,"lemma":"Psychosynthese"},
+  {"id":3184,"lemma":"Therapie; Therapeutik"}
  ],
  "groups":[
   {"id":25,"name":"Medizin","label":"Psychotherapie"},

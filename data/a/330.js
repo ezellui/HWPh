@@ -22,6 +22,6 @@ HWPH.put("a/330",
  "mentions":[{"id":3673,"lemma":"Zeichen","tf":2}],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Autonym"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -8,7 +8,7 @@ HWPH.put("r/65-6b",
  ["Ekpyrosis","Ekpyrosis","","2","433f.","main",701,"Ekpyrosis","ekpyrosis"],
  ["Ekpyrosis","Ewigkeit der Welt","",null,null,"see",855,"Ewigkeit der Welt","ekpyrosis"],
  ["Ekpyrosis","Kreislauftheorien","",null,null,"see",1688,"Kreislauftheorien","ekpyrosis"],
- ["Ekpyrosis","Weltende ἐκπύρωσις","",null,null,"see",null,null,"ekpyrosis"],
+ ["Ekpyrosis","Weltende","",null,null,"see",3562,"Weltende; Weltuntergang","ekpyrosis"],
  ["Ekstase","Ekstase","","2","434–436","main",702,"Ekstase","ekstase"],
  ["Ekstase","Erhebung","",null,null,"see",793,"Erhebung","ekstase"],
  ["Ekstase","Erleuchtung","",null,null,"see",807,"Erleuchtung","ekstase"],
@@ -27,7 +27,6 @@ HWPH.put("r/65-6b",
  ["Ekthesis","These","II","10","1178","ref",3186,"These","ekthesis"],
  ["Ektypus","Ektypus","","2","436f.","main",703,"Ektypus","ektypus"],
  ["Ektypus","Archetypus","",null,null,"see",239,"Archetypus","ektypus"],
- ["Ektypus","Typos; Typologie","I (theol.)",null,null,"see",3244,"Typos; Typologie","ektypus"],
- ["Ekstase","Ekstase","II","2","435","main",702,"Ekstase","ekstase"]
+ ["Ektypus","Typos; Typologie","I (theol.)",null,null,"see",3244,"Typos; Typologie","ektypus"]
 ]
 );

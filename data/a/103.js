@@ -22,6 +22,7 @@ HWPH.put("a/103",
   {"term":"Einzelheit","qualifier":"","band":"1","col":"193"},
   {"term":"Integral","qualifier":"","band":"1","col":"193"},
   {"term":"Reihe, unendliche","qualifier":"","band":"1","col":"193"},
+  {"term":"Stetigkeit","qualifier":"","band":"1","col":"193"},
   {"term":"universalitas","qualifier":"","band":null,"col":null},
   {"term":"universitas","qualifier":"","band":null,"col":null}
  ],

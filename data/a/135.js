@@ -23,6 +23,7 @@ HWPH.put("a/135",
  "outlinks":[],
  "register":[
   {"term":"Fakultäten, Streit der","qualifier":"","band":"1","col":"294f."},
+  {"term":"Magd der Theologie","qualifier":"","band":null,"col":null},
   {"term":"obere/untere Fakultät","qualifier":"","band":"1","col":"294f."},
   {"term":"Streit der Fakultäten","qualifier":"","band":"1","col":"294f."}
  ],

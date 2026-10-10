@@ -26,7 +26,7 @@ HWPH.put("a/1134",
  "outlinks":[],
  "register":[
   {"term":"Alltag","qualifier":"","band":"3","col":"621"},
-  {"term":"Apathie","qualifier":"","band":"3","col":"622"},
+  {"term":"Gelassenheit","qualifier":"","band":"3","col":"622"},
   {"term":"gewöhnlich","qualifier":"","band":"3","col":"621"},
   {"term":"Trägheit (eth.)","qualifier":"","band":"3","col":"621"},
   {"term":"Willensfaulheit","qualifier":"","band":"3","col":"621"}

@@ -1,50 +1,27 @@
 HWPH.put("r/77-69",
 [
- [
-  "Widerspruchsfreiheit","Widerspruchsfreiheit","",null,null,"main",3609,"Widerspruchsfreiheit",
-  "widerspruchsfreiheit"
- ],
- [
-  "Wildheit; Grausamkeit cuius regio eius religio","Wildheit; Grausamkeit cuius regio eius religio",
-  "",null,null,"main",3619,"Wildheit; Grausamkeit; Rohheit",
-  "wildheit; grausamkeit cuius regio eius religio"
- ],
- ["Wissen","Wissen","VII","12","901","main",3634,"Wissen","wissen"],
- ["Wille","Wille","III C","12","795","main",3620,"Wille","wille"],
- ["Wille, guter","Wille, guter","","12","796","main",3621,"Wille, guter","wille, guter"],
  ["Wiederholung","Wiederholung","",null,null,"main",3616,"Wiederholung","wiederholung"],
- ["Willkür","Willkür","",null,null,"main",3624,"Willkür","willkur"],
+ [
+  "Wille zur Macht","Wille zur Macht","(Nietzsche)",null,null,"main",3622,"Wille zur Macht",
+  "wille zur macht"
+ ],
+ ["Wille zur Macht","Politik","III","7","1062f.","ref",2396,"Politik","wille zur macht"],
+ [
+  "Wille zur Macht","Sein, moralisches","","9","241","ref",2808,"Sein, moralisches",
+  "wille zur macht"
+ ],
+ ["Wille zur Macht","Staat","II","10","33","ref",2998,"Staat","wille zur macht"],
+ ["Wille zur Macht","Wissen","VII","12","901","ref",3634,"Wissen","wille zur macht"],
  [
   "Wissenschaftstheorie","Wissenschaftstheorie","","12","977","main",3646,
   "Wissenschaftstheorie; Wissenschaftsphilosophie","wissenschaftstheorie"
  ],
- ["Wissenschaft","Wissenschaft","III","12","946","main",3635,"Wissenschaft","wissenschaft"],
- [
-  "Wissenschaft","Wissenschaftstheorie","","12","978","ref",3646,
-  "Wissenschaftstheorie; Wissenschaftsphilosophie","wissenschaft"
- ],
- ["Wirken Gottes","Wirken Gottes","","12","825","main",3627,"Wirken Gottes","wirken gottes"],
- ["Witz","Witz","","12","987","main",3648,"Witz","witz"],
- [
-  "Wiedergutmachung","Wiedergutmachung","",null,null,"main",3615,"Wiedergutmachung",
-  "wiedergutmachung"
- ],
- [
-  "Wildheit; Grausamkeit","Wildheit; Grausamkeit","",null,null,"main",3619,
-  "Wildheit; Grausamkeit; Rohheit","wildheit; grausamkeit"
- ],
- ["Wissen","Wissen","V","12","890","main",3634,"Wissen","wissen"],
- ["Willensschwäche","Willensschwäche","","12","803","main",3623,"Willensschwäche","willensschwache"],
  ["Widerfahrnis","Widerfahrnis","","12","678–680","main",3604,"Widerfahrnis","widerfahrnis"],
  ["Widerfahrnis","Leiden","",null,null,"see",1771,"Leiden","widerfahrnis"],
  [
-  "Widerfahrnis","Passivität; passive Synthesis","",null,null,"see",2288,
-  "Passivität, passive Synthesis","widerfahrnis"
+  "Widerfahrnis","Passivität; passive","",null,null,"see",2288,"Passivität, passive Synthesis",
+  "widerfahrnis"
  ],
- ["Widerfahrnis","Pathisch; Pathik I","",null,null,"see",2290,"Pathisch, Pathik","widerfahrnis"],
- ["Widerfahrnis","Situation","",null,null,"see",2904,"Situation","widerfahrnis"],
- ["Widerfahrnis","Tun/Leiden","",null,null,"see",3241,"Tun/Leiden","widerfahrnis"],
- ["Widerfahrnis","Unverfügbarkeit","",null,null,"see",3332,"Unverfügbarkeit","widerfahrnis"],
  ["Widerlegung","Widerlegung","","12","680–685","main",3605,"Widerlegung","widerlegung"],
  ["Widerlegung","Antithetik","",null,null,"see",191,"Antithetik","widerlegung"],
  ["Widerlegung","Autofalsifikation","",null,null,"see",320,"Autofalsifikation","widerlegung"],
@@ -52,21 +29,22 @@ HWPH.put("r/77-69",
  ["Widerlegung","Eristik","",null,null,"see",795,"Eristik","widerlegung"],
  ["Widerlegung","Falsifikation","(Popper)",null,null,"see",892,"Falsifikation","widerlegung"],
  ["Widerlegung","Methode, polemische","",null,null,"see",1964,"Methode, polemische","widerlegung"],
- [
-  "Widerlegung","Obligatio; Ars obligatoria II (log.)","",null,null,"see",2194,
-  "Obligatio, Ars obligatoria","widerlegung"
- ],
- ["Widerlegung","These","",null,null,"see",3186,"These","widerlegung"],
- ["Widerlegung","Versuch und Irrtum","",null,null,"see",3441,"Versuch und Irrtum","widerlegung"],
- ["Widerlegung","Widerspruch","",null,null,"see",3607,"Widerspruch","widerlegung"],
+ ["Widerlegung","Obligatio; Ars","",null,null,"see",2194,"Obligatio, Ars obligatoria","widerlegung"],
  ["Widerlegung","Fallibilismus","(Peirce)",null,null,"ref",891,"Fallibilismus","widerlegung"],
  [
-  "Widerlegung","Irrtum","(Schlussfehler)","4","608","ref",1500,"Irrtum (Schlußfehler)",
+  "Widerlegung","Irrtum (Schlussfehler)","","4","608","ref",1500,"Irrtum (Schlußfehler)",
   "widerlegung"
  ],
  ["Widerlegung","Kritik","II","4","1274","ref",1694,"Kritik","widerlegung"],
  ["Widerlegung","Negation","I (log.)","6","669","ref",2100,"Negation","widerlegung"],
- ["Widerlegung","Rationalismus","",null,null,"ref",2574,"Rationalismus","widerlegung"],
+ [
+  "Widerlegung","Rationalismus, kritischer","(Popper)","8","51","ref",2575,
+  "Rationalismus, Kritischer","widerlegung"
+ ],
+ [
+  "Widerlegung","Voraussage","","11","1154","ref",3487,"Voraussage; Vorhersage; Prognose",
+  "widerlegung"
+ ],
  ["Widerlegungstheologie","Polemik","I",null,null,"ref",2392,"Polemik","widerlegungstheologie"],
  [
   "Widerlegungstheologie","Widerlegung","","12","682","ref",3605,"Widerlegung",
@@ -83,8 +61,12 @@ HWPH.put("r/77-69",
  ["Widerspiegelung","Empiriomonismus","",null,null,"see",726,"Empiriomonismus","widerspiegelung"],
  ["Widerspiegelung","Überbau/Basis","",null,null,"see",3247,"Überbau/Basis","widerspiegelung"],
  [
-  "Widerspiegelung","Kunst; Kunstwerk IV 5 Widerspiegelung, psychische","",null,null,"ref",1712,
-  "Kunst, Kunstwerk","widerspiegelung"
+  "Widerspiegelung","Kunst; Kunstwerk","IV 5",null,null,"ref",1712,"Kunst, Kunstwerk",
+  "widerspiegelung"
+ ],
+ [
+  "Widerspiegelung, psychische","Psychologie","","7","1641","ref",2511,"Psychologie",
+  "widerspiegelung, psychische"
  ],
  [
   "Widerspiegelungstheorie","Widerspiegelung","",null,null,"ref",3606,
@@ -106,13 +88,18 @@ HWPH.put("r/77-69",
   "Widerspruch","Satz vom ausgeschlossenen Dritten","",null,null,"see",2747,
   "Satz vom ausgeschlossenen Dritten","widerspruch"
  ],
- ["Widerspruch","Widerspruch","",null,null,"see",3607,"Widerspruch","widerspruch"],
+ ["Widerspruch","Widerspruch, performativer","",null,null,"see",3607,"Widerspruch","widerspruch"],
+ ["Widerspruch","Widerspruchsfreiheit","",null,null,"see",3609,"Widerspruchsfreiheit","widerspruch"],
  ["Widerspruch","Koinzidenz","","4","880","ref",1582,"Koinzidenz","widerspruch"],
  ["Widerspruch","Konflikt","I (soz.)","4","947","ref",1608,"Konflikt","widerspruch"],
  ["Widerspruch","Pflichtenkollision","","7","450f.","ref",2336,"Pflichtenkollision","widerspruch"],
  ["Widerspruch","Trieb","I (allg.)","10","1486","ref",3229,"Trieb","widerspruch"],
  ["Widerspruch","Vermittlung","","11","723f.","ref",3417,"Vermittlung","widerspruch"],
  ["Widerspruch","Vernichtung","","11","743","ref",3422,"Vernichtung; Vernichten","widerspruch"],
+ [
+  "Widerspruch, antagonistischer","Antagonismus","",null,null,"ref",171,"Antagonismus",
+  "widerspruch, antagonistischer"
+ ],
  [
   "Widerspruch, begrifflicher","Contradictio in terminis","",null,null,"ref",513,
   "Contradictio in terminis","widerspruch, begrifflicher"
@@ -125,11 +112,39 @@ HWPH.put("r/77-69",
   "Widerspruch, gesellschaftlicher","Antagonismus","","1","359","ref",171,"Antagonismus",
   "widerspruch, gesellschaftlicher"
  ],
- ["Widerspruch","Widerspruch","",null,null,"main",3607,"Widerspruch","widerspruch"],
  [
-  "Widerspruch, pragmatischer","Widerspruch","",null,null,"ref",3607,"Widerspruch",
+  "Widerspruch, performativer","Widerspruch, performativer","","12","699f.","main",3607,
+  "Widerspruch","widerspruch, performativer"
+ ],
+ [
+  "Widerspruch, performativer","Insolubilia","",null,null,"see",1450,"Insolubilia",
+  "widerspruch, performativer"
+ ],
+ [
+  "Widerspruch, performativer","Letztbegründung","",null,null,"see",1784,"Letztbegründung",
+  "widerspruch, performativer"
+ ],
+ [
+  "Widerspruch, performativer","Performativ","",null,null,"see",2310,"Performativ",
+  "widerspruch, performativer"
+ ],
+ [
+  "Widerspruch, performativer","Selbstreferenz","I (log.)",null,null,"see",2845,"Selbstreferenz",
+  "widerspruch, performativer"
+ ],
+ [
+  "Widerspruch, performativer","Transzendentalpragmatik/Universalpragmatik","",null,null,"see",3222,
+  "Transzendentalpragmatik/Universalpragmatik","widerspruch, performativer"
+ ],
+ [
+  "Widerspruch, performativer","Widerlegung","",null,null,"see",3605,"Widerlegung",
+  "widerspruch, performativer"
+ ],
+ [
+  "Widerspruch, pragmatischer","Widerspruch, performativer","",null,null,"ref",3607,"Widerspruch",
   "widerspruch, pragmatischer"
  ],
+ ["Widerspruch, wesentlicher","Wesen","IV","12","640","ref",3595,"Wesen","widerspruch, wesentlicher"],
  [
   "Widerspruch der Vorschriften","Pflichtenkollision","",null,null,"ref",2336,"Pflichtenkollision",
   "widerspruch der vorschriften"
@@ -186,9 +201,22 @@ HWPH.put("r/77-69",
   "widerspruchliche wahrheiten"
  ],
  ["Widerstand","Widerstand","","12","703–714","main",3610,"Widerstand","widerstand"],
+ ["Widerstand","Antitypie","(Leibniz)",null,null,"see",192,"Antitypie","widerstand"],
+ ["Widerstand","Impetus","",null,null,"see",1397,"Impetus","widerstand"],
+ ["Widerstand","Solidität","",null,null,"see",2917,"Solidität","widerstand"],
+ ["Widerstand","Trägheit","II (phys.)",null,null,"see",3213,"Trägheit","widerstand"],
+ ["Widerstand","Undurchdringlichkeit","",null,null,"see",3289,"Undurchdringlichkeit","widerstand"],
  [
-  "Widerstand","Erstheit; Zweitheit; Drittheit (Peirce)","","2","729","ref",816,"Erste Philosophie",
+  "Widerstand","Realität der Aussenwelt","",null,null,"see",2593,"Realität der Außenwelt",
   "widerstand"
+ ],
+ ["Widerstand","Abwehrmechanismus","",null,null,"see",36,"Abwehrmechanismus","widerstand"],
+ ["Widerstand","Übertragung","",null,null,"see",3266,"Übertragung","widerstand"],
+ ["Widerstand","Verdrängung","",null,null,"see",3393,"Verdrängung","widerstand"],
+ ["Widerstand","Zensur","II (psych.)",null,null,"see",3683,"Zensur","widerstand"],
+ [
+  "Widerstand","Erstheit; Zweitheit; Drittheit","(Peirce)","2","729","ref",817,
+  "Erstheit, Zweitheit, Drittheit","widerstand"
  ],
  ["Widerstand","Gefühlsdrang","(Scheler)","3","99","ref",1012,"Gefühlsdrang","widerstand"],
  ["Widerstand","Gegenbesetzung","","3","103","ref",1017,"Gegenbesetzung","widerstand"],
@@ -269,7 +297,7 @@ HWPH.put("r/77-69",
  ["Wiedererkennen","Klar und deutlich","",null,null,"see",1571,"Klar und deutlich","wiedererkennen"],
  ["Wiedererkennen","Rekognition","(Kant)",null,null,"see",2666,"Rekognition","wiedererkennen"],
  [
-  "Wiedererkennen","Erkenntnis II (psych.)","","2","669f.","ref",796,"Erkennen, Erkenntnis",
+  "Wiedererkennen","Erkenntnis","II (psych.)","2","669f.","ref",796,"Erkennen, Erkenntnis",
   "wiedererkennen"
  ],
  [
@@ -302,7 +330,9 @@ HWPH.put("r/77-69",
   "wiedergutmachung"
  ],
  ["Wiedergutmachung","Kompensation","",null,null,"see",1597,"Kompensation","wiedergutmachung"],
- ["Wiedergutmachung","Verzeihen Wiedergutmachung","",null,null,"see",null,null,"wiedergutmachung"],
+ ["Wiedergutmachung","Verzeihen","",null,null,"see",3457,"Verzeihen; Vergeben","wiedergutmachung"],
+ ["Wiedergutmachung","Rache","I","8","3","ref",2561,"Rache","wiedergutmachung"],
+ ["Wiedergutmachung","Versöhnung","I (theol.)","11","893","ref",3434,"Versöhnung","wiedergutmachung"],
  ["Wiederherstellung","Apokatastasis","",null,null,"ref",204,"Apokatastasis","wiederherstellung"],
  ["Wiederherstellung","Restauration","",null,null,"ref",2697,"Restauration","wiederherstellung"],
  [
@@ -331,7 +361,7 @@ HWPH.put("r/77-69",
  ["Wiederholungszwang","Wiederholung","","12","743f.","ref",3616,"Wiederholung","wiederholungszwang"],
  ["Wiederholungszwang","Zwang","II (psych.)","12","1481","ref",3717,"Zwang","wiederholungszwang"],
  [
-  "Wiederkehr, ewige","Wiederkunft, ewige (Nietzsche)","",null,null,"ref",3617,
+  "Wiederkehr, ewige","Wiederkunft, ewige","(Nietzsche)",null,null,"ref",3617,
   "Wiederkunft, ewige; Wiederkehr, ewige","wiederkehr, ewige"
  ],
  [
@@ -356,20 +386,17 @@ HWPH.put("r/77-69",
   "wiederkehr des verdrangten"
  ],
  [
-  "Wiederkunft, ewige (Nietzsche)","Wiederkunft, ewige (Nietzsche)","","12","746–751","main",3616,
-  "Wiederholung","wiederkunft, ewige (nietzsche)"
+  "Wiederkunft, ewige","Wiederkunft, ewige","(Nietzsche)","12","746–751","main",3616,"Wiederholung",
+  "wiederkunft, ewige"
  ],
  [
-  "Wiederkunft, ewige (Nietzsche)","Amor fati","(Nietzsche)",null,null,"see",117,"Amor fati",
-  "wiederkunft, ewige (nietzsche)"
+  "Wiederkunft, ewige","Amor fati","(Nietzsche)",null,null,"see",117,"Amor fati",
+  "wiederkunft, ewige"
  ],
+ ["Wiederkunft, ewige","Ekpyrosis","",null,null,"see",701,"Ekpyrosis","wiederkunft, ewige"],
  [
-  "Wiederkunft, ewige (Nietzsche)","Ekpyrosis","",null,null,"see",701,"Ekpyrosis",
-  "wiederkunft, ewige (nietzsche)"
- ],
- [
-  "Wiederkunft, ewige (Nietzsche)","Kreislauftheorien","",null,null,"see",1688,"Kreislauftheorien",
-  "wiederkunft, ewige (nietzsche)"
+  "Wiederkunft, ewige","Kreislauftheorien","",null,null,"see",1688,"Kreislauftheorien",
+  "wiederkunft, ewige"
  ],
  ["Wiedervergeltung","Strafe","III 1","10","228ff.","ref",3035,"Strafe","wiedervergeltung"],
  ["Wiedervergeltungsrecht","Rache","I","8","3","ref",2561,"Rache","wiedervergeltungsrecht"],
@@ -395,11 +422,11 @@ HWPH.put("r/77-69",
  ["Wilde, der","Primitiv","",null,null,"ref",2454,"Primitiv, der bzw. das Primitive","wilde, der"],
  ["Wilde, der","Naturmensch","","6","534","ref",2087,"Naturmensch","wilde, der"],
  [
-  "Wilde, der","Rationalität II (ökon.)","","8","59","ref",2576,"Rationalität, Rationalisierung",
+  "Wilde, der","Rationalität","II (ökon.)","8","59","ref",2576,"Rationalität, Rationalisierung",
   "wilde, der"
  ],
  [
-  "wildes Denken","Faktenaussenwelt/Fakteninnenwelt (Gehlen)","","2","885","ref",887,
+  "wildes Denken","Faktenaussenwelt/Fakteninnenwelt","(Gehlen)","2","885","ref",887,
   "Faktenaußenwelt/Fakteninnenwelt","wildes denken"
  ],
  [
@@ -433,7 +460,7 @@ HWPH.put("r/77-69",
  ["Wille","Wunsch","",null,null,"see",3661,"Wunsch","wille"],
  ["Wille","Entschluss","",null,null,"ref",756,"Entschluß","wille"],
  ["Wille","Intellekt","",null,null,"ref",1459,"Intellekt","wille"],
- ["Wille","Moralität; Sittlichkeit (Hegel)","",null,null,"ref",2028,"Moralität/Legalität","wille"],
+ ["Wille","Moralität; Sittlichkeit","(Hegel)",null,null,"ref",2028,"Moralität/Legalität","wille"],
  ["Wille","Charakter","I (allg.)","1","988f.","ref",486,"Charakter","wille"],
  ["Wille","Charakter","II (psych.)","1","991","ref",486,"Charakter","wille"],
  ["Wille","Drang","","2","291","ref",635,"Drang","wille"],
@@ -470,10 +497,7 @@ HWPH.put("r/77-69",
   "wille, gemeinsamer"
  ],
  ["Wille, guter","Wille, guter","","12","796f.","main",3621,"Wille, guter","wille, guter"],
- [
-  "Wille, guter","Gut; das Gute IV Wille, guter","",null,null,"see",1203,"Gut, das Gute, das Gut",
-  "wille, guter"
- ],
+ ["Wille, guter","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","wille, guter"],
  ["Wille, heiliger","Menschenwürde","","5","1125","ref",1924,"Menschenwürde","wille, heiliger"],
  ["Wille, staatlicher","Gesetz","I (jur.)","3","490","ref",1105,"Gesetz","wille, staatlicher"],
  [
@@ -585,14 +609,22 @@ HWPH.put("r/77-69",
  ["Willkür","Vertrag","II (soz./pol.)","11","972","ref",3445,"Vertrag","willkur"],
  ["Willkür","Wille","III A","12","784f.","ref",3620,"Wille","willkur"],
  ["Willkürbewegung","Automatismus","",null,null,"ref",325,"Automatismus","willkurbewegung"],
- ["Willkürbewegung","Reflex Willkürhandlung","",null,null,"ref",null,null,"willkurbewegung"],
- ["Wille","Wille","III B","12","791","main",3620,"Wille","wille"],
- ["Willkürherrschaft","Despotie willkürlich","",null,null,"ref",null,null,"willkurherrschaft"],
+ ["Willkürbewegung","Reflex","",null,null,"ref",2633,"Reflex, Reflexbewegung","willkurbewegung"],
+ ["Willkürhandlung","Wille","III B","12","791","ref",3620,"Wille","willkurhandlung"],
+ ["Willkürherrschaft","Despotie","",null,null,"ref",571,"Despotie, Despotismus","willkurherrschaft"],
+ ["willkürlich","Arbiträr","(Saussure)",null,null,"ref",235,"Arbiträr","willkurlich"],
+ ["willkürlich","Sprache","III","9","1484f.","ref",2985,"Sprache","willkurlich"],
  ["Willkürverbot","Rechtsgleichheit","","8","277","ref",2604,"Rechtsgleichheit","willkurverbot"],
  ["Willkürwahl","Wahl","",null,null,"ref",3517,"Wahl","willkurwahl"],
  ["Wink","Definition","II","2","38","ref",535,"Definition","wink"],
  ["Wir","Wir","","12","812–820","main",3625,"Wir","wir"],
- ["Wir","Andere","",null,null,"see",137,"Andere","wir"],
+ ["Wir","Andere, der","",null,null,"see",137,"Andere","wir"],
+ ["Wir","Du","",null,null,"see",639,"Du","wir"],
+ ["Wir","Gruppe, soziale","",null,null,"see",1199,"Gruppe, soziale","wir"],
+ ["Wir","Ich-Du-Verhältnis","",null,null,"see",1336,"Ich-Du-Verhältnis","wir"],
+ ["Wir","Mitmensch","",null,null,"see",1982,"Mitmensch","wir"],
+ ["Wir","Personalismus","II",null,null,"see",2320,"Personalismus","wir"],
+ ["Wir","Verständigung","",null,null,"see",3437,"Verständigung","wir"],
  ["Wir","Geist","VIII","3","192","ref",1030,"Geist","wir"],
  ["Wir","Individuum; Individualität","III","4","314","ref",1424,"Individuum, Individualität","wir"],
  ["Wir","Liebe","IV","5","327f.","ref",1795,"Liebe","wir"],
@@ -648,7 +680,7 @@ HWPH.put("r/77-69",
  ["Wirklichkeit","Akt/Potenz","",null,null,"ref",83,"Akt/Potenz","wirklichkeit"],
  ["Wirklichkeit","Entelechie","I (met.)",null,null,"ref",746,"Entelechie","wirklichkeit"],
  ["Wirklichkeit","Modalanalyse","(Hartmann)",null,null,"ref",1993,"Modalanalyse","wirklichkeit"],
- ["Wirklichkeit","Prozess II (Whitehead)","",null,null,"ref",2499,"Prozeß","wirklichkeit"],
+ ["Wirklichkeit","Prozess","II (Whitehead)",null,null,"ref",2499,"Prozeß","wirklichkeit"],
  ["Wirklichkeit","Repugnanz","II (Kant)",null,null,"ref",2689,"Repugnanz","wirklichkeit"],
  [
   "Wirklichkeit","Verwirklichung der Philosophie","",null,null,"ref",3454,
@@ -659,7 +691,11 @@ HWPH.put("r/77-69",
   "Wirklichkeit","Kategorie; Kategorienlehre","V","4","749ff.","ref",1540,
   "Kategorie, Kategorienlehre","wirklichkeit"
  ],
- ["Wirklichkeit","Ontologie","",null,null,"ref",2218,"Ontologie","wirklichkeit"],
+ ["Wirklichkeit","Ontologie","3c","6","1196","ref",2218,"Ontologie","wirklichkeit"],
+ ["Wirklichkeit","Philosophie","IV H","7","753","ref",2353,"Philosophie","wirklichkeit"],
+ ["Wirklichkeit","Realgrund","","8","137","ref",2585,"Realgrund","wirklichkeit"],
+ ["Wirklichkeit","Sein; Seiendes","V 5","9","214","ref",2806,"Sein; Seiendes","wirklichkeit"],
+ ["Wirklichkeit","Welt","III","12","437","ref",3557,"Welt","wirklichkeit"],
  ["Wirklichkeit/Möglichkeit","Dasein","",null,null,"ref",527,"Dasein","wirklichkeit/moglichkeit"],
  [
   "Wirklichkeit/Vernunft","Vernunft, historische","","11","863f.","ref",3424,"Vernunft, historische",
@@ -759,15 +795,19 @@ HWPH.put("r/77-69",
  ["Wirkungsquantum","Naturkonstante","",null,null,"see",2086,"Naturkonstante","wirkungsquantum"],
  ["Wirkungsquantum","Quantenmechanik","",null,null,"see",2548,"Quantenmechanik","wirkungsquantum"],
  [
-  "Wirkungsquantum","Wirkungsprinzip Wirkungszusammenhang","",null,null,"see",null,null,
-  "wirkungsquantum"
+  "Wirkungsquantum","Wirkungsprinzip","",null,null,"see",3630,
+  "Wirkungsprinzip; Prinzip der kleinsten Aktion","wirkungsquantum"
+ ],
+ [
+  "Wirkungszusammenhang","Ursache/Wirkung","IV","11","401","ref",3350,"Ursache/Wirkung",
+  "wirkungszusammenhang"
  ],
  [
   "Wirkungszusammenhang, historischer","Wirkungszusammenhang, historischer","(Dilthey)","12","851f.",
   "main",3632,"Wirkungszusammenhang, historischer","wirkungszusammenhang, historischer"
  ],
  [
-  "Wirkungszusammenhang, historischer","Bewusstsein, geschichtliches (Dilthey)","",null,null,"see",
+  "Wirkungszusammenhang, historischer","Bewusstsein, geschichtliches","(Dilthey)",null,null,"see",
   412,"Bewußtsein","wirkungszusammenhang, historischer"
  ],
  [
@@ -830,6 +870,8 @@ HWPH.put("r/77-69",
  ["Wissen","Geist","V","3","177","ref",1030,"Geist","wissen"],
  ["Wissen","Logik, transzendentale","","5","472ff.","ref",1819,"Logik, transzendentale","wissen"],
  ["Wissen","Philosophie","II E","7","647","ref",2353,"Philosophie","wissen"],
+ ["Wissen","Postmoderne","","7","1143","ref",2416,"Postmoderne","wissen"],
+ ["Wissen","Rechtfertigung","III (analyt. Philos.)","8","257","ref",2601,"Rechtfertigung","wissen"],
  ["Wissen, absolutes","Wissen","V",null,null,"ref",3634,"Wissen","wissen, absolutes"],
  [
   "Wissen, absolutes","Absolut; das Absolute","","1","21f.","ref",27,"Absolut, das Absolute",
@@ -903,8 +945,8 @@ HWPH.put("r/77-69",
  ["Wissen des Wissens","Denken","I","2","81","ref",552,"Denken","wissen des wissens"],
  ["Wissen ist Macht","Macht","I B","5","595","ref",1844,"Macht","wissen ist macht"],
  [
-  "Wissenschaft s. auch","Register der Sachgruppen: Wissenschaftstheorie und Methodenlehre","",null,
-  null,"ref",null,null,"wissenschaft s. auch"
+  "Wissenschaft","Register der Sachgruppen: Wissenschaftstheorie und Methodenlehre","",null,null,
+  "see",null,null,"wissenschaft"
  ],
  ["Wissenschaft","Wissenschaft","","12","902–948","main",3635,"Wissenschaft","wissenschaft"],
  [
@@ -930,7 +972,7 @@ HWPH.put("r/77-69",
  ],
  ["Wissenschaft, beweisende","Beweis","","1","884","ref",410,"Beweis","wissenschaft, beweisende"],
  [
-  "Wissenschaft, beweisende","Erkenntnis I (erk.)","","2","647f.","ref",796,"Erkennen, Erkenntnis",
+  "Wissenschaft, beweisende","Erkenntnis","I (erk.)","2","647f.","ref",796,"Erkennen, Erkenntnis",
   "wissenschaft, beweisende"
  ],
  [
@@ -958,8 +1000,8 @@ HWPH.put("r/77-69",
   "wissenschaft, frohliche"
  ],
  [
-  "Wissenschaft, fröhliche","Heiterkeit; das Heitere Wissenschaft, göttliche","",null,null,"see",
-  1242,"Heiterkeit, das Heitere","wissenschaft, frohliche"
+  "Wissenschaft, fröhliche","Heiterkeit; das","",null,null,"see",1242,"Heiterkeit, das Heitere",
+  "wissenschaft, frohliche"
  ],
  [
   "Wissenschaft, holländische","Rangaku","",null,null,"ref",2566,"Rangaku",
@@ -1086,9 +1128,10 @@ HWPH.put("r/77-69",
   "wissenschaft der zukunft"
  ],
  [
-  "Wissenschaft des Judentums","Judentum (Wissenschaft des Judentums) Wissenschaft des Schönen","",
-  null,null,"ref",null,null,"wissenschaft des judentums"
+  "Wissenschaft des Judentums","Judentum","(Wissenschaft des Judentums)",null,null,"ref",1512,
+  "Judentum, Wesen des Judentums","wissenschaft des judentums"
  ],
+ ["Wissenschaft des Schönen","Genie","III","3","287f.","ref",1071,"Genie","wissenschaft des schonen"],
  [
   "Wissenschaft des Unterrichts","Didaktik","","2","234","ref",592,"Didaktik",
   "wissenschaft des unterrichts"
@@ -1229,7 +1272,11 @@ HWPH.put("r/77-69",
   "Wissenschaftslogik","Wissenschaftslogik","","12","968–972","main",3644,"Wissenschaftslogik",
   "wissenschaftslogik"
  ],
- ["Wissenschaftslogik","Philosophie","IV",null,null,"ref",2353,"Philosophie","wissenschaftslogik"],
+ ["Wissenschaftslogik","Philosophie","IV K","7","788","ref",2353,"Philosophie","wissenschaftslogik"],
+ [
+  "Wissenschaftsphilosophie","Wissenschaftstheorie","",null,null,"ref",3646,
+  "Wissenschaftstheorie; Wissenschaftsphilosophie","wissenschaftsphilosophie"
+ ],
  [
   "Wissenschaftssoziologie","Wissenschaftssoziologie","","12","972f.","main",3645,
   "Wissenschaftssoziologie","wissenschaftssoziologie"
@@ -1251,9 +1298,10 @@ HWPH.put("r/77-69",
   "wissenschaftssprache"
  ],
  [
-  "Wissenschaftssprache","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "Wissenschaftssprache","Philosophie","IV K","7","788","ref",2353,"Philosophie",
   "wissenschaftssprache"
  ],
+ ["Wissenschaftssprache","Pragmatik","","7","1235","ref",2434,"Pragmatik","wissenschaftssprache"],
  [
   "Wissenschaftstheorie","Wissenschaftstheorie","","12","973–981","main",3646,
   "Wissenschaftstheorie; Wissenschaftsphilosophie","wissenschaftstheorie"
@@ -1304,11 +1352,15 @@ HWPH.put("r/77-69",
  ["Witz","Genie","",null,null,"see",1071,"Genie","witz"],
  ["Witz","Ingenium","",null,null,"see",1436,"Ingenium","witz"],
  [
-  "Witz","Invention; Erfindung II (ästh.)","",null,null,"see",1490,
-  "Invention, Erfindung, Entdeckung","witz"
+  "Witz","Invention; Erfindung","II (ästh.)",null,null,"see",1490,"Invention, Erfindung, Entdeckung",
+  "witz"
  ],
  ["Witz","Scharfsinn","",null,null,"see",2753,"Scharfsinn","witz"],
- ["Witz","Urteilskraft Witz","",null,null,"see",null,null,"witz"],
+ ["Witz","Urteilskraft","",null,null,"see",3359,"Urteilskraft; Urteilsvermögen","witz"],
+ ["Witz","Urbanität","",null,null,"ref",3338,"Urbanität","witz"],
+ ["Witz","Analogon rationis","(Baumgarten)","1","229","ref",124,"Analogon rationis","witz"],
+ ["Witz","Parodie","","7","125","ref",2277,"Parodie","witz"],
+ ["Witz","Vergleich","","11","679","ref",3405,"Vergleich","witz"],
  ["Witz, obszöner","Obszön","","6","1083","ref",2196,"Obszön","witz, obszoner"],
  ["Witz, zynischer","Zynismus","","12","1552","ref",3728,"Zynismus; zynisch","witz, zynischer"],
  ["Witzigung","Strafe","V (päd./psych.)","10","256","ref",3035,"Strafe","witzigung"],
@@ -1350,7 +1402,7 @@ HWPH.put("r/77-69",
  ["Wieland Georg","Gesetz, ewiges","","3","514–516","author",1106,"Gesetz, ewiges","wieland georg"],
  ["Wieland Georg","Idee","II B",null,null,"author",1361,"Idee","wieland georg"],
  [
-  "Wieland Georg","Moral; Moralphilosophie II C","","6","153–156","author",2022,
+  "Wieland Georg","Moral; Moralphilosophie","II C","6","153–156","author",2022,
   "Moral, moralisch, Moralphilosophie","wieland georg"
  ],
  ["Wieland Georg","Prinzip","II","7","1345–1355","author",2458,"Prinzip","wieland georg"],
@@ -1392,7 +1444,7 @@ HWPH.put("r/77-69",
  ],
  ["Winckelmann Johannes","Chance","(Weber)","1","979f.","author",483,"Chance","winckelmann johannes"],
  [
-  "Winckelmann Johannes","Despotie II (Weber)","","2","144–146","author",571,"Despotie, Despotismus",
+  "Winckelmann Johannes","Despotie","II (Weber)","2","144–146","author",571,"Despotie, Despotismus",
   "winckelmann johannes"
  ],
  [
@@ -1415,7 +1467,7 @@ HWPH.put("r/77-69",
  ["Winkler Ernst","Landschaft","II (geogr.)","5","13–15","author",1726,"Landschaft","winkler ernst"],
  ["Winkler Ernst","Possibilismus","","7","1139f.","author",2414,"Possibilismus","winkler ernst"],
  [
-  "Winkler Ernst","Probabilismus IV (geogr.)","","7","1396f.","author",2463,
+  "Winkler Ernst","Probabilismus","IV (geogr.)","7","1396f.","author",2463,
   "Probabilismus, probabilistisch","winkler ernst"
  ],
  [
@@ -1442,7 +1494,7 @@ HWPH.put("r/77-69",
   "witte wilhelm"
  ],
  [
-  "Witte Wilhelm","Feld II (psych.)","","2","926–929","author",904,"Feld, Feldtheorie",
+  "Witte Wilhelm","Feld","II (psych.)","2","926–929","author",904,"Feld, Feldtheorie",
   "witte wilhelm"
  ],
  ["Witte Wilhelm","Geopsychisch","","3","328","author",1080,"Geopsychisch","witte wilhelm"],

@@ -17,11 +17,7 @@ HWPH.put("a/487",
  "next":{"id":488,"lemma":"Charakterologie","band":"1","col":994},
  "backlinks":[{"id":1531,"lemma":"Karikatur","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"das (Schlegel) 4 478f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"weiblich/männlich (ästh.)","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 1 423–425 Antizipation","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"weiblich/männlich (ästh.)","qualifier":"","band":"1","col":"993"}],
  "persons":[
   {"id":19,"name":"J. W. Goethe","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -54,6 +50,6 @@ HWPH.put("a/487",
  ],
  "see_also":[],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Charakteristische, das"}],
- "reg_authors":[{"name":"Krückeberg Edzard","n":5}]
+ "reg_authors":[]
 }
 );

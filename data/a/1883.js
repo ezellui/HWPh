@@ -18,6 +18,7 @@ HWPH.put("a/1883",
  "backlinks":[],
  "outlinks":[{"id":939,"lemma":"Form und Materie (Stoff)","n":1}],
  "register":[
+  {"term":"erste Materie","qualifier":"","band":null,"col":null},
   {"term":"Erstmaterie","qualifier":"","band":null,"col":null},
   {"term":"Materie, erste","qualifier":"","band":null,"col":null}
  ],
@@ -27,8 +28,8 @@ HWPH.put("a/1883",
   {"id":3062,"lemma":"Substanz; Substanz/Akzidens","tf":2},
   {"id":1769,"lemma":"Leib, Körper","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":939,"lemma":"Form und Materie (Stoff)"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Materia prima"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

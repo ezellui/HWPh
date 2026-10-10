@@ -36,6 +36,7 @@ HWPH.put("a/3372",
   {"id":2331,"lemma":"Pessimismus","n":1}
  ],
  "register":[
+  {"term":"contemptus mundi","qualifier":"","band":null,"col":null},
   {"term":"Eitelkeit der Welt","qualifier":"","band":null,"col":null},
   {"term":"grandeur","qualifier":"","band":"11","col":"544"},
   {"term":"hæb_æl","qualifier":"","band":"11","col":"542"},

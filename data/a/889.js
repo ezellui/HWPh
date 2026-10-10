@@ -17,14 +17,7 @@ HWPH.put("a/889",
  "next":{"id":890,"lemma":"Fall, Abfall","band":"2","col":887},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {
-   "term":"– I (allg.) 7 345–352 – II (psych.) 7 352–354 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[],
  "persons":[
   {"id":1021,"name":"R. B. Cattell","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":2983,"name":"L. L. Thurstone","b":1,"n":2,"l":0,"editor":0,"role":"source"},

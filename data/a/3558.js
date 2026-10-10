@@ -49,8 +49,7 @@ HWPH.put("a/3558",
   {"term":"Pluralität von Welten","qualifier":"","band":null,"col":null},
   {"term":"possible world","qualifier":"","band":null,"col":null},
   {"term":"Sachverhalt, möglicher","qualifier":"","band":"12","col":"444"},
-  {"term":"Vielheit der Welten","qualifier":"","band":null,"col":null},
-  {"term":"– III (log.) 4 1035–1038 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vielheit der Welten","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1037,"name":"D. Lewis","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},

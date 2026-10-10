@@ -18,8 +18,8 @@ HWPH.put("a/1570",
  "backlinks":[{"id":2166,"lemma":"Nostalgie","n":1}],
  "outlinks":[{"id":616,"lemma":"Distanz/Distanzlosigkeit, ästhetische","n":1}],
  "register":[
-  {"term":"Eitelkeit","qualifier":"","band":"4","col":"844"},
-  {"term":"Mode","qualifier":"","band":"4","col":"844"}
+  {"term":"Mode","qualifier":"","band":"4","col":"844"},
+  {"term":"Selbstgenuss","qualifier":"","band":"4","col":"844"}
  ],
  "persons":[
   {"id":3493,"name":"M. Herz","b":2,"n":1,"l":0,"editor":0,"role":"source"},

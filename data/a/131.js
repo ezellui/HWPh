@@ -17,10 +17,7 @@ HWPH.put("a/131",
  "next":{"id":132,"lemma":"Anamnesis","band":"1","col":263},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"narratio (med.)","qualifier":"","band":"1","col":"262"},
-  {"term":"– I (med.) 10 762–764 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"narratio (med.)","qualifier":"","band":"1","col":"262"}],
  "persons":[
   {"id":1869,"name":"H. Boerhaave","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":402,"name":"G. E. Müller","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

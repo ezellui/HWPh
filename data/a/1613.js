@@ -57,6 +57,6 @@ HWPH.put("a/1613",
  ],
  "see_also":[{"id":2468,"lemma":"Produkt, logisches"}],
  "groups":[{"id":22,"name":"Logik","label":"Konjunktion"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

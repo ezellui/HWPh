@@ -104,7 +104,7 @@ HWPH.put("a/2687",
   {"id":3616,"lemma":"Wiederholung","tf":2},
   {"id":1099,"lemma":"Gesellschaft","tf":4}
  ],
- "see_also":[],
+ "see_also":[{"id":2469,"lemma":"Produktion, Produktivität"}],
  "groups":[
   {"id":5,"name":"Biologie","label":"Reproduktion"},
   {"id":29,"name":"Ökonomie","label":"Reproduktion"},

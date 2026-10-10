@@ -44,7 +44,11 @@ HWPH.put("a/701",
   {"id":236,"name":"M. Pohlenz","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3028,"lemma":"Stoa; Stoizismus","tf":4},{"id":3549,"lemma":"Wechsel","tf":2}],
- "see_also":[{"id":855,"lemma":"Ewigkeit der Welt"},{"id":1688,"lemma":"Kreislauftheorien"}],
+ "see_also":[
+  {"id":855,"lemma":"Ewigkeit der Welt"},
+  {"id":1688,"lemma":"Kreislauftheorien"},
+  {"id":3562,"lemma":"Weltende; Weltuntergang"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Ekpyrosis"},
   {"id":28,"name":"Naturphilosophie","label":"Ekpyrosis"}

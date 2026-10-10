@@ -46,8 +46,7 @@ HWPH.put("a/3313",
   {"term":"self-warrant","qualifier":"","band":"11","col":"235"},
   {"term":"unbezweifelbar","qualifier":"","band":null,"col":null},
   {"term":"Zugang, privilegierter","qualifier":"","band":"11","col":"234"},
-  {"term":"Zustand, mentaler","qualifier":"","band":"11","col":"235"},
-  {"term":"– I (erk.) 11 150–156 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zustand, mentaler","qualifier":"","band":"11","col":"235"}
  ],
  "persons":[
   {"id":292,"name":"A. J. Ayer","b":2,"n":3,"l":0,"editor":0,"role":"source"},

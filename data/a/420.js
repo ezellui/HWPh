@@ -18,8 +18,12 @@ HWPH.put("a/420",
  "backlinks":[{"id":3521,"lemma":"Wahnsinn","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Bewusstseinstrübung","qualifier":"","band":null,"col":null},
   {"term":"Blödsinn","qualifier":"","band":"1","col":"903"},
+  {"term":"Einengung des Bewusstseins","qualifier":"","band":null,"col":null},
   {"term":"Irresein","qualifier":"","band":null,"col":null},
+  {"term":"Störung des Bewusstseins","qualifier":"","band":null,"col":null},
+  {"term":"Stumpfsinn","qualifier":"","band":"1","col":"903"},
   {"term":"Trübung des Bewusstseins","qualifier":"","band":null,"col":null},
   {"term":"Wachheit, gesteigerte","qualifier":"","band":"1","col":"903"}
  ],

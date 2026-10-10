@@ -29,6 +29,7 @@ HWPH.put("a/489",
  "register":[
   {"term":"Amt","qualifier":"I","band":"1","col":"996"},
   {"term":"amtscharismatisch","qualifier":"II","band":"1","col":"997"},
+  {"term":"Ausseralltäglich","qualifier":"II","band":"1","col":"998"},
   {"term":"Besondere, das","qualifier":"II","band":"1","col":"998"},
   {"term":"charismatisch","qualifier":"II","band":null,"col":null},
   {"term":"energicum","qualifier":"II","band":"1","col":"998"},
@@ -95,6 +96,6 @@ HWPH.put("a/489",
   {"id":42,"name":"Soziologie","label":"Charisma II"},
   {"id":44,"name":"Theologie","label":"Charisma I"}
  ],
- "reg_authors":[{"name":"Mühlmann Horst","n":6},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Mühlmann Horst","n":6},{"name":"Red","n":241}]
 }
 );

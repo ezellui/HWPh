@@ -1,0 +1,18 @@
+HWPH.put("p/65-6f",
+{"eo":[["Eo","qa:;8ti qo:;7s9"],["eo","v:;2lb 1w:;ak 2:;46z 3k:;5v 1j:;81 1k:;2oz 19:;25 37:;dj,5 t:;ed l:;f2 2:;711 20:;h9 1o:;1c5 1:;4o 1d:;24y d:;t2 2:;201 2e:;30j 2w:;5wv 7:;8ts 7:;4k 2s:;1oz u:;16v m:;xc p:;an 6:;s6 q:;80z 1z:;;62 w:;1k3 l:;e9 1c:;5b q:;kw 1:;g8v y:;vc 41:;b5z 3g:;117 2x:;xw 1:;41l p:;563 1d:;5ae 1c:;9df,wg,mg i:;24 1e:;;gf 3:;88 n:;9f b:;61g 17:;17c k:;9v e:;6fe e:;1d7 1:;7kn b:;11z 4q:;py 1c:;4mo,eb8 z:;bux,7xf;awj,elu 4:;1w 13:;;15w 1q:;3tr o:;13v 1:;6wl 1n:;gs 1b:;oy 2:;60,b,pm l:;kc 1p:;25g,j2z i:;2gw l:;ls,1w x:;3kp c:;xw 4:;em 3:;;pq k:;711 m:;30j;3eg 1r:;3m5 2p:;8wl,y 1x:;40l,acy e:;l5 b:;hg 2:;3aj;1rc i:;8z 4:;vq 9:;25m 1e:;108,bl 5:;;19f 1:;;1h 2:;nm 4:;8v 1l:;44h 7:;d53,3oq,18u 23:;vm 8:;3h3,10 d:;1ky d:;1na,f m:;39d 1z:;sh z:;sz 6:;16j d:;;52 d:;;6k z:;kap,xe 8:;28w 1t:;eo r:;2bz x:;1sm 1e:;1n5 9:;1bf 3:;1na,2yw,1gt"],["eò","13l:;1nx"]],
+"eodem":[["Eodem","w3:;6np"],["eodem","55:;37 5u:;co 3w:;d7 45:;co 5e:;bs 6b:;2jo 1l:;r1e 7a:;;99 5b:;9n 7p:;awo 9h:;4n8,2ew 2d:;571 e:;1b6 2q:;;;2n n:;4w 5h:;22 13:;6r 3z:;1l8 j:;;s6 43:;4zk 3v:;qo,7 5a:;ba 2v:;3u v:;;gl e:;;;1f 7:;31j 48:;4mk"]],
+"eodemque":[["eodemque","55:;34 b2:;3q6 2af:;5b"]],
+"eoi":[["EoI","1gk:;;uc,29,3e,70,1x,1u,1l"]],
+"eol":[["Eol","1gk:;;1bn"]],
+"eon":[["Eon","2hc:;;2o"]],
+"eoque":[["eoque","q3:;c2j 1l7:;4yx"]],
+"eorum":[["eorum","2:;18u ax:;15r 1o:;4f 2p:;5tj 3f:;2kh,ox 13:;n3 28:;er 2o:;j4 2o:;3by 1v:;17q 1b:;103 5:;1st 5r:;w5 3h:;b3 28:;14l 2z:;2iy 1y:;2im,2oj 5i:;bg2 1g:;ke5 3q:;ya a:;1tz,8,i 1h:;;2f 5w:;vr1 3:;;4x 14:;379,1lw v:;2i6,o9,8 3:;;q0;g 1g:;;8n 11:;;2b,j 1z:;dq 1e:;1qx,b0 z:;4q 3b:;;20u o:;sz a:;kx 15:;4s4,4cy g:;3u3 7:;5t6 44:;i2 14:;3g d:;mw,14r,md e:;;2b k:;9m f:;cc 1e:;4bk r:;5m2,1y 1k:;kf 1f:;dv 9:;i8,8,7,62,2e,m,9,gg 32:;1km 12:;m6 3b:;nb w:;4e6,w m:;gg k:;9qe u:;1lz 3:;9m"]],
+"eorumque":[["eorumque","8p:;6z qd:;1zn 1w:;ww qr:;ad k0:;fm im:;;49"]],
+"eorundem":[["eorundem","1ss:;;8x 2q:;;6v h7:;1y5 bh:;af"]],
+"eos":[["EOS","1td:;29ig"],["Eos","16i:;;2p 9r:;;;s"],["eos","ve:;2ww fu:;61 40:;4mv o:;6v 26:;;ca m:;9y ap:;;ar1 r:;tr g:;3b7 s:;hz 4k:;;at 2g:;;36 1t:;29 y:;;14a 8h:;;8c 1z:;bi,mo 4:;44 i:;hq f:;;7y 9s:;3gn 4m:;1m7"]],
+"eosdem":[["eosdem","1av:;;14h ns:;;75"]],
+"eosque":[["eosque","1u4:;tv"]],
+"eotemporal":[["eotemporal","2u4:;kku"]],
+"eotvos":[["EÖTVÖS","228:;2a6"]],
+"eousque":[["eousque","1uk:;;15l"]]}
+);

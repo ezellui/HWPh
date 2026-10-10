@@ -29,9 +29,9 @@ HWPH.put("a/3526",
  "register":[
   {"term":"absolute Wahrheit","qualifier":"","band":null,"col":null},
   {"term":"absoluter Geist","qualifier":"","band":"12","col":"136"},
-  {"term":"ästhetische 12 139 Schönheit, absolute","qualifier":"","band":"12","col":"136"},
   {"term":"Geist, absoluter","qualifier":"","band":"12","col":"136"},
   {"term":"purissima veritas","qualifier":"","band":"12","col":"135"},
+  {"term":"Schönheit, absolute","qualifier":"","band":"12","col":"136"},
   {"term":"summa veritas","qualifier":"","band":"12","col":"135"},
   {"term":"urwahr","qualifier":"","band":"12","col":"135"},
   {"term":"veritas purissima","qualifier":"","band":"12","col":"135"},
@@ -84,6 +84,10 @@ HWPH.put("a/3526",
  ],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Wahrheit, absolute"}],
- "reg_authors":[{"name":"Onnasch Ernst-Otto","n":4}]
+ "reg_authors":[
+  {"name":"Hühn Helmut","n":52},
+  {"name":"Onnasch Ernst-Otto","n":4},
+  {"name":"Ortland Eberhard","n":2}
+ ]
 }
 );

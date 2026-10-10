@@ -35,8 +35,8 @@ HWPH.put("a/1685",
   {"term":"creativity","qualifier":"","band":null,"col":null},
   {"term":"Denken, divergentes","qualifier":"","band":"4","col":"1195"},
   {"term":"Inkubation","qualifier":"","band":"4","col":"1201"},
-  {"term":"κτίσις","qualifier":"","band":"4","col":"1204f."},
-  {"term":"– IV (psych.) 4 565–570 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Intelligenz","qualifier":"","band":"4","col":"1199f."},
+  {"term":"κτίσις","qualifier":"","band":"4","col":"1204f."}
  ],
  "persons":[
   {"id":1251,"name":"J. P. Guilford","b":6,"n":8,"l":1,"editor":0,"role":"source"},

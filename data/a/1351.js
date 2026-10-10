@@ -20,8 +20,7 @@ HWPH.put("a/1351",
  "register":[
   {"term":"haptisch/optisch","qualifier":"(Friedmann)","band":null,"col":null},
   {"term":"morphologischer Idealismus","qualifier":"(Friedmann)","band":null,"col":null},
-  {"term":"optisch/haptisch","qualifier":"(Friedmann)","band":null,"col":null},
-  {"term":"primäres/sekundäres (Reininger)","qualifier":"(Friedmann)","band":"4","col":"41f."}
+  {"term":"optisch/haptisch","qualifier":"(Friedmann)","band":null,"col":null}
  ],
  "persons":[
   {"id":3274,"name":"H. Friedmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},

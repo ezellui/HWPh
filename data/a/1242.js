@@ -26,7 +26,8 @@ HWPH.put("a/1242",
   {"term":"Befriedigung","qualifier":"","band":"3","col":"1041"},
   {"term":"i‘λαρός","qualifier":"","band":"3","col":"1040"},
   {"term":"Ruhe, heitere","qualifier":"","band":"3","col":"1040"},
-  {"term":"serenus","qualifier":"","band":"3","col":"1040"}
+  {"term":"serenus","qualifier":"","band":"3","col":"1040"},
+  {"term":"Veredelung des Charakters","qualifier":"","band":"3","col":"1040"}
  ],
  "persons":[
   {"id":46,"name":"F. Schiller","b":2,"n":2,"l":0,"editor":0,"role":"source"},

@@ -24,15 +24,16 @@ HWPH.put("a/2515",
  "outlinks":[{"id":2509,"lemma":"Psychogenese, Psychophylogenese","n":1}],
  "register":[
   {"term":"comparative psychology","qualifier":"","band":"7","col":"1659"},
+  {"term":"Entwicklungstheorie","qualifier":"","band":"7","col":"1659"},
   {"term":"Evolution","qualifier":"","band":null,"col":null},
   {"term":"evolutionary psychology","qualifier":"","band":"7","col":"1659"},
   {"term":"Ganzheitspsychologie","qualifier":"","band":"7","col":"1659"},
-  {"term":"geisteswissenschaftliche 7 1656","qualifier":"","band":"7","col":"1659"},
   {"term":"genetische Ganzheitspsychologie","qualifier":"","band":"7","col":"1659"},
   {"term":"genetische Psychologie","qualifier":"","band":null,"col":null},
   {"term":"Grundgesetz, psychogenetisches","qualifier":"","band":"7","col":"1658"},
   {"term":"Psychognosie","qualifier":"","band":"7","col":"1658"},
   {"term":"Rassen-Entwicklung des Bewusstseins","qualifier":"","band":"7","col":"1658"},
+  {"term":"Strukturpsychologie","qualifier":"","band":"7","col":"1659"},
   {"term":"Sukzession psychischer Phänomene","qualifier":"","band":"7","col":"1658"}
  ],
  "persons":[

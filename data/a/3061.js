@@ -25,7 +25,8 @@ HWPH.put("a/3061",
  ],
  "register":[
   {"term":"amor Dei intellectualis","qualifier":"","band":"10","col":"494"},
-  {"term":"god's-eye view","qualifier":"","band":"10","col":"494"}
+  {"term":"god's-eye view","qualifier":"","band":"10","col":"494"},
+  {"term":"Standpunkt","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":45,"name":"B. Spinoza","b":2,"n":1,"l":0,"editor":0,"role":"source"},

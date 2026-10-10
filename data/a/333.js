@@ -36,6 +36,7 @@ HWPH.put("a/333",
   {"term":"auctoritas","qualifier":"I (rhet.)","band":null,"col":null},
   {"term":"Autorisation","qualifier":"III (pol.)","band":"1","col":"730"},
   {"term":"Autoritätskritik","qualifier":"III (pol.)","band":"1","col":"730"},
+  {"term":"Beweis ex auctoritate","qualifier":"I (rhet.)","band":null,"col":null},
   {"term":"demonstratio ex auctoritate","qualifier":"I (rhet.)","band":"1","col":"724"},
   {"term":"Führer","qualifier":"III (pol.)","band":"1","col":"731"},
   {"term":"Führerautorität","qualifier":"II (pol.)","band":"1","col":"728"},
@@ -44,9 +45,7 @@ HWPH.put("a/333",
   {"term":"pecia","qualifier":"I (rhet.)","band":"1","col":"726"},
   {"term":"ratio/auctoritas","qualifier":"III (pol.)","band":"1","col":"729f."},
   {"term":"Unterordnungstrieb","qualifier":"III (pol.)","band":"1","col":"731"},
-  {"term":"Weltökonomie, göttliche","qualifier":"II (pol.)","band":"1","col":"728"},
-  {"term":"– I (allg.) 3 1084–1087 s. auch","qualifier":"II (pol.)","band":null,"col":null},
-  {"term":"– I (erk.) 12 1317–1324 s. auch","qualifier":"I (rhet.)","band":null,"col":null}
+  {"term":"Weltökonomie, göttliche","qualifier":"II (pol.)","band":"1","col":"728"}
  ],
  "persons":[
   {"id":27,"name":"Th. Hobbes","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -197,7 +196,7 @@ HWPH.put("a/333",
   {"id":3447,"lemma":"Vertrauen","tf":2},
   {"id":2233,"lemma":"Ordnung","tf":4}
  ],
- "see_also":[],
+ "see_also":[{"id":3692,"lemma":"Zeuge; Zeugnis"},{"id":3697,"lemma":"Zitat"},{"id":1844,"lemma":"Macht"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Autorität I (rhet.)"},
   {"id":33,"name":"Politische Theorie","label":"Autorität II (pol.)"},

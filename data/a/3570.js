@@ -21,7 +21,10 @@ HWPH.put("a/3570",
   {"id":2672,"lemma":"Relativitätstheorie","n":1},
   {"id":3726,"lemma":"Zwillingsparadoxon; Uhrenparadoxon","n":1}
  ],
- "register":[{"term":"Raum-Zeitfäden","qualifier":"","band":"12","col":"493"}],
+ "register":[
+  {"term":"Raum-Zeitfäden","qualifier":"","band":"12","col":"493"},
+  {"term":"world line","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":2527,"name":"H. Minkowski","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":654,"name":"H. Weyl","b":1,"n":2,"l":1,"editor":0,"role":"mixed"},

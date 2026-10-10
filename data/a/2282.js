@@ -123,7 +123,13 @@ HWPH.put("a/2282",
   {"id":3178,"lemma":"Theorem","tf":2},
   {"id":1343,"lemma":"Idealismus","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1960,"lemma":"Methode, historische"},
+  {"id":3012,"lemma":"Standpunkt; Gesichtspunkt"},
+  {"id":3316,"lemma":"Unparteilichkeit"},
+  {"id":1464,"lemma":"Intelligenz, Intelligentsia, Intellektueller"},
+  {"id":2193,"lemma":"Objektivismus, bürgerlicher"}
+ ],
  "groups":[
   {"id":13,"name":"Geschichtsphilosophie","label":"Parteilichkeit I (hist.)"},
   {"id":23,"name":"Marxismus","label":"Parteilichkeit II (marx.)"},

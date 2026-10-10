@@ -140,7 +140,12 @@ HWPH.put("a/193",
   {"id":1310,"lemma":"Horizont","tf":2},
   {"id":527,"lemma":"Dasein","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":2168,"lemma":"Notiones communes"},
+  {"id":2488,"lemma":"Protention"},
+  {"id":3490,"lemma":"Vorbegriff"},
+  {"id":3493,"lemma":"Vorgriff; Vorhabe; Vorsicht"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Antizipation I (erk.)"},
   {"id":36,"name":"Psychologie","label":"Antizipation II (psych.)"}

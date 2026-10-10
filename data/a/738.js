@@ -29,8 +29,7 @@ HWPH.put("a/738",
   {"term":"Kraft, lebendige","qualifier":"","band":"2","col":"495"},
   {"term":"Prinzip der Erhaltung der Energie","qualifier":"","band":null,"col":null},
   {"term":"Satz von der Erhaltung der Energie","qualifier":"","band":null,"col":null},
-  {"term":"vis viva","qualifier":"","band":"2","col":"495"},
-  {"term":"– II (phys.) 12 1315f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"vis viva","qualifier":"","band":"2","col":"495"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":3,"n":2,"l":0,"editor":0,"role":"source"},

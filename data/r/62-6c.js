@@ -18,7 +18,7 @@ HWPH.put("r/62-6c",
   "Blick, wertsetzender","Ressentiment","","8","922","ref",2695,"Ressentiment",
   "blick, wertsetzender"
  ],
- ["Blick des Anderen","Scham C","2","8","1213","ref",2751,"Scham, Scheu","blick des anderen"],
+ ["Blick des Anderen","Scham","C 2","8","1213","ref",2751,"Scham, Scheu","blick des anderen"],
  ["Blicken","Fulguration","","2","1131","ref",964,"Fulguration","blicken"],
  [
   "Blickpunkt des Bewusstseins","Aufmerksamkeitsspanne","","1","645","ref",291,
@@ -33,7 +33,7 @@ HWPH.put("r/62-6c",
   "Verblendung; Verblendungszusammenhang","blindheit des geistes"
  ],
  [
-  "Blindseele","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Blindseele","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","blindseele"
  ],
  ["Blitz","Fulguration","",null,null,"ref",964,"Fulguration","blitz"],
@@ -42,13 +42,18 @@ HWPH.put("r/62-6c",
  ["Blödigkeit","Torheit","","10","1296","ref",3207,"Torheit; Narrheit","blodigkeit"],
  ["Blödsinn","Bewusstseinsstörung","","1","903","ref",420,"Bewußtseinsstörung","blodsinn"],
  ["Blödsinn","Psychose","II","7","1693","ref",2528,"Psychose","blodsinn"],
+ ["Blüte der Materie","Seele","IV","9","32","ref",2794,"Seele","blute der materie"],
  [
   "Blüte der Substanz","Flos substantiae","(Leibniz)",null,null,"ref",925,"Flos substantiae",
   "blute der substanz"
  ],
  ["Blüte des Geistes","Seelenspitze","","9","110","ref",2799,"Seelenspitze","blute des geistes"],
  ["Bluff","Snob; Snobismus","","9","992","ref",2912,"Snob; Snobismus","bluff"],
- ["Blut","Säfte Blutkreislauf","",null,null,"ref",null,null,"blut"],
+ ["Blut","Säfte","",null,null,"ref",2735,"Säfte, Säftelehre","blut"],
+ [
+  "Blutkreislauf","Medizin","III","5","987","ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "blutkreislauf"
+ ],
  ["Blutleuchte","Schauer","II","8","1225","ref",2755,"Schauer","blutleuchte"],
  ["Blutrache","Rache","II","8","5","ref",2561,"Rache","blutrache"],
  ["Blutsfreundschaft","Verwandtschaft","","11","992","ref",3449,"Verwandtschaft","blutsfreundschaft"],
@@ -76,7 +81,10 @@ HWPH.put("r/62-6c",
   "Blankenburg Wolfgang","Leistungsprinzip","","5","220–224","author",1774,"Leistungsprinzip",
   "blankenburg wolfgang"
  ],
- ["Blasche Siegfried","Qualität","",null,null,"author",2544,"Qualität","blasche siegfried"],
+ [
+  "Blasche Siegfried","Qualität I.","III","7","1748–1752","author",2544,"Qualität",
+  "blasche siegfried"
+ ],
  ["Bleker Johanna","Kasuistik","III (med.)","4","706f.","author",1534,"Kasuistik","bleker johanna"],
  ["Blickle Peter","Untertan","","11","325–328","author",3329,"Untertan","blickle peter"],
  [
@@ -94,7 +102,7 @@ HWPH.put("r/62-6c",
  ["Blössner Norbert","Stoicheion","","10","197–200","author",3033,"Stoicheion","blossner norbert"],
  ["Blössner Norbert","Thymos","","10","1187–1192","author",3189,"Thymos","blossner norbert"],
  [
-  "Blühdorn Jürgen","Positiv; Positivität I-II","","7","1106–1118","author",2408,
+  "Blühdorn Jürgen","Positiv; Positivität","I-II","7","1106–1118","author",2408,
   "Positiv, Positivität","bluhdorn jurgen"
  ],
  [

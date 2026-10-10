@@ -26,11 +26,11 @@ HWPH.put("a/811",
  "register":[
   {"term":"alvor","qualifier":"","band":"2","col":"722"},
   {"term":"Anstrengung des Begriffs","qualifier":"","band":"2","col":"721"},
-  {"term":"Denken","qualifier":"","band":"2","col":"722f."},
   {"term":"Ernst des Begriffs","qualifier":"","band":"2","col":"722"},
   {"term":"Scherz","qualifier":"","band":"2","col":"721ff."},
   {"term":"Spiel","qualifier":"","band":"2","col":"721"},
   {"term":"Spiel, ernstes","qualifier":"","band":"2","col":"723"},
+  {"term":"Subjektivität","qualifier":"","band":"2","col":"722f."},
   {"term":"παιδιά","qualifier":"","band":"2","col":"721"},
   {"term":"σπουδάζειν","qualifier":"","band":"2","col":"721"},
   {"term":"σπουδᾶιος","qualifier":"","band":"2","col":"720f."}

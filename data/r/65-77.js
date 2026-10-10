@@ -1,12 +1,9 @@
 HWPH.put("r/65-77",
 [
  ["ewige Seligkeit","Seligkeit, ewige","",null,null,"ref",2859,"Seligkeit, ewige","ewige seligkeit"],
+ ["ewige Urgründe","Rationes aeternae; ewige","",null,null,"ref",null,null,"ewige urgrunde"],
  [
-  "ewige Urgründe","Rationes aeternae; ewige Urgründe ewige Wahrheit","",null,null,"ref",null,null,
-  "ewige urgrunde"
- ],
- [
-  "ewige Wiederkehr","Wiederkunft, ewige (Nietzsche)","",null,null,"ref",3617,
+  "ewige Wiederkehr","Wiederkunft, ewige","(Nietzsche)",null,null,"ref",3617,
   "Wiederkunft, ewige; Wiederkehr, ewige","ewige wiederkehr"
  ],
  [
@@ -34,10 +31,9 @@ HWPH.put("r/65-77",
  ["Ewigkeit der Welt","Ekpyrosis","",null,null,"see",701,"Ekpyrosis","ewigkeit der welt"],
  ["Ewigkeit der Welt","Kosmogonie","",null,null,"see",1675,"Kosmogonie","ewigkeit der welt"],
  ["Ewigkeit der Welt","Kosmos","",null,null,"see",1678,"Kosmos","ewigkeit der welt"],
- ["Ewigkeit der Welt","Weltende ἐξαίφνης","",null,null,"see",null,null,"ewigkeit der welt"],
  [
-  "ewige 12 143 Vernunftglaube","Glaube","II","3","643","ref",1138,"Glaube",
-  "ewige 12 143 vernunftglaube"
+  "Ewigkeit der Welt","Weltende","",null,null,"see",3562,"Weltende; Weltuntergang",
+  "ewigkeit der welt"
  ],
  ["Ewald Dieter","Poesie","","7","1000–1008","author",2387,"Poesie","ewald dieter"],
  ["Ewert Otto","Eindruck","II (psych.)","2","360","author",674,"Eindruck","ewert otto"],

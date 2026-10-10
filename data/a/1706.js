@@ -21,7 +21,10 @@ HWPH.put("a/1706",
   {"id":3602,"lemma":"Westen; Okzident","n":1}
  ],
  "outlinks":[{"id":1711,"lemma":"Kulturzyklus, Kulturzyklentheorie","n":1}],
- "register":[{"term":"Verhalten, kulturelles","qualifier":"","band":"4","col":"1338"}],
+ "register":[
+  {"term":"Kulturkreislehre","qualifier":"(Frobenius)","band":null,"col":null},
+  {"term":"Verhalten, kulturelles","qualifier":"(Frobenius)","band":"4","col":"1338"}
+ ],
  "persons":[
   {"id":1468,"name":"L. Frobenius","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":316,"name":"O. Spengler","b":1,"n":0,"l":1,"editor":0,"role":"source"},

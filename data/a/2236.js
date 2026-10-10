@@ -61,7 +61,7 @@ HWPH.put("a/2236",
   {"id":1987,"lemma":"Mittel","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2155,"lemma":"Nomos"}],
  "groups":[
   {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Ordnungsdenken, konkretes (Schmitt)"}
  ],

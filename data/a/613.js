@@ -30,16 +30,16 @@ HWPH.put("a/613",
  "register":[
   {"term":"Affektion","qualifier":"I (erk.)","band":"2","col":"264"},
   {"term":"dispositio","qualifier":"I (erk.)","band":null,"col":null},
-  {"term":"Disposition","qualifier":"II (psych.)","band":null,"col":null},
+  {"term":"Engramm","qualifier":"II (psych.)","band":null,"col":null},
   {"term":"ideae materiales","qualifier":"I (erk.)","band":"2","col":"264"},
   {"term":"Ideen, eingeborene","qualifier":"I (erk.)","band":"2","col":"263f."},
   {"term":"inventio","qualifier":"I (erk.)","band":"2","col":"263"},
+  {"term":"Ordnung der Teile","qualifier":"I (erk.)","band":null,"col":null},
+  {"term":"Spur","qualifier":"II (psych.)","band":"2","col":"264"},
   {"term":"tabula rasa","qualifier":"I (erk.)","band":"2","col":"263f."},
   {"term":"Verhalten","qualifier":"II (psych.)","band":"2","col":"265f."},
   {"term":"Vorstellungsdisposition","qualifier":"II (psych.)","band":"2","col":"265"},
-  {"term":"διάθεσις","qualifier":"I (erk.)","band":null,"col":null},
-  {"term":"– I (erk.) 2 262–265 s. auch","qualifier":"","band":"2","col":"265f."},
-  {"term":"– III (psych.) 2 337–339 s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"διάθεσις","qualifier":"I (erk.)","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":4,"n":3,"l":0,"editor":0,"role":"source"},
@@ -95,7 +95,7 @@ HWPH.put("a/613",
   {"id":154,"lemma":"Annahme, Annehmen","tf":2},
   {"id":666,"lemma":"Eigenschaft","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":151,"lemma":"Anlage"},{"id":666,"lemma":"Eigenschaft"}],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Disposition I (erk.)"},
   {"id":36,"name":"Psychologie","label":"Disposition II (psych.)"}

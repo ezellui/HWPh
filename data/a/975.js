@@ -17,7 +17,7 @@ HWPH.put("a/975",
  "next":{"id":976,"lemma":"Funktionalismus","band":"2","col":1143},
  "backlinks":[{"id":3062,"lemma":"Substanz; Substanz/Akzidens","n":1}],
  "outlinks":[],
- "register":[{"term":"– IV (soz.) 2 1142f. s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":62,"name":"E. Cassirer","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":1360,"name":"H. Rombach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}

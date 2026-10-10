@@ -34,7 +34,7 @@ HWPH.put("a/2758",
   {"id":1946,"lemma":"Metaphysikkritik","n":1}
  ],
  "register":[
-  {"term":"K","qualifier":"","band":null,"col":null},
+  {"term":"logischer","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Scheinbegriffe","qualifier":"","band":null,"col":null},
   {"term":"sinnlos","qualifier":"","band":null,"col":null},

@@ -24,6 +24,7 @@ HWPH.put("a/1638",
  "backlinks":[{"id":1640,"lemma":"Kontinuum, Kontinuität","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"historische Kontinuität","qualifier":"","band":null,"col":null},
   {"term":"Kongenialität","qualifier":"","band":"4","col":"1039"},
   {"term":"narrativ","qualifier":"","band":"4","col":"1042"},
   {"term":"Zusammenhang, historischer","qualifier":"","band":null,"col":null}

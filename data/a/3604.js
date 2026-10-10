@@ -29,13 +29,12 @@ HWPH.put("a/3604",
   {"id":3406,"lemma":"Verhalten","n":1}
  ],
  "register":[
-  {"term":"Affekt","qualifier":"","band":null,"col":null},
-  {"term":"des Seins (Heidegger) Ereignis","qualifier":"","band":"12","col":"680"},
-  {"term":"Erleiden","qualifier":"","band":null,"col":null},
+  {"term":"Ereignis","qualifier":"","band":"12","col":"680"},
   {"term":"Geschehnis","qualifier":"","band":"12","col":"679"},
   {"term":"Lernen durch Leiden","qualifier":"","band":"12","col":"678"},
+  {"term":"Pathetische πάθος","qualifier":"","band":null,"col":null},
   {"term":"Sichverhalten","qualifier":"","band":"12","col":"679"},
-  {"term":"– I (anthr.) 9 923–929 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Synthesis","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":69,"name":"K. Barth","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -68,15 +67,8 @@ HWPH.put("a/3604",
   {"id":21056,"name":"A. Zierl","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2318,"lemma":"Person","tf":2},{"id":3628,"lemma":"Wirklichkeit","tf":2}],
- "see_also":[
-  {"id":1771,"lemma":"Leiden"},
-  {"id":2288,"lemma":"Passivität, passive Synthesis"},
-  {"id":2290,"lemma":"Pathisch, Pathik"},
-  {"id":2904,"lemma":"Situation"},
-  {"id":3241,"lemma":"Tun/Leiden"},
-  {"id":3332,"lemma":"Unverfügbarkeit"}
- ],
+ "see_also":[{"id":1771,"lemma":"Leiden"},{"id":2288,"lemma":"Passivität, passive Synthesis"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Widerfahrnis"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

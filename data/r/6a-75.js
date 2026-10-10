@@ -1,21 +1,13 @@
 HWPH.put("r/6a-75",
 [
+ ["Judaismus","Christentum, Wesen des","","1","1008","ref",496,"Christentum, Wesen des","judaismus"],
+ ["Judentum","Register der Sachgruppen Judentum","",null,null,"see",null,null,"judentum"],
+ ["Judentum","Judentum","(Wesen des Judentums)","4","649–653","main",1511,"Jetztzeit","judentum"],
  [
-  "Judentum s. auch","Register der Sachgruppen Judentum","",null,null,"ref",null,null,
-  "judentum s. auch"
+  "Judentum","Judentum","(Wissenschaft des Judentums)","4","653–658","main",1512,
+  "Judentum, Wesen des Judentums","judentum"
  ],
- [
-  "Judentum (Wesen des Judentums)","Judentum (Wesen des Judentums)","","4","649–653","main",1512,
-  "Judentum, Wesen des Judentums","judentum (wesen des judentums)"
- ],
- [
-  "Judentum (Wissenschaft des Judentums)","Judentum (Wissenschaft des Judentums)","","4","653–658",
-  "main",1513,"Judentum, Wissenschaft des Judentums","judentum (wissenschaft des judentums)"
- ],
- [
-  "Judentum (Wissenschaft des Judentums)","Philosophie, jüdische","",null,null,"see",2358,
-  "Philosophie, jüdische","judentum (wissenschaft des judentums)"
- ],
+ ["Judentum","Philosophie, jüdische","",null,null,"see",2358,"Philosophie, jüdische","judentum"],
  [
   "Judentum/Christentum","Substitutionstheorie","",null,null,"ref",3064,"Substitutionstheorie",
   "judentum/christentum"
@@ -39,9 +31,11 @@ HWPH.put("r/6a-75",
   "judische philosophie"
  ],
  [
-  "jüdischer Selbsthass","Selbsthass, jüdischer Jüngstes Gericht","",null,null,"ref",2837,
-  "Selbsthaß","judischer selbsthass"
+  "jüdischer Selbsthass","Selbsthass, jüdischer","",null,null,"ref",2838,"Selbsthaß, jüdischer",
+  "judischer selbsthass"
  ],
+ ["Jüngstes Gericht","Gericht","",null,null,"ref",1084,"Gericht (Gottes)","jungstes gericht"],
+ ["jugement confus","Empfindung","I (erk.)","2","458","ref",723,"Empfindung","jugement confus"],
  [
   "jugement de critique","Urteil, ästhetisches","",null,null,"ref",3356,"Urteil, ästhetisches",
   "jugement de critique"
@@ -127,7 +121,7 @@ HWPH.put("r/6a-75",
   "Moral, moralisch, Moralphilosophie","jussen gabriel"
  ],
  [
-  "Jüssen Gabriel","Nutzen I-II","","6","992–1001","author",2177,
+  "Jüssen Gabriel","Nutzen","I-II","6","992–1001","author",2177,
   "Nutzen, Nützlichkeit, das Nützliche, nützlich","jussen gabriel"
  ],
  ["Junker Thomas","Vererbung","I (biol.)","11","624–628","author",3395,"Vererbung","junker thomas"],

@@ -39,16 +39,16 @@ HWPH.put("a/1138",
   {"term":"Augenblick","qualifier":"I","band":"3","col":"640"},
   {"term":"belief","qualifier":"II","band":null,"col":null},
   {"term":"Charisma","qualifier":"I","band":"3","col":"634"},
-  {"term":"ewige 12 143 Vernunftglaube","qualifier":"II","band":"3","col":"643"},
+  {"term":"croyance","qualifier":"","band":null,"col":null},
   {"term":"fides","qualifier":"","band":null,"col":null},
   {"term":"fides apprehensiva","qualifier":"I","band":"3","col":"637"},
   {"term":"fides ex auditu","qualifier":"I","band":"3","col":"636"},
   {"term":"fides historica","qualifier":"I","band":"3","col":"637"},
   {"term":"fides infusa","qualifier":"I","band":"3","col":"635"},
   {"term":"iustificatio fidei","qualifier":"I","band":"3","col":"634"},
-  {"term":"J 7 784","qualifier":"","band":"3","col":"627–645"},
-  {"term":"natürliche bzw. vernünftige 8 716 veritas prima","qualifier":"I","band":"3","col":"635"},
   {"term":"praeambula fidei","qualifier":"I","band":"3","col":"634f."},
+  {"term":"veritas prima","qualifier":"I","band":"3","col":"635"},
+  {"term":"Vernunftglaube","qualifier":"II","band":"3","col":"643"},
   {"term":"Wahrheit","qualifier":"II","band":"3","col":"643"},
   {"term":"Weltordnung, moralische","qualifier":"II","band":"3","col":"644"},
   {"term":"Wort Gottes","qualifier":"I","band":"3","col":"636"},
@@ -229,11 +229,22 @@ HWPH.put("a/1138",
   {"id":2252,"lemma":"Orthodoxie, orthodox","tf":4},
   {"id":1105,"lemma":"Gesetz","tf":7}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":127,"lemma":"Analysis fidei"},
+  {"id":915,"lemma":"Fiduzialglaube"},
+  {"id":1140,"lemma":"Glauben und Wissen"},
+  {"id":1142,"lemma":"Glaubensgewißheit"},
+  {"id":1569,"lemma":"Kirchenglaube"},
+  {"id":1581,"lemma":"Köhlerglaube"},
+  {"id":2601,"lemma":"Rechtfertigung"},
+  {"id":3407,"lemma":"Verheißung"},
+  {"id":3447,"lemma":"Vertrauen"},
+  {"id":3715,"lemma":"Zustimmung"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Glaube II"},
   {"id":44,"name":"Theologie","label":"Glaube"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Vorster Hans","n":2}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Vorster Hans","n":2}]
 }
 );

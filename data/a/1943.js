@@ -30,17 +30,16 @@ HWPH.put("a/1943",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Ähnlichkeit","qualifier":"","band":"5","col":"1180"},
   {"term":"Allegorie","qualifier":"","band":"5","col":"1183"},
   {"term":"Bildspender/Bildempfänger","qualifier":"","band":"5","col":"1184"},
   {"term":"Gleichnis","qualifier":"","band":null,"col":null},
   {"term":"Katachrese","qualifier":"","band":"5","col":"1183"},
   {"term":"Kühnheit der Metapher","qualifier":"","band":"5","col":"1184"},
+  {"term":"similitudo","qualifier":"","band":"5","col":"1180"},
   {"term":"translatio","qualifier":"","band":null,"col":null},
   {"term":"übersetzen; übertragen","qualifier":"","band":null,"col":null},
   {"term":"vehicle/tenor","qualifier":"","band":"5","col":"1184"},
-  {"term":"μεταφορά","qualifier":"","band":null,"col":null},
-  {"term":"– II (ling.) 3 1180f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"μεταφορά","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":2,"n":3,"l":0,"editor":0,"role":"source"},

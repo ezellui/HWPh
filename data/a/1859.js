@@ -21,10 +21,7 @@ HWPH.put("a/1859",
  "next":{"id":1860,"lemma":"Manichäismus","band":"5","col":714},
  "backlinks":[{"id":1861,"lemma":"Manie","n":1},{"id":3521,"lemma":"Wahnsinn","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"μανία","qualifier":"","band":null,"col":null},
-  {"term":"– II (ästh.) 4 403–407 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"μανία","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":111,"name":"Heraklit","b":0,"n":3,"l":0,"editor":0,"role":"source"},

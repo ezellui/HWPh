@@ -30,8 +30,7 @@ HWPH.put("a/1718",
   {"term":"critic","qualifier":"","band":null,"col":null},
   {"term":"criticus","qualifier":"","band":"4","col":"1460"},
   {"term":"Kunstkritik","qualifier":"","band":null,"col":null},
-  {"term":"Kunsturteil","qualifier":"","band":null,"col":null},
-  {"term":"Literaturkritik 4 1282–1292 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Kunsturteil","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":68,"name":"G. E. Lessing","b":2,"n":3,"l":0,"editor":0,"role":"source"},
@@ -77,7 +76,7 @@ HWPH.put("a/1718",
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
   {"id":2781,"lemma":"Schrift","tf":2}
  ],
- "see_also":[{"id":1694,"lemma":"Kritik"}],
+ "see_also":[{"id":1694,"lemma":"Kritik"},{"id":3356,"lemma":"Urteil, ästhetisches"}],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Kunstrichter"}],
  "reg_authors":[{"name":"Strube Werner","n":11}]
 }

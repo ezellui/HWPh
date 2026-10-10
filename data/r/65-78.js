@@ -6,7 +6,11 @@ HWPH.put("r/65-78",
  ["Examen","Versuchung","","11","952","ref",3442,"Versuchung","examen"],
  ["example","Beispiel; Exempel","",null,null,"ref",379,"Beispiel, Exempel, exemplarisch","example"],
  ["example","Vorbild","",null,null,"ref",3491,"Vorbild","example"],
- ["excaecatio","Verblendung excellentia","",null,null,"ref",null,null,"excaecatio"],
+ [
+  "excaecatio","Verblendung","",null,null,"ref",3383,"Verblendung; Verblendungszusammenhang",
+  "excaecatio"
+ ],
+ ["excellentia","Überschwang","",null,null,"ref",3263,"Überschwang","excellentia"],
  ["excès","Fest","II","2","940","ref",910,"Fest","exces"],
  [
   "excess or defect","Versuch und Irrtum","","11","949","ref",3441,"Versuch und Irrtum",
@@ -38,7 +42,7 @@ HWPH.put("r/65-78",
  ["excitability","Reizbarkeit","",null,null,"ref",2663,"Reizbarkeit","excitability"],
  ["excogitatio","Denken","I","2","74","ref",552,"Denken","excogitatio"],
  [
-  "excogitatio","Invention; Erfindung II (ästh.)","","4","549","ref",1490,
+  "excogitatio","Invention; Erfindung","II (ästh.)","4","549","ref",1490,
   "Invention, Erfindung, Entdeckung","excogitatio"
  ],
  ["excommunicatio","Verdammung","","11","603f.","ref",3389,"Verdammung; Verwerfung","excommunicatio"],
@@ -67,9 +71,10 @@ HWPH.put("r/65-78",
  ["exemplar","Trinität","I","10","1502","ref",3231,"Trinität","exemplar"],
  ["exemplar aeternum","Idee","II A 1","4","67","ref",1361,"Idee","exemplar aeternum"],
  [
-  "exemplarisch","Beispiel; Exempel Exemplarische, das","",null,null,"ref",379,
-  "Beispiel, Exempel, exemplarisch","exemplarisch"
+  "exemplarisch","Beispiel; Exempel","",null,null,"ref",379,"Beispiel, Exempel, exemplarisch",
+  "exemplarisch"
  ],
+ ["Exemplarische, das","Prägnanz","","7","1249","ref",2437,"Prägnanz, prägnant","exemplarische, das"],
  [
   "Exemplifikation","Realisierung","I","8","145","ref",2587,"Realisierung, Realisation",
   "exemplifikation"
@@ -90,13 +95,13 @@ HWPH.put("r/65-78",
   "Superstition; Aberglaube","exes de la religion"
  ],
  [
-  "Exhaustion; Variation (Dingler)","Exhaustion; Variation (Dingler)","","2","850","main",858,
-  "Exhaustion, Variation","exhaustion; variation (dingler)"
+  "Exhaustion; Variation","Exhaustion; Variation","(Dingler)","2","850","main",858,
+  "Exhaustion, Variation","exhaustion; variation"
  ],
  ["Exhaustion","Infinitesimalrechnung","I",null,null,"ref",1430,"Infinitesimalrechnung","exhaustion"],
  ["Exhaustionsbeweis","Proportion","I","7","1485","ref",2483,"Proportion","exhaustionsbeweis"],
  ["exhibitio","Darstellung","",null,null,"ref",524,"Darstellung","exhibitio"],
- ["Exhibitionslust","Scham C","4","8","1215","ref",2752,"Schamanismus","exhibitionslust"],
+ ["Exhibitionslust","Scham","C 4","8","1215","ref",2751,"Scham, Scheu","exhibitionslust"],
  ["exigentia existentiae","Realitas","","8","182","ref",2589,"Realitas","exigentia existentiae"],
  ["exinanitio","Kenose","",null,null,"ref",1559,"Kenose","exinanitio"],
  [
@@ -304,8 +309,8 @@ HWPH.put("r/65-78",
  ],
  ["Existenzmitteilung","Philosophie","IV E","7","722","ref",2353,"Philosophie","existenzmitteilung"],
  [
-  "Existenzphilosophie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "existenzphilosophie s. auch"
+  "Existenzphilosophie","Register der Sachgruppen","",null,null,"see",null,null,
+  "existenzphilosophie"
  ],
  [
   "Existenzphilosophie","Existenzphilosophie","","2","862–865","main",869,"Existenzphilosophie",
@@ -329,7 +334,7 @@ HWPH.put("r/65-78",
  ["Existenzsatz","Postulat","III A","7","1150","ref",2418,"Postulat","existenzsatz"],
  ["Existenzurteil","Existentialurteil","",null,null,"ref",860,"Existentialurteil","existenzurteil"],
  ["Existenzurteil","Existenzaussage","",null,null,"ref",865,"Existenzaussage","existenzurteil"],
- ["Existenzvoraussetzung","Ontologie","",null,null,"ref",2218,"Ontologie","existenzvoraussetzung"],
+ ["Existenzvoraussetzung","Ontologie","3",null,null,"ref",2218,"Ontologie","existenzvoraussetzung"],
  [
   "existierendes Denken","Existenzerhellung","(Jaspers)","2","861","ref",866,"Existenzerhellung",
   "existierendes denken"
@@ -342,6 +347,10 @@ HWPH.put("r/65-78",
  ["Exklusion","Ausschliessung","",null,null,"see",312,"Ausschließung","exklusion"],
  ["Exklusion","Disjunktion","",null,null,"see",609,"Disjunktion","exklusion"],
  ["Exklusion","Rejektion","(Peirce)",null,null,"see",2665,"Rejektion","exklusion"],
+ [
+  "exogene/endogene Psychose","Psychose","I","7","1691f.","ref",2528,"Psychose",
+  "exogene/endogene psychose"
+ ],
  ["exornatio","Epichirem","","2","578","ref",769,"Epichirem","exornatio"],
  ["exornatio","Stil","","10","151","ref",3024,"Stil","exornatio"],
  ["Exorzismus","Dämonologie","","2","6","ref",521,"Dämonologie","exorzismus"],
@@ -390,9 +399,14 @@ HWPH.put("r/65-78",
  ],
  ["Experiment","Experimentum crucis","",null,null,"see",875,"Experimentum crucis","experiment"],
  [
-  "Experiment","Observatio; Beobachtung Experiment","",null,null,"see",2195,
-  "Observatio, Beobachtung","experiment"
+  "Experiment","Observatio; Beobachtung","",null,null,"see",2195,"Observatio, Beobachtung",
+  "experiment"
  ],
+ [
+  "Experiment","Medizin","IV","5","996","ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "experiment"
+ ],
+ ["Experiment","Theorie","I","10","1141","ref",3179,"Theorie","experiment"],
  [
   "experimental science","Wissenschaft","I","12","907","ref",3635,"Wissenschaft",
   "experimental science"
@@ -422,7 +436,14 @@ HWPH.put("r/65-78",
   "Experimentalpsychologie","Psychologie","","7","1600","ref",2511,"Psychologie",
   "experimentalpsychologie"
  ],
- ["Experimentalreligionslehre","Seele","",null,null,"ref",2794,"Seele","experimentalreligionslehre"],
+ [
+  "Experimentalreligionslehre","Seele, schöne","","9","91","ref",2795,
+  "Seele, schöne; Seelenschönheit","experimentalreligionslehre"
+ ],
+ [
+  "Experimental-Seelenlehre","Psychologie","","7","1600","ref",2511,"Psychologie",
+  "experimental-seelenlehre"
+ ],
  ["Experimentalwissenschaft","Physik","","7","939","ref",2368,"Physik","experimentalwissenschaft"],
  [
   "experimentelle Psychologie","Psychologie","","7","1620ff.","ref",2511,"Psychologie",
@@ -443,7 +464,7 @@ HWPH.put("r/65-78",
   "experimentum crucis"
  ],
  ["Experte","Experte","","2","875f.","main",876,"Experte","experte"],
- ["Explanandum","Erklären II (wiss.)","","2","695","ref",801,"Erklären, Erklärung","explanandum"],
+ ["Explanandum","Erklären","II (wiss.)","2","695","ref",801,"Erklären, Erklärung","explanandum"],
  ["explanation","Erklären","",null,null,"ref",801,"Erklären, Erklärung","explanation"],
  [
   "explanation","Voraussage","","11","1158","ref",3487,"Voraussage; Vorhersage; Prognose",
@@ -467,7 +488,7 @@ HWPH.put("r/65-78",
   "explikandum; explikat"
  ],
  ["Explikation","Definition","II",null,null,"ref",535,"Definition","explikation"],
- ["Explikation","Erklären II (wiss.)","","2","693","ref",801,"Erklären, Erklärung","explikation"],
+ ["Explikation","Erklären","II (wiss.)","2","693","ref",801,"Erklären, Erklärung","explikation"],
  ["Explikation","Natur","IV","6","455f.","ref",2074,"Natur","explikation"],
  ["Explikation","Explikation","(Carnap)","2","876","main",877,"Explikation","explikation"],
  [
@@ -493,9 +514,10 @@ HWPH.put("r/65-78",
  ["expressio","Substanz","III","10","524","ref",3062,"Substanz; Substanz/Akzidens","expressio"],
  ["Expression","Intuition","","4","537","ref",1487,"Intuition","expression"],
  [
-  "expressions, misleading","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "expressions, misleading","Philosophie","IV K","7","790","ref",2353,"Philosophie",
   "expressions, misleading"
  ],
+ ["Expressivismus","Wert","V","12","578","ref",3588,"Wert","expressivismus"],
  [
   "expropriatio sui","Desappropriatio","",null,null,"ref",565,"Desappropriatio, expropriatio (sui)",
   "expropriatio sui"
@@ -540,13 +562,21 @@ HWPH.put("r/65-78",
   "Extensionalitätsthese","extensionalitatsthese"
  ],
  [
-  "extensive/intensive Grösse","Grösse I extent","",null,null,"ref",null,null,
+  "extensive/intensive Grösse","Grösse","I",null,null,"ref",1187,"Größe",
   "extensive/intensive grosse"
+ ],
+ [
+  "extent","Begriffsinhalt/Begriffsumfang","",null,null,"ref",369,"Begriffsinhalt/Begriffsumfang",
+  "extent"
  ],
  ["extériorisation","Entäusserung","","2","506","ref",745,"Entäußerung","exteriorisation"],
  [
-  "external world","Realität der Aussenwelt externe Beziehung","",null,null,"ref",null,null,
+  "external world","Realität der Aussenwelt","",null,null,"ref",2593,"Realität der Außenwelt",
   "external world"
+ ],
+ [
+  "externe Beziehung","Beziehung, interne/externe","",null,null,"ref",427,
+  "Beziehung, interne/externe","externe beziehung"
  ],
  ["Exterozeption","Sinne, die","","9","857f.","ref",2892,"Sinne, die","exterozeption"],
  ["extra intellectum","Universalien","I","11","182","ref",3302,"Universalien","extra intellectum"],
@@ -580,7 +610,12 @@ HWPH.put("r/65-78",
   "Extremalprinzipien","Extremalprinzipien","","2","880–883","main",885,"Extremalprinzipien",
   "extremalprinzipien"
  ],
- ["Extremalprinzipien","Wirkungsprinzip Extreme","",null,null,"see",null,null,"extremalprinzipien"],
+ [
+  "Extremalprinzipien","Wirkungsprinzip","",null,null,"see",3630,
+  "Wirkungsprinzip; Prinzip der kleinsten Aktion","extremalprinzipien"
+ ],
+ ["Extreme","Mitte","",null,null,"ref",1985,"Mitte","extreme"],
+ ["Extreme","Vermittlung","","11","725","ref",3417,"Vermittlung","extreme"],
  ["Extremismus","Extremismus","","2","883f.","main",886,"Extremismus","extremismus"],
  ["Extremismus","Radikalismus","",null,null,"see",2563,"Radikalismus","extremismus"],
  [
@@ -595,7 +630,7 @@ HWPH.put("r/65-78",
   "extrinsisch/intrinsisch","Denominatio","","2","113","ref",559,"Denominatio",
   "extrinsisch/intrinsisch"
  ],
- ["exuberatio","Überfluss ἐξουδενόω","",null,null,"ref",null,null,"exuberatio"],
+ ["exuberatio","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft","exuberatio"],
  [
   "Exzenter","Ptolemäisch","",null,null,"ref",2533,"Ptolemäisch, Ptolemäisches Weltsystem",
   "exzenter"
@@ -610,26 +645,8 @@ HWPH.put("r/65-78",
   "Positionalität, exzentrische","exzentrische positionalitat"
  ],
  [
-  "Exzentrizität (der Planetenbahnen)","Ptolemäisch F Fabel","",null,null,"ref",null,null,
-  "exzentrizitat (der planetenbahnen)"
- ],
- [
-  "Extremalprinzipien","Extremalprinzipien","",null,null,"main",885,"Extremalprinzipien",
-  "extremalprinzipien"
- ],
- ["Extremalprinzipien","Zweck; Ziel","","12","1506","ref",3718,"Zweck; Ziel","extremalprinzipien"],
- ["Exklusion","Exklusion","",null,null,"main",870,"Exklusion","exklusion"],
- [
-  "Extremalprinzipien","Extremalprinzipien","",null,null,"main",885,"Extremalprinzipien",
-  "extremalprinzipien"
- ],
- [
-  "Extremalprinzipien","Wirkungsprinzip Prinzip der pragmatischen Ordnung","",null,null,"ref",null,
-  null,"extremalprinzipien"
- ],
- [
-  "Existenz; existentia","Existenz; existentia","II","2","856","main",863,"Existenz, existentia",
-  "existenz; existentia"
+  "Exzentrizität (der Planetenbahnen)","Ptolemäisch","F",null,null,"ref",2533,
+  "Ptolemäisch, Ptolemäisches Weltsystem","exzentrizitat (der planetenbahnen)"
  ],
  ["Exklusion","Exklusion","",null,null,"main",870,"Exklusion","exklusion"]
 ]

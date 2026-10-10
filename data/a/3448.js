@@ -25,11 +25,9 @@ HWPH.put("a/3448",
   {"term":"Exekutive","qualifier":"","band":"11","col":"990"},
   {"term":"Gewaltenteilung","qualifier":"","band":"11","col":"990"},
   {"term":"officium","qualifier":"","band":"11","col":"990"},
-  {"term":"Polizeiwissenschaft 7 1080–1083 s. auch","qualifier":"","band":null,"col":null},
   {"term":"public administration","qualifier":"","band":null,"col":null},
   {"term":"puissance exécutrice","qualifier":"","band":"11","col":"990"},
-  {"term":"Vorsorge","qualifier":"","band":"11","col":"990"},
-  {"term":"– I (pol.) 1 210–212 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vorsorge","qualifier":"","band":"11","col":"990"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

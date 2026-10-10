@@ -27,6 +27,6 @@ HWPH.put("a/56",
   {"id":3355,"lemma":"Urteil"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Affirmation"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

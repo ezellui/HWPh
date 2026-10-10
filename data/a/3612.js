@@ -40,10 +40,11 @@ HWPH.put("a/3612",
   {"term":"Allerrettung","qualifier":"","band":"12","col":"721"},
   {"term":"Allversöhnung","qualifier":"","band":"12","col":"721"},
   {"term":"doppelter Ausgang","qualifier":"","band":"12","col":"721f."},
-  {"term":"Malum","qualifier":"","band":"12","col":"721"},
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"recapitulatio omnium","qualifier":"","band":"12","col":"721"},
   {"term":"restitutio","qualifier":"","band":null,"col":null},
-  {"term":"restoration","qualifier":"","band":null,"col":null}
+  {"term":"restoration","qualifier":"","band":null,"col":null},
+  {"term":"Ursache des Bösen","qualifier":"","band":"12","col":"721"}
  ],
  "persons":[
   {"id":58,"name":"Origenes","b":3,"n":2,"l":0,"editor":0,"role":"source"},

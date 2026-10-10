@@ -81,7 +81,11 @@ HWPH.put("a/3258",
   {"id":1275,"lemma":"Himmel","tf":2},
   {"id":182,"lemma":"Antike","tf":2}
  ],
- "see_also":[{"id":3057,"lemma":"Sublunar/translunar"},{"id":3087,"lemma":"Supramundan"}],
+ "see_also":[
+  {"id":3057,"lemma":"Sublunar/translunar"},
+  {"id":3087,"lemma":"Supramundan"},
+  {"id":3265,"lemma":"Übersinnlich; das Übersinnliche"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Überirdisch"}],
  "reg_authors":[{"name":"Enders Markus","n":6}]
 }

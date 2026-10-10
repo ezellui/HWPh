@@ -1,58 +1,5 @@
 HWPH.put("r/6c-69",
 [
- [
-  "Literaturkritik I 4 1284","Biblizismus","","1","912f.","ref",429,"Bezugssystem",
-  "literaturkritik i 4 1284"
- ],
- [
-  "Literaturkritik II 4 1286 centrosophia","Zentrum","","12","1299","ref",3687,"Zentrum",
-  "literaturkritik ii 4 1286 centrosophia"
- ],
- [
-  "Literaturkritik I 4 1282 critical rationalism","Rationalismus","",null,null,"ref",2574,
-  "Rationalismus","literaturkritik i 4 1282 critical rationalism"
- ],
- [
-  "Literaturkritik II 4 1288 Dichtkunst, neologische","Neologie","","6","719","ref",2110,"Neologie",
-  "literaturkritik ii 4 1288 dichtkunst, neologische"
- ],
- [
-  "lII (log.) 1 605","Partikeln, logische","","7","149","ref",2283,"Partikeln, logische",
-  "lii (log.) 1 605"
- ],
- ["lII (log.) 1 605","Verstehen","","11","929","ref",3438,"Verstehen","lii (log.) 1 605"],
- [
-  "lII (log.) 1 605","Wahrheit","VI C (analyt. Philos.)","12","118","ref",3523,"Wahrheit",
-  "lii (log.) 1 605"
- ],
- [
-  "lII (log.) 1 605","Erleben; Erlebnis","","2","708","ref",804,"Erleben, Erlebnis",
-  "lii (log.) 1 605"
- ],
- [
-  "Literaturkritik 4 1282–1292 s. auch","Kunstphilosophie; Kunstgeschichte","",null,null,"ref",1716,
-  "Kunstphilosophie, Kunstgeschichte, Kunstwissenschaft","literaturkritik 4 1282–1292 s. auch"
- ],
- [
-  "Literaturkritik 4 1282–1292 s. auch","Kunstrichter","",null,null,"ref",1718,"Kunstrichter",
-  "literaturkritik 4 1282–1292 s. auch"
- ],
- [
-  "Literaturkritik 4 1282–1292 s. auch","Literary Criticism","",null,null,"ref",1799,
-  "Literary Criticism","literaturkritik 4 1282–1292 s. auch"
- ],
- [
-  "Literaturkritik II 4 1288f. Kritik, divinatorische","Universalpoesie","","11","208","ref",3305,
-  "Universalpoesie","literaturkritik ii 4 1288f. kritik, divinatorische"
- ],
- [
-  "Literaturkritik","Wissenschaften, schöne","",null,null,"ref",3639,"Wissenschaften, schöne",
-  "literaturkritik"
- ],
- [
-  "Literaturkritik","Urteil, ästhetisches","",null,null,"ref",3356,"Urteil, ästhetisches",
-  "literaturkritik"
- ],
  ["Li","Neokonfuzianismus","","6","714","ref",2108,"Neokonfuzianismus","li"],
  ["Li","Ritus","IV","8","1060","ref",2720,"Ritus","li"],
  ["Liaison-Gehirn","Seelensitz","","9","108","ref",2798,"Seelensitz","liaison-gehirn"],
@@ -111,11 +58,8 @@ HWPH.put("r/6c-69",
  ["Libertin","Libertin","","5","272–274","main",1788,"Libertin","libertin"],
  ["Libertin","Freidenker","",null,null,"see",944,"Freidenker","libertin"],
  ["Libertin","Geist, freier","",null,null,"see",1031,"Geist, freier","libertin"],
- [
-  "Libertin","Libertinisme Libertinage","",null,null,"see",1789,"Libertinisme, Libertinage",
-  "libertin"
- ],
- ["Libertinisme","Libertinisme","",null,null,"main",1789,"Libertinisme, Libertinage","libertinisme"],
+ ["Libertin","Libertinisme","",null,null,"see",1789,"Libertinisme, Libertinage","libertin"],
+ ["Libertinage","Libertinisme","",null,null,"ref",1789,"Libertinisme, Libertinage","libertinage"],
  [
   "Libertinisme","Libertinisme","","5","274f.","main",1789,"Libertinisme, Libertinage",
   "libertinisme"
@@ -183,7 +127,14 @@ HWPH.put("r/6c-69",
   "lichtmetaphysik"
  ],
  ["Lichtung","Lichtung","(Heidegger)","5","289f.","main",1794,"Lichtung","lichtung"],
- ["Lichtung","Topologie","",null,null,"see",3205,"Topologie","lichtung"],
+ [
+  "Lichtung","Topologie des Seins","(Heidegger)",null,null,"see",3206,
+  "Topologie des Seins; Ortschaft des Seins","lichtung"
+ ],
+ ["Liebe","Liebe","","5","290–328","main",1795,"Liebe","liebe"],
+ ["Liebe","Freundschaft","",null,null,"see",954,"Freundschaft","liebe"],
+ ["Liebe","Nächstenliebe","",null,null,"see",2060,"Nächstenliebe","liebe"],
+ ["Liebe","Selbstliebe","",null,null,"see",2840,"Selbstliebe","liebe"],
  ["Liebe","Affekt","II","1","97","ref",53,"Affekt","liebe"],
  ["Liebe","Allgemeines/Besonderes","III 3","1","186","ref",101,"Allgemeines/Besonderes","liebe"],
  [
@@ -198,7 +149,12 @@ HWPH.put("r/6c-69",
  ["Liebe","Ontologie, trinitarische","","6","1202","ref",2220,"Ontologie, trinitarische","liebe"],
  ["Liebe","Reflexion","","8","398","ref",2634,"Reflexion","liebe"],
  ["Liebe","Religion","VII","8","677","ref",2673,"Religion","liebe"],
- ["Liebe","Schöne","",null,null,"ref",2776,"Schöne","liebe"],
+ ["Liebe","Schöne, das","III","8","1360f.","ref",2776,"Schöne","liebe"],
+ ["Liebe","Sexualität","II","9","738","ref",2878,"Sexualität","liebe"],
+ ["Liebe","Streit","I (allg.)","10","297","ref",3039,"Streit","liebe"],
+ ["Liebe","Unkenntlichkeit","(Kierkegaard)","11","232","ref",3312,"Unkenntlichkeit","liebe"],
+ ["Liebe","Uti/frui","","11","501","ref",3365,"Uti/frui","liebe"],
+ ["Liebe","Vernunft; Verstand","VI","11","826","ref",3423,"Vernunft; Verstand","liebe"],
  ["Liebe/Hass","Malum","II","5","658","ref",1852,"Malum","liebe/hass"],
  ["Liebe/Hass","Wert","III A (phän.)","12","565","ref",3588,"Wert","liebe/hass"],
  ["Liebe, erzeugende","Gestalt","I (ästh.)","3","544f.","ref",1116,"Gestalt","liebe, erzeugende"],
@@ -309,7 +265,7 @@ HWPH.put("r/6c-69",
   "linguistic turn"
  ],
  ["linguistic turn","Wende","","12","535","ref",3582,"Wende","linguistic turn"],
- ["Linguistik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"linguistik s. auch"],
+ ["Linguistik","Register der Sachgruppen","",null,null,"see",null,null,"linguistik"],
  [
   "Linguistik; Sprachwissenschaft","Linguistik; Sprachwissenschaft","","5","329–343","main",1797,
   "Linguistik, Sprachwissenschaft","linguistik; sprachwissenschaft"
@@ -376,23 +332,23 @@ HWPH.put("r/6c-69",
   "Literary Criticism","Literary Criticism","","5","344","main",1799,"Literary Criticism",
   "literary criticism"
  ],
- ["Literary Criticism","Kritik","",null,null,"see",1694,"Kritik","literary criticism"],
  [
-  "Literaturkritik Literat","Schriftsteller","",null,null,"ref",2783,"Schriftsteller",
-  "literaturkritik literat"
+  "Literary Criticism","Kritik; Literaturkritik","",null,null,"see",1694,"Kritik",
+  "literary criticism"
  ],
- ["Literaturkritik","Kritik","",null,null,"ref",1694,"Kritik","literaturkritik"],
+ ["Literat","Schriftsteller","",null,null,"ref",2783,"Schriftsteller","literat"],
+ ["Literaturkritik","Kritik; Literaturkritik","",null,null,"ref",1694,"Kritik","literaturkritik"],
  [
-  "Literaturkritik Literaturpsycholgie","Kunst; Dichtung","","4","1448","ref",1715,
-  "Kunst, Dichtung, Dichtkunst","literaturkritik literaturpsycholgie"
+  "Literaturpsycholgie","Kunst; Dichtung","","4","1448","ref",1715,"Kunst, Dichtung, Dichtkunst",
+  "literaturpsycholgie"
  ],
  [
   "Literatursoziologie","Kunst; Dichtung","","4","1448","ref",1715,"Kunst, Dichtung, Dichtkunst",
   "literatursoziologie"
  ],
  [
-  "Literaturtheorie s. auch","Register der Sachgruppen Literaturwissenschaft, vergleichende","",null,
-  null,"ref",null,null,"literaturtheorie s. auch"
+  "Literaturtheorie","Register der Sachgruppen Literaturwissenschaft, vergleichende","",null,null,
+  "see",null,null,"literaturtheorie"
  ],
  ["litterae humaniores","Philologie","","7","557","ref",2352,"Philologie","litterae humaniores"],
  [
@@ -415,24 +371,6 @@ HWPH.put("r/6c-69",
  ["living principle","Lebenskraft","",null,null,"ref",1746,"Lebenskraft","living principle"],
  ["livre du monde","Buch der Natur","","1","958","ref",456,"Buch der Natur","livre du monde"],
  ["livsløgn","Lebenslüge","",null,null,"ref",1749,"Lebenslüge","livsløgn"],
- ["Licht","Licht","",null,null,"main",1792,"Licht","licht"],
- [
-  "Literaturkritik II 4 1286 πηγή","Apathie","I (eth.)","1","431","ref",198,"Apathie",
-  "literaturkritik ii 4 1286 πηγη"
- ],
- [
-  "Literaturkritik II 4 1290 Universalpragmatik","Transzendentalpragmatik/Universalpragmatik","",
-  null,null,"ref",3222,"Transzendentalpragmatik/Universalpragmatik",
-  "literaturkritik ii 4 1290 universalpragmatik"
- ],
- [
-  "Literaturkritik II 4 1290 Universalpragmatik","Kompetenz","VI (sprach.)","4","930","ref",1598,
-  "Kompetenz","literaturkritik ii 4 1290 universalpragmatik"
- ],
- [
-  "Literaturkritik II 4 1290 Universalpragmatik","Pragmatik","","7","1238","ref",2434,"Pragmatik",
-  "literaturkritik ii 4 1290 universalpragmatik"
- ],
  ["Libera Alain de","Name","II","6","378–384","author",2066,"Name","libera alain de"],
  ["Libera Alain de","Satz","II","8","1182–1186","author",2745,"Satz","libera alain de"],
  ["Lichtblau Klaus","Macht","II (allg.)","5","604–617","author",1844,"Macht","lichtblau klaus"],
@@ -446,7 +384,7 @@ HWPH.put("r/6c-69",
   "Patriarchat, Patriarchalismus","lichtblau klaus"
  ],
  [
-  "Lichtblau Klaus","Seinsverbundenheit (Mannheim)","","9","261–263","author",2814,
+  "Lichtblau Klaus","Seinsverbundenheit","(Mannheim)","9","261–263","author",2814,
   "Seinsverbundenheit; Seinsgebundenheit","lichtblau klaus"
  ],
  ["Lichtblau Klaus","Streit","II (soz.)","10","301–303","author",3039,"Streit","lichtblau klaus"],
@@ -490,7 +428,10 @@ HWPH.put("r/6c-69",
   "Lipp Wolfgang","Konformismus/Nonkonformismus","","4","955–958","author",1610,
   "Konformismus (Konformität)/Nonkonformismus","lipp wolfgang"
  ],
- ["Lipp Wolfgang","Kristallisation","",null,null,"author",1692,"Kristallisation","lipp wolfgang"],
+ [
+  "Lipp Wolfgang","Kristallisation","2 (Gehlen)","4","1246f.","author",1692,"Kristallisation",
+  "lipp wolfgang"
+ ],
  ["Lipp Wolfgang","Mobilität","","6","1–3","author",1992,"Mobilität","lipp wolfgang"]
 ]
 );

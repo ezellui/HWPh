@@ -24,7 +24,6 @@ HWPH.put("a/3123",
  "outlinks":[],
  "register":[
   {"term":"Bildung","qualifier":"I","band":"10","col":"883"},
-  {"term":"das","qualifier":"","band":null,"col":null},
   {"term":"délicatesse","qualifier":"","band":null,"col":null},
   {"term":"Haltung, pädagogische","qualifier":"II","band":"10","col":"885"},
   {"term":"Kunstgefühl, pädagogisches","qualifier":"II","band":"10","col":"884"},
@@ -94,6 +93,6 @@ HWPH.put("a/3123",
   {"id":14,"name":"Hermeneutik","label":"Takt I"},
   {"id":30,"name":"Pädagogik","label":"Takt II"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Sünkel Wolfgang","n":3}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Sünkel Wolfgang","n":3}]
 }
 );

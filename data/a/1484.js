@@ -22,7 +22,6 @@ HWPH.put("a/1484",
  ],
  "outlinks":[],
  "register":[
-  {"term":"der","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Vergemeinschaftung","qualifier":"(Husserl)","band":"4","col":"521"},
   {"term":"Welt, objektive","qualifier":"(Husserl)","band":"4","col":"521"}
  ],

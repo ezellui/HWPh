@@ -43,21 +43,15 @@ HWPH.put("a/1598",
   {"term":"innate ideas","qualifier":"VI (sprach.)","band":"4","col":"926"},
   {"term":"kommunikative Kompetenz","qualifier":"VI (sprach.)","band":"4","col":"927f."},
   {"term":"Kompetenz, kommunikative","qualifier":"VI (sprach.)","band":"4","col":"927f."},
-  {
-   "term":"Literaturkritik II 4 1290 Universalpragmatik",
-   "qualifier":"VI (sprach.)",
-   "band":"4",
-   "col":"930"
-  },
   {"term":"Manipulationstrieb","qualifier":"V (psych.)","band":"4","col":"922"},
   {"term":"Spracherwerb","qualifier":"VI (sprach.)","band":"4","col":"924"},
   {"term":"Sprachfähigkeit","qualifier":"VI (sprach.)","band":null,"col":null},
   {"term":"Sprachkompetenz","qualifier":"VI (sprach.)","band":null,"col":null},
   {"term":"Stilkompetenz","qualifier":"VI (sprach.)","band":"4","col":"926"},
   {"term":"Text","qualifier":"VI (sprach.)","band":"4","col":"925"},
+  {"term":"Universalpragmatik","qualifier":"VI (sprach.)","band":"4","col":"930"},
   {"term":"Verhalten, sprachliches","qualifier":"VI (sprach.)","band":null,"col":null},
-  {"term":"Wirksamkeitsgefühl","qualifier":"V (psych.)","band":"4","col":"922"},
-  {"term":"–","qualifier":"","band":"4","col":"918–921"}
+  {"term":"Wirksamkeitsgefühl","qualifier":"V (psych.)","band":"4","col":"922"}
  ],
  "persons":[
   {"id":912,"name":"D. Wunderlich","b":2,"n":4,"l":2,"editor":0,"role":"mixed"},
@@ -208,7 +202,7 @@ HWPH.put("a/1598",
   {"name":"Blüm Volker","n":1},
   {"name":"Heckhausen Heinz","n":1},
   {"name":"Klingenberg Eberhard","n":1},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Redecker Friedrich von","n":1}
  ]
 }

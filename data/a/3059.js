@@ -18,9 +18,9 @@ HWPH.put("a/3059",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"/Objekt I 10 405 principium subsidiaritatis","qualifier":"","band":"10","col":"483"},
   {"term":"Gemeinschaft","qualifier":"","band":"10","col":"482ff."},
   {"term":"Gesellschaftstätigkeit","qualifier":"","band":"10","col":"483"},
+  {"term":"principium subsidiaritatis","qualifier":"","band":"10","col":"483"},
   {"term":"principle of subsidiarity","qualifier":"","band":null,"col":null}
  ],
  "persons":[

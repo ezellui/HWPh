@@ -36,11 +36,10 @@ HWPH.put("a/3128",
   {"term":"delictum/peccatum","qualifier":"","band":"10","col":"903"},
   {"term":"Delikt","qualifier":"","band":"10","col":"901"},
   {"term":"énoncé des faits","qualifier":"","band":null,"col":null},
-  {"term":"Gesetz","qualifier":"","band":"10","col":"906"},
+  {"term":"Rechtssatz","qualifier":"","band":"10","col":"906"},
   {"term":"Sachverhalt","qualifier":"","band":"10","col":"906f."},
   {"term":"Tatsache","qualifier":"","band":"10","col":"906f."},
-  {"term":"Zurechnung","qualifier":"","band":"10","col":"904"},
-  {"term":"– I (jur.) 12 1445–1448 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zurechnung","qualifier":"","band":"10","col":"904"}
  ],
  "persons":[
   {"id":240,"name":"H. Kelsen","b":2,"n":2,"l":0,"editor":0,"role":"source"},

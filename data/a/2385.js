@@ -22,7 +22,9 @@ HWPH.put("a/2385",
   {"term":"Engellehre","qualifier":"","band":"7","col":"997"},
   {"term":"Exegese, pneumatische","qualifier":"","band":"7","col":"999"},
   {"term":"Geisterlehre","qualifier":"","band":"7","col":"997"},
-  {"term":"metaphysica specialis","qualifier":"","band":null,"col":null}
+  {"term":"Geisteslehre","qualifier":"","band":null,"col":null},
+  {"term":"metaphysica specialis","qualifier":"","band":null,"col":null},
+  {"term":"Pneumatik","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":2,"l":0,"editor":0,"role":"source"},

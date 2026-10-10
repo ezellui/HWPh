@@ -34,7 +34,7 @@ HWPH.put("a/2898",
   {"id":6141,"name":"R. Sokolowski","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":2343,"lemma":"Phänomenologie","tf":2},{"id":1773,"lemma":"Leistung","tf":2}],
- "see_also":[],
+ "see_also":[{"id":2899,"lemma":"Sinnkonstitution, Sinnstiftung"}],
  "groups":[{"id":31,"name":"Phänomenologie","label":"Sinngebilde (Husserl)"}],
  "reg_authors":[{"name":"Ströker Elisabeth","n":5}]
 }

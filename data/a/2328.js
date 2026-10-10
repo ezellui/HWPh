@@ -23,8 +23,7 @@ HWPH.put("a/2328",
   {"term":"délire obscène","qualifier":"","band":"7","col":"379"},
   {"term":"folies génésiques","qualifier":"","band":"7","col":"379"},
   {"term":"Neurose","qualifier":"","band":"7","col":"380"},
-  {"term":"polymorph pervers","qualifier":"","band":"7","col":"380"},
-  {"term":"– I (log.) 4 575 – II (psych.) 4 575f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"polymorph pervers","qualifier":"","band":"7","col":"380"}
  ],
  "persons":[
   {"id":3131,"name":"E. Schorsch","b":2,"n":6,"l":0,"editor":0,"role":"mixed"},

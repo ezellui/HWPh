@@ -36,10 +36,9 @@ HWPH.put("a/3222",
   {"term":"Ethik der Logik","qualifier":"","band":"10","col":"1440"},
   {"term":"Kommunikationsgemeinschaft","qualifier":"","band":"10","col":"1440"},
   {"term":"L Diskursethik","qualifier":"","band":null,"col":null},
-  {"term":"Literaturkritik II 4 1290 Universalpragmatik","qualifier":"","band":null,"col":null},
-  {"term":"performativer 12 699f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"Sprachspielpragmatik","qualifier":"","band":"10","col":"1440"},
-  {"term":"universal pragmatics","qualifier":"","band":null,"col":null}
+  {"term":"universal pragmatics","qualifier":"","band":null,"col":null},
+  {"term":"Universalpragmatik","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":140,"name":"K.-O. Apel","b":4,"n":5,"l":1,"editor":0,"role":"mixed"},

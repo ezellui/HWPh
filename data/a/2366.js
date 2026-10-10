@@ -39,6 +39,7 @@ HWPH.put("a/2366",
  ],
  "outlinks":[],
  "register":[
+  {"term":"praktisches Wissen","qualifier":"","band":null,"col":null},
   {"term":"prudence","qualifier":"","band":null,"col":null},
   {"term":"Tugend","qualifier":"","band":null,"col":null},
   {"term":"Wissen","qualifier":"","band":null,"col":null},

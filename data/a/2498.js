@@ -17,7 +17,10 @@ HWPH.put("a/2498",
  "next":{"id":2499,"lemma":"Prozeß","band":"7","col":1543},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"pädagogische Provinz","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Erziehung","qualifier":"","band":"7","col":"1542"},
+  {"term":"pädagogische Provinz","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":19,"name":"J. W. Goethe","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":189,"name":"E. Spranger","b":0,"n":1,"l":1,"editor":0,"role":"source"},

@@ -48,6 +48,6 @@ HWPH.put("a/3344",
   {"id":13,"name":"Geschichtsphilosophie","label":"Urkommunismus"},
   {"id":23,"name":"Marxismus","label":"Urkommunismus"}
  ],
- "reg_authors":[{"name":"Dreier Wilhelm","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Dreier Wilhelm","n":4},{"name":"Red","n":241}]
 }
 );

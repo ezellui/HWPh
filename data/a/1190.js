@@ -17,7 +17,7 @@ HWPH.put("a/1190",
  "next":{"id":1191,"lemma":"Grund","band":"3","col":902},
  "backlinks":[{"id":3539,"lemma":"Wahrnehmung","n":1}],
  "outlinks":[],
- "register":[{"term":"- 1077 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":1096,"name":"W. Kayser","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
   {"id":365,"name":"H. R. Jauss","b":1,"n":2,"l":0,"editor":0,"role":"scholar"},

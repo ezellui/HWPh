@@ -17,14 +17,14 @@ HWPH.put("a/2367",
  "next":{"id":2368,"lemma":"Physik","band":"7","col":937},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Stammesentwicklung","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 2 550–557 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (Haeckel) 7 46 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Stammesentwicklung","qualifier":"","band":null,"col":null}],
  "persons":[{"id":263,"name":"E. Haeckel","b":0,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[],
- "see_also":[{"id":1192,"lemma":"Grundgesetz, biogenetisches"},{"id":2217,"lemma":"Ontogenese"}],
+ "see_also":[
+  {"id":1192,"lemma":"Grundgesetz, biogenetisches"},
+  {"id":2217,"lemma":"Ontogenese"},
+  {"id":2509,"lemma":"Psychogenese, Psychophylogenese"}
+ ],
  "groups":[{"id":5,"name":"Biologie","label":"Phylogenese"}],
  "reg_authors":[{"name":"Rensch Bernhard","n":17}]
 }

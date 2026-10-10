@@ -18,7 +18,6 @@ HWPH.put("a/3480",
  "backlinks":[{"id":3472,"lemma":"Volk","n":1},{"id":3477,"lemma":"Volksgeist; Volksseele","n":1}],
  "outlinks":[{"id":1240,"lemma":"Heimat, Heimatkunde","n":1},{"id":3478,"lemma":"Volkskunde","n":1}],
  "register":[
-  {"term":"empirische","qualifier":"","band":null,"col":null},
   {"term":"Nation, ungewordene","qualifier":"","band":"11","col":"1112"},
   {"term":"Volkskultur","qualifier":"","band":"11","col":"1112"},
   {"term":"Volkstümlichkeit","qualifier":"","band":"11","col":"1112"}

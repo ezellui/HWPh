@@ -23,7 +23,6 @@ HWPH.put("a/3173",
  ],
  "outlinks":[{"id":2101,"lemma":"Negation, Negativität","n":1},{"id":2997,"lemma":"Spur","n":1}],
  "register":[
-  {"term":"- 1038 s. auch","qualifier":"","band":null,"col":null},
   {"term":"dissimilitudo","qualifier":"","band":"10","col":"1103"},
   {"term":"Gott, unbekannter","qualifier":"","band":"10","col":"1102f."},
   {"term":"negative Theologie","qualifier":"","band":null,"col":null},

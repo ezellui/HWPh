@@ -20,9 +20,9 @@ HWPH.put("a/3674",
  "register":[
   {"term":"design","qualifier":"","band":null,"col":null},
   {"term":"disegno","qualifier":"","band":null,"col":null},
+  {"term":"Kunst, lineare","qualifier":"","band":"12","col":"1181"},
   {"term":"Linearität","qualifier":"","band":"12","col":"1181"},
-  {"term":"Stil, linearer","qualifier":"","band":"12","col":"1181"},
-  {"term":"– II (ästh.) 2 949–951 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Stil, linearer","qualifier":"","band":"12","col":"1181"}
  ],
  "persons":[
   {"id":1057,"name":"H. Wölfflin","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -90,6 +90,6 @@ HWPH.put("a/3674",
  ],
  "see_also":[{"id":895,"lemma":"Farbe"}],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Zeichnung"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

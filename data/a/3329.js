@@ -23,8 +23,7 @@ HWPH.put("a/3329",
   {"term":"gemeiner Mann","qualifier":"","band":"11","col":"327"},
   {"term":"subditus","qualifier":"","band":null,"col":null},
   {"term":"Subjekt (pol.)","qualifier":"","band":null,"col":null},
-  {"term":"sujet (pol.)","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 2 132–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"sujet (pol.)","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8072,"name":"P. Blickle","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},
@@ -73,7 +72,7 @@ HWPH.put("a/3329",
   {"id":2598,"lemma":"Recht","tf":2},
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2}
  ],
- "see_also":[{"id":459,"lemma":"Bürger, bourgeois, citoyen"}],
+ "see_also":[{"id":459,"lemma":"Bürger, bourgeois, citoyen"},{"id":571,"lemma":"Despotie, Despotismus"}],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Untertan"}],
  "reg_authors":[{"name":"Blickle Peter","n":1}]
 }

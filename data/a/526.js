@@ -20,14 +20,18 @@ HWPH.put("a/526",
  "register":[
   {"term":"Abstammungslehre","qualifier":"","band":null,"col":null},
   {"term":"Deszendenztheorie","qualifier":"","band":null,"col":null},
-  {"term":"Leitbild","qualifier":"","band":"2","col":"14"}
+  {"term":"Leitbild","qualifier":"(Klages)","band":"2","col":"14"}
  ],
  "persons":[
   {"id":260,"name":"Ch. Darwin","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4198,"name":"A. R. Wallace","b":1,"n":1,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[{"id":666,"lemma":"Eigenschaft","tf":2}],
- "see_also":[{"id":853,"lemma":"Evolutionstheorie"},{"id":1725,"lemma":"Lamarckismus"}],
+ "see_also":[
+  {"id":853,"lemma":"Evolutionstheorie"},
+  {"id":1725,"lemma":"Lamarckismus"},
+  {"id":2253,"lemma":"Orthogenese, Orthogenesis"}
+ ],
  "groups":[
   {"id":5,"name":"Biologie","label":"Darwinismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Darwinismus"}

@@ -40,8 +40,7 @@ HWPH.put("a/748",
   {"term":"furor divinus","qualifier":"","band":"2","col":"526"},
   {"term":"Gottbesessenheit","qualifier":"","band":"2","col":"527"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Verzückung","qualifier":"","band":null,"col":null},
-  {"term":"– II (ästh.) 4 403–407 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verzückung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":3,"n":3,"l":0,"editor":0,"role":"source"},

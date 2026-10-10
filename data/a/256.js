@@ -29,8 +29,7 @@ HWPH.put("a/256",
   {"term":"gegliedert","qualifier":"I","band":"1","col":"535"},
   {"term":"Gliederung","qualifier":"","band":null,"col":null},
   {"term":"Laut","qualifier":"II (Humboldt)","band":null,"col":null},
-  {"term":"Zusammenhang (Dilthey)","qualifier":"I","band":"1","col":"535"},
-  {"term":"– IV (psych.) 10 325–328 s. auch","qualifier":"I","band":null,"col":null}
+  {"term":"Zusammenhang (Dilthey)","qualifier":"I","band":"1","col":"535"}
  ],
  "persons":[
   {"id":269,"name":"W. v. Humboldt","b":2,"n":2,"l":0,"editor":0,"role":"source"},

@@ -67,13 +67,15 @@ HWPH.put("r/6b-69",
  ],
  ["Kitsch","Kitsch","","4","843–846","main",1570,"Kitsch","kitsch"],
  [
-  "Kitsch","Distanz, ästhetische klagbar","",null,null,"see",616,
-  "Distanz/Distanzlosigkeit, ästhetische","kitsch"
+  "Kitsch","Distanz, ästhetische","",null,null,"see",616,"Distanz/Distanzlosigkeit, ästhetische",
+  "kitsch"
  ],
- ["Kind","Kind","",null,null,"main",1564,"Kind","kind"],
  ["Kible Brigitte","Person","II","7","283–300","author",2318,"Person","kible brigitte"],
  ["Kible Brigitte","Ratio","","8","37–40","author",2570,"Ratio","kible brigitte"],
- ["Kible Brigitte","Ratio","",null,null,"author",2570,"Ratio","kible brigitte"],
+ [
+  "Kible Brigitte","Ratio cognoscendi/essendi/fiendi","","8","40f.","author",2570,"Ratio",
+  "kible brigitte"
+ ],
  [
   "Kible Brigitte","Realität, formale/objektive","I","8","193–199","author",2591,
   "Realität, formale/objektive","kible brigitte"
@@ -93,7 +95,7 @@ HWPH.put("r/6b-69",
   "Kimminich Otto","Konvention","III (jur.)","4","1076–1078","author",1651,"Konvention",
   "kimminich otto"
  ],
- ["Kimminich Otto","Krieg","",null,null,"author",1690,"Krieg","kimminich otto"],
+ ["Kimminich Otto","Krieg I.","III","4","1230–1235","author",1690,"Krieg","kimminich otto"],
  ["Kipfer Daniel","Philanthropie","3","7","548–552","author",2351,"Philanthropie","kipfer daniel"],
  [
   "Kirchgässner Gebhard","Korrelation, statistische","","4","1141f.","author",1671,
@@ -121,7 +123,7 @@ HWPH.put("r/6b-69",
   "kirchhoff robert"
  ],
  [
-  "Kirchhoff Robert","Darstellungsprinzip (Klages)","","2","14","author",526,"Darwinismus",
+  "Kirchhoff Robert","Darstellungsprinzip","(Klages)","2","14","author",526,"Darwinismus",
   "kirchhoff robert"
  ],
  [

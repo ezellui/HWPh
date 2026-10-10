@@ -27,6 +27,7 @@ HWPH.put("a/1588",
   {"term":"Kollektivideen","qualifier":"","band":null,"col":null},
   {"term":"Leitbegriff","qualifier":"","band":null,"col":null},
   {"term":"notion directrice","qualifier":"","band":null,"col":null},
+  {"term":"prälogisch","qualifier":"","band":"4","col":"887"},
   {"term":"préconception","qualifier":"","band":"4","col":"887"}
  ],
  "persons":[

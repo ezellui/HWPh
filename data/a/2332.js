@@ -32,8 +32,10 @@ HWPH.put("a/2332",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"II-III","qualifier":"","band":"7","col":"399"},
+  {"term":"Art (biol.)","qualifier":"","band":"7","col":"399"},
+  {"term":"Botanik","qualifier":"","band":null,"col":null},
   {"term":"Klassifikation (biol.)","qualifier":"","band":"7","col":"398f."},
+  {"term":"Kräuterbuch","qualifier":"","band":"7","col":"398"},
   {"term":"Vererbung","qualifier":"","band":"7","col":"401"},
   {"term":"φάρμακα","qualifier":"","band":"7","col":"396"}
  ],

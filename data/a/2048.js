@@ -89,6 +89,6 @@ HWPH.put("a/2048",
  ],
  "see_also":[{"id":2737,"lemma":"Sakrament"}],
  "groups":[{"id":44,"name":"Theologie","label":"Mysterium"}],
- "reg_authors":[{"name":"Red","n":242},{"name":"Stupperich Robert","n":3}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Stupperich Robert","n":3}]
 }
 );

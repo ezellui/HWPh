@@ -20,8 +20,7 @@ HWPH.put("a/938",
  "register":[
   {"term":"Form/Inhalt","qualifier":"","band":null,"col":null},
   {"term":"Gehalt/Form","qualifier":"","band":null,"col":null},
-  {"term":"Inhalt","qualifier":"","band":null,"col":null},
-  {"term":"– II (ästh.) 2 968–971 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Inhalt","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8557,"name":"W. Baumeister","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

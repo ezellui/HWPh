@@ -18,7 +18,6 @@ HWPH.put("a/466",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"cognoscendi/essendi/fiendi 8 40f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"Erkenntnisprinzip","qualifier":"","band":null,"col":null},
   {"term":"principium cognoscendi","qualifier":"","band":null,"col":null},
   {"term":"principium complexum","qualifier":"","band":"1","col":"973"},

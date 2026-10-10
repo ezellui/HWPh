@@ -26,7 +26,8 @@ HWPH.put("a/344",
  "register":[
   {"term":"Erbarmen","qualifier":"","band":null,"col":null},
   {"term":"h.æsæd_","qualifier":"II","band":null,"col":null},
-  {"term":"misericordia","qualifier":"II","band":null,"col":null}
+  {"term":"misericordia","qualifier":"II","band":null,"col":null},
+  {"term":"ἔλεος","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

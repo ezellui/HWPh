@@ -38,6 +38,6 @@ HWPH.put("a/2224",
   {"id":26,"name":"Metaphysik","label":"Ontosophie"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Ontosophie"}
  ],
- "reg_authors":[{"name":"Gethmann Carl Friedrich","n":8},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Gethmann Carl Friedrich","n":8},{"name":"Red","n":241}]
 }
 );

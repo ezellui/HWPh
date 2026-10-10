@@ -29,6 +29,7 @@ HWPH.put("a/1836",
  "outlinks":[{"id":1487,"lemma":"Intuition","n":1}],
  "register":[
   {"term":"Auge","qualifier":"II","band":"5","col":"551"},
+  {"term":"gentium","qualifier":"","band":null,"col":null},
   {"term":"intellectus agens","qualifier":"I","band":null,"col":null},
   {"term":"Licht der Vernunft","qualifier":"","band":null,"col":null},
   {"term":"Licht, natürliches","qualifier":"","band":null,"col":null},
@@ -109,6 +110,6 @@ HWPH.put("a/1836",
  ],
  "see_also":[{"id":1496,"lemma":"Irradiatio"},{"id":1792,"lemma":"Licht"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Lumen naturale"}],
- "reg_authors":[{"name":"Beierwaltes Werner","n":14},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Beierwaltes Werner","n":14},{"name":"Red","n":241}]
 }
 );

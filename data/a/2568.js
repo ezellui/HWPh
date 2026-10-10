@@ -26,8 +26,7 @@ HWPH.put("a/2568",
  "outlinks":[{"id":254,"lemma":"Art","n":1},{"id":2053,"lemma":"Mythos, Mythologie","n":1}],
  "register":[
   {"term":"Menschengeschlecht","qualifier":"I","band":"8","col":"25"},
-  {"term":"Rassismus","qualifier":"I","band":"8","col":"26"},
-  {"term":"– II (soz.) 11 628–632 s. auch","qualifier":"I","band":null,"col":null}
+  {"term":"Rassismus","qualifier":"I","band":"8","col":"26"}
  ],
  "persons":[
   {"id":2712,"name":"A. Sommer","b":0,"n":14,"l":1,"editor":0,"role":"scholar"},

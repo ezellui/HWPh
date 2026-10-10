@@ -20,7 +20,7 @@ HWPH.put("a/2930",
   {"id":3243,"lemma":"Typentheorie; Typenlogik","n":2}
  ],
  "outlinks":[{"id":2426,"lemma":"Prädikatenlogik, Prädikatenkalkül","n":1}],
- "register":[],
+ "register":[{"term":"many-sorted logic","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":339,"name":"Th. S. Kuhn","b":0,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":5912,"name":"Hao Wang","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},

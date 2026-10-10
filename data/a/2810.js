@@ -18,7 +18,6 @@ HWPH.put("a/2810",
  "backlinks":[{"id":3197,"lemma":"Tod","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Sein-zum-Tode","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Vorlaufen in den Tod","qualifier":"(Heidegger)","band":null,"col":null}
  ],

@@ -23,8 +23,7 @@ HWPH.put("a/1331",
   {"term":"Vernunftbegriff","qualifier":"","band":null,"col":null},
   {"term":"Versinnlichung","qualifier":"","band":"3","col":"1266"},
   {"term":"Verstandesbegriffe","qualifier":"","band":null,"col":null},
-  {"term":"ὑποτύπωσις","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 8 1246–1261 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ὑποτύπωσις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -22,6 +22,6 @@ HWPH.put("a/1421",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Individuenkonstanten"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

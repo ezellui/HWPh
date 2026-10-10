@@ -23,11 +23,10 @@ HWPH.put("a/272",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Apathie","qualifier":"","band":null,"col":null},
+  {"term":"Pathetische Leidenschaftslosigkeit","qualifier":"","band":null,"col":null},
   {"term":"Unerschütterlichkeit","qualifier":"","band":null,"col":null},
   {"term":"ἀπονία","qualifier":"","band":"1","col":"593"},
-  {"term":"ἀταραξία","qualifier":"","band":null,"col":null},
-  {"term":"– I (eth.) 1 429–433 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἀταραξία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":44,"name":"Seneca","b":1,"n":3,"l":0,"editor":0,"role":"source"},

@@ -27,15 +27,10 @@ HWPH.put("a/2521",
  "register":[
   {"term":"Abstraktion","qualifier":"(Kant)","band":"7","col":"1671"},
   {"term":"Bewusste, das rein","qualifier":"(Kant)","band":"7","col":"1674"},
-  {"term":"dialektische dialektische Psychologie","qualifier":"(Kant)","band":"7","col":"1671"},
+  {"term":"dialektische Psychologie","qualifier":"(Kant)","band":"7","col":"1671"},
   {"term":"Grundwissenschaft, subjektive/objektive","qualifier":"(Kant)","band":"7","col":"1673"},
   {"term":"Koinzidenzgesetz","qualifier":"(Kant)","band":"7","col":"1673f."},
-  {
-   "term":"kritischer (Popper) 8 49 Krönung der Philosophie",
-   "qualifier":"(Kant)",
-   "band":"7",
-   "col":"1673"
-  },
+  {"term":"Krönung der Philosophie","qualifier":"(Kant)","band":"7","col":"1673"},
   {"term":"Physiologie der reinen Vernunft","qualifier":"(Kant)","band":"7","col":"1671"},
   {"term":"Pneumatologie","qualifier":"(Kant)","band":"7","col":"1671"},
   {"term":"psychologia rationalis","qualifier":"(Kant)","band":"7","col":"1670"},

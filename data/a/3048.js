@@ -18,9 +18,8 @@ HWPH.put("a/3048",
  "backlinks":[{"id":3047,"lemma":"Subjekt","n":1},{"id":3625,"lemma":"Wir","n":2}],
  "outlinks":[{"id":3219,"lemma":"Transzendental","n":1}],
  "register":[
-  {"term":"der 1 296 Selbst, eigentliches","qualifier":"","band":"10","col":"400"},
   {"term":"Ich denke","qualifier":"","band":null,"col":null},
-  {"term":"IV-V","qualifier":"","band":null,"col":null},
+  {"term":"Selbst, eigentliches","qualifier":"","band":"10","col":"400"},
   {"term":"Träger der Welt","qualifier":"","band":"10","col":"400"},
   {"term":"transzendentales Subjekt","qualifier":"","band":null,"col":null}
  ],

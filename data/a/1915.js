@@ -32,11 +32,11 @@ HWPH.put("a/1915",
  ],
  "outlinks":[],
  "register":[
-  {"term":"819","qualifier":"II","band":"5","col":"1041"},
-  {"term":"inneres 12 1045 endogen","qualifier":"II","band":"5","col":"1043"},
+  {"term":"endogen","qualifier":"II","band":"5","col":"1043"},
+  {"term":"Erhabene, das","qualifier":"II","band":"5","col":"1041"},
+  {"term":"Hypochondrie","qualifier":"II","band":"5","col":"1040"},
   {"term":"Wehmut","qualifier":"II","band":"5","col":"1042"},
-  {"term":"μελαγχολία","qualifier":"","band":null,"col":null},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"μελαγχολία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":126,"name":"W. Benjamin","b":3,"n":3,"l":0,"editor":0,"role":"source"},

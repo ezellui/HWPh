@@ -31,15 +31,11 @@ HWPH.put("a/1450",
   {"term":"implicita pluria","qualifier":"","band":null,"col":null},
   {"term":"inexplicabilia","qualifier":"","band":"4","col":"399"},
   {"term":"Lügner","qualifier":"","band":"4","col":"397"},
-  {"term":"performativer 12 699f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"reflexiva (log.)","qualifier":"","band":"4","col":"399"},
   {"term":"restrictio","qualifier":"","band":"4","col":"398"},
   {"term":"secundum quid","qualifier":"","band":"4","col":"398"},
   {"term":"Selbstwiderspruch","qualifier":"","band":null,"col":null},
-  {"term":"transcasus","qualifier":"","band":"4","col":"398"},
-  {"term":"– I (log.) 9 515f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (log.) 1 396–405 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (log.) 7 96f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"transcasus","qualifier":"","band":"4","col":"398"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":3,"l":0,"editor":0,"role":"source"},
@@ -126,7 +122,8 @@ HWPH.put("a/1450",
   {"id":185,"lemma":"Antinomie"},
   {"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"},
   {"id":2845,"lemma":"Selbstreferenz"},
-  {"id":2925,"lemma":"Sophisma; Sophismata"}
+  {"id":2925,"lemma":"Sophisma; Sophismata"},
+  {"id":3237,"lemma":"Trugschluß"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Insolubilia"}],
  "reg_authors":[{"name":"Hickman Larry","n":3}]

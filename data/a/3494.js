@@ -55,7 +55,7 @@ HWPH.put("a/3494",
   {"term":"praesensio","qualifier":"","band":"11","col":"1191"},
   {"term":"praevisio","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 2 150–155 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"universalis","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":2,"n":2,"l":0,"editor":0,"role":"source"},

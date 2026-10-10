@@ -22,8 +22,7 @@ HWPH.put("a/2846",
   {"id":2833,"lemma":"Selbsterkenntnis","n":1}
  ],
  "register":[
-  {"term":"IV-V","qualifier":"","band":null,"col":null},
-  {"term":"Negativität II 6 685","qualifier":"","band":"9","col":"519"},
+  {"term":"Dialektik, negative","qualifier":"","band":"9","col":"519"},
   {"term":"Reflexion, erste/zweite","qualifier":"","band":"9","col":"518"},
   {"term":"Selbstanschauung","qualifier":"","band":"9","col":"518"}
  ],

@@ -23,8 +23,7 @@ HWPH.put("a/2867",
  "outlinks":[],
  "register":[
   {"term":"Empirismus","qualifier":"","band":null,"col":null},
-  {"term":"kritischer (Popper) 8 49 Intellektualphilosophen","qualifier":"","band":"9","col":"616"},
-  {"term":"Raumwahrnehmung","qualifier":"","band":null,"col":null},
+  {"term":"Intellektualphilosophen","qualifier":"","band":"9","col":"616"},
   {"term":"sensation","qualifier":"","band":"9","col":"615"},
   {"term":"sensationalism","qualifier":"","band":null,"col":null}
  ],
@@ -111,6 +110,6 @@ HWPH.put("a/2867",
   {"id":9,"name":"Erkenntnistheorie","label":"Sensualismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Sensualismus"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Vollmer Matthias","n":4}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Vollmer Matthias","n":4}]
 }
 );

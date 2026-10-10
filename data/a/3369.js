@@ -44,6 +44,6 @@ HWPH.put("a/3369",
  ],
  "see_also":[{"id":1639,"lemma":"Kontinuitätsgesetz"},{"id":2875,"lemma":"Series"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Vacuum formarum (Leibniz)"}],
- "reg_authors":[{"name":"Buldt Bernd","n":13},{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Buldt Bernd","n":13},{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

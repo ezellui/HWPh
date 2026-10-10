@@ -17,10 +17,7 @@ HWPH.put("a/2743",
  "next":{"id":2744,"lemma":"Sättigung","band":"8","col":1174},
  "backlinks":[{"id":3682,"lemma":"Zen","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"zazen","qualifier":"","band":"8","col":"1174"},
-  {"term":"– III (chin.) 5 967f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"zazen","qualifier":"","band":"8","col":"1174"}],
  "persons":[
   {"id":3109,"name":"D. T. Suzuki","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":34908,"name":"Suzuki Daisetz","b":1,"n":0,"l":0,"editor":0,"role":"source"},

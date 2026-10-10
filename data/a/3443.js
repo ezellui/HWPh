@@ -28,13 +28,13 @@ HWPH.put("a/3443",
   {"term":"charge de preuve","qualifier":"","band":null,"col":null},
   {"term":"Gottesbeweis","qualifier":"","band":"11","col":"956f."},
   {"term":"irrefutable","qualifier":"","band":"11","col":"957"},
-  {"term":"Natur","qualifier":"","band":"11","col":"956"},
   {"term":"Nichtexistenz Gottes","qualifier":"","band":"11","col":"957"},
   {"term":"onus probandi","qualifier":"","band":null,"col":null},
   {"term":"proof, burden of","qualifier":"","band":null,"col":null},
   {"term":"truth-candidacy","qualifier":"","band":"11","col":"957"},
   {"term":"unwiderlegbar","qualifier":"","band":"11","col":"957"},
-  {"term":"Wahrheitsanwartschaft","qualifier":"","band":"11","col":"957"}
+  {"term":"Wahrheitsanwartschaft","qualifier":"","band":"11","col":"957"},
+  {"term":"Wunder","qualifier":"","band":"11","col":"956"}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":3,"l":0,"editor":0,"role":"source"},

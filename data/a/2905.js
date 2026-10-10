@@ -35,6 +35,6 @@ HWPH.put("a/2905",
   {"id":21,"name":"Literaturtheorie","label":"Sitz im Leben"},
   {"id":45,"name":"Topoi und Metaphern","label":"Sitz im Leben"}
  ],
- "reg_authors":[{"name":"Bartsch Hans-Werner","n":6},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Bartsch Hans-Werner","n":6},{"name":"Red","n":241}]
 }
 );

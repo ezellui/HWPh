@@ -20,7 +20,8 @@ HWPH.put("a/2534",
  "register":[
   {"term":"Kreis","qualifier":"","band":"7","col":"1711"},
   {"term":"Kreis; Kugel","qualifier":"","band":"7","col":"1711"},
-  {"term":"Sub specie aeternitatis","qualifier":"","band":"7","col":"1713"},
+  {"term":"Punktualität","qualifier":"","band":null,"col":null},
+  {"term":"Standpunkt","qualifier":"","band":"7","col":"1713"},
   {"term":"Zenonische Paradoxien","qualifier":"","band":null,"col":null}
  ],
  "persons":[

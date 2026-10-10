@@ -23,8 +23,9 @@ HWPH.put("a/1639",
  ],
  "outlinks":[],
  "register":[
-  {"term":"875","qualifier":"","band":"4","col":"1043"},
-  {"term":"lex continuitatis","qualifier":"","band":null,"col":null}
+  {"term":"Bewegung/Ruhe","qualifier":"","band":"4","col":"1043"},
+  {"term":"lex continuitatis","qualifier":"","band":null,"col":null},
+  {"term":"Ruhe/Bewegung","qualifier":"","band":"4","col":"1043"}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":1,"n":4,"l":1,"editor":0,"role":"source"},

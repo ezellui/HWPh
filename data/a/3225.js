@@ -71,19 +71,7 @@ HWPH.put("a/3225",
   {"term":"ὄναρ","qualifier":"","band":null,"col":null},
   {"term":"ὄνειρον","qualifier":"","band":null,"col":null},
   {"term":"σκιᾶν ὄναρ ἄνθρωπος","qualifier":"III","band":"10","col":"1471f."},
-  {"term":"ὑπόλειμμα","qualifier":"I","band":"10","col":"1461"},
-  {
-   "term":"– I (allg.) 12 1077–1085 – II (psych.) 12 1085–1088 s. auch",
-   "qualifier":"II",
-   "band":null,
-   "col":null
-  },
-  {
-   "term":"– I (pol.) 12 1286–1289 – II (psych.) 12 1289–1291 s. auch",
-   "qualifier":"II",
-   "band":null,
-   "col":null
-  }
+  {"term":"ὑπόλειμμα","qualifier":"I","band":"10","col":"1461"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":4,"n":8,"l":0,"editor":0,"role":"source"},

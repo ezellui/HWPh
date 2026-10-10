@@ -44,6 +44,6 @@ HWPH.put("a/2064",
  ],
  "see_also":[{"id":2871,"lemma":"Sentimental"}],
  "groups":[{"id":21,"name":"Literaturtheorie","label":"Naiv/sentimentalisch"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

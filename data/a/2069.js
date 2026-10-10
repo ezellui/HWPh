@@ -25,11 +25,13 @@ HWPH.put("a/2069",
  "outlinks":[],
  "register":[
   {"term":"Autoerotismus","qualifier":"I","band":"6","col":"402"},
-  {"term":"Gruppe","qualifier":"","band":null,"col":null},
+  {"term":"Entfremdung","qualifier":"III","band":null,"col":null},
+  {"term":"Gruppe","qualifier":"III","band":null,"col":null},
   {"term":"Identifikation","qualifier":"II","band":"6","col":"404"},
+  {"term":"Kränkung, narzisstische","qualifier":"II","band":null,"col":null},
   {"term":"Manierismus","qualifier":"III","band":"6","col":"405"},
   {"term":"Selbstrepräsentanz","qualifier":"I","band":"6","col":"402"},
-  {"term":"Selbstwertgefühl","qualifier":"","band":null,"col":null},
+  {"term":"Selbstwertgefühl","qualifier":"II","band":null,"col":null},
   {"term":"Sozialisation","qualifier":"II","band":"6","col":"404"}
  ],
  "persons":[

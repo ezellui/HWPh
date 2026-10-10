@@ -18,7 +18,8 @@ HWPH.put("a/288",
  "backlinks":[{"id":3488,"lemma":"Voraussetzungslosigkeit","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Ich-Identität 4 150 Identität, teilweise","qualifier":"(Hegel)","band":"1","col":"620"},
+  {"term":"Dialektik","qualifier":"(Hegel)","band":null,"col":null},
+  {"term":"Identität, teilweise","qualifier":"(Hegel)","band":"1","col":"620"},
   {"term":"Moment","qualifier":"(Hegel)","band":"1","col":"619"},
   {"term":"pleroma","qualifier":"(Hegel)","band":"1","col":"619"}
  ],

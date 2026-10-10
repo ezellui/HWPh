@@ -29,8 +29,8 @@ HWPH.put("a/2524",
   {"term":"Körperbewegung","qualifier":"","band":null,"col":null},
   {"term":"Lernbehinderung","qualifier":"II","band":"7","col":"1682"},
   {"term":"motorisch","qualifier":"II","band":"7","col":"1682"},
-  {"term":"Psychologie","qualifier":"I","band":"7","col":"1681"},
-  {"term":"Reaktivbewegung","qualifier":"I","band":"7","col":"1681"}
+  {"term":"Reaktivbewegung","qualifier":"I","band":"7","col":"1681"},
+  {"term":"Reflexbogen","qualifier":"I","band":"7","col":"1681"}
  ],
  "persons":[
   {"id":1569,"name":"C. Wernicke","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -63,6 +63,6 @@ HWPH.put("a/2524",
  ],
  "see_also":[{"id":299,"lemma":"Ausdrucksbewegung"},{"id":3021,"lemma":"Stereotypie"}],
  "groups":[{"id":34,"name":"Psychiatrie","label":"Psychomotorik"}],
- "reg_authors":[{"name":"Red","n":242},{"name":"Witte Wilhelm","n":15}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Witte Wilhelm","n":15}]
 }
 );

@@ -31,7 +31,7 @@ HWPH.put("a/2106",
   {"term":"Hang","qualifier":"","band":null,"col":null},
   {"term":"inclinatio","qualifier":"","band":null,"col":null},
   {"term":"moral sense","qualifier":"","band":"6","col":"708"},
-  {"term":"Naturtrieb","qualifier":"","band":"6","col":"710"},
+  {"term":"naturalis","qualifier":"","band":"6","col":"710"},
   {"term":"Pflicht","qualifier":"","band":"6","col":"709ff."},
   {"term":"proclivitas","qualifier":"","band":null,"col":null},
   {"term":"pronitas","qualifier":"","band":null,"col":null},
@@ -40,8 +40,7 @@ HWPH.put("a/2106",
   {"term":"Selbstachtung","qualifier":"","band":"6","col":"710"},
   {"term":"Vernunftgebot","qualifier":"","band":"6","col":"710"},
   {"term":"Vernunftinteresse","qualifier":"","band":"6","col":"710"},
-  {"term":"Vernunftmotiv","qualifier":"","band":"6","col":"711"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vernunftmotiv","qualifier":"","band":"6","col":"711"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":3,"n":2,"l":0,"editor":0,"role":"source"},

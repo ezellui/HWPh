@@ -28,7 +28,8 @@ HWPH.put("a/1964",
   {"term":"Irenik","qualifier":"","band":"5","col":"1367"},
   {"term":"methodus polemica","qualifier":"","band":null,"col":null},
   {"term":"methodus sceptica","qualifier":"","band":"5","col":"1367"},
-  {"term":"polemische Theologie","qualifier":"","band":null,"col":null}
+  {"term":"polemische Theologie","qualifier":"","band":null,"col":null},
+  {"term":"Theologie, polemische","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":302,"name":"M. Grabmann","b":0,"n":5,"l":1,"editor":0,"role":"scholar"},

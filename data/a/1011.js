@@ -35,6 +35,6 @@ HWPH.put("a/1011",
  ],
  "see_also":[{"id":1014,"lemma":"Gefühlsreligion"},{"id":1015,"lemma":"Gefühlstheologie"}],
  "groups":[{"id":44,"name":"Theologie","label":"Gefühl schlechthinniger Abhängigkeit"}],
- "reg_authors":[{"name":"Birkner Hans-Joachim","n":6},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Birkner Hans-Joachim","n":6},{"name":"Red","n":241}]
 }
 );

@@ -27,6 +27,6 @@ HWPH.put("a/1344",
  "mentions":[{"id":2590,"lemma":"Realität/Idealität","tf":2}],
  "see_also":[{"id":1368,"lemma":"Identitätsphilosophie"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Idealismus, absoluter (Schelling)"}],
- "reg_authors":[{"name":"Zeltner Hermann","n":6}]
+ "reg_authors":[{"name":"Zeltner Hermann","n":7}]
 }
 );

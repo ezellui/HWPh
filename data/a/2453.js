@@ -59,6 +59,6 @@ HWPH.put("a/2453",
  ],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Primität"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

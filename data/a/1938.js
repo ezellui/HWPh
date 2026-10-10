@@ -28,6 +28,7 @@ HWPH.put("a/1938",
  "outlinks":[],
  "register":[
   {"term":"Ethik, analytische","qualifier":"","band":null,"col":null},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"Intuitionismus, ethischer","qualifier":"","band":"5","col":"1169f."}
  ],
  "persons":[

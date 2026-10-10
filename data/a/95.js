@@ -23,10 +23,7 @@ HWPH.put("a/95",
   {"id":2233,"lemma":"Ordnung","n":1},
   {"id":2967,"lemma":"Speciosa","n":1}
  ],
- "register":[
-  {"term":"Gebilde (math.)","qualifier":"","band":"1","col":"151"},
-  {"term":"– I (math.) 8 214–219 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Gebilde (math.)","qualifier":"","band":"1","col":"151"}],
  "persons":[
   {"id":78,"name":"P. Lorenzen","b":0,"n":2,"l":1,"editor":0,"role":"mixed"},
   {"id":10233,"name":"E. Steinitz","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},

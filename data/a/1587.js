@@ -18,7 +18,7 @@ HWPH.put("a/1587",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"geisteswissenschaftliche 7 1656 Kollektivpsyche","qualifier":"","band":null,"col":null},
+  {"term":"Kollektivpsyche","qualifier":"","band":null,"col":null},
   {"term":"Unbewusstes, kollektives","qualifier":"","band":"4","col":"886"}
  ],
  "persons":[

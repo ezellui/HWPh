@@ -5,8 +5,8 @@ HWPH.put("t/817",
  "l":"I. S. STEARNS: Firstness, secondness, thirdness. Stud. in the philos. of Ch. S. Peirce I (Cambridge, Mass. 1952) 195–208. – P. KRAUSSER: Die drei fundamentalen Strukturkategorien bei Ch. S. Peirce. Philos. nat. 6 (1960) 3–31. – M. G. MURPHEY: The development of Peirce's philos. (Cambridge, Mass. 1961) passim. – J. J. FITZGERALD: Peirce's theory of signs as foundation for pragmatism (Den Haag/Paris 1966) bes. 28–34.",
  "au":"R. Heede",
  "A":["R. Heede"],
- "cb":[[0,730],[442,730],[866,730]],
- "cn":[[0,730],[41,730]],
+ "cb":[[0,729],[38,730],[442,730],[866,730]],
+ "cn":[[0,729],[41,729]],
  "cl":[[0,730]]
 }
 );

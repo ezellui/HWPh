@@ -18,7 +18,7 @@ HWPH.put("a/2708",
  "backlinks":[{"id":3236,"lemma":"Trotzkismus","n":1},{"id":3576,"lemma":"Weltrevolution","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"historischer 3 5 863","qualifier":"","band":"8","col":"990"},
+  {"term":"Menschewismus","qualifier":"","band":"8","col":"990"},
   {"term":"permanente Revolution","qualifier":"","band":null,"col":null}
  ],
  "persons":[

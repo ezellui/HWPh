@@ -27,7 +27,7 @@ HWPH.put("a/560",
  ],
  "register":[
   {"term":"Definition, denotative","qualifier":"","band":"2","col":"113"},
-  {"term":"Nominalismus","qualifier":"","band":"2","col":"113"},
+  {"term":"Eigenname","qualifier":"","band":"2","col":"113"},
   {"term":"singular/general name","qualifier":"","band":"2","col":"113"}
  ],
  "persons":[

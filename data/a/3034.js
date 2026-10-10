@@ -32,9 +32,9 @@ HWPH.put("a/3034",
   {"id":2069,"lemma":"Narzißmus, narzißtisch","n":1}
  ],
  "register":[
-  {"term":"1155","qualifier":"","band":"10","col":"205f."},
   {"term":"Bespiegelung","qualifier":"","band":"10","col":"206"},
   {"term":"déserteur du monde","qualifier":"","band":"10","col":"206"},
+  {"term":"Eitelkeit","qualifier":"","band":"10","col":"205f."},
   {"term":"fierté","qualifier":"","band":"10","col":"202"},
   {"term":"générosité","qualifier":"","band":"10","col":"202"},
   {"term":"glory","qualifier":"","band":"10","col":"203"},

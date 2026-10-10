@@ -71,7 +71,12 @@ HWPH.put("a/1451",
   {"id":395,"lemma":"Beschreibung","tf":3},
   {"id":2794,"lemma":"Seele","tf":4}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":690,"lemma":"Einsprechung"},
+  {"id":807,"lemma":"Erleuchtung"},
+  {"id":748,"lemma":"Enthusiasmus"},
+  {"id":1859,"lemma":"Mania"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Inspiration II (ästh.)"},
   {"id":44,"name":"Theologie","label":"Inspiration I (theol.)"}

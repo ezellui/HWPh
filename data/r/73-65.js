@@ -1,72 +1,18 @@
 HWPH.put("r/73-65",
 [
- ["Seelenspitze","Seelenspitze","",null,null,"main",2799,"Seelenspitze","seelenspitze"],
- ["Seelenspitze","Geist","V","3","174","ref",1030,"Geist","seelenspitze"],
- ["Semiotik","Semiotik","II","9","604","main",2865,"Semiotik, Semiologie","semiotik"],
- ["Selbstbewegung","Selbstbewegung","",null,null,"main",2827,"Selbstbewegung","selbstbewegung"],
- [
-  "Seligkeit, ewige","Seligkeit, ewige","",null,null,"main",2859,"Seligkeit, ewige",
-  "seligkeit, ewige"
- ],
- [
-  "Selbstbestimmung","Selbstbestimmung","","9","335f.","main",2826,"Selbstbestimmung",
-  "selbstbestimmung"
- ],
- ["Selbstbestimmung","Setzen","I","9","697f.","ref",2876,"Setzen, Setzung","selbstbestimmung"],
- ["Seele","Seele","IV","9","32","main",2794,"Seele","seele"],
- ["Seelengrund","Seelengrund","","9","93","main",2796,"Seelengrund","seelengrund"],
  ["Series","Series","",null,null,"main",2875,"Series","series"],
- [
-  "Selbstbewusstsein conscience imageante","Selbstbewusstsein conscience imageante","",null,null,
-  "main",null,null,"selbstbewusstsein conscience imageante"
- ],
- ["Sehen","Sehen","II","9","137","main",2802,"Sehen","sehen"],
- ["Series","Series","I","9","690","main",2875,"Series","series"],
- [
-  "Sein, moralisches","Sein, moralisches","","9","241","main",2808,"Sein, moralisches",
-  "sein, moralisches"
- ],
- ["Selbstgefühl","Selbstgefühl","","9","448","main",2836,"Selbstgefühl","selbstgefuhl"],
  ["Seele","Seele","III","9","25","main",2794,"Seele","seele"],
  ["Seele","Seele","IV","9","33","main",2794,"Seele","seele"],
- ["Setzen","Setzen","II","9","717","main",2876,"Setzen, Setzung","setzen"],
- [
-  "Selbsterkenntnis","Selbsterkenntnis","I",null,null,"main",2833,"Selbsterkenntnis",
-  "selbsterkenntnis"
- ],
- ["Selbstheit","Selbstheit","","9","462","main",2839,"Selbstheit","selbstheit"],
- ["Series","Series","",null,null,"main",2875,"Series","series"],
- ["Series","Verkettung","",null,null,"ref",3413,"Verkettung","series"],
- ["Series","Ursache/Wirkung","III","11","391","ref",3350,"Ursache/Wirkung","series"],
  ["Selbstliebe","Selbstliebe","I","9","471","main",2840,"Selbstliebe","selbstliebe"],
- ["Sequenzenkalkül","Sequenzenkalkül","","9","686","main",2874,"Sequenzenkalkül","sequenzenkalkul"],
- ["Sein; Seiendes","Sein; Seiendes","II","9","182","main",2806,"Sein; Seiendes","sein; seiendes"],
+ ["Seele","Seele","V","9","80","main",2794,"Seele","seele"],
+ ["Seele","Ursache/Wirkung","III","11","395","ref",3350,"Ursache/Wirkung","seele"],
+ ["Sein","Sein","(Hartmann)","3","216","main",1038,"Geistiges Sein","sein"],
  [
-  "Sensus communis","Sensus communis","IV 1","9","663","main",2869,"Sensus communis",
-  "sensus communis"
+  "Sein","Objektivation des Geistes/des Lebens","(Dilthey)","6","1056","ref",2188,
+  "Objektivation des Geistes /des Lebens","sein"
  ],
- [
-  "Selbstdarstellung","Selbstdarstellung","","9","384","main",2830,"Selbstdarstellung",
-  "selbstdarstellung"
- ],
- ["Selbstgefühl","Selbstgefühl","","9","450","main",2836,"Selbstgefühl","selbstgefuhl"],
- ["Sein (Hartmann)","Sein (Hartmann)","","3","216","main",1038,"Geistiges Sein","sein (hartmann)"],
- ["Sein (Hartmann)","Objektivation","",null,null,"ref",2187,"Objektivation","sein (hartmann)"],
- ["Sein; Seiendes","Sein; Seiendes","",null,null,"main",2806,"Sein; Seiendes","sein; seiendes"],
- ["Sekte","Sekte","I",null,null,"main",2818,"Sekte","sekte"],
- ["Setzen","Setzen","",null,null,"main",2876,"Setzen, Setzung","setzen"],
- ["Setzen","These","",null,null,"ref",3186,"These","setzen"],
- [
-  "Setzen","Obligatio; Ars obligatoria II (log.)","","6","1068f.","ref",2194,
-  "Obligatio, Ars obligatoria","setzen"
- ],
- ["Setzen","Thema","I (rhet.)","10","1060","ref",3165,"Thema","setzen"],
- ["Setzen","These","I","10","1176","ref",3186,"These","setzen"],
- ["Sehen","Sehen","II","9","146","main",2802,"Sehen","sehen"],
- ["Seelenwagen","Seelenwagen","","9","112","main",2800,"Seelenwagen","seelenwagen"],
- ["Seele","Seele","V","9","76f.","main",2794,"Seele","seele"],
- ["Seele","Seele","",null,null,"main",2794,"Seele","seele"],
- ["Sekte","Sekte","I",null,null,"main",2818,"Sekte","sekte"],
+ ["Seele, schöne","Seele, schöne","",null,null,"main",2794,"Seele","seele, schone"],
+ ["Sekte","Sekte","I 1",null,null,"main",2818,"Sekte","sekte"],
  ["séant/bienséant","Schicklich","",null,null,"ref",2763,"Schicklich","seant/bienseant"],
  [
   "secessus a mundo","Weltverachtung; Weltflucht","","12","523","ref",3579,
@@ -104,7 +50,7 @@ HWPH.put("r/73-65",
  ],
  ["secundum quid","Insolubilia","","4","398","ref",1450,"Insolubilia","secundum quid"],
  [
-  "secundum quid","Irrtum","(Schlussfehler)","4","609","ref",1500,"Irrtum (Schlußfehler)",
+  "secundum quid","Irrtum (Schlussfehler)","","4","609","ref",1500,"Irrtum (Schlußfehler)",
   "secundum quid"
  ],
  ["securitas","Sicherheit","",null,null,"ref",2881,"Sicherheit","securitas"],
@@ -114,7 +60,27 @@ HWPH.put("r/73-65",
   "See der Erinnerung","Seelenwanderung","I","9","117","ref",2801,"Seelenwanderung",
   "see der erinnerung"
  ],
- ["seeing as","Sehen","",null,null,"ref",2802,"Sehen","seeing as"],
+ ["seeing as","Sehen als","(Wittgenstein)",null,null,"ref",2803,"Sehen als; Aspektsehen","seeing as"],
+ ["Seele","Seele","","9","1–89","main",2794,"Seele","seele"],
+ ["Seele","Doppelnatur","",null,null,"see",631,"Doppelnatur","seele"],
+ ["Seele","Geistseele; Vernunftseele","",null,null,"see",1039,"Geistseele, Vernunftseele","seele"],
+ ["Seele","Gemüt","",null,null,"see",1054,"Gemüt","seele"],
+ ["Seele","Generatianismus; Traduzianismus","",null,null,"see",null,null,"seele"],
+ ["Seele","Herz","",null,null,"see",1265,"Herz","seele"],
+ ["Seele","Kausalität, psychische","",null,null,"see",1554,"Kausalität, psychische","seele"],
+ ["Seele","Leib-Seele-Verhältnis","",null,null,"see",1770,"Leib-Seele-Verhältnis","seele"],
+ [
+  "Seele","Parallelismus, psychophysischer","",null,null,"see",2272,
+  "Parallelismus, psychophysischer","seele"
+ ],
+ ["Seele","Pflanzenseele","",null,null,"see",2333,"Pflanzenseele","seele"],
+ ["Seele","Psychologie","",null,null,"see",2511,"Psychologie","seele"],
+ ["Seele","Psychologie, rationale","",null,null,"see",2519,"Psychologie, rationale","seele"],
+ ["Seele","Seelensitz","",null,null,"see",2798,"Seelensitz","seele"],
+ ["Seele","Seelenwagen","",null,null,"see",2800,"Seelenwagen","seele"],
+ ["Seele","Selbstbewegung","",null,null,"see",2827,"Selbstbewegung","seele"],
+ ["Seele","Vernunft; Verstand","",null,null,"see",3423,"Vernunft; Verstand","seele"],
+ ["Seele","Weltseele","",null,null,"see",3578,"Weltseele","seele"],
  ["Seele","Zeit","III A",null,null,"ref",3676,"Zeit","seele"],
  ["Seele","Aktualitätstheorie","","1","145","ref",87,"Aktualitätstheorie","seele"],
  ["Seele","Ganzes/Teil","II","3","8","ref",986,"Ganzes/Teil","seele"],
@@ -185,7 +151,8 @@ HWPH.put("r/73-65",
   "Seele, rationale","Geistseele; Vernunftseele","",null,null,"ref",1039,"Geistseele, Vernunftseele",
   "seele, rationale"
  ],
- ["Seele","Seele","",null,null,"main",2794,"Seele","seele"],
+ ["Seele, schöne","Seele, schöne","","9","89–92","main",2794,"Seele","seele, schone"],
+ ["Seele, schöne","Kalokagathia","",null,null,"see",1522,"Kalokagathia","seele, schone"],
  ["Seele, schöne","Erfahrung, innere","","2","619","ref",788,"Erfahrung, innere","seele, schone"],
  ["Seele, schöne","Gefühl","I","3","86","ref",1009,"Gefühl","seele, schone"],
  ["Seele, schöne","Grazie; Anmut","II","3","870","ref",1182,"Grazie, Anmut","seele, schone"],
@@ -204,7 +171,7 @@ HWPH.put("r/73-65",
  ["Seelenbewegung","Gemütsbewegung","",null,null,"ref",1055,"Gemütsbewegung","seelenbewegung"],
  ["Seelenblindheit","Agnosie","","1","109","ref",62,"Agnosie","seelenblindheit"],
  [
-  "Seelenblindheit","Erkenntnis II (psych.)","","2","676","ref",796,"Erkennen, Erkenntnis",
+  "Seelenblindheit","Erkenntnis","II (psych.)","2","676","ref",796,"Erkennen, Erkenntnis",
   "seelenblindheit"
  ],
  ["Seelendiätetik","Diätetik","","2","231","ref",589,"Diätetik","seelendiatetik"],
@@ -244,7 +211,7 @@ HWPH.put("r/73-65",
  ],
  ["Seelenheilkunde","Psychiatrie","","7","1570","ref",2505,"Psychiatrie","seelenheilkunde"],
  [
-  "Seelenheilung","Therapie II (philos.)","",null,null,"ref",3184,"Therapie; Therapeutik",
+  "Seelenheilung","Therapie","II (philos.)",null,null,"ref",3184,"Therapie; Therapeutik",
   "seelenheilung"
  ],
  ["Seelenheilung","Psychotherapie","","7","1706f.","ref",2532,"Psychotherapie","seelenheilung"],
@@ -280,10 +247,12 @@ HWPH.put("r/73-65",
  ["Seelenruhe","Ataraxie","",null,null,"see",272,"Ataraxie","seelenruhe"],
  ["Seelenruhe","Gemütsruhe","",null,null,"see",1056,"Gemütsruhe","seelenruhe"],
  [
-  "Seelenruhe","Quietismus; Hesychasmus Seelenschönheit","",null,null,"see",2557,
-  "Quietismus, Hesychasmus","seelenruhe"
+  "Seelenruhe","Quietismus; Hesychasmus","",null,null,"see",2557,"Quietismus, Hesychasmus",
+  "seelenruhe"
  ],
- ["Seele","Seele","",null,null,"main",2794,"Seele","seele"],
+ ["Seelenschönheit","Seele, schöne","",null,null,"ref",2794,"Seele","seelenschonheit"],
+ ["Seelensitz","Seelensitz","","9","105–110","main",2798,"Seelensitz","seelensitz"],
+ ["Seelensitz","Seele","",null,null,"see",2794,"Seele","seelensitz"],
  ["Seelensitz","Herz","",null,null,"ref",1265,"Herz","seelensitz"],
  ["Seelenspitze","Seelenspitze","","9","110f.","main",2799,"Seelenspitze","seelenspitze"],
  [
@@ -357,7 +326,11 @@ HWPH.put("r/73-65",
  ],
  ["Sehen","Sehen","","9","121–161","main",2802,"Sehen","sehen"],
  ["Sehen","Nachbild","",null,null,"see",2057,"Nachbild","sehen"],
- ["Sehen","Raum","",null,null,"see",2578,"Raum","sehen"],
+ ["Sehen","Raum; Raumwahrnehmung","",null,null,"see",2578,"Raum","sehen"],
+ ["Sehen","Sehen als","(Wittgenstein)",null,null,"see",2803,"Sehen als; Aspektsehen","sehen"],
+ ["Sehen","Sinne, die","",null,null,"see",2892,"Sinne, die","sehen"],
+ ["Sehen","Visio","",null,null,"see",3468,"Visio","sehen"],
+ ["Sehen","Wahrnehmung","",null,null,"see",3539,"Wahrnehmung","sehen"],
  ["Sehen","Lokalisation","",null,null,"ref",1829,"Lokalisation","sehen"],
  ["Sehen","Analogie","I (allg.)","1","222","ref",123,"Analogie","sehen"],
  ["Sehen","Intuition","","4","525","ref",1487,"Intuition","sehen"],
@@ -365,11 +338,15 @@ HWPH.put("r/73-65",
  ["Sehen","Vernunft; Verstand","II","11","751","ref",3423,"Vernunft; Verstand","sehen"],
  ["Sehen","Vernunft; Verstand","VII E","11","850","ref",3423,"Vernunft; Verstand","sehen"],
  ["Sehen, inneres","Visio","","11","1068","ref",3468,"Visio","sehen, inneres"],
- ["Sehen","Sehen","",null,null,"main",2802,"Sehen","sehen"],
+ [
+  "Sehen als","Sehen als","(Wittgenstein)","9","162–165","main",2803,"Sehen als; Aspektsehen",
+  "sehen als"
+ ],
+ ["Sehen als","Wahrnehmung","VII (analyt. Philos.)",null,null,"see",3539,"Wahrnehmung","sehen als"],
  ["Sehen des Geistes","Geist","VII","3","190","ref",1030,"Geist","sehen des geistes"],
  ["Sehen des Unsichtbaren","Freiheit","II","2","1080","ref",946,"Freiheit","sehen des unsichtbaren"],
  [
-  "Sehepunkt","Perspektive I (allg.)","","7","366f.","ref",2326,
+  "Sehepunkt","Perspektive","I (allg.)","7","366f.","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","sehepunkt"
  ],
  [
@@ -377,8 +354,8 @@ HWPH.put("r/73-65",
   "sehepunkt"
  ],
  ["Sehform","Darstellungsformen","(Wölfflin)",null,null,"ref",525,"Darstellungsformen","sehform"],
- ["Sehform","Sehweise Sehgeschichte","",null,null,"ref",null,null,"sehform"],
- ["Sehweise","Sehweise","","9","169","main",2805,"Sehweise, Sehform","sehweise"],
+ ["Sehform","Sehweise","",null,null,"ref",2805,"Sehweise, Sehform","sehform"],
+ ["Sehgeschichte","Sehweise","","9","169","ref",2805,"Sehweise, Sehform","sehgeschichte"],
  ["Sehnsucht","Sehnsucht","","9","165–168","main",2804,"Sehnsucht","sehnsucht"],
  ["Sehnsucht","Verlangen","",null,null,"see",3415,"Verlangen","sehnsucht"],
  ["Sehnsucht","Desiderium naturale","",null,null,"ref",566,"Desiderium naturale","sehnsucht"],
@@ -392,7 +369,12 @@ HWPH.put("r/73-65",
   "Sehraum, subjektiver","Nativismus","(Helmholtz)","6","420","ref",2073,"Nativismus",
   "sehraum, subjektiver"
  ],
- ["Sehstrahlentheorie","Raum","",null,null,"ref",2578,"Raum","sehstrahlentheorie"],
+ [
+  "Sehstrahlentheorie","Raum; Raumwahrnehmung","","8","111ff.","ref",2578,"Raum",
+  "sehstrahlentheorie"
+ ],
+ ["Sehstrahlentheorie","Sehen","II","9","143","ref",2802,"Sehen","sehstrahlentheorie"],
+ ["Sehstrahlentheorie","Wahrnehmung","II","12","199","ref",3539,"Wahrnehmung","sehstrahlentheorie"],
  ["Sehstufen","Form, innere","","2","975","ref",936,"Form, innere","sehstufen"],
  ["Sehweise","Sehweise","","9","168–170","main",2804,"Sehnsucht","sehweise"],
  ["Sehweise","Darstellungsformen","(Wölfflin)",null,null,"see",525,"Darstellungsformen","sehweise"],
@@ -403,7 +385,8 @@ HWPH.put("r/73-65",
   "seiendes"
  ],
  ["Seiendes","Natura communis","","6","499","ref",2078,"Natura communis","seiendes"],
- ["Seiendes","Schöne","",null,null,"ref",2776,"Schöne","seiendes"],
+ ["Seiendes","Schöne, das","II","8","1353","ref",2776,"Schöne","seiendes"],
+ ["Seiendes","Verworrenheit","I","11","1015f.","ref",3456,"Verworrenheit","seiendes"],
  [
   "Seiendes, virtuelles","Virtualität","I","11","1064","ref",3467,"Virtualität",
   "seiendes, virtuelles"
@@ -416,7 +399,7 @@ HWPH.put("r/73-65",
   "Seiendes, vollkommen","Substanz","I","10","496","ref",3062,"Substanz; Substanz/Akzidens",
   "seiendes, vollkommen"
  ],
- ["Series","Series","",null,null,"main",2875,"Series","series"],
+ ["Seil, goldenes","Series","",null,null,"ref",2875,"Series","seil, goldenes"],
  ["Seiltänzer","Übermensch","","11","48","ref",3261,"Übermensch","seiltanzer"],
  ["Sein; Seiendes","Sein; Seiendes","","9","170–234","main",2806,"Sein; Seiendes","sein; seiendes"],
  ["Sein; Seiendes","Dasein","",null,null,"see",527,"Dasein","sein; seiendes"],
@@ -456,15 +439,26 @@ HWPH.put("r/73-65",
  ],
  ["Sein/Gelten","Sein; Seiendes","V 5","9","214f.","ref",2806,"Sein; Seiendes","sein/gelten"],
  ["Sein/Schein","Schein","I","8","1232","ref",2757,"Schein","sein/schein"],
+ ["Sein/Seiendes","Abstraktion","III","1","53","ref",31,"Abstraktion","sein/seiendes"],
+ ["Sein/Seiendes","Präexistenz","","7","1229","ref",2432,"Präexistenz","sein/seiendes"],
  ["Sein/Sollen","Sollen","",null,null,"ref",2920,"Sollen","sein/sollen"],
  ["Sein/Sollen","Sein; Seiendes","V 5","9","215f.","ref",2806,"Sein; Seiendes","sein/sollen"],
  ["Sein, absolutes","Personalismus","II","7","340","ref",2320,"Personalismus","sein, absolutes"],
- ["Sein, allgemeines","Esse commune Sein, blindes","",null,null,"ref",null,null,"sein, allgemeines"],
- ["Sein; Seiendes","Sein; Seiendes","V 3","9","212","main",2806,"Sein; Seiendes","sein; seiendes"],
  [
-  "Sein, gedankliches","Gedankending Sein, geistiges","",null,null,"ref",null,null,
+  "Sein, allgemeines","Esse commune","",null,null,"ref",829,"Esse commune, esse subsistens",
+  "sein, allgemeines"
+ ],
+ ["Sein, blindes","Sein; Seiendes","V 3","9","212","ref",2806,"Sein; Seiendes","sein, blindes"],
+ [
+  "Sein, gedankliches","Gedankending","",null,null,"ref",1000,"Gedankending (ens rationis)",
   "sein, gedankliches"
  ],
+ [
+  "Sein, geistiges","Geistiges Sein","(Hartmann)",null,null,"ref",1038,"Geistiges Sein",
+  "sein, geistiges"
+ ],
+ ["Sein, geistiges","Geist","VIII","3","198","ref",1030,"Geist","sein, geistiges"],
+ ["Sein, geistiges","Rechtsontologie","","8","296","ref",2611,"Rechtsontologie","sein, geistiges"],
  [
   "Sein, ideales","Gedankending","","3","60","ref",1000,"Gedankending (ens rationis)",
   "sein, ideales"
@@ -499,7 +493,9 @@ HWPH.put("r/73-65",
   "Realität, formale/objektive","sein, objektives"
  ],
  ["Sein, objektives","Seinsweise","",null,null,"see",2817,"Seinsweise","sein, objektives"],
- ["Sein, objektives","Subjekt","",null,null,"see",3047,"Subjekt","sein, objektives"],
+ ["Sein, objektives","Subjekt/Objekt","III",null,null,"see",3047,"Subjekt","sein, objektives"],
+ ["Sein, objektives","Objekt","","6","1030","ref",2183,"Objekt","sein, objektives"],
+ ["Sein, objektives","Wahrheit","II C","12","70","ref",3523,"Wahrheit","sein, objektives"],
  [
   "Sein, reines","Reinheit; Reinigung","IV","8","546","ref",2660,"Reinheit, Reinigung",
   "sein, reines"
@@ -514,10 +510,14 @@ HWPH.put("r/73-65",
   "sein, sittliches"
  ],
  [
-  "Sein, soziales","Seinsverbundenheit (Mannheim)","","9","262","ref",2814,
+  "Sein, soziales","Seinsverbundenheit","(Mannheim)","9","262","ref",2814,
   "Seinsverbundenheit; Seinsgebundenheit","sein, soziales"
  ],
- ["Sein, Topologie des","Topologie","",null,null,"ref",3205,"Topologie","sein, topologie des"],
+ [
+  "Sein, Topologie des","Topologie des Seins","(Heidegger)",null,null,"ref",3206,
+  "Topologie des Seins; Ortschaft des Seins","sein, topologie des"
+ ],
+ ["Sein, unbedingtes","Dasein","","2","18","ref",527,"Dasein","sein, unbedingtes"],
  [
   "Sein, unbestimmtes ideales","Intuition","","4","533","ref",1487,"Intuition",
   "sein, unbestimmtes ideales"
@@ -580,9 +580,16 @@ HWPH.put("r/73-65",
  ["Seinsentwurf","Wahl","","12","22","ref",3517,"Wahl","seinsentwurf"],
  ["Seinsfrage","Frage","",null,null,"ref",943,"Frage","seinsfrage"],
  ["Seinsfrage","Seinsverständnis","(Heidegger)",null,null,"ref",2816,"Seinsverständnis","seinsfrage"],
- ["Seinsfrage","Topologie","",null,null,"ref",3205,"Topologie","seinsfrage"],
  [
-  "Seinsgebundenheit","Seinsverbundenheit (Mannheim)","",null,null,"ref",2814,
+  "Seinsfrage","Topologie des Seins","(Heidegger)",null,null,"ref",3206,
+  "Topologie des Seins; Ortschaft des Seins","seinsfrage"
+ ],
+ [
+  "Seinsfrage","Fundamentalontologie","(Heidegger)","2","1134","ref",967,"Fundamentalontologie",
+  "seinsfrage"
+ ],
+ [
+  "Seinsgebundenheit","Seinsverbundenheit","(Mannheim)",null,null,"ref",2814,
   "Seinsverbundenheit; Seinsgebundenheit","seinsgebundenheit"
  ],
  ["Seinsgebundenheit","Ideologie","II","4","170","ref",1373,"Ideologie","seinsgebundenheit"],
@@ -644,28 +651,38 @@ HWPH.put("r/73-65",
   "Seinsregion","Generalisierung","II (Husserl)",null,null,"see",1062,"Generalisierung",
   "seinsregion"
  ],
- ["Seinsregion","Ontologie","",null,null,"see",2218,"Ontologie","seinsregion"],
+ ["Seinsregion","Ontologie","3a",null,null,"see",2218,"Ontologie","seinsregion"],
  [
-  "Seinsrelativität","Seinsverbundenheit (Mannheim) Seinsschichten","",null,null,"ref",null,null,
-  "seinsrelativitat"
+  "Seinsregion","Reduktion, eidetische","(Husserl)",null,null,"see",2625,"Reduktion, eidetische",
+  "seinsregion"
  ],
+ [
+  "Seinsrelativität","Seinsverbundenheit","(Mannheim)",null,null,"ref",2814,
+  "Seinsverbundenheit; Seinsgebundenheit","seinsrelativitat"
+ ],
+ [
+  "Seinsschichten","Schichtenlehre","I (Hartmann)",null,null,"ref",2762,
+  "Schichtenlehre, Schichtentheorie","seinsschichten"
+ ],
+ ["Seinsschichten","Stufen","II","10","362","ref",3044,"Stufen","seinsschichten"],
  ["Seinssinn","Phänomenologie","II (Husserl)","7","491","ref",2343,"Phänomenologie","seinssinn"],
  ["Seinssinn","Sinnbildung","(Husserl)","9","824","ref",2891,"Sinnbildung","seinssinn"],
  ["Seinssphäre","Sphäre","I","9","1375","ref",2971,"Sphäre","seinssphare"],
  ["Seinsstolz","Stolz","","10","205f.","ref",3034,"Stolz","seinsstolz"],
  ["Seinsstufen","Stufen","I",null,null,"ref",3044,"Stufen","seinsstufen"],
- ["Seinsstufen","Substanz I Seinsungrund","",null,null,"ref",null,null,"seinsstufen"],
+ ["Seinsstufen","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens","seinsstufen"],
+ ["Seinsungrund","Ungrund; Urgrund","","11","171","ref",3298,"Ungrund; Urgrund","seinsungrund"],
  [
-  "Seinsverbundenheit (Mannheim)","Seinsverbundenheit (Mannheim)","","9","261–263","main",2814,
-  "Seinsverbundenheit; Seinsgebundenheit","seinsverbundenheit (mannheim)"
+  "Seinsverbundenheit","Seinsverbundenheit","(Mannheim)","9","261–263","main",2814,
+  "Seinsverbundenheit; Seinsgebundenheit","seinsverbundenheit"
  ],
  [
-  "Seinsverbundenheit (Mannheim)","Relationismus (Mannheim)","",null,null,"see",2670,
-  "Relationismus, Relationieren","seinsverbundenheit (mannheim)"
+  "Seinsverbundenheit","Relationismus","(Mannheim)",null,null,"see",2670,
+  "Relationismus, Relationieren","seinsverbundenheit"
  ],
  [
-  "Seinsverbundenheit (Mannheim)","Wissenssoziologie","",null,null,"see",3647,"Wissenssoziologie",
-  "seinsverbundenheit (mannheim)"
+  "Seinsverbundenheit","Wissenssoziologie","",null,null,"see",3647,"Wissenssoziologie",
+  "seinsverbundenheit"
  ],
  [
   "Seinsvergessenheit","Seinsvergessenheit","(Heidegger)","9","264f.","main",2815,
@@ -704,7 +721,14 @@ HWPH.put("r/73-65",
   "Seinsverständnis","Fundamentalontologie","(Heidegger)",null,null,"see",967,"Fundamentalontologie",
   "seinsverstandnis"
  ],
- ["Seinsverständnis","Topologie","",null,null,"see",3205,"Topologie","seinsverstandnis"],
+ [
+  "Seinsverständnis","Topologie des Seins","(Heidegger)",null,null,"see",3206,
+  "Topologie des Seins; Ortschaft des Seins","seinsverstandnis"
+ ],
+ [
+  "Seinsverständnis, nivelliertes","Naiv; Naivität","","6","361","ref",2063,"Naiv, Naivität",
+  "seinsverstandnis, nivelliertes"
+ ],
  [
   "Seinsverständnis, vorbegriffliches","Vorbegriff","","11","1183","ref",3490,"Vorbegriff",
   "seinsverstandnis, vorbegriffliches"
@@ -714,9 +738,10 @@ HWPH.put("r/73-65",
  ["Seinsweise","Sein, ideales/reales","",null,null,"see",2807,"Sein, ideales/reales","seinsweise"],
  ["Seinsweise","Sein, objektives","",null,null,"see",2809,"Sein, objektives","seinsweise"],
  [
-  "Seinsweise des Gedachten","Gedankending Seinsweisen","",null,null,"ref",null,null,
+  "Seinsweise des Gedachten","Gedankending","",null,null,"ref",1000,"Gedankending (ens rationis)",
   "seinsweise des gedachten"
  ],
+ ["Seinsweisen","Vollkommenheit","","11","1129","ref",3482,"Vollkommenheit","seinsweisen"],
  [
   "Seinswissenschaft","Erste Philosophie","I",null,null,"ref",816,"Erste Philosophie",
   "seinswissenschaft"
@@ -733,6 +758,7 @@ HWPH.put("r/73-65",
  ["Seität","Seele","V","9","81","ref",2794,"Seele","seitat"],
  ["seiyô","Westen; Okzident","III (chin./jap.)","12","672","ref",3602,"Westen; Okzident","seiyo"],
  ["Sekte","Sekte","","9","274–288","main",2818,"Sekte","sekte"],
+ ["Sekte","Eklektizismus","",null,null,"see",700,"Eklektizismus","sekte"],
  ["Sekte","Schwärmerei","","6","1477","ref",2786,"Schwärmerei","sekte"],
  ["Sekte, eleatische","Eleatismus","II",null,null,"ref",705,"Eleatismus","sekte, eleatische"],
  [
@@ -743,7 +769,16 @@ HWPH.put("r/73-65",
   "sekundäre Bearbeitung","Verschiebung; Verdichtung","","11","875","ref",3429,
   "Verschiebung; Verdichtung","sekundare bearbeitung"
  ],
- ["sekundäres Ich","Ich","",null,null,"ref",1334,"Ich","sekundares ich"],
+ [
+  "sekundäres Ich","Ich, primäres/sekundäres","(Reininger)",null,null,"ref",1334,"Ich",
+  "sekundares ich"
+ ],
+ [
+  "Sekundärvorgang","Sekundärvorgang","","9","288–291","main",2819,"Sekundärvorgang",
+  "sekundarvorgang"
+ ],
+ ["Sekundärvorgang","Primärvorgang","",null,null,"see",2452,"Primärvorgang","sekundarvorgang"],
+ ["Sekundärvorgang","Realitätsprinzip","",null,null,"see",2594,"Realitätsprinzip","sekundarvorgang"],
  ["Sekundärvorgang","Spannung","IV (psych.)","9","1296","ref",2961,"Spannung","sekundarvorgang"],
  ["Sekundärvorgang","Traum","II","10","1466","ref",3225,"Traum","sekundarvorgang"],
  ["Selbheit","Grund","","3","906","ref",1191,"Grund","selbheit"],
@@ -752,9 +787,29 @@ HWPH.put("r/73-65",
  ["Selbst","Selbst","","9","292–313","main",2820,"Selbst","selbst"],
  ["Selbst","Ich","",null,null,"see",1334,"Ich","selbst"],
  ["Selbst","Ichheit; Egoität","",null,null,"see",1337,"Ichheit, Egoität","selbst"],
- ["Selbst","Identität","",null,null,"see",1366,"Identität","selbst"],
+ ["Selbst","Identität; Ich-Identität","",null,null,"see",1366,"Identität","selbst"],
+ ["Selbst","Person","",null,null,"see",2318,"Person","selbst"],
+ ["Selbst","Selbstbewusstsein","",null,null,"see",2828,"Selbstbewußtsein","selbst"],
+ ["Selbst","Selbsterkenntnis","",null,null,"see",2833,"Selbsterkenntnis","selbst"],
+ ["Selbst","Selbstgefühl","",null,null,"see",2836,"Selbstgefühl","selbst"],
+ ["Selbst","Selbstheit","",null,null,"see",2839,"Selbstheit","selbst"],
+ ["Selbst","Selbstsein","",null,null,"see",2847,"Selbstsein","selbst"],
+ [
+  "Selbst","Selbstverwirklichung","",null,null,"see",2854,
+  "Selbstverwirklichung, Selbstaktualisierung","selbst"
+ ],
+ ["Selbst","Affekt","II","1","96","ref",53,"Affekt","selbst"],
+ ["Selbst","Entfremdung","","2","513","ref",747,"Entfremdung","selbst"],
+ ["Selbst","Individuation","","4","298f.","ref",1420,"Individuation, Individuationsprinzip","selbst"],
+ ["Selbst","Person","III 9","7","318","ref",2318,"Person","selbst"],
+ ["Selbst","Sosein","","9","1102","ref",2931,"Sosein","selbst"],
+ ["Selbst","Verzweiflung","","11","1031","ref",3459,"Verzweiflung","selbst"],
  ["Selbst (ind.)","Ātman","",null,null,"ref",278,"Ātman","selbst (ind.)"],
- ["Selbst, anderes","Andere","",null,null,"ref",137,"Andere","selbst, anderes"],
+ ["Selbst, anderes","Andere, der","","1","296","ref",137,"Andere","selbst, anderes"],
+ [
+  "Selbst, eigentliches","Subjekt, transzendentales","","10","400","ref",3048,
+  "Subjekt, transzendentales","selbst, eigentliches"
+ ],
  [
   "Selbst, transpersonales","Psychosynthese","","7","1702","ref",2530,"Psychosynthese",
   "selbst, transpersonales"
@@ -808,15 +863,19 @@ HWPH.put("r/73-65",
   "selbstaffirmation gottes"
  ],
  [
-  "Selbstaktualisierung","Selbstverwirklichung Selbstaneignung","",null,null,"ref",null,null,
-  "selbstaktualisierung"
+  "Selbstaktualisierung","Selbstverwirklichung","",null,null,"ref",2854,
+  "Selbstverwirklichung, Selbstaktualisierung","selbstaktualisierung"
+ ],
+ [
+  "Selbstaneignung","Zueignung (Oikeiosis)","",null,null,"ref",3705,"Zueignung (Oikeiosis)",
+  "selbstaneignung"
  ],
  [
   "Selbstanschauung","Logik, transzendentale","","5","473","ref",1819,"Logik, transzendentale",
   "selbstanschauung"
  ],
  [
-  "Selbstanschauung","Produktion I (nat.)","","7","1424","ref",2469,"Produktion, Produktivität",
+  "Selbstanschauung","Produktion","I (nat.)","7","1424","ref",2469,"Produktion, Produktivität",
   "selbstanschauung"
  ],
  ["Selbstanschauung","Seele","IV","9","45","ref",2794,"Seele","selbstanschauung"],
@@ -830,7 +889,13 @@ HWPH.put("r/73-65",
  ],
  ["Selbstanschauung","Selbstreflexion","","9","518","ref",2846,"Selbstreflexion","selbstanschauung"],
  ["Selbstanschauung","Sinne, die","","9","854f.","ref",2892,"Sinne, die","selbstanschauung"],
- ["Selbstanschauung","Subjekt","",null,null,"ref",3047,"Subjekt","selbstanschauung"],
+ [
+  "Selbstanschauung","Subjekt/Objekt","IV","10","419","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","selbstanschauung"
+ ],
+ ["Selbstanschauung","Subjektivität","I","10","460","ref",3052,"Subjektivität","selbstanschauung"],
+ ["Selbstanschauung","Tathandlung","","10","909","ref",3129,"Tathandlung","selbstanschauung"],
+ ["Selbstanschauung","Wahrnehmung","IV","12","210","ref",3539,"Wahrnehmung","selbstanschauung"],
  ["selbstanwendbar","Antinomie","II (log.)",null,null,"ref",185,"Antinomie","selbstanwendbar"],
  [
   "selbstanwendbar","Selbstreferenz","I (log.)",null,null,"ref",2845,"Selbstreferenz",
@@ -845,10 +910,10 @@ HWPH.put("r/73-65",
   "Selbstapperzeption","Reduktion, transzendentale","(Husserl)","8","376","ref",2627,
   "Reduktion, transzendentale","selbstapperzeption"
  ],
- ["Selbstaufgabe","Resignation Selbstaufgegebenheit","",null,null,"ref",null,null,"selbstaufgabe"],
+ ["Selbstaufgabe","Resignation","",null,null,"ref",2693,"Resignation, resignieren","selbstaufgabe"],
  [
-  "Selbsterkenntnis","Selbsterkenntnis","III","9","433","main",2833,"Selbsterkenntnis",
-  "selbsterkenntnis"
+  "Selbstaufgegebenheit","Selbsterkenntnis","III","9","433","ref",2833,"Selbsterkenntnis",
+  "selbstaufgegebenheit"
  ],
  [
   "Selbstaufschliessung Gottes","Selbstoffenbarung","II","9","505","ref",2843,"Selbstoffenbarung",
@@ -867,7 +932,11 @@ HWPH.put("r/73-65",
   "Selbstbefangenheit","Eigenwille","","2","344","ref",671,"Eigenwille, Eigensinn",
   "selbstbefangenheit"
  ],
- ["Selbstbegrenzung","Grenze","",null,null,"ref",1184,"Grenze","selbstbegrenzung"],
+ ["Selbstbegrenzung","Grenze; Schranke","",null,null,"ref",1184,"Grenze","selbstbegrenzung"],
+ [
+  "Selbstbegründung","Voraussetzungslosigkeit","","11","1169f.","ref",3488,"Voraussetzungslosigkeit",
+  "selbstbegrundung"
+ ],
  [
   "Selbstbehauptung","Selbstbehauptung","","9","321–324","main",2823,"Selbstbehauptung",
   "selbstbehauptung"
@@ -1020,8 +1089,48 @@ HWPH.put("r/73-65",
   "Selbstbewusstsein","Subjekt, transzendentales","",null,null,"see",3048,
   "Subjekt, transzendentales","selbstbewusstsein"
  ],
- ["Selbstbewusstsein","Subjekt","",null,null,"see",3047,"Subjekt","selbstbewusstsein"],
- ["Selbstbewusstsein","Ich","",null,null,"ref",1334,"Ich","selbstbewusstsein"],
+ ["Selbstbewusstsein","Subjekt/Objekt","IV",null,null,"see",3047,"Subjekt","selbstbewusstsein"],
+ ["Selbstbewusstsein","Subjektivität","",null,null,"see",3052,"Subjektivität","selbstbewusstsein"],
+ [
+  "Selbstbewusstsein","Ich, primäres/sekundäres","(Reininger)",null,null,"ref",1334,"Ich",
+  "selbstbewusstsein"
+ ],
+ [
+  "Selbstbewusstsein","Persönlichkeit","I (allg.)",null,null,"ref",2322,"Persönlichkeit",
+  "selbstbewusstsein"
+ ],
+ ["Selbstbewusstsein","Apperzeption","","1","449","ref",212,"Apperzeption","selbstbewusstsein"],
+ ["Selbstbewusstsein","Dasein","","2","18","ref",527,"Dasein","selbstbewusstsein"],
+ ["Selbstbewusstsein","Geist","VII","3","186ff.","ref",1030,"Geist","selbstbewusstsein"],
+ [
+  "Selbstbewusstsein","Gesetz, moralisches","","3","522","ref",1107,"Gesetz, moralisches",
+  "selbstbewusstsein"
+ ],
+ [
+  "Selbstbewusstsein","Handlungshemmung","(Gehlen)","3","997","ref",1222,"Handlungshemmung",
+  "selbstbewusstsein"
+ ],
+ [
+  "Selbstbewusstsein","Individuum; Individualität","III","4","313","ref",1424,
+  "Individuum, Individualität","selbstbewusstsein"
+ ],
+ ["Selbstbewusstsein","Perzeption","","7","384","ref",2329,"Perzeption","selbstbewusstsein"],
+ [
+  "Selbstbewusstsein","Phänomenologie, transzendentale","","7","510","ref",2347,
+  "Phänomenologie, transzendentale","selbstbewusstsein"
+ ],
+ ["Selbstbewusstsein","Religion","VII","8","680","ref",2673,"Religion","selbstbewusstsein"],
+ ["Selbstbewusstsein","Seele","IV","9","41","ref",2794,"Seele","selbstbewusstsein"],
+ [
+  "Selbstbewusstsein","Sittlichkeit; Sittenlehre","","9","912","ref",2903,
+  "Sittlichkeit; Sittenlehre","selbstbewusstsein"
+ ],
+ ["Selbstbewusstsein","Spontaneität","","9","1432","ref",2982,"Spontaneität","selbstbewusstsein"],
+ ["Selbstbewusstsein","Verdopplung","","11","614f.","ref",3392,"Verdopplung","selbstbewusstsein"],
+ [
+  "Selbstbewusstsein","Vergänglichkeit","","11","661","ref",3401,"Vergänglichkeit; Vergehen",
+  "selbstbewusstsein"
+ ],
  [
   "Selbstbewusstsein, gesellschaftliches","Philosophie","IV I","7","774","ref",2353,"Philosophie",
   "selbstbewusstsein, gesellschaftliches"
@@ -1052,11 +1161,15 @@ HWPH.put("r/73-65",
  ["Selbstbildung","Selbstbildung","","9","379–383","main",2829,"Selbstbildung","selbstbildung"],
  ["Selbstbildung","Bildung","",null,null,"see",435,"Bildung","selbstbildung"],
  [
-  "Selbstbildung","Individuum; Individualität III","",null,null,"see",1424,
+  "Selbstbildung","Individuum; Individualität","III",null,null,"see",1424,
   "Individuum, Individualität","selbstbildung"
  ],
  ["Selbstbildung","Selbstsein","",null,null,"see",2847,"Selbstsein","selbstbildung"],
- ["Selbstbildung","Selbstverwirklichung Selbstbildung","",null,null,"see",null,null,"selbstbildung"],
+ [
+  "Selbstbildung","Selbstverwirklichung","",null,null,"see",2854,
+  "Selbstverwirklichung, Selbstaktualisierung","selbstbildung"
+ ],
+ ["Selbstbildung","Werk","","12","548","ref",3586,"Werk","selbstbildung"],
  [
   "Selbstdarstellung","Selbstdarstellung","","9","383–386","main",2830,"Selbstdarstellung",
   "selbstdarstellung"
@@ -1135,7 +1248,7 @@ HWPH.put("r/73-65",
   "Erfahrung, transzendentale","selbsterkenntnis"
  ],
  [
-  "Selbsterkenntnis","Erkenntnis I (erk.)","","2","648","ref",796,"Erkennen, Erkenntnis",
+  "Selbsterkenntnis","Erkenntnis","I (erk.)","2","648","ref",796,"Erkennen, Erkenntnis",
   "selbsterkenntnis"
  ],
  [
@@ -1193,18 +1306,9 @@ HWPH.put("r/73-65",
  ["Selbstflucht","Zerstreuung","I (anthr.)",null,null,"see",3690,"Zerstreuung","selbstflucht"],
  ["Selbstflucht","Altruismus","","1","201","ref",112,"Altruismus","selbstflucht"],
  ["Selbstforscher","Selbstdenken","","9","388","ref",2831,"Selbstdenken","selbstforscher"],
- [
-  "Selbstgebung (Husserl)","Selbstgebung (Husserl)","","9","443f.","main",2834,"Selbstflucht",
-  "selbstgebung (husserl)"
- ],
- [
-  "Selbstgebung (Husserl)","Evidenz","II (phän.)",null,null,"see",850,"Evidenz",
-  "selbstgebung (husserl)"
- ],
- [
-  "Selbstgebung (Husserl)","Wahrheit","VI A",null,null,"see",3523,"Wahrheit",
-  "selbstgebung (husserl)"
- ],
+ ["Selbstgebung","Selbstgebung","(Husserl)","9","443f.","main",2834,"Selbstflucht","selbstgebung"],
+ ["Selbstgebung","Evidenz","II (phän.)",null,null,"see",850,"Evidenz","selbstgebung"],
+ ["Selbstgebung","Wahrheit","VI A",null,null,"see",3523,"Wahrheit","selbstgebung"],
  [
   "Selbstgebung (Husserl)","Perzeption","","7","385","ref",2329,"Perzeption",
   "selbstgebung (husserl)"
@@ -1220,22 +1324,37 @@ HWPH.put("r/73-65",
  ["Selbstgefühl","Ich","II",null,null,"see",1334,"Ich","selbstgefuhl"],
  ["Selbstgefühl","Selbst","II",null,null,"see",2820,"Selbst","selbstgefuhl"],
  ["Selbstgefühl","Selbstaffektion","",null,null,"see",2822,"Selbstaffektion","selbstgefuhl"],
- ["Selbstgefühl","Selbstbewusstsein Selbstgefühl","",null,null,"see",null,null,"selbstgefuhl"],
+ ["Selbstgefühl","Selbstbewusstsein","",null,null,"see",2828,"Selbstbewußtsein","selbstgefuhl"],
+ ["Selbstgefühl","Gefühl","I","3","83","ref",1009,"Gefühl","selbstgefuhl"],
  [
-  "Selbstgegebenheit","Selbstgebung (Husserl)","",null,null,"ref",2835,
+  "Selbstgegebenheit","Selbstgebung","(Husserl)",null,null,"ref",2835,
   "Selbstgebung, Selbstgegebenheit","selbstgegebenheit"
  ],
  ["Selbstgegebenheit","Wesensschau","","12","658","ref",3600,"Wesensschau","selbstgegebenheit"],
  ["Selbstgehörigkeit","Person","III 9","7","318","ref",2318,"Person","selbstgehorigkeit"],
  ["Selbstgehörigkeit","Personalismus","II","7","340","ref",2320,"Personalismus","selbstgehorigkeit"],
- ["Selbstgenügsamkeit","Autarkie I Selbstgenuss","",null,null,"ref",null,null,"selbstgenugsamkeit"],
+ ["Selbstgenügsamkeit","Autarkie","I",null,null,"ref",316,"Autarkie, autark","selbstgenugsamkeit"],
+ ["Selbstgenuss","Eitelkeit","","2","431","ref",698,"Eitelkeit","selbstgenuss"],
+ ["Selbstgenuss","Genuss","","3","318f.","ref",1076,"Genuß","selbstgenuss"],
+ ["Selbstgenuss","Kitsch","","4","844","ref",1570,"Kitsch","selbstgenuss"],
  ["Selbstgesetzgebung","Autonomie","",null,null,"ref",327,"Autonomie","selbstgesetzgebung"],
  [
   "Selbstgesetzgebung der Vernunft","Autonomie","","1","708f.","ref",327,"Autonomie",
   "selbstgesetzgebung der vernunft"
  ],
  ["Selbstgespräch","Selbsterkenntnis","III","9","428","ref",2833,"Selbsterkenntnis","selbstgesprach"],
- ["Selbstgespräch","Wort","",null,null,"ref",3656,"Wort","selbstgesprach"],
+ [
+  "Selbstgespräch","Wort, inneres","","12","1041","ref",3657,"Wort, inneres; Rede, innere",
+  "selbstgesprach"
+ ],
+ [
+  "Selbstgestaltung","Selbstbesinnung","II","9","333","ref",2825,"Selbstbesinnung",
+  "selbstgestaltung"
+ ],
+ [
+  "Selbstgestaltung","Selbstdarstellung","","9","384","ref",2830,"Selbstdarstellung",
+  "selbstgestaltung"
+ ],
  ["Selbstgewissheit","Idol","","4","192","ref",1379,"Idol, Ido(lo)latrie","selbstgewissheit"],
  ["Selbstgründung","Grund","","3","907f.","ref",1191,"Grund","selbstgrundung"],
  ["Selbsthass","Selbsthass","","9","454–458","main",2837,"Selbsthaß","selbsthass"],
@@ -1250,10 +1369,8 @@ HWPH.put("r/73-65",
   "Selbsthass, jüdischer","Selbsthass, jüdischer","","9","458–462","main",2838,
   "Selbsthaß, jüdischer","selbsthass, judischer"
  ],
- [
-  "Selbsthass, jüdischer","Selbsthass Selbstheilung","",null,null,"see",null,null,
-  "selbsthass, judischer"
- ],
+ ["Selbsthass, jüdischer","Selbsthass","",null,null,"see",2837,"Selbsthaß","selbsthass, judischer"],
+ ["Selbstheilung","Psychosynthese","","7","1702","ref",2530,"Psychosynthese","selbstheilung"],
  ["Selbstheit","Selbstheit","","9","462–465","main",2839,"Selbstheit","selbstheit"],
  [
   "Selbstheit","Desappropriatio","",null,null,"see",565,"Desappropriatio, expropriatio (sui)",
@@ -1277,7 +1394,7 @@ HWPH.put("r/73-65",
  ["Selbstigkeit","Radikal Böses","","8","9","ref",2562,"Radikal Böses","selbstigkeit"],
  ["Selbstigkeit","Selbstheit","","9","464","ref",2839,"Selbstheit","selbstigkeit"],
  ["Selbstigkeit","Selbstliebe","II","9","483","ref",2840,"Selbstliebe","selbstigkeit"],
- ["Selbstinteresse","Lohn I 2","",null,null,"ref",1828,"Lohn, Verdienst","selbstinteresse"],
+ ["Selbstinteresse","Lohn","I 2",null,null,"ref",1828,"Lohn, Verdienst","selbstinteresse"],
  ["Selbstinteresse","Pflicht","","7","425","ref",2334,"Pflicht","selbstinteresse"],
  ["selbstisch","Egoismus","I (eth.)","2","312","ref",650,"Egoismus","selbstisch"],
  [
@@ -1397,6 +1514,17 @@ HWPH.put("r/73-65",
  ["Selbstprüfung","Selbsterkenntnis","I","9","408","ref",2833,"Selbsterkenntnis","selbstprufung"],
  ["Selbstprüfung","Selbstliebe","II","9","482","ref",2840,"Selbstliebe","selbstprufung"],
  ["Selbstreferenz","Selbstreferenz","","9","515–518","main",2845,"Selbstreferenz","selbstreferenz"],
+ ["Selbstreferenz","Antinomie","II (log.)",null,null,"see",185,"Antinomie","selbstreferenz"],
+ ["Selbstreferenz","Insolubilia","",null,null,"see",1450,"Insolubilia","selbstreferenz"],
+ ["Selbstreferenz","Zirkel","",null,null,"see",3695,"Zirkel","selbstreferenz"],
+ [
+  "Selbstreferenz","Selbstorganisation","",null,null,"see",2844,"Selbstorganisation",
+  "selbstreferenz"
+ ],
+ [
+  "Selbstreferenz","Systemtheorie; System, soziales","",null,null,"see",3117,
+  "Systemtheorie; System, soziales","selbstreferenz"
+ ],
  [
   "Selbstreflexion","Selbstreflexion","","9","518–520","main",2846,"Selbstreflexion",
   "selbstreflexion"
@@ -1444,7 +1572,16 @@ HWPH.put("r/73-65",
  ["Selbstschöpfungstat","Setzen","II","9","716","ref",2876,"Setzen, Setzung","selbstschopfungstat"],
  ["Selbstschutzreflex","Hypnose","","3","1248","ref",1325,"Hypnose","selbstschutzreflex"],
  ["Selbstsein","Selbstsein","","9","520–528","main",2847,"Selbstsein","selbstsein"],
- ["Selbstsein","Identität","",null,null,"see",1366,"Identität","selbstsein"],
+ ["Selbstsein","Identität; Ich-Identität","",null,null,"see",1366,"Identität","selbstsein"],
+ ["Selbstsein","Personalismus","",null,null,"see",2320,"Personalismus","selbstsein"],
+ ["Selbstsein","Selbst","",null,null,"see",2820,"Selbst","selbstsein"],
+ ["Selbstsein","Selbstbildung","",null,null,"see",2829,"Selbstbildung","selbstsein"],
+ ["Selbstsein","Selbstflucht","",null,null,"see",2834,"Selbstflucht","selbstsein"],
+ [
+  "Selbstsein","Selbstverwirklichung","",null,null,"see",2854,
+  "Selbstverwirklichung, Selbstaktualisierung","selbstsein"
+ ],
+ ["Selbstsein","Verzweiflung","",null,null,"see",3459,"Verzweiflung","selbstsein"],
  ["Selbstsein","Freiheit","I","2","1070","ref",946,"Freiheit","selbstsein"],
  ["Selbstsetzung","Ich","I","4","3","ref",1334,"Ich","selbstsetzung"],
  ["Selbstsetzung","Selbstbestimmung","","9","342","ref",2826,"Selbstbestimmung","selbstsetzung"],
@@ -1487,11 +1624,18 @@ HWPH.put("r/73-65",
  ["Selbsttäuschung","Lebenslüge","",null,null,"see",1749,"Lebenslüge","selbsttauschung"],
  ["Selbsttäuschung","Selbsterkenntnis","",null,null,"see",2833,"Selbsterkenntnis","selbsttauschung"],
  ["Selbsttäuschung","Täuschung","",null,null,"see",3135,"Täuschung","selbsttauschung"],
- ["Selbsttäuschung","Verblendung Selbsttötung","",null,null,"see",null,null,"selbsttauschung"],
- ["Selbstmord","Selbstmord","",null,null,"main",2842,"Selbstmord","selbstmord"],
+ [
+  "Selbsttäuschung","Verblendung","",null,null,"see",3383,"Verblendung; Verblendungszusammenhang",
+  "selbsttauschung"
+ ],
+ ["Selbsttötung","Selbstmord","",null,null,"ref",2842,"Selbstmord","selbsttotung"],
  ["Selbsttranszendenz","Wohlwollen","","12","1011","ref",3653,"Wohlwollen","selbsttranszendenz"],
  ["Selbstüberhebung","Hochmut","2","3","1151","ref",1286,"Hochmut","selbstuberhebung"],
- ["Selbstüberstieg","Transzendenz Selbstüberwindung","",null,null,"ref",null,null,"selbstuberstieg"],
+ [
+  "Selbstüberstieg","Transzendenz","",null,null,"ref",3223,"Transzendenz; Transzendieren",
+  "selbstuberstieg"
+ ],
+ ["Selbstüberwindung","Überwindung","",null,null,"ref",3267,"Überwindung","selbstuberwindung"],
  ["Selbstursächlichkeit","Causa sui","",null,null,"ref",479,"Causa sui","selbstursachlichkeit"],
  [
   "Selbstverachtung","Selbstverleugnung","",null,null,"ref",2852,"Selbstverleugnung",
@@ -1551,9 +1695,10 @@ HWPH.put("r/73-65",
   "selbstverleugnung"
  ],
  [
-  "Selbstverleugnung","Resignation Selbstverleugnung","",null,null,"see",null,null,
+  "Selbstverleugnung","Resignation","",null,null,"see",2693,"Resignation, resignieren",
   "selbstverleugnung"
  ],
+ ["Selbstverleugnung","Gelassenheit","II","3","222","ref",1041,"Gelassenheit","selbstverleugnung"],
  ["Selbstverliebtheit","Eitelkeit","","2","431","ref",698,"Eitelkeit","selbstverliebtheit"],
  ["Selbstverliebtheit","Hochmut","2","3","1151","ref",1286,"Hochmut","selbstverliebtheit"],
  [
@@ -1655,7 +1800,7 @@ HWPH.put("r/73-65",
   "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","selbstwertgefuhl"
  ],
  [
-  "Selbstwertgefühl","Narzissmus II","",null,null,"ref",2069,"Narzißmus, narzißtisch",
+  "Selbstwertgefühl","Narzissmus","II",null,null,"ref",2069,"Narzißmus, narzißtisch",
   "selbstwertgefuhl"
  ],
  ["Selbstwertgefühl","Eitelkeit","","2","431","ref",698,"Eitelkeit","selbstwertgefuhl"],
@@ -1668,7 +1813,14 @@ HWPH.put("r/73-65",
  ],
  ["Selbstwiderlegung","Widerlegung","","12","683f.","ref",3605,"Widerlegung","selbstwiderlegung"],
  ["Selbstwiderspruch","Insolubilia","",null,null,"ref",1450,"Insolubilia","selbstwiderspruch"],
- ["Selbstwiderspruch","Widerspruch","",null,null,"ref",3607,"Widerspruch","selbstwiderspruch"],
+ [
+  "Selbstwiderspruch","Widerspruch, performativer","",null,null,"ref",3607,"Widerspruch",
+  "selbstwiderspruch"
+ ],
+ [
+  "Selbstwiederholung","Wiederholung","","12","739ff.","ref",3616,"Wiederholung",
+  "selbstwiederholung"
+ ],
  ["Selbstwohl","Selbstsein","","9","521f.","ref",2847,"Selbstsein","selbstwohl"],
  ["Selbstzeitigung","Abbildtheorie","",null,null,"ref",18,"Abbildtheorie","selbstzeitigung"],
  ["Selbstzerknirschung","Reue","","8","949","ref",2702,"Reue","selbstzerknirschung"],
@@ -1739,7 +1891,8 @@ HWPH.put("r/73-65",
  ],
  ["self","Ich","",null,null,"ref",1334,"Ich","self"],
  ["self","Selbst","",null,null,"ref",2820,"Selbst","self"],
- ["self","Identität","",null,null,"ref",1366,"Identität","self"],
+ ["self","Identität; Ich-Identität","","4","149","ref",1367,"Identität, Ich-Identität","self"],
+ ["self","Person","III 4","7","305","ref",2318,"Person","self"],
  [
   "self-actualization","Selbstverwirklichung","",null,null,"ref",2854,
   "Selbstverwirklichung, Selbstaktualisierung","self-actualization"
@@ -1751,24 +1904,18 @@ HWPH.put("r/73-65",
  ["self-applause","Selbstachtung","","9","314","ref",2821,"Selbstachtung","self-applause"],
  ["self-assessment","Sinn des Lebens","","9","819","ref",2890,"Sinn des Lebens","self-assessment"],
  [
-  "self-awareness","Selbstbewusstsein III self-cognition","",null,null,"ref",null,null,
+  "self-awareness","Selbstbewusstsein","III",null,null,"ref",2828,"Selbstbewußtsein",
   "self-awareness"
  ],
- [
-  "Selbsterkenntnis","Selbsterkenntnis","",null,null,"main",2833,"Selbsterkenntnis",
-  "selbsterkenntnis"
- ],
+ ["self-cognition","Selbsterkenntnis","",null,null,"ref",2833,"Selbsterkenntnis","self-cognition"],
  ["self-command","Tugend","III","10","1558","ref",3239,"Tugend","self-command"],
  ["self-concern","Sinn des Lebens","","9","819","ref",2890,"Sinn des Lebens","self-concern"],
  ["self-concernment","Selbstsucht","","9","536","ref",2849,"Selbstsucht","self-concernment"],
  [
-  "self-consciousness","Selbstbewusstsein self-control","",null,null,"ref",null,null,
+  "self-consciousness","Selbstbewusstsein","",null,null,"ref",2828,"Selbstbewußtsein",
   "self-consciousness"
  ],
- [
-  "Selbstbeherrschung","Selbstbeherrschung","",null,null,"main",2824,"Selbstbeherrschung",
-  "selbstbeherrschung"
- ],
+ ["self-control","Selbstbeherrschung","",null,null,"ref",2824,"Selbstbeherrschung","self-control"],
  ["self-deception","Selbsttäuschung","",null,null,"ref",2850,"Selbsttäuschung","self-deception"],
  ["self-delusion","Selbsttäuschung","",null,null,"ref",2850,"Selbsttäuschung","self-delusion"],
  ["self-denial","Selbstverleugnung","",null,null,"ref",2852,"Selbstverleugnung","self-denial"],
@@ -1785,7 +1932,7 @@ HWPH.put("r/73-65",
  ["Self-evidence","Self-evidence","","9","569f.","main",2857,"Self-evidence","self-evidence"],
  ["Self-evidence","Evidenz","",null,null,"see",850,"Evidenz","self-evidence"],
  [
-  "self-evidencing","Erklären II (wiss.)","","2","697","ref",801,"Erklären, Erklärung",
+  "self-evidencing","Erklären","II (wiss.)","2","697","ref",801,"Erklären, Erklärung",
   "self-evidencing"
  ],
  ["self-feeling","Selbstgefühl","",null,null,"ref",2836,"Selbstgefühl","self-feeling"],
@@ -1803,7 +1950,8 @@ HWPH.put("r/73-65",
   "self-fulfilling tendencies"
  ],
  ["self-hatred","Selbsthass","",null,null,"ref",2837,"Selbsthaß","self-hatred"],
- ["self-hatred","Selbsthass, jüdischer selfhood","",null,null,"ref",2837,"Selbsthaß","self-hatred"],
+ ["self-hatred","Selbsthass, jüdischer","",null,null,"ref",2838,"Selbsthaß, jüdischer","self-hatred"],
+ ["selfhood","Tugendlehre","","10","1572","ref",3240,"Tugendlehre","selfhood"],
  ["self-indulgence","Stolz","","10","207","ref",3034,"Stolz","self-indulgence"],
  ["self-interest","Interesse","I",null,null,"ref",1475,"Interesse","self-interest"],
  ["self-interest","Eigennutz","","2","333","ref",664,"Eigennutz","self-interest"],
@@ -1838,17 +1986,14 @@ HWPH.put("r/73-65",
   "self-preservation"
  ],
  [
-  "self-realization","Selbstverwirklichung self-reference","",null,null,"ref",null,null,
-  "self-realization"
+  "self-realization","Selbstverwirklichung","",null,null,"ref",2854,
+  "Selbstverwirklichung, Selbstaktualisierung","self-realization"
  ],
  [
-  "Selbstbewusstsein III","Selbstbewusstsein III","",null,null,"main",2828,"Selbstbewußtsein",
-  "selbstbewusstsein iii"
+  "self-reference","Selbstbewusstsein","III",null,null,"ref",2828,"Selbstbewußtsein",
+  "self-reference"
  ],
- [
-  "Selbstbewusstsein III","Selbstreferenz","",null,null,"ref",2845,"Selbstreferenz",
-  "selbstbewusstsein iii"
- ],
+ ["self-reference","Selbstreferenz","",null,null,"ref",2845,"Selbstreferenz","self-reference"],
  ["self-refuting","Autofalsifikation","",null,null,"ref",320,"Autofalsifikation","self-refuting"],
  ["self-refuting","Widerlegung","","12","683","ref",3605,"Widerlegung","self-refuting"],
  ["self-regard","Selbstachtung","",null,null,"ref",2821,"Selbstachtung","self-regard"],
@@ -1860,7 +2005,8 @@ HWPH.put("r/73-65",
  ],
  ["self-satisfaction","Selbstachtung","","9","314","ref",2821,"Selbstachtung","self-satisfaction"],
  ["self-warrant","Unkorrigierbarkeit","","11","235","ref",3313,"Unkorrigierbarkeit","self-warrant"],
- ["self-will","Eigenwille Seligkeit","",null,null,"ref",null,null,"self-will"],
+ ["self-will","Eigenwille","",null,null,"ref",671,"Eigenwille, Eigensinn","self-will"],
+ ["Seligkeit","Reich Gottes","","8","524","ref",2658,"Reich Gottes","seligkeit"],
  [
   "Seligkeit, ewige","Seligkeit, ewige","","9","574–580","main",2859,"Seligkeit, ewige",
   "seligkeit, ewige"
@@ -1910,20 +2056,21 @@ HWPH.put("r/73-65",
   "Vollständigkeit/Unvollständigkeit","semantisch vollstandig"
  ],
  [
-  "semantische Kategorie","Kategorie, syntaktische/semantische σημασία","",null,null,"ref",1540,
+  "semantische Kategorie","Kategorie, syntaktische/semantische","",null,null,"ref",1540,
   "Kategorie, Kategorienlehre","semantische kategorie"
  ],
  ["Semasiologie","Semasiologie","","9","598f.","main",2863,"Semasiologie","semasiologie"],
  ["Semasiologie","Bedeutungslehre","",null,null,"see",351,"Bedeutungslehre","semasiologie"],
- ["Semasiologie","Semantik Semasiologie","",null,null,"see",null,null,"semasiologie"],
- ["Semiotik","Semiotik","I","9","601","main",2865,"Semiotik, Semiologie","semiotik"],
+ ["Semasiologie","Semantik","",null,null,"see",2861,"Semantik, semantisch","semasiologie"],
+ ["Semasiologie","Semiotik","I","9","601","ref",2865,"Semiotik, Semiologie","semasiologie"],
  ["Sematologie","Semantik","","9","582","ref",2861,"Semantik, semantisch","sematologie"],
  ["Sematologie","Semiotik","I","9","601","ref",2865,"Semiotik, Semiologie","sematologie"],
  ["semeiologia","Semiotik","II","9","602","ref",2865,"Semiotik, Semiologie","semeiologia"],
- ["semeiotica","Semiotik II Semem","",null,null,"ref",null,null,"semeiotica"],
+ ["semeiotica","Semiotik","II",null,null,"ref",2865,"Semiotik, Semiologie","semeiotica"],
+ ["Semem","Sem; Semem","",null,null,"ref",2860,"Sem, Semem","semem"],
  [
-  "Sem; Semem semen animae","Sem; Semem semen animae","",null,null,"main",2860,"Sem, Semem",
-  "sem; semem semen animae"
+  "semen animae","Generatianismus; Traduzianismus","","3","272","ref",1064,
+  "Generatianismus und Traduzianismus","semen animae"
  ],
  ["semen religionis","Religion","IV","8","643","ref",2673,"Religion","semen religionis"],
  [
@@ -1946,8 +2093,8 @@ HWPH.put("r/73-65",
   "semiotica universalis"
  ],
  [
-  "Semiotik s. auch","Register der Sachgruppen: Sprachphilosophie und Semiotik","",null,null,"ref",
-  null,null,"semiotik s. auch"
+  "Semiotik","Register der Sachgruppen: Sprachphilosophie und Semiotik","",null,null,"see",null,null,
+  "semiotik"
  ],
  ["Semiotik","Semiotik","","9","601–609","main",2865,"Semiotik, Semiologie","semiotik"],
  ["Semiotik","Pragmatik","",null,null,"see",2434,"Pragmatik","semiotik"],
@@ -1960,8 +2107,16 @@ HWPH.put("r/73-65",
  ],
  ["Semiotik der Affekte","Pathognomik","",null,null,"ref",2291,"Pathognomik","semiotik der affekte"],
  [
-  "Semipelagianismus","Pelagianismus; Semipelagianismus Semiramismus","",null,null,"ref",2304,
+  "Semipelagianismus","Pelagianismus; Semipelagianismus","",null,null,"ref",2304,
   "Pelagianismus, Semipelagianismus","semipelagianismus"
+ ],
+ [
+  "Semiramismus","Ramismus; Semiramismus","",null,null,"ref",2564,"Ramismus, Semiramismus",
+  "semiramismus"
+ ],
+ [
+  "Semi-Skeptiker","Skepsis; Skeptizismus","II","9","954","ref",2907,"Skepsis; Skeptizismus",
+  "semi-skeptiker"
  ],
  ["Semisozinianismus","Sozinianismus","","9","1259f.","ref",2955,"Sozinianismus","semisozinianismus"],
  ["Semitismus","Antisemitismus","","1","415","ref",190,"Antisemitismus","semitismus"],
@@ -2050,11 +2205,13 @@ HWPH.put("r/73-65",
   "sensibilite physique"
  ],
  ["sensibility","Sensibilité","",null,null,"ref",2866,"Sensibilité","sensibility"],
- ["sensibility","Sinnlichkeit sensible data","",null,null,"ref",null,null,"sensibility"],
+ ["sensibility","Sinnlichkeit","",null,null,"ref",2901,"Sinnlichkeit; sinnlich","sensibility"],
+ ["sensible data","Sinnesdaten","",null,null,"ref",2894,"Sinnesdaten","sensible data"],
  ["sensible qualities","Qualität","III","7","1770","ref",2544,"Qualität","sensible qualities"],
  ["sensing","Sinnesdaten","","9","879f.","ref",2894,"Sinnesdaten","sensing"],
  ["sensio interna","Sinne, die","","9","843","ref",2892,"Sinne, die","sensio interna"],
- ["sensitivus","Sinnlichkeit Sensomotorik","",null,null,"ref",null,null,"sensitivus"],
+ ["sensitivus","Sinnlichkeit","",null,null,"ref",2901,"Sinnlichkeit; sinnlich","sensitivus"],
+ ["Sensomotorik","Koordination","","4","1092","ref",1658,"Koordination","sensomotorik"],
  ["sensorium","Sinne, die","","9","830","ref",2892,"Sinne, die","sensorium"],
  ["sensorium commune","Seelensitz","","9","107","ref",2798,"Seelensitz","sensorium commune"],
  [
@@ -2070,7 +2227,9 @@ HWPH.put("r/73-65",
  ["Sensualismus","Empfindung","",null,null,"see",723,"Empfindung","sensualismus"],
  ["Sensualismus","Sinne, die","",null,null,"see",2892,"Sinne, die","sensualismus"],
  ["Sensualismus","Sinnesdaten","",null,null,"see",2894,"Sinnesdaten","sensualismus"],
- ["Sensualismus","Wahrnehmung","",null,null,"see",3539,"Wahrnehmung","sensualismus"],
+ ["Sensualismus","Wahrnehmung","III-IV",null,null,"see",3539,"Wahrnehmung","sensualismus"],
+ ["sensualitas","Sinnlichkeit","",null,null,"ref",2901,"Sinnlichkeit; sinnlich","sensualitas"],
+ ["sensualitas","Sensibilité","","9","609","ref",2866,"Sensibilité","sensualitas"],
  [
   "sensuelle Hyle","Hyle, sensuelle","(Husserl)",null,null,"ref",1319,"Hyle, sensuelle",
   "sensuelle hyle"
@@ -2083,13 +2242,9 @@ HWPH.put("r/73-65",
   "sensus communis"
  ],
  [
-  "Sensus communis","Consensus omnium; consensus gentium","",null,null,"see",511,
+  "Sensus communis","Consensus omnium; consensus","",null,null,"see",511,
   "Consensus omnium, consensus gentium","sensus communis"
  ],
- ["Sensus communis","Gemeinsinn","",null,null,"see",1050,"Gemeinsinn","sensus communis"],
- ["Sensus communis","Geschmack","",null,null,"see",1097,"Geschmack","sensus communis"],
- ["Sensus communis","Lumen naturale","",null,null,"see",1836,"Lumen naturale","sensus communis"],
- ["Sensus communis","Sinne, die","",null,null,"see",2892,"Sinne, die","sensus communis"],
  ["sensus communis","Herz","","3","1109","ref",1265,"Herz","sensus communis"],
  ["sensus communis","Leben","IV","5","69","ref",1735,"Leben","sensus communis"],
  ["sensus communis","Phantasia","III","7","529f.","ref",2348,"Phantasia","sensus communis"],
@@ -2135,7 +2290,7 @@ HWPH.put("r/73-65",
   "sensus moralis","Moral; Moralphilosophie","I","6","150","ref",2022,
   "Moral, moralisch, Moralphilosophie","sensus moralis"
  ],
- ["sensus mysticus","Emblem I (lit.)","","2","450","ref",716,"Emblem, Emblematik","sensus mysticus"],
+ ["sensus mysticus","Emblem","I (lit.)","2","450","ref",716,"Emblem, Emblematik","sensus mysticus"],
  ["sensus mysticus","Mystik","I","6","268f.","ref",2050,"Mystik, mystisch","sensus mysticus"],
  ["sensus mysticus","Natur","II","6","443","ref",2074,"Natur","sensus mysticus"],
  [
@@ -2179,9 +2334,10 @@ HWPH.put("r/73-65",
   "sentiment de sa propre valeur"
  ],
  [
-  "sentiment d'infériorité","Minderwertigkeitsgefühl sentiment intérieur","",null,null,"ref",null,
-  null,"sentiment d'inferiorite"
+  "sentiment d'infériorité","Minderwertigkeitsgefühl","",null,null,"ref",1976,
+  "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","sentiment d'inferiorite"
  ],
+ ["sentiment intérieur","Idee","III","4","106","ref",1361,"Idee","sentiment interieur"],
  [
   "sentiment of humanity","Selbstliebe","II","9","479","ref",2840,"Selbstliebe",
   "sentiment of humanity"
@@ -2226,7 +2382,7 @@ HWPH.put("r/73-65",
   "sequenzenkalkul"
  ],
  [
-  "serendipity","Zweckmässigkeit, sekundäre objektive (Gehlen)","","12","1510","ref",3719,
+  "serendipity","Zweckmässigkeit, sekundäre objektive","(Gehlen)","12","1510","ref",3719,
   "Zweckmäßigkeit, sekundäre objektive","serendipity"
  ],
  ["serenitas animi","Seelenruhe","II","9","99","ref",2797,"Seelenruhe","serenitas animi"],
@@ -2235,11 +2391,7 @@ HWPH.put("r/73-65",
  ["Series","Kontinuitätsgesetz","",null,null,"see",1639,"Kontinuitätsgesetz","series"],
  ["Series","Stufen","",null,null,"see",3044,"Stufen","series"],
  ["Series","Verkettung","",null,null,"see",3413,"Verkettung","series"],
- [
-  "series causarum","Nexus universalis","",null,null,"ref",2132,"Nexus, Nexus universalis",
-  "series causarum"
- ],
- ["series causarum","Schicksal","","8","1276","ref",2764,"Schicksal","series causarum"],
+ ["series causarum","Nexus","",null,null,"ref",2132,"Nexus, Nexus universalis","series causarum"],
  [
   "series temporum","Weltgeschichte","","12","481","ref",3567,"Weltgeschichte; Universalgeschichte",
   "series temporum"
@@ -2255,7 +2407,14 @@ HWPH.put("r/73-65",
   "sermo interior/exterior"
  ],
  ["sermo interior/exterior","Stimme","","10","164ff.","ref",3025,"Stimme","sermo interior/exterior"],
- ["sermo interior/exterior","Wort","",null,null,"ref",3656,"Wort","sermo interior/exterior"],
+ [
+  "sermo interior/exterior","Wort, inneres","","12","1039","ref",3657,"Wort, inneres; Rede, innere",
+  "sermo interior/exterior"
+ ],
+ [
+  "sermocinalis philosophus","Sprache","II","9","1460","ref",2985,"Sprache",
+  "sermocinalis philosophus"
+ ],
  [
   "sermocinalis scientia","Scientia sermocinalis/realis","",null,null,"ref",2792,
   "Scientia sermocinalis/realis","sermocinalis scientia"
@@ -2270,7 +2429,7 @@ HWPH.put("r/73-65",
  ["Setzen","Grundsatz","",null,null,"see",1196,"Grundsatz","setzen"],
  ["Setzen","These","",null,null,"see",3186,"These","setzen"],
  [
-  "Setzen (Husserl)","Bewusstsein, positionales (Husserl)","",null,null,"ref",416,
+  "Setzen (Husserl)","Bewusstsein, positionales","(Husserl)",null,null,"ref",416,
   "Bewußtsein, positionales","setzen (husserl)"
  ],
  ["Setzen (Husserl)","Urdoxa","(Husserl)",null,null,"ref",3341,"Urdoxa","setzen (husserl)"],
@@ -2306,13 +2465,9 @@ HWPH.put("r/73-65",
  ["Sexualtrieb","Libido","",null,null,"ref",1791,"Libido","sexualtrieb"],
  ["Sexualtrieb","Trieb","II (psych.)","10","1489ff.","ref",3229,"Trieb","sexualtrieb"],
  ["Sexualwiderstand","Ambivalenz","","1","204","ref",114,"Ambivalenz","sexualwiderstand"],
- ["Sexus","Genus; Sexus sexus sequior","",null,null,"ref",991,"Gattung, Genus","sexus"],
+ ["Sexus","Genus; Sexus","",null,null,"ref",991,"Gattung, Genus","sexus"],
+ ["sexus sequior","Weiblich/männlich","II","12","354","ref",3552,"Weiblich/männlich","sexus sequior"],
  ["še'ôl","Verdammung","","11","599","ref",3389,"Verdammung; Verwerfung","se'ol"],
- ["Sein; Seiendes","Sein; Seiendes","V 6","9","219","main",2806,"Sein; Seiendes","sein; seiendes"],
- ["Sein; Seiendes","Unsagbare, das","","11","259","ref",3317,"Unsagbare, das","sein; seiendes"],
- ["Series","Series","II","9","693","main",2875,"Series","series"],
- ["Seelenruhe","Seelenruhe","",null,null,"main",2797,"Seelenruhe","seelenruhe"],
- ["Selbstsein","Selbstsein","","9","520","main",2847,"Selbstsein","selbstsein"],
  ["Seck Carsten","Zahlentheorie","","12","1145–1148","author",3671,"Zahlentheorie","seck carsten"],
  [
   "Seebass Gottfried","Soteriologie","","9","1102–1104","author",2932,"Soteriologie",
@@ -2336,7 +2491,7 @@ HWPH.put("r/73-65",
   "Organisch/aorgisch","seifert angelika"
  ],
  [
-  "Seigfried Adam","Lohn II (theol.)","","5","509–513","author",1828,"Lohn, Verdienst",
+  "Seigfried Adam","Lohn","II (theol.)","5","509–513","author",1828,"Lohn, Verdienst",
   "seigfried adam"
  ],
  ["Seigfried Adam","Macht","VI (jüd.)","5","629f.","author",1844,"Macht","seigfried adam"],
@@ -2348,8 +2503,8 @@ HWPH.put("r/73-65",
   "seigfried adam"
  ],
  ["Seils Martin","Ärgernis","","1","504f.","author",243,"Ärgernis","seils martin"],
- ["Seils Martin","Ganz Andere","",null,null,"author",985,"Ganz Andere","seils martin"],
- ["Seils Martin","Gott","VII",null,null,"author",1162,"Gott","seils martin"],
+ ["Seils Martin","Ganz Andere, das","(Otto)","3","3","author",985,"Ganz Andere","seils martin"],
+ ["Seils Martin","Gott","VII 2a","3","751–753","author",1162,"Gott","seils martin"],
  ["Seils Martin","Gottes Mummerei","","3","835","author",1171,"Gottes Mummerei","seils martin"],
  [
   "Seils Martin","Idiomatum communicatio","","4","186f.","author",1376,"Idiomatum communicatio",

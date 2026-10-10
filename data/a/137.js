@@ -18,8 +18,8 @@ HWPH.put("a/137",
  "backlinks":[{"id":3625,"lemma":"Wir","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Ich, anderes","qualifier":"","band":null,"col":null},
-  {"term":"Selbst, anderes","qualifier":"","band":null,"col":null}
+  {"term":"Ich, anderes","qualifier":"","band":"1","col":"296"},
+  {"term":"Selbst, anderes","qualifier":"","band":"1","col":"296"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

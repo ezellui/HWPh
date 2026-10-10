@@ -27,7 +27,7 @@ HWPH.put("a/3305",
  ],
  "register":[
   {"term":"Dichtart, romantische","qualifier":"","band":null,"col":null},
-  {"term":"Literaturkritik II 4 1288f. Kritik, divinatorische","qualifier":"","band":"11","col":"208"},
+  {"term":"Kritik, divinatorische","qualifier":"","band":"11","col":"208"},
   {"term":"Philosophie, orphische","qualifier":"","band":"11","col":"208"},
   {"term":"Poesie, romantische","qualifier":"","band":null,"col":null},
   {"term":"Reflektion, poetische","qualifier":"","band":"11","col":"208"},

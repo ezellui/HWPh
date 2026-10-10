@@ -20,7 +20,10 @@ HWPH.put("a/3428",
   {"id":3455,"lemma":"Verwissenschaftlichung","n":1}
  ],
  "outlinks":[{"id":2731,"lemma":"Sachlichkeit","n":1}],
- "register":[{"term":"Sachzwang","qualifier":"","band":"11","col":"873f."}],
+ "register":[
+  {"term":"Personifizierung der Sache","qualifier":"","band":"11","col":"872"},
+  {"term":"Sachzwang","qualifier":"","band":"11","col":"873f."}
+ ],
  "persons":[
   {"id":17,"name":"K. Marx","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":303,"name":"H. Schelsky","b":1,"n":3,"l":0,"editor":0,"role":"mixed"},
@@ -56,7 +59,7 @@ HWPH.put("a/3428",
   {"id":1099,"lemma":"Gesellschaft","tf":2},
   {"id":2640,"lemma":"Regel","tf":2}
  ],
- "see_also":[{"id":2731,"lemma":"Sachlichkeit"}],
+ "see_also":[{"id":2731,"lemma":"Sachlichkeit"},{"id":3391,"lemma":"Verdinglichung; Vergegenständlichung"}],
  "groups":[{"id":42,"name":"Soziologie","label":"Versachlichung"}],
  "reg_authors":[{"name":"Steinmetz Willibald","n":1}]
 }

@@ -27,8 +27,8 @@ HWPH.put("a/823",
   {"term":"Anpassung (theol.)","qualifier":"","band":"2","col":"736"},
   {"term":"Erziehung, ästhetische","qualifier":"","band":"2","col":"738"},
   {"term":"Menschengeschlecht","qualifier":"","band":null,"col":null},
-  {"term":"παιδαγωγός","qualifier":"","band":"2","col":"735"},
-  {"term":"– I (anthr.) 1 322–325 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Offenbarung","qualifier":"","band":null,"col":null},
+  {"term":"παιδαγωγός","qualifier":"","band":"2","col":"735"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

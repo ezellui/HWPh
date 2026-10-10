@@ -22,6 +22,7 @@ HWPH.put("a/2044",
   {"term":"Freizeit","qualifier":"","band":"6","col":"259"},
   {"term":"leisure class","qualifier":"","band":"6","col":"260"},
   {"term":"loisir","qualifier":"","band":null,"col":null},
+  {"term":"otium","qualifier":"","band":null,"col":null},
   {"term":"σχολή","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -25,6 +25,10 @@ HWPH.put("a/3265",
   {"id":3258,"lemma":"Überirdisch","n":1}
  ],
  "register":[
+  {"term":"phaenomenon (Kant)","qualifier":"","band":null,"col":null},
+  {"term":"super sensus","qualifier":"","band":null,"col":null},
+  {"term":"supersensible","qualifier":"","band":null,"col":null},
+  {"term":"supra sensum","qualifier":"","band":null,"col":null},
   {"term":"überwirklich","qualifier":"","band":"11","col":"65"},
   {"term":"unsinnlich","qualifier":"","band":"11","col":"65"}
  ],

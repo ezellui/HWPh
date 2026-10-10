@@ -29,6 +29,7 @@ HWPH.put("a/1041",
   {"term":"Gleichgültigkeit","qualifier":"II","band":"3","col":"222"},
   {"term":"indifférence","qualifier":"II","band":"3","col":"222"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
+  {"term":"Selbstverleugnung","qualifier":"II","band":"3","col":"222"},
   {"term":"Willenslosigkeit","qualifier":"I","band":null,"col":null},
   {"term":"ἀταραξία","qualifier":"II","band":"3","col":"222"}
  ],
@@ -127,7 +128,8 @@ HWPH.put("a/1041",
  "see_also":[
   {"id":272,"lemma":"Ataraxie"},
   {"id":570,"lemma":"Désintéressement"},
-  {"id":671,"lemma":"Eigenwille, Eigensinn"}
+  {"id":671,"lemma":"Eigenwille, Eigensinn"},
+  {"id":2693,"lemma":"Resignation, resignieren"}
  ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Gelassenheit II"},

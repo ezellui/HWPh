@@ -19,6 +19,7 @@ HWPH.put("a/1729",
  "outlinks":[],
  "register":[
   {"term":"Gewöhnung","qualifier":"","band":"5","col":"35"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"habitus","qualifier":"","band":"5","col":"35"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"vitium","qualifier":"","band":null,"col":null},

@@ -36,8 +36,7 @@ HWPH.put("a/1571",
   {"term":"confuse/distincte","qualifier":"","band":"4","col":"847"},
   {"term":"Deutlichkeit","qualifier":"","band":null,"col":null},
   {"term":"distincte/confuse","qualifier":"","band":null,"col":null},
-  {"term":"Unterscheidbarkeit","qualifier":"","band":"4","col":"846"},
-  {"term":"– I (erk.) 2 456–464 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Unterscheidbarkeit","qualifier":"","band":"4","col":"846"}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":2,"l":0,"editor":0,"role":"source"},

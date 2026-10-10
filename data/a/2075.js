@@ -27,7 +27,10 @@ HWPH.put("a/2075",
   {"id":2730,"lemma":"Sache","n":1}
  ],
  "outlinks":[],
- "register":[{"term":"Lebensverhältnisse","qualifier":"","band":"6","col":"481"}],
+ "register":[
+  {"term":"Lebensverhältnisse","qualifier":"","band":"6","col":"481"},
+  {"term":"natura rerum","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":2664,"name":"R. Dreier","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},

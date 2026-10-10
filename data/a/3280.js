@@ -25,10 +25,12 @@ HWPH.put("a/3280",
  ],
  "outlinks":[{"id":27,"lemma":"Absolut, das Absolute","n":1}],
  "register":[
+  {"term":"Absolute","qualifier":"","band":null,"col":null},
+  {"term":"categorica","qualifier":"","band":"11","col":"108"},
   {"term":"Dingheit","qualifier":"","band":"11","col":"110"},
   {"term":"Tathandlung","qualifier":"","band":"11","col":"109"},
   {"term":"übernatürlich","qualifier":"","band":"11","col":"109"},
-  {"term":"VII-VIII","qualifier":"","band":null,"col":null},
+  {"term":"unbedingbar","qualifier":"","band":"11","col":"109"},
   {"term":"Wagnis","qualifier":"","band":"11","col":"111"}
  ],
  "persons":[
@@ -108,14 +110,7 @@ HWPH.put("a/3280",
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[
-  {"id":27,"lemma":"Absolut, das Absolute"},
-  {"id":353,"lemma":"Bedingt"},
-  {"id":3298,"lemma":"Ungrund; Urgrund"},
-  {"id":3300,"lemma":"Unhintergehbarkeit"},
-  {"id":3334,"lemma":"Unvordenkliche, das"},
-  {"id":3488,"lemma":"Voraussetzungslosigkeit"}
- ],
+ "see_also":[{"id":27,"lemma":"Absolut, das Absolute"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Unbedingte, das"}],
  "reg_authors":[{"name":"Onnasch Ernst-Otto","n":4}]
 }

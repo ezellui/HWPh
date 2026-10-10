@@ -86,7 +86,7 @@ HWPH.put("a/3066",
   {"id":890,"lemma":"Fall, Abfall","tf":2},
   {"id":486,"lemma":"Charakter","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3058,"lemma":"Subordination"},{"id":2610,"lemma":"Rechtsnorm"}],
  "groups":[
   {"id":22,"name":"Logik","label":"Subsumtion I (log.)"},
   {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Subsumtion II (jur.)"}

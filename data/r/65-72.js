@@ -1,17 +1,5 @@
 HWPH.put("r/65-72",
 [
- [
-  "Erkenntnis I (erk.)","Erkenntnis I (erk.)","","2","649f.","main",796,"Erkennen, Erkenntnis",
-  "erkenntnis i (erk.)"
- ],
- [
-  "Erste Philosophie","Erste Philosophie","I",null,null,"main",816,"Erste Philosophie",
-  "erste philosophie"
- ],
- [
-  "Erdgeist Elementenlehre","Erdgeist Elementenlehre","",null,null,"main",null,null,
-  "erdgeist elementenlehre"
- ],
  ["Erbarmen","Barmherzigkeit","",null,null,"ref",344,"Barmherzigkeit","erbarmen"],
  ["Erbarmen","Strafe","I","10","213","ref",3035,"Strafe","erbarmen"],
  ["Erbarmen","Verstockung","","11","944","ref",3440,"Verstockung","erbarmen"],
@@ -45,7 +33,19 @@ HWPH.put("r/65-72",
  ["Ereignis","Kehre","(Heidegger)",null,null,"see",1556,"Kehre","ereignis"],
  ["Ereignis","Lichtung","(Heidegger)",null,null,"see",1794,"Lichtung","ereignis"],
  ["Ereignis","Seinsgeschichte","(Heidegger)",null,null,"see",2812,"Seinsgeschichte","ereignis"],
- ["Ereignis","Topologie","",null,null,"see",3205,"Topologie","ereignis"],
+ [
+  "Ereignis","Topologie des Seins","(Heidegger)",null,null,"see",3206,
+  "Topologie des Seins; Ortschaft des Seins","ereignis"
+ ],
+ ["Ereignis","Kausalgesetz","","4","791ff.","ref",1550,"Kausalgesetz","ereignis"],
+ ["Ereignis","Monade; Monas","III","6","124","ref",2010,"Monade, Monas","ereignis"],
+ ["Ereignis","Objekt","","6","1050","ref",2183,"Objekt","ereignis"],
+ ["Ereignis","Widerfahrnis","","12","680","ref",3604,"Widerfahrnis","ereignis"],
+ [
+  "Ereignis","Zweideutigkeit; Vieldeutigkeit","III","12","1519","ref",3721,
+  "Zweideutigkeit; Vieldeutigkeit","ereignis"
+ ],
+ ["Ereignis","Zwischen","","12","1547","ref",3727,"Zwischen","ereignis"],
  [
   "Ereignis, zufälliges","Wahrscheinlichkeit","IV A","12","277","ref",3540,"Wahrscheinlichkeit",
   "ereignis, zufalliges"
@@ -55,7 +55,7 @@ HWPH.put("r/65-72",
   "ereignis, zukunftiges"
  ],
  [
-  "Ereigniserklärung","Erklären II (wiss.)","",null,null,"ref",801,"Erklären, Erklärung",
+  "Ereigniserklärung","Erklären","II (wiss.)",null,null,"ref",801,"Erklären, Erklärung",
   "ereigniserklarung"
  ],
  ["Ereigniserklärung","Verstehen","","11","934f.","ref",3438,"Verstehen","ereigniserklarung"],
@@ -93,7 +93,18 @@ HWPH.put("r/65-72",
   "Erfahrung","Methode, transzendentale","",null,null,"ref",1967,"Methode, transzendentale",
   "erfahrung"
  ],
- ["Erfahrung","Vernunft; Verstand","",null,null,"ref",3423,"Vernunft; Verstand","erfahrung"],
+ ["Erfahrung","Vernunft; Verstand","V-VI",null,null,"ref",3423,"Vernunft; Verstand","erfahrung"],
+ ["Erfahrung","Wahrnehmung","III-IV",null,null,"ref",3539,"Wahrnehmung","erfahrung"],
+ ["Erfahrung","Erleben; Erlebnis","","2","705f.","ref",804,"Erleben, Erlebnis","erfahrung"],
+ ["Erfahrung","Möglichkeit","","6","87","ref",2005,"Möglichkeit","erfahrung"],
+ ["Erfahrung","Philosophie","IV H","7","753","ref",2353,"Philosophie","erfahrung"],
+ ["Erfahrung","Verhalten","","11","684","ref",3406,"Verhalten","erfahrung"],
+ [
+  "Erfahrung","Vernunft; Verstand","VII B (Schopenhauer)","11","833","ref",3423,"Vernunft; Verstand",
+  "erfahrung"
+ ],
+ ["Erfahrung","Verstehen","","11","920","ref",3438,"Verstehen","erfahrung"],
+ ["Erfahrung","Versuch und Irrtum","","11","950","ref",3441,"Versuch und Irrtum","erfahrung"],
  ["Erfahrung, ästhetische","Visio","",null,null,"ref",3468,"Visio","erfahrung, asthetische"],
  [
   "Erfahrung, ästhetische","Kunst; Kunstwerk","IV 7","4","1416","ref",1712,"Kunst, Kunstwerk",
@@ -108,8 +119,12 @@ HWPH.put("r/65-72",
   "Erfahrung, Analogien der","erfahrung, analogien der"
  ],
  [
-  "Erfahrung, Analogien der","Schema; Schematismus Erfahrung, aufgehellte","",null,null,"see",2760,
-  "Schema, Schematismus","erfahrung, analogien der"
+  "Erfahrung, Analogien der","Schema; Schematismus","",null,null,"see",2760,"Schema, Schematismus",
+  "erfahrung, analogien der"
+ ],
+ [
+  "Erfahrung, aufgehellte","Philosophie","IV G","7","748","ref",2353,"Philosophie",
+  "erfahrung, aufgehellte"
  ],
  [
   "Erfahrung, geistige","Vernunft; Verstand","VII D 4","11","844","ref",3423,"Vernunft; Verstand",
@@ -242,9 +257,11 @@ HWPH.put("r/65-72",
  ],
  ["Erfassung","Katalepsis","",null,null,"ref",1536,"Katalepsis","erfassung"],
  [
-  "Erfindung","Invention; Erfindung Erfindungskunst","",null,null,"ref",1490,
-  "Invention, Erfindung, Entdeckung","erfindung"
+  "Erfindung","Invention; Erfindung","",null,null,"ref",1490,"Invention, Erfindung, Entdeckung",
+  "erfindung"
  ],
+ ["Erfindungskunst","Heuristik","",null,null,"ref",1268,"Heuristik, heuristisch","erfindungskunst"],
+ ["Erfolg/Misserfolg","Anspruchsniveau","","1","356","ref",169,"Anspruchsniveau","erfolg/misserfolg"],
  ["Erfolgsethik","Erfolgsethik","(Scheler)","2","624","main",791,"Erfolgsethik","erfolgsethik"],
  [
   "erfüllte Gegenwart","Augenblick","(Kierkegaard)","1","649","ref",295,"Augenblick",
@@ -271,11 +288,20 @@ HWPH.put("r/65-72",
  ["Erhabene, das","Erhabene, das","","2","624–635","main",791,"Erfolgsethik","erhabene, das"],
  ["Erhabene, das","Enthusiasmus","",null,null,"see",748,"Enthusiasmus","erhabene, das"],
  [
-  "Erhabene, das","Pathetisch; das Pathetische","",null,null,"see",2289,
-  "Pathetisch, das Pathetische","erhabene, das"
+  "Erhabene, das","Pathetisch; das","",null,null,"see",2289,"Pathetisch, das Pathetische",
+  "erhabene, das"
  ],
- ["Erhabene, das","Pathos","",null,null,"see",2294,"Pathos","erhabene, das"],
- ["Erhabene, das","Schöne","",null,null,"see",2776,"Schöne","erhabene, das"],
+ ["Erhabene, das","Ästhetik","","1","565f.","ref",266,"Ästhetik, ästhetisch","erhabene, das"],
+ ["Erhabene, das","Ethik","IV","2","774","ref",835,"Ethik","erhabene, das"],
+ ["Erhabene, das","Geschmack","II","3","450","ref",1097,"Geschmack","erhabene, das"],
+ ["Erhabene, das","Lächerliche, das","","5","5","ref",1723,"Lächerliche","erhabene, das"],
+ ["Erhabene, das","Landschaft","III (ästh.)","5","23","ref",1726,"Landschaft","erhabene, das"],
+ ["Erhabene, das","Mass","II (ästh.)","5","817","ref",1877,"Maß","erhabene, das"],
+ ["Erhabene, das","Melancholie","II","5","1041","ref",1915,"Melancholie","erhabene, das"],
+ ["Erhabene, das","Naiv; Naivität","","6","360","ref",2063,"Naiv, Naivität","erhabene, das"],
+ ["Erhabene, das","Raum","V (ästh.)","8","110","ref",2578,"Raum","erhabene, das"],
+ ["Erhabene, das","Widerstand","II (erk.)","12","710","ref",3610,"Widerstand","erhabene, das"],
+ ["Erhabene, das","Yûgen","","12","1117","ref",3669,"Yûgen","erhabene, das"],
  ["Erhabenheit","Erhabene, das","II 3","2","632","ref",792,"Erhaben, das Erhabene","erhabenheit"],
  ["Erhaltung der Rasse","Staat","II","10","49","ref",2998,"Staat","erhaltung der rasse"],
  [
@@ -329,7 +355,9 @@ HWPH.put("r/65-72",
  ["Eristik","Dialektik","I",null,null,"see",583,"Dialektik","eristik"],
  ["Eristik","Megarisch","",null,null,"see",1907,"Megarisch","eristik"],
  ["Eristik","Sophistik","",null,null,"see",2926,"Sophistik; sophistisch; Sophist","eristik"],
- ["Eristik","Trugschluss Eristik","",null,null,"see",null,null,"eristik"],
+ ["Eristik","Trugschluss","",null,null,"see",3237,"Trugschluß","eristik"],
+ ["Eristik","Dialektik","IV 2. 1",null,null,"ref",583,"Dialektik","eristik"],
+ ["Eristik","Dialektik","II","2","168","ref",583,"Dialektik","eristik"],
  [
   "erkennbar","Intelligibel","",null,null,"ref",1467,
   "Intelligibel, das Intelligible, Intelligibilität","erkennbar"
@@ -365,8 +393,8 @@ HWPH.put("r/65-72",
  ["Erkenntnis","Erkenntnis","","2","643–681","main",796,"Erkennen, Erkenntnis","erkenntnis"],
  ["Erkenntnis","Denken","",null,null,"see",552,"Denken","erkenntnis"],
  [
-  "Erkenntnis","Erkenntnistheorie – I (erk.)","","2","643–662","see",796,"Erkennen, Erkenntnis",
-  "erkenntnis"
+  "Erkenntnis","Erkenntnistheorie","",null,null,"see",799,
+  "Erkenntnistheorie, Erkenntnislehre, Erkenntniskritik","erkenntnis"
  ],
  [
   "Erkenntnis","Connaturalitas, Erkenntnis durch","",null,null,"see",509,
@@ -375,6 +403,10 @@ HWPH.put("r/65-72",
  ["Erkenntnis","Rekognition","(Kant)",null,null,"see",2666,"Rekognition","erkenntnis"],
  ["Erkenntnis","Vernunft; Verstand","",null,null,"see",3423,"Vernunft; Verstand","erkenntnis"],
  ["Erkenntnis","Wissen","",null,null,"see",3634,"Wissen","erkenntnis"],
+ ["Erkenntnis","Kognition","",null,null,"see",1578,"Kognition, kognitiv","erkenntnis"],
+ ["Erkenntnis","Science, cognitive","",null,null,"see",2789,"Science, Cognitive","erkenntnis"],
+ ["Erkenntnis","Idee","II B 6","4","89","ref",1361,"Idee","erkenntnis"],
+ ["Erkenntnis","Vorstellung","I B","11","1232","ref",3503,"Vorstellung","erkenntnis"],
  [
   "Erkenntnis (ind.)","Vijñaptimātratā Erkenntnis, absolute","",null,null,"ref",null,null,
   "erkenntnis (ind.)"
@@ -468,7 +500,14 @@ HWPH.put("r/65-72",
   "Erkenntnis, sinnliche","Sinnlichkeit","","9","893","ref",2901,"Sinnlichkeit; sinnlich",
   "erkenntnis, sinnliche"
  ],
- ["Erkenntnis, sinnliche","Wahrheit","",null,null,"ref",3523,"Wahrheit","erkenntnis, sinnliche"],
+ [
+  "Erkenntnis, sinnliche","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","erkenntnis, sinnliche"
+ ],
+ [
+  "Erkenntnis, sinnliche","Wahrnehmung","VIII (ästh.)","12","236","ref",3539,"Wahrnehmung",
+  "erkenntnis, sinnliche"
+ ],
  [
   "Erkenntnis, symbolische","Intuition","","4","530ff.","ref",1487,"Intuition",
   "erkenntnis, symbolische"
@@ -486,8 +525,12 @@ HWPH.put("r/65-72",
   "erkenntnis, ursprung der"
  ],
  [
-  "Erkenntnis a priori/a posteriori","Apriori/aposteriori Erkenntnis des Absoluten","",null,null,
-  "ref",222,"Apriori, emotionales","erkenntnis a priori/a posteriori"
+  "Erkenntnis a priori/a posteriori","Apriori/aposteriori","",null,null,"ref",222,
+  "Apriori, emotionales","erkenntnis a priori/a posteriori"
+ ],
+ [
+  "Erkenntnis des Absoluten","Theosophie","","10","1159","ref",3182,"Theosophie",
+  "erkenntnis des absoluten"
  ],
  [
   "Erkenntnis des Erkannten","Philologie","","7","563f.","ref",2352,"Philologie",
@@ -520,11 +563,11 @@ HWPH.put("r/65-72",
   "erkenntnis gottes"
  ],
  [
-  "Erkenntnisakte","Erkenntnis II (psych.)","","2","665","ref",796,"Erkennen, Erkenntnis",
+  "Erkenntnisakte","Erkenntnis","II (psych.)","2","665","ref",796,"Erkennen, Erkenntnis",
   "erkenntnisakte"
  ],
  [
-  "Erkenntnisfunktionen","Erkenntnis II (psych.)","","2","664f.","ref",796,"Erkennen, Erkenntnis",
+  "Erkenntnisfunktionen","Erkenntnis","II (psych.)","2","664f.","ref",796,"Erkennen, Erkenntnis",
   "erkenntnisfunktionen"
  ],
  [
@@ -552,7 +595,7 @@ HWPH.put("r/65-72",
   "Erkenntnismetaphysik","erkenntnismetaphysik"
  ],
  [
-  "Erkenntnismetaphysik","Irrational; transintelligibel (Hartmann)","",null,null,"see",1497,
+  "Erkenntnismetaphysik","Irrational; transintelligibel","(Hartmann)",null,null,"see",1497,
   "Irrational, das Irrationale, Irrationalismus","erkenntnismetaphysik"
  ],
  [
@@ -569,10 +612,7 @@ HWPH.put("r/65-72",
  ],
  ["Erkenntnisprinzip","Prinzip","",null,null,"ref",2458,"Prinzip","erkenntnisprinzip"],
  ["Erkenntnisprinzip","Ratio","",null,null,"ref",2570,"Ratio","erkenntnisprinzip"],
- [
-  "Erkenntnistheorie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "erkenntnistheorie s. auch"
- ],
+ ["Erkenntnistheorie","Register der Sachgruppen","",null,null,"see",null,null,"erkenntnistheorie"],
  [
   "Erkenntnistheorie","Erkenntnistheorie","","2","683–690","main",799,
   "Erkenntnistheorie, Erkenntnislehre, Erkenntniskritik","erkenntnistheorie"
@@ -598,7 +638,7 @@ HWPH.put("r/65-72",
   "erkenntnisvermogen"
  ],
  [
-  "Erkenntnisvermögen","Erkenntnis II (psych.)","","2","664","ref",796,"Erkennen, Erkenntnis",
+  "Erkenntnisvermögen","Erkenntnis","II (psych.)","2","664","ref",796,"Erkennen, Erkenntnis",
   "erkenntnisvermogen"
  ],
  ["Erkenntnisvermögen","Horizont","II (erk.)","3","1196","ref",1310,"Horizont","erkenntnisvermogen"],
@@ -607,13 +647,32 @@ HWPH.put("r/65-72",
   "erkennungsschwelle"
  ],
  ["Erklären","Erklären","","2","690–701","main",801,"Erklären, Erklärung","erklaren"],
+ ["Erklären","Verstehen","",null,null,"see",3438,"Verstehen","erklaren"],
+ ["Erklären","Beschreibung","",null,null,"see",395,"Beschreibung","erklaren"],
+ ["Erklären","Definition","",null,null,"see",535,"Definition","erklaren"],
+ ["Erklären","Explikation","(Carnap)",null,null,"see",877,"Explikation","erklaren"],
+ ["Erklären","Gesetz","III (wiss.)",null,null,"see",1105,"Gesetz","erklaren"],
+ ["Erklären","Gesetze, statistische","",null,null,"see",1111,"Gesetze, statistische","erklaren"],
+ ["Erklären","Hypothese","II",null,null,"see",1330,"Hypothese, Hypothesis","erklaren"],
+ ["Erklären","Kausalgesetz","",null,null,"see",1550,"Kausalgesetz","erklaren"],
+ ["Erklären","Realgrund","",null,null,"see",2585,"Realgrund","erklaren"],
+ ["Erklären","Voraussage","",null,null,"see",3487,"Voraussage; Vorhersage; Prognose","erklaren"],
+ [
+  "Erklären/Verstehen","Realität, psychische","","8","201","ref",2592,"Realität, psychische",
+  "erklaren/verstehen"
+ ],
+ [
+  "Erklären/Verstehen","Schluss, praktischer","","8","1308f.","ref",2770,"Schluß, praktischer",
+  "erklaren/verstehen"
+ ],
+ ["Erklären/Verstehen","Verstehen","","11","932ff.","ref",3438,"Verstehen","erklaren/verstehen"],
  ["Erklärung","Definition","II",null,null,"ref",535,"Definition","erklarung"],
  ["Erklärung","Erklären","",null,null,"ref",801,"Erklären, Erklärung","erklarung"],
  ["Erklärung","Geschichten","","3","404","ref",1089,"Geschichten","erklarung"],
  ["Erklärung","Theorie","I","10","1142","ref",3179,"Theorie","erklarung"],
  ["Erklärung","Voraussage","","11","1158","ref",3487,"Voraussage; Vorhersage; Prognose","erklarung"],
  [
-  "Erklärung, statistische","Erklären II (wiss.)","","2","697ff.","ref",801,"Erklären, Erklärung",
+  "Erklärung, statistische","Erklären","II (wiss.)","2","697ff.","ref",801,"Erklären, Erklärung",
   "erklarung, statistische"
  ],
  ["Erklärungsgrund","Realgrund","","8","138","ref",2585,"Realgrund","erklarungsgrund"],
@@ -649,7 +708,15 @@ HWPH.put("r/65-72",
   "erleben; erlebnis"
  ],
  ["Erleben; Erlebnis","Nacherleben","",null,null,"see",2058,"Nacherleben","erleben; erlebnis"],
- ["Erleben; Erlebnis","Psychologie","",null,null,"see",2511,"Psychologie","erleben; erlebnis"],
+ [
+  "Erleben; Erlebnis","Psychologie, geisteswissenschaftliche","",null,null,"see",2511,"Psychologie",
+  "erleben; erlebnis"
+ ],
+ [
+  "Erleben; Erlebnis","Selbstbewusstsein","",null,null,"see",2828,"Selbstbewußtsein",
+  "erleben; erlebnis"
+ ],
+ ["Erleben; Erlebnis","Verstehen","",null,null,"see",3438,"Verstehen","erleben; erlebnis"],
  ["Erleben","Ausdruck","II (ästh.)","1","659","ref",298,"Ausdruck","erleben"],
  ["Erleben","Geist","IX","3","202","ref",1030,"Geist","erleben"],
  [
@@ -731,11 +798,9 @@ HWPH.put("r/65-72",
  ],
  ["Erleiden","Affekt","",null,null,"ref",53,"Affekt","erleiden"],
  [
-  "Erleiden","Passivität; passive Synthesis","",null,null,"ref",2288,"Passivität, passive Synthesis",
+  "Erleiden","Passivität; passive","",null,null,"ref",2288,"Passivität, passive Synthesis",
   "erleiden"
  ],
- ["Erleiden","Widerfahrnis","",null,null,"ref",3604,"Widerfahrnis","erleiden"],
- ["Erleiden","Phänomen","I","7","463","ref",2340,"Phänomen","erleiden"],
  ["erlernt","Angeboren/erworben","",null,null,"ref",141,"Angeboren/erworben, erlernt","erlernt"],
  ["Erleuchtung","Erleuchtung","","2","712–717","main",807,"Erleuchtung","erleuchtung"],
  ["Erleuchtung","Einigung","",null,null,"see",685,"Einigung","erleuchtung"],
@@ -835,7 +900,20 @@ HWPH.put("r/65-72",
  ["Erscheinung","Erscheinung","","2","724–726","main",814,"Erscheinung","erscheinung"],
  ["Erscheinung","Phänomen","",null,null,"see",2340,"Phänomen","erscheinung"],
  ["Erscheinung","Ding an sich","",null,null,"ref",604,"Ding an sich","erscheinung"],
- ["Erscheinung","Idealismus","",null,null,"ref",1343,"Idealismus","erscheinung"],
+ [
+  "Erscheinung","Idealismus, transzendentaler; Realismus, empirischer","(Kant)",null,null,"ref",1343,
+  "Idealismus","erscheinung"
+ ],
+ [
+  "Erscheinung","Noumenon/Phaenomenon","(Kant)",null,null,"ref",2172,"Noumenon/Phaenomenon",
+  "erscheinung"
+ ],
+ ["Erscheinung","Species","I (met.)",null,null,"ref",2966,"Species","erscheinung"],
+ ["Erscheinung","Materie","III","5","908f.","ref",1892,"Materie","erscheinung"],
+ ["Erscheinung","Objekt","","6","1038","ref",2183,"Objekt","erscheinung"],
+ ["Erscheinung","Sache","II","8","1096f.","ref",2730,"Sache","erscheinung"],
+ ["Erscheinung","Schein","I 5","8","1234","ref",2757,"Schein","erscheinung"],
+ ["Erscheinung","Systole/Diastole","","10","871","ref",3118,"Systole/Diastole","erscheinung"],
  [
   "Erscheinung, innere","Erleben; Erlebnis","","2","705","ref",804,"Erleben, Erlebnis",
   "erscheinung, innere"
@@ -867,7 +945,7 @@ HWPH.put("r/65-72",
   "Vitium subreptionis; Subreption","erschleichung"
  ],
  [
-  "Erschleichung","Ambiguität I (sprach.)","","1","202","ref",113,"Ambiguität (Amphibolie)",
+  "Erschleichung","Ambiguität","I (sprach.)","1","202","ref",113,"Ambiguität (Amphibolie)",
   "erschleichung"
  ],
  ["Erschleichung","Beweis","","1","884","ref",410,"Beweis","erschleichung"],
@@ -877,28 +955,36 @@ HWPH.put("r/65-72",
  ],
  ["Erschleichung","Transzendental","V","10","1381","ref",3219,"Transzendental","erschleichung"],
  [
-  "Erschliessen","Erschlossenheit (Heidegger) Erschlossenheit","",null,null,"ref",null,null,
+  "Erschliessen","Erschlossenheit","(Heidegger)",null,null,"ref",815,"Erschlossenheit, Erschließen",
   "erschliessen"
  ],
  [
-  "Erschlossenheit (Heidegger)","Erschlossenheit (Heidegger)","","2","726","main",815,
-  "Erschlossenheit, Erschließen","erschlossenheit (heidegger)"
+  "Erschlossenheit","Invention; Erfindung","III (log.)","4","554","ref",1490,
+  "Invention, Erfindung, Entdeckung","erschlossenheit"
  ],
  [
-  "Erschlossenheit (Heidegger)","Analytik des Daseins","(Heidegger)",null,null,"see",129,
-  "Analytik des Daseins","erschlossenheit (heidegger)"
+  "Erschlossenheit","Wahrheit, transzendentale","","12","169","ref",3533,"Wahrheit, transzendentale",
+  "erschlossenheit"
  ],
  [
-  "Erschlossenheit (Heidegger)","Insein","III (Heidegger)",null,null,"see",1449,"Insein",
-  "erschlossenheit (heidegger)"
+  "Erschlossenheit","Erschlossenheit","(Heidegger)","2","726","main",815,
+  "Erschlossenheit, Erschließen","erschlossenheit"
  ],
+ [
+  "Erschlossenheit","Analytik des Daseins","(Heidegger)",null,null,"see",129,"Analytik des Daseins",
+  "erschlossenheit"
+ ],
+ ["Erschlossenheit","Insein","III (Heidegger)",null,null,"see",1449,"Insein","erschlossenheit"],
  ["Ersetzung","Substitution","",null,null,"ref",3063,"Substitution","ersetzung"],
- ["Erstarrung","Kristallisation","",null,null,"ref",1692,"Kristallisation","erstarrung"],
+ ["Erstarrung","Kristallisation","2 (Gehlen)",null,null,"ref",1692,"Kristallisation","erstarrung"],
+ ["Erstaunen","Staunen","",null,null,"ref",3015,"Staunen; Bewunderung; Verwunderung","erstaunen"],
+ ["Erstaunen (jap.)","Aware","",null,null,"ref",338,"Aware","erstaunen (jap.)"],
  ["Erstbegriffe","Transzendental","II","10","1360","ref",3219,"Transzendental","erstbegriffe"],
  [
-  "erste/zweite Substanz","Substanz I erste Materie","",null,null,"ref",null,null,
+  "erste/zweite Substanz","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
   "erste/zweite substanz"
  ],
+ ["erste Materie","Materia prima","",null,null,"ref",1883,"Materia prima","erste materie"],
  [
   "Erste Philosophie","Erste Philosophie","","2","726–729","main",816,"Erste Philosophie",
   "erste philosophie"
@@ -918,12 +1004,16 @@ HWPH.put("r/65-72",
  ["Erstes","Ursprung","",null,null,"ref",3352,"Ursprung","erstes"],
  ["erstgebildet","Protoplast","",null,null,"ref",2496,"Protoplast","erstgebildet"],
  [
-  "Erstheit; Zweitheit; Drittheit (Peirce)","Erstheit; Zweitheit; Drittheit (Peirce)","","2","729f.",
-  "main",816,"Erste Philosophie","erstheit; zweitheit; drittheit (peirce)"
+  "Erstheit; Zweitheit; Drittheit","Erstheit; Zweitheit; Drittheit","(Peirce)","2","729f.","main",
+  817,"Erstheit, Zweitheit, Drittheit","erstheit; zweitheit; drittheit"
  ],
  [
-  "Erstheit; Zweitheit; Drittheit (Peirce)","Phaneroskopie (Peirce) Erstheit, Zweitheit, Drittheit",
-  "",null,null,"see",null,null,"erstheit; zweitheit; drittheit (peirce)"
+  "Erstheit; Zweitheit; Drittheit","Phaneroskopie","(Peirce)",null,null,"see",2339,
+  "Phaneroskopie, Phaneron","erstheit; zweitheit; drittheit"
+ ],
+ [
+  "Erstheit, Zweitheit, Drittheit","Kategorie; Kategorienlehre","IV","4","742","ref",1540,
+  "Kategorie, Kategorienlehre","erstheit, zweitheit, drittheit"
  ],
  [
   "Erstickungszustand, hysterischer","Hysterie","","3","1268","ref",1332,"Hysterie, hysterisch",
@@ -932,21 +1022,25 @@ HWPH.put("r/65-72",
  ["Erstmaterie","Materia prima","",null,null,"ref",1883,"Materia prima","erstmaterie"],
  ["Erstreben","Streben","",null,null,"ref",3038,"Streben","erstreben"],
  ["Erstursache","Causa prima","",null,null,"ref",477,"Causa prima","erstursache"],
- ["Erstursache","Ursache/Wirkung","",null,null,"ref",3350,"Ursache/Wirkung","erstursache"],
- ["erubescentia","Scham eruditio","",null,null,"ref",null,null,"erubescentia"],
+ ["Erstursache","Ursache/Wirkung","II-III",null,null,"ref",3350,"Ursache/Wirkung","erstursache"],
+ ["Erstursache","Primordialursachen","","7","1322","ref",2456,"Primordialursachen","erstursache"],
+ ["erubescentia","Scham","",null,null,"ref",2751,"Scham, Scheu","erubescentia"],
+ ["eruditio","Philologie","","7","557","ref",2352,"Philologie","eruditio"],
  ["Erwachen","Seele","IV","9","47","ref",2794,"Seele","erwachen"],
  ["Erwachen","Surrealismus","","10","684","ref",3090,"Surrealismus","erwachen"],
  ["Erwachen","Wachen, das","","12","4f.","ref",3512,"Wachen, das","erwachen"],
  ["Erwägung","Prohairesis","",null,null,"ref",2474,"Prohairesis","erwagung"],
  ["Erwählung","Erwählung","","2","730f.","main",818,"Erwählung","erwahlung"],
- ["Erwählung","Verdammung Erwählung","",null,null,"see",null,null,"erwahlung"],
+ ["Erwählung","Verdammung","",null,null,"see",3389,"Verdammung; Verwerfung","erwahlung"],
+ ["Erwählung","Prädestination","",null,null,"ref",2424,"Prädestination","erwahlung"],
+ ["Erwählung","Verstockung","","11","945","ref",3440,"Verstockung","erwahlung"],
  ["Erwähnung","Zitat","II (sprach.)","12","1355","ref",3697,"Zitat","erwahnung"],
  ["Erwartung","Erwartung","","2","731f.","main",819,"Erwartung","erwartung"],
  ["Erwartung","Voraussicht","",null,null,"see",3489,"Voraussicht","erwartung"],
  ["Erwartung","Wahl, rationale","",null,null,"see",3518,"Wahl, rationale","erwartung"],
  ["Erwartung","Hoffnung","",null,null,"ref",1287,"Hoffnung","erwartung"],
  ["Erwartung","Antizipation","II (psych.)","1","424","ref",193,"Antizipation","erwartung"],
- ["Erwartung","Protention","(Husserl)","7","1528","ref",2487,"Protasis","erwartung"],
+ ["Erwartung","Protention","(Husserl)","7","1528","ref",2488,"Protention","erwartung"],
  ["Erwartung","Risiko","","8","1046","ref",2718,"Risiko","erwartung"],
  ["Erwartung","Urteil, vorläufiges","","11","478","ref",3358,"Urteil, vorläufiges","erwartung"],
  ["Erwartung","Wahrscheinlichkeit","II","12","255","ref",3540,"Wahrscheinlichkeit","erwartung"],
@@ -956,7 +1050,14 @@ HWPH.put("r/65-72",
   "erwartung des nahen endes"
  ],
  ["Erwartungsaffekt","Affekt","II","1","99","ref",53,"Affekt","erwartungsaffekt"],
- ["Erwartungshorizont","Horizont","III",null,null,"ref",1310,"Horizont","erwartungshorizont"],
+ [
+  "Erwartungshorizont","Horizont","III 4 (ling.)","3","1202","ref",1310,"Horizont",
+  "erwartungshorizont"
+ ],
+ [
+  "Erwartungshorizont","Verzeitlichung","","11","1027","ref",3458,"Verzeitlichung",
+  "erwartungshorizont"
+ ],
  [
   "Erwartungsintention","Vorgriff; Vorhabe; Vorsicht","(Heidegger)","11","1189","ref",3493,
   "Vorgriff; Vorhabe; Vorsicht","erwartungsintention"
@@ -985,19 +1086,18 @@ HWPH.put("r/65-72",
  ["Erwerbskunst","Kunst; Kunstwerk","I","4","1359","ref",1712,"Kunst, Kunstwerk","erwerbskunst"],
  ["Erwerbskunst","Ökonomie","I (ökon.)","6","1150","ref",2210,"Ökonomie","erwerbskunst"],
  ["Erwiderung","Wiederholung","","12","743","ref",3616,"Wiederholung","erwiderung"],
- [
-  "erworben","Angeboren/erworben erworbene Natur","",null,null,"ref",141,
-  "Angeboren/erworben, erlernt","erworben"
- ],
+ ["erworben","Angeboren/erworben","",null,null,"ref",141,"Angeboren/erworben, erlernt","erworben"],
+ ["erworbene Natur","Natur, zweite","",null,null,"ref",2077,"Natur, zweite","erworbene natur"],
  [
   "erworbener Charakter","Charakter","I (allg.)","1","988","ref",486,"Charakter",
   "erworbener charakter"
  ],
  ["erzählendes Urteil","Beschreibung","II","1","843","ref",395,"Beschreibung","erzahlendes urteil"],
  [
-  "Erzählform","Narrativ; Narrativität Erzählung","",null,null,"ref",2068,"Narrativ, Narrativität",
+  "Erzählform","Narrativ; Narrativität","",null,null,"ref",2068,"Narrativ, Narrativität",
   "erzahlform"
  ],
+ ["Erzählung","Geschichte","VI","3","395","ref",1085,"Geschichte, Historie","erzahlung"],
  ["erzeugbar","Algorithmus","","1","155","ref",97,"Algorithmus","erzeugbar"],
  ["Erzeugung","Werden/Vergehen","","12","542","ref",3585,"Werden/Vergehen","erzeugung"],
  ["Erzieher","Philosophie","IV C","7","702","ref",2353,"Philosophie","erzieher"],
@@ -1009,7 +1109,12 @@ HWPH.put("r/65-72",
  ],
  ["Erziehung","Pädagogik","",null,null,"see",2256,"Pädagogik","erziehung"],
  ["Erziehung","Paideia","",null,null,"see",2257,"Paideia","erziehung"],
- ["Erziehung","Werterziehung Erziehung","",null,null,"see",null,null,"erziehung"],
+ [
+  "Erziehung","Werterziehung","",null,null,"see",3591,
+  "Werterziehung; moralische Erziehung; Moralpädagogik","erziehung"
+ ],
+ ["Erziehung","Provinz, pädagogische","","7","1542","ref",2498,"Provinz, pädagogische","erziehung"],
+ ["Erziehung","Sozialisation","","9","1163","ref",2946,"Sozialisation","erziehung"],
  [
   "Erziehung, ästhetische","Erziehung des Menschengeschlechts","","2","738","ref",823,
   "Erziehung des Menschengeschlechts","erziehung, asthetische"
@@ -1046,66 +1151,6 @@ HWPH.put("r/65-72",
  ["Erziehungswissenschaft","Pädagogik","",null,null,"ref",2256,"Pädagogik","erziehungswissenschaft"],
  ["Erzittern","Stimme","","10","168","ref",3025,"Stimme","erzittern"],
  [
-  "Erstheit; Zweitheit; Drittheit (Peirce)","Erstheit; Zweitheit; Drittheit (Peirce)","","2","729",
-  "main",816,"Erste Philosophie","erstheit; zweitheit; drittheit (peirce)"
- ],
- [
-  "Erstheit; Zweitheit; Drittheit (Peirce)","Form und Materie","","2","1009","ref",939,
-  "Form und Materie (Stoff)","erstheit; zweitheit; drittheit (peirce)"
- ],
- [
-  "Erstheit; Zweitheit; Drittheit (Peirce)","Individuation","","4","297","ref",1420,
-  "Individuation, Individuationsprinzip","erstheit; zweitheit; drittheit (peirce)"
- ],
- [
-  "Erstheit; Zweitheit; Drittheit (Peirce)","Materie","II","5","898","ref",1892,"Materie",
-  "erstheit; zweitheit; drittheit (peirce)"
- ],
- [
-  "Erstheit; Zweitheit; Drittheit (Peirce)","Realitas","","8","179","ref",2589,"Realitas",
-  "erstheit; zweitheit; drittheit (peirce)"
- ],
- [
-  "Erlebnis, intentionales","Erlebnis, intentionales","(Husserl)","2","711","main",805,
-  "Erlebnis, intentionales","erlebnis, intentionales"
- ],
- [
-  "Erklären I (Dilthey)","Erklären I (Dilthey)","","2","692","main",801,"Erklären, Erklärung",
-  "erklaren i (dilthey)"
- ],
- [
-  "Erziehung des Menschengeschlechts","Erziehung des Menschengeschlechts","",null,null,"main",823,
-  "Erziehung des Menschengeschlechts","erziehung des menschengeschlechts"
- ],
- [
-  "Erziehung des Menschengeschlechts","Einbildungskraft","II","2","348","ref",673,
-  "Einbildung, Einbildungskraft","erziehung des menschengeschlechts"
- ],
- [
-  "Erziehung des Menschengeschlechts","Religion","",null,null,"ref",2673,"Religion",
-  "erziehung des menschengeschlechts"
- ],
- [
-  "Erkenntnis II (psych.)","Erkenntnis II (psych.)","","2","671ff.","main",796,
-  "Erkennen, Erkenntnis","erkenntnis ii (psych.)"
- ],
- [
-  "Erkenntnis II (psych.)","Identifikation","I","4","140f.","ref",1365,"Identifikation",
-  "erkenntnis ii (psych.)"
- ],
- [
-  "Erkenntnis II (psych.)","Kognition","","4","872ff.","ref",1578,"Kognition, kognitiv",
-  "erkenntnis ii (psych.)"
- ],
- [
-  "Erkenntnis II (psych.)","Nachahmung","","6","325","ref",2054,"Nachahmung",
-  "erkenntnis ii (psych.)"
- ],
- [
-  "Erkenntnis II (psych.)","Psychologie","","7","1640","ref",2511,"Psychologie",
-  "erkenntnis ii (psych.)"
- ],
- [
   "Erfahrungswissenschaft","Erfahrungswissenschaft","","2","621","main",789,"Erfahrungswissenschaft",
   "erfahrungswissenschaft"
  ],
@@ -1114,8 +1159,8 @@ HWPH.put("r/65-72",
   "erfahrungswissenschaft"
  ],
  [
-  "Erfahrung, Analogien der","Erfahrung, Analogien der","(Kant)","2","618","main",787,
-  "Erfahrung, Analogien der","erfahrung, analogien der"
+  "Erkenntnis durch 1 1030 σύμφυσις","Kontinuum","I","4","1046","ref",1640,"Kontinuum, Kontinuität",
+  "erkenntnis durch 1 1030 συμφυσισ"
  ],
  [
   "Erler Gernot","Kulturrevolution","I","4","1341–1344","author",1709,"Kulturrevolution",

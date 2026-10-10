@@ -41,6 +41,6 @@ HWPH.put("a/207",
   {"id":3,"name":"Antike Philosophie","label":"Apophansis"},
   {"id":22,"name":"Logik","label":"Apophansis"}
  ],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

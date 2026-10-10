@@ -41,14 +41,13 @@ HWPH.put("a/280",
   {"term":"Atom, psychisches","qualifier":"II (psych.)","band":null,"col":null},
   {"term":"Atomtheorie, psychologische","qualifier":"II (psych.)","band":null,"col":null},
   {"term":"Elementarismus (psych.)","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"Elementarsatz","qualifier":"","band":null,"col":null},
+  {"term":"Elementarsatz","qualifier":"lII (log.)","band":"1","col":"605"},
   {"term":"Elementenpsychologie","qualifier":"II (psych.)","band":null,"col":null},
   {"term":"Empfindung","qualifier":"II (psych.)","band":"1","col":"604"},
+  {"term":"Gegenstand","qualifier":"lII (log.)","band":"1","col":"605"},
   {"term":"logical atomism","qualifier":"III (log.)","band":null,"col":null},
   {"term":"Logischer Atomismus","qualifier":"III (log.)","band":null,"col":null},
-  {"term":"sensation","qualifier":"II (psych.)","band":"1","col":"604"},
-  {"term":"– I (phys.) 1 603 s. auch","qualifier":"","band":"1","col":"603"},
-  {"term":"– I (psych.) 3 20 s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"sensation","qualifier":"II (psych.)","band":"1","col":"604"}
  ],
  "persons":[
   {"id":144,"name":"H. Spencer","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -118,7 +117,14 @@ HWPH.put("a/280",
   {"id":814,"lemma":"Erscheinung","tf":2},
   {"id":309,"lemma":"Aussage","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":282,"lemma":"Atomtheorie"},
+  {"id":987,"lemma":"Ganzheit"},
+  {"id":989,"lemma":"Ganzheitspsychologie"},
+  {"id":1116,"lemma":"Gestalt"},
+  {"id":125,"lemma":"Analyse"},
+  {"id":2745,"lemma":"Satz"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Atomismus I (nat.)"},
   {"id":22,"name":"Logik","label":"Atomismus III (log.)"},

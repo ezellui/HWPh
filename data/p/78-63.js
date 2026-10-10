@@ -1,0 +1,17 @@
+HWPH.put("p/78-63",
+{"xc":[["XC","wa:;;4r0 x3:;;i14 7x:;;gn k:;;1tc 3a:;;39y 5t:;;ol 5w:;;jg 2p:;;1g5"],["xc","2dd:;3y,a"]],
+"xcf":[["XCf","2fk:;;hi"]],
+"xci":[["XCI","4v:;;mc 1ce:;;1vg 5:;;58"]],
+"xciff":[["XCIff","1nq:;;bz"]],
+"xcii":[["XCII","u5:;;7j i6:;;34"]],
+"xciii":[["XCIII","2ah:;;dv"]],
+"xciv":[["XCIV","17o:;;4y 12t:;;ey 1x:;;1sr"]],
+"xcix":[["XCIX","m9:;;3a ni:;;4p 89:;;ku"]],
+"xcv":[["XCV","1e2:;;3w x1:;;m6 fx:;;2p"]],
+"xcvi":[["XCVI","1p7:;;qz 46:;;rvi 9e:;;fd 45:;;t6 3l:;;30 kz:;;7d"],["xcvi","74:;;8"]],
+"xcviff":[["XCVIff","1le:;;;li"]],
+"xcvii":[["XCVII","wa:;;4r1 10d:;;gm f4:;;13h"]],
+"xcviii":[["XCVIII","1es:;;oh 38:;;kt ja:;;gq"]],
+"xcy":[["xcy","2dd:;56"]],
+"xcyc":[["xcyc","2dd:;44"]]}
+);

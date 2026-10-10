@@ -41,6 +41,6 @@ HWPH.put("a/1358",
  "mentions":[{"id":2183,"lemma":"Objekt","tf":3},{"id":1769,"lemma":"Leib, Körper","tf":2}],
  "see_also":[{"id":1361,"lemma":"Idee"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Ideat"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

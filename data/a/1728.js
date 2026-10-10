@@ -18,12 +18,12 @@ HWPH.put("a/1728",
  "backlinks":[{"id":3242,"lemma":"Type and token","n":1}],
  "outlinks":[{"id":1598,"lemma":"Kompetenz","n":1},{"id":2865,"lemma":"Semiotik, Semiologie","n":1}],
  "register":[
+  {"term":"parole","qualifier":"(Saussure)","band":null,"col":null},
   {"term":"Rede","qualifier":"(Saussure)","band":null,"col":null},
   {"term":"schéma/usage","qualifier":"(Saussure)","band":"5","col":"33"},
   {"term":"Sprachbau/Sprachgebrauch","qualifier":"(Saussure)","band":null,"col":null},
   {"term":"Sprachfähigkeit","qualifier":"(Saussure)","band":null,"col":null},
-  {"term":"Sprachgebrauch","qualifier":"(Saussure)","band":null,"col":null},
-  {"term":"– I (ling.) 9 755f. s. auch","qualifier":"(Saussure)","band":null,"col":null}
+  {"term":"Sprachgebrauch","qualifier":"(Saussure)","band":null,"col":null}
  ],
  "persons":[
   {"id":277,"name":"F. de Saussure","b":1,"n":8,"l":0,"editor":0,"role":"source"},

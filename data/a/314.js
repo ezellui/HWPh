@@ -17,7 +17,7 @@ HWPH.put("a/314",
  "next":{"id":315,"lemma":"Austromarxismus","band":"1","col":683},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"utterance","qualifier":"V","band":null,"col":null}],
  "persons":[
   {"id":345,"name":"N. Chomsky","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1399,"name":"L. Bloomfield","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -1,7 +1,5 @@
 HWPH.put("r/77-6f",
 [
- ["Wohnen","Wohnen","",null,null,"main",3654,"Wohnen","wohnen"],
- ["Wo; wann oubli","Wo; wann oubli","",null,null,"main",3649,"Wo; Wann","wo; wann oubli"],
  ["Wo; wann","Wo; wann","","12","990–997","main",3649,"Wo; Wann","wo; wann"],
  ["Wo; wann","Circumstantia","",null,null,"see",500,"Circumstantia","wo; wann"],
  ["Wo; wann","Zeit","III A",null,null,"see",3676,"Zeit","wo; wann"],
@@ -128,13 +126,20 @@ HWPH.put("r/77-6f",
  ["Wohlwollen","Interesse","II","4","486","ref",1475,"Interesse","wohlwollen"],
  ["Wohlwollen","Liebe","I","5","294f.","ref",1795,"Liebe","wohlwollen"],
  [
-  "Wohlwollen","Moralität; Sittlichkeit (Hegel)","","6","189","ref",2029,"Moralität, Sittlichkeit",
+  "Wohlwollen","Moralität; Sittlichkeit","(Hegel)","6","189","ref",2029,"Moralität, Sittlichkeit",
   "wohlwollen"
  ],
  ["Wohlwollen","Selbstliebe","II","9","477ff.","ref",2840,"Selbstliebe","wohlwollen"],
  ["Wohlwollen","Utilitarismus","","11","506","ref",3366,"Utilitarismus","wohlwollen"],
  ["Wohnen","Wohnen","","12","1015–1018","main",3654,"Wohnen","wohnen"],
- ["Wohnen","Topologie","",null,null,"see",3205,"Topologie","wohnen"],
+ [
+  "Wohnen","Topologie des Seins","(Heidegger)",null,null,"see",3206,
+  "Topologie des Seins; Ortschaft des Seins","wohnen"
+ ],
+ [
+  "Wolkenkuckucksheim","Vernunft; Verstand","VII B (Schopenhauer)","11","835","ref",3423,
+  "Vernunft; Verstand","wolkenkuckucksheim"
+ ],
  ["Wollen","Wille","",null,null,"ref",3620,"Wille","wollen"],
  ["Wollen","Freiheit","II","2","1080f.","ref",946,"Freiheit","wollen"],
  ["Wollen","Selbstbewusstsein","II","9","360f.","ref",2828,"Selbstbewußtsein","wollen"],
@@ -146,7 +151,8 @@ HWPH.put("r/77-6f",
  ["Wollust","Wollust","","12","1018–1023","main",3655,"Wollust","wollust"],
  ["Wollust","Genuss","",null,null,"see",1076,"Genuß","wollust"],
  ["Wollust","Konkupiszenz","",null,null,"see",1616,"Konkupiszenz","wollust"],
- ["Wollust","Lust; Freude Wollust","",null,null,"see",1837,"Lust, Freude","wollust"],
+ ["Wollust","Lust; Freude","",null,null,"see",1837,"Lust, Freude","wollust"],
+ ["Wollust","Ekstase","II","2","435","ref",702,"Ekstase","wollust"],
  ["wonder","Staunen","","10","120ff.","ref",3015,"Staunen; Bewunderung; Verwunderung","wonder"],
  [
   "wonderful","Wunderbare, das; Phantastische, das","",null,null,"ref",3660,
@@ -155,12 +161,17 @@ HWPH.put("r/77-6f",
  ["word","Wort","I (sprach.)",null,null,"ref",3656,"Wort","word"],
  ["word","Terminus","","10","1018","ref",3153,"Terminus","word"],
  ["work","Werk","",null,null,"ref",3586,"Werk","work"],
+ ["work of art","Kunst; Kunstwerk","",null,null,"ref",1712,"Kunst, Kunstwerk","work of art"],
  [
-  "work of art","Kunst; Kunstwerk work of mourning","",null,null,"ref",1712,"Kunst, Kunstwerk",
-  "work of art"
+  "work of mourning","Trauer; Trauerarbeit","",null,null,"ref",3224,"Trauer; Trauerarbeit",
+  "work of mourning"
  ],
  ["world","Welt","",null,null,"ref",3557,"Welt","world"],
- ["world history","Weltgeschichte world line","",null,null,"ref",null,null,"world history"],
+ [
+  "world history","Weltgeschichte","",null,null,"ref",3567,"Weltgeschichte; Universalgeschichte",
+  "world history"
+ ],
+ ["world line","Weltlinie","",null,null,"ref",3570,"Weltlinie","world line"],
  ["world literature","Weltliteratur","",null,null,"ref",3571,"Weltliteratur","world literature"],
  ["world peace","Weltfrieden","",null,null,"ref",3564,"Weltfrieden","world peace"],
  [
@@ -175,9 +186,29 @@ HWPH.put("r/77-6f",
  ["world-woe","Weltschmerz","",null,null,"ref",3577,"Weltschmerz","world-woe"],
  ["worship","Religion","VI","8","654","ref",2673,"Religion","worship"],
  ["Wort","Wort","","12","1023–1036","main",3656,"Wort","wort"],
+ ["Wort","Name","I",null,null,"see",2066,"Name","wort"],
+ ["Wort","Sprache","III",null,null,"see",2985,"Sprache","wort"],
+ ["Wort","Stimme","",null,null,"see",3025,"Stimme","wort"],
+ ["Wort","Terminus","",null,null,"see",3153,"Terminus","wort"],
+ ["Wort","Zeichen","I",null,null,"see",3673,"Zeichen","wort"],
+ ["Wort","Einsprechung","",null,null,"see",690,"Einsprechung","wort"],
+ ["Wort","Logos","II",null,null,"see",1825,"Logos","wort"],
+ ["Wort","Verbum mentis","",null,null,"see",3387,"Verbum mentis","wort"],
+ ["Wort","Verkündigung","",null,null,"see",3414,"Verkündigung; Verkünden","wort"],
+ ["Wort (ind.)","Mîmâmsâ","","5","1396","ref",1975,"Mimesis","wort (ind.)"],
  ["Wort/Begriff","Begriff","II (log.)",null,null,"ref",365,"Begriff","wort/begriff"],
  ["Wort/Begriff","Begriffsgeschichte","","1","794","ref",368,"Begriffsgeschichte","wort/begriff"],
- ["Wort","Wort","",null,null,"main",3656,"Wort","wort"],
+ [
+  "Wort, inneres","Wort, inneres","","12","1037–1050","main",3657,"Wort, inneres; Rede, innere",
+  "wort, inneres"
+ ],
+ [
+  "Wort, inneres","Complexe significabile","",null,null,"see",505,"Complexe significabile",
+  "wort, inneres"
+ ],
+ ["Wort, inneres","Stimme","",null,null,"see",3025,"Stimme","wort, inneres"],
+ ["Wort, inneres","Terminus","",null,null,"see",3153,"Terminus","wort, inneres"],
+ ["Wort, inneres","Verbum mentis","",null,null,"see",3387,"Verbum mentis","wort, inneres"],
  ["Wort des Geistes","Verbum mentis","",null,null,"ref",3387,"Verbum mentis","wort des geistes"],
  ["Wort Gottes","Wort","II (theol.)",null,null,"ref",3656,"Wort","wort gottes"],
  ["Wort Gottes","Erleuchtung","","2","716","ref",807,"Erleuchtung","wort gottes"],
@@ -203,12 +234,21 @@ HWPH.put("r/77-6f",
  ],
  ["Wortinhalt","Feld, sprachliches","","2","931","ref",905,"Feld, sprachliches","wortinhalt"],
  ["Wortkampf","Logomachie","",null,null,"ref",1823,"Logomachie","wortkampf"],
- ["Wortklauberei","Sophistik Wortleichen","",null,null,"ref",null,null,"wortklauberei"],
+ [
+  "Wortklauberei","Sophistik","",null,null,"ref",2926,"Sophistik; sophistisch; Sophist",
+  "wortklauberei"
+ ],
+ [
+  "Wortleichen","Weltorientierung; Orientierung","","12","504","ref",3573,
+  "Weltorientierung; Orientierung","wortleichen"
+ ],
  [
   "wortlose Innerlichkeit","Ausdruck","II (ästh.)","1","657","ref",298,"Ausdruck",
   "wortlose innerlichkeit"
  ],
- ["wortloser Glaube","Philosophie","IV",null,null,"ref",2353,"Philosophie","wortloser glaube"],
+ ["wortloser Glaube","Philosophie","IV K","7","788","ref",2353,"Philosophie","wortloser glaube"],
+ ["Wortstreit","Wortstreit","","12","1050–1052","main",3658,"Wortstreit","wortstreit"],
+ ["Wortstreit","Logomachie","",null,null,"see",1823,"Logomachie","wortstreit"],
  ["Wortstreit","Polemik","II","7","1031","ref",2392,"Polemik","wortstreit"],
  ["Worumwillen","Zweck; Ziel","","12","1506f.","ref",3718,"Zweck; Ziel","worumwillen"],
  ["would-be","Synechismus","(Peirce)","10","781","ref",3104,"Synechismus","would-be"],
@@ -238,14 +278,17 @@ HWPH.put("r/77-6f",
  ],
  ["Wolf Jean-Claude","Sanktion","II","8","1168–1171","author",2741,"Sanktion","wolf jean-claude"],
  ["Wolf Jean-Claude","Strafe","IV","10","250–252","author",3035,"Strafe","wolf jean-claude"],
- ["Wolf Ursula","Notwendigkeit","",null,null,"author",2171,"Notwendigkeit","wolf ursula"],
- ["Wolf Ursula","Ontologie","",null,null,"author",2218,"Ontologie","wolf ursula"],
+ ["Wolf Ursula","Notwendigkeit I.","IV","6","946–951","author",2171,"Notwendigkeit","wolf ursula"],
+ ["Wolf Ursula","Ontologie","3",null,null,"author",2218,"Ontologie","wolf ursula"],
  ["Wolf Ursula","Poiesis","II","7","1025f.","author",2390,"Poiesis","wolf ursula"],
  ["Wolf Ursula","Relation","IV","8","602–606","author",2668,"Relation","wolf ursula"],
  [
   "Wolf Ursula","Unverborgenheit","(Heidegger)","11","331–334","author",3331,"Unverborgenheit",
   "wolf ursula"
  ],
- ["Woodward William R","Raum","",null,null,"author",2578,"Raum","woodward william r"]
+ [
+  "Woodward William R","Raum; Raumwahrnehmung","","8","111–121","author",2578,"Raum",
+  "woodward william r"
+ ]
 ]
 );

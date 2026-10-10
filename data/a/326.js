@@ -30,7 +30,7 @@ HWPH.put("a/326",
   {"id":22207,"name":"F. von Hammerstein","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":890,"lemma":"Fall, Abfall","tf":2}],
- "see_also":[{"id":490,"lemma":"Chassidismus"}],
+ "see_also":[{"id":490,"lemma":"Chassidismus"},{"id":1935,"lemma":"Messianismus, messianisch"}],
  "groups":[
   {"id":18,"name":"Judentum","label":"Automessianismus (Buber)"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Automessianismus (Buber)"}

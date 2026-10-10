@@ -24,10 +24,15 @@ HWPH.put("a/892",
   {"id":3635,"lemma":"Wissenschaft","n":1}
  ],
  "outlinks":[],
- "register":[{"term":"kritischer (Popper) 8 49–52 s. auch","qualifier":"(Popper)","band":null,"col":null}],
+ "register":[],
  "persons":[{"id":65,"name":"K. R. Popper","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[{"id":3355,"lemma":"Urteil","tf":3},{"id":2195,"lemma":"Observatio, Beobachtung","tf":2}],
- "see_also":[{"id":891,"lemma":"Fallibilismus"},{"id":2574,"lemma":"Rationalismus"}],
+ "see_also":[
+  {"id":891,"lemma":"Fallibilismus"},
+  {"id":2575,"lemma":"Rationalismus, Kritischer"},
+  {"id":3409,"lemma":"Verifikation"},
+  {"id":3605,"lemma":"Widerlegung"}
+ ],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Falsifikation (Popper)"}],
  "reg_authors":[{"name":"Kraft Victor","n":14}]
 }

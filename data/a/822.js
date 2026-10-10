@@ -42,7 +42,8 @@ HWPH.put("a/822",
   {"id":435,"lemma":"Bildung"},
   {"id":823,"lemma":"Erziehung des Menschengeschlechts"},
   {"id":2256,"lemma":"Pädagogik"},
-  {"id":2257,"lemma":"Paideia"}
+  {"id":2257,"lemma":"Paideia"},
+  {"id":3591,"lemma":"Werterziehung; moralische Erziehung; Moralpädagogik"}
  ],
  "groups":[{"id":30,"name":"Pädagogik","label":"Erziehung"}],
  "reg_authors":[{"name":"Groothoff Hans-Hermann","n":1}]

@@ -24,7 +24,7 @@ HWPH.put("a/423",
   {"id":5229,"name":"A. Neusüss","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":2144,"lemma":"Noch-Nicht-Sein"},{"id":2814,"lemma":"Seinsverbundenheit; Seinsgebundenheit"}],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Bewusstsein, utopisches (Mannheim)"}],
  "reg_authors":[{"name":"Biesterfeld Wolfgang","n":4}]
 }

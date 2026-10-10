@@ -1,5 +1,6 @@
 HWPH.put("r/3b3-3b5",
 [
+ ["γελο͂ιος","Lächerliche, das","",null,null,"ref",1723,"Lächerliche","γελοιοσ"],
  [
   "γένη ὑπάλληλα","Allgemeines/Besonderes","I","1","168","ref",101,"Allgemeines/Besonderes",
   "γενη υπαλληλα"

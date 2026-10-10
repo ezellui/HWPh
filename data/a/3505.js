@@ -25,13 +25,13 @@ HWPH.put("a/3505",
  ],
  "register":[
   {"term":"chain of ideas","qualifier":"","band":"11","col":"1247"},
-  {"term":"der 4 936","qualifier":"","band":"11","col":"1247f."},
   {"term":"Gedankenreihe","qualifier":"","band":null,"col":null},
   {"term":"Reihe von Vorstellungen","qualifier":"","band":null,"col":null},
   {"term":"Sukzession von Vorstellungen","qualifier":"","band":null,"col":null},
   {"term":"train of thoughts","qualifier":"","band":"11","col":"1247"},
   {"term":"Verkettung","qualifier":"","band":null,"col":null},
-  {"term":"Verwebung der Gedanken","qualifier":"","band":"11","col":"1248"}
+  {"term":"Verwebung der Gedanken","qualifier":"","band":"11","col":"1248"},
+  {"term":"Vorstellungskomplex","qualifier":"","band":"11","col":"1247f."}
  ],
  "persons":[
   {"id":77,"name":"J. F. Herbart","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -58,6 +58,6 @@ HWPH.put("a/3505",
   {"id":9,"name":"Erkenntnistheorie","label":"Vorstellungsreihe"},
   {"id":36,"name":"Psychologie","label":"Vorstellungsreihe"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -28,8 +28,7 @@ HWPH.put("a/3017",
   {"term":"otage","qualifier":"","band":"10","col":"128"},
   {"term":"Repräsentation (theol.)","qualifier":"","band":"10","col":"127f."},
   {"term":"satisfactio vicaria","qualifier":"","band":"10","col":"126"},
-  {"term":"Sühne","qualifier":"","band":"10","col":"127"},
-  {"term":"– I (theol.) 11 891–898 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Sühne","qualifier":"","band":"10","col":"127"}
  ],
  "persons":[
   {"id":5626,"name":"K.-H. Menke","b":0,"n":2,"l":1,"editor":0,"role":"scholar"},

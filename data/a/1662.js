@@ -25,6 +25,6 @@ HWPH.put("a/1662",
  "mentions":[],
  "see_also":[{"id":2406,"lemma":"Porisma"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Korollar"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

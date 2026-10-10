@@ -23,6 +23,7 @@ HWPH.put("a/2471",
  "outlinks":[],
  "register":[
   {"term":"profanare","qualifier":"","band":"7","col":"1442f."},
+  {"term":"Profanität","qualifier":"","band":null,"col":null},
   {"term":"Religiöse, das","qualifier":"","band":"7","col":"1444"}
  ],
  "persons":[

@@ -31,8 +31,7 @@ HWPH.put("a/3261",
   {"id":3279,"lemma":"Umwertung aller Werte","n":1}
  ],
  "register":[
-  {"term":"L 7 794 deificatio","qualifier":"","band":"11","col":"46"},
-  {"term":"Mensch, neuer","qualifier":"","band":"11","col":"46"},
+  {"term":"deificatio","qualifier":"","band":"11","col":"46"},
   {"term":"neuer Mensch","qualifier":"","band":"11","col":"46ff."},
   {"term":"plus-man","qualifier":"","band":"11","col":"47"},
   {"term":"Seiltänzer","qualifier":"","band":"11","col":"48"},
@@ -42,6 +41,7 @@ HWPH.put("a/3261",
   {"term":"Übergang","qualifier":"","band":"11","col":"47f."},
   {"term":"Unmensch","qualifier":"","band":"11","col":"47f."},
   {"term":"Untermensch","qualifier":"","band":"11","col":"47"},
+  {"term":"Wesen des 1 1011","qualifier":"","band":"11","col":"46"},
   {"term":"Züchtung","qualifier":"","band":"11","col":"48"},
   {"term":"ὑπεράνθρωπος","qualifier":"","band":null,"col":null}
  ],

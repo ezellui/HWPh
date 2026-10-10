@@ -23,10 +23,8 @@ HWPH.put("a/1311",
  "outlinks":[],
  "register":[
   {"term":"Cornutus-Paradox","qualifier":"","band":null,"col":null},
-  {"term":"das 8 1414","qualifier":"","band":"3","col":"1206–1212"},
   {"term":"Keratines-Paradox","qualifier":"","band":null,"col":null},
-  {"term":"κερατίνης λόγος","qualifier":"","band":null,"col":null},
-  {"term":"– III (log.) 7 96f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"κερατίνης λόγος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":56,"name":"Diogenes Laertius","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -34,7 +32,11 @@ HWPH.put("a/1311",
   {"id":15195,"name":"H. Barge","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[{"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"},{"id":2446,"lemma":"Präsupposition"}],
+ "see_also":[
+  {"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"},
+  {"id":2446,"lemma":"Präsupposition"},
+  {"id":3237,"lemma":"Trugschluß"}
+ ],
  "groups":[{"id":22,"name":"Logik","label":"Hörnerfrage"}],
  "reg_authors":[{"name":"Krafft Fritz","n":6},{"name":"Schmidt Ernst Günther","n":6}]
 }

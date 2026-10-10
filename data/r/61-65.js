@@ -43,6 +43,10 @@ HWPH.put("r/61-65",
  ["aequivocus","Äquivok","",null,null,"ref",229,"Äquivok","aequivocus"],
  ["aequivocus","Homonym","",null,null,"ref",1307,"Homonym","aequivocus"],
  [
+  "aesthetic experience","Symptom","III (sem.)","10","767","ref",3099,"Symptom",
+  "aesthetic experience"
+ ],
+ [
   "aesthetic judgment","Urteil, ästhetisches","",null,null,"ref",3356,"Urteil, ästhetisches",
   "aesthetic judgment"
  ],
@@ -72,13 +76,13 @@ HWPH.put("r/61-65",
  ["aeternum","Ewigkeit","","2","840","ref",854,"Ewigkeit","aeternum"],
  ["aeternum","Unsterblichkeit","II","11","278","ref",3323,"Unsterblichkeit","aeternum"],
  ["aeternum dei","Geist","V","3","177","ref",1030,"Geist","aeternum dei"],
- ["Aevum","Aevum","","1","88","main",52,"Aevum","aevum"],
+ ["aevitas; aeviternitas","Aevum","","1","88","ref",52,"Aevum","aevitas; aeviternitas"],
  ["Aevum","Aevum","","1","88f.","main",52,"Aevum","aevum"],
  ["Aevum","Aion","",null,null,"see",69,"Aion","aevum"],
  ["Aevum","Weltalter; Zeitalter","",null,null,"see",3559,"Weltalter; Zeitalter","aevum"],
  ["aevum","Ewigkeit","","2","840","ref",854,"Ewigkeit","aevum"],
  ["aevum","Zeit","IV","12","1225","ref",3676,"Zeit","aevum"],
- ["Aertsen Jan A","Schöne","",null,null,"author",2776,"Schöne","aertsen jan a"],
+ ["Aertsen Jan A","Schöne, das","II","8","1351–1356","author",2776,"Schöne","aertsen jan a"],
  [
   "Aertsen Jan A","Transzendental","II","10","1360–1365","author",3219,"Transzendental",
   "aertsen jan a"

@@ -23,14 +23,13 @@ HWPH.put("a/18",
  "outlinks":[],
  "register":[
   {"term":"Abbild","qualifier":"","band":null,"col":null},
+  {"term":"eidola","qualifier":"","band":"1","col":"1"},
   {"term":"Prägung (erk.)","qualifier":"","band":"1","col":"1"},
   {"term":"Selbstzeitigung","qualifier":"","band":null,"col":null},
   {"term":"tabula rasa","qualifier":"","band":"1","col":"1"},
   {"term":"Übereinstimmung","qualifier":"","band":null,"col":null},
   {"term":"Wachstafel","qualifier":"","band":"1","col":"1"},
-  {"term":"weisses Papier","qualifier":"","band":"1","col":"1"},
-  {"term":"– I (erk.) 8 790–812 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (erk.) 1 915–919 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"weisses Papier","qualifier":"","band":"1","col":"1"}
  ],
  "persons":[
   {"id":110,"name":"W. Windelband","b":2,"n":1,"l":1,"editor":0,"role":"source"},

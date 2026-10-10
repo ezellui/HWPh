@@ -26,10 +26,8 @@ HWPH.put("a/2835",
   {"id":1760,"lemma":"Leerintention","n":1}
  ],
  "register":[
-  {"term":"Gegebenheit","qualifier":"","band":null,"col":null},
-  {"term":"Selbstgegebenheit","qualifier":"","band":null,"col":null},
-  {"term":"– II (Husserl) 7 1257 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (phän.) 2 832–834 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Gegebenheit","qualifier":"(Husserl)","band":null,"col":null},
+  {"term":"Selbstgegebenheit","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":1,"editor":0,"role":"source"},

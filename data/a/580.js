@@ -17,7 +17,7 @@ HWPH.put("a/580",
  "next":{"id":581,"lemma":"Diakrisis/Synkrisis","band":"2","col":163},
  "backlinks":[{"id":3326,"lemma":"Unterscheiden; Unterscheidung","n":1}],
  "outlinks":[],
- "register":[{"term":"– I (med.) 10 762–764 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":423,"name":"Hippokrates","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":1982,"name":"H. Hörmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

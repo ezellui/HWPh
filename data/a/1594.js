@@ -22,16 +22,10 @@ HWPH.put("a/1594",
   {"id":2975,"lemma":"Spieltheorie","n":1}
  ],
  "register":[
-  {"term":"(ling.) 3 1204","qualifier":"","band":"4","col":"898"},
+  {"term":"Code","qualifier":"","band":"4","col":"898"},
   {"term":"Nachricht","qualifier":"","band":"4","col":"898"},
   {"term":"Redundanz","qualifier":"","band":"4","col":"898"},
-  {"term":"s auch","qualifier":"","band":null,"col":null},
-  {
-   "term":"– II (sprach.) 4 895f. s. auch Horizont III 4 (ling.)",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"s auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1044,"name":"Y. Bar-Hillel","b":0,"n":2,"l":0,"editor":0,"role":"mixed"},

@@ -24,6 +24,7 @@ HWPH.put("a/1911",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Abwehr","qualifier":"","band":null,"col":null},
   {"term":"Abwehrreflex","qualifier":"","band":"5","col":"1014f."},
   {"term":"approach/withdrawal","qualifier":"","band":"5","col":"1015"},
   {"term":"Aufsuchen","qualifier":"","band":"5","col":"1015"},

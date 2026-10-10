@@ -1,0 +1,18 @@
+HWPH.put("p/63-7a",
+{"cz":[["CZ","21c:;6zc;1bw;83"]],
+"czap":[["CZAP","29w:;;53 5o:;;80"]],
+"czapiewski":[["CZAPIEWSKI","vl:;;3z 19j:;;;h9"]],
+"czar":[["Czar","2s2:;;ze"]],
+"czaubrer":[["czaubrer","2dk:;xi"]],
+"czempiel":[["CZEMPIEL","2me:;;yo"]],
+"czepko":[["CZEPKO","1nc:;6ss;274 jd:;6jq;2c4"],["Czepko","1nc:;6tc,c"]],
+"czermak":[["CZERMAK","10t:;23s;rt yu:;1rc;lx"],["Czermak","1zn:;1sm"]],
+"czernowitz":[["Czernowitz","68:;;;b"]],
+"czerny":[["CZERNY","1kh:;18u;;11"]],
+"czihak":[["CZIHAK","2lu:;;9z"]],
+"czolbe":[["CZOLBE","1xr:;;1xs 7v:;;6mr y:;;1oz 13:;xe;h6 jr:;13g;zh"]],
+"czuber":[["CZUBER","2qc:;bur;8j9;i8,r"]],
+"czwalina":[["CZWALINA","17i:;;q,7,w 96:;;5f"]],
+"czybulka":[["CZYBULKA","2on:;ll;5n"]],
+"czystej":[["czystej","2i3:;;7z"]]}
+);

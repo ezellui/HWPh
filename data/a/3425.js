@@ -24,8 +24,7 @@ HWPH.put("a/3425",
  "register":[
   {"term":"instrumental reason","qualifier":"","band":null,"col":null},
   {"term":"instrumentelle Vernunft","qualifier":"","band":null,"col":null},
-  {"term":"Mittel/Zweck","qualifier":"","band":"11","col":"866"},
-  {"term":"– I (erk.) 8 52–56 – II (ökon.) 8 56–62 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Mittel/Zweck","qualifier":"","band":"11","col":"866"}
  ],
  "persons":[
   {"id":105,"name":"M. Horkheimer","b":3,"n":4,"l":0,"editor":0,"role":"source"},

@@ -27,8 +27,7 @@ HWPH.put("a/3614",
   {"term":"Taufe","qualifier":"","band":null,"col":null},
   {"term":"Umwandlung","qualifier":"","band":"12","col":"732"},
   {"term":"vivificatio","qualifier":"","band":null,"col":null},
-  {"term":"παλιγγενεσία","qualifier":"","band":"12","col":"731"},
-  {"term":"– I (allg.) 7 40–46 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"παλιγγενεσία","qualifier":"","band":"12","col":"731"}
  ],
  "persons":[
   {"id":107,"name":"Ph. Melanchthon","b":2,"n":1,"l":0,"editor":0,"role":"source"},

@@ -24,7 +24,11 @@ HWPH.put("r/3b1-3c1",
  ["ἀργία","Faulheit","","2","916","ref",900,"Faulheit","αργια"],
  ["ἀργὸς λόγος","Ratio ignava","",null,null,"ref",2572,"Ratio ignava","αργοσ λογοσ"],
  ["ἀριθμητική","Arithmetik","",null,null,"ref",247,"Arithmetik","αριθμητικη"],
- ["ἀριθμός","Zahl I ἀριθμὸς οὐσιώδης","",null,null,"ref",null,null,"αριθμοσ"],
+ ["ἀριθμός","Zahl","I",null,null,"ref",3670,"Zahl; Zählen","αριθμοσ"],
+ [
+  "ἀριθμὸς οὐσιώδης","Vernunft; Verstand","II","11","760","ref",3423,"Vernunft; Verstand",
+  "αριθμοσ ουσιωδησ"
+ ],
  [
   "ἀρνε͂ισθαι ἑαυτόν","Selbstverleugnung","",null,null,"ref",2852,"Selbstverleugnung",
   "αρνεισθαι εαυτον"

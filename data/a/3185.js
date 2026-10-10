@@ -46,8 +46,7 @@ HWPH.put("a/3185",
   {"term":"Temperaturmessung","qualifier":"","band":"10","col":"1167f."},
   {"term":"Theorienreduktion","qualifier":"","band":"10","col":"1172"},
   {"term":"Unumkehrbarkeit der Zeit","qualifier":"","band":"10","col":"1173"},
-  {"term":"Wärmelehre, mechanische","qualifier":"","band":null,"col":null},
-  {"term":"– II (phys.) 12 1315f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wärmelehre, mechanische","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":975,"name":"L. Boltzmann","b":3,"n":4,"l":0,"editor":0,"role":"source"},

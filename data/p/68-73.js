@@ -1,0 +1,18 @@
+HWPH.put("p/68-73",
+{"hs":[["HS","161:;;rf,a,w 84:;;;10,k,16,f h9:;jd,y 48:;;1o7,2i,c,t,7,18,r,i"],["Hs","1ky:;;oe 8f:;;od7 aa:;;1h e:;;da j2:;;47c,e,e,79"],["hs","25b:;;dd"]],
+"hschr":[["Hschr","26x:;;gh z:;;br am:;;a8"]],
+"hsi":[["HSI","16d:;50 n0:;2ep2"],["Hsi","1mk:;;;4,8 lf:;1p k3:;;1dw"],["hsi","85:;38"]],
+"hsia":[["HSIA","1bh:;;;64"]],
+"hsiang":[["HSIANG","1cz:;;;1 11u:;15h"]],
+"hsiangshan":[["Hsiangshan","27z:;1r"]],
+"hsiao":[["HSIAO","1cz:;;;22 h6:;;;23"],["Hsiao","1u0:;;;0"],["hsiao","1u0:;2,4 cc:;638"]],
+"hsin":[["HSIN","2ua:;de,1h"],["hsin","1mk:;5v"]],
+"hsing":[["HSING","2ua:;fu"],["Hsing","2ua:;h0"]],
+"hsiu":[["HSIU","2eq:;3e"]],
+"hss":[["Hss","2ga:;3m"]],
+"hsu":[["HSU","1mk:;;;o js:;;23q,12,1w"],["Hsu","26c:;;24h;74"],["hsü","1cu:;dx,1k,28,2p,f 11z:;r5"]],
+"hsuan":[["HSÜAN","2o9:;;y"],["hsüan","2et:;rs,ax"]],
+"hsueh":[["hsueh","2s2:;;1dx"],["hsüeh","2et:;22,pr,ax"]],
+"hsun":[["HSÜN","28c:;si"]],
+"hsuntse":[["HSÜNTSE","18r:;a1"]]}
+);

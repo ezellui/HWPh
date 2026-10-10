@@ -11,7 +11,7 @@ HWPH.put("r/3bb-3bf",
  ["λογιστικόν","Hegemonikon","","3","1030","ref",1236,"Hegemonikon","λογιστικον"],
  ["λογιστικόν","Herz","","3","1103","ref",1265,"Herz","λογιστικον"],
  [
-  "λογιστικόν","Rationalität I (erk.)","","8","53","ref",2576,"Rationalität, Rationalisierung",
+  "λογιστικόν","Rationalität","I (erk.)","8","53","ref",2576,"Rationalität, Rationalisierung",
   "λογιστικον"
  ],
  ["λογιστικόν","Seelensitz","","9","106","ref",2798,"Seelensitz","λογιστικον"],
@@ -35,7 +35,7 @@ HWPH.put("r/3bb-3bf",
  ["λόγος","Wesensbegriff","",null,null,"ref",3597,"Wesensbegriff","λογοσ"],
  ["λόγος","Adam Kadmon","II","1","79","ref",44,"Adam Kadmon","λογοσ"],
  ["λόγος","Aussage","","1","670","ref",309,"Aussage","λογοσ"],
- ["λόγος","Erkenntnis I (erk.)","","2","644ff.","ref",796,"Erkennen, Erkenntnis","λογοσ"],
+ ["λόγος","Erkenntnis","I (erk.)","2","644ff.","ref",796,"Erkennen, Erkenntnis","λογοσ"],
  ["λόγος","Idee","I","4","62","ref",1361,"Idee","λογοσ"],
  ["λόγος","Intentio","","4","469","ref",1468,"Intentio","λογοσ"],
  ["λόγος","Mythos; Mythologie","I","6","281","ref",2053,"Mythos, Mythologie","λογοσ"],
@@ -47,10 +47,22 @@ HWPH.put("r/3bb-3bf",
  ["λόγος","Text","","10","1038f.","ref",3158,"Text","λογοσ"],
  ["λόγος","Wort","I (sprach.)","12","1025","ref",3656,"Wort","λογοσ"],
  ["λόγος ἀποφαντικός","Wahrheit","I B","12","56","ref",3523,"Wahrheit","λογοσ αποφαντικοσ"],
- ["λόγος ἐν ψυχ͂¸η","Wort","",null,null,"ref",3656,"Wort","λογοσ εν ψυχ¸η"],
+ [
+  "λόγος ἐν ψυχ͂¸η","Wort, inneres","","12","1037","ref",3657,"Wort, inneres; Rede, innere",
+  "λογοσ εν ψυχ¸η"
+ ],
+ [
+  "λόγος ἐνδιάθετος/προφορικός","Wort, inneres","",null,null,"ref",3656,"Wort",
+  "λογοσ ενδιαθετοσ/προφορικοσ"
+ ],
+ [
+  "λόγος ἐνδιάθετος/προφορικός","Stimme","","10","163ff.","ref",3025,"Stimme",
+  "λογοσ ενδιαθετοσ/προφορικοσ"
+ ],
  ["λόγος ὑπογραφικός","Definition","I",null,null,"ref",535,"Definition","λογοσ υπογραφικοσ"],
+ ["λόγος ὀνοματόδης","Definition","I",null,null,"ref",535,"Definition","λογοσ ονοματοδησ"],
  ["λόγος φιλανθρώπος","Philanthropie","2","7","544","ref",2351,"Philanthropie","λογοσ φιλανθρωποσ"],
- ["λόγος σιωπων͂","Schweigen; Stille A","","8","1483","ref",2787,"Schweigen, Stille","λογοσ σιωπων"],
+ ["λόγος σιωπων͂","Schweigen; Stille","A","8","1483","ref",2787,"Schweigen, Stille","λογοσ σιωπων"],
  ["λόγος τῆς οὐσίας","Wesensbegriff","",null,null,"ref",3597,"Wesensbegriff","λογοσ τησ ουσιασ"],
  ["λόγος τοῦ θεοῦ","Wort","II (theol.)",null,null,"ref",3656,"Wort","λογοσ του θεου"],
  ["λόγος τοῦ τίἐστιν","Definition","I",null,null,"ref",535,"Definition","λογοσ του τιεστιν"]

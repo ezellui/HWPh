@@ -22,10 +22,10 @@ HWPH.put("a/1920",
   {"id":2087,"lemma":"Naturmensch","n":1}
  ],
  "register":[
+  {"term":"bzw. vernünftige natürlicher Mensch","qualifier":"","band":null,"col":null},
   {"term":"homo animalis","qualifier":"","band":null,"col":null},
   {"term":"homo christianus","qualifier":"","band":null,"col":null},
   {"term":"homo naturalis","qualifier":"","band":null,"col":null},
-  {"term":"natürliche bzw. vernünftige natürlicher Mensch","qualifier":"","band":null,"col":null},
   {"term":"ἄνθρωπος ψυχικός","qualifier":"","band":null,"col":null}
  ],
  "persons":[

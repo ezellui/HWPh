@@ -24,8 +24,7 @@ HWPH.put("a/1217",
  "outlinks":[],
  "register":[
   {"term":"humanitas","qualifier":"","band":"3","col":"991"},
-  {"term":"Lebensstil","qualifier":"","band":"3","col":"991"},
-  {"term":"– II (psych./soz.) 9 929–937 Situation","qualifier":"","band":"3","col":"990"}
+  {"term":"Lebensstil","qualifier":"","band":"3","col":"991"}
  ],
  "persons":[
   {"id":42,"name":"K. Jaspers","b":2,"n":2,"l":0,"editor":0,"role":"source"},

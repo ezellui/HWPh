@@ -1,0 +1,18 @@
+HWPH.put("p/75-64",
+{"ud":[["ūd","15p:;3d8"]],
+"udana":[["Udāna","1ng:;;15,7"]],
+"udayana":[["UDAYANA","1oj:;1nc"],["Udayana","1oj:;bp,1z,1bb,7x,c1,1k x4:;5i;4s"]],
+"udayanas":[["UDAYANAS","2ln:;4t"],["Udayanas","1oj:;1q0,js"]],
+"uddyotakara":[["UDDYOTAKARA","1oj:;w8"],["Uddyotakara","1oj:;yx,1c"]],
+"ude":[["UDE","1vi:;;;188 jv:;;je"]],
+"udepotia":[["Udepotia","2lj:;2e"]],
+"udi":[["ŪDĪ","2iy:;8v"],["ūdī","2iy:;c4"]],
+"udine":[["Udine","1fg:;;;bv jl:;;;1d"]],
+"udipi":[["Udipi","2f0:;;13"]],
+"udkast":[["Udkast","2fg:;;;2"]],
+"udm":[["ÜdM","267:;;9,2n"]],
+"udo":[["UDO","ve:;29j"]],
+"udssr":[["UdSSR","m4:;6o3 38:;;7s 51:;;28o ab:;;;75 30:;1ed o:;rs 1l:;4e;;26 w:;2i4 r:;h4e;4b1 18:;r,3a p:;1o7;;2l 1r:;;2ox;hp 18:;;hm;g0 7a:;;kd 5n:;1owu,r,202,4e,1n,1q;mqb,cs,2k;25x 39:;;5x 3a:;;176 9n:;46 9:;;e5,l,92 5e:;;;29 8p:;;;1q"]],
+"udvalgte":[["Udvalgte","1li:;;13s"]],
+"udvikling":[["Udvikling","2tk:;;ev"]]}
+);

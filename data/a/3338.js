@@ -23,7 +23,8 @@ HWPH.put("a/3338",
   {"term":"gentleman","qualifier":"","band":null,"col":null},
   {"term":"Urbanisierung","qualifier":"","band":"11","col":"352"},
   {"term":"urbanitas","qualifier":"","band":null,"col":null},
-  {"term":"Weltgewandtheit","qualifier":"","band":null,"col":null}
+  {"term":"Weltgewandtheit","qualifier":"","band":null,"col":null},
+  {"term":"Witz","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":4791,"name":"E. Salin","b":1,"n":2,"l":0,"editor":0,"role":"scholar"},

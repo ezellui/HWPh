@@ -31,8 +31,8 @@ HWPH.put("a/2246",
  ],
  "register":[
   {"term":"Analytik","qualifier":"","band":"6","col":"1367"},
+  {"term":"instrumentum","qualifier":"","band":"6","col":"1365"},
   {"term":"Kanon","qualifier":"","band":"6","col":"1367f."},
-  {"term":"Organ","qualifier":"","band":"6","col":"1365"},
   {"term":"philosophia instrumentalis","qualifier":"","band":"6","col":"1365"},
   {"term":"philosophia organica","qualifier":"","band":"6","col":"1365"},
   {"term":"Propädeutik","qualifier":"","band":"6","col":"1366"},
@@ -145,6 +145,6 @@ HWPH.put("a/2246",
   {"id":22,"name":"Logik","label":"Organon"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Organon"}
  ],
- "reg_authors":[{"name":"Finster Reinhard","n":1}]
+ "reg_authors":[{"name":"Finster Reinhard","n":1},{"name":"Thümmel Wolf","n":6}]
 }
 );

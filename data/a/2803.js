@@ -26,7 +26,11 @@ HWPH.put("a/2803",
   {"id":2269,"lemma":"Paradigma, exemplar","n":1},
   {"id":2894,"lemma":"Sinnesdaten","n":2}
  ],
- "register":[],
+ "register":[
+  {"term":"Als-Struktur","qualifier":"(Wittgenstein)","band":null,"col":null},
+  {"term":"aspect-seeing","qualifier":"(Wittgenstein)","band":null,"col":null},
+  {"term":"seeing as","qualifier":"(Wittgenstein)","band":null,"col":null}
+ ],
  "persons":[
   {"id":30,"name":"L. Wittgenstein","b":3,"n":3,"l":1,"editor":0,"role":"source"},
   {"id":9870,"name":"V. Aldrich","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -73,6 +77,6 @@ HWPH.put("a/2803",
  ],
  "see_also":[],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Sehen als (Wittgenstein)"}],
- "reg_authors":[]
+ "reg_authors":[{"name":"Jantschek Thorsten","n":3}]
 }
 );

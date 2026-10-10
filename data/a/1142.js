@@ -17,7 +17,10 @@ HWPH.put("a/1142",
  "next":{"id":1143,"lemma":"Glaubensphilosophie","band":"3","col":664},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Gewissheit des Glaubens","qualifier":"","band":null,"col":null},
+  {"term":"Heilsgewissheit","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":22,"name":"M. Luther","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":107,"name":"Ph. Melanchthon","b":1,"n":1,"l":0,"editor":0,"role":"source"},

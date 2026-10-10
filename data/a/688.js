@@ -25,6 +25,7 @@ HWPH.put("a/688",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"aussengeleitet","qualifier":"II","band":"2","col":"411"},
   {"term":"Du","qualifier":"II","band":"2","col":"412"},
   {"term":"innen-geleitet","qualifier":"II","band":"2","col":"411"},
   {"term":"Isolation","qualifier":"II","band":"2","col":"411"},

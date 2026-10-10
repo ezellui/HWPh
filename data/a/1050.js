@@ -20,6 +20,7 @@ HWPH.put("a/1050",
  "register":[
   {"term":"bon sens","qualifier":"","band":null,"col":null},
   {"term":"common sense","qualifier":"","band":null,"col":null},
+  {"term":"gentium","qualifier":"","band":null,"col":null},
   {"term":"Geschmack","qualifier":"","band":"3","col":"246"},
   {"term":"gesunder Menschenverstand","qualifier":"","band":null,"col":null},
   {"term":"Gesundheit der Vernunft","qualifier":"","band":null,"col":null},

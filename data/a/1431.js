@@ -17,7 +17,10 @@ HWPH.put("a/1431",
  "next":{"id":1432,"lemma":"Information","band":"4","col":356},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Animalgeister","qualifier":"","band":null,"col":null},
+  {"term":"Influxionismus","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":15,"name":"R. Descartes","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":0,"n":1,"l":0,"editor":0,"role":"source"},

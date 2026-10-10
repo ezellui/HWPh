@@ -33,10 +33,10 @@ HWPH.put("a/2856",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Anpassung","qualifier":"","band":"9","col":"567"},
   {"term":"Auslese","qualifier":"","band":null,"col":null},
   {"term":"Elite","qualifier":"","band":"9","col":"565"},
   {"term":"Herrschaft der Besten","qualifier":"","band":"9","col":"565"},
+  {"term":"Psychologie","qualifier":"","band":"9","col":"567"},
   {"term":"selection","qualifier":"","band":null,"col":null},
   {"term":"Sinn","qualifier":"","band":"9","col":"566"},
   {"term":"struggle for existence","qualifier":"","band":"9","col":"564"}

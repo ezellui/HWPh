@@ -18,8 +18,8 @@ HWPH.put("a/67",
  "backlinks":[{"id":3405,"lemma":"Vergleich","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Vorbild/Abbild","qualifier":"","band":"1","col":"114"},
-  {"term":"– I (met.) 1 913–915 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"similitudo","qualifier":"","band":null,"col":null},
+  {"term":"Vorbild/Abbild","qualifier":"","band":"1","col":"114"}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":2,"n":3,"l":0,"editor":0,"role":"source"},

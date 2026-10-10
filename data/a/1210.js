@@ -27,9 +27,9 @@ HWPH.put("a/1210",
   {"term":"distinctio formalis","qualifier":"","band":"3","col":"985"},
   {"term":"entitas individualis","qualifier":"","band":"3","col":"985"},
   {"term":"entitas positiva","qualifier":"","band":"3","col":"985"},
-  {"term":"Negativität I 6 674 realitas entis","qualifier":"","band":"3","col":"985"},
   {"term":"notion individuelle","qualifier":"","band":null,"col":null},
-  {"term":"principium individuandi","qualifier":"","band":"3","col":"985"}
+  {"term":"principium individuandi","qualifier":"","band":"3","col":"985"},
+  {"term":"realitas entis","qualifier":"","band":"3","col":"985"}
  ],
  "persons":[
   {"id":34,"name":"Joh. Duns Scotus","b":2,"n":2,"l":0,"editor":0,"role":"source"},

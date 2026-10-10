@@ -30,12 +30,11 @@ HWPH.put("a/3339",
   {"term":"exemplar","qualifier":"","band":null,"col":null},
   {"term":"exemplum","qualifier":"","band":null,"col":null},
   {"term":"model","qualifier":"","band":null,"col":null},
-  {"term":"Paradigma; exemplar","qualifier":"","band":null,"col":null},
   {"term":"Prototyp","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Ur -","qualifier":"","band":null,"col":null},
   {"term":"Vernunftideal","qualifier":"","band":"11","col":"355"},
-  {"term":"– I (met.) 1 913–915 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"παράδειγμα","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},

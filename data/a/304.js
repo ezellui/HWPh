@@ -17,10 +17,7 @@ HWPH.put("a/304",
  "next":{"id":305,"lemma":"Auslegung","band":"1","col":666},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Hervorgang","qualifier":"","band":null,"col":null},
-  {"term":"K 7 790","qualifier":"","band":"1","col":"666"}
- ],
+ "register":[{"term":"Hervorgang","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":66,"name":"Eckhart","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -34,7 +31,7 @@ HWPH.put("a/304",
   {"id":2283,"name":"Vetter","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":714,"lemma":"Emanation"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Ausfluss"}],
  "reg_authors":[{"name":"Heidrich Peter","n":20}]
 }

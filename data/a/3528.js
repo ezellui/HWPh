@@ -36,14 +36,18 @@ HWPH.put("a/3528",
  ],
  "register":[
   {"term":"aeterna veritas","qualifier":"","band":null,"col":null},
-  {"term":"ästhetische 12 138 veritas aeterna","qualifier":"","band":null,"col":null},
   {"term":"Bewusstsein, reines","qualifier":"","band":"12","col":"144"},
   {"term":"esse aeternum","qualifier":"","band":"12","col":"142"},
+  {"term":"eternal truth","qualifier":"","band":null,"col":null},
+  {"term":"Hyperpsychologismus","qualifier":"","band":"12","col":"144"},
   {"term":"reines Bewusstsein","qualifier":"","band":"12","col":"144"},
   {"term":"sempiternal truth","qualifier":"","band":null,"col":null},
   {"term":"Unveränderlichkeit","qualifier":"","band":null,"col":null},
+  {"term":"Urgründe ewige Wahrheit","qualifier":"","band":null,"col":null},
+  {"term":"veritas aeterna","qualifier":"","band":null,"col":null},
   {"term":"veritas sempiterna","qualifier":"","band":null,"col":null},
-  {"term":"vérité éternelle","qualifier":"","band":null,"col":null}
+  {"term":"vérité éternelle","qualifier":"","band":null,"col":null},
+  {"term":"Vernunftgesetz","qualifier":"","band":"12","col":"143"}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":1,"n":4,"l":0,"editor":0,"role":"source"},

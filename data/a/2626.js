@@ -25,8 +25,7 @@ HWPH.put("a/2626",
  "outlinks":[{"id":778,"lemma":"Epoché","n":1},{"id":2627,"lemma":"Reduktion, transzendentale","n":1}],
  "register":[
   {"term":"phänomenologische Reduktion","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"Wesensschau","qualifier":"(Husserl)","band":"8","col":"375"},
-  {"term":"– II (phän.) 2 595f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"Wesensschau","qualifier":"(Husserl)","band":"8","col":"375"}
  ],
  "persons":[
   {"id":21,"name":"M. Scheler","b":2,"n":2,"l":0,"editor":0,"role":"source"},

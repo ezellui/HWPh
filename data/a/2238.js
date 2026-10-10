@@ -33,6 +33,6 @@ HWPH.put("a/2238",
  "mentions":[{"id":2233,"lemma":"Ordnung","tf":6},{"id":2775,"lemma":"Scholastik","tf":2}],
  "see_also":[{"id":2233,"lemma":"Ordnung"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Ordo ordinans/ordinatus"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

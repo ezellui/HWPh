@@ -19,12 +19,12 @@ HWPH.put("a/385",
  "outlinks":[],
  "register":[
   {"term":"auctorantia","qualifier":"","band":"1","col":"830"},
+  {"term":"merces","qualifier":"","band":null,"col":null},
   {"term":"praemium","qualifier":"","band":null,"col":null},
   {"term":"remunerantia","qualifier":"","band":"1","col":"830"},
   {"term":"reward","qualifier":"","band":null,"col":null},
   {"term":"Vergeltung","qualifier":"","band":null,"col":null},
-  {"term":"μισθός","qualifier":"","band":"1","col":"830"},
-  {"term":"– I (allg.) 5 503–509 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"μισθός","qualifier":"","band":"1","col":"830"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},

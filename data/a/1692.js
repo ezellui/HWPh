@@ -22,8 +22,8 @@ HWPH.put("a/1692",
  "backlinks":[{"id":2738,"lemma":"Säkularisierung","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"cristallisation","qualifier":"","band":null,"col":null},
-  {"term":"Erstarrung","qualifier":"","band":null,"col":null}
+  {"term":"cristallisation","qualifier":"1","band":null,"col":null},
+  {"term":"Erstarrung","qualifier":"2 (Gehlen)","band":null,"col":null}
  ],
  "persons":[
   {"id":87,"name":"A. Gehlen","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -51,6 +51,6 @@ HWPH.put("a/1692",
   {"id":42,"name":"Soziologie","label":"Kristallisation 2 (Gehlen)"},
   {"id":45,"name":"Topoi und Metaphern","label":"Kristallisation"}
  ],
- "reg_authors":[{"name":"Lipp Wolfgang","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Lipp Wolfgang","n":4},{"name":"Red","n":241}]
 }
 );

@@ -87,7 +87,8 @@ HWPH.put("a/3492",
   {"id":2095,"lemma":"Naturzustand"},
   {"id":3342,"lemma":"Urgeschichte"},
   {"id":3361,"lemma":"Urzeit; Vorzeit"},
-  {"id":3501,"lemma":"Vorsintflutlich"}
+  {"id":3501,"lemma":"Vorsintflutlich"},
+  {"id":3567,"lemma":"Weltgeschichte; Universalgeschichte"}
  ],
  "groups":[
   {"id":8,"name":"Epochenbegriffe","label":"Vorgeschichte"},

@@ -22,6 +22,6 @@ HWPH.put("a/610",
  "mentions":[],
  "see_also":[{"id":49,"lemma":"Adjunktor"}],
  "groups":[{"id":22,"name":"Logik","label":"Disjunktor"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

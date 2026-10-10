@@ -19,8 +19,6 @@ HWPH.put("a/2512",
  "outlinks":[{"id":2514,"lemma":"Psychologie, geisteswissenschaftliche und verstehende","n":1}],
  "register":[
   {"term":"beschreibende Psychologie","qualifier":"","band":null,"col":null},
-  {"term":"des Bewusstseins (Dilthey) 10 95f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"geisteswissenschaftliche 7 1656- 1658 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Grundlegung der Geisteswissenschaften","qualifier":"","band":null,"col":null},
   {"term":"Leben, geistiges","qualifier":"","band":"7","col":"1654"},
   {"term":"zergliedernde Psychologie","qualifier":"","band":null,"col":null},
@@ -51,7 +49,11 @@ HWPH.put("a/2512",
   {"id":3040,"lemma":"Struktur","tf":2},
   {"id":3635,"lemma":"Wissenschaft","tf":2}
  ],
- "see_also":[{"id":2511,"lemma":"Psychologie"}],
+ "see_also":[
+  {"id":2511,"lemma":"Psychologie"},
+  {"id":2595,"lemma":"Realpsychologie"},
+  {"id":3009,"lemma":"Stand des Bewußtseins"}
+ ],
  "groups":[{"id":36,"name":"Psychologie","label":"Psychologie, beschreibende und zergliedernde"}],
  "reg_authors":[{"name":"Lessing Hans-Ulrich","n":11}]
 }

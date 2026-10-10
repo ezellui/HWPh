@@ -29,8 +29,8 @@ HWPH.put("a/2645",
  "register":[
   {"term":"control","qualifier":"","band":null,"col":null},
   {"term":"feed-back","qualifier":"","band":null,"col":null},
-  {"term":"Homöostase","qualifier":"","band":null,"col":null},
   {"term":"Regulation","qualifier":"","band":null,"col":null},
+  {"term":"Rückkopplung","qualifier":"","band":null,"col":null},
   {"term":"Selbstregulation","qualifier":"","band":null,"col":null}
  ],
  "persons":[

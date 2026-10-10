@@ -27,12 +27,21 @@ HWPH.put("a/3252",
   {"id":3263,"lemma":"Überschwang","n":1}
  ],
  "register":[
+  {"term":"abondance","qualifier":"","band":null,"col":null},
+  {"term":"Abundanz","qualifier":"","band":null,"col":null},
+  {"term":"affluent society","qualifier":"","band":null,"col":null},
   {"term":"Angebot/Nachfrage","qualifier":"","band":"11","col":"29"},
+  {"term":"exuberatio","qualifier":"","band":null,"col":null},
+  {"term":"Knappheit","qualifier":"","band":null,"col":null},
+  {"term":"Mangel","qualifier":"","band":null,"col":null},
+  {"term":"Mangel an Sein","qualifier":"","band":"11","col":"28"},
   {"term":"Nachfrage","qualifier":"","band":"11","col":"29"},
-  {"term":"Signifiant/signifié","qualifier":"","band":"11","col":"28"},
+  {"term":"Überflussgesellschaft","qualifier":"","band":null,"col":null},
   {"term":"Überproduktion","qualifier":"","band":"11","col":"28"},
+  {"term":"Überschuss","qualifier":"","band":null,"col":null},
   {"term":"Unersättlichkeit","qualifier":"","band":"11","col":"29"},
-  {"term":"Zuviel","qualifier":"","band":null,"col":null}
+  {"term":"Zuviel","qualifier":"","band":null,"col":null},
+  {"term":"περιουσία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":6348,"name":"J. K. Galbraith","b":3,"n":1,"l":0,"editor":0,"role":"source"},

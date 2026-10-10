@@ -36,6 +36,6 @@ HWPH.put("a/728",
   {"id":25,"name":"Medizin","label":"Empirismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Empirismus"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -17,7 +17,7 @@ HWPH.put("a/1953",
  "next":{"id":1954,"lemma":"Meteora, Meteorologos","band":"5","col":1303},
  "backlinks":[{"id":3362,"lemma":"Urzeugung","n":1}],
  "outlinks":[],
- "register":[{"term":"K 7 789 Protozoa","qualifier":"(Haeckel)","band":null,"col":null}],
+ "register":[{"term":"Protozoa","qualifier":"(Haeckel)","band":null,"col":null}],
  "persons":[
   {"id":11825,"name":"Ch. Th. v. Siebold","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":11826,"name":"H. Stannius","b":1,"n":1,"l":0,"editor":0,"role":"source"},

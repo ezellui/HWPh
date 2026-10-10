@@ -17,7 +17,10 @@ HWPH.put("a/268",
  "next":{"id":269,"lemma":"Astralgeister","band":"1","col":582},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Weltanschauung, ästhetische","qualifier":"","band":"1","col":"581"}],
+ "register":[
+  {"term":"art pour l'art","qualifier":"","band":"1","col":"581"},
+  {"term":"Weltanschauung, ästhetische","qualifier":"","band":"1","col":"581"}
+ ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":625,"name":"H. Kuhn","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},

@@ -11,7 +11,7 @@ HWPH.put("r/75-65",
  ],
  ["Uexküll Thure von","Innenwelt","","4","386","author",1445,"Innenwelt","uexkull thure von"],
  [
-  "Uexküll Thure von","Merkwelt; Merkmal (Uexküll)","","5","1156","author",1931,
+  "Uexküll Thure von","Merkwelt; Merkmal","(Uexküll)","5","1156","author",1931,
   "Merkwelt, Merkmal, Merkzeichen","uexkull thure von"
  ]
 ]

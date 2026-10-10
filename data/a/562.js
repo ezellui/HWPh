@@ -17,7 +17,7 @@ HWPH.put("a/562",
  "next":{"id":563,"lemma":"Depersonalisation","band":"2","col":115},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– I (Hartmann) 8 1267f. s. auch","qualifier":"(Hartmann)","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":35,"name":"N. Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":6989,"name":"H. Hülsmann","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -30,7 +30,11 @@ HWPH.put("a/562",
   {"id":1105,"lemma":"Gesetz","tf":4},
   {"id":1892,"lemma":"Materie","tf":2}
  ],
- "see_also":[{"id":573,"lemma":"Determination"},{"id":1110,"lemma":"Gesetze, kategoriale"}],
+ "see_also":[
+  {"id":573,"lemma":"Determination"},
+  {"id":1110,"lemma":"Gesetze, kategoriale"},
+  {"id":2762,"lemma":"Schichtenlehre, Schichtentheorie"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Dependenzgesetze (Hartmann)"}],
  "reg_authors":[{"name":"Hülsmann Heinrich","n":14}]
 }

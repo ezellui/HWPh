@@ -19,6 +19,8 @@ HWPH.put("a/2855",
  "outlinks":[{"id":736,"lemma":"Endzweck","n":1}],
  "register":[
   {"term":"Antihumanismus","qualifier":"","band":"9","col":"563"},
+  {"term":"ens autoteles","qualifier":"","band":null,"col":null},
+  {"term":"fin en soi","qualifier":"","band":null,"col":null},
   {"term":"Geisel","qualifier":"","band":"9","col":"562"},
   {"term":"Naturzweck","qualifier":"","band":"9","col":"562"},
   {"term":"otage","qualifier":"","band":"9","col":"562"},

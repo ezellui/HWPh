@@ -53,8 +53,7 @@ HWPH.put("a/3270",
   {"term":"Urteilskraft","qualifier":"II","band":"11","col":"81"},
   {"term":"ἄσκησις","qualifier":"","band":null,"col":null},
   {"term":"γυμνασία","qualifier":"","band":null,"col":null},
-  {"term":"μελέτη","qualifier":"","band":null,"col":null},
-  {"term":"– I (eth.) 1 538–541 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"μελέτη","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":2,"n":3,"l":0,"editor":0,"role":"source"},

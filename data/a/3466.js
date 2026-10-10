@@ -22,6 +22,7 @@ HWPH.put("a/3466",
   {"term":"Band","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"Band, substantiales","qualifier":"(Leibniz)","band":null,"col":null},
   {"term":"Panchristismus","qualifier":"(Leibniz)","band":"11","col":"1061"},
+  {"term":"Sinnenwelt/Verstandeswelt","qualifier":"(Leibniz)","band":"11","col":"1061"},
   {"term":"substantia composita","qualifier":"(Leibniz)","band":"11","col":"1061"},
   {"term":"Transsubstantiation","qualifier":"(Leibniz)","band":"11","col":"1061"}
  ],

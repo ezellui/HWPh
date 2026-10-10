@@ -18,14 +18,16 @@ HWPH.put("a/3573",
  "backlinks":[],
  "outlinks":[{"id":2266,"lemma":"Pantheismus","n":1},{"id":3276,"lemma":"Umsicht","n":1}],
  "register":[
-  {"term":"927","qualifier":"","band":"12","col":"503"},
   {"term":"Anknüpfungspunkt","qualifier":"","band":"12","col":"500"},
   {"term":"Existenzerhellung (Jaspers)","qualifier":"","band":"12","col":"504"},
+  {"term":"Konzeptionspunkt","qualifier":"","band":"12","col":"500"},
   {"term":"Orientierung","qualifier":"","band":null,"col":null},
   {"term":"Orientierungssystem","qualifier":"","band":"12","col":"502"},
   {"term":"Orientierungswissen","qualifier":"","band":"12","col":"505"},
   {"term":"Orientierungswissenschaft","qualifier":"","band":"12","col":"501"},
   {"term":"Saturationspunkt","qualifier":"","band":"12","col":"500"},
+  {"term":"Wortleichen","qualifier":"","band":"12","col":"504"},
+  {"term":"Zeichen","qualifier":"","band":"12","col":"503"},
   {"term":"Zeigwort","qualifier":"","band":"12","col":"504"}
  ],
  "persons":[

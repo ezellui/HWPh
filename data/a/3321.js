@@ -27,11 +27,13 @@ HWPH.put("a/3321",
   {"id":3468,"lemma":"Visio","n":1}
  ],
  "register":[
-  {"term":"Arbeit","qualifier":"","band":"11","col":"269"},
   {"term":"Blick","qualifier":"","band":"11","col":"269"},
   {"term":"Fäden, unsichtbare","qualifier":"","band":"11","col":"269"},
   {"term":"Hand, unsichtbare","qualifier":"","band":"11","col":"269"},
-  {"term":"Sichtbarkeit","qualifier":"","band":null,"col":null}
+  {"term":"invisibilitas","qualifier":"","band":null,"col":null},
+  {"term":"invisible hand","qualifier":"","band":"11","col":"269"},
+  {"term":"Sichtbarkeit","qualifier":"","band":null,"col":null},
+  {"term":"ἀόρατον","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":298,"name":"E. Levinas","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -90,6 +92,6 @@ HWPH.put("a/3321",
   {"id":31,"name":"Phänomenologie","label":"Unsichtbarkeit"},
   {"id":44,"name":"Theologie","label":"Unsichtbarkeit"}
  ],
- "reg_authors":[{"name":"Dreisholtkamp Uwe","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Dreisholtkamp Uwe","n":2},{"name":"Red","n":241}]
 }
 );

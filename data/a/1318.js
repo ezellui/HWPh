@@ -19,7 +19,8 @@ HWPH.put("a/1318",
  "outlinks":[{"id":1286,"lemma":"Hochmut","n":1}],
  "register":[
   {"term":"Übermut","qualifier":"","band":null,"col":null},
-  {"term":"Vermessenheit","qualifier":"","band":null,"col":null}
+  {"term":"Vermessenheit","qualifier":"","band":null,"col":null},
+  {"term":"ὕβρις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -52,7 +53,7 @@ HWPH.put("a/1318",
   {"id":214,"name":"G. Kittel","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2612,"lemma":"Rechtsordnung","tf":2},{"id":2160,"lemma":"Norm","tf":2}],
- "see_also":[{"id":1286,"lemma":"Hochmut"}],
+ "see_also":[{"id":1286,"lemma":"Hochmut"},{"id":3383,"lemma":"Verblendung; Verblendungszusammenhang"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Hybris"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Hybris"}

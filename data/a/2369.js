@@ -25,7 +25,7 @@ HWPH.put("a/2369",
  "outlinks":[{"id":614,"lemma":"Dispositionsbegriff","n":1}],
  "register":[
   {"term":"Dingsprache","qualifier":"(Carnap)","band":"7","col":"948"},
-  {"term":"K","qualifier":"(Carnap)","band":null,"col":null},
+  {"term":"logischer","qualifier":"(Carnap)","band":null,"col":null},
   {"term":"physicalism","qualifier":"(Carnap)","band":null,"col":null},
   {"term":"Sprache, physikalische","qualifier":"(Carnap)","band":null,"col":null}
  ],

@@ -19,9 +19,11 @@ HWPH.put("a/1034",
  "outlinks":[],
  "register":[
   {"term":"Geisteschemie","qualifier":"","band":"3","col":"208"},
+  {"term":"Geistesphysik","qualifier":"","band":"3","col":"208"},
   {"term":"history of thought","qualifier":"","band":"3","col":"209"},
   {"term":"intellectual history","qualifier":"","band":"3","col":"209"},
-  {"term":"Methode, geistesgeschichtliche","qualifier":"","band":"3","col":"209"}
+  {"term":"Methode, geistesgeschichtliche","qualifier":"","band":"3","col":"209"},
+  {"term":"Zeitgeist","qualifier":"","band":"3","col":"208"}
  ],
  "persons":[
   {"id":7175,"name":"Dvlg","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
@@ -70,7 +72,8 @@ HWPH.put("a/1034",
   {"id":1036,"lemma":"Geisteswissenschaften"},
   {"id":1284,"lemma":"History of Ideas"},
   {"id":2361,"lemma":"Philosophiegeschichte"},
-  {"id":2676,"lemma":"Religionsgeschichte"}
+  {"id":2676,"lemma":"Religionsgeschichte"},
+  {"id":2943,"lemma":"Sozialgeschichte; Sozialhistorie"}
  ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Geistesgeschichte"},

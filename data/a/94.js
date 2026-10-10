@@ -26,6 +26,6 @@ HWPH.put("a/94",
  "mentions":[],
  "see_also":[{"id":588,"lemma":"Dianoiologie"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Alethiologie (Lambert)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

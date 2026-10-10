@@ -18,8 +18,8 @@ HWPH.put("a/2742",
  "backlinks":[{"id":3411,"lemma":"Verkehrte Welt","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"das Komische, das","qualifier":"","band":"8","col":"1172f."},
-  {"term":"Ironie","qualifier":"","band":"8","col":"1172"}
+  {"term":"Ironie","qualifier":"","band":"8","col":"1172"},
+  {"term":"Komische, das","qualifier":"","band":"8","col":"1172f."}
  ],
  "persons":[
   {"id":205,"name":"J. G. Sulzer","b":2,"n":2,"l":0,"editor":0,"role":"source"},

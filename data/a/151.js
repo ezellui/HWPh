@@ -31,9 +31,7 @@ HWPH.put("a/151",
   {"term":"Perfektibilität","qualifier":"I (anthr.)","band":"1","col":"322"},
   {"term":"Umwelt","qualifier":"II (psych.)","band":"1","col":"325"},
   {"term":"Vernunftgesetz","qualifier":"I (anthr.)","band":"1","col":"324"},
-  {"term":"Zivilisierung","qualifier":"I (anthr.)","band":"1","col":"324"},
-  {"term":"– I (erk.) 2 262–265 s. auch","qualifier":"I (anthr.)","band":null,"col":null},
-  {"term":"– II (psych ) 1 991f s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"Zivilisierung","qualifier":"I (anthr.)","band":"1","col":"324"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -78,7 +76,12 @@ HWPH.put("a/151",
   {"id":2730,"lemma":"Sache","tf":2},
   {"id":3586,"lemma":"Werk","tf":2}
  ],
- "see_also":[{"id":613,"lemma":"Disposition"}],
+ "see_also":[
+  {"id":613,"lemma":"Disposition"},
+  {"id":823,"lemma":"Erziehung des Menschengeschlechts"},
+  {"id":141,"lemma":"Angeboren/erworben, erlernt"},
+  {"id":759,"lemma":"Entwicklung"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Anlage I (anthr.)"},
   {"id":36,"name":"Psychologie","label":"Anlage II (psych.)"}

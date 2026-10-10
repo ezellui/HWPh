@@ -22,10 +22,7 @@ HWPH.put("a/2143",
  "next":{"id":2144,"lemma":"Noch-Nicht-Sein","band":"6","col":869},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"der 4 938","qualifier":"","band":"6","col":"867–869"},
-  {"term":"levelling","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"levelling","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":303,"name":"H. Schelsky","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
   {"id":17,"name":"K. Marx","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -51,7 +48,11 @@ HWPH.put("a/2143",
   {"id":1558,"lemma":"Kennzeichnung, Kennzeichnungstheorie","tf":2},
   {"id":408,"lemma":"Bewegung","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":2761,"lemma":"Schicht, soziale"},
+  {"id":996,"lemma":"Gedächtnis"},
+  {"id":2437,"lemma":"Prägnanz, prägnant"}
+ ],
  "groups":[
   {"id":36,"name":"Psychologie","label":"Nivellierung II (psych.)"},
   {"id":42,"name":"Soziologie","label":"Nivellierung I (soz.)"}

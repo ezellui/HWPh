@@ -47,12 +47,21 @@ HWPH.put("a/183",
   {"id":13747,"name":"Wimmer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":182,"lemma":"Antike","tf":2}],
- "see_also":[{"id":191,"lemma":"Antithetik"}],
+ "see_also":[
+  {"id":191,"lemma":"Antithetik"},
+  {"id":795,"lemma":"Eristik"},
+  {"id":2601,"lemma":"Rechtfertigung"},
+  {"id":2907,"lemma":"Skepsis; Skeptizismus"},
+  {"id":3186,"lemma":"These"},
+  {"id":1641,"lemma":"Kontradiktion"},
+  {"id":3538,"lemma":"Wahrheitswert"},
+  {"id":3607,"lemma":"Widerspruch"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Antilogie I (rhet.)"},
   {"id":22,"name":"Logik","label":"Antilogie II (log.)"},
   {"id":39,"name":"Rhetorik und Argumentationstheorie","label":"Antilogie I (rhet.)"}
  ],
- "reg_authors":[{"name":"Menne Albert","n":61},{"name":"Reiner Hans","n":32},{"name":"Weische Alfons","n":7}]
+ "reg_authors":[{"name":"Menne Albert","n":62},{"name":"Reiner Hans","n":32},{"name":"Weische Alfons","n":7}]
 }
 );

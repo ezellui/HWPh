@@ -62,6 +62,6 @@ HWPH.put("a/1661",
  ],
  "see_also":[{"id":1893,"lemma":"Materie des Urteils"},{"id":3050,"lemma":"Subjekt/Prädikat"}],
  "groups":[{"id":20,"name":"Linguistik","label":"Kopula I"},{"id":22,"name":"Logik","label":"Kopula II"}],
- "reg_authors":[{"name":"Gipper Helmut","n":5},{"name":"Menne Albert","n":61},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Gipper Helmut","n":5},{"name":"Menne Albert","n":62},{"name":"Red","n":241}]
 }
 );

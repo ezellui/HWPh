@@ -26,7 +26,6 @@ HWPH.put("a/1000",
   {"id":1361,"lemma":"Idee","n":1}
  ],
  "register":[
-  {"term":"/Objekt 10 401–433 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Begriff, leerer","qualifier":"","band":"3","col":"61"},
   {"term":"conceptus obiectivus","qualifier":"","band":"3","col":"57"},
   {"term":"ens imaginarium","qualifier":"","band":"3","col":"61"},
@@ -41,7 +40,11 @@ HWPH.put("a/1000",
   {"term":"nihil negativum","qualifier":"","band":"3","col":"61"},
   {"term":"nihil privativum","qualifier":"","band":"3","col":"61"},
   {"term":"Noumenon","qualifier":"","band":"3","col":"61"},
+  {"term":"Sein, gedankliches","qualifier":"","band":null,"col":null},
   {"term":"Sein, ideales","qualifier":"","band":"3","col":"60"},
+  {"term":"Seinsweise des Gedachten","qualifier":"","band":null,"col":null},
+  {"term":"Unding","qualifier":"","band":"3","col":"61"},
+  {"term":"Verstandesding","qualifier":"","band":null,"col":null},
   {"term":"Zahl","qualifier":"","band":"3","col":"56"}
  ],
  "persons":[

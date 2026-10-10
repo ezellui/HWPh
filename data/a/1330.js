@@ -41,15 +41,15 @@ HWPH.put("a/1330",
   {"id":801,"lemma":"Erklären, Erklärung","n":1}
  ],
  "register":[
-  {"term":"coniectura","qualifier":"","band":null,"col":null},
+  {"term":"coniectura","qualifier":"II","band":null,"col":null},
+  {"term":"Grundlage","qualifier":"I","band":null,"col":null},
   {"term":"hypothesis","qualifier":"","band":null,"col":null},
   {"term":"Physik, hypothetische","qualifier":"II","band":"3","col":"1263"},
   {"term":"reductio ad absurdum","qualifier":"III","band":"3","col":"1266"},
   {"term":"Schluss, hypothetischer","qualifier":"III","band":"3","col":"1266"},
-  {"term":"suppositio","qualifier":"","band":null,"col":null},
+  {"term":"suppositio","qualifier":"II","band":null,"col":null},
   {"term":"System","qualifier":"II","band":"3","col":"1262"},
-  {"term":"ὑπόθεσις","qualifier":"","band":null,"col":null},
-  {"term":"– II (wiss.) 2 693–701 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ὑπόθεσις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":4334,"name":"R. M. Blake","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},

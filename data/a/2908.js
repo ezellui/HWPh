@@ -32,6 +32,7 @@ HWPH.put("a/2908",
   {"term":"significatio","qualifier":"","band":null,"col":null},
   {"term":"vox non significativa","qualifier":"","band":"9","col":"974"},
   {"term":"βλίτυρι","qualifier":"","band":null,"col":null},
+  {"term":"κνάξ","qualifier":"","band":"9","col":"974"},
   {"term":"σκινδαψός","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -69,6 +70,6 @@ HWPH.put("a/2908",
  "mentions":[],
  "see_also":[{"id":3322,"lemma":"Unsinn; Widersinn"}],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Skindapsos"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29},{"name":"Schröder Winfried","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30},{"name":"Schröder Winfried","n":29}]
 }
 );

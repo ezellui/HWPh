@@ -36,12 +36,15 @@ HWPH.put("a/3298",
   {"id":3280,"lemma":"Unbedingte, das","n":1}
  ],
  "register":[
-  {"term":"/Objekt IV 10 420 Indifferenz, absolute","qualifier":"","band":"11","col":"169"},
+  {"term":"Absolute","qualifier":"","band":null,"col":null},
   {"term":"Allgrund","qualifier":"","band":"11","col":"169"},
+  {"term":"ens originarium","qualifier":"","band":"11","col":"169"},
   {"term":"Grundlosigkeit","qualifier":"","band":"11","col":"170"},
-  {"term":"Negativität I 6 674 ens originarium","qualifier":"","band":"11","col":"169"},
+  {"term":"Indifferenz, absolute","qualifier":"","band":"11","col":"169"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
+  {"term":"Seinsungrund","qualifier":"","band":"11","col":"171"},
   {"term":"Ungrundlegung","qualifier":"","band":"11","col":"168"},
+  {"term":"Urgründe Urgrund","qualifier":"","band":null,"col":null},
   {"term":"Urmittel","qualifier":"","band":"11","col":"169"},
   {"term":"Urzweck","qualifier":"","band":"11","col":"169"}
  ],

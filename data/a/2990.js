@@ -20,7 +20,7 @@ HWPH.put("a/2990",
   {"id":3589,"lemma":"Wert (linguistisch)","n":1}
  ],
  "outlinks":[{"id":123,"lemma":"Analogie","n":1},{"id":737,"lemma":"Enérgeia, Sprache als","n":1}],
- "register":[{"term":"inneres innere Sprache","qualifier":"(Humboldt)","band":null,"col":null}],
+ "register":[{"term":"innere Sprache","qualifier":"(Humboldt)","band":null,"col":null}],
  "persons":[
   {"id":2992,"name":"O. Funke","b":1,"n":3,"l":1,"editor":0,"role":"scholar"},
   {"id":765,"name":"A. Marty","b":1,"n":3,"l":0,"editor":0,"role":"source"},

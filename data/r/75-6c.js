@@ -22,7 +22,7 @@ HWPH.put("r/75-6c",
   "ullmann wolfgang"
  ],
  [
-  "Ullrich Wolfgang","Zweideutigkeit; Vieldeutigkeit","",null,null,"author",3721,
+  "Ullrich Wolfgang","Zweideutigkeit; Vieldeutigkeit I.","III","12","1514f.","author",3721,
   "Zweideutigkeit; Vieldeutigkeit","ullrich wolfgang"
  ]
 ]

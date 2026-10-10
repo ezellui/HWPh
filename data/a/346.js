@@ -18,10 +18,11 @@ HWPH.put("a/346",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Form (biol.)","qualifier":"","band":null,"col":null},
-  {"term":"Funktion (biol.)","qualifier":"","band":null,"col":null},
-  {"term":"Funktionsplan","qualifier":"","band":null,"col":null},
-  {"term":"Typogenese","qualifier":"","band":"1","col":"756"}
+  {"term":"Bedeutungsträger","qualifier":"(Uexküll)","band":"1","col":"756"},
+  {"term":"Form (biol.)","qualifier":"(Uexküll)","band":null,"col":null},
+  {"term":"Funktion (biol.)","qualifier":"(Uexküll)","band":null,"col":null},
+  {"term":"Funktionsplan","qualifier":"(Uexküll)","band":null,"col":null},
+  {"term":"Typogenese","qualifier":"(Uexküll)","band":"1","col":"756"}
  ],
  "persons":[
   {"id":1238,"name":"J. v. Uexküll","b":1,"n":1,"l":0,"editor":0,"role":"source"},

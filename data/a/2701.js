@@ -20,6 +20,7 @@ HWPH.put("a/2701",
  "register":[
   {"term":"Konfiguration","qualifier":"","band":"8","col":"943"},
   {"term":"Konstellationen","qualifier":"","band":"8","col":"943"},
+  {"term":"saving the phaenomena","qualifier":"","band":null,"col":null},
   {"term":"ση¸´ ζειν τὰφαινόμενα","qualifier":"","band":null,"col":null}
  ],
  "persons":[

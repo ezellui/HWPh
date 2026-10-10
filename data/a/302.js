@@ -17,15 +17,7 @@ HWPH.put("a/302",
  "next":{"id":303,"lemma":"Ausdrucksverstehen","band":"1","col":664},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Ausdruckslehre","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (allg.) 1 653–655 – II (ästh.) 1 655–661 – III (psych.) 1 x- 661f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"Ausdruckslehre","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1588,"name":"R. Kirchhoff","b":0,"n":1,"l":2,"editor":0,"role":"scholar"},
   {"id":177,"name":"L. Klages","b":1,"n":0,"l":1,"editor":0,"role":"source"},

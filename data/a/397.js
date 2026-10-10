@@ -32,6 +32,7 @@ HWPH.put("a/397",
  "outlinks":[],
  "register":[
   {"term":"Beherrschtheit","qualifier":"","band":null,"col":null},
+  {"term":"Bewusstsein, nicht-immanentes","qualifier":"II","band":"1","col":"849"},
   {"term":"gemeine Besonnenheit","qualifier":"II","band":"1","col":"849"},
   {"term":"Sophrosyne","qualifier":"","band":null,"col":null},
   {"term":"temperantia","qualifier":"","band":null,"col":null},

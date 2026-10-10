@@ -79,6 +79,6 @@ HWPH.put("a/1736",
   {"id":3323,"lemma":"Unsterblichkeit"}
  ],
  "groups":[{"id":44,"name":"Theologie","label":"Leben, ewiges"}],
- "reg_authors":[{"name":"Echternach Helmut","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Echternach Helmut","n":4},{"name":"Red","n":241}]
 }
 );

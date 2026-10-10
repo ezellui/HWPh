@@ -18,9 +18,9 @@ HWPH.put("a/2087",
  "backlinks":[{"id":1920,"lemma":"Mensch, natürlicher","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"bzw. vernünftige natürlicher Mensch","qualifier":"","band":null,"col":null},
   {"term":"Kulturmensch","qualifier":"","band":"6","col":"534"},
   {"term":"natural man","qualifier":"","band":null,"col":null},
-  {"term":"natürliche bzw. vernünftige natürlicher Mensch","qualifier":"","band":null,"col":null},
   {"term":"Wilde, der","qualifier":"","band":"6","col":"534"}
  ],
  "persons":[

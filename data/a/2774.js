@@ -17,10 +17,7 @@ HWPH.put("a/2774",
  "next":{"id":2775,"lemma":"Scholastik","band":"8","col":1332},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"goldener Schnitt","qualifier":"","band":null,"col":null},
-  {"term":"– IV (ästh.) 7 1505–1508 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"goldener Schnitt","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":12765,"name":"F. X. Pfeifer","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},

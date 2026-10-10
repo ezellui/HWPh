@@ -18,9 +18,12 @@ HWPH.put("a/680",
  "backlinks":[{"id":1844,"lemma":"Macht","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"afflatus","qualifier":"","band":"2","col":"396"},
+  {"term":"influentia","qualifier":"","band":null,"col":null},
   {"term":"Kausalität","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"Wandel","qualifier":"","band":"2","col":"396"}
+  {"term":"Wandel","qualifier":"","band":"2","col":"396"},
+  {"term":"ἀπορροή","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -37,7 +40,7 @@ HWPH.put("a/680",
   {"id":2338,"name":"O. Bardenhewer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":1769,"lemma":"Leib, Körper","tf":2}],
- "see_also":[],
+ "see_also":[{"id":1431,"lemma":"Influxus physicus, Influxionismus"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Einfluss"}],
  "reg_authors":[{"name":"Specht Rainer","n":32}]
 }

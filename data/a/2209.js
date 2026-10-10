@@ -29,8 +29,7 @@ HWPH.put("a/2209",
  "register":[
   {"term":"Biozönose","qualifier":"I (biol.)","band":"6","col":"1147"},
   {"term":"ecology","qualifier":"","band":null,"col":null},
-  {"term":"Umweltpsychologie","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"– III (psych.) 7 1394–1396 s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"Umweltpsychologie","qualifier":"II (psych.)","band":null,"col":null}
  ],
  "persons":[
   {"id":263,"name":"E. Haeckel","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -80,7 +79,12 @@ HWPH.put("a/2209",
   {"id":527,"lemma":"Dasein","tf":2},
   {"id":2318,"lemma":"Person","tf":2}
  ],
- "see_also":[{"id":2212,"lemma":"Ökosystem"},{"id":3278,"lemma":"Umwelt"}],
+ "see_also":[
+  {"id":2212,"lemma":"Ökosystem"},
+  {"id":3278,"lemma":"Umwelt"},
+  {"id":449,"lemma":"Biotop"},
+  {"id":1753,"lemma":"Lebensraum"}
+ ],
  "groups":[
   {"id":5,"name":"Biologie","label":"Ökologie I (biol.)"},
   {"id":36,"name":"Psychologie","label":"Ökologie II (psych.)"}

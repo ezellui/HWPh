@@ -36,11 +36,11 @@ HWPH.put("a/2085",
   {"term":"Generalisierung, empirische","qualifier":"","band":"6","col":"530"},
   {"term":"Hypothese, nomologische","qualifier":"","band":"6","col":"530"},
   {"term":"lex naturae","qualifier":"","band":null,"col":null},
+  {"term":"loi de la nature","qualifier":"","band":null,"col":null},
   {"term":"natural law","qualifier":"","band":null,"col":null},
   {"term":"Naturgesetz","qualifier":"","band":null,"col":null},
   {"term":"Prinzip","qualifier":"","band":"6","col":"529f."},
-  {"term":"quasinomologisch","qualifier":"","band":"6","col":"530"},
-  {"term":"– III (wiss.) 3 501–514 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"quasinomologisch","qualifier":"","band":"6","col":"530"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":4,"n":1,"l":0,"editor":0,"role":"source"},

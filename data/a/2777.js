@@ -19,7 +19,7 @@ HWPH.put("a/2777",
  "outlinks":[{"id":383,"lemma":"Bel esprit","n":1}],
  "register":[
   {"term":"Geist, schöner","qualifier":"","band":null,"col":null},
-  {"term":"Gelehrtenrepublik","qualifier":"","band":"8","col":"1386"},
+  {"term":"Gelehrter","qualifier":"","band":"8","col":"1386"},
   {"term":"ingenium venustum","qualifier":"","band":"8","col":"1386"},
   {"term":"Schöngeist","qualifier":"","band":null,"col":null}
  ],

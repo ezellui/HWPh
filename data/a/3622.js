@@ -33,13 +33,7 @@ HWPH.put("a/3622",
  "register":[
   {"term":"will to power","qualifier":"(Nietzsche)","band":null,"col":null},
   {"term":"Wille zum Leben","qualifier":"(Nietzsche)","band":"12","col":"797ff."},
-  {"term":"Wille zum Willen","qualifier":"(Nietzsche)","band":"12","col":"799"},
-  {
-   "term":"– I (allg.) 5 585–604 – II (allg.) 5 604–617 – III (russ.) 5 617–622 – IV (marx.) 5 622–625 – V (ind.) 5 625–629 – VI (jüd.) 5 629f. – VII (theol.) 5 630f. Macht",
-   "qualifier":"(Nietzsche)",
-   "band":null,
-   "col":null
-  }
+  {"term":"Wille zum Willen","qualifier":"(Nietzsche)","band":"12","col":"799"}
  ],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":4,"n":1,"l":0,"editor":0,"role":"source"},

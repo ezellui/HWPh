@@ -22,7 +22,6 @@ HWPH.put("a/1702",
  "backlinks":[{"id":3700,"lemma":"Zivilisation","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"- 1126 s. auch","qualifier":"","band":null,"col":null},
   {"term":"cultural anthropology","qualifier":"","band":null,"col":null},
   {"term":"empirische Kulturanthropologie","qualifier":"","band":null,"col":null},
   {"term":"Kulturbefangenheit","qualifier":"","band":"4","col":"1326"},
@@ -86,6 +85,6 @@ HWPH.put("a/1702",
   {"id":7,"name":"Disziplinen und Fächer","label":"Kulturanthropologie"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Kulturanthropologie"}
  ],
- "reg_authors":[{"name":"Grawe Christian","n":16},{"name":"Rudolph Wolfgang","n":5}]
+ "reg_authors":[{"name":"Grawe Christian","n":16}]
 }
 );

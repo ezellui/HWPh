@@ -23,8 +23,8 @@ HWPH.put("a/3161",
   {"id":10041,"name":"Diodorus Siculus","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":275,"lemma":"Athanismus (Athanatismus)"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Thanatismus (Haeckel)"}],
- "reg_authors":[{"name":"Nieke Wolfgang","n":18},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Nieke Wolfgang","n":18},{"name":"Red","n":241}]
 }
 );

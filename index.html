@@ -253,6 +253,11 @@ body.textonly .page{grid-template-columns:minmax(0,1fr)}
 .plist.places tr[data-i]:hover{background:var(--paper-2)}
 .plist.places th.sort{cursor:pointer;user-select:none}
 .plist.places th{font-size:12px;text-align:left;color:var(--ink-2);padding:4px 6px}
+.plist.persons th{font-size:12px;font-weight:normal;text-align:left;color:var(--ink-2);padding:4px 6px;cursor:pointer;user-select:none;white-space:nowrap}
+.plist.persons th.num{text-align:right}
+.plist.persons th.on{color:var(--ink);font-weight:600}
+.plist.persons th:hover{color:var(--ink)}
+#pmore{margin:12px 0 0}
 .results .sopts{margin:-6px 0 10px;font-size:13px}
 .results .sopts label{margin-right:14px}
 .results .sub.warn{color:#8a5a00}
@@ -1876,27 +1881,61 @@ async function showWords(params) {
 }
 
 /* ---------- persons ---------- */
+// the list of persons: two hundred names at a time ('show more', or by itself when the end of the list
+// comes into view), sorted by any column; the names surname first ('Kant, I.'), as a register writes them
 async function showPersons(q, ed) {
   curId = null; markCurrent();
   document.title = t('persons.title') + ' — HWPh';
+  const PAGE = 200, COLS = [['name', t('persons.col_name'), ''], ['n', t('persons.col_articles'), 'num'], ['b', t('persons.col_text'), 'num'],
+    ['notes', t('persons.col_notes'), 'num'], ['lit', t('persons.col_lit'), 'num']];
+  let sort = store.get('psort', 'n'), shown = 0, total = 0, busy = false, gen = 0;
+  if (!COLS.some(c => c[0] === sort)) sort = 'n';
   view.innerHTML = `<div class="page wide"><div class="results">
     <h2>${t('persons.title')}</h2>
     <div class="sub">${t('persons.note')}</div>
     <div class="tools"><input type="search" id="pq" placeholder="${t('persons.q_ph')}" value="${esc(q)}" autocomplete="off">
       <select id="prole">${['', 'thinkers', 'source', 'mixed', 'scholar'].map(v => `<option value="${v}">${t('prole.' + (v || 'all'))}</option>`).join('')}</select>
-      <label><input type="checkbox" id="ped" ${ed ? 'checked' : ''}> ${t('persons.editors')}</label></div>
-    <table class="plist" id="ptab"></table></div></div>`;
-  const load = async () => {
-    const qq = $('#pq').value.trim(), e = $('#ped').checked, role = $('#prole').value;
-    const rows = await api(`/api/persons?limit=300&q=${encodeURIComponent(qq)}&editors=${e ? 1 : 0}&role=${role}`);
-    $('#ptab').innerHTML = rows.length ? rows.map(r => `<tr class="${r.editor ? 'ed' : ''}"><td class="nm"><a href="#/p/${r.id}">${esc(r.name)}</a>${r.editor ? ` <span class="n">${t('persons.editor')}</span>` : (r.role !== 'source' ? ` <span class="n">${t('role.' + r.role)}</span>` : '')}</td>
-      <td class="num">${t('persons.n_art', {n: r.n_articles})}</td><td class="num">${t('cnt.text', {n: r.b})}</td><td class="num">${t('cnt.notes', {n: r.n})}</td><td class="num">${t('cnt.lit', {n: r.l})}</td></tr>`).join('')
-      : '<tr><td>' + t('persons.none') + '</td></tr>';
+      <label><input type="checkbox" id="ped" ${ed ? 'checked' : ''}> ${t('persons.editors')}</label>
+      <span id="pcount" class="n"></span></div>
+    <table class="plist persons" id="ptab"><thead><tr></tr></thead><tbody></tbody></table>
+    <button class="btn" id="pmore" hidden></button></div></div>`;
+  const head = $('#ptab thead tr'), body = $('#ptab tbody'), more = $('#pmore');
+  const drawHead = () => {
+    head.innerHTML = COLS.map(([k, l, c]) => `<th data-k="${k}" class="${c}${sort === k ? ' on' : ''}" title="${t('persons.sort_title')}">${esc(l)}${sort === k ? (k === 'name' ? ' ▴' : ' ▾') : ''}</th>`).join('');
+    head.querySelectorAll('th').forEach(th => th.onclick = () => { if (sort !== th.dataset.k) { sort = th.dataset.k; store.set('psort', sort); drawHead(); load(false); } });
   };
-  let timer; $('#pq').addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(load, 200); });
-  $('#ped').onchange = load; $('#prole').onchange = load;
-  await load();
-  view.scrollTop = 0;
+  const row = r => `<tr class="${r.editor ? 'ed' : ''}"><td class="nm"><a href="#/p/${r.id}" title="${esc(r.name)}">${esc(r.list_name)}</a>${r.editor ? ` <span class="n">${t('persons.editor')}</span>` : (r.role !== 'source' ? ` <span class="n">${t('role.' + r.role)}</span>` : '')}</td>
+      <td class="num">${t('persons.n_art', {n: r.n_articles})}</td><td class="num">${t('cnt.text', {n: r.b})}</td><td class="num">${t('cnt.notes', {n: r.n})}</td><td class="num">${t('cnt.lit', {n: r.l})}</td></tr>`;
+  const load = async again => {
+    if (again && (busy || shown >= total)) return;
+    const my = again ? gen : ++gen;                         // a newer query makes the older answers void
+    busy = true;
+    const qq = $('#pq').value.trim(), e = $('#ped').checked, role = $('#prole').value;
+    const res = await api(`/api/persons?limit=${PAGE}&offset=${again ? shown : 0}&sort=${sort}&q=${encodeURIComponent(qq)}&editors=${e ? 1 : 0}&role=${role}`);
+    busy = false;
+    if (my !== gen) return;
+    if (!again) { body.innerHTML = ''; shown = 0; }
+    total = res.total;
+    body.insertAdjacentHTML('beforeend', res.items.map(row).join(''));
+    shown += res.items.length;
+    if (!total) body.innerHTML = '<tr><td colspan="5">' + t('persons.none') + '</td></tr>';
+    $('#pcount').textContent = total ? t('persons.count', {n: shown, total}) : '';
+    more.hidden = shown >= total;
+    more.textContent = t('persons.more', {n: Math.min(PAGE, total - shown), rest: total - shown});
+    if (!again) view.scrollTop = 0;
+  };
+  more.onclick = () => load(true);
+  if ('IntersectionObserver' in window) {
+    const io = new IntersectionObserver(es => {
+      if (!document.body.contains(more)) { io.disconnect(); return; }
+      if (es.some(x => x.isIntersecting) && !more.hidden) load(true);
+    }, {rootMargin: '400px'});
+    io.observe(more);
+  }
+  let timer; $('#pq').addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(() => load(false), 200); });
+  $('#ped').onchange = () => load(false); $('#prole').onchange = () => load(false);
+  drawHead();
+  await load(false);
 }
 
 async function showPerson(id) {
@@ -1954,9 +1993,10 @@ async function showGraph(kind, id, params) {
   curId = kind === 'a' ? id : null; markCurrent();
   const depth = params.get('depth') === '2' ? 2 : 1;
   const withP = params.get('persons') !== '0';
+  const withM = params.get('mentions') !== '0';
   const scholars = params.get('scholars') === '1';
   const n = params.get('n') || '24';
-  const url = kind === 'a' ? `/api/graph/a/${id}?depth=${depth}&persons=${withP ? 1 : 0}&scholars=${scholars ? 1 : 0}`
+  const url = kind === 'a' ? `/api/graph/a/${id}?depth=${depth}&persons=${withP ? 1 : 0}&mentions=${withM ? 1 : 0}&scholars=${scholars ? 1 : 0}`
                            : `/api/graph/p/${id}?n=${n}&scholars=${scholars ? 1 : 0}`;
   const g = await api(url);
   const centre = g.nodes.find(x => x.id === g.center);
@@ -1964,6 +2004,7 @@ async function showGraph(kind, id, params) {
   const link = (k, v) => { const p2 = new URLSearchParams(params); p2.set(k, v); return `#/g/${kind}/${id}?${p2}`; };
   const tools = (kind === 'a'
     ? `<span class="seg"><button data-h="${link('depth', 1)}" class="${depth === 1 ? 'on' : ''}">${t('graph.neighbours')}</button><button data-h="${link('depth', 2)}" class="${depth === 2 ? 'on' : ''}">${t('graph.two_steps')}</button></span>
+       <label title="${t('graph.mentions_title')}"><input type="checkbox" id="gm" ${withM ? 'checked' : ''}> ${t('graph.mentions')}</label>
        <label><input type="checkbox" id="gp" ${withP ? 'checked' : ''}> ${t('graph.persons')}</label>`
     : `<span class="seg">${['12', '24', '40'].map(v => `<button data-h="${link('n', v)}" class="${n === v ? 'on' : ''}">${v}</button>`).join('')}</span> <span>${t('graph.nearest')}</span>`)
     + ` <label title="${t('graph.scholars_title')}"><input type="checkbox" id="gs" ${scholars ? 'checked' : ''}> ${t('graph.scholars')}</label>`;
@@ -1977,6 +2018,7 @@ async function showGraph(kind, id, params) {
         ${t('legend.hint')}</div></div></div>`;
   view.querySelectorAll('[data-h]').forEach(b => b.onclick = () => { location.hash = b.dataset.h; });
   const gp = $('#gp'); if (gp) gp.onchange = () => { location.hash = link('persons', gp.checked ? 1 : 0); };
+  const gm = $('#gm'); if (gm) gm.onchange = () => { location.hash = link('mentions', gm.checked ? 1 : 0); };
   $('#gs').onchange = e => { location.hash = link('scholars', e.target.checked ? 1 : 0); };
   view.scrollTop = 0;
   drawGraph($('#gsvg'), g, {scholars});

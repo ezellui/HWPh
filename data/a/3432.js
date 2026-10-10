@@ -31,6 +31,7 @@ HWPH.put("a/3432",
   {"term":"Anschauung, intellektuelle","qualifier":"II","band":"11","col":"888"},
   {"term":"Geist (Hegel)","qualifier":"II","band":"11","col":"888"},
   {"term":"hypochondrisch","qualifier":"II","band":"11","col":"888"},
+  {"term":"intellektuelle Anschauung","qualifier":"II","band":"11","col":"888"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Sichversenken","qualifier":"","band":null,"col":null},
   {"term":"Versinken","qualifier":"","band":null,"col":null},
@@ -100,9 +101,10 @@ HWPH.put("a/3432",
   {"id":565,"lemma":"Desappropriatio, expropriatio (sui)"},
   {"id":686,"lemma":"Einkehr"},
   {"id":2693,"lemma":"Resignation, resignieren"},
-  {"id":3301,"lemma":"Unio mystica"}
+  {"id":3301,"lemma":"Unio mystica"},
+  {"id":3422,"lemma":"Vernichtung; Vernichten"}
  ],
  "groups":[{"id":27,"name":"Mystik","label":"Versenken"}],
- "reg_authors":[{"name":"Heidrich Peter","n":20},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Heidrich Peter","n":20},{"name":"Red","n":241}]
 }
 );

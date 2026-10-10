@@ -46,6 +46,7 @@ HWPH.put("a/340",
  ],
  "register":[
   {"term":"Definition","qualifier":"II","band":"1","col":"742"},
+  {"term":"Denkgesetz","qualifier":"II","band":"1","col":"747"},
   {"term":"Forderung","qualifier":"","band":null,"col":null},
   {"term":"Gesetz, logisches","qualifier":"II","band":"1","col":"747"},
   {"term":"Induktion","qualifier":"II","band":"1","col":"745f."},

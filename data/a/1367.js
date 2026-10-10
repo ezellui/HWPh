@@ -22,7 +22,12 @@ HWPH.put("a/1367",
   {"id":3625,"lemma":"Wir","n":1}
  ],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"I I","qualifier":"","band":"4","col":"149"},
+  {"term":"Identität, soziale","qualifier":"","band":"4","col":"150"},
+  {"term":"me","qualifier":"","band":"4","col":"149"},
+  {"term":"self","qualifier":"","band":"4","col":"149"}
+ ],
  "persons":[
   {"id":43,"name":"J. Habermas","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":730,"name":"G. H. Mead","b":1,"n":1,"l":1,"editor":0,"role":"source"},

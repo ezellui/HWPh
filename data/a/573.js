@@ -19,7 +19,8 @@ HWPH.put("a/573",
  "outlinks":[],
  "register":[
   {"term":"ausserkausale Determinanten","qualifier":"(Hartmann)","band":null,"col":null},
-  {"term":"Determinanten, ausserkausale/überkausale","qualifier":"(Hartmann)","band":null,"col":null}
+  {"term":"Determinanten, ausserkausale/überkausale","qualifier":"(Hartmann)","band":null,"col":null},
+  {"term":"überkausale Determinanten","qualifier":"(Hartmann)","band":null,"col":null}
  ],
  "persons":[
   {"id":206,"name":"H. Driesch","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

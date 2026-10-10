@@ -8,6 +8,7 @@ HWPH.put("r/3c3-3b7",
   "σημᾶινον/σημαινόμενον","Signifiant/signifié","I 2","9","755","ref",2884,"Signifiant/signifié",
   "σημαινον/σημαινομενον"
  ],
+ ["σημασία","Signifikation","",null,null,"ref",2885,"Signifikation","σημασια"],
  ["σημε͂ιον","Zeichen","I",null,null,"ref",3673,"Zeichen","σημειον"],
  ["σημε͂ιον","Symbol","I","10","712ff.","ref",3093,"Symbol","σημειον"],
  ["σημε͂ιον θανατώδες","Todeskriterien","",null,null,"ref",3199,"Todeskriterien","σημειον θανατωδεσ"],

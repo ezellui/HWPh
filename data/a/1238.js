@@ -17,7 +17,10 @@ HWPH.put("a/1238",
  "next":{"id":1239,"lemma":"Heilig, Heiligkeit","band":"3","col":1034},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"culture-hero","qualifier":"","band":"3","col":"1034"}],
+ "register":[
+  {"term":"culture-hero","qualifier":"","band":"3","col":"1034"},
+  {"term":"héros civilisateur","qualifier":"","band":"3","col":"1034"}
+ ],
  "persons":[
   {"id":3279,"name":"K. Breysig","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":1125,"name":"J. Wach","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

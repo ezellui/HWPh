@@ -21,10 +21,7 @@ HWPH.put("a/2537",
   {"id":3676,"lemma":"Zeit","n":1}
  ],
  "outlinks":[{"id":2439,"lemma":"Prakr.ti","n":1}],
- "register":[
-  {"term":"Geistseele","qualifier":"","band":null,"col":null},
-  {"term":"– II (ind.) 5 965–967 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Geistseele","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":513,"name":"E. Frauwallner","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":3447,"name":"J. Gonda","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},

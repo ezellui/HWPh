@@ -29,7 +29,11 @@ HWPH.put("a/66",
   {"id":246,"name":"W. Köhler","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}
  ],
  "mentions":[],
- "see_also":[{"id":558,"lemma":"Denkpsychologie"},{"id":678,"lemma":"Einfall"}],
+ "see_also":[
+  {"id":558,"lemma":"Denkpsychologie"},
+  {"id":678,"lemma":"Einfall"},
+  {"id":689,"lemma":"Einsicht, einsichtig"}
+ ],
  "groups":[{"id":36,"name":"Psychologie","label":"Aha-Erlebnis"}],
  "reg_authors":[{"name":"Koch Manfred","n":4}]
 }

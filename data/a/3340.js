@@ -25,10 +25,11 @@ HWPH.put("a/3340",
  "backlinks":[],
  "outlinks":[{"id":3344,"lemma":"Urkommunismus","n":1}],
  "register":[
-  {"term":"A(institut. Formen) 7 797 Heterodoxie","qualifier":"","band":"11","col":"357"},
+  {"term":"apostolisches Zeitalter","qualifier":"","band":"11","col":"356"},
   {"term":"Christentum, frühes","qualifier":"","band":null,"col":null},
   {"term":"E early Christianity","qualifier":"","band":null,"col":null},
   {"term":"Frühchristentum","qualifier":"","band":null,"col":null},
+  {"term":"Heterodoxie","qualifier":"","band":"11","col":"357"},
   {"term":"Zeitalter, apostolisches","qualifier":"","band":"11","col":"356"}
  ],
  "persons":[

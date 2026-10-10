@@ -37,7 +37,13 @@ HWPH.put("a/279",
   {"id":3093,"lemma":"Symbol","tf":2},
   {"id":707,"lemma":"Element","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":281,"lemma":"Atommodell"},
+  {"id":282,"lemma":"Atomtheorie"},
+  {"id":709,"lemma":"Elementarteilchen"},
+  {"id":1424,"lemma":"Individuum, Individualität"},
+  {"id":1521,"lemma":"Kalkül"}
+ ],
  "groups":[
   {"id":22,"name":"Logik","label":"Atom II (log.)"},
   {"id":32,"name":"Physik","label":"Atom I (phys.)"}

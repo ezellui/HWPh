@@ -25,6 +25,6 @@ HWPH.put("a/1882",
  "mentions":[{"id":923,"lemma":"Fleisch","tf":2},{"id":1769,"lemma":"Leib, Körper","tf":2}],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Materia communis/individualis"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

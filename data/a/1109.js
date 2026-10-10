@@ -17,10 +17,7 @@ HWPH.put("a/1109",
  "next":{"id":1110,"lemma":"Gesetze, kategoriale","band":"3","col":532},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"physikalisches Gesetz","qualifier":"","band":null,"col":null},
-  {"term":"– III (wiss.) 3 501–514 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"physikalisches Gesetz","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":113,"name":"I. Newton","b":2,"n":0,"l":1,"editor":0,"role":"source"},
   {"id":78,"name":"P. Lorenzen","b":1,"n":0,"l":1,"editor":0,"role":"mixed"},
@@ -46,7 +43,11 @@ HWPH.put("a/1109",
   {"id":801,"lemma":"Erklären, Erklärung","tf":2},
   {"id":309,"lemma":"Aussage","tf":2}
  ],
- "see_also":[{"id":1105,"lemma":"Gesetz"},{"id":1550,"lemma":"Kausalgesetz"}],
+ "see_also":[
+  {"id":1105,"lemma":"Gesetz"},
+  {"id":1550,"lemma":"Kausalgesetz"},
+  {"id":2085,"lemma":"Naturgesetzlichkeit, Naturgesetz"}
+ ],
  "groups":[
   {"id":32,"name":"Physik","label":"Gesetz, physikalisches"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Gesetz, physikalisches"}

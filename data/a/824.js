@@ -28,14 +28,7 @@ HWPH.put("a/824",
   {"term":"endothymer Grund","qualifier":"","band":"2","col":"739"},
   {"term":"Grund, endothymer","qualifier":"","band":"2","col":"739"},
   {"term":"Thymopsyche","qualifier":"","band":"2","col":"739f."},
-  {"term":"Tiefenperson","qualifier":"","band":"2","col":"739"},
-  {
-   "term":"– I (allg.) 12 1077–1085 – II (psych.) 12 1085–1088 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
-  {"term":"– II (psych.) 10 1488–1492 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Tiefenperson","qualifier":"","band":"2","col":"739"}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":2,"n":1,"l":1,"editor":0,"role":"source"},

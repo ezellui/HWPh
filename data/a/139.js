@@ -32,6 +32,7 @@ HWPH.put("a/139",
   {"id":1046,"lemma":"Geltungstheorie","n":2}
  ],
  "register":[
+  {"term":"Fürwahrhalten","qualifier":"","band":"1","col":"301"},
   {"term":"Verneinung (log.)","qualifier":"","band":null,"col":null},
   {"term":"ἀνάνευσις","qualifier":"","band":"1","col":"300"}
  ],
@@ -60,6 +61,6 @@ HWPH.put("a/139",
   {"id":3715,"lemma":"Zustimmung"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Anerkennungstheorie"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

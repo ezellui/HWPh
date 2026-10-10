@@ -18,6 +18,7 @@ HWPH.put("a/313",
  "backlinks":[{"id":3557,"lemma":"Welt","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Aussenwelt/Innenwelt","qualifier":"","band":null,"col":null},
   {"term":"Äusseres/Inneres","qualifier":"","band":null,"col":null},
   {"term":"Bestimmung, innere","qualifier":"","band":"1","col":"681"},
   {"term":"innen","qualifier":"","band":null,"col":null},

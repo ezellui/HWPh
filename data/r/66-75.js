@@ -26,7 +26,7 @@ HWPH.put("r/66-75",
  ["Führer","Autorität","III (pol.)","1","731","ref",333,"Autorität","fuhrer"],
  ["Führerauslese","Cäsarismus","","1","971","ref",464,"Cäsarismus","fuhrerauslese"],
  ["Führerautorität","Autorität","II (pol.)","1","728","ref",333,"Autorität","fuhrerautoritat"],
- ["Führung","Masse II (soz.)","","5","831","ref",1878,"Masse, Massen","fuhrung"],
+ ["Führung","Masse","II (soz.)","5","831","ref",1878,"Masse, Massen","fuhrung"],
  [
   "Führungssystem","Führungssystem","(Gehlen)","2","1129f.","main",963,"Führungssystem",
   "fuhrungssystem"
@@ -59,6 +59,12 @@ HWPH.put("r/66-75",
   "fur-sich-sein"
  ],
  ["Für-sich-sein","Sein; Seiendes","V","9","213","ref",2806,"Sein; Seiendes","fur-sich-sein"],
+ ["Fürsorge","Sorge","",null,null,"ref",2927,"Sorge","fursorge"],
+ [
+  "Fürsorge","Herrschaft und Knechtschaft","","3","1091","ref",1262,"Herrschaft und Knechtschaft",
+  "fursorge"
+ ],
+ ["Fürsorge","Selbstsorge","","9","534","ref",2848,"Selbstsorge","fursorge"],
  ["Fürsorge, göttliche","Vorsehung","","11","1207ff.","ref",3500,"Vorsehung","fursorge, gottliche"],
  [
   "Fürsorge, soziale","Sozialpolitik","","9","1228ff.","ref",2951,"Sozialpolitik",
@@ -70,7 +76,21 @@ HWPH.put("r/66-75",
  ],
  ["Fürwahrhalten","Fürwahrhalten","","2","1149f.","main",980,"Fürwahrhalten","furwahrhalten"],
  ["Fürwahrhalten","Ahnung","",null,null,"see",68,"Ahnung","furwahrhalten"],
- ["Fürwahrhalten","Meinung Fürwahrhalten","",null,null,"see",null,null,"furwahrhalten"],
+ ["Fürwahrhalten","Meinung","",null,null,"see",1912,"Meinen, Meinung","furwahrhalten"],
+ ["Fürwahrhalten","Anerkennungstheorie","","1","301","ref",139,"Anerkennungstheorie","furwahrhalten"],
+ [
+  "Fürwahrhalten","Überreden; Überzeugen","","11","53","ref",3262,"Überreden; Überzeugen",
+  "furwahrhalten"
+ ],
+ [
+  "Fürwahrhalten","Wahrheitsähnlichkeit","","12","171","ref",3534,"Wahrheitsähnlichkeit",
+  "furwahrhalten"
+ ],
+ [
+  "Fürwahrhalten","Wahrscheinlichkeit","IV B","12","294","ref",3540,"Wahrscheinlichkeit",
+  "furwahrhalten"
+ ],
+ ["Fürwahrhalten","Zweifel","","12","1523","ref",3722,"Zweifel","furwahrhalten"],
  [
   "Fürwahrhalten, objektives","Wissen","VI","12","894","ref",3634,"Wissen",
   "furwahrhalten, objektives"
@@ -113,7 +133,19 @@ HWPH.put("r/66-75",
   "Fundamentalontologie","Analytik des Daseins","(Heidegger)",null,null,"see",129,
   "Analytik des Daseins","fundamentalontologie"
  ],
- ["Fundamentalontologie","Ontologie","",null,null,"see",2218,"Ontologie","fundamentalontologie"],
+ ["Fundamentalontologie","Ontologie","3d",null,null,"see",2218,"Ontologie","fundamentalontologie"],
+ [
+  "Fundamentalontologie","Parontologie","(Becker)",null,null,"see",2278,"Parontologie",
+  "fundamentalontologie"
+ ],
+ [
+  "Fundamentalontologie","Sein; Seiendes","V 6",null,null,"see",2806,"Sein; Seiendes",
+  "fundamentalontologie"
+ ],
+ [
+  "Fundamentalontologie","Seinsverständnis","(Heidegger)",null,null,"see",2816,"Seinsverständnis",
+  "fundamentalontologie"
+ ],
  [
   "Fundamentalontologie (Heidegger)","Fundamentalphilosophie","","2","1135","ref",968,
   "Fundamentalphilosophie","fundamentalontologie (heidegger)"
@@ -166,6 +198,16 @@ HWPH.put("r/66-75",
   "Subjektivität, transzendentale","fungieren"
  ],
  ["Funktion","Funktion","","2","1138–1143","main",974,"Funktion","funktion"],
+ ["Funktion","Stetigkeit","",null,null,"see",3022,"Stetigkeit","funktion"],
+ ["Funktion","Variable","",null,null,"see",3373,"Variable","funktion"],
+ ["Funktion","Zuordnung; Abbildung","",null,null,"see",3710,"Zuordnung; Abbildung","funktion"],
+ ["Funktion","Symbolische Form","(Cassirer)",null,null,"see",3094,"Symbolische Form","funktion"],
+ ["Funktion","Funktionalismus","",null,null,"see",976,"Funktionalismus","funktion"],
+ ["Funktion","Funktionalisierung","",null,null,"see",975,"Funktionalisierung","funktion"],
+ [
+  "Funktion","Systemtheorie; System, soziales","",null,null,"see",3117,
+  "Systemtheorie; System, soziales","funktion"
+ ],
  ["Funktion","Logik","V","5","378","ref",1803,"Logik","funktion"],
  ["Funktion","Operation","","6","1209","ref",2226,"Operation","funktion"],
  ["Funktion","Recte/oblique","","8","362","ref",2621,"Recte/oblique","funktion"],
@@ -175,16 +217,25 @@ HWPH.put("r/66-75",
  ["Funktion","Unbestimmtheit","","11","122","ref",3285,"Unbestimmtheit","funktion"],
  ["Funktion","Universalien","II","11","193","ref",3302,"Universalien","funktion"],
  [
-  "Funktion (biol.)","Bauplan; Funktionsplan (Uexküll) Funktion (math.)","",null,null,"ref",346,
+  "Funktion (biol.)","Bauplan; Funktionsplan","(Uexküll)",null,null,"ref",346,
   "Bauplan, Funktionsplan","funktion (biol.)"
+ ],
+ ["Funktion (math.)","Mathematik","","5","931","ref",1896,"Mathematik","funktion (math.)"],
+ [
+  "Funktion (math.)","Ursache/Wirkung","III","11","396","ref",3350,"Ursache/Wirkung",
+  "funktion (math.)"
  ],
  [
   "Funktion, biometrische","Psychometrie","",null,null,"ref",2523,"Psychometrie",
   "funktion, biometrische"
  ],
  [
-  "Funktion, kognitive","Kognition Funktion, psychometrische","",null,null,"ref",null,null,
+  "Funktion, kognitive","Kognition","",null,null,"ref",1578,"Kognition, kognitiv",
   "funktion, kognitive"
+ ],
+ [
+  "Funktion, psychometrische","Psychometrie","","7","1679","ref",2523,"Psychometrie",
+  "funktion, psychometrische"
  ],
  ["Funktion, rekursive","Algorithmus","","1","156","ref",97,"Algorithmus","funktion, rekursive"],
  [
@@ -239,24 +290,29 @@ HWPH.put("r/66-75",
   "funktionskreis"
  ],
  [
-  "Funktionskreis","Bauplan; Funktionsplan (Uexküll)","",null,null,"see",346,
-  "Bauplan, Funktionsplan","funktionskreis"
+  "Funktionskreis","Bauplan; Funktionsplan","(Uexküll)",null,null,"see",346,"Bauplan, Funktionsplan",
+  "funktionskreis"
  ],
  [
-  "Funktionskreis","Merkwelt; Merkmal (Uexküll)","",null,null,"see",1931,
+  "Funktionskreis","Merkwelt; Merkmal","(Uexküll)",null,null,"see",1931,
   "Merkwelt, Merkmal, Merkzeichen","funktionskreis"
  ],
  ["Funktionskreis","Umwelt","",null,null,"see",3278,"Umwelt","funktionskreis"],
  [
-  "Funktionsplan","Bauplan; Funktionsplan (Uexküll) Funktorvariable","",null,null,"ref",346,
-  "Bauplan, Funktionsplan","funktionsplan"
+  "Funktionsplan","Bauplan; Funktionsplan","(Uexküll)",null,null,"ref",346,"Bauplan, Funktionsplan",
+  "funktionsplan"
+ ],
+ [
+  "Funktorvariable","Prädikatenlogik","","7","1189f.","ref",2426,"Prädikatenlogik, Prädikatenkalkül",
+  "funktorvariable"
  ],
  ["Furcht","Angst; Furcht","",null,null,"ref",144,"Angst, Furcht","furcht"],
  ["Furcht","Affekt","I","1","90","ref",53,"Affekt","furcht"],
  ["Furcht","Faulheit","","2","916","ref",900,"Faulheit","furcht"],
  ["Furcht","Lasterkatalog","","5","37","ref",1730,"Lasterkatalog","furcht"],
  ["Furcht","Religionspsychologie","","8","764","ref",2680,"Religionspsychologie","furcht"],
- ["Furcht","Schreckliche","",null,null,"ref",2780,"Schreckliche","furcht"],
+ ["Furcht","Schreckliche, das","","8","1414","ref",2780,"Schreckliche","furcht"],
+ ["Furcht","Vertrauen","","11","986","ref",3447,"Vertrauen","furcht"],
  [
   "Furcht und Mitleid","Furcht und Mitleid","","2","1147–1149","main",979,"Furcht und Mitleid",
   "furcht und mitleid"
@@ -298,9 +354,6 @@ HWPH.put("r/66-75",
  ["fuzzy-logic","Sorites","1","9","1093","ref",2928,"Sorites","fuzzy-logic"],
  ["fuzzy-logic","Unbestimmtheit","","11","122","ref",3285,"Unbestimmtheit","fuzzy-logic"],
  ["fuzzy-logic","Vagheit","","11","538","ref",3370,"Vagheit; vage","fuzzy-logic"],
- ["Funktion","Funktion","I (math.)","2","1138f.","main",974,"Funktion","funktion"],
- ["Funktion","Funktion","III (psych.)","2","1142","main",974,"Funktion","funktion"],
- ["Funktion","Funktion","IV (soz.)","2","1142","main",974,"Funktion","funktion"],
  ["Fuchs Hans-Jürgen","Amour-propre","","1","206–209","author",117,"Amor fati","fuchs hans-jurgen"],
  [
   "Fuchs Hans-Jürgen","Desappropriatio","","2","116–118","author",565,
@@ -320,7 +373,7 @@ HWPH.put("r/66-75",
   "fuchs hans-jurgen"
  ],
  ["Fuchs Hans-Jürgen","Eigenwille","","2","342–345","author",670,"Eigenwert","fuchs hans-jurgen"],
- ["Fuchs Hans-Jürgen","Hochmut","",null,null,"author",1286,"Hochmut","fuchs hans-jurgen"],
+ ["Fuchs Hans-Jürgen","Hochmut","1. 3","3","1150f.","author",1286,"Hochmut","fuchs hans-jurgen"],
  [
   "Fuchs Hans-Jürgen","Ichheit; Egoität","","4","21–25","author",1337,"Ichheit, Egoität",
   "fuchs hans-jurgen"
@@ -343,11 +396,14 @@ HWPH.put("r/66-75",
   "fulda hans friedrich"
  ],
  [
-  "Fulda Hans Friedrich","Bewusstsein, unglückliches (Hegel)","","1","905f.","author",422,
+  "Fulda Hans Friedrich","Bewusstsein, unglückliches","(Hegel)","1","905f.","author",422,
   "Bewußtsein, unglückliches","fulda hans friedrich"
  ],
  ["Fulda Hans Friedrich","Geist","VIII","3","191–199","author",1030,"Geist","fulda hans friedrich"],
- ["Fulda Hans Friedrich","Grenze","",null,null,"author",1184,"Grenze","fulda hans friedrich"],
+ [
+  "Fulda Hans Friedrich","Grenze; Schranke","","3","875–877","author",1184,"Grenze",
+  "fulda hans friedrich"
+ ],
  [
   "Fulda Hans Friedrich","List der Vernunft","(Hegel)","5","343","author",1798,"List der Vernunft",
   "fulda hans friedrich"
@@ -370,7 +426,7 @@ HWPH.put("r/66-75",
  ["Funke Gerhard","Gehabe","","3","140","author",1025,"Gehabe(n)","funke gerhard"],
  ["Funke Gerhard","Gewohnheit","","3","597–616","author",1132,"Gewohnheit","funke gerhard"],
  ["Funke Gerhard","Gewöhnung","","3","620–622","author",1134,"Gewöhnung","funke gerhard"],
- ["Funke Gerhard","Habe; Haben 1–3","","3","981–983","author",1207,"Habe, Haben","funke gerhard"],
+ ["Funke Gerhard","Habe; Haben","",null,null,"author",1207,"Habe, Haben","funke gerhard"],
  ["Funke Gerhard","Haltung","","3","990f.","author",1217,"Haltung","funke gerhard"],
  [
   "Funke Gerhard","Hexis; habitus","","3","1120–1123","author",1269,"Hexis (habitus)",

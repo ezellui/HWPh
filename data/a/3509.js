@@ -17,10 +17,7 @@ HWPH.put("a/3509",
  "next":{"id":3510,"lemma":"Vorwissenschaftlich; vortheoretisch","band":"11","col":1273},
  "backlinks":[],
  "outlinks":[{"id":1405,"lemma":"Imputation","n":1},{"id":2784,"lemma":"Schuld","n":1}],
- "register":[
-  {"term":"– I (jur.) 12 1445–1448 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– IV (jur.) 8 1465–1472 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[],
  "persons":[
   {"id":4073,"name":"H. Achenbach","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
   {"id":4506,"name":"C. Roxin","b":0,"n":2,"l":1,"editor":0,"role":"mixed"},

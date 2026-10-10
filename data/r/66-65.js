@@ -32,7 +32,10 @@ HWPH.put("r/66-65",
   "Fehllokalisation, zeitliche","Gedächtnistäuschung","","3","47","ref",998,"Gedächtnistäuschung",
   "fehllokalisation, zeitliche"
  ],
- ["Fehlschluss","Irrtum","(Schlussfehler)",null,null,"ref",1499,"Irrtum","fehlschluss"],
+ [
+  "Fehlschluss","Irrtum (Schlussfehler)","",null,null,"ref",1500,"Irrtum (Schlußfehler)",
+  "fehlschluss"
+ ],
  ["Fehlschluss","Paralogismus","",null,null,"ref",2273,"Paralogismus","fehlschluss"],
  ["Fehlschluss","Topik","II","10","1272ff.","ref",3203,"Topik; Topos","fehlschluss"],
  [
@@ -66,12 +69,15 @@ HWPH.put("r/66-65",
   "felapton"
  ],
  ["Feld","Feld","","2","923–929","main",904,"Feld, Feldtheorie","feld"],
+ ["Feld","Gestalt","II (psych.)",null,null,"see",1116,"Gestalt","feld"],
+ ["Feld","Gestalten, physische","",null,null,"see",1117,"Gestalten, physische","feld"],
+ ["Feld","Gestalttheorie","",null,null,"see",1121,"Gestalttheorie","feld"],
  ["Feld (kosmol.)","Wirbeltheorie","","12","822","ref",3626,"Wirbeltheorie","feld (kosmol.)"],
  ["Feld (psych.)","Lebensraum","I",null,null,"ref",1753,"Lebensraum","feld (psych.)"],
  ["Feld (psych.)","Psychodynamik","","7","1592","ref",2508,"Psychodynamik","feld (psych.)"],
  ["Feld (psych.)","Psychologie","","7","1633","ref",2511,"Psychologie","feld (psych.)"],
  [
-  "Feld, elektromagnetisches","Feld I (phys.)","",null,null,"ref",904,"Feld, Feldtheorie",
+  "Feld, elektromagnetisches","Feld","I (phys.)",null,null,"ref",904,"Feld, Feldtheorie",
   "feld, elektromagnetisches"
  ],
  [
@@ -83,15 +89,23 @@ HWPH.put("r/66-65",
   "feld, sprachliches"
  ],
  [
-  "Feld, sprachliches","Bezeichnungslehre Feld, transzendentales","",null,null,"see",null,null,
+  "Feld, sprachliches","Bezeichnungslehre","",null,null,"see",425,"Bezeichnungslehre, Onomasiologie",
   "feld, sprachliches"
+ ],
+ [
+  "Feld, transzendentales","Transzendental","X","10","1417","ref",3219,"Transzendental",
+  "feld, transzendentales"
  ],
  [
   "Feld des Daseienden","Daseinsfeld","(Janssen)","2","25","ref",529,"Daseinsfeld",
   "feld des daseienden"
  ],
  ["Felddynamik","Gestaltkreis","","3","549","ref",1118,"Gestaltkreis","felddynamik"],
- ["Feldtheorie","Feld felicitas","",null,null,"ref",null,null,"feldtheorie"],
+ ["Feldtheorie","Feld","",null,null,"ref",904,"Feld, Feldtheorie","feldtheorie"],
+ ["felicitas","Glück","",null,null,"ref",1155,"Glück, Glückseligkeit","felicitas"],
+ ["felicitas","Religion","IV","8","641","ref",2673,"Religion","felicitas"],
+ ["felicitas","Seelenruhe","II","9","99","ref",2797,"Seelenruhe","felicitas"],
+ ["felicitas","Weisheit","","12","385","ref",3553,"Weisheit","felicitas"],
  ["felicitas civilis","Politik","II","7","1049","ref",2396,"Politik","felicitas civilis"],
  ["felix culpa","Schuld","II 2","8","1449","ref",2784,"Schuld","felix culpa"],
  ["felix culpa","Schuld","III","8","1457","ref",2784,"Schuld","felix culpa"],
@@ -104,14 +118,15 @@ HWPH.put("r/66-65",
   "feminismus"
  ],
  ["Feng-shui","Feng-shui","","2","933","main",906,"Feng-shui","feng-shui"],
- ["féodalité","Feudal; Feudalismus feriae","",null,null,"ref",912,"Feudal, Feudalismus","feodalite"],
- ["Fest","Fest","I","2","938","main",910,"Fest","fest"],
+ ["féodalité","Feudal; Feudalismus","",null,null,"ref",912,"Feudal, Feudalismus","feodalite"],
+ ["feriae","Fest","I","2","938","ref",910,"Fest","feriae"],
  ["Ferio","Syllogismus; Syllogistik","",null,null,"ref",3091,"Syllogismus; Syllogistik","ferio"],
  ["Ferison","Syllogismus; Syllogistik","",null,null,"ref",3091,"Syllogismus; Syllogistik","ferison"],
  [
-  "feritas","Wildheit; Grausamkeit fermentatio","",null,null,"ref",3619,
-  "Wildheit; Grausamkeit; Rohheit","feritas"
+  "feritas","Wildheit; Grausamkeit","",null,null,"ref",3619,"Wildheit; Grausamkeit; Rohheit",
+  "feritas"
  ],
+ ["fermentatio","Stoffwechsel","","10","190","ref",3032,"Stoffwechsel","fermentatio"],
  ["fermentum","Prinzip","III 1","7","1356","ref",2458,"Prinzip","fermentum"],
  ["Fernreiz","Reiz und Reaktion","","8","566","ref",2662,"Reiz und Reaktion","fernreiz"],
  ["Fernstenliebe","Fernstenliebe","(Nietzsche)","2","933","main",907,"Fernstenliebe","fernstenliebe"],
@@ -129,13 +144,20 @@ HWPH.put("r/66-65",
  ["Fertigkeit","Hexis; habitus","",null,null,"see",null,null,"fertigkeit"],
  ["Fertigkeit","Übung","",null,null,"see",3270,"Übung","fertigkeit"],
  ["Fest","Fest","","2","938–940","main",910,"Fest","fest"],
- ["Fest","Musse Festigkeit","",null,null,"see",null,null,"fest"],
- ["festinatio","Übereilung Festino","",null,null,"ref",null,null,"festinatio"],
+ ["Fest","Musse","",null,null,"see",2044,"Muße","fest"],
+ ["Festigkeit","Solidität","",null,null,"ref",2917,"Solidität","festigkeit"],
+ ["Festigkeit","Form und Materie","","2","1016","ref",939,"Form und Materie (Stoff)","festigkeit"],
+ ["festinatio","Übereilung","",null,null,"ref",3250,"Übereilung; Voreiligkeit","festinatio"],
+ ["Festino","Syllogismus; Syllogistik","",null,null,"ref",3091,"Syllogismus; Syllogistik","festino"],
  ["Festkörper","Solidität","","9","1017","ref",2917,"Solidität","festkorper"],
  ["Fetischdienst","Kult","","4","1305","ref",1700,"Kult","fetischdienst"],
  ["Fetischglaube","Kirchenglaube","(Kant)","4","843","ref",1569,"Kirchenglaube","fetischglaube"],
  ["Fetischismus","Fetischismus","","2","940–942","main",911,"Fetischismus","fetischismus"],
- ["Fetischismus","Ware feu céleste","",null,null,"see",null,null,"fetischismus"],
+ [
+  "Fetischismus","Ware","",null,null,"see",3545,"Ware; Warencharakter; Warenfetischismus",
+  "fetischismus"
+ ],
+ ["feu céleste","Genie","I","3","279","ref",1071,"Genie","feu celeste"],
  [
   "Feudal; Feudalismus","Feudal; Feudalismus","","2","942–945","main",912,"Feudal, Feudalismus",
   "feudal; feudalismus"
@@ -143,14 +165,6 @@ HWPH.put("r/66-65",
  ["Feuer, inneres","Reflex","","8","389","ref",2633,"Reflex, Reflexbewegung","feuer, inneres"],
  ["Feuer, noetisches","Theurgie","","10","1181","ref",3187,"Theurgie","feuer, noetisches"],
  ["Feuerseele","Seele","IV","9","27","ref",2794,"Seele","feuerseele"],
- [
-  "Feld II (psych.)","Feld II (psych.)","","2","926f.","main",904,"Feld, Feldtheorie",
-  "feld ii (psych.)"
- ],
- [
-  "Feld, sprachliches","Feld, sprachliches","",null,null,"main",905,"Feld, sprachliches",
-  "feld, sprachliches"
- ],
  ["Fehige Christoph","Wunsch","I (allg.)","12","1077–1085","author",3661,"Wunsch","fehige christoph"],
  ["Feil Ernst","Religion","V B","8","646–653","author",2673,"Religion","feil ernst"],
  ["Feil Ernst","Theonomie","","10","1113–1116","author",3176,"Theonomie","feil ernst"],

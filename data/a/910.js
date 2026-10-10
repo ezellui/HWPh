@@ -25,6 +25,7 @@ HWPH.put("a/910",
  "outlinks":[],
  "register":[
   {"term":"excès","qualifier":"II","band":"2","col":"940"},
+  {"term":"feriae","qualifier":"I","band":"2","col":"938"},
   {"term":"Überschwang","qualifier":"II","band":"2","col":"940"},
   {"term":"ἑορτή","qualifier":"I","band":null,"col":null},
   {"term":"χρόνος i‘ερός","qualifier":"I","band":"2","col":"938"}
@@ -66,7 +67,7 @@ HWPH.put("a/910",
   {"id":3027,"lemma":"Stimmung","tf":2},
   {"id":1199,"lemma":"Gruppe, soziale","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":2044,"lemma":"Muße"}],
  "groups":[
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Fest II"},
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Fest"}

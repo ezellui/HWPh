@@ -25,8 +25,7 @@ HWPH.put("a/1956",
   {"term":"demonstratio significati","qualifier":"","band":"5","col":"1333"},
   {"term":"inventio","qualifier":"","band":"5","col":"1333"},
   {"term":"Methode, synthetische","qualifier":"","band":null,"col":null},
-  {"term":"via resolutionis/compositionis","qualifier":"","band":"5","col":"1332"},
-  {"term":"– I (log.) 1 251–260 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"via resolutionis/compositionis","qualifier":"","band":"5","col":"1332"}
  ],
  "persons":[
   {"id":1944,"name":"J. H. Randall","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},

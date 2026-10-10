@@ -17,7 +17,7 @@ HWPH.put("a/2197",
  "next":{"id":2198,"lemma":"Occasionalismus","band":"6","col":1090},
  "backlinks":[{"id":3091,"lemma":"Syllogismus; Syllogistik","n":1},{"id":3436,"lemma":"Verstandesschluß","n":1}],
  "outlinks":[{"id":1654,"lemma":"Konversion","n":1},{"id":2100,"lemma":"Negation","n":1}],
- "register":[{"term":"– I (log.) 6 666–670 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":197,"name":"W. Hamilton","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":656,"name":"A. Bain","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -30,6 +30,6 @@ HWPH.put("a/2197",
  "mentions":[{"id":707,"lemma":"Element","tf":2}],
  "see_also":[{"id":1654,"lemma":"Konversion"},{"id":2100,"lemma":"Negation"}],
  "groups":[{"id":22,"name":"Logik","label":"Obversion"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

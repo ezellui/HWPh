@@ -25,7 +25,7 @@ HWPH.put("r/61-78",
  ],
  ["Axiomatik","Axiomatik","","1","748–751","main",341,"Axiomatik","axiomatik"],
  ["Axiomatik","Axiom","",null,null,"see",340,"Axiom","axiomatik"],
- ["Axiomatik","Hypothese III","",null,null,"see",1330,"Hypothese, Hypothesis","axiomatik"],
+ ["Axiomatik","Hypothese","III",null,null,"see",1330,"Hypothese, Hypothesis","axiomatik"],
  ["Axiomatik","Methode, axiomatische","",null,null,"see",1957,"Methode, axiomatische","axiomatik"],
  [
   "Axiomensystem, Peanosches","Axiomensystem, Peanosches","","1","751f.","main",342,
@@ -36,15 +36,14 @@ HWPH.put("r/61-78",
   "axiomensystem, peanosches"
  ],
  [
-  "Axiomensystem, Peanosches","Zahl III Axiomensystem, vollständiges","",null,null,"see",null,null,
+  "Axiomensystem, Peanosches","Zahl","III",null,null,"see",3670,"Zahl; Zählen",
   "axiomensystem, peanosches"
  ],
- ["Axiosophie","Wertphilosophie","","12","613","ref",3593,"Wertphilosophie","axiosophie"],
- ["Axiom","Axiom","II","1","747","main",340,"Axiom","axiom"],
  [
-  "Axiomensystem, Peanosches","Axiomensystem, Peanosches","",null,null,"main",342,
-  "Axiomensystem, Peanosches","axiomensystem, peanosches"
+  "Axiomensystem, vollständiges","Vollständigkeit","","11","1138","ref",3484,
+  "Vollständigkeit/Unvollständigkeit","axiomensystem, vollstandiges"
  ],
+ ["Axiosophie","Wertphilosophie","","12","613","ref",3593,"Wertphilosophie","axiosophie"],
  [
   "Axelos Christos","Allgemeines/Besonderes","I","1","164–169","author",101,"Allgemeines/Besonderes",
   "axelos christos"

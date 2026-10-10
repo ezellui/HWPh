@@ -19,9 +19,7 @@ HWPH.put("a/3020",
  "outlinks":[{"id":3021,"lemma":"Stereotypie","n":1}],
  "register":[
   {"term":"Komplexitäts-Theorie","qualifier":"","band":"10","col":"136"},
-  {"term":"minimal group paradigm","qualifier":"","band":"10","col":"137"},
-  {"term":"– I (psych.) 2 417–421 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 11 1263–1268 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"minimal group paradigm","qualifier":"","band":"10","col":"137"}
  ],
  "persons":[
   {"id":4803,"name":"W. Lippmann","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},

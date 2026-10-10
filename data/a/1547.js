@@ -17,7 +17,7 @@ HWPH.put("a/1547",
  "next":{"id":1548,"lemma":"Kathedersozialismus","band":"4","col":786},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"- 220 s. auch","qualifier":"(Schopenhauer)","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":16,"name":"A. Schopenhauer","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":80,"name":"A. Hübscher","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}

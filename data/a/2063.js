@@ -22,17 +22,12 @@ HWPH.put("a/2063",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"819","qualifier":"","band":"6","col":"360"},
   {"term":"Aufrichtigkeit","qualifier":"","band":"6","col":"359"},
-  {
-   "term":"des Seins (Heidegger) Seinsverständnis, nivelliertes",
-   "qualifier":"",
-   "band":"6",
-   "col":"361"
-  },
   {"term":"Einstellung, natürliche","qualifier":"","band":"6","col":"361"},
+  {"term":"Erhabene, das","qualifier":"","band":"6","col":"360"},
   {"term":"Natürliche, das","qualifier":"","band":"6","col":"360"},
-  {"term":"Offenheit","qualifier":"","band":"6","col":"359"}
+  {"term":"Offenheit","qualifier":"","band":"6","col":"359"},
+  {"term":"Seinsverständnis, nivelliertes","qualifier":"","band":"6","col":"361"}
  ],
  "persons":[
   {"id":490,"name":"E. Fink","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},

@@ -17,7 +17,7 @@ HWPH.put("a/425",
  "next":{"id":426,"lemma":"Bezeichnungswandel","band":"1","col":908},
  "backlinks":[{"id":424,"lemma":"Bezeichnung","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Onomasiologie","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":10495,"name":"F. Chr. Diez","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":10496,"name":"E. Tappolet","b":1,"n":1,"l":0,"editor":0,"role":"source"},

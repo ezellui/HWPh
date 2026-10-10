@@ -35,6 +35,6 @@ HWPH.put("a/2451",
  ],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Primalitäten (Campanella)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

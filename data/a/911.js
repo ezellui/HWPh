@@ -23,7 +23,7 @@ HWPH.put("a/911",
  "backlinks":[{"id":3545,"lemma":"Ware; Warencharakter; Warenfetischismus","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Diktatur","qualifier":"II","band":"2","col":"941"},
+  {"term":"Drei-Stadien-Gesetz","qualifier":"II","band":"2","col":"941"},
   {"term":"Pfaffentum","qualifier":"II","band":"2","col":"941"}
  ],
  "persons":[
@@ -57,7 +57,7 @@ HWPH.put("a/911",
   {"id":2106,"lemma":"Neigung","tf":2},
   {"id":2183,"lemma":"Objekt","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":3545,"lemma":"Ware; Warencharakter; Warenfetischismus"}],
  "groups":[{"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Fetischismus"}],
  "reg_authors":[{"name":"Lanczkowski Günter","n":22},{"name":"Seidel Christa","n":7}]
 }

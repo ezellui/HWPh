@@ -47,7 +47,7 @@ HWPH.put("a/1847",
   {"id":1047,"name":"A. Buchenau","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":3030,"lemma":"Stoff","tf":2},{"id":289,"lemma":"Aufklärung","tf":2}],
- "see_also":[{"id":2137,"lemma":"Nichtwissen, sokratisches"}],
+ "see_also":[{"id":2137,"lemma":"Nichtwissen, sokratisches"},{"id":2914,"lemma":"Sokratik; Sokratismus"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Maieutik"},
   {"id":39,"name":"Rhetorik und Argumentationstheorie","label":"Maieutik"}

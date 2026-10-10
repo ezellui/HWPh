@@ -10,7 +10,7 @@ HWPH.put("r/3c4-3b9",
  ["τιμωρία","Strafe","",null,null,"ref",3035,"Strafe","τιμωρια"],
  ["τίσις","Strafe","",null,null,"ref",3035,"Strafe","τισισ"],
  [
-  "τιθέναι","Bestimmung; Determination I (met.)","","1","851","ref",400,
+  "τιθέναι","Bestimmung; Determination","I (met.)","1","851","ref",400,
   "Bestimmung, bestimmen, Determination","τιθεναι"
  ]
 ]

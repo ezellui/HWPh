@@ -24,6 +24,7 @@ HWPH.put("a/2419",
  "outlinks":[],
  "register":[
   {"term":"absolute Macht","qualifier":"","band":null,"col":null},
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"Macht Gottes","qualifier":"","band":null,"col":null},
   {"term":"Macht, absolute/geordnete","qualifier":"","band":null,"col":null},
   {"term":"plenitudo potestatis","qualifier":"","band":"7","col":"1159"},

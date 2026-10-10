@@ -1,13 +1,14 @@
 HWPH.put("r/61-70",
 [
  ["Apagogé","Abduktion","(Peirce)",null,null,"ref",19,"Abduktion","apagoge"],
- [
-  "Apagogé","Anagogé; Epagogé ἀπαγωγὴἐις τὸἀδύνατον","",null,null,"ref",121,
-  "Anagogé, Apagogé, Epagogé","apagoge"
- ],
+ ["Apagogé","Anagogé; Epagogé","",null,null,"ref",121,"Anagogé, Apagogé, Epagogé","apagoge"],
  ["apagogischer Beweis","Beweis","","1","884","ref",410,"Beweis","apagogischer beweis"],
  ["aparitio Dei","Theophanie","",null,null,"ref",3177,"Theophanie","aparitio dei"],
  ["Apathie","Apathie","","1","429–433","main",198,"Apathie","apathie"],
+ ["Apathie","Affekt","",null,null,"see",53,"Affekt","apathie"],
+ ["Apathie","Ataraxie","",null,null,"see",272,"Ataraxie","apathie"],
+ ["Apathie","Apraxie","",null,null,"see",220,"Apraxie","apathie"],
+ ["Apathie","Hemmung, vitale","",null,null,"see",1249,"Hemmung, vitale","apathie"],
  ["Apathie","Autarkie","I","1","689f.","ref",316,"Autarkie, autark","apathie"],
  ["Apathie","Gelassenheit","II","3","222","ref",1041,"Gelassenheit","apathie"],
  ["Apathie","Leiden","","5","208","ref",1771,"Leiden","apathie"],
@@ -26,9 +27,11 @@ HWPH.put("r/61-70",
   "aperspektivisch"
  ],
  [
-  "Aperspektivisch","Perspektive II (ästh.) apex mentis","",null,null,"see",null,null,
-  "aperspektivisch"
+  "Aperspektivisch","Perspektive","II (ästh.)",null,null,"see",2326,
+  "Perspektive, Perspektivismus, perspektivisch","aperspektivisch"
  ],
+ ["apex mentis","Seelenspitze","",null,null,"ref",2799,"Seelenspitze","apex mentis"],
+ ["apex mentis","Geist","V","3","174","ref",1030,"Geist","apex mentis"],
  ["Aphasie","Aphasie","","1","436f.","main",201,"Aphasie","aphasie"],
  ["Aphasie","Agrammatismus","",null,null,"see",65,"Agrammatismus","aphasie"],
  [
@@ -39,7 +42,7 @@ HWPH.put("r/61-70",
  ["Aphorismus","Lebensphilosophie","","5","138","ref",1750,"Lebensphilosophie","aphorismus"],
  ["Apodeiktik","Analytik","","1","249","ref",128,"Analytik","apodeiktik"],
  [
-  "apodeiktisches Wissen","Erkenntnis I (erk.)","","2","647f.","ref",796,"Erkennen, Erkenntnis",
+  "apodeiktisches Wissen","Erkenntnis","I (erk.)","2","647f.","ref",796,"Erkennen, Erkenntnis",
   "apodeiktisches wissen"
  ],
  ["apodeiktisches Wissen","Logik","II","5","364","ref",1803,"Logik","apodeiktisches wissen"],
@@ -48,7 +51,11 @@ HWPH.put("r/61-70",
  ["Apodiktik","Wissenschaftslehre","","12","965","ref",3643,"Wissenschaftslehre","apodiktik"],
  ["apodiktisch","Modallogik","I",null,null,"ref",1997,"Modallogik","apodiktisch"],
  ["apodiktisch","Urteil","III (Formen)",null,null,"ref",3355,"Urteil","apodiktisch"],
- ["apodiktisch","Modalität","",null,null,"ref",1995,"Modalität","apodiktisch"],
+ [
+  "apodiktisch","Modalität des Urteils","","6","14","ref",1996,"Modalität (des Urteils)",
+  "apodiktisch"
+ ],
+ ["apodiktisch/adäquat","Evidenz","II (phän.)","2","833","ref",850,"Evidenz","apodiktisch/adaquat"],
  [
   "apodiktische Evidenz","Einsicht","I","2","414","ref",689,"Einsicht, einsichtig",
   "apodiktische evidenz"
@@ -85,7 +92,10 @@ HWPH.put("r/61-70",
  ["Apophansis","Urteil","II (log.)",null,null,"see",3355,"Urteil","apophansis"],
  ["Apophansis","Wahrheitswert","",null,null,"see",3538,"Wahrheitswert","apophansis"],
  ["Apophantik","Apophantik","(Husserl)","1","447","main",208,"Apophantik","apophantik"],
- ["Apophantik","Ontologie","",null,null,"see",2218,"Ontologie","apophantik"],
+ [
+  "Apophantik","Ontologie, formale/materiale","(Husserl)",null,null,"see",2218,"Ontologie",
+  "apophantik"
+ ],
  ["Apophantisch","Apophantisch","","1","447","main",209,"Apophantisch","apophantisch"],
  ["Apophasis","Apophansis","","1","447","ref",207,"Apophansis","apophasis"],
  [
@@ -96,9 +106,11 @@ HWPH.put("r/61-70",
  ["Aporetik","Problem","","7","1404","ref",2464,"Problem","aporetik"],
  ["Aporie","Aporie","","1","447f.","main",209,"Apophantisch","aporie"],
  ["Aporie","Maieutik","",null,null,"see",1847,"Maieutik","aporie"],
+ ["apostasia","Fall; Abfall","",null,null,"ref",890,"Fall, Abfall","apostasia"],
+ ["aposteriori","Apriori/aposteriori","",null,null,"ref",222,"Apriori, emotionales","aposteriori"],
  [
-  "Apriori/aposteriori apostolisches Zeitalter","Apriori/aposteriori apostolisches Zeitalter","",
-  null,null,"main",222,"Apriori, emotionales","apriori/aposteriori apostolisches zeitalter"
+  "apostolisches Zeitalter","Urchristentum","","11","356","ref",3340,"Urchristentum",
+  "apostolisches zeitalter"
  ],
  ["Apotheose","Religion","VII","8","673","ref",2673,"Religion","apotheose"],
  [
@@ -143,7 +155,14 @@ HWPH.put("r/61-70",
   "Appellfunktion","Mitteilung; Mitteilbarkeit","","5","1430","ref",1986,
   "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","appellfunktion"
  ],
- ["Appellfunktion","Organonmodell","",null,null,"ref",2247,"Organonmodell","appellfunktion"],
+ [
+  "Appellfunktion","Organonmodell der Sprache","","6","1369","ref",2248,"Organprimitivismen",
+  "appellfunktion"
+ ],
+ [
+  "appellierendes Denken","Denken, appellierendes","(Jaspers)",null,null,"ref",553,
+  "Denken, appellierendes","appellierendes denken"
+ ],
  ["Apperzeption","Apperzeption","","1","448–450","main",212,"Apperzeption","apperzeption"],
  [
   "Apperzeption","Apperzeption, transzendentale","",null,null,"see",213,
@@ -197,7 +216,19 @@ HWPH.put("r/61-70",
   "Bewußtsein, transzendentales","apperzeption, transzendentale"
  ],
  [
-  "Apperzeption, transzendentale","Transzendental","",null,null,"see",3219,"Transzendental",
+  "Apperzeption, transzendentale","Transzendental","V-VI",null,null,"see",3219,"Transzendental",
+  "apperzeption, transzendentale"
+ ],
+ [
+  "Apperzeption, transzendentale","Eine, das; Einheit","III","2","379","ref",675,
+  "Eine (das), Einheit","apperzeption, transzendentale"
+ ],
+ [
+  "Apperzeption, transzendentale","Logik, transzendentale","","5","466","ref",1819,
+  "Logik, transzendentale","apperzeption, transzendentale"
+ ],
+ [
+  "Apperzeption, transzendentale","Vielheit","II","11","1051","ref",3462,"Vielheit",
   "apperzeption, transzendentale"
  ],
  [
@@ -213,7 +244,7 @@ HWPH.put("r/61-70",
   "apperzeptionspsychologie"
  ],
  [
-  "Apperzeptionspsychologie","Erkenntnis II (psych.)","","2","672","ref",796,"Erkennen, Erkenntnis",
+  "Apperzeptionspsychologie","Erkenntnis","II (psych.)","2","672","ref",796,"Erkennen, Erkenntnis",
   "apperzeptionspsychologie"
  ],
  [
@@ -274,14 +305,9 @@ HWPH.put("r/61-70",
  ],
  ["appetitus materiae","Streben","","10","275ff.","ref",3038,"Streben","appetitus materiae"],
  [
-  "appetitus naturalis","Begehren; appetitus naturalis","",null,null,"ref",362,
-  "Begehren, appetitus naturalis","appetitus naturalis"
- ],
- [
-  "appetitus naturalis","Desiderium naturale","","2","124","ref",566,"Desiderium naturale",
+  "appetitus naturalis","Begehren; appetitus","",null,null,"ref",362,"Begehren, appetitus naturalis",
   "appetitus naturalis"
  ],
- ["appetitus naturalis","Streben","","10","277ff.","ref",3038,"Streben","appetitus naturalis"],
  ["appetitus perfectionis","Eitelkeit","","2","431","ref",698,"Eitelkeit","appetitus perfectionis"],
  [
   "appetitus perversae celsitudinis","Hochmut","2","3","1152","ref",1286,"Hochmut",
@@ -298,6 +324,10 @@ HWPH.put("r/61-70",
  ],
  ["appetitus rationalis","Motiv","I (eth.)","6","212","ref",2033,"Motiv","appetitus rationalis"],
  ["appetitus rationalis","Streben","","10","275","ref",3038,"Streben","appetitus rationalis"],
+ [
+  "appetitus rationalis","Zweck; Ziel","","12","1495","ref",3718,"Zweck; Ziel",
+  "appetitus rationalis"
+ ],
  ["appetitus sensitivus","Affekt","I","1","92","ref",53,"Affekt","appetitus sensitivus"],
  ["appetitus sensitivus","Herz","","3","1105","ref",1265,"Herz","appetitus sensitivus"],
  ["appetitus sensitivus","Streben","","10","278ff.","ref",3038,"Streben","appetitus sensitivus"],
@@ -371,6 +401,7 @@ HWPH.put("r/61-70",
  ["Apraxie","Handlungshemmung","(Gehlen)",null,null,"see",1222,"Handlungshemmung","apraxie"],
  ["Apraxie","Hemmung, vitale","",null,null,"see",1249,"Hemmung, vitale","apraxie"],
  ["Apriori","Allgemeines/Besonderes","III 3","1","184","ref",101,"Allgemeines/Besonderes","apriori"],
+ ["Apriori","Objekt","","6","1045","ref",2183,"Objekt","apriori"],
  [
   "Apriori/aposteriori","Apriori/aposteriori","","1","462–474","main",221,"A priori/a posteriori",
   "apriori/aposteriori"
@@ -438,7 +469,18 @@ HWPH.put("r/61-70",
   "Apriori, religiöses","Apriori, religiöses","(Otto)","1","475f.","main",223,"Apriori, religiöses",
   "apriori, religioses"
  ],
- ["Apriori, religiöses","Ganz Andere","",null,null,"see",985,"Ganz Andere","apriori, religioses"],
+ [
+  "Apriori, religiöses","Ganz Andere, das","(Otto)",null,null,"see",985,"Ganz Andere",
+  "apriori, religioses"
+ ],
+ [
+  "Apriori, religiöses","Mysterium tremendum et fascinosum","(Otto)",null,null,"see",2049,
+  "Mysterium tremendum et fascinosum","apriori, religioses"
+ ],
+ [
+  "Apriori, religiöses","Numinose, das","(Otto)",null,null,"see",2175,"Numinose, das",
+  "apriori, religioses"
+ ],
  [
   "apriori affectif","Wahrnehmung","VIII (ästh.)","12","245","ref",3539,"Wahrnehmung",
   "apriori affectif"
@@ -457,29 +499,12 @@ HWPH.put("r/61-70",
  ["Apriorität","Apriorismus","","1","476","ref",224,"Apriorismus","aprioritat"],
  ["aptitudo","Repugnanz","I","8","881","ref",2689,"Repugnanz","aptitudo"],
  ["aptitudo","Streben","","10","279","ref",3038,"Streben","aptitudo"],
- ["aptum","Geziemende","",null,null,"ref",1136,"Geziemende","aptum"],
- ["Apathie","Apathie","I (eth.)","1","431","main",198,"Apathie","apathie"],
- ["Apathie","Gewöhnung","","3","622","ref",1134,"Gewöhnung","apathie"],
- ["Apathie","Vernunft; Verstand","III E","11","788","ref",3423,"Vernunft; Verstand","apathie"],
+ ["aptum","Geziemende, das","5","3","625","ref",1136,"Geziemende","aptum"],
  [
   "Apriori/aposteriori","Apriori/aposteriori","I","1","462","main",221,"A priori/a posteriori",
   "apriori/aposteriori"
  ],
  ["Apriori/aposteriori","Beweis","","1","884","ref",410,"Beweis","apriori/aposteriori"],
- ["Apathie","Apathie","",null,null,"main",198,"Apathie","apathie"],
- ["Apathie","Ataraxie","",null,null,"ref",272,"Ataraxie","apathie"],
- ["Apperzeption","Apperzeption","",null,null,"main",212,"Apperzeption","apperzeption"],
- ["Apperzeption","Sinne, die","",null,null,"ref",2892,"Sinne, die","apperzeption"],
- ["Apperzeption","Wahrnehmung","II",null,null,"ref",3539,"Wahrnehmung","apperzeption"],
- ["Apperzeption","Gefühl","I","3","82","ref",1009,"Gefühl","apperzeption"],
- ["Apperzeption","Psychologie","","7","1602ff.","ref",2511,"Psychologie","apperzeption"],
- [
-  "Apperzeption","Psychologie, rationale","","7","1667","ref",2519,"Psychologie, rationale",
-  "apperzeption"
- ],
- ["Apperzeption","Verstehen","","11","922","ref",3438,"Verstehen","apperzeption"],
- ["Apperzeption","Wahrnehmung","IV","12","212","ref",3539,"Wahrnehmung","apperzeption"],
- ["Apperzeption","Wahrnehmung","V (psych.)","12","221","ref",3539,"Wahrnehmung","apperzeption"],
  ["Apel Karl-Otto","Verstehen","","11","918–938","author",3438,"Verstehen","apel karl-otto"],
  [
   "Apitzsch Ursula","Massenkommunikation","","5","832–836","author",1879,"Massenkommunikation",

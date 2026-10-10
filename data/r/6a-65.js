@@ -6,10 +6,8 @@ HWPH.put("r/6a-65",
   "Je-ne-sais-quoi","Je-ne-sais-quoi","","4","640–644","main",1508,"Je ne sais quoi",
   "je-ne-sais-quoi"
  ],
- [
-  "Je-ne-sais-quoi","Grazie; Anmut je-ne-sais-quoi","",null,null,"see",1182,"Grazie, Anmut",
-  "je-ne-sais-quoi"
- ],
+ ["Je-ne-sais-quoi","Grazie; Anmut","",null,null,"see",1182,"Grazie, Anmut","je-ne-sais-quoi"],
+ ["je-ne-sais-quoi","Empfindung","I (erk.)","2","458","ref",723,"Empfindung","je-ne-sais-quoi"],
  ["Jenseits","Hölle","",null,null,"ref",1290,"Hölle","jenseits"],
  [
   "jenseits des Seins","Überseiend","",null,null,"ref",3264,"Überseiend; überwesentlich",
@@ -32,9 +30,10 @@ HWPH.put("r/6a-65",
   "Umwertung aller Werte","jenseits von gut und bose"
  ],
  [
-  "Jenseitsreise","Meteora; Meteorologos Jesuitenscholastik","",null,null,"ref",1954,
-  "Meteora, Meteorologos","jenseitsreise"
+  "Jenseitsreise","Meteora; Meteorologos","",null,null,"ref",1954,"Meteora, Meteorologos",
+  "jenseitsreise"
  ],
+ ["Jesuitenscholastik","Suarezismus","",null,null,"ref",3045,"Suarezismus","jesuitenscholastik"],
  ["Jesuitismus","Neuscholastik","","6","771","ref",2125,"Neuscholastik","jesuitismus"],
  [
   "Jesuitismus, epistemologischer","Pragmatismus","","7","1248","ref",2436,
@@ -44,7 +43,12 @@ HWPH.put("r/6a-65",
  ["Jetzt","Augenblick","(Kierkegaard)",null,null,"see",295,"Augenblick","jetzt"],
  ["Jetzt","Jetztzeit","",null,null,"see",1511,"Jetztzeit","jetzt"],
  ["Jetzt","Nunc stans","",null,null,"see",2176,"Nunc stans","jetzt"],
- ["Jetzt","Punkt Jetzt","",null,null,"see",null,null,"jetzt"],
+ ["Jetzt","Punkt","",null,null,"see",2534,"Punkt, Punktualität","jetzt"],
+ ["Jetzt","Gegenwart","","3","137","ref",1023,"Gegenwart","jetzt"],
+ ["Jetzt","Präsenz","","7","1263","ref",2444,"Präsenz","jetzt"],
+ ["Jetzt","Wo; wann","II","12","997","ref",3649,"Wo; Wann","jetzt"],
+ ["Jetzt","Zeit","VI","12","1242","ref",3676,"Zeit","jetzt"],
+ ["Jetzt","Zeit","IX (chin.)","12","1261","ref",3676,"Zeit","jetzt"],
  [
   "Jetzt der Erkennbarkeit","Jetztzeit","II (Benjamin)",null,null,"ref",1511,"Jetztzeit",
   "jetzt der erkennbarkeit"

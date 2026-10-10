@@ -30,8 +30,8 @@ HWPH.put("r/64-6f",
  ],
  ["doctor humilitatis","Demut","","2","57","ref",550,"Demut","doctor humilitatis"],
  ["doctor subtilis","Subtilität","","10","565","ref",3067,"Subtilität","doctor subtilis"],
- ["doctrina","Disciplina II","",null,null,"ref",607,"Disciplina, doctrina","doctrina"],
- ["doctrina","Methode","III",null,null,"ref",1955,"Methode","doctrina"],
+ ["doctrina","Disciplina","II",null,null,"ref",607,"Disciplina, doctrina","doctrina"],
+ ["doctrina","Methode","III 1",null,null,"ref",1955,"Methode","doctrina"],
  ["doctrina","Wissenschaft","I",null,null,"ref",3635,"Wissenschaft","doctrina"],
  ["doctrina","Rechtsdogmatik","","8","269","ref",2603,"Rechtsdogmatik","doctrina"],
  ["doctrina christiana","Theologie","","10","1087f.","ref",3169,"Theologie","doctrina christiana"],
@@ -135,7 +135,7 @@ HWPH.put("r/64-6f",
   "Doppelnatur","Leib-Seele-Verhältnis","",null,null,"see",1770,"Leib-Seele-Verhältnis",
   "doppelnatur"
  ],
- ["Doppelnatur","Mensch","III",null,null,"see",1917,"Mensch","doppelnatur"],
+ ["Doppelnatur","Mensch","III 1",null,null,"see",1917,"Mensch","doppelnatur"],
  ["Doppelnatur","Occasionalismus","",null,null,"see",2198,"Occasionalismus","doppelnatur"],
  [
   "Doppelnatur","Parallelismus, psychophysischer","",null,null,"see",2272,
@@ -211,7 +211,6 @@ HWPH.put("r/64-6f",
   "Doxa, passive","Passivität; passive Synthesis","","7","166","ref",2288,
   "Passivität, passive Synthesis","doxa, passive"
  ],
- ["Doppelnatur","Doppelnatur","","2","283","main",631,"Doppelnatur","doppelnatur"],
  [
   "Docta ignorantia","Docta ignorantia","(Cusanus)",null,null,"main",624,"Docta ignorantia",
   "docta ignorantia"

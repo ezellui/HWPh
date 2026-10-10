@@ -43,7 +43,7 @@ HWPH.put("a/1339",
   {"id":1343,"lemma":"Idealismus","tf":2},
   {"id":1680,"lemma":"Kraft","tf":2}
  ],
- "see_also":[{"id":1361,"lemma":"Idee"},{"id":2776,"lemma":"Schöne"}],
+ "see_also":[{"id":1361,"lemma":"Idee"},{"id":2776,"lemma":"Schöne"},{"id":3482,"lemma":"Vollkommenheit"}],
  "groups":[{"id":1,"name":"Ästhetik und Kunsttheorie","label":"Ideal"}],
  "reg_authors":[{"name":"Axelos Christos","n":4}]
 }

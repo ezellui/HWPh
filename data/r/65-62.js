@@ -4,7 +4,7 @@ HWPH.put("r/65-62",
  ["Ebenbild","Abbildtheorie","",null,null,"see",18,"Abbildtheorie","ebenbild"],
  ["Ebenbild","Bild","I (met.)",null,null,"see",431,"Bild","ebenbild"],
  ["Ebenbild","Gottebenbildlichkeit","",null,null,"see",1163,"Gottebenbildlichkeit","ebenbild"],
- ["Ebenmass","Mass II (ästh.)","","5","816","ref",1877,"Maß","ebenmass"],
+ ["Ebenmass","Mass","II (ästh.)","5","816","ref",1877,"Maß","ebenmass"],
  ["Ebenmerklich","Ebenmerklich","","2","305f.","main",648,"Ebenmerklich","ebenmerklich"],
  ["Ebenmerklich","Beobachtungsfehler","",null,null,"see",386,"Beobachtungsfehler","ebenmerklich"],
  ["Ebenmerklich","Fechnersches Gesetz","",null,null,"see",901,"Fechnersches Gesetz","ebenmerklich"],
@@ -14,8 +14,6 @@ HWPH.put("r/65-62",
   "ebrietas","Trunkenheit/Nüchternheit","",null,null,"ref",3238,"Trunkenheit/Nüchternheit",
   "ebrietas"
  ],
- ["Ebenmerklich","Ebenmerklich","",null,null,"main",648,"Ebenmerklich","ebenmerklich"],
- ["Ebenmerklich","Fechnersches","",null,null,"ref",null,null,"ebenmerklich"],
  [
   "Ebbersmeyer Sabrina","Spekulation","","9","1355–1372","author",2969,"Spekulation",
   "ebbersmeyer sabrina"

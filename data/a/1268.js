@@ -24,6 +24,7 @@ HWPH.put("a/1268",
   {"term":"algebra philosophica","qualifier":"","band":"3","col":"1117"},
   {"term":"ars combinatoria","qualifier":"","band":"3","col":"1117"},
   {"term":"Begriff, heuristischer","qualifier":"","band":"3","col":"1118"},
+  {"term":"Erfindungskunst","qualifier":"","band":null,"col":null},
   {"term":"facultas fingendi","qualifier":"","band":"3","col":"1118"},
   {"term":"Fiktion, heuristische","qualifier":"","band":"3","col":"1117"},
   {"term":"heuretica","qualifier":"","band":"3","col":"1116"},
@@ -32,8 +33,8 @@ HWPH.put("a/1268",
   {"term":"Lernen","qualifier":"","band":"3","col":"1116"},
   {"term":"logocritica","qualifier":"","band":"3","col":"1116"},
   {"term":"via demonstrativa","qualifier":"","band":"3","col":"1116"},
-  {"term":"εὑρετικὸς λόγος","qualifier":"","band":"3","col":"1116"},
-  {"term":"– III (log.) 4 552–565 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"via indicativa","qualifier":"","band":"3","col":"1116"},
+  {"term":"εὑρετικὸς λόγος","qualifier":"","band":"3","col":"1116"}
  ],
  "persons":[
   {"id":52,"name":"A. G. Baumgarten","b":2,"n":2,"l":0,"editor":0,"role":"source"},

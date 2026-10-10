@@ -22,6 +22,6 @@ HWPH.put("a/1419",
  "mentions":[],
  "see_also":[{"id":696,"lemma":"Einzelurteil"},{"id":1413,"lemma":"Individualaussage"}],
  "groups":[{"id":22,"name":"Logik","label":"Individualurteil"}],
- "reg_authors":[{"name":"Hüllen Jürgen","n":7},{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Hüllen Jürgen","n":7},{"name":"Menne Albert","n":62}]
 }
 );

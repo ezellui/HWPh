@@ -47,6 +47,6 @@ HWPH.put("a/2017",
  ],
  "see_also":[{"id":2015,"lemma":"Monismus"},{"id":2381,"lemma":"Pluralismus"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Monopluralismus"}],
- "reg_authors":[{"name":"Marcus Hugo","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Marcus Hugo","n":1},{"name":"Red","n":241}]
 }
 );

@@ -21,8 +21,7 @@ HWPH.put("a/1192",
   {"term":"biogenetisches Grundgesetz","qualifier":"","band":null,"col":null},
   {"term":"Cenogenesis","qualifier":"","band":"3","col":"910"},
   {"term":"Entwicklung (biol.)","qualifier":"","band":"3","col":"910"},
-  {"term":"Rekapitulation","qualifier":"","band":"3","col":"910"},
-  {"term":"– II (Haeckel) 7 46 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Rekapitulation","qualifier":"","band":"3","col":"910"}
  ],
  "persons":[
   {"id":263,"name":"E. Haeckel","b":1,"n":2,"l":0,"editor":0,"role":"source"},

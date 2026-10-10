@@ -18,7 +18,6 @@ HWPH.put("a/2883",
  "backlinks":[{"id":3438,"lemma":"Verstehen","n":1},{"id":3673,"lemma":"Zeichen","n":1}],
  "outlinks":[{"id":2371,"lemma":"Physiognomik, Physiognomie","n":1}],
  "register":[
-  {"term":"Ähnlichkeit","qualifier":"","band":"9","col":"752"},
   {"term":"ars signata","qualifier":"","band":"9","col":"751"},
   {"term":"Geburt aller Wesen","qualifier":"","band":"9","col":"752"},
   {"term":"Gleichnis","qualifier":"","band":"9","col":"752"},
@@ -27,7 +26,8 @@ HWPH.put("a/2883",
   {"term":"notae hieroglyphicae","qualifier":"","band":"9","col":"752"},
   {"term":"principium intelligens","qualifier":"","band":"9","col":"753"},
   {"term":"scientia signata","qualifier":"","band":"9","col":"751"},
-  {"term":"signum signatum","qualifier":"","band":"9","col":"751"}
+  {"term":"signum signatum","qualifier":"","band":"9","col":"751"},
+  {"term":"similitudo","qualifier":"","band":"9","col":"752"}
  ],
  "persons":[
   {"id":4808,"name":"O. Croll","b":2,"n":5,"l":0,"editor":0,"role":"mixed"},
@@ -123,6 +123,6 @@ HWPH.put("a/2883",
   {"id":26,"name":"Metaphysik","label":"Signatur; Signaturenlehre"},
   {"id":28,"name":"Naturphilosophie","label":"Signatur; Signaturenlehre"}
  ],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

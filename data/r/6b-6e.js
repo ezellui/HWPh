@@ -1,6 +1,6 @@
 HWPH.put("r/6b-6e",
 [
- ["Knappheit","Überfluss κνάξ","",null,null,"ref",null,null,"knappheit"],
+ ["Knappheit","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft","knappheit"],
  [
   "Knecht","Herrschaft und Knechtschaft","",null,null,"ref",1262,"Herrschaft und Knechtschaft",
   "knecht"
@@ -38,7 +38,10 @@ HWPH.put("r/6b-6e",
  ["Knebel Sven K","Skotismus","","9","988–991","author",2911,"Skotismus","knebel sven k"],
  ["Knebel Sven K","Spielraum","","9","1390–1392","author",2974,"Spielraum","knebel sven k"],
  ["Knebel Sven K","Suarezismus","","10","368–371","author",3045,"Suarezismus","knebel sven k"],
- ["Knebel Sven K","Subjekt","",null,null,"author",3047,"Subjekt","knebel sven k"],
+ [
+  "Knebel Sven K","Subjekt/Objekt I.","III","10","401–407","author",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","knebel sven k"
+ ],
  [
   "Knebel Sven K","Unfehlbarkeit","I (erk.)","11","150–156","author",3294,"Unfehlbarkeit",
   "knebel sven k"
@@ -74,11 +77,11 @@ HWPH.put("r/6b-6e",
   "knispel wolfgang"
  ],
  [
-  "Knispel Wolfgang","Materialismus, dialektischer","",null,null,"author",1887,
+  "Knispel Wolfgang","Materialismus, dialektischer I.","V","5","851–853","author",1887,
   "Materialismus, dialektischer","knispel wolfgang"
  ],
  ["Knoche Susanne","Selbstliebe","II","9","476–487","author",2840,"Selbstliebe","knoche susanne"],
  ["Knopf Jan","Roman","","8","1070–1076","author",2723,"Roman","knopf jan"],
- ["Knudsen Christian","Idee","II A",null,null,"author",1361,"Idee","knudsen christian"]
+ ["Knudsen Christian","Idee II A 5; B 10.","","13","4","author",null,null,"knudsen christian"]
 ]
 );

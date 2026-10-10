@@ -32,6 +32,7 @@ HWPH.put("a/2079",
  "outlinks":[],
  "register":[
   {"term":"élan vital","qualifier":"","band":"6","col":"509"},
+  {"term":"hervorbringende/hervorgebrachte Natur","qualifier":"","band":null,"col":null},
   {"term":"ordo ordinans/ordinatus","qualifier":"","band":"6","col":"507"},
   {"term":"principium generationis","qualifier":"","band":"6","col":"505"},
   {"term":"principium ordinans naturam","qualifier":"","band":"6","col":"505"},

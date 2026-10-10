@@ -1,14 +1,11 @@
 HWPH.put("r/69-6d",
 [
  ["Implikation","Implikation","1","4","263","main",1399,"Implikation","implikation"],
- ["Implikation","Implikation","",null,null,"main",1399,"Implikation","implikation"],
- ["Implikation","Porisma","",null,null,"ref",2406,"Porisma","implikation"],
- ["Immanenz","Immanenz","","4","234","main",1390,"Immanent, Immanenz","immanenz"],
  ["Image","Image","","4","215–217","main",1388,"Image","image"],
  ["Image","Anschauungsbild","",null,null,"see",165,"Anschauungsbild","image"],
  ["Image","Archetypus","",null,null,"see",239,"Archetypus","image"],
  ["Image","Leitbild","",null,null,"see",1776,"Leitbild","image"],
- ["Image","Schema; Schematismus II (psych.)","",null,null,"see",2760,"Schema, Schematismus","image"],
+ ["Image","Schema; Schematismus","II (psych.)",null,null,"see",2760,"Schema, Schematismus","image"],
  ["Image","Stereotyp","",null,null,"see",3020,"Stereotyp","image"],
  ["Image","Vorurteil","II (psych.)",null,null,"see",3507,"Vorurteil","image"],
  ["image","Vorstellung","",null,null,"ref",3503,"Vorstellung","image"],
@@ -60,7 +57,7 @@ HWPH.put("r/69-6d",
  ],
  ["Imagination","Denken","I","2","79","ref",552,"Denken","imagination"],
  [
-  "Imagination","Invention; Erfindung III (log.)","","4","563","ref",1490,
+  "Imagination","Invention; Erfindung","III (log.)","4","563","ref",1490,
   "Invention, Erfindung, Entdeckung","imagination"
  ],
  ["imagination","Vernunft; Verstand","V","11","815","ref",3423,"Vernunft; Verstand","imagination"],
@@ -117,8 +114,11 @@ HWPH.put("r/69-6d",
  ],
  ["Immanentismus","Immanenz","","4","230","ref",1390,"Immanent, Immanenz","immanentismus"],
  ["Immanenz","Immanenz","","4","220–237","main",1389,"Imagination","immanenz"],
- ["Immanenz","Transzendenz Immanenz/Transzendenz Gottes","",null,null,"see",null,null,"immanenz"],
- ["Immanenz","Immanenz","","4","234f.","main",1390,"Immanent, Immanenz","immanenz"],
+ ["Immanenz","Transzendenz","",null,null,"see",3223,"Transzendenz; Transzendieren","immanenz"],
+ [
+  "Immanenz/Transzendenz Gottes","Immanenz","","4","234f.","ref",1390,"Immanent, Immanenz",
+  "immanenz/transzendenz gottes"
+ ],
  ["Immanenz, logische","Immanenz","","4","229","ref",1390,"Immanent, Immanenz","immanenz, logische"],
  [
   "Immanenz der Dinge in Gott","Panentheismus","(Krause)",null,null,"ref",2261,"Panentheismus",
@@ -249,7 +249,7 @@ HWPH.put("r/69-6d",
   "Kategorisch/hypothetisch","imperativ, kategorischer"
  ],
  [
-  "Imperativ, kategorischer","Naturrecht","IV",null,null,"see",2089,"Naturrecht",
+  "Imperativ, kategorischer","Naturrecht","IV 4",null,null,"see",2089,"Naturrecht",
   "imperativ, kategorischer"
  ],
  ["Imperativ, kategorischer","Pflicht","",null,null,"see",2334,"Pflicht","imperativ, kategorischer"],
@@ -286,7 +286,7 @@ HWPH.put("r/69-6d",
  ["imperium","Naturrecht","IV 3","6","592","ref",2089,"Naturrecht","imperium"],
  ["imperium","Staat","I","10","10","ref",2998,"Staat","imperium"],
  [
-  "imperium paternale","Despotie I (allg.)","","2","140","ref",571,"Despotie, Despotismus",
+  "imperium paternale","Despotie","I (allg.)","2","140","ref",571,"Despotie, Despotismus",
   "imperium paternale"
  ],
  [
@@ -298,13 +298,13 @@ HWPH.put("r/69-6d",
  ["Impetus","Impetus","","4","260f.","main",1397,"Impetus","impetus"],
  ["Impetus","Bewegung","",null,null,"see",408,"Bewegung","impetus"],
  ["Impetus","Impuls","",null,null,"see",1404,"Impuls","impetus"],
- ["Impetus","Masse I (phys.)","",null,null,"see",1878,"Masse, Massen","impetus"],
+ ["Impetus","Masse","I (phys.)",null,null,"see",1878,"Masse, Massen","impetus"],
  ["Impetus","Mechanik","",null,null,"see",1903,"Mechanik","impetus"],
  ["Impetus","Trägheit","II (phys.)",null,null,"see",3213,"Trägheit","impetus"],
  ["impetus","Trieb","",null,null,"ref",3229,"Trieb","impetus"],
  ["impetus","Nisus","","6","857","ref",2141,"Nisus","impetus"],
  ["impetus aestheticus","Streben","","10","285","ref",3038,"Streben","impetus aestheticus"],
- ["implication","Implikation","",null,null,"ref",1399,"Implikation","implication"],
+ ["implication","Implikation","1",null,null,"ref",1399,"Implikation","implication"],
  [
   "Implicit Reasoning","Implicit Reasoning","(Newman)","4","261f.","main",1398,"Implicit Reasoning",
   "implicit reasoning"
@@ -321,37 +321,60 @@ HWPH.put("r/69-6d",
  ["Implikation","Folgerung","",null,null,"see",926,"Folgerung","implikation"],
  ["Implikation","Konsequenz","",null,null,"see",1619,"Konsequenz","implikation"],
  [
-  "Implikation","Schliessen, natürliches Implikation","",null,null,"see",2768,
-  "Schließen, natürliches","implikation"
+  "Implikation","Schliessen, natürliches","",null,null,"see",2768,"Schließen, natürliches",
+  "implikation"
  ],
+ ["Implikation","Akoluthie","","1","127","ref",76,"Akoluthie","implikation"],
+ ["Implikation","Subjunktion","","10","474","ref",3054,"Subjunktion; Subjunktor","implikation"],
+ [
+  "Implikation","Syllogismus; Syllogistik","","10","694","ref",3091,"Syllogismus; Syllogistik",
+  "implikation"
+ ],
+ ["Implikation","Unmöglichkeit","","11","248","ref",3315,"Unmöglichkeit","implikation"],
  [
   "Implikation, Diodoreische","Aussagenlogik","","1","673","ref",311,"Aussagenlogik",
   "implikation, diodoreische"
  ],
  [
-  "Implikation, extensionale","Implikation","",null,null,"ref",1399,"Implikation",
+  "Implikation, extensionale","Implikation","1",null,null,"ref",1399,"Implikation",
   "implikation, extensionale"
  ],
- ["Implikation, formale","Implikation","",null,null,"ref",1399,"Implikation","implikation, formale"],
+ ["Implikation, formale","Implikation","2",null,null,"ref",1399,"Implikation","implikation, formale"],
  [
   "Implikation, generelle","Implikation","2","4","264","ref",1399,"Implikation",
   "implikation, generelle"
  ],
- ["Implikation, kausale","Implikation","",null,null,"ref",1399,"Implikation","implikation, kausale"],
+ ["Implikation, kausale","Implikation","5",null,null,"ref",1399,"Implikation","implikation, kausale"],
  [
   "Implikation, konnexe","Aussagenlogik","","1","674","ref",311,"Aussagenlogik",
   "implikation, konnexe"
  ],
  [
-  "Implikation, kontextuelle","Implikation","",null,null,"ref",1399,"Implikation",
+  "Implikation, kontextuelle","Implikation","7",null,null,"ref",1399,"Implikation",
   "implikation, kontextuelle"
  ],
  [
-  "Implikation, kontextuelle","Widerspruch","",null,null,"ref",3607,"Widerspruch",
-  "implikation, kontextuelle"
+  "Implikation, kontextuelle","Widerspruch, performativer","","12","700","ref",3609,
+  "Widerspruchsfreiheit","implikation, kontextuelle"
  ],
  [
-  "Implikation, Paradoxien der","Implikation","",null,null,"ref",1399,"Implikation",
+  "Implikation, materiale","Implikation","1",null,null,"ref",1399,"Implikation",
+  "implikation, materiale"
+ ],
+ [
+  "Implikation, materiale","Konsequenz","","4","979","ref",1619,"Konsequenz",
+  "implikation, materiale"
+ ],
+ [
+  "Implikation, materiale","Modallogik","II","6","23","ref",1997,"Modallogik",
+  "implikation, materiale"
+ ],
+ [
+  "Implikation, materiale","Wahrheitsfunktion; Wahrheitstafel","","12","177","ref",3535,
+  "Wahrheitsfunktion; Wahrheitstafel","implikation, materiale"
+ ],
+ [
+  "Implikation, Paradoxien der","Implikation","8",null,null,"ref",1399,"Implikation",
   "implikation, paradoxien der"
  ],
  [
@@ -359,11 +382,11 @@ HWPH.put("r/69-6d",
   "implikation, paradoxien der"
  ],
  [
-  "Implikation, Paradoxien der","Paradox III (log.)","","7","97","ref",2270,
+  "Implikation, Paradoxien der","Paradox","III (log.)","7","97","ref",2270,
   "Paradox, Paradox(e), Paradoxie","implikation, paradoxien der"
  ],
  [
-  "Implikation, Philonische","Implikation","",null,null,"ref",1399,"Implikation",
+  "Implikation, Philonische","Implikation","1",null,null,"ref",1399,"Implikation",
   "implikation, philonische"
  ],
  [
@@ -378,14 +401,14 @@ HWPH.put("r/69-6d",
   "Implikation, Philonische","Modallogik","II","6","23","ref",1997,"Modallogik",
   "implikation, philonische"
  ],
- ["Implikation, strikte","Implikation","",null,null,"ref",1399,"Implikation","implikation, strikte"],
+ ["Implikation, strikte","Implikation","3",null,null,"ref",1399,"Implikation","implikation, strikte"],
  [
   "Implikation, strikte","Aussagenlogik","","1","674ff.","ref",311,"Aussagenlogik",
   "implikation, strikte"
  ],
  ["Implikation, strikte","Modallogik","II","6","23","ref",1997,"Modallogik","implikation, strikte"],
  ["Implikator","Implikator","","4","268","main",1400,"Implikator","implikator"],
- ["Implikator","Implikation","",null,null,"see",1399,"Implikation","implikator"],
+ ["Implikator","Implikation","1",null,null,"see",1399,"Implikation","implikator"],
  ["Implikaturen","Präsupposition","I","7","1269","ref",2446,"Präsupposition","implikaturen"],
  ["implizit","Virtualität","I",null,null,"ref",3467,"Virtualität","implizit"],
  [
@@ -398,7 +421,7 @@ HWPH.put("r/69-6d",
  ],
  ["Imponiergehabe","Imponiergehabe","","4","268f.","main",1401,"Imponiergehabe","imponiergehabe"],
  [
-  "impositio","Obligatio; Ars obligatoria II (log.)","","6","1068","ref",2194,
+  "impositio","Obligatio; Ars obligatoria","II (log.)","6","1068","ref",2194,
   "Obligatio, Ars obligatoria","impositio"
  ],
  ["impositio","Signifikation","","9","763f.","ref",2885,"Signifikation","impositio"],
@@ -453,7 +476,7 @@ HWPH.put("r/69-6d",
  ["Impuls","Impuls","","4","272–274","main",1404,"Impuls","impuls"],
  ["Impuls","Bewegung","",null,null,"see",408,"Bewegung","impuls"],
  ["Impuls","Impetus","",null,null,"see",1397,"Impetus","impuls"],
- ["Impuls","Masse I (phys.)","",null,null,"see",1878,"Masse, Massen","impuls"],
+ ["Impuls","Masse","I (phys.)",null,null,"see",1878,"Masse, Massen","impuls"],
  ["Impuls","Mechanik","II",null,null,"see",1903,"Mechanik","impuls"],
  ["Impulsivität","Willensschwäche","","12","801","ref",3623,"Willensschwäche","impulsivitat"],
  ["impunitas","Strafe","I","10","212f.","ref",3035,"Strafe","impunitas"],
@@ -467,14 +490,9 @@ HWPH.put("r/69-6d",
  ["Imputation","Absicht","",null,null,"see",26,"Absicht","imputation"],
  ["Imputation","Vorwerfbarkeit","",null,null,"see",3509,"Vorwerfbarkeit","imputation"],
  ["Imputation","Zurechnung","",null,null,"see",3712,"Zurechnung","imputation"],
- ["Immanenz","Immanenz","","4","229","main",1390,"Immanent, Immanenz","immanenz"],
- ["Immanenz","Kausalität, formale","","4","801","ref",1552,"Kausalität, formale","immanenz"],
- ["Immanenz","Prädikation","I","7","1201f.","ref",2427,"Prädikation","immanenz"],
  [
-  "Implicit Reasoning","Implicit Reasoning","(Newman)",null,null,"main",1398,"Implicit Reasoning",
-  "implicit reasoning"
- ],
- ["Implikation","Implikation","",null,null,"main",1399,"Implikation","implikation"],
- ["Im Hof Ulrich","Philosophie","V D",null,null,"author",2353,"Philosophie","im hof ulrich"]
+  "Im Hof Ulrich","Philosophie","V D 1 (institut. Formen)","7","823–826","author",2353,"Philosophie",
+  "im hof ulrich"
+ ]
 ]
 );

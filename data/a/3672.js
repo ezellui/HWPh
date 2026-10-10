@@ -167,7 +167,11 @@ HWPH.put("a/3672",
   {"id":2901,"lemma":"Sinnlichkeit; sinnlich","tf":2},
   {"id":53,"lemma":"Affekt","tf":2}
  ],
- "see_also":[{"id":827,"lemma":"Esprit de finesse/esprit de géométrie"},{"id":2794,"lemma":"Seele"}],
+ "see_also":[
+  {"id":827,"lemma":"Esprit de finesse/esprit de géométrie"},
+  {"id":2794,"lemma":"Seele"},
+  {"id":3067,"lemma":"Subtilität"}
+ ],
  "groups":[{"id":2,"name":"Anthropologie","label":"Zart; zärtlich"}],
  "reg_authors":[{"name":"Lühe Astrid von der","n":18}]
 }

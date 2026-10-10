@@ -27,8 +27,7 @@ HWPH.put("a/3297",
   {"term":"histoire de longue durée","qualifier":"","band":"11","col":"167"},
   {"term":"non-simultaneity","qualifier":"","band":null,"col":null},
   {"term":"Simultaneität","qualifier":"","band":null,"col":null},
-  {"term":"Zeit","qualifier":"","band":null,"col":null},
-  {"term":"– I (theol.) 3 674f. – II (Bloch) 3 675 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":119,"name":"E. Bloch","b":3,"n":2,"l":0,"editor":0,"role":"source"},

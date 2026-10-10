@@ -50,6 +50,7 @@ HWPH.put("a/3286",
  ],
  "register":[
   {"term":"Anamnesis","qualifier":"","band":"11","col":"124"},
+  {"term":"bewusstlos","qualifier":"","band":"11","col":"124"},
   {"term":"Bewusstseinsschwelle","qualifier":"","band":"11","col":"128"},
   {"term":"Es/Ich","qualifier":"","band":"11","col":"130"},
   {"term":"Hemmung","qualifier":"","band":"11","col":"128"},

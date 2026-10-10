@@ -32,7 +32,7 @@ HWPH.put("a/2538",
   {"term":"Epoché","qualifier":"I","band":"7","col":"1720"},
   {"term":"Fideismus","qualifier":"II","band":"7","col":"1722"},
   {"term":"Gleichgewicht der Argumente","qualifier":"I","band":"7","col":"1720"},
-  {"term":"historischer historischer Pyrrhonismus","qualifier":"II","band":"7","col":"1723"},
+  {"term":"historischer Pyrrhonismus","qualifier":"II","band":"7","col":"1723"},
   {"term":"Isosthenie","qualifier":"I","band":"7","col":"1720"},
   {"term":"Pyrrhonismus, historischer","qualifier":"II","band":"7","col":"1723"}
  ],

@@ -7,7 +7,7 @@ HWPH.put("r/3bc-3bf",
  ["μονάς","Singulär; Singularität","I (met.)","9","800","ref",2888,"Singulär; Singularität","μονασ"],
  ["μονάς","Vielheit","I","11","1042","ref",3462,"Vielheit","μονασ"],
  ["μονάς","Zahl","I","12","1125","ref",3670,"Zahl; Zählen","μονασ"],
- ["μονώτης","Bios (Lebensform)","","1","948","ref",445,"Bios (Leben, Lebensform)","μονωτησ"],
+ ["μονώτης","Bios","(Lebensform)","1","948","ref",445,"Bios (Leben, Lebensform)","μονωτησ"],
  [
   "μονότης","Singulär; Singularität","I (met.)","9","800","ref",2888,"Singulär; Singularität",
   "μονοτησ"

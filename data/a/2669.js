@@ -20,6 +20,7 @@ HWPH.put("a/2669",
  "register":[
   {"term":"des Urteils","qualifier":"","band":null,"col":null},
   {"term":"hypothetisches Urteil","qualifier":"","band":null,"col":null},
+  {"term":"iudicium categoricum","qualifier":"","band":"8","col":"611"},
   {"term":"iudicium hypotheticum","qualifier":"","band":"8","col":"611"},
   {"term":"Urteil, bedingtes/unbedingtes","qualifier":"","band":"8","col":"611"},
   {"term":"Urteil, hypothetisches","qualifier":"","band":null,"col":null},
@@ -44,6 +45,6 @@ HWPH.put("a/2669",
  "mentions":[{"id":1803,"lemma":"Logik","tf":5}],
  "see_also":[{"id":3355,"lemma":"Urteil"}],
  "groups":[{"id":22,"name":"Logik","label":"Relation des Urteils"}],
- "reg_authors":[{"name":"Menne Albert","n":61},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Menne Albert","n":62},{"name":"Red","n":241}]
 }
 );

@@ -1,6 +1,5 @@
 HWPH.put("r/6a-61",
 [
- ["Jansenismus","Jansenismus","","4","636ff.","main",1506,"Jansenismus","jansenismus"],
  ["Jähzorn","Thymos","",null,null,"ref",3189,"Thymos","jahzorn"],
  ["Jähzorn","Zorn","II","12","1386","ref",3702,"Zorn","jahzorn"],
  ["Jagd, symbolische","Symbol","I","10","717","ref",3093,"Symbol","jagd, symbolische"],
@@ -12,17 +11,20 @@ HWPH.put("r/6a-61",
  ["Jansenismus","Jansenismus","","4","634–640","main",1506,"Jansenismus","jansenismus"],
  ["Jansenismus","Molinismus","",null,null,"see",2008,"Molinismus","jansenismus"],
  [
-  "Jansenismus","Pelagianismus; Semipelagianismus Japanische Philosophie","",null,null,"see",2304,
+  "Jansenismus","Pelagianismus; Semipelagianismus","",null,null,"see",2304,
   "Pelagianismus, Semipelagianismus","jansenismus"
  ],
  [
-  "Jansenismus","Register der Sachgruppen Japanische Wissenschaft","",null,null,"see",null,null,
-  "jansenismus"
+  "Japanische Philosophie","Register der Sachgruppen Japanische Wissenschaft","",null,null,"see",
+  null,null,"japanische philosophie"
  ],
  ["Jargon","Sprache","III","9","1494","ref",2985,"Sprache","jargon"],
  ["Jasagen zum Leben","Leben","V","5","86","ref",1735,"Leben","jasagen zum leben"],
  ["Jacob Wolfgang","Organologie","","6","1361–1363","author",2245,"Organologie","jacob wolfgang"],
- ["Jaeschke Walter","Logik","",null,null,"author",1803,"Logik","jaeschke walter"],
+ [
+  "Jaeschke Walter","Logik, dialektische","I","5","389–398","author",1805,
+  "Logik, (spekulativ-)dialektische","jaeschke walter"
+ ],
  ["Jaeschke Walter","Religion","VII","8","673–683","author",2673,"Religion","jaeschke walter"],
  [
   "Jaeschke Walter","Religionsphilosophie","","8","748–763","author",2679,"Religionsphilosophie",
@@ -42,12 +44,12 @@ HWPH.put("r/6a-61",
   "jamme christoph"
  ],
  ["Jammer Max","Energie","","2","494–499","author",738,"Energie","jammer max"],
- ["Jammer Max","Feld I (phys.)","","2","923–926","author",904,"Feld, Feldtheorie","jammer max"],
+ ["Jammer Max","Feld","I (phys.)","2","923–926","author",904,"Feld, Feldtheorie","jammer max"],
  ["Jammer Max","Fernwirkung","","2","933–935","author",908,"Fernwirkung","jammer max"],
  ["Jammer Max","Gravitation","","3","863–866","author",1181,"Gravitation","jammer max"],
  ["Jammer Max","Impetus","","4","260f.","author",1397,"Impetus","jammer max"],
  ["Jammer Max","Kraft","I","4","1177–1180","author",1680,"Kraft","jammer max"],
- ["Jammer Max","Masse I (phys.)","","5","825–828","author",1877,"Maß","jammer max"],
+ ["Jammer Max","Masse","I (phys.)","5","825–828","author",1877,"Maß","jammer max"],
  ["Jammer Max","Trägheit","II (phys.)","10","1331–1334","author",3213,"Trägheit","jammer max"],
  [
   "Janich Peter","Gesetz, physikalisches","","3","531f.","author",1109,"Gesetz, physikalisches",
@@ -76,7 +78,7 @@ HWPH.put("r/6a-61",
   "janowski j. christine"
  ],
  [
-  "Janssen Hans-Gerd","Latenz I (allg.)","","5","39–42","author",1731,"Latent, Latenz",
+  "Janssen Hans-Gerd","Latenz","I (allg.)","5","39–42","author",1731,"Latent, Latenz",
   "janssen hans-gerd"
  ],
  ["Janssen Paul","Aktpsychologie","","1","143","author",84,"Aktpsychologie","janssen paul"],
@@ -94,7 +96,7 @@ HWPH.put("r/6a-61",
   "janssen paul"
  ],
  [
-  "Janssen Paul","Bewusstsein, positionales (Husserl)","","1","899f.","author",416,
+  "Janssen Paul","Bewusstsein, positionales","(Husserl)","1","899f.","author",416,
   "Bewußtsein, positionales","janssen paul"
  ],
  ["Janssen Paul","Einstellung","II (phän.)","2","421f.","author",691,"Einstellung","janssen paul"],
@@ -106,14 +108,14 @@ HWPH.put("r/6a-61",
  ["Janssen Paul","Fremdwelt","(Husserl)","2","1104","author",952,"Fremdwelt","janssen paul"],
  ["Janssen Paul","Fundierung","(Husserl)","2","1136","author",971,"Fundierung","janssen paul"],
  ["Janssen Paul","Heimwelt","(Husserl)","3","1039","author",1241,"Heimwelt","janssen paul"],
- ["Janssen Paul","Horizont","III",null,null,"author",1310,"Horizont","janssen paul"],
+ ["Janssen Paul","Horizont","III 2 (Husserl)","3","1200f.","author",1310,"Horizont","janssen paul"],
  ["Janssen Paul","Idealisierung","(Husserl)","4","28f.","author",1341,"Idealisierung","janssen paul"],
  ["Janssen Paul","Lebenswelt","I","5","151–155","author",1757,"Lebenswelt","janssen paul"],
  ["Janssen Paul","Leerintention","(Husserl)","5","160","author",1760,"Leerintention","janssen paul"],
  ["Janssen Paul","Motivation","II (phän.)","6","221f.","author",2034,"Motivation","janssen paul"],
  [
-  "Janssen Paul","Neutralisierung (Husserl)","","6","781","author",2130,
-  "Neutralisierungen, Zeitalter der","janssen paul"
+  "Janssen Paul","Neutralisierung","(Husserl)","6","781","author",2129,
+  "Neutralisierung (neutrales Bewußtsein)","janssen paul"
  ],
  ["Janssen Paul","Noema","(Husserl)","6","869f.","author",2145,"Noema","janssen paul"],
  ["Janssen Paul","Noesis","(Husserl)","6","870","author",2146,"Noesis","janssen paul"],
@@ -129,7 +131,10 @@ HWPH.put("r/6a-61",
   "Janssen Paul","Vorprädikativ","I (Husserl)","11","1196","author",3496,"Vorprädikativ",
   "janssen paul"
  ],
- ["Jantschek Thorsten","Sehen","",null,null,"author",2802,"Sehen","jantschek thorsten"],
+ [
+  "Jantschek Thorsten","Sehen als","(Wittgenstein)","9","162–165","author",2803,
+  "Sehen als; Aspektsehen","jantschek thorsten"
+ ],
  [
   "Jantschek Thorsten","Type and token","","10","1580–1582","author",3242,"Type and token",
   "jantschek thorsten"
@@ -137,7 +142,7 @@ HWPH.put("r/6a-61",
  ["Jantschek Thorsten","Verhalten","","11","680–689","author",3406,"Verhalten","jantschek thorsten"],
  ["Janzarik Werner","Phase","","7","542f.","author",2350,"Phase","janzarik werner"],
  [
-  "Janzarik Werner","Prozess III (psych.)","","7","1560–1562","author",2499,"Prozeß",
+  "Janzarik Werner","Prozess","III (psych.)","7","1560–1562","author",2499,"Prozeß",
   "janzarik werner"
  ],
  [

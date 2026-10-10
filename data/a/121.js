@@ -22,9 +22,7 @@ HWPH.put("a/121",
   {"term":"Epagogé","qualifier":"","band":null,"col":null},
   {"term":"Rückführung","qualifier":"","band":null,"col":null},
   {"term":"ἀναγωγή","qualifier":"","band":null,"col":null},
-  {"term":"ἐπαγωγή","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 8 370f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I/II (wiss.) 4 323–332 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἐπαγωγή","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"},

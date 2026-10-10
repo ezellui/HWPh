@@ -21,7 +21,12 @@ HWPH.put("a/3206",
   {"id":1556,"lemma":"Kehre","n":1},
   {"id":3203,"lemma":"Topik; Topos","n":1}
  ],
- "register":[],
+ "register":[
+  {"term":"Ortschaft des Seins","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Sein, Topologie des","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Seinsfrage","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Wahrheit des Seins","qualifier":"(Heidegger)","band":null,"col":null}
+ ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":5763,"name":"H. Boeder","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -36,6 +41,6 @@ HWPH.put("a/3206",
  ],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Topologie des Seins (Heidegger)"}],
- "reg_authors":[{"name":"Kerlen Dietrich","n":1}]
+ "reg_authors":[{"name":"Kerlen Dietrich","n":1},{"name":"Schlegel Frank","n":4}]
 }
 );

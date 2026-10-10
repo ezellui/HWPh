@@ -22,6 +22,6 @@ HWPH.put("a/209",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Apophantisch"}],
- "reg_authors":[{"name":"Menne Albert","n":61},{"name":"Waldenfels Bernhard","n":7}]
+ "reg_authors":[{"name":"Menne Albert","n":62},{"name":"Waldenfels Bernhard","n":7}]
 }
 );

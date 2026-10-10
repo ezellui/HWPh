@@ -26,7 +26,8 @@ HWPH.put("a/2445",
   {"term":"Definition","qualifier":"","band":"7","col":"1266"},
   {"term":"deskriptiv","qualifier":"","band":null,"col":null},
   {"term":"evaluativ/deskriptiv","qualifier":"","band":null,"col":null},
-  {"term":"gut","qualifier":"","band":null,"col":null}
+  {"term":"gut","qualifier":"","band":null,"col":null},
+  {"term":"obligatoria","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":27,"name":"Th. Hobbes","b":1,"n":1,"l":0,"editor":0,"role":"source"},

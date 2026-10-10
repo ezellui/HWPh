@@ -18,6 +18,7 @@ HWPH.put("a/707",
  "backlinks":[{"id":3148,"lemma":"Temperament","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Elementenlehre","qualifier":"","band":null,"col":null},
   {"term":"Erde","qualifier":"","band":"2","col":"439"},
   {"term":"Luft","qualifier":"","band":null,"col":null},
   {"term":"στοιχε͂ιον","qualifier":"","band":null,"col":null}

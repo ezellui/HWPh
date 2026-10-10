@@ -269,7 +269,7 @@ HWPH.put("a/2229",
  "groups":[{"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Opfer"}],
  "reg_authors":[
   {"name":"Lorenz Stefan","n":17},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Schröder Winfried","n":29},
   {"name":"Seigfried Adam","n":6}
  ]

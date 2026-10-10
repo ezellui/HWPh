@@ -17,7 +17,7 @@ HWPH.put("a/772",
  "next":{"id":773,"lemma":"Epikureismus","band":"2","col":584},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– VI (lit. Formen) 7 848–858 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":18,"name":"J. G. Herder","b":2,"n":0,"l":0,"editor":0,"role":"source"},

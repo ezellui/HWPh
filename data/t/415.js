@@ -5,8 +5,8 @@ HWPH.put("t/415",
  "l":"A. GEHLEN s. Anm. [1]; Die Seele im technischen Zeitalter. Sozialpsychol. Probleme in der industriellen Ges. (1957); s. Anm. [7] 69–77; Anm. [9]. – H. SCHELSKY: Über die Stabilität von Institutionen, bes. Verfassungen, in: Auf der Suche nach Wirklichkeit (1965). – M. HAURIOU: Die Theorie der Institution, hg. R. SCHNUR (1965). – F. JONAS: Die Institutionenlehre A. Gehlens (1966).",
  "au":"W. Lepenies",
  "A":["W. Lepenies"],
- "cb":[[0,899]],
- "cn":[[0,899],[112,899],[168,899],[197,899],[204,899],[257,899],[286,899],[348,899],[365,899]],
+ "cb":[[0,898],[39,899]],
+ "cn":[[0,898],[112,898],[168,898],[197,898],[204,898],[257,898],[286,898],[348,898],[365,898]],
  "cl":[[0,899]]
 }
 );

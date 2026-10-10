@@ -25,13 +25,13 @@ HWPH.put("a/3365",
   {"id":3074,"lemma":"Summum bonum","n":1}
  ],
  "register":[
-  {"term":"das III 8 1357 pulchritudo intelligibilis","qualifier":"","band":"11","col":"501"},
-  {"term":"das III 8 1359 amor amicitiae/concupiscentiae","qualifier":"","band":"11","col":"502"},
-  {"term":"das III 8 1360f.","qualifier":"","band":"11","col":"501"},
+  {"term":"amor amicitiae/concupiscentiae","qualifier":"","band":"11","col":"502"},
   {"term":"frui","qualifier":"","band":null,"col":null},
   {"term":"Gebrauchen/Geniessen","qualifier":"","band":null,"col":null},
   {"term":"honestum","qualifier":"","band":"11","col":"500f."},
+  {"term":"Liebe","qualifier":"","band":"11","col":"501"},
   {"term":"Nützliche, das","qualifier":"","band":"11","col":"500"},
+  {"term":"pulchritudo intelligibilis","qualifier":"","band":"11","col":"501"},
   {"term":"res/signum","qualifier":"","band":"11","col":"501"},
   {"term":"Schönheit, geistige","qualifier":"","band":"11","col":"501"},
   {"term":"utile","qualifier":"","band":"11","col":"500"},
@@ -101,7 +101,7 @@ HWPH.put("a/3365",
   {"id":1769,"lemma":"Leib, Körper","tf":2},
   {"id":3620,"lemma":"Wille","tf":2}
  ],
- "see_also":[{"id":1076,"lemma":"Genuß"}],
+ "see_also":[{"id":1076,"lemma":"Genuß"},{"id":2177,"lemma":"Nutzen, Nützlichkeit, das Nützliche, nützlich"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Uti/frui"}],
  "reg_authors":[{"name":"Brachtendorf Johannes","n":1}]
 }

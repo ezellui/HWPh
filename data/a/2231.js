@@ -31,6 +31,7 @@ HWPH.put("a/2231",
  "outlinks":[],
  "register":[
   {"term":"Maximum/Minimum","qualifier":"I","band":"6","col":"1240"},
+  {"term":"principe du meilleur","qualifier":"","band":null,"col":null},
   {"term":"Welt, beste aller möglichen","qualifier":"","band":null,"col":null}
  ],
  "persons":[

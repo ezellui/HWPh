@@ -17,7 +17,10 @@ HWPH.put("a/338",
  "next":{"id":339,"lemma":"Axiologie","band":"1","col":737},
  "backlinks":[{"id":3669,"lemma":"Yûgen","n":1}],
  "outlinks":[],
- "register":[{"term":"Bewunderung (jap.)","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Bewunderung (jap.)","qualifier":"","band":null,"col":null},
+  {"term":"Erstaunen (jap.)","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":10463,"name":"O. Kressler","b":0,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":5998,"name":"S. Hisamatsu","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

@@ -18,10 +18,10 @@ HWPH.put("a/1462",
  "backlinks":[{"id":3486,"lemma":"Voluntarismus","n":1},{"id":3620,"lemma":"Wille","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"bzw. vernünftige Rationalismus","qualifier":"","band":"4","col":"440"},
   {"term":"Emotionalismus","qualifier":"","band":"4","col":"442"},
   {"term":"Idealismus","qualifier":"","band":"4","col":"440"},
-  {"term":"kritischer (Popper) 8 49 Intellektualphilosophen","qualifier":"","band":"4","col":"440"},
-  {"term":"natürliche bzw. vernünftige Rationalismus","qualifier":"","band":"4","col":"440"},
+  {"term":"Intellektualphilosophen","qualifier":"","band":"4","col":"440"},
   {"term":"recta ratio","qualifier":"","band":"4","col":"441"},
   {"term":"Vorstellung","qualifier":"","band":"4","col":"441"}
  ],

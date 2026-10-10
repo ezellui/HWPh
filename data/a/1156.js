@@ -18,17 +18,16 @@ HWPH.put("a/1156",
  "backlinks":[{"id":1917,"lemma":"Mensch","n":2}],
  "outlinks":[{"id":1157,"lemma":"Gnadenstreit","n":1}],
  "register":[
-  {"term":"Barmherzigkeit","qualifier":"","band":"3","col":"708"},
   {"term":"gratia","qualifier":"","band":null,"col":null},
   {"term":"Huld","qualifier":"","band":null,"col":null},
   {"term":"Leben, geistiges","qualifier":"","band":"3","col":"711"},
   {"term":"Natur/Gnade","qualifier":"","band":"3","col":"708"},
-  {"term":"Quietiv","qualifier":"","band":"3","col":"712"},
+  {"term":"Quietiv des Willens","qualifier":"","band":"3","col":"712"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Willensfreiheit","qualifier":"","band":"3","col":"709"},
+  {"term":"ἔλεος","qualifier":"","band":"3","col":"708"},
   {"term":"ὀικτιρμός","qualifier":"","band":"3","col":"708"},
-  {"term":"χάρις","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 5 509–513 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"χάρις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":1,"n":2,"l":0,"editor":0,"role":"source"},

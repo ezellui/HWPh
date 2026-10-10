@@ -26,13 +26,13 @@ HWPH.put("a/2692",
   {"term":"Handlungsantrieb","qualifier":"","band":"8","col":"905f."},
   {"term":"Induktionsschluss","qualifier":"","band":"8","col":"903"},
   {"term":"Instinkt","qualifier":"","band":"8","col":"906"},
-  {"term":"L 7 793","qualifier":"","band":"8","col":"904f."},
-  {"term":"L 7 795 Nicht-Reduzierbarkeit","qualifier":"","band":"8","col":"908"},
   {"term":"Methode der Rückstände","qualifier":"","band":"8","col":"902"},
   {"term":"Neige","qualifier":"","band":"8","col":"907"},
+  {"term":"Nicht-Reduzierbarkeit","qualifier":"","band":"8","col":"908"},
   {"term":"Phänomen, residuelles","qualifier":"","band":"8","col":"902"},
   {"term":"Reduktion, phänomenologische (Husserl)","qualifier":"","band":"8","col":"906f."},
-  {"term":"Residuum, phänomenologisches","qualifier":"","band":"8","col":"906"}
+  {"term":"Residuum, phänomenologisches","qualifier":"","band":"8","col":"906"},
+  {"term":"Unbewusste, das","qualifier":"","band":"8","col":"904f."}
  ],
  "persons":[
   {"id":370,"name":"B. Erdmann","b":2,"n":2,"l":0,"editor":0,"role":"source"},

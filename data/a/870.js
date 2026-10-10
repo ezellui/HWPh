@@ -25,6 +25,7 @@ HWPH.put("a/870",
  ],
  "outlinks":[{"id":609,"lemma":"Disjunktion","n":1},{"id":2665,"lemma":"Rejektion","n":1}],
  "register":[
+  {"term":"incompatibilité","qualifier":"","band":null,"col":null},
   {"term":"inkompatibel (log.)","qualifier":"","band":null,"col":null},
   {"term":"Sheffer-Strich","qualifier":"","band":"2","col":"865"},
   {"term":"Unvereinbarkeit","qualifier":"","band":null,"col":null},
@@ -52,6 +53,6 @@ HWPH.put("a/870",
   {"id":2665,"lemma":"Rejektion"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Exklusion"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

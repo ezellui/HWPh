@@ -21,9 +21,9 @@ HWPH.put("a/2024",
   {"term":"âme ouverte/close","qualifier":"(Bergson)","band":"6","col":"170"},
   {"term":"geschlossene Moral","qualifier":"(Bergson)","band":null,"col":null},
   {"term":"Gesellschaft, geschlossene/offene","qualifier":"(Bergson)","band":"6","col":"171"},
-  {"term":"kritischer (Popper) 8 51 offene Moral","qualifier":"(Bergson)","band":null,"col":null},
   {"term":"Liebe zur Menschheit","qualifier":"(Bergson)","band":"6","col":"170"},
   {"term":"morale ouverte/close","qualifier":"(Bergson)","band":null,"col":null},
+  {"term":"offene Moral","qualifier":"(Bergson)","band":null,"col":null},
   {"term":"Seele, offene","qualifier":"(Bergson)","band":"6","col":"170"}
  ],
  "persons":[

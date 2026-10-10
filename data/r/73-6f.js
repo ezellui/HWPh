@@ -1,32 +1,19 @@
 HWPH.put("r/73-6f",
 [
  ["Sobornost","Sobornost","","9","993","main",2913,"Sobornost","sobornost"],
- [
-  "Somnambulismus","Somnambulismus","","9","1062","main",2923,"Somnambulismus, somnambul",
-  "somnambulismus"
- ],
- ["Soziologie","Soziologie","","9","1278","main",2960,"Soziologie","soziologie"],
- ["Solidität","Solidität","",null,null,"main",2917,"Solidität","soliditat"],
- ["Solidität","Form und Materie","","2","1016","ref",939,"Form und Materie (Stoff)","soliditat"],
- ["Sorge","Sorge","",null,null,"main",2927,"Sorge","sorge"],
- [
-  "Sorge","Herrschaft und Knechtschaft","","3","1091","ref",1262,"Herrschaft und Knechtschaft",
-  "sorge"
- ],
- ["Sorge","Selbstsorge","","9","534","ref",2848,"Selbstsorge","sorge"],
- ["Sobornost","Sobornost","",null,null,"main",2913,"Sobornost","sobornost"],
- [
-  "Sozialgeschichte histoire structurale","Sozialgeschichte histoire structurale","",null,null,
-  "main",null,null,"sozialgeschichte histoire structurale"
- ],
- ["Sortenlogik","Sortenlogik","",null,null,"main",2930,"Sortenlogik","sortenlogik"],
- ["Sozialethik","Sozialethik","","9","1135","main",2941,"Sozialethik","sozialethik"],
+ ["so...","Folgerung","",null,null,"ref",926,"Folgerung","so..."],
+ ["so...","Konditionalismus Bedingung","",null,null,"ref",null,null,"so..."],
+ ["so... 2 11","Äquivalenz","",null,null,"see",228,"Äquivalenz","so... 2 11"],
+ ["so... 2 11","Bedingung","",null,null,"see",354,"Bedingung","so... 2 11"],
+ ["so... 2 11","Bisubjunktion","",null,null,"see",450,"Bisubjunktion","so... 2 11"],
+ ["so... 2 11","Wenn-so-Satz","",null,null,"see",3584,"Wenn-so-Satz","so... 2 11"],
+ ["so... 3 268","Äquivalenz","",null,null,"see",228,"Äquivalenz","so... 3 268"],
+ ["so... 3 268","Bisubjunktion","",null,null,"see",450,"Bisubjunktion","so... 3 268"],
  ["Sorites","Sorites","2","9","1096","main",2928,"Sorites","sorites"],
  [
   "Sowjetische Philosophie russische Philosophie","Philosophie","IV",null,null,"ref",2353,
   "Philosophie","sowjetische philosophie russische philosophie"
  ],
- ["Sorites","Sorites","1","9","1092","main",2928,"Sorites","sorites"],
  ["Sobornost","Sobornost","","9","993–1000","main",2913,"Sobornost","sobornost"],
  [
   "Sobornost","Wahrheit (Pravda/Istina)","",null,null,"see",3525,"Wahrheit (Pravda/Istina)",
@@ -56,15 +43,19 @@ HWPH.put("r/73-6f",
  ["social class","Schicht, soziale","I","8","1264","ref",2761,"Schicht, soziale","social class"],
  ["social conflict","Streit","II (soz.)","10","302","ref",3039,"Streit","social conflict"],
  [
-  "social contract","Gesellschaftsvertrag; Herrschaftsvertrag social environment","",null,null,"ref",
-  1104,"Gesellschaftsvertrag, Herrschaftsvertrag","social contract"
+  "social contract","Gesellschaftsvertrag; Herrschaftsvertrag","",null,null,"ref",1104,
+  "Gesellschaftsvertrag, Herrschaftsvertrag","social contract"
+ ],
+ [
+  "social environment","Funktion","III (psych.)","2","1142","ref",974,"Funktion",
+  "social environment"
  ],
  ["social fact","Tatsache, soziale","",null,null,"ref",3131,"Tatsache, soziale","social fact"],
- ["social history","Sozialgeschichte social idealism","",null,null,"ref",null,null,"social history"],
  [
-  "Sozialidealismus","Sozialidealismus","",null,null,"main",2945,"Sozialidealismus",
-  "sozialidealismus"
+  "social history","Sozialgeschichte","",null,null,"ref",2943,"Sozialgeschichte; Sozialhistorie",
+  "social history"
  ],
+ ["social idealism","Sozialidealismus","",null,null,"ref",2945,"Sozialidealismus","social idealism"],
  ["social identity","Status","","10","114","ref",3014,"Status","social identity"],
  [
   "social organization","Verständigung","","11","915","ref",3437,"Verständigung",
@@ -112,7 +103,7 @@ HWPH.put("r/73-6f",
   "Herrschaft und Knechtschaft","societas domestica"
  ],
  [
-  "societas herilis","Despotie I (allg.)","","2","133","ref",571,"Despotie, Despotismus",
+  "societas herilis","Despotie","I (allg.)","2","133","ref",571,"Despotie, Despotismus",
   "societas herilis"
  ],
  ["societas herilis","Haus","I","3","1012","ref",1229,"Haus","societas herilis"],
@@ -180,7 +171,15 @@ HWPH.put("r/73-6f",
   "sokratisches Nichtwissen","Nichtwissen, sokratisches","",null,null,"ref",2137,
   "Nichtwissen, sokratisches","sokratisches nichtwissen"
  ],
- ["Sokratismus","Sokratik Sokratismus, christlicher","",null,null,"ref",null,null,"sokratismus"],
+ ["Sokratismus","Sokratik","",null,null,"ref",2914,"Sokratik; Sokratismus","sokratismus"],
+ [
+  "Sokratismus, christlicher","Philosophie","IV G","7","746","ref",2353,"Philosophie",
+  "sokratismus, christlicher"
+ ],
+ [
+  "Sokratismus, christlicher","Sokratik","","9","1003","ref",2914,"Sokratik; Sokratismus",
+  "sokratismus, christlicher"
+ ],
  ["solacium","Trost","",null,null,"ref",3235,"Trost","solacium"],
  ["Sold der Sünde","Tod","","10","1230","ref",3197,"Tod","sold der sunde"],
  ["solecism","Solözismus","",null,null,"ref",2922,"Solözismus","solecism"],
@@ -238,12 +237,7 @@ HWPH.put("r/73-6f",
  ["Sollen","Sollen","","9","1026–1056","main",2920,"Sollen","sollen"],
  ["Sollen","Gesetz, moralisches","",null,null,"see",1107,"Gesetz, moralisches","sollen"],
  ["Sollen","Imperativ, kategorischer","",null,null,"see",null,null,"sollen"],
- [
-  "Sollen","Obligatio; Ars obligatoria","",null,null,"see",2194,"Obligatio, Ars obligatoria",
-  "sollen"
- ],
- ["Sollen","Pflicht","",null,null,"see",2334,"Pflicht","sollen"],
- ["Sollen","Präskriptiv","",null,null,"see",2445,"Präskriptiv","sollen"],
+ ["Sollen","Obligatio; Ars","",null,null,"see",2194,"Obligatio, Ars obligatoria","sollen"],
  ["Sollen","Norm","II","6","914","ref",2160,"Norm","sollen"],
  ["Sollen","Rechtspflicht","","8","313","ref",2613,"Rechtspflicht","sollen"],
  ["Sollen","Sein; Seiendes","V 5","9","215f.","ref",2806,"Sein; Seiendes","sollen"],
@@ -265,7 +259,7 @@ HWPH.put("r/73-6f",
  ["solutio","Sophisma","","9","1071","ref",2925,"Sophisma; Sophismata","solutio"],
  ["Somatologie","Philosophie","IV A","7","684","ref",2353,"Philosophie","somatologie"],
  [
-  "Somatopsyche","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Somatopsyche","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","somatopsyche"
  ],
  ["somatopsychisch","Psychosomatik","","7","1700","ref",2529,"Psychosomatik","somatopsychisch"],
@@ -283,8 +277,8 @@ HWPH.put("r/73-6f",
  ["somnium","Traum","",null,null,"ref",3225,"Traum","somnium"],
  ["somnus","Schlaf","",null,null,"ref",2767,"Schlaf","somnus"],
  [
-  "Sonderstellung des Menschen","Organprimitivismen","(Gehlen)","6","1369f.","ref",2247,
-  "Organonmodell","sonderstellung des menschen"
+  "Sonderstellung des Menschen","Organprimitivismen","(Gehlen)","6","1369f.","ref",2248,
+  "Organprimitivismen","sonderstellung des menschen"
  ],
  ["Sonne","Licht","I","4","282f.","ref",1411,"Indikator","sonne"],
  [
@@ -305,17 +299,11 @@ HWPH.put("r/73-6f",
  ["Sophiologie","Sophiologie","","9","1063–1069","main",2924,"Sophiologie","sophiologie"],
  ["Sophisma","Sophisma","","9","1069–1075","main",2925,"Sophisma; Sophismata","sophisma"],
  ["Sophisma","Insolubilia","",null,null,"see",1450,"Insolubilia","sophisma"],
- ["Sophisma","Irrtum","(Schlussfehler)",null,null,"see",1499,"Irrtum","sophisma"],
- [
-  "Sophisma","Obligatio; Ars obligatoria II (log.)","",null,null,"see",2194,
-  "Obligatio, Ars obligatoria","sophisma"
- ],
- ["Sophisma","Paralogismus","",null,null,"see",2273,"Paralogismus","sophisma"],
- ["Sophisma","Trugschluss σόφισμα","",null,null,"see",null,null,"sophisma"],
- ["Sophisma Sophismata","Sophisma Sophismata","",null,null,"main",null,null,"sophisma sophismata"],
- ["Sophisma Sophist","Sophisma Sophist","",null,null,"main",null,null,"sophisma sophist"],
- ["Sophistik","Sophistik","",null,null,"main",2926,"Sophistik; sophistisch; Sophist","sophistik"],
- ["Sophistik","Philosophie","I B","7","580f.","ref",2353,"Philosophie","sophistik"],
+ ["Sophisma","Irrtum (Schlussfehler)","",null,null,"see",1500,"Irrtum (Schlußfehler)","sophisma"],
+ ["Sophisma","Obligatio; Ars","",null,null,"see",2194,"Obligatio, Ars obligatoria","sophisma"],
+ ["Sophismata","Sophisma","",null,null,"ref",2925,"Sophisma; Sophismata","sophismata"],
+ ["Sophist","Sophistik","",null,null,"ref",2926,"Sophistik; sophistisch; Sophist","sophist"],
+ ["Sophist","Philosophie","I B","7","580f.","ref",2353,"Philosophie","sophist"],
  ["sophista","Sophisma","","9","1069","ref",2925,"Sophisma; Sophismata","sophista"],
  [
   "Sophistik","Sophistik","","9","1075–1086","main",2926,"Sophistik; sophistisch; Sophist",
@@ -361,17 +349,17 @@ HWPH.put("r/73-6f",
  ["Sosein","Sosein","","9","1100–1102","main",2931,"Sosein","sosein"],
  ["Sosein","Dasein","",null,null,"see",527,"Dasein","sosein"],
  [
-  "Sosein","Erstheit; Zweitheit; Drittheit (Peirce)","","2","729","ref",816,"Erste Philosophie",
-  "sosein"
+  "Sosein","Erstheit; Zweitheit; Drittheit","(Peirce)","2","729","ref",817,
+  "Erstheit, Zweitheit, Drittheit","sosein"
  ],
  ["Sosein","Sein; Seiendes","V 8","9","232","ref",2806,"Sein; Seiendes","sosein"],
  ["Soteriologie","Soteriologie","","9","1102–1104","main",2932,"Soteriologie","soteriologie"],
  ["Soteriologie","Christologie","",null,null,"see",497,"Christologie","soteriologie"],
  [
-  "Soteriologie","Heil; Heilsgeschichte; Heilstatsache souci","",null,null,"see",1237,
+  "Soteriologie","Heil; Heilsgeschichte; Heilstatsache","",null,null,"see",1237,
   "Heil, Heilsgeschichte, Heilstatsache","soteriologie"
  ],
- ["Sorge","Sorge","",null,null,"main",2927,"Sorge","sorge"],
+ ["souci","Sorge","",null,null,"ref",2927,"Sorge","souci"],
  ["souci de soi","Selbstsorge","",null,null,"ref",2848,"Selbstsorge","souci de soi"],
  ["soupçon","Verdacht","",null,null,"ref",3388,"Verdacht","soupcon"],
  [
@@ -441,7 +429,15 @@ HWPH.put("r/73-6f",
  ["Sozial; das Soziale","Soziologie","",null,null,"see",2960,"Soziologie","sozial; das soziale"],
  [
   "Sozialanthropologie; Social anthropology","Sozialanthropologie; Social anthropology","","9",
-  "1121","main",2938,"Sozialanthropologie; Social anthropology",
+  "1121- 1126","main",2938,"Sozialanthropologie; Social anthropology",
+  "sozialanthropologie; social anthropology"
+ ],
+ [
+  "Sozialanthropologie; Social anthropology","Kulturanthropologie","",null,null,"see",1702,
+  "Kulturanthropologie","sozialanthropologie; social anthropology"
+ ],
+ [
+  "Sozialanthropologie; Social anthropology","Völkerkunde","",null,null,"see",3474,"Völkerkunde",
   "sozialanthropologie; social anthropology"
  ],
  ["Sozialbehaviorismus","Psychologie","","7","1640","ref",2511,"Psychologie","sozialbehaviorismus"],
@@ -568,7 +564,7 @@ HWPH.put("r/73-6f",
  ["Sozialismus","Revisionismus","","8","952","ref",2703,"Revisionismus","sozialismus"],
  ["Sozialismus","Solidarität","","9","1007","ref",2915,"Solidarität","sozialismus"],
  [
-  "Sozialismus, konservativer","Sozialismus","",null,null,"ref",2947,"Sozialismus",
+  "Sozialismus, konservativer","Sozialismus","7",null,null,"ref",2947,"Sozialismus",
   "sozialismus, konservativer"
  ],
  [
@@ -580,10 +576,25 @@ HWPH.put("r/73-6f",
   "sozialismus, prophetischer"
  ],
  [
-  "Sozialismus, religiöser","Sozialismus","",null,null,"ref",2947,"Sozialismus",
+  "Sozialismus, religiöser","Sozialismus","8",null,null,"ref",2947,"Sozialismus",
   "sozialismus, religioser"
  ],
- ["Sozialismus, wahrer","Theologie","",null,null,"ref",3169,"Theologie","sozialismus, wahrer"],
+ [
+  "Sozialismus, wahrer","Theologie der Befreiung","","10","1097","ref",3170,
+  "Theologie der Befreiung; Theologie der Revolution","sozialismus, wahrer"
+ ],
+ [
+  "Sozialismus, wissenschaftlicher","Dialektik","IV 5. 4","2","211","ref",583,"Dialektik",
+  "sozialismus, wissenschaftlicher"
+ ],
+ [
+  "Sozialismus, wissenschaftlicher","Marxismus","II","5","768","ref",1871,"Marxismus",
+  "sozialismus, wissenschaftlicher"
+ ],
+ [
+  "Sozialismus, wissenschaftlicher","Sozialismus","2","9","1174f.","ref",2947,"Sozialismus",
+  "sozialismus, wissenschaftlicher"
+ ],
  [
   "Sozialismus, wissenschaftlicher/utopischer","Sozialismus","9","9","1203ff.","ref",2947,
   "Sozialismus","sozialismus, wissenschaftlicher/utopischer"
@@ -634,7 +645,13 @@ HWPH.put("r/73-6f",
  ],
  ["Sozialphilosophie","Soziologie","",null,null,"see",2960,"Soziologie","sozialphilosophie"],
  ["Sozialpolitik","Sozialpolitik","","9","1227–1236","main",2951,"Sozialpolitik","sozialpolitik"],
- ["Sozialpolitik","Polizei","",null,null,"see",2399,"Polizei","sozialpolitik"],
+ ["Sozialpolitik","Polizei; Polizeiwissenschaft","",null,null,"see",2399,"Polizei","sozialpolitik"],
+ ["Sozialpolitik","Soziale Frage","",null,null,"see",2940,"Soziale Frage","sozialpolitik"],
+ ["Sozialpolitik","Sozialstaat","",null,null,"see",2953,"Sozialstaat","sozialpolitik"],
+ [
+  "Sozialpolitik","Wohlfahrt; Wohlfahrtsstaat","",null,null,"see",3650,"Wohlfahrt; Wohlfahrtsstaat",
+  "sozialpolitik"
+ ],
  [
   "Sozialpsychologie","Sozialpsychologie","","9","1236–1245","main",2952,"Sozialpsychologie",
   "sozialpsychologie"
@@ -687,7 +704,12 @@ HWPH.put("r/73-6f",
   "Sozialwissenschaft, historische","Sozialgeschichte","","9","1147","ref",2943,
   "Sozialgeschichte; Sozialhistorie","sozialwissenschaft, historische"
  ],
- ["Sozietäten","Philosophie","V D",null,null,"ref",2353,"Philosophie","sozietaten"],
+ [
+  "Sozietäten","Philosophie","V D 1 (institut. Formen)",null,null,"ref",2353,"Philosophie",
+  "sozietaten"
+ ],
+ ["Sozinianismus","Sozinianismus","","9","1257–1263","main",2955,"Sozinianismus","sozinianismus"],
+ ["Sozinianismus","Arminianismus","",null,null,"see",249,"Arminianismus","sozinianismus"],
  ["Sozinianismus","Rationalismus","I","8","45","ref",2574,"Rationalismus","sozinianismus"],
  ["Soziobiologie","Soziobiologie","","9","1263–1266","main",2956,"Soziobiologie","soziobiologie"],
  ["Soziobiologie","Sozialdarwinismus","",null,null,"see",2939,"Sozialdarwinismus","soziobiologie"],
@@ -700,10 +722,10 @@ HWPH.put("r/73-6f",
   "soziolinguistik"
  ],
  [
-  "Soziolinguistik","Linguistik; Sprachwissenschaft Soziologie","",null,null,"see",1797,
+  "Soziolinguistik","Linguistik; Sprachwissenschaft","",null,null,"see",1797,
   "Linguistik, Sprachwissenschaft","soziolinguistik"
  ],
- ["Soziolinguistik","Register der Sachgruppen","",null,null,"see",null,null,"soziolinguistik"],
+ ["Soziologie","Register der Sachgruppen","",null,null,"see",null,null,"soziologie"],
  ["Soziologie","Soziologie","","9","1270–1282","main",2960,"Soziologie","soziologie"],
  ["Soziologie","Beziehungssoziologie","",null,null,"see",428,"Beziehungssoziologie","soziologie"],
  ["Soziologie","Sozial; das Soziale","",null,null,"see",2937,"Sozial; das Soziale","soziologie"],
@@ -756,19 +778,21 @@ HWPH.put("r/73-6f",
   "soziologie des wissens"
  ],
  ["Soziopathie","Psychopathie","II","7","1684","ref",2525,"Psychopathie","soziopathie"],
- ["Soziologie","Soziologie","","9","1277","main",2960,"Soziologie","soziologie"],
  [
   "Sozial; das Soziale","Sozial; das Soziale","","9","1114","main",2937,"Sozial; das Soziale",
   "sozial; das soziale"
  ],
- ["Sozialismus","Sozialismus","5","9","1184","main",2947,"Sozialismus","sozialismus"],
+ ["so...","Junktor","",null,null,"ref",1516,"Junktor","so..."],
  ["Söder Joachim R","Vaterland","","11","554–556","author",3375,"Vaterland","soder joachim r"],
  ["Sokoll Thomas","Verelendung","","11","622–624","author",3394,"Verelendung","sokoll thomas"],
  [
   "Sokoll Thomas","Wohlfahrt; Wohlfahrtsstaat","I","12","997f.","author",3650,
   "Wohlfahrt; Wohlfahrtsstaat","sokoll thomas"
  ],
- ["Sokolowski Kurt","Methode","",null,null,"author",1955,"Methode","sokolowski kurt"],
+ [
+  "Sokolowski Kurt","Methode, kathartische","","5","1355–1359","author",1960,"Methode, historische",
+  "sokolowski kurt"
+ ],
  ["Solignac Aimé","Spiritualität","","9","1415–1422","author",2980,"Spiritualität","solignac aime"],
  ["Sommer Andreas","Wesen","III","12","634–637","author",3595,"Wesen","sommer andreas"],
  ["Sommer Manfred","Arianismus","","1","505","author",244,"Arianismus","sommer manfred"],

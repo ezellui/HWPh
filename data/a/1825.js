@@ -42,8 +42,7 @@ HWPH.put("a/1825",
  "register":[
   {"term":"consensus","qualifier":"I","band":"5","col":"496"},
   {"term":"Schicksal","qualifier":"I","band":"5","col":"495"},
-  {"term":"λόγος","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 12 1030–1036 s. auch","qualifier":"II","band":null,"col":null}
+  {"term":"λόγος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3934,"name":"W. J. Verdenius","b":0,"n":4,"l":2,"editor":0,"role":"scholar"},

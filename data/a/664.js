@@ -22,8 +22,7 @@ HWPH.put("a/664",
   {"term":"Gemeinnutz","qualifier":"","band":null,"col":null},
   {"term":"self-interest","qualifier":"","band":"2","col":"333"},
   {"term":"utilitas privata/communis","qualifier":"","band":null,"col":null},
-  {"term":"utilitas tua/nostra","qualifier":"","band":null,"col":null},
-  {"term":"– I (eth.) 2 310–313 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"utilitas tua/nostra","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},

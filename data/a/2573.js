@@ -20,13 +20,12 @@ HWPH.put("a/2573",
  "register":[
   {"term":"Bearbeitung, sekundäre","qualifier":"","band":"8","col":"43"},
   {"term":"Funktion, synthetische (psych.)","qualifier":"","band":"8","col":"43"},
-  {"term":"L 7 793","qualifier":"","band":"8","col":"42"},
   {"term":"rationalization","qualifier":"","band":null,"col":null},
   {"term":"sekundäre Bearbeitung","qualifier":"","band":"8","col":"43"},
+  {"term":"Unbewusste, das","qualifier":"","band":"8","col":"42"},
   {"term":"Verarbeitung, psychische","qualifier":"","band":null,"col":null},
   {"term":"Verhüllungsmechanismen","qualifier":"","band":"8","col":"42f."},
-  {"term":"Vorurteil","qualifier":"","band":"8","col":"44"},
-  {"term":"– III (ästh.) 6 216f. – IV (psych.) 6 217f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vorurteil","qualifier":"","band":"8","col":"44"}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":1,"l":0,"editor":0,"role":"source"},

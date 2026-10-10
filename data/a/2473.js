@@ -18,12 +18,13 @@ HWPH.put("a/2473",
  "backlinks":[{"id":1956,"lemma":"Methode, analytische/synthetische","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"analytisch/synthetisch","qualifier":"","band":"7","col":"1450"},
+  {"term":"Antithetik","qualifier":"","band":"7","col":"1450"},
   {"term":"Beweis, progressiver/regressiver","qualifier":"","band":null,"col":null},
   {"term":"Hermeneutik, progressive/regressive","qualifier":"","band":"7","col":"1450"},
   {"term":"Methode, progressive/regressive","qualifier":"","band":"7","col":"1450"},
   {"term":"regressiv","qualifier":"","band":null,"col":null},
-  {"term":"Schluss, progressiver/regressiver","qualifier":"","band":"7","col":"1449"}
+  {"term":"Schluss, progressiver/regressiver","qualifier":"","band":"7","col":"1449"},
+  {"term":"synthetisch/analytisch","qualifier":"","band":"7","col":"1450"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":2,"l":0,"editor":0,"role":"source"},

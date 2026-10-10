@@ -22,6 +22,6 @@ HWPH.put("a/948",
  "mentions":[{"id":1572,"lemma":"Klasse, soziale","tf":2}],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Fremd"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

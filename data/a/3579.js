@@ -58,6 +58,8 @@ HWPH.put("a/3579",
   {"id":3690,"lemma":"Zerstreuung","n":1}
  ],
  "register":[
+  {"term":"Angleichung an Gott","qualifier":"","band":"12","col":"522"},
+  {"term":"contemptus mundi","qualifier":"","band":null,"col":null},
   {"term":"Eskapismus","qualifier":"","band":"12","col":"525"},
   {"term":"Flucht","qualifier":"","band":null,"col":null},
   {"term":"fuga mundi","qualifier":"","band":null,"col":null},
@@ -65,7 +67,6 @@ HWPH.put("a/3579",
   {"term":"mundus malus/damnatus","qualifier":"","band":"12","col":"522"},
   {"term":"mundus reconciliatus/salvatus/mundatus","qualifier":"","band":"12","col":"522"},
   {"term":"secessus a mundo","qualifier":"","band":"12","col":"523"},
-  {"term":"Vanitas mundi","qualifier":"","band":null,"col":null},
   {"term":"Weltbejahung","qualifier":"","band":"12","col":"524"},
   {"term":"Weltflucht","qualifier":"","band":null,"col":null},
   {"term":"Weltfremdheit","qualifier":"","band":null,"col":null},
@@ -183,9 +184,10 @@ HWPH.put("a/3579",
   {"id":380,"lemma":"Bejahung"},
   {"id":2331,"lemma":"Pessimismus"},
   {"id":3372,"lemma":"Vanitas mundi"},
-  {"id":3375,"lemma":"Vaterland"}
+  {"id":3375,"lemma":"Vaterland"},
+  {"id":3401,"lemma":"Vergänglichkeit; Vergehen"}
  ],
  "groups":[{"id":44,"name":"Theologie","label":"Weltverachtung; Weltflucht"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

@@ -17,7 +17,10 @@ HWPH.put("a/719",
  "next":{"id":720,"lemma":"Empfindlichkeit","band":"2","col":454},
  "backlinks":[{"id":786,"lemma":"Erfahrung","n":1},{"id":3634,"lemma":"Wissen","n":1}],
  "outlinks":[],
- "register":[{"term":"Erinnerung","qualifier":"","band":"2","col":"453"}],
+ "register":[
+  {"term":"Erinnerung","qualifier":"","band":"2","col":"453"},
+  {"term":"ἐμπειρία","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":3,"name":"Platon","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -45,7 +48,7 @@ HWPH.put("a/719",
   {"id":3635,"lemma":"Wissenschaft","tf":3},
   {"id":3539,"lemma":"Wahrnehmung","tf":2}
  ],
- "see_also":[{"id":786,"lemma":"Erfahrung"}],
+ "see_also":[{"id":786,"lemma":"Erfahrung"},{"id":1085,"lemma":"Geschichte, Historie"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Empeiria"},
   {"id":9,"name":"Erkenntnistheorie","label":"Empeiria"}

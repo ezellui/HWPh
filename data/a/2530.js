@@ -19,8 +19,8 @@ HWPH.put("a/2530",
  "outlinks":[],
  "register":[
   {"term":"Ichkritik","qualifier":"","band":"7","col":"1702"},
-  {"term":"kathartische","qualifier":"","band":null,"col":null},
   {"term":"Selbst, transpersonales","qualifier":"","band":"7","col":"1702"},
+  {"term":"Selbstheilung","qualifier":"","band":"7","col":"1702"},
   {"term":"transpersonales Selbst","qualifier":"","band":"7","col":"1702"}
  ],
  "persons":[

@@ -18,7 +18,7 @@ HWPH.put("a/2406",
  "backlinks":[],
  "outlinks":[{"id":769,"lemma":"Epichirem","n":1}],
  "register":[
-  {"term":"Implikation","qualifier":"","band":null,"col":null},
+  {"term":"Folgerung","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"πόρισμα","qualifier":"","band":null,"col":null}
  ],

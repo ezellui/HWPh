@@ -24,7 +24,12 @@ HWPH.put("a/3426",
   {"id":3436,"lemma":"Verstandesschluß","n":2}
  ],
  "register":[
+  {"term":"inference of reason","qualifier":"","band":null,"col":null},
+  {"term":"mittelbarer Schluss","qualifier":"","band":null,"col":null},
   {"term":"ratiocinatio","qualifier":"","band":null,"col":null},
+  {"term":"s auch","qualifier":"","band":null,"col":null},
+  {"term":"Schluss, mittelbarer","qualifier":"","band":null,"col":null},
+  {"term":"Schluss, vernünftelnder","qualifier":"","band":"11","col":"868"},
   {"term":"vernünftelnder Schluss","qualifier":"","band":"11","col":"868"}
  ],
  "persons":[
@@ -51,7 +56,7 @@ HWPH.put("a/3426",
   {"id":916,"lemma":"Figur","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[{"id":769,"lemma":"Epichirem"},{"id":2769,"lemma":"Schluß"}],
+ "see_also":[{"id":769,"lemma":"Epichirem"},{"id":2769,"lemma":"Schluß"},{"id":3436,"lemma":"Verstandesschluß"}],
  "groups":[{"id":22,"name":"Logik","label":"Vernunftschluss"}],
  "reg_authors":[{"name":"Buldt Bernd","n":13}]
 }

@@ -28,8 +28,7 @@ HWPH.put("a/2627",
  ],
  "register":[
   {"term":"Selbstapperzeption","qualifier":"(Husserl)","band":"8","col":"376"},
-  {"term":"transzendentale Reduktion","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"– II (phän.) 2 595f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"transzendentale Reduktion","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},

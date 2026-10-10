@@ -22,15 +22,14 @@ HWPH.put("a/240",
   {"term":"artifex natura","qualifier":"","band":"1","col":"500"},
   {"term":"aura vitalis","qualifier":"","band":"1","col":"501"},
   {"term":"Bildungstrieb","qualifier":"","band":"1","col":"501"},
-  {"term":"das Naturseele","qualifier":"","band":null,"col":null},
   {"term":"forma substantialis","qualifier":"","band":"1","col":"501"},
   {"term":"Kunst der Natur","qualifier":"","band":null,"col":null},
   {"term":"Lebensprinzip","qualifier":"","band":null,"col":null},
   {"term":"Natur als Künstler","qualifier":"","band":"1","col":"500"},
+  {"term":"Naturseele","qualifier":"","band":null,"col":null},
   {"term":"nisus formativus","qualifier":"","band":"1","col":"501"},
   {"term":"rationes seminales","qualifier":"","band":"1","col":"501"},
-  {"term":"vis insita","qualifier":"","band":"1","col":"501"},
-  {"term":"– II (biol.) 2 507–509 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"vis insita","qualifier":"","band":"1","col":"501"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},

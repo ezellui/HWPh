@@ -19,6 +19,7 @@ HWPH.put("a/2804",
  "outlinks":[{"id":566,"lemma":"Desiderium naturale","n":1}],
  "register":[
   {"term":"Liebe zum Ewigen","qualifier":"","band":"9","col":"166"},
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"Sinn für die Welt","qualifier":"","band":"9","col":"166"},
   {"term":"Streben","qualifier":"","band":"9","col":"166f."},
   {"term":"Unerreichbare, das","qualifier":"","band":"9","col":"168"},

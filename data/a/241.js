@@ -25,6 +25,7 @@ HWPH.put("a/241",
   {"term":"Architekt des Weltalls","qualifier":"","band":"1","col":"502"},
   {"term":"Ganze, das","qualifier":"","band":"1","col":"503"},
   {"term":"scientia architectonica","qualifier":"","band":"1","col":"502"},
+  {"term":"System der Wissenschaften","qualifier":"","band":null,"col":null},
   {"term":"Weltgebäude","qualifier":"","band":"1","col":"502"},
   {"term":"Wissenschaften, System der","qualifier":"","band":"1","col":"503"}
  ],

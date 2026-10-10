@@ -20,8 +20,7 @@ HWPH.put("a/1063",
  "register":[
   {"term":"Einstellung, natürliche","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Weltbegriff, natürlicher","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"Welthorizont","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"– II (phän.) 2 421f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"Welthorizont","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":4,"l":0,"editor":0,"role":"source"},

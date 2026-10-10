@@ -20,7 +20,7 @@ HWPH.put("a/516",
  "register":[{"term":"hier","qualifier":"","band":null,"col":null}],
  "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[{"id":1409,"lemma":"In-der-Welt-sein","tf":2},{"id":527,"lemma":"Dasein","tf":3}],
- "see_also":[],
+ "see_also":[{"id":129,"lemma":"Analytik des Daseins"}],
  "groups":[{"id":11,"name":"Existenzphilosophie","label":"Da (Heidegger)"}],
  "reg_authors":[{"name":"Probst Peter","n":51}]
 }

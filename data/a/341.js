@@ -26,8 +26,7 @@ HWPH.put("a/341",
  "register":[
   {"term":"Tatsachen, idealisierte","qualifier":"","band":"1","col":"750"},
   {"term":"θέσις","qualifier":"","band":"1","col":"749"},
-  {"term":"λαμβανόμενα","qualifier":"","band":"1","col":"749f."},
-  {"term":"– I (wiss.) 2 964–967 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"λαμβανόμενα","qualifier":"","band":"1","col":"749f."}
  ],
  "persons":[
   {"id":307,"name":"Euklid","b":5,"n":1,"l":0,"editor":0,"role":"source"},

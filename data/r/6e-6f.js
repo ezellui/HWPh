@@ -1,15 +1,6 @@
 HWPH.put("r/6e-6f",
 [
  ["noeseos","Selbstbewegung","",null,null,"ref",2827,"Selbstbewegung","noeseos"],
- ["Nomokratie","Nomokratie","","6","890","main",2153,"Nomokratie","nomokratie"],
- ["Nominalismus","Nominalismus","II",null,null,"main",2150,"Nominalismus","nominalismus"],
- ["Nominalismus","Zitat","II (sprach.)",null,null,"ref",3697,"Zitat","nominalismus"],
- ["Nominalismus","Denotation","","2","113","ref",560,"Denotation","nominalismus"],
- ["noeseos 6 871","Werk","","12","548","ref",3586,"Werk","noeseos 6 871"],
- [
-  "Nonkognitivismus, ethischer","Nonkognitivismus, ethischer","",null,null,"main",2158,
-  "Nonkognitivismus, ethischer","nonkognitivismus, ethischer"
- ],
  [
   "nobilis; nobilitas","Aristokratie; Adel","",null,null,"ref",245,"Aristokratie, Adel",
   "nobilis; nobilitas"
@@ -46,10 +37,10 @@ HWPH.put("r/6e-6f",
  ["Noesis","Intentionalanalyse","(Husserl)",null,null,"see",1469,"Intentionalanalyse","noesis"],
  ["Noesis","Intentionalität","(Husserl)",null,null,"see",1470,"Intentionalität","noesis"],
  ["Noesis","Noema","(Husserl)",null,null,"see",2145,"Noema","noesis"],
- ["Noesis","Noesis","",null,null,"main",2146,"Noesis","noesis"],
+ ["Noesis noeseos","Noesis noeseos","","6","871–873","main",2147,"Noesis Noeseos","noesis noeseos"],
  [
-  "noeseos 6 871–873 s. auch","Beweger, unbewegter","(Aristoteles)",null,null,"ref",407,
-  "Beweger, unbewegter","noeseos 6 871–873 s. auch"
+  "Noesis noeseos","Beweger, unbewegter","(Aristoteles)",null,null,"see",407,"Beweger, unbewegter",
+  "noesis noeseos"
  ],
  ["nötigen","Nezessitieren","",null,null,"ref",2133,"Nezessitieren","notigen"],
  [
@@ -106,7 +97,7 @@ HWPH.put("r/6e-6f",
  ["Nominalismus","Terminismus","",null,null,"see",3151,"Terminismus","nominalismus"],
  ["Nominalismus","Universalien","II","11","195f.","ref",3302,"Universalien","nominalismus"],
  [
-  "Nominalismus, dialektischer","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Nominalismus, dialektischer","Dialektik","IV 7. 1","2","219","ref",583,"Dialektik",
   "nominalismus, dialektischer"
  ],
  [
@@ -122,7 +113,11 @@ HWPH.put("r/6e-6f",
  ["Nominator","Nominator","","6","888f.","main",2151,"Nominator","nominator"],
  ["Nominator","Eigenname","",null,null,"see",663,"Eigenname","nominator"],
  ["Nominator","Indikator","",null,null,"see",1411,"Indikator","nominator"],
- ["Nominator","Kennzeichnung Nominatum","",null,null,"see",null,null,"nominator"],
+ [
+  "Nominator","Kennzeichnung","",null,null,"see",1558,"Kennzeichnung, Kennzeichnungstheorie",
+  "nominator"
+ ],
+ ["Nominatum","Designatum","(Carnap)","2","130","ref",568,"Designatum","nominatum"],
  ["Nominismus","Nominismus","","6","889","main",2152,"Nominismus","nominismus"],
  ["Nomokratie","Nomokratie","","6","889–891","main",2153,"Nomokratie","nomokratie"],
  ["Nomologie","Nomologie","","6","891f.","main",2154,"Nomologie","nomologie"],
@@ -131,7 +126,7 @@ HWPH.put("r/6e-6f",
   "nomologie"
  ],
  ["nomologisch","Nomologie","",null,null,"ref",2154,"Nomologie","nomologisch"],
- ["nomologisch","Erklären II (wiss.)","","2","695","ref",801,"Erklären, Erklärung","nomologisch"],
+ ["nomologisch","Erklären","II (wiss.)","2","695","ref",801,"Erklären, Erklärung","nomologisch"],
  [
   "nomologischer Gottesbeweis","Gottesbeweis","","3","823","ref",1165,"Gottesbeweis",
   "nomologischer gottesbeweis"
@@ -145,7 +140,7 @@ HWPH.put("r/6e-6f",
  ],
  ["Nomos","Motivforschung","","6","222","ref",2035,"Motivforschung","nomos"],
  ["Nomos","Rechtsphilosophie","","8","316f.","ref",2614,"Rechtsphilosophie","nomos"],
- ["nomothetisch","Erklären I (Dilthey)","","2","692","ref",801,"Erklären, Erklärung","nomothetisch"],
+ ["nomothetisch","Erklären","I (Dilthey)","2","692","ref",801,"Erklären, Erklärung","nomothetisch"],
  [
   "Nomothetisch/idiographisch","Nomothetisch/idiographisch","","6","896f.","main",2156,
   "Nomothetisch/idiographisch","nomothetisch/idiographisch"
@@ -174,7 +169,7 @@ HWPH.put("r/6e-6f",
   "non aliud (cusanus)"
  ],
  [
-  "non causa pro causa","Irrtum","(Schlussfehler)","4","610","ref",1500,"Irrtum (Schlußfehler)",
+  "non causa pro causa","Irrtum (Schlussfehler)","","4","610","ref",1500,"Irrtum (Schlußfehler)",
   "non causa pro causa"
  ],
  ["non posse non peccare","Sünde","II","10","602","ref",3075,"Sünde","non posse non peccare"],
@@ -200,8 +195,16 @@ HWPH.put("r/6e-6f",
   "nonkognitivismus, ethischer"
  ],
  [
-  "Nonkognitivismus, ethischer","Werturteil Nonkonformismus","",null,null,"see",null,null,
+  "Nonkognitivismus, ethischer","Werturteil","",null,null,"see",3594,"Werturteil; Werturteilsstreit",
   "nonkognitivismus, ethischer"
+ ],
+ [
+  "Nonkonformismus","Konformismus/Nonkonformismus non-philosophie","",null,null,"ref",null,null,
+  "nonkonformismus"
+ ],
+ [
+  "non-relational art","Kunst, abstrakte","","4","1439","ref",1714,"Kunst, abstrakte",
+  "non-relational art"
  ],
  [
   "non-repugnantia","Substanz","III","10","527","ref",3062,"Substanz; Substanz/Akzidens",
@@ -230,8 +233,8 @@ HWPH.put("r/6e-6f",
  ["Norm","Regel","",null,null,"see",2640,"Regel","norm"],
  ["Norm","Regula Lesbia","",null,null,"see",2651,"Regula Lesbia","norm"],
  [
-  "Norm","Rationalität III (analyt. Philos.)","","8","65","ref",2576,
-  "Rationalität, Rationalisierung","norm"
+  "Norm","Rationalität","III (analyt. Philos.)","8","65","ref",2576,"Rationalität, Rationalisierung",
+  "norm"
  ],
  ["Norm","Sanktion","II","8","1170","ref",2741,"Sanktion","norm"],
  ["Norm","Sollen","I","9","1035f.","ref",2920,"Sollen","norm"],
@@ -287,7 +290,7 @@ HWPH.put("r/6e-6f",
  ],
  ["Normativismus","Freirechtslehre","",null,null,"see",947,"Freirechtslehre","normativismus"],
  [
-  "Normativismus","Dezision (Schmitt)","","2","160","ref",578,"Dezision, Dezisionismus",
+  "Normativismus","Dezision","(Schmitt)","2","160","ref",578,"Dezision, Dezisionismus",
   "normativismus"
  ],
  [
@@ -482,16 +485,9 @@ HWPH.put("r/6e-6f",
  ["novation","Reform","","8","410","ref",2638,"Reform","novation"],
  ["Novissima","Novissima","","6","987f.","main",2173,"Novissima","novissima"],
  ["Novissima","Eschatologie","",null,null,"see",825,"Eschatologie","novissima"],
- ["Novissima","Weltende nówoje myschlénije","",null,null,"see",null,null,"novissima"],
- ["noeseos 6 871","Protention","(Husserl)","7","1528f.","ref",2487,"Protasis","noeseos 6 871"],
- [
-  "noeseos 6 871","Gegenwart, lebendige","(Husserl)",null,null,"see",1024,"Gegenwart, lebendige",
-  "noeseos 6 871"
- ],
- ["noeseos 6 871","Retention","(Husserl)",null,null,"see",2699,"Retention","noeseos 6 871"],
- ["noeseos 6 871","Urimpression","(Husserl)",null,null,"see",3343,"Urimpression","noeseos 6 871"],
- ["Notwendigkeit","Notwendigkeit","II","6","962ff.","main",2171,"Notwendigkeit","notwendigkeit"],
- ["Notwendigkeit","Wunder","","12","1064","ref",3659,"Wunder","notwendigkeit"],
+ ["Novissima","Weltende","",null,null,"see",3562,"Weltende; Weltuntergang","novissima"],
+ ["nówoje myschlénije","Philosophie","IV J","7","784","ref",2353,"Philosophie","nowoje myschlenije"],
+ ["noxae vindicta","Strafe","II","10","218f.","ref",3035,"Strafe","noxae vindicta"],
  ["Noack Hermann","Funktion","II (log.)","2","1140f.","author",974,"Funktion","noack hermann"],
  [
   "Noack Hermann","Individualisieren/Generalisieren","","4","288f.","author",1416,

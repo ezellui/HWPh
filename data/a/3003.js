@@ -20,6 +20,7 @@ HWPH.put("a/3003",
  "register":[
   {"term":"Einigkeit der Geister","qualifier":"","band":"10","col":"77"},
   {"term":"Emanzipation","qualifier":"","band":"10","col":"78"},
+  {"term":"religion collective","qualifier":"","band":"10","col":"78"},
   {"term":"religion de l'Etat","qualifier":"","band":"10","col":"78"},
   {"term":"Religion der Menschheit","qualifier":"","band":"10","col":"78"},
   {"term":"religion nationale","qualifier":"","band":"10","col":"78"},

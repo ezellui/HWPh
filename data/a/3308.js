@@ -31,7 +31,6 @@ HWPH.put("a/3308",
   {"id":3310,"lemma":"Universum","n":1}
  ],
  "register":[
-  {"term":"(institut. Formen)","qualifier":"","band":null,"col":null},
   {"term":"coniuratio","qualifier":"II","band":"11","col":"213"},
   {"term":"Ganze, das","qualifier":"I","band":"11","col":"212"},
   {"term":"Helmstedter Statuten","qualifier":"II","band":"11","col":"215"},
@@ -45,8 +44,7 @@ HWPH.put("a/3308",
   {"term":"Verband","qualifier":"I","band":"11","col":"212f."},
   {"term":"Welt","qualifier":"I","band":"11","col":"212"},
   {"term":"Wissenschaft, reine","qualifier":"II","band":"11","col":"216"},
-  {"term":"Zusammenklang","qualifier":"I","band":"11","col":"212"},
-  {"term":"– V (institut. Formen) 7 795–848 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zusammenklang","qualifier":"I","band":"11","col":"212"}
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -127,6 +125,6 @@ HWPH.put("a/3308",
   {"id":2353,"lemma":"Philosophie"}
  ],
  "groups":[{"id":46,"name":"Unterricht und Institutionen","label":"Universität"}],
- "reg_authors":[{"name":"Hammerstein Notker","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Hammerstein Notker","n":1},{"name":"Red","n":241}]
 }
 );

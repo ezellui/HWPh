@@ -26,7 +26,7 @@ HWPH.put("a/2258",
   {"id":30814,"name":"J. Norkaitis","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":1706,"lemma":"Kulturmorphologie, Kulturkreislehre","tf":2}],
- "see_also":[],
+ "see_also":[{"id":1706,"lemma":"Kulturmorphologie, Kulturkreislehre"}],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Paideuma"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Paideuma"}

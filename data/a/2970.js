@@ -17,7 +17,7 @@ HWPH.put("a/2970",
  "next":{"id":2971,"lemma":"Sphäre","band":"9","col":1373},
  "backlinks":[{"id":3193,"lemma":"Tierrecht","n":1}],
  "outlinks":[],
- "register":[{"term":"Instinkt","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"Mensch/Tier","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":2136,"name":"P. Singer","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1181,"name":"U. Wolf","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},

@@ -18,10 +18,13 @@ HWPH.put("a/2923",
  "backlinks":[{"id":3225,"lemma":"Traum","n":1}],
  "outlinks":[{"id":1770,"lemma":"Leib-Seele-Verhältnis","n":1},{"id":2767,"lemma":"Schlaf","n":1}],
  "register":[
+  {"term":"Bewusstsein, wachstes","qualifier":"","band":"9","col":"1062"},
   {"term":"Hellsehen, somnambules","qualifier":"","band":"9","col":"1062"},
   {"term":"Hypnose","qualifier":"","band":"9","col":"1062"},
   {"term":"Lebensmagnetismus","qualifier":"","band":"9","col":"1061"},
   {"term":"Nachtgedächtnis","qualifier":"","band":"9","col":"1061"},
+  {"term":"Schlafwandeln","qualifier":"","band":null,"col":null},
+  {"term":"sleepwalking","qualifier":"","band":null,"col":null},
   {"term":"Unterbewusstsein","qualifier":"","band":"9","col":"1062"},
   {"term":"Willensfreiheit","qualifier":"","band":"9","col":"1060ff."}
  ],

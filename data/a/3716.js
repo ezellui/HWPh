@@ -42,10 +42,10 @@ HWPH.put("a/3716",
  ],
  "register":[
   {"term":"assurance","qualifier":"","band":null,"col":null},
+  {"term":"confiance","qualifier":"","band":null,"col":null},
   {"term":"confidentia","qualifier":"","band":"12","col":"1470f."},
   {"term":"fiducia","qualifier":"","band":"12","col":"1470"},
   {"term":"securitas","qualifier":"","band":"12","col":"1472"},
-  {"term":"Vertrauen","qualifier":"","band":null,"col":null},
   {"term":"Zutrauen","qualifier":"","band":"12","col":"1472"},
   {"term":"ἐπιπειθείη","qualifier":"","band":null,"col":null},
   {"term":"θαρραλεότης","qualifier":"","band":"12","col":"1470"},
@@ -157,6 +157,6 @@ HWPH.put("a/3716",
  ],
  "see_also":[{"id":1138,"lemma":"Glaube"},{"id":1287,"lemma":"Hoffnung"},{"id":3447,"lemma":"Vertrauen"}],
  "groups":[{"id":44,"name":"Theologie","label":"Zuversicht"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Schweizer Hans Rudolf","n":11}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Schweizer Hans Rudolf","n":11}]
 }
 );

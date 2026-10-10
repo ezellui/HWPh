@@ -32,6 +32,6 @@ HWPH.put("a/1413",
  "mentions":[{"id":309,"lemma":"Aussage","tf":2}],
  "see_also":[{"id":696,"lemma":"Einzelurteil"},{"id":2887,"lemma":"Singulär"}],
  "groups":[{"id":22,"name":"Logik","label":"Individualaussage"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

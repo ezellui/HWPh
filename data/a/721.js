@@ -19,8 +19,7 @@ HWPH.put("a/721",
  "outlinks":[],
  "register":[
   {"term":"haptische Kinästhese","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"Tasten","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"– I (erk.) 2 456–464 s. auch","qualifier":"(Husserl)","band":null,"col":null}
+  {"term":"Tasten","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":0,"l":0,"editor":0,"role":"source"},

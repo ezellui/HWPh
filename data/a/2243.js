@@ -35,7 +35,7 @@ HWPH.put("a/2243",
  "backlinks":[{"id":2844,"lemma":"Selbstorganisation","n":1},{"id":3000,"lemma":"Staatsmaschine","n":2}],
  "outlinks":[],
  "register":[
-  {"term":"126","qualifier":"I (biol.)","band":"6","col":"1330"},
+  {"term":"Archeus","qualifier":"I (biol.)","band":"6","col":"1330"},
   {"term":"Bildungstrieb","qualifier":"I (biol.)","band":"6","col":"1331"},
   {"term":"Biopsychologie","qualifier":"II (soz./psych.)","band":"6","col":"1347"},
   {"term":"Eigenschaft (biol.)","qualifier":"I (biol.)","band":"6","col":"1333"},
@@ -50,6 +50,7 @@ HWPH.put("a/2243",
   {"term":"Mneme","qualifier":"I (biol.)","band":"6","col":"1334"},
   {"term":"Mnemismus","qualifier":"I (biol.)","band":"6","col":"1334"},
   {"term":"Moneren","qualifier":"I (biol.)","band":"6","col":"1332f."},
+  {"term":"Natur","qualifier":"III (pol.)","band":null,"col":null},
   {"term":"nisus formativus","qualifier":"I (biol.)","band":"6","col":"1331"},
   {"term":"Physiologie, soziale","qualifier":"III (pol.)","band":"6","col":"1354"},
   {"term":"Seele","qualifier":"II (soz./psych.)","band":"6","col":"1345ff."},
@@ -63,13 +64,7 @@ HWPH.put("a/2243",
   {"term":"Überorganismus","qualifier":"II (soz./psych.)","band":"6","col":"1343"},
   {"term":"Werkzeug","qualifier":"I (biol.)","band":null,"col":null},
   {"term":"Zelle","qualifier":"I (biol.)","band":"6","col":"1335"},
-  {"term":"Zellenrepublik","qualifier":"II (soz./psych.)","band":"6","col":"1342"},
-  {
-   "term":"– II (biol.) 8 1033f. – III (psych.) 8 1034–1036 Rhythmus (biol.)",
-   "qualifier":"I (biol.)",
-   "band":"6",
-   "col":"1332"
-  }
+  {"term":"Zellenrepublik","qualifier":"II (soz./psych.)","band":"6","col":"1342"}
  ],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":6,"n":5,"l":0,"editor":0,"role":"source"},
@@ -270,7 +265,11 @@ HWPH.put("a/2243",
   {"id":2233,"lemma":"Ordnung","tf":16},
   {"id":1872,"lemma":"Maschine","tf":7}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":2433,"lemma":"Präformation"},
+  {"id":1770,"lemma":"Leib-Seele-Verhältnis"},
+  {"id":515,"lemma":"Corpus mysticum"}
+ ],
  "groups":[
   {"id":5,"name":"Biologie","label":"Organismus I (biol.)"},
   {"id":29,"name":"Ökonomie","label":"Organismus III (pol.)"},

@@ -1,13 +1,9 @@
 HWPH.put("r/6c-6f",
 [
- [
-  "Logik, historische","Logik, historische","",null,null,"main",1810,"Logik, historische",
-  "logik, historische"
- ],
- [
-  "Logik, historische","Logik, historische","","5","417","main",1810,"Logik, historische",
-  "logik, historische"
- ],
+ ["Lob Gottes","Lob Gottes","","5","344–353","main",1800,"Lob Gottes","lob gottes"],
+ ["Lob Gottes","Bekenntnis","",null,null,"see",382,"Bekenntnis (Konfession)","lob gottes"],
+ ["Lob Gottes","Verkündigung","",null,null,"see",3414,"Verkündigung; Verkünden","lob gottes"],
+ ["Lobessucht","Eitelkeit","",null,null,"ref",698,"Eitelkeit","lobessucht"],
  ["localitas","Existentificatio","(Leibniz)","2","853","ref",862,"Existentificatio","localitas"],
  ["loci","Topik","",null,null,"ref",3203,"Topik; Topos","loci"],
  ["loci","Demonstrabel/probabel","","2","57","ref",549,"Demonstrabel/probabel (beweisbar)","loci"],
@@ -25,7 +21,8 @@ HWPH.put("r/6c-6f",
  ["locutio","Sprache","",null,null,"ref",2985,"Sprache","locutio"],
  ["locutio","Wort","I (sprach.)","12","1024","ref",3656,"Wort","locutio"],
  ["locutio cordis","Verbum mentis","","11","592","ref",3387,"Verbum mentis","locutio cordis"],
- ["locutio interior","Wort","",null,null,"ref",3656,"Wort","locutio interior"],
+ ["locutio interior","Wort, inneres","",null,null,"ref",3656,"Wort","locutio interior"],
+ ["locutio symbolica","Symbol","I","10","717","ref",3093,"Symbol","locutio symbolica"],
  ["locutio vulgaris","Abstrakt/konkret","II","1","37","ref",30,"Abstrakt/konkret","locutio vulgaris"],
  [
   "Lösung, approximierte","Versuch und Irrtum","","11","949","ref",3441,"Versuch und Irrtum",
@@ -100,7 +97,7 @@ HWPH.put("r/6c-6f",
  ],
  ["logical sum","Summe, logische","",null,null,"ref",3073,"Summe, logische","logical sum"],
  ["Logicus","Ästhetik","","1","557","ref",266,"Ästhetik, ästhetisch","logicus"],
- ["Logik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"logik s. auch"],
+ ["Logik","Register der Sachgruppen","",null,null,"see",null,null,"logik"],
  ["Logik","Logik","","5","357–383","main",1803,"Logik","logik"],
  ["Logik","Aussagenlogik","",null,null,"see",311,"Aussagenlogik","logik"],
  ["Logik","Dialektik","",null,null,"see",583,"Dialektik","logik"],
@@ -152,7 +149,15 @@ HWPH.put("r/6c-6f",
   "logik, deontische"
  ],
  ["Logik, deontische","Sollen","II","9","1050f.","ref",2920,"Sollen","logik, deontische"],
- ["Logik","Logik","",null,null,"main",1803,"Logik","logik"],
+ [
+  "Logik, dialektische","Logik, dialektische","","5","389–402","main",1805,
+  "Logik, (spekulativ-)dialektische","logik, dialektische"
+ ],
+ ["Logik, dialektische","Dialektik","IV",null,null,"see",583,"Dialektik","logik, dialektische"],
+ [
+  "Logik, dialektische","Logik, transzendentale","",null,null,"see",1819,"Logik, transzendentale",
+  "logik, dialektische"
+ ],
  [
   "Logik, dialogische","Logik, dialogische","","5","402–411","main",1806,"Logik, dialogische",
   "logik, dialogische"
@@ -279,10 +284,27 @@ HWPH.put("r/6c-6f",
  ],
  ["Logik, objektive","Wesen","IV","12","639","ref",3595,"Wesen","logik, objektive"],
  [
-  "Logik, objektive/subjektive","Logik","",null,null,"ref",1803,"Logik",
-  "logik, objektive/subjektive"
+  "Logik, objektive/subjektive","Logik, dialektische","I","5","394","ref",1805,
+  "Logik, (spekulativ-)dialektische","logik, objektive/subjektive"
  ],
- ["Logik","Logik","",null,null,"main",1803,"Logik","logik"],
+ [
+  "Logik, operative","Logik, operative","","5","444–452","main",1816,"Logik, operative",
+  "logik, operative"
+ ],
+ [
+  "Logik, operative","Intuitionismus","III (log./math.)",null,null,"see",1488,"Intuitionismus",
+  "logik, operative"
+ ],
+ ["Logik, operative","Kalkül","",null,null,"see",1521,"Kalkül","logik, operative"],
+ [
+  "Logik, operative","Operativismus","(Dingler)",null,null,"see",2228,"Operativismus",
+  "logik, operative"
+ ],
+ [
+  "Logik, philosophische","Logik, philosophische","","5","452–461","main",1816,"Logik, operative",
+  "logik, philosophische"
+ ],
+ ["Logik, produktive","Sprung","","9","1547","ref",2996,"Sprung","logik, produktive"],
  ["Logik, symbolische","Symbol","II","10","732","ref",3093,"Symbol","logik, symbolische"],
  [
   "Logik, symmetrische/asymmetrische","Sekundärvorgang","","9","290f.","ref",2819,"Sekundärvorgang",
@@ -307,7 +329,14 @@ HWPH.put("r/6c-6f",
   "Logik, transzendentale","Logik, transzendentale","","5","462–482","main",1819,
   "Logik, transzendentale","logik, transzendentale"
  ],
- ["Logik, transzendentale","Logik","",null,null,"see",1803,"Logik","logik, transzendentale"],
+ [
+  "Logik, transzendentale","Logik, dialektische","",null,null,"see",1803,"Logik",
+  "logik, transzendentale"
+ ],
+ [
+  "Logik, transzendentale","Transzendental","V",null,null,"see",3219,"Transzendental",
+  "logik, transzendentale"
+ ],
  ["Logik, transzendentale","Logik","IV","5","377","ref",1803,"Logik","logik, transzendentale"],
  [
   "Logik, zweiwertige","Zweiwertigkeitsprinzip","",null,null,"ref",3725,"Zweiwertigkeitsprinzip",
@@ -376,7 +405,7 @@ HWPH.put("r/6c-6f",
   "logik des herzens"
  ],
  [
-  "Logik des Konkreten","Faktenaussenwelt/Fakteninnenwelt (Gehlen)","","2","885","ref",887,
+  "Logik des Konkreten","Faktenaussenwelt/Fakteninnenwelt","(Gehlen)","2","885","ref",887,
   "Faktenaußenwelt/Fakteninnenwelt","logik des konkreten"
  ],
  [
@@ -389,14 +418,14 @@ HWPH.put("r/6c-6f",
   "logik des scheins"
  ],
  ["Logik des Scheins","Analytik","",null,null,"see",128,"Analytik","logik des scheins"],
- ["Logik des Scheins","Dialektik","IV",null,null,"see",583,"Dialektik","logik des scheins"],
+ ["Logik des Scheins","Dialektik","IV 1. 1",null,null,"see",583,"Dialektik","logik des scheins"],
  [
   "Logik des Scheins (Kant)","Logik, transzendentale","","5","464","ref",1819,
   "Logik, transzendentale","logik des scheins (kant)"
  ],
  [
-  "Logik, deontische","Logik, deontische","","5","384","main",1804,"Logik, deontische",
-  "logik, deontische"
+  "Logik des Willens","Logik, deontische","","5","384","ref",1804,"Logik, deontische",
+  "logik des willens"
  ],
  [
   "Logik des Wünschens","Logik, deontische","","5","384","ref",1804,"Logik, deontische",
@@ -477,7 +506,7 @@ HWPH.put("r/6c-6f",
  ["logistica numerosa","Logistik","","5","482","ref",1820,"Logistik","logistica numerosa"],
  ["logistica speciosa","Speciosa","",null,null,"ref",2967,"Speciosa","logistica speciosa"],
  ["logistica speciosa","Logistik","","5","482","ref",1820,"Logistik","logistica speciosa"],
- ["Logistik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"logistik s. auch"],
+ ["Logistik","Register der Sachgruppen","",null,null,"see",null,null,"logistik"],
  ["Logistik","Logistik","","5","482f.","main",1820,"Logistik","logistik"],
  ["Logistik","Arithmetik","",null,null,"see",247,"Arithmetik","logistik"],
  ["Logistik","Mathesis universalis","",null,null,"see",1898,"Mathesis universalis","logistik"],
@@ -515,7 +544,10 @@ HWPH.put("r/6c-6f",
  ["Logos","Logoi spermatikoi","",null,null,"see",1822,"Logoi spermatikoi","logos"],
  ["Logos","Wort","",null,null,"see",3656,"Wort","logos"],
  ["Logos","Mythos; Mythologie","VI","6","306","ref",2053,"Mythos, Mythologie","logos"],
- ["logos interior","Wort","",null,null,"ref",3656,"Wort","logos interior"],
+ [
+  "logos interior","Wort, inneres","","12","1038","ref",3657,"Wort, inneres; Rede, innere",
+  "logos interior"
+ ],
  ["Logotherapie","Logotherapie","","5","502","main",1826,"Logotherapie","logotherapie"],
  ["Logotherapie","Existenzanalyse","","2","860","ref",864,"Existenzanalyse","logotherapie"],
  ["Logozentrisch","Logozentrisch","(Klages)","5","502f.","main",1827,"Logozentrisch","logozentrisch"],
@@ -526,12 +558,24 @@ HWPH.put("r/6c-6f",
  ],
  ["Logozentrismus","Stimme","","10","170","ref",3025,"Stimme","logozentrismus"],
  ["Lohn","Lohn","","5","503–521","main",1827,"Logozentrisch","lohn"],
+ ["Lohn","Belohnung","",null,null,"see",385,"Belohnung","lohn"],
+ ["Lohn","Gnade","",null,null,"see",1156,"Gnade","lohn"],
+ ["Lohn","Gratuität","",null,null,"see",1180,"Gratuität","lohn"],
+ ["Lohn","Rechtfertigung","IV (theol.)",null,null,"see",2601,"Rechtfertigung","lohn"],
+ ["Lohn","Werkgerechtigkeit","",null,null,"see",3587,"Werkgerechtigkeit","lohn"],
+ ["Lohn","Arbeit","",null,null,"see",230,"Arbeit","lohn"],
+ ["Lohn","Wert/Preis","",null,null,"see",3590,"Wert/Preis","lohn"],
  ["Lohn","Sein, moralisches","","9","241","ref",2808,"Sein, moralisches","lohn"],
  ["Lohn","Verelendung","","11","623","ref",3394,"Verelendung","lohn"],
- ["Lohnmoral","Lohn I (allg.) loi","",null,null,"ref",null,null,"lohnmoral"],
+ ["Lohnmoral","Lohn","I (allg.)",null,null,"ref",1828,"Lohn, Verdienst","lohnmoral"],
+ ["loi","Gesetz","",null,null,"ref",1105,"Gesetz","loi"],
  [
-  "loi de la nature","Naturgesetzlichkeit loi encyclopédique","",null,null,"ref",null,null,
-  "loi de la nature"
+  "loi de la nature","Naturgesetzlichkeit","",null,null,"ref",2085,
+  "Naturgesetzlichkeit, Naturgesetz","loi de la nature"
+ ],
+ [
+  "loi encyclopédique","Hierarchiegesetz","(Comte)",null,null,"ref",1271,"Hierarchiegesetz",
+  "loi encyclopedique"
  ],
  ["loi morale","Gesetz, moralisches","",null,null,"ref",1107,"Gesetz, moralisches","loi morale"],
  [
@@ -548,7 +592,8 @@ HWPH.put("r/6c-6f",
  ["Lokalisation","Körperschema","",null,null,"see",1665,"Körperschema","lokalisation"],
  ["Lokalisation","Lokalzeichen","",null,null,"see",1831,"Lokalzeichen","lokalisation"],
  ["Lokalisation","Nativismus","(Helmholtz)",null,null,"see",2073,"Nativismus","lokalisation"],
- ["Lokalisation","Raum","",null,null,"see",2578,"Raum","lokalisation"],
+ ["Lokalisation","Raum; Raumwahrnehmung","",null,null,"see",2578,"Raum","lokalisation"],
+ ["Lokalisation","Wahrnehmung","V (psych.)",null,null,"see",3539,"Wahrnehmung","lokalisation"],
  [
   "Lokalisation, egozentrische","Egozentrismus","","2","318","ref",653,"Egozentrismus",
   "lokalisation, egozentrische"
@@ -563,7 +608,8 @@ HWPH.put("r/6c-6f",
  ],
  ["Lokalzeichen","Lokalzeichen","","5","527–529","main",1831,"Lokalzeichen","lokalzeichen"],
  ["Lokalzeichen","Nativismus","(Helmholtz)",null,null,"see",2073,"Nativismus","lokalzeichen"],
- ["Lokalzeichen","Raum","",null,null,"see",2578,"Raum","lokalzeichen"],
+ ["Lokalzeichen","Raum; Raumwahrnehmung","",null,null,"see",2578,"Raum","lokalzeichen"],
+ ["Lokalzeichen","Wahrnehmung","V (psych.)",null,null,"see",3539,"Wahrnehmung","lokalzeichen"],
  ["Lokâyata","Lokâyata","","5","529f.","main",1832,"Lokâyata","lokayata"],
  [
   "Lokutionärer Akt/illokutionärer Akt","Lokutionärer Akt/illokutionärer Akt","","5","530–533",
@@ -592,20 +638,11 @@ HWPH.put("r/6c-6f",
  ["looking-glass self","Status","","10","113","ref",3014,"Status","looking-glass self"],
  ["loss of support","Angst; Furcht","","1","313","ref",144,"Angst, Furcht","loss of support"],
  ["loyalty","Treue","",null,null,"ref",3226,"Treue","loyalty"],
- [
-  "Lokutionärer Akt/illokutionärer Akt","Lokutionärer Akt/illokutionärer Akt","",null,null,"main",
-  1833,"Lokutionärer Akt/illokutionärer Akt","lokutionarer akt/illokutionarer akt"
- ],
  ["logischer","Metaphysikkritik","II",null,null,"ref",1946,"Metaphysikkritik","logischer"],
- ["logischer","Philosophie","IV",null,null,"ref",2353,"Philosophie","logischer"],
- [
-  "Logik, transzendentale","Logik, transzendentale","","5","465","main",1819,
-  "Logik, transzendentale","logik, transzendentale"
- ],
- [
-  "Logik, transzendentale","Ordnung der Begriffe","","6","1311","ref",2235,"Ordnung der Begriffe",
-  "logik, transzendentale"
- ],
+ ["logischer","Philosophie","IV K",null,null,"ref",2353,"Philosophie","logischer"],
+ ["logischer","Physikalismus","(Carnap)",null,null,"ref",2369,"Physikalismus","logischer"],
+ ["logischer","Scheinprobleme","",null,null,"ref",2758,"Scheinprobleme","logischer"],
+ ["logischer","Wiener Kreis","",null,null,"ref",3618,"Wiener Kreis","logischer"],
  ["Loch Wolfgang","Gegenbesetzung","","3","103–105","author",1017,"Gegenbesetzung","loch wolfgang"],
  ["Loch Wolfgang","Identifikation","II","4","141–144","author",1365,"Identifikation","loch wolfgang"],
  ["Loch Wolfgang","Introjektion","","4","521f.","author",1485,"Introjektion","loch wolfgang"],
@@ -618,7 +655,7 @@ HWPH.put("r/6c-6f",
  ],
  ["Loch Wolfgang","Primärvorgang","","7","1311–1314","author",2452,"Primärvorgang","loch wolfgang"],
  ["Loch Wolfgang","Regression","II (psych.)","8","483f.","author",2648,"Regression","loch wolfgang"],
- ["Loch Wolfgang","Sekundärvorgang","","9","288–291","author",2818,"Sekte","loch wolfgang"],
+ ["Loch Wolfgang","Sekundärvorgang","","9","288–291","author",2819,"Sekundärvorgang","loch wolfgang"],
  [
   "Loch Wolfgang","Überdeterminierung","","11","7f.","author",3248,"Überdeterminierung",
   "loch wolfgang"
@@ -719,7 +756,10 @@ HWPH.put("r/6c-6f",
  ["Lorenz Stefan","Lernen","I (päd.)","5","241–245","author",1782,"Lernen","lorenz stefan"],
  ["Lorenz Stefan","Manichäismus","II","5","715f.","author",1860,"Manichäismus","lorenz stefan"],
  ["Lorenz Stefan","Monarchianismus","","6","125f.","author",2011,"Monarchianismus","lorenz stefan"],
- ["Lorenz Stefan","Naturphilosophie","",null,null,"author",2088,"Naturphilosophie","lorenz stefan"],
+ [
+  "Lorenz Stefan","Naturphilosophie","I-IV","6","535–548","author",2088,"Naturphilosophie",
+  "lorenz stefan"
+ ],
  ["Lorenz Stefan","Objektivation","","6","1054f.","author",2187,"Objektivation","lorenz stefan"],
  [
   "Lorenz Stefan","Objektivierung","I (allg.)","6","1057–1059","author",2191,"Objektivierung",
@@ -734,7 +774,7 @@ HWPH.put("r/6c-6f",
  ],
  ["Lorenz Stefan","Polytheismus","I","7","1087–1093","author",2403,"Polytheismus","lorenz stefan"],
  ["Lorenz Stefan","Rasse","I","8","25–28","author",2568,"Rasse","lorenz stefan"],
- ["Lorenz Stefan","Religion","V",null,null,"author",2673,"Religion","lorenz stefan"],
+ ["Lorenz Stefan","Religion V A;","VIII","10","8","author",2998,"Staat","lorenz stefan"],
  [
   "Lorenz Stefan","Selbstverleugnung","","9","551–554","author",2852,"Selbstverleugnung",
   "lorenz stefan"

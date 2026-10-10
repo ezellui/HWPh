@@ -20,8 +20,7 @@ HWPH.put("a/2608",
  "register":[
   {"term":"Fiktion der Wahrheit","qualifier":"","band":"8","col":"286"},
   {"term":"Recht, rechtswidriges","qualifier":"","band":"8","col":"286"},
-  {"term":"Wahrheit, Fiktion der","qualifier":"","band":"8","col":"286"},
-  {"term":"– IV (jur.) 11 459–461 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wahrheit, Fiktion der","qualifier":"","band":"8","col":"286"}
  ],
  "persons":[
   {"id":240,"name":"H. Kelsen","b":1,"n":1,"l":0,"editor":0,"role":"source"},

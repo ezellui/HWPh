@@ -24,7 +24,7 @@ HWPH.put("a/3119",
  "register":[
   {"term":"chauvinism of science","qualifier":"","band":"10","col":"874"},
   {"term":"Einheit der Wissenschaft","qualifier":"","band":null,"col":null},
-  {"term":"Positivismus","qualifier":"","band":"10","col":"873f."},
+  {"term":"Positivismusstreit","qualifier":"","band":"10","col":"873f."},
   {"term":"scientism","qualifier":"","band":null,"col":null}
  ],
  "persons":[

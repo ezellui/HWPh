@@ -1,7 +1,7 @@
 HWPH.put("r/64-79",
 [
  [
-  "Dyade","Erstheit; Zweitheit; Drittheit (Peirce)","","2","730","ref",817,
+  "Dyade","Erstheit; Zweitheit; Drittheit","(Peirce)","2","730","ref",817,
   "Erstheit, Zweitheit, Drittheit","dyade"
  ],
  ["Dyas","Dyas","","2","302","main",643,"Dyas","dyas"],
@@ -21,7 +21,7 @@ HWPH.put("r/64-79",
   "dynamische Psychologie","Psychodynamik","",null,null,"ref",2508,"Psychodynamik",
   "dynamische psychologie"
  ],
- ["Dynamisieren","Potenzen II 2 (med.)","","7","1171","ref",2423,"Potenz, Potenzen","dynamisieren"],
+ ["Dynamisieren","Potenzen","II 2 (med.)","7","1171","ref",2423,"Potenz, Potenzen","dynamisieren"],
  ["Dynamismus","Dynamismus","","2","304","main",646,"Dynamismus","dynamismus"],
  ["Dynamismus","Animismus","",null,null,"see",148,"Animismus","dynamismus"],
  ["Dynamismus","Mana","",null,null,"see",1854,"Mana","dynamismus"],

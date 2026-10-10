@@ -17,7 +17,7 @@ HWPH.put("a/577",
  "next":{"id":578,"lemma":"Dezision, Dezisionismus","band":"2","col":160},
  "backlinks":[{"id":3270,"lemma":"Übung","n":1}],
  "outlinks":[],
- "register":[{"term":"decisio","qualifier":"","band":"2","col":"159"}],
+ "register":[{"term":"decisio","qualifier":"(Schmitt)","band":"2","col":"159"}],
  "persons":[
   {"id":10593,"name":"J. Busch","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":238,"name":"Erasmus von Rotterdam","b":1,"n":0,"l":0,"editor":0,"role":"source"},

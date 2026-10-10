@@ -34,6 +34,6 @@ HWPH.put("a/111",
  "mentions":[{"id":3355,"lemma":"Urteil","tf":2}],
  "see_also":[{"id":48,"lemma":"Adjunktion"},{"id":609,"lemma":"Disjunktion"},{"id":1648,"lemma":"Kontravalenz"}],
  "groups":[{"id":22,"name":"Logik","label":"Alternative"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

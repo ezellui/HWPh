@@ -18,6 +18,7 @@ HWPH.put("a/146",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"animalis","qualifier":"","band":null,"col":null},
   {"term":"pattern of behavior","qualifier":"","band":"1","col":"315"},
   {"term":"ἀισθητικόν","qualifier":"","band":null,"col":null},
   {"term":"ζωϊκόν","qualifier":"","band":null,"col":null}

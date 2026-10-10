@@ -26,10 +26,10 @@ HWPH.put("a/3349",
   {"id":2340,"lemma":"Phänomen","n":1}
  ],
  "register":[
-  {"term":"/Objekt IV 10 420","qualifier":"(Goethe)","band":"11","col":"375f."},
   {"term":"Basisphänomen","qualifier":"(Goethe)","band":null,"col":null},
-  {"term":"K 7 788ff.","qualifier":"(Goethe)","band":"11","col":"375"},
-  {"term":"Phänomen, reines","qualifier":"(Goethe)","band":"11","col":"375"}
+  {"term":"Idee","qualifier":"(Goethe)","band":"11","col":"375f."},
+  {"term":"Phänomen, reines","qualifier":"(Goethe)","band":"11","col":"375"},
+  {"term":"Philosoph","qualifier":"(Goethe)","band":"11","col":"375"}
  ],
  "persons":[
   {"id":19,"name":"J. W. Goethe","b":3,"n":4,"l":0,"editor":0,"role":"source"},

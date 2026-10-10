@@ -29,12 +29,13 @@ HWPH.put("a/3114",
   {"id":2288,"lemma":"Passivität, passive Synthesis","n":1}
  ],
  "register":[
-  {"term":"1203","qualifier":"","band":"10","col":"821"},
+  {"term":"Dialektik","qualifier":"","band":"10","col":"821"},
   {"term":"Rekognition (Kant)","qualifier":"","band":"10","col":"819"},
   {"term":"Synthese","qualifier":"","band":null,"col":null},
   {"term":"Synthesis der Apprehension","qualifier":"","band":"10","col":"819"},
   {"term":"synthesis intellectualis/speciosa","qualifier":"","band":"10","col":"819"},
-  {"term":"Synthesis, absolute","qualifier":"","band":"10","col":"821"}
+  {"term":"Synthesis, absolute","qualifier":"","band":"10","col":"821"},
+  {"term":"synthetisch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

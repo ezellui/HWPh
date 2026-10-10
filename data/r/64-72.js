@@ -34,7 +34,13 @@ HWPH.put("r/64-72",
   "drei-stadien-gesetz"
  ],
  [
-  "Drei-Stadien-Gesetz","Weltgeschichte Drei-Stadien-Gesetz","",null,null,"see",null,null,
+  "Drei-Stadien-Gesetz","Weltgeschichte","",null,null,"see",3567,
+  "Weltgeschichte; Universalgeschichte","drei-stadien-gesetz"
+ ],
+ ["Drei-Stadien-Gesetz","Diktatur","","2","246","ref",600,"Diktatur","drei-stadien-gesetz"],
+ ["Drei-Stadien-Gesetz","Fetischismus","II","2","941","ref",911,"Fetischismus","drei-stadien-gesetz"],
+ [
+  "Drei-Stadien-Gesetz","Wissenschaft","III","12","928f.","ref",3635,"Wissenschaft",
   "drei-stadien-gesetz"
  ],
  [
@@ -59,7 +65,7 @@ HWPH.put("r/64-72",
  ["drittes Reich","Chiliasmus","I","1","1003","ref",493,"Chiliasmus","drittes reich"],
  ["Drittes Rom","Reich, Drittes","","8","497","ref",2654,"Reich, Drittes","drittes rom"],
  [
-  "Drittheit","Erstheit; Zweitheit; Drittheit (Peirce)","",null,null,"ref",817,
+  "Drittheit","Erstheit; Zweitheit; Drittheit","(Peirce)",null,null,"ref",817,
   "Erstheit, Zweitheit, Drittheit","drittheit"
  ],
  ["Drittheit","Repräsentation","III (19./20. Jh.)","8","829","ref",2686,"Repräsentation","drittheit"],
@@ -74,38 +80,13 @@ HWPH.put("r/64-72",
  ["droit public","Staatsrecht","",null,null,"ref",3002,"Staatsrecht","droit public"],
  ["droite raison","Recta ratio","",null,null,"ref",2620,"Recta ratio","droite raison"],
  [
-  "droits de l'homme","Rechte des Menschen; Menschenrechte δρων͂ ἄιτιον","",null,null,"ref",2600,
+  "droits de l'homme","Rechte des Menschen; Menschenrechte","",null,null,"ref",2600,
   "Rechte des Menschen, Menschenrechte","droits de l'homme"
  ],
  ["drug dependence","Sucht","","10","575","ref",3069,"Sucht","drug dependence"],
  [
   "drunkenness","Trunkenheit/Nüchternheit","",null,null,"ref",3238,"Trunkenheit/Nüchternheit",
   "drunkenness"
- ],
- [
-  "Drei-Stadien-Gesetz","Drei-Stadien-Gesetz","",null,null,"main",637,"Drei-Stadien-Gesetz",
-  "drei-stadien-gesetz"
- ],
- [
-  "Drei-Stadien-Gesetz","Geschichtsphilosophie","",null,null,"ref",1093,"Geschichtsphilosophie",
-  "drei-stadien-gesetz"
- ],
- [
-  "Drei-Stadien-Gesetz","Geschichtszeichen","",null,null,"ref",1095,"Geschichtszeichen",
-  "drei-stadien-gesetz"
- ],
- ["Drei-Stadien-Gesetz","Idol","","4","191","ref",1379,"Idol, Ido(lo)latrie","drei-stadien-gesetz"],
- ["Drei-Stadien-Gesetz","Mensch","III 2","5","1076ff.","ref",1917,"Mensch","drei-stadien-gesetz"],
- [
-  "Drei-Stadien-Gesetz","Niedergang","","6","841","ref",2138,"Niedergang, Untergang",
-  "drei-stadien-gesetz"
- ],
- ["Drei-Stadien-Gesetz","Ordnung","III","6","1295","ref",2233,"Ordnung","drei-stadien-gesetz"],
- ["Drei-Stadien-Gesetz","Theorie","II","10","1151","ref",3179,"Theorie","drei-stadien-gesetz"],
- ["Drei-Stadien-Gesetz","Wachstum","II","12","9","ref",3513,"Wachstum","drei-stadien-gesetz"],
- [
-  "Drei-Stadien-Gesetz","Weiblich/männlich","III","12","362","ref",3552,"Weiblich/männlich",
-  "drei-stadien-gesetz"
  ],
  ["Dräger Horst","Liberalismus","IV 2","5","265–272","author",1787,"Liberalismus","drager horst"],
  ["Drechsler Martin","Sinnesdaten","","9","875–882","author",2894,"Sinnesdaten","drechsler martin"],

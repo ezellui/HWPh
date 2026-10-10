@@ -40,19 +40,14 @@ HWPH.put("a/1871",
  ],
  "register":[
   {"term":"Bakunismus","qualifier":"I","band":"5","col":"759"},
-  {"term":"Bewusstsein, antizipierendes (Bloch)","qualifier":"II","band":"5","col":"769"},
-  {
-   "term":"der Befreiung 10 1097 Sozialismus, wissenschaftlicher",
-   "qualifier":"II",
-   "band":"5",
-   "col":"768"
-  },
   {"term":"Lassalleanismus","qualifier":"I","band":"5","col":"759"},
   {"term":"Leben, geistiges","qualifier":"IV","band":"5","col":"789"},
   {"term":"Possibilisten","qualifier":"I","band":"5","col":"759"},
   {"term":"Proudhonismus","qualifier":"I","band":"5","col":"759"},
+  {"term":"Sozialismus, wissenschaftlicher","qualifier":"II","band":"5","col":"768"},
   {"term":"Syndikalismus, revolutionärer","qualifier":"I","band":"5","col":"763"},
   {"term":"Theorie, kritische","qualifier":"IV","band":"5","col":"778f."},
+  {"term":"Überbau/Basis","qualifier":"II","band":"5","col":"769"},
   {"term":"Vulgärmarxismus","qualifier":"I","band":"5","col":"764"},
   {"term":"Warenabstraktion","qualifier":"IV","band":"5","col":"782"}
  ],

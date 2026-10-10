@@ -33,6 +33,6 @@ HWPH.put("a/1355",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Zeltner Hermann","n":7}]
 }
 );

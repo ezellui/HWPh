@@ -49,12 +49,7 @@ HWPH.put("a/2256",
   {"term":"Erziehungswissenschaft","qualifier":"","band":null,"col":null},
   {"term":"Ethologie","qualifier":"","band":"7","col":"20"},
   {"term":"Lehrerbildung","qualifier":"","band":"7","col":"11f."},
-  {
-   "term":"natürliche bzw. vernünftige 8 717 Pädagogie, göttliche",
-   "qualifier":"",
-   "band":"7",
-   "col":"2"
-  },
+  {"term":"Pädagogie, göttliche","qualifier":"","band":"7","col":"2"},
   {"term":"Pädagogik, angewandte","qualifier":"","band":"7","col":"20"},
   {"term":"Pädagogik, emanzipatorische","qualifier":"","band":"7","col":"34"},
   {"term":"Pädologie","qualifier":"","band":"7","col":"21"},
@@ -62,7 +57,8 @@ HWPH.put("a/2256",
   {"term":"Sozialpädagogik","qualifier":"","band":"7","col":"7"},
   {"term":"Staatspädagogik","qualifier":"","band":"7","col":"6f."},
   {"term":"Zucht","qualifier":"","band":"7","col":"5"},
-  {"term":"παιδαγωγία","qualifier":"","band":null,"col":null}
+  {"term":"παιδαγωγία","qualifier":"","band":null,"col":null},
+  {"term":"παίδευσις","qualifier":"","band":"7","col":"2"}
  ],
  "persons":[
   {"id":1663,"name":"W. Rein","b":3,"n":10,"l":0,"editor":0,"role":"mixed"},
@@ -276,7 +272,8 @@ HWPH.put("a/2256",
  "see_also":[
   {"id":1037,"lemma":"Geisteswissenschaftliche Pädagogik"},
   {"id":1707,"lemma":"Kulturpädagogik"},
-  {"id":2949,"lemma":"Sozialpädagogik"}
+  {"id":2949,"lemma":"Sozialpädagogik"},
+  {"id":3591,"lemma":"Werterziehung; moralische Erziehung; Moralpädagogik"}
  ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Pädagogik"},

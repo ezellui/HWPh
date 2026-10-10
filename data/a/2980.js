@@ -27,10 +27,11 @@ HWPH.put("a/2980",
  "register":[
   {"term":"animalitas","qualifier":"","band":"9","col":"1417f."},
   {"term":"brutalitas","qualifier":"","band":"9","col":"1418"},
-  {"term":"II-III πνευματικός","qualifier":"","band":"9","col":"1415"},
   {"term":"incorporalitas","qualifier":"","band":"9","col":"1416"},
   {"term":"rationalitas","qualifier":"","band":"9","col":"1418"},
-  {"term":"spiritualitas","qualifier":"","band":null,"col":null}
+  {"term":"spiritualitas","qualifier":"","band":null,"col":null},
+  {"term":"unkörperlich","qualifier":"","band":"9","col":"1416"},
+  {"term":"πνευματικός","qualifier":"","band":"9","col":"1415"}
  ],
  "persons":[
   {"id":3618,"name":"A. Solignac","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},

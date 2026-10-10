@@ -22,6 +22,6 @@ HWPH.put("a/1196",
  "mentions":[],
  "see_also":[{"id":340,"lemma":"Axiom"},{"id":2418,"lemma":"Postulat"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Grundsatz"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

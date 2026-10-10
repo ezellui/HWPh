@@ -20,7 +20,7 @@ HWPH.put("a/2744",
  "register":[
   {"term":"Farbe","qualifier":"","band":"8","col":"1174"},
   {"term":"satiation","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 6 1328f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"saturation","qualifier":"","band":"8","col":"1174"}
  ],
  "persons":[
   {"id":246,"name":"W. Köhler","b":2,"n":1,"l":0,"editor":0,"role":"mixed"},

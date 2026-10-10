@@ -26,17 +26,16 @@ HWPH.put("a/3440",
   {"id":3389,"lemma":"Verdammung; Verwerfung","n":1}
  ],
  "register":[
-  {"term":"/Objekt I 10 404","qualifier":"","band":"11","col":"942–948"},
   {"term":"avaritia","qualifier":"","band":"11","col":"944"},
   {"term":"contumacia","qualifier":"","band":null,"col":null},
   {"term":"desperatio","qualifier":"","band":"11","col":"944"},
   {"term":"durities cordis","qualifier":"","band":null,"col":null},
   {"term":"Erbarmen","qualifier":"","band":"11","col":"944"},
+  {"term":"Erwählung","qualifier":"","band":"11","col":"945"},
   {"term":"Hartnäckigkeit","qualifier":"","band":null,"col":null},
   {"term":"induratio","qualifier":"","band":null,"col":null},
   {"term":"obduratio","qualifier":"","band":null,"col":null},
   {"term":"obstinatio","qualifier":"","band":null,"col":null},
-  {"term":"Prädestination","qualifier":"","band":"11","col":"945"},
   {"term":"Starrsinn","qualifier":"","band":null,"col":null},
   {"term":"subtractio gratiae","qualifier":"","band":"11","col":"944"},
   {"term":"Sünde gegen den Heiligen Geist","qualifier":"","band":"11","col":"944"},
@@ -155,7 +154,11 @@ HWPH.put("a/3440",
   {"id":2781,"lemma":"Schrift","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":890,"lemma":"Fall, Abfall"},
+  {"id":3383,"lemma":"Verblendung; Verblendungszusammenhang"},
+  {"id":3389,"lemma":"Verdammung; Verwerfung"}
+ ],
  "groups":[{"id":44,"name":"Theologie","label":"Verstockung"}],
  "reg_authors":[{"name":"Frenschkowski Marco","n":1}]
 }

@@ -18,6 +18,7 @@ HWPH.put("a/1206",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Güterethik","qualifier":"","band":"3","col":"979"},
   {"term":"organisieren","qualifier":"","band":"3","col":"977"},
   {"term":"Perfektibilität","qualifier":"","band":"3","col":"978"},
   {"term":"symbolisieren","qualifier":"","band":"3","col":"977"},

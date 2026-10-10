@@ -17,10 +17,7 @@ HWPH.put("a/192",
  "next":{"id":193,"lemma":"Antizipation","band":"1","col":419},
  "backlinks":[{"id":3610,"lemma":"Widerstand","n":2}],
  "outlinks":[],
- "register":[
-  {"term":"ἀντιτυπία","qualifier":"(Leibniz)","band":null,"col":null},
-  {"term":"– I (nat.) 12 703–709 s. auch","qualifier":"(Leibniz)","band":null,"col":null}
- ],
+ "register":[{"term":"ἀντιτυπία","qualifier":"(Leibniz)","band":null,"col":null}],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":359,"name":"J. E. Erdmann","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -29,6 +26,6 @@ HWPH.put("a/192",
  "mentions":[],
  "see_also":[{"id":3289,"lemma":"Undurchdringlichkeit"},{"id":3610,"lemma":"Widerstand"}],
  "groups":[{"id":28,"name":"Naturphilosophie","label":"Antitypie (Leibniz)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

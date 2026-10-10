@@ -23,8 +23,8 @@ HWPH.put("a/537",
  ],
  "persons":[],
  "mentions":[{"id":1521,"lemma":"Kalkül","tf":2}],
- "see_also":[{"id":539,"lemma":"Definition, rekursive"}],
+ "see_also":[{"id":539,"lemma":"Definition, rekursive"},{"id":2426,"lemma":"Prädikatenlogik, Prädikatenkalkül"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Definition, induktive"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

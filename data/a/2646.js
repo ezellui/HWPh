@@ -70,7 +70,7 @@ HWPH.put("a/2646",
   {"id":1478,"lemma":"Interpretation","tf":2},
   {"id":2340,"lemma":"Phänomen","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":761,"lemma":"Entwicklungsmechanik, Entwicklungsphysiologie"}],
  "groups":[{"id":5,"name":"Biologie","label":"Regeneration"}],
  "reg_authors":[{"name":"Homann Heide","n":4}]
 }

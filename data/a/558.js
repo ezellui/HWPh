@@ -19,11 +19,10 @@ HWPH.put("a/558",
  "outlinks":[],
  "register":[
   {"term":"Bewusstseinsvorgänge","qualifier":"","band":"2","col":"109"},
-  {"term":"das 1 993","qualifier":"","band":"2","col":"111"},
+  {"term":"Charakteristische, das","qualifier":"","band":"2","col":"111"},
   {"term":"Denken, lautes","qualifier":"","band":"2","col":"110"},
   {"term":"Denkprozess","qualifier":"","band":null,"col":null},
-  {"term":"réflexion parlée","qualifier":"","band":"2","col":"110"},
-  {"term":"– II (psych.) 6 1328f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"réflexion parlée","qualifier":"","band":"2","col":"110"}
  ],
  "persons":[
   {"id":1289,"name":"K. Duncker","b":1,"n":2,"l":0,"editor":0,"role":"source"},

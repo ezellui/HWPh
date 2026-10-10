@@ -21,7 +21,8 @@ HWPH.put("a/1762",
   {"term":"Erbfolge","qualifier":"","band":"5","col":"161"},
   {"term":"Gesetzmässigkeit","qualifier":"","band":null,"col":null},
   {"term":"legitima potestas","qualifier":"","band":"5","col":"161"},
-  {"term":"Legitimität","qualifier":"","band":null,"col":null}
+  {"term":"Legitimität","qualifier":"","band":null,"col":null},
+  {"term":"Rechtmässigkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":133,"name":"C. Schmitt","b":1,"n":1,"l":1,"editor":0,"role":"source"},

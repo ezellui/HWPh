@@ -28,12 +28,13 @@ HWPH.put("a/1628",
  ],
  "outlinks":[{"id":614,"lemma":"Dispositionsbegriff","n":1}],
  "register":[
-  {"term":"Ähnlichkeitserinnerung","qualifier":"","band":"4","col":"1007"},
-  {"term":"Basisbegriffe","qualifier":"","band":"4","col":"1007"},
-  {"term":"Konstitutionstheorie","qualifier":"","band":null,"col":null},
-  {"term":"Qualia","qualifier":"","band":"4","col":"1008"},
-  {"term":"Reduktionssätze","qualifier":"","band":"4","col":"1007"},
-  {"term":"togetherness","qualifier":"","band":"4","col":"1008"}
+  {"term":"Ähnlichkeitserinnerung","qualifier":"(Carnap)","band":"4","col":"1007"},
+  {"term":"Basisbegriffe","qualifier":"(Carnap)","band":"4","col":"1007"},
+  {"term":"constitution system","qualifier":"(Carnap)","band":null,"col":null},
+  {"term":"Konstitutionstheorie","qualifier":"(Carnap)","band":null,"col":null},
+  {"term":"Qualia","qualifier":"(Carnap)","band":"4","col":"1008"},
+  {"term":"Reduktionssätze","qualifier":"(Carnap)","band":"4","col":"1007"},
+  {"term":"togetherness","qualifier":"(Carnap)","band":"4","col":"1008"}
  ],
  "persons":[
   {"id":33,"name":"R. Carnap","b":1,"n":2,"l":1,"editor":0,"role":"source"},

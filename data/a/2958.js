@@ -17,10 +17,7 @@ HWPH.put("a/2958",
  "next":{"id":2959,"lemma":"Soziolinguistik","band":"9","col":1267},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"sociocratie","qualifier":"(Comte)","band":null,"col":null},
-  {"term":"– I (allg.) 3 1084–1087 s. auch","qualifier":"(Comte)","band":null,"col":null}
- ],
+ "register":[{"term":"sociocratie","qualifier":"(Comte)","band":null,"col":null}],
  "persons":[
   {"id":130,"name":"A. Comte","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":43,"name":"J. Habermas","b":0,"n":1,"l":0,"editor":0,"role":"source"},

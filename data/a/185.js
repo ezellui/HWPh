@@ -72,7 +72,7 @@ HWPH.put("a/185",
   {"term":"Königsche Antinomie","qualifier":"II (log.)","band":"1","col":"398f."},
   {"term":"Kulturantagonismus","qualifier":"I (allg.)","band":"1","col":"395"},
   {"term":"Metasprache","qualifier":"II (log.)","band":"1","col":"403"},
-  {"term":"performativer Paradox","qualifier":"I (allg.)","band":"1","col":"396"},
+  {"term":"Paradox","qualifier":"I (allg.)","band":"1","col":"396"},
   {"term":"Richardsche Antinomie","qualifier":"II (log.)","band":"1","col":"399"},
   {"term":"Russellsche Antinomie","qualifier":"II (log.)","band":"1","col":"399ff."},
   {"term":"selbstanwendbar","qualifier":"II (log.)","band":null,"col":null},
@@ -81,9 +81,7 @@ HWPH.put("a/185",
   {"term":"Widerstreit der Gesetze","qualifier":"I (allg.)","band":"1","col":"393"},
   {"term":"Widerwärtigkeit","qualifier":"I (allg.)","band":"1","col":"393"},
   {"term":"Wohlordnungssatz","qualifier":"II (log.)","band":"1","col":"398"},
-  {"term":"Zermelo-Axiom","qualifier":"II (log.)","band":"1","col":"404"},
-  {"term":"– I (log.) 9 515f. s. auch","qualifier":"II (log.)","band":null,"col":null},
-  {"term":"– III (log.) 7 96f. s. auch","qualifier":"II (log.)","band":null,"col":null}
+  {"term":"Zermelo-Axiom","qualifier":"II (log.)","band":"1","col":"404"}
  ],
  "persons":[
   {"id":47,"name":"B. Russell","b":13,"n":4,"l":0,"editor":0,"role":"source"},
@@ -229,7 +227,17 @@ HWPH.put("a/185",
   {"id":410,"lemma":"Beweis","tf":5},
   {"id":3385,"lemma":"Verbot","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":186,"lemma":"Antinomismus"},
+  {"id":191,"lemma":"Antithetik"},
+  {"id":2689,"lemma":"Repugnanz"},
+  {"id":3607,"lemma":"Widerspruch"},
+  {"id":1403,"lemma":"Imprädikativität"},
+  {"id":1450,"lemma":"Insolubilia"},
+  {"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"},
+  {"id":2845,"lemma":"Selbstreferenz"},
+  {"id":2925,"lemma":"Sophisma; Sophismata"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Antinomie I (allg.)"},
   {"id":22,"name":"Logik","label":"Antinomie II (log.)"}

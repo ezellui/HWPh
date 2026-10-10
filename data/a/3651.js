@@ -35,7 +35,7 @@ HWPH.put("a/3651",
   {"term":"plaisir sans intérêt","qualifier":"","band":null,"col":null},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"schmerzlos","qualifier":"","band":"12","col":"1002"},
-  {"term":"schöne","qualifier":"","band":null,"col":null}
+  {"term":"Schönheit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5453,"name":"J. Stolnitz","b":1,"n":2,"l":1,"editor":0,"role":"scholar"},

@@ -82,7 +82,7 @@ HWPH.put("a/2529",
   {"id":3406,"lemma":"Verhalten","tf":2},
   {"id":3543,"lemma":"Wandel; Veränderung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3673,"lemma":"Zeichen"}],
  "groups":[
   {"id":34,"name":"Psychiatrie","label":"Psychosomatik"},
   {"id":35,"name":"Psychoanalyse","label":"Psychosomatik"},

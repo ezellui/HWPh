@@ -3,7 +3,7 @@ HWPH.put("r/61-74",
  ["Äternitologie","Futurologie","","2","1151","ref",982,"Futurologie","aternitologie"],
  ["Äther","Äther","","1","599–601","main",276,"Atheismus","ather"],
  ["Äther","Quintessenz","",null,null,"see",2559,"Quintessenz","ather"],
- ["Äther","Feld I (phys.)","","2","923","ref",904,"Feld, Feldtheorie","ather"],
+ ["Äther","Feld","I (phys.)","2","923","ref",904,"Feld, Feldtheorie","ather"],
  ["Äther","Gravitation","","3","865","ref",1181,"Gravitation","ather"],
  ["Äther","Kreis; Kugel","","4","1215","ref",1687,"Kreis und Kugel","ather"],
  ["Äther","Raum","III","8","92","ref",2578,"Raum","ather"],
@@ -25,19 +25,16 @@ HWPH.put("r/61-74",
  ["Athanasianismus","Athanasianismus","","1","595","main",274,"Athanasianismus","athanasianismus"],
  ["Athanasianismus","Arianismus","",null,null,"see",244,"Arianismus","athanasianismus"],
  ["Athanasianismus","Monophysitismus","",null,null,"see",2016,"Monophysitismus","athanasianismus"],
- ["Athanatismus","Athanismus (Haeckel) ἀθανατίζειν","",null,null,"ref",null,null,"athanatismus"],
  [
-  "Athanismus (Haeckel)","Athanismus (Haeckel)","","1","595","main",276,"Atheismus",
-  "athanismus (haeckel)"
+  "Athanatismus","Athanismus","(Haeckel)",null,null,"ref",275,"Athanismus (Athanatismus)",
+  "athanatismus"
  ],
  [
-  "Athanismus (Haeckel)","Thanatismus","(Haeckel)",null,null,"see",3161,"Thanatismus",
-  "athanismus (haeckel)"
+  "Athanismus","Athanismus","(Haeckel)","1","595","main",275,"Athanismus (Athanatismus)",
+  "athanismus"
  ],
- [
-  "Athanismus (Haeckel)","Unsterblichkeit","",null,null,"see",3323,"Unsterblichkeit",
-  "athanismus (haeckel)"
- ],
+ ["Athanismus","Thanatismus","(Haeckel)",null,null,"see",3161,"Thanatismus","athanismus"],
+ ["Athanismus","Unsterblichkeit","",null,null,"see",3323,"Unsterblichkeit","athanismus"],
  ["Athaumasie","Staunen","","10","116","ref",3015,"Staunen; Bewunderung; Verwunderung","athaumasie"],
  ["Atheismus","Atheismus","","1","595–599","main",276,"Atheismus","atheismus"],
  ["Atheismus","Spinozismus","",null,null,"see",2977,"Spinozismus","atheismus"],
@@ -53,6 +50,11 @@ HWPH.put("r/61-74",
  ["Atmosphäre","Sphäre","I","9","1375","ref",2971,"Sphäre","atmosphare"],
  ["atmosphère","Stimmung","",null,null,"ref",3027,"Stimmung","atmosphere"],
  ["Atom","Atom","","1","603","main",279,"Atom","atom"],
+ ["Atom","Atommodell","",null,null,"see",281,"Atommodell","atom"],
+ ["Atom","Atomtheorie","",null,null,"see",282,"Atomtheorie","atom"],
+ ["Atom","Elementarteilchen","",null,null,"see",709,"Elementarteilchen","atom"],
+ ["Atom","Individuum; Atom","",null,null,"see",1424,"Individuum, Individualität","atom"],
+ ["Atom","Kalkül","",null,null,"see",1521,"Kalkül","atom"],
  ["Atom","Materie","I","5","878","ref",1892,"Materie","atom"],
  ["Atom","Materie","II","5","885","ref",1892,"Materie","atom"],
  ["Atom, absolutes","Person","III 7","7","312","ref",2318,"Person","atom, absolutes"],
@@ -64,6 +66,13 @@ HWPH.put("r/61-74",
   "atome der ewigkeit"
  ],
  ["Atomismus","Atomismus","","1","603–606","main",280,"Atomismus","atomismus"],
+ ["Atomismus","Atomtheorie","",null,null,"see",282,"Atomtheorie","atomismus"],
+ ["Atomismus","Ganzheit","I (psych.)",null,null,"see",987,"Ganzheit","atomismus"],
+ ["Atomismus","Ganzheitspsychologie","",null,null,"see",989,"Ganzheitspsychologie","atomismus"],
+ ["Atomismus","Gestalt","II (psych.)",null,null,"see",1116,"Gestalt","atomismus"],
+ ["Atomismus","Analyse","",null,null,"see",125,"Analyse","atomismus"],
+ ["Atomismus","Satz","III 3 (Wittgenstein)",null,null,"see",2745,"Satz","atomismus"],
+ ["Atommodell","Atommodell","","1","606","main",281,"Atommodell","atommodell"],
  ["Atomtheorie","Atomtheorie","","1","606–611","main",282,"Atomtheorie","atomtheorie"],
  ["Atomtheorie","Elementarteilchen","",null,null,"see",709,"Elementarteilchen","atomtheorie"],
  [
@@ -100,7 +109,11 @@ HWPH.put("r/61-74",
  ["Attribut","Attribut","","1","612–614","main",283,"Attribut","attribut"],
  ["Attribut","Attribute Gottes","",null,null,"see",null,null,"attribut"],
  ["Attribut","Prädikabilien","",null,null,"see",2425,"Prädikabilien, Prädikabilienlehre","attribut"],
- ["Attribut","Substanz Attribute, logische","",null,null,"see",null,null,"attribut"],
+ ["Attribut","Substanz","",null,null,"see",3062,"Substanz; Substanz/Akzidens","attribut"],
+ [
+  "Attribute, logische","Prädikatenlogik","","7","1189","ref",2426,
+  "Prädikatenlogik, Prädikatenkalkül","attribute, logische"
+ ],
  [
   "Attribute Gottes","Attribute Gottes","","1","614–616","main",284,
   "Attribute (Eigenschaften) Gottes","attribute gottes"
@@ -127,10 +140,6 @@ HWPH.put("r/61-74",
   "attributum essentiale","Wesenseigenschaft","",null,null,"ref",3599,"Wesenseigenschaft",
   "attributum essentiale"
  ],
- ["attritio","Reue","","8","947f.","ref",2702,"Reue","attritio"],
- ["Atomismus","Atomismus","",null,null,"main",280,"Atomismus","atomismus"],
- ["Äther","Äther","",null,null,"main",277,"Äther, Quintessenz","ather"],
- ["Äther","Quintessenz","",null,null,"ref",2559,"Quintessenz","ather"],
- ["Äther","Geist","V","3","176","ref",1030,"Geist","ather"]
+ ["attritio","Reue","","8","947f.","ref",2702,"Reue","attritio"]
 ]
 );

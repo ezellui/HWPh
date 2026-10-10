@@ -41,14 +41,14 @@ HWPH.put("a/3303",
   {"term":"Diskurs","qualifier":"","band":"11","col":"201"},
   {"term":"kategorischer Imperativ","qualifier":"","band":"11","col":"202"},
   {"term":"Konsistenz","qualifier":"","band":"11","col":"201f."},
+  {"term":"Rechtsverhältnis","qualifier":"","band":null,"col":null},
   {"term":"Regel, goldene","qualifier":"","band":null,"col":null},
   {"term":"Sprechsituation, ideale","qualifier":"","band":"11","col":"201"},
   {"term":"Stufen der Universalisierung","qualifier":"","band":"11","col":"202"},
   {"term":"Universalisierbarkeit","qualifier":"","band":null,"col":null},
   {"term":"Verallgemeinerung (eth.)","qualifier":"","band":null,"col":null},
   {"term":"Vernunftprinzip","qualifier":"","band":"11","col":"201"},
-  {"term":"Widerspruchsfreiheit","qualifier":"","band":"11","col":"201"},
-  {"term":"– IV (wiss.) 8 446–450 Regel","qualifier":"","band":null,"col":null}
+  {"term":"Widerspruchsfreiheit","qualifier":"","band":"11","col":"201"}
  ],
  "persons":[
   {"id":43,"name":"J. Habermas","b":5,"n":3,"l":0,"editor":0,"role":"source"},

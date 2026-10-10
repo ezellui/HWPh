@@ -28,9 +28,9 @@ HWPH.put("a/2825",
   {"term":"Autonomie","qualifier":"II","band":"9","col":"332"},
   {"term":"Besinnung","qualifier":"","band":null,"col":null},
   {"term":"Funktionär der Menschheit","qualifier":"III","band":"9","col":"335"},
-  {"term":"inneres 12 1041 Selbstgestaltung","qualifier":"II","band":"9","col":"333"},
   {"term":"Lebensbesinnung","qualifier":"II","band":"9","col":"333"},
   {"term":"Ordnungslehre","qualifier":"II","band":"9","col":"333"},
+  {"term":"Selbstgestaltung","qualifier":"II","band":"9","col":"333"},
   {"term":"Selbstverantwortung","qualifier":"II","band":"9","col":"332"}
  ],
  "persons":[

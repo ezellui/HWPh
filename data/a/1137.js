@@ -19,7 +19,6 @@ HWPH.put("a/1137",
  "outlinks":[],
  "register":[
   {"term":"claritas","qualifier":"","band":"3","col":"626"},
-  {"term":"das 8 1343–1385 s. auch","qualifier":"","band":null,"col":null},
   {"term":"splendor","qualifier":"","band":null,"col":null},
   {"term":"ἀγλαία","qualifier":"","band":null,"col":null}
  ],

@@ -19,7 +19,6 @@ HWPH.put("a/407",
  "outlinks":[],
  "register":[
   {"term":"Beweger, erster","qualifier":"(Aristoteles)","band":null,"col":null},
-  {"term":"noeseos 6 871–873 s. auch","qualifier":"(Aristoteles)","band":null,"col":null},
   {"term":"unbewegter Beweger","qualifier":"(Aristoteles)","band":null,"col":null}
  ],
  "persons":[

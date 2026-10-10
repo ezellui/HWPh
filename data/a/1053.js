@@ -40,6 +40,7 @@ HWPH.put("a/1053",
   {"term":"common good","qualifier":"","band":null,"col":null},
   {"term":"Gemeinnutz","qualifier":"","band":null,"col":null},
   {"term":"Gesellschaftsvertrag","qualifier":"I","band":"3","col":"253f."},
+  {"term":"Gute bien commun; bien public","qualifier":"","band":null,"col":null},
   {"term":"iustitia legalis","qualifier":"I","band":"3","col":"250"},
   {"term":"moral sense","qualifier":"I","band":"3","col":"252"},
   {"term":"public conscience","qualifier":"I","band":"3","col":"251"},
@@ -154,6 +155,6 @@ HWPH.put("a/1053",
   {"id":3650,"lemma":"Wohlfahrt; Wohlfahrtsstaat"}
  ],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Gemeinwohl"}],
- "reg_authors":[{"name":"Herzog Roman","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Herzog Roman","n":4},{"name":"Red","n":241}]
 }
 );

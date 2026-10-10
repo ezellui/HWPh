@@ -43,8 +43,7 @@ HWPH.put("a/2690",
   {"term":"Rückstossung","qualifier":"","band":null,"col":null},
   {"term":"Schwere","qualifier":"","band":"8","col":"887f."},
   {"term":"Verwandtschaft","qualifier":"","band":"8","col":"886"},
-  {"term":"Wahlverwandtschaft","qualifier":"","band":"8","col":"886"},
-  {"term":"– I (nat.) 10 751–756 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wahlverwandtschaft","qualifier":"","band":"8","col":"886"}
  ],
  "persons":[
   {"id":113,"name":"I. Newton","b":3,"n":2,"l":0,"editor":0,"role":"source"},

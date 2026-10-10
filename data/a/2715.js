@@ -28,7 +28,9 @@ HWPH.put("a/2715",
  "register":[
   {"term":"Gestalt (psych.)","qualifier":"III (psych.)","band":"8","col":"1035"},
   {"term":"Klangrhythmus","qualifier":"I (mus.)","band":"8","col":"1031"},
+  {"term":"Metrum","qualifier":"I (mus.)","band":"8","col":"1027f."},
   {"term":"numerus","qualifier":"","band":null,"col":null},
+  {"term":"Periodizität","qualifier":"II (biol.)","band":null,"col":null},
   {"term":"Zeitmass","qualifier":"I (mus.)","band":"8","col":"1028"},
   {"term":"Zyklus","qualifier":"II (biol.)","band":null,"col":null},
   {"term":"μουσική","qualifier":"I (mus.)","band":"8","col":"1027f."},
@@ -174,7 +176,7 @@ HWPH.put("a/2715",
   {"id":123,"lemma":"Analogie","tf":3},
   {"id":3040,"lemma":"Struktur","tf":4}
  ],
- "see_also":[],
+ "see_also":[{"id":2043,"lemma":"Musik"}],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Rhythmus I (mus.)"},
   {"id":5,"name":"Biologie","label":"Rhythmus II (biol.)"},

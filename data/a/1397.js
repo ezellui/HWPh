@@ -23,11 +23,9 @@ HWPH.put("a/1397",
  ],
  "outlinks":[{"id":1404,"lemma":"Impuls","n":1}],
  "register":[
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"proiectum","qualifier":"","band":"4","col":"260"},
-  {"term":"quantitas motus","qualifier":"","band":"4","col":"261"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (nat.) 12 703–709 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (phys.) 5 825–828 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"quantitas motus","qualifier":"","band":"4","col":"261"}
  ],
  "persons":[
   {"id":568,"name":"Albert von Sachsen","b":1,"n":1,"l":0,"editor":0,"role":"source"},

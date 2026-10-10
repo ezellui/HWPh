@@ -43,10 +43,10 @@ HWPH.put("a/3613",
   {"id":3616,"lemma":"Wiederholung","n":1}
  ],
  "register":[
-  {"term":"1486","qualifier":"","band":"12","col":"729"},
   {"term":"Erkenntnis des Erkannten","qualifier":"","band":"12","col":"726"},
   {"term":"recognition","qualifier":"","band":null,"col":null},
   {"term":"reconnaissance","qualifier":"","band":null,"col":null},
+  {"term":"Übersetzung","qualifier":"","band":"12","col":"729"},
   {"term":"Wiedererinnerung","qualifier":"","band":null,"col":null},
   {"term":"ἀναγνώρισις","qualifier":"","band":null,"col":null}
  ],

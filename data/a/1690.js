@@ -103,6 +103,6 @@ HWPH.put("a/1690",
  ],
  "see_also":[],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Krieg"}],
- "reg_authors":[{"name":"Kimminich Otto","n":5},{"name":"Nohn Ernst August","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Kimminich Otto","n":5},{"name":"Nohn Ernst August","n":1},{"name":"Red","n":241}]
 }
 );

@@ -28,8 +28,7 @@ HWPH.put("a/3112",
   {"term":"Selektion","qualifier":"","band":"10","col":"809"},
   {"term":"Syntagma/Paradigma","qualifier":"","band":null,"col":null},
   {"term":"System, semiotisches","qualifier":"","band":"10","col":"808"},
-  {"term":"Verhältnis des Statteinander","qualifier":"","band":"10","col":"808"},
-  {"term":"– III (ling.) 10 323–325 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verhältnis des Statteinander","qualifier":"","band":"10","col":"808"}
  ],
  "persons":[
   {"id":443,"name":"R. Jakobson","b":2,"n":6,"l":0,"editor":0,"role":"source"},

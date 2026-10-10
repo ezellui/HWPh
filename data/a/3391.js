@@ -33,11 +33,12 @@ HWPH.put("a/3391",
   {"id":3545,"lemma":"Ware; Warencharakter; Warenfetischismus","n":1}
  ],
  "register":[
-  {"term":"genetische 7 1659 Entwirklichung","qualifier":"","band":"11","col":"609"},
+  {"term":"Entäusserung","qualifier":"","band":"11","col":"609"},
+  {"term":"Entwirklichung","qualifier":"","band":"11","col":"609"},
   {"term":"Journalismus","qualifier":"","band":"11","col":"611"},
-  {"term":"Kenose","qualifier":"","band":"11","col":"609"},
   {"term":"Produktionsprozess","qualifier":"","band":"11","col":"611"},
   {"term":"reification","qualifier":"","band":null,"col":null},
+  {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Vergegenständlichung","qualifier":"","band":null,"col":null}
  ],
  "persons":[

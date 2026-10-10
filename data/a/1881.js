@@ -27,6 +27,7 @@ HWPH.put("a/1881",
  "register":[
   {"term":"Begehrungsvermögen","qualifier":"","band":"5","col":"838"},
   {"term":"Beherrschtheit","qualifier":"","band":null,"col":null},
+  {"term":"Mässigung","qualifier":"","band":null,"col":null},
   {"term":"temperantia","qualifier":"","band":null,"col":null},
   {"term":"virtus generalis/specialis","qualifier":"","band":"5","col":"839"},
   {"term":"ἐπιθυμητικόν","qualifier":"","band":"5","col":"838"},

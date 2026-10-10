@@ -18,7 +18,6 @@ HWPH.put("a/1983",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Mitdasein","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Miteinandersein","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Nächstenliebe","qualifier":"(Heidegger)","band":"5","col":"1419f."}

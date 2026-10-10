@@ -93,6 +93,6 @@ HWPH.put("a/3636",
  "groups":[
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Wissenschaft der Wissenschaften"}
  ],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

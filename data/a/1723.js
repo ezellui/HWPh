@@ -22,8 +22,9 @@ HWPH.put("a/1723",
  "backlinks":[{"id":3648,"lemma":"Witz","n":2}],
  "outlinks":[],
  "register":[
-  {"term":"das Erhabene, das","qualifier":"","band":null,"col":null},
-  {"term":"ridicule","qualifier":"","band":null,"col":null}
+  {"term":"Erhabene, das","qualifier":"","band":"5","col":"5"},
+  {"term":"ridicule","qualifier":"","band":null,"col":null},
+  {"term":"γελο͂ιος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":2,"l":0,"editor":0,"role":"source"},

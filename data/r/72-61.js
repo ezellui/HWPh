@@ -1,20 +1,12 @@
 HWPH.put("r/72-61",
 [
  [
-  "Raumwahrnehmung espacement","Philosophie","IV",null,null,"ref",2353,"Philosophie",
-  "raumwahrnehmung espacement"
- ],
- ["Raum","Raum","",null,null,"main",2578,"Raum","raum"],
- ["Raumwahrnehmung","Wahrnehmung","V (psych.)",null,null,"ref",3539,"Wahrnehmung","raumwahrnehmung"],
- ["Raumwahrnehmung","Wahrnehmung","V (psych.)",null,null,"ref",3539,"Wahrnehmung","raumwahrnehmung"],
- ["Rationalismus","Rationalismus","",null,null,"main",2574,"Rationalismus","rationalismus"],
- [
-  "Raumwahrnehmung natürlich/übernatürlich","Supranatural","","10","672","ref",3088,
-  "Supranatural; Supranaturalismus","raumwahrnehmung naturlich/ubernaturlich"
+  "Rationalismus, kritischer","Rationalismus, kritischer","(Popper)","8","49","main",2575,
+  "Rationalismus, Kritischer","rationalismus, kritischer"
  ],
  [
-  "Raumwahrnehmung 8 117 Niveauerhöhung","Stufen","II","10","362","ref",3044,"Stufen",
-  "raumwahrnehmung 8 117 niveauerhohung"
+  "Rationalismus, kritischer","Zirkel","","12","1338","ref",3695,"Zirkel",
+  "rationalismus, kritischer"
  ],
  [
   "racine","Wurzelwort; Stammwort; Urwort","",null,null,"ref",3663,"Wurzelwort; Stammwort; Urwort",
@@ -79,7 +71,7 @@ HWPH.put("r/72-61",
   "raison universelle"
  ],
  ["raisonnement","Schluss","",null,null,"ref",2769,"Schluß","raisonnement"],
- ["raisonnement","Dialektik","IV",null,null,"ref",583,"Dialektik","raisonnement"],
+ ["raisonnement","Dialektik","IV 1. 4","2","190","ref",583,"Dialektik","raisonnement"],
  ["raisonnement","Urteil","I (rhet.)","11","434","ref",3355,"Urteil","raisonnement"],
  [
   "raisonnement affectif","Logik des Gefühls","",null,null,"ref",1807,"Logik des Gefühls",
@@ -101,7 +93,7 @@ HWPH.put("r/72-61",
  ["Rang","Hierarchie","",null,null,"see",1270,"Hierarchie","rang"],
  ["Rang","Status","",null,null,"see",3014,"Status","rang"],
  ["Rangaku","Rangaku","","8","21f.","main",2566,"Rangaku","rangaku"],
- ["Rangaku","Philosophie","VII A",null,null,"see",2353,"Philosophie","rangaku"],
+ ["Rangaku","Philosophie","VII A 1",null,null,"see",2353,"Philosophie","rangaku"],
  ["range","Spielraum","",null,null,"ref",2974,"Spielraum","range"],
  ["Rangneid","Distanz, soziale","(Simmel)","2","269","ref",617,"Distanz, soziale","rangneid"],
  ["Rangordnung","Rangordnung","","8","22–24","main",2567,"Rangordnung","rangordnung"],
@@ -165,7 +157,7 @@ HWPH.put("r/72-61",
  ["Ratio","Vernunft; Verstand","",null,null,"see",3423,"Vernunft; Verstand","ratio"],
  ["ratio","Vernunft; Verstand","III",null,null,"ref",3423,"Vernunft; Verstand","ratio"],
  ["ratio","Allgemeines/Besonderes","II","1","176","ref",101,"Allgemeines/Besonderes","ratio"],
- ["ratio","Erkenntnis I (erk.)","","2","649","ref",796,"Erkennen, Erkenntnis","ratio"],
+ ["ratio","Erkenntnis","I (erk.)","2","649","ref",796,"Erkennen, Erkenntnis","ratio"],
  ["ratio","Konzept","","4","1083","ref",1655,"Konzept, konzeptibel","ratio"],
  [
   "ratio","Principium rationis sufficientis","","7","1326f.","ref",2457,
@@ -190,7 +182,30 @@ HWPH.put("r/72-61",
   "ratio christiana","Philosophie, christliche","","7","888","ref",2356,"Philosophie, christliche",
   "ratio christiana"
  ],
- ["Ratio","Ratio","",null,null,"main",2570,"Ratio","ratio"],
+ [
+  "Ratio cognoscendi/essendi/fiendi","Ratio cognoscendi/essendi/fiendi","","8","40f.","main",2570,
+  "Ratio","ratio cognoscendi/essendi/fiendi"
+ ],
+ [
+  "Ratio cognoscendi/essendi/fiendi","Causa cognoscendi","",null,null,"see",466,"Causa cognoscendi",
+  "ratio cognoscendi/essendi/fiendi"
+ ],
+ [
+  "Ratio cognoscendi/essendi/fiendi","Causa essendi et fiendi","",null,null,"see",469,
+  "Causa essendi et fiendi","ratio cognoscendi/essendi/fiendi"
+ ],
+ [
+  "Ratio cognoscendi/essendi/fiendi","Principium rationis sufficientis","",null,null,"see",2457,
+  "Principium rationis sufficientis","ratio cognoscendi/essendi/fiendi"
+ ],
+ [
+  "Ratio cognoscendi/essendi/fiendi","Prinzip","",null,null,"see",2458,"Prinzip",
+  "ratio cognoscendi/essendi/fiendi"
+ ],
+ [
+  "Ratio cognoscendi/essendi/fiendi","Realgrund","",null,null,"see",2585,"Realgrund",
+  "ratio cognoscendi/essendi/fiendi"
+ ],
  [
   "ratio conceptibilis","Verworrenheit","I","11","1015","ref",3456,"Verworrenheit",
   "ratio conceptibilis"
@@ -278,7 +293,12 @@ HWPH.put("r/72-61",
  ["Rationalismus","Rationalismus","I","8","45","main",2574,"Rationalismus","rationalismus"],
  ["rationabile/rationale","Mensch","IV 2","5","1076","ref",1917,"Mensch","rationabile/rationale"],
  ["rationabilis spiritus","Geist","IV","3","172","ref",1030,"Geist","rationabilis spiritus"],
- ["rationabilitas","Rationalität I (erk.) rational","",null,null,"ref",null,null,"rationabilitas"],
+ [
+  "rationabilitas","Rationalität","I (erk.)",null,null,"ref",2576,"Rationalität, Rationalisierung",
+  "rationabilitas"
+ ],
+ ["rational","Vernunft; Verstand","VII D 5","11","847f.","ref",3423,"Vernunft; Verstand","rational"],
+ ["rational","Wissenschaft","II","12","916","ref",3635,"Wissenschaft","rational"],
  ["rational belief","Erwartung","",null,null,"ref",819,"Erwartung","rational belief"],
  ["rational choice","Wahl, rationale","",null,null,"ref",3518,"Wahl, rationale","rational choice"],
  ["rational fool","Wahl, rationale","","12","24","ref",3518,"Wahl, rationale","rational fool"],
@@ -287,11 +307,12 @@ HWPH.put("r/72-61",
   "rationale psychologie"
  ],
  [
-  "rationale Seele","Geistseele; Vernunftseele rationale Wahl","",null,null,"ref",1039,
-  "Geistseele, Vernunftseele","rationale seele"
+  "rationale Seele","Geistseele; Vernunftseele","",null,null,"ref",1039,"Geistseele, Vernunftseele",
+  "rationale seele"
  ],
+ ["rationale Wahl","Wahl, rationale","",null,null,"ref",3518,"Wahl, rationale","rationale wahl"],
  [
-  "rationalis","Rationalität I (erk.)","",null,null,"ref",2576,"Rationalität, Rationalisierung",
+  "rationalis","Rationalität","I (erk.)",null,null,"ref",2576,"Rationalität, Rationalisierung",
   "rationalis"
  ],
  [
@@ -307,7 +328,7 @@ HWPH.put("r/72-61",
   "rationalisierung"
  ],
  [
-  "Rationalisierung","Rationalität II (ökon.)","",null,null,"ref",2576,
+  "Rationalisierung","Rationalität","II (ökon.)",null,null,"ref",2576,
   "Rationalität, Rationalisierung","rationalisierung"
  ],
  [
@@ -323,7 +344,7 @@ HWPH.put("r/72-61",
   "Rationalismus","Irrational; Irrationalismus","",null,null,"see",1497,
   "Irrational, das Irrationale, Irrationalismus","rationalismus"
  ],
- ["Rationalismus","Religion","",null,null,"see",2673,"Religion","rationalismus"],
+ ["Rationalismus","Religion, natürliche","",null,null,"see",2673,"Religion","rationalismus"],
  [
   "Rationalismus, kritischer","Dialektik","IV","10","2","ref",2998,"Staat",
   "rationalismus, kritischer"
@@ -333,13 +354,41 @@ HWPH.put("r/72-61",
   "rationalismus, kritischer"
  ],
  [
-  "Rationalismus, kritischer","Rationalität II (ökon.)","","8","60","ref",2576,
+  "Rationalismus, kritischer","Rationalität","II (ökon.)","8","60","ref",2576,
   "Rationalität, Rationalisierung","rationalismus, kritischer"
  ],
- ["Rationalismus","Rationalismus","",null,null,"main",2574,"Rationalismus","rationalismus"],
+ [
+  "Rationalismus, kritischer","Rationalismus, kritischer","(Popper)","8","49–52","main",2575,
+  "Rationalismus, Kritischer","rationalismus, kritischer"
+ ],
+ [
+  "Rationalismus, kritischer","Falsifikation","(Popper)",null,null,"see",892,"Falsifikation",
+  "rationalismus, kritischer"
+ ],
+ [
+  "Rationalismus, kritischer","Proliferationsprinzip","(Feyerabend)",null,null,"see",2477,
+  "Proliferationsprinzip","rationalismus, kritischer"
+ ],
+ [
+  "Rationalismus, kritischer","Versuch und Irrtum","",null,null,"see",3441,"Versuch und Irrtum",
+  "rationalismus, kritischer"
+ ],
  ["rationalista","Rationalismus","I","8","45","ref",2574,"Rationalismus","rationalista"],
  [
   "Rationalität","Rationalität","","8","52–66","main",2575,"Rationalismus, Kritischer",
+  "rationalitat"
+ ],
+ [
+  "Rationalität","Vernunft, instrumentelle","",null,null,"see",3425,"Vernunft, instrumentelle",
+  "rationalitat"
+ ],
+ ["Rationalität","Wahl, rationale","",null,null,"see",3518,"Wahl, rationale","rationalitat"],
+ [
+  "Rationalität","Zweckrationalität","(Weber)",null,null,"see",3720,"Zweckrationalität",
+  "rationalitat"
+ ],
+ [
+  "Rationalität","Rechtfertigung","III (analyt. Philos.)",null,null,"see",2601,"Rechtfertigung",
   "rationalitat"
  ],
  [
@@ -347,7 +396,7 @@ HWPH.put("r/72-61",
   "rationalitat, asthetische"
  ],
  [
-  "Rationalität, subjektive/objektive","Rationalität II (ökon.)","","8","58","ref",2576,
+  "Rationalität, subjektive/objektive","Rationalität","II (ökon.)","8","58","ref",2576,
   "Rationalität, Rationalisierung","rationalitat, subjektive/objektive"
  ],
  ["Rationalität, technische","Technik","","10","948","ref",3139,"Technik","rationalitat, technische"],
@@ -386,13 +435,13 @@ HWPH.put("r/72-61",
   "rationality, instrumental"
  ],
  ["rationalization","Rationalisierung","",null,null,"ref",2573,"Rationalisierung","rationalization"],
- ["Rationaltheologie","Religion","",null,null,"ref",2673,"Religion","rationaltheologie"],
+ ["Rationaltheologie","Religion, natürliche","",null,null,"ref",2673,"Religion","rationaltheologie"],
  [
   "Rationes aeternae; ewige Urgründe","Rationes aeternae; ewige Urgründe","","8","66f.","main",2577,
   "Rationes aeternae (ewige Urgründe)","rationes aeternae; ewige urgrunde"
  ],
  [
-  "Rationes aeternae; ewige Urgründe","Idee","II A",null,null,"see",1361,"Idee",
+  "Rationes aeternae; ewige Urgründe","Idee","II A 2",null,null,"see",1361,"Idee",
   "rationes aeternae; ewige urgrunde"
  ],
  [
@@ -400,7 +449,7 @@ HWPH.put("r/72-61",
   "rationes causales"
  ],
  [
-  "rationes necessariae","Erkenntnis I (erk.)","","2","649","ref",796,"Erkennen, Erkenntnis",
+  "rationes necessariae","Erkenntnis","I (erk.)","2","649","ref",796,"Erkennen, Erkenntnis",
   "rationes necessariae"
  ],
  [
@@ -418,6 +467,10 @@ HWPH.put("r/72-61",
   "rationes seminales"
  ],
  ["rationes seminales","Prinzip","II","7","1346","ref",2458,"Prinzip","rationes seminales"],
+ ["ratitudo","Nichts; Nichtseiendes","","6","815","ref",2136,"Nichts, Nichtseiendes","ratitudo"],
+ ["ratitudo","Possibilien","I","7","1129","ref",2413,"Possibilien","ratitudo"],
+ ["ratitudo","Realitas","","8","179","ref",2589,"Realitas","ratitudo"],
+ ["ratitudo","Res","","8","896f.","ref",2691,"Res","ratitudo"],
  ["Ratschläge, evangelische","Rat","II",null,null,"ref",2569,"Rat","ratschlage, evangelische"],
  [
   "Ratschläge der Klugheit","Recta ratio","","8","359","ref",2620,"Recta ratio",
@@ -429,32 +482,38 @@ HWPH.put("r/72-61",
  ],
  ["Ratschluss Gottes","Ökonomie","II (theol.)",null,null,"ref",2210,"Ökonomie","ratschluss gottes"],
  ["ratum","Res","","8","896","ref",2691,"Res","ratum"],
- ["ratures","Philosophie","IV",null,null,"ref",2353,"Philosophie","ratures"],
+ ["ratures","Philosophie","IV L","7","795","ref",2353,"Philosophie","ratures"],
+ ["Raubbau, planetarischer","Technik","","10","948","ref",3139,"Technik","raubbau, planetarischer"],
  ["Raum","Raum","","8","67–111","main",2578,"Raum","raum"],
- ["Raum","Raum","",null,null,"main",2578,"Raum","raum"],
+ ["Raum","Landschaft","",null,null,"see",1726,"Landschaft","raum"],
  [
-  "Raumwahrnehmung 8 111–121 s. auch","Anisotropie/Isotropie","",null,null,"ref",149,
-  "Anisotropie/Isotropie","raumwahrnehmung 8 111–121 s. auch"
+  "Raum","Perspektive","II (ästh.)",null,null,"see",2326,
+  "Perspektive, Perspektivismus, perspektivisch","raum"
  ],
  [
-  "Raumwahrnehmung 8 111–121 s. auch","Bezugssystem","",null,null,"ref",429,"Bezugssystem",
-  "raumwahrnehmung 8 111–121 s. auch"
+  "Raum; Raumwahrnehmung","Raum; Raumwahrnehmung","","8","111–121","main",2578,"Raum",
+  "raum; raumwahrnehmung"
  ],
  [
-  "Raumwahrnehmung 8 111–121 s. auch","Lokalisation","",null,null,"ref",1829,"Lokalisation",
-  "raumwahrnehmung 8 111–121 s. auch"
+  "Raum; Raumwahrnehmung","Anisotropie/Isotropie","",null,null,"see",149,"Anisotropie/Isotropie",
+  "raum; raumwahrnehmung"
  ],
  [
-  "Raumwahrnehmung 8 111–121 s. auch","Nativismus","(Helmholtz)",null,null,"ref",2073,"Nativismus",
-  "raumwahrnehmung 8 111–121 s. auch"
+  "Raum; Raumwahrnehmung","Bezugssystem","",null,null,"see",429,"Bezugssystem",
+  "raum; raumwahrnehmung"
  ],
  [
-  "Raumwahrnehmung 8 111–121 s. auch","Sehen","II",null,null,"ref",2802,"Sehen",
-  "raumwahrnehmung 8 111–121 s. auch"
+  "Raum; Raumwahrnehmung","Lokalisation","",null,null,"see",1829,"Lokalisation",
+  "raum; raumwahrnehmung"
  ],
  [
-  "Raumwahrnehmung 8 111–121 s. auch","Wahrnehmung","V (psych.)",null,null,"ref",3539,"Wahrnehmung",
-  "raumwahrnehmung 8 111–121 s. auch"
+  "Raum; Raumwahrnehmung","Nativismus","(Helmholtz)",null,null,"see",2073,"Nativismus",
+  "raum; raumwahrnehmung"
+ ],
+ ["Raum; Raumwahrnehmung","Sehen","II",null,null,"see",2802,"Sehen","raum; raumwahrnehmung"],
+ [
+  "Raum; Raumwahrnehmung","Wahrnehmung","V (psych.)",null,null,"see",3539,"Wahrnehmung",
+  "raum; raumwahrnehmung"
  ],
  ["Raum","Ganzes/Teil","IV","3","14","ref",986,"Ganzes/Teil","raum"],
  ["Raum","Materie","III","5","909f.","ref",1892,"Materie","raum"],
@@ -480,15 +539,15 @@ HWPH.put("r/72-61",
   "raum, politischer"
  ],
  ["Raum, psychischer","Psychologie","","7","1614","ref",2511,"Psychologie","raum, psychischer"],
- ["Raum, psychologischer","Raum","",null,null,"ref",2578,"Raum","raum, psychologischer"],
  [
-  "Raumwahrnehmung Raum, topologischer","Kontinuum IV (math.)","","4","1061","ref",1640,
-  "Kontinuum, Kontinuität","raumwahrnehmung raum, topologischer"
+  "Raum, psychologischer","Raum; Raumwahrnehmung","",null,null,"ref",2578,"Raum",
+  "raum, psychologischer"
  ],
  [
-  "Raumwahrnehmung Raum, topologischer","Topologie","","10","1290","ref",3205,"Topologie",
-  "raumwahrnehmung raum, topologischer"
+  "Raum, topologischer","Kontinuum","IV (math.)","4","1061","ref",1640,"Kontinuum, Kontinuität",
+  "raum, topologischer"
  ],
+ ["Raum, topologischer","Topologie","","10","1290","ref",3205,"Topologie","raum, topologischer"],
  ["Raum und Zeit","Raum","III","8","89","ref",2578,"Raum","raum und zeit"],
  ["Raum und Zeit","Realitas","","8","182","ref",2589,"Realitas","raum und zeit"],
  [
@@ -500,7 +559,7 @@ HWPH.put("r/72-61",
  ["Raumbilder","Körperschema","",null,null,"ref",1665,"Körperschema","raumbilder"],
  ["Raumgefühl","Raum","V (ästh.)","8","110","ref",2578,"Raum","raumgefuhl"],
  ["Rauminhalt","Raum","IV A","8","97","ref",2578,"Raum","rauminhalt"],
- ["Raumwahrnehmung","Raum","",null,null,"ref",2578,"Raum","raumwahrnehmung"],
+ ["Raumwahrnehmung","Raum; Raumwahrnehmung","",null,null,"ref",2578,"Raum","raumwahrnehmung"],
  ["Raumwahrnehmung","Moment","III (psych.)","6","111","ref",2009,"Moment","raumwahrnehmung"],
  ["Raum-Zeitfäden","Weltlinie","","12","493","ref",3570,"Weltlinie","raum-zeitfaden"],
  ["Rausch","Affekt","II","1","95","ref",53,"Affekt","rausch"],
@@ -508,44 +567,6 @@ HWPH.put("r/72-61",
   "Rauschkünstler/Traumkünstler","Traum","III","10","1472","ref",3225,"Traum",
   "rauschkunstler/traumkunstler"
  ],
- ["Raumwahrnehmung 8 118","Sinne, die","","9","860","ref",2892,"Sinne, die","raumwahrnehmung 8 118"],
- ["Raumwahrnehmung","Sehen","",null,null,"ref",2802,"Sehen","raumwahrnehmung"],
- ["Raumwahrnehmung 8 111ff.","Sehen","II","9","143","ref",2802,"Sehen","raumwahrnehmung 8 111ff."],
- [
-  "Raumwahrnehmung 8 111ff.","Wahrnehmung","II","12","199","ref",3539,"Wahrnehmung",
-  "raumwahrnehmung 8 111ff."
- ],
- [
-  "Ramismus; Semiramismus Semi-Skeptiker","Ramismus; Semiramismus Semi-Skeptiker","",null,null,
-  "main",2564,"Ramismus, Semiramismus","ramismus; semiramismus semi-skeptiker"
- ],
- [
-  "Raumwahrnehmung 8 117f. Tafel der Kategorien","Kategorie; Kategorienlehre Tafel der Laster","",
-  null,null,"ref",1540,"Kategorie, Kategorienlehre","raumwahrnehmung 8 117f. tafel der kategorien"
- ],
- ["Rat","Rat","II",null,null,"main",2569,"Rat","rat"],
- ["Rat","Supererogation","",null,null,"ref",3079,"Supererogation","rat"],
- ["Raumwahrnehmung","Sehen","",null,null,"ref",2802,"Sehen","raumwahrnehmung"],
- ["Raumwahrnehmung","Sensualismus","",null,null,"ref",2867,"Sensualismus","raumwahrnehmung"],
- ["Raumwahrnehmung","Sinne, die","",null,null,"ref",2892,"Sinne, die","raumwahrnehmung"],
- ["Raumwahrnehmung","Sinnesdaten","",null,null,"ref",2894,"Sinnesdaten","raumwahrnehmung"],
- ["Raumwahrnehmung","Species","I (met.)",null,null,"ref",2966,"Species","raumwahrnehmung"],
- ["Raumwahrnehmung","Synästhesie","",null,null,"ref",3100,"Synästhesie","raumwahrnehmung"],
- [
-  "Raumwahrnehmung","Vernunft; Verstand","",null,null,"ref",3423,"Vernunft; Verstand",
-  "raumwahrnehmung"
- ],
- ["Raumwahrnehmung","Vorstellung","",null,null,"ref",3503,"Vorstellung","raumwahrnehmung"],
- [
-  "Raumwahrnehmung Wahrnehmung, synästhetische","Synästhesie","",null,null,"ref",3100,"Synästhesie",
-  "raumwahrnehmung wahrnehmung, synasthetische"
- ],
- [
-  "Raumwahrnehmung Wahrnehmungssatz","Anschauungssatz/Begriffssatz","(Bolzano)",null,null,"ref",166,
-  "Anschauungssatz/Begriffssatz","raumwahrnehmung wahrnehmungssatz"
- ],
- ["Rache","Rache","I","8","3","main",2561,"Rache","rache"],
- ["Rache","Versöhnung","I (theol.)","11","893","ref",3434,"Versöhnung","rache"],
  ["Rabe Hannah","Autarkie","II","1","691","author",316,"Autarkie, autark","rabe hannah"],
  ["Rabe Hannah","Autor","I","1","721","author",331,"Autor","rabe hannah"],
  ["Rabe Hannah","Autoritär","","1","723f.","author",332,"Autoritär","rabe hannah"],
@@ -557,7 +578,7 @@ HWPH.put("r/72-61",
  ["Rabe Hannah","Nationalökonomie","","6","417–420","author",2072,"Nationalökonomie","rabe hannah"],
  ["Rabe Hannah","Ökonomie","I (ökon.)","6","1149–1153","author",2210,"Ökonomie","rabe hannah"],
  [
-  "Ränsch-Trill Barbara","Erklären I (Dilthey)","","2","690–692","author",801,"Erklären, Erklärung",
+  "Ränsch-Trill Barbara","Erklären","I (Dilthey)","2","690–692","author",801,"Erklären, Erklärung",
   "ransch-trill barbara"
  ],
  [
@@ -587,7 +608,10 @@ HWPH.put("r/72-61",
   "Rappard J.F. Hans van","Struktur","IV (psych.)","10","325–328","author",3040,"Struktur",
   "rappard j.f. hans van"
  ],
- ["Rasch Wolfdietrich","Interessante","",null,null,"author",1474,"Interessante","rasch wolfdietrich"],
+ [
+  "Rasch Wolfdietrich","Interessante, das","(Schlegel)","4","478f.","author",1473,"Interdisziplinär",
+  "rasch wolfdietrich"
+ ],
  [
   "Rasch Wolfdietrich","Weltschmerz","","12","514–516","author",3577,"Weltschmerz",
   "rasch wolfdietrich"
@@ -612,15 +636,15 @@ HWPH.put("r/72-61",
   "rath norbert"
  ],
  ["Rath Norbert","Natur, zweite","II","6","489–494","author",2077,"Natur, zweite","rath norbert"],
- [
-  "Rath Norbert","Neue, das II (kult.)","","6","727–731","author",2114,"Neu, das Neue",
-  "rath norbert"
- ],
+ ["Rath Norbert","Neue, das","II (kult.)","6","727–731","author",2114,"Neu, das Neue","rath norbert"],
  ["Rath Norbert","Poesie","","7","1000–1008","author",2387,"Poesie","rath norbert"],
  ["Rath Norbert","Robinsonade","","8","1060–1064","author",2721,"Robinsonade","rath norbert"],
- ["Rath Norbert","Schöne","",null,null,"author",2776,"Schöne","rath norbert"],
+ ["Rath Norbert","Schöne, das","V","8","1375–1385","author",2776,"Schöne","rath norbert"],
  ["Ratschow Carl-Heinz","Gott","XII","3","811–814","author",1162,"Gott","ratschow carl-heinz"],
- ["Ratschow Carl-Heinz","Religion","",null,null,"author",2673,"Religion","ratschow carl-heinz"],
+ [
+  "Ratschow Carl-Heinz","Religion","II-IV","8","633–644","author",2673,"Religion",
+  "ratschow carl-heinz"
+ ],
  ["Rausch Heinz","Hierarchie","","3","1123–1126","author",1270,"Hierarchie","rausch heinz"],
  ["Rauschenbach Sina","Weg","","12","341f.","author",3551,"Weg","rauschenbach sina"],
  [

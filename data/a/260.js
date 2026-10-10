@@ -37,8 +37,7 @@ HWPH.put("a/260",
   {"term":"Mystik, ausserweltliche/innerweltliche","qualifier":"III (Weber)","band":"1","col":"542"},
   {"term":"Verneinung des Willens","qualifier":"I (eth.)","band":"1","col":"540"},
   {"term":"Willensverneinung","qualifier":"I (eth.)","band":"1","col":"540"},
-  {"term":"ἄσκησις","qualifier":"I (eth.)","band":null,"col":null},
-  {"term":"– II (Weber) 7 1717f. s. auch","qualifier":"III (Weber)","band":null,"col":null}
+  {"term":"ἄσκησις","qualifier":"I (eth.)","band":null,"col":null}
  ],
  "persons":[
   {"id":60,"name":"M. Weber","b":1,"n":2,"l":3,"editor":0,"role":"source"},
@@ -115,7 +114,13 @@ HWPH.put("a/260",
   {"id":26,"lemma":"Absicht","tf":2},
   {"id":1619,"lemma":"Konsequenz","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3270,"lemma":"Übung"},
+  {"id":3126,"lemma":"Tapas"},
+  {"id":3668,"lemma":"Yoga"},
+  {"id":232,"lemma":"Arbeitsethos"},
+  {"id":2536,"lemma":"Puritanismus"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Askese"},
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Askese"},

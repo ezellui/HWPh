@@ -1,55 +1,23 @@
 HWPH.put("r/75-6e",
 [
- [
-  "Unbegreiflichkeit","Unbegreiflichkeit","",null,null,"main",3281,"Unbegreiflichkeit",
-  "unbegreiflichkeit"
- ],
- [
-  "Unbegreiflichkeit","Skepsis; Skeptizismus","I","9","939","ref",2907,"Skepsis; Skeptizismus",
-  "unbegreiflichkeit"
- ],
- [
-  "Unheimliche, das","Unheimliche, das","","11","174","main",3299,"Unheimliche, das",
-  "unheimliche, das"
- ],
- [
-  "Unsinn; Widersinn","Unsinn; Widersinn","","11","271","main",3322,"Unsinn; Widersinn",
-  "unsinn; widersinn"
- ],
- ["Unsinn; Widersinn","Wahnsinn","","12","37","ref",3521,"Wahnsinn","unsinn; widersinn"],
- [
-  "Unsterblichkeit","Unsterblichkeit","II","11","278","main",3323,"Unsterblichkeit",
-  "unsterblichkeit"
- ],
  ["Unsterblichkeit","Unsterblichkeit","I","11","275","main",3323,"Unsterblichkeit","unsterblichkeit"],
+ ["universalis","Notwendigkeit","",null,null,"ref",2171,"Notwendigkeit","universalis"],
+ ["universalis","Prädestination","",null,null,"ref",2424,"Prädestination","universalis"],
  [
-  "Unbewusste, das","Unbewusste, das","","11","124","main",3286,"Unbewußtes; das Unbewußte",
-  "unbewusste, das"
+  "universalis","Praedeterminatio physica","",null,null,"ref",2430,"Praedeterminatio physica",
+  "universalis"
  ],
- ["Unbedingte, das","Unbedingte, das","","11","108","main",3280,"Unbedingte, das","unbedingte, das"],
- [
-  "Ungehorsam, ziviler","Ungehorsam, ziviler","",null,null,"main",3295,"Ungehorsam, ziviler",
-  "ungehorsam, ziviler"
- ],
- [
-  "Ungehorsam, ziviler","Ungehorsam, ziviler","",null,null,"main",3295,"Ungehorsam, ziviler",
-  "ungehorsam, ziviler"
- ],
- [
-  "Unterschied, spezifischer","Unterschied, spezifischer","",null,null,"main",3328,
-  "Unterschied, spezifischer","unterschied, spezifischer"
- ],
- [
-  "Unsterblichkeit","Unsterblichkeit","II","11","279","main",3323,"Unsterblichkeit",
-  "unsterblichkeit"
- ],
- [
-  "Unverständlichkeit","Unverständlichkeit","","11","338","main",3333,"Unverständlichkeit",
-  "unverstandlichkeit"
- ],
+ ["universalis","Schicksal","",null,null,"ref",2764,"Schicksal","universalis"],
+ ["universalis","Vorherwissen","",null,null,"ref",3494,"Vorherwissen","universalis"],
+ ["universalis","Vorsehung","",null,null,"ref",3500,"Vorsehung","universalis"],
+ ["universalis","Zeitlogik","",null,null,"ref",3679,"Zeitlogik","universalis"],
+ ["universalis","Zufall","",null,null,"ref",3706,"Zufall","universalis"],
+ ["universalis","Mantik","","5","750","ref",1868,"Mantik","universalis"],
+ ["universalis","Schicksal","",null,null,"ref",2764,"Schicksal","universalis"],
+ ["universalis","Logoi spermatikoi","","5","485","ref",1822,"Logoi spermatikoi","universalis"],
+ ["universalis","Notwendigkeit","I","6","946","ref",2171,"Notwendigkeit","universalis"],
+ ["universalis","Ordnung","II","6","1259","ref",2233,"Ordnung","universalis"],
  ["Unverfügbarkeit","Unverfügbarkeit","",null,null,"main",3332,"Unverfügbarkeit","unverfugbarkeit"],
- ["Unendlichkeit","Unendlichkeit","","11","144","main",3291,"Unendlichkeit","unendlichkeit"],
- ["Unmöglichkeit","Unmöglichkeit","","11","248","main",3315,"Unmöglichkeit","unmoglichkeit"],
  ["Unwissenheit","Unwissenheit","","11","342","main",3335,"Unwissenheit","unwissenheit"],
  ["Unding","Unding","","11","136","main",3288,"Unding","unding"],
  [
@@ -68,23 +36,14 @@ HWPH.put("r/75-6e",
   "universalis (Leibniz)","Universalsprache","",null,null,"ref",3306,"Universalsprache",
   "universalis (leibniz)"
  ],
- [
-  "Unveränderlichkeit Gottes","Unveränderlichkeit Gottes","",null,null,"main",3330,
-  "Unveränderlichkeit Gottes","unveranderlichkeit gottes"
- ],
  ["Unendlichkeit","Unendlichkeit","",null,null,"main",3291,"Unendlichkeit","unendlichkeit"],
  ["Unendlichkeit","Herz","","3","1110","ref",1265,"Herz","unendlichkeit"],
- [
-  "Ungrund; Urgrund","Ungrund; Urgrund","","11","171","main",3298,"Ungrund; Urgrund",
-  "ungrund; urgrund"
- ],
+ ["universalis","Prädestination","",null,null,"ref",2424,"Prädestination","universalis"],
+ ["universalis","Vorsehung","",null,null,"ref",3500,"Vorsehung","universalis"],
+ ["universalis","Schicksal","","8","1276","ref",2764,"Schicksal","universalis"],
  [
   "Unterschied, spezifischer","Unterschied, spezifischer","",null,null,"main",3328,
   "Unterschied, spezifischer","unterschied, spezifischer"
- ],
- [
-  "Unkenntlichkeit","Unkenntlichkeit","(Kierkegaard)",null,null,"main",3312,"Unkenntlichkeit",
-  "unkenntlichkeit"
  ],
  ["Unabhängigkeit","Abhängigkeit","","1","7","ref",23,"Abhängigkeit (Dependenz)","unabhangigkeit"],
  ["Unableitbarkeit","Logik, operative","","5","447","ref",1816,"Logik, operative","unableitbarkeit"],
@@ -95,40 +54,26 @@ HWPH.put("r/75-6e",
  ["unalitas","Eine, das; Einheit","I","2","366","ref",675,"Eine (das), Einheit","unalitas"],
  ["Unangepasstheit","Mensch","IV 1","5","1088","ref",1917,"Mensch","unangepasstheit"],
  [
-  "unanschauliche Bewusstseinsinhalte","Bewusstseinsinhalte, unanschauliche Unantastbarkeit","",null,
-  null,"ref",417,"Bewußtseinsinhalte, unanschauliche (Bewußtheit, Bewußtseinslage)",
+  "unanschauliche Bewusstseinsinhalte","Bewusstseinsinhalte, unanschauliche","",null,null,"ref",417,
+  "Bewußtseinsinhalte, unanschauliche (Bewußtheit, Bewußtseinslage)",
   "unanschauliche bewusstseinsinhalte"
  ],
- ["Unverfügbarkeit","Unverfügbarkeit","","11","335","main",3332,"Unverfügbarkeit","unverfugbarkeit"],
+ ["Unantastbarkeit","Unverfügbarkeit","","11","335","ref",3332,"Unverfügbarkeit","unantastbarkeit"],
  ["Unaufrichtigkeit","Lebenslüge","","5","134","ref",1749,"Lebenslüge","unaufrichtigkeit"],
  ["Unausdenkbarkeit","Verzweiflung","","11","1032","ref",3459,"Verzweiflung","unausdenkbarkeit"],
  ["unaussprechlich","Unsagbare, das","",null,null,"ref",3317,"Unsagbare, das","unaussprechlich"],
  ["unaussprechlich","Philosophie","IV H","7","754","ref",2353,"Philosophie","unaussprechlich"],
- ["Unbedachtsamkeit","Übereilung unbedingbar","",null,null,"ref",null,null,"unbedachtsamkeit"],
- ["Unbedingte, das","Unbedingte, das","","11","109","main",3280,"Unbedingte, das","unbedingte, das"],
- ["unbedingt","Imperativ, kategorischer I","",null,null,"ref",null,null,"unbedingt"],
+ [
+  "Unbedachtsamkeit","Übereilung","",null,null,"ref",3250,"Übereilung; Voreiligkeit",
+  "unbedachtsamkeit"
+ ],
+ ["unbedingbar","Unbedingte, das","","11","109","ref",3280,"Unbedingte, das","unbedingbar"],
+ ["unbedingt","Imperativ, kategorischer","I",null,null,"ref",null,null,"unbedingt"],
  [
   "Unbedingte, das","Unbedingte, das","","11","108–112","main",3280,"Unbedingte, das",
   "unbedingte, das"
  ],
- [
-  "Unbedingte, das","Absolut; das Absolute","",null,null,"see",27,"Absolut, das Absolute",
-  "unbedingte, das"
- ],
- ["Unbedingte, das","Bedingt","",null,null,"see",353,"Bedingt","unbedingte, das"],
- ["Unbedingte, das","Ungrund; Urgrund","",null,null,"see",3298,"Ungrund; Urgrund","unbedingte, das"],
- [
-  "Unbedingte, das","Unhintergehbarkeit","",null,null,"see",3300,"Unhintergehbarkeit",
-  "unbedingte, das"
- ],
- [
-  "Unbedingte, das","Unvordenkliche, das","(Schelling)",null,null,"see",3334,"Unvordenkliche, das",
-  "unbedingte, das"
- ],
- [
-  "Unbedingte, das","Voraussetzungslosigkeit","",null,null,"see",3488,"Voraussetzungslosigkeit",
-  "unbedingte, das"
- ],
+ ["Unbedingte, das","Absolut; das","",null,null,"see",27,"Absolut, das Absolute","unbedingte, das"],
  ["Unbedingte, das","Idee","IV","4","115","ref",1361,"Idee","unbedingte, das"],
  [
   "Unbedingte, das","Logik, transzendentale","","5","469","ref",1819,"Logik, transzendentale",
@@ -217,12 +162,12 @@ HWPH.put("r/75-6e",
  ["unbestimmt","Exakt/unexakt","",null,null,"ref",856,"Exakt/unexakt","unbestimmt"],
  ["unbestimmt","Quantenlogik","","7","1783","ref",2547,"Quantenlogik","unbestimmt"],
  [
-  "Unbestimmte, das","Ambiguität II (Merleau-Ponty)","","1","203","ref",113,
-  "Ambiguität (Amphibolie)","unbestimmte, das"
+  "Unbestimmte, das","Ambiguität","II (Merleau-Ponty)","1","203","ref",113,"Ambiguität (Amphibolie)",
+  "unbestimmte, das"
  ],
  ["Unbestimmtheit","Unbestimmtheit","","11","121–124","main",3285,"Unbestimmtheit","unbestimmtheit"],
  [
-  "Unbestimmtheit","Bestimmung; Determination II (log.)","",null,null,"see",400,
+  "Unbestimmtheit","Bestimmung; Determination","II (log.)",null,null,"see",400,
   "Bestimmung, bestimmen, Determination","unbestimmtheit"
  ],
  ["Unbestimmtheit","Perspikuität","",null,null,"see",2327,"Perspikuität","unbestimmtheit"],
@@ -299,9 +244,26 @@ HWPH.put("r/75-6e",
   "Unbewusste, das","Passivität; passive Synthesis","","7","166","ref",2288,
   "Passivität, passive Synthesis","unbewusste, das"
  ],
- ["Unbewusste, das","Philosophie","IV",null,null,"ref",2353,"Philosophie","unbewusste, das"],
+ ["Unbewusste, das","Philosophie","IV L","7","793","ref",2353,"Philosophie","unbewusste, das"],
+ ["Unbewusste, das","Psychologie","","7","1610f.","ref",2511,"Psychologie","unbewusste, das"],
+ ["Unbewusste, das","Rationalisierung","","8","42","ref",2573,"Rationalisierung","unbewusste, das"],
  [
-  "unbewusste Einstellung","Latenz III (psych.)","","5","45","ref",1731,"Latent, Latenz",
+  "Unbewusste, das","Realität, psychische","","8","204f.","ref",2592,"Realität, psychische",
+  "unbewusste, das"
+ ],
+ ["Unbewusste, das","Residuum","","8","904f.","ref",2692,"Residuum","unbewusste, das"],
+ [
+  "Unbewusste, das","Schichtenlehre","","8","1269","ref",2762,"Schichtenlehre, Schichtentheorie",
+  "unbewusste, das"
+ ],
+ ["Unbewusste, das","Seele","IV","9","49f.","ref",2794,"Seele","unbewusste, das"],
+ ["Unbewusste, das","Seele","V","9","68f.","ref",2794,"Seele","unbewusste, das"],
+ [
+  "Unbewusste, das","Struktur","II (frz. Struktural.)","10","315f.","ref",3040,"Struktur",
+  "unbewusste, das"
+ ],
+ [
+  "unbewusste Einstellung","Latenz","III (psych.)","5","45","ref",1731,"Latent, Latenz",
   "unbewusste einstellung"
  ],
  [
@@ -317,7 +279,7 @@ HWPH.put("r/75-6e",
   "unbewusstes, absolutes"
  ],
  [
-  "Unbewusstes, kollektives","Anima/Animus (Jung)","",null,null,"ref",145,"Anima, Animus",
+  "Unbewusstes, kollektives","Anima/Animus","(Jung)",null,null,"ref",145,"Anima, Animus",
   "unbewusstes, kollektives"
  ],
  [
@@ -353,12 +315,12 @@ HWPH.put("r/75-6e",
  ["Unbezwingbare, das","Freiheit","I","2","1069","ref",946,"Freiheit","unbezwingbare, das"],
  ["unbiassed state","Unparteilichkeit","","11","256","ref",3316,"Unparteilichkeit","unbiassed state"],
  [
-  "uncertainty principle","Unschärferelation unconcealment","",null,null,"ref",null,null,
-  "uncertainty principle"
+  "uncertainty principle","Unschärferelation","",null,null,"ref",3318,
+  "Unschärferelation; Unbestimmtheitsrelation","uncertainty principle"
  ],
  [
-  "Unverborgenheit","Unverborgenheit","(Heidegger)",null,null,"main",3331,"Unverborgenheit",
-  "unverborgenheit"
+  "unconcealment","Unverborgenheit","(Heidegger)",null,null,"ref",3331,"Unverborgenheit",
+  "unconcealment"
  ],
  [
   "unconditioned","Absolut; das Absolute","","1","26","ref",27,"Absolut, das Absolute",
@@ -372,7 +334,14 @@ HWPH.put("r/75-6e",
   "und (log.)"
  ],
  ["Undarstellbarkeit","Repräsentation","V","8","846","ref",2686,"Repräsentation","undarstellbarkeit"],
- ["Undarstellbarkeit","Subjekt","",null,null,"ref",3047,"Subjekt","undarstellbarkeit"],
+ [
+  "Undarstellbarkeit","Subjekt/Objekt","IV","10","422","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","undarstellbarkeit"
+ ],
+ [
+  "Undeduzierbare, das","Rest, metaphysischer","","8","925","ref",2696,"Rest, metaphysischer",
+  "undeduzierbare, das"
+ ],
  [
   "undefinierbar","Individuum; Individualität","I","4","300f.","ref",1424,
   "Individuum, Individualität","undefinierbar"
@@ -394,7 +363,8 @@ HWPH.put("r/75-6e",
  ["undeutig","Unsinn; Widersinn","","11","272","ref",3322,"Unsinn; Widersinn","undeutig"],
  ["undeutlich","Verworrenheit","II",null,null,"ref",3456,"Verworrenheit","undeutlich"],
  ["Unding","Unding","","11","135–137","main",3288,"Unding","unding"],
- ["Unding","Nichts; Nichtseiendes Unding","",null,null,"see",2136,"Nichts, Nichtseiendes","unding"],
+ ["Unding","Nichts; Nichtseiendes","",null,null,"see",2136,"Nichts, Nichtseiendes","unding"],
+ ["Unding","Gedankending","","3","61","ref",1000,"Gedankending (ens rationis)","unding"],
  [
   "undogmatisch","Skepsis; Skeptizismus","I","9","939","ref",2907,"Skepsis; Skeptizismus",
   "undogmatisch"
@@ -449,6 +419,23 @@ HWPH.put("r/75-6e",
   "Undurchsichtigkeit","Undurchsichtigkeit","","11","138–140","main",3290,"Undurchsichtigkeit",
   "undurchsichtigkeit"
  ],
+ ["Undurchsichtigkeit","Perspikuität","",null,null,"see",2327,"Perspikuität","undurchsichtigkeit"],
+ [
+  "Undurchsichtigkeit","Referenz; Referenztheorie","",null,null,"see",2632,
+  "Referenz, Referenztheorie","undurchsichtigkeit"
+ ],
+ [
+  "Undurchsichtigkeit","Sinn/Bedeutung","",null,null,"see",2889,"Sinn/Bedeutung",
+  "undurchsichtigkeit"
+ ],
+ [
+  "Undurchsichtigkeit","Unverständlichkeit","",null,null,"see",3333,"Unverständlichkeit",
+  "undurchsichtigkeit"
+ ],
+ [
+  "Undurchsichtigkeit","Verworrenheit","II",null,null,"see",3456,"Verworrenheit",
+  "undurchsichtigkeit"
+ ],
  [
   "Undurchsichtigkeit (Quine)","Modallogik","II","6","29","ref",1997,"Modallogik",
   "undurchsichtigkeit (quine)"
@@ -474,7 +461,15 @@ HWPH.put("r/75-6e",
   "unendlich/endlich","Endlich/unendlich","",null,null,"ref",735,"Endlich/unendlich",
   "unendlich/endlich"
  ],
- ["unendlich/endlich","Grenze","",null,null,"ref",1184,"Grenze","unendlich/endlich"],
+ ["unendlich/endlich","Grenze; Schranke","",null,null,"ref",1184,"Grenze","unendlich/endlich"],
+ [
+  "unendlich, aktual","Eine, das; Einheit","III","2","382","ref",675,"Eine (das), Einheit",
+  "unendlich, aktual"
+ ],
+ [
+  "unendlich, aktual","Endlich/unendlich","","2","489f.","ref",735,"Endlich/unendlich",
+  "unendlich, aktual"
+ ],
  ["Unendliche, das","Unendlichkeit","",null,null,"ref",3291,"Unendlichkeit","unendliche, das"],
  [
   "Unendliche, das","Erhabene, das","II 3","2","631","ref",792,"Erhaben, das Erhabene",
@@ -483,9 +478,14 @@ HWPH.put("r/75-6e",
  ["Unendliche, das","Wiederholung","","12","745","ref",3616,"Wiederholung","unendliche, das"],
  ["unendliche Mitte","Mitte","","5","1422","ref",1985,"Mitte","unendliche mitte"],
  [
-  "unendlicher Progress","Progress, unendlicher unendliches Urteil","",null,null,"ref",2472,
-  "Progreß, unendlicher","unendlicher progress"
+  "unendlicher Progress","Progress, unendlicher","",null,null,"ref",2472,"Progreß, unendlicher",
+  "unendlicher progress"
  ],
+ [
+  "unendliches Urteil","Qualität des Urteils","","7","1781","ref",2545,"Qualität des Urteils",
+  "unendliches urteil"
+ ],
+ ["unendliches Urteil","Urteil","III (Formen)","11","456","ref",3355,"Urteil","unendliches urteil"],
  ["Unendlichkeit","Unendlichkeit","","11","140–146","main",3291,"Unendlichkeit","unendlichkeit"],
  ["Unendlichkeit","Apeiron","",null,null,"see",199,"Apeiron","unendlichkeit"],
  ["Unendlichkeit","Endlich","",null,null,"see",734,"Endlich","unendlichkeit"],
@@ -495,13 +495,20 @@ HWPH.put("r/75-6e",
   "unendlichkeit"
  ],
  [
-  "Unendlichkeit","Kontinuum IV (math.)","",null,null,"see",1640,"Kontinuum, Kontinuität",
+  "Unendlichkeit","Kontinuum","IV (math.)",null,null,"see",1640,"Kontinuum, Kontinuität",
   "unendlichkeit"
  ],
  ["Unendlichkeit","Sphäre","II",null,null,"see",2971,"Sphäre","unendlichkeit"],
  ["Unendlichkeit","Kreatur","","4","1208","ref",1686,"Kreatur, Kreatürlichkeit","unendlichkeit"],
  ["Unendlichkeit","Mengenlehre","","5","1049f.","ref",1916,"Mengenlehre","unendlichkeit"],
- ["Unendlichkeit","Negation","",null,null,"ref",2100,"Negation","unendlichkeit"],
+ [
+  "Unendlichkeit","Negation; Negativität","II","6","678","ref",2101,"Negation, Negativität",
+  "unendlichkeit"
+ ],
+ [
+  "Unendlichkeit, erfüllte","Zweideutigkeit; Vieldeutigkeit","III","12","1518","ref",3721,
+  "Zweideutigkeit; Vieldeutigkeit","unendlichkeit, erfullte"
+ ],
  ["Unendlichkeit, negative","Ich","I","4","3","ref",1334,"Ich","unendlichkeit, negative"],
  [
   "Unendlichkeit, schlechte","Kontinuum","III","4","1054","ref",1640,"Kontinuum, Kontinuität",
@@ -591,10 +598,20 @@ HWPH.put("r/75-6e",
   "unerwartet"
  ],
  ["unexakt","Exakt/unexakt","",null,null,"ref",856,"Exakt/unexakt","unexakt"],
- ["unexakt","Vagheit Unfähigkeit zu trauern","",null,null,"ref",null,null,"unexakt"],
+ ["unexakt","Vagheit","",null,null,"ref",3370,"Vagheit; vage","unexakt"],
+ [
+  "Unfähigkeit zu trauern","Trauer; Trauerarbeit","","10","1458","ref",3224,"Trauer; Trauerarbeit",
+  "unfahigkeit zu trauern"
+ ],
  ["Unfähigkeit zum Guten","Sünde","III","10","612","ref",3075,"Sünde","unfahigkeit zum guten"],
- ["unfashionable","Unzeitgemäss (Nietzsche)","",null,null,"ref",3336,"Unzeitgemäß","unfashionable"],
+ ["unfashionable","Unzeitgemäss","(Nietzsche)",null,null,"ref",3336,"Unzeitgemäß","unfashionable"],
  ["Unfehlbarkeit","Unfehlbarkeit","","11","150–162","main",3294,"Unfehlbarkeit","unfehlbarkeit"],
+ ["Unfehlbarkeit","Fallibilismus","(Peirce)",null,null,"see",891,"Fallibilismus","unfehlbarkeit"],
+ ["Unfehlbarkeit","Unkorrigierbarkeit","",null,null,"see",3313,"Unkorrigierbarkeit","unfehlbarkeit"],
+ ["unfreiwillig","Freiheit","I",null,null,"ref",946,"Freiheit","unfreiwillig"],
+ ["unfreiwillig","Reflex","","8","388","ref",2633,"Reflex, Reflexbewegung","unfreiwillig"],
+ ["unfreiwillig","Schuld","IV (jur.)","8","1466","ref",2784,"Schuld","unfreiwillig"],
+ ["unfreiwillig","Verzeihen","","11","1020","ref",3457,"Verzeihen; Vergeben","unfreiwillig"],
  ["Un-Fug","Schuld","III","8","1461","ref",2784,"Schuld","un-fug"],
  ["Ungegebene, das","Grenzbegriff","","3","872","ref",1183,"Grenzbegriff","ungegebene, das"],
  [
@@ -687,7 +704,7 @@ HWPH.put("r/75-6e",
  ],
  ["Unglück in der Kultur","Unbehagen","","11","119","ref",3283,"Unbehagen","ungluck in der kultur"],
  [
-  "unglückliches Bewusstsein","Bewusstsein, unglückliches (Hegel)","",null,null,"ref",422,
+  "unglückliches Bewusstsein","Bewusstsein, unglückliches","(Hegel)",null,null,"ref",422,
   "Bewußtsein, unglückliches","ungluckliches bewusstsein"
  ],
  [
@@ -709,7 +726,7 @@ HWPH.put("r/75-6e",
  ["Ungrund","Chaos","II","1","982","ref",484,"Chaos","ungrund"],
  ["Ungrund","Gott","VIII","3","757","ref",1162,"Gott","ungrund"],
  [
-  "Ungrund","Identitätssystem (Schelling)","","4","155","ref",1370,
+  "Ungrund","Identitätssystem","(Schelling)","4","155","ref",1370,
   "Identitätssystem, Identität, Indifferenz","ungrund"
  ],
  ["Ungrund","Kontraktion Gottes","","4","1064","ref",1644,"Kontraktion Gottes","ungrund"],
@@ -730,7 +747,16 @@ HWPH.put("r/75-6e",
   "Unheimliche, das","Unheimliche, das","","11","172–174","main",3299,"Unheimliche, das",
   "unheimliche, das"
  ],
- ["Unheimliche, das","Schreckliche","",null,null,"see",2780,"Schreckliche","unheimliche, das"],
+ ["Unheimliche, das","Schreckliche, das","",null,null,"see",2780,"Schreckliche","unheimliche, das"],
+ ["Unheimliche, das","Verdrängung","",null,null,"see",3393,"Verdrängung","unheimliche, das"],
+ [
+  "Unheimliche, das","Wunderbare, das; Phantastische, das","",null,null,"see",3660,
+  "Wunderbare, das; Phantastische, das","unheimliche, das"
+ ],
+ [
+  "Unheimliche, das","Xenologie; Wissenschaft vom Fremden","",null,null,"see",3666,
+  "Xenologie; Wissenschaft vom Fremden","unheimliche, das"
+ ],
  [
   "Unhintergehbarkeit","Unhintergehbarkeit","","11","175f.","main",3300,"Unhintergehbarkeit",
   "unhintergehbarkeit"
@@ -826,7 +852,7 @@ HWPH.put("r/75-6e",
   "universale"
  ],
  ["universale","Universalien","I",null,null,"ref",3302,"Universalien","universale"],
- ["universale","Erkenntnis I (erk.)","","2","651","ref",796,"Erkennen, Erkenntnis","universale"],
+ ["universale","Erkenntnis","I (erk.)","2","651","ref",796,"Erkennen, Erkenntnis","universale"],
  [
   "universale","Singulär; Singularität","I (met.)","9","799","ref",2888,"Singulär; Singularität",
   "universale"
@@ -984,7 +1010,19 @@ HWPH.put("r/75-6e",
   "universalpoesie"
  ],
  ["Universalpoesie","Ironie","","4","579","ref",1495,"Ironie","universalpoesie"],
- ["Universalpoesie","Kritik","",null,null,"ref",1694,"Kritik","universalpoesie"],
+ [
+  "Universalpoesie","Kritik; Literaturkritik","II","4","1290","ref",1695,"Kritik, Literaturkritik",
+  "universalpoesie"
+ ],
+ [
+  "Universalpragmatik","Transzendentalpragmatik/Universalpragmatik","",null,null,"ref",3222,
+  "Transzendentalpragmatik/Universalpragmatik","universalpragmatik"
+ ],
+ [
+  "Universalpragmatik","Kompetenz","VI (sprach.)","4","930","ref",1598,"Kompetenz",
+  "universalpragmatik"
+ ],
+ ["Universalpragmatik","Pragmatik","","7","1238","ref",2434,"Pragmatik","universalpragmatik"],
  [
   "Universalreligion","Weltreligionen","","12","510","ref",3575,"Weltreligion(en)",
   "universalreligion"
@@ -1019,8 +1057,12 @@ HWPH.put("r/75-6e",
   "universitat"
  ],
  [
-  "Universitätsphilosophie","Universitätsphilosophie","(Schopenhauer)","11","218","main",3309,
+  "Universitätsphilosophie","Universitätsphilosophie","(Schopenhauer)","11","218- 220","main",3309,
   "Universitätsphilosophie","universitatsphilosophie"
+ ],
+ [
+  "Universitätsphilosophie","Kathederphilosophie","(Schopenhauer)",null,null,"see",1547,
+  "Kathederphilosophie","universitatsphilosophie"
  ],
  ["universitas","Allheit","",null,null,"ref",103,"Allheit","universitas"],
  ["universitas","Universität","",null,null,"ref",3308,"Universität","universitas"],
@@ -1058,7 +1100,10 @@ HWPH.put("r/75-6e",
   "Universum, kontinuierliches","Synechismus","(Peirce)","10","780","ref",3104,"Synechismus",
   "universum, kontinuierliches"
  ],
- ["Universum, sittliches","Dialektik","IV",null,null,"ref",583,"Dialektik","universum, sittliches"],
+ [
+  "Universum, sittliches","Dialektik","IV 1. 4","2","189","ref",583,"Dialektik",
+  "universum, sittliches"
+ ],
  [
   "Universum, symbolisches","Symbolische Form","(Cassirer)","10","739","ref",3094,"Symbolische Form",
   "universum, symbolisches"
@@ -1076,9 +1121,9 @@ HWPH.put("r/75-6e",
   "univocatio transcendens","Transzendental","III","10","1369","ref",3219,"Transzendental",
   "univocatio transcendens"
  ],
- ["univocitas","Univozität Univokation","",null,null,"ref",null,null,"univocitas"],
- ["Univozität","Univozität","",null,null,"main",3311,"Univozität; univok","univozitat"],
- ["Univozität","Konvenienz","","4","1069","ref",1650,"Konvenienz","univozitat"],
+ ["univocitas","Univozität","",null,null,"ref",3311,"Univozität; univok","univocitas"],
+ ["Univokation","Univozität","",null,null,"ref",3311,"Univozität; univok","univokation"],
+ ["Univokation","Konvenienz","","4","1069","ref",1650,"Konvenienz","univokation"],
  ["Univozität","Univozität","","11","225–231","main",3311,"Univozität; univok","univozitat"],
  ["Univozität","Analogie","",null,null,"see",123,"Analogie","univozitat"],
  ["Univozität","Äquivok","",null,null,"see",229,"Äquivok","univozitat"],
@@ -1102,9 +1147,11 @@ HWPH.put("r/75-6e",
   "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","unkenntlichkeit"
  ],
  [
-  "Unkenntlichkeit","Paradox II (theol.) unkörperlich","",null,null,"see",null,null,
+  "Unkenntlichkeit","Paradox","II (theol.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
   "unkenntlichkeit"
  ],
+ ["unkörperlich","Spiritualität","","9","1416","ref",2980,"Spiritualität","unkorperlich"],
+ ["unkörperlich","Substanz","I","10","501f.","ref",3062,"Substanz; Substanz/Akzidens","unkorperlich"],
  [
   "Unkorrigierbarkeit","Unkorrigierbarkeit","","11","233–236","main",3313,"Unkorrigierbarkeit",
   "unkorrigierbarkeit"
@@ -1119,10 +1166,8 @@ HWPH.put("r/75-6e",
  ["Unlauterkeit","Radikal Böses","","8","6","ref",2562,"Radikal Böses","unlauterkeit"],
  ["Unlauterkeit","Verstellung","","11","940","ref",3439,"Verstellung","unlauterkeit"],
  ["Unlesbarkeit","Unverständlichkeit","","11","338","ref",3333,"Unverständlichkeit","unlesbarkeit"],
- [
-  "unlimitiert","Definit; Definitheit I unlösbar","",null,null,"ref",534,"Definit, Definitheit",
-  "unlimitiert"
- ],
+ ["unlimitiert","Definit; Definitheit","I",null,null,"ref",534,"Definit, Definitheit","unlimitiert"],
+ ["unlösbar","Welträtsel","",null,null,"ref",3574,"Welträtsel","unlosbar"],
  [
   "Unlogische, das","Kategorie; Kategorienlehre","IV","4","740","ref",1540,
   "Kategorie, Kategorienlehre","unlogische, das"
@@ -1160,7 +1205,7 @@ HWPH.put("r/75-6e",
  ["Unmittelbarkeit","Ursprung","",null,null,"see",3352,"Ursprung","unmittelbarkeit"],
  ["Unmittelbarkeit","Vermittlung","",null,null,"see",3417,"Vermittlung","unmittelbarkeit"],
  ["Unmittelbarkeit","Erleben; Erlebnis","",null,null,"ref",804,"Erleben, Erlebnis","unmittelbarkeit"],
- ["Unmittelbarkeit","Dialektik","IV",null,null,"ref",583,"Dialektik","unmittelbarkeit"],
+ ["Unmittelbarkeit","Dialektik","IV 5. 3","2","210","ref",583,"Dialektik","unmittelbarkeit"],
  ["Unmittelbarkeit","Evidenz","I (erk.)","2","830","ref",850,"Evidenz","unmittelbarkeit"],
  [
   "Unmittelbarkeit","Kunst; Kunstwerk","IV 5","4","1410f.","ref",1712,"Kunst, Kunstwerk",
@@ -1191,9 +1236,12 @@ HWPH.put("r/75-6e",
   "Unmittelbarkeit, zweite","Unmittelbarkeit","","11","238","ref",3314,"Unmittelbarkeit",
   "unmittelbarkeit, zweite"
  ],
- ["unmodern","Unzeitgemäss (Nietzsche) Unmögliche, das","",null,null,"ref",null,null,"unmodern"],
- ["Unding","Unding","",null,null,"main",3288,"Unding","unding"],
- ["Unding","Nichts; Nichtseiendes","","6","815f.","ref",2136,"Nichts, Nichtseiendes","unding"],
+ ["unmodern","Unzeitgemäss","(Nietzsche)",null,null,"ref",3336,"Unzeitgemäß","unmodern"],
+ ["Unmögliche, das","Unding","",null,null,"ref",3288,"Unding","unmogliche, das"],
+ [
+  "Unmögliche, das","Nichts; Nichtseiendes","","6","815f.","ref",2136,"Nichts, Nichtseiendes",
+  "unmogliche, das"
+ ],
  [
   "unmöglicher Gegenstand","Gegenstandstheorie","(Meinong)","3","135","ref",1021,
   "Gegenstandstheorie","unmoglicher gegenstand"
@@ -1204,7 +1252,12 @@ HWPH.put("r/75-6e",
  ["Unmöglichkeit","Notwendigkeit","",null,null,"see",2171,"Notwendigkeit","unmoglichkeit"],
  ["Unmöglichkeit","Possibilien","",null,null,"see",2413,"Possibilien","unmoglichkeit"],
  ["Unmöglichkeit","Repugnanz","",null,null,"see",2689,"Repugnanz","unmoglichkeit"],
- ["Unmöglichkeit","Verträglichkeit Unmöglichkeit","",null,null,"see",null,null,"unmoglichkeit"],
+ [
+  "Unmöglichkeit","Verträglichkeit","",null,null,"see",3446,"Verträglichkeit; Kompatibilität",
+  "unmoglichkeit"
+ ],
+ ["Unmöglichkeit","Notwendigkeit","II","6","962ff.","ref",2171,"Notwendigkeit","unmoglichkeit"],
+ ["Unmöglichkeit","Wunder","","12","1064","ref",3659,"Wunder","unmoglichkeit"],
  [
   "Unmöglichkeit, moralische","Wahrscheinlichkeit","IV A","12","271","ref",3540,"Wahrscheinlichkeit",
   "unmoglichkeit, moralische"
@@ -1225,7 +1278,8 @@ HWPH.put("r/75-6e",
  ],
  ["unphilosophisch","Weisheit","","12","394","ref",3553,"Weisheit","unphilosophisch"],
  ["Unpolitischer","Politik","III","7","1063f.","ref",2396,"Politik","unpolitischer"],
- ["unpräzise","Vagheit unpredictability","",null,null,"ref",null,null,"unprazise"],
+ ["unpräzise","Vagheit","",null,null,"ref",3370,"Vagheit; vage","unprazise"],
+ ["unpredictability","Zufall","IV (math./phys.)","12","1421","ref",3706,"Zufall","unpredictability"],
  [
   "unprethinkable","Unvordenkliche, das","(Schelling)",null,null,"ref",3334,"Unvordenkliche, das",
   "unprethinkable"
@@ -1237,10 +1291,8 @@ HWPH.put("r/75-6e",
  ["Unredlichkeit","Redlichkeit","","8","363f.","ref",2622,"Redlichkeit","unredlichkeit"],
  ["unreine Reflexion","Seele","V","9","82","ref",2794,"Seele","unreine reflexion"],
  ["unreine Vernunft","Religionskritik","","8","740","ref",2677,"Religionskritik","unreine vernunft"],
- [
-  "Unreinheit","Reinheit; Reinigung II 2 Unruhe","",null,null,"ref",2660,"Reinheit, Reinigung",
-  "unreinheit"
- ],
+ ["Unreinheit","Reinheit; Reinigung","II 2",null,null,"ref",2660,"Reinheit, Reinigung","unreinheit"],
+ ["Unruhe","Seelenruhe","",null,null,"ref",2797,"Seelenruhe","unruhe"],
  ["unsagbar","Eine, das; Einheit","I","2","365","ref",675,"Eine (das), Einheit","unsagbar"],
  ["unsagbar","Sein; Seiendes","II","9","181","ref",2806,"Sein; Seiendes","unsagbar"],
  ["Unsagbare, das","Unsagbare, das","","11","257–261","main",3317,"Unsagbare, das","unsagbare, das"],
@@ -1312,8 +1364,12 @@ HWPH.put("r/75-6e",
  ],
  ["Unsichtbarkeit","Sehen","I",null,null,"see",2802,"Sehen","unsichtbarkeit"],
  [
-  "Unsichtbarkeit","Übersinnlich Unsichtbarkeit der Kirche","",null,null,"see",null,null,
+  "Unsichtbarkeit","Übersinnlich","",null,null,"see",3265,"Übersinnlich; das Übersinnliche",
   "unsichtbarkeit"
+ ],
+ [
+  "Unsichtbarkeit der Kirche","Ecclesia spiritualis","",null,null,"ref",649,"Ecclesia spiritualis",
+  "unsichtbarkeit der kirche"
  ],
  [
   "Unsinn; Widersinn","Unsinn; Widersinn","","11","270–274","main",3322,"Unsinn; Widersinn",
@@ -1347,7 +1403,10 @@ HWPH.put("r/75-6e",
   "Unsterblichkeit","Unsterblichkeit","","11","275–294","main",3323,"Unsterblichkeit",
   "unsterblichkeit"
  ],
- ["Unsterblichkeit","Athanismus (Haeckel)","",null,null,"see",null,null,"unsterblichkeit"],
+ [
+  "Unsterblichkeit","Athanismus","(Haeckel)",null,null,"see",275,"Athanismus (Athanatismus)",
+  "unsterblichkeit"
+ ],
  ["Unsterblichkeit","Auferstehung","",null,null,"see",285,"Auferstehung","unsterblichkeit"],
  [
   "Unsterblichkeit","Essentifikation","(Schelling)",null,null,"see",831,"Essentifikation",
@@ -1360,8 +1419,29 @@ HWPH.put("r/75-6e",
  ["Unsterblichkeit","Tod","",null,null,"see",3197,"Tod","unsterblichkeit"],
  ["Unsterblichkeit","Unzerstörbarkeit","",null,null,"see",3337,"Unzerstörbarkeit","unsterblichkeit"],
  [
-  "Unsterblichkeit","Vergänglichkeit Unsterblichkeit der Seele","",null,null,"see",null,null,
+  "Unsterblichkeit","Vergänglichkeit","",null,null,"see",3401,"Vergänglichkeit; Vergehen",
   "unsterblichkeit"
+ ],
+ [
+  "Unsterblichkeit der Seele","Leib-Seele-Verhältnis","II",null,null,"ref",1770,
+  "Leib-Seele-Verhältnis","unsterblichkeit der seele"
+ ],
+ ["Unsterblichkeit der Seele","Seele","",null,null,"ref",2794,"Seele","unsterblichkeit der seele"],
+ [
+  "Unsterblichkeit der Seele","Präexistenz","","7","1230f.","ref",2432,"Präexistenz",
+  "unsterblichkeit der seele"
+ ],
+ [
+  "Unsterblichkeit der Seele","Psychologie","","7","1603","ref",2511,"Psychologie",
+  "unsterblichkeit der seele"
+ ],
+ [
+  "Unsterblichkeit der Seele","Psychologie, rationale","","7","1665ff.","ref",2519,
+  "Psychologie, rationale","unsterblichkeit der seele"
+ ],
+ [
+  "Unsterblichkeit der Seele","Seelenwanderung","I","9","118","ref",2801,"Seelenwanderung",
+  "unsterblichkeit der seele"
  ],
  ["Unstimmigkeit","Stimmigkeit","","10","172","ref",3026,"Stimmigkeit","unstimmigkeit"],
  ["Untätigkeit","Trägheit","I (anthr.)",null,null,"ref",3213,"Trägheit","untatigkeit"],
@@ -1374,7 +1454,7 @@ HWPH.put("r/75-6e",
  ["unteilbar/teilbar","Ganzes/Teil","",null,null,"ref",986,"Ganzes/Teil","unteilbar/teilbar"],
  ["unteilbar/teilbar","Quantität","II",null,null,"ref",2552,"Quantität","unteilbar/teilbar"],
  [
-  "unteilbar/teilbar","Substanz I","",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
+  "unteilbar/teilbar","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
   "unteilbar/teilbar"
  ],
  ["unteilbar/teilbar","Totalität","I",null,null,"ref",3209,"Totalität","unteilbar/teilbar"],
@@ -1419,7 +1499,15 @@ HWPH.put("r/75-6e",
  ],
  ["Untere, das","Subjekt","I","10","377","ref",3047,"Subjekt","untere, das"],
  ["Untergang","Dekadenz","",null,null,"ref",544,"Dekadenz","untergang"],
- ["Untergang","Niedergang Untergang der Welt","",null,null,"ref",null,null,"untergang"],
+ ["Untergang","Niedergang","",null,null,"ref",2138,"Niedergang, Untergang","untergang"],
+ [
+  "Untergang der Welt","Weltende","",null,null,"ref",3562,"Weltende; Weltuntergang",
+  "untergang der welt"
+ ],
+ [
+  "Untergegensätzlichkeit","Übergegensätzlichkeit","(Lask)","11","35","ref",3255,
+  "Übergegensätzlichkeit; übergegensätzlich","untergegensatzlichkeit"
+ ],
  [
   "Unterlassung","Unterlassung","","11","304–308","main",3325,"Unterlassung; Unterlassen",
   "unterlassung"
@@ -1462,8 +1550,8 @@ HWPH.put("r/75-6e",
  ["Unterordnungstrieb","Autorität","III (pol.)","1","731","ref",333,"Autorität","unterordnungstrieb"],
  ["Unterredungskunst","Dialektik","III","2","176","ref",583,"Dialektik","unterredungskunst"],
  [
-  "Unterricht s. auch","Register der Sachgruppen: Unterricht und Institutionen Unterricht","",null,
-  null,"ref",null,null,"unterricht s. auch"
+  "Unterricht","Register der Sachgruppen: Unterricht und Institutionen Unterricht","",null,null,
+  "see",null,null,"unterricht"
  ],
  ["Untersatz","Obersatz","",null,null,"ref",2182,"Obersatz","untersatz"],
  [
@@ -1521,7 +1609,7 @@ HWPH.put("r/75-6e",
  ["Unterscheiden","Kritik","I",null,null,"ref",1694,"Kritik","unterscheiden"],
  ["Unterscheiden","Apperzeption","","1","449","ref",212,"Apperzeption","unterscheiden"],
  [
-  "Unterscheiden","Bestimmung; Determination I (met )","","1","854","ref",400,
+  "Unterscheiden","Bestimmung; Determination","I (met )","1","854","ref",400,
   "Bestimmung, bestimmen, Determination","unterscheiden"
  ],
  ["Unterscheiden","Vielheit","I","11","1047","ref",3462,"Vielheit","unterscheiden"],
@@ -1589,7 +1677,7 @@ HWPH.put("r/75-6e",
   "unterschied, spezifischer"
  ],
  [
-  "Unterschied, spezifischer","Gattung; Genus I","",null,null,"see",991,"Gattung, Genus",
+  "Unterschied, spezifischer","Gattung; Genus","I",null,null,"see",991,"Gattung, Genus",
   "unterschied, spezifischer"
  ],
  [
@@ -1597,7 +1685,19 @@ HWPH.put("r/75-6e",
   "unterschied, spezifischer"
  ],
  [
-  "Unterschied, spezifischer","Species","",null,null,"see",2966,"Species",
+  "Unterschied, spezifischer","Species","II-III (log.)",null,null,"see",2966,"Species",
+  "unterschied, spezifischer"
+ ],
+ [
+  "Unterschied, spezifischer","Unterscheiden; Unterscheidung","",null,null,"see",3326,
+  "Unterscheiden; Unterscheidung","unterschied, spezifischer"
+ ],
+ [
+  "Unterschied, spezifischer","Unterschied","",null,null,"see",3327,"Unterschied",
+  "unterschied, spezifischer"
+ ],
+ [
+  "Unterschied, spezifischer","Verschiedenheit","",null,null,"see",3430,"Verschiedenheit",
   "unterschied, spezifischer"
  ],
  [
@@ -1628,21 +1728,22 @@ HWPH.put("r/75-6e",
  ["Unterstellung","Unschuldsvermutung","",null,null,"ref",3320,"Unschuldsvermutung","unterstellung"],
  ["Untertan","Untertan","","11","325–328","main",3329,"Untertan","untertan"],
  ["Untertan","Bürger","",null,null,"see",459,"Bürger, bourgeois, citoyen","untertan"],
- ["Untertan","Despotie I (allg.) Untertan","",null,null,"see",null,null,"untertan"],
- ["Unterweisung","Disciplina II Unterwerfung","",null,null,"ref",null,null,"unterweisung"],
- [
-  "Unterdrückung","Unterdrückung","","11","294","main",3324,"Unterdrückung; Repression",
-  "unterdruckung"
- ],
+ ["Untertan","Despotie","I (allg.)",null,null,"see",571,"Despotie, Despotismus","untertan"],
+ ["Untertan","Gewaltenteilung","","3","571","ref",1128,"Gewaltenteilung","untertan"],
+ ["Untertan","Herrschaftsformen","","3","1098","ref",1263,"Herrschaftsform(en)","untertan"],
+ ["Untertan","Ökonomie","I (ökon.)","6","1151","ref",2210,"Ökonomie","untertan"],
+ ["Unterweisung","Disciplina","II",null,null,"ref",607,"Disciplina, doctrina","unterweisung"],
+ ["Unterwerfung","Unterdrückung","","11","294","ref",3324,"Unterdrückung; Repression","unterwerfung"],
  [
   "Unterwerfung der Frauen","Weiblich/männlich","III",null,null,"ref",3552,"Weiblich/männlich",
   "unterwerfung der frauen"
  ],
  ["Unterwerfungstrieb","Wohlwollen","","12","1010","ref",3653,"Wohlwollen","unterwerfungstrieb"],
  [
-  "Unterwerfungsvertrag","Gesellschaftsvertrag; Herrschaftsvertrag Unterwurf","",null,null,"ref",
-  1104,"Gesellschaftsvertrag, Herrschaftsvertrag","unterwerfungsvertrag"
+  "Unterwerfungsvertrag","Gesellschaftsvertrag; Herrschaftsvertrag","",null,null,"ref",1104,
+  "Gesellschaftsvertrag, Herrschaftsvertrag","unterwerfungsvertrag"
  ],
+ ["Unterwurf","Subjekt","I","10","377","ref",3047,"Subjekt","unterwurf"],
  ["Unthematische, das","Thema","II (phän.)","10","1062","ref",3165,"Thema","unthematische, das"],
  ["Untiefe","Absolut; das Absolute","","1","24","ref",27,"Absolut, das Absolute","untiefe"],
  [
@@ -1700,7 +1801,7 @@ HWPH.put("r/75-6e",
   "unverborgenheit"
  ],
  [
-  "Unverborgenheit","Erschlossenheit (Heidegger)","",null,null,"see",815,
+  "Unverborgenheit","Erschlossenheit","(Heidegger)",null,null,"see",815,
   "Erschlossenheit, Erschließen","unverborgenheit"
  ],
  ["Unverborgenheit","Lichtung","(Heidegger)",null,null,"see",1794,"Lichtung","unverborgenheit"],
@@ -1837,7 +1938,11 @@ HWPH.put("r/75-6e",
   "unvorsatzliche sunden"
  ],
  ["Unwahrhaftigkeit","Lebenslüge","","5","134","ref",1749,"Lebenslüge","unwahrhaftigkeit"],
- ["Unwandelbare, das","Subjekt","",null,null,"ref",3047,"Subjekt","unwandelbare, das"],
+ [
+  "Unwandelbare, das","Subjekt/Objekt","IV","10","417f.","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","unwandelbare, das"
+ ],
+ ["unweise","Weisheit","","12","394","ref",3553,"Weisheit","unweise"],
  [
   "unwesentliches Prädikat","Accidens praedicabile","",null,null,"ref",38,"Accidens praedicabile",
   "unwesentliches pradikat"
@@ -1876,14 +1981,8 @@ HWPH.put("r/75-6e",
   "Unwissenheit, Sünde der","Übereilung","","11","13","ref",3250,"Übereilung; Voreiligkeit",
   "unwissenheit, sunde der"
  ],
- [
-  "Unzeitgemäss (Nietzsche)","Unzeitgemäss (Nietzsche)","","11","348f.","main",3336,"Unzeitgemäß",
-  "unzeitgemass (nietzsche)"
- ],
- [
-  "Unzeitgemäss (Nietzsche)","Zeitgeist","",null,null,"see",3678,"Zeitgeist",
-  "unzeitgemass (nietzsche)"
- ],
+ ["Unzeitgemäss","Unzeitgemäss","(Nietzsche)","11","348f.","main",3336,"Unzeitgemäß","unzeitgemass"],
+ ["Unzeitgemäss","Zeitgeist","",null,null,"see",3678,"Zeitgeist","unzeitgemass"],
  [
   "Unzerstörbarkeit","Unzerstörbarkeit","","11","349–351","main",3337,"Unzerstörbarkeit",
   "unzerstorbarkeit"
@@ -1902,10 +2001,6 @@ HWPH.put("r/75-6e",
   "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","unzulanglichkeit"
  ],
  [
-  "Ungrund; Urgrund","Ungrund; Urgrund","",null,null,"main",3298,"Ungrund; Urgrund",
-  "ungrund; urgrund"
- ],
- [
   "Unschärferelation","Unschärferelation","","11","263","main",3318,
   "Unschärferelation; Unbestimmtheitsrelation","unscharferelation"
  ],
@@ -1913,22 +2008,21 @@ HWPH.put("r/75-6e",
   "Undurchsichtigkeit","Undurchsichtigkeit","I (Heidegger)",null,null,"main",3290,
   "Undurchsichtigkeit","undurchsichtigkeit"
  ],
+ ["universalis","Series","II",null,null,"ref",2875,"Series","universalis"],
+ ["Unsterblichkeit","Unsterblichkeit","I","11","275","main",3323,"Unsterblichkeit","unsterblichkeit"],
+ ["universalis","Aggregat","","1","102","ref",59,"Aggregat","universalis"],
  [
-  "Undurchsichtigkeit","Undurchsichtigkeit","I (Heidegger)",null,null,"main",3290,
-  "Undurchsichtigkeit","undurchsichtigkeit"
+  "universalis","Complicatio/explicatio","(Cusanus)","1","1027","ref",506,"Complicatio/explicatio",
+  "universalis"
  ],
- [
-  "Undurchsichtigkeit","Wahrheit, nackte","",null,null,"ref",3530,"Wahrheit, nackte",
-  "undurchsichtigkeit"
- ],
- [
-  "Undurchsichtigkeit","Seinsvergessenheit","(Heidegger)","9","264","ref",2815,"Seinsvergessenheit",
-  "undurchsichtigkeit"
- ],
- [
-  "Undurchsichtigkeit","Unverborgenheit","(Heidegger)","11","332","ref",3331,"Unverborgenheit",
-  "undurchsichtigkeit"
- ],
- ["Unmittelbarkeit","Unmittelbarkeit","","11","238","main",3314,"Unmittelbarkeit","unmittelbarkeit"]
+ ["universalis","Dialektik","IV","2","197","ref",583,"Dialektik","universalis"],
+ ["universalis","Gesetz","III (wiss.)","3","507","ref",1105,"Gesetz","universalis"],
+ ["universalis","Philosophie","IV E","7","726","ref",2353,"Philosophie","universalis"],
+ ["universalis","Pluralismus","I","7","989","ref",2381,"Pluralismus","universalis"],
+ ["universalis","Sache","II","8","1099","ref",2730,"Sache","universalis"],
+ ["universalis","Sprung","","9","1542","ref",2996,"Sprung","universalis"],
+ ["universalis","Vernunft; Verstand","V","11","817","ref",3423,"Vernunft; Verstand","universalis"],
+ ["universalis","Vernunft; Verstand","VI","11","824","ref",3423,"Vernunft; Verstand","universalis"],
+ ["universalis","Wechselwirkung","","12","337f.","ref",3550,"Wechselwirkung","universalis"]
 ]
 );

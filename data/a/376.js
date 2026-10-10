@@ -33,6 +33,6 @@ HWPH.put("a/376",
  ],
  "see_also":[{"id":2126,"lemma":"Neustik/Phrastik"}],
  "groups":[{"id":22,"name":"Logik","label":"Behauptungszeichen (Frege)"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

@@ -36,7 +36,7 @@ HWPH.put("r/62-72",
  ["Brandt Reinhard","Verkehrung","","11","707–709","author",3412,"Verkehrung","brandt reinhard"],
  ["Braun Egon","Ochlokratie","","6","1092–1094","author",2199,"Ochlokratie","braun egon"],
  ["Braun Hermann","Welt","II","12","412–424","author",3557,"Welt","braun hermann"],
- ["Braun Hermann","Kreisprozess (Gehlen)","","4","1230","author",1689,"Kreisprozeß","braun hermann"],
+ ["Braun Hermann","Kreisprozess","(Gehlen)","4","1230","author",1689,"Kreisprozeß","braun hermann"],
  ["Braun Hermann","Mängelwesen","","5","712f.","author",1858,"Mängelwesen","braun hermann"],
  [
   "Bredow Gerda von","Ars coniecturalis","(Cusanus)","1","522–524","author",252,"Ars coniecturalis",
@@ -84,8 +84,8 @@ HWPH.put("r/62-72",
   "brezinka wolfgang"
  ],
  [
-  "Brinkmann Heinrich","Bewusstsein, antizipierendes (Bloch)","","1","896f.","author",412,
-  "Bewußtsein","brinkmann heinrich"
+  "Brinkmann Heinrich","Bewusstsein, antizipierendes","(Bloch)","1","896f.","author",413,
+  "Bewußtsein, antizipierendes","brinkmann heinrich"
  ],
  ["Brinkmann Heinrich","Dingmystik","","2","255","author",605,"Dingmystik","brinkmann heinrich"],
  [
@@ -114,7 +114,7 @@ HWPH.put("r/62-72",
   "Konstitution, logische","brockhaus klaus"
  ],
  [
-  "Brockhaus Klaus","Konstitutionssystem (Carnap)","","4","1006–1008","author",1627,
+  "Brockhaus Klaus","Konstitutionssystem","(Carnap)","4","1006–1008","author",1627,
   "Konstitutionalismus","brockhaus klaus"
  ],
  [
@@ -132,7 +132,7 @@ HWPH.put("r/62-72",
   "brozek josef"
  ],
  [
-  "Bruch Richard","Probabilismus II (eth.)","","7","1390–1394","author",2463,
+  "Bruch Richard","Probabilismus","II (eth.)","7","1390–1394","author",2463,
   "Probabilismus, probabilistisch","bruch richard"
  ],
  ["Bruckner Eberhard","Stabilität","","10","84–90","author",3005,"Stabilität","bruckner eberhard"],
@@ -146,11 +146,11 @@ HWPH.put("r/62-72",
   "brumlik micha"
  ],
  [
-  "Brune Karl-Heinz","Latenz II (med.)","","5","42f.","author",1731,"Latent, Latenz",
+  "Brune Karl-Heinz","Latenz","II (med.)","5","42f.","author",1731,"Latent, Latenz",
   "brune karl-heinz"
  ],
  [
-  "Brune Karl-Heinz","Wiederkunft, ewige (Nietzsche)","","12","746–751","author",3616,"Wiederholung",
+  "Brune Karl-Heinz","Wiederkunft, ewige","(Nietzsche)","12","746–751","author",3616,"Wiederholung",
   "brune karl-heinz"
  ]
 ]

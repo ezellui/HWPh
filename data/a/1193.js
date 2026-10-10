@@ -47,13 +47,13 @@ HWPH.put("a/1193",
   {"id":3243,"lemma":"Typentheorie; Typenlogik","n":2}
  ],
  "register":[
-  {"term":"Allheit","qualifier":"","band":"3","col":"911"},
   {"term":"Antinomie, Russellsche","qualifier":"","band":"3","col":"912"},
   {"term":"Begründung","qualifier":"","band":"3","col":"915"},
+  {"term":"Grundlagenkrise","qualifier":"","band":null,"col":null},
   {"term":"Halbintuitionismus","qualifier":"","band":"3","col":"913"},
   {"term":"Russellsche Antinomie","qualifier":"","band":"3","col":"912"},
-  {"term":"Zahlen, natürliche","qualifier":"","band":"3","col":"911f."},
-  {"term":"– III (log./math.) 4 543f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Stetigkeit","qualifier":"","band":"3","col":"911"},
+  {"term":"Zahlen, natürliche","qualifier":"","band":"3","col":"911f."}
  ],
  "persons":[
   {"id":78,"name":"P. Lorenzen","b":3,"n":6,"l":0,"editor":0,"role":"mixed"},

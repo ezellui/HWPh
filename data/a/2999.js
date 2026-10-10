@@ -31,10 +31,10 @@ HWPH.put("a/2999",
   {"id":3002,"lemma":"Staatsrecht","n":1}
  ],
  "register":[
-  {"term":"1169","qualifier":"","band":"10","col":"57ff."},
+  {"term":"Kameralwissenschaft","qualifier":"","band":"10","col":"57ff."},
   {"term":"Lehre vom Staat","qualifier":"","band":null,"col":null},
   {"term":"philosophia politica","qualifier":"","band":"10","col":"55"},
-  {"term":"Polizeiwissenschaft 7 1080–1083 s. auch","qualifier":"","band":null,"col":null},
+  {"term":"Staatstheorie","qualifier":"","band":null,"col":null},
   {"term":"Staatswissenschaft","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -130,7 +130,12 @@ HWPH.put("a/2999",
   {"id":355,"lemma":"Bedürfnis","tf":3},
   {"id":3165,"lemma":"Thema","tf":4}
  ],
- "see_also":[{"id":2399,"lemma":"Polizei"}],
+ "see_also":[
+  {"id":2399,"lemma":"Polizei"},
+  {"id":2998,"lemma":"Staat"},
+  {"id":3002,"lemma":"Staatsrecht"},
+  {"id":3013,"lemma":"Statistik"}
+ ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Staatslehre"},
   {"id":33,"name":"Politische Theorie","label":"Staatslehre"}

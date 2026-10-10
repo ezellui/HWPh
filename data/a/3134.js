@@ -24,8 +24,7 @@ HWPH.put("a/3134",
   {"term":"Gemeinschaft/Gesellschaft","qualifier":"","band":"10","col":"927"},
   {"term":"Gesellschaft, Entwicklung der","qualifier":"","band":"10","col":"927"},
   {"term":"homo oeconomicus","qualifier":"","band":"10","col":"928"},
-  {"term":"société échange","qualifier":"","band":null,"col":null},
-  {"term":"– I (ökon.) 6 1149–1153 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"société échange","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":105,"name":"M. Horkheimer","b":1,"n":3,"l":0,"editor":0,"role":"source"},

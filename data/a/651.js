@@ -19,12 +19,7 @@ HWPH.put("a/651",
  "outlinks":[],
  "register":[
   {"term":"Ego","qualifier":"(Husserl)","band":null,"col":null},
-  {
-   "term":"primäres/sekundäres (Reininger) Ich, transzendentales",
-   "qualifier":"(Husserl)",
-   "band":null,
-   "col":null
-  },
+  {"term":"Ich, transzendentales","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Subjektivität, weltkonstituierende","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"weltkonstituierende Subjektivität","qualifier":"(Husserl)","band":null,"col":null}
  ],

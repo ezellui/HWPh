@@ -19,12 +19,7 @@ HWPH.put("a/1338",
  "outlinks":[],
  "register":[
   {"term":"Gegenstandspol","qualifier":"(Husserl)","band":"4","col":"25"},
-  {
-   "term":"primäres/sekundäres (Reininger) Ich, transzendentales",
-   "qualifier":"(Husserl)",
-   "band":"4",
-   "col":"25"
-  }
+  {"term":"Ich, transzendentales","qualifier":"(Husserl)","band":"4","col":"25"}
  ],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[{"id":1023,"lemma":"Gegenwart","tf":2}],

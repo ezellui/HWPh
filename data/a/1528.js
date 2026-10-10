@@ -61,6 +61,6 @@ HWPH.put("a/1528",
  "mentions":[{"id":942,"lemma":"Fortschritt","tf":2},{"id":3012,"lemma":"Standpunkt; Gesichtspunkt","tf":2}],
  "see_also":[{"id":1698,"lemma":"Kritizismus"},{"id":2119,"lemma":"Neukantianismus"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Kantianismus"}],
- "reg_authors":[{"name":"Rath Helmut","n":4},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Rath Helmut","n":4},{"name":"Red","n":241}]
 }
 );

@@ -29,6 +29,7 @@ HWPH.put("a/3589",
  "register":[
   {"term":"Bedeutung","qualifier":"","band":null,"col":null},
   {"term":"Eigenschaft (ling.)","qualifier":"II","band":"12","col":"585"},
+  {"term":"Gute","qualifier":"","band":null,"col":null},
   {"term":"signifiant/signifié","qualifier":"II","band":"12","col":"584f."},
   {"term":"signification des termes","qualifier":"","band":null,"col":null},
   {"term":"Valenz (ling.)","qualifier":"","band":null,"col":null},
@@ -74,6 +75,6 @@ HWPH.put("a/3589",
  ],
  "see_also":[{"id":292,"lemma":"Aufschlußwert"},{"id":1728,"lemma":"Langue/Parole"}],
  "groups":[{"id":20,"name":"Linguistik","label":"Wert (linguistisch)"}],
- "reg_authors":[{"name":"Adler Hans","n":5},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Adler Hans","n":5},{"name":"Red","n":241}]
 }
 );

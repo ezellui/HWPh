@@ -24,7 +24,6 @@ HWPH.put("a/3272",
  ],
  "register":[
   {"term":"conversatio","qualifier":"","band":null,"col":null},
-  {"term":"das","qualifier":"","band":null,"col":null},
   {"term":"gentilhomme","qualifier":"","band":"11","col":"85"},
   {"term":"gentleman","qualifier":"","band":"11","col":"85"},
   {"term":"Leben, geistiges","qualifier":"","band":"11","col":"85"},

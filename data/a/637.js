@@ -23,6 +23,7 @@ HWPH.put("a/637",
  ],
  "outlinks":[],
  "register":[
+  {"term":"Fortschritt","qualifier":"","band":null,"col":null},
   {"term":"positiv","qualifier":"","band":"2","col":"293"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Stadien, drei","qualifier":"","band":null,"col":null},
@@ -76,7 +77,11 @@ HWPH.put("a/637",
   {"id":1110,"lemma":"Gesetze, kategoriale","tf":2},
   {"id":2233,"lemma":"Ordnung","tf":2}
  ],
- "see_also":[{"id":942,"lemma":"Fortschritt"},{"id":1271,"lemma":"Hierarchiegesetz"}],
+ "see_also":[
+  {"id":942,"lemma":"Fortschritt"},
+  {"id":1271,"lemma":"Hierarchiegesetz"},
+  {"id":3567,"lemma":"Weltgeschichte; Universalgeschichte"}
+ ],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Drei-Stadien-Gesetz"}],
  "reg_authors":[{"name":"Dehmel Herta","n":1}]
 }

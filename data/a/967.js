@@ -17,7 +17,7 @@ HWPH.put("a/967",
  "next":{"id":968,"lemma":"Fundamentalphilosophie","band":"2","col":1134},
  "backlinks":[{"id":3557,"lemma":"Welt","n":1}],
  "outlinks":[],
- "register":[{"term":"des Seins (Heidegger)","qualifier":"(Heidegger)","band":"2","col":"1134"}],
+ "register":[{"term":"Seinsfrage","qualifier":"(Heidegger)","band":"2","col":"1134"}],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":309,"name":"O. Pöggeler","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
@@ -27,7 +27,13 @@ HWPH.put("a/967",
   {"id":527,"lemma":"Dasein","tf":4},
   {"id":128,"lemma":"Analytik","tf":2}
  ],
- "see_also":[{"id":129,"lemma":"Analytik des Daseins"},{"id":2218,"lemma":"Ontologie"}],
+ "see_also":[
+  {"id":129,"lemma":"Analytik des Daseins"},
+  {"id":2218,"lemma":"Ontologie"},
+  {"id":2278,"lemma":"Parontologie"},
+  {"id":2806,"lemma":"Sein; Seiendes"},
+  {"id":2816,"lemma":"Seinsverständnis"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Fundamentalontologie (Heidegger)"}],
  "reg_authors":[{"name":"Probst Peter","n":51}]
 }

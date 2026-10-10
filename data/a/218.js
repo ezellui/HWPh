@@ -17,10 +17,7 @@ HWPH.put("a/218",
  "next":{"id":219,"lemma":"Apprehension","band":"1","col":459},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Urpräsenz","qualifier":"(Husserl)","band":"1","col":"459"},
-  {"term":"– II (Husserl) 7 1257 s. auch","qualifier":"(Husserl)","band":null,"col":null}
- ],
+ "register":[{"term":"Urpräsenz","qualifier":"(Husserl)","band":"1","col":"459"}],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[
   {"id":949,"lemma":"Fremderfahrung","tf":2},

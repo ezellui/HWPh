@@ -22,6 +22,6 @@ HWPH.put("a/375",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Behauptungssatz"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

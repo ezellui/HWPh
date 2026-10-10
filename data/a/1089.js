@@ -21,7 +21,9 @@ HWPH.put("a/1089",
   {"term":"Erklärung","qualifier":"","band":"3","col":"404"},
   {"term":"explanation, historical","qualifier":"","band":"3","col":"403"},
   {"term":"Geschichten/Theorien","qualifier":"","band":null,"col":null},
-  {"term":"narrativ","qualifier":"","band":null,"col":null}
+  {"term":"historical explanation","qualifier":"","band":"3","col":"403"},
+  {"term":"narrativ","qualifier":"","band":null,"col":null},
+  {"term":"Theorie","qualifier":"","band":"3","col":"403f."}
  ],
  "persons":[
   {"id":1332,"name":"A. C. Danto","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},

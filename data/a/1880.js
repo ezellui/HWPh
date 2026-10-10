@@ -22,8 +22,7 @@ HWPH.put("a/1880",
   {"term":"Massenseelenkunde","qualifier":"","band":"5","col":"836"},
   {"term":"Massenwahn","qualifier":"","band":"5","col":"836"},
   {"term":"Propaganda","qualifier":"","band":"5","col":"836"},
-  {"term":"Wir-Psychologie","qualifier":"","band":"5","col":"837"},
-  {"term":"– II (soz.) 5 828–832 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wir-Psychologie","qualifier":"","band":"5","col":"837"}
  ],
  "persons":[
   {"id":1863,"name":"A. Hitler","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -72,6 +71,6 @@ HWPH.put("a/1880",
  ],
  "see_also":[{"id":1878,"lemma":"Masse, Massen"},{"id":2952,"lemma":"Sozialpsychologie"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Massenpsychologie"}],
- "reg_authors":[{"name":"Anger Hans","n":8},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Anger Hans","n":8},{"name":"Red","n":241}]
 }
 );

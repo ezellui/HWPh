@@ -48,7 +48,7 @@ HWPH.put("a/1151",
   {"id":779,"lemma":"Epoche, Epochenbewußtsein","tf":2},
   {"id":814,"lemma":"Erscheinung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":413,"lemma":"Bewußtsein, antizipierendes"},{"id":3297,"lemma":"Ungleichzeitigkeit"}],
  "groups":[
   {"id":13,"name":"Geschichtsphilosophie","label":"Gleichzeitigkeit II (Bloch)"},
   {"id":44,"name":"Theologie","label":"Gleichzeitigkeit I (theol.)"}

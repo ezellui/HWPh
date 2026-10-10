@@ -31,10 +31,12 @@ HWPH.put("a/2748",
   {"id":2747,"lemma":"Satz vom ausgeschlossenen Dritten","n":1}
  ],
  "register":[
+  {"term":"Identitätsprinzip","qualifier":"","band":"8","col":"1202"},
   {"term":"Konsistenz","qualifier":"","band":null,"col":null},
   {"term":"principe de contradiction","qualifier":"","band":null,"col":null},
   {"term":"principium contradictionis","qualifier":"","band":null,"col":null},
   {"term":"principium identitatis","qualifier":"","band":"8","col":"1202"},
+  {"term":"principle of non-contradiction","qualifier":"","band":null,"col":null},
   {"term":"Prinzip der Identität","qualifier":"","band":"8","col":"1202"},
   {"term":"reductio ad absurdum","qualifier":"","band":"8","col":"1203f."},
   {"term":"Satz vom Widerspruch","qualifier":"","band":null,"col":null},

@@ -72,6 +72,6 @@ HWPH.put("a/3167",
   {"id":3,"name":"Antike Philosophie","label":"Theogonie"},
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Theogonie"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Schwabl Hans","n":2}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Schwabl Hans","n":2}]
 }
 );

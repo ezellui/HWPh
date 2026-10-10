@@ -26,6 +26,7 @@ HWPH.put("a/2842",
   {"term":"Selbstbejahung","qualifier":"","band":"9","col":"497"},
   {"term":"Selbstentleibung","qualifier":"","band":"9","col":"495f."},
   {"term":"Selbsterhaltung","qualifier":"","band":null,"col":null},
+  {"term":"Selbsttötung","qualifier":"","band":null,"col":null},
   {"term":"Selbstvernichtung","qualifier":"","band":null,"col":null},
   {"term":"Suizid","qualifier":"","band":null,"col":null}
  ],

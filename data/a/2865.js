@@ -32,6 +32,7 @@ HWPH.put("a/2865",
  ],
  "outlinks":[],
  "register":[
+  {"term":"ars semantica","qualifier":"II","band":"9","col":"604"},
   {"term":"characteristica","qualifier":"II","band":"9","col":"604"},
   {"term":"chrematology","qualifier":"II","band":"9","col":"603"},
   {"term":"Logik","qualifier":"II","band":"9","col":"603ff."},
@@ -40,14 +41,16 @@ HWPH.put("a/2865",
   {"term":"scientia rationalis","qualifier":"II","band":"9","col":"604"},
   {"term":"semantic philosophy","qualifier":"II","band":"9","col":"602"},
   {"term":"Semantik","qualifier":"II","band":"9","col":"602"},
+  {"term":"Semasiologie","qualifier":"I","band":"9","col":"601"},
   {"term":"Sematologie","qualifier":"I","band":"9","col":"601"},
   {"term":"semeiologia","qualifier":"II","band":"9","col":"602"},
+  {"term":"semeiotica","qualifier":"II","band":null,"col":null},
   {"term":"Semiologie","qualifier":"","band":null,"col":null},
   {"term":"semiotica moralis","qualifier":"II","band":"9","col":"603"},
   {"term":"semiotica universalis","qualifier":"II","band":"9","col":"603"},
   {"term":"Signologie","qualifier":"I","band":"9","col":"601"},
   {"term":"Wissenschaft der Zeichen","qualifier":"II","band":"9","col":"604"},
-  {"term":"Zeichenreihe","qualifier":"","band":null,"col":null},
+  {"term":"Zeichenreihe","qualifier":"III (math.)","band":null,"col":null},
   {"term":"Zeichentheorie","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -209,7 +212,7 @@ HWPH.put("a/2865",
  ],
  "reg_authors":[
   {"name":"Hermann Armin","n":4},
-  {"name":"Meier-Oeser Stephan","n":29},
+  {"name":"Meier-Oeser Stephan","n":30},
   {"name":"Nöth Winfried","n":1}
  ]
 }

@@ -31,12 +31,13 @@ HWPH.put("a/1475",
  ],
  "outlinks":[{"id":570,"lemma":"Désintéressement","n":1}],
  "register":[
-  {"term":"das","qualifier":"","band":"4","col":"479–494"},
   {"term":"Dogmatiker/Idealisten","qualifier":"II","band":"4","col":"491"},
+  {"term":"Einzelinteresse","qualifier":"II","band":"4","col":"486"},
   {"term":"endeavour","qualifier":"II","band":"4","col":"485"},
   {"term":"Epoché","qualifier":"II","band":"4","col":"493"},
   {"term":"Erkenntnisinteresse","qualifier":"II","band":"4","col":"493"},
   {"term":"Gift der Tugend","qualifier":"I","band":null,"col":null},
+  {"term":"Gute","qualifier":"I","band":null,"col":null},
   {"term":"Idealisten/Dogmatiker","qualifier":"II","band":"4","col":"491"},
   {"term":"intéressant","qualifier":"I","band":"4","col":"483"},
   {"term":"Interesse der Vernunft","qualifier":"II","band":"4","col":"488"},
@@ -258,7 +259,12 @@ HWPH.put("a/1475",
   {"id":1189,"lemma":"Großmut","tf":2},
   {"id":290,"lemma":"Aufmerksamkeit","tf":4}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":570,"lemma":"Désintéressement"},
+  {"id":664,"lemma":"Eigennutz"},
+  {"id":2177,"lemma":"Nutzen, Nützlichkeit, das Nützliche, nützlich"},
+  {"id":3316,"lemma":"Unparteilichkeit"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Interesse"},
   {"id":42,"name":"Soziologie","label":"Interesse"}

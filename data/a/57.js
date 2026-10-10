@@ -22,6 +22,6 @@ HWPH.put("a/57",
  "mentions":[],
  "see_also":[{"id":380,"lemma":"Bejahung"},{"id":2545,"lemma":"Qualität des Urteils"}],
  "groups":[{"id":22,"name":"Logik","label":"Affirmativ"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

@@ -24,8 +24,7 @@ HWPH.put("a/699",
  "register":[
   {"term":"nausée","qualifier":"","band":null,"col":null},
   {"term":"trop","qualifier":"","band":"2","col":"432"},
-  {"term":"Zuviel","qualifier":"","band":"2","col":"432"},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Zuviel","qualifier":"","band":"2","col":"432"}
  ],
  "persons":[
   {"id":75,"name":"J.-P. Sartre","b":2,"n":0,"l":0,"editor":0,"role":"source"},

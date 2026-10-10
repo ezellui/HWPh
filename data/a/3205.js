@@ -29,14 +29,9 @@ HWPH.put("a/3205",
   {"term":"geometria situs","qualifier":"","band":"10","col":"1289"},
   {"term":"Grenzpunkt","qualifier":"","band":"10","col":"1290"},
   {"term":"Häufungspunkt","qualifier":"","band":"10","col":"1290"},
-  {"term":"Modelltheorie I (log.)","qualifier":"","band":null,"col":null},
   {"term":"Ort, logischer","qualifier":"","band":null,"col":null},
-  {"term":"Ortschaft des Seins","qualifier":"","band":null,"col":null},
-  {"term":"Raumwahrnehmung Raum, topologischer","qualifier":"","band":"10","col":"1290"},
-  {"term":"Sein, Topologie des","qualifier":"","band":null,"col":null},
-  {"term":"Seinsfrage","qualifier":"","band":null,"col":null},
-  {"term":"Transformation (math.)","qualifier":"","band":"10","col":"1289"},
-  {"term":"Wahrheit des Seins","qualifier":"","band":null,"col":null}
+  {"term":"Raum, topologischer","qualifier":"","band":"10","col":"1290"},
+  {"term":"Transformation (math.)","qualifier":"","band":"10","col":"1289"}
  ],
  "persons":[
   {"id":384,"name":"G. Cantor","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -79,6 +74,6 @@ HWPH.put("a/3205",
   {"id":7,"name":"Disziplinen und Fächer","label":"Topologie"},
   {"id":24,"name":"Mathematik","label":"Topologie"}
  ],
- "reg_authors":[{"name":"Mainzer Klaus","n":21},{"name":"Schlegel Frank","n":4}]
+ "reg_authors":[{"name":"Mainzer Klaus","n":21}]
 }
 );

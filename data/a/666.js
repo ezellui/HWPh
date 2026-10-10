@@ -34,6 +34,7 @@ HWPH.put("a/666",
   {"id":671,"lemma":"Eigenwille, Eigensinn","n":1}
  ],
  "register":[
+  {"term":"accidens logicum","qualifier":"I (met.)","band":"2","col":"334"},
   {"term":"appropriatio","qualifier":"II (theol.)","band":null,"col":null},
   {"term":"attributum","qualifier":"I (met.)","band":"2","col":"334"},
   {"term":"Besitz","qualifier":"II (theol.)","band":null,"col":null},
@@ -49,13 +50,7 @@ HWPH.put("a/666",
   {"term":"Selbstbezogenheit","qualifier":"II (theol.)","band":null,"col":null},
   {"term":"trait-centered","qualifier":"III (psych.)","band":"2","col":"338"},
   {"term":"Verhaltenseigenschaft","qualifier":"III (psych.)","band":null,"col":null},
-  {"term":"Wesenseigenschaft (psych.)","qualifier":"III (psych.)","band":null,"col":null},
-  {
-   "term":"– I (allg.) 7 345–352 – II (psych.) 7 352–354 s. auch",
-   "qualifier":"III (psych.)",
-   "band":null,
-   "col":null
-  }
+  {"term":"Wesenseigenschaft (psych.)","qualifier":"III (psych.)","band":null,"col":null}
  ],
  "persons":[
   {"id":562,"name":"G. W. Allport","b":3,"n":2,"l":1,"editor":0,"role":"mixed"},
@@ -140,7 +135,25 @@ HWPH.put("a/666",
   {"id":1930,"lemma":"Merkmal","tf":2},
   {"id":3406,"lemma":"Verhalten","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":427,"lemma":"Beziehung, interne/externe"},
+  {"id":1930,"lemma":"Merkmal"},
+  {"id":2485,"lemma":"Proprium"},
+  {"id":2544,"lemma":"Qualität"},
+  {"id":3062,"lemma":"Substanz; Substanz/Akzidens"},
+  {"id":3595,"lemma":"Wesen"},
+  {"id":3599,"lemma":"Wesenseigenschaft"},
+  {"id":118,"lemma":"Amour-propre, amour de soi(-même)"},
+  {"id":565,"lemma":"Desappropriatio, expropriatio (sui)"},
+  {"id":671,"lemma":"Eigenwille, Eigensinn"},
+  {"id":2480,"lemma":"Properheit"},
+  {"id":2839,"lemma":"Selbstheit"},
+  {"id":429,"lemma":"Bezugssystem"},
+  {"id":488,"lemma":"Charakterologie"},
+  {"id":613,"lemma":"Disposition"},
+  {"id":1120,"lemma":"Gestaltqualität"},
+  {"id":1216,"lemma":"Halo"}
+ ],
  "groups":[
   {"id":26,"name":"Metaphysik","label":"Eigenschaft I (met.)"},
   {"id":27,"name":"Mystik","label":"Eigenschaft II (theol.)"},

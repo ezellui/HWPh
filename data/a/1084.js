@@ -18,7 +18,10 @@ HWPH.put("a/1084",
  "backlinks":[{"id":3389,"lemma":"Verdammung; Verwerfung","n":1},{"id":3612,"lemma":"Wiederbringung","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Absolute","qualifier":"","band":null,"col":null},
   {"term":"Endgericht","qualifier":"","band":"3","col":"339f."},
+  {"term":"Gottes Gericht","qualifier":"","band":null,"col":null},
+  {"term":"Jüngstes Gericht","qualifier":"","band":null,"col":null},
   {"term":"Weltgericht","qualifier":"","band":null,"col":null}
  ],
  "persons":[

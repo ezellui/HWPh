@@ -17,15 +17,7 @@ HWPH.put("a/713",
  "next":{"id":714,"lemma":"Emanation","band":"2","col":445},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Minderheit, schöpferische","qualifier":"","band":"2","col":"444"},
-  {
-   "term":"– I (erk.) 4 445–447 – II (soz.) 4 447f. – III (russ.) 4 448–452 – IV (marx.) 4 452–454 – V (soz.) 4 454–458 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"Minderheit, schöpferische","qualifier":"","band":"2","col":"444"}],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":137,"name":"W. I. Lenin","b":2,"n":0,"l":0,"editor":0,"role":"source"},

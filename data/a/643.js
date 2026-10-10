@@ -18,7 +18,7 @@ HWPH.put("a/643",
  "backlinks":[{"id":3670,"lemma":"Zahl; Zählen","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Mesotes","qualifier":"","band":"2","col":"302"},
+  {"term":"Überschuss/Mangel","qualifier":"","band":"2","col":"302"},
   {"term":"δυάς","qualifier":"","band":null,"col":null}
  ],
  "persons":[

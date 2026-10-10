@@ -20,6 +20,7 @@ HWPH.put("a/2725",
  "register":[
   {"term":"Blödigkeit","qualifier":"","band":"8","col":"1088"},
   {"term":"retour aux origines","qualifier":"","band":null,"col":null},
+  {"term":"Romantizismus","qualifier":"","band":"8","col":"1089"},
   {"term":"Rückkehr zu den Ursprüngen","qualifier":"","band":null,"col":null}
  ],
  "persons":[

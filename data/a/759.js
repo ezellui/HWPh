@@ -41,10 +41,7 @@ HWPH.put("a/759",
   {"term":"evolutio","qualifier":"I (allg.)","band":"2","col":"550"},
   {"term":"explicatio","qualifier":"I (allg.)","band":"2","col":"551"},
   {"term":"involutio","qualifier":"I (allg.)","band":"2","col":"550"},
-  {"term":"Weltgeschichte","qualifier":"I (allg.)","band":"2","col":"555"},
-  {"term":"– I (allg.) 2 550–557 s. auch","qualifier":"","band":"2","col":"557–560"},
-  {"term":"– II (psych.) 1 325 s. auch","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"– II (psych.) 2 239–242 s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"Weltgeschichte","qualifier":"I (allg.)","band":"2","col":"555"}
  ],
  "persons":[
   {"id":366,"name":"H. Thomae","b":2,"n":2,"l":1,"editor":0,"role":"mixed"},
@@ -171,7 +168,17 @@ HWPH.put("a/759",
   {"id":946,"lemma":"Freiheit","tf":5},
   {"id":3553,"lemma":"Weisheit","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":770,"lemma":"Epigenesis"},
+  {"id":853,"lemma":"Evolutionstheorie"},
+  {"id":942,"lemma":"Fortschritt"},
+  {"id":2367,"lemma":"Phylogenese"},
+  {"id":2499,"lemma":"Prozeß"},
+  {"id":762,"lemma":"Entwicklungspsychologie"},
+  {"id":2350,"lemma":"Phase"},
+  {"id":2509,"lemma":"Psychogenese, Psychophylogenese"},
+  {"id":2515,"lemma":"Psychologie, genetische"}
+ ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Entwicklung I (allg.)"},
   {"id":26,"name":"Metaphysik","label":"Entwicklung I (allg.)"},

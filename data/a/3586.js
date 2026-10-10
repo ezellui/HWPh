@@ -46,15 +46,16 @@ HWPH.put("a/3586",
  "register":[
   {"term":"animal symbolicum","qualifier":"","band":"12","col":"550"},
   {"term":"Arbeit","qualifier":"","band":"12","col":"549"},
-  {"term":"ästhetische 12 139 Kunstwerk","qualifier":"","band":"12","col":"551"},
   {"term":"factum","qualifier":"","band":"12","col":"549"},
   {"term":"Ich-Du-Verhältnis","qualifier":"","band":"12","col":"550f."},
   {"term":"Kultur","qualifier":"","band":"12","col":"550"},
   {"term":"Kultur, subjektive/objektive","qualifier":"","band":"12","col":"550"},
-  {"term":"noeseos 6 871","qualifier":"","band":"12","col":"548"},
+  {"term":"Kunstwerk","qualifier":"","band":"12","col":"551"},
   {"term":"opus","qualifier":"","band":null,"col":null},
+  {"term":"Selbstbildung","qualifier":"","band":"12","col":"548"},
   {"term":"Symbol","qualifier":"","band":"12","col":"550"},
   {"term":"work","qualifier":"","band":null,"col":null},
+  {"term":"ἐνέργεια","qualifier":"","band":"12","col":"548"},
   {"term":"ἔργον","qualifier":"","band":null,"col":null}
  ],
  "persons":[

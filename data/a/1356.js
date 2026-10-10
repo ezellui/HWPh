@@ -17,10 +17,7 @@ HWPH.put("a/1356",
  "next":{"id":1357,"lemma":"Idealtypus","band":"4","col":47},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Spinozismus, verklärter","qualifier":"","band":"4","col":"44"},
-  {"term":"transzendentaler; Realismus, empirischer (Kant)","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Spinozismus, verklärter","qualifier":"","band":"4","col":"44"}],
  "persons":[
   {"id":117,"name":"F. H. Jacobi","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

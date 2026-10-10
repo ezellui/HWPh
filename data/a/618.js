@@ -20,7 +20,8 @@ HWPH.put("a/618",
  "register":[
   {"term":"Besetzung, emotionale","qualifier":"","band":"2","col":"270"},
   {"term":"emotionale Besetzung","qualifier":"","band":"2","col":"270"},
-  {"term":"Instrumentalität/Expressivität","qualifier":"","band":"2","col":"270"}
+  {"term":"Instrumentalität/Expressivität","qualifier":"","band":"2","col":"270"},
+  {"term":"Insulation","qualifier":"","band":"2","col":"270"}
  ],
  "persons":[
   {"id":5163,"name":"H. Miller","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},

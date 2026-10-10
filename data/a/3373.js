@@ -27,9 +27,9 @@ HWPH.put("a/3373",
  ],
  "outlinks":[{"id":125,"lemma":"Analyse","n":1},{"id":2554,"lemma":"Quantor, Quantifikator","n":1}],
  "register":[
+  {"term":"Buchstaben","qualifier":"","band":"11","col":"547"},
   {"term":"Unbekannte","qualifier":"","band":null,"col":null},
-  {"term":"Veränderliche","qualifier":"","band":"11","col":"547"},
-  {"term":"– I (math.) 2 1138–1140 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Veränderliche","qualifier":"","band":"11","col":"547"}
  ],
  "persons":[
   {"id":120,"name":"W. V. O. Quine","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -89,6 +89,6 @@ HWPH.put("a/3373",
   {"id":3150,"lemma":"Term"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Variable"}],
- "reg_authors":[{"name":"Pulte Helmut","n":11},{"name":"Red","n":242},{"name":"Stekeler-Weithofer Pirmin","n":19}]
+ "reg_authors":[{"name":"Pulte Helmut","n":11},{"name":"Red","n":241},{"name":"Stekeler-Weithofer Pirmin","n":19}]
 }
 );

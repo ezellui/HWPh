@@ -24,7 +24,7 @@ HWPH.put("a/2280",
  "outlinks":[],
  "register":[
   {"term":"sanioritas","qualifier":"","band":null,"col":null},
-  {"term":"Wahl (pol.)","qualifier":"","band":null,"col":null}
+  {"term":"Wahl (pol.)","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":4419,"name":"F. Elsener","b":0,"n":7,"l":0,"editor":0,"role":"scholar"},
@@ -58,6 +58,6 @@ HWPH.put("a/2280",
  ],
  "see_also":[],
  "groups":[{"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Pars sanior/maior"}],
- "reg_authors":[{"name":"Pieperhoff Sabina","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Pieperhoff Sabina","n":1},{"name":"Red","n":241}]
 }
 );

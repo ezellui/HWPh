@@ -4,11 +4,20 @@ HWPH.put("r/3c6-3c5",
   "φυγή","Vita activa/contemplativa","","11","1072","ref",3469,"Vita activa/vita contemplativa",
   "φυγη"
  ],
- ["φυσικοί","Vorsokratiker","","11","1223","ref",3502,"Vorsokratisch; Vorsokratiker","φυσικοι"],
  [
-  "φυσιογνωμία","Physiognomik Physiognomie","",null,null,"ref",2371,"Physiognomik, Physiognomie",
-  "φυσιογνωμια"
+  "φύσει/θέσει","Physis/Nomos; Physis/Thesis","",null,null,"ref",2374,"Physis/Nomos, Physis/Thesis",
+  "φυσει/θεσει"
  ],
+ ["φύσει/θέσει","Arbiträr","(Saussure)","1","492","ref",235,"Arbiträr","φυσει/θεσει"],
+ ["φύσει/θέσει","Name","I","6","366","ref",2066,"Name","φυσει/θεσει"],
+ [
+  "φύσει/θέσει","Positiv; Positivität","I","7","1108","ref",2408,"Positiv, Positivität",
+  "φυσει/θεσει"
+ ],
+ ["φυσικοί","Vorsokratiker","","11","1223","ref",3502,"Vorsokratisch; Vorsokratiker","φυσικοι"],
+ ["φυσιογνωμία","Physiognomik","",null,null,"ref",2371,"Physiognomik, Physiognomie","φυσιογνωμια"],
+ ["φυσιολογία","Naturphilosophie","I","6","535","ref",2088,"Naturphilosophie","φυσιολογια"],
+ ["φυσιολογία","Naturphilosophie","III","6","545","ref",2088,"Naturphilosophie","φυσιολογια"],
  ["φυσιολόγοι","Naturphilosophie","I","6","535","ref",2088,"Naturphilosophie","φυσιολογοι"],
  ["φυσιολόγοι","Vorsokratiker","","11","1223","ref",3502,"Vorsokratisch; Vorsokratiker","φυσιολογοι"],
  ["φύσις","Natur","",null,null,"ref",2074,"Natur","φυσισ"],

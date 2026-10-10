@@ -41,7 +41,6 @@ HWPH.put("r/61-71",
   "Zweideutigkeit; Vieldeutigkeit","aquivok"
  ],
  ["Äquivokation","Mentalreservation","","5","1140ff.","ref",1927,"Mentalreservation","aquivokation"],
- ["aqua ardens","Quintessenz","","7","1839","ref",2559,"Quintessenz","aqua ardens"],
- ["Äquipollenz","Äquipollenz","",null,null,"main",226,"Äquipollenz","aquipollenz"]
+ ["aqua ardens","Quintessenz","","7","1839","ref",2559,"Quintessenz","aqua ardens"]
 ]
 );

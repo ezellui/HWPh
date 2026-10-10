@@ -1,15 +1,5 @@
 HWPH.put("r/74-61",
 [
- ["Tat tvam asi","Tat tvam asi","","10","919","main",3132,"Tat tvam asi","tat tvam asi"],
- ["Tautologie","Tautologie","","10","933","main",3137,"Tautologie","tautologie"],
- [
-  "Tagesansicht/Nachtansicht","Tagesansicht/Nachtansicht","(Fechner)",null,null,"main",3121,
-  "Tagesansicht/Nachtansicht","tagesansicht/nachtansicht"
- ],
- [
-  "Tagesansicht/Nachtansicht","Pessimismus","","7","389","ref",2331,"Pessimismus",
-  "tagesansicht/nachtansicht"
- ],
  ["Tabu","Tabu","","10","877–879","main",3120,"Tabu","tabu"],
  ["tabula rasa","Abbildtheorie","","1","1","ref",18,"Abbildtheorie","tabula rasa"],
  ["tabula rasa","Disposition","I (erk.)","2","263f.","ref",613,"Disposition","tabula rasa"],
@@ -55,6 +45,11 @@ HWPH.put("r/74-61",
  ["Täuschung","Paralogismus","","7","113","ref",2273,"Paralogismus","tauschung"],
  ["Täuschung","Selbsterkenntnis","III","9","435","ref",2833,"Selbsterkenntnis","tauschung"],
  ["Täuschung (ind.)","Māyā Täuschung, optische","",null,null,"ref",null,null,"tauschung (ind.)"],
+ [
+  "Tafel der Kategorien","Kategorie; Kategorienlehre","",null,null,"ref",1540,
+  "Kategorie, Kategorienlehre","tafel der kategorien"
+ ],
+ ["Tafel der Laster","Lasterkatalog","",null,null,"ref",1730,"Lasterkatalog","tafel der laster"],
  ["Tafel der Urteile","Urteil","III (Formen)",null,null,"ref",3355,"Urteil","tafel der urteile"],
  ["Tag","Vanitas mundi","","11","543","ref",3372,"Vanitas mundi","tag"],
  ["Tag","Zeit","II A","12","1191f.","ref",3676,"Zeit","tag"],
@@ -69,7 +64,7 @@ HWPH.put("r/74-61",
   "Makrokosmos/Mikrokosmos","tagesansicht/nachtansicht (fechner)"
  ],
  [
-  "Tagesbedürfnisse","Unzeitgemäss (Nietzsche)","","11","348","ref",3336,"Unzeitgemäß",
+  "Tagesbedürfnisse","Unzeitgemäss","(Nietzsche)","11","348","ref",3336,"Unzeitgemäß",
   "tagesbedurfnisse"
  ],
  [
@@ -137,14 +132,14 @@ HWPH.put("r/74-61",
  ["Tathandlung","Absolut; das Absolute","","1","21","ref",27,"Absolut, das Absolute","tathandlung"],
  ["Tathandlung","Bewusstsein","","1","892","ref",412,"Bewußtsein","tathandlung"],
  ["Tathandlung","Denken","I","2","88","ref",552,"Denken","tathandlung"],
- ["Tathandlung","Erkenntnis I (erk.)","","2","655","ref",796,"Erkennen, Erkenntnis","tathandlung"],
+ ["Tathandlung","Erkenntnis","I (erk.)","2","655","ref",796,"Erkennen, Erkenntnis","tathandlung"],
  ["Tathandlung","Gegensatz","I (met.)","3","112","ref",1018,"Gegensatz","tathandlung"],
  ["Tathandlung","Methode, genetische","","5","1343","ref",1959,"Methode, genetische","tathandlung"],
  ["Tathandlung","Unbedingte, das","","11","109","ref",3280,"Unbedingte, das","tathandlung"],
  ["Tathandlung","Wissen","V","12","887","ref",3634,"Wissen","tathandlung"],
  [
-  "Tatonnement, reproduktives","Erkenntnis II (psych.)","","2","670","ref",796,
-  "Erkennen, Erkenntnis","tatonnement, reproduktives"
+  "Tatonnement, reproduktives","Erkenntnis","II (psych.)","2","670","ref",796,"Erkennen, Erkenntnis",
+  "tatonnement, reproduktives"
  ],
  ["Tatsache","Tatsache","","10","910–916","main",3130,"Tatsache","tatsache"],
  ["Tatsache","Sachverhalt","",null,null,"see",2732,"Sachverhalt","tatsache"],
@@ -182,9 +177,16 @@ HWPH.put("r/74-61",
  ["Tatsachen/Werte","Wert","V","12","576f.","ref",3588,"Wert","tatsachen/werte"],
  ["Tatsachen, idealisierte","Axiomatik","","1","750","ref",341,"Axiomatik","tatsachen, idealisierte"],
  [
-  "Tatsachenerklärung","Erklären II (wiss.) Tatsachenwahrheit","",null,null,"ref",null,null,
+  "Tatsachenerklärung","Erklären","II (wiss.)",null,null,"ref",801,"Erklären, Erklärung",
   "tatsachenerklarung"
  ],
+ [
+  "Tatsachenwahrheit","Vernunftwahrheiten/Tatsachenwahrheiten","",null,null,"ref",3427,
+  "Vernunftwahrheiten/Tatsachenwahrheiten","tatsachenwahrheit"
+ ],
+ ["Tatsachenwahrheit","Denken","I","2","82","ref",552,"Denken","tatsachenwahrheit"],
+ ["Tatsachenwahrheit","Voluntarismus","","11","1144","ref",3486,"Voluntarismus","tatsachenwahrheit"],
+ ["Tatsachenwahrheit","Wissen","IV","12","882","ref",3634,"Wissen","tatsachenwahrheit"],
  [
   "tatsachenwidrige Annahme","Annahme, tatsachenwidrige","",null,null,"ref",155,
   "Annahme, tatsachenwidrige","tatsachenwidrige annahme"
@@ -251,6 +253,9 @@ HWPH.put("r/74-61",
  ],
  ["Tautousie","Trinität","II","10","1512","ref",3231,"Trinität","tautousie"],
  ["Taylorismus","Taylorismus","","10","939f.","main",3138,"Taylorismus","taylorismus"],
- ["Taylorismus","Rationalität II (ökon.) τέχνη","",null,null,"see",null,null,"taylorismus"]
+ [
+  "Taylorismus","Rationalität","II (ökon.)",null,null,"see",2576,"Rationalität, Rationalisierung",
+  "taylorismus"
+ ]
 ]
 );

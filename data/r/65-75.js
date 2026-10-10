@@ -48,11 +48,6 @@ HWPH.put("r/65-75",
  ["Euthanasie","Sterben lernen","","10","130","ref",3018,"Sterben lernen","euthanasie"],
  ["Euthymie","Lust; Freude","I","5","553f.","ref",1837,"Lust, Freude","euthymie"],
  ["Euvitalismus","Biologismus","","1","944","ref",440,"Biologismus","euvitalismus"],
- ["Eusebiologie","Eusebiologie","",null,null,"main",848,"Eusebiologie","eusebiologie"],
- [
-  "Eusebiologie","Religionsphilosophie","","8","748","ref",2679,"Religionsphilosophie",
-  "eusebiologie"
- ],
  [
   "Euchner Walter","Gesellschaftsvertrag; Herrschaftsvertrag","","3","476–480","author",1104,
   "Gesellschaftsvertrag, Herrschaftsvertrag","euchner walter"

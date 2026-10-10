@@ -36,6 +36,7 @@ HWPH.put("a/2881",
   {"term":"securitas","qualifier":"","band":null,"col":null},
   {"term":"Sorgenfreiheit","qualifier":"","band":"9","col":"745"},
   {"term":"soziale Sicherheit","qualifier":"","band":"9","col":"749"},
+  {"term":"vacuitas aegritudinis","qualifier":"","band":"9","col":"745"},
   {"term":"Wohlfahrt","qualifier":"","band":"9","col":"748"}
  ],
  "persons":[

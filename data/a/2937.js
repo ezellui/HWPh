@@ -151,6 +151,6 @@ HWPH.put("a/2937",
   {"id":2960,"lemma":"Soziologie"}
  ],
  "groups":[{"id":42,"name":"Soziologie","label":"Sozial; das Soziale"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

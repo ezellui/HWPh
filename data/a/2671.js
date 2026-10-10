@@ -20,6 +20,7 @@ HWPH.put("a/2671",
  "register":[
   {"term":"absolut","qualifier":"","band":"8","col":"616"},
   {"term":"Kulturrelativismus","qualifier":"","band":"8","col":"619"},
+  {"term":"Relationismus","qualifier":"","band":"8","col":"614"},
   {"term":"Subjektivismus","qualifier":"","band":"8","col":"617"}
  ],
  "persons":[

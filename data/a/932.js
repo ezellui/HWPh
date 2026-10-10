@@ -19,9 +19,7 @@ HWPH.put("a/932",
  "outlinks":[],
  "register":[
   {"term":"Assoziation","qualifier":"","band":"2","col":"972"},
-  {"term":"klar","qualifier":"","band":"2","col":"972"},
-  {"term":"– I (päd.) 5 241–245 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (ästh.) 2 968–971 s. auch","qualifier":"","band":"2","col":"971"}
+  {"term":"klar","qualifier":"","band":"2","col":"972"}
  ],
  "persons":[
   {"id":77,"name":"J. F. Herbart","b":3,"n":1,"l":0,"editor":0,"role":"source"},

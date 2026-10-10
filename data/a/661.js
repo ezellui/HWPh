@@ -25,8 +25,7 @@ HWPH.put("a/661",
   {"term":"Abbild","qualifier":"","band":null,"col":null},
   {"term":"Abdruck","qualifier":"","band":"2","col":"330"},
   {"term":"ἔιδωλα","qualifier":"","band":null,"col":null},
-  {"term":"ἐικών","qualifier":"","band":null,"col":null},
-  {"term":"– II (erk.) 1 915–919 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἐικών","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":2,"n":2,"l":0,"editor":0,"role":"source"},

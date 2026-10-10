@@ -17,17 +17,14 @@ HWPH.put("a/1060",
  "next":{"id":1061,"lemma":"Generalisator","band":"3","col":269},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"des Urteils 6 13","qualifier":"","band":"3","col":"269"},
-  {"term":"Reiz- und Reaktionsverallgemeinerung","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Reiz- und Reaktionsverallgemeinerung","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1982,"name":"H. Hörmann","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},
   {"id":23966,"name":"K. Eyferth","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":1120,"name":"R. Bergius","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2582,"lemma":"Reaktion, bedingte","tf":6}],
- "see_also":[],
+ "see_also":[{"id":2582,"lemma":"Reaktion, bedingte"},{"id":2662,"lemma":"Reiz und Reaktion"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Generalisation"}],
  "reg_authors":[{"name":"Bergius Rudolf","n":8}]
 }

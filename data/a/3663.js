@@ -117,6 +117,6 @@ HWPH.put("a/3663",
   {"id":3351,"lemma":"Ursprache"}
  ],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Wurzelwort; Stammwort; Urwort X"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

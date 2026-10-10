@@ -38,8 +38,8 @@ HWPH.put("a/1700",
  "register":[
   {"term":"cultus","qualifier":"","band":null,"col":null},
   {"term":"Fetischdienst","qualifier":"","band":"4","col":"1305"},
-  {"term":"Herz","qualifier":"","band":"4","col":"1305"},
   {"term":"Liturgie","qualifier":"","band":null,"col":null},
+  {"term":"Versöhnung","qualifier":"","band":"4","col":"1305"},
   {"term":"λειτουργία","qualifier":"","band":"4","col":"1300"}
  ],
  "persons":[

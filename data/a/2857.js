@@ -17,10 +17,7 @@ HWPH.put("a/2857",
  "next":{"id":2858,"lemma":"Seligkeit der Heiden","band":"9","col":570},
  "backlinks":[],
  "outlinks":[{"id":850,"lemma":"Evidenz","n":1}],
- "register":[
-  {"term":"Selbstevidenz","qualifier":"","band":null,"col":null},
-  {"term":"– I (erk.) 2 829–832 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Selbstevidenz","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":20,"name":"J. Locke","b":0,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":232,"name":"J. Mittelstrass","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -29,6 +26,6 @@ HWPH.put("a/2857",
  "mentions":[],
  "see_also":[{"id":850,"lemma":"Evidenz"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Self-evidence"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

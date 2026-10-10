@@ -52,7 +52,11 @@ HWPH.put("a/3478",
   {"id":20763,"name":"Th. Hauschild","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":3472,"lemma":"Volk","tf":2},{"id":3635,"lemma":"Wissenschaft","tf":2}],
- "see_also":[{"id":1240,"lemma":"Heimat, Heimatkunde"},{"id":1702,"lemma":"Kulturanthropologie"}],
+ "see_also":[
+  {"id":1240,"lemma":"Heimat, Heimatkunde"},
+  {"id":1702,"lemma":"Kulturanthropologie"},
+  {"id":3480,"lemma":"Volkstum"}
+ ],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Volkskunde"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Volkskunde"},

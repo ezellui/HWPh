@@ -1,11 +1,8 @@
 HWPH.put("r/68-79",
 [
- ["Hypnose","Hypnose","","3","1248","main",1325,"Hypnose","hypnose"],
  ["Hybris","Hybris","","3","1234–1236","main",1318,"Hybris","hybris"],
  ["Hybris","Hochmut","",null,null,"see",1286,"Hochmut","hybris"],
- ["Hybris","Verblendung ὕβρις","",null,null,"see",null,null,"hybris"],
- ["Hybris","Hybris","",null,null,"main",1318,"Hybris","hybris"],
- ["Hybris","Verachtung","","11","563","ref",3379,"Verachtung; Mißachtung","hybris"],
+ ["Hybris","Verblendung","",null,null,"see",3383,"Verblendung; Verblendungszusammenhang","hybris"],
  ["Hydrosphäre","Kreis; Kugel","","4","1214","ref",1687,"Kreis und Kugel","hydrosphare"],
  [
   "Hygiene, soziale","Sozialhygiene; Sozialmedizin","",null,null,"ref",2944,
@@ -21,7 +18,10 @@ HWPH.put("r/68-79",
   "Hylemorphismus","Einheit und Vielheit der Wesensform","",null,null,"see",684,
   "Einheit und Vielheit der Wesensform","hylemorphismus"
  ],
- ["Hylemorphismus","Form und Materie ὑλικὴοὐσία","",null,null,"see",null,null,"hylemorphismus"],
+ [
+  "Hylemorphismus","Form und Materie","",null,null,"see",939,"Form und Materie (Stoff)",
+  "hylemorphismus"
+ ],
  ["Hylogenese","Hylogenese","","3","1237","main",1321,"Hylogenese","hylogenese"],
  ["Hylozoismus","Hylozoismus","","3","1237f.","main",1322,"Hylozoismus","hylozoismus"],
  ["Hylozoismus","Panpsychismus","I","7","50","ref",2263,"Panpsychismus","hylozoismus"],
@@ -32,13 +32,14 @@ HWPH.put("r/68-79",
   "hyperarithmetisch definierbar"
  ],
  ["Hyperbel","Tropen; Tropos","","10","1520","ref",3233,"Tropen; Tropos","hyperbel"],
- ["Hyperempirismus","Dialektik","IV",null,null,"ref",583,"Dialektik","hyperempirismus"],
+ ["Hyperempirismus","Dialektik","IV 7. 4","2","221","ref",583,"Dialektik","hyperempirismus"],
  [
   "Hyperextensionalismus","Nominalismus","II","6","887","ref",2150,"Nominalismus",
   "hyperextensionalismus"
  ],
  ["Hypermoral","Hypermoral","(Gehlen)","3","1238f.","main",1323,"Hypermoral","hypermoral"],
  ["Hypermoral","Gesinnungsethik","(Scheler)",null,null,"see",1115,"Gesinnungsethik","hypermoral"],
+ ["Hyperphanie","Theophanie","","10","1117","ref",3177,"Theophanie","hyperphanie"],
  [
   "Hyperphysisch","Hyperphysisch","","3","1239–1241","main",1324,"Hyperphysisch, Hyperphysik",
   "hyperphysisch"
@@ -48,7 +49,14 @@ HWPH.put("r/68-79",
   "hyperphysisch"
  ],
  ["Hyperphysisch","Überseiend","",null,null,"see",3264,"Überseiend; überwesentlich","hyperphysisch"],
- ["Hyperphysisch","Übersinnlich Hyperpsychologismus","",null,null,"see",null,null,"hyperphysisch"],
+ [
+  "Hyperphysisch","Übersinnlich","",null,null,"see",3265,"Übersinnlich; das Übersinnliche",
+  "hyperphysisch"
+ ],
+ [
+  "Hyperpsychologismus","Wahrheit, ewige","","12","144","ref",3528,"Wahrheit, ewige",
+  "hyperpsychologismus"
+ ],
  ["Hyperrealität","Simulation","","9","796","ref",2886,"Simulation","hyperrealitat"],
  [
   "hypersthenisch","Asthenisch/sthenisch","","1","554","ref",265,"Asthenisch/sthenisch",
@@ -68,7 +76,9 @@ HWPH.put("r/68-79",
  ["hypnotischer Rapport","Übertragung","","11","66","ref",3266,"Übertragung","hypnotischer rapport"],
  ["Hypoästhesie","Hypochondrie","","3","1251","ref",1326,"Hypochondrie","hypoasthesie"],
  ["Hypochondrie","Hypochondrie","","3","1251f.","main",1326,"Hypochondrie","hypochondrie"],
- ["Hypochondrie","Hysterie Hypochondrie","",null,null,"see",null,null,"hypochondrie"],
+ ["Hypochondrie","Hysterie","",null,null,"see",1332,"Hysterie, hysterisch","hypochondrie"],
+ ["Hypochondrie","Melancholie","II","5","1040","ref",1915,"Melancholie","hypochondrie"],
+ ["Hypochondrie","Überdruss","","11","9","ref",3249,"Überdruß","hypochondrie"],
  ["hypochondrisch","Versenken","II","11","888","ref",3432,"Versenken","hypochondrisch"],
  ["Hypolepsis","Hypolepsis","","3","1252–1254","main",1327,"Hypolepsis","hypolepsis"],
  ["Hypolepsis","Annahme","",null,null,"see",154,"Annahme, Annehmen","hypolepsis"],
@@ -101,13 +111,13 @@ HWPH.put("r/68-79",
  ["Hypothese","Rettung der Phänomene","",null,null,"see",2701,"Rettung der Phänomene","hypothese"],
  ["Hypothese","Abduktion","(Peirce)",null,null,"ref",19,"Abduktion","hypothese"],
  ["Hypothese","Metaphysikkritik","I",null,null,"ref",1946,"Metaphysikkritik","hypothese"],
- ["Hypothese","Erklären I (Dilthey)","","2","691","ref",801,"Erklären, Erklärung","hypothese"],
+ ["Hypothese","Erklären","I (Dilthey)","2","691","ref",801,"Erklären, Erklärung","hypothese"],
  [
-  "Hypothese","Exhaustion; Variation (Dingler)","",null,null,"ref",858,"Exhaustion, Variation",
+  "Hypothese","Exhaustion; Variation","(Dingler)",null,null,"ref",858,"Exhaustion, Variation",
   "hypothese"
  ],
  [
-  "Hypothese","Invention; Erfindung III (log.)","","4","560","ref",1490,
+  "Hypothese","Invention; Erfindung","III (log.)","4","560","ref",1490,
   "Invention, Erfindung, Entdeckung","hypothese"
  ],
  ["Hypothese","Konjekturalsätze","","4","963","ref",1612,"Konjekturalsätze","hypothese"],
@@ -190,7 +200,6 @@ HWPH.put("r/68-79",
   "Hysteron/Proteron","Prius tempore/natura ὕστερον/πρότερον","",null,null,"see",2460,
   "Prius tempore/prius natura","hysteron/proteron"
  ],
- ["Hysterie","Hysterie","","3","1270","main",1332,"Hysterie, hysterisch","hysterie"],
  ["Hypnose","Hypnose","","3","1243","main",1325,"Hypnose","hypnose"]
 ]
 );

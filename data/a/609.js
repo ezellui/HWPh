@@ -61,6 +61,6 @@ HWPH.put("a/609",
   {"id":1648,"lemma":"Kontravalenz"}
  ],
  "groups":[{"id":22,"name":"Logik","label":"Disjunktion"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

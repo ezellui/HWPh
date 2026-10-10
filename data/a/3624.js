@@ -30,6 +30,7 @@ HWPH.put("a/3624",
  ],
  "register":[
   {"term":"arbitrium","qualifier":"","band":null,"col":null},
+  {"term":"insolentia","qualifier":"","band":null,"col":null},
   {"term":"libido","qualifier":"","band":"12","col":"809f."},
   {"term":"licentia","qualifier":"","band":null,"col":null},
   {"term":"Motiv","qualifier":"","band":"12","col":"811"},
@@ -83,6 +84,6 @@ HWPH.put("a/3624",
  ],
  "see_also":[{"id":3620,"lemma":"Wille"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Willkür"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

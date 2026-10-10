@@ -18,8 +18,8 @@ HWPH.put("a/3105",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"383","qualifier":"","band":"10","col":"782"},
-  {"term":"Ansicht, synechologische","qualifier":"","band":"10","col":"782"}
+  {"term":"Ansicht, synechologische","qualifier":"","band":"10","col":"782"},
+  {"term":"Kontinuum","qualifier":"","band":"10","col":"782"}
  ],
  "persons":[
   {"id":174,"name":"G. Th. Fechner","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -34,6 +34,6 @@ HWPH.put("a/3105",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":26,"name":"Metaphysik","label":"Synechologie"}],
- "reg_authors":[{"name":"Buck Günther","n":5},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Buck Günther","n":5},{"name":"Red","n":241}]
 }
 );

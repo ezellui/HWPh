@@ -1,6 +1,5 @@
 HWPH.put("r/75-6d",
 [
- ["Umwelt","Umwelt","","11","102","main",3278,"Umwelt","umwelt"],
  ["Umbenennung","Metonymie","",null,null,"ref",1969,"Metonymie","umbenennung"],
  [
   "Umbruch, geschichtlicher","Übergangsperiode","","11","33","ref",3254,
@@ -12,7 +11,7 @@ HWPH.put("r/75-6d",
  ],
  ["Umfang/Inhalt","Extension/Intension","",null,null,"ref",880,"Extension/Intension","umfang/inhalt"],
  [
-  "Umfang/Inhalt","Bestimmung; Determination II (log.)","","1","856","ref",400,
+  "Umfang/Inhalt","Bestimmung; Determination","II (log.)","1","856","ref",400,
   "Bestimmung, bestimmen, Determination","umfang/inhalt"
  ],
  ["Umfangsfremdheit","Verschiedenheit","","11","882","ref",3430,"Verschiedenheit","umfangsfremdheit"],
@@ -91,7 +90,7 @@ HWPH.put("r/75-6d",
  ["Umkehrung (log.)","Konversion","",null,null,"ref",1654,"Konversion","umkehrung (log.)"],
  ["Umkehrung (log.)","Beweis","","1","884","ref",410,"Beweis","umkehrung (log.)"],
  [
-  "Umkehrung (log.)","Irrtum","(Schlussfehler)","4","610","ref",1500,"Irrtum (Schlußfehler)",
+  "Umkehrung (log.)","Irrtum (Schlussfehler)","","4","610","ref",1500,"Irrtum (Schlußfehler)",
   "umkehrung (log.)"
  ],
  [
@@ -146,7 +145,9 @@ HWPH.put("r/75-6d",
   "Umstrukturierung; Umzentrierung","umstrukturierung"
  ],
  ["Umstrukturierung","Denkpsychologie","",null,null,"see",558,"Denkpsychologie","umstrukturierung"],
- ["Umstrukturierung","Einsicht II Umstülpung","",null,null,"see",null,null,"umstrukturierung"],
+ ["Umstrukturierung","Einsicht","II",null,null,"see",689,"Einsicht, einsichtig","umstrukturierung"],
+ ["Umstülpung","Verkehrung","",null,null,"ref",3412,"Verkehrung","umstulpung"],
+ ["Umstülpung","Widerspruch","","12","695","ref",3607,"Widerspruch","umstulpung"],
  ["Umsturz","Sklaverei","","9","979","ref",2909,"Sklaverei","umsturz"],
  ["Umsturz","Subversion","I","10","568","ref",3068,"Subversion","umsturz"],
  ["Umwälzung","Revolution","",null,null,"ref",2705,"Revolution","umwalzung"],
@@ -208,7 +209,11 @@ HWPH.put("r/75-6d",
   "Umwertung aller Werte (Nietzsche)","Malum","VI","5","699","ref",1852,"Malum",
   "umwertung aller werte (nietzsche)"
  ],
- ["Umzentrierung","Umstrukturierung Um-zu","",null,null,"ref",null,null,"umzentrierung"],
+ [
+  "Umzentrierung","Umstrukturierung","",null,null,"ref",3277,"Umstrukturierung; Umzentrierung",
+  "umzentrierung"
+ ],
+ ["Um-zu","Obszön","","6","1086","ref",2196,"Obszön","um-zu"],
  ["Um-zu-Struktur","Zeug","(Heidegger)","12","1316","ref",3691,"Zeug","um-zu-struktur"]
 ]
 );

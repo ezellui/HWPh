@@ -125,6 +125,6 @@ HWPH.put("a/2722",
   {"id":42,"name":"Soziologie","label":"Rolle II"},
   {"id":45,"name":"Topoi und Metaphern","label":"Rolle I"}
  ],
- "reg_authors":[{"name":"Konersmann Ralf","n":19},{"name":"Red","n":242},{"name":"Sachsse Tilman","n":1}]
+ "reg_authors":[{"name":"Konersmann Ralf","n":19},{"name":"Red","n":241},{"name":"Sachsse Tilman","n":1}]
 }
 );

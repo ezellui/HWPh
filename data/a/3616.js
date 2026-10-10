@@ -46,23 +46,23 @@ HWPH.put("a/3616",
   {"id":3717,"lemma":"Zwang","n":1}
  ],
  "register":[
-  {"term":"(Heidegger) 3 1202","qualifier":"","band":"12","col":"740ff."},
   {"term":"Anamnesis","qualifier":"","band":"12","col":"740"},
-  {"term":"das 1 993","qualifier":"","band":"12","col":"740"},
+  {"term":"Charakteristische, das","qualifier":"","band":"12","col":"740"},
   {"term":"Dialektik der Wiederholung","qualifier":"","band":"12","col":"739f."},
   {"term":"Entschlossenheit","qualifier":"","band":"12","col":"742"},
   {"term":"Erinnerung","qualifier":"","band":"12","col":"740"},
   {"term":"Erwiderung","qualifier":"","band":"12","col":"743"},
   {"term":"Ewigkeit","qualifier":"","band":"12","col":"741"},
   {"term":"existenzielles Seinkönnen","qualifier":"","band":"12","col":"742"},
-  {"term":"performativer Selbstwiederholung","qualifier":"","band":"12","col":"739ff."},
   {"term":"Prolepsis","qualifier":"","band":"12","col":"741"},
   {"term":"redintegratio in statum pristinum","qualifier":"","band":"12","col":"739ff."},
   {"term":"repetition","qualifier":"","band":null,"col":null},
   {"term":"Schuld","qualifier":"","band":"12","col":"739ff."},
   {"term":"Seinkönnen, existenzielles","qualifier":"","band":"12","col":"742"},
+  {"term":"Selbstwiederholung","qualifier":"","band":"12","col":"739ff."},
   {"term":"Todestrieb","qualifier":"","band":"12","col":"743f."},
   {"term":"Traumbewältigung","qualifier":"","band":"12","col":"743"},
+  {"term":"Übersinnlich","qualifier":"","band":"12","col":"740ff."},
   {"term":"Übertragung (psych.)","qualifier":"","band":"12","col":"743"},
   {"term":"Unendliche, das","qualifier":"","band":"12","col":"745"},
   {"term":"Unersetzliche, das (Deleuze)","qualifier":"","band":"12","col":"745"},
@@ -70,8 +70,7 @@ HWPH.put("a/3616",
   {"term":"Vermittlung","qualifier":"","band":"12","col":"740"},
   {"term":"Widerruf","qualifier":"","band":"12","col":"743"},
   {"term":"Wiederholungszwang","qualifier":"","band":"12","col":"743f."},
-  {"term":"Wiederkehr des Verdrängten","qualifier":"","band":"12","col":"743f."},
-  {"term":"– II (psych.) 12 1480–1486 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wiederkehr des Verdrängten","qualifier":"","band":"12","col":"743f."}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -141,7 +140,7 @@ HWPH.put("a/3616",
  ],
  "reg_authors":[
   {"name":"Brune Karl-Heinz","n":2},
-  {"name":"Hühn Helmut","n":51},
+  {"name":"Hühn Helmut","n":52},
   {"name":"Theunissen Michael","n":17}
  ]
 }

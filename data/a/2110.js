@@ -25,7 +25,7 @@ HWPH.put("a/2110",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Literaturkritik II 4 1288 Dichtkunst, neologische","qualifier":"","band":"6","col":"719"},
+  {"term":"Dichtkunst, neologische","qualifier":"","band":"6","col":"719"},
   {"term":"Neologismus","qualifier":"","band":"6","col":"720"}
  ],
  "persons":[

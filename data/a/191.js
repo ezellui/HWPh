@@ -25,15 +25,13 @@ HWPH.put("a/191",
  "backlinks":[{"id":1966,"lemma":"Methode, skeptische","n":1},{"id":3186,"lemma":"These","n":2}],
  "outlinks":[],
  "register":[
-  {"term":"analytisch/synthetisch","qualifier":"","band":"1","col":"418"},
   {"term":"Antithese","qualifier":"","band":null,"col":null},
   {"term":"Dialektik, transzendentale","qualifier":"","band":null,"col":null},
   {"term":"Entgegensetzung","qualifier":"","band":"1","col":"417"},
   {"term":"Gewissheit","qualifier":"","band":"1","col":"417"},
   {"term":"Thetik","qualifier":"","band":"1","col":"417"},
   {"term":"Verfahren, analytisches/synthetisches","qualifier":"","band":"1","col":"418"},
-  {"term":"Widerstreit","qualifier":"","band":"1","col":"417"},
-  {"term":"– I (allg.) 1 393–396 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Widerstreit","qualifier":"","band":"1","col":"417"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":1,"l":0,"editor":0,"role":"source"},

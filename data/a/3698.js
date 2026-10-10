@@ -39,6 +39,7 @@ HWPH.put("a/3698",
  ],
  "register":[
   {"term":"Bürgergesellschaft","qualifier":"","band":"12","col":"1361"},
+  {"term":"civil society","qualifier":"","band":null,"col":null},
   {"term":"civilis","qualifier":"","band":null,"col":null},
   {"term":"societas civilis","qualifier":"","band":null,"col":null},
   {"term":"Staat, integraler","qualifier":"","band":"12","col":"1360"},

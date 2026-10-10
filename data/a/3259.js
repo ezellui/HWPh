@@ -22,7 +22,6 @@ HWPH.put("a/3259",
   {"id":1976,"lemma":"Minderwertigkeitsgefühl, Minderwertigkeitskomplex","n":1}
  ],
  "register":[
-  {"term":"der","qualifier":"(Adler)","band":null,"col":null},
   {"term":"Organminderwertigkeit","qualifier":"(Adler)","band":"11","col":"43"},
   {"term":"overcompensation","qualifier":"(Adler)","band":null,"col":null},
   {"term":"Selbstregulation","qualifier":"(Adler)","band":null,"col":null},
@@ -44,6 +43,6 @@ HWPH.put("a/3259",
   {"id":2124,"lemma":"Neurose"}
  ],
  "groups":[{"id":36,"name":"Psychologie","label":"Überkompensation (Adler)"}],
- "reg_authors":[{"name":"Boulnois Olivier","n":12},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Boulnois Olivier","n":12},{"name":"Red","n":241}]
 }
 );

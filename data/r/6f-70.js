@@ -15,7 +15,7 @@ HWPH.put("r/6f-70",
   "opera iustitiae"
  ],
  ["operabile","Praxis","II","7","1288","ref",2448,"Praxis, praktisch","operabile"],
- ["operatio","Praxis II","",null,null,"ref",2448,"Praxis, praktisch","operatio"],
+ ["operatio","Praxis","II",null,null,"ref",2448,"Praxis, praktisch","operatio"],
  [
   "operatio","Actio immanens/transiens","","1","78","ref",42,"Actio immanens/actio transiens",
   "operatio"
@@ -36,7 +36,11 @@ HWPH.put("r/6f-70",
  ["Operation","Operation","","6","1208–1216","main",2226,"Operation","operation"],
  ["Operation","Denkpsychologie","",null,null,"see",558,"Denkpsychologie","operation"],
  ["Operation","Funktionalismus","",null,null,"see",976,"Funktionalismus","operation"],
- ["Operation","Kognition operationale Definition","",null,null,"see",null,null,"operation"],
+ ["Operation","Kognition","",null,null,"see",1578,"Kognition, kognitiv","operation"],
+ [
+  "operationale Definition","Definition, operationale","(Bridgman)",null,null,"ref",538,
+  "Definition, operationale","operationale definition"
+ ],
  [
   "operationales Denken","Wert","IV (Pragmatismus)","12","573","ref",3588,"Wert",
   "operationales denken"
@@ -45,6 +49,15 @@ HWPH.put("r/6f-70",
   "Operationalismus","Operationalismus","","6","1216–1222","main",2227,"Operationalismus",
   "operationalismus"
  ],
+ [
+  "Operationalismus","Definition, operationale","(Bridgman)",null,null,"see",538,
+  "Definition, operationale","operationalismus"
+ ],
+ [
+  "Operationalismus","Operativismus","(Dingler)",null,null,"see",2228,"Operativismus",
+  "operationalismus"
+ ],
+ ["Operationalismus","Behaviorismus","",null,null,"see",377,"Behaviorismus","operationalismus"],
  ["Operationalismus","Operation","","6","1212","ref",2226,"Operation","operationalismus"],
  ["Operationalismus","Wissenschaft","III","12","943","ref",3635,"Wissenschaft","operationalismus"],
  ["operationism","Operationalismus","",null,null,"ref",2227,"Operationalismus","operationism"],
@@ -77,12 +90,13 @@ HWPH.put("r/6f-70",
   "opinabile","Supertranszendent","","10","645","ref",3081,"Supertranszendent; Supertranszendenz",
   "opinabile"
  ],
+ ["opinio","Meinung","",null,null,"ref",1912,"Meinen, Meinung","opinio"],
  [
-  "opinio","Meinung opinio praeconcepta bzw. praeiudicata bzw. praeoccupata","",null,null,"ref",null,
-  null,"opinio"
+  "opinio praeconcepta bzw. praeiudicata bzw. praeoccupata","Vorurteil","",null,null,"ref",3507,
+  "Vorurteil","opinio praeconcepta bzw. praeiudicata bzw. praeoccupata"
  ],
  [
-  "opinio probabilis","Probabilismus II (eth.)","",null,null,"ref",2463,
+  "opinio probabilis","Probabilismus","II (eth.)",null,null,"ref",2463,
   "Probabilismus, probabilistisch","opinio probabilis"
  ],
  ["opinio probabilis","Moralsystem","","6","197","ref",2030,"Moralsystem","opinio probabilis"],
@@ -111,8 +125,21 @@ HWPH.put("r/6f-70",
   "oppositio oppositorum"
  ],
  ["Opposition","Opposition","","6","1237–1240","main",2230,"Opposition","opposition"],
+ ["Opposition","Gegensatz","II (log.)",null,null,"see",1018,"Gegensatz","opposition"],
+ ["Opposition","Quadrat, logisches","",null,null,"see",2540,"Quadrat, logisches","opposition"],
+ ["Opposition","Repugnanz","",null,null,"see",2689,"Repugnanz","opposition"],
+ ["Opposition","Verstandesschluss","",null,null,"see",3436,"Verstandesschluß","opposition"],
+ [
+  "Opposition","Syntagmatisch/paradigmatisch","",null,null,"see",3112,"Syntagmatisch/paradigmatisch",
+  "opposition"
+ ],
  ["oppositum","Gegensatz","",null,null,"ref",1018,"Gegensatz","oppositum"],
- ["oppressio","Unterdrückung Optik","",null,null,"ref",null,null,"oppressio"],
+ ["oppressio","Unterdrückung","",null,null,"ref",3324,"Unterdrückung; Repression","oppressio"],
+ [
+  "Optik","Perspektive","I (allg.)",null,null,"ref",2326,
+  "Perspektive, Perspektivismus, perspektivisch","optik"
+ ],
+ ["Optik","Sehen","III",null,null,"ref",2802,"Sehen","optik"],
  [
   "Optik, ästhetische","Phänomenologie","I 2","7","487","ref",2343,"Phänomenologie",
   "optik, asthetische"
@@ -145,15 +172,6 @@ HWPH.put("r/6f-70",
  [
   "opus restaurationis","Geschichte","II","3","349","ref",1085,"Geschichte, Historie",
   "opus restaurationis"
- ],
- ["Optimismus","Optimismus","",null,null,"main",2231,"Optimismus","optimismus"],
- [
-  "Optimismus","Principium rationis sufficientis","","7","1326","ref",2457,
-  "Principium rationis sufficientis","optimismus"
- ],
- [
-  "Operationalismus","Operationalismus","II (psych.)","6","1219","main",2227,"Operationalismus",
-  "operationalismus"
  ]
 ]
 );

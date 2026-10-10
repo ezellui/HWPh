@@ -40,7 +40,6 @@ HWPH.put("a/3723",
  "register":[
   {"term":"communicatio idiomatum","qualifier":"","band":"12","col":"1529"},
   {"term":"hypostatische Union","qualifier":"","band":null,"col":null},
-  {"term":"I-II","qualifier":"","band":null,"col":null},
   {"term":"Naturen Christi, zwei","qualifier":"","band":null,"col":null},
   {"term":"Union, hypostatische","qualifier":"","band":null,"col":null},
   {"term":"ὁμοούσιος","qualifier":"","band":"12","col":"1527"},

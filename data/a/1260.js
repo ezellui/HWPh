@@ -25,6 +25,7 @@ HWPH.put("a/1260",
  "backlinks":[{"id":1929,"lemma":"Merkabah","n":1}],
  "outlinks":[{"id":633,"lemma":"Doxa","n":1}],
  "register":[
+  {"term":"Ästhetik, theologische","qualifier":"II","band":"3","col":"1080"},
   {"term":"Ehre Gottes","qualifier":"III","band":"3","col":"1083"},
   {"term":"Gestalt Gottes","qualifier":"III","band":"3","col":"1081"},
   {"term":"gloria","qualifier":"","band":null,"col":null},

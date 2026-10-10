@@ -26,8 +26,7 @@ HWPH.put("a/3475",
   {"term":"droit international public","qualifier":"","band":null,"col":null},
   {"term":"international law","qualifier":"","band":null,"col":null},
   {"term":"ius gentium","qualifier":"","band":null,"col":null},
-  {"term":"law of nations","qualifier":"","band":null,"col":null},
-  {"term":"– III (jur.) 4 1076–1078 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"law of nations","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":7672,"name":"H. Steiger","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},

@@ -40,17 +40,19 @@ HWPH.put("a/3383",
   {"id":3520,"lemma":"Wahn","n":1}
  ],
  "register":[
-  {"term":"/Objekt V 10 427f.","qualifier":"","band":"11","col":"581"},
   {"term":"Ate","qualifier":"","band":"11","col":"579"},
   {"term":"aveuglement","qualifier":"","band":null,"col":null},
   {"term":"Blindheit des Geistes","qualifier":"","band":"11","col":"580"},
   {"term":"caecitas mentis bzw. animi","qualifier":"","band":"11","col":"580"},
+  {"term":"Dialektik, negative","qualifier":"","band":"11","col":"581"},
   {"term":"donum intellectus","qualifier":"","band":"11","col":"580"},
+  {"term":"excaecatio","qualifier":"","band":null,"col":null},
   {"term":"ignorantia voluntaria","qualifier":"","band":"11","col":"580"},
   {"term":"obscuratio cordis","qualifier":"","band":"11","col":"580"},
   {"term":"Schein","qualifier":"","band":"11","col":"580f."},
   {"term":"Verblendungszusammenhang","qualifier":"","band":"11","col":"581"},
   {"term":"Verhexte, das","qualifier":"","band":"11","col":"581"},
+  {"term":"Verstrickung","qualifier":"","band":null,"col":null},
   {"term":"Zwangszusammenhang","qualifier":"","band":"11","col":"581"},
   {"term":"ἄνοια","qualifier":"","band":"11","col":"579"},
   {"term":"εὐνομία","qualifier":"","band":"11","col":"579"}
@@ -134,6 +136,6 @@ HWPH.put("a/3383",
  ],
  "see_also":[],
  "groups":[{"id":2,"name":"Anthropologie","label":"Verblendung"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

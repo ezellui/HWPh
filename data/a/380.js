@@ -79,6 +79,6 @@ HWPH.put("a/380",
   {"id":2,"name":"Anthropologie","label":"Bejahung II"},
   {"id":22,"name":"Logik","label":"Bejahung I"}
  ],
- "reg_authors":[{"name":"Menne Albert","n":61},{"name":"Tsouyopoulos Nelly","n":5}]
+ "reg_authors":[{"name":"Menne Albert","n":62},{"name":"Tsouyopoulos Nelly","n":5}]
 }
 );

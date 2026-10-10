@@ -29,7 +29,7 @@ HWPH.put("a/2906",
   {"id":313,"lemma":"Außen/innen, Außenwelt/Innenwelt","tf":2},
   {"id":527,"lemma":"Dasein","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2593,"lemma":"Realität der Außenwelt"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Skandal der Philosophie"}],
  "reg_authors":[{"name":"Marquard Odo","n":22}]
 }

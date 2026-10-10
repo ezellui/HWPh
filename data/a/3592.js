@@ -21,7 +21,10 @@ HWPH.put("a/3592",
   {"id":3544,"lemma":"Wandel, sozialer","n":1},
   {"id":3593,"lemma":"Wertphilosophie","n":1}
  ],
- "register":[{"term":"change of values","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"change of values","qualifier":"","band":null,"col":null},
+  {"term":"value inquiry","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":6304,"name":"H. Klages","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},
   {"id":7438,"name":"K.-H. Hillmann","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},

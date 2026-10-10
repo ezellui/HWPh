@@ -48,7 +48,11 @@ HWPH.put("a/3631",
   {"id":1769,"lemma":"Leib, Körper","tf":2},
   {"id":3588,"lemma":"Wert","tf":2}
  ],
- "see_also":[{"id":2086,"lemma":"Naturkonstante"},{"id":2548,"lemma":"Quantenmechanik"}],
+ "see_also":[
+  {"id":2086,"lemma":"Naturkonstante"},
+  {"id":2548,"lemma":"Quantenmechanik"},
+  {"id":3630,"lemma":"Wirkungsprinzip; Prinzip der kleinsten Aktion"}
+ ],
  "groups":[{"id":32,"name":"Physik","label":"Wirkungsquantum"}],
  "reg_authors":[{"name":"Drieschner Michael","n":10}]
 }

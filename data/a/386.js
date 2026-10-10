@@ -17,7 +17,10 @@ HWPH.put("a/386",
  "next":{"id":387,"lemma":"Beobachtungssatz","band":"1","col":832},
  "backlinks":[],
  "outlinks":[{"id":2195,"lemma":"Observatio, Beobachtung","n":1}],
- "register":[{"term":"Wahrnehmungsfehler","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Achtsamkeitsfehler","qualifier":"","band":null,"col":null},
+  {"term":"Wahrnehmungsfehler","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":174,"name":"G. Th. Fechner","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":136,"name":"J. H. Lambert","b":2,"n":1,"l":0,"editor":0,"role":"source"},

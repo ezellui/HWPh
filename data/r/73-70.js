@@ -1,17 +1,10 @@
 HWPH.put("r/73-70",
 [
- ["Species","Species","I (met.)","9","1332","main",2966,"Species","species"],
  ["Spätjudentum","Spätjudentum","",null,null,"main",2965,"Spätjudentum","spatjudentum"],
  [
   "Spätjudentum","Pharisäer; Pharisäismus","III","7","540f.","ref",2349,"Pharisäer, Pharisäismus",
   "spatjudentum"
  ],
- ["Spiritualismus","Spiritualismus","II","9","1410","main",2979,"Spiritualismus","spiritualismus"],
- [
-  "Sprache, künstliche","Sprache, künstliche","","9","1502","main",2988,"Sprache, künstliche",
-  "sprache, kunstliche"
- ],
- ["Spekulation","Spekulation","",null,null,"main",2969,"Spekulation","spekulation"],
  ["Spät","Spät","","9","1304–1311","main",2963,"Spät","spat"],
  [
   "Spätantike","Übergangsperiode","","11","33","ref",3254,"Übergangsperiode; Übergangszeit",
@@ -38,6 +31,7 @@ HWPH.put("r/73-70",
  ["Spannkraft","Spannung","IV (psych.)","9","1295","ref",2961,"Spannung","spannkraft"],
  ["Spannung","Spannung","","9","1282–1300","main",2961,"Spannung","spannung"],
  ["Spannung","Entspannung","",null,null,"see",757,"Entspannung","spannung"],
+ ["Spannung","Spannung","III","9","1291f.","main",2961,"Spannung","spannung"],
  ["Spannung/Lösung","Lust; Freude","III","5","561","ref",1837,"Lust, Freude","spannung/losung"],
  ["Sparsamkeit","Geiz","","3","219","ref",1040,"Geiz","sparsamkeit"],
  [
@@ -48,7 +42,11 @@ HWPH.put("r/73-70",
   "Sparsamkeitsprinzip","Ockham's razor","",null,null,"see",2200,"Ockham's razor",
   "sparsamkeitsprinzip"
  ],
- ["Sparsamkeitsprinzip","Wirkungsprinzip spasmi","",null,null,"see",null,null,"sparsamkeitsprinzip"],
+ [
+  "Sparsamkeitsprinzip","Wirkungsprinzip","",null,null,"see",3630,
+  "Wirkungsprinzip; Prinzip der kleinsten Aktion","sparsamkeitsprinzip"
+ ],
+ ["spasmi","Neurose","I","6","761","ref",2124,"Neurose","spasmi"],
  [
   "Spassphilosophie","Universitätsphilosophie","(Schopenhauer)","11","219","ref",3309,
   "Universitätsphilosophie","spassphilosophie"
@@ -56,12 +54,26 @@ HWPH.put("r/73-70",
  ["spatium","Raum","",null,null,"ref",2578,"Raum","spatium"],
  ["spatium sensibile","Raum","III","8","93","ref",2578,"Raum","spatium sensibile"],
  ["Species","Species","","9","1315–1350","main",2966,"Species","species"],
+ ["Species","Form und Materie","",null,null,"see",939,"Form und Materie (Stoff)","species"],
+ ["Species","Idee","",null,null,"see",1361,"Idee","species"],
+ ["Species","Konzept","",null,null,"see",1655,"Konzept, konzeptibel","species"],
+ ["Species","Wahrnehmung","II",null,null,"see",3539,"Wahrnehmung","species"],
+ [
+  "Species","Arbor porphyriana","",null,null,"see",236,"Arbor porphyriana, porphyrischer Baum",
+  "species"
+ ],
+ ["Species","Art","",null,null,"see",254,"Art","species"],
+ [
+  "Species","Unterschied, spezifischer","",null,null,"see",3328,"Unterschied, spezifischer",
+  "species"
+ ],
  ["species","Allgemeines/Besonderes","II",null,null,"ref",101,"Allgemeines/Besonderes","species"],
  ["species","Bild","II (erk.)","1","915","ref",431,"Bild","species"],
- ["species","Erkenntnis I (erk.)","","2","650f.","ref",796,"Erkennen, Erkenntnis","species"],
+ ["species","Erkenntnis","I (erk.)","2","650f.","ref",796,"Erkennen, Erkenntnis","species"],
  ["species","Konform","","4","952","ref",1609,"Konform, Konformität","species"],
  ["species","Repräsentation","I 2","8","792f.","ref",2686,"Repräsentation","species"],
- ["species","Schöne","",null,null,"ref",2776,"Schöne","species"],
+ ["species","Schöne, das","II","8","1352","ref",2776,"Schöne","species"],
+ ["species expressa","Verbum mentis","","11","593","ref",3387,"Verbum mentis","species expressa"],
  [
   "species infima","Individuum; Individualität","III","4","310","ref",1424,
   "Individuum, Individualität","species infima"
@@ -87,14 +99,7 @@ HWPH.put("r/73-70",
  ],
  ["Speciosa","Speciosa","","9","1350","main",2967,"Speciosa","speciosa"],
  ["Speciosa","Algebra","",null,null,"see",95,"Algebra","speciosa"],
- [
-  "Speciosa","Ars magna; lullische Kunst","",null,null,"see",253,"Ars magna, lullische Kunst",
-  "speciosa"
- ],
- [
-  "Speciosa","Characteristica universalis","(Leibniz)",null,null,"see",485,
-  "Characteristica universalis","speciosa"
- ],
+ ["Speciosa","Ars magna; lullische","",null,null,"see",253,"Ars magna, lullische Kunst","speciosa"],
  ["speciositas","Species","I (met.)","9","1316ff.","ref",2966,"Species","speciositas"],
  ["spectator","Zuschauer","",null,null,"ref",3713,"Zuschauer","spectator"],
  ["spectator","Unparteilichkeit","","11","254","ref",3316,"Unparteilichkeit","spectator"],
@@ -129,7 +134,8 @@ HWPH.put("r/73-70",
   "Weltgeschichte; Universalgeschichte","speculum historiale"
  ],
  ["speech","Sprache","",null,null,"ref",2985,"Sprache","speech"],
- ["speech, internal","Wort","",null,null,"ref",3656,"Wort","speech, internal"],
+ ["speech, internal","Wort, inneres","",null,null,"ref",3656,"Wort","speech, internal"],
+ ["speech act","Sprechakt","",null,null,"ref",2995,"Sprechakt","speech act"],
  ["Speicher, sensorischer","Nachbild","","6","345f.","ref",2057,"Nachbild","speicher, sensorischer"],
  ["Speicherungssysteme","Gedächtnis","","3","40","ref",996,"Gedächtnis","speicherungssysteme"],
  ["Spekulation","Spekulation","","9","1355–1372","main",2969,"Spekulation","spekulation"],
@@ -146,8 +152,12 @@ HWPH.put("r/73-70",
  ["spekulativ","Spekulation","",null,null,"ref",2969,"Spekulation","spekulativ"],
  ["spekulativ","Pragmatisch","","7","1242","ref",2435,"Pragmatisch","spekulativ"],
  [
-  "spekulativ-dialektische Logik","Logik","",null,null,"ref",1803,"Logik",
+  "spekulativ-dialektische Logik","Logik, dialektische","",null,null,"ref",1803,"Logik",
   "spekulativ-dialektische logik"
+ ],
+ [
+  "spekulative Vernunft","Vernunft; Verstand","VI","11","828f.","ref",3423,"Vernunft; Verstand",
+  "spekulative vernunft"
  ],
  [
   "spekulativer Theismus","Theismus, spekulativer","",null,null,"ref",3164,"Theismus, spekulativer",
@@ -160,7 +170,7 @@ HWPH.put("r/73-70",
   "Superstition; Aberglaube","spes irrationalis"
  ],
  [
-  "Spezialisierung","Organprimitivismen","(Gehlen)","6","1369","ref",2247,"Organonmodell",
+  "Spezialisierung","Organprimitivismen","(Gehlen)","6","1369","ref",2248,"Organprimitivismen",
   "spezialisierung"
  ],
  ["Spezialist","Experte","",null,null,"ref",876,"Experte","spezialist"],
@@ -246,7 +256,7 @@ HWPH.put("r/73-70",
  ["Spieltheorie","Entscheidungstheorie","",null,null,"see",755,"Entscheidungstheorie","spieltheorie"],
  ["Spieltheorie","Strategie","",null,null,"see",3036,"Strategie","spieltheorie"],
  ["Spieltheorie","Wahl, rationale","",null,null,"see",3518,"Wahl, rationale","spieltheorie"],
- ["Spieltheorie","Dialektik","IV",null,null,"ref",583,"Dialektik","spieltheorie"],
+ ["Spieltheorie","Dialektik","IV 5. 6","2","213","ref",583,"Dialektik","spieltheorie"],
  ["Spieltrieb","Spieltrieb","","9","1396–1398","main",2976,"Spieltrieb","spieltrieb"],
  ["Spieltrieb","Spiel","",null,null,"see",2973,"Spiel","spieltrieb"],
  [
@@ -374,10 +384,13 @@ HWPH.put("r/73-70",
  ["Sprachanalyse","Sprachanalyse","","9","1435–1437","main",2983,"Sprachanalyse","sprachanalyse"],
  ["Sprachanalyse","Analyse","",null,null,"see",125,"Analyse","sprachanalyse"],
  [
-  "Sprachanalyse","Linguistik; Sprachwissenschaft III","",null,null,"see",1797,
+  "Sprachanalyse","Linguistik; Sprachwissenschaft","III",null,null,"see",1797,
   "Linguistik, Sprachwissenschaft","sprachanalyse"
  ],
- ["Sprachanalyse","Philosophie","IV",null,null,"see",2353,"Philosophie","sprachanalyse"],
+ ["Sprachanalyse","Philosophie","IV K",null,null,"see",2353,"Philosophie","sprachanalyse"],
+ ["Sprachanalyse","Sprache","III",null,null,"see",2985,"Sprache","sprachanalyse"],
+ ["Sprachanalyse","Sprachkritik","",null,null,"see",2991,"Sprachkritik","sprachanalyse"],
+ ["Sprachanalyse","Sprachphilosophie","II",null,null,"see",2992,"Sprachphilosophie","sprachanalyse"],
  [
   "Sprachanalyse","Phänomenologie, linguistische","",null,null,"ref",2345,
   "Phänomenologie, linguistische","sprachanalyse"
@@ -396,8 +409,8 @@ HWPH.put("r/73-70",
   "sprachbau/sprachgebrauch"
  ],
  [
-  "Sprache s. auch","Register der Sachgruppen: Sprachphilosophie und Semiotik","",null,null,"ref",
-  null,null,"sprache s. auch"
+  "Sprache","Register der Sachgruppen: Sprachphilosophie und Semiotik","",null,null,"see",null,null,
+  "sprache"
  ],
  ["Sprache","Sprache","","9","1437–1495","main",2985,"Sprache","sprache"],
  ["Sprache","Denken","I","2","92f.","ref",552,"Denken","sprache"],
@@ -405,8 +418,8 @@ HWPH.put("r/73-70",
   "Sprache","Privatsprachenargument","(Wittgenstein)","7","1385","ref",2462,"Privatsprachenargument",
   "sprache"
  ],
- ["Sprache","Produktion I (nat.)","","7","1422","ref",2469,"Produktion, Produktivität","sprache"],
- ["Sprache","Schweigen; Stille A","","8","1484ff.","ref",2787,"Schweigen, Stille","sprache"],
+ ["Sprache","Produktion","I (nat.)","7","1422","ref",2469,"Produktion, Produktivität","sprache"],
+ ["Sprache","Schweigen; Stille","A","8","1484ff.","ref",2787,"Schweigen, Stille","sprache"],
  ["Sprache","Selbstmitteilung","II","9","491","ref",2841,"Selbstmitteilung","sprache"],
  ["Sprache","Signalsystem","","9","750","ref",2882,"Signalsystem","sprache"],
  [
@@ -428,7 +441,14 @@ HWPH.put("r/73-70",
   "Sprache, infinitäre","Vollformalismus","","11","1113f.","ref",3481,"Vollformalismus",
   "sprache, infinitare"
  ],
- ["Sprache, innere","Wort","",null,null,"ref",3656,"Wort","sprache, innere"],
+ [
+  "Sprache, innere","Wort, inneres","","12","1043","ref",3657,"Wort, inneres; Rede, innere",
+  "sprache, innere"
+ ],
+ [
+  "Sprache, konstruierte","Sprache, künstliche","","9","1502","ref",2988,"Sprache, künstliche",
+  "sprache, konstruierte"
+ ],
  [
   "Sprache, künstliche","Sprache, künstliche","","9","1502–1505","main",2988,"Sprache, künstliche",
   "sprache, kunstliche"
@@ -437,7 +457,11 @@ HWPH.put("r/73-70",
   "Sprache, künstliche","Universalsprache","",null,null,"see",3306,"Universalsprache",
   "sprache, kunstliche"
  ],
- ["Sprache, mentale","Wort","",null,null,"ref",3656,"Wort","sprache, mentale"],
+ ["Sprache, mentale","Wort, inneres","",null,null,"ref",3656,"Wort","sprache, mentale"],
+ [
+  "Sprache, modelltheoretische","Vollformalismus","","11","1114","ref",3481,"Vollformalismus",
+  "sprache, modelltheoretische"
+ ],
  [
   "Sprache, natürliche","Umgangssprache","II",null,null,"ref",3273,"Umgangssprache",
   "sprache, naturliche"
@@ -476,9 +500,10 @@ HWPH.put("r/73-70",
   "Sprachauffassung, energetische","sprache als energeia"
  ],
  [
-  "Sprache der Gebärden","Gebärde; Gebärdensprache Sprache der Schöpfung","",null,null,"ref",992,
+  "Sprache der Gebärden","Gebärde; Gebärdensprache","",null,null,"ref",992,
   "Gebärde, Gebärdensprache","sprache der gebarden"
  ],
+ ["Sprache der Schöpfung","Ursprache","","11","412","ref",3351,"Ursprache","sprache der schopfung"],
  [
   "Sprache des Lebens","Umgangssprache","II","11","88","ref",3273,"Umgangssprache",
   "sprache des lebens"
@@ -548,9 +573,13 @@ HWPH.put("r/73-70",
  ],
  ["Sprachkritik","Sprachanalyse","",null,null,"see",2983,"Sprachanalyse","sprachkritik"],
  ["Sprachkritik","Sprachphilosophie","II",null,null,"see",2992,"Sprachphilosophie","sprachkritik"],
- ["Sprachlaut","Phonologie sprachliches Feld","",null,null,"ref",null,null,"sprachlaut"],
+ ["Sprachlaut","Phonologie","",null,null,"ref",2364,"Phonologie, Phonem","sprachlaut"],
  [
-  "Sprachlose, das","Schweigen; Stille A","","8","1491","ref",2787,"Schweigen, Stille",
+  "sprachliches Feld","Feld, sprachliches","",null,null,"ref",905,"Feld, sprachliches",
+  "sprachliches feld"
+ ],
+ [
+  "Sprachlose, das","Schweigen; Stille","A","8","1491","ref",2787,"Schweigen, Stille",
   "sprachlose, das"
  ],
  ["Sprachnachahmung","Nachahmung","","6","321","ref",2054,"Nachahmung","sprachnachahmung"],
@@ -574,7 +603,7 @@ HWPH.put("r/73-70",
  ["Sprachsoziologie","Soziolinguistik","","9","1268","ref",2959,"Soziolinguistik","sprachsoziologie"],
  ["Sprachspiel","Semantik","","9","588f.","ref",2861,"Semantik, semantisch","sprachspiel"],
  ["Sprachspiel","Verstehen","","11","929","ref",3438,"Verstehen","sprachspiel"],
- ["Sprachspiel","Sprachspiel","(Wittgenstein)",null,null,"main",2994,"Sprachspiel","sprachspiel"],
+ ["Sprachspiel","Sprachspiel","(Wittgenstein) 9",null,null,"main",2994,"Sprachspiel","sprachspiel"],
  [
   "Sprachspiel","Privatsprachenargument","(Wittgenstein)",null,null,"see",2462,
   "Privatsprachenargument","sprachspiel"
@@ -654,12 +683,15 @@ HWPH.put("r/73-70",
  ["Sprung","Absolut; das Absolute","","1","18","ref",27,"Absolut, das Absolute","sprung"],
  ["Sprung","Kontinuum","III","4","1054","ref",1640,"Kontinuum, Kontinuität","sprung"],
  [
-  "Sprung","Regelmässigkeitsvoraussetzung (Leibniz)","","8","473","ref",2644,
+  "Sprung","Regelmässigkeitsvoraussetzung","(Leibniz)","8","473","ref",2644,
   "Regelmäßigkeitsvoraussetzung","sprung"
  ],
  ["Sprung","Verborgenheit Gottes","","11","584","ref",3384,"Verborgenheit Gottes","sprung"],
  ["Sprung","Wahrheitsgefühl","","12","179","ref",3536,"Wahrheitsgefühl; Wahrheitssinn","sprung"],
- ["Sprung, dialektischer","Dialektik","IV",null,null,"ref",583,"Dialektik","sprung, dialektischer"],
+ [
+  "Sprung, dialektischer","Dialektik","IV 5. 6","2","212","ref",583,"Dialektik",
+  "sprung, dialektischer"
+ ],
  [
   "Sprung in den Glauben","Sacrificium intellectus","","8","1115","ref",2733,
   "Sacrificium intellectus","sprung in den glauben"
@@ -667,13 +699,15 @@ HWPH.put("r/73-70",
  ["Spürbares","Denken","I","2","61","ref",552,"Denken","spurbares"],
  ["Spürsinn","Urteil, vorläufiges","","11","475","ref",3358,"Urteil, vorläufiges","spursinn"],
  ["Spur","Spur","","9","1550–1558","main",2997,"Spur","spur"],
- ["Spur","Mneme; Mnemosyne Spur","",null,null,"see",1989,"Mneme, Mnemosyne","spur"],
- ["Species","Species","I (met.)","9","1319","main",2966,"Species","species"],
- ["Spiritualität","Spiritualität","","9","1416","main",2980,"Spiritualität","spiritualitat"],
- [
-  "Spiritualität","Substanz","I","10","501f.","ref",3062,"Substanz; Substanz/Akzidens",
-  "spiritualitat"
- ],
+ ["Spur","Mneme; Mnemosyne","",null,null,"see",1989,"Mneme, Mnemosyne","spur"],
+ ["Spur","Disposition","I (erk.)","2","264","ref",613,"Disposition","spur"],
+ ["Spur","Disposition","II (psych.)",null,null,"ref",613,"Disposition","spur"],
+ ["Spur","Gedächtnis","","3","38","ref",996,"Gedächtnis","spur"],
+ ["Spur","Ontologie, trinitarische","","6","1201","ref",2220,"Ontologie, trinitarische","spur"],
+ ["Spur","Präsenz","","7","1263","ref",2444,"Präsenz","spur"],
+ ["Spur","Repräsentation","I 2","8","791f.","ref",2686,"Repräsentation","spur"],
+ ["Spur","Schrift","II (Derrida)","8","1430f.","ref",2781,"Schrift","spur"],
+ ["Spur","Zeit","VI","12","1241","ref",3676,"Zeit","spur"],
  ["Spaemann Robert","Fanatismus","","2","904–908","author",893,"Familie, Ehe","spaemann robert"],
  ["Spaemann Robert","Freiheit","IV","2","1088–1098","author",946,"Freiheit","spaemann robert"],
  [
@@ -756,7 +790,7 @@ HWPH.put("r/73-70",
  ],
  ["Speer Andreas","Tun/Leiden","","10","1572–1580","author",3241,"Tun/Leiden","speer andreas"],
  [
-  "Speer Andreas","Vernunft; Verstand","III",null,null,"author",3423,"Vernunft; Verstand",
+  "Speer Andreas","Vernunft; Verstand III B.","D","11","770–774","author",3423,"Vernunft; Verstand",
   "speer andreas"
  ],
  ["Speer Andreas","Weisheit","","12","371–397","author",3553,"Weisheit","speer andreas"],

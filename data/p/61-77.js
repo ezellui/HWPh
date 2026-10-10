@@ -1,0 +1,18 @@
+HWPH.put("p/61-77",
+{"awake":[["awake","1p6:;1h1 co:;1t9"]],
+"awakening":[["awakening","ms:;2"]],
+"awakenings":[["awakenings","2ua:;;;40"]],
+"aware":[["Aware","9e:0;0 2kj:;;4k"],["aware","9e:;28,1l;x;h,a ok:;3q 3v:;omq 14j:;3vk,8 22:;1le lj:;6j;4h"]],
+"awareness":[["awareness","17f:;1bl h8:;91l hp:;3tw;1bg,qd,12 8:;;2aq,1b,57;cv 15:;;ot n:;d7k c:;2t3;wc 2g:;3ko 6h:;2nc 32:;22d 55:;;2k j:;;;tt"]],
+"awareʼ":[["awareʼ","2sy:;d1h"]],
+"away":[["away","1jh:;;1g7;ua 9d:;5pb,a,38 sv:;;aa 1e:;xiy 4i:;b 3d:;3yk f:;vb"]],
+"awe":[["awe","24f:;b,al 7c:;1pv"]],
+"awerah":[["Awerah","25c:;12w"]],
+"awestisch":[["awestisch","yj:;w"]],
+"awir":[["Awir","89:;v"]],
+"awiya":[["āwiya","15p:;133 j:;c0"]],
+"awiyas":[["āwiyas","15p:;1qb"]],
+"awodey":[["AWODEY","2os:;;np"]],
+"awon":[["Awon","25c:;11k"],["āwôn","2cb:;26l"],["āwōn","2df:;7s,25,5x;3i,a"]],
+"awwal":[["awwal","2da:;4z g3:;;e8"]]}
+);

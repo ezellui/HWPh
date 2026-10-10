@@ -22,8 +22,7 @@ HWPH.put("a/2012",
   {"term":"monarchia","qualifier":"","band":null,"col":null},
   {"term":"Monokratie","qualifier":"","band":null,"col":null},
   {"term":"pouvoir neutre","qualifier":"","band":"6","col":"128f."},
-  {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 2 132–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"s auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":2,"l":0,"editor":0,"role":"source"},

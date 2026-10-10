@@ -21,7 +21,10 @@ HWPH.put("a/2711",
  "next":{"id":2712,"lemma":"Rezeptivität","band":"8","col":1009},
  "backlinks":[{"id":2710,"lemma":"Rezeption, Rezeptionsästhetik","n":1}],
  "outlinks":[],
- "register":[{"term":"juristische Rezeption","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"juristische Rezeption","qualifier":"","band":null,"col":null},
+  {"term":"receptio","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":1465,"name":"F. Wieacker","b":2,"n":7,"l":0,"editor":0,"role":"scholar"},
   {"id":2639,"name":"H. Mitteis","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},

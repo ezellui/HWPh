@@ -22,7 +22,7 @@ HWPH.put("a/2786",
   {"id":1373,"lemma":"Ideologie","n":1}
  ],
  "register":[
-  {"term":"natürliche bzw. vernünftige 8 724","qualifier":"","band":"6","col":"1478"},
+  {"term":"Religionswahn","qualifier":"","band":"6","col":"1478"},
   {"term":"Sekte","qualifier":"","band":"6","col":"1477"}
  ],
  "persons":[

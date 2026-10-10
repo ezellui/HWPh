@@ -24,12 +24,12 @@ HWPH.put("a/2730",
  "backlinks":[{"id":3628,"lemma":"Wirklichkeit","n":1}],
  "outlinks":[{"id":2075,"lemma":"Natur der Sache","n":1}],
  "register":[
-  {"term":"729","qualifier":"II","band":"8","col":"1099"},
   {"term":"Besitz","qualifier":"II","band":"8","col":"1097"},
   {"term":"causa","qualifier":"","band":null,"col":null},
   {"term":"chose","qualifier":"","band":null,"col":null},
   {"term":"Ding an sich","qualifier":"II","band":"8","col":"1096f."},
-  {"term":"Einzige, der","qualifier":"II","band":"8","col":"1097"},
+  {"term":"Eigentum","qualifier":"II","band":"8","col":"1097"},
+  {"term":"Erscheinung","qualifier":"II","band":"8","col":"1096f."},
   {"term":"Interesse","qualifier":"II","band":"8","col":"1098"},
   {"term":"Natur der Sache","qualifier":"II","band":"8","col":"1099"},
   {"term":"Nominaldefinition","qualifier":"I","band":"8","col":"1095"},
@@ -39,12 +39,7 @@ HWPH.put("a/2730",
   {"term":"res ipsa","qualifier":"I","band":"8","col":"1094"},
   {"term":"Sacherklärung","qualifier":"I","band":"8","col":"1095"},
   {"term":"Sachzusammenhang","qualifier":"II","band":"8","col":"1099"},
-  {
-   "term":"transzendentaler; Realismus, empirischer (Kant)",
-   "qualifier":"II",
-   "band":"8",
-   "col":"1096f."
-  },
+  {"term":"universalis","qualifier":"II","band":"8","col":"1099"},
   {"term":"Worterklärung","qualifier":"I","band":"8","col":"1095"}
  ],
  "persons":[

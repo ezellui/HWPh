@@ -20,8 +20,7 @@ HWPH.put("a/3364",
  "register":[
   {"term":"occupatio","qualifier":"","band":"11","col":"498"},
   {"term":"ordo legitimus","qualifier":"","band":"11","col":"498"},
-  {"term":"Tyrannei","qualifier":"","band":"11","col":"499"},
-  {"term":"– I (allg.) 2 132–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Tyrannei","qualifier":"","band":"11","col":"499"}
  ],
  "persons":[
   {"id":936,"name":"J. C. Bluntschli","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},
@@ -70,7 +69,7 @@ HWPH.put("a/3364",
   {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":571,"lemma":"Despotie, Despotismus"}],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Usurpation"}],
  "reg_authors":[{"name":"Röttgers Arndt","n":23}]
 }

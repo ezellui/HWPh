@@ -23,8 +23,9 @@ HWPH.put("a/3300",
  ],
  "outlinks":[{"id":2446,"lemma":"Präsupposition","n":1},{"id":3496,"lemma":"Vorprädikativ","n":1}],
  "register":[
+  {"term":"Absolute","qualifier":"","band":null,"col":null},
   {"term":"Lebenspraxis, Unhintergehbarkeit der","qualifier":"","band":null,"col":null},
-  {"term":"Negativität II 6 684 Nichthintergehbarkeit","qualifier":"","band":null,"col":null},
+  {"term":"Nichthintergehbarkeit","qualifier":"","band":null,"col":null},
   {"term":"Sprache, Unhintergehbarkeit der","qualifier":"","band":null,"col":null},
   {"term":"Verstehensapriori","qualifier":"","band":"11","col":"175"}
  ],

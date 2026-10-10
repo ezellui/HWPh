@@ -49,7 +49,7 @@ HWPH.put("a/394",
   {"id":2840,"lemma":"Selbstliebe","tf":2},
   {"id":3239,"lemma":"Tugend","tf":2}
  ],
- "see_also":[{"id":550,"lemma":"Demut"}],
+ "see_also":[{"id":550,"lemma":"Demut"},{"id":1881,"lemma":"Mäßigkeit"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Bescheidenheit"}],
  "reg_authors":[{"name":"Schwenk Bernhard","n":5}]
 }

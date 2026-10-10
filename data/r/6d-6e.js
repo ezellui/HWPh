@@ -1,6 +1,5 @@
 HWPH.put("r/6d-6e",
 [
- ["Mnemotechnik","Mnemotechnik","",null,null,"main",1991,"Mnemotechnik","mnemotechnik"],
  [
   "Mneme; Mnemosyne","Mneme; Mnemosyne","","5","1441–1444","main",1989,"Mneme, Mnemosyne",
   "mneme; mnemosyne"

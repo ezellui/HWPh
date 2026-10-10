@@ -48,11 +48,11 @@ HWPH.put("a/3653",
   {"id":3621,"lemma":"Wille, guter","n":1}
  ],
  "register":[
-  {"term":"602","qualifier":"","band":"12","col":"1011"},
   {"term":"Allgemeinwohl","qualifier":"","band":"12","col":"1007"},
   {"term":"amor concupiscentiae/benevolentiae","qualifier":"","band":"12","col":"1006"},
   {"term":"amour de concupiscence/bienveillance","qualifier":"","band":"12","col":"1007"},
   {"term":"Aneignungstrieb","qualifier":"","band":"12","col":"1010"},
+  {"term":"Anerkennung","qualifier":"","band":"12","col":"1011"},
   {"term":"beneficence","qualifier":"","band":"12","col":"1008"},
   {"term":"benevolentia","qualifier":"","band":null,"col":null},
   {"term":"benignitas","qualifier":"","band":"12","col":"1006"},
@@ -71,8 +71,7 @@ HWPH.put("a/3653",
   {"term":"universalistic/egoistic hedonism","qualifier":"","band":"12","col":"1010"},
   {"term":"Unterwerfungstrieb","qualifier":"","band":"12","col":"1010"},
   {"term":"Wohltat","qualifier":"","band":"12","col":"1009"},
-  {"term":"εὔνοια","qualifier":"","band":null,"col":null},
-  {"term":"– II (anthr.) 10 756–762 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"εὔνοια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":4,"l":0,"editor":0,"role":"source"},

@@ -33,6 +33,7 @@ HWPH.put("a/3149",
   {"term":"Ganzheitstendenz","qualifier":"","band":"10","col":"1001"},
   {"term":"Gesetz/Tendenz","qualifier":"","band":"10","col":"1002"},
   {"term":"Latenz/Tendenz","qualifier":"","band":"10","col":"1001"},
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"vis inertiae","qualifier":"","band":"10","col":"999"},
   {"term":"vis primitiva/derivativa","qualifier":"","band":"10","col":"998"},
   {"term":"Wille","qualifier":"","band":"10","col":"1000f."}

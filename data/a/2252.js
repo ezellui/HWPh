@@ -27,7 +27,9 @@ HWPH.put("a/2252",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"A(institut. Formen) 7 797 Heterodoxie","qualifier":"II","band":"6","col":"1382"},
+  {"term":"catholicus","qualifier":"I","band":null,"col":null},
+  {"term":"Heterodoxie","qualifier":"II","band":"6","col":"1382"},
+  {"term":"Orthodoxie, altprotestantische","qualifier":"II","band":null,"col":null},
   {"term":"Orthopraxie","qualifier":"III","band":"6","col":"1386"}
  ],
  "persons":[
@@ -228,7 +230,7 @@ HWPH.put("a/2252",
  "reg_authors":[
   {"name":"Mahlmann Theodor","n":11},
   {"name":"Niewöhner Friedrich","n":17},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Seigfried Adam","n":6}
  ]
 }

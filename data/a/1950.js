@@ -57,7 +57,7 @@ HWPH.put("a/1950",
   {"id":2491,"name":"W. Ziesemer","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2059,"lemma":"Nachfolge (imitatio) Christi","tf":2}],
- "see_also":[],
+ "see_also":[{"id":3543,"lemma":"Wandel; Veränderung"}],
  "groups":[
   {"id":28,"name":"Naturphilosophie","label":"Metaschematismus"},
   {"id":39,"name":"Rhetorik und Argumentationstheorie","label":"Metaschematismus"}

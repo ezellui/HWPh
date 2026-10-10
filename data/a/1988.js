@@ -17,10 +17,7 @@ HWPH.put("a/1988",
  "next":{"id":1989,"lemma":"Mneme, Mnemosyne","band":"5","col":1441},
  "backlinks":[{"id":3278,"lemma":"Umwelt","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"Miteinandersein","qualifier":"(Heidegger)","band":null,"col":null}
- ],
+ "register":[{"term":"Miteinandersein","qualifier":"(Heidegger)","band":null,"col":null}],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":19,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},

@@ -1,14 +1,8 @@
 HWPH.put("r/76-61",
 [
- ["Vagheit","Vagheit","","11","535","main",3370,"Vagheit; vage","vagheit"],
- ["Variable","Variable","","11","547","main",3373,"Variable","variable"],
- ["Vanitas mundi","Vanitas mundi","",null,null,"main",3372,"Vanitas mundi","vanitas mundi"],
- [
-  "Vanitas mundi","Weltverachtung; Weltflucht","",null,null,"ref",3579,"Weltverachtung; Weltflucht",
-  "vanitas mundi"
- ],
  ["Vanitas mundi","Vanitas mundi","","11","542","main",3372,"Vanitas mundi","vanitas mundi"],
  ["Vagheit","Vagheit","","11","536","main",3370,"Vagheit; vage","vagheit"],
+ ["vacuitas aegritudinis","Sicherheit","","9","745","ref",2881,"Sicherheit","vacuitas aegritudinis"],
  ["Vacuum","Vacuum","","11","527–530","main",3368,"Vacuum","vacuum"],
  ["Vacuum","Horror vacui","",null,null,"see",1312,"Horror vacui, fuga vacui","vacuum"],
  [
@@ -46,14 +40,30 @@ HWPH.put("r/76-61",
  ["valeur","Wert","",null,null,"ref",3588,"Wert","valeur"],
  ["valeur","Wert (linguistisch)","",null,null,"ref",3589,"Wert (linguistisch)","valeur"],
  ["valeur","Wert/Preis","","12","586f.","ref",3590,"Wert/Preis","valeur"],
- [
-  "Validität","Gelten; Geltung valor expectationis","",null,null,"ref",1044,"Gelten, Geltung",
-  "validitat"
- ],
+ ["Validität","Gelten; Geltung","",null,null,"ref",1044,"Gelten, Geltung","validitat"],
+ ["valor expectationis","Vermutung","II","11","736","ref",3421,"Vermutung","valor expectationis"],
  ["value","Wert","",null,null,"ref",3588,"Wert","value"],
- ["value controversy","Werturteil value inquiry","",null,null,"ref",null,null,"value controversy"],
- ["value judgement","Werturteil values clarification","",null,null,"ref",null,null,"value judgement"],
- ["values education","Werterziehung value-seaker","",null,null,"ref",null,null,"values education"],
+ [
+  "value controversy","Werturteil","",null,null,"ref",3594,"Werturteil; Werturteilsstreit",
+  "value controversy"
+ ],
+ [
+  "value inquiry","Wertewandel; Werteforschung","",null,null,"ref",3592,
+  "Wertewandel; Werteforschung","value inquiry"
+ ],
+ [
+  "value judgement","Werturteil","",null,null,"ref",3594,"Werturteil; Werturteilsstreit",
+  "value judgement"
+ ],
+ [
+  "values clarification","Werterziehung","","12","603f.","ref",3591,
+  "Werterziehung; moralische Erziehung; Moralpädagogik","values clarification"
+ ],
+ [
+  "values education","Werterziehung","",null,null,"ref",3591,
+  "Werterziehung; moralische Erziehung; Moralpädagogik","values education"
+ ],
+ ["value-seaker","Wert","VI","12","581","ref",3588,"Wert","value-seaker"],
  ["vana opinio","Wahn","","12","31","ref",3520,"Wahn","vana opinio"],
  ["vanitas","Eitelkeit","",null,null,"ref",698,"Eitelkeit","vanitas"],
  ["vanitas","Weisheit","","12","376","ref",3553,"Weisheit","vanitas"],
@@ -86,8 +96,16 @@ HWPH.put("r/76-61",
  ["Variation","Variation","","11","548–554","main",3373,"Variable","variation"],
  ["Variation","Verschiedenheit","",null,null,"see",3430,"Verschiedenheit","variation"],
  [
-  "Variation","Exhaustion; Variation (Dingler) Variation, eidetische","",null,null,"see",858,
-  "Exhaustion, Variation","variation"
+  "Variation","Exhaustion; Variation","(Dingler)",null,null,"see",858,"Exhaustion, Variation",
+  "variation"
+ ],
+ [
+  "Variation, eidetische","Reduktion, eidetische","(Husserl)","8","375","ref",2625,
+  "Reduktion, eidetische","variation, eidetische"
+ ],
+ [
+  "Variation, eidetische","Variation","","11","551","ref",3374,"Variation; Varietät; Variabilität",
+  "variation, eidetische"
  ],
  ["variation brusque","Sprung","","9","1547","ref",2996,"Sprung","variation brusque"],
  [

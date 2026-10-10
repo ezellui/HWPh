@@ -29,7 +29,7 @@ HWPH.put("a/2349",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Abgesonderten, die","qualifier":"","band":null,"col":null},
+  {"term":"Abgesonderten, die","qualifier":"I","band":null,"col":null},
   {"term":"Heilige","qualifier":"III","band":"7","col":"540"},
   {"term":"Spätjudentum","qualifier":"III","band":"7","col":"540f."}
  ],

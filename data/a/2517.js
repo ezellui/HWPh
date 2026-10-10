@@ -22,12 +22,13 @@ HWPH.put("a/2517",
   {"term":"Assoziationsreflex","qualifier":"","band":"7","col":"1661"},
   {"term":"Aufmerksamkeit","qualifier":"","band":"7","col":"1662"},
   {"term":"comportement","qualifier":"","band":"7","col":"1662"},
-  {"term":"geisteswissenschaftliche","qualifier":"","band":"7","col":"1663"},
   {"term":"objektive Psychologie","qualifier":"","band":null,"col":null},
+  {"term":"Psychologie, verstehende","qualifier":"","band":"7","col":"1663"},
   {"term":"Psychoreflexologie","qualifier":"","band":null,"col":null},
   {"term":"Reflexphysiologie","qualifier":"","band":"7","col":"1661"},
   {"term":"Verhalten","qualifier":"","band":"7","col":"1662f."},
-  {"term":"Verhaltensanalyse","qualifier":"","band":"7","col":"1663"}
+  {"term":"Verhaltensanalyse","qualifier":"","band":"7","col":"1663"},
+  {"term":"verstehende Psychologie","qualifier":"","band":"7","col":"1663"}
  ],
  "persons":[
   {"id":729,"name":"J. B. Watson","b":2,"n":2,"l":0,"editor":0,"role":"source"},

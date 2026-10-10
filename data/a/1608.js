@@ -134,7 +134,11 @@ HWPH.put("a/1608",
   {"id":1999,"lemma":"Modell","tf":2},
   {"id":1099,"lemma":"Gesellschaft","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3039,"lemma":"Streit"},
+  {"id":114,"lemma":"Ambivalenz"},
+  {"id":904,"lemma":"Feld, Feldtheorie"}
+ ],
  "groups":[
   {"id":36,"name":"Psychologie","label":"Konflikt II (psych.)"},
   {"id":42,"name":"Soziologie","label":"Konflikt I (soz.)"}

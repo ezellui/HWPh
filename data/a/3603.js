@@ -24,9 +24,9 @@ HWPH.put("a/3603",
  "outlinks":[{"id":754,"lemma":"Entscheidung","n":1}],
  "register":[
   {"term":"Argument, pragmatisches","qualifier":"","band":"12","col":"677"},
-  {"term":"genetische (Husserl) 7 507","qualifier":"","band":"12","col":"676"},
-  {"term":"Mitteilung; Mitteilbarkeit","qualifier":"","band":"12","col":"676"},
   {"term":"pari","qualifier":"","band":null,"col":null},
+  {"term":"Überredung","qualifier":"","band":"12","col":"676"},
+  {"term":"Überzeugung","qualifier":"","band":"12","col":"676"},
   {"term":"will to believe","qualifier":"","band":"12","col":"676"}
  ],
  "persons":[

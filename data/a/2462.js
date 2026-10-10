@@ -88,7 +88,11 @@ HWPH.put("a/2462",
   {"id":801,"lemma":"Erklären, Erklärung","tf":3},
   {"id":2973,"lemma":"Spiel","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1770,"lemma":"Leib-Seele-Verhältnis"},
+  {"id":2918,"lemma":"Solipsismus"},
+  {"id":2994,"lemma":"Sprachspiel"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Privatsprachenargument (Wittgenstein)"},
   {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Privatsprachenargument (Wittgenstein)"}

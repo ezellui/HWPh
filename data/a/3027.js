@@ -24,12 +24,11 @@ HWPH.put("a/3027",
  ],
  "register":[
   {"term":"atmosphère","qualifier":"","band":null,"col":null},
-  {"term":"der","qualifier":"","band":null,"col":null},
   {"term":"état d'âme","qualifier":"","band":null,"col":null},
   {"term":"Färbung","qualifier":"","band":"10","col":"175"},
   {"term":"Gestimmtheit","qualifier":"","band":"10","col":"174"},
   {"term":"Grundstimmung","qualifier":"","band":"10","col":"173ff."},
-  {"term":"Humor","qualifier":"","band":"10","col":"173"},
+  {"term":"humour","qualifier":"","band":"10","col":"173"},
   {"term":"mood","qualifier":"","band":null,"col":null},
   {"term":"Tönung","qualifier":"","band":"10","col":"174"}
  ],

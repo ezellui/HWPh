@@ -1,5 +1,6 @@
 HWPH.put("r/3bf-3bd",
 [
+ ["ὄν","Sein; Seiendes","",null,null,"ref",2806,"Sein; Seiendes","ον"],
  [
   "ὂν ἅμα κὰι γινόμενον","Werden/Vergehen","","12","541","ref",3585,"Werden/Vergehen",
   "ον αμα και γινομενον"
@@ -19,6 +20,10 @@ HWPH.put("r/3bf-3bd",
  [
   "ὄνομα/ῥῆμα","Synkategorem","","10","787","ref",3108,
   "Synkategorem;synkategorematisch;synsemantisch","ονομα/ρημα"
+ ],
+ [
+  "ὀνόματα περιεκτικά","Kollektivbegriff","","4","882","ref",1584,"Kollektivbegriff",
+  "ονοματα περιεκτικα"
  ],
  ["ὄντως ἀλήθεια","Wahrheit, absolute","","12","135","ref",3526,"Wahrheit, absolute","οντωσ αληθεια"],
  ["ὄντως ὄν","Ontōs on","",null,null,"ref",2223,"Ontos on","οντωσ ον"],

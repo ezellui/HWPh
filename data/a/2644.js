@@ -17,7 +17,10 @@ HWPH.put("a/2644",
  "next":{"id":2645,"lemma":"Regelung","band":"8","col":474},
  "backlinks":[],
  "outlinks":[{"id":1639,"lemma":"Kontinuitätsgesetz","n":1}],
- "register":[{"term":"Sprung","qualifier":"","band":"8","col":"473"}],
+ "register":[
+  {"term":"principe d'Harlequin","qualifier":"(Leibniz)","band":null,"col":null},
+  {"term":"Sprung","qualifier":"(Leibniz)","band":"8","col":"473"}
+ ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1284,"name":"E. Becher","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
@@ -27,7 +30,7 @@ HWPH.put("a/2644",
   {"id":61,"name":"C. I. Gerhardt","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":154,"lemma":"Annahme, Annehmen","tf":3},{"id":1105,"lemma":"Gesetz","tf":2}],
- "see_also":[],
+ "see_also":[{"id":1639,"lemma":"Kontinuitätsgesetz"}],
  "groups":[{"id":28,"name":"Naturphilosophie","label":"Regelmässigkeitsvoraussetzung (Leibniz)"}],
  "reg_authors":[{"name":"Belaval Yvon","n":4}]
 }

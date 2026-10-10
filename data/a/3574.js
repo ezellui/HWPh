@@ -27,6 +27,7 @@ HWPH.put("a/3574",
   {"term":"mystery, inexplicable","qualifier":"","band":"12","col":"507"},
   {"term":"Rätsel","qualifier":"","band":null,"col":null},
   {"term":"riddle","qualifier":"","band":null,"col":null},
+  {"term":"unlösbar","qualifier":"","band":null,"col":null},
   {"term":"Wissenschaft, reine","qualifier":"","band":"12","col":"508"}
  ],
  "persons":[

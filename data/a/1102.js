@@ -18,9 +18,8 @@ HWPH.put("a/1102",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"- 475","qualifier":"","band":"3","col":"475"},
   {"term":"industrielle Gesellschaft","qualifier":"","band":null,"col":null},
-  {"term":"Produktionsverhältnisse; Produktivkräfte","qualifier":"","band":"3","col":"475"}
+  {"term":"Produktivkräfte","qualifier":"","band":"3","col":"475"}
  ],
  "persons":[
   {"id":628,"name":"R. Dahrendorf","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},
@@ -39,7 +38,7 @@ HWPH.put("a/1102",
   {"id":2960,"lemma":"Soziologie","tf":3},
   {"id":1099,"lemma":"Gesellschaft","tf":4}
  ],
- "see_also":[],
+ "see_also":[{"id":637,"lemma":"Drei-Stadien-Gesetz"}],
  "groups":[{"id":42,"name":"Soziologie","label":"Gesellschaft, industrielle"}],
  "reg_authors":[{"name":"Klages Helmut","n":3}]
 }

@@ -29,9 +29,8 @@ HWPH.put("a/3452",
   {"id":3707,"lemma":"Zuhandenheit/Vorhandenheit","n":1}
  ],
  "register":[
-  {"term":"das (Heidegger)","qualifier":"","band":null,"col":null},
-  {"term":"Verweisungszusammenhang","qualifier":"","band":null,"col":null},
-  {"term":"Weltlichkeit","qualifier":"","band":null,"col":null}
+  {"term":"Verweisungszusammenhang","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Weltlichkeit","qualifier":"(Heidegger)","band":null,"col":null}
  ],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":3,"n":1,"l":0,"editor":0,"role":"source"},

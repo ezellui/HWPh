@@ -77,6 +77,6 @@ HWPH.put("a/923",
   {"id":44,"name":"Theologie","label":"Fleisch I"},
   {"id":45,"name":"Topoi und Metaphern","label":"Fleisch II"}
  ],
- "reg_authors":[{"name":"Red","n":242},{"name":"Schott Erdmann","n":5}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Schott Erdmann","n":5}]
 }
 );

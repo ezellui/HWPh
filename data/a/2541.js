@@ -26,6 +26,7 @@ HWPH.put("a/2541",
   {"id":743,"lemma":"Enkyklios Paideia","n":1}
  ],
  "register":[
+  {"term":"Arithmetik","qualifier":"","band":"7","col":"1737"},
   {"term":"Einheit der Wissenschaft","qualifier":"","band":null,"col":null},
   {"term":"Geometrie","qualifier":"","band":"7","col":"1738"},
   {"term":"Musik","qualifier":"","band":"7","col":"1737"}

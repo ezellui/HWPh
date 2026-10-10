@@ -44,8 +44,7 @@ HWPH.put("a/3483",
   {"term":"pouvoir","qualifier":"","band":null,"col":null},
   {"term":"power of attorney","qualifier":"","band":null,"col":null},
   {"term":"stipulatio","qualifier":"","band":"11","col":"1134"},
-  {"term":"ἐξουσία","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 1 212 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἐξουσία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8085,"name":"K. Scholtissek","b":0,"n":4,"l":1,"editor":0,"role":"scholar"},

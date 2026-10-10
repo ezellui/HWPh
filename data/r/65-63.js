@@ -54,10 +54,6 @@ HWPH.put("r/65-63",
  ],
  ["écriture","Schrift","",null,null,"ref",2781,"Schrift","ecriture"],
  ["écrivain","Schriftsteller","",null,null,"ref",2783,"Schriftsteller","ecrivain"],
- [
-  "Ecclesia spiritualis","Ecclesia spiritualis","",null,null,"main",649,"Ecclesia spiritualis",
-  "ecclesia spiritualis"
- ],
  ["Echternach Helmut","Ewigkeit","","2","838–844","author",854,"Ewigkeit","echternach helmut"],
  ["Echternach Helmut","Koäternität","","4","863–865","author",1576,"Koäternität","echternach helmut"],
  [

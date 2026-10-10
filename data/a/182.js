@@ -29,10 +29,9 @@ HWPH.put("a/182",
  "outlinks":[],
  "register":[
   {"term":"Altertum","qualifier":"","band":null,"col":null},
-  {"term":"das 4 853–856 s. auch","qualifier":"III","band":null,"col":null},
   {"term":"Hesperien","qualifier":"II","band":"1","col":"388"},
   {"term":"Humanismus","qualifier":"III","band":"1","col":"391"},
-  {"term":"Organismus","qualifier":"II","band":"1","col":"389"}
+  {"term":"Natur","qualifier":"II","band":"1","col":"389"}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":3,"l":0,"editor":0,"role":"source"},

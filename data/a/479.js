@@ -18,7 +18,7 @@ HWPH.put("a/479",
  "backlinks":[{"id":3350,"lemma":"Ursache/Wirkung","n":2},{"id":3523,"lemma":"Wahrheit","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Praecisio","qualifier":"","band":"1","col":"977"},
+  {"term":"Begriff","qualifier":"","band":"1","col":"977"},
   {"term":"Selbstbestimmung","qualifier":"","band":null,"col":null},
   {"term":"Selbstursächlichkeit","qualifier":"","band":null,"col":null},
   {"term":"Ursache seiner selbst","qualifier":"","band":null,"col":null},

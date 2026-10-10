@@ -1,9 +1,5 @@
 HWPH.put("r/6c-61",
 [
- ["Lasterkatalog","Lasterkatalog","","5","37","main",1730,"Lasterkatalog","lasterkatalog"],
- ["Lasterkatalog","Willensschwäche","","12","801","ref",3623,"Willensschwäche","lasterkatalog"],
- ["Lauterkeit","Lauterkeit","","5","47","main",1733,"Lauterkeit","lauterkeit"],
- ["Lächerliche","Lächerliche","",null,null,"main",1723,"Lächerliche","lacherliche"],
  [
   "labor","Vita activa/contemplativa","","11","1074","ref",3469,"Vita activa/vita contemplativa",
   "labor"
@@ -15,14 +11,19 @@ HWPH.put("r/6c-61",
  ],
  ["lac virginis","Quintessenz","","7","1839","ref",2559,"Quintessenz","lac virginis"],
  ["Lachen","Komische, das; Lachen, das","",null,null,"ref",1590,"Komische, Lachen","lachen"],
- ["Lächerliche","Lächerliche","",null,null,"main",1723,"Lächerliche","lacherliche"],
+ ["Lächerliche, das","Lächerliche, das","","5","1–8","main",1723,"Lächerliche","lacherliche, das"],
+ [
+  "Lächerliche, das","Komische, das; Lachen, das","",null,null,"see",1590,"Komische, Lachen",
+  "lacherliche, das"
+ ],
+ ["Lächerliche, das","Parodie","",null,null,"see",2277,"Parodie","lacherliche, das"],
  ["Lächerliche, das","Intuition","","4","533","ref",1487,"Intuition","lacherliche, das"],
  [
   "Lächerliche, das","Pedant; Pedanterie","","7","232","ref",2302,"Pedant, Pedanterie",
   "lacherliche, das"
  ],
  [
-  "Lärm des Tages","Schweigen; Stille A","","8","1488","ref",2787,"Schweigen, Stille",
+  "Lärm des Tages","Schweigen; Stille","A","8","1488","ref",2787,"Schweigen, Stille",
   "larm des tages"
  ],
  ["laetitia","Lust; Freude","",null,null,"ref",1837,"Lust, Freude","laetitia"],
@@ -30,9 +31,18 @@ HWPH.put("r/6c-61",
  ["laetitia","Wollust","","12","1022","ref",3655,"Wollust","laetitia"],
  ["Läuterung","Läuterung","","5","49–52","main",1733,"Lauterkeit","lauterung"],
  ["Läuterung","Katharsis","",null,null,"see",1546,"Katharsis","lauterung"],
- ["Läuterung","Methode","",null,null,"see",1955,"Methode","lauterung"],
+ ["Läuterung","Methode, kathartische","",null,null,"see",1955,"Methode","lauterung"],
+ ["Läuterung","Reinheit; Reinigung","",null,null,"see",2660,"Reinheit, Reinigung","lauterung"],
+ [
+  "Läuterung der Seele","Philosophie","III A","7","659","ref",2353,"Philosophie",
+  "lauterung der seele"
+ ],
  ["Lage","Kontiguität","",null,null,"ref",1636,"Kontiguität","lage"],
- ["Lage","Unschärferelation Lagezeit","",null,null,"ref",null,null,"lage"],
+ [
+  "Lage","Unschärferelation","",null,null,"ref",3318,"Unschärferelation; Unbestimmtheitsrelation",
+  "lage"
+ ],
+ ["Lagezeit","Zeit","V","12","1232","ref",3676,"Zeit","lagezeit"],
  ["Laie","Laie","","5","8–10","main",1724,"Laie","laie"],
  ["Laie","Dilettantismus","",null,null,"see",602,"Dilettantismus","laie"],
  ["Laie","Einfalt","","2","394","ref",679,"Einfalt","laie"],
@@ -54,13 +64,21 @@ HWPH.put("r/6c-61",
  ],
  ["Landschaft","Landschaft","","5","11–28","main",1726,"Landschaft","landschaft"],
  [
-  "Landschaft","Perspektive I (allg.)","","7","368","ref",2326,
+  "Landschaft","Naturschönheit/Kunstschönheit","",null,null,"see",2090,
+  "Naturschönheit/Kunstschönheit","landschaft"
+ ],
+ [
+  "Landschaft","Perspektive","I (allg.)","7","368","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","landschaft"
  ],
  ["langage","Sprache","",null,null,"ref",2985,"Sprache","langage"],
  ["langage d'action","Sprache","III","9","1477","ref",2985,"Sprache","langage d'action"],
  ["langage familier","Umgangssprache","",null,null,"ref",3273,"Umgangssprache","langage familier"],
- ["langage intérieur","Wort","",null,null,"ref",3656,"Wort","langage interieur"],
+ ["langage intérieur","Wort, inneres","",null,null,"ref",3656,"Wort","langage interieur"],
+ ["Langeweile","Langeweile","","5","28–32","main",1727,"Langeweile","langeweile"],
+ ["Langeweile","Ekel","",null,null,"see",699,"Ekel","langeweile"],
+ ["Langeweile","Leere","I (myst.)",null,null,"see",1758,"Leere","langeweile"],
+ ["Langeweile","Zerstreuung","I (anthr.)",null,null,"see",3690,"Zerstreuung","langeweile"],
  ["Langeweile","Seelenruhe","II","9","101","ref",2797,"Seelenruhe","langeweile"],
  ["Langeweile","Zeit","VI","12","1237","ref",3676,"Zeit","langeweile"],
  ["language","Sprache","",null,null,"ref",2985,"Sprache","language"],
@@ -77,7 +95,14 @@ HWPH.put("r/6c-61",
   "language of thought","Repräsentation","III (19./ 20. Jh.)","8","832f.","ref",2686,
   "Repräsentation","language of thought"
  ],
- ["language of thought","Wort","",null,null,"ref",3656,"Wort","language of thought"],
+ [
+  "language of thought","Wort, inneres","","12","1046","ref",3657,"Wort, inneres; Rede, innere",
+  "language of thought"
+ ],
+ [
+  "language strata","Stratifikation","I (ling.)","10","266","ref",3037,"Stratifikation",
+  "language strata"
+ ],
  ["langue","Sprache","",null,null,"ref",2985,"Sprache","langue"],
  ["langue/parole","Performanz","","7","249","ref",2309,"Performanz","langue/parole"],
  ["langue/parole","Satz","III 1","8","1190","ref",2745,"Satz","langue/parole"],
@@ -132,12 +157,16 @@ HWPH.put("r/6c-61",
  ["Lasterkatalog","Laster","",null,null,"see",1729,"Laster","lasterkatalog"],
  ["late","Spät","",null,null,"ref",2963,"Spät","late"],
  ["Latenz","Latenz","","5","39–46","main",1731,"Latent, Latenz","latenz"],
+ ["Latenz","Unverborgenheit","(Heidegger)",null,null,"see",3331,"Unverborgenheit","latenz"],
+ ["Latenz","Verborgenheit Gottes","",null,null,"see",3384,"Verborgenheit Gottes","latenz"],
+ ["Latenz","Reiz und Reaktion","",null,null,"see",2662,"Reiz und Reaktion","latenz"],
+ ["Latenz","Verschiebung; Verdichtung","",null,null,"see",3429,"Verschiebung; Verdichtung","latenz"],
  [
   "Latenz/Tendenz","Noch-Nicht-Sein","(Bloch)",null,null,"ref",2144,"Noch-Nicht-Sein",
   "latenz/tendenz"
  ],
  ["Latenz/Tendenz","Vorschein","(Bloch)",null,null,"ref",3498,"Vorschein","latenz/tendenz"],
- ["Latenz/Tendenz","Latenz I (allg.)","","5","41","ref",1731,"Latent, Latenz","latenz/tendenz"],
+ ["Latenz/Tendenz","Latenz","I (allg.)","5","41","ref",1731,"Latent, Latenz","latenz/tendenz"],
  ["Latenz/Tendenz","Tendenz","","10","1001","ref",3149,"Tendenz","latenz/tendenz"],
  ["Latenzzeit","Latenz III (psych.) Latini/Graeci","",null,null,"ref",null,null,"latenzzeit"],
  [
@@ -152,7 +181,8 @@ HWPH.put("r/6c-61",
  ["latitudo","Spielraum","",null,null,"ref",2974,"Spielraum","latitudo"],
  ["lattice","Verband; Verbandstheorie","",null,null,"ref",3382,"Verband; Verbandstheorie","lattice"],
  ["Lauf der Welt","Weltlauf","",null,null,"ref",3569,"Weltlauf","lauf der welt"],
- ["laughter","Komische, das; Lachen, das laus","",null,null,"ref",1590,"Komische, Lachen","laughter"],
+ ["laughter","Komische, das; Lachen, das","",null,null,"ref",1590,"Komische, Lachen","laughter"],
+ ["laus","Ehre","","2","320","ref",654,"Ehre","laus"],
  ["laus Dei","Lob Gottes","",null,null,"ref",1800,"Lob Gottes","laus dei"],
  ["Laut","Artikulation","II (Humboldt)",null,null,"ref",256,"Artikulation","laut"],
  ["Laut","Name","I",null,null,"ref",2066,"Name","laut"],
@@ -199,18 +229,7 @@ HWPH.put("r/6c-61",
   "law of specific sensory energies","Sinnesenergien, spezifische lawlikeness","",null,null,"ref",
   null,null,"law of specific sensory energies"
  ],
- ["Langue/Parole","Langue/Parole","(Saussure)",null,null,"main",1728,"Langue/Parole","langue/parole"],
- ["Langue/Parole","Sprache","",null,null,"ref",2985,"Sprache","langue/parole"],
- [
-  "Latenz III (psych.)","Latenz III (psych.)","","5","43","main",1731,"Latent, Latenz",
-  "latenz iii (psych.)"
- ],
- ["Lasterkatalog","Lasterkatalog","",null,null,"main",1730,"Lasterkatalog","lasterkatalog"],
- ["Lasterkatalog","Lasterkatalog","","5","37","main",1730,"Lasterkatalog","lasterkatalog"],
- ["Lasterkatalog","Pessimismus","","7","392","ref",2331,"Pessimismus","lasterkatalog"],
- ["Lasterkatalog","Verleugnung","","11","720f.","ref",3416,"Verleugnung","lasterkatalog"],
  ["Laie","Laie","",null,null,"main",1724,"Laie","laie"],
- ["Latenz I (allg.)","Latenz I (allg.)","","5","40","main",1731,"Latent, Latenz","latenz i (allg.)"],
  ["Laarmann Matthias","Resignation","","8","909–916","author",2692,"Residuum","laarmann matthias"],
  [
   "Laarmann Matthias","Sacrificium intellectus","","8","1113–1117","author",2733,

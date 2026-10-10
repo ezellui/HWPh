@@ -45,6 +45,7 @@ HWPH.put("a/3724",
   {"term":"geistlich/weltlich","qualifier":"","band":null,"col":null},
   {"term":"Regimente, zwei","qualifier":"","band":null,"col":null},
   {"term":"Reich der Welt","qualifier":"","band":"12","col":"1534ff."},
+  {"term":"two kingdoms doctrine","qualifier":"","band":null,"col":null},
   {"term":"weltlich/geistlich","qualifier":"","band":null,"col":null},
   {"term":"Weltverantwortung","qualifier":"","band":"12","col":"1537"},
   {"term":"Zwei-Schwerter-Lehre","qualifier":"","band":"12","col":"1533f."}

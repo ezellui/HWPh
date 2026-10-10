@@ -27,8 +27,7 @@ HWPH.put("a/1359",
   {"term":"Erschauen","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Hervorhebung, abstrahierende","qualifier":"(Husserl)","band":"4","col":"52"},
   {"term":"Ideierung","qualifier":"","band":null,"col":null},
-  {"term":"Wesensanalyse","qualifier":"(Husserl)","band":"4","col":"52"},
-  {"term":"– I (phys.) 5 825–828 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wesensanalyse","qualifier":"(Husserl)","band":"4","col":"52"}
  ],
  "persons":[
   {"id":78,"name":"P. Lorenzen","b":1,"n":1,"l":0,"editor":0,"role":"mixed"},

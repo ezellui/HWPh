@@ -23,11 +23,11 @@ HWPH.put("a/534",
  "backlinks":[],
  "outlinks":[{"id":97,"lemma":"Algorithmus","n":1},{"id":1806,"lemma":"Logik, dialogische","n":2}],
  "register":[
-  {"term":"decidable","qualifier":"","band":null,"col":null},
-  {"term":"entscheidbar","qualifier":"","band":null,"col":null},
+  {"term":"decidable","qualifier":"II (Carnap)","band":null,"col":null},
+  {"term":"entscheidbar","qualifier":"II (Carnap)","band":null,"col":null},
   {"term":"unbestimmt","qualifier":"","band":null,"col":null},
-  {"term":"unlimitiert","qualifier":"","band":null,"col":null},
-  {"term":"Zermelo-Axiom","qualifier":"","band":null,"col":null}
+  {"term":"unlimitiert","qualifier":"I","band":null,"col":null},
+  {"term":"Zermelo-Axiom","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":1050,"name":"E. Zermelo","b":2,"n":3,"l":0,"editor":0,"role":"source"},
@@ -51,6 +51,6 @@ HWPH.put("a/534",
   {"id":24,"name":"Mathematik","label":"Definit; Definitheit I"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Definit; Definitheit"}
  ],
- "reg_authors":[{"name":"Körner Stephan","n":7},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Körner Stephan","n":7},{"name":"Red","n":241}]
 }
 );

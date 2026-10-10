@@ -21,7 +21,7 @@ HWPH.put("a/2860",
  "next":{"id":2861,"lemma":"Semantik, semantisch","band":"9","col":581},
  "backlinks":[{"id":3656,"lemma":"Wort","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Semem","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":96,"name":"Ch. S. Peirce","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":277,"name":"F. de Saussure","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -44,6 +44,6 @@ HWPH.put("a/2860",
  "mentions":[{"id":3673,"lemma":"Zeichen","tf":6}],
  "see_also":[],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Sem; Semem"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

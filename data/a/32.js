@@ -25,6 +25,6 @@ HWPH.put("a/32",
   {"id":9,"name":"Erkenntnistheorie","label":"Abstraktionismus (James)"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Abstraktionismus (James)"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -39,16 +39,14 @@ HWPH.put("a/3165",
    "col":"1062"
   },
   {"term":"poésie pure","qualifier":"III (lit.)","band":"10","col":"1064"},
+  {"term":"positio","qualifier":"I (rhet.)","band":"10","col":"1060"},
   {"term":"quaestio","qualifier":"I (rhet.)","band":null,"col":null},
-  {"term":"Setzen","qualifier":"I (rhet.)","band":"10","col":"1060"},
   {"term":"Stoff (lit.)","qualifier":"III (lit.)","band":null,"col":null},
   {"term":"sujet (lit.)","qualifier":"III (lit.)","band":"10","col":"1063f."},
   {"term":"Thematisieren","qualifier":"II (phän.)","band":null,"col":null},
   {"term":"Thematologie","qualifier":"III (lit.)","band":"10","col":"1064f."},
   {"term":"Unthematische, das","qualifier":"II (phän.)","band":"10","col":"1062"},
-  {"term":"θέμα","qualifier":"","band":null,"col":null},
-  {"term":"– II (lit.) 6 214–216 s. auch","qualifier":"III (lit.)","band":null,"col":null},
-  {"term":"– II (phän.) 10 1061–1063 s. auch","qualifier":"","band":"10","col":"1063–1065"}
+  {"term":"θέμα","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":3,"n":3,"l":0,"editor":0,"role":"source"},
@@ -164,7 +162,12 @@ HWPH.put("a/3165",
   {"id":583,"lemma":"Dialektik","tf":2},
   {"id":431,"lemma":"Bild","tf":2}
  ],
- "see_also":[{"id":3165,"lemma":"Thema"},{"id":3186,"lemma":"These"}],
+ "see_also":[
+  {"id":2876,"lemma":"Setzen, Setzung"},
+  {"id":3186,"lemma":"These"},
+  {"id":416,"lemma":"Bewußtsein, positionales"},
+  {"id":2033,"lemma":"Motiv"}
+ ],
  "groups":[
   {"id":21,"name":"Literaturtheorie","label":"Thema III (lit.)"},
   {"id":31,"name":"Phänomenologie","label":"Thema II (phän.)"},

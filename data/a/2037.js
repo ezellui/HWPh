@@ -17,10 +17,7 @@ HWPH.put("a/2037",
  "next":{"id":2038,"lemma":"Mündigkeit","band":"6","col":225},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Weltlichkeit","qualifier":"(Husserl)","band":null,"col":null},
-  {"term":"– II (phän.) 2 421f. s. auch","qualifier":"(Husserl)","band":null,"col":null}
- ],
+ "register":[{"term":"Weltlichkeit","qualifier":"(Husserl)","band":null,"col":null}],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":490,"name":"E. Fink","b":0,"n":0,"l":1,"editor":0,"role":"mixed"}

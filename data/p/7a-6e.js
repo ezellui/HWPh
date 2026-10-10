@@ -1,0 +1,15 @@
+HWPH.put("p/7a-6e",
+{"zn":[["Zn","2qc:;8tf"],["zn","18s:;ko"]],
+"znaim":[["ZNAIM","22p:;;xz ne:;;q"],["Znaim","2q3:;;18"]],
+"znajuscij":[["znájuščij","14o:;117"]],
+"znamenem":[["znamenem","1fz:;3bm"]],
+"znamierowski":[["ZNAMIEROWSKI","21c:;6zd;1bx;84"],["Znamierowski","21c:;706,11"]],
+"znanie":[["znanie","1td:;;mim"]],
+"znaniecki":[["ZNANIECKI","j7:;nj,4d;5i bc:;1pt 3c:;h2 1at:;2lj;sd 1c:;1hf;so"]],
+"znanija":[["znanija","1gf:;;f4 19i:;;3a"]],
+"znatok":[["znatók","14o:;119"]],
+"znoyma":[["ZNOYMA","1x0:;;6e"]],
+"znp":[["ZNP","1az:;;o5,c,h,g;2j"]],
+"zns":[["ZNS","10t:;;sb ch:;;9"]],
+"znw":[["ZNW","1lf:;;10b"]]}
+);

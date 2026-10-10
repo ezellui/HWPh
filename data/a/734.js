@@ -22,7 +22,7 @@ HWPH.put("a/734",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"/Objekt IV","qualifier":"I","band":"2","col":"484"},
+  {"term":"Absolute, das","qualifier":"I","band":"2","col":"484"},
   {"term":"Analysis, infinitesimale","qualifier":"I","band":"2","col":"486"},
   {"term":"Anschauung, intellektuelle","qualifier":"I","band":"2","col":"483"},
   {"term":"ens finitum","qualifier":"II","band":"2","col":"487"},

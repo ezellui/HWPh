@@ -63,6 +63,7 @@ HWPH.put("a/3602",
   {"term":"ponente","qualifier":"","band":null,"col":null},
   {"term":"seiyô","qualifier":"III (chin./jap.)","band":"12","col":"672"},
   {"term":"translatio potentiae bzw. sapientiae","qualifier":"I (allg.)","band":"12","col":"663"},
+  {"term":"Verwestlichung","qualifier":"III (chin./jap.)","band":"12","col":"673"},
   {"term":"Weltende","qualifier":"I (allg.)","band":"12","col":"663"},
   {"term":"xi yang","qualifier":"III (chin./jap.)","band":"12","col":"672"},
   {"term":"xihua; xixue","qualifier":"III (chin./jap.)","band":"12","col":"673f."},
@@ -270,7 +271,7 @@ HWPH.put("a/3602",
  ],
  "reg_authors":[
   {"name":"Böhling Frank","n":5},
-  {"name":"Hühn Helmut","n":51},
+  {"name":"Hühn Helmut","n":52},
   {"name":"Schulze Wessel Martin","n":1}
  ]
 }

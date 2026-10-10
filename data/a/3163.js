@@ -21,9 +21,9 @@ HWPH.put("a/3163",
  "backlinks":[],
  "outlinks":[{"id":543,"lemma":"Deismus","n":1},{"id":3164,"lemma":"Theismus, spekulativer","n":1}],
  "register":[
+  {"term":"bzw. vernünftige","qualifier":"","band":null,"col":null},
   {"term":"Gott, persönlicher","qualifier":"","band":null,"col":null},
-  {"term":"Kosmotheismus","qualifier":"","band":"10","col":"1055"},
-  {"term":"natürliche bzw. vernünftige","qualifier":"","band":null,"col":null}
+  {"term":"Kosmotheismus","qualifier":"","band":"10","col":"1055"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":2,"l":0,"editor":0,"role":"source"},

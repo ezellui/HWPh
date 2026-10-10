@@ -17,10 +17,7 @@ HWPH.put("a/1074",
  "next":{"id":1075,"lemma":"Genus, Sexus","band":"3","col":311},
  "backlinks":[{"id":3434,"lemma":"Versöhnung","n":2},{"id":3615,"lemma":"Wiedergutmachung","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"f satisfactio","qualifier":"","band":null,"col":null},
-  {"term":"– I (theol.) 11 891–898 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"f satisfactio","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":7,"name":"Augustinus","b":1,"n":1,"l":0,"editor":0,"role":"source"},

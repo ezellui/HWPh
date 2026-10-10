@@ -28,15 +28,10 @@ HWPH.put("a/2470",
   {"term":"Kräfte, produktive","qualifier":"","band":null,"col":null},
   {"term":"powers, productive","qualifier":"","band":null,"col":null},
   {"term":"productive powers","qualifier":"","band":null,"col":null},
+  {"term":"Produktivkräfte","qualifier":"","band":null,"col":null},
   {"term":"puissances productives","qualifier":"","band":null,"col":null},
   {"term":"Verhältnisse, gesellschaftliche","qualifier":"I","band":"7","col":"1439"},
-  {"term":"Verkehrsform","qualifier":"I","band":"7","col":"1439"},
-  {
-   "term":"– I (nat.) 7 1418–1426 – II (ökon.) 7 1427–1432 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Verkehrsform","qualifier":"I","band":"7","col":"1439"}
  ],
  "persons":[
   {"id":17,"name":"K. Marx","b":5,"n":4,"l":0,"editor":0,"role":"source"},

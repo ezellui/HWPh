@@ -37,8 +37,7 @@ HWPH.put("a/877",
   {"term":"Einfachheit","qualifier":"(Carnap)","band":"2","col":"876"},
   {"term":"Exaktheit","qualifier":"(Carnap)","band":"2","col":"876"},
   {"term":"Explikandum; Explikat","qualifier":"(Carnap)","band":null,"col":null},
-  {"term":"Fruchtbarkeit","qualifier":"(Carnap)","band":"2","col":"876"},
-  {"term":"– II (wiss.) 2 693–701 s. auch","qualifier":"(Carnap)","band":null,"col":null}
+  {"term":"Fruchtbarkeit","qualifier":"(Carnap)","band":"2","col":"876"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

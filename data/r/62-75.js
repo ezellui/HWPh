@@ -6,7 +6,12 @@ HWPH.put("r/62-75",
  ["Buch der Natur","Beschreibung","II","1","845","ref",395,"Beschreibung","buch der natur"],
  ["Buch der Natur","Masora","","5","807","ref",1876,"Masora","buch der natur"],
  ["Buch der Natur","Natur","II","6","442","ref",2074,"Natur","buch der natur"],
- ["Buch der Natur","Religion","",null,null,"ref",2673,"Religion","buch der natur"],
+ [
+  "Buch der Natur","Religion, natürliche bzw. vernünftige","","8","714f.","ref",2674,"Religion",
+  "buch der natur"
+ ],
+ ["Buch der Natur","Verstehen","","11","921","ref",3438,"Verstehen","buch der natur"],
+ ["Buch der Natur","Vertrag","III (theol.)","11","981","ref",3445,"Vertrag","buch der natur"],
  [
   "Buch der Schöpfung","Buch der Schöpfung","","1","959f.","main",457,"Buch der Schöpfung",
   "buch der schopfung"
@@ -18,10 +23,8 @@ HWPH.put("r/62-75",
   "buch des gedachtnisses"
  ],
  ["Buch des Lebens","Buch des Lebens","","1","956f.","main",455,"Buch des Lebens","buch des lebens"],
- [
-  "Buchgelehrter","Pedant; Pedanterie Buchstaben","",null,null,"ref",2302,"Pedant, Pedanterie",
-  "buchgelehrter"
- ],
+ ["Buchgelehrter","Pedant; Pedanterie","",null,null,"ref",2302,"Pedant, Pedanterie","buchgelehrter"],
+ ["Buchstaben","Variable","","11","547","ref",3373,"Variable","buchstaben"],
  ["Buddhismus","Buddhismus","","1","960–962","main",458,"Buddhismus","buddhismus"],
  ["Buddhismus","Avidyā","",null,null,"see",337,"Avidya","buddhismus"],
  ["Buddhismus","Dharma","",null,null,"see",579,"Dharma","buddhismus"],
@@ -60,9 +63,10 @@ HWPH.put("r/62-75",
  ["Bürgerrechte","Bürgerrechte","","1","966","main",460,"Bürgerrechte","burgerrechte"],
  ["Bürgerrechte","Grundrechte","",null,null,"see",1195,"Grundrechte","burgerrechte"],
  [
-  "Bürgerrechte","Rechte des Menschen; Menschenrechte Bürgerwürde","",null,null,"see",2600,
+  "Bürgerrechte","Rechte des Menschen; Menschenrechte","",null,null,"see",2600,
   "Rechte des Menschen, Menschenrechte","burgerrechte"
  ],
+ ["Bürgerwürde","Würde","","12","1089","ref",3662,"Würde","burgerwurde"],
  [
   "Bürokratie","Verwaltung; Bürokratie","",null,null,"ref",3448,"Verwaltung; Bürokratie",
   "burokratie"
@@ -97,10 +101,6 @@ HWPH.put("r/62-75",
  ["Busse","Seelenwanderung","I","9","117","ref",2801,"Seelenwanderung","busse"],
  ["busybodiness","Vielgeschäftigkeit","",null,null,"ref",3461,"Vielgeschäftigkeit","busybodiness"],
  ["but","Zweck; Ziel","C",null,null,"ref",3718,"Zweck; Ziel","but"],
- ["Buch des Lebens","Buch des Lebens","",null,null,"main",455,"Buch des Lebens","buch des lebens"],
- ["Busse","Busse","",null,null,"main",462,"Buße","busse"],
- ["Busse","Conversio; Umkehr","",null,null,"ref",514,"Conversio, Umkehr","busse"],
- ["Busse","Strafe","I","10","213","ref",3035,"Strafe","busse"],
  ["Bubner Rüdiger","Besonnenheit","I","1","848f.","author",397,"Besonnenheit","bubner rudiger"],
  ["Bubner Rüdiger","Kalokagathia","I","4","681","author",1522,"Kalokagathia","bubner rudiger"],
  ["Bubner Rüdiger","Maxime","","5","941–944","author",1900,"Maxime","bubner rudiger"],
@@ -174,7 +174,10 @@ HWPH.put("r/62-75",
   "Buldt Bernd","Vollständigkeit","","11","1136–1141","author",3484,
   "Vollständigkeit/Unvollständigkeit","buldt bernd"
  ],
- ["Buldt Bernd","Wahrscheinlichkeit","IV",null,null,"author",3540,"Wahrscheinlichkeit","buldt bernd"],
+ [
+  "Buldt Bernd","Wahrscheinlichkeit IV A-B","","12","265–304","author",3540,"Wahrscheinlichkeit",
+  "buldt bernd"
+ ],
  [
   "Bultmann Christoph","Urgeschichte","","11","360–363","author",3342,"Urgeschichte",
   "bultmann christoph"

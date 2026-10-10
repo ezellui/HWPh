@@ -86,7 +86,7 @@ HWPH.put("a/3671",
   {"id":666,"lemma":"Eigenschaft","tf":2},
   {"id":3586,"lemma":"Werk","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3670,"lemma":"Zahl; Zählen"}],
  "groups":[
   {"id":7,"name":"Disziplinen und Fächer","label":"Zahlentheorie"},
   {"id":24,"name":"Mathematik","label":"Zahlentheorie"}

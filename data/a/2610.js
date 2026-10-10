@@ -17,11 +17,7 @@ HWPH.put("a/2610",
  "next":{"id":2611,"lemma":"Rechtsontologie","band":"8","col":294},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Gesetz","qualifier":"","band":"8","col":"292"},
-  {"term":"– I (jur.) 3 480–493 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (jur.) 10 562f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Rechtssatz","qualifier":"","band":"8","col":"292"}],
  "persons":[
   {"id":240,"name":"H. Kelsen","b":1,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":843,"name":"K. Larenz","b":0,"n":3,"l":0,"editor":0,"role":"mixed"},

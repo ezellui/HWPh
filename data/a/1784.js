@@ -32,7 +32,6 @@ HWPH.put("a/1784",
   {"term":"Dingler-Komplex","qualifier":"","band":"5","col":"252"},
   {"term":"last principles","qualifier":"","band":"5","col":"253"},
   {"term":"Lebenswelt","qualifier":"","band":"5","col":"252"},
-  {"term":"performativer 12 699f. s. auch","qualifier":"","band":null,"col":null},
   {"term":"Vollbegründung","qualifier":"","band":"5","col":"252"},
   {"term":"Voraussetzungen, letzte","qualifier":"","band":null,"col":null}
  ],

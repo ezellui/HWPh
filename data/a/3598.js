@@ -27,6 +27,7 @@ HWPH.put("a/3598",
   {"id":3597,"lemma":"Wesensbegriff","n":1}
  ],
  "register":[
+  {"term":"definitio accidentalis/essentialis","qualifier":"II","band":"12","col":"653"},
   {"term":"definitio descriptiva","qualifier":"","band":"12","col":"652"},
   {"term":"Nominaldefinition","qualifier":"","band":null,"col":null},
   {"term":"Realdefinition","qualifier":"","band":null,"col":null},
@@ -77,6 +78,6 @@ HWPH.put("a/3598",
   {"id":26,"name":"Metaphysik","label":"Wesensdefinition"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Wesensdefinition"}
  ],
- "reg_authors":[{"name":"Dewender Thomas","n":5},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Dewender Thomas","n":5},{"name":"Red","n":241}]
 }
 );

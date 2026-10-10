@@ -20,8 +20,7 @@ HWPH.put("a/1748",
  "register":[
   {"term":"criteria of life","qualifier":"","band":null,"col":null},
   {"term":"Organismus, lebender","qualifier":"","band":"5","col":"130"},
-  {"term":"s auch","qualifier":"","band":null,"col":null},
-  {"term":"– VI (biol.) 5 97–103 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"s auch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":7162,"name":"S. Strugger","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

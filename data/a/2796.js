@@ -27,6 +27,7 @@ HWPH.put("a/2796",
  ],
  "register":[
   {"term":"abditum mentis","qualifier":"","band":"9","col":"93"},
+  {"term":"Boden der Seele","qualifier":"","band":"9","col":"93"},
   {"term":"Einung","qualifier":"","band":"9","col":"93"},
   {"term":"essentia animae","qualifier":"","band":"9","col":"93"},
   {"term":"fundus animae","qualifier":"","band":"9","col":"93"},

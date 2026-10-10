@@ -85,7 +85,11 @@ HWPH.put("a/120",
   {"id":2998,"lemma":"Staat","tf":2},
   {"id":707,"lemma":"Element","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":977,"lemma":"Funktionär"},
+  {"id":3448,"lemma":"Verwaltung; Bürokratie"},
+  {"id":3483,"lemma":"Vollmacht"}
+ ],
  "groups":[
   {"id":33,"name":"Politische Theorie","label":"Amt I (pol.)"},
   {"id":44,"name":"Theologie","label":"Amt II (theol.)"}

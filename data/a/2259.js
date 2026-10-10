@@ -41,6 +41,7 @@ HWPH.put("a/2259",
   {"term":"Seelenwanderung","qualifier":"I (allg.)","band":"7","col":"45"},
   {"term":"weiblich/männlich","qualifier":"I (allg.)","band":"7","col":"43ff."},
   {"term":"ἀιὼν μέλλων","qualifier":"I (allg.)","band":"7","col":"41"},
+  {"term":"ἐκπύρωσις","qualifier":"I (allg.)","band":"7","col":"40f."},
   {"term":"μετεμψύχωσις","qualifier":"I (allg.)","band":"7","col":"41"}
  ],
  "persons":[
@@ -126,7 +127,13 @@ HWPH.put("a/2259",
   {"id":3549,"lemma":"Wechsel","tf":2},
   {"id":1315,"lemma":"Humanismus, Humanität","tf":2}
  ],
- "see_also":[{"id":2433,"lemma":"Präformation"}],
+ "see_also":[
+  {"id":2433,"lemma":"Präformation"},
+  {"id":3614,"lemma":"Wiedergeburt"},
+  {"id":1192,"lemma":"Grundgesetz, biogenetisches"},
+  {"id":2217,"lemma":"Ontogenese"},
+  {"id":2367,"lemma":"Phylogenese"}
+ ],
  "groups":[
   {"id":28,"name":"Naturphilosophie","label":"Palingenesie"},
   {"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Palingenesie"}

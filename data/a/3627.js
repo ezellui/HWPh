@@ -34,11 +34,12 @@ HWPH.put("a/3627",
   {"term":"concursus","qualifier":"","band":"12","col":"825"},
   {"term":"divine action","qualifier":"","band":null,"col":null},
   {"term":"esse est operari","qualifier":"","band":"12","col":"827"},
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"Handeln Gottes","qualifier":"","band":null,"col":null},
+  {"term":"omnia in omnibus","qualifier":"","band":"12","col":"825"},
   {"term":"operatio Dei","qualifier":"","band":null,"col":null},
   {"term":"opus Dei","qualifier":"","band":"12","col":"825"},
-  {"term":"ἐνέργεια τοῦ θεοῦ","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 6 1153–1162 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἐνέργεια τοῦ θεοῦ","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1704,"name":"W. Härle","b":1,"n":3,"l":0,"editor":0,"role":"scholar"},

@@ -36,7 +36,7 @@ HWPH.put("a/3450",
  "register":[
   {"term":"audacia","qualifier":"","band":null,"col":null},
   {"term":"boldness","qualifier":"","band":null,"col":null},
-  {"term":"das 1 993","qualifier":"III","band":"11","col":"1001"},
+  {"term":"Charakteristische, das","qualifier":"III","band":"11","col":"1001"},
   {"term":"Feigheit","qualifier":"I","band":"11","col":"998"},
   {"term":"Hochmut","qualifier":"I","band":"11","col":"999"},
   {"term":"Hypothese, kühne","qualifier":"III","band":"11","col":"1001"},
@@ -154,7 +154,7 @@ HWPH.put("a/3450",
  ],
  "reg_authors":[
   {"name":"Gabriel Gottfried","n":51},
-  {"name":"Hühn Helmut","n":51},
+  {"name":"Hühn Helmut","n":52},
   {"name":"Stammkötter Franz-Bernhard","n":3}
  ]
 }

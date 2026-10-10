@@ -29,6 +29,7 @@ HWPH.put("a/1023",
   {"term":"Engagement","qualifier":"","band":"3","col":"138"},
   {"term":"f","qualifier":"","band":"3","col":"136–138"},
   {"term":"Gegenwärtigkeit","qualifier":"","band":"3","col":"137"},
+  {"term":"Jetzt","qualifier":"","band":"3","col":"137"},
   {"term":"praesentia","qualifier":"","band":null,"col":null},
   {"term":"παρουσία","qualifier":"","band":null,"col":null}
  ],

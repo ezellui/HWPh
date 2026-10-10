@@ -26,13 +26,7 @@ HWPH.put("a/1104",
   {"term":"social contract","qualifier":"","band":null,"col":null},
   {"term":"Sozialvertrag","qualifier":"","band":null,"col":null},
   {"term":"symbiotici","qualifier":"","band":"3","col":"478"},
-  {"term":"Unterwerfungsvertrag","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (allg.) 11 962–965 – II (soz./pol.) 11 965–979 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Unterwerfungsvertrag","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":20,"name":"J. Locke","b":3,"n":2,"l":0,"editor":0,"role":"source"},

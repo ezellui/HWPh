@@ -1,5 +1,6 @@
 HWPH.put("r/3b8-3b5",
 [
+ ["θέα","Visio","",null,null,"ref",3468,"Visio","θεα"],
  ["θεάνθρωπος","Gottmensch","","3","841","ref",1174,"Gottmensch","θεανθρωποσ"],
  ["θεάνθρωπος","Inkarnation","III","4","372","ref",1440,"Inkarnation","θεανθρωποσ"],
  ["θεατής","Zuschauer","",null,null,"ref",3713,"Zuschauer","θεατησ"],
@@ -38,17 +39,19 @@ HWPH.put("r/3b8-3b5",
  ["θεωρός","Zuschauer","",null,null,"ref",3713,"Zuschauer","θεωροσ"],
  ["θεός","Gott","",null,null,"ref",1162,"Gott","θεοσ"],
  [
-  "θέωσις","Gottwerdung; Vergöttlichung θεοσοφία","",null,null,"ref",1175,
+  "θέωσις","Gottwerdung; Vergöttlichung","",null,null,"ref",1175,
   "Gottwerdung, Vergottung, Vergöttlichung","θεωσισ"
  ],
+ ["θεοσοφία","Christentum, Wesen des","","1","1009","ref",496,"Christentum, Wesen des","θεοσοφια"],
+ ["θεοσοφία","Theosophie","","10","1158","ref",3182,"Theosophie","θεοσοφια"],
  ["θεότης","Gottheit","",null,null,"ref",1173,"Gottheit","θεοτησ"],
  ["θεραπεία","Therapie","",null,null,"ref",3184,"Therapie; Therapeutik","θεραπεια"],
  ["θεραπεία","Religion","I","8","632","ref",2673,"Religion","θεραπεια"],
  [
-  "θεραπεύειν τὴν ψυχήν","Therapie II (philos.)","","10","1165","ref",3184,"Therapie; Therapeutik",
+  "θεραπεύειν τὴν ψυχήν","Therapie","II (philos.)","10","1165","ref",3184,"Therapie; Therapeutik",
   "θεραπευειν την ψυχην"
  ],
- ["θεράπευμα","Therapie I (med.)","","10","1164","ref",3184,"Therapie; Therapeutik","θεραπευμα"],
+ ["θεράπευμα","Therapie","I (med.)","10","1164","ref",3184,"Therapie; Therapeutik","θεραπευμα"],
  [
   "θέσις","Physis/Nomos; Physis/Thesis","",null,null,"ref",2374,"Physis/Nomos, Physis/Thesis",
   "θεσισ"

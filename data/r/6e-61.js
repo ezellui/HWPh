@@ -1,71 +1,17 @@
 HWPH.put("r/6e-61",
 [
+ ["naturalis","Desiderium naturale","","2","124","ref",566,"Desiderium naturale","naturalis"],
+ ["naturalis","Streben","","10","277ff.","ref",3038,"Streben","naturalis"],
  [
-  "natürliche bzw. vernünftige 8 714f.","Verstehen","","11","921","ref",3438,"Verstehen",
-  "naturliche bzw. vernunftige 8 714f."
+  "naturalis","Begehren; Begierde","",null,null,"ref",362,"Begehren, appetitus naturalis",
+  "naturalis"
  ],
- [
-  "natürliche bzw. vernünftige 8 714f.","Vertrag","III (theol.)","11","981","ref",3445,"Vertrag",
-  "naturliche bzw. vernunftige 8 714f."
- ],
- ["Name","Name","III","6","386","main",2066,"Name","name"],
- [
-  "natürliche bzw. vernünftige","Theismus","",null,null,"ref",3163,"Theismus",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "Naivität/Pietät","Naivität/Pietät","(Wust)","6","364","main",2065,"Naivität/Pietät",
-  "naivitat/pietat"
- ],
- [
-  "Naivität/Pietät","Urteilskraft","","11","481","ref",3359,"Urteilskraft; Urteilsvermögen",
-  "naivitat/pietat"
- ],
- [
-  "Narzissmus III","Narzissmus III","",null,null,"main",2069,"Narzißmus, narzißtisch",
-  "narzissmus iii"
- ],
- ["Narzissmus III","Schuld","III","8","1462","ref",2784,"Schuld","narzissmus iii"],
- ["Natur, zweite","Natur, zweite","",null,null,"main",2077,"Natur, zweite","natur, zweite"],
- [
-  "Naturvölker/Kulturvölker","Naturvölker/Kulturvölker","","6","638","main",2092,
-  "Naturvölker/Kulturvölker","naturvolker/kulturvolker"
- ],
- [
-  "Natura naturans/naturata","Natura naturans/naturata","",null,null,"main",2079,
-  "Natura naturans/naturata","natura naturans/naturata"
- ],
- ["Naturgeschichte","Naturgeschichte","","6","526","main",2084,"Naturgeschichte","naturgeschichte"],
- [
-  "Naturgeschichte","Observatio; Beobachtung","","6","1075f.","ref",2195,"Observatio, Beobachtung",
-  "naturgeschichte"
- ],
- [
-  "Naturvölker/Kulturvölker","Naturvölker/Kulturvölker","",null,null,"main",2092,
-  "Naturvölker/Kulturvölker","naturvolker/kulturvolker"
- ],
- [
-  "natürliche bzw. vernünftige 8 719","Selbsterhaltung","","9","393","ref",2832,"Selbsterhaltung",
-  "naturliche bzw. vernunftige 8 719"
- ],
- [
-  "natürliche bzw. vernünftige 8 719","Sensus communis","III","9","642","ref",2869,"Sensus communis",
-  "naturliche bzw. vernunftige 8 719"
- ],
- ["Name","Name","III","6","385f.","main",2066,"Name","name"],
- ["Name","Prädikatenlogik","","7","1193","ref",2426,"Prädikatenlogik, Prädikatenkalkül","name"],
- [
-  "natürliche bzw. vernünftige 8 723 κοσμοθεωρός","Spectator caeli","","9","1350","ref",2968,
-  "Spectator caeli","naturliche bzw. vernunftige 8 723 κοσμοθεωροσ"
- ],
- [
-  "natürliche bzw. vernünftige","Notiones communes","","6","939","ref",2168,"Notiones communes",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige 8 715ff metaphysica universalis","Erste Philosophie","II","2","728",
-  "ref",816,"Erste Philosophie","naturliche bzw. vernunftige 8 715ff metaphysica universalis"
- ],
+ ["naturalis","Trieb","II (psych.)",null,null,"ref",3229,"Trieb","naturalis"],
+ ["naturalis","Streben","",null,null,"ref",3038,"Streben","naturalis"],
+ ["naturalis","Trieb","",null,null,"ref",3229,"Trieb","naturalis"],
+ ["naturalis","Streben","",null,null,"ref",3038,"Streben","naturalis"],
+ ["naturalis","Supranatural","",null,null,"ref",3088,"Supranatural; Supranaturalismus","naturalis"],
+ ["naturalis","Wille","",null,null,"ref",3620,"Wille","naturalis"],
  ["Nachahmung","Nachahmung","","6","319–336","main",2054,"Nachahmung","nachahmung"],
  ["Nachahmung","Lernen","",null,null,"see",1782,"Lernen","nachahmung"],
  ["Nachahmung","Lerntheorien","",null,null,"see",1783,"Lerntheorien","nachahmung"],
@@ -122,7 +68,7 @@ HWPH.put("r/6e-61",
   "nachfolge christi"
  ],
  ["Nachfolgerfunktion","Ordnung","IV (log.)","6","1308","ref",2233,"Ordnung","nachfolgerfunktion"],
- ["Nachfrage","Lohn III (ökon.)","",null,null,"ref",1828,"Lohn, Verdienst","nachfrage"],
+ ["Nachfrage","Lohn","III (ökon.)",null,null,"ref",1828,"Lohn, Verdienst","nachfrage"],
  ["Nachfrage","Markt","",null,null,"ref",1870,"Markt","nachfrage"],
  ["Nachfrage","Wert/Preis","",null,null,"ref",3590,"Wert/Preis","nachfrage"],
  ["Nachfrage","Konkurrenz","","4","971","ref",1617,"Konkurrenz","nachfrage"],
@@ -144,6 +90,11 @@ HWPH.put("r/6e-61",
  ["Nachscholastik","Neuscholastik","","6","770","ref",2125,"Neuscholastik","nachscholastik"],
  ["nachsokratisch","Vorsokratiker Nacht","",null,null,"ref",null,null,"nachsokratisch"],
  [
+  "Nachtansicht","Tagesansicht/Nachtansicht","(Fechner)",null,null,"ref",3121,
+  "Tagesansicht/Nachtansicht","nachtansicht"
+ ],
+ ["Nachtansicht","Pessimismus","","7","389","ref",2331,"Pessimismus","nachtansicht"],
+ [
   "Nachtgedächtnis","Somnambulismus","","9","1061","ref",2923,"Somnambulismus, somnambul",
   "nachtgedachtnis"
  ],
@@ -162,7 +113,7 @@ HWPH.put("r/6e-61",
  ["Nächstenliebe","Fernstenliebe","(Nietzsche)",null,null,"see",907,"Fernstenliebe","nachstenliebe"],
  ["Nächstenliebe","Mitleid","",null,null,"see",1981,"Mitleid","nachstenliebe"],
  ["Nächstenliebe","Mitmensch","",null,null,"see",1982,"Mitmensch","nachstenliebe"],
- ["Nächstenliebe","Philanthropie","",null,null,"see",2351,"Philanthropie","nachstenliebe"],
+ ["Nächstenliebe","Philanthropie","3",null,null,"see",2351,"Philanthropie","nachstenliebe"],
  ["Nächstenliebe","Selbstliebe","",null,null,"see",2840,"Selbstliebe","nachstenliebe"],
  [
   "Nächstenliebe","Allgemeines/Besonderes","II","1","175","ref",101,"Allgemeines/Besonderes",
@@ -219,7 +170,7 @@ HWPH.put("r/6e-61",
   "Via causalitatis; via negationis; via eminentiae","name gottes"
  ],
  [
-  "Namensrelation, Paradoxien der","Paradox III (log.)","","7","96","ref",2270,
+  "Namensrelation, Paradoxien der","Paradox","III (log.)","7","96","ref",2270,
   "Paradox, Paradox(e), Paradoxie","namensrelation, paradoxien der"
  ],
  ["Napoleonismus","Cäsarismus","",null,null,"ref",464,"Cäsarismus","napoleonismus"],
@@ -271,12 +222,12 @@ HWPH.put("r/6e-61",
  ],
  ["Nationalgeschichte","Philologie","","7","564","ref",2352,"Philologie","nationalgeschichte"],
  [
-  "Nationalismus","Nation; Nationalismus Nationalität","",null,null,"ref",2070,
+  "Nationalismus","Nation; Nationalismus","",null,null,"ref",2070,
   "Nation, Nationalismus, Nationalität","nationalismus"
  ],
  [
-  "Nation; Nationalismus","Nation; Nationalismus","",null,null,"main",2070,
-  "Nation, Nationalismus, Nationalität","nation; nationalismus"
+  "Nationalität","Nation; Nationalismus","",null,null,"ref",2070,
+  "Nation, Nationalismus, Nationalität","nationalitat"
  ],
  [
   "Nationalliteratur","Nationalliteratur","","6","414–417","main",2071,"Nationalliteratur",
@@ -313,25 +264,23 @@ HWPH.put("r/6e-61",
  ["Nativismus","Apriorismus","",null,null,"see",224,"Apriorismus","nativismus"],
  ["Nativismus","Lokalisation","",null,null,"see",1829,"Lokalisation","nativismus"],
  ["Nativismus","Lokalzeichen","",null,null,"see",1831,"Lokalzeichen","nativismus"],
- ["Nativismus","Raum","",null,null,"see",2578,"Raum","nativismus"],
+ ["Nativismus","Raum; Raumwahrnehmung","",null,null,"see",2578,"Raum","nativismus"],
+ [
+  "natürlich/übernatürlich","Supranatural","","10","672","ref",3088,
+  "Supranatural; Supranaturalismus","naturlich/ubernaturlich"
+ ],
  ["Natürliche, das","Naiv; Naivität","","6","360","ref",2063,"Naiv, Naivität","naturliche, das"],
  [
   "natürliche Erfahrung","Normalität","(Husserl)",null,null,"ref",2163,"Normalität",
   "naturliche erfahrung"
  ],
- ["natürliche Religion","Religion","",null,null,"ref",2673,"Religion","naturliche religion"],
  [
-  "natürliche bzw. vernünftige natürliche Repräsentation","Repräsentation","III (19./20. Jh.)","8",
-  "830","ref",2686,"Repräsentation","naturliche bzw. vernunftige naturliche reprasentation"
- ],
- ["natürliche Theologie","Religion","",null,null,"ref",2673,"Religion","naturliche theologie"],
- [
-  "natürliche bzw. vernünftige natürlicher Mensch","Mensch, natürlicher","",null,null,"ref",1920,
-  "Mensch, natürlicher","naturliche bzw. vernunftige naturlicher mensch"
+  "natürliche Religion","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "naturliche religion"
  ],
  [
-  "natürliche bzw. vernünftige natürlicher Mensch","Naturmensch","",null,null,"ref",2087,
-  "Naturmensch","naturliche bzw. vernunftige naturlicher mensch"
+  "natürliche Theologie","Religion, natürliche","",null,null,"ref",2673,"Religion",
+  "naturliche theologie"
  ],
  [
   "natürlicher Trieb","Desiderium naturale","",null,null,"ref",566,"Desiderium naturale",
@@ -349,7 +298,14 @@ HWPH.put("r/6e-61",
  ["Natur","Buch der Natur","",null,null,"see",456,"Buch der Natur","natur"],
  ["Natur","Erfahrungswissenschaft","",null,null,"see",789,"Erfahrungswissenschaft","natur"],
  ["Natur","Gesetz, natürliches","",null,null,"see",1108,"Gesetz, natürliches","natur"],
- ["Natur","Supranatural Natur","",null,null,"see",null,null,"natur"],
+ ["Natur","Supranatural","",null,null,"see",3088,"Supranatural; Supranaturalismus","natur"],
+ ["Natur","Organismus","III (pol.)",null,null,"ref",2243,"Organismus","natur"],
+ ["Natur","Allgemeines/Besonderes","III 3","1","184","ref",101,"Allgemeines/Besonderes","natur"],
+ ["Natur","Antike","II","1","389","ref",182,"Antike","natur"],
+ ["Natur","Materie","IV 4","5","917","ref",1892,"Materie","natur"],
+ ["Natur","Schicksal","","8","1277f.","ref",2764,"Schicksal","natur"],
+ ["Natur","Tun/Leiden","","10","1574","ref",3241,"Tun/Leiden","natur"],
+ ["Natur","Vorsehung","","11","1215","ref",3500,"Vorsehung","natur"],
  ["Natur/Geist","Geist","VII","3","189f.","ref",1030,"Geist","natur/geist"],
  ["Natur/Geschichte","Natur, zweite","II","6","493","ref",2077,"Natur, zweite","natur/geschichte"],
  [
@@ -376,7 +332,7 @@ HWPH.put("r/6e-61",
   "Natura universalis/particularis","natur, ganze/partielle"
  ],
  [
-  "Natur, gefesselte","Produktion I (nat.)","","7","1422","ref",2469,"Produktion, Produktivität",
+  "Natur, gefesselte","Produktion","I (nat.)","7","1422","ref",2469,"Produktion, Produktivität",
   "natur, gefesselte"
  ],
  [
@@ -385,7 +341,8 @@ HWPH.put("r/6e-61",
  ],
  ["Natur, zweite","Natur, zweite","","6","484–494","main",2077,"Natur, zweite","natur, zweite"],
  ["Natur, zweite","Gewohnheit","",null,null,"see",1132,"Gewohnheit","natur, zweite"],
- ["Natur, zweite","Hexis; habitus Natur, zweite","",null,null,"see",null,null,"natur, zweite"],
+ ["Natur, zweite","Hexis; habitus","",null,null,"see",null,null,"natur, zweite"],
+ ["Natur, zweite","Technik","","10","948","ref",3139,"Technik","natur, zweite"],
  ["Natur als Künstler","Archeus","","1","500","ref",240,"Archeus","natur als kunstler"],
  [
   "Natur als Stiefmutter","Mängelwesen","","5","712","ref",1858,"Mängelwesen",
@@ -413,7 +370,7 @@ HWPH.put("r/6e-61",
  ["Natur in Gott","Geist","VII","3","190","ref",1030,"Geist","natur in gott"],
  ["Natur in Gott","Grund","","3","906","ref",1191,"Grund","natur in gott"],
  [
-  "Natur und Geschichte","Latenz I (allg.)","","5","41","ref",1731,"Latent, Latenz",
+  "Natur und Geschichte","Latenz","I (allg.)","5","41","ref",1731,"Latent, Latenz",
   "natur und geschichte"
  ],
  ["natura","Natur","",null,null,"ref",2074,"Natur","natura"],
@@ -472,7 +429,7 @@ HWPH.put("r/6e-61",
   "natura pura","Supranatural","","10","672","ref",3088,"Supranatural; Supranaturalismus",
   "natura pura"
  ],
- ["Natur der Sache","Natur der Sache","",null,null,"main",2075,"Natur der Sache","natur der sache"],
+ ["natura rerum","Natur der Sache","",null,null,"ref",2075,"Natur der Sache","natura rerum"],
  ["natura secunda","Natur, zweite","",null,null,"ref",2077,"Natur, zweite","natura secunda"],
  [
   "Natura universalis/particularis","Natura universalis/particularis","","6","509–517","main",2080,
@@ -487,8 +444,12 @@ HWPH.put("r/6e-61",
   "Naturschönheit/Kunstschönheit","natural beauty"
  ],
  [
-  "natural deduction","Schliessen, natürliches natural inference","",null,null,"ref",2768,
-  "Schließen, natürliches","natural deduction"
+  "natural deduction","Schliessen, natürliches","",null,null,"ref",2768,"Schließen, natürliches",
+  "natural deduction"
+ ],
+ [
+  "natural inference","Implicit Reasoning","(Newman)",null,null,"ref",1398,"Implicit Reasoning",
+  "natural inference"
  ],
  ["natural language","Natursprache","",null,null,"ref",2091,"Natursprache","natural language"],
  [
@@ -498,17 +459,9 @@ HWPH.put("r/6e-61",
  ["natural law","Naturrecht","",null,null,"ref",2089,"Naturrecht","natural law"],
  ["natural man","Naturmensch","",null,null,"ref",2087,"Naturmensch","natural man"],
  ["natural realism","Realismus","II 3","8","160","ref",2588,"Realismus","natural realism"],
- ["natural religion","Religion","",null,null,"ref",2673,"Religion","natural religion"],
- [
-  "natürliche bzw. vernünftige natural rights","Naturrecht","",null,null,"ref",2089,"Naturrecht",
-  "naturliche bzw. vernunftige natural rights"
- ],
+ ["natural religion","Religion, natürliche","",null,null,"ref",2673,"Religion","natural religion"],
  ["natural science","Naturphilosophie","",null,null,"ref",2088,"Naturphilosophie","natural science"],
- ["natural theology","Religion","",null,null,"ref",2673,"Religion","natural theology"],
- [
-  "natürliche bzw. vernünftige naturalis","Normal; Normalität","I","6","920","ref",2161,
-  "Normal, Normalität","naturliche bzw. vernunftige naturalis"
- ],
+ ["natural theology","Religion, natürliche","",null,null,"ref",2673,"Religion","natural theology"],
  ["Naturalismus","Naturalismus","","6","517–519","main",2081,"Naturalismus","naturalismus"],
  ["Naturalismus","Deismus","",null,null,"see",543,"Deismus","naturalismus"],
  ["Naturalismus","Sensualismus","",null,null,"see",2867,"Sensualismus","naturalismus"],
@@ -641,10 +594,7 @@ HWPH.put("r/6e-61",
   "Naturnachahmung","Nachahmung, bildende","",null,null,"ref",2055,"Nachahmung, bildende",
   "naturnachahmung"
  ],
- [
-  "Naturphilosophie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "naturphilosophie s. auch"
- ],
+ ["Naturphilosophie","Register der Sachgruppen","",null,null,"see",null,null,"naturphilosophie"],
  [
   "Naturphilosophie","Naturphilosophie","","6","535–560","main",2088,"Naturphilosophie",
   "naturphilosophie"
@@ -661,12 +611,22 @@ HWPH.put("r/6e-61",
  ["Naturrecht","Gesetz, ewiges","",null,null,"see",1106,"Gesetz, ewiges","naturrecht"],
  ["Naturrecht","Gesetz, natürliches","",null,null,"see",1108,"Gesetz, natürliches","naturrecht"],
  ["Naturrecht","Recht","",null,null,"see",2598,"Recht","naturrecht"],
- ["Naturrecht","Ethik","",null,null,"ref",835,"Ethik","naturrecht"],
- ["Naturreligion","Religion","",null,null,"ref",2673,"Religion","naturreligion"],
+ ["Naturrecht","Ethik","IV-V",null,null,"ref",835,"Ethik","naturrecht"],
+ ["Naturrecht","Historische Schule","",null,null,"ref",1282,"Historische Schule","naturrecht"],
+ ["Naturrecht","Pflichtenlehre","",null,null,"ref",2337,"Pflichtenlehre","naturrecht"],
+ ["Naturrecht","Vertrag","II (soz./pol.)",null,null,"ref",3445,"Vertrag","naturrecht"],
+ ["Naturrecht","Macht","I B","5","598","ref",1844,"Macht","naturrecht"],
  [
-  "natürliche bzw. vernünftige","Religion","VIII","10","8","ref",2998,"Staat",
-  "naturliche bzw. vernunftige"
+  "Naturrecht","Naturschönheit/Kunstschönheit","II","6","630","ref",2090,
+  "Naturschönheit/Kunstschönheit","naturrecht"
  ],
+ ["Naturrecht","Ökonomie","I (ökon.)","6","1151","ref",2210,"Ökonomie","naturrecht"],
+ ["Naturrecht","Pflicht","","7","408","ref",2334,"Pflicht","naturrecht"],
+ [
+  "Naturrecht","Pflichten, unvollkommene/vollkommene","","7","434","ref",2335,
+  "Pflichten, unvollkommene/vollkommene","naturrecht"
+ ],
+ ["Naturreligion","Religion, natürliche","",null,null,"ref",2673,"Religion","naturreligion"],
  ["Naturschöne, das","Ästhetik","","1","566","ref",266,"Ästhetik, ästhetisch","naturschone, das"],
  [
   "Naturschönheit/Kunstschönheit","Naturschönheit/Kunstschönheit","","6","623–633","main",2090,
@@ -685,9 +645,10 @@ HWPH.put("r/6e-61",
   "naturschonheit/kunstschonheit"
  ],
  [
-  "Naturschönheit/Kunstschönheit","Schöne","",null,null,"see",2776,"Schöne",
+  "Naturschönheit/Kunstschönheit","Schöne, das","",null,null,"see",2776,"Schöne",
   "naturschonheit/kunstschonheit"
  ],
+ ["Naturseele","Archeus","",null,null,"ref",240,"Archeus","naturseele"],
  ["Natursprache","Natursprache","","6","633–635","main",2091,"Natursprache","natursprache"],
  ["Natursprache","Sprache, adamische","",null,null,"see",2986,"Sprache, adamische","natursprache"],
  ["Natursprache","Ursprache","",null,null,"see",3351,"Ursprache","natursprache"],
@@ -702,12 +663,12 @@ HWPH.put("r/6e-61",
  ],
  ["Naturstand","Naturzustand","",null,null,"ref",2095,"Naturzustand","naturstand"],
  [
-  "Naturtrieb","Begehren; appetitus naturalis","",null,null,"ref",362,
-  "Begehren, appetitus naturalis","naturtrieb"
+  "Naturtrieb","Begehren; appetitus","",null,null,"ref",362,"Begehren, appetitus naturalis",
+  "naturtrieb"
  ],
- ["Naturtrieb","Instinkt","I (erk.)","4","409","ref",1453,"Instinkt","naturtrieb"],
- ["Naturtrieb","Neigung","","6","710","ref",2106,"Neigung","naturtrieb"],
- ["Naturtrieb","Trieb","I (allg.)","10","1485","ref",3229,"Trieb","naturtrieb"],
+ ["naturalis","Instinkt","I (erk.)","4","409","ref",1453,"Instinkt","naturalis"],
+ ["naturalis","Neigung","","6","710","ref",2106,"Neigung","naturalis"],
+ ["naturalis","Trieb","I (allg.)","10","1485","ref",3229,"Trieb","naturalis"],
  ["Naturvergewaltigung","Technik","","10","945","ref",3139,"Technik","naturvergewaltigung"],
  [
   "Naturvölker/Kulturvölker","Naturvölker/Kulturvölker","","6","635–641","main",2092,
@@ -748,7 +709,7 @@ HWPH.put("r/6e-61",
  ],
  ["Naturwissenschaften","Physik","",null,null,"see",2368,"Physik","naturwissenschaften"],
  [
-  "Naturwissenschaften/Geisteswissenschaften","Erklären I (Dilthey)","",null,null,"ref",801,
+  "Naturwissenschaften/Geisteswissenschaften","Erklären","I (Dilthey)",null,null,"ref",801,
   "Erklären, Erklärung","naturwissenschaften/geisteswissenschaften"
  ],
  ["Naturwüchsig","Naturwüchsig","","6","650–653","main",2094,"Naturwüchsig","naturwuchsig"],
@@ -790,259 +751,38 @@ HWPH.put("r/6e-61",
  ["Naturzweck","Naturzweck","(Kant)","6","658f.","main",2096,"Naturzweck","naturzweck"],
  ["naufrage du monde","Scheitern","","8","1245","ref",2759,"Scheitern","naufrage du monde"],
  ["nausée","Ekel","",null,null,"ref",699,"Ekel","nausee"],
+ ["naturalis","Begehrungsvermögen","",null,null,"ref",364,"Begehrungsvermögen","naturalis"],
+ ["naturalis","Conatus","",null,null,"ref",507,"Conatus","naturalis"],
+ ["naturalis","Desiderium naturale","",null,null,"ref",566,"Desiderium naturale","naturalis"],
+ ["naturalis","Drang","",null,null,"ref",635,"Drang","naturalis"],
+ ["naturalis","Geltungsstreben","",null,null,"ref",1045,"Geltungsstreben","naturalis"],
+ ["naturalis","Nisus","",null,null,"ref",2141,"Nisus","naturalis"],
+ ["naturalis","Tendenz","",null,null,"ref",3149,"Tendenz","naturalis"],
+ ["naturalis","Trieb","I (allg.)",null,null,"ref",3229,"Trieb","naturalis"],
+ ["naturalis","Verlangen","",null,null,"ref",3415,"Verlangen","naturalis"],
+ ["naturalis","Conatus","",null,null,"ref",507,"Conatus","naturalis"],
+ ["naturalis","Drang","",null,null,"ref",635,"Drang","naturalis"],
+ ["naturalis","Impetus","",null,null,"ref",1397,"Impetus","naturalis"],
+ ["naturalis","Instinkt","",null,null,"ref",1453,"Instinkt","naturalis"],
+ ["naturalis","Konkupiszenz","",null,null,"ref",1616,"Konkupiszenz","naturalis"],
+ ["naturalis","Neigung","",null,null,"ref",2106,"Neigung","naturalis"],
+ ["naturalis","Nisus","",null,null,"ref",2141,"Nisus","naturalis"],
+ ["naturalis","Spieltrieb","",null,null,"ref",2976,"Spieltrieb","naturalis"],
  [
-  "natürliche bzw. vernünftige 8 726","Schöpfung","V","8","1407","ref",2779,"Schöpfung",
-  "naturliche bzw. vernunftige 8 726"
+  "naturalis","Stofftrieb/Formtrieb","(Schiller)",null,null,"ref",3031,"Stofftrieb/Formtrieb",
+  "naturalis"
  ],
- [
-  "natürliche bzw. vernünftige 8 726","Summe","","10","591","ref",3072,"Summe",
-  "naturliche bzw. vernunftige 8 726"
- ],
- [
-  "natürliche bzw. vernünftige 8 726","Verheissung","","11","692","ref",3407,"Verheißung",
-  "naturliche bzw. vernunftige 8 726"
- ],
- [
-  "natürliche bzw. vernünftige","Religionskritik","",null,null,"ref",2677,"Religionskritik",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Theologie","",null,null,"ref",3169,"Theologie",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige 8 717 Pädagogie, göttliche","Pädagogik","","7","2","ref",2256,
-  "Pädagogik","naturliche bzw. vernunftige 8 717 padagogie, gottliche"
- ],
- [
-  "natürliche bzw. vernünftige","Teleologie Physikotheologie","",null,null,"ref",null,null,
-  "naturliche bzw. vernunftige"
- ],
- [
-  "Naturphilosophie","Naturphilosophie","I","6","535","main",2088,"Naturphilosophie",
-  "naturphilosophie"
- ],
- [
-  "Naturphilosophie","Naturphilosophie","III","6","545","ref",2088,"Naturphilosophie",
-  "naturphilosophie"
- ],
- [
-  "natürliche bzw. vernünftige 8 716","Seele","IV","9","29","ref",2794,"Seele",
-  "naturliche bzw. vernunftige 8 716"
- ],
- [
-  "natürliche bzw. vernünftige Rationalismus","Intellektualismus","","4","440","ref",1462,
-  "Intellektualismus","naturliche bzw. vernunftige rationalismus"
- ],
- [
-  "natürliche bzw. vernünftige Rationalismus","Supranatural","","10","673f.","ref",3088,
-  "Supranatural; Supranaturalismus","naturliche bzw. vernunftige rationalismus"
- ],
- [
-  "natürliche bzw. vernünftige rationem reddere","Rechnen","II (kult.)",null,null,"ref",2597,
-  "Rechnen","naturliche bzw. vernunftige rationem reddere"
- ],
- [
-  "natürliche bzw. vernünftige rationem reddere","Rechtfertigung","",null,null,"ref",2601,
-  "Rechtfertigung","naturliche bzw. vernunftige rationem reddere"
- ],
- [
-  "natürliche bzw. vernünftige","Religion","V B","8","648f.","ref",2673,"Religion",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige religio rotunda","Religion","",null,null,"ref",2673,"Religion",
-  "naturliche bzw. vernunftige religio rotunda"
- ],
- [
-  "natürliche bzw. vernünftige 8 719 religio vera","Philosophie","II D","7","631","ref",2353,
-  "Philosophie","naturliche bzw. vernunftige 8 719 religio vera"
- ],
- [
-  "natürliche bzw. vernünftige 8 719 religio vera","Religion","II","8","636","ref",2673,"Religion",
-  "naturliche bzw. vernunftige 8 719 religio vera"
- ],
- [
-  "natürliche bzw. vernünftige 8 713–727 s auch","Deismus","",null,null,"ref",543,"Deismus",
-  "naturliche bzw. vernunftige 8 713–727 s auch"
- ],
- [
-  "natürliche bzw. vernünftige 8 713–727 s auch","Physikotheologie","",null,null,"ref",2370,
-  "Physikotheologie","naturliche bzw. vernunftige 8 713–727 s auch"
- ],
- [
-  "natürliche bzw. vernünftige 8 713–727 s auch","Rationalismus","I",null,null,"ref",2574,
-  "Rationalismus","naturliche bzw. vernunftige 8 713–727 s auch"
- ],
- [
-  "natürliche bzw. vernünftige 8 713–727 s auch","Religion","VI",null,null,"ref",2673,"Religion",
-  "naturliche bzw. vernunftige 8 713–727 s auch"
- ],
- [
-  "natürliche bzw. vernünftige 8 713–727 s auch","Religionsphilosophie","",null,null,"ref",2679,
-  "Religionsphilosophie","naturliche bzw. vernunftige 8 713–727 s auch"
- ],
- [
-  "natürliche bzw. vernünftige Religion Christi","Religion","VI","8","667","ref",2673,"Religion",
-  "naturliche bzw. vernunftige religion christi"
- ],
- [
-  "natürliche bzw. vernünftige","Religionskritik","",null,null,"ref",2677,"Religionskritik",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige 8 724","Schwärmerei","","6","1478","ref",2786,"Schwärmerei",
-  "naturliche bzw. vernunftige 8 724"
- ],
- [
-  "natürliche bzw. vernünftige 8 714 scala naturae","Leben","VI (biol.)","5","98","ref",1735,"Leben",
-  "naturliche bzw. vernunftige 8 714 scala naturae"
- ],
- [
-  "natürliche bzw. vernünftige 8 714 scala naturae","Stufen","I","10","353","ref",3044,"Stufen",
-  "naturliche bzw. vernunftige 8 714 scala naturae"
- ],
- [
-  "natürliche bzw. vernünftige 8 714 scala naturae","Tier","I","10","1199","ref",3192,
-  "Tier; Tierseele","naturliche bzw. vernunftige 8 714 scala naturae"
- ],
- [
-  "natürliche bzw. vernünftige","Uroffenbarung","",null,null,"ref",3347,"Uroffenbarung",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Gott","X","3","789f.","ref",1162,"Gott",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Ontologie","1","6","1191ff.","ref",2218,"Ontologie",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Theologie","","10","1081","ref",3169,"Theologie",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Ontotheologie","","6","1207","ref",2225,"Ontotheologie",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige 8 716 theologia symbolica","Geist","V","3","174","ref",1030,"Geist",
-  "naturliche bzw. vernunftige 8 716 theologia symbolica"
- ],
- [
-  "natürliche bzw. vernünftige 8 716 theologia symbolica","Symbol","I","10","715ff.","ref",3093,
-  "Symbol","naturliche bzw. vernunftige 8 716 theologia symbolica"
- ],
- [
-  "natürliche bzw. vernünftige 8 716 theologia symbolica","Symbol","III","10","738","ref",3093,
-  "Symbol","naturliche bzw. vernunftige 8 716 theologia symbolica"
- ],
- [
-  "natürliche bzw. vernünftige","Theologik","",null,null,"ref",3175,"Theologik",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Uroffenbarung","","11","370f.","ref",3347,"Uroffenbarung",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige Theologie, spekulative","Spekulation","","9","1361f.","ref",2969,
-  "Spekulation","naturliche bzw. vernunftige theologie, spekulative"
- ],
- [
-  "natürliche bzw. vernünftige Theologie, spekulative","Theologie","","10","1086","ref",3169,
-  "Theologie","naturliche bzw. vernunftige theologie, spekulative"
- ],
- [
-  "natürliche bzw. vernünftige 8 723f. Theologie, typische","Typos; Typologie","I (theol.)","10",
-  "1590f.","ref",3244,"Typos; Typologie","naturliche bzw. vernunftige 8 723f. theologie, typische"
- ],
- [
-  "natürliche bzw. vernünftige","Theologie","",null,null,"ref",3169,"Theologie",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige 8 726 verbum","Wort","I (sprach.)",null,null,"ref",3656,"Wort",
-  "naturliche bzw. vernunftige 8 726 verbum"
- ],
- ["Natur, zweite","Natur, zweite","II","6","492","main",2077,"Natur, zweite","natur, zweite"],
- ["Natur, zweite","Praxis","III","7","1300f.","ref",2448,"Praxis, praktisch","natur, zweite"],
- [
-  "natürliche bzw. vernünftige 8 719 veritas contingens","Voluntarismus","","11","1144","ref",3486,
-  "Voluntarismus","naturliche bzw. vernunftige 8 719 veritas contingens"
- ],
- [
-  "natürliche bzw. vernünftige 8 716 veritas prima","Glaube","I","3","635","ref",1138,"Glaube",
-  "naturliche bzw. vernunftige 8 716 veritas prima"
- ],
- [
-  "natürliche bzw. vernünftige Vernünftigkeit","Vernunft; Verstand","VII D",null,null,"ref",3423,
-  "Vernunft; Verstand","naturliche bzw. vernunftige vernunftigkeit"
- ],
- [
-  "natürliche bzw. vernünftige Vernünftigkeit","Rationalität I (erk.)","","8","55","ref",2576,
-  "Rationalität, Rationalisierung","naturliche bzw. vernunftige vernunftigkeit"
- ],
- [
-  "natürliche bzw. vernünftige","Religionskritik","",null,null,"ref",2677,"Religionskritik",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Religion","VI","8","667","ref",2673,"Religion",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige","Religion","VII","8","676","ref",2673,"Religion",
-  "naturliche bzw. vernunftige"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Verstehen","","11","918–938","ref",3438,"Verstehen",
-  "naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Einfühlung","",null,null,"see",681,"Einfühlung",
-  "naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Erklären","",null,null,"see",801,"Erklären, Erklärung",
-  "naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Hermeneutik","",null,null,"see",1255,"Hermeneutik",
-  "naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Nacherleben","",null,null,"see",2058,"Nacherleben",
-  "naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Unverständlichkeit","",null,null,"see",3333,
-  "Unverständlichkeit","naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Verständigung","",null,null,"see",3437,"Verständigung",
-  "naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Vorverständnis","",null,null,"see",3508,"Vorverständnis",
-  "naturliche bzw. vernunftige 8 725"
- ],
- [
-  "natürliche bzw. vernünftige 8 725","Zirkel, hermeneutischer","",null,null,"see",3696,
-  "Zirkel, hermeneutischer","naturliche bzw. vernunftige 8 725"
- ],
- ["Natur","Natur","II","6","443","main",2074,"Natur","natur"],
- ["Natur","Natur","IV","6","457","ref",2074,"Natur","natur"],
- ["Natur","Naturphilosophie","III","6","545","ref",2088,"Naturphilosophie","natur"],
- ["Natur","Qualitas occulta","","7","1746","ref",2543,"Qualitas occulta","natur"],
- ["Natur","Superstition; Aberglaube","II","10","638","ref",3080,"Superstition; Aberglaube","natur"],
- ["Natur","Verteilung der Beweislast","","11","956","ref",3443,"Verteilung der Beweislast","natur"],
- ["Natur","Weissagung","","12","398","ref",3554,"Weissagung","natur"],
- [
-  "natürliche bzw. vernünftige","Theologie, politische","",null,null,"ref",3174,
-  "Theologie, politische","naturliche bzw. vernunftige"
- ],
+ ["naturalis","Streben","",null,null,"ref",3038,"Streben","naturalis"],
+ ["naturalis","Verlangen","",null,null,"ref",3415,"Verlangen","naturalis"],
+ ["naturae","Methode","",null,null,"ref",1955,"Methode","naturae"],
+ ["naturae","Prozess","",null,null,"ref",2499,"Prozeß","naturae"],
+ ["naturalis","Desiderium naturale","",null,null,"ref",566,"Desiderium naturale","naturalis"],
+ ["naturalis","Konkupiszenz","",null,null,"ref",1616,"Konkupiszenz","naturalis"],
+ ["naturalis","Sehnsucht","",null,null,"ref",2804,"Sehnsucht","naturalis"],
+ ["naturalis","Streben","",null,null,"ref",3038,"Streben","naturalis"],
+ ["naturalis","Sucht","",null,null,"ref",3069,"Sucht","naturalis"],
+ ["naturalis","Trieb","",null,null,"ref",3229,"Trieb","naturalis"],
+ ["naturalis","Wunsch","",null,null,"ref",3661,"Wunsch","naturalis"],
  [
   "Naschert Guido","Unverständlichkeit","","11","336–339","author",3333,"Unverständlichkeit",
   "naschert guido"

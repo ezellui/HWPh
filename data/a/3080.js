@@ -39,12 +39,12 @@ HWPH.put("a/3080",
   {"term":"Freigeisterei zweiten Ranges","qualifier":"II","band":"10","col":"641"},
   {"term":"Hochmut","qualifier":"II","band":"10","col":"637"},
   {"term":"metus irrationalis","qualifier":"II","band":"10","col":"638"},
-  {"term":"Natur","qualifier":"II","band":"10","col":"638"},
   {"term":"pactum tacitum/expressum","qualifier":"I","band":"10","col":"635"},
   {"term":"spes irrationalis","qualifier":"II","band":"10","col":"638"},
   {"term":"test of ridicule","qualifier":"II","band":"10","col":"639"},
   {"term":"Wahn","qualifier":"II","band":"10","col":"640"},
-  {"term":"Wissenschaftsaberglaube","qualifier":"II","band":"10","col":"642"}
+  {"term":"Wissenschaftsaberglaube","qualifier":"II","band":"10","col":"642"},
+  {"term":"Wunder","qualifier":"II","band":"10","col":"638"}
  ],
  "persons":[
   {"id":5098,"name":"M. Pott","b":0,"n":6,"l":1,"editor":0,"role":"scholar"},

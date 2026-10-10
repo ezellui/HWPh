@@ -29,7 +29,7 @@ HWPH.put("a/633",
  ],
  "outlinks":[],
  "register":[
-  {"term":"das Glanz, göttlicher","qualifier":"","band":"2","col":"288"},
+  {"term":"Glanz, göttlicher","qualifier":"","band":"2","col":"288"},
   {"term":"Herrlichkeit Gottes","qualifier":"","band":"2","col":"288"},
   {"term":"kāb_ôd","qualifier":"","band":null,"col":null},
   {"term":"Ruf","qualifier":"","band":"2","col":"288"},

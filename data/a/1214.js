@@ -20,7 +20,7 @@ HWPH.put("a/1214",
  "register":[
   {"term":"alcedo","qualifier":"","band":null,"col":null},
   {"term":"Eisvogeltage","qualifier":"","band":null,"col":null},
-  {"term":"Modelltheorie I (log.) 6 50 ἁλκυονίς","qualifier":"","band":null,"col":null}
+  {"term":"ἁλκυονίς","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3464,"name":"A. Gombert","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},

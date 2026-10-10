@@ -27,6 +27,7 @@ HWPH.put("a/3334",
   {"id":3488,"lemma":"Voraussetzungslosigkeit","n":1}
  ],
  "register":[
+  {"term":"Absolute","qualifier":"(Schelling)","band":null,"col":null},
   {"term":"Charakter","qualifier":"(Schelling)","band":"11","col":"340"},
   {"term":"Unbegreifliche, das","qualifier":"(Schelling)","band":null,"col":null},
   {"term":"unprethinkable","qualifier":"(Schelling)","band":null,"col":null},

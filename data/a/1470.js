@@ -27,7 +27,6 @@ HWPH.put("a/1470",
  ],
  "outlinks":[],
  "register":[
-  {"term":"/Objekt V 10 429","qualifier":"(Husserl)","band":"4","col":"475"},
   {"term":"Akt, intentionaler","qualifier":"(Husserl)","band":"4","col":"475"},
   {"term":"Aufmerksamkeit","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Inexistenz, intentionale","qualifier":"(Husserl)","band":"4","col":"475"},
@@ -48,7 +47,12 @@ HWPH.put("a/1470",
   {"id":2340,"lemma":"Phänomen","tf":3},
   {"id":2511,"lemma":"Psychologie","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1469,"lemma":"Intentionalanalyse"},
+  {"id":1760,"lemma":"Leerintention"},
+  {"id":2145,"lemma":"Noema"},
+  {"id":2146,"lemma":"Noesis"}
+ ],
  "groups":[{"id":31,"name":"Phänomenologie","label":"Intentionalität (Husserl)"}],
  "reg_authors":[{"name":"Claesges Ulrich","n":25}]
 }

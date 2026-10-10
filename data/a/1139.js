@@ -18,7 +18,7 @@ HWPH.put("a/1139",
  "backlinks":[{"id":1138,"lemma":"Glaube","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Denken, appellierendes","qualifier":"(Jaspers)","band":"3","col":"646"},
+  {"term":"Chiffre","qualifier":"(Jaspers)","band":"3","col":"646"},
   {"term":"philosophischer Glaube","qualifier":"(Jaspers)","band":null,"col":null}
  ],
  "persons":[

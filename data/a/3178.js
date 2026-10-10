@@ -34,8 +34,7 @@ HWPH.put("a/3178",
   {"term":"Theoremata","qualifier":"","band":"10","col":"1126"},
   {"term":"Vorschrift","qualifier":"","band":"10","col":"1123"},
   {"term":"θεώρημα","qualifier":"","band":null,"col":null},
-  {"term":"πρότασις","qualifier":"","band":"10","col":"1124"},
-  {"term":"– VI (lit. Formen) 7 848–858 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"πρότασις","qualifier":"","band":"10","col":"1124"}
  ],
  "persons":[
   {"id":380,"name":"Aegidius Romanus","b":3,"n":2,"l":0,"editor":0,"role":"source"},

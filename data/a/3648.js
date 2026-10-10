@@ -45,14 +45,9 @@ HWPH.put("a/3648",
   {"term":"esprit","qualifier":"","band":null,"col":null},
   {"term":"fancy","qualifier":"","band":"12","col":"984"},
   {"term":"Geist","qualifier":"","band":"12","col":"984"},
+  {"term":"perspicacia","qualifier":"","band":"12","col":"987"},
   {"term":"Scherz","qualifier":"","band":"12","col":"983"},
-  {"term":"wit","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (allg.) 4 544–548 – II (ästh.) 4 548–552 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"wit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":27,"name":"Th. Hobbes","b":3,"n":2,"l":0,"editor":0,"role":"source"},
@@ -143,7 +138,8 @@ HWPH.put("a/3648",
   {"id":1071,"lemma":"Genie"},
   {"id":1436,"lemma":"Ingenium"},
   {"id":1490,"lemma":"Invention, Erfindung, Entdeckung"},
-  {"id":2753,"lemma":"Scharfsinn"}
+  {"id":2753,"lemma":"Scharfsinn"},
+  {"id":3359,"lemma":"Urteilskraft; Urteilsvermögen"}
  ],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Witz"}],
  "reg_authors":[{"name":"Gabriel Gottfried","n":51}]

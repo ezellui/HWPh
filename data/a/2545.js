@@ -20,13 +20,13 @@ HWPH.put("a/2545",
  "register":[
   {"term":"Bejahung/Verneinung","qualifier":"","band":null,"col":null},
   {"term":"des Urteils","qualifier":"","band":null,"col":null},
+  {"term":"unendliches Urteil","qualifier":"","band":"7","col":"1781"},
   {"term":"Urteil, bejahendes/verneinendes","qualifier":"","band":null,"col":null},
   {"term":"Urteil, limitatives","qualifier":"","band":null,"col":null},
   {"term":"Urteil, negatives","qualifier":"","band":null,"col":null},
   {"term":"Urteil, unendliches","qualifier":"","band":null,"col":null},
   {"term":"Urteil, verneinendes","qualifier":"","band":null,"col":null},
-  {"term":"Verneinung (log.)","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 6 666–670 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Verneinung (log.)","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":255,"name":"Th. Ziehen","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},
@@ -85,6 +85,6 @@ HWPH.put("a/2545",
  ],
  "see_also":[{"id":380,"lemma":"Bejahung"},{"id":2100,"lemma":"Negation"},{"id":3355,"lemma":"Urteil"}],
  "groups":[{"id":22,"name":"Logik","label":"Qualität des Urteils"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

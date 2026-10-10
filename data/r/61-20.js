@@ -1,7 +1,11 @@
 HWPH.put("r/61-20",
 [
- ["a priori","Apriori/aposteriori a se","",null,null,"ref",222,"Apriori, emotionales","a priori"],
- ["a 7 1370","Sein; Seiendes","V 6","9","220","ref",2806,"Sein; Seiendes","a 7 1370"],
+ ["a priori","Apriori/aposteriori","",null,null,"ref",222,"Apriori, emotionales","a priori"],
+ ["a se","Aseität","",null,null,"ref",259,"Aseität","a se"],
+ ["a se","Apriori/aposteriori","I","1","464","ref",221,"A priori/a posteriori","a se"],
+ ["a se","Freiheit","IV","2","1090","ref",946,"Freiheit","a se"],
+ ["a se","Ordnung","II","6","1269","ref",2233,"Ordnung","a se"],
+ ["a se","Substanz","IV","10","535","ref",3062,"Substanz; Substanz/Akzidens","a se"],
  ["Ā tman","Ā tman","","1","601–603","main",278,"Ātman","a tman"],
  ["Ā tman","Advaita","",null,null,"see",50,"Advaita","a tman"],
  ["Ā tman","Avidyā","",null,null,"see",337,"Avidya","a tman"],
@@ -11,13 +15,6 @@ HWPH.put("r/61-20",
  ["Ā tman","Purus.a","",null,null,"see",2537,"Purus.a","a tman"],
  ["Ā tman","Sām. khya","",null,null,"see",null,null,"a tman"],
  ["Ā tman","Vaiśes.ika","",null,null,"see",null,null,"a tman"],
- ["Ā tman","Veda; Vedanta","",null,null,"see",3376,"Veda; Vedanta","a tman"],
- ["a 7 1370","Gegenstand","","3","129–134","ref",1019,"Gegenseitigkeit","a 7 1370"],
- [
-  "a 7 1370 Strukturontologie","Struktur","I (allg.)","10","309","ref",3040,"Struktur",
-  "a 7 1370 strukturontologie"
- ],
- ["a 7 1370","Relation","III","8","599","ref",2668,"Relation","a 7 1370"],
- ["a 7 1370","Vorstellung","I B","11","1231f.","ref",3503,"Vorstellung","a 7 1370"]
+ ["Ā tman","Veda; Vedanta","",null,null,"see",3376,"Veda; Vedanta","a tman"]
 ]
 );

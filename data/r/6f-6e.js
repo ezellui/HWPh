@@ -2,7 +2,7 @@ HWPH.put("r/6f-6e",
 [
  ["Oneiromantik","Traum","I","10","1461","ref",3225,"Traum","oneiromantik"],
  [
-  "Onomasiologie","Bezeichnungslehre ὀνόματα περιεκτικά","",null,null,"ref",null,null,
+  "Onomasiologie","Bezeichnungslehre","",null,null,"ref",425,"Bezeichnungslehre, Onomasiologie",
   "onomasiologie"
  ],
  ["Onomatopöie","Onomatopöie","","6","1185–1188","main",2216,"Onomatopöie","onomatopoie"],
@@ -29,10 +29,7 @@ HWPH.put("r/6f-6e",
   "ontological commitment","Universalien","II","11","194f.","ref",3302,"Universalien",
   "ontological commitment"
  ],
- [
-  "Ontologie s. auch","Register der Sachgruppen: Metaphysik","",null,null,"ref",null,null,
-  "ontologie s. auch"
- ],
+ ["Ontologie","Register der Sachgruppen: Metaphysik","",null,null,"see",null,null,"ontologie"],
  ["Ontologie","Ontologie","","6","1189–1200","main",2218,"Ontologie","ontologie"],
  ["Ontologie","Grundwissenschaft","",null,null,"see",1198,"Grundwissenschaft","ontologie"],
  ["Ontologie","Metaphysik","",null,null,"see",1944,"Metaphysik","ontologie"],
@@ -44,7 +41,14 @@ HWPH.put("r/6f-6e",
   "ontologie"
  ],
  ["Ontologie","Transzendental","X","10","1416","ref",3219,"Transzendental","ontologie"],
- ["Ontologie","Ontologie","",null,null,"main",2218,"Ontologie","ontologie"],
+ [
+  "Ontologie, formale/materiale","Ontologie, formale/materiale","(Husserl)","6","1200f.","main",2218,
+  "Ontologie","ontologie, formale/materiale"
+ ],
+ [
+  "Ontologie, formale/materiale","Apophantik","(Husserl)",null,null,"see",208,"Apophantik",
+  "ontologie, formale/materiale"
+ ],
  [
   "Ontologie, formale/materiale (Husserl)","Kategorie; Kategorienlehre","V","4","758f.","ref",1540,
   "Kategorie, Kategorienlehre","ontologie, formale/materiale (husserl)"
@@ -108,7 +112,7 @@ HWPH.put("r/6f-6e",
  ["Ontosophie","Ontologie","",null,null,"see",2218,"Ontologie","ontosophie"],
  ["Ontotheologie","Ontotheologie","","6","1207","main",2225,"Ontotheologie","ontotheologie"],
  ["Ontotheologie","Onto-Logik","(Heidegger)",null,null,"see",2221,"Onto-Logik","ontotheologie"],
- ["Ontotheologie","Religion","",null,null,"see",2673,"Religion","ontotheologie"],
+ ["Ontotheologie","Religion, natürliche","",null,null,"see",2673,"Religion","ontotheologie"],
  ["Onto-Theo-Logik","Theologik","","10","1112","ref",3175,"Theologik","onto-theo-logik"],
  [
   "onus probandi","Verteilung der Beweislast","",null,null,"ref",3443,"Verteilung der Beweislast",
@@ -117,7 +121,10 @@ HWPH.put("r/6f-6e",
  ["Ontōs on","Ontōs on","",null,null,"main",2223,"Ontos on","ontos on"],
  ["Ontōs on","Sein; Seiendes","I 1","9","172","ref",2806,"Sein; Seiendes","ontos on"],
  ["Ontōs on","Substanz","I","10","496","ref",3062,"Substanz; Substanz/Akzidens","ontos on"],
- ["Onnasch Ernst-Otto","Subjekt","",null,null,"author",3047,"Subjekt","onnasch ernst-otto"],
+ [
+  "Onnasch Ernst-Otto","Subjekt/Objekt","IV","10","413–425","author",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","onnasch ernst-otto"
+ ],
  [
   "Onnasch Ernst-Otto","Unbedingte, das","","11","108–112","author",3280,"Unbedingte, das",
   "onnasch ernst-otto"

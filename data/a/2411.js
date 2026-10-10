@@ -45,7 +45,7 @@ HWPH.put("a/2411",
   {"id":2506,"lemma":"Psychoanalyse","tf":2},
   {"id":125,"lemma":"Analyse","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3184,"lemma":"Therapie; Therapeutik"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Positivismus, therapeutischer"}],
  "reg_authors":[{"name":"Strube Werner","n":11}]
 }

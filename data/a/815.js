@@ -24,14 +24,11 @@ HWPH.put("a/815",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Entdecken (Heidegger)","qualifier":"","band":"2","col":"726"},
-  {"term":"Offenheit","qualifier":"","band":null,"col":null},
-  {
-   "term":"– II (Leibniz) 4 395 – III (Heidegger) 4 395f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Entdecken (Heidegger)","qualifier":"(Heidegger)","band":"2","col":"726"},
+  {"term":"Erschliessen","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Gelichtetsein","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Offenheit","qualifier":"(Heidegger)","band":null,"col":null},
+  {"term":"Verschlossenheit","qualifier":"(Heidegger)","band":null,"col":null}
  ],
  "persons":[{"id":13,"name":"M. Heidegger","b":1,"n":0,"l":0,"editor":0,"role":"source"}],
  "mentions":[],

@@ -1,17 +1,16 @@
 HWPH.put("r/69-63",
 [
- [
-  "Ich-Identität 4 148 Gruppenselbstgefühl","Selbstgefühl","","9","451","ref",2836,"Selbstgefühl",
-  "ich-identitat 4 148 gruppenselbstgefuhl"
- ],
- ["Ich-Identität 4 149","I Ging","","4","197f.","ref",1380,"Idylle","ich-identitat 4 149"],
- ["Ich-Identität 4 149","Yin-Yang","",null,null,"see",3667,"Yin-Yang","ich-identitat 4 149"],
  ["Ich","Ich","","4","1–18","main",1334,"Ich","ich"],
  ["Ich","Einzige, der","",null,null,"see",697,"Einzige, Einzigkeit","ich"],
  ["Ich","Ichheit; Egoität","",null,null,"see",1337,"Ichheit, Egoität","ich"],
- ["Ich","Identität","",null,null,"see",1366,"Identität","ich"],
- ["Ich-Identität","Nicht-Ich","",null,null,"ref",2134,"Nicht-Ich","ich-identitat"],
- ["Ich-Identität","Seele","",null,null,"ref",2794,"Seele","ich-identitat"],
+ ["Ich","Identität; Ich-Identität","",null,null,"see",1366,"Identität","ich"],
+ ["Ich","Nicht-Ich","",null,null,"see",2134,"Nicht-Ich","ich"],
+ ["Ich","Seele","IV-V",null,null,"see",2794,"Seele","ich"],
+ ["Ich","Selbst","",null,null,"see",2820,"Selbst","ich"],
+ ["Ich","Selbstbewusstsein","",null,null,"see",2828,"Selbstbewußtsein","ich"],
+ ["Ich","Selbstreflexion","",null,null,"see",2846,"Selbstreflexion","ich"],
+ ["Ich","Subjekt, transzendentales","",null,null,"see",3048,"Subjekt, transzendentales","ich"],
+ ["Ich","Über-Ich","",null,null,"see",3257,"Über-Ich","ich"],
  ["Ich","Denken","I","2","88ff.","ref",552,"Denken","ich"],
  ["Ich","Eidolologie","(Herbart)","2","329","ref",660,"Eidolologie","ich"],
  ["Ich","Ethik","VI","2","787","ref",835,"Ethik","ich"],
@@ -41,11 +40,19 @@ HWPH.put("r/69-63",
   "Ich/Nicht-Ich","Kategorie; Kategorienlehre","IV","4","730ff.","ref",1540,
   "Kategorie, Kategorienlehre","ich/nicht-ich"
  ],
- ["Ich/Nicht-Ich","Negation","",null,null,"ref",2100,"Negation","ich/nicht-ich"],
+ [
+  "Ich/Nicht-Ich","Negation; Negativität","II","6","677","ref",2101,"Negation, Negativität",
+  "ich/nicht-ich"
+ ],
+ ["Ich/Nicht-Ich","Objekt","","6","1040","ref",2183,"Objekt","ich/nicht-ich"],
  ["Ich/Person","Person","III 8","7","315f.","ref",2318,"Person","ich/person"],
  ["Ich, absolutes","Gott","IX 3","3","785","ref",1162,"Gott","ich, absolutes"],
  ["Ich, absolutes","Objekt","","6","1040","ref",2183,"Objekt","ich, absolutes"],
- ["Ich, anderes","Andere","",null,null,"ref",137,"Andere","ich, anderes"],
+ ["Ich, anderes","Andere, der","","1","296","ref",137,"Andere","ich, anderes"],
+ [
+  "Ich, empirisches/transzendentales","Ich","I","4","2ff.","ref",1334,"Ich",
+  "ich, empirisches/transzendentales"
+ ],
  [
   "Ich, empirisches/unendliches","Vielheit","II","11","1051","ref",3462,"Vielheit",
   "ich, empirisches/unendliches"
@@ -60,7 +67,14 @@ HWPH.put("r/69-63",
   "Ich, philosophisches","Leib-Seele-Verhältnis","III","5","201","ref",1770,"Leib-Seele-Verhältnis",
   "ich, philosophisches"
  ],
- ["Ich","Ich","",null,null,"main",1334,"Ich","ich"],
+ [
+  "Ich, primäres/sekundäres","Ich, primäres/sekundäres","(Reininger)","4","18f.","main",1334,"Ich",
+  "ich, primares/sekundares"
+ ],
+ [
+  "Ich, primäres/sekundäres","Idealismus, monistischer","(Reininger)",null,null,"see",1350,
+  "Idealismus, monistischer","ich, primares/sekundares"
+ ],
  [
   "Ich, reales/reines","Realität, psychische","","8","204","ref",2592,"Realität, psychische",
   "ich, reales/reines"
@@ -70,7 +84,19 @@ HWPH.put("r/69-63",
   "Apperzeption, transzendentale","ich, reines"
  ],
  ["Ich, reines","Reflexion","","8","402","ref",2634,"Reflexion","ich, reines"],
- ["Ich, sekundäres","Ich","",null,null,"ref",1334,"Ich","ich, sekundares"],
+ [
+  "Ich, sekundäres","Ich, primäres/sekundäres","(Reininger)",null,null,"ref",1334,"Ich",
+  "ich, sekundares"
+ ],
+ [
+  "Ich, transzendentales","Egologie","(Husserl)",null,null,"ref",651,"Egologie",
+  "ich, transzendentales"
+ ],
+ [
+  "Ich, transzendentales","Habitualitäten","(Husserl)",null,null,"ref",1208,"Habitualitäten",
+  "ich, transzendentales"
+ ],
+ ["Ich, transzendentales","Ichpol","(Husserl)","4","25","ref",1338,"Ichpol","ich, transzendentales"],
  ["Ich, urpräsentes","Anonym","(Husserl)","1","334","ref",157,"Anonym","ich, urprasentes"],
  [
   "Ich denke","Subjekt, transzendentales","",null,null,"ref",3048,"Subjekt, transzendentales",
@@ -98,7 +124,12 @@ HWPH.put("r/69-63",
   "Ich-Du-Verhältnis","Ich-Du-Verhältnis","","4","19–21","main",1336,"Ich-Du-Verhältnis",
   "ich-du-verhaltnis"
  ],
- ["Ich-Du-Verhältnis","Andere","",null,null,"see",137,"Andere","ich-du-verhaltnis"],
+ ["Ich-Du-Verhältnis","Andere, der","",null,null,"see",137,"Andere","ich-du-verhaltnis"],
+ ["Ich-Du-Verhältnis","Dialog","",null,null,"see",585,"Dialog, dialogisch","ich-du-verhaltnis"],
+ ["Ich-Du-Verhältnis","Du","",null,null,"see",639,"Du","ich-du-verhaltnis"],
+ ["Ich-Du-Verhältnis","Fremdich","",null,null,"see",950,"Fremdich","ich-du-verhaltnis"],
+ ["Ich-Du-Verhältnis","Kommunikation","",null,null,"see",1591,"Kommunikation","ich-du-verhaltnis"],
+ ["Ich-Du-Verhältnis","Korrelation","I",null,null,"see",1670,"Korrelation","ich-du-verhaltnis"],
  ["Ich-Du-Verhältnis","Bildung","","1","933","ref",435,"Bildung","ich-du-verhaltnis"],
  ["Ich-Du-Verhältnis","Gott","IV","3","734","ref",1162,"Gott","ich-du-verhaltnis"],
  ["Ich-Du-Verhältnis","Und","","11","134","ref",3287,"Und","ich-du-verhaltnis"],
@@ -121,8 +152,8 @@ HWPH.put("r/69-63",
  ["Ichheit","Subjektivität","I","10","459","ref",3052,"Subjektivität","ichheit"],
  ["Ich-Ideal","Über-Ich","",null,null,"ref",3257,"Über-Ich","ich-ideal"],
  ["Ich-Ideal","Ich","II","4","14","ref",1334,"Ich","ich-ideal"],
- ["Ich-Identität","Identität","",null,null,"ref",1366,"Identität","ich-identitat"],
- ["Ich-Identität Ich-Kern","Ich","II","4","16","ref",1334,"Ich","ich-identitat ich-kern"],
+ ["Ich-Identität","Identität; Ich-Identität","",null,null,"ref",1366,"Identität","ich-identitat"],
+ ["Ich-Kern","Ich","II","4","16","ref",1334,"Ich","ich-kern"],
  ["Ichkreis","Lebenskreis","","5","129","ref",1747,"Lebenskreis","ichkreis"],
  ["Ichkritik","Psychosynthese","","7","1702","ref",2530,"Psychosynthese","ichkritik"],
  ["Ich-Libido/Objekt-Libido","Libido","","5","279","ref",1791,"Libido","ich-libido/objekt-libido"],
@@ -144,49 +175,6 @@ HWPH.put("r/69-63",
  ["Ich-Trieb","Trieb","II (psych.)","10","1489","ref",3229,"Trieb","ich-trieb"],
  ["Ichtum","Egoismus","I (eth.)","2","310","ref",650,"Egoismus","ichtum"],
  ["Ich-Verdopplung","Verdopplung","","11","614","ref",3392,"Verdopplung","ich-verdopplung"],
- ["icon","Zeichen","I","12","1161","ref",3673,"Zeichen","icon"],
- [
-  "Ich-Identität 4 148–151 s. auch","Ich","II",null,null,"ref",1334,"Ich",
-  "ich-identitat 4 148–151 s. auch"
- ],
- [
-  "Ich-Identität 4 148–151 s. auch","Selbst","",null,null,"ref",2820,"Selbst",
-  "ich-identitat 4 148–151 s. auch"
- ],
- ["Ich-Identität","Apperzeption","","1","449","ref",212,"Apperzeption","ich-identitat"],
- ["Ich-Identität","Person","III","7","314","ref",2318,"Person","ich-identitat"],
- [
-  "Ich-Identität 4 150 Identität, teilweise","Aufheben","(Hegel)","1","620","ref",288,"Aufheben",
-  "ich-identitat 4 150 identitat, teilweise"
- ],
- ["Ich-Identität 4 149","Selbst","III","9","306","ref",2820,"Selbst","ich-identitat 4 149"],
- [
-  "Ichheit; Egoität","Ichheit; Egoität","","4","22f.","main",1337,"Ichheit, Egoität",
-  "ichheit; egoitat"
- ],
- ["Ich-Identität","Personalismus","II",null,null,"ref",2320,"Personalismus","ich-identitat"],
- ["Ich-Identität","Sein, moralisches","",null,null,"ref",2808,"Sein, moralisches","ich-identitat"],
- ["Ich-Identität","Selbstbewusstsein","",null,null,"ref",2828,"Selbstbewußtsein","ich-identitat"],
- ["Ich-Identität","Subsistenz","",null,null,"ref",3060,"Subsistenz","ich-identitat"],
- ["Ich-Identität","Person","III 3","7","304ff.","ref",2318,"Person","ich-identitat"],
- ["Ich-Identität","Präexistenz","","7","1231","ref",2432,"Präexistenz","ich-identitat"],
- ["Ich-Identität","Selbst","II","9","295ff.","ref",2820,"Selbst","ich-identitat"],
- ["Ich-Identität","Person","",null,null,"ref",2318,"Person","ich-identitat"],
- ["Ich-Identität","Selbstbewusstsein","",null,null,"ref",2828,"Selbstbewußtsein","ich-identitat"],
- ["Ich-Identität","Selbsterkenntnis","",null,null,"ref",2833,"Selbsterkenntnis","ich-identitat"],
- ["Ich-Identität","Selbstgefühl","",null,null,"ref",2836,"Selbstgefühl","ich-identitat"],
- ["Ich-Identität","Selbstheit","",null,null,"ref",2839,"Selbstheit","ich-identitat"],
- ["Ich-Identität","Selbstsein","",null,null,"ref",2847,"Selbstsein","ich-identitat"],
- ["Ich-Identität","Selbstverwirklichung Selbst","",null,null,"ref",null,null,"ich-identitat"],
- ["Ich-Identität","Personalismus","",null,null,"ref",2320,"Personalismus","ich-identitat"],
- ["Ich-Identität","Selbst","",null,null,"ref",2820,"Selbst","ich-identitat"],
- ["Ich-Identität","Selbstbildung","",null,null,"ref",2829,"Selbstbildung","ich-identitat"],
- ["Ich-Identität","Selbstflucht","",null,null,"ref",2834,"Selbstflucht","ich-identitat"],
- [
-  "Ich-Identität","Selbstverwirklichung","",null,null,"ref",2854,
-  "Selbstverwirklichung, Selbstaktualisierung","ich-identitat"
- ],
- ["Ich-Identität","Verzweiflung","",null,null,"ref",3459,"Verzweiflung","ich-identitat"],
- ["Ich-Identität 4 149","Person","III 4","7","305","ref",2318,"Person","ich-identitat 4 149"]
+ ["icon","Zeichen","I","12","1161","ref",3673,"Zeichen","icon"]
 ]
 );

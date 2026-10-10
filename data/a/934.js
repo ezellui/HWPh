@@ -40,6 +40,6 @@ HWPH.put("a/934",
  ],
  "see_also":[{"id":1893,"lemma":"Materie des Urteils"},{"id":1995,"lemma":"Modalität"}],
  "groups":[{"id":22,"name":"Logik","label":"Form des Urteils"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

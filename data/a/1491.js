@@ -20,7 +20,7 @@ HWPH.put("a/1491",
   {"id":3536,"lemma":"Wahrheitsgefühl; Wahrheitssinn","n":1}
  ],
  "outlinks":[{"id":826,"lemma":"Eselsbrücke","n":1}],
- "register":[{"term":"Eselsbrücke","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"Mittelbegriff","qualifier":"","band":null,"col":null}],
  "persons":[{"id":2,"name":"Aristoteles","b":1,"n":0,"l":0,"editor":0,"role":"source"}],
  "mentions":[{"id":3050,"lemma":"Subjekt/Prädikat","tf":2},{"id":3047,"lemma":"Subjekt","tf":2}],
  "see_also":[{"id":826,"lemma":"Eselsbrücke"}],

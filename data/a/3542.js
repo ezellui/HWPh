@@ -25,8 +25,9 @@ HWPH.put("a/3542",
  ],
  "register":[
   {"term":"argumenta probabilia","qualifier":"","band":"12","col":"307"},
-  {"term":"kritischer (Popper) 8 49","qualifier":"","band":"12","col":"309f."},
+  {"term":"Induktion","qualifier":"","band":"12","col":"309f."},
   {"term":"probable inference","qualifier":"","band":"12","col":"307"},
+  {"term":"Schluss, dialektischer","qualifier":"","band":null,"col":null},
   {"term":"Spielraum","qualifier":"","band":"12","col":"310"},
   {"term":"Wahrscheinlichkeitssatz","qualifier":"","band":"12","col":"307"},
   {"term":"Wahrscheinlichkeitsurteil","qualifier":"","band":"12","col":"307"},
@@ -76,7 +77,7 @@ HWPH.put("a/3542",
   {"id":150,"lemma":"Anknüpfung, Anknüpfungspunkt","tf":2},
   {"id":2640,"lemma":"Regel","tf":3}
  ],
- "see_also":[{"id":749,"lemma":"Enthymem"}],
+ "see_also":[{"id":749,"lemma":"Enthymem"},{"id":3203,"lemma":"Topik; Topos"}],
  "groups":[
   {"id":22,"name":"Logik","label":"Wahrscheinlichkeitsschluss"},
   {"id":39,"name":"Rhetorik und Argumentationstheorie","label":"Wahrscheinlichkeitsschluss"}

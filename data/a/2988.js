@@ -32,11 +32,12 @@ HWPH.put("a/2988",
   {"term":"artificial language","qualifier":"","band":null,"col":null},
   {"term":"constructed language","qualifier":"","band":"9","col":"1502"},
   {"term":"Esperanto","qualifier":"","band":"9","col":"1504"},
-  {"term":"inneres 12 1043 Sprache, konstruierte","qualifier":"","band":"9","col":"1502"},
   {"term":"Kunst","qualifier":"","band":null,"col":null},
   {"term":"künstliche Sprache","qualifier":"","band":null,"col":null},
   {"term":"Kunstsprache","qualifier":"","band":null,"col":null},
   {"term":"langue artificielle","qualifier":"","band":null,"col":null},
+  {"term":"Plansprache","qualifier":"","band":"9","col":"1502"},
+  {"term":"Sprache, konstruierte","qualifier":"","band":"9","col":"1502"},
   {"term":"Volapük","qualifier":"","band":"9","col":"1504"}
  ],
  "persons":[

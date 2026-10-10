@@ -33,7 +33,6 @@ HWPH.put("a/1591",
   {"term":"communicatio in sacris","qualifier":"I (anthr.)","band":"4","col":"893"},
   {"term":"communication","qualifier":"","band":null,"col":null},
   {"term":"Daseinskommunikation","qualifier":"I (anthr.)","band":"4","col":"894"},
-  {"term":"der","qualifier":"","band":null,"col":null},
   {"term":"Kompetenz, kommunikative","qualifier":"II (sprach.)","band":"4","col":"895"},
   {"term":"Mitsein","qualifier":"I (anthr.)","band":"4","col":"894"},
   {"term":"participation","qualifier":"I (anthr.)","band":"4","col":"894"},
@@ -106,7 +105,11 @@ HWPH.put("a/1591",
   {"id":2499,"lemma":"Prozeß","tf":2},
   {"id":3718,"lemma":"Zweck; Ziel","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1336,"lemma":"Ich-Du-Verhältnis"},
+  {"id":1986,"lemma":"Mitteilung, Mitteilbarkeit, indirekte Mitteilung"},
+  {"id":2320,"lemma":"Personalismus"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Kommunikation"},
   {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Kommunikation II (sprach.)"}

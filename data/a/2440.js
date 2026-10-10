@@ -53,7 +53,7 @@ HWPH.put("a/2440",
   {"id":3539,"lemma":"Wahrnehmung","tf":2},
   {"id":814,"lemma":"Erscheinung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2454,"lemma":"Primitiv, der bzw. das Primitive"}],
  "groups":[{"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Prälogisch"}],
  "reg_authors":[{"name":"Müller Klaus E","n":3}]
 }

@@ -30,7 +30,8 @@ HWPH.put("a/931",
  "see_also":[
   {"id":472,"lemma":"Causa formalis"},
   {"id":619,"lemma":"Distinctio formalis"},
-  {"id":718,"lemma":"Eminenter"}
+  {"id":718,"lemma":"Eminenter"},
+  {"id":939,"lemma":"Form und Materie (Stoff)"}
  ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Formaliter"}],
  "reg_authors":[{"name":"Schlüter Dietrich","n":17}]

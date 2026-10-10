@@ -26,9 +26,7 @@ HWPH.put("a/1791",
   {"term":"Geschlechtstrieb","qualifier":"","band":null,"col":null},
   {"term":"Ich-Libido/Objekt-Libido","qualifier":"","band":"5","col":"279"},
   {"term":"Lebensenergie","qualifier":"","band":"5","col":"279"},
-  {"term":"Sexualtrieb","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 10 1488–1492 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 8 483f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Sexualtrieb","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":24,"name":"S. Freud","b":1,"n":3,"l":0,"editor":0,"role":"source"},

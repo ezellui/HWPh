@@ -23,6 +23,8 @@ HWPH.put("a/1655",
  "outlinks":[],
  "register":[
   {"term":"apparitio formalis","qualifier":"","band":"4","col":"1085"},
+  {"term":"conceptibile","qualifier":"","band":null,"col":null},
+  {"term":"conceptio","qualifier":"","band":null,"col":null},
   {"term":"conceptus","qualifier":"","band":null,"col":null},
   {"term":"conceptus mentis","qualifier":"","band":null,"col":null},
   {"term":"conceptus obiectalis","qualifier":"","band":"4","col":"1083"},
@@ -30,11 +32,11 @@ HWPH.put("a/1655",
   {"term":"dialectica vocalis","qualifier":"","band":"4","col":"1084"},
   {"term":"Empfängnis","qualifier":"","band":"4","col":"1084"},
   {"term":"intellectus","qualifier":"","band":null,"col":null},
+  {"term":"konzeptibel","qualifier":"","band":null,"col":null},
   {"term":"logica vocalis","qualifier":"","band":"4","col":"1084"},
   {"term":"ratio","qualifier":"","band":"4","col":"1083"},
   {"term":"vox","qualifier":"","band":"4","col":"1084"},
-  {"term":"κοινὰι ἔννοιαι","qualifier":"","band":"4","col":"1082f."},
-  {"term":"– I (met.) 9 1315–1342 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"κοινὰι ἔννοιαι","qualifier":"","band":"4","col":"1082f."}
  ],
  "persons":[
   {"id":197,"name":"W. Hamilton","b":2,"n":2,"l":0,"editor":0,"role":"source"},

@@ -100,6 +100,6 @@ HWPH.put("a/2213",
  ],
  "see_also":[],
  "groups":[{"id":44,"name":"Theologie","label":"Ökumene"}],
- "reg_authors":[{"name":"Red","n":242},{"name":"Seigfried Adam","n":6}]
+ "reg_authors":[{"name":"Red","n":241},{"name":"Seigfried Adam","n":6}]
 }
 );

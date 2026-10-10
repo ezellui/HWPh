@@ -30,6 +30,6 @@ HWPH.put("a/2929",
  "mentions":[{"id":3050,"lemma":"Subjekt/Prädikat","tf":4}],
  "see_also":[],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Sortal"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

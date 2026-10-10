@@ -38,6 +38,6 @@ HWPH.put("a/1780",
   {"id":3,"name":"Antike Philosophie","label":"Lemma"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Lemma"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

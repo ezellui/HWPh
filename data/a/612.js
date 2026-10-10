@@ -35,7 +35,7 @@ HWPH.put("a/612",
   {"id":2598,"lemma":"Recht","tf":2},
   {"id":1987,"lemma":"Mittel","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":578,"lemma":"Dezision, Dezisionismus"}],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Diskussion"}],
  "reg_authors":[{"name":"Hofmann Hasso","n":12}]
 }

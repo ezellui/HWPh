@@ -1,8 +1,14 @@
 HWPH.put("r/6b-75",
 [
+ ["Kunst","Philosophie","III C",null,null,"ref",2353,"Philosophie","kunst"],
+ ["Kunst","Universalsprache","",null,null,"ref",3306,"Universalsprache","kunst"],
  [
-  "Kulturanthropologie","Kulturanthropologie","",null,null,"main",1702,"Kulturanthropologie",
-  "kulturanthropologie"
+  "Kulturanthropologie, empirische","Kulturanthropologie, empirische","",null,null,"main",1702,
+  "Kulturanthropologie","kulturanthropologie, empirische"
+ ],
+ [
+  "Kulturanthropologie, empirische","Völkerkunde","",null,null,"ref",3474,"Völkerkunde",
+  "kulturanthropologie, empirische"
  ],
  ["Kühnheit","Verwegenheit; Kühnheit","",null,null,"ref",3450,"Verwegenheit; Kühnheit","kuhnheit"],
  ["Kühnheit","Tapferkeit","","10","897f.","ref",3127,"Tapferkeit","kuhnheit"],
@@ -63,8 +69,8 @@ HWPH.put("r/6b-75",
  ],
  ["Kultivierung","Anlage","I (anthr.)","1","324","ref",151,"Anlage","kultivierung"],
  [
-  "Kultur s. auch","Register der Sachgruppen: Kulturgeschichte und Kulturtheorie","",null,null,"ref",
-  null,null,"kultur s. auch"
+  "Kultur","Register der Sachgruppen: Kulturgeschichte und Kulturtheorie","",null,null,"see",null,
+  null,"kultur"
  ],
  [
   "Kultur; Kulturphilosophie","Kultur; Kulturphilosophie","","4","1309–1324","main",1701,
@@ -115,8 +121,12 @@ HWPH.put("r/6b-75",
  ],
  ["Kulturanthropologie","Volkskunde","","11","1108","ref",3478,"Volkskunde","kulturanthropologie"],
  [
-  "Kulturanthropologie","Kulturanthropologie","",null,null,"main",1702,"Kulturanthropologie",
-  "kulturanthropologie"
+  "Kulturanthropologie, empirische","Kulturanthropologie, empirische","","4","1328–1332","main",1703,
+  "Kulturanthropologie, empirische (culturalanthropology)","kulturanthropologie, empirische"
+ ],
+ [
+  "Kulturanthropologie, empirische","Völkerkunde","",null,null,"see",3474,"Völkerkunde",
+  "kulturanthropologie, empirische"
  ],
  [
   "Kulturbefangenheit","Kulturanthropologie","","4","1326","ref",1702,"Kulturanthropologie",
@@ -143,7 +153,7 @@ HWPH.put("r/6b-75",
   "Evolutionismus, kultureller","kulturentstehungstheorie"
  ],
  [
-  "Kulturentstehungstheorie","Invention; Erfindung V (kult.)","","4","571f.","ref",1490,
+  "Kulturentstehungstheorie","Invention; Erfindung","V (kult.)","4","571f.","ref",1490,
   "Invention, Erfindung, Entdeckung","kulturentstehungstheorie"
  ],
  ["Kulturentwicklung","Über-Ich","",null,null,"ref",3257,"Über-Ich","kulturentwicklung"],
@@ -164,8 +174,20 @@ HWPH.put("r/6b-75",
   "kulturgeschichte"
  ],
  [
-  "Kulturgeschichte","Sozialgeschichte Kulturgeschichte","",null,null,"see",null,null,
+  "Kulturgeschichte","Sozialgeschichte","",null,null,"see",2943,"Sozialgeschichte; Sozialhistorie",
   "kulturgeschichte"
+ ],
+ [
+  "Kulturgeschichte","Geschichte","VI","3","380","ref",1085,"Geschichte, Historie",
+  "kulturgeschichte"
+ ],
+ [
+  "Kulturgeschichte","Geschichtsphilosophie","","3","424ff.","ref",1093,"Geschichtsphilosophie",
+  "kulturgeschichte"
+ ],
+ [
+  "Kulturgeschichte","Kunstphilosophie; Kunstgeschichte","","4","1453","ref",1716,
+  "Kunstphilosophie, Kunstgeschichte, Kunstwissenschaft","kulturgeschichte"
  ],
  ["Kulturgut","Bildung","","1","929","ref",435,"Bildung","kulturgut"],
  [
@@ -179,34 +201,28 @@ HWPH.put("r/6b-75",
  ["Kulturindustrie","Verdopplung","","11","616","ref",3392,"Verdopplung","kulturindustrie"],
  ["Kulturkampf","Todestrieb","","10","1250","ref",3200,"Todestrieb","kulturkampf"],
  [
-  "Kulturkreislehre","Kulturmorphologie (Frobenius) Kulturkritik","",null,null,"ref",null,null,
-  "kulturkreislehre"
+  "Kulturkreislehre","Kulturmorphologie","(Frobenius)",null,null,"ref",1706,
+  "Kulturmorphologie, Kulturkreislehre","kulturkreislehre"
  ],
  [
-  "Kultur; Kulturphilosophie","Kultur; Kulturphilosophie","","4","1311ff.","main",1701,
-  "Kultur, Kulturphilosophie","kultur; kulturphilosophie"
+  "Kulturkritik","Kultur; Kulturphilosophie","","4","1311ff.","ref",1701,"Kultur, Kulturphilosophie",
+  "kulturkritik"
  ],
  ["Kulturmensch","Naturmensch","","6","534","ref",2087,"Naturmensch","kulturmensch"],
  [
-  "Kulturmorphologie (Frobenius)","Kulturmorphologie (Frobenius)","","4","1338f.","main",1706,
-  "Kulturmorphologie, Kulturkreislehre","kulturmorphologie (frobenius)"
+  "Kulturmorphologie","Kulturmorphologie","(Frobenius)","4","1338f.","main",1706,
+  "Kulturmorphologie, Kulturkreislehre","kulturmorphologie"
  ],
  [
-  "Kulturmorphologie (Frobenius)","Kulturzyklus","",null,null,"see",1711,
-  "Kulturzyklus, Kulturzyklentheorie","kulturmorphologie (frobenius)"
+  "Kulturmorphologie","Kulturzyklus","",null,null,"see",1711,"Kulturzyklus, Kulturzyklentheorie",
+  "kulturmorphologie"
  ],
+ ["Kulturmorphologie","Lebensalter","",null,null,"see",1739,"Lebensalter","kulturmorphologie"],
  [
-  "Kulturmorphologie (Frobenius)","Lebensalter","",null,null,"see",1739,"Lebensalter",
-  "kulturmorphologie (frobenius)"
+  "Kulturmorphologie","Morphologie","I (allg.)",null,null,"see",2032,"Morphologie",
+  "kulturmorphologie"
  ],
- [
-  "Kulturmorphologie (Frobenius)","Morphologie","I (allg.)",null,null,"see",2032,"Morphologie",
-  "kulturmorphologie (frobenius)"
- ],
- [
-  "Kulturmorphologie (Frobenius)","Paideuma","",null,null,"see",2258,"Paideuma",
-  "kulturmorphologie (frobenius)"
- ],
+ ["Kulturmorphologie","Paideuma","",null,null,"see",2258,"Paideuma","kulturmorphologie"],
  [
   "Kulturnation","Nation; Nationalismus","","6","411","ref",2070,
   "Nation, Nationalismus, Nationalität","kulturnation"
@@ -222,8 +238,12 @@ HWPH.put("r/6b-75",
   "kulturphilister"
  ],
  [
-  "Kulturphilosophie","Kultur; Kulturphilosophie kulturphilosophisches Universale","",null,null,
-  "ref",1701,"Kultur, Kulturphilosophie","kulturphilosophie"
+  "Kulturphilosophie","Kultur; Kulturphilosophie","",null,null,"ref",1701,
+  "Kultur, Kulturphilosophie","kulturphilosophie"
+ ],
+ [
+  "kulturphilosophisches Universale","Geist","IX","3","200","ref",1030,"Geist",
+  "kulturphilosophisches universale"
  ],
  [
   "Kulturprotestantismus","Kulturprotestantismus","","4","1340f.","main",1708,
@@ -273,7 +293,7 @@ HWPH.put("r/6b-75",
  ],
  ["Kulturzyklus","Kreislauftheorien","",null,null,"see",1688,"Kreislauftheorien","kulturzyklus"],
  [
-  "Kulturzyklus","Kulturmorphologie (Frobenius)","",null,null,"see",1706,
+  "Kulturzyklus","Kulturmorphologie","(Frobenius)",null,null,"see",1706,
   "Kulturmorphologie, Kulturkreislehre","kulturzyklus"
  ],
  ["Kulturzyklus","Lebensalter","",null,null,"see",1739,"Lebensalter","kulturzyklus"],
@@ -282,7 +302,8 @@ HWPH.put("r/6b-75",
   "kulturzyklus"
  ],
  ["Kultus","Opfer","II","6","1233","ref",2229,"Opfer","kultus"],
- ["Kundgabe","Organonmodell","",null,null,"ref",2247,"Organonmodell","kundgabe"],
+ ["Kundgabe","Organonmodell der Sprache","","6","1369","ref",2248,"Organprimitivismen","kundgabe"],
+ ["Kunst","Register der Sachgruppen: Ästhetik und Kunsttheorie","",null,null,"see",null,null,"kunst"],
  [
   "Kunst; Kunstwerk","Kunst; Kunstwerk","","4","1357–1434","main",1712,"Kunst, Kunstwerk",
   "kunst; kunstwerk"
@@ -320,10 +341,18 @@ HWPH.put("r/6b-75",
   "Kunst, demokratische","Realismus","IV (ästh.)","8","171","ref",2588,"Realismus",
   "kunst, demokratische"
  ],
- ["Kunst, historische","Historik Kunst, lineare","",null,null,"ref",null,null,"kunst, historische"],
  [
-  "Kunst, Lullische","Ars magna; lullische Kunst Kunst, moderne","",null,null,"ref",253,
-  "Ars magna, lullische Kunst","kunst, lullische"
+  "Kunst, historische","Historik","",null,null,"ref",1280,"Historik, ars historica",
+  "kunst, historische"
+ ],
+ ["Kunst, lineare","Zeichnung","","12","1181","ref",3674,"Zeichnung","kunst, lineare"],
+ [
+  "Kunst, Lullische","Ars magna; lullische","",null,null,"ref",253,"Ars magna, lullische Kunst",
+  "kunst, lullische"
+ ],
+ [
+  "Kunst Kunst, moderne","Modern; die Moderne","","6","57","ref",2001,"Modern, die Moderne",
+  "kunst kunst, moderne"
  ],
  ["Kunst, tragische","Tragische, das","","10","1338","ref",3214,"Tragische, das","kunst, tragische"],
  [
@@ -355,8 +384,12 @@ HWPH.put("r/6b-75",
   1716,"Kunstphilosophie, Kunstgeschichte, Kunstwissenschaft","kunstphilosophie; kunstgeschichte"
  ],
  [
-  "Kunstphilosophie; Kunstgeschichte","Kritik","",null,null,"see",1694,"Kritik",
+  "Kunstphilosophie; Kunstgeschichte","Kritik; Literaturkritik","",null,null,"see",1694,"Kritik",
   "kunstphilosophie; kunstgeschichte"
+ ],
+ [
+  "Kunstphilosophie; Kunstgeschichte","Wissenschaften, schöne","",null,null,"see",3639,
+  "Wissenschaften, schöne","kunstphilosophie; kunstgeschichte"
  ],
  ["Kunstreligion","Kunstreligion","(Hegel)","4","1458f.","main",1717,"Kunstreligion","kunstreligion"],
  [
@@ -364,7 +397,11 @@ HWPH.put("r/6b-75",
   "kunstreligion (hegel)"
  ],
  ["Kunstrichter","Kunstrichter","","4","1460–1463","main",1718,"Kunstrichter","kunstrichter"],
- ["Kunstrichter","Kritik","",null,null,"see",1694,"Kritik","kunstrichter"],
+ ["Kunstrichter","Kritik; Literaturkritik","",null,null,"see",1694,"Kritik","kunstrichter"],
+ [
+  "Kunstrichter","Urteil, ästhetisches","",null,null,"see",3356,"Urteil, ästhetisches",
+  "kunstrichter"
+ ],
  ["Kunstrichter","Gestalt","I (ästh.)","3","541","ref",1116,"Gestalt","kunstrichter"],
  [
   "Kunstschönheit","Naturschönheit/Kunstschönheit","",null,null,"ref",2090,
@@ -376,7 +413,14 @@ HWPH.put("r/6b-75",
  ["Kunsttrieb","Tier","II","10","1210","ref",3192,"Tier; Tierseele","kunsttrieb"],
  ["Kunsttrieb","Trieb","I (allg.)","10","1486f.","ref",3229,"Trieb","kunsttrieb"],
  ["Kunsturteil","Kunstrichter","",null,null,"ref",1718,"Kunstrichter","kunsturteil"],
- ["Kunstwahrheit","Wahrheit","",null,null,"ref",3523,"Wahrheit","kunstwahrheit"],
+ [
+  "Kunstwahrheit","Wahrheit, ästhetische","","12","139","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","kunstwahrheit"
+ ],
+ ["Kunstwerk","Kunst; Kunstwerk","",null,null,"ref",1712,"Kunst, Kunstwerk","kunstwerk"],
+ ["Kunstwerk","Genie","III","3","289","ref",1071,"Genie","kunstwerk"],
+ ["Kunstwerk","Type and token","","10","1581","ref",3242,"Type and token","kunstwerk"],
+ ["Kunstwerk","Werk","","12","551","ref",3586,"Werk","kunstwerk"],
  [
   "Kunstwerk, hermetisches","Hermetismus; hermetisch","","3","1077","ref",1258,
   "Hermetismus, hermetisch","kunstwerk, hermetisches"
@@ -398,27 +442,19 @@ HWPH.put("r/6b-75",
   "Kurzzeitgedächtnis","Gedächtnisspanne","","3","43ff.","ref",997,"Gedächtnisspanne",
   "kurzzeitgedachtnis"
  ],
+ ["Kunst","Philosophie","III C",null,null,"ref",2353,"Philosophie","kunst"],
  [
-  "Kultureller Relativismus","Kultureller Relativismus","",null,null,"main",1704,
-  "Kultureller Relativismus","kultureller relativismus"
- ],
- [
-  "Kultureller Relativismus","Ethnozentrismus","","2","811","ref",838,"Ethnozentrismus",
-  "kultureller relativismus"
- ],
- [
-  "Kunst; Kunstwerk","Kunst; Kunstwerk","",null,null,"main",1712,"Kunst, Kunstwerk",
+  "Kunst; Kunstwerk","Kunst; Kunstwerk","IV",null,null,"main",1712,"Kunst, Kunstwerk",
   "kunst; kunstwerk"
  ],
- ["Kunst; Kunstwerk","Erfahrung","","2","609","ref",786,"Erfahrung","kunst; kunstwerk"],
- ["Kunst; Kunstwerk","Logik","I","5","360","ref",1803,"Logik","kunst; kunstwerk"],
  [
-  "Kunst; Kunstwerk","Medizin","I","5","968f.","ref",1906,"Medizin, Heilkunst, Medizinphilosophie",
+  "Kunst; Kunstwerk","Nachahmung der Natur","",null,null,"ref",2056,"Nachahmung der Natur",
   "kunst; kunstwerk"
  ],
- ["Kunst; Kunstwerk","Natur","I","6","429ff.","ref",2074,"Natur","kunst; kunstwerk"],
- ["Kunst; Kunstwerk","Technik","","10","940f.","ref",3139,"Technik","kunst; kunstwerk"],
- ["Kunst; Kunstwerk","Wissen","I B","12","857","ref",3634,"Wissen","kunst; kunstwerk"],
+ [
+  "Kunst","Characteristica universalis","(Leibniz)",null,null,"ref",485,
+  "Characteristica universalis","kunst"
+ ],
  ["Kunst","Kunst","",null,null,"main",1712,"Kunst, Kunstwerk","kunst"],
  [
   "Kunst","Characteristica universalis","(Leibniz)",null,null,"ref",485,
@@ -447,7 +483,10 @@ HWPH.put("r/6b-75",
   "Kühne-Bertram Gudrun","Pragmatisch","","7","1241–1244","author",2435,"Pragmatisch",
   "kuhne-bertram gudrun"
  ],
- ["Kühne-Bertram Gudrun","Schöne","",null,null,"author",2776,"Schöne","kuhne-bertram gudrun"],
+ [
+  "Kühne-Bertram Gudrun","Schöne, das","IV B","8","1369–1375","author",2776,"Schöne",
+  "kuhne-bertram gudrun"
+ ],
  [
   "Kühne-Bertram Gudrun","Selbstbesinnung","II","9","331–334","author",2825,"Selbstbesinnung",
   "kuhne-bertram gudrun"
@@ -502,7 +541,7 @@ HWPH.put("r/6b-75",
   "kuhlen rainer"
  ],
  ["Kuhlen Rainer","Gneumatologie","","3","714f.","author",1158,"Gneumatologie","kuhlen rainer"],
- ["Kuhn Helmut","Liebe","",null,null,"author",1795,"Liebe","kuhn helmut"],
+ ["Kuhn Helmut","Liebe","I-III","5","290–318","author",1795,"Liebe","kuhn helmut"],
  [
   "Kunkel Susanne","Intuitionismus","II (eth.)","4","542f.","author",1488,"Intuitionismus",
   "kunkel susanne"
@@ -527,7 +566,7 @@ HWPH.put("r/6b-75",
   "kutschera franz von"
  ],
  [
-  "Kutschera Franz von","Paradox III (log.)","","7","96f.","author",2270,
+  "Kutschera Franz von","Paradox","III (log.)","7","96f.","author",2270,
   "Paradox, Paradox(e), Paradoxie","kutschera franz von"
  ],
  ["Kutzer Michael","Temperament","I","10","981–986","author",3148,"Temperament","kutzer michael"],

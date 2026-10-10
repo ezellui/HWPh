@@ -25,8 +25,8 @@ HWPH.put("a/2004",
  "register":[
   {"term":"abstrakt/konkret","qualifier":"","band":"6","col":"71"},
   {"term":"Bedeutungsweise","qualifier":"","band":null,"col":null},
-  {"term":"des Urteils 6 13 modus intelligendi","qualifier":"","band":"6","col":"69"},
-  {"term":"modus essendi","qualifier":"","band":"6","col":"69f."}
+  {"term":"modus essendi","qualifier":"","band":"6","col":"69f."},
+  {"term":"modus intelligendi","qualifier":"","band":"6","col":"69"}
  ],
  "persons":[
   {"id":23,"name":"Boethius","b":1,"n":1,"l":0,"editor":0,"role":"source"},

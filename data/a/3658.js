@@ -26,7 +26,6 @@ HWPH.put("a/3658",
  ],
  "register":[
   {"term":"Definition, persuasive","qualifier":"","band":"12","col":"1050"},
-  {"term":"K 7 788","qualifier":"","band":"12","col":"1050–1052"},
   {"term":"Logokratie","qualifier":"","band":"12","col":"1051"},
   {"term":"politische Semantik","qualifier":"","band":"12","col":"1052"},
   {"term":"Semantik, politische","qualifier":"","band":"12","col":"1052"},
@@ -60,7 +59,7 @@ HWPH.put("a/3658",
   {"id":1803,"lemma":"Logik","tf":2},
   {"id":125,"lemma":"Analyse","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1823,"lemma":"Logomachie"}],
  "groups":[
   {"id":39,"name":"Rhetorik und Argumentationstheorie","label":"Wortstreit"},
   {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Wortstreit"}

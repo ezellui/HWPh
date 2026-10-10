@@ -23,8 +23,8 @@ HWPH.put("a/2358",
   {"term":"machshevet jehudit","qualifier":"","band":"7","col":"902"},
   {"term":"machshevet jisra'el","qualifier":"","band":"7","col":"902"},
   {"term":"philosophia Judaeorum","qualifier":"","band":"7","col":"902"},
-  {"term":"philosophia rabbinica","qualifier":"","band":"7","col":"902"},
-  {"term":"Philosophie","qualifier":"","band":"7","col":"902"}
+  {"term":"philosophia mosaica","qualifier":"","band":"7","col":"902"},
+  {"term":"philosophia rabbinica","qualifier":"","band":"7","col":"902"}
  ],
  "persons":[
   {"id":1462,"name":"J. Guttmann","b":2,"n":1,"l":2,"editor":0,"role":"scholar"},
@@ -115,7 +115,7 @@ HWPH.put("a/2358",
   {"id":230,"lemma":"Arbeit","tf":2},
   {"id":3586,"lemma":"Werk","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1512,"lemma":"Judentum, Wesen des Judentums"}],
  "groups":[{"id":18,"name":"Judentum","label":"Philosophie, jüdische"}],
  "reg_authors":[{"name":"Niewöhner Friedrich","n":17}]
 }

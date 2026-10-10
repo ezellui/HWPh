@@ -26,7 +26,7 @@ HWPH.put("a/1161",
   {"id":839,"name":"M. Wundt","b":0,"n":0,"l":1,"editor":1,"role":"scholar"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":2159,"lemma":"Noologie, noologisch"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Gnostologie"}],
  "reg_authors":[{"name":"Risse Wilhelm","n":4}]
 }

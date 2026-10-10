@@ -1,9 +1,7 @@
 HWPH.put("r/67-72",
 [
- ["Grund","Grund","","3","904","main",1191,"Grund","grund"],
- ["Grund","Vernunft; Verstand","III E","11","788","ref",3423,"Vernunft; Verstand","grund"],
- ["grace","Grazie; Anmut Grad","",null,null,"ref",1182,"Grazie, Anmut","grace"],
- ["Grösse","Grösse","I","3","880f.","main",1187,"Größe","grosse"],
+ ["grace","Grazie; Anmut","",null,null,"ref",1182,"Grazie, Anmut","grace"],
+ ["Grad","Grösse","I","3","880f.","ref",1187,"Größe","grad"],
  [
   "Grade der Abstraktion","Abstraktionsgrade","",null,null,"ref",33,"Abstraktionsgrade",
   "grade der abstraktion"
@@ -12,6 +10,7 @@ HWPH.put("r/67-72",
   "Grade der Gewissheit","Wahrscheinlichkeit","IV B","12","290","ref",3540,"Wahrscheinlichkeit",
   "grade der gewissheit"
  ],
+ ["Grade des Seins","Realitas","","8","181ff.","ref",2589,"Realitas","grade des seins"],
  ["Gradualismus","Gradualismus","","3","845f.","main",1176,"Gradualismus","gradualismus"],
  ["Gradualismus","Hierarchie","",null,null,"see",1270,"Hierarchie","gradualismus"],
  ["Gradualismus","Ordnung","",null,null,"see",2233,"Ordnung","gradualismus"],
@@ -60,7 +59,7 @@ HWPH.put("r/67-72",
  ["grammatica speculativa","Sprache","II","9","1461","ref",2985,"Sprache","grammatica speculativa"],
  ["grammaticus","Philologie","","7","556","ref",2352,"Philologie","grammaticus"],
  ["Grammatik","Grammatik","","3","846–860","main",1177,"Grammatik","grammatik"],
- ["Grammatik","Satz","III",null,null,"ref",2745,"Satz","grammatik"],
+ ["Grammatik","Satz","III 1",null,null,"ref",2745,"Satz","grammatik"],
  ["Grammatik","Anlage","I (anthr.)","1","324","ref",151,"Anlage","grammatik"],
  ["Grammatik","Kritik","I 2","4","1253","ref",1694,"Kritik","grammatik"],
  [
@@ -138,7 +137,7 @@ HWPH.put("r/67-72",
   "gratia excitans"
  ],
  [
-  "gratia operans/cooperans","Lohn II (theol.)","","5","511","ref",1828,"Lohn, Verdienst",
+  "gratia operans/cooperans","Lohn","II (theol.)","5","511","ref",1828,"Lohn, Verdienst",
   "gratia operans/cooperans"
  ],
  [
@@ -154,17 +153,34 @@ HWPH.put("r/67-72",
  ["gratitudo","Dankbarkeit","",null,null,"ref",522,"Dankbarkeit","gratitudo"],
  ["Gratuität","Gratuität","","3","863","main",1180,"Gratuität","gratuitat"],
  ["Gratuität","Gnade","",null,null,"see",1156,"Gnade","gratuitat"],
- ["Gratuität","Lohn II (theol.)","",null,null,"see",1828,"Lohn, Verdienst","gratuitat"],
- ["Gratuität","Supranatural Grauen, angenehmes","",null,null,"see",null,null,"gratuitat"],
+ ["Gratuität","Lohn","II (theol.)",null,null,"see",1828,"Lohn, Verdienst","gratuitat"],
+ ["Gratuität","Supranatural","",null,null,"see",3088,"Supranatural; Supranaturalismus","gratuitat"],
+ [
+  "Grauen, angenehmes","Schreckliche, das","","8","1414","ref",2780,"Schreckliche",
+  "grauen, angenehmes"
+ ],
+ [
+  "Grausamkeit","Wildheit; Grausamkeit","",null,null,"ref",3619,"Wildheit; Grausamkeit; Rohheit",
+  "grausamkeit"
+ ],
+ ["Grausamkeit","Bosheit","","1","954","ref",452,"Bosheit","grausamkeit"],
+ [
+  "Grausamkeit","Imperativ, kategorischer","IV 1","4","252","ref",1395,
+  "Imperative, kategorischer Imperativ","grausamkeit"
+ ],
+ ["Grausamkeit","Malum","VI","5","700","ref",1852,"Malum","grausamkeit"],
+ ["Grausamkeit","Neid","","6","702","ref",2105,"Neid","grausamkeit"],
+ ["Grausamkeit","Rache","I","8","3","ref",2561,"Rache","grausamkeit"],
+ ["Grausamkeit","Strafe","IV","10","251","ref",3035,"Strafe","grausamkeit"],
  ["gravitas","Lebensalter","",null,null,"ref",1739,"Lebensalter","gravitas"],
  ["gravitas animalis","Hypnose","","3","1241","ref",1325,"Hypnose","gravitas animalis"],
  ["Gravitation","Gravitation","","3","863–866","main",1181,"Gravitation","gravitation"],
  ["Gravitation","Fernwirkung","",null,null,"see",908,"Fernwirkung","gravitation"],
- ["Gravitation","Masse I (phys.)","",null,null,"see",1878,"Masse, Massen","gravitation"],
+ ["Gravitation","Masse","I (phys.)",null,null,"see",1878,"Masse, Massen","gravitation"],
  ["Gravitation","Moment","I (nat.)",null,null,"see",2009,"Moment","gravitation"],
  ["Gravitation","Repulsion/Attraktion","",null,null,"see",2690,"Repulsion/Attraktion","gravitation"],
  ["Gravitation","Trägheit","II (phys.)",null,null,"see",3213,"Trägheit","gravitation"],
- ["Gravitation","Feld I (phys.)","","2","925","ref",904,"Feld, Feldtheorie","gravitation"],
+ ["Gravitation","Feld","I (phys.)","2","925","ref",904,"Feld, Feldtheorie","gravitation"],
  ["Gravitation","Kausalgesetz","","4","793f.","ref",1550,"Kausalgesetz","gravitation"],
  ["Gravitation","Symmetrie","II (wiss.)","10","750","ref",3097,"Symmetrie","gravitation"],
  ["Gravitation","Wechselwirkung","","12","335","ref",3550,"Wechselwirkung","gravitation"],
@@ -192,15 +208,16 @@ HWPH.put("r/67-72",
  ],
  ["Grenzbegriff","Welt","II","12","422","ref",3557,"Welt","grenzbegriff"],
  [
-  "Grenzbestimmungen","Bestimmung; Determination I (met.)","","1","854","ref",400,
+  "Grenzbestimmungen","Bestimmung; Determination","I (met.)","1","854","ref",400,
   "Bestimmung, bestimmen, Determination","grenzbestimmungen"
  ],
  ["Grenzbewusstsein","Grenzbegriff","","3","873","ref",1183,"Grenzbegriff","grenzbewusstsein"],
  ["Grenze","Grenze","","3","873–875","main",1184,"Grenze","grenze"],
  ["Grenze","Apeiron","",null,null,"see",199,"Apeiron","grenze"],
- ["Grenze","Grenze","",null,null,"main",1184,"Grenze","grenze"],
+ ["Grenze; Schranke","Grenze; Schranke","","3","875–877","main",1184,"Grenze","grenze; schranke"],
+ ["Grenze; Schranke","Horizont","II (erk.)",null,null,"see",1310,"Horizont","grenze; schranke"],
  [
-  "Grenze","Bestimmung; Determination I (met.)","","1","854","ref",400,
+  "Grenze","Bestimmung; Determination","I (met.)","1","854","ref",400,
   "Bestimmung, bestimmen, Determination","grenze"
  ],
  ["Grenze","Raum, politischer","","8","127","ref",2581,"Raum, politischer","grenze"],
@@ -219,7 +236,7 @@ HWPH.put("r/67-72",
  ],
  ["Grenznutzen","Wert/Preis","","12","589","ref",3590,"Wert/Preis","grenznutzen"],
  [
-  "Grenzproduktivitätstheorie","Lohn III (ökon.)","","5","519","ref",1828,"Lohn, Verdienst",
+  "Grenzproduktivitätstheorie","Lohn","III (ökon.)","5","519","ref",1828,"Lohn, Verdienst",
   "grenzproduktivitatstheorie"
  ],
  ["Grenzpunkt","Topologie","","10","1290","ref",3205,"Topologie","grenzpunkt"],
@@ -241,16 +258,17 @@ HWPH.put("r/67-72",
  ["grief","Trauer; Trauerarbeit","",null,null,"ref",3224,"Trauer; Trauerarbeit","grief"],
  ["Grillenkrankheit","Hypochondrie","","3","1251","ref",1326,"Hypochondrie","grillenkrankheit"],
  ["Grösse","Grösse","","3","878–886","main",1187,"Größe","grosse"],
- ["Grösse","Mass II (ästh.)","",null,null,"see",1877,"Maß","grosse"],
+ ["Grösse","Mass","II (ästh.)",null,null,"see",1877,"Maß","grosse"],
  ["Grösse","Quantität","",null,null,"see",2552,"Quantität","grosse"],
  [
   "Grösse","Remissio/intensio formarum","",null,null,"see",2684,"Remissio/intensio formarum",
   "grosse"
  ],
- ["Grösse (math.)","Grösse II Grösse (phys.)","",null,null,"ref",null,null,"grosse (math.)"],
- ["Grösse III Grösse","Grösse III Grösse","",null,null,"main",null,null,"grosse iii grosse"],
+ ["Grösse (math.)","Grösse","II",null,null,"ref",1187,"Größe","grosse (math.)"],
+ ["Grösse (phys.)","Grösse","III",null,null,"ref",1187,"Größe","grosse (phys.)"],
+ ["Grösse","Leib/Körper","I","5","175","ref",1769,"Leib, Körper","grosse"],
  [
-  "Grösse, extensive/intensive","Grösse I","",null,null,"ref",1187,"Größe",
+  "Grösse, extensive/intensive","Grösse","I",null,null,"ref",1187,"Größe",
   "grosse, extensive/intensive"
  ],
  [
@@ -258,12 +276,12 @@ HWPH.put("r/67-72",
   "grosse, extensive/intensive"
  ],
  [
-  "Grösse, extensive/intensive","Kontinuum IV (math.)","","4","1057","ref",1640,
+  "Grösse, extensive/intensive","Kontinuum","IV (math.)","4","1057","ref",1640,
   "Kontinuum, Kontinuität","grosse, extensive/intensive"
  ],
  [
-  "Grösse, historische (Burckhardt)","Grösse, historische (Burckhardt)","","3","886f.","main",1188,
-  "Größe, historische","grosse, historische (burckhardt)"
+  "Grösse, historische","Grösse, historische","(Burckhardt)","3","886f.","main",1188,
+  "Größe, historische","grosse, historische"
  ],
  [
   "Grösse, nicht teilbare intensive","Conatus","","1","1028","ref",507,"Conatus",
@@ -275,8 +293,12 @@ HWPH.put("r/67-72",
   "grosse, unendlich kleine"
  ],
  [
-  "Grössen, komplementäre","Unschärferelation Grössen, veränderliche","",null,null,"ref",null,null,
-  "grossen, komplementare"
+  "Grössen, komplementäre","Unschärferelation","",null,null,"ref",3318,
+  "Unschärferelation; Unbestimmtheitsrelation","grossen, komplementare"
+ ],
+ [
+  "Grössen, veränderliche","Funktion","I (math.)","2","1138f.","ref",974,"Funktion",
+  "grossen, veranderliche"
  ],
  ["Grössenwahn","Pathisch; Pathik","I","7","178","ref",2290,"Pathisch, Pathik","grossenwahn"],
  ["Grösseres","Gottesbeweis","","3","825f.","ref",1165,"Gottesbeweis","grosseres"],
@@ -299,7 +321,13 @@ HWPH.put("r/67-72",
  ["Grossmut","Hochherzigkeit","",null,null,"see",1285,"Hochherzigkeit","grossmut"],
  ["Grossmut","Empfindsamkeit","","2","456","ref",722,"Empfindsamkeit","grossmut"],
  ["Grossraum","Raum, politischer","","8","129","ref",2581,"Raum, politischer","grossraum"],
- ["Groteske","Groteske","",null,null,"main",1190,"Groteske","groteske"],
+ ["Groteske, das","Groteske, das","","3","900–902","main",1190,"Groteske","groteske, das"],
+ ["Groteske, das","Hässliche, das","",null,null,"see",1228,"Häßliche (das)","groteske, das"],
+ ["Groteske, das","Karikatur","",null,null,"see",1531,"Karikatur","groteske, das"],
+ [
+  "Groteske, das","Wunderbare, das; Phantastische, das","",null,null,"see",3660,
+  "Wunderbare, das; Phantastische, das","groteske, das"
+ ],
  ["growth","Wachstum","II",null,null,"ref",3513,"Wachstum","growth"],
  [
   "Gründegeschichte","Wirkungsgeschichte","","12","847","ref",3629,"Wirkungsgeschichte",
@@ -322,7 +350,7 @@ HWPH.put("r/67-72",
  ["Grund","Vernunft; Verstand","VII E","11","852","ref",3423,"Vernunft; Verstand","grund"],
  ["Grund, endothymer","Es","","2","739","ref",824,"Es","grund, endothymer"],
  [
-  "Grund, endothymer","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Grund, endothymer","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","grund, endothymer"
  ],
  ["Grund, idealer","Realgrund","","8","138","ref",2585,"Realgrund","grund, idealer"],
@@ -373,11 +401,8 @@ HWPH.put("r/67-72",
   "Kategorie, Kategorienlehre","grundkategorie"
  ],
  ["Grundkraft","Kraft","II","4","1182","ref",1680,"Kraft","grundkraft"],
- ["Grundlage","Hypothese I Grundlagenkrise","",null,null,"ref",null,null,"grundlage"],
- [
-  "Grundlagenstreit","Grundlagenstreit","",null,null,"main",1193,"Grundlagenstreit",
-  "grundlagenstreit"
- ],
+ ["Grundlage","Hypothese","I",null,null,"ref",1330,"Hypothese, Hypothesis","grundlage"],
+ ["Grundlagenkrise","Grundlagenstreit","",null,null,"ref",1193,"Grundlagenstreit","grundlagenkrise"],
  [
   "Grundlagenstreit","Grundlagenstreit","","3","910–918","main",1193,"Grundlagenstreit",
   "grundlagenstreit"
@@ -432,7 +457,7 @@ HWPH.put("r/67-72",
   "Grundsätze, praktische","Imperativ, kategorischer","",null,null,"see",null,null,
   "grundsatze, praktische"
  ],
- ["Grundsätze, praktische","Prinzip","III",null,null,"see",2458,"Prinzip","grundsatze, praktische"],
+ ["Grundsätze, praktische","Prinzip","III 4",null,null,"see",2458,"Prinzip","grundsatze, praktische"],
  ["Grundsätze, praktische","Sollen","I",null,null,"see",2920,"Sollen","grundsatze, praktische"],
  [
   "Grundsätze des reinen Verstandes","Logik, transzendentale","","5","467","ref",1819,
@@ -456,7 +481,7 @@ HWPH.put("r/67-72",
  ["Grundsituation","Situation","I (anthr.)","9","924","ref",2904,"Situation","grundsituation"],
  ["Grundsprache","Ursprache","","11","415","ref",3351,"Ursprache","grundsprache"],
  ["Grundstimmung","Stimmung","","10","173ff.","ref",3027,"Stimmung","grundstimmung"],
- ["Grundsynthesis","Dialektik","IV",null,null,"ref",583,"Dialektik","grundsynthesis"],
+ ["Grundsynthesis","Dialektik","IV 1. 2","2","187","ref",583,"Dialektik","grundsynthesis"],
  [
   "Grundwissenschaft","Grundwissenschaft","","3","925–929","main",1198,"Grundwissenschaft",
   "grundwissenschaft"
@@ -471,7 +496,7 @@ HWPH.put("r/67-72",
   "Grundwissenschaft, subjektive/objektive","Psychologie, transzendentale","(Kant)","7","1673","ref",
   2521,"Psychologie, transzendentale","grundwissenschaft, subjektive/objektive"
  ],
- ["Gruppe","Narzissmus III","",null,null,"ref",2069,"Narzißmus, narzißtisch","gruppe"],
+ ["Gruppe","Narzissmus","III",null,null,"ref",2069,"Narzißmus, narzißtisch","gruppe"],
  ["Gruppe","Struktur","IV (psych.)","10","327","ref",3040,"Struktur","gruppe"],
  ["Gruppe (math.)","Isomorphie","","4","628","ref",1502,"Isomorphie","gruppe (math.)"],
  [
@@ -495,7 +520,11 @@ HWPH.put("r/67-72",
  ["Gruppendynamik","Konformismus/Nonkonformismus","",null,null,"see",null,null,"gruppendynamik"],
  ["Gruppendynamik","Sozialpsychologie","",null,null,"see",2952,"Sozialpsychologie","gruppendynamik"],
  ["Gruppen-Ich","Ich","II","4","17","ref",1334,"Ich","gruppen-ich"],
- ["Gruppenidentität","Identität","",null,null,"ref",1366,"Identität","gruppenidentitat"],
+ [
+  "Gruppenidentität","Identität; Ich-Identität","","4","148","ref",1366,"Identität",
+  "gruppenidentitat"
+ ],
+ ["Gruppenselbstgefühl","Selbstgefühl","","9","451","ref",2836,"Selbstgefühl","gruppenselbstgefuhl"],
  ["Gruppenselektion","Soziobiologie","","9","1264","ref",2956,"Soziobiologie","gruppenselektion"],
  [
   "Gruppentheorie","Struktur (Mathematik)","","10","336","ref",3041,"Struktur (Mathematik)",
@@ -506,8 +535,6 @@ HWPH.put("r/67-72",
   "Grundsätze, praktische","Grundsätze, praktische","(Kant)",null,null,"main",1197,
   "Grundsätze, praktische","grundsatze, praktische"
  ],
- ["Grossmut","Grossmut","","3","889","main",1189,"Großmut","grossmut"],
- ["Grossmut","Philosophie","II B","7","624","ref",2353,"Philosophie","grossmut"],
  [
   "Graf Friedrich Wilhelm","Sozialethik","","9","1134–1138","author",2941,"Sozialethik",
   "graf friedrich wilhelm"
@@ -570,8 +597,8 @@ HWPH.put("r/67-72",
  ["Grawe Christian","Homo creator","","3","1173","author",1295,"Homo creator","grawe christian"],
  ["Grawe Christian","Homo faber","","3","1173–1175","author",1296,"Homo faber","grawe christian"],
  [
-  "Grawe Christian","Homo insciens (Ortega y Gasset)","","3","1175","author",1300,
-  "Homo-mensura-Satz","grawe christian"
+  "Grawe Christian","Homo insciens","(Ortega y Gasset)","3","1175","author",1300,"Homo-mensura-Satz",
+  "grawe christian"
  ],
  [
   "Grawe Christian","Homo loquax","(Bergson)","3","1175","author",1298,"Homo loquax",
@@ -599,7 +626,7 @@ HWPH.put("r/67-72",
   "Grawe Christian","Kulturanthropologie","","4","1324–1327","author",1702,"Kulturanthropologie",
   "grawe christian"
  ],
- ["Grawe Christian","Mensch","",null,null,"author",1917,"Mensch","grawe christian"],
+ ["Grawe Christian","Mensch I;","III 1","5","1059–1061","author",1917,"Mensch","grawe christian"],
  [
   "Grawe Christian","Mensch, natürlicher","","5","1111f.","author",1920,"Mensch, natürlicher",
   "grawe christian"
@@ -628,7 +655,7 @@ HWPH.put("r/67-72",
  ],
  ["Gremmels Christian","Aktuosität","","1","146","author",89,"Aktuosität","gremmels christian"],
  ["Gremmels Christian","Anspruch","I","1","355f.","author",168,"Anspruch","gremmels christian"],
- ["Gremmels Christian","Biblizismus","","1","912f.","author",429,"Bezugssystem","gremmels christian"],
+ ["Gremmels Christian","Biblizismus","","1","912f.","author",430,"Biblizismus","gremmels christian"],
  [
   "Gremmels Christian","Fundamentalismus","","2","1133","author",966,"Fundamentalismus",
   "gremmels christian"
@@ -653,18 +680,18 @@ HWPH.put("r/67-72",
   "grimm tilemann"
  ],
  ["Grimm Tilemann","Buddhismus","II","1","960–962","author",458,"Buddhismus","grimm tilemann"],
- ["Grimm Tilemann","Chinesische","",null,null,"author",494,"Chinesische","grimm tilemann"],
+ ["Grimm Tilemann","Chinesische, das","","1","1006f.","author",494,"Chinesische","grimm tilemann"],
  [
-  "Grimm Tilemann","Emblem II (chin.)","","2","452","author",716,"Emblem, Emblematik",
+  "Grimm Tilemann","Emblem","II (chin.)","2","452","author",716,"Emblem, Emblematik",
   "grimm tilemann"
  ],
  ["Grimm Tilemann","Feng-shui","","2","933","author",906,"Feng-shui","grimm tilemann"],
- ["Grimm Tilemann","I Ging","","4","197f.","author",1380,"Idylle","grimm tilemann"],
+ ["Grimm Tilemann","I Ging","","4","197f.","author",1381,"I Ging","grimm tilemann"],
+ ["Grimm Tilemann","Konfuzianismus","","4","958–960","author",1611,"Konfuzianismus","grimm tilemann"],
  [
-  "Grimm Tilemann","Konfuzianismus","","4","958–960","author",1610,
-  "Konformismus (Konformität)/Nonkonformismus","grimm tilemann"
+  "Grimm Tilemann","Kulturrevolution","II-III","4","1344–1349","author",1709,"Kulturrevolution",
+  "grimm tilemann"
  ],
- ["Grimm Tilemann","Kulturrevolution","",null,null,"author",1709,"Kulturrevolution","grimm tilemann"],
  ["Grimm Tilemann","Leere","II (Ostasien)","5","158f.","author",1758,"Leere","grimm tilemann"],
  ["Grimm Tilemann","Legismus","","5","166f.","author",1763,"Legismus","grimm tilemann"],
  ["Grimm Tilemann","Mahayana","","5","636f.","author",1846,"Mahayana","grimm tilemann"],
@@ -700,7 +727,7 @@ HWPH.put("r/67-72",
  ["Gross Heinrich","Gott","III","3","728f.","author",1162,"Gott","gross heinrich"],
  ["Grosse Wilhelm","Kalokagathia","II","4","681–684","author",1522,"Kalokagathia","grosse wilhelm"],
  [
-  "Grosse Wilhelm","Lebenskategorien","(Dilthey)","5","120–122","author",1744,"Lebensgefühl",
+  "Grosse Wilhelm","Lebenskategorien","(Dilthey)","5","120–122","author",1745,"Lebenskategorien",
   "grosse wilhelm"
  ],
  [

@@ -17,10 +17,7 @@ HWPH.put("a/2728",
  "next":{"id":2729,"lemma":"Sabi","band":"8","col":1093},
  "backlinks":[{"id":3694,"lemma":"Zimzum","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"shabbateanism","qualifier":"","band":null,"col":null},
-  {"term":"– II (jüd.) 1 406f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"shabbateanism","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":195,"name":"G. Scholem","b":1,"n":1,"l":0,"editor":0,"role":"scholar"},
   {"id":34802,"name":"E. Schweid","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},
@@ -37,6 +34,6 @@ HWPH.put("a/2728",
   {"id":18,"name":"Judentum","label":"Sabbatianismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Sabbatianismus"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

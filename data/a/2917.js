@@ -18,9 +18,9 @@ HWPH.put("a/2917",
  "backlinks":[{"id":3289,"lemma":"Undurchdringlichkeit","n":2},{"id":3610,"lemma":"Widerstand","n":1}],
  "outlinks":[{"id":1663,"lemma":"Körper, starrer","n":1}],
  "register":[
+  {"term":"Festigkeit","qualifier":"","band":null,"col":null},
   {"term":"Festkörper","qualifier":"","band":"9","col":"1017"},
-  {"term":"soliditas","qualifier":"","band":null,"col":null},
-  {"term":"– I (nat.) 12 703–709 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"soliditas","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":1,"n":1,"l":0,"editor":0,"role":"source"},

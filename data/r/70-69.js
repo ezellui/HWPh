@@ -1,6 +1,7 @@
 HWPH.put("r/70-69",
 [
- ["pictura","Emblem I (lit.) pie philosophari","",null,null,"ref",null,null,"pictura"],
+ ["pictura","Emblem","I (lit.)",null,null,"ref",716,"Emblem, Emblematik","pictura"],
+ ["pie philosophari","Philosophie","III B 1","7","663","ref",2353,"Philosophie","pie philosophari"],
  ["Pietät","Pietät","","7","972","main",2376,"Pietät","pietat"],
  ["Pietät","Naivität/Pietät","(Wust)",null,null,"ref",2065,"Naivität/Pietät","pietat"],
  ["Pietas","Pietas","","7","971f.","main",2375,"Pietas","pietas"],
@@ -15,7 +16,7 @@ HWPH.put("r/70-69",
  ["pigritia","Faulheit","","2","916","ref",900,"Faulheit","pigritia"],
  ["Pilpul","Pilpul","","7","974–976","main",2378,"Pilpul","pilpul"],
  [
-  "Pilpul","Judentum (Wissenschaft des Judentums)","","4","654","ref",1513,
+  "Pilpul","Judentum","(Wissenschaft des Judentums)","4","654","ref",1513,
   "Judentum, Wissenschaft des Judentums","pilpul"
  ],
  ["Pistis","Pistis","","7","976f.","main",2379,"Pistis","pistis"],
@@ -28,7 +29,10 @@ HWPH.put("r/70-69",
   "Imperative, kategorischer Imperativ","pieper annemarie"
  ],
  ["Pieper Annemarie","Metaethik","","5","1168–1171","author",1938,"Metaethik","pieper annemarie"],
- ["Pieper Annemarie","Postulat","III B",null,null,"author",2418,"Postulat","pieper annemarie"],
+ [
+  "Pieper Annemarie","Postulat III B l","","7","1151–1154","author",2418,"Postulat",
+  "pieper annemarie"
+ ],
  ["Pieper Annemarie","Regel","II (eth.)","8","434–444","author",2640,"Regel","pieper annemarie"],
  ["Pieper Annemarie","Revolte","","8","954–957","author",2704,"Revolte","pieper annemarie"],
  ["Pieper Annemarie","Sollen","I","9","1026–1045","author",2920,"Sollen","pieper annemarie"],
@@ -58,7 +62,7 @@ HWPH.put("r/70-69",
  ],
  ["Piepmeier Rainer","Innigkeit","II","4","389–391","author",1447,"Innigkeit","piepmeier rainer"],
  [
-  "Piepmeier Rainer","Intelligenz; Intellektueller I (erk.)","","4","445–447","author",1463,
+  "Piepmeier Rainer","Intelligenz; Intellektueller","I (erk.)","4","445–447","author",1463,
   "Intellektuell","piepmeier rainer"
  ],
  ["Piepmeier Rainer","Korrelation","I","4","1139f.","author",1670,"Korrelation","piepmeier rainer"],

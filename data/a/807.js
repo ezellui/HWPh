@@ -31,7 +31,6 @@ HWPH.put("a/807",
  "register":[
   {"term":"Aufstieg","qualifier":"","band":null,"col":null},
   {"term":"Augenblick","qualifier":"","band":"2","col":"712"},
-  {"term":"Conversio; Umkehr","qualifier":"","band":"2","col":"715"},
   {"term":"Eine in uns","qualifier":"","band":"2","col":"715"},
   {"term":"illuminatio","qualifier":"","band":null,"col":null},
   {"term":"illustratio animae","qualifier":"","band":"2","col":"715"},
@@ -47,11 +46,11 @@ HWPH.put("a/807",
   {"term":"ἄσκιος","qualifier":"","band":"2","col":"713"},
   {"term":"ἔκλαμψις","qualifier":"","band":null,"col":null},
   {"term":"ἔλλαμψις","qualifier":"","band":null,"col":null},
+  {"term":"ἐπιστροφή","qualifier":"","band":"2","col":"715"},
   {"term":"κάθαρσις","qualifier":"","band":"2","col":"715"},
   {"term":"ὁμοίωσις θεω¸˜","qualifier":"","band":"2","col":"715"},
   {"term":"τελείωσις","qualifier":"","band":"2","col":"715"},
-  {"term":"φωτισμός","qualifier":"","band":null,"col":null},
-  {"term":"– I (theol.) 4 401–403 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"φωτισμός","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":1,"n":3,"l":0,"editor":0,"role":"source"},

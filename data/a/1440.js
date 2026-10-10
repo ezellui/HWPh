@@ -34,7 +34,7 @@ HWPH.put("a/1440",
  "backlinks":[{"id":3612,"lemma":"Wiederbringung","n":1},{"id":3723,"lemma":"Zweinaturenlehre","n":1}],
  "outlinks":[{"id":1376,"lemma":"Idiomatum communicatio","n":1}],
  "register":[
-  {"term":"Anthropologie","qualifier":"III","band":"4","col":"376"},
+  {"term":"Anthropomorphismus","qualifier":"III","band":"4","col":"376"},
   {"term":"idiomatum communicatio","qualifier":"III","band":"4","col":"371ff."},
   {"term":"incarnatio","qualifier":"","band":null,"col":null},
   {"term":"inhumanatio","qualifier":"I","band":"4","col":"369"},
@@ -197,7 +197,7 @@ HWPH.put("a/1440",
   {"name":"Elze Martin","n":5},
   {"name":"Lanczkowski Günter","n":22},
   {"name":"Piepmeier Rainer","n":12},
-  {"name":"Red","n":242}
+  {"name":"Red","n":241}
  ]
 }
 );

@@ -23,8 +23,12 @@ HWPH.put("a/1280",
  "outlinks":[],
  "register":[
   {"term":"ars historica","qualifier":"","band":null,"col":null},
+  {"term":"Geschichtskunst","qualifier":"","band":null,"col":null},
   {"term":"Geschichtsschreibung","qualifier":"","band":null,"col":null},
+  {"term":"Geschichtstheorie","qualifier":"","band":null,"col":null},
+  {"term":"Historiographie","qualifier":"","band":null,"col":null},
   {"term":"Historiomathie","qualifier":"","band":"3","col":"1132"},
+  {"term":"Kunst, historische","qualifier":"","band":null,"col":null},
   {"term":"Metahistorik","qualifier":"","band":"3","col":"1135"},
   {"term":"Wissenschaftslehre der Geschichte","qualifier":"","band":"3","col":"1133"}
  ],

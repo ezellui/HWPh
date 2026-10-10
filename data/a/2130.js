@@ -18,8 +18,7 @@ HWPH.put("a/2130",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Bewusstsein, doxisches","qualifier":"","band":"6","col":"781"},
-  {"term":"Bildobjektbewusstsein","qualifier":"","band":"6","col":"781"},
+  {"term":"Säkularisation","qualifier":"(Schmitt)","band":null,"col":null},
   {"term":"Zeitalter der Neutralisierungen","qualifier":"(Schmitt)","band":null,"col":null}
  ],
  "persons":[
@@ -46,6 +45,6 @@ HWPH.put("a/2130",
   {"id":13,"name":"Geschichtsphilosophie","label":"Neutralisierungen, Zeitalter der (Schmitt)"},
   {"id":33,"name":"Politische Theorie","label":"Neutralisierungen, Zeitalter der (Schmitt)"}
  ],
- "reg_authors":[{"name":"Janssen Paul","n":26},{"name":"Marquard Odo","n":22}]
+ "reg_authors":[{"name":"Marquard Odo","n":22}]
 }
 );

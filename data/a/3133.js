@@ -44,8 +44,7 @@ HWPH.put("a/3133",
   {"term":"Wechselwirkung","qualifier":"","band":"10","col":"922f."},
   {"term":"Zweckkontrakt","qualifier":"","band":"10","col":"922"},
   {"term":"Zweckverein","qualifier":"","band":"10","col":"922"},
-  {"term":"ἀλλαγή","qualifier":"","band":null,"col":null},
-  {"term":"– I (ökon.) 6 1149–1153 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἀλλαγή","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":913,"name":"M. Mauss","b":1,"n":2,"l":0,"editor":0,"role":"source"},

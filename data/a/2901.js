@@ -22,9 +22,11 @@ HWPH.put("a/2901",
   {"term":"Erkennen, sinnliches","qualifier":"","band":"9","col":"893"},
   {"term":"Erkenntnis, sinnliche","qualifier":"","band":"9","col":"893"},
   {"term":"Erscheinung der Erscheinung","qualifier":"","band":"9","col":"896"},
-  {"term":"III-IV sensualitas","qualifier":"","band":null,"col":null},
   {"term":"sensibilitas","qualifier":"","band":null,"col":null},
   {"term":"sensibilité","qualifier":"","band":null,"col":null},
+  {"term":"sensibility","qualifier":"","band":null,"col":null},
+  {"term":"sensitivus","qualifier":"","band":null,"col":null},
+  {"term":"sensualitas","qualifier":"","band":null,"col":null},
   {"term":"sinnliche Erkenntnis","qualifier":"","band":"9","col":"893"}
  ],
  "persons":[

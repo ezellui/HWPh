@@ -20,7 +20,8 @@ HWPH.put("a/1865",
  "register":[
   {"term":"Einheit","qualifier":"","band":null,"col":null},
   {"term":"Einheit des Mannigfaltigen","qualifier":"","band":null,"col":null},
-  {"term":"Einheit in der Vielheit","qualifier":"","band":null,"col":null}
+  {"term":"Einheit in der Vielheit","qualifier":"","band":null,"col":null},
+  {"term":"Verschiedenheit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":54,"name":"H. Cohen","b":1,"n":2,"l":1,"editor":0,"role":"source"},

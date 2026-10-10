@@ -26,11 +26,11 @@ HWPH.put("a/362",
   {"term":"Begierde","qualifier":"","band":null,"col":null},
   {"term":"desire","qualifier":"","band":null,"col":null},
   {"term":"Entelechie","qualifier":"","band":"1","col":"777"},
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"Naturtrieb","qualifier":"","band":null,"col":null},
   {"term":"Psychoid","qualifier":"","band":"1","col":"777"},
   {"term":"Vorstellung","qualifier":"","band":null,"col":null},
-  {"term":"Wille zum Leben","qualifier":"","band":"1","col":"776"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wille zum Leben","qualifier":"","band":"1","col":"776"}
  ],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},

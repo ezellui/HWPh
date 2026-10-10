@@ -17,10 +17,7 @@ HWPH.put("a/1873",
  "next":{"id":1874,"lemma":"Maskil","band":"5","col":802},
  "backlinks":[{"id":1735,"lemma":"Leben","n":1},{"id":1872,"lemma":"Maschine","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"Biogen","qualifier":"","band":"5","col":"802"},
-  {"term":"– VI (biol.) 5 97–103 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Biogen","qualifier":"","band":"5","col":"802"}],
  "persons":[{"id":2726,"name":"J. Schultz","b":1,"n":1,"l":0,"editor":0,"role":"mixed"}],
  "mentions":[
   {"id":526,"lemma":"Darwinismus","tf":3},

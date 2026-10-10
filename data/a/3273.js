@@ -36,12 +36,10 @@ HWPH.put("a/3273",
   {"term":"Alltagssprache","qualifier":"","band":null,"col":null},
   {"term":"colloquial language","qualifier":"","band":null,"col":null},
   {"term":"Conversationssprache","qualifier":"I","band":"11","col":"87"},
-  {"term":"Dialekt","qualifier":"II","band":"11","col":"88"},
   {"term":"everyday language","qualifier":"","band":null,"col":null},
   {"term":"Existenzform (ling.)","qualifier":"I","band":"11","col":"87"},
   {"term":"Gebrauchssprache","qualifier":"","band":null,"col":null},
   {"term":"Idealsprache","qualifier":"II","band":"11","col":"89"},
-  {"term":"K","qualifier":"II","band":null,"col":null},
   {"term":"langage familier","qualifier":"","band":null,"col":null},
   {"term":"langue usuelle","qualifier":"","band":null,"col":null},
   {"term":"Normalsprache","qualifier":"II","band":"11","col":"89"},
@@ -49,6 +47,7 @@ HWPH.put("a/3273",
   {"term":"Sprache des Lebens","qualifier":"II","band":"11","col":"88"},
   {"term":"Sprache des Umgangs","qualifier":"","band":null,"col":null},
   {"term":"Sprache, natürliche","qualifier":"II","band":null,"col":null},
+  {"term":"Volkssprache","qualifier":"II","band":"11","col":"88"},
   {"term":"Welterschliessung, umgangssprachliche","qualifier":"II","band":"11","col":"88"}
  ],
  "persons":[
@@ -96,6 +95,6 @@ HWPH.put("a/3273",
  ],
  "see_also":[{"id":582,"lemma":"Dialekt"},{"id":2232,"lemma":"Ordinary Language Philosophy"}],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Umgangssprache"}],
- "reg_authors":[{"name":"Bichel Ulf","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Bichel Ulf","n":1},{"name":"Red","n":241}]
 }
 );

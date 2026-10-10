@@ -27,6 +27,7 @@ HWPH.put("a/3665",
  "backlinks":[],
  "outlinks":[{"id":3373,"lemma":"Variable","n":1}],
  "register":[
+  {"term":"Durchkreuzung","qualifier":"(Heidegger) X","band":"12","col":"1103f."},
   {"term":"Durchstreichung","qualifier":"X","band":"12","col":"1103"},
   {"term":"X","qualifier":"","band":"12","col":"1101–1105"}
  ],

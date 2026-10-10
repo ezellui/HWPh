@@ -27,9 +27,8 @@ HWPH.put("a/3299",
   {"id":3393,"lemma":"Verdrängung","n":1}
  ],
  "register":[
-  {"term":"das","qualifier":"","band":null,"col":null},
-  {"term":"das 8 1413–1416 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"das 8 1415 déstructuration","qualifier":"","band":"11","col":"174"},
+  {"term":"Alterität","qualifier":"","band":"11","col":"174"},
+  {"term":"déstructuration","qualifier":"","band":"11","col":"174"},
   {"term":"étrangeté inquiétante","qualifier":"","band":"11","col":"174"},
   {"term":"heimlich","qualifier":"","band":"11","col":"172"},
   {"term":"inquiétante étrangeté","qualifier":"","band":"11","col":"174"},
@@ -76,11 +75,16 @@ HWPH.put("a/3299",
   {"id":168,"lemma":"Anspruch","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[{"id":2780,"lemma":"Schreckliche"}],
+ "see_also":[
+  {"id":2780,"lemma":"Schreckliche"},
+  {"id":3393,"lemma":"Verdrängung"},
+  {"id":3660,"lemma":"Wunderbare, das; Phantastische, das"},
+  {"id":3666,"lemma":"Xenologie; Wissenschaft vom Fremden"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Unheimliche, das"},
   {"id":35,"name":"Psychoanalyse","label":"Unheimliche, das"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

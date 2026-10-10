@@ -19,10 +19,10 @@ HWPH.put("a/2220",
  "outlinks":[{"id":1030,"lemma":"Geist","n":1}],
  "register":[
   {"term":"analogia trinitatis","qualifier":"","band":"6","col":"1201"},
-  {"term":"Disposition","qualifier":"","band":"6","col":"1201"},
   {"term":"Liebe","qualifier":"","band":"6","col":"1202"},
   {"term":"Metaphysik, trinitarische","qualifier":"","band":"6","col":"1201"},
   {"term":"Selbstmitteilung","qualifier":"","band":"6","col":"1202"},
+  {"term":"Spur","qualifier":"","band":"6","col":"1201"},
   {"term":"trinitarische Ontologie","qualifier":"","band":null,"col":null}
  ],
  "persons":[

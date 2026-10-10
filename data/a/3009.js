@@ -17,7 +17,11 @@ HWPH.put("a/3009",
  "next":{"id":3010,"lemma":"Standard-Modell/Nicht-Standard-Modell","band":"10","col":96},
  "backlinks":[],
  "outlinks":[{"id":412,"lemma":"Bewußtsein","n":1}],
- "register":[],
+ "register":[
+  {"term":"Bewusstseinslage","qualifier":"(Dilthey)","band":null,"col":null},
+  {"term":"Bewusstseinsstand","qualifier":"(Dilthey)","band":null,"col":null},
+  {"term":"status conscientiae","qualifier":"(Dilthey)","band":"10","col":"95"}
+ ],
  "persons":[
   {"id":29,"name":"W. Dilthey","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":25,"name":"Th. W. Adorno","b":1,"n":1,"l":0,"editor":0,"role":"source"}
@@ -30,8 +34,11 @@ HWPH.put("a/3009",
   {"id":266,"lemma":"Ästhetik, ästhetisch","tf":2},
   {"id":2511,"lemma":"Psychologie","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":419,"lemma":"Bewußtseinsstellung"},
+  {"id":2512,"lemma":"Psychologie, beschreibende und zergliedernde"}
+ ],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Stand des Bewusstseins (Dilthey)"}],
- "reg_authors":[]
+ "reg_authors":[{"name":"Abeler Helmut","n":4}]
 }
 );

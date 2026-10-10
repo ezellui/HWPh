@@ -5,7 +5,7 @@ HWPH.put("t/2234",
  "l":"J. MESSNER: Die b.O. (1936). – A. RAUSCHER: Subsidiaritätsprinzip und b.O. (1956). – G. GUNDLACH: Art. ‹b.O.›, in: Staatslex., hg. Görres-Ges. 1 (61957).",
  "au":"R. Herzog",
  "A":["R. Herzog"],
- "cb":[[0,1310]],
+ "cb":[[0,1309],[27,1310]],
  "cn":[],
  "cl":[[0,1310]]
 }

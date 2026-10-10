@@ -42,8 +42,14 @@ HWPH.put("r/61-6e",
   "Ontologie, trinitarische","analogia trinitatis"
  ],
  ["Analogie","Analogie","","1","214–229","main",123,"Analogie","analogie"],
+ ["Analogie","Proportion","",null,null,"see",2483,"Proportion","analogie"],
+ ["Analogie","Univozität","",null,null,"see",3311,"Univozität; univok","analogie"],
+ ["Analogie","Homologie","II (ling.)",null,null,"see",1306,"Homologie","analogie"],
+ ["Analogie","Sprachform, innere","(Humboldt)",null,null,"see",2990,"Sprachform, innere","analogie"],
+ ["Analogie","Suppletivwesen","",null,null,"see",3083,"Suppletivwesen","analogie"],
+ ["Analogie","Homologie","I (biol.)",null,null,"see",1306,"Homologie","analogie"],
  [
-  "Analogie","Invention; Erfindung III (log.)","","4","564","ref",1490,
+  "Analogie","Invention; Erfindung","III (log.)","4","564","ref",1490,
   "Invention, Erfindung, Entdeckung","analogie"
  ],
  ["Analogie","Univozität","I","11","226","ref",3311,"Univozität; univok","analogie"],
@@ -74,7 +80,9 @@ HWPH.put("r/61-6e",
  ["Analyse","Analyse","","1","230–232","main",125,"Analyse","analyse"],
  ["Analyse","Atomismus","III (log.)",null,null,"see",280,"Atomismus","analyse"],
  ["Analyse","Grammatik, logische","",null,null,"see",1178,"Grammatik, logische","analyse"],
- ["Analyse","Philosophie","IV",null,null,"see",2353,"Philosophie","analyse"],
+ ["Analyse","Philosophie","IV K",null,null,"see",2353,"Philosophie","analyse"],
+ ["Analyse","Philosophie, analytische","",null,null,"see",2354,"Philosophie, analytische","analyse"],
+ ["Analyse","Sprachanalyse","",null,null,"see",2983,"Sprachanalyse","analyse"],
  ["Analyse","Quasianalyse","(Carnap)",null,null,"ref",2555,"Quasianalyse","analyse"],
  ["Analyse","Methode","III 2","5","1309f.","ref",1955,"Methode","analyse"],
  [
@@ -91,7 +99,7 @@ HWPH.put("r/61-6e",
  ],
  ["Analyse/Synthese","Ganzes/Teil","",null,null,"see",986,"Ganzes/Teil","analyse/synthese"],
  [
-  "Analyse/Synthese","Invention; Erfindung III (log.)","",null,null,"see",1490,
+  "Analyse/Synthese","Invention; Erfindung","III (log.)",null,null,"see",1490,
   "Invention, Erfindung, Entdeckung","analyse/synthese"
  ],
  [
@@ -106,8 +114,12 @@ HWPH.put("r/61-6e",
  ["Analyse/Synthese","Urteil","I (rhet.)","11","433","ref",3355,"Urteil","analyse/synthese"],
  ["Analyse, beziehende","Psychologie","","7","1622","ref",2511,"Psychologie","analyse, beziehende"],
  [
-  "Analyse, ikonographische","Ikonographie; Ikonologie Analyse, immanente","",null,null,"ref",1384,
+  "Analyse, ikonographische","Ikonographie; Ikonologie","",null,null,"ref",1384,
   "Ikonographie, Ikonologie","analyse, ikonographische"
+ ],
+ [
+  "Analyse, immanente","Interpretation, immanente","","4","517","ref",1479,
+  "Interpretation, immanente","analyse, immanente"
  ],
  [
   "Analyse, judikative","Analyse/Synthese","","1","233","ref",126,"Analyse/Synthese",
@@ -148,31 +160,35 @@ HWPH.put("r/61-6e",
   "analyse structurale"
  ],
  [
-  "Analyseparadox","Paradox III (log.)","","7","97","ref",2270,"Paradox, Paradox(e), Paradoxie",
+  "Analyseparadox","Paradox","III (log.)","7","97","ref",2270,"Paradox, Paradox(e), Paradoxie",
   "analyseparadox"
  ],
  ["Analysis","Infinitesimalrechnung","",null,null,"ref",1430,"Infinitesimalrechnung","analysis"],
  [
-  "Analysis","Invention; Erfindung III (log.)","","4","557","ref",1490,
+  "Analysis","Invention; Erfindung","III (log.)","4","557","ref",1490,
   "Invention, Erfindung, Entdeckung","analysis"
  ],
  ["Analysis","Kritik","I 3","4","1256ff.","ref",1694,"Kritik","analysis"],
  ["Analysis, infinitesimale","Endlich","I","2","486","ref",734,"Endlich","analysis, infinitesimale"],
  [
-  "Analysis, philosophische","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "Analysis, philosophische","Philosophie","IV K","7","790","ref",2353,"Philosophie",
   "analysis, philosophische"
+ ],
+ [
+  "Analysis, philosophische","Philosophie, analytische","","7","879","ref",2354,
+  "Philosophie, analytische","analysis, philosophische"
  ],
  ["Analysis fidei","Analysis fidei","","1","248f.","main",127,"Analysis fidei","analysis fidei"],
  ["analysis notionum","Methode","V 1","5","1320","ref",1955,"Methode","analysis notionum"],
  ["analysis situs","Topologie","","10","1289","ref",3205,"Topologie","analysis situs"],
  ["analysis speciosa","Speciosa","",null,null,"ref",2967,"Speciosa","analysis speciosa"],
  ["Analytik","Analytik","","1","249–251","main",128,"Analytik","analytik"],
- ["Analytik","Dialektik","IV",null,null,"see",583,"Dialektik","analytik"],
+ ["Analytik","Dialektik","IV 1. 1",null,null,"see",583,"Dialektik","analytik"],
  ["Analytik","Logik des Scheins","(Kant)",null,null,"see",1818,"Logik des Scheins","analytik"],
  ["Analytik","Transzendental","V",null,null,"see",3219,"Transzendental","analytik"],
  ["Analytik","Dialektik","III","2","180ff.","ref",583,"Dialektik","analytik"],
  [
-  "Analytik","Invention; Erfindung III (log.)","","4","553","ref",1490,
+  "Analytik","Invention; Erfindung","III (log.)","4","553","ref",1490,
   "Invention, Erfindung, Entdeckung","analytik"
  ],
  ["Analytik","Kritik","I 3","4","1256ff.","ref",1694,"Kritik","analytik"],
@@ -212,7 +228,7 @@ HWPH.put("r/61-6e",
   "analytik des daseins"
  ],
  [
-  "Analytik des Daseins","Erschlossenheit (Heidegger)","",null,null,"see",815,
+  "Analytik des Daseins","Erschlossenheit","(Heidegger)",null,null,"see",815,
   "Erschlossenheit, Erschließen","analytik des daseins"
  ],
  [
@@ -247,17 +263,59 @@ HWPH.put("r/61-6e",
   "Analytik des Daseins","Jemeinigkeit","(Heidegger)",null,null,"see",1507,"Jemeinigkeit",
   "analytik des daseins"
  ],
- ["Analytik des Daseins","Man","",null,null,"see",1853,"Man","analytik des daseins"],
+ ["Analytik des Daseins","Man, das","(Heidegger)",null,null,"see",1853,"Man","analytik des daseins"],
+ [
+  "Analytik des Daseins","Mitsein","(Heidegger)",null,null,"see",1983,"Mitsein",
+  "analytik des daseins"
+ ],
+ [
+  "Analytik des Daseins","Mitwelt","(Heidegger)",null,null,"see",1988,"Mitwelt",
+  "analytik des daseins"
+ ],
+ [
+  "Analytik des Daseins","Sein zum Tode","(Heidegger)",null,null,"see",2810,"Sein zum Tode",
+  "analytik des daseins"
+ ],
+ [
+  "Analytik des Daseins","Verfallen","(Heidegger)",null,null,"see",3397,"Verfallen",
+  "analytik des daseins"
+ ],
+ [
+  "Analytik des Daseins","Verweisung","(Heidegger)",null,null,"see",3452,
+  "Verweisung; Verweisungszusammenhang","analytik des daseins"
+ ],
+ [
+  "Analytik des Daseins","Vorgriff; Vorhabe; Vorsicht","(Heidegger)",null,null,"see",3493,
+  "Vorgriff; Vorhabe; Vorsicht","analytik des daseins"
+ ],
+ ["Analytik des Daseins","Zeug","(Heidegger)",null,null,"see",3691,"Zeug","analytik des daseins"],
+ [
+  "Analytik des Daseins","Zuhandenheit/Vorhandenheit","(Heidegger)",null,null,"see",3707,
+  "Zuhandenheit/Vorhandenheit","analytik des daseins"
+ ],
  [
   "Analytisch/synthetisch","Analytisch/synthetisch","","1","251–261","main",130,
   "Analytisch/synthetisch","analytisch/synthetisch"
  ],
- ["analytisch/synthetisch","Antithetik","","1","418","ref",191,"Antithetik","analytisch/synthetisch"],
  [
-  "analytisch/synthetisch","Progressiv/regressiv","","7","1450","ref",2473,"Progressiv/regressiv",
+  "Analytisch/synthetisch","Erweiterungsurteil","(Kant)",null,null,"see",821,"Erweiterungsurteil",
   "analytisch/synthetisch"
  ],
- ["analytisch/synthetisch","Theorie","II","10","1148","ref",3179,"Theorie","analytisch/synthetisch"],
+ [
+  "Analytisch/synthetisch","Methode, analytische/synthetische","",null,null,"see",1956,
+  "Methode, analytische/synthetische","analytisch/synthetisch"
+ ],
+ [
+  "Analytisch/synthetisch","Subjekt/Prädikat","",null,null,"see",3050,"Subjekt/Prädikat",
+  "analytisch/synthetisch"
+ ],
+ [
+  "Analytisch/synthetisch","Synthesis","",null,null,"see",3114,"Synthesis; synthetisch",
+  "analytisch/synthetisch"
+ ],
+ ["Antithetik","Antithetik","","1","418","main",191,"Antithetik","antithetik"],
+ ["Antithetik","Progressiv/regressiv","","7","1450","ref",2473,"Progressiv/regressiv","antithetik"],
+ ["Antithetik","Theorie","II","10","1148","ref",3179,"Theorie","antithetik"],
  [
   "analytische Philosophie","Philosophie, analytische","",null,null,"ref",2354,
   "Philosophie, analytische","analytische philosophie"
@@ -300,7 +358,7 @@ HWPH.put("r/61-6e",
  ["Ananke","Notwendigkeit","",null,null,"see",2171,"Notwendigkeit","ananke"],
  ["Ananke","Schicksal","",null,null,"see",2764,"Schicksal","ananke"],
  ["Anarchie","Anarchie","","1","267–294","main",134,"Anarchie, Anarchismus","anarchie"],
- ["Anarchie","Despotie I (allg.)","",null,null,"see",571,"Despotie, Despotismus","anarchie"],
+ ["Anarchie","Despotie","I (allg.)",null,null,"see",571,"Despotie, Despotismus","anarchie"],
  ["Anarchie","Tyrannis","",null,null,"see",3245,"Tyrannis","anarchie"],
  ["Anarchie","Kommunismus","","4","901f.","ref",1595,"Kommunismus","anarchie"],
  ["Anarchie","Ordnung","III","6","1296","ref",2233,"Ordnung","anarchie"],
@@ -339,11 +397,16 @@ HWPH.put("r/61-6e",
  ["Andacht","Andacht","","1","295f.","main",136,"Andacht","andacht"],
  ["Andacht","Ahnung","","1","116","ref",68,"Ahnung","andacht"],
  ["Andacht","Religion","VI","8","663","ref",2673,"Religion","andacht"],
+ ["Andenken","Mneme; Mnemosyne","II 1",null,null,"ref",1989,"Mneme, Mnemosyne","andenken"],
+ ["Andere, das","Ganz Andere, das","(Otto)",null,null,"ref",985,"Ganz Andere","andere, das"],
+ ["Andere, das","Andersheit","","1","299f.","ref",138,"Andersheit, Anderssein","andere, das"],
  [
-  "Andenken","Mneme; Mnemosyne II 1 Andere, das","",null,null,"ref",1989,"Mneme, Mnemosyne",
-  "andenken"
+  "Andere, das","Vernunft; Verstand","VII E","11","853f.","ref",3423,"Vernunft; Verstand",
+  "andere, das"
  ],
- ["Andere","Andere","",null,null,"main",137,"Andere","andere"],
+ ["Andere, der","Andere, der","","1","296f.","main",137,"Andere","andere, der"],
+ ["Andere, der","Du","",null,null,"see",639,"Du","andere, der"],
+ ["Andere, der","Fremdich","",null,null,"see",950,"Fremdich","andere, der"],
  ["Andere, der","Phänomenologie","II (Husserl)","7","493","ref",2343,"Phänomenologie","andere, der"],
  ["Andere, der","Verantwortung","I","11","568","ref",3380,"Verantwortung","andere, der"],
  [
@@ -391,7 +454,7 @@ HWPH.put("r/61-6e",
   "Aneignung","Desappropriatio","","2","116","ref",565,"Desappropriatio, expropriatio (sui)",
   "aneignung"
  ],
- ["Aneignung","Erkenntnis I (erk.)","","2","658","ref",796,"Erkennen, Erkenntnis","aneignung"],
+ ["Aneignung","Erkenntnis","I (erk.)","2","658","ref",796,"Erkennen, Erkenntnis","aneignung"],
  [
   "Aneignung","Rezeption; Rezeptionsästhetik","","8","1000f.","ref",2710,
   "Rezeption, Rezeptionsästhetik","aneignung"
@@ -403,6 +466,14 @@ HWPH.put("r/61-6e",
  ["Anerkennung","Wir","",null,null,"ref",3625,"Wir","anerkennung"],
  ["Anerkennung","Gegenseitigkeit","","3","123","ref",1019,"Gegenseitigkeit","anerkennung"],
  ["Anerkennung","Naturrecht","IV","6","598","ref",2089,"Naturrecht","anerkennung"],
+ ["Anerkennung","Person","III 7","7","311","ref",2318,"Person","anerkennung"],
+ ["Anerkennung","Rechtspflicht","","8","313f.","ref",2613,"Rechtspflicht","anerkennung"],
+ ["Anerkennung","Selbstachtung","","9","316f.","ref",2821,"Selbstachtung","anerkennung"],
+ ["Anerkennung","Toleranz","","10","1258","ref",3201,"Toleranz","anerkennung"],
+ ["Anerkennung","Verachtung","","11","565","ref",3379,"Verachtung; Mißachtung","anerkennung"],
+ ["Anerkennung","Vertrauen","","11","987","ref",3447,"Vertrauen","anerkennung"],
+ ["Anerkennung","Vielheit","II","11","1051","ref",3462,"Vielheit","anerkennung"],
+ ["Anerkennung","Wohlwollen","","12","1011","ref",3653,"Wohlwollen","anerkennung"],
  [
   "Anerkennung, wechselseitige","Herrschaft und Knechtschaft","","3","1092f.","ref",1262,
   "Herrschaft und Knechtschaft","anerkennung, wechselseitige"
@@ -427,7 +498,13 @@ HWPH.put("r/61-6e",
   "Anfall, hysterischer","Hysterie","","3","1269","ref",1332,"Hysterie, hysterisch",
   "anfall, hysterischer"
  ],
- ["Anfang","Prinzip","",null,null,"ref",2458,"Prinzip","anfang"],
+ ["Anfang","Prinzip","I-II",null,null,"ref",2458,"Prinzip","anfang"],
+ ["Anfang","Ursprung","",null,null,"ref",3352,"Ursprung","anfang"],
+ ["Anfang","Voraussetzungslosigkeit","",null,null,"ref",3488,"Voraussetzungslosigkeit","anfang"],
+ ["Anfang","Dialektik","IV 1. 4","2","190","ref",583,"Dialektik","anfang"],
+ ["Anfang","Lauterkeit","","5","49","ref",1733,"Lauterkeit","anfang"],
+ ["Anfang","Seinsgeschichte","(Heidegger)","9","259","ref",2812,"Seinsgeschichte","anfang"],
+ ["Anfang","Unmittelbarkeit","","11","238","ref",3314,"Unmittelbarkeit","anfang"],
  ["Anfang, unbedingter","Methode","V 2","5","1324","ref",1955,"Methode","anfang, unbedingter"],
  [
   "Anfang der Philosophie","Fundamentalphilosophie","","2","1134","ref",968,"Fundamentalphilosophie",
@@ -467,7 +544,7 @@ HWPH.put("r/61-6e",
   "angeborenes schema"
  ],
  [
-  "Angebot/Nachfrage","Lohn III (ökon.)","",null,null,"ref",1828,"Lohn, Verdienst",
+  "Angebot/Nachfrage","Lohn","III (ökon.)",null,null,"ref",1828,"Lohn, Verdienst",
   "angebot/nachfrage"
  ],
  ["Angebot/Nachfrage","Markt","",null,null,"ref",1870,"Markt","angebot/nachfrage"],
@@ -478,17 +555,19 @@ HWPH.put("r/61-6e",
  ],
  ["Angelologie","Engellehre","",null,null,"ref",741,"Engellehre","angelologie"],
  ["angelus oculi","Sehen","II","9","145","ref",2802,"Sehen","angelus oculi"],
- ["Angemessenheit","Geziemende","",null,null,"ref",1136,"Geziemende","angemessenheit"],
+ ["Angemessenheit","Geziemende, das","",null,null,"ref",1136,"Geziemende","angemessenheit"],
+ ["Angemessenheit","Symmetrie","I (ästh.)","10","746","ref",3097,"Symmetrie","angemessenheit"],
  ["Angenehm","Angenehm","","1","303–307","main",142,"Angenehm","angenehm"],
  ["Angenehm","Hedonismus","",null,null,"see",1234,"Hedonismus","angenehm"],
- ["Angenehm","Lust; Freude Angenehme, das","",null,null,"see",1837,"Lust, Freude","angenehm"],
+ ["Angenehm","Lust; Freude","",null,null,"see",1837,"Lust, Freude","angenehm"],
+ ["Angenehme, das","Genuss","","3","317","ref",1076,"Genuß","angenehme, das"],
  ["Angepasstheit","Anpassung","I (biol./psych.)",null,null,"ref",159,"Anpassung","angepasstheit"],
  [
   "angeraten/abgeraten","Supererogation","","10","632","ref",3079,"Supererogation",
   "angeraten/abgeraten"
  ],
  [
-  "Angesicht der Gottheit","Potenzen II 1 (theol.)","","7","1170","ref",2423,"Potenz, Potenzen",
+  "Angesicht der Gottheit","Potenzen","II 1 (theol.)","7","1170","ref",2423,"Potenz, Potenzen",
   "angesicht der gottheit"
  ],
  [
@@ -512,8 +591,16 @@ HWPH.put("r/61-6e",
   "angleichung an gott"
  ],
  [
-  "Angleichung an Gott","Gottwerdung; Vergöttlichung 2 Angleichung an Gott","",null,null,"see",1175,
+  "Angleichung an Gott","Gottwerdung; Vergöttlichung","2",null,null,"see",1175,
   "Gottwerdung, Vergottung, Vergöttlichung","angleichung an gott"
+ ],
+ [
+  "Angleichung an Gott","Weltverachtung; Weltflucht","","12","522","ref",3579,
+  "Weltverachtung; Weltflucht","angleichung an gott"
+ ],
+ [
+  "Angleichung an Gott","Zueignung (Oikeiosis)","","12","1405","ref",3705,"Zueignung (Oikeiosis)",
+  "angleichung an gott"
  ],
  ["Angriff","Logik, dialogische","",null,null,"ref",1806,"Logik, dialogische","angriff"],
  ["Angriff","Epichirem","","2","577","ref",769,"Epichirem","angriff"],
@@ -532,7 +619,7 @@ HWPH.put("r/61-6e",
  ["Angst","Kontraktion Gottes","","4","1064","ref",1644,"Kontraktion Gottes","angst"],
  ["Angst","Nichts; Nichtseiendes","","6","834","ref",2136,"Nichts, Nichtseiendes","angst"],
  ["Angst","Risiko","","8","1047","ref",2718,"Risiko","angst"],
- ["Angst","Scham C","2","8","1213","ref",2751,"Scham, Scheu","angst"],
+ ["Angst","Scham","C 2","8","1213","ref",2751,"Scham, Scheu","angst"],
  ["Angst","Schuld","III","8","1459","ref",2784,"Schuld","angst"],
  ["Angst","Vernichtung","","11","746","ref",3422,"Vernichtung; Vernichten","angst"],
  ["Angst vor dem Guten","Langeweile","","5","30","ref",1727,"Langeweile","angst vor dem guten"],
@@ -543,7 +630,8 @@ HWPH.put("r/61-6e",
  ["Angstaffekt","Angst; Furcht","","1","312","ref",144,"Angst, Furcht","angstaffekt"],
  ["Angstneurose","Hysterie","","3","1267","ref",1332,"Hysterie, hysterisch","angstneurose"],
  ["Angstneurose","Neurose","II","6","765f.","ref",2124,"Neurose","angstneurose"],
- ["angustia","Angst; Furcht Anhäufung, zufällige","",null,null,"ref",144,"Angst, Furcht","angustia"],
+ ["angustia","Angst; Furcht","",null,null,"ref",144,"Angst, Furcht","angustia"],
+ ["Anhäufung, zufällige","Aggregat","","1","102","ref",59,"Aggregat","anhaufung, zufallige"],
  ["anhedonia","Überdruss","","11","9","ref",3249,"Überdruß","anhedonia"],
  [
   "Anhedonie, psychische","Apathie","II (psych.)","1","433","ref",198,"Apathie",
@@ -552,14 +640,11 @@ HWPH.put("r/61-6e",
  ["anima","Seele","",null,null,"ref",2794,"Seele","anima"],
  ["anima","Seelensitz","",null,null,"ref",2798,"Seelensitz","anima"],
  ["anima","Geist","V","3","174","ref",1030,"Geist","anima"],
+ ["Anima/Animus","Anima/Animus","(Jung)","1","314f.","main",145,"Anima, Animus","anima/animus"],
+ ["Anima/Animus","Persona","(Jung)",null,null,"see",2319,"Persona","anima/animus"],
  [
-  "Anima/Animus (Jung)","Anima/Animus (Jung)","","1","314f.","main",145,"Anima, Animus",
-  "anima/animus (jung)"
- ],
- ["Anima/Animus (Jung)","Persona","(Jung)",null,null,"see",2319,"Persona","anima/animus (jung)"],
- [
-  "Anima/Animus (Jung)","Psychologie, komplexe","(Jung)",null,null,"see",2516,
-  "Psychologie, komplexe","anima/animus (jung)"
+  "Anima/Animus","Psychologie, komplexe","(Jung)",null,null,"see",2516,"Psychologie, komplexe",
+  "anima/animus"
  ],
  ["Anima/Animus (Jung)","Archetypus","","1","499","ref",239,"Archetypus","anima/animus (jung)"],
  ["Anima/Animus (Jung)","Liebe","IV","5","323","ref",1795,"Liebe","anima/animus (jung)"],
@@ -577,7 +662,8 @@ HWPH.put("r/61-6e",
  ["anima mundi","Weltgeist","",null,null,"ref",3566,"Weltgeist","anima mundi"],
  ["anima mundi","Weltseele","",null,null,"ref",3578,"Weltseele","anima mundi"],
  ["anima plantarum","Pflanzenseele","II","7","403","ref",2333,"Pflanzenseele","anima plantarum"],
- ["anima pulchra","Seele","",null,null,"ref",2794,"Seele","anima pulchra"],
+ ["anima pulchra","Seele, schöne","",null,null,"ref",2794,"Seele","anima pulchra"],
+ ["anima rationabilis","Seele","II","9","14ff.","ref",2794,"Seele","anima rationabilis"],
  [
   "anima rationalis","Leib-Seele-Verhältnis","II","5","190","ref",1770,"Leib-Seele-Verhältnis",
   "anima rationalis"
@@ -623,7 +709,8 @@ HWPH.put("r/61-6e",
  ["anima vegetativa","Pflanzenseele","",null,null,"ref",2333,"Pflanzenseele","anima vegetativa"],
  ["anima vegetativa","Tier","II","10","1206","ref",3192,"Tier; Tierseele","anima vegetativa"],
  ["anima vegetativa","Vegetativ","","11","561f.","ref",3378,"Vegetativ","anima vegetativa"],
- ["animal","Tier animal civile","",null,null,"ref",null,null,"animal"],
+ ["animal","Tier","",null,null,"ref",3192,"Tier; Tierseele","animal"],
+ ["animal civile","Politik","II","7","1048","ref",2396,"Politik","animal civile"],
  ["animal perfectum","Welt","II","12","413","ref",3557,"Welt","animal perfectum"],
  [
   "animal politicum","Politische, das","","7","1073","ref",2397,"Politisch, das Politische",
@@ -645,9 +732,9 @@ HWPH.put("r/61-6e",
   "animal rationabile/rationale","Mensch","IV 2","5","1076","ref",1917,"Mensch",
   "animal rationabile/rationale"
  ],
- ["animal rationale","Mensch","III",null,null,"ref",1917,"Mensch","animal rationale"],
+ ["animal rationale","Mensch","III 1",null,null,"ref",1917,"Mensch","animal rationale"],
  [
-  "animal rationale","Rationalität I (erk.)","","8","53","ref",2576,"Rationalität, Rationalisierung",
+  "animal rationale","Rationalität","I (erk.)","8","53","ref",2576,"Rationalität, Rationalisierung",
   "animal rationale"
  ],
  ["animal rights","Tierrecht","",null,null,"ref",3193,"Tierrecht","animal rights"],
@@ -669,8 +756,11 @@ HWPH.put("r/61-6e",
   "animal symbolicum"
  ],
  ["animal symbolicum","Werk","","12","550","ref",3586,"Werk","animal symbolicum"],
- ["Animalgeister","Influxus physicus animalis","",null,null,"ref",null,null,"animalgeister"],
- ["Animalisch","Animalisch","",null,null,"main",146,"Animalisch","animalisch"],
+ [
+  "Animalgeister","Influxus physicus","",null,null,"ref",1431,"Influxus physicus, Influxionismus",
+  "animalgeister"
+ ],
+ ["animalis","Animalisch","",null,null,"ref",146,"Animalisch","animalis"],
  ["Animalisch","Animalisch","","1","315","main",146,"Animalisch","animalisch"],
  ["Animalisch","Vegetativ","",null,null,"see",3378,"Vegetativ","animalisch"],
  ["Animalismus","Animalismus","(Sombart)","1","315","main",147,"Animalismus","animalismus"],
@@ -688,7 +778,12 @@ HWPH.put("r/61-6e",
  ["Animismus","Seelenwanderung","",null,null,"see",2801,"Seelenwanderung","animismus"],
  ["Animismus","Leben","VI (biol.)","5","100","ref",1735,"Leben","animismus"],
  ["Animismus","Spiritismus","","9","1402","ref",2978,"Spiritismus","animismus"],
- ["Animus","Anima/Animus (Jung) animus","",null,null,"ref",145,"Anima, Animus","animus"],
+ ["Animus","Anima/Animus","(Jung)",null,null,"ref",145,"Anima, Animus","animus"],
+ ["animus","Geist","IV",null,null,"ref",1030,"Geist","animus"],
+ ["animus","Gemüt","I",null,null,"ref",1054,"Gemüt","animus"],
+ ["animus","Seele","I","9","6f.","ref",2794,"Seele","animus"],
+ ["animus","Seelensitz","","9","106","ref",2798,"Seelensitz","animus"],
+ ["animus","Verdichtung","I (nat.)","11","606","ref",3390,"Verdichtung","animus"],
  ["Anisotropie","Thermodynamik","","10","1173","ref",3185,"Thermodynamik","anisotropie"],
  [
   "Anisotropie/Isotropie","Anisotropie/Isotropie","","1","319f.","main",149,"Anisotropie/Isotropie",
@@ -709,6 +804,12 @@ HWPH.put("r/61-6e",
  ["Ankunft Gottes","Parusie","",null,null,"ref",2286,"Parusie","ankunft gottes"],
  ["Anlage","Anlage","","1","322–325","main",151,"Anlage","anlage"],
  ["Anlage","Disposition","",null,null,"see",613,"Disposition","anlage"],
+ [
+  "Anlage","Erziehung des Menschengeschlechts","",null,null,"see",823,
+  "Erziehung des Menschengeschlechts","anlage"
+ ],
+ ["Anlage","Angeboren/erworben","",null,null,"see",141,"Angeboren/erworben, erlernt","anlage"],
+ ["Anlage","Entwicklung","II (psych.)",null,null,"see",759,"Entwicklung","anlage"],
  ["Anlage","Lasterkatalog","","5","38","ref",1730,"Lasterkatalog","anlage"],
  ["Anlage","Natur","I","6","427","ref",2074,"Natur","anlage"],
  ["Anlage, eidetische","Eidetik","","2","329","ref",659,"Eidetik","anlage, eidetische"],
@@ -729,20 +830,27 @@ HWPH.put("r/61-6e",
  ["Anmassung","Grossmut","","3","897","ref",1189,"Großmut","anmassung"],
  ["Anmassung","Selbstliebe","I","9","472","ref",2840,"Selbstliebe","anmassung"],
  ["Anmassung","Verzweiflung","","11","1029","ref",3459,"Verzweiflung","anmassung"],
- ["Anmut","Grazie; Anmut II","",null,null,"ref",1182,"Grazie, Anmut","anmut"],
+ ["Anmut","Grazie; Anmut","II",null,null,"ref",1182,"Grazie, Anmut","anmut"],
  ["Anmut","Achtung","","1","75","ref",41,"Achtung","anmut"],
  ["Anmut","Obszön","","6","1086f.","ref",2196,"Obszön","anmut"],
  ["Anmut","Pathos","","7","197","ref",2294,"Pathos","anmut"],
- ["Anmut","Schöne","",null,null,"ref",2776,"Schöne","anmut"],
+ ["Anmut","Schöne, das","IV A","8","1364f.","ref",2776,"Schöne","anmut"],
+ ["Anmut","Seele","IV","9","46","ref",2794,"Seele","anmut"],
  ["Anmutung","Anmutung","","1","327–329","main",153,"Anmutung","anmutung"],
  ["Anmutung","Ganzqualitäten","",null,null,"see",990,"Ganzqualitäten","anmutung"],
  ["Anmutung","Gestaltqualität","",null,null,"see",1120,"Gestaltqualität","anmutung"],
- ["Anmutung","Komplex","",null,null,"see",1600,"Komplex","anmutung"],
+ ["Anmutung","Komplex, der","",null,null,"see",1601,"Komplex (der)","anmutung"],
+ ["Anmutung","Stimmung","",null,null,"see",3027,"Stimmung","anmutung"],
  ["Anmutung","Vermutung","II","11","739","ref",3421,"Vermutung","anmutung"],
  ["Anmutungsqualität","Anmutung","",null,null,"ref",153,"Anmutung","anmutungsqualitat"],
+ ["Annäherung","Progress, unendlicher","",null,null,"ref",2472,"Progreß, unendlicher","annaherung"],
  [
-  "Annäherung","Progress, unendlicher Annäherung an die Wahrheit","",null,null,"ref",2472,
-  "Progreß, unendlicher","annaherung"
+  "Annäherung an die Wahrheit","Wahrheit","V C","12","99f.","ref",3523,"Wahrheit",
+  "annaherung an die wahrheit"
+ ],
+ [
+  "Annäherung an die Wahrheit","Wahrheitsähnlichkeit","","12","173","ref",3534,
+  "Wahrheitsähnlichkeit","annaherung an die wahrheit"
  ],
  ["Annahme","Annahme","","1","329–333","main",154,"Annahme, Annehmen","annahme"],
  ["Annahme","Beifall","",null,null,"see",378,"Beifall","annahme"],
@@ -757,7 +865,7 @@ HWPH.put("r/61-6e",
   "Annahme, tatsachenwidrige","annahme, tatsachenwidrige"
  ],
  [
-  "Annahme, tatsachenwidrige","Hypothese II","",null,null,"see",1330,"Hypothese, Hypothesis",
+  "Annahme, tatsachenwidrige","Hypothese","II",null,null,"see",1330,"Hypothese, Hypothesis",
   "annahme, tatsachenwidrige"
  ],
  [
@@ -799,9 +907,18 @@ HWPH.put("r/61-6e",
   "Organisch/aorgisch","anorgisch; anorganisch"
  ],
  ["Anpassung","Anpassung","","1","336–340","main",159,"Anpassung","anpassung"],
- ["Anpassung","Psychologie","","7","1625","ref",2511,"Psychologie","anpassung"],
- ["Anpassung","Realitätsprinzip","","8","211","ref",2594,"Realitätsprinzip","anpassung"],
- ["Anpassung","Selektion","","9","567","ref",2856,"Selektion","anpassung"],
+ [
+  "Anpassung","Assimilation/Dissimilation","II (psych.)",null,null,"see",262,
+  "Assimilation/Dissimilation","anpassung"
+ ],
+ ["Anpassung","Funktion","III (psych.)",null,null,"see",974,"Funktion","anpassung"],
+ ["Anpassung","Homöostase","",null,null,"see",1308,"Homöostase","anpassung"],
+ ["Anpassung","Akkulturation","",null,null,"see",74,"Akkulturation","anpassung"],
+ [
+  "Anpassung","Assimilation/Dissimilation","III (kult.)",null,null,"see",262,
+  "Assimilation/Dissimilation","anpassung"
+ ],
+ ["Anpassung","Konformismus/Nonkonformismus","",null,null,"see",null,null,"anpassung"],
  ["Anpassung (soz.)","Autonomie","","1","718","ref",327,"Autonomie","anpassung (soz.)"],
  ["Anpassung (theol.)","Akkommodation","",null,null,"ref",73,"Akkommodation","anpassung (theol.)"],
  [
@@ -869,7 +986,7 @@ HWPH.put("r/61-6e",
   "anschauung, erfullende"
  ],
  [
-  "Anschauung, formale","Schema; Schematismus I (allg.)","","8","1250","ref",2760,
+  "Anschauung, formale","Schema; Schematismus","I (allg.)","8","1250","ref",2760,
   "Schema, Schematismus","anschauung, formale"
  ],
  [
@@ -886,7 +1003,7 @@ HWPH.put("r/61-6e",
  ],
  ["Anschauung, intellektuelle","Denken","I","2","89","ref",552,"Denken","anschauung, intellektuelle"],
  [
-  "Anschauung, intellektuelle","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Anschauung, intellektuelle","Dialektik","IV 1. 3","2","188","ref",583,"Dialektik",
   "anschauung, intellektuelle"
  ],
  [
@@ -938,7 +1055,14 @@ HWPH.put("r/61-6e",
   "Anschauung, reine","Konstruktion","III","4","1014f.","ref",1631,"Konstruktion",
   "anschauung, reine"
  ],
- ["Anschauung, reine","Subjekt","",null,null,"ref",3047,"Subjekt","anschauung, reine"],
+ [
+  "Anschauung, reine","Subjekt/Objekt","III","10","411","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","anschauung, reine"
+ ],
+ [
+  "Anschauung an sich","Vorstellung an sich","(Bolzano)",null,null,"ref",3504,"Vorstellung an sich",
+  "anschauung an sich"
+ ],
  [
   "Anschauung des Universums","Religion","VII","8","677","ref",2673,"Religion",
   "anschauung des universums"
@@ -974,7 +1098,8 @@ HWPH.put("r/61-6e",
   "An-sich-seiendes","Substanz","I","10","497","ref",3062,"Substanz; Substanz/Akzidens",
   "an-sich-seiendes"
  ],
- ["An-sich-sein","Prinzip","III",null,null,"ref",2458,"Prinzip","an-sich-sein"],
+ ["An-sich-sein","Prinzip","III 6 a","7","1370","ref",2458,"Prinzip","an-sich-sein"],
+ ["An-sich-sein","Sein; Seiendes","V 6","9","220","ref",2806,"Sein; Seiendes","an-sich-sein"],
  [
   "An-sich-sein, objektives","Lebenswelt","I","5","153f.","ref",1757,"Lebenswelt",
   "an-sich-sein, objektives"
@@ -1028,7 +1153,7 @@ HWPH.put("r/61-6e",
  ["Anteprädikamente","Transzendental","I",null,null,"see",3219,"Transzendental","antepradikamente"],
  ["Anteprädikamente","Universalien","",null,null,"see",3302,"Universalien","antepradikamente"],
  [
-  "antéprédicatif","Ambiguität II (Merleau-Ponty)","","1","203","ref",113,"Ambiguität (Amphibolie)",
+  "antéprédicatif","Ambiguität","II (Merleau-Ponty)","1","203","ref",113,"Ambiguität (Amphibolie)",
   "antepredicatif"
  ],
  [
@@ -1051,10 +1176,7 @@ HWPH.put("r/61-6e",
   "anthropologia physica/moralis","Anthropologie","","1","364","ref",175,"Anthropologie",
   "anthropologia physica/moralis"
  ],
- [
-  "Anthropologie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,
-  "anthropologie s. auch"
- ],
+ ["Anthropologie","Register der Sachgruppen","",null,null,"see",null,null,"anthropologie"],
  ["Anthropologie","Anthropologie","","1","362–374","main",175,"Anthropologie","anthropologie"],
  [
   "Anthropologie","Kulturanthropologie","",null,null,"see",1702,"Kulturanthropologie",
@@ -1074,8 +1196,12 @@ HWPH.put("r/61-6e",
   "Anthropologie, medizinische","anthropologie, medizinische"
  ],
  [
-  "Anthropologie, medizinische","Medizin IV Anthropologie, metaphysische","",null,null,"see",null,
-  null,"anthropologie, medizinische"
+  "Anthropologie, medizinische","Medizin","IV",null,null,"see",1906,
+  "Medizin, Heilkunst, Medizinphilosophie","anthropologie, medizinische"
+ ],
+ [
+  "Anthropologie, metaphysische","Religionsphilosophie","","8","757","ref",2679,
+  "Religionsphilosophie","anthropologie, metaphysische"
  ],
  [
   "Anthropologie, pädagogische","Pädagogik","","7","32","ref",2256,"Pädagogik",
@@ -1142,15 +1268,18 @@ HWPH.put("r/61-6e",
   "anthropomorphismus"
  ],
  [
-  "Anthropomorphismus","Pathisch; Pathik II Anthropomorphismus","",null,null,"see",2290,
-  "Pathisch, Pathik","anthropomorphismus"
+  "Anthropomorphismus","Pathisch; Pathik","II",null,null,"see",2290,"Pathisch, Pathik",
+  "anthropomorphismus"
  ],
- ["Anthropologie","Anthropologie","","1","363","main",175,"Anthropologie","anthropologie"],
- ["Anthropologie","Hominismus","(Mauthner)","3","1171","ref",1292,"Hominismus","anthropologie"],
- ["Anthropologie","Inkarnation","III","4","376","ref",1440,"Inkarnation","anthropologie"],
+ ["Anthropomorphismus","Anthropologie","","1","363","ref",175,"Anthropologie","anthropomorphismus"],
  [
-  "Anthropologie","Personifikation","","7","342","ref",2321,"Personifikation, Personifizierung",
-  "anthropologie"
+  "Anthropomorphismus","Hominismus","(Mauthner)","3","1171","ref",1292,"Hominismus",
+  "anthropomorphismus"
+ ],
+ ["Anthropomorphismus","Inkarnation","III","4","376","ref",1440,"Inkarnation","anthropomorphismus"],
+ [
+  "Anthropomorphismus","Personifikation","","7","342","ref",2321,"Personifikation, Personifizierung",
+  "anthropomorphismus"
  ],
  [
   "Anthropomorphismus, symbolischer","Analogie","I (allg.)","1","226","ref",123,"Analogie",
@@ -1159,9 +1288,10 @@ HWPH.put("r/61-6e",
  ["Anthropomorphose","Religion","VII","8","673","ref",2673,"Religion","anthropomorphose"],
  ["Anthroponomie","Anthropologie","","1","366","ref",175,"Anthropologie","anthroponomie"],
  [
-  "anthropopathisch","Pathisch; Pathik II Anthropopathologie","",null,null,"ref",2290,
-  "Pathisch, Pathik","anthropopathisch"
+  "anthropopathisch","Pathisch; Pathik","II",null,null,"ref",2290,"Pathisch, Pathik",
+  "anthropopathisch"
  ],
+ ["Anthropopathologie","Pathologie","III","7","185","ref",2292,"Pathologie","anthropopathologie"],
  ["anthroposophia","Theosophie","","10","1158","ref",3182,"Theosophie","anthroposophia"],
  ["Anthroposophie","Anthroposophie","","1","378–380","main",178,"Anthroposophie","anthroposophie"],
  ["Anthropotheismus","Religionskritik","","8","741","ref",2677,"Religionskritik","anthropotheismus"],
@@ -1206,7 +1336,7 @@ HWPH.put("r/61-6e",
   "Vorgriff; Vorhabe; Vorsicht","anticipation"
  ],
  ["anticipatory image","Wille","III B","12","790f.","ref",3620,"Wille","anticipatory image"],
- ["Anti-Dialektik","Dialektik","IV",null,null,"ref",583,"Dialektik","anti-dialektik"],
+ ["Anti-Dialektik","Dialektik","IV 7. 1","2","218","ref",583,"Dialektik","anti-dialektik"],
  ["Antifiktion","Wirklichkeit","","12","845","ref",3628,"Wirklichkeit","antifiktion"],
  [
   "antihistorisch","Geschichtslosigkeit","","3","413","ref",1092,"Geschichtslosigkeit",
@@ -1225,9 +1355,16 @@ HWPH.put("r/61-6e",
   "Antike","Antiqui/moderni (Querelle des Anciens et des Modernes)","",null,null,"see",189,
   "Antiqui/moderni (Querelle des Anciens et des Modernes)","antike"
  ],
- ["Antike","Klassische","",null,null,"see",1573,"Klassische","antike"],
+ ["Antike","Klassische, das","",null,null,"see",1573,"Klassische","antike"],
  ["Antilogie","Antilogie","","1","392","main",183,"Antilogie","antilogie"],
  ["Antilogie","Antithetik","",null,null,"see",191,"Antithetik","antilogie"],
+ ["Antilogie","Eristik","",null,null,"see",795,"Eristik","antilogie"],
+ ["Antilogie","Rechtfertigung","I",null,null,"see",2601,"Rechtfertigung","antilogie"],
+ ["Antilogie","Skepsis; Skeptizismus","",null,null,"see",2907,"Skepsis; Skeptizismus","antilogie"],
+ ["Antilogie","These","I",null,null,"see",3186,"These","antilogie"],
+ ["Antilogie","Kontradiktion","(Wittgenstein)",null,null,"see",1641,"Kontradiktion","antilogie"],
+ ["Antilogie","Wahrheitswert","",null,null,"see",3538,"Wahrheitswert","antilogie"],
+ ["Antilogie","Widerspruch","",null,null,"see",3607,"Widerspruch","antilogie"],
  ["Antilogik","Dialektik","II","2","168","ref",583,"Dialektik","antilogik"],
  [
   "Antilogik des Lebens","Pathosophie","(Weizsäcker)","7","203","ref",2297,"Pathosophie",
@@ -1239,6 +1376,22 @@ HWPH.put("r/61-6e",
  ["Antimoralismus","Amoralismus","",null,null,"see",116,"Amoralismus, amoralisch","antimoralismus"],
  ["Antimoralismus","Immoralismus","(Nietzsche)",null,null,"see",1394,"Immoralismus","antimoralismus"],
  ["Antinomie","Antinomie","","1","393–405","main",185,"Antinomie","antinomie"],
+ ["Antinomie","Antinomismus","III (erk.)",null,null,"see",186,"Antinomismus","antinomie"],
+ ["Antinomie","Antithetik","",null,null,"see",191,"Antithetik","antinomie"],
+ ["Antinomie","Repugnanz","",null,null,"see",2689,"Repugnanz","antinomie"],
+ ["Antinomie","Widerspruch","",null,null,"see",3607,"Widerspruch","antinomie"],
+ ["Antinomie","Imprädikativität","",null,null,"see",1403,"Imprädikativität","antinomie"],
+ ["Antinomie","Insolubilia","",null,null,"see",1450,"Insolubilia","antinomie"],
+ [
+  "Antinomie","Paradox","III (log.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
+  "antinomie"
+ ],
+ ["Antinomie","Selbstreferenz","I (log.)",null,null,"see",2845,"Selbstreferenz","antinomie"],
+ ["Antinomie","Sophisma","",null,null,"see",2925,"Sophisma; Sophismata","antinomie"],
+ [
+  "Antinomie (eth.)","Pflichtenkollision","",null,null,"ref",2336,"Pflichtenkollision",
+  "antinomie (eth.)"
+ ],
  [
   "Antinomie, Russellsche","Antinomie","II (log.)","1","399","ref",185,"Antinomie",
   "antinomie, russellsche"
@@ -1261,6 +1414,8 @@ HWPH.put("r/61-6e",
  ],
  ["Antinomismus","Antinomismus","","1","406f.","main",186,"Antinomismus","antinomismus"],
  ["Antinomismus","Gesetzlichkeit","",null,null,"see",1112,"Gesetzlichkeit","antinomismus"],
+ ["Antinomismus","Tertius usus legis","",null,null,"see",3155,"Tertius usus legis","antinomismus"],
+ ["Antinomismus","Sabbatianismus","",null,null,"see",2728,"Sabbatianismus","antinomismus"],
  ["Antipathie","Sympathie","I (nat.)",null,null,"ref",3098,"Sympathie","antipathie"],
  ["Antiperístasis","Antiperístasis","","1","407","main",187,"Antiperístasis","antiperistasis"],
  ["Antiperístasis","Bewegung","",null,null,"see",408,"Bewegung","antiperistasis"],
@@ -1298,42 +1453,12 @@ HWPH.put("r/61-6e",
   "see",1093,"Geschichtsphilosophie","antiqui/moderni (querelle des anciens et des modernes)"
  ],
  [
-  "Antiqui/moderni (Querelle des Anciens et des Modernes)","Klassische","",null,null,"see",1573,
+  "Antiqui/moderni (Querelle des Anciens et des Modernes)","Klassische, das","",null,null,"see",1573,
   "Klassische","antiqui/moderni (querelle des anciens et des modernes)"
  ],
  [
-  "Antiqui/moderni (via antiqua/via moderna)","Antiqui/moderni (via antiqua/via moderna)","","1",
-  "407–410","main",188,"Antiqui/moderni (via antiqua/via moderna)",
-  "antiqui/moderni (via antiqua/via moderna)"
- ],
- [
-  "Antiqui/moderni (via antiqua/via moderna)","Albertinismus","",null,null,"see",92,"Albertinismus",
-  "antiqui/moderni (via antiqua/via moderna)"
- ],
- [
-  "Antiqui/moderni (via antiqua/via moderna)","Logica vetus/nova","",null,null,"see",1802,
-  "Logica vetus / Logica nova, Logica antiqua / Logica modernorum",
-  "antiqui/moderni (via antiqua/via moderna)"
- ],
- [
-  "Antiqui/moderni (via antiqua/via moderna)","Nominalismus","",null,null,"see",2150,"Nominalismus",
-  "antiqui/moderni (via antiqua/via moderna)"
- ],
- [
-  "Antiqui/moderni (via antiqua/via moderna)","Realismus","I (met.)",null,null,"see",2588,
-  "Realismus","antiqui/moderni (via antiqua/via moderna)"
- ],
- [
-  "Antiqui/moderni (via antiqua/via moderna)","Terminismus","",null,null,"see",3151,"Terminismus",
-  "antiqui/moderni (via antiqua/via moderna)"
- ],
- [
-  "Antiqui/moderni (via antiqua/via moderna)","Thomismus","",null,null,"see",3188,"Thomismus",
-  "antiqui/moderni (via antiqua/via moderna)"
- ],
- [
-  "Antiqui/moderni (via antiqua/via moderna)","Universalien","",null,null,"see",3302,"Universalien",
-  "antiqui/moderni (via antiqua/via moderna)"
+  "Antiqui/moderni (Querelle des Anciens et des Modernes)","Modern; die","",null,null,"see",2001,
+  "Modern, die Moderne","antiqui/moderni (querelle des anciens et des modernes)"
  ],
  [
   "antiquitas","Neuzeit; Mittelalter; Altertum","","6","786","ref",2131,
@@ -1342,8 +1467,12 @@ HWPH.put("r/61-6e",
  ["Antirationalismus","Rationalismus","II",null,null,"ref",2574,"Rationalismus","antirationalismus"],
  ["Antisemitismus","Antisemitismus","","1","414–416","main",190,"Antisemitismus","antisemitismus"],
  [
-  "Antisemitismus, jüdischer","Selbsthass, jüdischer Antisemitismus, kultureller","",null,null,"ref",
-  2837,"Selbsthaß","antisemitismus, judischer"
+  "Antisemitismus, jüdischer","Selbsthass, jüdischer","",null,null,"ref",2838,"Selbsthaß, jüdischer",
+  "antisemitismus, judischer"
+ ],
+ [
+  "Antisemitismus, kultureller","Symbiose","II (soz.)","10","709","ref",3092,"Symbiose",
+  "antisemitismus, kultureller"
  ],
  ["Antisymbolik","Symbol","II","10","730","ref",3093,"Symbol","antisymbolik"],
  ["Antithese","Antithetik","",null,null,"ref",191,"Antithetik","antithese"],
@@ -1359,7 +1488,7 @@ HWPH.put("r/61-6e",
  ["Antithetik","These","II",null,null,"see",3186,"These","antithetik"],
  ["Antithetik","Widerlegung","",null,null,"see",3605,"Widerlegung","antithetik"],
  [
-  "antithetisches Verfahren","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "antithetisches Verfahren","Dialektik","IV 1. 2","2","187","ref",583,"Dialektik",
   "antithetisches verfahren"
  ],
  ["Antitrinitarismus","Sozinianismus","",null,null,"ref",2955,"Sozinianismus","antitrinitarismus"],
@@ -1372,6 +1501,13 @@ HWPH.put("r/61-6e",
  ],
  ["Antitypos","Typos; Typologie","I (theol.)","10","1588","ref",3244,"Typos; Typologie","antitypos"],
  ["Antizipation","Antizipation","","1","419–425","main",193,"Antizipation","antizipation"],
+ ["Antizipation","Notiones communes","",null,null,"see",2168,"Notiones communes","antizipation"],
+ ["Antizipation","Protention","(Husserl)",null,null,"see",2488,"Protention","antizipation"],
+ ["Antizipation","Vorbegriff","",null,null,"see",3490,"Vorbegriff","antizipation"],
+ [
+  "Antizipation","Vorgriff; Vorhabe; Vorsicht","(Heidegger)",null,null,"see",3493,
+  "Vorgriff; Vorhabe; Vorsicht","antizipation"
+ ],
  [
   "Antizipation, exakte","Trunkenheit/Nüchternheit","","10","1531","ref",3238,
   "Trunkenheit/Nüchternheit","antizipation, exakte"
@@ -1385,9 +1521,10 @@ HWPH.put("r/61-6e",
   "antizipations-methodologie"
  ],
  [
-  "antizipierendes Bewusstsein","Bewusstsein, antizipierendes (Bloch) Antonomasie","",null,null,
-  "ref",412,"Bewußtsein","antizipierendes bewusstsein"
+  "antizipierendes Bewusstsein","Bewusstsein, antizipierendes","(Bloch)",null,null,"ref",413,
+  "Bewußtsein, antizipierendes","antizipierendes bewusstsein"
  ],
+ ["Antonomasie","Tropen; Tropos","","10","1520","ref",3233,"Tropen; Tropos","antonomasie"],
  ["Antrieb","Antrieb","","1","425–427","main",194,"Antrieb","antrieb"],
  ["Antrieb","Aktivierung","",null,null,"see",80,"Aktivierung (Aktivation)","antrieb"],
  ["Antrieb","Bedürfnis","II",null,null,"see",355,"Bedürfnis","antrieb"],
@@ -1396,16 +1533,16 @@ HWPH.put("r/61-6e",
  ["Antrieb","Motivation","I (psych.)",null,null,"see",2034,"Motivation","antrieb"],
  ["Antrieb","Trieb","II (psych.)",null,null,"see",3229,"Trieb","antrieb"],
  [
-  "Antriebsüberschuss (Gehlen)","Antriebsüberschuss (Gehlen)","","1","427f.","main",195,
-  "Antriebsüberschuß","antriebsuberschuss (gehlen)"
+  "Antriebsüberschuss","Antriebsüberschuss","(Gehlen)","1","427f.","main",195,"Antriebsüberschuß",
+  "antriebsuberschuss"
  ],
  [
-  "Antriebsüberschuss (Gehlen)","Bedürfnisorientierung/Antriebsorientierung","(Gehlen)",null,null,
-  "see",357,"Bedürfnisorientierung/Antriebsorientierung","antriebsuberschuss (gehlen)"
+  "Antriebsüberschuss","Bedürfnisorientierung/Antriebsorientierung","(Gehlen)",null,null,"see",357,
+  "Bedürfnisorientierung/Antriebsorientierung","antriebsuberschuss"
  ],
  [
-  "Antriebsüberschuss (Gehlen)","Instinktreduktion (Gehlen) ānvīks.ikī","",null,null,"see",null,null,
-  "antriebsuberschuss (gehlen)"
+  "Antriebsüberschuss","Instinktreduktion (Gehlen) ānvīks.ikī","",null,null,"see",null,null,
+  "antriebsuberschuss"
  ],
  ["Anwendung","Applikation","",null,null,"ref",217,"Applikation","anwendung"],
  [
@@ -1422,12 +1559,19 @@ HWPH.put("r/61-6e",
  ["Anwesenheit Gottes","Ubiquität","",null,null,"ref",3269,"Ubiquität","anwesenheit gottes"],
  ["Anwesenheit Gottes","Präsenz","","7","1259f.","ref",2444,"Präsenz","anwesenheit gottes"],
  ["anxietas cordis","Trägheit","I (anthr.)","10","1329","ref",3213,"Trägheit","anxietas cordis"],
- ["anxiety","Angst; Furcht anything goes","",null,null,"ref",144,"Angst, Furcht","anxiety"],
+ ["anxiety","Angst; Furcht","",null,null,"ref",144,"Angst, Furcht","anxiety"],
+ ["anything goes","Methode","V 3","5","1329","ref",1955,"Methode","anything goes"],
+ [
+  "anything goes","Rationalität","II (ökon.)","8","60","ref",2576,"Rationalität, Rationalisierung",
+  "anything goes"
+ ],
  [
   "Anzahl/Ordnungszahl","Anzahl/Ordnungszahl","","1","428f.","main",197,"Anzahl/Ordnungszahl",
   "anzahl/ordnungszahl"
  ],
- ["Anzahl/Ordnungszahl","Zahl I Anzeichen","",null,null,"see",null,null,"anzahl/ordnungszahl"],
+ ["Anzahl/Ordnungszahl","Zahl","I",null,null,"see",3670,"Zahl; Zählen","anzahl/ordnungszahl"],
+ ["Anzeichen","Symptom","III (sem.)","10","766","ref",3099,"Symptom","anzeichen"],
+ ["Anzeichen","Zeichen","II","12","1174","ref",3673,"Zeichen","anzeichen"],
  ["Anzeige","Zeichen","II","12","1174","ref",3673,"Zeichen","anzeige"],
  ["Anzeige, formale","Zeigen","","12","1184","ref",3675,"Zeigen","anzeige, formale"],
  ["Anziehung","Kontraktion Gottes","","4","1064","ref",1644,"Kontraktion Gottes","anziehung"],
@@ -1435,101 +1579,6 @@ HWPH.put("r/61-6e",
   "Anziehung/Abstossung","Repulsion/Attraktion","",null,null,"ref",2690,"Repulsion/Attraktion",
   "anziehung/abstossung"
  ],
- ["Anthropologie","Anthropologie","","1","371","main",175,"Anthropologie","anthropologie"],
- ["Anthropologie","Gegenseitigkeit","","3","129","ref",1019,"Gegenseitigkeit","anthropologie"],
- ["Anthropologie","Tradition","","10","1323f.","ref",3212,"Tradition","anthropologie"],
- ["Anthropologie","Verdichtung","II (erk.)","11","607f.","ref",3390,"Verdichtung","anthropologie"],
- ["Anspruchsniveau","Anspruchsniveau","","1","356","main",169,"Anspruchsniveau","anspruchsniveau"],
- ["Annihilation","Annihilation","","1","334","main",156,"Annihilation","annihilation"],
- [
-  "Anerkennungstheorie","Anerkennungstheorie","","1","301","main",139,"Anerkennungstheorie",
-  "anerkennungstheorie"
- ],
- [
-  "Anerkennungstheorie","Überreden; Überzeugen","","11","53","ref",3262,"Überreden; Überzeugen",
-  "anerkennungstheorie"
- ],
- [
-  "Anerkennungstheorie","Wahrheitsähnlichkeit","","12","171","ref",3534,"Wahrheitsähnlichkeit",
-  "anerkennungstheorie"
- ],
- [
-  "Anerkennungstheorie","Wahrscheinlichkeit","IV B","12","294","ref",3540,"Wahrscheinlichkeit",
-  "anerkennungstheorie"
- ],
- ["Anerkennungstheorie","Zweifel","","12","1523","ref",3722,"Zweifel","anerkennungstheorie"],
- ["Anwesenheit","Anwesenheit","",null,null,"main",196,"Anwesenheit","anwesenheit"],
- ["Anspruch","Anspruch","II","1","356","main",168,"Anspruch","anspruch"],
- ["Anthropologie","Anthropologie","","1","366ff.","main",175,"Anthropologie","anthropologie"],
- ["Anthropologie","Eschatologie","","2","742","ref",825,"Eschatologie","anthropologie"],
- ["Anthropologie","Geschichte","VI","3","385","ref",1085,"Geschichte, Historie","anthropologie"],
- ["Anthropologie","Säkularisierung","","8","1144f.","ref",2738,"Säkularisierung","anthropologie"],
- [
-  "Anarchie Herrschaftsmensch","Anarchie Herrschaftsmensch","",null,null,"main",null,null,
-  "anarchie herrschaftsmensch"
- ],
- [
-  "Anschauung, intellektuelle","Anschauung, intellektuelle","",null,null,"main",163,
-  "Anschauung, intellektuelle","anschauung, intellektuelle"
- ],
- [
-  "Anschauung, intellektuelle","Geist","VII","3","184","ref",1030,"Geist",
-  "anschauung, intellektuelle"
- ],
- [
-  "Anschauung, intellektuelle","Versenken","II","11","888","ref",3432,"Versenken",
-  "anschauung, intellektuelle"
- ],
- [
-  "Ancilla theologiae","Ancilla theologiae","",null,null,"main",135,"Ancilla theologiae",
-  "ancilla theologiae"
- ],
- [
-  "Anthropologie, medizinische","Anthropologie, medizinische","",null,null,"main",176,
-  "Anthropologie, medizinische","anthropologie, medizinische"
- ],
- [
-  "An sich/für sich per se esse","An sich/für sich per se esse","",null,null,"main",167,
-  "An sich/für sich; an und für sich","an sich/fur sich per se esse"
- ],
- [
-  "Anisotropie/Isotropie","Anisotropie/Isotropie","","1","319","main",149,"Anisotropie/Isotropie",
-  "anisotropie/isotropie"
- ],
- ["Anisotropie/Isotropie","Relation","V","8","609","ref",2668,"Relation","anisotropie/isotropie"],
- [
-  "Anisotropie/Isotropie","Weiblich/männlich","II","12","353","ref",3552,"Weiblich/männlich",
-  "anisotropie/isotropie"
- ],
- ["Analogien","der (Kant)","","2","617","ref",787,"Erfahrung, Analogien der","analogien"],
- [
-  "Analogien","Kategorie; Kategorienlehre","IV","4","728","ref",1540,"Kategorie, Kategorienlehre",
-  "analogien"
- ],
- ["Analogien","Konstruktion","II","4","1011ff.","ref",1631,"Konstruktion","analogien"],
- ["Analogien","Logik, transzendentale","","5","467","ref",1819,"Logik, transzendentale","analogien"],
- [
-  "Analogien","Produktion I (nat.)","","7","1421f.","ref",2469,"Produktion, Produktivität",
-  "analogien"
- ],
- ["Analogien","Regel","III (log.)","8","445","ref",2640,"Regel","analogien"],
- ["Analogien","Symbol","II","10","724","ref",3093,"Symbol","analogien"],
- ["Analogien","Transzendental","VI","10","1389","ref",3219,"Transzendental","analogien"],
- ["Analogien","Zahl","III","12","1135","ref",3670,"Zahl; Zählen","analogien"],
- [
-  "Analytisch/synthetisch","Analytisch/synthetisch","",null,null,"main",130,"Analytisch/synthetisch",
-  "analytisch/synthetisch"
- ],
- [
-  "Analytisch/synthetisch","Progressiv/regressiv","","7","1450","ref",2473,"Progressiv/regressiv",
-  "analytisch/synthetisch"
- ],
- [
-  "Analyse/Synthese","Analyse/Synthese","","1","240","main",126,"Analyse/Synthese",
-  "analyse/synthese"
- ],
- ["Analyse/Synthese","Analytik","","1","249","ref",128,"Analytik","analyse/synthese"],
- ["Antagonismus","Antagonismus","",null,null,"main",171,"Antagonismus","antagonismus"],
  ["Anacker Michael","Wissen","VI","12","891–900","author",3634,"Wissen","anacker michael"],
  [
   "Anacker Michael","Wissenschaftskritik","","12","963–965","author",3642,"Wissenschaftskritik",
@@ -1553,7 +1602,7 @@ HWPH.put("r/61-6e",
  ["Anger Hans","Deutung","","2","157–159","author",576,"Deutung","anger hans"],
  ["Anger Hans","Interpretation","","4","514–517","author",1478,"Interpretation","anger hans"],
  [
-  "Anzenbacher Arno","Gegenstand","I (erk.)","3","129–133","author",1019,"Gegenseitigkeit",
+  "Anzenbacher Arno","Gegenstand","I (erk.)","3","129–133","author",1020,"Gegenstand",
   "anzenbacher arno"
  ]
 ]

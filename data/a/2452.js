@@ -22,8 +22,8 @@ HWPH.put("a/2452",
  ],
  "outlinks":[],
  "register":[
+  {"term":"Abfuhr","qualifier":"","band":"7","col":"1311"},
   {"term":"Apparat, primärer psychischer","qualifier":"","band":"7","col":"1312"},
-  {"term":"kathartische","qualifier":"","band":"7","col":"1311"},
   {"term":"Lust/Unlust","qualifier":"","band":null,"col":null},
   {"term":"Regulation, psychische","qualifier":"","band":null,"col":null},
   {"term":"System, psychisches","qualifier":"","band":"7","col":"1311"}

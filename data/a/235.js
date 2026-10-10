@@ -27,8 +27,8 @@ HWPH.put("a/235",
   {"term":"beliebig","qualifier":"(Saussure)","band":null,"col":null},
   {"term":"image acoustique","qualifier":"(Saussure)","band":"1","col":"491"},
   {"term":"Lautung/Begriff","qualifier":"(Saussure)","band":"1","col":"491"},
-  {"term":"Physis/Nomos; Physis/Thesis","qualifier":"(Saussure)","band":"1","col":"492"},
-  {"term":"– I (ling.) 9 755f. s. auch","qualifier":"(Saussure)","band":null,"col":null}
+  {"term":"willkürlich","qualifier":"(Saussure)","band":null,"col":null},
+  {"term":"φύσει/θέσει","qualifier":"(Saussure)","band":"1","col":"492"}
  ],
  "persons":[
   {"id":277,"name":"F. de Saussure","b":2,"n":1,"l":0,"editor":0,"role":"source"},

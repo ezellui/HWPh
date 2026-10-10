@@ -19,7 +19,7 @@ HWPH.put("a/841",
  "outlinks":[],
  "register":[
   {"term":"Bestimmte, das","qualifier":"","band":"2","col":"815"},
-  {"term":"Emanation","qualifier":"","band":"2","col":"815"},
+  {"term":"Eine, das","qualifier":"","band":"2","col":"815"},
   {"term":"τί","qualifier":"","band":null,"col":null}
  ],
  "persons":[

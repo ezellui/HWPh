@@ -23,8 +23,7 @@ HWPH.put("a/2480",
  "register":[
   {"term":"Eigendünkel","qualifier":"","band":"7","col":"1471"},
   {"term":"Eigenheit","qualifier":"","band":null,"col":null},
-  {"term":"Selbstliebe","qualifier":"","band":"7","col":"1471"},
-  {"term":"– II (theol.) 2 334–337 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Selbstliebe","qualifier":"","band":"7","col":"1471"}
  ],
  "persons":[
   {"id":22,"name":"M. Luther","b":1,"n":0,"l":0,"editor":0,"role":"source"},

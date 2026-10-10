@@ -23,6 +23,7 @@ HWPH.put("a/2746",
   {"term":"Erlebnis","qualifier":"(Dilthey)","band":"8","col":"1196f."},
   {"term":"Innewerden","qualifier":"(Dilthey)","band":"8","col":"1196f."},
   {"term":"Phänomenalität, Satz der","qualifier":"(Dilthey)","band":null,"col":null},
+  {"term":"Satz des Bewusstseins","qualifier":"(Dilthey)","band":null,"col":null},
   {"term":"Tatsache des Bewusstseins","qualifier":"(Dilthey)","band":null,"col":null}
  ],
  "persons":[
@@ -53,7 +54,7 @@ HWPH.put("a/2746",
   {"id":309,"lemma":"Aussage","tf":2},
   {"id":863,"lemma":"Existenz, existentia","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2593,"lemma":"Realität der Außenwelt"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Satz der Phänomenalität (Dilthey)"}],
  "reg_authors":[{"name":"Kerckhoven Guy van","n":1}]
 }

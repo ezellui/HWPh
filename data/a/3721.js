@@ -44,16 +44,16 @@ HWPH.put("a/3721",
   {"term":"ambiguitas","qualifier":"","band":null,"col":null},
   {"term":"amphibologia","qualifier":"","band":null,"col":null},
   {"term":"Ausdeutbarkeit, unendliche","qualifier":"III","band":"12","col":"1518"},
-  {"term":"des Seins (Heidegger) Ereignis","qualifier":"III","band":"12","col":"1519"},
   {"term":"doppelsinnig","qualifier":"II","band":"12","col":"1516"},
   {"term":"equivocation","qualifier":"","band":null,"col":null},
+  {"term":"Ereignis","qualifier":"III","band":"12","col":"1519"},
   {"term":"Idee, ästhetische","qualifier":"III","band":"12","col":"1518"},
   {"term":"klar","qualifier":"","band":null,"col":null},
   {"term":"Mehrdeutigkeit","qualifier":"II","band":"12","col":"1516"},
   {"term":"mehrsinnig","qualifier":"II","band":"12","col":"1516"},
   {"term":"multiplicitas","qualifier":"II","band":"12","col":"1516"},
-  {"term":"Negativität II 6 678 Unendlichkeit, erfüllte","qualifier":"III","band":"12","col":"1518"},
   {"term":"Schriftsinn, mehrfacher","qualifier":"II","band":"12","col":"1515"},
+  {"term":"Unendlichkeit, erfüllte","qualifier":"III","band":"12","col":"1518"},
   {"term":"univocatio","qualifier":"II","band":"12","col":"1516"},
   {"term":"Vieldeutigkeit","qualifier":"","band":null,"col":null},
   {"term":"Vielwertigkeit","qualifier":"II","band":"12","col":"1516"},
@@ -165,13 +165,14 @@ HWPH.put("a/3721",
   {"id":113,"lemma":"Ambiguität (Amphibolie)"},
   {"id":229,"lemma":"Äquivok"},
   {"id":1307,"lemma":"Homonym"},
-  {"id":1499,"lemma":"Irrtum"},
-  {"id":3285,"lemma":"Unbestimmtheit"}
+  {"id":1500,"lemma":"Irrtum (Schlußfehler)"},
+  {"id":3285,"lemma":"Unbestimmtheit"},
+  {"id":3370,"lemma":"Vagheit; vage"}
  ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Zweideutigkeit; Vieldeutigkeit III"},
   {"id":43,"name":"Sprachphilosophie und Semiotik","label":"Zweideutigkeit; Vieldeutigkeit"}
  ],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29},{"name":"Ullrich Wolfgang","n":1}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30},{"name":"Ullrich Wolfgang","n":1}]
 }
 );

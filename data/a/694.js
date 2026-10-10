@@ -20,8 +20,8 @@ HWPH.put("a/694",
  "register":[],
  "persons":[{"id":78,"name":"P. Lorenzen","b":1,"n":0,"l":0,"editor":0,"role":"mixed"}],
  "mentions":[],
- "see_also":[{"id":1399,"lemma":"Implikation"}],
+ "see_also":[{"id":1399,"lemma":"Implikation"},{"id":3054,"lemma":"Subjunktion; Subjunktor"}],
  "groups":[{"id":22,"name":"Logik","label":"Einzelimplikation"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

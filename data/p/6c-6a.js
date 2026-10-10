@@ -1,0 +1,9 @@
+HWPH.put("p/6c-6a",
+{"lj":[["LJ","1fz:;2zy"]],
+"ljs":[["ljṣ","2h3:;;2j"]],
+"ljubljana":[["Ljubljana","2jz:;;f2"]],
+"ljubomudrie":[["ljubomudrie","1td:;1pcy,8l"]],
+"ljubomudrov":[["ljubomudrov","1td:;;mbi"]],
+"ljudskaja":[["ljudskaja","1f8:;cqp"]],
+"ljunggren":[["LJUNGGREN","1r2:;;;29"]]}
+);

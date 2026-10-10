@@ -17,10 +17,7 @@ HWPH.put("a/419",
  "next":{"id":420,"lemma":"Bewußtseinsstörung","band":"1","col":903},
  "backlinks":[{"id":3634,"lemma":"Wissen","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"des Bewusstseins (Dilthey)","qualifier":"","band":"1","col":"902f."},
-  {"term":"des Bewusstseins (Dilthey) 10 95f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Stellung des Bewusstseins","qualifier":"(Dilthey)","band":null,"col":null}],
  "persons":[
   {"id":29,"name":"W. Dilthey","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":8347,"name":"P. Yorck","b":0,"n":3,"l":1,"editor":0,"role":"scholar"},
@@ -37,7 +34,7 @@ HWPH.put("a/419",
   {"id":2534,"lemma":"Punkt, Punktualität","tf":2},
   {"id":2781,"lemma":"Schrift","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":412,"lemma":"Bewußtsein"},{"id":3560,"lemma":"Weltanschauung"}],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Bewusstseinsstellung (Dilthey)"}],
  "reg_authors":[{"name":"Werschowetz Gerhard","n":4}]
 }

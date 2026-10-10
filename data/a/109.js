@@ -31,7 +31,7 @@ HWPH.put("a/109",
   {"id":3047,"lemma":"Subjekt","tf":3},
   {"id":3543,"lemma":"Wandel; Veränderung","tf":2}
  ],
- "see_also":[{"id":2544,"lemma":"Qualität"}],
+ "see_also":[{"id":2544,"lemma":"Qualität"},{"id":3543,"lemma":"Wandel; Veränderung"}],
  "groups":[{"id":26,"name":"Metaphysik","label":"Alteratio"}],
  "reg_authors":[{"name":"Meyer Gerbert","n":3}]
 }

@@ -17,10 +17,7 @@ HWPH.put("a/112",
  "next":{"id":113,"lemma":"Ambiguität (Amphibolie)","band":"1","col":202},
  "backlinks":[{"id":3098,"lemma":"Sympathie","n":1},{"id":3653,"lemma":"Wohlwollen","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"Selbstflucht","qualifier":"","band":"1","col":"201"},
-  {"term":"– I (eth.) 2 310–313 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Selbstflucht","qualifier":"","band":"1","col":"201"}],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":21,"name":"M. Scheler","b":1,"n":1,"l":0,"editor":0,"role":"source"},

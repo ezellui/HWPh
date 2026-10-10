@@ -1,7 +1,5 @@
 HWPH.put("r/69-72",
 [
- ["Ironie","Ironie","","4","580f.","main",1495,"Ironie","ironie"],
- ["Ironie","Parodie","","7","126","ref",2277,"Parodie","ironie"],
  ["ira","Zorn","",null,null,"ref",3702,"Zorn","ira"],
  ["ira dei","Zorn Gottes","",null,null,"ref",3703,"Zorn Gottes","ira dei"],
  ["Irenik","Irenik","","4","576f.","main",1494,"Irenik","irenik"],
@@ -23,21 +21,20 @@ HWPH.put("r/69-72",
   "irrational; irrationalismus"
  ],
  [
-  "Irrational; transintelligibel (Hartmann)","Irrational; transintelligibel (Hartmann)","","4",
-  "588f.","main",1497,"Irrational, das Irrationale, Irrationalismus",
-  "irrational; transintelligibel (hartmann)"
+  "Irrational; transintelligibel","Irrational; transintelligibel","(Hartmann)","4","588f.","main",
+  1497,"Irrational, das Irrationale, Irrationalismus","irrational; transintelligibel"
  ],
  [
-  "Irrational; transintelligibel (Hartmann)","Erkenntnismetaphysik","(Hartmann)",null,null,"see",798,
-  "Erkenntnismetaphysik","irrational; transintelligibel (hartmann)"
+  "Irrational; transintelligibel","Erkenntnismetaphysik","(Hartmann)",null,null,"see",798,
+  "Erkenntnismetaphysik","irrational; transintelligibel"
  ],
  [
-  "Irrational; transintelligibel (Hartmann)","Minimum, metaphysisches","(Hartmann)",null,null,"see",
-  1977,"Minimum, metaphysisches","irrational; transintelligibel (hartmann)"
+  "Irrational; transintelligibel","Minimum, metaphysisches","(Hartmann)",null,null,"see",1977,
+  "Minimum, metaphysisches","irrational; transintelligibel"
  ],
  [
-  "Irrational; transintelligibel (Hartmann)","Rest, metaphysischer","",null,null,"see",2696,
-  "Rest, metaphysischer","irrational; transintelligibel (hartmann)"
+  "Irrational; transintelligibel","Rest, metaphysischer","",null,null,"see",2696,
+  "Rest, metaphysischer","irrational; transintelligibel"
  ],
  ["irrational","Proportion","I","7","1485","ref",2483,"Proportion","irrational"],
  [
@@ -77,16 +74,38 @@ HWPH.put("r/69-72",
  ["Irrtum","Täuschung","",null,null,"see",3135,"Täuschung","irrtum"],
  ["Irrtum","Übereilung","",null,null,"ref",3250,"Übereilung; Voreiligkeit","irrtum"],
  ["Irrtum","Versuch und Irrtum","",null,null,"ref",3441,"Versuch und Irrtum","irrtum"],
- ["Irrtum","Irrtum","(Schlussfehler)","4","606–614","main",1499,"Irrtum","irrtum"],
- ["Irrtum","Antinomie","II (log.)",null,null,"see",185,"Antinomie","irrtum"],
- ["Irrtum","Enthymem","",null,null,"see",749,"Enthymem","irrtum"],
- ["Irrtum","Imprädikativität","",null,null,"see",1403,"Imprädikativität","irrtum"],
- ["Irrtum","Paralogismus","",null,null,"see",2273,"Paralogismus","irrtum"],
- ["Irrtum","Sophisma","",null,null,"see",2925,"Sophisma; Sophismata","irrtum"],
- ["Irrtum","Syllogismus; Syllogistik","",null,null,"see",3091,"Syllogismus; Syllogistik","irrtum"],
- ["Irrtum","Trugschluss","",null,null,"see",3237,"Trugschluß","irrtum"],
- ["Irrtum","Widerlegung","",null,null,"see",3605,"Widerlegung","irrtum"],
- ["Ironie","Ironie","","4","578","main",1495,"Ironie","ironie"],
- ["Irradiatio","Irradiatio","","4","583","main",1496,"Irradiatio","irradiatio"]
+ [
+  "Irrtum (Schlussfehler)","Irrtum (Schlussfehler)","","4","606–614","main",1500,
+  "Irrtum (Schlußfehler)","irrtum (schlussfehler)"
+ ],
+ [
+  "Irrtum (Schlussfehler)","Antinomie","II (log.)",null,null,"see",185,"Antinomie",
+  "irrtum (schlussfehler)"
+ ],
+ ["Irrtum (Schlussfehler)","Enthymem","",null,null,"see",749,"Enthymem","irrtum (schlussfehler)"],
+ [
+  "Irrtum (Schlussfehler)","Imprädikativität","",null,null,"see",1403,"Imprädikativität",
+  "irrtum (schlussfehler)"
+ ],
+ [
+  "Irrtum (Schlussfehler)","Paralogismus","",null,null,"see",2273,"Paralogismus",
+  "irrtum (schlussfehler)"
+ ],
+ [
+  "Irrtum (Schlussfehler)","Sophisma","",null,null,"see",2925,"Sophisma; Sophismata",
+  "irrtum (schlussfehler)"
+ ],
+ [
+  "Irrtum (Schlussfehler)","Syllogismus; Syllogistik","",null,null,"see",3091,
+  "Syllogismus; Syllogistik","irrtum (schlussfehler)"
+ ],
+ [
+  "Irrtum (Schlussfehler)","Trugschluss","",null,null,"see",3237,"Trugschluß",
+  "irrtum (schlussfehler)"
+ ],
+ [
+  "Irrtum (Schlussfehler)","Widerlegung","",null,null,"see",3605,"Widerlegung",
+  "irrtum (schlussfehler)"
+ ]
 ]
 );

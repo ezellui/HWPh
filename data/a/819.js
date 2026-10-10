@@ -19,8 +19,8 @@ HWPH.put("a/819",
  "outlinks":[],
  "register":[
   {"term":"belief, rational","qualifier":"","band":null,"col":null},
-  {"term":"III-IV Wahrscheinlichkeit","qualifier":"","band":null,"col":null},
   {"term":"rational belief","qualifier":"","band":null,"col":null},
+  {"term":"Wahrscheinlichkeit","qualifier":"","band":null,"col":null},
   {"term":"Zuversicht","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -30,8 +30,7 @@ HWPH.put("a/2527",
   {"term":"Nutzen","qualifier":"","band":"7","col":"1689"},
   {"term":"Reizschwelle","qualifier":"","band":null,"col":null},
   {"term":"Schwelle, absolute","qualifier":"","band":"7","col":"1688"},
-  {"term":"Unterschiede, ebenmerkliche","qualifier":"","band":"7","col":"1688"},
-  {"term":"– II (psych.) 2 464–474 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Unterschiede, ebenmerkliche","qualifier":"","band":"7","col":"1688"}
  ],
  "persons":[
   {"id":174,"name":"G. Th. Fechner","b":2,"n":2,"l":0,"editor":0,"role":"source"},

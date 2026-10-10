@@ -36,10 +36,10 @@ HWPH.put("a/3617",
   {"id":3622,"lemma":"Wille zur Macht","n":1}
  ],
  "register":[
-  {"term":"eternal recurrence","qualifier":"","band":null,"col":null},
-  {"term":"ewige Wiederkehr","qualifier":"","band":null,"col":null},
-  {"term":"Nihilismus","qualifier":"","band":"12","col":"750"},
-  {"term":"Wiederkehr, ewige","qualifier":"","band":null,"col":null}
+  {"term":"eternal recurrence","qualifier":"(Nietzsche)","band":null,"col":null},
+  {"term":"ewige Wiederkehr","qualifier":"(Nietzsche)","band":null,"col":null},
+  {"term":"Nihilismus","qualifier":"(Nietzsche)","band":"12","col":"750"},
+  {"term":"Wiederkehr, ewige","qualifier":"(Nietzsche)","band":null,"col":null}
  ],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":4,"n":6,"l":0,"editor":0,"role":"source"},

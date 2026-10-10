@@ -35,6 +35,7 @@ HWPH.put("a/2409",
   {"term":"Denkökonomie","qualifier":"","band":"7","col":"1120"},
   {"term":"esprit positif","qualifier":"","band":"7","col":"1119"},
   {"term":"Philosophie, positive","qualifier":"","band":null,"col":null},
+  {"term":"Positivismusstreit","qualifier":"","band":"7","col":"1121"},
   {"term":"Wertfreiheit","qualifier":"","band":"7","col":"1122"}
  ],
  "persons":[

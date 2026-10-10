@@ -27,7 +27,6 @@ HWPH.put("a/2203",
  "backlinks":[{"id":3347,"lemma":"Uroffenbarung","n":2},{"id":3384,"lemma":"Verborgenheit Gottes","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"dialektische I 5 396","qualifier":"II","band":"6","col":"1111"},
   {"term":"Geheimnis","qualifier":"IV","band":"6","col":"1125"},
   {"term":"Gott, persönlicher","qualifier":"IV","band":"6","col":"1123"},
   {"term":"manifestatio","qualifier":"","band":null,"col":null},
@@ -38,10 +37,12 @@ HWPH.put("a/2203",
   {"term":"Schatten","qualifier":"II","band":"6","col":"1112"},
   {"term":"Tatsache, absolute","qualifier":"IV","band":"6","col":"1123"},
   {"term":"Vernunft","qualifier":"III","band":"6","col":"1116ff."},
+  {"term":"Vernunfterkenntnis","qualifier":"II","band":"6","col":"1111"},
   {"term":"visio","qualifier":"II","band":"6","col":"1113"},
   {"term":"ἀποκάλυψις","qualifier":"","band":null,"col":null},
   {"term":"δήλωσις","qualifier":"","band":"6","col":"1105"},
-  {"term":"ἐπιφάνεια","qualifier":"","band":null,"col":null}
+  {"term":"ἐπιφάνεια","qualifier":"","band":null,"col":null},
+  {"term":"φανέρωσις","qualifier":"I","band":"6","col":"1106"}
  ],
  "persons":[
   {"id":576,"name":"W. Wieland","b":0,"n":7,"l":1,"editor":0,"role":"scholar"},
@@ -270,13 +271,14 @@ HWPH.put("a/2203",
  "see_also":[
   {"id":2673,"lemma":"Religion"},
   {"id":2843,"lemma":"Selbstoffenbarung"},
-  {"id":3347,"lemma":"Uroffenbarung"}
+  {"id":3347,"lemma":"Uroffenbarung"},
+  {"id":3414,"lemma":"Verkündigung; Verkünden"}
  ],
  "groups":[{"id":44,"name":"Theologie","label":"Offenbarung"}],
  "reg_authors":[
   {"name":"Dierse Ulrich","n":52},
   {"name":"Lohff Wenzel","n":7},
-  {"name":"Red","n":242},
+  {"name":"Red","n":241},
   {"name":"Scholtz Gunter","n":14}
  ]
 }

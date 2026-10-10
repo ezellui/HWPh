@@ -30,9 +30,11 @@ HWPH.put("a/2268",
   {"term":"Allgemeines/Besonderes","qualifier":"","band":"7","col":"70"},
   {"term":"Auslegung, allegorische","qualifier":"","band":"7","col":"65ff."},
   {"term":"Bild","qualifier":"","band":"7","col":"67"},
+  {"term":"Fabel","qualifier":"","band":null,"col":null},
   {"term":"Gleichnis","qualifier":"","band":null,"col":null},
   {"term":"Satz, moralischer","qualifier":"","band":"7","col":"70f."},
-  {"term":"Schriftsinn, mehrfacher","qualifier":"","band":"7","col":"66f."}
+  {"term":"Schriftsinn, mehrfacher","qualifier":"","band":"7","col":"66f."},
+  {"term":"παραβολή","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":68,"name":"G. E. Lessing","b":2,"n":5,"l":0,"editor":0,"role":"source"},

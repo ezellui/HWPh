@@ -1,0 +1,11 @@
+HWPH.put("p/75-6b",
+{"uk":[["UK","2rr:;;s0"]],
+"ukase":[["Ukase","29v:;4q0"]],
+"ukaza":[["Ukaza","298:;;bh"]],
+"ukendelighed":[["ukendelighed","2k0:;2"]],
+"uklidis":[["Uḳlīdis","1wz:;338,7s,bj"]],
+"ukraine":[["Ukraine","3q:;7dq"]],
+"ukrainien":[["ukrainien","1td:;;mdv"]],
+"ukrainisch":[["ukrainisch","2b0:;qk"]],
+"uktion":[["uktion","223:;5z"]]}
+);

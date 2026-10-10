@@ -30,8 +30,7 @@ HWPH.put("a/2357",
   {"term":"immerwährende Philosophie","qualifier":"","band":null,"col":null},
   {"term":"philosophia perennis","qualifier":"","band":null,"col":null},
   {"term":"theologia prisca","qualifier":"","band":"7","col":"900"},
-  {"term":"Totalität des Wissens","qualifier":"","band":"7","col":"899"},
-  {"term":"– I (philos.) 7 977–985 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Totalität des Wissens","qualifier":"","band":"7","col":"899"}
  ],
  "persons":[
   {"id":4051,"name":"A. Steuchus","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},

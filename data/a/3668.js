@@ -32,8 +32,7 @@ HWPH.put("a/3668",
   {"term":"Gymnosophist","qualifier":"II","band":"12","col":"1113"},
   {"term":"Innigkeit","qualifier":"II","band":"12","col":"1114"},
   {"term":"Vereinigung","qualifier":"","band":null,"col":null},
-  {"term":"– II (ind.) 5 965–967 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (rel.) 1 541 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Versenkung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":2,"l":0,"editor":0,"role":"source"},

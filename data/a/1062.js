@@ -28,8 +28,7 @@ HWPH.put("a/1062",
   {"term":"Allaussage","qualifier":"I (log.)","band":null,"col":null},
   {"term":"Generalisation (log.)","qualifier":"I (log.)","band":null,"col":null},
   {"term":"Verallgemeinerung","qualifier":"","band":null,"col":null},
-  {"term":"Wesen, regionales","qualifier":"II (Husserl)","band":"3","col":"270"},
-  {"term":"– II (Husserl) 2 967 s. auch","qualifier":"II (Husserl)","band":null,"col":null}
+  {"term":"Wesen, regionales","qualifier":"II (Husserl)","band":"3","col":"270"}
  ],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[
@@ -37,11 +36,19 @@ HWPH.put("a/1062",
   {"id":2624,"lemma":"Reduktion","tf":2},
   {"id":3253,"lemma":"Übergang","tf":2}
  ],
- "see_also":[{"id":1416,"lemma":"Individualisieren/Generalisieren"},{"id":3303,"lemma":"Universalisierung"}],
+ "see_also":[
+  {"id":1416,"lemma":"Individualisieren/Generalisieren"},
+  {"id":3303,"lemma":"Universalisierung"},
+  {"id":258,"lemma":"Ascensus/Descensus"},
+  {"id":1061,"lemma":"Generalisator"},
+  {"id":2549,"lemma":"Quantifikation"},
+  {"id":929,"lemma":"Formalisierung"},
+  {"id":2625,"lemma":"Reduktion, eidetische"}
+ ],
  "groups":[
   {"id":22,"name":"Logik","label":"Generalisierung I (log.)"},
   {"id":31,"name":"Phänomenologie","label":"Generalisierung II (Husserl)"}
  ],
- "reg_authors":[{"name":"Claesges Ulrich","n":25},{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Claesges Ulrich","n":25},{"name":"Menne Albert","n":62}]
 }
 );

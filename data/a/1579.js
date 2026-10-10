@@ -17,7 +17,7 @@ HWPH.put("a/1579",
  "next":{"id":1580,"lemma":"Kohäsion, Kohärenz","band":"4","col":878},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– I (Hartmann) 8 1267f. s. auch","qualifier":"(Hartmann)","band":null,"col":null}],
+ "register":[],
  "persons":[{"id":35,"name":"N. Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[
   {"id":2761,"lemma":"Schicht, soziale","tf":3},

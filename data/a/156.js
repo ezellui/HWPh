@@ -27,7 +27,8 @@ HWPH.put("a/156",
   {"term":"mutatio metaphysica","qualifier":"","band":null,"col":null},
   {"term":"potentia absoluta","qualifier":"","band":"1","col":"334"},
   {"term":"transsubstantiatio","qualifier":"","band":"1","col":"334"},
-  {"term":"Zerstörung","qualifier":"","band":null,"col":null}
+  {"term":"Zerstörung","qualifier":"","band":null,"col":null},
+  {"term":"ἐξουδενόω","qualifier":"","band":"1","col":"334"}
  ],
  "persons":[
   {"id":202,"name":"Ockham","b":1,"n":2,"l":0,"editor":0,"role":"source"},

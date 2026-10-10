@@ -42,6 +42,7 @@ HWPH.put("a/130",
   {"term":"identisches Urteil","qualifier":"I (log.)","band":null,"col":null},
   {"term":"notwendig wahr","qualifier":"I (log.)","band":null,"col":null},
   {"term":"Redeweise, enumerative","qualifier":"II (ling.)","band":"1","col":"261"},
+  {"term":"synthetisch/analytisch","qualifier":"","band":null,"col":null},
   {"term":"synthetische Sätze a priori","qualifier":"I (log.)","band":null,"col":null},
   {"term":"synthetische Wortbildung","qualifier":"II (ling.)","band":null,"col":null},
   {"term":"Tatsache","qualifier":"I (log.)","band":"1","col":"253"},
@@ -51,8 +52,7 @@ HWPH.put("a/130",
   {"term":"Wahrheit, analytische","qualifier":"I (log.)","band":null,"col":null},
   {"term":"Wahrheit, logische","qualifier":"I (log.)","band":null,"col":null},
   {"term":"Wahrheit, synthetische","qualifier":"I (log.)","band":null,"col":null},
-  {"term":"Wortbildung","qualifier":"II (ling.)","band":null,"col":null},
-  {"term":"– I (log.) 1 251–260 s. auch","qualifier":"","band":"1","col":"260f."}
+  {"term":"Wortbildung","qualifier":"II (ling.)","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":3,"n":2,"l":0,"editor":0,"role":"source"},
@@ -110,7 +110,12 @@ HWPH.put("a/130",
   {"id":3040,"lemma":"Struktur","tf":8},
   {"id":3628,"lemma":"Wirklichkeit","tf":7}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":821,"lemma":"Erweiterungsurteil"},
+  {"id":1956,"lemma":"Methode, analytische/synthetische"},
+  {"id":3050,"lemma":"Subjekt/Prädikat"},
+  {"id":3114,"lemma":"Synthesis; synthetisch"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Analytisch/synthetisch"},
   {"id":20,"name":"Linguistik","label":"Analytisch/synthetisch II (ling.)"},

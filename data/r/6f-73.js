@@ -1,5 +1,6 @@
 HWPH.put("r/6f-73",
 [
+ ["osnova","Macht","IV (marx.)","5","624","ref",1844,"Macht","osnova"],
  ["Osten","Osten","","6","1394–1396","main",2255,"Osten","osten"],
  ["Osten","Westen; Okzident","",null,null,"see",3602,"Westen; Okzident","osten"],
  [

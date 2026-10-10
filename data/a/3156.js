@@ -65,6 +65,6 @@ HWPH.put("a/3156",
  "mentions":[{"id":707,"lemma":"Element","tf":2}],
  "see_also":[],
  "groups":[{"id":28,"name":"Naturphilosophie","label":"Tetraktys; Quaternarius"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

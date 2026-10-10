@@ -53,10 +53,7 @@ HWPH.put("r/61-66",
  ],
  ["Affektstörung","Wahn","",null,null,"ref",3520,"Wahn","affektstorung"],
  ["Affektstörung","Schizophrenie","","8","1291f.","ref",2765,"Schizophrenie","affektstorung"],
- [
-  "affektvoll","Pathetisch; das Pathetische Afferenz/Efferenz","",null,null,"ref",2289,
-  "Pathetisch, das Pathetische","affektvoll"
- ],
+ ["affektvoll","Pathetisch; das","",null,null,"ref",2289,"Pathetisch, das Pathetische","affektvoll"],
  ["Affinität","Anpassung","III (anthr.)",null,null,"ref",159,"Anpassung","affinitat"],
  ["Affinität","Affinität","(Kant)","1","101","main",55,"Affinität","affinitat"],
  [
@@ -80,24 +77,16 @@ HWPH.put("r/61-66",
  ["Affirmativ","Affirmativ","","1","101","main",57,"Affirmativ","affirmativ"],
  ["Affirmativ","Bejahung","",null,null,"see",380,"Bejahung","affirmativ"],
  ["Affirmativ","Qualität des Urteils","",null,null,"see",2545,"Qualität des Urteils","affirmativ"],
- ["affizieren","Affektion afflatus","",null,null,"ref",null,null,"affizieren"],
- ["affluent society","Überfluss Afterchristentum","",null,null,"ref",null,null,"affluent society"],
+ ["affizieren","Affektion","",null,null,"ref",54,"Affektion, affizieren","affizieren"],
+ ["afflatus","Einfluss","","2","396","ref",680,"Einfluß","afflatus"],
+ [
+  "affluent society","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft",
+  "affluent society"
+ ],
+ ["Afterchristentum","Religionskritik","","8","740","ref",2677,"Religionskritik","afterchristentum"],
  ["Afterdienst","Kirchenglaube","(Kant)","4","843","ref",1569,"Kirchenglaube","afterdienst"],
  ["Afterglaube","Glauben und Wissen","II","3","652","ref",1140,"Glauben und Wissen","afterglaube"],
  ["after-image","Nachbild","",null,null,"ref",2057,"Nachbild","after-image"],
- ["Aftermoral","Ethik","VI","2","785","ref",835,"Ethik","aftermoral"],
- ["Affekt","Affekt","",null,null,"main",53,"Affekt","affekt"],
- ["Affekt","Apathie","I (eth.)",null,null,"ref",198,"Apathie","affekt"],
- ["Affekt","Krankheit","",null,null,"ref",1681,"Krankheit","affekt"],
- ["Affekt","Pathos","",null,null,"ref",2294,"Pathos","affekt"],
- ["Affekt","Substanz I","",null,null,"ref",3062,"Substanz; Substanz/Akzidens","affekt"],
- ["Affekt","Widerfahrnis","",null,null,"ref",3604,"Widerfahrnis","affekt"],
- ["Affekt","Staunen","","10","116","ref",3015,"Staunen; Bewunderung; Verwunderung","affekt"],
- ["Affekt","Affekt","II","1","96","main",53,"Affekt","affekt"],
- ["Affekt","Entfremdung","","2","513","ref",747,"Entfremdung","affekt"],
- ["Affekt","Individuation","","4","298f.","ref",1420,"Individuation, Individuationsprinzip","affekt"],
- ["Affekt","Person","III 9","7","318","ref",2318,"Person","affekt"],
- ["Affekt","Sosein","","9","1102","ref",2931,"Sosein","affekt"],
- ["Affekt","Verzweiflung","","11","1031","ref",3459,"Verzweiflung","affekt"]
+ ["Aftermoral","Ethik","VI","2","785","ref",835,"Ethik","aftermoral"]
 ]
 );

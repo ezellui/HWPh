@@ -47,17 +47,19 @@ HWPH.put("a/3224",
   {"term":"mourning","qualifier":"","band":null,"col":null},
   {"term":"Nichttraurigseinkönnen","qualifier":"","band":"10","col":"1458"},
   {"term":"Niedergeschlagenheit","qualifier":"","band":"10","col":"1458"},
-  {"term":"Religion","qualifier":"","band":"10","col":"1455f."},
   {"term":"Trauerarbeit","qualifier":"","band":null,"col":null},
   {"term":"Treue","qualifier":"","band":"10","col":"1457"},
   {"term":"tristitia","qualifier":"","band":null,"col":null},
+  {"term":"Trost","qualifier":"","band":"10","col":"1455f."},
+  {"term":"Unfähigkeit zu trauern","qualifier":"","band":"10","col":"1458"},
   {"term":"Wissenschaft, traurige","qualifier":"","band":"10","col":"1459"},
+  {"term":"work of mourning","qualifier":"","band":null,"col":null},
   {"term":"Wundmal der Zivilisation","qualifier":"","band":"10","col":"1458"},
   {"term":"ἄχος","qualifier":"","band":null,"col":null},
   {"term":"κῆδος","qualifier":"","band":null,"col":null},
   {"term":"λύπη","qualifier":"","band":null,"col":null},
-  {"term":"τλημοσύνη","qualifier":"","band":"10","col":"1455"},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"πένθος","qualifier":"","band":null,"col":null},
+  {"term":"τλημοσύνη","qualifier":"","band":"10","col":"1455"}
  ],
  "persons":[
   {"id":25,"name":"Th. W. Adorno","b":2,"n":3,"l":0,"editor":0,"role":"source"},
@@ -178,12 +180,13 @@ HWPH.put("a/3224",
   {"id":564,"lemma":"Depression"},
   {"id":1915,"lemma":"Melancholie"},
   {"id":2788,"lemma":"Schwermut"},
-  {"id":3213,"lemma":"Trägheit"}
+  {"id":3213,"lemma":"Trägheit"},
+  {"id":3249,"lemma":"Überdruß"}
  ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Trauer; Trauerarbeit"},
   {"id":36,"name":"Psychologie","label":"Trauer; Trauerarbeit"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

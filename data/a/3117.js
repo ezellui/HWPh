@@ -44,12 +44,7 @@ HWPH.put("a/3117",
   {"term":"soziales System","qualifier":"","band":null,"col":null},
   {"term":"System, autopoietisches","qualifier":"","band":"10","col":"866"},
   {"term":"System, soziales","qualifier":"","band":null,"col":null},
-  {"term":"systemisch","qualifier":"","band":null,"col":null},
-  {"term":"– I (ling.) 10 266–268 – II (soz.) 10 268f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (soz.) 6 1326–1328 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (Luhmann) 4 1034f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (soz.) 9 516–518 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– IV (soz.) 2 1142f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"systemisch","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":93,"name":"N. Luhmann","b":2,"n":18,"l":0,"editor":0,"role":"source"},

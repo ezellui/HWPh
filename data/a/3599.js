@@ -27,11 +27,10 @@ HWPH.put("a/3599",
  ],
  "register":[
   {"term":"attributum essentiale","qualifier":"","band":null,"col":null},
+  {"term":"Charakter","qualifier":"","band":"12","col":"654"},
   {"term":"essential properties","qualifier":"","band":null,"col":null},
   {"term":"proprietas essentialis","qualifier":"","band":null,"col":null},
-  {"term":"ἴδιον","qualifier":"","band":null,"col":null},
-  {"term":"– I (met.) 2 334 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (biol.) 5 1155f. Merkmal","qualifier":"","band":"12","col":"654"}
+  {"term":"ἴδιον","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

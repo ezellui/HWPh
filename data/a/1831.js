@@ -17,10 +17,7 @@ HWPH.put("a/1831",
  "next":{"id":1832,"lemma":"Lokâyata","band":"5","col":529},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Aktualgenese","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 2 464–474 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Aktualgenese","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":103,"name":"H. Lotze","b":3,"n":5,"l":0,"editor":0,"role":"source"},
   {"id":608,"name":"C. Stumpf","b":2,"n":5,"l":1,"editor":0,"role":"source"},
@@ -61,7 +58,7 @@ HWPH.put("a/1831",
   {"id":863,"lemma":"Existenz, existentia","tf":2},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[{"id":2073,"lemma":"Nativismus"},{"id":2578,"lemma":"Raum"}],
+ "see_also":[{"id":2073,"lemma":"Nativismus"},{"id":2578,"lemma":"Raum"},{"id":3539,"lemma":"Wahrnehmung"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Lokalzeichen"}],
  "reg_authors":[{"name":"Neumann Karl","n":9}]
 }

@@ -19,7 +19,7 @@ HWPH.put("a/2456",
  "outlinks":[],
  "register":[
   {"term":"Anfangsursachen","qualifier":"","band":null,"col":null},
-  {"term":"II-III","qualifier":"","band":"7","col":"1322"},
+  {"term":"Erstursache","qualifier":"","band":"7","col":"1322"},
   {"term":"primordiales causae","qualifier":"","band":null,"col":null},
   {"term":"principalia exempla","qualifier":"","band":"7","col":"1322"},
   {"term":"ratio causalis","qualifier":"","band":"7","col":"1323"},

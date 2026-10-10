@@ -22,6 +22,6 @@ HWPH.put("a/1022",
  "mentions":[{"id":309,"lemma":"Aussage","tf":2}],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Gegenteil"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

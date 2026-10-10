@@ -26,11 +26,12 @@ HWPH.put("a/3160",
   {"id":3040,"lemma":"Struktur","n":1}
  ],
  "register":[
+  {"term":"déconstruction","qualifier":"(Derrida)","band":null,"col":null},
   {"term":"Dekonstruktion","qualifier":"(Derrida)","band":null,"col":null},
   {"term":"Destruktion","qualifier":"(Derrida)","band":"10","col":"1045f."},
   {"term":"Kritik","qualifier":"(Derrida)","band":"10","col":"1048"},
   {"term":"Metaphysikkritik","qualifier":"(Derrida)","band":"10","col":"1046"},
-  {"term":"performativer performativ","qualifier":"(Derrida)","band":"10","col":"1047"}
+  {"term":"performativ","qualifier":"(Derrida)","band":"10","col":"1047"}
  ],
  "persons":[
   {"id":182,"name":"J. Derrida","b":4,"n":14,"l":0,"editor":0,"role":"source"},
@@ -86,7 +87,7 @@ HWPH.put("a/3160",
   {"id":594,"lemma":"Differenz","tf":2},
   {"id":1944,"lemma":"Metaphysik","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1827,"lemma":"Logozentrisch"},{"id":2781,"lemma":"Schrift"},{"id":3158,"lemma":"Text"}],
  "groups":[
   {"id":14,"name":"Hermeneutik","label":"Textualität; Dekonstruktion (Derrida)"},
   {"id":21,"name":"Literaturtheorie","label":"Textualität; Dekonstruktion (Derrida)"}

@@ -18,9 +18,8 @@ HWPH.put("a/24",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Abfuhr","qualifier":"","band":"1","col":"8"},
   {"term":"Durcharbeiten","qualifier":"","band":"1","col":"8"},
-  {"term":"kathartische","qualifier":"","band":"1","col":"8"},
-  {"term":"kathartische 5 1355–1359 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Trauma","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -44,7 +43,7 @@ HWPH.put("a/24",
   {"id":3267,"lemma":"Überwindung","tf":2},
   {"id":3396,"lemma":"Verfahren","tf":2}
  ],
- "see_also":[{"id":1955,"lemma":"Methode"}],
+ "see_also":[{"id":1955,"lemma":"Methode"},{"id":2507,"lemma":"Psychodrama"}],
  "groups":[{"id":35,"name":"Psychoanalyse","label":"Abreagieren"}],
  "reg_authors":[{"name":"Eidelberg Ludwig","n":1}]
 }

@@ -7,6 +7,9 @@ HWPH.put("r/69-2018",
  ["i‘κανόν","Prinzip","I","7","1337","ref",2458,"Prinzip","i‘κανον"],
  ["i‘λαρός","Heiterkeit; das Heitere","","3","1040","ref",1242,"Heiterkeit, das Heitere","i‘λαροσ"],
  ["i‘λαρότης","Lust; Freude","II","5","556","ref",1837,"Lust, Freude","i‘λαροτησ"],
- ["i‘λασμός","Versöhnung","I (theol.)",null,null,"ref",3434,"Versöhnung","i‘λασμοσ"]
+ ["i‘λασμός","Versöhnung","I (theol.)",null,null,"ref",3434,"Versöhnung","i‘λασμοσ"],
+ ["i‘στορία","Geschichte","I",null,null,"ref",1085,"Geschichte, Historie","i‘στορια"],
+ ["i‘στορία","Naturgeschichte","","6","526","ref",2084,"Naturgeschichte","i‘στορια"],
+ ["i‘στορία","Philosophie","I A","7","573","ref",2353,"Philosophie","i‘στορια"]
 ]
 );

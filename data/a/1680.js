@@ -38,8 +38,7 @@ HWPH.put("a/1680",
   {"term":"Kraft, bildende","qualifier":"II","band":"4","col":"1182f."},
   {"term":"Monade","qualifier":"II","band":"4","col":"1180f."},
   {"term":"vis","qualifier":"","band":null,"col":null},
-  {"term":"δύναμις","qualifier":"","band":null,"col":null},
-  {"term":"– I (phys.) 5 825–828 s. auch","qualifier":"II","band":null,"col":null}
+  {"term":"δύναμις","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":2,"n":4,"l":0,"editor":0,"role":"source"},

@@ -18,7 +18,6 @@ HWPH.put("a/1760",
  "backlinks":[{"id":2835,"lemma":"Selbstgebung, Selbstgegebenheit","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"(Husserl) 3 1200","qualifier":"(Husserl)","band":"5","col":"160"},
   {"term":"Anschauung, erfüllende","qualifier":"(Husserl)","band":"5","col":"160"},
   {"term":"Erfüllung","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Intention","qualifier":"(Husserl)","band":null,"col":null},
@@ -26,7 +25,7 @@ HWPH.put("a/1760",
  ],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[{"id":161,"lemma":"Anschauung","tf":3}],
- "see_also":[],
+ "see_also":[{"id":1470,"lemma":"Intentionalität"},{"id":2835,"lemma":"Selbstgebung, Selbstgegebenheit"}],
  "groups":[{"id":31,"name":"Phänomenologie","label":"Leerintention (Husserl)"}],
  "reg_authors":[{"name":"Janssen Paul","n":26}]
 }

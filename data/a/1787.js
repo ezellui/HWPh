@@ -203,7 +203,7 @@ HWPH.put("a/1787",
   {"name":"Dierse Ulrich","n":52},
   {"name":"Dräger Horst","n":1},
   {"name":"Ho¡cevar Rolf K","n":2},
-  {"name":"Red","n":242}
+  {"name":"Red","n":241}
  ]
 }
 );

@@ -19,6 +19,7 @@ HWPH.put("a/2651",
  "outlinks":[],
  "register":[
   {"term":"Klugheitsregel","qualifier":"","band":"8","col":"490"},
+  {"term":"lesbische Regel","qualifier":"","band":null,"col":null},
   {"term":"Regeln der Klugheit","qualifier":"","band":"8","col":"490"},
   {"term":"ἐπιείκεια","qualifier":"","band":"8","col":"489"}
  ],
@@ -62,6 +63,6 @@ HWPH.put("a/2651",
   {"id":37,"name":"Rechtsphilosophie und Rechtstheorie","label":"Regula Lesbia"},
   {"id":44,"name":"Theologie","label":"Regula Lesbia"}
  ],
- "reg_authors":[{"name":"Büchsel Elfriede","n":6},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Büchsel Elfriede","n":6},{"name":"Red","n":241}]
 }
 );

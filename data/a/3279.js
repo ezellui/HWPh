@@ -32,8 +32,9 @@ HWPH.put("a/3279",
   {"id":3495,"lemma":"Vornehm","n":1}
  ],
  "register":[
+  {"term":"Falschmünzerei","qualifier":"(Nietzsche)","band":"11","col":"107"},
   {"term":"Genealogie der Moral","qualifier":"(Nietzsche)","band":null,"col":null},
-  {"term":"Negativität II 6 683 Falschmünzerei","qualifier":"(Nietzsche)","band":"11","col":"107"},
+  {"term":"Gute","qualifier":"(Nietzsche)","band":null,"col":null},
   {"term":"Neo-Cynismus","qualifier":"(Nietzsche)","band":"11","col":"107"},
   {"term":"revaluation","qualifier":"(Nietzsche)","band":null,"col":null},
   {"term":"Umkehrung der Werte","qualifier":"(Nietzsche)","band":null,"col":null}

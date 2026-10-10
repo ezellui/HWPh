@@ -26,8 +26,8 @@ HWPH.put("a/1497",
   {"term":"Irrationalismus","qualifier":"","band":"4","col":"586f."},
   {"term":"Irrationalität","qualifier":"","band":null,"col":null},
   {"term":"Rationalisierung","qualifier":"","band":"4","col":"585"},
-  {"term":"transintelligibel","qualifier":"","band":null,"col":null},
-  {"term":"transobjektiv","qualifier":"","band":null,"col":null},
+  {"term":"transintelligibel","qualifier":"(Hartmann)","band":null,"col":null},
+  {"term":"transobjektiv","qualifier":"(Hartmann)","band":null,"col":null},
   {"term":"Vernunftkultur","qualifier":"","band":"4","col":"586"}
  ],
  "persons":[

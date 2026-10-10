@@ -19,8 +19,7 @@ HWPH.put("a/348",
  "outlinks":[{"id":351,"lemma":"Bedeutungslehre","n":1}],
  "register":[
   {"term":"Gefühlswert","qualifier":"","band":"1","col":"758"},
-  {"term":"Nebensinn","qualifier":"","band":"1","col":"758"},
-  {"term":"– I (allg.) 1 780–785 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Nebensinn","qualifier":"","band":"1","col":"758"}
  ],
  "persons":[
   {"id":30,"name":"L. Wittgenstein","b":2,"n":2,"l":0,"editor":0,"role":"source"},

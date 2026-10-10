@@ -11,12 +11,16 @@ HWPH.put("r/6d-79",
   "Apriori, religiöses","mysterium tremendum et fascinosum"
  ],
  [
-  "Mysterium tremendum et fascinosum","Ganz Andere","",null,null,"see",985,"Ganz Andere",
+  "Mysterium tremendum et fascinosum","Ganz Andere, das","(Otto)",null,null,"see",985,"Ganz Andere",
+  "mysterium tremendum et fascinosum"
+ ],
+ [
+  "Mysterium tremendum et fascinosum","Numinose, das","(Otto)",null,null,"see",2175,"Numinose, das",
   "mysterium tremendum et fascinosum"
  ],
  ["mystery, inexplicable","Welträtsel","","12","507","ref",3574,"Welträtsel","mystery, inexplicable"],
- ["mysticus","Mystik; mystisch Mystik","",null,null,"ref",2050,"Mystik, mystisch","mysticus"],
- ["mysticus","Register der Sachgruppen","",null,null,"see",null,null,"mysticus"],
+ ["mysticus","Mystik; mystisch","",null,null,"ref",2050,"Mystik, mystisch","mysticus"],
+ ["Mystik","Register der Sachgruppen","",null,null,"see",null,null,"mystik"],
  [
   "Mystik; mystisch","Mystik; mystisch","","6","268–279","main",2050,"Mystik, mystisch",
   "mystik; mystisch"
@@ -38,17 +42,14 @@ HWPH.put("r/6d-79",
   "mystische, das"
  ],
  [
-  "Mystische, das (Wittgenstein)","Schweigen; Stille A","","8","1491","ref",2787,"Schweigen, Stille",
+  "Mystische, das (Wittgenstein)","Schweigen; Stille","A","8","1491","ref",2787,"Schweigen, Stille",
   "mystische, das (wittgenstein)"
  ],
- ["Mystizismus","Mystik II Mythologie","",null,null,"ref",null,null,"mystizismus"],
+ ["Mystizismus","Mystik","II",null,null,"ref",2050,"Mystik, mystisch","mystizismus"],
+ ["Mythologie","Mythos; Mythologie","",null,null,"ref",2053,"Mythos, Mythologie","mythologie"],
  [
-  "Mythos; Mythologie Mythologie, christliche","Mythos; Mythologie Mythologie, christliche","",null,
-  null,"main",2053,"Mythos, Mythologie","mythos; mythologie mythologie, christliche"
- ],
- [
-  "Mythos; Mythologie","Mythos; Mythologie","IV","6","289f.","main",2053,"Mythos, Mythologie",
-  "mythos; mythologie"
+  "Mythologie, christliche","Mythos; Mythologie","IV","6","289f.","ref",2053,"Mythos, Mythologie",
+  "mythologie, christliche"
  ],
  [
   "Mythologie, neue","Mythologie, neue","","6","280","main",2052,"Mythologie, neue",

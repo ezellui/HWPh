@@ -33,14 +33,12 @@ HWPH.put("a/3356",
  "register":[
   {"term":"aesthetic judgment","qualifier":"","band":null,"col":null},
   {"term":"aesthetica critica","qualifier":"","band":"11","col":"462"},
-  {"term":"ästhetische 12 137–141 s. auch","qualifier":"","band":null,"col":null},
   {"term":"ästhetisches Urteil","qualifier":"","band":null,"col":null},
   {"term":"Geschmacksurteil","qualifier":"","band":"11","col":"463"},
   {"term":"jugement d'esthétique","qualifier":"","band":null,"col":null},
   {"term":"jugement de critique","qualifier":"","band":null,"col":null},
   {"term":"jugement de goût","qualifier":"","band":null,"col":null},
   {"term":"jugement réfléchissant","qualifier":"","band":null,"col":null},
-  {"term":"Literaturkritik","qualifier":"","band":null,"col":null},
   {"term":"Reflexionsurteil","qualifier":"","band":"11","col":"463"}
  ],
  "persons":[

@@ -1,9 +1,13 @@
 HWPH.put("r/3b1-3ba",
 [
+ ["ἀκαταληψία","Unbegreiflichkeit","",null,null,"ref",3281,"Unbegreiflichkeit","ακαταληψια"],
+ ["ἀκαταληψία","Skepsis; Skeptizismus","I","9","939","ref",2907,"Skepsis; Skeptizismus","ακαταληψια"],
  ["ἀκατάληπτος","Akataleptisch","",null,null,"ref",72,"Akataleptisch","ακαταληπτοσ"],
  ["ἀκατάληπτος","Katalepsis","",null,null,"ref",1536,"Katalepsis","ακαταληπτοσ"],
  ["ἀκηδία","Acedia","",null,null,"ref",39,"Acedia","ακηδια"],
  ["ἀκηδία","Trägheit","I (anthr.)",null,null,"ref",3213,"Trägheit","ακηδια"],
+ ["ἀκολασία","Lasterkatalog","","5","37","ref",1730,"Lasterkatalog","ακολασια"],
+ ["ἀκολασία","Willensschwäche","","12","801","ref",3623,"Willensschwäche","ακολασια"],
  ["ἀκολούθησις","Folgerung","","2","961","ref",926,"Folgerung","ακολουθησισ"],
  ["ἀκολουθία","Akoluthie","",null,null,"ref",76,"Akoluthie","ακολουθια"],
  ["ἄκων","Freiheit","I",null,null,"ref",946,"Freiheit","ακων"],

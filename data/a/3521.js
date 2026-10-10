@@ -55,6 +55,7 @@ HWPH.put("a/3521",
  "register":[
   {"term":"Aberwitz","qualifier":"","band":"12","col":"38"},
   {"term":"Abnormität, psychische","qualifier":"","band":"12","col":"40"},
+  {"term":"amentia","qualifier":"","band":"12","col":"37"},
   {"term":"Antipsychiatrie","qualifier":"","band":"12","col":"40"},
   {"term":"defect of the mind","qualifier":"","band":"12","col":"37"},
   {"term":"dementia","qualifier":"","band":"12","col":"38"},
@@ -76,7 +77,6 @@ HWPH.put("a/3521",
   {"term":"sensus privatus","qualifier":"","band":"12","col":"38"},
   {"term":"unbekannte Grössen → X Unbelehrbarkeit","qualifier":"","band":"12","col":"37"},
   {"term":"Unerträgliche, das","qualifier":"","band":"12","col":"39"},
-  {"term":"Unsinn; Widersinn","qualifier":"","band":"12","col":"37"},
   {"term":"Unsinnigkeit","qualifier":"","band":"12","col":"38"},
   {"term":"Unvernunft","qualifier":"","band":"12","col":"37"},
   {"term":"Vernunft/Unvernunft","qualifier":"","band":null,"col":null},
@@ -202,6 +202,6 @@ HWPH.put("a/3521",
   {"id":9,"name":"Erkenntnistheorie","label":"Wahnsinn"},
   {"id":36,"name":"Psychologie","label":"Wahnsinn"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

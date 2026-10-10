@@ -48,13 +48,12 @@ HWPH.put("a/2598",
   {"term":"droit","qualifier":"","band":null,"col":null},
   {"term":"Gewohnheitsrecht","qualifier":"I","band":"8","col":"225"},
   {"term":"ius","qualifier":"","band":null,"col":null},
-  {"term":"Konstruktion","qualifier":"I","band":"8","col":"226"},
   {"term":"law","qualifier":"","band":null,"col":null},
   {"term":"lex","qualifier":"","band":null,"col":null},
   {"term":"Methode, juristische","qualifier":"I","band":"8","col":"225"},
   {"term":"Rechte","qualifier":"II","band":null,"col":null},
   {"term":"rights","qualifier":"II","band":null,"col":null},
-  {"term":"– I (jur.) 3 480–493 s. auch","qualifier":"I","band":null,"col":null}
+  {"term":"Verfahren","qualifier":"I","band":"8","col":"226"}
  ],
  "persons":[
   {"id":652,"name":"H. L. A. Hart","b":1,"n":7,"l":2,"editor":0,"role":"mixed"},

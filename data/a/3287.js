@@ -18,7 +18,6 @@ HWPH.put("a/3287",
  "backlinks":[],
  "outlinks":[{"id":1613,"lemma":"Konjunktion","n":1},{"id":1670,"lemma":"Korrelation","n":1}],
  "register":[
-  {"term":"der","qualifier":"","band":null,"col":null},
   {"term":"Erlösung","qualifier":"","band":"11","col":"133"},
   {"term":"Gesamtkunstwerk","qualifier":"","band":"11","col":"133"},
   {"term":"Ich-Du-Verhältnis","qualifier":"","band":"11","col":"134"},

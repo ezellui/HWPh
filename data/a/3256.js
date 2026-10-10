@@ -21,10 +21,10 @@ HWPH.put("a/3256",
   {"id":3268,"lemma":"Überzeitlich","n":1}
  ],
  "register":[
+  {"term":"Denken, übergeschichtliches","qualifier":"","band":"11","col":"38"},
   {"term":"Geschichte, höhere","qualifier":"","band":"11","col":"36"},
   {"term":"Geschichte, übergeschichtliche","qualifier":"","band":"11","col":"36"},
   {"term":"historia profana/sacra","qualifier":"","band":"11","col":"36"},
-  {"term":"inneres 12 1044 Denken, übergeschichtliches","qualifier":"","band":"11","col":"38"},
   {"term":"überhistorisch","qualifier":"","band":null,"col":null},
   {"term":"übernatürlich","qualifier":"","band":"11","col":"37"},
   {"term":"Wahrheit, ewige","qualifier":"","band":"11","col":"37"}

@@ -18,13 +18,13 @@ HWPH.put("a/1407",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Abstraktion","qualifier":"","band":"4","col":"278"},
   {"term":"Begriff, einfacher","qualifier":"","band":null,"col":null},
+  {"term":"Begriffsbildung","qualifier":"","band":"4","col":"278"},
   {"term":"complexum","qualifier":"","band":null,"col":null},
   {"term":"compositum","qualifier":"","band":"4","col":"277"},
+  {"term":"einfach/zusammengesetzt (log.)","qualifier":"","band":null,"col":null},
   {"term":"simplex","qualifier":"","band":"4","col":"277"},
-  {"term":"Terminus, komplexer","qualifier":"","band":null,"col":null},
-  {"term":"– II (log.) 1 785–787 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Terminus, komplexer","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":41,"name":"Albertus Magnus","b":2,"n":1,"l":0,"editor":0,"role":"source"},

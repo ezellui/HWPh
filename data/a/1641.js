@@ -22,6 +22,6 @@ HWPH.put("a/1641",
  "mentions":[],
  "see_also":[{"id":3607,"lemma":"Widerspruch"}],
  "groups":[{"id":22,"name":"Logik","label":"Kontradiktion (Wittgenstein)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

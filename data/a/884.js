@@ -17,10 +17,7 @@ HWPH.put("a/884",
  "next":{"id":885,"lemma":"Extremalprinzipien","band":"2","col":880},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Introversion/Extraversion","qualifier":"","band":null,"col":null},
-  {"term":"– I (psych.) 2 417–421 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Introversion/Extraversion","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":180,"name":"C. G. Jung","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1021,"name":"R. B. Cattell","b":1,"n":1,"l":0,"editor":0,"role":"source"},

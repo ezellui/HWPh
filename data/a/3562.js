@@ -37,14 +37,19 @@ HWPH.put("a/3562",
  ],
  "register":[
   {"term":"Anakephalaiosis","qualifier":"","band":"12","col":"465"},
+  {"term":"consummatio saeculi","qualifier":"","band":null,"col":null},
+  {"term":"Ende der Welt","qualifier":"","band":null,"col":null},
   {"term":"Endzeit","qualifier":"","band":null,"col":null},
+  {"term":"finis mundi","qualifier":"","band":null,"col":null},
   {"term":"transactio","qualifier":"","band":"12","col":"465"},
   {"term":"Umwandlung der Welt","qualifier":"","band":"12","col":"465"},
+  {"term":"Untergang der Welt","qualifier":"","band":null,"col":null},
   {"term":"Utopie, negative","qualifier":"","band":"12","col":"468"},
   {"term":"Vergehen der Welt","qualifier":"","band":"12","col":"465f."},
   {"term":"Verwandlung der Welt","qualifier":"","band":"12","col":"465"},
   {"term":"Vollendung der Welt","qualifier":"","band":"12","col":"465"},
-  {"term":"Weltuntergang","qualifier":"","band":null,"col":null}
+  {"term":"Weltuntergang","qualifier":"","band":null,"col":null},
+  {"term":"συντέλεια τοῦ ἀιων͂ος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":681,"name":"J. Grimm","b":1,"n":6,"l":0,"editor":0,"role":"source"},

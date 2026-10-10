@@ -22,9 +22,9 @@ HWPH.put("a/3689",
   {"id":3577,"lemma":"Weltschmerz","n":1}
  ],
  "register":[
-  {"term":"4","qualifier":"","band":"12","col":"1306"},
   {"term":"Bewusstsein, zerrissenes","qualifier":"","band":"12","col":"1306"},
   {"term":"déchirement","qualifier":"","band":null,"col":null},
+  {"term":"Entzweiung","qualifier":"","band":"12","col":"1306"},
   {"term":"Selbstzerrissenheit","qualifier":"","band":"12","col":"1307"},
   {"term":"Weltzerrissenheit","qualifier":"","band":"12","col":"1307"},
   {"term":"Zerspaltung","qualifier":"","band":"12","col":"1307"},

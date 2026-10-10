@@ -36,6 +36,7 @@ HWPH.put("a/3253",
   {"id":3585,"lemma":"Werden/Vergehen","n":1}
  ],
  "register":[
+  {"term":"Moderne postmoderne Moderne","qualifier":"","band":"11","col":"32"},
   {"term":"Moderne, postmoderne","qualifier":"","band":"11","col":"32"},
   {"term":"passage","qualifier":"","band":null,"col":null},
   {"term":"rites de passage","qualifier":"","band":"11","col":"31"},
@@ -94,6 +95,6 @@ HWPH.put("a/3253",
   {"id":3582,"lemma":"Wende"}
  ],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Übergang"}],
- "reg_authors":[{"name":"Demandt Alexander","n":1},{"name":"Korten Harald","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Demandt Alexander","n":1},{"name":"Korten Harald","n":1},{"name":"Red","n":241}]
 }
 );

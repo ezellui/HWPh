@@ -1,28 +1,5 @@
 HWPH.put("r/62-65",
 [
- [
-  "Bestimmung; Determination I (met.)","Bestimmung; Determination I (met.)","","1","854","main",400,
-  "Bestimmung, bestimmen, Determination","bestimmung; determination i (met.)"
- ],
- [
-  "Beobachtungsfehler","Beobachtungsfehler","",null,null,"main",386,"Beobachtungsfehler",
-  "beobachtungsfehler"
- ],
- ["Beweis","Beweis","","1","884","main",410,"Beweis","beweis"],
- [
-  "Bedeutungserfüllung","Bedeutungserfüllung","(Husserl)",null,null,"main",349,"Bedeutungserfüllung",
-  "bedeutungserfullung"
- ],
- ["Bedeutungserfüllung","Gott","VIII","3","779","ref",1162,"Gott","bedeutungserfullung"],
- ["Bedeutungserfüllung","Intuition","","4","537","ref",1487,"Intuition","bedeutungserfullung"],
- [
-  "Bedeutungserfüllung","Mundus intelligibilis/sensibilis","","6","239","ref",2040,
-  "Mundus intelligibilis/sensibilis","bedeutungserfullung"
- ],
- [
-  "Bedeutungserfüllung","Organonmodell","",null,null,"ref",2247,"Organonmodell",
-  "bedeutungserfullung"
- ],
  ["Beamter","Amt","I (pol.)",null,null,"ref",120,"Amt","beamter"],
  ["Beanspruchen","Recht","II","8","230","ref",2598,"Recht","beanspruchen"],
  [
@@ -33,7 +10,11 @@ HWPH.put("r/62-65",
   "Bearbeitung, sekundäre","Verschiebung; Verdichtung","","11","875","ref",3429,
   "Verschiebung; Verdichtung","bearbeitung, sekundare"
  ],
- ["beatitudo","Glück beatitudo aeterna","",null,null,"ref",null,null,"beatitudo"],
+ ["beatitudo","Glück","",null,null,"ref",1155,"Glück, Glückseligkeit","beatitudo"],
+ [
+  "beatitudo aeterna","Seligkeit, ewige","",null,null,"ref",2859,"Seligkeit, ewige",
+  "beatitudo aeterna"
+ ],
  [
   "beatitudo creata/increata","Seligkeit, ewige","II","9","576","ref",2859,"Seligkeit, ewige",
   "beatitudo creata/increata"
@@ -43,8 +24,15 @@ HWPH.put("r/62-65",
   "beatitudo philosophica"
  ],
  [
-  "beauté positive/arbitraire","Schöne","",null,null,"ref",2776,"Schöne",
+  "beauté positive/arbitraire","Schöne, das","IV A","8","1366f.","ref",2776,"Schöne",
   "beaute positive/arbitraire"
+ ],
+ ["beautiful","Schöne, das","",null,null,"ref",2776,"Schöne","beautiful"],
+ ["beautiful soul","Seele, schöne","",null,null,"ref",2794,"Seele","beautiful soul"],
+ ["beaux-arts","Kunst; Kunstwerk","II","4","1375","ref",1712,"Kunst, Kunstwerk","beaux-arts"],
+ [
+  "beaux-arts","Wissenschaften, schöne","","12","955","ref",3639,"Wissenschaften, schöne",
+  "beaux-arts"
  ],
  ["becoming","Werden/Vergehen","",null,null,"ref",3585,"Werden/Vergehen","becoming"],
  ["Bedächtigkeit","Übereilung","",null,null,"ref",3250,"Übereilung; Voreiligkeit","bedachtigkeit"],
@@ -113,7 +101,11 @@ HWPH.put("r/62-65",
  ["Bedeutungslehre","Bedeutung","",null,null,"see",348,"Bedeutung","bedeutungslehre"],
  ["Bedeutungslehre","Semantik","",null,null,"see",2861,"Semantik, semantisch","bedeutungslehre"],
  ["Bedeutungslehre","Semasiologie","",null,null,"see",2863,"Semasiologie","bedeutungslehre"],
- ["Bedeutungslehre","Semiotik Bedeutungsträger","",null,null,"see",null,null,"bedeutungslehre"],
+ ["Bedeutungslehre","Semiotik","",null,null,"see",2865,"Semiotik, Semiologie","bedeutungslehre"],
+ [
+  "Bedeutungsträger","Bauplan; Funktionsplan","(Uexküll)","1","756","ref",346,
+  "Bauplan, Funktionsplan","bedeutungstrager"
+ ],
  [
   "Bedeutungsüberschuss","Operationalismus","II (psych.)","6","1219","ref",2227,"Operationalismus",
   "bedeutungsuberschuss"
@@ -156,11 +148,9 @@ HWPH.put("r/62-65",
  ["Bedingtsein","Vermittlung","","11","723","ref",3417,"Vermittlung","bedingtsein"],
  ["Bedingung","Bedingung","","1","762–765","main",354,"Bedingung","bedingung"],
  [
-  "Bedingung","Dann und nur dann, wenn..., so...","",null,null,"see",523,
-  "Dann und nur dann, wenn – so","bedingung"
+  "Bedingung","Dann und nur dann, wenn","",null,null,"see",523,"Dann und nur dann, wenn – so",
+  "bedingung"
  ],
- ["Bedingung","Folgerung","",null,null,"see",926,"Folgerung","bedingung"],
- ["Bedingung","Konditionalismus Bedingung","",null,null,"see",null,null,"bedingung"],
  [
   "Bedingung, notwendige","Condicio sine qua non","",null,null,"ref",508,"Condicio sine qua non",
   "bedingung, notwendige"
@@ -176,14 +166,9 @@ HWPH.put("r/62-65",
  ],
  ["Bedürfnis","Bedürfnis","","1","765–771","main",355,"Bedürfnis","bedurfnis"],
  [
-  "Bedürfnis","Begehren; appetitus naturalis","",null,null,"see",362,"Begehren, appetitus naturalis",
+  "Bedürfnis","Begehren; appetitus","",null,null,"see",362,"Begehren, appetitus naturalis",
   "bedurfnis"
  ],
- [
-  "Bedürfnis","Begehren; Begierde","",null,null,"see",362,"Begehren, appetitus naturalis",
-  "bedurfnis"
- ],
- ["Bedürfnis","Trieb","II (psych.)",null,null,"see",3229,"Trieb","bedurfnis"],
  ["Bedürfnis","Mensch","IV 3","5","1097","ref",1917,"Mensch","bedurfnis"],
  ["Bedürfnis","Philosophie","IV H","7","755","ref",2353,"Philosophie","bedurfnis"],
  ["Bedürfnis","Verlangen","","11","718","ref",3415,"Verlangen","bedurfnis"],
@@ -204,7 +189,7 @@ HWPH.put("r/62-65",
   "bedurfnislosigkeit"
  ],
  ["Bedürfnislosigkeit","Askese","I (eth.)",null,null,"see",260,"Askese","bedurfnislosigkeit"],
- ["Bedürfnislosigkeit","Autarkie I","",null,null,"see",316,"Autarkie, autark","bedurfnislosigkeit"],
+ ["Bedürfnislosigkeit","Autarkie","I",null,null,"see",316,"Autarkie, autark","bedurfnislosigkeit"],
  [
   "Bedürfnislosigkeit","Kynismus; kynisch","",null,null,"see",1722,"Kynismus, kynisch",
   "bedurfnislosigkeit"
@@ -215,7 +200,7 @@ HWPH.put("r/62-65",
   "bedurfnisorientierung/antriebsorientierung"
  ],
  [
-  "Bedürfnisorientierung/Antriebsorientierung","Antriebsüberschuss (Gehlen)","",null,null,"see",195,
+  "Bedürfnisorientierung/Antriebsorientierung","Antriebsüberschuss","(Gehlen)",null,null,"see",195,
   "Antriebsüberschuß","bedurfnisorientierung/antriebsorientierung"
  ],
  [
@@ -247,13 +232,17 @@ HWPH.put("r/62-65",
  ["Befindlichkeit","Faktizität","(Heidegger)",null,null,"see",888,"Faktizität","befindlichkeit"],
  ["Befindlichkeit","Situation","I (anthr.)",null,null,"see",2904,"Situation","befindlichkeit"],
  ["Befindlichkeit","Stimmung","",null,null,"see",3027,"Stimmung","befindlichkeit"],
- ["Befreiung","Theologie","",null,null,"ref",3169,"Theologie","befreiung"],
+ [
+  "Befreiung","Theologie der Befreiung","",null,null,"ref",3170,
+  "Theologie der Befreiung; Theologie der Revolution","befreiung"
+ ],
+ ["Befreiung der Seele","Tod","","10","1231","ref",3197,"Tod","befreiung der seele"],
  ["Befriedigung","Bedürfnis","",null,null,"ref",355,"Bedürfnis","befriedigung"],
  [
   "Befriedigung","Bedürfnisse, System der","(Hegel)",null,null,"ref",358,"Bedürfnisse, System der",
   "befriedigung"
  ],
- ["Befriedigung","Dialektik","IV",null,null,"ref",583,"Dialektik","befriedigung"],
+ ["Befriedigung","Dialektik","IV 7. 1","2","218","ref",583,"Dialektik","befriedigung"],
  ["Befriedigung","Glück","III","3","705","ref",1155,"Glück, Glückseligkeit","befriedigung"],
  [
   "Befriedigung","Heiterkeit; das Heitere","","3","1041","ref",1242,"Heiterkeit, das Heitere",
@@ -274,9 +263,11 @@ HWPH.put("r/62-65",
  ["Begabung","Begabung","","1","775f.","main",361,"Begabung","begabung"],
  ["Begabung","Anlage","II (psych.)",null,null,"see",151,"Anlage","begabung"],
  [
-  "Begabung","Intelligenz; Intellektueller VI (psych.) Begabung","",null,null,"see",1464,
+  "Begabung","Intelligenz; Intellektueller","VI (psych.)",null,null,"see",1464,
   "Intelligenz, Intelligentsia, Intellektueller","begabung"
  ],
+ ["Begabung","Ingenium","",null,null,"ref",1436,"Ingenium","begabung"],
+ ["Begabung","Talent","","10","886","ref",3124,"Talent","begabung"],
  ["Begegnung","Ich-Du-Verhältnis","","4","20f.","ref",1336,"Ich-Du-Verhältnis","begegnung"],
  ["Begehrbarkeit","Wert","II","12","563","ref",3588,"Wert","begehrbarkeit"],
  [
@@ -365,12 +356,34 @@ HWPH.put("r/62-65",
  ],
  ["begleitungsweise","Malum","VI","5","683","ref",1852,"Malum","begleitungsweise"],
  ["Begreifen","Verstehen","","11","920","ref",3438,"Verstehen","begreifen"],
+ ["Begrenzung, scharfe","Vagheit","","11","535","ref",3370,"Vagheit; vage","begrenzung, scharfe"],
  ["Begriff","Begriff","","1","780–787","main",365,"Begriff","begriff"],
  ["Begriff","Allgemeines/Besonderes","",null,null,"see",101,"Allgemeines/Besonderes","begriff"],
  ["Begriff","Begriffsgeschichte","",null,null,"see",368,"Begriffsgeschichte","begriff"],
  ["Begriff","Gedankending","",null,null,"see",1000,"Gedankending (ens rationis)","begriff"],
  ["Begriff","Idee","",null,null,"see",1361,"Idee","begriff"],
  ["Begriff","Merkmal","",null,null,"see",1930,"Merkmal","begriff"],
+ ["Begriff","Bedeutung","",null,null,"see",348,"Bedeutung","begriff"],
+ ["Begriff","Definition","",null,null,"see",535,"Definition","begriff"],
+ ["Begriff","Zeichen","",null,null,"see",3673,"Zeichen","begriff"],
+ ["Begriff","Incomplexum/complexum","",null,null,"see",1407,"Incomplexum/complexum","begriff"],
+ ["Begriff","Prädikatenlogik","",null,null,"see",2426,"Prädikatenlogik, Prädikatenkalkül","begriff"],
+ ["Begriff","Praecisio","I (log.)",null,null,"ref",2429,"Praecisio","begriff"],
+ ["Begriff","Species","I (met.)",null,null,"ref",2966,"Species","begriff"],
+ ["Begriff","Vorstellung","I B",null,null,"ref",3503,"Vorstellung","begriff"],
+ ["Begriff","An sich/für sich","","1","354","ref",167,"An sich/für sich; an und für sich","begriff"],
+ ["Begriff","Causa sui","","1","977","ref",479,"Causa sui","begriff"],
+ ["Begriff","Eine, das; Einheit","III","2","380","ref",675,"Eine (das), Einheit","begriff"],
+ ["Begriff","Gegenstand","II (log.)","3","134","ref",1020,"Gegenstand","begriff"],
+ [
+  "Begriff","Logik, philosophische","","5","454","ref",1817,"Logik, philosophische, in der Neuzeit",
+  "begriff"
+ ],
+ ["Begriff","Topik","III","10","1284","ref",3203,"Topik; Topos","begriff"],
+ [
+  "Begriff","Vorgriff; Vorhabe; Vorsicht","(Heidegger)","11","1189","ref",3493,
+  "Vorgriff; Vorhabe; Vorsicht","begriff"
+ ],
  [
   "Begriff/Anschauung","Allgemeines/Besonderes","III 2","1","181ff.","ref",101,
   "Allgemeines/Besonderes","begriff/anschauung"
@@ -463,11 +476,28 @@ HWPH.put("r/62-65",
   "Theologie, politische","begriffe, sakularisierte theologische"
  ],
  ["Begriffsanalyse","Analyse/Synthese","","1","233","ref",126,"Analyse/Synthese","begriffsanalyse"],
+ [
+  "Begriffsanwendung","Idealisierung/Realisierung","",null,null,"ref",1342,
+  "Idealisierung/Realisierung","begriffsanwendung"
+ ],
  ["Begriffsbestimmung","Definition","II",null,null,"ref",535,"Definition","begriffsbestimmung"],
  ["Begriffsbestimmung","Injunktion","",null,null,"ref",1439,"Injunktion","begriffsbestimmung"],
  ["Begriffsbildung","Begriffsbildung","","1","787f.","main",366,"Begriffsbildung","begriffsbildung"],
  ["Begriffsbildung","Denkpsychologie","",null,null,"see",558,"Denkpsychologie","begriffsbildung"],
- ["Begriffsbildung","Konzept II Begriffsbildung","",null,null,"see",null,null,"begriffsbildung"],
+ ["Begriffsbildung","Konzept","II",null,null,"see",1655,"Konzept, konzeptibel","begriffsbildung"],
+ ["Begriffsbildung","Abstraktion","",null,null,"ref",31,"Abstraktion","begriffsbildung"],
+ [
+  "Begriffsbildung","Incomplexum/complexum","","4","278","ref",1407,"Incomplexum/complexum",
+  "begriffsbildung"
+ ],
+ [
+  "Begriffsbildung","Logik, transzendentale","","5","472f.","ref",1819,"Logik, transzendentale",
+  "begriffsbildung"
+ ],
+ [
+  "Begriffsbildung","Schema; Schematismus","I (allg.)","8","1254","ref",2760,"Schema, Schematismus",
+  "begriffsbildung"
+ ],
  [
   "Begriffsbildung, soziologische","Idealtypus","(Weber)",null,null,"ref",1357,"Idealtypus",
   "begriffsbildung, soziologische"
@@ -600,7 +630,7 @@ HWPH.put("r/62-65",
  ["Begründung","Letztbegründung","",null,null,"ref",1784,"Letztbegründung","begrundung"],
  ["Begründung","Prophasis","",null,null,"ref",2481,"Prophasis","begrundung"],
  ["Begründung","Rechtfertigung","",null,null,"ref",2601,"Rechtfertigung","begrundung"],
- ["Begründung","Erklären II (wiss.)","","2","696","ref",801,"Erklären, Erklärung","begrundung"],
+ ["Begründung","Erklären","II (wiss.)","2","696","ref",801,"Erklären, Erklärung","begrundung"],
  ["Begründung","Grundlagenstreit","","3","915","ref",1193,"Grundlagenstreit","begrundung"],
  [
   "Begründung, absolute","Letztbegründung","","5","252","ref",1784,"Letztbegründung",
@@ -769,10 +799,14 @@ HWPH.put("r/62-65",
   "Annahme, tatsachenwidrige","belief-contravening"
  ],
  ["belief-system","Transzendental","XI","10","1424","ref",3219,"Transzendental","belief-system"],
- ["belle âme","Seele","",null,null,"ref",2794,"Seele","belle ame"],
+ ["belle âme","Seele, schöne","",null,null,"ref",2794,"Seele","belle ame"],
+ [
+  "belles-lettres","Wissenschaften, schöne","","12","955f.","ref",3639,"Wissenschaften, schöne",
+  "belles-lettres"
+ ],
  ["bellum iustum","Krieg","I",null,null,"ref",1690,"Krieg","bellum iustum"],
  ["Belohnung","Belohnung","","1","830f.","main",385,"Belohnung","belohnung"],
- ["Belohnung","Lohn I (allg.)","",null,null,"see",1828,"Lohn, Verdienst","belohnung"],
+ ["Belohnung","Lohn","I (allg.)",null,null,"see",1828,"Lohn, Verdienst","belohnung"],
  ["Belohnung","Strafe","IV",null,null,"see",3035,"Strafe","belohnung"],
  ["Bemerken","Aufmerksamkeit","",null,null,"ref",290,"Aufmerksamkeit","bemerken"],
  ["Bemerken","Empfindung","II (psych.)","2","473","ref",723,"Empfindung","bemerken"],
@@ -929,10 +963,15 @@ HWPH.put("r/62-65",
  ["Beschauung; Schauen","Visio","",null,null,"see",3468,"Visio","beschauung; schauen"],
  ["Bescheidenheit","Bescheidenheit","","1","837f.","main",394,"Bescheidenheit","bescheidenheit"],
  ["Bescheidenheit","Demut","",null,null,"see",550,"Demut","bescheidenheit"],
- ["Bescheidenheit","Mässigkeit Bescheidenheit","",null,null,"see",null,null,"bescheidenheit"],
+ ["Bescheidenheit","Mässigkeit","",null,null,"see",1881,"Mäßigkeit","bescheidenheit"],
+ ["Bescheidenheit","Grund","","3","904","ref",1191,"Grund","bescheidenheit"],
+ [
+  "Bescheidenheit","Vernunft; Verstand","III E","11","788","ref",3423,"Vernunft; Verstand",
+  "bescheidenheit"
+ ],
  ["Beschleunigung","Technik","","10","950","ref",3139,"Technik","beschleunigung"],
  [
-  "Beschränktheit","Bestimmung; Determination I (met.)","","1","854","ref",400,
+  "Beschränktheit","Bestimmung; Determination","I (met.)","1","854","ref",400,
   "Bestimmung, bestimmen, Determination","beschranktheit"
  ],
  [
@@ -945,7 +984,7 @@ HWPH.put("r/62-65",
   "Beschreibung","Methode, deskriptive","",null,null,"see",1958,"Methode, deskriptive",
   "beschreibung"
  ],
- ["Beschreibung","Erklären I (Dilthey)","","2","692","ref",801,"Erklären, Erklärung","beschreibung"],
+ ["Beschreibung","Erklären","I (Dilthey)","2","692","ref",801,"Erklären, Erklärung","beschreibung"],
  ["Beschreibung","Theorie","II","10","1146","ref",3179,"Theorie","beschreibung"],
  [
   "Beschreibung","Voraussage","","11","1153","ref",3487,"Voraussage; Vorhersage; Prognose",
@@ -1010,7 +1049,8 @@ HWPH.put("r/62-65",
  ["Bestätigung","Verifikation","I",null,null,"see",3409,"Verifikation","bestatigung"],
  ["Bestätigung","Zustimmung","II",null,null,"see",3715,"Zustimmung","bestatigung"],
  ["Bestechlichkeit","Korruption","",null,null,"ref",1673,"Korruption","bestechlichkeit"],
- ["bestia","Tier Bestialität","",null,null,"ref",null,null,"bestia"],
+ ["bestia","Tier","",null,null,"ref",3192,"Tier; Tierseele","bestia"],
+ ["Bestialität","Zorn","I","12","1383","ref",3702,"Zorn","bestialitat"],
  [
   "bestialitas","Wildheit; Grausamkeit","","12","756","ref",3619,"Wildheit; Grausamkeit; Rohheit",
   "bestialitas"
@@ -1019,13 +1059,31 @@ HWPH.put("r/62-65",
  ["Bestimmte, das","Etwas","","2","815","ref",841,"Etwas","bestimmte, das"],
  ["Bestimmtheit","Qualität","III","7","1775","ref",2544,"Qualität","bestimmtheit"],
  [
-  "Bestimmtheit, maximale","Erklären II (wiss.)","","2","699","ref",801,"Erklären, Erklärung",
+  "Bestimmtheit, maximale","Erklären","II (wiss.)","2","699","ref",801,"Erklären, Erklärung",
   "bestimmtheit, maximale"
  ],
  [
   "Bestimmung; Determination","Bestimmung; Determination","","1","850–856","main",399,"Bestätigung",
   "bestimmung; determination"
  ],
+ [
+  "Bestimmung; Determination","Akt/Potenz","",null,null,"see",83,"Akt/Potenz",
+  "bestimmung; determination"
+ ],
+ [
+  "Bestimmung; Determination","Form und Materie","",null,null,"see",939,"Form und Materie (Stoff)",
+  "bestimmung; determination"
+ ],
+ [
+  "Bestimmung; Determination","Extensionalitätsthese","(Carnap)",null,null,"see",881,
+  "Extensionalitätsthese","bestimmung; determination"
+ ],
+ [
+  "Bestimmung; Determination","Kennzeichnung","",null,null,"see",1558,
+  "Kennzeichnung, Kennzeichnungstheorie","bestimmung; determination"
+ ],
+ ["Bestimmung","Selbstbestimmung","","9","335f.","ref",2826,"Selbstbestimmung","bestimmung"],
+ ["Bestimmung","Setzen","I","9","697f.","ref",2876,"Setzen, Setzung","bestimmung"],
  [
   "Bestimmung, durchgängige","Individuum; Individualität","III","4","312f.","ref",1424,
   "Individuum, Individualität","bestimmung, durchgangige"
@@ -1154,7 +1212,7 @@ HWPH.put("r/62-65",
  ],
  ["Bewegung","Naturphilosophie","II","6","539ff.","ref",2088,"Naturphilosophie","bewegung"],
  ["Bewegung","Nisus","","6","857f.","ref",2141,"Nisus","bewegung"],
- ["Bewegung","Prozess I 3 (hist.)","","7","1550","ref",2499,"Prozeß","bewegung"],
+ ["Bewegung","Prozess","I 3 (hist.)","7","1550","ref",2499,"Prozeß","bewegung"],
  ["Bewegung","Quantität","I","7","1794","ref",2552,"Quantität","bewegung"],
  ["Bewegung","Quantität","III","7","1809","ref",2552,"Quantität","bewegung"],
  ["Bewegung","Raum","II","8","84","ref",2578,"Raum","bewegung"],
@@ -1166,6 +1224,12 @@ HWPH.put("r/62-65",
  ["Bewegung/Ruhe","Augenblick","(Kierkegaard)","1","649","ref",295,"Augenblick","bewegung/ruhe"],
  ["Bewegung/Ruhe","Bewegung","I","1","865f.","ref",408,"Bewegung","bewegung/ruhe"],
  ["Bewegung/Ruhe","Bewegung","III","1","872","ref",408,"Bewegung","bewegung/ruhe"],
+ ["Bewegung/Ruhe","Kontinuitätsgesetz","","4","1043","ref",1639,"Kontinuitätsgesetz","bewegung/ruhe"],
+ ["Bewegung/Ruhe","Natur","I","6","430","ref",2074,"Natur","bewegung/ruhe"],
+ ["Bewegung/Ruhe","Wandel","","12","312","ref",3543,"Wandel; Veränderung","bewegung/ruhe"],
+ ["Bewegung/Ruhe","Werden/Vergehen","","12","544","ref",3585,"Werden/Vergehen","bewegung/ruhe"],
+ ["Bewegung/Ruhe","Zeit","III A","12","1215","ref",3676,"Zeit","bewegung/ruhe"],
+ ["Bewegung/Ruhe","Zwischen","","12","1544f.","ref",3727,"Zwischen","bewegung/ruhe"],
  [
   "Bewegung, deutsche","Idealismus, Deutscher","","4","36","ref",1346,"Idealismus, Deutscher",
   "bewegung, deutsche"
@@ -1233,8 +1297,12 @@ HWPH.put("r/62-65",
   "Progressiv/regressiv","beweis, progressiver/regressiver"
  ],
  [
-  "Beweis a priori/a posteriori","Apriori/aposteriori I Beweis ex auctoritate","",null,null,"ref",
-  222,"Apriori, emotionales","beweis a priori/a posteriori"
+  "Beweis a priori/a posteriori","Apriori/aposteriori","I",null,null,"ref",222,
+  "Apriori, emotionales","beweis a priori/a posteriori"
+ ],
+ [
+  "Beweis ex auctoritate","Autorität","I (rhet.)",null,null,"ref",333,"Autorität",
+  "beweis ex auctoritate"
  ],
  [
   "Beweis für das Dasein Gottes","Gottesbeweis","",null,null,"ref",1165,"Gottesbeweis",
@@ -1245,7 +1313,10 @@ HWPH.put("r/62-65",
   "beweisbar"
  ],
  ["beweisbar","Postulat","",null,null,"ref",2418,"Postulat","beweisbar"],
- ["Beweisfehler","Irrtum","(Schlussfehler)",null,null,"ref",1499,"Irrtum","beweisfehler"],
+ [
+  "Beweisfehler","Irrtum (Schlussfehler)","",null,null,"ref",1500,"Irrtum (Schlußfehler)",
+  "beweisfehler"
+ ],
  ["Beweisfehler","Proton Pseudos","",null,null,"ref",2493,"Proton Pseudos","beweisfehler"],
  ["Beweisfehler","Beweis","","1","884","ref",410,"Beweis","beweisfehler"],
  [
@@ -1277,8 +1348,13 @@ HWPH.put("r/62-65",
   "Psychologie, transzendentale","bewusste, das rein"
  ],
  [
-  "Bewusstheit","Bewusstseinsinhalte, unanschauliche bewusstlos","",null,null,"ref",417,
+  "Bewusstheit","Bewusstseinsinhalte, unanschauliche","",null,null,"ref",417,
   "Bewußtseinsinhalte, unanschauliche (Bewußtheit, Bewußtseinslage)","bewusstheit"
+ ],
+ ["bewusstlos","Unbewusste, das","","11","124","ref",3286,"Unbewußtes; das Unbewußte","bewusstlos"],
+ [
+  "Bewusstmachung des Unbewussten","Psychoanalyse","I","7","1572","ref",2506,"Psychoanalyse",
+  "bewusstmachung des unbewussten"
  ],
  ["Bewusstsein","Bewusstsein","","1","888–896","main",412,"Bewußtsein","bewusstsein"],
  [
@@ -1295,20 +1371,20 @@ HWPH.put("r/62-65",
   "bewusstsein, asthetisches"
  ],
  [
-  "Bewusstsein, antizipierendes (Bloch)","Bewusstsein, antizipierendes (Bloch)","","1","896f.",
-  "main",412,"Bewußtsein","bewusstsein, antizipierendes (bloch)"
+  "Bewusstsein, antizipierendes","Bewusstsein, antizipierendes","(Bloch)","1","896f.","main",413,
+  "Bewußtsein, antizipierendes","bewusstsein, antizipierendes"
  ],
  [
-  "Bewusstsein, antizipierendes (Bloch)","Gleichzeitigkeit","II (Bloch)",null,null,"see",1151,
-  "Gleichzeitigkeit","bewusstsein, antizipierendes (bloch)"
+  "Bewusstsein, antizipierendes","Gleichzeitigkeit","II (Bloch)",null,null,"see",1151,
+  "Gleichzeitigkeit","bewusstsein, antizipierendes"
  ],
  [
-  "Bewusstsein, antizipierendes (Bloch)","Noch-Nicht-Sein","(Bloch)",null,null,"see",2144,
-  "Noch-Nicht-Sein","bewusstsein, antizipierendes (bloch)"
+  "Bewusstsein, antizipierendes","Noch-Nicht-Sein","(Bloch)",null,null,"see",2144,"Noch-Nicht-Sein",
+  "bewusstsein, antizipierendes"
  ],
  [
-  "Bewusstsein, antizipierendes (Bloch)","Vorschein","(Bloch)",null,null,"see",3498,"Vorschein",
-  "bewusstsein, antizipierendes (bloch)"
+  "Bewusstsein, antizipierendes","Vorschein","(Bloch)",null,null,"see",3498,"Vorschein",
+  "bewusstsein, antizipierendes"
  ],
  [
   "Bewusstsein, begleitendes","Gewissen","",null,null,"ref",1130,"Gewissen",
@@ -1319,26 +1395,29 @@ HWPH.put("r/62-65",
   "bewusstsein, doppeltes"
  ],
  [
-  "Bewusstsein, doxisches","Neutralisierung (Husserl)","","6","781","ref",2130,
-  "Neutralisierungen, Zeitalter der","bewusstsein, doxisches"
+  "Bewusstsein, doxisches","Neutralisierung","(Husserl)","6","781","ref",2129,
+  "Neutralisierung (neutrales Bewußtsein)","bewusstsein, doxisches"
  ],
  ["Bewusstsein, falsches","Ideologie","II",null,null,"ref",1373,"Ideologie","bewusstsein, falsches"],
  [
-  "Bewusstsein, geschichtliches (Dilthey)","Bewusstsein, geschichtliches (Dilthey)","","1","897f.",
-  "main",414,"Bewußtsein, geschichtliches bzw. historisches",
-  "bewusstsein, geschichtliches (dilthey)"
+  "Bewusstsein, geschichtliches","Bewusstsein, geschichtliches","(Dilthey)","1","897f.","main",414,
+  "Bewußtsein, geschichtliches bzw. historisches","bewusstsein, geschichtliches"
  ],
  [
-  "Bewusstsein, geschichtliches (Dilthey)","Bewusstseinsstellung (Dilthey)","",null,null,"see",419,
-  "Bewußtseinsstellung","bewusstsein, geschichtliches (dilthey)"
+  "Bewusstsein, geschichtliches","Bewusstseinsstellung","(Dilthey)",null,null,"see",419,
+  "Bewußtseinsstellung","bewusstsein, geschichtliches"
  ],
  [
-  "Bewusstsein, geschichtliches (Dilthey)","Lebendigkeit","",null,null,"see",1737,"Lebendigkeit",
-  "bewusstsein, geschichtliches (dilthey)"
+  "Bewusstsein, geschichtliches","Lebendigkeit","",null,null,"see",1737,"Lebendigkeit",
+  "bewusstsein, geschichtliches"
  ],
  [
-  "Bewusstsein, geschichtliches (Dilthey)","Stand","",null,null,"see",3008,"Stand",
-  "bewusstsein, geschichtliches (dilthey)"
+  "Bewusstsein, geschichtliches","Stand des Bewusstseins","(Dilthey)",null,null,"see",3009,
+  "Stand des Bewußtseins","bewusstsein, geschichtliches"
+ ],
+ [
+  "Bewusstsein, geschichtliches","Wirkungszusammenhang, historischer","(Dilthey)",null,null,"see",
+  3632,"Wirkungszusammenhang, historischer","bewusstsein, geschichtliches"
  ],
  [
   "Bewusstsein, gesellschaftliches","Psychologie","","7","1619","ref",2511,"Psychologie",
@@ -1349,14 +1428,17 @@ HWPH.put("r/62-65",
   "bewusstsein, historisches"
  ],
  [
-  "Bewusstsein, ideatives/instrumentelles (Gehlen)",
-  "Bewusstsein, ideatives/instrumentelles (Gehlen)","","1","898f.","main",414,
-  "Bewußtsein, geschichtliches bzw. historisches","bewusstsein, ideatives/instrumentelles (gehlen)"
+  "Bewusstsein, ideatives/instrumentelles","Bewusstsein, ideatives/instrumentelles","(Gehlen)","1",
+  "898f.","main",415,"Bewußtsein, ideatives/instrumentelles",
+  "bewusstsein, ideatives/instrumentelles"
  ],
  [
-  "Bewusstsein, ideatives/instrumentelles (Gehlen)",
-  "Zweckmässigkeit, sekundäre objektive (Gehlen) Bewusstsein, intentionales","",null,null,"see",3719,
-  "Zweckmäßigkeit, sekundäre objektive","bewusstsein, ideatives/instrumentelles (gehlen)"
+  "Bewusstsein, ideatives/instrumentelles","Zweckmässigkeit, sekundäre objektive","(Gehlen)",null,
+  null,"see",3719,"Zweckmäßigkeit, sekundäre objektive","bewusstsein, ideatives/instrumentelles"
+ ],
+ [
+  "Bewusstsein, intentionales","Daseinsfeld","(Janssen)",null,null,"ref",529,"Daseinsfeld",
+  "bewusstsein, intentionales"
  ],
  [
   "Bewusstsein, kritisches","Persönlichkeit","I (allg.)","7","350","ref",2322,"Persönlichkeit",
@@ -1367,29 +1449,32 @@ HWPH.put("r/62-65",
   "bewusstsein, moralisches"
  ],
  [
-  "Bewusstsein, neutrales","Neutralisierung (Husserl) Bewusstsein, nicht-immanentes","",null,null,
-  "ref",null,null,"bewusstsein, neutrales"
- ],
- ["Besonnenheit","Besonnenheit","II","1","849","main",397,"Besonnenheit","besonnenheit"],
- [
-  "Bewusstsein, positionales (Husserl)","Bewusstsein, positionales (Husserl)","","1","899f.","main",
-  416,"Bewußtsein, positionales","bewusstsein, positionales (husserl)"
+  "Bewusstsein, neutrales","Neutralisierung","(Husserl)",null,null,"ref",2129,
+  "Neutralisierung (neutrales Bewußtsein)","bewusstsein, neutrales"
  ],
  [
-  "Bewusstsein, positionales (Husserl)","Neutralisierung (Husserl)","",null,null,"see",null,null,
-  "bewusstsein, positionales (husserl)"
+  "Bewusstsein, nicht-immanentes","Besonnenheit","II","1","849","ref",397,"Besonnenheit",
+  "bewusstsein, nicht-immanentes"
  ],
  [
-  "Bewusstsein, positionales (Husserl)","Setzen II","",null,null,"see",2876,"Setzen, Setzung",
-  "bewusstsein, positionales (husserl)"
+  "Bewusstsein, positionales","Bewusstsein, positionales","(Husserl)","1","899f.","main",416,
+  "Bewußtsein, positionales","bewusstsein, positionales"
  ],
  [
-  "Bewusstsein, positionales (Husserl)","Thema","II (phän.)",null,null,"see",3165,"Thema",
-  "bewusstsein, positionales (husserl)"
+  "Bewusstsein, positionales","Neutralisierung","(Husserl)",null,null,"see",2129,
+  "Neutralisierung (neutrales Bewußtsein)","bewusstsein, positionales"
  ],
  [
-  "Bewusstsein, positionales (Husserl)","Urdoxa","(Husserl)",null,null,"see",3341,"Urdoxa",
-  "bewusstsein, positionales (husserl)"
+  "Bewusstsein, positionales","Setzen","II",null,null,"see",2876,"Setzen, Setzung",
+  "bewusstsein, positionales"
+ ],
+ [
+  "Bewusstsein, positionales","Thema","II (phän.)",null,null,"see",3165,"Thema",
+  "bewusstsein, positionales"
+ ],
+ [
+  "Bewusstsein, positionales","Urdoxa","(Husserl)",null,null,"see",3341,"Urdoxa",
+  "bewusstsein, positionales"
  ],
  [
   "Bewusstsein, reines","Subjektivität, transzendentale","(Husserl)",null,null,"ref",3053,
@@ -1421,7 +1506,7 @@ HWPH.put("r/62-65",
   "Bewußtsein, transzendentales","bewusstsein, transzendentales"
  ],
  [
-  "Bewusstsein, transzendentales","Absolutsphäre des Bewusstseins (Husserl)","",null,null,"see",29,
+  "Bewusstsein, transzendentales","Absolutsphäre des Bewusstseins","(Husserl)",null,null,"see",29,
   "Absolutsphäre des Bewußtseins","bewusstsein, transzendentales"
  ],
  [
@@ -1433,24 +1518,28 @@ HWPH.put("r/62-65",
   "Phänomenologie, transzendentale","bewusstsein, transzendentales"
  ],
  [
-  "Bewusstsein, unglückliches (Hegel)","Bewusstsein, unglückliches (Hegel)","","1","905f.","main",
-  422,"Bewußtsein, unglückliches","bewusstsein, ungluckliches (hegel)"
+  "Bewusstsein, unglückliches","Bewusstsein, unglückliches","(Hegel)","1","905f.","main",422,
+  "Bewußtsein, unglückliches","bewusstsein, ungluckliches"
  ],
  [
   "Bewusstsein, unmittelbares","Anschauung, intellektuelle","","1","349","ref",163,
   "Anschauung, intellektuelle","bewusstsein, unmittelbares"
  ],
  [
-  "Bewusstsein, utopisches (Mannheim)","Bewusstsein, utopisches (Mannheim)","","1","906","main",423,
-  "Bewußtsein, utopisches","bewusstsein, utopisches (mannheim)"
+  "Bewusstsein, utopisches","Bewusstsein, utopisches","(Mannheim)","1","906","main",423,
+  "Bewußtsein, utopisches","bewusstsein, utopisches"
  ],
  [
-  "Bewusstsein, utopisches (Mannheim)","Noch-Nicht-Sein","(Bloch)",null,null,"see",2144,
-  "Noch-Nicht-Sein","bewusstsein, utopisches (mannheim)"
+  "Bewusstsein, utopisches","Noch-Nicht-Sein","(Bloch)",null,null,"see",2144,"Noch-Nicht-Sein",
+  "bewusstsein, utopisches"
  ],
  [
-  "Bewusstsein, utopisches (Mannheim)","Seinsverbundenheit (Mannheim) Bewusstsein, wachstes","",null,
-  null,"see",null,null,"bewusstsein, utopisches (mannheim)"
+  "Bewusstsein, utopisches","Seinsverbundenheit","(Mannheim)",null,null,"see",2814,
+  "Seinsverbundenheit; Seinsgebundenheit","bewusstsein, utopisches"
+ ],
+ [
+  "Bewusstsein, wachstes","Somnambulismus","","9","1062","ref",2923,"Somnambulismus, somnambul",
+  "bewusstsein, wachstes"
  ],
  [
   "Bewusstsein, wirkungsgeschichtliches","Wirkungsgeschichte","","12","846f.","ref",3629,
@@ -1511,7 +1600,11 @@ HWPH.put("r/62-65",
   "Bewusstseinslage","Bewusstseinsinhalte, unanschauliche","",null,null,"ref",417,
   "Bewußtseinsinhalte, unanschauliche (Bewußtheit, Bewußtseinslage)","bewusstseinslage"
  ],
- ["Bewusstseinslage","Stand","",null,null,"ref",3008,"Stand","bewusstseinslage"],
+ [
+  "Bewusstseinslage","Stand des Bewusstseins","(Dilthey)",null,null,"ref",3009,
+  "Stand des Bewußtseins","bewusstseinslage"
+ ],
+ ["Bewusstseinslage","Einstellung","I (psych.)","2","418","ref",691,"Einstellung","bewusstseinslage"],
  [
   "Bewusstseinsmonismus","Bewusstseinsmonismus","","1","901f.","main",418,"Bewußtseinsmonismus",
   "bewusstseinsmonismus"
@@ -1529,7 +1622,22 @@ HWPH.put("r/62-65",
   "Bewusstseinsschwelle","Unbewusste, das","","11","128","ref",3286,"Unbewußtes; das Unbewußte",
   "bewusstseinsschwelle"
  ],
- ["Bewusstseinsstand","Stand","",null,null,"ref",3008,"Stand","bewusstseinsstand"],
+ [
+  "Bewusstseinsstand","Stand des Bewusstseins","(Dilthey)",null,null,"ref",3009,
+  "Stand des Bewußtseins","bewusstseinsstand"
+ ],
+ [
+  "Bewusstseinsstellung","Bewusstseinsstellung","(Dilthey)","1","902f.","main",419,
+  "Bewußtseinsstellung","bewusstseinsstellung"
+ ],
+ [
+  "Bewusstseinsstellung","Bewusstsein, geschichtliches","(Dilthey)",null,null,"see",412,"Bewußtsein",
+  "bewusstseinsstellung"
+ ],
+ [
+  "Bewusstseinsstellung","Weltanschauung","",null,null,"see",3560,"Weltanschauung",
+  "bewusstseinsstellung"
+ ],
  [
   "Bewusstseinsstörung","Bewusstseinsstörung","","1","903f.","main",420,"Bewußtseinsstörung",
   "bewusstseinsstorung"
@@ -1564,8 +1672,12 @@ HWPH.put("r/62-65",
   "bewusstseinstatsachen"
  ],
  [
-  "Bewusstseinstrübung","Bewusstseinsstörung Bewusstseinsumfang","",null,null,"ref",null,null,
+  "Bewusstseinstrübung","Bewusstseinsstörung","",null,null,"ref",420,"Bewußtseinsstörung",
   "bewusstseinstrubung"
+ ],
+ [
+  "Bewusstseinsumfang","Aufmerksamkeitsspanne","","1","645","ref",291,"Aufmerksamkeitsspanne",
+  "bewusstseinsumfang"
  ],
  [
   "Bewusstseinsvorgänge","Kognition","",null,null,"ref",1578,"Kognition, kognitiv",
@@ -1636,33 +1748,7 @@ HWPH.put("r/62-65",
  ],
  ["Bezugssystem","Bezugssystem","","1","910–912","main",429,"Bezugssystem","bezugssystem"],
  ["Bezugssystem","Lokalisation","",null,null,"see",1829,"Lokalisation","bezugssystem"],
- ["Bezugssystem","Horizont","III",null,null,"ref",1310,"Horizont","bezugssystem"],
- ["Beweis","Beweis","",null,null,"main",410,"Beweis","beweis"],
- ["Beweis","Topik","II","10","1273","ref",3203,"Topik; Topos","beweis"],
- [
-  "Begriffsinhalt/Begriffsumfang","Begriffsinhalt/Begriffsumfang","",null,null,"main",369,
-  "Begriffsinhalt/Begriffsumfang","begriffsinhalt/begriffsumfang"
- ],
- [
-  "Beziehung, interne/externe","Beziehung, interne/externe","",null,null,"main",427,
-  "Beziehung, interne/externe","beziehung, interne/externe"
- ],
- ["Beweis","Beweis","","1","884","main",410,"Beweis","beweis"],
- [
-  "Begriffsinhalt/Begriffsumfang","Begriffsinhalt/Begriffsumfang","",null,null,"main",369,
-  "Begriffsinhalt/Begriffsumfang","begriffsinhalt/begriffsumfang"
- ],
- [
-  "Begriffsinhalt/Begriffsumfang","Vorsatz","",null,null,"ref",3497,"Vorsatz",
-  "begriffsinhalt/begriffsumfang"
- ],
- ["Belohnung","Belohnung","",null,null,"main",385,"Belohnung","belohnung"],
- [
-  "Begriffsgeschichte","Begriffsgeschichte","","1","800","main",368,"Begriffsgeschichte",
-  "begriffsgeschichte"
- ],
- ["Bewegung","Bewegung","",null,null,"main",408,"Bewegung","bewegung"],
- ["Bewegung","Schöne","",null,null,"ref",2776,"Schöne","bewegung"],
+ ["Bezugssystem","Horizont","III 3 (Heidegger)","3","1202","ref",1310,"Horizont","bezugssystem"],
  [
   "Beispiel; Exempel","Beispiel; Exempel","",null,null,"main",379,"Beispiel, Exempel, exemplarisch",
   "beispiel; exempel"
@@ -1672,48 +1758,20 @@ HWPH.put("r/62-65",
   "beispiel; exempel"
  ],
  ["Beispiel; Exempel","Urbild","",null,null,"ref",3339,"Urbild","beispiel; exempel"],
- ["Bedürfnis","Bedürfnis","II","1","768","main",355,"Bedürfnis","bedurfnis"],
- ["Bedeutung","Bedeutung","",null,null,"main",348,"Bedeutung","bedeutung"],
+ ["Bedeutung/Potenz","Bedeutung/Potenz","",null,null,"main",348,"Bedeutung","bedeutung/potenz"],
  [
-  "Bewusstseinsstellung (Dilthey) Stellung des Menschen",
-  "Bewusstseinsstellung (Dilthey) Stellung des Menschen","",null,null,"main",null,null,
-  "bewusstseinsstellung (dilthey) stellung des menschen"
+  "Bedeutung/Potenz","Reiz und Reaktion","",null,null,"ref",2662,"Reiz und Reaktion",
+  "bedeutung/potenz"
  ],
  [
-  "Bewusstseinsstörung","Bewusstseinsstörung","","1","903","main",420,"Bewußtseinsstörung",
-  "bewusstseinsstorung"
+  "Bedeutung/Potenz","Selbstorganisation","",null,null,"ref",2844,"Selbstorganisation",
+  "bedeutung/potenz"
  ],
- ["Begriff","Begriff","II (log.)",null,null,"main",365,"Begriff","begriff"],
- ["Begriff","Unbestimmtheit","",null,null,"ref",3285,"Unbestimmtheit","begriff"],
- ["Begriff","Identität","II","4","147","ref",1366,"Identität","begriff"],
- ["Begriff","Tautologie","","10","933","ref",3137,"Tautologie","begriff"],
+ ["Bedeutung/Potenz","Steuerung","I (biol.)",null,null,"ref",3023,"Steuerung","bedeutung/potenz"],
+ ["Bedeutung/Potenz","Stoffwechsel","",null,null,"ref",3032,"Stoffwechsel","bedeutung/potenz"],
  [
-  "Bewusstsein, antizipierendes (Bloch)","Bewusstsein, antizipierendes (Bloch)","","1","896","main",
-  412,"Bewußtsein","bewusstsein, antizipierendes (bloch)"
- ],
- [
-  "Bewusstsein, antizipierendes (Bloch)","Geschichtsauffassung, materialistische","","3","409","ref",
-  1091,"Geschichtsauffassung, materialistische","bewusstsein, antizipierendes (bloch)"
- ],
- [
-  "Bewusstsein, antizipierendes (Bloch)","Kunst; Kunstwerk","IV","4","1403ff.","ref",1712,
-  "Kunst, Kunstwerk","bewusstsein, antizipierendes (bloch)"
- ],
- [
-  "Bewusstsein, antizipierendes (Bloch)","Liebe","IV","5","323","ref",1795,"Liebe",
-  "bewusstsein, antizipierendes (bloch)"
- ],
- [
-  "Bewusstsein, antizipierendes (Bloch)","Marxismus","II","5","769","ref",1871,"Marxismus",
-  "bewusstsein, antizipierendes (bloch)"
- ],
- [
-  "Bewusstsein, antizipierendes (Bloch)","Struktur","II (frz. Struktural.)","10","318","ref",3040,
-  "Struktur","bewusstsein, antizipierendes (bloch)"
- ],
- [
-  "Bewusstseinsstellung (Dilthey)","Bewusstseinsstellung (Dilthey)","","1","902","main",419,
-  "Bewußtseinsstellung","bewusstseinsstellung (dilthey)"
+  "Bewusstseinsstellung","Bewusstseinsstellung","(Dilthey)","1","902","main",419,
+  "Bewußtseinsstellung","bewusstseinsstellung"
  ],
  ["Beck Heinrich","Ganzes/Teil","V","3","17–20","author",986,"Ganzes/Teil","beck heinrich"],
  [
@@ -1721,9 +1779,9 @@ HWPH.put("r/62-65",
   "becker bernd"
  ],
  ["Beckmann Jan P","Haecceitas","","3","985f.","author",1210,"Haecceitas","beckmann jan p"],
- ["Beckmann Jan P","Idee","II B",null,null,"author",1361,"Idee","beckmann jan p"],
+ ["Beckmann Jan P","Idee","II B 9.",null,null,"author",1361,"Idee","beckmann jan p"],
  [
-  "Beckmann Jan P","Prozess II (Whitehead)","","7","1558–1560","author",2499,"Prozeß",
+  "Beckmann Jan P","Prozess","II (Whitehead)","7","1558–1560","author",2499,"Prozeß",
   "beckmann jan p"
  ],
  ["Beelmann Axel","Subjektivismus","","10","453–457","author",3051,"Subjektivismus","beelmann axel"],
@@ -1814,7 +1872,7 @@ HWPH.put("r/62-65",
  ],
  ["Belaval Yvon","Optimismus","I","6","1240f.","author",2231,"Optimismus","belaval yvon"],
  [
-  "Belaval Yvon","Regelmässigkeitsvoraussetzung (Leibniz)","","8","473f.","author",2644,
+  "Belaval Yvon","Regelmässigkeitsvoraussetzung","(Leibniz)","8","473f.","author",2644,
   "Regelmäßigkeitsvoraussetzung","belaval yvon"
  ],
  [

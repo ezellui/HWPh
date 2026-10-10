@@ -34,12 +34,9 @@ HWPH.put("a/1727",
   {"term":"boredom","qualifier":"","band":null,"col":null},
   {"term":"Dämonische, das","qualifier":"","band":"5","col":"30"},
   {"term":"ennui","qualifier":"","band":null,"col":null},
-  {"term":"inneres","qualifier":"","band":"5","col":"28–32"},
   {"term":"Nichtigkeit","qualifier":"","band":"5","col":"29"},
   {"term":"noia","qualifier":"","band":null,"col":null},
-  {"term":"taedium","qualifier":"","band":null,"col":null},
-  {"term":"– I (anthr.) 12 1310–1315 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (myst.) 5 157f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"taedium","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":895,"name":"W. Rehm","b":3,"n":4,"l":1,"editor":0,"role":"scholar"},
@@ -112,7 +109,7 @@ HWPH.put("a/1727",
   {"id":410,"lemma":"Beweis","tf":2},
   {"id":125,"lemma":"Analyse","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":699,"lemma":"Ekel"},{"id":1758,"lemma":"Leere"},{"id":3690,"lemma":"Zerstreuung"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Langeweile"}],
  "reg_authors":[{"name":"Lessing Hans-Ulrich","n":11}]
 }

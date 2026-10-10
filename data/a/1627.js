@@ -51,6 +51,6 @@ HWPH.put("a/1627",
   {"id":33,"name":"Politische Theorie","label":"Konstitutionalismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Konstitutionalismus"}
  ],
- "reg_authors":[{"name":"Brockhaus Klaus","n":5},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Brockhaus Klaus","n":5},{"name":"Red","n":241}]
 }
 );

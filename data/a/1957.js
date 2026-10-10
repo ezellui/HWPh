@@ -37,7 +37,6 @@ HWPH.put("a/1957",
   {"term":"deduktives System","qualifier":"","band":null,"col":null},
   {"term":"Definition, implizite","qualifier":"","band":"5","col":"1338"},
   {"term":"Konsistenz","qualifier":"","band":"5","col":"1337"},
-  {"term":"Modelltheorie 6 50–54 – I (log.) 6 50–52 s. auch","qualifier":"","band":null,"col":null},
   {"term":"System, deduktives","qualifier":"","band":null,"col":null},
   {"term":"Widerspruchsfreiheit","qualifier":"","band":"5","col":"1337"}
  ],

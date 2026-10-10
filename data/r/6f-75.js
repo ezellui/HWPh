@@ -1,5 +1,6 @@
 HWPH.put("r/6f-75",
 [
+ ["où","Wo; wann oubli","",null,null,"ref",3649,"Wo; Wann","ou"],
  [
   "oubli de soi-même","Selbstvergessenheit","",null,null,"ref",2851,"Selbstvergessenheit",
   "oubli de soi-meme"

@@ -17,14 +17,11 @@ HWPH.put("a/1111",
  "next":{"id":1112,"lemma":"Gesetzlichkeit","band":"3","col":532},
  "backlinks":[],
  "outlinks":[{"id":801,"lemma":"Erklären, Erklärung","n":1},{"id":3540,"lemma":"Wahrscheinlichkeit","n":1}],
- "register":[
-  {"term":"statistische Gesetze","qualifier":"","band":null,"col":null},
-  {"term":"– II (wiss.) 2 693–701 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"statistische Gesetze","qualifier":"","band":null,"col":null}],
  "persons":[],
  "mentions":[{"id":3670,"lemma":"Zahl; Zählen","tf":2}],
- "see_also":[],
+ "see_also":[{"id":801,"lemma":"Erklären, Erklärung"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Gesetze, statistische"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

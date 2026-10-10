@@ -152,7 +152,11 @@ HWPH.put("a/2702",
   {"id":955,"lemma":"Friede","tf":3},
   {"id":1680,"lemma":"Kraft","tf":6}
  ],
- "see_also":[{"id":462,"lemma":"Buße"},{"id":514,"lemma":"Conversio, Umkehr"}],
+ "see_also":[
+  {"id":462,"lemma":"Buße"},
+  {"id":514,"lemma":"Conversio, Umkehr"},
+  {"id":3457,"lemma":"Verzeihen; Vergeben"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Reue"},
   {"id":44,"name":"Theologie","label":"Reue"}

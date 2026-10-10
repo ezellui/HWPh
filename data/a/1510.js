@@ -18,10 +18,10 @@ HWPH.put("a/1510",
  "backlinks":[{"id":3401,"lemma":"Vergänglichkeit; Vergehen","n":1},{"id":3676,"lemma":"Zeit","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"(Heidegger)","qualifier":"","band":"4","col":"647"},
   {"term":"nunc","qualifier":"","band":null,"col":null},
   {"term":"principium futuri","qualifier":"","band":"4","col":"646"},
-  {"term":"Urimpression (Husserl)","qualifier":"","band":"4","col":"647"}
+  {"term":"Urimpression (Husserl)","qualifier":"","band":"4","col":"647"},
+  {"term":"Zeitlichkeit","qualifier":"","band":"4","col":"647"}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -58,7 +58,12 @@ HWPH.put("a/1510",
   {"id":431,"lemma":"Bild","tf":2},
   {"id":408,"lemma":"Bewegung","tf":2}
  ],
- "see_also":[{"id":295,"lemma":"Augenblick"},{"id":1511,"lemma":"Jetztzeit"},{"id":2176,"lemma":"Nunc stans"}],
+ "see_also":[
+  {"id":295,"lemma":"Augenblick"},
+  {"id":1511,"lemma":"Jetztzeit"},
+  {"id":2176,"lemma":"Nunc stans"},
+  {"id":2534,"lemma":"Punkt, Punktualität"}
+ ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Jetzt"}],
  "reg_authors":[{"name":"Pröbsting Heinrich","n":2}]
 }

@@ -29,7 +29,8 @@ HWPH.put("a/2718",
  "outlinks":[],
  "register":[
   {"term":"Angst","qualifier":"","band":"8","col":"1047"},
-  {"term":"Erwartung","qualifier":"","band":"8","col":"1046"}
+  {"term":"Erwartung","qualifier":"","band":"8","col":"1046"},
+  {"term":"Gefahr","qualifier":"","band":"8","col":"1046"}
  ],
  "persons":[
   {"id":574,"name":"P. S. Laplace","b":3,"n":2,"l":0,"editor":0,"role":"source"},

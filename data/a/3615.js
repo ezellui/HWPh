@@ -40,11 +40,11 @@ HWPH.put("a/3615",
   {"term":"Entschädigung","qualifier":"","band":null,"col":null},
   {"term":"Rechtsaufgabe","qualifier":"","band":"12","col":"735"},
   {"term":"recompensatio","qualifier":"","band":"12","col":"734"},
+  {"term":"reparation","qualifier":"","band":null,"col":null},
   {"term":"restitutio","qualifier":"","band":null,"col":null},
   {"term":"shilumim","qualifier":"","band":null,"col":null},
   {"term":"Sühneabkommen","qualifier":"","band":"12","col":"735"},
-  {"term":"Ungeschehenmachen","qualifier":"","band":"12","col":"738"},
-  {"term":"– I (theol.) 11 891–898 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Ungeschehenmachen","qualifier":"","band":"12","col":"738"}
  ],
  "persons":[
   {"id":3157,"name":"W. Schwarz","b":1,"n":3,"l":1,"editor":0,"role":"scholar"},
@@ -119,8 +119,12 @@ HWPH.put("a/3615",
   {"id":3708,"lemma":"Zukunft; Vergangenheit","tf":2},
   {"id":890,"lemma":"Fall, Abfall","tf":2}
  ],
- "see_also":[{"id":1074,"lemma":"Genugtuung (Satisfaktion)"},{"id":1597,"lemma":"Kompensation"}],
+ "see_also":[
+  {"id":1074,"lemma":"Genugtuung (Satisfaktion)"},
+  {"id":1597,"lemma":"Kompensation"},
+  {"id":3457,"lemma":"Verzeihen; Vergeben"}
+ ],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Wiedergutmachung"}],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

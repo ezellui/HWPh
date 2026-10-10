@@ -35,8 +35,7 @@ HWPH.put("a/3490",
   {"term":"praenoscentia","qualifier":"","band":null,"col":null},
   {"term":"Seinsverständnis, vorbegriffliches","qualifier":"","band":"11","col":"1183"},
   {"term":"subiectum (ling.)","qualifier":"","band":"11","col":"1182"},
-  {"term":"προέννοια","qualifier":"","band":null,"col":null},
-  {"term":"– I (erk.) 1 419–423 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"προέννοια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":153,"name":"Heinrich von Gent","b":2,"n":1,"l":0,"editor":0,"role":"source"},

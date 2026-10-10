@@ -20,7 +20,8 @@ HWPH.put("a/1043",
  "register":[
   {"term":"Aristokratie, geistige","qualifier":"","band":"3","col":"230"},
   {"term":"Frechheit zu denken","qualifier":"","band":"3","col":"229"},
-  {"term":"geisteswissenschaftliche geistige Aristokratie","qualifier":"","band":"3","col":"230"},
+  {"term":"geistige Aristokratie","qualifier":"","band":"3","col":"230"},
+  {"term":"Gelehrter","qualifier":"","band":null,"col":null},
   {"term":"öffentlich/privat","qualifier":"","band":"3","col":"228"},
   {"term":"Religion der Gelehrten","qualifier":"","band":"3","col":"229"},
   {"term":"Republik der Gelehrten","qualifier":"","band":null,"col":null},
@@ -104,7 +105,7 @@ HWPH.put("a/1043",
   {"id":2448,"lemma":"Praxis, praktisch","tf":2},
   {"id":435,"lemma":"Bildung","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":71,"lemma":"Akademie, akademisch"}],
  "groups":[{"id":45,"name":"Topoi und Metaphern","label":"Gelehrtenrepublik"}],
  "reg_authors":[{"name":"Knispel Wolfgang","n":2}]
 }

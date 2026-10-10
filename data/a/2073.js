@@ -17,10 +17,7 @@ HWPH.put("a/2073",
  "next":{"id":2074,"lemma":"Natur","band":"6","col":421},
  "backlinks":[],
  "outlinks":[{"id":1829,"lemma":"Lokalisation","n":1}],
- "register":[
-  {"term":"Raumwahrnehmung 8 111–121 s. auch","qualifier":"(Helmholtz)","band":null,"col":null},
-  {"term":"Sehraum, subjektiver","qualifier":"(Helmholtz)","band":"6","col":"420"}
- ],
+ "register":[{"term":"Sehraum, subjektiver","qualifier":"(Helmholtz)","band":"6","col":"420"}],
  "persons":[
   {"id":268,"name":"H. v. Helmholtz","b":3,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":765,"name":"A. Marty","b":1,"n":1,"l":0,"editor":0,"role":"source"},

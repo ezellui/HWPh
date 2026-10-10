@@ -39,9 +39,8 @@ HWPH.put("a/3468",
   {"id":3179,"lemma":"Theorie","n":1}
  ],
  "register":[
-  {"term":"837","qualifier":"","band":"11","col":"1068"},
-  {"term":"als (Wittgenstein)","qualifier":"","band":null,"col":null},
   {"term":"Anschauung, intellektuelle","qualifier":"","band":"11","col":"1070"},
+  {"term":"Auge der Seele","qualifier":"","band":"11","col":"1068"},
   {"term":"Auge des Herzens","qualifier":"","band":"11","col":"1069"},
   {"term":"Augenblick","qualifier":"","band":"11","col":"1069f."},
   {"term":"Blick","qualifier":"","band":"11","col":"1069"},
@@ -54,6 +53,7 @@ HWPH.put("a/3468",
   {"term":"visio dei","qualifier":"","band":null,"col":null},
   {"term":"visus","qualifier":"","band":null,"col":null},
   {"term":"zugleich","qualifier":"","band":"11","col":"1070"},
+  {"term":"θέα","qualifier":"","band":null,"col":null},
   {"term":"θεωρία","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -30,6 +30,7 @@ HWPH.put("a/3404",
  ],
  "register":[
   {"term":"Amnestie","qualifier":"","band":"11","col":"674"},
+  {"term":"damnatio memoriae","qualifier":"","band":"11","col":"674"},
   {"term":"forgetting","qualifier":"","band":null,"col":null},
   {"term":"Gedächtnis","qualifier":"","band":"11","col":"673"},
   {"term":"ingenium","qualifier":"","band":"11","col":"673"},

@@ -5,8 +5,8 @@ HWPH.put("t/430",
  "l":"M. KÄHLER: Dogmat. Zeitfragen 1. Zur Bibelfrage (21907). – H. E. WEBER: Hist.-krit. Schriftforsch. und Bibelglaube (1913). – H. ENGELLAND: Die Gewißheit um Gott und der neuere B. Forsch, zu Gesch. und Lehre des Prot. 6 (1933). – K. BARTH: Die prot. Theol. im 19. Jh. Ihre Vorgesch. und Gesch. (21952).",
  "au":"Chr. Gremmels",
  "A":["Chr. Gremmels"],
- "cb":[[0,913]],
- "cn":[[0,913],[50,913],[93,913],[133,913]],
+ "cb":[[0,912],[222,913]],
+ "cn":[[0,912],[50,912],[93,912],[133,912]],
  "cl":[[0,913]]
 }
 );

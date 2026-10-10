@@ -61,7 +61,11 @@ HWPH.put("a/1932",
   {"id":1680,"lemma":"Kraft","tf":2},
   {"id":814,"lemma":"Erscheinung","tf":2}
  ],
- "see_also":[{"id":1325,"lemma":"Hypnose"},{"id":2208,"lemma":"Okkultismus"}],
+ "see_also":[
+  {"id":1325,"lemma":"Hypnose"},
+  {"id":2208,"lemma":"Okkultismus"},
+  {"id":3147,"lemma":"Tellurisch; Tellurismus"}
+ ],
  "groups":[
   {"id":28,"name":"Naturphilosophie","label":"Mesmerismus"},
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Mesmerismus"}

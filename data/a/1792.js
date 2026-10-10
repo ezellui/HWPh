@@ -31,6 +31,7 @@ HWPH.put("a/1792",
  "register":[
   {"term":"Licht der Vernunft","qualifier":"II","band":null,"col":null},
   {"term":"lumière","qualifier":"","band":null,"col":null},
+  {"term":"lux","qualifier":"","band":null,"col":null},
   {"term":"φως͂","qualifier":"","band":null,"col":null}
  ],
  "persons":[

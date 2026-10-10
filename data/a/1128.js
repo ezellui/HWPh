@@ -30,6 +30,7 @@ HWPH.put("a/1128",
   {"term":"Legislative","qualifier":"","band":null,"col":null},
   {"term":"séparation des pouvoirs","qualifier":"","band":null,"col":null},
   {"term":"Subjektivität, freie","qualifier":"","band":"3","col":"572"},
+  {"term":"Untertan","qualifier":"","band":"3","col":"571"},
   {"term":"vernünfteln","qualifier":"","band":"3","col":"571"},
   {"term":"Wille, gemeinsamer","qualifier":"","band":"3","col":"571"}
  ],

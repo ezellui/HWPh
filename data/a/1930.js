@@ -29,8 +29,7 @@ HWPH.put("a/1930",
  "register":[
   {"term":"nota","qualifier":"","band":null,"col":null},
   {"term":"Phän","qualifier":"III (biol.)","band":null,"col":null},
-  {"term":"Teil eines Begriffs","qualifier":"II","band":"5","col":"1155"},
-  {"term":"– I (met.) 2 334 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Teil eines Begriffs","qualifier":"II","band":"5","col":"1155"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

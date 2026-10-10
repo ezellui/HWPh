@@ -1,8 +1,6 @@
 HWPH.put("r/72-69",
 [
  ["Risiko","Risiko","","8","1047","main",2718,"Risiko","risiko"],
- ["Risiko","Risiko","","8","1046","main",2718,"Risiko","risiko"],
- ["Richtigkeit","Richtigkeit","","8","1043","main",2717,"Richtigkeit","richtigkeit"],
  [
   "Richardsche Antinomie","Antinomie","II (log.)","1","399","ref",185,"Antinomie",
   "richardsche antinomie"
@@ -12,7 +10,14 @@ HWPH.put("r/72-69",
  ["Richtigkeit","Richtigkeit","","8","1038–1045","main",2717,"Richtigkeit","richtigkeit"],
  ["Richtigkeit","Wahrheit","II A","12","62","ref",3523,"Wahrheit","richtigkeit"],
  ["Richtigkeit","Wahrheit","IV","12","83","ref",3523,"Wahrheit","richtigkeit"],
- ["Richtigkeit (ästh.)","Wahrheit","",null,null,"ref",3523,"Wahrheit","richtigkeit (asth.)"],
+ [
+  "Richtigkeit (ästh.)","Wahrheit, ästhetische","","12","138ff.","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","richtigkeit (asth.)"
+ ],
+ [
+  "Richtigkeit, historische","Wahrheit, historische","","12","147","ref",3529,
+  "Wahrheit, historische","richtigkeit, historische"
+ ],
  ["Richtigkeit der Namen","Name","I","6","366ff.","ref",2066,"Name","richtigkeit der namen"],
  [
   "Richtkraft, magnetische","Kreis; Kugel","","4","1223","ref",1687,"Kreis und Kugel",
@@ -32,19 +37,21 @@ HWPH.put("r/72-69",
  ["Richtungsgefühl","Einfall","","2","392","ref",678,"Einfall","richtungsgefuhl"],
  ["Richtungslinie","Leitlinie","(Adler)","5","228","ref",1777,"Leitlinie","richtungslinie"],
  ["riddle","Welträtsel","",null,null,"ref",3574,"Welträtsel","riddle"],
- ["ridicule","Lächerliche","",null,null,"ref",1723,"Lächerliche","ridicule"],
+ ["ridicule","Lächerliche, das","",null,null,"ref",1723,"Lächerliche","ridicule"],
+ ["Riechen","Sinne, die","",null,null,"ref",2892,"Sinne, die","riechen"],
  ["rienniste","Nihilismus","I","6","848","ref",2139,"Nihilismus","rienniste"],
  ["right reason","Recta ratio","",null,null,"ref",2620,"Recta ratio","right reason"],
  ["rightness","Richtigkeit","",null,null,"ref",2717,"Richtigkeit","rightness"],
  ["rights","Recht","II",null,null,"ref",2598,"Recht","rights"],
  [
-  "rights of man","Rechte des Menschen; Menschenrechte Rigidität","",null,null,"ref",2600,
+  "rights of man","Rechte des Menschen; Menschenrechte","",null,null,"ref",2600,
   "Rechte des Menschen, Menschenrechte","rights of man"
  ],
+ ["Rigidität","Perseveration","","7","268","ref",2317,"Perseveration","rigiditat"],
  ["Rigorismus","Moralsystem","","6","195","ref",2030,"Moralsystem","rigorismus"],
  ["rinascimento","Renaissance","",null,null,"ref",2685,"Renaissance","rinascimento"],
  [
-  "Rindenperson","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Rindenperson","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","rindenperson"
  ],
  ["Risiko","Risiko","","8","1045–1050","main",2718,"Risiko","risiko"],
@@ -176,7 +183,7 @@ HWPH.put("r/72-69",
   "ritter joachim"
  ],
  ["Ritter Joachim","Entzweiung","","2","565–572","author",764,"Entzauberung","ritter joachim"],
- ["Ritter Joachim","Ethik","",null,null,"author",835,"Ethik","ritter joachim"],
+ ["Ritter Joachim","Ethik","I-VI","2","759–795","author",835,"Ethik","ritter joachim"],
  ["Ritter Joachim","Fortschritt","","2","1032–1059","author",942,"Fortschritt","ritter joachim"],
  ["Ritter Joachim","Genie","III","3","285–309","author",1071,"Genie","ritter joachim"],
  ["Ritter Joachim","Glück","I","3","679–691","author",1155,"Glück, Glückseligkeit","ritter joachim"],

@@ -1,9 +1,5 @@
 HWPH.put("r/6b-65",
 [
- ["Kenose","Kenose","",null,null,"main",1559,"Kenose","kenose"],
- ["Kenose","Absolut; das Absolute","","1","24","ref",27,"Absolut, das Absolute","kenose"],
- ["Kenose","Tod Gottes","","10","1242","ref",3198,"Tod Gottes","kenose"],
- ["Kenose","Verdinglichung","","11","609","ref",3391,"Verdinglichung; Vergegenständlichung","kenose"],
  ["Kehre","Kehre","(Heidegger)","4","806–809","main",1556,"Kehre","kehre"],
  ["Kehre","Seinsgeschichte","(Heidegger)",null,null,"see",2812,"Seinsgeschichte","kehre"],
  ["Kehre","Seinsvergessenheit","(Heidegger)",null,null,"see",2815,"Seinsvergessenheit","kehre"],
@@ -21,17 +17,28 @@ HWPH.put("r/6b-65",
  ["Kennzeichnung","Nominator","",null,null,"see",2151,"Nominator","kennzeichnung"],
  ["Kennzeichnung","Präsupposition","I",null,null,"see",2446,"Präsupposition","kennzeichnung"],
  [
-  "Kennzeichnung","Referenz; Referenztheorie Kennzeichnung","",null,null,"see",2632,
-  "Referenz, Referenztheorie","kennzeichnung"
+  "Kennzeichnung","Referenz; Referenztheorie","",null,null,"see",2632,"Referenz, Referenztheorie",
+  "kennzeichnung"
  ],
- ["Kennzeichnungstheorie","Kennzeichnung κενόν","",null,null,"ref",null,null,"kennzeichnungstheorie"],
+ ["Kennzeichnung","Name","III","6","385f.","ref",2066,"Name","kennzeichnung"],
+ [
+  "Kennzeichnung","Prädikatenlogik","","7","1193","ref",2426,"Prädikatenlogik, Prädikatenkalkül",
+  "kennzeichnung"
+ ],
+ [
+  "Kennzeichnungstheorie","Kennzeichnung","",null,null,"ref",1558,
+  "Kennzeichnung, Kennzeichnungstheorie","kennzeichnungstheorie"
+ ],
  ["Kenose","Kenose","","4","813–815","main",1559,"Kenose","kenose"],
  ["Kenose","Inkarnation","",null,null,"see",1440,"Inkarnation","kenose"],
  ["Kenose","Kondeszendenz","",null,null,"see",1604,"Kondeszendenz","kenose"],
  ["Kenose","Zweinaturenlehre","",null,null,"see",3723,"Zweinaturenlehre","kenose"],
  ["Keratines-Paradox","Hörnerfrage","",null,null,"ref",1311,"Hörnerfrage","keratines-paradox"],
  ["Kerygma","Kerygma","","4","815–817","main",1560,"Kerygma","kerygma"],
- ["Kerygma","Verkündigung Kette","",null,null,"see",null,null,"kerygma"],
+ ["Kerygma","Verkündigung","",null,null,"see",3414,"Verkündigung; Verkünden","kerygma"],
+ ["Kette","Series","",null,null,"ref",2875,"Series","kette"],
+ ["Kette","Verkettung","",null,null,"ref",3413,"Verkettung","kette"],
+ ["Kette","Ursache/Wirkung","III","11","391","ref",3350,"Ursache/Wirkung","kette"],
  ["Kette der Lebewesen","Rangordnung","","8","23","ref",2567,"Rangordnung","kette der lebewesen"],
  ["Kette der Lebewesen","Stufen","I","10","353","ref",3044,"Stufen","kette der lebewesen"],
  ["Kette von Gedanken","Reflexion","","8","397","ref",2634,"Reflexion","kette von gedanken"],
@@ -41,7 +48,7 @@ HWPH.put("r/6b-65",
   "Kettenschluss","Episyllogismus/Prosyllogismus","",null,null,"ref",777,
   "Episyllogismus/Prosyllogismus","kettenschluss"
  ],
- ["Kettenschluss","Sorites","",null,null,"ref",2928,"Sorites","kettenschluss"],
+ ["Kettenschluss","Sorites","2",null,null,"ref",2928,"Sorites","kettenschluss"],
  ["Kettenschluss","Schluss","","8","1306","ref",2769,"Schluß","kettenschluss"],
  ["Ketzer","Häresie","",null,null,"ref",1225,"Häresie","ketzer"],
  ["Keuschheit","Keuschheit","","4","817f.","main",1561,"Keuschheit","keuschheit"],
@@ -64,7 +71,7 @@ HWPH.put("r/6b-65",
   "keller-huschemenger max"
  ],
  [
-  "Kemmerling Andreas","Kategorienfehler","",null,null,"author",1542,"Kategorienfehler",
+  "Kemmerling Andreas","Kategorienfehler","4",null,null,"author",1542,"Kategorienfehler",
   "kemmerling andreas"
  ],
  ["Kemper Dirk","Polemik","I","7","1029–1031","author",2392,"Polemik","kemper dirk"],
@@ -80,7 +87,10 @@ HWPH.put("r/6b-65",
   "Kemper Dirk","Religionswissenschaft","","8","771–774","author",2682,"Religionswissenschaft",
   "kemper dirk"
  ],
- ["Kempski Jürgen von","Logik","",null,null,"author",1803,"Logik","kempski jurgen von"],
+ [
+  "Kempski Jürgen von","Logik, philosophische","","5","452–461","author",1816,"Logik, operative",
+  "kempski jurgen von"
+ ],
  [
   "Kempski Jürgen von","Marxismus","III","5","772–777","author",1871,"Marxismus",
   "kempski jurgen von"
@@ -140,6 +150,9 @@ HWPH.put("r/6b-65",
   "Sittlichkeit; Sittenlehre","kersting wolfgang"
  ],
  ["Kessler Eckhard","Zeit","IV","12","1224–1227","author",3676,"Zeit","kessler eckhard"],
- ["Keuth Herbert","Rationalismus","",null,null,"author",2574,"Rationalismus","keuth herbert"]
+ [
+  "Keuth Herbert","Rationalismus, kritischer","(Popper)","8","49–52","author",2575,
+  "Rationalismus, Kritischer","keuth herbert"
+ ]
 ]
 );

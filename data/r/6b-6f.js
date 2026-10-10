@@ -1,18 +1,9 @@
 HWPH.put("r/6b-6f",
 [
- ["Körperschema","Körperschema","",null,null,"main",1665,"Körperschema","korperschema"],
  ["Körperschaft","Körperschaft","","4","1103","main",1664,"Körperschaft","korperschaft"],
- ["Konzept","Konzept","",null,null,"main",1655,"Konzept, konzeptibel","konzept"],
- ["Konzept","Notion","","6","936","ref",2167,"Notion, notio","konzept"],
- ["Konzept","Verbum mentis","","11","593","ref",3387,"Verbum mentis","konzept"],
  ["Kosmos","Kosmos","",null,null,"main",1678,"Kosmos","kosmos"],
  ["Konzept","Konzept","","4","1084f.","main",1655,"Konzept, konzeptibel","konzept"],
- [
-  "Kontinuität, historische","Kontinuität, historische","",null,null,"main",1638,
-  "Kontinuität, historische","kontinuitat, historische"
- ],
  ["Kokugaku","Kokugaku","",null,null,"main",1583,"Kokugaku","kokugaku"],
- ["Konstruktion","Konstruktion","",null,null,"main",1631,"Konstruktion","konstruktion"],
  ["Koäternität","Koäternität","","4","863–865","main",1576,"Koäternität","koaternitat"],
  ["Koäternität","Trinität","",null,null,"see",3231,"Trinität","koaternitat"],
  ["Kochung","Urzeugung","","11","491","ref",3362,"Urzeugung","kochung"],
@@ -55,6 +46,19 @@ HWPH.put("r/6b-6f",
   "korper, politischer"
  ],
  ["Körper, politischer","Macht","I B","5","591","ref",1844,"Macht","korper, politischer"],
+ [
+  "Körper, politischer","Nation; Nationalismus","","6","408","ref",2070,
+  "Nation, Nationalismus, Nationalität","korper, politischer"
+ ],
+ [
+  "Körper, politischer","Politische, das","","7","1073","ref",2397,"Politisch, das Politische",
+  "korper, politischer"
+ ],
+ ["Körper, politischer","Republik","","8","861","ref",2688,"Republik","korper, politischer"],
+ [
+  "Körper, politischer","Volonté générale","","11","1141","ref",3485,
+  "Volonté générale; volonté de tous","korper, politischer"
+ ],
  ["Körper, starrer","Körper, starrer","","4","1101","main",1663,"Körper, starrer","korper, starrer"],
  ["Körper, starrer","Ideation","",null,null,"see",1359,"Ideation","korper, starrer"],
  ["Körper, starrer","Messen","",null,null,"see",1934,"Messen","korper, starrer"],
@@ -73,14 +77,24 @@ HWPH.put("r/6b-6f",
  ["Körperteil","Organ","",null,null,"ref",2239,"Organ","korperteil"],
  ["Koexistenz","Koexistenz","","4","865f.","main",1577,"Koexistenz","koexistenz"],
  ["Kognition","Kognition","","4","866–877","main",1577,"Koexistenz","kognition"],
- ["Kognition","Erkenntnis II (psych.)","",null,null,"see",796,"Erkennen, Erkenntnis","kognition"],
+ ["Kognition","Erkenntnis","II (psych.)",null,null,"see",796,"Erkennen, Erkenntnis","kognition"],
+ ["Kognition","Science, cognitive","",null,null,"see",2789,"Science, Cognitive","kognition"],
  [
-  "Kognition","Science, cognitive Kognitionspsychologie","",null,null,"see",2789,
-  "Science, Cognitive","kognition"
+  "Kognitionspsychologie","Science, cognitive","",null,null,"ref",2789,"Science, Cognitive",
+  "kognitionspsychologie"
+ ],
+ ["Kognitionspsychologie","Operation","","6","1215","ref",2226,"Operation","kognitionspsychologie"],
+ [
+  "Kognitionspsychologie","Repräsentation","IV (psych.)","8","840","ref",2686,"Repräsentation",
+  "kognitionspsychologie"
  ],
  [
-  "Kognitionswissenschaft","Science, cognitive kognitiv/emotiv","",null,null,"ref",2789,
-  "Science, Cognitive","kognitionswissenschaft"
+  "Kognitionswissenschaft","Science, cognitive","",null,null,"ref",2789,"Science, Cognitive",
+  "kognitionswissenschaft"
+ ],
+ [
+  "kognitiv/emotiv","Nonkognitivismus, ethischer","",null,null,"ref",2158,
+  "Nonkognitivismus, ethischer","kognitiv/emotiv"
  ],
  ["Kognitivismus","Psychologie","","7","1645","ref",2511,"Psychologie","kognitivismus"],
  ["Kohärenz","Kohäsion; Kohärenz","",null,null,"ref",1580,"Kohäsion, Kohärenz","koharenz"],
@@ -93,8 +107,8 @@ HWPH.put("r/6b-6f",
  ],
  ["Kohärenz","Kategorialanalyse","(Hartmann)",null,null,"see",1539,"Kategorialanalyse","koharenz"],
  [
-  "Kohärenz","Schichtenlehre I (Hartmann)","",null,null,"see",2762,
-  "Schichtenlehre, Schichtentheorie","koharenz"
+  "Kohärenz","Schichtenlehre","I (Hartmann)",null,null,"see",2762,"Schichtenlehre, Schichtentheorie",
+  "koharenz"
  ],
  [
   "Kohäsion; Kohärenz","Kohäsion; Kohärenz","","4","878f.","main",1580,"Kohäsion, Kohärenz",
@@ -107,7 +121,7 @@ HWPH.put("r/6b-6f",
   "koinzidenz"
  ],
  [
-  "Koinzidenz","Invention; Erfindung I (allg.)","","4","546f.","ref",1490,
+  "Koinzidenz","Invention; Erfindung","I (allg.)","4","546f.","ref",1490,
   "Invention, Erfindung, Entdeckung","koinzidenz"
  ],
  [
@@ -160,7 +174,7 @@ HWPH.put("r/6b-6f",
   "kollektive verantwortung"
  ],
  [
-  "kollektives Unbewusste","Anima/Animus (Jung)","",null,null,"ref",145,"Anima, Animus",
+  "kollektives Unbewusste","Anima/Animus","(Jung)",null,null,"ref",145,"Anima, Animus",
   "kollektives unbewusste"
  ],
  ["kollektives Unbewusste","Archetypus","","1","499","ref",239,"Archetypus","kollektives unbewusste"],
@@ -177,8 +191,13 @@ HWPH.put("r/6b-6f",
   "Kollektivismus","Kollektiv; Kollektivismus kollektivistisch","",null,null,"ref",1586,
   "Kollektivismus, Kollektiv","kollektivismus"
  ],
- ["Kollektivität","Psychologie","",null,null,"ref",2511,"Psychologie","kollektivitat"],
+ [
+  "Kollektivität","Psychologie, geisteswissenschaftliche","","7","1656","ref",2514,
+  "Psychologie, geisteswissenschaftliche und verstehende","kollektivitat"
+ ],
+ ["Kollektivpsyche","Kollektivseele","",null,null,"ref",1587,"Kollektivseele","kollektivpsyche"],
  ["Kollektivschuld","Schuld","III","8","1461","ref",2784,"Schuld","kollektivschuld"],
+ ["Kollektivschuld","Verantwortung","II","11","573","ref",3380,"Verantwortung","kollektivschuld"],
  ["Kollektivseele","Kollektivseele","","4","885f.","main",1587,"Kollektivseele","kollektivseele"],
  [
   "Kollektivseele","Kollektivbewusstsein","",null,null,"see",1585,"Kollektivbewußtsein",
@@ -236,9 +255,13 @@ HWPH.put("r/6b-6f",
  ],
  ["Komische, das; Lachen, das","Humor","",null,null,"see",1317,"Humor","komische, das; lachen, das"],
  [
-  "Komische, das; Lachen, das","Lächerliche","",null,null,"see",1723,"Lächerliche",
+  "Komische, das; Lachen, das","Lächerliche, das","",null,null,"see",1723,"Lächerliche",
   "komische, das; lachen, das"
  ],
+ ["Komische, das","Karikatur","",null,null,"ref",1531,"Karikatur","komische, das"],
+ ["Komische, das","Erhabene, das","II 3","2","633","ref",792,"Erhaben, das Erhabene","komische, das"],
+ ["Komische, das","Parodie","","7","126","ref",2277,"Parodie","komische, das"],
+ ["Komische, das","Satire","","8","1172f.","ref",2742,"Satire, satirisch","komische, das"],
  ["Kommensalismus","Symbiose","I (biol.)","10","707","ref",3092,"Symbiose","kommensalismus"],
  ["kommensurabel","Proportion","I","7","1485","ref",2483,"Proportion","kommensurabel"],
  ["kommensurabel","Zahl","I","12","1125","ref",3670,"Zahl; Zählen","kommensurabel"],
@@ -249,6 +272,16 @@ HWPH.put("r/6b-6f",
  ],
  ["Kommune","Gemeinde","",null,null,"ref",1047,"Gemeinde","kommune"],
  ["Kommunikation","Kommunikation","","4","893–896","main",1591,"Kommunikation","kommunikation"],
+ ["Kommunikation","Ich-Du-Verhältnis","",null,null,"see",1336,"Ich-Du-Verhältnis","kommunikation"],
+ [
+  "Kommunikation","Mitteilung; Mitteilbarkeit","",null,null,"see",1986,
+  "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","kommunikation"
+ ],
+ ["Kommunikation","Personalismus","",null,null,"see",2320,"Personalismus","kommunikation"],
+ [
+  "Kommunikationswissenschaft","Kommunikationswissenschaft","",null,null,"main",1594,
+  "Kommunikationswissenschaft","kommunikationswissenschaft"
+ ],
  ["Kommunikation","Ich","I","4","5","ref",1334,"Ich","kommunikation"],
  ["Kommunikation","Selbstsein","","9","523","ref",2847,"Selbstsein","kommunikation"],
  ["Kommunikation","Semiose","","9","600","ref",2864,"Semiose","kommunikation"],
@@ -421,7 +454,14 @@ HWPH.put("r/6b-6f",
  ],
  ["Komplex","Komplex","","4","934f.","main",1600,"Komplex","komplex"],
  ["Komplex","Psychologie, komplexe","(Jung)",null,null,"see",2516,"Psychologie, komplexe","komplex"],
- ["Komplex","Komplex","",null,null,"main",1600,"Komplex","komplex"],
+ ["Komplex, der","Komplex, der","","4","935–939","main",1601,"Komplex (der)","komplex, der"],
+ ["Komplex, der","Anmutung","",null,null,"see",153,"Anmutung","komplex, der"],
+ ["Komplex, der","Gestaltqualität","",null,null,"see",1120,"Gestaltqualität","komplex, der"],
+ [
+  "Komplex, der","Minderwertigkeitsgefühl","",null,null,"see",1976,
+  "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","komplex, der"
+ ],
+ ["Komplex, der","Ödipus-Komplex","",null,null,"see",2202,"Ödipus-Komplex","komplex, der"],
  [
   "komplexe Psychologie","Psychologie, komplexe","(Jung)",null,null,"ref",2516,
   "Psychologie, komplexe","komplexe psychologie"
@@ -449,7 +489,8 @@ HWPH.put("r/6b-6f",
  ["Komplexqualität","Anmutung","",null,null,"ref",153,"Anmutung","komplexqualitat"],
  ["Komplexqualität","Gestaltqualität","",null,null,"ref",1120,"Gestaltqualität","komplexqualitat"],
  ["Komplexqualität","Komplex","","4","934","ref",1600,"Komplex","komplexqualitat"],
- ["Komplexqualität","Komplex","",null,null,"ref",1600,"Komplex","komplexqualitat"],
+ ["Komplexqualität","Komplex, der","","4","937f.","ref",1601,"Komplex (der)","komplexqualitat"],
+ ["Kompositum","Aggregat","","1","102","ref",59,"Aggregat","kompositum"],
  ["Kompossibilität","Unmöglichkeit","",null,null,"ref",3315,"Unmöglichkeit","kompossibilitat"],
  [
   "Kompossibilität","Verträglichkeit","",null,null,"ref",3446,"Verträglichkeit; Kompatibilität",
@@ -504,7 +545,11 @@ HWPH.put("r/6b-6f",
  ],
  ["Konditionismus","Konditionalismus Konezessität","",null,null,"ref",null,null,"konditionismus"],
  ["Konfabulation","Gedächtnistäuschung","","3","49","ref",998,"Gedächtnistäuschung","konfabulation"],
- ["Konfession","Bekenntnis Konfessionsfreiheit","",null,null,"ref",null,null,"konfession"],
+ ["Konfession","Bekenntnis","",null,null,"ref",382,"Bekenntnis (Konfession)","konfession"],
+ [
+  "Konfessionsfreiheit","Religionsfreiheit","",null,null,"ref",2675,"Religionsfreiheit",
+  "konfessionsfreiheit"
+ ],
  ["Konfessionskunde","Symbol","III","10","738","ref",3093,"Symbol","konfessionskunde"],
  [
   "Konfiguration","Rettung der Phänomene","","8","943","ref",2701,"Rettung der Phänomene",
@@ -524,6 +569,13 @@ HWPH.put("r/6b-6f",
  ["Konfirmierbar","Bestätigung","(Carnap)",null,null,"see",399,"Bestätigung","konfirmierbar"],
  ["Konfirmierbar","Prüfbar","(Carnap)",null,null,"see",2501,"Prüfbar","konfirmierbar"],
  ["Konflikt","Konflikt","","4","947–951","main",1608,"Konflikt","konflikt"],
+ ["Konflikt","Streit","",null,null,"see",3039,"Streit","konflikt"],
+ ["Konflikt","Ambivalenz","",null,null,"see",114,"Ambivalenz","konflikt"],
+ ["Konflikt","Feld","II (psych.)",null,null,"see",904,"Feld, Feldtheorie","konflikt"],
+ [
+  "Konflikt, moralischer","Pflichtenkollision","",null,null,"ref",2336,"Pflichtenkollision",
+  "konflikt, moralischer"
+ ],
  ["Konfliktsoziologie","Streit","II (soz.)","10","302","ref",3039,"Streit","konfliktsoziologie"],
  [
   "Konföderation der Staaten","Völkerbund","","11","1092","ref",3473,"Völkerbund",
@@ -532,9 +584,10 @@ HWPH.put("r/6b-6f",
  ["Konform","Konform","","4","951–955","main",1609,"Konform, Konformität","konform"],
  ["Konform","Bild","I (met.)",null,null,"see",431,"Bild","konform"],
  [
-  "Konform","Gleichförmig; Gleichförmigkeit konformes Verhalten","",null,null,"see",1145,
+  "Konform","Gleichförmig; Gleichförmigkeit","",null,null,"see",1145,
   "Gleichförmig, Gleichförmigkeit","konform"
  ],
+ ["konformes Verhalten","Gewohnheit","","3","607","ref",1132,"Gewohnheit","konformes verhalten"],
  ["Konformismus","Konform","","4","954","ref",1609,"Konform, Konformität","konformismus"],
  [
   "Konformismus/Nonkonformismus","Konformismus/Nonkonformismus","","4","955–958","main",1610,
@@ -561,7 +614,19 @@ HWPH.put("r/6b-6f",
  ["konfus","Notion","","6","937","ref",2167,"Notion, notio","konfus"],
  ["konfus","Regressus/Progressus","","8","485","ref",2649,"Regressus/progressus","konfus"],
  ["konfus","Vernunft; Verstand","III G","11","795","ref",3423,"Vernunft; Verstand","konfus"],
- ["konfus","Wahrheit","",null,null,"ref",3523,"Wahrheit","konfus"],
+ [
+  "konfus","Wahrheit, ästhetische","","12","138","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","konfus"
+ ],
+ ["Konfuzianismus","Konfuzianismus","","4","958–960","main",1611,"Konfuzianismus","konfuzianismus"],
+ [
+  "Konfuzianismus","Auftrag des Himmels","",null,null,"see",293,"Auftrag des Himmels",
+  "konfuzianismus"
+ ],
+ ["Konfuzianismus","Legismus","",null,null,"see",1763,"Legismus","konfuzianismus"],
+ ["Konfuzianismus","Mohismus","",null,null,"see",2006,"Mohismus","konfuzianismus"],
+ ["Konfuzianismus","Neokonfuzianismus","",null,null,"see",2108,"Neokonfuzianismus","konfuzianismus"],
+ ["Konfuzianismus","Philosophie","VII A",null,null,"see",2353,"Philosophie","konfuzianismus"],
  [
   "Kongenialität","Kontinuität, historische","","4","1039","ref",1638,"Kontinuität, historische",
   "kongenialitat"
@@ -648,7 +713,8 @@ HWPH.put("r/6b-6f",
   "Konsequenz","Synkategorem","",null,null,"see",3108,
   "Synkategorem;synkategorematisch;synsemantisch","konsequenz"
  ],
- ["Konsequenz","Verstandesschluss Konsequenz","",null,null,"see",null,null,"konsequenz"],
+ ["Konsequenz","Verstandesschluss","",null,null,"see",3436,"Verstandesschluß","konsequenz"],
+ ["Konsequenz","Sequenzenkalkül","","9","686","ref",2874,"Sequenzenkalkül","konsequenz"],
  ["Konsequenzenlehre","Konsequenz","",null,null,"ref",1619,"Konsequenz","konsequenzenlehre"],
  ["Konsequenzenlehre","Topik","II","10","1274","ref",3203,"Topik; Topos","konsequenzenlehre"],
  ["Konsequenzenmacherei","Widerlegung","","12","682","ref",3605,"Widerlegung","konsequenzenmacherei"],
@@ -661,7 +727,7 @@ HWPH.put("r/6b-6f",
   "Revolution, konservative","konservativ; konservativismus"
  ],
  [
-  "konservativer Sozialismus","Sozialismus","",null,null,"ref",2947,"Sozialismus",
+  "konservativer Sozialismus","Sozialismus","7",null,null,"ref",2947,"Sozialismus",
   "konservativer sozialismus"
  ],
  [
@@ -701,7 +767,8 @@ HWPH.put("r/6b-6f",
  ["Konstatierung","Wissenschaft","III","12","940","ref",3635,"Wissenschaft","konstatierung"],
  ["Konstellation","Konstellation","","4","988–992","main",1623,"Konstellation","konstellation"],
  ["Konstellation","Assoziation","II",null,null,"see",263,"Assoziation","konstellation"],
- ["Konstellation","Komplex","",null,null,"see",1600,"Komplex","konstellation"],
+ ["Konstellation","Komplex, der","",null,null,"see",1601,"Komplex (der)","konstellation"],
+ ["Konstellation (psych.)","Gedächtnis","","3","38","ref",996,"Gedächtnis","konstellation (psych.)"],
  [
   "Konstellationen","Rettung der Phänomene","","8","943","ref",2701,"Rettung der Phänomene",
   "konstellationen"
@@ -718,7 +785,7 @@ HWPH.put("r/6b-6f",
   "Konstitution, logische","konstitution, logische"
  ],
  [
-  "Konstitution, logische","Konstitutionssystem (Carnap)","",null,null,"see",1628,
+  "Konstitution, logische","Konstitutionssystem","(Carnap)",null,null,"see",1628,
   "Konstitutionssystem, Konstitutionstheorie","konstitution, logische"
  ],
  [
@@ -742,12 +809,12 @@ HWPH.put("r/6b-6f",
   "konstitution, phanomenologische"
  ],
  [
-  "Konstitution, phänomenologische","Sinnkonstitution (Husserl) Konstitution, transzendentale","",
-  null,null,"see",null,null,"konstitution, phanomenologische"
+  "Konstitution, phänomenologische","Sinnkonstitution","(Husserl)",null,null,"see",2899,
+  "Sinnkonstitution, Sinnstiftung","konstitution, phanomenologische"
  ],
  [
-  "Konstitution, phänomenologische","Konstitution, phänomenologische","(Husserl)",null,null,"main",
-  1626,"Konstitution, phänomenologische","konstitution, phanomenologische"
+  "Konstitution, transzendentale","Konstitution, phänomenologische","(Husserl)",null,null,"ref",1626,
+  "Konstitution, phänomenologische","konstitution, transzendentale"
  ],
  ["Konstitution des Leibes","Seele","V","9","79f.","ref",2794,"Seele","konstitution des leibes"],
  [
@@ -762,33 +829,37 @@ HWPH.put("r/6b-6f",
   "Konstitutionssystem","Nominalismus","II","6","886f.","ref",2150,"Nominalismus",
   "konstitutionssystem"
  ],
- ["Konstitutionssystem","Prinzip","III",null,null,"ref",2458,"Prinzip","konstitutionssystem"],
+ ["Konstitutionssystem","Prinzip","III 6 c","7","1372","ref",2458,"Prinzip","konstitutionssystem"],
  [
-  "Konstitutionssystem (Carnap)","Konstitutionssystem (Carnap)","","4","1006–1008","main",1627,
-  "Konstitutionalismus","konstitutionssystem (carnap)"
+  "Konstitutionssystem","Rekonstruktion","","8","573f.","ref",2667,"Rekonstruktion",
+  "konstitutionssystem"
  ],
  [
-  "Konstitutionssystem (Carnap)","Dispositionsbegriff","(Carnap)",null,null,"see",614,
-  "Dispositionsbegriff","konstitutionssystem (carnap)"
+  "Konstitutionssystem","Konstitutionssystem","(Carnap)","4","1006–1008","main",1627,
+  "Konstitutionalismus","konstitutionssystem"
  ],
  [
-  "Konstitutionssystem (Carnap)","Elementarerlebnisse","(Carnap)",null,null,"see",708,
-  "Elementarerlebnisse","konstitutionssystem (carnap)"
+  "Konstitutionssystem","Dispositionsbegriff","(Carnap)",null,null,"see",614,"Dispositionsbegriff",
+  "konstitutionssystem"
  ],
  [
-  "Konstitutionssystem (Carnap)","Konstitution, logische","(Carnap)",null,null,"see",1625,
-  "Konstitution, logische","konstitutionssystem (carnap)"
+  "Konstitutionssystem","Elementarerlebnisse","(Carnap)",null,null,"see",708,"Elementarerlebnisse",
+  "konstitutionssystem"
  ],
  [
-  "Konstitutionssystem (Carnap)","Ordnung der Begriffe","",null,null,"see",2235,
-  "Ordnung der Begriffe","konstitutionssystem (carnap)"
+  "Konstitutionssystem","Konstitution, logische","(Carnap)",null,null,"see",1625,
+  "Konstitution, logische","konstitutionssystem"
  ],
  [
-  "Konstitutionssystem (Carnap)","Quasianalyse","(Carnap)",null,null,"see",2555,"Quasianalyse",
-  "konstitutionssystem (carnap)"
+  "Konstitutionssystem","Ordnung der Begriffe","",null,null,"see",2235,"Ordnung der Begriffe",
+  "konstitutionssystem"
  ],
  [
-  "Konstitutionstheorie","Konstitutionssystem (Carnap)","",null,null,"ref",1628,
+  "Konstitutionssystem","Quasianalyse","(Carnap)",null,null,"see",2555,"Quasianalyse",
+  "konstitutionssystem"
+ ],
+ [
+  "Konstitutionstheorie","Konstitutionssystem","(Carnap)",null,null,"ref",1628,
   "Konstitutionssystem, Konstitutionstheorie","konstitutionstheorie"
  ],
  [
@@ -893,7 +964,14 @@ HWPH.put("r/6b-6f",
   "Konsumgesellschaft","Konsumgesellschaft","","4","1021–1023","main",1633,"Konsumgesellschaft",
   "konsumgesellschaft"
  ],
- ["Konsumgesellschaft","Überfluss Konsumtion","",null,null,"see",null,null,"konsumgesellschaft"],
+ [
+  "Konsumgesellschaft","Überfluss","",null,null,"see",3252,"Überfluß; Überflußgesellschaft",
+  "konsumgesellschaft"
+ ],
+ [
+  "Konsumtion","Produktion","II (ökon.)","7","1428f.","ref",2469,"Produktion, Produktivität",
+  "konsumtion"
+ ],
  [
   "Konszientialismus","Immanenzpositivismus","",null,null,"ref",1392,"Immanenzpositivismus",
   "konszientialismus"
@@ -937,17 +1015,36 @@ HWPH.put("r/6b-6f",
  ],
  ["kontextuell","Präsupposition","I","7","1268","ref",2446,"Präsupposition","kontextuell"],
  [
-  "kontextuelle Implikation","Widerspruch","",null,null,"ref",3607,"Widerspruch",
-  "kontextuelle implikation"
+  "kontextuelle Implikation","Widerspruch, performativer","","12","700","ref",3609,
+  "Widerspruchsfreiheit","kontextuelle implikation"
  ],
+ ["Kontiguität","Kontiguität","","4","1026f.","main",1636,"Kontiguität","kontiguitat"],
  ["Kontiguität","Assoziation","",null,null,"ref",263,"Assoziation","kontiguitat"],
  ["Kontiguität","Berührung","",null,null,"ref",391,"Berührung","kontiguitat"],
- ["Kontiguität","Horizont","III",null,null,"ref",1310,"Horizont","kontiguitat"],
+ ["Kontiguität","Horizont","III 4 (ling.)","3","1204","ref",1310,"Horizont","kontiguitat"],
+ [
+  "kontingente Wahrheit","Vernunftwahrheiten/Tatsachenwahrheiten","",null,null,"ref",3427,
+  "Vernunftwahrheiten/Tatsachenwahrheiten","kontingente wahrheit"
+ ],
+ [
+  "kontingente Wahrheit","Voluntarismus","","11","1144","ref",3486,"Voluntarismus",
+  "kontingente wahrheit"
+ ],
  [
   "Kontingentismus","Kontingenz","I (philos.)","5","1033","ref",1914,"Meinungsfreiheit",
   "kontingentismus"
  ],
  ["Kontingenz","Kontingenz","","4","1027–1038","main",1637,"Kontingenz","kontingenz"],
+ ["Kontingenz","Möglichkeit","",null,null,"see",2005,"Möglichkeit","kontingenz"],
+ ["Kontingenz","Notwendigkeit","",null,null,"see",2171,"Notwendigkeit","kontingenz"],
+ ["Kontingenz","Ursache/Wirkung","",null,null,"see",3350,"Ursache/Wirkung","kontingenz"],
+ ["Kontingenz","Zufall","",null,null,"see",3706,"Zufall","kontingenz"],
+ [
+  "Kontingenz","Systemtheorie; System, soziales","",null,null,"see",3117,
+  "Systemtheorie; System, soziales","kontingenz"
+ ],
+ ["Kontingenz","Modallogik","",null,null,"see",1997,"Modallogik","kontingenz"],
+ ["Kontingenz","Welt, mögliche","",null,null,"see",3558,"Welt, mögliche","kontingenz"],
  ["Kontingenz","Vorherwissen","",null,null,"ref",3494,"Vorherwissen","kontingenz"],
  ["Kontingenz","Notwendigkeit","II","6","958","ref",2171,"Notwendigkeit","kontingenz"],
  [
@@ -988,7 +1085,7 @@ HWPH.put("r/6b-6f",
   "kontinuitatsgesetz"
  ],
  [
-  "Kontinuitätsgesetz","Regelmässigkeitsvoraussetzung (Leibniz)","",null,null,"see",2644,
+  "Kontinuitätsgesetz","Regelmässigkeitsvoraussetzung","(Leibniz)",null,null,"see",2644,
   "Regelmäßigkeitsvoraussetzung","kontinuitatsgesetz"
  ],
  ["Kontinuitätsgesetz","Series","",null,null,"see",2875,"Series","kontinuitatsgesetz"],
@@ -1000,14 +1097,18 @@ HWPH.put("r/6b-6f",
  ["Kontinuitätsgesetz","Sprung","","9","1542","ref",2996,"Sprung","kontinuitatsgesetz"],
  ["Kontinuum","Kontinuum","","4","1044–1062","main",1640,"Kontinuum, Kontinuität","kontinuum"],
  ["Kontinuum","Bewegung","",null,null,"see",408,"Bewegung","kontinuum"],
- [
-  "Kontinuum","Punkt – IV (math.)","","4","1057–1062","see",1640,"Kontinuum, Kontinuität",
-  "kontinuum"
- ],
+ ["Kontinuum","Punkt","",null,null,"see",2534,"Punkt, Punktualität","kontinuum"],
  ["Kontinuum","Infinitesimalrechnung","",null,null,"see",1430,"Infinitesimalrechnung","kontinuum"],
  ["Kontinuum","Stetigkeit","",null,null,"see",3022,"Stetigkeit","kontinuum"],
  ["Kontinuum","Wahlfolge","",null,null,"see",3519,"Wahlfolge","kontinuum"],
- ["Kontinuum","Zahl Kontinuum","",null,null,"see",null,null,"kontinuum"],
+ ["Kontinuum","Zahl","",null,null,"see",3670,"Zahl; Zählen","kontinuum"],
+ ["Kontinuum","Synechismus","(Peirce)",null,null,"ref",3104,"Synechismus","kontinuum"],
+ ["Kontinuum","Eine, das; Einheit","III","2","378","ref",675,"Eine (das), Einheit","kontinuum"],
+ [
+  "Kontinuum","Einfach/zusammengesetzt","","2","384f.","ref",676,
+  "Einfachheit, einfach/zusammengesetzt","kontinuum"
+ ],
+ ["Kontinuum","Synechologie","","10","782","ref",3105,"Synechologie","kontinuum"],
  [
   "Kontinuum, arithmetisches","Wahlfolge","",null,null,"ref",3519,"Wahlfolge",
   "kontinuum, arithmetisches"
@@ -1061,10 +1162,19 @@ HWPH.put("r/6b-6f",
   "Suprarational/kontrarational","kontrarational"
  ],
  ["Kontrast","Kontrast","","4","1066–1068","main",1647,"Kontrast","kontrast"],
+ ["Kontrast","Farbe","",null,null,"see",895,"Farbe","kontrast"],
+ [
+  "Kontrast","Assimilation/Dissimilation","II (psych.)",null,null,"see",262,
+  "Assimilation/Dissimilation","kontrast"
+ ],
  ["Kontrast","Gegensatz","II (log.)",null,null,"ref",1018,"Gegensatz","kontrast"],
  [
-  "Kontrast (ästh.)","Komische, das; Lachen, das Kontrastvorstellungen, peinliche","",null,null,
-  "ref",1590,"Komische, Lachen","kontrast (asth.)"
+  "Kontrast (ästh.)","Komische, das; Lachen, das","",null,null,"ref",1590,"Komische, Lachen",
+  "kontrast (asth.)"
+ ],
+ [
+  "Kontrastvorstellungen, peinliche","Hysterie","","3","1270","ref",1332,"Hysterie, hysterisch",
+  "kontrastvorstellungen, peinliche"
  ],
  ["Kontravalenz","Kontravalenz","","4","1068","main",1648,"Kontravalenz","kontravalenz"],
  ["Kontravalenz","Disjunktion","",null,null,"see",609,"Disjunktion","kontravalenz"],
@@ -1075,6 +1185,13 @@ HWPH.put("r/6b-6f",
  ["Kontroverstheologie","Polemik","I",null,null,"ref",2392,"Polemik","kontroverstheologie"],
  ["Konvenienz","Konvenienz","","4","1068–1071","main",1650,"Konvenienz","konvenienz"],
  ["Konvention","Konvention","","4","1071–1078","main",1651,"Konvention","konvention"],
+ ["Konvention","Ethos","",null,null,"see",840,"Ethos","konvention"],
+ [
+  "Konvention","Physis/Nomos; Physis/Thesis","",null,null,"see",2374,"Physis/Nomos, Physis/Thesis",
+  "konvention"
+ ],
+ ["Konvention","Arbiträr","(Saussure)",null,null,"see",235,"Arbiträr","konvention"],
+ ["Konvention","Völkerrecht","",null,null,"see",3475,"Völkerrecht","konvention"],
  [
   "Konventionalismus","Konventionalismus","","4","1078–1080","main",1652,"Konventionalismus",
   "konventionalismus"
@@ -1106,7 +1223,11 @@ HWPH.put("r/6b-6f",
  ["Konzept","Communes conceptiones","",null,null,"see",503,"Communes conceptiones","konzept"],
  ["Konzept","Species","I (met.)",null,null,"see",2966,"Species","konzept"],
  ["Konzept","Verbum mentis","",null,null,"see",3387,"Verbum mentis","konzept"],
- ["konzeptibel","Konzept Konzeptionspunkt","",null,null,"ref",null,null,"konzeptibel"],
+ ["konzeptibel","Konzept","",null,null,"ref",1655,"Konzept, konzeptibel","konzeptibel"],
+ [
+  "Konzeptionspunkt","Weltorientierung; Orientierung","","12","500","ref",3573,
+  "Weltorientierung; Orientierung","konzeptionspunkt"
+ ],
  [
   "Konzeptualismus","Konzeptualismus","","4","1086–1091","main",1656,"Konzeptualismus",
   "konzeptualismus"
@@ -1149,8 +1270,12 @@ HWPH.put("r/6b-6f",
   "kopenhagener deutung"
  ],
  [
-  "Kopenhagener Deutung","Unschärferelation Kopenhagener Deutung","",null,null,"see",null,null,
-  "kopenhagener deutung"
+  "Kopenhagener Deutung","Unschärferelation","",null,null,"see",3318,
+  "Unschärferelation; Unbestimmtheitsrelation","kopenhagener deutung"
+ ],
+ [
+  "Kopenhagener Deutung","Realität, formale/objektive","II","8","199","ref",2591,
+  "Realität, formale/objektive","kopenhagener deutung"
  ],
  [
   "kopernikanisch/phänomenologisch","Phänomenologie","I 1","7","486","ref",2343,"Phänomenologie",
@@ -1237,7 +1362,11 @@ HWPH.put("r/6b-6f",
   "Korrelation","Phänomenologie, transzendentale","","7","513","ref",2347,
   "Phänomenologie, transzendentale","korrelation"
  ],
- ["Korrelation","Subjekt","",null,null,"ref",3047,"Subjekt","korrelation"],
+ [
+  "Korrelation","Subjekt/Objekt","V","10","428f.","ref",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "korrelation"
+ ],
+ ["Korrelation","Transzendental","X","10","1413","ref",3219,"Transzendental","korrelation"],
  [
   "Korrelation, statistische","Korrelation, statistische","","4","1141f.","main",1671,
   "Korrelation, statistische","korrelation, statistische"
@@ -1265,7 +1394,7 @@ HWPH.put("r/6b-6f",
  ],
  ["Korruption","Korruption","","4","1143","main",1673,"Korruption","korruption"],
  [
-  "Kortikalperson","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Kortikalperson","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","kortikalperson"
  ],
  [
@@ -1291,7 +1420,8 @@ HWPH.put("r/6b-6f",
  ["Kosmogonie","Wirbeltheorie","",null,null,"see",3626,"Wirbeltheorie","kosmogonie"],
  ["Kosmologie","Kosmologie","","4","1153–1155","main",1676,"Kosmologie","kosmologie"],
  ["Kosmologie","Kosmogonie","",null,null,"see",1675,"Kosmogonie","kosmologie"],
- ["Kosmologie","Philosophie","IV",null,null,"ref",2353,"Philosophie","kosmologie"],
+ ["Kosmologie","Philosophie","IV K","7","789","ref",2353,"Philosophie","kosmologie"],
+ ["Kosmologie, rationale","Kosmologie","",null,null,"ref",1676,"Kosmologie","kosmologie, rationale"],
  ["kosmologische Konstante","Vacuum","","11","529","ref",3368,"Vacuum","kosmologische konstante"],
  [
   "kosmologischer Gottesbeweis","Gottesbeweis","","3","828","ref",1165,"Gottesbeweis",
@@ -1325,58 +1455,19 @@ HWPH.put("r/6b-6f",
  ["Kosmos","Naturphilosophie","V","6","554f.","ref",2088,"Naturphilosophie","kosmos"],
  ["Kosmotheismus","Theismus","","10","1055","ref",3163,"Theismus","kosmotheismus"],
  ["Kosmotheologie","Ontotheologie","",null,null,"ref",2225,"Ontotheologie","kosmotheologie"],
- ["Kosmotheologie","Religion","",null,null,"ref",2673,"Religion","kosmotheologie"],
+ [
+  "Kosmotheologie","Religion, natürliche bzw. vernünftige","","8","723","ref",2674,"Religion",
+  "kosmotheologie"
+ ],
  ["Kosmotheoros","Weltanschauung","","12","460","ref",3560,"Weltanschauung","kosmotheoros"],
  ["Kosmozentrisch","Kosmozentrisch","","4","1176f.","main",1679,"Kosmozentrisch","kosmozentrisch"],
  ["Kovariation","Supervenienz","","10","650","ref",3082,"Supervenienz","kovariation"],
  ["Komparatistik","Komparatistik","",null,null,"main",1596,"Komparatistik","komparatistik"],
  [
-  "Konformismus/Nonkonformismus non-philosophie","Konformismus/Nonkonformismus non-philosophie","",
-  null,null,"main",null,null,"konformismus/nonkonformismus non-philosophie"
- ],
- [
-  "Kollektivbegriff","Kollektivbegriff","","4","882","main",1584,"Kollektivbegriff",
-  "kollektivbegriff"
- ],
- [
   "Kosmopolitismus 1 patrona theologiae","Kosmopolitismus 1 patrona theologiae","",null,null,"main",
   null,null,"kosmopolitismus 1 patrona theologiae"
  ],
- [
-  "Kollektivvorstellung","Kollektivvorstellung","","4","887","main",1588,"Kollektivvorstellung",
-  "kollektivvorstellung"
- ],
- [
-  "Kollektivvorstellung","Mythos; Mythologie","VI","6","301","ref",2053,"Mythos, Mythologie",
-  "kollektivvorstellung"
- ],
- ["Kollektivvorstellung","Religion","VIII 7","8","695","ref",2673,"Religion","kollektivvorstellung"],
- ["Konstruktion","Konstruktion","IV","4","1017","main",1631,"Konstruktion","konstruktion"],
- ["Koordination","Koordination","","4","1092","main",1658,"Koordination","koordination"],
- [
-  "Kopernikanische Wende","Kopernikanische Wende","",null,null,"main",1660,"Kopernikanische Wende",
-  "kopernikanische wende"
- ],
- [
-  "Kopernikanische Wende","Positionalität, exzentrische","(Plessner)",null,null,"ref",2407,
-  "Positionalität, exzentrische","kopernikanische wende"
- ],
  ["Konstruktion","Konstruktion","",null,null,"main",1631,"Konstruktion","konstruktion"],
- [
-  "Kollektivbewusstsein","Kollektivbewusstsein","","4","884","main",1585,"Kollektivbewußtsein",
-  "kollektivbewusstsein"
- ],
- ["Konstruktion","Konstruktion","IV",null,null,"main",1631,"Konstruktion","konstruktion"],
- ["Konstruktion","Recht","I","8","226","ref",2598,"Recht","konstruktion"],
- ["Konvention","Konvention","III (jur.)",null,null,"main",1651,"Konvention","konvention"],
- ["Konvention","Haus","I","3","1012f.","ref",1229,"Haus","konvention"],
- ["Konvention","Konvention","I (eth.)","4","1071","ref",1651,"Konvention","konvention"],
- ["Konvention","Pflicht","","7","423","ref",2334,"Pflicht","konvention"],
- ["Konvention","Rechtsphilosophie","","8","320f.","ref",2614,"Rechtsphilosophie","konvention"],
- [
-  "Kopernikanische Wende","Kopernikanische Wende","",null,null,"main",1660,"Kopernikanische Wende",
-  "kopernikanische wende"
- ],
  ["Kobusch Theo","Abstraktion","II","1","44–47","author",31,"Abstraktion","kobusch theo"],
  ["Kobusch Theo","Hegemonikon","","3","1030f.","author",1236,"Hegemonikon","kobusch theo"],
  [
@@ -1386,7 +1477,7 @@ HWPH.put("r/6b-6f",
  ["Kobusch Theo","Inhärenz","","4","363–366","author",1437,"Inhärenz","kobusch theo"],
  ["Kobusch Theo","Intuition","","4","524–540","author",1487,"Intuition","kobusch theo"],
  ["Kobusch Theo","Macht","I A","5","585–588","author",1844,"Macht","kobusch theo"],
- ["Kobusch Theo","Metaphysik","",null,null,"author",1944,"Metaphysik","kobusch theo"],
+ ["Kobusch Theo","Metaphysik II-III.","V","5","1188–1217","author",1944,"Metaphysik","kobusch theo"],
  [
   "Kobusch Theo","Nichts; Nichtseiendes","","6","805–836","author",2136,"Nichts, Nichtseiendes",
   "kobusch theo"
@@ -1416,7 +1507,7 @@ HWPH.put("r/6b-6f",
   "kodalle klaus-michael"
  ],
  ["Köhler Erich","Je-ne-sais-quoi","","4","640–644","author",1508,"Je ne sais quoi","kohler erich"],
- ["Köhler Johannes","Schöpfung","",null,null,"author",2779,"Schöpfung","kohler johannes"],
+ ["Köhler Johannes","Schöpfung III.","V","8","1395–1399","author",2779,"Schöpfung","kohler johannes"],
  ["Köhler Johannes","Schuld","III","8","1456–1465","author",2784,"Schuld","kohler johannes"],
  ["Köhler Johannes","Vorsehung","","11","1206–1218","author",3500,"Vorsehung","kohler johannes"],
  [
@@ -1447,20 +1538,20 @@ HWPH.put("r/6b-6f",
   "konig gert"
  ],
  [
-  "König Gert","Perspektive I (allg.)","","7","363–375","author",2325,
+  "König Gert","Perspektive","I (allg.)","7","363–375","author",2325,
   "Persönlichkeitswert, Personwert","konig gert"
  ],
  ["König Gert","Relativismus","","8","613–622","author",2671,"Relativismus","konig gert"],
- ["König Gert","Theorie","",null,null,"author",3179,"Theorie","konig gert"],
+ ["König Gert","Theorie","I-II","10","1128–1154","author",3179,"Theorie","konig gert"],
  ["König Gert","Transzendental","VII","10","1396–1398","author",3219,"Transzendental","konig gert"],
  [
   "König Gert","Wahrheitsgefühl","","12","179–182","author",3536,"Wahrheitsgefühl; Wahrheitssinn",
   "konig gert"
  ],
  ["König Gert","Wiener Kreis","","12","751–755","author",3618,"Wiener Kreis","konig gert"],
- ["König Helga","Konstruktion","",null,null,"author",1631,"Konstruktion","konig helga"],
+ ["König Helga","Konstruktion I.","III","4","1009–1015","author",1631,"Konstruktion","konig helga"],
  [
-  "König Reinhold","Produktion III (ästh.)","","7","1432–1438","author",2469,
+  "König Reinhold","Produktion","III (ästh.)","7","1432–1438","author",2469,
   "Produktion, Produktivität","konig reinhold"
  ],
  ["Königs Liesel","Aktualismus","(Gentile)","1","144f.","author",86,"Aktualismus","konigs liesel"],
@@ -1470,12 +1561,12 @@ HWPH.put("r/6b-6f",
   "kopcke-duttler arnold"
  ],
  [
-  "Körner Stephan","Bestimmung; Determination II (log.)","","1","856","author",400,
+  "Körner Stephan","Bestimmung; Determination","II (log.)","1","856","author",400,
   "Bestimmung, bestimmen, Determination","korner stephan"
  ],
  [
-  "Körner Stephan","Definit; Definitheit II (Carnap)","","2","31","author",534,
-  "Definit, Definitheit","korner stephan"
+  "Körner Stephan","Definit; Definitheit","II (Carnap)","2","31","author",534,"Definit, Definitheit",
+  "korner stephan"
  ],
  [
   "Körner Stephan","Endlich/unendlich","","2","489–491","author",735,"Endlich/unendlich",
@@ -1496,7 +1587,7 @@ HWPH.put("r/6b-6f",
  ["Kötter Rudolf","Reduktion","II (nat.)","8","371–374","author",2624,"Reduktion","kotter rudolf"],
  ["Kötting Bernhard","Gott","V","3","735–741","author",1162,"Gott","kotting bernhard"],
  [
-  "Kohlenberger Helmut K","Ambiguität I (sprach.)","","1","201–203","author",112,"Altruismus",
+  "Kohlenberger Helmut K","Ambiguität","I (sprach.)","1","201–203","author",112,"Altruismus",
   "kohlenberger helmut k"
  ],
  [
@@ -1532,10 +1623,10 @@ HWPH.put("r/6b-6f",
   "kohlenberger helmut k"
  ],
  [
-  "Kohlenberger Helmut K","Dialektik","IV",null,null,"author",583,"Dialektik",
+  "Kohlenberger Helmut K","Dialektik","IV 1. 4","2","189–193","author",583,"Dialektik",
   "kohlenberger helmut k"
  ],
- ["Kohlenberger Helmut K","Geist","",null,null,"author",1030,"Geist","kohlenberger helmut k"],
+ ["Kohlenberger Helmut K","Geist","IV-V","3","169–180","author",1030,"Geist","kohlenberger helmut k"],
  [
   "Kohlenberger Helmut K","Gerechtigkeit","II 1","3","334f.","author",1083,"Gerechtigkeit",
   "kohlenberger helmut k"
@@ -1590,8 +1681,8 @@ HWPH.put("r/6b-6f",
   "Revolution, konservative","konersmann ralf"
  ],
  ["Konersmann Ralf","Rolle","I","8","1064–1067","author",2722,"Rolle","konersmann ralf"],
- ["Konersmann Ralf","Seele","",null,null,"author",2794,"Seele","konersmann ralf"],
- ["Konersmann Ralf","Sehen","",null,null,"author",2802,"Sehen","konersmann ralf"],
+ ["Konersmann Ralf","Seele, schöne","","9","89–92","author",2794,"Seele","konersmann ralf"],
+ ["Konersmann Ralf","Sehen","I-II","9","121–149","author",2802,"Sehen","konersmann ralf"],
  [
   "Konersmann Ralf","Semantik, historische","","9","593–598","author",2862,"Semantik, historische",
   "konersmann ralf"
@@ -1612,7 +1703,7 @@ HWPH.put("r/6b-6f",
  ["Konersmann Ralf","Wende","","12","534–538","author",3582,"Wende","konersmann ralf"],
  ["Konersmann Ralf","Zeitgeist","","12","1266–1270","author",3678,"Zeitgeist","konersmann ralf"],
  [
-  "Konhardt Klaus","Kategorie; Kategorienlehre I-II. IV-V","","4","714–725","author",1540,
+  "Konhardt Klaus","Kategorie; Kategorienlehre I-II.","IV-V","4","714–725","author",1540,
   "Kategorie, Kategorienlehre","konhardt klaus"
  ],
  ["Konhardt Klaus","Mannigfaltige, das","","5","731–735","author",1864,"Manismus","konhardt klaus"],

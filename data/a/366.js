@@ -17,7 +17,7 @@ HWPH.put("a/366",
  "next":{"id":367,"lemma":"Begriffsdichtung","band":"1","col":788},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– II (psych.) 5 245–247 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":1955,"name":"C. E. Osgood","b":0,"n":1,"l":1,"editor":0,"role":"mixed"},
   {"id":288,"name":"J. Piaget","b":0,"n":1,"l":0,"editor":0,"role":"source"},
@@ -39,7 +39,7 @@ HWPH.put("a/366",
   {"id":2582,"lemma":"Reaktion, bedingte","tf":2},
   {"id":2183,"lemma":"Objekt","tf":2}
  ],
- "see_also":[{"id":558,"lemma":"Denkpsychologie"}],
+ "see_also":[{"id":558,"lemma":"Denkpsychologie"},{"id":1655,"lemma":"Konzept, konzeptibel"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Begriffsbildung"}],
  "reg_authors":[{"name":"Foppa Klaus","n":7}]
 }

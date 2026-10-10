@@ -40,15 +40,16 @@ HWPH.put("a/3315",
   {"id":3659,"lemma":"Wunder","n":1}
  ],
  "register":[
-  {"term":"Akoluthie","qualifier":"","band":"11","col":"248"},
   {"term":"Allmacht Gottes","qualifier":"","band":"11","col":"243ff."},
   {"term":"Bedeutung, unmögliche","qualifier":"","band":"11","col":"247"},
   {"term":"Denkmöglichkeit","qualifier":"","band":"11","col":"246f."},
   {"term":"difficultas","qualifier":"","band":"11","col":"244"},
+  {"term":"Implikation","qualifier":"","band":"11","col":"248"},
   {"term":"impossibile per accidens/per se","qualifier":"","band":"11","col":"244"},
   {"term":"impossibilitas","qualifier":"","band":null,"col":null},
   {"term":"impossibilité hypothétique","qualifier":"","band":"11","col":"246"},
   {"term":"incompossibile","qualifier":"","band":"11","col":"245"},
+  {"term":"Inkompossibilität","qualifier":"","band":"11","col":"248"},
   {"term":"Kompossibilität","qualifier":"","band":null,"col":null},
   {"term":"Meisterargument","qualifier":"","band":"11","col":"243"},
   {"term":"nihil negativum","qualifier":"","band":"11","col":"246"},
@@ -57,9 +58,9 @@ HWPH.put("a/3315",
   {"term":"Standpunkt der Erlösung","qualifier":"","band":"11","col":"248"},
   {"term":"Widersinn","qualifier":"","band":"11","col":"247"},
   {"term":"Willensschwäche","qualifier":"","band":"11","col":"245f."},
-  {"term":"Zeitlogik","qualifier":"","band":"11","col":"243"},
   {"term":"zero comprehension","qualifier":"","band":"11","col":"248"},
-  {"term":"ἀδύνατον","qualifier":"","band":null,"col":null}
+  {"term":"ἀδύνατον","qualifier":"","band":null,"col":null},
+  {"term":"κυριεύων λόγος","qualifier":"","band":"11","col":"243"}
  ],
  "persons":[
   {"id":23,"name":"Boethius","b":4,"n":4,"l":0,"editor":0,"role":"source"},
@@ -218,7 +219,8 @@ HWPH.put("a/3315",
   {"id":2005,"lemma":"Möglichkeit"},
   {"id":2171,"lemma":"Notwendigkeit"},
   {"id":2413,"lemma":"Possibilien"},
-  {"id":2689,"lemma":"Repugnanz"}
+  {"id":2689,"lemma":"Repugnanz"},
+  {"id":3446,"lemma":"Verträglichkeit; Kompatibilität"}
  ],
  "groups":[{"id":26,"name":"Metaphysik","label":"Unmöglichkeit"}],
  "reg_authors":[{"name":"Ramelow Tilman-Anselm","n":2}]

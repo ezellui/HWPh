@@ -50,6 +50,6 @@ HWPH.put("a/1346",
  ],
  "see_also":[{"id":1235,"lemma":"Hegelianismus"},{"id":2118,"lemma":"Neuhegelianismus"}],
  "groups":[{"id":41,"name":"Schulen, Strömungen und Positionen","label":"Idealismus, Deutscher"}],
- "reg_authors":[{"name":"Zeltner Hermann","n":6}]
+ "reg_authors":[{"name":"Zeltner Hermann","n":7}]
 }
 );

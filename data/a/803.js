@@ -29,6 +29,6 @@ HWPH.put("a/803",
  ],
  "see_also":[{"id":130,"lemma":"Analytisch/synthetisch"},{"id":821,"lemma":"Erweiterungsurteil"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Erläuterungsurteil (Kant)"}],
- "reg_authors":[{"name":"Menne Albert","n":61}]
+ "reg_authors":[{"name":"Menne Albert","n":62}]
 }
 );

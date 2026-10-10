@@ -20,8 +20,7 @@ HWPH.put("a/795",
  "register":[
   {"term":"Streitkunst","qualifier":"","band":null,"col":null},
   {"term":"Syllogismus, eristischer","qualifier":"","band":null,"col":null},
-  {"term":"ἔριστικὴτέχνη","qualifier":"","band":null,"col":null},
-  {"term":"– I (rhet.) 1 392 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἔριστικὴτέχνη","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -32,7 +31,8 @@ HWPH.put("a/795",
   {"id":183,"lemma":"Antilogie"},
   {"id":583,"lemma":"Dialektik"},
   {"id":1907,"lemma":"Megarisch"},
-  {"id":2926,"lemma":"Sophistik; sophistisch; Sophist"}
+  {"id":2926,"lemma":"Sophistik; sophistisch; Sophist"},
+  {"id":3237,"lemma":"Trugschluß"}
  ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Eristik"},

@@ -28,6 +28,7 @@ HWPH.put("a/631",
   {"term":"Geist/Körper","qualifier":"","band":null,"col":null},
   {"term":"Körper/Seele","qualifier":"","band":null,"col":null},
   {"term":"Mensch, innerer","qualifier":"","band":"2","col":"282"},
+  {"term":"Mensch, oberer","qualifier":"","band":"2","col":"283"},
   {"term":"Seele/Körper","qualifier":"","band":null,"col":null},
   {"term":"πνεῦμα","qualifier":"","band":"2","col":"283"},
   {"term":"ψυχικός","qualifier":"","band":"2","col":"283"}

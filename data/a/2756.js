@@ -22,7 +22,11 @@ HWPH.put("a/2756",
  "next":{"id":2757,"lemma":"Schein","band":"8","col":1230},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Shekhinah","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Einwohnung","qualifier":"","band":"8","col":"1228"},
+  {"term":"Fleisches sakīna","qualifier":"","band":"8","col":"1229"},
+  {"term":"Shekhinah","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":195,"name":"G. Scholem","b":0,"n":3,"l":0,"editor":0,"role":"scholar"},
   {"id":1672,"name":"F. J. Molitor","b":2,"n":1,"l":0,"editor":0,"role":"source"},

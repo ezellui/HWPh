@@ -18,9 +18,9 @@ HWPH.put("a/195",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Triebbefriedigung","qualifier":"","band":"1","col":"427"},
-  {"term":"Triebüberschuss","qualifier":"","band":"1","col":"427"},
-  {"term":"Überschuss","qualifier":"","band":null,"col":null}
+  {"term":"Triebbefriedigung","qualifier":"(Gehlen)","band":"1","col":"427"},
+  {"term":"Triebüberschuss","qualifier":"(Gehlen)","band":"1","col":"427"},
+  {"term":"Überschuss","qualifier":"(Gehlen)","band":null,"col":null}
  ],
  "persons":[
   {"id":87,"name":"A. Gehlen","b":1,"n":4,"l":0,"editor":0,"role":"source"},
@@ -30,7 +30,7 @@ HWPH.put("a/195",
   {"id":21828,"name":"Alfred Seidel","b":1,"n":0,"l":0,"editor":0,"role":"source"}
  ],
  "mentions":[],
- "see_also":[],
+ "see_also":[{"id":357,"lemma":"Bedürfnisorientierung/Antriebsorientierung"}],
  "groups":[{"id":2,"name":"Anthropologie","label":"Antriebsüberschuss (Gehlen)"}],
  "reg_authors":[{"name":"Marquard Odo","n":22}]
 }

@@ -71,6 +71,6 @@ HWPH.put("a/1207",
   {"id":3,"name":"Antike Philosophie","label":"Habe; Haben 1–2"},
   {"id":11,"name":"Existenzphilosophie","label":"Habe; Haben"}
  ],
- "reg_authors":[{"name":"Funke Gerhard","n":12},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Funke Gerhard","n":12},{"name":"Red","n":241}]
 }
 );

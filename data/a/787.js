@@ -18,10 +18,10 @@ HWPH.put("a/787",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Analogien","qualifier":"","band":"2","col":"617"},
   {"term":"Analogien der Erfahrung","qualifier":"(Kant)","band":null,"col":null},
   {"term":"Beharrliche, das","qualifier":"(Kant)","band":"2","col":"617"},
   {"term":"Erfahrung","qualifier":"(Kant)","band":null,"col":null},
+  {"term":"Synthesis Synthesis, physische","qualifier":"(Kant)","band":"2","col":"618"},
   {"term":"Wechselwirkung","qualifier":"(Kant)","band":"2","col":"618"},
   {"term":"zugleich","qualifier":"(Kant)","band":"2","col":"618"},
   {"term":"Zusammenhang der Erscheinungen","qualifier":"(Kant)","band":"2","col":"618"}

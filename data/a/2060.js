@@ -17,10 +17,7 @@ HWPH.put("a/2060",
  "next":{"id":2061,"lemma":"Nagualismus","band":"6","col":356},
  "backlinks":[{"id":2351,"lemma":"Philanthropie","n":1},{"id":3653,"lemma":"Wohlwollen","n":2}],
  "outlinks":[],
- "register":[
-  {"term":"der","qualifier":"","band":null,"col":null},
-  {"term":"Nächster","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Nächster","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":10,"name":"F. Nietzsche","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

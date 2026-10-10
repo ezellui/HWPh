@@ -17,7 +17,7 @@ HWPH.put("a/647",
  "next":{"id":648,"lemma":"Ebenmerklich","band":"2","col":305},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– I (met.) 1 913–915 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[],
  "mentions":[],
  "see_also":[

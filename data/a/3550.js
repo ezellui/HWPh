@@ -36,8 +36,6 @@ HWPH.put("a/3550",
   {"id":3632,"lemma":"Wirkungszusammenhang, historischer","n":1}
  ],
  "register":[
-  {"term":"/Objekt IV 10 417","qualifier":"","band":"12","col":"336"},
-  {"term":"729","qualifier":"","band":"12","col":"337f."},
   {"term":"actio mutua","qualifier":"","band":"12","col":"334"},
   {"term":"action réciproque","qualifier":"","band":null,"col":null},
   {"term":"Austausch","qualifier":"","band":null,"col":null},
@@ -49,10 +47,12 @@ HWPH.put("a/3550",
   {"term":"Gemeinschaft","qualifier":"","band":null,"col":null},
   {"term":"Gravitation","qualifier":"","band":"12","col":"335"},
   {"term":"Interaktion","qualifier":"","band":"12","col":"338"},
+  {"term":"Mischung","qualifier":"","band":"12","col":"334"},
   {"term":"reactio","qualifier":"","band":"12","col":"334f."},
   {"term":"Reaktion","qualifier":"","band":null,"col":null},
-  {"term":"Temperament","qualifier":"","band":"12","col":"334"},
+  {"term":"universalis","qualifier":"","band":"12","col":"337f."},
   {"term":"Verwandtschaft","qualifier":"","band":"12","col":"335"},
+  {"term":"Wechselbestimmung","qualifier":"","band":"12","col":"336"},
   {"term":"Wirkung","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -17,14 +17,7 @@ HWPH.put("a/208",
  "next":{"id":209,"lemma":"Apophantisch","band":"1","col":447},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {
-   "term":"formale/materiale (Husserl) 6 1200f. s. auch",
-   "qualifier":"(Husserl)",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[{"id":3355,"lemma":"Urteil","tf":5},{"id":1803,"lemma":"Logik","tf":2}],
  "see_also":[{"id":2218,"lemma":"Ontologie"}],

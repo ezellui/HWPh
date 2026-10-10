@@ -19,11 +19,12 @@ HWPH.put("a/3182",
  "outlinks":[{"id":3187,"lemma":"Theurgie","n":1}],
  "register":[
   {"term":"anthroposophia","qualifier":"","band":"10","col":"1158"},
-  {"term":"Christentum, Wesen des","qualifier":"","band":"10","col":"1158"},
+  {"term":"Erkenntnis des Absoluten","qualifier":"","band":"10","col":"1159"},
   {"term":"Idealphilosophie","qualifier":"","band":"10","col":"1159"},
   {"term":"Philosophie, absolute","qualifier":"","band":"10","col":"1159"},
   {"term":"theosophia","qualifier":"","band":"10","col":"1158"},
-  {"term":"Weisheit, göttliche","qualifier":"","band":null,"col":null}
+  {"term":"Weisheit, göttliche","qualifier":"","band":null,"col":null},
+  {"term":"θεοσοφία","qualifier":"","band":"10","col":"1158"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -152,6 +153,6 @@ HWPH.put("a/3182",
  ],
  "see_also":[],
  "groups":[{"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Theosophie"}],
- "reg_authors":[{"name":"Müller Gotthold","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Müller Gotthold","n":2},{"name":"Red","n":241}]
 }
 );

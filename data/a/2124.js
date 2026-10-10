@@ -35,12 +35,14 @@ HWPH.put("a/2124",
   {"term":"Angstneurose","qualifier":"II","band":"6","col":"765f."},
   {"term":"Antipsychiatrie","qualifier":"III","band":"6","col":"767"},
   {"term":"comata","qualifier":"I","band":"6","col":"761"},
+  {"term":"Desensibilisierung, systematische","qualifier":"III","band":"6","col":"766"},
   {"term":"Konversionsneurose","qualifier":"II","band":"6","col":"765"},
   {"term":"Nervenkrankheit","qualifier":"I","band":"6","col":"761"},
   {"term":"Organneurose","qualifier":"II","band":"6","col":"765"},
   {"term":"psychosomatisch","qualifier":"II","band":"6","col":"765"},
   {"term":"Selbstkommunikation","qualifier":"III","band":"6","col":"767"},
   {"term":"sensus laesi","qualifier":"I","band":"6","col":"761"},
+  {"term":"spasmi","qualifier":"I","band":"6","col":"761"},
   {"term":"Störung, emotionale","qualifier":"III","band":"6","col":"767"},
   {"term":"Trauma","qualifier":"II","band":"6","col":"765"},
   {"term":"Überzeugungen, irrationale","qualifier":"III","band":"6","col":"767"},
@@ -185,6 +187,6 @@ HWPH.put("a/2124",
  ],
  "see_also":[{"id":2528,"lemma":"Psychose"},{"id":3259,"lemma":"Überkompensation"}],
  "groups":[{"id":34,"name":"Psychiatrie","label":"Neurose"}],
- "reg_authors":[{"name":"Husen Karl-Friedrich","n":2},{"name":"Matussek Paul","n":3},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Husen Karl-Friedrich","n":2},{"name":"Matussek Paul","n":3},{"name":"Red","n":241}]
 }
 );

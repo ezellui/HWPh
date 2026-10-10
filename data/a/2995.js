@@ -31,11 +31,10 @@ HWPH.put("a/2995",
   {"term":"assertion","qualifier":"","band":"9","col":"1537"},
   {"term":"behauptende Kraft","qualifier":"","band":"9","col":"1537"},
   {"term":"illocutionary force","qualifier":"","band":"9","col":"1537"},
-  {"term":"inneres speech act","qualifier":"","band":null,"col":null},
   {"term":"Kommunikation","qualifier":"","band":"9","col":"1539"},
   {"term":"Redehandlung","qualifier":"","band":null,"col":null},
-  {"term":"Sprachhandlung","qualifier":"","band":null,"col":null},
-  {"term":"– VI (sprach.) 4 923–933 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"speech act","qualifier":"","band":null,"col":null},
+  {"term":"Sprachhandlung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":294,"name":"J. L. Austin","b":3,"n":4,"l":0,"editor":0,"role":"source"},

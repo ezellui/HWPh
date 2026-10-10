@@ -17,7 +17,7 @@ HWPH.put("a/1629",
  "next":{"id":1630,"lemma":"Konstruierbarkeit","band":"4","col":1009},
  "backlinks":[{"id":3148,"lemma":"Temperament","n":1}],
  "outlinks":[],
- "register":[{"term":"– II (psych ) 1 991f s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":732,"name":"E. Kretschmer","b":2,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":9010,"name":"W. Kretschmer","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

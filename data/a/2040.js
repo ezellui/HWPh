@@ -31,7 +31,7 @@ HWPH.put("a/2040",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Bedeutungserfüllung","qualifier":"","band":"6","col":"239"},
+  {"term":"Ausdruck","qualifier":"","band":"6","col":"239"},
   {"term":"denkbar","qualifier":"","band":null,"col":null},
   {"term":"erkennbar","qualifier":"","band":null,"col":null},
   {"term":"expressio","qualifier":"","band":"6","col":"239"},
@@ -116,7 +116,8 @@ HWPH.put("a/2040",
   {"id":2041,"lemma":"Mundus phaenomenon"},
   {"id":2172,"lemma":"Noumenon/Phaenomenon"},
   {"id":2893,"lemma":"Sinnenwelt/Verstandeswelt"},
-  {"id":3265,"lemma":"Übersinnlich; das Übersinnliche"}
+  {"id":3265,"lemma":"Übersinnlich; das Übersinnliche"},
+  {"id":3321,"lemma":"Unsichtbarkeit; Unsichtbares"}
  ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Mundus intelligibilis/sensibilis"},

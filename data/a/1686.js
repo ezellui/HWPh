@@ -20,7 +20,11 @@ HWPH.put("a/1686",
  "register":[
   {"term":"Abdruck","qualifier":"","band":"4","col":"1209"},
   {"term":"Abstand, unendlicher","qualifier":"","band":"4","col":"1207"},
+  {"term":"creatura","qualifier":"","band":null,"col":null},
+  {"term":"Geschöpf","qualifier":"","band":null,"col":null},
+  {"term":"Gott/Mensch","qualifier":"","band":null,"col":null},
   {"term":"Gottebenbildlichkeit","qualifier":"","band":"4","col":"1206"},
+  {"term":"Kreatürlichkeit","qualifier":"","band":null,"col":null},
   {"term":"Unendlichkeit","qualifier":"","band":"4","col":"1208"}
  ],
  "persons":[

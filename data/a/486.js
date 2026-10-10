@@ -43,9 +43,9 @@ HWPH.put("a/486",
   {"term":"signaculum","qualifier":"I (allg.)","band":"1","col":"985"},
   {"term":"signum","qualifier":"I (allg.)","band":"1","col":"985"},
   {"term":"Sozialcharakter","qualifier":"II (psych.)","band":"1","col":"992"},
+  {"term":"Temperament","qualifier":"I (allg.)","band":"1","col":"989"},
   {"term":"Unterscheidungsgründe","qualifier":"I (allg.)","band":"1","col":"987"},
-  {"term":"Wille","qualifier":"II (psych.)","band":"1","col":"991"},
-  {"term":"– III (biol.) 5 1155f. Merkmal","qualifier":"I (allg.)","band":null,"col":null}
+  {"term":"Wille","qualifier":"II (psych.)","band":"1","col":"991"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":3,"l":0,"editor":0,"role":"source"},
@@ -135,11 +135,23 @@ HWPH.put("a/486",
   {"id":613,"lemma":"Disposition","tf":2},
   {"id":1551,"lemma":"Kausalität","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":727,"lemma":"Empirischer/intelligibler Charakter"},
+  {"id":1432,"lemma":"Information"},
+  {"id":151,"lemma":"Anlage"},
+  {"id":488,"lemma":"Charakterologie"},
+  {"id":1629,"lemma":"Konstitutionstypus"},
+  {"id":2322,"lemma":"Persönlichkeit"},
+  {"id":3148,"lemma":"Temperament"}
+ ],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Charakter I (allg.)"},
   {"id":36,"name":"Psychologie","label":"Charakter II (psych.)"}
  ],
- "reg_authors":[{"name":"Pongratz Ludwig J","n":4},{"name":"Seidel Christa","n":7}]
+ "reg_authors":[
+  {"name":"Krückeberg Edzard","n":5},
+  {"name":"Pongratz Ludwig J","n":4},
+  {"name":"Seidel Christa","n":7}
+ ]
 }
 );

@@ -24,8 +24,8 @@ HWPH.put("a/2899",
   {"id":2146,"lemma":"Noesis","n":1}
  ],
  "register":[
-  {"term":"Idealismus, konstitutiver","qualifier":"","band":"9","col":"889"},
-  {"term":"Sinnstiftung","qualifier":"","band":null,"col":null}
+  {"term":"Idealismus, konstitutiver","qualifier":"(Husserl)","band":"9","col":"889"},
+  {"term":"Sinnstiftung","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":1,"n":2,"l":0,"editor":0,"role":"source"},

@@ -1,72 +1,7 @@
 HWPH.put("r/74-72",
 [
- ["Tropen; Tropos","Tropen; Tropos","","10","1520","main",3233,"Tropen; Tropos","tropen; tropos"],
- [
-  "transzendentaler; Realismus, empirischer (Kant) empirischer Satz","Anschauungssatz/Begriffssatz",
-  "(Bolzano)",null,null,"ref",166,"Anschauungssatz/Begriffssatz",
-  "transzendentaler; realismus, empirischer (kant) empirischer satz"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Noumenon/Phaenomenon","(Kant)",null,null,"ref",
-  2172,"Noumenon/Phaenomenon","transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Species","I (met.)",null,null,"ref",2966,
-  "Species","transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Materie","III","5","908f.","ref",1892,"Materie",
-  "transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Objekt","","6","1038","ref",2183,"Objekt",
-  "transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Sache","II","8","1096f.","ref",2730,"Sache",
-  "transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Schein","I 5","8","1234","ref",2757,"Schein",
-  "transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Systole/Diastole","","10","871","ref",3118,
-  "Systole/Diastole","transzendentaler; realismus, empirischer (kant)"
- ],
- ["Transzendental","Transzendental","X","10","1417","main",3219,"Transzendental","transzendental"],
- [
-  "transzendentaler; Realismus, empirischer (Kant) Idealismus, kritischer","Transzendental","VI",
-  "10","1389","ref",3219,"Transzendental",
-  "transzendentaler; realismus, empirischer (kant) idealismus, kritischer"
- ],
- [
-  "transzendentaler; Realismus, empirischer ( Kant) 4 43f. s. auch","Idealismus, kritischer","",null,
-  null,"ref",1348,"Idealismus, kritischer",
-  "transzendentaler; realismus, empirischer ( kant) 4 43f. s. auch"
- ],
- [
-  "transzendentaler; Realismus, empirischer ( Kant) 4 43f. s. auch","Realismus","II",null,null,"ref",
-  2588,"Realismus","transzendentaler; realismus, empirischer ( kant) 4 43f. s. auch"
- ],
  ["Transzendental","Transzendental","V","10","1385ff.","main",3219,"Transzendental","transzendental"],
  ["Tropen; Tropos","Tropen; Tropos","","10","1521","main",3233,"Tropen; Tropos","tropen; tropos"],
- [
-  "Trauer; Trauerarbeit","Trauer; Trauerarbeit","",null,null,"main",3224,"Trauer; Trauerarbeit",
-  "trauer; trauerarbeit"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Idealrealismus","",null,null,"ref",1356,
-  "Idealrealismus","transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Neurealismus – III (analyt. Philos.)","","8",
-  "162–169","ref",2588,"Realismus","transzendentaler; realismus, empirischer (kant)"
- ],
- [
-  "transzendentaler; Realismus, empirischer (Kant)","Wahrnehmung","VII (analyt. Philos.)",null,null,
-  "see",3539,"Wahrnehmung","transzendentaler; realismus, empirischer (kant)"
- ],
  ["tracas","Zerstreuung","I (anthr.)","12","1311","ref",3690,"Zerstreuung","tracas"],
  ["trace","Spur","",null,null,"ref",2997,"Spur","trace"],
  ["trace","Schrift","II (Derrida)","8","1430","ref",2781,"Schrift","trace"],
@@ -99,6 +34,18 @@ HWPH.put("r/74-72",
   "trager der welt"
  ],
  ["Trägheit","Trägheit","","10","1329–1334","main",3213,"Trägheit","tragheit"],
+ ["Trägheit","Acedia","",null,null,"see",39,"Acedia","tragheit"],
+ ["Trägheit","Ekel","",null,null,"see",699,"Ekel","tragheit"],
+ ["Trägheit","Faulheit","",null,null,"see",900,"Faulheit","tragheit"],
+ ["Trägheit","Gleichgültigkeit","",null,null,"see",1146,"Gleichgültigkeit","tragheit"],
+ ["Trägheit","Melancholie","",null,null,"see",1915,"Melancholie","tragheit"],
+ ["Trägheit","Schwermut","",null,null,"see",2788,"Schwermut","tragheit"],
+ ["Trägheit","Trauer; Trauerarbeit","",null,null,"see",3224,"Trauer; Trauerarbeit","tragheit"],
+ ["Trägheit","Überdruss","",null,null,"see",3249,"Überdruß","tragheit"],
+ ["Trägheit","Gravitation","",null,null,"see",1181,"Gravitation","tragheit"],
+ ["Trägheit","Impetus","",null,null,"see",1397,"Impetus","tragheit"],
+ ["Trägheit","Inertialsystem","",null,null,"see",1428,"Inertialsystem","tragheit"],
+ ["Trägheit","Materie","V (phys.)",null,null,"see",1892,"Materie","tragheit"],
  ["Trägheit (eth.)","Gewöhnung","","3","621","ref",1134,"Gewöhnung","tragheit (eth.)"],
  ["Trägheit (eth.)","Lasterkatalog","","5","38","ref",1730,"Lasterkatalog","tragheit (eth.)"],
  ["Trägheit (eth.)","Malum","VI","5","691","ref",1852,"Malum","tragheit (eth.)"],
@@ -122,16 +69,12 @@ HWPH.put("r/74-72",
  ],
  ["Tragische, das","Pantragismus","",null,null,"see",2267,"Pantragismus","tragische, das"],
  [
-  "Tragische, das","Pathetisch; das Pathetische","",null,null,"see",2289,
-  "Pathetisch, das Pathetische","tragische, das"
+  "Tragische, das","Pathetisch; das","",null,null,"see",2289,"Pathetisch, das Pathetische",
+  "tragische, das"
  ],
- ["Tragische, das","Umschlag","",null,null,"see",3275,"Umschlag","tragische, das"],
  ["Tragische, das","Schicksal","","8","1284","ref",2764,"Schicksal","tragische, das"],
  ["Tragödie","Tragische, das","",null,null,"ref",3214,"Tragische, das","tragodie"],
- [
-  "Tragödie","Paradox I (rhet.)","","7","89f.","ref",2270,"Paradox, Paradox(e), Paradoxie",
-  "tragodie"
- ],
+ ["Tragödie","Paradox","I (rhet.)","7","89f.","ref",2270,"Paradox, Paradox(e), Paradoxie","tragodie"],
  ["Tragödie","Poetik","I","7","1012f.","ref",2389,"Poetik","tragodie"],
  ["train of ideas","Seele","V","9","71","ref",2794,"Seele","train of ideas"],
  [
@@ -149,8 +92,14 @@ HWPH.put("r/74-72",
  ["transactio","Weltende","","12","465","ref",3562,"Weltende; Weltuntergang","transactio"],
  ["transcasus","Insolubilia","","4","398","ref",1450,"Insolubilia","transcasus"],
  ["transcendens","Transzendental","III",null,null,"ref",3219,"Transzendental","transcendens"],
- ["transcendens","Transzendenz transcendens physicum","",null,null,"ref",null,null,"transcendens"],
- ["Transzendental","Transzendental","IV","10","1374","main",3219,"Transzendental","transzendental"],
+ [
+  "transcendens","Transzendenz","",null,null,"ref",3223,"Transzendenz; Transzendieren",
+  "transcendens"
+ ],
+ [
+  "transcendens physicum","Transzendental","IV","10","1374","ref",3219,"Transzendental",
+  "transcendens physicum"
+ ],
  [
   "transcendentia transcendentalissima","Relation","II","8","593","ref",2668,"Relation",
   "transcendentia transcendentalissima"
@@ -196,9 +145,10 @@ HWPH.put("r/74-72",
  ["transgressio","Übergang","",null,null,"ref",3253,"Übergang","transgressio"],
  ["transgression","Subversion","II B","10","571","ref",3068,"Subversion","transgression"],
  [
-  "transintelligibel","Irrational; transintelligibel (Hartmann) transitus dei","",null,null,"ref",
-  1497,"Irrational, das Irrationale, Irrationalismus","transintelligibel"
+  "transintelligibel","Irrational; transintelligibel","(Hartmann)",null,null,"ref",1497,
+  "Irrational, das Irrationale, Irrationalismus","transintelligibel"
  ],
+ ["transitus dei","Schweigen; Stille","A","8","1486","ref",2787,"Schweigen, Stille","transitus dei"],
  [
   "Transkreation","Generatianismus; Traduzianismus","","3","273","ref",1065,"Generatio",
   "transkreation"
@@ -239,7 +189,7 @@ HWPH.put("r/74-72",
  ],
  ["transnominatio","Metonymie","",null,null,"ref",1969,"Metonymie","transnominatio"],
  [
-  "transobjektiv","Irrational; transintelligibel (Hartmann)","",null,null,"ref",1497,
+  "transobjektiv","Irrational; transintelligibel","(Hartmann)",null,null,"ref",1497,
   "Irrational, das Irrationale, Irrationalismus","transobjektiv"
  ],
  ["transobjektiv","Objekt","","6","1047","ref",2183,"Objekt","transobjektiv"],
@@ -270,7 +220,14 @@ HWPH.put("r/74-72",
   "transsubjektivitat"
  ],
  ["Transsubjektivität","Ethik","VIII","2","807","ref",835,"Ethik","transsubjektivitat"],
- ["Transsubjektivität","Psychologie","",null,null,"ref",2511,"Psychologie","transsubjektivitat"],
+ [
+  "Transsubjektivität","Psychologie, geisteswissenschaftliche","","7","1656","ref",2514,
+  "Psychologie, geisteswissenschaftliche und verstehende","transsubjektivitat"
+ ],
+ [
+  "Transsubjektivität","Subjektivität","II","10","465","ref",3052,"Subjektivität",
+  "transsubjektivitat"
+ ],
  [
   "transsubstantiatio","Transsubstantiation","",null,null,"ref",3218,"Transsubstantiation",
   "transsubstantiatio"
@@ -318,7 +275,8 @@ HWPH.put("r/74-72",
   "Supertranszendent; Supertranszendenz","transzendental"
  ],
  ["Transzendental","Universalien","",null,null,"see",3302,"Universalien","transzendental"],
- ["Transzendentale, das","Schöne","",null,null,"ref",2776,"Schöne","transzendentale, das"],
+ ["Transzendentale, das","Schöne, das","II","8","1353","ref",2776,"Schöne","transzendentale, das"],
+ ["transzendentale Analytik","Analytik","",null,null,"ref",128,"Analytik","transzendentale analytik"],
  [
   "transzendentale Apperzeption","Apperzeption, transzendentale","",null,null,"ref",213,
   "Apperzeption, transzendentale","transzendentale apperzeption"
@@ -389,13 +347,16 @@ HWPH.put("r/74-72",
   "Wahrheit, transzendentale","transzendentale wahrheit"
  ],
  [
-  "transzendentaler Idealismus","Idealismus","",null,null,"ref",1343,"Idealismus",
-  "transzendentaler idealismus"
+  "transzendentaler Idealismus","Idealismus, transzendentaler; Realismus, empirischer","(Kant)",null,
+  null,"ref",1343,"Idealismus","transzendentaler idealismus"
  ],
  [
-  "transzendentaler; Realismus, empirischer (Kant) transzendentales Bewusstsein",
-  "Bewusstsein, transzendentales transzendentales Ego","",null,null,"ref",412,"Bewußtsein",
-  "transzendentaler; realismus, empirischer (kant) transzendentales bewusstsein"
+  "transzendentales Bewusstsein","Bewusstsein, transzendentales","",null,null,"ref",421,
+  "Bewußtsein, transzendentales","transzendentales bewusstsein"
+ ],
+ [
+  "transzendentales Ego","Subjektivität, transzendentale","(Husserl)","10","472f.","ref",3053,
+  "Subjektivität, transzendentale","transzendentales ego"
  ],
  [
   "transzendentales Ideal","Ideal, transzendentales","(Kant)",null,null,"ref",1340,
@@ -432,12 +393,12 @@ HWPH.put("r/74-72",
   "transzendentalphilosophie"
  ],
  [
-  "Transzendentalphilosophie","Phänomenologie","",null,null,"ref",2343,"Phänomenologie",
-  "transzendentalphilosophie"
+  "Transzendentalphilosophie","Phänomenologie transzendentale","","7","511","ref",2347,
+  "Phänomenologie, transzendentale","transzendentalphilosophie"
  ],
  [
-  "transzendentale 7 511","Philosophie","IV E","7","715ff.","ref",2353,"Philosophie",
-  "transzendentale 7 511"
+  "Transzendentalphilosophie","Philosophie","IV E","7","715ff.","ref",2353,"Philosophie",
+  "transzendentalphilosophie"
  ],
  [
   "Transzendentalpoesie","Transzendentalpoesie","","10","1438f.","main",3221,"Transzendentalpoesie",
@@ -488,8 +449,11 @@ HWPH.put("r/74-72",
   "Transzendente, das","Transzendental","X","10","1412","ref",3219,"Transzendental",
   "transzendente, das"
  ],
- ["Transzendenz 10","Transzendenz 10","",null,null,"main",null,null,"transzendenz 10"],
- ["Transzendenz 10","Immanenz Transzendenz","",null,null,"see",null,null,"transzendenz 10"],
+ [
+  "Transzendenz","Transzendenz","",null,null,"main",3223,"Transzendenz; Transzendieren",
+  "transzendenz"
+ ],
+ ["Transzendenz","Immanenz Transzendenz","",null,null,"see",null,null,"transzendenz"],
  [
   "Transzendenz, allgemeinmenschliche","Sozialismus","5","9","1185","ref",2947,"Sozialismus",
   "transzendenz, allgemeinmenschliche"
@@ -519,7 +483,10 @@ HWPH.put("r/74-72",
   "Trauer; Trauerarbeit","Trägheit","I (anthr.)",null,null,"see",3213,"Trägheit",
   "trauer; trauerarbeit"
  ],
- ["Trauer; Trauerarbeit","Überdruss Trauer","",null,null,"see",null,null,"trauer; trauerarbeit"],
+ ["Trauer; Trauerarbeit","Überdruss","",null,null,"see",3249,"Überdruß","trauer; trauerarbeit"],
+ ["Trauer","Lasterkatalog","","5","37","ref",1730,"Lasterkatalog","trauer"],
+ ["Trauer","Pessimismus","","7","392","ref",2331,"Pessimismus","trauer"],
+ ["Trauer","Verleugnung","","11","720f.","ref",3416,"Verleugnung","trauer"],
  [
   "Trauer der Endlichkeit","Pessimismus","","7","388","ref",2331,"Pessimismus",
   "trauer der endlichkeit"
@@ -602,6 +569,15 @@ HWPH.put("r/74-72",
  ],
  ["Trick","Arrangement","(Adler)","1","521","ref",250,"Arrangement","trick"],
  ["Trieb","Trieb","","10","1483–1492","main",3229,"Trieb","trieb"],
+ ["Trieb","Begehren; appetitus","",null,null,"see",362,"Begehren, appetitus naturalis","trieb"],
+ ["Trieb","Aggression","",null,null,"see",61,"Aggression","trieb"],
+ ["Trieb","Antrieb","",null,null,"see",194,"Antrieb","trieb"],
+ ["Trieb","Es","",null,null,"see",824,"Es","trieb"],
+ ["Trieb","Lebenstrieb","",null,null,"see",1755,"Lebenstrieb","trieb"],
+ ["Trieb","Libido","",null,null,"see",1791,"Libido","trieb"],
+ ["Trieb","Motivation","",null,null,"see",2034,"Motivation","trieb"],
+ ["Trieb","Sexualität","II",null,null,"see",2878,"Sexualität","trieb"],
+ ["Trieb","Todestrieb","",null,null,"see",3200,"Todestrieb","trieb"],
  [
   "Trieb","Individuum; Individualität","III","4","315","ref",1424,"Individuum, Individualität",
   "trieb"
@@ -618,7 +594,7 @@ HWPH.put("r/74-72",
  ["Trieb zur Nachahmung","Nachahmung","",null,null,"ref",2054,"Nachahmung","trieb zur nachahmung"],
  ["Triebangst","Angst; Furcht","","1","312","ref",144,"Angst, Furcht","triebangst"],
  [
-  "Triebbefriedigung","Antriebsüberschuss (Gehlen)","","1","427","ref",195,"Antriebsüberschuß",
+  "Triebbefriedigung","Antriebsüberschuss","(Gehlen)","1","427","ref",195,"Antriebsüberschuß",
   "triebbefriedigung"
  ],
  [
@@ -637,6 +613,7 @@ HWPH.put("r/74-72",
  ["Triebfeder","Lohn","I 1","5","506","ref",1828,"Lohn, Verdienst","triebfeder"],
  ["Triebfeder","Moralität/Legalität","","6","179","ref",2028,"Moralität/Legalität","triebfeder"],
  ["Triebfeder","Trieb","I (allg.)","10","1484","ref",3229,"Trieb","triebfeder"],
+ ["Triebleben","Wissen","V","12","890","ref",3634,"Wissen","triebleben"],
  [
   "Triebregulation","Hemmen/Enthemmen","(Scheler)",null,null,"ref",1247,"Hemmen/Enthemmen",
   "triebregulation"
@@ -649,7 +626,7 @@ HWPH.put("r/74-72",
  ["Triebschicksal","Sublimierung","","10","476","ref",3056,"Sublimierung","triebschicksal"],
  ["Triebstau","Leerlaufhandlung","",null,null,"ref",1761,"Leerlaufhandlung","triebstau"],
  [
-  "Triebüberschuss","Antriebsüberschuss (Gehlen)","","1","427","ref",195,"Antriebsüberschuß",
+  "Triebüberschuss","Antriebsüberschuss","(Gehlen)","1","427","ref",195,"Antriebsüberschuß",
   "triebuberschuss"
  ],
  ["Triebüberschuss","Maschine","","5","799","ref",1872,"Maschine","triebuberschuss"],
@@ -677,7 +654,9 @@ HWPH.put("r/74-72",
   "trinitat"
  ],
  ["Trinität","Perichorese","",null,null,"see",2311,"Perichorese","trinitat"],
- ["Trinität","Person","",null,null,"see",2318,"Person","trinitat"],
+ ["Trinität","Person","I-II",null,null,"see",2318,"Person","trinitat"],
+ ["Trinität","Subsistenz","",null,null,"see",3060,"Subsistenz","trinitat"],
+ ["Trinität","Zweinaturenlehre","",null,null,"see",3723,"Zweinaturenlehre","trinitat"],
  ["Trinität","Gott","VIII","3","757","ref",1162,"Gott","trinitat"],
  [
   "Trinität","Natura naturans/naturata","","6","504f.","ref",2079,"Natura naturans/naturata",
@@ -698,11 +677,19 @@ HWPH.put("r/74-72",
   "Ontologie, trinitarische","trinitarische ontologie"
  ],
  ["trinitas","Trinität","",null,null,"ref",3231,"Trinität","trinitas"],
- ["triplex oratio","Wort","",null,null,"ref",3656,"Wort","triplex oratio"],
  [
-  "triplex via","Via causalitatis/negationis/eminentiae triplicatio","",null,null,"ref",3460,
+  "triplex oratio","Wort, inneres","","12","1037f.","ref",3657,"Wort, inneres; Rede, innere",
+  "triplex oratio"
+ ],
+ [
+  "triplex usus legis","Tertius usus legis","",null,null,"ref",3155,"Tertius usus legis",
+  "triplex usus legis"
+ ],
+ [
+  "triplex via","Via causalitatis/negationis/eminentiae","",null,null,"ref",3460,
   "Via causalitatis; via negationis; via eminentiae","triplex via"
  ],
+ ["triplicatio","Verdopplung","","11","614","ref",3392,"Verdopplung","triplicatio"],
  ["Triplotheismus","Polytheismus","I","7","1090","ref",2403,"Polytheismus","triplotheismus"],
  [
   "tristesse majestueuse","Tragische, das","","10","1337","ref",3214,"Tragische, das",
@@ -711,7 +698,7 @@ HWPH.put("r/74-72",
  ["tristitia","Trauer; Trauerarbeit","",null,null,"ref",3224,"Trauer; Trauerarbeit","tristitia"],
  ["tristitia","Acedia","","1","74","ref",39,"Acedia","tristitia"],
  ["tristitia","Affekt","I","1","92","ref",53,"Affekt","tristitia"],
- ["tristitia","Scham C","2","8","1212","ref",2751,"Scham, Scheu","tristitia"],
+ ["tristitia","Scham","C 2","8","1212","ref",2751,"Scham, Scheu","tristitia"],
  ["tristitia","Trägheit","I (anthr.)","10","1329","ref",3213,"Trägheit","tristitia"],
  ["triunus","Trinität","II","10","1505","ref",3231,"Trinität","triunus"],
  ["Trivium","Trivium","","10","1517–1520","main",3232,"Trivium","trivium"],
@@ -758,9 +745,13 @@ HWPH.put("r/74-72",
   "tropologia"
  ],
  ["tropologia","Tropen; Tropos","","10","1520f.","ref",3233,"Tropen; Tropos","tropologia"],
+ ["Tropos","Tropen; Tropos","",null,null,"ref",3233,"Tropen; Tropos","tropos"],
+ ["Tropos","Figur","I (rhet.)","2","948","ref",916,"Figur","tropos"],
  ["tropus","Tropen; Tropos","",null,null,"ref",3233,"Tropen; Tropos","tropus"],
  ["Trost","Trost","","10","1524–1528","main",3235,"Trost","trost"],
- ["Trost","Therapie II (philos.) Trost","",null,null,"see",null,null,"trost"],
+ ["Trost","Therapie","II (philos.)",null,null,"see",3184,"Therapie; Therapeutik","trost"],
+ ["Trost","Religion","VIII 4","8","689","ref",2673,"Religion","trost"],
+ ["Trost","Trauer; Trauerarbeit","","10","1455f.","ref",3224,"Trauer; Trauerarbeit","trost"],
  ["Trotz","Verzweiflung","",null,null,"ref",3459,"Verzweiflung","trotz"],
  ["Trotzkismus","Trotzkismus","","10","1528f.","main",3236,"Trotzkismus","trotzkismus"],
  ["Trotzkismus","Stalinismus","",null,null,"see",3006,"Stalinismus","trotzkismus"],
@@ -771,10 +762,13 @@ HWPH.put("r/74-72",
  ["Trugschluss","Trugschluss","","10","1529","main",3237,"Trugschluß","trugschluss"],
  ["Trugschluss","Hörnerfrage","",null,null,"see",1311,"Hörnerfrage","trugschluss"],
  ["Trugschluss","Insolubilia","",null,null,"see",1450,"Insolubilia","trugschluss"],
- ["Trugschluss","Irrtum","(Schlussfehler)",null,null,"see",1499,"Irrtum","trugschluss"],
+ [
+  "Trugschluss","Irrtum (Schlussfehler)","",null,null,"see",1500,"Irrtum (Schlußfehler)",
+  "trugschluss"
+ ],
  ["Trugschluss","Krokodilschluss","",null,null,"see",1699,"Krokodilschluß","trugschluss"],
  [
-  "Trugschluss","Paradox III (log.)","",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
+  "Trugschluss","Paradox","III (log.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
   "trugschluss"
  ],
  ["Trugschluss","Paralogismus","",null,null,"see",2273,"Paralogismus","trugschluss"],
@@ -824,21 +818,13 @@ HWPH.put("r/74-72",
  ],
  ["truthfulness","Wahrhaftigkeit","",null,null,"ref",3522,"Wahrhaftigkeit","truthfulness"],
  ["truth-maker","Verifikation","II (Wahrmacher)",null,null,"ref",3409,"Verifikation","truth-maker"],
- [
-  "Trauer; Trauerarbeit","Trauer; Trauerarbeit","","10","1458","main",3224,"Trauer; Trauerarbeit",
-  "trauer; trauerarbeit"
- ],
- [
-  "Trauer; Trauerarbeit","Trauer; Trauerarbeit","",null,null,"main",3224,"Trauer; Trauerarbeit",
-  "trauer; trauerarbeit"
- ],
  ["Trappe Paul","Rechtssoziologie","","8","327–331","author",2615,"Rechtssoziologie","trappe paul"],
  ["Trappe Tobias","Realismus","I 2","8","150–156","author",2588,"Realismus","trappe tobias"],
  [
   "Trappe Tobias","Realität, formale/objektive","II","8","199f.","author",2591,
   "Realität, formale/objektive","trappe tobias"
  ],
- ["Trappe Tobias","Schöne","",null,null,"author",2776,"Schöne","trappe tobias"],
+ ["Trappe Tobias","Schöne, das","IV A","8","1364–1369","author",2776,"Schöne","trappe tobias"],
  [
   "Trappe Tobias","Sein; Seiendes","V 7","9","223–230","author",2806,"Sein; Seiendes",
   "trappe tobias"
@@ -848,7 +834,7 @@ HWPH.put("r/74-72",
   "trappe tobias"
  ],
  ["Trappe Tobias","Setzen","II","9","714–721","author",2876,"Setzen, Setzung","trappe tobias"],
- ["Trappe Tobias","Spannung","",null,null,"author",2961,"Spannung","trappe tobias"],
+ ["Trappe Tobias","Spannung I.","III","9","1282–1284","author",2961,"Spannung","trappe tobias"],
  ["Trappe Tobias","Species","III (log.)","9","1345–1350","author",2966,"Species","trappe tobias"],
  [
   "Trappe Tobias","Staunen","","10","116–126","author",3015,"Staunen; Bewunderung; Verwunderung",

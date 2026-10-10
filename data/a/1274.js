@@ -26,6 +26,6 @@ HWPH.put("a/1274",
  ],
  "see_also":[],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Hilfssatz"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -28,7 +28,7 @@ HWPH.put("a/3533",
   {"id":3523,"lemma":"Wahrheit","n":4}
  ],
  "register":[
-  {"term":"Invention; Erfindung III (log.)","qualifier":"","band":"12","col":"169"},
+  {"term":"Erschlossenheit","qualifier":"","band":"12","col":"169"},
   {"term":"Ordnung","qualifier":"","band":"12","col":"168"},
   {"term":"transzendentale Wahrheit","qualifier":"","band":null,"col":null},
   {"term":"Traum","qualifier":"","band":"12","col":"168"},

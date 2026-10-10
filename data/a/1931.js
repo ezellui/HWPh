@@ -17,7 +17,7 @@ HWPH.put("a/1931",
  "next":{"id":1932,"lemma":"Mesmerismus","band":"5","col":1156},
  "backlinks":[{"id":3278,"lemma":"Umwelt","n":1},{"id":3539,"lemma":"Wahrnehmung","n":1}],
  "outlinks":[],
- "register":[{"term":"Merkzeichen","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"Merkzeichen","qualifier":"(Uexküll)","band":null,"col":null}],
  "persons":[
   {"id":1216,"name":"J. von Uexküll","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":6860,"name":"G. Kriszat","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}

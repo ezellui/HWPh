@@ -36,7 +36,8 @@ HWPH.put("r/65-6e",
   "Ende der Philosophie","Seinsgeschichte","(Heidegger)","9","259","ref",2812,"Seinsgeschichte",
   "ende der philosophie"
  ],
- ["Ende der Welt","Weltende endeavoring","",null,null,"ref",null,null,"ende der welt"],
+ ["Ende der Welt","Weltende","",null,null,"ref",3562,"Weltende; Weltuntergang","ende der welt"],
+ ["endeavoring","Wille","III C","12","795","ref",3620,"Wille","endeavoring"],
  ["endeavour","Interesse","II","4","485","ref",1475,"Interesse","endeavour"],
  [
   "Endeckungszusammenhang","Rekonstruktion","","8","574","ref",2667,"Rekonstruktion",
@@ -69,16 +70,26 @@ HWPH.put("r/65-6e",
   "Endlich/unendlich","Vollformalismus","",null,null,"see",3481,"Vollformalismus",
   "endlich/unendlich"
  ],
- ["endlich/unendlich","Grenze","",null,null,"ref",1184,"Grenze","endlich/unendlich"],
+ ["endlich/unendlich","Grenze; Schranke","",null,null,"ref",1184,"Grenze","endlich/unendlich"],
+ [
+  "endlich/unendlich","Kunst; Kunstwerk","III","4","1388f.","ref",1712,"Kunst, Kunstwerk",
+  "endlich/unendlich"
+ ],
+ ["endlich/unendlich","Sollen","I","9","1030","ref",2920,"Sollen","endlich/unendlich"],
  ["Endlichkeit","Fall; Abfall","","2","892","ref",890,"Fall, Abfall","endlichkeit"],
  ["Endlichkeit","Vermittlung","","11","723","ref",3417,"Vermittlung","endlichkeit"],
  ["Endlichkeit der Welt","Universum","","11","223","ref",3310,"Universum","endlichkeit der welt"],
  ["Endlosigkeit","Unendlichkeit","","11","141","ref",3291,"Unendlichkeit","endlosigkeit"],
- ["endofasia","Wort","",null,null,"ref",3656,"Wort","endofasia"],
- ["Endophasie","Wort","",null,null,"ref",3656,"Wort","endophasie"],
+ ["endofasia","Wort, inneres","","12","1045","ref",3657,"Wort, inneres; Rede, innere","endofasia"],
+ ["endogen","Melancholie","II","5","1043","ref",1915,"Melancholie","endogen"],
+ ["Endophasie","Wort, inneres","","12","1045","ref",3657,"Wort, inneres; Rede, innere","endophasie"],
+ [
+  "Endoprobleme","System","II","10","853","ref",3115,"System; Systematik; systematisch",
+  "endoprobleme"
+ ],
  ["endothymer Grund","Es","","2","739","ref",824,"Es","endothymer grund"],
  [
-  "endothymer Grund","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "endothymer Grund","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","endothymer grund"
  ],
  ["Endstiftung","Phänomenologie","II (Husserl)","7","494","ref",2343,"Phänomenologie","endstiftung"],
@@ -163,7 +174,9 @@ HWPH.put("r/65-6e",
  ["engine","Ingenium","","4","362","ref",1436,"Ingenium","engine"],
  ["Engramm","Engramm","","2","503","main",742,"Engramm","engramm"],
  ["Engramm","Gedächtnis","",null,null,"see",996,"Gedächtnis","engramm"],
- ["Engramm","Mneme; Mnemosyne II 1 Engramm","",null,null,"see",1989,"Mneme, Mnemosyne","engramm"],
+ ["Engramm","Mneme; Mnemosyne","II 1",null,null,"see",1989,"Mneme, Mnemosyne","engramm"],
+ ["Engramm","Disposition","II (psych.)",null,null,"ref",613,"Disposition","engramm"],
+ ["Engramm","Spur","","9","1554","ref",2997,"Spur","engramm"],
  [
   "Enkyklios Paideia","Enkyklios Paideia","","2","503","main",743,"Enkyklios Paideia",
   "enkyklios paideia"
@@ -202,7 +215,11 @@ HWPH.put("r/65-6e",
   "ens appetibile","Gut; das Gute","III","3","958","ref",1203,"Gut, das Gute, das Gut",
   "ens appetibile"
  ],
- ["ens autoteles","Selbstzweck ens civilis","",null,null,"ref",null,null,"ens autoteles"],
+ [
+  "ens autoteles","Selbstzweck","",null,null,"ref",2855,"Selbstzweck; Zweck an sich selbst",
+  "ens autoteles"
+ ],
+ ["ens civilis","Sein, moralisches","","9","241","ref",2808,"Sein, moralisches","ens civilis"],
  [
   "ens communissime","Supertranszendent","","10","645","ref",3081,
   "Supertranszendent; Supertranszendenz","ens communissime"
@@ -213,7 +230,14 @@ HWPH.put("r/65-6e",
   "ens imaginarium","Gedankending","","3","61","ref",1000,"Gedankending (ens rationis)",
   "ens imaginarium"
  ],
- ["ens imaginarium","Negation","",null,null,"ref",2100,"Negation","ens imaginarium"],
+ [
+  "ens imaginarium","Negation; Negativität","II","6","676","ref",2101,"Negation, Negativität",
+  "ens imaginarium"
+ ],
+ [
+  "ens in subiecto","Substanz","II","10","513","ref",3062,"Substanz; Substanz/Akzidens",
+  "ens in subiecto"
+ ],
  ["ens linguae","Sein; Seiendes","IV","9","201","ref",2806,"Sein; Seiendes","ens linguae"],
  ["ens linguae","Skindapsos","","9","974","ref",2908,"Skindapsos","ens linguae"],
  ["ens metaphysicum","Sein; Seiendes","IV","9","206","ref",2806,"Sein; Seiendes","ens metaphysicum"],
@@ -224,12 +248,20 @@ HWPH.put("r/65-6e",
   "ens necessarium"
  ],
  ["ens necessarium","Gott","VIII","3","764","ref",1162,"Gott","ens necessarium"],
- ["ens negativum","Negation","",null,null,"ref",2100,"Negation","ens negativum"],
+ [
+  "ens negativum","Negation; Negativität","I","6","674","ref",2101,"Negation, Negativität",
+  "ens negativum"
+ ],
+ ["ens originarium","Ungrund; Urgrund","","11","169","ref",3298,"Ungrund; Urgrund","ens originarium"],
  ["ens penetrabile","Praedominium","","7","1225","ref",2431,"Praedominium","ens penetrabile"],
  ["ens per essentiam","Teilhabe","","10","964","ref",3143,"Teilhabe","ens per essentiam"],
  [
-  "ens per se/ens per aliud","Substanz II ens perfectissimum","",null,null,"ref",null,null,
+  "ens per se/ens per aliud","Substanz","II",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
   "ens per se/ens per aliud"
+ ],
+ [
+  "ens perfectissimum","Vollkommenheit","","11","1120ff.","ref",3482,"Vollkommenheit",
+  "ens perfectissimum"
  ],
  [
   "ens philosophicum","Gedankending","","3","59","ref",1000,"Gedankending (ens rationis)",
@@ -275,24 +307,32 @@ HWPH.put("r/65-6e",
  ["Entäusserung","Entäusserung","","2","504–506","main",745,"Entäußerung","entausserung"],
  ["Entäusserung","Arbeit","",null,null,"see",230,"Arbeit","entausserung"],
  ["Entäusserung","Entfremdung","",null,null,"see",747,"Entfremdung","entausserung"],
- ["Entäusserung","Entzweiung Entäusserung","",null,null,"see",null,null,"entausserung"],
+ ["Entäusserung","Entzweiung","",null,null,"see",765,"Entzweiung, entzweien","entausserung"],
+ ["Entäusserung","Kenose","",null,null,"ref",1559,"Kenose","entausserung"],
+ ["Entäusserung","Absolut; das Absolute","","1","24","ref",27,"Absolut, das Absolute","entausserung"],
+ ["Entäusserung","Tod Gottes","","10","1242","ref",3198,"Tod Gottes","entausserung"],
+ [
+  "Entäusserung","Verdinglichung","","11","609","ref",3391,"Verdinglichung; Vergegenständlichung",
+  "entausserung"
+ ],
  [
   "Entbergung/Verbergung","Streit","I (allg.)","10","299","ref",3039,"Streit",
   "entbergung/verbergung"
  ],
  ["Entbergung/Verbergung","Wahrheit","VI A","12","108","ref",3523,"Wahrheit","entbergung/verbergung"],
  [
-  "Entdecken (Heidegger)","Erschlossenheit (Heidegger)","","2","726","ref",815,
+  "Entdecken (Heidegger)","Erschlossenheit","(Heidegger)","2","726","ref",815,
   "Erschlossenheit, Erschließen","entdecken (heidegger)"
  ],
  [
-  "Entdecktheit","Invention; Erfindung III (log.)","","4","554","ref",1490,
+  "Entdecktheit","Invention; Erfindung","III (log.)","4","554","ref",1490,
   "Invention, Erfindung, Entdeckung","entdecktheit"
  ],
  [
-  "Entdeckung","Invention; Erfindung Entdeckungslogik","",null,null,"ref",1490,
-  "Invention, Erfindung, Entdeckung","entdeckung"
+  "Entdeckung","Invention; Erfindung","",null,null,"ref",1490,"Invention, Erfindung, Entdeckung",
+  "entdeckung"
  ],
+ ["Entdeckungslogik","Induktionismus","",null,null,"ref",1426,"Induktionismus","entdeckungslogik"],
  ["Entdogmatisierung","Dogmenkritik","","2","280","ref",627,"Dogmenkritik","entdogmatisierung"],
  [
   "Enteignis","Seinsvergessenheit","(Heidegger)","9","264","ref",2815,"Seinsvergessenheit",
@@ -304,6 +344,14 @@ HWPH.put("r/65-6e",
   "Desappropriatio, expropriatio (sui)","enteignung des selbst"
  ],
  ["Entelechie","Entelechie","","2","506–509","main",746,"Entelechie","entelechie"],
+ ["Entelechie","Akt/Potenz","",null,null,"see",83,"Akt/Potenz","entelechie"],
+ ["Entelechie","Artlogos","(Conrad-Martius)",null,null,"see",257,"Artlogos","entelechie"],
+ ["Entelechie","Endelechie","",null,null,"see",732,"Endelechie","entelechie"],
+ ["Entelechie","Äquifinalität","",null,null,"see",225,"Äquifinalität","entelechie"],
+ ["Entelechie","Archeus","",null,null,"see",240,"Archeus","entelechie"],
+ ["Entelechie","Neovitalismus","",null,null,"see",2111,"Neovitalismus","entelechie"],
+ ["Entelechie","Präformation","",null,null,"see",2433,"Präformation","entelechie"],
+ ["Entelechie","Zweck; Ziel","",null,null,"see",3718,"Zweck; Ziel","entelechie"],
  [
   "Entelechie","Begehren; appetitus naturalis","","1","777","ref",362,
   "Begehren, appetitus naturalis","entelechie"
@@ -330,6 +378,8 @@ HWPH.put("r/65-6e",
   "Herrschaft und Knechtschaft","entfremdete arbeit"
  ],
  ["Entfremdung","Entfremdung","","2","509–525","main",747,"Entfremdung","entfremdung"],
+ ["Entfremdung","Narzissmus","III",null,null,"ref",2069,"Narzißmus, narzißtisch","entfremdung"],
+ ["Entfremdung","Schuld","III","8","1462","ref",2784,"Schuld","entfremdung"],
  [
   "Entfremdung, heimische","Verfremdung","","11","655","ref",3400,"Verfremdung",
   "entfremdung, heimische"
@@ -390,9 +440,13 @@ HWPH.put("r/65-6e",
   "entlastung"
  ],
  [
-  "Entlastung","Zweckmässigkeit, sekundäre objektive (Gehlen) Entlastung","",null,null,"see",3719,
+  "Entlastung","Zweckmässigkeit, sekundäre objektive","(Gehlen)",null,null,"see",3719,
   "Zweckmäßigkeit, sekundäre objektive","entlastung"
  ],
+ ["Entlastung","Anthropologie","","1","371","ref",175,"Anthropologie","entlastung"],
+ ["Entlastung","Gegenseitigkeit","","3","129","ref",1019,"Gegenseitigkeit","entlastung"],
+ ["Entlastung","Tradition","","10","1323f.","ref",3212,"Tradition","entlastung"],
+ ["Entlastung","Verdichtung","II (erk.)","11","607f.","ref",3390,"Verdichtung","entlastung"],
  [
   "Entleerung des Inneren","Entäusserung","","2","505","ref",745,"Entäußerung",
   "entleerung des inneren"
@@ -450,20 +504,17 @@ HWPH.put("r/65-6e",
  ["Entsagung","Entsagung","(Goethe)","2","541","main",753,"Entsagung","entsagung"],
  ["Entschädigung","Wiedergutmachung","",null,null,"ref",3615,"Wiedergutmachung","entschadigung"],
  [
-  "entscheidbar","Definit; Definitheit II (Carnap)","",null,null,"ref",534,"Definit, Definitheit",
+  "entscheidbar","Definit; Definitheit","II (Carnap)",null,null,"ref",534,"Definit, Definitheit",
   "entscheidbar"
  ],
  ["entscheidbar","Algorithmus","","1","155ff.","ref",97,"Algorithmus","entscheidbar"],
  ["Entscheidung","Entscheidung","","2","541–544","main",754,"Entscheidung","entscheidung"],
- [
-  "Entscheidung","Dezision (Schmitt)","",null,null,"see",578,"Dezision, Dezisionismus",
-  "entscheidung"
- ],
+ ["Entscheidung","Dezision","(Schmitt)",null,null,"see",578,"Dezision, Dezisionismus","entscheidung"],
  ["Entscheidung","Entschluss","",null,null,"see",756,"Entschluß","entscheidung"],
  ["Entscheidung","Entweder-Oder","(Kierkegaard)",null,null,"see",758,"Entweder-Oder","entscheidung"],
  ["Entscheidung","Wahl","",null,null,"see",3517,"Wahl","entscheidung"],
  [
-  "Entscheidung, juristische","Dezision (Schmitt)","","2","160","ref",578,"Dezision, Dezisionismus",
+  "Entscheidung, juristische","Dezision","(Schmitt)","2","160","ref",578,"Dezision, Dezisionismus",
   "entscheidung, juristische"
  ],
  [
@@ -479,7 +530,7 @@ HWPH.put("r/65-6e",
   "entscheidungstheorie"
  ],
  [
-  "Entscheidungstheorie","Rationalität III (analyt. Philos.)","",null,null,"see",2576,
+  "Entscheidungstheorie","Rationalität","III (analyt. Philos.)",null,null,"see",2576,
   "Rationalität, Rationalisierung","entscheidungstheorie"
  ],
  ["Entscheidungstheorie","Risiko","",null,null,"see",2718,"Risiko","entscheidungstheorie"],
@@ -505,7 +556,7 @@ HWPH.put("r/65-6e",
   "entschiedenheit"
  ],
  [
-  "Entschlossenheit","Dezision (Schmitt)","","2","161","ref",578,"Dezision, Dezisionismus",
+  "Entschlossenheit","Dezision","(Schmitt)","2","161","ref",578,"Dezision, Dezisionismus",
   "entschlossenheit"
  ],
  ["Entschlossenheit","Entscheidung","","2","543","ref",754,"Entscheidung","entschlossenheit"],
@@ -516,12 +567,26 @@ HWPH.put("r/65-6e",
  ["Entschluss","Prohairesis","",null,null,"ref",2474,"Prohairesis","entschluss"],
  ["Entschlusswille","Wille","III B","12","791","ref",3620,"Wille","entschlusswille"],
  ["entschuldbar","Unwissenheit","","11","342","ref",3335,"Unwissenheit","entschuldbar"],
- ["Entschuldigen","Verzeihen Entselbstung","",null,null,"ref",null,null,"entschuldigen"],
+ ["Entschuldigen","Verzeihen","",null,null,"ref",3457,"Verzeihen; Vergeben","entschuldigen"],
+ [
+  "Entselbstung","Desappropriatio","",null,null,"ref",565,"Desappropriatio, expropriatio (sui)",
+  "entselbstung"
+ ],
+ [
+  "Entselbstung der Person","Selbstgefühl","","9","448","ref",2836,"Selbstgefühl",
+  "entselbstung der person"
+ ],
  [
   "Entsetzen vor sich selbst","Religion","VIII 9","8","697","ref",2673,"Religion",
   "entsetzen vor sich selbst"
  ],
- ["Entsetzliche, das","Schreckliche","",null,null,"ref",2780,"Schreckliche","entsetzliche, das"],
+ [
+  "Entsetzliche, das","Schreckliche, das","","8","1414","ref",2780,"Schreckliche",
+  "entsetzliche, das"
+ ],
+ ["Entspannung","Entspannung","","2","548f.","main",757,"Entspannung","entspannung"],
+ ["Entspannung","Aktivierung","",null,null,"see",80,"Aktivierung (Aktivation)","entspannung"],
+ ["Entspannung","Spannung","",null,null,"see",2961,"Spannung","entspannung"],
  ["Entspannung","Katharsis","","4","784","ref",1546,"Katharsis","entspannung"],
  ["Entspannung","Lust; Freude","IV","5","564","ref",1837,"Lust, Freude","entspannung"],
  ["Entspannung","Spannung","II","9","1285","ref",2961,"Spannung","entspannung"],
@@ -576,6 +641,24 @@ HWPH.put("r/65-6e",
   "entwerden"
  ],
  ["Entwicklung","Entwicklung","","2","550–560","main",759,"Entwicklung","entwicklung"],
+ ["Entwicklung","Epigenesis","",null,null,"see",770,"Epigenesis","entwicklung"],
+ ["Entwicklung","Evolutionstheorie","",null,null,"see",853,"Evolutionstheorie","entwicklung"],
+ ["Entwicklung","Fortschritt","",null,null,"see",942,"Fortschritt","entwicklung"],
+ ["Entwicklung","Phylogenese","",null,null,"see",2367,"Phylogenese","entwicklung"],
+ ["Entwicklung","Prozess","I 4 (nat.)",null,null,"see",2499,"Prozeß","entwicklung"],
+ [
+  "Entwicklung","Entwicklungspsychologie","",null,null,"see",762,"Entwicklungspsychologie",
+  "entwicklung"
+ ],
+ ["Entwicklung","Phase","",null,null,"see",2350,"Phase","entwicklung"],
+ [
+  "Entwicklung","Psychogenese","",null,null,"see",2509,"Psychogenese, Psychophylogenese",
+  "entwicklung"
+ ],
+ [
+  "Entwicklung","Psychologie, genetische","",null,null,"see",2515,"Psychologie, genetische",
+  "entwicklung"
+ ],
  ["Entwicklung","Bewegung","III","1","877","ref",408,"Bewegung","entwicklung"],
  ["Entwicklung","Psychomotorik","II","7","1682","ref",2524,"Psychomotorik","entwicklung"],
  ["Entwicklung","Wachstum","II","12","9","ref",3513,"Wachstum","entwicklung"],
@@ -604,8 +687,12 @@ HWPH.put("r/65-6e",
   "entwicklung, schopferische"
  ],
  [
-  "Entwicklung der Lebewesen","Entwicklungsmechanik Entwicklung der Menschlichkeit","",null,null,
-  "ref",null,null,"entwicklung der lebewesen"
+  "Entwicklung der Lebewesen","Entwicklungsmechanik","",null,null,"ref",761,
+  "Entwicklungsmechanik, Entwicklungsphysiologie","entwicklung der lebewesen"
+ ],
+ [
+  "Entwicklung der Menschlichkeit","Mensch, dritter","",null,null,"ref",1918,"Mensch, dritter",
+  "entwicklung der menschlichkeit"
  ],
  [
   "Entwicklung der Persönlichkeit","Integration","",null,null,"ref",1456,"Integration",
@@ -682,7 +769,16 @@ HWPH.put("r/65-6e",
   "Entwicklungstheorie","Evolutionstheorie","",null,null,"ref",853,"Evolutionstheorie",
   "entwicklungstheorie"
  ],
- ["Entwicklungstheorie","Psychologie","",null,null,"ref",2511,"Psychologie","entwicklungstheorie"],
+ [
+  "Entwicklungstheorie","Psychologie genetische","","7","1659","ref",2515,"Psychologie, genetische",
+  "entwicklungstheorie"
+ ],
+ ["Entwirklichung","Entäusserung","","2","505","ref",745,"Entäußerung","entwirklichung"],
+ [
+  "Entwirklichung","Verdinglichung","","11","609","ref",3391,"Verdinglichung; Vergegenständlichung",
+  "entwirklichung"
+ ],
+ ["Entwirklichung","Wirklichkeit","","12","836","ref",3628,"Wirklichkeit","entwirklichung"],
  ["Entwurf","Hypotypose","",null,null,"ref",1331,"Hypotypose","entwurf"],
  ["Entwurf","Wahl","","12","22","ref",3517,"Wahl","entwurf"],
  ["Entwurf","Entwurf","(Heidegger)","2","564","main",763,"Entwurf","entwurf"],
@@ -701,11 +797,23 @@ HWPH.put("r/65-6e",
  ["Entzug","Seinsvergessenheit","(Heidegger)","9","264","ref",2815,"Seinsvergessenheit","entzug"],
  ["Entzweiung","Entzweiung","","2","565–572","main",764,"Entzauberung","entzweiung"],
  [
-  "Entzweiung","Bewusstsein, unglückliches (Hegel)","",null,null,"see",422,
+  "Entzweiung","Bewusstsein, unglückliches","(Hegel)",null,null,"see",422,
   "Bewußtsein, unglückliches","entzweiung"
  ],
- ["Entzweiung","Dialektik","IV",null,null,"see",583,"Dialektik","entzweiung"],
- ["Entzweiung","Dialektik","IV",null,null,"ref",583,"Dialektik","entzweiung"],
+ ["Entzweiung","Dialektik","IV 1. 4",null,null,"see",583,"Dialektik","entzweiung"],
+ ["Entzweiung","Entfremdung","",null,null,"see",747,"Entfremdung","entzweiung"],
+ ["Entzweiung","Vermittlung","",null,null,"see",3417,"Vermittlung","entzweiung"],
+ ["Entzweiung","Versöhnung","II (anthr.)",null,null,"see",3434,"Versöhnung","entzweiung"],
+ ["Entzweiung","Dialektik","IV 1. 4",null,null,"ref",583,"Dialektik","entzweiung"],
+ ["Entzweiung","Absolut; das Absolute","","1","22f.","ref",27,"Absolut, das Absolute","entzweiung"],
+ ["Entzweiung","Ästhetik","","1","564ff.","ref",266,"Ästhetik, ästhetisch","entzweiung"],
+ ["Entzweiung","Fortschritt","","2","1047f.","ref",942,"Fortschritt","entzweiung"],
+ ["Entzweiung","Leben","V","5","76","ref",1735,"Leben","entzweiung"],
+ ["Entzweiung","Reflexion","","8","398f.","ref",2634,"Reflexion","entzweiung"],
+ ["Entzweiung","Streit","I (allg.)","10","298f.","ref",3039,"Streit","entzweiung"],
+ ["Entzweiung","Sünde","III","10","611","ref",3075,"Sünde","entzweiung"],
+ ["Entzweiung","Systole/Diastole","","10","871","ref",3118,"Systole/Diastole","entzweiung"],
+ ["Entzweiung","Zerrissenheit","","12","1306","ref",3689,"Zerrissenheit","entzweiung"],
  ["enumerable","Algorithmus","","1","155","ref",97,"Algorithmus","enumerable"],
  ["enuntiabile","Proposition","","7","1512f.","ref",2484,"Proposition","enuntiabile"],
  ["enuntiabile","Satz","II","8","1184","ref",2745,"Satz","enuntiabile"],
@@ -746,9 +854,6 @@ HWPH.put("r/65-6e",
  ],
  ["Enzyklopädismus","Pansophie","",null,null,"see",2265,"Pansophie","enzyklopadismus"],
  ["Enzyklopädismus","Philosophie","III C",null,null,"see",2353,"Philosophie","enzyklopadismus"],
- ["Entelechie","Entelechie","II (biol.)","2","507","main",746,"Entelechie","entelechie"],
- ["Entelechie","Vollkommenheit","","11","1120","ref",3482,"Vollkommenheit","entelechie"],
- ["Enthymem","Enthymem","","2","532","main",749,"Enthymem","enthymem"],
  ["Endlich","Endlich","I",null,null,"main",734,"Endlich","endlich"],
  ["Enders Markus","Supramundan","","10","665–670","author",3087,"Supramundan","enders markus"],
  [
@@ -770,8 +875,8 @@ HWPH.put("r/65-6e",
   "engelen eva-maria"
  ],
  [
-  "Engelhardt Paulus","Desiderium naturale","","2","118–130","author",565,
-  "Desappropriatio, expropriatio (sui)","engelhardt paulus"
+  "Engelhardt Paulus","Desiderium naturale","","2","118–130","author",566,"Desiderium naturale",
+  "engelhardt paulus"
  ],
  [
   "Engelhardt Paulus","Gleichförmig; Gleichförmigkeit","","3","670f.","author",1145,

@@ -32,6 +32,7 @@ HWPH.put("a/799",
  "outlinks":[],
  "register":[
   {"term":"Denken, reines","qualifier":"II","band":"2","col":"686"},
+  {"term":"epistemology","qualifier":"","band":null,"col":null},
   {"term":"Erkenntniskritik","qualifier":"","band":null,"col":null},
   {"term":"Erkenntnislehre","qualifier":"","band":null,"col":null},
   {"term":"gnoseologia","qualifier":"II","band":"2","col":"684"},

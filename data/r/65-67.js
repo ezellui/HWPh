@@ -26,6 +26,11 @@ HWPH.put("r/65-67",
  ],
  ["égoïsme","Amour-propre","","1","209","ref",118,"Amour-propre, amour de soi(-même)","egoisme"],
  ["Egoismus","Egoismus","","2","310–314","main",650,"Egoismus","egoismus"],
+ ["Egoismus","Altruismus","",null,null,"see",112,"Altruismus","egoismus"],
+ ["Egoismus","Eigennutz","",null,null,"see",664,"Eigennutz","egoismus"],
+ ["Egoismus","Einzige, der","",null,null,"see",697,"Einzige, Einzigkeit","egoismus"],
+ ["Egoismus","Selbstsucht","",null,null,"see",2849,"Selbstsucht","egoismus"],
+ ["Egoismus","Solipsismus","",null,null,"see",2918,"Solipsismus","egoismus"],
  ["Egoismus","Egotismus","",null,null,"ref",652,"Egotismus, Egoismus, Egomismus","egoismus"],
  ["Egoismus","Pluralismus","I","7","988","ref",2381,"Pluralismus","egoismus"],
  ["Egoismus","Vornehm","(Nietzsche)","11","1195","ref",3495,"Vornehm","egoismus"],
@@ -73,8 +78,14 @@ HWPH.put("r/65-67",
  ["Egozentrismus","Egoismus","",null,null,"see",650,"Egoismus","egozentrismus"],
  ["Egozentrismus","Egozentrismus","","2","318","main",653,"Egozentrismus","egozentrismus"],
  ["Egozentrismus","Kontrast","II (psych.)","4","1068","ref",1647,"Kontrast","egozentrismus"],
- ["Egozentrismus","Raum","",null,null,"ref",2578,"Raum","egozentrismus"],
- ["Egli Urs","Modell","",null,null,"author",1999,"Modell","egli urs"],
+ [
+  "Egozentrismus","Raum; Raumwahrnehmung","","8","117f.","ref",2579,
+  "Raum, Raumwahrnehmung, psychologischer Raum","egozentrismus"
+ ],
+ [
+  "Egli Urs","Modell; Modelltheorie","II (ling.)","6","52–54","author",2000,"Modell, Modelltheorie",
+  "egli urs"
+ ],
  ["Egli Urs","Präsupposition","III","7","1273f.","author",2446,"Präsupposition","egli urs"],
  [
   "Egli Urs","Standard-Modell/Nicht-Standard-Modell","","10","96–99","author",3010,

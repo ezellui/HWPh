@@ -19,7 +19,8 @@ HWPH.put("a/2337",
  "outlinks":[{"id":2335,"lemma":"Pflichten, unvollkommene/vollkommene","n":1}],
  "register":[
   {"term":"Güterlehre","qualifier":"","band":"7","col":"458"},
-  {"term":"IV-V","qualifier":"","band":null,"col":null},
+  {"term":"Naturrecht","qualifier":"","band":null,"col":null},
+  {"term":"obligatoria I (eth.)","qualifier":"","band":null,"col":null},
   {"term":"Tugendlehre","qualifier":"","band":"7","col":"458"}
  ],
  "persons":[

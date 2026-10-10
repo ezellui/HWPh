@@ -21,7 +21,8 @@ HWPH.put("a/1833",
   {"term":"Akt, lokutionärer/illokutionärer","qualifier":"","band":null,"col":null},
   {"term":"Bedeutung","qualifier":"","band":"5","col":"531"},
   {"term":"illokutionärer Akt","qualifier":"","band":null,"col":null},
-  {"term":"meaning, complete","qualifier":"","band":"5","col":"531"}
+  {"term":"meaning, complete","qualifier":"","band":"5","col":"531"},
+  {"term":"Perlokution","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":294,"name":"J. L. Austin","b":1,"n":4,"l":0,"editor":0,"role":"source"},

@@ -19,7 +19,7 @@ HWPH.put("a/600",
  "outlinks":[],
  "register":[
   {"term":"Diktatur des Proletariats","qualifier":"","band":"2","col":"246"},
-  {"term":"– I (allg.) 2 132–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Drei-Stadien-Gesetz","qualifier":"","band":"2","col":"246"}
  ],
  "persons":[
   {"id":133,"name":"C. Schmitt","b":1,"n":1,"l":1,"editor":0,"role":"source"},
@@ -69,7 +69,7 @@ HWPH.put("a/600",
   {"id":3253,"lemma":"Übergang","tf":2},
   {"id":2171,"lemma":"Notwendigkeit","tf":2}
  ],
- "see_also":[{"id":464,"lemma":"Cäsarismus"}],
+ "see_also":[{"id":464,"lemma":"Cäsarismus"},{"id":571,"lemma":"Despotie, Despotismus"}],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Diktatur"}],
  "reg_authors":[{"name":"Hofmann Hasso","n":12}]
 }

@@ -18,7 +18,7 @@ HWPH.put("a/2279",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"inneres Paronomasie","qualifier":"","band":"7","col":"131"},
+  {"term":"Paronomasie","qualifier":"","band":"7","col":"131"},
   {"term":"παρώνυμος","qualifier":"","band":null,"col":null}
  ],
  "persons":[

@@ -159,7 +159,7 @@ HWPH.put("a/290",
   {"id":2373,"lemma":"Physiologie","tf":2},
   {"id":1432,"lemma":"Information","tf":2}
  ],
- "see_also":[{"id":214,"lemma":"Apperzeptionspsychologie"}],
+ "see_also":[{"id":214,"lemma":"Apperzeptionspsychologie"},{"id":412,"lemma":"Bewußtsein"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Aufmerksamkeit"}],
  "reg_authors":[{"name":"Neumann Karl","n":9}]
 }

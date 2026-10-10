@@ -34,7 +34,6 @@ HWPH.put("a/2483",
  ],
  "outlinks":[{"id":123,"lemma":"Analogie","n":1}],
  "register":[
-  {"term":"das III 8 1358","qualifier":"","band":"7","col":"1482–1508"},
   {"term":"Exhaustionsbeweis","qualifier":"I","band":"7","col":"1485"},
   {"term":"goldener Schnitt","qualifier":"IV (ästh.)","band":null,"col":null},
   {"term":"irrational","qualifier":"I","band":"7","col":"1485"},
@@ -50,11 +49,7 @@ HWPH.put("a/2483",
   {"term":"ἀναλογία","qualifier":"III A","band":"7","col":"1494"},
   {"term":"ἀσύμμετρος","qualifier":"I","band":"7","col":"1484f."},
   {"term":"λόγος","qualifier":"III A","band":"7","col":"1494"},
-  {"term":"σύμμετρος","qualifier":"I","band":"7","col":"1484f."},
-  {"term":"– I (allg ) 1 214–227 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (ästh.) 10 745–749 s auch","qualifier":"IV (ästh )","band":null,"col":null},
-  {"term":"– II (ästh.) 2 949–951 s. auch","qualifier":"IV (ästh.)","band":null,"col":null},
-  {"term":"– II (ästh.) 5 814–823 s. auch","qualifier":"IV (ästh.)","band":null,"col":null}
+  {"term":"σύμμετρος","qualifier":"I","band":"7","col":"1484f."}
  ],
  "persons":[
   {"id":307,"name":"Euklid","b":6,"n":6,"l":0,"editor":0,"role":"source"},
@@ -270,7 +265,12 @@ HWPH.put("a/2483",
   {"id":2781,"lemma":"Schrift","tf":12},
   {"id":1780,"lemma":"Lemma","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":123,"lemma":"Analogie"},
+  {"id":916,"lemma":"Figur"},
+  {"id":1877,"lemma":"Maß"},
+  {"id":2774,"lemma":"Schnitt, Goldener"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Proportion IV (ästh.)"},
   {"id":3,"name":"Antike Philosophie","label":"Proportion I"},

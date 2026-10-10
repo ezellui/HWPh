@@ -30,6 +30,7 @@ HWPH.put("a/3071",
  "register":[
   {"term":"associational suggestion","qualifier":"","band":"10","col":"582"},
   {"term":"Beeinflussung","qualifier":"","band":null,"col":null},
+  {"term":"Contagium, psychisches","qualifier":"","band":"10","col":"583"},
   {"term":"contemplation suggestive","qualifier":"","band":"10","col":"584"},
   {"term":"Emotion","qualifier":"","band":"10","col":"584"},
   {"term":"nervous suggestion","qualifier":"","band":"10","col":"582"},

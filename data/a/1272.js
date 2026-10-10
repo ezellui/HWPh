@@ -17,10 +17,7 @@ HWPH.put("a/1272",
  "next":{"id":1273,"lemma":"Hilbertsches Programm","band":"3","col":1126},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"– II (psych.) 2 239–242 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 6 1328f. s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[],
  "persons":[{"id":367,"name":"K. Lewin","b":1,"n":0,"l":1,"editor":0,"role":"source"}],
  "mentions":[{"id":2241,"lemma":"Organisation","tf":2},{"id":3406,"lemma":"Verhalten","tf":2}],
  "see_also":[{"id":2762,"lemma":"Schichtenlehre, Schichtentheorie"},{"id":3040,"lemma":"Struktur"}],

@@ -17,10 +17,7 @@ HWPH.put("a/1225",
  "next":{"id":1226,"lemma":"Harmonie","band":"3","col":1001},
  "backlinks":[{"id":2818,"lemma":"Sekte","n":1},{"id":3683,"lemma":"Zensur","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"Ketzer","qualifier":"","band":null,"col":null},
-  {"term":"– II (theol.) 9 284–288 s auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Ketzer","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":5,"name":"Thomas von Aquin","b":1,"n":1,"l":0,"editor":0,"role":"source"},

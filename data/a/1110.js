@@ -17,10 +17,7 @@ HWPH.put("a/1110",
  "next":{"id":1111,"lemma":"Gesetze, statistische","band":"3","col":532},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"kategoriale Gesetze","qualifier":"(Hartmann)","band":null,"col":null},
-  {"term":"– I (Hartmann) 8 1267f. s. auch","qualifier":"(Hartmann)","band":null,"col":null}
- ],
+ "register":[{"term":"kategoriale Gesetze","qualifier":"(Hartmann)","band":null,"col":null}],
  "persons":[
   {"id":35,"name":"N. Hartmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1022,"name":"H. Wein","b":0,"n":0,"l":1,"editor":0,"role":"mixed"},

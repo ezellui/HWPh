@@ -30,6 +30,7 @@ HWPH.put("a/3703",
  "register":[
   {"term":"colère divine","qualifier":"","band":null,"col":null},
   {"term":"Gnade","qualifier":"","band":null,"col":null},
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"Gotteszorn","qualifier":"","band":null,"col":null},
   {"term":"ira dei","qualifier":"","band":null,"col":null},
   {"term":"peccatum radicale","qualifier":"","band":"12","col":"1392"},
@@ -94,11 +95,7 @@ HWPH.put("a/3703",
   {"id":2668,"lemma":"Relation","tf":3},
   {"id":3500,"lemma":"Vorsehung","tf":2}
  ],
- "see_also":[
-  {"id":344,"lemma":"Barmherzigkeit"},
-  {"id":1084,"lemma":"Gericht (Gottes)"},
-  {"id":1852,"lemma":"Malum"}
- ],
+ "see_also":[{"id":344,"lemma":"Barmherzigkeit"},{"id":1084,"lemma":"Gericht (Gottes)"}],
  "groups":[{"id":44,"name":"Theologie","label":"Zorn Gottes"}],
  "reg_authors":[{"name":"Maurer Ernstpeter","n":1}]
 }

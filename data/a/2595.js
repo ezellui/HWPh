@@ -21,16 +21,9 @@ HWPH.put("a/2595",
   {"id":2514,"lemma":"Psychologie, geisteswissenschaftliche und verstehende","n":1}
  ],
  "register":[
-  {"term":"geisteswissenschaftliche","qualifier":"(Dilthey)","band":null,"col":null},
-  {"term":"geisteswissenschaftliche 7 1656","qualifier":"(Dilthey)","band":"8","col":"213"},
-  {
-   "term":"geisteswissenschaftliche 7 1656- 1658 s. auch",
-   "qualifier":"(Dilthey)",
-   "band":null,
-   "col":null
-  },
   {"term":"Psychologie, induktive","qualifier":"(Dilthey)","band":"8","col":"213"},
-  {"term":"Psychologie, reale","qualifier":"(Dilthey)","band":"8","col":"212"}
+  {"term":"Psychologie, reale","qualifier":"(Dilthey)","band":"8","col":"212"},
+  {"term":"Strukturpsychologie","qualifier":"(Dilthey)","band":"8","col":"213"}
  ],
  "persons":[
   {"id":29,"name":"W. Dilthey","b":2,"n":1,"l":0,"editor":0,"role":"source"},

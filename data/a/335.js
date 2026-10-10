@@ -18,6 +18,7 @@ HWPH.put("a/335",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Fremdzwecklichkeit","qualifier":"(Stern)","band":null,"col":null},
   {"term":"Heterotelie","qualifier":"(Stern)","band":null,"col":null},
   {"term":"Telie","qualifier":"(Stern)","band":"1","col":"734"}
  ],

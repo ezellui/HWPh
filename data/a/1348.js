@@ -17,15 +17,7 @@ HWPH.put("a/1348",
  "next":{"id":1349,"lemma":"Idealismus, menschewisierender","band":"4","col":40},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"kritischer Idealismus","qualifier":"","band":null,"col":null},
-  {
-   "term":"transzendentaler; Realismus, empirischer ( Kant) 4 43f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"kritischer Idealismus","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},

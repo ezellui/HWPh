@@ -26,6 +26,7 @@ HWPH.put("a/3544",
  ],
  "register":[
   {"term":"Anomie","qualifier":"","band":"12","col":"319"},
+  {"term":"change, social","qualifier":"","band":null,"col":null},
   {"term":"cultural lag","qualifier":"","band":"12","col":"318"},
   {"term":"Dynamik, soziale","qualifier":"","band":"12","col":"318"},
   {"term":"social change","qualifier":"","band":null,"col":null},

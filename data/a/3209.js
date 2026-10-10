@@ -23,6 +23,7 @@ HWPH.put("a/3209",
  "backlinks":[{"id":3208,"lemma":"Totalitarismus","n":1},{"id":3462,"lemma":"Vielheit","n":2}],
  "outlinks":[{"id":986,"lemma":"Ganzes/Teil","n":1},{"id":3100,"lemma":"Synästhesie","n":1}],
  "register":[
+  {"term":"Ganzes/Teil","qualifier":"","band":null,"col":null},
   {"term":"Profundität","qualifier":"II","band":"10","col":"1303"},
   {"term":"Realitas","qualifier":"II","band":"10","col":"1303"},
   {"term":"teilbar/unteilbar","qualifier":"I","band":null,"col":null},
@@ -33,8 +34,7 @@ HWPH.put("a/3209",
   {"term":"ὅλον","qualifier":"I","band":"10","col":"1300"},
   {"term":"ὁλότης","qualifier":"I","band":null,"col":null},
   {"term":"πᾶν","qualifier":"I","band":"10","col":"1300"},
-  {"term":"παντότης","qualifier":"I","band":null,"col":null},
-  {"term":"– II (geogr.) 3 20–22 Ganzheit","qualifier":"","band":null,"col":null}
+  {"term":"παντότης","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":2,"n":2,"l":0,"editor":0,"role":"source"},

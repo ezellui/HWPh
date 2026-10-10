@@ -24,11 +24,9 @@ HWPH.put("a/2837",
  "outlinks":[{"id":39,"lemma":"Acedia","n":1},{"id":2702,"lemma":"Reue","n":1}],
  "register":[
   {"term":"Angst vor Liebesverlust","qualifier":"II","band":"9","col":"457"},
-  {"term":"Antisemitismus, jüdischer","qualifier":"","band":null,"col":null},
   {"term":"Autoaggression","qualifier":"II","band":"9","col":"456"},
   {"term":"haine de soi","qualifier":"","band":null,"col":null},
   {"term":"Hass","qualifier":"","band":null,"col":null},
-  {"term":"jüdischer Selbsthass","qualifier":"","band":null,"col":null},
   {"term":"Leib-Hasser","qualifier":"I","band":"9","col":"454"},
   {"term":"odium sui","qualifier":"II","band":"9","col":"455"},
   {"term":"Schuldgefühl","qualifier":"II","band":"9","col":"456f."},
@@ -123,6 +121,6 @@ HWPH.put("a/2837",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Selbsthass"},
   {"id":36,"name":"Psychologie","label":"Selbsthass"}
  ],
- "reg_authors":[{"name":"Baier Christiane","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Baier Christiane","n":1},{"name":"Red","n":241}]
 }
 );

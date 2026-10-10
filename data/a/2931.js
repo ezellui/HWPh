@@ -18,10 +18,10 @@ HWPH.put("a/2931",
  "backlinks":[{"id":2806,"lemma":"Sein; Seiendes","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Affekt","qualifier":"","band":"9","col":"1102"},
   {"term":"Beschaffenheit","qualifier":"","band":"9","col":"1100"},
   {"term":"Charakter","qualifier":"","band":"9","col":"1102"},
   {"term":"Geist","qualifier":"","band":"9","col":"1101"},
+  {"term":"Selbst","qualifier":"","band":"9","col":"1102"},
   {"term":"Wesen/Sosein","qualifier":"","band":"9","col":"1100f."}
  ],
  "persons":[

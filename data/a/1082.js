@@ -22,7 +22,9 @@ HWPH.put("a/1082",
   {"term":"Exzenter","qualifier":"","band":"3","col":"329"},
   {"term":"homozentrisch","qualifier":"","band":"3","col":"329"},
   {"term":"Planetenbahnen","qualifier":"","band":null,"col":null},
-  {"term":"Tychonisches System","qualifier":"","band":"3","col":"329"}
+  {"term":"Tychonisches System","qualifier":"","band":"3","col":"329"},
+  {"term":"Weltbild, geozentrisches","qualifier":"","band":null,"col":null},
+  {"term":"Weltsystem, geozentrisches","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":14748,"name":"Herakleides","b":1,"n":1,"l":0,"editor":0,"role":"source"},

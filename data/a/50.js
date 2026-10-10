@@ -17,7 +17,11 @@ HWPH.put("a/50",
  "next":{"id":51,"lemma":"Aenigma","band":"1","col":87},
  "backlinks":[{"id":3376,"lemma":"Veda; Vedanta","n":1}],
  "outlinks":[{"id":3376,"lemma":"Veda; Vedanta","n":1}],
- "register":[{"term":"ohne ein Zweites Sein","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Einheit/Vielheit (ind.)","qualifier":"","band":null,"col":null},
+  {"term":"ohne ein Zweites Sein","qualifier":"","band":null,"col":null},
+  {"term":"Zweitlosigkeit","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":13550,"name":"Jayanta","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1183,"name":"P. Hacker","b":0,"n":1,"l":0,"editor":0,"role":"scholar"},

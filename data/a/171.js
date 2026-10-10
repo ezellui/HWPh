@@ -18,6 +18,7 @@ HWPH.put("a/171",
  "backlinks":[{"id":3549,"lemma":"Wechsel","n":1},{"id":3607,"lemma":"Widerspruch","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Widerspruch, antagonistischer","qualifier":"","band":null,"col":null},
   {"term":"Widerspruch, gesellschaftlicher","qualifier":"","band":"1","col":"359"},
   {"term":"Widerstreit der Kräfte","qualifier":"","band":null,"col":null}
  ],

@@ -19,7 +19,7 @@ HWPH.put("a/70",
  "outlinks":[],
  "register":[
   {"term":"Abdruck","qualifier":"","band":"1","col":"120f."},
-  {"term":"– II (allg.) 10 1594–1607 τύπωσις","qualifier":"","band":"1","col":"120f."}
+  {"term":"Abstraktion","qualifier":"","band":"1","col":"120f."}
  ],
  "persons":[
   {"id":3,"name":"Platon","b":3,"n":2,"l":0,"editor":0,"role":"source"},

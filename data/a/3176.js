@@ -20,6 +20,7 @@ HWPH.put("a/3176",
  "register":[
   {"term":"Autonomie","qualifier":"","band":"10","col":"1113"},
   {"term":"Gesetzgebung Gottes","qualifier":"","band":null,"col":null},
+  {"term":"Gottes Gottes Gesetzgebung","qualifier":"","band":null,"col":null},
   {"term":"Heteronomie","qualifier":"","band":null,"col":null},
   {"term":"Integralismus","qualifier":"","band":"10","col":"1114"},
   {"term":"Theognosie","qualifier":"","band":"10","col":"1113f."}

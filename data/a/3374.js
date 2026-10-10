@@ -49,7 +49,7 @@ HWPH.put("a/3374",
   {"term":"instantiae migrantes","qualifier":"","band":"11","col":"550"},
   {"term":"Invariante","qualifier":"","band":"11","col":"551"},
   {"term":"méthode des variations","qualifier":"","band":"11","col":"549"},
-  {"term":"Reduktion, eidetische","qualifier":"","band":"11","col":"551"},
+  {"term":"Variation, eidetische","qualifier":"","band":"11","col":"551"},
   {"term":"Veränderung, zufällige/absichtliche","qualifier":"","band":"11","col":"550"},
   {"term":"Vorstellungsvariation","qualifier":"","band":"11","col":"551"}
  ],

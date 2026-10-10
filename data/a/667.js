@@ -17,10 +17,7 @@ HWPH.put("a/667",
  "next":{"id":668,"lemma":"Eigentum","band":"2","col":339},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"das (Heidegger) 5 706f. s. auch","qualifier":"(Heidegger)","band":null,"col":null},
-  {"term":"Uneigentlichkeit","qualifier":"(Heidegger)","band":null,"col":null}
- ],
+ "register":[{"term":"Uneigentlichkeit","qualifier":"(Heidegger)","band":null,"col":null}],
  "persons":[
   {"id":13,"name":"M. Heidegger","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":496,"name":"K. Gründer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"}

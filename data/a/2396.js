@@ -55,14 +55,15 @@ HWPH.put("a/2396",
   {"id":2399,"lemma":"Polizei","n":1}
  ],
  "register":[
+  {"term":"animal civile","qualifier":"II","band":"7","col":"1048"},
   {"term":"felicitas civilis","qualifier":"II","band":"7","col":"1049"},
-  {"term":"Geschichte","qualifier":"III","band":"7","col":"1068"},
+  {"term":"Herrschaft","qualifier":"III","band":"7","col":"1068"},
   {"term":"iustitia politica","qualifier":"II","band":"7","col":"1047"},
   {"term":"Kampf","qualifier":"III","band":"7","col":"1069"},
   {"term":"Klassenkampf","qualifier":"III","band":"7","col":"1064"},
   {"term":"Krieg als der Fortsetzung der Politik","qualifier":"III","band":"7","col":"1059f."},
   {"term":"politicismus","qualifier":"II","band":"7","col":"1054"},
-  {"term":"Polizeiwissenschaft","qualifier":"III","band":"7","col":"1070"},
+  {"term":"Politikwissenschaft","qualifier":"III","band":"7","col":"1070"},
   {"term":"prudentia","qualifier":"II","band":"7","col":"1047ff."},
   {"term":"prudentia administrativa","qualifier":"II","band":"7","col":"1050"},
   {"term":"prudentia architectonica","qualifier":"II","band":"7","col":"1053"},
@@ -78,15 +79,9 @@ HWPH.put("a/2396",
   {"term":"symbiosis","qualifier":"II","band":"7","col":"1052"},
   {"term":"Unpolitischer","qualifier":"III","band":"7","col":"1063f."},
   {"term":"virtus","qualifier":"II","band":"7","col":"1049"},
+  {"term":"Wille zur Macht","qualifier":"III","band":"7","col":"1062f."},
   {"term":"Zusammenleben","qualifier":"II","band":"7","col":"1051f."},
-  {"term":"πολιτικός","qualifier":"I","band":null,"col":null},
-  {
-   "term":"– I (allg.) 5 585–604 – II (allg.) 5 604–617 – III (russ.) 5 617–622 – IV (marx.) 5 622–625 – V (ind.) 5 625–629 – VI (jüd.) 5 629f. – VII (theol.) 5 630f. Macht",
-   "qualifier":"III",
-   "band":"7",
-   "col":"1062f."
-  },
-  {"term":"– I (ökon.) 6 1149–1153 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"πολιτικός","qualifier":"I","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":9,"l":0,"editor":0,"role":"source"},

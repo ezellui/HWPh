@@ -18,8 +18,8 @@ HWPH.put("a/267",
  "backlinks":[{"id":3356,"lemma":"Urteil, ästhetisches","n":1},{"id":3539,"lemma":"Wahrnehmung","n":1}],
  "outlinks":[{"id":266,"lemma":"Ästhetik, ästhetisch","n":1}],
  "register":[
-  {"term":"das 1 993 Weibsästhetik","qualifier":"","band":"1","col":"580"},
-  {"term":"Museum, imaginäres","qualifier":"","band":"1","col":"581"}
+  {"term":"Museum, imaginäres","qualifier":"","band":"1","col":"581"},
+  {"term":"Weibsästhetik","qualifier":"","band":"1","col":"580"}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},

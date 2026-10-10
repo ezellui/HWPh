@@ -19,8 +19,8 @@ HWPH.put("a/2023",
  "outlinks":[],
  "register":[
   {"term":"doppelte Moral","qualifier":"","band":null,"col":null},
-  {"term":"III-IV Wahrscheinlichkeit","qualifier":"","band":null,"col":null},
-  {"term":"Moral, innere/äussere","qualifier":"","band":"6","col":"169"}
+  {"term":"Moral, innere/äussere","qualifier":"","band":"6","col":"169"},
+  {"term":"Wahrscheinlichkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":793,"name":"W. Elert","b":1,"n":2,"l":0,"editor":0,"role":"mixed"},

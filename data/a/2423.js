@@ -25,20 +25,21 @@ HWPH.put("a/2423",
  "backlinks":[{"id":2811,"lemma":"Seinkönnen","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Angesicht der Gottheit","qualifier":"","band":"7","col":"1170"},
-  {"term":"Dynamisieren","qualifier":"","band":"7","col":"1171"},
-  {"term":"Essentiation","qualifier":"","band":"7","col":"1170"},
-  {"term":"Essentifikation","qualifier":"","band":"7","col":"1170"},
-  {"term":"Homöopathie","qualifier":"","band":null,"col":null},
+  {"term":"Angesicht der Gottheit","qualifier":"II 1 (theol.)","band":"7","col":"1170"},
+  {"term":"Dynamisieren","qualifier":"II 2 (med.)","band":"7","col":"1171"},
+  {"term":"Essentiation","qualifier":"II 1 (theol.)","band":"7","col":"1170"},
+  {"term":"Essentifikation","qualifier":"II 1 (theol.)","band":"7","col":"1170"},
+  {"term":"Geisteskräfte","qualifier":"II 1 (theol.)","band":"7","col":"1170"},
+  {"term":"Homöopathie","qualifier":"II 2 (med.)","band":null,"col":null},
   {"term":"Kräfte der Natur","qualifier":"","band":null,"col":null},
-  {"term":"Lebenskraft","qualifier":"","band":"7","col":"1171"},
+  {"term":"Lebenskraft","qualifier":"II 2 (med.)","band":"7","col":"1171"},
   {"term":"Naturkräfte","qualifier":"","band":null,"col":null},
-  {"term":"simplificatio","qualifier":"","band":"7","col":"1170"},
-  {"term":"Systole/Diastole","qualifier":"","band":"7","col":"1169"},
-  {"term":"Totalität","qualifier":"","band":"7","col":"1168"},
-  {"term":"Vereinfachung","qualifier":"","band":"7","col":"1170"},
-  {"term":"Zimzum","qualifier":"","band":"7","col":"1169f."},
-  {"term":"ἐξουσία","qualifier":"","band":"7","col":"1169"}
+  {"term":"simplificatio","qualifier":"II 1 (theol.)","band":"7","col":"1170"},
+  {"term":"Systole/Diastole","qualifier":"I (Schelling)","band":"7","col":"1169"},
+  {"term":"Totalität","qualifier":"I (Schelling)","band":"7","col":"1168"},
+  {"term":"Vereinfachung","qualifier":"II 1 (theol.)","band":"7","col":"1170"},
+  {"term":"Zimzum","qualifier":"II 1 (theol.)","band":"7","col":"1169f."},
+  {"term":"ἐξουσία","qualifier":"II 1 (theol.)","band":"7","col":"1169"}
  ],
  "persons":[
   {"id":9,"name":"F. W. J. Schelling","b":3,"n":4,"l":0,"editor":0,"role":"source"},
@@ -112,7 +113,7 @@ HWPH.put("a/2423",
  ],
  "reg_authors":[
   {"name":"Förster Wolfgang","n":1},
-  {"name":"Hühn Helmut","n":51},
+  {"name":"Hühn Helmut","n":52},
   {"name":"Niewöhner Friedrich","n":17}
  ]
 }

@@ -18,7 +18,6 @@ HWPH.put("a/3360",
  "backlinks":[{"id":3634,"lemma":"Wissen","n":1},{"id":3635,"lemma":"Wissenschaft","n":1}],
  "outlinks":[{"id":3143,"lemma":"Teilhabe","n":1}],
  "register":[
-  {"term":"/Objekt IV 10 423","qualifier":"(Schelling)","band":"11","col":"485f."},
   {"term":"Abbild","qualifier":"(Schelling)","band":"11","col":"485"},
   {"term":"Bild","qualifier":"(Schelling)","band":"11","col":"485"},
   {"term":"Mitwissenschaft","qualifier":"(Schelling)","band":"11","col":"486"},

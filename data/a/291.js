@@ -18,6 +18,7 @@ HWPH.put("a/291",
  "backlinks":[{"id":3464,"lemma":"Vigilanz","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Bewusstseinsumfang","qualifier":"","band":"1","col":"645"},
   {"term":"Blickpunkt des Bewusstseins","qualifier":"","band":"1","col":"645"},
   {"term":"Enge des Bewusstseins","qualifier":"","band":null,"col":null}
  ],

@@ -20,7 +20,6 @@ HWPH.put("a/1829",
  "register":[
   {"term":"Aktualgenese","qualifier":"","band":null,"col":null},
   {"term":"egozentrisch/exozentrisch","qualifier":"","band":"5","col":"523"},
-  {"term":"Raumwahrnehmung 8 111–121 s. auch","qualifier":"","band":null,"col":null},
   {"term":"Sehen","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -84,7 +83,8 @@ HWPH.put("a/1829",
   {"id":1665,"lemma":"Körperschema"},
   {"id":1831,"lemma":"Lokalzeichen"},
   {"id":2073,"lemma":"Nativismus"},
-  {"id":2578,"lemma":"Raum"}
+  {"id":2578,"lemma":"Raum"},
+  {"id":3539,"lemma":"Wahrnehmung"}
  ],
  "groups":[{"id":36,"name":"Psychologie","label":"Lokalisation"}],
  "reg_authors":[{"name":"Schmitz Wolfgang","n":1}]

@@ -28,8 +28,7 @@ HWPH.put("a/3058",
   {"term":"Koordination (log.)","qualifier":"","band":null,"col":null},
   {"term":"Superordination","qualifier":"","band":null,"col":null},
   {"term":"Überordnung","qualifier":"","band":null,"col":null},
-  {"term":"Unterordnung","qualifier":"","band":null,"col":null},
-  {"term":"– I (log.) 10 560–562 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Unterordnung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":2,"n":3,"l":0,"editor":0,"role":"source"},

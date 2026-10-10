@@ -25,7 +25,9 @@ HWPH.put("a/829",
   {"term":"actus essendi","qualifier":"","band":"2","col":"750"},
   {"term":"esse existens","qualifier":"","band":"2","col":"750"},
   {"term":"esse inhaerens","qualifier":"","band":"2","col":"750"},
-  {"term":"esse separatum","qualifier":"","band":"2","col":"750"}
+  {"term":"esse separatum","qualifier":"","band":"2","col":"750"},
+  {"term":"esse subsistens","qualifier":"","band":null,"col":null},
+  {"term":"Sein, allgemeines","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":3,"n":3,"l":0,"editor":0,"role":"source"},

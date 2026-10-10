@@ -22,14 +22,15 @@ HWPH.put("a/2344",
  ],
  "outlinks":[],
  "register":[
-  {"term":"(Husserl) Vermöglichkeit","qualifier":"(Husserl)","band":"7","col":"506f."},
   {"term":"Aufmerksamkeit","qualifier":"(Husserl)","band":"7","col":"505f."},
   {"term":"Entschiedenheit","qualifier":"(Husserl)","band":"7","col":"507"},
   {"term":"Genesis, transzendentale","qualifier":"(Husserl)","band":"7","col":"505"},
   {"term":"genetische Phänomenologie","qualifier":"(Husserl)","band":null,"col":null},
   {"term":"Monade","qualifier":"(Husserl)","band":"7","col":"505"},
+  {"term":"Überzeugung","qualifier":"(Husserl)","band":"7","col":"507"},
   {"term":"Urstiftung","qualifier":"(Husserl)","band":"7","col":"506"},
   {"term":"Ursynthesis","qualifier":"(Husserl)","band":"7","col":"505"},
+  {"term":"Vermöglichkeit","qualifier":"(Husserl)","band":"7","col":"506f."},
   {"term":"Zeitbewusstsein, inneres","qualifier":"(Husserl)","band":null,"col":null}
  ],
  "persons":[

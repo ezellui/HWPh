@@ -27,8 +27,8 @@ HWPH.put("a/1868",
  ],
  "outlinks":[],
  "register":[
-  {"term":"fatum","qualifier":"","band":"5","col":"750"},
   {"term":"Schicksal","qualifier":"","band":null,"col":null},
+  {"term":"universalis","qualifier":"","band":"5","col":"750"},
   {"term":"Wahrsagung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
@@ -56,7 +56,11 @@ HWPH.put("a/1868",
   {"id":2673,"lemma":"Religion","tf":3},
   {"id":576,"lemma":"Deutung","tf":2}
  ],
- "see_also":[{"id":623,"lemma":"Divination"},{"id":1246,"lemma":"Hellsehen"}],
+ "see_also":[
+  {"id":623,"lemma":"Divination"},
+  {"id":1246,"lemma":"Hellsehen"},
+  {"id":3487,"lemma":"Voraussage; Vorhersage; Prognose"}
+ ],
  "groups":[{"id":38,"name":"Religionswissenschaft und Religionsphilosophie","label":"Mantik"}],
  "reg_authors":[{"name":"Müller Armin","n":19}]
 }

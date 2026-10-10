@@ -30,7 +30,7 @@ HWPH.put("a/3174",
  "register":[
   {"term":"Anarchismus, erkenntniskritischer","qualifier":"","band":"10","col":"1108"},
   {"term":"Begriffe, säkularisierte theologische","qualifier":"","band":"10","col":"1108"},
-  {"term":"natürliche bzw. vernünftige","qualifier":"","band":null,"col":null},
+  {"term":"bzw. vernünftige","qualifier":"","band":null,"col":null},
   {"term":"political theology","qualifier":"","band":null,"col":null},
   {"term":"politische Theologie","qualifier":"","band":null,"col":null},
   {"term":"Scheinprobleme","qualifier":"","band":"10","col":"1108"},
@@ -182,7 +182,7 @@ HWPH.put("a/3174",
   {"id":331,"lemma":"Autor","tf":2},
   {"id":2781,"lemma":"Schrift","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3701,"lemma":"Zivilreligion; Ziviltheologie"}],
  "groups":[
   {"id":33,"name":"Politische Theorie","label":"Theologie, politische"},
   {"id":44,"name":"Theologie","label":"Theologie, politische"}

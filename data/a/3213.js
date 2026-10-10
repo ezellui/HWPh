@@ -59,10 +59,7 @@ HWPH.put("a/3213",
   {"term":"ἀργία","qualifier":"I (anthr.)","band":null,"col":null},
   {"term":"ἀτονία ψυχῆς","qualifier":"I (anthr.)","band":"10","col":"1329"},
   {"term":"νώθεια","qualifier":"I (anthr.)","band":null,"col":null},
-  {"term":"ὄκνος","qualifier":"I (anthr.)","band":null,"col":null},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":"10","col":"1331–1334"},
-  {"term":"– I (anthr.) 12 1310–1315 s. auch","qualifier":"I (anthr.)","band":null,"col":null},
-  {"term":"– I (nat.) 12 703–709 s. auch","qualifier":"II (phys.)","band":null,"col":null}
+  {"term":"ὄκνος","qualifier":"I (anthr.)","band":null,"col":null}
  ],
  "persons":[
   {"id":5,"name":"Thomas von Aquin","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -180,13 +177,26 @@ HWPH.put("a/3213",
   {"id":1201,"lemma":"Gültigkeit","tf":2},
   {"id":3169,"lemma":"Theologie","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":39,"lemma":"Acedia"},
+  {"id":699,"lemma":"Ekel"},
+  {"id":900,"lemma":"Faulheit"},
+  {"id":1146,"lemma":"Gleichgültigkeit"},
+  {"id":1915,"lemma":"Melancholie"},
+  {"id":2788,"lemma":"Schwermut"},
+  {"id":3224,"lemma":"Trauer; Trauerarbeit"},
+  {"id":3249,"lemma":"Überdruß"},
+  {"id":1181,"lemma":"Gravitation"},
+  {"id":1397,"lemma":"Impetus"},
+  {"id":1428,"lemma":"Inertialsystem"},
+  {"id":1892,"lemma":"Materie"}
+ ],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Trägheit I (anthr.)"},
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Trägheit I (anthr.)"},
   {"id":32,"name":"Physik","label":"Trägheit II (phys.)"},
   {"id":44,"name":"Theologie","label":"Trägheit I (anthr.)"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51},{"name":"Jammer Max","n":8}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52},{"name":"Jammer Max","n":8}]
 }
 );

@@ -80,7 +80,7 @@ HWPH.put("r/61-62",
   "abduktionsschluss"
  ],
  [
-  "Abelsche Gruppe","Kontinuum IV (math.)","","4","1059f.","ref",1640,"Kontinuum, Kontinuität",
+  "Abelsche Gruppe","Kontinuum","IV (math.)","4","1059f.","ref",1640,"Kontinuum, Kontinuität",
   "abelsche gruppe"
  ],
  ["Abendland","Europa; Abendland","",null,null,"ref",847,"Europa, Abendland","abendland"],
@@ -98,7 +98,10 @@ HWPH.put("r/61-62",
  ["Abfall","Schuld","III","8","1458","ref",2784,"Schuld","abfall"],
  ["Abfall","Verfallen","(Heidegger)","11","635f.","ref",3397,"Verfallen","abfall"],
  ["Abfolge","Abfolge","(Bolzano)","1","4f.","main",20,"Abfolge","abfolge"],
- ["Abfuhr","Methode","",null,null,"ref",1955,"Methode","abfuhr"],
+ ["Abfuhr","Methode, kathartische","",null,null,"ref",1955,"Methode","abfuhr"],
+ ["Abfuhr","Abreagieren","","1","8","ref",24,"Abreagieren","abfuhr"],
+ ["Abfuhr","Primärvorgang","","7","1311","ref",2452,"Primärvorgang","abfuhr"],
+ ["Abfuhr","Spannung","IV (psych.)","9","1296f.","ref",2961,"Spannung","abfuhr"],
  ["Abgeschiedenheit","Abgeschiedenheit","","1","5","main",21,"Abgeschiedenheit","abgeschiedenheit"],
  [
   "Abgeschiedenheit","Desappropriatio","",null,null,"see",565,"Desappropriatio, expropriatio (sui)",
@@ -109,8 +112,12 @@ HWPH.put("r/61-62",
  ["Abgeschiedenheit","Einsamkeit","I",null,null,"see",688,"Einsamkeit","abgeschiedenheit"],
  ["Abgeschiedenheit","Leere","I (myst.)",null,null,"see",1758,"Leere","abgeschiedenheit"],
  [
-  "Abgesonderten, die","Pharisäer; Pharisäismus I Abgrenzen","",null,null,"ref",2349,
-  "Pharisäer, Pharisäismus","abgesonderten, die"
+  "Abgesonderten, die","Pharisäer; Pharisäismus","I",null,null,"ref",2349,"Pharisäer, Pharisäismus",
+  "abgesonderten, die"
+ ],
+ [
+  "Abgrenzen","Bestimmung; Determination","I (met.)","1","854","ref",400,
+  "Bestimmung, bestimmen, Determination","abgrenzen"
  ],
  [
   "Abgrenzungskriterium","Verifikation","I","11","698","ref",3409,"Verifikation",
@@ -205,13 +212,26 @@ HWPH.put("r/61-62",
   "abnormitat, psychische"
  ],
  ["Abnormität, psychische","Wahnsinn","","12","40","ref",3521,"Wahnsinn","abnormitat, psychische"],
- ["abondance","Überfluss above reason","",null,null,"ref",null,null,"abondance"],
+ ["abondance","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft","abondance"],
+ [
+  "above reason","Suprarational/kontrarational","","10","678","ref",3089,
+  "Suprarational/kontrarational","above reason"
+ ],
  ["Abreagieren","Abreagieren","","1","7f.","main",24,"Abreagieren","abreagieren"],
- ["Abreagieren","Methode","",null,null,"see",1955,"Methode","abreagieren"],
+ ["Abreagieren","Methode, kathartische","",null,null,"see",1955,"Methode","abreagieren"],
+ ["Abreagieren","Psychodrama","",null,null,"see",2507,"Psychodrama","abreagieren"],
  ["Abreagieren","Stereotypie","","10","140","ref",3021,"Stereotypie","abreagieren"],
  ["Abschattung","Abschattung","(Husserl)","1","8f.","main",25,"Abschattung","abschattung"],
  ["Abschattung","Wahrnehmung","VI (phän.)",null,null,"see",3539,"Wahrnehmung","abschattung"],
- ["Abscheuliche, das","Schreckliche","",null,null,"ref",2780,"Schreckliche","abscheuliche, das"],
+ ["Abscheuliche, das","Schreckliche, das","",null,null,"ref",2780,"Schreckliche","abscheuliche, das"],
+ [
+  "Abscheuliche, das","Tragische, das","","10","1335","ref",3214,"Tragische, das",
+  "abscheuliche, das"
+ ],
+ [
+  "Abscheuliche, das","Vernunft; Verstand","VII E","11","855","ref",3423,"Vernunft; Verstand",
+  "abscheuliche, das"
+ ],
  ["Abschreckung","Strafe","I","10","211","ref",3035,"Strafe","abschreckung"],
  ["Abschreckung","Terror","","10","1021","ref",3154,"Terror","abschreckung"],
  [
@@ -227,7 +247,17 @@ HWPH.put("r/61-62",
   "absentia mensurae","Allgegenwart Gottes","","1","162","ref",99,
   "Allgegenwart (Omnipräsenz) Gottes","absentia mensurae"
  ],
- ["absentia rei","Negation","",null,null,"ref",2100,"Negation","absentia rei"],
+ [
+  "absentia rei","Negation; Negativität","I","6","674","ref",2101,"Negation, Negativität",
+  "absentia rei"
+ ],
+ ["Absicht","Absicht","","1","9–12","main",26,"Absicht","absicht"],
+ ["Absicht","Gesinnung","",null,null,"see",1114,"Gesinnung","absicht"],
+ ["Absicht","Imputation","",null,null,"see",1405,"Imputation","absicht"],
+ ["Absicht","Nebenwirkungen","",null,null,"see",2097,"Nebenwirkungen","absicht"],
+ ["Absicht","Vorsatz","",null,null,"see",3497,"Vorsatz","absicht"],
+ ["Absicht","Wille","",null,null,"see",3620,"Wille","absicht"],
+ ["Absicht","Zurechnung","",null,null,"see",3712,"Zurechnung","absicht"],
  ["Absicht","Prohairesis","",null,null,"ref",2474,"Prohairesis","absicht"],
  ["Absicht","Gesinnungsethik","(Scheler)","3","539","ref",1115,"Gesinnungsethik","absicht"],
  [
@@ -240,7 +270,12 @@ HWPH.put("r/61-62",
   "absolut; das absolute"
  ],
  ["Absolut; das Absolute","Geist","V",null,null,"see",1030,"Geist","absolut; das absolute"],
- ["Absolut; das Absolute","Geist","",null,null,"see",1030,"Geist","absolut; das absolute"],
+ ["Absolut; das Absolute","Geist","VII-VIII",null,null,"see",1030,"Geist","absolut; das absolute"],
+ ["Absolut; das Absolute","Gott","",null,null,"see",1162,"Gott","absolut; das absolute"],
+ [
+  "Absolut; das Absolute","Unbedingte","",null,null,"see",3280,"Unbedingte, das",
+  "absolut; das absolute"
+ ],
  ["absolut","An sich/für sich","","1","353","ref",167,"An sich/für sich; an und für sich","absolut"],
  ["absolut","Relativismus","","8","616","ref",2671,"Relativismus","absolut"],
  ["absolut/relativ","Relation","III","8","595","ref",2668,"Relation","absolut/relativ"],
@@ -248,7 +283,20 @@ HWPH.put("r/61-62",
   "Absolut-Absolute, das","Absolut; das Absolute","","1","23","ref",27,"Absolut, das Absolute",
   "absolut-absolute, das"
  ],
- ["Absolute, das","Subjekt","",null,null,"ref",3047,"Subjekt","absolute, das"],
+ ["Absolute, das","Subjekt/Objekt","IV",null,null,"ref",3047,"Subjekt","absolute, das"],
+ [
+  "Absolute, das","Allgemeines/Besonderes","III 3","1","184","ref",101,"Allgemeines/Besonderes",
+  "absolute, das"
+ ],
+ [
+  "Absolute, das","Anschauung, intellektuelle","","1","349f.","ref",163,"Anschauung, intellektuelle",
+  "absolute, das"
+ ],
+ ["Absolute, das","Endlich","I","2","484","ref",734,"Endlich","absolute, das"],
+ ["Absolute, das","Gegensatz","I (met.)","3","113f.","ref",1018,"Gegensatz","absolute, das"],
+ ["Absolute, das","Idee","IV","4","121","ref",1361,"Idee","absolute, das"],
+ ["Absolute, das","Notwendigkeit","II","6","971","ref",2171,"Notwendigkeit","absolute, das"],
+ ["Absolute, das","Vielheit","II","11","1050","ref",3462,"Vielheit","absolute, das"],
  [
   "absolute Apperzeption","Apperzeption, transzendentale","",null,null,"ref",213,
   "Apperzeption, transzendentale","absolute apperzeption"
@@ -347,8 +395,8 @@ HWPH.put("r/61-62",
   "absolutismus der wirklichkeit"
  ],
  [
-  "Absolutsphäre des Bewusstseins (Husserl)","Absolutsphäre des Bewusstseins (Husserl)","","1",
-  "32f.","main",28,"Absolutheit des Christentums","absolutsphare des bewusstseins (husserl)"
+  "Absolutsphäre des Bewusstseins","Absolutsphäre des Bewusstseins","(Husserl)","1","32f.","main",29,
+  "Absolutsphäre des Bewußtseins","absolutsphare des bewusstseins"
  ],
  [
   "Absolut-Unmittelbares","Voraussetzungslosigkeit","","11","1170","ref",3488,
@@ -386,6 +434,8 @@ HWPH.put("r/61-62",
  ],
  ["Absterben","Sterben lernen","","10","130","ref",3018,"Sterben lernen","absterben"],
  ["Absterben des Staats","Staat","II","10","36","ref",2998,"Staat","absterben des staats"],
+ ["Abstieg","Fall; Abfall","","2","889","ref",890,"Fall, Abfall","abstieg"],
+ ["Abstieg","Seelenwagen","","9","112f.","ref",2800,"Seelenwagen","abstieg"],
  ["Abstieg (log.)","Ascensus/Descensus","",null,null,"ref",258,"Ascensus/Descensus","abstieg (log.)"],
  ["Abstieg (log.)","Logik","III","5","372f.","ref",1803,"Logik","abstieg (log.)"],
  ["Abstimmung (biol.)","Bahnung","",null,null,"ref",343,"Bahnung","abstimmung (biol.)"],
@@ -455,7 +505,8 @@ HWPH.put("r/61-62",
   "Psychologie, transzendentale","abstraktion"
  ],
  ["Abstraktion","Species","I (met.)","9","1324","ref",2966,"Species","abstraktion"],
- ["Abstraktion","Abstraktion","VI",null,null,"main",31,"Abstraktion","abstraktion"],
+ ["Abstraktion","Universalien","II","11","188","ref",3302,"Universalien","abstraktion"],
+ ["Abstraktion (ästh.)","Abstraktion","VI",null,null,"ref",31,"Abstraktion","abstraktion (asth.)"],
  ["Abstraktion (log.)","Abstraktion","V",null,null,"ref",31,"Abstraktion","abstraktion (log.)"],
  [
   "Abstraktion, blutleere","Abstrakt/konkret","III","1","40","ref",30,"Abstrakt/konkret",
@@ -491,11 +542,11 @@ HWPH.put("r/61-62",
  ["Absturz","Verfallen","(Heidegger)","11","634","ref",3397,"Verfallen","absturz"],
  ["Absurd","Absurd","","1","66f.","main",35,"Absurd","absurd"],
  ["Absurd","Ekel","",null,null,"see",699,"Ekel","absurd"],
- ["Absurd","Paradox II (theol.)","",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie","absurd"],
+ ["Absurd","Paradox","II (theol.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie","absurd"],
  ["Absurd","Revolte","",null,null,"see",2704,"Revolte","absurd"],
  ["Absurde, das","Kunst; Kunstwerk","V 3","4","1424","ref",1712,"Kunst, Kunstwerk","absurde, das"],
  [
-  "Absurde, das","Paradox I (rhet.)","","7","84","ref",2270,"Paradox, Paradox(e), Paradoxie",
+  "Absurde, das","Paradox","I (rhet.)","7","84","ref",2270,"Paradox, Paradox(e), Paradoxie",
   "absurde, das"
  ],
  ["Absurdität","Absurd","",null,null,"ref",35,"Absurd","absurditat"],
@@ -514,7 +565,8 @@ HWPH.put("r/61-62",
   "abundantia claritatis","Via causalitatis/negationis/eminentiae","","11","1035","ref",3460,
   "Via causalitatis; via negationis; via eminentiae","abundantia claritatis"
  ],
- ["Abundanz","Überfluss Abwehr","",null,null,"ref",null,null,"abundanz"],
+ ["Abundanz","Überfluss","",null,null,"ref",3252,"Überfluß; Überflußgesellschaft","abundanz"],
+ ["Abwehr","Meidungsverhalten","",null,null,"ref",1911,"Meidungsverhalten","abwehr"],
  ["Abwehr, sekundäre","Zwang","II (psych.)","12","1483","ref",3717,"Zwang","abwehr, sekundare"],
  [
   "Abwehrmechanismus","Abwehrmechanismus","","1","67–70","main",36,"Abwehrmechanismus",
@@ -595,53 +647,56 @@ HWPH.put("r/61-62",
  ["abyssus","Chaos","I","1","981","ref",484,"Chaos","abyssus"],
  ["abyssus","Nichts; Nichtseiendes","","6","824","ref",2136,"Nichts, Nichtseiendes","abyssus"],
  ["abyssus","Sünde","II","10","602","ref",3075,"Sünde","abyssus"],
- ["abzählbar","Kontinuum IV (math.)","","4","1062","ref",1640,"Kontinuum, Kontinuität","abzahlbar"],
+ ["abzählbar","Kontinuum","IV (math.)","4","1062","ref",1640,"Kontinuum, Kontinuität","abzahlbar"],
  ["abzählbar","Mengenlehre","","5","1050","ref",1916,"Mengenlehre","abzahlbar"],
  [
-  "abzählbar","Paradox III (log.)","","7","97","ref",2270,"Paradox, Paradox(e), Paradoxie",
+  "abzählbar","Paradox","III (log.)","7","97","ref",2270,"Paradox, Paradox(e), Paradoxie",
   "abzahlbar"
  ],
  [
   "abzählbar","Standard-Modell/Nicht-Standard-Modell","","10","97","ref",3010,
   "Standard-Modell/Nicht-Standard-Modell","abzahlbar"
  ],
- ["Abstraktion","Abstraktion","",null,null,"main",31,"Abstraktion","abstraktion"],
+ ["Absolute","Aktuosität","",null,null,"ref",89,"Aktuosität","absolute"],
+ ["Absolute","Allgegenwart Gottes","",null,null,"ref",null,null,"absolute"],
+ ["Absolute","Allmacht Gottes","",null,null,"ref",null,null,"absolute"],
+ ["Absolute","Allwissenheit Gottes","",null,null,"ref",null,null,"absolute"],
+ ["Absolute","Aseität","",null,null,"ref",259,"Aseität","absolute"],
+ ["Absolute","Attribute Gottes","",null,null,"ref",null,null,"absolute"],
+ ["Absolute","Gericht","",null,null,"ref",1084,"Gericht (Gottes)","absolute"],
+ ["Abstraktion","Abstraktion","II","1","46","main",31,"Abstraktion","abstraktion"],
+ ["Abstraktion","Aisthesis","","1","120f.","ref",70,"Aisthesis (Wahrnehmung)","abstraktion"],
+ ["Absolute","Bedingt","",null,null,"ref",353,"Bedingt","absolute"],
+ ["Absolute","Ungrund; Urgrund","",null,null,"ref",3298,"Ungrund; Urgrund","absolute"],
+ ["Absolute","Unhintergehbarkeit","",null,null,"ref",3300,"Unhintergehbarkeit","absolute"],
  [
-  "Abstraktion","Incomplexum/complexum","","4","278","ref",1407,"Incomplexum/complexum",
-  "abstraktion"
+  "Absolute","Unvordenkliche, das","(Schelling)",null,null,"ref",3334,"Unvordenkliche, das",
+  "absolute"
  ],
- [
-  "Abstraktion","Logik, transzendentale","","5","472f.","ref",1819,"Logik, transzendentale",
-  "abstraktion"
- ],
- [
-  "Abstraktion","Schema; Schematismus I (allg.)","","8","1254","ref",2760,"Schema, Schematismus",
-  "abstraktion"
- ],
- ["Abbildtheorie","Abbildtheorie","","1","1","main",18,"Abbildtheorie","abbildtheorie"],
- ["Abfolge","Abfolge","(Bolzano)","1","4","main",20,"Abfolge","abfolge"],
- [
-  "Abstrakt/konkret","Abstrakt/konkret","III","1","38","main",30,"Abstrakt/konkret",
-  "abstrakt/konkret"
- ],
- ["Abstraktion","Abstraktion","III","1","53","main",31,"Abstraktion","abstraktion"],
- ["Abstraktion","Präexistenz","","7","1229","ref",2432,"Präexistenz","abstraktion"],
- ["Abduktion","Abduktion","(Peirce)",null,null,"main",19,"Abduktion","abduktion"],
- ["Abduktion","Denken","I","2","71f.","ref",552,"Denken","abduktion"],
+ ["Absolute","Voraussetzungslosigkeit","",null,null,"ref",3488,"Voraussetzungslosigkeit","absolute"],
  ["Abbildtheorie","Abbildtheorie","","1","2","main",18,"Abbildtheorie","abbildtheorie"],
  [
-  "Abbildtheorie","Invention; Erfindung III (log.)","","4","554","ref",1490,
+  "Abbildtheorie","Invention; Erfindung","III (log.)","4","554","ref",1490,
   "Invention, Erfindung, Entdeckung","abbildtheorie"
  ],
  ["Abbildtheorie","Poiesis","II","7","1025","ref",2390,"Poiesis","abbildtheorie"],
  ["Abbildtheorie","Schein","I 9","8","1239","ref",2757,"Schein","abbildtheorie"],
+ ["Absolute","Unbedingte, das","",null,null,"ref",3280,"Unbedingte, das","absolute"],
+ ["Absolute","Unhintergehbarkeit","",null,null,"ref",3300,"Unhintergehbarkeit","absolute"],
+ [
+  "Absolute","Unvordenkliche, das","(Schelling)",null,null,"ref",3334,"Unvordenkliche, das",
+  "absolute"
+ ],
  [
   "Abel Günter","Realismus","III (analyt. Philos.)","8","162–169","author",2588,"Realismus",
   "abel gunter"
  ],
  ["Abeler Helmut","Grazie; Anmut","II","3","867–871","author",1182,"Grazie, Anmut","abeler helmut"],
  ["Abeler Helmut","Reizsamkeit","","8","568f.","author",2664,"Reizsamkeit","abeler helmut"],
- ["Abeler Helmut","Stand","",null,null,"author",3008,"Stand","abeler helmut"],
+ [
+  "Abeler Helmut","Stand des Bewusstseins","(Dilthey)","10","95f.","author",3009,
+  "Stand des Bewußtseins","abeler helmut"
+ ],
  [
   "Abeler Helmut","Stofftrieb/Formtrieb","(Schiller)","10","189f.","author",3031,
   "Stofftrieb/Formtrieb","abeler helmut"

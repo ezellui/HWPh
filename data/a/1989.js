@@ -24,7 +24,7 @@ HWPH.put("a/1989",
  "backlinks":[{"id":2997,"lemma":"Spur","n":1},{"id":3404,"lemma":"Vergessen, das","n":1}],
  "outlinks":[{"id":1990,"lemma":"Mnemismus","n":1}],
  "register":[
-  {"term":"Andenken","qualifier":"","band":null,"col":null},
+  {"term":"Andenken","qualifier":"II 1","band":null,"col":null},
   {"term":"Eingedenken","qualifier":"II 1","band":"5","col":"1442f."},
   {"term":"Mnemosyne","qualifier":"","band":null,"col":null}
  ],

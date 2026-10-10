@@ -29,10 +29,12 @@ HWPH.put("a/2138",
  "register":[
   {"term":"challenge/response","qualifier":"","band":"6","col":"844"},
   {"term":"chute","qualifier":"","band":null,"col":null},
-  {"term":"Drei-Stadien-Gesetz","qualifier":"","band":"6","col":"841"},
+  {"term":"decline","qualifier":"","band":null,"col":null},
   {"term":"fall","qualifier":"","band":null,"col":null},
+  {"term":"Fortschritt","qualifier":"","band":"6","col":"841"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"translatio imperii","qualifier":"","band":"6","col":"840"},
+  {"term":"Untergang","qualifier":"","band":null,"col":null},
   {"term":"Verfall","qualifier":"","band":null,"col":null}
  ],
  "persons":[

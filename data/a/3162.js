@@ -23,7 +23,8 @@ HWPH.put("a/3162",
   {"term":"comédie du monde","qualifier":"","band":"10","col":"1052"},
   {"term":"scaena vitae","qualifier":"","band":null,"col":null},
   {"term":"Schauspiel","qualifier":"","band":"10","col":"1052f."},
-  {"term":"stage","qualifier":"","band":"10","col":"1051"}
+  {"term":"stage","qualifier":"","band":"10","col":"1051"},
+  {"term":"Welttheater","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":17,"name":"K. Marx","b":1,"n":2,"l":0,"editor":0,"role":"source"},

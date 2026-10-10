@@ -29,7 +29,6 @@ HWPH.put("a/3691",
   {"id":3707,"lemma":"Zuhandenheit/Vorhandenheit","n":1}
  ],
  "register":[
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Organprojektion","qualifier":"(Heidegger)","band":"12","col":"1316"},
   {"term":"Um-zu-Struktur","qualifier":"(Heidegger)","band":"12","col":"1316"},
   {"term":"Werkzeuggebrauch","qualifier":"(Heidegger)","band":"12","col":"1317"},

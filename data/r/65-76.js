@@ -26,6 +26,13 @@ HWPH.put("r/65-76",
  ],
  ["evidentia naturalis","Zustimmung","I","12","1462","ref",3715,"Zustimmung","evidentia naturalis"],
  ["Evidenz","Evidenz","","2","829–834","main",850,"Evidenz","evidenz"],
+ ["Evidenz","Self-evidence","",null,null,"see",2857,"Self-evidence","evidenz"],
+ [
+  "Evidenz","Selbstgebung","(Husserl)",null,null,"see",2835,"Selbstgebung, Selbstgegebenheit",
+  "evidenz"
+ ],
+ ["Evidenz","Wahrheit","VI A",null,null,"see",3523,"Wahrheit","evidenz"],
+ ["Evidenz","Wahrnehmung","VI (phän.)",null,null,"see",3539,"Wahrnehmung","evidenz"],
  ["Evidenz","Per se notum","",null,null,"ref",2315,"Per se notum","evidenz"],
  ["Evidenz","Unfehlbarkeit","I (erk.)",null,null,"ref",3294,"Unfehlbarkeit","evidenz"],
  ["Evidenz","Einsicht","I","2","414","ref",689,"Einsicht, einsichtig","evidenz"],
@@ -53,7 +60,7 @@ HWPH.put("r/65-76",
  ["Evokation","Abwesenheit","",null,null,"see",37,"Abwesenheit","evokation"],
  ["Evokation","Empfindlichkeit","(Valéry)",null,null,"see",720,"Empfindlichkeit","evokation"],
  ["evolutio","Entwicklung","I (allg.)","2","550","ref",759,"Entwicklung","evolutio"],
- ["Evolution","Mensch","IV",null,null,"ref",1917,"Mensch","evolution"],
+ ["Evolution","Mensch","IV 1",null,null,"ref",1917,"Mensch","evolution"],
  [
   "Evolution","Psychologie, genetische","",null,null,"ref",2515,"Psychologie, genetische",
   "evolution"

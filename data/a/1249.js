@@ -19,9 +19,7 @@ HWPH.put("a/1249",
  "outlinks":[],
  "register":[
   {"term":"Störung, psychische","qualifier":"","band":null,"col":null},
-  {"term":"vitale Hemmung","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 1 433 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 12 1480–1486 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"vitale Hemmung","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2201,"name":"H. Tellenbach","b":1,"n":1,"l":1,"editor":0,"role":"mixed"},

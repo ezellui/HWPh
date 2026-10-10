@@ -180,6 +180,6 @@ HWPH.put("a/1678",
   {"id":3,"name":"Antike Philosophie","label":"Kosmos I"},
   {"id":4,"name":"Astronomie","label":"Kosmos"}
  ],
- "reg_authors":[{"name":"Ebert Rolf","n":2},{"name":"Gatzemeier Matthias","n":9},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Ebert Rolf","n":2},{"name":"Gatzemeier Matthias","n":9},{"name":"Red","n":241}]
 }
 );

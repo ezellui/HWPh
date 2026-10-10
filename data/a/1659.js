@@ -58,7 +58,8 @@ HWPH.put("a/1659",
  "see_also":[
   {"id":1353,"lemma":"Idealismus, physikalischer"},
   {"id":1599,"lemma":"Komplementarität"},
-  {"id":2548,"lemma":"Quantenmechanik"}
+  {"id":2548,"lemma":"Quantenmechanik"},
+  {"id":3318,"lemma":"Unschärferelation; Unbestimmtheitsrelation"}
  ],
  "groups":[{"id":32,"name":"Physik","label":"Kopenhagener Deutung"}],
  "reg_authors":[{"name":"Meyer-Abich Klaus Michael","n":3}]

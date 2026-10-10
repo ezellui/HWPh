@@ -22,7 +22,7 @@ HWPH.put("a/3392",
   {"id":2828,"lemma":"Selbstbewußtsein","n":1}
  ],
  "register":[
-  {"term":"1203","qualifier":"","band":"11","col":"615"},
+  {"term":"Dialektik","qualifier":"","band":"11","col":"615"},
   {"term":"Doppelgänger","qualifier":"","band":"11","col":"614"},
   {"term":"duplication","qualifier":"","band":null,"col":null},
   {"term":"Falte","qualifier":"","band":"11","col":"616"},
@@ -31,12 +31,13 @@ HWPH.put("a/3392",
   {"term":"Ich-Verdopplung","qualifier":"","band":"11","col":"614"},
   {"term":"Kulturindustrie","qualifier":"","band":"11","col":"616"},
   {"term":"Nächster","qualifier":"","band":"11","col":"616"},
-  {"term":"primäres/sekundäres (Reininger)","qualifier":"","band":"11","col":"614f."},
   {"term":"quadruplicatio","qualifier":"","band":"11","col":"614"},
   {"term":"reduplication","qualifier":"","band":null,"col":null},
   {"term":"replicatio","qualifier":"","band":"11","col":"614"},
   {"term":"Scheidung, innerliche","qualifier":"","band":"11","col":"615"},
-  {"term":"Trinität","qualifier":"","band":"11","col":"614"}
+  {"term":"Selbstbewusstsein","qualifier":"","band":"11","col":"614f."},
+  {"term":"Trinität","qualifier":"","band":"11","col":"614"},
+  {"term":"triplicatio","qualifier":"","band":"11","col":"614"}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":2,"l":0,"editor":0,"role":"source"},

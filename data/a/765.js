@@ -23,12 +23,11 @@ HWPH.put("a/765",
  "outlinks":[],
  "register":[
   {"term":"Ganze, das","qualifier":"","band":"2","col":"569"},
-  {"term":"Malum","qualifier":"","band":"2","col":"567"},
   {"term":"s auch","qualifier":"","band":null,"col":null},
   {"term":"Streit der Vernunft","qualifier":"","band":"2","col":"567"},
   {"term":"Übergangsperiode","qualifier":"","band":"2","col":"568"},
   {"term":"Unschuld","qualifier":"","band":"2","col":"569"},
-  {"term":"– II (anthr.) 11 898–904 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Ursache des Bösen","qualifier":"","band":"2","col":"567"}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":3,"l":0,"editor":0,"role":"source"},

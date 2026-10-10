@@ -20,7 +20,7 @@ HWPH.put("a/243",
  "register":[
   {"term":"Glaube","qualifier":"","band":null,"col":null},
   {"term":"scandalum","qualifier":"","band":null,"col":null},
-  {"term":"– I (rhet.) 7 81–90 – II (theol.) 7 90–96 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"σκάνδαλον","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":3193,"name":"G. Ermecke","b":0,"n":2,"l":0,"editor":0,"role":"scholar"},
@@ -42,7 +42,7 @@ HWPH.put("a/243",
   {"id":1138,"lemma":"Glaube","tf":2},
   {"id":3406,"lemma":"Verhalten","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"}],
  "groups":[{"id":44,"name":"Theologie","label":"Ärgernis"}],
  "reg_authors":[{"name":"Seils Martin","n":11}]
 }

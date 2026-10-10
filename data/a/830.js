@@ -18,11 +18,11 @@ HWPH.put("a/830",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"3b 6 1195 Wesensphilosophie","qualifier":"","band":null,"col":null},
   {"term":"Essenzphilosophie","qualifier":"","band":null,"col":null},
   {"term":"existence essentielle","qualifier":"","band":"2","col":"751"},
   {"term":"Existenz, essentielle","qualifier":"","band":"2","col":"751"},
-  {"term":"Philosophie, essentialistische","qualifier":"","band":null,"col":null}
+  {"term":"Philosophie, essentialistische","qualifier":"","band":null,"col":null},
+  {"term":"Wesensphilosophie","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":1452,"name":"E. Przywara","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},

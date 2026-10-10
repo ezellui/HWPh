@@ -35,13 +35,7 @@ HWPH.put("a/3042",
   {"term":"simulacre","qualifier":"I (sprach./ästh.)","band":"10","col":"344"},
   {"term":"Theorienstruktur","qualifier":"II (wiss.)","band":null,"col":null},
   {"term":"univers sémantique","qualifier":"I (sprach./ästh.)","band":"10","col":"342"},
-  {"term":"Verfremdung","qualifier":"I (sprach./ästh.)","band":"10","col":"343"},
-  {
-   "term":"– I (allg.) 10 303–314 – II (frz. Struktural.) 10 314–323 s auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"Verfremdung","qualifier":"I (sprach./ästh.)","band":"10","col":"343"}
  ],
  "persons":[
   {"id":1227,"name":"J. D. Sneed","b":3,"n":15,"l":2,"editor":0,"role":"mixed"},
@@ -159,7 +153,18 @@ HWPH.put("a/3042",
   {"id":340,"lemma":"Axiom","tf":2},
   {"id":1878,"lemma":"Masse, Massen","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":2181,"lemma":"Oberflächenstruktur/Tiefenstruktur"},
+  {"id":2364,"lemma":"Phonologie, Phonem"},
+  {"id":3112,"lemma":"Syntagmatisch/paradigmatisch"},
+  {"id":256,"lemma":"Artikulation"},
+  {"id":987,"lemma":"Ganzheit"},
+  {"id":1116,"lemma":"Gestalt"},
+  {"id":2511,"lemma":"Psychologie"},
+  {"id":1712,"lemma":"Kunst, Kunstwerk"},
+  {"id":3040,"lemma":"Struktur"},
+  {"id":3179,"lemma":"Theorie"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Strukturalismus"},
   {"id":20,"name":"Linguistik","label":"Strukturalismus"},

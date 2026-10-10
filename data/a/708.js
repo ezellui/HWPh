@@ -29,6 +29,6 @@ HWPH.put("a/708",
   {"id":2555,"lemma":"Quasianalyse"}
  ],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Elementarerlebnisse (Carnap)"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

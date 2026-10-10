@@ -26,7 +26,7 @@ HWPH.put("a/507",
  "register":[
   {"term":"appetitus","qualifier":"","band":null,"col":null},
   {"term":"Grösse, nicht teilbare intensive","qualifier":"","band":"1","col":"1028"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"naturalis","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":6,"name":"G. W. Leibniz","b":1,"n":2,"l":0,"editor":0,"role":"source"},
@@ -46,12 +46,7 @@ HWPH.put("a/507",
   {"id":8378,"name":"D. M. André","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":2329,"lemma":"Perzeption","tf":2}],
- "see_also":[
-  {"id":216,"lemma":"Appétition"},
-  {"id":362,"lemma":"Begehren, appetitus naturalis"},
-  {"id":3038,"lemma":"Streben"},
-  {"id":3229,"lemma":"Trieb"}
- ],
+ "see_also":[{"id":216,"lemma":"Appétition"},{"id":362,"lemma":"Begehren, appetitus naturalis"}],
  "groups":[{"id":28,"name":"Naturphilosophie","label":"Conatus"}],
  "reg_authors":[{"name":"Nieraad Jürgen","n":3}]
 }

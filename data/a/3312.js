@@ -18,8 +18,9 @@ HWPH.put("a/3312",
  "backlinks":[],
  "outlinks":[{"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie","n":1}],
  "register":[
-  {"term":"das III 8 1360f.","qualifier":"(Kierkegaard)","band":"11","col":"232"},
-  {"term":"Inkognito","qualifier":"(Kierkegaard)","band":"11","col":"232"}
+  {"term":"Inkognito","qualifier":"(Kierkegaard)","band":"11","col":"232"},
+  {"term":"Liebe","qualifier":"(Kierkegaard)","band":"11","col":"232"},
+  {"term":"ukendelighed","qualifier":"(Kierkegaard)","band":null,"col":null}
  ],
  "persons":[
   {"id":49,"name":"S. Kierkegaard","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -43,7 +44,8 @@ HWPH.put("a/3312",
  ],
  "see_also":[
   {"id":1495,"lemma":"Ironie"},
-  {"id":1986,"lemma":"Mitteilung, Mitteilbarkeit, indirekte Mitteilung"}
+  {"id":1986,"lemma":"Mitteilung, Mitteilbarkeit, indirekte Mitteilung"},
+  {"id":2270,"lemma":"Paradox, Paradox(e), Paradoxie"}
  ],
  "groups":[{"id":44,"name":"Theologie","label":"Unkenntlichkeit (Kierkegaard)"}],
  "reg_authors":[{"name":"Thomä Anita","n":1}]

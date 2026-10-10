@@ -33,7 +33,6 @@ HWPH.put("a/2955",
  "backlinks":[{"id":3554,"lemma":"Weissagung","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"(institut. Formen)","qualifier":"","band":"9","col":"1257–1263"},
   {"term":"Antitrinitarismus","qualifier":"","band":null,"col":null},
   {"term":"Arianismus","qualifier":"","band":"9","col":"1258"},
   {"term":"Photinianismus","qualifier":"","band":"9","col":"1258"},
@@ -134,7 +133,7 @@ HWPH.put("a/2955",
   {"id":835,"lemma":"Ethik","tf":3},
   {"id":1196,"lemma":"Grundsatz","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":249,"lemma":"Arminianismus"}],
  "groups":[
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Sozinianismus"},
   {"id":44,"name":"Theologie","label":"Sozinianismus"}

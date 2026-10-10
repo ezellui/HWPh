@@ -1,11 +1,11 @@
 HWPH.put("r/62-69",
 [
- ["Bildung","Bildung","",null,null,"main",435,"Bildung","bildung"],
- ["Bibelkritik","Kritik","",null,null,"ref",1694,"Kritik","bibelkritik"],
  [
-  "bien","Gut; das Gute bien commun; bien public","",null,null,"ref",1203,"Gut, das Gute, das Gut",
-  "bien"
+  "Bibelkritik","Kritik; Literaturkritik","I","4","1284","ref",1695,"Kritik, Literaturkritik",
+  "bibelkritik"
  ],
+ ["Biblizismus","Biblizismus","","1","912f.","main",430,"Biblizismus","biblizismus"],
+ ["bien","Gut; das","",null,null,"ref",1203,"Gut, das Gute, das Gut","bien"],
  ["bienveillance","Wohlwollen","",null,null,"ref",3653,"Wohlwollen","bienveillance"],
  ["big bang","Universum","","11","223","ref",3310,"Universum","big bang"],
  [
@@ -13,6 +13,19 @@ HWPH.put("r/62-69",
   "biimplikation"
  ],
  ["Bild","Bild","","1","913–919","main",431,"Bild","bild"],
+ ["Bild","Ähnlichkeit","",null,null,"see",67,"Ähnlichkeit","bild"],
+ ["Bild","Archetypus","",null,null,"see",239,"Archetypus","bild"],
+ ["Bild","Causa exemplaris","",null,null,"see",470,"Causa exemplaris","bild"],
+ ["Bild","Ebenbild","",null,null,"see",647,"Ebenbild","bild"],
+ ["Bild","Gottebenbildlichkeit","",null,null,"see",1163,"Gottebenbildlichkeit","bild"],
+ ["Bild","Konform","",null,null,"see",1609,"Konform, Konformität","bild"],
+ ["Bild","Species","I (met.)",null,null,"see",2966,"Species","bild"],
+ ["Bild","Urbild","",null,null,"see",3339,"Urbild","bild"],
+ ["Bild","Abbildtheorie","",null,null,"see",18,"Abbildtheorie","bild"],
+ ["Bild","Eidolon; Eikon","",null,null,"see",661,"Eidolon, Eikon, Bild","bild"],
+ ["Bild","Repräsentation","I (erk )",null,null,"see",2686,"Repräsentation","bild"],
+ ["Bild","Vorstellung","",null,null,"see",3503,"Vorstellung","bild"],
+ ["Bild","Wahrnehmung","",null,null,"see",3539,"Wahrnehmung","bild"],
  ["Bild","Einbildungskraft","",null,null,"ref",673,"Einbildung, Einbildungskraft","bild"],
  ["Bild","Image","",null,null,"ref",1388,"Image","bild"],
  [
@@ -41,7 +54,7 @@ HWPH.put("r/62-69",
   "bild, dialektisches"
  ],
  [
-  "Bild, dialektisches","Kunst; Kunstwerk IV 7","",null,null,"see",1712,"Kunst, Kunstwerk",
+  "Bild, dialektisches","Kunst; Kunstwerk","IV 7",null,null,"see",1712,"Kunst, Kunstwerk",
   "bild, dialektisches"
  ],
  [
@@ -90,8 +103,8 @@ HWPH.put("r/62-69",
  ["Bildmenge","Funktion","I (math.)","2","1138","ref",974,"Funktion","bildmenge"],
  ["Bildmotiv","Motiv","III (ästh.)","6","217","ref",2033,"Motiv","bildmotiv"],
  [
-  "Bildobjektbewusstsein","Neutralisierung (Husserl)","","6","781","ref",2130,
-  "Neutralisierungen, Zeitalter der","bildobjektbewusstsein"
+  "Bildobjektbewusstsein","Neutralisierung","(Husserl)","6","781","ref",2129,
+  "Neutralisierung (neutrales Bewußtsein)","bildobjektbewusstsein"
  ],
  ["Bildsamkeit","Bildung","","1","930","ref",435,"Bildung","bildsamkeit"],
  [
@@ -161,7 +174,7 @@ HWPH.put("r/62-69",
  ],
  ["Billigkeit","Billigkeit","","1","939–943","main",438,"Billigkeit","billigkeit"],
  ["Billigkeit","Regula Lesbia","",null,null,"see",2651,"Regula Lesbia","billigkeit"],
- ["Billigkeit","Mass II (ästh.)","","5","816","ref",1877,"Maß","billigkeit"],
+ ["Billigkeit","Mass","II (ästh.)","5","816","ref",1877,"Maß","billigkeit"],
  ["Billigung","Gefühl, moralisches","","3","96","ref",1010,"Gefühl, moralisches","billigung"],
  ["Billigung","Gut; das Gute","IV","3","962","ref",1203,"Gut, das Gute, das Gut","billigung"],
  ["Billigung","Wahrscheinlichkeit","II","12","254","ref",3540,"Wahrscheinlichkeit","billigung"],
@@ -191,7 +204,7 @@ HWPH.put("r/62-69",
  ],
  ["Biogeozönose","Ökosystem","","6","1173","ref",2212,"Ökosystem","biogeozonose"],
  ["Biogrammatik","Sozialdarwinismus","","9","1128","ref",2939,"Sozialdarwinismus","biogrammatik"],
- ["Biologie s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"biologie s. auch"],
+ ["Biologie","Register der Sachgruppen","",null,null,"see",null,null,"biologie"],
  ["Biologie","Biologie","","1","943f.","main",439,"Biologie","biologie"],
  [
   "biologie dynamique","Bionomie/Biotechnik","","1","946","ref",443,"Bionomie/Biotechnik",
@@ -231,20 +244,14 @@ HWPH.put("r/62-69",
   "Biopsychologie","Organismus","II (soz./psych.)","6","1347","ref",2243,"Organismus",
   "biopsychologie"
  ],
+ ["Bios","Bios","(Lebensform)","1","948f.","main",445,"Bios (Leben, Lebensform)","bios"],
+ ["Bios","Lebensformen","",null,null,"see",1743,"Lebensformen","bios"],
+ ["Bios","Praxis","I",null,null,"see",2448,"Praxis, praktisch","bios"],
  [
-  "Bios (Lebensform)","Bios (Lebensform)","","1","948f.","main",445,"Bios (Leben, Lebensform)",
-  "bios (lebensform)"
+  "Bios","Vita activa/contemplativa βίος κοινός","",null,null,"see",3469,
+  "Vita activa/vita contemplativa","bios"
  ],
- ["Bios (Lebensform)","Lebensformen","",null,null,"see",1743,"Lebensformen","bios (lebensform)"],
- ["Bios (Lebensform)","Praxis I","",null,null,"see",2448,"Praxis, praktisch","bios (lebensform)"],
- [
-  "Bios (Lebensform)","Vita activa/contemplativa βίος κοινός","",null,null,"see",3469,
-  "Vita activa/vita contemplativa","bios (lebensform)"
- ],
- [
-  "Bios (Lebensform)","Bios (Lebensform)","","1","948","main",445,"Bios (Leben, Lebensform)",
-  "bios (lebensform)"
- ],
+ ["Bios","Bios","(Lebensform)","1","948","main",445,"Bios (Leben, Lebensform)","bios"],
  ["Biosophie","Biosophie","","1","949f.","main",446,"Biosophie","biosophie"],
  [
   "Biosphäre/Noosphäre","Biosphäre/Noosphäre","(Teilhard de Chardin)","1","950f.","main",447,
@@ -267,33 +274,43 @@ HWPH.put("r/62-69",
   "bisubjunktor"
  ],
  ["Bisystem","Symbiose","I (biol.)","10","708","ref",3092,"Symbiose","bisystem"],
+ ["Bildung","Bildung","","1","925","main",435,"Bildung","bildung"],
  [
-  "Biosphäre/Noosphäre","Biosphäre/Noosphäre","(Teilhard de Chardin)","1","950","main",447,
-  "Biosphäre/Noosphäre","biosphare/noosphare"
+  "Bildung","Individuum; Individualität","II","4","306","ref",1424,"Individuum, Individualität",
+  "bildung"
  ],
- ["Bildung","Bildung","","1","929f.","main",435,"Bildung","bildung"],
- ["Bildung","Natur, zweite","I","6","488","ref",2077,"Natur, zweite","bildung"],
- ["Billigkeit","Billigkeit","II",null,null,"main",438,"Billigkeit","billigkeit"],
- ["Billigkeit","Vermittlung","","11","723","ref",3417,"Vermittlung","billigkeit"],
+ [
+  "Bildung","Individuum; Individualität","III","4","319","ref",1424,"Individuum, Individualität",
+  "bildung"
+ ],
+ ["Bildung","Leib-Seele-Verhältnis","III","5","204","ref",1770,"Leib-Seele-Verhältnis","bildung"],
+ [
+  "Bildung","Persönlichkeitswert","(Hartmann)","7","362f.","ref",2325,
+  "Persönlichkeitswert, Personwert","bildung"
+ ],
+ ["Bildung","Seele","V","9","75","ref",2794,"Seele","bildung"],
+ ["Bildung","Situation","II (psych./soz.)","9","930ff.","ref",2904,"Situation","bildung"],
+ ["Bildung","Subjekt","I","10","381ff.","ref",3047,"Subjekt","bildung"],
+ ["Bildung","Subjekt","III","10","389f.","ref",3047,"Subjekt","bildung"],
+ ["Bildung","Substanz","IV","10","548","ref",3062,"Substanz; Substanz/Akzidens","bildung"],
+ ["Bildung","Unsterblichkeit","IV","11","289ff.","ref",3323,"Unsterblichkeit","bildung"],
+ ["Bildung","Wert","III B (phän.)","12","569","ref",3588,"Wert","bildung"],
  ["Bichel Ulf","Umgangssprache","I","11","87f.","author",3273,"Umgangssprache","bichel ulf"],
  [
-  "Bickmann Claudia","Vernunft; Verstand","",null,null,"author",3423,"Vernunft; Verstand",
-  "bickmann claudia"
+  "Bickmann Claudia","Vernunft; Verstand","VI-VII A","11","820–833","author",3423,
+  "Vernunft; Verstand","bickmann claudia"
  ],
  ["Bien Günther","All-Eine","","1","161f.","author",98,"All-Eine","bien gunther"],
  ["Bien Günther","Apokatastasis","","1","440f.","author",204,"Apokatastasis","bien gunther"],
  ["Bien Günther","Billigkeit","I","1","939f.","author",438,"Billigkeit","bien gunther"],
  ["Bien Günther","Circumstantia","","1","1019–1022","author",500,"Circumstantia","bien gunther"],
  ["Bien Günther","Demokratie","I","2","50f.","author",547,"Demokratie","bien gunther"],
- [
-  "Bien Günther","Despotie I (allg.)","","2","132–144","author",570,"Désintéressement",
-  "bien gunther"
- ],
+ ["Bien Günther","Despotie","I (allg.)","2","132–144","author",570,"Désintéressement","bien gunther"],
  [
   "Bien Günther","Geschichtszeichen","","3","441–443","author",1095,"Geschichtszeichen",
   "bien gunther"
  ],
- ["Bien Günther","Geziemende","",null,null,"author",1136,"Geziemende","bien gunther"],
+ ["Bien Günther","Geziemende, das","3","3","624","author",1136,"Geziemende","bien gunther"],
  ["Bien Günther","Haus","I","3","1007–1017","author",1229,"Haus","bien gunther"],
  [
   "Bien Günther","Herrschaftsformen","","3","1096–1099","author",1263,"Herrschaftsform(en)",
@@ -310,14 +327,14 @@ HWPH.put("r/62-69",
  ],
  ["Bien Günther","Monastik","","6","130f.","author",2013,"Monastik","bien gunther"],
  [
-  "Bien Günther","Moralität; Sittlichkeit (Hegel)","","6","184–192","author",2028,
+  "Bien Günther","Moralität; Sittlichkeit","(Hegel)","6","184–192","author",2028,
   "Moralität/Legalität","bien gunther"
  ],
  ["Bien Günther","Oligarchie","","6","1178–1182","author",2214,"Oligarchie","bien gunther"],
  ["Bien Günther","Philosophie","I C","7","583–590","author",2353,"Philosophie","bien gunther"],
  ["Bien Günther","Praxis","I","7","1277–1287","author",2448,"Praxis, praktisch","bien gunther"],
  [
-  "Biesterfeld Wolfgang","Bewusstsein, utopisches (Mannheim)","","1","906","author",423,
+  "Biesterfeld Wolfgang","Bewusstsein, utopisches","(Mannheim)","1","906","author",423,
   "Bewußtsein, utopisches","biesterfeld wolfgang"
  ],
  [
@@ -371,7 +388,7 @@ HWPH.put("r/62-69",
  ],
  ["Biser Eugen","Friede","","2","1114–1117","author",955,"Friede","biser eugen"],
  [
-  "Biser Eugen","Mittag, der grosse (Nietzsche)","","5","1420f.","author",1984,"Mittag, der große",
+  "Biser Eugen","Mittag, der grosse","(Nietzsche)","5","1420f.","author",1984,"Mittag, der große",
   "biser eugen"
  ],
  ["Biser Eugen","Tod Gottes","","10","1242–1244","author",3198,"Tod Gottes","biser eugen"],

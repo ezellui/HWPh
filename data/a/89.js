@@ -18,6 +18,7 @@ HWPH.put("a/89",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Absolute","qualifier":"","band":null,"col":null},
   {"term":"actuositas","qualifier":"","band":null,"col":null},
   {"term":"Gott, lebendiger","qualifier":"","band":"1","col":"146"}
  ],

@@ -17,7 +17,7 @@ HWPH.put("a/220",
  "next":{"id":221,"lemma":"A priori/a posteriori","band":"1","col":462},
  "backlinks":[{"id":1830,"lemma":"Lokalisationslehre","n":1}],
  "outlinks":[],
- "register":[{"term":"– II (psych.) 1 433 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":8230,"name":"H. Liepmann","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":2146,"name":"K. Kleist","b":0,"n":1,"l":0,"editor":0,"role":"mixed"},

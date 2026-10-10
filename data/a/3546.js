@@ -33,8 +33,7 @@ HWPH.put("a/3546",
   {"term":"Gottesbeweis, entropologischer","qualifier":"","band":"12","col":"326"},
   {"term":"Kältetod","qualifier":"","band":"12","col":"327"},
   {"term":"mort thermique","qualifier":"","band":null,"col":null},
-  {"term":"Wiederkehr, ewige","qualifier":"","band":"12","col":"326"},
-  {"term":"– II (phys.) 12 1315f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Wiederkehr, ewige","qualifier":"","band":"12","col":"326"}
  ],
  "persons":[
   {"id":708,"name":"O. Liebmann","b":2,"n":1,"l":0,"editor":0,"role":"source"},

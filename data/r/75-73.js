@@ -9,7 +9,8 @@ HWPH.put("r/75-73",
   "Tauschwert/Gebrauchswert","use-value/exchange-value"
  ],
  ["Usurpation","Usurpation","","11","498–500","main",3364,"Usurpation","usurpation"],
- ["Usurpation","Despotie I (allg.) usurpation","",null,null,"see",null,null,"usurpation"],
+ ["Usurpation","Despotie","I (allg.)",null,null,"see",571,"Despotie, Despotismus","usurpation"],
+ ["usurpation","Tyrannis","II","10","1615","ref",3245,"Tyrannis","usurpation"],
  [
   "usus civilis/theologicus","Tertius usus legis","","10","1027","ref",3155,"Tertius usus legis",
   "usus civilis/theologicus"

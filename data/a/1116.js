@@ -45,7 +45,6 @@ HWPH.put("a/1116",
  "outlinks":[{"id":1120,"lemma":"Gestaltqualität","n":1},{"id":1121,"lemma":"Gestalttheorie","n":1}],
  "register":[
   {"term":"Betrachtung, sinnvolle","qualifier":"I (ästh.)","band":"3","col":"543"},
-  {"term":"das 8 1343–1385 s. auch","qualifier":"I (ästh.)","band":null,"col":null},
   {"term":"Einsfühlung","qualifier":"I (ästh.)","band":"3","col":"542"},
   {"term":"Empfindung","qualifier":"","band":"3","col":"547"},
   {"term":"Enthusiasmus","qualifier":"I (ästh.)","band":"3","col":"543"},
@@ -65,17 +64,7 @@ HWPH.put("a/1116",
   {"term":"Wahrnehmung, ästhetische","qualifier":"I (ästh.)","band":"3","col":"545"},
   {"term":"wallendes Leben","qualifier":"I (ästh.)","band":"3","col":"542"},
   {"term":"Wechselwirkung","qualifier":"II (psych.)","band":"3","col":"547"},
-  {"term":"Wohlgefallen, interesseloses","qualifier":"I (ästh.)","band":"3","col":"541"},
-  {
-   "term":"– I (phys.) 2 923–926 – II (psych.) 2 926–929 s. auch",
-   "qualifier":"II (psych.)",
-   "band":null,
-   "col":null
-  },
-  {"term":"– I (psych.) 3 20 s. auch","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"– II (psych.) 1 604f. s. auch","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"– II (psych.) 2 239–242 s. auch","qualifier":"II (psych.)","band":null,"col":null},
-  {"term":"– IV (psych.) 10 325–328 s. auch","qualifier":"II (psych.)","band":null,"col":null}
+  {"term":"Wohlgefallen, interesseloses","qualifier":"I (ästh.)","band":"3","col":"541"}
  ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":3,"n":3,"l":0,"editor":0,"role":"source"},
@@ -140,7 +129,14 @@ HWPH.put("a/1116",
   {"id":674,"lemma":"Eindruck","tf":3},
   {"id":1009,"lemma":"Gefühl","tf":4}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":1117,"lemma":"Gestalten, physische"},
+  {"id":1119,"lemma":"Gestaltpsychologie"},
+  {"id":1120,"lemma":"Gestaltqualität"},
+  {"id":1121,"lemma":"Gestalttheorie"},
+  {"id":2437,"lemma":"Prägnanz, prägnant"},
+  {"id":3040,"lemma":"Struktur"}
+ ],
  "groups":[
   {"id":1,"name":"Ästhetik und Kunsttheorie","label":"Gestalt I (ästh.)"},
   {"id":36,"name":"Psychologie","label":"Gestalt II (psych.)"}

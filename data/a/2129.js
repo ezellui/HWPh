@@ -17,11 +17,15 @@ HWPH.put("a/2129",
  "next":{"id":2130,"lemma":"Neutralisierungen, Zeitalter der","band":"6","col":781},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Bewusstsein, doxisches","qualifier":"(Husserl)","band":"6","col":"781"},
+  {"term":"Bewusstsein, neutrales","qualifier":"(Husserl)","band":null,"col":null},
+  {"term":"Bildobjektbewusstsein","qualifier":"(Husserl)","band":"6","col":"781"}
+ ],
  "persons":[{"id":14,"name":"E. Husserl","b":1,"n":1,"l":0,"editor":0,"role":"source"}],
  "mentions":[],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Janssen Paul","n":26}]
 }
 );

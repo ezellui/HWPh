@@ -87,6 +87,6 @@ HWPH.put("a/3304",
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Universalismus"},
   {"id":42,"name":"Soziologie","label":"Universalismus"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

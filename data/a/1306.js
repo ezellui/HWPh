@@ -23,9 +23,9 @@ HWPH.put("a/1306",
  "outlinks":[],
  "register":[
   {"term":"Ähnlichkeit, homologe","qualifier":"I (biol.)","band":"3","col":"1180"},
+  {"term":"gentium","qualifier":"","band":null,"col":null},
   {"term":"homonom","qualifier":"I (biol.)","band":"3","col":"1180"},
-  {"term":"ὁμολογία","qualifier":"","band":null,"col":null},
-  {"term":"– III (biol.) 1 228f. s. auch","qualifier":"I (biol.)","band":null,"col":null}
+  {"term":"ὁμολογία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":19,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},
@@ -45,7 +45,7 @@ HWPH.put("a/1306",
   {"id":3405,"lemma":"Vergleich","tf":2},
   {"id":1769,"lemma":"Leib, Körper","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":123,"lemma":"Analogie"},{"id":1943,"lemma":"Metapher"}],
  "groups":[
   {"id":5,"name":"Biologie","label":"Homologie I (biol.)"},
   {"id":20,"name":"Linguistik","label":"Homologie II (ling.)"}

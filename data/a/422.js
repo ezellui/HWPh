@@ -17,7 +17,7 @@ HWPH.put("a/422",
  "next":{"id":423,"lemma":"Bewußtsein, utopisches","band":"1","col":906},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"unglückliches Bewusstsein","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"unglückliches Bewusstsein","qualifier":"(Hegel)","band":null,"col":null}],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":3,"l":0,"editor":0,"role":"source"},
   {"id":3160,"name":"J. Wahl","b":1,"n":1,"l":1,"editor":0,"role":"scholar"},

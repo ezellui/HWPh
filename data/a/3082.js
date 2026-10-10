@@ -20,7 +20,7 @@ HWPH.put("a/3082",
  "register":[
   {"term":"Determination","qualifier":"","band":null,"col":null},
   {"term":"Kovariation","qualifier":"","band":"10","col":"650"},
-  {"term":"L 7 795 Nicht-Reduzierbarkeit","qualifier":"","band":null,"col":null}
+  {"term":"Nicht-Reduzierbarkeit","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":179,"name":"G. E. Moore","b":1,"n":1,"l":0,"editor":0,"role":"source"},

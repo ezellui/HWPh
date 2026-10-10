@@ -1,15 +1,5 @@
 HWPH.put("r/6b-61",
 [
- ["kathartische","Abreagieren","","1","8","ref",24,"Abreagieren","kathartische"],
- ["kathartische","Primärvorgang","","7","1311","ref",2452,"Primärvorgang","kathartische"],
- ["kathartische","Spannung","IV (psych.)","9","1296f.","ref",2961,"Spannung","kathartische"],
- ["kathartische","Psychodrama","",null,null,"ref",2507,"Psychodrama","kathartische"],
- ["Katalepsis","Katalepsis","",null,null,"main",1536,"Katalepsis","katalepsis"],
- ["Katalepsis","Perzeption","",null,null,"ref",2329,"Perzeption","katalepsis"],
- [
-  "Kategorie; Kategorienlehre","Kategorie; Kategorienlehre","IV","4","742","main",1540,
-  "Kategorie, Kategorienlehre","kategorie; kategorienlehre"
- ],
  ["Kabbala","Philosophie, jüdische","",null,null,"ref",2358,"Philosophie, jüdische","kabbala"],
  ["kāb_ôd","Doxa","",null,null,"ref",633,"Doxa","kab_od"],
  ["kāb_ôd","Herrlichkeit","",null,null,"ref",1260,"Herrlichkeit","kab_od"],
@@ -20,6 +10,18 @@ HWPH.put("r/6b-61",
  ["Kairos","Kairos","","4","667–669","main",1519,"Kairos","kairos"],
  ["Kairos","Sozialismus","8","9","1200","ref",2947,"Sozialismus","kairos"],
  ["Kal ā m","Kal ā m","","4","669–672","main",1520,"Kalam","kal a m"],
+ ["Kalkül","Kalkül","","4","672–681","main",1521,"Kalkül","kalkul"],
+ ["Kalkül","Algebra der Logik","",null,null,"see",96,"Algebra der Logik","kalkul"],
+ ["Kalkül","Algorithmus","",null,null,"see",97,"Algorithmus","kalkul"],
+ ["Kalkül","Formales System","",null,null,"see",928,"Formales System","kalkul"],
+ ["Kalkül","Formalismus","",null,null,"see",930,"Formalismus","kalkul"],
+ ["Kalkül","Konstruktivismus","",null,null,"see",1632,"Konstruktivismus","kalkul"],
+ ["Kalkül","Logik, konstruktive","",null,null,"see",1814,"Logik, konstruktive","kalkul"],
+ ["Kalkül","Logik, operative","",null,null,"see",1816,"Logik, operative","kalkul"],
+ ["Kalkül","Methode, axiomatische","",null,null,"see",1957,"Methode, axiomatische","kalkul"],
+ ["Kalkül","Schliessen, natürliches","",null,null,"see",2768,"Schließen, natürliches","kalkul"],
+ ["Kalkül","Sequenzenkalkül","",null,null,"see",2874,"Sequenzenkalkül","kalkul"],
+ ["Kalkül","Vollformalismus","",null,null,"see",3481,"Vollformalismus","kalkul"],
  [
   "Kalkül, hedonistisches","Utilitarismus","",null,null,"ref",3366,"Utilitarismus",
   "kalkul, hedonistisches"
@@ -34,13 +36,22 @@ HWPH.put("r/6b-61",
  ],
  ["Kalkülregel","Regel","III (log.)","8","444","ref",2640,"Regel","kalkulregel"],
  ["Kalkülsprache","Sprache, formale","",null,null,"ref",2987,"Sprache, formale","kalkulsprache"],
+ ["Kalokagathia","Kalokagathia","","4","681–684","main",1522,"Kalokagathia","kalokagathia"],
+ ["Kalokagathia","Gut; das","",null,null,"see",1203,"Gut, das Gute, das Gut","kalokagathia"],
+ ["kamāl","Entelechie","II (biol.)","2","507","ref",746,"Entelechie","kamal"],
+ ["kamāl","Vollkommenheit","","11","1120","ref",3482,"Vollkommenheit","kamal"],
  [
   "Kameradschaftlichkeit","Kameradschaftlichkeit","","4","684f.","main",1523,"Kameradschaftlichkeit",
   "kameradschaftlichkeit"
  ],
- ["Kameralistik","Polizei","",null,null,"ref",2399,"Polizei","kameralistik"],
+ ["Kameralistik","Polizei; Polizeiwissenschaft","","7","1081","ref",2399,"Polizei","kameralistik"],
+ [
+  "Kameralwissenschaft","Ökonomie, politische","","6","1166","ref",2211,"Ökonomie, politische",
+  "kameralwissenschaft"
+ ],
+ ["Kameralwissenschaft","Staatslehre","","10","57ff.","ref",2999,"Staatslehre","kameralwissenschaft"],
  ["Kampf","Kampf","","4","685–687","main",1524,"Kampf","kampf"],
- ["Kampf","Agon (Nietzsche)","",null,null,"see",64,"Agon, agonal","kampf"],
+ ["Kampf","Agon","(Nietzsche)",null,null,"see",64,"Agon, agonal","kampf"],
  ["Kampf","Konkurrenz","",null,null,"see",1617,"Konkurrenz","kampf"],
  ["Kampf","Streit","",null,null,"see",3039,"Streit","kampf"],
  ["Kampf","Partisan","",null,null,"ref",2285,"Partisan","kampf"],
@@ -64,7 +75,7 @@ HWPH.put("r/6b-61",
  ["Kanon","Regel","",null,null,"see",2640,"Regel","kanon"],
  ["Kanon","Organon","","6","1367f.","ref",2246,"Organon","kanon"],
  ["Kanonik","Kanonik","","4","692","main",1527,"Kanonik","kanonik"],
- ["Kanonik","Kanon","",null,null,"see",1526,"Kanon","kanonik"],
+ ["Kanonik","Kanon","4",null,null,"see",1526,"Kanon","kanonik"],
  ["Kanonik","Wahrheitskriterium","I",null,null,"see",3537,"Wahrheitskriterium","kanonik"],
  ["Kanonik","Logik","I","5","359","ref",1803,"Logik","kanonik"],
  ["kans","Wahrscheinlichkeit","IV A","12","265","ref",3540,"Wahrscheinlichkeit","kans"],
@@ -100,17 +111,21 @@ HWPH.put("r/6b-61",
  ],
  ["Kardinaltugenden","Tugend","I",null,null,"see",3239,"Tugend","kardinaltugenden"],
  ["Kardinalzahl","Anzahl/Ordnungszahl","",null,null,"ref",197,"Anzahl/Ordnungszahl","kardinalzahl"],
- ["Kardinalzahl","Zahl I","",null,null,"ref",3670,"Zahl; Zählen","kardinalzahl"],
+ ["Kardinalzahl","Zahl","I",null,null,"ref",3670,"Zahl; Zählen","kardinalzahl"],
  ["Kardinalzahl","Mengenlehre","","5","1049ff.","ref",1916,"Mengenlehre","kardinalzahl"],
  ["Karikatur","Karikatur","","4","696–701","main",1531,"Karikatur","karikatur"],
- ["Karikatur","Groteske","",null,null,"see",1190,"Groteske","karikatur"],
+ ["Karikatur","Groteske, das","",null,null,"see",1190,"Groteske","karikatur"],
+ ["Karikatur","Hässliche, das","",null,null,"see",1228,"Häßliche (das)","karikatur"],
+ ["Karma","Reinkarnation","",null,null,"ref",2661,"Reinkarnation","karma"],
+ ["Karma","Sam. sāra","","8","1164","ref",2740,"Samsara","karma"],
  ["Karman","Karman","","4","701","main",1532,"Karman","karman"],
  ["Karman","Vaiśes.ika καρτερία","",null,null,"see",null,null,"karman"],
  ["Kaste","Kaste","","4","701–703","main",1533,"Kaste","kaste"],
  ["Kaste","Rang","","8","18","ref",2565,"Rang","kaste"],
  ["Kastration","Ödipus-Komplex","I","6","1099ff.","ref",2202,"Ödipus-Komplex","kastration"],
  ["Kastrationsangst","Angst; Furcht","","1","312","ref",144,"Angst, Furcht","kastrationsangst"],
- ["Kastrationskomplex","Komplex","",null,null,"ref",1600,"Komplex","kastrationskomplex"],
+ ["Kastrationskomplex","Komplex, der","","4","936","ref",1601,"Komplex (der)","kastrationskomplex"],
+ ["Kastrationskomplex","Neid","","6","704","ref",2105,"Neid","kastrationskomplex"],
  ["Kasuistik","Kasuistik","","4","703–707","main",1534,"Kasuistik","kasuistik"],
  [
   "Katabolismus","Assimilation/Dissimilation","I (biol.)","1","545","ref",262,
@@ -122,7 +137,7 @@ HWPH.put("r/6b-61",
  ["Kataklysmos","Kreislauftheorien","",null,null,"see",1688,"Kreislauftheorien","kataklysmos"],
  ["Katalepsie","Hypnose","","3","1243","ref",1325,"Hypnose","katalepsie"],
  ["Katalepsis","Katalepsis","","4","708–710","main",1536,"Katalepsis","katalepsis"],
- ["Katalepsis","Phantasia","I",null,null,"see",2348,"Phantasia","katalepsis"],
+ ["Katalepsis","Phantasia","I 4",null,null,"see",2348,"Phantasia","katalepsis"],
  ["Katalepsis","Wahrheitskriterium","I",null,null,"see",3537,"Wahrheitskriterium","katalepsis"],
  ["Kataphasis","Affirmation","",null,null,"ref",56,"Affirmation","kataphasis"],
  ["Kataphasis","Apophansis","",null,null,"ref",207,"Apophansis","kataphasis"],
@@ -142,7 +157,7 @@ HWPH.put("r/6b-61",
  ["Kategorema","Autosemantisch","",null,null,"see",334,"Autosemantisch, Autosemantika","kategorema"],
  ["Kategorema","Bedeutung","",null,null,"see",348,"Bedeutung","kategorema"],
  ["Kategorema","Metalogik","",null,null,"see",1940,"Metalogik","kategorema"],
- ["Kategorema","Satz","III",null,null,"see",2745,"Satz","kategorema"],
+ ["Kategorema","Satz","III 2",null,null,"see",2745,"Satz","kategorema"],
  ["Kategorema","Semantik","",null,null,"see",2861,"Semantik, semantisch","kategorema"],
  [
   "Kategorema","Synkategorem","",null,null,"see",3108,
@@ -150,10 +165,9 @@ HWPH.put("r/6b-61",
  ],
  ["Kategorema","Terminismus","",null,null,"see",3151,"Terminismus","kategorema"],
  ["Kategorema","Zeichen","",null,null,"see",3673,"Zeichen","kategorema"],
- ["kategorematisch","Kategorema κατηγορία","",null,null,"ref",null,null,"kategorematisch"],
  [
-  "Kategorie; Kategorienlehre","Kategorie; Kategorienlehre","",null,null,"main",1540,
-  "Kategorie, Kategorienlehre","kategorie; kategorienlehre"
+  "kategorematisch","Kategorema","",null,null,"ref",1538,"Kategorema, kategorematisch",
+  "kategorematisch"
  ],
  [
   "Kategorialanalyse","Kategorialanalyse","(Hartmann)","4","713f.","main",1539,"Kategorialanalyse",
@@ -169,10 +183,14 @@ HWPH.put("r/6b-61",
   "Gesetze, kategoriale","kategorialanalyse"
  ],
  ["Kategorialanalyse","Kohärenz","(Hartmann)",null,null,"see",1579,"Kohärenz","kategorialanalyse"],
- ["Kategorialanalyse","Ontologie","",null,null,"see",2218,"Ontologie","kategorialanalyse"],
+ ["Kategorialanalyse","Ontologie","3b",null,null,"see",2218,"Ontologie","kategorialanalyse"],
  [
-  "Kategorie; Kategorienlehre","Kategorie; Kategorienlehre","V","4","762ff.","main",1540,
-  "Kategorie, Kategorienlehre","kategorie; kategorienlehre"
+  "Kategorialanalyse","Schichtenlehre","I (Hartmann)",null,null,"see",2762,
+  "Schichtenlehre, Schichtentheorie","kategorialanalyse"
+ ],
+ [
+  "Kategorialanalyse (Hartmann)","Kategorie; Kategorienlehre","V","4","762ff.","ref",1540,
+  "Kategorie, Kategorienlehre","kategorialanalyse (hartmann)"
  ],
  [
   "kategoriale Anschauung","Anschauung, kategoriale","(Husserl)",null,null,"ref",164,
@@ -272,7 +290,7 @@ HWPH.put("r/6b-61",
   "kategorien des verstandes"
  ],
  [
-  "Kategorienfehler","Kategorienfehler","",null,null,"main",1542,"Kategorienfehler",
+  "Kategorienfehler","Kategorienfehler","4",null,null,"main",1542,"Kategorienfehler",
   "kategorienfehler"
  ],
  [
@@ -317,14 +335,20 @@ HWPH.put("r/6b-61",
  ["Katharsis","Katharsis","","4","784–786","main",1546,"Katharsis","katharsis"],
  ["Katharsis","Furcht und Mitleid","",null,null,"see",979,"Furcht und Mitleid","katharsis"],
  ["Katharsis","Läuterung","",null,null,"see",1734,"Läuterung, Reinigung","katharsis"],
- ["Katharsis","Methode","",null,null,"see",1955,"Methode","katharsis"],
- ["kathartische","Tragische, das","",null,null,"ref",3214,"Tragische, das","kathartische"],
- ["Katharsis (psych.)","Methode","",null,null,"ref",1955,"Methode","katharsis (psych.)"],
+ ["Katharsis","Methode, kathartische","",null,null,"see",1955,"Methode","katharsis"],
+ ["Katharsis","Tragische, das","",null,null,"see",3214,"Tragische, das","katharsis"],
  [
-  "kathartische kathartische Methode","Methode","",null,null,"ref",1955,"Methode",
-  "kathartische kathartische methode"
+  "Katharsis (psych.)","Methode, kathartische","",null,null,"ref",1955,"Methode",
+  "katharsis (psych.)"
  ],
- ["kathartische","Reinheit; Reinigung","V","8","551","ref",2660,"Reinheit, Reinigung","kathartische"],
+ [
+  "kathartische Methode","Methode, kathartische","",null,null,"ref",1955,"Methode",
+  "kathartische methode"
+ ],
+ [
+  "kathartische Methode","Reinheit; Reinigung","V","8","551","ref",2660,"Reinheit, Reinigung",
+  "kathartische methode"
+ ],
  [
   "Kathederphilosophie","Kathederphilosophie","(Schopenhauer)","4","786","main",1547,
   "Kathederphilosophie","kathederphilosophie"
@@ -348,23 +372,24 @@ HWPH.put("r/6b-61",
  ],
  ["Kathenotheismus","Henotheismus","",null,null,"ref",1253,"Henotheismus","kathenotheismus"],
  ["Katholisch","Katholisch","","4","787–789","main",1549,"Katholisch, Katholizität","katholisch"],
- ["Katholisch","Orthodoxie katholisch","",null,null,"see",null,null,"katholisch"],
+ ["Katholisch","Orthodoxie","",null,null,"see",2252,"Orthodoxie, orthodox","katholisch"],
+ ["katholisch","Scholastik","","8","1337","ref",2775,"Scholastik","katholisch"],
  [
   "Katholizismus, liberaler bzw. sozialer","Demokratie, christliche","","2","56","ref",548,
   "Demokratie, christliche","katholizismus, liberaler bzw. sozialer"
  ],
- ["Katholizität","Katholisch καθόλου","",null,null,"ref",null,null,"katholizitat"],
+ ["Katholizität","Katholisch","",null,null,"ref",1549,"Katholisch, Katholizität","katholizitat"],
  [
   "Kausaladäquatheit/Sinnadäquatheit","Soziologie","","9","1279","ref",2960,"Soziologie",
   "kausaladaquatheit/sinnadaquatheit"
  ],
  [
-  "Kausalerklärung","Erklären II (wiss.)","",null,null,"ref",801,"Erklären, Erklärung",
+  "Kausalerklärung","Erklären","II (wiss.)",null,null,"ref",801,"Erklären, Erklärung",
   "kausalerklarung"
  ],
  ["Kausalerklärung","Verstehen","","11","933f.","ref",3438,"Verstehen","kausalerklarung"],
  ["Kausalgesetz","Kausalgesetz","","4","789–798","main",1550,"Kausalgesetz","kausalgesetz"],
- ["Kausalgesetz","Erklären II (wiss.)","",null,null,"see",801,"Erklären, Erklärung","kausalgesetz"],
+ ["Kausalgesetz","Erklären","II (wiss.)",null,null,"see",801,"Erklären, Erklärung","kausalgesetz"],
  ["Kausalgesetz","Gesetz","III (wiss.)",null,null,"see",1105,"Gesetz","kausalgesetz"],
  [
   "Kausalgesetz","Gesetz, physikalisches","",null,null,"see",1109,"Gesetz, physikalisches",
@@ -383,6 +408,8 @@ HWPH.put("r/6b-61",
   "kausalgesetz"
  ],
  ["Kausalität","Kausalität","","4","798–801","main",1551,"Kausalität","kausalitat"],
+ ["Kausalität","Ursache/Wirkung","II-III",null,null,"see",3350,"Ursache/Wirkung","kausalitat"],
+ ["Kausalität","Kausalgesetz","",null,null,"see",1550,"Kausalgesetz","kausalitat"],
  ["Kausalität","Einfluss","",null,null,"ref",680,"Einfluß","kausalitat"],
  ["Kausalität","Extremalprinzipien","",null,null,"ref",885,"Extremalprinzipien","kausalitat"],
  ["Kausalität","Fernwirkung","",null,null,"ref",908,"Fernwirkung","kausalitat"],
@@ -390,7 +417,7 @@ HWPH.put("r/6b-61",
  ["Kausalität","Notwendigkeit","III","6","974ff.","ref",2171,"Notwendigkeit","kausalitat"],
  ["Kausalität","Notwendigkeit","IV","6","983f.","ref",2171,"Notwendigkeit","kausalitat"],
  [
-  "Kausalität","Produktion I (nat.)","","7","1421","ref",2469,"Produktion, Produktivität",
+  "Kausalität","Produktion","I (nat.)","7","1421","ref",2469,"Produktion, Produktivität",
   "kausalitat"
  ],
  [
@@ -427,7 +454,7 @@ HWPH.put("r/6b-61",
   "Parallelismus, psychophysischer","kausalitat, psychische"
  ],
  [
-  "Kausalität, psychische","Probabilismus III (psych.)","",null,null,"see",2463,
+  "Kausalität, psychische","Probabilismus","III (psych.)",null,null,"see",2463,
   "Probabilismus, probabilistisch","kausalitat, psychische"
  ],
  [
@@ -464,48 +491,8 @@ HWPH.put("r/6b-61",
   "kausalitatsprinzip"
  ],
  ["Kausallogik","Modallogik","II","6","33","ref",1997,"Modallogik","kausallogik"],
- ["Karikatur","Karikatur","","4","696","main",1531,"Karikatur","karikatur"],
- [
-  "kathartische","Reinheit; Reinigung Läuterung der Seele","",null,null,"ref",2660,
-  "Reinheit, Reinigung","kathartische"
- ],
- ["Kanon","Kanon","",null,null,"main",1526,"Kanon","kanon"],
- ["Kanon","Affekt","I","1","90","ref",53,"Affekt","kanon"],
- ["Kanon","Symmetrie","I (ästh.)","10","746","ref",3097,"Symmetrie","kanon"],
- [
-  "kathartische 5 1355–1359 s. auch","Abreagieren","",null,null,"ref",24,"Abreagieren",
-  "kathartische 5 1355–1359 s. auch"
- ],
- [
-  "kathartische 5 1355–1359 s. auch","Hypnose","",null,null,"ref",1325,"Hypnose",
-  "kathartische 5 1355–1359 s. auch"
- ],
- [
-  "kathartische 5 1355–1359 s. auch","Katharsis","",null,null,"ref",1546,"Katharsis",
-  "kathartische 5 1355–1359 s. auch"
- ],
- [
-  "kathartische 5 1355–1359 s. auch","Psychodrama","",null,null,"ref",2507,"Psychodrama",
-  "kathartische 5 1355–1359 s. auch"
- ],
- [
-  "Kategorie; Kategorienlehre","Kategorie; Kategorienlehre","V","4","760","main",1540,
-  "Kategorie, Kategorienlehre","kategorie; kategorienlehre"
- ],
- [
-  "Kategorie; Kategorienlehre","Vernunft; Verstand","III E","11","788","ref",3423,
-  "Vernunft; Verstand","kategorie; kategorienlehre"
- ],
- ["kathartische","Psychodynamik","","7","1591–1593","ref",2507,"Psychodrama","kathartische"],
- ["kathartische","Psychoanalyse","",null,null,"see",2506,"Psychoanalyse","kathartische"],
- ["kathartische","Verdrängung","",null,null,"see",3393,"Verdrängung","kathartische"],
- ["kathartische","Psychodrama","",null,null,"ref",2507,"Psychodrama","kathartische"],
- ["kathartische","Psychosynthese","",null,null,"ref",2530,"Psychosynthese","kathartische"],
- ["kathartische","Therapie Psychovitalismus","",null,null,"ref",null,null,"kathartische"],
- [
-  "Kategorie; Kategorienlehre","Kategorie; Kategorienlehre","V","4","750","main",1540,
-  "Kategorie, Kategorienlehre","kategorie; kategorienlehre"
- ],
+ ["Kalkül","Kalkül","",null,null,"main",1521,"Kalkül","kalkul"],
+ ["Kalkül","Scientia generalis","(Leibniz)","8","1507","ref",2790,"Scientia generalis","kalkul"],
  [
   "Kaegi Dominic","Vergänglichkeit","","11","658–664","author",3401,"Vergänglichkeit; Vergehen",
   "kaegi dominic"
@@ -541,7 +528,7 @@ HWPH.put("r/6b-61",
   "kambartel friedrich"
  ],
  [
-  "Kambartel Friedrich","Philosophie","IV",null,null,"author",2353,"Philosophie",
+  "Kambartel Friedrich","Philosophie","IV K","7","786–792","author",2353,"Philosophie",
   "kambartel friedrich"
  ],
  [
@@ -574,7 +561,7 @@ HWPH.put("r/6b-61",
  ],
  ["Kambartel Walter","Motiv","III (ästh.)","6","216f.","author",2033,"Motiv","kambartel walter"],
  [
-  "Kambartel Walter","Perspektive II (ästh.)","","7","375–377","author",2326,
+  "Kambartel Walter","Perspektive","II (ästh.)","7","375–377","author",2326,
   "Perspektive, Perspektivismus, perspektivisch","kambartel walter"
  ],
  [
@@ -618,7 +605,10 @@ HWPH.put("r/6b-61",
   "Kapferer Norbert","Challenge/response","","1","978f.","author",482,"Challenge/response",
   "kapferer norbert"
  ],
- ["Karskens Michael","Subjekt","",null,null,"author",3047,"Subjekt","karskens michael"],
+ [
+  "Karskens Michael","Subjekt/Objekt II.","V","10","407–410","author",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","karskens michael"
+ ],
  ["Kasten Birgit","Trotzkismus","","10","1528f.","author",3236,"Trotzkismus","kasten birgit"],
  [
   "Katsakoulis Grigori","Scharfsinn","","8","1217–1220","author",2753,"Scharfsinn",
@@ -640,7 +630,10 @@ HWPH.put("r/6b-61",
   "Kaulbach Friedrich","Beschreibung","II","1","842–846","author",395,"Beschreibung",
   "kaulbach friedrich"
  ],
- ["Kaulbach Friedrich","Bewegung","",null,null,"author",408,"Bewegung","kaulbach friedrich"],
+ [
+  "Kaulbach Friedrich","Bewegung I.","III","1","864–869","author",408,"Bewegung",
+  "kaulbach friedrich"
+ ],
  [
   "Kaulbach Friedrich","Durchdringung","","2","300f.","author",642,"Durchdringung",
   "kaulbach friedrich"
@@ -649,7 +642,10 @@ HWPH.put("r/6b-61",
   "Kaulbach Friedrich","Einfach/zusammengesetzt","","2","384–388","author",676,
   "Einfachheit, einfach/zusammengesetzt","kaulbach friedrich"
  ],
- ["Kaulbach Friedrich","Ganzes/Teil","",null,null,"author",986,"Ganzes/Teil","kaulbach friedrich"],
+ [
+  "Kaulbach Friedrich","Ganzes/Teil I.","IV","3","3–5","author",986,"Ganzes/Teil",
+  "kaulbach friedrich"
+ ],
  [
   "Kaulbach Friedrich","Geist, Laplacescher","","3","206","author",1032,"Geist, Laplacescher",
   "kaulbach friedrich"
@@ -679,7 +675,7 @@ HWPH.put("r/6b-61",
   "kaulbach friedrich"
  ],
  [
-  "Kaulbach Friedrich","Produktion I (nat.)","","7","1418–1426","author",2469,
+  "Kaulbach Friedrich","Produktion","I (nat.)","7","1418–1426","author",2469,
   "Produktion, Produktivität","kaulbach friedrich"
  ],
  [

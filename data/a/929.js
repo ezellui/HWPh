@@ -32,8 +32,7 @@ HWPH.put("a/929",
  "outlinks":[],
  "register":[
   {"term":"Abstraktion","qualifier":"II (Husserl)","band":null,"col":null},
-  {"term":"Verallgemeinerung","qualifier":"II (Husserl)","band":null,"col":null},
-  {"term":"– II (Husserl) 3 269f. s. auch","qualifier":"II (Husserl)","band":null,"col":null}
+  {"term":"Verallgemeinerung","qualifier":"II (Husserl)","band":null,"col":null}
  ],
  "persons":[
   {"id":78,"name":"P. Lorenzen","b":2,"n":2,"l":0,"editor":0,"role":"mixed"},
@@ -84,7 +83,13 @@ HWPH.put("a/929",
   {"id":535,"lemma":"Definition","tf":2},
   {"id":707,"lemma":"Element","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":341,"lemma":"Axiomatik"},
+  {"id":1896,"lemma":"Mathematik"},
+  {"id":2987,"lemma":"Sprache, formale"},
+  {"id":1062,"lemma":"Generalisierung"},
+  {"id":2218,"lemma":"Ontologie"}
+ ],
  "groups":[
   {"id":31,"name":"Phänomenologie","label":"Formalisierung II (Husserl)"},
   {"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Formalisierung I (wiss.)"}

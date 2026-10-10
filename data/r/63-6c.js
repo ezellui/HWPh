@@ -7,7 +7,8 @@ HWPH.put("r/63-6c",
   "clare et distincte"
  ],
  ["claritas","Glanz","","3","626","ref",1137,"Glanz","claritas"],
- ["claritas","Schöne","",null,null,"ref",2776,"Schöne","claritas"],
+ ["claritas","Schöne, das","II","8","1351","ref",2776,"Schöne","claritas"],
+ ["class, social","Klasse, soziale","",null,null,"ref",1572,"Klasse, soziale","class, social"],
  ["classe","Rang","","8","19","ref",2565,"Rang","classe"],
  [
   "classe industrielle","Saint-Simonismus","II","8","1128","ref",2736,"Saint-Simonismus",
@@ -29,7 +30,11 @@ HWPH.put("r/63-6c",
  ["clementia","Milde","",null,null,"ref",1972,"Milde","clementia"],
  ["clinamen","Zufall","I","12","1411","ref",3706,"Zufall","clinamen"],
  ["clistic","Neustik/Phrastik","II","6","775","ref",2126,"Neustik/Phrastik","clistic"],
- ["clock paradox","Zwillingsparadoxon Cluster-Theorie","",null,null,"ref",null,null,"clock paradox"],
+ [
+  "clock paradox","Zwillingsparadoxon","",null,null,"ref",3726,"Zwillingsparadoxon; Uhrenparadoxon",
+  "clock paradox"
+ ],
+ ["Cluster-Theorie","Name","III","6","386","ref",2066,"Name","cluster-theorie"],
  ["Claesges Ulrich","Abschattung","(Husserl)","1","8f.","author",25,"Abschattung","claesges ulrich"],
  ["Claesges Ulrich","Apophantik","(Husserl)","1","447","author",208,"Apophantik","claesges ulrich"],
  [
@@ -75,7 +80,10 @@ HWPH.put("r/63-6c",
   "Methode, phänomenologische","claesges ulrich"
  ],
  ["Claesges Ulrich","Mundan","(Husserl)","6","224","author",2037,"Mundan","claesges ulrich"],
- ["Claesges Ulrich","Ontologie","",null,null,"author",2218,"Ontologie","claesges ulrich"],
+ [
+  "Claesges Ulrich","Ontologie, formale/materiale","(Husserl)","6","1200f.","author",2218,
+  "Ontologie","claesges ulrich"
+ ],
  ["Claesges Ulrich","Phänomenologie","I",null,null,"author",2343,"Phänomenologie","claesges ulrich"],
  [
   "Claesges Ulrich","Phänomenologie, statische","(Husserl)","7","510","author",2346,

@@ -19,15 +19,17 @@ HWPH.put("a/2321",
  "outlinks":[],
  "register":[
   {"term":"Anthropismus","qualifier":"","band":"7","col":"342"},
-  {"term":"Anthropologie","qualifier":"","band":"7","col":"342"},
+  {"term":"Anthropomorphismus","qualifier":"","band":"7","col":"342"},
   {"term":"Apperzeption, personifizierende","qualifier":"","band":"7","col":"343"},
   {"term":"Beseelung","qualifier":"","band":null,"col":null},
   {"term":"deify","qualifier":"","band":"7","col":"342"},
   {"term":"fictio","qualifier":"","band":null,"col":null},
   {"term":"Hypostasierung","qualifier":"","band":"7","col":"343"},
   {"term":"Personbildung","qualifier":"","band":"7","col":"341"},
+  {"term":"Personifizierung","qualifier":"","band":null,"col":null},
   {"term":"Sprachkrankheit","qualifier":"","band":"7","col":"342"},
-  {"term":"Weisheit, eingekleidete","qualifier":"","band":"7","col":"341"}
+  {"term":"Weisheit, eingekleidete","qualifier":"","band":"7","col":"341"},
+  {"term":"προσωποποιία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":560,"name":"F. M. Müller","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},

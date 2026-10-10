@@ -31,6 +31,7 @@ HWPH.put("a/1701",
  "register":[
   {"term":"cultura","qualifier":"","band":null,"col":null},
   {"term":"Georgik des Geistes","qualifier":"","band":"4","col":"1309"},
+  {"term":"Kulturkritik","qualifier":"","band":"4","col":"1311ff."},
   {"term":"Kulturphilosophie","qualifier":"","band":null,"col":null},
   {"term":"Kulturwissenschaft","qualifier":"","band":"4","col":"1314ff."}
  ],

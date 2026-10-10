@@ -76,6 +76,6 @@ HWPH.put("a/1621",
  ],
  "see_also":[{"id":1622,"lemma":"Konstanzannahme"}],
  "groups":[{"id":36,"name":"Psychologie","label":"Konstanz"}],
- "reg_authors":[{"name":"Metzger Wolfgang","n":13},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Metzger Wolfgang","n":13},{"name":"Red","n":241}]
 }
 );

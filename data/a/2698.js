@@ -18,7 +18,7 @@ HWPH.put("a/2698",
  "backlinks":[],
  "outlinks":[],
  "register":[
-  {"term":"Instinkt","qualifier":"","band":"8","col":"931"},
+  {"term":"Mensch/Tier","qualifier":"","band":"8","col":"931"},
   {"term":"Tier/Mensch","qualifier":"","band":"8","col":"931"},
   {"term":"Verzögerung","qualifier":"","band":null,"col":null}
  ],

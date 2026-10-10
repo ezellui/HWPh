@@ -22,6 +22,6 @@ HWPH.put("a/1824",
  "mentions":[{"id":1424,"lemma":"Individuum, Individualität","tf":4}],
  "see_also":[],
  "groups":[{"id":22,"name":"Logik","label":"Logophor"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

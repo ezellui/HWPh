@@ -21,9 +21,9 @@ HWPH.put("r/69-67",
  ],
  ["ignoratio elenchi","Elenchus","","2","442","ref",710,"Elenchus, Elenktik","ignoratio elenchi"],
  [
-  "ignoratio elenchi","Irrtum","(Schlussfehler)","4","609f.","ref",1500,"Irrtum (Schlußfehler)",
+  "ignoratio elenchi","Irrtum (Schlussfehler)","","4","609f.","ref",1500,"Irrtum (Schlußfehler)",
   "ignoratio elenchi"
  ],
- ["ignoscere","Verzeihen Ihrheit","",null,null,"ref",null,null,"ignoscere"]
+ ["ignoscere","Verzeihen","",null,null,"ref",3457,"Verzeihen; Vergeben","ignoscere"]
 ]
 );

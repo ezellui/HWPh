@@ -17,7 +17,7 @@ HWPH.put("a/1789",
  "next":{"id":1790,"lemma":"Liberum arbitrium","band":"5","col":275},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"Libertinage","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":55,"name":"D. Diderot","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":481,"name":"J.-B. Bossuet","b":1,"n":1,"l":0,"editor":0,"role":"source"},

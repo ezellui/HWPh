@@ -3,12 +3,12 @@ HWPH.put("r/61-64",
  ["adäquat/apodiktisch","Evidenz","II (phän.)","2","833","ref",850,"Evidenz","adaquat/apodiktisch"],
  ["Adäquatheit","Explikation","(Carnap)",null,null,"ref",877,"Explikation","adaquatheit"],
  [
-  "Adäquatheitsbedingung","Erklären II (wiss.)","","2","695","ref",801,"Erklären, Erklärung",
+  "Adäquatheitsbedingung","Erklären","II (wiss.)","2","695","ref",801,"Erklären, Erklärung",
   "adaquatheitsbedingung"
  ],
  [
-  "adaequatio rei et intellectus","Erkenntnis I (erk.)","","2","651","ref",796,
-  "Erkennen, Erkenntnis","adaequatio rei et intellectus"
+  "adaequatio rei et intellectus","Erkenntnis","I (erk.)","2","651","ref",796,"Erkennen, Erkenntnis",
+  "adaequatio rei et intellectus"
  ],
  [
   "adaequatio rei et intellectus","Wahrheit","II B","12","65ff.","ref",3523,"Wahrheit",
@@ -38,7 +38,7 @@ HWPH.put("r/61-64",
  ["Adel","Aristokratie; Adel","",null,null,"ref",245,"Aristokratie, Adel","adel"],
  ["Adel","Rang","","8","18","ref",2565,"Rang","adel"],
  ["Adept","Adept","","1","82f.","main",46,"Adept","adept"],
- ["Adept","Philosophie","III B",null,null,"see",2353,"Philosophie","adept"],
+ ["Adept","Philosophie","III B 3",null,null,"see",2353,"Philosophie","adept"],
  ["adeptio","Adept","","1","82","ref",46,"Adept","adeptio"],
  ["adeptus fidei","Adept","","1","82","ref",46,"Adept","adeptus fidei"],
  [
@@ -84,9 +84,7 @@ HWPH.put("r/61-64",
  ["Advaita","Veda; Vedanta","",null,null,"see",3376,"Veda; Vedanta","advaita"],
  ["Advaita","Vijñaptimātratā adventus","",null,null,"see",null,null,"advaita"],
  ["adynamiae","Neurose","I","6","761","ref",2124,"Neurose","adynamiae"],
- ["Advaita","Advaita","",null,null,"main",50,"Advaita","advaita"],
  ["Adam Kadmon","Adam Kadmon","II","1","80","main",44,"Adam Kadmon","adam kadmon"],
- ["Advaita","Advaita","",null,null,"main",50,"Advaita","advaita"],
  ["Adam Alfred","Hölle","","3","1168–1170","author",1290,"Hölle","adam alfred"],
  [
   "Adam Alfred","Unbegrifflichkeit","I (Blumenberg)","11","116f.","author",3282,"Unbegrifflichkeit",

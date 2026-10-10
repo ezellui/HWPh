@@ -18,6 +18,7 @@ HWPH.put("a/2153",
  "backlinks":[],
  "outlinks":[],
  "register":[
+  {"term":"Despotie","qualifier":"","band":"6","col":"890"},
   {"term":"Gesetzesherrschaft","qualifier":"","band":null,"col":null},
   {"term":"Theokratie","qualifier":"","band":null,"col":null}
  ],
@@ -68,6 +69,6 @@ HWPH.put("a/2153",
  ],
  "see_also":[],
  "groups":[{"id":33,"name":"Politische Theorie","label":"Nomokratie"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

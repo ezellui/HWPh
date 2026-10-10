@@ -18,9 +18,9 @@ HWPH.put("a/825",
  "backlinks":[{"id":3677,"lemma":"Zeitalter, goldenes","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Anthropologie","qualifier":"","band":"2","col":"742"},
   {"term":"Endzeit","qualifier":"","band":null,"col":null},
   {"term":"Enteschatologisierung","qualifier":"","band":"2","col":"741"},
+  {"term":"Geschichtsphilosophie","qualifier":"","band":"2","col":"742"},
   {"term":"offenbarungsgeschichtlich","qualifier":"","band":"2","col":"741"},
   {"term":"Vorbehalt, eschatologischer","qualifier":"","band":"2","col":"741"}
  ],
@@ -71,7 +71,11 @@ HWPH.put("a/825",
   {"id":1184,"lemma":"Grenze","tf":2},
   {"id":3718,"lemma":"Zweck; Ziel","tf":2}
  ],
- "see_also":[{"id":493,"lemma":"Chiliasmus"},{"id":2062,"lemma":"Naherwartung"}],
+ "see_also":[
+  {"id":493,"lemma":"Chiliasmus"},
+  {"id":2062,"lemma":"Naherwartung"},
+  {"id":3562,"lemma":"Weltende; Weltuntergang"}
+ ],
  "groups":[
   {"id":13,"name":"Geschichtsphilosophie","label":"Eschatologie"},
   {"id":44,"name":"Theologie","label":"Eschatologie"}

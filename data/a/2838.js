@@ -17,7 +17,11 @@ HWPH.put("a/2838",
  "next":{"id":2839,"lemma":"Selbstheit","band":"9","col":462},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Antisemitismus, jüdischer","qualifier":"","band":null,"col":null},
+  {"term":"jüdischer Selbsthass","qualifier":"","band":null,"col":null},
+  {"term":"self-hatred","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":5077,"name":"Th. Herzl","b":2,"n":4,"l":0,"editor":0,"role":"source"},
   {"id":439,"name":"H. Heine","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -124,7 +128,7 @@ HWPH.put("a/2838",
   {"id":3379,"lemma":"Verachtung; Mißachtung","tf":2},
   {"id":527,"lemma":"Dasein","tf":3}
  ],
- "see_also":[],
+ "see_also":[{"id":2837,"lemma":"Selbsthaß"}],
  "groups":[{"id":18,"name":"Judentum","label":"Selbsthass, jüdischer"}],
  "reg_authors":[{"name":"Niewöhner Friedrich","n":17}]
 }

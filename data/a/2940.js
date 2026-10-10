@@ -27,10 +27,9 @@ HWPH.put("a/2940",
  "outlinks":[],
  "register":[
   {"term":"Armut, künstliche","qualifier":"","band":"9","col":"1130f."},
-  {"term":"Gesellschaft, bürgerliche","qualifier":"","band":"9","col":"1130"},
   {"term":"Gewalt, symbolische","qualifier":"","band":"9","col":"1133"},
   {"term":"Not, soziale","qualifier":"","band":"9","col":"1129"},
-  {"term":"Polizeiwissenschaft","qualifier":"","band":null,"col":null},
+  {"term":"Pöbel","qualifier":"","band":"9","col":"1130"},
   {"term":"question sociale","qualifier":"","band":null,"col":null}
  ],
  "persons":[

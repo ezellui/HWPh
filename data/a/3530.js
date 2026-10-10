@@ -25,13 +25,12 @@ HWPH.put("a/3530",
   {"id":3412,"lemma":"Verkehrung","n":1}
  ],
  "register":[
-  {"term":"/Objekt II 10 407","qualifier":"","band":"12","col":"148–154"},
   {"term":"Enthüllung","qualifier":"","band":null,"col":null},
   {"term":"nackte Wahrheit","qualifier":"","band":null,"col":null},
   {"term":"nuda veritas","qualifier":"","band":null,"col":null},
   {"term":"production de vérité","qualifier":"","band":"12","col":"152"},
   {"term":"Schleier","qualifier":"","band":null,"col":null},
-  {"term":"Undurchsichtigkeit","qualifier":"","band":null,"col":null},
+  {"term":"Verhüllung","qualifier":"","band":null,"col":null},
   {"term":"vérité nue","qualifier":"","band":null,"col":null}
  ],
  "persons":[

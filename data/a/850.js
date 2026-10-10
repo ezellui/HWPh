@@ -33,14 +33,13 @@ HWPH.put("a/850",
  "outlinks":[],
  "register":[
   {"term":"adäquat/apodiktisch","qualifier":"II (phän.)","band":"2","col":"833"},
-  {"term":"des Urteils 6 14 apodiktisch/adäquat","qualifier":"II (phän.)","band":"2","col":"833"},
+  {"term":"apodiktisch/adäquat","qualifier":"II (phän.)","band":"2","col":"833"},
   {"term":"Durchstreichung","qualifier":"II (phän.)","band":"2","col":"833"},
   {"term":"Einsehen, unmittelbares","qualifier":"I (erk.)","band":"2","col":"831"},
   {"term":"Gewissen","qualifier":"I (erk.)","band":"2","col":"831"},
   {"term":"perspicuitas","qualifier":"I (erk.)","band":"2","col":"829"},
   {"term":"Unmittelbarkeit","qualifier":"I (erk.)","band":"2","col":"830"},
-  {"term":"ἐνάργεια","qualifier":"I (erk.)","band":null,"col":null},
-  {"term":"– II (Husserl) 7 1257 s. auch","qualifier":"II (phän.)","band":null,"col":null}
+  {"term":"ἐνάργεια","qualifier":"I (erk.)","band":null,"col":null}
  ],
  "persons":[
   {"id":14,"name":"E. Husserl","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -119,7 +118,12 @@ HWPH.put("a/850",
   {"id":1803,"lemma":"Logik","tf":2},
   {"id":2730,"lemma":"Sache","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":2857,"lemma":"Self-evidence"},
+  {"id":2835,"lemma":"Selbstgebung, Selbstgegebenheit"},
+  {"id":3523,"lemma":"Wahrheit"},
+  {"id":3539,"lemma":"Wahrnehmung"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Evidenz"},
   {"id":31,"name":"Phänomenologie","label":"Evidenz II (phän.)"}

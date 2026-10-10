@@ -22,7 +22,7 @@ HWPH.put("a/2953",
   {"id":3650,"lemma":"Wohlfahrt; Wohlfahrtsstaat","n":2}
  ],
  "outlinks":[],
- "register":[{"term":"Polizeiwissenschaft","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":1245,"name":"H. Heller","b":1,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":1923,"name":"P. Koslowski","b":0,"n":2,"l":2,"editor":0,"role":"scholar"},

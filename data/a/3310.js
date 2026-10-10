@@ -38,18 +38,18 @@ HWPH.put("a/3310",
  "register":[
   {"term":"All","qualifier":"","band":null,"col":null},
   {"term":"big bang","qualifier":"","band":"11","col":"223"},
-  {"term":"dialektische I 5 393 Welten, viele","qualifier":"","band":"11","col":"224"},
   {"term":"Endlichkeit der Welt","qualifier":"","band":"11","col":"223"},
   {"term":"Mittelpunkt","qualifier":"","band":"11","col":"221"},
-  {"term":"Modelltheorie Standardmodell des Universums","qualifier":"","band":"11","col":"223"},
   {"term":"Planetensystem","qualifier":"","band":"11","col":"223"},
   {"term":"Prinzip, anthropisches","qualifier":"","band":"11","col":"224"},
   {"term":"Quantenmechanik","qualifier":"","band":"11","col":"224"},
   {"term":"Rotverschiebung","qualifier":"","band":"11","col":"223"},
   {"term":"Selbstorganisation","qualifier":"","band":"11","col":"223"},
+  {"term":"Standardmodell des Universums","qualifier":"","band":"11","col":"223"},
   {"term":"Unendlichkeit der Welt","qualifier":"","band":"11","col":"223"},
   {"term":"Urknall","qualifier":"","band":"11","col":"223"},
-  {"term":"Weltall","qualifier":"","band":null,"col":null}
+  {"term":"Weltall","qualifier":"","band":null,"col":null},
+  {"term":"Welten, viele","qualifier":"","band":"11","col":"224"}
  ],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},

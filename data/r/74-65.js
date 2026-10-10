@@ -1,14 +1,5 @@
 HWPH.put("r/74-65",
 [
- [
-  "Textualität; Dekonstruktion","Textualität; Dekonstruktion","(Derrida)",null,null,"main",3160,
-  "Textualität; Dekonstruktion","textualitat; dekonstruktion"
- ],
- ["Temperament","Temperament","",null,null,"main",3148,"Temperament","temperament"],
- ["Temperament","Temperament","I",null,null,"main",3148,"Temperament","temperament"],
- ["Temperament","Materie","I","5","879","ref",1892,"Materie","temperament"],
- ["Temperament","Wechselwirkung","","12","334","ref",3550,"Wechselwirkung","temperament"],
- ["Technik","Technik","","10","948","main",3139,"Technik","technik"],
  ["technica","Technik","",null,null,"ref",3139,"Technik","technica"],
  ["technica","Technologie","","10","959","ref",3142,"Technologie","technica"],
  ["Technik","Technik","","10","940–952","main",3139,"Technik","technik"],
@@ -81,7 +72,7 @@ HWPH.put("r/74-65",
  ],
  ["teilbar/unteilbar","Quantität","II",null,null,"ref",2552,"Quantität","teilbar/unteilbar"],
  [
-  "teilbar/unteilbar","Substanz I","",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
+  "teilbar/unteilbar","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
   "teilbar/unteilbar"
  ],
  ["teilbar/unteilbar","Totalität","I",null,null,"ref",3209,"Totalität","teilbar/unteilbar"],
@@ -127,13 +118,13 @@ HWPH.put("r/74-65",
  ["teleomatisch","Teleonomie","","10","978","ref",3146,"Teleonomie","teleomatisch"],
  ["Teleonomie","Teleonomie","","10","978f.","main",3146,"Teleonomie","teleonomie"],
  ["Teleonomie","Evolutionstheorie","",null,null,"see",853,"Evolutionstheorie","teleonomie"],
- ["Teleonomie","Teleologie τελέως ὄν","",null,null,"see",null,null,"teleonomie"],
+ ["Teleonomie","Teleologie","",null,null,"see",3145,"Teleologie; teleologisch","teleonomie"],
  ["Telepathie","Hellsehen","",null,null,"ref",1246,"Hellsehen","telepathie"],
  ["Telie","Autotelie/Heterotelie","(Stern)","1","734","ref",335,"Autotelie/Heterotelie","telie"],
  ["Tellurisch","Tellurisch","","10","979–981","main",3146,"Teleonomie","tellurisch"],
  ["Tellurisch","Mesmerismus","",null,null,"see",1932,"Mesmerismus","tellurisch"],
  ["tellurische Schauer","Schauer","II","8","1225","ref",2755,"Schauer","tellurische schauer"],
- ["Tellurismus","Tellurisch τέλος","",null,null,"ref",null,null,"tellurismus"],
+ ["Tellurismus","Tellurisch","",null,null,"ref",3147,"Tellurisch; Tellurismus","tellurismus"],
  ["telyma; telysis","Streben","","10","276","ref",3038,"Streben","telyma; telysis"],
  ["temeritas","Übereilung","",null,null,"ref",3250,"Übereilung; Voreiligkeit","temeritas"],
  ["temeritas","Verwegenheit; Kühnheit","",null,null,"ref",3450,"Verwegenheit; Kühnheit","temeritas"],
@@ -143,7 +134,8 @@ HWPH.put("r/74-65",
  ["Temperament","Ethos","",null,null,"see",840,"Ethos","temperament"],
  ["Temperament","Melancholie","",null,null,"see",1915,"Melancholie","temperament"],
  ["Temperament","Persönlichkeit","II (psych.)",null,null,"see",2322,"Persönlichkeit","temperament"],
- ["Temperament","Säfte Temperament","",null,null,"see",null,null,"temperament"],
+ ["Temperament","Säfte","",null,null,"see",2735,"Säfte, Säftelehre","temperament"],
+ ["Temperament","Charakter","I (allg.)","1","989","ref",486,"Charakter","temperament"],
  ["temperamentum","Temperament","",null,null,"ref",3148,"Temperament","temperamentum"],
  [
   "temperamentum admirabile","Versöhnung","I (theol.)","11","893","ref",3434,"Versöhnung",
@@ -171,7 +163,8 @@ HWPH.put("r/74-65",
  ["temporalization","Verzeitlichung","",null,null,"ref",3458,"Verzeitlichung","temporalization"],
  ["Temporik","Aperspektivisch","(Gebser)","1","436","ref",200,"Aperspektivisch","temporik"],
  ["temporis fluxus","Zeit","V","12","1228","ref",3676,"Zeit","temporis fluxus"],
- ["temporisation","Philosophie","IV",null,null,"ref",2353,"Philosophie","temporisation"],
+ ["temporisation","Philosophie","IV L","7","794","ref",2353,"Philosophie","temporisation"],
+ ["temps qualité/quantité","Zeit","VI","12","1237","ref",3676,"Zeit","temps qualite/quantite"],
  ["temps universel","Zeit","VI","12","1238","ref",3676,"Zeit","temps universel"],
  ["temptation","Versuchung","",null,null,"ref",3442,"Versuchung","temptation"],
  ["tempus absolutum","Zeit","V","12","1228","ref",3676,"Zeit","tempus absolutum"],
@@ -208,9 +201,12 @@ HWPH.put("r/74-65",
  ["tentatio","Versuchung","",null,null,"ref",3442,"Versuchung","tentatio"],
  ["tentio","Spannung","",null,null,"ref",2961,"Spannung","tentio"],
  [
-  "teología de la liberación bzw. revolución","Theologie","",null,null,"ref",3169,"Theologie",
-  "teologia de la liberacion bzw. revolucion"
+  "teología de la liberación bzw. revolución","Theologie der Befreiung","",null,null,"ref",3170,
+  "Theologie der Befreiung; Theologie der Revolution","teologia de la liberacion bzw. revolucion"
  ],
+ ["Term","Term","","10","1004","main",3150,"Term","term"],
+ ["Term","Formales System","",null,null,"see",928,"Formales System","term"],
+ ["Term","Variable","",null,null,"see",3373,"Variable","term"],
  ["term","Terminus","",null,null,"ref",3153,"Terminus","term"],
  [
   "Term, theoretischer","Beobachtungssprache/theoretische Sprache","(Carnap)",null,null,"ref",388,
@@ -247,7 +243,8 @@ HWPH.put("r/74-65",
  ["Terminus","Appellatio","",null,null,"see",211,"Appellatio","terminus"],
  ["Terminus","Signifikation","",null,null,"see",2885,"Signifikation","terminus"],
  ["Terminus","Supposition","",null,null,"see",3084,"Supposition","terminus"],
- ["Terminus","Wort","",null,null,"see",3656,"Wort","terminus"],
+ ["Terminus","Wort, inneres","",null,null,"see",3656,"Wort","terminus"],
+ ["Terminus","Begriffsgeschichte","","1","793ff.","ref",368,"Begriffsgeschichte","terminus"],
  ["terminus","Name","II","6","381","ref",2066,"Name","terminus"],
  [
   "terminus","Synkategorem","","10","791","ref",3108,"Synkategorem;synkategorematisch;synsemantisch",
@@ -259,8 +256,8 @@ HWPH.put("r/74-65",
   "terminus, abstrakter/konkreter"
  ],
  [
-  "Terminus, genereller","Allgemeines/Besonderes","III",null,null,"ref",101,"Allgemeines/Besonderes",
-  "terminus, genereller"
+  "Terminus, genereller","Allgemeines/Besonderes","III 4",null,null,"ref",101,
+  "Allgemeines/Besonderes","terminus, genereller"
  ],
  [
   "Terminus, komplexer","Incomplexum/complexum","",null,null,"ref",1407,"Incomplexum/complexum",
@@ -272,8 +269,8 @@ HWPH.put("r/74-65",
   "terminus, konnotativer"
  ],
  [
-  "Terminus, singulärer","Allgemeines/Besonderes","III",null,null,"ref",101,"Allgemeines/Besonderes",
-  "terminus, singularer"
+  "Terminus, singulärer","Allgemeines/Besonderes","III 4",null,null,"ref",101,
+  "Allgemeines/Besonderes","terminus, singularer"
  ],
  [
   "Terminus, singulärer","Individuum; Individualität","II","4","304f.","ref",1424,
@@ -391,9 +388,18 @@ HWPH.put("r/74-65",
  ["Textkritik","Text","","10","1040","ref",3158,"Text","textkritik"],
  ["Textsemantik","Textsemantik","","10","1045","main",3159,"Textsemantik","textsemantik"],
  [
-  "Textualität; Dekonstruktion","Textualität; Dekonstruktion","(Derrida)","10","1045","main",3160,
-  "Textualität; Dekonstruktion","textualitat; dekonstruktion"
+  "Textualität; Dekonstruktion","Textualität; Dekonstruktion","(Derrida)","10","1045- 1050","main",
+  3160,"Textualität; Dekonstruktion","textualitat; dekonstruktion"
  ],
+ [
+  "Textualität; Dekonstruktion","Logozentrisch","(Klages)",null,null,"see",1827,"Logozentrisch",
+  "textualitat; dekonstruktion"
+ ],
+ [
+  "Textualität; Dekonstruktion","Schrift","II (Derrida)",null,null,"see",2781,"Schrift",
+  "textualitat; dekonstruktion"
+ ],
+ ["Textualität; Dekonstruktion","Text","",null,null,"see",3158,"Text","textualitat; dekonstruktion"],
  ["textum","Stoff","",null,null,"ref",3030,"Stoff","textum"],
  ["texture","Qualität","III","7","1771","ref",2544,"Qualität","texture"],
  [

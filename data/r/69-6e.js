@@ -1,85 +1,15 @@
 HWPH.put("r/69-6e",
 [
- [
-  "Interpretation, immanente","Interpretation, immanente","","4","517","main",1479,
-  "Interpretation, immanente","interpretation, immanente"
- ],
  ["Innigkeit","Innigkeit","II",null,null,"main",1447,"Innigkeit","innigkeit"],
- ["Ingenium","Ingenium","",null,null,"main",1436,"Ingenium","ingenium"],
- ["Ingenium","Talent","","10","886","ref",3124,"Talent","ingenium"],
- [
-  "inneres 12 1042 cogitatio divina","Denken","I","2","82","ref",552,"Denken",
-  "inneres 12 1042 cogitatio divina"
- ],
- ["inneres 12 1042","Zeichen","I","12","1165","ref",3673,"Zeichen","inneres 12 1042"],
- [
-  "inneres complexe significabile","Proposition","","7","1512","ref",2484,"Proposition",
-  "inneres complexe significabile"
- ],
- [
-  "inneres complexe significabile","Sein, objektives","","9","250","ref",2809,"Sein, objektives",
-  "inneres complexe significabile"
- ],
- [
-  "inneres complexe significabile","Signifikation","","9","777f.","ref",2885,"Signifikation",
-  "inneres complexe significabile"
- ],
- [
-  "inneres complexe significabile","Zustimmung","I","12","1461","ref",3715,"Zustimmung",
-  "inneres complexe significabile"
- ],
- ["inneres 12 1042 concetto","Poetik","II","7","1019","ref",2389,"Poetik","inneres 12 1042 concetto"],
- ["inneres","Denken","I","2","92","ref",552,"Denken","inneres"],
- [
-  "inneres 12 1044 Denken, übergeschichtliches","Übergeschichtlich","","11","38","ref",3256,
-  "Übergeschichtlich; überhistorisch","inneres 12 1044 denken, ubergeschichtliches"
- ],
- [
-  "inneres 12 1037 dialogdefinit","Logik, dialogische","",null,null,"ref",1806,"Logik, dialogische",
-  "inneres 12 1037 dialogdefinit"
- ],
- [
-  "Incomplexum/complexum","Incomplexum/complexum","",null,null,"main",1407,"Incomplexum/complexum",
-  "incomplexum/complexum"
- ],
- ["Interesse","Interesse","II","4","486","main",1475,"Interesse","interesse"],
- [
-  "inneres 12 1045 endogen","Melancholie","II","5","1043","ref",1915,"Melancholie",
-  "inneres 12 1045 endogen"
- ],
- [
-  "inneres 12 1045 Endoprobleme","System","II","10","853","ref",3115,
-  "System; Systematik; systematisch","inneres 12 1045 endoprobleme"
- ],
- ["Induktionismus","Induktionismus","",null,null,"main",1426,"Induktionismus","induktionismus"],
- [
-  "Invention; Erfindung III (log.)","Invention; Erfindung III (log.)","","4","554","main",1490,
-  "Invention, Erfindung, Entdeckung","invention; erfindung iii (log.)"
- ],
- [
-  "Invention; Erfindung III (log.)","Wahrheit, transzendentale","","12","169","ref",3533,
-  "Wahrheit, transzendentale","invention; erfindung iii (log.)"
- ],
- [
-  "inneres 12 1037 exogene/endogene Psychose","Psychose","I","7","1691f.","ref",2528,"Psychose",
-  "inneres 12 1037 exogene/endogene psychose"
- ],
- [
-  "Individualisieren/Generalisieren","Individualisieren/Generalisieren","",null,null,"main",1416,
-  "Individualisieren/Generalisieren","individualisieren/generalisieren"
- ],
- [
-  "Individuum; Individualität","Individuum; Individualität","III","4","322","main",1424,
-  "Individuum, Individualität","individuum; individualitat"
- ],
  ["in nostra potestate","Freiheit","I",null,null,"ref",946,"Freiheit","in nostra potestate"],
  [
   "in utramque partem disserere","Antilogie","I (rhet.)","1","392","ref",183,"Antilogie",
   "in utramque partem disserere"
  ],
  ["inabstractum","Abstrakt/konkret","II","1","34f.","ref",30,"Abstrakt/konkret","inabstractum"],
- ["inactuel","Unzeitgemäss (Nietzsche) inaequalitas","",null,null,"ref",null,null,"inactuel"],
- ["inaktiv","Latenz III (psych.)","","5","44","ref",1731,"Latent, Latenz","inaktiv"],
+ ["inactuel","Unzeitgemäss","(Nietzsche)",null,null,"ref",3336,"Unzeitgemäß","inactuel"],
+ ["inaequalitas","Verschiedenheit","","11","880","ref",3430,"Verschiedenheit","inaequalitas"],
+ ["inaktiv","Latenz","III (psych.)","5","44","ref",1731,"Latent, Latenz","inaktiv"],
  [
   "inalietas","Supertranszendent","","10","646","ref",3081,"Supertranszendent; Supertranszendenz",
   "inalietas"
@@ -124,7 +54,11 @@ HWPH.put("r/69-6e",
  ],
  ["incommunicabilitas","Person","II","7","289ff.","ref",2318,"Person","incommunicabilitas"],
  ["incommunicantia","Kalkül","","4","675","ref",1521,"Kalkül","incommunicantia"],
- ["incompatibilis","Verträglichkeit incompatibilité","",null,null,"ref",null,null,"incompatibilis"],
+ [
+  "incompatibilis","Verträglichkeit","",null,null,"ref",3446,"Verträglichkeit; Kompatibilität",
+  "incompatibilis"
+ ],
+ ["incompatibilité","Exklusion","",null,null,"ref",870,"Exklusion","incompatibilite"],
  ["incompleteness","Vollständigkeit incomplexa","",null,null,"ref",null,null,"incompleteness"],
  [
   "Incomplexum/complexum","Incomplexum/complexum","","4","277–279","main",1407,
@@ -153,7 +87,12 @@ HWPH.put("r/69-6e",
   "inconscient","Signifiant/signifié","II (psych.)","9","757","ref",2884,"Signifiant/signifié",
   "inconscient"
  ],
- ["inconsistency","Widerspruch","",null,null,"ref",3607,"Widerspruch","inconsistency"],
+ [
+  "inconsistency","Widerspruch, performativer","","12","699","ref",3607,"Widerspruch",
+  "inconsistency"
+ ],
+ ["inconstance","Selbstflucht","","9","441","ref",2834,"Selbstflucht","inconstance"],
+ ["inconstance","Standhaftigkeit","","10","101","ref",3011,"Standhaftigkeit","inconstance"],
  ["incontinentia","Willensschwäche","",null,null,"ref",3623,"Willensschwäche","incontinentia"],
  ["incorporalitas","Spiritualität","","9","1416","ref",2980,"Spiritualität","incorporalitas"],
  [
@@ -246,13 +185,25 @@ HWPH.put("r/69-6e",
  ["Indifferenz","Wahl","",null,null,"ref",3517,"Wahl","indifferenz"],
  ["Indifferenz","Resignation","","8","911","ref",2693,"Resignation, resignieren","indifferenz"],
  ["Indifferenz","Sein; Seiendes","V 3","9","211","ref",2806,"Sein; Seiendes","indifferenz"],
- ["Indifferenz","Subjekt","",null,null,"ref",3047,"Subjekt","indifferenz"],
+ [
+  "Indifferenz","Subjekt/Objekt","IV","10","420","ref",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "indifferenz"
+ ],
+ [
+  "Indifferenz, absolute","Identitätssystem","(Schelling)",null,null,"ref",1370,
+  "Identitätssystem, Identität, Indifferenz","indifferenz, absolute"
+ ],
+ ["Indifferenz, absolute","Grund","","3","906","ref",1191,"Grund","indifferenz, absolute"],
+ [
+  "Indifferenz, absolute","Ungrund; Urgrund","","11","169","ref",3298,"Ungrund; Urgrund",
+  "indifferenz, absolute"
+ ],
  [
   "Indifferenzpunkt","Allgemeines/Besonderes","III 3","1","184","ref",101,"Allgemeines/Besonderes",
   "indifferenzpunkt"
  ],
  [
-  "Indifferenzpunkt","Identitätssystem (Schelling)","","4","153","ref",1370,
+  "Indifferenzpunkt","Identitätssystem","(Schelling)","4","153","ref",1370,
   "Identitätssystem, Identität, Indifferenz","indifferenzpunkt"
  ],
  ["indignation","Zorn","II","12","1387f.","ref",3702,"Zorn","indignation"],
@@ -262,9 +213,10 @@ HWPH.put("r/69-6e",
  ["Indikator","Wo; wann","II","12","997","ref",3649,"Wo; Wann","indikator"],
  ["indiligens","Vagheit","","11","532","ref",3370,"Vagheit; vage","indiligens"],
  [
-  "indirekte Mitteilung","Mitteilung; Mitteilbarkeit indirekter Beweis","",null,null,"ref",1986,
+  "indirekte Mitteilung","Mitteilung; Mitteilbarkeit","",null,null,"ref",1986,
   "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","indirekte mitteilung"
  ],
+ ["indirekter Beweis","Beweis","","1","884","ref",410,"Beweis","indirekter beweis"],
  [
   "Indiscernibilien","Indiscernibilien","(Leibniz)","4","283–286","main",1412,"Indiscernibilien",
   "indiscernibilien"
@@ -272,8 +224,8 @@ HWPH.put("r/69-6e",
  ["Indiscernibilien","Gleichheit","",null,null,"see",1147,"Gleichheit","indiscernibilien"],
  ["Indiscernibilien","Identität","",null,null,"see",1366,"Identität","indiscernibilien"],
  [
-  "Indische Philosophie s. auch","Register der Sachgruppen indisponibilité","",null,null,"ref",null,
-  null,"indische philosophie s. auch"
+  "Indische Philosophie","Register der Sachgruppen indisponibilité","",null,null,"see",null,null,
+  "indische philosophie"
  ],
  ["indistinctus","Vagheit","","11","532","ref",3370,"Vagheit; vage","indistinctus"],
  [
@@ -305,7 +257,7 @@ HWPH.put("r/69-6e",
   "Individualisieren/Generalisieren","individualisieren/generalisieren"
  ],
  [
-  "Individualisieren/Generalisieren","Erklären I (Dilthey)","",null,null,"see",801,
+  "Individualisieren/Generalisieren","Erklären","I (Dilthey)",null,null,"see",801,
   "Erklären, Erklärung","individualisieren/generalisieren"
  ],
  [
@@ -332,7 +284,7 @@ HWPH.put("r/69-6e",
   "individualistisch"
  ],
  [
-  "Individualität","Individuum; Individualität III","",null,null,"ref",1424,
+  "Individualität","Individuum; Individualität","III",null,null,"ref",1424,
   "Individuum, Individualität","individualitat"
  ],
  ["Individualität","Sphäre","I",null,null,"ref",2971,"Sphäre","individualitat"],
@@ -475,13 +427,10 @@ HWPH.put("r/69-6e",
   "Individuum, Individualität","individuum vagum"
  ],
  ["individuum vagum","Vagheit","","11","533","ref",3370,"Vagheit; vage","individuum vagum"],
+ ["Indivisibilien","Kontinuum","II",null,null,"ref",1640,"Kontinuum, Kontinuität","indivisibilien"],
  [
-  "Indivisibilien","Kontinuum II Indivisibilienmethode","",null,null,"ref",null,null,
-  "indivisibilien"
- ],
- [
-  "Infinitesimalrechnung","Infinitesimalrechnung","I","4","345","main",1430,"Infinitesimalrechnung",
-  "infinitesimalrechnung"
+  "Indivisibilienmethode","Infinitesimalrechnung","I","4","345","ref",1430,"Infinitesimalrechnung",
+  "indivisibilienmethode"
  ],
  ["indivisio","Wahrheit","II B","12","65","ref",3523,"Wahrheit","indivisio"],
  ["Indolenz","Faulheit","","2","917","ref",900,"Faulheit","indolenz"],
@@ -500,20 +449,32 @@ HWPH.put("r/69-6e",
   "inductive science"
  ],
  ["Induktion","Induktion","","4","323–335","main",1425,"Induktion","induktion"],
+ ["Induktion","Anagogé; Epagogé","",null,null,"see",121,"Anagogé, Apagogé, Epagogé","induktion"],
+ ["Induktion","Induktionismus","",null,null,"see",1426,"Induktionismus","induktion"],
+ ["Induktion","Logik, induktive","",null,null,"see",1811,"Logik, induktive","induktion"],
+ ["Induktion","System, biologisches","",null,null,"see",3116,"System, biologisches","induktion"],
  ["Induktion","Axiom","II","1","745f.","ref",340,"Axiom","induktion"],
- ["Induktion","Dialektik","IV",null,null,"ref",583,"Dialektik","induktion"],
+ ["Induktion","Dialektik","IV 1. 5","2","193","ref",583,"Dialektik","induktion"],
  ["Induktion","Erfahrungswissenschaft","","2","621f.","ref",789,"Erfahrungswissenschaft","induktion"],
  [
-  "Induktion","Invention; Erfindung III (log.)","","4","556","ref",1490,
+  "Induktion","Invention; Erfindung","III (log.)","4","556","ref",1490,
   "Invention, Erfindung, Entdeckung","induktion"
  ],
- ["Induktion","Rationalismus","",null,null,"ref",2574,"Rationalismus","induktion"],
+ [
+  "Induktion","Rationalismus, kritischer","(Popper)","8","49","ref",2575,"Rationalismus, Kritischer",
+  "induktion"
+ ],
+ ["Induktion","Theorie","I","10","1141f.","ref",3179,"Theorie","induktion"],
+ [
+  "Induktion","Wahrscheinlichkeitsschluss","","12","309f.","ref",3542,"Wahrscheinlichkeitsschluß",
+  "induktion"
+ ],
  [
   "Induktion, dialektische","Dialektik","III","2","179","ref",583,"Dialektik",
   "induktion, dialektische"
  ],
  [
-  "Induktion, elektromagnetische","Feld I (phys.)","","2","924","ref",904,"Feld, Feldtheorie",
+  "Induktion, elektromagnetische","Feld","I (phys.)","2","924","ref",904,"Feld, Feldtheorie",
   "induktion, elektromagnetische"
  ],
  [
@@ -523,8 +484,12 @@ HWPH.put("r/69-6e",
  ["Induktionismus","Induktionismus","","4","335–338","main",1426,"Induktionismus","induktionismus"],
  ["Induktionismus","Induktion","",null,null,"see",1425,"Induktion","induktionismus"],
  [
-  "Induktionismus","Invention; Erfindung III (log.) Induktionsprinzip","",null,null,"see",1490,
+  "Induktionismus","Invention; Erfindung","III (log.)",null,null,"see",1490,
   "Invention, Erfindung, Entdeckung","induktionismus"
+ ],
+ [
+  "Induktionsprinzip","Axiomensystem, Peanosches","",null,null,"ref",342,"Axiomensystem, Peanosches",
+  "induktionsprinzip"
  ],
  [
   "Induktionsschluss","Fallibilismus","(Peirce)",null,null,"ref",891,"Fallibilismus",
@@ -597,19 +562,32 @@ HWPH.put("r/69-6e",
  ["inference","Schluss","",null,null,"ref",2769,"Schluß","inference"],
  ["inference","Konjekturalsätze","","4","964","ref",1612,"Konjekturalsätze","inference"],
  [
-  "inference, proper/improper","Verstandesschluss inference of reason","",null,null,"ref",null,null,
+  "inference, proper/improper","Verstandesschluss","",null,null,"ref",3436,"Verstandesschluß",
   "inference, proper/improper"
  ],
  [
-  "inferiority complex","Minderwertigkeitsgefühl infernum","",null,null,"ref",null,null,
-  "inferiority complex"
+  "inference of reason","Vernunftschluss","",null,null,"ref",3426,"Vernunftschluß",
+  "inference of reason"
  ],
+ [
+  "inference of the understanding","Verstandesschluss","",null,null,"ref",3436,"Verstandesschluß",
+  "inference of the understanding"
+ ],
+ [
+  "inference rules","Prädikatenlogik","","7","1192","ref",2426,"Prädikatenlogik, Prädikatenkalkül",
+  "inference rules"
+ ],
+ [
+  "inferiority complex","Minderwertigkeitsgefühl","",null,null,"ref",1976,
+  "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","inferiority complex"
+ ],
+ ["infernum","Chaos","I","1","981","ref",484,"Chaos","infernum"],
  [
   "Infinitesimalrechnung","Infinitesimalrechnung","","4","344–354","main",1430,
   "Infinitesimalrechnung","infinitesimalrechnung"
  ],
  [
-  "Infinitesimalrechnung","Kontinuum IV (math.)","",null,null,"see",1640,"Kontinuum, Kontinuität",
+  "Infinitesimalrechnung","Kontinuum","IV (math.)",null,null,"see",1640,"Kontinuum, Kontinuität",
   "infinitesimalrechnung"
  ],
  [
@@ -617,15 +595,16 @@ HWPH.put("r/69-6e",
   "Standard-Modell/Nicht-Standard-Modell","infinitesimalrechnung"
  ],
  ["Infinitesimalrechnung","Stetigkeit","",null,null,"see",3022,"Stetigkeit","infinitesimalrechnung"],
+ ["Infinitesimalrechnung","Zahl","",null,null,"see",3670,"Zahl; Zählen","infinitesimalrechnung"],
  [
-  "Infinitesimalrechnung","Zahl infinitum per privationem","",null,null,"see",null,null,
-  "infinitesimalrechnung"
+  "infinitum per privationem","Unendlichkeit","","11","144","ref",3291,"Unendlichkeit",
+  "infinitum per privationem"
  ],
  ["infinity","Unendlichkeit","",null,null,"ref",3291,"Unendlichkeit","infinity"],
- ["influentia","Einfluss Influxionismus","",null,null,"ref",null,null,"influentia"],
+ ["influentia","Einfluss","",null,null,"ref",680,"Einfluß","influentia"],
  [
-  "Influxus physicus","Influxus physicus","",null,null,"main",1431,
-  "Influxus physicus, Influxionismus","influxus physicus"
+  "Influxionismus","Influxus physicus","",null,null,"ref",1431,"Influxus physicus, Influxionismus",
+  "influxionismus"
  ],
  [
   "Influxus physicus","Influxus physicus","","4","354–356","main",1430,"Infinitesimalrechnung",
@@ -651,7 +630,7 @@ HWPH.put("r/69-6e",
  ["Information","Information","","4","356f.","main",1432,"Information","information"],
  ["Information","Automatentheorie","",null,null,"see",323,"Automatentheorie","information"],
  ["Information","Informationstheorie","",null,null,"see",1433,"Informationstheorie","information"],
- ["Information","Erkenntnis II (psych.)","","2","667","ref",796,"Erkennen, Erkenntnis","information"],
+ ["Information","Erkenntnis","II (psych.)","2","667","ref",796,"Erkennen, Erkenntnis","information"],
  ["Information","Satz","III 1","8","1190","ref",2745,"Satz","information"],
  [
   "information conservation/reduction","Identifikation","I","4","140","ref",1365,"Identifikation",
@@ -716,7 +695,10 @@ HWPH.put("r/69-6e",
  ["Inhärenz","Inhärenz","","4","363–366","main",1437,"Inhärenz","inharenz"],
  ["Inhärenz","Insein","",null,null,"see",1449,"Insein","inharenz"],
  ["Inhärenz","Subjekt/Prädikat","",null,null,"see",3050,"Subjekt/Prädikat","inharenz"],
- ["Inhärenz","Substanz Inhärenz","",null,null,"see",null,null,"inharenz"],
+ ["Inhärenz","Substanz","",null,null,"see",3062,"Substanz; Substanz/Akzidens","inharenz"],
+ ["Inhärenz","Immanenz","","4","229","ref",1390,"Immanent, Immanenz","inharenz"],
+ ["Inhärenz","Kausalität, formale","","4","801","ref",1552,"Kausalität, formale","inharenz"],
+ ["Inhärenz","Prädikation","I","7","1201f.","ref",2427,"Prädikation","inharenz"],
  ["Inhalt","Form und Inhalt","",null,null,"ref",938,"Form und Inhalt","inhalt"],
  ["Inhalt","Gehalt","",null,null,"ref",1026,"Gehalt","inhalt"],
  [
@@ -787,9 +769,10 @@ HWPH.put("r/69-6e",
  ["inkommensurabel","Zahl","I","12","1125","ref",3670,"Zahl; Zählen","inkommensurabel"],
  ["inkompatibel (log.)","Exklusion","",null,null,"ref",870,"Exklusion","inkompatibel (log.)"],
  [
-  "Inkompatibilität","Verträglichkeit Inkompossibilität","",null,null,"ref",null,null,
+  "Inkompatibilität","Verträglichkeit","",null,null,"ref",3446,"Verträglichkeit; Kompatibilität",
   "inkompatibilitat"
  ],
+ ["Inkompossibilität","Unmöglichkeit","","11","248","ref",3315,"Unmöglichkeit","inkompossibilitat"],
  ["Inkorporation","Introjektion","",null,null,"ref",1485,"Introjektion","inkorporation"],
  ["Inkrement","Mehrwert","","5","1011","ref",1910,"Mehrwert","inkrement"],
  ["Inkubation","Kreativität","","4","1201","ref",1685,"Kreativität","inkubation"],
@@ -799,7 +782,11 @@ HWPH.put("r/69-6e",
   "Mechanismus, auslösender","innate releasing mechanism"
  ],
  ["Innehalten","Epoché","",null,null,"ref",778,"Epoché","innehalten"],
- ["innen","Aussen/innen Innen","",null,null,"ref",313,"Außen/innen, Außenwelt/Innenwelt","innen"],
+ ["innen","Aussen/innen","",null,null,"ref",313,"Außen/innen, Außenwelt/Innenwelt","innen"],
+ [
+  "Innen","Biosphäre/Noosphäre","(Teilhard de Chardin)","1","950","ref",447,"Biosphäre/Noosphäre",
+  "innen"
+ ],
  [
   "Innenbetrachtung","Inneneinstellung","(Husserl)","4","384f.","ref",1443,"Inneneinstellung",
   "innenbetrachtung"
@@ -818,28 +805,33 @@ HWPH.put("r/69-6e",
   "innenhorizont/aussenhorizont"
  ],
  [
-  "Innenhorizont/Aussenhorizont","Horizont","III",null,null,"ref",1310,"Horizont",
+  "Innenhorizont/Aussenhorizont","Horizont","III 2 (Husserl)","3","1201","ref",1310,"Horizont",
   "innenhorizont/aussenhorizont"
+ ],
+ [
+  "Innensteuerung/Aussensteuerung","Innensteuerung/Aussensteuerung","","4","385f.","main",1444,
+  "Innensteuerung/Außensteuerung","innensteuerung/aussensteuerung"
+ ],
+ [
+  "Innensteuerung/Aussensteuerung","Sozialisation","",null,null,"see",2946,"Sozialisation",
+  "innensteuerung/aussensteuerung"
  ],
  ["Innenwelt","Innenwelt","","4","386","main",1445,"Innenwelt","innenwelt"],
  ["Innenwelt","Funktionskreis","(Uexküll)",null,null,"see",978,"Funktionskreis","innenwelt"],
  [
-  "Innenwelt","Merkwelt; Merkmal (Uexküll)","",null,null,"see",1931,"Merkwelt, Merkmal, Merkzeichen",
+  "Innenwelt","Merkwelt; Merkmal","(Uexküll)",null,null,"see",1931,"Merkwelt, Merkmal, Merkzeichen",
   "innenwelt"
  ],
  ["Innenwelt","Umwelt","",null,null,"see",3278,"Umwelt","innenwelt"],
  ["Innenwelt","Aussen/innen","",null,null,"ref",313,"Außen/innen, Außenwelt/Innenwelt","innenwelt"],
  ["Innenwelt","Realität, psychische","","8","202","ref",2592,"Realität, psychische","innenwelt"],
  ["Innenwelt/Aussenwelt","Gegebenes","","3","102","ref",1016,"Gegeben(es)","innenwelt/aussenwelt"],
- ["inner speech","Wort","",null,null,"ref",3656,"Wort","inner speech"],
+ ["inner speech","Wort, inneres","",null,null,"ref",3656,"Wort","inner speech"],
  [
-  "inneres innerdirectedness","Innensteuerung/Aussensteuerung","",null,null,"ref",1444,
-  "Innensteuerung/Außensteuerung","inneres innerdirectedness"
+  "innerdirectedness","Innensteuerung/Aussensteuerung","",null,null,"ref",1444,
+  "Innensteuerung/Außensteuerung","innerdirectedness"
  ],
- [
-  "inneres innerdirectedness","Gewohnheit","","3","608","ref",1132,"Gewohnheit",
-  "inneres innerdirectedness"
- ],
+ ["innerdirectedness","Gewohnheit","","3","608","ref",1132,"Gewohnheit","innerdirectedness"],
  ["innere/äussere Zeit","Zeit","IV","12","1224","ref",3676,"Zeit","innere/aussere zeit"],
  [
   "innere Erfahrung","Erfahrung, innere","",null,null,"ref",788,"Erfahrung, innere",
@@ -851,12 +843,16 @@ HWPH.put("r/69-6e",
   "innere erscheinung"
  ],
  ["innere Form","Form, innere","",null,null,"ref",936,"Form, innere","innere form"],
- ["innere Rede","Wort","",null,null,"ref",3656,"Wort","innere rede"],
+ ["innere Rede","Wort, inneres","",null,null,"ref",3656,"Wort","innere rede"],
  [
-  "inneres innere Sprache","Sprachform, innere","(Humboldt)",null,null,"ref",2990,
-  "Sprachform, innere","inneres innere sprache"
+  "innere Sprache","Sprachform, innere","(Humboldt)",null,null,"ref",2990,"Sprachform, innere",
+  "innere sprache"
  ],
- ["innere Wahrheit","Wahrheit","",null,null,"ref",3523,"Wahrheit","innere wahrheit"],
+ [
+  "innere Wahrheit","Wahrheit, ästhetische","","12","139","ref",3527,
+  "Wahrheit, ästhetische; Wahrheit der Kunst","innere wahrheit"
+ ],
+ ["innere Wahrnehmung","Psychologie","","7","1626","ref",2511,"Psychologie","innere wahrnehmung"],
  [
   "innere Willenshandlung","Psychologie","","7","1623","ref",2511,"Psychologie",
   "innere willenshandlung"
@@ -867,11 +863,11 @@ HWPH.put("r/69-6e",
   "innerer/äusserer Mensch","Wahrheit","VI A","12","108","ref",3523,"Wahrheit",
   "innerer/ausserer mensch"
  ],
- ["innerer Dialog","Wort","",null,null,"ref",3656,"Wort","innerer dialog"],
  [
-  "inneres 12 1037 innerer Leib","Psychologie","","7","1616","ref",2511,"Psychologie",
-  "inneres 12 1037 innerer leib"
+  "innerer Dialog","Wort, inneres","","12","1037","ref",3657,"Wort, inneres; Rede, innere",
+  "innerer dialog"
  ],
+ ["innerer Leib","Psychologie","","7","1616","ref",2511,"Psychologie","innerer leib"],
  ["innerer Sinn","Apperzeption","",null,null,"ref",212,"Apperzeption","innerer sinn"],
  ["innerer Sinn","Wahrnehmung","II",null,null,"ref",3539,"Wahrnehmung","innerer sinn"],
  ["innerer Sinn","Gefühl","I","3","82","ref",1009,"Gefühl","innerer sinn"],
@@ -902,8 +898,8 @@ HWPH.put("r/69-6e",
  ["inneres Kunstwerk","Form, innere","","2","974","ref",936,"Form, innere","inneres kunstwerk"],
  ["inneres Leben","Erleben; Erlebnis","","2","705","ref",804,"Erleben, Erlebnis","inneres leben"],
  ["inneres Verhalten","Psychologie","","7","1633","ref",2511,"Psychologie","inneres verhalten"],
- ["inneres Wort","Wort","",null,null,"ref",3656,"Wort","inneres wort"],
- ["inneres","Innerlichkeit","","4","386–388","ref",1445,"Innenwelt","inneres"],
+ ["inneres Wort","Wort, inneres","",null,null,"ref",3656,"Wort","inneres wort"],
+ ["Innerlichkeit","Innerlichkeit","","4","386–388","main",1446,"Innerlichkeit","innerlichkeit"],
  ["Innerlichkeit","Affekt","II","1","96","ref",53,"Affekt","innerlichkeit"],
  ["Innerlichkeit","Musik","","6","251","ref",2043,"Musik","innerlichkeit"],
  ["Innerlichkeit","Subjektivität","III","10","470f.","ref",3052,"Subjektivität","innerlichkeit"],
@@ -972,26 +968,42 @@ HWPH.put("r/69-6e",
  ["Insein","Insein","","4","394–396","main",1449,"Insein","insein"],
  ["Insein","Inhärenz","",null,null,"see",1437,"Inhärenz","insein"],
  ["Insein","Subjekt/Prädikat","",null,null,"see",3050,"Subjekt/Prädikat","insein"],
- ["Insein","Substanz – I (met.)","","4","394","see",1449,"Insein","insein"],
+ ["Insein","Substanz","",null,null,"see",3062,"Substanz; Substanz/Akzidens","insein"],
+ ["Insein","Analytik des Daseins","(Heidegger)",null,null,"see",129,"Analytik des Daseins","insein"],
+ [
+  "Insein","Erschlossenheit","(Heidegger)",null,null,"see",815,"Erschlossenheit, Erschließen",
+  "insein"
+ ],
+ ["Insein","In-der-Welt-sein","(Heidegger)",null,null,"see",1409,"In-der-Welt-sein","insein"],
+ ["Insein","Wohnen","",null,null,"see",3654,"Wohnen","insein"],
  ["Inselbegriffe","Sinne, die","","9","848","ref",2892,"Sinne, die","inselbegriffe"],
  ["insensibilitas","Lust; Freude","II","5","557","ref",1837,"Lust, Freude","insensibilitas"],
  ["insensibilitas","Sensibilité","","9","609","ref",2866,"Sensibilité","insensibilitas"],
  ["inseparabilis","Abstrakt/konkret","II","1","35","ref",30,"Abstrakt/konkret","inseparabilis"],
  ["Insichgehen","Anamnesis","","1","265","ref",132,"Anamnesis","insichgehen"],
- ["insipientia","Torheit insolentia","",null,null,"ref",null,null,"insipientia"],
+ ["insipientia","Torheit","",null,null,"ref",3207,"Torheit; Narrheit","insipientia"],
+ ["insolentia","Willkür","",null,null,"ref",3624,"Willkür","insolentia"],
  ["Insolubilia","Insolubilia","","4","396–400","main",1450,"Insolubilia","insolubilia"],
  ["Insolubilia","Antinomie","II (log.)",null,null,"see",185,"Antinomie","insolubilia"],
  [
-  "Insolubilia","Paradox III (log.)","",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
+  "Insolubilia","Paradox","III (log.)",null,null,"see",2270,"Paradox, Paradox(e), Paradoxie",
   "insolubilia"
  ],
  ["Insolubilia","Selbstreferenz","I (log.)",null,null,"see",2845,"Selbstreferenz","insolubilia"],
  ["Insolubilia","Sophisma","",null,null,"see",2925,"Sophisma; Sophismata","insolubilia"],
- ["Insolubilia","Trugschluss insolubilia","",null,null,"see",null,null,"insolubilia"],
+ ["Insolubilia","Trugschluss","",null,null,"see",3237,"Trugschluß","insolubilia"],
+ [
+  "insolubilia","Obligatio; Ars obligatoria","II (log.)","6","1070","ref",2194,
+  "Obligatio, Ars obligatoria","insolubilia"
+ ],
  ["insomnium","Traum","",null,null,"ref",3225,"Traum","insomnium"],
  ["inspectio sui","Selbsterkenntnis","III","9","424","ref",2833,"Selbsterkenntnis","inspectio sui"],
  ["inspiratio divina","Prophetie","II","7","1476","ref",2482,"Prophetie","inspiratio divina"],
  ["Inspiration","Inspiration","","4","401–407","main",1451,"Inspiration","inspiration"],
+ ["Inspiration","Einsprechung","",null,null,"see",690,"Einsprechung","inspiration"],
+ ["Inspiration","Erleuchtung","",null,null,"see",807,"Erleuchtung","inspiration"],
+ ["Inspiration","Enthusiasmus","",null,null,"see",748,"Enthusiasmus","inspiration"],
+ ["Inspiration","Mania","",null,null,"see",1859,"Mania","inspiration"],
  [
   "Inspirationsästhetik","Inspiration","II (ästh.)",null,null,"ref",1451,"Inspiration",
   "inspirationsasthetik"
@@ -1013,12 +1025,24 @@ HWPH.put("r/69-6e",
   "instinctus naturalis","Instinkt","I (erk.)","4","409","ref",1453,"Instinkt",
   "instinctus naturalis"
  ],
- ["instinctus naturalis","Religion","",null,null,"ref",2673,"Religion","instinctus naturalis"],
+ [
+  "instinctus naturalis","Religion, natürliche bzw. vernünftige","","8","719","ref",2674,"Religion",
+  "instinctus naturalis"
+ ],
+ [
+  "instinctus naturalis","Selbsterhaltung","","9","393","ref",2832,"Selbsterhaltung",
+  "instinctus naturalis"
+ ],
+ [
+  "instinctus naturalis","Sensus communis","III","9","642","ref",2869,"Sensus communis",
+  "instinctus naturalis"
+ ],
  [
   "instinctus socialis","Zueignung (Oikeiosis)","","12","1404","ref",3705,"Zueignung (Oikeiosis)",
   "instinctus socialis"
  ],
  ["Instinkt","Instinkt","","4","408–417","main",1453,"Instinkt","instinkt"],
+ ["Instinkt","Reiz und Reaktion","",null,null,"see",2662,"Reiz und Reaktion","instinkt"],
  ["Instinkt","Idee","III","4","104","ref",1361,"Idee","instinkt"],
  ["Instinkt","Intuition","","4","534","ref",1487,"Intuition","instinkt"],
  ["Instinkt","Nachahmung","","6","322","ref",2054,"Nachahmung","instinkt"],
@@ -1036,28 +1060,25 @@ HWPH.put("r/69-6e",
  ["Instinkthandlung","Reflex","","8","393","ref",2633,"Reflex, Reflexbewegung","instinkthandlung"],
  ["Instinktreduktion","Institution","","4","423","ref",1454,"Institution","instinktreduktion"],
  [
-  "Instinktreduktion (Gehlen)","Instinktreduktion (Gehlen)","","4","417f.","main",1453,"Instinkt",
-  "instinktreduktion (gehlen)"
+  "Instinktreduktion","Instinktreduktion","(Gehlen)","4","417f.","main",1453,"Instinkt",
+  "instinktreduktion"
  ],
  [
-  "Instinktreduktion (Gehlen)","Antriebsüberschuss (Gehlen)","",null,null,"see",195,
-  "Antriebsüberschuß","instinktreduktion (gehlen)"
+  "Instinktreduktion","Antriebsüberschuss","(Gehlen)",null,null,"see",195,"Antriebsüberschuß",
+  "instinktreduktion"
  ],
+ ["Instinktreduktion","Retardation","",null,null,"see",2698,"Retardation","instinktreduktion"],
  [
-  "Instinktreduktion (Gehlen)","Retardation","",null,null,"see",2698,"Retardation",
-  "instinktreduktion (gehlen)"
- ],
- [
-  "institutio","Obligatio; Ars obligatoria II (log.)","","6","1068","ref",2194,
+  "institutio","Obligatio; Ars obligatoria","II (log.)","6","1068","ref",2194,
   "Obligatio, Ars obligatoria","institutio"
  ],
  [
-  "Institution s. auch","Register der Sachgruppen: Unterricht und Institutionen","",null,null,"ref",
-  null,null,"institution s. auch"
+  "Institution","Register der Sachgruppen: Unterricht und Institutionen","",null,null,"see",null,
+  null,"institution"
  ],
  ["Institution","Institution","","4","418–424","main",1454,"Institution","institution"],
  [
-  "Institution","Bewusstsein, ideatives/instrumentelles (Gehlen)","",null,null,"ref",415,
+  "Institution","Bewusstsein, ideatives/instrumentelles","(Gehlen)",null,null,"ref",415,
   "Bewußtsein, ideatives/instrumentelles","institution"
  ],
  ["Institution","Führungssystem","(Gehlen)",null,null,"ref",963,"Führungssystem","institution"],
@@ -1110,13 +1131,17 @@ HWPH.put("r/69-6e",
   "Vernunft, instrumentelle","instrumentelle vernunft"
  ],
  [
-  "instrumentelles Bewusstsein","Bewusstsein, ideatives/instrumentelles (Gehlen) instrumentum","",
-  null,null,"ref",412,"Bewußtsein","instrumentelles bewusstsein"
+  "instrumentelles Bewusstsein","Bewusstsein, ideatives/instrumentelles","(Gehlen)",null,null,"ref",
+  415,"Bewußtsein, ideatives/instrumentelles","instrumentelles bewusstsein"
  ],
+ ["instrumentum","Organ","","6","1319","ref",2239,"Organ","instrumentum"],
+ ["instrumentum","Organon","","6","1365","ref",2246,"Organon","instrumentum"],
+ ["instrumentum","Sklaverei","","9","979","ref",2909,"Sklaverei","instrumentum"],
  [
-  "Insuffizienzgefühl","Minderwertigkeitsgefühl Insulation","",null,null,"ref",null,null,
-  "insuffizienzgefuhl"
+  "Insuffizienzgefühl","Minderwertigkeitsgefühl","",null,null,"ref",1976,
+  "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","insuffizienzgefuhl"
  ],
+ ["Insulation","Distanzierung","","2","270","ref",618,"Distanzierung","insulation"],
  ["insurance","Versicherung","",null,null,"ref",3433,"Versicherung","insurance"],
  ["Insurrektion","Revolution","","8","968","ref",2705,"Revolution","insurrektion"],
  ["Integral","Allheit","","1","193","ref",103,"Allheit","integral"],
@@ -1130,6 +1155,9 @@ HWPH.put("r/69-6e",
   "integralrechnung"
  ],
  ["Integration","Integration","","4","428–431","main",1456,"Integration","integration"],
+ ["Integration","Desintegration","",null,null,"see",569,"Desintegration","integration"],
+ ["Integration","Ganzheit","I (psych.)",null,null,"see",987,"Ganzheit","integration"],
+ ["Integration","Sozialisation","",null,null,"see",2946,"Sozialisation","integration"],
  [
   "Integration, politische","Integration","II (soz.)",null,null,"ref",1456,"Integration",
   "integration, politische"
@@ -1169,7 +1197,7 @@ HWPH.put("r/69-6e",
  ["intellectualitas","Idee","II A 6","4","81","ref",1361,"Idee","intellectualitas"],
  ["intellectualitas","Kontemplation","","4","1025","ref",1635,"Kontemplation","intellectualitas"],
  [
-  "intellectualitas","Rationalität I (erk.)","","8","53","ref",2576,"Rationalität, Rationalisierung",
+  "intellectualitas","Rationalität","I (erk.)","8","53","ref",2576,"Rationalität, Rationalisierung",
   "intellectualitas"
  ],
  [
@@ -1210,7 +1238,7 @@ HWPH.put("r/69-6e",
   "intellectus agens"
  ],
  [
-  "intellectus agens","Erkenntnis I (erk.)","","2","651","ref",796,"Erkennen, Erkenntnis",
+  "intellectus agens","Erkenntnis","I (erk.)","2","651","ref",796,"Erkennen, Erkenntnis",
   "intellectus agens"
  ],
  ["intellectus agens","Seele","II","9","15f.","ref",2794,"Seele","intellectus agens"],
@@ -1228,8 +1256,12 @@ HWPH.put("r/69-6e",
   "Intellectual History","intellectus agens/possibilis"
  ],
  [
-  "Intellectus agens/possibilis","Vernunft; Verstand","",null,null,"see",3423,"Vernunft; Verstand",
-  "intellectus agens/possibilis"
+  "Intellectus agens/possibilis","Vernunft; Verstand","II-III",null,null,"see",3423,
+  "Vernunft; Verstand","intellectus agens/possibilis"
+ ],
+ [
+  "intellectus agens separatus","Colcodea","",null,null,"ref",502,"Colcodea",
+  "intellectus agens separatus"
  ],
  [
   "intellectus apprehendens","Vernunft; Verstand","III D","11","782","ref",3423,"Vernunft; Verstand",
@@ -1283,7 +1315,19 @@ HWPH.put("r/69-6e",
   "Intellectus agens / intellectus possibilis","intellectus agens/possibilis"
  ],
  [
-  "Intellectus agens/possibilis","Vernunft; Verstand","",null,null,"ref",3423,"Vernunft; Verstand",
+  "Intellectus agens/possibilis","Vernunft; Verstand","III-IV",null,null,"ref",3423,
+  "Vernunft; Verstand","intellectus agens/possibilis"
+ ],
+ [
+  "Intellectus agens/possibilis","Akt/Potenz","","1","140","ref",83,"Akt/Potenz",
+  "intellectus agens/possibilis"
+ ],
+ [
+  "Intellectus agens/possibilis","Monopsychismus","","6","141","ref",2018,"Monopsychismus",
+  "intellectus agens/possibilis"
+ ],
+ [
+  "Intellectus agens/possibilis","Species","I (met.)","9","1324","ref",2966,"Species",
   "intellectus agens/possibilis"
  ],
  ["intellectus practicus","Ethik","III","2","768","ref",835,"Ethik","intellectus practicus"],
@@ -1328,7 +1372,7 @@ HWPH.put("r/69-6e",
   "System; Systematik; systematisch","intellectus systematicus"
  ],
  [
-  "intellegentia","Intelligenz; Intellektueller I (erk.)","",null,null,"ref",1464,
+  "intellegentia","Intelligenz; Intellektueller","I (erk.)",null,null,"ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","intellegentia"
  ],
  [
@@ -1383,24 +1427,44 @@ HWPH.put("r/69-6e",
   "Intellektualismus","Entzauberung","(Weber)","2","565","ref",764,"Entzauberung",
   "intellektualismus"
  ],
- ["Intellektualismus","Rationalismus","",null,null,"ref",2574,"Rationalismus","intellektualismus"],
+ [
+  "Intellektualismus","Rationalismus, kritischer","(Popper)","8","49","ref",2575,
+  "Rationalismus, Kritischer","intellektualismus"
+ ],
+ [
+  "Intellektualphilosophen","Intellektualismus","","4","440","ref",1462,"Intellektualismus",
+  "intellektualphilosophen"
+ ],
+ [
+  "Intellektualphilosophen","Sensualismus","","9","616","ref",2867,"Sensualismus",
+  "intellektualphilosophen"
+ ],
  ["Intellektuell","Intellektuell","","4","444f.","main",1463,"Intellektuell","intellektuell"],
  [
-  "Intellektuell","Intelligibel intellektuelle Anschauung","",null,null,"see",null,null,
-  "intellektuell"
+  "Intellektuell","Intelligibel","",null,null,"see",1467,
+  "Intelligibel, das Intelligible, Intelligibilität","intellektuell"
+ ],
+ [
+  "intellektuelle Anschauung","Anschauung, intellektuelle","",null,null,"ref",163,
+  "Anschauung, intellektuelle","intellektuelle anschauung"
+ ],
+ ["intellektuelle Anschauung","Geist","VII","3","184","ref",1030,"Geist","intellektuelle anschauung"],
+ [
+  "intellektuelle Anschauung","Versenken","II","11","888","ref",3432,"Versenken",
+  "intellektuelle anschauung"
  ],
  ["intellektuelle Störung","Wahn","",null,null,"ref",3520,"Wahn","intellektuelle storung"],
  [
-  "Intellektueller","Intelligenz; Intellektueller II","",null,null,"ref",1464,
+  "Intellektueller","Intelligenz; Intellektueller","II",null,null,"ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","intellektueller"
  ],
  [
-  "Intellektueller","Intelligenz; Intellektueller V (soz.)","",null,null,"ref",1464,
+  "Intellektueller","Intelligenz; Intellektueller","V (soz.)",null,null,"ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","intellektueller"
  ],
  ["Intellektueller","Redlichkeit","","8","367","ref",2622,"Redlichkeit","intellektueller"],
  [
-  "Intellektueller, kollektiver","Intelligenz; Intellektueller IV (marx.)","","4","453","ref",1464,
+  "Intellektueller, kollektiver","Intelligenz; Intellektueller","IV (marx.)","4","453","ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","intellektueller, kollektiver"
  ],
  ["intelletto sano","Gesundheit","","3","560","ref",1125,"Gesund, Gesundheit","intelletto sano"],
@@ -1411,7 +1475,7 @@ HWPH.put("r/69-6e",
  ["intelligentia","Ratio","",null,null,"ref",2570,"Ratio","intelligentia"],
  ["intelligentia","Herz","","3","1105","ref",1265,"Herz","intelligentia"],
  [
-  "intelligentia","Rationalität I (erk.)","","8","54","ref",2576,"Rationalität, Rationalisierung",
+  "intelligentia","Rationalität","I (erk.)","8","54","ref",2576,"Rationalität, Rationalisierung",
   "intelligentia"
  ],
  [
@@ -1432,13 +1496,24 @@ HWPH.put("r/69-6e",
  ],
  ["intelligentia simplex","Denken","I","2","72","ref",552,"Denken","intelligentia simplex"],
  [
-  "Intelligentsia","Intelligenz; Intellektueller III (russ.)","",null,null,"ref",1464,
+  "Intelligentsia","Intelligenz; Intellektueller","III (russ.)",null,null,"ref",1464,
   "Intelligenz, Intelligentsia, Intellektueller","intelligentsia"
  ],
  [
   "Intelligenz; Intellektueller","Intelligenz; Intellektueller","","4","445–461","main",1463,
   "Intellektuell","intelligenz; intellektueller"
  ],
+ [
+  "Intelligenz; Intellektueller","Elite","",null,null,"see",713,"Elite",
+  "intelligenz; intellektueller"
+ ],
+ [
+  "Intelligenz; Intellektueller","Intelligenzquotient","",null,null,"see",1466,
+  "Intelligenzquotient (IQ)","intelligenz; intellektueller"
+ ],
+ ["Intelligenz","Kreativität","","4","1199f.","ref",1685,"Kreativität","intelligenz"],
+ ["Intelligenz","Psychologie","","7","1625","ref",2511,"Psychologie","intelligenz"],
+ ["Intelligenz","Vorstellung","I B","11","1234f.","ref",3503,"Vorstellung","intelligenz"],
  ["Intelligenz, freie","Wille","III A","12","784","ref",3620,"Wille","intelligenz, freie"],
  [
   "Intelligenz, künstliche","Science, cognitive","",null,null,"ref",2789,"Science, Cognitive",
@@ -1466,9 +1541,11 @@ HWPH.put("r/69-6e",
   "intelligenzquotient"
  ],
  [
-  "Intelligenzquotient","Intelligenz; Intellektueller VI (psych.) intelligere","",null,null,"see",
-  1464,"Intelligenz, Intelligentsia, Intellektueller","intelligenzquotient"
+  "Intelligenzquotient","Intelligenz; Intellektueller","VI (psych.)",null,null,"see",1464,
+  "Intelligenz, Intelligentsia, Intellektueller","intelligenzquotient"
  ],
+ ["intelligere","Denken","I","2","61","ref",552,"Denken","intelligere"],
+ ["intelligere","Verstehen","","11","921","ref",3438,"Verstehen","intelligere"],
  [
   "Intelligibel","Intelligibel","","4","463–465","main",1466,"Intelligenzquotient (IQ)",
   "intelligibel"
@@ -1541,9 +1618,14 @@ HWPH.put("r/69-6e",
   "intensional aquivalent"
  ],
  [
-  "intensive/extensive Grösse","Grösse I intent","",null,null,"ref",null,null,
+  "intensive/extensive Grösse","Grösse","I",null,null,"ref",1187,"Größe",
   "intensive/extensive grosse"
  ],
+ [
+  "intent","Begriffsinhalt/Begriffsumfang","",null,null,"ref",369,"Begriffsinhalt/Begriffsumfang",
+  "intent"
+ ],
+ ["intent","Vorsatz","",null,null,"ref",3497,"Vorsatz","intent"],
  ["Intentio","Intentio","","4","466–474","main",1468,"Intentio","intentio"],
  ["intentio","Absicht","",null,null,"ref",26,"Absicht","intentio"],
  ["intentio","Aufmerksamkeit","",null,null,"ref",290,"Aufmerksamkeit","intentio"],
@@ -1574,7 +1656,7 @@ HWPH.put("r/69-6e",
   "Metasprache/Objektsprache","intentio prima/secunda"
  ],
  [
-  "intentio prima/secunda","Erkenntnis I (erk )","","2","651","ref",796,"Erkennen, Erkenntnis",
+  "intentio prima/secunda","Erkenntnis","I (erk )","2","651","ref",796,"Erkennen, Erkenntnis",
   "intentio prima/secunda"
  ],
  [
@@ -1642,11 +1724,25 @@ HWPH.put("r/69-6e",
  ],
  ["Intentionalität","Meinung","",null,null,"ref",1912,"Meinen, Meinung","intentionalitat"],
  [
-  "Intentionalität","Erkenntnis II (psych.)","","2","665","ref",796,"Erkennen, Erkenntnis",
+  "Intentionalität","Erkenntnis","II (psych.)","2","665","ref",796,"Erkennen, Erkenntnis",
   "intentionalitat"
  ],
  ["Intentionalität","Erleben; Erlebnis","","2","707","ref",804,"Erleben, Erlebnis","intentionalitat"],
  ["Intentionalität","Gegenstand","I (erk )","3","131","ref",1020,"Gegenstand","intentionalitat"],
+ [
+  "Intentionalität","Intentionalität","(Husserl)","4","475","main",1470,"Intentionalität",
+  "intentionalitat"
+ ],
+ [
+  "Intentionalität","Intentionalanalyse","(Husserl)",null,null,"see",1469,"Intentionalanalyse",
+  "intentionalitat"
+ ],
+ [
+  "Intentionalität","Leerintention","(Husserl)",null,null,"see",1760,"Leerintention",
+  "intentionalitat"
+ ],
+ ["Intentionalität","Noema","(Husserl)",null,null,"see",2145,"Noema","intentionalitat"],
+ ["Intentionalität","Noesis","(Husserl)",null,null,"see",2146,"Noesis","intentionalitat"],
  ["Intentionalität (Husserl)","Sorge","","9","1087","ref",2927,"Sorge","intentionalitat (husserl)"],
  [
   "Intentionalität, thematische/unthematische","Thema","II (phän.)","10","1062","ref",3165,"Thema",
@@ -1696,7 +1792,22 @@ HWPH.put("r/69-6e",
   "interdisziplinar"
  ],
  ["intéressant","Interesse","I","4","483","ref",1475,"Interesse","interessant"],
- ["Interessante","Interessante","",null,null,"main",1474,"Interessante","interessante"],
+ [
+  "Interessante, das","Interessante, das","(Schlegel)","4","478f.","main",1473,"Interdisziplinär",
+  "interessante, das"
+ ],
+ [
+  "Interessante, das","Charakteristische, das","",null,null,"see",487,"Charakteristische",
+  "interessante, das"
+ ],
+ ["Interesse","Interesse","","4","479–494","main",1475,"Interesse","interesse"],
+ ["Interesse","Désintéressement","",null,null,"see",570,"Désintéressement","interesse"],
+ ["Interesse","Eigennutz","",null,null,"see",664,"Eigennutz","interesse"],
+ [
+  "Interesse","Nutzen","",null,null,"see",2177,"Nutzen, Nützlichkeit, das Nützliche, nützlich",
+  "interesse"
+ ],
+ ["Interesse","Unparteilichkeit","",null,null,"see",3316,"Unparteilichkeit","interesse"],
  ["Interesse","Rechtsgut","","8","279","ref",2605,"Rechtsgut","interesse"],
  ["Interesse","Sache","II","8","1098","ref",2730,"Sache","interesse"],
  ["Interesse","Spannung","III","9","1290","ref",2961,"Spannung","interesse"],
@@ -1740,11 +1851,8 @@ HWPH.put("r/69-6e",
   "internal sense"
  ],
  ["internal sense","Wahrnehmung","VIII (ästh.)","12","235","ref",3539,"Wahrnehmung","internal sense"],
- ["internal speech","Wort","",null,null,"ref",3656,"Wort","internal speech"],
- [
-  "inneres Internalisierung","Institution","","4","422","ref",1454,"Institution",
-  "inneres internalisierung"
- ],
+ ["internal speech","Wort, inneres","",null,null,"ref",3656,"Wort","internal speech"],
+ ["Internalisierung","Institution","","4","422","ref",1454,"Institution","internalisierung"],
  ["international law","Völkerrecht","",null,null,"ref",3475,"Völkerrecht","international law"],
  [
   "interne Beziehung","Beziehung, interne/externe","",null,null,"ref",427,
@@ -1786,7 +1894,12 @@ HWPH.put("r/69-6e",
  ["Interpretation","Deutung","",null,null,"see",576,"Deutung","interpretation"],
  ["Interpretation","Hermeneutik","",null,null,"see",1255,"Hermeneutik","interpretation"],
  ["Interpretation","Verstehen","",null,null,"see",3438,"Verstehen","interpretation"],
- ["Interpretation","Modell","",null,null,"ref",1999,"Modell","interpretation"],
+ ["Interpretation","Modell; Modelltheorie","I (log.)","6","50","ref",1999,"Modell","interpretation"],
+ [
+  "Interpretation","Prädikatenlogik","","7","1189","ref",2426,"Prädikatenlogik, Prädikatenkalkül",
+  "interpretation"
+ ],
+ ["Interpretation","Welt","III","12","438","ref",3557,"Welt","interpretation"],
  [
   "Interpretation, ikonologische","Ikonographie; Ikonologie","",null,null,"ref",1384,
   "Ikonographie, Ikonologie","interpretation, ikonologische"
@@ -1816,7 +1929,7 @@ HWPH.put("r/69-6e",
   "Interpretation, temporale","interpretation, temporale"
  ],
  [
-  "Interpretationsschema","Schema; Schematismus I (allg.)","","8","1256","ref",2760,
+  "Interpretationsschema","Schema; Schematismus","I (allg.)","8","1256","ref",2760,
   "Schema, Schematismus","interpretationsschema"
  ],
  [
@@ -1828,8 +1941,16 @@ HWPH.put("r/69-6e",
  ["Intersex","Geschlechtlichkeit","","3","444","ref",1096,"Geschlechtlichkeit","intersex"],
  ["Intersubjektiv","Intersubjektiv","","4","521","main",1483,"Intersubjektiv","intersubjektiv"],
  [
-  "Intersubjektiv","Konstitutionssystem (Carnap) Intersubjektive, das","",null,null,"see",null,null,
-  "intersubjektiv"
+  "Intersubjektiv","Konstitutionssystem","(Carnap)",null,null,"see",1628,
+  "Konstitutionssystem, Konstitutionstheorie","intersubjektiv"
+ ],
+ [
+  "Intersubjektive, das","Subjekt/Objekt","V","10","431","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","intersubjektive, das"
+ ],
+ [
+  "intersubjektive Konstitution","Konstitution, phänomenologische","(Husserl)","4","1005","ref",1626,
+  "Konstitution, phänomenologische","intersubjektive konstitution"
  ],
  ["Intersubjektivität","Wir","",null,null,"ref",3625,"Wir","intersubjektivitat"],
  [
@@ -1878,7 +1999,15 @@ HWPH.put("r/69-6e",
  ["Introjektion","Psychologie","","7","1628","ref",2511,"Psychologie","introjektion"],
  ["Introspektion","Introspektion","","4","522–524","main",1486,"Introspektion","introspektion"],
  ["Introspektion","Behaviorismus","",null,null,"see",377,"Behaviorismus","introspektion"],
- ["Introspektion","Bewusstsein Introspektion","",null,null,"see",null,null,"introspektion"],
+ ["Introspektion","Bewusstsein","",null,null,"see",412,"Bewußtsein","introspektion"],
+ ["Introspektion","Menschenkenntnis","","5","1119","ref",1922,"Menschenkenntnis","introspektion"],
+ [
+  "Introspektion","Parallelismus, psychophysischer","","7","104","ref",2272,
+  "Parallelismus, psychophysischer","introspektion"
+ ],
+ ["Introspektion","Psychologismus","","7","1676","ref",2522,"Psychologismus","introspektion"],
+ ["Introspektion","Unmittelbarkeit","","11","239","ref",3314,"Unmittelbarkeit","introspektion"],
+ ["Introspektion","Vorstellung","II","11","1243","ref",3503,"Vorstellung","introspektion"],
  ["introversio","Selbsterkenntnis","II","9","417","ref",2833,"Selbsterkenntnis","introversio"],
  [
   "Introversion/Extraversion","Extravertiert/introvertiert","",null,null,"ref",884,
@@ -1902,7 +2031,7 @@ HWPH.put("r/69-6e",
  ["intuitio cognitiva","Einfalt","","2","394","ref",679,"Einfalt","intuitio cognitiva"],
  ["intuitio diligens","Wahrnehmung","II","12","199","ref",3539,"Wahrnehmung","intuitio diligens"],
  [
-  "intuitio mystica","Schweigen; Stille A","","8","1490","ref",2787,"Schweigen, Stille",
+  "intuitio mystica","Schweigen; Stille","A","8","1490","ref",2787,"Schweigen, Stille",
   "intuitio mystica"
  ],
  ["Intuition","Intuition","","4","524–540","main",1487,"Intuition","intuition"],
@@ -1920,6 +2049,16 @@ HWPH.put("r/69-6e",
  ["Intuition","Noologie","","6","905","ref",2159,"Noologie, noologisch","intuition"],
  ["Intuition","Vernunft; Verstand","VII E","11","850","ref",3423,"Vernunft; Verstand","intuition"],
  ["Intuitionismus","Intuitionismus","","4","540–544","main",1488,"Intuitionismus","intuitionismus"],
+ ["Intuitionismus","Intuition","",null,null,"see",1487,"Intuition","intuitionismus"],
+ ["Intuitionismus","Ethik","VIII",null,null,"see",835,"Ethik","intuitionismus"],
+ [
+  "Intuitionismus","Urteil, moralisches","",null,null,"see",3357,"Urteil, moralisches",
+  "intuitionismus"
+ ],
+ ["Intuitionismus","Formalismus","III (log.)",null,null,"see",930,"Formalismus","intuitionismus"],
+ ["Intuitionismus","Grundlagenstreit","",null,null,"see",1193,"Grundlagenstreit","intuitionismus"],
+ ["Intuitionismus","Logizismus","",null,null,"see",1821,"Logizismus","intuitionismus"],
+ ["Intuitionismus","Wahlfolge","",null,null,"see",3519,"Wahlfolge","intuitionismus"],
  ["Intuitionismus","Logik","V","5","382","ref",1803,"Logik","intuitionismus"],
  [
   "Intuitionismus, emotionaler","Gewissen","","3","588","ref",1130,"Gewissen",
@@ -1991,7 +2130,7 @@ HWPH.put("r/69-6e",
   "inventaire general"
  ],
  [
-  "Inventat","Invention; Erfindung I (allg.)","","4","546f.","ref",1490,
+  "Inventat","Invention; Erfindung","I (allg.)","4","546f.","ref",1490,
   "Invention, Erfindung, Entdeckung","inventat"
  ],
  [
@@ -2015,13 +2154,47 @@ HWPH.put("r/69-6e",
   "Invention; Erfindung","Invention; Erfindung","","4","544–574","main",1489,"Intussuszeption",
   "invention; erfindung"
  ],
+ ["Invention; Erfindung","Genie","",null,null,"see",1071,"Genie","invention; erfindung"],
+ ["Invention; Erfindung","Ingenium","",null,null,"see",1436,"Ingenium","invention; erfindung"],
+ [
+  "Invention; Erfindung","Original; Originalität","",null,null,"see",2250,"Original, Originalität",
+  "invention; erfindung"
+ ],
+ ["Invention; Erfindung","Witz","",null,null,"see",3648,"Witz","invention; erfindung"],
+ [
+  "Invention; Erfindung","Analyse/Synthese","",null,null,"see",126,"Analyse/Synthese",
+  "invention; erfindung"
+ ],
+ ["Invention; Erfindung","Dialektik","III",null,null,"see",583,"Dialektik","invention; erfindung"],
+ [
+  "Invention; Erfindung","Heuristik","",null,null,"see",1268,"Heuristik, heuristisch",
+  "invention; erfindung"
+ ],
+ [
+  "Invention; Erfindung","Induktionismus","",null,null,"see",1426,"Induktionismus",
+  "invention; erfindung"
+ ],
+ ["Invention; Erfindung","Methode","",null,null,"see",1955,"Methode","invention; erfindung"],
+ ["Invention; Erfindung","Topik","",null,null,"see",3203,"Topik; Topos","invention; erfindung"],
+ ["Invention; Erfindung","Urteil","I (rhet.)",null,null,"see",3355,"Urteil","invention; erfindung"],
+ ["Invention; Erfindung","Kreativität","",null,null,"see",1685,"Kreativität","invention; erfindung"],
+ ["Invention; Erfindung","Fortschritt","",null,null,"see",942,"Fortschritt","invention; erfindung"],
  ["Invention","Analyse/Synthese","","1","240ff.","ref",126,"Analyse/Synthese","invention"],
  ["Invers","Invers","","4","575","main",1492,"Invers","invers"],
  ["Inversion","Inversion","","4","575f.","main",1493,"Inversion","inversion"],
+ ["Inversion","Perversion","",null,null,"see",2328,"Perversion","inversion"],
  ["Inversion","Verkehrte Welt","",null,null,"ref",3411,"Verkehrte Welt","inversion"],
  ["investigatio symbolica","Symbol","I","10","717","ref",3093,"Symbol","investigatio symbolica"],
  ["invidia","Neid","",null,null,"ref",2105,"Neid","invidia"],
- ["invisibilitas","Unsichtbarkeit invisible hand","",null,null,"ref",null,null,"invisibilitas"],
+ [
+  "invisibilitas","Unsichtbarkeit","",null,null,"ref",3321,"Unsichtbarkeit; Unsichtbares",
+  "invisibilitas"
+ ],
+ ["invisible hand","Arbeit","II","1","484","ref",230,"Arbeit","invisible hand"],
+ [
+  "invisible hand","Unsichtbarkeit","","11","269","ref",3321,"Unsichtbarkeit; Unsichtbares",
+  "invisible hand"
+ ],
  [
   "invisible religion","Ecclesia spiritualis","","2","309","ref",649,"Ecclesia spiritualis",
   "invisible religion"
@@ -2040,115 +2213,6 @@ HWPH.put("r/69-6e",
  ["Inzesttabu","Tabu","",null,null,"ref",3120,"Tabu","inzesttabu"],
  ["Inzesttabu","Ödipus-Komplex","II","6","1103f.","ref",2202,"Ödipus-Komplex","inzesttabu"],
  ["Inzidenz-Axiomatik","Geometrie","","3","325","ref",1078,"Geometrie","inzidenz-axiomatik"],
- ["inneres","Langeweile","","5","28–32","ref",1727,"Langeweile","inneres"],
- ["inneres","Ekel","",null,null,"see",699,"Ekel","inneres"],
- ["inneres","Leere","I (myst.)",null,null,"see",1758,"Leere","inneres"],
- ["inneres","Zerstreuung","I (anthr.)",null,null,"see",3690,"Zerstreuung","inneres"],
- [
-  "inneres 12 1046 language strata","Stratifikation","I (ling.)","10","266","ref",3037,
-  "Stratifikation","inneres 12 1046 language strata"
- ],
- [
-  "inneres locutio symbolica","Symbol","I","10","717","ref",3093,"Symbol",
-  "inneres locutio symbolica"
- ],
- [
-  "inneres 12 1037 λόγος ἐνδιάθετος/προφορικός","Wort","",null,null,"ref",3656,"Wort",
-  "inneres 12 1037 λογοσ ενδιαθετοσ/προφορικοσ"
- ],
- ["inneres","Stimme","","10","163ff.","ref",3025,"Stimme","inneres"],
- [
-  "inneres 12 1038 λόγος ὀνοματόδης","Definition","I",null,null,"ref",535,"Definition",
-  "inneres 12 1038 λογοσ ονοματοδησ"
- ],
- [
-  "Individuation","Individuation","","4","296","main",1420,"Individuation, Individuationsprinzip",
-  "individuation"
- ],
- ["Instinkt","Instinkt","II (biol.)",null,null,"main",1453,"Instinkt","instinkt"],
- ["Instinkt","Organprimitivismen","(Gehlen)",null,null,"ref",2248,"Organprimitivismen","instinkt"],
- ["Instinkt","Speziesismus","",null,null,"ref",2970,"Speziesismus","instinkt"],
- ["Instinkt","Tier","",null,null,"ref",3192,"Tier; Tierseele","instinkt"],
- ["Instinkt","Mass II (ästh.)","","5","820","ref",1877,"Maß","instinkt"],
- ["Instinkt","Naturrecht","IV 1","6","583","ref",2089,"Naturrecht","instinkt"],
- ["Instinkt","Retardation","","8","931","ref",2698,"Retardation","instinkt"],
- [
-  "inneres 12 1042 mental span","Gedächtnisspanne","","3","42","ref",997,"Gedächtnisspanne",
-  "inneres 12 1042 mental span"
- ],
- ["inneres","Mentalismus","","5","1137f.","ref",1925,"Menschheit, Menschengeschlecht","inneres"],
- ["inneres mépris","Verachtung merces","",null,null,"ref",null,null,"inneres mepris"],
- ["Innovation","Innovation","",null,null,"main",1448,"Innovation","innovation"],
- ["inneres","Sprache","II","9","1463","ref",2985,"Sprache","inneres"],
- ["inneres","Supposition","II","10","655","ref",3084,"Supposition","inneres"],
- [
-  "inneres","Synkategorem","","10","794","ref",3108,"Synkategorem;synkategorematisch;synsemantisch",
-  "inneres"
- ],
- [
-  "inneres 12 1037f. orator","Rhetorik","","8","1014f.","ref",2713,"Rhetorik, Redekunst",
-  "inneres 12 1037f. orator"
- ],
- ["inneres Paronomasie","Paronym","","7","131","ref",2279,"Paronym","inneres paronomasie"],
- [
-  "inneres 12 1039 propositio per se nota","Per se notum","",null,null,"ref",2315,"Per se notum",
-  "inneres 12 1039 propositio per se nota"
- ],
- [
-  "inneres Rede an die Kreatur","Stimme","","10","167","ref",3025,"Stimme",
-  "inneres rede an die kreatur"
- ],
- ["Induktion","Induktion","I (wiss.)",null,null,"main",1425,"Induktion","induktion"],
- [
-  "inneres 12 1041 Selbstgestaltung","Selbstbesinnung","II","9","333","ref",2825,"Selbstbesinnung",
-  "inneres 12 1041 selbstgestaltung"
- ],
- [
-  "inneres 12 1041 Selbstgestaltung","Selbstdarstellung","","9","384","ref",2830,"Selbstdarstellung",
-  "inneres 12 1041 selbstgestaltung"
- ],
- [
-  "inneres 12 1039 sermocinalis philosophus","Sprache","II","9","1460","ref",2985,"Sprache",
-  "inneres 12 1039 sermocinalis philosophus"
- ],
- ["inneres speech act","Sprechakt","",null,null,"ref",2995,"Sprechakt","inneres speech act"],
- [
-  "inneres 12 1043 Sprache, konstruierte","Sprache, künstliche","","9","1502","ref",2988,
-  "Sprache, künstliche","inneres 12 1043 sprache, konstruierte"
- ],
- [
-  "inneres Sprache, modelltheoretische","Vollformalismus","","11","1114","ref",3481,
-  "Vollformalismus","inneres sprache, modelltheoretische"
- ],
- ["inneres Stimme","Organ","","6","1319","ref",2239,"Organ","inneres stimme"],
- [
-  "inneres Terminus","Begriffsgeschichte","","1","793ff.","ref",368,"Begriffsgeschichte",
-  "inneres terminus"
- ],
- [
-  "inneres 12 1037f. triplex usus legis","Tertius usus legis","",null,null,"ref",3155,
-  "Tertius usus legis","inneres 12 1037f. triplex usus legis"
- ],
- [
-  "inneres verbum mentis","Form und Materie","","2","1004","ref",939,"Form und Materie (Stoff)",
-  "inneres verbum mentis"
- ],
- ["Institution","Institution","","4","422","main",1454,"Institution","institution"],
- [
-  "inneres 12 1037–1050 s. auch","Complexe significabile","",null,null,"ref",505,
-  "Complexe significabile","inneres 12 1037–1050 s. auch"
- ],
- [
-  "inneres 12 1037–1050 s. auch","Stimme","",null,null,"ref",3025,"Stimme",
-  "inneres 12 1037–1050 s. auch"
- ],
- [
-  "inneres 12 1037–1050 s. auch","Terminus","",null,null,"ref",3153,"Terminus",
-  "inneres 12 1037–1050 s. auch"
- ],
- [
-  "inneres 12 1037–1050 s. auch","Verbum mentis","",null,null,"ref",3387,"Verbum mentis",
-  "inneres 12 1037–1050 s. auch"
- ]
+ ["Innovation","Innovation","",null,null,"main",1448,"Innovation","innovation"]
 ]
 );

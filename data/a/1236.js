@@ -33,6 +33,7 @@ HWPH.put("a/1236",
   {"term":"principale","qualifier":"","band":null,"col":null},
   {"term":"principalitas; principatus","qualifier":"","band":null,"col":null},
   {"term":"Seelenteile","qualifier":"","band":null,"col":null},
+  {"term":"Zentralorgan","qualifier":"","band":null,"col":null},
   {"term":"ἡγεμονικόν","qualifier":"","band":null,"col":null},
   {"term":"λογιστικόν","qualifier":"","band":"3","col":"1030"}
  ],

@@ -17,11 +17,7 @@ HWPH.put("a/2049",
  "next":{"id":2050,"lemma":"Mystik, mystisch","band":"6","col":268},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"das (Otto)","qualifier":"(Otto)","band":null,"col":null},
-  {"term":"das (Otto) 3 3 s. auch","qualifier":"(Otto)","band":null,"col":null},
-  {"term":"Zirkel, religionspsychologischer","qualifier":"(Otto)","band":null,"col":null}
- ],
+ "register":[{"term":"Zirkel, religionspsychologischer","qualifier":"(Otto)","band":null,"col":null}],
  "persons":[
   {"id":383,"name":"R. Otto","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":1,"name":"I. Kant","b":1,"n":0,"l":0,"editor":0,"role":"source"},
@@ -35,7 +31,11 @@ HWPH.put("a/2049",
   {"id":1239,"lemma":"Heilig, Heiligkeit","tf":3},
   {"id":786,"lemma":"Erfahrung","tf":2}
  ],
- "see_also":[{"id":223,"lemma":"Apriori, religiöses"},{"id":985,"lemma":"Ganz Andere"}],
+ "see_also":[
+  {"id":223,"lemma":"Apriori, religiöses"},
+  {"id":985,"lemma":"Ganz Andere"},
+  {"id":2175,"lemma":"Numinose, das"}
+ ],
  "groups":[
   {
    "id":38,

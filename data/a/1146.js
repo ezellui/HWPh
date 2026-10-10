@@ -17,10 +17,7 @@ HWPH.put("a/1146",
  "next":{"id":1147,"lemma":"Gleichheit","band":"3","col":671},
  "backlinks":[{"id":3213,"lemma":"Trägheit","n":1}],
  "outlinks":[],
- "register":[
-  {"term":"Indifferenz","qualifier":"","band":null,"col":null},
-  {"term":"– I (anthr.) 10 1329–1331 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Indifferenz","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":12,"name":"Ch. Wolff","b":1,"n":1,"l":0,"editor":0,"role":"source"},

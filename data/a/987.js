@@ -23,12 +23,7 @@ HWPH.put("a/987",
  "next":{"id":988,"lemma":"Ganzheitsmethode","band":"3","col":22},
  "backlinks":[{"id":990,"lemma":"Ganzqualitäten","n":1}],
  "outlinks":[{"id":989,"lemma":"Ganzheitspsychologie","n":1}],
- "register":[
-  {"term":"Vernunftidee","qualifier":"I (psych.)","band":"3","col":"20"},
-  {"term":"– I (psych.) 4 428–431 s. auch","qualifier":"I (psych.)","band":null,"col":null},
-  {"term":"– II (psych.) 1 604f. s. auch","qualifier":"I (psych.)","band":null,"col":null},
-  {"term":"– IV (psych.) 10 325–328 s. auch","qualifier":"I (psych.)","band":null,"col":null}
- ],
+ "register":[{"term":"Vernunftidee","qualifier":"I (psych.)","band":"3","col":"20"}],
  "persons":[
   {"id":399,"name":"F. Krueger","b":6,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":206,"name":"H. Driesch","b":3,"n":1,"l":0,"editor":0,"role":"mixed"},
@@ -73,7 +68,16 @@ HWPH.put("a/987",
   {"id":1116,"lemma":"Gestalt","tf":3},
   {"id":707,"lemma":"Element","tf":3}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":280,"lemma":"Atomismus"},
+  {"id":986,"lemma":"Ganzes/Teil"},
+  {"id":989,"lemma":"Ganzheitspsychologie"},
+  {"id":990,"lemma":"Ganzqualitäten"},
+  {"id":1116,"lemma":"Gestalt"},
+  {"id":1120,"lemma":"Gestaltqualität"},
+  {"id":1456,"lemma":"Integration"},
+  {"id":3040,"lemma":"Struktur"}
+ ],
  "groups":[
   {"id":12,"name":"Geographie und Geologie","label":"Ganzheit II (geogr.)"},
   {"id":36,"name":"Psychologie","label":"Ganzheit I (psych.)"}

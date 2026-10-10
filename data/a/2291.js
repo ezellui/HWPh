@@ -17,15 +17,7 @@ HWPH.put("a/2291",
  "next":{"id":2292,"lemma":"Pathologie","band":"7","col":182},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Semiotik der Affekte","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (allg.) 1 653–655 – II (ästh.) 1 655–661 – III (psych.) 1 x- 661f. s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
- ],
+ "register":[{"term":"Semiotik der Affekte","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":431,"name":"G. Ch. Lichtenberg","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":283,"name":"K. Bühler","b":1,"n":1,"l":1,"editor":0,"role":"source"},
@@ -46,7 +38,11 @@ HWPH.put("a/2291",
   {"id":992,"lemma":"Gebärde, Gebärdensprache","tf":2},
   {"id":814,"lemma":"Erscheinung","tf":2}
  ],
- "see_also":[{"id":302,"lemma":"Ausdruckspsychologie"},{"id":992,"lemma":"Gebärde, Gebärdensprache"}],
+ "see_also":[
+  {"id":302,"lemma":"Ausdruckspsychologie"},
+  {"id":992,"lemma":"Gebärde, Gebärdensprache"},
+  {"id":2371,"lemma":"Physiognomik, Physiognomie"}
+ ],
  "groups":[{"id":36,"name":"Psychologie","label":"Pathognomik"}],
  "reg_authors":[{"name":"Kirchhoff Robert","n":9}]
 }

@@ -118,7 +118,7 @@ HWPH.put("a/3683",
   {"id":689,"lemma":"Einsicht, einsichtig","tf":2},
   {"id":946,"lemma":"Freiheit","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":3225,"lemma":"Traum"},{"id":3257,"lemma":"Über-Ich"}],
  "groups":[
   {"id":33,"name":"Politische Theorie","label":"Zensur I (pol.)"},
   {"id":35,"name":"Psychoanalyse","label":"Zensur II (psych.)"}

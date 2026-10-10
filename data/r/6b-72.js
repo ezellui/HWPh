@@ -1,57 +1,5 @@
 HWPH.put("r/6b-72",
 [
- ["kritischer (Popper)","Verifikation","I",null,null,"ref",3409,"Verifikation","kritischer (popper)"],
- [
-  "kritischer (Popper) critical realism","Realismus","II 2","8","159f.","ref",2588,"Realismus",
-  "kritischer (popper) critical realism"
- ],
- [
-  "kritischer (Popper) critical realism","Realismus","III (analyt. Philos.)","8","163","ref",2588,
-  "Realismus","kritischer (popper) critical realism"
- ],
- ["Kritik","Kritik","",null,null,"main",1694,"Kritik","kritik"],
- ["Krankheit","Krankheit","",null,null,"main",1681,"Krankheit","krankheit"],
- ["kritischer (Popper)","Verifikation","",null,null,"ref",3409,"Verifikation","kritischer (popper)"],
- ["kritischer (Popper)","Widerlegung","",null,null,"ref",3605,"Widerlegung","kritischer (popper)"],
- [
-  "kritischer (Popper) 8 51 falsifizierbar","Prüfbar","(Carnap)",null,null,"ref",2501,"Prüfbar",
-  "kritischer (popper) 8 51 falsifizierbar"
- ],
- [
-  "kritischer (Popper) 8 51 falsifizierbar","Rationalismus","",null,null,"ref",2574,"Rationalismus",
-  "kritischer (popper) 8 51 falsifizierbar"
- ],
- [
-  "kritischer (Popper) 8 50f.","Unfehlbarkeit","I (erk.)","11","151","ref",3294,"Unfehlbarkeit",
-  "kritischer (popper) 8 50f."
- ],
- [
-  "kritischer (Popper) 8 51","Wandel","","12","315","ref",3543,"Wandel; Veränderung",
-  "kritischer (popper) 8 51"
- ],
- [
-  "kritischer (Popper) 8 51 Gesellschaft, schöne","Kalokagathia","II","4","682","ref",1522,
-  "Kalokagathia","kritischer (popper) 8 51 gesellschaft, schone"
- ],
- [
-  "kritischer (Popper) 8 49","Theorie","I","10","1141f.","ref",3179,"Theorie",
-  "kritischer (popper) 8 49"
- ],
- [
-  "kritischer (Popper) 8 49","Wahrscheinlichkeitsschluss","","12","309f.","ref",3542,
-  "Wahrscheinlichkeitsschluß","kritischer (popper) 8 49"
- ],
- [
-  "kritischer (Popper) 8 49 Intellektualphilosophen","Intellektualismus","","4","440","ref",1462,
-  "Intellektualismus","kritischer (popper) 8 49 intellektualphilosophen"
- ],
- [
-  "kritischer (Popper) 8 49 Intellektualphilosophen","Sensualismus","","9","616","ref",2867,
-  "Sensualismus","kritischer (popper) 8 49 intellektualphilosophen"
- ],
- ["Kreativität","Kreativität","","4","1199f.","main",1685,"Kreativität","kreativitat"],
- ["Kreativität","Psychologie","","7","1625","ref",2511,"Psychologie","kreativitat"],
- ["Kreativität","Vorstellung","I B","11","1234f.","ref",3503,"Vorstellung","kreativitat"],
  ["Krach, ökonomischer","Umschlag","","11","92","ref",3275,"Umschlag","krach, okonomischer"],
  ["Kräfte","Potenzen Kräfte, organische","",null,null,"ref",null,null,"krafte"],
  [
@@ -65,21 +13,23 @@ HWPH.put("r/6b-72",
  ["Kräfte der Natur","Magie","","5","633","ref",1845,"Magie","krafte der natur"],
  ["Kräftefeld","Sphäre","I","9","1373","ref",2971,"Sphäre","kraftefeld"],
  [
-  "Kräftefeld, intellektuelles","Horizont","III",null,null,"ref",1310,"Horizont",
+  "Kräftefeld, intellektuelles","Horizont","III 4 (ling.)","3","1205","ref",1310,"Horizont",
   "kraftefeld, intellektuelles"
  ],
+ ["Kränkung","Zorn","I","12","1383ff.","ref",3702,"Zorn","krankung"],
  [
   "Kränkung, kosmologische","Kopernikanische Wende","","4","1097","ref",1660,"Kopernikanische Wende",
   "krankung, kosmologische"
  ],
  [
-  "Kränkung, narzisstische","Narzissmus II Kräuterbuch","",null,null,"ref",null,null,
+  "Kränkung, narzisstische","Narzissmus","II",null,null,"ref",2069,"Narzißmus, narzißtisch",
   "krankung, narzisstische"
  ],
+ ["Kräuterbuch","Pflanze","","7","398","ref",2332,"Pflanze","krauterbuch"],
  ["Kraft","Kraft","","4","1177–1184","main",1680,"Kraft","kraft"],
  ["Kraft","Bewegung","",null,null,"see",408,"Bewegung","kraft"],
  ["Kraft","Energie","",null,null,"see",738,"Energie","kraft"],
- ["Kraft","Masse I (phys.)","",null,null,"see",1878,"Masse, Massen","kraft"],
+ ["Kraft","Masse","I (phys.)",null,null,"see",1878,"Masse, Massen","kraft"],
  ["Kraft","Mechanik","II",null,null,"see",1903,"Mechanik","kraft"],
  ["Kraft","Wandel","",null,null,"see",3543,"Wandel; Veränderung","kraft"],
  ["Kraft","Widerstand","I (nat.)",null,null,"see",3610,"Widerstand","kraft"],
@@ -120,7 +70,7 @@ HWPH.put("r/6b-72",
  ["Krankheit","Malum","II","5","658","ref",1852,"Malum","krankheit"],
  ["Krankheit","Sucht","","10","573","ref",3069,"Sucht","krankheit"],
  [
-  "Krankheit, verborgene","Latenz II (med.)","","5","42","ref",1731,"Latent, Latenz",
+  "Krankheit, verborgene","Latenz","II (med.)","5","42","ref",1731,"Latent, Latenz",
   "krankheit, verborgene"
  ],
  ["Krankheit der Seele","Sünde","I","10","599","ref",3075,"Sünde","krankheit der seele"],
@@ -151,14 +101,15 @@ HWPH.put("r/6b-72",
  ],
  ["Kreativität","Kreativität","","4","1194–1204","main",1685,"Kreativität","kreativitat"],
  [
-  "Kreativität","Invention; Erfindung IV (psych.) Kreativität","",null,null,"see",1490,
+  "Kreativität","Invention; Erfindung","IV (psych.)",null,null,"see",1490,
   "Invention, Erfindung, Entdeckung","kreativitat"
  ],
+ ["Kreativität","Synechismus","(Peirce)","10","780","ref",3104,"Synechismus","kreativitat"],
  [
-  "Kreativitätsforschung","Invention; Erfindung IV (psych.) Kreatürlichkeit","",null,null,"ref",1490,
+  "Kreativitätsforschung","Invention; Erfindung","IV (psych.)",null,null,"ref",1490,
   "Invention, Erfindung, Entdeckung","kreativitatsforschung"
  ],
- ["Kreatur","Kreatur","",null,null,"main",1686,"Kreatur, Kreatürlichkeit","kreatur"],
+ ["Kreatürlichkeit","Kreatur","",null,null,"ref",1686,"Kreatur, Kreatürlichkeit","kreaturlichkeit"],
  ["Kreatur","Kreatur","","4","1204–1211","main",1685,"Kreativität","kreatur"],
  ["Kreatur","Schöpfung","",null,null,"see",2779,"Schöpfung","kreatur"],
  ["Kreis; Kugel","Kreis; Kugel","","4","1211–1226","main",1687,"Kreis und Kugel","kreis; kugel"],
@@ -170,7 +121,14 @@ HWPH.put("r/6b-72",
  ["Kreis; Kugel","Zentrum","",null,null,"see",3687,"Zentrum","kreis; kugel"],
  ["Kreis","Punkt","","7","1711","ref",2534,"Punkt, Punktualität","kreis"],
  ["Kreis, sozialer","Gruppe, soziale","","3","930","ref",1199,"Gruppe, soziale","kreis, sozialer"],
- ["Kreisbewegung","Ptolemäisch Kreislauf","",null,null,"ref",null,null,"kreisbewegung"],
+ [
+  "Kreisbewegung","Ptolemäisch","",null,null,"ref",2533,"Ptolemäisch, Ptolemäisches Weltsystem",
+  "kreisbewegung"
+ ],
+ [
+  "Kreislauf","Periode; Periodisierung","","7","259f.","ref",2313,"Periode, Periodisierung",
+  "kreislauf"
+ ],
  [
   "Kreislauf der Verfassungen","Verfassungsformen","","11","644f.","ref",3399,"Verfassungsform(en)",
   "kreislauf der verfassungen"
@@ -189,10 +147,7 @@ HWPH.put("r/6b-72",
   "Kreislauftheorien","Periode; Periodisierung","",null,null,"see",2313,"Periode, Periodisierung",
   "kreislauftheorien"
  ],
- [
-  "Kreisprozess (Gehlen)","Kreisprozess (Gehlen)","","4","1230","main",1689,"Kreisprozeß",
-  "kreisprozess (gehlen)"
- ],
+ ["Kreisprozess","Kreisprozess","(Gehlen)","4","1230","main",1689,"Kreisprozeß","kreisprozess"],
  ["Kreisreaktion","Nachahmung","","6","325","ref",2054,"Nachahmung","kreisreaktion"],
  ["Krieg","Krieg","","4","1230–1235","main",1690,"Krieg","krieg"],
  ["Krieg","Ernstfall","(Schmitt)",null,null,"ref",812,"Ernstfall","krieg"],
@@ -213,6 +168,7 @@ HWPH.put("r/6b-72",
   "krieg als der fortsetzung der politik"
  ],
  ["Krise","Krise","","4","1235–1245","main",1691,"Krise","krise"],
+ ["Krise","Krankheit","",null,null,"see",1681,"Krankheit","krise"],
  [
   "Krise der Repräsentation","Repräsentation","V","8","846","ref",2686,"Repräsentation",
   "krise der reprasentation"
@@ -258,8 +214,30 @@ HWPH.put("r/6b-72",
   "Kritik","Verwirklichung der Philosophie","","11","1009","ref",3454,
   "Verwirklichung der Philosophie","kritik"
  ],
- ["Kritik","Kritik","",null,null,"main",1694,"Kritik","kritik"],
- ["Kritik, ästhetische","Kritik","",null,null,"ref",1694,"Kritik","kritik, asthetische"],
+ [
+  "Kritik; Literaturkritik","Kritik; Literaturkritik","","4","1282–1292","main",1694,"Kritik",
+  "kritik; literaturkritik"
+ ],
+ [
+  "Kritik; Literaturkritik","Kunstphilosophie; Kunstgeschichte","",null,null,"see",1716,
+  "Kunstphilosophie, Kunstgeschichte, Kunstwissenschaft","kritik; literaturkritik"
+ ],
+ [
+  "Kritik; Literaturkritik","Kunstrichter","",null,null,"see",1718,"Kunstrichter",
+  "kritik; literaturkritik"
+ ],
+ [
+  "Kritik; Literaturkritik","Literary Criticism","",null,null,"see",1799,"Literary Criticism",
+  "kritik; literaturkritik"
+ ],
+ [
+  "Kritik, ästhetische","Kritik; Literaturkritik","II","4","1288f.","ref",1695,
+  "Kritik, Literaturkritik","kritik, asthetische"
+ ],
+ [
+  "Kritik, divinatorische","Universalpoesie","","11","208","ref",3305,"Universalpoesie",
+  "kritik, divinatorische"
+ ],
  ["Kritik, historische","Kritik","I 4","4","1265","ref",1694,"Kritik","kritik, historische"],
  [
   "Kritik, historische","Methode, historische","","5","1351","ref",1960,"Methode, historische",
@@ -334,68 +312,57 @@ HWPH.put("r/6b-72",
   "kritischer idealismus"
  ],
  [
-  "kritischer Rationalismus","Rationalismus","",null,null,"ref",2574,"Rationalismus",
-  "kritischer rationalismus"
+  "kritischer Rationalismus","Rationalismus, kritischer","(Popper)",null,null,"ref",2575,
+  "Rationalismus, Kritischer","kritischer rationalismus"
  ],
- [
-  "kritischer (Popper)","Kritizismus","","4","1294–1299","ref",1698,"Kritizismus",
-  "kritischer (popper)"
- ],
- ["kritischer (Popper)","Dogmatismus","",null,null,"see",626,"Dogmatismus","kritischer (popper)"],
- ["kritischer (Popper)","Kantianismus","",null,null,"see",1528,"Kantianismus","kritischer (popper)"],
- [
-  "kritischer (Popper)","Neukantianismus","",null,null,"see",2119,"Neukantianismus",
-  "kritischer (popper)"
- ],
+ ["Kritizismus","Kritizismus","","4","1294–1299","main",1698,"Kritizismus","kritizismus"],
+ ["Kritizismus","Dogmatismus","",null,null,"see",626,"Dogmatismus","kritizismus"],
+ ["Kritizismus","Kantianismus","",null,null,"see",1528,"Kantianismus","kritizismus"],
+ ["Kritizismus","Neukantianismus","",null,null,"see",2119,"Neukantianismus","kritizismus"],
  ["Kritizismus, neuer","Kritizismus","","4","1298","ref",1698,"Kritizismus","kritizismus, neuer"],
  [
   "Kritizismus, rationaler","Kritizismus","","4","1299","ref",1698,"Kritizismus",
   "kritizismus, rationaler"
  ],
  [
-  "Kritizismus, rationaler","Rationalismus","",null,null,"ref",2574,"Rationalismus",
-  "kritizismus, rationaler"
+  "Kritizismus, rationaler","Rationalismus, kritischer","(Popper)","8","49","ref",2575,
+  "Rationalismus, Kritischer","kritizismus, rationaler"
  ],
  [
-  "kritischer (Popper) 8 49 Krönung der Philosophie","Psychologie, transzendentale","(Kant)","7",
-  "1673","ref",2521,"Psychologie, transzendentale",
-  "kritischer (popper) 8 49 kronung der philosophie"
+  "Krönung der Philosophie","Psychologie, transzendentale","(Kant)","7","1673","ref",2521,
+  "Psychologie, transzendentale","kronung der philosophie"
  ],
  ["Krokodilschluss","Krokodilschluss","","4","1299","main",1699,"Krokodilschluß","krokodilschluss"],
  ["Kryptomnesie","Gedächtnistäuschung","","3","49","ref",998,"Gedächtnistäuschung","kryptomnesie"],
  ["Kreis; Kugel","Kreis; Kugel","",null,null,"main",null,null,"kreis; kugel"],
  ["Kreis; Kugel","Raum","I",null,null,"ref",2578,"Raum","kreis; kugel"],
  ["Kreis; Kugel","Punkt","","7","1711","ref",2534,"Punkt, Punktualität","kreis; kugel"],
- ["kritischer (Popper) 8 49","Zirkel","","12","1338","ref",3695,"Zirkel","kritischer (popper) 8 49"],
- ["Krankheit","Krankheit","",null,null,"main",1681,"Krankheit","krankheit"],
- [
-  "kritischer (Popper) 8 51 offene Moral","Moral, offene/geschlossene","(Bergson)",null,null,"ref",
-  2024,"Moral, offene/geschlossene","kritischer (popper) 8 51 offene moral"
- ],
  ["Kraft","Kraft","",null,null,"main",1680,"Kraft","kraft"],
  ["Kraft","Macht","",null,null,"ref",1844,"Macht","kraft"],
+ ["Kritik","Kritik","I",null,null,"main",1694,"Kritik","kritik"],
+ ["Kritik","Topik","",null,null,"ref",3203,"Topik; Topos","kritik"],
+ ["Kritik","Anerkennungstheorie","",null,null,"see",139,"Anerkennungstheorie","kritik"],
+ ["Kritik","Aussage","",null,null,"see",309,"Aussage","kritik"],
+ ["Kritik","Behauptung","",null,null,"see",374,"Behauptung","kritik"],
+ ["Kritik","Complexe significabile","",null,null,"see",505,"Complexe significabile","kritik"],
+ ["Kritik","Geltungstheorie","",null,null,"see",1046,"Geltungstheorie","kritik"],
+ ["Kritik","Identitätstheorie","",null,null,"see",1371,"Identitätstheorie","kritik"],
+ ["Kritik","Prädikation","",null,null,"see",2427,"Prädikation","kritik"],
+ ["Kritik","Proposition","",null,null,"see",2484,"Proposition","kritik"],
+ ["Kritik","Sachverhalt","",null,null,"see",2732,"Sachverhalt","kritik"],
+ ["Kritik","Satz","",null,null,"see",2745,"Satz","kritik"],
+ ["Kritik","Subjekt/Prädikat","",null,null,"see",3050,"Subjekt/Prädikat","kritik"],
+ ["Kritik","Subsumtion","",null,null,"see",3066,"Subsumtion","kritik"],
+ ["Kritik","Supposition","",null,null,"see",3084,"Supposition","kritik"],
+ ["Kritik","Zustimmung","",null,null,"see",3715,"Zustimmung","kritik"],
+ ["Kritik","Existentialurteil","",null,null,"see",860,"Existentialurteil","kritik"],
+ ["Kritik","Modalität","",null,null,"see",1995,"Modalität","kritik"],
+ ["Kritik","Fehlurteil","",null,null,"see",903,"Fehlurteil","kritik"],
+ ["Kritik","Rechtskraft","",null,null,"see",2608,"Rechtskraft","kritik"],
  [
-  "kritischer (Popper) 8 49–52 s. auch","Falsifikation","(Popper)",null,null,"ref",892,
-  "Falsifikation","kritischer (popper) 8 49–52 s. auch"
+  "Krämer Hans Joachim","Noesis noeseos","","6","871–873","author",2147,"Noesis Noeseos",
+  "kramer hans joachim"
  ],
- [
-  "kritischer (Popper) 8 49–52 s. auch","Proliferationsprinzip","(Feyerabend)",null,null,"ref",2477,
-  "Proliferationsprinzip","kritischer (popper) 8 49–52 s. auch"
- ],
- [
-  "kritischer (Popper) 8 49–52 s. auch","Versuch und Irrtum","",null,null,"ref",3441,
-  "Versuch und Irrtum","kritischer (popper) 8 49–52 s. auch"
- ],
- [
-  "kritischer (Popper) 8 50","Voraussage","","11","1151f.","ref",3487,
-  "Voraussage; Vorhersage; Prognose","kritischer (popper) 8 50"
- ],
- ["kritischer (Popper)","Widerlegung","",null,null,"ref",3605,"Widerlegung","kritischer (popper)"],
- [
-  "kritischer (Popper) 8 51","Voraussage","","11","1154","ref",3487,
-  "Voraussage; Vorhersage; Prognose","kritischer (popper) 8 51"
- ],
- ["Krämer Hans Joachim","Noesis","",null,null,"author",2146,"Noesis","kramer hans joachim"],
  [
   "Krämling Gerhard","Periode; Periodisierung","","7","259–261","author",2313,
   "Periode, Periodisierung","kramling gerhard"
@@ -439,7 +406,10 @@ HWPH.put("r/6b-72",
  ],
  ["Kranz Margarita","Peirastik","","7","234","author",2303,"Peirastik","kranz margarita"],
  ["Kranz Margarita","Peripatetisch","","7","261f.","author",2314,"Peripatetisch","kranz margarita"],
- ["Kranz Margarita","Philosophie","I",null,null,"author",2353,"Philosophie","kranz margarita"],
+ [
+  "Kranz Margarita","Philosophie I A-B.","D","7","573–583","author",2353,"Philosophie",
+  "kranz margarita"
+ ],
  ["Kranz Margarita","Pistis","","7","976f.","author",2379,"Pistis","kranz margarita"],
  ["Kranz Margarita","Postulat","I","7","1146f.","author",2418,"Postulat","kranz margarita"],
  [
@@ -458,11 +428,14 @@ HWPH.put("r/6b-72",
   "kranz margarita"
  ],
  [
-  "Kranz Margarita","Weiblich/männlich","",null,null,"author",3552,"Weiblich/männlich",
+  "Kranz Margarita","Weiblich/männlich","I-II","12","343–358","author",3552,"Weiblich/männlich",
   "kranz margarita"
  ],
  ["Kranz Margarita","Widerlegung","","12","680–685","author",3605,"Widerlegung","kranz margarita"],
- ["Kranz Margarita","Widerspruch","",null,null,"author",3607,"Widerspruch","kranz margarita"],
+ [
+  "Kranz Margarita","Widerspruch, performativer","","12","699f.","author",3607,"Widerspruch",
+  "kranz margarita"
+ ],
  ["Kranz Margarita","Zahl","I","12","1119–1128","author",3670,"Zahl; Zählen","kranz margarita"],
  ["Kranz Margarita","Zufall","I","12","1408–1412","author",3706,"Zufall","kranz margarita"],
  [
@@ -538,7 +511,7 @@ HWPH.put("r/6b-72",
   "kriele christel"
  ],
  [
-  "Krings Hermann","Erkenntnis I (erk.)","","2","643–662","author",796,"Erkennen, Erkenntnis",
+  "Krings Hermann","Erkenntnis","I (erk.)","2","643–662","author",796,"Erkennen, Erkenntnis",
   "krings hermann"
  ],
  ["Krings Hermann","Lauterkeit","","5","47–49","author",1733,"Lauterkeit","krings hermann"],
@@ -554,7 +527,7 @@ HWPH.put("r/6b-72",
   "kruckeberg edzard"
  ],
  [
-  "Krückeberg Edzard","Charakteristische","",null,null,"author",487,"Charakteristische",
+  "Krückeberg Edzard","Charakteristische, das","","1","992–994","author",486,"Charakter",
   "kruckeberg edzard"
  ],
  [

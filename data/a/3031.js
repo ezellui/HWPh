@@ -24,8 +24,8 @@ HWPH.put("a/3031",
  "outlinks":[{"id":2976,"lemma":"Spieltrieb","n":1}],
  "register":[
   {"term":"Formtrieb","qualifier":"(Schiller)","band":null,"col":null},
-  {"term":"Sinnlichkeit","qualifier":"(Schiller)","band":"10","col":"190"},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"(Schiller)","band":null,"col":null}
+  {"term":"naturalis","qualifier":"(Schiller)","band":null,"col":null},
+  {"term":"Sinnlichkeit","qualifier":"(Schiller)","band":"10","col":"190"}
  ],
  "persons":[
   {"id":46,"name":"F. Schiller","b":2,"n":2,"l":0,"editor":0,"role":"source"},

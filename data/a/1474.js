@@ -17,7 +17,7 @@ HWPH.put("a/1474",
  "next":{"id":1475,"lemma":"Interesse","band":"4","col":479},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"das 1 992–994 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":37,"name":"F. Schlegel","b":1,"n":1,"l":1,"editor":0,"role":"source"},
   {"id":5179,"name":"P. Hankamer","b":0,"n":0,"l":1,"editor":0,"role":"scholar"},
@@ -30,6 +30,6 @@ HWPH.put("a/1474",
  "mentions":[{"id":2387,"lemma":"Poesie","tf":5},{"id":2776,"lemma":"Schöne","tf":2}],
  "see_also":[],
  "groups":[{"id":21,"name":"Literaturtheorie","label":"Interessante, das (Schlegel)"}],
- "reg_authors":[{"name":"Rasch Wolfdietrich","n":2}]
+ "reg_authors":[]
 }
 );

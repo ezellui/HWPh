@@ -26,8 +26,8 @@ HWPH.put("a/23",
   {"term":"Dependenz","qualifier":"","band":null,"col":null},
   {"term":"Nahwirkung","qualifier":"","band":"1","col":"6"},
   {"term":"Parallelenaxiom","qualifier":"","band":"1","col":"7"},
+  {"term":"Prognose","qualifier":"","band":"1","col":"6"},
   {"term":"Unabhängigkeit","qualifier":"","band":"1","col":"7"},
-  {"term":"Voraussage","qualifier":"","band":"1","col":"6"},
   {"term":"Wirkung","qualifier":"","band":"1","col":"6"}
  ],
  "persons":[

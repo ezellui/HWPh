@@ -27,6 +27,6 @@ HWPH.put("a/1565",
  "mentions":[],
  "see_also":[],
  "groups":[{"id":30,"name":"Pädagogik","label":"Kindgemäss"}],
- "reg_authors":[{"name":"Mühlbauer Reinhold","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Mühlbauer Reinhold","n":2},{"name":"Red","n":241}]
 }
 );

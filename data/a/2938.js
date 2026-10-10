@@ -25,7 +25,6 @@ HWPH.put("a/2938",
  "register":[
   {"term":"Anthropologie, soziologische","qualifier":"","band":null,"col":null},
   {"term":"Anthropologie, völkische","qualifier":"","band":null,"col":null},
-  {"term":"empirische","qualifier":"","band":null,"col":null},
   {"term":"Eugenik","qualifier":"","band":"9","col":"1122f."},
   {"term":"observation, participant","qualifier":"","band":"9","col":"1124f."},
   {"term":"Rassenhygiene","qualifier":"","band":"9","col":"1122"},
@@ -92,7 +91,7 @@ HWPH.put("a/2938",
   {"id":3539,"lemma":"Wahrnehmung","tf":2},
   {"id":1930,"lemma":"Merkmal","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":1702,"lemma":"Kulturanthropologie"},{"id":3474,"lemma":"Völkerkunde"}],
  "groups":[
   {"id":2,"name":"Anthropologie","label":"Sozialanthropologie; Social anthropology"},
   {"id":7,"name":"Disziplinen und Fächer","label":"Sozialanthropologie; Social anthropology"},

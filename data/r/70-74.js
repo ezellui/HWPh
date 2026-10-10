@@ -5,10 +5,6 @@ HWPH.put("r/70-74",
   "Ptolemäisch","Geozentrisch","",null,null,"see",1082,"Geozentrisch, geozentrisches Weltsystem",
   "ptolemaisch"
  ],
- ["Ptolemäisch","Kreis; Kugel πτωμ͂α τῆς ψυχῆς","",null,null,"see",null,null,"ptolemaisch"],
- [
-  "Ptolemäisch Welttheater","Ptolemäisch Welttheater","",null,null,"main",null,null,
-  "ptolemaisch welttheater"
- ]
+ ["Ptolemäisch","Kreis; Kugel πτωμ͂α τῆς ψυχῆς","",null,null,"see",null,null,"ptolemaisch"]
 ]
 );

@@ -24,6 +24,7 @@ HWPH.put("a/1226",
  "outlinks":[],
  "register":[
   {"term":"Einklang","qualifier":"","band":null,"col":null},
+  {"term":"gentium","qualifier":"","band":null,"col":null},
   {"term":"Zusammenklang","qualifier":"","band":null,"col":null}
  ],
  "persons":[

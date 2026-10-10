@@ -27,13 +27,7 @@ HWPH.put("a/674",
   {"term":"Eindrucksurteile","qualifier":"II (psych.)","band":null,"col":null},
   {"term":"Gewohnheit","qualifier":"I (erk.)","band":"2","col":"359"},
   {"term":"impression","qualifier":"I (erk.)","band":null,"col":null},
-  {"term":"ἐντύπωμα","qualifier":"I (erk.)","band":null,"col":null},
-  {
-   "term":"– I (allg.) 1 653–655 – II (ästh.) 1 655–661 – III (psych.) 1 x- 661f. s. auch",
-   "qualifier":"II (psych.)",
-   "band":null,
-   "col":null
-  }
+  {"term":"ἐντύπωμα","qualifier":"I (erk.)","band":null,"col":null}
  ],
  "persons":[
   {"id":32,"name":"D. Hume","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -61,7 +55,13 @@ HWPH.put("a/674",
   {"id":3251,"lemma":"Übereinstimmung","tf":2},
   {"id":154,"lemma":"Annahme, Annehmen","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":239,"lemma":"Archetypus"},
+  {"id":723,"lemma":"Empfindung"},
+  {"id":3343,"lemma":"Urimpression"},
+  {"id":298,"lemma":"Ausdruck"},
+  {"id":1216,"lemma":"Halo"}
+ ],
  "groups":[
   {"id":9,"name":"Erkenntnistheorie","label":"Eindruck I (erk.)"},
   {"id":36,"name":"Psychologie","label":"Eindruck II (psych.)"}

@@ -31,7 +31,7 @@ HWPH.put("a/1140",
  "register":[
   {"term":"absolutes Wissen","qualifier":"II","band":"3","col":"651"},
   {"term":"Afterglaube","qualifier":"II","band":"3","col":"652"},
-  {"term":"Ahnung","qualifier":"II","band":"3","col":"649"},
+  {"term":"Ahndung","qualifier":"II","band":"3","col":"649"},
   {"term":"christliche Philosophie","qualifier":"II","band":"3","col":"650"},
   {"term":"Glaube, philosophischer","qualifier":"II","band":"3","col":"649"},
   {"term":"Glaube, unbefangener","qualifier":"II","band":"3","col":"651"},

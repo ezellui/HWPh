@@ -17,7 +17,7 @@ HWPH.put("a/1788",
  "next":{"id":1789,"lemma":"Libertinisme, Libertinage","band":"5","col":274},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"A(institut. Formen) 7 797 Heterodoxie","qualifier":"","band":null,"col":null}],
+ "register":[{"term":"Heterodoxie","qualifier":"","band":null,"col":null}],
  "persons":[
   {"id":55,"name":"D. Diderot","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":157,"name":"J. Calvin","b":1,"n":1,"l":0,"editor":0,"role":"source"},

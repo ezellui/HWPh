@@ -18,6 +18,7 @@ HWPH.put("a/2941",
  "backlinks":[{"id":3633,"lemma":"Wirtschaftsethik","n":1}],
  "outlinks":[],
  "register":[
+  {"term":"Moralstatistik","qualifier":"","band":"9","col":"1135"},
   {"term":"Soziallehre, katholische/protestantische","qualifier":"","band":"9","col":"1135f."},
   {"term":"Sozialtheologie","qualifier":"","band":"9","col":"1137"}
  ],

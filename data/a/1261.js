@@ -103,7 +103,13 @@ HWPH.put("a/1261",
   {"id":2590,"lemma":"Realität/Idealität","tf":3},
   {"id":1127,"lemma":"Gewalt","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":333,"lemma":"Autorität"},
+  {"id":1263,"lemma":"Herrschaftsform(en)"},
+  {"id":1844,"lemma":"Macht"},
+  {"id":2958,"lemma":"Soziokratie"},
+  {"id":571,"lemma":"Despotie, Despotismus"}
+ ],
  "groups":[
   {"id":33,"name":"Politische Theorie","label":"Herrschaft"},
   {"id":42,"name":"Soziologie","label":"Herrschaft"}

@@ -21,10 +21,7 @@ HWPH.put("a/1186",
   {"id":2904,"lemma":"Situation","n":1}
  ],
  "outlinks":[],
- "register":[
-  {"term":"Grundsituation","qualifier":"(Jaspers)","band":"3","col":"878"},
-  {"term":"– I (anthr.) 9 923–929 s. auch","qualifier":"(Jaspers)","band":null,"col":null}
- ],
+ "register":[{"term":"Grundsituation","qualifier":"(Jaspers)","band":"3","col":"878"}],
  "persons":[
   {"id":42,"name":"K. Jaspers","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":476,"name":"G. Marcel","b":0,"n":0,"l":1,"editor":0,"role":"source"},

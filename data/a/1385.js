@@ -25,7 +25,7 @@ HWPH.put("a/1385",
   {"id":25415,"name":"J. H. Newmann","b":0,"n":1,"l":0,"editor":0,"role":"scholar"}
  ],
  "mentions":[{"id":2239,"lemma":"Organ","tf":2},{"id":2640,"lemma":"Regel","tf":2}],
- "see_also":[],
+ "see_also":[{"id":1398,"lemma":"Implicit Reasoning"},{"id":3715,"lemma":"Zustimmung"}],
  "groups":[{"id":9,"name":"Erkenntnistheorie","label":"Illative sense (Newman)"}],
  "reg_authors":[{"name":"Artz Johannes","n":2}]
 }

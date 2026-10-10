@@ -70,17 +70,12 @@ HWPH.put("a/3246",
   {"id":161,"name":"J. Hoffmeister","b":0,"n":1,"l":0,"editor":1,"role":"scholar"}
  ],
  "mentions":[{"id":1681,"lemma":"Krankheit","tf":2},{"id":1771,"lemma":"Leiden","tf":2}],
- "see_also":[
-  {"id":1203,"lemma":"Gut, das Gute, das Gut"},
-  {"id":1852,"lemma":"Malum"},
-  {"id":3166,"lemma":"Theodizee"},
-  {"id":3709,"lemma":"Zulassung"}
- ],
+ "see_also":[{"id":1203,"lemma":"Gut, das Gute, das Gut"}],
  "groups":[
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Übel"},
   {"id":26,"name":"Metaphysik","label":"Übel"},
   {"id":44,"name":"Theologie","label":"Übel"}
  ],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

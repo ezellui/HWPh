@@ -26,6 +26,7 @@ HWPH.put("a/1506",
  "register":[
   {"term":"Arnaldismus","qualifier":"","band":"4","col":"635ff."},
   {"term":"Bajanismus","qualifier":"","band":"4","col":"634f."},
+  {"term":"Gallikanismus","qualifier":"","band":"4","col":"636ff."},
   {"term":"Kongruismus","qualifier":"","band":"4","col":"635"},
   {"term":"Quesnellismus","qualifier":"","band":"4","col":"637"},
   {"term":"s auch","qualifier":"","band":null,"col":null}

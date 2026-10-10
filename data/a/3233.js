@@ -19,7 +19,7 @@ HWPH.put("a/3233",
  "outlinks":[{"id":2782,"lemma":"Schriftsinn, mehrfacher","n":1}],
  "register":[
   {"term":"Allegorie","qualifier":"","band":"10","col":"1520"},
-  {"term":"des Urteils 6 12 Tropos","qualifier":"","band":null,"col":null},
+  {"term":"Antonomasie","qualifier":"","band":"10","col":"1520"},
   {"term":"figura cryptica","qualifier":"","band":"10","col":"1522"},
   {"term":"Hyperbel","qualifier":"","band":"10","col":"1520"},
   {"term":"idées accessoires","qualifier":"","band":"10","col":"1521"},
@@ -29,10 +29,10 @@ HWPH.put("a/3233",
   {"term":"Periphrase","qualifier":"","band":"10","col":"1520"},
   {"term":"Synekdoche","qualifier":"","band":"10","col":"1521f."},
   {"term":"tropologia","qualifier":"","band":"10","col":"1520f."},
+  {"term":"Tropos","qualifier":"","band":null,"col":null},
   {"term":"tropus","qualifier":"","band":null,"col":null},
   {"term":"Verschiebung (sprach.)","qualifier":"","band":null,"col":null},
-  {"term":"τρόπος","qualifier":"","band":null,"col":null},
-  {"term":"– I (rhet.) 2 948f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"τρόπος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":100,"name":"Quintilian","b":3,"n":3,"l":0,"editor":0,"role":"source"},

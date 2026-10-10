@@ -235,6 +235,6 @@ HWPH.put("a/3700",
   {"id":13,"name":"Geschichtsphilosophie","label":"Zivilisation"},
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Zivilisation"}
  ],
- "reg_authors":[{"name":"Bollenbeck Georg","n":1},{"name":"Kleger Heinz","n":2},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Bollenbeck Georg","n":1},{"name":"Kleger Heinz","n":2},{"name":"Red","n":241}]
 }
 );

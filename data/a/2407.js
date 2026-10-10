@@ -32,8 +32,8 @@ HWPH.put("a/2407",
  "register":[
   {"term":"exzentrische Positionalität","qualifier":"(Plessner)","band":null,"col":null},
   {"term":"Gemeinschaft/Gesellschaft","qualifier":"(Plessner)","band":"7","col":"1106"},
-  {"term":"Kopernikanische Wende","qualifier":"(Plessner)","band":null,"col":null},
   {"term":"Mitte","qualifier":"(Plessner)","band":"7","col":"1105"},
+  {"term":"Stellung des Menschen","qualifier":"(Plessner)","band":null,"col":null},
   {"term":"Tier/Mensch","qualifier":"(Plessner)","band":"7","col":"1105"},
   {"term":"Unmittelbarkeit, vermittelte","qualifier":"(Plessner)","band":"7","col":"1105"}
  ],

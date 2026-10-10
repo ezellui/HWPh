@@ -28,14 +28,8 @@ HWPH.put("a/230",
  "outlinks":[],
  "register":[
   {"term":"Hand, unsichtbare","qualifier":"II","band":"1","col":"484"},
-  {"term":"laboratores","qualifier":"I","band":"1","col":"481"},
-  {
-   "term":"– I (nat.) 7 1418–1426 – II (ökon.) 7 1427–1432 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  },
-  {"term":"– III (ökon.) 5 513–521 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"invisible hand","qualifier":"II","band":"1","col":"484"},
+  {"term":"laboratores","qualifier":"I","band":"1","col":"481"}
  ],
  "persons":[
   {"id":17,"name":"K. Marx","b":3,"n":3,"l":0,"editor":0,"role":"source"},

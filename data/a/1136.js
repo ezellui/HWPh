@@ -31,10 +31,9 @@ HWPH.put("a/1136",
  "outlinks":[],
  "register":[
   {"term":"Angemessenheit","qualifier":"","band":null,"col":null},
-  {"term":"aptum","qualifier":"","band":null,"col":null},
+  {"term":"aptum","qualifier":"5","band":"3","col":"625"},
   {"term":"decorum","qualifier":"","band":null,"col":null},
-  {"term":"πρέπον","qualifier":"","band":null,"col":null},
-  {"term":"– I (eth.) 5 807–814 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"πρέπον","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":4,"n":5,"l":0,"editor":0,"role":"source"},

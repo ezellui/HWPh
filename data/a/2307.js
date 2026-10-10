@@ -22,7 +22,10 @@ HWPH.put("a/2307",
  "next":{"id":2308,"lemma":"Performance","band":"7","col":247},
  "backlinks":[{"id":3482,"lemma":"Vollkommenheit","n":1}],
  "outlinks":[],
- "register":[{"term":"Vervollkommnung","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"Sündlosigkeit","qualifier":"","band":null,"col":null},
+  {"term":"Vervollkommnung","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":525,"name":"J. Rawls","b":2,"n":2,"l":0,"editor":0,"role":"source"},
   {"id":9477,"name":"J. H. Noyes","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -70,6 +73,6 @@ HWPH.put("a/2307",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Perfektionismus"},
   {"id":44,"name":"Theologie","label":"Perfektionismus"}
  ],
- "reg_authors":[{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Hühn Helmut","n":52}]
 }
 );

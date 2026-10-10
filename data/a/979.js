@@ -22,10 +22,10 @@ HWPH.put("a/979",
  ],
  "outlinks":[],
  "register":[
-  {"term":"Barmherzigkeit","qualifier":"","band":null,"col":null},
   {"term":"Jammer","qualifier":"","band":null,"col":null},
   {"term":"Schauder","qualifier":"","band":null,"col":null},
   {"term":"Schrecken","qualifier":"","band":null,"col":null},
+  {"term":"ἔλεος","qualifier":"","band":null,"col":null},
   {"term":"φόβος","qualifier":"","band":null,"col":null}
  ],
  "persons":[

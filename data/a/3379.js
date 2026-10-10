@@ -29,14 +29,17 @@ HWPH.put("a/3379",
   {"id":2852,"lemma":"Selbstverleugnung","n":1}
  ],
  "register":[
-  {"term":"602","qualifier":"","band":"11","col":"565"},
   {"term":"Achtung","qualifier":"","band":"11","col":"564f."},
   {"term":"admiratio","qualifier":"","band":"11","col":"563"},
+  {"term":"Anerkennung","qualifier":"","band":"11","col":"565"},
   {"term":"Beleidigung","qualifier":"","band":"11","col":"563"},
+  {"term":"contemptio sui","qualifier":"","band":null,"col":null},
+  {"term":"contemptus","qualifier":"","band":null,"col":null},
   {"term":"dedignatio","qualifier":"","band":"11","col":"563"},
   {"term":"Demütigung","qualifier":"","band":"11","col":"565"},
   {"term":"despectus","qualifier":"","band":"11","col":"563"},
   {"term":"discredit","qualifier":"","band":"11","col":"564"},
+  {"term":"disdain","qualifier":"","band":null,"col":null},
   {"term":"Erniedrigung","qualifier":"","band":"11","col":"565"},
   {"term":"existimatio","qualifier":"","band":"11","col":"563"},
   {"term":"Geringschätzung","qualifier":"","band":"11","col":"563"},
@@ -44,13 +47,15 @@ HWPH.put("a/3379",
   {"term":"Hochschätzung","qualifier":"","band":"11","col":"563"},
   {"term":"homme sociable","qualifier":"","band":"11","col":"564"},
   {"term":"humiliation","qualifier":"","band":"11","col":"565"},
-  {"term":"Hybris","qualifier":"","band":"11","col":"563"},
+  {"term":"mépris","qualifier":"","band":null,"col":null},
+  {"term":"Missachtung","qualifier":"","band":null,"col":null},
   {"term":"Missgunst","qualifier":"","band":"11","col":"563"},
   {"term":"Selbstachtung","qualifier":"","band":"11","col":"565"},
   {"term":"Selbstverachtung","qualifier":"","band":null,"col":null},
   {"term":"ἐπηρεασμός","qualifier":"","band":"11","col":"563"},
   {"term":"καταφρόνησις","qualifier":"","band":"11","col":"563"},
-  {"term":"ὀλιγωρία","qualifier":"","band":"11","col":"563"}
+  {"term":"ὀλιγωρία","qualifier":"","band":"11","col":"563"},
+  {"term":"ὕβρις","qualifier":"","band":"11","col":"563"}
  ],
  "persons":[
   {"id":27,"name":"Th. Hobbes","b":2,"n":2,"l":0,"editor":0,"role":"source"},
@@ -112,6 +117,6 @@ HWPH.put("a/3379",
   {"id":10,"name":"Ethik und Moralphilosophie","label":"Verachtung"},
   {"id":33,"name":"Politische Theorie","label":"Verachtung"}
  ],
- "reg_authors":[{"name":"Gloyna Tanja","n":8},{"name":"Hühn Helmut","n":51}]
+ "reg_authors":[{"name":"Gloyna Tanja","n":8},{"name":"Hühn Helmut","n":52}]
 }
 );

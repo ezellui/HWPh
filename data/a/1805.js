@@ -33,7 +33,15 @@ HWPH.put("a/1805",
  "next":{"id":1806,"lemma":"Logik, dialogische","band":"5","col":402},
  "backlinks":[{"id":2353,"lemma":"Philosophie","n":1},{"id":2547,"lemma":"Quantenlogik","n":1}],
  "outlinks":[],
- "register":[],
+ "register":[
+  {"term":"Dialektik, positive","qualifier":"I","band":"5","col":"396"},
+  {"term":"Logik, objektive/subjektive","qualifier":"I","band":"5","col":"394"},
+  {"term":"Negation der Negation","qualifier":"I","band":"5","col":"390"},
+  {"term":"objektive/subjektive Logik","qualifier":"I","band":"5","col":"394"},
+  {"term":"Vernunfterkenntnis","qualifier":"I","band":"5","col":"396"},
+  {"term":"Weltdialektik","qualifier":"I","band":"5","col":"393"},
+  {"term":"Weltsyllogismus","qualifier":"I","band":"5","col":"393"}
+ ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":2,"n":5,"l":0,"editor":0,"role":"source"},
   {"id":639,"name":"C. L. Michelet","b":3,"n":3,"l":1,"editor":0,"role":"source"},
@@ -178,6 +186,6 @@ HWPH.put("a/1805",
  ],
  "see_also":[],
  "groups":[],
- "reg_authors":[]
+ "reg_authors":[{"name":"Goerdt Wilhelm","n":33},{"name":"Jaeschke Walter","n":5}]
 }
 );

@@ -1,17 +1,6 @@
 HWPH.put("r/69-64",
 [
  [
-  "Idealisierung/Realisierung","Idealisierung/Realisierung","",null,null,"main",1342,
-  "Idealisierung/Realisierung","idealisierung/realisierung"
- ],
- [
-  "Idealismus, empirischer","Idealismus, empirischer","",null,null,"main",1347,
-  "Idealismus, empirischer","idealismus, empirischer"
- ],
- ["Idee","Idee","II B 6","4","89","main",1361,"Idee","idee"],
- ["Idee","Vorstellung","I B","11","1232","ref",3503,"Vorstellung","idee"],
- ["Idee","Idee","",null,null,"main",1361,"Idee","idee"],
- [
   "id quod est/id quod ipse est","Substanz","II","10","509","ref",3062,"Substanz; Substanz/Akzidens",
   "id quod est/id quod ipse est"
  ],
@@ -41,7 +30,8 @@ HWPH.put("r/69-64",
  ["ideae separatae","Chorismos","","1","1007","ref",495,"Chorismos","ideae separatae"],
  ["Ideal","Ideal","","4","25–27","main",1339,"Ideal","ideal"],
  ["Ideal","Idee","IV",null,null,"see",1361,"Idee","ideal"],
- ["Ideal","Schöne","",null,null,"see",2776,"Schöne","ideal"],
+ ["Ideal","Schöne, das","IV A",null,null,"see",2776,"Schöne","ideal"],
+ ["Ideal","Vollkommenheit","",null,null,"see",3482,"Vollkommenheit","ideal"],
  ["Ideal","Gegensatz","I (met.)","3","115","ref",1018,"Gegensatz","ideal"],
  ["Ideal","Kunst; Kunstwerk","III","4","1387","ref",1712,"Kunst, Kunstwerk","ideal"],
  ["Ideal","Naiv/sentimentalisch","","6","363","ref",2064,"Naiv/sentimentalisch","ideal"],
@@ -155,7 +145,7 @@ HWPH.put("r/69-64",
   "idealismus, formaler"
  ],
  [
-  "Idealismus, konstitutiver","Sinnkonstitution (Husserl)","","9","889","ref",2899,
+  "Idealismus, konstitutiver","Sinnkonstitution","(Husserl)","9","889","ref",2899,
   "Sinnkonstitution, Sinnstiftung","idealismus, konstitutiver"
  ],
  [
@@ -167,7 +157,11 @@ HWPH.put("r/69-64",
   "idealismus, kritischer"
  ],
  [
-  "Idealismus, kritischer","Idealismus","",null,null,"see",1343,"Idealismus",
+  "Idealismus, kritischer","Idealismus, transzendentaler; Realismus, empirischer","(Kant)",null,null,
+  "see",1343,"Idealismus","idealismus, kritischer"
+ ],
+ [
+  "Idealismus, kritischer","Transzendental","VI","10","1389","ref",3219,"Transzendental",
   "idealismus, kritischer"
  ],
  [
@@ -182,7 +176,14 @@ HWPH.put("r/69-64",
   "Idealismus, monistischer","Idealismus, monistischer","(Reininger)","4","40f.","main",1350,
   "Idealismus, monistischer","idealismus, monistischer"
  ],
- ["Idealismus, monistischer","Ich","",null,null,"see",1334,"Ich","idealismus, monistischer"],
+ [
+  "Idealismus, monistischer","Ich, primäres/sekundäres","(Reininger)",null,null,"see",1334,"Ich",
+  "idealismus, monistischer"
+ ],
+ [
+  "Idealismus, morphologischer","Idealismus, morphologischer","(Friedmann)","4","41f.","main",1351,
+  "Idealismus, morphologischer","idealismus, morphologischer"
+ ],
  [
   "Idealismus, objektiver","Begriffsrealismus","",null,null,"ref",371,"Begriffsrealismus",
   "idealismus, objektiver"
@@ -208,7 +209,7 @@ HWPH.put("r/69-64",
   "idealismus, physikalischer"
  ],
  [
-  "Idealismus, physikalischer","Dialektik","IV",null,null,"ref",583,"Dialektik",
+  "Idealismus, physikalischer","Dialektik","IV 5. 2","2","209","ref",583,"Dialektik",
   "idealismus, physikalischer"
  ],
  [
@@ -235,7 +236,20 @@ HWPH.put("r/69-64",
   "Idealismus, teleologischer","Teleologie","","10","973f.","ref",3145,"Teleologie; teleologisch",
   "idealismus, teleologischer"
  ],
- ["Idealismus","Idealismus","",null,null,"main",1343,"Idealismus","idealismus"],
+ [
+  "Idealismus, transzendentaler; Realismus, empirischer",
+  "Idealismus, transzendentaler; Realismus, empirischer","( Kant)","4","43f.","main",1355,
+  "Idealismus, transzendentaler, Realismus, empirischer",
+  "idealismus, transzendentaler; realismus, empirischer"
+ ],
+ [
+  "Idealismus, transzendentaler; Realismus, empirischer","Idealismus, kritischer","",null,null,"see",
+  1348,"Idealismus, kritischer","idealismus, transzendentaler; realismus, empirischer"
+ ],
+ [
+  "Idealismus, transzendentaler; Realismus, empirischer","Realismus","II 1",null,null,"see",2588,
+  "Realismus","idealismus, transzendentaler; realismus, empirischer"
+ ],
  [
   "Idealismus, transzendentaler","Erscheinung","","2","725","ref",814,"Erscheinung",
   "idealismus, transzendentaler"
@@ -257,8 +271,12 @@ HWPH.put("r/69-64",
   "idealismus der freiheit (dilthey)"
  ],
  [
-  "Idealismus der Natur/des Ichs","Subjekt","",null,null,"ref",3047,"Subjekt",
-  "idealismus der natur/des ichs"
+  "Idealismus der Natur/des Ichs","Subjekt/Objekt","IV","10","419","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","idealismus der natur/des ichs"
+ ],
+ [
+  "Idealismus ohne Vernunft","Phänomenologie","III","7","503","ref",2343,"Phänomenologie",
+  "idealismus ohne vernunft"
  ],
  ["Idealisten/Dogmatiker","Interesse","II","4","491","ref",1475,"Interesse","idealisten/dogmatiker"],
  ["Idealität","Realität/Idealität","",null,null,"ref",2590,"Realität/Idealität","idealitat"],
@@ -303,7 +321,7 @@ HWPH.put("r/69-64",
   "ideas of ideas"
  ],
  ["Ideat","Ideat","","4","48f.","main",1358,"Ideat","ideat"],
- ["Ideat","Idee","II A",null,null,"see",1361,"Idee","ideat"],
+ ["Ideat","Idee","II A 1",null,null,"see",1361,"Idee","ideat"],
  ["Ideation","Ideation","","4","49–52","main",1359,"Ideation","ideation"],
  ["Ideation","Messprozess","",null,null,"see",1936,"Meßprozeß","ideation"],
  ["Ideation","Protophysik","",null,null,"see",2495,"Protophysik","ideation"],
@@ -329,17 +347,13 @@ HWPH.put("r/69-64",
   "ideational preparation"
  ],
  [
-  "ideatives Bewusstsein","Bewusstsein, ideatives/instrumentelles (Gehlen)","",null,null,"ref",415,
+  "ideatives Bewusstsein","Bewusstsein, ideatives/instrumentelles","(Gehlen)",null,null,"ref",415,
   "Bewußtsein, ideatives/instrumentelles","ideatives bewusstsein"
  ],
  ["Idee","Idee","","4","55–134","main",1361,"Idee","idee"],
  ["Idee","Begriff","",null,null,"see",365,"Begriff","idee"],
  ["Idee","Form und Materie","",null,null,"see",939,"Form und Materie (Stoff)","idee"],
- ["Idee","Rationes aeternae; ewige Urgründe","",null,null,"see",null,null,"idee"],
- ["Idee","Repräsentation","I (erk.)",null,null,"see",2686,"Repräsentation","idee"],
- ["Idee","Species","I (met.)",null,null,"see",2966,"Species","idee"],
- ["Idee","Universalien","II",null,null,"see",3302,"Universalien","idee"],
- ["Idee","Vorstellung","",null,null,"see",3503,"Vorstellung","idee"],
+ ["Idee","Rationes aeternae; ewige","",null,null,"see",null,null,"idee"],
  ["Idee","Ästhetik","","1","573f.","ref",266,"Ästhetik, ästhetisch","idee"],
  ["Idee","Empfindung","I (erk.)","2","457","ref",723,"Empfindung","idee"],
  [
@@ -351,7 +365,8 @@ HWPH.put("r/69-64",
   "Idee","Realität, formale/objektive","I","8","194f.","ref",2591,"Realität, formale/objektive",
   "idee"
  ],
- ["Idee","Subjekt","",null,null,"ref",3047,"Subjekt","idee"],
+ ["Idee","Subjekt/Objekt","IV","10","420","ref",3049,"Subjekt/Objekt; subjektiv/objektiv","idee"],
+ ["Idee","Urphänomen","(Goethe)","11","375f.","ref",3349,"Urphänomen","idee"],
  [
   "Idee, absolute","Voraussetzungslosigkeit","","11","1170","ref",3488,"Voraussetzungslosigkeit",
   "idee, absolute"
@@ -369,8 +384,8 @@ HWPH.put("r/69-64",
  ],
  ["Idee, regulative","Idee","IV","4","115","ref",1361,"Idee","idee, regulative"],
  [
-  "Idee, regulative","Schema; Schematismus I (allg.)","","8","1251","ref",2760,
-  "Schema, Schematismus","idee, regulative"
+  "Idee, regulative","Schema; Schematismus","I (allg.)","8","1251","ref",2760,"Schema, Schematismus",
+  "idee, regulative"
  ],
  ["Idee, transzendentale","Idee","IV","4","114ff.","ref",1361,"Idee","idee, transzendentale"],
  [
@@ -384,7 +399,10 @@ HWPH.put("r/69-64",
  ],
  ["Idee des Guten","Idee","I","4","57","ref",1361,"Idee","idee des guten"],
  ["Idee des Guten","Licht","I","4","282","ref",1411,"Indikator","idee des guten"],
- ["Idee des Guten","Schöne","",null,null,"ref",2776,"Schöne","idee des guten"],
+ ["Idee des Guten","Schöne, das","I","8","1345","ref",2776,"Schöne","idee des guten"],
+ ["Idee des Guten","Vollkommenheit","","11","1116","ref",3482,"Vollkommenheit","idee des guten"],
+ ["Idee des Guten","Wert","II","12","559","ref",3588,"Wert","idee des guten"],
+ ["Idee des Guten","Wert","III B (phän.)","12","571","ref",3588,"Wert","idee des guten"],
  [
   "Idee des Menschen","Menschheit; Menschengeschlecht","II","5","1133","ref",1925,
   "Menschheit, Menschengeschlecht","idee des menschen"
@@ -500,12 +518,35 @@ HWPH.put("r/69-64",
  ["Identität","Äquivalenz","",null,null,"see",228,"Äquivalenz","identitat"],
  ["Identität","Gleichheit","",null,null,"see",1147,"Gleichheit","identitat"],
  ["Identität","Indiscernibilien","(Leibniz)",null,null,"see",1412,"Indiscernibilien","identitat"],
- ["Identität","Identität","",null,null,"main",1366,"Identität","identitat"],
+ [
+  "Identität; Ich-Identität","Identität; Ich-Identität","","4","148–151","main",1366,"Identität",
+  "identitat; ich-identitat"
+ ],
+ ["Identität; Ich-Identität","Ich","II",null,null,"see",1334,"Ich","identitat; ich-identitat"],
+ [
+  "Identität; Ich-Identität","Selbst","II-III",null,null,"see",2820,"Selbst",
+  "identitat; ich-identitat"
+ ],
+ [
+  "Identität","Unveränderlichkeit Gottes","",null,null,"ref",3330,"Unveränderlichkeit Gottes",
+  "identitat"
+ ],
+ ["Identität","Verschiedenheit","",null,null,"ref",3430,"Verschiedenheit","identitat"],
+ ["Identität","Dialektik","IV 2","2","197","ref",583,"Dialektik","identitat"],
+ ["Identität","Form und Materie","","2","1016","ref",939,"Form und Materie (Stoff)","identitat"],
+ ["Identität","Immanenz","","4","226","ref",1390,"Immanent, Immanenz","identitat"],
+ ["Identität","Polarität","","7","1027","ref",2391,"Polarität","identitat"],
+ ["Identität","Type and token","","10","1581","ref",3242,"Type and token","identitat"],
  ["Identität (jur.)","Körperschaft","","4","1114","ref",1664,"Körperschaft","identitat (jur.)"],
  [
-  "Identität von Subjekt und Objekt","Subjekt","",null,null,"ref",3047,"Subjekt",
-  "identitat von subjekt und objekt"
+  "Identität von Subjekt und Objekt","Subjekt/Objekt","IV","10","416","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","identitat von subjekt und objekt"
  ],
+ [
+  "Identität, absolute","Identitätssystem","(Schelling)",null,null,"ref",1370,
+  "Identitätssystem, Identität, Indifferenz","identitat, absolute"
+ ],
+ ["Identität, absolute","Subjekt","II","10","385","ref",3047,"Subjekt","identitat, absolute"],
  [
   "Identität, exemplarische","Immanenz","","4","235","ref",1390,"Immanent, Immanenz",
   "identitat, exemplarische"
@@ -518,17 +559,31 @@ HWPH.put("r/69-64",
   "Identität, numerische","Eine, das; Einheit","III","2","379","ref",675,"Eine (das), Einheit",
   "identitat, numerische"
  ],
- ["Identität, personale","Identität","",null,null,"ref",1366,"Identität","identitat, personale"],
- ["Identität, soziale","Identität","",null,null,"ref",1366,"Identität","identitat, soziale"],
  [
-  "Identität der Idealität und Realität","Subjekt","",null,null,"ref",3047,"Subjekt",
-  "identitat der idealitat und realitat"
+  "Identität, personale","Identität; Ich-Identität","",null,null,"ref",1366,"Identität",
+  "identitat, personale"
+ ],
+ ["Identität, personale","Apperzeption","","1","449","ref",212,"Apperzeption","identitat, personale"],
+ ["Identität, personale","Person","III","7","314","ref",2318,"Person","identitat, personale"],
+ ["Identität, personale","Selbst","II","9","295ff.","ref",2820,"Selbst","identitat, personale"],
+ [
+  "Identität, soziale","Identität; Ich-Identität","","4","150","ref",1367,"Identität, Ich-Identität",
+  "identitat, soziale"
+ ],
+ ["Identität, teilweise","Aufheben","(Hegel)","1","620","ref",288,"Aufheben","identitat, teilweise"],
+ [
+  "Identität der Idealität und Realität","Subjekt/Objekt","IV","10","416","ref",3049,
+  "Subjekt/Objekt; subjektiv/objektiv","identitat der idealitat und realitat"
+ ],
+ [
+  "Identität der Identität und Nichtidentität","Absolut; das Absolute","","1","23","ref",27,
+  "Absolut, das Absolute","identitat der identitat und nichtidentitat"
  ],
  [
   "Identitätsaussage","Sinn/Bedeutung","","9","808f.","ref",2889,"Sinn/Bedeutung",
   "identitatsaussage"
  ],
- ["Identitätskonflikt","Scham C","4","8","1215","ref",2752,"Schamanismus","identitatskonflikt"],
+ ["Identitätskonflikt","Scham","C 4","8","1215","ref",2751,"Scham, Scheu","identitatskonflikt"],
  ["Identitätskrise","Krise","III (psych.)","4","1244","ref",1691,"Krise","identitatskrise"],
  [
   "Identitätsphilosophie","Identitätsphilosophie","(Schelling)","4","151f.","main",1368,
@@ -543,7 +598,7 @@ HWPH.put("r/69-64",
   "Idealismus, objektiver","identitatsphilosophie"
  ],
  [
-  "Identitätsphilosophie","Identitätssystem (Schelling)","",null,null,"see",1370,
+  "Identitätsphilosophie","Identitätssystem","(Schelling)",null,null,"see",1370,
   "Identitätssystem, Identität, Indifferenz","identitatsphilosophie"
  ],
  [
@@ -565,18 +620,25 @@ HWPH.put("r/69-64",
  ],
  ["Identitätsprinzip","Identität","II","4","146","ref",1366,"Identität","identitatsprinzip"],
  ["Identitätsprinzip","Prinzip","III 2","7","1360f.","ref",2458,"Prinzip","identitatsprinzip"],
- ["Identitätsprinzip","Satz","",null,null,"ref",2745,"Satz","identitatsprinzip"],
  [
-  "Identitätssystem (Schelling)","Identitätssystem (Schelling)","","4","153–157","main",1370,
-  "Identitätssystem, Identität, Indifferenz","identitatssystem (schelling)"
+  "Identitätsprinzip","Satz vom (ausgeschlossenen)Widerspruch","","8","1202","ref",2748,
+  "Satz vom (ausgeschlossenen) Widerspruch","identitatsprinzip"
  ],
  [
-  "Identitätssystem (Schelling)","Identitätsphilosophie","(Schelling)",null,null,"see",1368,
-  "Identitätsphilosophie","identitatssystem (schelling)"
+  "Identitätsrepräsentation","Repräsentation","II (pol.)","8","814","ref",2686,"Repräsentation",
+  "identitatsreprasentation"
  ],
  [
-  "Identitätssystem (Schelling)","Potenzen I (Schelling)","",null,null,"see",2423,"Potenz, Potenzen",
-  "identitatssystem (schelling)"
+  "Identitätssystem","Identitätssystem","(Schelling)","4","153–157","main",1370,
+  "Identitätssystem, Identität, Indifferenz","identitatssystem"
+ ],
+ [
+  "Identitätssystem","Identitätsphilosophie","(Schelling)",null,null,"see",1368,
+  "Identitätsphilosophie","identitatssystem"
+ ],
+ [
+  "Identitätssystem","Potenzen","I (Schelling)",null,null,"see",2423,"Potenz, Potenzen",
+  "identitatssystem"
  ],
  [
   "Identitätstheorie","Identitätstheorie","","4","157","main",1371,"Identitätstheorie",
@@ -638,6 +700,7 @@ HWPH.put("r/69-64",
   "Idiogenetisch","Idiogenetisch","(Hillebrand)","4","186","main",1375,"Idiogenetisch",
   "idiogenetisch"
  ],
+ ["idiographisch","Erklären","I (Dilthey)","2","692","ref",801,"Erklären, Erklärung","idiographisch"],
  [
   "idiographisch/nomothetisch","Individualisieren/Generalisieren","",null,null,"ref",1416,
   "Individualisieren/Generalisieren","idiographisch/nomothetisch"
@@ -672,7 +735,7 @@ HWPH.put("r/69-64",
   "idiomenkommunikation"
  ],
  [
-  "idioscopic","Phaneroskopie (Peirce)","","7","460","ref",2339,"Phaneroskopie, Phaneron",
+  "idioscopic","Phaneroskopie","(Peirce)","7","460","ref",2339,"Phaneroskopie, Phaneron",
   "idioscopic"
  ],
  ["Idiosynkrasie","Idiosynkrasie","","4","187","main",1377,"Idiosynkrasie","idiosynkrasie"],
@@ -693,8 +756,6 @@ HWPH.put("r/69-64",
  ["idos","Idee","II A 1","4","67","ref",1361,"Idee","idos"],
  ["Idylle","Idylle","","4","192–197","main",1380,"Idylle","idylle"],
  ["Idylle","Arkadisch; Arkadien","",null,null,"see",248,"Arkadisch, Arkadien","idylle"],
- ["Idylle","Zeitalter, goldenes","",null,null,"see",3677,"Zeitalter, goldenes","idylle"],
- ["Identifikation","Identifikation","I","4","140f.","main",1365,"Identifikation","identifikation"],
- ["Idee","Idee","III","4","106","main",1361,"Idee","idee"]
+ ["Idylle","Zeitalter, goldenes","",null,null,"see",3677,"Zeitalter, goldenes","idylle"]
 ]
 );

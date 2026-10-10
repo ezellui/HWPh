@@ -27,8 +27,8 @@ HWPH.put("a/1616",
   {"term":"concupiscentia","qualifier":"","band":null,"col":null},
   {"term":"cupiditas","qualifier":"","band":"4","col":"969"},
   {"term":"Lust des Fleisches","qualifier":"","band":"4","col":"969"},
-  {"term":"ἐπιθυμία","qualifier":"","band":null,"col":null},
-  {"term":"– I (allg.) 10 1483–1488 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
+  {"term":"ἐπιθυμία","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":7,"name":"Augustinus","b":1,"n":2,"l":0,"editor":0,"role":"source"},

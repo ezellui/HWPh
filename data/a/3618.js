@@ -41,7 +41,7 @@ HWPH.put("a/3618",
  ],
  "register":[
   {"term":"Cercle de Vienne","qualifier":"","band":null,"col":null},
-  {"term":"K","qualifier":"","band":null,"col":null},
+  {"term":"logischer","qualifier":"","band":null,"col":null},
   {"term":"Vienna Circle","qualifier":"","band":null,"col":null},
   {"term":"Weltauffassung, wissenschaftliche","qualifier":"","band":null,"col":null}
  ],

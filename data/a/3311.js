@@ -43,14 +43,16 @@ HWPH.put("a/3311",
   {"term":"eindeutig","qualifier":"","band":null,"col":null},
   {"term":"fallacia aequivocationis","qualifier":"I","band":"11","col":"226"},
   {"term":"fallacia secundum univocationem","qualifier":"I","band":"11","col":"226"},
+  {"term":"Familienähnlichkeit","qualifier":"II","band":"11","col":"230"},
   {"term":"identitas","qualifier":"II","band":"11","col":"229"},
-  {"term":"II 9 1536","qualifier":"II","band":"11","col":"230"},
   {"term":"impositio","qualifier":"I","band":"11","col":"226"},
   {"term":"multivocalism","qualifier":"II","band":"11","col":"230"},
   {"term":"realitas","qualifier":"II","band":"11","col":"229"},
   {"term":"superunivocatio","qualifier":"II","band":"11","col":"228"},
   {"term":"Trugschluss","qualifier":"I","band":"11","col":"226"},
-  {"term":"univocatio","qualifier":"","band":null,"col":null}
+  {"term":"univocatio","qualifier":"","band":null,"col":null},
+  {"term":"univocitas","qualifier":"","band":null,"col":null},
+  {"term":"Univokation","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2108,"name":"Johannes Canonicus","b":0,"n":5,"l":0,"editor":0,"role":"mixed"},

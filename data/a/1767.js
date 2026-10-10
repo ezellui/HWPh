@@ -17,7 +17,7 @@ HWPH.put("a/1767",
  "next":{"id":1768,"lemma":"Lehrsatz","band":"5","col":173},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"– VI (lit. Formen) 7 848–858 s. auch","qualifier":"","band":null,"col":null}],
+ "register":[],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":19,"name":"J. W. Goethe","b":1,"n":1,"l":0,"editor":0,"role":"source"},

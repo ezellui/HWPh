@@ -17,7 +17,7 @@ HWPH.put("a/1188",
  "next":{"id":1189,"lemma":"Großmut","band":"3","col":887},
  "backlinks":[],
  "outlinks":[],
- "register":[],
+ "register":[{"term":"historische Grösse","qualifier":"(Burckhardt)","band":null,"col":null}],
  "persons":[
   {"id":344,"name":"J. Burckhardt","b":2,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":4,"name":"G. W. F. Hegel","b":0,"n":1,"l":0,"editor":0,"role":"source"},

@@ -30,7 +30,7 @@ HWPH.put("a/254",
  ],
  "outlinks":[{"id":991,"lemma":"Gattung, Genus","n":2},{"id":2461,"lemma":"Privation","n":1}],
  "register":[
-  {"term":"Art (biol.)","qualifier":"","band":null,"col":null},
+  {"term":"Art (biol.)","qualifier":"II-III","band":null,"col":null},
   {"term":"Artumwandlung","qualifier":"III","band":"1","col":"528"},
   {"term":"generatio hybrida","qualifier":"III","band":"1","col":"530"},
   {"term":"Klassifikation (biol.)","qualifier":"III","band":"1","col":"529"},
@@ -39,8 +39,7 @@ HWPH.put("a/254",
   {"term":"Umwelt","qualifier":"III","band":"1","col":"528"},
   {"term":"Varietät (biol.)","qualifier":"III","band":"1","col":"530"},
   {"term":"γένος","qualifier":"II","band":null,"col":null},
-  {"term":"ἐ͂ιδος","qualifier":"","band":null,"col":null},
-  {"term":"– II/III (log.) 9 1342–1350 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"ἐ͂ιδος","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":218,"name":"Theophrast","b":4,"n":7,"l":0,"editor":0,"role":"source"},
@@ -133,7 +132,8 @@ HWPH.put("a/254",
  "see_also":[
   {"id":236,"lemma":"Arbor porphyriana, porphyrischer Baum"},
   {"id":991,"lemma":"Gattung, Genus"},
-  {"id":2966,"lemma":"Species"}
+  {"id":2966,"lemma":"Species"},
+  {"id":3328,"lemma":"Unterschied, spezifischer"}
  ],
  "groups":[
   {"id":3,"name":"Antike Philosophie","label":"Art I-II"},

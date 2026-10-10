@@ -1,24 +1,17 @@
 HWPH.put("r/69-6c",
 [
- [
-  "Illuminaten; Illuminisme","Illuminaten; Illuminisme","",null,null,"main",1386,
-  "Illuminaten, Illuminisme","illuminaten; illuminisme"
- ],
  ["iliaster","Materie","IV 1","5","913","ref",1892,"Materie","iliaster"],
  ["illata","Eigenschaft","III (psych.)","2","338","ref",666,"Eigenschaft","illata"],
  ["illatio","Schluss","",null,null,"ref",2769,"Schluß","illatio"],
  [
-  "Illative sense (Newman)","Illative sense (Newman)","","4","201f.","main",1385,"Illative Sense",
-  "illative sense (newman)"
+  "Illative sense","Illative sense","(Newman)","4","201f.","main",1385,"Illative Sense",
+  "illative sense"
  ],
  [
-  "Illative sense (Newman)","Implicit Reasoning","(Newman)",null,null,"see",1398,
-  "Implicit Reasoning","illative sense (newman)"
+  "Illative sense","Implicit Reasoning","(Newman)",null,null,"see",1398,"Implicit Reasoning",
+  "illative sense"
  ],
- [
-  "Illative sense (Newman)","Zustimmung","II",null,null,"see",3715,"Zustimmung",
-  "illative sense (newman)"
- ],
+ ["Illative sense","Zustimmung","II",null,null,"see",3715,"Zustimmung","illative sense"],
  ["illocutionary force","Sprechakt","","9","1537","ref",2995,"Sprechakt","illocutionary force"],
  [
   "illokutionärer Akt","Lokutionärer Akt/illokutionärer Akt","",null,null,"ref",1833,
@@ -39,9 +32,10 @@ HWPH.put("r/69-6c",
  ["illuminatio","Teilhabe","","10","963","ref",3143,"Teilhabe","illuminatio"],
  ["Illuminationslehre","Irradiatio","",null,null,"ref",1496,"Irradiatio","illuminationslehre"],
  [
-  "Illuminisme","Illuminaten; Illuminisme illuminismo","",null,null,"ref",1386,
-  "Illuminaten, Illuminisme","illuminisme"
+  "Illuminisme","Illuminaten; Illuminisme","",null,null,"ref",1386,"Illuminaten, Illuminisme",
+  "illuminisme"
  ],
+ ["illuminismo","Aufklärung","",null,null,"ref",289,"Aufklärung","illuminismo"],
  ["illusio","Schein","",null,null,"ref",2757,"Schein","illusio"],
  ["illusio","Täuschung","",null,null,"ref",3135,"Täuschung","illusio"],
  ["Illusion","Illusion","","4","204–215","main",1387,"Illusion","illusion"],
@@ -57,10 +51,6 @@ HWPH.put("r/69-6c",
   "illustratio","Beispiel; Exempel","","1","820","ref",379,"Beispiel, Exempel, exemplarisch",
   "illustratio"
  ],
- ["illustratio animae","Erleuchtung","","2","715","ref",807,"Erleuchtung","illustratio animae"],
- [
-  "Illative sense (Newman) Urteilung","Illative sense (Newman) Urteilung","",null,null,"main",null,
-  null,"illative sense (newman) urteilung"
- ]
+ ["illustratio animae","Erleuchtung","","2","715","ref",807,"Erleuchtung","illustratio animae"]
 ]
 );

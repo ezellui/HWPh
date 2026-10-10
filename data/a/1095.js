@@ -18,7 +18,7 @@ HWPH.put("a/1095",
  "backlinks":[{"id":1093,"lemma":"Geschichtsphilosophie","n":1}],
  "outlinks":[],
  "register":[
-  {"term":"Drei-Stadien-Gesetz","qualifier":"","band":null,"col":null},
+  {"term":"Fortschritt","qualifier":"","band":null,"col":null},
   {"term":"Revolution","qualifier":"","band":null,"col":null},
   {"term":"Ursache/Wirkung (hist.)","qualifier":"","band":null,"col":null}
  ],

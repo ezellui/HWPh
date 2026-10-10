@@ -47,9 +47,9 @@ HWPH.put("a/3108",
   {"term":"connotatio","qualifier":"","band":"10","col":"789"},
   {"term":"consignificans","qualifier":"","band":"10","col":"787f."},
   {"term":"des Urteils","qualifier":"","band":null,"col":null},
-  {"term":"inneres","qualifier":"","band":"10","col":"794"},
   {"term":"Null","qualifier":"","band":"10","col":"790"},
   {"term":"officium (sprach.)","qualifier":"","band":"10","col":"791"},
+  {"term":"oratio mentalis","qualifier":"","band":"10","col":"794"},
   {"term":"Redeteile","qualifier":"","band":null,"col":null},
   {"term":"significatio imperfecta","qualifier":"","band":"10","col":"793"},
   {"term":"signum","qualifier":"","band":"10","col":"789f."},
@@ -202,6 +202,6 @@ HWPH.put("a/3108",
  ],
  "see_also":[],
  "groups":[{"id":43,"name":"Sprachphilosophie und Semiotik","label":"Synkategorem"}],
- "reg_authors":[{"name":"Meier-Oeser Stephan","n":29}]
+ "reg_authors":[{"name":"Meier-Oeser Stephan","n":30}]
 }
 );

@@ -25,8 +25,8 @@ HWPH.put("a/3669",
   {"id":3682,"lemma":"Zen","n":1}
  ],
  "register":[
-  {"term":"819","qualifier":"","band":"12","col":"1117"},
   {"term":"dunkel","qualifier":"","band":null,"col":null},
+  {"term":"Erhabene, das","qualifier":"","band":"12","col":"1117"},
   {"term":"Geheimnisvolles","qualifier":"","band":null,"col":null},
   {"term":"Tiefe","qualifier":"","band":null,"col":null},
   {"term":"undurchdringlich","qualifier":"","band":null,"col":null}

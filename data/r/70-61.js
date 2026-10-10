@@ -3,28 +3,35 @@ HWPH.put("r/70-61",
  ["Parusie","Parusie","",null,null,"main",2286,"Parusie","parusie"],
  ["Parusie","Zukunft; Vergangenheit","","12","1433","ref",3708,"Zukunft; Vergangenheit","parusie"],
  [
-  "Passivität; passive Synthesis","Passivität; passive Synthesis","",null,null,"main",2288,
-  "Passivität, passive Synthesis","passivitat; passive synthesis"
+  "Pathetische Afferenz/Efferenz","Reflex","","8","393","ref",2633,"Reflex, Reflexbewegung",
+  "pathetische afferenz/efferenz"
  ],
  [
-  "Passivität; passive Synthesis","Protention","(Husserl)","7","1529","ref",2488,"Protention",
-  "passivitat; passive synthesis"
+  "Passivität; passive","Passivität; passive","",null,null,"main",2288,
+  "Passivität, passive Synthesis","passivitat; passive"
  ],
- ["Pathologie","Pathologie","III","7","185","main",2292,"Pathologie","pathologie"],
- ["Palingenesie","Palingenesie","I (allg.)","7","40f.","main",2259,"Palingenesie","palingenesie"],
- ["Palingenesie","Unsterblichkeit","II","11","278","ref",3323,"Unsterblichkeit","palingenesie"],
- ["Parabel; Fabel","Parabel; Fabel","",null,null,"main",2268,"Parabel, Fabel","parabel; fabel"],
- [
-  "Parabel; Fabel","Narrativ; Narrativität","","6","400","ref",2068,"Narrativ, Narrativität",
-  "parabel; fabel"
- ],
- [
-  "Pathisch; Pathik","Pathisch; Pathik","I","7","177","main",2290,"Pathisch, Pathik",
-  "pathisch; pathik"
- ],
+ ["Pathetische","Pathos","",null,null,"ref",2294,"Pathos","pathetische"],
+ ["Pathetische","Schöne, das","",null,null,"ref",2776,"Schöne","pathetische"],
+ ["Pathetische","Schreckliche, das","",null,null,"ref",2780,"Schreckliche","pathetische"],
  [
   "Passivität; passive Synthesis","Passivität; passive Synthesis","","7","165","main",2288,
   "Passivität, passive Synthesis","passivitat; passive synthesis"
+ ],
+ [
+  "Pathetische Leidenschaftslosigkeit","Apathie","",null,null,"ref",198,"Apathie",
+  "pathetische leidenschaftslosigkeit"
+ ],
+ [
+  "Pathetische Leidenschaftslosigkeit","Ataraxie","",null,null,"ref",272,"Ataraxie",
+  "pathetische leidenschaftslosigkeit"
+ ],
+ [
+  "Paradigma; exemplar","Paradigma; exemplar","",null,null,"main",2269,"Paradigma, exemplar",
+  "paradigma; exemplar"
+ ],
+ [
+  "Paradigma; exemplar","Realisierung","I","8","145","ref",2587,"Realisierung, Realisation",
+  "paradigma; exemplar"
  ],
  ["pacte fondamental","Vertrag","II (soz./pol.)","11","971","ref",3445,"Vertrag","pacte fondamental"],
  [
@@ -52,8 +59,12 @@ HWPH.put("r/70-61",
   "Gesellschaftsvertrag, Herrschaftsvertrag","pactum unionis"
  ],
  ["pactum unionis","Staat","I","10","15","ref",2998,"Staat","pactum unionis"],
- ["paedagogica","Religion","",null,null,"ref",2673,"Religion","paedagogica"],
- ["Pädagogik s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"padagogik s. auch"],
+ [
+  "paedagogica","Religion, natürliche bzw. vernünftige","","8","717","ref",2674,"Religion",
+  "paedagogica"
+ ],
+ ["Pädagogie, göttliche","Pädagogik","","7","2","ref",2256,"Pädagogik","padagogie, gottliche"],
+ ["Pädagogik","Register der Sachgruppen","",null,null,"see",null,null,"padagogik"],
  ["Pädagogik","Pädagogik","","7","1–35","main",2256,"Pädagogik","padagogik"],
  [
   "Pädagogik","Geisteswissenschaftliche Pädagogik","",null,null,"see",1037,
@@ -61,7 +72,12 @@ HWPH.put("r/70-61",
  ],
  ["Pädagogik","Kulturpädagogik","",null,null,"see",1707,"Kulturpädagogik","padagogik"],
  ["Pädagogik","Sozialpädagogik","",null,null,"see",2949,"Sozialpädagogik","padagogik"],
- ["Pädagogik","Werterziehung Pädagogik","",null,null,"see",null,null,"padagogik"],
+ [
+  "Pädagogik","Werterziehung","",null,null,"see",3591,
+  "Werterziehung; moralische Erziehung; Moralpädagogik","padagogik"
+ ],
+ ["Pädagogik","Bildung","","1","929f.","ref",435,"Bildung","padagogik"],
+ ["Pädagogik","Natur, zweite","I","6","488","ref",2077,"Natur, zweite","padagogik"],
  ["Pädagogik, angewandte","Pädagogik","","7","20","ref",2256,"Pädagogik","padagogik, angewandte"],
  [
   "Pädagogik, emanzipatorische","Pädagogik","","7","34","ref",2256,"Pädagogik",
@@ -91,12 +107,21 @@ HWPH.put("r/70-61",
  ["Paideia","Kind","","4","828","ref",1564,"Kind","paideia"],
  ["Paideia","Pädagogik","","7","1f.","ref",2256,"Pädagogik","paideia"],
  ["Paideuma","Paideuma","","7","39f.","main",2258,"Paideuma","paideuma"],
- ["Paideuma","Kulturmorphologie (Frobenius) παίδευσις","",null,null,"see",null,null,"paideuma"],
- ["Pädagogik","Pädagogik","","7","2","main",2256,"Pädagogik","padagogik"],
+ [
+  "Paideuma","Kulturmorphologie","(Frobenius)",null,null,"see",1706,
+  "Kulturmorphologie, Kulturkreislehre","paideuma"
+ ],
  ["paix","Friede","",null,null,"ref",955,"Friede","paix"],
  ["paix perpétuelle","Friede, ewiger","","2","1118","ref",956,"Friede, ewiger","paix perpetuelle"],
  ["Palingenesie","Palingenesie","","7","40–46","main",2259,"Palingenesie","palingenesie"],
  ["Palingenesie","Präformation","",null,null,"see",2433,"Präformation","palingenesie"],
+ ["Palingenesie","Wiedergeburt","",null,null,"see",3614,"Wiedergeburt","palingenesie"],
+ [
+  "Palingenesie","Grundgesetz, biogenetisches","",null,null,"see",1192,"Grundgesetz, biogenetisches",
+  "palingenesie"
+ ],
+ ["Palingenesie","Ontogenese","(Haeckel)",null,null,"see",2217,"Ontogenese","palingenesie"],
+ ["Palingenesie","Phylogenese","",null,null,"see",2367,"Phylogenese","palingenesie"],
  ["palingénésie","Regeneration","","8","476","ref",2646,"Regeneration","palingenesie"],
  [
   "palingénésie sociale","Palingenesie","I (allg.)","7","44","ref",2259,"Palingenesie",
@@ -150,23 +175,8 @@ HWPH.put("r/70-61",
  ["Pantragismus","Panlogismus","","7","49","ref",2262,"Panlogismus","pantragismus"],
  ["Parabel; Fabel","Parabel; Fabel","","7","65–74","main",2268,"Parabel, Fabel","parabel; fabel"],
  [
-  "Parabel; Fabel","Beispiel; Exempel παραβολή","",null,null,"see",379,
-  "Beispiel, Exempel, exemplarisch","parabel; fabel"
- ],
- [
-  "Parabel; Fabel παράδειγμα","Parabel; Fabel παράδειγμα","",null,null,"main",2268,"Parabel, Fabel",
-  "parabel; fabel παραδειγμα"
- ],
- [
-  "Paradigma; exemplar","Paradigma; exemplar","",null,null,"main",2269,"Paradigma, exemplar",
-  "paradigma; exemplar"
- ],
- ["Paradigma; exemplar","Urbild","",null,null,"ref",3339,"Urbild","paradigma; exemplar"],
- ["Paradigma; exemplar","Analogie","I (allg.)","1","216","ref",123,"Analogie","paradigma; exemplar"],
- ["Paradigma; exemplar","Archetypus","","1","497","ref",239,"Archetypus","paradigma; exemplar"],
- [
-  "Paradigma; exemplar","Typos; Typologie","I (theol.)","10","1587","ref",3244,"Typos; Typologie",
-  "paradigma; exemplar"
+  "Parabel; Fabel","Beispiel; Exempel","",null,null,"see",379,"Beispiel, Exempel, exemplarisch",
+  "parabel; fabel"
  ],
  ["Paradies","Sündenfall","",null,null,"ref",3076,"Sündenfall","paradies"],
  [
@@ -208,9 +218,22 @@ HWPH.put("r/70-61",
   "paradigmenwechsel"
  ],
  ["Paradox","Paradox","","7","81–97","main",2270,"Paradox, Paradox(e), Paradoxie","paradox"],
+ ["Paradox","Absurd","",null,null,"see",35,"Absurd","paradox"],
+ ["Paradox","Ärgernis","",null,null,"see",243,"Ärgernis","paradox"],
+ ["Paradox","Wunder","",null,null,"see",3659,"Wunder","paradox"],
+ ["Paradox","Antinomie","II (log.)",null,null,"see",185,"Antinomie","paradox"],
+ ["Paradox","Hörnerfrage","",null,null,"see",1311,"Hörnerfrage","paradox"],
+ ["Paradox","Insolubilia","",null,null,"see",1450,"Insolubilia","paradox"],
+ ["Paradox","Präsupposition","III",null,null,"see",2446,"Präsupposition","paradox"],
+ ["Paradox","Sorites","",null,null,"see",2928,"Sorites","paradox"],
+ ["Paradox","Trugschluss","",null,null,"see",3237,"Trugschluß","paradox"],
+ ["Paradox","Verhüllte, der","",null,null,"see",3408,"Verhüllte, der","paradox"],
+ ["Paradox","Widerspruch, performativer","",null,null,"see",3607,"Widerspruch","paradox"],
+ ["Paradox","Antinomie","I (allg.)","1","396","ref",185,"Antinomie","paradox"],
+ ["Paradox","Geschichte","V","3","376","ref",1085,"Geschichte, Historie","paradox"],
  ["Paradox der Toleranz","Toleranz","","10","1258","ref",3201,"Toleranz","paradox der toleranz"],
  [
-  "Paradox des Christentums","Paradox II (theol.)","",null,null,"ref",2270,
+  "Paradox des Christentums","Paradox","II (theol.)",null,null,"ref",2270,
   "Paradox, Paradox(e), Paradoxie","paradox des christentums"
  ],
  [
@@ -219,8 +242,12 @@ HWPH.put("r/70-61",
  ],
  ["Paradoxie, modale","Modallogik","II","6","29","ref",1997,"Modallogik","paradoxie, modale"],
  [
-  "Paradoxien, semantische","Paradox III (log.) Paradoxien der Implikation","",null,null,"ref",null,
-  null,"paradoxien, semantische"
+  "Paradoxien, semantische","Paradox","III (log.)",null,null,"ref",2270,
+  "Paradox, Paradox(e), Paradoxie","paradoxien, semantische"
+ ],
+ [
+  "Paradoxien der Implikation","Implikation","8",null,null,"ref",1399,"Implikation",
+  "paradoxien der implikation"
  ],
  [
   "Paradoxon der Methode","Verkehrung","","11","708f.","ref",3412,"Verkehrung",
@@ -281,12 +308,15 @@ HWPH.put("r/70-61",
   "parallelismus, psychophysischer"
  ],
  ["Paralogismus","Paralogismus","","7","107–115","main",2273,"Paralogismus","paralogismus"],
- ["Paralogismus","Irrtum","(Schlussfehler)",null,null,"see",1499,"Irrtum","paralogismus"],
  [
-  "Paralogismus","Sophisma Paralogismus, transzendentaler","",null,null,"see",null,null,
+  "Paralogismus","Irrtum (Schlussfehler)","",null,null,"see",1500,"Irrtum (Schlußfehler)",
   "paralogismus"
  ],
- ["Paralogismus","Paralogismus","","7","112f.","main",2273,"Paralogismus","paralogismus"],
+ ["Paralogismus","Sophisma","",null,null,"see",2925,"Sophisma; Sophismata","paralogismus"],
+ [
+  "Paralogismus, transzendentaler","Paralogismus","","7","112f.","ref",2273,"Paralogismus",
+  "paralogismus, transzendentaler"
+ ],
  [
   "Paralyse, progressive","Psychiatrie","","7","1571","ref",2505,"Psychiatrie",
   "paralyse, progressive"
@@ -340,8 +370,12 @@ HWPH.put("r/70-61",
  ],
  ["Parlamentarismuskritik","Diskussion","","2","262","ref",612,"Diskussion","parlamentarismuskritik"],
  ["Parodie","Parodie","","7","122–129","main",2277,"Parodie","parodie"],
- ["Parodie","Lächerliche","",null,null,"see",1723,"Lächerliche","parodie"],
- ["parole intérieure","Wort","",null,null,"ref",3656,"Wort","parole interieure"],
+ ["Parodie","Lächerliche, das","",null,null,"see",1723,"Lächerliche","parodie"],
+ ["Parodie","Satire","",null,null,"see",2742,"Satire, satirisch","parodie"],
+ ["parole","Langue/Parole","(Saussure)",null,null,"ref",1728,"Langue/Parole","parole"],
+ ["parole","Sprache","",null,null,"ref",2985,"Sprache","parole"],
+ ["parole intérieure","Wort, inneres","",null,null,"ref",3656,"Wort","parole interieure"],
+ ["Paronomasie","Paronym","","7","131","ref",2279,"Paronym","paronomasie"],
  ["Parontologie","Parontologie","(Becker)","7","130","main",2278,"Parontologie","parontologie"],
  [
   "Parontologie","Fundamentalontologie","(Heidegger)",null,null,"see",967,"Fundamentalontologie",
@@ -356,8 +390,12 @@ HWPH.put("r/70-61",
   "pars sanior/maior"
  ],
  [
-  "Pars sanior/maior","Mehrheit; Mehrheitsprinzip pars sanior/maior","",null,null,"see",1909,
+  "Pars sanior/maior","Mehrheit; Mehrheitsprinzip","",null,null,"see",1909,
   "Mehrheit, Mehrheitsprinzip","pars sanior/maior"
+ ],
+ [
+  "pars sanior/maior","Repräsentation","II (pol.)","8","815","ref",2686,"Repräsentation",
+  "pars sanior/maior"
  ],
  ["part","Ganzes/Teil","",null,null,"ref",986,"Ganzes/Teil","part"],
  ["part","Rolle","",null,null,"ref",2722,"Rolle","part"],
@@ -368,13 +406,30 @@ HWPH.put("r/70-61",
  ],
  ["Parteigänger","Partisan","",null,null,"ref",2285,"Partisan","parteiganger"],
  ["Parteilichkeit","Parteilichkeit","","7","138–146","main",2282,"Parteilichkeit","parteilichkeit"],
+ [
+  "Parteilichkeit","Methode, historische","",null,null,"see",1960,"Methode, historische",
+  "parteilichkeit"
+ ],
+ [
+  "Parteilichkeit","Standpunkt; Gesichtspunkt","",null,null,"see",3012,"Standpunkt; Gesichtspunkt",
+  "parteilichkeit"
+ ],
+ ["Parteilichkeit","Unparteilichkeit","",null,null,"see",3316,"Unparteilichkeit","parteilichkeit"],
+ [
+  "Parteilichkeit","Intelligenz; Intellektueller","IV (marx.)",null,null,"see",1464,
+  "Intelligenz, Intelligentsia, Intellektueller","parteilichkeit"
+ ],
+ [
+  "Parteilichkeit","Objektivismus, bürgerlicher","",null,null,"see",2193,
+  "Objektivismus, bürgerlicher","parteilichkeit"
+ ],
  ["Parteilichkeit","Interesse","II","4","491","ref",1475,"Interesse","parteilichkeit"],
  [
   "Parteilichkeit","Kunst; Kunstwerk","IV 4","4","1409","ref",1712,"Kunst, Kunstwerk",
   "parteilichkeit"
  ],
  [
-  "Parteilichkeit","Perspektive I (allg.)","","7","369","ref",2326,
+  "Parteilichkeit","Perspektive","I (allg.)","7","369","ref",2326,
   "Perspektive, Perspektivismus, perspektivisch","parteilichkeit"
  ],
  [
@@ -423,7 +478,7 @@ HWPH.put("r/70-61",
   "particulare"
  ],
  [
-  "particulare","Individuum; Individualität II","",null,null,"ref",1424,"Individuum, Individualität",
+  "particulare","Individuum; Individualität","II",null,null,"ref",1424,"Individuum, Individualität",
   "particulare"
  ],
  [
@@ -450,9 +505,10 @@ HWPH.put("r/70-61",
  ["Partikularisator","Existenzaussage","",null,null,"see",865,"Existenzaussage","partikularisator"],
  ["Partikularisator","Quantifikation","",null,null,"see",2549,"Quantifikation","partikularisator"],
  ["Partikularisator","Quantifizierung","",null,null,"see",2551,"Quantifizierung","partikularisator"],
+ ["Partikularisator","Quantor","",null,null,"see",2554,"Quantor, Quantifikator","partikularisator"],
  [
-  "Partikularisator","Quantor Partikularisierung, hintere/vordere","",null,null,"see",null,null,
-  "partikularisator"
+  "Partikularisierung, hintere/vordere","Prädikatenlogik","","7","1192","ref",2426,
+  "Prädikatenlogik, Prädikatenkalkül","partikularisierung, hintere/vordere"
  ],
  ["Partikularismus","Universalismus","",null,null,"ref",3304,"Universalismus","partikularismus"],
  [
@@ -537,7 +593,7 @@ HWPH.put("r/70-61",
   "patefactio sui ipsius"
  ],
  [
-  "Patent","Invention; Erfindung I (allg.)","","4","547","ref",1490,
+  "Patent","Invention; Erfindung","I (allg.)","4","547","ref",1490,
   "Invention, Erfindung, Entdeckung","patent"
  ],
  ["pater familias","Bürger","","1","962","ref",459,"Bürger, bourgeois, citoyen","pater familias"],
@@ -584,12 +640,13 @@ HWPH.put("r/70-61",
   "Pathognomik","Gebärde; Gebärdensprache","",null,null,"see",992,"Gebärde, Gebärdensprache",
   "pathognomik"
  ],
- ["Pathognomik","Physiognomik Pathognomik","",null,null,"see",null,null,"pathognomik"],
+ ["Pathognomik","Physiognomik","",null,null,"see",2371,"Physiognomik, Physiognomie","pathognomik"],
+ ["Pathognomik","Verstellung","","11","940","ref",3439,"Verstellung","pathognomik"],
+ ["pathologia","Pathisch; Pathik","",null,null,"ref",2290,"Pathisch, Pathik","pathologia"],
  [
-  "pathologia","Pathisch; Pathik pathologia aesthetica","",null,null,"ref",2290,"Pathisch, Pathik",
-  "pathologia"
+  "pathologia aesthetica","Pathologisch","II (eth.)","7","192","ref",2293,"Pathologisch",
+  "pathologia aesthetica"
  ],
- ["Pathologisch","Pathologisch","II (eth.)","7","192","main",2293,"Pathologisch","pathologisch"],
  [
   "pathologia psychologica","Pathologisch","II (eth.)","7","192","ref",2293,"Pathologisch",
   "pathologia psychologica"
@@ -604,15 +661,27 @@ HWPH.put("r/70-61",
  ["Pathologie","Psychopathologie","",null,null,"see",2526,"Psychopathologie","pathologie"],
  ["Pathologie der Seele","Psychologie","","7","1604","ref",2511,"Psychologie","pathologie der seele"],
  ["Pathologisch","Pathologisch","","7","191–193","main",2293,"Pathologisch","pathologisch"],
+ ["Pathologisch","Normal; Normalität","I",null,null,"see",2161,"Normal, Normalität","pathologisch"],
+ ["Pathologisch","Affekt","",null,null,"see",53,"Affekt","pathologisch"],
  [
   "Pathopsychologie","Psychopathologie","II","7","1686","ref",2526,"Psychopathologie",
   "pathopsychologie"
  ],
  ["Pathos","Pathos","","7","193–199","main",2294,"Pathos","pathos"],
  ["Pathos","Erhabene, das","",null,null,"see",null,null,"pathos"],
+ ["Pathos","Pathetisch; das","",null,null,"see",2289,"Pathetisch, das Pathetische","pathos"],
+ ["Pathetische πάθος","Affekt","",null,null,"ref",53,"Affekt","pathetische παθοσ"],
+ ["Pathetische πάθος","Apathie","I (eth.)",null,null,"ref",198,"Apathie","pathetische παθοσ"],
+ ["Pathetische πάθος","Krankheit","",null,null,"ref",1681,"Krankheit","pathetische παθοσ"],
+ ["Pathetische πάθος","Pathos","",null,null,"ref",2294,"Pathos","pathetische παθοσ"],
  [
-  "Pathos","Pathetisch; das Pathetische πάθος","",null,null,"see",2289,"Pathetisch, das Pathetische",
-  "pathos"
+  "Pathetische πάθος","Substanz","I",null,null,"ref",3062,"Substanz; Substanz/Akzidens",
+  "pathetische παθοσ"
+ ],
+ ["Pathetische πάθος","Widerfahrnis","",null,null,"ref",3604,"Widerfahrnis","pathetische παθοσ"],
+ [
+  "Pathetische πάθος","Staunen","","10","116","ref",3015,"Staunen; Bewunderung; Verwunderung",
+  "pathetische παθοσ"
  ],
  ["Pathos","Theologie","","10","1086","ref",3169,"Theologie","pathos"],
  [
@@ -625,9 +694,10 @@ HWPH.put("r/70-61",
  ],
  ["Pathos der Distanz","Vornehm","(Nietzsche)",null,null,"see",3495,"Vornehm","pathos der distanz"],
  ["Pathosformel","Pathosformel","(Warburg)","7","201–203","main",2296,"Pathosformel","pathosformel"],
- ["Pathosformel","Mneme; Mnemosyne II 2","",null,null,"see",1989,"Mneme, Mnemosyne","pathosformel"],
+ ["Pathosformel","Mneme; Mnemosyne","II 2",null,null,"see",1989,"Mneme, Mnemosyne","pathosformel"],
  ["Pathosophie","Pathosophie","(Weizsäcker)","7","203f.","main",2297,"Pathosophie","pathosophie"],
- ["Pathosophie","Pathisch; Pathik pati","",null,null,"see",2290,"Pathisch, Pathik","pathosophie"],
+ ["Pathosophie","Pathisch; Pathik","",null,null,"see",2290,"Pathisch, Pathik","pathosophie"],
+ ["pati","Tun/Leiden","",null,null,"ref",3241,"Tun/Leiden","pati"],
  ["patientia","Geduld","",null,null,"ref",1004,"Geduld","patientia"],
  ["patria","Kosmopolitismus 1","",null,null,"ref",null,null,"patria"],
  ["patria","Vaterland","",null,null,"ref",3375,"Vaterland","patria"],
@@ -646,7 +716,12 @@ HWPH.put("r/70-61",
  ],
  ["Patriotismus","Patriotismus","","7","207–217","main",2299,"Patriotismus","patriotismus"],
  ["Patriotismus","Kosmopolitismus πατρίς","",null,null,"see",null,null,"patriotismus"],
- ["pattern","Kulturanthropologie","",null,null,"ref",1702,"Kulturanthropologie","pattern"],
+ [
+  "pattern","Kulturanthropologie, empirische","",null,null,"ref",1702,"Kulturanthropologie",
+  "pattern"
+ ],
+ ["pattern","Archetypus","","1","498","ref",239,"Archetypus","pattern"],
+ ["pattern","Struktur","V (soz.)","10","330","ref",3040,"Struktur","pattern"],
  ["pattern of behavior","Animalisch","","1","315","ref",146,"Animalisch","pattern of behavior"],
  [
   "Pauper; Pauperismus","Pauper; Pauperismus","","7","217f.","main",2300,"Pauper, Pauperismus",
@@ -669,6 +744,7 @@ HWPH.put("r/70-61",
  ["Pazifismus","Pazifismus","","7","218–229","main",2301,"Pazifismus","pazifismus"],
  ["Pazifismus","Friede","",null,null,"see",955,"Friede","pazifismus"],
  ["Pazifismus","Friede, ewiger","",null,null,"see",956,"Friede, ewiger","pazifismus"],
+ ["Pathetische","Umschlag","",null,null,"ref",3275,"Umschlag","pathetische"],
  ["Pathologie","Pathologie","IV","7","190","main",2292,"Pathologie","pathologie"],
  ["Pansophie","Pansophie","","7","58","main",2265,"Pansophie","pansophie"],
  [
@@ -684,7 +760,7 @@ HWPH.put("r/70-61",
   "Pagnoni-Sturlese Maria Rita","Reinheit; Reinigung","III 2","8","543–545","author",2660,
   "Reinheit, Reinigung","pagnoni-sturlese maria rita"
  ],
- ["Pankoke Eckart","Masse II (soz.)","","5","828–832","author",1878,"Masse, Massen","pankoke eckart"],
+ ["Pankoke Eckart","Masse","II (soz.)","5","828–832","author",1878,"Masse, Massen","pankoke eckart"],
  ["Pankoke Eckart","Soziale Frage","","9","1129–1134","author",2940,"Soziale Frage","pankoke eckart"],
  ["Pankoke Eckart","Sozialpolitik","","9","1227–1236","author",2951,"Sozialpolitik","pankoke eckart"],
  [

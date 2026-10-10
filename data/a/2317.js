@@ -20,6 +20,7 @@ HWPH.put("a/2317",
  "register":[
   {"term":"Beharrungsvermögen","qualifier":"","band":"7","col":"268"},
   {"term":"Gedächtnisspur","qualifier":"","band":"7","col":"268"},
+  {"term":"Rigidität","qualifier":"","band":"7","col":"268"},
   {"term":"Spaltungsvermögen","qualifier":"","band":"7","col":"268"}
  ],
  "persons":[

@@ -23,11 +23,9 @@ HWPH.put("a/1336",
  "outlinks":[],
  "register":[
   {"term":"Anrede","qualifier":"","band":null,"col":null},
-  {"term":"Aufheben","qualifier":"","band":"4","col":"20"},
   {"term":"Begegnung","qualifier":"","band":"4","col":"20f."},
-  {"term":"der","qualifier":"","band":null,"col":null},
-  {"term":"Zwiesprache","qualifier":"","band":"4","col":"20f."},
-  {"term":"– I (anthr.) 4 893–895 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Dialektik","qualifier":"","band":"4","col":"20"},
+  {"term":"Zwiesprache","qualifier":"","band":"4","col":"20f."}
  ],
  "persons":[
   {"id":204,"name":"M. Buber","b":5,"n":3,"l":0,"editor":0,"role":"source"},
@@ -64,7 +62,14 @@ HWPH.put("a/1336",
   {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2},
   {"id":2781,"lemma":"Schrift","tf":2}
  ],
- "see_also":[{"id":137,"lemma":"Andere"}],
+ "see_also":[
+  {"id":137,"lemma":"Andere"},
+  {"id":585,"lemma":"Dialog, dialogisch"},
+  {"id":639,"lemma":"Du"},
+  {"id":950,"lemma":"Fremdich"},
+  {"id":1591,"lemma":"Kommunikation"},
+  {"id":1670,"lemma":"Korrelation"}
+ ],
  "groups":[{"id":2,"name":"Anthropologie","label":"Ich-Du-Verhältnis"}],
  "reg_authors":[{"name":"Theunissen Michael","n":17}]
 }

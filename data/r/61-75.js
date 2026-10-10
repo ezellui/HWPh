@@ -25,7 +25,7 @@ HWPH.put("r/61-75",
   "ausserung, performative"
  ],
  [
-  "Äusserungen des Inneren","Entäusserung aevitas; aeviternitas","",null,null,"ref",null,null,
+  "Äusserungen des Inneren","Entäusserung","",null,null,"ref",745,"Entäußerung",
   "ausserungen des inneren"
  ],
  ["auctor","Autor","",null,null,"ref",331,"Autor","auctor"],
@@ -78,9 +78,10 @@ HWPH.put("r/61-75",
   "Aufforderungscharakter","aufforderungscharakter"
  ],
  [
-  "Aufforderungscharakter","Feld II (psych.) Aufführung","",null,null,"see",null,null,
+  "Aufforderungscharakter","Feld","II (psych.)",null,null,"see",904,"Feld, Feldtheorie",
   "aufforderungscharakter"
  ],
+ ["Aufführung","Performance","",null,null,"ref",2308,"Performance","auffuhrung"],
  [
   "Aufgabe; aufgegeben","Aufgabe; aufgegeben","","1","618","main",287,"Aufgabe, aufgegeben",
   "aufgabe; aufgegeben"
@@ -133,7 +134,13 @@ HWPH.put("r/61-75",
   "Aufmerksamkeit","Apperzeptionspsychologie","",null,null,"see",214,"Apperzeptionspsychologie",
   "aufmerksamkeit"
  ],
- ["Aufmerksamkeit","Bewusstsein Aufmerksamkeit","",null,null,"see",null,null,"aufmerksamkeit"],
+ ["Aufmerksamkeit","Bewusstsein","",null,null,"see",412,"Bewußtsein","aufmerksamkeit"],
+ ["Aufmerksamkeit","Bahnung","",null,null,"ref",343,"Bahnung","aufmerksamkeit"],
+ ["Aufmerksamkeit","Umsicht","",null,null,"ref",3276,"Umsicht","aufmerksamkeit"],
+ ["Aufmerksamkeit","Gedächtnis","","3","39","ref",996,"Gedächtnis","aufmerksamkeit"],
+ ["Aufmerksamkeit","Spannung","IV (psych.)","9","1294","ref",2961,"Spannung","aufmerksamkeit"],
+ ["Aufmerksamkeit","Wille","III B","12","790","ref",3620,"Wille","aufmerksamkeit"],
+ ["Aufmerksamkeit","Zerstreuung","I (anthr.)","12","1312","ref",3690,"Zerstreuung","aufmerksamkeit"],
  ["Aufmerksamkeitsdefizit","Vigilanz","","11","1057","ref",3464,"Vigilanz","aufmerksamkeitsdefizit"],
  [
   "Aufmerksamkeitsspanne","Aufmerksamkeitsspanne","","1","645f.","main",291,"Aufmerksamkeitsspanne",
@@ -207,6 +214,8 @@ HWPH.put("r/61-75",
  ["Auge","Vernunft; Verstand","III B","11","772","ref",3423,"Vernunft; Verstand","auge"],
  ["Auge der Seele","Sehen","II","9","138","ref",2802,"Sehen","auge der seele"],
  ["Auge der Seele","Sinne, die","","9","831","ref",2892,"Sinne, die","auge der seele"],
+ ["Auge der Seele","Stimme","","10","160","ref",3025,"Stimme","auge der seele"],
+ ["Auge der Seele","Visio","","11","1068","ref",3468,"Visio","auge der seele"],
  ["Auge des Geistes","Sinne, die","","9","842","ref",2892,"Sinne, die","auge des geistes"],
  [
   "Auge des Geistes","Vernunft; Verstand","III B","11","772","ref",3423,"Vernunft; Verstand",
@@ -259,13 +268,14 @@ HWPH.put("r/61-75",
  ["Augustinismus","Augustinismus","","1","650–652","main",296,"Augustinismus","augustinismus"],
  ["Aulodik","Apollinisch/dionysisch","I","1","443","ref",205,"Apollinisch/dionysisch","aulodik"],
  ["Aura","Aura","(Benjamin)","1","652f.","main",297,"Aura","aura"],
- ["Aura","Kunst; Kunstwerk IV 7","",null,null,"see",1712,"Kunst, Kunstwerk","aura"],
+ ["Aura","Kunst; Kunstwerk","IV 7",null,null,"see",1712,"Kunst, Kunstwerk","aura"],
  ["Aura","Rettung","II (Benjamin)",null,null,"see",2700,"Rettung","aura"],
  ["Aura (Benjamin)","Landschaft","III (ästh.)","5","25","ref",1726,"Landschaft","aura (benjamin)"],
  ["aura vitalis","Archeus","","1","501","ref",240,"Archeus","aura vitalis"],
  ["aurum potabile","Quintessenz","","7","1839","ref",2559,"Quintessenz","aurum potabile"],
  ["Ausbeutung","Expropriation","",null,null,"ref",879,"Expropriation","ausbeutung"],
- ["Ausbeutung","Unterdrückung Ausbildung","",null,null,"ref",null,null,"ausbeutung"],
+ ["Ausbeutung","Unterdrückung","",null,null,"ref",3324,"Unterdrückung; Repression","ausbeutung"],
+ ["Ausbildung","Bildung","",null,null,"ref",435,"Bildung","ausbildung"],
  [
   "Ausbleiben","Seinsvergessenheit","(Heidegger)","9","264","ref",2815,"Seinsvergessenheit",
   "ausbleiben"
@@ -289,6 +299,26 @@ HWPH.put("r/61-75",
   "ausdifferenzierung des lebens"
  ],
  ["Ausdruck","Ausdruck","","1","653–662","main",298,"Ausdruck","ausdruck"],
+ ["Ausdruck","Ausdrucksbewegung","",null,null,"see",299,"Ausdrucksbewegung","ausdruck"],
+ ["Ausdruck","Ausdrucksgeben","",null,null,"see",300,"Ausdrucksgeben","ausdruck"],
+ ["Ausdruck","Ausdruckspsychologie","",null,null,"see",302,"Ausdruckspsychologie","ausdruck"],
+ ["Ausdruck","Ausdrucksverstehen","",null,null,"see",303,"Ausdrucksverstehen","ausdruck"],
+ ["Ausdruck","Eindruck","II (psych.)",null,null,"see",674,"Eindruck","ausdruck"],
+ ["Ausdruck","Pathognomik","",null,null,"see",2291,"Pathognomik","ausdruck"],
+ ["Ausdruck","Physiognomik","",null,null,"see",2371,"Physiognomik, Physiognomie","ausdruck"],
+ ["Ausdruck","Bedeutungserfüllung","(Husserl)",null,null,"ref",349,"Bedeutungserfüllung","ausdruck"],
+ ["Ausdruck","Gott","VIII","3","779","ref",1162,"Gott","ausdruck"],
+ ["Ausdruck","Intuition","","4","537","ref",1487,"Intuition","ausdruck"],
+ [
+  "Ausdruck","Mundus intelligibilis/sensibilis","","6","239","ref",2040,
+  "Mundus intelligibilis/sensibilis","ausdruck"
+ ],
+ ["Ausdruck","Organonmodell der Sprache","","6","1369","ref",2248,"Organprimitivismen","ausdruck"],
+ ["Ausdruck","Repräsentation","I 4","8","808ff.","ref",2686,"Repräsentation","ausdruck"],
+ ["Ausdruck","Seele","IV","9","34","ref",2794,"Seele","ausdruck"],
+ ["Ausdruck","Seele","V","9","76","ref",2794,"Seele","ausdruck"],
+ ["Ausdruck","Terminologie","","10","1010","ref",3152,"Terminologie","ausdruck"],
+ ["Ausdruck","Verstehen","","11","924f.","ref",3438,"Verstehen","ausdruck"],
  ["Ausdruck (log.)","Figur","III (log.)",null,null,"ref",916,"Figur","ausdruck (log.)"],
  [
   "Ausdruck, anthropologischer","Transzendental","XII","10","1433","ref",3219,"Transzendental",
@@ -328,14 +358,14 @@ HWPH.put("r/61-75",
   "ausdruckslehre"
  ],
  [
-  "Ausdruckslose, das","Schweigen; Stille A","","8","1491","ref",2787,"Schweigen, Stille",
+  "Ausdruckslose, das","Schweigen; Stille","A","8","1491","ref",2787,"Schweigen, Stille",
   "ausdruckslose, das"
  ],
  [
   "Ausdrucksprinzip","Ausdrucksprinzip","(Klages)","1","663f.","main",301,"Ausdrucksprinzip",
   "ausdrucksprinzip"
  ],
- ["Ausdrucksprinzip","Darstellungsprinzip (Klages)","",null,null,"see",null,null,"ausdrucksprinzip"],
+ ["Ausdrucksprinzip","Darstellungsprinzip","(Klages)",null,null,"see",null,null,"ausdrucksprinzip"],
  [
   "Ausdruckspsychologie","Ausdruckspsychologie","","1","664","main",302,"Ausdruckspsychologie",
   "ausdruckspsychologie"
@@ -375,9 +405,11 @@ HWPH.put("r/61-75",
   "ausdrucke, indexikalische"
  ],
  [
-  "Ausdrücke, irreführende","Philosophie","IV",null,null,"ref",2353,"Philosophie",
+  "Ausdrücke, irreführende","Philosophie","IV K","7","790","ref",2353,"Philosophie",
   "ausdrucke, irrefuhrende"
  ],
+ ["Ausfluss","Ausfluss","","1","666","main",304,"Ausfluß","ausfluss"],
+ ["Ausfluss","Emanation","",null,null,"see",714,"Emanation","ausfluss"],
  ["Ausfluss","Ursprung","","11","418","ref",3352,"Ursprung","ausfluss"],
  ["Ausgleich","Horror vacui","","3","1207f.","ref",1312,"Horror vacui, fuga vacui","ausgleich"],
  ["Ausgleich","Kompensation","","4","915","ref",1597,"Kompensation","ausgleich"],
@@ -418,13 +450,18 @@ HWPH.put("r/61-75",
  ],
  ["Auslöser","Ritualisierung","",null,null,"see",2719,"Ritualisierung","ausloser"],
  ["Auslöser","Schlüsselreiz","",null,null,"see",2771,"Schlüsselreiz","ausloser"],
- ["Auslösung","Organonmodell","",null,null,"ref",2247,"Organonmodell","auslosung"],
+ ["Auslösung","Organonmodell der Sprache","","6","1369","ref",2248,"Organprimitivismen","auslosung"],
+ [
+  "Auslösung, psychogene","Psychogenese","II","7","1596","ref",2509,
+  "Psychogenese, Psychophylogenese","auslosung, psychogene"
+ ],
  ["Ausnahme","Ausnahme","","1","667–669","main",307,"Ausnahme","ausnahme"],
+ ["Ausnahme","Ausnahmezustand","",null,null,"see",308,"Ausnahmezustand","ausnahme"],
  ["Ausnahme","Regel","I (allg.)","8","433","ref",2640,"Regel","ausnahme"],
  ["Ausnahmezustand","Ausnahmezustand","","1","669f.","main",308,"Ausnahmezustand","ausnahmezustand"],
  ["Ausnahmezustand","Ausnahme","II (Schmitt)",null,null,"see",307,"Ausnahme","ausnahmezustand"],
  [
-  "Ausnahmezustand","Dezision (Schmitt)","",null,null,"see",578,"Dezision, Dezisionismus",
+  "Ausnahmezustand","Dezision","(Schmitt)",null,null,"see",578,"Dezision, Dezisionismus",
   "ausnahmezustand"
  ],
  ["Ausnahmezustand","Ernstfall","(Schmitt)",null,null,"see",812,"Ernstfall","ausnahmezustand"],
@@ -502,7 +539,7 @@ HWPH.put("r/61-75",
   "Aussagenvariable","Prädikatenlogik","","7","1189","ref",2426,"Prädikatenlogik, Prädikatenkalkül",
   "aussagenvariable"
  ],
- ["Aussagesatz","Satz","III",null,null,"ref",2745,"Satz","aussagesatz"],
+ ["Aussagesatz","Satz","III 2",null,null,"ref",2745,"Satz","aussagesatz"],
  ["Aussageweise","Seinsweise","","9","266","ref",2817,"Seinsweise","aussageweise"],
  ["Ausschaltung","Epoché","II (phän.)",null,null,"ref",778,"Epoché","ausschaltung"],
  ["Ausschliessung","Ausschliessung","","1","678f.","main",312,"Ausschließung","ausschliessung"],
@@ -514,25 +551,39 @@ HWPH.put("r/61-75",
   "aussen/innen"
  ],
  [
-  "Aussen/innen","Realität der Aussenwelt aussengeleitet","",null,null,"see",null,null,
+  "Aussen/innen","Realität der Aussenwelt","",null,null,"see",2593,"Realität der Außenwelt",
   "aussen/innen"
+ ],
+ ["aussengeleitet","Einsamkeit","II","2","411","ref",688,"Einsamkeit","aussengeleitet"],
+ [
+  "aussengeleitet","Konformismus/Nonkonformismus","","4","958","ref",1611,"Konfuzianismus",
+  "aussengeleitet"
  ],
  [
   "Aussenhorizont/Innenhorizont","Antizipation","I (erk.)","1","422","ref",193,"Antizipation",
   "aussenhorizont/innenhorizont"
  ],
  [
-  "Aussenhorizont/Innenhorizont","Horizont","III",null,null,"ref",1310,"Horizont",
+  "Aussenhorizont/Innenhorizont","Horizont","III 2 (Husserl)","3","1201","ref",1310,"Horizont",
   "aussenhorizont/innenhorizont"
  ],
  [
-  "Aussen/innen","Aussen/innen","",null,null,"main",313,"Außen/innen, Außenwelt/Innenwelt",
-  "aussen/innen"
+  "Aussensteuerung","Innensteuerung/Aussensteuerung","",null,null,"ref",1444,
+  "Innensteuerung/Außensteuerung","aussensteuerung"
  ],
  [
-  "Aussen/innen","Faktenaussenwelt/Fakteninnenwelt (Gehlen) Ausseralltäglich","",null,null,"ref",887,
-  "Faktenaußenwelt/Fakteninnenwelt","aussen/innen"
+  "Aussenwelt","Realität der Aussenwelt","",null,null,"ref",2593,"Realität der Außenwelt",
+  "aussenwelt"
  ],
+ [
+  "Aussenwelt/Innenwelt","Aussen/innen","",null,null,"ref",313,"Außen/innen, Außenwelt/Innenwelt",
+  "aussenwelt/innenwelt"
+ ],
+ [
+  "Aussenwelt/Innenwelt","Faktenaussenwelt/Fakteninnenwelt","(Gehlen)",null,null,"ref",887,
+  "Faktenaußenwelt/Fakteninnenwelt","aussenwelt/innenwelt"
+ ],
+ ["Ausseralltäglich","Charisma","II","1","998","ref",489,"Charisma","ausseralltaglich"],
  [
   "ausserkausale Determinanten","Determination","(Hartmann)",null,null,"ref",573,"Determination",
   "ausserkausale determinanten"
@@ -558,11 +609,8 @@ HWPH.put("r/61-75",
   "auswahl (math.)"
  ],
  ["Auswahlaxiom","Mengenlehre","","5","1051ff.","ref",1916,"Mengenlehre","auswahlaxiom"],
- ["Ausweglosigkeit","Aporie Ausweisung","",null,null,"ref",null,null,"ausweglosigkeit"],
- [
-  "Aufweisung Auswendigkeit","Aufweisung Auswendigkeit","",null,null,"main",null,null,
-  "aufweisung auswendigkeit"
- ],
+ ["Ausweglosigkeit","Aporie","",null,null,"ref",210,"Aporie, Aporetik","ausweglosigkeit"],
+ ["Ausweisung","Aufweisung Auswendigkeit","",null,null,"ref",null,null,"ausweisung"],
  ["Auswicklung","Entwicklung","I (allg.)","2","551","ref",759,"Entwicklung","auswicklung"],
  ["Autarchie","Autokratie","","1","695","ref",321,"Autokratie","autarchie"],
  ["Autarkie","Autarkie","","1","685–691","main",316,"Autarkie, autark","autarkie"],
@@ -598,6 +646,8 @@ HWPH.put("r/61-75",
  ["Autofalsifikation","Antinomie","II (log.)",null,null,"see",185,"Antinomie","autofalsifikation"],
  ["Autofalsifikation","Insolubilia","",null,null,"see",1450,"Insolubilia","autofalsifikation"],
  ["Autofalsifikation","Widerlegung","",null,null,"see",3605,"Widerlegung","autofalsifikation"],
+ ["Autognosie","Philosophie","IV E","7","715","ref",2353,"Philosophie","autognosie"],
+ ["Autognosie","Selbsterkenntnis","III","9","430","ref",2833,"Selbsterkenntnis","autognosie"],
  ["Autohypnose","Hypnose","","3","1244","ref",1325,"Hypnose","autohypnose"],
  [
   "autoimpossibilitans","Autofalsifikation","","1","694","ref",320,"Autofalsifikation",
@@ -605,7 +655,8 @@ HWPH.put("r/61-75",
  ],
  ["Autokatalyse","Regulation","","8","491","ref",2652,"Regulation","autokatalyse"],
  ["Autokratie","Autokratie","","1","694f.","main",321,"Autokratie","autokratie"],
- ["Autokratie","Despotie Autokratie","",null,null,"see",null,null,"autokratie"],
+ ["Autokratie","Despotie","",null,null,"see",571,"Despotie, Despotismus","autokratie"],
+ ["Autokratie","Verfassungsformen","","11","648","ref",3399,"Verfassungsform(en)","autokratie"],
  ["Autologie","Philosophie","IV A","7","684","ref",2353,"Philosophie","autologie"],
  ["Automat","Automat","","1","695–697","main",322,"Automat","automat"],
  ["Automat","Maschine","",null,null,"see",1872,"Maschine","automat"],
@@ -641,7 +692,11 @@ HWPH.put("r/61-75",
   "automessianismus"
  ],
  ["Automessianismus","Chassidismus","",null,null,"see",490,"Chassidismus","automessianismus"],
- ["Automessianismus","Messianismus automotricité","",null,null,"see",null,null,"automessianismus"],
+ [
+  "Automessianismus","Messianismus","",null,null,"see",1935,"Messianismus, messianisch",
+  "automessianismus"
+ ],
+ ["automotricité","Selbstbewegung","",null,null,"ref",2827,"Selbstbewegung","automotricite"],
  ["autonomes Nervensystem","Vegetativ","",null,null,"ref",3378,"Vegetativ","autonomes nervensystem"],
  ["Autonomie","Autonomie","","1","701–719","main",327,"Autonomie","autonomie"],
  ["Autonomie","Freiheit","",null,null,"see",946,"Freiheit","autonomie"],
@@ -722,7 +777,7 @@ HWPH.put("r/61-75",
   "autopraxie"
  ],
  [
-  "Autopsyche","Schichtenlehre II (psych.)","","8","1269","ref",2762,
+  "Autopsyche","Schichtenlehre","II (psych.)","8","1269","ref",2762,
   "Schichtenlehre, Schichtentheorie","autopsyche"
  ],
  ["Autor","Autor","","1","721–723","main",331,"Autor","autor"],
@@ -738,6 +793,9 @@ HWPH.put("r/61-75",
  ],
  ["autoritäres Gewissen","Autonomie","","1","716","ref",327,"Autonomie","autoritares gewissen"],
  ["Autorität","Autorität","","1","724–733","main",333,"Autorität","autoritat"],
+ ["Autorität","Zeuge; Zeugnis","I (erk.)",null,null,"see",3692,"Zeuge; Zeugnis","autoritat"],
+ ["Autorität","Zitat","",null,null,"see",3697,"Zitat","autoritat"],
+ ["Autorität","Macht","II (allg.)",null,null,"see",1844,"Macht","autoritat"],
  ["Autorität","Analysis fidei","","1","248","ref",127,"Analysis fidei","autoritat"],
  ["Autorität","Anarchie","","1","280","ref",134,"Anarchie, Anarchismus","autoritat"],
  ["Autorität","Gehorsam","","3","153","ref",1029,"Gehorsam","autoritat"],
@@ -776,7 +834,7 @@ HWPH.put("r/61-75",
  ],
  ["autorité","Herrschaft","",null,null,"ref",1261,"Herrschaft","autorite"],
  [
-  "autorité arbitraire","Despotie I (allg.)","","2","137","ref",571,"Despotie, Despotismus",
+  "autorité arbitraire","Despotie","I (allg.)","2","137","ref",571,"Despotie, Despotismus",
   "autorite arbitraire"
  ],
  [
@@ -817,7 +875,6 @@ HWPH.put("r/61-75",
   "auxiliary language","Universalsprache","",null,null,"ref",3306,"Universalsprache",
   "auxiliary language"
  ],
- ["Autorität","Autorität","I (rhet.)",null,null,"main",333,"Autorität","autoritat"],
  ["Aufmerksamkeit","Aufmerksamkeit","",null,null,"main",290,"Aufmerksamkeit","aufmerksamkeit"],
  ["Aufmerksamkeit","Epiphänomen","",null,null,"ref",775,"Epiphänomen","aufmerksamkeit"],
  [
@@ -864,35 +921,15 @@ HWPH.put("r/61-75",
   "aufmerksamkeit"
  ],
  ["Aufmerksamkeit","Stimme","","10","170","ref",3025,"Stimme","aufmerksamkeit"],
- ["Aufmerksamkeit","Subjekt","",null,null,"ref",3047,"Subjekt","aufmerksamkeit"],
  [
-  "Aufmerksamkeitsspanne","Aufmerksamkeitsspanne","","1","645","main",291,"Aufmerksamkeitsspanne",
-  "aufmerksamkeitsspanne"
+  "Aufmerksamkeit","Subjekt/Objekt","IV","10","416","ref",3049,"Subjekt/Objekt; subjektiv/objektiv",
+  "aufmerksamkeit"
  ],
- ["Aufheben","Aufheben","(Hegel)",null,null,"main",288,"Aufheben","aufheben"],
- ["Aufheben","Dialog","",null,null,"ref",585,"Dialog, dialogisch","aufheben"],
- ["Aufheben","Methode","II",null,null,"ref",1955,"Methode","aufheben"],
- ["Aufheben","Peirastik","",null,null,"ref",2303,"Peirastik","aufheben"],
  [
-  "Aufheben","Philosophie","I F (Einteilung der Ph./Antike)",null,null,"ref",2353,"Philosophie",
-  "aufheben"
+  "Aufmerksamkeit","Transzendenz","II","10","1449ff.","ref",3223,"Transzendenz; Transzendieren",
+  "aufmerksamkeit"
  ],
- ["Aufheben","These","",null,null,"ref",3186,"These","aufheben"],
- ["Aufheben","Analyse/Synthese","","1","240ff.","ref",126,"Analyse/Synthese","aufheben"],
- ["Aufheben","Analytik","","1","249","ref",128,"Analytik","aufheben"],
- ["Aufheben","Ich-Du-Verhältnis","","4","20","ref",1336,"Ich-Du-Verhältnis","aufheben"],
- ["Aufheben","Kritik","I 2","4","1254f.","ref",1694,"Kritik","aufheben"],
- ["Aufheben","Logik","I","5","358","ref",1803,"Logik","aufheben"],
- ["Aufheben","Metaphysik","III","5","1200","ref",1944,"Metaphysik","aufheben"],
- ["Augenblick","Augenblick","(Kierkegaard)",null,null,"main",295,"Augenblick","augenblick"],
- ["Augenblick","Zeit","II A","12","1195","ref",3676,"Zeit","augenblick"],
- ["Augenblick","Zeit","II B","12","1198","ref",3676,"Zeit","augenblick"],
- ["Augenblick","Zwischen","","12","1545","ref",3727,"Zwischen","augenblick"],
- [
-  "Autotelie/Heterotelie","Autotelie/Heterotelie","(Stern)",null,null,"main",335,
-  "Autotelie/Heterotelie","autotelie/heterotelie"
- ],
- ["Aufklärung","Aufklärung","",null,null,"main",289,"Aufklärung","aufklarung"],
+ ["Aufmerksamkeit","Wahrnehmung","IV","12","210","ref",3539,"Wahrnehmung","aufmerksamkeit"],
  ["Autorität","Autorität","III (pol.)",null,null,"main",333,"Autorität","autoritat"],
  ["Autorität","Gewalt","",null,null,"ref",1127,"Gewalt","autoritat"],
  ["Autorität","Herrschaft","",null,null,"ref",1261,"Herrschaft","autoritat"],

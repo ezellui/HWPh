@@ -29,8 +29,7 @@ HWPH.put("a/1960",
   {"term":"Historiomathie","qualifier":"","band":"5","col":"1348"},
   {"term":"historische Methode","qualifier":"","band":null,"col":null},
   {"term":"Kritik, historische","qualifier":"","band":"5","col":"1351"},
-  {"term":"Pyrrhonismus, historischer","qualifier":"","band":"5","col":"1348"},
-  {"term":"– I (hist.) 7 138–144 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Pyrrhonismus, historischer","qualifier":"","band":"5","col":"1348"}
  ],
  "persons":[
   {"id":326,"name":"J. Bodin","b":3,"n":1,"l":0,"editor":0,"role":"source"},
@@ -215,6 +214,6 @@ HWPH.put("a/1960",
  ],
  "see_also":[{"id":1280,"lemma":"Historik, ars historica"},{"id":2282,"lemma":"Parteilichkeit"}],
  "groups":[{"id":13,"name":"Geschichtsphilosophie","label":"Methode, historische"}],
- "reg_authors":[{"name":"Rüsen Jörn","n":1},{"name":"Schulze Winfried","n":1}]
+ "reg_authors":[{"name":"Rüsen Jörn","n":1},{"name":"Schulze Winfried","n":1},{"name":"Sokolowski Kurt","n":1}]
 }
 );

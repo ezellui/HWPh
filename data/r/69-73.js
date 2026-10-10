@@ -1,7 +1,7 @@
 HWPH.put("r/69-73",
 [
  ["is/ought","Sollen","",null,null,"ref",2920,"Sollen","is/ought"],
- ["Islam s. auch","Register der Sachgruppen","",null,null,"ref",null,null,"islam s. auch"],
+ ["Islam","Register der Sachgruppen","",null,null,"see",null,null,"islam"],
  ["Islam","Islam","","4","614–627","main",1501,"Islam","islam"],
  [
   "islamic philosophy","Philosophie, arabische","",null,null,"ref",2355,"Philosophie, arabische",
@@ -39,7 +39,8 @@ HWPH.put("r/69-73",
  ["Isosthenie","Skepsis; Skeptizismus","I","9","944","ref",2907,"Skepsis; Skeptizismus","isosthenie"],
  ["Isosthenie","Wahrscheinlichkeit","II","12","255","ref",3540,"Wahrscheinlichkeit","isosthenie"],
  ["Isosthenie","Zweifel","","12","1520","ref",3722,"Zweifel","isosthenie"],
- ["Isotopie","Horizont","III",null,null,"ref",1310,"Horizont","isotopie"],
+ ["Isotopie","Horizont","III 4 (ling.)","3","1204","ref",1310,"Horizont","isotopie"],
+ ["Isotropie","Anisotropie/Isotropie","",null,null,"ref",149,"Anisotropie/Isotropie","isotropie"],
  ["Isotype","Universalsprache","","11","210","ref",3306,"Universalsprache","isotype"],
  ["Istina","Wahrheit (Pravda/Istina)","",null,null,"ref",3525,"Wahrheit (Pravda/Istina)","istina"],
  ["Istkönnen","Possest","(Cusanus)",null,null,"ref",2412,"Possest","istkonnen"],

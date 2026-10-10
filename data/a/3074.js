@@ -25,13 +25,13 @@ HWPH.put("a/3074",
   {"term":"bonum est diffusivum sui","qualifier":"","band":"10","col":"595"},
   {"term":"bonum infinitum","qualifier":"","band":"10","col":"597"},
   {"term":"bonum ipsum","qualifier":"","band":"10","col":"596"},
-  {"term":"das I ἀγαθὸν μἐγιστον","qualifier":"","band":"10","col":"593"},
   {"term":"höchstes Gut","qualifier":"","band":null,"col":null},
   {"term":"ipsum bonum","qualifier":"","band":"10","col":"596"},
   {"term":"optimum bonum","qualifier":"","band":"10","col":"593"},
   {"term":"prima bonitas","qualifier":"","band":"10","col":"596"},
   {"term":"summum ens","qualifier":"","band":"10","col":"594"},
   {"term":"ἀγαθαρχία","qualifier":"","band":"10","col":"594"},
+  {"term":"ἀγαθὸν μἐγιστον","qualifier":"","band":"10","col":"593"},
   {"term":"μέγιστον ἀγαθόν","qualifier":"","band":"10","col":"593"},
   {"term":"ὑπεραγαθόν","qualifier":"","band":"10","col":"594"}
  ],
@@ -104,12 +104,7 @@ HWPH.put("a/3074",
   {"id":3169,"lemma":"Theologie","tf":2},
   {"id":3657,"lemma":"Wort, inneres; Rede, innere","tf":2}
  ],
- "see_also":[
-  {"id":1155,"lemma":"Glück, Glückseligkeit"},
-  {"id":1203,"lemma":"Gut, das Gute, das Gut"},
-  {"id":1204,"lemma":"Gut, höchstes"},
-  {"id":3482,"lemma":"Vollkommenheit"}
- ],
+ "see_also":[{"id":1155,"lemma":"Glück, Glückseligkeit"},{"id":1203,"lemma":"Gut, das Gute, das Gut"}],
  "groups":[{"id":10,"name":"Ethik und Moralphilosophie","label":"Summum bonum"}],
  "reg_authors":[{"name":"Schönberger Rolf","n":3}]
 }

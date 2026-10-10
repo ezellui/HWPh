@@ -33,7 +33,6 @@ HWPH.put("a/3707",
  "register":[
   {"term":"Aufdringlichkeit","qualifier":"(Heidegger)","band":"12","col":"1425"},
   {"term":"Aufsässigkeit","qualifier":"(Heidegger)","band":"12","col":"1425"},
-  {"term":"das (Heidegger)","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"presence-at-hand","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"readiness-to-hand","qualifier":"(Heidegger)","band":null,"col":null},
   {"term":"Vorhandenheit","qualifier":"(Heidegger)","band":null,"col":null}

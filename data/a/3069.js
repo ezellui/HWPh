@@ -23,6 +23,7 @@ HWPH.put("a/3069",
   {"term":"habituation","qualifier":"","band":"10","col":"575"},
   {"term":"Krankheit","qualifier":"","band":"10","col":"573"},
   {"term":"Leidvermeidung","qualifier":"","band":"10","col":"574"},
+  {"term":"naturalis","qualifier":"","band":null,"col":null},
   {"term":"sick","qualifier":"","band":null,"col":null},
   {"term":"Tobsucht","qualifier":"","band":"10","col":"574"},
   {"term":"Trieb","qualifier":"","band":"10","col":"574"}

@@ -1,12 +1,6 @@
 HWPH.put("r/6d-69",
 [
  [
-  "Mitteilung; Mitteilbarkeit","Mitteilung; Mitteilbarkeit","","5","1430","main",1986,
-  "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","mitteilung; mitteilbarkeit"
- ],
- ["Mitte","Mitte","",null,null,"main",1985,"Mitte","mitte"],
- ["Mitte","Vermittlung","","11","725","ref",3417,"Vermittlung","mitte"],
- [
   "microtheos","Makrokosmos/Mikrokosmos","II 1","5","645","ref",1849,"Makrokosmos/Mikrokosmos",
   "microtheos"
  ],
@@ -81,7 +75,14 @@ HWPH.put("r/6d-69",
   "Minderwertigkeitsgefühl","Gemeinschaftsgefühl","(Adler)",null,null,"see",1049,
   "Gemeinschaftsgefühl","minderwertigkeitsgefuhl"
  ],
- ["Minderwertigkeitsgefühl","Komplex","",null,null,"see",1600,"Komplex","minderwertigkeitsgefuhl"],
+ [
+  "Minderwertigkeitsgefühl","Komplex, der","",null,null,"see",1601,"Komplex (der)",
+  "minderwertigkeitsgefuhl"
+ ],
+ [
+  "Minderwertigkeitsgefühl","Überkompensation","(Adler)",null,null,"see",3259,"Überkompensation",
+  "minderwertigkeitsgefuhl"
+ ],
  [
   "Minderwertigkeitsgefühl","Angst; Furcht","","1","312","ref",144,"Angst, Furcht",
   "minderwertigkeitsgefuhl"
@@ -95,9 +96,10 @@ HWPH.put("r/6d-69",
   "minderwertigkeitsgefuhl"
  ],
  [
-  "Minderwertigkeitskomplex","Minderwertigkeitsgefühl mind-style","",null,null,"ref",null,null,
-  "minderwertigkeitskomplex"
+  "Minderwertigkeitskomplex","Minderwertigkeitsgefühl","",null,null,"ref",1976,
+  "Minderwertigkeitsgefühl, Minderwertigkeitskomplex","minderwertigkeitskomplex"
  ],
+ ["mind-style","Stil","","10","157","ref",3024,"Stil","mind-style"],
  ["minimal group paradigm","Stereotyp","","10","137","ref",3020,"Stereotyp","minimal group paradigm"],
  ["Minimum/Maximum","Maximum/Minimum","",null,null,"ref",1901,"Maximum/Minimum","minimum/maximum"],
  [
@@ -113,7 +115,7 @@ HWPH.put("r/6d-69",
   "Erkenntnismetaphysik","minimum, metaphysisches"
  ],
  [
-  "Minimum, metaphysisches","Irrational; transintelligibel (Hartmann)","",null,null,"see",1497,
+  "Minimum, metaphysisches","Irrational; transintelligibel","(Hartmann)",null,null,"see",1497,
   "Irrational, das Irrationale, Irrationalismus","minimum, metaphysisches"
  ],
  [
@@ -150,7 +152,10 @@ HWPH.put("r/6d-69",
  ["miroir de l'univers","Bild","II (erk.)","1","916","ref",431,"Bild","miroir de l'univers"],
  ["Misanthropie","Misanthropie","","5","1402–1408","main",1978,"Misanthropie","misanthropie"],
  ["Misanthropie","Philanthropie","",null,null,"see",2351,"Philanthropie","misanthropie"],
- ["Misanthropie","Verachtung Mischung","",null,null,"see",null,null,"misanthropie"],
+ ["Misanthropie","Verachtung","",null,null,"see",3379,"Verachtung; Mißachtung","misanthropie"],
+ ["Mischung","Temperament","I",null,null,"ref",3148,"Temperament","mischung"],
+ ["Mischung","Materie","I","5","879","ref",1892,"Materie","mischung"],
+ ["Mischung","Wechselwirkung","","12","334","ref",3550,"Wechselwirkung","mischung"],
  [
   "Mischung/Entmischung","Mischung/Entmischung","","5","1408f.","main",1979,"Mischung/Entmischung",
   "mischung/entmischung"
@@ -169,7 +174,8 @@ HWPH.put("r/6d-69",
  ["mišpat","Strafe","I","10","217","ref",3035,"Strafe","mispat"],
  ["Misogynie","Misanthropie","","5","1403","ref",1978,"Misanthropie","misogynie"],
  ["Misologie","Misologie","","5","1409f.","main",1980,"Misologie","misologie"],
- ["Missachtung","Verachtung Missbilligung","",null,null,"ref",null,null,"missachtung"],
+ ["Missachtung","Verachtung","",null,null,"ref",3379,"Verachtung; Mißachtung","missachtung"],
+ ["Missbilligung","Strafe","V (päd./psych.)","10","255","ref",3035,"Strafe","missbilligung"],
  [
   "Missbrauch der Sprache","Sprachanalyse","","9","1435","ref",2983,"Sprachanalyse",
   "missbrauch der sprache"
@@ -191,7 +197,12 @@ HWPH.put("r/6d-69",
  ["Mitleid","Nächstenliebe","",null,null,"see",2060,"Nächstenliebe","mitleid"],
  ["Mitleid","Sympathie","II (anthr.)",null,null,"see",3098,"Sympathie","mitleid"],
  ["Mitmensch","Mitmensch","","5","1416–1419","main",1982,"Mitmensch","mitmensch"],
- ["Mitmensch","Andere","",null,null,"see",137,"Andere","mitmensch"],
+ ["Mitmensch","Andere, der","",null,null,"see",137,"Andere","mitmensch"],
+ ["Mitmensch","Du","",null,null,"see",639,"Du","mitmensch"],
+ ["Mitmensch","Ich-Du-Verhältnis","",null,null,"see",1336,"Ich-Du-Verhältnis","mitmensch"],
+ ["Mitmensch","Korrelation","I",null,null,"see",1670,"Korrelation","mitmensch"],
+ ["Mitmensch","Nächstenliebe","",null,null,"see",2060,"Nächstenliebe","mitmensch"],
+ ["Mitmensch","Wir","",null,null,"see",3625,"Wir","mitmensch"],
  [
   "Mitmenschlichkeit","Gemeinschaftsgefühl","(Adler)","3","243","ref",1049,"Gemeinschaftsgefühl",
   "mitmenschlichkeit"
@@ -205,18 +216,18 @@ HWPH.put("r/6d-69",
  ],
  ["Mitsein","Mitwelt","(Heidegger)",null,null,"see",1988,"Mitwelt","mitsein"],
  [
-  "Mittag, der grosse (Nietzsche)","Mittag, der grosse (Nietzsche)","","5","1420f.","main",1984,
-  "Mittag, der große","mittag, der grosse (nietzsche)"
+  "Mittag, der grosse","Mittag, der grosse","(Nietzsche)","5","1420f.","main",1984,
+  "Mittag, der große","mittag, der grosse"
  ],
  ["Mittagsteufel","Acedia","","1","73","ref",39,"Acedia","mittagsteufel"],
  ["Mitte","Mitte","","5","1421–1424","main",1985,"Mitte","mitte"],
  ["Mitte","Kreis; Kugel","",null,null,"see",null,null,"mitte"],
- ["Mitte","Mass I (eth.)","",null,null,"see",1877,"Maß","mitte"],
+ ["Mitte","Mass","I (eth.)",null,null,"see",1877,"Maß","mitte"],
  ["Mitte","Mesotes","",null,null,"see",1933,"Mesotes","mitte"],
  ["Mitte","Vermittlung","",null,null,"see",3417,"Vermittlung","mitte"],
  ["Mitte","Zentrum","",null,null,"see",3687,"Zentrum","mitte"],
  ["Mitte","Horizont","I (met.)","3","1192","ref",1310,"Horizont","mitte"],
- ["Mitte","Mass II (ästh.)","","5","816","ref",1877,"Maß","mitte"],
+ ["Mitte","Mass","II (ästh.)","5","816","ref",1877,"Maß","mitte"],
  ["Mitte","Mittel","","5","1432","ref",1987,"Mittel","mitte"],
  [
   "Mitte","Positionalität, exzentrische","(Plessner)","7","1105","ref",2407,
@@ -254,7 +265,7 @@ HWPH.put("r/6d-69",
  ],
  ["Mitteilung, indirekte","Dialektik","V","2","225","ref",583,"Dialektik","mitteilung, indirekte"],
  [
-  "Mitteilung, indirekte","Pseudonym (Kierkegaard)","","7","1568","ref",2503,
+  "Mitteilung, indirekte","Pseudonym","(Kierkegaard)","7","1568","ref",2503,
   "Pseudonym, Pseudonymität","mitteilung, indirekte"
  ],
  ["Mittel","Mittel","","5","1431–1439","main",1987,"Mittel","mittel"],
@@ -271,17 +282,27 @@ HWPH.put("r/6d-69",
   "mittel/zweck"
  ],
  [
-  "Mittelalter","Neuzeit; Mittelalter; Altertum mittelbar","",null,null,"ref",2131,
+  "Mittelalter","Neuzeit; Mittelalter; Altertum","",null,null,"ref",2131,
   "Neuzeit, Mittelalter, Altertum","mittelalter"
  ],
+ ["mittelbar","Vermittlung","",null,null,"ref",3417,"Vermittlung","mittelbar"],
  [
-  "mittelbarer Schluss","Vernunftschluss Mittelbarkeit","",null,null,"ref",null,null,
+  "mittelbarer Schluss","Vernunftschluss","",null,null,"ref",3426,"Vernunftschluß",
   "mittelbarer schluss"
  ],
  [
-  "Mitteilung; Mitteilbarkeit Mittelbegriff","Mitteilung; Mitteilbarkeit Mittelbegriff","",null,null,
-  "main",1986,"Mitteilung, Mitteilbarkeit, indirekte Mitteilung",
-  "mitteilung; mitteilbarkeit mittelbegriff"
+  "Mittelbarkeit","Mitteilung; Mitteilbarkeit","",null,null,"ref",1986,
+  "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","mittelbarkeit"
+ ],
+ ["Mittelbegriff","Eselsbrücke","",null,null,"ref",826,"Eselsbrücke","mittelbegriff"],
+ ["Mittelbegriff","Inventio medii","",null,null,"ref",1491,"Inventio medii","mittelbegriff"],
+ ["Mittelbegriff","Dialektik","III","2","180","ref",583,"Dialektik","mittelbegriff"],
+ ["Mittelbegriff","Methode","III 2","5","1310","ref",1955,"Methode","mittelbegriff"],
+ ["Mittelbegriff","Mitte","","5","1423","ref",1985,"Mitte","mittelbegriff"],
+ ["Mittelbegriff","Oberbegriff","","6","1021","ref",2180,"Oberbegriff","mittelbegriff"],
+ [
+  "Mittelbegriff","Syllogismus; Syllogistik","","10","689","ref",3091,"Syllogismus; Syllogistik",
+  "mittelbegriff"
  ],
  ["Mitteldinge","Adiaphora","II",null,null,"ref",47,"Adiaphora","mitteldinge"],
  ["Mittelmässigkeit","Mesotes","","5","1160","ref",1933,"Mesotes","mittelmassigkeit"],
@@ -329,15 +350,9 @@ HWPH.put("r/6d-69",
  ["mixtio","Mischung/Entmischung","",null,null,"ref",1979,"Mischung/Entmischung","mixtio"],
  ["mixtio","Philosophie","III C","7","669","ref",2353,"Philosophie","mixtio"],
  [
-  "Mittag, der grosse (Nietzsche) Nachtansicht","Mittag, der grosse (Nietzsche) Nachtansicht","",
-  null,null,"main",1984,"Mittag, der große","mittag, der grosse (nietzsche) nachtansicht"
+  "Mittag, der grosse","Mittag, der grosse","(Nietzsche)",null,null,"main",1984,"Mittag, der große",
+  "mittag, der grosse"
  ],
- [
-  "Mitteilung; Mitteilbarkeit","Mitteilung; Mitteilbarkeit","","5","1424","main",1986,
-  "Mitteilung, Mitteilbarkeit, indirekte Mitteilung","mitteilung; mitteilbarkeit"
- ],
- ["Mitteilung; Mitteilbarkeit","Wette","","12","676","ref",3603,"Wette","mitteilung; mitteilbarkeit"],
- ["Mîmâmsâ","Mîmâmsâ","","5","1396","main",1975,"Mimesis","mimamsa"],
  [
   "Mieg Harald A","Verantwortungsethik","(Weber)","11","575f.","author",3381,"Verantwortungsethik",
   "mieg harald a"

@@ -24,9 +24,7 @@ HWPH.put("a/2761",
  "register":[
   {"term":"Habitus, sozialer","qualifier":"I","band":"8","col":"1263"},
   {"term":"social class","qualifier":"I","band":"8","col":"1264"},
-  {"term":"soziale Schicht","qualifier":"","band":null,"col":null},
-  {"term":"– I (ling.) 10 266–268 – II (soz.) 10 268f. s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– I (soz.) 6 867f. s. auch","qualifier":"","band":null,"col":null}
+  {"term":"soziale Schicht","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2646,"name":"W. Müller","b":1,"n":4,"l":0,"editor":0,"role":"scholar"},
@@ -112,6 +110,6 @@ HWPH.put("a/2761",
   {"id":40,"name":"Russische bzw. Sowjetische Philosophie","label":"Schicht, soziale II"},
   {"id":42,"name":"Soziologie","label":"Schicht, soziale"}
  ],
- "reg_authors":[{"name":"Gerhardt Uta","n":1},{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Gerhardt Uta","n":1},{"name":"Red","n":241}]
 }
 );

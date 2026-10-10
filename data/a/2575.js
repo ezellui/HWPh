@@ -31,7 +31,20 @@ HWPH.put("a/2575",
   {"id":2036,"lemma":"Münchhausen-Trilemma","n":1},
   {"id":2501,"lemma":"Prüfbar","n":1}
  ],
- "register":[],
+ "register":[
+  {"term":"critical rationalism","qualifier":"(Popper)","band":null,"col":null},
+  {"term":"Falsifikationismus","qualifier":"(Popper)","band":"8","col":"51"},
+  {"term":"falsifizierbar","qualifier":"(Popper)","band":"8","col":"50f."},
+  {"term":"Gesellschaft, geschlossene/offene","qualifier":"(Popper)","band":"8","col":"51"},
+  {"term":"Gesellschaft, offene","qualifier":"(Popper)","band":"8","col":"51"},
+  {"term":"Induktion","qualifier":"(Popper)","band":"8","col":"49"},
+  {"term":"Intellektualismus","qualifier":"(Popper)","band":"8","col":"49"},
+  {"term":"kritischer Rationalismus","qualifier":"(Popper)","band":null,"col":null},
+  {"term":"Kritizismus, rationaler","qualifier":"(Popper)","band":"8","col":"49"},
+  {"term":"offene Gesellschaft","qualifier":"(Popper)","band":"8","col":"51"},
+  {"term":"Verifikation","qualifier":"(Popper)","band":"8","col":"50"},
+  {"term":"Widerlegung","qualifier":"(Popper)","band":"8","col":"51"}
+ ],
  "persons":[
   {"id":65,"name":"K. R. Popper","b":3,"n":6,"l":0,"editor":0,"role":"source"},
   {"id":172,"name":"H. Albert","b":2,"n":3,"l":2,"editor":0,"role":"source"},
@@ -75,7 +88,11 @@ HWPH.put("a/2575",
   {"id":3539,"lemma":"Wahrnehmung","tf":2},
   {"id":3634,"lemma":"Wissen","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":892,"lemma":"Falsifikation"},
+  {"id":2477,"lemma":"Proliferationsprinzip"},
+  {"id":3441,"lemma":"Versuch und Irrtum"}
+ ],
  "groups":[
   {"id":41,"name":"Schulen, Strömungen und Positionen","label":"Rationalismus, kritischer (Popper)"},
   {
@@ -84,6 +101,6 @@ HWPH.put("a/2575",
    "label":"Rationalismus, kritischer (Popper)"
   }
  ],
- "reg_authors":[{"name":"Hoffmann Thomas Sören","n":9}]
+ "reg_authors":[{"name":"Hoffmann Thomas Sören","n":9},{"name":"Keuth Herbert","n":1}]
 }
 );

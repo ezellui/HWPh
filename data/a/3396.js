@@ -68,8 +68,8 @@ HWPH.put("a/3396",
   {"id":1773,"lemma":"Leistung","tf":2},
   {"id":408,"lemma":"Bewegung","tf":2}
  ],
- "see_also":[{"id":731,"lemma":"Encheiresis (naturae)"},{"id":1955,"lemma":"Methode"}],
+ "see_also":[{"id":731,"lemma":"Encheiresis (naturae)"}],
  "groups":[{"id":47,"name":"Wissenschaftstheorie und Methodenlehre","label":"Verfahren"}],
- "reg_authors":[{"name":"Red","n":242}]
+ "reg_authors":[{"name":"Red","n":241}]
 }
 );

@@ -26,18 +26,13 @@ HWPH.put("a/1436",
  "outlinks":[],
  "register":[
   {"term":"argutia","qualifier":"","band":"4","col":"361"},
+  {"term":"Begabung","qualifier":"","band":null,"col":null},
   {"term":"conceptismo","qualifier":"","band":"4","col":"362"},
   {"term":"engine","qualifier":"","band":"4","col":"362"},
   {"term":"esprit","qualifier":"","band":"4","col":"362"},
   {"term":"geistreich","qualifier":"","band":"4","col":"362"},
   {"term":"Schickliche, das","qualifier":"","band":"4","col":"361"},
-  {"term":"εὐφύ¨ια","qualifier":"","band":null,"col":null},
-  {
-   "term":"– I (allg.) 4 544–548 – II (ästh.) 4 548–552 s. auch",
-   "qualifier":"",
-   "band":null,
-   "col":null
-  }
+  {"term":"εὐφύ¨ια","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":8,"name":"Cicero","b":1,"n":2,"l":0,"editor":0,"role":"source"},

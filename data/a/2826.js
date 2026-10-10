@@ -32,6 +32,7 @@ HWPH.put("a/2826",
  ],
  "register":[
   {"term":"auto-détermination","qualifier":"","band":null,"col":null},
+  {"term":"Bestimmung","qualifier":"","band":"9","col":"335f."},
   {"term":"détermination de soi-même","qualifier":"","band":null,"col":null},
   {"term":"indicio spiritus","qualifier":"","band":"9","col":"339"},
   {"term":"principe interne","qualifier":"","band":"9","col":"340"},

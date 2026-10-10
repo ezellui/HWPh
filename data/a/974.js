@@ -43,13 +43,15 @@ HWPH.put("a/974",
   {"term":"Fluenten","qualifier":"I (math.)","band":"2","col":"1138"},
   {"term":"functio","qualifier":"I (math.)","band":"2","col":"1139"},
   {"term":"functional psychology","qualifier":"III (psych.)","band":null,"col":null},
+  {"term":"Grössen, veränderliche","qualifier":"I (math.)","band":"2","col":"1138f."},
   {"term":"Reihensetzung","qualifier":"II (log.)","band":"2","col":"1140f."},
   {"term":"Relation","qualifier":"II (log.)","band":"2","col":"1141"},
+  {"term":"social environment","qualifier":"III (psych.)","band":"2","col":"1142"},
   {"term":"Umwelt","qualifier":"III (psych.)","band":"2","col":"1142"},
   {"term":"Urbildmenge","qualifier":"I (math.)","band":"2","col":"1138"},
   {"term":"Urfunktion","qualifier":"II (log.)","band":"2","col":"1140"},
   {"term":"Zahlen, reelle","qualifier":"I (math.)","band":"2","col":"1139"},
-  {"term":"– I (biol./psych.) 1 336–338 s. auch","qualifier":"III (psych.)","band":null,"col":null}
+  {"term":"Zweck, objektiver","qualifier":"IV (soz.)","band":"2","col":"1142"}
  ],
  "persons":[
   {"id":39,"name":"G. Frege","b":2,"n":1,"l":0,"editor":0,"role":"source"},
@@ -136,7 +138,15 @@ HWPH.put("a/974",
   {"id":435,"lemma":"Bildung","tf":2},
   {"id":3588,"lemma":"Wert","tf":2}
  ],
- "see_also":[],
+ "see_also":[
+  {"id":3022,"lemma":"Stetigkeit"},
+  {"id":3373,"lemma":"Variable"},
+  {"id":3710,"lemma":"Zuordnung; Abbildung"},
+  {"id":3094,"lemma":"Symbolische Form"},
+  {"id":976,"lemma":"Funktionalismus"},
+  {"id":975,"lemma":"Funktionalisierung"},
+  {"id":3117,"lemma":"Systemtheorie; System, soziales"}
+ ],
  "groups":[
   {"id":22,"name":"Logik","label":"Funktion II (log.)"},
   {"id":24,"name":"Mathematik","label":"Funktion I (math.)"},

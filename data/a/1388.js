@@ -26,8 +26,7 @@ HWPH.put("a/1388",
   {"term":"Denken in Bildern","qualifier":"","band":null,"col":null},
   {"term":"imago","qualifier":"","band":"4","col":"216"},
   {"term":"Imago (psych.)","qualifier":"","band":"4","col":"216"},
-  {"term":"Vorstellungsbild","qualifier":"","band":null,"col":null},
-  {"term":"– II (psych.) 11 1263–1268 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Vorstellungsbild","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":5495,"name":"R. Bergler","b":1,"n":4,"l":0,"editor":0,"role":"mixed"},

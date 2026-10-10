@@ -19,8 +19,7 @@ HWPH.put("a/1216",
  "outlinks":[],
  "register":[
   {"term":"Fehlbeurteilung","qualifier":"","band":"3","col":"990"},
-  {"term":"– II (psych.) 2 360 s. auch","qualifier":"","band":null,"col":null},
-  {"term":"– III (psych.) 2 337–339 s. auch","qualifier":"","band":null,"col":null}
+  {"term":"Hof (psych.)","qualifier":"","band":"3","col":"990"}
  ],
  "persons":[
   {"id":135,"name":"W. James","b":1,"n":1,"l":0,"editor":0,"role":"source"},

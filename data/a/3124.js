@@ -18,7 +18,7 @@ HWPH.put("a/3124",
  "backlinks":[],
  "outlinks":[{"id":361,"lemma":"Begabung","n":1},{"id":1071,"lemma":"Genie","n":1}],
  "register":[
-  {"term":"Ingenium","qualifier":"","band":"10","col":"886"},
+  {"term":"Begabung","qualifier":"","band":"10","col":"886"},
   {"term":"Naturgabe","qualifier":"","band":"10","col":"886"}
  ],
  "persons":[

@@ -24,9 +24,11 @@ HWPH.put("a/3281",
  ],
  "outlinks":[{"id":72,"lemma":"Akataleptisch","n":1},{"id":3293,"lemma":"Unergründlichkeit","n":1}],
  "register":[
+  {"term":"Gottes","qualifier":"","band":null,"col":null},
   {"term":"incomprehensibilitas","qualifier":"","band":null,"col":null},
   {"term":"Umgriffenheit","qualifier":"","band":"11","col":"114"},
   {"term":"ἀδιανόητος","qualifier":"","band":null,"col":null},
+  {"term":"ἀκαταληψία","qualifier":"","band":null,"col":null},
   {"term":"ἀπερίληπτος","qualifier":"","band":null,"col":null}
  ],
  "persons":[

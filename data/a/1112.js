@@ -22,10 +22,7 @@ HWPH.put("a/1112",
  "next":{"id":1113,"lemma":"Gesetzlichkeit, biologische","band":"3","col":535},
  "backlinks":[],
  "outlinks":[],
- "register":[
-  {"term":"Gesetz und Evangelium","qualifier":"II","band":"3","col":"534"},
-  {"term":"– II (theol ) 3 494–514 s. auch","qualifier":"","band":null,"col":null}
- ],
+ "register":[{"term":"Gesetz und Evangelium","qualifier":"II","band":"3","col":"534"}],
  "persons":[
   {"id":1,"name":"I. Kant","b":1,"n":1,"l":0,"editor":0,"role":"source"},
   {"id":22,"name":"M. Luther","b":1,"n":1,"l":0,"editor":0,"role":"source"},

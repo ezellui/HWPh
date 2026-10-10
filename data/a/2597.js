@@ -41,25 +41,19 @@ HWPH.put("a/2597",
   {"term":"Aufklärung","qualifier":"II (kult.)","band":"8","col":"220"},
   {"term":"berechenbar","qualifier":"I (math.)","band":"8","col":"217"},
   {"term":"Berechenbarkeit der Welt","qualifier":"II (kult.)","band":null,"col":null},
+  {"term":"bzw. vernünftige rationem reddere","qualifier":"II (kult.)","band":null,"col":null},
   {"term":"calculus","qualifier":"I (math.)","band":null,"col":null},
   {"term":"computare","qualifier":"","band":null,"col":null},
   {"term":"Denken, rechnendes","qualifier":"II (kult.)","band":null,"col":null},
   {"term":"Intelligenz, künstliche","qualifier":"I (math.)","band":"8","col":"217"},
   {"term":"künstliche Intelligenz","qualifier":"I (math.)","band":"8","col":"217"},
   {"term":"Maschinen","qualifier":"I (math.)","band":"8","col":"217"},
-  {
-   "term":"natürliche bzw. vernünftige rationem reddere",
-   "qualifier":"II (kult.)",
-   "band":null,
-   "col":null
-  },
   {"term":"ratiocinari","qualifier":"","band":null,"col":null},
   {"term":"Rationalitätskritik","qualifier":"II (kult.)","band":null,"col":null},
   {"term":"Rechenmaschine","qualifier":"I (math.)","band":"8","col":"216f."},
   {"term":"System, konnektionistisches","qualifier":"I (math.)","band":"8","col":"218"},
   {"term":"Turing-Test","qualifier":"I (math.)","band":"8","col":"217"},
-  {"term":"λογίζεσθαι","qualifier":"","band":null,"col":null},
-  {"term":"– I (math.) 8 214–219 s. auch","qualifier":"","band":"8","col":"219f."}
+  {"term":"λογίζεσθαι","qualifier":"","band":null,"col":null}
  ],
  "persons":[
   {"id":2,"name":"Aristoteles","b":1,"n":3,"l":0,"editor":0,"role":"source"},
@@ -160,7 +154,7 @@ HWPH.put("a/2597",
   {"id":2686,"lemma":"Repräsentation","tf":2},
   {"id":1904,"lemma":"Mechanismus, auslösender","tf":2}
  ],
- "see_also":[],
+ "see_also":[{"id":95,"lemma":"Algebra"},{"id":247,"lemma":"Arithmetik"},{"id":3670,"lemma":"Zahl; Zählen"}],
  "groups":[
   {"id":19,"name":"Kulturgeschichte und Kulturtheorie","label":"Rechnen II (kult.)"},
   {"id":24,"name":"Mathematik","label":"Rechnen I (math.)"}

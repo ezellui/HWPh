@@ -17,7 +17,11 @@ HWPH.put("a/462",
  "next":{"id":463,"lemma":"Cartesianismus","band":"1","col":969},
  "backlinks":[],
  "outlinks":[],
- "register":[{"term":"Umkehr","qualifier":"","band":null,"col":null}],
+ "register":[
+  {"term":"poenitentia","qualifier":"","band":null,"col":null},
+  {"term":"Umkehr","qualifier":"","band":null,"col":null},
+  {"term":"μετάνοια","qualifier":"","band":null,"col":null}
+ ],
  "persons":[
   {"id":4,"name":"G. W. F. Hegel","b":1,"n":0,"l":0,"editor":0,"role":"source"},
   {"id":22,"name":"M. Luther","b":1,"n":0,"l":0,"editor":0,"role":"source"},
